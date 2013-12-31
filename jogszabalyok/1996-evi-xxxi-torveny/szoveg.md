@@ -28,7 +28,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 (4) A hivatásos tűzoltóságok, az önkormányzati és a létesítményi tűzoltóságok és az önkéntes tűzoltó egyesületek a tűzvédelmi és műszaki mentési feladataik ellátása során kötelesek egymással együttműködni.
 
-3. § A hivatásos tűzoltóság, az önkormányzati és a létesítményi tűzoltóság (a továbbiakban együtt: tűzoltóság) a tűz oltása és a műszaki mentés érdekében a személyes szabadságra, a magánlakás sérthetetlenségére és a tulajdonra vonatkozó alkotmányos jogokat – az e törvényben meghatározottak szerint – olyan mértékben korlátozhatja, amely arányban áll az élet, a testi épség és anyagi javak védelmével.
+3. § A hivatásos tűzoltóság, az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a beavatkozó önkéntes tűzoltó egyesület (a továbbiakban együtt: tűzoltóság) a tűz oltása és a műszaki mentés érdekében a személyes szabadságra, a magánlakás sérthetetlenségére és a tulajdonra vonatkozó alkotmányos jogokat – az e törvényben meghatározottak szerint – olyan mértékben korlátozhatja, amely arányban áll az élet, a testi épség és anyagi javak védelmével.
 
 3/A. § (1) Az Országos Tűzvédelmi Szabályzat meghatározza az épületek, építmények létesítési és használati, valamint a tűzoltóságok beavatkozásával kapcsolatos tűzvédelmi követelményeket, az elérendő biztonsági szintet.
 

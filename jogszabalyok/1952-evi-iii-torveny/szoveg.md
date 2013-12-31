@@ -3856,7 +3856,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### XXVIII. Fejezet
 
-394/B. § (1) A 2013. január 1. napját követően indult polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – 2013. január 1. és 2014. június 30. napja között a (2)–(9) bekezdésben foglalt rendelkezéseket is alkalmazni kell.
+394/B. § (1) A 2013. január 1. napját követően indult polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – 2013. január 1. és 2015. június 30. napja között a (2)–(9) bekezdésben foglalt rendelkezéseket is alkalmazni kell.
 
 (2) A fél, illetve képviselője a törvényszék elsőfokú hatáskörébe tartozó ügyben – a (3) és (4) bekezdésben foglalt kivétellel – beadványát és mellékletét választása szerint elektronikus úton is benyújthatja, ebben az esetben az elsőfokú eljárás folyamán a bírósággal a kapcsolatot elektronikus úton kell tartania és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére. A beadvány és melléklete elektronikus úton való benyújtását az elektronikus úton való kapcsolattartás vállalásának kell tekinteni.
 
@@ -3874,7 +3874,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (9) A papír alapú kapcsolattartásra való áttérés iránti kérelem elutasítása esetén azonos okból ismételten áttérés iránti kérelmet nem lehet benyújtani, az ennek ellenére benyújtott áttérés iránti kérelmet a bíróság érdemi vizsgálat nélkül elutasítja. Ha a jogi képviselő nélkül eljáró fél nyilvánvalóan alaptalanul terjeszt elő áttérés iránti kérelmet, őt az áttérést megtagadó határozatban pénzbírsággal (120. §) lehet sújtani.
 
-394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2014. július 1. napjától a következő rendelkezéseket kell alkalmazni:
+394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2015. július 1. napjától a következő rendelkezéseket kell alkalmazni:
 
 - a) a vállalkozás a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
 - b) ha a vállalkozás az eljárásban alperesként (illetve kötelezettként, adósként) vesz részt, részére a bíróság elektronikusan kézbesít, és a vállalkozás a beadványait, okirati bizonyítékait kizárólag elektronikusan nyújthatja be;
@@ -3886,7 +3886,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Elektronikus kommunikáció a szakértővel
 
-394/D. § (1) E § rendelkezéseit 2014. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2014. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
+394/D. § (1) E § rendelkezéseit 2015. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2015. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzékbe bejelentette, hogy az elektronikus kapcsolattartást vállalja, erre szolgáló elérhetőségét az Országos Bírósági Hivatal részére meg kell küldenie, és arról is értesítenie kell az Országos Bírósági Hivatalt, hogy a továbbiakban nem vállalja az elektronikus kapcsolattartást.
 
@@ -3902,12 +3902,12 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációja
 
-394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartására 2011. január 1. napja és 2014. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartására 2011. január 1. napja és 2015. június 30. napja között a következő rendelkezéseket kell alkalmazni:
 
 - a) a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti,
 - b) az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszolhat a megkeresésre.
 
-(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása során 2014. július 1. napját követően úgy kell eljárni, hogy a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
+(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása során 2015. július 1. napját követően úgy kell eljárni, hogy a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
 
 ### Az elektronikus kommunikáció szabályai
 

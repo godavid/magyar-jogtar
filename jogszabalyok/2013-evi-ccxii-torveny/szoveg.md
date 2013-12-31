@@ -92,7 +92,7 @@ pontjában meghatározott feltételeknek, függetlenül attól, hogy az a)–e) 
 
 52. § (1) A Földforgalmi törvény 49. § (1) bekezdése szerinti egységes okiratba foglalt haszonbérleti szerződés alatt – az e törvényben meghatározott esetek kivételével – olyan szerződést kell érteni, amely a feleknek a szerződés létrejöttére irányuló nyilatkozatait, a szerződés lényeges tartalmi elemeit, továbbá a felek által meghatározott valamennyi kikötést, feltételt magában foglalja. E bekezdésben foglaltakat kell alkalmazni a 65. § szerinti egységes okiratba foglalt alhaszonbérleti szerződésre és a X. Fejezet szerinti egységes okiratba foglalt használati megosztásról szóló megállapodásra és földhasználati szerződésre is.
 
-(2) 2014. december 31-ig a haszonbérbe adó az egységes okiratba foglalt haszonbérleti szerződés helyett az általa elfogadott haszonbérleti ajánlatot is közölheti az előhaszonbérletre jogosultakkal a Földforgalmi törvény 49. § (1) bekezdésében meghatározottak szerint, feltéve, hogy az tartalmazza a szerződés lényeges tartalmi elemeit, továbbá a haszonbérbeadó és az ajánlattevő által meghatározott valamennyi kikötést, feltételt.
+(2) 2013. december 31-ig a haszonbérbe adó az egységes okiratba foglalt haszonbérleti szerződés helyett az általa elfogadott haszonbérleti ajánlatot is közölheti az előhaszonbérletre jogosultakkal a Földforgalmi törvény 49. § (1) bekezdésében meghatározottak szerint, feltéve, hogy az tartalmazza a szerződés lényeges tartalmi elemeit, továbbá a haszonbérbeadó és az ajánlattevő által meghatározott valamennyi kikötést, feltételt.
 
 53. § (1) Az egységes okiratba foglalt haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal a Földforgalmi törvény 49. § (1) bekezdésében meghatározott módon történő közlése során a szerződést három eredeti példányban kell benyújtani a föld fekvése szerint illetékes jegyzőhöz.
 
@@ -193,7 +193,7 @@ pontjában meghatározott feltételeknek, függetlenül attól, hogy az a)–e) 
 
 (6) A mezőgazdasági igazgatási szerv a (4) bekezdés szerinti adatokat a nyilvántartásból való törlés évét követő ötödik év végéig jogosult kezelni.
 
-(7) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti nyilvántartásban lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
+(7) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti nyilvántartásban lévő adatokat a földhivatali információs rendszerben kezeli.
 
 ### XV. Fejezet — A HELYI FÖLDBIZOTTSÁG
 
@@ -230,13 +230,13 @@ rendeletben állapítsa meg.
 
 (2) Az 1. §, a 3–5. §, az 52–56. §, a 100. §, a 104. §, a 108–119. §, a 120. § (3) bekezdése, a 122. §, a 123. §, a 126. § (1) bekezdés a), i), m) és o) pontja, a 128–130. §, a 135. § (4) bekezdése, a 136. §, a 137. §, a 139. §, a 140. § (1) bekezdése, a 141. § (1), (2) és (5) bekezdése, a 142. § (1)–(3) és (5)–(8) bekezdése, a 143–145. §, valamint a 147. § 2013. december 15-én lép hatályba.
 
-(3) A 6–7. §, a 45–51. §, az 57–99. §, a 102. § (1) és (2) bekezdése, a 126. § (1) bekezdés c), h) és j) pontja, a 131. §, a 133. § (1) bekezdése, valamint a 138. § 2014. január 1-jén lép hatályba.
+(3) A 6–7. §, a 45–51. §, az 57–99. §, a 102. § (1) és (2) bekezdése, a 126. § (1) bekezdés c), h) és j) pontja, a 130/A. §, a 131. §, a 133. § (1) bekezdése, valamint a 138. § 2014. január 1-jén lép hatályba.
 
 (4) A 16–20. §, a 101. §, valamint a 126. § (1) bekezdés d) és e) pontja 2014. március 1-jén lép hatályba.
 
 (5) A 2. §, a 22–26. §, valamint a 126. § (1) bekezdés g) pontja 2014. március 15-én lép hatályba.
 
-(6) A 8–15. §, a 21. §, a 27–44. §, a 102. § (3) és (4) bekezdése, a 103. §, a 120. § (1)–(2) és (4) bekezdése, a 121. §, a 122. §, a 124. §, a 125. §, a 126. § (1) bekezdés b), f), k), l) és n) pontja és (2) bekezdése, a 127. §, a 132. §, a 133. § (2) bekezdése, a 134. §, a 135. § (1)–(3) és (5)–(9) bekezdése, a 140. § (2) bekezdése, a 141. § (3) és (4) bekezdése, valamint a 146. § 2014. május 1-jén lép hatályba.
+(6) A 8–15. §, a 21. §, a 27–44. §, a 102. § (3) és (4) bekezdése, a 103. §, a 120. § (1)–(2) és (4) bekezdése, a 121. §, a 124. §, a 125. §, a 126. § (1) bekezdés b), f), k), l) és n) pontja és (2) bekezdése, a 127. §, a 132. §, a 133. § (2) bekezdése, a 134. §, a 135. § (1)–(3) és (5)–(9) bekezdése, a 140. § (2) bekezdése, a 141. § (3) és (4) bekezdése, valamint a 146. § 2014. május 1-jén lép hatályba.
 
 (7) A 142. § (4) bekezdése 2015. január 1-jén lép hatályba.
 
@@ -255,7 +255,9 @@ rendeletben állapítsa meg.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
-108. § A 2014. április 30-án fennálló, határozatlan időre vagy 2014. április 30-a után lejáró, határozott időtartamra nem közeli hozzátartozók között szerződéssel alapított haszonélvezeti jog 2014. május 1-jén a törvény erejénél fogva megszűnik.
+108. § (1) A 2014. április 30-án fennálló, határozatlan időre vagy 2014. április 30-a után lejáró, határozott időtartamra nem közeli hozzátartozók között szerződéssel alapított haszonélvezeti jog 2014. május 1-jén a törvény erejénél fogva megszűnik.
+
+(2) Az (1) bekezdés szerinti haszonélvezeti jog jogosultja által a föld használati jogosultságának átengedéséről szóló szerződés 2014. szeptember 1-jén a törvény erejénél fogva megszűnik.
 
 109. § A közös tulajdonban álló földre a 2013. december 31-ig megkötött haszonbérleti szerződés esetében a 60. § (1) bekezdésében foglalt felmondási jog akkor illeti meg a haszonbérbeadót, illetve annak jogutódját, ha a haszonbérleti szerződés fennállása alatt a közös tulajdon megszüntetésére a földrendező és földkiadó bizottságokról szóló törvény szabályai szerint került sor, és a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
 
@@ -382,6 +384,8 @@ rendeletben állapítsa meg.
 #### 31. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
 130. §
+
+130/A. §
 
 #### 32. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 

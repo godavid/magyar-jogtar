@@ -33,7 +33,7 @@ szöveg lép.
 
 26. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2013. november 1-jén lép hatályba.
 
-(2) Az 1. §, a 4. §, az 5. §, a 10. §, a 11. § (3) bekezdése és a 24. § i) pontja 2014. január 1-jén lép hatályba.
+(2) Az 1. §, a 4. §, az 5. §, a 10. §, a 11. § (3) bekezdése és a 24. § i) pontja 2015. január 1-jén lép hatályba.
 
 (3) A 17. § 2015. január 1-jén lép hatályba.
 

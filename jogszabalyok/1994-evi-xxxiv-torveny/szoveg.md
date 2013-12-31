@@ -47,9 +47,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (4) A rendőrség külön törvény, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel, fellép a nemzetközi bűnözés ellen. Nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján – rendészeti feladatai ellátása során – magyar rendőr külföldön, rendőrségi vagy határrendészeti feladatokat ellátó külföldi szerv tagja Magyarország területén törvényben, illetve nemzetközi szerződésben meghatározott rendőrségi jogosítványokat gyakorolhat.
 
-2/A. §
+#### 2/A. §
 
-3. §
+#### 3. §
 
 ### A rendőrség szervezete és irányítása
 
@@ -130,7 +130,11 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (3) A Testület tagjának olyan, büntetlen előéletű, az országgyűlési képviselők választásán választható személy választható meg, aki jogi végzettséggel és az alapvető jogok védelme területén kiemelkedő tapasztalatokkal rendelkezik, és külön törvény szerinti nemzetbiztonsági ellenőrzése megtörtént.
 
-(4) Nem választható meg a testület tagjává az, aki a megválasztás időpontjában vagy az azt megelőző két évben állami vezető, polgármester, párt alkalmazottja vagy tisztségviselője, illetve a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
+(4) Nem választható meg a testület tagjává az, aki
+
+- a) a megválasztás időpontjában párt alkalmazottja vagy tisztségviselője,
+- b) a megválasztás időpontjában vagy az azt megelőző két évben állami vezető, polgármester,
+- c) a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
 
 (5) A Testület tagjának megbízatása a megválasztással keletkezik és hat évre szól. A Testület tagja újraválasztható.
 
@@ -367,7 +371,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (2) Több lehetséges és alkalmas rendőri intézkedés, illetőleg kényszerítő eszköz közül azt kell választani, amely az eredményesség biztosítása mellett az intézkedéssel érintettre a legkisebb korlátozással, sérüléssel vagy károkozással jár.
 
-### A kényszerítő eszközök alkalmazásánakkövetelményei
+### A kényszerítő eszközök alkalmazásának
+
+követelményei
 
 16. § (1) A rendőr kényszerítő eszközt csak a törvényben meghatározott feltételek fennállása esetén, az arányosság elvének figyelemben tartásával alkalmazhat úgy, hogy az nem okozhat aránytalan sérelmet az intézkedés alá vontnak. Nincs helye a kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört, és a rendőri intézkedés eredményessége enélkül is biztosítható.
 
@@ -420,7 +426,7 @@ igazolja.
 
 22. § A rendőr szolgálati fegyver viselésére jogosult. A szolgálati fegyver viselésével és tárolásával kapcsolatos szabályokat külön jogszabály állapítja meg.
 
-23. §
+#### 23. §
 
 ### A rendőrség segítségnyújtási kötelezettsége
 
@@ -574,11 +580,11 @@ igazolja.
 
 (2) A Rendőrség az (1) bekezdés szerinti ellenőrzések lefolytatása céljából a vízumbélyeg sorszámának és a vízumbirtokos ujjnyomatának együttes ellenőrzésével is végezhet keresést a Vízuminformációs Rendszerben.
 
-35/C. §
+#### 35/C. §
 
-36. §
+#### 36. §
 
-36/A. §
+#### 36/A. §
 
 ### Biztonsági intézkedés
 
@@ -596,7 +602,9 @@ igazolja.
 
 (2) A rendőrség azt a feltételes szabadságra bocsátott elítéltet, illetve a javítóintézetből ideiglenesen elbocsátottat, akit pártfogó felügyelet alá helyeztek, ha a pártfogolt a hatóság elől elrejtőzött vagy elrejtőzésétől alaposan tartani kell, 72 óra időtartamra őrizetbe veheti.
 
-### Intézkedés magánlakásban és közterületneknem minősülő egyéb helyen
+### Intézkedés magánlakásban és közterületnek
+
+nem minősülő egyéb helyen
 
 39. § (1) A rendőr magánlakásba bebocsátás vagy hatósági határozat nélkül nem léphet be, illetve nem hatolhat be, kivéve
 
@@ -623,7 +631,9 @@ igazolja.
 
 41. § A rendőrség a büntetőeljárásban vagy körözött személy felkutatásakor az ügyben érintettet, ha előzetesen írásban hozzájárul, illetve gyermekkorú vagy fiatalkorú esetében törvényes képviselőjének írásos hozzájárulásával, műszeres (poligráfos) vizsgálat alkalmazásával is ellenőrizheti. Fiatalkorú gyanúsított esetében a műszeres (poligráfos) vizsgálatot alkalmazni nem lehet.
 
-### Képfelvétel, hangfelvétel, kép- és hangfelvételkészítése
+### Képfelvétel, hangfelvétel, kép- és hangfelvétel
+
+készítése
 
 42. § (1) A rendőrség a rendőri intézkedéssel, illetve az ellátott szolgálati feladattal összefüggésben az intézkedéssel érintett személyről, a környezetéről, illetőleg a rendőri intézkedés szempontjából lényeges körülményről, tárgyról képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban: felvétel) készíthet.
 
@@ -700,7 +710,9 @@ törölni kell.
 
 (3) E § alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 
-### Személy-és létesítménybiztosítási intézkedés
+### Személy-
+
+és létesítménybiztosítási intézkedés
 
 46. § (1) A rendőrség, valamint a rendőr a védett személy [1. § (2) bek. g) pont] biztonsága érdekében a 13. és a 30. §-ban meghatározottakon túlmenően
 
@@ -1036,9 +1048,11 @@ törölni kell.
 
 (9) Az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére a 67. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-### Fedővállalkozás létrehozása, fenntartásaés megszüntetése
+### Fedővállalkozás létrehozása, fenntartása
 
-65. §
+és megszüntetése
+
+#### 65. §
 
 ### Az együttműködők díjazása
 
@@ -1054,7 +1068,9 @@ törölni kell.
 
 (3) Nem köthető megállapodás azzal a személlyel, aki olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta.
 
-### A feljelentés elutasítása vagy a nyomozásmegszüntetése a fedett nyomozóval szemben
+### A feljelentés elutasítása vagy a nyomozás
+
+megszüntetése a fedett nyomozóval szemben
 
 67/A. § (1) Bűncselekmény megalapozott gyanúja esetén az ügyész a feljelentést határozattal elutasítja, vagy a nyomozást megszünteti, ha a 64. § (1) bekezdésének f) pontja szerint a bűnszervezetbe beépült fedett nyomozó által a szolgálati feladata teljesítése közben elkövetett bűncselekmény bűnüldözési érdeket szolgál, és az jelentősen meghaladja az állam büntetőjogi igényének érvényesítéséhez fűződő érdeket.
 
@@ -1077,7 +1093,9 @@ törölni kell.
 
 (3) A biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – a rendőrség és a tárgykör szerint illetékes szervezetek külön megállapodásban rögzíthetik.
 
-### A titkos információgyűjtéssel kapcsolatossajátos gazdálkodási szabályok
+### A titkos információgyűjtéssel kapcsolatos
+
+sajátos gazdálkodási szabályok
 
 68/A. § (1) A rendőrség költségvetésében az alaptevékenységgel összefüggő speciális működési kiadásaik fedezésére elkülönített előirányzatot szerepeltethetnek. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
 
@@ -1103,7 +1121,7 @@ törölni kell.
 
 (3) A rendőrség a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az illetékes szervezetekkel külön megállapodásban rögzítik.
 
-68/E. §
+#### 68/E. §
 
 ### Értelmező rendelkezések
 
@@ -1182,7 +1200,7 @@ felderítése során.
 
 74. § A külön engedélyhez kötött titkos információgyűjtés során szerzett és rögzített adatokat az engedélyező bíró bármikor megismerheti.
 
-75. §
+#### 75. §
 
 ### VIII. Fejezet — A RENDŐRSÉG ADATKEZELÉSE
 
@@ -1193,7 +1211,9 @@ felderítése során.
 - 1. rendőrségi adat: a rendőrség által e törvény hatálya alá tartozó tevékenység során kezelt személyes adat,
 - 2. rendőrségi adatkezelő szerv: az a rendőrségi szervezeti egység, amely az e törvény hatálya alá tartozó adatok tekintetében – törvény, a végrehajtására kiadott jogszabályok, valamint a miniszter, az országos rendőrfőkapitány, valamint a főigazgatók intézkedése figyelembevételével – az adatkezelésre vonatkozó döntéseket meghozza.
 
-### A rendőrségi adatkezelés és adatfeldolgozásáltalános szabályai
+### A rendőrségi adatkezelés és adatfeldolgozás
+
+általános szabályai
 
 77. § (1) A rendőrség feladatai ellátása során
 
@@ -1234,7 +1254,9 @@ kezeli.
 
 (4) A (2) bekezdés a) pontjában meghatározott jogok gyakorlásának megtagadását vagy korlátozását írásban indokolni kell. Az indokolás csak akkor mellőzhető, ha azt e törvény lehetővé teszi. Az érintett a korlátozás vagy az indokolás mellőzésének indokolatlanságára tekintettel a Nemzeti Adatvédelmi és Információszabadság Hatósághoz vagy a bírósághoz fordulhat. Erről az érintettet tájékoztatni kell.
 
-### A rendőrségi feladatok ellátásához szükségesadatok köre
+### A rendőrségi feladatok ellátásához szükséges
+
+adatok köre
 
 81. § A rendőrség az intézkedéssel érintett természetes személy személyazonosító adatait – nem magyar állampolgár esetében állampolgárságát is –, lakcímét, értesítési címét, az üggyel összefüggő adatait, továbbá a bűnüldözési célú adatkezelésekben a bűncselekményhez kapcsolódó kriminalisztikai jellegű adatokat kezeli. A Rendőrség törvény rendelkezése alapján azonosító kódokat használhat.
 
@@ -1353,7 +1375,7 @@ kezeli.
 - a) bűnüldözési adatkezeléseihez a személyi azonosítót az érintettől kérheti, annak használatával a személyi adat- és lakcímnyilvántartásból igényelheti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott adatokat, továbbá – ha a személyi azonosító használatának jogszabályban előírt feltételei e hatóságnál fennállnak – továbbíthatja más nyomozó hatóságnak,
 - b) az adóazonosító jelet – ha annak segítségével az adózással kapcsolatos adatok megismerése az adózással összefüggő büntetőeljárás megindítása vagy lefolytatása céljából szükséges – kérheti az érintettől, az adóhatóságtól, illetőleg más nyomozó hatóságtól.
 
-90/A. §
+#### 90/A. §
 
 91. § A bűnüldözési adatkezelés során a tényeken alapuló adatokat meg kell különböztetni a következtetésen, véleményen, elemzésen vagy becslésen alapuló adatoktól. A bűnüldözési adatok különböző fajtáit helyes és megbízható voltuk mértékére utaló jelzéssel kell ellátni. A jelzés módjának részletes szabályait a miniszter állapítja meg.
 
@@ -1656,9 +1678,9 @@ bírálja el.
 
 94. § A határőrség általános jogutódja a rendőrség.
 
-95. §
+#### 95. §
 
-96. §
+#### 96. §
 
 ### Értelmező rendelkezések
 
@@ -1683,9 +1705,9 @@ bírálja el.
 
 (2)
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
 ### Felhatalmazó rendelkezések
 
@@ -1742,7 +1764,7 @@ bírálja el.
 
 (4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 7/E. § (3) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.
 
-102. §
+#### 102. §
 
 ### Hatálybalépés
 
@@ -1793,18 +1815,20 @@ bírálja el.
 - r) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról,
 - s) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat.
 
-105. §
+#### 105. §
 
-106–107. §
+#### 106. §
 
-108. §
+#### 107. §
 
-109. §
+#### 108. §
 
-110. §
+#### 109. §
+
+#### 110. §
 
 111. § A külföldiek beutazásáról, magyarországi tartózkodásáról és bevándorlásáról szóló 1993. évi LXXXVI. törvény 37. §-a a következő (3) és (4) bekezdéssel egészül ki:
 
-,,(3) Az idegenrendészeti őrizet büntetés-végrehajtási intézetben történő végrehajtására a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet elzárásra vonatkozó szabályait kell megfelelően alkalmazni.
+„,,(3) Az idegenrendészeti őrizet büntetés-végrehajtási intézetben történő végrehajtására a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet elzárásra vonatkozó szabályait kell megfelelően alkalmazni.
 
-(4) Felhatalmazást kap az igazságügy-miniszter, hogy az érdekelt miniszterekkel egyetértésben az idegenrendészeti őrizet büntetés-végrehajtási intézetben történő végrehajtásának részletes szabályait rendelettel határozza meg.''
+(4) Felhatalmazást kap az igazságügy-miniszter, hogy az érdekelt miniszterekkel egyetértésben az idegenrendészeti őrizet büntetés-végrehajtási intézetben történő végrehajtásának részletes szabályait rendelettel határozza meg.''”

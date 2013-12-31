@@ -286,7 +286,7 @@ c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, 
 
 113. § A Cnytv. 108. §-a a következő szöveggel lép hatályba:
 
-„108. § (1) 2014. július 1. napján az állami adó- és vámhatóság és a Központi Statisztikai Hivatal a nyilvántartásában szereplő szervezetek elnevezésének, székhelyének, képviselője nevének, bírósági nyilvántartási számának és adószámának, illetve statisztikai számjelének feltüntetésével az informatikai rendszer útján adatot szolgáltat a bíróság részére. A bíróság az állami adó- és vámhatóság, illetve a Központi Statisztikai Hivatal tájékoztatása alapján az adószámot, statisztikai számjelet hivatalból, végzés meghozatala nélkül, elektronikus úton jegyzi be a nyilvántartásba.
+„108. § (1) 2015. január 1. napján az állami adó- és vámhatóság és a Központi Statisztikai Hivatal a nyilvántartásában szereplő szervezetek elnevezésének, székhelyének, képviselője nevének, bírósági nyilvántartási számának és adószámának, illetve statisztikai számjelének feltüntetésével az informatikai rendszer útján adatot szolgáltat a bíróság részére. A bíróság az állami adó- és vámhatóság, illetve a Központi Statisztikai Hivatal tájékoztatása alapján az adószámot, statisztikai számjelet hivatalból, végzés meghozatala nélkül, elektronikus úton jegyzi be a nyilvántartásba.
 
 (2) A bíróság az (1) bekezdés szerinti adatszolgáltatást követően az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdésében meghatározott adatok közül az állami adó- és vámhatóság részére az informatikai rendszer útján elektronikus úton átadja azon szervezeteknek az általa nyilvántartott adatait, amely szervezetekről az állami adó- és vámhatóság az (1) bekezdés szerint adatot szolgáltatott a részére.”
 
@@ -343,7 +343,7 @@ lép.
 
 #### 40. Záró rendelkezések
 
-130. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba, és 2014. július 2-án hatályát veszti.
+130. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba, és 2015. január 2-án hatályát veszti.
 
 (2) A 11. §, a 16. § a) pontja, a 61. § b) pontja, a 63. § (1) és (3) bekezdése és a 85. § 2012. augusztus 1. napján lép hatályba.
 
@@ -355,7 +355,7 @@ lép.
 
 (6) A 22. §, 23. §, 25. §, 29. § és a 36. § 2013. július 1. napján lép hatályba.
 
-(7) A 76. §, a 88. § (2) bekezdése, a 92. § (2) bekezdése, a 94. §, a 95. §, a 101. §, a 105. §, és a 116. § b), d), e), f), h) és i) pontja 2014. július 1. napján lép hatályba.
+(7) A 76. §, a 88. § (2) bekezdése, a 92. § (2) bekezdése, a 94. §, a 95. §, a 101. §, a 105. §, és a 116. § b), d), e), f), h) és i) pontja 2015. január 1. napján lép hatályba.
 
 131. § E törvény
 

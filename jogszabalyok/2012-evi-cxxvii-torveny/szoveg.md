@@ -29,16 +29,7 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 - d) állatkórház: állatorvosi végzettséggel rendelkező személy által irányított olyan állatorvosi szakrendelő, amelyben szervezett és tervszerű formában biztosított az állatok gyógykezelés céljából történő elhelyezése, ápolása, bentlakásos utókezelése és folyamatos állat-egészségügyi felügyelete;
 - e) állatorvosi rendelő: állatorvosi végzettséggel rendelkező személy által szakmailag irányított, az állatorvosi tevékenység végzésére alkalmas helyiségekből álló állat-egészségügyi szolgáltató intézmény;
 - f) állatorvosi szakrendelő (rendelőintézet): több állatorvost foglalkoztató olyan állatorvosi rendelő, ahol az állatok szakirányú speciális vizsgálata, sürgősségi, szakosított és egyéb speciális szakmai követelményeket igénylő gyógykezelése is folyamatosan – előre meghatározott, tervezett rendelési időben – biztosított;
-- g) nagy létszámú állattartó telep: olyan állattartó telep, amelyen az elhelyezhető állatok száma állatfajonként legalább
-  - ga) harminc ló,
-  - gb) ötven szarvasmarha,
-  - gc) kétszáz juh,
-  - gd) kétszáz kecske,
-  - ge) száz sertés,
-  - gf) kétezer broiler baromfi,
-  - gg) ötszáz kifejlett baromfi,
-  - gh) ötven strucc vagy
-  - gi) ötven anyanyúl és szaporulata;
+- g) nagy létszámú állattartó telep: olyan állat-egészségügyi felügyelet alá tartozó hely, amely jogszabályban meghatározott létszámú állat tartására alkalmas;
 - h) szolgáltató állatorvos: állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos.
 
 (2) E törvényben szereplő iratok kézbesítésére a hivatalos iratok kézbesítésére vonatkozó általános szabályokat kell alkalmazni.
@@ -716,7 +707,7 @@ fedezi.
 
 45. § (1) Állatorvosi asszisztensi tevékenységet az a személy végezhet, aki
 
-- a) akkreditált állatorvosi asszisztensi, illetve azzal egyenértékűként elismert képzettséggel rendelkezik,
+- a) állatorvosi asszisztensi, illetve azzal egyenértékűként elismert képzettséggel rendelkezik,
 - b) szerepel az asszisztensi névjegyzékben,
 - c) praxisengedéllyel rendelkező állatorvos vagy állat-egészségügyi intézmény foglalkoztatottja, és
 - d) betartja a Kamara állatorvosi asszisztensekre vonatkozó szakmai irányelveinek rendelkezéseit.

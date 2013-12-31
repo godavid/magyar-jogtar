@@ -73,7 +73,9 @@ lép.
 
 #### 6. A Magyarország 2013. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2012. évi CXCVI. törvény módosítása
 
-9. §
+9. § A Magyarország 2013. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2012. évi CXCVI. törvény 25. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A 28. § 2015. január 1-jén lép hatályba.”
 
 ### II. Fejezet — A KÖZPONTI KÖLTSÉGVETÉSSEL ÖSSZEFÜGGŐ EGYES TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -145,7 +147,7 @@ lép.
 
 #### 22. Az önkormányzati segély kialakításával összefüggő törvénymódosításokról szóló2013. évi LXXV. törvény módosítása
 
-30. §
+30. § Az önkormányzati segély kialakításával összefüggő törvénymódosításokról szóló 2013. évi LXXV. törvény (a továbbiakban: Öst.) 19. § (2) bekezdésében az „1–4. §” szövegrész helyébe a „2–4. §” szöveg, a „14–17. §” szövegrész helyébe a „14–16. §” szöveg lép.
 
 #### 23. Az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény módosítása
 
@@ -305,9 +307,11 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 
 34. §
 
-35. §
+35. § Nem lép hatályba az Öst 1. §-a és 17. §-a.
 
-36. §
+36. § (1) Nem lép hatályba az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvény (a továbbiakban Mód. tv.) 14. § (4) és (10) bekezdése és 17. § (3) bekezdése.
+
+(2) Hatályát veszti a Mód. tv. 37. § (7) bekezdésében a „(4) bekezdése,” szövegrész, az „és (10)” szövegrész, és a „ , valamint a 17. § (3) bekezdése” szövegrész.
 
 #### 27. A Budapesti Operettszínház állami fenntartásba vétele
 

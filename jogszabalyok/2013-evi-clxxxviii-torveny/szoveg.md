@@ -22,7 +22,7 @@ Az Országgyűlés – összhangban az Alaptörvény fogyasztók érdekeit véd�
 
 18. § (1)
 
-(2)
+(2) Nem lép hatályba az egyes törvényeknek a rezsicsökkentés végrehajtásához szükséges módosításáról szóló 2013. évi CLXVII. törvény 5. § (7) bekezdés a) pontja.
 
 ### 1. melléklet a 2013. évi CLXXXVIII. törvényhez
 
@@ -124,7 +124,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.9.1. Ha a részszámla a felhasználó havonként történő közlése alapján kerül kiállításra, a számla harmadik oldalán a tájékoztató adatok között a következő leolvasás várható időpontjával együtt a következő diktálási időszakot is fel kell tüntetni.
 - 4.9.2. Ha a részszámla a felhasználó havonként történő közlése alapján kerül kiállításra, az „Utolsó elszámolt mérőállás leolvasásának dátuma” és az „Utolsó elszámolt mérőállás” adatokat nem kell külön feltüntetni.
 - 4.10. Egyetemes szolgáltatói árszabás: ha az elszámolási időszakban különböző árszabások alkalmazására kerül sor, az egyes árszabásokat külön sorban kell feltüntetni.
-- 4.11. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző rendszerhasználati díjak alkalmazására kerül sor, az egyes díjakat külön sorban kell feltüntetni.
+- 4.11. Rendszerhasználati díjak vagy díjelemek (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző rendszerhasználati díjak vagy díjelemek alkalmazására kerül sor, az egyes díjakat, díjelemeket külön sorban kell feltüntetni a díjelemek megnevezésével.
 - 4.12. Elosztói alapdíj: ha az elszámolási időszakban különböző elosztói alapdíjak alkalmazására kerül sor, az egyes alapdíjakat külön sorban kell feltüntetni.
 - 4.13. Amennyiben a 4.10-4.11. pontban foglaltak szerint különböző árszabások, díjak kerülnek alkalmazásra, az érvényességi időszaknak megfelelően, dátum szerint növekvő sorrendben a mérőállás soron is azonos időszaki elhatárolással kell feltüntetni a fogyasztásmennyiséget.
 - 4.14. Teljesítés kelte: Az általános forgalmi adóról szóló törvény rendelkezései alapján nem kell feltüntetni, ha az megegyezik a számla kibocsátásának keltével. 4. 15. Az egyes tételek szerinti sorok feltüntetése kizárólag akkor szükséges, ha az adott tételhez érték tartozik.
@@ -157,13 +157,15 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-| Szerződéses folyószámla:: | Teljesítés kelte |
-| --- | --- |
-| Számla sorszáma:: | Számla kelte |
-|  | Fizetési mód: |
-|  | A szolgáltatás megnevezése: |
-|  | Villamos energia egyetemes szolgáltatás |
-|  | és villamosenergia-elosztás |
+Szerződéses folyószámla: Teljesítés kelte:
+
+Számla sorszáma: Számla kelte:
+
+Fizetési mód: A szolgáltatás megnevezése:
+
+Villamos energia egyetemes szolgáltatás
+
+és villamosenergia-elosztás
 
 SZÁMLARÉSZLETEZŐ
 
@@ -208,7 +210,7 @@ Tájékoztató adatok:
 
 * Az elosztói alapdíj fogyasztástól függetlenül fizetendő
 
-** A rezsicsökkentés a lakossági fogyasztókat a bruttó számlaérték alapulvételével illeti meg
+** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra.
 
 Következő leolvasás várható időpontja:
 
@@ -218,23 +220,24 @@ A számla közvetített szolgáltatást tartalmaz.
 
 Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – elosztói ellenőrzés
 
-Számla sorszáma:
-
-Felhasználási hely:
-
-A következő részszámla becsült mennyisége:
-
-Energiafelhasználásának aránya (aktuális elszámolási időszak/azt megelőző elszámolási időszak):
-
-Az Ön energiafelhasználása az előző évhez képest (csökkent/nőtt/nem változott):
-
-Az Ön energiafelhasználása az átlagos lakossági felhasználáshoz képest:
-
-Az energia auditot, energetikai szolgáltatást végző szervezetek elérhetősége és a lakossági ügyfelek átlagfogyasztása a következő internetes honlapon található:
-
-Az elszámoló számlában elszámolt részszámlák sorszáma és a számla végösszege
-
-Sorszám: Számla végösszeg (Ft)
+| Számla sorszáma: |  |
+| --- | --- |
+|  |  |
+| Felhasználási hely: |  |
+|  |  |
+| A következő részszámla becsült mennyisége: |  |
+|  |  |
+| Energiafelhasználásának aránya (aktuális elszámolási időszak/azt megelőző elszámolási időszak): |  |
+|  |  |
+| Az Ön energiafelhasználása az előző évhez képest (csökkent/nőtt/nem változott): |  |
+|  |  |
+| Az Ön energiafelhasználása az átlagos lakossági felhasználáshoz képest: |  |
+|  |  |
+| Az energia auditot, energetikai szolgáltatást végző szervezetek elérhetősége és a lakossági ügyfelek átlagfogyasztása a következő internetes honlapon található: |  |
+|  |  |
+| Az elszámoló számlában elszámolt részszámlák sorszáma és a számla végösszege |  |
+| Sorszám: | Számla végösszeg (Ft) |
+|  |  |
 
 „
 
@@ -252,7 +255,7 @@ Sorszám: Számla végösszeg (Ft)
 - 4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. január 1-je óta: 2013. január 1-jét követően az 4.6. pont alapján számított megtakarítások összesen.
 - 4.8. Tájékoztató adatok: Ha a részszámla a felhasználó havonként történő közlése alapján kerül kiállításra, a számla harmadik oldalán a tájékoztató adatok között a következő leolvasás várható időpontjával együtt a következő diktálási időszakot is fel kell tüntetni.
 - 4.9. Egyetemes szolgáltatói árszabás: ha az elszámolási időszakban különböző árszabások alkalmazására kerül sor, az egyes árszabásokat külön sorban kell feltüntetni.
-- 4.10. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző tarifák alkalmazására kerül sor, az egyes díjakat külön sorban kell feltüntetni.
+- 4.10. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző díjak vagy díjelemek alkalmazására kerül sor, az egyes díjakat, díjelemeket külön sorban kell feltüntetni a díjelemek megnevezésével.
 - 4.11. Elosztói alapdíj: ha az elszámolási időszakban különböző tarifák alkalmazására kerül sor, az egyes alapdíjakat külön sorban kell feltüntetni.
 - 4.12. Amennyiben az 4.9.-4.10. pontban foglaltak szerint különböző árszabások, díjak kerülnek alkalmazásra, az érvényességi időszaknak megfelelően, dátum szerint növekvő sorrendben a mérőállás soron is azonos időszaki elhatárolással kell feltüntetni a fogyasztásmennyiséget.
 - 4.13. Teljesítés kelte: Az általános forgalmi adóról szóló törvény rendelkezései alapján nem kell feltüntetni, ha az megegyezik a számla kibocsátásának keltével. 4. 14. Az egyes tételek szerinti sorok feltüntetése kizárólag akkor szükséges, ha az adott tételhez érték tartozik.
@@ -286,37 +289,39 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-| Szerződéses folyószámla: | Teljesítés kelte: |
-| --- | --- |
-| Számla sorszáma: | Számla kelte: |
-| Fizetési mód: | A szolgáltatás megnevezése: |
-|  | Földgáz egyetemes szolgáltatás |
-|  | és földgázelosztás |
+Szerződéses folyószámla: Teljesítés kelte:
+
+Számla sorszáma: Számla kelte:
+
+Fizetési mód: A szolgáltatás megnevezése:
+
+Földgáz egyetemes szolgáltatás és földgázelosztás
 
 | SZÁMLARÉSZLETEZŐ |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Elszámolt mennyiség: MJ ( m3) Árszabás: Mérési pont azonosító: |  |  |  |  |  |  | Földgázelosztó: |  |  |  |  |
+| Elszámolt mennyiség: MJ ( m3) Árszabás: Mérési pont azonosító: |  |  |  |  |  | Földgázelosztó: |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás |  | LM | Fogyasztás (m3) | Korrekciós tényező |  | Korrigált mennyiség (m3) | Fűtőérték | Hőmennyiség |
-| (MJ/m3) | (MJ) |
+| Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (m3) |  | Korrekciós tényező | Korrigált mennyiség (m3) | Fűtőérték |  | Hőmennyiség |
+| (MJ/m3) |  | (MJ) |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Utolsó elszámolt mérőállás leolvasásának dátuma |  |  |  | Utolsó elszámolt mérőállás (m3) |  |  |  |
 |  |  |  |  |  |  |  |  |
 
-| Tétel megnevezése | Elszámolt időszak | Mennyiség | Mértékegység | Nettó egységár és mértékegysége | Nettó érték (Ft) | ÁFA(%) |  | Bruttó érték(Ft) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Földgázfogyasztás árkategóriák szerint |  |  |  |  |  |  |  |  |
-| Energiadíj összesen |  |  |  |  |  |  |  |  |
-| Alapdíj* |  |  |  |  |  |  |  |  |
-| Kerekítés |  |  |  |  |  |  |  |  |
-| Bruttó számlaérték összesen** |  |  |  |  |  |  |  |  |
-| Egyéb |  |  |  |  |  |  |  |  |
-| Fizetendő összeg összesen |  |  |  |  |  |  |  |  |
-| ÁFA összesítő (Ft) A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. |  |  |  |  |  |  |
+| Tétel megnevezése | Elszámolt időszak | Mennyiség | Mérték- egység | Nettó egységár és mértékegysége | Nettó érték (Ft) | ÁFA(%) | Bruttó érték(Ft) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Földgázfogyasztás árkategóriák szerint |  |  |  |  |  |  |  |
+| Energiadíj összesen |  |  |  |  |  |  |  |
+| Alapdíj* |  |  |  |  |  |  |  |
+| Nettó számlaérték összesen |  |  |  |  |  |  |  |
+| Kerekítés |  |  |  |  |  |  |  |
+| Bruttó számlaérték összesen** |  |  |  |  |  |  |  |
+| Egyéb |  |  |  |  |  |  |  |
+| Fizetendő összeg összesen |  |  |  |  |  |  |  |
 
-| Tájékoztató adatok: *Az alapdíj fogyasztástól függetlenül fizetendő ** A rezsicsökkentés a lakossági fogyasztókat a bruttó számlaérték alapulvételével illeti meg Következő leolvasás várható időpontja: Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – elosztói ellenőrzés A fogyasztásmennyiség számításának módja: elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3)” |
+| ÁFA összesítő (Ft) A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. |
 | --- |
+| Tájékoztató adatok: *Az alapdíj fogyasztástól függetlenül fizetendő ** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza Következő leolvasás várható időpontja: Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – elosztói ellenőrzés A fogyasztásmennyiség számításának módja: elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3) |
 
 4. Magyarázat
 
@@ -386,33 +391,38 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-| Szerződéses folyószámla: | Teljesítés kelte: |
-| --- | --- |
-| Számla sorszáma: | Számla kelte: |
-| Fizetési mód: | A szolgáltatás megnevezése: |
-|  | Földgáz egyetemes szolgáltatás és földgázelosztás |
+Szerződéses folyószámla: Teljesítés kelte:
 
-| SZÁMLARÉSZLETEZŐ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Elszámolt mennyiség: …… MJ (……….m3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Árszabás: Mérési pont azonosító: |  |  |  |  |  |  |  |  |  | Földgázelosztó: |  |  |  |  |  |  |
-| Mérő gyártási száma | Elszámolási időszak |  | Induló mérőállás |  |  | Záró mérőállás | LM | Fogyasztás |  |  | Korrekciós tényező |  | Korrigált mennyiség (m3) | Fűtőérték |  | Hőmennyiség |
-| (m3) |  |  | (MJ/m3) |  | (MJ) |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Tétel megnevezése |  | Elszámolt időszak |  |  | Mennyiség |  | Mérték- egység |  | Nettó egységár és mérték- egysége |  |  | Nettó érték (Ft) |  | ÁFA (%) |  | Bruttó érték (Ft) |
-| Földgázfogyasztás árkategóriák szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Energiadíj összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Részszámlákban elszámolt energiadíj |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fizetendő energiadíj összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alapdíj* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alapdíj összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Részszámlákban elszámolt alapdíj |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fizetendő alapdíj |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Kerekítés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Bruttó számlaérték összesen** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Egyéb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fizetendő összeg összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Számla sorszáma: Számla kelte:
+
+Fizetési mód: A szolgáltatás megnevezése:
+
+Földgáz egyetemes szolgáltatás és földgázelosztás
+
+| SZÁMLARÉSZLETEZŐ |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Elszámolt mennyiség: …… MJ (……….m3) |  |  |  |  |  |  |  |  |  |
+| Árszabás: Mérési pont azonosító: |  |  |  |  |  | Földgázelosztó: |  |  |  |
+| Mérő gyártási száma | Elszámolási időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás | Korrekciós tényező | Korrigált mennyiség (m3) | Fűtőérték | Hőmennyiség |
+| (m3) | (MJ/m3) | (MJ) |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+
+| Tétel megnevezése | Elszámolt időszak | Mennyiség | Mérték- egység | Nettó egységár és mérték- egysége | Nettó érték (Ft) | ÁFA(%) | Bruttó érték(Ft) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Földgázfogyasztás árkategóriák szerint |  |  |  |  |  |  |  |
+| Energiadíj összesen |  |  |  |  |  |  |  |
+| Részszámlákban elszámolt energiadíj |  |  |  |  |  |  |  |
+| Fizetendő energiadíj összesen |  |  |  |  |  |  |  |
+| Alapdíj* |  |  |  |  |  |  |  |
+| Alapdíj összesen |  |  |  |  |  |  |  |
+| Részszámlákban elszámolt alapdíj |  |  |  |  |  |  |  |
+| Fizetendő alapdíj összesen |  |  |  |  |  |  |  |
+| Nettó számlaérték összesen |  |  |  |  |  |  |  |
+| Kerekítés |  |  |  |  |  |  |  |
+| Bruttó számlaérték összesen** |  |  |  |  |  |  |  |
+| Egyéb |  |  |  |  |  |  |  |
+| Fizetendő összeg összesen |  |  |  |  |  |  |  |
 
 ÁFA összesítő (Ft)
 
@@ -422,7 +432,7 @@ Tájékoztató adatok:
 
 *Az alapdíj fogyasztástól függetlenül fizetendő
 
-** A rezsicsökkentés a lakossági fogyasztókat a bruttó számlaérték alapulvételével illeti meg
+** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra
 
 Következő leolvasás várható időpontja:
 
@@ -432,23 +442,24 @@ A fogyasztásmennyiség számításának módja:
 
 elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3)
 
-Számla sorszáma:
-
-Felhasználási hely:
-
-A következő részszámla becsült mennyisége:
-
-Energiafelhasználásának aránya (aktuális elszámolási időszak/azt megelőző elszámolási időszak):
-
-Az Ön energiafelhasználása az előző évhez képest (csökkent/nőtt/nem változott):
-
-Az Ön energiafelhasználása az átlagos lakossági felhasználáshoz képest:
-
-Az energia auditot, energetikai szolgáltatást végző szervezetek elérhetősége és a lakossági ügyfelek átlagfogyasztása a következő internetes honlapon található:
-
-Az elszámoló számlában elszámolt részszámlák sorszáma és a számla végösszege
-
-Sorszám: Számla végösszeg (Ft)
+| Számla sorszáma: |  |
+| --- | --- |
+|  |  |
+| Felhasználási hely: |  |
+|  |  |
+| A következő részszámla becsült mennyisége: |  |
+|  |  |
+| Energiafelhasználásának aránya (aktuális elszámolási időszak/azt megelőző elszámolási időszak): |  |
+|  |  |
+| Az Ön energiafelhasználása az előző évhez képest (csökkent/nőtt/nem változott): |  |
+|  |  |
+| Az Ön energiafelhasználása az átlagos lakossági felhasználáshoz képest: |  |
+|  |  |
+| Az energia auditot, energetikai szolgáltatást végző szervezetek elérhetősége és a lakossági ügyfelek átlagfogyasztása a következő internetes honlapon található: |  |
+|  |  |
+| Az elszámoló számlában elszámolt részszámlák sorszáma és a számla végösszege |  |
+| Sorszám: | Számla végösszeg (Ft) |
+|  |  |
 
 „
 
@@ -474,7 +485,7 @@ Sorszám: Számla végösszeg (Ft)
 #### A távhőszolgáltató által alkalmazandó közvetített szolgáltatást nem tartalmazó számlakép részszámla esetében
 
 - 1. A távhőszolgáltató a lakossági díjfizető és a lakossági felhasználó részére a részszámlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
-- 2. A részszámla első oldala
+- 2. A részszámla első oldala ”
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -485,44 +496,21 @@ Sorszám: Számla végösszeg (Ft)
 | Bankszámlaszáma: |  |
 |  |  |
 
-”
+- 3. A részszámla harmadik oldala: „oldalszám Vevő (Fizető) azonosító: Vevő (Fizető) neve: Vevő (Fizető) címe: Vevő (Fizető) adószáma: Szerződéses folyószámla: Teljesítés kelte: Számla sorszáma: Számla kelte: Fizetési mód: A szolgáltatás megnevezése: Távhőszolgáltatás SZÁMLARÉSZLETEZŐ Elszámolt fogyasztás:…….GJ Fűtési célú költségek Vízfelmelegítési célú költségek Hőközponti és épület felhasználási adatok A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: ** A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
 
-3. A részszámla harmadik oldala: „oldalszám
-
-Vevő (Fizető) azonosító:
-
-Vevő (Fizető) neve:
-
-Vevő (Fizető) címe:
-
-Vevő (Fizető) adószáma:
-
-Szerződéses folyószámla: Teljesítés kelte:
-
-Számla sorszáma: Számla kelte:
-
-Fizetési mód: A szolgáltatás megnevezése:
-
-Távhőszolgáltatás
-
-SZÁMLARÉSZLETEZŐ
-
-Elszámolt fogyasztás: …….GJ
-
-Fűtési célú költségek
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Fűtési díj (egytarifás) |  |  |  |  |  |  |  |
 | Alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Fűtési célú költségek összesen |  |  |  |  |  |  |  |
 
-Vízfelmelegítési célú költségek
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttódíj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttódíj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Vízfelmelegítési díj |  |  |  |  |  |  |  |
+| Alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Vízfelmelegítési célú költségek összesen |  |  |  |  |  |  |  |
 
@@ -533,18 +521,11 @@ Vízfelmelegítési célú költségek
 | ÁFA összesítő (Ft) |  |
 | Fizetendő összeg összesen (Ft) |  |
 
-Hőközponti és épület felhasználási adatok
-
 | Szolgáltatás helye és megnevezése | Fogyasztási időszak | Mérőazonosító | Mérőállás |  | Mennyiség és mértékegysége |
 | --- | --- | --- | --- | --- | --- |
 | Nyitó | Záró |
 | Hőközpontban mért fogyasztás |  |  |  |  |  |
-
-A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
-
-Tájékoztató adatok:
-
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.”
+| Melegvíz mérőn mért fogyasztás |  |  |  |  |  |
 
 - 4. Magyarázat
 - 4.1. Oldalszám: aktuális oldal száma /összes oldal száma formátumban.
@@ -565,7 +546,7 @@ Tájékoztató adatok:
 #### A távhőszolgáltató által alkalmazandó számlakép közvetített szolgáltatást is tartalmazó részszámla esetében
 
 - 1. A távhőszolgáltató a lakossági díjfizető és a lakossági felhasználó részére a közvetített szolgáltatást is tartalmazó részszámlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
-- 2. A részszámla első oldala
+- 2. A részszámla első oldala ”
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -576,53 +557,30 @@ Tájékoztató adatok:
 | Bankszámlaszáma: |  |
 |  |  |
 
-”
+- 3. A részszámla harmadik oldala: „oldalszám Vevő (Fizető) azonosító: Vevő (Fizető) neve: Vevő (Fizető) címe: Vevő (Fizető) adószáma: Szerződéses folyószámla: Teljesítés kelte: Számla sorszáma: Számla kelte: Fizetési mód: A szolgáltatás megnevezése: Távhőszolgáltatás és közvetített víziközmű-szolgáltatás SZÁMLARÉSZLETEZŐ Elszámolt fogyasztás:…….GJ Fűtési célú költségek Vízfelmelegítési célú költségek Víziközmű-szolgáltatási díjak Hőközponti és épület felhasználási adatok A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: *A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza
 
-3. A részszámla harmadik oldala: „oldalszám
-
-Vevő (Fizető) azonosító:
-
-Vevő (Fizető) neve:
-
-Vevő (Fizető) címe:
-
-Vevő (Fizető) adószáma:
-
-| Szerződéses folyószámla: | Teljesítés kelte: |
-| --- | --- |
-| Számla sorszáma: | Számla kelte: |
-| Fizetési mód: | A szolgáltatás megnevezése: |
-|  | Távhőszolgáltatás és víziközmű-szolgáltatás |
-
-SZÁMLARÉSZLETEZŐ
-
-Elszámolt fogyasztás: …….GJ
-
-Fűtési célú költségek
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Fűtési díj (egytarifás) |  |  |  |  |  |  |  |
 | Alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Fűtési célú költségek összesen |  |  |  |  |  |  |  |
 
-Vízfelmelegítési célú költségek
-
 | Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Vízfelmelegítési díj (egytarifás) |  |  |  |  |  |  |  |
+| Alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Vízfelmelegítési célú költségek összesen |  |  |  |  |  |  |  |
 
-Víziközmű-szolgáltatási díjak
-
 | Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
-| Ivóvíz-szolgáltatás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
+| Ivóvíz- szolgáltatás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
 | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj |  |  |  |  |  |  |  |
-| Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
+| Szennyvízelve- zetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
 | Elvezetett mennyiséggel arányos szennyvízdíj |  |  |  |  |  |  |  |
 | Áthárított vízterhelési díj |  |  |  |  |  |  |  |
 | Víziközmű-szolgáltatási díjak összesen |  |  |  |  |  |  |  |
@@ -634,18 +592,11 @@ Víziközmű-szolgáltatási díjak
 | ÁFA összesítő (Ft) |  |
 | Fizetendő összeg összesen (Ft) |  |
 
-Hőközponti és épület felhasználási adatok
-
 | Szolgáltatás helye és megnevezése | Fogyasztási időszak | Mérőazonosító | Mérőállás |  | Mennyiség és mértékegysége |
 | --- | --- | --- | --- | --- | --- |
 | Nyitó | Záró |
 | Hőközpontban mért fogyasztás |  |  |  |  |  |
-
-A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
-
-Tájékoztató adatok:
-
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.”
+| Melegvíz mérőn mért fogyasztás |  |  |  |  |  |
 
 - 4. Magyarázat
 - 4.1. Oldalszám: aktuális oldal száma /összes oldal száma formátumban.
@@ -668,7 +619,7 @@ Tájékoztató adatok:
 #### A távhőszolgáltató által alkalmazandó számlakép közvetített szolgáltatást nem tartalmazó elszámoló számla esetében
 
 - 1. A távhőszolgáltató a lakossági díjfizető és a lakossági felhasználó részére az elszámoló számlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
-- 2. Az elszámoló számla első oldala
+- 2. Az elszámoló számla első oldala ”
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -679,48 +630,33 @@ Tájékoztató adatok:
 | Bankszámlaszáma: |  |
 |  |  |
 
-”
+- 3. Az elszámoló számla harmadik oldala: „oldalszám Vevő (Fizető) azonosító: Vevő (Fizető) neve: Vevő (Fizető) címe: Vevő (Fizető) adószáma: Szerződéses folyószámla: Teljesítés kelte: Számla sorszáma: Számla kelte: Fizetési mód: A szolgáltatás megnevezése: Távhőszolgáltatás SZÁMLARÉSZLETEZŐ Elszámolt fogyasztás:…….GJ Fűtési célú költségek Vízfelmelegítési célú költségek Hőközponti és épület felhasználási adatok A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: * A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra Az Ön energiafelhasználása az előző év ugyanezen időszakában: GJ Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):
 
-3. Az elszámoló számla harmadik oldala: „oldalszám
-
-Vevő (Fizető) azonosító:
-
-Vevő (Fizető) neve:
-
-Vevő (Fizető) címe:
-
-Vevő (Fizető) adószáma:
-
-| Szerződéses folyószámla: | Teljesítés kelte: |
-| --- | --- |
-| Számla sorszáma:: | Számla kelte |
-| Fizetési mód: | A szolgáltatás megnevezése: |
-|  | Távhőszolgáltatás |
-
-SZÁMLARÉSZLETEZŐ
-
-Elszámolt fogyasztás: …….GJ
-
-Fűtési célú költségek
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Részszámlákban elszámolt fűtési díj (egytarifás) |  |  |  |  |  |  |  |
+| Fűtési díj részszámla (egytarifás) |  |  |  |  |  |  |  |
 | Alapdíj |  |  |  |  |  |  |  |
 | Részszámlákban elszámolt alapdíj |  |  |  |  |  |  |  |
 | Fizetendő alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Részszámlákban elszámolt hődíj |  |  |  |  |  |  |  |
+| Hődíj részszámla |  |  |  |  |  |  |  |
 | Fizetendő hődíj |  |  |  |  |  |  |  |
 | Fűtési célú fizetendő költségek összesen |  |  |  |  |  |  |  |
 
-Vízfelmelegítési célú költségek
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Részszámlákban elszámolt vízfelmelegítési díj (egytarifás) |  |  |  |  |  |  |  |
+| Vízfelmelegítési díj (egytarifás) |  |  |  |  |  |  |  |
+| Alapdíj |  |  |  |  |  |  |  |
+| Részszámlákban elszámolt alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Részszámlákban elszámolt hődíj |  |  |  |  |  |  |  |
+| Hődíj részszámla |  |  |  |  |  |  |  |
+| Fizetendő hődíj |  |  |  |  |  |  |  |
 | Vízfelmelegítési célú fizetendő költségek összesen |  |  |  |  |  |  |  |
 
 | Kerekítés (Ft) |  |
@@ -730,22 +666,11 @@ Vízfelmelegítési célú költségek
 | ÁFA összesítő (Ft) |  |
 | Fizetendő összeg összesen (Ft) |  |
 
-Hőközponti és épület felhasználási adatok
-
 | Szolgáltatás helye és megnevezése | Fogyasztási időszak | Mérőazonosító | Mérőállás |  | Mennyiség és mértékegysége |
 | --- | --- | --- | --- | --- | --- |
 | Nyitó | Záró |
 | Hőközpontban mért fogyasztás |  |  |  |  |  |
-
-A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
-
-Tájékoztató adatok:
-
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.
-
-Az Ön energiafelhasználása az előző év ugyanezen időszakában: GJ
-
-Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):”
+| Melegvíz mérőn mért fogyasztás |  |  |  |  |  |
 
 - 4. Magyarázat
 - 4.1. Oldalszám: aktuális oldal száma /összes oldal száma formátumban.
@@ -765,7 +690,7 @@ Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem v
 #### A távhőszolgáltató által alkalmazandó számlakép közvetített szolgáltatást is tartalmazó elszámoló számla esetében
 
 - 1. A távhőszolgáltató a lakossági díjfizető és a lakossági felhasználó részére a közvetített szolgáltatást is tartalmazó elszámoló számlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
-- 2. „Az elszámoló számla első oldala
+- 2. „Az elszámoló számla első oldala ”
 
 | Szolgáltató logója: |  |
 | --- | --- |
@@ -776,60 +701,42 @@ Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem v
 | Bankszámlaszáma: |  |
 |  |  |
 
-”
+- 3. Az elszámoló számla harmadik oldala: „oldalszám Vevő (Fizető) azonosító: Vevő (Fizető) neve: Vevő (Fizető) címe: Vevő (Fizető) adószáma: Szerződéses folyószámla: Teljesítés kelte: Számla sorszáma: Számla kelte: Fizetési mód: A szolgáltatás megnevezése: Távhőszolgáltatás és közvetített víziközmű-szolgáltatás SZÁMLARÉSZLETEZŐ Elszámolt fogyasztás:…….GJ Fűtési célú költségek Vízfelmelegítési célú költségek Víziközmű-szolgáltatási díjak Hőközponti és épület felhasználási adatok A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: * A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra Az Ön energiafelhasználása az előző év ugyanezen időszakában: GJ Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):
 
-3. Az elszámoló számla harmadik oldala: „oldalszám
-
-Vevő (Fizető) azonosító:
-
-Vevő (Fizető) neve:
-
-Vevő (Fizető) címe:
-
-Vevő (Fizető) adószáma:
-
-Szerződéses folyószámla: Teljesítés kelte:
-
-Számla sorszáma: Számla kelte:
-
-Fizetési mód: A szolgáltatás megnevezése:
-
-Távhőszolgáltatás és víziközmű-szolgáltatás
-
-SZÁMLARÉSZLETEZŐ
-
-Elszámolt fogyasztás: …….GJ
-
-Fűtési célú költségek
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Részszámlákban elszámolt fűtési díj (egytarifás) |  |  |  |  |  |  |  |
+| Fűtési díj részszámla (egytarifás) |  |  |  |  |  |  |  |
 | Alapdíj |  |  |  |  |  |  |  |
 | Részszámlákban elszámolt alapdíj |  |  |  |  |  |  |  |
 | Fizetendő alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Részszámlákban elszámolt hődíj |  |  |  |  |  |  |  |
+| Hődíj részszámla |  |  |  |  |  |  |  |
 | Fizetendő hődíj |  |  |  |  |  |  |  |
 | Fűtési célú fizetendő költségek összesen |  |  |  |  |  |  |  |
 
-Vízfelmelegítési célú költségek
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
+| Részszámlákban elszámolt vízfelmelegítési díj (egytarifás) |  |  |  |  |  |  |  |
+| Vízfelmelegítési díj (egytarifás) |  |  |  |  |  |  |  |
+| Alapdíj |  |  |  |  |  |  |  |
+| Részszámlákban elszámolt alapdíj |  |  |  |  |  |  |  |
+| Fizetendő alapdíj |  |  |  |  |  |  |  |
 | Hődíj |  |  |  |  |  |  |  |
 | Részszámlákban elszámolt hődíj |  |  |  |  |  |  |  |
+| Hődíj részszámla |  |  |  |  |  |  |  |
+| Fizetendő hődíj |  |  |  |  |  |  |  |
 | Vízfelmelegítési célú fizetendő költségek összesen |  |  |  |  |  |  |  |
 
-Víziközmű-szolgáltatási díjak
-
-| Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
+| Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap |  | Nettó díj (Ft) | ÁFA(%) | Bruttó díj (Ft) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mennyisége és mértékegysége | Nettó egységára és mértékegysége |
 | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
 | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj |  |  |  |  |  |  |  |
-| Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
+| Szennyvízelve- zetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
 | Elvezetett mennyiséggel arányos szennyvízdíj |  |  |  |  |  |  |  |
 | Áthárított vízterhelési díj |  |  |  |  |  |  |  |
 | Jogszabályban biztosított locsolási kedvezmény…..% |  |  |  |  |  |  |  |
@@ -844,22 +751,11 @@ Víziközmű-szolgáltatási díjak
 | ÁFA összesítő (Ft) |  |
 | Fizetendő összeg összesen (Ft) |  |
 
-Hőközponti és épület felhasználási adatok
-
 | Szolgáltatás helye és megnevezése | Fogyasztási időszak | Mérőazonosító | Mérőállás |  | Mennyiség és mértékegysége |
 | --- | --- | --- | --- | --- | --- |
 | Nyitó | Záró |
 | Hőközpontban mért fogyasztás |  |  |  |  |  |
-
-A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
-
-Tájékoztató adatok:
-
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.
-
-Az Ön energiafelhasználása az előző év ugyanezen időszakában: GJ
-
-Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):”
+| Melegvíz mérőn mért fogyasztás |  |  |  |  |  |
 
 - 4. Magyarázat
 - 4.1. Oldalszám: aktuális oldal száma /összes oldal száma formátumban.
@@ -882,7 +778,7 @@ Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem v
 #### A víziközmű-szolgáltató által alkalmazandó számlakép részszámla esetében
 
 - 1. A víziközmű-szolgáltató a lakossági felhasználók részére, valamint a lakossági díjon elszámolt felhasználásról kiállított részszámlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
-- 2. A részszámla első oldala
+- 2. A részszámla első oldala ”
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -893,9 +789,7 @@ Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem v
 | Bankszámlaszáma: |  |
 |  |  |
 
-”
-
-3. A részszámla harmadik oldala „oldalszám
+- 3. A részszámla harmadik oldala „oldalszám SZÁMLARÉSZLETEZŐ Elszámolt mennyiség: Árszabás: ÁFA összesítő (Ft) A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: * A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Fogyasztás megállapításának módja: Következő mérő leolvasás vagy diktálás időpontja:
 
 | Vevő (fizető) azonosító száma: |  |
 | --- | --- |
@@ -908,26 +802,19 @@ Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem v
 | Fizetési mód: | A szolgáltatás megnevezése: |
 |  | Víziközmű-szolgáltatás |
 
-SZÁMLARÉSZLETEZŐ
-
-Elszámolt mennyiség:
-
-Árszabás:
-
-| Tétel megnevezése | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj (Ft) | ÁFA (%) |  | Bruttó díj (Ft) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Ivóvíz-szolgáltatás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
-| …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj |  |  |  |  |  |  |  |
-| Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
-| Elvezetett mennyiséggel arányos szennyvízdíj |  |  |  |  |  |  |  |
-| Áthárított vízterhelési díj |  |  |  |  |  |  |  |
-| Jogszabályban biztosított locsolási kedvezmény…..% |  |  |  |  |  |  |  |
-| Egyéb, a víziközmű-szolgáltatás keretében figyelembe vett tétel |  |  |  |  |  |  |  |
-| Kerekítés |  |  |  |  |  |  |  |
-| Bruttó számlaérték összesen*: |  |  |  |  |  |  |  |
-| Egyéb |  |  |  |  |  |  |  |
-| Fizetendő összeg: |  |  |  |  |  |  |  |
-| ÁFA összesítő (Ft) A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: * A lakossági felhasználót a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg. Következő mérő leolvasás vagy diktálás időpontja:” |  |  |  |  |  |
+| Tétel megnevezése | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj(Ft) | ÁFA (%) | Bruttó díj (Ft) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ivóvíz-szolgáltatás alapdíj vagy átalánydíj |  |  |  |  |  |  |
+| …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj |  |  |  |  |  |  |
+| Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |
+| Elvezetett mennyiséggel arányos szennyvízdíj |  |  |  |  |  |  |
+| Áthárított vízterhelési díj |  |  |  |  |  |  |
+| Jogszabályban biztosított locsolási kedvezmény…..% |  |  |  |  |  |  |
+| Egyéb, a víziközmű- szolgáltatás keretében figyelembe vett tétel |  |  |  |  |  |  |
+| Kerekítés |  |  |  |  |  |  |
+| Bruttó számlaérték összesen*: |  |  |  |  |  |  |
+| Egyéb |  |  |  |  |  |  |
+| Fizetendő összeg: |  |  |  |  |  |  |
 
 - 4. Magyarázat:
 - 4.1. x. havi részszámla: az elszámolási időszakon belüli részszámla sorszámának feltüntetése.
@@ -950,7 +837,7 @@ Elszámolt mennyiség:
 #### A víziközmű-szolgáltató által alkalmazandó számlakép elszámoló számla esetében
 
 - 1. A víziközmű-szolgáltató a lakossági felhasználók részére, valamint a lakossági díjon elszámolt felhasználásról kiállított elszámoló számlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
-- 2. Az elszámoló számla első oldala:
+- 2. Az elszámoló számla első oldala: „
 
 | „Szolgáltató logója: | Víziközmű- szolgáltatás elszámoló számla |
 | --- | --- |
@@ -959,9 +846,7 @@ Elszámolt mennyiség:
 |  |  |
 |  |  |
 
-„
-
-3. Az elszámoló számla harmadik oldala: „oldalszám
+- 3. Az elszámoló számla harmadik oldala: „oldalszám SZÁMLARÉSZLETEZŐ Elszámolt mennyiség: Árszabás: ÁFA összesítő (Ft)
 
 | Vevő (fizető) azonosító száma: |  |
 | --- | --- |
@@ -974,32 +859,24 @@ Elszámolt mennyiség:
 | Fizetési mód: | A szolgáltatás megnevezése: |
 |  | Víziközmű-szolgáltatás |
 
-SZÁMLARÉSZLETEZŐ
+| Tétel megnevezése | Elszámolt időszak | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj(Ft) | ÁFA (%) | Bruttó díj (Ft) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Ivóvíz-szolgáltatás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
+| …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj |  |  |  |  |  |  |  |
+| Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |  |
+| Elvezetett mennyiséggel arányos szennyvízdíj |  |  |  |  |  |  |  |
+| Áthárított vízterhelési díj |  |  |  |  |  |  |  |
+| Jogszabályban biztosított locsolási kedvezmény…..% |  |  |  |  |  |  |  |
+| Egyéb, a víziközmű- szolgáltatás keretében figyelembe vett tétel |  |  |  |  |  |  |  |
+| Részszámlákban elszámolt alapdíjak, átalánydíjak |  |  |  |  |  |  |  |
+| Részszámlákban elszámolt fogyasztással arányos díjak |  |  |  |  |  |  |  |
+| Kerekítés |  |  |  |  |  |  |  |
+| Bruttó számlaérték összesen*: |  |  |  |  |  |  |  |
+| Egyéb |  |  |  |  |  |  |  |
+| Fizetendő összeg: |  |  |  |  |  |  |  |
 
-Elszámolt mennyiség:
-
-Árszabás:
-
-| Tétel megnevezése | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj(Ft) | ÁFA (%) | Bruttó díj (Ft) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Ivóvíz-szolgáltatás alapdíj vagy átalánydíj |  |  |  |  |  |  |
-| …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj |  |  |  |  |  |  |
-| Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj |  |  |  |  |  |  |
-| Elvezetett mennyiséggel arányos szennyvízdíj |  |  |  |  |  |  |
-| Áthárított vízterhelési díj |  |  |  |  |  |  |
-| Jogszabályban biztosított locsolási kedvezmény…..% |  |  |  |  |  |  |
-| Egyéb, a víziközmű- szolgáltatás keretében figyelembe vett tétel |  |  |  |  |  |  |
-| Részszámlákban elszámolt alapdíjak, átalánydíjak |  |  |  |  |  |  |
-| Részszámlákban elszámolt fogyasztással arányos díjak |  |  |  |  |  |  |
-| Kerekítés |  |  |  |  |  |  |
-| Bruttó számlaérték összesen*: |  |  |  |  |  |  |
-| Egyéb |  |  |  |  |  |  |
-| Fizetendő összeg: |  |  |  |  |  |  |
-
-ÁFA összesítő (Ft)
-
-| A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: * A lakossági felhasználót a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg. Következő mérő leolvasás vagy diktálás időpontja:” |  |
-| --- | --- |
+| A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: * A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra. Fogyasztás megállapításának módja: Következő mérő leolvasás vagy diktálás időpontja: |
+| --- |
 
 - 4. Magyarázat:
 - 4.1. Oldalszám: aktuális oldal száma /összes oldal száma formátumban.

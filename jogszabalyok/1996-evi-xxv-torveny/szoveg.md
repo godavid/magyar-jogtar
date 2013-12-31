@@ -278,7 +278,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - d) a kimutatást, amelyből megállapítható, hogy a 23. § (3) bekezdésében foglalt feltételeknek az egyezség megfelel,
 - e) a vitatott hitelezői igényekre vonatkozó kimutatást és a szükséges iratokat arra vonatkozóan, hogy ezek kielégítése a 23. § (5)–(6) bekezdés szerinti módon biztosítva van.
 
-(3) Ha az egyezség megfelel az e törvényben foglalt követelményeknek, a bíróság az adósságrendezési eljárást befejezi, és elrendeli e végzésnek a Cégközlönyben való közzétételét. Ellenkező esetben elrendeli az eljárás folytatását a IV. fejezet 29. §-ában foglaltak szerint.
+(3)
 
 (4) Az adósságrendezési eljárás befejezésével egyidejűleg a bíróság külön végzésben a pénzügyi gondnokot felmenti, és – a 33. §-ban foglaltak szerint – megállapítja a díját.
 

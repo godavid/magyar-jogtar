@@ -289,7 +289,11 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 
 (2) Az igazgatóság dönt minden olyan ügyben, amelynek eldöntése nem tartozik a lakásszövetkezet más szervének hatáskörébe; az alapszabályban meghatározott részközgyűlési körzetet közvetlenül érintő döntésének meghozatala előtt azonban köteles az érintett körzet véleményét kérni. Az igazgatóság tevékenységéért a közgyűlésnek felelős.
 
-(3) Az igazgatóság az alapszabályban meghatározott időközönként, de évente legalább egyszer köteles beszámolni a közgyűlésnek a lakásszövetkezet vagyoni, pénzügyi és jövedelmi helyzetéről és az igazgatóság tevékenységéről.
+(3) Az igazgatóság az alapszabályban meghatározott időközönként, de évente legalább egyszer köteles beszámolni a közgyűlésnek
+
+- a) a lakásszövetkezet vagyoni, pénzügyi és jövedelmi helyzetéről,
+- b) az igazgatóság tevékenységéről és
+- c) a rezsicsökkentések eredményeként jelentkező megtakarítások összegéről költségnemenként a lakásszövetkezet tekintetében, valamint tagonként és nem tag tulajdonosonként a fenntartási költség megosztásának az alapszabály szerinti bontásában.
 
 (4) Az igazgatóság a tagnak a lakásszövetkezetre, illetőleg a jogaira és kötelezettségeire vonatkozó írásbeli megkeresésére, illetőleg az abban felvetett kérdésekre – a kézhezvételtől számított 30 napon belül – írásban köteles választ adni.
 
@@ -300,6 +304,24 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 24/A. § (1) Az igazgatóságnak a 4. § (2) bekezdés i) pontjában meghatározott feladatkörében a hátralékos tag vagy nem tag tulajdonos részére – az ismert lakóhelyére vagy levelezési címére – igazoltan, postai szolgáltató útján megküldött felszólítását a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a hátralékos tag vagy nem tag tulajdonos az átvételt megtagadta. A másodszor megkísérelt és átvétel nélkül, „nem kereste” jelzéssel az igazgatósághoz visszaérkezett felszólítást, a postai kézbesítés második megkísérlésének napját követő nyolcadik munkanapon kézbesítettnek kell tekinteni (kézbesítési vélelem).
 
 (2) Ha az ismeretlen helyen tartózkodó hátralékos tag vagy nem tag tulajdonos nyilvántartásba vett új lakó- vagy tartózkodási helye, székhelye, telephelye a nyilvántartást vezető szerv adatszolgáltatása alapján vagy egyéb módon ismertté válik, a kézbesítési vélelem az új lakó- vagy tartózkodási helyre, székhelyre, telephelyre az (1) bekezdés szerinti módon megkísérelt és eredménytelen kézbesítés esetében áll be.
+
+24/B. § (1) Az igazgatóság a rezsicsökkentések végrehajtásához kapcsolódóan – többletdíjazás felszámítása nélkül – tájékoztatja a tagokat és nem tag tulajdonosokat
+
+- a) minden hónap 15. napjáig, legalább 45 nap időtartamra kifüggesztve – a 1. mellékletben meghatározott formában és tartalommal – írásban, figyelemfelkeltő és a fogyasztók által jól látható módon elhelyezett hirdetmény útján a lakásszövetkezet tulajdonában álló épületrészeket érintő, valamint a tagok és nem tag tulajdonosok tulajdonában álló lakásokon és nem lakás céljára szolgáló helyiségeken belül nem mérhető közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentések eredményeként a lakásszövetkezetek tekintetében jelentkező megtakarításokról költségnemenkénti bontásban,
+- b) minden év február 15. napjáig, írásban, a lakásszövetkezet tulajdonában álló épületrészeket érintő, valamint a tagok és nem tag tulajdonosok tulajdonában álló lakásokon és nem lakás céljára szolgáló helyiségeken belül nem mérhető közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentés egyes közszolgáltatási területeken történt bevezetése óta, az annak eredményeként a tag és a nem tag tulajdonos lakása és nem lakás céljára szolgáló helyisége tekintetében jelentkező megtakarításainak összegéről költségnem szerinti bontásban és évenként összesítve, és
+- c) a 23. § (3) bekezdés c) pontjában foglaltakról.
+
+(2) Ha valamely közüzemi szolgáltató az adott hónapban nem állít ki a lakásszövetkezet számára számlát, úgy az (1) bekezdés a) pontja szerinti tájékoztatásban e költségnem tekintetében elegendő erre a tényre utalni.
+
+(3) Ha a lakásszövetkezet valamely közüzemi szolgáltatás tekintetében nem részesült a rezsicsökkentésből eredő megtakarításban, akkor az igazgatóság köteles ennek indokát a tájékoztatásban érthető és világos módon szerepeltetni. Ha a lakásszövetkezet a villamos energiát vagy a földgázt nem egyetemes szolgáltatás keretében vételezi, akkor a tájékoztatásban azt kell feltüntetni, hogy ezen okból az említett területen a lakásszövetkezet nem jogosult a rezsicsökkentésre.
+
+(4) Az (1)–(3) bekezdés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) alkalmazásában fogyasztóvédelmi rendelkezés.
+
+(5) A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni, azzal, hogy az igazgatóság tagja az Fgytv. alkalmazásában vállalkozásnak minősül akkor is, ha természetes személy vagy önálló foglalkozásán vagy gazdasági tevékenységi körén kívül eső célból jár el.
+
+(6) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja az (1) bekezdésben foglaltak megsértését, a kiszabott fogyasztóvédelmi bírság megfizetésére az igazgatóság tagjai egyetemlegesen kötelesek, a lakásszövetkezetet helytállási kötelezettség nem terheli.
+
+(7) Rezsicsökkentés alatt a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 9. §-ában foglaltakat kell érteni.
 
 ### A felügyelőbizottság
 
@@ -681,3 +703,25 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 60. §
 
 61. §
+
+### 1. melléklet a 2004. évi CXV. törvényhez
+
+#### A lakásszövetkezetek által alkalmazandó hirdetmény
+
+| HIRDETMÉNY |  |  |  |
+| --- | --- | --- | --- |
+| a lakásszövetkezet tulajdonában álló épületrészeket érintő közüzemi szolgáltatások díja, valamint a tagok és nem tag tulajdonosok tulajdonában álló lakásokon és nem lakás céljára szolgáló helyiségeken belül nem mérhető közüzemi szolgáltatások díja vonatkozásában a rezsicsökkentések eredményeként a lakásszövetkezet tekintetében jelentkező megtakarításáról |  |  |  |
+| CÍM* |  |  |  |
+| ÉRINTETT KÖZÜZEMI SZOLGÁLTATÁS MEGNEVEZÉSE** |  |  |  |
+|  | Elszámolt időszak: | tól- | ig |
+|  | Fizetett összeg: |  | Ft |
+|  | A lakásszövetkezet megtakarítása az elszámolt időszakban: |  | Ft |
+|  | A lakásszövetkezet megtakarítása 2013. január 1-je/2013. július 1-je*** óta összesen: |  | Ft |
+|  |  |  |  |
+| A lakásszövetkezeti törvény 24/B. § (3) bekezdése szerinti tájékoztatás**** Hirdetmény kifüggesztésének időpontja: Hirdetmény levételének legkorábbi időpontja: |  |  |  |
+
+| * az érintett lakásszövetkezet megnevezését és címét kell feltüntetni |
+| --- |
+| ** az adatokat az érintett közszolgáltatásonként külön pontban, egymás alatt szükséges feltüntetni |
+| *** a két dátum közül azt kell feltüntetni, amelyik az érintett közüzemi szolgáltatásnál a rezsicsökkentés kezdő időpontjának felel meg |
+| **** a tájékoztatást csak akkor kell feltüntetni, ha azt a lakásszövetkezeti törvény előírja |

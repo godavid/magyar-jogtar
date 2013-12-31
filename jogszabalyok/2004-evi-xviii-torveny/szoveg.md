@@ -152,7 +152,14 @@ terület lehet.
 - b) természetes alkoholtartalma nem kisebb 9 térfogatszázaléknál (% vol),
 - c) összes savtartalma, (borkősavban kifejezve) nem kisebb mint 3,50 gramm/liter.
 
-(3) A védett eredetű bor kifejezéssel bor az oltalom alatt álló eredetmegjelöléssel egyenértékű kifejezésként a vonatkozó termékleírás szerint jelölhető.
+(3) A „védett eredetű” kifejezés – kiegészítve az adott borászati termékkategória nevével – az oltalom alatt álló eredetmegjelöléssel egyenértékű kifejezésként használható a vonatkozó termékleírás szerint a következő borászati termékek esetében:
+
+- a) bor,
+- b) pezsgő,
+- c) minőségi pezsgő,
+- d) illatos minőségi pezsgő,
+- e) gyöngyözőbor,
+- f) szén-dioxid hozzáadásával készült gyöngyözőbor.
 
 (4) Dűlő vagy település neve csak az oltalom alatt álló eredetmegjelöléssel együtt szerepelhet a címkén.
 
@@ -165,6 +172,8 @@ terület lehet.
 (8) Az 1234/2007/EK tanácsi rendelet 118s. cikke alapján benyújtott termékleírást a nemzeti jóváhagyásról szóló határozat Európai Bizottság részére történő megküldését követően kezdődő szüretben szüretelt borszőlőből származó borászati termékre kell alkalmazni.
 
 (9) Termékleírás módosítására vonatkozó kérelemben foglalt rendelkezéseket először a nemzeti jóváhagyásról szóló határozatban megjelölt borpiaci évben szüretelt borszőlőből származó borászati termékre kell alkalmazni. A módosítási kérelem és a módosított termékleírás közzétételéről a miniszter gondoskodik.
+
+(10) A (9) bekezdésben foglaltaktól eltérően a termékleírás módosítására irányuló kérelemben foglaltakat – a miniszter döntése alapján – először a nemzeti jóváhagyásról szóló határozatban megjelölt időpontot követően forgalomba hozott borászati termékekre kell alkalmazni, amennyiben azok az édesítés, a palackozás helye vagy a forgalomba hozatalt megelőző érzékszervi bírálat szabályait érintik.
 
 13/B. §
 
@@ -241,7 +250,7 @@ terület lehet.
 
 ### Forgalomba hozatal
 
-24. § (1) Árutermelési céllal borászati terméket előállítani, tárolni, kezelni, kiszerelni csak a borászati hatóság által engedélyezett borászati üzemben lehet. A borászati hatóság az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek teljesülése esetén ad engedélyt, amelyet a borászati üzem helye szerint illetékes hegybíróval is közöl. A borászati hatóság a borászati üzemet nyilvántartásba veszi. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza az engedélyes regisztrációs számát, a borászati üzem üzemeltetőjének nevét, a borászati üzem címét, a borászati üzemben végezhető tevékenységek felsorolását, palackozásra vonatkozó tevékenység engedélyezése esetén a palackozó üzem kódját, nyilvántartásba vételének dátumát.
+24. § (1) Árutermelési céllal borászati terméket – friss borszőlő, töppedt borszőlő, aszúsodott borszőlő kivételével – előállítani, tárolni, kezelni, kiszerelni csak a borászati hatóság által engedélyezett borászati üzemben lehet. A borászati hatóság az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek teljesülése esetén ad engedélyt, amelyet a borászati üzem helye szerint illetékes hegybíróval is közöl. A borászati hatóság a borászati üzemet nyilvántartásba veszi. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza az engedélyes regisztrációs számát, a borászati üzem üzemeltetőjének nevét, a borászati üzem címét, a borászati üzemben végezhető tevékenységek felsorolását, palackozásra vonatkozó tevékenység engedélyezése esetén a palackozó üzem kódját, nyilvántartásba vételének dátumát.
 
 (2) A vámhatóság az egyszerűsített adóraktári engedély visszavonásáról – az érintett engedélyes nevére (cégnevére), lakhelyére (székhelyére), az engedély visszavonásának tényére és időpontjára vonatkozó adatok megadásával – értesíti a borászati hatóságot és az illetékes hegyközséget.
 
@@ -303,29 +312,27 @@ terület lehet.
 
 34–35. §
 
-36. § (1) A Tokaji borvidéken készített tokaji máslás, tokaji fordítás, tokaji szamorodni, tokaji aszú, tokaji aszúeszencia, tokaji eszencia tokaji borkülönlegességnek minősülnek és önálló névhasználatra jogosultak.
+36. § (1) A Tokaji borvidéken készített tokaji máslás, tokaji fordítás, tokaji szamorodni, tokaji aszú és tokaji eszencia tokaji borkülönlegességnek minősülnek és önálló névhasználatra jogosultak.
 
-(2) Tokaji máslás: a szamorodni vagy az aszú seprőjére felöntött mustból vagy azonos évjáratú borból alkoholos erjedés útján készült tokaji borkülönlegesség, amely jellegzetes érlelési illattal és zamattal rendelkezik, és a forgalomba hozatal előtt legalább két évig, ebből legalább egy évig fahordóban érlelték.
+(2) Tokaji máslás: a szamorodni vagy az aszú seprőjére felöntött mustból vagy azonos évjáratú borból alkoholos erjedés útján készült tokaji borkülönlegesség, amely jellegzetes érlelési illattal és zamattal rendelkezik, és fahordóban érlelték.
 
-(3) Tokaji fordítás: a kipréselt aszútésztára felöntött meghatározott termőhelyről származó mustból vagy azonos évjáratú borból alkoholos erjedés útján készült, a forgalomba hozatal előtt legalább két évig, ebből legalább egy évig fahordóban érlelt tokaji borkülönlegesség, amely jellegzetes érlelési illattal és zamattal rendelkezik.
+(3) Tokaji fordítás: a kipréselt aszútésztára felöntött meghatározott termőhelyről származó mustból vagy azonos évjáratú borból alkoholos erjedés útján készült, fahordóban érlelt tokaji borkülönlegesség, amely jellegzetes érlelési illattal és zamattal rendelkezik.
 
-(4) Tokaji szamorodni: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott szőlőbogyókat is tartalmazó, válogatás nélkül szedett szőlőfürtök feldolgozásával előállított, legalább 21,0 tömegszázaléknyi (MM°) természetes eredetű cukrot tartalmazó mustból szeszes erjedés útján nyert tokaji borkülönlegesség, melyet a forgalomba hozatal előtt legalább két évig, ebből legalább egy évig fahordóban érlelnek.
+(4) Tokaji szamorodni: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott szőlőbogyókat is tartalmazó, válogatás nélkül szedett szőlőfürtök feldolgozásával előállított mustból alkoholos erjedés útján nyert tokaji borkülönlegesség, melyet legalább egy évig fahordóban érlelnek.
 
-(5) Tokaji aszú: a Tokaji borvidék területén oltalom alatt álló eredetmegjelöléssel rendelkező bor készítésére az e törvény felhatalmazása alapján kiadott rendeletben meghatározott borszőlő Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott, szüretkor külön szedett, feldolgozott szőlőbogyóinak a Tokaji borvidék területén oltalom alatt álló eredetmegjelöléssel rendelkező bor készítésére az e törvény felhatalmazása alapján kiadott rendeletben meghatározott borszőlőből származó legalább 19 mustfokos musttal vagy ilyen minőségű azonos évjáratú borral történő áztatását követő, szeszes erjedés útján nyert; az e törvény felhatalmazása alapján kiadott rendeletben meghatározott 3–6 puttonyszámtól függő mennyiségű cukormentes extraktot, valamint cukrot tartalmazó, és a forgalomba hozatal előtt legalább három évig, ebből legalább két évig fahordóban érlelt tokaji borkülönlegesség.
+(5) Tokaji aszú: a Tokaji borvidék területén termett borszőlő Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott, szüretkor kézzel külön szedett, feldolgozott szőlőbogyóinak az ugyanott termett szőlőből készült mustban, részben erjedt szőlőmustban, még erjedésben lévő újborban vagy azonos évjáratú borban történő áztatását követő alkoholos erjedés útján nyert, és a forgalomba hozatal előtt fahordóban érlelt tokaji borkülönlegesség.
 
-(6) Tokaji aszúeszencia: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott és szüretkor külön szedett szőlőbogyóknak feldolgozott anyagára öntött meghatározott termőhelyről származó musttal vagy azonos évjáratú borral áztatott, szeszes erjedés útján készült, jellegzetes aszú- és érlelési illattal, valamint zamattal rendelkező aszúbor, amely literenként legalább 180 gramm természetes cukrot tartalmaz, és amelyet a forgalomba hozatal előtt legalább három évig, ebből legalább két évig fahordóban érlelnek.
-
-(7) Tokaji eszencia: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott és szüretkor külön szedett szőlőbogyókból préselés nélkül kiszivárgó, mustból minimális erjedés útján keletkező tokaji borkülönlegesség, mely literenként legalább 450 gramm összes természetes cukrot és 50 gramm cukormentes vonadékanyagot tartalmaz, ezen kívül az aszúra jellemző különleges illattal és zamattal rendelkezik.
+(6) Tokaji eszencia: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott és szüretkor kézzel külön szedett szőlőbogyókból préselés nélkül kiszivárgó, szőlőmustból minimális alkoholos erjedés útján keletkező tokaji borkülönlegesség.
 
 37. § (1) A Tokaji borvidék területén termett borszőlőből származó törkölyös mustra, borseprőre vagy törkölyre csak az e borvidéken termett borszőlőből származó mustot vagy bort szabad önteni.
 
-(2) A tokaji máslás, tokaji fordítás, tokaji aszú, tokaji aszúeszencia és tokaji eszencia előállítója a felhasznált aszúsodott szőlőbogyó, a készített aszúbor, aszúeszencia és a nyert eszencia mennyiségét az illetékes hegyközségnek kategóriánként évente a borpiaci év végéig köteles bejelenteni.
+(2) A tokaji máslás, tokaji fordítás, tokaji aszú és tokaji eszencia előállítója a felhasznált aszúsodott szőlőbogyó, a készített aszú, fordítás és a nyert eszencia mennyiségét az illetékes hegyközségnek kategóriánként évente a borpiaci év végéig köteles bejelenteni.
 
 (3) A Tokaji borvidék területén ízesített italokat készíteni tilos, készleten tartani csak palackozott formában lehet.
 
 38. § (1) A tokaji borkülönlegességek palackozásához csak e törvény végrehajtási rendeletében meghatározott palackot lehet felhasználni. Ilyen palackokba csak tokaji borkülönlegességeket lehet tölteni.
 
-(2) A palackozási kötelezettség nem vonatkozik a Tokaji borvidék területén a termelők által saját pincéjükben forgalomba hozott, saját termésű, helyben fogyasztásra kerülő tokaji szamorodni, tokaji máslás, tokaji fordítás, tokaji aszú, tokaji aszúeszencia borokra és tokaji eszenciára.
+(2) A palackozási kötelezettség nem vonatkozik a Tokaji borvidék területén a termelők által saját pincéjükben forgalomba hozott, saját termésű, helyben fogyasztásra kerülő tokaji szamorodni, tokaji máslás, tokaji fordítás, tokaji aszú és tokaji eszencia borokra.
 
 39. § (1) A Tokaji borvidékre utaló elnevezéssel tilos közfogyasztásra forgalomba hozni mustot, továbbá olyan bort, amelyet más termőhelyről származó musttal vagy borral házasítottak.
 
@@ -545,7 +552,7 @@ rendeletben jelölje ki.
 
 (2) A törvény 31. § (2) bekezdését először a 2004-ben szüretelt szőlőből készített borra kell alkalmazni.
 
-(3)
+(3) E törvénynek az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvénnyel megállapított 32. §-át 2014. július 31-e után szüretelt szőlőből készült borászati termékek esetében kell alkalmazni.
 
 (4) Ez a törvény a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 

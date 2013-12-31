@@ -4,7 +4,7 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-1. §
+1. § Hatályát veszti az illetékekről szóló 1990. évi XCIII. törvény 33. § (2) bekezdésének 43. pontja.
 
 #### 2. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 

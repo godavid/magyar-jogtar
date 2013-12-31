@@ -217,10 +217,10 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 (2) A miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet – agrárgazdasági adatbázisokat működtető szervként – működteti
 
-- a) a reprezentatív üzemgazdasági adatbázist,
+- a) a tesztüzemi információs rendszert,
 - b) a piaci árinformációs rendszert.
 
-(3) A reprezentatív üzemgazdasági adatbázis és a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
+(3) A tesztüzemi információs rendszer és a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
 
 (4) A piaci árinformációs rendszer belföldi árjelentési feladatokat, valamint az európai uniós tagságból fakadó árjelentési kötelezettségeket lát el a nemzeti és a közös piacszabályozás működtetése érdekében. Az (5) bekezdésben meghatározott ágazatokban a valós piaci folyamatok nyomon követése egyedi azonosítóval ellátott szervezetsoros ár- és mennyiségi feladatok gyűjtésén, kötelező adatszolgáltatáson és azok feldolgozásán keresztül valósul meg. Az egyedi információkból számított – egyedi azonosító adatokat nem tartalmazó – súlyozott átlagok rendszeres jelentése az Európai Bizottság, a nemzeti irányító szervek és a magyarországi piaci szereplők felé történik.
 
@@ -247,7 +247,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 19/C. § (1) Az agrártámogatás igénybevevője külön jogszabályban foglaltak alapján, az abban meghatározott adatok szolgáltatására köteles.
 
-(2) A mezőgazdasági termelő a mezőgazdasági szakigazgatási szerv részére termésbecslési célból, illetve agrárgazdasági adatbázis működtetése céljából az e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles gazdálkodásáról adatot szolgáltatni. Az adatszolgáltatás keretében az e törvény végrehajtására kiadott rendeletben meghatározott gazdálkodási adatokon túl a mezőgazdasági termelő köteles szolgáltatni családi és utóneve, születési családi és utóneve, lakcíme, székhelye (telephelye), regisztrációs száma adatait. A termésbecslési adatok, illetve az agrárgazdasági adatok kizárólag statisztikai célra használhatók fel. A mezőgazdasági termelő által megadott személyes adatokat a szakigazgatási szerv az aggregált statisztikai adat előállítását követően törli a nyilvántartásából.
+(2) A mezőgazdasági termelő a mezőgazdasági igazgatási szerv részére termésbecslési célból, illetve agrárgazdasági adatbázis működtetése céljából az e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles gazdálkodásáról adatot szolgáltatni. Az adatszolgáltatás keretében az e törvény végrehajtására kiadott rendeletben meghatározott gazdálkodási adatokon túl a mezőgazdasági termelő köteles szolgáltatni családi és utóneve, születési családi és utóneve, lakcíme, székhelye (telephelye), regisztrációs száma adatait. A termésbecslési adatok, illetve az agrárgazdasági adatok kizárólag statisztikai célra használhatók fel. A mezőgazdasági termelő által megadott személyes adatokat a mezőgazdasági igazgatási szerv az aggregált statisztikai adat előállítását követően törli a nyilvántartásából.
 
 20. § (1) A szakmaközi szervezet a szakmaközi célok megvalósítása, az adott ágazat fejlesztése és piacszervezése érdekében szakmai adatbázist működtethet.
 
@@ -290,7 +290,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - d) a termelői csoportok, termelői szervezetek, azok társulásai elismerését, az elismerés visszavonását, beszámolási kötelezettségét, működésük ellenőrzését, működésük során feltárt szabálytalanságokkal kapcsolatban kiszabható szankciók körét;
 - e) a vágás utáni minősítési rendjét, és a minősítő hatóság kijelölését;
 - f) a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját érintő szabályokat;
-- g) a reprezentatív üzemgazdasági adatbázis működését érintő szabályokat,
+- g) a tesztüzemi információs rendszer működését érintő szabályokat,
 - h) a termésbecsléssel kapcsolatos adatszolgáltatás részletes szabályait,
 - i) az agrártámogatás igénybevevőjét terhelő adatszolgáltatás részletes szabályait,
 - j) az agrárgazdasági és agrár-vidékfejlesztési szakértők szakterületeinek körét, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,

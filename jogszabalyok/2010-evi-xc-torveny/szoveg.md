@@ -83,7 +83,7 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 8. § A 9. § rendelkezései szerint meghatározott magánszemély az e fejezetben előírt adóalap után különadót fizet. A különadó a központi költségvetést illeti meg.
 
-(2) Az e fejezetben nem szabályozott kérdésekben az Art. rendelkezései az irányadók.
+(2) Az e fejezetben nem szabályozott kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései az irányadók.
 
 9. § (1) Különadó fizetésére köteles az a költségvetési szervnél, állami, önkormányzati, közalapítványi forrásból alapított, fenntartott vagy működési támogatásban részesített más szervezetnél foglalkoztatott magánszemély, aki munkavégzésre irányuló jogviszonya alapján, továbbá aki a takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvény vagy a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény szerinti munkavégzésre irányuló jogviszonyban a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kivéve azt, akinek a jogviszonya megszűnését követő naptári naptól a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátás, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék vagy átmeneti bányászjáradék kerül megállapításra.
 
@@ -108,7 +108,7 @@ a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kiv
 
 (5) A különadó alapját jogviszonyonként külön-külön kell megállapítani. A különadó alapja független attól, hogy kifizetett összeget egy vagy több adóévben kell jövedelemként figyelembe venni. Ha a bevétel megszerzése több részletben történik, azt kell feltételezni, hogy a magánszemély először a különadó-alapot nem képező személyi jövedelemadó-köteles jövedelmet szerzi meg. A nem pénzben kifizetett bevételt a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 3. § 9. pontjának megfelelő alkalmazásával kell megállapítani.
 
-10. § A különadó mértéke a 9. § (2) bekezdése szerinti adóalapnak a 98 százaléka.
+10. § A különadó mértéke a 9. § (2) bekezdése szerinti adóalapnak a 75 százaléka.
 
 11. § (1) A kifizető a magánszemélyt terhelő adót forrásadóként a kifizetéskor állapítja meg, vonja le, elkülönítve igazolja, az Art. 31. §-ának (2) bekezdése szerinti bevallásban vallja be, és ezen bevallás benyújtására előírt határidőig fizeti meg.
 
@@ -116,7 +116,7 @@ a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kiv
 
 (3) A különadó alapjának 9. § szerint meghatározott összegét
 
-- a) az Szja tv. rendelkezéseinek alkalmazásában a jövedelem kiszámításánál nem kell figyelembe venni, azonban a kifizetés évére vonatkozó személyi jövedelemadó-bevallásban elkülönítve be kell vallani, és be kell számítani az Szja tv. 3. §-ának 75. pontja szerinti éves összes jövedelem megállapításánál;
+- a) az Szja tv. rendelkezéseinek alkalmazásában a jövedelem kiszámításánál nem kell figyelembe venni, azonban a kifizetés évére vonatkozó személyi jövedelemadó-bevallásban elkülönítve be kell vallani;
 - b) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény alkalmazásában – figyelemmel a c) pont rendelkezésre – nem kell járulékalapnak tekinteni;
 - c) a b) pont rendelkezésétől eltérően, a felmentési (felmondási) időnek a munkavégzési kötelezettséggel nem járó részére kifizetett munkabért, illetmény összegét társadalombiztosítási járulékalapként és nyugdíj alapjául szolgáló jövedelemként, valamint a munkavégzési kötelezettség alóli mentesítés idejét nyugdíjra jogosító szolgálati időként kell figyelembe venni.
 
@@ -157,6 +157,8 @@ a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kiv
 - c) a jövedelem megszerzése évében hatályos szabályok szerint a magánszemély valamennyi közteher-kötelezettségét úgy kell meghatározni, hogy a magánszemély a különadó-köteles jövedelem megszerzése évére megállapított valamennyi közteher-kötelezettségéből levonja a különadó-köteles jövedelmek nélkül – annak figyelembevételével, hogy a különadó-köteles jövedelmeket a magánszemély összes jövedelmébe az adóévben ekkor is be kell számítani – kiszámított közteher-kötelezettségét;
 - d) az országgyűlési képviselőnek, az alpolgármesternek, az európai parlamenti képviselőnek különadó-köteles bevételt juttató szervezet (a továbbiakban: kifizető) a 9. § (1a) bekezdése hatálybalépését követő hónap utolsó napjáig magánszemélyenkénti és a jövedelem juttatásának éve szerinti bontásban adatot szolgáltat az állami adóhatóságnak az általa kifizetett különadó-alapot képező összegről, valamint jogcímenként megbontva, az abból levont, a különadó fizetésére kötelezett magánszemélyt terhelő közterhekről;
 - e) a magánszemély kérésére a kifizető a d) pontban említett adatokról és a rendelkezésére álló, a különadó-fizetési kötelezettség teljesítéséhez szükséges adatokról a kérés beérkezését követő 30 napon belül tájékoztatja a magánszemélyt.
+
+12/C. § Az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvénnyel megállapított 10. §-t a 2014. január 1-jén vagy azt követően megszerzett bevételekre kell alkalmazni.
 
 ### III–XII. FEJEZET
 
