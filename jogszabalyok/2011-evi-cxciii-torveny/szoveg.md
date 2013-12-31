@@ -197,7 +197,7 @@ alá.
 
 - a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, nyugdíjpénztárnál
 - b) az MNB-nél, a Pénzügyi Szervezetek Állami Felügyeleténél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
-- c) ingatla nalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
+- c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
 - d) az a)–c) pontban felsoroltak külföldi megfelelőinél szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
 
 (9) A (2) és (5)–(7) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni:
@@ -955,7 +955,13 @@ a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenyke
 
 #### 25. A befektetőknek szóló tájékoztatás módszere
 
-72. §
+72. § (1) A 69. § (1) bekezdése szerinti tájékoztató dokumentumot papíron vagy tartós adathordozón kell a befektetők rendelkezésére bocsátani.
+
+(2) Ha a tájékoztatást a befektetők mindegyikének vagy meghatározott körének tartós adathordozón nyújtják, akkor a tájékoztatásnak összhangban kell lennie az adott ÁÉKBV kezelési szabályzatában meghatározott, elektronikus hírközlés útján történő tájékoztatás lehetőségét is magában foglaló tájékoztatási szabályokkal.
+
+(3) A tájékoztatás a befektetőnek akkor adható a (2) bekezdésben meghatározott módon, amennyiben a befektető a papíron vagy tartós adathordozón kapott tájékoztatás lehetősége közül kifejezetten a papírtól eltérő tartós adathordozót választja.
+
+(4) Az e szakasz alkalmazásában az elektronikus hírközlés útján nyújtott tájékoztatás feltétele, hogy a befektető rendszeres internet-hozzáféréssel rendelkezzen. A befektető által az üzletvitel céljából megadott e-mail cím erre vonatkozó bizonyítéknak minősül.
 
 #### 26. A befektetők egyéb jogai
 
@@ -1483,7 +1489,7 @@ a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenyke
 
 (3) A (2) bekezdésben említett 30 napos időtartam lejárta előtt a gyűjtő-ÁÉKBV nem fektethet be az adott cél-ÁÉKBV kollektív befektetési értékpapírjaiba a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendeletben meghatározott 20 százalékos korlátot meghaladó mértékben.
 
-(4)
+(4) A tájékoztatás nyújtásának módjára vonatkozóan e törvény 72. §-ának rendelkezéseit kell alkalmazni.
 
 #### 47. A gyűjtő- és a cél-ÁÉKBV-re vonatkozó egyéb kötelezettségek, hatáskörrel rendelkező hatóságok
 

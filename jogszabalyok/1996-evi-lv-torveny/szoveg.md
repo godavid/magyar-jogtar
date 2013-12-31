@@ -767,7 +767,9 @@ a vadászat alkalmával köteles állandóan magánál tartani, és azt a jogosu
 
 ### Vadászvizsga
 
-66. § (1) Vadászvizsgát (a továbbiakban: vizsga) kizárólag a kamara által megbízott, három főből álló bizottság előtt lehet tenni.
+66. § (1) Vadászvizsgát (a továbbiakban: vizsga) az arra felkészítő és azt megelőző tanfolyam elvégzését követően, a kamara által megbízott, három főből álló bizottság előtt lehet tenni.
+
+(1a) A vizsgát megelőző tanfolyam szervezésére az e törvény végrehajtására kiadott rendeletben meghatározottak szerint a vadászati hatóság ad engedélyt.
 
 (2) A vizsga a vadászati jog gyakorlásával, hasznosításával, továbbá a természetvédelemmel kapcsolatos elméleti ismeretekből, valamint – kivéve a kizárólag vadászíjjal, illetve ragadozó madárral vadászókat – sörétes és golyós lőfegyverrel történő gyakorlati vadászlövészetből áll. Az íjjal vadászók gyakorlati vadászíjász, a ragadozó madárral vadászók gyakorlati solymász vizsgát tesznek.
 

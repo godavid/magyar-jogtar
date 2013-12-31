@@ -2,7 +2,21 @@
 
 az egészségügyi tevékenység végzésének egyes kérdéseiről
 
-Az Országgyűlés– az egészségügyi tevékenység kiemelkedő jelentőségének tudatában,– az egészségügyi dolgozókat megillető társadalmi megbecsülés szem előtt tartásával,– az egészségügyi ellátórendszer folyamatos működésének és az egészségügyi dolgozók tevékenységének sajátosságaira figyelemmel,– tekintettel a betegek jogára a pihent egészségügyi dolgozó által nyújtott ellátáshoz,– az egészségügyi tevékenységet végzők jogai és kötelezettségei szektorsemleges követelményeinek szem előtt tartásával,– az egyes egészségügyi tevékenység folytatására, illetve munkavégzésre irányuló jogviszonyokból adódó eltéréseket figyelembe véve,– az egészségügyi dolgozókra vonatkozó előírások egységes meghatározása és ezáltal az ellátás biztonságának javítása céljából
+Az Országgyűlés
+
+– az egészségügyi tevékenység kiemelkedő jelentőségének tudatában,
+
+– az egészségügyi dolgozókat megillető társadalmi megbecsülés szem előtt tartásával,
+
+– az egészségügyi ellátórendszer folyamatos működésének és az egészségügyi dolgozók tevékenységének sajátosságaira figyelemmel,
+
+– tekintettel a betegek jogára a pihent egészségügyi dolgozó által nyújtott ellátáshoz,
+
+– az egészségügyi tevékenységet végzők jogai és kötelezettségei szektorsemleges követelményeinek szem előtt tartásával,
+
+– az egyes egészségügyi tevékenység folytatására, illetve munkavégzésre irányuló jogviszonyokból adódó eltéréseket figyelembe véve,
+
+– az egészségügyi dolgozókra vonatkozó előírások egységes meghatározása és ezáltal az ellátás biztonságának javítása céljából
 
 az egészségügyi dolgozók jogállásának egyes kérdéseiről a következő törvényt alkotja:
 
@@ -50,7 +64,9 @@ terjed ki.
 - e) egészségügyi ügyelet: a d) pontban meghatározott ügyeleti feladatellátás munkaviszonyban vagy közalkalmazotti jogviszonyban,
 - f) az a)–e) pontokban foglaltakon túl az Eütv. 3. §-ában foglalt fogalommeghatározásokat kell figyelembe venni.
 
-### II. Fejezet — AZ EGÉSZSÉGÜGYI TEVÉKENYSÉG VÉGZÉSÉNEKÁLTALÁNOS SZABÁLYAI
+### II. Fejezet — AZ EGÉSZSÉGÜGYI TEVÉKENYSÉG VÉGZÉSÉNEK
+
+ÁLTALÁNOS SZABÁLYAI
 
 5. § (1) Az egészségügyi dolgozó az egészségügyi tevékenységet, az adott helyzetben általában elvárható gondossággal, a szakmai követelmények keretei között, etikai szabályok megtartásával, legjobb tudása és lelkiismerete szerint, a rendelkezésére álló tárgyi és személyi feltételek által meghatározott szinten, szakmai kompetenciájának megfelelően nyújtja. Az egészségügyi dolgozó – amennyiben a beteg egészségi állapotát károsan nem befolyásolja és a beteget más orvoshoz irányítja – az egészségügyi tevékenységet megtagadhatja, ha az adott tevékenység erkölcsi felfogásával, lelkiismereti vagy vallási meggyőződésével ellenkezik.
 
@@ -565,13 +581,13 @@ részt vehet.
 - a) hatályát veszti az Eütv. 114. és 128. §-a, és 77. § (3) bekezdéséből a ,,legnagyobb'' szövegrész,
 - b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény a következő 43/A. §-sal egészül ki:
 
-,,
+„,,
 
 43/A. § (1) A 43. § (1) bekezdés szerint számított szolgálati időn túl az egészségügyi dolgozók esetében kiegészítő szolgálati időként kell figyelembe venni a külön törvényben meghatározott, a heti 48 órát meghaladó önként vállalt többletmunkavégzésnek – a munkáltató által munkaórában igazolt – 2004. május 1-jét követő, – napi 8 óra alapulvételével átszámított – időtartamát.
 
 (2) Az (1) bekezdés és a 43. § (1) bekezdés szerint külön-külön számított szolgálati idő együttes időtartamát a 12., 20., 29. és 34. §-ok alkalmazásánál kell figyelembe venni.
 
-(3)''
+(3)''”
 
 (5)
 
@@ -606,31 +622,7 @@ részt vehet.
 
 (2) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést a Kjt. alkalmazásában a jubileumi jutalom számítása során figyelembe kell venni.
 
-29/B. § (1) A 2013. szeptember 1-jén alkalmazásban álló, a 11/A. § (4)–(6a) bekezdésében meghatározott munkakörben foglalkoztatottakat az egészségügyi ágazati előmeneteli rendszer keretében a 2013. január 1-je és 2013. augusztus 31-e közötti időszak tekintetében visszamenőleges illetmény- vagy bérnövelés illeti meg a (2)–(13) bekezdésben foglaltak szerint.
-
-(2) Az (1) bekezdésben meghatározott időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (4) bekezdése szerinti orvos munkakörben foglalkoztatott egészségügyi dolgozót alapbére (garantált illetménye) és rendszeres pótlékai együttes összegének mértékétől függően – nem rendszeres jövedelemnek minősülő bérelemként – a 4. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
-
-(3) Az (1) bekezdésben meghatározott időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót – nem rendszeres jövedelemnek minősülő bérelemként – az 5. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
-
-(4) Az (1) bekezdésben meghatározott időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót – nem rendszeres jövedelemnek minősülő bérelemként – havi 10 000 Ft összegű visszamenőleges illetmény- vagy bérnövelés illeti meg.
-
-(5) Az (1) bekezdésben meghatározott időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6a) bekezdése szerinti gyógyszerész munkakörben foglalkoztatott egészségügyi dolgozót – nem rendszeres jövedelemnek minősülő bérelemként – havi 44 385 Ft összegű visszamenőleges illetmény- vagy bérnövelés illeti meg.
-
-(6) A (2)–(5) bekezdés szerinti visszamenőleges illetmény- vagy bérnövelés végrehajtásánál az egészségügyi dolgozó 2013. június havi kinevezés szerinti illetményét, illetve munkaszerződés szerinti alapbérét, valamint rendszeres pótlékai összegét, 2013. június havi bér hiányában az azt megelőző utolsó teljes havi bért kell figyelembe venni.
-
-(7) Az e § szerinti visszamenőleges illetmény- vagy bérnövelés a foglalkoztatottat a munkáltató egyoldalú döntése alapján a garantált illetményén vagy alapbérén felül megillető juttatás – különösen az illetménykiegészítés – terhére, annak visszavonásával vagy csökkentésével nem biztosítható.
-
-(8) Részmunkaidő esetén a visszamenőleges illetmény- vagy bérnövelés a munkaidő teljes munkaidőhöz viszonyított arányában jár.
-
-(9) A (2)–(5) bekezdés szerinti visszamenőleges illetmény- vagy bérnövelés a 2013. január 1-je és 2013. augusztus 31-e között a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban, bérnövelésre jogosító munkakörben töltött, munkavégzési kötelezettséggel járó időre – ideértve az Ebtv. 44. §-a szerinti keresőképtelenséggel járó időszakokat is – jár. Nem jogszerző időszak a fizetés nélküli szabadság, szülési szabadság, valamint az egész napos igazolatlan távollét időtartama. A visszamenőleges illetmény- vagy bérnövelés emiatt kieső összegét a tárgyhónapban kieső munkanapok számának a foglalkoztatott munkarendje szerinti, a tárgyhónap egészére megállapított munkanapok számához viszonyított arányában, 100 forintra kerekítve kell megállapítani. A munkanapok számába be kell számítani a fizetett munkaszüneti napokat is.
-
-(10) A visszamenőleges illetmény- vagy bérnövelés nem illeti meg azt az egészségügyi dolgozót, egészségügyben dolgozót, aki a prémiumévek programban vesz részt.
-
-(11) A 2013. január 1-je és 2013. augusztus 31-e között fennállt jogviszony vagy jogviszonyok esetén a visszamenőleges illetmény- vagy bérnövelés a munkáltatónál vagy munkáltatóknál a (9) bekezdés szerinti, munkavégzési kötelezettséggel járó, illetmény- vagy bérnövelésre jogosító munkakörben töltött időszakra vagy időszakokra időarányosan jár.
-
-(12) A visszamenőleges illetmény- vagy bérnövelést annál a munkáltatónál kell – az egészségügyi dolgozó, egészségügyben dolgozó korábbi alkalmazotti jogviszonyára (jogviszonyaira) is tekintettel – kifizetni, ahol az egészségügyi dolgozó 2013. szeptember 1-jén alkalmazásban áll. Az egészségügyi dolgozó, egészségügyben dolgozó a korábbi, illetmény- vagy bérnövelésre jogosító jogviszonyainak tartamát, valamint az egyösszegű illetmény- vagy bérnövelés alapjául szolgáló kereseti adatait 2013. augusztus 15. napjáig igazolja az őt 2013. szeptember 1-jén foglalkoztató munkáltatónak. Abban az esetben, ha az egészségügyi dolgozó, egészségügyben dolgozó 2013. szeptember 1-jén több munkáltatónál is jogviszonyban áll, a korábbi illetmény- vagy bérnövelésre jogosító jogviszonyának vagy jogviszonyainak tartama csak egyszeresen vehető figyelembe; több korábbi jogviszony esetében azonban az e jogviszonyokra tekintettel járó bérnövelés különböző munkáltatóknál is érvényesíthető.
-
-(13) A (2)–(5) bekezdés szerinti visszamenőleges illetmény- vagy bérnövelés összegét a 2013. augusztusi bér (illetmény) kifizetésével egyidejűleg egy összegben kell az egészségügyi dolgozó, egészségügyben dolgozó részére kifizetni. Amennyiben a munkavállaló a (10) bekezdés szerinti határidőig kereseti adatait nem igazolja a munkáltatójának, a visszamenőleges illetmény- vagy bérnövelést az adatok igazolását követő hónapban, de legkésőbb 2013. december hónapban kell kifizetni.
+#### 29/B. §
 
 29/C. § (1) A 11/A. §
 
@@ -721,49 +713,4 @@ Egészségügyi szakdolgozók, egyes egészségügyben dolgozók illetmény-, il
 
 ### 4. melléklet a 2003. évi LXXXIV. törvényhez
 
-#### Orvos munkakörben foglalkoztatott egészségügyi dolgozók visszamenőleges illetmény- vagy bérnövelése
-
-| Az orvos legmagasabb személyi alapbére (alapilletménye) és rendszeres illetménypótlékai összege (Ft/hó, bruttó) | Visszamenőleges illetmény- vagy bérnövelés összege fizetési osztályonként (Ft/hó, bruttó) |  |  |
-| --- | --- | --- | --- |
-|  | H | I | J |
-| 350 000 alatt | 10 000 | 40 000 | 40 000 |
-| 350 000–359 999 | 10 000 | 40 000 | 40 000 |
-| 360 000–369 999 | 10 000 | 40 000 | 40 000 |
-| 370 000–379 999 | 10 000 | 40 000 | 40 000 |
-| 380 000–389 999 | 10 000 | 40 000 | 40 000 |
-| 390 000–399 999 | 10 000 | 40 000 | 40 000 |
-| 400 000–409 999 | 10 000 | 40 000 | 40 000 |
-| 410 000–419 999 | 10 000 | 40 000 | 40 000 |
-| 420 000–429 999 | 10 000 | 40 000 | 40 000 |
-| 430 000–439 999 | 10 000 | 40 000 | 40 000 |
-| 440 000–449 999 | 10 000 | 40 000 | 40 000 |
-| 450 000–464 999 | 10 000 | 30 000 | 30 000 |
-| 465 000–479 999 | 10 000 | 20 000 | 20 000 |
-| 480 000– | 10 000 | 10 000 | 10 000 |
-
 ### 5. melléklet a 2003. évi LXXXIV. törvényhez
-
-Béremelésre és illetménykiegészítésre jogosító egészségügyi szakdolgozó munkakörben
-
-foglalkoztatottak és egyes egészségügyben dolgozó foglalkoztatottak
-
-visszamenőleges illetmény- vagy bérnövelésének összege (Ft/hó, bruttó)
-
-|  | Visszamenőleges illetmény- vagy bérnövelés összege fizetési osztályonként (Ft/hó, bruttó) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Évek | A | B | C | D | E | F | G | H | I | J |
-| 0–3 | 5 000 | 5 000 | 4 000 | 4 000 | 4 000 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
-| 4–6 | 6 023 | 6 488 | 5 512 | 6 484 | 7 456 | 40 235 | 39 856 | 40 414 | 39 305 | 39 756 |
-| 7–9 | 7 046 | 7 976 | 7 024 | 8 968 | 10 000 | 39 245 | 39 068 | 39 403 | 38 559 | 39 305 |
-| 10–12 | 7 976 | 9 464 | 8 536 | 10 000 | 10 000 | 38 355 | 38 407 | 38 292 | 38 245 | 38 290 |
-| 13–15 | 8 999 | 10 000 | 10 000 | 10 000 | 10 000 | 37 465 | 37 646 | 38 317 | 37 769 | 37 376 |
-| 16–18 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 36 575 | 36 985 | 38 088 | 37 535 | 36 461 |
-| 19–21 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 35 585 | 36 197 | 37 817 | 37 059 | 34 792 |
-| 22–24 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 35 173 | 35 512 | 37 545 | 35 831 | 33 422 |
-| 25–27 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 34 883 | 35 111 | 37 274 | 35 385 | 32 153 |
-| 28–30 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 36 693 | 35 110 | 36 873 | 34 797 | 30 883 |
-| 31–33 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 38 603 | 35 009 | 35 301 | 34 351 | 29 359 |
-| 34–36 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 38 461 | 34 908 | 33 830 | 33 863 | 28 090 |
-| 37–39 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 38 197 | 34 907 | 32 258 | 28 853 | 27 920 |
-| 40–42 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 38 055 | 34 806 | 30 687 | 28 245 | 27 751 |
-| 43–45 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 38 055 | 34 806 | 30 687 | 28 245 | 27 751 |

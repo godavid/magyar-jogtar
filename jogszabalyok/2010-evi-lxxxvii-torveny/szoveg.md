@@ -141,13 +141,13 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 10. § (1) A Tanács elnökét a miniszter nevezi ki, további tagjai:
 
 - a) az NFA elnöke;
-- b) a miniszter által kinevezett személy;
+- b) a miniszter által kinevezett személyek;
 - c) az állami vagyon felügyeletéért felelős miniszter által jelölt és a miniszter által kinevezett egy személy;
 - d) a kormányzati tevékenység összehangolásáért felelős miniszter által jelölt és a miniszter által kinevezett egy személy.
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, megyei közgyűlés tagja, miniszter, államtitkár, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, megyei közgyűlés tagja, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b) az ellenőrző bizottságának tagja;
 - c) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
@@ -367,7 +367,7 @@ követő napon.
 (3a) Nyilvános pályáztatás vagy árverés mellőzésével köthető adásvételi szerződés olyan földrészletre, amely
 
 - a) a kisajátításról szóló törvényben meghatározott közérdekű célok, vagy – amennyiben a közérdekű célt az érintett földrészlet vonatkozásában a nemzetgazdasági szempontból kiemelt beruházássá nyilvánító kormányrendelet megjelöli – nemzetgazdasági szempontból kiemelt beruházás megvalósításához szükséges;
-- b) nem haladja meg a három hektárt, és amely nem szomszédos más Nemzeti Földalapba tartozó földrészlettel.
+- b) nem haladja meg a három hektárt.
 
 (3b)
 
@@ -387,7 +387,7 @@ követő napon.
 
 (7) E § szerinti eladás, csere, haszonbérbe adás, vagy vagyonkezelésbe adás esetén – ide nem értve az (1) bekezdésben meghatározott esetet – a szerződéskötést követő 3 nappal nyilvánosságra kell hozni a megkötött szerződésnek a 30. § (1) bekezdésében meghatározott adatait.
 
-(8) A (3a) bekezdés b) pontjának alkalmazása során az olyan földrészleteket kell szomszédosnak tekinteni, amelyek – a település közigazgatási határától függetlenül – egymással közvetlenül határosak, vagy azokat egymástól önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna választ el.
+(8)
 
 22. § (1) A Nemzeti Földalapba tartozó földrészlet kötelező önkormányzati feladatok ellátásának elősegítése érdekében ingyenesen vagyonkezelésbe, temető létesítése céljából ingyenesen tulajdonba adható a földrészlet fekvése szerinti települési (fővárosban a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat (a továbbiakban: önkormányzat), valamint a megyei önkormányzat részére. A Nemzeti Földalapba tartozó földrészlet szociális földprogram és a közfoglalkoztatási program megvalósítása céljából az önkormányzat számára ingyenesen vagyonkezelésbe adható. Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
 

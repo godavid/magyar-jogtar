@@ -36,7 +36,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 - 1. állattartó: az állat tulajdonosa, illetve aki az állatot vagy az állatállományt gondozza, felügyeli;
 - 2. állat károsítása: az állat testi épségének, szervezetének, pszichikai állapotának vagy viselkedésének tartós, hátrányos megváltoztatása;
-- 3. állatkert: a természet- és állatvédelmet szolgáló állandó létesítmény, ahol az állatokat évente folyamatosan hét napnál hosszabb időn keresztül a nagyközönség részére való bemutatás céljából tartják, és amely az ismeretterjesztést, oktatást és nevelést az ott élő állatok folyamatos és szakszerű bemutatásával, valamint tájékoztatással biztosítja; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
+- 3. állatkert: olyan állandó létesítmény, ahol az állatokat évente hét vagy annál több napon keresztül a nagyközönség részére történő bemutatás céljából tartják; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
 - 4. állatkínzás: az állat szükségtelen, fájdalmat okozó bántalmazása, vagy olyan hatást eredményező beavatkozás, bánásmód, valamint szükségleteinek olyan mértékű korlátozása, amely tartós félelmet vagy egészségkárosodást okozhat, továbbá az öröklődő betegségben szenvedő – nem kísérleti célra szánt – állategyed tenyésztése, szaporítása;
 - 5. állatpanzió: olyan intézmény, amely díjazás ellenében vállalja állat meghatározott időre szóló megőrzését, felelősséget vállalva annak jó gazda gondosságával történő tartásáért, egészségéért, valamint az állatok és a környezetükben lévő emberek biztonságáért;
 - 6. állatmenhely: az elkobzott vagy ideiglenesen megfigyelés alatt tartott állatok kivételével a gazdátlan állatok ideiglenes vagy állandó, ellenszolgáltatás nélkül történő elhelyezésének céljából működtetett intézmény;
@@ -124,7 +124,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (2) A kábítási kötelezettség nem vonatkozik a gerinctelen állatokra, a háztartásban élelmezési célra levágott baromfira, nyúlra, valamint arra az esetre, ha az állat életének kioltását szükséghelyzet indokolja. Ezekben az esetekben is gondoskodni kell azonban arról, hogy az állat életének kioltása szakszerű gyorsasággal és a legkisebb szenvedéssel járjon.
 
-(3) Külön jogszabály rendelkezik az állati élet olyan módon történő kioltásáról, amelynél az előzetes kábítás nem kötelező, ha az eljárás azonnali teljes öntudatvesztést és érzéketlenséget vagy halált okoz.
+(3) Jogszabály rendelkezik az állati élet olyan módon történő kioltásáról, amelynél az előzetes kábítás nem kötelező.
 
 ### III. Fejezet — EGYES ÁLLATOK VÉDELMÉNEK KÜLÖN SZABÁLYAI
 
@@ -402,6 +402,8 @@ teszi szükségessé.
 
 (4) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
+(5) Az állatkert köteles az ott élő állatok szakszerű bemutatásával és tájékoztatással természetvédelmi és állatvédelmi tárgyú ismeretterjesztést, oktatást és nevelést végezni.
+
 40. § (1) Cirkuszi menazséria létesítéséhez és fenntartásához a kereskedelmi hatóság engedélye szükséges. A hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
 
 (2) Az (1) bekezdést a cirkuszi menazséria létesítési és működtetési tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
@@ -502,7 +504,7 @@ teszi szükségessé.
 (4) Nem szedhető ebrendészeti hozzájárulás
 
 - a) a védett őshonos vagy veszélyeztetett, magas genetikai értéket képviselő tenyésztett magyar állatfajták nemzeti kinccsé nyilvánításáról szóló 32/2004. (IV. 19.) OGY határozat mellékletében felsorolt magyar kutyafajtákba tartozó törzskönyvezett,
-- b) a mentő-, jelző-, vakvezető, rokkantsegítő vagy terápiás,
+- b) a mentő-, jelző-, vakvezető, rokkantsegítő, terápiás vagy az Országos Magyar Vadászkamara által kiállított vadászkutya alkalmassági vizsgaigazolvánnyal rendelkező
 - c) a Magyar Honvédségben, rendvédelmi szervben, nemzetbiztonsági szolgálatban vagy közfeladatot ellátó őrszolgálatban alkalmazott,
 - d) – a veszélyes eb kivételével – az ivartalanított,
 - e) az ismert tartóval nem rendelkező és állatmenhelyen, ebrendészeti telepen vagy állatvédelmi szervezet gondozásában tartott, valamint
@@ -585,7 +587,7 @@ eb után.
 
 46. §
 
-47. § A miniszter az állatvédelmi hatósági feladatok ellátásának elősegítésére, valamint a társadalmi részvétel biztosítása érdekében szakértői testületet hoz létre. A testületben biztosítja az érintett szakmai szervezetek és a bejegyzett országos állatvédő egyesületek részvételét.
+47. §
 
 48. § (1) Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti azon civil szervezeteket, amelyek tevékenysége az állatok védelmére irányul, az állatvédelmi jogszabályok megsértése miatt általuk kezdeményezett hatósági eljárásokban az ügyfél jogállása illeti meg.
 
@@ -626,7 +628,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap
 
-- a) a miniszter, hogy a szakértői testület létrehozására, működtetésére vonatkozó részletes szabályokat, a mezőgazdasági haszonállatok sajátos tartási szabályait, a vágóállatok körét, az állatok levágásának és leölésének részletes szabályait,
+- a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter), hogy a mezőgazdasági haszonállatok tartásának részletes szabályait;
 - b) a miniszter, hogy a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 - c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 - d)
@@ -634,7 +636,8 @@ rendeletben állapítsa meg.
 - f) a miniszter, hogy az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait,
 - g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét,
 - h) a miniszter, hogy a veszélyes eb tartása engedélyezésének igazgatási szolgáltatási díját, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
-- i) a miniszter, hogy a szőrméjükért tartott állatfajok körét, tartásuk, tenyésztésük és szaporításuk különleges szabályait
+- i) a miniszter, hogy a szőrméjükért tartott állatfajok körét, tartásuk, tenyésztésük és szaporításuk különleges szabályait,
+- j) miniszter, hogy a vágóállatok körét, az állatok levágásának és leölésének részletes szabályait
 
 rendeletben állapítsa meg.
 
@@ -656,6 +659,7 @@ rendeletben állapítsa meg.
 - j) a Tanács 2008/119/EK irányleve a borjak védelmére vonatkozó minimumkövetelmények megállapításáról,
 - k) a Tanács 2008/120/EK irányelve a sertések védelmére vonatkozó minimumkövetelmények megállapításáról,
 - l) a Tanács 1099/2009/EK rendelete az állatok leölésük során való védelméről,
-- m) az Európai Parlament és a Tanács 2010/63/EU irányelve a tudományos célokra felhasznált állatok védelméről.
+- m) az Európai Parlament és a Tanács 2010/63/EU irányelve a tudományos célokra felhasznált állatok védelméről,
+- n) a Tanács 1999/22/EK irányelve a vadon élő állatok állatkertben tartásáról.
 
 51. § E törvény 42/C. § (4) bekezdésének a) pontja tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.

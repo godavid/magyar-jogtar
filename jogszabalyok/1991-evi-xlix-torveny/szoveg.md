@@ -39,9 +39,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 - e) vagyon: mindaz, amit a számvitelről szóló törvény befektetett eszköznek vagy forgóeszköznek minősít;
 - f) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 - g) függő követelés: bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó olyan követelés, amelynek beállta és esedékessége még bizonytalan;
-- j) föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld;
-- k) tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya;
-- l) termőföld: a termőföld védelméről szóló törvényben meghatározott termőföld.
+- j)–l)
 
 (2)
 
@@ -53,7 +51,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 - a) a jogszabályban meghatározott természetvédelmi oltalom alatt álló földterület (nemzeti park, fokozottan védett terület, nemzetközi egyezmény hatálya alá tartozó terület), külön jogszabályban meghatározott nemzeti vagyonban lévő műemlék, valamint az olyan állami vagy önkormányzati tulajdonban álló vagyon, amely tekintetében a gazdálkodó szervezet jogszabály vagy szerződés alapján tulajdonosi jogokat, vagyonkezelői jogot vagy más, használatot biztosító jogot gyakorol, az említett vagyonkezelői jog és más, a használatot biztosító jog,
 - b) a vízitársulatok tulajdonában, vagyonkezelésében, használatában lévő vizek, vízilétesítmények és a vízitársulatoknak a közfeladatok ellátásához szükséges elkülönített vagyona;
-- c) a kárpótlás céljára elkülönített föld, a törvényben meghatározott földalap és a kárpótlási árverésre kijelöléssel nem érintett, illetve a kárpótlási árverésből visszamaradt földterület;
+- c) a kárpótlás céljára elkülönített termőföld, a törvényben meghatározott földalap és a kárpótlási árverésre kijelöléssel nem érintett, illetve a kárpótlási árverésből visszamaradt földterület;
 - d) a gazdálkodó szervezet vagyonából az az ingatlan, amely – a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény 7. § (1) bekezdésében foglaltak alapján – a Kormány által jóváhagyott jegyzékben szerepel;
 - e) az adós munkavállalójának munkabéréből – külön jogszabály rendelkezései szerint – levont, valamint a csődeljárás, illetve a felszámolási eljárás tartama alatt levonásra kerülő szakszervezeti vagy egyéb érdek-képviseleti tagdíj,
 - f) a munkavállaló munkabéréből jogszabály rendelkezései szerint a csődeljárás elrendelésének időpontjában vagy a felszámolási eljárás kezdő időpontjában már levont, de még be nem fizetett közteher,
@@ -112,7 +110,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 
-(5) 2014. július 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
+(5) 2015. január 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
 
 (6) Az e törvényben szabályozott nemperes eljárásokban – a (7) bekezdésben foglalt kivétellel – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
@@ -188,7 +186,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 (4)
 
-(5) A csődeljárás iránti (1) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2014. július 1-jétől kizárólag elektronikus nyomtatvány lehet.
+(5) A csődeljárás iránti (1) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2015. január 1-jétől kizárólag elektronikus nyomtatvány lehet.
 
 8. § (1) A 7. § szerinti kérelem benyújtásához az adós gazdálkodó szervezet alapítói (tagsági) jogait gyakorló legfőbb szerv előzetes egyetértése szükséges. Egyéni cég esetében a kérelmet a cégtulajdonos saját döntése alapján nyújthatja be. A kérelem benyújtásáról a munkavállalókat, a Munka Törvénykönyvében meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) tájékoztatni kell.
 
@@ -940,7 +938,7 @@ folytatható le.
 
 49. § (1) A felszámoló az adós vagyontárgyait nyilvánosan értékesíti a forgalomban elérhető legmagasabb áron. A felszámoló az értékesítést pályázat vagy árverés keretében végzi. Ezen eljárások alkalmazásától csak akkor tekinthet el a felszámoló, ha ehhez a választmány hozzájárul, vagy ha a várható bevételek nem fedezik az értékesítés költségeit, vagy ha a várható bevételek és az értékesítés előrelátható költségei közötti különbség kevesebb, mint 100 000 Ft. Ebben az esetben a felszámoló az értékesítés egyéb nyilvános formáját is alkalmazhatja a kedvezőbb eredmény elérése érdekében.
 
-(1a) Ha az értékesítendő vagyonban föld, illetve tanya van, ezek értékesítésére a mező- és erdőgazdasági földek forgalmáról szóló törvényben és végrehajtási rendeletében meghatározott szabályokat kell alkalmazni.
+(1a)
 
 (2) Az értékesítést – ha a választmány (választmány hiányában a hitelezői képviselő) ettől eltérően nem rendelkezik – a felszámolás közzétételének időpontjától számított 100 napon belül kell megkezdeni. A hitelezői választmány előírhatja, hogy a felszámoló az értékesítési eljárásról a választmányt értesítse, illetve tegye lehetővé az értékbecslés és az értékesítési eljárás hitelezők általi megismerését, figyelemmel kísérését. A hitelezői választmány előírhatja, hogy a felszámoló a pályázati felhívás, illetve az árverési hirdetmény szövegéről és az értékesítésre kerülő vagyontárgyak becsértékéről előzetesen, észrevételezési jog biztosításával tájékoztassa a választmányt. A becsérték felülvizsgálatára a hitelezői választmány a bíróságtól szakértő kirendelését kezdeményezheti, amelynek költségét előlegezni köteles. A bíróság a kérelemről 8 napon belül dönt. A szakértő díját a felszámolási költségek [57. § (2) bekezdés e) pont] terhére kell elszámolni, amennyiben az általa megállapított becsérték kerül elfogadásra. Ha a szakértői vélemény alapján a becsérték módosítására nincs szükség, a szakértői díjat a választmányban résztvevő hitelezők viselik, a szakértő kirendelésének kezdeményezésével összefüggő megállapodásuk szerinti arányban.
 

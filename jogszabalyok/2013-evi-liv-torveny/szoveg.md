@@ -16,6 +16,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 (3) Az egyetemes szolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. január 1-je óta eltelt időszakban.
 
+(4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített földgáz egyetemes szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásában terhelte.
+
 2. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 3. § 7. pontjában meghatározott egyetemes szolgáltatás keretében vételező, a Vet. 3. § 42. pontjában meghatározott lakossági fogyasztó részére, az egyetemes szolgáltató által kibocsátott számlában a 2013. október 31-ét követő időszakban igénybe vett villamos energiáért fizetendő összeg nem haladhatja meg a 2013. október 31-én alkalmazott díjak alapján azonos energia mennyiségre, azonos számú hónapra, azonos körülmények között (azonos árszabás mellett) számított összeg 88,9%-át.
 
 (2)
@@ -36,6 +38,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 (3) A szolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
 
+(4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített víziközmű-szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásban terhelte.
+
 5. § Az egyetemes szolgáltató, a távhőszolgáltató, a víziközmű-szolgáltató, valamint a hulladékgazdálkodási közszolgáltató (a továbbiakban: szolgáltató) – a törvény hatálybalépése után, első alkalommal 30 napon belül, ezt követően – a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az e törvényben foglalt előírások teljesülését.
 
 6. § Az 5. §-ban meghatározott kötelezettség a víziközmű-szolgáltatót, a hulladékgazdálkodási közszolgáltatót, valamint – a közvetítésével nyújtott és az általa kiszámlázott ivóvíz-szolgáltatás esetében – a távhőszolgáltatót, a 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában terheli.
@@ -50,6 +54,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 (3) E törvény rendelkezései az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-#### 9–12. §
+9. § Rezsicsökkentés alatt a közszolgáltatások végfogyasztói árainak jogszabályok alapján megvalósuló csökkenését kell érteni.
+
+#### 10–12. §
 
 13. § Ez a törvény a kihirdetését követő napon lép hatályba.

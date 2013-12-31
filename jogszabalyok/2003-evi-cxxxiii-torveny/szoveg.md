@@ -365,6 +365,24 @@ vonatkozó részletes szabályokat.
 
 (3) A közös képviselő (az intézőbizottság elnöke) köteles megőrizni az ingatlanügyi hatósághoz benyújtott alapító okirat és szervezeti-működési szabályzat egy példányát.
 
+43/A. § (1) A közös képviselő vagy az intézőbizottság – többletdíjazás felszámítása nélkül – a rezsicsökkentések végrehajtásához kapcsolódóan tájékoztatja a tulajdonostársa(ka)t
+
+- a) minden hónap 15. napjáig, legalább 45 nap időtartamra kifüggesztve – az 1. mellékletben meghatározott formában és tartalommal – írásban, figyelemfelkeltő és a fogyasztók által jól látható módon elhelyezett hirdetmény útján a közös tulajdonú épületrészeket érintő, valamint a 24. § (2) bekezdés b) pontja szerinti közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentések eredményeként a társasház tekintetében jelentkező megtakarításokról költségnemenkénti bontásban,
+- b) minden év február 15. napjáig, írásban, a közös tulajdonú épületrészeket érintő és a 24. § (2) bekezdés b) pontja szerinti közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentés egyes közszolgáltatási területeken történt bevezetése óta, az annak eredményeként a tulajdonostárs külön tulajdonú lakása és a nem lakás céljára szolgáló helyisége tekintetében jelentkező megtakarításairól a 24. § (2) bekezdés a) és b) pontja alapján számított költségnem szerinti bontásban és évenként összesítve, és
+- c) a 35. § (1) bekezdése szerinti időpontig a 48. § (1) bekezdés g) pontjában foglaltakról.
+
+(2) Ha valamely közüzemi szolgáltató az adott hónapban nem állít ki a társasház számára számlát, úgy az (1) bekezdés a) pontja szerinti tájékoztatásban e költségnem tekintetében elegendő erre a tényre utalni.
+
+(3) Ha a társasház valamely közüzemi szolgáltatás tekintetében nem részesült a rezsicsökkentésből eredő megtakarításban, akkor a közös képviselő vagy az intézőbizottság köteles ennek indokát a tájékoztatásban érthető és világos módon szerepeltetni. Ha a társasház a villamos energiát vagy földgázt nem egyetemes szolgáltatás keretében vételezi, akkor a tájékoztatásban azt kell feltüntetni, hogy ezen okból az említett területen a társasház nem jogosult a rezsicsökkentésre.
+
+(4) Az (1)–(3) bekezdés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) alkalmazásában fogyasztóvédelmi rendelkezés.
+
+(5) A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni, azzal, hogy a közös képviselő vagy az intézőbizottság tagja az Fgytv. alkalmazásában vállalkozásnak minősül akkor is, ha természetes személy vagy önálló foglalkozásán vagy gazdasági tevékenységi körén kívül eső célból jár el.
+
+(6) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja az (1) bekezdésben foglaltak megsértését, a kiszabott fogyasztóvédelmi bírság megfizetésére a közös képviselő vagy az intézőbizottság köteles, a társasházat helytállási kötelezettség nem terheli. A bírság megfizetéséért az intézőbizottság tagjainak felelőssége egyetemleges.
+
+(7) Rezsicsökkentés alatt a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 9. §-ában foglaltakat kell érteni.
+
 44. § (1) A közös képviselő (az intézőbizottság elnöke) köteles a közgyűlés határozatairól és a határozatok végrehajtásáról nyilvántartást (a továbbiakban: Közgyűlési Határozatok Könyve) vezetni.
 
 (2) A Közgyűlési Határozatok Könyve – évenkénti bontásban – a hitelesített közgyűlési jegyzőkönyv alapján tartalmazza:
@@ -390,16 +408,17 @@ vonatkozó részletes szabályokat.
 - b) a tervezett üzemeltetési, karbantartási és felújítási munkákat, valamint
 - c) a közös költséghez való hozzájárulás összegét – a tulajdonostársak nevének feltüntetésével –, a külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek szerinti bontásban.
 
-48. § (1) A számviteli szabályok szerinti könyvvezetés és beszámoló alapján a közös képviselő, illetőleg az intézőbizottság éves elszámolása tartalmazza:
+48. § (1) A számviteli szabályok szerinti könyvvezetés és beszámoló alapján a közös képviselő, illetve az intézőbizottság éves elszámolása tartalmazza:
 
 - a) a tervezett és tényleges kiadásokat költségnemenként és a közös költség megosztásának a szervezeti-működési szabályzatban megállapított szabálya szerinti bontásban, ezen belül az üzemeltetési kiadásokat, valamint a karbantartásokat és a felújításokat az elvégzett munkák részletezésében,
 - b) a tervezett és tényleges bevételeket források szerint, ideértve a közösség javára még nem teljesített – lejárt – követelések részletezését és a behajtás érdekében megtett intézkedéseket is,
 - c) az a)–b) pont különbségének záróegyenlegét a pénzkészletek kezelési helye szerint részletezve,
 - d) a közösség tulajdonát képező vagyontárgyak tárgyi-eszköz leltárát,
-- e) a tárgyévhez tartozó, a közösség egészét terhelő kötelezettségeket, továbbá
-- f) a közös költségekhez való hozzájárulás előírását és teljesítését – a tulajdonostársak nevének feltüntetésével –, a külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek szerinti bontásban.
+- e) a tárgyévhez tartozó, a közösség egészét terhelő kötelezettségeket,
+- f) a közös költségekhez való hozzájárulás előírását és teljesítését – a tulajdonostársak nevének feltüntetésével –, a külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek szerinti bontásban, továbbá
+- g) a rezsicsökkentések eredményeként jelentkező megtakarítások összegét költségnemenként és tulajdonostársanként a közös költség megosztásának a szervezeti működési szabályzatban megállapított szabálya szerinti bontásban.
 
-(2) Az éves elszámolás elfogadása esetén a közgyűlés a közös képviselő, illetőleg az intézőbizottság tárgyévi ügykezelő tevékenységét jóváhagyja. A jóváhagyás nem jelenti az esetleges kártérítési igényről történő lemondást.
+(2) Az éves elszámolás elfogadása esetén a közgyűlés a közös képviselő vagy az intézőbizottság tárgyévi ügykezelő tevékenységét jóváhagyja. A jóváhagyás nem jelenti az esetleges kártérítési igényről és a fogyasztóvédelmi hatóság 43/A. § (5) bekezdése szerinti eljárásáról való lemondást.
 
 (3) A közös képviselő (az intézőbizottság elnöke) – ha a közgyűlés e megbízatása alól felmenti – köteles az új közös képviselő (az intézőbizottság új elnöke) részére a megválasztásától számított harminc napon belül írásbeli jegyzőkönyv alapján, a társasházra vonatkozó összes iratot, az erről szóló teljességi nyilatkozattal együtt, átadni.
 
@@ -592,3 +611,24 @@ kezeli.
 66. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy az e törvény szerinti üzletszerűen végzett társasház-kezelői, illetőleg üzletszerűen végzett ingatlankezelői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a tevékenységet folytatókról vezetett nyilvántartásnak a személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 
 67. § Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy városképi vagy kereskedelmi szempontok alapján – az építésügyi, illetve a kereskedelmi jogszabályokkal összhangban – rendeletben határozhassa meg a nem lakás céljára szolgáló helyiség használatának, hasznosításának, illetve ezek megváltoztatásának módját, feltételeit.
+
+### 1. melléklet a 2003. évi CXXXIII. törvényhez
+
+#### A társasházak által alkalmazandó hirdetmény
+
+| HIRDETMÉNY |  |  |  |
+| --- | --- | --- | --- |
+| a közös tulajdonú épületrészeket érintő közüzemi szolgáltatások díja, valamint a külön tulajdonon belül nem mérhető közüzemi szolgáltatások díja vonatkozásában a rezsicsökkentések eredményeként a társasház tekintetében jelentkező megtakarításáról |  |  |  |
+| CÍM* |  |  |  |
+| ÉRINTETT KÖZÜZEMI SZOLGÁLTATÁS MEGNEVEZÉSE** |  |  |  |
+|  | Elszámolt időszak: | tól- | ig |
+|  | Fizetett összeg: |  | Ft |
+|  | A társasház megtakarítása az elszámolt időszakban: |  | Ft |
+|  | A társasház megtakarítása 2013. január 1-je/2013. július 1-je*** óta összesen: |  | Ft |
+| A társasházi törvény 43/A. § (3) bekezdése szerinti tájékoztatás**** Hirdetmény kifüggesztésének időpontja: Hirdetmény levételének legkorábbi időpontja: |  |  |  |
+
+| * az érintett társasház címét kell feltüntetni |
+| --- |
+| ** az adatokat az érintett közszolgáltatásonként külön pontban, egymás alatt szükséges feltüntetni |
+| *** a két dátum közül azt kell feltüntetni, amelyik az érintett közüzemi szolgáltatásnál a rezsicsökkentés kezdő időpontjának felel meg |
+| **** a tájékoztatást csak akkor kell feltüntetni, ha azt a társasházi törvény előírja |

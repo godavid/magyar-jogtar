@@ -295,6 +295,8 @@ feladatok ellátásáért.
 
 (2) Jogszabály előírhatja, hogy az (1) bekezdésben foglaltak szerinti megállapodás csak az irányító hatóság által a külön jogszabályban foglaltak szerint elismert jogi személynek minősülő helyi akciócsoporttal köthető.
 
+(3) A helyi akciócsoport (1) bekezdés szerinti eljárásában ügyintéző, illetve döntéshozó – ha jogszabály másként nem rendelkezik – csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek, illetve kormányzati ügykezelőnek kinevezhető lenne. A személyi feltételek vonatkozásában jogszabály további rendelkezéseket tartalmazhat. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
+
 ### III. Fejezet — ADATKEZELÉS, NYILVÁNTARTÁSOK
 
 ### A támogatási adat kezelése
@@ -1009,6 +1011,10 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (3)
 
+64/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szervet a hatáskörébe tartozó intézkedésekkel kapcsolatban elkövetett bűncselekmények miatt indult vagy az intézkedéseket érintő bűncselekmények miatt folyamatban lévő büntetőeljárásokban a sértett jogai illetik meg.
+
+(2) Az (1) bekezdésben említett bűncselekményekkel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt a mezőgazdasági és vidékfejlesztési támogatási szerv terjeszti elő.
+
 ### V. Fejezet — PÁLYÁZATI ELJÁRÁS
 
 65. § (1) A pályázóra a törvény III., illetve VI. fejezetének ügyfelekre vonatkozó szabályait megfelelően alkalmazni kell.
@@ -1159,7 +1165,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (5) Az állattenyésztéshez kapcsolódó intézkedések esetében a jogszabályban meghatározott élőmunka-ráfordítás, beruházási kötelezettség, illetőleg képzési kötelezettség nem vagy hiányos teljesítése esetén jogszabályban meghatározottak szerint a támogatás alapjául szolgáló állategységenként évenként legfeljebb 100 eurónak megfelelő forintösszeg vehető figyelembe.
 
-(6) A nem teljesítési bírság kiszabásánál a 71. § (5) bekezdésében foglaltakat kell megfelelően alkalmazni.
+(6)
 
 (7) A nem teljesítési bírság mértéke hivatalból vagy kérelemre a jogszabályban meghatározottak szerint mérsékelhető, illetőleg kiszabása mellőzhető, ha az ügyfél mulasztását elháríthatatlan külső ok idézte elő és e körülmény fennállását a jogszabályban meghatározottak szerint igazolta.
 
@@ -1318,5 +1324,7 @@ rendeletben állapítsa meg.
 (2) E törvénynek a módosító rendelettel megállapított 31/C. §-át 2011. január 1-jétől kell alkalmazni.
 
 (3) E törvénynek a módosító rendelettel megállapított 79/A. §-át a módosító törvény hatálybalépését követően benyújtott támogatási és kifizetési kérelmek alapján indult elsőfokú, jogorvoslati és döntés-felülvizsgálati eljárásokban kell alkalmazni.
+
+85/A. § E törvénynek az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvénnyel (a továbbiakban: módosító törvény 2.) megállapított 64/A. §-át a módosító törvény 2. hatálybalépésekor folyamatban lévő büntetőeljárásokban is alkalmazni kell.
 
 86. § E törvénynek az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a folyamatban levő ügyekben és eljárásokban is kell alkalmazni azzal, hogy a Módtv. hatálybalépése előtt megállapított regisztrációs számok és technikai azonosítók ügyfél-azonosító számnak minősülnek, továbbá a regisztrált ügyfelek kérelemre nyilvántartásba vett, a technikai azonosítóval rendelkező ügyfelek nyilvántartásba vett ügyfeleknek minősülnek.

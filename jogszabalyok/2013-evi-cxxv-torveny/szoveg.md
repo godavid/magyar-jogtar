@@ -62,7 +62,7 @@ terjed ki.
 
 (2) A kérelem tartalma:
 
-- a) a kérelmező neve, székhelye, cégjegyzékszáma, környezeti ügyfél jele, környezeti területi jele, statisztikai számjele, pénzforgalmi számlaszáma,
+- a) a kérelmező neve, székhelye, cégjegyzékszáma, környezetvédelmi ügyfél jele, környezetvédelmi területi jele, statisztikai számjele, pénzforgalmi számlaszáma,
 - b) a kérelmező telephelyének, fióktelepének címe,
 - c) a kérelmező kijelölt kapcsolattartójának neve,
 - d) a kérelem típusa (új kérelem, módosítási kérelem, minősítő okirat hatályának meghosszabbítása iránti kérelem, adatváltozás bejelentése),
@@ -133,16 +133,27 @@ terjed ki.
 
 (2) A kérelemnek helyt adó döntés esetén a minősítő a költségek megállapításáról és viseléséről külön végzésben dönt.
 
-(3) A minősítő okirat időbeli hatálya
+(3) A minősítő okirat időbeli hatálya – a (4) bekezdésben meghatározott kivétellel
 
 - a) az okirat kiállításától számított 36. hónap utolsó napjáig tart, vagy
 - b) megegyezik a hulladékgazdálkodási közszolgáltatási engedély időbeli hatályával, ha a minősítő okirat alapjául szolgáló hulladékgazdálkodási közszolgáltatási engedély időbeli hatálya az a) pont szerinti időbeli hatálynál rövidebb.
+
+(4) A 11. § (1) bekezdésében meghatározott esetben az új minősítő okirat időbeli hatálya megegyezik az eredeti minősítő okirat időbeli hatályával.
 
 10. § A minősítő okirat kiállításának alapjául szolgáló feltételeknek a minősítő okirat időbeli hatálya alatt a kérelmezőnek folyamatosan meg kell felelnie. A kérelmező a környezetirányítási célok teljesítésének érdekében vállalt intézkedéseket a környezetirányítási programban foglaltaknak megfelelően végrehajtja.
 
 #### 5. Adatváltozás bejelentése
 
-11. § Ha a kérelmezőnek a hulladékgazdálkodási tevékenységét nem érintő adataiban olyan változás következik be, amely a kiállított minősítő okirat adatának megváltoztatását igényli, a kérelmező a változás bekövetkezésétől számított 15 napon belül adatváltoztatási kérelmet nyújt be. A kérelemhez csatolni kell az adatváltozást igazoló okiratot. A minősítő az új minősítő okiratot 30 napon belül állítja ki.
+11. § (1) Ha a kérelmező
+
+- a) személyében, vagy
+- b) hulladékgazdálkodási tevékenységét nem érintő adataiban
+
+olyan változás következik be, amely a kiállított minősítő okirat adatának megváltoztatását igényli, a kérelmező a változás bekövetkezésétől számított 15 napon belül adatváltoztatási kérelmet nyújt be. A kérelemhez csatolni kell az adatváltozást igazoló okiratot. A minősítő a kérelemről 30 napon belül dönt.
+
+(2) Az (1) bekezdés a) pont szerinti esetben a minősítő megvizsgálja a minősítő okirat kiállításának alapjául szolgáló feltételeknek való megfelelést, és kiállítja az új minősítő okiratot.
+
+(3) Ha a kérelmező hulladékgazdálkodási tevékenységét érintő adataiban olyan változás következik be, amely a minősítési osztályba sorolását nem érinti, a kérelmező e tényt a változás bekövetkezésétől számított 15 napon belül bejelenti.
 
 #### 6. Új minősítési osztály kérelmezése
 
@@ -189,7 +200,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 #### 11. Egyéb eljárási szabályok
 
-17. § (1) A 11–16. §-ban foglalt eljárásokra a minősítési eljárásra vonatkozó szabályokat kell alkalmazni.
+17. § (1) A 11. § (1) és (2) bekezdésében és a 12–16. §-ban foglalt eljárásokra a minősítési eljárásra vonatkozó szabályokat kell alkalmazni.
 
 (2) A minősítő okirat módosítása esetén a minősítő új minősítő okiratot állít ki, és a módosítással érintett korábbi minősítő okiratot visszavonja.
 
@@ -229,7 +240,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 (4) A 28. § (2) bekezdése, a 35. § (3) bekezdése, a 37. § (2) és (4) bekezdése, 38. § (2) bekezdése, valamint a 42. § (3) bekezdése 2015. január 1-jén lép hatályba.
 
-22. § (1) Az e törvény hatálybalépésétől 2016. július 1-jéig terjedő időszakban a minősítő okirat időbeli hatálya az okirat kiállításától számított 12. hónap utolsó napjáig tart.
+22. § (1) Az e törvény hatálybalépésétől 2016. július 1-jéig terjedő időszakban a minősítő okirat időbeli hatálya – a (4) bekezdésben meghatározott kivétellel – az okirat kiállításától számított 12. hónap utolsó napjáig tart.
 
 (2) Az e törvény hatálybalépése előtt benyújtott minősítés iránti kérelem esetén a kérelmezőnek – ha kérelmét fenntartja – e törvény hatálybalépésétől számított 15 napon belül kérelmét ki kell egészítenie a 4. §-ban foglaltaknak megfelelően, a 4. § (3) bekezdés d) pontjában foglaltak kivételével.
 

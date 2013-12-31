@@ -303,6 +303,10 @@ sem.
 
 (9) A (8) bekezdés kivételével a bíróság a beszámolók, és a bírósághoz korábban benyújtott létesítő okirat alapján dönt a szervezet közhasznúvá minősítéséről, ebben az esetben az eljárás során hiánypótlási felhívás kibocsátásának nincs helye.
 
+44/A. § (1) 2014. december 31-éig a bíróság a közhasznú szervezet letétbe helyezett beszámolóját a letétbe helyezést követő hatvan napon belül megvizsgálja; ha a beszámoló alapján azt állapítja meg, hogy a szervezet a közhasznúvá minősítés feltételeinek nem felel meg, a szervezet közhasznú minősítésének megszüntetéséről és az erre vonatkozó adat nyilvántartásból való törléséről határoz.
+
+(2) 2014. december 31-éig a cégbíróság, és ha a nyilvántartásba vételre nem bíróság jogosult, az erre jogosult szervezet az (1) bekezdés és a 44. § rendelkezései szerint jár el – az eljárására irányadó szabályok szerint – az általa nyilvántartott szervezet közhasznúvá minősítése és a közhasznú jogállás nyilvántartásba történő bejegyzésére, illetve a közhasznú minősítés megszüntetése és a közhasznú jogállás nyilvántartásból való törlésére irányuló eljárás során.
+
 45. § (1)
 
 (2) A cégbíróság és ha a nyilvántartásba vételre nem bíróság jogosult, az erre jogosult szervezet az (1) bekezdés és a 44. § rendelkezései szerint jár el – az eljárására irányadó szabályok szerint – az általa nyilvántartott szervezet közhasznúvá minősítése és a közhasznú jogállás nyilvántartásba történő bejegyzésére, illetve a közhasznú minősítés megszüntetése és a közhasznú jogállás nyilvántartásból való törlésére irányuló eljárás során.
@@ -605,9 +609,9 @@ is.
 
 #### 46. Átmeneti rendelkezések
 
-99. § (1) A 2014. július 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány esetében az első változásbejegyzési kérelem benyújtásakor be kell jelenteni a bíróság részére az egyesület, és az alapítvány képviselőjének anyja születési nevét, illetve a jogi személy szervezetei egység képviselőjének nevét és anyja születési nevét.
+99. § (1) A 2015. január 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány esetében az első változásbejegyzési kérelem benyújtásakor be kell jelenteni a bíróság részére az egyesület, és az alapítvány képviselőjének anyja születési nevét, illetve a jogi személy szervezetei egység képviselőjének nevét és anyja születési nevét.
 
-(2) A 2014. július 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány képviselője a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti anyja születési nevét. A bíróság a bejelentés alapján a képviselő anyja születési nevét hivatalból bejegyzi a nyilvántartásba. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
+(2) A 2015. január 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány képviselője a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti anyja születési nevét. A bíróság a bejelentés alapján a képviselő anyja születési nevét hivatalból bejegyzi a nyilvántartásba. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
 
 99/A. § (1) Az egyes törvényeknek a XX. századi önkényuralmi rendszerekhez köthető elnevezések tilalmával összefüggő módosításáról szóló 2012. évi CLXVII. törvény (a továbbiakban: Törvény) hatálybalépését megelőzően bejegyzett azon szervezetek – az alapítványt ide nem értve –, amelyeknek elnevezése nem felel meg a 36. § (4a) bekezdésében foglalt előírásnak, a Törvény hatálybalépését követő, a nyilvántartásban szereplő adataik első változásakor, de legkésőbb 2014. január 1-jéig kötelesek a szervezet nevének megváltoztatására.
 
@@ -648,13 +652,13 @@ is.
 
 (3) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 59. § (1) és (5) bekezdését, 60. §-át és 61. §-át a Mód. tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-(4) A bizonyítvány és a másolat 2014. július 1. napjától a szervezet 2014. július 1. napján és azt követően fennálló vagy törölt adatait tartalmazza. A bizonyítvány és a másolat erre való figyelmeztetést tartalmaz.
+(4) A bizonyítvány és a másolat 2015. január 1. napjától a szervezet 2015. január 1. napján és azt követően fennálló vagy törölt adatait tartalmazza. A bizonyítvány és a másolat erre való figyelmeztetést tartalmaz.
 
 105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2014. július 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2014. július 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2014. július 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
 
 (2) Ha a beszámoló benyújtására köteles szervezet 2013. január 1. napja és 2014. május 30. napja között a korábbi két év beszámolóját is benyújtja az OBH részére azt az OBH az országos névjegyzékben közzéteszi.
 
-106. § Az OBH legkésőbb 2014. június 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.
+106. § Az OBH legkésőbb 2014. december 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.
 
 107–108. §
 
