@@ -867,7 +867,7 @@ rendeletben szabályozza.
 
 (3) E törvény 80. § e) pontja 2012. január 2. napján lép hatályba.
 
-(4) E törvény 13. § (2) és (3) bekezdése, valamint a 14. § (2) bekezdése 2014. július 1. napján lép hatályba.
+(4) E törvény 13. § (2) és (3) bekezdése, valamint a 14. § (2) bekezdése 2015. január 1. napján lép hatályba.
 
 #### 25. Átmeneti rendelkezések
 
