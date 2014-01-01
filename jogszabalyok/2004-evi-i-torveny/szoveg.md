@@ -342,10 +342,13 @@ szabható ki.
 - d) érvényesíti a doppingtilalmat,
 - e) meghatározza a sportlétesítmények használatával, illetve a sporteseményekkel kapcsolatos sportági követelményeket,
 - f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett
-  - fa) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
-  - fb) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
-  - fc) kezdeményezi a sportigazgatási szervnél a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a magyar állam javára történő bejegyeztetését az ingatlan-nyilvántartásba,
-  - fd) az fa)–fb) alpontban meghatározott feladatai ellátása során kapcsolatot tart a sportigazgatási szervvel, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a sportigazgatási szervet az általa kiadott támogatási igazolásokról,
+  - fa) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9a) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
+  - fb) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 22/C. §-a szerinti támogatási igazolást,
+  - fc) kezdeményezi a sportpolitikáért felelős miniszternél a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára történő bejegyeztetését az ingatlan-nyilvántartásba,
+  - fd) az fa) és fb) alpontban meghatározott feladatai ellátása során kapcsolatot tart a sportpolitikáért felelős miniszterrel, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a sportpolitikáért felelős minisztert az általa kiadott támogatási igazolásokról,
+  - fe) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet vonatkozásában – kivéve a Tao. 22/C. § (9a) bekezdés szerinti esetet – ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását,
+  - ff) az fe) alpontban meghatározott feladata ellátása során összesítő elszámolást készít az ellenőrzés eredményéről az ellenőrzést követő 8 napon belül a sportpolitikáért felelős miniszter részére,
+  - fg) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez.
 - g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő feladatait, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
 - h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni.
 
@@ -852,7 +855,7 @@ felelős szakmai tagozatok működnek.
 - d) a sportpolitikáért felelős miniszter javaslata alapján a nemzetközi sportszervezetek (jogtulajdonosok) által megkívánt garanciát vállal a kiemelt nemzetközi sportrendezvények (különösen olimpia, Paralimpia, Siketlimpia és speciális világjátékok, világbajnokság, Európa-bajnokság) és sportdiplomáciai események magyarországi megrendezéséhez,
 - e) a sportkultúra fenntartásával és fejlesztésével kapcsolatos feladatok ellátása során támogatja a határon túli magyar sportkapcsolatok fejlesztését.
 
-51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a miniszter gondoskodik.
+51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a sportpolitikáért felelős miniszter gondoskodik.
 
 (2) A sportpolitikáért felelős miniszter:
 
@@ -862,15 +865,15 @@ felelős szakmai tagozatok működnek.
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 - e) együttműködik az Országos Területfejlesztési Tanáccsal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal és a térségi fejlesztési tanácsokkal,
 - f) együttműködik a MOB-bal, valamint kapcsolatot tart a sport területén működő civil, érdek-képviseleti szervekkel,
-- g) – a (2a) bekezdésben foglaltakra is figyelemmel – ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
-  - ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
-  - gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
+- g) ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
+  - ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
+  - gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, továbbá kiállítja az adókedvezményekre jogosító, a Tao. 22/C. §-a szerinti támogatási igazolást,
   - gc) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,
-  - gd) valamennyi támogatott szervezet vonatkozásában ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását,
-  - ge) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja és 22/C. §-a szerinti támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, amennyiben a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe,
-  - gf) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a ge) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére,
-  - gg) intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a magyar állam javára történő bejegyeztetéséről az ingatlan-nyilvántartásba;
-  - gh) ellátja a jogszabályokban meghatározott egyéb feladatokat,
+  - gd) a Tao. 22/C. § (1) bekezdés a) és e) pontjában, valamint a Tao. 22/C. § (9a) bekezdése szerinti esetben a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatott szervezetek jóváhagyott sportfejlesztési programjai vonatkozásában ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását, valamint a 22.§ (2) bekezdés f) pont ff) alpontja szerinti, a szakszövetség által készített, ellenőrzésre vonatkozó összesítő elszámolást jóváhagyja,
+  - ge) a szakszövetség kezdeményezésére intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára az ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó kérelem benyújtásáról;
+  - gf) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja és 22/C. §-a szerinti támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe;
+  - gg) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a gf) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére;
+  - gh) ellátja a jogszabályokban meghatározott egyéb feladatokat;
   - gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támogatás ellenőrzésére jogosult más szervekkel, valamint a 22. § (2) bekezdés f) pontjában meghatározott jogkörében eljáró látvány-csapatsportág országos sportági szakszövetségével, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a látvány-csapatsportág országos sportági szakszövetségét az általa kiadott támogatási igazolásokról;
 - h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket,
 - i) a MOB-bal együttműködve programokat dolgoz ki
@@ -888,11 +891,11 @@ felelős szakmai tagozatok működnek.
 - k) közreműködik a sportszakember-képzésben és -továbbképzésben a hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
 - l) a MOB-bal együttműködésben meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását.
 
-(2a) Az (1) bekezdés g) pontjában meghatározott feladatot a sportpolitikáért felelős miniszter az irányítása alatt álló, a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló kormányrendelet vonatkozó rendelkezéseire figyelemmel meghatározott sportigazgatási szerv útján látja el.
+(2a)
 
 (3) A (2) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-(4) A sportigazgatási szerv által a (2) bekezdés g) pont ga) és gb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(4) A sportpolitikáért felelős miniszter által a (2) bekezdés g) pont ga) és gb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
 52–54. §
 
@@ -933,9 +936,9 @@ felelős szakmai tagozatok működnek.
 - b) a sportszervezetek, sportszövetségek, helyi önkormányzatok és a MOB által összeállított, a szakmai feladatok ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját tartalmazó támogatási kérelem benyújtását és annak elbírálását követően, szerződés alapján vagy
 - c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a főiskolai-egyetemi sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe. Az a)–c) pontok szerint biztosításra kerülő állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és az állami sportcélú támogatásról szóló miniszteri rendeletben foglaltakat kell alkalmazni.
 
-(2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, valamint a sportfogadás (TOTÓ) játékadóját külön jogszabályban foglaltak szerint a sport – a sportfogadás (TOTÓ) játékadója tekintetében a labdarúgás – támogatására kell felhasználni.
+(2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, valamint a sportfogadás (TOTÓ) játékadóját külön jogszabályban foglaltak szerint a sport – a sportfogadás (TOTÓ) játékadója tekintetében a Magyar Labdarúgó Szövetség útján a labdarúgás – támogatására kell felhasználni.
 
-(3) A sportpolitikáért felelős miniszter a MOB javaslatára rendeletben határozza meg az általa vezetett minisztérium költségvetési fejezetéhez tartozó állami sportcélú támogatások felhasználásának részletes szabályait.
+(3) A sportpolitikáért felelős miniszter a MOB tárgyévet megelőző év november 30-áig tett javaslatára rendeletben határozza meg az általa vezetett minisztérium költségvetési fejezetéhez tartozó állami sportcélú támogatások felhasználásának részletes szabályait.
 
 57. § (1) Állami támogatás csak annak részére nyújtható, akinek:
 
@@ -953,7 +956,7 @@ felelős szakmai tagozatok működnek.
 - f) az a sportegyesület, sportvállalkozás, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány és sportszövetség, amely az e törvényben és a sportrendezvények biztonságáról rendelkező kormányrendeletben meghatározott, a sportrendezvények biztonságos lebonyolításával összefüggő kötelezettségeinek nem tesz eleget,
 - g) az a sportszövetség, amely az e törvényben és a sport területén képesítéshez kötött tevékenységek jegyzékéről rendelkező kormányrendeletben meghatározott, képzéssel, szakképzéssel, továbbképzéssel összefüggő kötelezettségeinek nem tesz eleget,
 - h) az a sportszövetség, amely nem rendelkezik a sportágára vonatkozóan stratégiai fejlesztési koncepcióval,
-- i) az a szervezet, amely a sportigazgatási szerv által a látvány-csapatsport támogatását biztosító szabályokról szóló kormányrendeletben meghatározottak szerinti támogatásból kizárás hatálya alatt áll,
+- i) az a szervezet, amely a sportpolitikáért felelős miniszter által a látvány-csapatsport támogatását biztosító szabályokról szóló kormányrendeletben meghatározottak szerinti támogatásból kizárás hatálya alatt áll,
 - j) az a sportszövetség, amelyik az (5) bekezdés szerinti kötelezettségét határidőre nem teljesíti.
 
 (3) A támogatást nyújtó a támogatási szerződéstől köteles elállni, ha a támogatott szervezet:
@@ -1067,13 +1070,13 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 ### A Nemzet Sportolója
 
-62. § (1) A Kormány a Nemzet Sportolóinak javaslata alapján a „Nemzet Sportolója” címet és az ezzel járó életjáradékot biztosíthat a magyar sport tizenkét, hatvanadik életévét betöltött, kimagasló eredményt elért sportolónak, aki aktív sportpályafutását követően is fontos szerepet töltött be a magyar sportéletben. A Nemzet Sportolóinak a javaslatát a miniszter terjeszti a Kormány elé.
+62. § (1) A Kormány a Nemzet Sportolóinak javaslata alapján a „Nemzet Sportolója” címet és az ezzel járó életjáradékot biztosíthat a magyar sport tizenkét, hatvanadik életévét betöltött, kimagasló eredményt elért sportolónak, aki aktív sportpályafutását követően is fontos szerepet töltött be a magyar sportéletben. A Nemzet Sportolóinak a javaslatát a sportpolitikáért felelős miniszter terjeszti a Kormány elé.
 
 (2) A „Nemzet Sportolója” cím elnyerésének részletes feltételeit és az életjáradék mértékét a Kormány rendeletben állapítja meg. Annak, aki a „Nemzet Sportolója” címmel járó életjáradékban részesül, olimpiai járadék nem folyósítható.
 
 (3) A „Nemzet Sportolója” cím nem adományozható olyan személy részére, akivel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény áll fenn. A cím birtokosa érdemtelenné válására, valamint az életjáradék felfüggesztésére az olimpiai járadékra vonatkozó szabályokat megfelelően alkalmazni kell azzal, hogy a MOB az (1) bekezdés szerinti javaslat Kormány elé terjesztése céljából is jogosult adatot igényelni a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a Nemzet Sportolói által javasolt személlyel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény fennáll-e. Ha a Nemzet Sportolói által javasolt személlyel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény áll fenn, az erről szóló adatszolgáltatástól számított tizenöt napon belül a MOB új javaslat megtételére kéri fel a Nemzet Sportolóit. A MOB a Kormány döntéséig tarthatja nyilván és kezelheti az adatokat.
 
-(4) A „Nemzet Sportolója” címet elnyert személy a bíróság jogerős határozatának közlésétől számított nyolc napon belül bejelenti a MOB-nak, ha a (3) bekezdés szerint érdemtelenné vált a járadékra. Érdemtelenség esetén a Kormány a „Nemzet Sportolója” címet és az azzal járó életjáradékot a miniszter javaslatára visszavonja. Érdemtelenség esetén a MOB az életjáradék folyósítását megszünteti. A bíróság ítéletének jogerőre emelkedésétől folyósított életjáradék jogosulatlanul felvett járadéknak minősül, amelyet a járadékra jogosultnak vissza kell fizetnie.
+(4) A „Nemzet Sportolója” címet elnyert személy a bíróság jogerős határozatának közlésétől számított nyolc napon belül bejelenti a MOB-nak, ha a (3) bekezdés szerint érdemtelenné vált a járadékra. Érdemtelenség esetén a Kormány a „Nemzet Sportolója” címet és az azzal járó életjáradékot a sportpolitikáért felelős miniszter javaslatára visszavonja. Érdemtelenség esetén a MOB az életjáradék folyósítását megszünteti. A bíróság ítéletének jogerőre emelkedésétől folyósított életjáradék jogosulatlanul felvett járadéknak minősül, amelyet a járadékra jogosultnak vissza kell fizetnie.
 
 (5) Fel kell függeszteni az életjáradék folyósítását annak a „Nemzet Sportolója” címet elnyert személynek, aki szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvád vagy pótmagánvád alapján indult büntetőeljárást – hatálya alatt áll. A járadékra jogosult az alapos gyanú közlésétől számított nyolc napon belül bejelenti a MOB-nak, ha ellene büntetőeljárás indult.
 
@@ -1171,7 +1174,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (11) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvénnyel összefüggésben, a jogszabályban meghatározott biztonsági előírások megsértése esetén a sportrendezvény helye szerint illetékes megyei rendőr-főkapitányság a jogsértés súlyától, az okozott kár mértékétől, a közbiztonságra való veszélyesség fokától, valamint a jogsértés ismétlődésétől függően kétszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki a szervezővel, valamint a rendezővel szemben. A közigazgatási bírság ismételt kiszabása vagy meg nem fizetése esetén a rendőrség határozattal korlátozza a sportrendezvényen a nézőszámot, vagy megtiltja a nézők részvételével történő megrendezést.
 
-68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a katasztrófavédelem, az Országos Mentőszolgálat, az Országos Bírósági Hivatal elnöke, a Legfőbb Ügyészség, a sportigazgatási szerv, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a katasztrófavédelem, az Országos Mentőszolgálat, az Országos Bírósági Hivatal elnöke, a Legfőbb Ügyészség, a sportpolitikáért felelős miniszter, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (2) A sportrendezvény biztonsági minősítése
 
@@ -1454,7 +1457,7 @@ adatokat továbbítja.
 
 79. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) rendeletben jelölje ki a sportigazgatási szervet vagy szerveket, és
+- a)
 - b) rendeletben állapítsa meg
   - ba) a doppingtilalomra és a doppingvizsgálatra vonatkozó részletes szabályokat,
   - bb) a sportfegyelmi felelősségre és a sportfegyelmi eljárásra vonatkozó részletes szabályokat,
@@ -1470,7 +1473,7 @@ adatokat továbbítja.
   - bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
   - bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat.
 
-(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+(2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény 5. §-ának (5) bekezdésében meghatározott méltányossági hozzájárulás iránti kérelemhez csatolandó okiratok, tervek és adatok körét, valamint a méltányossági eljárás szabályait,
 - b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
@@ -1478,11 +1481,11 @@ adatokat továbbítja.
 
 (3)
 
-(4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
+(4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a kiemelt biztonsági kockázatú sportrendezvények közfeladatként történő rendőri biztosításához nyújtható támogatások felhasználásának részletes szabályait.
 
-(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
+(6) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
 
 80. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK irányelvnek való megfelelést szolgálja.
 

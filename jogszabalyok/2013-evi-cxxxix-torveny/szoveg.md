@@ -354,7 +354,7 @@ feladatokat.
 
 (5) Az MNB elnökének rendeletében meghatározott, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzforgalmi, pénzváltási és pénzfeldolgozási szolgáltatást, továbbá a postai szolgáltatásokról szóló törvény szerinti nemzetközi postautalvány-szolgáltatást nyújtó szervezet köteles az általa fellelt, feltehetően hamis magyar és külföldi fizetőeszközöket – ideértve az euróban denominált fizetőeszközt is – az MNB-nek megküldeni, valamint a fellelés körülményeiről az MNB elnökének rendeletében előírt módon és tartalommal az MNB részére adatszolgáltatást teljesíteni.
 
-(6) Az (5) bekezdés szerint teljesített adatszolgáltatás során az MNB elnökének rendeletében meghatározott, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) szerinti pénzforgalmi, pénzváltási és pénzfeldolgozási szolgáltatást, továbbá a postai szolgáltatásokról szóló törvény szerinti nemzetközi postautalvány-szolgáltatást nyújtó szervezet a (2) bekezdés szerinti személyes adatokat is továbbítja az MNB részére. Az MNB az ily módon tudomására jutott személyes adatokat a (2) bekezdésben meghatározott célból, az ott meghatározott időpontig kezelheti.
+(6) Az (5) bekezdés szerint teljesített adatszolgáltatás során az MNB elnökének rendeletében meghatározott, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) szerinti pénzforgalmi, pénzváltási és pénzfeldolgozási szolgáltatást, továbbá a postai szolgáltatásokról szóló törvény szerinti nemzetközi postautalvány-szolgáltatást nyújtó szervezet a (2) bekezdés szerinti személyes adatokat is továbbítja az MNB részére. Az MNB az ily módon tudomására jutott személyes adatokat a (2) bekezdésben meghatározott célból, az ott meghatározott időpontig kezelheti.
 
 25. § Az MNB a bankjegy- és érme-előállítás költségeit ráfordításai között számolja el.
 
@@ -427,39 +427,41 @@ feladatokat.
 
 (2) Az MNB elnöke az (1) bekezdés szerinti rendeletében
 
-- a) a Magyarország területén hitel és pénzkölcsön nyújtási tevékenység keretében természetes személlyel kötött szerződések tekintetében
-  - aa) az ingatlan-, illetve gépjármű hitelek és pénzügyi lízingügyletek maximális hitelfedezeti arányára,
-  - ab) a jövedelemarányos törlesztőrészlet legfelső mértékére,
-- b) hitelintézetek és befektetési vállalkozások tekintetében a lakóingatlanok és kereskedelmi ingatlanok ágazatában jelentkező eszközbuborékok kezelését célzó kockázati súlyokra
+- a) a Magyarország területén hitel- és pénzkölcsön nyújtási tevékenység keretében természetes személlyel kötött szerződések tekintetében
+  - aa) az ingatlan-, illetve gépjárműhitelek és pénzügyi lízingügyletek maximális hitelfedezeti arányára,
+  - ab) a jövedelemarányos törlesztőrészlet legfelső mértékére, valamint
+- b) hitelintézetek és befektetési vállalkozások tekintetében a Magyarország területén elhelyezkedő lakóingatlanok és kereskedelmi
+  - ba) ingatlanok ágazatában jelentkező eszközbuborékok kezelését célzó kockázati súlyokra,
+  - bb) ingatlanokkal fedezett lakossággal szembeni kitettségekre vonatkozó kitettséggel súlyozott átlagos nemteljesítéskori veszteségráta (LGD) értékek minimális szintjére
 
 vonatkozó szabályokat állapít meg.
 
-(3) Az MNB elnöke a (2) bekezdés b) pontja szerinti rendeletében a külön jogszabályban meghatározott kockázati súlyokat lakóingatlanok esetében 35 és 150% közötti sávban kereskedelmi ingatlanok esetében 50 és 150% közötti sávban határozza meg, továbbá a 100 százaléknál alacsonyabb, kedvezményes kockázati súlyok alkalmazási feltételeire szigorúbb vonatkozó szabályokat állapít meg.
+(3) Az MNB elnöke a (2) bekezdés b) pontja szerinti rendeletében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendelet (a továbbiakban: 575/2013/EU rendelet)
+
+- a) 124. cikkében meghatározottaknak megfelelően határozza meg a kockázati súlyokat azzal, hogy a lakóingatlanok esetében 35 és 150 százalék közötti sávban, a kereskedelmi ingatlanok esetében 50 és 150 százalék közötti sávban, valamint a 100 százaléknál alacsonyabb, kedvezményes kockázati súlyok alkalmazási feltételeire egyúttal szigorúbb szabályokat állapít meg,
+- b) 164. cikkében meghatározottaknak megfelelően határozza meg a kitettséggel súlyozott átlagos LGD minimális szintjét azzal, hogy pénzügyi stabilitási szempontok figyelembevételével a minimális LGD érték esetében magasabb minimális értéket is meghatározhatnak.
 
 #### 21. Az anticiklikus tőkepuffer
 
-33. § (1) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján a 171. § (1) bekezdés k) pont kb) alpontja alapján kibocsátott rendeletében szabályozza az anticiklikus tőkepuffer képzésének feltételeit.
+33. § (1) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján rendeletében szabályozza az anticiklikus tőkepuffer képzésének feltételeit.
 
-(2) Az anticiklikus tőkepuffer olyan, a Hpt. 76. § (1) bekezdése szerinti tőkekövetelményen felüli, elsődleges alapvető tőkeelemekben a rendszerkockázatok által indokolt időtartamig teljesítendő tőkekövetelmény, amelynek nagyságát az MNB által meghatározott anticiklikus tőkepuffer-ráta és a Hpt. 76. § (1) bekezdés a) pontjában meghatározott kockázattal súlyozott kitettség érték szorzata határozza meg, és amelyet konszolidált szinten kell a Magyarországon székhellyel rendelkező hitelintézetnek és befektetési vállalkozásnak teljesítenie.
+(2) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján az anticiklikus tőkepufferráta meghatározásához negyedévente irányadó pufferrátát – az anticiklikus tőkepufferráta meghatározásának alapjául szolgáló rátát – állapít meg, amelynél figyelembe veszi
 
-(3) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján az anticiklikus tőkepuffer meghatározásához negyedévente irányadó tőkepuffer-rátát állapít meg, a hitelállomány bruttó hazai termékre vetített százalékos értékének hosszú távú trendtől vett eltérésére, a hitelállomány változására, a hitelezési ciklus állapotára és a túlzott hitelkiáramlás fennálló hatásaira tekintettel. Az MNB az irányadó tőkepuffer-ráta meghatározásának alapjául szolgáló módszertant közleményben teszi közzé.
+- a) a hitelezési ciklus állapotát,
+- b) a hitelállomány túlzott növekedéséből fakadó kockázatokat,
+- c) a nemzetgazdasági sajátosságokat,
+- d) a hitelállomány bruttó hazai termékre vetített százalékos értékét, és annak a hosszú távú trendtől való eltérését,
+- e) az Európai Rendszerkockázati Testület anticiklikus tőkepufferráta meghatározására vonatkozó iránymutatását.
 
-(4) Az MNB elnöke az (1) bekezdés szerinti rendeletében az irányadó tőkepuffer-ráta, valamint a pénzügyi közvetítőrendszer stabilitásához kapcsolódó bármely egyéb tényező figyelembe vételével meghatározza és közzéteszi az anticiklikus tőkepuffer-ráta mértékét. Az MNB az anticiklikus tőkepuffer-ráta mértékét negyedévente felülvizsgálja. Az MNB a rendelet kihirdetésével egyidőben honlapján közzéteszi az anticiklikus tőkepuffer-ráta mértéke meghatározásának indokait, a megállapítás során figyelembe vett szempontokat, így különösen a hitelciklus aktuális állapotát.
+(3) Az MNB az irányadó pufferráta meghatározásának alapjául szolgáló módszertant közleményben teszi közzé.
 
-(5) Amennyiben az anticiklikus tőkepuffer-ráta mértéke nő, az MNB elnökének (1) bekezdés szerinti rendeletét lehetőség szerint annak hatályba lépése előtt 12 hónappal kell kihirdetni. Amennyiben az anticiklikus tőkepuffer képzésére az MNB ennél rövidebb felkészülési időszakot határoz meg, akkor ennek indokait honlapján, közleményben teszi közzé.
+(4) Az MNB elnöke az (1) bekezdés szerinti rendeletében az irányadó pufferráta, a (2) bekezdés e) pontja szerinti iránymutatás, és a pénzügyi közvetítőrendszer stabilitásához kapcsolódó bármely egyéb tényező figyelembevételével meghatározza és honlapján közzéteszi a Magyarországon lévő féllel szembeni kitettségekre vonatkozóan az anticiklikus tőkepufferráta mértékét. Az MNB az anticiklikus tőkepufferráta mértékét negyedévente felülvizsgálja, és a felülvizsgálat eredményét honlapján közzéteszi előre megjelölt időpontokban.
 
-(6) Amennyiben az anticiklikus tőkepuffer-ráta mértékének csökkentésére vagy elengedésére kerül sor, az MNB honlapján, közleményben teszi közzé azt az időtartamot, amely alatt várhatóan nem kerül sor anticiklikus tőkepuffer ráta mértékének növelésére. Ez a közlemény nem köti az MNB-t az anticiklikus tőkepuffer ráta mértékének felülvizsgálatában.
+(5) Ha az anticiklikus tőkepufferráta először kerül meghatározásra, és 0% feletti, vagy ha emelkedik, az MNB elnökének rendeletét annak alkalmazási kezdő időpontja előtt 12 hónappal kell kihirdetni. Ha ettől eltérően az MNB az anticiklikus tőkepuffer képzésére ennél rövidebb felkészülési időszakot határoz meg, akkor ennek részletes indokait honlapján közleményben teszi közzé.
 
-(7) Amennyiben a (2) bekezdésben meghatározott intézménynek az Európai Unió másik tagállamában végzett tevékenységének helye szerinti tagállam erre kijelölt hatósága az anticiklikus tőkepuffer-ráta mértékét legfeljebb 2,5 százalék mértékben határozza meg, az MNB elnöke az (1) bekezdés szerinti rendeletében kötelezi a (2) bekezdésben meghatározott intézményt a tevékenysége végzésének helye szerinti tagállam erre kijelölt hatósága által megállapított anticiklikus tőkepuffer képzésére, az adott tagállamban végzett tevékenységére megállapított kockázattal súlyozott kitettség-értékre vetítve.
+(6) Ha az anticiklikus tőkepufferráta mértékének csökkentésére vagy elengedésére kerül sor, akkor az anticiklikus tőkepufferráta azonnal alkalmazandó, és ez esetben az MNB honlapján közleményben közzé teszi azt az időintervallumot, amely alatt várhatóan nem kerül sor anticiklikus tőkepufferráta mértékének növelésére. Ez a közlemény nem köti az MNB-t az anticiklikus tőkepufferráta mértékének felülvizsgálatában.
 
-(8) Amennyiben a (2) bekezdésben meghatározott intézménynek az Európai Unió másik tagállamában végzett tevékenységének helye szerinti tagállam erre kijelölt hatósága az anticiklikus tőkepuffer-ráta mértékét 2,5 százalék feletti mértékben határozza meg, az MNB elnöke az (1) bekezdés szerinti rendeletében a (2) bekezdésben meghatározott intézményt kötelezi
-
-- a) a hitelezési tevékenység végzésének helye szerinti tagállam erre kijelölt hatósága által megállapított, vagy
-- b) 2,5 százalékos
-
-mértékű anticiklikus tőkepuffer megképzésére az adott tagállamban végzett tevékenységére megállapított kockázattal súlyozott kitettség-értékre vetítve.
-
-(9) Amennyiben a (2) bekezdésben meghatározott intézménynek harmadik országban végzett tevékenységének helye szerinti állam erre kijelölt hatósága anticiklikus tőkepuffert vagy annak megfelelő tőkekövetelményt ír elő, az MNB elnöke az (1) bekezdés szerinti rendeletében kötelezheti a (2) bekezdésben meghatározott intézményt anticiklikus tőkepuffer megképzésére az adott államban végzett tevékenységére megállapított kockázattal súlyozott kitettség-értékre vetítve.
+(7)–(9)
 
 #### 22. A rendszerszintű likviditási kockázatok csökkentését szolgáló intézkedések
 
@@ -473,9 +475,40 @@ mértékű anticiklikus tőkepuffer megképzésére az adott tagállamban végze
 
 #### 23. A rendszerszinten jelentős intézmények csődvalószínűségét csökkentő intézkedések
 
-35. § (1) Az MNB meghatározza és évente felülvizsgálja a rendszerszinten jelentős hitelintézetek és befektetési vállalkozások (a továbbiakban: rendszerszinten jelentős intézmények) körét, valamint folyamatosan figyelemmel kíséri azok működését. A rendszerszinten jelentős intézmények meghatározásának módszertanára vonatkozó adatok nem nyilvánosak.
+35. § (1) Az MNB meghatározza, és évente felülvizsgálja a Magyarországon székhellyel rendelkező,
 
-(2) Amennyiben a rendszerszintű kockázatok kialakulásának megelőzése, a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján a 171. § (1) bekezdés k) pont kd) alpontja alapján kibocsátott rendeletében a fennálló tőkemegfelelési szabályokon felül rendszerkockázati tőkepuffert állapít meg. A rendszerkockázati tőkepuffer olyan, a Hpt. 76. § (1) bekezdése szerinti tőkekövetelményen felüli, elsődleges alapvető tőkeelemekben a rendszerkockázatok által indokolt alanyi körben és időtartamig teljesítendő tőkekövetelmény, amelynek nagyságát az MNB által meghatározott rendszerkockázati tőkepuffer ráta és a Hpt. 76. § (1) bekezdés a) pontjában meghatározott kockázattal súlyozott kitettség érték szorzata határozza meg, és amelyet konszolidált szinten kell a Magyarországon székhellyel rendelkező hitelintézetnek és befektetési vállalkozásnak teljesítenie. A rendszerkockázati tőkepuffer ráta mértéke legfeljebb 3 százalék.
+- a) globálisan rendszerszinten jelentős hitelintézetek és befektetési vállalkozások körét összevont alapon, valamint
+- b) egyéb rendszerszinten jelentős hitelintézetek és befektetési vállalkozások körét egyedi, szubkonszolidált vagy összevont alapon,
+
+és folyamatosan figyelemmel kíséri azok működését.
+
+(2) Ha az MNB a Hpt. 90. § és a Bszt. 110/E. § alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre és befektetési vállalkozásokra vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal tájékoztatnia kell az érintett tagállamok illetékes és kijelölt hatóságait a következőkről:
+
+- a) indoklás arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek és befektetési vállalkozások rendszerszintű kockázatát,
+- b) a tőkepuffer belső piacra gyakorolt várható hatása,
+- c) az egyéb rendszerszinten jelentős hitelintézetekre és befektetési vállalkozásokra vonatkozó tőkepufferráta mértéke.
+
+#### 23/A. Rendszerszintű vagy makroprudenciális kockázatot csökkentő intézkedések
+
+35/A. § (1) Ha a nem ciklikus, rendszerszintű vagy makroprudenciális kockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, akkor az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján rendszerkockázati tőkepufferrátát határozhat meg.
+
+(2) A 141/A. § (1) bekezdésében meghatározott tájékoztatás magában foglalja:
+
+- a) a magyarországi rendszerszintű vagy makroprudenciális kockázatnak, és annak pénzügyi közvetítőrendszerre gyakorolt hatásának ismertetését,
+- b) a rendszerkockázati tőkepuffer szükségességének, és annak várható hatékony és arányos kockázatcsökkentő hatásának bemutatását,
+- c) a rendszerkockázati tőkepuffer egységes piacra gyakorolt várható hatásának ismertetését,
+- d) annak bemutatását, hogy az e törvényben, a Hpt.-ben és az 575/2013/EU rendeletben meghatározott rendelkezések – az 575/2013/EU rendelet 458–459. cikkének kivételével – nem elégségesek a feltárt rendszerszintű vagy makroprudenciális kockázat kezelésére, és az elégségesség hiányának bemutatására is kitér, valamint
+- e) az alkalmazandó rendszerkockázati tőkepufferráta mértékét.
+
+(3) Ha az MNB 3% vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § (1) bekezdés a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (1) bekezdésében és a Bszt. 110/G. § (1) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
+
+(4) Ha a (3) bekezdéstől eltérően az MNB 3% feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB által előzetesen megküldött tervezetet véleménnyel ellátva megküldi az Európai Bizottságnak, amely kettő hónapon belül véleményt küld az MNB-nek.
+
+(5) Ha a (4) bekezdésben rögzített véleményében az Európai Bizottság ellenzi az MNB által tervezett, a (4) bekezdésben meghatározott mértékű tőkepufferráta bevezetését, akkor az MNB köteles az Európai Bizottság véleményében meghatározottaknak megfelelően eljárni.
+
+(6) Az MNB elismerheti a másik EGT-államban megállapított rendszerkockázati tőkepufferrátát, mérlegelve a 141/A. § (1) bekezdés a) pontja alapján kapott információkat, és előírhatja a Magyarországon székhellyel rendelkező hitelintézetek és befektetési vállalkozások számára annak alkalmazását az adott EGT-államban lévő kitettségeik tekintetében.
+
+(7) Az MNB kérheti az Európai Rendszerkockázati Testületet, hogy adjon ki ajánlást egy vagy több EGT-állam vonatkozásában az MNB által meghatározott rendszerkockázati tőkepuffer elismerésének érdekében.
 
 #### 24. A rendszerkockázat kezelésével kapcsolatos további feladatok
 
@@ -506,7 +539,8 @@ mértékű anticiklikus tőkepuffer megképzésére az adott tagállamban végze
 - o) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény, valamint
 - p) a kötelező gépjármű-felelősségbiztosításról szóló törvény (a továbbiakban: Gfbt.),
 - q) a központi hitelinformációs rendszerről szóló törvény,
-- r) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény
+- r) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény,
+- s) az egyes fizetési szolgáltatókról szóló törvény
 
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
@@ -532,6 +566,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (9) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (2010. november 12.) (a továbbiakban: a 1031/2010/EU bizottsági rendelet) 43. cikke szerinti illetékes hatóságként a 1031/2010/EU bizottsági rendelet 37–42. cikkének végrehajtását.
 
+(10) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az 575/2013/EU rendelet végrehajtását.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i. 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -539,7 +575,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - c) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról szóló, 2002. szeptember 23-i 2002/65/EK európai parlamenti és tanácsi irányelvet, valamint
 - d) az általa felügyelt tevékenységekkel összefüggő kereskedelmi gyakorlatok tekintetében a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvet
 
-átültető tagállami jogszabályokba ütköző EGT-államon belüli jogsértések tekintetében.
+átültető tagállami jogszabályokba ütköző Európai Gazdasági Térség (a továbbiakban: EGT) államán belüli jogsértések tekintetében.
 
 (2) Az MNB az (1) bekezdés szerinti eljárások során hozott döntések végrehajtásánál a kölcsönös jogsegély során a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2006. december 22-i 2007/76/EK bizottsági határozatnak megfelelően jár el.
 
@@ -551,10 +587,10 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - d) ellenőrzi a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek működésére és tevékenységére vonatkozó, a feladatkörébe tartozó hazai jogszabályi rendelkezések és európai uniós jogi aktusok betartását és az MNB által hozott határozatok végrehajtását,
 - e) felügyeli a pénzügyi piacok működését a 39. §-ban meghatározott törvények hatálya alá tartozó személyektől és szervezetektől származó információk és adatok, továbbá a hivatalosan ismert és a köztudomású tények alapján,
 - f) segíti az Országos Betétbiztosítási Alap igazgatótanácsa működését, annak döntései előkészítését és végrehajtását,
-- g) piacfelügyeleti eljárást indít a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során észlelt a bennfentes kereskedelem és piacbefolyásolás ideértve a továbbiakban a 1031/2010/EU bizottsági rendelet 37–42. cikkében írt bennfentes kereskedelmet, piaci manipulációt, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja esetén,
-- h) együttműködik a külföldi pénzügyi felügyeleti hatóságokkal, különösen az Európai Gazdasági Térség államainak pénzügyi felügyeleti hatóságaival,
+- g) piacfelügyeleti eljárást indít az engedély nélkül vagy bejelentés hiányában végzett tevékenység észlelése esetén; a bennfentes kereskedelem vagy piacbefolyásolás (a továbbiakban ideértve a 1031/2010/EU bizottsági rendelet 37–42. cikkében írt bennfentes kereskedelmet, illetve piaci manipulációt) gyanúja esetén; a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzése céljából; továbbá a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából,
+- h) együttműködik a külföldi pénzügyi felügyeleti hatóságokkal, különösen az EGT államainak pénzügyi felügyeleti hatóságaival,
 - i) teljesíti a 4. § (9) bekezdésében meghatározott feladatkörében a nyilvánosságra hozatali és az Európai Bizottság felé fennálló bejelentési kötelezettségeket,
-- j) teljesíti a fióktelep létesítésével és a határon átnyúló tevékenység végzésével kapcsolatos értesítési és tájékoztatási kötelezettséget, valamint együttműködik a fióktelepek működésével kapcsolatos szükséges vizsgálatok elvégzése érdekében az Európai Gazdasági Térség államainak pénzügyi felügyeleti feladatokat ellátó hatóságaival,
+- j) teljesíti a fióktelep létesítésével és a határon átnyúló tevékenység végzésével kapcsolatos értesítési és tájékoztatási kötelezettséget, valamint együttműködik a fióktelepek működésével kapcsolatos szükséges vizsgálatok elvégzése érdekében az EGT államainak pénzügyi felügyeleti feladatokat ellátó hatóságaival,
 - k) közreműködik az önkéntes kölcsönös biztosító pénztárak, a magánnyugdíjpénztárak és a pénztárak garanciaalapja fejlődését akadályozó tényezők feltárásában és feloldásában, valamint e szervezetek társadalombiztosítással való együttműködésének koordinálásában,
 - l) ellenőrzi a nyilvánosan működő részvénytársaságban történő befolyásszerzéssel kapcsolatos szabályok és elvek betartását,
 - m) a közraktározásról szóló törvény szerint együttműködik a közraktári felügyelettel az engedélyezési és ellenőrzési eljárások során,
@@ -565,13 +601,51 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (2) Az MNB a honlapján közzéteszi
 
-- a) az általa kiadott tevékenységi engedéllyel rendelkező, illetve nyilvántartásba vett szervezetek és személyek jegyzékét és az engedély típusát,
-- b) azon külföldi pénzügyi felügyeleti hatóságok jegyzékét, amelyekkel felügyeleti együttműködési megállapodást kötött,
+- a) az általa kiadott tevékenységi engedéllyel rendelkező, illetve nyilvántartásba vett szervezetek és személyek jegyzékét, ideértve az engedély típusát,
+- b) azon külföldi illetékes felügyeleti hatóságok jegyzékét, amelyekkel felügyeleti együttműködési megállapodást kötött,
 - c) a pénzügyi szervezetek és befektetési vállalkozások által alkalmazandó hatályos jogszabályok elérhetőségére mutató internetes hivatkozásokat,
 - d) a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek tőkeszükséglet számításának felügyeleti felülvizsgálata és értékelése során alkalmazott feltételeket és módszereket,
-- e) a hitelintézetek és befektetési vállalkozások működésére, a tőkemegfelelési és a prudenciális előírások alkalmazására vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést.
+- e) a hitelintézetek és befektetési vállalkozások működése, a tőkemegfelelés és a prudenciális előírások tekintetében a jogszabályokban foglaltak alkalmazására vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést,
+- f) az MNB jogalkalmazási gyakorlatának alapját ismertető, a 4. § (9) bekezdésében meghatározott feladatkörében a felügyelete alá tartozó személyekre és szervezetekre vonatkozó ajánlásait,
+- g) az uniós jogszabályokban biztosított választási lehetőségek körét és a vonatkozó mérlegelési jogkör gyakorlásának módját és elveit,
+- h) a javadalmazás tekintetében biztosított felülvizsgálat és értékelés módszertanát és elveit,
+- i) a Hpt. és az 575/2012/EU rendelet megsértése következtében, valamint felügyeleti közigazgatási intézkedések ügyében hozott határozatok számát és jellegét,
+- j) az 575/2013/EU rendelet Ötödik részének alkalmazásában az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálatakor alkalmazott általános kritériumokat és módszereket, valamint az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálata ügyében a felügyeleti felülvizsgálat eredményének összefoglalását és az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálatakor hozott elutasító határozatok összegző leírását,
+- k) az 575/2013/EU rendelet 7. cikk (3) bekezdés a) pontjánál alkalmazott kritériumokat, valamint az 575/2013/EU rendelet 7. cikk (3) bekezdés vonatkozásában
+  - ka) a mentesített anyavállalatok számát és azon anyavállalatok számát, amelyek leányvállalata harmadik országban van,
+  - kb) a mentesített anyavállalatok összevont alapon számított szavatoló tőkéjének összesített értékét és a harmadik országban lévő leányvállalatok szavatoló tőkéje összegeinek az összesített értékét,
+  - kc) a harmadik országban lévő leányvállalatok szavatoló tőkéjének az összevont alapon számított szavatoló tőkéhez viszonyított arányát,
+  - kd) a harmadik országban lévő leányvállalatok szavatoló tőkéjének az 575/2013/EU rendelet 92. cikke szerinti, összevont alapon számított szavatoló tőkéhez viszonyított arányát,
+- l) az 575/2013/EU rendelet 9. cikk (1) bekezdés vonatkozásában alkalmazott kritériumok, valamint az 575/2013/EU rendelet 9. cikk (1) bekezdés vonatkozásában
+  - la) a mentesített anyavállalatok számát és azon anyavállalatok számát, amelyek leányvállalata harmadik országban van,
+  - lb) a mentesített anyavállalatok összevont alapon számított szavatoló tőkéjének összesített értékét és a harmadik országban lévő leányvállalatok szavatoló tőkéje összegeinek az összesített értékét,
+  - lc) a harmadik országban lévő leányvállalatok szavatoló tőkéjének az összevont alapon számított szavatoló tőkéhez viszonyított arányát,
+  - ld) a harmadik országban lévő leányvállalatok szavatoló tőkéjének az 575/2013/EU rendelet 92. cikke szerinti, összevont alapon számított szavatoló tőkéhez viszonyított arányát,
+- m) a 33. § (4) bekezdésében meghatározottakkal egyidejűleg
+  - ma) a hitelállomány bruttó hazai termékre vetített százalékos értékét, és annak a hosszú távú trendtől való eltérését,
+  - mb) az irányadó pufferráta mértékét,
+  - mc) az anticiklikus tőkepufferráta mértékét, és meghatározásának indoklását,
+  - md) a 33. § (5) és a (6) bekezdésében meghatározott időpontokat,
+- n) ha a Hpt. 88. § (4) bekezdés a) pontja alapján az MNB a 2,5 százalék feletti anticiklikus tőkepufferráta alkalmazására kötelezi a hitelintézetet, vagy ha az MNB a Hpt. 88. § (3) és (5) bekezdése alapján anticiklikus tőkepufferrátát határoz meg a hitelintézet harmadik országban végzett tevékenységére vonatkozóan, akkor
+  - na) az alkalmazandó anticiklikus tőkepufferráta mértékét,
+  - nb) az érintett EGT-állam vagy harmadik ország nevét, amelyben a hitelintézet által végzett tevékenység kockázattal súlyozott kitettségértékére vonatkozik az anticiklikus tőkepufferráta,
+  - nc) időpontot, amelytől kezdve alkalmazandó az anticiklikus tőkepufferráta, ha az először kerül meghatározásra vagy ha mértéke növekszik, és
+  - nd) indoklást, ha az nc) alpont szerinti időpont kevesebb, mint 12 hónappal követi ezen közzétételt,
+- o) a 35/A. § (1) bekezdése alapján alkalmazandó rendszerkockázati tőkepufferrel kapcsolatban
+  - oa) a rendszerkockázati tőkepufferráta mértékét,
+  - ob) az érintett hitelintézetek vagy befektetési vállalkozások körét,
+  - oc) a rendszerkockázati tőkepuffer bevezetésének indokát, ha ennek nyilvánosságra hozatala nem veszélyezteti a pénzügyi közvetítőrendszer stabilitását,
+  - od) a rendszerkockázati tőkepuffer képzésének kezdő időpontját, és
+  - oe) azon EGT-államok és harmadik országok megnevezését, amelyek esetén az MNB elismeri az általuk meghatározott rendszerkockázati tőkepufferráta mértékét,
+- p) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmények nevének naprakész listáját és ez utóbbiak alkategóriákba való besorolását, valamint
+- q) az irányadó pufferráta meghatározásának alapjául szolgáló módszertant.
 
-(3) Az MNB által, a (2) bekezdés c)–e) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
+(2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
+
+- a) rendszeresen, de havonta legalább egyszer eleget tesz,
+- b) egységes elektronikus elérési helyen, átlátható módon tesz eleget.
+
+(3) Az MNB által, a (2) bekezdés c)–f), h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
 
 (4) Az MNB a (2) bekezdésben meghatározott közzététel során köteles a személyes adatok védelmére, a banktitokra, fizetési titokra, az értékpapírtitokra, a pénztártitokra, a biztosítási titokra, foglalkoztatói nyugdíjtitokra és az üzleti titokra vonatkozó jogszabályokat betartani.
 
@@ -581,7 +655,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (3) Az MNB részt vállal a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek ügyfeleinek tájékoztatásával, a pénzügyi kultúra erősítésével, terjesztésével, valamint a felügyeleti, illetve a felügyelt tevékenységgel kapcsolatos tanulmányok készítésének és közzétételének, valamint a civil fogyasztóvédelmi szervezetek tevékenységének támogatásában.
 
-(4) Az MNB a 4. § (8) és (9) bekezdésében meghatározott feladatkörének ellátása során mérlegeli döntéseinek a többi érintett tagállam pénzügyi rendszerének stabilitására gyakorolt hatását.
+(4) Az MNB a 4. § (7)–(9) bekezdésében meghatározott feladatai ellátása során mérlegeli döntéseinek a többi érintett tagállam pénzügyi rendszerének stabilitására gyakorolt hatását.
 
 ## HARMADIK RÉSZ — AZ MNB ELJÁRÁSAI
 
@@ -596,7 +670,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 során.
 
-46. § Az MNB hatósági eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben és
+46. § Az MNB hatósági eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben és
 
 - a) a fogyasztóvédelmi eljárásban a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben, továbbá az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben, valamint
 - b) az a) pontban nem említett eljárásokban a 39. §-ban meghatározott törvények szerinti ügyfajtára irányadó különös eljárási szabályokban
@@ -657,9 +731,21 @@ folytat le.
 - b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét, és
 - c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást.
 
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. § és a Bszt. 164. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
+
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
 
 (3) Az MNB döntését nem teszi közzé, ha a közzététel a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyeztetné.
+
+(4) Az MNB anonim módon teszi közzé a Hpt.-ben és Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+
+- a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
+- b) aránytalan veszteséget okoz a természetes és jogi személyekre nézve, vagy
+- c) veszélyezteti valamely folyamatban lévő bűnügyi nyomozás sikerességét.
+
+(5) Az MNB mérlegelése alapján a Hpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 30 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
+
+(6) Az MNB a Hpt.-ben és a Bszt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig nyilvántartja a honlapján.
 
 54. § (1) A Ket. végrehajtásra vonatkozó rendelkezései – az MNB részére fizetendő, külön jogszabályban meghatározott díj és az MNB által kiszabott bírság megfizetésének kivételével – az MNB eljárása során nem alkalmazhatók.
 
@@ -683,6 +769,8 @@ folytat le.
 (4) Az MNB az 51. §-ban meghatározott adatokat a hatósági eljárás során hozott határozat vagy az eljárást megszüntető végzés jogerőre emelkedéséig, illetve a bírósági eljárás – ideértve annak jogorvoslati szakaszait is – befejezéséig kezelheti.
 
 (5) Az MNB jogosult megismerni és kezelni az ügyfél és az eljárás egyéb résztvevőinek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése adott bizonyítási eszköz sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult az MNB, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
+
+(6) Az MNB által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott adatok kezeléséhez. Az Európai Gazdasági Térség államaiban (a továbbiakban: EGT-állam) pénzügyi felügyeleti feladatokat ellátó hatóságoknak történő adattovábbítást úgy kell tekinteni, mintha Magyarország területén belüli és azzal egyenértékű jogi védelmet biztosító adattovábbításra kerülne sor.
 
 #### 25. Elektronikus kapcsolattartás
 
@@ -744,11 +832,11 @@ megtartásának, valamint az MNB hatósági határozataiban foglaltak végrehajt
 
 63. § (1) Az ellenőrzési eljárásban a Ket. 29. § (3)–(12) bekezdését, 70. §-át, a 93. §-át, 94. §-át és 94/A. §-át nem kell alkalmazni.
 
-(2) Az MNB az ügyfél kérelmére nem folytat le hatósági ellenőrzési eljárást.
+(2) Az MNB az ügyfél kérelmére nem folytat le ellenőrzési eljárást.
 
 (3) Az adatszolgáltatásból származó adatokat az MNB folyamatosan ellenőrzi, az ellenőrzésről az ügyfelet nem értesíti.
 
-64. § (1) Az ellenőrzési eljárás során az MNB a 39. §-ban meghatározott törvények hatálya alá tartozó személynél és szervezetnél
+64. § (1) Az ellenőrzési eljárás során az MNB
 
 - a) átfogó vizsgálatot,
 - b) célvizsgálatot és
@@ -805,7 +893,7 @@ végez.
 
 (2) Az MNB a próbaügylethez közreműködőt vehet igénybe. Az MNB a közreműködő személyt megbízólevéllel látja el. A közreműködő személyt titoktartási kötelezettség terheli.
 
-(3) Próbaügylet esetén az MNB ellenőrzést végző alkalmazottja vagy a közreműködő ellenőrzési jogosultságát a próbaügylet befejezésekor igazolja. Az ellenőrzési jogosultság igazolásakor az ellenőrzött szervezet és az ellenőrzést végző személy, illetve a közreműködő személy köteles minden, a próba ügylet keretében átvett összeget visszatéríteni.
+(3) Próbaügylet esetén az MNB ellenőrzést végző alkalmazottja vagy a közreműködő ellenőrzési jogosultságát a próbaügylet befejezésekor megbízólevele felmutatásával igazolja. Az ellenőrzési jogosultság igazolásakor az ellenőrzött szervezet és az ellenőrzést végző személy, illetve a közreműködő személy köteles minden, a próba ügylet keretében átvett összeget visszatéríteni.
 
 69. § (1) Az MNB az ellenőrzési eljárás során tett megállapításait átfogó vizsgálat és célvizsgálat esetében az ellenőrzési eljárás megindítását követő hat hónapon belül, témavizsgálat esetében kilenc hónapon belül vizsgálati jelentésben rögzíti, és azt az ellenőrzött személlyel vagy szervezettel közli. Ha az ellenőrzési eljárás során csoportvizsgálatra kerül sor, az MNB a csoportvizsgálat során tett megállapításait csoportvizsgálati jelentésben rögzíti, és azt az összes csoporttaggal a pénzügyi csoport irányító tagja útján közli. A vizsgálati jelentés és a csoportvizsgálati jelentés elkészítésére és közlésére nyitva álló határidő indokolt esetben, egy alkalommal, legfeljebb hat hónappal meghosszabbítható.
 
@@ -838,22 +926,19 @@ végez.
 
 (2) Az MNB az (1) bekezdés b) pontja szerinti végzését soron kívül hozza meg.
 
-75. § (1) Ha az MNB a 62. § (2) bekezdése szerinti ellenőrzés végén vagy az általa hivatalosan ismert tények alapján megállapítja a 62. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában meghatározott kötelezettségek megszegését, elkerülését, elmulasztását, késedelmes vagy hiányos teljesítését – ha törvény eltérően nem rendelkezik –
+75. § (1) Ha az MNB a 62. § (2) bekezdése szerinti ellenőrzés végén vagy az általa hivatalosan ismert tények alapján megállapítja a 62. § (1) bekezdésében meghatározott jogszabályok vagy az MNB hatósági határozatában meghatározott kötelezettség megszegését, elkerülését, elmulasztását, késedelmes vagy hiányos teljesítését, – ha törvény eltérően nem rendelkezik –
 
-- a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén – a c) pontban foglalt eltéréssel – a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot szab ki,
+- a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot szab ki, vagy
 - b) az a) pont hatálya alá nem tartozó személlyel, szervezettel szemben a következő intézkedéseket alkalmazza:
   - ba) felhívja az előírások pontos, határidőben történő betartására,
   - bb) határidő tűzésével kötelezi a szükséges intézkedések megtételére, a feltárt jogszabálysértés és a hiányosságok megszüntetésére,
   - bc) kötelezi intézkedési terv kidolgozására és végrehajtására, akár a megtett intézkedésekről való beszámolási kötelezettség mellett,
   - bd) előírja rendkívüli, illetve visszamenőleges adatszolgáltatás teljesítését,
-  - be) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által fogalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
-  - bf) bírságot szab ki,
-  - bg) fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez,
-- c) forgatható utalvány kibocsátására irányuló tevékenységet végzővel szemben a következő intézkedéseket alkalmazza:
-  - ca) b) pont ba)–bd), bf) és bg) alpontokban foglalt intézkedések,
-  - cb) megtiltja a forgatható utalványok további kibocsátását,
-  - cc) elrendeli a kibocsátott forgatható utalványok forgalomból való kivonását,
-  - cd) elrendeli a forgatható utalványok megsemmisítését [az a)–c) pont a továbbiakban együtt: intézkedés].
+  - be) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
+  - bf) bírságot szab ki, vagy
+  - bg) fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez
+
+[az a) és b) pont a továbbiakban együtt: intézkedés.]
 
 (2) Az MNB abban az esetben is alkalmazhat intézkedést, ha azt külföldi pénzügyi hatóság kezdeményezi.
 
@@ -882,6 +967,10 @@ végez.
 (3) Az ellenőrzött szervezet vezetőjével, valamint a rá irányadó jogszabályok szerint vezető állású személynek minősülő személlyel szemben kiszabható bírság összege százezer forinttól húszmillió forintig terjedhet. A vezetővel, valamint a vezető állású személynek minősülő személyekkel szemben kiszabott bírság összegét az ellenőrzött szervezet nem vállalhatja át.
 
 (4) A (3) bekezdés alkalmazása során – a 39. §-ban meghatározott törvények ekként meghatározott személyeken túl – vezető állású személynek minősül az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár vezető tisztségviselője, ügyvezetője és ügyvezető-helyettese is, továbbá a független biztosításközvetítői tevékenység irányítását végző személy.
+
+(5) A kiszabható bírság mértéke a Hpt. 184. §-ában meghatározott szabálysértés esetén és a Bszt. 164. § alapján az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában végző vállalkozás tekintetében a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) és d) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy egy anyavállalat leányvállalata, akkor a bruttó bevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
+
+(6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 467 550 000 Ft, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – ha meghatározható – kétszereséig terjed.
 
 77. § (1) A bírságot a kiszabásáról hozott határozat jogerőre emelkedésétől számított harminc napon belül kell a határozatban megjelölt számlára befizetni.
 
@@ -953,7 +1042,7 @@ betartását, és – ide nem értve a szerződés létrejöttének, érvényess
 - b) a panasz kivizsgálása nem a 39. §-ban meghatározott törvények hatálya alá tartozó törvényekben előírtak szerint történt,
 - c) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet válaszából egyéb, az (1) bekezdésben meghatározott jogszabályokban előírt fogyasztói jogot sértő körülményt vélelmez.
 
-82. § (1) A fogyasztóvédelmi eljárásban az általuk védett érdekek védelme körében az ügyfél jogai illetik meg a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésére hivatkozással az Európai Gazdasági Térség bármely más államának joga alapján létrejött azon feljogosított egységeket is, amelyek a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
+82. § (1) A fogyasztóvédelmi eljárásban az általuk védett érdekek védelme körében az ügyfél jogai illetik meg a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésére hivatkozással az EGT bármely más államának joga alapján létrejött azon feljogosított egységeket is, amelyek a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
 
 (2) A fogyasztóvédelmi eljárásban az ügyfél jogai megilletik azt a külföldi pénzügyi hatóságot, amelynek feladatkörét az ügy érinti.
 
@@ -1058,7 +1147,7 @@ az MNB a kérelmet ezekre nézve érdemi vizsgálat nélkül elutasítja, illetv
 
 kezelheti, és ezt követően haladéktalanul, de legfeljebb két munkanapon belül megsemmisíti.
 
-91. § (1) Az MNB az engedély nélkül végzett tevékenység, a bennfentes kereskedelem, a piacbefolyásolás megállapítására, a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére és a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében meghatározott bejelentési és közzétételi kötelezettségre és 12–14. cikkében meghatározott fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzésére irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
+91. § (1) Az MNB az engedély nélkül vagy bejelentés hiányában végzett tevékenység, a bennfentes kereskedelem, a piacbefolyásolás megállapítására, a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre, a vállalatfelvásárlásra vonatkozó szabályok ellenőrzésére és a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében meghatározott bejelentési és közzétételi kötelezettségre és 12–14. cikkében meghatározott fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzésére irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
 
 - a) az értékpapír-, ügyfél- és fizetésiszámla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával kapcsolatos,
 - b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával kapcsolatos,
@@ -1075,7 +1164,7 @@ családi és utónév, születési név és lakcím megismerésére és kezelés
 92. § (1) Ha
 
 - a) az ügyfél EGT-tagállamon kívüli lakcímmel vagy székhellyel rendelkezik,
-- b) az ügyfél képviselőt vagy kézbesítési megbízottat nem nevezett meg, és
+- b) az ügyfél képviselőt, kézbesítési meghatalmazottat vagy kézbesítési megbízottat nem nevezett meg, és
 - c) elektronikus kapcsolattartásnak sincs helye,
 
 az MNB piacfelügyeleti eljárásban hozott döntését postai szolgáltató útján is közölheti.
@@ -1105,7 +1194,7 @@ az MNB piacfelügyeleti eljárásban hozott döntését postai szolgáltató út
 
 (5) Piacfelügyeleti eljárás során
 
-- a) az engedély nélkül vagy bejelentés hiányában végzett szolgáltatás esetén a piacfelügyeleti bírság összege százezer forinttól ötszázmillió forintig,
+- a) az engedély nélkül vagy bejelentés hiányában végzett szolgáltatás esetén a bírság összege százezer forinttól ötszázmillió forintig,
 - b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig,
 - c) a bennfentes személyre vonatkozó bejelentési kötelezettség megsértése esetén a bírság összege százezer forinttól ötmillió forintig,
 - d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség, valamint a 12–14. cikkében előírt fedezetlen ügyletkötési korlátozások megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig
@@ -1124,12 +1213,12 @@ terjedhet.
 
 (11) A piacfelügyeleti eljárás során a Ket. 29. § (4) bekezdését és 70. §-át, valamint az e törvény szerinti ellenőrzési eljárás szabályait a 64. § (1) és (3)–(8) bekezdése, a 65. §, a 67–71. § és a 76. § kivételével alkalmazni kell.
 
-94. § (1) Az MNB, ha engedély nélkül vagy bejelentés hiányában végzett tevékenység miatt piacfelügyeleti bírság kiszabására, jogsértő magatartás további folytatása megtiltásának elrendelésére vagy jogsértő állapot megszüntetésének elrendelésére került sor, és arra az engedély nélkül vagy bejelentés hiányában végzett tevékenységet végző személy vagy szervezet ügyfelei jogi vagy gazdasági érdekeinek, vagy a közérdeknek a védelme miatt szükség van honlapján közzéteszi
+94. § (1) Az MNB, ha engedély nélkül vagy bejelentés hiányában végzett tevékenység miatt piacfelügyeleti bírság kiszabására, jogsértő magatartás további folytatása megtiltásának elrendelésére vagy jogsértő állapot megszüntetésének elrendelésére került sor, és arra az engedély nélkül vagy bejelentés hiányában tevékenységet végző személy vagy szervezet ügyfelei jogi vagy gazdasági érdekeinek, vagy a közérdeknek a védelme miatt szükség van honlapján közzéteszi
 
 - a) a határozat számát és tárgyát,
 - b) a jogsértő természetes személy családi és utónevét és lakcímét,
 - c) a jogsértő jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és székhelyét és
-- d) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást.
+- d) a határozat rendelkező részét.
 
 (2) Az MNB az (1) bekezdés alapján közzétett (1) bekezdés b) pontja szerinti személyes adatokat a közzétételtől számított egy év elteltével honlapjáról eltávolítja, a személyes adatnak nem minősülő további adatokat a közzétételtől számított egy év elteltével honlapjáról eltávolíthatja.
 
@@ -1274,7 +1363,7 @@ terjedhet.
 
 (5) Az eljáró tanács elnöke a körülmények mérlegelése alapján kezdeményezheti az eljárás írásbeli lefolytatását, a meghallgatás mellőzéséhez azonban mindkét fél hozzájárulását be kell szereznie.
 
-107. § A Pénzügyi Békéltető Testület a kérelmet meghallgatás kitűzése nélkül írásban elutasítja, ha megállapítható, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt korábban közvetítői vagy hatósági eljárást indítottak vagy per van folyamatban, vagy annak tárgyában már jogerős ítéletet hoztak.
+107. § A Pénzügyi Békéltető Testület a kérelmet meghallgatás kitűzése nélkül írásban elutasítja, ha megállapítható, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt korábban közvetítői eljárást indítottak vagy per van folyamatban, vagy annak tárgyában már jogerős ítéletet hoztak.
 
 108. § (1) A Pénzügyi Békéltető Testület a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának egyidejű megküldésével kellő időben előzetesen értesíti.
 
@@ -1340,7 +1429,7 @@ terjedhet.
 - b) a Pénzügyi Békéltető Testületnek nem volt hatásköre az eljárásra,
 - c) a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet határozat, illetve az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
 
 117. § (1) A pert a Pénzügyi Békéltető Testülettel szemben kell megindítani. A Pénzügyi Békéltető Testület e perben perbeli jogképességgel és cselekvőképességgel rendelkezik.
 
@@ -1381,7 +1470,7 @@ terjedhet.
 125. § Ezen alcím alkalmazásában:
 
 - a) határon átnyúló pénzügyi fogyasztói jogvita az olyan fogyasztói jogvita, amelyben
-  - aa) az érintett fogyasztó lakóhelye vagy tartózkodási helye Magyarországon található, és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet székhelye, telephelye, letelepedési helye a Európai Gazdasági Térségről szóló megállapodásban részes más államban (a továbbiakban: más EGT-állam) van, vagy
+  - aa) az érintett fogyasztó lakóhelye vagy tartózkodási helye Magyarországon található, és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet székhelye, telephelye, letelepedési helye a Európai Gazdasági Térségről szóló megállapodásban részes más államban van, vagy
   - ab) az érintett fogyasztó lakóhelye vagy tartózkodási helye más EGT-államban található, és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet székhelye Magyarországon van;
 - b) pénzügyi szolgáltatási tevékenység alatt a más EGT-államban székhellyel rendelkező szolgáltató tevékenységét is érteni kell.
 
@@ -1500,17 +1589,20 @@ terjedhet.
 - e) harmadik országban bejegyzett biztosító által Magyarországon bejegyzett biztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett biztosító harmadik országbeli biztosító leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 - f) harmadik országban bejegyzett viszontbiztosító által Magyarországon bejegyzett viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett viszontbiztosító harmadik országbeli viszontbiztosító leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 - g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
-- h) a Hpt. 32/A. § (5) bekezdése szerinti határozatot,
-- i) összevont alapú felügyelet során – a Hpt. 96/B. § (3)–(5) bekezdése tekintetében – alkalmazott eljárásokat,
+- h) a Hpt. 36. § (5) bekezdése szerinti határozatot,
+- i) összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
 - j) a Tpt. 181/J. § (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet,
-- k) valamely csoportnak pénzügyi konglomerátummá történő minősítését és koordinátor kijelölését,
+- k) a Bszt. 164. §-a alapján hozott határozatokat,
 - l) a Magyarország területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
-- m) a Hpt. 168/A. § (3) bekezdése, a Tpt. 404. § (2) bekezdése és a Bszt. 177. § (2) bekezdése szerinti intézkedését,
+- m) a Hpt. 199. § (5) bekezdése, a Tpt. 404. § (2) bekezdése és a Bszt. 177. § (2) bekezdése szerinti intézkedését,
 - n) a hatáskörök átruházása tekintetében megkötött megállapodásait, beleértve az ilyen átruházást szabályozó pontos feltételeket is,
 - o) a biztosításkötési kötelezettséget előíró jogszabályokat, illetve azok módosítását,
 - p) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 30/A. §-ának alkalmazásával kapcsolatban bejelentett eseteket, a kockázatelemzéseket, az azokra vonatkozó adatokat és az adatok közzétételi helyeit,
 - q) azokra a kötvényekre, jelzálog-levelekre, továbbá ezek kibocsátóira vonatkozó adatokat, amelyek megfelelnek az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 2009. július 13-i 2009/65/EK irányelv (a továbbiakban: 2009/65/EK irányelv) 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
-- r) a hitelintézet részére kiadott tevékenységi (működési) engedély visszavonását.
+- r) a hitelintézet részére kiadott tevékenységi (működési) engedély visszavonását,
+- s) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmény nevét és azt, hogy a globálisan rendszerszinten jelentős intézmények melyik alkategóriába tartoznak,
+- t) a 35/A. § (1) bekezdésében, a Hpt. 92. § (1) bekezdésében és a Bszt. 110/G. § (1) bekezdésében meghatározott felülvizsgálatok eredményét,
+- u) a Bszt. 110/A. § (4) bekezdése és 110/B. § (8) bekezdése szerinti mentesítést.
 
 (4) Az MNB tájékoztatja
 
@@ -1523,16 +1615,41 @@ terjedhet.
   - af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
   - ag) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
 - b) az Európai Bankhatóságot
-  - ba) a hitelintézet számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról,
+  - ba) a hitelintézet számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
   - bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
-  - bc) a Hpt. 32/A. § (5) bekezdése szerinti határozatáról,
+  - bc) a Hpt. 36. § (5) bekezdése szerinti határozatáról,
   - bd) a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
-  - be) a Hpt. 96/C. § (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet,
-  - bf) a Hpt. 168/A. § (3) bekezdése szerinti intézkedéséről, valamint
+  - be) a Hpt. 175. § (5) bekezdése szerinti megállapodásról, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
+  - bf) a Hpt. 167. § (4) és (5) bekezdése szerinti értékeléséről,
   - bg) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
+  - bh) azon hatóságok nevéről, amelyek a Hpt. 159. § (3) bekezdés b) pontja szerinti üzleti titok és 161. § (2) bekezdés c) pontja szerinti banktitok alóli mentesítés keretében információt kaptak,
+  - bi) hitelintézetben megszerzett befolyásoló részesedésről,
+  - bj) azon pénzügyi holding társaságról vagy vegyes pénzügyi holding társaságról, amely az 575/2013/EU rendelet 11. cikke alá tartozik,
+  - bk) ha a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény (a továbbiakban: Pkt.) 9. § (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
+  - bl) a Hpt. 126. § (5) bekezdésében meghatározott információkról,
+  - bm) a Hpt. 145. § (4) bekezdése alapján hozott engedélyről,
+  - bn) a Hpt. 174. § (5) bekezdése, a 185. §, 199. § (5) bekezdése, valamint a Bszt. 164. §-a alapján hozott határozatokról,
+  - bo) a harmadik országban székhellyel rendelkező hitelintézet vagy befektetési vállalkozás magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
+  - bp) a Hpt. 114. §-a szerinti helyreállítási terv kialakításával és koordinálásával kapcsolatosan tervezett megbeszélésekről,
+  - bq) a Hpt. 180. § (1) bekezdésének és a Bszt. 162. § (5) bekezdésének alkalmazásáról,
+  - br) a Hpt. 177. § és Bszt. 163/A. § szerinti felügyeleti felülvizsgálati és értékelési eljárások működéséről és az MNB által alkalmazott módszerről,”
+  - bs) a 35/A. § (2) bekezdésében meghatározott információkról,
+  - bt) a Hpt. 86. §-ával, 88. §-ával, valamint a Bszt. 110/A. §-ával és 110/C. §-ával kapcsolatos döntésről,
+  - bu) az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
+  - bv) a 35/A. §-ban, a Hpt. 92. §-ában, és a Bszt. 110/G. §-ában meghatározott felülvizsgálatok eredményéről,
+  - bw) ha a Pkt. 9. §-a (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
+  - bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
+  - by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről.
 - c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
   - ca) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
-  - cb) a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról.
+  - cb) a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
+- d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
+- e) az Európai Rendszerkockázati Testületet
+  - ea) a 33. § (4) bekezdése alapján meghatározott negyedéves anticiklikus pufferrátáról, és a 43. § (2) bekezdés m) pontja szerint nyilvánosságra hozott információkról,
+  - eb) a Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
+  - ec) a 35. § (2) bekezdésében meghatározott információkról,
+  - ed) az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
+  - ee) a 35. § (1) bekezdésben, a Hpt. 89. § (9) bekezdésében, valamint a Bszt. 110/D. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről.
 
 (5) A (3) bekezdés a) pontja szerinti bejelentésben jelezni kell, ha a tevékenységi engedélyt olyan biztosítónak adták ki, amely közvetlenül vagy közvetve egy vagy több, harmadik országban bejegyzett vállalkozás leányvállalata, és részletesen be kell mutatni ebben az esetben a vállalatcsoport szerkezetét.
 
@@ -1540,13 +1657,22 @@ terjedhet.
 
 (7) A (3) bekezdés c) pontja szerinti bejelentésben részletesen be kell mutatni a vállalatcsoport szerkezetét.
 
-(8) Az MNB a (3) bekezdés g) és n) pontja szerinti bejelentést az Európai Gazdasági Térség állama pénzügyi felügyeleti hatóságainak is megküldi.
+(8) Az MNB a (3) bekezdés g) és n) pontja szerinti bejelentést az EGT állama pénzügyi felügyeleti hatóságainak is megküldi.
 
 (9) A Pénzügyi Békéltető Testület tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást ad.
 
 141. § (1) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások Hpt. és Bszt. szerinti javadalmazási politikájával kapcsolatban jogszabály alapján nyilvánosságra hozott adatokat a javadalmazási trendek értékelése céljából összegyűjti. Az MNB ezt az információt megküldi az Európai Bankhatóságnak.
 
 (2) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások esetében a külön jogszabályban meghatározott javadalmazási politika elemzése céljából információt gyűjt azon vezető tisztségviselők és munkavállalók számáról, akik évi 300 millió forintos vagy afölötti javadalmazási kategóriában helyezkednek el. Az MNB ezen információkat továbbítja az Európai Bankhatóságnak.
+
+141/A. § (1) Az MNB a 4. § (7) bekezdésében meghatározott feladatkörével kapcsolatosan tájékoztatja
+
+- a) a 35/A. § (1) bekezdésben rögzített határozatának közlése előtt legalább 1 hónappal az Európai Bizottságot, az Európai Bankhatóságot, az érintett EGT-államnak vagy érintett harmadik országnak az illetékes vagy a kijelölt hatóságát, ha rendszerkockázati tőkepufferrátát kíván meghatározni vagy módosítani,
+- b) az Európai Bizottságot, az Európai Bankhatóságot, az Európai Rendszerkockázati Testületet és az érintett EGT-állam illetékes vagy kijelölt hatóságát, ha a 35. § alapján elismeri a másik EGT-államban meghatározott rendszerkockázati tőkepufferrátát.
+
+(2) Ha az MNB a 183/A. § alapján anticiklikus tőkepufferátát határoz meg a Magyarországon székhellyel rendelkező hitelintézetek számára 2016. január 1-jét megelőzően, akkor arról tájékoztatja az Európai Bizottságot, az Európai Rendszerkockázati Testületet, az Európai Bankhatóságot és a releváns felügyeleti kollégiumot.
+
+(3) Ha valamely EGT-állam erre kijelölt hatóság anticiklikus tőkepufferrátát határoz meg 2016. január 1-jét megelőzően, akkor az MNB azt elismerheti, de az elismeréséről tájékoztatnia kell az Európai Bizottságot, az Európai Rendszerkockázati Testületet, az Európai Bankhatóságot és a releváns felügyeleti kollégiumot.
 
 #### 38. Felügyeleti kollégium
 
@@ -1683,7 +1809,7 @@ nem vehet részt olyan döntés előkészítésében és meghozatalában, amely 
 
 pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi személyben, befektetési vállalkozásban lévő befolyásáról és a befolyását az MNB-vel létrejövő jogviszonya keletkezésének az időpontjától számított, illetve az öröklés esetén a hagyatékátadó végzés jogerőre emelkedését követő három hónapon belül megszünteti.
 
-(4) Az MNB-nek az (1) bekezdésben meghatározott alkalmazottja a Bszt. szerinti pénzügyi eszköz szerzését – az állampapír, a nyilvános, nyílt végű befektetési alap által kibocsátott befektetési alapjegy kivételével – a megszerzést követő három munkanapon belül bejelenti.
+(4) Az MNB-nek az (1) bekezdésben meghatározott alkalmazottja a Bszt. szerinti pénzügyi eszköz szerzését – az állampapír, a nyilvános, nyílt végű befektetési alap által kibocsátott befektetési jegy kivételével – a megszerzést követő három munkanapon belül bejelenti.
 
 (5) Az MNB-nek az (1) bekezdésben meghatározott alkalmazottja az (1)–(3) bekezdésben foglalt jogviszonya, befolyása megszüntetéséig, valamint a (4) bekezdésben foglalt kötelezettsége teljesítéséig nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az érintett szervezetre vonatkozik.
 
@@ -1755,7 +1881,7 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 
 - a) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti pénzforgalmi szolgáltató,
 - b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet,
-- c) a Hpt. szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
+- c) az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fszt.) szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
 - d) a pénzfeldolgozási tevékenységet végző szervezet,
 - e) a központi értéktár,
 - f) az Országos Betétbiztosítási Alap,
@@ -1789,7 +1915,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 
 163. § (1) Az MNB a 4. § (9) bekezdésben meghatározott feladatkörében, az 57. §-ban meghatározottakon túl nemzetközi együttműködés során külföldi pénzügyi felügyeleti hatóságtól kapott egyedi adatokat az MNB kizárólag a Pénzügyi Felügyeletek Európai Rendszerében történő részvételhez kapcsolódó feladatok ellátásához használhatja fel, valamint egyedi adatokat ezen feladatok ellátásához adhat ki külföldi pénzügyi felügyeleti hatóságnak.
 
-(2) Az MNB által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott adatok kezeléséhez. Az Európai Gazdasági Térség államaiban pénzügyi felügyeleti feladatokat ellátó hatóságoknak történő adattovábbítást automatikusan úgy kell tekinteni, mintha Magyarország területén belüli és azzal egyenértékű jogi védelmet biztosító adattovábbításra kerülne sor.
+(2) Az MNB által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott adatok kezeléséhez. Az EGT államaiban pénzügyi felügyeleti feladatokat ellátó hatóságoknak történő adattovábbítást automatikusan úgy kell tekinteni, mintha Magyarország területén belüli és azzal egyenértékű jogi védelmet biztosító adattovábbításra kerülne sor.
 
 (3) A MNB a kormányzati ellenőrzési szerv rendelkezésére bocsátja mindazon adatokat, amelyek kezelésére a kormányzati ellenőrzési szerv az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 63. § (1) bekezdés g) pontjában és azzal összefüggésben az Áht. 63. § (1) bekezdés h) pontjában meghatározott feladatai ellátásához törvény alapján jogosult.
 
@@ -1812,7 +1938,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 (8) A keresetindítási jog az (1) és a (2)–(7) bekezdésben meghatározottak szerint megilleti
 
 - a) a fogyasztóvédelemről szóló törvényben meghatározott, fogyasztói érdekek képviseletét ellátó egyesületeket, továbbá
-- b) azokat az Európai Gazdasági Térség bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésén alapul.
+- b) azokat az EGT bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésén alapul.
 
 #### 49. Részesedésszerzés és osztalékfizetés
 
@@ -1907,18 +2033,18 @@ fordítható.
   - ka) a túlzott hitelkiáramlás kockázatainak csökkentése érdekében szükséges intézkedéseket,
   - kb) az anticiklikus tőkepuffer képzésének és működésének feltételeit,
   - kc) a rendszerszintű likviditási kockázatok csökkentése érdekében szükséges követelményeket,
-  - kd) a rendszerszinten jelentős intézmények csődvalószínűségét csökkentő többletkövetelményeket.
+  - kd)
 
 (2) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és 27. § (2) bekezdésében foglalt feladatai körében rendeletben szabályozza
 
 - a) a fizetési forgalomban a fizetési megbízások lebonyolításának, továbbá a fizetési módok részletes szabályait,
 - b) a készpénzforgalmazás feltételeit,
 - c) a pénzfeldolgozási tevékenység szabályait és
-- d) a Hpt. szerinti fizetési rendszer működtetése tevékenységre vonatkozó részletes szabályokat.
+- d) az Fszt. szerinti fizetési rendszer működtetése tevékenységre vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és a 28. § (1) és (2) bekezdésében foglalt feladatai körében rendeletben szabályozza
 
-- a) a Hpt. szerinti fizetési rendszer működtetése tevékenységet végző szervezetek üzletszabályzatának tartalmi és formai követelményeit és a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket;
+- a) az Fszt. szerinti fizetési rendszer működtetése tevékenységet végző szervezetek üzletszabályzatának tartalmi és formai követelményeit és a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket;
 - b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet üzletszabályzatának tartalmi és formai követelményeit, továbbá
   - ba) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
   - bb) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
@@ -2001,7 +2127,7 @@ vonatkozó részletes szabályokat.
 
 (5) A 2013. október 1-je előtt indult, folyamatban lévő közbeszerzési eljárásokban a PSZÁF helyébe az MNB lép.
 
-(6) A 2013. október 1-je előtt indult, folyamatban lévő peres és nemperes eljárásokban a PSZÁF helyébe az MNB lép.
+(6) A 2013. október 1-je előtt indult, folyamatban lévő peres és nemperes eljárásokban a PSZÁF helyébe az MNB, továbbá a PSZÁF által működtetett Pénzügyi Békéltető Testület helyébe a Pénzügyi Békéltető Testület lép.
 
 (7) A PSZÁF által 2013. október 1-jét megelőzően hozott hatósági döntéssel szemben bírósági felülvizsgálati eljárás megindítására irányuló keresetet 2013. szeptember 30-át követően az MNB ellen kell benyújtani.
 
@@ -2011,7 +2137,7 @@ vonatkozó részletes szabályokat.
 
 (2) A 2013. szeptember 30-án a PSZÁF vagyonkezelésében lévő állami tulajdonú ingatlanok e törvény erejénél fogva ingyenesen az MNB vagyonkezelésébe kerülnek. A vagyonkezelői jogviszonyra a továbbiakban a Magyar Nemzeti Vagyonkezelő Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
 
-(3) 2013. október 1-jétől a Hitelintézeti Felszámoló Nonprofit Kft. üzletrésze feletti tulajdonosi jogokat az állam nevében az MNB gyakorolja, amely az MNB eredménytartalékát növeli.
+(3) 2013. október 1-jétől a Hitelintézeti Felszámoló Nonprofit Kft. üzletrésze feletti tulajdonosi jogokat az állam nevében az MNB gyakorolja.
 
 (4) Az (1) bekezdés alapján az MNB tulajdonába kerülő vagyonelemek bekerülési értéke megegyezik az eszköznek az átadáskori nyilvántartási értékével. A PSZÁF 176. § szerinti megszűnése, valamint a vagyonkezelésében álló vagyon tulajdonának és vagyonkezelési jogának átszállása az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (3) bekezdés h) pontjában foglalt átalakítással esik egy tekintet alá.
 
@@ -2110,6 +2236,36 @@ Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munka
 
 (16) Az (1) bekezdésben meghatározott személyek tekintetében az MNB a Nemzeti Adó- és Vámhivatal felé fennálló, a munkáltató vagy kifizető által foglalkoztatott biztosítottak adataira vonatkozó jelentéstételi és változás-bejelentési kötelezettségének a munkaviszony létesítésétől számított 8 munkanapon belül tehet eleget.
 
+183/A. § (1) Az MNB a 33. § (1) bekezdésének megfelelően – a (2), a (3) vagy a (4) bekezdésben foglalt eltéréssel – az anticiklikus tőkepufferrátát a Hpt. 87. §-a és az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi CCXXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított Bszt. 110/B. §-a szerinti mértékben legkésőbb 2019. január 1-jétől állapítja meg.
+
+(2) Az MNB a 33. § (1) bekezdésének megfelelően anticiklikus tőkepufferráta mértékét a Hpt. 87. §-ában és a Bszt. Módtv.-vel megállapított 110/B. §-ában meghatározott mértéktől eltérően az MNB a következők szerint állapíthatja meg:
+
+- a) 2014. január 1-je és 2014. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 0,625%-áig,
+- b) 2015. január 1-je és 2015. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 1,25%-áig, valamint
+- c) 2016. január 1-je és 2016. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 1,875%-áig,
+
+azzal, hogy 2017. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-ban és a Hpt. 87. §-ában és a Bszt. Módtv.-vel megállapított 110/B. §-ában meghatározottak szerint állapítja meg.
+
+(3) Az MNB a 33. § (1) bekezdésének megfelelően anticiklikus tőkepufferráta mértékét a Hpt. 87. §-ában és a Bszt. Módtv.-vel megállapított 110/B. §-ában meghatározott mértéktől eltérően az MNB a következők szerint állapítja meg:
+
+- a) 2015. január 1-je és 2015. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 0,625%-áig,
+- b) 2016. január 1-je és 2016. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 1,25%-áig, valamint
+- c) 2017. január 1-je és 2017. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 1,875%-áig,
+
+azzal, hogy 2018. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-ban és a Hpt. 87. §-ában és a Bszt. Módtv.-vel megállapított 110/B. §-ában meghatározottak szerint állapítja meg.
+
+(4) Az MNB a 33. § (1) bekezdésének megfelelően anticiklikus tőkepufferráta mértékét a Hpt. 87. §-ában és a Bszt. Módtv.-vel megállapított 110/B. §-ában meghatározott mértéktől eltérően az MNB a következők szerint állapítja meg:
+
+- a) 2016. január 1-je és 2016. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 0,625%-áig,
+- b) 2017. január 1-je és 2017. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 1,25%-áig, valamint
+- c) 2018. január 1-je és 2018. december 31-e közötti időszakban az 575/2013/EU rendelet 92. cikk 3. bekezdésében meghatározott teljes kockázati kitettségérték legfeljebb 1,875%-áig
+
+azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-ban és a Hpt. 87. §-ában és a Bszt. Módtv.-vel megállapított 110/B. §-ában meghatározottak szerint állapítja meg.
+
+183/B. § Az MNB a Módtv.-vel megállapított 35/A. § (5) bekezdésének megfelelően 3% és 5% közötti rendszerkockázati tőkepuffert 2015. január 1-jétől írhat elő.
+
+183/C. § A PSZÁF 176. § szerinti megszűnése előtt a pénzügyi felügyeleti feladatainak ellátásával összefüggésben keletkezett, a PSZÁF nyilvántartásában, irattárában 2013. szeptember 30. napján fellelhető iratokat az MNB jogosult kezelni.
+
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 
 184. § Az 1–14. §, 16–21. §, 23. § (1), (2) és (10) bekezdése, 24. § (1), (2), (4) és (5) bekezdése, 26–32. §-a, 33. § (1) bekezdése, 34. §, 35. § (1) bekezdése, 36. §, 39. § (1) és (2) bekezdése, 42. §, 44. §, 96–101. §, 167–169. §, a 176. §, a 178. § (8) és (9) bekezdése és a 183. § (1) és (5) bekezdése az Alaptörvény 41. cikk (1), (4) és (5) bekezdése, valamint 42. cikke alapján sarkalatosnak minősül.
@@ -2124,16 +2280,18 @@ Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munka
 - d) a Tanács 2004/113/EK irányelve (2004. december 13.) a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról, 5. cikk (2) bekezdése és a 16. cikk,
 - e) az Európai Parlament és a Tanács 2005/14/EK irányelve (2005. május 11.) a gépjármű-felelősségbiztosításra vonatkozó 72/166/EGK, 84/5/EGK, 88/357/EGK és 90/232/EGK tanácsi irányelv, valamint a 2000/26/EK európai parlamenti és tanácsi irányelv módosításáról, 4. cikk,
 - f) az Európai Parlament és a Tanács 2005/68/EK irányelve (2005. november 16.) a viszontbiztosításról és a 73/239/EGK, a 92/49/EGK tanácsi irányelv, valamint a 98/78/EK és a 2002/83/EK irányelv módosításáról,
-- g) az Európai Parlament és a Tanács 2006/48/EK irányelve (2006. június 14.) a hitelintézetek tevékenységének megkezdéséről és a folytatásáról (átdolgozott szöveg), 144. cikk,
-- h) az Európai Parlament és a Tanács 2006/49/EK irányelve (2006. június 14.) a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg), 37. cikk,
-- i) az Európai Parlament és Tanács 2009/11/EK irányelve (2009. szeptember 16.) a 2006/48/EK, a 2006/49/EK és a 2006/74/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke elemek, nagykockázat-vállalások, felügyeletei szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk,
+- g) az Európai Parlament és a Tanács 2013/36/EU irányelve (2013. június 26.) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/EK irányelv hatályon kívül helyezéséről,
+- h)
+- i) az Európai Parlament és Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2006/74/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeletei szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk,
 - j) az Európai Parlament és Tanács 2009/65/EK irányelve (2010. július 13.) az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról (átdolgozás),
 - k) a Bizottság 2010/43/EK irányelve (2010. július 1.) a 2009/65/EK európai parlamenti és tanácsi irányelvnek a szervezeti követelmények, az összeférhetetlenség, az üzletvitel, a kockázatkezelés, valamint a letétkezelő és az alapkezelő társaság közötti megállapodás tartalma tekintetében történő végrehajtásáról,
 - l) a Bizottság 2010/44/EK irányelve (2010. július 1.) a 2009/65/EK európai parlamenti és tanácsi irányelvnek az alapok egyesülésére, a master-feeder struktúrákra és a bejelentési eljárásokra vonatkozó különös rendelkezései tekintetében történő végrehajtásáról,
 - m) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
 - n) az Európai Parlament és a Tanács 236/2012/EU rendelete (2012. március 14.) a short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról,
 - o) az 1031/2010/EU bizottsági rendelete az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól,
-- p) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
+- p) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
+- q) az Európai Parlament és a Tanács 2012. március 14-i 260/2012/EK rendelete az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról,
+- r) az Európai Parlament és a Tanács 2013. június 26-i 575/2013/EU rendelete a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról.
 
 186. § (1) A 24. § (1) bekezdés a) pontja a hamispénz-figyelő rendszerhez (CMS) való csatlakozás egyes feltételeiről szóló, 2001. november 8-i EKB/2001/11 európai központi banki határozatnak való megfelelést szolgálja.
 

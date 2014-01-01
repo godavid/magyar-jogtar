@@ -155,7 +155,7 @@ meghatározott esetben.
 12. § (1) A bírói álláshelyre pályázónak a pályázat benyújtásakor
 
 - a) igazolnia kell a kinevezéshez szükséges adatokat és tényeket, valamint
-- b) hatósági bizonyítvánnyal igazolnia kell azt a tényt, hogy a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény vele szemben nem áll fenn,
+- b) hatósági erkölcsi bizonyítvánnyal igazolnia kell azt a tényt, hogy a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény vele szemben nem áll fenn,
 - c) igazolnia kell, hogy rendelkezik érvényes pályaalkalmassági vizsgálati eredménnyel.
 
 (2) A pályázatban fel kell tüntetni a pályázó rövid úton történő elérhetőségét (elektronikus levélcím, telefon-, illetve telefax-szám stb.).
@@ -176,7 +176,11 @@ meghatározott esetben.
 
 (4) A pályázati rangsor kialakítása során kizárólag a következő szempontok vehetők figyelembe:
 
-- a) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye, nem bírósági joggyakorlattal rendelkező pályázó esetén a korábbi munkáltató értékelése,
+- a) a szakmai értékelés tekintetében
+  - aa) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye,
+  - ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírósági titkári joggyakorlati idő OBH elnöke általi értékelése,
+  - ac) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az Országos Bírói Tanács (a továbbiakban: OBT) tagja mellett eltöltött bírósági titkári joggyakorlati idő OBT tag általi értékelése,
+  - ad) nem bírósági joggyakorlattal rendelkező pályázó esetén a korábbi munkáltató értékelése,
 - b) a jogi szakvizsga letételét követő gyakorlati vagy szolgálati idő tartama,
 - c) a törvényszéki, az ítélőtáblai, továbbá a kúriai álláshelyre (a továbbiakban: magasabb bírói álláshely) pályázó esetében a kollégium véleménye,
 - d) a pályaalkalmassági vizsgálat eredménye,
@@ -197,7 +201,9 @@ meghatározott esetben.
 
 (2) Ha a rangsor valamely helyén több pályázó azonos pontszámmal szerepel, az azonos helyen szereplő pályázók közötti sorrendet a bírói tanács általi meghallgatás eredménye alapján kell felállítani. Ha a bírói tanács általi meghallgatás során is azonos pontszámot érnek el a pályázók, közöttük a bírói tanács egyszerű szótöbbséggel hozott, írásbeli, indokolt határozatával sorrendet állít fel.
 
-(3) A bírói tanács a pályázók rangsorát és a pályázatokat, továbbá – a (2) bekezdésben foglalt esetben – az írásbeli, indokolt határozatát haladéktalanul továbbítja a törvényszék, az ítélőtábla vagy a Kúria elnökéhez.
+(2a) Ha a bírói tanács által a meghallgatás során adott pontszámokra figyelemmel módosul a pályázók objektív pontjai alapján kialakult pályázati rangsor első három helyén álló pályázó személye, a bírói tanácsnak írásban kell megindokolnia a meghallgatás során a pályázóknak adott pontokat.
+
+(3) A bírói tanács a pályázók rangsorát és a pályázatokat, továbbá – a (2) és (2a) bekezdésben foglalt esetben – az írásbeli, indokolt határozatát haladéktalanul továbbítja a törvényszék, az ítélőtábla vagy a Kúria elnökéhez.
 
 16. § (1) Ha a törvényszék vagy az ítélőtábla elnöke egyetért azzal, hogy az első helyen rangsorolt pályázó töltse be az álláshelyet, úgy a pályázati rangsort és a pályázatokat a pályázat elbírálása érdekében 8 munkanapon belül az OBH elnökének megküldi.
 
@@ -221,7 +227,15 @@ meghatározott esetben.
 
 #### 10. Eredménytelen pályázat
 
-20. § (1) Eredménytelen a pályázat, ha egyetlen pályázat sem érkezik vagy azokat a bíróság elnöke a 13. §-ban foglaltak szerint elutasította, továbbá ha a pályázat elbírálására jogosult OBH elnöke, vagy kúriai pályázat esetén a Kúria elnöke a pályázók egyikével sem kívánja betölteni az álláshelyet.
+20. § (1) Eredménytelen a pályázat, ha
+
+- a) egyetlen pályázat sem érkezik vagy azokat a bíróság elnöke a 13. §-ban foglaltak szerint elutasította, vagy
+- b) a pályázat elbírálására jogosult OBH elnöke, vagy kúriai pályázat esetén a Kúria elnöke a pályázók egyikével sem kívánja betölteni az álláshelyet, mert
+  - ba) a pályázó kinevezésével a 41. § szerinti összeférhetetlenség jönne létre,
+  - bb) a pályázat elbírálása során az elbírálási folyamatban résztvevők eljárási szabálysértést követtek el,
+  - bc) a bírói tanács a 15. § (2) és (2a) bekezdésében foglalt indokolási kötelezettségének nem kellő mértékben tett eleget,
+  - bd) a pályázat kiírását követően bekövetkezett munkaszervezést, munkaterhelést vagy költségvetést érintő változások igazgatási szempontból indokolatlanná teszik az álláshely betöltését,
+  - be) a pályázat kiírását követően olyan körülmény merült fel, amelynek eredményeként az álláshelyet a törvény alapján pályázat kiírása nélkül (8. §) szükséges betölteni.
 
 (2) Ha a pályázat eredménytelen, új pályázatot kell kiírni.
 
@@ -281,6 +295,8 @@ meghatározott esetben.
 
 (4)
 
+25/A. § A 24. § (2) bekezdése és a 25. § (2) bekezdése alkalmazása szempontjából az OBH-ba beosztás időtartama nem minősül tényleges bírói működésnek.
+
 #### 14. A bíró beosztása
 
 26. § (1) A bírót első kinevezésekor az OBH elnöke, ezt követően a Kúriára a Kúria elnöke, az ítélőtáblára az ítélőtábla elnöke, a törvényszékre, a közigazgatási és munkaügyi bíróságra, valamint a járásbíróságra a törvényszék elnöke osztja be.
@@ -315,7 +331,7 @@ meghatározott esetben.
 
 30. § (1) A közigazgatási és munkaügyi ügyekben eljáró bírákat a törvényszék bírái tekintetében a törvényszék elnökének javaslatára az OBH elnöke jelöli ki.
 
-(2) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 17. §-ának (5) és (6) bekezdésében, továbbá 448. §-ának (2) bekezdésében meghatározott ügyekben ítélkező bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
+(2) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 17. §-ának (5) és (6) bekezdésében, továbbá 448. §-ának (2) bekezdésében meghatározott ügyekben ítélkező, továbbá a bírósági közvetítői tevékenységet végző bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
 
 (3) Az (1) és (2) bekezdésben foglalt hatásköröket a Kúria bírái tekintetében a Kúria elnöke megfelelően gyakorolja.
 
@@ -324,6 +340,8 @@ meghatározott esetben.
 (5) A Kúria elnöke az általa kijelölt bírák személyéről tájékoztatja az OBH elnökét.
 
 (6) A bíró kijelöléséhez a bíró hozzájárulása szükséges.
+
+(7) Az OBH elnöke a kijelölést a kijelölés kezdeményezésére jogosult indítványára megszünteti.
 
 #### 17. Kirendelés
 
@@ -403,7 +421,7 @@ elnökének véleményét.
 
 (5) A bíró a bírói szolgálati viszony keretében köteles a bírósági vezető törvényen alapuló és az ítélkezés érdemét nem érintő igazgatási intézkedéseit teljesíteni és azok érvényesülését elősegíteni.
 
-38. § A bíró a bírói szolgálati viszony fennállása alatt a munkáltatói jogkör gyakorlójának írásbeli felhívására, a felhívás kézhezvételétől számított 15 munkanapon belül hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll fenn vele szemben a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény.
+38. § A bíró a bírói szolgálati viszony fennállása alatt a munkáltatói jogkör gyakorlójának írásbeli felhívására, a felhívás kézhezvételétől számított 15 munkanapon belül hatósági erkölcsi bizonyítvánnyal igazolja azt a tényt, hogy nem áll fenn vele szemben a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény.
 
 #### 21. Összeférhetetlenség
 
@@ -413,7 +431,7 @@ elnökének véleményét.
 
 40. § (1) A bíró a tisztsége ellátásán kívül csak tudományos és oktatói, edzői, versenybírói, játékvezetői, művészi, szerzői jogi védelemben részesülő, továbbá lektori és szerkesztői, valamint műszaki alkotó munkát végezhet kereső tevékenységként, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti ennek látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését.
 
-(2) A bíró nem lehet gazdasági társaság, kooperációs társaság, szövetkezet vezető tisztségviselője vagy személyes közreműködésre kötelezett tagja, gazdasági társaság, kooperációs társaság, szövetkezet felügyelő bizottságának tagja, továbbá gazdasági társaság, kooperációs társaság korlátlanul felelős tagja, valamint egyéni cég tagja.
+(2) A bíró nem lehet gazdasági társaság, kooperációs társaság, szövetkezet vezető tisztségviselője vagy személyes közreműködésre kötelezett tagja, gazdasági társaság, kooperációs társaság, szövetkezet felügyelő bizottságának tagja, gazdasági társaság, kooperációs társaság korlátlanul felelős tagja, valamint egyéni cég tagja, továbbá gazdasági-vállalkozási tevékenységet is végző civil szervezet vezető tisztségviselője.
 
 (3) A bíró a bírói szolgálati viszonya szerinti munkaidejét egészben vagy részben érintő munkavégzésre irányuló egyéb jogviszonyt csak a munkáltatói jogkör gyakorlójának előzetes hozzájárulásával létesíthet. A hozzájárulás megtagadása miatt jogvita nem kezdeményezhető.
 
@@ -451,7 +469,7 @@ elnökének véleményét.
 
 #### 23. A bírák képzése
 
-45. § (1) A bíró köteles az ítélkező tevékenység gyakorlásához szükséges rendszeres, térítésmentes továbbképzésen részt venni, és ötévente az OBH elnöke által kiadott szabályzatban előírt képzési kötelezettség teljesítését igazolni a munkáltatói jogkör gyakorlójának.
+45. § (1) A bíró köteles az ítélkező tevékenység gyakorlásához szükséges rendszeres, térítésmentes továbbképzésen részt venni, és háromévente az OBH elnöke által kiadott szabályzatban előírt képzési kötelezettség teljesítését igazolni a munkáltatói jogkör gyakorlójának.
 
 (2) Ha a bíró a képzési kötelezettségének önhibájából nem tesz eleget, soron kívül el kell rendelni a vizsgálatát, továbbá magasabb bírói álláshelyre nem nyújthat be pályázatot.
 
@@ -471,7 +489,7 @@ elnökének véleményét.
 
 (5) Az OBH elnöke az elektronikus aláírás hitelesítése céljából kiállított tanúsítvány visszavonását, illetve felfüggesztését a bíró beosztásának megváltozása, szolgálati viszonyának megszűnése, szünetelése, illetve egyéb ok esetén a Szolgáltatónál kezdeményezi. A Szolgáltató köteles az OBH elnökének megkeresésére a tanúsítványt haladéktalanul visszavonni, illetve felfüggeszteni.
 
-(6) A bírák elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
+(6)
 
 #### 25. A bíró munkaideje
 
@@ -557,7 +575,7 @@ történő rendelkezésre állás.
 
 57. § (1) Az OBH-ba beosztott bíró megtartja bírói tisztségét, de nem ítélkezhet. Javadalmazására a bíróra vonatkozó szabályokat kell alkalmazni.
 
-(2) Határozott időre kinevezett bíró az OBH-ba nem osztható be.
+(2)
 
 58. § (1) Az OBH-ba beosztott bírák tekintetében – ha e törvény vagy a bíróságok szervezetéről és igazgatásáról szóló törvény eltérően nem rendelkezik – a munkáltatói jogkört az OBH elnöke gyakorolja.
 
@@ -625,7 +643,7 @@ történő rendelkezésre állás.
 
 #### 32. Az értékelést elősegítő tevékenységi kimutatás
 
-67. § A bíró éves tevékenységéről az ügyforgalmi és tevékenységi adatok, továbbá a másodfokú és a felülvizsgálati határozatok alapján kimutatást kell készíteni. Az OBH elnöke szabályzatban határozza meg, hogy a kimutatásnak milyen adatokat kell tartalmaznia. A kimutatást a bíróság elnökének éves tájékoztatójával egyidejűleg közzé kell tenni a bíróságok belső informatikai hálózatán (intranet). A kimutatás adatait a bíró vizsgálatánál, értékelésénél figyelembe kell venni.
+67. § A bíró éves tevékenységéről az ügyforgalmi és tevékenységi adatok, továbbá a másodfokú és a felülvizsgálati határozatok alapján kimutatást kell készíteni. Az OBH elnöke szabályzatban határozza meg, hogy a kimutatásnak milyen adatokat kell tartalmaznia. A kimutatást a bíróság elnökének éves tájékoztatójával egyidejűleg közzé kell tenni a bíróságok központi intranetes honlapján (a továbbiakban: intranet). A kimutatás adatait a bíró vizsgálatánál, értékelésénél figyelembe kell venni.
 
 #### 33. Rendszeres és soron kívüli értékelés
 
@@ -634,7 +652,10 @@ történő rendelkezésre állás.
 69. § Soron kívül értékelni kell a bíró tevékenységét, ha
 
 - a) bármely okból felmerül, hogy a bírói tevékenység ellátására szakmai okból nem képes,
-- b) a bíró azt maga kéri.
+- b) a bíró azt maga kéri,
+- c) valamely általa tárgyalt per – anélkül, hogy a perben eljáró bíró személyében változás történt volna – két éven túl van folyamatban, és a per iratainak vizsgálata alapján megállapítható, hogy a per ésszerű időn belüli befejezését késleltető, a bíró önhibájából bekövetkezett mulasztás történt.
+
+69/A. § Az OBH elnökének kinevezési jogkörébe tartozó vezető, továbbá a Kúria elnökének kinevezési jogkörébe tartozó határozott időre kinevezett vezető és a Kúria elnökhelyettese, valamint az OBH bíró elnökhelyettese a kinevezésének tartama alatt, az OBH-ba, a minisztériumba és a Kúriára beosztott bíró a beosztásának tartama alatt mentesül a rendszeres bírói értékelés alól.
 
 #### 34. Az értékelést megalapozó vizsgálat elrendelése
 
@@ -652,9 +673,9 @@ történő rendelkezésre állás.
 
 (2) Az értékelést megalapozó vizsgálatot a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető – nem értve ez alatt a közigazgatási és munkaügyi regionális kollégium vezetőjét – vagy az általa kijelölt bíró folytatja le.
 
-(3) A Kúriára beosztott bíró tevékenységét a Kúria elnöke értékeli.
+(3) A Kúriára beosztott bíró tevékenységét a Kúria elnöke értékeli az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint.
 
-(4) Az OBH-ba beosztott bíró hivatali tevékenységét az OBH elnöke értékeli.
+(4) Az OBH-ba beosztott bíró hivatali tevékenységét az OBH elnöke értékeli az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint.
 
 (5) A minisztériumba beosztott bíró hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre irányadó szabályok szerint értékeli.
 
@@ -764,7 +785,7 @@ történő rendelkezésre állás.
 
 - a) ha bírói tisztségéről lemondott,
 - b) ha a bíró tisztségének ellátására egészségügyi okból tartósan alkalmatlanná vált vagy a 84. § szerinti alkalmatlansági eljárás során alkalmatlanná nyilvánították,
-- c) ha a bíróval szemben jogerősen szabadságvesztést vagy közérdekű munkát szabtak ki, kényszergyógykezelését rendelték el,
+- c) ha a bíróval szemben jogerősen szabadságvesztést, közérdekű munkát vagy elzárást szabtak ki, kényszergyógykezelését rendelték el,
 - d) ha a bíró a bírói esküt a 22. §-ban meghatározott határidőn belül nem tette le,
 - e) ha a bíró kinevezésének a 4. § (1) bekezdés a) és b) pontjában foglalt feltételei már nem állnak fenn,
 - f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek vagy polgármesternek megválasztották, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
@@ -828,14 +849,14 @@ történő rendelkezésre állás.
 
 (2) A munkáltatói jogkör gyakorlását törvényben külön nem nevesített esetekben
 
-- a) az OBH elnöke az általános helyettesére,
+- a) az OBH elnöke a bíró helyettesére,
 - b) a törvényszék elnöke a járásbírósági bírák tekintetében a járásbíróság elnökére, a közigazgatási és munkaügyi bírósági bírák esetében a közigazgatási és munkaügyi bíróság elnökére – a bíró értékelésének elrendelése kivételével – írásban átruházhatja.
 
 100. § (1) A munkáltatói jogkör gyakorlója a bírói szolgálati viszony fennállása alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a bírót annak igazolására, hogy vele szemben nem áll fenn a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra a bíró igazolja, hogy vele szemben a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény nem áll fenn, a munkáltatói jogkör gyakorlója az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a bíró részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra a bíró igazolja, hogy vele szemben a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény nem áll fenn, a munkáltatói jogkör gyakorlója az igazolásra szolgáló hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a bíró részére megtéríti.
 
-(3) A munkáltatói jogkör gyakorlója a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény vizsgálata céljából kezeli a bírói szolgálati viszony létesítését megelőzően a bírói kinevezésre pályázó személy és a bíró azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+(3) A munkáltatói jogkör gyakorlója a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény vizsgálata céljából kezeli a bírói szolgálati viszony létesítését megelőzően a bírói kinevezésre pályázó személy és a bíró azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány tartalmaz.
 
 (4) A 12. § (1) bekezdés b) pontjában, valamint a 38. §-ban meghatározottak alapján megismert személyes adatokat a munkáltatói jogkör gyakorlója a bírói szolgálati viszony létesítéséről meghozott döntés időpontjáig vagy – a bírói szolgálati viszony létesítése és fennállása esetén – a bírói szolgálati viszony megszűnéséig kezeli.
 
@@ -845,7 +866,7 @@ történő rendelkezésre állás.
 
 101. § A bírák fegyelmi és az ezzel összefüggő kártérítési ügyeiben, továbbá a bíró munkájának szakmai értékeléséből és vezetői munkájának értékeléséből eredő jogvitákban, valamint a 42. § (6)–(8) bekezdése szerinti összeférhetetlenségi eljárásban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság; a továbbiakban együtt: szolgálati bíróság) jár el.
 
-102. § (1) A szolgálati bíróság elnökét és tagjait a Kúria, az ítélőtáblák és a törvényszékek bírái közül az OBT nevezi ki. A szolgálati bíróság elnökhelyettesét az adott szolgálati bíróság elnöke nevezi ki.
+102. § (1) A szolgálati bíróság elnökét és tagjait a Kúria, az ítélőtáblák, valamint a törvényszékek illetékességi területén működő bírák közül az OBT nevezi ki. A szolgálati bíróság elnökhelyettesét az adott szolgálati bíróság elnöke nevezi ki.
 
 (2) A szolgálati bíróság tagjaira a Kúria teljes ülése, illetve az ítélőtábla és a törvényszék összbírói értekezlete tesz javaslatot.
 
@@ -883,6 +904,12 @@ történő rendelkezésre állás.
 
 (3) A szolgálati bíróság ügyrendjét az OBT közzéteszi a központi honlapon.
 
+104/B. § (1) A szolgálati bíróság minden évben írásban tájékoztatja az OBT-t arról, hogy előző évi működése megfelelt-e az ügyrendjében foglaltaknak. A tájékoztató tartalmazza az előző évben a szolgálati bírósághoz érkezett, illetve ott befejezett, valamint folyamatban maradt ügyek számát, a bíróság által kiszabott büntetéseket, továbbá a szolgálati bírósághoz érkezett panaszok számát és jellegét.
+
+(2) A szolgálati bíróság éves tájékoztatóját az OBT minden év első negyedévében vitatja meg és hagyja jóvá.
+
+(3) A jóváhagyott tájékoztatót az OBT közzéteszi az intraneten.
+
 #### 45. A fegyelmi vétség
 
 105. § Fegyelmi vétséget követ el a bíró, ha vétkesen
@@ -903,6 +930,8 @@ történő rendelkezésre állás.
 (3) Az OBH elnöke kizárólag az általa kinevezett bírósági vezetők, valamint az OBH-ba beosztott bíró ellen kezdeményezheti a fegyelmi eljárás megindítását.
 
 (4) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást meg kell indítani.
+
+(5) Ha a bíróval szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indult – kivéve a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást kezdeményező elnök rendelkezhet arról, hogy az eljárás alá vont bíró tárgyalási tevékenységet, a nyilvános ülés és a tanácsülés tartására is kiterjedően, nem végezhet a vele szemben indult eljárás megszüntetéséig vagy jogerős határozattal történő felmentéséig.
 
 107. § Ha fegyelmi eljárás alá vont bíróval szemben büntetőeljárás van folyamatban, a fegyelmi eljárást fel kell függeszteni.
 
@@ -935,7 +964,8 @@ történő rendelkezésre állás.
 - a) akinek tanúkénti meghallgatása az eljárásban szükségessé válhat,
 - b) az a vizsgálóbiztos, aki az ügyben eljárt,
 - c) az eljárás alá vont bíró hozzátartozója,
-- d) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható el.
+- d) aki az adott eljárás során előterjesztett kizárási kérelemmel kapcsolatos döntéshozatalban részt vett,
+- e) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható el.
 
 115. § (1) Ha olyan körülmény merül fel, amely a vizsgálóbiztosnak, illetve a szolgálati bíróság tanácsa elnökének vagy tagjának az elfogulatlanságát kétségessé teszi, a fegyelmi eljárás alá vont bíró elfogultsági kifogást terjeszthet elő.
 
@@ -951,9 +981,13 @@ történő rendelkezésre állás.
 
 #### 48. A bírói tisztségből való felfüggesztés
 
-117. § (1) Az elsőfokú szolgálati bíróság tanácsa a bírót tisztségéből felfüggeszti, ha a bírót előzetes letartóztatásba vagy házi őrizetbe helyezték, illetve vele szemben lakhelyelhagyási tilalmat vagy ideiglenes kényszergyógykezelést rendeltek el, illetve, ha a szolgálati helyén való jelenléte a tényállás megállapítását gátolná.
+117. § (1) Az elsőfokú szolgálati bíróság tanácsa a bírót tisztségéből felfüggeszti, ha a bírót előzetes letartóztatásba vagy házi őrizetbe helyezték, illetve vele szemben lakhelyelhagyási tilalmat vagy ideiglenes kényszergyógykezelést rendeltek el, vagy vádemelésre került sor, illetve, ha a szolgálati helyén való jelenléte a tényállás megállapítását gátolná.
 
-(2) A felfüggesztésről hozott határozat ellen az eljárás alá vont bíró és az eljárás kezdeményezője a határozat közlésétől számított 8 napon belül a másodfokú szolgálati bíróságnál fellebbezéssel élhet, amelynek nincs halasztó hatálya. A másodfokú szolgálati bíróság a fellebbezést 8 napon belül elbírálja.
+(2) Az elsőfokú szolgálati bíróság tanácsa a bírót a tisztségéből a fegyelmi eljárást kezdeményező elnök indítványára felfüggesztheti, ha a bíró ellen büntetőeljárás – kivéve a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást – indult és a bíró szolgálati helyén való jelenléte a tényállás megállapítását gátolná, vagy a fegyelmi eljárás tárgyát képező kötelezettségszegés súlya és jellege a szolgálati helytől való távoltartást indokolja.
+
+(3) Az (1) és (2) bekezdés szerinti döntéseket a szolgálati bíróság a fegyelmi eljárás felfüggesztését követően is meghozhatja.
+
+(4) A bírói tisztségből való felfüggesztésről hozott határozat ellen az eljárás alá vont bíró és az eljárás kezdeményezője a határozat közlésétől számított 8 napon belül a másodfokú szolgálati bíróságnál fellebbezéssel élhet, amelynek nincs halasztó hatálya. A másodfokú szolgálati bíróság a fellebbezést 8 napon belül elbírálja.
 
 118. § (1) A bírói tisztségből való felfüggesztés idejére a bírót megilleti az illetménye, amelynek legfeljebb 50 százalékát egy hónapra vissza lehet tartani. A teljes illetményt vissza kell tartani a bírói tisztségből való felmentés indítványozását kimondó fegyelmi határozat meghozatalától annak jogerőre emelkedéséig. A visszatartásról a szolgálati bíróság tanácsa határoz, határozata ellen nincs helye fellebbezésnek.
 
@@ -961,13 +995,15 @@ történő rendelkezésre állás.
 
 (3) A visszatartott illetményt a fegyelmi határozat jogerőre emelkedése után ki kell fizetni, kivéve, ha a fegyelmi eljárás a bírói tisztségből való felmentés indítványozását kimondó fegyelmi határozattal zárul. Ugyanígy kell eljárni, ha a bíró szolgálati viszonya időközben a felmentése folytán szűnt meg.
 
+(4) A felfüggesztés időtartamára kifizetett illetmény 50 százalékát a bíró a fegyelmi határozat jogerőre emelkedését követően köteles visszafizetni, ha a fegyelmi eljárás a bírói tisztségből való felmentés indítványozását kimondó fegyelmi határozattal zárult.
+
 #### 49. A fegyelmi eljárás
 
 119. § A fegyelmi eljárást és az előzetes vizsgálatot a nyilvánosság kizárásával kell lefolytatni.
 
 120. § (1) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében meghallgatja az eljárás alá vont bírót, tanúkat hallgathat ki, szakértőt vehet igénybe és egyéb bizonyítást végezhet. A vizsgálóbiztos a bíróság irataiba betekinthet, a bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.
 
-(2) A vizsgálóbiztos az eljárásáról a szolgálati bíróság tanácsa részére 15 napon belül írásbeli jelentést készít.
+(2) A vizsgálóbiztos az eljárásáról a szolgálati bíróság tanácsa részére 30 napon belül írásbeli jelentést készít.
 
 121. § (1) A vizsgálóbiztos jelentésének előterjesztését követő 15 napon belül a szolgálati bíróság tanácsa dönt a fegyelmi eljárás megindításáról vagy megtagadásáról és a felfüggesztésről.
 
@@ -983,7 +1019,7 @@ történő rendelkezésre állás.
 
 (3) A határozat meghozatala előtt az eljárás kezdeményezője, majd az eljárás alá vont bíró és a képviselő felszólalhat.
 
-(4) A tárgyaláson a fegyelmi eljárás kezdeményezőjét – akadályoztatása esetén – az elnökhelyettes, az OBH elnökét az általános helyettese vagy az általa kijelölt bíró képviseli.
+(4) A tárgyaláson a fegyelmi eljárás kezdeményezőjét – akadályoztatása esetén – az elnökhelyettes, az OBH elnökét az OBH elnökhelyettese vagy az általa kijelölt bíró képviseli.
 
 123. § (1) A szolgálati bíróság tanácsa indokolással ellátott határozatával a fegyelmi eljárás alá vont bírót
 
@@ -1002,10 +1038,13 @@ történő rendelkezésre állás.
 - a) feddés,
 - b) megrovás,
 - c) egy fizetési fokozattal való visszavetés,
-- d) vezetői tisztségből való felmentés,
-- e) bírói tisztségből való felmentés indítványozása.
+- d) két fizetési fokozattal való visszavetés,
+- e) vezetői tisztségből való felmentés,
+- f) bírói tisztségből való felmentés indítványozása.
 
 (2) A fegyelmi büntetés kiszabásánál figyelembe kell venni a kötelességszegés súlyát és következményeit, a vétkesség fokát.
+
+(2a) A kötelességszegés súlyára és következményeire, valamint a vétkesség fokára tekintettel a szolgálati bíróság tanácsa határozatában kizárhatja a 127. § (1) bekezdése alapján történő fegyelmi büntetés hatálya alóli mentesítés alkalmazásának lehetőségét.
 
 (3) Bírói tisztségből való felmentés indítványozása esetén a bírónak a tisztségéből való felfüggesztését fenn kell tartani vagy el kell rendelni. Más fegyelmi büntetés kiszabása esetében a fegyelmi határozatban a felfüggesztést meg kell szüntetni.
 
@@ -1050,7 +1089,7 @@ történő rendelkezésre állás.
 
 (2) Az új eljárást az elsőfokú szolgálati bíróságnál lehet kezdeményezni, amely az első fokú eljárás szabályainak megfelelő alkalmazásával jár el.
 
-(3) Új eljárás kezdeményezésének a bíró terhére csak a bíró életében és csak az elévülési időn belül van helye.
+(3) Új eljárás kezdeményezésének a jogerős határozat meghozatalát követő 3 éven belül van helye.
 
 #### 52. A Kúriára, az OBH-ba és a minisztériumba beosztott bíróra vonatkozó sajátos rendelkezések
 
@@ -1132,7 +1171,9 @@ történő rendelkezésre állás.
 
 - a) az illetmény és a táppénz,
 - b) az illetmény és a sérelem folytán csökkent kereset,
-- c) az átlagilletmény, a távolléti díj és a rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás különbözetének a megtérítése iránti igényt.
+- c) az átlagilletmény, az illetmény és a rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás
+
+különbözetének a megtérítése iránti igényt.
 
 (2) Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban esedékes újabb elkülönülő kárigény származik, ezek elévülési idejét egymástól függetlenül, az egyes igények esedékessé válásától kezdődően, külön-külön kell számítani.
 
@@ -1178,7 +1219,7 @@ kezdődik.
 
 147. § (1) A bírákról a (2) bekezdésben foglalt tartalommal személyi nyilvántartást kell vezetni.
 
-(2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványt, a bíró önéletrajzát, fényképét, az esküokmányt, a személyi adatlapot, a bírói kinevezéséről, beosztásáról, elektronikus aláírási jogosultságáról és a vezetői kinevezéséről szóló okiratokat, a bíró értékeléséről szóló iratot, a szervezett kötelező képzésekre és a fakultatív képzésekre vonatkozó adatokat, valamint az azokon való részvételt igazoló okiratokat, az elismerésekről és kitüntetésekről szóló okiratokat, valamint a hatályos fegyelmi büntetésről és a kártérítésről szóló határozatot tartalmazza. A személyi adatlap tartalmát a törvény 1. melléklete határozza meg. A mellékletben szereplő adatokon kívül – e törvény eltérő rendelkezése hiányában – adatszerzés nem végezhető, ilyen adatot nem lehet nyilvántartani. A bíró a nyilvántartott adatokban bekövetkezett változásokat köteles haladéktalanul bejelenteni.
+(2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt, a bíró önéletrajzát, fényképét, az esküokmányt, a személyi adatlapot, a bírói kinevezéséről, beosztásáról, elektronikus aláírási jogosultságáról és a vezetői kinevezéséről szóló okiratokat, a bíró értékeléséről és vezetői értékeléséről szóló iratot, a szervezett kötelező képzésekre és a fakultatív képzésekre vonatkozó adatokat, valamint az azokon való részvételt igazoló okiratokat, az elismerésekről és kitüntetésekről szóló okiratokat, valamint a hatályos fegyelmi büntetésről és a kártérítésről szóló határozatot tartalmazza. A személyi adatlap tartalmát a törvény 1. melléklete határozza meg. A mellékletben szereplő adatokon kívül – e törvény eltérő rendelkezése hiányában – adatszerzés nem végezhető, ilyen adatot nem lehet nyilvántartani. A bíró a nyilvántartott adatokban bekövetkezett változásokat köteles haladéktalanul bejelenteni.
 
 (3) A bírák központi személyi nyilvántartásának feladatait az OBH látja el. A minisztériumba beosztott bíró adatait a minisztériumban kell nyilvántartani. A bíró személyi adatlapját a törvényszéken, az ítélőtáblán vagy a Kúrián is nyilván kell tartani.
 
@@ -1281,6 +1322,21 @@ jogosult.
 #### 63. A bíró illetménye
 
 168. § A bíró illetménye alapilletményből, továbbá pótlékból tevődik össze. A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű.
+
+168/A. § (1) A bírót az illetménye illeti meg a következő távollétek idejére is:
+
+- a) a szabadság időtartama alatt,
+- b) az Mt. 55. § (1) bekezdés c)–g) pontjában meghatározott esetben,
+- c) az állampolgári kötelezettség teljesítésének időtartamára,
+- d) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
+- e) a munkaszüneti nap miatt kiesett időre,
+- f) ha a munkáltató foglalkoztatási kötelezettségének elháríthatatlan külső okot kivéve nem tesz eleget.
+
+(2) Az illetmény 70 százaléka jár a betegszabadság tartamára.
+
+(3) Az egy napra járó illetmény az egy hónapra megállapított illetmény és a tárgyhó munkanapjai számának hányadosa.
+
+(4) Az egy órára járó illetmény az egy napra kiszámított illetmény és a bíró napi teljes munkaidejének hányadosa.
 
 #### 64. A bírói illetményalap és a bíró alapilletménye
 
@@ -1433,6 +1489,18 @@ jogosult.
 
 (5) Ha a tisztségét a 33. §-ban foglaltakra tekintettel kiírt pályázat alapján betöltő bíró az (1) bekezdés szerinti feltételek szerint kerül kirendelésre, a rendelkezésre állási pótlék mellett jogosult kirendelési díjra, amit a 187. § (1) és (3) bekezdésében foglaltak alapján kell megállapítani azzal az eltéréssel, hogy kirendelési díjként a bírói illetményalap egy munkanapra eső részének a 10 százaléka állapítható meg.
 
+186/A. § (1) A (2) és (3) bekezdésben foglaltak kivételével belföldi kiküldetésnek minősül, ha a bíró igazságszolgáltatási érdekből, vagy a munkáltatói jogkör gyakorlójának külön utasítása alapján – az általa tárgyalt ügy elbírálása érdekében szükséges eljárási cselekményen való részvétel esetén külön utasítás nélkül – ideiglenesen, lakóhelyén, beosztási, vagy a kinevezési okiratában, valamint az ügyelosztási és ügybeosztási rendben meghatározott szolgálati helyén kívül, a munkáltató érdekkörébe tartozó munkát végez, igazgatási intézkedést teljesít, vagy az OBH elnökének megbízása alapján központi igazgatási feladatot lát el.
+
+(2) Nem minősül belföldi kiküldetésnek, ha a határozott idejű megbízással rendelkező vezető a tisztségéből eredő feladatait teljesíti a szolgálati helyén kívül.
+
+(3) Nem minősül belföldi kiküldetésnek, ha a bíró a feladatait rendszeresen a beosztásáról szóló okiratban szereplő szolgálati helyén vagy a kinevezési okiratában meghatározott szolgálati helyén kívül, de
+
+- a) az ítélőtábla – kivéve a c) pontban meghatározott ítélőtábla – mint szolgálati hely esetében az ítélőtábla székhelye szerinti megye területén,
+- b) a törvényszék – kivéve a c) pontban meghatározott törvényszéket – mint szolgálati hely esetében az érintett törvényszék illetékességi területén,
+- c) a Kúria, a fővárosi székhelyű ítélőtábla, a fővárosi illetékességi területű törvényszék és az OBH mint szolgálati hely esetében Budapest területén
+
+végzi.
+
 187. § (1) A bírót belföldi kiküldetés esetén – az élelmezéssel kapcsolatos többletköltségek fedezésére – napidíjként a bírói illetményalap egy munkanapra eső részének a 20 százaléka illeti meg. Ha a kiküldetésben töltött idő a 6 órát nem haladja meg, de a 4 órát eléri, a napidíj fele jár. A napidíj összegének kiszámításánál havonta 21 napot kell figyelembe venni.
 
 (2) Nem számolható el napidíj azokra a munkanapokra, amikor a bíró kirendelési díjra jogosult, továbbá, ha a munkáltató a napi teljes élelmezést a kiküldetés helyén természetben biztosítja.
@@ -1479,7 +1547,7 @@ jogosult.
 
 (6) Az irányadó időszakban kifizetett, de az irányadó időszakot meghaladó, meghatározott időtartamra járó javadalmazásnak, továbbá az irányadó időszakon kívüli időben kifizetett, de az irányadó időszak alatti munkavégzés alapján járó javadalmazásnak csak az átlagszámítás alapjául figyelembe vehető időszakra eső – a (8) bekezdés szerinti osztószám figyelembevételével számított – (időarányos) részét kell az átlagszámításnál a kifizetett javadalmazás összegébe beszámítani.
 
-(7) Ha a bíró szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének a távolléti díjával azonos összeg tekintendő.
+(7) Ha a bíró szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének az illetményével azonos összeg tekintendő.
 
 (8) Az egy órára, illetve az egy munkanapra járó átlagilletményt úgy kell kiszámítani, hogy a bíró irányadó időszaki javadalmazásának együttes összegét osztani kell az adott időszakban munkában töltött, valamint az illetménnyel fizetett, de munkában nem töltött órák, illetve munkanapok számával (a továbbiakban együtt: osztószám).
 
@@ -1502,7 +1570,7 @@ jogosult.
 
 (4) A (2) bekezdés a)–c) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló szolgálati viszony fennállását a munkáltatói jogkör gyakorlója igazolja.
 
-(5) A (2) bekezdés d) pontjában foglalt feltétel teljesülését a bíró hatósági bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről a bíró a kölcsönt nyújtó hitelintézetnek nyilatkozik.
+(5) A (2) bekezdés d) pontjában foglalt feltétel teljesülését a bíró hatósági erkölcsi bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről a bíró a kölcsönt nyújtó hitelintézetnek nyilatkozik.
 
 191. § (1) A bíró a munkáltatói jogkör gyakorlójának köteles bejelenteni a hitelszerződés megkötését követő öt munkanapon belül
 
@@ -1545,9 +1613,11 @@ jogosult.
 
 (6) A bírót ügyeleti és készenléti díj nem illeti meg, túlmunkájáért a kormánytisztviselőkre vonatkozó szabályok szerint szabadidő-átalány állapítható meg.
 
-196. § (1) A bíró, illetve az ülnök részére az e törvény, valamint más jogszabály alapján őt megillető javadalmazás és egyéb pénzbeli juttatás kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
+196. § (1) A bíró részére az e törvény, valamint más jogszabály alapján őt megillető javadalmazás és egyéb pénzbeli juttatás kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
-(2) A javadalmazás fizetési számlára történő átutalása és egyszeri felvétele, illetve a pénzforgalmi számláról történő készpénzkifizetés a bíró, illetve az ülnök részére költségtöbbletet nem okozhat.
+(2) A fizetési számlához kapcsolódóan a bíró részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
+
+(3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
 ### XIII. Fejezet — VAGYONNYILATKOZAT
 
@@ -1659,7 +1729,7 @@ jogosult.
 
 214. § (1) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, egy hónapra járó távolléti díja összegét, valamint az aláírását tartalmazza.
 
-(2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági bizonyítvánnyal igazolja büntetlen előéletét.
+(2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági erkölcsi bizonyítvánnyal igazolja büntetlen előéletét.
 
 (3) Ha a jelölt a (2) bekezdésben meghatározott igazolási kötelezettségét elmulasztja, ülnökké megválasztani nem lehet.
 
@@ -1693,14 +1763,16 @@ jogosult.
 
 219. § (1) A bíróság elnöke az ülnököt, annak megbízatása időtartama alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja büntetlen előéletének – a felhívás közlésétől számított 15 munkanapon belüli – igazolására.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra az ülnök büntetlen előéletét igazolja, a bíróság az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ülnök részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra az ülnök büntetlen előéletét igazolja, a bíróság az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ülnök részére megtéríti.
 
 (3) Ha az ülnök az (1) bekezdésben foglalt felhívásnak nem tesz eleget, a bíróság elnöke az ülnököt ismételten felhívja büntetlen előéletének igazolására, egyben tájékoztatja az igazolás elmulasztásának jogkövetkezményeiről.
 
 (4) Ha
 
 - a) az ülnök a (3) bekezdésben meghatározott ismételt felhívás kézhezvételételétől számított 15 munkanapon belül igazolási kötelezettségének nem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye vagy
-- b) a bíróság elnöke az ülnök büntetett előéletének tényét az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja, a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezdeményezi az ülnök megbízatásának megszüntetését, és ezzel egyidejűleg a megbízatás megszüntetése kezdeményezésének tényét az ülnökkel közli.
+- b) a bíróság elnöke az ülnök büntetett előéletének tényét az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány tartalma alapján megállapítja,
+
+a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezdeményezi az ülnök megbízatásának megszüntetését, és ezzel egyidejűleg a megbízatás megszüntetése kezdeményezésének tényét az ülnökkel közli.
 
 (5) A (4) bekezdésben meghatározott közlés napjától az ülnök az ítélkezési tevékenységét nem gyakorolhatja.
 
@@ -1739,9 +1811,11 @@ jogosult.
 
 (5) Az ülnök a hivatalos kiküldetésével járó költségeket a bírákra irányadó rendelkezések megfelelő alkalmazásával számolhatja el.
 
+(6) Az ülnök részére az e törvény, valamint más jogszabály alapján őt megillető javadalmazás és egyéb pénzbeli juttatás kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik. Az ülnök részére a fizetési számlához kapcsolódóan legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
+
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 136. § (3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (5) bekezdését, 148. § (1) bekezdés a) pontját és (2) bekezdés a) pontját, 149. §-át, 152. §-át, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
+222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
@@ -1991,8 +2065,8 @@ való megfelelést szolgálja.
 | --- | --- | --- |
 | 1. | A vezetői munkakörök | Százalék |
 | 2. | A Kúria elnökhelyettese | 80 |
-| 3. | Az ítélőtábla elnöke A Kúria kollégiumvezetője A Fővárosi Törvényszék elnöke | 60 |
-| 4. | Az ítélőtábla elnökhelyettese A Kúria kollégiumvezető-helyettese A törvényszék elnöke | 50 |
+| 3. | Az ítélőtábla elnöke A Kúria kollégiumvezetője és főtitkára A Fővárosi Törvényszék elnöke | 60 |
+| 4. | Az ítélőtábla elnökhelyettese A Kúria kollégiumvezető-helyettese és főtitkár-helyettese A törvényszék elnöke | 50 |
 | 5. | A Kúria tanácselnöke Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 45 |
 | 6. | Az ítélőtábla kollégiumvezető-helyettese | 40 |
 | 7. | Az ítélőtábla tanácselnöke A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 35 |

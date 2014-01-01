@@ -654,9 +654,9 @@ is.
 
 (4) A bizonyítvány és a másolat 2015. január 1. napjától a szervezet 2015. január 1. napján és azt követően fennálló vagy törölt adatait tartalmazza. A bizonyítvány és a másolat erre való figyelmeztetést tartalmaz.
 
-105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2014. július 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2014. július 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2014. július 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
+105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés vagy közhasznúsági melléklet benyújtási kötelezettségének 2015. január 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést vagy közhasznúsági mellékletet papír alapon kell az OBH részére benyújtania. Ha a 2015. január 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2015. január 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
 
-(2) Ha a beszámoló benyújtására köteles szervezet 2013. január 1. napja és 2014. május 30. napja között a korábbi két év beszámolóját is benyújtja az OBH részére azt az OBH az országos névjegyzékben közzéteszi.
+(2) Ha a beszámoló benyújtására köteles szervezet, jogi személyiséggel rendelkező szervezeti egység 2013. január 1. napja és 2014. május 30. napja között a korábbi két év beszámolóját, közhasznúsági mellékletét is benyújtja az OBH részére, azt az OBH az országos névjegyzékben közzéteszi.
 
 106. § Az OBH legkésőbb 2014. december 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.
 

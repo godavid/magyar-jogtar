@@ -2061,7 +2061,9 @@ költséget.
 
 117/A. § (1) A törvény hatálya alá tartozóknak, a szolgálati viszonyukra tekintettel megillető valamennyi pénzbeli juttatás, az általuk meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
-(2) A juttatás fizetési számlára történő átutalása és egyszeri felvétele, illetve pénzforgalmi számláról történő készpénzkifizetés a törvény hatálya alá tartozók részére költségtöbbletet nem okozhat.
+(2) A fizetési számlához kapcsolódóan az e törvény hatálya alá tartozó személy részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
+
+(3) A fegyveres szerv viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
 117/B. § (1) A juttatás 117/A. §-ban szabályozott módon történő kifizetésére 1999. január 1. napjáig kell áttérni.
 

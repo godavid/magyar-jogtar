@@ -23,13 +23,15 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 
 (4) A (3) bekezdés a) és c)–f) pontja szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét a 2010. január 1-jén hatályos Kombinált Nomenklatúra szerint az 1. melléklet határozza meg. A (3) bekezdés b) pontja szerinti termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő csomagolószer-katalógus kódszámaival kerülnek meghatározásra.
 
+(5) Új termékdíjköteles termék jön létre, ha a feldolgozás, megmunkálás következtében a termék 1. mellékletben meghatározott vámtarifaszáma, az e törvény végrehajtására kiadott kormányrendeletben meghatározott környezetvédelmi termékdíjkódjának vagy csomagolószer esetében a csomagolószer-katalógus szerinti kódszámának első három jegye megváltozik.
+
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában:
 
-- 1. anyagában történő hasznosítás: a hulladéknak a hulladékgazdálkodásról szóló törvény (a továbbiakban: Hgt.) szerinti újrafeldolgozása vagy visszanyerése, illetve biológiailag lebomló szerves anyagok aerob vagy anaerob lebontása és további felhasználásra alkalmassá tétele;
+- 1. anyagában történő hasznosítás: a hulladéknak a hulladékról szóló törvény (a továbbiakban: Ht.) szerinti anyagában történő hasznosítása;
 - 2. anyagáram: az egyes termékáramokon belül elkülönülő önálló hasznosítási kötelezettséggel rendelkező anyag, illetve termék;
-- 3. ártalmatlanítás: a hulladék Hgt. szerinti ártalmatlanítása;
+- 3. ártalmatlanítás: a hulladéknak a Ht. szerinti ártalmatlanítása;
 - 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
 - 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
 - 6. csekély mennyiségű csomagolást forgalomba hozó vagy saját célra felhasználó kötelezett: legfeljebb tárgyévi
@@ -40,11 +42,10 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
   - e) 500 kg papír, fa, természetes alapú textil,
   - f) 300 kg fém,
   - g) 300 kg egyéb, azonban a b)–g) pontok esetén mindösszesen legfeljebb 1000 kg csomagolást kiskereskedelmi értékesítés során a fogyasztó számára forgalomba hozó vagy saját célra felhasználó kötelezett;
-- 7. csomagolás:
-  - a) valamennyi olyan tétel, amelyet a termelő vagy a felhasználó valamely termék (a nyersanyagtól a feldolgozott termékig) befogadására, megóvására, kezelésére, szállítására és bemutatására (csomagolási funkció) használ, ideértve az ugyanilyen célra használt egyszer használatos tételt,
-  - b) az a) pontban meghatározottaknak – a csomagolás által biztosított egyéb funkciók sérelme nélkül – megfelelő tételek, kivéve, ha az adott tétel a termék szerves részét képezi és a termék tárolásához, eltartásához vagy megőrzéséhez annak teljes élettartama alatt szükséges, és az egyes alkotóelemeket együttes felhasználásra, fogyasztásra vagy értékesítésre szánták,
-  - c) a forgalmazás helyén történő megtöltésre tervezett és szánt, illetve a forgalmazási helyen eladott vagy megtöltött, csomagolási funkciót ellátó egyszer használatos tételek,
-  - d) a termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemek, kivéve, ha azok a termékek szerves részét képezik, és az egyes alkotóelemeket együttes fogyasztásra vagy értékesítésre szánták; a csomagolásba beépülő egyéb összetevőket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelyikbe azokat beépítették;
+- 7. csomagolás: valamennyi olyan, bármilyen tulajdonságú anyagból készült termék, amelyet áru tartására, megóvására, átadására, átvételére, szállítására, valamint bemutatására használnak, beleértve minden terméket a nyersanyagoktól kezdve a feldolgozott árucikkekig, továbbá az ugyanilyen célra használt egyutas árucikkek; így:
+  - a) a fogyasztói vagy elsődleges csomagolás, amely értékesítési egységet képez a fogyasztó számára az értékesítés helyszínén;
+  - b) a gyűjtő- vagy másodlagos csomagolás, amely az értékesítés helyszínén meghatározott számú értékesítési egységet foglal magában, ha ezeket az egységeket a fogyasztó részére értékesítik, vagy ezek az egységek csupán a polcok feltöltésére szolgálnak, és a csomagolást a termékről a termék tulajdonságainak megváltoztatása nélkül el lehet távolítani, valamint
+  - c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyasztói vagy gyűjtőcsomagolás átadását, átvételét és szállítását annak érdekében, hogy a fizikai átadásnál, átvételnél és szállításnál megóvja az árut a károsodástól, ide nem értve a közúti, vasúti, vízi és légi közlekedésben használatos tartályokat;
 - 8. csomagolóanyag: a csomagolóeszközök előállítására, illetve az ideiglenes védőburkolat kialakítására közvetlenül alkalmazható szerkezeti anyagok gyűjtőfogalma;
 - 9. csomagolóeszköz: a termék vagy a kisebb csomagolás befogadására, egységbe fogására kialakított, meghatározott anyagú, szerkezetű – általában ipari, vagy szolgáltató jellegű tevékenység keretében előállított – ideiglenes védőburkolat, továbbá a raklap;
 - 10. csomagolási segédanyag: a csomagolás kiegészítő vagy járulékos részeként felhasználható – így különösen záró, rögzítő, párnázó, díszítő – elemek, valamint kellékek, így különösen címke, páralekötő anyag, hordfogantyú, ragasztó gyűjtőfogalma;
@@ -57,30 +58,32 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 és az a)–c) pont szerint gyűjtött hulladék hasznosítása vagy hasznosíttatása;
 
 - 13. elektromos, elektronikai berendezés: legfeljebb 1000 V váltakozó feszültségű, illetve 1500 V egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses mezőktől vagy villamos áramtól függ, ideértve az elektromágneses mező, illetve villamos áram előállítását, mérését, átvitelét biztosító eszközöket is;
-- 14. forgalomba hozatal: termékdíjköteles termék tulajdonjogának első belföldi ingyenes vagy visszterhes átruházása, ideértve a más termék tartozékaként vagy alkotórészeként való átruházást, továbbá a csomagolószer csomagolás részekénti átruházását, nem minősül forgalomba hozatalnak a termékdíjköteles terméknek a természetes személy által nem gazdasági tevékenység keretében végzett átruházása;
+- 14. forgalomba hozatal: a termékdíjköteles termék tulajdonjogának
+  - a) belföldi ingyenes vagy visszterhes átruházása, ideértve a más termék tartozékaként vagy alkotórészeként való átruházását és a csomagolószer csomagolás részekénti átruházását,
+  - b) belföldön gazdasági céllal letelepedett vagy belföldön nyilvántartásba vett kötelezett általi átruházása, ha a külföldön küldeményként vagy a fuvarozásra feladott termék a küldeményként való megérkezésekor, vagy a fuvarozás befejezésekor belföldön van.
 - 15. harmadik ország: az Európai Közösségen kívüli állam;
-- 16. hasznosítás: a termékdíjköteles termékből képződő hulladéknak vagy valamely összetevőjének termelésben vagy szolgáltatásban a Hgt. szerinti hasznosítása;
-- 17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont a)–b) alpontjai szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;
+- 16. hasznosítás: a termékdíjköteles termékből képződő hulladéknak a Ht. szerinti hasznosítása;
+- 17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;
 - 18. jármű: a légi közlekedésről szóló külön törvény szerinti légi jármű, valamint a motorral meghajtott közúti szállító- vagy vontatóeszköz, ideértve az önjáró vagy vontatott munkagépet is, kivéve a kerekes szék;
-- 19. kereskedelmi csomagolás: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2009. január 1-jén hatályos I. melléklete szerinti
+- 19. kereskedelmi csomagolás: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2010. január 1-jén hatályos I. melléklete szerinti
   - a) 2009 vámtarifaszámú gyümölcslé (beleértve a szőlőmustot is) és zöldséglé, nem erjesztve, hozzáadott alkoholtartalom nélkül, cukor vagy más édesítőanyag hozzáadásával is,
   - b) 2106 90 20, 2106 90 30, 2106 90 51, 2106 90 55, 2106 90 59 vámtarifaszámú ízesített vagy színezett cukorszirup,
   - c) 2201 vámtarifaszámú (emberi fogyasztásra alkalmas) víz, beleértve a természetes vagy mesterséges ásványvizet és a szénsavas vizet is, cukor vagy más édesítőanyag hozzáadása és ízesítés nélkül, kivéve a jég, a hó és a laboratóriumi vizsgálati vízminta,
   - d) 2202 vámtarifaszámú víz (beleértve a természetes vagy mesterséges ásványvizet és a szénsavas vizet is) cukor vagy más édesítőanyag hozzáadásával vagy ízesítve és más alkoholmentes ital, a 2009 vtsz. alá tartozó gyümölcs- és zöldséglevek és a 657/2008/EK bizottsági rendelet I. melléklete I. és II. kategóriájába tartozó készítmények kivételével,
   - e) 2203 vámtarifaszámú malátából készült sör,
   - f) 2204 vámtarifaszámú bor friss szőlőből, beleértve a szeszezett bort is; szőlőmust, a 2009 vtsz. alá tartozó kivételével,
-  - g) 2205 vámtarifaszámú vermut és friss szőlőből készült más bor növényekkel vagy aromatikus anyagokkal ízesítve, a 2206 vámtarifaszámú más erjesztett ital (pl. almabor, körtebor, mézbor); erjesztett italok keverékei, és erjesztett italok és alkoholmentes italok másutt nem említett keverékei, a 2207 10 00 vámtarifaszámú nem denaturált etil-alkohol legalább 80 térfogatszázalék alkoholtartalommal, valamint a 2208 vámtarifaszámú nem denaturált etil-alkohol, kevesebb mint 80 térfogatszázalék alkoholtartalommal; szesz, likőr és más szeszes ital, a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály szerinti fogyasztói (elsődleges) csomagolása – a címke, kupak és az egyszer használatos ivópohár kivételével –, továbbá a műanyag bevásárló-reklám táska;
-- 20. kereskedelmi csomagolószer: olyan csomagolószer, amely alkalmas kereskedelmi csomagolás létrehozására;
+  - g) 2205 vámtarifaszámú vermut és friss szőlőből készült más bor növényekkel vagy aromatikus anyagokkal ízesítve, a 2206 vámtarifaszámú más erjesztett ital (pl. almabor, körtebor, mézbor); erjesztett italok keverékei, és erjesztett italok és alkoholmentes italok másutt nem említett keverékei, a 2207 10 00 vámtarifaszámú nem denaturált etil-alkohol legalább 80 térfogatszázalék alkoholtartalommal, valamint a 2208 vámtarifaszámú nem denaturált etil-alkohol, kevesebb mint 80 térfogatszázalék alkoholtartalommal; szesz, likőr és más szeszes ital termékek fogyasztói (elsődleges) közvetlen csomagolása, a címke (ide nem értve a polivinilklorid műanyagból készült címkét) és a záróelem, továbbá az egyszerhasználatos ivópohár kivételével, továbbá a műanyag bevásárló reklám táska;
+- 20. kereskedelmi csomagolószer: olyan csomagolószer, amely rendeltetésszerű felhasználása esetén és további feldolgozás nélkül alkalmas kereskedelmi csomagolás létrehozására, a csomagolni kívánt termék befogadására, továbbá a csomagolószer ilyen jellege a csomagolószer fogalomba hozatala vagy saját célú felhasználása során megállapítható;
 - 21. kiskereskedelmi értékesítés: a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység;
 - 22. környezetvédelmi termékdíj nettó összege: a termékdíj megállapítási időszakban keletkezett termékdíj-fizetési kötelezettség és a visszaigényelhető termékdíj különbözete;
-- 23. közvetítő: olyan gazdálkodó szervezet, amely más nevében szervez hasznosítást, ideértve azt a közvetítőt is, aki nem lesz a közvetítés tárgyát képező dolog tényleges birtokosa;
+- 23. közvetítő: a Ht. szerinti közvetítő;
 - 24. külföld: az Európai Közösség Magyarországon kívüli állama és a harmadik ország;
 - 25. műanyag bevásárló-reklám táska: a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló jogszabály szerinti fogyasztói (elsődleges) vagy gyűjtőcsomagolt, illetve csomagolatlanul forgalmazott termékek, áruk, reklámanyagok szállítására szolgáló, hajlékonyfalú műanyag hordtasak vagy hordtáska;
-- 26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott sajtótermékek közül az időszaki lap egyes lapszámai, a röplap és az egyéb szöveges kiadvány, a grafikát, rajzot vagy fotót tartalmazó kiadvány – beleértve azt is, ha mindezek más, nem termékdíjköteles kiadvány külön mellékletét képezik –, továbbá a térkép. Nem tartozik a reklámhordozó papír fogalmába:
+- 26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott sajtótermékek közül az időszaki lap egyes számai, az egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, az üdvözlő- és más hasonló kártya – a névjegykártya kivételével –, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány – ideértve azt is, ha mindezek más kiadvány külön mellékletét képezik. Nem tartozik a reklámhordozó papír fogalmába:
   - a) a kiadványonként, annak teljes nyomtatott felületére vetítve legalább 50%-ában nem gazdasági reklám terjesztésére szolgáló kiadvány, időszaki lap,
   - b) a közhasznú szervezet, állami, önkormányzati szerv által, alapfeladata körében kiadott kiadvány, időszaki lap,
   - c) a könyv, tankönyv;
-- 27. rétegzett italkarton: az a legalább 75%-ban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
+- 27. rétegzett italkarton: az a legalább 70%-ban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
 - 28. termékáram: az egyes termékek hulladékgazdálkodási szempontok alapján képzett termékcsoportonkénti összessége;
 - 29. termékdíj-kötelezettség: termékdíjköteles termékkel, illetve a termékdíjjal összefüggő
   - a) bejelentkezési,
@@ -93,7 +96,8 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
   - h) adatszolgáltatási, ideértve a nem csomagolószerként forgalomba hozott, az e törvényhez tartozó végrehajtási rendeletben meghatározott csomagolószer katalógusban szereplő árukra vonatkozóan is,
   - i) nyilatkozattételi kötelezettség;
 - 30. termékdíjátalány: a csekély mennyiségű csomagolást forgalomba hozó kötelezett, továbbá a 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett számára meghatározott díjfizetési kötelezettség;
-- 31. újrahasználat: a terméknek az eredeti célra történő ismételt felhasználása, mely során a többször felhasználható, újratölthető termék a forgási ciklusból történő kilépésekor válik hulladékká.
+- 31. újrahasználat: a termékdíjköteles termék Ht. szerinti újrahasználata;
+- 32. újbóli felhasználásra előkészítés: a hulladékká nem vált termékdíjköteles termék, illetve alkotórészének vagy tartozékának ellenőrzése, tisztítása, valamint javítása az eredeti felhasználási célra való alkalmassá tétel érdekében;
 
 #### 3. A termékdíj-kötelezettség általános szabályai
 
@@ -116,34 +120,77 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
   - be) felújítás,
   - bf) karbantartás keretében való felhasználása;
 - c) megsemmisítése, alaktalanítása, elfogyasztása;
-- d) minden más, az a)–c) pontokban nem említett használata, ami nem a számvitelről szóló törvényben meghatározott saját termelésű készlet létrehozását eredményezi.
+- d) minden más, az a)–c) pontokban nem említett használata, ideértve a szolgáltatásnyújtás keretében történő használatot, felhasználást vagy használatba adást is, ami nem a számvitelről szóló törvényben meghatározott saját termelésű készlet létrehozását eredményezi.
 
-(4) Külföldi előállítású csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás elválasztása a terméktől.
+(4) A külföldön előállított csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a termékről, kivéve a belföldi gazdálkodó tulajdonában lévő újrahasználható csomagolószer elválasztását.
 
 (5) Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:
 
 - a) a kötelezett jogutód nélküli megszűnése esetében, ha a kötelezett
   - aa) felszámolás esetén a felszámolási zárómérleg fordulónapján,
   - ab) végelszámolás esetén a végelszámolást lezáró beszámoló fordulónapján, vagy
-  - ac) a kötelezett felszámolás vagy végelszámolás nélküli megszűnése esetén a megszűnés időpontjában olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj nem került megfizetésre,
+  - ac) a kötelezett felszámolás vagy végelszámolás nélküli megszűnése esetén a megszűnés időpontjában,
+  - ad) kényszertörlési eljárás esetén a kényszertörlés időpontjában
+
+olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj nem került megfizetésre,
+
 - b) a termékdíjköteles termék mennyiségében bekövetkezett, a törvény végrehajtási rendeletében meghatározott elszámolható hiányt meghaladó hiány és a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
 
-(6) A csomagolószer termékdíját nem kell megfizetni, ha – e törvény végrehajtási rendeletében meghatározottak szerint – nyilatkozik a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) arról, hogy
+(6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
 
-- a) a csomagolószert csomagolás előállítására használja fel és a 15. § (4) bekezdés szerinti termékdíjátalány fizetésére jogosult, vagy
-- b) a csomagolószert csomagolás előállítására a 27. § (2) bekezdése feltételeinek megfelelő újrahasználható csomagolóeszközként használja fel, vagy
-- c) az egyéb csomagolószert, mint annak végfelhasználója nem csomagolás előállítására használja fel.
+- a) a csomagolószert termékdíjátalány fizetésre jogosult mezőgazdasági termelőként csomagolás előállítására használja fel,
+- b) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett
+  - ba) újrahasználható csomagolószert a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben, vagy
+  - bb) újrahasználható raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására,
+
+használja fel,
+
+- c) a csomagolóanyagot vagy a csomagolási segédanyagot
+  - ca) mint annak végfelhasználója nem csomagolás előállítására, vagy
+  - cb) más termék előállításához közvetlen anyagként (alapanyagként)
+
+használja fel.
 
 (7) A (6) bekezdés szerinti nyilatkozó kötelezettnek minősül, ha a nyilatkozatával ellentétesen jár el, egyébként a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 
-(8) Amennyiben a (6) bekezdés szerinti nyilatkozó a csomagolószert nem, vagy nem a nyilatkozat tartalma szerinti mértékben, nem a nyilatkozat tartalma szerint használja fel, illetőleg a felhasználás tényét nem tudja igazolni, az erre eső termékdíjat, és a csomagolószer beszerzésének időpontjától számított késedelmi pótlékot köteles megfizetni.
+(8) Amennyiben a (6) bekezdés szerinti nyilatkozó nem, vagy nem a nyilatkozat tartalma szerint jár el vagy ezt nem tudja igazolni, a termékdíjköteles termék termékdíját és a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot a nyilatkozó köteles megfizetni. E bekezdés szerinti jogkövetkezmény a hulladékhasznosítási teljesítménybe el nem számolható gyártási selejt vagy hulladék esetén nem alkalmazható.
 
-4. § (1) A termékdíjköteles termék általános forgalmi adóról szóló törvény szerinti adóraktárba való beraktározása és az adóraktáron belüli értékesítése, továbbá a vámjogi szabadforgalomban nem lévő termékdíjköteles termék belföldi értékesítése nem minősül forgalomba hozatalnak.
+(9) A termékdíjat
 
-(2) Termékdíj-kötelezettség
+- a) az egyéb kőolajtermék alapanyagként történő felhasználása, vagy
+- b) a Magyarországon hulladékká vált egyéb kőolajtermékből a Ht.-ben meghatározott R9 eljárással előállított termékdíjköteles termék belföldi forgalomba hozatala vagy első saját célú felhasználása,
 
-- a) a termékdíjköteles termék külföldre történő értékesítése,
-- b) természetes személy esetén a termékdíjköteles termék személyes szükséglet kielégítését meg nem haladó mennyiségű saját célú felhasználása, esetén nem keletkezik.
+esetén nem kell megfizetni.
+
+3/A. § (1) Az újrahasználható csomagolószerek első belföldi bérbeadójának az újrahasználható csomagolószer termékdíját az első saját célú felhasználás során – ide nem értve a hulladékká válást – nem kell megfizetni, ha a csomagolószer belföldi tulajdonosa vagy külföldi tulajdonos esetén első belföldi bérbeadója, az e törvény végrehajtására kiadott kormányrendeletben meghatározott, a környezetvédelmi hatóság által kiadott engedéllyel rendelkezik, amely tanúsítja, hogy olyan bérleti rendszert üzemeltet, amelyből a csomagolószerek belföldi felhasználása nyomon követhető.
+
+(2) Az e törvényben és a végrehajtásáról kiadott kormányrendeletben meghatározott bérleti rendszer szabályainak megtartását a környezetvédelmi hatóság és az állami adó- és vámhatóság a közreműködőknél ellenőrizheti.
+
+4. § (1) A termékdíjköteles termék tulajdonjogának
+
+- a) természetes személy által, nem gazdasági tevékenység keretében végzett átruházása,
+- b) az általános forgalmi adóról szóló törvény szerinti adóraktárba való beraktározás keretében és az adóraktáron belüli átruházása,
+- c) vámjogi szabadforgalomba kerülését megelőző átruházása
+
+nem minősül forgalomba hozatalnak.
+
+(2) Nem keletkezik termékdíj-kötelezettség
+
+- a) a termékdíjköteles termék igazolt külföldre kiszállítása esetén, ideértve a termékdíjköteles termék változatlan állapotban más termék alkotórészeként, tartozékaként, illetve a csomagolást alkotó csomagolószer igazolt külföldre kiszállítását is;
+- b) természetes személy esetén a termékdíjköteles termék személyes szükséglet kielégítését meg nem haladó mennyiségű saját célú felhasználása során;
+- c) a technológiai folyamatba visszavezetett maradék anyag vagy a selejt felhasználása esetén;
+- d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontja szerinti termékdíj-megállapítási időszakban közvetlenül külföldre visszaszállították;
+- e) az újrahasználható csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha az újrahasználható csomagolószer az e törvény végrehajtási rendeletében meghatározott újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvételre került, és a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben használják fel;
+- f) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett újrahasználható raklapnak a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására céljából történő felhasználása esetén;
+- g) a termékdíjköteles termék nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzletben, végső úti céllal külföldre utazó utasok részére történő értékesítése esetén; vagy
+- h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó részére történő átruházása esetén, ha a tulajdonjog átruházója a termékdíjköteles terméket külföldi rendeletetési helyre fuvarozásra vagy küldeményként feladja, és a termék igazolt módon külföldre kiszállításra került.
+
+(3) Az állami adó- és vámhatóság és a környezetvédelmi hatóság
+
+- a) a (2) bekezdés d) pontja szerinti felhasználónál a termékdíjköteles termék külföldre történő kiszállítására,
+- b) a (2) bekezdés e) pontja szerinti felhasználónál és a 3. § (6) bekezdés b) pontja szerinti nyilatkozónál a betétdíjas újrahasználható csomagolószer felhasználására
+
+vonatkozó szabályok megtartását ellenőrizheti.
 
 #### 4. A termékdíj-kötelezettség keletkezésének időpontja
 
@@ -151,18 +198,28 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 
 (2) A termékdíj-kötelezettség a belföldi előállítású egyéb kőolajtermék esetében az első belföldi forgalomba hozó első vevője által kiállított számlán feltüntetett teljesítés napján vagy számlakibocsátás hiányában az ügylet teljesítését tanúsító egyéb okiraton feltüntetett teljesítés napján, ezek hiányában az ügylet teljesítésének napján vagy a saját célú felhasználás költségként történő elszámolásának napján keletkezik.
 
-(3) A termékdíj-kötelezettség – ha e törvény másként nem rendelkezik – saját célú felhasználáskor a saját célú felhasználás költségként való elszámolásának napján keletkezik.
+(3) A termékdíj-kötelezettség – ha e törvény másként nem rendelkezik – saját célú felhasználás esetén
+
+- a) a saját célú felhasználás költségként való elszámolásának napján,
+- b) ha az a) pont alapján nem határozható meg időpont, az ügylet teljesítésének napján
+
+keletkezik,
 
 (4) A termékdíj-kötelezettség
 
-- a) a 3. § (5) bekezdés a) pontja esetén legkésőbb a végelszámolás utolsó napján,
+- a) a 3. § (5) bekezdés a) pontja esetén az aa)–ac) alpontokban meghatározott időpontban,
 - b) a 3. § (5) bekezdés b) pontja esetén a hiányról vagy a termékdíjköteles termék megsemmisülése tényéről felvett okirat alapján, annak könyvelése napján
 
 keletkezik.
 
-6. § (1) A kötelezett dönthet úgy, hogy tárgyévtől fennálló termékdíj-fizetési kötelezettsége a termékdíjköteles termék készletre történő felvételének napján keletkezzen (készletre vétel).
+(5) A 3. § (4) bekezdésében meghatározott esetben a csomagolás végleges elválasztásának a napján keletkezik a termékdíj-kötelezettség.
 
-(2) A termékdíj-kötelezettség készletre vétellel történő teljesítése esetén a kötelezett köteles a tárgyévet megelőző év december 31-én készleten levő termékdíjköteles termékeiről leltárt készíteni, amely egyben a tárgyév nyitókészlete, és a termékdíjat – a tárgyévben érvényes termékdíjtétel mértékével – tárgyév január 20-ig bevallani és megfizetni.
+6. § (1) A kötelezett ilyen tartalmú bejelentése esetén a tárgyévtől fennálló termékdíj-kötelezettsége a termékdíjköteles termék készletre történő felvételének napján keletkezik (a továbbiakban: készletre vétel). A készletre történő felvétel napja
+
+- a) termékbeszerzés esetén a termék beszerzéséről kiállított számlán, számlakibocsátás hiányában az ügylet teljesítését tanúsító egyéb bizonylaton feltüntetett teljesítés napja vagy ennek hiányában
+- b) az a nap, amelyen a terméket a számviteli szabályoknak megfelelően a számviteli nyilvántartásba eszközként fel kell venni.
+
+(2) A termékdíj-kötelezettség készletre vétellel történő teljesítésének a naptári év fordulójával történő választása esetén a kötelezett köteles a tárgyév első napján készleten lévő termékdíjköteles termékeiről leltárt készíteni, amely egyben a termékdíjköteles termékek nyitókészlete, és a termékdíjat – a tárgyévben érvényes termékdíjtétel mértékével – tárgyév első termékdíj megállapítási időszakának bevallásában bevallani és megfizetni.
 
 (3) A termékdíj-kötelezettség készletre vétellel történő teljesítése esetén a kötelezett a termékdíj-fizetési kötelezettsége keletkezésének időpontját a tárgyéven belül nem változtathatja meg.
 
@@ -190,15 +247,24 @@ keletkezik.
 
 #### 8. A bejelentési és nyilvántartásba vételi kötelezettség
 
-10. § (1) A kötelezett a termékdíjköteles termékkel végzett tevékenységét az állami adóhatóságnál annak megkezdésétől számított 15 napon belül bejelenti, továbbá nyilatkozik arról, ha a termékdíj-kötelezettségét egyéni hulladékkezelést teljesítőként vagy termékdíjátalány-fizetésre jogosultként teljesíti.
+10. § (1) A kötelezett a termékdíjköteles termékkel végzett tevékenység megkezdésétől számított 15 napon belül az állami adóhatóságnak bejelenti, hogy
 
-(2) Az (1) bekezdés szerinti nyilatkozatot az egyéni hulladékkezelést teljesítőnek termék- és anyagáramonként kell megtennie.
+- a) a hulladékhasznosítási kötelezettségét kollektív teljesítéssel vagy egyéni hulladékkezelést teljesítőként, illetve termékdíj-átalány fizetőként, továbbá
+- b) a termékdíj-kötelezettségét a készletre vételre vagy a forgalomba hozatalra, illetve a saját célú felhasználásra vonatkozó szabályok szerint
 
-(3) Az állami adóhatóság által az (1) bekezdés alapján a környezetvédelmi termékdíj fizetésére kötelezettekről vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+teljesíti.
 
-(4) Az egyéni hulladékkezelőként való teljesítésre, valamint a termékdíjátalány-fizetésre vonatkozó, az (1) és a 40. § (5) bekezdésben előírt határidő elmulasztása jogvesztő.
+(2) Az (1) bekezdésben meghatározott határidő elmulasztása esetén a kötelezett az átalányfizetésre, a készletre vételre, továbbá az egyéni hulladékkezelésre vonatkozó szabályokat nem alkalmazhatja.
 
-(5) A termékdíj-kötelezettségre kiható bármely változást a kötelezett, annak bekövetkeztét követő 15 napon belül köteles bejelenteni az állami adóhatóságnak.
+(3) A tárgyévet megelőzően az állami adóhatóság nyilvántartásában lévő, a tárgyévre vonatkozóan egyéni hulladékkezelés teljesítést választó termékdíj-kötelezettnek az (1) bekezdés szerinti bejelentést tárgyév január 31-ig kell megtennie termék- és anyagáramonként.
+
+(4) A 6. § (1) vagy (4) bekezdésében foglaltak tárgyévtől történő alkalmazását választó kötelezettnek január 31-ig kell bejelentést tennie, amennyiben a kötelezettségét a bejelentést megelőzően a bejelentésében foglaltaktól eltérő időpontban keletkeztette.
+
+(5) A (3) és (4) bekezdésben előírt határidő elmulasztása esetén igazolásnak nincs helye és a (3) vagy (4) bekezdésben meghatározottak nem alkalmazhatók.
+
+(6) Az állami adóhatóság által az (1) bekezdés alapján a környezetvédelmi termékdíj fizetésére kötelezettekről vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
+(7) A kötelezett a termékdíj-kötelezettségre kiható bármely változást, annak bekövetkeztét követő 15 napon belül köteles az állami adóhatóságnak bejelenteni.
 
 #### 8/A. Nyilvántartás-vezetési kötelezettség
 
@@ -222,10 +288,7 @@ keletkezik.
 
 (2) Ha a bevallásban a termékdíj összege az ezer forintot nem éri el, továbbá az Art. szerinti ellenőrzés vagy önellenőrzés során a termékdíj-különbözet az ezer forintot nem éri el, azt nem kell megfizetni. Az állami adóhatóság az ezer forintot el nem érő termékdíj-visszatérítést nem utalja ki.
 
-(3) Nem kell megfizetni a termékdíjat:
-
-- a) az egyéb kőolajtermék alapanyagként történő felhasználása,
-- b) a Magyarországon hulladékká vált egyéb kőolajtermékből a hulladékgazdálkodásról szóló törvényben meghatározott R9 eljárással előállított termékdíjköteles termékforgalomba hozatala esetén.
+(3)
 
 #### 10/A. Termékdíj-előleg megállapítási, bevallási, fizetési kötelezettség
 
@@ -241,11 +304,15 @@ keletkezik.
 
 #### 11. A számlán történő termékdíj-feltüntetési kötelezettség
 
-13. § A számlán
+13. § (1) A számlán
 
-- a) számlán vagy szerződéssel történő átvállalás esetén, vagy
-- b) a kötelezett és vevőinek visszaigénylésre jogosult vevő partnerei által igényelt esetben, vagy
-- c) csomagolószer, illetve reklámhordozó papír első belföldi forgalomba hozatalakor az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.
+- a) a számlán vagy szerződéssel történő átvállalás esetén,
+- b) a kötelezett és vevőinek visszaigénylésre jogosult vevő partnerei által igényelt esetben,
+- c) csomagolószer, illetve reklámhordozó papír első belföldi forgalomba hozatalakor
+
+– a (2) bekezdésben foglaltak kivételével – az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.
+
+(2) A termékdíj-átalányfizetést választó kötelezett a 13. § (1) bekezdés b) pontja szerinti számlazáradékot – az átalánytermékdíj-fizetéssel teljesített termékdíj-kötelezettség esetében – nem tüntethet fel a számlán.
 
 ### III. Fejezet — A TERMÉKDÍJ-KÖTELEZETTSÉG TELJESÍTÉSÉNEK KÜLÖNÖS SZABÁLYAI
 
@@ -261,7 +328,12 @@ keletkezik.
 
 (5) Szerződés alapján a termékdíj-kötelezettséget a kötelezettől
 
-- a) az első belföldi vevő, ha a kötelezettől megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
+- a) a termékdíjköteles termék
+  - aa) első belföldi vevője, vagy
+  - ab) a d) pont szerinti értékesítés belföldi vevője,
+
+ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
+
 - b) a bérgyártó,
 - c) a 1234/2007/EK rendelet szerinti mezőgazdasági termelői szerveződésen keresztül forgalomba hozott termékdíjköteles termék esetén a termelői szerveződés,
 - d) csomagolószer esetében az azt változatlan formában és állapotban vagy más kiszerelésben továbbértékesítő első belföldi vevő,
@@ -289,7 +361,7 @@ keletkezik.
 
 (3) A csekély mennyiségű csomagolást forgalomba hozó kötelezett termékdíjátalánya 12 000 Ft/év, .
 
-(4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
+(4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
 
 (5) A kötelezett a termékdíjátalány-fizetési kötelezettségre vonatkozó választását – a (7) bekezdésben meghatározott kivétellel – nem változtathatja meg a tárgyéven belül.
 
@@ -327,18 +399,17 @@ keletkezik.
 
 - a) közvetíti és szervezi a termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását;
 - b) előkészíti az Országos Gyűjtési és Hasznosítási Tervet (a továbbiakban: OGyHT) és gondoskodik a jóváhagyott OGyHT végrehajtásáról;
-- c) nyomon követi és értékeli a hulladékgazdálkodás – tevékenységi körébe tartozó – folyamatait;
-- d) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás fejlesztését;
-- e) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában;
-- f) ellenőrzi a vele szerződéses kapcsolatban állók, illetve a pályázatok, illetve szolgáltatás megrendelések kedvezményezettek által a termékdíjköteles termékből képződött hulladékokkal kapcsolatban folytatott tevékenységét;
-- g) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek ellenőrzésében;
-- h) innovációs tevékenységet folytat a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási tevékenység fejlesztése érdekében.
+- c) figyelemmel kíséri és értékeli a hulladékgazdálkodás – tevékenységi köréhez kapcsolódó – folyamatait;
+- d) nyomon követi és ellenőrzi a vele szerződéses kapcsolatban állók, a pályázatok, illetve szolgáltatás megrendelések kedvezményezettjei által a termékdíjköteles termékből képződött hulladékokkal kapcsolatban folytatott tevékenységét, szükség szerint informatikai rendszerrel;
+- e) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek, ellenőrzésében;
+- f) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás fejlesztését;
+- g) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában.
 
-(2) Az OHÜ az (1) bekezdés e) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
+(2) Az OHÜ az (1) bekezdés g) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
 
-(3) Az OHÜ az (1) bekezdés f) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
+(3) Az OHÜ az (1) bekezdés d) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
 
-(4) Az (1) bekezdés f) pontja keretében végzett ellenőrzés során az OHÜ jogosult:
+(4) Az (1) bekezdés d) pontja keretében végzett ellenőrzés során az OHÜ jogosult:
 
 - a) az ellenőrzött székhelyére, telephelyére, az ott található építményekbe, műszaki létesítményekbe belépni,
 - b) a termékdíjköteles termékkel kapcsolatos hulladékok gyűjtésére, begyűjtésére, szállítására, hasznosításra előkészítésére, hasznosítására szolgáló eszközöket, létesítményeket, műtárgyakat, berendezéseket, gépeket, illetőleg rendszereket megvizsgálni,
@@ -357,10 +428,10 @@ keletkezik.
 
 - a) a középtávon elérendő, az európai közösségi és hazai jogszabályokon, valamint az Országos Hulladékgazdálkodási Terven alapuló országos gyűjtési és hasznosítási mennyiségeket, arányokat (stratégiai célérték);
 - b) az OHÜ által a tárgyév során elérendő országos gyűjtési és hasznosítási mennyiségeket, arányokat (a továbbiakban: célérték), termék- és anyagáramonkénti, hulladéktípusonkénti bontásban;
-- c) a tárgyévet megelőző évben szétosztható mennyiséget (a továbbiakban: induló érték), amely a tárgyévi célérték legfeljebb 75%-a lehet;
+- c)
 - d) az OHÜ által tárgyév során a fenti célok elérését szolgáló prioritási sorrendet és az ezekhez rendelt eszközrendszert tartalmazza.
 
-(2) Az OGyHT tervezetét – a rendelkezésére álló saját és hatósági nyilvántartás adatai alapján, a külön jogszabályban meghatározottak szerint – az OHÜ készíti elő, és az OHÜ vezetőjének javaslatára a környezetvédelemért felelős miniszter hagyja jóvá. Az OGyHT-t – a (3) bekezdésben foglalt eltéréssel – az OHÜ vezetőjének javaslatára a környezetvédelemért felelős miniszter a tárgyévben módosíthatja.
+(2) Az OGyHT tervezetét – a rendelkezésére álló saját és hatósági nyilvántartás adatai alapján, a külön jogszabályban meghatározottak szerint – az OHÜ a tárgyévet megelőző év szeptember 20-ig készíti elő, és az OHÜ javaslatára a környezetvédelemért felelős miniszter hagyja jóvá. Az OGyHT-t – a (3) bekezdésben foglalt eltéréssel – az OHÜ vezetőjének javaslatára a környezetvédelemért felelős miniszter a tárgyévben módosíthatja.
 
 (3) Az OGyHT-ben meghatározott célértéket a tárgyév október 31-ig az OHÜ vezetője a környezetvédelemért felelős miniszter jóváhagyása nélkül az induló érték egyharmadával módosíthatja.
 
@@ -370,17 +441,17 @@ keletkezik.
 
 (2)
 
-(3) Az OHÜ a tárgyévet megelőző év augusztus 31-ig írja ki a tárgyévi induló értékekre vonatkozó pályázatokat és szolgáltatásmegrendeléseket.
+(3) Az OHÜ a tárgyévre vonatkozó OGyHT-ben meghatározott feladatok végrehajtása érdekében szükséges közbeszerzési eljárásokat előkészíti, és a tárgyévet megelőző év november 15-ig a környezetvédelemért felelős miniszter részére jóváhagyás céljából megküldi.
 
-(4) A pályázaton nyertes pályázókat és a közbeszerzési eljárás nyerteseit a tárgyévet megelőző év október 31-ig kell kihirdetni.
+(4) Az OHÜ – az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter állásfoglalásának kézhezvételét követően – a közbeszerzési eljárások eredményéről szóló írásbeli összegezést tárgyév március 31-ig küldi meg az ajánlattevőknek.
 
-(5) Az OHÜ a tárgyévet megelőző év november 30-ig köti meg a tárgyévre vonatkozó szerződéseket a pályázatok, illetve a közbeszerzési eljárás nyerteseivel.
+(5)
 
 (6) Az (1) bekezdés szerinti pályázatok, illetve szolgáltatásmegrendelések kedvezményezetteivel kötött szerződésben rendelkezni kell az OHÜ 20 § (1) bekezdés f) pontjában foglalt ellenőrzési jogkör biztosításáról.
 
-22/A. § (1) Az OHÜ a 22. § (1) bekezdésében foglaltak, valamint e törvényből fakadó szervezési feladatai teljesítése érdekében – közbeszerzési eljárás lefolytatása nélkül – 2011. november 30-ig írásban, a szerződési feltételekkel és szerződéskötési ajánlattal megkeresi a települési szilárd hulladékkezelési közszolgáltatást ellátó közszolgáltatókat (a továbbiakban: közszolgáltató).
+22/A. § (1) Az OHÜ a 22. § (1) bekezdésében foglaltak, valamint e törvényből fakadó szervezési feladatai teljesítése érdekében – közbeszerzési eljárás lefolytatása nélkül – a tárgyévet megelőző év december 15-ig írásban, a szerződési feltételekkel és szerződéskötési ajánlattal megkeresi a települési szilárd hulladékkezelési közszolgáltatást ellátó közszolgáltatókat (a továbbiakban: közszolgáltató).
 
-(2) A közszolgáltatónak az ajánlat elfogadására, visszautasítására, vagy az egyeztetés lebonyolítására és lezárására az (1) bekezdés szerinti megkeresés (ajánlat) kézhezvételétől számított 30 nap áll rendelkezésére.
+(2) A közszolgáltatónak az ajánlat elfogadására, visszautasítására, vagy az egyeztetés lebonyolítására és lezárására az (1) bekezdés szerinti megkeresés (ajánlat) kézhezvételétől számított 45 nap áll rendelkezésére.
 
 (3) Amennyiben a közszolgáltató a (2) bekezdésben meghatározott határidőn belül nem nyilatkozik, az OHÜ a nyilatkozat hiányát úgy tekinti, hogy a közszolgáltató nem kíván a szerződéskötés lehetőségével élni (az ajánlatot visszautasítja).
 
@@ -388,7 +459,7 @@ keletkezik.
 
 (5) A közszolgáltatókkal az OHÜ – szerződési feltételekben meghatározottak szerint, azonos szerződési feltételekkel – közbeszerzési pályázat kiírása nélkül szolgáltatásvásárlási szerződést köt.
 
-(6) A közszolgáltatóval kizárólag az általa közszolgáltatás keretében ellátott települési szilárd hulladékkezelési közszolgáltatásra (gyűjtés, begyűjtés, szállítás, hasznosítás, vagy hasznosítást előkészítő tevékenység) köthető az (1) bekezdés szerinti szerződés. A szerződés legfeljebb arra az időtartamra köthető meg, ameddig a közszolgáltató a közszolgáltatási feladat ellátására jogosult.
+(6) A közszolgáltatóval kizárólag az általa közszolgáltatás keretében ellátott települési szilárd hulladékkezelési közszolgáltatásra (gyűjtés, begyűjtés, szállítás, előkezelés, hasznosítás, ideértve az utóválogatást is, vagy hasznosítást előkészítő tevékenység) köthető az (1) bekezdés szerinti szerződés. A szerződés legfeljebb arra az időtartamra köthető meg, amely időtartamra a közszolgáltató a közszolgáltatási feladat ellátására jogosult.
 
 (7) Közszolgáltatónak kizárólag az a szervezet tekinthető, akit a települési önkormányzat rendeletében
 
@@ -399,7 +470,7 @@ keletkezik.
 
 (8) Az (1) bekezdés szerinti szerződési feltételekben objektíven meghatározott feltételeken alapuló, eltérő környezetvédelmi, hulladékgazdálkodási színvonalat teljesítő közszolgáltatók tekintetében – az eltérés mértékével arányos – eltérő díj határozható meg. A szerződési feltételekben, vagy az egyedi szerződésekben meghatározott egyéb díjeltérés semmis.
 
-(9) Az (1) bekezdés szerinti szerződési feltételeket az OHÜ készíti elő és a környezetvédelemért felelős miniszter adja ki.
+(9)
 
 22/B. § (1) A törvény hatálybalépését követően közszolgáltatói jogállást elnyerő szervezetek bármikor írásban kezdeményezhetik az OHÜ-nél a 22/A. § szerinti szolgáltatás-vásárlási szerződés megkötését.
 
@@ -425,7 +496,7 @@ keletkezik.
 
 ### VI. Fejezet — A TERMÉKDÍJ VISSZAIGÉNYLÉSE
 
-25. § (1) A befizetett termékdíj
+25. § (1) A befizetett termékdíj, az átalány-termékdíj kivételével
 
 - a) a termékdíjköteles termék külföldre történő igazolt kiszállítása;
 - b) a termékdíjköteles termék változatlan formában, illetve változatlan formában és állapotban más termékbe beépített külföldre történő értékesítése;
@@ -437,7 +508,13 @@ keletkezik.
 
 (2) A kötelezett az általa befizetett egyéb kőolajtermék termékdíjának visszaigényelheti azon részét, amelyre vonatkozóan a használt vagy hulladékká vált, a kötelezettnél termékdíjköteles egyéb kőolajtermék anyagában történő hasznosításra történő átadás-átvételének tényét és a hasznosítás tényét igazolja.
 
+(2a) Visszaigényelhető a növényvédőszerrel közvetlenül érintkező, a növényvédőszer csomagolását képező csomagolószerek után megfizetett termékdíjnak azon része, amelyet a visszaigénylő a hulladékkezelés szervezését ellátó non-profit szervezet részére szolgáltatási díjként – a hulladékká vált csomagolást alkotó csomagolószer tömegére vonatkozóan – igazoltan megfizetett.
+
+(2b) A (2a) bekezdés alapján visszaigényelhető termékdíj alapja a tárgynegyedévben hulladékkezelésre igazoltan átadott növényvédőszerrel szennyezett csomagolási hulladékot képező csomagolószerek tömege.
+
 (3) A külföldre történő értékesítés számlával vagy az ügylet teljesítését igazoló egyéb okirattal és szállítólevéllel vagy fuvarokmánnyal igazolható. A visszaigénylés további feltétele a termék beszerzéséről kiállított számla vagy az ügylet teljesítését igazoló egyéb okirat, amely tartalmazza a termék első belföldi forgalomba hozatalakor a kötelezett által kibocsátott számla vagy az ügylet teljesítését igazoló egyéb okirat számát, azonosító adatát, a kötelezett nevét, címét, adószámát, és a kötelezett által kiállított számlán vagy annak mellékletében, illetve az ügylet teljesítését igazoló egyéb okiraton feltüntetett termékdíj mértékét és összegét.
+
+(4) A befizetett termékdíjat e § alapján visszaigénylőre, a kötelezettre vonatkozó bejelentéssel, változás-bejelentéssel, termékdíj megállapítással termékdíj bevallással és nyilvántartás-vezetéssel, továbbá az ellenőrzéssel kapcsolatos szabályokat kell alkalmazni.
 
 ### VII. Fejezet — AZ EGYES TERMÉKDÍJKÖTELES TERMÉKEKRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
@@ -453,9 +530,9 @@ keletkezik.
 - b) ha az fizikai módon összetevőire szét nem választható és legalább 90%-ban egynemű anyagból áll, a csomagolószer teljes tömegére a fő összetevőre vonatkozó termékdíjtételt,
 - c) ha az fizikai módon összetevőire szét nem választható és nincs olyan összetevő, amely a csomagolószer tömegének 90%-át eléri, a társított anyagokra vonatkozó termékdíjtételt kell alkalmazni.
 
-(2) Az újrahasználható csomagolószert belföldi előállítású csomagolás részeként forgalomba hozó vagy csomagolásra felhasználó kötelezettnek nem keletkezik termékdíj-kötelezettsége, ha a termékdíjköteles termék az újrahasználható csomagolószerek – a törvény végrehajtási rendeletében meghatározott – nyilvántartásában szerepel, és a csomagolást végző a csomagolószerre betétdíjat alkalmaz. A betétdíjas újrahasználható csomagolást kibocsátót és a betétdíjas újrahasználati rendszer működtetésében közreműködőket az állami adó- és vámhatóság ellenőrizheti.
+(2) A környezetvédelmi hatóság a kötelezett, vagy a csomagolószer felhasználójának kérelmére akkor veszi fel a csomagolószert az újrahasználható csomagolószerek nyilvántartásába, ha az alkalmas – az MSZ EN 13429:2004 Csomagolás – Újrahasználat szerinti szabvány, vagy azzal egyenértékű megoldás alapján – a csomagolásra történő többszöri felhasználásra.
 
-(3) A külföldről behozott csomagolás részét képező újrahasználható csomagolószer után nem keletkezik termékdíjkötelezettség, amennyiben a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a behozatal időpontjának a termékdíj-megállapítási időszakában a kötelezett megbízása alapján közvetlenül külföldre visszaszállították.
+(3)
 
 #### 20/A. A reklámhordozó papír termékdíja
 
@@ -479,32 +556,21 @@ keletkezik.
 
 #### 22. A termékdíjköteles termékből képződött hulladékokkal kapcsolatos ellenőrzés
 
-29. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével – tényleges megvalósulását ellenőrzi.
+29. § (1)
 
 (2) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles a vámhatósággal együttműködni, az ellenőrzés feltételeit a helyszíni ellenőrzés alkalmával biztosítani.
 
-(3) Ha a vámhatóság kérésére elvégzett mintavétel érdekében a hulladék válogatása, osztályozása válik szükségessé, úgy annak költsége, amennyiben az ellenőrzés jogsértést tár fel, az ellenőrzött személyt vagy szervezetet, egyébként a vámhatóságot terheli.
+(3)–(6)
 
-(4) A vámhatóság a mintavételről jegyzőkönyvet készít.
+(7) A vámhatóság az Art. adatgyűjtésre, valamint a gazdasági események valódiságára irányuló ellenőrzési szabályai alapján ellenőrzi – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével –, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
 
-(5) A mintavételi jegyzőkönyv tartalmazza:
+(8) A Ht.-ban, valamint a Ht. felhatalmazása alapján kiadott jogszabályokban meghatározott nyilvántartásokat, üzemnaplót és bizonylatokat a vámhatóság az ellenőrzései során felhasználja.
 
-- a) a mintavételi jegyzőkönyv sorszámát vagy más jelét,
-- b) a mintát vevő személy megnevezését,
-- c) a mintavételben közvetlenül részt vevők nevét, azonosítását,
-- d) a mintavétel helyét és időpontját,
-- e) a mintavétel indoklását,
-- f) a megmintázott tétel mennyiségét és minden, az azonosításhoz szükséges adatát,
-- g) a vett minták mennyiségét és azonosítási jeleit,
-- h) a mintavevők aláírását és bélyegzőlenyomatát.
+29/A. § (1) A vámhatóság az OHÜ által finanszírozott, a 22/A. § (6) bekezdésében meghatározott hulladékkezelési közszolgáltatás és hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az OHÜ a kifizetést teljesítette (a továbbiakban: kifizetés jogosultja). Az OHÜ által történő kifizetés költségvetési támogatásnak (a továbbiakban: támogatás) minősül.
 
-(6) A mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek eredeti példánya a vámhatóság példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött személy vagy szervezet példánya.
+(2)
 
-29/A. § (1) A vámhatóság az OHÜ által finanszírozott hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az OHÜ a kifizetést teljesítette (a továbbiakban: kifizetés jogosultja). Az OHÜ által történő kifizetés költségvetési támogatásnak (a továbbiakban: támogatás) minősül.
-
-(2) A vámhatóság az Art. szerinti ellenőrzés szabályai szerint ellenőrzi a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
-
-(3) Az (1)–(2) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
+(3) Az (1) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (4) A támogatás igénybevételének jogszerűségét a vámhatóság – a kifizetések alapjául szolgáló bizonylatok adatai alapján – támogatásonként (kifizetésenként) vagy meghatározott időszak tekintetében is vizsgálhatja.
 
@@ -550,7 +616,7 @@ keletkezik.
 - b) az ellenőrzött személy vagy szervezet nevét, székhelyét, adóigazgatási számát, a közreműködő személy nevét, adóigazgatási számát/adóazonosító jelét,
 - c) az ellenőrzés kezdő időpontját,
 - d) az ellenőrzés tárgyát, az annak alapját képező jogszabályok felsorolását, az ellenőrzéssel érintett időszakot,
-- e) az ellenőrzést végzők megállapításait, különös tekintettel a támogatás igénybevételének jogszerűségére, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével, és annak bizonyítékait, az ellenőrzött személy vagy szervezet által felajánlott és visszautasított bizonyítékok felsorolását, annak indokait,
+- e) az ellenőrzést végzők megállapításait, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével, és annak bizonyítékait, az ellenőrzött személy vagy szervezet által felajánlott és visszautasított bizonyítékok felsorolását, annak indokait,
 - f) utalást arra, hogy a jegyzőkönyvben foglaltakra az ellenőrzött a törvényben meghatározott határidőn belül észrevételeket tehet,
 - g) az ellenőrzést végzők aláírását.
 
@@ -567,6 +633,31 @@ keletkezik.
 (26) Amennyiben a vámhatóság megállapítja, hogy az ellenőrzött személy vagy szervezet a támogatást jogosulatlanul vette igénybe, úgy a határozatban jogosulatlanul igénybe vett támogatás összege kétszeresének megfizetését rendeli el. A támogatási összeg kétszeresének megfizetésére a támogatást igénylő a határozat jogerőre emelkedésétől számított 15 napon belül köteles.
 
 (27) Jogosulatlanul igénybe vett támogatás esetén a vámhatóság az ellenőrzött személy vagy szervezet terhére a támogatási összeg kétszerese megfizetésének előírása mellett 100 ezer forinttól 1 millió forintig terjedő bírságot szab ki.
+
+29/B. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével – tényleges megvalósulását ellenőrzi.
+
+(2) Ha a vámhatóság kérésére elvégzett mintavétel érdekében a hulladék válogatása, osztályozása válik szükségessé, úgy annak költsége, amennyiben az ellenőrzés jogsértést tár fel, az ellenőrzött személyt vagy szervezetet, egyébként a vámhatóságot terheli.
+
+(3) A vámhatóság a mintavételről jegyzőkönyvet készít.
+
+(4) A mintavételi jegyzőkönyv tartalmazza:
+
+- a) a mintavételi jegyzőkönyv sorszámát vagy más jelét,
+- b) a mintát vevő személy megnevezését,
+- c) a mintavételben közvetlenül részt vevők nevét, azonosítását,
+- d) a mintavétel helyét és időpontját,
+- e) a mintavétel indoklását,
+- f) a megmintázott tétel mennyiségét és minden, az azonosításhoz szükséges adatát,
+- g) a vett minták mennyiségét és azonosítási jeleit,
+- h) a mintavevők aláírását és bélyegzőlenyomatát.
+
+(5) A mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek eredeti példánya a vámhatóság példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött személy vagy szervezet példánya.
+
+(6) Az (1) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(7) Az (1) bekezdés szerinti ellenőrzések során a 29/A. § (6) bekezdése, és (8)–(24) bekezdése alkalmazandó.
+
+(8) Ha a vámhatóság megállapítja, hogy az egyéni hulladékkezelést teljesítő kötelezett vagy az ennek érdekében vele szerződött hulladékkezelő által teljesített ügylet ténylegesen nem valósult meg vagy nem szabályszerűen valósult meg, úgy a kötelezett terhére 100 ezer forinttól 1 millió forintig terjedő bírságot szab ki.
 
 #### 23.
 
@@ -675,7 +766,8 @@ a termékdíjköteles terméket lefoglalja.
 - d) a veszélyes hulladéknak minősülő csomagolási hulladékok hulladékkezelési rendszerében a közvetítői feladatok ellátására jogosult szervet és a közvetítői feladatok ellátásának rendjét,
 - e) a csomagolószerként is felhasználható áruk katalógusát (csomagolószer-katalógus) és a besorolás és alkalmazás részletes szabályait,
 - f) a hulladékhasznosítási szolgáltatások körébe tartozó, és az egyéni hulladékkezelést teljesítő kötelezett által teljesített ügyletek megvalósulására, azok végrehajtása szabályszerűségére vonatkozó ellenőrzési szempontrendszer szabályait,
-- g) az egyéni hulladékkezelésre, annak bejelentésére, bevallására, illetve teljesítésére vonatkozó részletes szabályokat
+- g) az egyéni hulladékkezelésre, annak bejelentésére, bevallására, illetve teljesítésére vonatkozó részletes szabályokat,
+- h) az újrahasználható csomagolószer bérleti rendszerének részletes szabályait.
 
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -724,6 +816,8 @@ a termékdíjköteles terméket lefoglalja.
 (3) A környezetvédelmi termékdíj bejelentésekkel kapcsolatban 2012. december 31-éig indult ügyekben a vámhatóság jár el.
 
 (4) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások, továbbá a környezetvédelmi termékdíj bejelentésekkel kapcsolatban 2012. december 31-éig indult eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.
+
+40/B. § A 9/A. § (1) bekezdés f) pontját 2015. július 1-től kell alkalmazni.
 
 #### 31. Bejelentés az Európai Unió részére
 

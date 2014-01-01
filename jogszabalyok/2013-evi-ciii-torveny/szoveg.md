@@ -8,7 +8,15 @@ egyes törvényeknek a távolléti díj számításával és a közpénzek szab�
 
 1. § (1)–(8)
 
-(9)
+(9) A Kjt. 59. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A munkáltató a felek naptári évre kötött írásbeli megállapodása alapján
+
+a) az 57. § (1) bekezdés szerinti, a fizetési fokozat alapján, és
+
+b) az 57. § (2) bekezdés szerinti, a magasabb vezetői vagy vezetői megbízás alapján
+
+megállapított pótszabadságot az esedékesség évét követő év végéig adja ki.”
 
 (10)–(17)
 
@@ -31,7 +39,7 @@ egyes törvényeknek a távolléti díj számításával és a közpénzek szab�
 7. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
 
 - a)–b)
-- c)
+- c) 153. § (3) bekezdésének c) pontjában az „az e törvényben megállapított alapszabadságra” szövegrész helyébe az „a szabadság egyötödére” szöveg,
 - d)
 
 lép.
@@ -40,11 +48,15 @@ lép.
 
 8. § (1)–(3)
 
-(4)
+(4) Az Mt. 96. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A munkáltató a munkaidő beosztásának jogát – a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedheti (kötetlen munkarend). A munkarend kötetlen jellegét nem érinti, ha a munkavállaló a munkaköri feladatok egy részét sajátos jellegüknél fogva meghatározott időpontban vagy időszakban teljesítheti.”
 
 (5)–(7)
 
-(8)
+(8) Az Mt. 123. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A munkáltató – a felek naptári évre kötött megállapodása alapján – a 117. § szerinti szabadságot az esedékesség évét követő év végéig adja ki.”
 
 (9)–(29)
 
@@ -74,7 +86,9 @@ lép.
 
 (5)–(8)
 
-(9)
+(9) A Gst. 10. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez – kivéve a likvid, az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs és a (10) bekezdés szerinti adósságmegújító hiteleket – kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja.”
 
 (10)
 

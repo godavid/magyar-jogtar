@@ -77,9 +77,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 ### Gazdaságfejlesztést szolgáló célelőirányzat
 
-6. § (1) A KKV-k fejlődését szolgáló támogatások finanszírozását a fejlesztéspolitikáért felelős miniszter irányítása alatt álló fejezetben lévő, Gazdaságfejlesztést szolgáló célelőirányzat (a továbbiakban: célelőirányzat) biztosítja.
-
-(2) A célelőirányzat központi költségvetésből biztosított forrásának összegét évente a fejlesztéspolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezete tartalmazza.
+6. § A KKV-k fejlődését szolgáló támogatások forrása a központi költségvetésről szóló törvényben e célra létrehozott előirányzat (a továbbiakban: célelőirányzat).
 
 7. § (1) A célelőirányzat terhére vállalkozások, valamint a (2) bekezdésben meghatározott programok megvalósításában közreműködő szervezetek részesülhetnek támogatásban. A célelőirányzat felhasználásának rendjét olyan módon kell kialakítani, hogy a KKV-k – többek között speciálisan KKV-k számára meghirdetett támogatási konstrukciók, magasabb támogatási intenzitás és a támogatás ellenében teljesítendő enyhébb kötelezettségek révén – a többi vállalkozáshoz képest előnyben részesüljenek.
 

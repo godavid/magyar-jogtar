@@ -70,7 +70,7 @@ a polgári perrendtartásról
 
 9. § (1) Az ügyész a felek rendelkezési jogának tiszteletben tartása mellett keresetet indíthat, ha a jogosult jogainak védelmére bármely okból nem képes. Nem indíthat az ügyész keresetet olyan jog iránt, amelyet csak jogszabályban meghatározott személy vagy szervezet érvényesíthet.
 
-(2) Ha az ügyészt az (1) bekezdésben meghatározott keresetindítási jog illeti meg, de a perbeli részvételét megalapozó körülmények a per folyamán állnak be, az ügyész a perben felléphet. Ha az ügyészi fellépés törvényi feltételei fennállnak, a bíróság erről az ügyészt értesíti.
+(2) Ha az ügyészt az (1) bekezdésben meghatározott keresetindítási jog illeti meg, de a perbeli részvételét megalapozó körülmények a per folyamán állnak be, az ügyész a perben felléphet. Az ügyész fellépése kötelező a 124/A. § szerint indult perben. Ha az ügyészi fellépés törvényi feltételei fennállnak, a bíróság erről az ügyészt értesíti.
 
 (3) Az ügyészt az általa indított perben, illetve fellépése esetén megilletik mindazok a jogok, amelyek a felet megilletik, egyezséget azonban nem köthet, jogról nem mondhat le, illetve jogokat nem ismerhet el.
 
@@ -194,7 +194,7 @@ a polgári perrendtartásról
 
 - a) azok a vagyonjogi perek, amelyek tárgyának értéke a harmincmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
 - b) azok a perek, amelyeket a közigazgatási jogkörben eljáró személyek által hivatalos eljárásukban okozott károk megtérítése iránt indítanak;
-- c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek és a Ptk. 86. § (3)–(4) bekezdésében meghatározott jogokkal kapcsolatos perek;
+- c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek;
 - d) a nemzetközi árufuvarozási vagy szállítmányozási szerződéssel kapcsolatos perek;
 - e) a cégekkel kapcsolatos perek közül:
   - ea) a kérelemnek helyt adó cégbírósági bejegyző végzés hatályon kívül helyezése iránt indított perek,
@@ -210,9 +210,9 @@ a polgári perrendtartásról
 - h) az értékpapírból származó jogviszonnyal kapcsolatos perek;
 - i)
 - j) a sajtóhelyreigazítási perek (XXI. fejezet);
-- k) a tisztességtelen szerződési feltételek érvénytelensége tárgyában [Ptk. 209/A. § (1) és (2) bek., 209/B. §, 301/A. § (4)–(6) bek.] indított perek;
+- k) a tisztességtelen szerződési feltételek érvénytelensége tárgyában indított perek;
 - l) azok a megállapításra irányuló (123. §) perek, amelyek esetében a per tárgyának értéke – ha a marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket;
-- m) a 2. § (3) bekezdésében meghatározott kártérítési perek;
+- m) a 2. § (3) bekezdésében meghatározott perek;
 - n) az egészségügyi szolgáltatókkal kötött finanszírozási szerződésből eredő perek;
 - o) azok a perek, amelyeket törvény a törvényszék hatáskörébe utal.
 
@@ -266,9 +266,11 @@ a polgári perrendtartásról
 
 (2) Ha a jogi személynek belföldön nincs székhelye, belföldi jogi személy felperes által indított perben az illetékességet a felperes jogi személynek a székhelye alapítja meg. Ha a felperes belföldi természetes személy, a bíróság illetékességét a felperes lakóhelye, illetve ennek hiányában a tartózkodási helye is megalapítja.
 
-(3) A jogi személyiséggel nem rendelkező gazdasági társaságok elleni perekben a bíróság illetékességének megállapítására az (1) és (2) bekezdések rendelkezéseit kell megfelelően alkalmazni.
+(3)
 
-(4) Ha a (3) bekezdés hatálya alá nem tartozó jogi személyiséggel nem rendelkező szervezetet törvény jogképesnek nyilvánít, az e szervezet elleni perben a bíróság illetékességének megállapítására az (1) és (2) bekezdésben foglalt rendelkezések megfelelően irányadóak.
+(4) Ha jogi személyiséggel nem rendelkező szervezetet törvény jogképesnek nyilvánít, az e szervezet elleni perben a bíróság illetékességének megállapítására az (1) és (2) bekezdésben foglalt rendelkezések megfelelően irányadóak.
+
+30/A. § A fogyasztói szerződés részévé váló tisztességtelen szerződési feltétel érvénytelensége tárgyában indított perre az a bíróság illetékes, amelynek területén a felperes belföldi lakóhelye, belföldi lakóhely hiányában belföldi tartózkodási helye, vagy – ha a felperes nem természetes személy – belföldi székhelye található. Ha a felperes belföldi lakóhellyel, tartózkodási hellyel vagy székhellyel nem rendelkezik, a bíróság illetékességét az alperes lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az alperes nem természetes személy – az alperes székhelye alapítja meg.
 
 ### Egyéb illetékességi okok
 
@@ -504,7 +506,7 @@ illetékességét.
 - f) a szakszervezet a saját tagjának perében, valamint a külön jogszabályban meghatározott perekben;
 - g) az érdek-képviseleti célra alapított szervezet saját tagjának olyan perében, amelynek tárgya a szervezet alapszabályában meghatározott érdek-képviseleti célok körébe vonható;
 - h) a szövetkezet ügyintézésre jogosult tagja vagy alkalmazottja a szövetkezet pereiben;
-- i) a jogi személy és egyéb gazdálkodó szervezet (396. §) alkalmazottja munkáltatójának gazdasági tevékenységével kapcsolatos pereiben, a jogi személy és egyéb gazdálkodó szervezet jogtanácsosa (jogi előadója) pedig azokban a perekben is, amelyekben külön jogszabály a képviseletre feljogosítja;
+- i) a jogi személy és egyéb gazdálkodó szervezet alkalmazottja munkáltatójának gazdasági tevékenységével kapcsolatos pereiben, a jogi személy és egyéb gazdálkodó szervezet jogtanácsosa (jogi előadója) pedig azokban a perekben is, amelyekben külön jogszabály a képviseletre feljogosítja;
 - j) akit erre külön jogszabály feljogosít.
 
 (2) A perben a jogi személy és egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.
@@ -541,7 +543,7 @@ illetékességét.
 
 72. § A meghatalmazott képviseleti jogosultságát (67–69. §) a bíróság az eljárás bármely szakában hivatalból vizsgálja.
 
-73. § (1) Természetes és jogi személy, jogi személyiség nélküli gazdasági társaság a képviselője részére olyan meghatalmazást is adhat, amely őt perek vitelére általánosságban jogosítja fel (általános meghatalmazás).
+73. § (1) Természetes és jogi személy a képviselője részére olyan meghatalmazást is adhat, amely őt perek vitelére általánosságban jogosítja fel (általános meghatalmazás).
 
 (2) Az általános meghatalmazást nyilvántartásbavétel végett a bíróságnál be kell jelenteni. A nyilvántartásba vett általános meghatalmazás a nyilvántartást vezető bíróságnál pótolja az egyes perekre szóló külön meghatalmazást.
 
@@ -595,7 +597,7 @@ a bíróság a szükséges mértékben tájékoztatja, kivéve, ha a (2) bekezd�
 
 (2) A 73/A. § alkalmazásában – ha törvény eltérően nem rendelkezik – jogi képviselőnek kell tekinteni továbbá:
 
-- a) a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság törvényes képviselőjét,
+- a) a természetes személy, jogi személy törvényes képviselőjét,
 - b) a 67. § (1) bekezdésének a), b), d), e) és h) pontjában meghatározottak szerint az ott megjelölt személyeket,
 - c) a 67. § (1) bekezdésének i) pontjában meghatározottak szerint a jogi személy és egyéb gazdálkodó szervezet alkalmazottját, valamint
 - d) akit a meghatalmazottként való képviseletre külön jogszabály feljogosít
@@ -645,6 +647,10 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 (3) Ha a bíróság az ügyész, illetőleg külön jogszabállyal erre feljogosított személy vagy szervezet keresetét elutasította, a perköltségek megfizetésére az államot kell kötelezni.
 
 (4) A 6. §-ban meghatározott esetekben alkalmazott tolmács költségeit az állam előlegezi, illetve viseli.
+
+(4a) A 6. §-ban meghatározott esetekben felmerülő fordítások költségét az anyanyelvének, regionális vagy nemzetiségi nyelvének használatára jogosult fél helyett az állam előlegezi, míg annak viselésére – a (4b) bekezdésben meghatározott kivétellel – a perköltségviselés általános szabályai az irányadóak.
+
+(4b) A 6. §-ban meghatározott esetekben a bírósági határozatok és megkeresések fordításával felmerülő költségeket az állam viseli.
 
 (5) A feleket nem lehet kötelezni olyan költségek viselésére, amelyek a bíróság érdekkörében felmerült – egyébként elhárítható – ok következtében keletkeztek. Ezeket a költségeket – külön jogszabályban meghatározott módon – az állam viseli.
 
@@ -699,7 +705,10 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 85. § (1) Az a fél, akinek eltartásáról szülője köteles gondoskodni, vagy aki házastársával együtt él, csak akkor részesíthető költségmentességben, ha annak előfeltételei mind őrá, mindpedig szülőjére, illetőleg házastársára nézve fennállnak. A fél és szülője, illetőleg házastársa között folyó perekre ez a szabály nem terjed ki.
 
-(2)
+(2) Ha a bíróság az eljárást megindító beadványt idézés kibocsátása – nemperes eljárás esetén érdemi vizsgálat – nélkül, hivatalból elutasítja,
+
+- a) költségmentesség nem engedélyezhető, és
+- b) a megfizetett mérsékelt illeték összege nem számítható be a 132. §-nak megfelelően ismételten benyújtott kérelem előterjesztésével keletkező eljárási illetékbe.
 
 (3) Nem részesíthető költségmentességben a fél, ha perlekedése rosszhiszeműnek vagy már előre teljesen eredménytelennek látszik, úgyszintén akkor sem, ha mint engedményes lép fel, és valószínűnek mutatkozik, hogy az engedményezés a költségmentes perlés lehetővé tételét célozta.
 
@@ -873,7 +882,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (6) Ha a külföldi félnek a per vitelére magyarországi lakóhellyel vagy székhellyel rendelkező meghatalmazottja van, a 97. § második mondatában foglalt korlátozás nem alkalmazható. A felet vagy törvényes képviselőjét személyes megjelenésére kötelező idézés tekintetében a meghatalmazott eljárására és a kézbesítésre a (8) bekezdést kell megfelelően alkalmazni.
 
-(7) A kézbesítési megbízott magyarországi lakóhellyel, illetve székhellyel rendelkező természetes vagy jogi személy (jogi személyiséggel nem rendelkező gazdasági társaság), így különösen ügyvéd (ügyvédi iroda) lehet.
+(7) A kézbesítési megbízott magyarországi lakóhellyel, illetve székhellyel rendelkező természetes vagy jogi személy, így különösen ügyvéd (ügyvédi iroda) lehet.
 
 (8) A kézbesítési megbízott feladata, hogy az eljárásban keletkezett, a megbízó részére kézbesítendő iratokat átvegye, és azokat a megbízó részére továbbítsa; e tevékenységért a megbízóval szemben a polgári jog szabályai szerint felelős. A fél részére szóló, a kézbesítési megbízottnak szabályszerűen kézbesített iratot úgy kell tekinteni, hogy az a kézbesítést követő tizenötödik napon a fél számára ismertté vált.
 
@@ -1199,6 +1208,8 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 (5) Ha a (3)–(4) bekezdésben foglalt intézkedések megtételével egyidejűleg a tárgyalási határnap kitűzésére nem kerül sor, a bíróság – az intézkedés megtételekor – a keresetlevelet kézbesíti az ellenfél számára.
 
 (6) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat minősített adatot tartalmaz, megkeresi a minősítőt a megismerési engedély beszerzése végett. A 192/A. § rendelkezéseit ebben az esetben is megfelelően alkalmazni kell.
+
+124/A. § A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igényt keresetlevélként kell elbírálni és úgy kell tekinteni, mintha azt már eredetileg is annál a bíróságnál terjesztették volna elő, amelyhez azt megküldték.
 
 ### A tárgyalás kitűzése
 
@@ -1580,6 +1591,12 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 (7) A teljesítési határidő – ha a bíróság másként nem rendelkezik – a végzés írásbeli közlését követő napon kezdődik.
 
 (8) A végzés előzetesen végrehajtható (231–232. §). A végzés mindaddig hatályban marad, amíg azt a bíróság a felek bármelyikének kérelmére – a másik fél meghallgatása (113. §) után – hozott végzésével vagy ítéletében hatályon kívül nem helyezi. Ha az elsőfokú bíróság az ideiglenes intézkedésről szóló határozatát ítéletében (permegszüntető végzésében) nem helyezte hatályon kívül, az elsőfokú ítélet (permegszüntető végzés) jogerőre emelkedésével az ideiglenes intézkedés a hatályát veszti.
+
+(9) A Be. 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igény esetén az ideiglenes intézkedés elbírálása során az (1)–(8) bekezdés szabályait kell alkalmazni azzal az eltéréssel, hogy
+
+- a) az ideiglenes intézkedés elrendelése nem köthető biztosítékadáshoz, és
+- b) a bíróság az ideiglenes intézkedés elrendelésére vonatkozó végzését – hivatalból – maga is egváltoztathatja abban az esetben is, ha a nyomozást vagy a büntetőeljárást jogerősen megszüntették, vagy a terheltet a vád alól jogerősen felmentették, továbbá
+- c) az ideiglenes intézkedés hatályon kívül helyezése vagy hatályvesztése esetén rendelkezni kell az ideiglenes intézkedést megelőző birtokállapot helyreállításáról, ha az ítélet eltérően nem rendelkezik.
 
 ### A per megszüntetése
 
@@ -2503,7 +2520,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - d) a jogerős határozatnak csupán a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős határozatnak csupán az indokolása ellen,
 - e) ha a határozatot a Kúria hozta;
 - f) a házasságot érvénytelenítő vagy felbontó ítélet ellen az érvénytelenítés vagy a felbontás kérdésében;
-- g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg, illetve ha a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni;
+- g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg;
 - h) az egyezséget jóváhagyó végzés ellen;
 - i) a birtokvédelmi eljárást követő birtokvédelmi perben hozott ítélet ellen,
 - j) a helyi önkormányzat ellen indult adósságrendezési eljárásban az adósságrendezés elrendelése tárgyában hozott végzés ellen;
@@ -2708,7 +2725,7 @@ kérdésében.
 
 293. § (1) Az apasági és a származás megállapítása iránt indított egyéb perekre – a 277. § (2) bekezdése, a 285. §, a 288. § (2) bekezdése, a 289. §, a 290. § (2) és (5) bekezdése, végül a 291. § kivételével, valamint a jelen fejezetben foglalt eltérésekkel – a XV. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében – perújításnak nincs helye, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg, illetőleg a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni.
+(2) Az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében – perújításnak nincs helye, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg.
 
 (3) Az apaság vélelmének megdöntése iránti perben az alperest – a vértulajdonság-vizsgálat és a származás megállapításához szükséges más orvosszakértői (élettani) vizsgálat költségei kivételével – a perköltségek megfizetésére kötelezni nem lehet; a pernek a felperesre nem hárítható költségét az állam viseli.
 
@@ -2718,9 +2735,7 @@ kérdésében.
 
 ### Keresetindítás
 
-295. § (1) Az apaság megállapítására irányuló keresetet az apa ellen, az apának pedig a gyermek ellen kell megindítania.
-
-(2) Az apaság vélelmének megdöntésére irányuló keresetet a gyermeknek az apa ellen, az apának a gyermek ellen, más jogosultnak pedig a gyermek és az apa ellen kell indítania; a keresetet – a gyermek által indított kereset kivételével – az anya ellen is meg kell indítani, kivéve ha ez halála folytán nem lehetséges. Ha a gyermek az anya újabb házasságának fennállása alatt, de az anya korábbi házasságának megszűnésétől számított 300 napon belül született, a keresetet az anya korábbi férje ellen is meg kell indítani.
+295. § (1)–(2)
 
 (3) Ha az apa, illetőleg a korábbi férj vagy az a személy, aki ellen a keresetet meg kellene indítani, nem él, vagy ismeretlen helyen tartózkodik, az (1), illetőleg a (2) bekezdés esetében a keresetet a bíróság által kirendelt ügygondnok (74. §) ellen kell indítani. Az egyenesági rokon ilyen esetben beavatkozóként bármelyik félhez csatlakozhat. Az ügygondnok kirendeléséről a bíróság értesíti a gyámhatóságot, és tájékoztatja a per adatai szerint ismert helyen lakó egyenesági rokonokat a beavatkozás lehetőségeiről.
 
@@ -2806,7 +2821,7 @@ kérdésében.
 
 308. § (1) A gondnokság alá helyezési perben az alperes részére a tárgyalás kitűzésével egyidejűleg ügygondnokot kell kirendelni.
 
-(2) Ha a gyámhatóság a felperes és a perindítást megelőzően az alperes vagyonára zárlatot rendelt el, vagy az alperes számára ideiglenes gondnokot rendelt (Ptk. 18–18/A. §-ok), a bíróság a keresetlevél kézhezvételétől számított 30 napon belül megvizsgálja a gyámhatóság által hozott intézkedések fenntartásának szükségességét. Ennek során a 207. §-ban meghatározott előfeltételek hiányában is előzetes bizonyítást rendelhet el, így különösen az alperes igazságügyi elmeorvosszakértővel történő megvizsgálását.
+(2) Ha a gyámhatóság a felperes és a perindítást megelőzően az alperes vagyonára zárlatot rendelt el, vagy az alperes számára ideiglenes gondnokot rendelt, a bíróság a keresetlevél kézhezvételétől számított 30 napon belül megvizsgálja a gyámhatóság által hozott intézkedések fenntartásának szükségességét. Ennek során a 207. §-ban meghatározott előfeltételek hiányában is előzetes bizonyítást rendelhet el, így különösen az alperes igazságügyi elmeorvosszakértővel történő megvizsgálását.
 
 (3) Ha az előzetes bizonyítás 30 napon belül nem fejeződik be, a bíróság a zárlatot, illetve az ideiglenes gondnokrendelést legfeljebb 30 nappal meghosszabbíthatja.
 
@@ -3024,7 +3039,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - k) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló törvény,
 - l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,
 - m) a külföldre utazásról szóló törvény,
-- n) a tankönyvpiac rendjéről szóló törvény,
+- n) a nemzeti köznevelés tankönyvellátásáról szóló törvény,
 - o) a szomszédos államokban élő magyarokról szóló törvény,
 - p) a bírósági végrehajtásról szóló törvény,
 - q) a közúti közlekedésről szóló törvény,
@@ -3130,10 +3145,10 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - a) elhelyezi a gyermeket a különélő másik szülőnél, más hozzátartozónál vagy arra alkalmas más személynél, illetve nevelőszülőnél – ha ezekre nincs mód –, gyermekotthonban vagy más bentlakásos intézményben,
 - b) megállapítja a szülői felügyeleti jog feléledését,
 - c) dönt a más szerv által alkalmazott ideiglenes hatályú elhelyezés megszüntetéséről vagy megváltoztatásáról,
-- d) átmeneti nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
-- e) tartós nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
+- d) nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
+- e)
 - f) dönt átmeneti vagy tartós nevelésbe vett gyermek kapcsolattartásáról,
-- g) dönt a gyermek átmeneti vagy tartós nevelésbe vételének megszüntetéséről,
+- g) dönt a gyermek nevelésbe vételének megszüntetéséről,
 
 a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül jár el.
 
@@ -3734,6 +3749,14 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 386/T. § Az ítéletet fellebbezésre tekintet nélkül végrehajthatónak kell nyilvánítani a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére kötelező – 400 millió forintot meg nem haladó összegű – részében, ha az a Teljesítésigazolási Szakértői Szerv szakvéleményében meghatározott összeget (részben vagy egészben) mint pénzbeli marasztalást tartalmazza.
 
+### Elektronikus kommunikáció
+
+386/U. § (1) A törvényszék elsőfokú hatáskörébe tartozó perben a beadványokat és azok mellékletét elektronikus úton kell benyújtani. A nem elektronikus úton benyújtott beadványban foglalt nyilatkozat hatálytalan.
+
+(2) Az elektronikus kapcsolattartásra a 394/B. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bíróság az alperest arról tájékoztatja, hogy védekezését, nyilatkozatát elektronikus úton kell benyújtania. Egyebekben az elektronikus kapcsolattartásra a 394/B. § (6) bekezdését és a 394/D–394/H. §-t kell alkalmazni.
+
+(3) Ha a pert a 386/P. § (4) bekezdése alapján az általános szabályok szerint kell lefolytatni, a felperes a továbbiakban választása szerint elektronikus úton vagy papír alapon járhat el. Ha a felperes a beadványát elektronikus úton nyújtja be, azt az elektronikus kapcsolattartás vállalásának kell tekinteni [394/B. § (2) bekezdés].
+
 ## HATODIK RÉSZ — KISÉRTÉKŰ PEREK
 
 ### XXVII. Fejezet — Az általános szabályok alkalmazása
@@ -4021,6 +4044,8 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 (4) Az ügyek (2) és (3) bekezdés szerinti megküldése során a 129. § és a 158. § (2) bekezdés rendelkezéseit nem kell alkalmazni.
 
 397/B. § A Teljesítésigazolási Szakértői Szerv 2013. július 1. és 2013. szeptember 1. napja között kézbesített szakvéleményére alapított perben a keresetlevél 2013. szeptember 15. napjáig akkor is előterjeszthető, ha a szakvélemény kézbesítésétől számított hatvan nap eltelt. E határidő elmulasztása esetén igazolásnak nincs helye, és a pert az általános szabályok szerint kell lefolytatni. A 386/R. § rendelkezéseit ebben az esetben is alkalmazni kell.
+
+397/C. § E törvénynek az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvénnyel megállapított 386/U. §-át a hatálybalépését követően indult ügyekben kell alkalmazni.
 
 397/D. § (1) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvénnyel megállapított 56. § (3) és (4) bekezdésének, 57. § (1) bekezdésének és 83. § (1) bekezdésének rendelkezéseit a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvény hatálybalépését követően bejelentett beavatkozásokra kell alkalmazni.
 

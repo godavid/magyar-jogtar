@@ -12,6 +12,8 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 (2) A menekültként, oltalmazottként vagy menedékesként elismert, továbbá a bevándorolt vagy letelepedett jogállású, valamint a szabad mozgás és tartózkodás jogával rendelkező személyeket az e törvény és végrehajtási szabályai által tartalmazott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg és terhelik. Törvény, valamint kormányrendelet e szabálytól a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy) tekintetében eltérő szabályokat állapíthat meg.
 
+(3) Azt a harmadik országból származó munkavállalót, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedéllyel rendelkezik és Magyarországon legalább hat hónapig munkaviszonyban állt, az álláskeresőként való nyilvántartásba vétel, valamint az álláskeresők ellátása tekintetében az e törvény és végrehajtási szabályai által meghatározott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg.
+
 3. § (1) A törvényben meghatározott célok megvalósulását állami foglalkoztatási szerv segíti elő.
 
 (2)
@@ -43,38 +45,52 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 (5) A magán munkaközvetítő tevékenység hatósági ellenőrzését ellátó szerv, valamint a munkaadók és a munkavállalók érdekképviseleti szervei az ellenőrzés céljainak meghatározásában és tapasztalatainak értékelésében együttműködnek.
 
-7. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) a Magyarország területén a 2. § (2) bekezdésében, valamint a (2) bekezdésben meghatározott kivétellel a munkavállalási engedély, vagy a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedély (a továbbiakban: EU Kék Kártya) alapján létesíthet foglalkoztatásra irányuló jogviszonyt. Az engedélyezési kötelezettség alá tartozó foglalkoztatásra irányuló jogviszony létesítéséhez szükséges szerződés csak a munkavállalási engedély vagy az EU Kék Kártya beszerzését követően köthető meg.
+7. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) Magyarország területén – a 2. § (2) bekezdésében, valamint a (3) bekezdésben meghatározott kivétellel –
 
-(2) A Kormány a 2. § (2) bekezdésében foglaltakon túlmenően, rendeletben mentességi eseteket határozhat meg.
+- a) az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedély, vagy
+- b) a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához kiadott munkavállalási engedély alapján létesíthet foglalkoztatásra irányuló jogviszonyt.
 
-(3) Felhatalmazást kap a Kormány, hogy a Magyarország nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerőpiaci szempontok alapján egyes tevékenységeket érintően az (1) bekezdés szerinti engedélyezési kötelezettség alóli mentesség eseteit rendeletben állapítsa meg.
+(2) Az engedélyezési kötelezettség alá tartozó foglalkoztatásra irányuló jogviszony létesítéséhez szükséges szerződés csak az (1) bekezdésben meghatározott engedély beszerzését követően köthető meg.
 
-(4) Felhatalmazást kap a Kormány, hogy a szabad mozgás és tartózkodás jogával rendelkező személy foglalkoztatása tekintetében, nemzetközi szerződésben vagy európai közösségi jogi aktusban foglaltak szerint a 2. § (2) bekezdésében meghatározott egyenlő bánásmód követelményétől eltérő szabályokat állapítson meg.
+(3) A Kormány a 2. § (2) bekezdésében foglaltakon túlmenően, rendeletben mentességi eseteket határozhat meg.
 
-(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter), hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben – rendeletben határozza meg
+(4) Felhatalmazást kap a Kormány, hogy
 
-- a) a Magyarországon egyidejűleg összesen, valamint az egyes állami foglalkoztatási szervek illetékességi területén, továbbá az egyes foglalkozásokban foglalkoztatható harmadik országbeli állampolgárok – ideértve az EU Kék Kártya alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – legmagasabb számát,
-- b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár – ideértve az EU Kék Kártya alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – nem foglalkoztatható,
-- c) az engedélyezési eljárás részletes szabályait,
-- d) EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
+- a) rendeletben a szabad mozgás és tartózkodás jogával rendelkező, valamint az (1) bekezdésben meghatározott engedély alól mentes személy magyarországi foglalkoztatása tekintetében bejelentési kötelezettséget írjon elő, továbbá
+- b) az (1) bekezdés b) pontjában meghatározott engedély tekintetében
+  - ba) Magyarország nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerő-piaci szempontok alapján egyes tevékenységeket érintően, az engedélyezési kötelezettség alóli mentesség eseteit, valamint
+  - bb) az engedély kiadásának részletes eljárási szabályait
 
-(6) Az egyes állami foglalkoztatási szervek illetékességi területén foglalkoztatható harmadik országbeli állampolgárok legmagasabb számának meghatározásához az illetékes munkaügyi tanács előzetes véleményét be kell szerezni.
+rendeletben állapítsa meg.
 
-(7) A foglalkoztató és a harmadik országbeli munkavállaló magas szintű képzettséget igénylő munkavállalás céljából előzetes megállapodást köt – legfeljebb négyéves határozott időtartamú – foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás kötelező érvényű állásajánlatnak minősül. Amennyiben az EU Kék Kártya kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
+(5) Felhatalmazást kap a Kormány, hogy a szabad mozgás és tartózkodás jogával rendelkező személy foglalkoztatása tekintetében nemzetközi szerződésben vagy európai közösségi jogi aktusban foglaltak szerint a 2. § (2) bekezdésében meghatározott egyenlő bánásmód követelményétől eltérő szabályokat állapítson meg.
+
+(6) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter), hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben – rendeletben határozza meg
+
+- a) a Magyarországon egyidejűleg összesen, valamint az egyes állami foglalkoztatási szervek illetékességi területén, továbbá az egyes foglalkozásokban foglalkoztatható harmadik országbeli állampolgárok – ideértve az (1) bekezdésben meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – legmagasabb számát,
+- b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár – ideértve az (1) bekezdés a) pontjában meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – nem foglalkoztatható, valamint
+- c) az EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
+
+(7) A foglalkoztató és a harmadik országbeli munkavállaló az (1) bekezdés a) pontjában meghatározott engedély alapján történő munkavállalás céljából előzetes megállapodást köt – legfeljebb négyéves határozott időtartamú – foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás kötelező érvényű állásajánlatnak minősül. Ha az engedély kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően, valamint az (1) bekezdés a) pontjában meghatározott engedély időtartamának megfelelő időtartammal kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
 
 (8) A (7) bekezdés szerinti előzetes megállapodásnak tartalmaznia kell
 
 - a) a harmadik országbeli állampolgár által ellátandó tevékenységet, munkakört (FEOR),
-- b) a harmadik országbeli állampolgárnak az a) pont szerinti tevékenység ellátáshoz szükséges felsőfokú szakmai képesítése megnevezését,
+- b) a harmadik országbeli állampolgárnak az a) pont szerinti tevékenység ellátásához szükséges felsőfokú szakmai képesítése megnevezését,
 - c) a harmadik országbeli állampolgár részére fizetendő díjazás mértékét,
-- d) a foglalkoztatásra irányuló jogviszony megjelölését,
-- e) a foglalkoztatásra irányuló jogviszony időtartamát.
+- d) a foglalkoztatásra irányuló jogviszony megjelölését, valamint
+- e) a foglalkoztatásra irányuló jogviszony várható időtartamát.
 
 (9) A felek a (8) bekezdés c) pontja szerinti díjazás mértékétől kizárólag a harmadik országbeli állampolgár javára térhetnek el.
 
 8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, a munkaerőpiaci szervezetrendszert, valamint ezek finanszírozásának módját.
 
-(2) A Kormány döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai összefüggéseit és következményeit. Ennek megfelelően gondoskodik e döntések összehangolásáról, valamint arról, hogy a munkavállaláshoz és a foglalkoztatáshoz fűződő alapvető hazai érdekek ne szenvedjenek sérelmet. A Kormány az Európai Unió foglalkoztatási stratégiájához igazodóan Nemzeti Foglalkoztatási Akció Tervet készít. A Kormány meghatározza a kormányzati szerveknek a foglalkoztatáspolitika megvalósításával kapcsolatos feladatait.
+(2) A Kormány döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai összefüggéseit és következményeit. Ennek megfelelően feladatainak ellátása során
+
+- a) gondoskodik döntéseinek összehangolásáról, valamint arról, hogy a munkavállaláshoz és a foglalkoztatáshoz fűződő alapvető hazai érdekek ne szenvedjenek sérelmet,
+- b) az Európai Unió foglalkoztatási stratégiájához igazodóan évente foglalkoztatási akciótervet készít,
+- c) a feladatának eredményes ellátása érdekében a munkaerő-piaci folyamatok naprakész megfigyelésére és ennek nyomán a munkaerő-piaci politikák hatékony alakítására és alkalmazására alkalmas foglalkoztatási mutatószámot alakít ki,
+- d) meghatározza a kormányzati szerveknek a foglalkoztatáspolitika megvalósításával kapcsolatos feladatait.
 
 (3)
 
@@ -122,23 +138,20 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 ### Munkaerőpiaci szolgáltatások
 
-13/A. § (1) Az állami foglalkoztatási szerv és az állami felnőttképzési intézmény a munkahelykeresést, a munkához, valamint megfelelő munkaerőhöz jutást, továbbá a munkahely megtartását szolgáltatások nyújtásával is elősegíti.
+13/A. § (1) Az állami foglalkoztatási szerv a munkahelykeresést, a munkához, valamint a megfelelő munkaerőhöz jutást, továbbá a munkahely megtartást munkaerőpiaci szolgáltatásokkal is elősegíti.
 
-(2) A munkaerőpiaci szolgáltatások formái a következők:
+(2) A munkaerő-piaci szolgáltatást az álláskereső és a szolgáltatást kérő részére az állami foglalkoztatási szerv közvetlenül, illetve a nyilvántartásba vett munkaerőpiaci-szolgáltatást nyújtó szervezeteken keresztül nyújtja.
 
-- a) munkaerőpiaci és foglalkozási információ nyújtása,
-- b) munka-, pálya-, álláskeresési, rehabilitációs, helyi (térségi) foglalkoztatási tanácsadás,
-- c) munkaközvetítés.
+(3) Az állami foglalkoztatási szerv az (1) bekezdésben meghatározott célokat az álláskeresővel és a munkaerő-piaci szolgáltatást kérővel készített egyéni cselekvési tervvel is elősegíti.
 
-(3) Az állami foglalkoztatási szerv a (2) bekezdés a)–b) pontjában meghatározott munkaerőpiaci szolgáltatást a (4) bekezdés szerinti jogszabályban meghatározott feltételekkel az alábbiak szerint biztosítja:
+(4) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
-- a) pályázati eljárás eredményeként támogatást nyújt, vagy
-- b) a 41. § (3)–(4) bekezdése szerinti uniós források bevonásával megvalósuló programok esetében a 2011. évi CVIII. törvény rendelkezései alapján, közbeszerzési eljárás keretében vásárol.
-
-(4) Felhatalmazást kap a
-
-- a) Kormány, hogy rendeletben határozza meg a munkaerő-piaci szolgáltatásokat nyújtó szervezetek akkreditációjának, valamint az akkreditált szervezetek ellenőrzésének szabályait,
-- b) miniszter, hogy rendeletben határozza meg az egyes munkaerő-piaci szolgáltatásokat – ideértve az egyes munkavállalói csoportok számára nyújtható speciális szolgáltatásokat –, a szolgáltatások szakmai követelményeit, a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és a szolgáltatások, valamint a (3) bekezdésben meghatározott támogatás nyújtásának feltételeit.
+- a) a munkaerő-piaci szolgáltatásokat nyújtó szervezetek és az általuk nyújtott szolgáltatások nyilvántartásának, valamint a nyilvántartott szervezetek ellenőrzésének szabályait,
+- b) a munkaerőpiaci szolgáltatásokat, – ideértve az egyes munkavállalói csoportok számára nyújtható speciális szolgáltatásokat is –,
+- c) a munkaerő-piaci szolgáltatások tartalmát, csoportosítását és a szolgáltatások szakmai követelményeit,
+- d) az egyéni cselekvési tervre vonatkozó részletes szabályokat,
+- e) a szolgáltatások igénybevételének, valamint e bekezdés a) pontjában meghatározott szervezetek részére történő támogatás nyújtásának feltételeit, valamint
+- f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és szabályait.
 
 ### Képzések elősegítése
 
@@ -251,13 +264,13 @@ adható.
 
 ### A foglalkoztatást elősegítő támogatások közös szabályai
 
-20. § (1) A 13/A. § (3) bekezdésében, a 14–16/A. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújthatók.
+20. § (1) A 13/A. § (2) bekezdésében, a 14–16. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújthatók.
 
 (2)
 
-(3) A 13/A. § (1)–(2) bekezdésében meghatározott szolgáltatások, a 14. §-ban, a 16–18. §-okban, valamint a 19/B–19/C. §-okban meghatározott támogatások a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
+(3) A 14. §-ban, a 16–18. §-okban, a 19/B–19/C. §-okban meghatározott támogatások, valamint az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szolgáltatások és támogatások európai uniós forrásból megvalósuló program keretében, az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
 
-(4) A miniszter rendeletben határozza meg a 14–19. §-ban, valamint a 19/B–19/C. §-ban meghatározott támogatások további feltételeit, odaítélésének, megszüntetésének és visszakövetelésének részletes szabályait. A miniszter a 45. életévüket betöltött, valamint a roma származású személyek munkaerőpiaci helyzetének javítása, foglalkoztatásának elősegítése érdekében e törvényben foglaltaknál kedvezőbb szabályokat állapíthat meg.
+(4) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg a 14–18. §-ban, valamint a 19/B–19/C. §-ban meghatározott támogatások további feltételeit, odaítélésének, megszüntetésének és visszakövetelésének részletes szabályait. A miniszter a 25 év alatti fiatalok, az 50. életévüket betöltött, valamint a roma származású személyek munkaerőpiaci helyzetének javítása, foglalkoztatásának elősegítése érdekében e törvényben foglaltaknál kedvezőbb szabályokat állapíthat meg.
 
 (5) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
@@ -553,7 +566,7 @@ időtartamával.
 
 - a) a külön jogszabályban meghatározott járulékkedvezmény megtérítésére szolgáló pénzeszközöket,
 - b) az európai uniós operatív programok előfinanszírozásának céljára szolgáló pénzeszközöket,
-- c) az európai uniós társfinanszírozásra szolgáló pénzeszközöket,
+- c) a Társadalmi Megújulás Operatív Program társfinanszírozásra szolgáló pénzeszközöket,
 - d) a külön jogszabályban meghatározott közfoglalkoztatás támogatására fordítható pénzeszközöket,
 - e) az adórendszer átalakítása miatt kiegészítő munkáltatói támogatásra fordítható pályázati pénzeszközöket,
 - f) a Nyugdíjbiztosítási Alapnak átadandó pénzeszközöket,
@@ -605,6 +618,8 @@ időtartamával.
 (5) A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprésze terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat-módosítás esetén a módosított kiadási előirányzat 40 százalékát.
 
 (6) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékben, legfeljebb a tárgyévi költségvetési támogatás összegének 40%-os mértékéig vállalható.
+
+(7) A (6) bekezdésben meghatározott 40%-os mérték alól a közfoglalkoztatásért felelős miniszter kezdeményezésére – figyelemmel a közfoglalkoztatási programok kezdési időpontjára és tartamára – a Kormány egyedi felmentést adhat.
 
 39/C. § (1) A Nemzeti Foglalkoztatási Alap bevétele:
 
@@ -880,7 +895,7 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 56/A. § (1) Rendbírságot köteles fizetni
 
 - a) az a munkaadó, munkavállaló, egyéb szerv, illetőleg személy, aki e törvényben, valamint a felhatalmazása alapján hozott jogszabályban, az Mt. 74. §-ában és 215. § (1) bekezdésében, továbbá közigazgatási határozatban, hatósági szerződésben meghatározott bejelentési [kivéve a 8. § (6) bekezdés b) pontjában, valamint a 36. § (1) bekezdésében meghatározott kötelezettséget], nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat;
-- b) az a felszámoló, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. §-ának (1) bekezdésében meghatározott kötelezettségének nem tesz eleget.
+- b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget, valamint a munkavállalók felé fennálló munkabértartozással összefüggésben a munkaügyi központ részére a valóságnak nem megfelelő adatot szolgáltat.
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
 
@@ -920,7 +935,7 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
 szerinti adatok igénylésére jogosult.
 
-(4)
+(4) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő személyek számára történő rehabilitációs szolgáltatások biztosítása céljából e személyeknek az (1) bekezdés alapján kezelt, a (2) bekezdés a–d) és f) pontjában meghatározott adatait közvetlen hozzáféréssel átveheti.
 
 (5) Az (1) bekezdésben megjelölt szervek más szerv és természetes személy részére adatot csak jogszabályban meghatározott módon szolgáltathatnak.
 
@@ -947,7 +962,7 @@ szerinti adatok igénylésére jogosult.
 (3) Az adatbázis tartalmazza
 
 - 1. a foglalkoztatást helyettesítő támogatásra jogosult személyek tekintetében
-  - a) az alábbi adatokat: aa) a jogosult természetes személyazonosító adatai, ab) a jogosult állampolgársága, illetőleg bevándorolt, letelepedett vagy menekült státusza, ac) a jogosult belföldi lakó-, illetőleg tartózkodási helye, ad) az ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatok, ae) a jogosult Társadalombiztosítási Azonosító Jele (TAJ szám), af) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettsége, szakképesítése,
+  - a) az alábbi adatokat: aa) a jogosult természetes személyazonosító adatai, ab) a jogosult állampolgársága, illetve bevándorolt, letelepedett, menekült vagy oltalmazott státusza, ac) a jogosult belföldi lakó-, illetve tartózkodási helye, ad) az ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatok, ae) a jogosult társadalombiztosítási azonosító jele (taj-szám), af) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettsége, szakképesítése,
   - b) a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. § (4)–(5) bekezdése alapján az állami foglalkoztatási szervnek átadott, és az adatbázisban nyilvántartott személyekre vonatkozó adatokat,
   - c) a munkaerőpiaci helyzetükkel összefüggő, következő adatokat: ca) munkaerőpiaci képzésben történő részvétel, cb) munkaerőpiaci programban történő részvétel, cc) bértámogatással létesített munkaviszony keretében történő foglalkoztatás, cd) közfoglalkoztatásban való részvétel, ce) munkaviszony – támogatás nélkül történő – létesítése, cf) állami foglalkoztatási szerv szolgáltatásainak igénybevétele, cg) egyszerűsített foglalkoztatásban történő részvétel,
   - d) az álláskeresőként történő nyilvántartással összefüggő következő adatokat: da) a nyilvántartásba vétel időpontja, db) a nyilvántartásból történő törlés, illetve a nyilvántartás szünetelésének időpontja és indoka;
@@ -1007,7 +1022,39 @@ szerinti adatok igénylésére jogosult.
 
 (6) Az adatbázisban rögzített adatok személyazonosításra alkalmatlan módon statisztikai célra felhasználhatóak és statisztikai célú felhasználásra átadhatóak.
 
-#### 57/D. §
+### Az Európai Szociális Alap által finanszírozott intézkedésekben résztvevő személyek adatbázisa
+
+57/D. § (1) Az állami foglalkoztatási szerv az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az egyéni szintű nyomonkövetés, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében elektronikus nyilvántartást vezet.
+
+(2) Az adatbázis tartalmazza a résztvevők alábbi adatait, amelyet a kedvezményezettek szolgáltatnak:
+
+- a) természetes személyazonosító adatok,
+- b) állampolgárság, illetőleg bevándorolt, letelepedett vagy menekült státusza,
+- c) belföldi lakó-, illetve tartózkodási helye,
+- d) iskolai végzettsége, szakképesítése,
+- e) annak ténye, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
+- f) Társadalombiztosítási Azonosító Jele (TAJ szám),
+- g) intézkedésbe történő belépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
+  - ga) intézkedésbe történő belépés dátuma,
+  - gb) munkaerő-piaci státusza,
+  - gc) annak ténye, hogy megváltozott munkaképességűnek minősül-e,
+  - gd) annak ténye, hogy a gc) ponton belül fogyatékkal élőnek minősül-e,
+  - ge) a résztvevő önkéntes nyilatkozata alapján, nemzetiségének megjelölése,
+  - gf) annak ténye, hogy tartós munkanélkülinek minősül-e,
+  - gg) annak ténye, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
+- h) az intézkedésből történő kilépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
+  - ha) intézkedésből történő kilépés dátuma,
+  - hb) a résztvevő munkaerő-piaci státusza,
+  - hc) annak ténye, hogy álláskeresési tevékenységet folytat-e,
+  - hd) annak ténye, hogy oktatásban vagy szakképzésben részt vesz-e,
+  - he) annak ténye, hogy az intézkedés keretében képzettséget szerzett-e,
+  - hf) milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
+
+(3) A (2) bekezdés alapján nyilvántartásba vett adatokba a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a foglalkoztatáspolitikáért felelős miniszter, nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
+
+(4) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+
+(5) A (2) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
 
 #### 57/E. §
 
@@ -1050,6 +1097,7 @@ szerinti adatok igénylésére jogosult.
 - v) munkaerőpiaci szolgáltatást kérő:
   - va) az a természetes személy, aki az állami foglalkoztatási szerv szolgáltatását az álláskeresők ellátása és a foglalkoztatást elősegítő támogatások iránti kérelem benyújtása nélkül veszi igénybe vagy olyan támogatás érdekében veszi igénybe, amelynek nem feltétele az álláskeresőként történő nyilvántartásba vétel, vagy
   - vb) az a munkaadó, aki harmadik országbeli állampolgár magyarországi foglalkoztatásának engedélyezése érdekében munkaerőigényt jelent be és közvetítést is kér,
+- v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
 - w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül.
 
 (6) A törvény alkalmazásában a
@@ -1068,7 +1116,7 @@ szerinti adatok igénylésére jogosult.
 - c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
 - d) a rendbírság kiszabásának, megfizetésének és kezelésének,
 - e) az e törvényben meghatározott nyilvántartások vezetésének
-- f)
+- f) a gyermek- és ifjúságpolitikáért felelős miniszterrel egyetértésben a kedvezményezett által az adatbázisba történő adatrögzítés eljárásának, az adatszolgáltatás technikai feltételeit, továbbá az ellenőrzés szakmai tartalmát.
 - g)
 
 szabályait.
@@ -1130,9 +1178,11 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 60. § (1) Ez a törvény
 
-- a) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv 11. cikk (1) bekezdése a) pontjának és 21. cikkének,
-- b) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének
-- c) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2009. május 25-i 2009/50/EK tanácsi irányelv 5. cikk (1) bekezdés a) pontjának, 7. cikk (4) bekezdés b) pontjának
+- a) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i, 2003/109/EK tanácsi irányelv 11. cikk (1) bekezdése a) pontjának és 21. cikkének,
+- b) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i, 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének,
+- c) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2009. május 25-i, 2009/50/EK tanácsi irányelv 5. cikk (1) bekezdés a) pontjának, 7. cikk (4) bekezdés b) pontjának,
+- d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/ EU európai parlamenti és tanácsi irányelvnek, valamint
+- e) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

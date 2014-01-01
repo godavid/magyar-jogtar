@@ -2738,7 +2738,7 @@ történik.
 - e)
 - f) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 12. §-ának (4) bekezdésében és 16. §-ának (2)–(3) bekezdésében;
 - g) a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 24. §-ának (3)–(5) bekezdésében;
-- h) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 139. §-a (5) bekezdésének e) pontjában, valamint 176/A. §-ának (2)–(3) bekezdésében;
+- h) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 47. §-ának (2) és (3) bekezdésében;
 - i) az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 27. §-a (4) bekezdésében;
 - j) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 84. §-a (1) bekezdésének c) pontjában és 111. §-a (4) bekezdésének d) pontjában;
 - k) a Pénzügyi Szervezetek Állami Felügyeletéről szóló 1999. évi CXXIV. törvény 10. §-ának (2) bekezdésében;

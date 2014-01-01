@@ -26,19 +26,59 @@ az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, to
 
 16. § (1)
 
-(2)
+(2) Az Atv. 62. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Központi Nukleáris Pénzügyi Alap kezelő szerve a kijelölt miniszter által vezetett minisztérium.”
 
 (3)
 
-(4)
+(4) Az Atv. 62. §-a a következő (6) bekezdéssel egészül ki:
 
-17–18. §
+„(6) A kijelölt miniszter Központi Nukleáris Pénzügyi Alappal kapcsolatos munkájának segítése érdekében értékelő és előzetes állásfoglalást kialakító testület működik.”
+
+17. § Az Atv. 63. §-a helyébe a következő rendelkezés lép:
+
+„63. § (1) Az atomerőmű a radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának – beleértve a tároló leszerelését is –, és a nukleárisüzemanyag-ciklus lezárásának, továbbá az atomerőmű leszerelésének, valamint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatás költségeit a Központi Nukleáris Pénzügyi Alapba történő befizetés útján köteles biztosítani. Az adott évre megállapított összeg arányos részét közvetlenül a Központi Nukleáris Pénzügyi Alap kincstárnál vezetett számlájára havonta, a hónap 15. napjáig kell befizetni.
+
+(2) Atomerőmű esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze:
+
+a) az atomerőmű teljes üzemideje alatt és a leszereléskor keletkező radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és a nukleárisüzemanyag-ciklus lezárásával,
+
+b) az első előzetes leszerelési terv költsége kivételével valamennyi, az atomerőmű, továbbá a kiégett üzemanyag átmeneti tárolója leszerelésével,
+
+c) a 10/A. § (2) bekezdése szerint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatással, valamint
+
+d) a Központi Nukleáris Pénzügyi Alap létrejöttét megelőzően létesített radioaktívhulladék-tárolóban a 63/A. § szerinti befizetési kötelezettségből származó bevételből nem fedezett, a véglegesen elhelyezett radioaktív hulladék tárolásával, a tároló biztonságnövelésével és üzemeltetésével
+
+járó költségeket.
+
+(3) Az atomerőmű befizetésének éves mértékét a központi költségvetésről szóló törvény határozza meg a (2) bekezdésben foglalt kötelezettség figyelembevételével.
+
+(4) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetében a kiégett üzemanyag átmeneti elhelyezését szolgáló tároló létesítésével, üzemeltetésével, a nukleárisüzemanyag-ciklus lezárásával, valamint a nukleáris létesítmény leszerelésével és lebontásával és az annak következtében keletkező radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket azok felmerülésekor kell befizetni a Központi Nukleáris Pénzügyi Alapba. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.”
+
+18. § Az Atv. a következő 63/A. §-sal egészül ki:
+
+„63/A. § (1) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény üzemideje alatt a radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket a hulladék tárolóba történő beszállításakor kell megfizetni az 1. mellékletben meghatározottak szerint. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
+
+(2) Az atomenergia olyan alkalmazója, amely nem tartozik a 63. § (1) és (4) bekezdése, valamint az (1) bekezdés hatálya alá, a radioaktív hulladék végleges elhelyezésével kapcsolatos, az 1. melléklet alapján meghatározott befizetési kötelezettségét a hulladék tárolóba történő beszállításakor teljesíti.
+
+(3) Az (1) és (2) bekezdés szerinti beszállító a fizetési kötelezettségének a beszállítást követő 15 napon belül köteles eleget tenni a Központi Nukleáris Pénzügyi Alapnak a kincstárnál vezetett számlájára történő befizetéssel.
+
+(4) Az 1. melléklet szerint meghatározott befizetési kötelezettség számításánál a radioaktív hulladék térfogatát a csomagolás névleges bruttó térfogatára, névleges térfogat hiányában a csomagolást befoglaló téglatest térfogatára kell vonatkoztatni, de a legkisebb elszámolható mennyiség hulladékcsomagonként 5 liter.
+
+(5) A Központi Nukleáris Pénzügyi Alap bevételi forrását a 63. § (1) és (4) bekezdése, valamint az (1) és (2) bekezdés szerinti befizetések képezik.”
 
 19–21. §
 
 22. § (1)–(2)
 
-(3)
+(3) Az Atv. 67. §-a a következő t) és u) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:)
+
+„t) a radioaktívhulladék-tároló, a radioaktív hulladék átmeneti tárolója és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket;
+
+u) a 62. § (6) bekezdése szerinti testület létrehozását, összetételét, tevékenységét, álláspontja kialakításának rendjét és működésének feltételeit;”
 
 (4)
 
@@ -46,21 +86,25 @@ az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, to
 
 (2)
 
-(3)
+(3) Az Atv. 68. § (1) bekezdése a következő h) ponttal egészül ki:
+
+(Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza:)
+
+„h) a 63. § (1) és (4) bekezdése, valamint a 63/A. § (1) és (2) bekezdése szerinti befizetési kötelezettség teljesítésének módját.”
 
 (4)
 
 24. §
 
-25. §
+25. § Az Atv. az 1. melléklet szerinti 1. melléklettel egészül ki.
 
 26. § (1)
 
-(2)
+(2) Az Atv. 41. §-ában a „költségvetési intézmény” szövegrész helyébe az „a Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény, vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény” szöveg lép.
 
 27. § (1)
 
-(2)
+(2) Hatályát veszti az Atv. 40. § (3) bekezdése, 68. § (1) bekezdés f) pontja, 68. § (6) és (9) bekezdése.
 
 #### 2. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosítása
 
@@ -118,3 +162,40 @@ az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, to
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2013. évi CI. törvényhez
+
+„1. melléklet az 1996. évi CXVI. törvényhez
+
+Befizetési kötelezettség radioaktív hulladékok esetenkénti tárolóba szállításakor
+
+Befizetési kötelezettség radioaktív hulladékok beszállítása esetén
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Hulladék kategória | Befizetési kötelezettség [Ft/m3] |  |  |  |
+| 2 | rövid élettartamú hulladék |  | hosszú élettartamú hulladék |  |
+| 3 | tömöríthető | nem tömöríthető | tömöríthető | nem tömöríthető |
+| 4 | kis aktivitású hulladék | 100 000 | 200 000 | 200 000 | 400 000 |
+| 5 | közepes aktivitású hulladék | 200 000 | 400 000 | 400 000 | 800 000 |
+
+Befizetési kötelezettség zárt sugárforrások beszállítása esetén
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | Aktivitás/MEA* = N (Bq/Bq) | Befizetési kötelezettség (Ft/db) |  |  |
+| 2 | Felezési idő T1/2 (év) |  |  |
+| 3 |  | T1/2 ≤ 1 | 1 < T1/2 ≤ 30 | 30 < T1/2 |
+| 4 | N ≤ 10 | 500 | 1 000 | 2 000 |
+| 5 | 10 < N ≤ 102 | 855 | 1 710 | 3 420 |
+| 6 | 102 < N ≤ 103 | 1 460 | 2 925 | 5 850 |
+| 7 | 103 < N ≤ 104 | 2 500 | 5 000 | 10 000 |
+| 8 | 104 < N ≤ 105 | 4 275 | 8 550 | 17 100 |
+| 9 | 105 < N ≤ 106 | 7 310 | 14 620 | 29 240 |
+| 10 | 106 < N ≤ 107 | 12 500 | 25 000 | 50 000 |
+| 11 | 107 < N ≤ 108 | 21 375 | 42 750 | 85 500 |
+| 12 | 108 < N ≤ 109 | 36 550 | 73 100 | 146 200 |
+| 13 | 109 < N ≤ 1010 | 62 500 | 125 000 | 250 000 |
+| 14 | 1010 < N | 106 875 | 213 750 | 427 500 |
+
+*MEA: Mentességi aktivitás
+
+”

@@ -74,7 +74,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 35. kereskedő: olyan gazdálkodó szervezet, amely a hulladékot saját vagy más nevében megvásárolja, és azt követően eladja, ideértve azt az esetet is, amikor a kereskedő nem lesz a hulladék tényleges birtokosa;
 - 36. kezelés: hasznosítási vagy ártalmatlanítási műveletek, ideértve a hasznosítást vagy ártalmatlanítást megelőző előkészítést is;
 - 36a. közszolgáltatási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül az ingatlanhasználók részére az adott hulladékgazdálkodási közszolgáltatást ugyanaz a közszolgáltató végzi;
-- 37. közszolgáltató: az a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező és a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint minősített gazdálkodó szervezet, amely a települési önkormányzattal kötött hulladékgazdálkodási közszolgáltatási szerződés alapján hulladékgazdálkodási közszolgáltatást lát el;
+- 37. közszolgáltató: az a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező és a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint minősített nonprofit gazdasági társaság, amely a települési önkormányzattal kötött hulladékgazdálkodási közszolgáltatási szerződés alapján hulladékgazdálkodási közszolgáltatást lát el;
 - 38. közvetítő: olyan gazdálkodó szervezet – az egyéni vállalkozót, valamint az egyéni céget ide nem értve –, amely más nevében szervezi a hulladék hasznosítását vagy ártalmatlanítását, ideértve azt az esetet is, amikor a közvetítő nem lesz a hulladék tényleges birtokosa;
 - 38a. közvetítő szervezet: olyan nonprofit gazdasági társaságként működő közvetítő – az Országos Hulladékgazdálkodási Ügynökséget kivéve –, amely a hulladék hasznosítását vagy ártalmatlanítását nyilvántartásba vétel alapján szervezi;
 - 39. lomhulladék: az ingatlanhasználótól a közszolgáltató által a lomtalanítás során átvett olyan háztartási hulladék, amely a közszolgáltatás keretében rendszeresített gyűjtőedény méreteit meghaladja;
@@ -806,7 +806,7 @@ tarthatja nyilván.
 
 (3) A járulékfizetésre kötelezett a járulékfizetési kötelezettségét annak keletkezésétől számított 15 napon belül a környezetvédelmi hatóságnak – az e célra készített formanyomtatványon – bejelenti (bejelentés).
 
-(4) A hulladéklerakási járulékot a járulékfizetésre kötelezett negyedévente, a tárgynegyedévet követő hónap 20. napjáig a környezetvédelmi hatóság által megjelölt számlára befizeti. A befizetett hulladéklerakási járulékot a környezetvédelmi hatóság a befizetést követő hónap 25. napjáig a környezetvédelemért felelős miniszter által megjelölt fejezeti kezelésű előirányzat számlájára átutalja.
+(4) A hulladéklerakási járulékot a járulékfizetésre kötelezett negyedévente, a tárgynegyedévet követő hónap 20. napjáig az e célra vezetett központi költségvetési fizetési számlára forintban fizeti be.
 
 (5) A járulékfizetésre kötelezett a hulladéklerakóban elhelyezett hulladékról naprakész nyilvántartást vezet. A nyilvántartás tartalmazza
 
@@ -817,7 +817,7 @@ vonatkozó adatokat.
 
 (6) A járulékfizetésre kötelezett a bejelentésen és a hulladéklerakási járulék befizetésén túlmenően az (5) bekezdésben meghatározott tartalommal a környezetvédelmi hatóság részére negyedévente, a tárgynegyedévet követő hónap 20. napjáig adatot szolgáltat. Az adatokat igazoló dokumentumokhoz csatolja a járulék megfizetését igazoló okiratok másolatát.
 
-(7) A hulladéklerakási járulékból befolyt összeg e törvény végrehajtására kiadott kormányrendeletben meghatározott célra fordítható.
+(7)
 
 (8)
 
@@ -840,6 +840,44 @@ vonatkozó adatokat.
 - d) a hulladéklerakóban települési szennyvíziszapkomposztot helyeznek el takarórétegként, amelyből a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték, majd a kinyerést követően visszamaradt szennyvíziszapot komposztálták, és a szennyvíziszapkomposztban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapkomposztra vonatkozó határértékeket meghaladják, és ennek következtében a szennyvíziszapkomposzt mezőgazdasági célú felhasználása termőföldön nem lehetséges.
 
 (6) A járulékfizetésre kötelezett a települési szennyvíziszap hulladéklerakóban történő lerakása után az 5. melléklet 2. pontjában foglalt táblázat 4. pontjában meghatározott mértékű hulladéklerakási járulék 50%-át fizeti meg, ha a szennyvíziszapból a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték és a kinyerést követően visszamaradt szennyvíziszapban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapra vonatkozó határértékeket meghaladják.
+
+69/A. § (1) A hulladéklerakási járulékkal kapcsolatos jogsértő cselekmények megelőzése, valamint a ténylegesen lerakott hulladékmennyiség után fizetendő hulladéklerakási járulék megfizetésének biztosítása érdekében a járulékfizetésre kötelezett a hulladéklerakó területén elektronikus megfigyelő- és beléptető rendszert épít ki.
+
+(2) A járulékfizetésre kötelezett az elektronikus megfigyelőrendszerrel a hulladék hulladéklerakóba történő beszállításáról, a hulladék tömegének hídmérlegen történő méréséről, valamint a gépjármű hulladéklerakóból történő kilépéséről elektronikus berendezéssel – hang rögzítése nélkül – mozgóképfelvételt (a továbbiakban: felvétel) készít.
+
+(3) Az elektronikus megfigyelőrendszert úgy kell kiépíteni, hogy a felvételen a hulladéklerakó területére be- és kilépő gépjárművek raktere, szállítmánya a hulladéklerakó bejáratától a hídmérlegig tartó útszakaszon folyamatosan és teljes egészében látható legyen, és a felvétel lehetőség szerint – az érintett személy azonosítására alkalmas módon – személyes adatot ne rögzítsen.
+
+(4) A járulékfizetésre kötelezett az elektronikus beléptető rendszerrel a hídmérlegen áthaladó gépjármű rendszámát és a Ht. 68. § (5) bekezdés b) pontja szerinti adatokat rögzíti.
+
+69/B. § (1) A járulékfizetésre kötelezett a felvételt és az elektronikus beléptető rendszer által rögzített adatokat (a továbbiakban: adatok) a rögzítéstől számított 60 napig megőrzi. A megőrzési határidő elteltével – a 69/C. § (5) bekezdésében foglalt kivétellel – a járulékfizetésre kötelezett a felvételt és az adatokat haladéktalanul törli.
+
+(2) A járulékfizetésre kötelezett mindenki számára jól látható helyen és olvashatóan figyelemfelhívó jelzést és tájékoztatást helyez el
+
+- a) a hulladéklerakó területén kialakított elektronikus megfigyelő- és beléptető rendszer alkalmazásáról,
+- b) a felvétel rögzítésének, gyűjtésének, tárolásának céljáról,
+- c) az elektronikus megfigyelő- és beléptető rendszert üzemeltető személyéről,
+- d) a felvétel és az adatok kezelésének módjáról, valamint
+- e) az információs önrendelkezési jogról és az információszabadságról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
+
+(3) A felvétel és az adatok – megkeresés alapján vagy a hatóság által végzett helyszíni ellenőrzés alkalmával – kizárólag
+
+- a) a környezetvédelmi hatóság,
+- b) bűncselekmény gyanújának észlelése esetén a nyomozó hatóság, valamint
+- c) a bíróság
+
+részére adhatók át.
+
+69/C. § (1) A személyes adatokat tartalmazó felvétel és az adatok az információs önrendelkezési jogról és az információszabadságról szóló törvényben, valamint az e törvényben meghatározottak szerint rögzíthető, gyűjthető, tárolható és használható fel. A járulékfizetésre kötelezett a felvétel és az adatok rögzítése, gyűjtése, tárolása során adatkezelőnek minősül. Az adatkezelő – a 69/A. § (1) bekezdésében védett érdek biztosítása céljából – kizárólag a felvétel és az adatok rögzítését, gyűjtését, tárolását végezheti.
+
+(2) Az (1) bekezdés szerinti felhasználásnak minősül, ha a felvételt vagy az adatokat hatósági vagy bírósági eljárásban bizonyítékként felhasználják.
+
+(3) Az, akinek jogát vagy jogos érdekét a felvétel vagy a rögzített adatok érintik, a felvétel vagy az adatok rögzítésétől számított 60 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt vagy az adatokat annak kezelője ne törölje.
+
+(4) A bíróság vagy más hatóság megkeresésére, vagy a hatóság által végzett helyszíni ellenőrzés alkalmával a felvételt és az adatokat a bíróságnak vagy a hatóságnak haladéktalanul meg kell küldeni, illetve át kell adni.
+
+(5) Ha a felvétel vagy az adatok törlésének mellőzését kérték, és a mellőzés kérésétől számított 30 napon belül a bíróság vagy más hatóság megkeresésére nem került sor, a felvételt és az adatokat haladéktalanul törölni kell, kivéve, ha a 60 napos megőrzési határidő még nem járt le.
+
+(6) A felvételt és az adatokat csak az adatkezelő által feljogosított személy jogosult megismerni jogsértő cselekmény megelőzése vagy megszakítása érdekében. A felvételt, az adatokat, valamint az adatkezelőt, a felvétel és az adatok megismerésére egyéb okból jogosult személy nevét, a felvétel és az adatok megismerésének okát, idejét jegyzőkönyvben kell rögzíteni.
 
 #### 30. Céltartalék és biztosítás
 
@@ -1173,7 +1211,7 @@ jogsértés esetén nem mérsékelhető.
   - ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
   - bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
   - bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
-  - bd) a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a közszolgáltatók által alkalmazható számlaképet
+  - bd)
 
 rendeletben állapítsa meg.
 
@@ -1233,7 +1271,7 @@ rendeletben állapítsa meg.
 
 (4) A közszolgáltatást igénybe vevő társasház vagy lakásszövetkezet a társasházban, illetve lakásszövetkezetben lakó természetes személy ingatlanhasználót a (2) bekezdésben meghatározott díjtétel alapján a díjcsökkentés összegéről tájékoztatja.
 
-(5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével egyidejűleg részletes írásbeli tájékoztatást nyújt a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2) és (3) bekezdésben foglaltak teljesüléséről.
+(5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2), a (2d), a (3) és a (10) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a természetes személy ingatlanhasználókat, illetve társasházakat és lakásszövetkezeteket.
 
 (5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
 

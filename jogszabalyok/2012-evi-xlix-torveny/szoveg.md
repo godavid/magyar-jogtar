@@ -16,9 +16,11 @@ a fordított adózás mezőgazdasági szektorra történő kiterjesztésével ka
 
 #### 3. Záró rendelkezések
 
-8. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2012. július 1-jén lép hatályba, és 2014. július 2-án hatályát veszti.
+8. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2012. július 1-jén lép hatályba.
 
-(2) A 4. § és a 7. § 2014. július 1-jén lép hatályba.
+(2) A 4. § és a 7. § 2019. január 1-jén lép hatályba.
+
+(3) Ez a törvény 2019. január 2-án hatályát veszti.
 
 9. § Ez a törvény a közös hozzáadottértékadó-rendszerről szóló 2006. november 28-i 2006/112/EK tanácsi irányelv 395. cikkének való megfelelést szolgálja.
 

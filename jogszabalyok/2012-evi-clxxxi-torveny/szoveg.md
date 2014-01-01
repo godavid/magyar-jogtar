@@ -124,13 +124,13 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (3) Az európai elfogatóparancsnak az Európai Unió egy vagy több hivatalos nyelvén készült fordításának egy elektronikus példánya vagy digitalizált képe is elhelyezhető a CS.SIS-ben.
 
-(4) A bíróság az (1) bekezdés szerinti elfogatóparancsot a figyelmeztető jelzés elhelyezésének kezdeményezése céljából elektronikus úton megküldi a körözés elrendelésére illetékes rendőri szervnek.
+(4) A bíróság az (1) bekezdés szerinti elfogatóparancsot a figyelmeztető jelzés elhelyezésének kezdeményezése céljából rögzíti a körözési nyilvántartási rendszerről, valamint a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözési nyilvántartási rendszerben.
 
-(5) A (4) bekezdés szerinti rendőri szerv a körözési információs rendszer útján kezdeményezi a figyelmeztető jelzés elhelyezését. Ennek keretében a 12. § szerinti adatokat, a (2)–(3) bekezdés szerinti kiegészítő adatokat az NS.CP-n keresztül, a 14–15. § szerinti kiegészítő információkat közvetlenül megküldi a SIRENE Irodának a figyelmeztető jelzés és a kiegészítő adat CS.SIS-be történő elhelyezése, valamint a kiegészítő információknak a többi SIRENE Iroda felé történő megküldése céljából.
+(5) A (4) bekezdés szerinti körözési nyilvántartási rendszert működtető szerv a körözési nyilvántartási rendszer útján kezdeményezi a figyelmeztető jelzés elhelyezését. Ennek keretében a 12. § szerinti adatokat, a (2)–(3) bekezdés szerinti kiegészítő adatokat az NS.CP-n keresztül, a 14–15. § szerinti kiegészítő információkat közvetlenül megküldi a SIRENE Irodának a figyelmeztető jelzés és a kiegészítő adat CS.SIS-be történő elhelyezése, valamint a kiegészítő információknak a többi SIRENE Iroda felé történő megküldése céljából.
 
 (6) A SIRENE Iroda az adatok ellenőrzését követően elhelyezi a figyelmeztető jelzést és a kiegészítő adatot, valamint továbbítja a kiegészítő információkat a többi SIRENE Iroda felé.
 
-7. § (1) A rendőrség, valamint a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége a körözési információs rendszer útján figyelmeztető jelzést és kiegészítő adatokat helyez el a CS.SIS-ben arról a személyről, illetve figyelmeztető jelzést arról a közúti közlekedésről szóló 1988. évi I. törvény 2. § (1) bekezdés b) pontja szerinti járműről – ideértve a 10. § (1) bekezdés c) pontja szerinti pótkocsit és lakókocsit is –, úszólétesítményről, légijárműről vagy konténerről, akivel vagy amellyel kapcsolatban rejtett ellenőrzést rendelt el.
+7. § (1) A rendőrség, valamint a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége a körözési nyilvántartási rendszer útján figyelmeztető jelzést és kiegészítő adatokat helyez el a CS.SIS-ben arról a személyről, illetve figyelmeztető jelzést arról a közúti közlekedésről szóló 1988. évi I. törvény 2. § (1) bekezdés b) pontja szerinti járműről – ideértve a 10. § (1) bekezdés c) pontja szerinti pótkocsit és lakókocsit is –, úszólétesítményről, légijárműről vagy konténerről, akivel vagy amellyel kapcsolatban rejtett ellenőrzést rendelt el.
 
 (2) Az (1) bekezdés szerinti figyelmeztető jelzés és kiegészítő adatok elhelyezésére abban az esetben van lehetőség, ha megalapozottan feltehető, hogy az érintett az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő), követ el, vagy okkal feltételezhető – különösen az általa elkövetett múltbeli bűncselekmények alapján –, hogy ilyen bűncselekményt követ el a jövőben is a SIS II-t alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő.
 
@@ -140,9 +140,9 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (5) A Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége az (1) bekezdés szerinti adatokat elektronikus úton továbbítja a körözési információs rendszerbe.
 
-8. § (1) Ha a körözést folytató rendőri szerv a körözés tényét a nyilvántartásba bejegyezte, a körözési információs rendszert működtető központi rendőri szerv haladéktalanul elhelyezi a figyelmeztető jelzést, valamint a kiegészítő adatot a CS.SIS-ben arról a személyről,
+8. § (1) Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést, valamint a kiegészítő adatot a CS.SIS-ben arról a személyről,
 
-- a) akit a személy- és tárgykörözésről szóló törvény szerint eltűnt személynek kell tekinteni,
+- a) akit eltűnés miatt köröznek,
 - b) akit a büntetőeljárásban terheltként vagy tanúként kívánnak idézni, vagy akinek büntetőeljárásban okiratot kívánnak kézbesíteni, de lakó- vagy tartózkodási helye ismeretlen, vagy
 - c) aki szabadságvesztés büntetésének letöltését vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg és emiatt tartózkodási helyének megállapítása érdekében körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn.
 
@@ -152,7 +152,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 - b) a személyt védelem alá kell helyezni mások biztonsága érdekében, vagy
 - c) a személyt nem kell védelem alá helyezni.
 
-(3) A bíróság – ideértve a büntetés-végrehajtási bírót is – és az ügyészség az (1) bekezdés b) és c) pontja szerinti, általa hozott körözést elrendelő határozatot elektronikus úton megküldi a körözést folytató rendőri szervnek.
+(3) A bíróság – ideértve a büntetés-végrehajtási bírót is – és az ügyészség az (1) bekezdés b) és c) pontja szerinti, általa hozott körözést elrendelő határozatot elektronikus úton rögzíti a körözési nyilvántartási rendszerben.
 
 9. § (1) Az idegenrendészeti hatóság figyelmeztető jelzést és kiegészítő adatot helyez el a CS.SIS-ben a harmadik országbeli állampolgárra vonatkozóan a SIS II Rendelet 24. cikk (2) bekezdésében és 26. cikkében meghatározott esetekben.
 
@@ -160,7 +160,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (3) A SIS II Rendelet 30. cikkében meghatározott esetben a figyelmeztető jelzés elhelyezését elrendelő hatóság vagy szerv a SIRENE Iroda értesítését vagy a tudomásszerzést követően az (1) bekezdés szerinti figyelmeztető jelzést haladéktalanul törli.
 
-10. § (1) Ha a körözést folytató rendőri szerv a körözés tényét a nyilvántartásba bejegyezte, a körözési információs rendszert működtető központi rendőri szerv haladéktalanul elhelyezi a figyelmeztető jelzést a CS.SIS-ben a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött alábbi tárgyakról:
+10. § (1) Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést a CS.SIS-ben a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött alábbi tárgyakról:
 
 - a) 50 cm3-t meghaladó hengerűrtartalmú gépjármű,
 - b) úszólétesítmény, valamint légijármű,
@@ -172,7 +172,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
   - ga) úti okmány, személyazonosító igazolvány, tartózkodásra jogosító okmány, vezetői engedély, valamint
   - gb) gépjármű hatósági jelzése és forgalmi engedélye.
 
-(2) Ha az érintett személy a külföldi kiállítású okmányai elvesztéséről, eltulajdonításáról nem a rendőrségen tesz bejelentést, a bejelentést fogadó hatóság haladéktalanul értesíti a rendőrséget a körözés elrendelése érdekében.
+(2) Ha az érintett személy a külföldi kiállítású okmányai elvesztéséről, eltulajdonításáról nem a rendőrségen tesz bejelentést, a bejelentést fogadó hatóság haladéktalanul értesíti a rendőrséget.
 
 11. § (1) Ha az idegenrendészeti hatóság vagy a menekültügyi hatóság a központi idegenrendészeti nyilvántartásba erre irányuló bejegyzést helyezett el, a központi idegenrendészeti nyilvántartás adatkezelő szerve haladéktalanul továbbítja a CS.SIS-be az alábbi tárgyak adatait a lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából:
 
@@ -200,9 +200,9 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (6) Az (1)–(4) bekezdésben meghatározott érvénytelenített okmányokról és azok hatósági jelzéséről – ide nem értve az elvesztés vagy eltulajdonítás miatt történő érvénytelenítést – akkor kell a SIS II-ben figyelmeztető jelzést elhelyezni, ha hivatalból indult eljárásban került sor annak érvénytelenítésére és az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
 
-(7) Ha a körözést folytató rendőri szerv a 10. § (1) bekezdés a) vagy c) pontja szerinti járműről olyan bejegyzést helyez el a körözési információs rendszerbe, amelynek adattartalma kiterjed az állandó rendszámtáblára is, az állandó rendszámtáblára külön nem kell elhelyezni (4) bekezdés a) pontja szerinti figyelmeztető jelzést.
+(7) Ha a körözési eljárást lefolytató szerv a 10. § (1) bekezdés a) vagy c) pontja szerinti járműről olyan bejegyzést helyez el a körözési nyilvántartási rendszerbe, amelynek adattartalma kiterjed az állandó rendszámtáblára is, az állandó rendszámtáblára külön nem kell elhelyezni (4) bekezdés a) pontja szerinti figyelmeztető jelzést.
 
-(8) Az (1)–(4) bekezdés szerinti tárgy lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából elrendelt körözéséről, a körözést folytató rendőri szerv elektronikus úton értesíti a figyelmeztető jelzés elhelyezésére hatáskörrel rendelkező központi idegenrendészeti nyilvántartás adatkezelő szervet, személyiadat- és lakcímnyilvántartást kezelő központi szervet, központi útiokmány-nyilvántartó szervet vagy központi közúti közlekedési nyilvántartó szervet az okmány vagy hatósági jelzés érvénytelenítésének a központi nyilvántartásba történő bejegyzése és a figyelmeztető jelzés elhelyezése céljából.
+(8) Az (1)–(4) bekezdés szerinti tárgy lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából elrendelt körözéséről, a körözési eljárást lefolytató szerv elektronikus úton értesíti a figyelmeztető jelzés elhelyezésére hatáskörrel rendelkező központi idegenrendészeti nyilvántartás adatkezelő szervet, személyiadat- és lakcímnyilvántartást kezelő központi szervet, központi útiokmány-nyilvántartó szervet vagy központi közúti közlekedési nyilvántartó szervet az okmány vagy hatósági jelzés érvénytelenítésének a központi nyilvántartásba történő bejegyzése és a figyelmeztető jelzés elhelyezése céljából.
 
 12. § A személyekre vonatkozó figyelmeztető jelzés és kiegészítő adat legfeljebb a következő adatokat tartalmazhatja:
 
@@ -233,7 +233,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 - b) a külföldre utazásról szóló törvény szerinti útiokmány-nyilvántartásban szereplő adatok közül az arra vonatkozó adat, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal, valamint az úti okmány birtokosának családi és utóneve – ideértve a születési családi és utónevet is –, arcképmása, saját kezű aláírása, az úti okmány okmányazonosítója, kiadásának, cseréjének, visszavonásának, bevonásának, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, megtalálásának, megkerülésének ténye,
 - c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti idegenrendészeti résznyilvántartásokban szereplő valamennyi adat,
 - d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti résznyilvántartásokban szereplő valamennyi adat,
-- e) a körözési nyilvántartásból a nyilvántartásban szereplő valamennyi adat,
+- e) a körözési nyilvántartási rendszerből a nyilvántartásban szereplő valamennyi adat,
 - f) az európai vagy a nemzetközi elfogatóparancsot kibocsátó bíróságtól a 12. §-ban meghatározott adatok, illetve feltételezések, valamint a 14–15. §-ban meghatározott adatok,
 - g) a bűnügyi nyilvántartási rendszerről szóló törvény szerinti bűntettesek nyilvántartásában, a büntetőeljárás hatálya alatt állók nyilvántartásában, a kényszerintézkedés hatálya alatt állók nyilvántartásában, a külföldre utazási korlátozás hatálya alatt álló személyek nyilvántartásában, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő valamennyi adat,
 - h) a büntetés-végrehajtási szervezetről szóló törvény szerinti fogvatartotti nyilvántartásban szereplő adatok közül a fogvatartott személyazonosító adatai, fényképe és lakcíme, a fogva tartás jogalapja, helye, a szabadulással összefüggő adatok,
@@ -363,7 +363,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 32. § A SIS II adatokat kezelő szervek csak az e törvényben meghatározott figyelmeztető jelzéseket kezelhetik, valamennyi adatkezelésükért felelősséggel tartoznak és őket terheli annak bizonyítása, hogy adatkezelésük jogszerű volt.
 
-33. § A körözést folytató rendőri szerv, valamint a körözési információs rendszert működtető központi rendőri szerv kizárólag az általa elhelyezendő figyelmeztető jelzés, illetve kiegészítő adat adattartalmának beszerzése, illetve technikai minőségellenőrzése céljából, az ahhoz szükséges mértékben – az adatigénylés céljának meghatározása mellett – jogosult a 16. § a)–d), illetve f)–g) pontja szerinti nyilvántartásokból az ujjnyomatokra vonatkozó, valamint a 16. § i)–l) pontja szerinti adatok átvételére.
+33. § A körözési eljárást lefolytató szerv, valamint a körözési nyilvántartási rendszert működtető szerv kizárólag az általa elhelyezendő figyelmeztető jelzés, illetve kiegészítő adat adattartalmának beszerzése, illetve technikai minőségellenőrzése céljából, az ahhoz szükséges mértékben – az adatigénylés céljának meghatározása mellett – jogosult a 16. § a)–d), illetve f)–g) pontja szerinti nyilvántartásokból az ujjnyomatokra vonatkozó, valamint a 16. § i)–l) pontja szerinti adatok átvételére.
 
 #### 16. Nemzeti adatvédelmi ellenőrző szerv
 

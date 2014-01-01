@@ -94,7 +94,7 @@ a befektetési alapkezelőkről és a kollektív befektetési formákról
 - 60. saját tőke: az Szt.-ben meghatározott fogalom;
 - 61. szabályozott piac: a Tpt.-ben meghatározott fogalom;
 - 62. származtatott ügylet: a Tpt.-ben meghatározott fogalom;
-- 63. szavatoló tőke: a Hpt. 5. számú melléklete szerint meghatározott fogalom;
+- 63. szavatoló tőke: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendelet 25–91. cikk szerint meghatározott fogalom;
 - 64. szoros kapcsolat:
   - a) két vagy több természetes vagy jogi személy között fennálló, ellenőrző befolyásnak vagy részesedési viszonynak minősülő kapcsolat, azzal, hogy ha egy személy olyan személlyel áll ellenőrző befolyásnak minősülő kapcsolatban, amely maga is ellenőrző befolyást gyakorol egy harmadik személyre, akkor e harmadik személyt is a legfelső szinten lévővel szoros kapcsolatban állónak kell tekinteni, illetve
   - b) két vagy több személy között fennálló kapcsolat, amennyiben ezen személyek ugyanazon személyek ellenőrző befolyása alatt állnak;
@@ -261,8 +261,7 @@ a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenyke
 
 - a) olyan személyes ügylet végrehajtása, amely
   - aa) bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg,
-  - ab) üzleti titok, értékpapírtitok, biztosítási titok, banktitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
-  - ac) ügylet ellentétben áll a befektetési alapkezelő e törvényben vagy a Bszt.-ben meghatározott kötelezettségeivel;
+  - ab) üzleti titok, értékpapírtitok, biztosítási titok, fizetési titok, banktitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
 - b) harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó tanácsadás vagy harmadik személy bíztatása arra, hogy pénzügyi eszközökre vonatkozó olyan ügyletbe kezdjen, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá az a) pont vagy a Bszt. 77. §-ának (1)–(2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne;
 - c) a Tpt. 203. § (1) bekezdésének b) pontjában meghatározott esetnek nem minősülő információ vagy vélemény harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó módon való közlése, amennyiben az érintett személy tisztában van vagy tőle elvárható gondossággal tisztában kellene lennie, hogy e közlés eredményeként a harmadik személy
   - ca) pénzügyi eszközre vonatkozóan olyan ügyletbe kezdene, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá e bekezdés a) pontja vagy a Bszt. 77. §-ának (1)–(2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne vagy
@@ -1961,7 +1960,7 @@ részére,
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
-(3) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
+(3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg:
 
 - a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat,
 - b) az e törvény 131. § (6) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletes szabályokat.

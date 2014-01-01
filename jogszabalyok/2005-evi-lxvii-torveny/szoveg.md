@@ -14,7 +14,9 @@ a budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti 
 
 5. § (1) Az Országgyűlés felhívja a Nemzeti Fejlesztési Ügynökség elnökét, és Budapest Főváros főpolgármesterét, hogy a Kormány jóváhagyásával megkössék az 1. §-ban meghatározott beruházás közös finanszírozásáról a Magyar Állam és Budapest Főváros Önkormányzata között létrejött szerződés módosításáról szóló szerződést.
 
-(2) Az állami támogatás átlátható, célszerű és hatékony felhasználása érdekében a szerződés módosítása során biztosítani kell – a 2. § (2) bekezdésében és a 4. §-ában foglaltakon túlmenően – az európai uniós forrásból finanszírozott Közlekedési Operatív Program projektjeivel kapcsolatos támogatási szerződések előírásainak megfelelő alkalmazását.
+(1a) Az (1) bekezdésben meghatározott szerződés tekintetében az államot a közlekedésért felelős miniszter képviseli. Az (1) bekezdésben meghatározott szerződés módosításához a Kormány jóváhagyása szükséges.
+
+(2) Az állami támogatás átlátható, célszerű és hatékony felhasználása érdekében a szerződés módosítása során biztosítani kell – a 2. § (2) bekezdésében és a 4. §-ában foglaltakon túlmenően – az európai uniós forrásból finanszírozott Közlekedés Operatív Program projektjeivel kapcsolatos támogatási szerződések előírásainak megfelelő alkalmazását.
 
 (3) A (2) bekezdésben foglaltak teljesülése érdekében a szerződésmódosítás során biztosítani kell
 

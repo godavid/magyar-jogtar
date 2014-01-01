@@ -12,48 +12,52 @@ az Országos Területrendezési Tervről
 
 2. § E törvény alkalmazásában:
 
-- 1. ásványi nyersanyag-gazdálkodási terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelyben az állam kizárólagos tulajdonát képező, kutatással lehatárolt, de bányatelekkel le nem fedett, nyilvántartott ásványi nyersanyagvagyon (szénhidrogének, fémek, lignit és barnakőszén, ásványbányászati és építőipari nyersanyagok) területek találhatók,
-- 2. együtt tervezhető térség: országos területrendezési tervben megállapított és kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a Budapesti Agglomeráció kivételével az agglomerációk, a Balaton Kiemelt Üdülőkörzet kivételével az agglomerálódó térségek, valamint a nagyvárosi település-együttesek tartoznak,
-- 3. építmények által igénybe vett térség: az országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a műszaki infrastruktúra, valamint a nem települési területekhez és települési funkciókhoz kapcsolódó egyedi építmények területe és szükséges védőterületük tartoznak,
-- 4. erdőtelepítésre alkalmas terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe azok a többnyire gyenge termőképességű mezőgazdasági területek tartoznak, amelyeknél gazdasági, vidékfejlesztési vagy környezetvédelmi szempontok indokolják az erdők létesítését és azt természetvédelmi vagy termőhelyi okok nem zárják ki,
-- 5. erdőgazdálkodási térség: országos, kiemelt térségi és megyei területrendezési tervekben megállapított területfelhasználási kategória, amelyben olyan meglévő erdőterületek, valamint erdőtelepítésre alkalmas területek találhatók, amelyek erdőgazdálkodásra való alkalmassága termőhelyi viszonyaik alapján kedvező és az erdőtelepítés környezetvédelmi szempontból is szükséges vagy indokolt,
-- 6. erőmű: egy telephelyen lévő 50 MW és annál nagyobb energiaátalakító építmény,
-- 7. földtani veszélyforrás területe: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a lejtős tömegmozgásokkal, egyéb kedvezőtlen mérnökgeológiai adottságokkal és építésföldtani kockázatokkal jellemezhető, valamint a magas természetes háttérsugárzással, az emberi tevékenység hatására jelentkező vagy felerősödő kedvezőtlen földtani folyamatokkal és a vízjárással összefüggő földtani veszélyek által érintett területek tartoznak,
-- 8. hagyományosan vidéki települési térség: kiemelt térségi és megyei területrendezési tervekben megállapított területfelhasználási kategória, amelybe – ide nem értve a városokat – a 15 fő/ha-nál nem nagyobb belterületi laksűrűségű települések települési területei tartoznak,
-- 9. honvédelmi terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amely a Magyar Honvédség alapfeladatai rendeltetésszerű, szakszerű és jogszerű ellátásához szükséges objektumok elhelyezésére, illetve tevékenységek végzésére szolgál,
-- 10. kiegyenlítő intézkedés: a magterület és az ökológiai folyosó állapotára, egységességére, az élőhelyek közötti ökológiai kapcsolatokra negatív hatást gyakorló tevékenység esetén a várható kedvezőtlen hatással arányos, az adott magterületen, ökológiai folyosó területén vagy más természeti területen elvégzendő helyreállítási vagy fejlesztési feladat,
-- 11. kiemelt fontosságú meglévő honvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelyben Magyarország védelmi képességeit alapvetően meghatározó, vagy a NATO-tagságból eredő, valamint a nemzetközi szerződéseiben vállalt kötelességei teljesítésére hivatott objektumok elhelyezésére szolgáló területek találhatók,
-- 12. kiemelt térség és a megye szerkezeti terve: a térségi területfelhasználás rendszerét, a települések térbeli rendjét, az országos és térségi műszaki infrastruktúra-hálózatok és építmények helyét, valamint ezek összefüggéseit a kiemelt térség és a megye területrendezési tervében meghatározó terv,
-- 13. kiváló termőhelyi adottságú erdőterület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe az őshonos fafajokból álló erdőtársulások fenntartására leginkább alkalmas és az erdő hármas funkcióját – környezetvédelmi, gazdasági, társadalmi – egymással összhangban a legmagasabb szinten biztosítani képes erdőterületek tartoznak,
-- 14. kiváló termőhelyi adottságú szántóterület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe az agroökológiai adottságai alapján kimagasló agrárpotenciállal rendelkező, ugyanakkor környezeti szempontból a legkevésbé érzékeny, ezért mezőgazdasági árutermelésre legalkalmasabb szántóterületek tartoznak,
-- 15. kulturális örökség szempontjából kiemelten kezelendő terület: országos területrendezési tervben megállapított övezet, amelyben a világörökség és világörökség-várományos területek, valamint a történeti települési területek találhatók,
-- 16. magterület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan természetes vagy természetközeli élőhelyek tartoznak, amelyek az adott területre jellemző természetes élővilág fennmaradását és életkörülményeit hosszú távon biztosítani képesek és számos védett vagy közösségi jelentőségű fajnak adnak otthont,
-- 17. mezőgazdasági térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelyben elsősorban mezőgazdasági művelés alatt álló területek találhatók,
-- 18. az ország szerkezeti terve: az országos területfelhasználás rendszerét, a települések térbeli rendjét, az országos műszaki infrastruktúra-hálózatok és egyedi építmények térbeli rendjét, valamint ezek összefüggéseit az ország területrendezési tervében meghatározó terv,
-- 19. országos jelentőségű tájképvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti vagy kulturális örökség adottságai alapján a kilátás-rálátás szempontjából védendő tájképpel, illetve tájképi elemmel rendelkező területek, valamint a védett történeti tájjá nyilvánított területek tartoznak,
-- 20. országos komplex tájrehabilitációt igénylő terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a felhagyott ipari termelés és az azt kiszolgáló bányászat együttes jelenléte következményeképp kialakult, maradandóan megváltozott és károsodott összefüggő területek tartoznak,
-- 21. országos ökológiai hálózat: országos területrendezési tervben megállapított övezet, amelybe az országos jelentőségű természetes, illetve természetközeli területek és az azok között kapcsolatot teremtő ökológiai folyosók egységes, összefüggő rendszere tartozik, és amelynek részei a magterületek, az ökológiai folyosók és a pufferterületek,
-- 22. ökológiai folyosó: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan területek (többnyire lineáris kiterjedésű, folytonos vagy megszakított élőhelyek, élőhelysávok, élőhelymozaikok, élőhelytöredékek, élőhelyláncolatok) tartoznak, amelyek döntő részben természetes eredetűek és amelyek alkalmasak az ökológiai hálózathoz tartozó egyéb élőhelyek (magterületek, pufferterületek) közötti biológiai kapcsolatok biztosítására,
-- 23. pufferterület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan rendeltetésű területek tartoznak, melyek megakadályozzák vagy mérséklik azoknak a tevékenységeknek a negatív hatását, amelyek a magterületek, illetve az ökológiai folyosók állapotát kedvezőtlenül befolyásolhatják vagy rendeltetésükkel ellentétesek,
-- 24. rendszeresen belvízjárta terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a sík vidéki sík vagy enyhe lejtésviszonyokkal rendelkező területek azon mélyebb, lefolyástalan részei tartoznak, ahol a helyi csapadék egy része átmeneti vízfelesleg formájában, nagyobb mennyiségben és gyakorisággal összegyűlik,
-- 25. széleróziónak kitett terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelyben a szélerózió káros hatásával szemben kevésbé ellenálló fizikai talajféleségekkel (különösen a homok, homokos vályog, tőzeg, kotu) jellemezhető területek találhatók,
-- 25a. szén-dioxid-szállítóvezeték: a szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték, beleértve a kapcsolódó nyomásfokozó állomásokat is,
-- 26. távvezeték felhasítási pontja: egy meglévő átviteli hálózati távvezeték azon pontja, ahová egy új átviteli hálózati távvezetékszakasz olyan módon kapcsolódik, hogy a meglévő távvezetéki kapcsolatot megbontja és annak két eredeti végpontja között a közvetlen villamos kapcsolat megváltozik,
-- 27. települési terület: a település belterülete, valamint a beépítésre szánt területek összessége,
-- 28. települési térség: országos területrendezési tervben megállapított területfelhasználási kategória, amelybe a települési területek közül a település belterülete, valamint az ahhoz csatlakozó beépítésre szánt területek tartoznak,
-- 29. településkép-védelmi terület: a településrendezés eszközeiben megállapított olyan terület, melynek szerkezete, karaktere, utcaképe, sziluettje (külső településképe), illetve a táji környezettel való látványbeli kapcsolata (kilátás, rálátás) megőrzésre, védelemre érdemes érték,
-- 30. térség: a területrendezés szempontjából megkülönböztetett területi egység, amelyre vonatkozóan a területrendezési terv előírásokat határoz meg,
-- 31. térségi övezet: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, sajátos jellemzőkkel rendelkező – a térségi területfelhasználási kategóriáktól függetlenül lehatárolt – területi egység, amelyben az e törvényben, illetve külön jogszabályokban meghatározott előírásokat kell alkalmazni,
-- 32. térségi hulladéklerakó hely: a vegyes összetételű, nem veszélyes hulladék lerakására szolgáló hulladéklerakó és a kiszolgáló építményeinek összessége,
-- 33. térségi jelentőségű tájképvédelmi terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelyben a természeti vagy kulturális örökség adottságai alapján a kilátás-rálátás szempontjából védendő tájképpel, illetve tájképi elemmel rendelkező területek, valamint a védett történeti tájjá nyilvánított területek találhatók,
-- 34. térségi komplex tájrehabilitációt igénylő terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a nagyobb területi kiterjedésű vagy kisebb területű, de sűrűn előforduló, esetenként több települést érintő, a felhagyott hagyományos ipari termelés és bányászat okozta tájsebek, az anyagnyerő helyek, illetve a hulladéklerakók területei tartoznak,
-- 35. térségi területfelhasználási kategória: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, a térségben jellemző területfelhasználásnak megfelelően lehatárolt területi egység,
-- 36. történeti települési terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a védendő területegységek – különösen a történeti településközpontok, a történeti kertek, a jelentős régészeti lelőhelyek, az országos és helyi védelem alatt álló területek, valamint ezek környezete, védőövezetei – tartoznak,
-- 37. városias települési térség: kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a városok települési területe, továbbá azok a települési területek tartoznak, ahol a belterületi laksűrűség 15 fő/ha fölötti,
-- 38. vegyes területfelhasználású térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe mozaikos szerkezetű erdőgazdálkodási, mezőgazdasági és települési térségek tartoznak,
-- 39. világörökség és világörökség-várományos terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a világ kulturális és természeti örökségének védelméről szóló 1972. évi UNESCO Egyezmény szerinti Világörökségi Listára felvett területek, valamint a világörökségi helyszínek szakmai feltételeinek megfelelő azon területek tartoznak, amelyeket Magyarország, mint részes állam nevében jogszabály által felhatalmazott testület kiválasztott arra, hogy a Világörökségi Listára jelöltek legyenek,
-- 40. vízeróziónak kitett terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelyben az 5%-nál nagyobb lejtésű és a vízerózió káros hatásával szemben kevésbé ellenálló talajtulajdonságokkal jellemezhető területek találhatók,
-- 41. vízgazdálkodási térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe egyes folyóvizek, egyes állóvizek, egyes vízfolyások és egyes csatornák medre és parti sávja tartozik.
+- 1. ásványi nyersanyagvagyon-terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelyben a megállapított bányatelekkel lefedett és bányatelekkel le nem fedett, az állam kizárólagos tulajdonát képező, az Országos Ásványanyag Nyilvántartás szerint nyilvántartott ásványi nyersanyagvagyon területei találhatók,
+- 2. egyedi építmények: a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerint a szerkezeti tervben megállapított és alkalmazott építmények,
+- 3. elsőrendű árvízvédelmi fővédvonal: három vagy több települést érintő, fővédelmi művé nyilvánított árvízvédelmi töltés, továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés,
+- 4. építmények által igénybe vett térség: az országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a műszaki infrastruktúra-hálózatok és egyedi építmények tartoznak,
+- 5. erdőtelepítésre javasolt terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe azok a többnyire gyenge termőképességű mezőgazdasági területek tartoznak, amelyeknél gazdasági, vidékfejlesztési vagy környezetvédelmi szempontok indokolják az erdők létesítését, és azt természetvédelmi vagy termőhelyi okok nem zárják ki,
+- 6. erdőgazdálkodási térség: országos, kiemelt térségi és megyei területrendezési tervekben megállapított területfelhasználási kategória, amelybe olyan meglévő erdőterületek és erdőtelepítésre alkalmas területek tartoznak, amelyeknek erdőgazdálkodásra való alkalmassága termőhelyi viszonyaik alapján kedvező és az erdőtelepítés környezetvédelmi szempontból is szükséges vagy indokolt,
+- 7. erőmű: a villamos energiáról szóló törvényben meghatározott, egy telephelyen lévő – szélerőműpark esetében egy csatlakozási pontnál jelentkező – 50 MW és annál nagyobb villamosenergia-termelő építmény,
+- 8. földtani veszélyforrás területe: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a lejtős tömegmozgásokkal, egyéb kedvezőtlen mérnökgeológiai adottságokkal és építésföldtani kockázatokkal jellemezhető területek, továbbá az emberi tevékenység hatására jelentkező vagy felerősödő kedvezőtlen földtani folyamatokkal és vízjárással összefüggő földtani veszélyek által érintett területek tartoznak,
+- 9. határmetszés: közút, vasút vagy vízi út magyar államhatáron történő átlépési pontja,
+- 10. honvédelmi terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amely a Magyar Honvédség alapfeladatai rendeltetésszerű, szakszerű és jogszerű ellátásához szükséges építmények elhelyezésére vagy ilyen tevékenységek végzésére szolgál,
+- 11. jó termőhelyi adottságú szántóterület övezete: az országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe jó növénytermesztési feltételekkel rendelkező szántóterületek tartoznak,
+- 12. kiemelt fontosságú honvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelyben a Magyarország védelmi képességeit alapvetően meghatározó vagy a NATO-tagságból eredő, valamint a nemzetközi szerződéseiben vállalt kötelességei teljesítéséhez szükséges építmények elhelyezésére vagy ilyen tevékenységek végzésére szolgáló területek találhatók,
+- 13. a kiemelt térség és a megye szerkezeti terve: a térségi területfelhasználás rendszerét, a települések térbeli rendjét, az országos és térségi műszaki infrastruktúra-hálózatok és építmények helyét, valamint ezek összefüggéseit a kiemelt térség és a megye területrendezési tervében meghatározó terv,
+- 14. kiserőmű: olyan, a villamos energiáról szóló törvényben meghatározott kiserőmű, amelynek névleges teljesítménye az 5 MW-ot eléri, de az 50 MW-ot nem haladja meg, ideértve a szélerőműparkot is,
+- 15. kiváló termőhelyi adottságú erdőterület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe az őshonos fafajokból álló erdőtársulások fenntartására leginkább alkalmas és az erdő hármas rendeltetését – védelmi, gazdasági, közjóléti – egymással összhangban a legmagasabb szinten biztosítani képes erdőterületek tartoznak,
+- 16. kiváló termőhelyi adottságú szántóterület: az országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe kiváló növénytermesztési feltételekkel rendelkező szántóterületek tartoznak,
+- 17. magterület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan természetes vagy természetközeli élőhelyek tartoznak, amelyek az adott területre jellemző természetes élővilág fennmaradását és életkörülményeit hosszú távon biztosítani képesek és számos védett vagy közösségi jelentőségű fajnak adnak otthont,
+- 18. mezőgazdasági térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelyben elsősorban mezőgazdasági művelés alatt álló területek találhatók,
+- 19. műszaki infrastruktúra-hálózat: a területrendezési tervekben megállapított és alkalmazott nyomvonal jellegű építmények összessége, amelybe
+  - a) a közlekedési infrastruktúra-hálózatok elemei, így a gyorsforgalmi út, a főút, a mellékút, az országos törzshálózati, regionális és egyéb vasúti pálya, valamint a kerékpárút,
+  - b) az energetikai infrastruktúra-hálózatok elemei, így a villamosenergia-átviteli és elosztó hálózat távvezetékelemei, a szén-dioxid-szállítóvezeték, a földgázszállító vezeték, a kőolajszállító vezeték, valamint a termékvezeték,
+  - c) a vízi létesítmények közül az országos és térségi jelentőségű csatornák, valamint az elsőrendű és másodrendű árvízvédelmi fővédvonal tartozik.
+- 20. az ország szerkezeti terve: az országos területfelhasználás rendszerét, a települések térbeli rendjét, az országos műszaki infrastruktúra-hálózatok és egyedi építmények térbeli rendjét, valamint ezek összefüggéseit az ország területrendezési tervében meghatározó terv,
+- 21. országos jelentőségű csatorna: olyan csatorna, amelyben az átvezethető vízmennyiség az 1 millió m3/évet meghaladja,
+- 22. országos jelentőségű tájképvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti vagy kulturális örökség adottságai alapján a kilátás-rálátás szempontjából védendő tájképpel, illetve tájképi elemmel rendelkező területek, valamint a védett történeti tájjá nyilvánított területek tartoznak,
+- 23. országos kerékpárút-törzshálózat: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott műszaki infrastruktúra-hálózat, amelybe az országos jelentőségű turisztikai célpontokat érintő, hálózatként kialakított kerékpáros útvonalak tartoznak,
+- 24. országos ökológiai hálózat: országos területrendezési tervben megállapított övezet, amelybe az országos jelentőségű természetes és természetközeli területek, valamint az azok között kapcsolatot teremtő ökológiai folyosók egységes, összefüggő rendszere tartozik, és amelynek részei a magterületek, az ökológiai folyosók és a pufferterületek,
+- 25. országos vízminőség-védelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervben alkalmazott övezet, amelybe a felszíni és felszín alatti vizek, az emberi fogyasztásra, használatra szánt vizek és a vízkivételi művek, továbbá a halak életfeltételeinek biztosítása érdekében kijelölt vizek megóvását szolgáló védelem alatt álló területek tartoznak,
+- 26. ökológiai folyosó: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan területek – többnyire lineáris kiterjedésű, folytonos vagy megszakított élőhelyek, élőhelysávok, élőhelymozaikok, élőhelytöredékek, élőhelyláncolatok – tartoznak, amelyek döntő részben természetes eredetűek, és amelyek alkalmasak az ökológiai hálózathoz tartozó egyéb élőhelyek (magterületek, pufferterületek) közötti biológiai kapcsolatok biztosítására,
+- 27. pufferterület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan rendeltetésű területek tartoznak, amelyek megakadályozzák vagy mérséklik azoknak a tevékenységeknek a negatív hatását, amelyek a magterületek és az ökológiai folyosók állapotát kedvezőtlenül befolyásolhatják vagy rendeltetésükkel ellentétesek,
+- 28. rendszeresen belvízjárta terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a sík vidéki vagy enyhe lejtésviszonyokkal rendelkező területek azon mélyebb részei tartoznak, ahol a helyi csapadék egy része átmeneti vízfelesleg formájában, nagyobb mennyiségben és gyakorisággal összegyűlik,
+- 29. szélerőműpark telepítéséhez vizsgálat alá vonható terület: megyei területrendezési tervekben ajánlott övezet, amely azon területeket jelöli, amelyek a szélerőműpark telepítésére a természeti, a táji, a kulturális adottságok és értékek megőrzése mellett, a természeti erőforrások védelme szempontjából a leginkább alkalmasak,
+- 30. szén-dioxid-szállítóvezeték: a szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték, beleértve a kapcsolódó nyomásfokozó állomásokat is,
+- 31. tanyás térség: ajánlott övezet, amelyet egyes kijelölt megyék területrendezési terve tartalmazhat,
+- 32. tájrehabilitációt igénylő terület: a megyei területrendezési tervekben ajánlott övezet, amelybe jelentős területi kiterjedésű, esetenként több települést érintő felhagyott ipari és bányászati üzemi területek, továbbá az ipari és bányászati tevékenység okozta tájsebek – zagytározók, meddőhányók, ipari hulladéklerakók – tartoznak,
+- 33. települési térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a település belterülete, valamint a belterületen kívüli beépített és beépítésre szánt területek tartoznak,
+- 34. térség: a területrendezés szempontjából megkülönböztetett területi egység, amelyre vonatkozóan a területrendezési terv előírásokat határoz meg,
+- 35. térségi övezet: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, sajátos jellemzőkkel rendelkező – a térségi területfelhasználási kategóriáktól függetlenül lehatárolt – területi egység, amelyben az e törvényben és a külön jogszabályokban meghatározott előírásokat kell alkalmazni,
+- 36. térségi árvízi kockázatkezelési terület: megyei területrendezési tervben ajánlott övezet, amelybe azok a területek tartoznak, amelyek árvízvédelmi szempontból egységes kezelést igényelnek, vagy a kockázatkezelés szempontjából elkülöníthetőek,
+- 37. térségi területfelhasználási kategória: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, a térségben jellemző területfelhasználásnak megfelelően lehatárolt területi egység,
+- 38. 10 millió m3-t meghaladó térfogatú, vízkár-elhárítási célú tározási fejlesztési lehetőségek: olyan vízkár-elhárítási célú tározók, amelyek befogadó kapacitása a fejlesztést követően a 10 millió m3-t meghaladja,
+- 39. vegyes területfelhasználású térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, ahol a mezőgazdaságnak és erdőgazdaságnak egyaránt meghatározó szerepe van, és a mezőgazdasági területek és erdőterületek mozaikossága jellemző,
+- 40. veszélyeshulladék-égetőmű: olyan hulladékkezelő létesítmény, amelyben a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek,
+- 41. veszélyeshulladék-lerakó: veszélyes hulladék lerakással történő ártalmatlanítására szolgáló hulladékkezelő létesítmény,
+- 42. világörökségi és világörökségi várományos terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a világ kulturális és természeti örökségének védelméről szóló, az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete Általános Konferenciájának ülésszakán Párizsban, 1972. november 16-án elfogadott egyezmény kihirdetéséről szóló 1985. évi 21. törvényerejű rendelettel kihirdetett, a világ kulturális és természeti örökségének védelméről szóló egyezmény szerinti világörökségi listára felvett területek, valamint a világörökségi helyszínek szakmai feltételeinek megfelelő azon területek tartoznak, amelyeket Magyarország mint részes állam nevében jogszabály által felhatalmazott testület kiválasztott arra, hogy a világörökségi listára jelöltek legyenek,
+- 43. vízgazdálkodási térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe Magyarország felszíni vízrajzi hálózata (vízfolyások és tavak) és parti sávja tartozik.
 
 ### II. Fejezet — AZ ORSZÁGOS TERÜLETRENDEZÉSI TERV
 
@@ -61,25 +65,23 @@ az Országos Területrendezési Tervről
 
 4. § (1) Az ország településein, az egyes térségekben a területfelhasználásra és az építésre vonatkozó szabályokat e törvény rendelkezéseivel összhangban kell kialakítani.
 
-(2) Az ország szerkezeti tervét a törvény M=1:500 000 méretarányú 2. számú melléklete, az országos övezetek határait a törvény M=1:500 000 méretarányú 3. számú melléklete tartalmazza, az alábbiak szerint:
+(2) Az ország szerkezeti tervét M=1:500 000 méretarányban a 2. melléklet, az országos övezetek határait M=1:500 000 méretarányban a 3. melléklet tartalmazza, az alábbiak szerint:
 
-- a) 3/1. számú melléklet az országos ökológiai hálózat övezetéről,
-- b) 3/2. számú melléklet a kiváló termőhelyi adottságú szántóterület övezetéről,
-- c) 3/3. számú melléklet a kiváló termőhelyi adottságú erdőterület övezetéről,
-- d) 3/4. számú melléklet az országos komplex tájrehabilitációt igénylő terület övezetéről,
-- e) 3/5. számú melléklet az országos jelentőségű tájképvédelmi terület övezetéről,
-- f) 3/6. számú melléklet a kulturális örökség szempontjából kiemelten kezelendő terület övezetéről,
-- g) 3/7. számú melléklet a kiemelten érzékeny felszín alatti vízminőség-védelmi terület övezetéről,
-- h) 3/8. számú melléklet a felszíni vizek vízminőség- védelmi vízgyűjtő területének övezetéről,
-- i) 3/9. számú melléklet az ásványi nyersanyag-gazdálkodási terület övezetéről,
-- j) 3/10. számú melléklet az együtt tervezhető térségek övezetéről,
-- k) 3/11. számú melléklet a kiemelt fontosságú meglévő honvédelmi terület övezetéről.
+- a) 3/1. melléklet az országos ökológiai hálózat övezetéről,
+- b) 3/2. melléklet a kiváló termőhelyi adottságú szántóterület övezetéről,
+- c) 3/3. melléklet a jó termőhelyi adottságú szántóterület övezetéről,
+- d) 3/4. melléklet a kiváló termőhelyi adottságú erdőterület övezetéről,
+- e) 3/5. melléklet a tájképvédelmi szempontból kiemelten kezelendő terület övezetéről,
+- f) 3/6. melléklet a világörökségi és világörökségi várományos terület övezetéről,
+- g) 3/7. melléklet az országos vízminőség-védelmi terület övezetéről,
+- h) 3/8. melléklet a nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területének övezetéről,
+- i) 3/9. melléklet a kiemelt fontosságú honvédelmi terület övezetéről.
 
 (3) Az országos területfelhasználási kategóriák területén kiemelt térségi, illetve megyei területfelhasználási kategóriákat, a kiemelt térségi és megyei területfelhasználási kategóriák területén az országos településrendezési és építési követelményekről szóló külön jogszabályban meghatározott települési területfelhasználási egységeket lehet kijelölni.
 
 (4)
 
-(5) Adott térségre vonatkozóan az országos, kiemelt térségi és megyei területfelhasználási kategóriákra vonatkozó szabályok, illetőleg a térségi övezeti szabályok közül az 1. § szerinti adottságok és értékek megőrzése szempontjából szigorúbb előírásokat kell alkalmazni.
+(5) Adott térségre vonatkozóan az országos, kiemelt térségi és megyei területfelhasználási kategóriákra vonatkozó szabályok és a térségi övezeti szabályok közül az 1. § szerinti adottságok és értékek megőrzése szempontjából szigorúbb előírásokat kell alkalmazni.
 
 ### III. Fejezet — AZ ORSZÁG SZERKEZETI TERVÉREVONATKOZÓ SZABÁLYOK
 
@@ -103,9 +105,7 @@ az Országos Területrendezési Tervről
   - aa) erdőgazdálkodási térség,
   - ab) mezőgazdasági térség,
   - ac) vegyes területfelhasználású térség,
-- b) legalább 10 ha területű térségek:
-  - ba) városias települési térség,
-  - bb) hagyományosan vidéki települési térség,
+- b) legalább 10 ha területű települési térség,
 - c) területi korlát nélkül ábrázolt térségek:
   - ca) vízgazdálkodási térség,
   - cb) építmények által igénybe vett térség.
@@ -116,68 +116,71 @@ az Országos Területrendezési Tervről
 
 6. § (1) Az országos területfelhasználási kategóriákon belül a kiemelt térségi és megyei területfelhasználási kategóriák kijelölése során a következő szabályokat kell alkalmazni:
 
-- a) az erdőgazdálkodási térséget legalább 75%-ban erdőgazdálkodási térség kategóriába kell sorolni, a fennmaradó részén – a városi ranggal rendelkező települések kivételével – városias települési térség nem jelölhető ki;
-- b) a mezőgazdasági térséget legalább 75%-ban mezőgazdasági térség kategóriába kell sorolni, a fennmaradó részén – a városi ranggal rendelkező települések kivételével – városias települési térség nem jelölhető ki;
-- c) a vegyes területfelhasználású térséget legalább 75%-ban mezőgazdasági, erdőgazdálkodási vagy vegyes területfelhasználású térség kategóriába kell sorolni, a fennmaradó részén – a városi ranggal rendelkező települések kivételével – városias települési térség nem jelölhető ki;
-- d) a települési térséget legalább 75%-ban városias és hagyományosan vidéki települési térség kategóriába kell sorolni;
-- e) a vízgazdálkodási térséget legalább 90%-ban vízgazdálkodási térség kategóriába kell sorolni, a fennmaradó részen városias települési térség nem jelölhető ki;
+- a) az erdőgazdálkodási térséget legalább 75%-ban erdőgazdálkodási térség kategóriába kell sorolni;
+- b) a mezőgazdasági térséget legalább 75%-ban mezőgazdasági térség kategóriába kell sorolni;
+- c) a vegyes területfelhasználású térséget legalább 75%-ban mezőgazdasági, erdőgazdálkodási vagy vegyes területfelhasználású térség kategóriába kell sorolni;
+- d) a települési térséget legalább 75%-ban települési térség kategóriába kell sorolni;
+- e) a vízgazdálkodási térséget legalább 90%-ban vízgazdálkodási térség kategóriába kell sorolni;
 - f) az építmények által igénybe vett térség más térségi területfelhasználási kategóriába nem sorolható.
 
 (2) A kiemelt térségi és megyei területfelhasználási kategóriákon belül a települési területfelhasználási egységek kijelölése során a következő szabályokat kell alkalmazni:
 
 - a) az erdőgazdálkodási térséget legalább 85%-ban erdőterület területfelhasználási egységbe kell sorolni;
-- b) a mezőgazdasági térséget legalább 85%-ban mezőgazdasági terület területfelhasználási egységbe kell sorolni, a térségben nagyvárosias lakóterület és vegyes terület területfelhasználási egység nem jelölhető ki;
-- c) a vegyes területfelhasználású térséget legalább 85%-ban mezőgazdasági terület vagy erdőterület területfelhasználási egységbe kell sorolni, a térségben nagyvárosias lakóterület kivételével lakóterület kijelölhető;
-- d) a városias települési térség bármely települési területfelhasználási egységbe sorolható;
-- e) a hagyományosan vidéki települési térség a nagyvárosias lakóterület kivételével bármelyik területfelhasználási egységbe sorolható,
-- f) a vízgazdálkodási térséget legalább 90%-ban vízgazdálkodási terület területfelhasználási egységbe kell sorolni, a fennmaradó részen beépítésre szánt terület nem jelölhető ki;
-- g) az építmények által igénybe vett térséget az adott építmény jellege szerinti települési területfelhasználási egységbe kell sorolni.
+- b) a mezőgazdasági térséget legalább 85%-ban mezőgazdasági terület, beépítésre szánt különleges honvédelmi terület, beépítésre nem szánt különleges honvédelmi terület vagy természetközeli terület területfelhasználási egységbe kell sorolni, a térségben nagyvárosias lakóterület és vegyes terület területfelhasználási egység nem jelölhető ki;
+- c) a vegyes területfelhasználású térséget legalább 85%-ban mezőgazdasági terület, erdőterület vagy természetközeli terület területfelhasználási egységbe kell sorolni, a fennmaradó részen nagyvárosias lakóterület kivételével bármely települési területfelhasználási egység kijelölhető;
+- d) a települési térség bármely települési területfelhasználási egységbe sorolható;
+- e) a vízgazdálkodási térséget legalább 85%-ban vízgazdálkodási terület vagy természetközeli területfelhasználási egységbe kell sorolni;
+- f) az építmények által igénybe vett térséget az adott építmény jellege szerinti települési területfelhasználási egységbe kell sorolni.
+
+(3) Az országos területfelhasználási kategóriákra vonatkozó szabályoknak a kiemelt térség vagy a megye területére vetítve, a kiemelt térségi és megyei területfelhasználási szabályoknak a település közigazgatási területére vetítve kell teljesülniük.
 
 ### A területfelhasználásra vonatkozó általános szabályok
 
-7. § (1) Az erdőgazdálkodási térség Országos Erdőállomány Adattár szerint erdőterületnek minősülő területét a településszerkezeti terv legalább 95%-ban csak erdőterület területfelhasználási egységbe sorolhatja.
+7. § (1) Az Országos Erdőállomány Adattár szerint erdőterületnek minősülő területet a településrendezési eszközökben legalább 95%-ban erdőterület területfelhasználási egységbe kell sorolni.
 
 (2) A közlekedési, az elektronikus hírközlési, továbbá az energetikai vonalas infrastruktúra-hálózatok erdőterületen áthaladó szakaszai mellett csak a forgalom lebonyolítását és biztonságát, az elektronikus hírközlés működését, illetve a villamos energia és más energiahordozók továbbítását közvetlenül szolgáló építmények helyezhetők el.
 
-8. § (1) Borvidéki település szőlő termőhelyi katasztere I–II. osztályú területeihez tartozó földrészlet beépítésre szánt területté nem minősíthető.
+8. § (1) Borvidéki település szőlő termőhelyi katasztere I–II. osztályú területeihez tartozó földrészlet – a különleges mezőgazdasági üzemi terület kivételével – beépítésre szánt területté nem minősíthető.
 
-(2) Az Országos Gyümölcs Termőhely Kataszter I. és II. osztályú területeihez tartozó földrészlet beépítésére szánt területté nem minősíthető.
+(2) Az Országos Gyümölcs Termőhely Kataszter I. és II. osztályú területeihez tartozó földrészlet – a különleges mezőgazdasági üzemi terület kivételével – beépítésre szánt területté nem minősíthető.
 
 ### Az országos műszaki infrastruktúra-hálózatok és egyedi építmények elhelyezésére vonatkozó szabályok
 
 9. § (1) Az országos jelentőségű közlekedési infrastruktúra-hálózatok térbeli rendjét és az országos jelentőségű építmények elhelyezkedését a 2. számú melléklet, a térbeli rend szempontjából meghatározó települések felsorolását pedig az 1/1–7. számú mellékletek tartalmazzák.
 
+(1a) A közút számozásának nem közlekedésfejlesztési célból történő megváltoztatása az 1/1. és a 2. melléklet tartalmát nem érinti.
+
 (2) Az erőművek elhelyezkedését a 2. számú melléklet, a térbeli rend szempontjából meghatározó települések felsorolását pedig az 1/8. számú melléklet tartalmazza.
 
 (3) A villamosenergia-átviteli hálózat távvezetékeit, továbbá a nemzetközi és hazai szénhidrogén szállítóvezetékek térbeli rendjét a 2. számú melléklet, a térbeli rend szempontjából meghatározó települések felsorolását pedig az 1/9–10. számú mellékletek tartalmazzák.
 
-(4) A vízgazdálkodási építmények térbeli rendjét a 2. számú melléklet, az országos jelentőségű meglévő szükségtározók, megvalósuló árvízi tározók és új vízi építmények felsorolását az 1/11. számú melléklet tartalmazza. Az állam kizárólagos tulajdonában lévő vizeket és vízi építményeket a vízgazdálkodásról szóló törvény rögzíti.
+(4) Az országos jelentőségű vízi létesítmények térbeli rendjét a 2. melléklet, az országos jelentőségű vízi létesítmények felsorolását az 1/11. melléklet tartalmazza.
 
-(5) Az országos műszaki infrastruktúra-hálózatok nyomvonalait és az egyedi építmények helyét a kiemelt térségi és megyei területrendezési tervekben, valamint az érintett települések településszerkezeti tervében kell meghatározni.
+(5) A kiemelt térségek és a megyék területrendezési terveinek készítése során
 
-(6) A magterület, ökológiai folyosó területén áthaladó közlekedési, elektronikus hírközlési, villamos energia és más energiahordozók vonalas infrastruktúra-hálózatainak engedélyezési eljárásaiban – a magterületet vagy az ökológiai folyosó területét érő legkisebb mértékű környezetterhelés és környezet-igénybevétel előidézése érdekében –, a természetvédelmi hatóság a környezethasználatot feltételhez kötheti, valamint kiegyenlítő intézkedést írhat elő.
+- a) az országos jelentőségű műszaki infrastruktúra-hálózatok és az egyedi építmények helyét a törvényben meghatározott térbeli rend figyelembevételével kell meghatározni,
+- b) az országos jelentőségű műszaki infrastruktúra-hálózatoknak a tervezési területre vetített hossza legfeljebb ±10%-kal térhet el az ország szerkezeti tervében megállapított nyomvonalváltozattól, kivéve, ha a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat alapján lefolytatott területrendezési hatósági eljárás szerint nagyobb eltérés indokolt.
 
-9/A. § A kiemelt térségi és megyei területrendezési tervben szereplő országos vasúti mellékvonalak területét a településszerkezeti tervben beépítésre nem szánt közlekedési terület területfelhasználási egységbe kell sorolni.
+(6) A településrendezési eszközök készítése során
 
-9/B. § (1) Az országos, a kiemelt térségi vagy megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén- és széndioxid szállítóvezetékek elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény, valamint a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak és főutak területi elhelyezésére az állami főépítész térségi területfelhasználási engedélyt ad ki.
+- a) az országos és térségi jelentőségű műszaki infrastruktúra-hálózatok és az egyedi építmények helyét a kiemelt térségi és megyei területrendezési tervekben meghatározott térbeli rend figyelembevételével kell meghatározni,
+- b) az országos és térségi jelentőségű műszaki infrastruktúra-hálózatoknak a település közigazgatási területére vetített hossza legfeljebb ±5%-kal térhet el a kiemelt térségi és megyei területrendezési tervek szerkezeti tervében megállapított nyomvonalváltozattól, kivéve, ha a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat alapján lefolytatott területrendezési hatósági eljárás szerint nagyobb eltérés indokolt.
 
-(2) Az állami főépítész (1) bekezdés szerinti eljárására a közigazgatási hatósági eljárásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
+(7) Az országos és térségi jelentőségű műszaki infrastruktúra-hálózatok nyomvonalának meghatározásánál biztosítani kell a szomszédos megyék és települések határán a folyamatos kapcsolódás lehetőségét.
 
-- a) az állami főépítész döntése ellen fellebbezésnek nincs helye,
-- b) a térségi területfelhasználási engedélykérelmet két hónapon belül el kell bírálni,
-- c) a térségi területfelhasználási engedélykérelem tárgyában hozott határozat ellen keresetet a bíróság soron kívül bírálja el a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezései szerinti eljárásban.
+9/A. § A kiemelt térségi és megyei területrendezési tervben szereplő regionális és egyéb vasúti pályák közül azok területét, amelyen a közszolgáltatás szünetel vagy megszűnt, a településszerkezeti tervben beépítésre nem szánt közlekedési terület területfelhasználási egységbe kell sorolni.
 
-10. § (1) Az 1/4–7. és 1/11. számú mellékletekben szereplő országos műszaki infrastruktúra-hálózatok elemeit és az egyedi építményeket az ott felsorolt, a térbeli rend szempontjából meghatározó települések közigazgatási területét érintve, az országos szerkezeti terv figyelembevételével, az engedélyezési eljárás során felmerülő ágazati szempontok és követelmények miatt szükséges korrekciókkal kell megvalósítani.
+9/B. §
 
-(2) Az 1/1–3. számú mellékletekben szereplő országos műszaki infrastruktúra-hálózatok elemeit és az egyedi építményeket az ott felsorolt, a térbeli rend szempontjából meghatározó települések közigazgatási területét – térség esetén a megjelölt település közigazgatási területét vagy annak 10 km-es körzetét – érintve, az országos szerkezeti terv figyelembevételével, az engedélyezési eljárás során felmerülő ágazati szempontok és követelmények miatt szükséges korrekciókkal kell megvalósítani.
+10. § (1) Az 1/5–1/7. mellékletekben szereplő országos műszaki infrastruktúra-hálózatok elemeit és az egyedi építményeket az ott felsorolt, a térbeli rend szempontjából meghatározó települések közigazgatási területét érintve, az országos szerkezeti terv figyelembevételével, az engedélyezési eljárás során felmerülő ágazati szempontok és követelmények miatt szükséges korrekciókkal kell megvalósítani.
+
+(2) Az 1/1–1/4. mellékletekben szereplő országos műszaki infrastruktúra-hálózatok elemeit és az egyedi építményeket az ott felsorolt, a térbeli rend szempontjából meghatározó települések közigazgatási területét – térség esetén a megjelölt település közigazgatási területét vagy annak 10 km-es körzetét – érintve, az országos szerkezeti terv figyelembevételével, az engedélyezési eljárás során felmerülő ágazati szempontok és követelmények miatt szükséges korrekciókkal kell megvalósítani.
 
 (3) Az 1/8–10. számú mellékletekben szereplő országos műszaki infrastruktúra-hálózatok elemeit és az egyedi építményeket az ott felsorolt, a térbeli rend szempontjából meghatározó települések közigazgatási területét – térség esetén a megjelölt település közigazgatási területét vagy annak 25 km-es körzetét – érintve, az országos szerkezeti terv figyelembevételével, az engedélyezési eljárás során felmerülő ágazati szempontok és követelmények miatt szükséges korrekciókkal kell megvalósítani.
 
-(4) Az árvízi tározók helyét a kiemelt térségi és a megyei területrendezési tervekben, valamint a települések településszerkezeti tervében, helyi építési szabályzatában és szabályozási tervében figyelembe kell venni.
+(4) Az 1/11. melléklet 1. pontjában szereplő Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározókat az ott felsorolt települések közigazgatási területét – térség esetén a megjelölt települések közigazgatási területét vagy annak 25 km-es körzetét – érintve, az országos szerkezeti terv figyelembevételével, az engedélyezési eljárás során felmerülő ágazati szempontok és követelmények miatt szükséges korrekciókkal kell megvalósítani.
 
-11. § (1) A bányatelek megállapítás akkor engedélyezhető, ha összhangban van az érintett település településrendezési tervével és helyi építési szabályzatával.
-
-(2) A bányászati tevékenység következtében megváltozott külszíni területen – a külön jogszabályokban meghatározottakon kívül – tájrendezés csak a bányatelek megállapításakor elkészülő tervek alapján, a település helyi építési szabályzatának és szabályozási tervének megfelelően történhet.
+11. § A bányatelek megállapítás akkor engedélyezhető, ha összhangban van a megyei területrendezési tervvel és az érintett település településrendezési eszközeivel.
 
 ### IV. Fejezet — TÉRSÉGI ÖVEZETI SZABÁLYOK
 
@@ -187,41 +190,50 @@ az Országos Területrendezési Tervről
 
 - a) országos ökológiai hálózat,
 - b) kiváló termőhelyi adottságú szántóterület,
-- c) kiváló termőhelyi adottságú erdőterület,
-- d) országos komplex tájrehabilitációt igénylő terület,
+- c) jó termőhelyi adottságú szántóterület,
+- d) kiváló termőhelyi adottságú erdőterület,
 - e) országos jelentőségű tájképvédelmi terület,
-- f) kulturális örökség szempontjából kiemelten kezelendő terület,
-- g) kiemelten érzékeny felszín alatti vízminőség-védelmi terület,
-- h) felszíni vizek vízminőség-védelmi vízgyűjtő területe,
-- i) ásványi nyersanyag-gazdálkodási terület,
-- j) együtt tervezhető térségek,
-- k) kiemelt fontosságú meglévő honvédelmi terület.
+- f) világörökségi és világörökségi várományos terület,
+- g) országos vízminőség-védelmi terület,
+- h) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe,
+- i) kiemelt fontosságú honvédelmi terület.
 
 (2) Kiemelt térségi és megyei övezetek:
 
 - a) magterület,
 - b) ökológiai folyosó,
 - c) pufferterület,
-- d) erdőtelepítésre alkalmas terület,
-- e) térségi komplex tájrehabilitációt igénylő terület,
-- f) térségi jelentőségű tájképvédelmi terület,
-- g) térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható terület,
-- h) világörökség és világörökség-várományos terület,
-- i) történeti települési terület,
-- j) rendszeresen belvízjárta terület,
-- k) nagyvízi meder,
-- l) földtani veszélyforrás területe,
-- m) vízeróziónak kitett terület,
-- n) széleróziónak kitett terület,
-- o) honvédelmi terület.
+- d) erdőtelepítésre javasolt terület,
+- e) ásványi nyersanyagvagyon-terület,
+- f) rendszeresen belvízjárta terület,
+- g) földtani veszélyforrás területe,
+- h) honvédelmi terület,
+- i) térségi jelentőségű tájképvédelmi terület.
 
-(3) Az (1)–(2) bekezdésben felsorolt országos övezeteket, továbbá kiemelt térségi és megyei övezeteket területi érintettség esetén a kiemelt térségi és megyei területrendezési tervben alkalmazni kell.
+(3) Ajánlott megyei övezetek:
 
-(4) A kiemelt térségek területrendezési terve a (2) bekezdésben foglaltaktól eltérő, egyedileg meghatározott övezeteket is kijelölhet a térség elsődleges funkciójával, illetve a kiemelés okával összhangban.
+- a) tanyás térség,
+- b) tájrehabilitációt igénylő terület,
+- c) szélerőműpark telepítéséhez vizsgálat alá vonható terület,
+- d) térségi árvízi kockázatkezelési terület.
 
-(5) A térségi övezetek egymáshoz való viszonyát és kapcsolatrendszerét az 1/12. számú melléklet tartalmazza. A kiemelt térségi és megyei övezetek területén a rá vonatkozó országos övezetek előírásait is alkalmazni kell.
+(4) Az (1) bekezdésben felsorolt országos övezeteket, továbbá a (2) bekezdésben felsorolt kiemelt térségi és megyei övezeteket területi érintettség esetén a kiemelt térségi és megyei területrendezési tervben alkalmazni kell.
 
-(6) Ahol a törvény külön övezeti előírásokat nem tartalmaz, ott a vonatkozó ágazati szabályokat kell alkalmazni. Ahol a törvény övezeti előírásokat tartalmaz, ott azokat a vonatkozó ágazati jogszabályokkal együtt kell alkalmazni.
+(5) A kiemelt térségek területrendezési terve a (2) bekezdésben foglaltaktól eltérő, egyedileg meghatározott övezeteket is kijelölhet a térség elsődleges funkciójával, illetve a kiemelés okával összhangban.
+
+(6) A megye területrendezési terve az (1) és (2) bekezdésben felsorolt térségi övezeteken kívül a (3) bekezdésben felsorolt ajánlott megyei övezetet is kijelölhet.
+
+(7) A térségi övezetek egymáshoz való viszonyát és kapcsolatrendszerét az 1/12. melléklet tartalmazza. A kiemelt térségi és megyei övezetek területén a rá vonatkozó országos övezetek előírásait is alkalmazni kell.
+
+(8) Ahol a törvény külön övezeti előírásokat nem tartalmaz, ott a vonatkozó ágazati szabályokat kell alkalmazni. Ahol a törvény övezeti előírásokat tartalmaz, ott azokat a vonatkozó ágazati jogszabályokkal együtt kell alkalmazni.
+
+12/A. § (1) A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési eszközök készítése során a 12. § (1) és (2) bekezdésében felsorolt térségi övezetek által érintett területeket az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatos állásfoglalásra kötelezett államigazgatási szervek köréről szóló kormányrendelet szerint, az abban meghatározott államigazgatási szervek előzetes adatszolgáltatása figyelembevételével kell lehatárolni.
+
+(2) A megyei területrendezési tervben a világörökségi és világörökségi várományos terület övezetét, a kiemelt fontosságú honvédelmi terület övezetét, az ásványi nyersanyagvagyon-terület övezetét, a földtani veszélyforrás területének övezetét, a honvédelmi terület övezetét az érintett települések közigazgatási területének megjelölésével kell meghatározni. A megyei területrendezési tervekben alkalmazott, továbbá ott megállapított egyéb térségi övezeteket tényleges kiterjedésüknek megfelelően kell lehatárolni.
+
+(3) A kiemelt térségek területrendezési tervében a térségi övezetek határait – az övezet jellegére tekintettel – a (2) bekezdésben rögzítettektől eltérően is meg lehet határozni.
+
+(4) A településrendezési eszközök készítésénél a hatályos kiemelt térségi és megyei területrendezési terv térségi övezeteinek lehatárolásához képest a térségi övezetek területének a település közigazgatási területére eső része legfeljebb ±5%-kal változhat.
 
 ### V. Fejezet — AZ ORSZÁGOS ÖVEZETEKRE VONATKOZÓ SZABÁLYOK
 
@@ -235,17 +247,19 @@ az Országos Területrendezési Tervről
 
 ### Kiváló termőhelyi adottságú szántóterület övezete
 
-13/A. § Kiváló termőhelyi adottságú szántóterület övezetében beépítésre szánt terület csak kivételesen, egyéb lehetőség hiányában területrendezési hatósági eljárás alapján jelölhető ki.
+13/A. § (1) Kiváló termőhelyi adottságú szántóterület övezetében beépítésre szánt terület csak kivételesen, egyéb lehetőség hiányában területrendezési hatósági eljárás alapján jelölhető ki.
+
+(2) Az övezetben külszíni bányatelket megállapítani és bányászati tevékenységet engedélyezni a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet.
+
+### Jó termőhelyi adottságú szántóterület övezete
+
+13/B. § A településrendezési eszközökben a jó termőhelyi adottságú szántóterület övezetét a mezőgazdasági terület területfelhasználási egység kijelölésénél figyelembe kell venni.
 
 ### Kiváló termőhelyi adottságú erdőterület övezete
 
-13/B. § (1) Kiváló termőhelyi adottságú erdőterület övezetében beépítésre szánt terület csak kivételesen, egyéb lehetőség hiányában területrendezési hatósági eljárás alapján jelölhető ki.
+14. § (1) Kiváló termőhelyi adottságú erdőterület övezetében új beépítésre szánt terület nem jelölhető ki.
 
-(2) Az övezetben külszíni bányatelek megállapítása, illetve bányászati tevékenység engedélyezése a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehetséges.
-
-### Országos komplex tájrehabilitációt igénylő terület övezete
-
-14. § Az országos komplex tájrehabilitációt igénylő terület övezetben a területek újrahasznosítási célját a kiemelt térség és a megye területrendezési tervében, a települések helyi tájrendezési szabályainak vagy a helyi településrendezési eszközök figyelembevételével kell meghatározni.
+(2) Az övezetben külszíni bányatelket megállapítani és bányászati tevékenységet engedélyezni a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet.
 
 ### Országos jelentőségű tájképvédelmi terület övezete
 
@@ -259,35 +273,35 @@ az Országos Területrendezési Tervről
 
 (5) Az övezetben közművezetékeket és járulékos közműépítményeket tájba illesztett módon, a tájképvédelmi célok megvalósulását nem akadályozó műszaki megoldások alkalmazásával – beleértve a felszín alatti vonalvezetést is – kell elhelyezni.
 
-### Kulturális örökség szempontjából kiemelten kezelendő terület övezete
+### Világörökségi és világörökségi várományos terület övezete
 
-14/B. § A kulturális örökség szempontjából kiemelten kezelendő terület övezetét a kiemelt térségi és a megyei területrendezési tervekben a világörökség és világörökség-várományos terület vagy a történeti települési terület övezetbe kell sorolni, továbbá az érintett települések közigazgatási területének megjelölésével kell meghatározni.
+14/B. § (1) A világörökségi és világörökségi várományos terület övezetét a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni.
 
-A fenti térségi övezetek tényleges kiterjedésének megfelelő határát a településrendezési tervben kell meghatározni.
+(2) Az (1) bekezdés szerint lehatárolt világörökségi és világörökségi várományos területen:
 
-### Kiemelten érzékeny felszín alatti vízminőség-védelmi terület övezete
+- a) a területfelhasználás módjának és mértékének összhangban kell lennie a világörökségi kezelési tervben meghatározott célokkal,
+- b) új külszíni művelésű bányatelek nem létesíthető, meglévő külszíni művelésű bányatelek területe nem bővíthető,
+- c) a közlekedési és energetikai infrastruktúra-hálózatokat, erőműveket és kiserőműveket a kulturális és természeti örökségi értékek sérelme nélkül, területi egységüket megőrizve, látványuk érvényesülését elősegítve és a világörökségi kezelési tervnek megfelelően kell elhelyezni.
 
-15. § A kiemelten érzékeny felszín alatti vízminőség-védelmi terület övezetében bányászati tevékenységet a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet folytatni.
+### Országos vízminőség-védelmi terület övezete
 
-### Felszíni vizek vízminőség-védelmi vízgyűjtő területének övezete
+15. § (1) Az országos vízminőség-védelmi terület övezetében keletkezett szennyvíz övezetből történő kivezetéséről és az övezeten kívül keletkezett szennyvizek övezetbe történő bevezetéséről a kiemelt térség és a megye területrendezési tervében rendelkezni kell.
 
-16. § Felszíni vizek szennyezésre érzékeny vízgyűjtő területén keletkező, illetve a vízgyűjtőn kívül keletkezett szennyvizek vízgyűjtő területre történő be- vagy kivezetéséről a kiemelt térség és a megye területrendezési tervében rendelkezni kell.
+(2) Az övezetbe tartozó települések településrendezési eszközeinek készítése során ki kell jelölni a vízvédelemmel érintett területeket, és a helyi építési szabályzatban az építési övezetre vagy övezetre vonatkozó szabályokat kell megállapítani.
 
-### Ásványi nyersanyag-gazdálkodási terület övezete
+(3) Az övezetben bányászati tevékenységet a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet folytatni.
 
-16/A. § Az ásványi nyersanyag-gazdálkodási terület övezetét a településrendezés eszközeiben tényleges kiterjedésének megfelelően kell lehatárolni, és az építési övezetre vagy övezetre szabályokat megállapítani.
+### Nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területének övezete
 
-### Együtt tervezhető térségek övezete
+16. § A nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területének övezetében új beépítésre szánt terület nem jelölhető ki.
 
-16/B. § (1) Az együtt tervezhető térségek övezetébe tartozó települési önkormányzatok településfejlesztési és településrendezési feladataik összehangolt ellátásához – törvényben meghatározott – közös egyszerűsített településszerkezeti tervet készíthetnek.
+16/A. §
 
-(2) A közös egyszerűsített településszerkezeti tervnek az egyes településekre vonatkozó részeit az érintett települési önkormányzatok határozattal fogadják el.
+16/B. §
 
-### Kiemelt fontosságú meglévő honvédelmi terület övezete
+### Kiemelt fontosságú honvédelmi terület övezete
 
-16/C. § (1) A kiemelt fontosságú meglévő honvédelmi terület övezetét a kiemelt térségi és megyei területrendezési tervekben a tényleges kiterjedésének megfelelően kell lehatárolni.
-
-(2) Az (1) bekezdésben kijelölt területeket a településszerkezeti tervben beépítésre szánt vagy beépítésre nem szánt különleges honvédelmi terület területfelhasználási egységbe kell sorolni.
+16/C. § A kiemelt fontosságú honvédelmi terület övezetét a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni, és a településszerkezeti tervben beépítésre szánt vagy beépítésre nem szánt különleges honvédelmi terület vagy erdőterület területfelhasználási egységbe kell sorolni.
 
 ### VI. Fejezet — A KIEMELT TÉRSÉGI ÉS MEGYEI ÖVEZETEKRE VONATKOZÓ SZABÁLYOK
 
@@ -300,26 +314,26 @@ A fenti térségi övezetek tényleges kiterjedésének megfelelő határát a t
 
 (2) Az (1) bekezdésben szereplő kivételek együttes fennállása esetén, a beépítésre szánt terület területrendezési hatósági eljárás alapján jelölhető ki. Az eljárás során vizsgálni kell, hogy biztosított-e a magterület, a magterület és az ökológiai folyosó természetes és természetközeli élőhelyeinek fennmaradása, valamint az ökológiai kapcsolatok zavartalan működése.
 
-(3) Az övezetben közművezetékeket és járulékos közműépítményeket tájba illesztett módon, a természetvédelmi célok megvalósulását nem akadályozó műszaki megoldások alkalmazásával – beleértve a felszín alatti vonalvezetést is – kell elhelyezni.
+(3)
 
-(4) Az övezetben a közlekedési infrastruktúra-hálózatok elemeinek nyomvonala a magterület természetes élőhelyeinek fennmaradását biztosító módon, az azok közötti ökológiai kapcsolatok működését nem akadályozó műszaki megoldások alkalmazásával helyezhető el.
+(4) Az övezetben a közlekedési és energetikai infrastruktúra-hálózatok elemeinek nyomvonala, az erőművek és kiserőművek a magterület természetes élőhelyeinek fennmaradását biztosító módon, az azok közötti ökológiai kapcsolatok működését nem akadályozó műszaki megoldások alkalmazásával helyezhetők el.
 
-(5) Az övezetbe tartozó település helyi építési szabályzatában és szabályozási tervében elő kell írni a tájszerkezetbe illeszkedő beépítési mód, a tájra jellemző építészeti hagyományok és építmények megőrzését és ezek követelményeit.
+(5)
 
 (6) Az övezetben új külszíni művelésű bányatelek nem létesíthető, meglévő külszíni művelésű bányatelek nem bővíthető.
 
 ### Ökológiai folyosó övezete
 
-18. § (1) Az övezetben beépítésre szánt terület nem jelölhető ki, kivéve, ha
+18. § (1) Az ökológiai folyosó övezetében új beépítésre szánt terület nem jelölhető ki, kivéve, ha:
 
-- a) a települési területet az ökológiai folyosó körülzárja, és
+- a) a települési területet az ökológiai folyosó vagy a magterület és az ökológiai folyosó körülzárja, és
 - b) a kijelölést más jogszabály nem tiltja.
 
 (2) Az (1) bekezdésben szereplő kivételek együttes fennállása esetén, a beépítésre szánt terület területrendezési hatósági eljárás alapján jelölhető ki. Az eljárás során vizsgálni kell, hogy biztosított-e az ökológiai folyosó természetes és természetközeli élőhelyeinek fennmaradása, valamint az ökológiai kapcsolatok zavartalan működése.
 
-(3) Az övezetben közművezetékeket és járulékos közműépítményeket tájba illesztett módon, a természetvédelmi célok megvalósulását nem akadályozó műszaki megoldások alkalmazásával – beleértve a felszín alatti vonalvezetést is – kell elhelyezni.
+(3)
 
-(4) Az övezetben a közlekedési infrastruktúra-hálózatok elemeinek nyomvonala az ökológiai folyosó és az érintkező magterület természetes élőhelyeinek fennmaradását biztosító módon, az azok közötti ökológiai kapcsolatok működését nem akadályozó műszaki megoldások alkalmazásával helyezhető el.
+(4) Az övezetben a közlekedési és energetikai infrastruktúra-hálózatok elemeinek nyomvonala, az erőművek és kiserőművek az ökológiai folyosó és az érintkező magterület természetes élőhelyeinek fennmaradását biztosító módon, az azok közötti ökológiai kapcsolatok működését nem akadályozó műszaki megoldások alkalmazásával helyezhető el.
 
 (5) Az övezetben új külszíni művelésű bányatelek nem létesíthető, meglévő külszíni művelésű bányatelek nem bővíthető.
 
@@ -327,13 +341,17 @@ A fenti térségi övezetek tényleges kiterjedésének megfelelő határát a t
 
 19. § Pufferterületen a településszerkezeti terv beépítésre szánt területet csak abban az esetben jelölhet ki, ha az a szomszédos magterület vagy ökológiai folyosó természeti értékeit, biológiai sokféleségét, valamint táji értékeit nem veszélyezteti.
 
-### Erdőtelepítésre alkalmas terület övezete
+### Erdőtelepítésre javasolt terület övezete
 
-19/A. § Az övezetbe tartozó területeken beépítésre szánt terület csak kivételesen, egyéb lehetőség hiányában területrendezési hatósági eljárás alapján jelölhető ki.
+19/A. § A településrendezési eszközökben az erdőtelepítésre javasolt terület övezetét az erdőterület területfelhasználási egység kijelölésénél figyelembe kell venni.
 
-### Térségi komplex tájrehabilitációt igénylő terület övezete
+### Ásványi nyersanyagvagyon-terület övezete
 
-20. § A térségi komplex tájrehabilitációt igénylő terület övezetben a roncsolt felületek újrahasznosítása, a tájrendezés az érintett települések egymással összehangolt településrendezési eszközeiben meghatározott újrahasznosítási cél alapján történhet.
+19/B. § (1) Az ásványi nyersanyagvagyon-terület övezetét a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni.
+
+(2) Az (1) bekezdés szerint kijelölt területen, a településrendezési eszközökben csak olyan területfelhasználási egység, építési övezet vagy övezet jelölhető ki, amely az ásványi nyersanyagvagyon távlati kitermelését nem lehetetleníti el.
+
+20. §
 
 ### Térségi jelentőségű tájképvédelmi terület övezete
 
@@ -347,68 +365,59 @@ A fenti térségi övezetek tényleges kiterjedésének megfelelő határát a t
 
 (5) A településszerkezeti tervben, a szabályozási tervben és a helyi építési szabályzatban ki kell jelölni a településkép-védelmi terület határát, amely a tájképi értéket képező kulturális örökség szempontjából kiemelten kezelendő területeket, az ökológiai hálózat területeit, az országos és a helyi védelem alatt álló természetvédelmi területeket, azok környezetét, valamint a település arculatát, karakterét meghatározó fontos területeket tartalmazza.
 
-### Térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható terület övezete
+22. §
 
-22. § (1) A térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható terület övezetében térségi hulladéklerakó hely csak külön jogszabályban meghatározott vizsgálatok és az országos, illetve területi hulladékgazdálkodási tervek alapján jelölhető ki.
+22/A. §
 
-(2) Az övezet meghatározásánál figyelembe kell venni, hogy
-
-- a) magterületen, ökológiai folyosón és pufferterületen,
-- b) kiváló termőhelyi adottságú szántó-, szőlő- és gyümölcsös területen,
-- c) erdőterületen,
-- d) világörökség és világörökség-várományos területen,
-- e) kiemelten érzékeny felszín alatti vízminőség-védelmi területen,
-- f) rendszeresen belvízjárta területen,
-- g) nagyvízi meder területén,
-- h) földtani veszélyforrás területén,
-- i) vízeróziónak kitett területen és széleróziónak kitett területen,
-- j) kiemelt fontosságú honvédelmi területen és honvédelmi területen,
-- k) a beépítésre szánt területbe sorolt területen és annak határaitól számított 1000 m-es területen belül, kivéve a jelentős mértékű zavaró hatású iparterületet és a hulladékkezelő, hulladéklerakó különleges területet,
-- l) az állami repülések célját szolgáló, valamint a közös felhasználású katonai és polgári repülőtér 15 km-es körzetében,
-
-térségi hulladéklerakó hely nem jelölhető ki.
-
-### Világörökség és világörökség-várományos terület övezete
-
-22/A. § (1) Világörökség és világörökség-várományos terület övezetben a területfelhasználás módjának és mértékének összhangban kell lennie a kezelési tervben meghatározott célokkal.
-
-(2) Az övezetben új külszíni művelésű bányatelek nem létesíthető, meglévő külszíni művelésű bányatelek területe nem bővíthető.
-
-(3) Az övezetben közlekedési infrastrukturális hálózatokat és építményeket a kulturális örökségi értékek sérelme nélkül, területi egységét megőrizve, látványuk érvényesülését elősegítve kell elhelyezni.
-
-(4) Az övezetben közművezetékeket és járulékos közműépítményeket tájba illesztett módon, a világörökségi területek védelmét nem akadályozó műszaki megoldások alkalmazásával – beleértve a felszín alatti vonalvezetést is – kell elhelyezni.
-
-### Történeti települési terület övezete
-
-22/B. § (1) Az övezetbe tartozó települések településrendezési eszközeiben ki kell jelölni a településkép-védelmi terület határát, amely a védendő területegységeket – különösen a történeti településközpontot, a történeti kertet, a jelentős régészeti lelőhelyet, az országos és helyi védelem alatt álló területeket, valamint ezek környezetét, védőövezetét – foglalja magában.
-
-(2) Történeti település helyi építési szabályzatának és szabályozási tervének tartalmaznia kell a településkép-védelmi terület értékőrző fejlesztését elősegítő, a történeti településkép megőrzését, illetve új építmények illeszkedését biztosító szabályokat.
-
-(3) Történeti településkép érvényesülését befolyásoló, a kialakult településszerkezetet, településkaraktert megváltoztató, nagy kiterjedésű építmény elhelyezésére vonatkozó építési-műszaki tervhez a külön jogszabályban meghatározott látványtervet kell készíteni.
+22/B. §
 
 ### Rendszeresen belvízjárta terület övezete
 
-23. § A rendszeresen belvízjárta terület övezet által érintett települések településrendezési eszközeinek készítése során, a vízügyi hatóság adatszolgáltatása alapján belvízrendezési munkarészt is készíteni kell. Az övezet területén beépítésre szánt terület csak kivételesen, a belvízrendezési munkarészben meghatározott feltételek teljesülése esetén jelölhető ki.
+23. § A rendszeres belvízjárta terület övezetében új beépítésre szánt terület csak akkor jelölhető ki, ha ahhoz a vízügyi igazgatási szerv a településrendezési eszközök egyeztetési eljárása során adott véleményében hozzájárul.
 
-### Nagyvízi meder övezete
-
-24. § Nagyvízi meder övezete területén beépítésre szánt terület nem jelölhető ki.
+24. §
 
 ### Földtani veszélyforrás területének övezete
 
-25. § Földtani veszélyforrás területének övezetébe tartozó település veszélyeztetett területein a település településszerkezeti tervében beépítésre szánt terület csak kivételesen, geológiai szakvélemény alapján jelölhető ki.
+25. § (1) A földtani veszélyforrás területének övezetét a településrendezési eszközökben kell a tényleges kiterjedésnek megfelelően lehatárolni.
 
-### Vízeróziónak kitett terület övezete
+(2) Az övezet területén új beépítésre szánt terület csak akkor jelölhető ki, ha ahhoz a bányafelügyelet a településrendezési eszközök egyeztetési eljárása során adott véleményében hozzájárul.
 
-26. § Vízeróziónak kitett terület övezetbe tartozó települések veszélyeztetett területein olyan területfelhasználást kell előírni a települések településszerkezeti tervében, és a helyi építési szabályzatban olyan építési övezeti, övezeti előírást kell meghatározni, amely a vízerózió mértékét csökkenti.
+26. §
 
-### Széleróziónak kitett terület övezete
-
-27. § Széleróziónak kitett terület övezetbe tartozó települések veszélyeztetett területein olyan területfelhasználást kell előírni a települések településszerkezeti tervében, és a helyi építési szabályzatban olyan építési övezeti, övezeti előírást kell meghatározni, amely a szélerózió mértékét csökkenti.
+27. §
 
 ### Honvédelmi terület övezete
 
-27/A. § A honvédelmi terület övezetét a településszerkezeti tervben beépítésre szánt vagy beépítésre nem szánt különleges honvédelmi terület területfelhasználási egységbe kell sorolni.
+27/A. § A honvédelmi terület övezetét a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni, és a településszerkezeti tervben beépítésre szánt vagy beépítésre nem szánt különleges honvédelmi terület vagy erdőterület területfelhasználási egységbe kell sorolni.
+
+### VI/A. Fejezet — AZ AJÁNLOTT MEGYEI ÖVEZETEKRE VONATKOZÓ SZABÁLYOK
+
+### Tanyás térség övezete
+
+27/B. § A megye területrendezési tervében tanyás térség övezete kijelölhető, amelybe Bács-Kiskun megye, Békés megye, Csongrád megye, Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye és Szabolcs-Szatmár-Bereg megye összes települése, továbbá Pest megye Ceglédi, Dabasi, Gyáli, Monori, Nagykátai, Nagykőrösi, Ráckevei, Szigetszentmiklósi és Vecsési járások tanyás települései sorolhatók be.
+
+### Tájrehabilitációt igénylő terület övezete
+
+27/C. § (1) A megye területrendezési tervében tájrehabilitációt igénylő terület övezete kijelölhető.
+
+(2) A megye területrendezési terve rendelkezhet az övezet által érintett terület újrahasznosítási céljáról.
+
+(3) Az újrahasznosítási cél figyelembevételével a megye területrendezési terve rendelkezhet arról, hogy az övezet által érintett területet a településrendezési eszközök készítése során milyen területfelhasználási egységbe kell sorolni.
+
+### Szélerőműpark telepítéséhez vizsgálat alá vonható terület övezete
+
+27/D. § (1) A megye területrendezési tervében szélerőműpark telepítéséhez vizsgálat alá vonható terület övezete kijelölhető.
+
+(2) A megye területrendezési terve – a települési térség védelme érdekében – a belterület határától legalább 1000 m, de legfeljebb 2000 m védőtávolságot határozhat meg, amelyen belül szélerőműpark nem létesíthető.
+
+### Térségi árvízi kockázatkezelési terület övezete
+
+27/E. § (1) A megye területrendezési tervében térségi árvízi kockázatkezelési terület övezete kijelölhető.
+
+(2) A megye területrendezési terve rendelkezhet arról, hogy az övezet által érintett települések településrendezési eszközeit az Országos Árvízi Kockázatkezelési Koncepció és a kockázatkezelési tervek figyelembevételével kell elkészíteni.
+
+(3) A megye rendelkezhet az övezet területén az árvízi kockázatot csökkentő települési területfelhasználási egységek alkalmazásáról.
 
 ### VII. Fejezet — HATÁLYBA LÉPTETŐ ÉS VEGYES RENDELKEZÉSEK
 
@@ -416,1351 +425,1702 @@ térségi hulladéklerakó hely nem jelölhető ki.
 
 (2)
 
-29. § Az Országos Területrendezési Terv felülvizsgálata legalább 5 évente történik.
+29. § Az Országos Területrendezési Terv felülvizsgálata legalább 7 évente történik.
 
 30. § (1) E törvény rendelkezéseit alkalmazni kell:
 
-- a) a megye területrendezési tervének készítése és elfogadása során,
-- b) a településrendezési terv, helyi építési szabályzat készítése és jóváhagyása során.
+- a) a kiemelt térségi területrendezési terv készítése és elfogadása során,
+- b) a megyei területrendezési terv készítése és elfogadása során,
+- c) a településrendezési eszközök készítése és elfogadása során.
 
-(2) E bekezdés hatálybalépését követően indult államigazgatási ügyekben az 1/1–11. számú mellékletekben rögzített országos műszaki infrastruktúra-hálózatok és az egyedi építmények vonatkozásában e törvény rendelkezéseit kell alkalmazni.
-
-(3) A megyei területrendezési terveket 2011. december 31-ig e törvénnyel összhangba kell hozni.
-
-(4) A megyei területrendezési tervvel nem rendelkező megyei önkormányzatoknak 2011. december 31-ig a megye területrendezési tervét el kell készíteniük.
+(2) A kiemelt térségi és a megyei területrendezési terv rendelkezéseit – kivéve, ha a rendelkezés tekintetében a 31/A. § szerinti összhang megteremtése szükséges – alkalmazni kell a településrendezési eszközök készítése és elfogadása során.
 
 31. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra jogosult államigazgatási szervek körét és az eljárás részletes szabályait,
-- b) az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá szénhidrogén- és szén-dioxid-szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény, valamint a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak és főutak területi elhelyezésére vonatkozó területrendezési hatósági eljárás részletes szabályait.
+- a) a kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési eszközök készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek körét és az eljárás részletes szabályait,
+- b) az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő
+  - ba) atomerőműnek nem minősülő erőmű és villamosenergia-átviteli hálózat távvezetékelemei,
+  - bb) a nemzetközi és hazai szénhidrogén- és szén-dioxid-szállítóvezeték elemei,
+  - bc) a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak, a főutak, valamint az országos vasúti törzshálózat elemei,
+  - bd) az egyedi építmények közül a gyorsforgalmi úton, főúton és vasúti törzshálózaton lévő híd a Dunán és a Tiszán, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók
 
-32. § E törvény 2. § 25a. pontja és 9/B. § (1) bekezdése a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 4. cikk (1) bekezdésének való részbeni megfelelést szolgálja.
+területi elhelyezésére vonatkozó területrendezési hatósági eljárás részletes szabályait.”
+
+31/A. § (1) E törvénynek az egyes törvények területrendezéssel összefüggő módosításáról szóló 2013. évi CCXXIX. törvénnyel (a továbbiakban: MTv.) megállapított rendelkezéseivel a megyei területrendezési terveket 2015. december 31-ig összhangba kell hozni.
+
+(2) E törvénynek az MTv.-vel megállapított 1/1–11. mellékletét a hatálybalépést követően indult államigazgatási ügyekben alkalmazni kell.
+
+31/B. § A kiemelt térségi és a megyei területrendezési terveknek az e törvénnyel való összhangba hozataláig a településrendezési eszközök készítésénél, módosításánál az alábbi átmeneti rendelkezéseket kell alkalmazni:
+
+- a) az Országos Szerkezeti Terv által kijelölt országos jelentőségű műszaki infrastruktúra-hálózatokat az e törvénynek az MTv.-vel megállapított 1/1–11. melléklete, 9. § (7) bekezdése, valamint 10. §-a előírásainak alkalmazásával kell kijelölni,
+- b) a megyei területrendezési tervben megállapított térségi területfelhasználási kategóriákon belül az e törvénynek az MTv.-vel megállapított 6. § (2) bekezdésének előírásait kell alkalmazni,
+- c) a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben (a továbbiakban: BATrT.) megállapított térségi területfelhasználási kategóriákon belül
+  - ca) a cb) alpont kivételével a BATrT. térségi területfelhasználási kategóriákra vonatkozó előírásait,
+  - cb) a vízgazdálkodási térség vonatkozásában az e törvénynek az MTv.-vel megállapított 6. § (2) bekezdés e) pontjának előírását kell alkalmazni,
+- d) a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvényben (a továbbiakban: Btv.) megállapított térségi területfelhasználási kategóriákon belül a Btv. térségi területfelhasználási kategóriákra vonatkozó előírásait kell alkalmazni,
+- e) azokat az országos övezeteket, amelyeket a kiemelt térségi és megyei területrendezési terv alkalmaz, azonban az MTv. megszüntetett, a településrendezési eszközök készítésénél, módosításánál nem kell alkalmazni,
+- f) azokra az országos övezetekre, amelyeket a kiemelt térségi és megyei területrendezési terv alkalmaz, azonban a rá vonatkozó előírásokat az MTv. módosította, a településrendezési eszközök készítésénél, módosításánál e törvénynek az MTv.-vel megállapított övezeti előírásait kell alkalmazni,
+- g) azokat a kiemelt térségi és megyei övezeteket, amelyeket a kiemelt térségi és megyei területrendezési terv megállapít, azonban az MTv. megszüntetett, az i) pontban foglaltak kivételével a településrendezési eszközök készítésénél, módosításánál nem kell alkalmazni,
+- h) azokat a kiemelt térségi és megyei övezeteket, amelyeket a kiemelt térségi és megyei területrendezési terv megállapít, azonban a rá vonatkozó előírásokat az MTv. módosította, a j) pontban foglaltak figyelembevételével a településrendezési eszközök készítésénél, módosításánál e törvénynek az MTv.-vel megállapított övezeti előírásaival kell alkalmazni,
+- i) a Btv.-ben egyedileg megállapított kiemelt térségi övezetekre – ideértve az MTv. által megszüntetett térségi jelentőségű tájképvédelmi terület övezetét, történeti települési terület övezetét, térségi jelentőségű komplex tájrehabilitációt igénylő terület övezetét, valamint a vízeróziónak kitett terület övezetét – a Btv. övezeti előírásait kell alkalmazni,
+- j) a Btv.-ben megállapított kiemelt térségi övezetek vonatkozásában, amelyeknek előírásait az MTv. módosította, a településrendezési eszközök készítésénél, módosításánál az e törvénynek az MTv.-vel megállapított övezeti előírásait a Btv. kiemelt térségi övezeti előírásaival együtt kell alkalmazni,
+- k) a BATrT.-ban megállapított kiemelt térségi övezetek vonatkozásában, ha e törvénynek az MTv.-vel megállapított kiemelt övezeti előírásaitól eltérő előírást tartalmaznak, a BATrT. kiemelt térségi övezeti előírásait kell alkalmazni,
+- l) azon új országos, kiemelt térségi és megyei övezeteket, amelyeket az MTv. állapított meg, azonban a kiemelt térségi és megyei területrendezési tervben még nem kerültek alkalmazásra, a településrendezési eszközök készítésénél, módosításánál e törvénynek az MTv.-vel megállapított 12/A. § (1) bekezdése és övezeti előírásai szerint kell lehatárolni és alkalmazni.
+
+32. § E törvény 2. § 24. pontja a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 4. cikk (1) bekezdésének való részbeni megfelelést szolgálja.
 
 ### 1/1. számú melléklet
 
-A közúthálózat fő elemei1
+Az országos közúthálózat gyorsforgalmi és főúti elemei, valamint a fővárosi térszerkezetet meghatározó főutak
+
+(A térség e mellékletben a település közigazgatási területét és annak 10 kilométeres környezetét jelenti)
 
 1. Gyorsforgalmi utak
 
-| M0: | Budaörs – Budakeszi – Remeteszőlős térsége – Solymár – Pilisborosjenő – Üröm – Budakalász – Szigetmonostor – Budapest, IV. ker. – Dunakeszi – Budapest, XV. ker. – Fót – Csömör – Budapest, XVI. ker. – Kistarcsa – Nagytarcsa – Budapest, XVII. ker. – Ecser – Üllő – Vecsés – Gyál – Budapest, XXIII. ker. – Dunaharaszti – Szigetszentmiklós – Budapest, XXII. ker. – Diósd – Törökbálint – Biatorbágy – Budaörs (az M2 és M1 közötti déli és keleti szakasz a TEN- T hálózat része) |
-| --- | --- |
-| Megjegyzés: Az M0 nyugati szektorában a nyomvonalat környezeti hatásvizsgálat alapján, a védett természeti területen – ahol szükséges – alagútban kell vezetni. |  |
-|  | M1, M3, M4, M5, M7 fővárosi bevezető (M0-on belüli autópálya besorolású) szakaszai |
-| M1: | Budaörs (M0) – Győr – Hegyeshalom – (Ausztria) (a TEN-T hálózat része) |
-| M10: | Budapest térsége (M0) – Kesztölc térsége (M11) |
-| M11: | Ercsi térsége (M6) – Zsámbék – Kesztölc – Esztergom – (Szlovákia) |
-| M15: | Levél (M1) – Rajka – (Szlovákia) (a TEN-T hálózat része) |
-| M19: | Győr (M1) – Győr |
-| M2: | Budapest (M0) – Vác – Rétság – Hont – (Szlovákia) (a TEN-T hálózat része) |
-| M21: | Hatvan (M3) – Salgótarján |
-| M25: | Füzesabony térsége (M3) – Eger |
-| M3: | Budapest (M0) – Hatvan – Füzesabony – Polgár – Görbeháza – Nyíregyháza – Vásárosnamény – Beregdaróc – (Ukrajna) (Gödöllő és országhatár közötti szakasz a TEN-T hálózat része) |
-| M30: | Mezőcsát térsége (M3) – Miskolc – Encs – Tornyosnémeti – (Szlovákia) (a TEN-T hálózat része) |
-| M31: | Nagytarcsa térsége (M0) – Kistarcsa – Kerepes – Gödöllő térsége (M3) (a TEN-T hálózat része) |
-| M34: | Vásárosnamény térsége (M3) – Záhony térsége – (Ukrajna) (a TEN-T hálózat része) |
-| M35: | Görbeháza (M3) – Debrecen – Berettyóújfalu térsége (M4) (a TEN-T hálózat része) |
-| M4: | Vecsés térsége és Ecser (M0) – Szolnok – Püspökladány – Nagykereki térsége – (Románia) (a Szolnok és Nagykereki térsége közötti szakasz a TEN-T hálózat része) |
-| M43: | Szeged (M5) – Csanádpalota – (Románia) (a TEN-T hálózat része) |
-| M44: | Kecskemét térsége – Békéscsaba – Gyula – (Románia) |
-| M47: | Berettyóújfalu térsége (M4) – Békéscsaba – Algyő térsége (M43) |
-| M49: | Kántorjánosi térsége (M3) – Csenger térsége – (Románia) |
-| M5: | Gyál (M0) – Kecskemét – Kiskunfélegyháza – Szeged – Röszke – (Szerbia) (a TEN-T hálózat része) |
-| M6: | Budapest (M0) – Dunaújváros – Szekszárd – Bóly – Ivándárda térsége – (Horvátország) (a TEN-T hálózat része) |
-| M60: | Bóly térsége (M6) – Pécs térsége |
-| M7: | Törökbálint (M0) – Székesfehérvár – Siófok – Balatonszentgyörgy – Nagykanizsa – Letenye – (Horvátország) (a TEN-T hálózat része) |
-| M70: | Letenye (M7) – Tornyiszentmiklós – (Szlovénia) (a TEN-T hálózat része) |
-| M75: | Balatonszentgyörgy térsége (M7) – Sármellék – Pacsa térsége (M9) |
-| M8: | (Ausztria) – Szentgotthárd térsége – Veszprém – Enying térsége – Sárbogárd térsége – Dunaújváros – Kecskemét térsége – Szolnok – Füzesabony térsége (M3) (a Szentgotthárd és Szolnok közötti szakasz a TEN-T hálózat része) |
-| M85: | Győr térsége (M1) – Csorna – Nagycenk – Sopron – (Ausztria) |
-| M86: | Szombathely térsége – Csorna – Mosonmagyaróvár térsége (M1) (a TEN-T hálózat része) |
-| M87: | Szombathely térsége (M86) – Kőszeg térsége – (Ausztria) |
-| M9: | Szombathely térsége (M86) – Püspökmolnári térsége – Zalaegerszeg térsége – Nagykanizsa – Inke térsége – Kaposvár – Dombóvár – Szekszárd térsége – Szeged (M5) (az M86 és az M7 közötti szakasz a TEN-T hálózat része) |
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | M0: | Budaörs – Budakeszi – Nagykovácsi – Budapest [II. ker.] – Solymár – Pilisborosjenő – Üröm – Budakalász – Budapest [III. ker.] – Szigetmonostor – Budapest [IV. ker.] – Dunakeszi – Budapest [XV. ker.] – Fót – Csömör – Budapest [XVI. ker.] – Kistarcsa – Nagytarcsa – Budapest [XVII. ker.] – Ecser – Üllő – Vecsés – Gyál – Budapest [XXIII. ker.] – Dunaharaszti – Szigetszentmiklós – Budapest [XXII. ker.] – Diósd – Törökbálint – Biatorbágy – Budaörs (Az M0 nyugati szektorában a nyomvonalat környezeti hatásvizsgálat alapján, a védett természeti területen – ahol szükséges – alagútban kell vezetni.) |
+|  | 2. |  | M1, M3, M4, M5, M7 fővárosi bevezető (M0-on belüli autópálya besorolású) szakaszai |
+|  | 3. | M1: | Budaörs (M0) – Győr – Hegyeshalom – (Ausztria) |
+|  | 4. | M10: | Budapest térsége (M0) – Esztergom – (Szlovákia) |
+|  | 5. | M15: | Levél (M1) – Rajka – (Szlovákia) |
+|  | 6. | M19: | Bőny (M1) – Győr (1. sz. főút) |
+|  | 7. | M2: | Budapest (M0) – Vác – Rétság – Hont – (Szlovákia) |
+|  | 8. | M25: | Füzesabony térsége (M3) – Eger |
+|  | 9. | M3: | Budapest (M0) – Hatvan – Füzesabony – Polgár – Görbeháza – Nyíregyháza – Vásárosnamény – Beregdaróc – (Ukrajna) |
+|  | 10. | M30: | Mezőcsát térsége (M3) – Miskolc – Encs – Tornyosnémeti – (Szlovákia) |
+|  | 11. | M31: | Nagytarcsa térsége (M0) – Kistarcsa – Kerepes – Gödöllő térsége (M3) |
+|  | 12. | M34: | Vásárosnamény térsége (M3) – Záhony térsége – (Ukrajna) |
+|  | 13. | M35: | Görbeháza (M3) – Debrecen – Berettyóújfalu térsége (M4) |
+|  | 14. | M38: | Záhony térsége (M34) – (Szlovákia) |
+|  | 15. | M4: | Üllő (M0) – Szolnok – Püspökladány – Berettyóújfalu – Nagykereki – (Románia) |
+|  | 16. | M43: | Szeged (M5) – Csanádpalota – (Románia) |
+|  | 17. | M44: | Kecskemét térsége (M8) – Békéscsaba– Gyula – (Románia) |
+|  | 18. | M47: | Berettyóújfalu térsége (M4) – Békéscsaba – Algyő térsége (M43) |
+|  | 19. | M49: | Kántorjánosi térsége (M3) – Csenger térsége – (Románia) |
+|  | 20. | M5: | Gyál (M0) – Kecskemét – Kiskunfélegyháza – Szeged – Röszke – (Szerbia) |
+|  | 21. | M6: | Budapest (M0) – Dunaújváros – Szekszárd – Bóly – Ivándárda térsége – (Horvátország) |
+|  | 22. | M60: | Bóly térsége (M6) – Pécs térsége – Drávatamási térsége – (Horvátország) |
+|  | 23. | M7: | Törökbálint (M0) – Székesfehérvár – Siófok – Balatonszentgyörgy – Nagykanizsa – Letenye – (Horvátország) |
+|  | 24. | M70: | Letenye (M7) – Tornyiszentmiklós – (Szlovénia) |
+|  | 25. | M75: | Balatonszentgyörgy térsége (M7) – Sármellék – Pacsa térsége (M9) |
+|  | 26. | M8: | (Ausztria) – Szentgotthárd térsége – Veszprém – Enying térsége – Sárbogárd térsége – Dunaújváros – Kecskemét térsége – Szolnok – Füzesabony térsége (M3) |
+|  | 27. | M85: | Győr térsége (M1) – Csorna – Nagycenk – Sopron – (Ausztria) |
+|  | 28. | M86: | Szombathely térsége – Csorna – Mosonmagyaróvár térsége (M1) |
+|  | 29. | M9: | Nagycenk (M85) – Szombathely térsége – Püspökmolnári térsége – Zalaegerszeg térsége – Nagykanizsa – Inke térsége – Kaposvár – Dombóvár – Szekszárd térsége – Szeged (M5) |
 
 2. Főutak
 
-2. a) A főúthálózat elemei és új főúti kapcsolatok
+2.1. A főúthálózat elemei (A 3 km-nél rövidebb hálózati összekötő szerepű, de önálló számjellel ellátott főúti elemeket a felsorolás nem tartalmazza.)
 
-A 3 km-nél rövidebb hálózati összekötő szerepű, de önálló számjellel ellátott meglévő főúti elemeket a felsorolás nem tartalmazza.
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | 1. sz. főút: | Budapest – Tatabánya – Tata – Komárom – Győr – Mosonmagyaróvár – Hegyeshalom – (Ausztria) |
+|  | 2. | 2. sz. főút: | Budapest – Dunakeszi – Vác – Rétság – Hont – (Szlovákia) |
+|  | 3. | 3. sz. főút: | Budapest – Hatvan – Gyöngyös – Füzesabony – Mezőkövesd – Miskolc – Szikszó – Encs – Tornyosnémeti – (Szlovákia) |
+|  | 4. | 4. sz. főút: | Budapest – Cegléd – Szolnok – Püspökladány – Debrecen – Hajdúhadház – Nyíregyháza – Kisvárda – Záhony – (Ukrajna) |
+|  | 5. | 5. sz. főút: | Budapest – Dabas – Kecskemét – Kiskunfélegyháza – Szeged – Röszke – (Szerbia) |
+|  | 6. | 6. sz. főút: | Budapest – Dunaújváros – Szekszárd – Pécs – Barcs – (Horvátország) |
+|  | 7. | 7. sz. főút: | Budapest – Székesfehérvár – Siófok – Nagykanizsa – Letenye – (Horvátország) |
+|  | 8. | 8. sz. főút: | Székesfehérvár (M7) – Veszprém (M8); Vashosszúfalu (M8) – Vasvár – Körmend – Szentgotthárd – (Ausztria) |
+|  | 9. | 10. sz. főút: | Budapest – Pilisvörösvár – Piliscsaba – Dorog – Nyergesújfalu – Dunaalmás (1. sz. főút) |
+|  | 10. | 101. sz. főút: | Újhartyán (M5) – Százhalombatta – Zsámbék – Kesztölc térsége (M10) |
+|  | 11. | 11. sz. főút: | Budapest – Szentendre – Visegrád – Esztergom (117. sz. főút) |
+|  | 12. | 111. sz. főút: | Esztergom (11. sz. főút) – Dorog (10. sz. főút) |
+|  | 13. | 117. sz. főút: | Esztergom (111. sz. főút) – Tát (10. sz. főút) |
+|  | 14. | 12. sz. főút: | Vác (2. sz. főút) – Nagymaros – Szob |
+|  | 15. | 13. sz. főút: | (Szlovákia) – Komárom – Kisbér (81. sz. főút) |
+|  | 16. | 15. sz. főút: | Mosonmagyaróvár (1. sz. főút) – Rajka – (Szlovákia) |
+|  | 17. | 21. sz. főút: | Hatvan (3. sz. főút) – Salgótarján – Somoskőújfalu – (Szlovákia) |
+|  | 18. | 212. sz. főút: | Rétság térsége (2. sz. főút) – Jobbágyi – Szurdokpüspöki térsége – Gyöngyös (3. sz. főút) |
+|  | 19. | 22. sz. főút: | Bánk (2. sz. főút) – Balassagyarmat – Salgótarján (21. sz. főút) |
+|  | 20. | 222. sz. főút: | Balassagyarmat (22. sz. főút) – (Szlovákia) |
+|  | 21. | 23. sz. főút: | Bátonyterenye (21. sz. főút) –Tarnalelesz (25. sz. főút) |
+|  | 22. | 24. sz. főút: | Gyöngyös (3. sz. főút) – Parád – Eger (25. sz. főút) |
+|  | 23. | 25. sz. főút: | Kerecsend (3. sz. főút) – Eger – Bánréve (26. sz. főút) |
+|  | 24. | 26. sz. főút: | Miskolc (3. sz. főút) – Sajószentpéter – Kazincbarcika térsége – Bánréve – (Szlovákia) |
+|  | 25. | 27. sz. főút: | Sajószentpéter (26. sz. főút) – Edelény – Tornanádaska térsége – (Szlovákia) |
+|  | 26. | 304. sz. főút: | Miskolc (M30) – Miskolc (3. sz. főút) |
+|  | 27. | 31. sz. főút: | Ecser (M0) – Sülysáp – Kóka – Nagykáta – Jászberény – Dormánd (33. sz. főút) |
+|  | 28. | 311. sz. főút: | Nagykáta – Cegléd (4. sz. főút) |
+|  | 29. | 32. sz. főút: | Hatvan (M3) – Jászberény – Szolnok (M4) |
+|  | 30. | 33. sz. főút: | Füzesabony (3. sz. főút) – Tiszafüred – Debrecen (M35) |
+|  | 31. | 34. sz. főút: | Polgár (M3) – Tiszafüred – Kunhegyes – Fegyvernek (4. sz. főút) |
+|  | 32. | 35. sz. főút: | Nyékládháza (3. sz. főút) – Polgár – Debrecen (4. sz. főút) |
+|  | 33. | 36. sz. főút: | Polgár (35. sz. főút) – Nyírtura (4. sz. főút) |
+|  | 34. | 37. sz. főút: | Felsőzsolca (3. sz. főút) – Szerencs – Sátoraljaújhely – (Szlovákia) |
+|  | 35. | 38. sz. főút: | Tiszanagyfalu (39. sz. főút) – Nyíregyháza (M3) |
+|  | 36. | 381. sz. főút: | Sárospatak (37. sz. főút) – Cigánd – Kisvárda – Vásárosnamény – Tivadar – Fehérgyarmat (491. sz. főút) |
+|  | 37. | 39. sz. főút: | Tiszanagyfalu (38. sz. főút) – Mád – Encs térsége (3. sz. főút) |
+|  | 38. | 405. sz. főút: | Albertirsa (4. sz. főút) – Újhartyán (M5) |
+|  | 39. | 41. sz. főút: | Nyíregyháza (4. sz. főút) – Vásárosnamény – Beregsurány – (Ukrajna) |
+|  | 40. | 42. sz. főút: | Püspökladány (4. sz. főút) – Berettyóújfalu – Ártánd – (Románia) |
+|  | 41. | 43. sz. főút: | Szeged – Makó – Nagylak – (Románia) |
+|  | 42. | 431. sz. főút | Kiszombor (43. sz. főút) – (Románia) |
+|  | 43. | 44. sz. főút: | Kecskemét (5. sz. főút) – Békéscsaba (M44) |
+|  | 44. | 441. sz. főút: | Cegléd (4. sz. főút) – Nagykőrös – Kecskemét |
+|  | 45. | 442. sz. főút: | Szolnok (4. sz. főút) – Martfű – Tiszaföldvár – Kunszentmárton (44. sz. főút) |
+|  | 46. | 443. sz. főút: | Gyomaendrőd (46. sz. főút) – Szarvas (44. sz. főút) |
+|  | 47. | 445. sz. főút | Kecskemét (M5) – Kecskemét (44. sz. főút) |
+|  | 48. | 45. sz. főút: | Kunszentmárton (44. sz. főút) – Szentes – Hódmezővásárhely (M47) |
+|  | 49. | 451. sz. főút: | Kiskunfélegyháza (5. sz. főút) – Csongrád – Szentes (45. sz. főút) |
+|  | 50. | 46. sz. főút: | Törökszentmiklós (4. sz. főút) – Mezőtúr – Gyomaendrőd – Mezőberény (47. sz. főút) |
+|  | 51. | 47. sz. főút: | Debrecen (4. sz. főút) – Berettyóújfalu – Mezőberény – Békéscsaba (M44) |
+|  | 52. | 471. sz. főút: | Debrecen (48. sz. főút) – Mátészalka (49. sz. főút) |
+|  | 53. | 48. sz. főút: | Debrecen (47. sz. főút) – Nyírábrány – (Románia) |
+|  | 54. | 49. sz. főút: | Rohod (41. sz. főút) – Mátészalka – Csengersima – (Románia) |
+|  | 55. | 491. sz. főút: | Győrtelek (49. sz. főút) – Tiszabecs – (Ukrajna) |
+|  | 56. | 51. sz. főút: | Budapest (M0) – Kalocsa – Baja – Hercegszántó – (Szerbia) |
+|  | 57. | 52. sz. főút: | Kecskemét (M5) – Solt – Dunaföldvár (6. sz. főút) |
+|  | 58. | 53. sz. főút: | Solt (52. sz. főút) – Kiskunhalas – Tompa – (Szerbia) |
+|  | 59. | 54. sz. főút: | Kecskemét (5. sz. főút) – Soltvadkert – Sükösd (51. sz. főút) |
+|  | 60. | 55. sz. főút: | Szeged – Baja – Bátaszék (M6) |
+|  | 61. | 56. sz. főút: | Szekszárd (6. sz. főút) – Mohács – Udvar – (Horvátország) |
+|  | 62. | 57. sz. főút: | Mohács (56. sz. főút) – Pécs térsége (6. sz. főút) |
+|  | 63. | 58. sz. főút: | Pécs (6. sz. főút) – Harkány – Drávaszabolcs – (Horvátország) |
+|  | 64. | 61. sz. főút: | Dunaföldvár (6. sz. főút) – Dombóvár – Kaposvár – Nagykanizsa (7. sz. főút) |
+|  | 65. | 62. sz. főút: | Dunaújváros (6. sz. főút) – Székesfehérvár (7. sz. főút) |
+|  | 66. | 63. sz. főút: | Tolna (6. sz. főút) – Sárbogárd – Székesfehérvár (M7) |
+|  | 67. | 64. sz. főút: | Simontornya (61. sz. főút) – Balatonvilágos (7. sz. főút) |
+|  | 68. | 65. sz. főút: | Szekszárd (6. sz. főút) – Tamási – Siófok (7. sz. főút) |
+|  | 69. | 651. sz. főút: | Nagykónyi (61. sz. főút) – Iregszemcse (65. sz. főút) |
+|  | 70. | 66. sz. főút | Pécs (6. sz. főút) – Sásd – Kapospula (61. sz. főút) |
+|  | 71. | 67. sz. főút: | (Horvátország) – Zaláta – Sellye – Szigetvár – Kaposvár – Látrány – Balatonszemes (7. sz. főút) |
+|  | 72. | 68. sz. főút: | Barcs (6. sz. főút) – Nagyatád – Balatonberény (7. sz. főút) |
+|  | 73. | 681. sz. főút: | Nagyatád (68. sz. főút) – Berzence – (Horvátország) |
+|  | 74. | 71. sz. főút: | Lepsény (7. sz. főút) – Balatonfüred – Keszthely (76. sz. főút) |
+|  | 75. | 72. sz. főút: | Balatonfűzfő (71. sz. főút) –Veszprém (8. sz. főút) |
+|  | 76. | 73. sz. főút: | Csopak (71. sz. főút) – Veszprém (8. sz. főút) |
+|  | 77. | 74. sz. főút: | Nagykanizsa (7. sz. főút) – Zalaegerszeg – Vasvár (8. sz. főút) |
+|  | 78. | 75. sz. főút: | Alsópáhok (76. sz. főút) – Rédics (86. sz. főút) |
+|  | 79. | 76. sz. főút: | Balatonszentgyörgy (7. sz. főút) – Hévíz – Zalacsány – Zalaegerszeg – Nádasd (86. sz. főút) |
+|  | 80. | 77. sz. főút | Veszprém (8. sz. főút) – Tapolca – Keszthely (71. sz. főút) |
+|  | 81. | 81. sz. főút: | Székesfehérvár térsége (8. sz. főút) – Kisbér – Győr – Vámosszabadi térsége – (Szlovákia) |
+|  | 82. | 810. sz. főút | Székesfehérvár (7. sz. főút) – Magyaralmás (81. sz. főút) |
+|  | 83. | 811. sz. főút: | Székesfehérvár (7. sz. főút) – Zámoly – Csákvár – Felcsút – Óbarok (1. sz. főút) |
+|  | 84. | 82. sz. főút: | Veszprém térsége (8. sz. főút) – Zirc – Győr (M1) |
+|  | 85. | 83. sz. főút: | Városlőd (M8) – Pápa – Győr (1. sz. főút) |
+|  | 86. | 84. sz. főút: | Balatonederics (71. sz. főút) – Sárvár – Sopron – (Ausztria) |
+|  | 87. | 85. sz. főút: | Győr térsége (81. sz. főút) – Csorna – Kapuvár – Nagycenk (84. sz. főút) |
+|  | 88. | 86. sz. főút: | (Szlovénia) – Rédics – Zalabaksa – Zalalövő – Körmend – Szombathely – Csorna – Mosonmagyaróvár (1. sz. főút) |
+|  | 89. | 861. sz. főút | Kópháza (84. sz. főút) – (Ausztria) |
+|  | 90. | 87. sz. főút: | Kám (8. sz. főút) – Szombathely – Kőszeg – (Ausztria) |
+|  | 91. | 88. sz. főút: | Vát (86. sz. főút) – Sárvár (84. sz. főút) – Celldömölk térsége – Pápa – Kisbér – Oroszlány térsége – Környe – Tatabánya – Tát (10. sz. főút) |
+|  | 92. | 89. sz. főút: | Gencsapáti (87. sz. főút) – Bucsu – (Ausztria) |
+|  | 93. |  | M1, M3, M4, M5, M7 fővárosi bevezető főút besorolású szakaszai |
+|  | 94. |  | Budapest térszerkezetet meghatározó főútjai |
+|  | 95. |  | (Ausztria) – Fertőd – Fertőszentmiklós térsége (85. sz. főút) |
+|  | 96. |  | Mosonmagyaróvár (M1) – Mosonmagyaróvár (1. sz. főút) |
+|  | 97. |  | Rábacsanak térsége (86. sz. főút) – Pápa (83. sz. főút) |
+|  | 98. |  | Jánossomorja (86. sz. főút) – (Ausztria) |
+|  | 99. |  | Győr (M19) – Gönyű (1. sz. főút) |
+|  | 100. |  | Pápa (83. sz. főút) – Devecser – Tapolca (77. sz. főút) |
+|  | 101. |  | (Szlovénia) – Bajánsenye – Zalalövő – Zalaszentgyörgy térsége (76. sz. főút) |
+|  | 102. |  | Lenti térsége (75. sz. főút) – Tornyiszentmiklós (M70) |
+|  | 103. |  | Devecser – Sümeg – Keszthely (71. sz. főút) |
+|  | 104. |  | Veszprém térsége (72. sz. főút) – Litér (M8) |
+|  | 105. |  | Mór (81. sz. főút) – Oroszlány térsége |
+|  | 106. |  | Sávoly (M7) – Marcali – Somogyvár – Gamás – Törökkoppány –Nagykónyi (61. sz. főút) |
+|  | 107. |  | Iharosberény térsége (61. sz. főút) – Gyékényes térsége – (Horvátország) |
+|  | 108. |  | Pécs térsége (6. sz. főút) – Vajszló |
+|  | 109. |  | Kozármisleny (M6) – Kozármisleny (6. sz. főút) |
+|  | 110. |  | Darány (6. sz. főút) – Sellye – Harkány – Siklós – Villány – Udvar térsége (56. sz. főút) |
+|  | 111. |  | Köblény térsége (M9) – Komló térsége (66. sz. főút) |
+|  | 112. |  | Dávod térsége (51. sz. főút) – Mohács (56. sz. főút) |
+|  | 113. |  | Kalocsa (51. sz. főút) – Kecel (54. sz. főút) |
+|  | 114. |  | Soltvadkert (53. sz. főút) – Kiskunmajsa – Kistelek – Mindszent – Derekegyház – Nagymágocs – Orosháza (M47) |
+|  | 115. |  | Szabadegyháza (62. sz. főút) – Adony – Ráckeve – Kiskunlacháza (51. sz. főút) |
+|  | 116. |  | Szigetszentmiklós (M0) – Ráckeve |
+|  | 117. |  | Gödöllő (3. sz. főút) – Vác térsége – Tahitótfalu (11. sz. főút) |
+|  | 118. |  | Albertirsa (4. sz. főút) – Tápiószentmárton – Nagykáta – Jászfényszaru (32. sz. főút) |
+|  | 119. |  | Jászberény (32. sz. főút) – Gyöngyös (3. sz. főút) |
+|  | 120. |  | Szécsény térsége (22. sz. főút) – Nógrádszakál – (Szlovákia) |
+|  | 121. |  | Pétervására (23. sz. főút) – Sirok (24. sz. főút) |
+|  | 122. |  | Karácsond térsége (3. sz. főút) – Heves – Kisköre – Kunhegyes – Kenderes (4. sz. főút) |
+|  | 123. |  | Tiszafüred (33. sz. főút) – Tiszaörs (34. sz. főút) |
+|  | 124. |  | Törökszentmiklós (46. sz. főút) – Martfű térsége (442. sz. főút) |
+|  | 125. |  | Kiskunfélegyháza (5. sz. főút) – Kiskunhalas – Mélykút – Kunbaja – (Szerbia) |
+|  | 126. |  | Hódmezővásárhely (M47) – Kübekháza térsége (Szerbia/Románia) |
+|  | 127. |  | Hódmezővásárhely (M47) – Makó (43. sz. főút) |
+|  | 128. |  | Szarvas (44. sz. főút) – Orosháza – Mezőkovácsháza – Battonya – (Románia) |
+|  | 129. |  | Békés (47. sz. főút) – Doboz – Sarkad – Méhkerék térsége – (Románia) |
+|  | 130. |  | Békéscsaba (M44) – Doboz |
+|  | 131. |  | Békéscsaba – Medgyesegyháza –Mezőkovácsháza |
+|  | 132. |  | Kisújszállás (4. sz. főút) – Túrkeve – Mezőtúr – Szarvas (44. sz. főút) |
+|  | 133. |  | Kunmadaras (34. sz. főút) – Karcag – Füzesgyarmat – Szeghalom (47. sz. főút) |
+|  | 134. |  | Rakamaz térsége (38. sz. főút) – Tiszavasvári – Hajdúböszörmény (35. sz. főút) |
+|  | 135. |  | Cigánd – Pácin – (Szlovákia) |
+|  | 136. |  | Nyíregyháza térsége (M3) – Nyírbátor – Vállaj – (Románia) |
+|  | 137. |  | Csökmő térsége (47. sz. főút) – Körösnagyharsány – (Románia) |
 
-| 1. sz. főút: | Budapest – Tatabánya – Tata – Komárom – Győr – Mosonmagyaróvár – Hegyeshalom – (Ausztria) |
-| --- | --- |
-| 2. sz. főút: | Budapest – Dunakeszi – Vác – Rétság – Hont – (Szlovákia) |
-| 3. sz. főút: | Budapest – Hatvan – Gyöngyös – Füzesabony – Mezőkövesd – Miskolc – Szikszó – Encs – Tornyosnémeti – (Szlovákia) |
-| 4. sz. főút: | Budapest – Cegléd – Szolnok – Püspökladány – Debrecen – Hajdúhadház – Nyíregyháza – Kisvárda – Záhony – (Ukrajna) |
-| 5. sz. főút: | Budapest – Dabas – Kecskemét – Kiskunfélegyháza – Szeged – Röszke – (Szerbia) |
-| 6. sz. főút: | Budapest – Dunaújváros – Szekszárd – Pécs – Barcs – (Horvátország) |
-| 7. sz. főút: | Budapest – Székesfehérvár – Siófok – Nagykanizsa – Letenye – (Horvátország) |
-| 8. sz. főút: | Székesfehérvár (M7) – Veszprém – Szentgotthárd – (Ausztria) |
-| 10. sz. főút: | Budapest – Pilisvörösvár – Nyergesújfalu – Dunaalmás (1. sz. főút) |
-| 105. sz. főút: | Pilisvörösvár (10. sz. főút) – Piliscsaba – Dorog – Tát (10. sz. főút) |
-| 11. sz. főút: | Budapest – Szentendre – Visegrád – Esztergom (10. sz. főút) |
-| 111. sz. főút: | Esztergom (11. sz. főút) – Dorog (105. sz. főút) |
-| 12. sz. főút: | Vác (2. sz. főút) – Nagymaros – Szob |
-| 13. sz. főút: | (Szlovákia) – Komárom – Kisbér (81. sz. főút) |
-| 130. sz. főút: | Komárom (13. sz. főút) – (Szlovákia) |
-| 14. sz. főút: | Győr (1. sz. főút) – Vámosszabadi – (Szlovákia) |
-| 15. sz. főút: | Mosonmagyaróvár (1. sz. főút) – Rajka – (Szlovákia) |
-| 19. sz. főút: | Pér (81. sz. főút) – Győr (M1) |
-| 21. sz. főút: | Hatvan (3. sz. főút) – Salgótarján – Somoskőújfalu – (Szlovákia) |
-| 22. sz. főút: | Bánk (2. sz. főút) – Balassagyarmat – Salgótarján (M21) |
-| 23. sz. főút: | Bátonyterenye (21. sz. főút) – Tarnalelesz (25. sz. főút) |
-| 24. sz. főút: | Gyöngyös (3. sz. főút) – Parád – Eger (25. sz. főút) |
-| 25. sz. főút: | Kerecsend (3. sz. főút) – Eger – Bánréve (26. sz. főút) |
-| 26. sz. főút: | Miskolc (M30) – Sajószentpéter – Kazincbarcika térsége – Bánréve – (Szlovákia) |
-| 27. sz. főút: | Sajószentpéter (26. sz. főút) – Edelény – Hídvégardó – (Szlovákia) |
-| 302. sz. főút: | Emőd (M30) – Emőd (3. sz.) főút |
-| 31. sz. főút: | Budapest – Nagykáta – Jászberény – Dormánd (33. sz. főút) |
-| 311. sz. főút: | Nagykáta (31. sz. főút) – Cegléd (4. sz. főút) |
-| 32. sz. főút: | Hatvan (M3) – Jászberény – Szolnok (M4) |
-| 33. sz. főút: | Füzesabony (3. sz. főút) – Tiszafüred – Debrecen (4. sz. főút) |
-| 34. sz. főút: | Polgár (35. sz. főút) – Tiszafüred – Kunhegyes – Fegyvernek (4. sz. főút) |
-| 35. sz. főút: | Nyékládháza (3. sz. főút) – Polgár – Debrecen (33. sz. főút) |
-| 354. sz. főút: | Debrecen (M35) – Hajdúhadház (4. sz. főút) |
-| 36. sz. főút: | Polgár (35. sz. főút) – Nyíregyháza (4. sz. főút) |
-| 37. sz. főút: | Felsőzsolca (3. sz. főút) – Szerencs – Sátoraljaújhely – (Szlovákia) |
-| 38. sz. főút: | Bodrogkeresztúr (37. sz. főút) – Nyíregyháza (36. sz. főút) |
-| 403. sz. főút: | Nyírtura (4. sz. főút) – Nyíregyháza (M3) |
-| 405. sz. főút: | Albertirsa (4. sz. főút) – Újhartyán (M5) |
-| 41. sz. főút: | Nyíregyháza (4. sz. főút) – Vásárosnamény – Beregsurány – (Ukrajna) |
-| 42. sz. főút: | Püspökladány (4. sz. főút) – Berettyóújfalu – Ártánd – (Románia) |
-| 43. sz. főút: | Szeged (5. sz. főút) – Makó – Nagylak – (Románia) |
-| 431. sz. főút: | Kiszombor (43. sz. főút) – (Románia) |
-| 44. sz. főút: | Kecskemét (5. sz. főút) – Békéscsaba – Gyula – (Románia) |
-| 441. sz. főút: | Cegléd (4. sz. főút) – Nagykőrös – Kecskemét (445. sz. főút) |
-| 442. sz. főút: | Szolnok (4. sz. főút) – Martfű – Tiszaföldvár – Kunszentmárton (44. sz. főút) |
-| 443. sz. főút: | Gyomaendrőd (46. sz. főút) – Szarvas (44. sz. főút) |
-| 445. sz. főút | Kecskemét (M5) – Kecskemét (44. sz. főút) |
-| 45. sz. főút: | Kunszentmárton (44. sz. főút) – Szentes – Hódmezővásárhely (M47) |
-| 451. sz. főút: | Kiskunfélegyháza (5. sz. főút) – Csongrád – Szentes (45. sz. főút) |
-| 46. sz. főút: | Törökszentmiklós (4. sz. főút) – Mezőtúr – Gyomaendrőd – Mezőberény (47. sz. főút) |
-| 47. sz. főút: | Debrecen (4. sz. főút) – Berettyóújfalu – Békéscsaba – Szeged (43. sz. főút) |
-| 470. sz. főút: | Mezőberény (47. sz. főút) – Békéscsaba (44. sz. főút) |
-| 471. sz. főút: | Debrecen (4. sz. főút) – Mátészalka (49. sz. főút) |
-| 48. sz. főút: | Debrecen (4. sz. főút) – Nyírábrány – (Románia) |
-| 49. sz. főút: | Rohod (41. sz. főút) – Mátészalka – Csengersima – (Románia) |
-| 491. sz. főút: | Győrtelek (M49) – Tiszabecs – (Ukrajna) |
-| 51. sz. főút: | Budapest – Kalocsa – Baja – Hercegszántó – (Szerbia) |
-| 52. sz. főút: | Kecskemét (5. sz. főút) – Solt – Dunaföldvár (6. sz. főút) |
-| 53. sz. főút: | Solt (52. sz. főút) – Kiskunhalas – Tompa – (Szerbia) |
-| 54. sz. főút: | Kecskemét (5. sz. főút) – Soltvadkert – Sükösd (51. sz. főút) |
-| 55. sz. főút: | Szeged (5. sz. főút) – Baja – Bátaszék (M6) |
-| 56. sz. főút: | Szekszárd (6. sz. főút) – Mohács – Udvar – (Horvátország) |
-| 57. sz. főút: | Mohács (56. sz. főút) – Pécs térsége (6. sz. főút) |
-| 58. sz. főút: | Pécs (6. sz. főút) – Harkány – Drávaszabolcs – (Horvátország) |
-| 61. sz. főút: | Dunaföldvár (6. sz. főút) – Dombóvár – Kaposvár – Nagykanizsa (7. sz. főút) |
-| 611. sz. főút: | Dombóvár térsége (61. sz. főút) – Sásd (66. sz. főút) |
-| 62. sz. főút: | Dunaújváros (6. sz. főút) – Székesfehérvár térsége (7. sz. főút) |
-| 63. sz. főút: | Tolna (6. sz. főút) – Sárbogárd – Székesfehérvár (M7) |
-| 64. sz. főút: | Simontornya (61. sz. főút) – Balatonvilágos (7. sz. főút) |
-| 65. sz. főút: | Szekszárd (6. sz. főút) – Tamási – Siófok (7. sz. főút) |
-| 66. sz. főút: | Pécs (6. sz. főút) – Sásd – Kaposvár (61. sz. főút) |
-| 67. sz. főút: | (Horvátország) – Drávakeresztúr – Sellye – Szigetvár – Kaposvár – Látrány – Balatonszemes (7. sz. főút) |
-| 68. sz. főút: | Barcs (6. sz. főút) – Nagyatád – Balatonberény (7. sz. főút) |
-| 71. sz. főút: | Lepsény (7. sz. főút) – Balatonfüred – Keszthely (76. sz. főút) |
-| 72. sz. főút: | Balatonfűzfő (71. sz. főút) – Veszprém (8. sz. főút) |
-| 73. sz. főút: | Csopak (71. sz. főút) – Veszprém (8. sz. főút) |
-| 74. sz. főút: | Nagykanizsa (7. sz. főút) – Zalaegerszeg – Vasvár (8. sz. főút) |
-| 75. sz. főút: | Alsópáhok (76. sz. főút) – Rédics (86. sz. főút) |
-| 76. sz. főút: | Balatonszentgyörgy (7. sz. főút) – Hévíz – Zalacsány – Zalaegerszeg – Nádasd (86. sz. főút) |
-| 81. sz. főút: | Székesfehérvár (8. sz. főút) – Kisbér – Győr (1. sz. főút) |
-| 811. sz. főút: | Székesfehérvár (8. sz. főút) – Alcsútdoboz – Óbarok (1. sz. főút) |
-| 82. sz. főút: | Veszprém térsége (8. sz. főút) – Zirc – Győr (1. sz. főút) |
-| 821. sz. főút: | Győr (83. sz. főút) – Győr (1. sz. főút) |
-| 83. sz. főút: | Városlőd (8. sz. főút) – Pápa – Győr (82. sz. főút) |
-| 84. sz. főút: | Balatonederics (71. sz. főút) – Sárvár – Sopron – (Ausztria) |
-| 85. sz. főút: | Győr térsége (1. sz. főút) – Csorna – Kapuvár – Nagycenk (84. sz. főút) |
-| 86. sz. főút: | (Szlovénia) – Rédics – Zalabaksa – Zalalövő – Körmend – Szombathely – Csorna – Mosonmagyaróvár (1. sz. főút) |
-| 861. sz. főút: | Kópháza (84. sz. főút) – (Ausztria) |
-| 87. sz. főút: | Kám (8. sz. főút) – Szombathely – Kőszeg – (Ausztria) |
-| 88. sz. főút: | Sárvár (84. sz. főút) – Vát (86. sz. főút) |
-| 89. sz. főút: | Szombathely (87. sz. főút) – Bucsu – (Ausztria) |
-|  | M1, M3, M4, M5, M7 fővárosi bevezető főút besorolású szakaszai |
-|  | Budapest egyéb főútjai |
-| Új főúti kapcsolatok: | (Ausztria) – Fertőd – Fertőszentmiklós térsége (M85) |
-|  | Vép térsége (M86) – Nemeskér – Pereszteg (M85) |
-|  | Rábacsanak térsége (86. sz. főút) – Pápa (83. sz. főút) |
-|  | Győr (M19) – Gönyű (1. sz. főút) |
-|  | Sárvár (84. sz. főút) – Celldömölk térsége – Pápa – Kisbér – Környe – Tatabánya – Tát (105. sz. főút) |
-|  | Pápa (83. sz. főút) – Devecser – Tapolca (77. sz. főút) |
-|  | (Szlovénia) – Bajánsenye – Zalalövő – Zalaszentgyörgy térsége (76. sz. főút) |
-|  | Lenti térsége (86. sz. főút) – Tornyiszentmiklós (M70) |
-|  | 77. sz. főút: Nemesvámos (8. sz. főút) – Tapolca – Keszthely (71. sz. főút) |
-|  | Keszthely (76. sz. főút) – Sármellék – Szentgyörgyvár (76. sz. főút) |
-|  | Veszprém térsége (72. sz. főút) – Litér (M8) |
-|  | Mór (81. sz. főút) – Kecskéd térsége |
-|  | Székesfehérvár (8. sz. főút) – Zámoly – Csákvár – Felcsút (811. sz. főút) |
-|  | Nagykónyi (61. sz. főút) – Lajoskomárom térsége – Székesfehérvár (M7) |
-|  | Sávoly (M7) – Marcali – Somogyvár – Gamás – Törökkoppány – Nagykónyi (61. sz. főút) |
-|  | Iharosberény térsége (61. sz. főút) – Gyékényes térsége – (Horvátország) |
-|  | Pécs (M60) – Barcs (6. sz. főút) |
-|  | Pécs térsége (6. sz. főút) – Vajszló |
-|  | Sellye (67. sz. főút) – Siklós – Villány – Udvar térsége (56. sz. főút) |
-|  | Köblény térsége (M9) – Komló térsége (66. sz. főút) |
-|  | Dávod térsége (51. sz. főút) – Mohács (56. sz. főút) |
-|  | Kalocsa (51. sz. főút) – Kecel (54. sz. főút) |
-|  | Soltvadkert (53. sz. főút) – Kiskunmajsa – Kistelek – Mindszent – Derekegyház – Szegvár (45. sz. főút) – Nagymágocs – Orosháza (47. sz. főút) |
-|  | Szabadegyháza (62. sz. főút) – Adony – Ráckeve – Dabas – Újhartyán (M5) |
-|  | Albertirsa (4. sz. főút) – Tápiószentmárton – Nagykáta – Jászfényszaru (32. sz. főút) |
-|  | Gödöllő (3. sz. főút) – Vác térsége – Tahitótfalu (11. sz. főút) |
-|  | Rétság térsége (2. sz. főút) – Jobbágyi – Szurdokpüspöki térsége – Gyöngyös (24. sz. főút) |
-|  | Szécsény térsége (22. sz. főút) – Nógrádszakál – (Szlovákia) |
-|  | Mátraterenye térsége (23. sz. főút) – Recsk térsége (24. sz. főút) |
-|  | Budapest (M0) – Nagykáta térsége – Jászberény – Újszász térsége (32. sz. főút) |
-|  | Gyöngyös (3. sz. főút) – Karácsond – Heves – Kisköre – Kunhegyes – Kenderes (4. sz. főút) |
-|  | Törökszentmiklós (46. sz. főút) – Martfű térsége (442. sz. főút) |
-|  | Hódmezővásárhely – Kübekháza térsége (Szerbia/Románia) |
-|  | Hódmezővásárhely (47. sz. főút) – Makó (43. sz. főút) |
-|  | Szarvas (44. sz. főút) – Orosháza – Mezőkovácsháza – Battonya – (Románia) |
-|  | Békés (470. sz. főút) – Doboz – Sarkad – Méhkerék térsége – (Románia) |
-|  | Békéscsaba (44. sz. főút) – Doboz |
-|  | Békéscsaba – Medgyesegyháza – Battonya |
-|  | Kisújszállás (4. sz. főút) – Túrkeve – Mezőtúr – Szarvas (44. sz. főút) |
-|  | Kunmadaras (34. sz. főút) – Karcag – Füzesgyarmat – Szeghalom (47. sz. főút) |
-|  | Rakamaz térsége – Tiszavasvári – Hajdúböszörmény (35. sz. főút) |
-|  | Tiszanagyfalu (38. sz. főút) – Mád – Encs térsége (3. sz. főút) |
-|  | Sárospatak (37. sz. főút) – Cigánd – Kisvárda – Vásárosnamény – Tivadar – Fehérgyarmat (491. sz. főút) |
-|  | Cigánd – Pácin |
-|  | Nyíregyháza térsége (M3) – Nyírbátor – Vállaj – (Románia) |
-|  | Csökmő térsége (47. sz. főút) – Körösnagyharsány – (Románia) |
+2.2. Főutak tervezett településelkerülő szakaszai (A felsorolás nem tartalmazza azokat az elkerüléseket, amelyek a gyorsforgalmi utak részét fogják képezni.)
 
-2. b) Főutak tervezett településelkerülő szakaszai
-
-A felsorolás nem tartalmazza azokat az elkerüléseket, amelyek a gyorsforgalmi utak részét fogják képezni.
-
-| 1. sz. főút: | Vértesszőlős, Tata, Komárom, Győr |
-| --- | --- |
-| 3. sz. főút: | Gödöllő |
-| 4. sz. főút: | Fegyvernek |
-| 5. sz. főút: | Alsónémedi, Dabas, Örkény, Szeged |
-| 6. sz. főút: | Érd, Pécs, Szentlőrinc, Szigetvár |
-| 7. sz. főút: | Martonvásár, Velence, Gárdony |
-| 8. sz. főút: | Székesfehérvár, Csór, Várpalota |
-| 11. sz. főút: | Dömös |
-| 21. sz. főút: | Somoskőújfalu |
-| 22. sz. főút: | Érsekvadkert, Balassagyarmat, Őrhalom, Szécsény, Endrefalva, Szalmatercs, Karancsság, Ságújfalu, Kishartyán |
-| 23. sz. főút: | Bátonyterenye, Nemti, Pétervására, Bükkszenterzsébet, Tarnalelesz |
-| 24. sz. főút: | Gyöngyös |
-| 25. sz. főút: | Kerecsend, Eger, Szentdomonkos, Ózd, Sajópüspöki, Bánréve |
-| 26. sz. főút: | Sajószentpéter, Berente, Kazincbarcika, Vadna, Dubicsány, Putnok |
-| 27. sz. főút: | Edelény |
-| 31. sz. főút: | Jászberény, Jászjákóhalma, Jászapáti |
-| 311. sz. főút: | Nagykáta, Cegléd |
-| 32. sz. főút: | Pusztamonostor, Jászberény |
-| 33. sz. főút: | Dormánd, Besenyőtelek |
-| 34. sz. főút: | Kunmadaras, Kunhegyes |
-| 35. sz. főút: | Nagycsécs, Sajószöged |
-| 36. sz. főút: | Tiszavasvári |
-| 37. sz. főút: | Szerencs, Sátoraljaújhely |
-| 38. sz. főút: | Bodrogkisfalud, Bodrogkeresztúr, Rakamaz, Nyírtelek, Nyíregyháza |
-| 43. sz. főút: | Makó |
-| 441. sz. főút: | Cegléd, Nagykőrös |
-| 442. sz. főút: | Szolnok, Rákóczifalva, Rákócziújfalu, Martfű |
-| 45. sz. főút: | Kunszentmárton, Szentes |
-| 451. sz. főút: | Gátér, Csongrád |
-| 46. sz. főút: | Törökszentmiklós, Mezőtúr, Gyomaendrőd |
-| 47. sz. főút: | Hódmezővásárhely |
-| 471. sz. főút: | Hajdúsámson, Nyírbátor |
-| 51. sz. főút: | Kiskunlacháza, Dömsöd, Solt, Harta, Dunapataj, Kalocsa, Sükösd, Érsekcsanád, Baja, Nagybaracska |
-| 52. sz. főút: | Solt |
-| 53. sz. főút: | Akasztó, Kiskőrös, Soltvadkert, Kiskunhalas, Tompa |
-| 54. sz. főút: | Jakabszállás, Bócsa, Soltvadkert, Kecel, Császártöltés, Hajós |
-| 55. sz. főút: | Bátaszék, Alsónyék, Pörböly, Csávoly, Felsőszentiván, Tataháza, Mélykút, Mórahalom |
-| 58. sz. főút: | Szalánta, Túrony, Harkány, Drávaszabolcs |
-| 61. sz. főút: | Dunaföldvár, Cece, Simontornya, Pincehely, Dombóvár, Iharosberény, Nagykanizsa |
-| 611. sz. főút: | Dombóvár, Kaposszekcső, Vásárosdombó, Sásd |
-| 62. sz. főút: | Perkáta, Seregélyes |
-| 63. sz. főút: | Nagydorog, Bikács, Cece, Sárbogárd |
-| 65. sz. főút: | Tamási, Ságvár |
-| 66. sz. főút: | Pécs, Mánfa, Magyarszék, Magyarhertelend, Bodolyabér, Oroszló, Sásd |
-| 67. sz. főút: | Szentlászló, Kaposvár, Somogyaszaló, Mernye, Gamás, Somogybabod |
-| 68. sz. főút: | Lábod, Nagyatád, Böhönye, Mesztegnyő, Kelevíz, Marcali, Kéthely |
-| 71. sz. főút: | Keszthely |
-| 74. sz. főút: | Nagykanizsa |
-| 75. sz. főút: | Alsópáhok, Zalaapáti, Pacsa, Zalaszentmihály, Pölöske, Bak, Zalatárnok, Nova, Lenti, Rédics |
-| 76. sz. főút: | Hévíz, Zalacsány, Nagykapornak, Hagyárosbörönd, Hegyhátsál, Katafa, Nádasd |
-| 81. sz. főút: | Mór, Kisbér, Mezőörs, Pér |
-| 82. sz. főút: | Veszprém, Eplény, Zirc, Veszprémvarsány, Ravazd, Écs, Nyúl, Győr |
-| 83. sz. főút: | Takácsi, Gyarmat, Tét, Győrszemere |
-| 84. sz. főút: | Sümeg, Rábapaty, Simaság |
-| 86. sz. főút: | Zalabaksa, Kálócfa, Kozmadombja, Zalalövő, Nádasd, Egyházasrádóc, Kisunyom, Balogunyom |
-| 88. sz. főút: | Sárvár |
-| 89. sz. főút: | Szombathely |
-
-1 A térség e mellékletben a település közigazgatási területét és annak 10 km-es környezetét jelöli.
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | 1. sz. főút: | Tatabánya, Vértesszőlős, Tata, Almásfüzitő, Komárom, Abda, Öttevény |
+|  | 2. | 3. sz. főút: | Gödöllő |
+|  | 3. | 4. sz. főút: | Törökszentmiklós, Újfehértó |
+|  | 4. | 5. sz. főút: | Örkény, Kistelek |
+|  | 5. | 6. sz. főút: | Pécs, Szigetvár |
+|  | 6. | 7. sz. főút: | Martonvásár, Kápolnásnyék, Velence, Gárdony |
+|  | 7. | 8. sz. főút: | Székesfehérvár, Várpalota |
+|  | 8. | 10. sz. főút: | Nyergesújfalu, Lábatlan |
+|  | 9. | 11. sz. főút: | Pilismarót |
+|  | 10. | 22. sz. főút: | Érsekvadkert, Balassagyarmat, Őrhalom, Szécsény, Endrefalva, Szalmatercs, Karancsság, Ságújfalu, Kishartyán |
+|  | 11. | 23. sz. főút: | Bátonyterenye, Nemti, Pétervására, Bükkszenterzsébet, Tarnalelesz |
+|  | 12. | 25. sz. főút: | Szentdomonkos, Ózd, Sajópüspöki, Bánréve |
+|  | 13. | 26. sz. főút: | Sajószentpéter, Berente, Kazincbarcika, Vadna, Dubicsány, Putnok |
+|  | 14. | 27. sz. főút: | Edelény |
+|  | 15. | 31. sz. főút: | Nagykáta, Jászjákóhalma, Jászapáti |
+|  | 16. | 311. sz. főút: | Cegléd |
+|  | 17. | 32. sz. főút: | Pusztamonostor, Jászberény, Jásztelek, Alattyán, Jánoshida, Jászalsószentgyörgy |
+|  | 18. | 33. sz. főút: | Dormánd, Besenyőtelek |
+|  | 19. | 35. sz. főút: | Nagycsécs, Sajószöged |
+|  | 20. | 36. sz. főút: | Tiszavasvári |
+|  | 21. | 37. sz. főút: | Szerencs, Sátoraljaújhely |
+|  | 22. | 38. sz. főút: | Nyírtelek, Nyíregyháza |
+|  | 23. | 41. sz. főút: | Vásárosnamény |
+|  | 24. | 42. sz. főút: | Berettyóújfalu |
+|  | 25. | 43. sz. főút: | Makó |
+|  | 26. | 441. sz. főút: | Cegléd, Nagykőrös |
+|  | 27. | 442. sz. főút: | Szolnok, Rákóczifalva, Rákócziújfalu |
+|  | 28. | 45. sz. főút: | Kunszentmárton, Szentes |
+|  | 29. | 46. sz. főút: | Mezőtúr, Gyomaendrőd |
+|  | 30. | 471. sz. főút: | Hajdúsámson, Nyíradony, Nyírmihálydi, Nyírbogát, Nyírbátor, Nyírmeggyes |
+|  | 31. | 51. sz. főút: | Kiskunlacháza, Dömsöd, Solt, Harta, Dunapataj, Kalocsa, Bátya, Sükösd, Érsekcsanád, Baja, Nagybaracska |
+|  | 32. | 52. sz. főút: | Solt |
+|  | 33. | 53. sz. főút: | Akasztó, Kiskőrös, Soltvadkert, Kiskunhalas, Tompa |
+|  | 34. | 54. sz. főút: | Jakabszállás, Bócsa, Kecel, Császártöltés |
+|  | 35. | 55. sz. főút: | Pörböly, Csávoly, Felsőszentiván, Tataháza, Mélykút, Mórahalom |
+|  | 36. | 58. sz. főút: | Szalánta, Túrony |
+|  | 37. | 61. sz. főút: | Cece, Simontornya, Tolnanémedi, Pincehely, Tamási, Nagykónyi, Dombóvár, Kapospula, Iharosberény, Nagykanizsa |
+|  | 38. | 62. sz. főút: | Szabadegyháza, Seregélyes |
+|  | 39. | 63. sz. főút: | Nagydorog, Bikács, Cece, Sárbogárd, Sárkeresztúr, Aba |
+|  | 40. | 65. sz. főút: | Tamási, Iregszemcse, Ságvár, Siófok |
+|  | 41. | 67. sz. főút: | Szentlászló, Kaposvár, Somogyaszaló, Mernye, Somogybabod |
+|  | 42. | 68. sz. főút: | Lábod, Nagyatád, Böhönye, Mesztegnyő, Kelevíz, Marcali, Kéthely |
+|  | 43. | 71. sz. főút: | Keszthely |
+|  | 44. | 74. sz. főút | Egervár |
+|  | 45. | 75. sz. főút: | Pacsa, Zalaszentmihály, Bak, Zalatárnok, Nova, Lenti |
+|  | 46. | 76. sz. főút: | Keszthely, Alsópáhok, Felsőpáhok, Szentgyörgyvár, Nagykapornak, Bagod, Hagyárosbörönd, Hegyhátsál, Katafa |
+|  | 47. | 81. sz. főút: | Székesfehérvár, Kisbér, Ászár, Mezőörs, Pér |
+|  | 48. | 82. sz. főút: | Veszprém, Eplény, Zirc, Veszprémvarsány, Ravazd, Écs, Nyúl |
+|  | 49. | 83. sz. főút: | Takácsi, Gyarmat, Tét [Szentkút], Tét, Győrszemere |
+|  | 50. | 84. sz. főút: | Sümeg, Rábapaty, Simaság, Újkér |
+|  | 51. | 86. sz. főút: | Zalabaksa, Kálócfa, Kozmadombja, Zalalövő, Nádasd, Egyházasrádóc, Kisunyom, Balogunyom, Szombathely, Mosonmagyaróvár |
+|  | 52. | 87. sz. főút: | Táplánszentkereszt, Szombathely, Gyöngyösfalu, Lukácsháza, Kőszeg |
 
 ### 1/2. számú melléklet
 
-A gyorsforgalmi úton és főúton, valamint a vasúti törzshálózaton tervezett nagy hidaka Dunán és a Tiszán1
+A gyorsforgalmi és főúthálózat, a fővárosi térszerkezetet meghatározó főutak, valamint a vasúti törzshálózat nagy hídjai a Dunán és a Tiszán
 
-Tervezett Duna-hidak:
+(A térség e mellékletben a település közigazgatási területét és annak 10 kilométeres környezetét jelenti)
 
-| Közúti hidak: | Komárom | 13. sz. főút |
+1. Duna-hidak
+
+1.1. Közúti hidak
+
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | Vámosszabadi térsége – (Szlovákia) | 81. sz. főút |
+|  | 2. | Komárom – (Szlovákia) | 13. sz. főút |
+|  | 3. | Esztergom – (Szlovákia) | M10 |
+|  | 4. | Vác – Tahitótfalu | (új főút) |
+|  | 5. | Szigetmonostor – Budapest [IV. ker.] | M0 észak |
+|  | 6. | Budapest [III. ker.] – Budapest [XIII. ker.] | Aquincumi híd |
+|  | 7. | Budapest [III. ker.] – Budapest [XIII. ker.] | Árpád-híd |
+|  | 8. | Budapest [XI. ker.] – Budapest [IX. ker.] | Rákóczi-híd |
+|  | 9. | Budapest [XI. ker.] – Budapest [XXI. ker.] | Albertfalvai híd |
+|  | 10. | Budapest [XXII. ker.] – Szigetszentmiklós | M0 dél |
+|  | 11. | Százhalombatta–Tököl | 101. sz. főút |
+|  | 12. | Adony – Ráckeve | (új főút) |
+|  | 13. | Dunaújváros – Dunavecse | M8 |
+|  | 14. | Dunaföldvár – Solt | 52. sz. főút |
+|  | 15. | Bogyiszló – Fajsz | M9 |
+|  | 16. | Baja | 55. sz. főút |
+|  | 17. | Mohács | (új főút) |
+
+1.2. Vasúti hidak
+
+|  | 1. | Komárom – (Szlovákia) |
 | --- | --- | --- |
-| Esztergom | M11 |
-| Vác | (új főút) |
-| Budapest | Albertfalvai híd |
-| Aquincumi híd |
-| Galvani úti híd |
-| Lórév térsége | (új főút) |
-| Mohács | (új főút) |
-| Vasúti hidak: | Ercsi térségében a Budapestet délről elkerülő vasútvonalon, a Duna fő- és mellékágán. |  |
+|  | 2. | Budapest [III. ker.] – Budapest [IV. ker.] |
+|  | 3. | Budapest [XI. ker.] – Budapest [IX. ker.] |
+|  | 4. | Ercsi – Ráckeve térsége |
+|  | 5. | Baja |
 
-Tervezett Tisza-hidak:
+2. Tisza-hidak
 
-| Közúti hidak: | Vásárosnamény | (M3) |
+2.1. Közúti hidak
+
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | Tivadar – Kisar | 381. sz. főút |
+|  | 2. | Nagyvarsány – Tiszaszalka | (M3) |
+|  | 3. | Vásárosnamény | 41. sz. főút |
+|  | 4. | Záhony – (Ukrajna) | 4. sz. főút |
+|  | 5. | Záhony térsége – (Ukrajna) | (M34) |
+|  | 6. | Záhony térsége – (Szlovákia) | (M38) |
+|  | 7. | Cigánd – Tiszakajár | 381. sz. főút |
+|  | 8. | Tokaj – Tiszanagyfalu | 39. sz. főút |
+|  | 9. | Tiszaújváros | 35. sz. főút |
+|  | 10. | Polgár – Oszlár | M3 |
+|  | 11. | Tiszafüred – Poroszló | 33. sz. főút |
+|  | 12. | Kisköre – Tiszabura | (új főút) |
+|  | 13. | Tiszapüspöki – Besenyszög | (M4) |
+|  | 14. | Szolnok | 4. sz. főút |
+|  | 15. | Tiszaug – Lakitelek | (M44) |
+|  | 16. | Csongrád – Szentes | 451. sz. főút |
+|  | 17. | Mindszent – Baks | (új főút) |
+|  | 18. | Algyő | M47 |
+|  | 19. | Szeged – Algyő | M43 |
+|  | 20. | Szeged | 43. sz. főút |
+
+2.2. Vasúti hidak
+
+|  | 1. | Záhony térsége a nagy sebességű vasútvonalon |
 | --- | --- | --- |
-| Záhony térsége | (M34) |
-| Tokaj térsége | (új főút) |
-| Kisköre | (új főút) |
-| Tiszapüspöki | (M4) |
-| Tiszaug térsége | (M44) |
-| Mindszent | (új főút) |
-| Szeged | M43 |
-| Vasúti hidak: | Szolnok térségében, a (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna) nagysebességű vasútvonalon |  |
-| Szegednél, a (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest Liszt Ferenc Nemzetközi Repülőtér – Röszke és Kübekháza – (Szerbia és Románia) nagysebességű vasútvonalon |  |
-| Szeged – (Szerbia) – (Románia) kapcsolat helyreállítás egyesített vasúti közúti híddal |  |
-
-1 A térség a mellékletben a település közigazgatási területét és annak 10 km-es környezetét jelöli.
+|  | 2. | Eperjeske – (Ukrajna) |
+|  | 3. | Záhony – (Ukrajna) |
+|  | 4. | Tokaj – Rakamaz |
+|  | 5. | Tiszafüred – Poroszló |
+|  | 6. | Szolnok térsége a nagy sebességű vasútvonalon |
+|  | 7. | Szolnok – Szajol |
+|  | 8. | Algyő |
+|  | 9. | Szeged a nagy sebességű vasútvonalon |
+|  | 10. | Szeged, a Szeged – (Szerbia) – (Románia) kapcsolat helyreállítás egyesített vasúti közúti híddal |
 
 ### 1/3. számú melléklet
 
-Határátkelők és határátlépési pontok a gyorsforgalmi és főúthálózaton, valamint a vasúti törzshálózaton1
+Határmetszések a gyorsforgalmi és főúthálózaton, valamint az országos vasúti törzshálózaton
 
-Gyorsforgalmi- és főúthálózaton lévő határátkelők és határátlépési pontok
+(A térség e mellékletben a település közigazgatási területét és annak 10 kilométeres környezetét jelenti)
 
-Szlovákia felé:
+1. Határmetszés a gyorsforgalmi és főúthálózaton
 
-| Rajka | M15 |
-| --- | --- |
-| Rajka | 15. sz. főút |
-| Vámosszabadi | 14. sz. főút |
-| Komárom | 130. sz. főút |
-| Komárom | 13. sz. főút |
-| Esztergom | M11 |
-| Hont [Parassapuszta] | 2. sz. főút |
-| Hont térsége | M2 |
-| Balassagyarmat | új főút |
-| Nógrádszakál | új főút |
-| Somoskőújfalu | 21. sz. főút |
-| Bánréve | 26. sz. főút |
-| Hídvégardó | 27. sz. főút |
-| Tornyosnémeti | M30 |
-| Tornyosnémeti | 3. sz. főút |
-| Sátoraljaújhely | 37. sz. főút |
-| Pácin | új főút |
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | Szlovákia felé: |  |
+|  | 2. | Rajka | M15 |
+|  | 3. | Rajka | 15. sz. főút |
+|  | 4. | Vámosszabadi térsége | 81. sz. főút |
+|  | 5. | Komárom | 13. sz. főút |
+|  | 6. | Esztergom | M10 |
+|  | 7. | Hont [Parassapuszta] | 2. sz. főút |
+|  | 8. | Hont térsége | M2 |
+|  | 9. | Balassagyarmat | 222. sz. főút |
+|  | 10. | Nógrádszakál | új főút |
+|  | 11. | Somoskőújfalu | 21. sz. főút |
+|  | 12. | Bánréve | 26. sz. főút |
+|  | 13. | Tornanádaska térsége | 27. sz. főút |
+|  | 14. | Tornyosnémeti | M30 |
+|  | 15. | Tornyosnémeti | 3. sz. főút |
+|  | 16. | Sátoraljaújhely | 37. sz. főút |
+|  | 17. | Pácin | új főút |
+|  | 18. | Záhony térsége | M38 |
+|  | 19. | Ukrajna felé: |  |
+|  | 20. | Záhony | 4. sz. főút |
+|  | 21. | Záhony térsége | M34 |
+|  | 22. | Beregdaróc | M3 |
+|  | 23. | Beregsurány | 41. sz. főút |
+|  | 24. | Tiszabecs | 491. sz. főút |
+|  | 25. | Románia felé: |  |
+|  | 26. | Csengersima | 49. sz. főút |
+|  | 27. | Csenger térsége | M49 |
+|  | 28. | Vállaj | új főút |
+|  | 29. | Nyírábrány | 48. sz. főút |
+|  | 30. | Nagykereki térsége | M4 |
+|  | 31. | Ártánd | 42. sz. főút |
+|  | 32. | Körösnagyharsány | új főút |
+|  | 33. | Méhkerék térsége | új főút |
+|  | 34. | Gyula | M44 |
+|  | 35. | Battonya | új főút |
+|  | 36. | Csanádpalota | M43 |
+|  | 37. | Nagylak | 43. sz. főút |
+|  | 38. | Kiszombor | 431. sz. főút |
+|  | 39. | Kübekháza térsége | új főút |
+|  | 40. | Szerbia felé: |  |
+|  | 41. | Kübekháza térsége | új főút |
+|  | 42. | Röszke | 5. sz. főút |
+|  | 43. | Röszke | M5 |
+|  | 44. | Tompa | 53. sz. főút |
+|  | 45. | Kunbaja | új főút |
+|  | 46. | Hercegszántó | 51. sz. főút |
+|  | 47. | Horvátország felé: |  |
+|  | 48. | Udvar | 56. sz. főút |
+|  | 49. | Ivándárda térsége | M6 |
+|  | 50. | Drávaszabolcs | 58. sz. főút |
+|  | 51. | Zaláta | 67. sz. főút |
+|  | 52. | Drávatamási | M60 |
+|  | 53. | Barcs | 6. sz. főút |
+|  | 54. | Berzence | 681. sz. főút |
+|  | 55. | Gyékényes térsége | új főút |
+|  | 56. | Letenye | M7 |
+|  | 57. | Letenye | 7. sz. főút |
+|  | 58. | Szlovénia felé: |  |
+|  | 59. | Tornyiszentmiklós | M70 |
+|  | 60. | Rédics | 86. sz. főút |
+|  | 61. | Bajánsenye | új főút |
+|  | 62. | Ausztria felé: |  |
+|  | 63. | Szentgotthárd térsége | M8 |
+|  | 64. | Szentgotthárd [Rábafüzes] | 8. sz. főút |
+|  | 65. | Bucsu | 89. sz. főút |
+|  | 66. | Kőszeg | 87. sz. főút |
+|  | 67. | Kópháza | 861. sz. főút |
+|  | 68. | Sopron | 84. sz. főút |
+|  | 69. | Sopron | M85 |
+|  | 70. | Fertőd | új főút |
+|  | 71. | Jánossomorja | új főút |
+|  | 72. | Hegyeshalom | M1 |
+|  | 73. | Hegyeshalom | 1. sz. főút |
 
-Ukrajna felé:
+2. Határmetszés a tervezett nagy sebességű vasútvonalakon
 
-| Záhony | 4. sz. főút |
-| --- | --- |
-| Záhony térsége | M34 |
-| Beregdaróc | M3 |
-| Beregsurány | 41. sz. főút |
-| Tiszabecs | 491. sz. főút |
+|  | 1. | Hegyeshalom térsége és Rajka térsége |
+| --- | --- | --- |
+|  | 2. | Záhony térsége |
+|  | 3. | Röszke és Kübekháza |
+|  | 4. | Gyékényes térsége |
 
-Románia felé:
+3. Határmetszés az egyéb országos vasúti törzshálózaton
 
-| Csengersima | 49. sz. főút |
-| --- | --- |
-| Csenger térsége | M49 |
-| Vállaj | új főút |
-| Nyírábrány | 48. sz. főút |
-| Nagykereki térsége | M4 |
-| Ártánd | 42. sz. főút |
-| Méhkerék | új főút |
-| Gyula | 44. sz. főút |
-| Battonya | új főút |
-| Csanádpalota | M43 |
-| Nagylak | 43. sz. főút |
-| Kiszombor | 431. sz. főút |
-| Kübekháza | új főút |
-
-Szerbia felé:
-
-| Kübekháza térsége | új főút |
-| --- | --- |
-| Röszke | 5. sz. főút |
-| Röszke | M5 |
-| Tompa | 53. sz. főút |
-| Hercegszántó | 51. sz. főút |
-
-Horvátország felé:
-
-| Udvar | 56. sz. főút |
-| --- | --- |
-| Ivándárda térsége | M6 |
-| Drávaszabolcs | 58. sz. főút |
-| Drávakeresztúr | 67. sz. főút |
-| Barcs | 6. sz. főút |
-| Gyékényes térsége | új főút |
-| Letenye | M7 |
-| Letenye | 7. sz. főút |
-
-Szlovénia felé:
-
-| Tornyiszentmiklós | M70 |
-| --- | --- |
-| Rédics | 86. sz. főút |
-| Bajánsenye | új főút |
-
-Ausztria felé:
-
-| Szentgotthárd térsége | M8 |
-| --- | --- |
-| Szentgotthárd [Rábafüzes] | 8. sz. főút |
-| Bucsu | 89. sz. főút |
-| Kőszeg | 87. sz. főút |
-| Kőszeg térsége | M87 |
-| Kópháza | 861. sz. főút |
-| Sopron | 84. sz. főút |
-| Sopron | M85 |
-| Fertőd | új főút |
-| Hegyeshalom | M1 |
-| Hegyeshalom | 1. sz. főút |
-
-A tervezett nagysebességű vasútvonalakon lévő határátkelők és határátlépési pontok
-
-| Hegyeshalom és Rajka |  |
-| --- | --- |
-| Záhony térsége |  |
-| Röszke és Kübekháza |  |
-| Gyékényes térsége |  |
-
-Vasúti törzshálózaton lévő határátkelők és határátlépési pontok
-
-Szlovákia felé:
-
-| Rajka |  |
-| --- | --- |
-| Komárom |  |
-| Szob |  |
-| Ipolytarnóc |  |
-| Somoskőújfalu |  |
-| Bánréve |  |
-| Hídvégardó |  |
-| Hidasnémeti |  |
-| Sátoraljaújhely |  |
-| Győröcske |  |
-
-Ukrajna felé:
-
-| Záhony |  |
-| --- | --- |
-| Eperjeske |  |
-
-Románia felé:
-
-| Vállaj [Tiborszállás – Ágerdőmajor] |  |
-| --- | --- |
-| Nyírábrány |  |
-| Biharkeresztes |  |
-| Kötegyán |  |
-| Lőkösháza |  |
-| Nagylak |  |
-
-Szerbia felé:
-
-| Szeged |  |
-| --- | --- |
-| Röszke |  |
-| Kelebia |  |
-| Csikéria |  |
-
-Horvátország felé:
-
-| Magyarbóly |  |
-| --- | --- |
-| Gyékényes |  |
-| Murakeresztúr |  |
-
-Szlovénia felé:
-
-| Bajánsenye |  |
-| --- | --- |
-
-Ausztria felé:
-
-| Szentgotthárd |  |
-| --- | --- |
-| Ágfalva |  |
-| Sopron |  |
-| Fertőd |  |
-| Hegyeshalom |  |
+|  | 1. | Szlovákia felé: |
+| --- | --- | --- |
+|  | 2. | Rajka |
+|  | 3. | Komárom |
+|  | 4. | Szob |
+|  | 5. | Nógrádszakál |
+|  | 6. | Ipolytarnóc |
+|  | 7. | Somoskőújfalu |
+|  | 8. | Bánréve |
+|  | 9. | Hídvégardó |
+|  | 10. | Hidasnémeti |
+|  | 11. | Sátoraljaújhely |
+|  | 12. | Ukrajna felé: |
+|  | 13. | Záhony |
+|  | 14. | Eperjeske |
+|  | 15. | Románia felé: |
+|  | 16. | Vállaj [Ágerdőmajor] |
+|  | 17. | Nyírábrány |
+|  | 18. | Biharkeresztes |
+|  | 19. | Kötegyán |
+|  | 20. | Lőkösháza |
+|  | 21. | Nagylak |
+|  | 22. | Szerbia felé: |
+|  | 23. | Szeged |
+|  | 24. | Röszke |
+|  | 25. | Kelebia |
+|  | 26. | Csikéria |
+|  | 27. | Horvátország felé: |
+|  | 28. | Magyarbóly |
+|  | 29. | Gyékényes |
+|  | 30. | Murakeresztúr |
+|  | 31. | Szlovénia felé: |
+|  | 32. | Bajánsenye |
+|  | 33. | Ausztria felé: |
+|  | 34. | Szentgotthárd |
+|  | 35. | Ágfalva |
+|  | 36. | Sopron |
+|  | 37. | Fertőd |
+|  | 38. | Hegyeshalom |
 
 ### 1/4. számú melléklet
 
-Az országos vasúti törzshálózat elemei
+Országos törzshálózati vasúti pályák
 
-Tervezett nagysebességű vasútvonalak:
+(A térség e mellékletben a település közigazgatási területét és annak 10 kilométeres környezetét jelenti)
 
-– (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest Liszt Ferenc Nemzetközi Repülőtér – Röszke és Kübekháza – (Szerbia és Románia) (IV. sz. transzeurópai közlekedési folyosó hazai szakasza)
+1. Nagy sebességű vasútvonalak
 
-– (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna) (V. sz. transzeurópai közlekedési folyosó hazai szakasza)
+1.1. (Ausztria és Szlovákia) – Hegyeshalom térsége és Rajka térsége–Budapest [XI. kerület, Kelenföld] – Budapest [Budapest Liszt Ferenc Nemzetközi Repülőtér] – Röszke és Kübekháza – (Szerbia és Románia)
 
-A transzeurópai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonalak:
+1.2. (Horvátország) – Gyékényes térsége – Budapest [XI. kerület, Kelenföld] – Budapest [Budapest Liszt Ferenc Nemzetközi Repülőtér]–Záhony térsége – (Ukrajna)
 
-– Budapest – Hegyeshalom – (Ausztria)
+2. Egyéb országos törzshálózati vasúti pályák
 
-– Hegyeshalom – Rajka – (Szlovákia)
+2.1. Budapest [VIII. kerület, Keleti pu.] – Hegyeshalom – (Ausztria)
 
-– Győr – Sopron – (Ausztria)
+2.2. Hegyeshalom – Rajka – (Szlovákia)
 
-– Győr – Celldömölk
+2.3. Budapest [XIV. kerület, Rákosrendező] – Esztergom
 
-– Szombathely – Sopron – Ágfalva – (Ausztria)
+2.4. Komárom – Komárom – (Szlovákia)
 
-– Zalaszentiván – Nagykanizsa
+2.5. Esztergom – Almásfüzitő
 
-– Székesfehérvár – Szombathely
+2.6. Székesfehérvár – Komárom
 
-– Szombathely – Szentgotthárd – (Ausztria)
+2.7. Győr – Sopron – (Ausztria)
 
-– Boba – Zalaegerszeg – Bajánsenye – (Szlovénia)
+2.8. Fertőszentmiklós – (Ausztria)
 
-– Budapest – Székesfehérvár – Nagykanizsa – Murakeresztúr – (Horvátország)
+2.9. Győr – Celldömölk
 
-– Budapest – Pécs
+2.10. Győr – Veszprém
 
-– Dombóvár – Gyékényes – (Horvátország)
+2.11. Tatabánya – Oroszlány
 
-– Pusztaszabolcs – Adony
+2.12. Szombathely – Sopron – Ágfalva – (Ausztria)
 
-– Székesfehérvár – Pusztaszabolcs
+2.13. Hegyeshalom – Porpác
 
-– Murakeresztúr – Gyékényes
+2.14. Szombathely – Zalaszentiván
 
-– Pécs – Pécs külváros
+2.15. Zalaszentiván – Nagykanizsa
 
-– Pécs – Villány
+2.16. Székesfehérvár – Szombathely
 
-– Villány – Magyarbóly – (Horvátország)
+2.17. Szombathely – Szentgotthárd – (Ausztria)
 
-– Budapest – Szob – (Szlovákia)
+2.18. Boba – Zalaegerszeg – Őriszentpéter – (Szlovénia)
 
-– Budapest – Hatvan – Miskolc – Mezőzombor
+2.19. Balatonszentgyörgy – Tapolca – Ukk
 
-– Felsőzsolca – Hidasnémeti – (Szlovákia)
+2.20. Szabadbattyán – Tapolca
 
-– Budapest – Szolnok – Debrecen – Nyíregyháza – Záhony – (Ukrajna)
+2.21. Budapest [I. kerület, Déli pu.] – Székesfehérvár – Nagykanizsa – Murakeresztúr – (Horvátország)
 
-– Mezőzombor – Nyíregyháza
+2.22. Érdi elágazás – Tárnok
 
-– Püspökladány – Biharkeresztes – (Románia)
+2.23. Budapest [XI. kerület, Kelenföld] – Pécs
 
-– Budapest – Szolnok – Békéscsaba – Lőkösháza – (Románia)
+2.24. Dombóvár – Gyékényes – (Horvátország)
 
-– Szeged-Rendező – Röszke – (Szerbia)
+2.25. Pusztaszabolcs – Dunaújváros – Paks
 
-– Cegléd – Szeged
+2.26. Mezőfalva – Rétszilas
 
-– Budapest – Kelebia – (Szerbia)
+2.27. Székesfehérvár – Pusztaszabolcs
 
-– Komárom – Komárom – (Szlovákia)
+2.28. Sárbogárd – Börgönd
 
-– Záhony normál nyomtávú hálózat
+2.29. Rétszilas – Bátaszék
 
-– Záhony széles nyomtávú hálózat
+2.30. Murakeresztúr – Gyékényes
 
-– Eperjeske – (Ukrajna)
+2.31. Pécs – Villány
 
-Egyéb országos törzshálózati vasútvonalak:
+2.32. Villány – Magyarbóly – (Horvátország)
 
-– Budapest – Esztergom
+2.33. Budapest [VI. kerület, Nyugati pu.] – Szob – (Szlovákia)
 
-– Esztergom – Almásfüzitő
+2.34. Budapest [XV. kerület, Rákospalota-Újpest] – Vácrátót – Vác
 
-– Székesfehérvár – Komárom
+2.35. Nógrádszakál – (Szlovákia)
 
-– Fertőszentmiklós – (Ausztria)
+2.36. Aszód – Vácrátót
 
-– Győrszabadhegy – Veszprém
+2.37. Nógrádszakál – Ipolytarnóc – (Szlovákia)
 
-– Felsőgalla – Tatabánya – Oroszlány
+2.38. Budapest [VIII. kerület, Keleti pu.] – Hatvan – Miskolc – Mezőzombor
 
-– Hegyeshalom – Porpác
+2.39. Mezőzombor – Sátoraljaújhely – (Szlovákia)
 
-– Szombathely – Zalaszentiván
+2.40. Hatvan – Somoskőújfalu – (Szlovákia)
 
-– Körmend – Zalalövő
+2.41. Hatvan – Újszász
 
-– Tapolca – Ukk
+2.42. Vámosgyörk – Újszász
 
-– Szabadbattyán – Tapolca
+2.43. Füzesabony – Putnok
 
-– Balatonszentgyörgy – Tapolca
+2.44. Nyékládháza – Tiszapalkonya
 
-– Kaposvár – Fonyód
+2.45. Felsőzsolca – Hidasnémeti – (Szlovákia)
 
-– Adony – Dunaújváros
+2.46. Miskolc – Bánréve – (Szlovákia)
 
-– Dunaújváros – Paks
+2.47. Bánréve – Ózd
 
-– Mezőfalva – Rétszilas
+2.48. Sajóecseg – Tornanádaska – Hídvégardó – (Szlovákia)
 
-– Sárbogárd – Börgönd
+2.49. Budapest [VI. kerület, Nyugati pu.] – Cegléd – Szolnok – Záhony – (Ukrajna)
 
-– Rétszilas – Bátaszék
+2.50. Mezőzombor – Nyíregyháza
 
-– Dombóvár – Bátaszék
+2.51. Püspökladány – Biharkeresztes – (Románia)
 
-– Gyékényes – Barcs – Szentlőrinc
+2.52. Karcag – Tiszafüred
 
-– Villány – Mohács
+2.53. Debrecen – Nyírábrány – (Románia)
 
-– Budapest – Vácrátót – Vác
+2.54. Debrecen – Füzesabony
 
-– Galgamácsa – Vácrátót
+2.55. Apafa – Mátészalka
 
-– Aszód – Balassagyarmat – Ipolytarnóc – (Szlovákia)
+2.56. Mátészalka – Tiborszállás – Vállaj [Ágerdőmajor] – (Románia)
 
-– Mezőzombor – Sátoraljaújhely – (Szlovákia)
+2.57. Budapest [X. kerület, Rákos] – Újszász – Szolnok
 
-– Hatvan – Somoskőújfalu – (Szlovákia)
+2.58. Szajol – Lőkösháza – (Románia)
 
-– Hatvan – Újszász
+2.59. Szeged – Békéscsaba – Kötegyán – (Románia)
 
-– Vámosgyörk – Gyöngyös
+2.60. Szeged – Röszke – (Szerbia)
 
-– Füzesabony – Eger
+2.61. Cegléd – Szeged
 
-– Nyékládháza – Tiszapalkonya-Erőmű
+2.62. Budapest [X. kerület, Kőbánya-Kispest] – Lajosmizse – Kecskemét
 
-– Miskolc – Bánréve – (Szlovákia)
+2.63. Budapest [IX. kerület, Ferencváros] – Kelebia – (Szerbia)
 
-– Bánréve – Ózd
+2.64. Bátaszék – Baja – Kiskunhalas
 
-– Miskolc – Tornanádaska – Hídvégardó – (Szlovákia)
+2.65. Kiskunhalas – Kiskunfélegyháza
 
-– Debrecen – Nyírábrány – (Románia)
+2.66. Budapest [XXIII. kerület, Soroksár–Soroksár Terminál]
 
-– Debrecen – Füzesabony
+2.67. Záhony normál nyomtávú hálózat
 
-– Apafa – Mátészalka
+2.68. Nagybörzsöny [Nagyirtás] – Nagybörzsöny
 
-– Nyíregyháza – Nyírbátor
+2.69. Záhony széles nyomtávú hálózat
 
-– Mátészalka – Tiborszállás – Ágerdőmajor – (Románia)
+2.70. Budapesti körvasút vonalai közül:
 
-– Tiszatenyő – Szentes – Hódmezővásárhely – Makó
+2.70.1. Budapest [X. kerület, Kőbánya felső] – Budapest [XIV. kerület, Rákosrendező]
 
-– Szeged – Békéscsaba – Kötegyán – (Románia)
+2.70.2. Budapest [XV. kerület, Angyalföldi elágazás] – Budapest [XIII. kerület, Angyalföld]
 
-– Budapest – Lajosmizse – Kecskemét
+2.70.3. Budapest [XV. kerület, Angyalföldi elágazás – Rákospalota-Újpest]
 
-– Bátaszék – Baja – Kiskunhalas
+2.70.4. Budapest [X. kerület, Rákos – Rákosi elágazás]
 
-– Kiskunhalas – Kiskunfélegyháza
+2.70.5. Budapest [IX. kerület, Ferencváros] – Budapest [X. kerület, Kőbánya felső]
 
-– Budapesti körvasutak
+2.70.6. Budapest[IX. kerület, Ferencváros] – Budapest [X. kerület, Kőbánya-Kispest]
 
-Az országos vasúti törzshálózat tervezett elemei:
+2.70.7. Budapest [XIV. kerület, Rákosrendező] – Budapest [XV. kerület, Vasúttörténeti park]
 
-A transzeurópai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonalakhoz kapcsolódóan:
+2.70.8. Budapest [XIX. kerület, Kispesti elágazás] – Budapest [XVIII. kerület, Pestszentimre felső elágazás]
 
-– A Budapestet délről kerülő vasútvonal: Komárom, Kisbér, Mór, Bodajk, Székesfehérvár, Pusztaszabolcs, Ercsi, Szigetújfalu, Áporka, Kiskunlacháza, Bugyi, Dabas, Újhartyán, Pusztavacs, Cegléd településeket érintve, a Dunán és a ráckevei Duna-ágon új Duna-híddal,
+2.70.9. Budapest [X. kerület, Kőbánya teher – Kőbánya felső]
 
-– Hajmáskér – Balatonfűzfő kapcsolat.
+2.70.10. Budapest [X. kerület, Kőbánya felső elágazás – Kőbánya-Hizlaló]
 
-Egyéb országos törzshálózati vasútvonalakhoz kapcsolódóan:
+2.70.11. Budapest [X. kerület, Kőbánya felsői kiágazás – Rákos]
 
-– Záhony – (Szlovákia) kapcsolat,
+2.70.12. Budapest [XIV. kerület, Rákosrendező – Városligeti elágazás]
 
-– Bácsalmás – Csikéria – (Szerbia) – Röszke és Szeged – Nagylak – (Románia) összeköttetés,
+2.70.13. Budapest [XIV. kerület, Rákosrendező] – Budapest [XV. kerület, Istvántelki főműhely]
 
-– Szegednél deltavágány,
+2.70.14. Budapest [XXIII. kerület, Soroksár] – Budapest [XVIII. kerület, Szemeretelep mh.]
 
-– Szeged – (Szerbia) – (Románia) kapcsolat helyreállítása,
+2.71. Budapestet délről kerülő vasútvonal (V0): Szárliget – Szár – Bodmér – Vértesacsa – Vereb – Baracska – Ercsi – Szigetszentmárton – Kiskunlacháza – Bugyi – Dabas – Újhartyán – Albertirsa
 
-– Zalaszentivánnál 2 deltavágány.
+2.72. Hajmáskér – Balatonfűzfő kapcsolat
+
+2.73. Sopron – Ágfalva – (Ausztria)
+
+2.74. Kópházánál átkötés
+
+2.75. Bácsalmás – Csikéria – (Szerbia) – Röszke és Szeged – Nagylak – (Románia) összeköttetés
+
+2.76. Szegednél deltavágány
+
+2.77. Szeged – (Szerbia) – (Románia) kapcsolat helyreállítása
+
+2.78. Zalaszentivánnál 2 deltavágány.
 
 ### 1/5. számú melléklet
 
-A repülőterek besorolása
+Országos repülőterek
 
-Országos jelentőségű polgári repülőterek:
+1. Nemzetközi kereskedelmi repülőterek:
 
-– Budapest Liszt Ferenc Nemzetközi Repülőtér
+1.1. Budapest [Budapest Liszt Ferenc Nemzetközi Repülőtér],
 
-– Debrecen
+1.2. Debrecen [Debreceni Nemzetközi Repülőtér],
 
-– Sármellék
+1.3. Sármellék [Hévíz-Balaton Airport].
 
-Kereskedelmi (nemzetközi) repülőtérré fejleszthető repülőterek:
+2. Egyéb kereskedelmi repülőterek és kereskedelmi repülőtérré fejleszthető repülőterek:
 
-– Baracs – Kisapostag (Dunaújváros)
+2.1. Pécs – Pogány,
 
-– Békéscsaba
+2.2. Győr – Pér,
 
-– Budaörs
+2.3. Nyíregyháza,
 
-– Fertőszentmiklós
+2.4. Szeged,
 
-– Kalocsa
+2.5. Baracs – Kisapostag (Dunaújváros),
 
-– Kunmadaras
+2.6. Békéscsaba,
 
-– Mezőkövesd – Mezőkeresztes
+2.7. Budaörs,
 
-– Nyíregyháza
+2.8. Fertőszentmiklós,
 
-– Őcsény
+2.9. Kunmadaras,
 
-– Pécs – Pogány
+2.10. Mezőkövesd – Mezőkeresztes,
 
-– Pér (Győr)
+2.11. Őcsény,
 
-– Siófok – Kiliti
+2.12. Siófok (Kiliti),
 
-– Szeged
+2.13. Székesfehérvár [Alba Airport],
 
-– Székesfehérvár [Alba Airport]
+2.14. Vát – Porpác,
 
-– Vát-Porpác (Szombathely)
+2.15. Taszár,
 
-– Taszár
+2.16. Veszprém – Szentkirályszabadja.
 
-– Veszprém – Szentkirályszabadja
+3. Közös felhasználású katonai és polgári repülőtérré fejleszthető repülőterek:
 
-Közös felhasználású katonai és polgári repülőtér:
+3.1. Kecskemét,
 
-– Szolnok
+3.2. Pápa,
 
-Állami repülések céljára szolgáló repülőterek:
-
-– Kecskemét
-
-– Pápa
+3.3. Szolnok.
 
 ### 1/6. számú melléklet
 
-Országos kerékpárút törzshálózat elemei
-
-1. Felső-Dunamente kerékpárút (6-os jelű Euro Velo®):
-
-– 1.A: (Szlovákia és Ausztria) – Rajka – Bezenye – Mosonmagyaróvár – Halászi – Darnózseli – Hédervár – Ásványráró – Dunaszeg – Győrladamér – Győrzámoly – Győrújfalu – Győr – Vének – Gönyű – Komárom – Almásfüzitő – Dunaalmás – Neszmély – Süttő – Lábatlan – Nyergesújfalu – Tát – Esztergom – Pilismarót – Dömös – Visegrád – Dunabogdány – Tahitótfalu – Leányfalu – Szentendre – Budapest
-
-– 1.B: Komárom – (Szlovákia)
-
-– 1.C: Pilismarót – Szob – Nagymaros – Verőce – Vác – Göd – Dunakeszi – Budapest
-
-2. Északkeleti határmente kerékpárút:
-
-– 2.A: (Szlovákia) – Szob – Kemence – Balassagyarmat – Szécsény – Salgótarján – Cered – Ózd – Bánréve – Aggtelek – Jósvafő – Szalonna – Hidasnémeti – Gönc – (A 4. sz. Tiszamente kerékpárút Gönc és Sátoraljaújhely közötti szakasza) – Sátoraljaújhely – Pácin – Záhony – Zsurk – Lónya – Vásárosnamény – Tarpa – Szatmárcseke – Tiszacsécse – Tiszabecs – (Ukrajna)
-
-– 2.B: Szécsény – (Szlovákia)
-
-– 2.C: Bánréve – (Szlovákia)
-
-– 2.D: Záhony – (Ukrajna)
-
-3. Kelet-magyarországi kerékpárút:
-
-– 3.A: Budapest – Fót – Mogyoród – Szada – Gödöllő – Zagyvaszántó – Gyöngyöspata – Gyöngyös – Markaz – Kisnána – Egerszalók – Eger – Mezőkövesd – Poroszló – Tiszafüred – Hortobágy – Nádudvar – Hajdúszoboszló – Debrecen – Nyírábrány – Nyírbátor – Csengersima – Tiszabecs
-
-– 3.B: Nyírábrány – (Románia)
-
-– 3.C: Csengersima – (Románia)
-
-4. Tiszamente kerékpárút (11-es jelű Euro Velo®):
-
-– 4.A: (Szlovákia) – Tornyosnémeti – Hidasnémeti – Gönc – Telkibánya – Bózsva – Pálháza – Füzérradvány – Mikóháza – Sátoraljaújhely – Sárospatak – Bodrogolaszi – Vámosújfalu – Olaszliszka – Szegilong – Szegi – Bodrogkisfalud – Bodrogkeresztúr – Tarcal – Tokaj – Tiszaladány – Tiszatardos – Tiszalök – Tiszadada – Tiszadob – Tiszaújváros – Tiszapalkonya – Tiszatarján – Tiszakeszi – Ároktő – Tiszadorogma – Tiszabábolna – Poroszló – Sarud – Kisköre – Tiszasüly – Kőtelek – Nagykörű – Szolnok – Tószeg – Tiszavárkony – Tiszajenő – Tiszakécske – Lakitelek – Tiszaalpár – Csongrád – Baks – Ópusztaszer – Sándorfalva – Szeged – Röszke – (Szerbia)
-
-– 4.B: (Szlovákia) – Hollóháza – Füzérkomlós – Bózsva
-
-– 4.C: Sátoraljaújhely – (Szlovákia)
-
-– 4.D: Tiszaújváros – Tiszacsege – Tiszafüred – Abádszalók – Kisköre
-
-5. Dél-alföldi határmente kerékpárút:
-
-– 5.A: Debrecen – Létavértes – Biharkeresztes – Sarkad – Gyula – Lőkösháza – Battonya – Mezőhegyes – Tótkomlós – Orosháza – Hódmezővásárhely – Szeged Mórahalom – Tompa – Bácsalmás – Nagybaracska – Mohács
-
-– 5.B: Biharkeresztes – Ártánd – (Románia)
-
-– 5.C: Nagybaracska – Dávod – (Szerbia)
-
-6. Alsó-Dunamente kerékpárút (6-os jelű Euro Velo®):
-
-– 6.A: Budapest – Dunaharaszti – Taksony – Dunavarsány – Majosháza – Ráckeve – Dömsöd – Dunavecse – Dunaegyháza – Solt – Dunapataj – Ordas – Dunaszentbenedek – Uszód – Foktő – Fajsz – Baja – Szeremle – Dunafalva – Mohács – Kölked – (Horvátország)
-
-– 6.B: Budapest – Érd – Százhalombatta – Tököl – Szigethalom – Dunavarsány
-
-– 6.C: Mohács – Hercegszántó – (Szerbia )
-
-7. Délnyugat-magyarországi kerékpárút:
-
-– 7.A: Budapest – Biatorbágy – Etyek – Nadap – Sukoró – Pákozd – Székesfehérvár – Balatonfőkajár – Siófok – Szántód – Balatonföldvár – Balatonlelle – Balatonboglár – Fonyód – Keszthely – Sármellék – Zalakaros – Nagykanizsa – Kaszó – Nagyatád – Berzence – (Horvátország)
-
-– 7.B: Nadap – Velence – Gárdony – Pákozd
-
-– 7.C: Balatonfőkajár – Balatonfűzfő – Balatonalmádi
-
-– 7.D: Keszthely közigazgatási területén a 7.A és 8.A kerékpárutak összekötése
-
-8. Északnyugat-dunántúli kerékpárút:
-
-– 8.A: Győr – Pannonhalma – Csesznek – Zirc – Veszprém – Balatonalmádi – Balatonfüred – Badacsonytomaj – Szigliget – Keszthely – Hévíz – Zalabér – Zalaegerszeg – Zalalövő – Őriszentpéter
-
-– 8.B: Balatonfüred – Tihany
-
-9. Dunántúli határmenti kerékpárút:
-
-– 9.A: Kölked – Sátorhely – Majs – Lippó – Kislippó – Magyarbóly – Villány – Villánykövesd – Palkonya – Újpetre – Vokány – Nagytótfalu – Kisharsány – Siklós – Matty – Kisszentmárton – Vejti – Piskó – Zaláta – Drávasztára – Felsőszentmárton – Szentborbás – Tótújfalu – Potony – Drávagárdony – Drávatamási – Barcs – Péterhida – Babócsa – Bolhó – Heresznye – Vízvár – Somogyudvarhely – Berzence – Gyékényes – Zákány – Őrtilos – Murakeresztúr – Molnári – Letenye – Bázakerettye – Tormafölde – Szécsisziget – Lenti – Rédics – Resznek – Nemesnép – Szentgyörgyvölgy – Velemér – Magyarszombatfa – Bajánsenye – Őriszentpéter – Szalafő – Apátistvánfalva – Magyarlak – Rábagyarmat – Rátót – Csákánydoroszló – Pinkamindszent – Szentpéterfa – Pornóapáti – Felsőcsatár – Narda – Bucsu – Bozsok – Velem – Kőszeg – Horvátzsidány – Csepreg – Szakony – Zsira – Sopronhorpács – Egyházasfalu – Lövő – Röjtökmuzsaj – Nagylózs – Fertőhomok – Fertőd – Sarród – Jánossomorja – Várbalog – Hegyeshalom – Bezenye
-
-– 9.B: Siklós – Harkány – Márfa – Diósviszló – Rádfalva – Kórós – Sámod – Kisszentmárton
-
-– 9.C: Murakeresztúr – (Horvátország)
-
-– 9.D: Szentgyörgyvölgy – Magyarföld – Bajánsenye
-
-– 9.E: Szalafő – (Szlovénia)
-
-– 9.F: Szentgotthárd – (Ausztria)
-
-– 9.G: Szentpéterfa – Ják
-
-– 9.H: Ólmod – (Ausztria)
-
-– 9.I: Fertőhomok – Fertőrákos – (Ausztria)
-
-– 9.J: Sarród – (Ausztria)
-
-21. Palócok földje kerékpárút:
-
-– Szécsény – Hollókő – Pásztó – Jobbágyi – Zagyvaszántó
-
-22. Bükki kerékpárút:
-
-– Ózd – Dédestapolcsány – Szilvásvárad – Bélapátfalva – Eger
-
-23. Nyugat-zempléni kerékpárút:
-
-– Gönc – Boldogkőváralja – Szerencs – Miskolc – Felsőtárkány – Eger
-
-31. Zagyvamenti kerékpárút:
-
-– Zagyvaszántó – Hatvan – Jászberény – Szolnok
-
-32. Jászok, kiskunok földje kerékpárút:
-
-– Jászberény – Cegléd – Nagykőrös – Kecskemét – Bugacpusztaháza
-
-41. Hajdúvárosok-Szabolcs kerékpárút:
-
-– Szerencs – Tokaj – Gávavencsellő – Nagyhalász – Nyíregyháza – Hajdúnánás – Hajdúdorog – Hajdúböszörmény – Debrecen
-
-42. Alföldi kerékpárút:
-
-– Tiszafüred – Karcag – Füzesgyarmat – Szeghalom – Vésztő – Doboz – Sarkad
-
-43. Körösvölgyi kerékpárút:
-
-– (Románia) – Gyula – Békéscsaba – Békés – Mezőberény – Gyomaendrőd – Szarvas – Öcsöd – Csongrád – Kiskunfélegyháza – Bugacpusztaháza
-
-51. Csongrádi kerékpárút:
-
-– (Románia) – Nagylak – Makó – Szeged – Kiskunmajsa – Jászszentlászló – Bugac
-
-61. Közép-magyarországi kerékpárút:
-
-– Bugacpusztaháza – Soltvadkert – Kiskőrös – Dunapataj – (6. Alsó-Dunamente kerékpárút Dunapataj és Solt közötti szakasza) – Solt – Dunaföldvár – Simontornya – Tolnanémedi – Tamási
-
-62. Sió völgyi kerékpárút:
-
-– Fajsz – Szekszárd – Sióagárd – Kölesd – Sárszentlőrinc – Simontornya – (61. Közép-magyarországi kerékpárút Simontornya és Tolnanémedi közötti szakasza) – Tolnanémedi – Siófok
-
-71. Vértesi kerékpárút:
-
-– Székesfehérvár – Gánt – Várgesztes – Vértessomló – Környe – Tata – Komárom
-
-72. Külső-somogyi kerékpárút:
-
-– Szántód – Kőröshegy – Tamási – Hőgyész – Bonyhád – Mecseknádasd – Pécsvárad – Pécs – Újpetre
-
-73. Belső-somogyi kerékpárút:
-
-– Fonyód – Buzsák – Somogyvár – Kaposvár – Szenna – Almamellék – Abaliget – Orfű – Pécs
-
-74. Kaposmente kerékpárút:
-
-– Nagyatád – Segesd – Nagybajom – Kaposmérő – Kaposvár – Taszár – Dombóvár – Kurd – Hőgyész
-
-81. Balaton-Rába kerékpárút:
-
-– Veszprém – Nagyvázsony – Kapolcs – Tapolca – Sümeg – Somlóvásárhely – Pápa – Árpás – Győr
-
-82. Termál kerékpárút:
-
-– 82.A: Zalabér – Kám – Rum – Sárvár – Szeleste – Bük – Csepreg
-
-– 82.B : Rum – Szombathely – Bucsu
-
-83. Rába – Bakonyalja kerékpárút:
-
-– Sárvár – Celldömölk – Mersevát – Pápa
+Országos kerékpárút-törzshálózat elemei
+
+| 1. | 1. Felső-Dunamente kerékpárút (6-os jelű Euro Velo®): |
+| --- | --- |
+| 2. | 1.A: (Szlovákia és Ausztria) – Rajka – Bezenye – Mosonmagyaróvár – Halászi – Darnózseli – Hédervár – Ásványráró – Dunaszeg – Győrladamér – Győrzámoly – Győrújfalu – Győr – Vének – Gönyű – Komárom – Almásfüzitő – Dunaalmás – Neszmély – Süttő – Lábatlan – Nyergesújfalu – Tát – Esztergom – Pilismarót – Dömös – Visegrád – Dunabogdány – Tahitótfalu – Leányfalu – Szentendre – Budapest |
+| 3. | 1.B: Komárom – (Szlovákia) |
+| 4. | 1.C: Pilismarót – Szob – Nagymaros – Verőce – Vác – Göd – Dunakeszi – Budapest |
+| 5. | 2. Északkeleti határmente kerékpárút: |
+| 6. | 2.A: (Szlovákia) – Szob – Kemence – Balassagyarmat – Szécsény – Litke – Salgótarján – Cered – Ózd – Bánréve – Aggtelek – Jósvafő – Szalonna – Hidasnémeti – Gönc – (A 4. sz. Tiszamente kerékpárút Gönc és Sátoraljaújhely közötti szakasza) – Sátoraljaújhely – Pácin – Záhony – Zsurk – Lónya – Vásárosnamény – Tarpa – Szatmárcseke – Tiszacsécse – Tiszabecs – (Ukrajna) |
+| 7. | 2.B: Litke – Ipolytarnóc – (Szlovákia) |
+| 8. | 2.C: Nagybárkány – Márkháza – Nagykeresztúr – Salgótarján – Somoskőújfalu – (Szlovákia) |
+| 9. | 2.D: Bánréve – (Szlovákia) |
+| 10. | 2.E: Telkibánya – Kéked – (Szlovákia) |
+| 11. | 2.F: Záhony – (Ukrajna) |
+| 12. | 2.G: Gulács – Tarpa – Tivadar |
+| 13. | 3. Kelet-magyarországi kerékpárút: |
+| 14. | 3.A: Budapest – Fót – Mogyoród – Szada – Gödöllő – Zagyvaszántó – Gyöngyöspata – Gyöngyös – Markaz – Kisnána – Egerszalók – Eger – Mezőkövesd – Poroszló – Tiszafüred – Hortobágy – Nádudvar – Hajdúszoboszló – Debrecen – Nyírábrány – Nyírbátor – Csengersima – Tiszabecs |
+| 15. | 3.B: Nyírábrány – (Románia) |
+| 16. | 3.C: Csengersima – (Románia) |
+| 17. | 4. Tiszamente kerékpárút (11-es jelű Euro Velo®): |
+| 18. | 4.A: Gönc – Telkibánya – Bózsva – Pálháza – Füzérradvány – Mikóháza – Sátoraljaújhely – Sárospatak – Bodrogolaszi –Vámosújfalu – Olaszliszka – Szegilong – Szegi – Bodrogkisfalud – Bodrogkeresztúr – Tarcal – Tokaj – Tiszaladány – Tiszatardos – Tiszalök – Tiszadada – Tiszadob – Tiszaújváros – Tiszapalkonya – Tiszatarján – Tiszakeszi – Ároktő – Tiszadorogma – Tiszabábolna – Poroszló – Sarud – Kisköre – Tiszasüly – Kőtelek – Nagykörű – Szolnok – Tószeg – Tiszavárkony – Tiszajenő – Tiszakécske – Lakitelek – Tiszaalpár – Csongrád – Baks – Ópusztaszer – Sándorfalva – Szeged – Röszke – (Szerbia) |
+| 19. | 4.B: Sátoraljaújhely – (Szlovákia) |
+| 20. | 4.C: Tiszaújváros – Tiszacsege – Tiszafüred – Abádszalók – Kisköre |
+| 21. | 5. Dél-alföldi határmente kerékpárút: |
+| 22. | 5.A: Debrecen – Létavértes – Biharkeresztes – Sarkad – Gyula – Lőkösháza – Battonya – Mezőhegyes – Tótkomlós – Orosháza – Hódmezővásárhely – Szeged Mórahalom – Tompa – Bácsalmás – Nagybaracska – Mohács |
+| 23. | 5.B: Biharkeresztes – Ártánd – (Románia) |
+| 24. | 5.C: Nagybaracska – Dávod – (Szerbia) |
+| 25. | 6. Alsó-Dunamente kerékpárút (6-os jelű Euro Velo®): |
+| 26. | 6.A: Budapest – Dunaharaszti – Taksony – Dunavarsány – Majosháza – Ráckeve – Dömsöd – Dunavecse – Dunaegyháza – Solt – Dunapataj – Ordas – Dunaszentbenedek – Úszód – Foktő – Fajsz – Baja – Szeremle – Dunafalva – Mohács – Kölked – (Horvátország) |
+| 27. | 6.B: Budapest – Érd – Százhalombatta – Tököl – Szigethalom – Dunavarsány |
+| 28. | 6.C: Mohács – Hercegszántó – (Szerbia) |
+| 29. | 7. Délnyugat-magyarországi kerékpárút: |
+| 30. | 7.A: Budapest – Biatorbágy – Etyek – Nadap – Sukoró – Pákozd – Székesfehérvár – Balatonfőkajár – Siófok – Szántód – Balatonföldvár – Balatonlelle – Balatonboglár – Fonyód – Keszthely – Sármellék – Zalakaros – Nagykanizsa – Kaszó – Nagyatád – Berzence – (Horvátország) |
+| 31. | 7.B: Nadap – Velence – Gárdony – Pákozd |
+| 32. | 7.C: Balatonfőkajár – Balatonfűzfő – Balatonalmádi |
+| 33. | 7.D: Keszthely közigazgatási területén a 7.A és 8.A kerékpárutak összekötése |
+| 34. | 7.E.: Nagykanizsa – Letenye |
+| 35. | 8. Északnyugat-dunántúli kerékpárút: |
+| 36. | 8.A: Győr – Pannonhalma – Csesznek – Zirc – Veszprém – Balatonalmádi – Balatonfüred – Badacsonytomaj – Szigliget – Keszthely – Hévíz – Zalabér – Zalaegerszeg – Zalalövő – Őriszentpéter |
+| 37. | 8.B: Balatonfüred – Tihany |
+| 38. | 9. Dunántúli határmenti kerékpárút (részben 13-as jelű Euro Velo®): |
+| 39. | 9.A: Kölked – Sátorhely – Majs – Lippó – Kislippó – Magyarbóly – Villány – Villánykövesd – Palkonya – Újpetre – Vokány – Nagytótfalu – Kisharsány – Siklós – Matty – Kisszentmárton – Vejti – Piskó – Zaláta – Drávasztára – Felsőszentmárton – Szentborbás – Tótújfalu – Potony – Drávagárdony – Drávatamási – Barcs – Péterhida – Babócsa – Bolhó – Heresznye – Vízvár – Somogyudvarhely – Berzence – Gyékényes – Zákány – Őrtilos – Murakeresztúr – Molnári – Letenye – Bázakerettye – Tormafölde – Szécsisziget – Lenti – Rédics – Resznek – Nemesnép – Szentgyörgyvölgy – Velemér – Magyarszombatfa – Bajánsenye – Őriszentpéter – Szalafő – Apátistvánfalva – Magyarlak – Rábagyarmat – Rátót – Csákánydoroszló – Pinkamindszent – Szentpéterfa – Pornóapáti – Felsőcsatár – Narda – Bucsu – Bozsok – Velem – Kőszeg – Horvátzsidány – Csepreg – Szakony – Zsira – Sopronhorpács – Egyházasfalu – Lövő – Röjtökmuzsaj – Nagylózs – Fertőhomok – Fertőd – Sarród – Jánossomorja – Várbalog – Hegyeshalom – (Ausztria) |
+| 40. | 9.B: Siklós – Harkány – Márfa – Diósviszló – Rádfalva – Kórós – Sámod – Kisszentmárton |
+| 41. | 9.C: Murakeresztúr – (Horvátország) |
+| 42. | 9.D: Szentgyörgyvölgy – Magyarföld – Bajánsenye |
+| 43. | 9.E: Szalafő – (Szlovénia) |
+| 44. | 9.F: Szentgotthárd – (Ausztria) |
+| 45. | 9.G: Szentpéterfa – Ják |
+| 46. | 9.H: Ólmod – (Ausztria) |
+| 47. | 9.I: Fertőhomok – Fertőrákos – (Ausztria) |
+| 48. | 9.J: Sarród – (Ausztria) |
+| 49. | 9.K: Hegyeshalom – Bezenye |
+| 50. | 9.L: Mosonmagyaróvár – Hegyeshalom |
+| 51. | 21. Palócok földje kerékpárút: |
+| 52. | Szécsény – Hollókő – Pásztó – Jobbágyi – Zagyvaszántó |
+| 53. | 22. Bükki kerékpárút: |
+| 54. | Ózd – Dédestapolcsány – Szilvásvárad – Bélapátfalva – Eger |
+| 55. | 23. Nyugat-zempléni kerékpárút: |
+| 56. | 23.A: Gönc – Boldogkőváralja – Miskolc – Felsőtárkány – Eger |
+| 57. | 23.B: Nagyvisnyó – Szilvásvárad |
+| 58. | 31. Zagyvamenti kerékpárút: |
+| 59. | Salgótarján – Bátonyterenye – Szurdokpüspöki – Zagyvaszántó – Hatvan – Jászberény – Szolnok |
+| 60. | 32. Jászok, kiskunok földje kerékpárút: |
+| 61. | Jászberény – Cegléd – Nagykőrös – Kecskemét – Bugacpusztaháza |
+| 62. | 41. Hajdúvárosok-Szabolcs kerékpárút: |
+| 63. | Bekecs – Szerencs – Tokaj – Gávavencsellő – Nagyhalász – Nyíregyháza – Hajdúnánás – Hajdúdorog – Hajdúböszörmény – Debrecen |
+| 64. | 42. Alföldi kerékpárút: |
+| 65. | Tiszafüred – Karcag – Füzesgyarmat – Szeghalom – Vésztő – Doboz – Sarkad |
+| 66. | 43. Körösvölgyi kerékpárút: |
+| 67. | (Románia) – Gyula – Békéscsaba – Békés – Mezőberény – Gyomaendrőd – Szarvas – Öcsöd – Csongrád – Kiskunfélegyháza – Bugacpusztaháza |
+| 68. | 51. Csongrádi kerékpárút: |
+| 69. | (Románia) – Nagylak – Makó – Szeged – Kiskunmajsa – Jászszentlászló – Bugac |
+| 70. | 61. Közép-magyarországi kerékpárút: |
+| 71. | Bugacpusztaháza – Soltvadkert – Kiskőrös – Dunapataj – (6. Alsó-Dunamente kerékpárút Dunapataj és Solt közötti szakasza) – Solt – Dunaföldvár – Simontornya – Tolnanémedi – Tamási |
+| 72. | 62. Sió völgyi kerékpárút: |
+| 73. | Fajsz – Szekszárd – Sióagárd – Kölesd – Sárszentlőrinc – Simontornya – (61. Közép-magyarországi kerékpárút Simontornya és Tolnanémedi közötti szakasza) – Tolnanémedi – Siófok |
+| 74. | 71. Vértesi kerékpárút: |
+| 75. | Székesfehérvár – Gánt – Várgesztes – Oroszlány [Majkpuszta] – Környe – Tata – Komárom |
+| 76. | 72. Külső-somogyi kerékpárút: |
+| 77. | Szántód – Kőröshegy – Tamási – Hőgyész – Bonyhád – Mecseknádasd – Pécsvárad – Pécs – Újpetre |
+| 78. | 73. Belső-somogyi kerékpárút: |
+| 79. | Fonyód – Buzsák – Somogyvár – Kaposvár – Szenna – Almamellék – Abaliget – Orfű – Pécs |
+| 80. | 74. Kaposmente kerékpárút: |
+| 81. | Nagyatád – Segesd – Nagybajom – Kaposmérő – Kaposvár – Taszár – Dombóvár – Kurd – Hőgyész |
+| 82. | 81. Balaton-Rába kerékpárút: |
+| 83. | 81.A: Veszprém – Nagyvázsony – Kapolcs – Tapolca – Sümeg – Somlóvásárhely – Pápa – Árpás – Győr |
+| 84. | 81.B: Tapolca – Szigliget |
+| 85. | 82. Termál kerékpárút: |
+| 86. | 82.A: Zalabér – Kám – Rum – Sárvár – Szeleste – Bük – Csepreg |
+| 87. | 82.B: Rum – Szombathely – Bucsu |
+| 88. | 83. Rába – Bakonyalja kerékpárút: |
+| 89. | Sárvár – Celldömölk – Mersevát – Pápa |
 
 ### 1/7. számú melléklet
 
-Nemzetközi és országos jelentőségű vízi utak, közforgalmú kikötők
+Nemzetközi és országos jelentőségű vízi utak, országos jelentőségű kikötők és határkikötők
 
-| A vízi út neve | A szakasz (fkm-fkm) | A vízi út osztálya |
+1. Nemzetközi és országos jelentőségű vízi utak
+
+|  |  | A | B | C |
+| --- | --- | --- | --- | --- |
+|  | 1. | A vízi út neve | A szakasz (fkm–fkm) | A vízi út osztálya |
+|  | 2. | Duna (nemzetközi vízi út) | 1812–1641 | VI/B |
+|  | 3. | Duna (nemzetközi vízi út) | 1641–1433 | VI/C |
+|  | 4. | Mosoni-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 14–2 | III |
+|  | 5. | Mosoni-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 2–0 | VI/B |
+|  | 6. | Szentendrei-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 32–0 | IV |
+|  | 7. | Ráckevei-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 58–0 | III |
+|  | 8. | Sió-csatorna | 121–23 | IV/időszakosan (Kizárólag az olyan balatoni vízeresztések időszakában hajózható, amelyet a Hajósoknak Szóló Hirdetményben közzétesznek.) |
+|  | 9. | Sió-csatorna | 23–0 | IV |
+|  | 10. | Dráva | 198–70 | II |
+|  | 11. | Tisza | 685–612 | I |
+|  | 12. | Tisza | 612–544 | III |
+|  | 13. | Tisza | 544–403 | III |
+|  | 14. | Tisza | 403–254 | II |
+|  | 15. | Tisza | 254–160 | IV |
+|  | 16. | Bodrog | 51–0 | III |
+|  | 17. | Sebes-Körös | 10–0 | II |
+|  | 18. | Kettős-Körös | 23–0 | II |
+|  | 19. | Hármas-Körös | 91–0 | II |
+|  | 20. | Balaton |  | IV |
+|  | 21. | Fertő tó |  | II |
+|  | 22. | Velencei-tó |  | II |
+|  | 23. | Keleti-főcsatorna | 45–0 | II |
+|  | 24. | Hortobágy – Berettyó-főcsatorna | 7–0 | II |
+
+2. Országos jelentőségű kikötők
+
+|  | 1. | Dunán: |
 | --- | --- | --- |
-| Duna (nemzetközi vízi út) | 1812-1641 | VI/B |
-| Duna (nemzetközi vízi út) | 1641-1433 | VI/C |
-| Mosoni-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 14-2 | III |
-| Mosoni-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 2-0 | VI/B |
-| Szentendrei-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 32-0 | IV |
-| Ráckevei-Duna (az EU tagállamainak lobogója alatt közlekedő hajók engedélymentesen használhatják) | 58-0 | III |
-| Sió-csatorna | 121-23 | IV/időszakosan |
-|  |  | (Kizárólag az olyan balatoni vízeresztések időszakában hajózható, amelyet a Hajósoknak Szóló Hirdetményben közzé tesznek.) |
-| Sió-csatorna | 23-0 | IV |
-| Dráva | 198-70 | II |
-| Tisza | 685-612 | I |
-| Tisza | 612-544 | III |
-| Tisza | 544-403 | III |
-| Tisza | 403-254 | II |
-| Tisza | 254-160 | IV |
-| Bodrog | 51-0 | III |
-| Sebes-Körös | 10-0 | II |
-| Kettős-Körös | 23-0 | II |
-| Hármas-Körös | 91-0 | II |
-| Balaton |  | IV |
-| Fertő tó |  | II |
-| Velencei-tó |  | II |
-| Keleti-főcsatorna | 45-0 | II |
-| Hortobágy – Berettyófőcsatorna | 7-0 | II |
+|  | 2. | Győr – Gönyű |
+|  | 3. | Komárom |
+|  | 4. | Budapest [Csepel] |
+|  | 5. | Budapest [Nagytétény] – Érd |
+|  | 6. | Dunaújváros |
+|  | 7. | Paks |
+|  | 8. | Baja |
+|  | 9. | Mohács |
+|  | 10. | Tiszán: |
+|  | 11. | Tiszaújváros |
+|  | 12. | Szeged |
 
-Közforgalmú nemzetközi és országos jelentőségű kikötők:
+3. Határkikötők
 
-Dunán:
-
-– Győr – Gönyű
-
-– Budapest – [Csepel]
-
-– Dunaújváros
-
-– Szekszárd
-
-– Baja
-
-– Mohács
-
-Tiszán:
-
-– Tiszaújváros
-
-– Szolnok
-
-– Szeged
-
-Határkikötők:
-
-Dunán:
-
-– Komárom
-
-– Esztergom
-
-– Budapesti Nemzetközi Hajóállomás
-
-– Mohács (schengeni)
-
-Tiszán:
-
-– Záhony (schengeni)
-
-– Tiszabecs (schengeni)
-
-– Szeged (schengeni)
-
-Dráván:
-
-– Drávaszabolcs (schengeni)
+|  | 1. | Dunán: |
+| --- | --- | --- |
+|  | 2. | Mohács |
+|  | 3. | Tiszán: |
+|  | 4. | Záhony |
+|  | 5. | Szeged |
+|  | 6. | Dráván: |
+|  | 7. | Drávaszabolcs |
 
 ### 1/8. számú melléklet
 
 Atomerőmű és egyéb erőművek
 
-Érintett település:
+(A térség e mellékletben a település közigazgatási területét és annak 25 kilométeres környezetét jelenti)
 
-– Ajka
+1. Ajka
 
-– Almásfüzitő térsége
+2. Almásfüzitő térsége
 
-– Baktalórántháza térsége
+3. Budapest I.
 
-– Budapest
+4. Budapest II.
 
-– Debrecen
+5. Budapest III.
 
-– Dunaújváros
+6. Budapest IV.
 
-– Gönyű
+7. Debrecen
 
-– Kazincbarcika
+8. Dunaújváros
 
-– Litér
+9. Ercsi
 
-– Lőrinci
+10. Gönyű
 
-– Mohács térsége
+11. Kazincbarcika
 
-– Oroszlány
+12. Litér
 
-– Paks
+13. Lőrinci
 
-– Pécs
+14. Nyírtass
 
-– Sajószöged
+15. Mohács térsége
 
-– Százhalombatta térsége
+16. Oroszlány
 
-– Tatabánya
+17. Paks I.
 
-– Tiszaújváros
+18. Paks II.
 
-– Vásárosnamény térsége
+19. Pécs
 
-– Visonta
+20. Répcelak térsége
+
+21. Sajószöged
+
+22. Szeged
+
+23. Százhalombatta
+
+24. Tatabánya
+
+25. Tiszaújváros I.
+
+26. Tiszaújváros II.
+
+27. Visonta
 
 ### 1/9. számú melléklet
 
 A villamosenergia-átviteli hálózat távvezetékelemei
 
-a) 750 kV-os átviteli hálózat távvezeték elemei:
+(A térség e mellékletben a település közigazgatási területét és annak 25 kilométeres környezetét jelenti)
 
-– Albertirsa – országhatár – (Ukrajna)
+1. 750 kV-os átviteli hálózat távvezetékelemei:
 
-– Baktalórántháza térségében tervezett erőmű – Albertirsa-országhatár-(Ukrajna távvezeték felhasítási pontja)
+1.1. Albertirsa – Szolnok – Hajdúböszörmény – Kisvárda térsége – Barabás – (Ukrajna)
 
-– Debrecen – Albertirsa-országhatár-(Ukrajna távvezeték felhasítási pontja)
+1.2. Kisvárda térsége – Nyírkarász térsége
 
-b) 400 kV-os átviteli hálózat távvezeték elemei:
+2. 400 kV-os átviteli hálózat távvezetékelemei:
 
-– Albertirsa – Göd
+2.1. Albertirsa – Göd
 
-– Albertirsa – Martonvásár
+2.2. Albertirsa – Szigetcsép – Ercsi – Martonvásár
 
-– Albertirsa – Szolnok – Békéscsaba
+2.3. Albertirsa – Cegléd – Szolnok
 
-– Almásfüzítő – Oroszlány
+2.4. Albertirsa – Kecskemét
 
-– Baktalórántháza térségében tervezett erőmű – Debrecen
+2.5. Almásfüzitő – Dad térsége
 
-– Baktalórántháza térségében tervezett erőmű – Sajószöged-országhatár-(Ukrajna távvezeték felhasítási pontja)
+2.6. Békéscsaba – Elek – (Románia)
 
-– Békéscsaba – országhatár – (Románia)
+2.7. Bicske – Pomáz – Göd
 
-– Bicske – Győr-Martonvásár távvezeték felhasítási pontja
+2.8. Detk térsége
 
-– Bicske – Pomáz – Göd
+2.9. Ercsi térsége
 
-– Debrecen – Békéscsaba
+2.10. Felsőpáhok – Tornyiszentmiklós – Muraszemenye – (Horvátország)
 
-– Debrecen – Szolnok
+2.11. Felsőpáhok – Kaposvár
 
-– Debrecen – országhatár – (Románia)
+2.12. Felsőzsolca – Sajóivánka
 
-– Detk – Sajószöged-Göd távvezeték felhasítási pontja
+2.13. Göd – Bánk – Hont – (Szlovákia)
 
-– Dunaújváros – Martonvásár – Paks távvezeték felhasítási pontja
+2.14. Kerepes térsége
 
-– Felsőzsolca – Sajóivánka
+2.15. Gönyű – Győr
 
-– Göd – országhatár – (Szlovákia)
+2.16. Gönyű – (Szlovákia)
 
-– Göd – Sajószöged
+2.17. Győr – Litér
 
-– Gödöllő – Albertirsa-Göd távvezeték felhasítási pontja
+2.18. Győr – Abda – Vámosszabadi – (Szlovákia)
 
-– Gönyű – Győr
+2.19. Győr térsége – Abda – Vámosszabadi – (Szlovákia)
 
-– Győr – Litér
+2.20. Győr – Öttevény – Vép – Hegyeshalom – (Ausztria)
 
-– Győr – országhatár – (Ausztria)
+2.21. Kisvárda térsége – Hajdúböszörmény
 
-– Győr – országhatár – (Ausztria távvezeték felhasítási pontja) – országhatár – (Szlovákia)
+2.22. Kisvárda térsége
 
-– Győr – országhatár – (Szlovákia)
+2.23. Kisvárda térsége – Kisrozvágy – (Szlovákia)
 
-– Győr – Szombathely
+2.24. Kisvárda térsége – Nyírtelek térsége
 
-– Hévíz – Kaposvár
+2.25. Hajdúböszörmény – Berettyóújfalu – Békéscsaba
 
-– Hévíz – Litér
+2.26. Hajdúböszörmény – Létavértes – (Románia)
 
-– Hévíz – országhatár – (Horvátország)
+2.27. Kecskemét – Nyárlőrinc
 
-– Hévíz – országhatár – (Szlovénia)
+2.28. Litér – Felsőpáhok
 
-– Kaposvár – Paks
+2.29. Martonvásár – Bicske
 
-– Kecskemét – Szolnok – Szeged távvezeték felhasítási pontja
+2.30. Martonvásár – Győr
 
-– Litér – Martonvásár
+2.31. Martonvásár – Litér
 
-– Litér – Paks
+2.32. Martonvásár – Perkáta – Paks
 
-– Lőrinci – Sajószöged – Göd távvezeték felhasítási pontja
+2.33. Mohács – Szederkény
 
-– Martonvásár – Győr
+2.34. Bogád – Hercegszántó – (Szerbia)
 
-– Martonvásár – Paks
+2.35. Bogád – Illocska – (Horvátország)
 
-– Mohács – Pécs – országhatár – (Horvátország távvezeték felhasítási pontja)
+2.36. Nyírtelek térsége
 
-– Nyíregyháza – Debrecen
+2.37. Oroszlány – Dad térsége
 
-– Nyíregyháza – Sajószöged – országhatár – (Ukrajna távvezeték felhasítási pontja)
+2.38. Paks – Albertirsa
 
-– Oroszlány – Martonvásár – Győr távvezeték felhasítási pontja
+2.39. Paks – Litér [I.]
 
-– Paks – Albertirsa
+2.40. Paks – Bogád
 
-– Paks – Pécs
+2.41. Paks – Szeged
 
-– Paks – Sándorfalva
+2.42. Paks – Kaposvár
 
-– Pécs – Kaposvár
+2.43. Paks [I.]
 
-– Pécs – országhatár – (Horvátország)
+2.44. Paks – Litér [II.]
 
-– Sajóivánka – Kazincbarcika
+2.45. Paks [II.]
 
-– Sajóivánka – országhatár – (Szlovákia)
+2.46. Paks [III.]
 
-– Sajószöged – Baktalórántháza térsége
+2.47. Bogád – Kaposvár
 
-– Sajószöged – Debrecen
+2.48. Perkáta
 
-– Sajószöged – Felsőzsolca
+2.49. Répcelak térsége
 
-– Sajószöged – országhatár – (Ukrajna)
+2.50. Sajóivánka – Kazincbarcika – Berente
 
-– Sajószöged – Szolnok
+2.51. Sajóivánka – Bánréve – (Szlovákia)
 
-– Sándorfalva – Békéscsaba
+2.52. Sajószöged – Nyírtelek térsége – Lónya – (Ukrajna)
 
-– Sándorfalva – országhatár – (Románia)
+2.53. Sajószöged – Hajdúböszörmény
 
-– Sándorfalva – országhatár – (Szerbia)
+2.54. Sajószöged – Felsőzsolca [I.]
 
-– Székesfehérvár – Litér-Martonvásár távvezeték felhasítási pontja
+2.55. Sajószöged – Felsőzsolca [II.]
 
-– Szolnok – Albertirsa-Békéscsaba távvezeték felhasítási pontja
+2.56. Sajószöged – Göd
 
-– Szolnok – Szeged
+2.57. Sajószöged – Nyírtelek térsége – Kisvárda térsége
 
-– Szombathely – Hévíz
+2.58. Tiszaújváros – Sajószöged [II.]
 
-– Tiszaújváros – Sajószöged
+2.59. Szeged – Békéscsaba
 
-c) 220 kV-os átviteli hálózat távvezeték elemei:
+2.60. Szeged – Csanádpalota – (Románia)
 
-– Budapest – Detk
+2.61. Szeged – Röszke [I.] – (Szerbia)
 
-– Detk – Sajószöged
+2.62. Szeged – Röszke [II.] – (Szerbia)
 
-– Detk – Szolnok
+2.63. Szeged térsége
 
-– Göd – Budapest
+2.64. Székesfehérvár térsége
 
-– Győr – Oroszlány
+2.65. Szigetcsép térsége
 
-– Győr – országhatár – (Ausztria)
+2.66. Szolnok – Mezőtúr – Békéscsaba
 
-– Ócsa – Budapest
+2.67. Szolnok – Nyárlőrinc
 
-– Oroszlány – Százhalombatta
+2.68. Tiszaújváros – Sajószöged [I.]
 
-– Sajószöged – Debrecen
+2.69. Vép – Vasvár – Felsőpáhok
 
-– Sajószöged – országhatár – (Ukrajna)
+3. 220 kV-os átviteli hálózat távvezetékelemei:
 
-– Sajószöged – Szolnok
+3.1. Budapest [XXI. kerület] – Budapest [XI. kerület]
 
-– Sajószöged – Tiszaújváros
+3.2. Budapest [XV. kerület]
 
-– Százhalombatta – Budapest
+3.3. Detk – Maklár – Mezőkövesd – Sajószöged
 
-– Százhalombatta – Dunaújváros
+3.4. Detk – Szolnok
 
-– Százhalombatta – Martonvásár
+3.5. Detk – Csány – Budapest [XV. kerület]
 
-– Százhalombatta – Ócsa
+3.6. Detk – Ecséd – Budapest [XV. kerület]
 
-– Szeged – Szolnok
+3.7. Göd – Budapest [XV. kerület]
 
-– Visonta – Detk
+3.8. Győr – Hegyeshalom – (Ausztria)
+
+3.9. Kerepes térsége
+
+3.10. Kisvárda – Kisvárda térsége
+
+3.11. Győr – Százhalombatta
+
+3.12. Nagyút – Mezőtárkány – Sajószöged
+
+3.13. Ócsa – Maglód – Budapest [XV. kerület]
+
+3.14. Sajószöged – Debrecen
+
+3.15. Sajószöged – Szolnok
+
+3.16. Sajószöged – Tiszaújváros
+
+3.17. Sajószöged – Kisvárda térsége – Lónya – (Ukrajna)
+
+3.18. Százhalombatta – Budapest [XI. kerület]
+
+3.19. Százhalombatta – Dunaújváros
+
+3.20. Százhalombatta – Ócsa
+
+3.21. Szolnok – Szeged
+
+3.22. Tiszalök – Tiszadada
+
+3.23. Visonta – Detk [I.]
+
+3.24. Visonta – Detk [II.]”
 
 ### 1/10. számú melléklet
 
-Nemzetközi és hazai szénhidrogén szállítóvezetékek
+Országos szénhidrogén-szállító vezetékek
 
-– Algyő – Nagylak – országhatár – (Románia)
+(A térség e mellékletben a település közigazgatási területét és annak 25 kilométeres környezetét jelenti)
 
-– Algyő – Méhkerék – országhatár – (Románia)
+1. Földgázszállító vezetékek
 
-– Algyő – Szeged
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | száma | elhelyezkedése |
+|  | 2. | 100: | (Ukrajna) – Beregdaróc – Kisvarsány – Nyírbogdány – Nemesbikk – Füzesabony – Nagyfüged – Zsámbok |
+|  | 3. | 100-01: | Beregdaróc – Tarpa – Nagyar |
+|  | 4. | 100-02: | Kisvarsány – Mándok |
+|  | 5. | 100-03: | Petneháza – Anarcs |
+|  | 6. | 100-04: | Nyírbogdány – Ibrány |
+|  | 7. | 100-05: | Tiszavasvári – Tiszalök |
+|  | 8. | 100-06: | Tiszaújváros |
+|  | 9. | 100-07: | Tiszaújváros |
+|  | 10. | 100-08: | Tiszaújváros |
+|  | 11. | 100-09: | Tiszaújváros |
+|  | 12. | 100-10: | Nagyfüged – Tarnaörs |
+|  | 13. | 100-11: | Vámosgyörk – Gyöngyös |
+|  | 14. | 100-12: | Csány – Jászberény |
+|  | 15. | 100-13: | Nagyfüged – Halmajugra |
+|  | 16. | 101: | (Ukrajna) – Beregdaróc – Kisvarsány – Nyírgyulaj – Hajdúszoboszló – Püspökladány – Ecsegfalva – Mezőtúr |
+|  | 17. | 101-02: | Nyírgyulaj – Napkor – Nyíregyháza |
+|  | 18. | 101-03: | Nyírgyulaj – Nyírmeggyes – Győrtelek |
+|  | 19. | 101-04: | Téglás |
+|  | 20. | 101-05: | Téglás – Hajdúsámson |
+|  | 21. | 101-06: | Hajdúböszörmény |
+|  | 22. | 101-07: | Debrecen – Hajdúböszörmény |
+|  | 23. | 101-08: | Kaba |
+|  | 24. | 101-09: | Kaba – Földes |
+|  | 25. | 101-10: | Bucsa – Karcag |
+|  | 26. | 102: | Hajdúszoboszló – Püspökladány – Ecsegfalva – Mezőtúr |
+|  | 27. | 103: | Nagyhegyes – Kenderes – Törökszentmiklós – Szolnok – Cegléd – Vecsés |
+|  | 28. | 103-01: | Nádudvar |
+|  | 29. | 103-02: | Karcag |
+|  | 30. | 103-03: | Karcag |
+|  | 31. | 103-04: | Karcag – Kunmadaras |
+|  | 32. | 103-05: | Kunmadaras |
+|  | 33. | 103-06: | Kenderes – Kisújszállás |
+|  | 34. | 103-07: | Törökszentmiklós |
+|  | 35. | 103-08: | Törökszentmiklós – Kétpó – Mezőtúr |
+|  | 36. | 103-09: | Szajol – Martfű |
+|  | 37. | 103-10: | Szajol |
+|  | 38. | 103-11: | Szajol |
+|  | 39. | 103-12: | Abony |
+|  | 40. | 103-13: | Cegléd |
+|  | 41. | 103-21: | Szolnok |
+|  | 42. | 104: | Kenderes – Tiszaörs – Tiszacsege – Tiszaújváros |
+|  | 43. | 105: | Nemesbikk – Folyás [Bödönhát] – Balmazújváros – Nagyhegyes |
+|  | 44. | 105-01: | Folyás – Egyek |
+|  | 45. | 106: | Nagyhegyes – Balmazújváros – Folyás [Bödönhát] – Nemesbikk – Sajószöged – Miskolc |
+|  | 46. | 106-01: | Nagyhegyes |
+|  | 47. | 106-02: | Balmazújváros – Hajdúböszörmény |
+|  | 48. | 106-03: | Balmazújváros |
+|  | 49. | 106-04: | Folyás [Bödönhát] |
+|  | 50. | 106-05: | Sajószöged – Sajóörös – Tiszaújváros |
+|  | 51. | 106-06: | Tiszaújváros |
+|  | 52. | 106-21: | Tiszapalkonya |
+|  | 53. | 107: | Hajdúszoboszló – Nagyhegyes |
+|  | 54. | 108: | Hajdúszoboszló – Nagyhegyes |
+|  | 55. | 109: | Hajdúszoboszló |
+|  | 56. | 110: | Hajdúszoboszló |
+|  | 57. | 111: | Nagyhegyes – Ebes – Debrecen |
+|  | 58. | 111-01: | Ebes |
+|  | 59. | 111-02: | Ebes – Debrecen |
+|  | 60. | 112: | Hajdúszoboszló – Sáránd |
+|  | 61. | 113: | Sáránd – Berettyóújfalu – Mezősas |
+|  | 62. | 122: | (Ukrajna) – Beregdaróc |
+|  | 63. | 123: | Beregdaróc – Kisvarsány – Nyírgyulaj – Hajdúszoboszló |
+|  | 64. | 200: | Nemesbikk – Miskolc |
+|  | 65. | 201: | Miskolc – Sajószentpéter – Berente |
+|  | 66. | 202: | Miskolc – Sajószentpéter – Kazincbarcika – Vadna – Ózd |
+|  | 67. | 202-01: | Sajókeresztúr |
+|  | 68. | 202-02: | Sajószentpéter |
+|  | 69. | 202-03: | Sajószentpéter |
+|  | 70. | 202-04: | Berente |
+|  | 71. | 202-05: | Berente |
+|  | 72. | 202-06: | Berente |
+|  | 73. | 202-07: | Kazincbarcika |
+|  | 74. | 202-08: | Vadna – Rudabánya |
+|  | 75. | 203: | Miskolc – Sajószentpéter – Berente |
+|  | 76. | 204: | Nemesbikk – Sajószöged – Tiszalúc – Szerencs |
+|  | 77. | 204-01: | Sajóörös – Tiszaújváros |
+|  | 78. | 205: | Szerencs – Olaszliszka – Sárospatak |
+|  | 79. | 206: | Szerencs – Golop – Abaújkér |
+|  | 80. | 207: | Miskolc |
+|  | 81. | 208: | Miskolc – Nyékládháza – Miskolc [Vargahegy] |
+|  | 82. | 208-01: | Miskolc [Vargahegy] |
+|  | 83. | 209: | Ózd – (Szlovákia) |
+|  | 84. | 210: | Ózd |
+|  | 85. | 211: | Ózd – Járdánháza – Tarnalelesz – Mátraterenye – Bátonyterenye [Kisterenye] |
+|  | 86. | 211-01: | Ózd [Farkaslyuk] |
+|  | 87. | 211-02: | Mátraterenye – Mátraderecske |
+|  | 88. | 212: | Tarnalelesz – Fedémes |
+|  | 89. | 213: | Fedémes – Egerbakta – Eger |
+|  | 90. | 214: | Fedémes – Bélapátfalva |
+|  | 91. | 215: | Bátonyterenye [Kisterenye] – Salgótarján |
+|  | 92. | 216: | Sámsonháza – Nagylóc – Szécsény |
+|  | 93. | 217: | Bátonyterenye [Kisterenye] – Sámsonháza – Pásztó – Heréd – Hatvan – Zsámbok |
+|  | 94. | 217-01: | Pásztó |
+|  | 95. | 217-02: | Heréd – Lőrinci |
+|  | 96. | 300: | Mezőtúr – Szarvas – Szentes – Mindszent – Szeged [Kiskundorozsma] |
+|  | 97. | 300-01: | Szentes |
+|  | 98. | 301: | Mezőtúr – Öcsöd – Tiszainoka – Lakitelek – Városföld |
+|  | 99. | 301-01: | Kunszentmárton |
+|  | 100. | 302: | Mezőtúr – Öcsöd – Tiszainoka – Lakitelek – Városföld |
+|  | 101. | 302-01: | Kunszentmárton |
+|  | 102. | 303: | Algyő – Ópusztaszer – Kiskunfélegyháza – Városföld – Kecskemét – Lajosmizse – Újhartyán – Vecsés |
+|  | 103. | 303-01: | Kecskemét – Nagykőrös |
+|  | 104. | 304: | Városföld – Kiskunfélegyháza – Ópusztaszer – Szatymaz – Szeged [Kiskundorozsma] |
+|  | 105. | 305: | Kardoskút – Szentes – Csongrád – Kiskunfélegyháza – Városföld |
+|  | 106. | 305-01: | Szentes |
+|  | 107. | 305-02: | Csongrád |
+|  | 108. | 305-21: | Felgyő – Szentes |
+|  | 109. | 306: | Városföld – Kecskemét – Kunadacs – Tass – Makád – Adony |
+|  | 110. | 306-01: | Kecskemét |
+|  | 111. | 306-02: | Kecskemét |
+|  | 112. | 307: | Városföld – Kecskemét – Kunadacs – Tass – Makád – Adony |
+|  | 113. | 307-21: | Adony – Makád |
+|  | 114. | 308: | Algyő – Szeged [Kiskundorozsma] |
+|  | 115. | 308-01: | Szeged |
+|  | 116. | 309: | Szeged [Kiskundorozsma] – Üllés |
+|  | 117. | 309-01: | Üllés |
+|  | 118. | 310: | Szank – Kiskunmajsa – Üllés |
+|  | 119. | 311: | Zsana – Kiskunmajsa – Szank |
+|  | 120. | 312: | Szank – Bugac – Városföld |
+|  | 121. | 313: | Szank – Bugac – Városföld |
+|  | 122. | 314: | Méhkerék – Gyula – Békéscsaba – Kardoskút – Hódmezővásárhely – Algyő |
+|  | 123. | 314-01: | Pusztaföldvár |
+|  | 124. | 314-02: | Kardoskút – Pusztaföldvár |
+|  | 125. | 314-03: | Kardoskút – Orosháza |
+|  | 126. | 314-04: | Hódmezővásárhely |
+|  | 127. | 314-05: | Hódmezővásárhely |
+|  | 128. | 314-06: | Algyő |
+|  | 129. | 314-21: | Algyő |
+|  | 130. | 315: | Csabaszabadi – Kamut – Mezőberény |
+|  | 131. | 316: | Kamut – Murony – Békés |
+|  | 132. | 316-01: | Murony |
+|  | 133. | 317: | Békéscsaba – Békés |
+|  | 134. | 318: | Kardoskút – Orosháza |
+|  | 135. | 319: | Kardoskút – Orosháza |
+|  | 136. | 320: | Kardoskút – Orosháza |
+|  | 137. | 320-01: | Orosháza |
+|  | 138. | 321: | Kardoskút – Tótkomlós – Mezőhegyes |
+|  | 139. | 321-01: | Tótkomlós |
+|  | 140. | 322: | Mezőhegyes – Battonya |
+|  | 141. | 323: | Hódmezővásárhely – Óföldeák – Makó |
+|  | 142. | 324: | Kübekháza – Kiszombor – Makó |
+|  | 143. | 325: | Algyő – Szeged [Újszeged] |
+|  | 144. | 325-21: | Szeged |
+|  | 145. | 325-22: | Szeged |
+|  | 146. | 326: | Algyő – Szeged |
+|  | 147. | 327: | Szeged [Kiskundorozsma] – Röszke – (Szerbia) |
+|  | 148. | 328: | Szeged [Kiskundorozsma] – Röszke – (Szerbia) |
+|  | 149. | 329: | Szank – Soltvadkert – Kalocsa – Fadd – Szekszárd |
+|  | 150. | 330: | Szank – Kiskunhalas – Jánoshalma – Baja – Báta – Maráza – Pécs |
+|  | 151. | 330-01: | Kiskunhalas |
+|  | 152. | 330-02: | Palotabozsok – Mohács |
+|  | 153. | 330-03: | Pécs |
+|  | 154. | 330-04: | Pécs |
+|  | 155. | 330-05: | Pécs |
+|  | 156. | 330-21: | Báta – Dunafalva |
+|  | 157. | 331: | Városföld – Kiskunfélegyháza – Ópusztaszer – Szatymaz – Szeged [Kiskundorozsma] – Algyő |
+|  | 158. | 331a: | Báta – Bátaszék – Várdomb – Szekszárd |
+|  | 159. | 331-01: | Várdomb |
+|  | 160. | 331-02: | Várdomb – Mőcsény – Bonyhád |
+|  | 161. | 331-03: | Szekszárd |
+|  | 162. | 334: | Algyő – Makó – Nagylak – (Románia) |
+|  | 163. | 335: | Városföld – Bugac – Szank – Kiskunhalas – Jánoshalma – Baja – Báta |
+|  | 164. | 400: | Zsámbok – Maglód – Vecsés |
+|  | 165. | 401: | Zsámbok – Gödöllő – Fót [Alag] – Szentendre |
+|  | 166. | 401-21: | Dunakeszi – Szentendre |
+|  | 167. | 402: | Vecsés – Újhartyán – Lajosmizse – Kecskemét – Városföld |
+|  | 168. | 402-01: | Kecskemét – Nagykőrös |
+|  | 169. | 403: | Vecsés – Majosháza – Szigetcsép – Ercsi |
+|  | 170. | 403-21: | Szigetcsép – Majosháza |
+|  | 171. | 404: | Vecsés – Gyál – Budapest [XXIII. kerület] – Szigetszentmiklós |
+|  | 172. | 404-01: | Szigetszentmiklós |
+|  | 173. | 404-02: | Szigetszentmiklós – Budapest [XXI. kerület] |
+|  | 174. | 404-03: | Szigetszentmiklós – Budapest [XXI. kerület] |
+|  | 175. | 404-04: | Budapest [XXI. kerület] |
+|  | 176. | 404-05: | Budapest [XXI. kerület] |
+|  | 177. | 405: | Budapest [XXII. kerület] – Budapest [XI. kerület] |
+|  | 178. | 406: | Vecsés – Gyál – Bp. [XXIII. kerület] – Szigetszentmiklós – Budapest [XXI. kerület] |
+|  | 179. | 406-01: | Budapest [XXI. kerület] |
+|  | 180. | 407: | Vecsés – Ecser – Budapest [X. kerület] – Budapest [XV. kerület] |
+|  | 181. | 408: | Budapest [XV. kerület] – Fót [Alag] |
+|  | 182. | 409: | Szentendre – Pilisvörösvár |
+|  | 183. | 410: | Pilisvörösvár – Budapest [III. kerület] |
+|  | 184. | 411: | Budapest [III. kerület] – Budapest [II. kerület] |
+|  | 185. | 412: | Fót [Alag] – Sződ – Vác |
+|  | 186. | 412-01: | Fót –Veresegyház |
+|  | 187. | 412-02: | Vác |
+|  | 188. | 413: | Vác |
+|  | 189. | 414: | Vác – Bánk – Romhány |
+|  | 190. | 415: | Romhány – Érsekvadkert – Balassagyarmat |
+|  | 191. | 415-01: | Érsekvadkert |
+|  | 192. | 417: | Pilisvörösvár – Perbál – Százhalombatta |
+|  | 193. | 500: | Pilisvörösvár – Dorog – Lábatlan – Komárom – Bőny – Győr |
+|  | 194. | 500-01: | Dág |
+|  | 195. | 500-02: | Nagysáp |
+|  | 196. | 500-05: | Bana |
+|  | 197. | 501: | (Ausztria) – Rajka – Mosonmagyaróvár – Mosonszentmiklós |
+|  | 198. | 502: | Mosonszentmiklós – Ikrény – Győr |
+|  | 199. | 503: | Ajka – Adásztevel – Lovászpatona – Töltéstava – Győr |
+|  | 200. | 504: | Kápolnásnyék – Székesfehérvár – Nádasdladány – Ősi – Pétfürdő |
+|  | 201. | 504-01: | Szabadbattyán |
+|  | 202. | 505: | Ősi – Pétfürdő |
+|  | 203. | 506: | Ősi – Berhida – Papkeszi |
+|  | 204. | 507: | Papkeszi – Veszprém – Herend – Ajka – Devecser |
+|  | 205. | 507-01: | Veszprém |
+|  | 206. | 508: | Adony – Szabadegyháza – Aba – Mezőszentgyörgy – Papkeszi |
+|  | 207. | 508-01: | Szabadegyháza |
+|  | 208. | 509: | Mezőszentgyörgy – Siófok – Kőröshegy – Szőlősgyörök – Lengyeltóti |
+|  | 209. | 509-01: | Siófok |
+|  | 210. | 509-02: | Kőröshegy |
+|  | 211. | 509-03: | Szőlősgyörök – Balatonboglár |
+|  | 212. | 510: | Adony – Dunaújváros |
+|  | 213. | 511: | Adony – Dunaújváros |
+|  | 214. | 512: | Adony – Kápolnásnyék |
+|  | 215. | 513: | Adony – Ercsi – Százhalombatta – Érd – Budapest [XXII. kerület] |
+|  | 216. | 513-01: | Ercsi – Százhalombatta |
+|  | 217. | 513-02: | Érd |
+|  | 218. | 514: | Adony – Ercsi – Százhalombatta |
+|  | 219. | 514-03: | Százhalombatta |
+|  | 220. | 514-04: | Százhalombatta |
+|  | 221. | 514-05: | Százhalombatta |
+|  | 222. | 515: | Naszály – Tata – Környe – Tatabánya |
+|  | 223. | 515-01: | Tata |
+|  | 224. | 515-02: | Tatabánya |
+|  | 225. | 516: | Dág – Zsámbék |
+|  | 226. | 517: | Győr – Gönyű |
+|  | 227. | 600: | Lengyeltóti – Marcali – Zalakomár – Nagykanizsa |
+|  | 228. | 601: | Lengyeltóti – Somogyjád – Kaposvár [Toponár] |
+|  | 229. | 601-01: | Kaposvár |
+|  | 230. | 602: | Babócsa – Nagyatád – Iharosberény – Nagykanizsa |
+|  | 231. | 602-01: | Bolhás – Berzence |
+|  | 232. | 602-02: | Iharosberény |
+|  | 233. | 603: | Nagykanizsa – Becsehely |
+|  | 234. | 603-01: | Becsehely |
+|  | 235. | 604: | Nagykanizsa – Magyarszerdahely – Pusztaederics |
+|  | 236. | 605: | Pusztaederics – Nagylengyel |
+|  | 237. | 606: | Pusztaederics – Gutorfölde – Lenti |
+|  | 238. | 606-01: | Gutorfölde |
+|  | 239. | 607: | Devecser – Jánosháza – Dabronc – Pókaszepetk – Zalaegerszeg – Nagylengyel |
+|  | 240. | 607-02: | Zalaegerszeg |
+|  | 241. | 608: | Dabronc – Sümegcsehi – Várvölgy – Raposka – Tapolca |
+|  | 242. | 608-01: | Várvölgy – Cserszegtomaj |
+|  | 243. | 608-02: | Raposka |
+|  | 244. | 609: | Pókaszepetk – Körmend |
+|  | 245. | 610: | Körmend – Csákánydoroszló – Szentgotthárd |
+|  | 246. | 610-01: | Csákánydoroszló |
+|  | 247. | 611: | Karakó – Meggyeskovácsi – Szombathely |
+|  | 248. | 611-01: | Meggyeskovácsi – Sárvár |
+|  | 249. | 612: | Szombathely – Kőszeg |
+|  | 250. | 613: | Karakó – Celldömölk – Répcelak |
+|  | 251. | 613-01: | Celldömölk |
+|  | 252. | 614: | Mosonszentmiklós – Csorna – Kapuvár – Répcelak |
+|  | 253. | 615: | Báta – Maráza – Kozármisleny – Túrony – Drávaszerdahely – (Horvátország) |
+|  | 254. | 615-01: | Pécs – Kozármisleny |
+|  | 255. | 616: | Répcelak – Újkér – Nagylózs – Sopron |
+|  | 256. | 616-01: | Nagylózs – Fertőszentmiklós |
+|  | 257. | Szlovák tranzit: | Vecsés – Balassagyarmat – (Szlovákia) |
+|  | 258. | Nabucco: | (Románia) – Nagylak – Hódmezővásárhely – Kecskemét – Adony – Székesfehérvár – Mór – Tét – Rajka – (Ausztria) |
+|  | 259. | Déli Áramlat: | (Szerbia) – Hercegszántó – Szigetvár térsége – Tornyiszentmiklós – (Szlovénia) |
+|  | 260. |  | Városföld – Adony – Ercsi |
+|  | 261. |  | Ercsi – Győr |
+|  | 262. |  | Ercsi – Százhalombatta |
+|  | 263. |  | Taksony – Budapest [XXI. kerület] |
 
-– (Ausztria) – országhatár – Győr – Pilisvörösvár – Dunakeszi – Zsámbok
+2. Kőolajszállító vezetékek
 
-– Battonya – Algyő – Városföld – Százhalombatta
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | név | elhelyezkedés |
+|  | 2. | Adria | Százhalombatta – Káloz – Kára – Kutas – Berzence – (Horvátország) |
+|  | 3. | Barátság I. | (Szlovákia) – Hont – Szada – Vecsés – Százhalombatta |
+|  | 4. | Barátság II. | (Ukrajna) – Fényeslitke – Tiszavasvári – Mezőcsát – Kál – Zsámbok – Százhalombatta |
+|  | 5. |  | Algyő – Pálmonostora – Kecskemét – Pusztavacs – Százhalombatta |
+|  | 6. |  | Kiskunhalas – Szank – Pálmonostora |
 
-– Gönyű – Győr
+3. Termékvezetékek
 
-– Hódmezővásárhely – Makó – országhatár – (Románia)
-
-– Kápolnásnyék – Komárom – Győr
-
-– Kápolnásnyék – Mezőszentgyörgy – Pécs
-
-– Kápolnásnyék – Vecsés
-
-– Mezőtúr – Szeged – országhatár – (Szerbia)
-
-– Ópusztaszer – Algyő
-
-– (Románia) – országhatár – Nagylak – Hódmezővásárhely – Kecskemét – Adony – Székesfehérvár – Mór – Tét – Rajka – országhatár – (Ausztria)
-
-– Szank – Szeged – Kardoskút – Méhkerék
-
-– Százhalombatta – Budapest
-
-– Százhalombatta – Hetes – Berzence – országhatár – (Horvátország)
-
-– Százhalombatta – Kápolnásnyék
-
-– Százhalombatta – Rajka – országhatár – (Szlovákia)
-
-– (Szlovákia) – országhatár – Vecsés – Százhalombatta
-
-– Tiszaújváros – Hajdúszoboszló
-
-– Tiszaújváros – Kazincbarcika
-
-– Tiszaújváros – Százhalombatta
-
-– Tiszújváros – Ebes
-
-– (Ukrajna) – országhatár – Beregdaróc – Baktalórántháza térsége
-
-– (Ukrajna) – országhatár – Vásárosnamény – Tiszaújváros – Füzesabony – Szolnok – Százhalombatta
-
-– (Ukrajna) – országhatár – Fényeslitke – Tiszaújváros – Százhalombatta
-
-– (Ukrajna) – országhatár – Vásárosnamény – Hajdúszoboszló – Mezőtúr – Városföld
-
-– (Ukrajna) – országhatár – Vásárosnamény – Tiszaújváros – Zsámbok – Vecsés – Százhalombatta
-
-– Városföld – Százhalombatta – Pilisvörösvár – Győr
-
-– Városföld – Adony – Százhalombatta
-
-– Városföld – Baja – Pécs
-
-– Városföld – Baja – Pécs – országhatár – (Horvátország)
-
-– Városföld – Ópusztaszer – Szeged – országhatár – (Szerbia)
+|  | 1. | elhelyezkedés |
+| --- | --- | --- |
+|  | 2. | Cegléd – Kecskemét |
+|  | 3. | Kápolnásnyék – Komárom [Szőny] |
+|  | 4. | Kápolnásnyék – Komárom [Szőny] |
+|  | 5. | Kápolnásnyék – Székesfehérvár |
+|  | 6. | Kápolnásnyék – Százhalombatta |
+|  | 7. | Kecskemét |
+|  | 8. | Komárom [Szőny] – Győr |
+|  | 9. | Keleti termékvezeték: (Ukrajna) – Beregdaróc – Vásárosnamény – Nyírbogdány – Tiszavasvári – Tiszapalkonya – Tiszaújváros |
+|  | 10. | Szajol – Tiszasüly – Füzesabony – Tiszaújváros |
+|  | 11. | Szajol – Tiszasüly – Füzesabony – Tiszaújváros |
+|  | 12. | Százhalombatta – Budapest [XXI.] |
+|  | 13. | Százhalombatta – Vecsés |
+|  | 14. | Százhalombatta – Kápolnásnyék |
+|  | 15. | Százhalombatta – Kápolnásnyék |
+|  | 16. | Százhalombatta – Rajka – (Szlovákia) |
+|  | 17. | Százhalombatta – Ócsa – Cegléd – Szajol |
+|  | 18. | Százhalombatta – Ócsa – Cegléd – Szajol |
+|  | 19. | Székesfehérvár – Pécs |
+|  | 20. | Tiszaújváros – Balmazújváros – Ebes |
+|  | 21. | Tiszaújváros – Kazincbarcika |
+|  | 22. | Tiszaújváros – Beregdaróc – (Ukrajna) |
+|  | 23. | Tiszaújváros – Mezőkövesd – Vámosgyörk – Zsámbok – Üllő – Százhalombatta |
 
 ### 1/11. számú melléklet
 
-Országos jelentőségű meglévő szükségtározók, megvalósuló árvízi tározók és új vízi építmények
+Az országos jelentőségű vízi létesítmények
 
-1. Jászsági-főcsatorna meghosszabbítása (Kisköre, Jászapáti, Jászdózsa, Alattyán)
+(A térség e mellékletben a település közigazgatási területét és annak 25 kilométeres környezetét jelenti)
 
-2. Meglévő szükségtározók
+1. A Vásárhelyi-terv továbbfejlesztése (VTT) keretében megvalósuló vízkár-elhárítási célú szükségtározók
 
-| Megnevezés | Vízfolyás | Település |
-| --- | --- | --- |
-| Borsóhalmi | Zagyva, Tarna | Jászjákóhalma, Jászberény |
-| Ér menti | Ér-Berettyó | Pocsaj, Kismarja |
-| Halaspusztai | Berettyó-Sebes-Körös | Szeghalom |
-| Kisdelta | Fehér-Körös | Gyula |
-| Kutasi | Berettyó | Szeghalom, Csökmő, Darvas, Zsáka |
-| Lajta menti | Lajta | Hegyeshalom, Mosonmagyaróvár, Levél, Rajka, Bezenye |
-| Ludasi | Bene-patak | Ludas, Detk |
-| Mályvádi | Fekete- és Fehér-Körös | Gyula |
-| Mérgesi | Sebes-Körös | Köröstarcsa, Körösladány |
-| Nagyfüged- Tarnazsadányi | Bene, Tarna, Tarnóca | Nagyfüged, Tarnazsadány, Tarnaméra |
-| Rába menti | Rába | Ostffyasszonyfa, Csönge, Kenyeri, Pápoc, Kemenes-szentpéter, Várkesző |
-| Viszneki | Tarna, Gyöngyös patak | Visznek, Erk |
-| Zagyva jobb parti | Zagyva | Jászberény, Jász-telek, Jánoshida |
+|  |  | A | B | C |
+| --- | --- | --- | --- | --- |
+|  | 1. | Megnevezés | Tápláló vízfolyás | Település |
+|  | 2. | Beregi | Tisza | Tákos, Csaroda, Tarpa, Tivadar, Gulács, Jánd, Hetefejércse, Vásárosnamény |
+|  | 3. | Cigánd-Tiszakarádi | Tisza | Nagyrozvágy, Cigánd, Pácin |
+|  | 4. | Dél-borsodi | Tisza | Ároktő, Tiszadorogma, Tiszacsege |
+|  | 5. | Hanyi-Jászsági | Tisza | Kisköre, Tarnaszentmiklós, Pély |
+|  | 6. | Hanyi-Tiszasülyi | Tisza | Jászkisér, Pély, Tiszasüly |
+|  | 7. | Nagykunsági | Tisza | Tiszabura, Tiszagyenda, Tiszaroff, Kunhegyes, Abádszalók |
+|  | 8. | Szamos-Kraszna közi | Szamos, Kraszna | Szamosszeg, Szamoskér, Kocsord, Tunyogmatolcs, Ópályi, Nagydobos, Győrtelek, Mátészalka |
+|  | 9. | Szegedi | Tisza | Baks, Ópusztaszer, Dóc |
+|  | 10. | Tisza-Szamosközi alsó | Tisza | Fehérgyarmat térsége |
+|  | 11. | Tisza-Szamosközi felső | Tisza | Fehérgyarmat térsége |
+|  | 12. | Tisza-Túrközi | Tisza | Tiszakóród térsége |
+|  | 13. | Tiszaroffi | Tisza | Tiszaroff, Tiszabő, Tiszagyenda |
 
-3. A Vásárhelyi-terv továbbfejlesztése I. ütemében megvalósuló árvízi tározók
+2. Országos jelentőségű vízkár-elhárítási célú tározók
 
-| Megnevezés | Vízfolyás | Település |
-| --- | --- | --- |
-| Szamos-Kraszna közi | Tisza | Szamosszeg, Szamoskér, Kocsord, Tunyogmatolcs, Ópályi, Nagydobos, Győrtelek, Máté-szalka |
-| Cigánd-Tiszakarádi | Tisza | Cigánd, Pácin, Nagyrozvágy, Ricse |
-| Hanyi-Tiszasülyi | Tisza | Jászkisér, Pély, Tiszasüly |
-| Nagykunsági | Tisza | Tiszabura, Tiszagyenda, Tiszaroff, Kunhegyes, Abádszalók |
-| Tiszaroffi | Tisza | Tiszaroff, Tiszabő, Tiszagyenda |
-| Nagykörűi | Tisza | Nagykörű, Csataszög, Kőtelek, Hunyadfalva |
-| Jánd-Gulácsi | Tisza | Tarpa, Tivadar, Gulács, Jánd, Vásárosnamény, Tákos, Csaroda, Hetefejércse, Márokpapi |
+|  |  | A | B | C |
+| --- | --- | --- | --- | --- |
+|  | 1. | Megnevezés | Tápláló vízfolyás | Település |
+|  | 2. | Borsohalmi | Zagyva, Tarna | Jászjákóhalma, Jászberény |
+|  | 3. | Ér menti | Ér-Berettyó | Pocsaj, Kismarja |
+|  | 4. | Halaspusztai | Berettyó-Sebes-Körös | Szeghalom |
+|  | 5. | Kisdelta | Fehér-Körös | Gyula |
+|  | 6. | Kutasi | Berettyó | Szeghalom, Csökmő |
+|  | 7. | Lajtamenti | Lajta | Hegyeshalom, Mosonmagyaróvár, Levél |
+|  | 8. | Ludasi | Bene-patak | Ludas, Detk |
+|  | 9. | Mályvádi | Fekete- és Fehér-Körös | Gyula |
+|  | 10. | Mérgesi | Sebes-Körös | Köröstarcsa, Körösladány |
+|  | 11. | Nagyfüged-Tarnazsadányi | Bene, Tarna, Tarnóca | Nagyfüged, Tarnazsadány, Zaránk |
+|  | 12. | Rábamenti | Rába | Ostffyasszonyfa, Csönge, Kenyeri, Pápoc, Kemenesszentpéter, Vág, Várkesző, Egyházaskesző, Sárvár |
+|  | 13. | Viszneki | Tarna, Gyöngyös–patak | Visznek, Erk |
+|  | 14. | Jásztelki | Zagyva | Jászberény, Jásztelek, Jánoshida |
 
-4. 10 millió m3-t meghaladó térfogattal tervezhető tározási lehetőségek
+3. 10 millió m3-t meghaladó térfogatú, vízkár-elhárítási célú tározási fejlesztési lehetőségek
 
-| Tápláló vízfolyás | Tározó neve | Település |
-| --- | --- | --- |
-| Ceredi Tarna | Terpesi víztározó | Pétervására, Terpes, Szajla, Bükkszék |
-| Takta-csatorna | Inérháti | Tiszalúc, Nagycsécs, Kesznyéten, Sajóörös, Tiszaújváros |
-| Túr | Túr jobb parti | Garbolc, Kishódos, Nagyhódos |
-| Hortobágy-főcsatorna | Ágotai | Nádudvar, Karcag |
-| Gaja patak | Fehérvárcsurgói- víztározó | Fehérvárcsurgó, Kincsesbánya |
+|  |  | A | B | C |
+| --- | --- | --- | --- | --- |
+|  | 1. | Tápláló vízfolyás | Tározó neve | Település |
+|  | 2. | Ceredi Tarna | Terpesi víztározó | Pétervására, Terpes, Bükkszék, Hevesaranyos, Kisfüzes, Tarnalelesz |
+|  | 3. | Takta csatorna | Inérháti | Tiszalúc, Kesznyéten, Tiszaújváros |
+|  | 4. | Túr | Túr jobbparti | Garbolc, Kishódos, Nagyhódos |
+|  | 5. | Hortobágy főcsatorna | Ágotai | Nádudvar, Karcag, Kunmadaras, Nagyiván |
+|  | 6. | Gaja patak | Fehérvárcsurgói víztározó | Fehérvárcsurgó, Kincsesbánya |
+|  | 7. | Répce | Bük-Bő-Gór-i | Bük, Bő, Gór |
+
+4. Kiemelt jelentőségű vízi építmények
+
+|  |  | A | B | C |
+| --- | --- | --- | --- | --- |
+|  | 1. | Megnevezés | Vízfolyás | Település |
+|  | 2. | Ágotai vészelzárómű | Hortobágy-Berettyó | Püspökladány |
+|  | 3. | Bőcsi duzzasztómű | Hernád | Bőcs |
+|  | 4. | Balatonkiliti mederduzzasztó | Sió | Siófok |
+|  | 5. | Békési duzzasztó | Kettős-Körös | Békés |
+|  | 6. | Békésszentandrási vízlépcső | Hármas-Körös | Békésszentandrás |
+|  | 7. | Bökényi vízlépcső | Hármas-Körös | Szentes |
+|  | 8. | Dinnyési zsilip | Dinnyés-Kajtori-csatorna | Pákozd |
+|  | 9. | Felsődobszai duzzasztómű | Hernád | Felsődobsza |
+|  | 10. | Gibárti duzzasztómű | Hernád | Gibárt |
+|  | 11. | Gyulai duzzasztó | Fehér-Körös | Gyula |
+|  | 12. | Kesznyéteni árvízkapu | Takta-övcsatorna | Kesznyéten |
+|  | 13. | Kis-Balaton 21T | Kis-Balaton | Keszthely |
+|  | 14. | Kis-Balaton 4T | Kis-Balaton | Balatonmagyaród |
+|  | 15. | Kiskörei vízlépcső | Tisza | Abádszalók, Kisköre |
+|  | 16. | Körösladányi duzzasztó | Sebes-Körös | Körösladány |
+|  | 17. | Kvassay zsilip | Ráckevei-Duna | Budapest |
+|  | 18. | Mexikópusztai zsilip | Fertő-tó | Sarród |
+|  | 19. | Mosonmagyaróvári duzzasztó | Mosoni-Duna | Mosonmagyaróvár |
+|  | 20. | Nicki duzzasztó | Rába | Kenyeri |
+|  | 21. | Rábca-torkolati műtárgy | Rábca | Abda |
+|  | 22. | Sió árvízkapu | Sió | Bogyiszló |
+|  | 23. | Siófoki hajózsilip | Sió | Siófok |
+|  | 24. | Siófoki leeresztő zsilip | Sió | Siófok |
+|  | 25. | Szentgotthárdi duzzasztó | Rába | Szentgotthárd |
+|  | 26. | Tassi zsilip | Ráckevei-Duna | Tass |
+|  | 27. | Tiszalöki vízlépcső | Tisza | Tiszalök |
+|  | 28. | Túr torkolati műtárgy | Túr | Tiszakóród |
+
+5. Országos jelentőségű csatornák
+
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1. | Csatorna megnevezése | Település |
+|  | 2. | Algyői főcsatorna | Szeged, Algyő |
+|  | 3. | Alsó-Ó-Berettyó-csatorna | Biharnagybajom, Füzesgyarmat, Bucsa, Szerep |
+|  | 4. | Alsó-Selypes-főcsatorna | Folyás |
+|  | 5. | Cigánykaér-csatorna | Kevermes, Dombegyház, Kisdombegyház, Battonya |
+|  | 6. | Csárdaszállási | Köröstarcsa, Csárdaszállás, Mezőberény |
+|  | 7. | Dögös-Kákafoki főcsatorna | Csabaszabadi, Szarvas |
+|  | 8. | Duna-Tisza-csatorna | Dabas, Dunaharaszti |
+|  | 9. | Duna-völgyi-főcsatorna | Csévharaszt, Baja |
+|  | 10. | Ferenc-tápcsatorna | Baja, Hercegszántó |
+|  | 11. | Fűzvölgyi-főcsatorna | Szalkszentmárton, Harta |
+|  | 12. | Halastói-tápcsatorna | Tiszakeszi, Újszentmargita |
+|  | 13. | Hamvas-főcsatorna | Földes, Püspökladány, Karcag |
+|  | 14. | Hanság fôcsatorna | Rábcakapi, Jánossomorja, Sarrod |
+|  | 15. | Hortobágy-főcsatorna | Tiszavasvári, Püspökladány |
+|  | 16. | HTVR tápcsatorna | Balmazújváros |
+|  | 17. | I. Árapasztó | Dömsöd, Bugyi |
+|  | 18. | Jászsági-főcsatorna | Kisköre, Tiszasüly |
+|  | 19. | Jászsági főcsatorna Zagyvai ága | Kisköre térsége, Alattyán térsége |
+|  | 20. | Jászsági főcsatorna Zagyvai ága | Jászapáti térsége, Jászdózsa térsége |
+|  | 21. | K-1 öntözőcsatorna | Szentes, Szarvas |
+|  | 22. | Kadarcs-Karácsonyfoki-csatorna | Hajdúnánás, Hortobágy |
+|  | 23. | Kakat-főcsatorna | Kunhegyes, Ecsegfalva |
+|  | 24. | Karcagi-II. csatorna | Karcag |
+|  | 25. | Keleti-főcsatorna | Tiszalök, Hajdúszoboszló, Bakonszeg |
+|  | 26. | K-III- Hortobágy összekötő | Hajdúnánás |
+|  | 27. | K-III öntöző-főcsatorna | Hajdúnánás, Hajdúböszörmény |
+|  | 28. | Királyhegyesi-Szárazér-csatorna | Battonya, Makó |
+|  | 29. | Kiskunsági- főcsatorna | Tass, Akasztó |
+|  | 30. | Kispálszigeti-csatorna | Bihartorda, Nagyrábé, Bakonszeg, Zsáka |
+|  | 31. | Kis-Rába | Nick, Kenyeri, Kapuvár |
+|  | 32. | Kórógy-ér | Szentes, Szegvár |
+|  | 33. | Kösely-főcsatorna | Sáránd, Nádudvar |
+|  | 34. | Kösely-Hajdúszováti átmetszés | Hajdúszovát, Földes |
+|  | 35. | Kurca-csatorna | Mindszent, Szentes |
+|  | 36. | K-V-1 lecsapoló | Balmazújváros |
+|  | 37. | K-V-1 megkerülő | Balmazújváros |
+|  | 38. | K-V-3 lecsapoló | Balmazújváros |
+|  | 39. | K-VIII-öntöző-főcsatorna | Hajdúszoboszló, Nádudvar |
+|  | 40. | K-VII-Kösely vízleadó útvonal | Hajdúszoboszló, Nádudvar |
+|  | 41. | K-XI lecsapoló | Bakonszeg |
+|  | 42. | K-XI lecsapoló-Pálfoki összekötő-csatorna | Bakonszeg |
+|  | 43. | Maros-jobbparti-tápcsatorna | Makó |
+|  | 44. | Millér-csatorna | Szolnok, Jászkisér |
+|  | 45. | Nagykunsági-főcsatorna | Abádszalók, Öcsöd |
+|  | 46. | Nagykunsági-főcsatorna Keleti-ág | Kisújszállás, Túrkeve |
+|  | 47. | NK-III-2. öntözőcsatorna | Karcag, Kunhegyes |
+|  | 48. | Nyugati-főcsatorna | Tiszavasvári, Hortobágy |
+|  | 49. | Pálfoki-csatorna | Bakonszeg, Bihartorda |
+|  | 50. | Sárközi-I. főcsatorna | Kalocsa, Érsekcsanád |
+|  | 51. | Sárközi-III. főcsatorna | Szakmár, Miske |
+|  | 52. | Sárréti-főcsatorna | Derecske, Ecsegfalva |
+|  | 53. | Siratói összekötő | Békésszentandrás |
+|  | 54. | Szittyó-csatorna | Dabas, Alsónémedi |
+|  | 55. | Tiszasülyi-(28.)–csatorna | Tiszasüly, Jászkisér |
+|  | 56. | Új-Szőrhalmi | Kondoros, Csabacsűd, Nagyszénás |
+|  | 57. | Veker-ér-csatorna | Szentes, Nagytőke |
+|  | 58. | Villogó-belvízcsatorna | Abádszalók, Bucsa, Karcag |
+|  | 59. | XXX. csatorna | Alsónémedi, Kunszentmiklós |
 
 ### 1/12. számú melléklet
 
-Térségi övezetek és azok kapcsolata
+Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
 
-| Országos Területrendezési Terv | Kiemelt térségi és megyei területrendezési terv |
-| --- | --- |
-| a) Országos ökológiai hálózat | a) Magterület |
-|  | b) Ökológiai folyosó |
-|  | c) Pufferterület |
-| b) Kiváló termőhelyi adottságú szántóterület |  |
-| c) Kiváló termőhelyi adottságú erdőterület |  |
-|  | d) Erdőtelepítésre alkalmas terület |
-| d) Országos komplex tájrehabilitációt igénylő terület |  |
-|  | e) Térségi komplex tájrehabilitációt igénylő terület |
-| e) Országos jelentőségű tájképvédelmi terület |  |
-|  | f) Térségi jelentőségű tájképvédelmi terület |
-|  | g) Térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható terület |
-| f) Kulturális örökség szempontjából kiemelten kezelendő terület | h) Világörökség és világörökség-várományos terület |
-|  | i) Történeti települési terület |
-| g) Kiemelten érzékeny felszín alatti vízminőség- védelmi terület |  |
-| h) Felszíni vizek vízminőség-védelmi vízgyűjtő területe |  |
-| i) Ásványi nyersanyag-gazdálkodási terület |  |
-| j) Együtt tervezhető térségek |  |
-|  | j) Rendszeresen belvízjárta terület |
-|  | k) Nagyvízi meder |
-|  | l) Földtani veszélyforrás területe |
-|  | m) Vízeróziónak kitett terület |
-|  | n) Széleróziónak kitett terület |
-| k) Kiemelt fontosságú meglévő honvédelmi terület |  |
-|  | o) Honvédelmi terület |
+|  | A | B |
+| --- | --- | --- |
+| 1. | Országos Területrendezési Terv | Kiemelt térségi és megyei területrendezési terv |
+| 2. | a) Országos ökológiai hálózat | a) Magterület b) Ökológiai folyosó c) Pufferterület |
+| 3. | b) Kiváló termőhelyi adottságú szántóterület |  |
+| 4. | c) Jó termőhelyi adottságú szántóterület |  |
+| 5. | d) Kiváló termőhelyi adottságú erdőterület |  |
+| 6. |  | d) Erdőtelepítésre javasolt terület |
+| 7. | e) Országos jelentőségű tájképvédelmi terület |  |
+| 8. | f) Világörökségi és világörökségi várományos terület |  |
+| 9. | g) Országos vízminőség-védelmi terület |  |
+| 10. | h) Nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe |  |
+| 11. |  | e) Ásványi nyersanyagvagyon-terület |
+| 12. |  | f) Rendszeresen belvízjárta terület |
+| 13. |  | g) Földtani veszélyforrás területe |
+| 14. | i) Kiemelt fontosságú honvédelmi terület |  |
+| 15. |  | h) Honvédelmi terület |
+| 16. |  | i) Térségi jelentőségű tájképvédelmi terület |
+| 17. |  | Megyei területrendezési terv |
+| 18. |  | a) tanyás térség |
+| 19. |  | b) tájrehabilitációt igénylő terület |
+| 20. |  | c) szélerőműpark telepítéséhez vizsgálat alá vont terület |
+| 21. |  | d) térségi árvízi kockázatkezelési terület |
 
 ### 2. számú melléklet
 
+20030000000026_1
+
 ### 3/1. számú melléklet
+
+20030000000026_2
 
 ### 3/2. számú melléklet
 
+20030000000026_3
+
 ### 3/3. számú melléklet
 
+20030000000026_4
+
 ### 3/4. számú melléklet
+
+20030000000026_5
 
 ### 3/5. számú melléklet
 
 ### 3/6. számú melléklet
 
+20030000000026_7
+
 ### 3/7. számú melléklet
+
+20030000000026_8
 
 ### 3/8. számú melléklet
 
+20030000000026_9
+
 ### 3/9. számú melléklet
 
-### 3/10. számú melléklet
+20030000000026_10
 
-### 3/11. számú melléklet
+### 3/10–11. számú melléklet

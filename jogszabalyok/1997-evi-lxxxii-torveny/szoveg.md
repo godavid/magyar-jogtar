@@ -22,7 +22,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 (2) A nemzetközi szerződések hatálya alá tartozó személyekre e törvény rendelkezéseit a nemzetközi szerződésben foglalt eltéréssel kell alkalmazni.
 
-(3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre, és az ilyen tevékenységet végző egyéb szervezetekre a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
+(3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre, és az ilyen tevékenységet végző egyéb szervezetekre a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
 
 3. § Természetes személy önkéntes döntése alapján pénztártaggá válhat.
 
@@ -2228,7 +2228,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 - 5. Cstv.: az 1991. évi XLIX. törvény a csődeljárásról és a felszámolási eljárásról;
 - 6. Dtv.: az 1995. évi XCV. törvény a devizáról;
 - 7. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény;
-- 8. Hpt.: az 1996. évi CXII. törvény a hitelintézetekről és a pénzügyi vállalkozásokról;
+- 8. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény;
 - 9.
 - 10. Öpt.: az 1993. évi XCVI. törvény az Önkéntes Kölcsönös Biztosító Pénztárakról;
 - 11. Ptk.: az 1959. évi IV. törvény a Magyar Köztársaság Polgári Törvénykönyvéről;

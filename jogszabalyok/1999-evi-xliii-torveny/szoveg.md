@@ -43,7 +43,8 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 - f) hősi temető, hősi temetési hely: nemzetközi szerződés eltérő rendelkezése hiányában a honvédelmi kötelezettség fegyveres vagy fegyver nélküli teljesítése közben elesettek, továbbá a teljesítést követően, ezzel közvetlenül összefüggésbe hozható okból elhunytak, valamint háborúban kényszermunkára hurcoltak és elhunytak eltemetésére, hamvaik elhelyezésére szolgáló temető (temetőrész), temetési hely;
 - g) kegyeleti emlékhely: elhunytak emlékének megjelölésére és megőrzésére létesített építmény, emlékmű, emlékjel, épületen elhelyezett emléktábla;
 - h) kegyeleti közszolgáltatás: a köztemető fenntartását, továbbá üzemeltetését magába foglaló egyéni és közösségi kegyeleti célú, az elhunyt emlékének megőrzésére irányuló önkormányzati tevékenységek összessége;
-- i) egészségügyi intézmény: egészségügyi szolgáltatás nyújtására jogosító működési engedéllyel rendelkező személy, illetőleg intézmény.
+- i) egészségügyi intézmény: egészségügyi szolgáltatás nyújtására jogosító működési engedéllyel rendelkező személy, illetőleg intézmény;
+- j) korai vagy középidős magzati halál: az egészségügyről szóló 1997. évi CLIV. törvény 216. § e) pontjában meghatározott haláleset.
 
 ### II. Fejezet — A TEMETŐ
 
@@ -88,7 +89,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 - a) utat,
 - b) ravatalozót,
 - c) a halottak ideiglenes elhelyezésére szolgáló tárolót és hűtőt,
-- d) boncolóhelyiség-csoportot,
+- d)
 - e) a temető bekerítését vagy élősövénnyel való lehatárolását,
 - f) vízvételi lehetőséget, illemhelyet,
 - g) az utak sorfásítását,
@@ -227,9 +228,13 @@ alapján kell kiadni.
 
 24. § (1) Halottat csak külön jogszabályban előírt orvosi vizsgálat és az erről szóló halottvizsgálati bizonyítvány alapján szabad eltemetni, vagy elhamvasztani. A halottvizsgálati bizonyítványt a temetés előtt kell az üzemeltető részére átadni. Az elhunyt elhamvasztásához a halottvizsgálati bizonyítványra minden esetben fel kell jegyezni az elhamvaszthatóságot. A halottvizsgálati bizonyítvány egy példányának megőrzéséről a temető tulajdonosa gondoskodik.
 
-(2) Ha a halál körülményeinek vizsgálatára hatósági eljárás indult (rendkívüli halál), az elhunyt eltemetéséhez, illetve elhamvasztásához a halottvizsgálati bizonyítvány mellett az eljáró hatóság engedélye is szükséges.
+(2) Ha a halál körülményeinek vizsgálatára hatósági vagy büntetőeljárás indult, az elhunyt eltemetéséhez, elhamvasztásához az eljáró hatóság engedélye is szükséges.
 
 (3) Az elhunyt eltemetésére, elhamvasztására, az urna földbe temetésére – a sírboltba temetés és az urna kivételével – olyan, a kegyeleti igényeknek megfelelő koporsó, illetőleg kellék használható, amely lebomlik, és nem veszélyezteti a környezetet.
+
+(4) Korai vagy középidős magzati halálozás esetén az elhalt magzat halottvizsgálati bizonyítvány nélkül, a szülő írásbeli nyilatkozata alapján temethető vagy hamvasztható el. A nyilatkozat alapján a maradványokat ki kell adni, a szülő azok eltemettetésére köteles.
+
+(5) Ha az elhunyt fogvatartott volt, a (2) bekezdés szerinti engedélyt az eljáró hatóság az ügyészség hozzájárulása alapján adja meg.
 
 ### III. Fejezet — TEMETKEZÉSI SZOLGÁLTATÁSOK
 

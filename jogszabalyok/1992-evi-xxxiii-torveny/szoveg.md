@@ -105,7 +105,9 @@ tervezetét.
 
 (4) Országos szinten azt az országos szakszervezeti konföderációt kell reprezentatívnak tekinteni, amelynek legalább három reprezentatív ágazati szakszervezet a tagja, és tagszervezetei a közalkalmazottak legalább 5%-át képviselik.
 
-(5) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
+(5) A (2)–(4) bekezdés szerinti reprezentativitást 2014. március 31-ével, ezt követően minden harmadik év március 31-ével kell ismételten megállapítani.
+
+(6) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
 
 6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
 
@@ -956,6 +958,11 @@ alapszabadság illeti meg.
 
 (3) Az Mt. 95. § (4) bekezdését alkalmazni kell a 30. § (4) bekezdése szerinti felmentés esetén is.
 
+(4) A munkáltató a felek naptári évre kötött írásbeli megállapodása alapján
+
+- a) az 57. § (1) bekezdés szerinti, a fizetési fokozat alapján, és
+- b) az 57. § (2) bekezdés szerinti, a magasabb vezetői vagy vezetői megbízás alapján megállapított pótszabadságot az esedékesség évét követő év végéig adja ki.
+
 ### V. Fejezet — A közalkalmazottakelőmeneteli és illetményrendszere
 
 60. § E törvény biztosítja a közalkalmazott számára a közalkalmazotti pályán való előmenetel lehetőségét.
@@ -1200,7 +1207,9 @@ megfelelő összeg illeti meg.
 
 79/A. § (1) A közalkalmazottat az e törvény 60—79. §-a alapján megillető illetmény kifizetése a közalkalmazott által meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
-(2) Az illetmény fizetési számlára történő átutalása és egyszeri felvétele, illetve az illetménykifizetés a közalkalmazott részére költségtöbbletet nem okozhat.
+(2) A fizetési számlához kapcsolódóan a közalkalmazott részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
+
+(3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
 79/B. § A felsőoktatási intézményben – e törvény 2. számú mellékletében meghatározott – oktatói, valamint a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) tudományos kutatói munkakört betöltő közalkalmazottak előmeneteli és illetményrendszerére e törvény 61., 63., 66., 71., 74. és 75. §-ában foglaltak nem alkalmazhatók. A 62., 64. és 65. §-ban foglaltak csak e törvény 57. § (1) bekezdése tekintetében alkalmazhatók.
 

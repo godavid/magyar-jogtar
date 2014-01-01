@@ -55,6 +55,8 @@ is megfelelően érteni kell.
 
 (5) E törvény hatálybalépését megelőzően a helyi önkormányzat által megállapított illetmény-kiegészítés mértéke 2012. évben nem csökkenthető.
 
+(6) A Kttv.-nek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 134. § (1) bekezdés 16. pontját 2013. augusztus 1-jétől kell alkalmazni.
+
 5. § (1) A köztisztviselő, ügykezelő közszolgálati jogviszonyából eredő jogokat és kötelezettségeket a Kttv. hatálybalépése nem érinti, kivéve, ha a Kttv. ettől eltérően rendelkezik.
 
 (2) A kormánytisztviselő, kormányzati ügykezelő kormánytisztviselői jogviszonyának elnevezése kormányzati szolgálati jogviszony elnevezésre változik. A jogviszony elnevezésének megváltozása nem érinti a Kttv. hatálybalépése előtt keletkezett kormánytisztviselői jogviszonyból eredő jogokat és kötelezettségeket, kivéve, ha a Kttv. ettől eltérően rendelkezik. A jogviszony elnevezésének megváltozásáról a munkáltató köteles 60 napon belül a kormánytisztviselőt, illetve a kormányzati ügykezelőt értesíteni.
@@ -99,7 +101,7 @@ terjed ki.
 
 10. §
 
-11. § A Kttv. hatálybalépésekor a Nemzeti Fejlesztési Ügynökségnél megállapított illetményekre a Kttv. 134. § (1) bekezdését kell alkalmazni azzal a feltétellel, hogy e szervnél foglalkoztatott kormánytisztviselő illetménye nem csökkenthető azon jogviszonya fennállásáig, amely alapján a Ktjv. hatálybalépése előtti illetményre jogosultságot szerzett.
+11. §
 
 12. § Ha a közigazgatási szervnél a munkaszerződéssel foglalkoztatottak aránya a Kttv. hatálybalépésekor meghaladja a Kttv. 8. § (4) bekezdésében meghatározott mértéket, új munkaszerződés nem köthető, illetve a meglévő szerződések a közigazgatásért és igazságügyért felelős miniszter engedélyével hosszabbíthatóak meg addig, amíg az ilyen szerződésekkel foglalkoztatottak aránya az engedélyezett létszám tíz százalékára nem csökken.
 
@@ -134,6 +136,18 @@ terjed ki.
 (6) A munkáltató a (4) és (5) bekezdés alapján tudomására jutott személyes adatot az (1) bekezdésben meghatározott feltételek ellenőrzése céljából, legfeljebb a Kttv. 184. § (4) bekezdésében meghatározott ideig kezelheti.
 
 19/C. § A Kttv.-nek az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel megállapított 218. § (10) bekezdését és 223. § (6) bekezdését az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvény hatályba lépését követően kinevezett helyettes államtitkárra és közigazgatási államtitkárra kell alkalmazni.
+
+19/E. § (1) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetménykiegészítését a 11. § szerinti szerv jogutód államigazgatási szervénél (e § alkalmazásában a továbbiakban: jogutód államigazgatási szerv) 2014. június 30-ig a 2013. december 31-én hatályos 11. § szerint kell biztosítani.
+
+(2) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetménykiegészítését 2014. július 1-jétől a jogutód államigazgatási szervnél irányadó szabályok szerint kell biztosítani.
+
+(3) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetményen kívüli juttatásait 2014. január 1-jétől a jogutód államigazgatási szervnél irányadó szabályok szerint kell biztosítani.
+
+(4) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselőnek 2014. január 15-ig írásban nyilatkoznia kell az (1)–(3) bekezdésben foglaltak tudomásul vételéről. Ha eddig az időpontig nem nyilatkozik, illetve úgy nyilatkozik, hogy nem fogadja el az (1)–(3) bekezdésben foglaltakat, a jogutód államigazgatási szervvel fennálló kormányzati szolgálati jogviszonya 2014. március 31-ével törvény erejénél fogva megszűnik. A jogviszony megszűnéséről a kormánytisztviselőt írásban értesíteni kell.
+
+(5) Ha a kormánytisztviselő a (4) bekezdés szerinti nyilatkozat megtételére nyitva álló határidőt elmulasztja, 2014. január 31-ig igazolással élhet.
+
+(6) A (4) bekezdés szerinti jogviszony megszűnés esetén a jogutód államigazgatási szerv a nyilatkozattétel napjával, illetve ha a kormánytisztviselő a (4) bekezdésben meghatározott időpontig nem nyilatkozik, 2014. január 16-ától mentesítheti a kormánytisztviselőt a munkavégzési kötelezettség alól. A kormánytisztviselőt jogviszonya megszűnéséig legalább egy hónapra mentesíteni kell a munkavégzési kötelezettség alól. A kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés időtartamára illetményre jogosult. A Kttv. 85. § (2) és (3) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a munkavégzési kötelezettség alól mentesített kormánytisztviselővel szemben. A munkavégzés alól a kormánytisztviselőt a kívánságának megfelelően – legfeljebb két részletben – kell mentesíteni.
 
 #### 2. A közszolgálati tisztviselőkről szóló törvényhez kapcsolódó egyes törvények módosítása
 

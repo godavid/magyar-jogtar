@@ -28,7 +28,7 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 (2) Nem végezhető olyan tevékenység, mely Magyarország nemzetközi kötelezettségvállalásába ütközik.
 
-(3) Nem kell külön engedélyt beszerezniük a Magyar Honvédség, valamint a polgári nemzetbiztonsági szolgálatok, a rendvédelmi és rendészeti szervek – e törvény alkalmazásában ideértve a Nemzeti Adó- és Vámhivatalt is – kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást és megsemmisítést végző szervezeti egységeinek.
+(3) Nem kell külön engedélyt beszerezniük a Magyar Honvédség, a nemzetbiztonsági szolgálatok, a rendvédelmi szervek – e törvény alkalmazásában ideértve a Nemzeti Adó- és Vámhivatalt is – kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást, megsemmisítést, múzeumi tevékenységet végző szervezeti egységeinek. Nem kell külön engedélyt beszerezniük az állam nevében eladóként eljáró, honvédelmi szempontból feleslegesnek nyilvánított haditechnikai termékek elidegenítését végző szerveknek azonban az elidegenített haditechnikai termékek köréről, illetve a vásárlók személyéről kötelesek tájékoztatni a hadiipari gyártás- és szolgáltatásfelügyeletet.
 
 (4) Az engedély kiadására a hadiipari gyártás- és szolgáltatásfelügyelet jogosult kormányrendeletben meghatározott szervek véleménye alapján.
 
@@ -133,6 +133,8 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 (4) A hadiipari gyártás- és szolgáltatásfelügyelet a hadiipari tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű, valamint, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel. A hatósági ellenőrzés céljából a hadiipari gyártás- és szolgáltatásfelügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag annak megállapítására irányulhat, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű-e, illetve, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel-e.
 
+5/A. § A haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről, valamint a vállalkozások tanúsításáról szóló 160/2011. (VIII. 18.) Korm. rendelet 1. mellékletének I. fejezet a)–c) pontjában és III. fejezetében, valamint az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló 2012. március 14-ei 258/2012/EU parlamenti és tanácsi rendelet I. Mellékletében is felsorolt haditechnikai eszközök kivitelét végző vállalkozás tulajdonosának és vezető tisztségviselőjének meg kell felelnie az 5. §-ban meghatározott, ezen termékkörökre vonatkozó személyi követelményeknek.
+
 ### Adatkezelés
 
 6. § (1) A hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartja és kezeli
@@ -188,6 +190,9 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 (3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben szabályozza a felkutatási tevékenység folytatásának e törvény 2. § (5) bekezdésében meghatározottakon felüli feltételeit, a szakmai kivitelezés eljárási rendjét és szabályait, a kérelmezőnek vagy valamely felelős vezetőjének a szolgáltatás nyújtásához szükséges személyi és technikai feltételeit.
 
-11. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+11. § Ez a törvény
+
+- a) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+- b) az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló, 2012. március 14-ei 258/2012/EU európai parlamenti és tanácsi rendeletének való megfelelést szolgálja.
 
 ### Melléklet a 2005. évi CIX. törvényhez

@@ -24,6 +24,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 11. kereskedő: aki kereskedelmi tevékenységet folytat;
 - 12. kereskedelmet kiszolgáló szolgáltató tevékenység: üzletszerű gazdasági tevékenység keretében bevásárlóközpont, piac vagy vásár üzemeltetése, ideértve az ott forgalmazott termékek raktározásával, szállításával összefüggő vagy egyéb, a kereskedelmi tevékenység folytatásának elősegítésére irányuló szolgáltatások nyújtását;
 - 13. kiskereskedelmi tevékenység: üzletszerű gazdasági tevékenység keretében termékek forgalmazása, vagyoni értékű jog értékesítése és az ezzel közvetlenül összefüggő szolgáltatások nyújtása a végső felhasználó részére, ideértve a vendéglátást is;
+- 13a. közlekedési eszközön folytatott értékesítés: vasúti étkezőkocsiban és büfében, autóbuszjáraton, személyhajó éttermében és büféjében, valamint polgári repülőgépjáraton végzett kiskereskedelmi tevékenység,
 - 14. közterületi értékesítés: a közterületen, illetve közforgalom számára nyitva álló helyen végzett kiskereskedelmi tevékenység;
 - 15. közvetlen értékesítés: kiskereskedelmi tevékenység keretében termék forgalmazása közvetlenül az előállítás helyén;
 - 16. lovas szolgáltató tevékenység: üzletszerű gazdasági tevékenység keretében ló igénybevételével nyújtott, szabadidős, terápiás vagy oktatási célú szolgáltatás;
@@ -64,7 +65,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - f) közvetlen értékesítés,
 - g) üzleten kívüli kereskedelem,
 - h) csomagküldő kereskedelem,
-- i) automatából történő értékesítés.
+- i) automatából történő értékesítés,
+- j) közlekedési eszközön folytatott értékesítés.
 
 (5) Engedélyköteles kereskedelmi tevékenység esetén az engedélyező hatóság az engedélye megadásával egyidejűleg értesíti a bejelentésköteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóságot.
 

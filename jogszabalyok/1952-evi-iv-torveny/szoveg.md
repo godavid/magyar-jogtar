@@ -415,14 +415,14 @@ Csjt. 48. § (1) Az örökbefogadást a gyámhatóság engedélyezi.
 
 (6) Az örökbefogadási eljárás a (3)–(4) bekezdésben, valamint az (5) bekezdés a)–c) pontjában meghatározott esetben titkos. A szülő az örökbefogadásról értesítést nem kap, és az örökbefogadásról hozott határozatot sem fellebbezéssel, sem egyéb módon nem támadhatja meg.
 
-Csjt. 48/A. § (1) A gyámhatóság az átmeneti nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja, ha a szülő gyermekével önhibájából egy éve nem tart rendszeres kapcsolatot, életvitelén, körülményein nem változtat, és emiatt az átmeneti nevelés nem szüntethető meg. Erre a jogkövetkezményre a szülőt az átmeneti nevelést elrendelő határozatban figyelmeztetni kell.
+Csjt. 48/A. § (1) A gyámhatóság a nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja, ha a szülőjének szülői felügyeleti joga nem szűnt meg és a szülő gyermekével önhibájából egy éve nem tart rendszeres kapcsolatot, életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel nem szüntethető meg. Erre a jogkövetkezményre a szülőt a nevelésbe vételt elrendelő határozatban figyelmeztetni kell.
 
-(2) A gyámhatóság az átmeneti nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja abban az esetben is, ha
+(2) A gyámhatóság a nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja abban az esetben is, ha szülőjének szülői felügyeleti joga nem szűnt meg vagy azt a bíróság nem szüntette meg, és
 
 - a) a szülő lakó- és tartózkodási helyét az új lakó- és tartózkodási helye hátrahagyása nélkül megváltoztatja, melynek felderítésére irányuló intézkedések fél éven belül nem vezetnek eredményre, vagy
 - b) a szülő fél éven át gyermekével semmilyen formában nem tart kapcsolatot.
 
-(3) A gyámhatóság a gyermek örökbefogadása érdekében az örökbefogadhatónak nyilvánítással egyidejűleg a szülő kapcsolattartási jogát is korlátozhatja, vagy szüneteltetheti.
+(3) A gyámhatóság a gyermek örökbefogadása érdekében az örökbefogadhatónak nyilvánítással egyidejűleg a szülő kapcsolattartási jogát szünetelteti.
 
 (4) Ha a kiskorú örökbefogadására nem került sor, és utóbb a gyámhatóság az intézeti nevelést megszünteti, az örökbefogadhatónak nyilvánító határozat hatályát veszti.
 
@@ -731,7 +731,7 @@ Csjt. 87. § (1) A szülő nem képviselheti gyermekét olyan ügyben, amelyben 
 Csjt. 88. § (1) A bíróság megszünteti a szülői felügyeletet:
 
 - a) ha a szülő felróható magatartásával gyermeke javát, különösen testi jólétét, értelmi vagy erkölcsi fejlődését súlyosan sérti vagy veszélyezteti,
-- b) ha a gyermeket más személynél helyezték el, vagy átmeneti nevelésbe vették és a szülő felróhatóan gyermeke érdekét súlyosan sértő módon nem működik együtt a gyermekét gondozó nevelőszülővel vagy intézménnyel, gyermekével nem tart kapcsolatot, továbbá magatartásán, életvitelén, körülményein az átmeneti nevelés megszüntetése céljából nem változtat.
+- b) ha a gyermeket más személynél helyezték el, vagy nevelésbe vették és a szülő felróhatóan gyermeke érdekét súlyosan sértő módon nem működik együtt a gyermekét gondozó nevelőszülővel vagy intézménnyel, gyermekével nem tart kapcsolatot, továbbá magatartásán, életvitelén, körülményein a nevelésbe vétel megszüntetése céljából nem változtat,
 - c) ha a szülőt a bíróság valamelyik gyermeke személye ellen elkövetett szándékos bűncselekmény miatt szabadságvesztésre ítélte.
 
 (2) A bíróság a szülői felügyeletet abból az okból is megszüntetheti, hogy a szülő életközösségben él a felügyelettől megfosztott másik szülővel, és ezért alaposan tartani lehet attól, hogy a felügyeletet nem fogja a gyermek érdekében megfelelően ellátni.
@@ -754,7 +754,7 @@ Csjt. 91. § (1) Szünetel a szülői felügyelet,
 - b) ha a szülő ismeretlen helyen távol van, vagy ténylegesen akadályozva van,
 - c) ha a bíróság a gyermeket harmadik személynél helyezte el,
 - d) ha a szülő hathetes életkoránál fiatalabb gyermeke ismeretlen személy általi örökbefogadásához járult hozzá,
-- e) ha a gyermeket a gyámhatóság átmeneti nevelésbe vette,
+- e) ha a gyermeket a gyámhatóság nevelésbe vette és a szülő szülői felügyeleti joga nem szűnt meg vagy azt a bíróság nem szüntette meg,
 - f) ha a gyámhatóság a gyermek családba fogadásához hozzájárult,
 - g) ha a szülővel szemben a bíróság a gyermek sérelmére elkövetett cselekmény miatt büntetőeljárási kényszerintézkedésként távoltartást rendelt el, a kényszerintézkedés időtartamáig,
 - h) ha a szülővel szemben a rendőrség vagy a bíróság a gyermek, illetve a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett, külön törvényben meghatározott hozzátartozók közötti erőszak miatt ideiglenes megelőző távoltartó határozatot, megelőző távoltartó határozatot hozott.
@@ -767,7 +767,7 @@ Csjt. 92. § (1) A gyermeknek joga, hogy különélő szülőjével személyes �
 
 (2) A szülőnek – kivéve, ha a külön jogszabályban meghatározott ideiglenes megelőző távoltartó határozat, megelőző távoltartó határozat, illetve ha gyermek sérelmére elkövetett cselekmény miatt a büntetőeljárásban elrendelhető távoltartás kényszerintézkedés hatálya alatt áll – joga van gyermekével kapcsolatot tartani akkor is, ha szülői felügyeleti joga szünetel.
 
-(3) Kivételesen indokolt esetben, a gyermek érdekében azt a szülőt is fel lehet jogosítani a gyermekkel való kapcsolattartásra, akinek a szülői felügyeleti jogát a bíróság megszüntette, vagy akinek szülői felügyeleti joga a 48. § (3) bekezdése alapján szűnt meg és a gyermek örökbefogadására nem került sor. Erről a szülői felügyeletet megszüntető bíróság vagy – ha a gyermeket tartós nevelésbe vették – a gyámhatóság dönt.
+(3) Kivételesen indokolt esetben, a gyermek érdekében azt a szülőt is fel lehet jogosítani a gyermekkel való kapcsolattartásra, akinek a szülői felügyeleti jogát a bíróság megszüntette, vagy akinek szülői felügyeleti joga a 48. § (3) bekezdése alapján szűnt meg és a gyermek örökbefogadására nem került sor. Erről a szülői felügyeletet megszüntető bíróság vagy – ha a gyermeket nevelésbe vették – a gyámhatóság dönt.
 
 (4) A kapcsolattartásról – a szülők megegyezésének hiányában, illetőleg a szülők és a gyám közötti vita esetében – a gyámhatóság dönt. Ha házassági vagy gyermekelhelyezési per van folyamatban, a szülők megegyezésének hiányában a kapcsolattartásról a bíróság dönt. A gyámhatóság, illetőleg a házassági vagy gyermekelhelyezési perben a bíróság a felróható magatartást tanúsító szülő kapcsolattartási jogát a gyermek érdekében korlátozhatja, vagy megvonhatja, illetőleg e jog gyakorlásának szünetelését rendelheti el.
 
@@ -813,23 +813,7 @@ Csjt. 97. § (1) A gyámhatóság rendszerint minden kiskorú részére külön 
 
 (3) Ha törvény másként nem rendelkezik, a gyámhatóság egy vagy több gyermek gyámjává a közigazgatási szerv részéről erre kijelölt személyt (hivatásos gyámot) is kirendelheti.
 
-Csjt. 98. § (1) Gyámság alá tartozik az a gyermek, akit átmeneti vagy tartós nevelésbe vettek, továbbá akit ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban, illetve más bentlakásos intézményben helyeztek el, és szülője ellen a szülői felügyelet megszüntetése iránt per van folyamatban [91. § (2) bek.].
-
-(2) Az (1) bekezdésben meghatározott esetben a gyámhatóság a gyermek részére gyámot rendel. Gyámul rendelhető a gyámi feladatok ellátására alkalmas
-
-- a) nevelőszülő,
-- b) gyermekotthon vezetője, ahol a gyámhatóság a gyermeket elhelyezte.
-
-(3) A (2) bekezdés a) és b) pontjai alapján kirendelt gyámra nem alkalmazhatók a 100. § (2) bekezdésének b) és c) pontjában foglaltak.
-
-(4) A gyámhatóságnak a gyermek számára hivatásos gyámot kell kirendelnie, ha
-
-- a) a gyámhatóság az átmeneti vagy tartós nevelésbe vett gyermeket fogyatékosok vagy pszichiátriai betegek otthonában helyezte el,
-- b) a nevelőszülő a 100. § (3) bekezdése alapján a gyámságot nem vállalja,
-- c) a 98. § (2) bekezdésében meghatározott személyek gyámul nem rendelhetők,
-- d) a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához, és a gyámhatóság a gyermeket ideiglenesen a leendő örökbefogadó szülőnél helyezte el.
-
-(5) A gyámhatóság a (2) és (4) bekezdésben meghatározott személyek gyámul történő kirendeléséről az összes körülmények figyelembevételével, a gyermek érdekében dönt.
+Csjt. 98. §
 
 Csjt. 99. § (1) Gyám lehet minden nagykorú személy, akivel szemben e törvényben meghatározott kizáró körülmény nem áll fenn.
 
@@ -838,7 +822,7 @@ Csjt. 99. § (1) Gyám lehet minden nagykorú személy, akivel szemben e törvé
 - a) aki gondnokság alatt áll,
 - b) aki a szülői felügyeletet megszüntető vagy a közügyektől eltiltó jogerős ítélet hatálya alatt áll,
 - c) akit a szülői felügyelet gyakorlására jogosult szülő a gyámságból közokiratban vagy végrendeletben kizárt.
-- d) akinek szülői felügyeleti joga azért szünetel, mert gyermekét a gyámhatóság átmeneti vagy tartós nevelésbe vette,
+- d) akinek szülői felügyeleti joga azért szünetel, mert gyermekét a gyámhatóság nevelésbe vette,
 - e) akinek a gyermekét örökbefogadhatónak nyilvánították.
 
 (3) Ha a szülői felügyeletet gyakorló egyik szülő azt a személyt zárja ki a gyámságból, akit a másik szülő gyámul nevezett meg, a kiskorú gyermek érdekeinek figyelembevételével a gyámhatóság dönti el, hogy melyik rendelkezés érvényesüljön.
@@ -886,10 +870,7 @@ Csjt. 106. § (1) A gyámság megszűnik, ha a gyámság alatt álló meghal, sz
 
 Csjt. 107. § (1) A gyámhatóság a gyámot tisztségétől felmenti, ha a gyám alkalmatlan, a gyám fontos okból felmentését kéri vagy utólag keletkezik olyan akadály, amely miatt gyámságot nem viselhet.
 
-(2) A 98. § a) vagy b) pontja alapján kirendelt gyámot a gyámhatóság a tisztségéből akkor is felmenti, ha
-
-- a) a gyermeket máshol helyezi el,
-- b) a gyermekotthon vezetőjének vezetői beosztása megszűnt.
+(2)
 
 Csjt. 108. § (1) Ha a gyám jogaival visszaél, kötelességét elhanyagolja, vagy olyan cselekményt követ el, amely miatt a feladat ellátására méltatlanná válik, a gyámhatóság a gyámot tisztségéből elmozdítja.
 

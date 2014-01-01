@@ -45,10 +45,10 @@ terjed ki.
 - b) az f) és a h) pontjaiban rögzített feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter),
 - c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a gazdaságpolitikáért felelős miniszterrel együttesen,
 - d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
-- e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel és a fejlesztéspolitikáért felelős miniszterrel egyetértésben,
+- e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, valamint a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel egyetértésben,
 - f)
-- g) az i) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
-- h) a j) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
+- g) az i) pontjában rögzített feladatot a miniszter a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
+- h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
 - i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
 - j) az l) pontjában rögzített feladatot a miniszter a szakképzésért és felnőttképzésért felelős miniszterrel egyetértésben,
 - k) az m) pontjában rögzített feladatot a miniszter az egészségügyért felelős miniszterrel egyetértésben,
@@ -886,7 +886,7 @@ kezeli.
 
 80. § (1) Azt a közforgalmú kikötőt, amelynek földterülete állami tulajdonban vagy az állam meghatározó többségével létrehozott vagyonkezelő társaság kezelésében van, és amely alapvető közlekedési infrastukturális ellátottsága lehetővé teszi átrakodási, elosztási központként a vízi, vasúti és a közúti személy-, illetőleg áruforgalom összekapcsolását, országos közforgalmú kikötővé lehet nyilvánítani.
 
-(2) Közforgalmú kikötőt – a miniszter, a fejlesztéspolitikáért felelős miniszter és a gazdaságpolitikáért felelős miniszter együttes javaslatára – a Kormány határozatával nyilvánítja országos közforgalmú kikötővé.
+(2) Közforgalmú kikötőt – a miniszter és a gazdaságpolitikáért felelős miniszter együttes javaslatára – a Kormány határozatával nyilvánítja országos közforgalmú kikötővé.
 
 (3) Az országos közforgalmú kikötőt az állam az általa vagy részvételével e célra alapított gazdasági társaság útján működteti, illetve az országos közforgalmú kikötő földterületét bérbeadás útján hasznosítja.
 

@@ -37,7 +37,7 @@ Az Országgyűlés a Jó Állam kialakítása érdekében, a törvényesen és �
 
 (7)
 
-(8) A megyei önkormányzatok által alapított, valamint a megyei önkormányzatok által más alapítóval közösen alapított alapítványokban, illetve közalapítványokban a megyei önkormányzatokat megillető alapítói jogok – amennyiben a (2) bekezdés szerinti megállapodás eltérően nem rendelkezik – 2012. január 1-jén az államra szállnak át oly módon, hogy az e törvény alapján az államra átszálló alapítói jogok gyakorlására a 3. § (1) bekezdés b) pontja szerinti vagyonkezelő jogosult. A Kormány jogosult nyilvános határozatában az állami alapítói jogok gyakorlására más állami szervet kijelölni.
+(8) A megyei önkormányzatok által alapított, valamint a megyei önkormányzatok által más alapítóval közösen alapított alapítványokban, illetve közalapítványokban a megyei önkormányzatokat megillető alapítói jogok – amennyiben a (2) bekezdés szerinti megállapodás eltérően nem rendelkezik – 2012. január 1-jén az államra szállnak át oly módon, hogy az e törvény alapján az államra átszálló alapítói jogok gyakorlására a 3. § (1) bekezdés b) pontja szerinti vagyonkezelő jogosult. A Kormány jogosult nyilvános határozatában az állami alapítói jogok gyakorlására más állami szervet, illetve a vállalkozásfejlesztési alapítványok esetén más állami szervet vagy megyei önkormányzatot kijelölni.
 
 (9) A megyei önkormányzatok adósságának 5. §-ban szabályozott átvételéig a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény szerint adósságrendezési eljárás megyei önkormányzat ellen nem kezdeményezhető.
 

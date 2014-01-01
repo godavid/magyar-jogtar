@@ -728,9 +728,9 @@ kezeli.
 
 (2) A Kormány által az (1) bekezdés szerint kijelölt szerv felügyelőbizottsága – a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvény rendelkezésétől eltérően – öt természetes személy tagból áll.
 
-(3) A felügyelőbizottság egy-egy tagját a Központi Nukleáris Pénzügyi Alapba legnagyobb mértékű befizetést teljesítő engedélyes és ezen engedélyes felett közvetlen többségi tulajdonosi jogokat gyakorló gazdasági társaság jogosult jelölni.
+(3)
 
-41. § A radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésének költsége az engedélyest, költségvetési intézmény esetén a központi költségvetést terheli.
+41. § A radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésének költsége az engedélyest, a Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény, vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetén a központi költségvetést terheli.
 
 ### IV. Fejezet — Intézkedések rendkívüli események megelőzéséreés következményeik elhárítására
 
@@ -844,7 +844,7 @@ kezeli.
 
 62. § (1) A Központi Nukleáris Pénzügyi Alap a radioaktív hulladék végleges elhelyezésének, a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésével összefüggő feladatok finanszírozását biztosító elkülönített állami pénzalap.
 
-(2) A Központi Nukleáris Pénzügyi Alap kezelője az atomenergia-felügyeleti szerv, amelynek az Alap kezelésével kapcsolatos feladatokat ellátó szervezeti egysége elkülönül a hatósági tevékenységet végző szervezeti egységeitől.
+(2) A Központi Nukleáris Pénzügyi Alap kezelő szerve a kijelölt miniszter által vezetett minisztérium.
 
 (3) A Központi Nukleáris Pénzügyi Alap terhére kizárólag a 10/A. § (2) bekezdésében és az (1) bekezdésben meghatározott célokra lehet kifizetést teljesíteni, továbbá a Központi Nukleáris Pénzügyi Alap kezelésével kapcsolatban a (2) bekezdés szerinti szerv által ellátott feladatokat a Központi Nukleáris Pénzügyi Alap terhére kell finanszírozni.
 
@@ -858,15 +858,30 @@ kezeli.
 
 (5) A (4) bekezdés e) pontja szerinti dokumentumok kijelölt miniszterhez való felterjesztéséhez csatolni kell az atomenergia-felügyeleti szerv előzetes szakmai értékelését is.
 
-63. § (1) Az engedélyesek a radioaktív hulladékok végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmények leszerelésének költségeit a Központi Nukleáris Pénzügyi Alapba történő befizetés útján kötelesek biztosítani.
+(6) A kijelölt miniszter Központi Nukleáris Pénzügyi Alappal kapcsolatos munkájának segítése érdekében értékelő és előzetes állásfoglalást kialakító testület működik.
 
-(2) Nukleáris létesítmények esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze a nukleáris létesítmény teljes üzemideje alatt és a leszereléskor keletkező radioaktív hulladékok végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és a nukleárisüzemanyag-ciklus lezárásával, továbbá a nukleáris létesítmény leszerelésével felmerülő valamennyi költséget.
+63. § (1) Az atomerőmű a radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának – beleértve a tároló leszerelését is –, és a nukleárisüzemanyag-ciklus lezárásának, továbbá az atomerőmű leszerelésének, valamint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatás költségeit a Központi Nukleáris Pénzügyi Alapba történő befizetés útján köteles biztosítani. Az adott évre megállapított összeg arányos részét közvetlenül a Központi Nukleáris Pénzügyi Alap kincstárnál vezetett számlájára havonta, a hónap 15. napjáig kell befizetni.
 
-(3) A befizetések mértékét az éves költségvetési törvény határozza meg a 40. § szerint kijelölt szerv által a (2) bekezdésben foglalt kötelezettség figyelembevételével készített és az atomenergia-felügyeleti szerv, valamint – az atomerőmű vonatkozásában – a Magyar Energia Hivatal által véleményezett költségbecslés alapján.
+(2) Atomerőmű esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze:
 
-(4) Az engedélyesek befizetései az egyéb ráfordítások között számolhatók el. Atomerőmű esetén ezt a villamos energia ármeghatározásában figyelembe kell venni.
+- a) az atomerőmű teljes üzemideje alatt és a leszereléskor keletkező radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és a nukleárisüzemanyag-ciklus lezárásával,
+- b) az első előzetes leszerelési terv költsége kivételével valamennyi, az atomerőmű, továbbá a kiégett üzemanyag átmeneti tárolója leszerelésével,
+- c) a 10/A. § (2) bekezdése szerint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatással, valamint
+- d) a Központi Nukleáris Pénzügyi Alap létrejöttét megelőzően létesített radioaktívhulladék-tárolóban a 63/A. § szerinti befizetési kötelezettségből származó bevételből nem fedezett, a véglegesen elhelyezett radioaktív hulladék tárolásával, a tároló biztonságnövelésével és üzemeltetésével járó költségeket.
 
-(5) A Központi Nukleáris Pénzügyi Alap bevételi forrását az (1)–(2) bekezdésekben foglalt befizetések képezik.
+(3) Az atomerőmű befizetésének éves mértékét a központi költségvetésről szóló törvény határozza meg a (2) bekezdésben foglalt kötelezettség figyelembevételével.
+
+(4) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetében a kiégett üzemanyag átmeneti elhelyezését szolgáló tároló létesítésével, üzemeltetésével, a nukleárisüzemanyag-ciklus lezárásával, valamint a nukleáris létesítmény leszerelésével és lebontásával és az annak következtében keletkező radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket azok felmerülésekor kell befizetni a Központi Nukleáris Pénzügyi Alapba. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
+
+63/A. § (1) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény üzemideje alatt a radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket a hulladék tárolóba történő beszállításakor kell megfizetni az 1. mellékletben meghatározottak szerint. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
+
+(2) Az atomenergia olyan alkalmazója, amely nem tartozik a 63. § (1) és (4) bekezdése, valamint az (1) bekezdés hatálya alá, a radioaktív hulladék végleges elhelyezésével kapcsolatos, az 1. melléklet alapján meghatározott befizetési kötelezettségét a hulladék tárolóba történő beszállításakor teljesíti.
+
+(3) Az (1) és (2) bekezdés szerinti beszállító a fizetési kötelezettségének a beszállítást követő 15 napon belül köteles eleget tenni a Központi Nukleáris Pénzügyi Alapnak a kincstárnál vezetett számlájára történő befizetéssel.
+
+(4) Az 1. melléklet szerint meghatározott befizetési kötelezettség számításánál a radioaktív hulladék térfogatát a csomagolás névleges bruttó térfogatára, névleges térfogat hiányában a csomagolást befoglaló téglatest térfogatára kell vonatkoztatni, de a legkisebb elszámolható mennyiség hulladékcsomagonként 5 liter.
+
+(5) A Központi Nukleáris Pénzügyi Alap bevételi forrását a 63. § (1) és (4) bekezdése, valamint az (1) és (2) bekezdés szerinti befizetések képezik.
 
 64. § (1) A Központi Nukleáris Pénzügyi Alap gazdálkodására az államháztartásról szóló törvény elkülönített állami pénzalapokra vonatkozó rendelkezéseit kell alkalmazni az e törvényben foglalt eltérésekkel.
 
@@ -947,7 +962,9 @@ kezeli.
 - p) a radioaktív hulladékok és a kiégett üzemanyagok országhatáron át történő szállításának engedélyezését és az engedélyezéshez való hozzájárulást;
 - q) a nukleáris védettséggel összefüggésben a fenyegetettséggel kapcsolatos naprakész elemzéseket elvégző és a tervezési alapfenyegetettséget meghatározó szerv kijelölését, tevékenységét, szervezetét és működését;
 - r) az atomenergia alkalmazása körében a tervezési alapfenyegetettség első alkalommal történő megállapításával, valamint a fizikai védelmi rendszerrel kapcsolatos követelményeket és a vonatkozó hatósági rendszert és eljárásokat;
-- s) az atomenergia alkalmazása körében eljáró független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a rájuk vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait.
+- s) az atomenergia alkalmazása körében eljáró független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a rájuk vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait;
+- t) a radioaktívhulladék-tároló, a radioaktív hulladék átmeneti tárolója és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket;
+- u) a 62. § (6) bekezdése szerinti testület létrehozását, összetételét, tevékenységét, álláspontja kialakításának rendjét és működésének feltételeit;
 
 68. § (1) Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza
 
@@ -956,8 +973,9 @@ kezeli.
 - c) a radioaktív anyagok csomagolása engedélyezésének és ellenőrzésének szabályait a közlekedésért felelős miniszterrel egyetértésben;
 - d) az atomenergia-felügyeleti szerv igazgatási szolgáltatási díj ellenében végzett eljárásai esetében az igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és visszatérítésének szabályait, a díj mértékét illetően az adópolitikáért felelős miniszterrel egyetértésben;
 - e) az atomenergia-felügyeleti szerv hatósági tevékenységéhez igénybe vett intézetek, intézmények részére a szolgáltatásért járó díj fizetésének feltételeit;
-- f) a Központi Nukleáris Pénzügyi Alap működésének szabályait és eljárásrendjét a katasztrófák elleni védekezésért, az energiapolitikáért, a környezetvédelemért, az egészségügyért, a rendészetért, az államháztartásért, valamint az állami vagyon felügyeletéért felelős miniszterrel egyetértésben;
-- g) az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat, az adópolitikáért felelős miniszterrel egyetértésben.
+- f)
+- g) az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat, az adópolitikáért felelős miniszterrel egyetértésben;
+- h) a 63. § (1) és (4) bekezdése, valamint a 63/A. § (1) és (2) bekezdése szerinti befizetési kötelezettség teljesítésének módját.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben állapítsa meg:
 
@@ -988,7 +1006,7 @@ kezeli.
 
 (5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
 
-(6) Felhatalmazást kap a bányászati ügyekért felelős miniszter, hogy rendeletben állapítsa meg a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelye alkalmasságának megállapításánál, valamint műszaki tervezésénél irányadó földtani követelményrendszert, továbbá a földtani vizsgálatok engedélyezésére és a vizsgálat eredményének jóváhagyására vonatkozó hatósági eljárás szabályait.
+(6)
 
 (7) Felhatalmazást kap
 
@@ -1000,7 +1018,7 @@ az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben, re
 
 (8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
 
-(9) Felhatalmazást kap a bányászati ügyekért felelős miniszter, hogy rendeletben állapítsa meg a radioaktív hulladék elhelyezésére szolgáló bányatérségek, valamint egyéb föld alatti térségek kiválasztásával, üzemeltetésével kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
+(9)
 
 (10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -1014,3 +1032,38 @@ az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben, re
 69. § Ez a törvény a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló 2009. június 25-i 2009/71/EURATOM tanácsi irányelvnek való megfelelést szolgálja.
 
 70. § Ez a törvény a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelvnek való megfelelést szolgálja.
+
+### 1. melléklet az 1996. évi CXVI. törvényhez
+
+#### Befizetési kötelezettség radioaktív hulladékok esetenkénti tárolóba szállításakor
+
+Befizetési kötelezettség radioaktív hulladékok beszállítása esetén
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Hulladék kategória | Befizetési kötelezettség [Ft/m3] |  |  |  |
+| 2 | rövid élettartamú hulladék |  | hosszú élettartamú hulladék |  |
+| 3 | tömöríthető | nem tömöríthető | tömöríthető | nem tömöríthető |
+| 4 | kis aktivitású hulladék | 100 000 | 200 000 | 200 000 | 400 000 |
+| 5 | közepes aktivitású hulladék | 200 000 | 400 000 | 400 000 | 800 000 |
+
+Befizetési kötelezettség zárt sugárforrások beszállítása esetén
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | Aktivitás/MEA* = N (Bq/Bq) | Befizetési kötelezettség (Ft/db) |  |  |
+| 2 | Felezési idő T1/2 (év) |  |  |
+| 3 |  | T1/2 ≤ 1 | 1 < T1/2 ≤ 30 | 30 < T1/2 |
+| 4 | N ≤ 10 | 500 | 1 000 | 2 000 |
+| 5 | 10 < N ≤ 102 | 855 | 1 710 | 3 420 |
+| 6 | 102 < N ≤ 103 | 1 460 | 2 925 | 5 850 |
+| 7 | 103 < N ≤ 104 | 2 500 | 5 000 | 10 000 |
+| 8 | 104 < N ≤ 105 | 4 275 | 8 550 | 17 100 |
+| 9 | 105 < N ≤ 106 | 7 310 | 14 620 | 29 240 |
+| 10 | 106 < N ≤ 107 | 12 500 | 25 000 | 50 000 |
+| 11 | 107 < N ≤ 108 | 21 375 | 42 750 | 85 500 |
+| 12 | 108 < N ≤ 109 | 36 550 | 73 100 | 146 200 |
+| 13 | 109 < N ≤ 1010 | 62 500 | 125 000 | 250 000 |
+| 14 | 1010 < N | 106 875 | 213 750 | 427 500 |
+
+*MEA: Mentességi aktivitás

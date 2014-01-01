@@ -25,7 +25,12 @@ az alacsony keresetű munkavállalók bérének emelését ösztönző egyes tö
 - a) a kölcsönbeadónál figyelmen kívül kell hagyni azon kölcsönzött munkavállalót, aki olyan kölcsönvevőhöz került kikölcsönzésre, ahol a kölcsönvevő – az általa tett nyilatkozat szerint – saját munkavállalói tekintetében nem tett eleget az érintett munkavállalók legalább kétharmada esetében az elvárt béremelésnek.
 - b) az iskolaszövetkezetnél figyelmen kívül kell hagyni azt a nappali tagozatos tanuló, hallgató munkavállalót, aki olyan, az iskolaszövetkezet szolgáltatását fogadó gazdálkodó szervezetnél működik közre az iskolaszövetkezet teljesítésében, ahol az iskolaszövetkezet szolgáltatását fogadó gazdálkodó szervezet – az általa tett nyilatkozat szerint – saját munkavállalói tekintetében nem tett eleget az érintett munkavállalók legalább kétharmada esetében az elvárt béremelésnek.
 
-7. §
+7. § Hatályát veszti a Met.
+
+- a) 3. § (1) bekezdés t) pontja,
+- b) 6/B. §-a,
+- c) 8/C. § (8) bekezdése, valamint
+- d) 9/A. §-a.
 
 8. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2012. január 1. napján lép hatályba.
 

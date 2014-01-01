@@ -453,6 +453,10 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 (2) A közjegyző az özvegyi jog jogosultját és a törvényes állagörökösöket az özvegyi jog megváltásának lehetőségéről az idézésben tájékoztatja.
 
+57/A. § (1) A közjegyző a hagyatéki tárgyalásra idézett örökös írásbeli kérelmére az adózás rendjéről szóló 2003. évi XCII. törvény 54. § (4a) bekezdése szerint jár el, és az adóhatóság tájékoztatásának tartalmáról tájékoztatja a tájékoztatást kérelmező örököst.
+
+(2) A közjegyző a hagyatéki tárgyalásra idézett örökös tájékoztatás során írásban köteles az örökös figyelmét felhívni az adótitok megőrzésének kötelezettségére, az adózó halála miatti soron kívüli adómegállapítás szabályaira, és arra, hogy a tájékoztatás tartalma eltérhet a soron kívüli adómegállapítás eredményétől.
+
 ### Hirdetmény
 
 58. § (1) Ha a képviselővel nem rendelkező hagyatéki eljárásban érdekelt tartózkodási helye ismeretlen, vagy olyan államban van, amely a kézbesítéshez jogsegélyt nem nyújt, vagy ha a kézbesítés egyéb elháríthatatlan akadályba ütközik, illetőleg ha a kézbesítés megkísérlése már előre is eredménytelennek mutatkozik, a kézbesítést hirdetmény útján kell teljesíteni.

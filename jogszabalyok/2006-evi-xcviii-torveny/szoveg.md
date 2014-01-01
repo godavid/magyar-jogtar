@@ -44,7 +44,7 @@ az alábbi törvényt alkotja:
 - 19. kézigyógyszertár: a háziorvos, házi gyermekorvos (a továbbiakban: háziorvos) gyógyító munkájához szükséges, a gyógyszerek meghatározott körét szolgáltató ellátási forma;
 - 20. személyes gyógyszertár működtetési jog: szakmai gyakorlattal rendelkező gyógyszerész részére, adott közforgalmú gyógyszertár vezetésére és működtetésére szóló engedély (a továbbiakban: személyi jog);
 - 21. közvetlen lakossági gyógyszerellátás: azon egészségügyi szolgáltatási tevékenységek összessége, amelyek során a gyógyszertár a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten a lakosság részére biztosítja, továbbá az interneten igényelt gyógyszerek kiszolgáltatása;
-- 22. gyógyszer házhozszállítása: a gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
+- 22. gyógyszer házhoz szállítás: a csomagküldést ide nem értve a megrendelt gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
 - 23. új gyógyszertár: az e törvény hatálybalépését megelőzően működési engedéllyel nem rendelkező gyógyszertár;
 - 24. támogatásvolumen-szerződés: a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 30/A. §-a szerinti szerződés;
 - 25.
@@ -57,7 +57,7 @@ az alábbi törvényt alkotja:
 - 32. egyszerűsített támogatási jegyzék (ETJ): azon támogatásban részesülő funkcionális csoportokat tartalmazó, külön jogszabály szerinti jegyzék, amelyek esetében eszközrendeléskor az orvos a funkcionális csoport megnevezését vagy ISO-kódját tünteti fel, és az egészségbiztosító a funkcionális csoportba tartozó minden eszközre vonatkozóan azonos, fix támogatási összeget állapít meg;
 - 33. gyógyászatisegédeszköz-szaküzlet: a lakosság közvetlen gyógyászati segédeszköz ellátását biztosító intézmény;
 - 34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság, ide nem értve azokat az egészségügyi szolgáltatónak nem minősülő, gyógyászati segédeszközt egyedi méretvétel alapján gyártókat, akik az eszköznek a biztosított részére történő kiszolgáltatását nem maguk végzik;
-- 35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
+- 35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 15%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 15%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
 - 36. lakos: a települési önkormányzat közigazgatási területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerint nyilvántartott lakcímmel rendelkező személy;
 - 37. árkedvezmény: bárki számára hozzáférhető, nyilvánosan közzétett módon, a kedvezmény időszakát is megjelölő, azonos feltételekkel adott árengedmény.
 - 38. beteg-együttműködés: a beteg egészségügyi szakemberrel egyeztetett ajánlásoknak megfelelő viselkedése a gyógyszerszedés, táplálkozás és az életvitel területén;
@@ -94,7 +94,7 @@ az alábbi törvényt alkotja:
 
 (2) Gyógyászati segédeszközt forgalmazni, javítani és kölcsönözni – a (3)–(4) bekezdés szerinti kivételekkel – az egészségügyi államigazgatási szerv engedélyével, kizárólag jogszabályban foglalt feltételek szerint lehet.
 
-(2a) Gyógyászati segédeszközt az egészségügyért felelős miniszter rendeletében meghatározott feltételeknek megfelelő, működési engedéllyel rendelkező forgalmazó (gyógyászatisegédeszköz-szaküzlet vagy gyógyszertár) közreműködő bevonása nélkül – a miniszteri rendeletben foglaltaknak megfelelően – szállíthat házhoz.
+(2a) Gyógyászati segédeszközt az egészségügyért felelős miniszter rendeletében meghatározott feltételeknek megfelelő, működési engedéllyel rendelkező forgalmazó (gyógyászatisegédeszköz-szaküzlet vagy gyógyszertár) – a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló miniszteri rendeletben foglaltaknak megfelelően – szállíthat házhoz, azzal, hogy társadalombiztosítási támogatással rendelt gyógyászati segédeszköz házhozszállításához – a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben foglalt kivételektől eltekintve – közreműködőt nem vehet igénybe.
 
 (3) Gyógyszertárnak gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy foglalkoztatása esetén nem kell rendelkeznie a (2) bekezdés szerinti engedéllyel. Gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy hiányában a (2) bekezdés szerinti engedély nélkül csak sorozatgyártású gyógyászati segédeszköz forgalmazható, javítási és kölcsönzési tevékenység nem végezhető. Ez a javítási és kölcsönzési tilalom nem érinti a – külön jogszabályban vagy a felek közötti szerződésben meghatározott – szavatosságra és jótállásra vonatkozó kötelezettség érvényesítését.
 
@@ -362,15 +362,24 @@ látja el.
 - a) ismételt jogszabálysértésnek minősül, ha a jogszabálysértést elkövetővel azonos személyt vagy meghatalmazott képviselőjét e minőségében, illetve meghatalmazóját két éven belül e törvény vagy a rendelet előírásainak megsértése miatt jogerősen már elmarasztalták,
 - b) súlyos jogszabálysértésnek minősül, ha a gyógyszerekkel, illetve gyógyászati segédeszközökkel kapcsolatos jogsértő kereskedelmi gyakorlat szokásos piaci ellenértéke a huszonöt millió forintot meghaladta.
 
+(6) Az eljárás során nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 12/A. §-ának rendelkezéseit.
+
+(7) A gyógyszerek és a gyógyászati segédeszközök ismertetésének a törvényben, illetve a rendeletben meghatározott szabályai megsértése esetén lefolytatott ellenőrzési eljárásokban hozott döntés a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható.
+
 19/A. § A 19. § szerinti eljárás során hozott döntés ellen fellebbezésnek nincs helye.
 
 20. § (1) A 14–15. §-okban foglaltak megtartását a gyógyszerészeti államigazgatási szerv ellenőrzi.
 
-(2) A tényállás tisztázása érdekében – a gyógyszerészeti államigazgatási szerv – bármely személy vagy szervezet köteles a kezelésében levő adatokat, illetve a birtokában levő iratok másolatát olvasható és másolható formában az egészségügyi államigazgatási szerv rendelkezésére bocsátani. A gyógyszerészeti államigazgatási szerv jogosult bármely személy birtokában levő adathordozóról fizikai tükörmásolatot készíteni, és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni, ha valószínűsíthető, hogy az adathordozón a 14–15. §-ok rendelkezéseinek megsértéséhez kapcsolódó adatok találhatók.
+(2) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult
+
+- a) helyszíni ellenőrzést folytatni bármely helyszínen, és
+- b) bármely személy birtokában levő adathordozóról fizikai tükörmásolatot készíteni, a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni,
+
+ha valószínűsíthető, hogy az adott helyszínen a 14–15. § rendelkezéseinek megsértéséhez kapcsolódó adatok találhatók. A helyszíni ellenőrzés elrendeléséről az ügyfél és az érintettek előzetes értesítése mellőzhető, ha az veszélyeztetné az eljárási cselekmény eredményességét. Bármely személy vagy szervezet köteles a kezelésében levő adatokat, illetve a birtokában levő iratok másolatát olvasható és másolható formában a gyógyszerészeti államigazgatási szerv rendelkezésére bocsátani.
 
 (3) A gyógyszerészeti államigazgatási szerv – a 14–15. §-okban foglaltak megtartásának ellenőrzésével összefüggésben – jogosult megismerni és kezelni az ügyfél és az ügyféllel kapcsolatba hozható személyek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult a gyógyszerészeti államigazgatási szerv, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
 
-(4) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult az ismertetési tevékenységet folytató és a vele szerződéses jogviszonyban álló, gyógyszer rendelésére és forgalmazására jogosult személy közötti jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni. Ehhez a jogviszony, illetve a tevékenység alanyainak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a ténylegesen végzett tevékenység a létrejött jogviszonyok tartalmának megfelel, illetve nem minősül jogellenes kereskedelmi gyakorlatnak.
+(4) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult a gyógyszer forgalomba hozatali engedélyének jogosultja és az általa megbízott ismertetési tevékenységet folytató közötti, az ismertetési tevékenységet folytató és a vele szerződéses jogviszonyban álló, gyógyszer rendelésére és forgalmazására jogosult személy közötti, továbbá az ismertetési tevékenységet folytató érdekében szerződés alapján eljáró más személy és a gyógyszer rendelésére és forgalmazására jogosult személy közötti jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni. Ehhez a jogviszony, illetve a tevékenység alanyainak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a ténylegesen végzett tevékenység a létrejött jogviszonyok tartalmának megfelel, illetve nem minősül jogellenes kereskedelmi gyakorlatnak.
 
 (5) Az ügyfél és megbízott ügyvédje közötti kommunikáció során, illetve ilyen kommunikációs célból való felhasználás érdekében keletkezett adat vagy az azt rögzítő irat a gyógyszerészeti államigazgatási szerv eljárásában bizonyítékként nem használható fel, illetve nem vizsgálható meg, nem foglalható le, szemle során a birtokos az ilyen irat felmutatására nem kötelezhető.
 
@@ -387,6 +396,12 @@ látja el.
 ### III. Fejezet — GYÓGYSZER- ÉS GYÓGYÁSZATISEGÉDESZKÖZ-ELLÁTÁSI GARANCIÁK
 
 21. § (1) Az egészségbiztosítási szerv a gyógyszer, tápszer és gyógyászati segédeszköz társadalombiztosítási támogatásba való befogadási eljárása során a támogatásba való befogadást meghatározott időtartamú, de legalább három év támogatással történő forgalmazásra való kötelezettségvállaláshoz, illetve külön jogszabályban foglalt esetben meghatározott mennyiségű készletben tartási kötelezettségvállaláshoz kötheti.
+
+(1a) A forgalomba hozatali engedély jogosultja köteles biztosítani a betegellátási érdekből kedvezményezetti státuszú gyógyszerrel (a továbbiakban: kedvezményezetti státusszal rendelkező gyógyszer) való folyamatos gyógyszerellátást a kedvezményezetti státusz fennállása alatt.
+
+(1b) Ha a forgalomba hozatali engedély jogosultja a kedvezményezetti státusz 31/C. § (3) bekezdése szerinti ötéves lejárta előtt meg kívánja szüntetni a gyógyszer kedvezményezetti státuszát, úgy azt köteles a tervezett megszüntetés előtt legalább hat hónappal bejelenteni az egészségbiztosítási szervnek.
+
+(1c) Ha a forgalomba hozatali engedély jogosultja önhibájából eredően a forgalmazási garanciavállalást nem teljesíti, úgy köteles a kedvezményezetti státusszal járó kedvezmények összegének megfizetésére, valamint a (4) bekezdés szerinti beszerzéssel kapcsolatos többletköltségek viselésére.
 
 (2) Amennyiben az (1) bekezdés alapján társadalombiztosítási támogatásban részesülő gyógyszer forgalomba hozatali engedélyének jogosultja, tápszer forgalmazója, illetve a gyógyászati segédeszköz gyártója, meghatalmazott képviselője önhibájából eredően a forgalmazási, készletben tartási garanciavállalást nem teljesíti, úgy a (4) bekezdés szerinti beszerzéssel kapcsolatos többletköltségek viselésére köteles.
 
@@ -437,7 +452,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 23. § (1) A gyógyszerek és tápszerek társadalombiztosítási támogatásával kapcsolatos eljárások kérelemre, bejelentésre vagy hivatalból indulnak, melynek során:
 
-- a) a kérelemre indult eljárás esetén a kérelem a forgalomba hozatalra engedélyezett gyógyszer vagy a tápszer társadalombiztosítási támogatásba való befogadására, a támogatás kategóriájának, módszerének, mértékének felülvizsgálatára és ezt követő esetleges módosítására,
+- a) a kérelemre indult eljárás esetén a kérelem a forgalomba hozatalra engedélyezett gyógyszer vagy a tápszer társadalombiztosítási támogatásba való befogadására, a támogatás kategóriájának, módszerének, mértékének felülvizsgálatára és ezt követő esetleges módosítására, valamint kedvezményezetti státusz megszerzésére,
 - b) a bejelentésre indult eljárás esetén a bejelentés a 29. § (4) bekezdésében jelölt adatok változásának bejelentésére,
 - c) a hivatalból indult eljárás esetén az egészségbiztosítási szerv által lefolytatandó eljárás a támogatott gyógyszerek, tápszerek körének teljes vagy részleges, a (7)–(8) bekezdés szerinti felülvizsgálatára irányulhat.
 
@@ -449,9 +464,10 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 - a) a gyógyszer társadalombiztosítási támogatásba való befogadási kérelme már támogatott hatóanyagú gyógyszer új generikumára érkezik, vagy
 - b) az a) pont hatálya alá nem tartozó készítmény ára a már támogatott hatóanyagú gyógyszer(ek) áránál a külön jogszabályban foglalt kötelező mértéknél alacsonyabb,
-- c) a kérelem tápszer vagy forgalomba hozatalra engedélyezett a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására, illetve közfinanszírozása alapjául elfogadott árának emelésére érkezett.
+- c) a kérelem tápszer vagy forgalomba hozatalra engedélyezett a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására, illetve közfinanszírozása alapjául elfogadott árának emelésére érkezett,
+- d) a gyógyszer társadalombiztosítási támogatásba való befogadási kérelme kedvezményezetti státusz megszerzésére is irányul.
 
-(5) A kérelmező a (3)–(4) bekezdés szerinti eljárásért a külön jogszabályban meghatározottak alapján igazgatási szolgáltatási díjat fizet.
+(5) A kérelmező a (3)–(4) bekezdés szerinti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat fizet. Nem kell igazgatási szolgáltatási díjat fizetni a kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
 
 (6) Az egészségbiztosítási szerv folyamatosan felülvizsgálja a támogatott gyógyszerek körét a (7) bekezdésben foglalt szempontok szerint.
 
@@ -464,7 +480,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 - e) a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbítása indokolt a folyamatos és biztonságos betegellátás érdekében,
 - f) a kiemelt és emelt indikációhoz kötött támogatási kategóriában meghatározott feltételeknek a készítmény nem felel meg.
 
-(8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
+(8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, kedvezményezetti státuszának megszüntetéséről illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
 
 (9) Az egészségbiztosítási szerv az (1) bekezdés a) pontja szerinti eljárások során a külön jogszabályban foglalt normál és egyszerűsített eljárásrendet alkalmazza.
 
@@ -497,7 +513,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (5) Az egészségbiztosítási szerv a (4) bekezdés szerinti közleményt az Európai Unió Bizottságának megküldi.
 
-(6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
+(6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), kedvezményezetti státusz megjelölését, valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
 
 (6a) Az egészségbiztosítási szerv a támogatott gyógyszerek
 
@@ -559,7 +575,7 @@ közhiteles hatósági nyilvántartást vezet.
 
 (3b) Az eredményesség alapú támogatásvolumen-szerződés kötésére vonatkozóan az egészségügyért felelős miniszter rendeletében meghatározott szempontok szerint az egészségbiztosító évente felülvizsgálja a társadalombiztosítási támogatásban részesülő gyógyszerek körét.
 
-(4) A támogatásvolumen-szerződések legfeljebb négy naptári évre köthetők.
+(4) A támogatás-volumen szerződések – a 31/C. § (2) bekezdésében foglalt eset kivételével – legfeljebb négy naptári évre köthetők.
 
 (5) A támogatásvolumen-szerződésekben rögzített befizetési kötelezettség
 
@@ -668,11 +684,12 @@ esetén,
 - e) költséghatékonysága nem bizonyítható,
 - f) az több mint hat hónapja – referenciakészítmény esetén egy hónapja – nincs forgalomban,
 - g) forgalomba hozatali engedélyét visszavonták,
-- h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége, illetve egységnyi hatóanyagra számított ára legalább 50%-kal meghaladja a referenciakészítmény napi terápiás költségét,
-- i) a terápiás fix elven működő támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége legalább 60%-kal meghaladja a csoportba tartozó gyógyszerek napi terápiás költsége egyszerű számtani átlagát,
+- h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége, illetve egységnyi hatóanyagra számított ára legalább 100%-kal meghaladja a referenciakészítmény napi terápiás költségét,
+- i) a terápiás fix elven működő támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége legalább 100%-kal meghaladja a csoportba tartozó gyógyszerek napi terápiás költsége egyszerű számtani átlagát,
 - j) az általa végzett nemzetközi ár-összehasonlítás során megállapítja, hogy a gyógyszer termelői ára legalább 20%-kal magasabb a vizsgálatba vont, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban alkalmazott három legalacsonyabb termelői ár számtani átlagánál,
 - k) a biológiai gyógyszer napi terápiás költsége legalább 10%-kal meghaladja legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét, kivéve, ha a biológiai gyógyszer forgalomba hozatali engedély jogosultja a fogyasztói ár és maximált térítési díj különbözetéből, valamint a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer fogyasztói árát 10%-al meghaladó összegből adódó különbözetet megtéríti,
-- l) a biológiai gyógyszer napi terápiás költsége legalább 30%-kal meghaladja a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét.
+- l) a biológiai gyógyszer napi terápiás költsége legalább 50%-kal meghaladja a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét,
+- m) kedvezményezetti státusza megszűnik.
 
 (1a) Ha támogatott gyógyszer tekintetében a forgalombahozatali engedély jogosultját vagy meghatalmazottját egy éven belül két esetben – e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásai megsértése miatt – reklámfelügyeleti eljárásban, illetve a 19. § szerinti eljárásban az arra hatáskörrel és illetékességgel rendelkező hatóság jogerősen elmarasztalta, és vele szemben e jogsértések miatt összesen legalább ötmillió forint mértékű bírságot szabott ki, az egészségbiztosítási szerv kizárja a társadalombiztosítási támogatásból az eljárással érintett gyógyszert, ha az adott indikációban rendelkezésre áll más olyan gyógyszer, amelyhez a beteg a támogatásból kizárt gyógyszer térítési díjánál legfeljebb 50%-kal magasabb térítési díj ellenében juthat hozzá.
 
@@ -685,6 +702,30 @@ esetén,
 (5) A 29. § (4) bekezdés b) pontja szerint induló eljárás keretében társadalombiztosítási támogatásból törölt gyógyszer hat hónapon belül történő ismételt befogadásakor az egészségbiztosító által az egészségbiztosításért felelős miniszter rendeletében foglaltak szerint megállapított, a preferált referencia ársávba nem tartozó gyógyszerre jellemző csökkentett támogatásban részesül.
 
 31/A. § A házi oxigénellátáshoz szükséges oxigénpalack vagy tartályrendszer beteg által fizetett letéti díjához az egészségbiztosítási szerv az egészségbiztosításért felelős miniszteri rendelet szerinti támogatást nyújthat.
+
+31/B. § (1) A gyógyszer forgalomba hozatali engedélyének jogosultja a gyógyszer társadalombiztosítási támogatásba való befogadására irányuló kérelemmel egyidejűleg kérelmezheti a gyógyszerre a kedvezményezetti státusz megítélését az egészségbiztosítási szervtől.
+
+(2) A kedvezményezetti státusz megszerzése iránti kérelmet az a forgalomba hozatali engedély jogosult nyújthat be, amelynek a gyógyszere
+
+- a) Magyarországon forgalomba hozatali engedéllyel rendelkezik – ideértve a Gytv. 6. §-a szerinti hivatalból kiadott forgalomba hozatali engedélyt is –, és
+- b) a terápiában betöltött szerepe alapján nélkülözhetetlen, az adott beteg kezelése más forgalomban lévő gyógyszer alkalmazási előírása szerint nem lehetséges vagy eredménytelen, vagy az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagymértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet.
+
+31/C. § (1) A 31/B. § szerinti kedvezményezetti státuszról az egészségbiztosítási szerv dönt a 23. § (4) bekezdésében foglaltak szerint az Országos Gyógyszerterápiás Tanács szakvéleményének kikérését követően.
+
+(2) Az egészségbiztosítási szerv akkor fogadhat be gyógyszert kedvezményezetti státusszal a társadalombiztosítási támogatásba, ha a gyógyszer megfelel a 31/B. § (2) bekezdésében foglaltaknak, továbbá a gyógyszer forgalomba hozatali engedélyének jogosultja, a kérelméhez csatolt nyilatkozatában vállalja öt évre az egészségbiztosítási szervvel a 26. § (5) bekezdés b) pontja szerinti – termelői áron számított évi 30 millió forint – határértékre szóló támogatásvolumen szerződés megkötését az indikációban használt gyógyszer(ek)re.
+
+(3) A kedvezményezetti státusz öt évre adható meg, annak megújítását a forgalomba hozatali engedély jogosultja az ötéves időtartam lejárta előtt hat hónappal kérheti. Ezen határidő elmulasztása esetén az egészségbiztosítási szerv az (5) bekezdés szerinti felülvizsgálatot követően hivatalból dönt a kedvezményezetti státusz megszüntetéséről és a gyógyszer társadalombiztosítási támogatásból való kizárásáról.
+
+(4) A kedvezményezetti státusszal rendelkező gyógyszerrel azonos hatóanyagú, beviteli módú és azonos indikációban alkalmazott más gyógyszer kedvezményezetti státuszt nem szerezhet.
+
+(5) Az egészségbiztosítási szerv a kedvezményezetti státusz (3) bekezdés szerinti megújítását megelőzően felülvizsgálatot tart, hogy a kedvezményezetti státusz megszerzése óta kedvezményezetti státusszal rendelkező gyógyszerrel azonos indikációban alkalmazott más gyógyszer forgalomba hozatali engedélyének jogosultja kérte-e ilyen gyógyszer társadalombiztosítási támogatásba történő befogadását.
+
+(6) Amennyiben az (5) bekezdés szerinti felülvizsgálat során az egészségbiztosítási szerv megállapítja, hogy már kedvezményezetti státusszal rendelkező gyógyszerrel azonos indikációban alkalmazott más gyógyszer forgalomba hozatali engedélyének jogosultja kérte a gyógyszer társadalombiztosítási támogatásba történő befogadását – és e törvény, valamint a miniszteri rendelet rendelkezéseinek megfelelően a társadalombiztosítási támogatásba befogadható – és
+
+- a) nem kérte a kedvezményezetti státusz megítélését, úgy az egészségbiztosítási szerv dönt a gyógyszer befogadásáról, ezzel egyidejűleg a korábbi kedvezményezetti státuszú gyógyszer kedvezményezetti státuszának megszüntetéséről és a gyógyszer társadalombiztosítási támogatásból való kizárásáról, vagy
+- b) kérte a kedvezményezetti státusz megítélését, úgy az egészségbiztosítási szerv költséghatékonysági szempontok alapján dönt, hogy mely gyógyszernek ítéli meg a kedvezményezetti státuszt.
+
+(7) Az egészségbiztosítási szerv a (3) bekezdésben és a 21. § (1b) bekezdésében foglaltakról tájékoztatja a gyógyszerészeti államigazgatási szervet.
 
 32. § (1) A gyógyászati segédeszközök támogatásával kapcsolatos eljárások kérelemre, bejelentésre vagy hivatalból indulnak.
 
@@ -895,7 +936,7 @@ esetén,
 
 ### V. Fejezet — A FOLYAMATOS GYÓGYSZERELLÁTÁS BIZTOSÍTÁSÁT, A GYÓGYSZERTÁMOGATÁSI ELŐIRÁNYZAT BETARTÁSÁT CÉLZÓ RENDELKEZÉSEK
 
-36. § (1) A gyógyszer forgalombahozatali engedélyének jogosultját, abban az esetben pedig, ha az belföldön forgalmazási tevékenységet nem végez a forgalmazóval kötött és az állami adóhatóság által jóváhagyott megállapodás alapján a forgalmazót, valamint a tápszer társadalombiztosítási támogatása iránt kérelmet benyújtót, amennyiben az nem azonos a tápszer forgalmazójával, úgy a forgalmazót (a továbbiakban együtt e fejezet alkalmazásában: a gyógyszer forgalombahozatali engedélyének jogosultja) valamennyi közfinanszírozásban részesülő, gyógyszertárban forgalmazott gyógyszere, tápszere (a továbbiakban együtt e fejezet alkalmazásában: gyógyszer) után – a 38. § (1) bekezdése szerinti gyógyszerek kivételével – a tárgyhavi vényforgalmi adatok alapján adódó társadalombiztosítási támogatásnak a termelői árral vagy importbeszerzési árral (a továbbiakban együtt: termelői ár) arányos (termelői ár/fogyasztói ár) részére 20%-os befizetési kötelezettség terheli. A befizetési kötelezettség számítását termékenként és támogatási jogcímenként kell végezni. Társadalombiztosítási támogatáson általános forgalmi adót tartalmazó (bruttó) támogatást, fogyasztói áron bruttó fogyasztói árat, termelői áron áfát nem tartalmazó (nettó) termelői árat kell érteni.
+36. § (1) A gyógyszer forgalombahozatali engedélyének jogosultját, abban az esetben pedig, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval kötött és az állami adóhatóság által jóváhagyott megállapodás alapján a forgalmazót, valamint a tápszer társadalombiztosítási támogatása iránt kérelmet benyújtót, amennyiben az nem azonos a tápszer forgalmazójával, úgy a forgalmazót (a továbbiakban együtt e fejezet alkalmazásában: a gyógyszer forgalombahozatali engedélyének jogosultja) valamennyi közfinanszírozásban részesülő, gyógyszertárban forgalmazott gyógyszere, tápszere (a továbbiakban együtt e fejezet alkalmazásában: gyógyszer) után – a 38. § (1) bekezdése szerinti gyógyszerek és az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabály szerinti tápszerek kivételével – a tárgyhavi vényforgalmi adatok alapján adódó társadalombiztosítási támogatásnak a termelői árral vagy importbeszerzési árral (a továbbiakban együtt: termelői ár) arányos (termelői ár/fogyasztói ár) részére 20%-os befizetési kötelezettség terheli. A gyógyszer forgalombahozatali engedélyének jogosultját valamennyi közfinanszírozásban részesülő, gyógyszertárban forgalmazott anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabály szerinti tápszere után a tárgyhavi vényforgalmi adatok alapján adódó társadalombiztosítási támogatásnak a termelői árral arányos (termelői ár/fogyasztói ár) részére 10%-os befizetési kötelezettség terheli. A befizetési kötelezettség számítását termékenként és támogatási jogcímenként kell végezni. Társadalombiztosítási támogatáson általános forgalmi adót tartalmazó (bruttó) támogatást, fogyasztói áron bruttó fogyasztói árat, termelői áron áfát nem tartalmazó (nettó) termelői árat kell érteni.
 
 (1a) Az állami adóhatóság által a gyógyszer forgalombahozatali engedélyének jogosultja és a forgalmazó között létrejött megállapodás jóváhagyásáról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -951,7 +992,8 @@ esetén,
 38. § (1) A gyógyszer forgalomba hozatali engedélyének jogosultját a 36. § (1) bekezdése szerinti befizetési kötelezettség nem terheli:
 
 - a) a különkeretes gyógyszerekre kifizetett támogatási összeg után és
-- b) az egyedi méltányosság alapján támogatott gyógyszereknek az egészségbiztosítási szerv által megállapított társadalombiztosítási támogatási összege után, ide nem értve azokat a gyógyszereket, amelyek forgalomba hozatalát a gyógyszerészeti államigazgatási szerv vagy az Európai Bizottság engedélyezte.
+- b) az egyedi méltányosság alapján támogatott gyógyszereknek az egészségbiztosítási szerv által megállapított társadalombiztosítási támogatási összege után, ide nem értve azokat a gyógyszereket, amelyek forgalomba hozatalát a gyógyszerészeti államigazgatási szerv vagy az Európai Bizottság engedélyezte,
+- c) a kedvezményezetti státusszal rendelkező gyógyszerekre kifizetett társadalombiztosítási támogatási összeg után.
 
 (2) A gyógyszer forgalomba hozatali engedélyének jogosultja legfeljebb a gyógyszerenként és jogcímenként történő számítás alapján adódó gyógyszerenkénti teljes befizetési kötelezettsége erejéig kedvezményben részesül, amennyiben a 36. § (1) bekezdése szerinti, társadalombiztosítási támogatásban részesülő egyes gyógyszerei termelői árát az egészségbiztosításért felelős miniszter rendeletében meghatározott fixesítési eljárás keretében a naptári negyedév első napját megelőző második hónap 20. napjáig a referenciaár csökkentése érdekében csökkenti. Ez esetben az árcsökkentés által érintett gyógyszerek utáni, 36. § (1) bekezdése szerinti befizetési kötelezettség az árcsökkentés által érintett időszakra vonatkozóan, de legfeljebb az árváltozás hatálybalépésének időpontjától számított egy évig
 
@@ -1160,18 +1202,24 @@ a befizetést követően haladéktalanul átutalja.
 
 (10) Több érvényes, a pályázati kiírásban előírt feltételeket teljesítő pályázat esetén
 
-- a) az a pályázó nyer, aki fiókgyógyszertár működtetését vállalja úgy, hogy a pályázat elnyerése esetén a fiókgyógyszertár létesítése iránti kérelmet a határozat kézhezvétele után 8 napon belül benyújtja,
-- b) amennyiben az a) pontban foglalt feltételt egy pályázó sem vállalja, vagy valamennyi érvényes pályázatot benyújtó pályázó vállalja, úgy az a pályázó nyer a ba)–bd) alpontokban foglalt sorrend szerint, aki a szolgálati rendre vonatkozóan
+- a) az a pályázó nyer, aki a pályázati kiírásban meghatározott településen vagy településeken fiókgyógyszertár vagy fiókgyógyszertárak működtetését vállalja úgy, hogy a pályázat elnyerése esetén a fiókgyógyszertár létesítése iránti kérelmet a határozat kézhezvétele után 8 napon belül benyújtja,
+- b) ha az a) pontban foglalt feltételt egy pályázó sem vállalja vagy valamennyi érvényes pályázatot benyújtó pályázó vállalja, úgy az a pályázó nyer a ba)–bd) alpontokban foglalt sorrend szerint, aki a szolgálati rendre vonatkozóan
   - ba) 24 órás nyitvatartást,
   - bb) folyamatos ügyeletet,
-  - bc) folyamatos készenlétet,
-  - bd) a pályázatban előírt szolgálati rendhez képest nyújtott nyitvatartást vállal a gyógyszertár megnyitását követő legalább öt éven keresztül,
-- c) amennyiben az a–b) pontban foglaltak esetén a döntést nem lehet meghozni, úgy az a pályázó nyer, aki vállalja
-  - ca) nem csak sorozatgyártású gyógyászati segédeszköz forgalmazását,
-  - cb) a forgalmazott termékek házhoz szállítását,
-  - cc) betegségspecifikus gyógyszerészi gondozás nyújtását a gyógyszertár megnyitását követő legalább öt éven keresztül. A ca)–cc) alpontokban felsorolt többletszolgáltatások vállalása esetén előnyben részesül a nagyobb számú többletszolgáltatást vállaló pályázó.
+  - bc) – amennyiben az adott településen vagy kerületben nincs ügyelet – folyamatos készenlétet,
+  - bd) a pályázati kiírásban előírt szolgálati rendhez képest nyújtott nyitvatartást
 
-(11) Abban az esetben, ha a (10) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban érkezett az egészségügyi államigazgatási szervhez.
+vállal a gyógyszertár megnyitását követő legalább öt éven keresztül,
+
+- c) ha az a)–b) pontban foglaltak esetén a döntést nem lehet meghozni, úgy az a pályázó nyer, aki a létesítendő közforgalmú gyógyszertár működtetését úgy vállalja, hogy a meglévő gyógyszertárak és az általa létesítendő közforgalmú gyógyszertár közötti, adott településen belüli, közúton mért legkisebb távolság több mint 1,5 km,
+- d) ha az a)–c) pontban foglaltak esetén a döntést nem lehet meghozni, úgy az a pályázó nyer, aki vállalja
+  - da) nem csak sorozatgyártású gyógyászati segédeszköz forgalmazását,
+  - db) a forgalmazott termékek házhoz szállítását,
+  - dc) betegségspecifikus gyógyszerészi gondozás nyújtását
+
+a gyógyszertár megnyitását követő legalább öt éven keresztül. A da)–dc) alpontokban felsorolt többletszolgáltatások vállalása esetén előnyben részesül a nagyobb számú többletszolgáltatást vállaló pályázó.
+
+(11) Ha a (10) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban került benyújtásra az egészségügyi államigazgatási szerv részére. E bekezdés tekintetében benyújtásnak kell tekintetni a postára adást is.
 
 (12) A (6) bekezdés szerinti létesítési határozatot az egészségügyi államigazgatási szerv visszavonja, ha a gyógyszertár működtetését a létesítési határozatban rögzített határnapig nem kezdik meg.
 
@@ -1245,7 +1293,7 @@ a befizetést követően haladéktalanul átutalja.
 
 (7) Az egészségügyi államigazgatási szerv a gyógyszertár működtetésére vonatkozó jogerős döntését megküldi az egészségbiztosítási szerv, illetve a települési önkormányzat jegyzője részére is.
 
-53/A. § (1) A gyógyszertár működtetője minden olyan tervezett változást, amely érinti a működési engedély kiadásának feltételeit, illetve a működési engedélyben szereplő adatokat, köteles előzetesen írásban bejelenteni az egészségügyi államigazgatási szervnek. Az előre nem tervezhető eseményeket azok észlelését követő öt munkanapon belül kell bejelenteni. Amennyiben a változás érinti a működési engedély előírt kötelező tartalmát, a bejelentéssel egyidejűleg kérni kell a működési engedély módosítását.
+53/A. § (1) A gyógyszertár működtetője minden olyan tervezett változást, amely érinti a működési engedély kiadásának feltételeit, illetve a működési engedélyben szereplő adatokat, köteles előzetesen írásban bejelenteni az egészségügyi államigazgatási szervnek. Az előre nem tervezhető eseményeket azok észlelését követő öt munkanapon belül kell bejelenteni. Amennyiben a változás érinti a működési engedély előírt kötelező tartalmát, a bejelentéssel egyidejűleg – ide nem értve a (4a) bekezdésben foglaltakat, továbbá a gyógyszertár működtetője felelősségi körén kívül eső, előre nem látható, elháríthatatlan külső okból eredő eseteket – kérni kell a működési engedély módosítását.
 
 (2) Az (1) bekezdés szerinti bejelentés alapján az engedélyező egészségügyi államigazgatási szerv – helyszíni szemle lefolytatásával, illetve amennyiben a bejelentés jellegéből adódóan az nem szükséges, annak mellőzésével – az 53. § (6) bekezdésében foglalt adatok változása esetén a működési engedélyt módosítja.
 
@@ -1255,7 +1303,7 @@ a befizetést követően haladéktalanul átutalja.
 
 (4) A (3) és (4a) bekezdés szerinti bejelentésben meg kell jelölni a szüneteltetés vagy az eltérés okát, a kezdetét és a várható befejezés időpontját. A gyógyszertár újbóli megnyitását be kell jelenteni az egészségügyi államigazgatási szervnek, amennyiben eltér az előzetes bejelentésben feltüntetett időponttól.
 
-(4a) A település gyógyszerellátását egyedül biztosító gyógyszertár működtetője a gyógyszertár nyitvatartási idejétől naptári évente legfeljebb 10 nyitvatartási napon térhet el. A nyitvatartási időtől való eltérést előzetesen két munkanappal, illetve az előre nem tervezhető eltérés esetén az arra okot adó körülményről való tudomásszerzést követően haladéktalanul, de legkésőbb a következő munkanapon be kell jelenteni.
+(4a) A település gyógyszerellátását egyedül biztosító gyógyszertár, továbbá a jogszabályon alapuló munkaszüneti napok miatti változtatással összefüggésben bármely gyógyszertár működtetője a gyógyszertár szolgálati rendjétől a nyitvatartási idő tekintetében naptári évente legfeljebb 10 napon térhet el. Az e bekezdés szerinti szolgálati rendtől történő eltérést előzetesen két munkanappal, illetve az előre nem tervezhető eltérés esetén az arra okot adó körülményről való tudomásszerzést követően haladéktalanul, de legkésőbb a szolgálati rend szerinti következő munkanapon be kell jelenteni az egészségügyi államigazgatási szervnek.
 
 (5) Az egészségügyi államigazgatási szerv határidő tűzésével felfüggeszti a gyógyszertár működését, ha a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak. Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi államigazgatási szerv a működési engedélyt visszavonja.
 
@@ -1288,13 +1336,13 @@ vonatkozó előírásokat ismételten és súlyosan megsérti.
 - b) a kézigyógyszertár
   - ba) működési engedélyében megjelölt településen közforgalmú vagy fiókgyógyszertár kezdi meg működését,
   - bb) tartására jogosult személy már nem felel meg az engedély megadásához szükséges feltételeknek;
-- c) a gyógyszertár hatósági ellenőrzésére jogosult szervek ellenőrzéseik során olyan hiányosságot állapítottak meg, amely miatt a gyógyszertár működését két éven belül ismételten fel kellett függeszteni;
+- c) a gyógyszertár hatósági ellenőrzésére jogosult szervek ellenőrzéseik során olyan hiányosságot állapítottak meg, amely miatt a gyógyszertár működését két éven belül – ugyanazon gazdasági társaság vagy ugyanazon személyi jogos gyógyszerész irányítása alatt – ismételten fel kellett függeszteni;
 - d) az intézeti gyógyszertárat működtető fekvőbeteg-ellátást végző intézmény megszűnik,
 - e) a személyi jog visszavonásra került az 58. § alapján, továbbá ha a személyi jog megszűnt – kivéve a 60/B. §, 60/C. §, 60/D. § és a 65. § b) pontjának alkalmazása esetén –,
 - f) mozgó egységként működtetett fiókgyógyszertár esetén a fiókgyógyszertár működési engedélyét arra a településre vonatkozóan, ahol állandó telephelyű fiók vagy közforgalmú gyógyszertár kezdi meg működését,
 - g) a gyógyszertár működtetője azt kéri,
 - h) a gyógyszertár működtetője jogutód nélkül megszűnik,
-- i) a gyógyszertár a működését a pályázatban meghatározott határidőben nem kezdte meg.
+- i) a gyógyszertár a működését a pályázatban meghatározott határidőben a nyertes pályázónak felróható okból nem kezdte meg.
 
 (3) A működési engedélyt a (2) bekezdés
 
@@ -1324,24 +1372,23 @@ kell visszavonni.
 
 56. § (1) Közforgalmú gyógyszertárat működtetni csak az egészségügyi államigazgatási szerv által engedélyezett személyi jogos gyógyszerész – 73. §-ban meghatározott jogosultságokra kiterjedő – szakmai vezetése mellett lehet. A személyi jog engedélyezését a jogszabályi feltételeket teljesítő gyógyszerész kérelmezheti. A személyi jogot az egészségügyi államigazgatási szerv adja ki, amely adott közforgalmú gyógyszertár vezetésére és működtetésére jogosít.
 
-(2) Személyi jog annak a gyógyszerésznek engedélyezhető, aki a gyógyszerészi diploma megszerzését követően, az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamának, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államnak (a továbbiakban együtt: EGT-tagállam) a területén működő közforgalmú, fiók- vagy intézeti gyógyszertárban – a (3) és (4) bekezdésekben foglalt kivételekkel – legalább ötéves szakmai gyakorlatot szerzett (a továbbiakban: szakmai gyakorlat). A személyi jog engedélyezésére irányuló eljárás során az EGT-tagállam területén kívüli államban szerzett szakmai gyakorlat is figyelembe vehető.
+(2) Személyi jog annak a gyógyszerésznek engedélyezhető, aki
 
-(3) Kétéves szakmai gyakorlat szükséges annak a gyógyszerésznek, aki
+- a) az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamának, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államnak (a továbbiakban együtt: EGT-tagállam) a területén működő közforgalmú, fiók- vagy intézeti gyógyszertárban a gyógyszerészi diploma megszerzését követően legalább ötéves szakmai gyakorlatot szerzett (a továbbiakban: szakmai gyakorlat), és
+- b) e tevékenység megszűnésétől három év még nem telt el. A személyi jog engedélyezésére irányuló eljárás során az EGT-tagállam területén kívüli államban szerzett szakmai gyakorlat is figyelembe vehető.
+
+(3) A (2) bekezdés szerinti szakmai gyakorlatba beszámítható legfeljebb 3 év annak a gyógyszerésznek, aki
 
 - a) a gyógyszerészettel összefüggő
-  - aa) tudományos, oktatási,
-  - ab) közigazgatási;
-- b) gyógyszergyártási, gyógyszer-kereskedelmi;
+  - aa) tudományos,
+  - ab) oktatási, vagy
+  - ac) közigazgatási;
+- b) gyógyszergyártási, gyógyszer-kereskedelmi, vagy
 - c) az Európai Unió tagállamán, illetve az Európai Gazdasági Térségről szóló megállapodásban részes más államon kívüli ország gyógyszertárában gyógyszerészi
 
-tevékenységet legalább három évig folytatott, és e tevékenység megszűnésétől három év még nem telt el [az a)–c) pontban foglaltak a továbbiakban együtt: szakirányú gyakorlat].
+tevékenységet folytatott, és e tevékenység megszűnésétől három év még nem telt el [az a)–c) pontban foglaltak a továbbiakban együtt: szakirányú gyakorlat].
 
-(4) Egy év szakmai gyakorlat szükséges annak a gyógyszerésznek, aki
-
-- a) tíz évet meghaladó szakmai gyakorlattal rendelkezik,
-- b) a (3) bekezdésben meghatározott szakirányú gyakorlattal rendelkezik,
-
-és annak felhagyása óta három év még nem telt el.
+(4)
 
 (5) A (3) és (4) bekezdés szerinti három évet a tevékenység felhagyása és a kérelem benyújtásának időpontja között kell vizsgálni.
 
@@ -1410,13 +1457,13 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 (2) Átruházás kezdeményezése esetén az átruházó személyi jogos gyógyszerész felelős a gyógyszertár szakmai működéséért mindaddig, míg a működési engedélyt módosító döntés a személyi jog átruházására tekintettel jogerőre nem emelkedik.
 
-60/C. § (1) Ha a személyi jog az 59. § (1) bekezdés a) pontjának ab) alpontjában foglalt okból szűnik meg, akkor a korábbi személyi jog jogosultjának házastársa, gyermeke – ideértve örökbe fogadott, mostoha- vagy nevelt gyermekét is – vagy felmenője erre irányuló kérelem esetén személyi jog jogosultjává válik, amennyiben megfelel az 56. §-ban foglalt feltételeknek.
+60/C. § (1) Ha a személyi jog az 59. § (1) bekezdés a) pontjának ab) alpontjában foglalt okból szűnik meg, akkor a korábbi személyi jog jogosultjának házastársa vagy egyenesági rokona, örökbe fogadott, mostoha- vagy nevelt gyermeke erre irányuló kérelem esetén személyi jog jogosultjává válik, amennyiben megfelel az 56. §-ban foglalt feltételeknek.
 
 (2) Amennyiben az (1) bekezdés szerint több, az 56. §-ban meghatározott feltételeknek megfelelő személy lenne jogosult a személyi jogra, e jogosultak a korábbi jogosult halálától számított negyvenöt napon belül nyújthatnak be megállapodást az egészségügyi államigazgatási szervhez, amelyben megjelölik a személyi jogot megszerző személyt.
 
-(3) Amennyiben az (1) bekezdés szerinti korábbi személyi jog jogosultjának házastársa vagy gyermeke nem felel meg az 56. §-ban foglalt feltételeknek, azonban valamelyikük gyógyszerész egyetemi hallgató, vagy gyógyszerész oklevéllel rendelkezik, úgy a gyógyszertár felelős vezető alkalmazásával működtethető a személyi jog megszerzéséhez szükséges az 56. §-ban foglalt feltételek teljesítéséig.
+(3) Amennyiben az (1) bekezdés szerinti korábbi személyi jog jogosultjának házastársa vagy egyenesági rokona nem felel meg az 56. §-ban foglalt feltételeknek, azonban valamelyikük gyógyszerész egyetemi hallgató, vagy gyógyszerész oklevéllel rendelkezik, úgy a gyógyszertár felelős vezető alkalmazásával működtethető a személyi jog megszerzéséhez szükséges az 56. §-ban foglalt feltételek teljesítéséig.
 
-60/D. § (1) Amennyiben a személyi jog e törvény 59. § (1) bekezdés a) pontjának ab) alpontja miatt szűnik meg, a halál napját követő 6 hónapon belül előterjesztett, a korábbi személyi jog jogosultjának házastársa, gyermeke – ideértve örökbe fogadott, mostoha- vagy nevelt gyermekét is – vagy felmenője és a gyógyszertárat működtető gazdasági társaság legfőbb szervének egybehangzó kérelmére, a kérelemben megjelölt gyógyszertár vezetésére alkalmas, közforgalmú gyógyszertárat nem vezető személy részére az egészségügyi államigazgatási szerv engedélyezi a gyógyszertár ideiglenes vezetését.
+60/D. § (1) Amennyiben a személyi jog e törvény 59. § (1) bekezdés a) pontjának ab) alpontja miatt szűnik meg, a halál napját követő 6 hónapon belül előterjesztett, a korábbi személyi jog jogosultjának házastársa vagy egyenesági rokona, örökbe fogadott, mostoha- vagy nevelt gyermeke és a gyógyszertárat működtető gazdasági társaság legfőbb szervének egybehangzó kérelmére, a kérelemben megjelölt gyógyszertár vezetésére alkalmas, közforgalmú gyógyszertárat nem vezető személy részére az egészségügyi államigazgatási szerv engedélyezi a gyógyszertár ideiglenes vezetését.
 
 (2) Az (1) bekezdés szerinti vezető a gyógyszertárat – melynek tekintetében a szakmai feladatok teljesítéséért teljes felelősséggel tartozik – a hagyaték átadó végzés jogerőre emelkedését követő 90 napig vezetheti.
 
@@ -1467,7 +1514,7 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 - b) a felelős vezető számára a személyi jogot engedélyezik, a személyi jogot engedélyező határozat jogerőre emelkedésének napján,
 - c) a felelős vezető neki felróható okból a gyógyszertár működtetését nem biztosítja, vagy a gyógyszertárba hatósági vezető kirendelése szükséges.
 
-(6) A gyógyszerészi oklevéllel nem rendelkező személy gyógyszer készítésénél csak gyógyszerész felügyelete és irányítása mellett segédkezhet. Házhoz szállítás útján kiszolgált gyógyszer esetén a gyógyszertár vezetője felelős a kiszolgálás szakszerűségéért és pontosságáért. Gyógyszer házhoz szállítását kizárólag a közvetlen lakossági gyógyszerellátásra jogosult vállalkozás jogszabály szerint arra jogosult szakdolgozója végezheti. Csomagküldés útján vényköteles gyógyszer nem szolgáltatható ki. Gyógyszert gyógyszertárban csak gyógyszerész vagy – az egészségügyért felelős miniszter által kiadott rendeletben meghatározott kivétellel – gyógyszertári szakasszisztens szolgáltathat ki. A gyógyszerek kiadására vonatkozó jogosultságot, valamint a gyógyszertár szaktevékenységének ellátásában részt vevő gyógyszerészi oklevéllel nem rendelkező dolgozók képesítési feltételeit miniszteri rendelet állapítja meg.
+(6) A gyógyszerészi oklevéllel nem rendelkező személy gyógyszer készítésénél csak gyógyszerész felügyelete és irányítása mellett segédkezhet. Gyógyszer házhoz szállítása esetén a gyógyszertár vezetője felelős a kiszolgálás szakszerűségéért és pontosságáért. Gyógyszer házhoz szállítását kizárólag a közvetlen lakossági gyógyszerellátásra jogosult vállalkozás jogszabály szerint arra jogosult szakdolgozója végezheti. Csomagküldés útján vényköteles gyógyszer nem szolgáltatható ki. Gyógyszert gyógyszertárban csak gyógyszerész vagy – az egészségügyért felelős miniszter által kiadott rendeletben meghatározott kivétellel – gyógyszertári szakasszisztens szolgáltathat ki. A gyógyszerek kiadására vonatkozó jogosultságot, valamint a gyógyszertár szaktevékenységének ellátásában részt vevő gyógyszerészi oklevéllel nem rendelkező dolgozók képesítési feltételeit miniszteri rendelet állapítja meg.
 
 (6a) A (6) bekezdés szerinti, csomagküldés útján kiszolgáltatott vény nélkül kapható gyógyszer csomagküldés során bekövetkezett minőségi hibájáért a kiszolgáltató gyógyszertár működtetője felel.
 
@@ -1513,6 +1560,8 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 - c) az egészségügyi államigazgatási szervnek bejelenti azt a személyt, aki az adott üzletben felelős a gyógyszerekkel kapcsolatos jogszabályi előírások érvényesítéséért.
 
 (3) A gyógyszer-kiskereskedelmi forgalmazási engedéllyel rendelkező üzlet gyógyszereket csak gyógyszer-nagykereskedelmi tevékenység folytatására jogosulttól szerezhet be, és csak fogyasztónak adhatja tovább.
+
+(4) A gyógyszertáron kívüli gyógyszer forgalmazására engedéllyel rendelkező üzletet működtető köteles bejelenteni, ha továbbiakban az ez irányú tevékenységét nem kívánja folytatni, vagy ha az engedéllyel rendelkező üzletet megszünteti vagy az megszűnt. A bejelentést követően az egészségügyi államigazgatási szerv a gyógyszer forgalmazásra vonatkozó engedélyt visszavonja.
 
 69. § (1) Az üzletben gyógyszer – a tea formájú növényi gyógyszerek vagy tea formájú hagyományos növényi gyógyszerek kivételével – fogyasztók számára közvetlenül hozzáférhető helyen nem helyezhető el, kizárólag zárható szekrényben tárolható.
 
@@ -1567,7 +1616,7 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 74. § (1) Közforgalmú gyógyszertárat gazdasági társaság akkor működtethet, ha
 
 - a) a működtetett gyógyszertár szakmai vezetését ellátó személyi jogos gyógyszerész tulajdonhányada, vagy
-- b) a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek tulajdonhányada együttesen
+- b) a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek, illetve az igazolt hallgatói jogviszonnyal rendelkező gyógyszerész egyetemi hallgató öröklés útján szerzett tulajdonhányada együttesen
 
 a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 
@@ -1580,6 +1629,8 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 (4) 2011. január 1-jén már működő gyógyszertárban, illetve e törvény hatálybalépését követően létesült olyan gyógyszertárban, melyben támogatással történő gyógyszerrendelésre jogosult orvosnak tulajdoni hányada van, az egészségügyi államigazgatási szerv ellenőrzi, hogy a közfinanszírozásban részesülő gyógyszer támogatással történő forgalmazására szerződött gyógyszertár, valamint a gyógyszergyártó, -forgalmazó, illetve a támogatással történő gyógyszerrendelésre jogosult orvos között létezik-e olyan megállapodás, amely a betegek hatékony és biztonságos gyógyszerellátását sérti vagy veszélyezteti. Amennyiben ez a betegek hatékony és biztonságos gyógyszerellátását sérti vagy veszélyezteti, az egészségügyi államigazgatási szerv kezdeményezi az egészségbiztosítási szervnél a támogatással történő forgalmazási jogot biztosító szerződés felmondását.
 
 (5) A közforgalmú gyógyszertárat működtető gazdasági társaság ügyvezetését, képviseletét a 73. § (1) bekezdésében foglalt esetekben az adott gyógyszertár vonatkozásában a személyi joggal rendelkező gyógyszerész önállóan látja el.
+
+(6) A közforgalmú gyógyszertárat működtető gazdasági társaság működése során a gyógyszerészi tulajdoni hányad tekintetében biztosítani kell a tagsági jogoknak a tulajdoni hányadnak megfelelő – a társasági szerződésben rendezett – gyakorlását. Az ezzel ellentétes megállapodás semmis.
 
 74/A. § (1) A 2012. január 1-jén személyi joggal rendelkező gyógyszerészeknek az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított 62. § (2) bekezdésben foglaltaknak 2013. január 1-jéig kell megfelelniük.
 
@@ -1633,7 +1684,8 @@ rendeletben állapítsa meg.
 - u) az eredményesség alapú támogatásvolumen-szerződés kötésével érintett gyógyszerek körének felülvizsgálatára vonatkozó szempontokat,
 - v) a preferált biológiai gyógyszerek rendelésének kötelező minimális arányát,
 - w) a gyógyászati segédeszközök házhoz szállításának feltételeit és szabályait,
-- x) azon gyógyászati segédeszközök körét, amelyek esetében a gyógyászati segédeszköz forgalmazója a kiszolgáltatás során eltérhet a közfinanszírozás alapjául elfogadott ártól és az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban megállapított térítési díjtól.
+- x) azon gyógyászati segédeszközök körét, amelyek esetében a gyógyászati segédeszköz forgalmazója a kiszolgáltatás során eltérhet a közfinanszírozás alapjául elfogadott ártól és az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban megállapított térítési díjtól,
+- y) a közreműködő bevonásával házhoz szállítható társadalombiztosítási támogatással rendelt gyógyászati segédeszközök körét.
 
 (3) Felhatalmazást kap az élelmiszerlánc-felügyeletért felelős miniszter, hogy
 
@@ -1682,7 +1734,7 @@ lép hatályba.
 
 83/A. § (1) A 2013. január 1-jén már működő közforgalmú gyógyszertáraknak a 74. § – az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvény 100. §-ával megállapított – (1) bekezdésében foglaltaknak a 74. § (1a) bekezdésében foglaltak alkalmazásával 2017. január 1-jéig kell megfelelniük azzal, hogy a közfinanszírozásban részesülő gyógyszer kiszolgáltatására szerződött közforgalmú gyógyszertárat működtető gazdasági társaságban a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek tulajdonhányadának együttesen 2014. január 1-jéig meg kell haladnia a 25%-ot, valamint azzal, hogy 2013. január 1-jét követően a gyógyszertárat működtető gazdasági társaság közvetlen vagy közvetett tulajdonosi összetételében bekövetkező bármilyen – a (2) bekezdésben foglalt kivétellel – változás esetén biztosítani kell, hogy a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek, és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányada elérje a 25%-ot, 2014. január 1-jét követően pedig a gyógyszertárat működtető gazdasági társaság közvetlen vagy közvetett tulajdonosi összetételében bekövetkező bármilyen – a (2) bekezdésben foglalt kivételével – változás esetén biztosítani kell a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek, és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes többségi tulajdonhányadát.
 
-(2) Abban az esetben, ha a 2013. január 1-jén már működő közforgalmú gyógyszertár személyi jogos gyógyszerészének személyében 2014. január 1-jét megelőzően elhalálozására, személyi jogáról történő lemondására, a személyi jog átruházására, vagy az 58. § (1) és (2) bekezdésre tekintettel, vagy a gyógyszertárat működtető gazdasági társaságban tulajdonnal rendelkező más gyógyszerész személyében következik be változás, a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányadának a változás bekövetkezésétől számított 180 napon belül el kell érnie a 2013. január 1-jén meglévő tulajdonhányadot és ezt követően a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányada 2014. január 1-jéig nem csökkenhet a 2013. január 1-jén meglévőhöz képest. Amennyiben a 2013. január 1-jén már működő közforgalmú gyógyszertár személyi jogos gyógyszerészének személyében 2014. január 1-jét követően, de 2017. január 1-jét megelőzően elhalálozására, személyi jogáról történő lemondására, a személyi jog átruházására vagy az 58. § (1) és (2) bekezdésére tekintettel, vagy a gyógyszertárat működtető gazdasági társaságban tulajdonnal rendelkező más gyógyszerész személyében következik be változás, a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányadának a változás bekövetkezésétől számított 180 napon belül el kell érnie a 2014. január 1-jén meglévő tulajdonhányadot és ezt követően a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdoni hányada 2017. január 1-jéig nem csökkenhet a 2014. január 1-jén meglévőhöz képest.
+(2) Abban az esetben, ha a 2013. január 1-jén már működő közforgalmú gyógyszertár személyi jogos gyógyszerészének személyében 2014. január 1-jét megelőzően elhalálozására, személyi jogáról történő lemondására, a személyi jog átruházására, vagy az 58. § (1) és (2) bekezdésre tekintettel, vagy a gyógyszertárat működtető gazdasági társaságban tulajdonnal rendelkező más gyógyszerész személyében következik be változás, a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányadának a változás bekövetkezésétől számított 180 napon belül el kell érnie a 2013. január 1-jén meglévő tulajdonhányadot és ezt követően a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányada 2014. január 1-jéig nem csökkenhet a 2013. január 1-jén meglévőhöz képest. Amennyiben a 2013. január 1-jén már működő közforgalmú gyógyszertár személyi jogos gyógyszerészének személyében 2014. január 1-jét követően, de 2017. január 1-jét megelőzően elhalálozására, személyi jogáról történő lemondására, a személyi jog átruházására vagy az 58. § (1) és (2) bekezdésére tekintettel, vagy a gyógyszertárat működtető gazdasági társaságban tulajdonnal rendelkező más gyógyszerész személyében következik be változás, a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányadának a változás bekövetkezésétől számított 180 napon belül el kell érnie a 2014. január 1-jén meglévő, amennyiben a tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányada meghaladja az 50%-ot úgy a 74. § (1) bekezdés szerinti tulajdonhányadot és ezt követően a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdoni hányada 2017. január 1-jéig nem csökkenhet a 2014. január 1-jén meglévőhöz, amennyiben a tulajdonhányaddal rendelkező gyógyszerészek együttes tulajdonhányada meghaladja az 50%-ot úgy a 74. § (1) bekezdés szerinti tulajdoni hányadhoz képest.
 
 (3) 2011. január 1-jén már működő közforgalmú gyógyszertárat működtető gazdasági társaságban 2011. május 31-ét követően nem lehet sem közvetlen sem közvetetten tulajdonos olyan gazdasági társaság, amelynek székhelye olyan államban van, ahol nem végez gazdasági tevékenységet és amelyben jogszabály nem ír elő társasági adónak megfelelő adókötelezettséget, vagy az adóévre fizetendő, a társasági adónak megfelelő adó és az adózás előtti eredménynek megfelelő összeg százalékban kifejezett hányadosa nem éri el a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 19. §-ában előírt mérték kétharmadát.
 
@@ -1690,15 +1742,15 @@ lép hatályba.
 
 (5) 2011. január 1-jén személyi joggal rendelkező, e joguk alapján közforgalmú gyógyszertárat vezető gyógyszerészek személyi joga a jelenleg általuk vezetett közforgalmú gyógyszertár vezetésére és működtetésére szóló engedéllyé alakul át. Abban az esetben, ha a személyi joggal rendelkező gyógyszerész nem vezet közforgalmú gyógyszertárat, személyi joga gyógyszertár vezetésére és működtetésére irányuló szándék esetén érvényes, azt ismételten kérelmezni az egészségügyi államigazgatási szervnél nem kell.
 
-(6) A 74. § (1) bekezdésében és az (1) bekezdésben foglalt gyógyszerészi tulajdoni hányadba a Kisvállalkozás–fejlesztő Pénzügyi Zrt. (a továbbiakban: KvfP. Zrt.) 2016. december 31-ig közforgalmú gyógyszertárat működtető gazdasági társaságban szerzett tulajdonhányadát is bele kell számítani, amennyiben gyógyszerész a KvfP. Zrt. tulajdonszerzésétől számított 5 éven belül a tulajdonhányad tekintetében vételi jogot érvényesíthet. A KvfP. Zrt. e bekezdés szerinti tulajdonszerzése a magyarországi székhelyű kis- és középvállalkozások tevékenységét szolgáló tőkefinanszírozás céljából megvalósuló fejlesztési célú befektetésnek minősül. A KvfP. Zrt. e bekezdés alapján történő tulajdonszerzése esetén a 74. § (3) bekezdése és a 75. § nem alkalmazandó.
+(6) A 74. § (1) bekezdésében és az (1) bekezdésben foglalt gyógyszerészi tulajdoni hányadba a Kisvállalkozás-fejlesztő Pénzügyi Zrt. (a továbbiakban: KvfP. Zrt.) 2016. december 31-ig közforgalmú gyógyszertárat működtető gazdasági társaságban szerzett tulajdonhányadát is bele kell számítani, ha a gyógyszerész a KvfP. Zrt. tulajdonszerzésétől számított 5 éven belül a tulajdonhányad tekintetében vételi jogot érvényesíthet. A KvfP. Zrt. e bekezdés szerinti tulajdonszerzése a magyarországi székhelyű kis- és középvállalkozások tevékenységét szolgáló tőkefinanszírozás céljából megvalósuló fejlesztési célú befektetésnek minősül. A KvfP. Zrt. e bekezdés alapján történő tulajdonszerzése esetén a (7) bekezdés, a 74. § (3) bekezdése és a 75. § nem alkalmazandó. A KvfP. Zrt. által e bekezdés alapján szerzett tulajdonhányadnak az e bekezdésben említett vételi jog jogosultja részére történő értékesítése esetében a (7) bekezdés nem alkalmazandó.
 
-(7) A közforgalmú gyógyszertárat működtető gazdasági társaság tulajdoni hányadának átruházása esetén – más jogszabályon alapuló elővásárlási jogot megelőzően – az érintett gazdasági társaságban tulajdoni hányaddal rendelkező gyógyszerészt, az érintett gazdasági társaság által működtetett közforgalmú gyógyszertárban munkaviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkező gyógyszerészt, bármely más, az egészségügyi dolgozók működési nyilvántartásában szereplő gyógyszerészt, az államot – ebben a sorrendben – elővásárlási jog illeti meg. Az állam elővásárlási jogát, illetve tulajdonosi jogait gyakorló szervet a Kormány rendeletben jelöli ki. Az e bekezdés alapján történő állami tulajdonszerzés esetén a 74. § (3) bekezdése és a 75. § nem alkalmazandó. Ha az elővásárlási jog jogosultja az átruházási szándék és a vételár vele való közlésétől számított 30 napon belül nem nyilatkozik, úgy kell tekinteni, hogy nem kíván élni az elővásárlási jogával. Az állam, mint elővásárlásra jogosult által így szerzett tulajdoni hányadot az (1) bekezdésben és a 74. § (1) bekezdésében foglalt feltételek teljesítése tekintetében be kell számítani.
+(7) A közeli hozzátartozók közötti átruházás kivételével, közforgalmú gyógyszertárat működtető gazdasági társaság tulajdoni hányadának átruházása esetén – más jogszabályon alapuló elővásárlási jogot megelőzően – az érintett gazdasági társaságban tulajdoni hányaddal rendelkező gyógyszerészt, az érintett gazdasági társaság által működtetett közforgalmú gyógyszertárban munkaviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkező gyógyszerészt, bármely más, az egészségügyi dolgozók működési nyilvántartásában szereplő gyógyszerészt, az államot – ebben a sorrendben – elővásárlási jog illeti meg. Az állam elővásárlási jogát, illetve tulajdonosi jogait gyakorló szervet a Kormány rendeletben jelöli ki. Az e bekezdés alapján történő állami tulajdonszerzés esetén a 74. § (3) bekezdése és a 75. § nem alkalmazandó. Ha az elővásárlási jog jogosultja az átruházási szándék és a vételár vele való közlésétől számított 30 napon belül nem nyilatkozik, úgy kell tekinteni, hogy nem kíván élni az elővásárlási jogával. Az állam mint elővásárlásra jogosult által így szerzett tulajdoni hányadot az (1) bekezdésben és a 74. § (1) bekezdésében foglalt feltételek teljesítése tekintetében be kell számítani.
 
 (8) Ha a közforgalmú gyógyszertárat működtető gazdasági társaság tulajdoni hányadát a (7) bekezdésben meghatározott elővásárlásra jogosult javára ruházzák át, az elővásárlási jog csak a vevőt sorrendben megelőző jogosultakat illeti meg.
 
 (9) A gyógyszerészi tulajdoni hányad biztosítása érdekében az állam a (7) bekezdés szerint szerzett tulajdoni hányada értékesítésére a tulajdoni hányad megszerzésétől számított 3 éven belül pályázatot ír ki, azzal, hogy ha az adott közforgalmú gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerész vagy az adott közforgalmú gyógyszertárban munkaviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkező gyógyszerész vételi szándékát jelzi, a pályázatot haladéktalanul ki kell írni.
 
-(10) Az állam által a (7) bekezdés szerint szerzett tulajdoni hányad pályázat útján történő értékesítése esetén a (7) bekezdés szerinti elővásárlási jog nem alkalmazandó.
+(10) Az állam által a (7) bekezdés szerint szerzett tulajdoni hányad pályázat útján történő értékesítése esetén a (7) bekezdés szerinti, valamint a más jogszabályon vagy szerződésen alapuló elővásárlási jog nem alkalmazandó.
 
 (11) Felhatalmazást kap a Kormány, hogy
 
@@ -1706,6 +1758,10 @@ lép hatályba.
 - b) az állam (7) bekezdés szerinti elővásárlási jogát, illetve tulajdonosi jogait gyakorló szervet rendeletben kijelölje.
 
 (12) Azon 2000 főt meghaladó lakosságú településeken, ahol az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvény hatálybalépése napján csak egy közforgalmú gyógyszertár működik, és a közforgalmú gyógyszertárat működtető gazdasági társaság értékesítésre felkínált tulajdonhányadát az állam nem az elővásárlási jogának gyakorlása útján szerzi meg, az így megszerzett tulajdonhányadot is be kell számítani a 74. § (1) bekezdésében és az (1) bekezdésben foglalt gyógyszerészi tulajdoni hányadba. Az e bekezdés alapján történő állami tulajdonszerzés esetén a 74. § (3) bekezdése és a 75. § nem alkalmazandó.
+
+(13) Amennyiben a Patika Hitelprogram keretében felvehető, kedvezményes kamatozású hitel vagy kölcsön keretében biztosítékul adott gyógyszerészi tulajdoni hányad a biztosíték érvényesítése miatt a hitelező pénzintézet tulajdonába kerül, úgy ezen tulajdoni hányadot a szerzéstől számított maximum egy éves időtartamig bele kell számítani a 74. § (1) bekezdésében és az (1) bekezdésben foglalt gyógyszerészi tulajdoni hányadba. Nem alkalmazandó a (7) bekezdés akkor, ha a hitelező pénzintézet által e bekezdés szerint megszerzett tulajdoni hányad – a biztosíték szerzésétől számított egy éven belül – a biztosítékot nyújtó gyógyszerész részére kerül átruházásra. A hitelező pénzintézet e bekezdés alapján történő tulajdonszerzése esetén a 74. § (3) bekezdése és a 75. § nem alkalmazandó.
+
+(14) E törvény alkalmazásában az igazolt hallgatói jogviszonnyal rendelkező gyógyszerész egyetemi hallgató öröklés útján szerzett tulajdonhányada az örökhagyó gyógyszerészi tulajdoni hányaddal esik egy tekintet alá.
 
 83/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvény 79. §-ával megállapított 58. § (1) bekezdés e) pontjában és az 58. § (3)–(4) bekezdésében foglaltakat az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvény hatálybalépését követően meghozott jogerős ítéletek vonatkozásában kell alkalmazni.
 
@@ -1729,7 +1785,11 @@ lép hatályba.
 
 86. § (1) Az egyes egészségügyi és szociális tárgyú törvények módosításáról szóló 2010. évi LXXXIX. törvény 7. §-ával megállapított 41. § (3) bekezdés azzal alkalmazandó, hogy a 2010. első naptári negyedévére járó működési célú támogatás igényléséhez szükséges hatósági bizonyítvány iránti kérelmek 2010. szeptember 1-jéig benyújthatóak.
 
-(2)–(4)
+(2) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 31. § (1) bekezdés h)–i) és l) pontjában foglaltakat az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvény hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(3) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 49. § (10)–(11) bekezdésében foglaltakat az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvény hatálybalépését követően kiírt pályázatok esetén kell alkalmazni.
+
+(4)
 
 (5) Az e törvény hatálybalépésekor hozzátartozói személyi joggal rendelkező személyek közforgalmú gyógyszertárat – az e törvény hatálybalépését megelőző napon hatályos Gyltv. hozzátartozói személyi jog alapján történő közforgalmú gyógyszertár működtetésre vonatkozó szabályainak megfelelően – legfeljebb a hozzátartozói személyi joggal rendelkezők nyilvántartásában feltüntetett jogosultsági időtartamig működtethetnek.
 

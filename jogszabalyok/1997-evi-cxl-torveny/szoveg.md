@@ -275,7 +275,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 45. § (1) A megyei hatókörű városi múzeum feladata a kulturális javak helyi védelmének települési szintet meghaladó, egy megye közigazgatási területére kiterjedő biztosítása.
 
-(2) A megyei hatókörű városi múzeumi feladatok ellátásáról a megyeszékhely megyei jogú város önkormányzata – Pest megyében Szentendre Város Önkormányzata, Komárom-Esztergom megyében Tata Város Önkormányzata – gazdálkodási besorolása szerint önállóan működő és gazdálkodó költségvetési szervként működő megyei hatókörű városi múzeum fenntartásával gondoskodik.
+(2) A megyei hatókörű városi múzeumi feladatok ellátásáról a megyeszékhely megyei jogú város önkormányzata – Pest megyében Szentendre Város Önkormányzata, Komárom-Esztergom megyében Tata Város Önkormányzata – költségvetési szervként működő megyei hatókörű városi múzeum fenntartásával gondoskodik.
 
 (3) A megyei hatókörű városi múzeum fenntartója tagintézményeket működtethet.
 
@@ -536,7 +536,7 @@ közigazgatási területére terjed ki.
 
 61. § (1) A nemzeti könyvtár az Országos Széchényi Könyvtár. A fenntartói jogokat és kötelezettségeket a miniszter gyakorolja.
 
-(2) A nemzeti könyvtár önállóan működő és gazdálkodó központi költségvetési szerv.
+(2) A nemzeti könyvtár központi költségvetési szerv.
 
 (3) A nemzeti könyvtár gyűjteménye a kulturális örökség része, ezért használatára a miniszter a nyilvános könyvtárakra vonatkozó szabályoktól eltérő rendelkezéseket állapíthat meg.
 
@@ -585,7 +585,7 @@ közigazgatási területére terjed ki.
 
 (4) A fővárosban az (1) bekezdésben meghatározott feladatot Budapest Főváros Önkormányzata a kerületek könyvtári ellátását is biztosító nyilvános könyvtár fenntartásával teljesíti.
 
-(5) A megyei könyvtár és a Budapest Főváros Önkormányzata által fenntartott könyvtár nyilvános könyvtár, amely gazdálkodási besorolása szerint önállóan működő és gazdálkodó költségvetési szerv.
+(5) A megyei könyvtár és a Budapest Főváros Önkormányzata által fenntartott könyvtár költségvetési szervként működő nyilvános könyvtár.
 
 (6) A megyeszékhely megyei jogú város – Pest megyében Szentendre Város Önkormányzata – az (1) bekezdésben foglalt feladatait megyei könyvtár fenntartásával biztosítja.
 
@@ -921,11 +921,7 @@ vehető figyelembe.
 
 95/B. § (1)–(5)
 
-(6) Múzeum, országos vagy megyei könyvtár, valamint közművelődési intézmény vezetője az lehet, aki államháztartási és vezetési ismeretekkel, továbbá vezetői gyakorlattal rendelkezik.
-
-(7) A (6) bekezdésben meghatározott államháztartási, vezetési ismeretekkel rendelkezőnek kell tekinteni azt, aki legalább a miniszter által külön jogszabályban meghatározottak szerint akkreditált, vezetői ismereteket nyújtó tanfolyam eredményes elvégzését igazoló okirattal rendelkezik.
-
-(8) A (7) bekezdésben előírt képesítést a vezetői megbízást követő 2 éven belül kell megszerezni.
+(6)–(8)
 
 (9) Az országos és a megyei hatókörű muzeális intézmény, valamint országos vagy megyei könyvtár közgyűjtemény az éves munkatervét gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos szakmai mutatók alapján készíti el.
 
@@ -991,7 +987,7 @@ vehető figyelembe.
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 - a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
-- b) az önállóan működő és gazdálkodó közgyűjtemény éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
+- b) a közgyűjtemények éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
 - c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
 - d) a muzeális intézmények működési engedélyeivel kapcsolatos kérdéseket,
 - e) a védetté nyilvánított kulturális javak, valamint a régészeti lelőhelyek nyilvántartását,

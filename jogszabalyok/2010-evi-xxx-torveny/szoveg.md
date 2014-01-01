@@ -418,6 +418,6 @@ Tisztelettel,
 
 (3) A Megállapodás, illetve a törvény 2. és 3. §-a hatálybalépésének naptári napját a külügyminiszter, annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről a fejlesztéspolitikáért felelős miniszter, valamint a kutatás-fejlesztésért és technológiai innovációért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről a kutatás-fejlesztésért és technológiai innovációért felelős miniszter gondoskodik.
 
 (5) E törvény 2. és 3. §-ának hatálybalépésével a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya közötti tudományos és technológiai együttműködési Egyezmény kihirdetéséről szóló 142/2000. (VIII. 17.) Korm. rendelet hatályát veszti.

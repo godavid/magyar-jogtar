@@ -54,7 +54,10 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - h) a büntetőügyben eljáró bíróság eljárásához,
 - i) az ügyészség eljárásához,
 - j) a nyomozó hatóság és a nemzetbiztonsági szolgálatok feladatai ellátása érdekében,
-- k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetőleg nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez kéri.
+- k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetőleg nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez,
+- l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv
+
+kéri.
 
 (2) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése, ha az igazolhatóan birtok-összevonási célú önkéntes földcsere megszervezése iránt indított eljáráshoz szükséges.
 
@@ -65,6 +68,8 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 (5) Az elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles és hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
 
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
+
+31/A. § Papír alapú tulajdonilap-másolat szolgáltatás esetén a közigazgatási hatósági eljárásban a személyes költségmentesség megállapításáról szóló kormányrendelet szerinti személyes költségmentesség kizárólag abban az esetben engedélyezhető, ha a kérelmező az ingatlan-nyilvántartásban bejegyzett jogosultként, kötelezettként szerepel vagy írásban igazolja, hogy a kiállított másolat joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
 
 32. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a tulajdonilap-másolat kiállítása iránti kérelmet elutasító döntés az ügyfél hátrányára jogszabálysértőnek bizonyult.
 
@@ -130,14 +135,17 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - f) a lakástörvény alapján vételi, elővásárlási joggal rendelkező személy részére elidegenített önkormányzati vagy állami tulajdonban álló lakás tulajdonjogának, haszonélvezeti jogának, továbbá az ezzel összefüggő elidegenítési és terhelési tilalomnak, valamint jelzálogjognak az ingatlan-nyilvántartási bejegyzésével vagy törlésével kapcsolatos eljárás;
 - g) a birtok-összevonási célú önkéntes földcsere keretében létrejött megállapodáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése;
 - h) a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának feljegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
-- i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, a büntető ügyben eljáró bíróság által elrendelt zár alá vétel, továbbá az ügyész és a nyomozó hatóság által elrendelt zár alá vételt megelőző biztosítási intézkedés tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
+- i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
 - j) a költségmentesség engedélyezése iránti eljárás;
 - k) a birtok-összevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint a kárpótlási eljárás, a részarány-tulajdonnal kapcsolatos eljárás;
 - l) a lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján
   - la) a Magyar Állam javára történő lakásvásárlással megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás,
   - lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
   - lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
-- m) az ingatlan közigazgatási címének közterületnév-változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja, ha az eljárás megindítására a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14. § (2) bekezdésébe foglalt tilalomba ütközés miatti közterületnév-változás miatt kerül sor.
+- m) az ingatlan közigazgatási címének közterületnév-változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja, ha az eljárás megindítására a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14. § (2) bekezdésébe foglalt tilalomba ütközés miatti közterületnév-változás miatt kerül sor;
+- n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
+- o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
+- p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
 

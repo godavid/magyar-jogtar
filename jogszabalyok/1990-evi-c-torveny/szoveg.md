@@ -20,6 +20,8 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (3) A kerületi önkormányzat által a (2) bekezdés szerint bevezethető adót a kerületi önkormányzat helyett a fővárosi önkormányzat akkor jogosult rendeletével bevezetni, ha ahhoz minden adóév tekintetében az érintett kerületi önkormányzat képviselőtestülete előzetes beleegyezését adja.
 
+(4) A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a kerületi önkormányzat által bevezethető adó bevezetésére a fővárosi önkormányzat jogosult.
+
 2. § Az önkormányzat adómegállapítási joga az e törvényben meghatározott adóalanyokra és adótárgyakra terjed ki.
 
 3. § (1) Ha e törvény másként nem rendelkezik, a törvény alkalmazásában adóalany:
@@ -122,7 +124,7 @@ Az egyes adók az általános rendelkezések (első rész) figyelembevételével
 - e)
 - f)
 - g)
-- h) az ingatlan-nyilvántartási állapot szerint állattartásra vagy növénytermesztésre szolgáló épület vagy az állattartáshoz, növénytermesztéshez kapcsolódó tároló épület (pl. istálló, üvegház, terménytároló, magtár, műtrágyatároló), feltéve, hogy az épületet az adóalany rendeltetésszerűen állattartási, növénytermesztési tevékenységéhez kapcsolódóan használja.
+- h) az ingatlan-nyilvántartási állapot szerint állattartásra vagy növénytermesztésre szolgáló építmény vagy az állattartáshoz, növénytermesztéshez kapcsolódó tároló építmény (pl. istálló, üvegház, terménytároló, magtár, műtrágyatároló), feltéve, hogy az építményt az adóalany rendeltetésszerűen állattartási, növénytermesztési tevékenységéhez kapcsolódóan használja.
 
 ### Műemléképület felújításához kapcsolódó
 
@@ -194,24 +196,40 @@ adómentesség
 
 19. § Mentes az adó alól:
 
-- a) az épület, épületrész hasznos alapterületével egyező nagyságú telekrész,
-- b) az erdő művelési ágban nyilvántartott belterületi telek,
-- c) az építési tilalom alatt álló telek adóköteles területének 50 %-a.
+- a) az építmény hasznos alapterületével egyező nagyságú telekrész,
+- b) a belterületen fekvő, az ingatlan-nyilvántartásban művelés alól kivett területként nyilvántartott, 1 hektárt meg nem haladó nagyságú földterület, feltéve, ha az adóévben annak teljes területe tényleges mezőgazdasági művelés alatt áll és e tényt a telek fekvése szerint illetékes mezőgazdasági igazgatási szerv az adóévben igazolja,
+- c) az építési tilalom alatt álló telek adóköteles területének 50 %-a,
+- d) az adóalany termék-előállító üzeméhez tartozó, jogszabályban vagy hatósági előírásban megállapított védő-biztonsági terület (övezet), feltéve, ha az adóalany adóévet megelőző adóévi, évesített nettó árbevétele legalább 50%-ban saját előállítású termék értékesítéséből származik.
 
 ### Az adókötelezettség keletkezése, változása és megszűnése
 
 20. § (1) Az adókötelezettség
 
-- a) mező-, erdőgazdasági művelés alatt álló belterületi földnek minősülő telek esetében a telek tényleges mezőgazdasági művelésének a megszüntetését vagy a telek művelés alól kivett területként való ingatlan-nyilvántartási átvezetését követő év első napján,
-- b) termőföld esetén a művelés alól kivett területté történő ingatlan-nyilvántartási átvezetését követő év első napján
-- c) tanyaként nyilvántartott ingatlanhoz tartozó földterület esetében a tanya megnevezés ingatlan-nyilvántartásból való törlését és/vagy a kizárólagos mezőgazdasági célú hasznosítás megszüntetését követő év első napján,
-- d) az épület megsemmisülése, lebontása esetén a megsemmisülést, lebontást követő félév első napján keletkezik.
+- a) a belterületen fekvő, termőföldnek minősülő telek esetében a földterületnek az ingatlan-nyilvántartásban művelés alól kivett területre történő átvezetését vagy tényleges mezőgazdasági művelésének a megszüntetését követő év első napján,
+- b) a külterületen fekvő, termőföldnek minősülő telek esetében a földterületnek az ingatlan-nyilvántartásban művelés alól kivett területre történő átvezetését követő év első napján,
+- c) erdőnek minősülő telek esetében
+  - ca) a földterületnek az ingatlan-nyilvántartásban művelés alól kivett területre történő átvezetését követő év első napján, feltéve, ha az Országos Erdőállomány Adattárban erdőként nem tartják nyilván vagy
+  - cb) az ingatlan-nyilvántartásban művelés alól kivett területként nyilvántartott földterületnek az Országos Erdőállomány Adattárból történő törlését
+
+követő év első napján
+
+- d) a tanyaként nyilvántartott földterület esetében a tanyaként történő ingatlan-nyilvántartási bejegyzés törlését követő év első napján,
+- e) az építmény megsemmisülése, lebontása esetén a megsemmisülést, lebontást követő félév első napján
+
+keletkezik.
 
 (2) Az adókötelezettség
 
-- a) belterületi telek esetében a telek művelési ágának ingatlan-nyilvántartási átvezetése vagy mezőgazdasági művelésének megkezdése évének utolsó napján szűnik meg,
-- b) külterületi telek esetében annak termőföldként vagy tanyaként történő ingatlan-nyilvántartási bejegyzése évének utolsó napján szűnik meg, feltéve, hogy a tanyához tartozó földterület ténylegesen mezőgazdasági művelés alatt áll,
-- c) a telek épülettel való beépítése félévének utolsó napján szűnik meg.
+- a) az ingatlan-nyilvántartásban művelés alól kivett területként nyilvántartott belterületi telek esetében a telek művelési ágának ingatlan-nyilvántartási átvezetése és tényleges mezőgazdasági művelése megkezdése évének utolsó napján,
+- b) az a) pontban foglaltaktól eltérően a
+  - ba) tényleges mezőgazdasági művelés alatt álló belterületi telek esetében a telek művelési ágának ingatlan-nyilvántartási átvezetése évének,
+  - bb) belterületen fekvő termőföld esetében annak tényleges mezőgazdasági művelése megkezdése évének
+
+utolsó napján,
+
+- c) külterületi telek esetében annak termőföldként vagy tanyaként történő ingatlan-nyilvántartási feljegyzése évének utolsó napján,
+- d) az a)–c) pontban foglaltaktól eltérően teleknek minősülő földterület esetében a földterületnek az ingatlan-nyilvántartásban erdő művelési ágra történő átvezetése vagy az Országos Erdőállomány Adattárba történő bejegyzése évének utolsó napján,
+- e) a telek építménnyel való beépítése félévének utolsó napján szűnik meg.
 
 (3) Az adókötelezettségben bekövetkező – (1)–(2) bekezdésben nem említett – változást a következő év első napjától kell figyelembe venni.
 
@@ -288,7 +306,7 @@ Az adófelfüggesztés
 - b) a gyógyintézetben fekvőbeteg szakellátásban részesülő vagy szociális intézményben ellátott magánszemély;
 - c) a közép- és felsőfokú oktatási intézménynél tanulói vagy hallgatói jogviszony alapján, hatóság vagy bíróság intézkedése folytán, a szakképzés keretében, a szolgálati kötelezettség teljesítése, vagy a településen székhellyel, vagy telephellyel rendelkező vagy a Htv. 37. §-ának (2) bekezdése szerinti tevékenységet végző vállalkozó esetén vállalkozási tevékenység vagy ezen vállalkozó munkavállalója által folytatott munkavégzés céljából az önkormányzat illetékességi területén tartózkodó magánszemély, továbbá
 - d) aki az önkormányzat illetékességi területén lévő üdülő tulajdonosa vagy bérlője, továbbá a használati jogosultság időtartamára a lakásszövetkezet tulajdonában álló üdülő használati jogával rendelkező lakásszövetkezeti tag, illetőleg a tulajdonos, a bérlő hozzátartozója, valamint a lakásszövetkezet tulajdonában álló üdülő használati jogával rendelkező lakásszövetkezeti tag használati jogosultságának időtartamára annak hozzátartozója [Ptk. 685. § b) pontja];
-- e) az egyházi jogi személy tulajdonában lévő épületben, telken vendégéjszakát – kizárólag az egyházi jogi személy hitéleti tevékenységéhez kapcsolódó részvétel céljából – eltöltő egyházi személy.
+- e) az egyházi jogi személy tulajdonában lévő építményben, telken vendégéjszakát – kizárólag az egyházi jogi személy hitéleti tevékenységéhez kapcsolódó részvétel céljából – eltöltő egyházi személy.
 
 ### Az adó alapja
 
@@ -337,7 +355,7 @@ iparűzési tevékenység
 - a) építőipari tevékenységet folytat, illetőleg természeti erőforrást tár fel vagy kutat, feltéve, hogy a folyamatosan vagy megszakításokkal végzett tevékenység időtartama adóéven belül a 30 napot meghaladja, de nem éri el a 181 napot,
 - b) bármely – az a) pontba nem sorolható – tevékenységet végez, ha annak folytatásából közvetlenül bevételre tesz szert, feltéve, hogy egyetlen önkormányzat illetékességi területén sem rendelkezik székhellyel, telephellyel.
 
-(3) Ha az építőipari tevékenység folytatásának, illetőleg a természeti erőforrás feltárásának, kutatásának időtartama az önkormányzat illetékességi területén a 180 napot meghaladta vagy előreláthatóan meghaladja, akkor e tevékenységek végzésének helye a tevékenység-végzés megkezdésének napjától telephelynek minősül, a vállalkozónak állandó jellegű iparűzési tevékenységet végzőként kell bejelentkeznie és az ideiglenes jellegű tevékenység utáni adót nem kell megfizetnie. Amennyiben a vállalkozó az önkormányzat illetékességi területén folytatott ideiglenes jellegű iparűzési tevékenysége után az adóévre már fizetett adót, akkor azt – eltérően a 40. § (4) bekezdésében foglaltaktól – az adott önkormányzat illetékességi területén végzett adóévi állandó jellegű iparűzési tevékenység utáni adóból vonhatja le. Amennyiben a vállalkozó előzetes bejelentésétől eltérően a tevékenység-végzés napjai alapján a vállalkozónak az önkormányzat illetékességi területén ideiglenes jellegű iparűzési tevékenység utáni adókötelezettsége áll fenn, akkor arról legkésőbb az adóévet követő év január 15. napjáig köteles bevallást benyújtani, s a bevallás benyújtásával egyidejűleg az adót az ideiglenes tevékenység után egyébként fizetendő adó eredeti esedékességétől számított késedelmi pótlékkal növelten megfizetni.
+(3) Ha az építőipari tevékenység folytatásának, illetőleg a természeti erőforrás feltárásának, kutatásának időtartama az önkormányzat illetékességi területén a 180 napot meghaladta vagy előreláthatóan meghaladja, akkor e tevékenységek végzésének helye a tevékenység-végzés megkezdésének napjától telephelynek minősül, a vállalkozónak állandó jellegű iparűzési tevékenységet végzőként kell bejelentkeznie és az ideiglenes jellegű tevékenység utáni adót nem kell megfizetnie. Amennyiben a vállalkozó az önkormányzat illetékességi területén folytatott ideiglenes jellegű iparűzési tevékenysége után az adóévre már fizetett adót, akkor azt – eltérően a 40/A. § (1) bekezdés a) pontjában és 40/A. § (2) bekezdésben foglaltaktól – az adott önkormányzat illetékességi területén végzett adóévi állandó jellegű iparűzési tevékenység utáni adóból vonhatja le. Amennyiben a vállalkozó előzetes bejelentésétől eltérően a tevékenység-végzés napjai alapján a vállalkozónak az önkormányzat illetékességi területén ideiglenes jellegű iparűzési tevékenység utáni adókötelezettsége áll fenn, akkor arról legkésőbb az adóévet követő év január 15. napjáig köteles bevallást benyújtani, s a bevallás benyújtásával egyidejűleg az adót az ideiglenes tevékenység után egyébként fizetendő adó eredeti esedékességétől számított késedelmi pótlékkal növelten megfizetni.
 
 ### Az adókötelezettség keletkezése
 
@@ -401,19 +419,21 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (2) A kisvállalati adó hatálya alá tartozó vállalkozó az adó alapját – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – a kisvállalati adója alapjának 20%-kal növelt összegében is megállapíthatja.
 
-(3) A kisadózó vállalkozások tételes adója hatálya alá tartozó vállalkozó (a továbbiakban e § alkalmazásában: kisadózó vállalkozás) – kizárólag e minősége fennállásának időtartamával egyező időtartamra vonatkozó, meg nem változtatható – döntése esetén az adó adóévi alapja – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – székhelye és telephelye szerinti önkormányzatonként 2,5-2,5 millió forint. Ha a kisadózó vállalkozás e minősége szerinti adókötelezettsége valamely településen az adóév egészében nem áll fenn, vagy a kisadózó vállalkozások tételes adójában az adófizetési kötelezettsége szünetel, akkor az adó önkormányzatonkénti alapja a 2,5 millió forintnak az adókötelezettség időtartama naptári napjai alapján arányosított része.
+(3) A kisadózó vállalkozások tételes adója hatálya alá tartozó vállalkozó (a továbbiakban e § alkalmazásában: kisadózó vállalkozás) (9) bekezdés szerint bejelentett döntése esetén, az adó adóévi alapja – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – székhelye és telephelye szerinti önkormányzatonként 2,5-2,5 millió forint. Ha a kisadózó vállalkozás e minősége szerinti adókötelezettsége valamely településen az adóév egészében nem áll fenn, vagy a kisadózó vállalkozások tételes adójában az adófizetési kötelezettsége szünetel, akkor az adó önkormányzatonkénti alapja a 2,5 millió forintnak az adókötelezettség időtartama naptári napjai alapján arányosított része.
 
 (4) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást választja és a kisadózó vállalkozás adókötelezettségének időtartama az adóévben
 
 - a) 12 hónap, akkor adóját évente két egyenlő részletben, az adóév harmadik hónapjának 15. és kilencedik hónapjának 15. napjáig,
 - b) 12 hónapnál rövidebb, akkor adóját két egyenlő részletben a kisadózó vállalkozás e minőségében fennálló adókötelezettsége adóéven belüli első és utolsó hónapját követő hónap 15. napjáig fizeti meg.
 
-(5) A kisadózó vállalkozást e minőségére tekintettel – a 41. §-ban és az adózás rendjéről szóló törvényben foglaltaktól eltérően, a (6)–(7) bekezdésekben foglaltak kivételével – adóelőleg-bejelentési, -bevallási, és -fizetési kötelezettség, valamint adóbevallás-benyújtási kötelezettség, továbbá a 39. § (2) bekezdése szerinti adóalap-megosztási kötelezettség nem terheli.
+(5) A (3) bekezdés szerinti adóalap-megállapítást választó kisadózó vállalkozást e minőségére tekintettel – a 41. §-ban és az adózás rendjéről szóló törvényben foglaltaktól eltérően, a (6)–(7) bekezdésekben foglaltak kivételével – adóelőleg-bejelentési, -bevallási, és -fizetési kötelezettség, valamint adóbevallás-benyújtási kötelezettség, továbbá a 39. § (2) bekezdése szerinti adóalap-megosztási kötelezettség nem terheli.
 
-(6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás az önkormányzati adóhatóság által rendszeresített nyomtatványon adóbevallást nyújt be, ha
+(6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás adóbevallást nyújt be,
 
-- a) a kisadózó vállalkozások tételes adójában fennálló adóalanyisága bármely ok miatt megszűnik, a megszűnés hónapjának utolsó napját követő 15 napon belül,
-- b) a (3) bekezdés szerint az adóévre fizetendő adó a (4) bekezdés alapján az adóévre ténylegesen megfizetett adóösszegnél azért kevesebb, mert a kisadózók tételes adójában az adófizetési kötelezettség szünetelésének volt helye. Ekkor a kisadózó vállalkozásnak az adóévi adókötelezettségre jutó és a ténylegesen megfizetett adó összegéről, annak különbözetéről az adóévet követő év január 15-ig kell bevallást benyújtania, a különbözet ekkortól igényelhető vissza.
+- a) a megszűnés hónapjának vagy a szünetelés kezdő hónapjának utolsó napját követő 15 napon belül, ha kisadózó vállalkozásként adóalanyisága bármely ok miatt megszűnt (szünetel),
+- b) az adóévet követő év január 15-ig, ha
+  - ba) a (3) bekezdés szerint az adóévre fizetendő adó a (4) bekezdés alapján az adóévre ténylegesen megfizetett adóösszegnél azért kevesebb, mert a kisadózó vállalkozások tételes adójában az adófizetési kötelezettség szünetelésének volt helye,
+  - bb) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, adókedvezményre, a 39/D. § alapján az adóalap vagy a 40/A. § alapján az adó csökkentésére jogosult és az adót csökkenteni kívánja.
 
 (7) A vállalkozó a (6) bekezdés a) pontja szerinti bevallás-benyújtással egyidejűleg:
 
@@ -422,7 +442,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az önkormányzati adóhatósághoz.
 
-(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás napjától számított 15 napon belül jelenti be az önkormányzati adóhatóság számára. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
+(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 15 napon belül vagy január 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik, s utoljára abban az adóévben érvényes, amelyben bejelenti, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
 (10) Az adó alapjának az (1)–(2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 
@@ -502,7 +522,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 (4) Nem kell adóelőleget bejelenteni, bevallani:
 
 - a) az előtársaságnak,
-- b) az adóköteles tevékenységet jogelőd nélkül kezdő vállalkozónak az adókötelezettség keletkezésének adóévében,
+- b) az adóköteles tevékenységet jogelőd nélkül kezdő vállalkozónak az első adóelőleg-fizetési időszakra,
 - c) az adóalanyként megszűnő vállalkozónak, továbbá
 - d) arra az előlegfizetési időpontra, amelyre a vállalkozó már vallott be adóelőleget.
 
@@ -550,6 +570,19 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (3) Az önkormányzati adóhatóság az (1) bekezdés szerinti adatszolgáltatása teljesítésével egyidejűleg az önkormányzat honlapján közzéteszi az adórendelet szövegét, az adórendelet módosításokkal egységes szerkezetbe foglalt szövegét, valamint a rendszeresített bevallási, bejelentkezési nyomtatványokat, az elérhetőségi információkat, feltéve, hogy az önkormányzat honlapot üzemeltet.
 
+### Az adóbevallás-benyújtás, bejelentkezés, változás-bejelentés szabályai
+
+42/C. § (1) Az önkormányzati rendeleti mentességre, kedvezményre nem jogosult, vagy azt igénybe venni nem szándékozó adóalany, bevallás-benyújtásra kötelezett az építményadóról, a telekadóról, a magánszemély kommunális adójáról, a helyi iparűzési adóról szóló adóbevallási kötelezettségét az önkormányzati adóhatóságok által rendszeresíthető bevallási, bejelentési nyomtatványok tartalmáról szóló pénzügyminiszteri rendelet (a továbbiakban: PM rendelet) szerinti, az adónemre vonatkozó bevallási nyomtatványon is teljesítheti.
+
+(2) Az adózó a bejelentkezési, változás-bejelentési kötelezettségét a helyi iparűzési adóban, az idegenforgalmi adóban a PM rendelet szerinti, a bejelentkezésről, változás-bejelentésről szóló nyomtatványon is teljesítheti.
+
+(3) Az (1)–(2) bekezdés szerinti esetben az adózó a nyomtatványon feltünteti
+
+- a) annak az önkormányzatnak az elnevezését, amelynek adóhatóságához bevallási, bejelentkezési, változás-bejelentési kötelezettségét teljesíti, továbbá
+- b) a helyi iparűzési adóról szóló bevallási nyomtatványon azt az adóévet, amelyre a bevallás vonatkozik és az önkormányzat rendeletében meghatározott, az adott adóévre vonatkozó adómértéket.
+
+(4) Az (1)–(2) bekezdésben említett nyomtatványt elektronikus úton csak akkor lehet benyújtani, ha azt az önkormányzat rendelete lehetővé teszi.
+
 ## HARMADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### VI. Fejezet — Átmeneti és hatálybaléptető rendelkezések
@@ -579,11 +612,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 
 (2) A 2011-ben kezdődő adóévben nem állapítható meg mulasztási bírság annak a vezetékes távközlési tevékenységet végző vállalkozónak, amelyik a helyi iparűzési adó bejelentkezési kötelezettségét a bejelentkezésre nyitva álló határidő utolsó napját követő 45. napig teljesíti.
 
-49. § Ha az önkormányzat:
-
-- a) a lakástulajdonra bevezeti az építményadót vagy a kommunális adót, egyidejűleg hatályát veszti a házadó, az út- és közműfejlesztési hozzájárulás,
-- b) az egyéb nem lakás céljára szolgáló építményre bevezeti az építményadót vagy a kommunális adót, vagy az idegenforgalmi adót, egyidejűleg hatályát veszti a nem lakás céljára szolgáló építmények adója, az út- és közműfejlesztési hozzájárulás és a gyógy- és üdülőhelyi díj,
-- c) a beépítetlen belterületi földrészletre bevezeti a telekadót, vagy a kommunális adót, egyidejűleg hatályát veszti a telekhasználati- és igénybevételi díj, az út- és közműfejlesztési hozzájárulás, a telekadó és e földrészletek után a magánszemélyek földadó [36/1976. (X. 17.) MT rendelet] kötelezettsége.
+#### 49. §
 
 50. § Az e törvény alapján bevezetésre kerülő adókkal egyidejűleg hatályukat vesztett rendeletek alapján korábban jogerős határozattal engedélyezett adó, díj és hozzájárulás fizetésének kötelezettsége alóli mentességek, illetőleg kedvezmények a kötelezettségekkel együtt vesztik hatályukat az új adók hatálybalépése napján.
 
@@ -603,29 +632,31 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 - 3. vagyoni értékű jog: a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a földhasználat és a lakásbérlet,
 - 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
-- 5. építmény: a rendeltetésére, szerkezeti megoldására, anyagára és kiterjedésére tekintet nélkül minden olyan helyhez kötött műszaki alkotás, amely a talaj, a víz vagy azok feletti légtér megváltoztatásával, beépítésével jött létre;
-- 6. épület: az olyan építmény, vagy az építmény azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetőleg használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van. Épületrész az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
-- 7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni. Újonnan létrehozott épület/épületrész tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
+- 5. épület: az épített környezet alakításáról és védelméről szóló törvény szerinti olyan építmény vagy annak azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetve használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van;
+- 6. épületrész: az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
+- 7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni. Újonnan létrehozott építmény tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
 - 8. lakás: a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. §-a 1–6. pontjában foglaltak alapján ilyennek minősülő és az ingatlan-nyilvántartásban lakóház, lakóépület, lakás, kastély, villa, udvarház megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró ingatlan;
-- 9. hasznos alapterület: a teljes alapterületnek olyan része, ahol a belmagasság legalább 1,90 m. A teljes alapterületbe a lakáshoz, üdülőhöz tartozó kiegészítő helyiségek, melléképületek, melléképületrészek kivételével valamennyi helyiség összegzett alapterülete, valamint a többszintes lakrészek belső lépcsőjének egy szinten számított vízszintes vetülete is beletartozik. Az épülethez tartozó fedett és három oldalról zárt külső tartózkodók (lodzsa, fedett és oldalt zárt erkélyek), és a fedett terasz, tornác alapterületének 50%-a tartozik a teljes alapterületbe. A lakások esetében a pinceszinten (a csatlakozó terepszint alatt) kialakított helyiségek alapterületének 70%-át kell a teljes alapterületbe számítani.
+- 9. hasznos alapterület: a teljes alapterületnek olyan része, ahol a belmagasság legalább 1,90 m. A teljes alapterületbe a lakáshoz, üdülőhöz tartozó kiegészítő helyiségek, melléképületek, melléképületrészek kivételével valamennyi helyiség összegzett alapterülete, valamint a többszintes lakrészek belső lépcsőjének egy szinten számított vízszintes vetülete is beletartozik. Az építményhez tartozó fedett és három oldalról zárt külső tartózkodók (lodzsa, fedett és oldalt zárt erkélyek), és a fedett terasz, tornác alapterületének 50%-a tartozik a teljes alapterületbe. A lakások esetében a pinceszinten (a csatlakozó terepszint alatt) kialakított helyiségek alapterületének 70%-át kell a teljes alapterületbe számítani.
 - 10. kiegészítő helyiség: a lakáshoz, üdülőhöz tartozó, jellegénél és kialakításánál fogva csak tárolásra alkalmas padlás, pince, ide nem értve a gépjárműtárolót;
 - 11.
-- 12. építmény megszűnése: ha az épületet lebontják, vagy megsemmisül,
+- 12. építmény megszűnése: ha az építményt lebontják, vagy megsemmisül,
 - 13. korrigált forgalmi érték: az illetékekről szóló törvény alkalmazásával megállapított forgalmi érték 50%-a,
-- 14.
+- 14. erdő: az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földterület, továbbá az a földterület, amelyet az Országos Erdőállomány Adattárban erdőként tartanak nyilván;
 - 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
-- 16. telek: az épülettel be nem épített földterület, ide nem értve
-  - a) a halastó kivételével a termőföldről szóló törvény szerint mező-, erdőgazdálkodási művelés alatt álló belterületi földnek minősülő földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll,
-  - b) a termőföldet,
+- 16. telek: az építménnyel be nem épített földterület, ide nem értve
+  - a) a belterületen fekvő termőföldet, feltéve, ha az tényleges mezőgazdasági művelés alatt áll,
+  - b) a külterületen fekvő termőföldet,
   - c) a tanyát,
   - d) a közút területét,
   - e) a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet,
-  - f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet;
-  - g) a halászatról és horgászatról szóló törvény szerinti víztározó területét;
-- 17. termőföld: a halastó kivételével a termőföldről szóló törvény szerinti termőföldnek minősülő földterület;
+  - f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet,
+  - g) a halászatról és horgászatról szóló törvény szerinti víztározó területét,
+  - h) az erdőt,
+  - i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet;
+- 17. termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, fásított terület, halastó művelési ágban nyilvántartott földrészlet;
 - 18. kommunális beruházás: a közmű (a településekre vagy azok jelentős részére kiterjedő elosztó és vezetékrendszerek és az ezekkel kapcsolatos létesítmények, amelyek a fogyasztók vízellátási — ideértve a belvíz-, a csapadék- és szennyvízelvezetési, tisztítási-, villamos energia, hő-, gázenergia és távbeszélési igényeit elégítik ki), valamint az út és járda építés,
-- 19.
-- 20. üdülő: az ingatlan-nyilvántartásban üdülőként (üdülőépület, hétvégi ház, apartman, nyaraló, csónakház) feltüntetett vagy ilyenként feltüntetésre váró épület;
+- 19. termék-előállító üzem: az az állandó jellegű üzleti létesítmény (épület, műtárgy), amelyet az elhelyezésére szolgáló telek utáni adó alanya saját termék előállítására vagy saját termék előállításával összefüggő célra (ideértve különösen a saját előállítású termék tárolását, szállítását, kiszolgálását, a termeléshez kapcsolódó irányító, kiszolgáló tevékenységeket) használ;
+- 20. üdülő: az ingatlan-nyilvántartásban üdülőként (üdülőépület, hétvégi ház, apartman, nyaraló, csónakház) feltüntetett vagy ilyenként feltüntetésre váró építmény;
 - 21. állandó lakos, aki a lakcímbejelentés szabályai szerint nyilvántartásba vett lakóhellyel, tartózkodási hellyel rendelkezik az önkormányzat illetékességi területén,
 - 22. nettó árbevétel:
   - a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó összegével, feltéve ha az így elszámolt regisztrációs adó, energiaadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)–h) alpontokban foglalt eltérésekkel,
@@ -649,7 +680,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 29. szállásdíj: a szálláshely általános forgalmi adóval csökkentett ára a kötelező reggeli és egyéb szolgáltatások nélkül,
 - 30. vendégéjszaka: vendégként eltöltött — éjszakát is magában foglaló vagy így elszámolt — legfeljebb 24 óra,
 - 31. telephely: a) az adóalany olyan állandó üzleti létesítménye – függetlenül a használat jogcímétől –, ahol részben vagy egészben iparűzési tevékenységet folytat, azzal, hogy a telephely kifejezés magában foglalja különösen a gyárat, az üzemet, a műhelyt, a raktárt, a bányát, a kőolaj- vagy földgázkutat, a vízkutat, a szélerőművet (szélkereket), az irodát, a fiókot, a képviseletet, a termőföldet, a hasznosított (bérbe vagy lízingbe adott) ingatlant, az ellenszolgáltatás fejében igénybe vehető közutat, vasúti pályát;
-  - b) azon távközlési tevékenységet végző vállalkozó esetén, amelynek ba) az adóévben a számviteli törvény szerinti nettó árbevétele legalább 75%-ban vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] származik (vezeték nélküli távközlési tevékenységet végző vállalkozó), azon önkormányzat illetékességi területe, ahol az adóév első napján utólag fizetett díjú vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének (vezeték nélküli távközlési szolgáltatást igénybe vevő előfizető) számlázási címe található, bb) az adóévben a számviteli törvény szerinti nettó árbevételének kevesebb, mint 75%-a származik vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] (vezetékes távközlési tevékenységet végző vállalkozó), azon önkormányzat illetékességi területe, ahol az adóév első napján előfizetőjének távközlési szolgáltatást nyújt (vezetékes távközlési szolgáltatást igénybe vevő előfizető), valamint – ha a vállalkozó vezeték nélküli távközlési tevékenységet is végez – azon önkormányzat illetékességi területe, ahol a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének adóév első napján a számlázási címe található,
+  - b) azon távközlési tevékenységet végző vállalkozó esetén, amelynek ba) az adóévben a számviteli törvény szerinti nettó árbevétele legalább 75%-ban vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] származik (vezeték nélküli távközlési tevékenységet végző vállalkozó) baa) az a) pont szerinti telephely és bab) azon önkormányzat illetékességi területe, ahol az adóév első napján utólag fizetett díjú vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének (vezeték nélküli távközlési szolgáltatást igénybe vevő előfizető) számlázási címe található, bb) az adóévben a számviteli törvény szerinti nettó árbevételének kevesebb, mint 75%-a származik vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] (vezetékes távközlési tevékenységet végző vállalkozó), azon önkormányzat illetékességi területe, ahol az adóév első napján előfizetőjének távközlési szolgáltatást nyújt (vezetékes távközlési szolgáltatást igénybe vevő előfizető), valamint – ha a vállalkozó vezeték nélküli távközlési tevékenységet is végez – azon önkormányzat illetékességi területe, ahol a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének adóév első napján a számlázási címe található,
   - c) a villamos energiáról szóló törvény szerinti egyetemes szolgáltató, villamosenergia-kereskedő és villamos energia elosztó hálózati engedélyes, továbbá a földgázellátásról szóló törvény szerinti egyetemes szolgáltató, földgázkereskedő és földgázelosztói engedélyes esetén azon önkormányzat illetékességi területe, ahol villamos energia vagy földgáz értékesítése, illetve a villamos energia vagy földgáz elosztása a végső fogyasztó, a végső felhasználó (a továbbiakban együttesen: a végső fogyasztó) részére történik, feltéve, hogy a villamosenergia-kereskedő, a földgázkereskedő, a villamos energia egyetemes szolgáltató, a földgáz egyetemes szolgáltató, illetve a villamosenergia elosztó hálózati engedélyes, a földgázelosztói engedélyes adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételének legalább 75%-a közvetlenül a végső fogyasztónak történő értékesítésből, illetve a végső fogyasztó számára történő elosztásból származik;
 - 32. alvállalkozói teljesítések értéke: az adóalany által továbbadott (számlázott) olyan alvállalkozói teljesítés értéke, amelynek végzése során az adóalany mind megrendelőjével, mind alvállalkozójával a Polgári Törvénykönyv (Ptk.) szerinti – írásban kötött – vállalkozási szerződéses kapcsolatban áll. Ide értendő annak a – közvetített szolgáltatásnak nem minősülő – szolgáltatásnak az ellenértéke is, amelyet az adóalany az általa értékesített új (a használatbavételi engedély jogerőre emelkedését megelőzően vagy azt követően első ízben értékesített) lakás előállításához a Ptk. szerinti, írásban megkötött vállalkozási szerződés alapján vesz igénybe. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 22. pont a) alpontja szerint jogdíjként, a 36. pont szerint eladott áruk beszerzési értékeként, a 37. pont szerint anyagköltségként vagy a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét nem csökkentette;
 - 33. szociális intézmény: a szociális ellátásokról szóló törvényben meghatározott személyes szociális gondoskodást nyújtó szervezet, vállalkozás,
@@ -755,7 +786,9 @@ kell megosztani a székhely, telephely szerinti önkormányzatok között.
 
 Az adóalap 50%-át a székhelye és a Htv. 52. § 31. pontja szerinti telephely(ek) szerinti települések között az 1.1. vagy a 2.1. pont szerinti megosztási módszer alkalmazásával kell megosztani. Az adóalap másik 50%-át pedig a Htv. 37. § (3) bekezdés szerint létrejött telephelyek szerinti települések között, az adott településen végzett építőipari tevékenységből [Htv. 52. § 24.] származó, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett befejezetlen termelés, félkésztermék, késztermék értéke együttes összegének, a vállalkozó 37. § (3) bekezdés szerint létrejött telephely szerinti valamennyi településen végzett építőipari tevékenységéből származó összes, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett összes befejezetlen termelés, félkésztermék, késztermék értéke együttes összegében képviselt aránya szerint kell megosztani.
 
-2.4.1. A vezeték nélküli távközlési tevékenységet végző vállalkozó – a 3. számú melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője számlázási címe alapján a településen az adóév első napján számlázási címmel rendelkező vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetők számának az összes vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője adóév első napja szerinti számában képviselt aránya szerint osztja meg.
+2.4.1. A vezeték nélküli távközlési tevékenységet végző vállalkozó – a Melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között következők szerint köteles megosztani:
+
+Az adóalap 20%-át a székhelye és a Htv. 52. § 31. pont baa) alpontja szerinti telephely(ek) szerinti települések között az 1. vagy a 2.1. pont szerinti megosztási módszer alkalmazásával kell megosztani. Az adóalap 80%-át pedig a székhelye és a Htv. 52. § 31. pont bab) alpontja szerinti telephelye szerinti települések között a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője számlázási címe alapján a településen az adóév első napján számlázási címmel rendelkező vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetők számának az összes vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője adóév első napja szerinti számában képviselt aránya szerint osztja meg.
 
 2.4.2. A vezetékes távközlési tevékenységet végző vállalkozó – a 3. számú melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között a vezetékes távközlési szolgáltatást igénybe vevő előfizetője részére nyújtott szolgáltatás helyének címe, valamint – ha a vállalkozó vezeték nélküli távközlési szolgáltatást is nyújt – a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője számlázási címe alapján a településen az adóév első napján, a vezetékes vagy vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetők számának az összes, vezetékes és vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője adóév első napja szerinti számában képviselt aránya szerint osztja meg.
 

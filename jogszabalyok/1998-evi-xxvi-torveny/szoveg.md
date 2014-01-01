@@ -63,17 +63,17 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### Közszolgáltatásokhoz való egyenlő esélyű hozzáférés
 
-7/A. § (1) A fogyatékos személy számára az e törvényben meghatározottak szerint – figyelembe véve a különböző fogyatékossági csoportok eltérő speciális szükségleteit – biztosítani kell a közszolgáltatásokhoz való egyenlő esélyű hozzáférést.
+7/A. § (1) A fogyatékos személy számára – figyelembe véve a különböző fogyatékossági csoportok eltérő speciális szükségleteit – biztosítani kell a közszolgáltatásokhoz való egyenlő esélyű hozzáférést.
 
 (2) A közszolgáltatások engedélyezésére vonatkozó külön jogszabályok szerinti hatósági eljárás során az egyenlő esélyű hozzáférés szempontjának érvényesülését biztosítani kell.
 
-7/B. § (1) A 4. § fa)–fb) alpontjában meghatározott – 2007. április 1-jén már működő – közszolgáltatások vonatkozásában az egyenlő esélyű hozzáférés megvalósításának határideje 2010. december 31.
+7/B. § (1)
 
-(2) A 4. § fc) alpontja szerinti – 2007. április 1-jén már működő – közszolgáltatások esetében az egyenlő esélyű hozzáférés megvalósításának követelményét a mellékletben rögzített évenkénti ütemezés szerint kell végrehajtani.
+(2)
 
 (3) A nemzeti köznevelésről szóló 2011. évi CXC. törvény alapján elkészített köznevelés-fejlesztési tervben meg kell határozni, hogy az állam által nyújtott közszolgáltatások esetén milyen módon kerülnek megvalósításra az egyenlő esélyű hozzáférés feltételei.
 
-(4) A 4. § fd)–fe) alpontja szerinti – 2007. április 1-jén már működő – közszolgáltatások esetében az egyenlő esélyű hozzáférést a közszolgáltatást nyújtó épület nyilvánosság számára nyitva álló részei tekintetében 2013. december 31-éig kell biztosítani.
+(4)
 
 (5) A 4. § fa)–fc) alpontjában meghatározott közszolgáltatások egyenlő esélyű hozzáférhetővé tételének megteremtését az európai uniós társfinanszírozással megvalósuló fejlesztések támogatják.
 
@@ -194,7 +194,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 - a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel, valamint
 - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel,
-- c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel.
+- c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel,
+- d) az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár.
 
 (3) A súlyosan fogyatékos személy nem jogosult fogyatékossági támogatásra ha
 
@@ -283,7 +284,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 23/F. § (1) A kincstár a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a jogosult természetes személyazonosító adatait;
-- b) a jogosult állampolgárságát, illetőleg bevándorolt, letelepedett vagy menekült jogállását;
+- b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült vagy hontalan jogállását;
 - c) a jogosult belföldi lakó , és/vagy tartózkodási helyét;
 - d) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 - e) a fogyatékossági támogatás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
@@ -343,7 +344,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2) A vakok személyi járadéka 2013. június 1-jétől havi 16 160 forint összegben jár. A kincstár a 2013. június hónapra járó vakok személyi járadékát a jogosultak számára már emelt összegben folyósítja. A vakok személyi járadékát 2014. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell.
 
-29/B. § Az e törvény alapján létrehozott, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosításáról szóló 2013. évi LXII. törvény hatálybalépésének napján működő Országos Fogyatékosügyi Tanács tagjainak megbízatása 2013. szeptember 30-áig szól.
+29/B. §
 
 30. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
@@ -361,7 +362,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk,
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikke,
-- c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont.
+- c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont,
+- d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés e) pont.
 
 32. § (1) E törvény 29. §-a a légi járműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -370,16 +372,3 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 (3) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet az 1998. évi XXVI. törvényhez
-
-#### A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósításának ütemezése az önkormányzatok, illetőleg önkormányzati feladatellátást biztosító egyes közszolgáltatások esetében
-
-| Az egyenlő esélyű hozzáférés feltételeinek megteremtésére kötelezett önkormányzatok | Kötelezettek száma | 2008. december 31. | 2009. december 31. |  |  |  |  |  |  |  | 2010. december 31. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| egészségügyi alapellátás | szociális alapellátás | óvoda | alapfokú iskola | középfokú iskola | gyermek- védelmi alapellátás | gyermek- védelmi szakellátás | szociális szakellátás | egészségügyi szakellátás | önkormány- zati ügyfélszol- gálat |
-| 2 ezer fő alatti település önkormányzata | 2349 | 1 |  |  |  |  |  |  |  |  | 1 |
-| 2–5 ezer fő közötti település önkormányzata | 509 | 1 | 1 | 1 | 1 |  |  |  |  |  | 1 |
-| 5–10 ezer fő közötti település önkormányzata | 144 | 1 | 1 | 1 | 1 |  |  |  |  |  | 1 |
-| 10–20 ezer fő közötti település önkormányzata | 80 | 1 | 1 | 1 | 1 |  | 1 |  |  |  | 1 |
-| 20–30 ezer fő közötti település önkormányzata | 25 | 1 | 1 | 1 | 1 |  | 1 |  |  |  | 1 |
-| 30 ezer fő feletti település önkormányzata, ideértve a főváros kerületeit is | 61 | 1 | 1 | 1 | 1 |  | 1 |  |  |  | 1 |
-| megyei (fővárosi) önkormányzat | 20 |  |  | 1 | 1 | 1 |  | 1 | 1 | 1 | 1 |

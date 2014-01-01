@@ -14,7 +14,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 2. § (1) A jelzálog-hitelintézet szakosított hitelintézet.
 
-(2) A jelzálog-hitelintézet alapítására, működésére, felügyeletére a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.), a jelzálog-hitelintézet befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A jelzálog-hitelintézet alapítására, működésére, felügyeletére a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.), a jelzálog-hitelintézet befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) Jelzálog-hitelintézet legalább hárommilliárd forint induló tőkével alapítható, melyet pénzben kell befizetni.
 
@@ -214,7 +214,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - e) a Magyar Állam készfizető kezességvállalása mellett kibocsátott értékpapír,
 - f) azon értékpapírok, amelyek tőke- és kamattörlesztéséért a c) és d) pontban felsorolt kibocsátók valamelyike kezességet vállalt,
 - g) a Magyar Állam készfizető kezességvállalása mellett nyújtott – a 3. § (3) bekezdésében szabályozott körbe nem tartozó – hitel,
-- h) a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló 196/2007. (VII. 30.) Korm. rendelet 14. §-ának (1) bekezdése szerint fedezett kötvénynek minősülő azon értékpapír, amelyet valamely tagállam nemzeti bankja, vagy az Európai Központi Bank elfogadható fedezetnek minősített, ide nem értve a jelzálog-hitelintézet saját kibocsátású jelzálogleveleit, valamint a Hpt. 2. számú mellékletének II/5. pontja értelmében a jelzálog-hitelintézettel szoros kapcsolatban álló hitelintézet vagy befektetési vállalkozás által kibocsátott fedezett kötvényt.
+- h) a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 129. cikke szerint fedezett kötvénynek minősülő azon értékpapír, amelyet valamely tagállam nemzeti bankja, vagy az Európai Központi Bank elfogadható fedezetnek minősített, ide nem értve a jelzálog-hitelintézet saját kibocsátású jelzálogleveleit, valamint a Hpt. 6. § (1) bekezdésében meghatározott, a jelzálog-hitelintézettel szoros kapcsolatban álló hitelintézet vagy befektetési vállalkozás által kibocsátott fedezett kötvényt.
 
 (12) A (11) bekezdés c), d), f) és h) pontjaiban felsorolt egyazon kötelezettel szembeni összes követelés pótfedezetként legfeljebb a jelzálog-hitelintézetek által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 2%-áig vehető figyelembe. A (11) bekezdés h) pontjában felsorolt eszközök együttesen legfeljebb a pótfedezetek összegének 25%-áig vehetők figyelembe pótfedezetként, illetve összegük nem haladhatja meg a jelzálog-hitelintézet által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 5%-át.
 
@@ -264,7 +264,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (2) Vagyonellenőri megbízatást csak könyvvizsgáló társaság vagy természetes személy kaphat.
 
-(3) Vagyonellenőri feladatokkal csak olyan könyvvizsgáló társaság bízható meg, amely rendelkezik a Hpt. 133. § (1) bekezdésében meghatározott feltételekkel és a jelzálog-hitelintézet számára nem végez más könyvvizsgálói feladatot.
+(3) Vagyonellenőri feladatokkal csak olyan könyvvizsgáló társaság bízható meg, amely rendelkezik a Hpt. 260. § (1) bekezdésében meghatározott feltételekkel és a jelzálog-hitelintézet számára nem végez más könyvvizsgálói feladatot.
 
 (4) Vagyonellenőri megbízást csak olyan természetes személy kaphat, aki
 

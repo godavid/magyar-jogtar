@@ -43,12 +43,13 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 - d) honosítása Magyarország közbiztonságát és nemzetbiztonságát nem sérti;
 - e) igazolja, hogy alkotmányos alapismeretekből magyar nyelven eredményes vizsgát tett, vagy ez alól a törvény alapján mentesül.
 
-(2) Kedvezményesen honosítható az a nem magyar állampolgár, aki a kérelme előterjesztését megelőzően legalább három évig folyamatosan Magyarországon lakott, és az (1) bekezdés b)—e) pontjában meghatározott feltételek fennállnak, ha
+(2) Kedvezményesen honosítható az a nem magyar állampolgár, aki a kérelme előterjesztését megelőzően legalább három évig folyamatosan Magyarországon lakott, és az (1) bekezdés b)–e) pontjában meghatározott feltételek fennállnak, ha
 
-- a) magyar állampolgárral legalább három éve érvényes házasságban él, vagy házassága a házastárs halálával szűnt meg;
-- b) kiskorú gyermeke magyar állampolgár;
-- c) magyar állampolgár fogadta örökbe, vagy
-- d) magyar hatóság menekültként elismerte.
+- a) magyar állampolgárral legalább három éve érvényes házasságban él, vagy házassága a házastárs halálával szűnt meg,
+- b) kiskorú gyermeke magyar állampolgár,
+- c) magyar állampolgár fogadta örökbe,
+- d) magyar hatóság menekültként elismerte vagy
+- e) hontalan.
 
 (3) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén – kérelmére – kedvezményesen honosítható az a nem magyar állampolgár, akinek felmenője magyar állampolgár volt vagy valószínűsíti magyarországi származását, és magyar nyelvtudását igazolja.
 
@@ -64,7 +65,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 - a) az ország területén született;
 - b) kiskorúsága idején létesített magyarországi lakóhelyet;
-- c) hontalan.
+- c)
 
 (5) Az (1)–(2) és (4) bekezdésekben meghatározott időtartamú, folyamatos magyarországi lakóhelytől kiskorú tekintetében el lehet tekinteni, ha honosítását a szülőjével együtt kéri, vagy szülője a magyar állampolgárságot megszerezte.
 

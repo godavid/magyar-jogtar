@@ -689,6 +689,15 @@ kell csatolnia.
 
 (5) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt.
 
+(5) Az elsőfokú döntést hozó hatóság a fellebbezés és az iratok felterjesztését követően
+
+- a) az ügyfélnek az elsőfokú eljárást lezáró döntés meghozataláig előterjesztett írásbeli kérelmére a nem fellebbező ügyfelet, és
+- b) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén a nem fellebbező tulajdonostársat
+
+tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem vált jogerőssé, illetve arról, hogy a fellebbezést valamennyi fellebbező ügyfél visszavonta.
+
+(6) Nem kell az (5) bekezdés b) pontját alkalmazni abban az esetben, ha az elővásárlási jog jogosultjával a tulajdonjog megszerzésére irányuló szerződést, vételi ajánlatot kizárólag a külön jogszabályban meghatározott hirdetményi úton kell közölni.
+
 52/A. § (1) Kézbesítettnek kell tekinteni a határozatot a kézbesítési címre, ennek hiányában az ingatlan-nyilvántartásban vagy a bejegyzés alapjául szolgáló okiratban megjelölt lakcímre történő postai kézbesítés második megkísérlésének, illetőleg a második figyelmeztetés postafiókba (postaládába) helyezésének napját követő ötödik munkanapon.
 
 (2) Az az adott ügyben érintett ügyfél, akinek jogi érdeke fűződik a földhivatali határozat kézbesítéséhez, saját költségére kérheti a határozatot tartalmazó irat végrehajtói kézbesítését az ingatlan tulajdonosa (érintett tulajdonosa) és annak a részére, akinek bejegyzett joga keletkezett, módosult vagy megszűnt. A végrehajtói kézbesítés eredményéről a kézbesítést kérő és a földhivatal kap értesítést. Ha a végrehajtói kézbesítés során a címzett az irat másolatát átvette, tizenöt napon belül kezdeményezheti a kézbesítési vélelem megdöntését.
@@ -806,6 +815,8 @@ kell csatolnia.
 - e) a jelzáloggal biztosított, illetőleg önálló zálogjogba foglalt követelés érvényesítése iránti, valamint
 - f) az ingatlan határvonalával és területével kapcsolatos kiigazítási per megindítása tényének feljegyzése iránt.
 
+(1a) A büntetőeljárásról szóló 1998. évi XIX. törvény 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igény esetén, ha az (1) bekezdés a) vagy b) pontjában foglalt feltételek fennállnak, a bíróság az (1) bekezdés szerinti végzést hivatalból hozza meg.
+
 (2) A bejegyzéssel vagy az alapjául szolgáló okirattal kapcsolatban elkövetett bűncselekmény miatt indult büntetőeljárásról a bíróság e tény feljegyzése végett értesíti az ingatlanügyi hatóságot.
 
 (3) A feljegyzés alapjául szolgáló végzés hatályon kívül helyezéséről szóló jogerős végzést a bíróság megküldi az ingatlanügyi hatóságnak a feljegyzés törlése céljából.
@@ -852,7 +863,7 @@ kell csatolnia.
 
 (2) A közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározott jogkörében eljárva a tulajdoni lap tartalmáról tanúsítványt állíthat ki, amely a hiteles tulajdonilap-másolattal azonos hatályú.
 
-(3)
+(3) Az integrált ügyfélszolgálat (a továbbiakban: kormányablak) külön jogszabályban meghatározottak szerint hiteles tulajdonilap-másolatot adhat ki.
 
 (4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
 
@@ -935,7 +946,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (2a) A naplónak minden esetben tartalmaznia kell a lekérdezés időpontját, a lekérdezést végző személy nevét, a lekérdezett ingatlan pontos megjelölését (település neve, helyrajzi szám), díjmentes lekérdezés esetén a lekérdezés célját, valamint a díjmentességet megalapozó jogszabályi rendelkezésre való hivatkozást.
 
-(3)
+(3) A kormányablak által történő tulajdonilap-másolat szolgáltatása esetén naplót kell készíteni, amelyet öt évig meg kell őrizni. A naplóban rögzíteni kell az adatigénylő természetes személyazonosító adatait, illetve a jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet nevét és a képviseletében eljáró személy természetes személyazonosító adatait. A rögzített adatokat a kormányablak a személyazonosság és a képviseleti jogosultság igazolására szolgáló okmányból ellenőrzi.
 
 (4) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevők adatlekérdezéseinek jogszerűségét és a biztonsági előírások betartását az ingatlanügyi hatóság és a rendszer üzemeltetője a (2)–(2a) bekezdés szerint vezetett naplóból ellenőrizheti. Az adatlekérdezésre vonatkozó szabályok, illetve a biztonsági előírások megsértése esetén, a hozzáférési jogosultság visszavonása tárgyában – az ingatlanügyi hatóság, illetve a rendszer üzemeltetőjének javaslata alapján – az ingatlanügyi hatóság határozatot hoz.
 

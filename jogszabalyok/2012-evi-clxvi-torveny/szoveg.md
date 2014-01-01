@@ -102,7 +102,7 @@ a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt
 
 8. § (1) A hivatásos katasztrófavédelmi szerv központi szerve – a (2) bekezdésben meghatározott kivétellel – az ellenőrzést koordináló szerv. A hivatásos katasztrófavédelmi szerv központi szerve az európai létfontosságú rendszerelemet vagy a nemzeti létfontosságú rendszerelemet rendszeresen ellenőrzi.
 
-(2) A honvédelmi létfontosságú rendszerelemek tekintetében az ellenőrzést koordináló szervet és a helyszíni ellenőrzést lefolytató szervet a Kormány rendeletben jelöli ki.
+(2) A honvédelmi létfontosságú rendszerelemek és a hivatásos katasztrófavédelmi szerv létfontosságú rendszerelemei tekintetében az ellenőrzést koordináló szervet és a helyszíni ellenőrzést lefolytató szervet a Kormány rendeletben jelöli ki.
 
 (3) A helyszíni ellenőrzést lefolytató szerv az európai létfontosságú rendszerelemet vagy a nemzeti létfontosságú rendszerelemet legalább kétévenként helyszíni ellenőrzéssel ellenőrzi. A helyszíni ellenőrzést a nemzetbiztonsági szempontok figyelembevételével kell lefolytatni.
 
@@ -225,3 +225,26 @@ kezeli.
 | 23 | oltóanyag- és gyógyszergyártás (kivéve nukleáris létesítmények) |
 
 ### 3. melléklet a 2012. évi CLXVI. törvényhez
+
+|  | A | B |
+| --- | --- | --- |
+|  | ÁGAZAT | ALÁGAZAT |
+| 24 | Infokommunikációs technológiák | információs rendszerek és hálózatok |
+| 25 | eszköz-, automatikai és ellenőrzési rendszerek |
+| 26 | internet-infrastruktúra és hozzáférés |
+| 27 | vezetékes és mobil távközlési szolgáltatások |
+| 28 | rádiós távközlés és navigáció |
+| 29 | műholdas távközlés és navigáció |
+| 30 | műsorszórás |
+| 31 | postai szolgáltatások |
+| 32 | kormányzati informatikai, elektronikus hálózatok |
+| 33 | Víz | ivóvíz-szolgáltatás |
+| 34 | felszíni és felszín alatti vizek minőségének ellenőrzése |
+| 35 | szennyvízelvezetés és -tisztítás |
+| 36 | vízbázisok védelme |
+| 37 | árvízi védművek, gátak |
+| 38 | Jogrend – Kormányzat | kormányzati rendszerek, létesítmények, eszközök |
+| 39 | közigazgatási szolgáltatások |
+| 40 | igazságszolgáltatás |
+| 41 | Közbiztonság – Védelem | rendvédelmi szervek infrastruktúrái |
+| 42 | honvédelmi rendszerek és létesítmények |

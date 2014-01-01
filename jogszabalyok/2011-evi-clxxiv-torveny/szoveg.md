@@ -140,13 +140,19 @@ a közigazgatási hatósági eljárás és szolgáltatás általános szabályai
 
 47. §
 
-48. §
+48. § A Ket. 71. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az ügyfél kérelme jog megszerzésére irányul és ellenérdekű ügyfél az első fokú eljárásban nem vett részt,
+
+a) az ügyfelet megilleti a kérelmezett jog gyakorlása, ha a hatóság az előírt határidőben nem hoz döntést,
+
+b) a szakhatóság hozzájárulását megadottnak kell tekinteni, ha a szakhatóság az előírt határidőn belül nem ad ki állásfoglalást.”
 
 49. §
 
 50. §
 
-51. §
+51. § A Ket. 20. § (5) bekezdésében a „harminc” szövegrész helyébe a „huszonegy” szöveg, 33. § (1) bekezdésében a „harminc” szövegrész helyébe a „huszonegy” szöveg, 33. § (7) bekezdésében a „harminc” szövegrész helyébe a „huszonegy” szöveg lép.
 
 52. §
 

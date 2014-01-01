@@ -4,17 +4,19 @@ a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról 
 
 1. §
 
-2. §
+2. § A Fot. 7/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A fogyatékos személy számára – figyelembe véve a különböző fogyatékossági csoportok eltérő speciális szükségleteit – biztosítani kell a közszolgáltatásokhoz való egyenlő esélyű hozzáférést.”
 
 3–9. §
 
 10. § (1) Hatályát veszti a Fot.
 
-- a)
+- a) 7/B. § (1), (2) és (4) bekezdése,
 - b)
-- c)
+- c) 29/B. §-a,
 - d)
-- e)
+- e) melléklete.
 
 (2)
 

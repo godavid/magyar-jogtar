@@ -729,7 +729,7 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 (2) Az (1) bekezdésben foglaltaktól eltérően a nemzetbiztonsági ellenőrzés kezdeményezésére a 74. § i) pontjának
 
 - a) if) és ig) alpontjában megjelölt személy esetén a köztársasági elnök,
-- b) ie), il), im) és it) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
+- b) ie), il), im), it) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
 - c) ib) és id) alpontjában megjelölt személy esetén a miniszterelnök,
 - d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
 - e) ij) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter,
@@ -908,7 +908,8 @@ azt jóváhagyja.
   - ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
   - is) az 55. §-ban meghatározott kijelölt ügyész;
   - it) a Független Rendészeti Panasztestület tagja;
-  - iu) az Országgyűlési Őrség személyi állománya.
+  - iu) az Országgyűlési Őrség személyi állománya;
+  - iv) a Nemzeti Emlékezet Bizottsága tagja.
 
 75. § (1)
 

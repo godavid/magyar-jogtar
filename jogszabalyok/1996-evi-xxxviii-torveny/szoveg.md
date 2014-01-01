@@ -505,14 +505,14 @@ Külföldi hatóság megkereséseeljárási jogsegély iránt
 
 (2) Az (1) bekezdésben meghatározott megkeresésekhez mellékelni kell a bíróság elrendelő határozatának kiadmányát vagy hiteles másolatát.
 
-(3) Ha nemzetközi szerződés lehetővé teszi, az (1) bekezdésben meghatározott megkereséseket sürgős esetben az igazságügyért felelős miniszter
+(3) Ha nemzetközi szerződés lehetővé teszi, az (1) bekezdésben meghatározott megkereséseket sürgős esetben az igazságügyért felelős miniszter vagy a legfőbb ügyész
 
 - a) a megkeresett állam igazságügyi hatóságánál közvetlenül, vagy
 - b) az Interpol útján
 
 is előterjesztheti.
 
-(4) Ha a megkeresés előterjesztése a (3) bekezdés a) pontja szerint történik, az igazságügyért felelős miniszter a megkeresés előterjesztésével egyidejűleg a külföldi állam központi hatóságának megküldi az iratok másolatát.
+(4) Ha a megkeresés előterjesztése a (3) bekezdés a) pontja szerint történik, az igazságügyért felelős miniszter vagy a legfőbb ügyész a megkeresés előterjesztésével egyidejűleg a külföldi állam központi hatóságának megküldi az iratok másolatát.
 
 80. § (1) Az eljárási jogsegély iránti megkeresésnek a 76. § (2) bekezdésében felsorolt adatokon kívül tartalmaznia kell a megkeresés szakszerű elintézéséhez szükséges adatokat.
 

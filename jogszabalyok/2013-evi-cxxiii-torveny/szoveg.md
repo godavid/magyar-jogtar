@@ -6,11 +6,11 @@ egyes közteherviselési kötelezettséget előíró törvények módosításár
 
 1–2. §
 
-3. §
+3. § Hatályát veszti a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 65. § (5) bekezdése.
 
 4–10. §
 
-11. §
+11. § Hatályát veszti a Pti. törvény 11. § (3) bekezdése.
 
 #### 2. Záró rendelkezések
 

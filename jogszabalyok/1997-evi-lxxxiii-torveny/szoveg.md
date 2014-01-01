@@ -10,7 +10,7 @@ Az Országgyűlés az Alaptörvényben foglalt elvekből kiindulva, az esélyegy
 
 1. § (1) E törvény hatálya
 
-- a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosított, továbbá egészségügyi szolgáltatás igénybevételére, valamint baleseti ellátásra és szerződés alapján egyes egészségbiztosítási ellátásokra jogosult személyekre,
+- a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosított, továbbá egészségügyi szolgáltatás igénybevételére, illetve baleseti ellátásra jogosult személyekre, valamint szerződés vagy törvény rendelkezése alapján egyes egészségbiztosítási ellátásokra jogosult személyekre,
 - b) az e törvény szerinti határon átnyúló egészségügyi ellátást igénybe vevő uniós betegre,
 - c) a Tbj. szerint társadalombiztosítási járulékot fizető személyekre és szervezetekre,
 - d) az egészségbiztosítási ellátások teljesítésében szerződés alapján részt vevő szolgáltatókra,
@@ -75,7 +75,8 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 - s) határon átnyúló egészségügyi ellátás: a tartós ápolási-gondozási egészségügyi szolgáltatások, a szervátültetés céljából történő szervelosztás és szervhez jutás, továbbá a fertőző betegségek elleni közfinanszírozott oltási programok kivételével:
   - sa) a Magyarországon vagy magyar egészségügyi szolgáltató által uniós betegnek nyújtott egészségügyi szolgáltatás, vagy
   - sb) a biztosított által – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az Európai Unió más tagállamában vagy az ott letelepedett szolgáltatónál igénybevett egészségügyi ellátás, amelyet a biztosított nem az uniós rendeletek alapján vesz igénybe.
-- t) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakban a biztosított által elért, a Tbj. 19. § (3) bekezdése szerint fizetendő pénzbeli egészségbiztosítási járulék alapját képező jövedelem.
+- t) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakban a biztosított által elért, a Tbj. 19. § (3) bekezdése szerint fizetendő pénzbeli egészségbiztosítási járulék alapját képező jövedelem,
+- u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont.
 
 5/C. § Az 5/B. §-ban meg nem határozott fogalmak tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ában foglaltakat kell alkalmazni.
 
@@ -360,6 +361,8 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (3b) A finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a biztosítottnak nem minősülő betegek ellátása – a sürgős szükség esetének kivételével – nem eredményezheti a biztosítottak – várólista illetve betegfogadási lista szerinti – várakozási idejének meghosszabbodását.
 
+(3c) A (3a) bekezdés e) pontja szerinti esetben a biztosítottat intézményi előjegyzési listára kell felvenni.
+
 (4) A keresőképtelen biztosítottat – a (3) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
 
 (5) A transzplantációs várólistára való felvételre jogosult:
@@ -380,6 +383,10 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (8) A biztosítottat a várólistáról vagy betegfogadási listáról törölni kell, ha egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi.
 
+(9) Az intézményi várólistát vezető személy gondoskodik a biztosított intézményi várólistára történő felvételéről és az intézményi előjegyzési listából történő egyidejű törléséről, ha az intézményi várólista szerint adható legkorábbi időpont eléri vagy meghaladja a beteg kérésére az intézményi előjegyzési listában rögzített időpontot.
+
+(10) Az intézményi előjegyzési lista tekintetében a (3c) és (9) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
+
 20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait (családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel), az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni.
 
 (2) A központi várólistát kormányrendeletben kijelölt szerv működteti. A kormányrendeletben kijelölt szerv a működtetéshez a külön jogszabályban meghatározott közreműködőt vehet igénybe. Az intézményi várólistát az adott ellátást nyújtó egészségügyi szolgáltató szervezeti és működési szabályzatában e feladatra kijelölt személy vezeti.
@@ -397,6 +404,8 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 (8) A betegfogadási lista külön jogszabályban meghatározottak szerint összesített statisztikai adatait – kizárólag személyazonosításra alkalmatlan módon – az egészségbiztosító honlapján közzé kell tenni.
 
 (9) Az országos várólista-nyilvántartás az intézményi várólista alapján ellátást igénybe vevő biztosítottnak az (1) bekezdés szerinti személyazonosító adatait, egyedi azonosítóját, az igénybevételre kerülő ellátás megjelölését, az ellátást nyújtó egészségügyi szolgáltató megnevezését és az ismertté válása esetén az ellátás igénybevételének időpontját tartalmazza. Az országos várólista-nyilvántartás az adatokat betegútszervezés céljából az ellátás elvégzésének az ellátást nyújtó egészségügyi szolgáltató általi – külön jogszabályban foglaltak szerinti – jelentéséig tartalmazhatja. Betegútelemzés és a kapacitáskihasználtság elemzése céljából személyazonosításra alkalmatlan módon további négy évig kezelhetőek az adatok.
+
+(10) Ha a 30. § (1) bekezdése szerinti szerződéssel rendelkező egészségügyi szolgáltató nem teljesíti a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos – jogszabályon vagy az egészségbiztosítóval kötött szerződésén alapuló – nyilvántartási, jelentési vagy adatszolgáltatási kötelezettségét, az egészségbiztosító az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott mértékben és ideig visszatartja az egészségügyi szolgáltatót megillető finanszírozásnak a kötelezettségszegéssel érintett részét, illetve az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott összeggel csökkenti az egészségügyi szolgáltatót megillető finanszírozást a kötelezettségszegés megszüntetéséig.
 
 ### 2. CÍM — Árhoz nyújtott támogatással igénybe vehető
 
@@ -556,7 +565,7 @@ kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre 
 
 (2) Amennyiben a biztosított munkáltatója a Tbj. szerinti biztosítási jogviszony fenntartása mellett egybefüggően három hónapot meghaladó időtartamra a biztosítottat harmadik állam területén foglalkoztatja, és ez idő alatt a biztosított, illetve a vele együtt harmadik állam területén tartózkodó eltartott házastársa és gyermeke a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást, továbbá sürgősségi betegszállítást indokoltan vesz igénybe harmadik állam területén lévő tartózkodási helyén, az egészségbiztosító a felmerült és igazolt költségeket, az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
 
-(3) A biztosított egészségügyi szolgáltatást vehet igénybe EGT tagállamban az uniós rendeletek rendelkezései szerint, valamint az Európai Unió más tagállamában a határon átnyúló egészségügyi ellátás keretében. Amennyiben a biztosított mind az uniós rendeletek alapján, mind a határon átnyúló egészségügyi ellátás keretében jogosult egészségügyi ellátásra, a biztosított eltérő rendelkezése hiányában az uniós rendeleteket kell alkalmazni.
+(3) A biztosított – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – egészségügyi szolgáltatást vehet igénybe EGT tagállamban az uniós rendeletek, nemzetközi egyezmény hatálya alá tartozó állam területén a nemzetközi egyezmény rendelkezései szerint, valamint az Európai Unió más tagállamában a határon átnyúló egészségügyi ellátás keretében. Amennyiben a biztosított mind az uniós rendeletek alapján, mind a határon átnyúló egészségügyi ellátás keretében jogosult egészségügyi ellátásra, a biztosított eltérő rendelkezése hiányában az uniós rendeleteket kell alkalmazni.
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 
@@ -687,21 +696,23 @@ igazolja.
 
 (8) Amennyiben az egészségügyi szolgáltató a (7) bekezdésben meghatározott kötelezettségének legkésőbb a köztartozás esedékessége időpontjának lejártától, illetve a lejárt esedékességű köztartozásában bekövetkezett változás időpontjától számított 30 napon belül nem tesz eleget, illetőleg ha a lejárt esedékességű köztartozását 90 napon belül nem egyenlíti ki, a finanszírozási szerződését fel kell mondani.
 
-(9) Az egészségügyi szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató negyedévente, a tárgyidőszakot követő 30 napon belül köteles
+(9) A fekvőbeteg-szakellátást és a heti 200 szakorvosi óránál magasabb óraszámmal rendelkező járóbeteg-szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató negyedévente, a tárgyidőszakot követő 30 napon belül köteles
 
 - a) a bevételeire,
 - b) a ráfordításaira,
 - c) a követeléseire,
-- d) a kötelezettségei állományára, azok korosítására,
+- d)
 - e) a pénzeszközállományára,
 - f) a készletállományára és
 - g) a beruházásaira vonatkozó – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. §-a alapján üzleti titoknak nem minősülő – adatokat az egészségbiztosító számára megküldeni. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 15 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
 
-(10) Amennyiben az egészségügyi szolgáltató a (9) bekezdés szerinti kötelezettségét határidőn belül nem teljesíti, az egészségbiztosító új határidő kitűzésével és a mulasztás (11), illetve (12) bekezdés szerinti következményeiről történő tájékoztatással felszólítja az egészségügyi szolgáltatót a (9) bekezdés szerinti kötelezettsége teljesítésére. A felszólítással egyidejűleg – annak tényéről – értesíteni kell az egészségügyi szolgáltató fenntartóját is.
+(9a) A fekvőbeteg-szakellátást és a heti 200 szakorvosi óránál magasabb óraszámmal rendelkező járóbeteg-szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató a kötelezettségei állományára vonatkozó, üzleti titoknak nem minősülő adatokat – a fizetési határidő lejártától eltelt idő szerint csoportosított bontásban – havonta, a tárgyhónapot követő hónap ötödik napjáig megküldi az egészségbiztosító számára, az egészségbiztosító által meghatározott formai követelmények szerint. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 5 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
 
-(11) Amennyiben az egészségügyi szolgáltató a (10) bekezdés szerinti felhívására sem teljesíti az abban megadott határidőn belül a (9) bekezdésben előírt kötelezettséget, az egészségbiztosító – az e törvény végrehajtásáról szolgáló kormányrendeletben meghatározott összegű – bírságot szab ki, azzal, hogy az nem mentesíti az egészségügyi szolgáltatót a (9) bekezdés szerinti kötelezettségének teljesítése alól.
+(10) Amennyiben az egészségügyi szolgáltató a (9) és a (9a) bekezdés szerinti kötelezettségét határidőn belül nem teljesíti, az egészségbiztosító új határidő kitűzésével felszólítja az egészségügyi szolgáltatót a (9) és a (9a) bekezdés szerinti kötelezettsége teljesítésére. A felszólítással egyidejűleg – annak tényéről – értesíteni kell az egészségügyi szolgáltató fenntartóját is.
 
-(12) Amennyiben az egészségügyi szolgáltató a (11) bekezdésben foglalt bírság kiszabását követő 15 napon belül sem tesz eleget a (9) bekezdés szerinti kötelezettségének, az egészségbiztosító – az egészségbiztosításért felelős miniszter egyetértésével – felmondja a szolgáltató finanszírozási szerződését.
+(11)
+
+(12)
 
 32. § (1) A nem finanszírozott egészségügyi szolgáltató orvosával az egészségbiztosító – külön jogszabályban foglaltak szerint – gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító szerződést köt, amennyiben az orvos
 
@@ -955,25 +966,25 @@ PÉNZBELI ELLÁTÁSAI
 
 ### Általános rendelkezések
 
-39. § (1) Az, aki ugyanazon biztosítási jogviszony alapján egyidejűleg táppénzre vagy baleseti táppénzre és terhességi-gyermekágyi segélyre, illetőleg gyermekgondozási díjra is jogosult, választása szerint csak az egyik ellátást veheti igénybe.
+39. § (1) Az, aki ugyanazon biztosítási jogviszony alapján egyidejűleg táppénzre vagy baleseti táppénzre, terhességi-gyermekágyi segélyre, illetve gyermekgondozási díjra is jogosult, választása szerint – az e törvényben foglalt kivételekkel – csak az egyik ellátást veheti igénybe.
 
-(2) Az, aki egyidejűleg gyermekgondozási segélyre, gyermeknevelési támogatásra (a továbbiakban együtt: gyermekgondozási támogatás) és az (1) bekezdés szerinti ellátásokra is jogosult, választása szerint csak az egyik ellátást veheti igénybe, kivéve azt a személyt, aki gyermekgondozási támogatás igénybevétele mellett munkát vállal és keresőképtelenségére tekintettel táppénzre vagy baleseti táppénzre jogosult.
+(2) Az, aki ugyanazon gyermek jogán egyidejűleg gyermekgondozási segélyre, gyermeknevelési támogatásra (a továbbiakban együtt: gyermekgondozási támogatás) és az (1) bekezdés szerinti ellátásokra is jogosult, választása szerint csak az egyik ellátást veheti igénybe, kivéve azt a személyt, aki gyermekgondozási támogatás, illetve gyermekgondozási díj igénybevétele mellett munkát vállal és keresőképtelenségére tekintettel táppénzre vagy baleseti táppénzre jogosult.
 
-(3) A szülők közös háztartásában élő gyermeke után egyidejűleg csak az egyik szülő jogosult táppénzre, gyermekgondozási díjra.
+(3) Ha a szülők a közös háztartásukban élő gyermekük után egyidejűleg jogosultak táppénzre, terhességi-gyermekágyi segélyre, gyermekgondozási díjra, valamint gyermekgondozási támogatásra, választásuk szerint – a (7) bekezdésben foglaltakat kivéve – az ellátást csak az egyik szülő veheti igénybe.
 
-(4) Ha a szülők a közös háztartásban élő gyermek(ek) után egyidejűleg jogosultak lennének az (1) bekezdés szerinti ellátások és a gyermekgondozási támogatás bármelyik formájára, úgy – kivéve az (5) bekezdésben foglalt esetet – ellátást választásuk szerint csak egy jogcímen és csak az egyik szülő részére lehet megállapítani.
+(4) A szülő a különböző korú gyermekei jogán a gyermekgondozási támogatást és az (1) bekezdés szerinti ellátásokat egyidejűleg is igénybe veheti.
 
-(5) Ha a közös háztartásban élő gyermek után az egyik szülő (1) bekezdés szerinti ellátást, vagy gyermekgondozási támogatást vesz igénybe, úgy a másik szülő gyermekápolási táppénzre szerezhet jogosultságot, feltéve, hogy az ellátások nem ugyanazon gyermek után kerülnek megállapításra.
+(5) Ha a szülő különböző korú gyermekeire tekintettel az egyik gyermeke után jogosult terhességi-gyermekágyi segélyre vagy gyermekgondozási díjra, akkor a másik gyermeke jogán járó terhességi-gyermekágyi segélyt vagy gyermekgondozási díjat egyidejűleg is igénybe veheti.
 
-(6) Az (1)–(5) bekezdésben említett ellátások között a biztosított, illetve a szülő a jogosultság fennállása alatt választhat. A táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt választott újabb ellátásra való jogosultságot a biztosított, illetve a szülő által megjelölt időponttól kell megállapítani, feltéve, hogy a jogosultság feltételeivel már ekkortól rendelkezik.
+(6) Ha a szülők a közös háztartásban élő gyermekeik jogán egyidejűleg gyermekgondozási támogatásra, illetve az (1) bekezdés szerinti ellátásokra is jogosultak, választásuk szerint – kivéve a (7) bekezdésben foglaltakat – a gyermekek után járó ellátásokat csak az egyik szülő veheti igénybe.
 
-(7) A választott újabb ellátást a korábban megállapított ellátás folyósításának megszüntetését követő naptól kell folyósítani. A választott újabb ellátás visszamenőlegesen járó összegét csökkenteni kell az újabb ellátásra való jogosultság kezdő napjától a korábban megállapított ellátás folyósítása megszüntetésének napjáig kifizetett ellátás nettó összegével. Az ellátások közötti különbözet kamatmentes kifizetésére a csökkentés teljesítését követő három munkanapon belül kerül sor.
+(7) A közös háztartásban élő gyermek jogán – választásuk szerint – a szülők valamelyike gyermekápolási táppénzre szerezhet jogosultságot.
 
 39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai (terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz) összegének megállapításánál az ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszonyban elért jövedelmet kell figyelembe venni.
 
 (2) A biztosítás megszűnését követően járó pénzellátások összegének megállapítására és folyósítására a biztosítottakra vonatkozó rendelkezéseket kell alkalmazni.
 
-39/B. § (1) Pénzbeli ellátásra való jogosultság esetén, amennyiben a pénzbeli ellátás összege az elbíráláshoz szükséges adatok hiánya miatt – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 33. § (3) bekezdésének figyelmen kívül hagyásával – harminc napon belül nem határozható meg, a rendelkezésre álló adatok alapján az igénylő részére végzésben előleget kell megállapítani. A pénzbeli ellátás határozattal történő megállapításakor a pénzbeli ellátás összegébe a folyósított előleg összegét be kell számítani.
+39/B. § (1) Pénzbeli ellátásra való jogosultság esetén, amennyiben a pénzbeli ellátás összege az elbíráláshoz szükséges adatok hiánya miatt – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 33. § (3) bekezdésének figyelmen kívül hagyásával – huszonegy napon belül nem határozható meg, a rendelkezésre álló adatok alapján az igénylő részére végzésben előleget kell megállapítani. A pénzbeli ellátás határozattal történő megállapításakor a pénzbeli ellátás összegébe a folyósított előleg összegét be kell számítani.
 
 (2) Amennyiben az igénylő a pénzbeli ellátás iránti kérelmét visszavonja, a folyósított előleget felróhatóságra való tekintet nélkül, a visszafizetésre kötelező határozat jogerőre emelkedésétől számított harminc napon belül köteles visszafizetni.
 
@@ -990,7 +1001,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (2) A terhességi-gyermekágyi segélyre jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-- a) a biztosítás megszűnését követő baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósításának az idejét,
+- a) a biztosítás megszűnését követő baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – folyósításának az idejét,
 - b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 - c) a rehabilitációs járadék, rehabilitációs ellátás folyósításának idejét.
 
@@ -1011,7 +1022,7 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 41. § (1) Nem jár terhességi-gyermekágyi segély a biztosítottnak
 
 - a) a szülési szabadságnak arra a tartamára, amelyre a teljes keresetét megkapja,
-- b) ha bármilyen jogviszonyban díjazás – ide nem értve a szerzői jog védelme alatt álló alkotásért járó díjazást és a személyi jövedelemadó mentes tiszteletdíjat – ellenében munkát végez, vagy hatósági engedélyhez kötött keresőtevékenységét személyesen folytatja.
+- b) ha bármilyen jogviszonyban díjazás – ide nem értve a szerzői jog védelme alatt álló alkotásért járó díjazást, a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazását és a személyi jövedelemadó mentes tiszteletdíjat – ellenében munkát végez, vagy hatósági engedélyhez kötött keresőtevékenységét személyesen folytatja.
 
 (2) Annak a biztosítottnak, aki a keresetét részben kapja meg, csak az elmaradt keresete után jár terhességi-gyermekágyi segély.
 
@@ -1019,7 +1030,7 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (2) A terhességi-gyermekágyi segély alapjául szolgáló jövedelem naptári napi átlagát a 48. § (1)–(3) bekezdésében foglaltak szerint kell megállapítani.
 
-(3) A (2) bekezdésben nem említett biztosított terhességi-gyermekágyi segélyének naptári napi összegét a jogosultság kezdő napján érvényes minimálbér kétszerese harmincad részének figyelembevételével kell megállapítani. Ha azonban a biztosított pénzbeli egészségbiztosítási járulék alapját képező jövedelme a minimálbér kétszeresét nem éri el, a tényleges jövedelmet kell figyelembe venni.
+(3) A (2) bekezdésben nem említett biztosított terhességi-gyermekágyi segélyének naptári napi összegét a jogosultság kezdő napján érvényes minimálbér kétszerese harmincad részének figyelembevételével kell megállapítani. Ha azonban a biztosított pénzbeli egészségbiztosítási járulék alapját képező jövedelme a minimálbér kétszeresét nem éri el, a tényleges jövedelmet kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni, azzal, hogy a terhességi-gyermekágyi segély naptári napi összege a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét nem haladhatja meg.
 
 (3a) A terhességi-gyermekágyi segély megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 
@@ -1050,6 +1061,8 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 42/B. § (1) A gyermekgondozási díj legkorábban a terhességi-gyermekágyi segély, illetőleg az annak megfelelő időtartam lejártát követő naptól a gyermeket szülő anya esetében a szülést, egyéb esetben a jogosultságot megelőző 2 éven belül megszerzett biztosításban töltött napoknak megfelelő időtartamra, de legfeljebb a gyermek 2. életévének betöltéséig jár.
 
+(1a) Ikergyermekek esetén a gyermekgondozási díj a terhességi-gyermekágyi segély, illetőleg az annak megfelelő időtartam lejártát követő naptól az (1) bekezdésben meghatározott időtartamot követően további 1 évig jár.
+
 (2) Abban az esetben, ha a gyermekgondozási díjra jogosult a jogosultság megszerzésekor vagy azt megelőző 2 éven belül jogosult volt gyermekgondozási díjra, a gyermekgondozási díj folyósításának időtartama nem lehet rövidebb a korábbi gyermekgondozási díj (1) bekezdés alapján megállapított időtartamánál, és ezen gyermekgondozási díj folyósításának időtartama nem hosszabbodik meg a korábbi terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély jogosultsági idejével.
 
 (3)
@@ -1058,16 +1071,17 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 42/C. § Nem jár a gyermekgondozási díj, ha
 
-- a) a jogosult bármilyen jogviszonyban díjazás – ide nem értve a szerzői jog védelme alatt álló alkotásért járó díjazást – ellenében munkát végez, vagy hatósági engedélyhez kötött keresőtevékenységét személyesen folytatja;
-- b) a jogosult – munkavégzés nélkül – megkapja teljes keresetét, ha a keresetét részben kapja meg, csak az elmaradt kereset után jár gyermekgondozási díj;
-- c) a jogosult egyéb rendszeres pénzellátásban – ide nem értve az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást – részesül [1993. évi III. törvény 4. § (1) bek. i) pont];
-- d) a gyermeket – a külön jogszabályban foglaltak szerint – ideiglenes hatállyal elhelyezték, átmeneti vagy tartós nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
-- e) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, családi napközi, házi gyermekfelügyelet) helyezték el, ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
-- f) a jogosult előzetes letartóztatásban van, vagy szabadságvesztés, elzárás büntetését tölti.
+- a) a jogosult a gyermek 1 éves kora előtt bármilyen jogviszonyban díjazás – ide nem értve a szerzői jog védelme alatt álló alkotásért járó díjazást és a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazását – ellenében munkát végez vagy hatósági engedélyhez kötött keresőtevékenységét személyesen folytatja;
+- b) a jogosult a gyermek 1 éves kora előtt – munkavégzés nélkül – megkapja a teljes keresetét, ha a keresetét részben kapja meg, csak az elmaradt kereset után jár gyermekgondozási díj;
+- c) a jogosult egyéb rendszeres pénzellátásban – ide nem értve a táppénzt, a baleseti táppénzt, a terhességi-gyermekágyi segélyt, a gyermekgondozási díjat, a gyermekgondozási támogatást, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást – részesül;
+- d) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
+- e) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, családi napközi, házi gyermekfelügyelet) helyezték el, kivéve, ha a gyermek 1 éves kora után a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
+- f) a jogosult előzetes letartóztatásban van vagy szabadságvesztés, elzárás büntetését tölti;
+- g) a gyermekgondozási díj első igénybevétele a gyermek egy éves kora után kezdődik, az első igénybevétel első napjától számított 60 napig, ha a jogosult bármilyen jogviszonyban díjazás – ide nem értve a szerzői jog védelme alatt álló alkotásért járó díjazást és a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazását – ellenében munkát végez vagy hatósági engedélyhez kötött keresőtevékenységet személyesen folytat, kivéve, ha az igénylő a gyermekre tekintettel terhességi-gyermekágyi segélyt vett igénybe, vagy a gyermekgondozási díjban részesülő meghal.
 
 42/D. § (1) A gyermekgondozási díj a naptári napi átlagkereset 70 százaléka, de legfeljebb havonta a mindenkori minimálbér kétszeresének 70 százaléka.
 
-(2) A gyermekgondozási díj alapjául szolgáló naptári napi átlagkeresetet a 48. § (2)–(5), (6a) és (6b) bekezdése szerint kell megállapítani.
+(2) A gyermekgondozási díj alapjául szolgáló naptári napi átlagkeresetet a 48. § (2)–(5), (6a) és (6b) bekezdése szerint kell megállapítani azzal, hogy ha az ellátásra jogosult megfelel a 42/E. § (1) bekezdés b) pontja szerinti feltételeknek, az ellátás összege nem lehet kevesebb a 42/E. § (5) bekezdésében meghatározott összegnél.
 
 (3) A gyermekgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 
@@ -1076,6 +1090,43 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 (5) Ugyanazon személy részére ugyanazon gyermeke jogán ismételten benyújtott gyermekgondozási díj iránti kérelmet újra elbírálni nem lehet, a gyermekgondozási díjat annak időtartama alatt a (3) bekezdés szerinti határozatban megállapított összegben kell folyósítani.
 
 (6) Ha a biztosított egyidejűleg fennálló több jogviszony alapján jogosult gyermekgondozási díjra, a jogviszonyonként megállapított díjak összegét egybe kell számítani, az ellátás összege egybeszámítás esetén sem haladhatja meg az (1) bekezdésben megállapított legmagasabb összeget.
+
+(7) Ha a biztosított több gyermek után jogosult egyidejűleg gyermekgondozási díjra, úgy az (1) bekezdés szerinti maximális összeget gyermekenként kell megállapítani.
+
+42/E. § (1) A 42/A. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult az a szülő nő is, aki az alábbi feltételek mindegyikének megfelel:
+
+- a) a 42/A. § alapján gyermekgondozási díjra nem jogosult,
+- b) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben magyar nyelvű nappali képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik, azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
+- c) a gyermeke a b) pont szerinti hallgatói jogviszony fennállása alatt vagy a hallgatói jogviszony szünetelését, illetve megszűnését követő 1 éven belül születik,
+- d) a gyermeket saját háztartásában neveli,
+- e) magyar állampolgár vagy másik EGT tagállam állampolgára, és
+- f) a szülés időpontjában rendelkezik magyarországi bejelentett lakóhellyel.
+
+(2) Az (1) bekezdés alapján megállapított gyermekgondozási díj a gyermek születésének napjától a gyermek 1 éves koráig jár.
+
+(3) Az (1) bekezdés szerinti gyermekgondozási díjra az (1) bekezdés szerinti jogosultsági feltételeknek megfelelő vér szerinti apa akkor jogosult, ha a szülő nő
+
+- a) meghal, vagy
+- b) az (1) bekezdés b)–f) pontjában foglalt feltételek valamelyikének nem felel meg és a 42/A. § alapján gyermekgondozási díjra nem jogosult.
+
+(4) A vér szerinti apa részére a gyermekgondozási díj a (2) bekezdésben meghatározott jogosultsági időből igénybe nem vett időszakra jár, de legfeljebb a gyermek 1 éves koráig.
+
+(5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj havi összege
+
+- a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes kötelező legkisebb munkabér,
+- b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes garantált bérminimum
+
+70 százaléka.
+
+(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a szülés napján biztosított és rendelkezik legalább 180 naptári napi jövedelemmel, az ellátás összegét a 48. § (3) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
+
+(7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított nem rendelkezik legalább 180 naptári napi jövedelemmel, az ellátás összegét az (5) bekezdés szerint kell megállapítani.
+
+(8) Ha az (1) vagy a (3) bekezdés alapján gyermekgondozási díjra jogosult személy az (1) bekezdés b) pontja szerinti hallgatói jogviszony megszűnését követő 1 éven belül válik jogosulttá az ellátásra és az ellátás összege nem állapítható meg a (6) bekezdés alapján, a gyermekgondozási díj összegét az (5) bekezdés a) vagy b) pontja szerint kell megállapítani.
+
+(9) Az (5) és a (6) bekezdés alapján megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni és a tárgyévre érvényes kötelező legkisebb munkabér, illetve garantált bérminimum figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+
+(10) Az (1)–(9) bekezdés szerint megállapított gyermekgondozási díjra a 42/B–42/D. § rendelkezései közül azokat kell alkalmazni, amelyektől eltérő rendelkezést az (1)–(9) bekezdés nem tartalmaz.
 
 ### Táppénz
 
@@ -1152,9 +1203,9 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (3) Ha a biztosított a (2) bekezdésben megjelölt időtartam alatt nem rendelkezett legalább 180 naptári napi jövedelemmel, a táppénz összegét a táppénzre jogosultság kezdő napját megelőző 180 naptári napi jövedelem napi átlaga alapján kell megállapítani. A 180 naptári napi jövedelmet legfeljebb a táppénzre jogosultság kezdő napját közvetlenül megelőző naptári év első napjáig lehet figyelembe venni, ha a biztosítási idő folyamatos. A folyamatos biztosítási idő [48/A. § (1) bekezdés] megszakítása esetén a táppénz alapjaként a megszakítást megelőző jövedelmet nem lehet figyelembe venni.
 
-(4) Ha a biztosított a (2)–(3) bekezdésben (irányadó időszakban) táppénzalapként meghatározott jövedelemmel nem rendelkezik, táppénzét – az (5) bekezdésben foglaltak kivételével – a jogosultság kezdő napján érvényes minimálbér alapulvételével kell megállapítani, kivéve, ha a szerződés szerinti vagy a tényleges jövedelme a minimálbért nem éri el. Ez esetben a táppénz alapja a tényleges, ennek hiányában a szerződés szerinti jövedelem.
+(4)
 
-(5) Ha a biztosítottnak azért nem volt a (2)–(3) bekezdés szerint figyelembe vehető jövedelme, mert táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban részesült a táppénz naptári napi összegét a korábban folyósított ellátás alapját képező összeg figyelembevételével kell megállapítani, ha az a (4) bekezdés szerint megállapított összegnél kedvezőbb.
+(5) Ha a biztosítottnak azért nem volt a (2)–(3) bekezdés szerint figyelembe vehető jövedelme, mert táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban részesült a táppénz naptári napi összegét a korábban folyósított ellátás alapját képező összeg figyelembevételével kell megállapítani, ha az a (6a) bekezdés szerint megállapított összegnél kedvezőbb.
 
 (6) A naptári év folyamán ismételten keresőképtelenné vált biztosított táppénzét a korábbi táppénzének az alapját képező kereset napi átlaga alapján kell megállapítani, ha
 
@@ -1177,7 +1228,7 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának harmincad részét.
 
-48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély folyósításának az ideje.
+48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – és a gyermekgondozási segély folyósításának az ideje.
 
 (2) A 48. § (6a) és (6b) bekezdése szerinti naptári napi átlag megállapításánál 180 napi folyamatos biztosításban töltött időként a Tbj. 5. §-ában meghatározott biztosítási időket lehet figyelembe venni. E szabály alkalmazásában a biztosítás akkor tekinthető folyamatosnak, ha abban 30 napnál hosszabb megszakítás nincs.
 
@@ -1199,7 +1250,7 @@ azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosults
 (4) A méltányosságból megállapítható pénzbeli ellátások folyósításának idejét és összegét az egészségbiztosítási szerv a méltányossági kérelem elbírálása során az V. fejezetben foglaltaktól eltérőn határozhatja meg, azzal, hogy az összege nem haladhatja meg
 
 - a) terhességi-gyermekágyi segély esetén a 42. § (3) bekezdése szerinti összeget,
-- b) gyermekgondozási díj esetén a 48. § (4) bekezdése szerinti összeget,
+- b) gyermekgondozási díj esetén a 48. § (6b) bekezdése szerinti összeget,
 - c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (8) bekezdése szerinti összeget.
 - d)
 
@@ -1221,7 +1272,7 @@ azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosults
 
 (4) Ha e törvény eltérően nem rendelkezik, üzemi baleseten a foglalkozási betegséget, üzemi baleseti sérültön a foglalkozási betegségben megbetegedettet is érteni kell.
 
-52/A. § (1) Amennyiben a baleset üzemisége az elbíráláshoz szükséges adatok hiánya miatt – a Ket. 33. § (3) bekezdésének figyelmen kívül hagyásával – harminc napon belül nem bírálható el és a rendelkezésre álló adatok alapján az igénylő táppénzre jogosult, az igénylő részére végzésben táppénz előleget kell megállapítani.
+52/A. § (1) Amennyiben a baleset üzemisége az elbíráláshoz szükséges adatok hiánya miatt – a Ket. 33. § (3) bekezdésének figyelmen kívül hagyásával – huszonegy napon belül nem bírálható el és a rendelkezésre álló adatok alapján az igénylő táppénzre jogosult, az igénylő részére végzésben táppénz előleget kell megállapítani.
 
 (2) Amennyiben a baleset üzemiségének elismerését követően az igénylő részére határozattal baleseti táppénzt állapítanak meg, a baleseti táppénz összegébe a folyósított táppénz előleg összegét be kell számítani.
 
@@ -1267,11 +1318,11 @@ azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosults
 
 (7) A baleseti táppénz összege azonos a baleseti táppénzre való jogosultság kezdő napját közvetlenül megelőző naptári hónapban végzett munkáért, tevékenységért kifizetett (elszámolt), a biztosított pénzbeli egészségbiztosítási járulékalapját képező jövedelme naptári napi összegével, úti baleset esetén annak kilencven százalékával. Ha a biztosított a baleseti táppénzre való jogosultságot megelőző hónapban nem volt pénzbeli egészségbiztosítási járulékfizetésre kötelezett, a baleseti táppénz összege a balesetet megelőzően elért tényleges, annak hiányában a szerződés szerinti jövedelméből számított naptári napi átlagjövedelem, úti baleset esetén annak kilencven százaléka.
 
-(8) Az egyéni és a társas vállalkozó baleseti táppénzének alapját a táppénzre vonatkozó rendelkezések szerint kell megállapítani. A baleseti táppénz mértéke az alapját képező jövedelem száz százaléka, úti baleset esetén annak kilencven százaléka.
+(8) Az egyéni és a társas vállalkozó, valamint a mezőgazdasági őstermelő baleseti táppénzének alapját a táppénzre vonatkozó rendelkezések szerint kell megállapítani. A baleseti táppénz mértéke az alapját képező jövedelem száz százaléka, úti baleset esetén annak kilencven százaléka.
 
 (9) Ha a biztosított a (7) bekezdésben említett időtartam alatt – jövedelem hiányában – pénzbeli egészségbiztosítási járulékot nem fizetett, a baleseti táppénz összege azonos a szerződés szerinti jövedelme naptári napi összegével, úti baleset esetén annak kilencven százalékával.
 
-55/A. § (1) Baleseti táppénzre való jogosultság esetén, amennyiben a baleseti táppénz összege az elbíráláshoz szükséges adatok hiánya miatt – a Ket. 33. § (3) bekezdésének figyelmen kívül hagyásával – harminc napon belül nem határozható meg, a rendelkezésre álló adatok alapján az igénylő részére végzésben baleseti táppénz előleget kell megállapítani. A baleseti táppénz határozattal történő megállapításakor a baleseti táppénz összegébe a folyósított baleseti táppénz előleg összegét be kell számítani.
+55/A. § (1) Baleseti táppénzre való jogosultság esetén, amennyiben a baleseti táppénz összege az elbíráláshoz szükséges adatok hiánya miatt – a Ket. 33. § (3) bekezdésének figyelmen kívül hagyásával – huszonegy napon belül nem határozható meg, a rendelkezésre álló adatok alapján az igénylő részére végzésben baleseti táppénz előleget kell megállapítani. A baleseti táppénz határozattal történő megállapításakor a baleseti táppénz összegébe a folyósított baleseti táppénz előleg összegét be kell számítani.
 
 (2) Amennyiben az igénylő a baleseti táppénz iránti kérelmét visszavonja, a folyósított baleseti táppénz előleget felróhatóságra való tekintet nélkül, a visszafizetésre kötelező határozat jogerőre emelkedésétől számított harminc napon belül köteles visszafizetni.
 
@@ -1349,6 +1400,8 @@ azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosults
 
 (5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmekhez, továbbá a kifizetőhelyi feladatellátás során az OEP által rendszeresített, az OEP honlapján közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
 
+(5b) Az igénylő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet az OEP által rendszeresített és az OEP honlapján közzétett nyomtatványon nyújthatja be.
+
 (6) Az igényelbíráló szerv az ügyfelet személyes megjelenésre is felhívhatja az igény elbírálása érdekében. Ha az ellátásban részesülő az orvosi vizsgálaton vagy a kórházban a jogkövetkezményekről való tájékoztatást tartalmazó ismételt felhívásra sem jelenik meg, vagy az orvosi felülvizsgálatnak, kórházi megfigyelésnek elfogadható indok nélkül nem veti magát alá és emiatt a kérelmet elbírálni nem lehet, az eljárást meg kell szüntetni.
 
 (7) Ha a kérelem elbírálása után megállapítást nyer, hogy a kérelmet jogszabálysértő módon elutasították, vagy alacsonyabb összegű ellátást állapítottak meg, illetőleg folyósítottak, a jogszabálysértés felfedésétől visszafelé számított öt éven belül járó összeget és az utána járó – az Art.-ban meghatározott – késedelmi pótlékot utólag ki kell fizetni.
@@ -1364,6 +1417,8 @@ azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosults
 pénzbeli ellátások iránti igény
 
 62. § (1) A terhességi-gyermekágyi segély, a gyermekgondozási díj és a táppénz iránti kérelmet a biztosítottnak a Tbj. 4. § a) pontja szerinti foglalkoztatónál kell előterjeszteni.
+
+(1a) A vér szerinti apa, valamint a szülés napján nem biztosított szülő nő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet a lakóhelye szerint illetékes egészségbiztosítóhoz nyújthatja be.
 
 (2) A terhességi-gyermekágyi segély, a gyermekgondozási díj és a táppénz iránti kérelmet
 
@@ -1385,7 +1440,7 @@ bírálja el és utólag folyósítja.
 
 (2) A táppénzfolyósítás időtartamát és a táppénz összegét jogviszonyonként kell megállapítani.
 
-(3) A kifizetőhellyel nem rendelkező munkáltatóknak az igénybejelentéssel kapcsolatos kötelezettségeit, továbbá a kifizetőhelyeknek a terhességi-gyermekágyi segély, a táppénz, a baleseti táppénz megállapításával, folyósításával és elszámolásával összefüggő részletes feladatait és eljárási szabályait a Kormány rendeletben határozza meg.
+(3) A kifizetőhellyel nem rendelkező munkáltatóknak az igénybejelentéssel kapcsolatos kötelezettségeit, továbbá a kifizetőhelyeknek a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz megállapításával, folyósításával és elszámolásával összefüggő részletes feladatait és eljárási szabályait a Kormány rendeletben határozza meg.
 
 ### Baleseti ellátások iránti igény
 
@@ -1430,6 +1485,10 @@ bírálja el és utólag folyósítja.
 (6) A jogalap nélkül felvett ellátással kapcsolatban a közrehatás arányában megállapított megtérítési kötelezettség nem módosítható azon a címen, hogy a visszafizetésre kötelezettől az őt terhelő rész nem hajtható be, illetőleg azt mérsékelték, vagy elengedték.
 
 (7) Az a személy, aki EU-Kártyával vagy az azt helyettesítő nyomtatvánnyal, valamint az uniós rendeletek szerinti egyéb nyomtatvánnyal úgy vett igénybe egészségügyi szolgáltatást valamely EGT tagállamban, hogy a 6–7. §-ok és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
+
+(8) A Tbj. 39. § (2) bekezdésében foglalt egészségügyi szolgáltatási járulékfizetési kötelezettsége alól az állami adóhatóság eljárása alapján utólagosan mentesülő személy TAJ-száma az egészségügyi szolgáltatásra jogosultak nyilvántartásában érvénytelenítésre kerül.
+
+(9) Ha a (8) bekezdés szerinti személy az érvénytelenítést megelőzően úgy vett igénybe egészségügyi szolgáltatást, hogy a 6–7. § és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
 
 67. § (1) A foglalkoztató köteles megtéríteni az üzemi baleset vagy foglalkozási megbetegedések miatt felmerült egészségbiztosítási ellátást, ha a baleset vagy megbetegedés annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező munkavédelmi szabályokban foglalt kötelezettségének nem tett eleget, illetőleg ha ő vagy alkalmazottja (tagja) a balesetet szándékosan idézte elő.
 
@@ -1553,11 +1612,14 @@ bírálja el és utólag folyósítja.
 
 (2) Az egészségbiztosító felhívására a társadalombiztosítási feladatok ellátásához szükséges adatokat tizenöt napon belül kell közölni.
 
-(3) Az ellátásban részesülő – ha a jogszabály kivételt nem tesz – köteles az egészségbiztosítónak bejelenteni minden olyan tényt, illetőleg adatot, amely az ellátásra jogosultságát vagy ellátása folyósítását érinti.
+(3) Az ellátásban részesülő – ha a jogszabály kivételt nem tesz – köteles 15 napon belül az egészségbiztosítónak bejelenteni minden olyan tényt, illetőleg adatot, amely az ellátásra jogosultságát vagy ellátása folyósítását érinti.
 
-(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított terhességi-gyermekágyi segélyről és gyermekgondozási díjról az Art. 16. §-ának (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
+(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított terhességi-gyermekágyi segélyről és a 42/A. §, illetve a 42/E. § alapján megállapított gyermekgondozási díjról az Art. 16. § (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
 
-(5) Ha az uniós rendeletek vagy a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó személy, valamint a Tbj. 11. §-a a) pontjának hatálya alá tartozó magyar állampolgár TAJ számmal rendelkezik, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
+(5) Az a TAJ számmal rendelkező személy, aki
+
+- a) valamely EGT tagállamban, illetve Svájcban, valamint a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó államban biztosított, vagy
+- b) a Tbj. 11. § a) pont hatálya alá tartozó magyar állampolgár, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
 (6) Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő
 
@@ -1618,9 +1680,19 @@ bírálja el és utólag folyósítja.
 
 82/E. § Amennyiben 2010. április 30-a után született gyermek vonatkozásában gyermekgondozási díjat igényelnek, és a jogosultság megszerzésekor vagy az azt megelőző két éven belül a jogosult e törvény 2010. április 30-áig hatályos szabályai szerint jogosult volt gyermekgondozási díjra, akkor a gyermekgondozási díj folyósításának időtartama a korábbi gyermekgondozási díjra való jogosultság megszerzését megelőző két évben, valamint a korábbi gyermekgondozási díj lejártát követően az e törvény 42/A. § (4) bekezdése szerint számított, biztosításban töltött napok számával egyezik meg, de nem lehet rövidebb 365 napnál, és legfeljebb a gyermek 2. életévének betöltéséig jár. A korábbi gyermekgondozási díj lejártát követően biztosításban töltött időbe az új gyermekgondozási díj időtartamának kiszámítása vonatkozásában nem számít bele a gyermekgondozási segély, valamint a terhességi gyermekágyi segély folyósításának időtartama.
 
-82/F. § (1) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 39/A. § (1) bekezdést, 42. § (3a) és (3b) bekezdést, 42/D. § (2)–(5) bekezdést, 48. § (4), (6a) és (6b), valamint (8) bekezdést, 48/A. §-t, 49. § (1) bekezdés b) pontját, 55. § (1)–(1b) bekezdést, 65. § (3a) bekezdést a 2013. július 14-ét követően kezdődő ellátásra való jogosultság esetében kell alkalmazni, azzal, hogy a 2014. május 11-ét megelőzően született gyermekekre tekintettel igényelt és megállapított terhességi-gyermekágyi segély vagy gyermekgondozási díj összege nem lehet alacsonyabb, mint ami a 2013. július 15-ét megelőzően hatályos szabályok alapján járna.
+82/F. § (1) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 39/A. § (1) bekezdését, 42. § (3a) és (3b) bekezdését, 42/D. § (2)–(5) bekezdését, 48. § (4), (6a) és (6b), valamint (8) bekezdését, 48/A. §-t, 49. § (1) bekezdés b) pontját, 55. § (1)–(1b) bekezdését, 65. § (3a) bekezdését a 2013. július 14-ét követően kezdődő ellátásra való jogosultság esetében kell alkalmazni, azzal, hogy a 2015. január 1-jét megelőzően született gyermekekre tekintettel igényelt és megállapított terhességi-gyermekágyi segély vagy gyermekgondozási díj összege nem lehet alacsonyabb, mint ami a 2013. július 15-ét megelőzően hatályos szabályok alapján járna.
 
 (2) A 2013. július 15-ét megelőzően megállapított terhességi-gyermekágyi segély és gyermekgondozási díj esetében az ellátás összegét a megállapításkor hatályos szabályok alapján megállapított összegben kell továbbfolyósítani. A jogosultság fennállásának időtartama alatt az ellátás összegét ismételten megállapítani nem lehet.
+
+82/H. § (1) Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvény által megállapított 39. § (1)–(6) bekezdését, 40. § (2) bekezdés a) pontját, a 42/B. § (1a) bekezdését, a 42/D. § (2) és (7) bekezdését, a 42/E. §-t, a 48/A. § (1) bekezdését, a 61. § (5b) bekezdését, a 62. § (1a) bekezdését, a 63. § (3) bekezdését és a 80. § (4) bekezdését – a (3)–(5) bekezdésben foglaltak figyelembevételével – a 2013. december 31-ét követően született gyermekek után igényelt ellátásokra vonatkozó kérelmek esetében kell alkalmazni.
+
+(2) Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvény által megállapított 42/C. §-ban foglaltakat a 2014. január 1-jét megelőzően megállapított gyermekgondozási díjakra is alkalmazni kell.
+
+(3) Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvény által megállapított 39. §-ban foglaltakat a 2013. december 31-ét követően született újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított gyermekgondozási díjra is alkalmazni kell.
+
+(4) Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvény által megállapított 39. §-ban foglaltakat a 2013. december 31-ét követően született újabb gyermek születését megelőzően 2014. január 1-je előtt született gyermek jogán megállapított gyermekgondozási támogatásra is alkalmazni kell.
+
+(5) A 2014. január 1-je előtt született gyermekek esetében a 39. §-nak a 2013. december 31-én hatályos szövegét kell alkalmazni, kivéve, ha az adott gyermek jogán igénybe vehető ellátás tekintetében a (3) vagy a (4) bekezdésben foglaltak szerint kell eljárni.
 
 ### Záró rendelkezések
 
@@ -1654,7 +1726,7 @@ bírálja el és utólag folyósítja.
 - x) a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás árához nyújtott társadalombiztosítási támogatás elszámolására és folyósítására vonatkozó szabályok,
 - y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
 - z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
-- zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzésre, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
+- zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzési listára, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
 
 meghatározására.
 
@@ -1663,7 +1735,7 @@ meghatározására.
 - a) határozza meg az országos várólista nyilvántartás, valamint a térségi várólistáknak a korábbi intézményi várólisták alapján történő létrehozásának szabályait,
 - b) jelölje ki a térségi betegút-szervezésért felelős szervet,
 - c) jelölje ki az országos várólista nyilvántartást vezető szervet,
-- d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, az intézményi előjegyzés alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal kapcsolatos jelentés szabályait.
+- d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzési listával kapcsolatos jelentés szabályait.
 
 (2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
@@ -1674,6 +1746,10 @@ meghatározására.
 (2e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg azoknak az eseteknek a körét, amikor nem köthető a nem finanszírozott egészségügyi szolgáltató orvosával gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító szerződés.
 
 (2f) Felhatalmazást kap a Kormány, hogy a társadalombiztosítási támogatással rendelhető gyógyszerek és a gyógyászati segédeszközök rendelése, kiadása és felhasználása ellenőrzésének szabályait rendeletben állapítsa meg.
+
+(2g) Felhatalmazást kap a Kormány, hogy az e törvény szerinti belföldi költségek mértékét, azok megtérítésének módját és feltételeit rendeletben meghatározza.
+
+(2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
@@ -1694,7 +1770,7 @@ meghatározására.
 - d) a meddőség kezelésére vonatkozó rendelkezéseket,
 - e)
 - f) a betegszállításra jogosító kúraszerű kezeléseket,
-- g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzés, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzés, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
+- g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzési lista, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzési lista, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
 - h) a beutalás szakmai szabályait,
 - i) az egyes egészségügyi szolgáltatások körébe tartozó beavatkozásokat,
 - j) a gyógyászati ellátások körébe tartozó szolgáltatásokat,

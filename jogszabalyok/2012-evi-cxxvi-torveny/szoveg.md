@@ -320,6 +320,8 @@ használhatja fel.
 
 (6) A kamarát a törvényben, illetve alapszabályban meghatározott feladatai ellátása érdekében a fogyasztóvédelemre vonatkozó szabályok fogyasztói érdekek képviseletét ellátó egyesületetekre vonatkozó szabályok megfelelő alkalmazása mellett közérdekű keresetindítási jog illeti meg.
 
+(7) Az agrárkamara külön jogszabályban meghatározott egyes igazgatási feladatait a falugazdász hálózat útján látja el.
+
 14/A. § (1) Amennyiben fajta és mennyiség szerint meghatározott mezőgazdasági termény tulajdonának betakarítást követő időpontban történő átruházására olyan általános szerződési feltétel alapján kerül sor, amelynek megkötésére még a termés betakarítása előtt került sor, az agrárkamara kérheti a bíróságtól az általános szerződési feltétel tisztességtelen kikötésére történő hivatkozással annak érvénytelenségének megállapítását.
 
 (2) Az (1) bekezdésben foglaltak nem alkalmazhatók
@@ -333,19 +335,24 @@ használhatja fel.
 
 15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
 
+15/A. § (1) Az agrárkamara által az őstermelők részére megállapított tagdíj magában foglalja az őstermelői igazolvány kiállításának és érvényesítésének a díját.
+
+(2) Az agrárkamara az őstermelői igazolvány kiadását, érvényesítését az agrárkamara tagját terhelő tagdíj megfizetéséhez, illetve az adatszolgáltatási kötelezettség teljesítéséhez köti.
+
 #### 2. Az agrárkamara szolgáltatási közfeladatai
 
 16. § (1) Az agrárkamara szolgáltatási közfeladatai keretében
 
-- a)–b)
+- a) országos szaktanácsadói hálózatot működtet;
+- b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
 - c) a szakképzésről szóló törvényben és végrehajtási rendeletében foglaltak szerint ellátja a tanulószerződés és hallgatói szerződés szervezésével kapcsolatos feladatokat, a gyakorlati képzőhelyek ellenőrzését, felügyeletét, segíti a szakképzés képzési és beiskolázási szerkezetének, a hiány-szakképesítések körének meghatározását, a fiatalok pályaválasztását, pályaorientációját, továbbá szervezi és végzi a mesterképzést és mestervizsgáztatást.
 
 (2) A kamara tagjai részére térítésmentes alapszolgáltatásként
 
-- a) általános agrometeorológiai tájékoztatást ad;
-- b) tájékoztatást nyújt földügyekkel kapcsolatosan a földtulajdonnal, földhasználattal és földforgalmazással összefüggő kérdésekben, valamint a Nemzeti Földalapkezelő Szervezet által kiírt pályázatokkal kapcsolatosan;
+- a) biztosítja a kamarai ügyfélszolgálat igénybevételét;
+- b) az alapszabályban rögzített feltételek szerint biztosítja az agrárkamara által szervezett szakmai konferenciákon való részvételt;
 - c) általános növényvédelmi előrejelzést ad;
-- d)
+- d) általános piaci információkat ad;
 - e) nyilvános adatbázisok alapján általános információt szolgáltat a piaci szereplők minősítéséről;
 - f) jogsegélyszolgálatot működtet;
 - g) általános gazdasági és szakmai tájékoztatókat tart.
@@ -361,6 +368,8 @@ használhatja fel.
 (7) A kamara együttműködik a határon túli magyar gazdaszervezetekkel.
 
 (8) A kamara jogszabályban meghatározott esetekben nyilvántartást vezet, továbbá az agrárgazdaság területén szükséges igazolásokat, bizonyítványokat és okmányokat állít ki, illetve hitelesít.
+
+16/A. § Az agrárkamara kiállítja a mezőgazdasági termékek és élelmiszerek vonatkozásában a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló, 1993. július 2-i 2454/93/EGK bizottsági rendelet 48. cikke szerinti származási bizonyítványt.
 
 ### V. Fejezet — AZ AGRÁRKAMARA ÖNKORMÁNYZATA
 
@@ -770,7 +779,12 @@ használhatja fel.
 
 52. §
 
-53. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a mezőgazdasági szakigazgatási szerv általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait.
+53. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+- a) az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a mezőgazdasági szakigazgatási szerv általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
+- b) az agrárkamara hatáskörébe tartozó igazgatási feladatok ellátásával és azok elvégzésének díjával kapcsolatos részletes szabályokat.
+
+(2) Felhatalmazást kap a Kormány, hogy egyes agrárigazgatási hatósági feladatok tekintetében eljáró hatóságként, egyes feladatok tekintetében mezőgazdasági igazgatási szervként az agrárkamarát rendeletben kijelölje és megállapítsa e hatósági feladatok ellátásáért fizetendő igazgatási szolgáltatási díjat, valamint megfizetésének szabályait.
 
 54. § (1)
 

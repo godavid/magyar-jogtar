@@ -55,17 +55,14 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 
 10. § A hírközlési vezetékkel rendelkező adóalanynak a hírközlési vezeték utáni adó alapjának
 
-– 170 000 métert meg nem haladó része után az egyébként fizetendő adó 20%-át,
-
-– 170 000 métert meghaladó, de 250 000 métert meg nem haladó része után az egyébként fizetendő adó 40%-át,
-
-– 250 000 métert meghaladó, de 300 000 métert meg nem haladó része után az egyébként fizetendő adó 80%-át,
-
-– 300 000 métert meghaladó része után a fizetendő adó teljes összegét
+- a) 200 000 métert meg nem haladó része után az egyébként fizetendő adó 0%-át,
+- b) 200 000 métert meghaladó, de 350 000 métert meg nem haladó része után az egyébként fizetendő adó 30%-át,
+- c) 350 000 métert meghaladó, de 500 000 métert meg nem haladó része után az egyébként fizetendő adó 75%-át,
+- d) 500 000 métert meghaladó része után a fizetendő adó teljes összegét
 
 kell megfizetni.
 
-11. § A 10. § szerinti adókedvezmény érvényesítése az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
+11. §
 
 #### 8. Eljárási rendelkezések
 
@@ -75,7 +72,9 @@ kell megfizetni.
 
 (3) Az adóalany éves adóját két egyenlő részletben, a naptári év március 20-ig és szeptember 20-ig fizeti meg az állami adóhatóságnak. A befizetett adó a központi költségvetés bevételét képezi.
 
-(4) E törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezései irányadók.
+(4) Az adóalany évközi megszűnése esetén az adóalany adóévi, a megszűnést megelőzően nem teljesített adóbevallási, adófizetési kötelezettségét a megszűnéssel egyidejűleg teljesíti.
+
+(5) E törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezései az irányadók.
 
 #### 9. Hatályba léptető rendelkezés
 

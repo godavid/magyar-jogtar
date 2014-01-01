@@ -114,7 +114,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 (9) Az (1) bekezdés f) pontja szerinti kutatói tehetséggondozás, kutatói, oktatói továbbképzés, továbbá a (4) bekezdésben meghatározott jogcímek, feladatok éves támogatására együttesen a 2. § b) pontja szerinti tárgyévi központi költségvetési támogatás 8%-át meg nem haladó mértékben kerülhet sor.
 
-(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között a fejlesztéspolitikáért felelős miniszter (a továbbiakban: miniszter) – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
+(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között a kutatás-fejlesztésért és technológiai innovációért felelős miniszter (a továbbiakban: miniszter) – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
 
 (11) Az Alapból nyújtott támogatások igénybevételének feltételeiről a kedvezményezettel szerződésben kell megállapodni.
 
@@ -124,7 +124,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 10. § (1) Az Alap feletti rendelkezési jogot a miniszter gyakorolja, és felelős annak felhasználásáért.
 
-(2) A Kormány az Alap programstratégiáját a kutatás-fejlesztésért és technológiai innovációért felelős miniszter, az Alap éves felhasználási tervét pedig a miniszter előterjesztésére nyilvános határozatban hagyja jóvá.
+(2) A Kormány az Alap programstratégiáját valamint éves felhasználási tervét a miniszter előterjesztésére nyilvános határozatban hagyja jóvá.
 
 (3)
 

@@ -254,7 +254,7 @@ h) ha a jogi személy ellen olyan eljárás van folyamatban, amelyben büntetőj
 
 „f) – szükség szerint – az alapítvány képviselőjének születési nevét.”
 
-110. § A Cnytv. 95. §-a a következő szöveggel lép hatályba:
+110. § A Cnytv. 95. §-a következő szöveggel lép hatályba:
 
 „95. § A nyilvántartás egyesület esetén a 91. §-ban foglaltakon túlmenően tartalmazza a következő adatokat is:
 
@@ -266,19 +266,23 @@ ab) párt,
 
 ac) sportegyesület,
 
-ad) alapcélként vallási tevékenységet végző egyesület,
+ad) vallási tevékenységet végző szervezet,
 
-ae) szakszervezet,
+ae) nemzetiségi egyesület,
 
-af) szövetség,
+af) szakszervezet,
 
-ag) polgárőr szervezet és
+ag) szövetség,
 
-ah) egyéb, törvényben meghatározott egyesületi forma,
+ah) polgárőrszervezet és
+
+ai) egyéb, törvényben meghatározott egyesületi forma,
 
 b) az egyesület képviselőjének anyja születési nevét,
 
-c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát.”
+c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát,
+
+d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját.”
 
 111. §
 

@@ -30,7 +30,7 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 - j) jegybankképes: olyan értékpapír, amelyet a Magyar Nemzeti Bank által a monetáris politikai ügyletek keretében elfogadható fedezetként határoz meg;
 - k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pénzügyi intézményi minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég;
 - l) kormánybiztos: az 1554/2012. (XII. 5.) számú kormányhatározatban a hazai illetve szövetkezeti pénzügyi szolgáltatásokért felelős kormánybiztos;
-- m) likvid eszköz-állomány: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú mellékletében ilyen néven meghatározott eszközök állománya;
+- m) likvid eszköz-állomány: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 80. pontjában ilyen néven meghatározott eszközök állománya;
 - n) likvid vagyon: a likvid eszközök összessége;
 - o) Magyar Posta: a Magyar Posta Zártkörűen Működő Részvénytársaság és – függetlenül annak tulajdonosi körétől – minden olyan gazdasági társaság, amelyben e törvény hatálybalépése után – közvetlenül vagy közvetve – a Magyar Posta Zrt. tulajdont szerzett vagy tulajdonnal rendelkezik;
 - p) MFB: a Magyar Fejlesztési Bank Zrt. és – függetlenül annak tulajdonosi körétől – minden olyan gazdasági társaság, amelyben e törvény hatálybalépése után – közvetlenül vagy közvetve – a Magyar Fejlesztési Bank Zrt. tulajdont szerzett vagy tulajdonnal rendelkezik;
@@ -39,11 +39,11 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 - s) szokásos üzletmenet: jelenti azokat az ügyleteket, amelyek összértékben a hitelintézetre vonatkozó nagy kockázat felét nem érik el;
 - t) szövetkezeti hitelintézet: a takarékszövetkezet, a hitelszövetkezet és minden olyan egyéb hitelintézet is, amelynek működését, vagy amelynek betéteit 2013. január 1-jén Önkéntes takarékszövetkezeti intézményvédelmi alapok valamelyike védte, ideértve a nem szövetkezeti hitelintézeteket is, de ide nem értve a Folyamatban lévő engedélykérelemmel rendelkező hitelintézetet;
 - u) Takarékbank Zrt.: a Magyar Takarékszövetkezeti Bank Zártkörűen Működő Részvénytársaság;
-- v) Tőkepozíciója rossz: a tőkemegfelelési mutatója nem éri el a Hpt-ben meghatározott legkisebb mértéket;
+- v) Tőkepozíciója rossz: nem felel meg az Európai Parlament és a Tanács 575/2013/EU rendeletének 92. cikkében meghatározott tőkekövetelményeknek;
 - w) Tőkepozíciója romlik: a tőkemegfelelési mutatója a tárgyhónapot megelőző három naptári hónap átlagában csökkent;
 - x) Törzsrészvény: a Takarékbank Zrt. által a jelen törvény hatálybalépése előtt kibocsátott, dematerializált, törzsrészvény;
 - y) válsághelyzetben van: egy szövetkezeti hitelintézet, amennyiben tőkepozíciói rosszak vagy romlanak, vagy hitelezési mutatói rosszak vagy romlanak vagy nem jogszabályszerűen vagy szabályzatainak megfelelően működik.
-- z) Vezető tisztségviselő: a Hpt 2. számú mellékletében „Vezető állású személyként” meghatározott személy.
+- z) Vezető tisztségviselő: a Hpt. 6. § (1) bekezdésének 122. pontjában „vezető állású személyként” meghatározott személy.
 
 (2) A szövetkezeti hitelintézetek hosszú távú prudens működésének intézményi garantálása és a szövetkezeti hitelintézetek szavatoló tőkéjének biztosítása érdekében az e törvényben meghatározottak szerint létrejön a szövetkezeti hitelintézetek integrációja. A szövetkezeti hitelintézetek integrációjának szervei az Integrációs Szervezet és a Takarékbank Zrt. A szövetkezeti hitelintézetek integrációjának központi bankja a Takarékbank Zrt.
 
@@ -97,7 +97,7 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 (6) Az Integrációs Szervezet pénzeszközeit a Takarékbank Zrt.-ben helyezi el.
 
-(7) Az Integrációs Szervezet saját vagyona, bevételei és jövedelme után társasági nyereségadó, helyi adó, tranzakciós illeték és egyéb illeték fizetésére nem köteles.
+(7) Az Integrációs Szervezet és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapja saját vagyona, bevételei, jövedelme és ügyletei után társasági nyereségadó, általános forgalmi adó helyi adó, tranzakciós illeték és egyéb illeték fizetésére nem köteles.
 
 (8) Az Integrációs Szervezet saját tőkéje nem osztható fel, kivéve az Integrációs Szervezet megszűnésekor.
 
@@ -227,7 +227,7 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 (4) Amennyiben a szövetkezeti hitelintézet nem tesz eleget az utasításnak vagy nem jogszabályoknak vagy a szabályzatoknak megfelelően működik:
 
-- a) a Takarékbank Zrt. igazgatósága dönthet a szövetkezeti hitelintézet vezető tisztségviselői megbízatásának a felfüggesztéséről legfeljebb 180 napra, mely felfüggesztést legfeljebb további 180 napra meghosszabbíthat vagy – különösen indokolt esetben – dönthet megbízatásuk megszüntetéséről illetve átmeneti időre vezető tisztségviselő vagy tisztségviselők megbízásáról;
+- a) a Takarékbank Zrt. igazgatósága dönthet a szövetkezeti hitelintézet vezető tisztségviselői megbízatásának a felfüggesztéséről legfeljebb 180 napra, mely felfüggesztést legfeljebb további 180 napra meghosszabbíthat; azzal, hogy döntéséről haladéktalanul tájékoztatja a Felügyeletet, amely intézkedik felügyeleti biztos kinevezése iránt;
 - b) a Takarékbank Zrt. Igazgatóságának kezdeményezése alapján vagy saját kezdeményezéséből az Integrációs Szervezet igazgatósága dönt a szövetkezeti hitelintézet Integrációs Szervezeti tagságának a felfüggesztéséről vagy – indokolt esetben – a szövetkezeti hitelintézet Integrációs Szervezetből történő kizárásáról.
 
 (5) A Takarékbank Zrt. igazgatósága dönt a szövetkezeti hitelintézet vezető tisztségviselője vagy vezető tisztségviselői megbízatása felfüggesztésének a megszüntetéséről illetve az Integrációs Szervezet igazgatósága dönt az Integrációs Szervezeti tagság felfüggesztésének a megszüntetéséről, amennyiben a szövetkezeti hitelintézet az utasításnak eleget tesz illetve helyreállította a jogszabályoknak és a szabályzatoknak megfelelő működését.
@@ -255,11 +255,11 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 (15) Ha a részvényesi jogok felfüggesztésével érintett elsőbbségi részvények aránya az elsőbbségi részvényeken belül elérik az 50%-ot, abban az esetben az érintett részvénysorozathoz kapcsolódó jogok szünetelnek, azaz a szünetelés ideje alatt nem létezőnek tekintendők.
 
-(16) Az Integrációs Szervezet által meghatározott esetekben és célokra a Takarékbank Zrt. az Integrációs Szervezet tagjainak eszközeit illetve kötelezettségeit időről-időre átvizsgálhatja, és a 19. §. (5) bekezdésben szereplő megállapításokat teheti, ill. intézkedéseket alkalmazhatja.
+(16) Az Integrációs Szervezet által szabályzatban meghatározott esetekben és célokra a Takarékbank Zrt. az Integrációs Szervezet tagjainak eszközeit, illetve kötelezettségeit időről időre átvizsgálhatja, és a 19. § (5) bekezdésben szereplő megállapításokat teheti, illetve intézkedéseket alkalmazhatja.
 
 (17) Azt a kérdést, hogy fennáll-e a 4. bekezdés a) és b) illetve a 7. bekezdés a) és b) pontjában írt körülmény az Integrációs Szervezet igazgatósága jogosult eldönteni.
 
-(18)
+(18) Ahol a fenti (4)–(8) bekezdések az Integrációs Szervezet igazgatósága javára nevesítenek hatáskört, ott a Takarékbank Zrt. igazgatóságának van hatásköre.
 
 (19) A Takarékbank Zrt. mint a szövetkezeti hitelintézetek és az integráció központi bankja, a prudens működés biztosítása érdekében kizárólagos jogkörrel jogosult előzetesen jóváhagyni az egyes szövetkezeti hitelintézeteknek és az Integrációs Szervezetnek más gazdálkodó szervezetben, illetve jogi személyben történő tulajdonszerzését vagy a szerzett tulajdon értékesítését, ha az értékesíteni vagy megszerezni tervezett tulajdon értéke, illetve vételára meghaladja az integráció konszolidált alapon számított szavatoló tőkéje 0,1%-át. A tizenkét hónapon belül végrehajtott ügyleteket ugyanazon tulajdoni részesedés vonatkozásában össze kell számítani.
 
@@ -315,7 +315,7 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 (4) A működési engedély visszavonásáról szóló felügyeleti határozat kézhez vételét követő 3. munkanap végéig a szövetkezeti hitelintézet köteles a betéteseinek személyes adatait, a betétek összegét és egyéb jellemzőit, valamint a (3) bekezdés szerinti eljárás (betétállomány átvétele) lefolytatása szempontjából szükséges adatokat valamint a likvid vagyonra vonatkozó minden információt elektronikus állomány és fizikai dokumentum formájában is eljuttatni a Felügyelet és a Takarékbank Zrt. részére, oly módon, hogy abban a betétállomány átvétele szempontjából fontos adatok világosan és elkülöníthetően szerepeljenek.
 
-(5) A szövetkezeti hitelintézethez a Felügyelet – a szövetkezeti hitelintézet működési engedélyét visszavonó határozattal egyidejűleg – felügyeleti biztost jelöl ki. A szövetkezeti hitelintézethez kirendelt felügyeleti biztos a Hpt. 165. § szerinti jogkörében eljárva a szövetkezeti hitelintézet által a (4) bekezdés szerint rendelkezésre bocsátott adatok alapján haladéktalanul megvizsgálja a szövetkezeti hitelintézet betétállományának átvétele szempontjából fontos alábbi adatokat:
+(5) A szövetkezeti hitelintézethez a Felügyelet – a szövetkezeti hitelintézet működési engedélyét visszavonó határozattal egyidejűleg – felügyeleti biztost jelöl ki. A szövetkezeti hitelintézethez kirendelt felügyeleti biztos a Hpt. 196. § szerinti jogkörében eljárva a szövetkezeti hitelintézet által a (4) bekezdés szerint rendelkezésre bocsátott adatok alapján haladéktalanul megvizsgálja a szövetkezeti hitelintézet betétállományának átvétele szempontjából fontos alábbi adatokat:
 
 - a) a szövetkezeti hitelintézet jegybankképes értékpapír-állománya;
 - b) a szövetkezeti hitelintézet a felügyeleti biztos által a Takarékbank Zrt. hitelminősítési szabályzata alapján jónak minősített hitelállománya;
@@ -333,34 +333,20 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 #### 8/B. A szövetkezeti hitelintézet tevékenysége
 
-17/B. § (1) A szövetkezeti hitelintézet forintban, illetőleg devizában, valutában üzletszerűen a következő tevékenységeket végezheti és kiegészítő pénzügyi szolgáltatásokat nyújthatja
-
-- a) betét gyűjtése és más visszafizetendő pénzeszköz – saját tőkét meghaladó mértékű – nyilvánosságtól történő elfogadása;
-- b) hitel és pénzkölcsön nyújtása;
-- c) pénzügyi lízing;
-- d) pénzforgalmi szolgáltatások nyújtása;
-- e) elektronikus pénz kibocsátása;
-- f) olyan papír alapú készpénz-helyettesítő fizetési eszköz (például papír alapú utazási csekk, váltó) kibocsátása, illetve az ezzel kapcsolatos szolgáltatás nyújtása, amely nem minősül pénzforgalmi szolgáltatásnak;
-- g) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
-- h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
-- i) pénzügyi szolgáltatás közvetítése;
-- j) letéti szolgáltatás, széfszolgáltatás, valamint
-- k) kiegészítő pénzügyi szolgáltatásként
-  - ka) pénzváltási tevékenység és
-  - kb) pénzügyi ügynöki tevékenység a bankközi piacon.
+17/B. § (1) A szövetkezeti hitelintézet kizárólag a Hpt. 3. § (1) és (2) bekezdésében és a Hpt. 7. § (3) bekezdésében megjelölt tevékenységeket végezheti.
 
 (2) A hitelszövetkezet az (1) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – kizárólag saját tagjai tekintetében végezheti.
 
 #### 8/C. Tőkekövetelmények
 
-17/C. § (1) Szövetkezeti hitelintézet legalább kétszázötvenmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá.
+17/C. § (1) Szövetkezeti hitelintézet – kizárólag szövetkezeti formában – legalább háromszázmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
 
 (2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed vagy a 19. § (13) bekezdésében meghatározott esetben, az Integrációs Szervezet jogosult – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyeletet előzetesen értesítve az alábbi kivételes intézkedésekkel élni:
 
 - a) előírhatja a szövetkezeti hitelintézet
   - aa) nem banküzemi célú eszközeinek eladását,
   - ab) az általa megállapított határidőn belül és követelményeknek megfelelően – ideértve az eszközök eladását is – rendezze tőkeszerkezetét,
-  - ac) a pénzügyi intézmény által végzett pénzügyi szolgáltatásokra, a pénzügyi intézmény által vállalt kockázatokra tekintettel az (1) bekezdésben írtnál magasabb, a Hpt. 76. § (1) bekezdésében meghatározott tőkekövetelmény értékét elérő egyedi tőkekövetelményt határozhat meg;
+  - ac) a pénzügyi intézmény által végzett pénzügyi szolgáltatásokra, a pénzügyi intézmény által vállalt kockázatokra tekintettel az (1) bekezdésben írtnál magasabb, az Európai Parlament és a Tanács 575/2013/EU rendeletének 92. cikkében meghatározott tőkekövetelmények értékét elérő vagy meghaladó egyedi tőkekövetelményt határozhat meg;
 - b) korlátozhatja, illetőleg megtilthatja a szövetkezeti hitelintézet számára
   - ba) a tulajdonosok és a szövetkezeti hitelintézet közötti ügyleteket,
   - bb) a betétek és más visszafizetendő források kifizetését,
@@ -405,7 +391,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 17/E. § (1) Szövetkezeti formában működő szövetkezeti hitelintézetet legalább kétszáz tag alapíthat, illetve szövetkezeti formában működő szövetkezeti hitelintézet legalább kétszáz taggal működhet.
 
-(2) A tagok nyilvántartását a szövetkezeti formában működő szövetkezeti hitelintézet igazgatósága vezeti. A tagok nyilvántartása az alábbi adatokat tartalmazza: a tag nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén annak székhelyét, cégjegyzékszámát vagy nyilvántartási számát és mellékletként a tényleges tulajdonosi nyilatkozatot. A tagok nyilvántartását és a részvénykönyvet és a bennük szereplő adatokat – bárki megtekintheti, aki jogi érdekét igazolja illetve a tagok nyilvántartása és a részvénykönyv és azok mellékletei nyilvánosak a Takarékbank Zrt. szabályzatában meghatározott módon és körben. A szövetkezeti hitelintézet igazgatósága a tagok nyilvántartásában illetve a részvénykönyvben történő minden módosításról – ideértve a 17/F. § (2) bekezdésében foglaltaknak történő megfelelés vizsgálatát is – a neki történt bejelentést követő 3 munkanapon belül bejelentést tesz az Integrációs Szervezetnek is.
+(2) A tagok nyilvántartását a szövetkezeti formában működő szövetkezeti hitelintézet igazgatósága naprakészen vezeti, és ez tükrözi a tag vagyoni hozzájárulása összegében bekövetkezett változásokat is. A tagok nyilvántartása az alábbi adatokat tartalmazza: a tag nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén annak székhelyét, cégjegyzékszámát vagy nyilvántartási számát és mellékletként a tényleges tulajdonosi nyilatkozatot. A tagok nyilvántartása tartalmazza ezen felül a tag felvételéről hozott döntés számát, a tagsági jogviszony keletkezésének időpontját, a tag által teljesített vagyoni hozzájárulás összegét, valamint a teljesítés időpontját, valamint a tagsági jogviszony megszűnésének időpontját, az elszámolás során a tagnak kifizetett összeget és a kifizetés időpontját is. A tagok nyilvántartását és a részvénykönyvet és a bennük szereplő adatokat bárki megtekintheti, aki jogi érdekét igazolja illetve a tagok nyilvántartása és a részvénykönyv és azok mellékletei nyilvánosak a Takarékbank Zrt. szabályzatában meghatározott módon és körben. A szövetkezeti hitelintézet igazgatósága a tagok nyilvántartásában illetve a részvénykönyvben történő minden módosításról – ideértve a 17/F. § (2) bekezdésében foglaltaknak történő megfelelés vizsgálatát is – a neki történt bejelentést követő 3 munkanapon belül bejelentést tesz az Integrációs Szervezetnek is.
 
 (3) Amennyiben – működési formájától függetlenül – a szövetkezeti hitelintézet tagja vagy részvényese jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy, akkor annak a közvetlen vagy közvetett tagjait, tulajdonosait illetve részvényeseit és tényleges tulajdonosait is a fenti (2) bekezdésben meghatározottaknak megfelelően fel kell tárni és nyilvántartásba kell venni oly módon, hogy valamennyi közvetett vagy közvetlen tulajdonos gazdasági társaság vagy jogi személy közvetett vagy közvetlen természetes személy tulajdonosait és tényleges tulajdonosait is folyamatosan tartalmazza a nyilvántartás. A fentiek alól kivételt képeznek a tőzsdén jegyzett nyilvánosan működő részvénytársaságok. Új tag vagy részvényes köteles a fenti feltárást a szövetkezeti hitelintézetnek történő bejelentéssel együtt a szövetkezeti hitelintézet részére elvégezni. A feltárt adatokat a szövetkezeti hitelintézet a bejelentést követő 3 munkanapon belül bejelenti az Integrációs Szervezetnek. Az Integrációs Szervezet szabályzatban a feltárásra vonatkozóan további szabályokat állapíthat meg.
 
@@ -438,7 +424,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (2) Szövetkezeti hitelintézet számviteli törvény szerinti beszámolójának elfogadásához a Takarékbank Zrt. előzetes jóváhagyása szükséges.
 
-17/K. § (1) A szövetkezeti hitelintézet kötvénykibocsátásához, tőkéjének leszállításához illetve felemeléséhez a Takarékbank Zrt. kifejezett előzetes, írásbeli hozzájárulása szükséges.
+17/K. § (1) A szövetkezeti hitelintézet kötvénykibocsátásához, tőkéjének leszállításához illetve felemeléséhez a Takarékbank Zrt. kifejezett, előzetes, írásbeli hozzájárulása is szükséges. A Takarékbank Zrt. a 17/Q. § (4) bekezdésében foglalt esetekben jogosult illetve köteles megtagadni a hozzájárulást illetve akkor is, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
 
 (2)
 
@@ -448,23 +434,23 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (5) A szövetkezeti hitelintézet legalább egy belső ellenőrt foglalkoztat. A szövetkezeti hitelintézet írásban megállapodhat arról, hogy a belső ellenőr más pénzügyi intézménnyel közös foglalkoztatása ellen nem emel kifogást. Ugyanazon személy legfeljebb három szövetkezeti hitelintézetnél, pénzügyi vállalkozásnál, illetve pénzforgalmi intézménynél foglalkoztatható belső ellenőrként.
 
-(6) A Hpt.-ben előírtakon túlmenően további követelmény a szövetkezeti hitelintézeti természetes személy könyvvizsgálóval szemben, hogy
+(6) A Hpt. 260. §-ában előírtakon túlmenően további követelmény a szövetkezeti hitelintézeti természetes személy könyvvizsgálóval szemben, hogy
 
 - a) egyidejűleg legfeljebb öt szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot,
 - b) egy-egy szövetkezeti hitelintézettől származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) harminc százalékát,
 - c) az egy tulajdonosi csoporthoz tartozó szövetkezeti hitelintézettől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) hatvan százalékát.
 
-(7) A hitelintézeti könyvvizsgáló társaságokkal szemben a Hpt.-ben foglaltakon túlmenően további követelmény, hogy a könyvvizsgálói társaságon belül a (6) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot.
+(7) A hitelintézeti könyvvizsgáló társaságokkal szemben a Hpt. 260 §-ában foglaltakon túlmenően további követelmény, hogy a könyvvizsgálói társaságon belül a (6) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot.
 
-(8) A könyvvizsgálónak a Hpt. 136. § (1) bekezdésében foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az érintett szövetkezeti hitelintézet igazgatóságának, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek valamint a Takarékbank Zrt.-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
+(8) A könyvvizsgálónak a Hpt. 263. § (1) bekezdésében foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az érintett szövetkezeti hitelintézet igazgatóságának, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek valamint a Takarékbank Zrt.-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
 
-(9) A szövetkezeti hitelintézet által a Hpt. 139/A. §-a szerint fizetendő felügyeleti díj a Hpt. 139/A. § (3) bekezdés szerinti alapdíjként kétszázezer forint és a (10) bekezdésben szereplő változó díj.
+(9) A szövetkezeti hitelintézet által a Hpt. 208. §-a szerint fizetendő felügyeleti díj a Hpt. 208. § (3) bekezdés szerinti alapdíjként kétszázezer forint és a (10) bekezdésben szereplő változó díj.
 
-(10) A változó díj a Hpt. 76. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezrelékének, és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,25 ezrelékének összege.
+(10) A változó díj a Hpt. 79. § (2) bekezdése szerint számított tőkekövetelmény 3,8 ezrelékének, és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,25 ezrelékének összege.
 
 (11) A szövetkezeti hitelintézet bankszámláit és értékpapír számláit a Takarékbank Zrt. vezeti.
 
-17/L. § A szövetkezeti hitelintézet Hpt. 49. § (2) bekezdésében előírt titoktartási kötelezettsége nem áll fenn a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró Takarékbank Zrt.-vel és az Integrációs Szervezettel, valamint a feladatkörében eljáró kormánybiztossal szemben. A szövetkezeti hitelintézet a Hpt. 50. §-a szerinti banktitkot kiadhatja a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró Takarékbank Zrt.-nek, az Integrációs Szervezetnek, valamint a feladatkörében eljáró kormánybiztosnak, és e körben a banktitok megtartásának kötelezettsége nem áll fenn.
+17/L. § A szövetkezeti hitelintézet Hpt. 159. § (2) bekezdésében előírt titoktartási kötelezettsége nem áll fenn a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró Takarékbank Zrt.-vel és az Integrációs Szervezettel, valamint a feladatkörében eljáró kormánybiztossal szemben. A szövetkezeti hitelintézet a Hpt. 160. §-a szerinti banktitkot kiadhatja a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró Takarékbank Zrt.-nek, az Integrációs Szervezetnek, valamint a feladatkörében eljáró kormánybiztosnak, és e körben a banktitok megtartásának kötelezettsége nem áll fenn.
 
 #### 8/E. A Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja
 
@@ -510,13 +496,13 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 17/P. § (1) A szövetkezeti hitelintézetek és a Takarékbank Zrt. az 1. § (4) bekezdésében meghatározott egyetemleges felelősségvállalásuk fedezetét elsődlegesen az Alapba történő éves befizetéssel és az Alap által elrendelt rendkívüli befizetéssel teljesítik.
 
-(2) A szövetkezeti hitelintézet a jelen törvény alapján éves befizetési kötelezettségének első alkalommal azt követő 15 napon belül köteles eleget tenni, hogy a szövetkezeti hitelintézet vonatkozásában a Takarékbank Zrt. Igazgatósága a 20/A. § (2) bekezdés b) pontja szerinti határozatot meghozta. A szövetkezeti hitelintézet éves befizetési kötelezettségének ezt követően legkésőbb minden év május 31-ig eleget tenni. Az éves díj 0,06%. Az éves díjat az Alap jogosult évente egyszer felülvizsgálni. Az éves díj alapja a Hpt. 121. § (1) bekezdése szerint a szövetkezeti hitelintézet tárgyévet megelőző gazdasági év december 31-ei auditált és közgyűlés által elfogadott mérlegében kimutatott betétállomány összege (teljes állománya), melybe a Hpt. 2. sz. mellékletének IV/1. pontja értelmében beletartozik a hitelintézet által 2003. január 1-től kezdődően kibocsátott hitelviszonyt megtestesítő értékpapírok (azaz a kötvények és a letéti jegyek) teljes állománya is. Amennyiben a szövetkezeti hitelintézet a jelen bekezdésben foglalt kötelezettségét nem teljesíti és azt az Alap felszólításában megjelölt póthatáridőben sem pótolja, a Felügyelet a szövetkezeti hitelintézet működési engedélyét visszavonja. A törtévekben az éves befizetési kötelezettség mértékét 12-vel osztani kell, majd meg kell szorozni az évből még hátralévő hónapok számával. A törthónapot még hátralévő hónapnak kell tekinteni.
+(2) A szövetkezeti hitelintézet a jelen törvény alapján éves befizetési kötelezettségének első alkalommal azt követő 15 napon belül köteles eleget tenni, hogy a szövetkezeti hitelintézet vonatkozásában a Takarékbank Zrt. Igazgatósága a 20/A. § (2) bekezdés b) pontja szerinti határozatot meghozta. A szövetkezeti hitelintézet éves befizetési kötelezettségének ezt követően legkésőbb minden év május 31-ig eleget tenni. Az éves díj 0,06%. Az éves díjat az Alap jogosult évente egyszer felülvizsgálni. Az éves díj alapja a Hpt. 234. § (1) bekezdése szerint a szövetkezeti hitelintézet tárgyévet megelőző gazdasági év december 31-ei auditált és közgyűlés által elfogadott mérlegében kimutatott betétállomány összege (teljes állománya), melybe a Hpt. 6. § (2) bekezdésének 1. pontja értelmében beletartozik a hitelintézet által 2003. január 1-től kezdődően kibocsátott hitelviszonyt megtestesítő értékpapírok (azaz a kötvények és a letéti jegyek) teljes állománya is. Amennyiben a szövetkezeti hitelintézet a jelen bekezdésben foglalt kötelezettségét nem teljesíti és azt az Alap felszólításában megjelölt póthatáridőben sem pótolja, a Felügyelet a szövetkezeti hitelintézet működési engedélyét visszavonja. A törtévekben az éves befizetési kötelezettség mértékét 12-vel osztani kell, majd meg kell szorozni az évből még hátralévő hónapok számával. A törthónapot még hátralévő hónapnak kell tekinteni.
 
 (3) Az Alapba a (2) bekezdés szerint befizetett összeg kizárólag az integráció tagjaival szemben az egyetemlegesség alapján érvényesített követelések rendezésére használható fel, visszakövetelésére sem a szövetkezeti hitelintézet sem annak felszámolója vagy hitelezője nem jogosult; sem a szövetkezeti hitelintézet fennállása alatt, sem működési engedélyének visszavonása vagy egyébként jogutód nélküli megszűnése esetén.
 
 (4) Amennyiben a szövetkezeti hitelintézettől a 20/A. § (4) bekezdésében foglalt feltételeknek megfelelő jogerős ítélet vagy nem vitatott tartozás alapján követel harmadik fél teljesítést, akkor a szövetkezeti hitelintézet erről az Alapot és a Takarékbank Zrt.-t haladéktalanul tájékoztatja.
 
-(5) Amennyiben a szövetkezeti hitelintézet által a 20/A. § (4) bekezdésében foglalt feltételeknek megfelelő jogerős ítélet vagy nem vitatott tartozás alapján fizetendő összeg az Alap egyenlegét meghaladja, az Alap rendkívüli befizetés teljesítését rendeli el a szövetkezeti hitelintézetek és a Takarékbank Zrt. számára; a rendkívüli befizetés teljesítésének határidejét az Alap jelöli meg. A rendkívüli befizetés mértéke oly módon kerül meghatározásra, hogy az Alap és a harmadik fél által támasztott követelés összegének különbségét az Alap a tagintézmények teljes állománya arányában elosztja. A teljes állomány a tárgyévet megelőző gazdasági év december 31-i auditált, és a közgyűlés által elfogadott mérlegében kimutatott betétállomány összege, amelybe a Hpt. 2. sz. mellékletének IV/1. pontja értelmében beletartozik a hitelintézet által 2003. január 1-től kezdődően kibocsátott hitelviszonyt megtestesítő értékpapírok (azaz a kötvények és a letéti jegyek) teljes állománya is.
+(5) Amennyiben a szövetkezeti hitelintézet által a 20/A. § (4) bekezdésében foglalt feltételeknek megfelelő jogerős ítélet vagy nem vitatott tartozás alapján fizetendő összeg az Alap egyenlegét meghaladja, az Alap rendkívüli befizetés teljesítését rendeli el a szövetkezeti hitelintézetek és a Takarékbank Zrt. számára; a rendkívüli befizetés teljesítésének határidejét az Alap jelöli meg. A rendkívüli befizetés mértéke oly módon kerül meghatározásra, hogy az Alap és a harmadik fél által támasztott követelés összegének különbségét az Alap a tagintézmények teljes állománya arányában elosztja. A teljes állomány a tárgyévet megelőző gazdasági év december 31-i auditált, és a közgyűlés által elfogadott mérlegében kimutatott betétállomány összege, amelybe a Hpt. 6. § (2) bekezdésének 1. pontja értelmében beletartozik a hitelintézet által 2003. január 1-től kezdődően kibocsátott hitelviszonyt megtestesítő értékpapírok (azaz a kötvények és a letéti jegyek) teljes állománya is.
 
 (6) A Takarékbank Zrt. éves befizetési kötelezettségének első alkalommal a 20/A. § (2) a) pontja szerinti kezdő időpontot követő 15 napon belül, ezt követően a (2) bekezdésben foglalt szabályok szerint köteles eleget tenni.
 
@@ -538,7 +524,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 17/R. § (1) A szövetkezeti formában működő szövetkezeti hitelintézet tagja, illetőleg annak örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezeti formában működő szövetkezeti hitelintézet saját tőkéjéből legfeljebb a részjegye összegére tarthat igényt.
 
-(2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, legfeljebb a megszűnést követő második éves beszámolót megállapító közgyűlés (küldöttgyűlés) napjától számított harmincadik napig az igazgatóság köteles meghosszabbítani a részjegy összegének visszafizetését, ha ennek következtében a szövetkezeti formában működő szövetkezeti hitelintézet saját tőkéje, illetőleg szavatoló tőkéje nem éri el a Hpt. 76. § (1)–(2) bekezdésében meghatározott tőkekövetelményt.
+(2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, legfeljebb a megszűnést követő második éves beszámolót megállapító közgyűlés (küldöttgyűlés) napjától számított harmincadik napig az igazgatóság köteles meghosszabbítani a részjegy összegének visszafizetését, ha ennek következtében a szövetkezeti formában működő szövetkezeti hitelintézet saját tőkéje, illetőleg szavatoló tőkéje nem éri el a Hpt. 79. § (1) és (2) bekezdésében és a Hpt. 186. § (1) bekezdésében meghatározott tőkekövetelményt.
 
 (3) A (2) bekezdésben meghatározott esetben – két éven belül – a volt tag, illetőleg örököse (jogutódja) részére azt követően kell esedékessé válásuk sorrendjében a kifizetést teljesíteni, hogy ennek fedezete rendelkezésre áll.
 
@@ -554,11 +540,11 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (3) A felügyeleti biztos a Felügyelet (2) bekezdésben foglalt szabályoknak megfelelően kiadott jóváhagyását követő 10 napon belül felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak van-e helye, és a javaslatát haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
 
-(4) A Felügyelet a szövetkezeti hitelintézet jogutód nélküli megszűnésének kezdeményezésére vonatkozó határozatát a felügyeleti biztos javaslata alapján, a Hpt. végelszámolásra illetve felszámolásra vonatkozó szabályai szerint hozza meg.
+(4) A Felügyelet a szövetkezeti hitelintézet jogutód nélküli megszűnésének kezdeményezésére vonatkozó határozatát a felügyeleti biztos javaslata alapján, a Hpt. 47-66. §-ának rendelkezései szerint hozza meg.
 
-(5) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 30.§ (1) bekezdés b) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
+(5) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 33. § (1) bekezdés a) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
 
-(6) A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. rendelkezései alkalmazandóak.
+(6) A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47-66. §-ainak rendelkezései alkalmazandóak.
 
 #### 9. Záró, átmeneti és értelmező rendelkezések
 
@@ -577,7 +563,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 (2) A szövetkezeti hitelintézet
 
 - a) 2017. december 31-ig nem jogosult olyan kötelezettséget vállalni, amelyre szavatoló tőkéje a 2012. december 31-ei állapot szerint nem nyújtana fedezetet, kivéve, ha – 2014. július 1-et követően a Takarékbank Zrt. igazgatósága előre, írásban kifejezett felmentést ad neki a fenti tilalom alól.
-- b) a törvény hatálybalépését követő 365 napon belül csak az Integrációs Szervezet hozzájárulásával jogosult a szokásos üzletmenetbe nem tartozó ügyleteket megkötni vagy kötelezettségvállalásokat tenni, hitelt felvenni, nagykockázatot vállalni (Hpt. 79. §–81. §), egyetemleges kötelezettséget vállalni vagy társasági részesedést szerezni, ide nem értve a jelen törvény szerint a „C” sorozatú elsőbbségi részvény átvételére vonatkozó kötelezettség teljesítését. Az Integrációs Szervezet úgy dönthet, hogy egyes szövetkezeti hitelintézetek vagy a szövetkezeti hitelintézetek egy csoportja vagy valamennyi érintett vonatkozásában a fenti határidőt legfeljebb további 180 napra meghosszabbítja vagy egyes tevékenységek végzését vagy a kockázatvállalást a fentieknél jobban korlátozza.
+- b) a törvény hatálybalépését követő 365 napon belül csak az Integrációs Szervezet hozzájárulásával jogosult a szokásos üzletmenetbe nem tartozó ügyleteket megkötni vagy kötelezettségvállalásokat tenni, hitelt felvenni, nagykockázatot vállalni (a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet negyedik rész), egyetemleges kötelezettséget vállalni vagy társasági részesedést szerezni, ide nem értve a jelen törvény szerint a „C” sorozatú elsőbbségi részvény átvételére vonatkozó kötelezettség teljesítését. Az Integrációs Szervezet úgy dönthet, hogy egyes szövetkezeti hitelintézetek vagy a szövetkezeti hitelintézetek egy csoportja vagy valamennyi érintett vonatkozásában a fenti határidőt legfeljebb további 180 napra meghosszabbítja vagy egyes tevékenységek végzését vagy a kockázatvállalást a fentieknél jobban korlátozza.
 
 (3) A 3. § (2) bekezdésétől eltérően a jelen törvény hatályba lépésekor működési engedéllyel rendelkező szövetkezeti hitelintézet köteles az alábbi határidőben az alábbiakra és arról értesíteni a Felügyeletet és az Integrációs Szervezetet:
 
@@ -592,7 +578,7 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 
 (6) Nem jogosult „C” típusú elsőbbségi részvényre és nem csatlakozhat az Integrációs Szervezethez a Takarékbank Zrt. azon részvényese, amely a 12. § (2) bekezdésben meghatározottakon túl a jelen törvény hatálybalépésekor a Takarékbank Zrt. részvényese.
 
-(7) Amennyiben a Felügyelet a szövetkezeti hitelintézet működési engedélyét bármely okból visszavonja, akkor a Felügyelet egyidejűleg kezdeményezi a Hpt. 176/B. §-a szerint a szövetkezeti hitelintézet végelszámolását vagy a Hpt. 177. §-a szerint a felszámolását és a Hpt. 157. § (1) bekezdés e) pontja alapján a Hpt. 151. § (3) bekezdés szerinti feltételek teljesülése nélkül is felügyeleti biztost rendel ki. Ebben az esetben a Takarékbank Zrt. köteles az érintett szövetkezeti hitelintézet betéteseinek védelmében a betétállományokat 60 napon belül e törvény 17. §-a rendelkezései szerint átvenni.
+(7) Amennyiben a Felügyelet a szövetkezeti hitelintézet működési engedélyét bármely okból visszavonja, akkor a Felügyelet egyidejűleg kezdeményezi a a Hpt. 48. §-a szerint a szövetkezeti hitelintézet végelszámolását vagy a Hpt. 51. §-a szerint a felszámolását és a Hpt. 189. § (1) bekezdés e) pontja alapján a Hpt. 184. § (3) bekezdés szerinti feltételek teljesülése nélkül is felügyeleti biztost rendel ki. Ebben az esetben a Takarékbank Zrt. köteles az érintett szövetkezeti hitelintézet betéteseinek védelmében a betétállományokat 60 napon belül e törvény 17. §-a rendelkezései szerint átvenni.
 
 (8) A 2014. április 30-ig amennyiben a Takarékbank Zrt. – az Integrációs Szervezet igazgatósága szerint – válsághelyzetben van vagy szerinte válsághelyzet fenyeget vagy, ha a Takarékbank Zrt. vezető tisztségviselői a jogszabályokból vagy a jelen törvényből eredő kötelezettségüket megszegik, akkor az Integrációs Szervezet igazgatósága dönthet a Takarékbank Zrt. egyes vagy valamennyi vezető tisztségviselője megbízatásának a felfüggesztéséről legfeljebb 180 napra, mely felfüggesztést legfeljebb további 180 napra meghosszabbíthat vagy – különösen indokolt esetben – dönthet megbízatásuk megszüntetéséről illetve átmeneti időre vezető tisztségviselő vagy tisztségviselők megbízásáról a Takarékbank Zrt. következő közgyűléséig. Az ezen átmeneti időre az Integrációs Szervezet által kinevezett vezető tisztségviselői kinevezéséhez nem szükséges a Felügyelet engedélye.
 
@@ -696,13 +682,7 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 
 #### 22–38. §
 
-39. § A polgári törvénykönyvről szóló 2013. évi V. tv. a 3:240. § rendelkezéseit követően az alábbi 3:240/A. §-sal kiegészülve lép hatályba:
-
-„Az átváltozó kötvény
-
-3:240/A. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amely egy később bekövetkező objektív feltétel bekövetkezte esetén részvénnyé alakul át (átváltozó kötvény).
-
-(2) A részvénytársaság közgyűlése felhatalmazhatja az igazgatóságot átváltozó vagy feltételesen átváltozó kötvény kibocsátására.”
+#### 39. §
 
 40. § A polgári törvénykönyvről szóló 2013. évi V. tv. 3:250. § (2) bekezdés c) pontja a következő szöveggel lép hatályba:
 
@@ -722,45 +702,7 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 
 (5) Az átváltozó kötvény előre meghatározott objektív ok alapján alakul át részvénnyé, ennek megfelelően tulajdonosa számára elsőbbségi jogot nem biztosít”
 
-42. § A polgári törvénykönyvről szóló 2013. évi V. tv. 3:303. § (1)–(3) bekezdése a következő szöveggel lép hatályba:
-
-„5. Alaptőke-emelés átváltoztatható kötvények részvénnyé alakításával, ill. átváltozó kötvények részvénnyé alakulásával
-
-3:303. § [Feltételes alaptőke-emelés]
-
-(1) A részvénytársaság feltételes alaptőke-emelést határozhat el átváltoztatható, ill. átváltozó kötvények forgalomba hozatalával.
-
-(2) A forgalomba hozott átváltoztatható és átváltozó kötvények összesített névértékének összege nem haladhatja meg a részvénytársaság alaptőkéjének felét.
-
-(3) Az átváltoztatható kötvényt az alapszabályban meghatározott feltételek szerint a kötvényes kérésére részvénnyé kell átalakítani.
-
-(4) Az átváltozó kötvény egy később bekövetkező objektív feltétel bekövetkezte esetén részvénnyé alakul át.
-
-(5) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban meg kell határozni
-
-a) azt, hogy a kötvény kibocsátása zártkörűen vagy nyilvánosan történik;
-
-b) a kibocsátandó kötvények számát, névértékét, illetve kibocsátási értékét, a kötvények sorozatát, a jegyzés helyét és idejét;
-
-c) a kötvények részvénnyé történő átalakításának, ill. átalakulásának feltételeit, időpontját;
-
-d) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
-
-e) kötvény zártkörű kibocsátása esetén a kötvények átvételére jogosult személyeket és az általuk jegyezhető kötvények számát, névértékét, kibocsátási értékét és sorozatát.”
-
-43. § A polgári törvénykönyvről szóló 2013. évi V. tv. 3:305. §-a a következő szöveggel lép hatályba:
-
-„3:305. § [Átváltoztatható kötvény helyett részvény igénylése és átváltozó kötvény átalakulása]
-
-(1) Az átváltoztatható kötvény tulajdonosai a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt írásban – nyomdai úton előállított kötvények esetén a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek. Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos a bejelentéssel egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. A nyilatkozat megtételével a kötvénytulajdonos jogosulttá válik részvényutalványra.
-
-(2) Az átváltozó kötvény az alaptőke felemelését átváltozó kötvény kibocsátása útján elhatározó közgyűlési határozatban foglalt objektív feltételek bekövetkezte alapján alakul át részvénnyé. Az átváltozó kötvény tulajdonosai az objektív feltétel bekövetkeztét követően belül, a közgyűlés által meghatározott időtartam alatt írásban – nyomdai úton előállított kötvények esetén a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek. A kötvénytulajdonos az objektív feltétel bekövetkeztével jogosulttá válik részvényutalványra. A kötvény átváltozása a törvény erejénél fogva következik be.
-
-(3) A kötvényt kibocsátó közgyűlési határozatban foglaltaknak megfelelően az (1) és (2) bekezdés szerinti bejelentés megtételére rendelkezésre álló időtartam lejártát, ill. az objektív feltétel bekövetkeztét követő első közgyűlésen vagy a közgyűlési határozatban meghatározott időpontban kell az alaptőke felemeléséről dönteni, és ennek megfelelően a részvénytársaság alapszabályát módosítani.”
-
-44. § A polgári törvénykönyvről szóló 2013. évi V. tv. 3:319. § (5) bekezdése a következő szöveggel lép hatályba:
-
-„(5) Az átváltoztatható vagy átváltozó kötvény esetén az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonos számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul jogosultsága csökkenéséhez. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható, átváltozó vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. Az e bekezdésben foglalt szabályokat nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták a kötvénytulajdonosok helyzetét egy esetleges egyesülés esetére.”
+#### 42–44. §
 
 #### 45–47. §
 

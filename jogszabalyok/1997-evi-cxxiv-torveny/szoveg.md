@@ -34,13 +34,13 @@ Az Országgyűlés– elismerve a magyarországi egyházaknak a nemzet életébe
 
 (4) A nem természetben visszaigényelt ingatlanokra vonatkozó pénzbeli igény járadékká alakítását a bevett egyház e törvény hatálybalépését követő 180 napon belül írásban kérheti, csatolva azt az értékfeltüntetést is tartalmazó ingatlanjegyzéket, amely a számítás alapját képezi. A járadék induló összege a Kormány, illetve a bevett egyház felhatalmazott képviselője által megkötött megállapodásban kerül meghatározásra, kölcsönösen elfogadott értékelés alapján. A járadék folyósítása 1998. január 1-jétől történik. A Kormány, illetve a bevett egyház felhatalmazott képviselője az e bekezdésben meghatározott megállapodásban a járadék kiegészítésében is megállapodhat, amennyiben a bevett egyház hitéleti és közcélú tevékenysége indokolja.
 
-4. § (1) A bevett egyház jogosult – a külön törvényben meghatározottak szerint – a rendelkező nyilatkozatot tevő magánszemélyek által befizetett személyi jövedelemadó egy százalékára, amely a bevett egyház belső szabályában meghatározott módon használható fel.
+4. § (1) A bevett egyház jogosult a – törvényben meghatározottak szerint – rendelkező nyilatkozatot tevő magánszemélyek által befizetett személyi jövedelemadó egy százalékára, amely a bevett egyház belső szabályában meghatározott módon használható fel.
 
-(2) A bevett egyház a számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-okból eredő összegeken túl a (3)–(4) bekezdése szerint meghatározott további támogatásra jogosult.
+(2) A bevett egyház a számára az (1) bekezdésben foglaltak szerint felajánlott összegeken túl a (3) és (4) bekezdés szerinti további, kiegészítő támogatásra jogosult.
 
-(3) Amennyiben az (1) bekezdés alapján a bevett egyházakat megillető összeg együttesen nem éri el a nyilatkozattal érintett évre bevallott, az összevont adóalapot terhelő, adókedvezményekkel csökkentett személyi jövedelemadó 0,9 százalékát, ennek mértékéig a bevett egyházaknak ténylegesen átutalandó összeget a központi költségvetésből ki kell egészíteni.
+(3) Amennyiben az (1) bekezdés alapján a bevett egyházakat és a központi költségvetésről szóló törvényben meghatározott célt mint törvényben meghatározott kedvezményezettet megillető összegek együttesen és összesen nem érik el a nyilatkozattal érintett évre vonatkozóan – a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználása vonatkozásában – befizetett adó egy százalékát, ennek mértékéig a bevett egyházaknak ténylegesen átutalandó és a központi költségvetésről szóló törvényben célként meghatározott előirányzaton biztosítandó összeget a központi költségvetésből ki kell egészíteni.
 
-(4) A támogatásból az egyes bevett egyházak a javukra a személyi jövedelemadó 1%-áról rendelkező magánszemélyek arányában részesülnek.
+(4) A (3) bekezdés szerinti kiegészítő támogatásból a bevett egyház és a központi költségvetésről szóló törvényben célként meghatározott előirányzat a személyi jövedelemadó 1%-áról rendelkező magánszemélyek által tett felajánlások számának arányában részesül.
 
 5. § (1) Az egyházi jogi személy által ellátott nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységek központi költségvetésből történő finanszírozása az állami és helyi önkormányzati intézményekkel azonos szempontok szerint, azokkal azonos mértékben történik.
 
@@ -70,7 +70,7 @@ Az Országgyűlés– elismerve a magyarországi egyházaknak a nemzet életébe
 
 (2) A 3. § (1) bekezdése szerinti járadékot negyedévenként, az adott negyedév első hónapjának 10. napjáig, az első negyedévben az első hónap utolsó napjáig kell rendelkezésre bocsátani, a 3. § (2) bekezdésében előírt korrekciót pedig egy összegben kell rendezni a költségvetés végrehajtásáról szóló törvény elfogadását követő hónap utolsó napjáig.
 
-(3) A 4. § szerinti személyijövedelemadó-részesedést és annak kiegészítését a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni, és a felajánlást követő év január 31-éig a bevett egyháznak átutalni.
+(3) A bevett egyházakat a 4. §-ban meghatározottak szerint megillető személyi jövedelemadó-részesedést és kiegészítő támogatást a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni, és a felajánlásokat követő évben január 31-éig a bevett egyháznak átutalni.
 
 9. § A 3. § (3) bekezdése szerinti írásos nyilatkozatot – az előírt jogvesztő határidőn belül – a miniszternek kell megküldeni.
 

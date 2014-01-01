@@ -56,10 +56,10 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (9) A Magyarországon működő külföldi felsőoktatási intézmény által kiállított oklevelek hazai elismeréséről az Ftv. szerint adott engedély rendelkezhet.
 
-4/A. § (1) A Harmadik részben foglalt rendelkezések végrehajtása érdekében információs szolgálat működik, mely feladatai:
+4/A. § (1) A Harmadik részben foglalt rendelkezések végrehajtása érdekében információs szolgálat működik, amelynek feladatai:
 
-- a) a magyar állampolgároknak, a tagállamok állampolgárainak, valamint az azzal azonos megítélés alá eső személyeknek és más tagállamok információs szolgálatainak a tájékoztatása a Harmadik részben foglalt rendelkezések végrehajtása érdekében, így tájékoztatás a szakmákat és e szakmák gyakorlását szabályozó nemzeti jogszabályi rendelkezésekről, közöttük a szociális rendelkezésekről és adott esetben az etikai szabályokról, és
-- b) a magyar állampolgároknak, a tagállamok állampolgárainak, valamint az azzal azonos megítélés alá eső személyeknek a segítése a Harmadik részben foglalt jogok érvényesítésében.
+- a) a magyar állampolgároknak, a velük azonos megítélés alá eső személyeknek, továbbá a tagállamok állampolgárainak, valamint az azzal azonos megítélés alá eső személyeknek és más tagállamok információs szolgálatainak a tájékoztatása a Harmadik részben foglalt rendelkezések végrehajtása érdekében, így tájékoztatás a szakmákat és e szakmák gyakorlását szabályozó nemzeti jogszabályi rendelkezésekről, közöttük a szociális rendelkezésekről és adott esetben az etikai szabályokról, és
+- b) a magyar állampolgároknak, a velük azonos megítélés alá eső személyeknek, továbbá a tagállamok állampolgárainak, valamint az azzal azonos megítélés alá eső személyeknek a segítése a Harmadik részben foglalt jogok érvényesítésében.
 
 (2) Az Európai Bizottság megkeresésére az információs szolgálat a megkeresés kézhezvételétől számított két hónapon belül tájékoztatja az Európai Bizottságot annak a tevékenységének az eredményéről, amelyet az (1) bekezdés b) pontjának rendelkezései alapján folytat.
 
@@ -380,7 +380,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - a) a valamely tagállam állampolgárának, valamint a magyar állampolgárnak külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező családtagja,
 - b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
 - c) a bevándorolt, illetve letelepedett jogállású személy, valamint
-- d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár.
+- d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
+- e) az összevont engedéllyel rendelkező harmadik országbeli állampolgár.
 
 (3) Szabályozott szakmának minősül az olyan szakmai tevékenység vagy szakmai tevékenységek csoportja, amelynek a megkezdését, folytatását vagy meghatározott módon történő folytatását jogszabály, közvetlenül vagy közvetve, meghatározott szakmai képesítés birtoklásához köti, továbbá, amelyet külön jogszabály szabályozott szakmának minősít. A szakma meghatározott módon történő gyakorlásának minősül különösen az, ha jogszabály meghatározott szakmai cím használatát meghatározott képesítés birtoklásához köti.
 
@@ -817,7 +818,9 @@ A SZAKKÉPZETTSÉG ÉS A SZAKKÉPESÍTÉS FELTÉTEL NÉLKÜLI ELISMERÉSE
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
 - d) az Európai Parlament és a Tanács 2005/36/EK irányelve a szakmai képesítések elismeréséről, 1–20. cikk és 50–55. cikk, 57–64. cikk,
 - e) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról, 12. cikk a) pont,
-- f) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés d) pont.
+- f) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés d) pont,
+- g) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés d) pont,
+- h) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 28. cikk.
 
 70–71. §
 

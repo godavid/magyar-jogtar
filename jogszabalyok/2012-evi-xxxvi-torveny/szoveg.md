@@ -612,6 +612,10 @@ terheli.
 
 (6) Az Országgyűlés ellenkező határozatáig a házszabályi rendelkezések értelmezéséért felelős bizottság állásfoglalását alkalmazni kell.
 
+### V/A. Fejezet — EGYES DÖNTÉSEKHEZ SZÜKSÉGES SZAVAZATI ARÁNY
+
+61/A. § A képviselők kétharmadának szavazata szükséges a Nemzeti Emlékezet Bizottságáról szóló törvény szerinti Nemzeti Emlékezet Bizottsága elnökének és választott tagjának a megválasztásához, valamint ha a Nemzeti Emlékezet Bizottságáról szóló törvény szerint az Országgyűlés dönt a Nemzeti Emlékezet Bizottsága elnöke és választott tagja megbízatása megszűnéséről.
+
 ### VI. Fejezet — AZ ORSZÁGGYŰLÉS ÉS A KORMÁNY EURÓPAI UNIÓS ÜGYEKBEN TÖRTÉNŐ EGYÜTTMŰKÖDÉSE
 
 #### 25. Az országgyűlési jogkörök gyakorlásának módja
@@ -996,7 +1000,7 @@ terheli.
 
 ### XII. Fejezet — AZ ORSZÁGGYŰLÉS HIVATALA
 
-123. § (1) Az Országgyűlés Hivatala ellátja az Országgyűlés szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait. Az Országgyűlés Hivatala önállóan működő és gazdálkodó központi költségvetési szerv, az Országgyűlés költségvetési fejezetén belül önálló cím. Az Országgyűlés Hivatala jogi személy.
+123. § (1) Az Országgyűlés Hivatala az Országgyűlés szervezeti, működtetési, ügyviteli és döntés-előkészítési feladatait ellátó központi költségvetési szerv, amely az Országgyűlés költségvetési fejezetén belül önálló címet képez.
 
 (2) Az Országgyűlés Hivatalát a főigazgató vezeti.
 
@@ -1034,7 +1038,7 @@ terheli.
 
 #### 42. Az Országgyűlési Őrség szervezete és irányítása
 
-127. § (1) Az Országgyűlési Őrség fegyveres szerv. Az Országgyűlési Őrség önállóan működő központi költségvetési szerv, amelynek gazdálkodásával kapcsolatos feladatait az Országgyűlés Hivatala látja el. Az Országgyűlési Őrség az Országgyűlés költségvetési fejezetében önálló címet képez.
+127. § (1) Az Országgyűlési Őrség központi költségvetési szervként működő fegyveres szerv, amely az Országgyűlés költségvetési fejezetében önálló címet képez. Az Országgyűlési Őrség gazdálkodásával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
 
 (2) Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a házelnök a költségvetéssel foglalkozó állandó bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
@@ -1235,7 +1239,7 @@ terheli.
 
 (4) A 10. alcím és a 147. § (1) bekezdése az Alaptörvény 7. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-(5) Az Első rész, a 11. alcím és a 13. alcím, a 15–19. alcím, a IV–V. Fejezet, a XII. Fejezet, a 41–42. alcím, az 50. alcím, a 145. § (1)–(3), (7) és (9) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
+(5) Az Első rész, a 11. alcím és a 13. alcím, a 15–19. alcím, a IV–V/A. Fejezet, a XII. Fejezet, a 41–42. alcím, az 50. alcím, a 145. § (1)–(3), (7) és (9) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
 (6) E törvény
 

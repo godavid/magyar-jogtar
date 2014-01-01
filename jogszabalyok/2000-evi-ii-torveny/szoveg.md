@@ -83,6 +83,10 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 - a) nyilvántartást vezet a praxisjogokról és a tartósan betöltetlen körzetekről,
 - b) regisztrálja a praxisjogra vonatkozó adásvételeket, ebben a körben nyilvántartja az eladó és a vevő nevét és pecsétszámát, valamint a praxisjog és az adásvétel azonosítására szolgáló adatokat, továbbá közzéteszi és hirdeti a megvásárolható praxisjogokat.
 
+2/D. § (1) A 2/C. § a) pontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása, a praxisjogot engedélyező határozatot kiadó hatóság megnevezése, az engedély száma és kelte tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(2) A 2/C. § a) pontja szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+
 3. § (1) Ez a törvény a kihirdetését követő 15. napon lép hatályba.
 
 (2) Az e törvény hatálybalépése napján háziorvosi tevékenységet végző orvos – ideértve a munkavégzésben akadályozott háziorvost is –, amennyiben a külön jogszabályban foglalt feltételeknek megfelel és jogszabály másként nem rendelkezik, e törvény erejénél fogva, külön engedély nélkül a törvény hatálybalépésétől jogosult a működtetési jog alapján végezhető tevékenység gyakorlására. Nem jogosult a működtetési jogra az az orvos, aki háziorvosi tevékenységet kizárólag helyettesítés keretében végez. Az e bekezdés alapján működtetési jogot szerző háziorvos működtetési jogának elidegenítéséhez előzetesen be kell szerezni a működtetési jog megszerzését tanúsító hatósági bizonyítványt.

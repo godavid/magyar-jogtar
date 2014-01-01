@@ -40,7 +40,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - 11. IFAC: Nemzetközi Könyvvizsgálói Szövetség (International Federation of Accountants).
 - 12. Jogsegélyszolgálat: a kamarai tagok egyéni érdekvédelmét elősegítő kamarai szolgáltatás.
 - 13. Kamarai tag könyvvizsgáló: az a természetes személy, aki a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
-- 14. Könyvvizsgáló cég: jogi formájától függetlenül az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
+- 14. Könyvvizsgáló cég: az egyéni vállalkozó kivételével az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
 - 15. Könyvvizsgáló cég kapcsolt vállalkozása: jogi formájától függetlenül bármely olyan gazdálkodó szervezet (szervezet), amely közös tulajdonlás, ellenőrzés vagy vezetés révén kapcsolatban áll a könyvvizsgáló céggel.
 - 16. Könyvvizsgáló jelölt: a szakmai kompetencia vizsga előfeltételeként előírt szakmai gyakorlatát teljesítő, okleveles könyvvizsgálói szakképesítéssel rendelkező természetes személy.
 - 17. Könyvvizsgálói hálózat: az a nagyobb kiterjedésű struktúra, – amelynek célja az együttműködés, és amelyhez a kamarai tag könyvvizsgáló, a könyvvizsgáló cég tartozik, valamint – amelynek célja egyértelműen a nyereség vagy a költségek megosztása, vagy amely közös tulajdonban működik, közös ellenőrzéssel vagy vezetéssel, közös minőségellenőrzési politikával és eljárásokkal, közös üzletstratégiával rendelkezik, közös márkanevet használ, vagy megosztja a szakmai erőforrások meghatározó részét.
@@ -171,9 +171,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - d) a könyvvizsgáló jelöltek névjegyzékéből való törlésért,
 - e) a 70 év feletti kamarai tag könyvvizsgálóknak a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének engedélyezéséért indított kamarai hatósági eljárásért.
 
-(3) Az a kamarai tag könyvvizsgáló, aki egyéni vállalkozóként kéri a 35. § szerinti eljárás lefolytatását, mentesül ezen eljárás tekintetében az igazgatási szolgáltatási díjfizetés alól.
-
-(4) A könyvvizsgáló cégként nyilvántartásba vett egyéni vállalkozó az 50. § (3) bekezdés szerinti eljárás tekintetében mentesül az igazgatási szolgáltatási díjfizetés alól.
+(3)–(4)
 
 (5) Az (1) bekezdés szerinti igazgatási szolgáltatási díj összege természetes személy ügyfelek esetén 25 000 forint, gazdálkodó szervezetek (szervezetek) esetén 50 000 forint.
 
@@ -437,7 +435,7 @@ Isten engem úgy segéljen!”
 
 ### Jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezése gazdálkodó szervezetnek (szervezetnek)
 
-34. § (1) Gazdálkodó szervezet (szervezet) Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet akkor végezhet, ha azt a kamara a 35. § alapján engedélyezte és arról igazolást adott [az engedéllyel és igazolással rendelkező gazdálkodó szervezet (szervezet) a továbbiakban: könyvvizsgáló cég].
+34. § (1) Gazdálkodó szervezet (szervezet) – az egyéni vállalkozó kivételével – Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet akkor végezhet, ha azt a kamara a 35. § alapján engedélyezte és arról igazolást adott [az engedéllyel és igazolással rendelkező gazdálkodó szervezet (szervezet) a továbbiakban: könyvvizsgáló cég].
 
 (2) Az (1) bekezdés szerinti igazolás tanúsítja a jogosultságot a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére.
 
@@ -445,7 +443,7 @@ Isten engem úgy segéljen!”
 
 (4) A kamara gondoskodik arról, hogy az érvényben lévő igazolások mintája a kamara honlapján folyamatosan és bárki számára szabadon megtekinthető legyen.
 
-35. § Kérelem alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedélyt kell adni annak a gazdálkodó szervezetnek (szervezetnek), amely megfelel az alábbi követelményeknek:
+35. § Kérelem alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedélyt kell adni annak a gazdálkodó szervezetnek (szervezetnek) – az egyéni vállalkozó kivételével –, amely megfelel az alábbi követelményeknek:
 
 - a) Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
 - b) a gazdálkodó szervezet (szervezet) legfőbb szervében a szavazati jogok többségével az Európai Gazdasági Térség valamely államában jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult könyvvizsgáló(k) vagy könyvvizsgáló cég(ek) rendelkezik (rendelkeznek),
@@ -1995,6 +1993,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (5) A közfelügyeleti hatóság az (1) bekezdésben felsorolt feladatok ellátásához szakértőt vehet igénybe. Szakértőként nem járhat el az, akivel szemben az ellenőrre vonatkozó kizárási ok áll fenn.
 
+(6) A kamarai tag könyvvizsgáló, könyvvizsgáló cég július 31-ig tájékoztatja a közfelügyeleti hatóságot az előző 12 hónapban az éves beszámolóról, egyszerűsített éves beszámolóról, továbbá az összevont (konszolidált) éves beszámolóról kiadott független könyvvizsgálói jelentésekről. A tájékoztatás a megbízó nevét és az adott független könyvvizsgálói jelentésben szereplő záradék fajtáját (hitelesítő, korlátozott, elutasító), illetve a záradék megadása elutasításának a tényét, továbbá, amennyiben a könyvvizsgáló figyelemfelhívással élt, annak tényét tartalmazza. A kamarai tag könyvvizsgáló, könyvvizsgáló cég december 31-ig tájékoztatja továbbá a közfelügyeleti hatóságot a december 31-én hatályban lévő, közérdeklődésre számot tartó gazdálkodóval kötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó megbízásairól.
+
 190–191. §
 
 191/A. §
@@ -2156,11 +2156,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) E törvénynek a Mód. törvénnyel megállapított, illetve módosított 190. §-a (2) bekezdésének e) pontját, és 191. §-a (1) bekezdésének a) pontját a kihirdetést követő napot követően felkért bizottsági tagokra kell alkalmazni.
 
-208/B. § (1) Az az egyéni vállalkozó, aki 2008. január 1-jén – a Kkt. előírásai alapján – a kamara tagja volt, 2008. január 1-jétől az e törvény 35. §-a szerint engedélyezett könyvvizsgáló cégnek minősül.
-
-(2) Az (1) bekezdés szerint engedélyezett könyvvizsgáló cég 2008. január 1-jétől az e törvény 50. § (3) bekezdése szerint megszerzett minősítéssel rendelkező könyvvizsgáló cégnek minősül azon minősítések vonatkozásában, amelyekkel a könyvvizsgáló cégként nyilvántartásba vett egyéni vállalkozó 2008. január 1-jén rendelkezett.
-
-(3) A kamara az (1)–(2) bekezdésben foglaltak végrehajtásához szükséges hatósági eljárásokat hivatalból folytatja le.
+208/B. §
 
 208/C. § (1) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel módosított 9. § (2) bekezdése e) pontját a 2012. január 1-jét követően benyújtott kérelmekre vonatkozóan kell alkalmazni.
 
