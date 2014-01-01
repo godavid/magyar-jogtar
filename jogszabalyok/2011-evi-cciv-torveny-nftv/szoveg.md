@@ -228,7 +228,7 @@ jogosult folytatni.
 
 (2) A felsőoktatási intézmény könyvtára, könyvtári rendszere szakirodalmi, információs, oktatási és kutatási feladatokat ellátó nyilvános tudományos közgyűjtemény, amely múzeumi, levéltári funkciót is elláthat. Az állami egyetemi könyvtárak ellátják a muzeális intézményekről, a nyilvános könyvtári ellátásról, és a közművelődésről szóló törvényben meghatározott nyilvános könyvtári, valamint szak- és felsőoktatási könyvtári feladatokat. Az egyetemi könyvtárak az országos Dokumentum-ellátási Rendszerből – jogszabályban meghatározottak szerint – támogatást kapnak.
 
-(3) A felsőoktatási intézmény szervezeti egységei centrummá, főiskolai, egyetemi központtá szervezhetők. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy.
+(3) A felsőoktatási intézmény nem oktatási szervezeti egységei intézményi központtá szervezhetők. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy.
 
 (4) A felsőoktatási intézményben – szervezeti és működési szabályzatában meghatározottak szerint – gazdasági tanács működtethető.
 
@@ -375,7 +375,7 @@ ad ki.
 
 (4) Az alkalmazottak foglalkoztatására költségvetési szervként működő felsőoktatási intézmény esetén a közalkalmazottak jogállásáról szóló törvényt, más felsőoktatási intézményekben a munka törvénykönyvét az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(5) A felsőoktatásban az alkalmazás feltétele, hogy az alkalmazott büntetlen előéletű legyen és rendelkezzen az előírt végzettséggel és szakképzettséggel.
+(5) A felsőoktatásban az alkalmazás feltétele, hogy az alkalmazott büntetlen előéletű legyen, ne álljon a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és rendelkezzen az előírt végzettséggel és szakképzettséggel.
 
 (6) A közalkalmazottak jogállásáról szóló törvény
 
@@ -384,6 +384,12 @@ ad ki.
 - c) 67. § (2) bekezdésében foglaltakat a rektor tekintetében azzal az eltéréssel kell alkalmazni, hogy – a fenntartó egyetértésével – a szenátus határozza meg az illetménykiegészítés feltételeit, mértékét,
 - d) 69. §-ában foglaltaktól kormányrendelet a magasabb vezető vezetői illetménypótlékának számítási alapja tekintetében eltérhet,
 - e) 70. § (2) bekezdésétől kormányrendelet eltérhet.
+
+24/A. § (1) A 24. § (5) bekezdésében meghatározott, a büntetlen előéletre és a foglalkozástól eltiltás hiányára vonatkozó feltétellel összefüggésben a felsőoktatásban alkalmazottra – ha a jogviszonyával összefüggésben törvény eltérően nem rendelkezik – a (2) és (3) bekezdést kell alkalmazni.
+
+(2) Azt a tényt, hogy a felsőoktatásban alkalmazni kívánt személy vagy a felsőoktatásban alkalmazott az (1) bekezdésben meghatározott feltételnek megfelel, a felsőoktatásban alkalmazni kívánt személy vagy a felsőoktatásban alkalmazott hatósági bizonyítvánnyal igazolja.
+
+(3) A felsőoktatási intézmény az (1) bekezdés szerinti feltétel ellenőrzése céljából kezeli a felsőoktatásban a (2) bekezdés szerinti személy azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz. A megismert személyes adatokat a felsőoktatási intézmény az alkalmazás létesítésével összefüggésben meghozott döntés időpontjáig vagy – alkalmazás esetén – annak megszűnését vagy megszüntetését követő hatodik hónap végéig kezeli.
 
 ### VIII. Fejezet — AZ OKTATÓKRA, TUDOMÁNYOS KUTATÓKRA, TANÁRI MUNKAKÖRBEN FOGLALKOZTATOTTAKRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -403,6 +409,8 @@ ad ki.
 - b) a megbízási jogviszony fennállása alatt a megbízott a rektornak – a mulasztás jogkövetkezményeit tartalmazó – írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a megbízott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően
 
 haladéktalanul igazolja.
+
+(5a) Nem kell alkalmazni az (5) bekezdés a) pontja szerinti rendelkezést, ha a megbízási jogviszonyt megbízottként létesíteni kívánó személy az (5) bekezdés szerinti kizáró ok hiányát a felsőoktatási intézménnyel fennállt korábbi megbízási vagy foglalkoztatási jogviszonyára tekintettel már igazolta és a korábbi jogviszony megszűnése óta legfeljebb hat hónap telt el.
 
 (6) Ha a megbízott igazolja, hogy vele szemben nem áll fenn a (4) bekezdésben meghatározott kizáró ok, a felsőoktatási intézmény az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a megbízott részére megtéríti.
 
@@ -598,12 +606,13 @@ címet adományozhat.
 39. § (1) Minden magyar állampolgárnak joga, hogy az e törvényben meghatározott feltételek szerint felsőoktatási intézményben tanulmányokat folytasson, magyar állami ösztöndíjjal, magyar állami részösztöndíjjal támogatott [a továbbiakban együtt: magyar állami (rész)ösztöndíj] vagy önköltséges képzésben. Ez a jog megilleti továbbá
 
 - a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyeket,
-- b) az a) pont hatálya alá nem tartozó, Magyarország területén élő menekültet, menedékest, befogadottat, bevándoroltat, letelepedettet,
+- b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, menedékest, befogadottat, bevándoroltat, letelepedettet,
 - c) nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
 - d) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgár a viszonosság elve alapján igénybe veheti az adott állam felsőoktatási szolgáltatásait,
 - e) a szomszédos államokban élő magyarokról szóló törvény (a továbbiakban: kedvezménytörvény) hatálya alá tartozó, de magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával nem rendelkező személyt,
 - f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt és magyar állampolgársággal sem rendelkezik
-- g) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt.
+- g) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt,
+- h) az összevont engedéllyel rendelkező harmadik országbeli állampolgárokat.
 
 (2) Az (1) bekezdésben nem említett személy tanulmányait kizárólag önköltséges formában folytathatja.
 
@@ -648,6 +657,86 @@ címet adományozhat.
 esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tekintetében a felsőoktatási felvételi eljárás, illetve a felsőoktatási tanulmányai, a d) pontban meghatározott csoport tekintetében a magyar állami (rész)ösztöndíjjal támogatott hallgatói létszám meghatározása során biztosítja.
 
 (2) Az (1) bekezdésben foglaltak teljesítése során nem lehet mentesíteni a jelentkezőt a felsőoktatási szakképzésben, alap- és mesterképzésben az oklevél által tanúsított szakképzettség megszerzéséhez szükséges alapvető tanulmányi követelmények teljesítése alól.
+
+41/A. § (1) A felsőoktatási információs rendszer működéséért felelős szerv által lebonyolított központi felsőoktatási felvételi eljárásra más jogszabálynak az ügyintézés módjára vonatkozó rendelkezése alkalmazásának csak e törvény rendelkezése esetén van helye. A központi felsőoktatási felvételi eljárás során a nyelvhasználat tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit kell alkalmazni.
+
+(2) A felvételi eljárás a jelentkező felsőoktatási intézmény által meghirdetett képzésre való jelentkezési kérelmére indul meg.
+
+(3) Jelentkező az, aki a jelentkezési lapon megjelölt képzésen részt kíván venni. Ellenkező bizonyításig a jelentkezési kérelem benyújtójának a jelentkezőt kell tekinteni.
+
+(4) Az eljárást hivatalból is meg kell indítani, ha erre a felügyeleti szerv utasítást ad vagy bíróság kötelez.
+
+41/B. § (1) Az elsőfokú döntés jogerőssé válik, ha
+
+- a) az arra jogosult ellene nem fellebbezett, és a fellebbezési határidő letelt,
+- b) az arra jogosult a fellebbezésről lemondott vagy a fellebbezést visszavonta,
+- c) a fellebbezésnek nincs helye, vagy
+- d) a felügyeleti szerv a felsőoktatási információs rendszer működéséért felelős szerv döntését helybenhagyta.
+
+(2) A fellebbezésről lemondás vagy a fellebbezés visszavonása esetén az elsőfokú döntés jogerőre emelkedik a döntés közlésekor, ha a jelentkező a jelentkezési kérelem teljesítése esetére már a döntés közlése előtt lemondott a fellebbezésről.
+
+(3) Az (1) bekezdés c) pontja szerinti esetben az elsőfokú döntés, valamint a másodfokú döntés a közléssel válik jogerőssé.
+
+(4) Az (1) bekezdés d) pontja szerinti esetben az elsőfokú döntés a másodfokú döntés közlésével válik jogerőssé.
+
+41/C. § (1) A postai úton továbbított irat a Ket. 79. § (1) és (2) bekezdése szerint minősül kézbesítettnek. Az elektronikus úton továbbított irat kézbesítettnek minősül az elektronikus rendszer szerint igazolt átvétel napján, de legkésőbb az irat megküldését követő ötödik napon.
+
+(2) A kézbesítési vélelem megdöntése iránti kérelmet a címzett a kézbesítési vélelem beálltáról történő tudomásszerzéstől számított öt napon belül, de legkésőbb a kézbesítési vélelem beálltától számított harminc napos jogvesztő határidőn belül terjeszthet elő az eljáró szervnél.
+
+(3) A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát vagy az önhiba hiányát igazolják. Ha a kérelemnek az eljáró szerv helyt ad, döntését módosítja vagy visszavonja, illetve egyes eljárási cselekményeket megismétel.
+
+41/D. § (1) A felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntésről határozatot hoz, egyéb döntés esetében végzést bocsát ki. A döntéseket kormányrendeletben meghatározott módon kell közölni.
+
+(2) A besorolási döntés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elérhetőségét, személyes azonosítására szolgáló adatokat, az érdemi döntést, a döntés alapjául szolgáló jogszabályokról való tájékoztatást, a döntés helyét, idejét, kiadmányozója aláírását. A besorolási döntés indokolásának tartalmaznia kell a jelentkező valamennyi jelentkezésére vonatkozóan a felvételi teljesítmény értékelését, valamint tájékoztatni kell a jelentkezőt a jogorvoslati lehetőségekről.
+
+(3) A végzés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elérhetőségét, személyes azonosítására szolgáló adatokat, a döntést, a döntés helyét, idejét, valamint a jogorvoslatról szóló tájékoztatást.
+
+(4) Önálló fellebbezésnek van helye a kérelmet érdemi vizsgálat nélküli elutasító és az eljárást megszüntető végzés ellen. Egyéb végzés csak a besorolási döntés, ennek hiányában az eljárást megszüntető végzés elleni fellebbezésben támadható meg.
+
+41/E. § (1) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a hibát ki kell javítani, ha az nem hat ki a döntés érdemére.
+
+(2) A kijavítás kijavító döntés meghozatalával történik. A kijavítás ellen jogorvoslatnak nincs helye. A kijavítást közölni kell azzal, akivel a kijavítandó döntést közölték.
+
+(3) Ha a döntésből valamely, a 41/D. §-ban meghatározott kötelező tartalmi elem hiányzik, vagy érdemi döntés nem született, a döntést ki kell egészíteni. Nincs helye a döntés kiegészítésének, ha a döntés jogerőre emelkedésétől számított egy hónap már eltelt, vagy az jóhiszeműen szerzett és gyakorolt jogot sértene.
+
+(4) A kiegészítés önálló kiegészítő döntés meghozatalával történik. A kiegészítés ellen a 41/G. § szerint jogorvoslattal lehet élni. A kiegészítést közölni kell azzal, akivel a kiegészítendő döntést közölték.
+
+(5) A felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntés közlését követő tizenötödik napig a besorolási döntését módosítja, ha észlelése vagy a felsőoktatási intézmény jelzése alapján eljárási vagy olyan számítási hiba jut tudomására, amely kihat a döntés érdemére. Az így hozott döntés ellen a 41/G. § szerinti jogorvoslattal lehet élni.
+
+(6) Amennyiben a felsőoktatási információs rendszer működéséért felelős szervet jogerős döntéssel új eljárás lefolytatására utasítják, a megismételt eljárást azon – a jelentkezési kérelemben megjelölt típusú (általános, pót vagy keresztféléves) – központi felsőoktatási felvételi eljárás során kell lefolytatni, amelyik az új eljárásra utasítást tartalmazó döntés kézhezvételét követően indul. Ebben az esetben a jelentkező alapeljárásban benyújtott jelentkezési kérelmét hivatalból figyelembe kell venni, és úgy kell tekinteni, mintha a jelentkező a megismételt eljárásban kezdeményezte volna a felvételét.
+
+41/F. § (1) A felsőoktatási felvételi eljárást meg kell szüntetni, ha
+
+- a) a jelentkezési kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban az eljárás megindítását követően jutott a felsőoktatási információs rendszer működéséért felelős szerv tudomására,
+- b) a jelentkező a jelentkezési kérelmét visszavonta,
+- c) a jelentkező meghalt,
+- d) az eljárás folytatására okot adó körülmény már nem áll fenn,
+- e) a jelentkező a díjfizetési kötelezettségének részben vagy egészben az erre irányuló felhívás ellenére az erre tűzött határidő alatt nem tesz eleget,
+- f) a jelentkező a hiánypótlásra való felhívásnak nem tesz eleget.
+
+(2) A jelentkezési kérelmet érdemi vizsgálat nélkül el kell utasítani, ha
+
+- a) annak elbírálására a felsőoktatási információs rendszer működéséért felelős szervnek nincs hatásköre,
+- b) idő előtti vagy elkésett,
+- c) nyilvánvalóan nem az előterjesztésére jogosulttól származik.
+
+41/G. § (1) A besorolási döntéssel szemben a jelentkező a közléstől számított tizenöt napon belül fellebbezéssel élhet. A jogorvoslati kérelem elbírálására a felügyeleti szerv jogosult. A jogorvoslati kérelmet a felsőoktatási információs rendszer működéséért felelős szervnek elektronikus úton kell benyújtani.
+
+(2) A kérelmet harminc napon belül meg kell vizsgálni, szükség esetén meg kell kérni az érintett felsőoktatási intézmény állásfoglalását az abban foglaltakról.
+
+(3) Amennyiben a jogorvoslati kérelem alapján a felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntését módosítja, kijavítja vagy kiegészíti, arról értesíti a jelentkezőt és az érintett felsőoktatási intézményt is. A módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a módosított döntés ellen volt.
+
+(4) Ha a felsőoktatási információs rendszer működéséért felelős szerv a jogorvoslati kérelemben foglaltakat megalapozatlannak tartja, a kérelmet és az állásfoglalását a szükséges dokumentumokkal együtt legkésőbb – a harminc napos vizsgálati határidőt követő – öt napon belül felterjeszti a felügyeleti szervnek.
+
+41/H. § (1) A jogorvoslat és döntés-felülvizsgálat során – a (2)–(4) bekezdésben foglaltak kivételével – a Ket. VII. fejezetének rendelkezéseit kell alkalmazni.
+
+(2) A másodfokú eljárásban az ügyintézési határidő negyven nap, amely egy alkalommal, legfeljebb negyven nappal meghosszabbítható. A határidő-hosszabbítás indokait az erről szóló döntésben meg kell jelölni.
+
+(3) A fellebbezési eljárásban az igazolási kérelem, valamint a kézbesítési vélelem megdöntésének objektív határideje harminc nap.
+
+(4) A fellebbezési eljárásban a Ket. 102. § (2) bekezdése és 112. §-a nem alkalmazható.
+
+(5) A felügyeleti szerv döntése ellen kezdeményezett bírósági eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróságnak van hatásköre és illetékessége. A bíróság eljárásában a Polgári perrendtartásról szóló törvény XX. fejezetét kell alkalmazni.
 
 #### 24. A jelentkező, valamint a hallgatói jogviszonyban álló személy által gyakorolható jogosultságok, hallgatói kötelezettségek
 
@@ -860,7 +949,7 @@ finanszírozásához járul hozzá.
 
 48/J. § A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv nyomon követi a volt magyar állami (rész)ösztöndíjas hallgató foglalkoztatási útját.
 
-48/K. § Az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a teljesítési kötelezettségek alóli felmentések megállapításával kapcsolatos feladatokat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alkalmazásával első fokon a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv, másodfokon az oktatásért felelős miniszter látja el.
+48/K. § Az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a teljesítési kötelezettségek alóli felmentések megállapításával kapcsolatos feladatokat a Ket. alkalmazásával első fokon a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv, másodfokon az oktatásért felelős miniszter látja el.
 
 48/L. § A hazai munkaviszony időtartamába beleszámít
 
@@ -900,7 +989,7 @@ tekintettel.
 
 48/P. § (1) Amennyiben a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv megállapítja, hogy a volt magyar állami (rész)ösztöndíjas hallgató visszatérítési kötelezettsége fennáll, erről határozatot hoz. A visszatérítendő állami ösztöndíj összegét a határozat jogerőre emelkedését követő harminc napon belül kell megfizetni (esedékesség).
 
-(2) A (1) bekezdésben meghatározott határozatnak – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény által előírt kötelező tartalmi elemeken kívül – tartalmaznia kell
+(2) A (1) bekezdésben meghatározott határozatnak – a Ket. által előírt kötelező tartalmi elemeken kívül – tartalmaznia kell
 
 - a) a visszatérítendő állami ösztöndíj összegét, annak kiszámítási módjával együtt,
 - b) a részletfizetés feltételeire és a részletfizetés kérelmezésének módjára vonatkozó tájékoztatást,
@@ -1081,7 +1170,7 @@ részletfizetést engedélyez.
 - c) a döntést megváltoztatja,
 - d) a döntést megsemmisíti, és a döntéshozót új eljárás lefolytatására utasítja.
 
-(6) A tényállás tisztázására, a határidők számítására, az igazolásra, a határozat alakjára, tartalmára és közlésére, a döntés kérelemre vagy hivatalból történő kijavítására, kicserélésére, kiegészítésére, módosítására vagy visszavonására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+(6) A tényállás tisztázására, a határidők számítására, az igazolásra, a határozat alakjára, tartalmára és közlésére, a döntés kérelemre vagy hivatalból történő kijavítására, kicserélésére, kiegészítésére, módosítására vagy visszavonására a Ket. rendelkezéseit kell megfelelően alkalmazni.
 
 (7) A másodfokú döntés a közléssel jogerős és végrehajtható, kivéve, ha a hallgató a bírósági felülvizsgálatát kérte.
 
@@ -1220,7 +1309,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 (4) A miniszter a törvényességi ellenőrzés eredményeképpen felfüggesztheti a felsőoktatási intézmény vizsgaszervezési jogát, ha a (2) bekezdésében szabályozott felhívása nem vezetett eredményre. A felfüggesztéssel egyidejűleg kezdeményeznie kell a bíróságnál a fenntartó mulasztásának megállapítását. A miniszter döntésének ki kell terjednie az érintett hallgatók tanulmányainak folytatásával, vizsgáival kapcsolatos kérdésekre.
 
-(5) Az e §-ban meghatározott eljárásokra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt kell megfelelően alkalmazni. Az eljárásban közreműködik az oktatási hivatal. A (3) és a (4) bekezdésben meghatározott bírósági ügyekben a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a soron kívül elbírált döntést megváltoztathatja.
+(5) Az e §-ban meghatározott eljárásokra a Ket.-et kell megfelelően alkalmazni. Az eljárásban közreműködik az oktatási hivatal. A (3) és a (4) bekezdésben meghatározott bírósági ügyekben a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a soron kívül elbírált döntést megváltoztathatja.
 
 66. § (1) A miniszter törvényességi ellenőrzést gyakorol a Magyarország területén természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet által – az e törvényben meghatározott (engedélyezési, működési) feltételek hiányában – folytatott felsőoktatási oktatási alaptevékenység körébe tartozó tevékenység felett. Az ellenőrzésben miniszteri döntés alapján az oktatási hivatal közreműködik.
 
@@ -1280,7 +1369,7 @@ köteles mérlegelni.
 
 (3) A magyarországi felsőoktatási intézmények által kötelezően használt, központilag kibocsátásra kerülő nyomtatványok előállítását és forgalomba hozatalát az oktatási hivatal engedélyezi. Az engedély a jogszabályi előírásoknak történő megfelelés hiányában tagadható meg.
 
-(4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre a Ket. rendelkezéseit kell alkalmazni.
 
 69. § (1) A felsőoktatási intézmény rektora az egyetemi tanári munkaköri cím adományozásával kapcsolatos javaslatának elkészítése előtt beszerzi a MAB szakértői véleményét.
 
@@ -1390,7 +1479,7 @@ köteles mérlegelni.
 (4) Állami felsőoktatási intézmény esetén
 
 - a) a 12. § (3) bekezdés g) pontjában meghatározott egyetértési jogot az állami vagyon felügyeletéért felelős miniszter,
-- b) a (2) bekezdésben a gazdasági vezető juttatásai, munkaköri leírása tekintetében meghatározott fenntartói döntési jogkört, a 73. § (3) bekezdés f) pontjában a gazdasági vezető, belső ellenőrzési vezető tekintetében meghatározott fenntartói döntési jogosultságot, valamint a – a 13. § (2) bekezdésétől eltérően – a gazdasági vezetővel kapcsolatos munkáltatói jogokat, a 37. § (5) bekezdésben foglaltak szerint, – a miniszter előzetes egyetértésével – az államháztartásért felelős miniszter
+- b) a 13. § (2) bekezdésétől eltérően, a gazdasági vezetővel kapcsolatos munkáltatói jogokat a fenntartó önállóan, a 73. § (3) bekezdés f) pontjában a gazdasági vezető, belső ellenőrzési vezető tekintetében meghatározott fenntartói döntési jogot pedig az államháztartásért felelős miniszter előzetes egyetértésével a 37. § (5) bekezdésben foglaltak szerint
 
 gyakorolja.
 
@@ -1580,11 +1669,11 @@ nyújtott támogatás.
 
 (2) Az e törvény szerint magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatókra tekintettel folyósított képzési támogatást – a 2012. szeptemberében első évfolyamon induló alap-, osztatlan, illetve mesterképzésre, valamint az azt követő évfolyamokra felvett hallgatók tekintetében – felmenő rendszerben, a magyar állami (rész)ösztöndíj összegével azonos mértékben kell megállapítani.
 
-(3) A képzési támogatást – kifutó rendszerben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerinti államilag támogatott képzésben részt vevő hallgatók számított létszáma alapján kell meghatározni. A képzési támogatás összegét a képzés szakmai jellegére tekintettel (pl. elméletigényes, gyakorlatigényes képzés) képzési ciklusokra kell meghatározni.
+(3) A képzési támogatást – kifutó rendszerben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerinti államilag támogatott képzésben részt vevő hallgatók számított létszáma alapján kell meghatározni. A képzési támogatás összegét a képzés szakmai jellegére tekintettel képzési ciklusokra kell meghatározni. A képzéseket a képzési támogatáshoz való jogosultság szempontjából finanszírozási csoportokba kell sorolni.
 
-(4) A felsőoktatásban folyó képzéseket a normatív képzési támogatáshoz való jogosultság szempontjából finanszírozási csoportokba kell sorolni.
+(4)
 
-(5) Az (1)–(4) bekezdés szerinti képzési támogatás éves intézményi összegét a felsőoktatási intézmények 2012. évi képzési támogatásának kormányrendeletben meghatározott rendje szerint kell megállapítani.
+(5) Az (1)–(3) bekezdés szerinti képzési támogatás rendszerét a Kormány rendeletében állapítja meg.
 
 84/B. § A tudományos, kulturális, fenntartói és fejlesztési célú támogatás a felsőoktatási intézményekben folyó képzéssel összefüggő kutatás céljait szolgálja, valamint az állami felsőoktatási intézmények fenntartási, fejlesztési, speciális feladat-ellátási költségeihez járul hozzá.
 
@@ -1870,23 +1959,19 @@ eltérő rendelkezéseket állapíthat meg,
 
 (3) Annál, aki az egészségügyi felsőoktatási intézmény képzési feladataiban és egészségügyi szolgáltatással összefüggő feladataiban is – munkaköri feladataként – részt vesz, meg kell határozni, hogy a teljes munkaidő mekkora részét kell az oktatói, illetőleg az egészségügyi szolgáltatással összefüggő feladatokra fordítani. Ilyen foglalkoztatás esetén az egyes tevékenységekre vonatkozó foglalkoztatási és munkaidő-megosztáshoz igazodó díjazási szabályokat alkalmazni kell.
 
-99. § (1) A betegellátási feladatok koordinálására az egészségügyi felsőoktatási intézmény orvos- és egészségtudományi centrumot (a továbbiakban: centrum) hozhat létre a 97. § (1) bekezdés a) pontja szerint. A centrum a felsőoktatási intézmény egészségügyi szolgáltatóját (klinikáját) és az egészségügyi szolgáltatáshoz kapcsolódó kutatóintézeteit, egyéb szervezeti egységeit foglalja magában. A centrum elnöke – a felsőoktatási intézménnyel kötött vagyonkezelési szerződésben foglaltak szerint – gyakorolja a vagyonkezelői jogokat azoknak a vagyontárgyaknak a tekintetében, amelyek az egészségügyi, gyógyító-megelőző feladatainak ellátásához rendelkezésére állnak. Az Egészségbiztosítási Alap terhére beszerzett, illetve működtetett vagyon értékesítése, hasznosítása esetén az egészségügyért felelős miniszter által kijelölt szerv jóváhagyását be kell szerezni.
+99. § (1) A betegellátási feladatok koordinálására az egészségügyi felsőoktatási intézmény orvos- és egészségtudományi központot hozhat létre a 97. § (1) bekezdés a) pontja szerint. Az orvos- és egészségtudományi központ a felsőoktatási intézmény egészségügyi szolgáltatóját (klinikáját) és az egészségügyi szolgáltatáshoz kapcsolódó kutatóintézeteit, egyéb szervezeti egységeit foglalja magában. Az Egészségbiztosítási Alap terhére beszerzett, illetve működtetett vagyon értékesítése, hasznosítása esetén az egészségügyért felelős miniszter által kijelölt szerv jóváhagyását be kell szerezni.
 
-(2) Az egészségtudományi centrum élén elnök áll, aki magasabb vezetői megbízás keretében végzi munkáját. Az elnök megválasztásának rendjét a szervezeti és működési szabályzatban kell meghatározni. A centrum vezetője ellátja a (3) bekezdésében meghatározott vezetői feladatait is. Az egészségügyi centrumot illetően az egyetemet a centrum vezetője képviseli. A centrum vezetője gyakorolja a 97/A. § és 98. § (1) bekezdésben meghatározott feladatok ellátását szolgáló előirányzatok felett a rendelkezési jogot.
+(2)
 
-(3) Az egészségügyi felsőoktatási intézményben – ha centrum nem jön létre – az egészségügyi szolgáltatás irányításáért felelős magasabb vezetői megbízással rendelkező vezetőt a szervezeti és működési szabályzatban kell meghatározni (a továbbiakban: egészségügyi szolgáltatásért felelős vezető). Az egészségügyi szolgáltatásért felelős vezető önállóan irányítja az egészségügyi szolgáltatás megszervezését, e feladatok tekintetében gyakorolja a munkáltatói jogokat. Ha az egészségügyi szolgáltatásért felelős vezető nem a rektor, feladatait, kötelezettségeit és kötelezettségvállalási jogosultságát a szervezeti és működési szabályzatban kell meghatározni.
+(3) Az egészségügyi felsőoktatási intézményben az egészségügyi szolgáltatás irányításáért felelős magasabb vezetői megbízással rendelkező vezetőt a szervezeti és működési szabályzatban kell meghatározni (a továbbiakban: egészségügyi szolgáltatásért felelős vezető). Az egészségügyi szolgáltatásért felelős vezető önállóan irányítja az egészségügyi szolgáltatás megszervezését, e feladatok tekintetében gyakorolja a munkáltatói jogokat. Ha az egészségügyi szolgáltatásért felelős vezető nem a rektor, feladatait, kötelezettségeit és kötelezettségvállalási jogosultságát a szervezeti és működési szabályzatban kell meghatározni.
 
 (4) A felsőoktatási intézmény által biztosított egészségügyi szolgáltatáshoz – jogszabályban meghatározott feltételekkel – az egészségügyért felelős miniszter költségvetési támogatást nyújt. Az egészségügyi felsőoktatási intézmény által végzett egészségügyi tevékenységre, továbbá az egészségügyi kutatásra, egészségügyi fejlesztésekre, egészségügyi szak- és továbbképzésre is alkalmazni kell az egészségügy szakmai irányítására és szervezésére, az egészségügyért felelős miniszter szakmai irányítási jogkörére vonatkozó rendelkezéseket, továbbá mindazokat a jogszabályokat, amelyek meghatározzák az egészségügyi szolgáltatás megszervezését, a feladatellátásban közreműködők szakképzettségét, az egészségügyi szolgáltatás finanszírozását.
 
-(5) A centrum tekintetében a 97/A. § (2)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(5)
 
-#### 60. Az agrártudományi centrum
+#### 60.
 
-100. § (1) Az agrártudományi képzést folytató egyetemen az elkülönült gyakorlóhely, tangazdaság, kutatóintézet, múzeum, arborétum agrártudományi centrum keretében is működtethetők. A szervezeti és működési szabályzatban kell meghatározni az agrártudományi centrum részére biztosított költségvetési keretet és az ahhoz kapcsolódó gazdálkodási jogosultságokat.
-
-(2) Az agrártudományi centrum ellátja az agrártudományi feladatok koordinálását, közreműködik az ágazati kutató-fejlesztő, innovációs tevékenység, a területi szaktanácsadás, az agrártovábbképzés, a gyakorlati képzés feladatainak ellátásában, amelyhez a feladatarányos költségvetési támogatást az agrárpolitikáért felelős miniszter biztosíthat.
-
-(3) Az agrártudományi centrum tekintetében a 99. § (2) bekezdését kell megfelelően alkalmazni.
+#### 100. §
 
 ### XXIX. Fejezet — A MŰVÉSZETI FELSŐOKTATÁSRA, PEDAGÓGUSKÉPZÉSRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
 
@@ -2230,17 +2315,11 @@ rendeletben jelölje ki.
 
 114/B. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 73. § (3) bekezdés h) pontját a felsőoktatási intézmény által 2013. január 1-jét megelőzően saját hatáskörben alapított és adományozott címek, elismerések tekintetében is alkalmazni kell. Fenntartói hozzájárulás hiányában 2013. január 1-jét követően – a felsőoktatási intézmény által saját hatáskörben alapított, adományozott címre elismerésre tekintettel – rendszeres pénzjuttatás nem folyósítható.
 
-(2) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított – 37. § (5) bekezdését és a 75. § (2) és (4) bekezdését a 2013. január 1-jén vezetői megbízással rendelkező gazdasági főigazgatók, valamint belső ellenőrzési szervezet vezetői tekintetében is kell alkalmazni.
+(2) E törvénynek a Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel megállapított 75. § (4) bekezdés b) pontját a 2014. január 1-jén vezetői megbízással rendelkező gazdasági vezetőkre, valamint belső ellenőrzési vezetőkre, illetve gazdasági vezetői, belső ellenőrzési vezetői megbízásokra 2014. január 1-jéig kiírt és el nem bírált pályázatokra is alkalmazni kell.
 
-114/C. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 84/A. § (4) és (5) bekezdésének a 2013. évi alkalmazása, a képzési támogatás megállapítása során a finanszírozási csoportok meghatározása a 2005. évi felsőoktatási törvény 3. számú mellékletében, valamint a felsőoktatási intézmények képzési, tudományos célú és fenntartói normatíva alapján történő finanszírozásáról szóló 50/2008. (III. 14.) Korm. rendeletben meghatározott számítási alap, a 2005. évi felsőoktatási törvényben és a rendelet 1–2. mellékletében foglalt arányok figyelembe vételével történik azzal, hogy a finanszírozási szint – a rendelkezésre álló költségvetési forrásra tekintettel – legfeljebb húsz százalékkal csökkenhet.
+114/C. § A 84/A. § szerinti képzési támogatás megállapítása a Kormány a 84/A. § (5) bekezdés szerinti rendeletében foglaltak alapján történik azzal, hogy a finanszírozási szint – a rendelkezésre álló költségvetési forrásra tekintettel – legfeljebb húsz százalékkal csökkenhet.
 
-(2) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított – 84/B. § (1) bekezdése alapján a tudományos, kulturális, fenntartói és fejlesztési célú támogatás 2013. évi összegét a miniszter határozza meg.
-
-(3) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított – 84/C. §-a alapján a 2013. évre biztosított összeget a miniszter határozza meg.
-
-(4) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 84/D. §-a alkalmazása során biztosított támogatásként a központi költségvetésről szóló törvény alapján a 2013. évben biztosított költségvetési támogatást kell figyelembe venni.
-
-114/D. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 85/A. § (1) bekezdése alapján a 2013. évben
+114/D. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 85/A. § (1) bekezdése alapján
 
 - a) az egy főre megállapított hallgatói normatíva 119 000 Ft/év,
 - b) a doktori képzésben részt vevők egy főre meghatározott támogatási normatívája 1 200 000 Ft/év,
@@ -2344,7 +2423,9 @@ rendeletben jelölje ki.
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés b) pont és 21. cikk;
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk;
-- c) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés c) pont.
+- c) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés c) pont;
+- d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés c) pont;
+- e) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 27. cikk (2) bekezdés.
 
 ### XXXIII. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 

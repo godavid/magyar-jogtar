@@ -736,43 +736,39 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 
 ### Adó alapjának utólagos csökkenése
 
-77. § (1) Termék értékesítése, szolgáltatás nyújtása, valamint termék Közösségen belüli beszerzése esetében az adó alapja a jogosultnak visszatérített vagy visszatérítendő ellenértékkel utólag csökken, ha a teljesítést követően
-
-- a) az ügylet érvénytelensége jogcímén:
-  - aa) az ügylet kötése előtt fennállott helyzetet állítják helyre, vagy
-  - ab) az ügyletet az érvénytelenítő határozat meghozataláig terjedő időre hatályossá nyilvánítják, vagy
-  - ac) az ügyletet az aránytalan előny kiküszöbölésével érvényessé nyilvánítják;
-- b) az ügylet hibás teljesítése jogcímén:
-  - ba) a jogosult eláll az ügylettől, vagy
-  - bb) a jogosult ár- vagy díjleszállítást kap.
-- c) válik nyilvánvalóvá, hogy tévesen, a szerződő felek által megállapodottnál magasabb ellenértéket számláztak ki.
+77. § (1) Termék értékesítése, szolgáltatás nyújtása, termék Közösségen belüli beszerzése esetén az adó alapja utólag csökken a szerződés módosulása, valamint megszűnése – ideértve a szerződés érvénytelenségének és létre nem jöttének eseteit is – miatt egészben vagy részben visszatérített, visszatérítendő előleg vagy ellenérték összegével.
 
 (2) Az adó alapja utólag csökken abban az esetben is, ha
 
-- a) teljesítés hiánya miatt az előleget – részben vagy egészben – visszafizetik;
-- b) a termék 10. § a) pontja szerinti értékesítése, a bérbeadás vagy a vagyoni értékű jog időleges használatának átengedése akár az ügyletben érintett bármely félnek felróható okból, akár a tevékenységi körükön kívül eső elháríthatatlan okból meghiúsul, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
-- c) betétdíjas termék visszaváltásakor a betétdíjat visszatérítik.
+- a) a termék 10. § a) pontja szerinti értékesítése, a bérbeadás vagy a vagyoni értékű jog időleges használatának átengedése meghiúsul, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
+- b) betétdíjas termék visszaváltásakor a betétdíjat visszatérítik;
+- c) az 58. § szerinti termékértékesítés, szolgáltatásnyújtás esetében visszatérítik azt az összeget, amellyel az elszámolási időszak egésze tekintetében megfizetett vagy megfizetendő összeg meghaladja az erre az elszámolási időszakra vonatkozó ellenértéket.
 
-(3) Az adó alapja utólag csökkenthető, ha a teljesítést követően adnak a 71. § (1) bekezdésének a) és b) pontja szerint árengedményt.
+(3) Az adó alapja utólag csökkenthető, ha a teljesítést követően adnak a szerződés módosulása vagy megszűnése nélkül a 71. § (1) bekezdés a) vagy b) pontja szerinti árengedményt.
 
-78. § (1) A 77. § alkalmazásának feltétele, hogy a kötelezett az ügylet teljesítését tanúsító számla
+(4) Ha a termékértékesítés, szolgáltatásnyújtás teljesítését követően az adóalany az üzletpolitikájában részletesen rögzített feltételek szerint vásárlásösztönzési célból pénzt térít vissza olyan adóalany vagy nem adóalany részére, aki (amely) azt a terméket, szolgáltatást, amelynek beszerzése, igénybevétele pénzvisszatérítésre jogosít, nem közvetlenül tőle szerezte be, vette igénybe, a pénzt visszatérítő adóalany utólag csökkentheti azon termékértékesítése, szolgáltatásnyújtása adóalapját, amelyre vonatkozóan a pénzt visszatéríti (adóalap csökkentésre jogosító ügylet) feltéve, hogy
 
-- a) érvénytelenítéséről gondoskodjon
-  - aa) a 77. § (1) bekezdés aa) és ba) alpontjában említett esetekben, valamint a (2) bekezdésének a) pontjában említett esetben, feltéve, hogy az előleg teljes összegét visszafizetik;
-  - ab) a 77. § (2) bekezdés b) pontjában említett esetben, ha a felek az ügylet kötése előtt fennálló helyzetet állítják helyre;
+- a) az a termékértékesítés, szolgáltatásnyújtás, amelyet közvetlenül a pénzvisszatérítésre jogosult részére teljesítettek (pénzvisszatérítésre jogosító ügylet), belföldön teljesített adóköteles ügylet, és
+- b) a visszatérítendő összeg kisebb, mint a pénzvisszatérítésre jogosító ügylet mennyiségi adatának és az adott vásárlásösztönzési program keretében, bármely adóalap csökkentésre jogosító ügylet vonatkozásában az értékesített termék, nyújtott szolgáltatás legalacsonyabb, adóval növelt egységárának szorzataként adódó összeg.
+
+(5) A (4) bekezdés alkalmazásában a visszatérített összeget úgy kell tekinteni, mint amely az adó összegét is tartalmazza.
+
+78. § (1) A 77. § (1)–(3) bekezdése alkalmazásának feltétele, hogy a kötelezett az ügylet teljesítését tanúsító számla
+
+- a) érvénytelenítéséről gondoskodjon azokban az esetekben, amikor az előleg vagy az ellenérték teljes összegét visszatérítik;
 - b) adattartalmának módosításáról gondoskodjon az a) pont alá nem tartozó esetekben.
 
-(2) Abban az esetben, ha az ügylet teljesítését számla azért nem tanúsítja, mert e törvény szerint számla kibocsátásáról nem kellett a kötelezettnek gondoskodnia, a 77. § (1) és (2) bekezdése szerinti esetekben az adó alapja utólagos csökkentésének nem akadálya az (1) bekezdés nem teljesülése.
+(2) Abban az esetben, ha az ügylet teljesítését számla azért nem tanúsítja, mert e törvény szerint számla kibocsátásáról nem kellett a kötelezettnek gondoskodnia, a 77. § (1) és (2) bekezdése szerinti esetben az adó alapja utólagos csökkenésének nem akadálya az (1) bekezdés nem teljesülése.
 
-(3) Abban az esetben, ha az adó alapjának utólagos csökkenése a korábban fizetendő adóként megállapított és bevallott adót is csökkenti, a kötelezett jogosult azt, mint a 131. § (1) bekezdése szerint megállapított fizetendő adót csökkentő tételt legkorábban abban az adómegállapítási időszakban figyelembe venni, amelyben
+(3) A 77. § (4) bekezdés alkalmazásának feltétele, hogy a pénzt visszatérítő adóalany az alábbiakkal rendelkezzen:
 
-- a) az eredeti számlát érvénytelenítő számla vagy az azt módosító számla a jogosult személyes rendelkezésére áll;
-- b) a kötelezett a jogosultnak az ellenértéket visszatéríti, az előleget visszafizeti, vagy a betétdíjat visszatéríti az a) pont alá nem tartozó esetekben.
+- a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet, valamint
+- b) a pénz átutalásáról vagy a készpénz kifizetéséről szóló bizonylat, amely egyértelműen igazolja, hogy a pénzt visszatérítő adóalany a pénzvisszatérítés jogosultja részére az üzletpolitikájában rögzített összeget megtérítette.
 
-(4) A (3) bekezdést kell megfelelően alkalmazni abban az esetben is, ha
+(4) A (3) bekezdés b) pontja szerinti bizonylatnak a következő adatokat kell tartalmaznia:
 
-- a) az adó alapjának utólagos csökkenése azért nem eredményez fizetendőadó-csökkenést, mert az ügylet – e törvény rendelkezései szerint – mentes az adó alól, vagy
-- b) a fizetendő adó csökkenését nem az adóalap utólagos csökkentése eredményezte.
+- a) a pénzvisszatérítésre jogosult neve, lakcíme és – adóalany esetén – adószáma,
+- b) a pénzvisszatérítésre jogosult nyilatkozata alapján az adólevonási jogára vonatkozó tájékoztatás az adott ügylet vonatkozásában.
 
 79. § (1) Termék Közösségen belüli beszerzése esetében, ha a beszerző a Közösség más tagállamában, ahol a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor volt, jövedékiadó-visszatérítésben részesült, az adó alapját csökkentheti a visszatérített jövedéki adó igazolt összegével, feltéve, hogy a termék belföldön is jövedéki termék.
 
@@ -1166,6 +1162,8 @@ adókötelessé teszi.
 
 (4) A (3) bekezdéstől függetlenül nem alkalmazható az (1) bekezdés szerinti adómentesség abban az esetben, ha a beszerző kiránduló hajó, turista repülőgép vagy magánhasználatra szolgáló közlekedési eszköz felszerelését (tartozékát), valamint az üzemeltetéshez, ellátáshoz szükséges terméket maga fuvarozza el.
 
+(5) Amennyiben a termék értékesítése során az adó alóli mentesség kizárólag a (2) bekezdés a) pontjában meghatározott feltétel teljesítése hiányában nem alkalmazható, azonban a termék az értékesítés teljesítését követő 360 napon belül elhagyja a Közösség területét, és ezt a tényt a terméket a Közösség területéről kiléptető hatóság igazolja, az adóalany jogosult az ezen termékértékesítését terhelő fizetendő adóval megegyező összegben csökkenteni a fizetendő adóját. A fizetendő adó csökkentésének feltétele az ügylet teljesítését tanúsító számla megfelelő módosítása.
+
 99. § (1) Abban az esetben, ha a beszerző külföldi utas, és az értékesített termék vagy termékek (e § alkalmazásában a továbbiakban együtt: termék) a külföldi utas személyi vagy útipoggyászának részét képezik, a 98. § (1) bekezdése szerinti adómentesség alkalmazásához szükséges az is, hogy
 
 - a) a termékértékesítés – adóval számított – összellenértéke meghaladja a 175 eurónak megfelelő pénzösszeget,
@@ -1195,7 +1193,7 @@ adókötelessé teszi.
 
 (8) A termék értékesítője köteles egyúttal gondoskodni arról is, hogy a termékértékesítés teljesítését tanúsító számla ismételt adó-visszatéríttetésre ne jogosítson. Ennek érdekében a visszaszolgáltatást megelőzően a számla eredeti példányán az „áfa elszámolva” jelölést kötelezően fel kell tüntetni, és az így megjelölt számláról a termék értékesítőjének fotómásolatot kell készítenie, amelyet köteles nyilvántartásában megőrizni.
 
-(9) Abban az esetben, ha a (4) bekezdés b) pontja szerint adó felszámítása történt, és azt a termék értékesítője korábban fizetendő adóként megállapította és bevallotta, jogosult arra, hogy legkorábban abban az adómegállapítási időszakban, amelyben a külföldi utas részére az adó visszatérítése megtörtént, csökkentse a 131. § (1) bekezdése szerint megállapított fizetendő adót a visszatérített adó összegével, feltéve, hogy ezt az összeget nyilvántartásában elkülönítetten mutatja ki.
+(9) Abban az esetben, ha a (4) bekezdés b) pontja szerint adó felszámítása történt, és azt a termék értékesítője korábban fizetendő adóként megállapította és bevallotta, jogosult arra, hogy legkorábban abban az adómegállapítási időszakban, amelyben a külföldi utas részére az adó visszatérítése megtörtént, csökkentse a 153/A. § (1) bekezdése szerint megállapított fizetendő adót a visszatérített adó összegével, feltéve, hogy ezt az összeget nyilvántartásában elkülönítetten mutatja ki.
 
 (10) Az adó-visszaigénylő lap kötelező adattartalma a következő:
 
@@ -1428,7 +1426,7 @@ annak importja történik az 54. § értelmében, és egyúttal annak értékes�
 - a) a motorbenzint (vtsz. 2710 11 41, 2710 11 45, 2710 11 49, 2710 11 59) terhelő előzetesen felszámított adó;
 - b) az a) pontban nem említett egyéb üzemanyagot terhelő előzetesen felszámított adó, feltéve, hogy az személygépkocsi (vtsz. 8703) üzemeltetéséhez szükséges;
 - c) az a) és b) pontban nem említett egyéb terméket terhelő előzetesen felszámított adó, feltéve, hogy az személygépkocsi üzemeltetéséhez, fenntartásához szükséges;
-- d) a személygépkocsit terhelő előzetesen felszámított adó;
+- d) a személygépkocsit (ide nem értve a halottszállító személygépkocsit) terhelő előzetesen felszámított adó;
 - e) a 125 cm3-nél nagyobb hengerűrtartalmú motorkerékpárt (vtsz. 8711-ből) terhelő előzetesen felszámított adó;
 - f) a jachtot (vtsz. 8903) terhelő előzetesen felszámított adó;
 - g) az f) pontban nem említett egyéb víziközlekedési eszközt (vtsz. 8903) terhelő előzetesen felszámított adó, feltéve, hogy az sport- vagy szórakozási cél elérésére alkalmas;
@@ -1536,31 +1534,7 @@ terhelő előzetesen felszámított adó összegének 30 százaléka.
 
 (2) A nyilatkozatot írásba kell foglalni.
 
-### Adólevonási jog gyakorlásának módja
-
-131. § (1) A belföldön nyilvántartásba vett adóalany az adómegállapítási időszakban megállapított fizetendő adó együttes összegét csökkentheti az ugyanezen vagy az Art. szerinti elévülési időn belüli korábbi adómegállapítási időszakban (időszakokban) keletkezett levonható előzetesen felszámított adó összegével.
-
-(2) Ha az (1) bekezdés szerint megállapított különbözet előjele negatív, a különbözetet a belföldön nyilvántartásba vett adóalany
-
-- a) az (1) bekezdés szerinti elévülési időre figyelemmel a soron következő adómegállapítási időszakban veheti figyelembe úgy, mint az akkori adómegállapítási időszakban az (1) bekezdés szerint megállapított fizetendő adó együttes összegét csökkentő tételt, illetőleg
-- b) a 186. §-ban meghatározott feltételek szerint és módon az állami adóhatóságtól visszaigényelheti.
-
-132. § (1) Abban az esetben, ha a levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az adólevonási jog keletkezését követően változás következik be, az eredetileg levonható előzetesen felszámított adó összegét érintő különbözet rendezésére a (2)–(5) bekezdést kell alkalmazni.
-
-(2) Ha az (1) bekezdésben említett változás eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet csökkenti, az adóalany köteles a különbözetet úgy figyelembe venni, mint a 131. § (1) bekezdése szerint megállapított fizetendő adó összegét növelő tételt abban az adómegállapítási időszakban – a (3) bekezdésben meghatározott eltéréssel –, amelyben az (1) bekezdésben említett változás bekövetkezik.
-
-(3) Abban az esetben, ha az eredetileg levonható előzetesen felszámított adó összege közvetlenül olyan, a 127. § (1) bekezdésében említett okiraton alapul, amelyet más fél (hatóság) bocsátott ki, a különbözet (2) bekezdésben említett rendezése arra az adómegállapítási időszakra esik, amelyben a különbözet alapjául szolgáló, a 127. § (1) bekezdésében említett okiratot módosító vagy azt érvénytelenítő okirat az adóalany személyes rendelkezésére áll, de nem később, mint a módosító vagy érvénytelenítő okirat kibocsátásának hónapját követő hónap 15. napja.
-
-(4) Ha az (1) bekezdésben említett változás eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet növeli, az adóalany jogosult – az adólevonási jog gyakorlása egyéb feltételeinek sérelme nélkül – a különbözetet úgy figyelembe venni, mint a 131. § (1) bekezdése szerint megállapított levonható előzetesen felszámított adó összegét növelő tételt, legkorábban, abban az adómegállapítási időszakban, amelyben személyes rendelkezésére áll a különbözet alapjául szolgáló, a 127. § (1) bekezdésében említett okiratot módosító okirat.
-
-(5) Abban az esetben, ha az eredetileg levonható előzetesen felszámított adó a 120. § b) pontja, c) pont cb) alpontja vagy e) pontja alapján keletkezett, az adóalany a levonható adó összegét érintő különbözetet – a (2)–(4) bekezdésben foglaltaktól eltérően – abban az adómegállapítási időszakban jogosult figyelembe venni, amelyben a fizetendő adó összegét növelő vagy csökkentő tételt el kell számolni.
-
-133. § A 132. § alkalmazásában nem minősül az eredetileg levonható előzetesen felszámított adó összegét meghatározó tényezők utólagos változásának:
-
-- a) az adó áthárítására jogalapot teremtő ügylet fejében járó ellenérték teljes vagy részleges meg nem térítése;
-- b) a 11. § (3) bekezdésében és a 14. § (3) bekezdésében meghatározott esetek;
-- c) a megsemmisülés és más olyan vagyoni kár, amelyet az adóalany tevékenységi körén kívül eső elháríthatatlan ok idézett elő, és ez utóbbi ok fennállását az adóalany bizonyítja;
-- d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetőleg csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+131–133. §
 
 ### Tárgyi eszközre vonatkozó különös szabályok
 
@@ -1580,14 +1554,21 @@ terjedő tartamban az adóalany adólevonási jogát – az adólevonási jog gy
 - a) ingó esetében 1/5 részére,
 - b) ingatlan esetében pedig 1/20 részére vonatkozóan utólagos kiigazítást elvégezni, feltéve, hogy a levonható előzetesen felszámított adó összegét meghatározó tényezőkben a tárgyi eszköz beszerzésének évéhez vagy a 11. § (2) bekezdés a) pontjában említett esetben a rendeltetésszerű használatba vételének időpontjához képest változás következik be, és a számítás eredményeként adódó különbözet összege abszolút értékben kifejezve eléri vagy meghaladja a 10 000 forintnak megfelelő pénzösszeget.
 
-(3) A (2) bekezdés szerinti különbözetre a 132. § (2) és (4) bekezdését kell megfelelően alkalmazni.
+(3) A (2) bekezdés szerinti különbözetre a 153/C. § (1)–(2) bekezdését kell megfelelően alkalmazni.
 
-136. § (1) Abban az esetben, ha az adóalany a tárgyi eszközt a 135. § (1) bekezdésében meghatározott időtartamon belül értékesíti, a teljesítés hónapjára és a hátralevő hónapokra együttesen időarányosan jutó előzetesen felszámított adó összegét
+(4) Abban az esetben, ha a tárgyi eszközt a 17. § szerinti apport, jogutódlás vagy üzletág-átruházás keretében naptári év közben szerzi meg az apportot fogadó, a jogutód vagy az üzletágat megszerző adóalany oly módon, hogy a terméket változatlanul tárgyi eszközként használja, a (2) bekezdés alkalmazásában úgy kell tekinteni, hogy a tárgyi eszközt a szerzés évében mind az apportáló, a jogelőd vagy az üzletágat átruházó adóalany, mind az apportot fogadó, a jogutód vagy az üzletágat megszerző adóalany a naptári év teljes időtartamában használta azzal, hogy a számítást időarányosan kell elvégezni.
 
-- a) véglegesen levonhatja, ha a tárgyi eszköz értékesítése adólevonásra egyébként jogosítaná;
-- b) véglegesen nem vonhatja le, ha a tárgyi eszköz értékesítése adólevonásra egyébként nem jogosítaná.
+(5) Abban az esetben, ha az adóalany olyan vagyoni értékű jogot hasznosít vállalkozásán belül, amely rendeltetésszerű használatot feltételezve legalább 1 évet meghaladó időtartamban szolgálja a gazdasági tevékenység folytatását,
 
-(2) Ha az (1) bekezdés szerint az eredetileg levonható előzetesen felszámított adó összegéhez képest különbözet keletkezik, és annak összege abszolút értékben kifejezve eléri vagy meghaladja az 1000 forintnak megfelelő pénzösszeget, a különbözetre a 132. § (2) és (4) bekezdését kell megfelelően alkalmazni.
+- a) az ingatlanhoz kapcsolódó vagyoni értékű jog esetén az ingatlan tárgyi eszközre vonatkozó szabályokat kell megfelelően alkalmazni, azzal, hogy az (1) bekezdés b) pontjában meghatározott időt a vagyoni értékű jog szerzésének hónapjától kezdődően kell számítani;
+- b) az a) pont alá nem tartozó vagyoni értékű jog esetében az ingó tárgyi eszközre vonatkozó szabályokat kell megfelelően alkalmazni, azzal, hogy az (1) bekezdés a) pontjában meghatározott időt a vagyoni értékű jog szerzésének hónapjától kezdődően kell számítani.
+
+136. § (1) Abban az esetben, ha az adóalany a tárgyi eszközt vagy a 135. § szerinti vagyoni értékű jogot a 135. § (1) bekezdésében meghatározott időtartamon belül értékesíti, a teljesítés hónapjára és a hátralevő hónapokra együttesen időarányosan jutó előzetesen felszámított adó összegét
+
+- a) véglegesen levonhatja, ha a tárgyi eszköz vagy a 135. § szerinti vagyoni értékű jog értékesítése adólevonásra egyébként jogosítaná;
+- b) véglegesen nem vonhatja le, ha a tárgyi eszköz vagy a 135. § szerinti vagyoni értékű jog értékesítése adólevonásra egyébként nem jogosítaná.
+
+(2) Ha az (1) bekezdés szerint az eredetileg levonható előzetesen felszámított adó összegéhez képest különbözet keletkezik, és annak összege abszolút értékben kifejezve eléri vagy meghaladja az 1000 forintnak megfelelő pénzösszeget, a különbözetre a 153/C. § (1)–(2) bekezdését kell megfelelően alkalmazni.
 
 ### Adólevonási jog felfüggesztése, elenyészése
 
@@ -1622,7 +1603,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 142. § (1) Az adót a termék beszerzője, szolgáltatás igénybevevője fizeti:
 
 - a) a 10. § d) pontja szerinti termékértékesítés esetében;
-- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása vagy egyéb megváltoztatása építési hatósági engedély-köteles, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
+- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása építési hatósági engedély-köteles vagy építési hatósági tudomásulvételi eljáráshoz kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
 - c) az a) és b) pontban említett termékértékesítéshez, szolgáltatásnyújtáshoz munkaerő kölcsönzése, kirendelése, illetőleg személyzet rendelkezésre bocsátása esetében;
 - d) a 6. számú mellékletben felsorolt termékek értékesítése esetében;
 - e) a 86. § (1) bekezdésének j) és k) pontja alá tartozó termékértékesítés esetében, ha az értékesítő adóalany élt a 88. §-ban említett választási jogával;
@@ -1680,7 +1661,7 @@ fizeti.
 - b) a 111. § (1) bekezdés c) pontjában és a 112. § (1) bekezdésében említett eljárások hatálya alól kikerül, az adót az fizeti, aki (amely) azt az adóztatandó ügyletet teljesíti a 2. § értelmében, amelynek betudhatóan a termék a felsorolt eljárások hatálya alól kikerül,
 - c) a 113. § (1) bekezdésben említett eljárás hatálya alól kikerül, az adót az fizeti, aki (amely) cselekményének betudhatóan a termék ezen eljárás hatálya alól kikerül.
 
-(2) A 4. számú melléklet 35. pontjában meghatározott esetben az adóraktár üzemeltetője az (1) bekezdésben meghatározott adófizetésre kötelezettel együtt egyetemlegesen felelős az adó megfizetéséért.
+(2) A 4. számú melléklet 34. pontjában meghatározott esetben az adóraktár üzemeltetője az (1) bekezdésben meghatározott adófizetésre kötelezettel együtt egyetemlegesen felelős az adó megfizetéséért.
 
 ### Számla kibocsátójának adófizetési kötelezettsége
 
@@ -1731,9 +1712,58 @@ legyenek.
 
 ### IX. Fejezet — ADÓ MEGÁLLAPÍTÁSA
 
+#### 1. alfejezet
+
+### Önadózás
+
 153. § (1) Az adót az adófizetésre kötelezett – ha e törvény másként nem rendelkezik – maga állapítja meg (önadózás).
 
 (2) Az önadózás e törvényben nem szabályozott kérdéseiben az Art. rendelkezéseit kell alkalmazni.
+
+### A levonási jog gyakorlásának módja
+
+153/A. § (1) A belföldön nyilvántartásba vett adóalany az adómegállapítási időszakban megállapított fizetendő adó együttes összegét csökkentheti az ugyanezen vagy az Art. szerinti elévülési időn belüli korábbi adómegállapítási időszakban (időszakokban) keletkezett levonható előzetesen felszámított adó összegével.
+
+(2) Ha az (1) bekezdés szerint megállapított különbözet előjele negatív, a különbözetet a belföldön nyilvántartásba vett adóalany
+
+- a) az (1) bekezdés szerinti elévülési időre figyelemmel a soron következő adómegállapítási időszakban veheti figyelembe úgy, mint az akkori adómegállapítási időszakban az (1) bekezdés szerint megállapított fizetendő adó együttes összegét csökkentő tételt, vagy
+- b) a 186. §-ban meghatározott feltételek szerint és módon az állami adóhatóságtól visszaigényelheti.
+
+### Az adóalap és a fizetendő adó utólagos csökkenésének elszámolása
+
+153/B. § (1) Abban az esetben, ha az adóalany által korábban megállapított és bevallott adóalap vagy az adóalany által korábban fizetendő adóként megállapított és bevallott adó csökken, az adóalany a különbözetet – ha az a fizetendő adót érinti, a 153/A. § (1) bekezdése szerint megállapított fizetendő adót csökkentő tételként – legkorábban abban az adómegállapítási időszakban jogosult figyelembe venni, amelyben
+
+- a) az eredeti számlát érvénytelenítő számla vagy az azt módosító számla a jogosult személyes rendelkezésére áll;
+- b) a jogosultnak az ellenértéket, az előleget vagy a betétdíjat visszatérítik az a) pont alá nem tartozó esetekben;
+- c) a jogosultnak a pénzt visszatérítik a 77. § (4) bekezdése szerinti esetben;
+- d) a termék Közösség területéről történő kiléptetésének hatóság általi igazolása az adóalany, az eredeti számlát módosító számla a jogosult személyes rendelkezésére áll a 98. § (5) bekezdés szerinti esetben.
+
+(2) E § nem alkalmazható az 55. § (2) bekezdése szerinti számla érvénytelenítésre.
+
+### A levonható adó utólagos módosulásának elszámolása
+
+153/C. § (1) Abban az esetben, ha a levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az adólevonási jog keletkezését követően változás következik be, és ennek eredményeként az eredetileg levonható előzetesen felszámított adó összege csökken, az adóalany a különbözetet abban az adómegállapítási időszakban köteles a 153/A. § (1) bekezdése szerint megállapított fizetendő adó összegét növelő tételként figyelembe venni, amelyben
+
+- a) a különbözet alapjául szolgáló, a 127. § (1) bekezdésében említett okiratot módosító vagy azt érvénytelenítő okirat az adóalany személyes rendelkezésére áll, de nem később, mint a módosító vagy érvénytelenítő okirat kibocsátásának hónapját követő hónap 15. napja, feltéve, hogy az eredetileg levonható előzetesen felszámított adó összege közvetlenül olyan, a 127. § (1) bekezdésében említett okiraton alapul, amelyet más fél (hatóság) bocsátott ki;
+- b) részére a pénzt visszatérítik a 77. § (4) bekezdése szerinti esetben;
+- c) a változás bekövetkezik az a) és b) pontok alá nem tartozó esetekben.
+
+(2) Ha a levonható adó összegét meghatározó tényezőkben bekövetkező utólagos változás eredményeként az eredetileg levonható előzetesen felszámított adó összege nő, az adóalany – az adólevonási jog gyakorlása egyéb feltételeinek sérelme nélkül – a különbözetet legkorábban abban az adómegállapítási időszakban jogosult a 153/A. § (1) bekezdése szerint megállapított levonható előzetesen felszámított adó összegét növelő tételként figyelembe venni, amelyben a különbözet alapjául szolgáló, a 127. § (1) bekezdésében említett okiratot módosító okirat a személyes rendelkezésére áll.
+
+(3) A 120. § b) pontja, c) pont cb) alpontja vagy e) pontja alapján keletkezett, eredetileg levonható, előzetesen felszámított adó összegét érintő különbözetet – az (1)–(2) bekezdésekben foglaltaktól eltérően – az adóalany abban az adómegállapítási időszakban kötelezett figyelembe venni, amelyben a fizetendő adó összegét növelő vagy csökkentő tételt el kell számolni.
+
+(4) Az eredetileg levonható előzetesen felszámított adó összegét meghatározó tényezők utólagos változásának minősül a pénz visszatérítése az adóalany részére a 77. § (4) bekezdésében meghatározottak szerint, feltéve, hogy ezen adóalany részben vagy egészben adólevonásra jogosult, azon termék beszerzése, szolgáltatás igénybevétele vonatkozásában, amelyre tekintettel a pénzvisszatérítést kapja.
+
+153/D. § Nem minősül az eredetileg levonható előzetesen felszámított adó összegét meghatározó tényezők utólagos változásának:
+
+- a) az adó áthárítására jogalapot teremtő ügylet fejében járó ellenérték teljes vagy részleges meg nem térítése;
+- b) a 11. § (3) bekezdésében és a 14. § (3) bekezdésében meghatározott esetek;
+- c) a megsemmisülés és más olyan vagyoni kár, amelyet az adóalany tevékenységi körén kívül eső elháríthatatlan ok idézett elő, és ez utóbbi ok fennállását az adóalany bizonyítja;
+- d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetve csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+
+#### 2. alfejezet
+
+### Az adó megállapításának egyéb esetei
 
 154. § (1) Arra a személyre, szervezetre, akinek (amelynek) adóalanyisága kizárólag a 6. § (4) bekezdésének b) és c) pontján alapul, valamint adófizetésre a 140. § a) pontja alapján nem kötelezett, az adót az állami adóhatóság állapítja meg.
 
@@ -1800,7 +1830,7 @@ nem teljesül;
 
 (2) A számlára vonatkozó kötelezettségekre – a (3) bekezdésben foglalt eltéréssel – annak a tagállamnak a szabályait kell alkalmazni, amelyben a terméket értékesítő vagy a szolgáltatást nyújtó gazdasági tevékenységének székhelye vagy a teljesítéssel legközvetlenebbül érintett állandó telephelye van, vagy ezek hiányában, amelyben állandó lakóhelye vagy szokásos tartózkodási helye van, és
 
-- a) a terméket értékesítő vagy a szolgáltatást nyújtó nem telepedett le gazdasági céllal a termékértékesítés vagy szolgáltatásnyújtás teljesítési helye szerinti tagállamban, és az adó fizetésére a terméket beszerző vagy a szolgáltatást igénybevevő kötelezett, vagy
+- a) a terméket értékesítő vagy a szolgáltatást nyújtó nem telepedett le gazdasági céllal a termékértékesítés, szolgáltatásnyújtás teljesítési helye szerinti tagállamban, vagy az ezen tagállamban lévő állandó telephelye a 137/A. § szerint nem érintett a termékértékesítés vagy szolgáltatásnyújtás teljesülésében, és az adó fizetésére a terméket beszerző vagy a szolgáltatást igénybevevő kötelezett, vagy
 - b) a termékértékesítés vagy szolgáltatásnyújtás teljesítési helye a Közösség területén kívül van.
 
 (3) A (2) bekezdés a) pontjában foglalt esetben a számlázási kötelezettségekre a termékértékesítés vagy a szolgáltatásnyújtás teljesítési helye szerinti tagállam rendelkezéseit kell alkalmazni, ha a számlát a terméket beszerző vagy szolgáltatást igénybevevő bocsátja ki.
@@ -1954,12 +1984,14 @@ számlakibocsátási kötelezettséget jelent.
 
 ### Nyugta adattartalma
 
-173. § A nyugta kötelező adattartalma a következő:
+173. § (1) A nyugta kötelező adattartalma a következő:
 
 - a) a nyugta kibocsátásának kelte;
 - b) a nyugta sorszáma, amely a nyugtát kétséget kizáróan azonosítja;
 - c) a nyugta kibocsátójának adószáma, valamint neve és címe;
 - d) a termék értékesítésének, szolgáltatás nyújtásának adót is tartalmazó ellenértéke.
+
+(2) Abban az esetben, ha a nyugta egyúttal az abban megjelölt szolgáltatás igénybevételére is jogosít, akkor az (1) bekezdés a) pontjában foglalt adattartalom helyett elegendő azon feltüntetni azt az időpontot vagy időszakot, amikor a nyugtában megjelölt szolgáltatás igénybe vehető.
 
 ### Megjelenési forma
 
@@ -1999,7 +2031,7 @@ számlakibocsátási kötelezettséget jelent.
 (2) A számla egyszerűsített adattartalma azt jelenti, hogy
 
 - a) az (1) bekezdés a), b) és d) pontjában említett esetben a 169. §-ban felsorolt adatok közül az i) pontban megjelölt helyett az ellenérték adót is tartalmazó összege, valamint a j) pontban megjelölt helyett az alkalmazott adómértéknek megfelelő, a 83. § szerint meghatározott százalékérték feltüntetése kötelező azzal, hogy egyúttal a k) pontban megjelölt adat nem tüntethető fel;
-- b) az (1) bekezdés c) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–f) pontban megjelöltek kitöltése, továbbá az i) pontban megjelölt helyett az ellenérték pénzben kifejezett összegének feltüntetése kötelező.
+- b) az (1) bekezdés c) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–g) és n) pontban megjelöltek kitöltése, továbbá az i) pontban megjelölt helyett az ellenérték pénzben kifejezett összegének feltüntetése kötelező.
 
 (3) Az egyszerűsített adattartalmú számlára a számla adattartalmára vonatkozó egyéb rendelkezéseket e §-sal összhangban kell alkalmazni.
 
@@ -2073,7 +2105,7 @@ vonatkozó mennyiségi felvétellel. A leltározásra a Számv. tv. rendelkezés
 
 (2) A határozattal megállapított adót az adófizetésre kötelezett legkésőbb a határozatba foglalt esedékességig fizeti meg.
 
-186. § (1) A 131. § (1) bekezdése szerint megállapított negatív előjelű különbözet összege legkorábban az Art.-ban meghatározott esedékességtől kezdődően igényelhető vissza, ha
+186. § (1) A 153/A. § (1) bekezdése szerint megállapított negatív előjelű különbözet összege legkorábban az Art.-ban meghatározott esedékességtől kezdődően igényelhető vissza, ha
 
 - a) azt a 184. § szerinti bevallás benyújtásával egyidejűleg a belföldön nyilvántartásba vett adóalany az állami adóhatóságtól kérelmezi; továbbá
 - b) az abszolút értékben kifejezve eléri vagy meghaladja:
@@ -2155,11 +2187,11 @@ fejében megtérített vagy megtérítendő ellenérték.
 - f) a terméknek a 19. § b) és c) pontja szerinti Közösségen belüli beszerzése esetében;
 - g) termék importja esetében.
 
-(2) Az adóalany nem járhat el alanyi adómentes minőségében abban az esetben sem, ha az alanyi adómentesség időszakát megelőzően keletkezett levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az alanyi adómentesség időszakában olyan változás következik be, amelynek eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet csökkenti, és amelynek rendezésére a 132. § (2) bekezdése alkalmazandó.
+(2) Az adóalany nem járhat el alanyi adómentes minőségében abban az esetben sem, ha az alanyi adómentesség időszakát megelőzően keletkezett levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az alanyi adómentesség időszakában olyan változás következik be, amelynek eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet csökkenti, és amelynek rendezésére a 153/C. § (1) bekezdése alkalmazandó.
 
 (3) Az adóalany az alanyi adómentesség időszakában szintén nem járhat el alanyi adómentes minőségében a 139–141., 146., 147. és 150. §-okban említett esetekben.
 
-194. § Az adóalany jogosult nem alanyi adómentes minőségében eljárni abban az esetben, ha az alanyi adómentesség időszakát megelőzően keletkezett levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az alanyi adómentesség időszakában olyan változás következik be, amelynek eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet növeli, és amelynek rendezésére a 132. § (4) bekezdése alkalmazandó.
+194. § Az adóalany jogosult nem alanyi adómentes minőségében eljárni abban az esetben, ha az alanyi adómentesség időszakát megelőzően keletkezett levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az alanyi adómentesség időszakában olyan változás következik be, amelynek eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet növeli, és amelynek rendezésére a 153/C. § (2) bekezdése alkalmazandó.
 
 195. § (1) Az alanyi adómentesség időszakában keletkezett előzetesen felszámított adó levonására az adóalany akkor sem jogosult, ha nem alanyi adómentes minőségében jár el.
 
@@ -2439,7 +2471,7 @@ tünteti fel.
 (4) Abban az esetben, ha a megszűnő önálló pozíciószám végleges árréstömegének (kisebbítendő tag) és a megszűnő önálló pozíciószám fennállásának teljes időtartamát magában foglaló adómegállapítási időszakokban a megszűnő önálló pozíciószám 212/B. § (2) bekezdése szerint számított árréstömege göngyölített összegének (kivonandó tag) a különbözete abszolút értékben kifejezve eléri vagy meghaladja a 10 000 forintnak megfelelő pénzösszeget, az utazásszervező
 
 - a) köteles az (1) bekezdésben meghatározott adómegállapítási időszakban a különbözetre jutó adót fizetendő adóként megállapítani, ha a különbözet pozitív előjelű;
-- b) jogosult arra, hogy legkorábban az (1) bekezdésben meghatározott adómegállapítási időszakban a 131. § (1) bekezdése szerint megállapított adót a különbözetre jutó adó összegével csökkentse, ha a különbözet negatív előjelű.
+- b) jogosult arra, hogy legkorábban az (1) bekezdésben meghatározott adómegállapítási időszakban a 153/A. § (1) bekezdése szerint megállapított adót a különbözetre jutó adó összegével csökkentse, ha a különbözet negatív előjelű.
 
 (5) Az önálló pozíciószám megszűnik, ha az utazásszervező
 
@@ -2559,7 +2591,7 @@ nem térhet el.
 
 (2) Ha a viszonteladó a határnap lejártáig az állami adóhatóságnak másként nem nyilatkozik, választása a határnapot követően az (1) bekezdésben említett megfelelő időtartammal meghosszabbodik.
 
-226. § (1) A 225. § (2) bekezdésének b) pontjában említett határnapra szóló időzítéssel a viszonteladónak a 223. § (3) bekezdésének b) pontja szerint kell eljárnia. Az így megállapított zárókészleten levő termékekre jutó előzetesen felszámított adóra – az adólevonási jog gyakorlása egyéb feltételeinek teljesülésétől függetlenül – adólevonási jogot nem alapíthat, illetőleg ha ezzel a jogával már élt, azt önellenőrzéssel helyesbíti.
+226. § (1) A 225. § (2) bekezdésében említett határnapra szóló időzítéssel a viszonteladónak a 223. § (3) bekezdésének b) pontja szerint kell eljárnia. Az így megállapított zárókészleten levő termékekre jutó előzetesen felszámított adóra – az adólevonási jog gyakorlása egyéb feltételeinek teljesülésétől függetlenül – adólevonási jogot nem alapíthat, illetőleg ha ezzel a jogával már élt, azt önellenőrzéssel helyesbíti.
 
 (2) Az (1) bekezdésben említett önellenőrzés a határnapot követő év január 31. napjáig pótlékmentesen végezhető el.
 
@@ -2720,7 +2752,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 (2) Az (1) bekezdéstől függetlenül a belföldön nem letelepedett adóalany adó-visszatéríttetési joga kiterjed a 203. § szerint megállapított előzetesen felszámított adóra is.
 
-(3) Az előzetesen felszámított adó levonására vonatkozó rendelkezések közül a 119., 124–128., 132. és 133. §-okat, valamint a 204. § (2) bekezdését az adó-visszatéríttetési jogra is megfelelően alkalmazni kell.
+(3) Az előzetesen felszámított adó levonására vonatkozó rendelkezések közül a 119., 124–128., 153/C. és 153/D. §-okat, valamint a 204. § (2) bekezdését az adó-visszatéríttetési jogra is megfelelően alkalmazni kell.
 
 248. § (1) Az adó-visszatéríttetési jog egészében abban az esetben illeti meg a belföldön nem letelepedett adóalanyt, ha abban az államban, ahol – a 244. § (2) és (3) bekezdése szerint – letelepedett, az adott naptári évben az ott érvényes jog szerint kizárólag adólevonásra jogosító termékértékesítést, szolgáltatásnyújtást teljesít.
 
@@ -2944,7 +2976,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést; 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
 - 7. építési telek: az olyan
   - a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
-  - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak.
+  - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak. 7/A. halottszállító személygépkocsi: az olyan személygépkocsi, amelyet a közúti járművek műszaki megvizsgálásáról szóló rendelet szerinti halottszállító kocsiként tüntetnek fel a járműnyilvántartásban.
 - 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz;
 - 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani;
 - 9/a. közcélú adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve hogy
@@ -3091,7 +3123,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gf) a Tanács 2009/69/EK irányelve (2009. június 25.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az importtal kapcsolatos adócsalás tekintetében történő módosításáról;
   - gg) a Tanács 2009/162/EU irányelve (2009. december 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelv különböző rendelkezéseinek módosításáról;
   - gh) a Tanács 2010/23/EU irányelve (2010. március 16.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózási mechanizmus bizonyos csalásra alkalmas szolgáltatásokra vonatkozó választható és ideiglenes alkalmazása tekintetében történő módosításáról;
-  - gi) a Tanács 2010/45/EU irányelve (2010. június 13.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a számlázás szabályai tekintetében történő módosításáról.
+  - gi) a Tanács 2010/45/EU irányelve (2010. június 13.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a számlázás szabályai tekintetében történő módosításáról;
+  - gj) a Tanács 2013/43/EU irányelve (2013. július 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózás bizonyos, csalásra alkalmas termékek és szolgáltatások értékesítésére vonatkozó fakultatív és ideiglenes alkalmazása tekintetében történő módosításáról;
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról.
 
@@ -3234,6 +3267,12 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 (2) A felnőttképzésről szóló 2013. évi LXXVII. törvény 30. § (2) bekezdése szerinti képzési programok tekintetében e törvény 85. § (2) bekezdés b) pontjának 2013. augusztus 31. napján hatályos rendelkezéseit kell alkalmazni.
 
+286. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 135. § (5) bekezdését abban az esetben kell először alkalmazni, amikor a vagyoni értékű jog adóalany általi szerzése 2014. január 1. napján vagy azt követően történt meg.
+
+(2) Az adóalany dönthet úgy is, hogy a 2014. január 1. napját megelőzően szerzett vagyoni értékű jogra is az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 135. § (5) bekezdését alkalmazza. Az adóalany köteles ezen döntését adónyilvántartásában megfelelően rögzíteni. Ilyen esetben az önellenőrzés pótlékmentesen végezhető el.
+
+287. § A 3. számú melléklet I. részének az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 19–24. pontjait azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2014. január 1-jére vagy azt követő napra esik.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3303,6 +3342,12 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 16. | Napilap (hetenként legalább négyszer megjelenő kiadvány); Egyéb újság, folyóirat (évente legalább egyszer megjelenő kiadvány) | 4902 |
 | 17. | Kotta | 4904 |
 | 18. | A 15. és 17. pontban meghatározott termékek bármely más fizikai adathordozón reprodukált formája |  |
+| 19. | Fajtiszta tenyészsertés | 0103 1000 |
+| 20. | Háziasított sertés, 50 kg-nál kisebb súlyú (a fajtiszta tenyészsertés kivételével) | 0103 9110 |
+| 21. | Élő, háziasított koca, legalább egyszer ellett, legalább 160 kg súlyú (a fajtiszta tenyészsertés kivételével) | 0103 9211 |
+| 22. | Élő, háziasított sertés, legalább 50 kg súlyú (a legalább egyszer ellett, legalább 160 kg súlyú koca, valamint a fajtiszta tenyészsertés kivételével) | 0103 9219 |
+| 23. | Házi sertés egészben vagy félben, frissen vagy hűtve | 0203 1110 |
+| 24. | Házi sertés egészben vagy félben, fagyasztva | 0203 2110 |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 

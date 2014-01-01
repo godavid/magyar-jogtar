@@ -114,11 +114,17 @@ a következő törvényt alkotja:
 
 16. § (1)
 
-(2)–(3)
+(2) A földműves, valamint mezőgazdasági termelőszervezet – a (3) bekezdésben meghatározott esetek kivételével – a föld birtokát – a már birtokában lévő föld területnagyságának a beszámításával – legfeljebb 1200 hektár mértékig szerezheti meg (birtokmaximum).
+
+(3) Az állattartó telep üzemeltetője, a szántóföldi és kertészeti növényfajok vetőmagjának előállítója esetében – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározottak szerint – a birtokmaximum mértéke – a (2) bekezdésben meghatározottaktól eltérően – 1800 hektár területnagyság (kedvezményes birtokmaximum).
 
 (4)
 
-(5)–(7)
+(5) Az (1)–(4) bekezdésben meghatározott földszerzési és birtokmaximum mértékének megállapításánál a területnagyság mértékébe a földdel azonos helyrajzi számon nyilvántartott művelés alól kivett terület (alrészlet) területnagyságát is be kell számítani.
+
+(6) A föld kényszerhasznosítójaként kijelölt személy vagy szervezet esetében a (2)–(4) bekezdésben meghatározott birtokmaximum mértékének megállapításánál figyelmen kívül kell hagyni az általa kényszerhasznosítással hasznosított föld területnagyságát.
+
+(7) A 11. §-ban meghatározott jogi személyekre és a 40. § (3) bekezdésében meghatározott intézményre az (1)–(4) bekezdésben megállapított korlátozások nem terjednek ki.
 
 #### 17. §
 
@@ -146,15 +152,70 @@ a következő törvényt alkotja:
 
 #### 10. Általános szabályok
 
-#### 38–39. §
+38. § (1) A föld tulajdonosa, haszonélvezeti jog fennállása esetén a haszonélvező (e fejezetben a továbbiakban együtt: használatba adó) a föld használatát, hasznosítását az e törvényben meghatározott természetes személy, valamint jogi személy javára haszonbérlet, feles bérlet, részesművelés, illetve szívességi földhasználat jogcímén engedheti át az e törvényben meghatározott módon és mértékben.
+
+(2) A haszonbérletre e törvény rendelkezései mellett a Polgári Törvénykönyv (a továbbiakban: Ptk.), valamint a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény haszonbérletre vonatkozó szabályait is alkalmazni kell. E törvény rendelkezéseit nem kell alkalmazni, ha a haszonbérlő öröklés jogcímén lépett a jogelődje helyébe.
+
+(3) A feles bérletre, részesművelésre, és szívességi földhasználat tartalmára vonatkozó szabályokat a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény állapítja meg azzal, hogy e földhasználatokra a 39–43. §-ban, és az 56–59. §-ban foglalt rendelkezéseket alkalmazni kell.
+
+(4) A földek használatával összefüggő szolgalmi jog, haszonvételi jogok és a szomszédjogok gyakorlására a Ptk., valamint a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény rendelkezéseit kell alkalmazni.
+
+(5) A tanya lakó-, és gazdasági épület használatának – a földtől elválasztott – önálló átengedésére e törvény rendelkezéseit nem kell alkalmazni.
+
+39. § Ha e törvény eltérően nem rendelkezik, a föld használatának átengedéséről szóló szerződést a mezőgazdasági igazgatási szerv hagyja jóvá. A mezőgazdasági igazgatási szerv jóváhagyása a jogszabályban előírt egyéb érvényességi feltételeket és kellékeket nem pótolja, továbbá nem pótolja más hatóságok előzetes engedélyét, illetve jóváhagyását, amelyek a jogügylet létrejöttéhez vagy érvényességéhez ugyancsak szükségesek.
 
 #### 11. A földhasználati jogosultság megszerzése, illetve annak tilalma, és a megengedett mértéke
 
-#### 40–43. §
+40. § (1) A 38. § (1) bekezdésében meghatározott jogcímeken alapuló földhasználat jogát (e fejezetben a továbbiakban együtt: földhasználati jogosultság) – a (2)–(5) bekezdésben meghatározott esetek kivételével – földműves és mezőgazdasági termelőszervezet szerezheti meg.
+
+(2) Az erdőbirtokossági társulat a tagjai tulajdonában és haszonélvezetében álló erdőnek minősülő föld földhasználati jogosultságát megszerezheti.
+
+(3) Haszonbérlet címén
+
+- a) az agrárágazathoz tartozó köznevelési feladatot ellátó intézmény,
+- b) az agrárágazathoz tartozó felsőoktatási intézmény
+
+az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudományos kutatási alapfeladatát szolgáló föld használatát megszerezheti.
+
+(4) Haszonbérlet címén a föld használatát a bevett egyház vagy annak belső egyházi jogi személye oktatási, szociális, vagy gazdasági tevékenység végzése céljából megszerezheti.
+
+(5) Tanya földhasználati jogosultságát földművesnek nem minősülő természetes személy, illetve mezőgazdasági termelőszervezetnek nem minősülő jogi személy – ide nem értve a 41. §-ban meghatározott jogi személyeket – is megszerezheti.
+
+41. § Nem szerezhet földhasználati jogosultságot
+
+- a) olyan jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely nem minősül a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti átlátható szervezetnek;
+- b) a nyilvánosan működő részvénytársaság.
+
+42. § (1) A földhasználati jogosultság megszerzésének feltétele – ide nem értve a 40. § (2)–(5) bekezdésében foglalt eseteket –, hogy a földhasználati jogosultságot szerző fél a földhasználati jogosultság átengedéséről szóló szerződésben (a továbbiakban együtt: földhasználati szerződés), illetve teljes bizonyító erejű magánokiratba vagy közokiratba foglalt nyilatkozatban vállalja, hogy a földhasználati szerződés fennállása alatt megfelel a 40. § (1)–(4) bekezdésében, valamint a 41. §-ban foglalt feltételeknek, a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének.
+
+(2) Az (1) bekezdés alkalmazásában nem minősül a használat átengedésének az, ha a földhasználati jogosultságot szerző fél
+
+- a) a föld használatát
+  - aa) földművesnek minősülő közeli hozzátartozója, vagy
+  - ab) a legalább 25%-ban a tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban a tulajdonában álló mezőgazdasági termelőszervezet javára engedi át,
+- b) társult erdőgazdálkodást folytat, vagy
+- c) vetőmagtermeléshez szükséges terület biztosítása céljából engedi át a használatot más személy részére.
+
+(3) A földhasználati jogosultság további feltétele, hogy a szerző fél a földhasználati jogosultság átengedéséről szóló szerződésben, illetve teljes bizonyító erejű magánokiratba vagy közokiratba foglaltan nyilatkozzon arról, hogy nincs jogerősen megállapított és fennálló földhasználati díjtartozása.
+
+(4) A pályakezdő gazdálkodónak az (1)–(3) bekezdésben meghatározottakon túl kötelezettséget kell vállalnia arra, hogy
+
+- a) a földhasználati jogosultság megszerzésétől számított 1 éven belül a föld helye szerinti településen állandó bejelentett lakosként életvitelszerűen fog tartózkodni, vagy a földhasználati jogosultság megszerzésétől számított 1 éven belül a föld helye szerinti településen mezőgazdasági üzemközpontot létesít, és
+- b) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytat.
+
+(5) Újonnan alapított mezőgazdasági termelőszervezetnek az (1)–(3) bekezdésben meghatározottakon túl kötelezettséget kell vállalnia arra, hogy a földhasználati jogosultság megszerzésétől számított 1 éven belül a föld helye szerinti településen mezőgazdasági üzemközpontot létesít.
+
+43. § (1) A földhasználati jogosultság megszerzésének megengedett mértékére – a (2)–(3) bekezdésben meghatározott eltérésekkel – a 16. § (2)–(5) bekezdésében foglaltak az irányadók.
+
+(2) A birtokmaximum 1800 hektár területnagyság mértékig meghaladható a mezőgazdasági termelőszervezet legalább 1 éve tagjának tulajdonában álló föld használatával.
+
+(3) A különválással, kiválással létrejött mezőgazdasági termelőszervezet esetében – a létrejöttétől számított 5 évig – a megengedett birtokméretbe a jogelőd birtokában lévő összes föld területnagyságát be kell számítani.
 
 #### 12. A haszonbérlet időtartama
 
-#### 44. §
+44. § (1) A haszonbérleti szerződés határozott időtartamra, legalább 1 gazdasági évre, és – a (2) bekezdésben meghatározott kivételekkel – legfeljebb 20 évre köthető meg.
+
+(2) Az erdőnek minősülő földre, illetve az engedélyezett erdőtelepítésre kijelölt földre a haszonbérleti szerződést az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben foglalt eltéréssel legfeljebb a termelési időszak (vágás érettségi kor) lejártát követő 10. év végéig lehet megkötni.
 
 #### 13. Az előhaszonbérletre jogosultak sorrendje, és az előhaszonbérleti jog gyakorlása
 
@@ -230,19 +291,175 @@ a következő törvényt alkotja:
 
 #### 14. A haszonbérleti szerződés hatósági jóváhagyása
 
-#### 51–55. §
+51. § (1) A mezőgazdasági igazgatási szerv a jegyző által az – 50. §-ban foglaltak figyelembevételével – részére megküldött okiratok közül a haszonbérleti szerződést és az elfogadó jognyilatkozatokat – kizárólag azok tartalma és alaki kellékei alapján – először az érvényességi és hatályosulási feltételeknek való megfelelőség szempontjából vizsgálja meg, illetve ellenőrzi. A mezőgazdasági igazgatási szerv az okiratok beérkezésétől számított 15 napon belül döntést hoz a haszonbérleti szerződés jóváhagyásának a megtagadásáról, ha megállapítja, hogy
+
+- a) a haszonbérleti szerződés a jogszabályi előírások megsértése miatt létre nem jött szerződésnek, vagy semmis szerződésnek minősül,
+- b) a haszonbérleti szerződés nem tartalmazza a haszonbérlőnek a 42. §-ban előírt tartalmú nyilatkozatait, vagy azok önállóan, a 42. §-ban előírt alakszerűségi előírásoknak megfelelően nem kerültek csatolásra, vagy
+- c) az elfogadó jognyilatkozat
+  - ca) az alakszerűségi előírásoknak nem felel meg,
+  - cb) nem az előhaszonbérletre jogosulttól származik,
+  - cc) az előhaszonbérletre jogosulttól származik, de nem állapítható meg belőle az előhaszonbérleti jogosultság jogalapja, vagy az, hogy az előhaszonbérleti jog mely törvényen alapul, illetve az előhaszonbérleti jog nem a megjelölt törvényen, vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, vagy
+  - cd) az előhaszonbérletre jogosulttól származik, de nem tartalmazza az előhaszonbérletre jogosultnak a 42. §-ban előírt tartalmú nyilatkozatait, vagy azok önállóan, a 42. §-ban előírt alakszerűségi előírásoknak megfelelően nem kerültek csatolásra.
+
+(2) A mezőgazdasági igazgatási szerv – az (1) bekezdésben foglaltakon túl – az okiratok beérkezésétől számított 15 napon belül döntést hoz a haszonbérleti szerződés jóváhagyásának a megtagadásáról akkor is, ha az okiratok alapján megállapítja az előhaszonbérleti jog gyakorlására vonatkozó eljárási szabályok megsértését.
+
+(3) Ha az (1) és a (2) bekezdésben meghatározott előzetes vizsgálat eredményeként a mezőgazdasági igazgatási szerv nem tagadja meg a haszonbérleti szerződés jóváhagyását, és több előhaszonbérletre jogosult nyújtott be elfogadó jognyilatkozatot, a mezőgazdasági igazgatási szerv – a (4) bekezdésben meghatározott eset kivételével – az előhaszonbérletre jogosultakat a törvény által meghatározott sorrend alapján rangsorolja, és arról jegyzéket készít.
+
+(4) A mezőgazdasági igazgatási szerv nem készít jegyzéket, ha megállapítja, hogy a hirdetményi úton közölt haszonbérleti szerződésre
+
+- a) kizárólag határidőn túl érkezett a jegyzőhöz elfogadó jognyilatkozat, vagy
+- b) a határidőn belül beérkezett valamennyi elfogadó jognyilatkozat hiányos, vagy valótlan tartalmú, és ezáltal egyik sem felel meg az (1) bekezdés c) pontjában foglaltaknak.
+
+(5) Az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén a (3) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a rendelkezésére álló okiratok, és az általa készített jegyzék másolatának megküldésével haladéktalanul megkeresi az erdészeti hatóságot a szakhatósági állásfoglalásának beszerzése céljából. Az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek fennállását vizsgálja.
+
+(6) Ha a (4) bekezdésben foglalt esetek valamelyike áll fenn, az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén az (5) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a mezőgazdasági igazgatási szerv jegyzék nélkül keresi meg az erdészeti hatóságot.
+
+52. § (1) A mezőgazdasági igazgatási szerv az e fejezetben meghatározott vizsgálatát köteles azonos szempontok szerint, a jegyzékben szereplő összes előhaszonbérletre jogosult, és a haszonbérleti szerződés szerinti haszonbérlő vonatkozásában elvégezni.
+
+(2) Ha a mezőgazdasági igazgatási szerv a vizsgálata alapján a jegyzék szerinti első helyi előhaszonbérletre jogosult(ak) esetében nem járulna hozzá a haszonbérleti szerződés jóváhagyásához, a jegyzék szerinti rangsorban következő előhaszonbérletre jogosultak tekintetében is el kell végeznie a vizsgálatot. Ezt mindaddig folytatnia kell, amíg meg nem állapítja, hogy
+
+- a) a jegyzék szerinti rangsor alapján valamely soron következő előhaszonbérletre jogosult esetében támogatja a haszonbérleti szerződés jóváhagyását;
+- b) egyik előhaszonbérletre jogosult esetében sem támogatja a haszonbérleti szerződés jóváhagyását, és ezért a haszonbérleti szerződés szerinti haszonbérlővel támogatja a haszonbérleti szerződés jóváhagyását;
+- c) egyik előhaszonbérletre jogosulttal és a haszonbérleti szerződés szerinti haszonbérlővel sem támogatja a haszonbérleti szerződés jóváhagyását.
+
+53. § (1) A mezőgazdasági igazgatási szerv – az 51. § (1) és (2) bekezdésében meghatározott eseteken túl – a haszonbérleti szerződés jóváhagyását megtagadja ha
+
+- a) utóbb megállapítja, hogy az 51. § (1) és (2) bekezdésében foglaltak alapján a haszonbérleti szerződés jóváhagyása megtagadásának lett volna helye;
+- b) a haszonbérleti szerződés alkalmas a vonatkozó jogszabályi korlátozások megkerülésére;
+- c) a haszonbérleti szerződés alapján a felek tényleges akarata föld tulajdonjogának átruházására irányul és a haszonbérleti szerződés alkalmas arra, hogy a vonatkozó tilalmat vagy korlátozást vele megkerüljék;
+- d) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak), illetve a soron következő előhaszonbérletre jogosult(ak), vagy a haszonbérleti szerződés szerinti haszonbérlő
+  - da) nem alkalmas a haszonbérleti szerződés, és a 42. §-ban meghatározott kötelezettségvállalások teljesítésére,
+  - db) olyan jogi helyzetet nyer, amelynek révén a jövőben az előhaszonbérleti jogát visszaélésszerűen gyakorolhatja, vagy
+  - dc) birtokában álló föld jogellenes más célú hasznosítása, vagy a hasznosítási kötelezettség megsértése miatt az ingatlanügyi hatóság – a haszonbérleti szerződés közlését megelőző 5 éven belül – jogerősen földvédelmi bírságot szabott ki;
+- e) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak)nak, illetve a soron következő előhaszonbérletre jogosult(ak)nak, vagy a haszonbérleti szerződés szerinti haszonbérlőnek jogerősen megállapított földhasználati díjtartozása áll fenn;
+- f) az erdőnek minősülő föld haszonbérbe adásához az erdészeti hatóság nem járul hozzá.
+
+(2) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv megtagadhatja a haszonbérleti szerződés jóváhagyását, különösen, ha
+
+- a) a haszonbérleti szerződés szerinti ellenszolgáltatás (a továbbiakban: haszonbér) értékének aránytalansága alkalmas volt arra, hogy a haszonbérlő előhaszonbérletre jogosultat távol tartson az előhaszonbérleti jogának gyakorlásától, vagy
+- b) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak), illetve a soron következő előhaszonbérletre jogosult(ak), vagy a haszonbérleti szerződés szerinti haszonbérlő – a haszonbérleti szerződés közlését megelőző 5 éven belül – a birtokában álló föld 25 százalékának megfelelő földterületen a földhasznosítási kötelezettségének termelés folytatása nélkül tett eleget.
+
+(3) A (2) bekezdés b) pontjában foglalt területi mérték megállapításánál – a 4. §-ban foglaltaktól eltérően – az előhaszonbérletre jogosult(ak), vagy a haszonbérleti szerződés szerinti haszonbérlő birtokában föld(ek)nek csak az 5. § 17. pontjában meghatározott művelési ágban nyilvántartott területét lehet figyelembe venni.
+
+54. § (1) Ha a mezőgazdasági igazgatási szerv a vizsgálata alapján több, azonos ranghelyen álló előhaszonbérletre jogosult javára hozhatna jóváhagyó döntést, akkor ezen előhaszonbérletre jogosultak közül a haszonbérbeadó, illetve a (3) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv választása szerinti jogosultat jelöli ki arra, hogy a haszonbérleti szerződés szerinti haszonbérlő helyébe lépjen.
+
+(2) Az (1) bekezdésben meghatározott esetben – a jegyző által megküldött okiratok beérkezése napját követő naptól számított 30 napon belül – a mezőgazdasági igazgatási szerv a haszonbérbeadót – a (3) bekezdésben foglalt következményekre való figyelemfelhívással egyidejűleg – 15 napos határidővel felhívja a választási jogának gyakorlására. A haszonbérbeadónak teljes bizonyító erejű magánokiratba kell foglalnia a nyilatkozatát arról, hogy a több, azonos ranghelyen álló előhaszonbérletre jogosultak közül melyik jogosulttal kíván szerződni.
+
+(3) Ha a haszonbérbeadó a (2) bekezdésben meghatározott határidőn belül nem nyilatkozik, és e határidőn belül a határidő – legfeljebb 15 nappal történő – meghosszabbítását sem kéri, a több, azonos ranghelyen álló előhaszonbérletre jogosultak közül – a (2) bekezdésben meghatározott határidő lejártát követő naptól számított 5 napon belül – a mezőgazdasági igazgatási szerv jelöli ki azt az előhaszonbérletre jogosultat, aki vagy amely a haszonbérlő helyébe lép.
+
+55. § (1) Ha az 53. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv jóváhagyja a haszonbérleti szerződést a jegyzék szerinti sorrend alapján első helyen álló vagy az 54. § szerint kijelölt előhaszonbérletre jogosulttal, akkor a haszonbérleti szerződés szerinti haszonbérlő helyébe az előhaszonbérletre jogosult lép be. A jóváhagyásról a mezőgazdasági igazgatási szerv – a jegyző által megküldött okiratok beérkezése napját követő naptól számított 60 napon belül – önálló határozatot hoz, és ezzel egyidejűleg a haszonbérleti szerződést záradékkal látja el. A haszonbérleti szerződést jóváhagyó záradéknak tartalmaznia kell:
+
+- a) azt a tényt, hogy a haszonbérleti szerződés szerinti haszonbérlő helyébe az előhaszonbérletre jogosult lép;
+- b) az a) pont szerinti előhaszonbérletre jogosult természetes személyazonosító adatait és az állampolgárságát;
+- c) a jóváhagyásról szóló határozat számát;
+- d) a mezőgazdasági igazgatási szerv részéről a jogosult aláírását;
+- e) a záradékolás dátumát és a mezőgazdasági igazgatási szerv bélyegzőjét.
+
+(2) Ha az 53. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv a haszonbérbeadó és a haszonbérlő között létrejött haszonbérleti szerződést az 51. § (4) bekezdésének a) vagy b) pontjában foglalt esetek fennállása alapján jóváhagyja, az (1) bekezdésben meghatározottak szerint jár el, azzal, hogy záradék nem tartalmazza az (1) bekezdés a) és b) pontjában foglaltakat.
+
+(3) Ha a mezőgazdasági igazgatási szerv az 53. §-ban foglaltak alapján a haszonbérleti szerződés jóváhagyását megtagadja, erről a jegyző által megküldött okiratok beérkezése napját követő naptól számított 60 napon belül döntést hoz.
+
+(4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli a haszonbérbeadóval, a haszonbérleti szerződés szerinti haszonbérlővel, valamint azokkal az előhaszonbérletre jogosultakkal, akik a haszonbérleti szerződésre elfogadó jognyilatkozatot tettek.
+
+(5) A mezőgazdasági igazgatási szerv döntésével szemben jogorvoslatként csak a döntés bírósági felülvizsgálata kezdeményezhető.
 
 #### 15. Hatósági jóváhagyása a haszonbérleti szerződésnek nem minősülő földhasználati szerződésnek, a haszonbérleti szerződés módosításának, valamint az olyan haszonbérleti szerződésnek, melynek létestése során nem áll fenn előhaszonbérleti jog
 
-#### 56–58. §
+56. § (1) A hatósági jóváhagyáshoz kötött, haszonbérletnek nem minősülő földhasználati szerződés esetén az 52–55. §-ban foglaltakat a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) A földhasználati szerződést – annak aláírásától számított 8 napon belül – a földhasználati jogosultságot szerző félnek a mezőgazdasági igazgatási szerv részére kell megküldeni jóváhagyás céljából.
+
+(3) A földhasználati szerződés jóváhagyása, illetve megtagadása során figyelmen kívül kell hagyni az előhaszonbérleti jogról, az előhaszonbérletre jogosultakról, az előhaszonbérletre jogosult elfogadó jognyilatkozatáról, a jegyzékről, a tulajdonos választási jogáról, és az ezzel összefüggő, a mezőgazdasági igazgatási szerv általi kijelöléséről szóló rendelkezéseket.
+
+(4) Több föld használatának valamely földhasználati jogcímen történő átengedéséről szóló szerződést akkor lehet jóváhagyni, ha azok egymással szomszédosak, vagy egy mezőgazdasági üzemközponthoz tartoznak.
+
+57. § Ebben az alcímben foglaltakat kell alkalmazni az olyan haszonbérleti szerződés esetben is, melynek létesítése során előhaszonbérleti jog nem áll fenn.
+
+58. § (1) A haszonbérleti szerződés módosítása esetén ebben az alcímben foglaltakat akkor kell alkalmazni, ha a módosítással a szerződés időtartama kerül meghosszabbításra, illetve ha a módosítás a haszonbér mértékének a csökkentésére irányul. A szerződés meghosszabbított időtartama nem lépheti túl a 44. §-ban meghatározott maximális időtartamot.
+
+(2) A haszonbérleti szerződésnek az (1) bekezdésben meghatározott tartalmú módosításáról szóló szerződést, vagy a módosításokkal egységes szerkezetbe foglalt haszonbérleti szerződést (a továbbiakban együtt: módosított szerződés) – annak aláírásától számított 8 napon belül – a haszonbérlőnek kell a mezőgazdasági igazgatási szerv részére megküldeni jóváhagyás céljából.
+
+(3) A mezőgazdasági igazgatási szerv a módosított szerződés jóváhagyásáról, vagy annak megtagadásáról – a módosított szerződés beérkezésétől számított – 30 napon belül határoz.
+
+(4) Ha a mezőgazdasági igazgatási szerv a (3) bekezdésben meghatározott határidőn belül nem dönt, illetve a határidő meghosszabbításáról a szerződő feleket nem értesíti, módosított szerződés jóváhagyását a (3) bekezdésben meghatározott határidő lejártát követő napon jóváhagyottnak kell tekinteni. Ez esetben a haszonbérlő kérelmére a módosított szerződést a mezőgazdasági igazgatási szerv az 55. § (2) bekezdése szerinti záradékkal köteles ellátni.
+
+(5) Ha a mezőgazdasági igazgatási szerv a (3) bekezdésben meghatározott határidőn belül megtagadja a módosított szerződés jóváhagyását, az erről szóló döntésében rendelkezik arról, hogy a feleknek a módosított szerződés jóváhagyása érdekében mely határnapig, milyen rendelkezéseket, mely jogszabályi előírás alapján kell megváltoztatniuk. Az e bekezdés szerinti döntésnek figyelmeztetést kell tartalmaznia arra vonatkozóan, hogy a határidő eredménytelen lejárta esetén a haszonbérleti szerződés a szerződő felek között létrejött eredeti szerződés szerinti tartalommal marad fenn.
 
 #### 16. Hatósági jóváhagyáshoz nem kötött földhasználati szerződések
 
-#### 59. §
+59. § (1) Nem kell a mezőgazdasági igazgatási szerv jóváhagyása
+
+- a) az állam, illetve az önkormányzat tulajdonában álló föld földhasználati jogosultságának az átengedéséhez;
+- b) a tulajdonostársak közötti használati megosztáshoz;
+- c) ha a földműves földhasználó közeli hozzátartozója a használatba adó;
+- d) a föld használati jogosultságának jogszabályban foglalt módon, támogatás feltételeként más földműves vagy mezőgazdasági termelőszervezet részére való átadásával megvalósuló földhasználati szerződéshez;
+- e) a mezőgazdasági termelőszervezet, mint földhasználó, és az annak legalább 25%-ban tulajdonostagja, illetve annak közeli hozzátartozója, továbbá legalább 3 éve foglalkoztatott alkalmazottja, mint használatba adó közötti földhasználati szerződéshez;
+- f) a 40. § (2)–(4) bekezdésben meghatározott földhasználati szerződéshez;
+- g) tanya földhasználati jogosultságának az átengedéséhez.
+
+(2) A mezőgazdasági igazgatási szerv kérelemre igazolást állít ki arról, hogy a földhasználati jogosultság megszerzéséről szóló szerződés hatályosságához az e törvény előírásai alapján nem kell a jóváhagyása.
 
 ### V. Fejezet — A SZERZÉSI KORLÁTOZÁSOK HATÓSÁGI ELLENŐRZÉSE ÉS A KÉNYSZERHASZNOSÍTÁS
 
-#### 60–67. §
+60. § (1) Semmis a föld tulajdonjogának, illetve a földhasználati jogosultság megszerzésére irányuló olyan szerződés, amely az e törvénnyel megállapított szerzési korlátozásba, tilalomba ütközik.
+
+(2) A föld tulajdonjogának, illetve a földhasználati jogosultság megszerzésére irányuló szerződés vagy szerződési kikötés semmisségének megállapítása iránt az ügyész pert indíthat.
+
+(3) A föld tulajdonjogának, illetve a földhasználati jogosultság megszerzésére irányuló szerződés vagy szerződési kikötés semmissége esetén az egész szerződés érvénytelen. Ezt a szabályt akkor is alkalmazni kell, ha a felek az említett szerződéssel vagy szerződési kikötéssel a tulajdonjog, illetve a földhasználati jogosultság megszerzésének hatályát kötötték valamely feltétel, illetve jövőbeli időpont bekövetkezéséhez vagy egyikük, illetve harmadik személy jognyilatkozatához.
+
+61. § Ha hatósági jóváhagyáshoz nem kötött szerződés alapján kérik a tulajdonjognak az ingatlan-nyilvántartásba való bejegyzését, illetve a földhasználatnak a földhasználati nyilvántartásba vagy az erdőgazdálkodói nyilvántartásba vételét, és a szerződés az e törvény szerinti szerzési korlátozásokba, tilalomba ütközik, az ingatlanügyi hatóság, illetve az erdészeti hatóság az okirat nyilvánvaló érvénytelensége esetére irányadó szabályok szerint jár el.
+
+62. § (1) Az e törvényben meghatározott szerzési feltételek, illetve korlátozások, és tilalmak betartását a mezőgazdasági igazgatási szerv ellenőrzi.
+
+(2) Ha a mezőgazdasági igazgatási szerv az ellenőrzése során a rendelkezésére álló adatok, bizonyítékok, és az összes körülmény alapos mérlegelése alapján megállapítja, hogy a tulajdonos, illetve a földhasználó
+
+- a) nem tartotta be a szerzéshez vállalt, a 13. §-ban, a 15. §-ban, illetve a 42. §-ban előírt kötelezettségeket,
+- b) a szerzés feltételeként az e törvényben előírt meghatározott célú fölhasználattól, tevékenységtől tartósan eltért,
+- c) földműves, illetve mezőgazdasági termelőszervezeti minősége bármely okból megszűnt,
+- d) jogszerű és folyamatos Magyarországon való tartózkodása, illetve székhelye, telephelye, mezőgazdasági üzemközpontja bármely okból megszűnt, vagy
+- e) az e törvényben meghatározott határidőn belül a hatósági jóváhagyáshoz kötött szerződést nem nyújtotta be a hatósághoz, vagy – adás-vétel, illetve a haszonbérlet esetén az elővásárlási, illetve előhaszonbérleti jog gyakorlása céljából a 21. § (1) bekezdésében vagy a 49. § (1) bekezdésében meghatározottak szerint – a jegyzőhöz felhívja a figyelmét a jogszabálysértésre, és határidő megállapításával írásban felszólítja a jogszerű állapot helyreállítására.
+
+(3) Nem állapítható meg a (2) bekezdés a) és b) pontjában foglalt jogsértés, ha a föld kisajátítást pótló adás-vételre kerül sor, vagy a tulajdonos egészségi állapota oly mértékben megromlott, vagy az életkörülményeiben olyan tartós változás következett be, amely az e törvényből eredő kötelezettségeinek teljesítését akadályozza.
+
+(4) A mezőgazdasági igazgatási szerv a (2) és (3) bekezdésben foglaltak szerint jár el akkor is, ha megállapítja, hogy a szerződés jóváhagyásának megtagadása esetén a tulajdonjogot átruházó, vagy a használatba adó személy a 13. § (1) és (2) bekezdésében foglaltaknak megfelelően a föld használatáról, hasznosításáról nem gondoskodik.
+
+63. § (1) Ha a 62. § (2) és (4) bekezdésében meghatározott személy (ezen alcímben a továbbiakban együtt: kötelezett) határidőben nem tesz eleget a 62. § (2) bekezdésében foglalt felszólításnak, a mezőgazdasági igazgatási szerv a kötelezettel szemben a (2) bekezdésben megállapított mértékű mulasztási bírságot szab ki. A bírság megfizetése alól felmentés nem adható, illetve fizetési kedvezmény nem nyújtható. A határidőre meg nem fizetett bírság adók módjára behajtandó köztartozás.
+
+(2) A bírság a föld szerzéskori aranykorona-értéke húszezerszeres szorzatának megfelelő forintösszeg.
+
+(3) A bírság ismételten kiszabható mindaddig, amíg a jogsértő állapot fennáll.
+
+64. § (1) Ha a 63. §-ban foglalt bírság kiszabása ellenére a kötelezett 6 hónap elteltével sem állítja helyre a jogszerű állapotot, a mezőgazdasági igazgatási szerv – az erdőnek minősülő föld kivételével – a 65. §-ban meghatározottak szerint intézkedik a föld kényszerhasznosításba adásáról.
+
+(2) Az (1) bekezdésében megállapított időtartam kezdetét attól a naptól kell számítani, amely napon a kötelezettel szemben a kényszerhasznosítás elrendeléséről szóló határozat jogerőre emelkedett.
+
+(3) A föld kényszerhasznosításba adásáról szóló intézkedés megtételének nem akadálya az, hogy a kötelezett a bírságfizetési kötelezettségének egyébként eleget tett, feltéve, hogy az (1) bekezdésben meghatározott feltételek fennállnak.
+
+65. § (1) A mezőgazdasági igazgatási szerv az erdőnek nem minősülő föld kényszerhasznosítását határozattal rendeli el. A határozatban rendelkezni kell
+
+- a) a kényszerhasznosítás elvégzésére – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározottak szerint – kijelölt személy vagy szervezet megnevezéséről,
+- b) a kényszerhasznosításnak a (2) bekezdésben foglaltak szerint megállapított időtartamáról,
+- c) a 66. §-ban meghatározottakra figyelemmel a kényszerhasznosítás módjáról, és
+- d) arról, hogy a kényszerhasznosítással
+
+ténylegesen és igazoltan felmerülő költségek megtérítése a kötelezettet terhelik.
+
+(2) A kényszerhasznosítás időtartama a jogsértő állapot fennállásáig, de legalább a gazdasági év végéig, legfeljebb a következő gazdasági év végéig tart.
+
+66. § (1) A mezőgazdasági igazgatási szerv által kényszerhasznosítás elvégzésére kijelölt személy vagy szervezet köteles
+
+- a) a szőlő és gyümölcsös művelési ágban nyilvántartott földet – a művelési ágának megfelelő – termeléssel hasznosítani;
+- b) az a) pont alá nem tartozó művelési ágban nyilvántartott
+  - ba) földet az ingatlan-nyilvántartás szerinti művelési ágának megfelelően hasznosítani, vagy
+  - bb) földön a gyomnövények megtelepedését és terjedését megakadályozni.
+
+(2) Az (1) bekezdés b) pont bb) alpontban meghatározott esetben a hasznosítást célirányosan, költségtakarékosan, hatékonyan és a lehető legkisebb környezeti károsodással járó eljárással kell elvégezni.
+
+67. § (1) A kényszerhasznosítás a tulajdonjogot nem érinti. Ha a 62. § (2) bekezdése szerinti jogsértést a földhasználó követte el, a kényszerhasznosító a jogviszonyban a földhasználó helyébe lép.
+
+(2) A kényszerhasznosítást végző személy vagy szervezet a föld használatáért, hasznosításáért ellenszolgáltatással nem tartozik a föld tulajdonosa felé, ha a tulajdonos követte el a 62. § (2) bekezdése szerinti jogsértést.
+
+(3) A kényszerhasznosítást végző személy vagy szervezet minden év október 31-ig – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározottak szerint – a bevételeiről, és kiadásairól elszámolást készít a mezőgazdasági igazgatási szerv részére.
 
 ### VI. Fejezet — A HELYI FÖLDBIZOTTSÁG
 

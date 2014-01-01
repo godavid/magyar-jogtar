@@ -107,11 +107,19 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (3) Tilos tizennyolcadik életévét be nem töltött személy részére dohányterméket értékesíteni, illetve kiszolgálni.
 
-(4) Az e §-ban meghatározott korlátozás érvényesítése érdekében a vállalkozás vagy annak képviselője kétség esetén felhívja a fogyasztót életkorának hitelt érdemlő igazolására. Az életkor megfelelő igazolásának hiányában a termék értékesítését, illetve kiszolgálását meg kell tagadni.
+(4) Az (1)–(3) bekezdésben meghatározott korlátozás érvényesítése érdekében a vállalkozás vagy annak képviselője kétség esetén felhívja a fogyasztót életkorának hitelt érdemlő igazolására. Az életkor megfelelő igazolásának hiányában a termék értékesítését, illetve kiszolgálását meg kell tagadni.
+
+(5) A játékszoftver gyártója az olyan játékszoftver forgalmazása esetén, amely alkalmas a kiskorúak fizikai, szellemi, lelki vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, köteles a „Tizennyolc éven aluliak számára nem ajánlott!” szöveget a játékszoftver csomagolásán jól észlelhető módon feltüntetni. A kötelezettséget az internetes lehívásra közzététel útján forgalmazott játékszoftver esetén a technikai sajátosságoknak megfelelő eltéréssel, a játékszoftver lehívása előtt kell teljesíteni.
+
+(6) A játékszoftver gyártója abban az esetben köteles az (5) bekezdésben foglalt kötelezettségnek eleget tenni, ha előzőleg nem csatlakozott az Egységes Európai Játékinformációs Rendszerhez (Pan European Game Information – PEGI) és nem alkalmazza a PEGI által megállapított, korhatár-besorolásra vonatkozó előírásokat. Ha az (5) bekezdés szerinti kötelezettséget – az e bekezdésben foglalt kivétellel – a gyártó nem teljesíti, a játékszoftver forgalmazója a szoftvert az (5) bekezdésben meghatározott szöveg feltüntetésével hozhatja forgalomba.
 
 ### IV/B. Fejezet — FOGYASZTÓI CSOPORT SZERVEZÉSÉNEK TILALMA
 
-16/B. § Fogyasztói csoport 2014. január 1-jéig nem hozható létre.
+16/B. § (1) Tilos fogyasztói csoportot létrehozni.
+
+(2) Az (1) bekezdésben foglalt tilalom megsértésével vagy megkerülésével kötött szerződés semmis.
+
+(3) Tilos fogyasztói csoportba fogyasztókat nyilvános felhívás útján gyűjteni. A 2012. január 1-je előtt létrehozott fogyasztói csoportba új fogyasztó kizárólag a – szerződés felmondással történő megszüntetése következtében – kieső fogyasztó helyére vehető fel.
 
 ### V. Fejezet — A fogyasztók oktatása
 
@@ -643,6 +651,8 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
+(5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 90 nap.
+
 47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
 
 - a) elrendelheti a jogsértő állapot megszüntetését,
@@ -851,7 +861,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (6) és (8) bekezdése, a 39. § (2) és (3) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d)
 - e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
-- f)–h)
+- f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése]. g–h)
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
@@ -860,3 +870,5 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.].
 
 (3)
+
+58. § A 16/B. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.

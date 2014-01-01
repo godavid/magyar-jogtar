@@ -321,6 +321,8 @@ tevékenységet folytathat.
 
 (3) A beszámoló formáját a civil szervezet által folytatott tevékenység, az éves összes bevétel (az alapcél szerinti tevékenység és a gazdasági-vállalkozási tevékenység összes bevételének) nagysága, valamint a könyvvezetés módja határozza meg.
 
+(4) Civil szervezet jogi személyiséggel rendelkező szervezeti egysége a civil szervezetre vonatkozó szabályok szerinti beszámolót készít, amelyet a 30. § (1) bekezdése szerint letétbe helyez.
+
 29. § (1) A civil szervezet könyvvezetése – a beszámolási kötelezettség függvényében – az egyszeres vagy a kettős könyvvitel rendszerében, magyar nyelven, forintban történhet.
 
 (2) A civil szervezet beszámolója tartalmazza:
@@ -337,7 +339,7 @@ tevékenységet folytathat.
 
 (6) A közhasznúsági mellékletben be kell mutatni a szervezet által végzett közhasznú tevékenységeket, ezen tevékenységek fő célcsoportjait és eredményeit, valamint a közhasznú jogállás megállapításához szükséges 32. § szerinti adatokat, mutatókat.
 
-(7) A közhasznúsági melléklet tartalmazza a vagyon felhasználásával kapcsolatos kimutatást, a közhasznú cél szerinti juttatások kimutatását, a vezető tisztségviselőinek nyújtott juttatások összegét és a juttatásban részesülő vezető tisztségek felsorolását.
+(7) A közhasznúsági melléklet tartalmazza a közhasznú cél szerinti juttatások kimutatását, a vezető tisztségviselőknek nyújtott juttatások összegét és a juttatásban részesülő vezető tisztségek felsorolását.
 
 30. § (1) A civil szervezet köteles a jóváhagyásra jogosult testület által elfogadott beszámolóját, valamint közhasznúsági mellékletét – kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt – az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig letétbe helyezni és közzétenni, kötelező könyvvizsgálat esetén ugyanolyan formában és tartalommal, mint amelynek alapján a könyvvizsgáló a beszámolót felülvizsgálta.
 
@@ -483,7 +485,7 @@ vonatkozó szabályokat.
 
 45. § A befektetési tevékenységet végző közhasznú szervezetnek befektetési szabályzatot kell készítenie, amelyet a legfőbb szerv – ha ilyet létrehoztak – a felügyelő szerv véleményének kikérését követően fogad el.
 
-46. § (1) A közhasznú szervezet köteles a beszámoló jóváhagyásával egyidejűleg közhasznúsági mellékletet készíteni, amelyet a beszámolóval azonos módon köteles letétbe helyezni és közzétenni.
+46. § (1) A közhasznú szervezet, valamint közhasznú szervezet jogi személyiséggel rendelkező szervezeti egysége köteles a beszámoló jóváhagyásával egyidejűleg közhasznúsági mellékletet készíteni, amelyet a beszámolóval azonos módon köteles jóváhagyni, letétbe helyezni és közzétenni.
 
 (2) A közhasznú szervezet beszámolójába, közhasznúsági mellékletébe bárki betekinthet, és abból saját költségére másolatot készíthet.
 
@@ -636,7 +638,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (4) Az (1) bekezdés c) pontja szerinti támogatás magyarországi és határon túli civil szervezet számára együttesen is nyújtható.
 
-57. § (1) Az Alap terhére csak visszatérítendő működési támogatás nyújtható azon közhasznú jogállású civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket.
+57. § (1) Az Alap terhére csak az 56. § (1) bekezdés b) vagy h) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti támogatás csak visszatérítendő formában nyújtható.
 
 (2) A visszatérítési kötelezettség alá eső költségvetési támogatás az Art. szerinti adók módjára behajtandó köztartozásnak minősül.
 
@@ -732,7 +734,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 #### 21. Az Alap működése
 
-64. § Az Alapot a miniszter felügyelete vagy irányítása alá tartozó, miniszteri rendeletben kijelölt önálló központi költségvetési szerv (a továbbiakban: Alapkezelő) kezeli. Az Alapkezelő felel a kollégiumi döntések előkészítésének és végrehajtásának törvényességéért.
+64. § Az Alapot a miniszter felügyelete vagy irányítása alá tartozó, miniszteri rendeletben kijelölt központi költségvetési szerv (a továbbiakban: Alapkezelő) kezeli. Az Alapkezelő felel a kollégiumi döntések előkészítésének és végrehajtásának törvényességéért.
 
 65. § (1) A Tanács és a kollégiumok tagjait – a kijelölésüket, illetve megválasztásukat követő harminc napon belül – a miniszter bízza meg. A Tanács és a kollégiumok tagjainak megbízatása négy évre szól.
 

@@ -968,7 +968,7 @@ szűnik meg és a munkavállaló a beosztás szerinti munkaidőre járó munkab�
 
 96. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg.
 
-(2) Kötetlen a munkarend, ha a munkáltató heti átlagban legalább a napi munkaidő fele beosztásának jogát – a munkakör sajátos jellegére, a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedi.
+(2) A munkáltató a munkaidő beosztásának jogát – a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedheti (kötetlen munkarend). A munkarend kötetlen jellegét nem érinti, ha a munkavállaló a munkaköri feladatok egy részét sajátos jellegüknél fogva meghatározott időpontban vagy időszakban teljesítheti.
 
 (3) Kötetlen munkarend esetén
 
@@ -1291,7 +1291,7 @@ munkanap pótszabadság jár.
 - b) a munkavállaló már megkezdett szabadságát megszakíthatja,
 - c) kollektív szerződés rendelkezése esetén a szabadság egynegyedét legkésőbb az esedékességet követő év március 31-ig adhatja ki.
 
-(6) A munkáltató – a felek megállapodása alapján – a 116–117. §-ban foglaltak szerinti szabadság egyharmadát az esedékesség évét követő év végéig adja ki.
+(6) A munkáltató – a felek naptári évre kötött megállapodása alapján – a 117. § szerinti szabadságot az esedékesség évét követő év végéig adja ki.
 
 (7) A munkavállalónak a kiadás időpontjának módosításával vagy a megszakítással összefüggésben felmerült kárát és költségeit a munkáltató köteles megtéríteni. Az (5) bekezdés b) pontban foglalt esetben a szabadság alatti tartózkodási helyről a munkahelyre és a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be.
 

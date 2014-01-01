@@ -32,6 +32,8 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 (8) A Rendőrségről szóló törvényben felsorolt szabálysértés miatt nem vonható felelősségre a megbízhatósági vizsgálatot folytató személy, ha jogszabályban meghatározott feladata ellátása során követi el a szabálysértést.
 
+(9) Ugyanazon szabálysértés miatt nem büntethető, akinek szabálysértési ügyét a szabálysértési hatóság vagy a bíróság közvetítői eljárásra utalta és a közvetítői eljárás eredményes volt.
+
 #### 3. A szabálysértést meghatározó jogszabály hatálya
 
 3. § (1) A szabálysértést meghatározó jogszabályt – a (2) bekezdésben meghatározott kivétellel – a belföldön elkövetett szabálysértésre kell alkalmazni.
@@ -447,7 +449,7 @@ jelöli ki.
 
 (4) Ha a szabálysértési eljárásban több eljárás alá vont személy van, velük szemben rendszerint egy eljárást kell folytatni.
 
-(5) Az egyesítést mellőzni lehet, illetve az ügyeket el lehet különíteni, ha a szabálysértések együttes elbírálása a felelősségre vonást jelentősen késleltetné.
+(5) Az egyesítést mellőzni lehet, illetve az ügyeket el lehet különíteni, ha a szabálysértések együttes elbírálása a felelősségre vonást jelentősen késleltetné, vagy az eljárás alá vont személlyel szemben folyamatban lévő ügyet közvetítői eljárás lefolytatása céljából már felfüggesztették, továbbá az ügyeket el kell különíteni a 82/B. § (3) bekezdésben foglalt esetben.
 
 (6) Az ügyek egyesítését, illetve elkülönítését fel kell jegyezni az érintett ügyek irataiba.
 
@@ -465,7 +467,8 @@ jelöli ki.
 
 - a) aki az ügyben, mint eljárás alá vont személy vagy az eljárás alá vont személy képviselője, továbbá mint sértett, feljelentő vagy mint ezek képviselője vesz vagy vett részt, valamint a felsoroltak hozzátartozója;
 - b) aki az ügyben, mint tanú vagy szakértő vesz vagy vett részt;
-- c) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
+- c) akitől az ügy elfogulatlan megítélése egyéb okból nem várható;
+- d) aki az ügyben közvetítőként jár vagy járt el.
 
 (2) Nem kizárási ok, ha a szabálysértési hatóság tagja a hivatali hatáskörében tudomására jutott szabálysértés miatt tesz feljelentést.
 
@@ -669,9 +672,34 @@ jelöli ki.
 
 (2) Ha a meghallgatandó személy hallássérült, siketvak, kérésére jelnyelvi tolmács közreműködésével kell meghallgatni. Ha a meghallgatandó személy beszédfogyatékos, kérésére a meghallgatás helyett írásban tehet nyilatkozatot.
 
-(3) A tolmácsra e törvénynek a szakértőre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a külön jogszabályban meghatározott feltételeknek megfelelő személy vehető igénybe tolmácsként; ha ez nem lehetséges, a kellő nyelvismerettel rendelkező más személy (eseti tolmács) is kirendelhető. Tolmácson a szakfordítót is érteni kell.
+(3) Az e §-ban nem szabályozott kérdésekben a tolmácsra e törvénynek a szakértőre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a külön jogszabályban meghatározott feltételeknek megfelelő személy vehető igénybe tolmácsként; ha ez nem lehetséges, a kellő nyelvismerettel rendelkező más személy (eseti tolmács) is kirendelhető. Tolmácson – az (5) bekezdés kivételével – a szakfordítót is érteni kell.
 
 (4) A tolmács díját és költségeit az állam viseli.
+
+(5) Ha a bírósági eljárásban, illetve a rendőrség 117. § szerinti előkészítő eljárásában kirendelt tolmács fordításának minősége sérti az eljárás alá vont személy jogát vagy jogos érdekét, a bíróság hivatalból, vagy az eljárás alá vont személynek vagy képviselőjének a tárgyaláson előterjesztett kérelmére, a rendőrség pedig hivatalból, vagy az eljárás alá vont személynek vagy képviselőjének az eljárási cselekményen előterjesztett kérelmére másik tolmácsot rendelhet ki.
+
+(6) Ha a bírósági eljárásban, illetve a rendőrség 117. § szerinti előkészítő eljárásában kirendelt szakfordító fordításának minősége sérti az eljárás alá vont személy jogát vagy jogos érdekét, a bíróság hivatalból, vagy az eljárás alá vont személynek vagy képviselőjének a lefordított irat kézhezvételét követő nyolc napon belül, a 125–126. §-ban foglalt bírósági eljárásban a tárgyaláson előterjesztett kérelmére, a rendőrség pedig hivatalból, vagy az eljárás alá vont személynek vagy képviselőjének a lefordított irat kézhezvételét követően azonnal előterjesztett kérelmére másik szakfordítót rendelhet ki.
+
+(7) A bíróság lehetőség szerint tizenöt napon belül beszerzi az ügy szempontjából lényeges iratoknak az eljárás alá vont személy által használt nyelvre történő fordítását. A rendőrség a 117. § szerinti előkészítő eljárásában a (10) bekezdés a), b) és f) pontjában meghatározott, a rendőrség eljárása során keletkezett lényeges iratok fordítását az irat keletkezését követően lehetőség szerint haladéktalanul beszerzi.
+
+(8) Az eljárás alá vont személy az iratok lefordításához való jogáról az eljárás során bármikor írásban, vagy a tárgyaláson, illetve a rendőrség 117. § szerinti előkészítő eljárásában foganatosított eljárási cselekményen szóban, önkéntes, kifejezett nyilatkozatával lemondhat. Az eljárás alá vont személyt a lemondás következményeiről az első tárgyaláson, illetve eljárási cselekményen előzetesen tájékoztatni kell. A tájékoztatás elmulasztása esetén a lemondó nyilatkozatot nem lehet érvényesnek tekinteni.
+
+(9) Ha az eljárás alá vont személy a (8) bekezdés szerinti lemondás jogával él, a lemondó nyilatkozat az eljárás során bármikor – írásban vagy szóban – visszavonható. A visszavonásról szóló nyilatkozatot megelőző eljárási cselekményeket nem kell megismételni, azonban az eljárás alá vont személy kérheti a visszavonást megelőzően keletkezett lényeges iratok lefordítását.
+
+(10) A (7) bekezdés vonatkozásában lényeges irat:
+
+- a) az eljárás alá vont személy őrizetbe vételével kapcsolatban keletkezett valamennyi irat,
+- b) a feljelentés,
+- c) az eljárás során hozott érdemi döntés,
+- d) az eljárás alá vont személy terhére bejelentett fellebbezés,
+- e) az ügyész által benyújtott perújítási kérelem, továbbá
+- f) mindaz, amelyet a tisztességes eljáráshoz és a védekezéshez való jog szempontjából a bíróság, a rendőrség hivatalból vagy az eljárás alá vont személy, továbbá a képviselője indokolt kérelme alapján az ügyben lényegesnek tekint.
+
+(11) A bíróság, illetve a rendőrség a 117. § szerinti előkészítő eljárásában elrendelheti a lényeges iratok szóban történő lefordítását vagy szóbeli összefoglalását, ha ahhoz az eljárás alá vont személy írásban, vagy a tárgyaláson, illetve a rendőrség 117. § szerinti előkészítő eljárásában foganatosított eljárási cselekményen szóban hozzájárult.
+
+(12) A bíróság, illetve a rendőrség a 117. § szerinti előkészítő eljárásában – ha az ahhoz szükséges eszközök rendelkezésre állnak – a tolmácsolást videokonferencia, telefon vagy internet alkalmazásával is biztosíthatja, ha a tolmács fizikai jelenléte nem indokolt vagy akadályba ütközik.
+
+(13) Az e § rendelkezéseinek alkalmazása során a másik tolmács kirendelését, valamint a lényeges irat lefordítása iránti kérelmet részben vagy egészben elutasító döntés a fellebbezésre tekintet nélkül végrehajtható.
 
 #### 55. A tárgyi bizonyítási eszköz
 
@@ -857,13 +885,160 @@ jelöli ki.
 82. § (1) A szabálysértési eljárást – határozatban – fel kell függeszteni, ha
 
 - a) az ügy érdemi elbírálása olyan előzetes kérdés eldöntésétől függ, amelyben a döntés más szerv hatáskörébe tartozik,
-- b) az eljárás alá vont személy ismeretlen helyen vagy külföldön tartózkodik és távollétében az ügy érdemi elbírálása nem lehetséges.
+- b) az eljárás alá vont személy ismeretlen helyen vagy külföldön tartózkodik és távollétében az ügy érdemi elbírálása nem lehetséges,
+- c) a szabálysértési hatóság vagy a bíróság az ügyet közvetítői eljárásra utalja.
 
 (2) A bíróság az eljárást hivatalból vagy indítványra felfüggeszti és az Alkotmánybíróság eljárását kezdeményezi, ha az ügy elbírálása során olyan jogszabályt vagy közjogi szervezetszabályozó eszközt, illetve jogegységi határozatot kell alkalmazni, amelynek alaptörvény-ellenességét vagy nemzetközi szerződésbe ütközését észleli.
 
 (3) Ha az eljárás felfüggesztését követően az eljárás alá vont személy lakó-, illetve tartózkodási helye ismertté válik, az elévülési időn belül az eljárás folytatásának van helye.
 
+(3a) A szabálysértési hatóság vagy a bíróság az (1) bekezdés c) pontja alapján elrendelt felfüggesztés időtartamát legfeljebb 30 nappal meghosszabbítja, ha annak szükségességéről a közvetítő a 82/H. § (6) bekezdése szerint értesítette.
+
+(3b) Ha az eljárásnak az (1) bekezdés c) pontja alapján elrendelt felfüggesztése során a közvetítő a közvetítői eljárás eredménytelen lezárásáról tájékoztatja a szabálysértési hatóságot vagy a bíróságot, az eljárást folytatni kell.
+
 (4) Az eljárás felfüggesztésének ideje az elévülés tartamába nem számít be, azonban a cselekmény elkövetésétől számított két év elteltével a rendelkezésre álló adatok alapján be kell fejezni az eljárást.
+
+#### 67/A. A közvetítői eljárás általános szabályai
+
+82/A. § (1) A közvetítői eljárás célja, hogy a szabálysértés következményeinek jóvátételét és az eljárás alá vont személy jövőbeni jogkövető magatartását elősegítse. A közvetítői eljárásban arra kell törekedni, hogy az eljárás alá vont személy és a sértett között a közvetítői eljárás céljának elérését elősegítő megállapodás jöjjön létre.
+
+(2) Az ügy közvetítői eljárásra utalásának a szabálysértési eljárás alatt egy alkalommal van helye. Nem akadálya az ügy közvetítői eljárásra utalásának, ha az eljárás alá vont személy a szabálysértéssel okozott kárt részben vagy egészben már önként megtérítette.
+
+(3) Ha a szabálysértési hatóság vagy a bíróság az elsőfokú érdemi döntés meghozataláig a (4) bekezdés a) és c) pontjában foglalt feltételek fennállását megállapítja és az eljárás más okból történő felfüggesztésének vagy megszüntetésének nincs helye, továbbá a közvetítői eljárást kizáró ok nem áll fenn, haladéktalanul, 8 napos határidő tűzése mellett nyilatkozattételre hívja fel az eljárás alá vont személyt és a sértettet, feltéve, hogy a nyilatkozatok nem állnak rendelkezésre. A felhívásban tájékoztatást ad a közvetítői eljárás lehetőségéről, annak szabályairól és feltételeiről, a lehetséges költségekről.
+
+(4) A szabálysértési hatóság vagy a bíróság az eljárás alá vont személy vagy a sértett indítványára a szabálysértési elzárással is büntethető szabálysértés, valamint a fiatalkorú által elkövetett szabálysértés miatt indult eljárást legfeljebb 30 napi időtartamra felfüggeszti és az ügyet közvetítői eljárásra utalja, ha
+
+- a) az eljárás alá vont személy a szabálysértés elkövetéséért való felelősségét elismerte, valamint vállalja a szabálysértéssel okozott sérelmet a sértett által elfogadott módon és mértékben jóvátenni,
+- b) az eljárás alá vont személy és a sértett is hozzájárult a közvetítői eljárás lefolytatásához, és
+- c) a szabálysértés jellegére, az elkövetés módjára és az eljárás alá vont személyre tekintettel a szabálysértési eljárás lefolytatása mellőzhető.
+
+(5) Nem alkalmazható a közvetítői eljárás olyan eljárás alá vont személy ügyében, aki ellen korábban szabálysértési eljárás indult, az annak során alkalmazott közvetítői eljárás eredményes volt, és az eredményes közvetítői eljárás befejezésének időpontja óta egy év még nem telt el.
+
+82/B. § (1) Ha a szabálysértési elzárással is büntethető szabálysértéssel halmazatban az eljárás alá vont személy más szabálysértést is elkövetett, a közvetítői eljárás akkor alkalmazható, ha az elkövetésben a szabálysértési elzárással is büntethető szabálysértés a meghatározó.
+
+(2) Ha a szabálysértési elzárással nem büntethető szabálysértés elkövetésében az eljárás alá vont fiatalkorú mellett nagykorú személy is részt vett, valamennyi eljárás alá vont személy ügyében alkalmazható a közvetítői eljárás, kivéve a (3) bekezdésben foglalt esetet.
+
+(3) Ha a fiatalkorú eljárás alá vont személy mellett a szabálysértési elzárással nem büntethető szabálysértés elkövetésében olyan nagykorú személy is részt vett, akivel szemben a közvetítői eljárás kizáró oka áll fenn, a közvetítői eljárásban résztvevő, valamint az abból kizárt eljárás alá vont személyek ügyét el kell különíteni. Ha a fiatalkorúval szemben áll fenn a közvetítői eljárásra vonatkozó kizáró feltétel, az ügyek elkülönítésének és a közvetítői eljárás lefolytatásának nincs helye.
+
+82/C. § (1) A közvetítői eljárás tárgyában hozott valamennyi határozatot a sértettel, a feljelentővel és a magánindítvány előterjesztőjével közölni kell. Az ügy közvetítői eljárásra utalásáról és – eredményes közvetítői eljárást követően – a szabálysértési eljárás megszüntetéséről szóló döntést a szabálysértési hatóság vagy a bíróság kézbesíti a 82/D. § (1) bekezdés szerinti pártfogó felügyelői szolgálat részére is.
+
+(2) Az eljárást felfüggesztő és a közvetítői eljárást elrendelő határozat ellen nincs helye jogorvoslatnak.
+
+#### 67/B. A közvetítő
+
+82/D. § (1) A közvetítői eljárást a szabálysértési hatóság vagy a bíróság székhelye szerint illetékes pártfogó felügyelői szolgálat közvetítői tevékenységet végző pártfogó felügyelője (a továbbiakban: közvetítő) folytatja le.
+
+(2) A közvetítő feladata, hogy a közvetítői eljárás során pártatlanul, lelkiismeretesen, a szakmai követelmények szerint közreműködjön a megállapodás létrehozásában. A közvetítőnek tiszteletben kell tartania az eljárásban résztvevők méltóságát, és arra kell törekednie, hogy a résztvevők egymással szemben is tisztelettel járjanak el.
+
+(3) A szabálysértési hatóság vagy a bíróság a közvetítői eljárásra utalásról szóló döntésének kézbesítésével egyidejűleg a közvetítő rendelkezésére bocsátja az e törvényben meghatározott feladatai ellátásához szükséges iratokat.
+
+(4) A közvetítőt – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli minden olyan tényre, adatra és körülményre vonatkozóan, amelyről közvetítői tevékenységével összefüggésben szerzett tudomást. A közvetítő titoktartási kötelezettsége a közvetítői tevékenység megszűnése után is fennáll.
+
+(5) Közvetítőként nem járhat el
+
+- a) a szabálysértési hatóság és a bíróság tagja,
+- b) a 46. § (1) bekezdés a)–c) pontjában meghatározott személy,
+- c) az a pártfogó felügyelő, aki pártfogó felügyelőként az eljárás alá vont személy vagy a sértett büntetőügyében három éven belül eljárt,
+- d) annak a pártfogó felügyelői szolgálatnak a tagja, amelynek vezetőjével szemben a 46. § (1) bekezdésben meghatározott kizáró ok fennáll.
+
+(6) A közvetítő a vele szemben felmerült kizárási okot köteles a pártfogó felügyelői szolgálat vezetőjének haladéktalanul bejelenteni.
+
+(7) A kizárási okot a sértett, az eljárás alá vont személy, valamint ezek képviselője is bejelentheti és indítványozhatja a közvetítő kizárását. E személyek a 46. § (1) bekezdés c) pontjában szabályozott kizárási okot a közvetítői megbeszélés megkezdése után csak akkor érvényesíthetik, ha valószínűsítik, hogy a bejelentés alapjául szolgáló tényről a megbeszélés megkezdése után szereztek tudomást, és ha azt nyomban bejelentik.
+
+(8) A pártfogó felügyelői szolgálat vezetője a tudomására jutott kizárási ok miatt a közvetítő kizárásáról, és új közvetítő kijelöléséről a tudomásszerzést követően nyomban, hivatalból határoz. A közvetítő kizárásáról a pártfogó felügyelői szolgálat vezetője a kizárásra vonatkozó bejelentés kézhezvételétől számított három munkanapon belül határoz, és szükség esetén új közvetítőt jelöl ki.
+
+(9) A kizárást kimondó határozat ellen jogorvoslatnak nincs helye. A kizárás megtagadása ellen bejelentett jogorvoslatra e törvénynek a panaszra és a fellebbezésre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy mind a panasz, mind a fellebbezés elbírálására a közvetítői eljárást elrendelő szerv jogosult.
+
+(10) A kizárásra vonatkozó bejelentés elintézéséig a közvetítő az ügyben nem járhat el.
+
+#### 67/C. A közvetítői eljárás lefolytatása
+
+82/E. § (1) A közvetítői eljárás
+
+- a) a szabálysértési hatóságnak az eljárás felfüggesztéséről és az ügy közvetítői eljárásra utalásáról szóló határozatával, vagy
+- b) a bíróságnak a szabálysértési eljárást – a közvetítői eljárás lefolytatása érdekében hozott – felfüggesztő végzésével
+
+indul meg.
+
+(2) Az eljárásban a sértett és az eljárás alá vont személy egyenrangú felek, az eljárás során bármikor visszavonhatják a részvételre vonatkozó hozzájárulásukat, és minden egyezségre önként kell jutniuk.
+
+(3) A sértett és az eljárás alá vont személy jogosult arra, hogy jogi képviselőt hatalmazzon meg, aki az eljárásban részt vehet és az általa képviselt érdekében felszólalhat, de a megállapodásnak az általa képviselt fél nevében történő megkötésére nem jogosult. A szabálysértési ügyben adott meghatalmazás – ha a meghatalmazásból más nem tűnik ki – hatálya kiterjed a közvetítői eljárásra is.
+
+(4) Ha a sértett korlátozottan cselekvőképes, a közvetítői eljárásban a törvényes képviselő részvétele kötelező. Ha a sértett cselekvőképtelen, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el, érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
+
+(5) A közvetítői eljárás nyelve a magyar. Az anyanyelv használatára és a tolmács igénybevételére e törvénynek a szabálysértési eljárásra vonatkozó rendelkezései az irányadóak.
+
+(6) Ha a közvetítői eljárás során a közvetítő a szabálysértési hatóság vagy a bíróság hatáskörébe tartozó intézkedés vagy eljárási cselekmény elvégzésének szükségességét észleli, erről a szabálysértési hatóságot vagy a bíróságot haladéktalanul tájékoztatja.
+
+82/F. § (1) A közvetítői eljárást úgy kell megszervezni, hogy azt a szabálysértési eljárás felfüggesztésének időtartamán belül be lehessen fejezni és a megállapodásról szóló okirat, valamint a jelentés a szabálysértési eljárás felfüggesztése határidejének letelte előtt megérkezzen a szabálysértési hatósághoz vagy a bírósághoz.
+
+(2) Ha a sértett vagy az eljárás alá vont személy a szabályszerűen kézbesített idézés ellenére nem jelenik meg, és ezt előzetesen, mihelyt az akadály tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, de legfeljebb az elmulasztott határnapot követő 3 munkanapon belül alapos okkal nem igazolja, úgy kell tekinteni, mint aki a hozzájárulását visszavonta.
+
+(3) Az igazolási kérelemről a kérelem beérkezését követő 3 munkanapon belül a közvetítő határoz. Az igazolási kérelmet elbíráló határozat ellen jogorvoslatnak nincs helye. Az igazolási kérelemnek helyt adó határozatban a közvetítő az ismételt közvetítői megbeszélés időpontját az (1) bekezdésben meghatározott határidő betartása mellett határozza meg.
+
+(4) A közvetítői eljárásban az idézésre és a kézbesítésre e törvény rendelkezéseit kell megfelelően alkalmazni. A megjelenésre kötelezett sértett és eljárás alá vont személy a 87. § (7) bekezdésében foglaltak szerint köteles eljárni.
+
+(5) A megjelenési kötelezettség elmulasztásával kapcsolatos költségek viselésére a sértett nem kötelezhető.
+
+82/G. § (1) A közvetítői eljárás során a közvetítői megbeszélést a közvetítői eljárás megindulásától számított 15 napon belül egy alkalomra kell összehívni. Kivételesen indokolt esetben, a 82/F. § (1) bekezdésében meghatározott határidő betartása mellett ismételt közvetítői megbeszélés is összehívható.
+
+(2) A közvetítői megbeszélésről a közvetítő feljegyzést készít.
+
+82/H. § (1) A közvetítői eljárásban a megállapodás akkor jön létre, ha a sértett és az eljárás alá vont személy között a szabálysértéssel okozott kár megtérítésében vagy a szabálysértés káros következményeinek egyéb módon való jóvátételében azonos álláspont alakul ki.
+
+(2) A megállapodásnak tartalmaznia kell, hogy
+
+- a) az eljárás alá vont személy az e törvényben meghatározott határidőig a szabálysértéssel okozott kárt megfizeti vagy más módon jóvátételt nyújt,
+- b) az eljárás költségeit ki viseli.
+
+(3) A megállapodásban vállalt kötelezettségeknek meg kell felelniük a jogszabályoknak, ésszerűnek kell lenniük és nem ütközhetnek a jó erkölcsbe.
+
+(4) A közvetítő az e törvényben meghatározott feltételeknek megfelelő megállapodást jóváhagyja. A jóváhagyott megállapodásról okiratot állít ki, amelyet a sértett – ha a törvényes képviselet kötelező, a törvényes képviselő is – és az eljárás alá vont személy is aláír. A közvetítő az okiratot a sértettnek, az eljárás alá vont személynek és a jelen lévő képviselőjüknek átadja, ha a képviselő nincs jelen, részére az okiratot kézbesíti. A megállapodásról kiállított okirat közokirat.
+
+(5) A megállapodást a közvetítő akkor hagyja jóvá, ha az eljárás alá vont személy az okozott kár megfizetését vagy más módon történő jóvátételt olyan határidővel vállalja, amely a közvetítői eljárás 82/F. § (1) bekezdésében meghatározott lezárását nem késlelteti.
+
+(6) Kivételesen, ha azt az eljárás alá vont személy vagyoni és jövedelmi helyzete indokolja, a közvetítő az (5) bekezdésben meghatározottnál hosszabb időtartamú teljesítési kötelezettségvállalást tartalmazó megállapodást is jóváhagyhat, amennyiben az a közvetítői eljárásnak a 82/F. § (1) bekezdésében meghatározott lezárását legfeljebb 30 nappal hosszabbítja meg. A közvetítő a szabálysértési eljárás felfüggesztése meghosszabbításának szükségességéről a szabálysértési hatóságot vagy a bíróságot értesíti.
+
+(7) A közvetítői eljárásban keletkezett iratok – a közvetítés eredményeként létrejött megállapodást tartalmazó okirat és a közvetítő jelentése kivételével –, valamint az eljárás alá vont személynek és a sértettnek a közvetítői eljárás során tett, az eljárás alapjául szolgáló cselekményre vonatkozó nyilatkozata abban a szabálysértési eljárásban, amelyben a közvetítői eljárásra sor került, bizonyítási eszközként nem használható fel. A közvetítői eljárás eredményét nem lehet az eljárás alá vont személy terhére értékelni.
+
+(8) A közvetítői eljárásban létrejött, írásba foglalt megállapodás a közvetítői eljárás célján túlmenően joghatás kiváltására nem alkalmas.
+
+(9) A közvetítői eljárásban létrejött megállapodás nem érinti a sértettnek azt a jogát, hogy a szabálysértési eljáráson kívül a szabálysértésből származó igényét bírósági, választottbírósági vagy egyéb eljárás keretében érvényesítse.
+
+(10) Az e törvény szerinti közvetítői eljárás befejezését követően indult bírósági, választottbírósági vagy egyéb eljárásban a felek nem hivatkozhatnak
+
+- a) a másik fél által, a vita lehetséges megoldásával összefüggésben az e törvény szerinti közvetítői eljárásban kifejtett álláspontra, javaslatra, és
+- b) a másik félnek az e törvény szerinti közvetítői eljárásban tett elismerő, joglemondó nyilatkozatára.
+
+#### 67/D. A közvetítői eljárás befejezése
+
+82/I. § (1) A közvetítői eljárás azon a napon fejeződik be, amikor
+
+- a) a közvetítő által jóváhagyott megállapodás alapján az eljárás alá vont személy a szabálysértéssel okozott kárt a sértettnek megtérítette vagy a szabálysértés káros következményeit egyéb módon jóvátette,
+- b) a sértett vagy az eljárás alá vont személy részére küldött idézés kézbesítésének abból eredő eredménytelenségéről szerez tudomást a közvetítő, hogy a címzett ismeretlen helyen tartózkodik,
+- c) a sértett vagy az eljárás alá vont személy haláláról a közvetítő hivatalos tudomást szerez,
+- d) a sértett vagy az eljárás alá vont személy kijelenti a közvetítő előtt, hogy kéri a közvetítői eljárás befejezését,
+- e) a sértett vagy az eljárás alá vont személy a közvetítői eljáráshoz adott hozzájárulását visszavonta, vagy mulasztását e törvény értelmében a hozzájárulás visszavonásának kell tekinteni,
+- f) a közvetítői megbeszélést úgy zárják le, hogy annak során a sértett és az eljárás alá vont személy nem kötött megállapodást vagy azt a közvetítő nem hagyta jóvá,
+- g) az eljárás alá vont személy a közvetítő által jóváhagyott megállapodás szerinti kötelezettségének még jogszerűen eleget tehetett volna.
+
+(2) A megállapodás teljesítését a közvetítői eljárásban a közvetítő ellenőrzi.
+
+(3) A közvetítői eljárás eredményes, ha a közvetítői eljárás az (1) bekezdés a) pontjában foglaltak szerint fejeződik be.
+
+82/J. § (1) A közvetítői eljárás befejezését követően a közvetítő a közvetítői eljárásról jelentést készít, amelyet az eljárás befejezésére alapot adó okirattal együtt megküld a szabálysértési hatóságnak vagy a bíróságnak, és ezzel egyidejűleg a megküldés tényéről írásban tájékoztatja a sértettet, a magánindítvány előterjesztőjét, az eljárás alá vont személyt és képviselőiket.
+
+(2) A jelentés tartalmazza
+
+- a) a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, az ügy számát, az eljárás alá vont személy és a sértett nevét,
+- b) az ügyet közvetítői eljárásra utaló szabálysértési hatóság vagy bíróság megnevezését és ügyszámát,
+- c) a közvetítő eljárás megindulásának és befejezésének időpontját,
+- d) a közvetítői eljárás eredményét,
+- e) ha a megállapodás a sértett magatartása miatt nem volt teljesíthető.
+
+82/K. § (1) A közvetítői eljárás során felmerült költség nem szabálysértési költség, azt eltérő megállapodás vagy e törvény eltérő rendelkezése hiányában az eljárás alá vont személy viseli. A sértett viseli a saját érdekkörében felmerült költségeket, kivéve, ha erről a sértett és az eljárás alá vont személy másképp állapodik meg.
+
+(2) Az állam viseli azt a költséget, amely annak kapcsán merült fel, hogy az eljárás alá vont személy vagy a sértett hallássérült, beszédfogyatékos, vak, a magyar nyelvet nem ismeri, vagy az eljárás során regionális vagy kisebbségi nyelvét használta.
 
 #### 68. A szabálysértési eljárás megszüntetése
 
@@ -883,7 +1058,8 @@ jelöli ki.
 - f) a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen elbírálták,
 - g) ugyanazon cselekmény miatt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás van folyamatban,
 - h) elévülés miatt nincs helye felelősségre vonásnak,
-- i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelősségre vonása nélkül.
+- i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelősségre vonása nélkül,
+- j) a közvetítő a közvetítői eljárás eredményes lefolytatásáról tájékoztatta a szabálysértési hatóságot vagy a bíróságot.
 
 (2) Az elkobzás alkalmazásáról szóló megszüntető határozatban a szabálysértési hatóság szabálysértési költséget állapíthat meg.
 
@@ -995,7 +1171,7 @@ jelöli ki.
 
 (4) A szabálysértési hatóság előtt folyó eljárásban a jegyzőkönyvet felolvasás után – ha e törvény eltérően nem rendelkezik – az eljárási cselekmény résztvevőinek alá kell írniuk. Ha a jegyzőkönyv aláírását bármelyik résztvevő megtagadja, azt a megtagadás okának megjelölésével a jegyzőkönyvben fel kell tüntetni.
 
-(5) Az eljárás alá vont személynek a szabálysértési hatóság, illetve a bíróság előtt tett vallomását a szükséges részletességgel, indokolt esetben szó szerint kell jegyzőkönyvbe foglalni.
+(5) Az eljárás alá vont személynek a szabálysértési hatóság, illetve a bíróság előtt tett vallomását, nyilatkozatait a szükséges részletességgel, indokolt esetben szó szerint kell jegyzőkönyvbe foglalni.
 
 (6) Az eljárási cselekmény hangfelvevővel vagy egyéb berendezéssel is rögzíthető. A rögzítés ilyen módja kifogás vagy panasz benyújtása esetében a jegyzőkönyvet nem pótolja.
 
@@ -1197,6 +1373,8 @@ téríti meg.
 
 (3) A meghallgatás során az eljárás alá vont személyt – ha a közérdekű munka végrehajtásához szükséges feltételek fennállnak – nyilatkoztatni kell arról, hogy hozzájárul-e a közérdekű munka kiszabásához. A hozzájárulás megtagadása kizárja a közérdekű munka kiszabását.
 
+(4) Ha a szabálysértési hatóság a meghallgatás során megállapítja, hogy a közvetítői eljárásra utalás feltételei fennállnak, az ügyet közvetítői eljárásra utalja.
+
 ### XVI. Fejezet — JOGORVOSLAT A SZABÁLYSÉRTÉSI HATÓSÁG HATÁROZATÁVAL SZEMBEN
 
 105. § (1) Az érdemi határozattal szemben az eljárás alá vont személy és képviselője, továbbá az okozott kár megtérítésére kötelezés esetén, kizárólag e rendelkezéssel szemben a sértett az érdemi határozatot hozó szabálysértési hatóságnál a határozat közlésétől számított nyolc napon belül kifogást nyújthat be. Amennyiben a pénzbírság összegét külön jogszabály állapította meg, a pénzbírság mértéke miatt nincs helye kifogás benyújtásának.
@@ -1334,6 +1512,8 @@ téríti meg.
 
 (4) A (3) bekezdés rendelkezése alapján nem kutatható át közjegyzői és ügyvédi iroda, valamint egészségügyi intézmény.
 
+(4a) Ha az előkészítő eljárás során mind a sértett, mind az elkövető kiléte megállapítható és a közvetítői eljárással összefüggő, a 82/A. § (5) bekezdésében meghatározott kizáró feltétel nem áll fenn, a rendőrség a sértettet és az eljárás alá vont személyt tájékoztatja a szabálysértési eljárásban alkalmazható közvetítői eljárás szabályairól, valamint arról, hogy a közvetítői eljárásra utaláshoz szükséges jognyilatkozatok az előkészítő eljárásban is előterjeszthetők.
+
 (5) Az előkészítő eljárás befejezését követően a rendőrség az előkészítő eljárás során keletkezett iratokat, adatokat, megállapításokat tartalmazó jelentését – a (7) bekezdésben foglalt eseten kívül – haladéktalanul megküldi a bíróságnak.
 
 (6) A rendőrség az (5) bekezdésben foglalt jelentésnek a bírósághoz történő megküldését megelőzően – az érték-egybefoglalás megállapíthatósága érdekében – ellenőrzi, hogy az eljárás alá vont személlyel szemben tulajdon elleni szabálysértés elkövetése miatt folyik-e másik előkészítő eljárás.
@@ -1344,7 +1524,7 @@ téríti meg.
 
 #### 95. A bíróság meghallgatás nélküli eljárásban hozott határozata
 
-118. § (1) Ha az előkészítő eljárás iratai alapján megállapítható, hogy a tényállás tisztázott és az eljárás alá vont személy vagy a tanú, sértett, szakértő meghallgatása nem szükséges, a bíróság határozatban büntetést szab ki, illetve önállóan vagy büntetés mellett intézkedést alkalmaz, illetve rendelkezik a szabálysértési költség viseléséről.
+118. § (1) Ha az előkészítő eljárás iratai alapján megállapítható, hogy a tényállás tisztázott és az eljárás alá vont személy vagy a tanú, sértett, szakértő meghallgatása nem szükséges, valamint a közvetítői eljárásra utalás feltételei nem állnak fenn, a bíróság határozatban büntetést szab ki, illetve önállóan vagy büntetés mellett intézkedést alkalmaz, továbbá rendelkezik a szabálysértési költség viseléséről.
 
 (2) A bíróság az (1) bekezdés szerinti döntését az előkészítő eljárásról készített jelentés megérkezését követő tizenöt napon belül, kizárólag a szabálysértési eljárás iratai és az előkészítő eljárásról szóló jelentés alapján meghozza.
 
@@ -1361,6 +1541,8 @@ téríti meg.
 (3) Ha az eljárás alá vont személy a tárgyaláson nem jelenik meg és magát alapos okkal, előzetesen, illetve az akadály felmerültekor haladéktalanul nem menti ki, úgy kell tekinteni, mint aki a kérelmét visszavonta.
 
 120. § (1) A bíróság tárgyalást tart, ha a 118. § (1) bekezdése szerinti döntésnek nincs helye, vagy ha az ügy elbírálása érdekében egyébként tárgyalás tartását tartja szükségesnek, továbbá, ha az eljárás alá vont személy vagy képviselője a 119. § (1) bekezdése szerint tárgyalás tartását kérte. Ez utóbbi esetben a bíróság a tárgyalásra az erre irányuló kérelem kézhezvételétől számított öt napon belül idézést bocsát ki.
+
+(1a) Ha a bíróság a tárgyalás során megállapítja, hogy a közvetítői eljárásra utalás feltételei fennállnak, az ügyet közvetítői eljárásra utalja.
 
 (2) A bíróság az (1) bekezdés szerinti tárgyalás során a szabálysértési tárgyalásra vonatkozó, e törvényben meghatározott szabályok megfelelő alkalmazásával jár el.
 
@@ -1423,6 +1605,8 @@ téríti meg.
 (6) A fellebbezésre vonatkozó nyilatkozatokat követően a bíróság a végzését nyomban írásba foglalja és kézbesíti az eljárás alá vont személynek, az eljárás alá vont személy képviselőjének, valamint a rendőrség képviselőjének.
 
 (7) Ha az ügy áttételének nincs helye és a tárgyalás alapján ügydöntő végzés meghozatalára nincs lehetőség, a bíróság a bíróság elé állítás keretében folytatott eljárást befejezi, az eljárást a 120. §-ban foglalt szabályok szerint folytatja le és lehetőség szerint az új tárgyalásra nyomban határnapot tűz.
+
+(8) Ha a közvetítői eljárásra utalás feltételei fennállnak, a bíróság az ügyet közvetítői eljárásra utalja és a továbbiakban az eljárást a 120. §-ban foglalt szabályok szerint folytatja le.
 
 126. § A végzéssel szembeni fellebbezés elintézésére az e törvényben foglalt rendelkezéseket értelemszerűen alkalmazni kell a bíróság elé állítás eredményeként hozott végzés elleni fellebbezés esetében is azzal, hogy a törvényszék a határozatának egy kiadmányát közvetlenül megküldi az eljárást kezdeményező rendőrségnek.
 
@@ -1816,7 +2000,9 @@ vehető nyilvántartásba.
 
 (6) A szabálysértési elzárás elengedése vagy mérséklése iránti kérelem esetén legfeljebb a köztársasági elnök döntéséig a szabálysértési szabályozásért felelős miniszter is elhalaszthatja, illetve félbeszakíthatja a szabálysértési elzárás végrehajtását.
 
-(7) A méltányossági kérelmet a szabálysértési szabályozásért felelős miniszter a köztársasági elnökhöz akkor is felterjeszti, ha annak tartalmával nem ért egyet.
+(7) A méltányossági kérelmet a szabálysértési szabályozásért felelős miniszter – a (7a) bekezdésben foglalt kivétellel – a köztársasági elnökhöz akkor is felterjeszti, ha annak tartalmával nem ért egyet.
+
+(7a) A határidőn túl benyújtott méltányossági kérelem esetében az előterjesztett igazolási kérelemről, továbbá az elkésett kérelem elutasításáról a szabálysértési szabályozásért felelős miniszter dönt, amely ellen nincs helye jogorvoslatnak.
 
 (8) A méltányossági döntésről az értesítést az elkövetőnek az (5) bekezdésben meghatározott szabálysértési hatóság, illetve bíróság kézbesíti.
 
@@ -1954,7 +2140,8 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - f) az eljáró bíróság, szabálysértési hatóság megnevezését, áttétel esetén az eljáró szervet és az áttétel időpontját,
 - g) a nyilvántartottal szemben elrendelt elővezetés, illetve őrizet tényét, az őrizet tartamát,
 - h) a szabálysértési eljárás felfüggesztésének tényét, időpontját, a felfüggesztett szabálysértési eljárás továbbfolytatásának időpontját, továbbá
-- i) a szabálysértési eljárás megszüntetésének tényét, időpontját.
+- i) a szabálysértési eljárás megszüntetésének tényét, időpontját,
+- j) a közvetítői eljárásra utalás időpontját, a közvetítői eljárást folytató pártfogó felügyelői szolgálat megnevezését, az eredményes közvetítői eljárás tényét és az eredményes közvetítői eljárás befejezésének az időpontját.
 
 (3) A szabálysértési eljárás hatálya alatt állók nyilvántartása számára, jogszabályban meghatározott formában és módon, adatot az a szabálysértési hatóság, valamint bíróság közöl, amely előtt a szabálysértési eljárás folyamatban van.
 
@@ -1963,6 +2150,8 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 155. § (1) A szabálysértési nyilvántartó szerv a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásába felvett adatokat a büntetést vagy intézkedést megállapító határozat jogerőre emelkedésétől, illetve a helyszíni bírság kiszabásától számított három évig kezeli.
 
 (2) A szabálysértési nyilvántartó szerv a szabálysértési eljárás hatálya alatt állók nyilvántartásába felvett adatokat a szabálysértési eljárás jogerős befejezéséig kezeli.
+
+(2a) Ha az ügyben eredményes közvetítői eljárást folytattak le, a szabálysértési nyilvántartó szerv a 154. § (2) bekezdés c), d), f), h), i) és j) pontjában meghatározott adatokat az eredményes közvetítői eljárás befejezését követő egy évig kezeli.
 
 (3) Törölni kell a szabálysértési nyilvántartásokból annak a személynek az adatait, akire vonatkozóan az (1) és (2) bekezdésben meghatározott nyilvántartási idő eltelt.
 
@@ -2019,6 +2208,8 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - e) a nyomozó hatóság, az ügyészség és a bíróság büntetőeljárás lefolytatása céljából,
 - f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából, valamint
 - g)
+
+(1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2a) bekezdése szerint kezelt adatokat.
 
 (2) A szabálysértési nyilvántartó szerv
 
@@ -2415,7 +2606,7 @@ szabálysértést követ el.
 193. § (1) Aki a felügyelete alatt álló kutyát
 
 - a) a település belterületén felügyelet nélkül bocsátja közterületre, vagy kóborolni hagyja,
-- b) természeti és védett természeti területen, vagy vadászterületen – a vadászkutya kivételével – póráz nélkül elengedi, vagy kóborolni hagyja,
+- b) természeti és védett természeti területen, vagy vadászterületen – a vadászkutya és a triflakereső kutya kivételével – póráz nélkül elengedi vagy kóborolni hagyja,
 - c) szájkosár és póráz nélkül közforgalmú közlekedési eszközön – vakvezető, illetve mozgáskorlátozottakat segítő kutya kivételével – szállítja,
 - d) élelmiszer-elárusító üzletbe, közfürdő területére vagy játszótérre – vakvezető, illetve mozgáskorlátozottakat segítő kutya kivételével – beenged, illetőleg bevisz,
 
@@ -2889,6 +3080,8 @@ megsérti, és ezzel százezer forintot meg nem haladó vagyoni hátrányt okoz,
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
 
+238/C. § A szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti esetekben a 238/A. §-ban és a 238/B. §-ban meghatározott szabálysértés miatt szabálysértési eljárásnak csak magánindítványra van helye.
+
 ### XXX. Fejezet — A JÁRVÁNYÜGYI, ERDŐVÉDELMI, MEZŐ-, ERDŐ- ÉS VÍZGAZDÁLKODÁSI SZABÁLYSÉRTÉSEK
 
 #### 193. Fertőző betegség elleni védekezés elmulasztása
@@ -3033,11 +3226,14 @@ szabálysértést követ el.
 - f) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének,
 - g) az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelésének és értékesítésének,
 - h) a szabálysértési statisztikai adatgyűjtés, adatfeldolgozás és adatszolgáltatás,
-- i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogosult szervek és személyek részére a jogkövetkezmények alkalmazása során értékelendő szempontok részletes szabályait rendeletben szabályozza.
+- i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogosult szervek és személyek részére a jogkövetkezmények alkalmazása során értékelendő szempontok,
+- j) az igazságügyért felelős miniszter egyetértésével a szabálysértési ügyekben alkalmazható közvetítői eljárás, a lefolytatott közvetítői megbeszélés, valamint a közvetítői eljárás befejezéséhez, a teljesítés ellenőrzéséhez kapcsolódó közvetítői tevékenység
+
+részletes szabályait rendeletben szabályozza.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
 
-(3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a szabálysértési szabályozásért felelős miniszterrel egyetértésben a járási hivatal 40/A. § szerinti általánostól eltérő illetékességét rendeletben meghatározza.
+(3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a szabálysértési szabályozásért felelős miniszterrel egyetértésben a járási hivatal 40/A. § szerinti általánostól eltérő illetékességét, valamint a járási hivatal eltérő illetékességgel történő eljárásának végrehajtási feltételeit rendeletben meghatározza.
 
 (4) Felhatalmazást kapnak a helyi önkormányzatok, a főváros tekintetében a fővárosi önkormányzat a 179/A. § (2) és (3) bekezdésében meghatározottak szerint, hogy a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében rendeletben kijelöljék a közterület meghatározott részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
 
@@ -3057,11 +3253,15 @@ szabálysértést követ el.
 
 (3) Az e törvény hatálybalépése előtt elkövetett szabálysértéseket nem lehet figyelembe venni a törvény hatálybalépése után elkövetett és a visszaesés szabályai alá tartozó szabálysértések esetén.
 
+(3a) Az egyes büntetőjogi tárgyú és ehhez kapcsolódó más törvények módosításáról szóló 2013. évi CLXXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 67. § (3) és (5)–(13) bekezdését, valamint 91. § (5) bekezdését a Módtv. hatálybalépésekor folyamatban lévő szabálysértési eljárásokban is alkalmazni kell.
+
 (4) A közúti közlekedésről szóló 1988. évi I. törvény 2012. április 15-én hatályba lépő, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartásról szóló 2012. évi II. törvény 253. § (3) bekezdése szerinti módosítása miatt azon szabálysértéseket, amelyek 2012. április 15-től közigazgatási bírsággal sújtandó szabályszegés hatálya alá esnek, de 2012. április 15. előtt követték el, a szabálysértésekről szóló törvény szerint kell elbírálni.
 
 (4a) Azokat a 2012. április 15-e előtt elkövetett cselekményeket, amelyek a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 138/A. §-ának a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartásról szóló 2012. évi II. törvény 253. § (2) bekezdésével megállapított a) pontja alapján nem minősülnek bűncselekménynek, e törvény szerint szabálysértésként kell elbírálni.
 
 (5) A (4) bekezdésben meghatározott cselekmény miatt 2012. április 15. napján folyamatban lévő nyomozás, illetve büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy – ha a cselekmény miatt szabálysértési elzárás büntetés nem szabható ki – a szabálysértési hatósághoz kell áttenni. Ilyen esetben az előkészítő eljárást lefolytató szerv, illetve a szabálysértési hatóság, valamint a bíróság felhasználhatja mindazokat a bizonyítékokat, amelyeket a nyomozó hatóság, az ügyész vagy a büntető ügyben eljárt bíróság a büntetőeljárás során szerzett be.
+
+(5a) E törvény szerint – a 2. § (5) bekezdése figyelmen kívül hagyásával – szabálysértésként kell elbírálni azokat a 2013. július 1-je előtt elkövetett cselekményeket, amelyek a Büntető Törvénykönyvről szóló 2012. évi C. törvény alapján 2013. július 1-jét követően már nem bűncselekménynek, hanem szabálysértésnek minősülnek, az ezek miatt folytatott büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy a szabálysértési hatósághoz áttették, és a szabálysértési eljárás megszüntetésére 2014. január 1-je előtt nem került sor.
 
 (6) A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 65. §-ával megállapított a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 99. § (3a) bekezdés, 99/A. §, 141. § (13) bekezdés, valamint 153. § (4) bekezdés rendelkezéseit a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény hatálybalépése előtt kiszabott helyszíni bírságok vonatkozásában is alkalmazni kell.
 
@@ -3069,7 +3269,11 @@ szabálysértést követ el.
 
 #### 207. Módosító rendelkezések
 
-#### 253. §
+#### 207. Az Európai Unió Jogának való megfelelés
+
+253. § (1) E törvény 67. §-a és 91. §-a a büntetőeljárás során igénybe vehető tolmácsoláshoz és fordításhoz való jogról szóló, 2010. október 20-i 2010/64/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E törvény 238/C. §-a a szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 208. Hatályon kívül helyező rendelkezések
 

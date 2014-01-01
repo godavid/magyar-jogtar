@@ -960,7 +960,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 74. § Mentes a letiltás alól
 
 - a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
-- b) az átmeneti segély, ideértve a meghatározott célra kapott segélyt is, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
+- b) az átmeneti segély, az önkormányzati segély, ideértve a meghatározott célra kapott segélyt is, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
 - c) anyasági támogatás,
 - d) a rokkantsági járadék és a vakok személyi járadéka,
 - e) az egészségkárosodásra tekintettel járó keresetkiegészítés, az átmeneti keresetkiegészítés, a jövedelemkiegészítés, az átmeneti jövedelemkiegészítés, a bányászok egészségkárosodási járadéka,
@@ -2429,7 +2429,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 ### Bűnügyi zárlat
 
-202. § (1) Ha a büntetőeljárásról szóló törvény szerint a büntetőügyben eljáró bíróság a terhelt egész vagyonának vagy egyes vagyontárgyainak zár alá vételét rendelte el (a továbbiakban: bűnügyi zárlat), ennek elvégzése a végrehajtó hatáskörébe tartozik.
+202. § (1) Ha a büntetőeljárásról szóló törvény szerint a büntetőügyben eljáró bíróság, ügyész, nyomozó hatóság a terhelt egész vagyonának vagy egyes vagyontárgyainak a zár alá vételét rendelte el (a továbbiakban: bűnügyi zárlat), ennek elvégzése a végrehajtó hatáskörébe tartozik.
 
 (2) A bűnügyi zárlatra a zárlatnak a szabályait, a pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt biztosító bűnügyi zárlatra pedig a pénzkövetelés biztosításának a szabályait kell megfelelően alkalmazni.
 

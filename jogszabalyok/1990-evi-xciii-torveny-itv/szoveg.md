@@ -21,7 +21,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 2. § (1) Az öröklési illetékre vonatkozó rendelkezéseket a belföldön levő hagyatékra minden esetben alkalmazni kell. Magyar állampolgár, illetve Magyarországon élő nem magyar állampolgár vagy belföldi székhelyű jogi személy által örökölt, külföldön levő ingóhagyatékra, valamint a külföldi hagyatékba tartozó vagyoni értékű jogra abban az esetben kell alkalmazni, ha a hagyaték helye szerinti államban öröklési illetéket vagy ennek megfelelő adót nem kell fizetni. A külföldön történt illeték- vagy adófizetés tényének bizonyítása az örököst terheli. Külföldön levő ingatlanhagyatékra az öröklési illetékre vonatkozó rendelkezések nem terjednek ki.
 
-(2) Az ajándékozási és visszterhes vagyonátruházási illetékre vonatkozó rendelkezéseket az ingó, a vagyoni értékű jog, a belföldi ingatlan és a belföldi ingatlanvagyonnal rendelkező társaság vagyoni betétje tekintetében kell alkalmazni, kivéve, ha nemzetközi szerződés másként rendelkezik. Gépjármű és pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzése tekintetében az ajándékozási és visszterhes vagyonátruházási illetékre vonatkozó rendelkezéseket akkor kell alkalmazni, ha a gépjárművet, pótkocsit belföldön vették nyilvántartásba, kivéve, ha nemzetközi szerződés másként rendelkezik.
+(2) Az ajándékozási és visszterhes vagyonátruházási illetékre vonatkozó rendelkezéseket az ingó, a vagyoni értékű jog, a belföldi ingatlan és a belföldi ingatlanvagyonnal rendelkező társaság vagyoni betétje tekintetében kell alkalmazni, kivéve, ha nemzetközi szerződés másként rendelkezik. Gépjármű és pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzése tekintetében az ajándékozási és visszterhes vagyonátruházási illetékre vonatkozó rendelkezéseket akkor kell alkalmazni, ha a gépjárművet, pótkocsit belföldön vették, veszik nyilvántartásba, kivéve, ha nemzetközi szerződés másként rendelkezik.
 
 (3) Ingónak vagy ingóhoz kapcsolódó vagyoni értékű jognak jogügyleten alapuló szerzése esetében – a belföldön már nyilvántartásba vett gépjármű és pótkocsi, illetve az ezekhez kapcsolódó vagyoni értékű jogok, továbbá a belföldi ingatlanvagyonnal rendelkező társaság vagyoni betétje kivételével – e törvényt akkor kell alkalmazni, ha az ingó átadása, illetve a vagyoni értékű jog megszerzése belföldön történt.
 
@@ -76,7 +76,8 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - l) a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó fejlesztési tanács,
 - m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú szociális szövetkezet,
 - n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai, elkülönült alapjai,
-- o) Nemzeti Eszközkezelő Zrt.
+- o) Nemzeti Eszközkezelő Zrt.,
+- p) a nemzeti köznevelésről szóló törvény szerinti intézményi tanács.
 
 (2) Az (1) bekezdés c)–g) és m) pontokban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetőleg az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
 
@@ -126,7 +127,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - b) ingó ajándékozása,
 - c) vagyoni értékű jognak ingyenes alapítása, ilyen jognak vagy gyakorlásának ingyenes átengedése, továbbá az ilyen jogról ellenszolgáltatás nélkül történő lemondás.
 
-(2) Az (1) bekezdésben felsorolt ajándékozás csak akkor esik ajándékozási illeték alá, ha arról okiratot állítottak ki, vagy ingó ajándékozása esetén okirat kiállítása ugyan nem történt, de az egy megajándékozottnak jutó ingó forgalmi értéke a 150 000 forintot meghaladja. Az ilyen ajándékozást a 17. § (1) bekezdés c), k), l), m), p), r), s) és t) pontja alá eső ügyletek kivételével az állami adóhatósághoz 30 napon belül be kell jelenteni. A bejelentésre a 91. § (3)—(4) bekezdése az irányadó.
+(2) Az (1) bekezdésben felsorolt ajándékozás csak akkor esik ajándékozási illeték alá, ha arról okiratot állítottak ki, vagy ingó ajándékozása esetén okirat kiállítása ugyan nem történt, de az egy megajándékozottnak jutó ingó forgalmi értéke a 150 000 forintot meghaladja. Az ilyen ajándékozást a 17. § (1) bekezdés c), k), l), m), p), r), s) pontja alá eső ügyletek kivételével az állami adóhatósághoz 30 napon belül be kell jelenteni. A bejelentésre a 91. § az irányadó.
 
 (3) Nem tárgya az ajándékozási illetéknek a vagyoni értékű jog, ha azt az ajándékozó a maga javára tartja fenn, vagy ha az ingatlant az átruházást megelőzően már fennállott és az ingatlan-nyilvántartásba bejegyzett vagyoni értékű joggal terhelten ajándékozzák.
 
@@ -199,7 +200,9 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának, illetve a használatbavétel tudomásulvételének időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
 (3) Ha az öröklés útján megszerzett képző-, ipar-, népművészeti alkotást, muzeális tárgyat, gyűjteményt vagy ennek egy részét az örökös az államnak, a helyi önkormányzatnak, vagy felsőoktatási intézménynek felajánlja, és a felajánlást elfogadják, az örökös mentesül a felajánlott ingóörökségre eső öröklési illeték alól. A teljes öröklési illeték alól mentesül az örökös, ha a felajánlott és elfogadott ingóörökség értéke eléri az ugyanabból a hagyatékból származó valamennyi örökségét terhelő illeték összegét.
 
@@ -228,11 +231,13 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - m) a közüzemi (vezetékes gáz-, áram-, távhő-szolgáltatási, víz- és csatornahasználati, szemétszállítási, központi fűtési) díjtartozásnak a szolgáltató általi elengedése, feltéve, hogy a magánszemély kötelezett (adós) és vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét;
 - n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követelés-elengedést és a tartozásátvállalást is – útján történő megszerzése;
 - o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elengedett követelés, ha a követelés elengedése – a pénzügyi intézmény által az adósnak kiadott igazolás szerint – az azonos helyzetben levők egyenlő elbánásának elve alapján történik, azzal, hogy a rendelkezés nem alkalmazható, ha az elengedés nem a személyi jövedelemadóról szóló törvény szerinti független felek között valósul meg;
-- p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) által megszerzett ajándék;
+- p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), illetve házastársa által megszerzett ajándék;
 - q) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
 - r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény rendelkezése alapján elengedett követelés,
 - s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
-- t)
+- t) az osztalékra vonatkozó követelés elengedése;
+- u) a csődegyezség keretében, valamint a felszámolási eljárásban a követelés elengedése, feltéve, ha a követelés jogosultja nem a csődeljárás, felszámolási eljárás alá vont gazdálkodó szervezet tagja,
+- v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés.
 
 (2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -243,11 +248,17 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának, illetve a használatbavétel tudomásulvételének időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
 
-(3) Termőföld tulajdonjogának, vagyoni értékű jogának ajándékozása esetén az egyébként járó ajándékozási illeték felét kell megfizetni. Az (1) bekezdés h) pontja szerinti mentesség esetén a mentességre való jogosultságot az ajándékozottnak kell igazolnia. A támogatás elnyerését igazoló okiratot az ingatlanügyi hatósághoz benyújtásra kerülő ajándékozási szerződéshez kell csatolnia, mely okiratot az ajándékozási szerződés másolatával az ingatlanügyi hatóság a 92. § (1) bekezdés szerint továbbítja az állami adóhatóságnak.
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
-(4)
+(3) Termőföld tulajdonjogának, vagyoni értékű jogának ajándékozása esetén az egyébként járó ajándékozási illeték felét kell megfizetni. Az (1) bekezdés h) pontja szerinti mentesség esetén a mentességre való jogosultságot az ajándékozottnak kell igazolnia. A támogatás elnyerését igazoló okiratot a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig az állami adóhatóságnál kell benyújtania vagy az ingatlanügyi hatósághoz benyújtandó ajándékozási szerződéshez kell csatolnia, mely okiratot az ajándékozási szerződés másolatával az ingatlanügyi hatóság a 92. § (1) bekezdés szerint továbbítja az állami adóhatóságnak.
+
+(4) Az (1) bekezdés n) pontja szerinti mentesség akkor vehető igénybe, ha a vagyonszerzőnek – nyilatkozata szerint – nem olyan külföldi államban van székhelye vagy üzletvezetése helye alapján illetősége
+
+- a) amelyben a vagyonszerző által az adóévre fizetendő társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 10 százalékot vagy
+- b) amelynek jogszabályai szerint – nulla vagy negatív eredmény és adóalap esetén – a társasági adónak megfelelő adó mértéke, több adómérték esetén a legkisebb adómérték nem éri el a 10 százalékot vagy
+- c) amelynek jogszabályai szerint a vagyoni betét, részesedés értékesítéséből származó jövedelmet nem terheli a társasági adónak megfelelő, legalább 10 százalékos mértéket elérő adó.
 
 17/A. § Mentes az ajándékozási illeték alól az önálló orvosi tevékenység praxisjogának megszerzése, ha a korábbi jogosult az önálló orvosi tevékenységről szóló törvény erejénél fogva az említett törvény hatálybalépésétől volt jogosult az önálló orvosi tevékenység gyakorlására. Az illetékmentességre való jogosultságot az önálló orvosi tevékenység praxisjogát szerző magánszemélynek kell igazolnia az állami adóhatóságnál legkésőbb a fizetési meghagyás jogerőre emelkedéséig.
 
@@ -284,7 +295,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 ### Az illeték tárgya
 
-18. § (1) Ingatlannak, valamint a (2) bekezdésben meghatározott ingónak és vagyoni értékű jognak visszteher mellett, továbbá öröklési vagy ajándékozási illeték alá nem eső, más módon történő megszerzése visszterhes vagyonátruházási illeték alá esik. Ezt a szabályt kell alkalmazni az öröklési szerződés alapján történő vagyonszerzésre is azzal, hogy az illetékkötelezettség keletkezésére a 3. § (1) bekezdése az irányadó.
+18. § (1) Ingatlannak, valamint a (2) bekezdésben meghatározott ingónak és vagyoni értékű jognak visszteher mellett, továbbá öröklési vagy ajándékozási illeték alá nem eső, más módon történő megszerzése visszterhes vagyonátruházási illeték alá esik. Ezt a szabályt kell alkalmazni az ingatlanok, illetve a gépjárművek (pótkocsik) pénzügyi lízingjére vonatkozó, a futamidő végén tulajdonjog átszállást eredményező szerződések esetén, továbbá az öröklési szerződés alapján történő vagyonszerzésre is azzal, hogy az öröklési szerződés tekintetében az illetékkötelezettség keletkezésére a 3. § (1) bekezdése az irányadó.
 
 (2) Az illetékfizetési kötelezettség a következő vagyoni értékű jogokra és ingókra terjed ki:
 
@@ -295,7 +306,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - e) közterületen álló, ingatlannak nem minősülő felépítmény tulajdonjogának, vagyoni értékű jogának megszerzése;
 - f) az önálló orvosi tevékenység praxisjogának megszerzése;
 - g) az értékpapír öröklési szerződéssel való megszerzése;
-- h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére, ha a belföldi ingatlanvagyonnal rendelkező társaság olyan gazdálkodó szervezet, amelynek a cégjegyzékben feltüntetett (ennek hiányában a létesítő okiratában megjelölt) főtevékenysége épületépítési projekt szervezése, lakó- és nem lakó épület építése, saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele.
+- h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére.
 
 (3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő haszonélvezet, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött haszonélvezet, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
 
@@ -335,7 +346,7 @@ szerzett.
 
 ### Lakástulajdon és a hozzá kapcsolódó jogok visszterhes vagyonátruházási illetéke
 
-21. § (1) Ha a lakástulajdon szerzője a vásárláshoz lakásépítési kedvezményben részesül, ennek összegét – a (2)–(5) bekezdésben foglalt esetek kivételével – a lakástulajdon forgalmi értékből le kell vonni.
+21. § (1) Ha a lakástulajdon szerzője a vásárláshoz vissza nem térítendő, lakáscélú állami támogatásban részesül, ennek összegét – a (2)–(4) bekezdésben foglalt esetek kivételével – a lakástulajdon forgalmi értékből le kell vonni.
 
 (2) Lakástulajdonok magánszemélyek közötti cseréje, valamint lakástulajdon vásárlása esetén, ha a magánszemély vevő a másik lakástulajdonát a vásárlást megelőző vagy azt követő egy éven belül eladja, az illeték alapja az elcserélt lakástulajdonok, illetve a vásárolt és az eladott lakástulajdon – terhekkel nem csökkentett – forgalmi értékének a különbözete. E bekezdés alkalmazásában nem minősül tehernek a lakástulajdonhoz kapcsolódó haszonélvezet, használat joga.
 
@@ -343,7 +354,7 @@ szerzett.
 
 (4) Ha a magánszemély több lakástulajdont cserél, illetve egy éven belül több lakástulajdont vásárol, értékesít, az illeték alapját képező értékkülönbözet megállapításánál minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – a fizetésre kötelezett számára kedvezőbb illetékalapot eredményező egyetlen cserét, értékesítést lehet figyelembe venni. Ha a magánszemély a további lakáscseréivel, lakásvásárlásaival szemben az előbbi feltételeknek megfelelő, további lakáscserét, lakásértékesítést nem tud igazolni, e lakáscserék, lakásszerzések illetékkötelezettsége az általános szabályok szerint alakul. E bekezdés alkalmazásában nem minősül tehernek a lakástulajdonhoz kapcsolódó haszonélvezet, használat joga.
 
-(5) A (2) bekezdésben említett cserénél, adásvételnél a vagyonszerző a másik lakástulajdona cseréjét, eladását a tulajdonjog ingatlan-nyilvántartási bejegyzésére alkalmas csere- vagy adásvételi szerződés másolatával vagy más megfelelő módon igazolja. Ezzel egyidejűleg nyilatkozik arról, hogy a (2) bekezdésben foglalt feltételeknek megfelel.
+(5) A (2) és (4) bekezdésben említett adásvételnél a vagyonszerző a másik lakástulajdona eladását a tulajdonjog ingatlan-nyilvántartási bejegyzésére alkalmas adásvételi szerződés másolatával vagy más megfelelő módon igazolja. Ezzel egyidejűleg nyilatkozik arról, hogy a (2) és (4) bekezdésben foglalt feltételeknek megfelel.
 
 22. § Lakástulajdonnak állami, helyi önkormányzati tulajdonban álló bérlakás bérleti joga megszerzése ellenében történő átruházása esetén a visszterhes vagyonátruházási illeték alapja a lakástulajdon forgalmi értékének 50%-a.
 
@@ -360,7 +371,7 @@ szerzett.
 
 (2) Engedély alapján működő ingatlanalap az (1) bekezdésben meghatározott illetéket fizeti ingatlanszerzése után.
 
-(3) A nettó árbevétel megoszlásáról a vagyonszerző a fizetési meghagyás jogerőre emelkedéséig nyilatkozik. Ha az illetékkiszabásra történő bejelentésre az adóév hatodik hónapjának 1. napját megelőzően kerül sor, a vagyonszerzőnek arról kell nyilatkoznia, hogy nettó árbevétele előreláthatólag az (1) bekezdésben foglaltak szerint oszlik meg. Amennyiben a nyilatkozatban vállaltak nem teljesültek, úgy a vállalkozó az illetékkötelezettség keletkezése szerinti adóév hatodik hónapjának 15. napjáig jelezheti ezt a körülményt az állami adóhatóság felé, amely a 19. § (1) bekezdés alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének 50%-kal növelt összegét a vagyonszerző terhére pótlólag előírja. Ha az állami adóhatóság adóellenőrzés keretében megállapítja, hogy a vagyonszerző valótlan nyilatkozatot tett, a vagyonszerzésre a 19. § (1) bekezdése alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét az állami adóhatóság a vállalkozó terhére pótlólag előírja.
+(3) A nettó árbevétel megoszlásáról a vagyonszerző a fizetési meghagyás jogerőre emelkedéséig nyilatkozik. Ha az illetékkötelezettség keletkezésére az adóév hatodik hónapjának 1. napját megelőzően kerül sor, a vagyonszerzőnek arról kell nyilatkoznia, hogy nettó árbevétele előreláthatólag az (1) bekezdésben foglaltak szerint oszlik meg. Amennyiben a nyilatkozatban vállaltak nem teljesültek, úgy a vállalkozó az illetékkötelezettség keletkezése szerinti adóév hatodik hónapjának 15. napjáig jelezheti ezt a körülményt az állami adóhatóság felé, amely a 19. § (1) bekezdés alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének 50%-kal növelt összegét a vagyonszerző terhére pótlólag előírja. Ha az állami adóhatóság adóellenőrzés keretében megállapítja, hogy a vagyonszerző valótlan nyilatkozatot tett, a vagyonszerzésre a 19. § (1) bekezdése alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét az állami adóhatóság a vállalkozó terhére pótlólag előírja.
 
 (4) Az ingatlanforgalmazást az illetékkötelezettség keletkezésének adóévében kezdő vállalkozó az (1) bekezdésben meghatározott célú ingatlanvásárlás esetén az ott meghatározott mértékű illetéket fizeti, ha a fizetési meghagyás jogerőre emelkedéséig nyilatkozatban vállalja, hogy az adóév nettó árbevételének legalább 50%-a ingatlanforgalmazásból fog származni. Amennyiben a nettó árbevétel megoszlására vonatkozó vállalás nem teljesül, az állami adóhatóság a vagyonszerzés után a 19. § (1) bekezdés alapján egyébként fizetendő és az (1) bekezdés szerinti illeték különbözetét a vállalkozó terhére 50%-kal növelten megállapítja. A vállalás meghiúsulásának tényét a vállalkozó az adóévet követő hatodik hónap 15. napjáig köteles bejelenteni. Ha az állami adóhatóság adóellenőrzés keretében megállapítja, hogy a vagyonszerző nettó árbevétel megoszlásra vonatkozó vállalása nem teljesült, a vagyonszerzésre a 19. § (1) bekezdése alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét a vállalkozó terhére pótlólag előírja.
 
@@ -422,9 +433,7 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
 
 25. § (1) Ingatlan közös tulajdonának megszüntetése esetén vagyonszerzési illetéket akkor kell fizetni, ha a megosztás folytán valamelyik tulajdonostárs a korábbi tulajdoni hányadának megfelelő értéknél nagyobb értékhez jut. A vagyonszerzési illetéket az értékkülönbözet alapulvételével kell kiszabni.
 
-(2) Házastársi vagyonközösség megszüntetése esetén az értékkülönbözetet a közös vagyon értékének figyelembevételével kell megállapítani. Az értékkülönbözet után a vagyonszerzés jogcímének megfelelő vagyonszerzési illetéket kell fizetni. Ha valamelyik fél csak azért kap a közös vagyonból nagyobb részt, mert a közös tartozásból is többet vállalt át, és az átvállalt tartozás összege az értékkülönbözetet kiegyenlíti, illeték kiszabásának nincs helye.
-
-(3) Az élettársak közös tulajdonának megszüntetése esetén a közös tulajdonban való részesedésük arányára figyelemmel a (2) bekezdést kell alkalmazni.
+(2)–(3)
 
 ### Illetékmentességek, illetékkedvezmények
 
@@ -451,7 +460,7 @@ megszerzése;
 - m) a helyi önkormányzat vagy az állam tulajdonában álló lakás tulajdonjogának, haszonélvezeti jogának a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: lakástörvény) 45. §-ának (1) bekezdése alapján vételi joggal rendelkező, továbbá 49. §-ának (1)—(2) bekezdése alapján elővásárlási joggal rendelkező személy által történő megszerzése;
 - n) a birtokösszevonási célú önkéntes földcsere keretében létrejött megállapodáson alapuló termőföldtulajdon szerzése, valamint ehhez kapcsolódóan haszonélvezet, használat jogának alapítása, abban az esetben, ha az elcserélt földrészletet azonos jogosult javára haszonélvezet, használat joga terhelte;
 - o) az ügyvédi iroda olyan átalakulással (egyesülés,szétválás) bekövetkező vagyonszerzése, amikor a létrejövő iroda (irodák) a korábbinak jogutódja(i) lesz(nek);
-- p) termőföldnek a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott nyilvántartási (regisztrációs) számmal rendelkező őstermelő, egyéni mezőgazdasági vállalkozó vagy családi gazdálkodó általi, visszteher ellenében történő megszerzése, feltéve, ha az így vásárolt termőföldet a birtokbaadástól számítva 5 évig nem idegeníti el – ide nem értve a kisajátítást, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítést és a birtokösszevonási célú önkéntes földcserét –, azon vagyoni értékű jogot nem alapít, és egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként a termőföldet mezőgazdasági célra hasznosítja.
+- p) termőföldnek a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott nyilvántartási (regisztrációs) számmal rendelkező őstermelő, egyéni mezőgazdasági vállalkozó vagy családi gazdálkodó általi, visszteher ellenében történő megszerzése, feltéve, ha az így vásárolt termőföldet a birtokbaadástól, de legkésőbb az illetékkötelezettség keletkezését követő 12. hónap utolsó napjától számítva 5 évig nem idegeníti el – ide nem értve a kisajátítást, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítést és a birtokösszevonási célú önkéntes földcserét –, azon vagyoni értékű jogot nem alapít, és egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként a termőföldet mezőgazdasági célra hasznosítja.
 - q) ingatlannak, illetve a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő átruházása, az alábbi feltételek együttes teljesülése esetén:
   - qa) az átruházó az átruházás évében és az azt megelőző két naptári évben nem vette igénybe a 23/A. § szerinti kedvezményes illetékmértéket és a 26. § (1) bekezdés a) pontja alapján felfüggesztett illetéktartozással nem rendelkezik,
   - qb) az átruházott eszközöknek a pénzeszközök és pénzkövetelések összegével csökkentett értékében az ingatlanok és a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétek értékének aránya az átadáskor és az átadást legalább 6 hónappal megelőzően lezárt utolsó adóév utolsó napján nem haladja meg az 50%-ot,
@@ -465,7 +474,12 @@ megszerzése;
 - w) a kizárólag elektromos hajtómotorral ellátott gépjármű tulajdonjogának, illetve ilyen gépjárműre vonatkozó vagyoni értékű jognak a megszerzése;
 - x) az ingatlannak a futamidő végén tulajdonjog átszállást eredményező lízingszerződés keretében történő megszerzése, ha az ingatlan a lízingszerződés megkötéséig a lízingbevevő tulajdona volt, és a tulajdonjog a lízingszerződés megkötése érdekében került a lízingbeadónak átadásra;
 - y) a lakástulajdon magánszemély általi cseréje és vásárlása, ha a magánszemély a másik lakástulajdonát a vásárlást megelőző vagy azt követő egy éven belül eladja, és a szerzett lakástulajdon forgalmi értéke az elcserélt, eladott lakástulajdon forgalmi értékénél kisebb;
-- z) egyenes ági rokonok (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) közötti vagyonátruházás esetén az egyenes ági rokon (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) vagyonszerzése.
+- z) a vagyonszerzés, ha
+  - za) egyenes ági rokonok (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) egymás közötti vagyonátruházásából,
+  - zb) házastársak egymás közötti vagyonátruházásából,
+  - zc) a házastársi vagyonközösség megszüntetéséből
+
+származik.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -476,7 +490,9 @@ megszerzése;
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának, illetve a használatbavétel tudomásulvételének időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
@@ -509,7 +525,7 @@ megszerzése;
 
 (14) Az állami, helyi önkormányzati tulajdonban lévő forgalomképtelen műemlék vagy műemléki jellegű ingatlan (ingatlan együttes) haszonélvezeti jogának, az ingatlan helyreállítása, fejlesztése és az ezt követő állagmegóvása ellenében történő megszerzése esetén visszterhes vagyonátruházási illetéket nem kell fizetni.
 
-(15) Az állami adóhatóság a visszterhes vagyonátruházási illetékkötelezettség keletkezésekor 35. életévét be nem töltött fiatal első lakástulajdonának (tulajdoni hányadának) megszerzése esetén a vagyonszerző kérelmére – a kérelemben megjelölt időtartamra, de legfeljebb esedékességtől számított 12 hónapra – havonként egyenlő részletekben teljesítendő pótlékmentes részletfizetést engedélyez. Ha a vagyonszerző az esedékes részlet befizetését nem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben esedékessé válik. Ez esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
+(15) A magánszemély vagyonszerző első lakástulajdonának (tulajdoni hányadának) megszerzése esetén az állami adóhatóság a vagyonszerző kérelmére – a kérelemben megjelölt időtartamra, de legfeljebb az esedékességtől számított 12 hónapra – havonként egyenlő részletekben teljesítendő pótlékmentes részletfizetést engedélyez. Ha a vagyonszerző az esedékes részlet befizetését nem teljesíti, a tartozás egy összegben esedékessé válik. Ez esetben az állami adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
 
 (16) Ha az (1) bekezdés i) és r) pontjaiban meghatározott esetekben a sportcélú ingatlant – a társasági adóról és az osztalékadóról szóló törvény 22/C. § (6) bekezdésének b) pontjában, valamint 22/C. § (7) bekezdésében foglalt esetek kivételével – olyan hivatásos sportszervezet használja, amely nem a társasági adóról és az osztalékadóról szóló törvény 4. § 41. pontja szerinti látvány-csapatsportban működik, akkor az illetékmentesség az adózó választása szerint
 
@@ -521,6 +537,8 @@ megszerzése;
 (18) Az (1) bekezdés p) pontjában említett feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző a termőföldet az – eredetileg vállalt – 5 év letelte előtt elidegeníti – ide nem értve a kisajátítást, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítést és a birtokösszevonási célú önkéntes földcserét –, vagy azon vagyoni értékű jogot alapít, igazolhatóan nem mezőgazdasági célra hasznosítja, az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának esetét. Ha a vagyonszerző által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, melyre a feltételek nem teljesültek.
 
 (19) Az (1) bekezdés y) pontja szerinti illetékmentesség alkalmazása során, ha a magánszemély egy éven belül több lakástulajdont cserél, vásárol, illetve értékesít, minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – egyetlen értékesítést lehet figyelembe venni. Az (1) bekezdés y) pontjában meghatározott illetékmentességi rendelkezést lakástulajdonhoz kapcsolódó vagyoni értékű jog magánszemélyek általi megszerzésekor megfelelően kell alkalmazni.
+
+(20) Az (1) bekezdés g), h), q) és t) pontja szerinti mentesség a 17. § (4) bekezdésében említett feltételek fennállásakor vehető igénybe.
 
 26/A. § (1) Mentes a visszterhes vagyonátruházási illeték alól a természeti katasztrófa következtében megsemmisült vagy helyrehozhatatlanul megrongálódott (a továbbiakban: megsemmisült) lakástulajdon helyett vásárolt másik lakástulajdon (erre vonatkozó vagyoni értékű jog) megszerzése, ha
 
@@ -662,17 +680,17 @@ megszerzése;
 - 34. a pénzügyi közvetítőrendszer felügyeletét ellátó szerv fogyasztóvédelmi eljárása;
 - 35. a fogyasztóvédelmi hatóság első fokú fogyasztóvédelmi eljárása;
 - 36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás;
-- 36. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
-- 37. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás,
-- 37. A hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat,
-- 38.
-- 38. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás.
-- 39. a személyiadat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
-- 40. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi;
-- 41. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
-- 41. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
-- 42. a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíjköteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás;
-- 43.
+- 37. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
+- 38. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás;
+- 39. a hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat;
+- 40. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás;
+- 41. a személyi adat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
+- 42. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi;
+- 43. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
+- 44. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
+- 45. a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíj köteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás;
+- 46. a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) való felvétel, az adatmódosítás, a szolgáltatói nyilvántartásból való törlés, a szolgáltatói nyilvántartással kapcsolatos bejelentések, a szolgáltatói nyilvántartás adatairól hatósági bizonyítvány kiállítása és a szolgáltatói nyilvántartásból teljesített egyéb adatszolgáltatás;
+- 47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás.
 
 ### Az államigazgatási eljárási illeték fizetésének módja
 
@@ -702,7 +720,7 @@ megszerzése;
 
 39. § (1) A polgári peres és nemperes eljárásban az illeték alapja — ha törvény másként nem rendelkezik — az eljárás tárgyának az eljárás megindításakor fennálló értéke, jogorvoslati eljárásban pedig a vitássá tett követelés vagy követelésrész értéke.
 
-(2) A Pp. 24. §-a (2) bekezdésében felsorolt perekben az illeték számításának alapja az ott meghatározott pertárgy értéke.
+(2) A polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 24. §-a (2) bekezdésében felsorolt perekben az illeték számításának alapja az ott meghatározott pertárgy értéke.
 
 (3) Ha az eljárás tárgyának értéke az (1) bekezdésben foglaltak szerint nem állapítható meg, és ha törvény másként nem rendelkezik, az illeték számításának alapja:
 
@@ -763,7 +781,7 @@ megszerzése;
 
 ### A csőd- és felszámolási eljárás illetéke
 
-44. § (1) A csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában meghatározott és jogi személyiséggel rendelkező gazdálkodó szervezetek felszámolási eljárásának illetéke 80 000 forint, csődeljárásának illetéke 50 000 forint, jogi személyiséggel nem rendelkező gazdálkodó szervezet esetében pedig a felszámolási eljárás illetéke 30 000 forint, a csődeljárás illetéke 30 000 forint.
+44. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában meghatározott és jogi személyiséggel rendelkező gazdálkodó szervezetek felszámolási eljárásának illetéke 80 000 forint, csődeljárásának illetéke 50 000 forint, jogi személyiséggel nem rendelkező gazdálkodó szervezet esetében pedig a felszámolási eljárás illetéke 30 000 forint, a csődeljárás illetéke 30 000 forint.
 
 (2)
 
@@ -892,7 +910,7 @@ esetében.
 
 57. § (1) Illetékmentes a polgári ügyekben:
 
-- a)
+- a) az eljárást megindító beadvány idézés kibocsátása – nemperes eljárás esetén érdemi vizsgálat, cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása – nélküli elutasításáról rendelkező döntés elleni fellebbezés;
 - b) a költségmentesség vagy az illetékfeljegyzési jog tárgyában hozott határozat elleni jogorvoslati eljárás;
 - c) a bontóperben a házasság vonatkozásában indított viszontkereset;
 - d) a holtnak nyilvánítással és a halál tényének megállapításával kapcsolatos eljárás, ha az eltűnés vagy a halál háborús esemény vagy természeti katasztrófa folytán következett be;
@@ -997,7 +1015,7 @@ esetében.
 - p) a hivatalbóli bejegyzéssel nyilvántartásba vett, hibás adatokon alapuló vagy más okból hibás bejegyzések kijavítása iránti eljárásban, valamint abban az eljárásban, mely annak megállapítására irányul, hogy valamely hatóság vagy bíróság nem tett eleget a cégjegyzékbe hivatalbóli bejegyzéssel nyilvántartásba kerülő adat megküldésére vonatkozó kötelezettségének;
 - r) a közigazgatási eljárás során hozott végzés felülvizsgálatára irányuló nemperes eljárásban;
 - s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
-- s) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban.
+- t) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban.
 
 (2) Az (1) bekezdés a)–c) és g)–h), továbbá l) pontjaiban említett perek esetén, ha az összegszerűség megállapítása a bíróság mérlegelésétől függ és a kereset nem volt nyilvánvalóan eltúlzott, részleges pervesztesség esetén a bíróság a fél illetékfizetésre való kötelezését mellőzheti.
 
@@ -1011,7 +1029,7 @@ esetében.
 
 ### CÉGBÍRÓSÁGI FELÜGYELETI ILLETÉK
 
-65. § (1) A cégbíróság által lefolytatott törvényességi felügyeleti eljárásért 50 000 Ft felügyeleti illetéket kell fizetni. A felügyeleti illetéket az a cég viseli, melynek törvénysértő működését a cégbíróság megállapítja. Ha a hivatalból indult törvényességi felügyeleti eljárást a cégbíróság jogsértés hiányában megszünteti, az illetéket nem kell megfizetni.
+65. § (1) A cégbíróság által lefolytatott törvényességi felügyeleti eljárásért 100 000 Ft felügyeleti illetéket kell fizetni. A felügyeleti illetéket az a cég viseli, melynek törvénysértő működését a cégbíróság megállapítja. Ha a hivatalból indult törvényességi felügyeleti eljárást a cégbíróság jogsértés hiányában megszünteti, az illetéket nem kell megfizetni.
 
 (2) Kérelemre indult eljárás esetén, ha a cégbíróság a törvényességi felügyeleti eljárás lefolytatása iránti kérelmet jogsértés hiányában elutasítja, a kérelmezőt 15 000 Ft felügyeleti illeték terheli.
 
@@ -1089,7 +1107,7 @@ esetében.
 - c) ha a vagyoni értékű jog tartama több egyidejűleg jogosult személy élettartamától függ, mégpedig oly módon, hogy a jogosultság a legelőször elhalt személy halálával megszűnik, az értékelésnél a legidősebb személy életkora az irányadó; ha pedig a jogosultság a legutóbb elhalt személy haláláig tart, a kiszámítás a legfiatalabb személy életkora szerint történik. Az így kapott értéket, mint illetékalapot az egyes jogosultak között olyan arányban kell megosztani, mint amilyen arányt az életkoruk szerint számított vagyoni értékű jog értéke ezek együttes értékében képvisel.
 - d) ha a vagyoni értékű jog tartama a házasság idejére terjed, a kiszámításnál az idősebb házastárs életkora az irányadó.
 
-(5) Az időleges üdülőhasználati jog értéke: e jog egy évi értékének [72. § (1) bekezdés] annyiszor háromszázhatvanötöd része, ahány nap megszerzéséről szól a szerződés. Egyebekben a 72. § (2)—(3) bekezdésében foglaltak az irányadóak.
+(5) Az időleges üdülőhasználati jog és a szállás időben megosztott használati jogának értéke: e jogok egy évi értékének [72. § (1) bekezdés] annyiszor háromszázhatvanötöd része, ahány nap megszerzéséről szól a szerződés. Egyebekben a 72. § (2)—(3) bekezdésében foglaltak az irányadóak.
 
 (6) Az (1)–(5) bekezdéstől eltérően az önálló orvosi tevékenység praxisjogának értékét a vonatkozó adásvételi vagy ajándékozási szerződésben megjelölt – illetőleg folytatás esetén a szerző fél által bejelentett – érték alapján lehet megállapítani. Amennyiben az előzőek szerinti érték nem fejezi ki a valós értékviszonyokat, az állami adóhatóság becslés útján állapítja meg az értéket.
 
@@ -1099,14 +1117,17 @@ esetében.
 
 ### A közigazgatási hatósági eljárási illeték megfizetése
 
-73. § (1) A közigazgatási hatósági eljárási illetéket az eljárás megindításakor illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni a (2)–(4), a (7) és (8), valamint a (11) bekezdésekben foglaltak kivételével.
+73. § (1) A közigazgatási hatósági eljárási illetéket az eljárás megindításakor illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni a (2)–(4), a (4a), a (7) és (8), valamint a (11) bekezdésben foglaltak kivételével.
 
-(2) Az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét
+(2) A járási hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
 
-- a) az eljárás megindítását megelőzően készpénzátutalási megbízás útján, vagy
-- b) amennyiben a járási hivatalban erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával vagy házipénztárba készpénzzel
+- a) az eljárás megindítását megelőzően készpénz-átutalási megbízás útján, vagy
+- b) amennyiben a járási hivatalban vagy a kormányablakban erre lehetőség van, az eljárás megindításával egyidejűleg
+  - ba) elektronikus fizetési és elszámolási rendszeren keresztül,
+  - bb) bankkártyával vagy
+  - bc) házipénztárba készpénzzel kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénz-átutalási megbízással a járási hivatal és a kormányablak naponta fizeti meg az említett számla javára.
 
-kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénzátutalási megbízással a járási hivatal naponta fizeti meg az említett számla javára.
+(2a) A (2) bekezdés irányadó abban az esetben is, ha a kormányablak közreműködő hatóságként jár el.
 
 (3) Az elsőfokú adóhatóságnál és vámhatóságnál (a továbbiakban: adóhatóság) indított eljárás – ideértve az elektronikus úton kezdeményezett eljárást is – illetékét – a másolat, kivonat illetékének kivételével –, valamint az adóhatóság határozata, végzése és végrehajtási cselekménye ellen kezdeményezett jogorvoslati eljárás illetékét az illetékes adóhatóság illetékbevételi számlája javára kell megfizetni. A 73/A. § (1) bekezdésében foglaltaktól eltérően az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét az adóhatóság határozatban közli az ügyféllel, azzal, hogy az eljárási illetéket a határozat közlésétől számított 8 napon belül az adóhatóság illetékbevételi számlájára mulasztási bírság nélkül fizetheti meg. Az így meg nem fizetett illetéket és a mulasztási bírságot az adóhatóság hajtja be.
 
@@ -1116,11 +1137,11 @@ kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt
 
 (4a) Az elektronikus úton kezdeményezett építésügyi hatósági, valamint az azokban szükséges szakhatósági eljárások illetékét készpénz átutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – ha erre lehetőség van – elektronikus fizetési és elszámolási rendszeren keresztül, az eljárás megindítását megelőzően vagy azt követően kell megfizetni. Az eljárási illeték megfizetését az átutalási megbízás elfogadásáról szóló nyilatkozat másolatával kell igazolni.
 
-(5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4) bekezdésben szabályozott esetben pedig a készpénzátutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
+(5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4)–(4a) bekezdésekben szabályozott esetekben pedig a készpénzátutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
 
 (6) Az eljárási illetéket, ha azt elektronikusan kezdeményezett közigazgatási hatósági eljárás esetén az eljárás megindítását (kérelem előterjesztését) megelőzően nem fizették meg, legkésőbb az ügyazonosító ügyfél általi megismerését követő munkanapon kell megfizetni.
 
-(7) A (2)–(4) bekezdésben meghatározott eljárások kivételével a 10 000 forintot meghaladó eljárási illeték kiszabás alapján készpénz-átutalási megbízás útján vagy az állami adóhatóság által meghatározott számlaszámra átutalással, illetőleg amennyiben erre lehetőség van, bankkártyával is megfizethető. Ebben az esetben az illetékköteles iratot annak egy másolatával az illetékes állami adóhatósághoz kell benyújtani. Az irat illetékkiszabásra történő bemutatását az eredeti iraton igazolja az állami adóhatóság.
+(7) A (2)–(4a) bekezdésben meghatározott eljárások kivételével a 10 000 forintot meghaladó eljárási illeték kiszabás alapján készpénz-átutalási megbízás útján vagy az állami adóhatóság által meghatározott számlaszámra átutalással, illetőleg amennyiben erre lehetőség van, bankkártyával is megfizethető. Ebben az esetben az illetékköteles iratot annak egy másolatával az illetékes állami adóhatósághoz kell benyújtani. Az irat illetékkiszabásra történő bemutatását az eredeti iraton igazolja az állami adóhatóság.
 
 (8) A külképviseletnél, illetőleg ennek útján kezdeményezett magyar hatósági eljárás esetén az eljárás illetékét a konzuli díjakra vonatkozó külön jogszabályban meghatározott módon kell megfizetni.
 
@@ -1202,7 +1223,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 77. § Kiszabás alapján pénzzel kell megfizetni
 
-- a) a vagyonszerzési illetéket, ideértve az illetékelőleget is,
+- a) a vagyonszerzési illetéket,
 - b) e törvényben meghatározott esetben az eljárási illetéket,
 - c) az elmulasztott illetéket.
 
@@ -1222,7 +1243,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 ### Az illeték törlése és visszatérítése
 
-79. § (1) A meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – jogorvoslati eljáráson, valamint e törvény 16. § (2) bekezdésében, 17. § (2) bekezdésében, 21. § (5) bekezdésében és 26. § (2) bekezdésében említett eseteken kívül – csak a 80. § (1) bekezdésében megállapított esetekben van helye.
+79. § (1) A meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – jogorvoslati eljáráson, valamint e törvény 16. § (2) bekezdésében, 17. § (2) bekezdésében, 21. § (2) és (4) bekezdésében és 26. § (2) bekezdésében említett eseteken kívül – csak a 80. § (1) bekezdésében megállapított esetekben van helye.
 
 (2) Az adózás rendjéről szóló törvény elévülésre vonatkozó szabályait kell alkalmazni
 
@@ -1253,11 +1274,13 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 81. § (1) A fellebbezési eljárásban fizetett illetéket vissza kell téríteni, ha a fellebbezéssel is támadott bírósági határozatot igazolási kérelem folytán helyezték hatályon kívül.
 
-(2) Az (1) bekezdésben és a 80. § (1) bekezdésében, valamint az 58. §-ban említett esetben, ha az illeték megfizetése illetékbélyeggel történt, a bíróság a határozatát a székhelye szerint illetékes állami adóhatóságnak küldi meg. Ha pedig az illetéket a 74. § (2) bekezdésében foglaltak szerint pénzzel fizették meg, a bíróság a határozatot annak az állami adóhatóságnak küldi meg, amelynek számlájára az illetéket befizették.
+(2) Az (1) bekezdésben, a 80. § (1) bekezdésében, valamint az 58. §-ban említett esetben, ha az illeték megfizetése illetékbélyeggel történt, vagy az illetéket a 74. § (2) bekezdésében foglaltak szerint pénzzel fizették meg, a bíróság a határozatát az adózó lakóhelye (székhelye) szerint illetékes állami adóhatóságnak küldi meg.
+
+(3) Ha a bíróság az illetéket az 58. § (1) bekezdés f) pontja alapján mérsékelte, a megfizetett illeték 80. § (1) bekezdés i) pontja szerinti visszatérítésének kizárólag akkor van helye, ha a keresetlevelet szabályszerűen, a Pp. alapján a jogi hatály fennmaradására előírt határidőn belül ismételten nem nyújtották be. E tényről a bíróság – annak bekövetkezésétől számított 30 napon belül – értesíti az illetékes állami adóhatóságot, vagy ennek elmulasztása esetén az adózó kérelmére igazolást állít ki.
 
 ### Mulasztási bírság, adóbírság
 
-82. § (1) Az illeték fizetésére kötelezett terhére, ha az eljárás kezdeményezésekor fennálló eljárási illetékfizetési kötelezettségét — felhívás ellenére — egyáltalán nem vagy nem teljes mértékben vagy nem a megszabott határidőben teljesítette, továbbá a vagyonszerzéssel kapcsolatos bejelentési kötelezettség elmulasztása, illetve hiányos teljesítése vagy késedelmes teljesítése esetén, a fizetendő illetéken felül, az adózás rendjéről szóló törvényben meghatározott mértékű, mulasztási bírságot kell fizetni.
+82. § (1) Az illeték fizetésére kötelezett terhére, ha az eljárás kezdeményezésekor fennálló eljárási illetékfizetési kötelezettségét — felhívás ellenére — egyáltalán nem vagy nem teljes mértékben vagy nem a megszabott határidőben teljesítette, továbbá a vagyonszerzéssel kapcsolatos bejelentési kötelezettség elmulasztása, illetve hiányos teljesítése vagy késedelmes teljesítése esetén, az illetékfizetési kötelezettségtől függetlenül, az adózás rendjéről szóló törvényben meghatározott mértékű, mulasztási bírságot kell fizetni.
 
 (2) Az e törvényben szabályozott mentességek, kedvezmények jogosulatlan igénybevétele esetén – ha e törvény másként nem rendelkezik – az adózás rendjéről szóló törvényben meghatározott mértékű adóbírságot kell fizetni.
 
@@ -1281,7 +1304,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 (2) Ha a 16. § (1) bekezdés g), 17. § (1) bekezdés b), és 26. § (1) bekezdés a) pontjában meghatározott feltétel nem teljesül, vagy a vagyonszerző –, illetve a lakóház felépítésére e törvény alapján köteles jogutódja – a lakóház felépítésére biztosított határidőn belül kéri az illeték felfüggesztésének megszüntetését, a megállapított, de meg nem fizetett illetéket az eredeti esedékességtől (a határozat jogerőre emelkedését követő naptól) számított késedelmi pótlékkal megnövelt összegben kell megfizetni.
 
-(3) Ha a törvény 21. § (5) bekezdésében meghatározott kedvezmény igénybevétele jogosulatlan volt, akkor az adott vagyonszerzésre irányadó általános szabályok szerint járó és a 21. § (5) bekezdésében meghatározott kedvezményes illetékalap figyelembevételével előírt illeték különbözetének háromszorosát kell a vagyonszerző terhére pótlólag előírni. Ha a 26. § (6) bekezdésében meghatározott kedvezmény igénybevétele jogosulatlan volt, akkor az igénybe vett kedvezmény összegének háromszorosát kell a vagyonszerző terhére pótlólag előírni.
+(3) Ha a törvény 21. § (2) és (4) bekezdésében meghatározott kedvezmény igénybevétele jogosulatlan volt, akkor az adott vagyonszerzésre irányadó általános szabályok szerint járó és a 21. § (2) és (4) bekezdésében meghatározott kedvezményes illetékalap figyelembevételével előírt illeték különbözetének háromszorosát kell a vagyonszerző terhére pótlólag előírni. Ha a 26. § (6) bekezdésében meghatározott kedvezmény igénybevétele jogosulatlan volt, akkor az igénybe vett kedvezmény összegének háromszorosát kell a vagyonszerző terhére pótlólag előírni.
 
 (4) Ha a vagyonszerző a 26. § (1) bekezdésének i) pontjában meghatározott 15 év letelte előtt a mentességgel érintett ingatlant elidegeníti vagy igazolhatóan nem sport célra használja, hasznosítja, a mentesség alkalmazásának hiányában járó illetéknek a mentességet megállapító illetékkiszabó határozat (fizetési meghagyás) jogerőre emelkedésétől számított késedelmi pótlékkal növelt összegét kell megfizetnie.
 
@@ -1332,7 +1355,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (5) Az (1)–(4) bekezdésben említett bejelentési kötelezettség jogszabály szerint illetékmentes vagyonszerzésre is vonatkozik.
 
-92. § (1) Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzés végett benyújtott szerződés (okirat) iktatószámmal ellátott és hitelesített másolatát az illetékkiszabáshoz szükséges és rendelkezésre álló egyéb iratokkal együtt az ingatlan-nyilvántartási eljárás befejezését követően haladéktalanul, kísérőjegyzékkel továbbítja az állami adóhatósághoz. A kísérőjegyzék átadása történhet számítógépes adathordozón is.
+92. § (1) Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzés végett benyújtott szerződés (okirat) iktatószámmal ellátott és hitelesített másolatát az illetékkiszabáshoz szükséges és rendelkezésre álló egyéb iratokkal együtt az ingatlan-nyilvántartási eljárás befejezését követően haladéktalanul, kísérőjegyzékkel továbbítja az állami adóhatósághoz. Az ingatlanügyi hatóság az ingatlan pénzügyi lízingjére vonatkozó, a futamidő végén tulajdonjog átszállást eredményező szerződéseket a tulajdonjog fenntartással történő eladás tényének feljegyzését követően küldi meg az állami adóhatóság részére. A kísérőjegyzék átadása történhet számítógépes adathordozón is.
 
 (2) Az ingatlanügyi hatóság (1) bekezdésben említett kötelezettsége független attól, hogy a vagyonszerzés illetékköteles vagy illetékmentes.
 
@@ -1414,9 +1437,15 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (3) A 2012. december 31-én hatályos 16. § (1) bekezdés e) pontját a 2013. január 1-jén az állami adóhatóság által jogerősen még el nem bírált illetékügyekben nem kell alkalmazni.
 
+(4) Ha az (1) bekezdésben foglaltak alkalmazásával megállapított illeték összege nagyobb, mint amelyet az illetékkötelezettség keletkezésekor hatályos szabályok alapján a vagyonszerzőnek fizetnie kellett volna, az állami adóhatóságnak az illetékfizetési kötelezettséget az (1) bekezdésben foglaltak figyelmen kívül hagyásával kell megállapítania. Ha a vagyonszerző az így megállapított illetéknél több illetéket fizetett, az állami adóhatóság a különbözetet visszatéríti részére.
+
 99/G. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 56. § (5) bekezdését a 2013. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 99/H. § A 16. § (2a), (2c) és (2d) bekezdéseinek, a 17. § (2a), (2c) és (2d) bekezdéseinek, valamint a 26. § (2a), (2c), (2d) és (7) bekezdéseinek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény által megállapított rendelkezéseit azokban a vagyonszerzési ügyekben is alkalmazni kell, amelyekben a lakóház, sportcélú ingatlan felépítésére meghatározott határidő 2013. január 1-jéig még nem telt el.
+
+99/I. § (1) A 16. § (2e), a 17. § (2e), a 26. § (2e) bekezdéseinek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított rendelkezéseit azokban a vagyonszerzési ügyekben is alkalmazni kell, melyekben az állami adóhatóság 2014. január 1-jéig még nem rendelkezett jogerősen a felfüggesztett illeték késedelmi pótlékkal növelt összegben történő megfizetéséről.
+
+(2) Ha a 16. § (2e) bekezdése, a 17. § (2e) bekezdése, a 26. § (2e) bekezdése alapján a felfüggesztett illeték törlésének van helye, a lakóház felépítésére nyitva álló határidő azonban 2014. január 1-jéig még nem telt el és a vagyonszerző az illetéket már megfizette, akkor annak visszatérítését 2014. január 1-jétől kezdődően kérheti az állami adóhatóságtól.
 
 ### Felhatalmazás
 
@@ -1443,7 +1472,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 - a) vagyon:az ingatlan, az ingó, a vagyoni értékű jog;
 - b) ingatlan:a föld és a földdel alkotórészi kapcsolatban álló minden dolog;
 - c) ingó: a fizetőeszköz, az értékpapír, a gazdálkodó szervezetben fennálló vagyoni betét, valamint mindaz, ami ingatlannak nem minősülő dolog;
-- d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve a szövetkezeti háztulajdonra vonatkozó rendelkezések szerinti használati jogokat –, továbbá a vagyonkezelői jog, az önálló orvosi tevékenység praxisjoga, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
+- d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve az üdülőhasználati jogot és a szállás időben megosztott használati jogát is –, továbbá a vagyonkezelői jog, az önálló orvosi tevékenység praxisjoga, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
 - e) forgalmi érték: az a pénzben kifejezett érték, amely a vagyontárgy eladása esetén az illetékkötelezettség keletkezésekor volt állapotában – a vagyontárgyat terhelő adósságok, továbbá az ingatlanon a vagyonszerző javára az elidegenítéskor megszűnő bérleti jog figyelembevétele nélkül – árként általában elérhető, azzal, hogy:
   - ea) vagyontárgy kiadására vonatkozó követelés esetén a vagyontárgy illetékkötelezettség keletkezésének napján fennálló forgalmi értéke;
   - eb) szolgáltatás nyújtására irányuló követelés esetén a szolgáltatás – független felek közötti ügylet estén irányadó – pénzben kifejezhető értéke,
@@ -1455,10 +1484,15 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 - i) gépjármű: az olyan közúti szállító- vagy vontatóeszköz – a mezőgazdasági vontató, az önjáró vagy vontatott munkagép, a lassú jármű és a segédmotoros kerékpár kivételével –, amelyet beépített erőgép hajt és nyilvántartásba vételét jogszabály írja elő;
 - j) pótkocsi: az i) pont szerinti gépjárművel történő vontatásra készült jármű, teher- és sátras utánfutó, félpótkocsi, valamint lakópótkocsi, melynek a közlekedésben való részvételét — külön jogszabály — hatósági nyilvántartásba vételhez köti;
 - k) sportcélú ingatlan: az ingatlan-nyilvántartási bejegyzés szerint sporttelep, sportpálya, uszoda, stadion, sportcsarnok, jégpálya, jégcsarnok, tornaterem, tornaszoba, tornaudvar, vízi-sporttelep – vagy a széljegy szerint ilyenként feltüntetésre váró ingatlan, ingatlanrész, feltéve, ha az az ingatlan-nyilvántartási eljárás, melynek megindítását a széljegy tanúsítja, bejegyzéssel zárul –, ide nem értve a földrészleten létesített, de a sporttevékenység végzéséhez vagy az e célt szolgáló létesítmény fenntartásához közvetlenül nem szükséges ingatlanrészt (szálloda, irodaház, bevásárlóközpont és az építési szabályok szerint ezekhez kialakított parkolóhelyek stb.), akkor is, ha az a sportcélú ingatlannal egybeépült, vagy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
-- l) lakóház építésére alkalmas telektulajdon: az építésügyi szabályoknak és a településrendezési tervnek megfelelően kialakított, lakóépület elhelyezésére szolgáló, beépítetlen földrészlet;
-- m) termőföld: az a földrészlet, amelyet a település külterületén az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület művelési ágban vagy halastóként tartanak nyilván és a felsorolt valamelyik célra hasznosítják, ide nem értve a földrészleten bármilyen célra létesített épületet;
+- l) lakóház építésére alkalmas telektulajdon: az építésügyi szabályoknak és a településrendezési tervnek megfelelően kialakított, lakóépület elhelyezésére szolgáló, beépítetlen földrészlet vagy olyan földrészlet, amelyen az f) pont szerinti szerkezetkész állapotot el nem érő, lakóház céljára létesülő építmény áll;
+- m) termőföld: az a földrészlet, amelyet a település külterületén az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület művelési ágban vagy halastóként tartanak nyilván, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve és a felsorolt valamelyik célra hasznosítják, ide nem értve a földrészleten bármilyen célra létesített épületet;
 - n) nettó árbevétel: a helyi adókról szóló 1990. évi C. törvény szerinti nettó árbevétel;
-- o) belföldi ingatlanvagyonnal rendelkező társaság: olyan gazdálkodó szervezet (megszerzett gazdálkodó szervezet), mely belföldön lévő ingatlantulajdonnal, vagy belföldi ingatlantulajdonnal rendelkező gazdálkodó szervezetben legalább 75%-os – közvetett, vagy közvetlen – részesedéssel rendelkezik. Ingatlan tulajdonjogával rendelkező gazdálkodó szervezetben való közvetett részesedés arányát úgy kell meghatározni, hogy a megszerzett gazdálkodó szervezet tulajdonában álló gazdálkodó szervezetben (köztes vállalkozásban) fennálló tulajdoni hányadot meg kell szorozni a köztes vállalkozásnak az ingatlantulajdonnal rendelkező gazdálkodó szervezetben fennálló tulajdoni hányadával. Több köztes vállalkozás esetén a köztes vállalkozásonként megállapított közvetett részesedések arányait össze kell adni. Amennyiben a megszerzett gazdálkodó szervezet és az ingatlantulajdonnal rendelkező gazdálkodó szervezet között nem köztes vállalkozás, hanem több gazdálkodó szervezetből álló tulajdonosi láncolat (köztes tulajdonosi láncolat) áll, az e szervezeteket összekötő tulajdoni részesedések szorzatát – több köztes tulajdonosi láncolat esetén a láncolatonként megállapított szorzatok összegét – kell a közvetett részesedés arányának tekinteni. A részesedés arányának meghatározásakor a közvetlen és közvetett részesedéseket együttesen kell figyelembe venni;
+- o) belföldi ingatlanvagyonnal rendelkező társaság: olyan gazdálkodó szervezet (megszerzett gazdálkodó szervezet), melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket és a pénzköveteléseket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok), mérleg szerinti értéke több mint 75 százalék, vagy olyan gazdálkodó szervezetben (ingatlantulajdonnal rendelkező gazdálkodó szervezetben) rendelkezik legalább 75 százalékos – közvetett, vagy közvetlen – részesedéssel, melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket és a pénzköveteléseket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok) mérleg szerinti értéke több mint 75 százalék azzal, hogy
+  - oa) mérleg alatt a vagyonszerzést megelőzően rendelkezésre álló utolsó beszámolóban elfogadott mérleget, ennek hiányában a nyitó mérleget kell érteni,
+  - ob) a közvetett részesedés arányát úgy kell meghatározni, hogy a megszerzett gazdálkodó szervezet tulajdonában álló gazdálkodó szervezetben (köztes vállalkozásban) fennálló tulajdoni hányadot meg kell szorozni a köztes vállalkozásnak az ingatlantulajdonnal rendelkező gazdálkodó szervezetben fennálló tulajdoni hányadával,
+  - oc) több köztes vállalkozás esetén a köztes vállalkozásonként megállapított közvetett részesedések arányait össze kell adni,
+  - od) ha a megszerzett gazdálkodó szervezet és az ingatlantulajdonnal rendelkező gazdálkodó szervezet között több gazdálkodó szervezetből álló tulajdonosi láncolat (köztes tulajdonosi láncolat) áll, az e szervezeteket összekötő tulajdoni részesedések szorzatát – több köztes tulajdonosi láncolat esetén a láncolatonként megállapított szorzatok összegét – kell a közvetett részesedés arányának tekinteni,
+  - oe) a részesedés arányának meghatározásakor a közvetlen és közvetett részesedéseket együttesen kell figyelembe venni;
 - p)
 - r) természeti katasztrófa: az ár- és belvíz, a földcsuszamlás, valamint a földrengés;
 - s) lakóépület: kizárólag vagy túlnyomó részben lakást tartalmazó épület;
@@ -1619,13 +1653,17 @@ a) a 14. életévét be nem töltött polgár személyazonosító igazolványa i
 
 b) a 65. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
 
-3.
+3. Illetékmentes
 
-4. A személyi azonosítót és a lakcímet igazoló hatósági igazolvány illetéke – ha az eljárás a személyi azonosítót vagy a lakcímet nem érintő adatváltozás miatt indult – 500 forint.
+a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29. § (9) bekezdésében foglalt esetben a személyazonosító igazolvány eltulajdonítása miatt új személyazonosító igazolvány kiadására irányuló eljárás,
 
-5. Illetékmentes a személyi azonosítót és a lakcímet igazoló hatósági igazolvány kiadása, ha arra a személyazonosító igazolvány kiadása, lakcímváltozás, illetve – 14. életévét be nem töltött kiskorú esetén – a kérelemre feltüntethető adatok változása miatt kerül sor.
+b) a személyi azonosítót és lakcímet igazoló hatósági igazolvány eltulajdonítása miatt új, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás.
 
-6. Ha a személyi azonosítót és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárásra az igazolvány elvesztése, megsemmisülése, megrongálódása miatt kerül sor, az eljárás illetéke 1000 forint.
+4. A személyi azonosítót és lakcímet igazoló hatósági igazolvány illetéke – ha az eljárás a személyi azonosítót vagy a lakcímet nem érintő adatváltozás miatt indult – 500 forint.
+
+5. Illetékmentes a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása, ha arra a személyazonosító igazolvány kiadása, lakcímváltozás, illetve – 14. életévét be nem töltött kiskorú esetén – a kérelemre feltüntethető adatok változása miatt kerül sor.
+
+6. Ha a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadására irányuló eljárásra az igazolvány elvesztése, megsemmisülése, megrongálódása miatt kerül sor, az eljárás illetéke 1000 forint.
 
 III. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv kiadásával kapcsolatos eljárás illetéke
 
@@ -1647,7 +1685,7 @@ b) a személyi azonosító képzése – ideértve a személyi azonosító megv�
 
 c) az érintett polgár adatainak a polgárok személyi adatainak és lakcímének nyilvántartásából való törlésére irányuló eljárás;
 
-d) a lakcímet igazoló hatósági igazolvány és a forgalmi engedély cseréjére irányuló eljárás, amennyiben arra a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása miatt kerül sor.
+d) a személyi azonosítót és lakcímet igazoló hatósági igazolvány és a forgalmi engedély cseréjére irányuló eljárás, amennyiben arra a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása miatt kerül sor.
 
 X. Anyakönyvi és névváltoztatási eljárás
 

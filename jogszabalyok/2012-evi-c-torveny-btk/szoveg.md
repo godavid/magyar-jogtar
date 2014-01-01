@@ -36,7 +36,7 @@ Az Országgyűlésaz ember sérthetetlen és elidegeníthetetlen alapvető jogai
 
 - a) a nem magyar állampolgár által külföldön elkövetett cselekményre is, ha az
   - aa) a magyar törvény szerint bűncselekmény, és az elkövetés helyének törvénye szerint is büntetendő,
-  - ab) állam elleni bűncselekmény, – a szövetséges fegyveres erő ellen elkövetett kémkedést kivéve – tekintet nélkül arra, hogy az az elkövetés helyének törvénye szerint büntetendő-e,
+  - ab) állam elleni bűncselekmény, – kivéve a szövetséges fegyveres erő ellen elkövetett kémkedést és a kémkedést az Európai Unió intézményei ellen – tekintet nélkül arra, hogy az az elkövetés helyének törvénye szerint büntetendő-e,
   - ac) a XIII. vagy a XIV. Fejezetben meghatározott bűncselekmény, vagy egyéb olyan bűncselekmény, amelynek üldözését törvényben kihirdetett nemzetközi szerződés írja elő,
 - b) a magyar állampolgár, a magyar jog alapján létrejött jogi személy és jogi személyiséggel nem rendelkező egyéb jogalany sérelmére nem magyar állampolgár által külföldön elkövetett olyan cselekményre is, amely a magyar törvény szerint büntetendő.
 
@@ -729,7 +729,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) ha azt nemzetközi jogi kötelezettség kizárja,
 - b) ha az elkövető a bűncselekményt bűnszervezetben követte el,
-- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
+- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
 
 ### A vagyonelkobzás
 
@@ -1886,14 +1886,109 @@ kell érteni.
 
 ### Új pszichoaktív anyaggal visszaélés
 
-184. § (1) Aki új pszichoaktív anyagot
+184. § (1) Aki új pszichoaktív anyagot kínál, átad, forgalomba hoz vagy azzal kereskedik, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-- a) az ország területére behoz, onnan kivisz, vagy azon átszállít,
-- b) előállít, kínál, átad, forgalomba hoz, vagy azzal kereskedik,
+(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt
+
+- a) bűnszövetségben,
+- b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva vagy
+- c) a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében
+
+követik el.
+
+(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+
+(4) Aki csekély mennyiségű új pszichoaktív anyagot kínál vagy átad,
+
+- a) az (1) bekezdésben meghatározott esetben vétség miatt egy évig,
+- b) a (2) bekezdés b)–c) pontjában meghatározott esetben bűntett miatt három évig
+
+terjedő szabadságvesztéssel büntetendő.
+
+(5) Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+184/A. § (1) Az a tizennyolcadik életévét betöltött személy, aki
+
+- a) tizennyolcadik életévét be nem töltött személynek új pszichoaktív anyagot kínál, átad,
+- b) tizennyolcadik életévét be nem töltött személy felhasználásával új pszichoaktív anyagot forgalomba hoz vagy azzal kereskedik,
+- c) oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében új pszichoaktív anyagot
+  - ca) kínál, átad,
+  - cb) forgalomba hoz vagy azzal kereskedik,
+
+bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt
+
+- a) bűnszövetségben,
+- b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva
+
+követik el.
+
+(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+
+(4) Aki az (1) bekezdés a) pontjában vagy c) pont ca) alpontjában meghatározott bűncselekményt csekély mennyiségű új pszichoaktív anyagra követi el, három évig, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva történő elkövetés esetén egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(5) Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+184/B. § (1) Aki
+
+- a) új pszichoaktív anyagot előállít, az ország területére behoz, onnan kivisz vagy azon átszállít,
+- b) csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) E § alkalmazásában új pszichoaktív anyagon az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott fogalmat kell érteni.
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt
+
+- a) üzletszerűen,
+- b) bűnszövetségben,
+- c) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva
+
+követik el.
+
+(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+
+(4) Aki az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(5) Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés
+
+- a) az (1) bekezdés a) pontjában meghatározott esetben vétség miatt egy évig,
+- b) a (2) bekezdés a) és c) pontjában meghatározott esetben vétség miatt két évig
+
+terjedő szabadságvesztés.
+
+184/C. § (1) Az a tizennyolcadik életévét betöltött személy, aki
+
+- a) tizennyolcadik életévét be nem töltött személy felhasználásával
+  - aa) új pszichoaktív anyagot előállít, az ország területére behoz, onnan kivisz vagy azon átszállít,
+  - ab) csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,
+- b) oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében
+  - ba) új pszichoaktív anyagot előállít,
+  - bb) csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,
+
+bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt
+
+- a) bűnszövetségben,
+- b) üzletszerűen,
+- c) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva
+
+követik el.
+
+(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+
+(4) Aki az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(5) Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés
+
+- a) az (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában meghatározott esetben vétség miatt két évig,
+- b) a (2) bekezdés b) és c) pontjában meghatározott esetben bűntett miatt három évig
+
+terjedő szabadságvesztés.
+
+184/D. § (1) A 184–184/C. § alkalmazásában új pszichoaktív anyagon az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott fogalmat kell érteni.
+
+(2) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha a készítmény legfeljebb 10 gramm tömegű új pszichoaktív anyagot tartalmaz.
 
 ### Teljesítményfokozó szerrel visszaélés
 
@@ -2676,7 +2771,7 @@ okoz.
 
 (2) A 233–235. § alkalmazásában nem tekinthetők közlekedési szabályoknak a gyalogosokra és az utasokra vonatkozó rendelkezések.
 
-(3) A 236. és a 238. § alkalmazásában ittas állapotban lévő személy az, akinek a szervezetében 0,50 gramm/liter ezrelék véralkohol-, illetve 0,25 milligramm/liter ezrelék levegőalkohol-koncentrációnál nagyobb értéket eredményező szeszes ital fogyasztásából származó alkohol van.
+(3) A 236. és a 238. § alkalmazásában ittas állapotban lévő személy az, akinek a szervezetében 0,50 gramm/liter véralkohol-, illetve 0,25 milligramm/liter levegőalkohol-koncentrációnál nagyobb érték előidézésére alkalmas szeszes ital fogyasztásából származó alkohol van.
 
 ### XXIII. Fejezet — A KÖRNYEZET ÉS A TERMÉSZET ELLENI BŰNCSELEKMÉNYEK
 
@@ -2803,7 +2898,7 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 (3) Aki radioaktív anyaggal való visszaélésre irányuló előkészületet követ el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Aki az (1) bekezdés a) pontjában meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(4) Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (5) E § alkalmazásában veszélyes radioaktív anyag: a természetben előforduló vagy mesterségesen előállított anyag, amelynek egy vagy több összetevője ionizáló sugárzást bocsát ki, és amely az emberi életre és egészségre, vagy az élő és élettelen környezetre veszélyes.
 
@@ -2903,13 +2998,17 @@ követik el.
 
 (4) Nem büntethető a hírszerző tevékenységre ajánlkozás vagy vállalkozás miatt, aki – mielőtt egyéb hírszerző tevékenységet fejtett volna ki – az ajánlkozását vagy vállalkozását a hatóságnak vagy az állam illetékes szervének bejelenti, és a külföldi kapcsolatát teljesen feltárja.
 
+### Kémkedés az Európai Unió intézményei ellen
+
+261/A. § A 261. § szerint büntetendő, aki az Európai Unión kívüli harmadik állam részére az Európai Parlament, az Európai Bizottság vagy az Európai Unió Tanácsa ellen hírszerző tevékenységet folytat.
+
 ### A szövetséges fegyveres erő ellen elkövetett kémkedés
 
 262. § A 261. § szerint büntetendő, aki a kémkedést Magyarország vagy a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés szerint Magyarországgal szövetséges állam területén, szövetséges fegyveres erő ellen követi el.
 
 ### Állam elleni bűncselekmény feljelentésének elmulasztása
 
-263. § (1) Aki hitelt érdemlő tudomást szerez arról, hogy alkotmányos rend erőszakos megváltoztatása, alkotmányos rend elleni szervezkedés, lázadás, rombolás, hazaárulás, hűtlenség, az ellenség támogatása, kémkedés, szövetséges fegyveres erő ellen elkövetett kémkedés készül, vagy még le nem leplezett ilyen bűncselekményt követtek el, és erről a hatóságnak vagy az állam illetékes szervének, mihelyt teheti, nem tesz feljelentést, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+263. § (1) Aki hitelt érdemlő tudomást szerez arról, hogy alkotmányos rend erőszakos megváltoztatása, alkotmányos rend elleni szervezkedés, lázadás, rombolás, hazaárulás, hűtlenség, az ellenség támogatása, kémkedés, szövetséges fegyveres erő ellen elkövetett kémkedés, kémkedés az Európai Unió intézményei ellen készül, vagy még le nem leplezett ilyen bűncselekményt követtek el, és erről a hatóságnak vagy az állam illetékes szervének, mihelyt teheti, nem tesz feljelentést, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az állam elleni bűncselekmény feljelentésének elmulasztása miatt az elkövető hozzátartozója nem büntethető.
 
@@ -3107,7 +3206,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 283. § (1) Aki a büntetőeljárás alatt, illetve a szabadságvesztés vagy az elzárás végrehajtása során a hatóság őrizetéből megszökik, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól oly módon vonja ki magát, hogy a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet, vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet végleg elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(2) Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól oly módon vonja ki magát, hogy a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a házi őrizet szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (3) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a szabadságvesztés végrehajtása során a részére engedélyezett büntetés félbeszakítás, eltávozás, rövid tartamú eltávozás vagy kimaradás tartamának elteltével abból a célból nem tér vissza, hogy a büntetés végrehajtása alól kivonja magát.
 
@@ -3150,7 +3249,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 - a) a hatósági eljárás során elrendelt lefoglalásnál, zárlatnál vagy zár alá vételnél alkalmazott pecsétet eltávolítja vagy megsérti,
 - b) a lefoglalt, zárolt vagy zár alá vett dolog megőrzésére szolgáló, lezárt helyiséget felnyitja,
-- c) az információs rendszer útján rögzített adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
+- c) az információs rendszerben tárolt adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
 - d) a büntetőeljárás során hozzáférhetetlenné tett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
 
 vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
@@ -3900,6 +3999,12 @@ céljából az ezekre vonatkozó jogszabályi tilalom vagy korlátozás kijátsz
 
 (3) Korlátlanul enyhíthető az (1) bekezdés szerinti bűncselekmény elkövetőjének a büntetése, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
 
+### Sporteredmény tiltott befolyásolása
+
+349/A. § (1) Aki olyan megállapodást köt, aminek következtében valamely sportszövetség versenyrendszerében szervezett vagy a sportszövetség versenynaptárában egyébként szereplő verseny, mérkőzés eredménye nem a versenyszabályzatnak vagy a tisztességes játék elveinek megfelelő módon alakul ki, ha más bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
+
 ### XXXIV. Fejezet — A KÖZIGAZGATÁS RENDJE ELLENI BŰNCSELEKMÉNYEK
 
 ### A választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűncselekmény
@@ -4626,9 +4731,13 @@ terjedő szabadságvesztés.
   - ah) a topográfiaoltalom;
 - b) áru alatt értendő minden birtokba vehető forgalomképes ingó dolog és a szolgáltatás.
 
+### Magánindítvány
+
+388/A. § A szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti esetekben a 385. §-ban és a 388. §-ban meghatározott bűncselekmény csak magánindítványra büntethető, kivéve, ha azzal összefüggően nem magánindítványra büntetendő bűncselekményt is elkövetnek.
+
 ### Értelmező rendelkezés
 
-388/A. § E fejezet alkalmazásában a különös visszaesés szempontjából hasonló jellegű bűncselekmény a vagyon elleni bűncselekmény.
+388/B. § E fejezet alkalmazásában a különös visszaesés szempontjából hasonló jellegű bűncselekmény a vagyon elleni bűncselekmény.
 
 ### XXXVIII. Fejezet — A PÉNZ- ÉS BÉLYEGFORGALOM BIZTONSÁGA ELLENI BŰNCSELEKMÉNYEK
 
@@ -4811,7 +4920,7 @@ követik el.
   - ac) adómérték nélküli gáz-halmazállapotú szénhidrogén esetén a 100 000 nm3-t,
   - ad) cukorcefre esetén a 10 000 litert,
   - ae) cukor- vagy keményítőtartalmú mezőgazdasági eredetű termékből készült cefre esetén a 25 000 litert,
-  - af) vágott dohány esetén a 450 kilogrammot,
+  - af) szárított dohány, fermentált dohány vagy vágott dohány esetén az 5 kilogrammot,
 - b) a zárjegy jelentős mennyiségű, ha az 5000 darabot
 
 meghaladja.

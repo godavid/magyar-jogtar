@@ -574,7 +574,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - g) döntésre előkészíti a polgármester hatáskörébe tartozó államigazgatási ügyeket;
 - h) dönt azokban a hatósági ügyekben, amelyeket a polgármester ad át;
 - i) dönt a hatáskörébe utalt önkormányzati és önkormányzati hatósági ügyekben;
-- j) a hatáskörébe tartozó ügyekben szabályozza a kiadmányozás rendjét.
+- j) a hatáskörébe tartozó ügyekben szabályozza a kiadmányozás rendjét;
+- k) rögzíti a talált dolgok nyilvántartásába a talált idegen dologgal kapcsolatos a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti adatokat, valamint a talált idegen dolog tulajdonosnak történő átadást követően törli azokat.
 
 (4) A polgármester egyetértése szükséges – az általa meghatározott körben – a polgármesteri hivatal, a közös önkormányzati hivatal köztisztviselője, alkalmazottja kinevezéséhez, bérezéséhez, vezetői kinevezéséhez, felmentéséhez és jutalmazásához.
 
@@ -617,7 +618,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A közös önkormányzati hivatalhoz tartozó települések összlakosságszáma legalább kétezer fő, vagy a közös hivatalhoz tartozó települések száma legalább hét.
 
-(3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül állapodnak meg. Amennyiben a határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására, vagy ahhoz valamely település nem tud csatlakozni, akkor a kormányhivatal vezetője a határidő lejártát követő hónap első napjával kijelöli a közös önkormányzati hivatalhoz tartozó településeket. A kijelölés esetén is teljesülnie kell az e §-ban meghatározott feltételeknek. A kijelölésről szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a közigazgatási és munkaügyi bírósághoz fordulhat.
+(3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül állapodnak meg. A megállapodás az általános önkormányzati választásokat követő év január 1-jén lép hatályba.
+
+(3a) Amennyiben a (3) bekezdésben meghatározott határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására vagy ahhoz valamely település nem tud csatlakozni, akkor a kormányhivatal vezetője a határidő lejártát követő hónap első napjával kijelöli a közös önkormányzati hivatalhoz tartozó településeket. A kijelölést követő harminc napon belül kell megkötni a közös önkormányzati hivatalról szóló megállapodást. A kijelölés esetén is teljesülnie kell az (1)–(2a) bekezdésben meghatározott feltételeknek.
+
+(3b) A kijelölésről szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a döntés közlésétől számított harminc napon belül bírósági felülvizsgálatot kezdeményezhet. A kijelölésről szóló döntés elleni keresetindításnak nincs halasztó hatálya a végrehajtásra.
 
 (4) Abban az esetben, ha a közös önkormányzati hivatalt működtető települések egyike város, akkor a város a székhelytelepülés. Egyéb esetekben a székhelytelepülést a közös önkormányzati hivatalhoz tartozó önkormányzatok képviselő-testületei határozzák meg.
 
@@ -627,7 +632,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (7) A városi, valamint a kétezer főt meghaladó lakosságszámú települési önkormányzat képviselő-testülete nem tagadhatja meg a közös önkormányzati hivatal létrehozására irányuló megállapodás megkötését, ha azt a vele határos település kezdeményezi.
 
-(7a) A (7) bekezdésben meghatározott megállapodás megkötése a kormányhivatal vezetőjének jóváhagyásával megtagadható. A jóváhagyásról vagy annak megtagadásáról szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a Törvényszékhez fordulhat.
+(7a) A (7) bekezdésben meghatározott megállapodás megkötése a kormányhivatal vezetőjének jóváhagyásával megtagadható. A jóváhagyásról vagy annak megtagadásáról szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a döntés közlésétől számított tizenöt napon belül bírósági felülvizsgálatot kezdeményezhet.
 
 (8) A közös önkormányzati hivatal létrehozásáról szóló megállapodásban meghatározottak szerint minden érintett településen biztosítani kell az igazgatási munka folyamatos vagy időszakos ellátásához szükséges személyi és tárgyi feltételeket.
 
@@ -636,6 +641,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 (10) Ha a közös önkormányzati hivatalt létrehozni kívánó településeken élő nemzetiségeknek a népszámlálás során regisztrált aránya településenként és nemzetiségenként eléri a húsz százalékot, valamint a települések összlakosságszáma meghaladja az 1500 főt, vagy a közös hivatalhoz tartozni kívánó önkormányzatok száma legalább öt, akkor ezen települési önkormányzatok képviselő-testületei mindegyikének azonos tartalmú és minősített többséggel elfogadott döntésével, – amennyiben az érintett települések történelmi, gazdasági, kulturális hagyományai azt indokolttá teszik – a helyi önkormányzatokért felelős miniszter jóváhagyása alapján, az általa meghatározottak szerint a közös önkormányzati hivatal létrehozása során eltérhetnek a (2) bekezdésben foglalt előírásoktól.
 
 (11) A közös hivatal működési költségeit a közös hivatalhoz tartozó önkormányzatok – eltérő megállapodásuk hiányában – lakosságszámuk arányában biztosítják.
+
+(12) A (3b) vagy a (7a) bekezdés szerinti bírósági felülvizsgálat iránt indított perekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó fejezetének rendelkezéseit az e törvényben foglalt eltéréseknek megfelelően kell alkalmazni, és e perekben a közigazgatási és munkaügyi bíróság jár el.
 
 86. § (1) A közös önkormányzati hivatal jegyzője vagy aljegyzője vagy megbízottja köteles a képviselő-testület ülésén részt venni és ott a szükséges tájékoztatást megadni.
 
@@ -732,7 +739,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A területszervezési eljárás közös szabályai
 
-96. § (1) Az állami területi tagozódást érintő területszervezési kezdeményezésről az Országgyűlés, a köztársasági elnök – az országgyűlési képviselői és az önkormányzati általános választás évének kivételével – évente egy alkalommal dönt.
+96. § (1) Az állami területi tagozódást érintő területszervezési kezdeményezésről az Országgyűlés, a köztársasági elnök–az országgyűlési képviselői és az önkormányzati általános választás éve és az egyéni választókerület határának módosítását érintő területszervezési kezdeményezés esetén az országgyűlési képviselői általános választás évét megelőző év kivételével–évente egy alkalommal dönt.
 
 (2) A Kormány, valamint a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a kezdeményezést június 30-áig nyújtja be az Országgyűlésnek, és javaslatot tesz a köztársasági elnöknek. Az Országgyűlés és a köztársasági elnök a területszervezési kezdeményezésről – a várossá nyilvánítás kivételével – december 31-ig dönt.
 
@@ -854,7 +861,13 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 108. § A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.
 
-108/A. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetés mellőzhető a helyi önkormányzat tulajdonában álló nemzeti vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor.
+108/A. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
+
+- a) a helyi önkormányzat tulajdonában álló nemzeti vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
+- b) a helyi önkormányzat tulajdonában lévő nemzeti vagyon állam részére történő értékesítése vagy állammal kötött csereügylet esetén és
+- c) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén.
+
+(2) Az (1) bekezdés c) pontja esetén, ha a cserével érintett önkormányzati vagyon értéke a versenyeztetésre vonatkozó törvényben előírt értékhatárt meghaladja, az illetékes fővárosi vagy megyei kormányhivatal dönt a csereügylet jóváhagyásáról. A kormányhivatal a csereügyletet jóváhagyja, ha az egyes vagyontárgyak értékére és a szerződésben foglalt egyéb vagyoni kötelezettségvállalásra tekintettel az értékarányosság követelménye megvalósul és egyébként az ügylet megkötése az önkormányzat kötelező feladatainak ellátása vagy gazdasági érdekei szempontjából indokolt.
 
 109. § (1) A képviselő-testület a helyi önkormányzat tulajdonában lévő nemzeti vagyonra a nemzeti vagyonról szóló törvény rendelkezései szerint az önkormányzati közfeladat átadásához kapcsolódva vagyonkezelői jogot létesíthet. Vagyonkezelői jog önkormányzati lakóépületre és vegyes rendeltetésű épületre, társasházban lévő önkormányzati lakásra és nem lakás céljára szolgáló helyiségre kizárólag a helyi önkormányzat 100%-os tulajdonában álló gazdálkodó szervezettel, vagy annak 100%-os tulajdonában álló gazdálkodó szervezettel létesíthető, és kizárólag általuk gyakorolható. A vagyonkezelési szerződésnek a gazdálkodó szervezet tulajdonosi szerkezetében történő tulajdonos változás miatti megszűnésének esetére a nemzeti vagyonról szóló törvényben meghatározottak az irányadók.
 
@@ -890,6 +903,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) Amennyiben törvény másképp nem rendelkezik, a helyi önkormányzat társulásba bevitt vagyonát a társuló helyi önkormányzat vagyonaként kell nyilvántartani, a vagyonnövekmény a társult helyi önkormányzatok közös vagyona, és arra a Polgári Törvénykönyv közös tulajdonra vonatkozó szabályait kell alkalmazni.
 
+110/A. § A helyi önkormányzat állammal szemben támasztott – az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonba adásáról szóló törvény szerinti – tulajdoni igénye 2014. január 1-jétől bírósági eljárásban érvényesíthető.
+
 ### Az önkormányzat gazdálkodása
 
 111. § (1) A helyi önkormányzat költségvetése az államháztartás része. Az önkormányzati alrendszer költségvetése a központi költségvetéstől elkülönül, ahhoz központi költségvetési támogatásokkal kapcsolódik.
@@ -901,6 +916,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 (4) A költségvetési rendeletben működési hiány nem tervezhető.
 
 (5) Az állami költségvetési tervezés önkormányzatokat érintő feladatait az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter végzi.
+
+111/A. § Ha a helyi önkormányzat a költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel, nem fogadja el a költségvetési évet megelőző évre vonatkozó zárszámadását, államháztartási beszámolási kötelezettségének vagy vagyon-nyilvántartási kötelezettségének nem tesz eleget, a részére járó egyes támogatások folyósítása az államháztartásról szóló törvényben meghatározottak szerint felfüggesztésre kerül.
 
 112. § (1) A helyi önkormányzat feladataihoz igazodóan választja meg a gazdálkodás formáit, és pénzügyi előírások keretei között önállóan alakítja ki az érdekeltségi szabályokat. A helyi önkormányzat a feladatai ellátásának feltételeit saját bevételeiből, más gazdálkodó szervektől átvett bevételekből, valamint központi költségvetési támogatásból teremti meg.
 
@@ -916,7 +933,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 115. § (1) A helyi önkormányzat gazdálkodásának biztonságáért a képviselő-testület, a gazdálkodás szabályszerűségéért a polgármester felelős.
 
-(2) Ha a helyi önkormányzat a költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel, nem fogadja el a költségvetési évet megelőző évre vonatkozó zárszámadását, államháztartási beszámolási kötelezettségének vagy vagyon-nyilvántartási kötelezettségének nem tesz eleget, a költségvetés elfogadásának, a zárszámadás elfogadásának, az államháztartási beszámoló benyújtásának, valamint vagyon-nyilvántartás elkészítésének határidejét követő hónaptól a mulasztás megszüntetését követő hónapig a nettó finanszírozás keretében finanszírozott támogatásainak folyósítása felfüggesztésre kerül.
+(2)
 
 116. § (1) A képviselő-testület hosszú távú fejlesztési elképzeléseit gazdasági programban, fejlesztési tervben rögzíti, melynek elkészítéséért a helyi önkormányzat felelős.
 
@@ -1158,6 +1175,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (5) Ha a helyi önkormányzat a közigazgatási és munkaügyi bíróság által megadott határidőn belül nem tesz eleget határozathozatali kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál a mulasztás kormányhivatal által történő pótlásának az elrendelését az önkormányzat költségére.
 
+(6) A kormányhivatal kezdeményezésére a közigazgatási és munkaügyi bíróság soron kívüli eljárás keretében pótolja a kormányhivatal vezetője által kijelölt közös önkormányzati hivatalhoz tartozó települések közös önkormányzati hivatalának létrehozására vonatkozó megállapodását.
+
 ### Törvényességi felügyeleti bírság megállapítása
 
 141. § (1) A kormányhivatal a helyi önkormányzattal vagy a társulással szemben törvényességi felügyeleti bírságot állapíthat meg,
@@ -1217,9 +1236,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (4) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg:
 
-- a) a helyi önkormányzat szervezeti és működési szabályzatát;
-- b) a helyi önkormányzat költségvetését;
-- c) a helyi önkormányzat zárszámadását;
+- a)–c)
 - d) az öngondoskodás és a közösségi feladatok ellátásához való hozzájárulás, továbbá a közösségi együttélés alapvető szabályait, valamint ezek elmulasztásának jogkövetkezményeit;
 - e)
 - f)
@@ -1245,39 +1262,17 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Átmeneti rendelkezések
 
-146. § (1) Az e törvény hatálybalépése előtt kötött önkormányzati társulási megállapodásokat a képviselő-testületek felülvizsgálják és e törvény rendelkezéseinek megfelelően módosítják e törvény hatálybalépését követő hat hónapon belül.
-
-(2) A polgármesteri hivatalt és a közös önkormányzati hivatalt a 84–86. § hatálybalépését követő hatvan napon belül kell megalakítani. Amennyiben a közös önkormányzati hivatalt e határidőn belül nem alakítják meg, vagy ahhoz a települési önkormányzat nem csatlakozik, a 85. § (3) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+146. § (1)–(2)
 
 (3) A 11. § (2) bekezdés b) pontja, 90. § (2) bekezdése, 98. § (8) és (11) bekezdése alkalmazása során a költségvetési törvényben meghatározott lakosságszám az irányadó, egyéb esetekben a helyi önkormányzati képviselők és polgármesterek választásáról szóló törvényben meghatározott lakosságszámot és időpontot kell figyelembe venni.
 
 #### 146/A. §
 
-146/B. § (1) Ha a polgármesteri hivatalt fenntartó – a 85. § (1) bekezdése alapján közös önkormányzati hivatal létrehozására kötelezett – községi önkormányzat a 146. § (2) bekezdésében meghatározott határidőig nem vesz részt közös önkormányzati hivatal alakításában, a közös önkormányzati hivatal megalakításáig, de legfeljebb a közös önkormányzati hivatalhoz történő kijelölésről szóló döntésig (a továbbiakban: átmeneti időszak) tovább működteti polgármesteri hivatalát. A polgármesteri hivatalt vezető jegyző, aljegyző jogviszonya – a 146/E. § (1) bekezdésében meghatározottak szerint – a közös önkormányzati hivatal megalakulásával szűnik meg.
+#### 146/B. §
 
-(2) Ha a hivatali feladatok ellátását 2012. december 31-éig körjegyzőség biztosította és a körjegyzőség egy vagy több tagja közös önkormányzati hivatal létrehozására kötelezett, az átmeneti időszakban
+#### 146/C. §
 
-- a) a közös önkormányzati hivatal megalakításáig tovább működik a körjegyzőség, tagjai számára ellátja a hivatali teendőket a közös önkormányzati hivatalra vonatkozó szabályok szerint; a körjegyzőséget vezető körjegyző jogviszonya – a 146/E. § (1) bekezdésében meghatározottak szerint – a közös önkormányzati hivatal megalakulásával szűnik meg,
-- b) ha a megszűnő körjegyzőség tagjai közül egyes tagok polgármesteri hivatalt vagy közös önkormányzati hivatalt hoznak létre, a közös önkormányzati hivatalhoz nem csatlakozott volt körjegyzőségi tag vagy tagok számára az a polgármesteri hivatal vagy az a közös önkormányzati hivatal látja el a hivatali teendőket, amelyet a körjegyzőség korábbi székhelye alakít vagy amelyben részt vesz, ennek hiányában a c) pont szerinti közös önkormányzati hivatal,
-- c) a b) pont szerinti közös önkormányzati hivatalhoz nem csatlakozó település számára, amely a megszűnő körjegyzőség székhelye volt, az a közös hivatal biztosítja a hivatali teendőket, amelyhez a korábbi körjegyzőség tagjainak többsége (ennek hiányában a legnagyobb lakosságszámú település) csatlakozott.
-
-(3) Az (1) és (2) bekezdés szerinti feladatellátás költségeihez megállapodás alapján, ennek hiányában lakosságarányosan járulnak hozzá az érintett települési önkormányzatok.
-
-(4) E §-t kell alkalmazni az átmeneti időszakot követően a kormányhivatal vezetőjének a közös önkormányzati hivatalhoz tartozó települések kijelöléséről szóló döntésének az érintettekkel való közléséig.
-
-(5) Az átmeneti időszakban az (1) és (2) bekezdésben szabályozott feladatellátás során nem kell a járások területi lehatárolására tekintettel lenni.
-
-(6) A 85. § (1) és (2) bekezdése alkalmazásakor a közös önkormányzati hivatal létrehozása során figyelembe veendő lakosságszámot a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által nyilvántartott 2011. január 1-jei, vagy 2012. január 1-jei lakosságszám alapján is meg lehet állapítani, ha az érintett önkormányzat megítélése szerint az kedvezőbb a település számára.
-
-146/C. § (1) A polgármesteri hivatalt működtető önkormányzat polgármestere dönthet arról, hogy a polgármesteri hivatal jegyzőjét, aljegyzőjét – annak egyetértésével – pályázat kiírása nélkül tovább foglalkoztatja, illetve a megszűnő körjegyzőség – amelynek korábban tagja volt – körjegyzőjét a polgármesteri hivatal jegyzőjeként, aljegyzőjeként foglalkoztatja. Ebben az esetben a jegyző, aljegyző közszolgálati jogviszonya folyamatosnak minősül.
-
-(2) A közös önkormányzati hivatalt alkotó önkormányzatok polgármesterei a 83. § b) pontjának megfelelő alkalmazásával megállapodhatnak abban, hogy a megszűnő körjegyzőség körjegyzőjét, polgármesteri hivatal jegyzőjét, aljegyzőjét – annak egyetértésével – a közös önkormányzati hivatal jegyzőjeként, aljegyzőjeként foglalkoztatják. Ebben az esetben nem szükséges pályázatot kiírni és a jegyző, aljegyző közszolgálati jogviszonya folyamatosnak minősül.
-
-(3) A polgármesteri hivatalt működtető önkormányzat, közös önkormányzati hivatalt alkotó önkormányzatok jegyzője – az e törvényben meghatározottak figyelembevételével – dönthet arról, hogy a megszűnő polgármesteri hivatalban, körjegyzőségben közszolgálati jogviszonyban állókat a polgármesteri hivatalban, a közös önkormányzati hivatalban tovább foglakoztatja. Ebben az esetben a közszolgálati jogviszony folyamatosnak minősül.
-
-146/D. § (1) 2012. december 31-én megszűnik – a 146/B. § (1) bekezdésében foglalt kivétellel – az a polgármesteri hivatal, amelynek fenntartására a települési önkormányzat a 85. § (1) bekezdése alapján nem jogosult. A polgármesteri hivatalt vezető jegyző, aljegyző jogviszonya a 146/E. § (1) bekezdésében foglaltak alapján a polgármesteri hivatal megszűnésével szűnik meg. A megszűnő polgármesteri hivatal jogutódja – ide nem értve a munkajogi jogutódlást – az a közös önkormányzati hivatal, amelynek létrehozásában a települési önkormányzat részt vesz, vagy amelyhez csatlakozik.
-
-(2) A körjegyzőség, továbbá a körjegyzőséget vezető körjegyző jogviszonya – a 146/B. § (2) bekezdés a) pontjában foglalt kivétellel – 2012. december 31-én a 146/E. § (1) bekezdésében foglaltak alapján megszűnik. A körjegyzőség jogutódja – ide nem értve a munkajogi jogutódlást – az érintett települési önkormányzat által létrehozott polgármesteri hivatal, vagy az a közös önkormányzati hivatal, amelynek létrehozásában a korábbi körjegyzőségi tag települési önkormányzat részt vesz, vagy amelyhez csatlakozik.
+#### 146/D. §
 
 146/E. § (1) A polgármesteri hivatal, vagy körjegyzőség a 146/B. § (1) bekezdése, (2) bekezdés a) pontja, valamint a 146/D. § alapján történő megszűnése olyan átszervezésnek minősül, amely alapján a jegyző (körjegyző), valamint a közszolgálati jogviszonyban állók jogviszonya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 63. § (1) bekezdés c) pontja alapján felmentéssel szüntethető meg.
 
