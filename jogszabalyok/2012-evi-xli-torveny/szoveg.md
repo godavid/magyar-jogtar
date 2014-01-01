@@ -642,7 +642,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 - e) a helyi és az elővárosi személyszállítási közszolgáltatások esetén időalapú hozzáférést biztosító jegyrendszer is működhessen,
 - f) az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében az egyes szolgáltatók közötti átjárhatóság megvalósulhasson az utazási okmányok, valamint a bérletek kölcsönös elfogadása és a felek közötti tételes pénzügyi elszámolás révén,
 - g) az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten díjövezeti, indulási és érkezési állomási – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén, valamint
-- h)
+- h) a helyi személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén.
 
 (2) Az országos személyszállítási közszolgáltatást, regionális személyszállítási közszolgáltatást vagy elővárosi személyszállítási közszolgáltatást végző közlekedési szolgáltató köteles más közlekedési szolgáltatók által vagy egyéb értékesítési helyen értékesített, a társaság járataira szóló jegyet, bérletet elfogadni és ennek elszámolásáról, illetve ellentételezéséről írásban megállapodni.
 
@@ -706,7 +706,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (6) Az ellátásért felelős a közszolgáltatási szerződésben foglaltak teljesítésének biztosítékaként a közszolgáltatási szerződésben kötbér kikötésére, valamint a hibás teljesítéshez kapcsolódó egyéb pénzügyi természetű szankció rögzítésére köteles.
 
-(7)
+(7) A közlekedési szolgáltató – illetve abban az esetben, ha a bevételeket a közlekedésszervező szedi be, a közlekedésszervező – olyan elektronikus alapú jegy- és bérlet-ellenőrzési rendszert alakít ki és működtet, amely lehetővé teszi az ellenőrzött jegyek és bérletek számának járat és vonali, valamint indulási és érkezési állomás szerinti kimutatását.
 
 ## HARMADIK RÉSZ — A SZEMÉLYSZÁLLÍTÁSI KÖZSZOLGÁLTATÁSHOZ KAPCSOLÓDÓ EGYÉB RENDELKEZÉSEK ÉS AZ ENGEDÉLYKÖTELES MENETREND SZERINTI SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁSRA VONATKOZÓ SZABÁLYOK
 

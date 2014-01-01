@@ -14,7 +14,7 @@ az ügyészségről
 - b) felügyel arra, hogy a nyomozó hatóság az önállóan végzett nyomozást a törvény rendelkezéseit megtartva végezze (nyomozás feletti felügyelet);
 - c) törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben;
 - d) közvádlóként gyakorolja a vádemelés közhatalmi jogkörét; a bírósági eljárásban képviseli a vádat, továbbá gyakorolja a büntetőeljárási törvényben számára biztosított jogorvoslati jogokat;
-- e) törvényességi felügyeletet lát el a büntetések, a mellékbüntetések, az intézkedések, a személyi szabadságot elvonó és azt korlátozó eljárási kényszerintézkedések, az utógondozás, valamint a bűnügyi, a szabálysértési és a körözési nyilvántartás végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, továbbá közreműködik a büntetés-végrehajtási bíró eljárásában;
+- e) törvényességi felügyeletet lát el a büntetések, a mellékbüntetések, az intézkedések, a személyi szabadságot elvonó és azt korlátozó eljárási kényszerintézkedések, az utógondozás, valamint a bűnügyi, a szabálysértési, a körözési nyilvántartás és a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, továbbá közreműködik a büntetés-végrehajtási bíró eljárásában;
 - f) közreműködik abban, hogy a bírósági eljárásban a törvényeket helyesen alkalmazzák (az ügyész részvétele a bíróságok polgári, munkaügyi, közigazgatási és gazdasági jogi peres és nemperes eljárásaiban);
 - g) elősegíti, hogy a hatósági jogkört gyakorló, illetve bíróságon kívüli jogvitát intéző szervek a jogszabályok rendelkezéseit megtartsák;
 - h) kiemelt figyelmet fordít a kiskorúak által és sérelmükre elkövetett bűncselekmények üldözésére, a fiatalkorúak ellen indult szabálysértési és büntetőeljárás különös szabályainak betartására; törvényben meghatározott esetekben közreműködik a kiskorúak jogainak érvényre juttatásában és eljárást kezdeményez a szükséges gyermekvédelmi intézkedések megtétele érdekében;
@@ -92,7 +92,7 @@ az ügyészségről
 
 (4) A legfőbb ügyészi utasítást az ügyészség hivatalos lapjában, az Ügyészségi Közlönyben, valamint a Hivatalos Értesítőben közzé kell tenni.
 
-9. § (1) A Legfőbb Ügyészség önállóan működő és gazdálkodó központi költségvetési szerv; jogi személy.
+9. § (1) A Legfőbb Ügyészség központi költségvetési szerv; jogi személy.
 
 (2) A Legfőbb Ügyészséget a legfőbb ügyész, a fellebbviteli főügyészséget fellebbviteli főügyész, a főügyészséget főügyész, a járási és a járási szintű (a továbbiakban együtt: járási) ügyészséget vezető ügyész vezeti.
 
@@ -228,7 +228,7 @@ tekintetében.
 
 #### 3. A törvényekben meghatározott joghátrányok végrehajtása törvényességének felügyelete
 
-22. § (1) Az ügyész az e címben foglalt felügyeleti tevékenysége során bármely időpontban és helyen ellenőrizheti a törvényekben meghatározott joghátrányok és jogkorlátozások végrehajtásának, a fogvatartottakkal való bánásmódnak a törvényességét, a végrehajtás alatt állók jogvédelmére vonatkozó rendelkezések érvényesülését. E rendelkezés megfelelő alkalmazásával jár el az utógondozás, a bűnügyi, a szabálysértési és a körözési nyilvántartás vonatkozásában is.
+22. § (1) Az ügyész az e címben foglalt felügyeleti tevékenysége során bármely időpontban és helyen ellenőrizheti a törvényekben meghatározott joghátrányok és jogkorlátozások végrehajtásának, a fogvatartottakkal való bánásmódnak a törvényességét, a végrehajtás alatt állók jogvédelmére vonatkozó rendelkezések érvényesülését. E rendelkezés megfelelő alkalmazásával jár el az utógondozás, a bűnügyi, a szabálysértési és a körözési nyilvántartás, valamint a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának vonatkozásában is.
 
 (2) Az (1) bekezdés szerinti ellenőrzéssel érintett – személyi szabadságot kizáró vagy korlátozó, illetve más jogot korlátozó joghátrányokat végrehajtó – szerv vezetője köteles az ügyésznek a törvények megtartására és a fogva tartás körülményeire vonatkozó rendelkezését teljesíteni. E szerv vezetője az ügyészi rendelkezésben foglalt utasítás ellen felettes szerve útján – 15 napon belül – előterjesztést tehet a felettes ügyészhez, amelynek nincs halasztó hatálya.
 

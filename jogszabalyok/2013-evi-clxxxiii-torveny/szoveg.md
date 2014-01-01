@@ -4,7 +4,13 @@ egyes törvények fogyasztóvédelmi célú módosításáról
 
 1. §
 
-2. §
+2. § Az Fgytv. 16/B. §-a helyébe a következő rendelkezés lép:
+
+„16/B. § (1) Tilos fogyasztói csoportot létrehozni.
+
+(2) Az (1) bekezdésben foglalt tilalom megsértésével vagy megkerülésével kötött szerződés semmis.
+
+(3) Tilos fogyasztói csoportba fogyasztókat nyilvános felhívás útján gyűjteni. A 2012. január 1-je előtt létrehozott fogyasztói csoportba új fogyasztó kizárólag a – szerződés felmondással történő megszüntetése következtében – kieső fogyasztó helyére vehető fel.”
 
 3. §
 
@@ -20,19 +26,37 @@ egyes törvények fogyasztóvédelmi célú módosításáról
 
 13. §
 
-14. § (1)
+14. § (1) Az Fgytv. 57. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].”
 
 (2)
 
-15. §
+15. § Az Fgytv. a következő 58. §-sal egészül ki:
+
+„58. § A 16/B. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.”
 
 16. § (1)
 
-(2)
+(2) Az Étv. 59. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint)
+
+„b) a Nyilvántartás működtetéséről, fenntartásáról és fejlesztéséről, valamint a fenntartást biztosító, a Nyilvántartás elektronikus alkalmazásai jogszabályban előírt kötelező használatának – a rendszerhasználattal arányos díj ellenében történő – biztosításáról,”
+
+(az országos illetékességű – a személyes adatok kezelése tekintetében adatfeldolgozóként kijelölt – Dokumentációs Központ útján gondoskodik.)
 
 (3)
 
-(4)
+(4) Az Étv. 62. § (1) bekezdés 9. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány arra, hogy)
+
+„9. a Nyilvántartás működésének feltételeit, az adatszolgáltatás, az elektronikus ügyintézés rendjét, a Nyilvántartás használatához kapcsolódó, önköltségszámításon alapuló rendszerhasználati díjat, valamint az adatkezelésben részt vevők feladatait és felelősségét,”
+
+(rendelettel állapítsa meg.)
 
 17–19. §
 
@@ -104,17 +128,9 @@ lép.
 
 (5) A 4. § 2014. február 1-jén lép hatályba.
 
-25. § (1) E törvény hatálybalépésével a pénzügyi jogok biztosa által hivatalból indított eljárások lezártnak tekintendők.
+25. §
 
-(2) A pénzügyi jogok biztosa által e törvény hatálybalépéséig le nem zárt eljárások alapjául szolgáló beadványokat a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter az e törvény hatálybalépését követő harminc napon belül megvizsgálja, és
-
-- a) átteszi a hatáskörrel és illetékességgel rendelkező hatóságnak,
-- b) megteszi a hatáskörébe tartozó intézkedéseket, vagy
-- c) az eljárást lezárja,
-
-és erről a kérelmezőt értesíti.
-
-26. §
+26. § Hatályát veszti a 25. §.
 
 27. § (1) E törvény
 

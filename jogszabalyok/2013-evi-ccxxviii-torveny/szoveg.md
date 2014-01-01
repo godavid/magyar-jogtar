@@ -28,11 +28,31 @@ egyes klímapolitikai és közlekedési tárgyú törvények módosításáról
 
 25. §
 
-26. §
+26. § Az Udt. a következő 8/A–8/B. §-sal egészül ki:
+
+„8/A. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneiből eredő fizetési kötelezettsége 100%-ának teljesítéséért.
+
+(2) Az (1) bekezdés szerinti állami készfizető kezesség év végi állományát a költségvetési törvényben kell meghatározni.
+
+(3) A KAVOSZ Vállalkozásfejlesztési Zrt. (1) bekezdés szerinti hitelszerződése biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles.
+
+8/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára használati díj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökből eredő fizetési kötelezettség 80%-ának teljesítéséért.
+
+(2) Az (1) bekezdés szerinti állami készfizető kezesség csak a használati díj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
+
+(3) Az (1) bekezdés szerinti állami készfizető kezesség együttes év végi állományát a költségvetési törvényben kell meghatározni.
+
+(4) A KAVOSZ Vállalkozásfejlesztési Zrt. az (1) bekezdés szerinti kölcsönök biztosítékaként az állami készfizető kezességvállaláson túl további biztosíték előírására nem köteles.
+
+(5) A KAVOSZ Vállalkozásfejlesztési Zrt. által az (1) bekezdés szerinti hitelszerződéshez előírt, a szerződött hitelösszeg 20%-át és a hitelszerződés aláírásakor érvényes 3 havi ügyleti kamat együttes összegét meg nem haladó mértékű biztosítékok az (1) bekezdés szerinti állami készfizető kezesség beváltása esetén nem szállnak át az államra.”
 
 27–28. §
 
-29. §
+29. § Az Udt. 28. § (1) bekezdése a következő r) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.”
 
 30. §
 
@@ -44,7 +64,7 @@ egyes klímapolitikai és közlekedési tárgyú törvények módosításáról
 
 (3) A 3. § és a 6. § (3) bekezdése 2014. május 1. napján lép hatályba.
 
-(4)
+(4) Hatályát veszti a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 44/B. §-a, 44/C. §-a, valamint 77. § (1) bekezdés g) pontja.
 
 32. § Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt –
 

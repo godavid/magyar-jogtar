@@ -462,7 +462,9 @@ jogszabályok előkészítésében.
 - a) a munkabérek folyósításának kivételével az előirányzat-felhasználási keret zárolása,
 - b) az államháztartás valamelyik alrendszeréből nyújtott támogatások folyósításának felfüggesztése,
 - c) a személyi jövedelemadó 1%-ából történő felajánlásokból való részesedés lehetőségének felfüggesztése,
-- d) bűncselekmény elkövetésének gyanúja esetén az ellenőrzött szervezet tulajdonában vagy kezelésében lévő, az államháztartási vagyon körébe tartozó vagyonelem tekintetében biztosítási intézkedés elrendelése érdekében.
+- d) bűncselekmény elkövetésének gyanúja esetén az ellenőrzött szervezet tulajdonában vagy kezelésében lévő, az államháztartási vagyon körébe tartozó vagyonelem tekintetében zár alá vétel elrendelése
+
+érdekében.
 
 (2) Az (1) bekezdésben meghatározott esetekben a megkeresett hatóság köteles a szükséges intézkedéseket megtenni, és erről az Állami Számvevőszék elnökét tizenöt napon belül írásban értesíteni.
 

@@ -22,7 +22,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 8. büntetés-végrehajtási feladatokat lát el,
 - 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a veszélyhelyzet és a váratlan támadás esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
 - 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat,
-- 11. ellenőrzi az államhatáron áthaladó személy- és járműforgalmat, a szállítmányokat – ide nem értve a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendeletben meghatározott vámellenőrzést –, valamint végzi a határátléptetést, továbbá biztosítja a határátkelőhelyek rendjét,
+- 11. ellenőrzi az államhatáron áthaladó személy- és járműforgalmat, a szállítmányokat – ide nem értve a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendeletben meghatározott vámellenőrzést –, valamint végzi a határátléptetést, továbbá biztosítja a határátkelőhelyek rendjét, valamint végzi a közúti határátkelőhelyek üzemeltetését, és a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását,
 - 12. irányítja a határesemények kivizsgálásával megbízott magyar szervek tevékenységét, felügyeli az államhatár felmérésével, megjelölésével, a határjelek felújításával kapcsolatos munkák végzését,
 - 13. megteszi az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedéseket, továbbá elhárítja az államhatár rendje ellen irányuló erőszakos cselekményeket,
 - 14. elvégzi az e törvényben meghatározott belső bűnmegelőzési és bűnfelderítési célú ellenőrzést,
@@ -614,7 +614,7 @@ nem minősülő egyéb helyen
 - d) rendkívüli vagy tisztázatlan okból bekövetkezett halálesettel kapcsolatos intézkedés megtételére;
 - e) végrehajtási eljárás lefolytatása, illetve az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről szóló törvényben meghatározott szakértői vizsgálat biztonságos és eredményes végrehajtásának biztosítása céljából, ha az abban való közreműködés – jogszabály alapján – a rendőrség számára kötelező;
 - f) az elővezetés végrehajtása érdekében;
-- g)
+- g) a büntetőeljárásról szóló törvényben meghatározott, a terhelt mozgását nyomon követő technikai eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.
 - h) a szabálysértést felszólítás ellenére folytató személy előállítása céljából;
 - i) személy- és létesítménybiztosítási intézkedés [46. § (1) bekezdés c) pont] végrehajtására;
 - j) ha az előállítás a törvényben meghatározott egyéb okból szükséges.
@@ -1166,7 +1166,7 @@ felderítése során.
 
 (6) Az (1) bekezdés c) pontjában foglaltak teljesítéséhez a távközlési, illetőleg postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
 
-(7) Az (1) bekezdés a)—b) pontjának alkalmazása során magánlakásnak minősül — a 97. § (1) bekezdés c) pontján túl — a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület is. Az (1) bekezdés b) pontjának a 7/A. § (1) bekezdésében meghatározott megbízhatósági vizsgálat keretében történő alkalmazása során nem minősül magánlakásnak a védett állomány tagját foglalkoztató szerv hivatali helyisége, gépjárműve, továbbá a megbízhatósági vizsgálat végrehajtása során létrehozott mesterséges helyszín.
+(7) Az (1) bekezdés a)–b) pontjának alkalmazása során magánlakásnak minősül – a 97. § (1) bekezdés c) pontján túl – a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület, továbbá – a közösségi közlekedési eszköz kivételével – a jármű is. Az (1) bekezdés b) pontjának a 7/A. § (1) bekezdésében meghatározott megbízhatósági vizsgálat keretében történő alkalmazása során nem minősül magánlakásnak a védett állomány tagját foglalkoztató szerv hivatali helyisége, gépjárműve, továbbá a megbízhatósági vizsgálat végrehajtása során létrehozott mesterséges helyszín.
 
 70. § (1) A különleges eszköz alkalmazása iránti kérelmet a rendőrség hatáskörrel és illetékességgel rendelkező felderítő szervének vagy nyomozó hatóságának vezetője (a továbbiakban: nyomozó hatóság) terjeszti elő.
 
@@ -1221,6 +1221,7 @@ felderítése során.
 - b) rendészeti és határrendészeti feladatainak ellátásához szükséges személyes adatokat,
 - c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes adatait,
 - d) a segélyhívások fogadása keretében megismert személyes adatokat,
+- e) a körözési eljárás lefolytatásához szükséges adatokat
 
 kezeli.
 
@@ -1400,9 +1401,9 @@ adatok köre
 
 91/B. § A rendőrségi adatkezelő szerv vezetője a 91/A. § (1) bekezdés e)–h) pontjában meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett személy tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jogának gyakorlását – írásban, a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulás lehetőségére vonatkozó tájékoztatást is tartalmazó indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a rendőrség bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 19. §-ában foglalt rendelkezés mellett e §-ra kell hivatkozni. A tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogainak gyakorlását.
 
-91/C. § (1) A rendőrség bűnüldözési célból jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
+91/C. § (1) A rendőrség bűnüldözési célból és körözési eljárás során jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
 
-(2) A rendőrség a bűnüldözési feladatai ellátása céljából – személy- és tárgykörözés során, illetőleg lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésének engedélyezése esetén, továbbá nemzetközi kötelezettségvállalás alapján – jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
+(2) A rendőrség a bűnüldözési feladatai ellátása céljából – körözési eljárás során, illetőleg lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésének engedélyezése esetén, továbbá nemzetközi kötelezettségvállalás alapján – jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartása,
 - b) az országos gépjármű- és gépjárművezetői nyilvántartás,
@@ -1511,7 +1512,7 @@ részére.
 91/K. § (1) A rendőrség a határforgalom ellenőrzése során, az államhatáron átlépő harmadik ország állampolgárai által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait összeveti az alábbi nyilvántartások adataival:
 
 - a) beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
-- b) körözési információs rendszer,
+- b) körözési nyilvántartási rendszer,
 - c) kényszerintézkedés hatálya alatt állók nyilvántartása,
 - d) útiokmány-nyilvántartás,
 - e) személyiadat- és lakcímnyilvántartás,
@@ -1568,7 +1569,7 @@ részére.
 
 - a) a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
 - b) a vízumnyilvántartás,
-- c) a körözési információs rendszer, valamint
+- c) a körözési nyilvántartási rendszer, valamint
 - d) a Schengeni Információs Rendszer.
 
 (2) A technikai másolatot elektronikus úton folyamatosan frissíteni kell, a technikai másolat alapján állandó adatállomány nem hozható létre.
@@ -1594,7 +1595,7 @@ részére.
 - a) a nukleáris, a radioaktív anyag, az ionizáló sugárzást létrehozó berendezés, a kábítószer, a pszichotróp anyag, a kábítószer-prekurzor, a polgári felhasználású robbanóanyag, a pirotechnikai termék (a továbbiakban együtt: közbiztonságra veszélyes anyag és eszköz) gyártására, kereskedelmére, az ország területére történő behozatalára, kivitelére, átszállítására, megszerzésére, felhasználására, tárolására, szállítására, a haditechnikai termékek gyártására és a kapcsolódó szolgáltatásokra vonatkozó engedéllyel rendelkezők, ezzel kapcsolatban bejelentést tevők adatait, a nukleáris létesítményekben foglalkoztatott személyek személyazonosító és lakcímadatait, értesítési címét, a közbiztonságra veszélyes anyaggal és eszközzel tevékenységet végző személyek személyazonosító és lakcímadatait, értesítési címét az engedélyben, valamint a bejelentésben szereplő, a közbiztonságra veszélyes anyag és eszköz gyártó és tároló helyét, továbbá a gyártási engedéllyel rendelkezők adatait, valamint az engedély kiadásának, illetőleg visszavonásának feltételeit igazoló adatokat a határozatban szereplő jogosultság megszűnésétől számított tíz évig,
 - b) a pártfogó felügyelet alatt állók és a bíróság által kitiltottak adatait, továbbá a foglalkozástól, a járművezetéstől eltiltottak adatait azokban az esetekben, amikor a foglalkozás gyakorlásához szükséges engedély kiadása a rendőrség hatáskörébe tartozik öt évig, illetőleg ezek hatályának lejártáig,
 - c) külön jogszabályban meghatározottak szerint a rendőrség által kiadott engedély alapján, illetve a rendőrség hatósági ellenőrzési jogkörébe tartozó tevékenységet folytató személyek azonosításához szükséges, továbbá az engedély tárgyával, illetve az ellenőrizendő tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve visszavonásától számított tíz évig, illetőleg a külön jogszabályban meghatározott ideig,
-- d) az ismeretlen holttestek és a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,
+- d) a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,
 - e) a szakhatósági és engedélyezési nyilvántartási rendszerben a kiadott engedély és szakhatósági hozzájárulás alapján az engedéllyel és szakhatósági hozzájárulással érintett személy személyazonosító és lakcímadatát, értesítési címét, továbbá az engedély tárgyával, illetve a szakhatósági hozzájárulással folytatott tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve a visszavonástól számított két évig,
 - f) a hozzátartozók közötti erőszak alapján hozott ideiglenes megelőző távoltartó határozattal érintett személyek természetes személyazonosító adatait, lakcímadatait, értesítési címét, a hozzátartozók közötti erőszakot megvalósító cselekmény jellemzőit, a hozzátartozók közötti erőszak megállapítását igazoló adatokat, az erre utaló bizonyítékokat, eszközöket az ideiglenes megelőző távoltartó határozat hatályának megszűnésétől számított egy évig.
 
@@ -1743,7 +1744,7 @@ bírálja el.
 - g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,
 - h) a különleges eszközök és módszerek engedélyezésével, igénybevételével kapcsolatos szabályokat,
 - i) az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények körét,
-- j) az eltűnt személyek felkutatásának, illetőleg a rendkívüli halálesetek kivizsgálásának rendjét,
+- j)
 - k) a rendőrség feladatai ellátásának rendjét a fontosabb közúti, vasút, vízi- és légiszállításokkal kapcsolatban, valamint a rendőrség légi közlekedésrendészeti és repülésbiztonsági, repülésvédelmi feladatait,
 - l) a belföldi állami futárszolgálat tevékenységét,
 - m) a kényszerítő eszközök típusát, fajtáját,

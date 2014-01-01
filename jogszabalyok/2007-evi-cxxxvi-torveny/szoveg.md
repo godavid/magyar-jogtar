@@ -33,7 +33,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) Nem tartozik e törvény hatálya alá
 
-- a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklet I. Fejezet 12.2. pontjában meghatározott ügynöki tevékenység;
+- a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott ügynöki tevékenység;
 - b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 33. § (4) bekezdésében meghatározott függő biztosításközvetítő;
 - c) a Bit. 33. § (4) bekezdésében meghatározott független biztosításközvetítő a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
 - d) a biztosító, amennyiben kizárólag a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó és 2. számú melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében.
@@ -262,7 +262,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 - a) a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén, ha az éves biztosítási díj nem haladja meg a kettőszázhatvanezer forintot, vagy ha az egyszeri biztosítási díj nem haladja meg a hatszázötvenezer forintot;
 - b) az olyan nyugdíjbiztosításokra, amelyeknél a biztosítási szerződés nem vásárolható vissza, illetve a biztosító szolgáltatására jogosult személyt megillető összeg hitel vagy kölcsön fedezeteként nem fogadható el;
-- c) a Hpt. 2. számú melléklet I. fejezet 5.2. pontjában meghatározott elektronikus pénz esetén, ha az elektronikus pénz kibocsátója által az elektronikuspénz-birtokos részére kibocsátott összeg: 1. a nem újra feltölthető elektronikus pénzen nem haladja meg a hatvanötezer forintot; 2. az adott naptári évben az újra feltölthető elektronikus pénzen nem haladja meg a hatszázötvenezer forintot, kivéve ha az elektronikus pénz kibocsátója az elektronikuspénz-birtokos kérésére az adott naptári évben legalább kettőszázhatvanezer forint értékben elektronikus pénzt vált vissza.
+- c) a Hpt. 6. § (1) bekezdésében meghatározott elektronikus pénz esetén, ha az elektronikus pénz kibocsátója által az elektronikuspénz-birtokos részére kibocsátott összeg: 1. a nem újra feltölthető elektronikus pénzen nem haladja meg a hatvanötezer forintot; 2. az adott naptári évben az újra feltölthető elektronikus pénzen nem haladja meg a hatszázötvenezer forintot, kivéve ha az elektronikus pénz kibocsátója az elektronikuspénz-birtokos kérésére az adott naptári évben legalább kettőszázhatvanezer forint értékben elektronikus pénzt vált vissza.
 
 (2) Ha a biztosítóval szerződő egy életbiztosítási szerződés keretében több személy mint biztosított javára köt életbiztosítást (csoportos biztosítási szerződés), a biztosító ilyen esetben csak a szerződő vonatkozásában köteles az ügyfél-átvilágítási intézkedéseket elvégezni.
 
@@ -704,7 +704,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (3) E törvény hatálybalépése után megalakuló, az 1. § (1) bekezdésének a)–e), i) és l) pontjában meghatározott tevékenységet folytató szolgáltató tevékenységének engedélyezéséhez a külön törvényekben megállapított feltételek mellett szükséges az is, hogy szabályzatát az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából az engedélykérelemmel együtt benyújtsa.
 
-(4) E törvény hatálybalépését követően az 1. § (1) bekezdésének a) pontjában meghatározott tevékenységet a Hpt. 2. számú melléklet I. Fejezet 9. pontjának g) alpontja szerinti pénzforgalmi szolgáltatás végzésével megkezdő szolgáltató, valamint az 1. § (1) bekezdésének f)–h), j) és m) pontjában meghatározott tevékenységet megkezdő szolgáltató tevékenysége megkezdését követő kilencven napon belül köteles szabályzatot készíteni és azt az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából benyújtani.
+(4) E törvény hatálybalépését követően az 1. § (1) bekezdésének a) pontjában meghatározott tevékenységet a Hpt. 6. § (1) bekezdése szerinti pénzforgalmi szolgáltatás végzésével megkezdő szolgáltató, valamint az 1. § (1) bekezdésének f)–h), j) és m) pontjában meghatározott tevékenységet megkezdő szolgáltató tevékenysége megkezdését követő kilencven napon belül köteles szabályzatot készíteni és azt az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából benyújtani.
 
 (5) A Magyar Ügyvédi Kamara az egyéni ügyvédekre és az egyszemélyes irodákra vonatkozóan, a Magyar Országos Közjegyzői Kamara a közjegyzőkre vonatkozóan e törvény hatálybalépésétől számított 90 napon belül készíti el a szabályzatot.
 

@@ -46,7 +46,12 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 (2) Az (1) bekezdés nem alkalmazható, ha a kibocsátó tagállam jogával összhangban
 
 - a) a keresett személyt megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra, vagy arról más módon hivatalos tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
-- b) a keresett személy által meghatalmazott vagy számára kirendelt védő a keresett személy érdekében a tárgyaláson eljárt,
+- b) a kitűzött tárgyalás ismeretében a keresett személy a tárgyaláson való képviseletére
+  - ba) védőt hatalmazott meg vagy
+  - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,
+
+és a meghatalmazott vagy a kirendelt védő a keresett személy érdekében a tárgyaláson eljárt,
+
 - c) a határozat kézbesítése megtörtént, a keresett személy tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
 - d) a határozatot nem kézbesítették a keresett személynek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
 
@@ -847,7 +852,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 98. § (1) A biztosítási intézkedést elrendelő tagállami határozat végrehajtása elhalasztható, ha e határozat alapjául szolgáló cselekmény miatt vagy azzal összefüggésben Magyarország területén büntetőeljárás van folyamatban, és e büntetőeljárás sikerét a tagállami határozat végrehajtása jelentősen veszélyeztetné.
 
-(2) Ha a biztosítási intézkedést elrendelő tagállami határozattal érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont Magyarország területén már lefoglalták, zár alá vették, valamint ha a vagyonelkobzás alá eső vagyon biztosítási intézkedés hatálya alatt áll, illetve a bizonyítási eszköz megőrzése érdekében számítástechnikai rendszer útján rögzített adatok megőrzését rendelték el, a tagállami határozatot akkor kell végrehajtani, ha a kényszerintézkedést megszüntették, illetve feloldották.
+(2) Ha a biztosítási intézkedést elrendelő tagállami határozattal érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont Magyarország területén már lefoglalták, zár alá vették, illetve a bizonyítási eszköz megőrzése érdekében információs rendszerben tárolt adatok megőrzését rendelték el, a tagállami határozatot akkor kell végrehajtani, ha a kényszerintézkedést megszüntették, illetve feloldották.
 
 (3) Az (1) bekezdésben meghatározott esetben, a magyar büntetőeljárásban elrendelt kényszerintézkedés megszüntetéséről, illetve feloldásáról szóló határozatot mindaddig nem lehet végrehajtani, amíg a biztosítási intézkedést elrendelő tagállami határozat végrehajtása érdekében a kényszerintézkedés fenntartására szükség van.
 
@@ -864,7 +869,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (2) A biztosítási intézkedést elrendelő tagállami határozat végrehajtásáról a magyar igazságügyi hatóság a tagállami igazságügyi hatóságot írásban, posta, telefax vagy számítástechnikai rendszer útján értesíti. A számítástechnikai rendszer útján továbbított iratot minősített elektronikus aláírással kell ellátni.
 
-(3) Egyebekben az e fejezetben foglalt határozatok végrehajtása során a lefoglalásra, a számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezésre, a zár alá vételre, illetve a biztosítási intézkedésre vonatkozó eljárási és végrehajtási szabályokat kell megfelelően alkalmazni.
+(3) Egyebekben az e fejezetben foglalt határozatok végrehajtása során a lefoglalásra, az információs rendszerben tárolt adatok megőrzésére kötelezésre, illetve a zár alá vételre vonatkozó eljárási és végrehajtási szabályokat kell megfelelően alkalmazni.
 
 100. § (1) Ha a Be. szabályai alapján a magyar igazságügyi hatóság a kényszerintézkedés megszüntetését tartja szükségesnek, erről a tagállami igazságügyi hatóságot értesíti, és a kényszerintézkedés megszüntetése előtt megfelelő határidőt állapít meg a tagállami igazságügyi hatóságnak annak érdekében, hogy észrevételt tegyen.
 
@@ -872,7 +877,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 #### 41. A végrehajtás átadása
 
-101. § (1) Ha a büntetőeljárás során lefoglalás, zár alá vétel, biztosítási intézkedés vagy számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés elrendelése, illetve alkalmazása válik szükségessé, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon egy másik tagállam területén található, a magyar igazságügyi hatóság a kényszerintézkedést elrendelő határozattal egyidejűleg kitölti a 7. számú melléklet szerinti tanúsítványt.
+101. § (1) Ha a büntetőeljárás során lefoglalás, zár alá vétel vagy információs rendszerben tárolt adatok megőrzésére kötelezés elrendelése, illetve alkalmazása válik szükségessé, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon egy másik tagállam területén található, a magyar igazságügyi hatóság a kényszerintézkedést elrendelő határozattal egyidejűleg kitölti a 7. számú melléklet szerinti tanúsítványt.
 
 (2) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani annak a tagállamnak a hivatalos nyelvére vagy hivatalos nyelveinek egyikére, amelynek területén a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon található (végrehajtó tagállam). A magyar igazságügyi hatóság a lefordított határozatot és tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező igazságügyi hatósága számára közvetlenül küldi meg.
 
@@ -881,7 +886,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 - a) a lefoglalni kért bizonyítási eszköz átadása iránti kérelmet a magyar igazságügyi hatóság részére, vagy
 - b) rendelkezést arra vonatkozóan, hogy a kényszerintézkedéssel érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont az a) pont szerinti kérelem, illetve az elkobzására, illetve vagyonelkobzásra vonatkozó határozat végrehajtása iránti kérelem továbbításáig a végrehajtó tagállamban kell tartani.
 
-(4) Ha a nyomozó hatóság lefoglalás vagy számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés elrendelését, illetve biztosítási intézkedés és zár alá vétel alkalmazását tartja szükségesnek olyan bizonyítási eszköz, elkobzás alá eső dolog vagy vagyonelkobzás alá eső vagyon tekintetében, amely egy másik tagállam területén található, előterjesztést tesz az ügyésznek az (1) bekezdésben meghatározott határozat meghozatala vagy annak bíróságnál történő indítványozása iránt.
+(4) Ha a nyomozó hatóság lefoglalás vagy információs rendszerben tárolt adatok megőrzésére kötelezés elrendelését, illetve zár alá vétel alkalmazását tartja szükségesnek olyan bizonyítási eszköz, elkobzás alá eső dolog vagy vagyonelkobzás alá eső vagyon tekintetében, amely egy másik tagállam területén található, előterjesztést tesz az ügyésznek az (1) bekezdésben meghatározott határozat meghozatala vagy annak bíróságnál történő indítványozása iránt.
 
 102. § (1) A magyar igazságügyi hatóság kérheti a tagállami igazságügyi hatóságtól, hogy a határozatot a magyar jogszabályokban foglaltak szerint hajtsa végre. Ebben az esetben az alkalmazandó magyar jogszabályokat a tanúsítványban részletesen ismertetni kell.
 
@@ -993,7 +998,12 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 (2) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami igazságügyi hatóság államának jogával összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
-- b) a terhelt által meghatalmazott vagy számára kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
+- b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
+  - ba) védőt hatalmazott meg vagy
+  - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,
+
+és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
+
 - c) a tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.
 
 113. § A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtásának átvétele nem tagadható meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték, valamint vám- és devizaszabályozás terén, mint a másik tagállam joga.
@@ -1065,6 +1075,8 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (3) A (2) bekezdés szerinti esetben, az ítélet és a tanúsítvány továbbítását megelőzően a miniszter előzetes egyeztetést folytathat a végrehajtó tagállam igazságügyi hatóságával arról, hogy az hozzájárul-e a tanúsítvány és az ítélet továbbításához.
 
+(4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban az ítélet elismerésére és végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül kell beszerezni.
+
 128. § (1) A tanúsítványt a jogerős ítélet alapján a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró állítja ki. A hiányzó adatok beszerzése érdekében a büntetés-végrehajtási bíró a minisztert keresi meg.
 
 (1a) Ha az elítélt a végrehajtó tagállamban tartózkodik, a tanúsítványt a jogerős ítélet alapján az első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bíró állítja ki.
@@ -1088,6 +1100,8 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 (5) A büntetés végrehajtásának megkezdése előtt a tanúsítvány – indokolással – visszavonható. A tanúsítványt vissza kell vonni, ha az (1) bekezdés szerinti megkeresésre érkezett tájékoztatás alapján feltehető, hogy a bíróság által kiszabott szabadságvesztés büntetés célja a korai vagy feltételes szabadságra bocsátás időpontjának végrehajtó tagállam általi meghatározására tekintettel nem érhető el.
 
 (6) A végrehajtás átadásáról a miniszter dönt.
+
+(7) Ha a tagállami igazságügyi hatóság arról értesíti a minisztert, hogy az ítélet végrehajtását azért szüntette meg, mert az elítélt a végrehajtás megkezdése után a tagállam területén nem volt megtalálható és a felkutatására tett intézkedések nem vezettek eredményre, akkor a továbbiakban az ítélet végrehajtására a magyar szabályok irányadóak.
 
 130. § A Büntetés-végrehajtás Országos Parancsnoksága havonta tájékoztatja a minisztert az Európai Unió valamely tagállamának állampolgárságával rendelkező, jogerősen szabadságvesztés büntetésre vagy szabadságelvonással járó intézkedésre ítélt személyekről.
 
@@ -1190,7 +1204,12 @@ határoz meg, rendel el, illetve szab ki.
 (2) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
-- b) a terhelt által meghatalmazott vagy számára kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
+- b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
+  - ba) védőt hatalmazott meg vagy
+  - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,
+
+és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
+
 - c) az alternatív szankciót kiszabó tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.
 
 (3) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását nem tagadhatja meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
@@ -1338,7 +1357,9 @@ végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alap
 (2) A bíróság a pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
-- b) a terhelt által meghatalmazott vagy számára kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
+- b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
+  - ba) védőt hatalmazott meg vagy
+  - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
 - c) a pénzbüntetést kiszabó tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.
 
 (3) A bíróság a pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha a tagállami hatóság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik. A hiánypótlásra a 96. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen kell alkalmazni. A pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását meg kell tagadni, ha a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, vagy a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges.
@@ -1439,7 +1460,9 @@ szerinti törvényszék székhelyén működő járásbíróság, Budapesten a B
 (2) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
-- b) a terhelt által meghatalmazott vagy számára kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
+- b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
+  - ba) védőt hatalmazott meg vagy
+  - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
 - c) a vagyonelkobzást elrendelő tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.
 
 (3) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja, ha a tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges. A hiánypótlásra a 96. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.

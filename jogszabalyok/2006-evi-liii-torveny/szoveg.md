@@ -51,6 +51,8 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (3) A kormánymegbízott a kiemelt jelentőségű üggyel összefüggésben a kiemelt jelentőségű ügyben hatóságként vagy szakhatóságként kijelölt kormánytag felé írásban jelzéssel élhet, mellyel összefüggésben az érintett kormánytag öt munkanapon belül tájékoztatást ad a kormánymegbízottnak.
 
+### Ügyintézési határidő a kiemelt jelentőségű ügyben
+
 3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – az (5) bekezdésben meghatározott, valamint az általános építésügyi hatósági engedélyezési eljárásra vonatkozó ügyintézési határidő kivételével – legfeljebb két hónap lehet.
 
 (2)
@@ -152,6 +154,8 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 - d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését,
 - e) a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénytől és az ügyfajtára vonatkozó különös eljárási szabályoktól eltérő rendelkezéseket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott tárgykörben,
 - f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket.
+
+(6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
 
 ### 1. melléklet a 2006. évi LIII. törvényhez
 

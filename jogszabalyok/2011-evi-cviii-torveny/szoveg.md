@@ -1510,7 +1510,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 120. § E törvényt nem kell alkalmazni az uniós értékhatárt el nem érő
 
-- a) tankönyv beszerzésére, amennyiben arra a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
+- a) tankönyv beszerzésére, amennyiben arra a nemzeti köznevelés tankönyvellátásáról szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
 - b) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetőleg utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-aiban szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 - c) a 4. melléklet szerinti szállodai és éttermi szolgáltatásokra, szórakoztató, kulturális és sportszolgáltatásokra;
 - d) külügyi segélyezés keretében humanitárius segítségnyújtás céljából, válságkezelés során történő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
@@ -1520,7 +1520,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - h) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7. és 9. pontjai; valamint szükség- vagy veszélyhelyzet esetén az állatok járványos megbetegedése, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
 - i) fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások, illetve építési beruházás beszerzésére.
 - j) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, vagy teljesített szolgáltatások, illetve építési beruházások beszerzésére;
-- k) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény szerinti hitel és pénzkölcsön, valamint pénzforgalmi szolgáltatás igénybevételére;
+- k) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel és pénzkölcsön, valamint pénzforgalmi szolgáltatás igénybevételére;
 - l) a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
 - m) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére.
 
@@ -2208,27 +2208,29 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 167. § (1) Az e törvényben meghatározott célok érvényesülésének biztosítása érdekében Közbeszerzési Hatóság (a továbbiakban: Hatóság) működik, amely csak az Országgyűlésnek van alárendelve.
 
-(2) A Hatóság az Országgyűlés felügyelete alatt álló, önállóan működő és gazdálkodó központi költségvetési szerv, amely az e törvényben meghatározott feladatkörében általános hatáskörrel rendelkezik. Székhelye Budapest.
+(2) A Hatóság az Országgyűlés felügyelete alatt álló központi költségvetési szerv, amely az e törvényben meghatározott feladatkörében általános hatáskörrel rendelkezik. Székhelye Budapest.
 
 (3) A Hatóság költségvetését az éves központi költségvetésben elkülönítetten kell előirányozni. Előirányzatának terhére az Országgyűlés jóváhagyása nélkül év közben nem hajtható végre átcsoportosítás.
 
 ### A Hatóság keretében működő Tanács tagjai, tisztségviselői
 
-168. § (1) A Közbeszerzési Hatóság keretében Tanács (a továbbiakban: Tanács) működik, amely tíz tagból áll. A Tanácsban az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket azonos számú tag képviseli.
+168. § (1) A Közbeszerzési Hatóság keretében Tanács (a továbbiakban: Tanács) működik, amely tizennégy tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
-(2) A törvény alapelveinek és egyes közérdekű céloknak az érvényesítése a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek feladata:
+(2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
-- a) a Gazdasági Versenyhivatal elnöke;
-- b) az állami vagyon felügyeletéért felelős miniszter;
-- c) a gazdaságpolitikáért felelős miniszter.
+- a) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;
+- b) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
+- c) az agrár-vidékfejlesztésért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
+- d) az építésügyért felelős miniszter által kijelölt személy;
+- e) a Miniszterelnökséget vezető államtitkár által kijelölt személy;
+- f) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
+- g) a Gazdasági Versenyhivatal elnöke vagy az általa kijelölt személy;
+- h) a Kormányzati Ellenőrzési Hivatal elnöke vagy az általa kijelölt személy;
+- i) a Nemzeti Fogyasztóvédelmi Hatóság vezetője vagy az általa kijelölt személy;
+- j) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
+- k) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy.
 
-(3) A közbeszerzési eljárás ajánlatkérőinek általános érdekeit a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek képviselik:
-
-- a) a Nemzeti Fejlesztési Ügynökség által kijelölt személy;
-- b) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
-- c) az építésügyért felelős miniszter által kijelölt személy.
-
-(4) A közbeszerzési eljárás ajánlattevőinek általános érdekeit a Tanácsban a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy képviseli.
+(3)–(4)
 
 (5) A Tanács elnöke a Tanács tagjává válik akkor is, ha nem a tagok közül választották. Ha a Tanács elnökét a Tanács tagjai közül választották, az elnök a továbbiakban nem képviseli az őt kijelölő (kijelölők) szerinti általános célokat vagy érdekeket, a kijelölő (kijelölők) pedig jogosult a Tanácsba új tagot kijelölni. A kijelölő (kijelölők) a Tanács elnökével szemben nem élhet a 170. § (6) bekezdésének b) pontjában és (7) bekezdésében biztosított jogával.
 

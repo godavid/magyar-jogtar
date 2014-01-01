@@ -41,8 +41,8 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - a)
 - b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, az ellenérték nélkül átvállalt kötelezettség egyéb vagy rendkívüli ráfordításként az adóévi adózás előtti eredmény terhére elszámolt összege,
 - c) az adóalany jogutódlással (átalakulással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet, a (4) bekezdésben meghatározott kivétellel,
-- d) a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
-- e) a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
+- d) a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, figyelemmel a (12) bekezdésben foglaltakra, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
+- e) a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, figyelemmel a (12) bekezdésben foglaltakra, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
 - f) a forintról devizára, devizáról forintra vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 - g) az adóellenőrzés, önellenőrzés során megállapított, adóévi költségként, ráfordításként vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg.
 
@@ -72,6 +72,8 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (11) A több engedéllyel rendelkező, illetve engedélyes tevékenységen kívüli tevékenységet végző adóalanynál az adóalap az (1)–(9) bekezdés alapján meghatározott összegnek az arányos része, az arányt a jövedelemadó-köteles tevékenységek beszámolóban kimutatott vagy a könyvviteli zárlat alapján megállapított árbevételének az adóalany összes árbevételének százalékában (két tizedesjegyre) számítva kell meghatározni.
 
+(12) Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell a (2) bekezdés d) és e) pontjában foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
+
 ### A jövedelemadó mértéke
 
 7. § (1) A jövedelemadó a pozitív adóalap 31 százaléka.
@@ -80,13 +82,29 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (3) Az (1) és (2) bekezdés szerint kiszámított jövedelemadót legfeljebb annak mértékéig csökkenti az üzleti évre (adóévre) bányajáradék címén fizetett (fizetendő) összeg, legfeljebb azonban 1,5 milliárd forint.
 
-### A jövedelemadó bevallása, megfizetése
+### A jövedelemadó, jövedelemadó-előleg bevallása, megfizetése
 
-8. § (1) A fizetendő jövedelemadó a 7. § szerint megállapított összeg, csökkentve a (2) bekezdés szerint beszámított összeggel.
+8. § (1) A fizetendő jövedelemadót – az adóévben megfizetett jövedelemadó-előlegek beszámításával –, valamint a jövedelemadó-előleget az adózás rendjéről szóló törvényben a társasági adóra előírt határidőben kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
 
-(2) Az adóalany az adóév utolsó hónapjának 20. napjáig bevallja és megfizeti a várható jövedelemadó 90 százalékát. Ez a kötelezettség nem vonatkozik arra az adóalanyra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
+(2) Az adóalanynak – a (4)–(5) bekezdésben foglaltak kivételével – az adóbevallással egyidejűleg az adóbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra jövedelemadó-előleget kell bevallania az esedékességi időre eső összeg feltüntetésével. Nem lehet jövedelemadó-előleget bevallani arra a naptári hónapra, negyedévre, a negyedév azon naptári hónapjára, amelyre az adóalany már vallott be adóelőleget.
 
-(3) A fizetendő jövedelemadót az adózás rendjéről szóló törvényben a társasági adóra előírt határidőben kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
+(3) A jövedelemadó-előleg
+
+- a) az adóévet megelőző adóév fizetendő adójának összege, ha az adóévet megelőző adóév időtartama 12 hónap volt,
+- b) az adóévet megelőző adóév fizetendő adójának a működés naptári napjai alapján 12 hónapra számított összege minden más esetben.
+
+(4) A könyvvezetés pénznemének évközbeni változtatása a bevallott jövedelemadó-előleget nem érinti.
+
+(5) Az átalakulás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott jövedelemadó-előlegből számított (az átalakulás formájától függően azzal egyező, összesített, megosztott) adóelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig adóelőleget fizetni. Az átalakulás napját követő első adóbevallásában nem vall be adóelőleget kiválás esetén a fennmaradó, beolvadás esetén az átvevő adózó, ha az átalakulás napja az előző adóévi adóbevallás benyújtását megelőzi.
+
+(6) A jövedelemadó-előleg
+
+- a) havonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó meghaladja az 5 millió forintot;
+- b) háromhavonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó legfeljebb 5 millió forint.
+
+(7) Az adóalany az adóév utolsó hónapjának 20. napjáig bevallja és megfizeti a várható jövedelemadó 90 százalékát. Ez a kötelezettség nem vonatkozik arra az adóalanyra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
+
+(8) Nem kell a (2)–(7) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
 
 ### Vegyes rendelkezések
 

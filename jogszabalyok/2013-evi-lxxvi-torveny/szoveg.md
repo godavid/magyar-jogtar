@@ -318,9 +318,7 @@ d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utó
 
 40. §
 
-41. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 48. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) A házassági névviselési forma módosítása iránti kérelmet bármely anyakönyvvezetőnél vagy bármely hivatásos konzuli tisztviselőnél személyesen lehet előterjeszteni. A hivatásos konzuli tisztviselő az első diplomáciai futárral köteles megküldeni a kérelmet a házasságkötést nyilvántartó anyakönyvvezetőnek.”
+41. §
 
 42. §
 
@@ -422,7 +420,9 @@ g) nyilatkozatot arról, hogy a kérelmezett név a Polgári Törvénykönyv né
 
 (5) Ha a kérelem hiányosan érkezik, a hiánypótlási felhívást a kérelem beérkezésétől számított tizenöt napon belül kell kibocsátani.”
 
-46–47. §
+46. §
+
+47. §
 
 48. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Az elektronikus és a papír alapú anyakönyv” alcíme a következő szöveggel lép hatályba:
 
@@ -1274,13 +1274,7 @@ b) az adatigénylő pontos megnevezését és címét.
 
 68. §
 
-69. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 87. §-a a következő szöveggel lép hatályba:
-
-„87. § (1) A halálesetet az anyakönyvbe bejegyző anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesíti az elhalt személy elektronikus anyakönyvbe be nem jegyzett születését, valamint – ha az elhalt személy házassága vagy bejegyzett élettársi kapcsolata fennállt a haláleset időpontjában – a házasságát vagy bejegyzett élettársi kapcsolatát nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot, feltéve, hogy a születés, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítése Magyarországon történt, vagy annak hazai anyakönyvezése megtörtént.
-
-(2) A bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesíti a bejegyzett élettárs elektronikus anyakönyvbe be nem jegyzett korábbi házasságkötését nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot, ha a bejegyzett élettárs a bejegyzett élettársi kapcsolat létesítését megelőzően házassági névként volt férje nevét vagy családi nevét viselte a házasságra utaló toldással, és házassági nevét nem módosította másik házassági névviselési formára, ezért a születési családi nevének viselésére jogosult.
-
-(3) A fővárosi és megyei kormányhivatal a 4. § (5) bekezdése szerinti anyakönyvi bejegyzés teljesítését követően az anyakönyvi alapiratot haladéktalanul megküldi a nyilvántartó anyakönyvvezetőnek.”
+69. §
 
 70. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 88. §-a a következő szöveggel lép hatályba:
 
@@ -1393,7 +1387,7 @@ lép hatályba.
 - g) a 91. §-t megelőző alcíme,
 - h) 95. § (3) bekezdése,
 - i) 97. §-a,
-- j) 98–100. §-a és a 98. §-t megelőző alcíme.
+- j)
 
 82. § Nem lép hatályba az anyakönyvi eljárásról szóló 2010. évi I. törvény
 
@@ -1422,7 +1416,11 @@ szövegrész.
 
 #### 6. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-87–91. §
+87–88. §
+
+89. §
+
+90–91. §
 
 #### 7. A statisztikáról szóló 1993. évi XLVI. törvény módosítása
 

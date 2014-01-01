@@ -15,7 +15,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (3) E törvény hatálya nem terjed ki a bírósági, illetőleg egyéb hatósági eljárásban nyújtott és felhasznált információs társadalommal összefüggő szolgáltatásra és nem érinti a személyes adatok védelmére vonatkozó jogszabályok alkalmazását.
 
-(4) E törvény hatálya nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződési nyilatkozatokat is.
+(4) E törvény hatálya – a 4/A. § kivételével – nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződési nyilatkozatokat is.
 
 ### Értelmező rendelkezések
 
@@ -87,7 +87,46 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - g) a szabályozott szakmák gyakorlásának körében:
   - ga) annak a szakmai érdek-képviseleti szervnek (kamarának) a megnevezését, amelynek a szolgáltató akár kötelező előírás alapján, akár önkéntesen tagja;
   - gb) a természetes személy szolgáltató szakképzettségének, illetve szakmai, tudományos fokozatának, valamint annak a tagállamnak a megjelölését, ahol ezt a szakképzettséget, illetve fokozatot megszerezte;
-  - gc) hivatkozást a szabályozott szakma gyakorlásának a szolgáltató letelepedési helye szerinti államban alkalmazandó szakmai szabályaira, és az azokhoz való hozzáférés módjára.
+  - gc) hivatkozást a szabályozott szakma gyakorlásának a szolgáltató letelepedési helye szerinti államban alkalmazandó szakmai szabályaira, és az azokhoz való hozzáférés módjára,
+- h) a szolgáltató részére a tárhelyet biztosító, a 2. § l) pont lc) alpontjában meghatározott szolgáltató székhelyét, telephelyét, az elérhetőségére vonatkozó adatokat, különösen az igénybe vevőkkel való kapcsolattartásra szolgáló, rendszeresen használt elektronikus levelezési címét, kivéve, ha a szolgáltató részére nyújtott tárhelyszolgáltatás jellegéből adódóan ezek az adatok egyébként is megismerhetőek.
+
+### A kiskorúak védelme és a Gyermekvédelmi Internet-kerekasztal
+
+4/A. § (1) A szolgáltató által közzétett – a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény szerinti médiatartalomnak nem minősülő – olyan információ, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, csak az információt tartalmazó aloldalon az információ megjelenítése előtt közzétett, a kiskorúak lehetséges veszélyeztetéséről szóló tájékoztatást tartalmazó figyelmeztető jelzéssel, továbbá az aloldal forráskódjában szereplő olyan azonosítókkal tehető közzé, amelyek utalnak a tartalom kategóriájára, és amelyek az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 149/A. § (1) bekezdése szerinti szűrőszoftverek (a továbbiakban: szűrőszoftver) által felismerhetők.
+
+(2) Az (1) bekezdésben foglalt rendelkezés általános érvényesülését a Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) kíséri figyelemmel, emellett ösztönzi és támogatja a médiatartalom-szolgáltatások és az információs társadalommal összefüggő szolgáltatások terén a kiskorúak védelmét szolgáló egyéb jogszabályi előírások – a 2. § l) pont la)–ld) alpontjában meghatározott közvetítő szolgáltatók, valamint a tartalomszolgáltatók szakmai szervezetei önszabályozó tevékenysége által támogatott – hatályosulását.
+
+(3) A Kerekasztalhoz bárki fordulhat az (1) bekezdésben foglalt rendelkezés vélelmezett megsértése esetén. A Kerekasztal az ilyen bejelentéseket megvizsgálva, azok általános tapasztalatait a (2) bekezdés szerinti tevékenysége során felhasználja.
+
+(4) A Kerekasztal ellátja az Eht. 149/A. § (2) bekezdése szerinti feladatokat a szűrőszoftverek fejlesztésének, kiválasztásának és elterjedésének elősegítése érdekében.
+
+4/B. § (1) A Kerekasztal a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) Elnökének az elektronikus kereskedelmi szolgáltatás és az elektronikus hírközlési szolgáltatás útján hozzáférhető médiatartalmak, információk tekintetében a kiskorúak egészséges fejlődését biztosító jogszabályi előírások elfogadását és hatályosulását elősegítő javaslattevő, véleményező, tanácsadó testülete.
+
+(2) A Kerekasztal elnökből és húsz tagból áll.
+
+(3) A Kerekasztal elnökét és két tagját a Hatóság Elnöke, két tagját az informatikáért felelős miniszter jelöli.
+
+(4) A Hatóság elnökének felhívására, az abban megjelölt határidőig a Kerekasztal nyolc tagjára a kiskorúak védelmével foglalkozó, országos működési területű, legalább három éve működő szakmai és civil szervezetek, további nyolc tagjára a médiatartalom-szolgáltatók, az elektronikus kereskedelmi szolgáltatók és az elektronikus hírközlési szolgáltatók országos működési területű, legalább három éve működő szakmai érdekképviseleti és önszabályozó szervezetei tehetnek javaslatot.
+
+(5) A Kerekasztal elnökét, valamint a jelöltek közül a tagjait a Hatóság Elnöke nevezi ki három évre, tevékenységükért díjazásban nem részesülnek.
+
+(6) A Kerekasztal elnökének és tagjának megbízatása megszűnik:
+
+- a) a megbízatási idő lejártával,
+- b) lemondásával,
+- c) halálával.
+
+(7) A Kerekasztal elnöke, tagja megbízatásának megszűnése esetén az (1)–(5) bekezdés szerinti eljárás alapján kell az új elnököt vagy tagot kinevezni.
+
+4/C. § (1) A Kerekasztal maga határozza meg ügyrendjét, amelyet a Hatóság Elnöke hagy jóvá.
+
+(2) A Kerekasztal működéséhez szükséges forrásokat és kiadásokat a Hatóság költségvetésén belül kell külön tervezni. A Kerekasztal működésével kapcsolatos feladatokat a Hatóság látja el.
+
+4/D. § (1) A Kerekasztal kötelező erővel nem bíró, a médiatartalom-szolgáltatók, az elektronikus kereskedelmi szolgáltatók és az elektronikus hírközlési szolgáltatók jogkövető magatartását elősegítő ajánlások, állásfoglalások kiadására jogosult. A Kerekasztal feladata továbbá a kiskorúak és szüleik médiatudatosságát növelő intézkedések kezdeményezése.
+
+(2) A Kerekasztal a hozzá beérkezett bejelentések alapján jogosult egyedi ügyeket is megvizsgálni és azok általánosított tapasztalatai alapján kötelező erővel nem rendelkező ajánlást vagy állásfoglalást kiadni.
+
+(3) A Kerekasztal ajánlásait, állásfoglalásait, továbbá az előző évi tevékenységéről a Hatóság Elnökének évente május 1-jéig készített írásos beszámolóját a honlapján nyilvánosságra hozza.
 
 ### Az elektronikus úton történő szerződéskötésre vonatkozó szabályok
 
@@ -202,6 +241,18 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (12) A szolgáltató nem felelős az érintett információ eltávolításának vagy az ahhoz való hozzáférés nem biztosításának eredményes végrehajtásáért, amennyiben az eltávolítás vagy a hozzáférés nem biztosítása során a (4) és (9) bekezdésben meghatározottaknak megfelelően és jóhiszeműen járt el.
 
+(13) Az a kiskorú, akinek személyiségi jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – a megítélése szerint sérti (e § alkalmazásában a továbbiakban: kiskorú jogosult), vagy a cselekvőképtelen kiskorú jogosult esetében a törvényes képviselője (a továbbiakban: törvényes képviselő) teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével, vagy a kiskorú jogosult, illetve törvényes képviselője azonosítására alkalmas más módon, így különösen ajánlott postai küldeményben (e § alkalmazásában a továbbiakban együtt: értesítés) felhívhatja a 2. § l) pont lb)–ld) alpontjában meghatározott szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Korlátozottan cselekvőképes kiskorú jogosult személyiségi jogát sértő tartalmú információ esetén a kiskorú jogosult törvényes képviselője is felhívhatja az értesítéssel a szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Az értesítésben meg kell jelölni annak indokait is, hogy a sérelmezett tartalom miért sérti a kiskorú jogosult személyiségi jogait.
+
+(14) A (13) bekezdés szerinti jogsértés esetén az eljárást a (2)–(12) bekezdésben foglaltaknak megfelelően kell lefolytatni az alábbi eltérésekkel:
+
+- a) a szolgáltatónak az érintett igénybe vevőt a kiskorú jogosultnak, illetve törvényes képviselőjének felhívásáról egy munkanapon belül kell értesítenie,
+- b) a szolgáltató az információ eltávolításának hatályát köteles fenntartani akkor is, ha a beazonosításához szükséges adatok hiányában az érintett igénybe vevő értesítése nem lehetséges,
+- c) a szolgáltató az információhoz való hozzáférést akkor is köteles a (9) bekezdés rendelkezéseinek megfelelően meggátolni, illetve az információt ismételten eltávolítani, ha a kiskorú jogosult vagy törvényes képviselője megküldi részére a nyomozóhatóság az értesítés szerinti jogsértéssel kapcsolatos nyomozást elrendelő határozatát,
+- d) a szolgáltató nem köteles feltüntetni, hogy az eltávolítás mely jogosult jogsértést állító értesítése alapján történt,
+- e) a szolgáltató elutasíthatja a sérelmezett információ hozzáférhetetlenné tételét, ha a (13) bekezdés szerinti értesítésben megjelölt indokok alapján megalapozatlannak tartja a kiskorú személyiségi jogainak sérelmét.
+
+(15) Ha a szolgáltató nem tesz eleget a (14) bekezdés a)–c) pontjában foglalt kötelezettségeinek, vagy az e) pont alapján elutasítja a kérelmet, a kiskorú jogosult vagy a törvényes képviselője a kiskorú személyiségi jogai vélelmezett megsértése miatt a Kerekasztalhoz fordulhat. A Kerekasztal az ilyen bejelentéseket megvizsgálva, azok általános tapasztalatait a 4/A. § (2) bekezdése szerinti tevékenysége során felhasználja.
+
 ### Adatvédelem
 
 13/A. § (1) A szolgáltató az információs társadalommal összefüggő szolgáltatás nyújtására irányuló szerződés létrehozása, tartalmának meghatározása, módosítása, teljesítésének figyelemmel kísérése, az abból származó díjak számlázása, valamint az azzal kapcsolatos követelések érvényesítése céljából kezelheti az igénybe vevő azonosításához szükséges természetes személyazonosító adatokat és lakcímet.
@@ -258,7 +309,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (3) Az (1) bekezdés a) és b) pontjának megsértéséért az elektronikus hirdető, az elektronikus hirdetési szolgáltató és az elektronikus hirdetés közzétevője egyaránt felel. Az (1) bekezdés c) és d) pontjának és (2) bekezdésének megsértéséért az elektronikus hirdető felel.
 
-14/B. § (1) Az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából a közvetítő szolgáltató a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) megkeresésére köteles a Hatóság rendelkezésére bocsátani a következő adatokat, ha azok a közvetítő szolgáltató rendelkezésére állnak:
+14/B. § (1) Az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából a közvetítő szolgáltató a Hatóság megkeresésére köteles a Hatóság rendelkezésére bocsátani a következő adatokat, ha azok a közvetítő szolgáltató rendelkezésére állnak:
 
 - a) a Hatóság által megjelölt elektronikus hirdetés küldőjének vagy közzétevőjének elektronikus hírközlési azonosítóját, és
 - b) a nyilvántartásában az elektronikus hírközlési azonosítóhoz tartozóként meghatározott igénybe vevő nevét és lakcímét.
@@ -383,6 +434,8 @@ látja el.
 (2) A kölcsönös jogsegély során az (1) bekezdés szerinti hatóságok a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően járnak el.
 
 (3) Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli az (1) bekezdésben említett közösségi jogi rendelkezéseket átültető jogszabályi rendelkezéseket.
+
+16/G. § A Kerekasztalt 2014. március 1-ig meg kell alakítani.
 
 17. § (1) Az informatikáért felelős miniszter köteles
 

@@ -1050,7 +1050,7 @@ a Felügyelet részére megküldeni.
 
 62. § (1) A tevékenységre vonatkozó engedély iránti kérelmet a Felügyelet elutasítja, ha a kérelmező az e törvényben és más jogszabályokban előírt feltételeknek nem felel meg, illetőleg a feltételeknek való megfelelést hitelt érdemlő módon nem igazolta, valamint megtévesztő vagy valótlan adatot közölt.
 
-(2) A tevékenységre vonatkozó engedély iránti kérelmet a Felügyelet elutasítja, ha a foglalkoztatói nyugdíjszolgáltató intézmények és más személy között fennálló, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény szerinti szoros kapcsolat, továbbá a foglalkoztatói nyugdíjszolgáltató intézményekkel szoros kapcsolatban álló személyre vonatkozó, más EGT-államban alkalmazott jogszabályok akadályozzák a foglalkoztatói nyugdíjszolgáltató intézmények feletti hatósági felügyelet gyakorlását. Az e bekezdésben meghatározott feltételek ellenőrzéséhez szükséges információkat a Felügyelet rendelkezésére kell bocsátani.
+(2) A tevékenységre vonatkozó engedély iránti kérelmet a Felügyelet elutasítja, ha a foglalkoztatói nyugdíjszolgáltató intézmények és más személy között fennálló, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti szoros kapcsolat, továbbá a foglalkoztatói nyugdíjszolgáltató intézményekkel szoros kapcsolatban álló személyre vonatkozó, más EGT-államban alkalmazott jogszabályok akadályozzák a foglalkoztatói nyugdíjszolgáltató intézmények feletti hatósági felügyelet gyakorlását. Az e bekezdésben meghatározott feltételek ellenőrzéséhez szükséges információkat a Felügyelet rendelkezésére kell bocsátani.
 
 ### A Felügyelet együttműködése az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal
 

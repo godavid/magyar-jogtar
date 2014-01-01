@@ -38,7 +38,7 @@ keletkeztek és irattári anyagába tartoztak.
 - b) olyan, az 1. §-ban meghatározott szerveknél végzett tevékenységre vonatkozik, amely miatt az érintettet külföldön kiutasítás, beutazási tilalom vagy büntetőeljárás fenyegetné,
 - c) olyan személyre vonatkozik, akinek az 1. §-ban meghatározott szerveknél végzett tevékenysége miatt alaposan feltehető, hogy személyének felfedése esetén e tevékenysége miatt ellene vagy hozzátartozójával szemben az életet, a testi épséget, illetve a személyes szabadságot súlyosan sértő vagy veszélyeztető bűncselekményt követnek el,
 - d) olyan hálózati személy vagy operatív kapcsolat személyazonosságának felfedéséhez vezet, akinek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit,
-- e) az egyes fontos, valamint közbizalmi és közvélemény-formáló tisztségeket betöltő személyek ellenőrzését végző bírák eljárása során keletkezett, amennyiben az eljárás eredményeként annak alanya lemondott vagy felmentését kezdeményezte.
+- e)
 
 (3) Fenntartható továbbá az államtitok minősítése a Ttv. alapján az államtitokkörbe tartozó azon adat tekintetében, amely
 
@@ -51,17 +51,32 @@ keletkeztek és irattári anyagába tartoztak.
 - g) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan károsítaná Magyarország védelempolitikai céljainak megvalósulását, a Magyar Honvédség nemzetközi kapcsolatait vagy hadrafoghatóságát,
 - h) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetgazdasági érdekeit.
 
-3. § (1) A megfigyelt, a harmadik személy, a hivatásos alkalmazott, az operatív kapcsolat és a hálózati személy megismerheti és nyilvánosságra hozhatja a Levéltárban kezelt iratban szereplő, kizárólag vele kapcsolatba hozható személyes adatokat.
+3. § (1) A megfigyelt és a harmadik személy a rá vonatkozó adatokat megismerheti. Megismerheti továbbá
 
-(2) A megfigyelt személy megismerheti a vele kapcsolatba hozható hálózati személyről, operatív kapcsolatról és hivatásos alkalmazottról az annak azonosításához szükséges adatokat.
+- a) a személyes érintkezéseit rögzítő vagy leíró adatokat,
+- b) azokat az iratokat, amelyeknek a személyes adatokkal együtt történő megismerését az irat keletkezésekor hatályos jogszabály lehetővé tette,
+- c) a róla szóló anyagban lévő és e törvény alapján bárki által megismerhető adatokat.
+
+(2) A megfigyelt személy megismerheti a róla jelentő, illetve vele foglalkozó hivatásos alkalmazott, hálózati személy és operatív kapcsolat természetes személyazonosító adatait.
 
 (3) A megfigyelt személy, illetve a harmadik személy megismerheti és a harmadik személy, illetve a megfigyelt személy hozzájárulásával nyilvánosságra hozhatja a megfigyelt és a harmadik személy között történt személyes érintkezéseket rögzítő vagy leíró adatokat (pl. személyes találkozásról, beszélgetésről gyűjtött adatok).
+
+(4) A megfigyelt nyilvánosságra hozhatja az (1)–(2) bekezdés alapján megismert adatokat, más megfigyelt és harmadik személy személyes adatainak kivételével.
+
+(5) A hivatásos alkalmazott, a hálózati személy és az operatív kapcsolat megismerheti és nyilvánosságra hozhatja a kizárólag vele kapcsolatba hozható személyes adatokat.
 
 4. § (1) A Levéltár a tudományos kutatást akkor engedélyezi, ha a kutató eleget tesz az Ltv. 24. § (3) bekezdésében vagy 24/A. § (1) bekezdésében foglalt követelményeknek, továbbá a kérelméhez csatolja részletes kutatási tervét és – ha azzal rendelkezik – publikációs jegyzékét. A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2) és (3) bekezdésben meghatározott korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.
 
 (2) A tudományos kutató az egészségi állapotra, kóros szenvedélyre és szexuális életre vonatkozó adatokat az érintett halálozási évét követő harminc év után ismerheti meg. Ha a halálozás éve nem ismert, a védelmi idő az érintett születésétől számított kilencven év, ha pedig a születés és a halálozás időpontja sem ismert, a levéltári anyag keletkezésétől számított hatvan év.
 
-(3) A tudományos kutató a faji eredetre, a nemzetiségi és etnikai hovatartozásra, a vallásos vagy más világnézeti meggyőződésre vonatkozó adatokat – a védelmi időn belül – anonimizáltan ismerheti meg. A Levéltár az anonimizálás nélküli megismerést akkor engedélyezi, ha a megfigyelés célja a faji eredettel, a nemzeti, nemzetiségi és etnikai hovatartozással, illetve a vallásos vagy más világnézeti meggyőződéssel összefüggésbe hozható, és a tudományos kutató igazolja, hogy korábban elkezdett és publikációval alátámasztott kutatásához ezen adatok megismerése szükséges.
+(3) A tudományos kutató a faji eredetre, a nemzetiségi és etnikai hovatartozásra, a vallásos vagy más világnézeti meggyőződésre, illetve az érintett egészségi állapotára vonatkozó adatokat – a védelmi időn belül – anonimizálva ismerheti meg.
+
+A Levéltár az anonimizálás nélküli megismerést akkor engedélyezi, ha
+
+- a) a megfigyelés célja a faji eredettel, a nemzetiségi és etnikai hovatartozással, a vallásos vagy más világnézeti meggyőződéssel összefüggésbe hozható, illetve ha
+- b) az érintett egészségügyi állapotára vonatkozó adat az állambiztonsági tevékenységet végző szervek működésével összefüggésbe hozható, és
+
+a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adatok megismerése szükséges.
 
 5. § (1) Anonimizált formában bárki megismerheti és nyilvánosságra hozhatja a Levéltárban kezelt iratokat.
 
@@ -73,12 +88,12 @@ keletkeztek és irattári anyagába tartoztak.
 
 - a) amelyeket nyilvános vagy a közönség részére nyitva álló rendezvényeken közszereplésekkel kapcsolatban rögzítettek,
 - b) amelyeket már jogszerűen nyilvánosságra hoztak,
-- c) amelyek a közszereplő hivatásos alkalmazott, a közszereplő operatív kapcsolat és a közszereplő hálózati személyek azonosításához szükségesek,
+- c) amelyek a hivatásos alkalmazott, a közszereplő operatív kapcsolat és a közszereplő hálózati személyek azonosításához szükségesek,
 - d) amelyek megismeréséhez az érintett írásban hozzájárult.
 
 (5) A nem anonimizált adatokat bárki nyilvánosságra hozhatja.
 
-(6) Ha a kérelmező közszereplő hálózati személy, hivatásos alkalmazott vagy operatív kapcsolat azonosításához szükséges adatokat kíván megismerni, a Levéltár az érintett közszereplőt nyilatkozat tételére hívja fel a tekintetben, hogy közszereplő minőségét elismeri-e. Amennyiben a felhívás kézhezvételétől számított tizenöt napon belül az érintett olyan nyilatkozatot tesz, mely szerint közszereplői minőségét nem ismeri el, a Levéltár az adat megismerésére irányuló kérelmet elutasítja; ellenkező esetben a megismerési kérelemnek eleget tesz. A Levéltár döntésével szemben az Ltv. 29. §-ának rendelkezései szerint jogorvoslatnak van helye, melynek során a bíróság az érintett közszereplői minőségéről állást foglal. Az ügyben a Fővárosi Törvényszék e feladatra kijelölt bírája jár el. Ha a bíróság az érintettet közszereplőnek minősíti, a Levéltár a megismerési kérelemnek eleget tesz.
+(6) Ha a kérelmező közszereplő hálózati személy vagy operatív kapcsolat azonosításához szükséges adatokat kíván megismerni, a Levéltár az érintett közszereplőt nyilatkozat tételére hívja fel a tekintetben, hogy közszereplő minőségét elismeri-e. Amennyiben a felhívás kézhezvételétől számított tizenöt napon belül az érintett olyan nyilatkozatot tesz, amely szerint közszereplői minőségét nem ismeri el, a Levéltár az adat megismerésére irányuló kérelmet elutasítja; ellenkező esetben a megismerési kérelemnek eleget tesz. A közszereplő nyilatkozatával szemben jogorvoslatnak van helye, amelynek során a kérelmező indítványára a bíróság az érintett közszereplői minőségéről állást foglal. Az ügyben a Fővárosi Törvényszék e feladatra kijelölt bírája jár el. Ha a bíróság az érintettet közszereplőnek minősíti, a Levéltár a megismerési kérelemnek eleget tesz.
 
 6. § (1) A megfigyelt és a harmadik személy írásos nyilatkozatban legfeljebb az adat keletkezésétől számított kilencven évre megtilthatja az adat 4–5. § szerinti kutatását.
 
@@ -86,9 +101,11 @@ keletkeztek és irattári anyagába tartoztak.
 
 (3) Az érintett az iratokban szereplő, rá vonatkozó adatok tekintetében helyesbítési jogát az eredeti adat változatlanul hagyása mellett a helyes adatot tartalmazó feljegyzésnek az irathoz történő csatolásával érvényesítheti.
 
+6/A. § A hivatásos alkalmazott, a hálózati személy és az operatív kapcsolat halálát követően hozzátartozója megismerheti a kizárólag az elhunyt hivatásos alkalmazottal, a hálózati személlyel és az operatív kapcsolattal kapcsolatba hozható személyes adatokat.
+
 7. § (1) A honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter és a rendészetért felelős miniszter irányítása alatt álló szervek, valamint más közfeladatot ellátó szervek munkatársa vagy alkalmazottja a szerv hatáskörébe tartozó ügyben a Levéltárban elhelyezett iratokban lévő személyes adatokba törvényben előírt feladatának ellátásához szükséges esetben, az Országgyűlés Nemzetbiztonsági bizottsága előzetes jóváhagyása után, illetve különösen gyors intézkedést követelő esetekben utólagos tájékoztatásával tekinthet be.
 
-(2) Bíróságok esetében az (1) bekezdésében foglalt előzetes jóváhagyásra nincs szükség.
+(2) Az érintettek törvényes jogainak érvényesítésével kapcsolatos bírósági és hatósági eljárások esetén a bíróságok és az eljáró hatóságok számára az (1) bekezdésben foglalt előzetes jóváhagyásra nincs szükség.
 
 8. § (1) A Levéltár kezeli a 2. § (2)–(3) bekezdésében meghatározott adatokat tartalmazó iratok kivételével az e törvény hatálya alá tartozó iratokat. A Levéltár a Történeti Hivatal jogutódja.
 
@@ -161,6 +178,10 @@ keletkeztek és irattári anyagába tartoztak.
 (8) A Levéltár kezelésében levő, a minősített adatot tartalmazó irat megismeréséhez a Ttv. 2. § (1) bekezdésének 7. pontjában meghatározott engedély szükséges.
 
 (9) A törvény hatálya alá tartozó iratok a törvény hatálybalépésének napjától kizárólag az Ltv. szabályai alapján, a Levéltárban selejtezhetőek.
+
+(10) A közfeladatot ellátó szervnél őrzött olyan iratot, amely a Levéltár illetékességébe tartozik – ha szükséges, másolat elkészítését követően –, a Levéltárnak át kell adni. Amennyiben az irat más dokumentumoktól fizikailag nem választható szét, másolati példányt kell kiadni.
+
+(11) A Levéltár megőrzésébe került olyan iratot, amely más szerv már közlevéltárban vagy nyilvános magánlevéltárban őrzött irattári anyagának szerves részét képezi, és nem tartozik a Levéltár illetékességébe tartozó iratok körébe, a Levéltár – a szükséges másolatok elkészítését követően – az iratokat őrző levéltárnak adja át. Amennyiben az irat más dokumentumtól fizikailag nem választható szét, másolati példányt kell kiadni.
 
 12. § (1) A törvény hatályba lépésétől számított kilencven napon belül bizottság alakul, amelynek egy-egy tagját a Kormány, a Magyar Tudományos Akadémia elnöke és a Magyar Történelmi Társulat elnöke jelöli. A bizottság tagjait – ,,C'' típusú nemzetbiztonsági ellenőrzésüket követően – az Országgyűlés elnöke nevezi ki. A bizottság felügyeli az e törvény hatálya alá eső iratok Levéltárnak történő átadását. A bizottság ügyrendjét a kultúráért felelős miniszter a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel és a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben hagyja jóvá. A bizottság tagjai az iratkezelő szerveknél – az (5) bekezdésében meghatározott külön jegyzékben szereplő iratok kivételével – korlátozás nélkül betekinthetnek az e törvény hatálya alá tartozó iratokba. A bizottság az iratok átadásáról jelentést készít, amelyet a (8) bekezdésben megjelölt határidő elteltét követő három hónapon belül juttat el az Országgyűlés elnökéhez. A jelentés elkészítését követő 30. napon a bizottság tagjainak megbízatása megszűnik.
 

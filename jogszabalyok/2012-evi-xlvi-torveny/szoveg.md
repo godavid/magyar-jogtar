@@ -99,6 +99,8 @@ végzése;
 
 (2) A miniszter felelősségi körébe tartozó földmérési térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az ingatlanügyi hatóságok végzik.
 
+(2a) Az integrált ügyfélszolgálat (kormányablak) a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból papír alapú hiteles térképmásolatot adhat ki.
+
 (3) A Nemzeti Kataszteri Program keretében előállított állami térképi adatbázisokból az e program megvalósítására létrehozott szervezet is szolgáltathat adatokat.
 
 (4) A honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az általa kijelölt szerv látja el. A honvédelmi célból előállított állami alapadatok felhasználását a honvédelemért felelős miniszter szabályozza.
@@ -321,7 +323,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 
 (7) Jogerős bírósági határozattal megállapított határvonalat az állami ingatlan-nyilvántartási térképi adatbázisban a határozatnak megfelelően kell feltüntetni.
 
-(8)
+(8) Analóg térkép digitalizálásával előállított állami ingatlan-nyilvántartási térképi adatbázis alapján végzett földrészlethatár-kitűzés esetében az adatbázis tartalmát – a természetbeni állapottal összhangban és az érdekelt felekkel egyetértésben – a földmérésre vonatkozó tűrési határon belül az ingatlanügyi hatóság a kitűzési dokumentáció alapján határozattal módosíthatja. A területi adatok esetleges változását záradékolt változási vázrajzzal kell dokumentálni.
 
 #### 12. A háromdimenziós állami ingatlan-nyilvántartási térképi adatbázis
 
@@ -348,6 +350,8 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 (2) Az (1) bekezdés szerinti hiba kijavítása nem érinti és nem változtatja meg a fennálló természetbeni határvonalat és a birtoklási viszonyokat.
 
 (3) Az (1) bekezdés szerinti hiba kijavítására irányuló eljárásban nincs szükség az eljárásba bevont ingatlanok jogosultjainak hozzájáruló nyilatkozatára.
+
+(4) A 14. § (8) bekezdés szerinti eljárásban meghozott határozat térképi hibakiigazításnak minősül.
 
 #### 15. Az állami topográfiai térképi adatbázisok
 

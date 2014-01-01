@@ -20,7 +20,13 @@ a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról
 
 9–13. §
 
-14. § (1)
+14. § (1) Az Nkt. 84. § (7) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(A fenntartó, az állami intézményfenntartó központ által fenntartott intézmény esetében az oktatásért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést)
+
+„d) a nevelési-oktatási intézmény átszervezésével”
+
+(kapcsolatban.)
 
 (2)–(3)
 
@@ -33,7 +39,7 @@ a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról
 
 lép hatályba.
 
-23. §
+23. § Hatályát veszti az Nkt. 84. § (8) bekezdése.
 
 24. § (1) E törvény – a (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 

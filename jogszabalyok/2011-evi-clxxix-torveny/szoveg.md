@@ -954,7 +954,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### Az országos nemzetiségi önkormányzati hivatal feladatai
 
-121. § Az országos nemzetiségi önkormányzati hivatal az országos nemzetiségi önkormányzat által alapított, önállóan működő és gazdálkodó költségvetési szerv.
+121. § Az országos nemzetiségi önkormányzati hivatal az országos nemzetiségi önkormányzat által alapított költségvetési szerv.
 
 122. § (1) A hivatal az országos önkormányzat szerveként előkészíti és végrehajtja annak határozatait, ellátja az országos önkormányzat gazdálkodásával kapcsolatos feladatokat.
 

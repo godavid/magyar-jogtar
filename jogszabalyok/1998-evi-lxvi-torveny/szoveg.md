@@ -33,7 +33,11 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (4) A kifizető a béren kívüli juttatás (Szja tv. 71. §) adóalapként meghatározott összege után 14 százalékos mértékű egészségügyi hozzájárulást fizet.
 
-(5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem és járulék alapjául szolgáló azon összeg, amely után a Tbj. szabályai szerint járulékot kell fizetni, valamint a szociális hozzájárulási adó alapját képező összeg, továbbá az a jövedelem, amely után az adót nem kell megállapítani és/vagy megfizetni.
+(5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az olyan jövedelem vagy jövedelemnek nem minősülő összeg, amely
+
+- a) a Tbj. szerint járulék alapját képezi,
+- b) szociális hozzájárulási adó alapját képezi, vagy
+- c) az Szja tv. alapján adómentes vagy nem kell a jövedelemszámítás során figyelembe venni.
 
 (6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított egészségügyi hozzájárulás.
 
@@ -43,7 +47,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (9)
 
-3/A. § (1) A Tbj. szerinti belföldi magánszemély vagy – ha a jövedelem utáni adófizetésre az Szja tv. szerint a kifizető köteles – a kifizető 6 százalékos mértékű egészségügyi hozzájárulást fizet
+3/A. § (1) A Tbj. szerinti belföldi magánszemély 6 százalékos mértékű egészségügyi hozzájárulást fizet
 
 - a) az Szja tv. 65. §-a szerinti kamatjövedelem – az Szja tv. szerint adómentesnek minősülő kamatjövedelem vagy kamat kivételével – adóalapként meghatározott összege után,
 - b) az Szja tv. 67/B. §-a szerint megállapított lekötési hozam után, ha a tartós befektetési szerződés szerinti lekötés megszakítására a hároméves lekötési időszak utolsó napját megelőzően kerül sor.
@@ -55,6 +59,9 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 - c) az olyan kollektív befektetési értékpapír után fizetett kamattal, hozammal összefüggésben, vagy a kollektív befektetési értékpapír beváltásakor, visszaváltásakor, valamint átruházásakor megállapított kamatjövedelem, amelynél
   - ca) az értékpapír tulajdonban tartásának időszakában mindvégig a kollektív befektetési értékpapírt kibocsátó szervezet szabályzatában vagy más hasonló, a befektető által megismerhető belső szabályában meghatározottak szerint a szervezet befektetésének legalább 80 százalékos arányban kell a b) pont szerinti értékpapírt tartalmaznia, és
   - cb) a kollektív befektetési értékpapírt kibocsátó szervezet az uniós jogi aktusokban megállapított tőkepiaci felügyelet hatálya alatt áll.
+- d) az Szja tv. 65. § szerinti olyan biztosítás után megállapított kamatjövedelem, amelynél
+  - da) a biztosításra vonatkozó jogviszony fennállásának időszakában – 2014. január 1-je előtt kötött biztosítások esetében 2014. április 1-től a jogviszony megszűnéséig, de legalább három évig – mindvégig a biztosítási feltételekben vagy más hasonló, a szerződő által megismerhető belső szabályzatban meghatározottak szerint befektetési egységhez kötött életbiztosítások esetében a szerződő választása szerinti eszközalapnak, befektetési egységhez nem kötött életbiztosítások esetében a díjtartaléknak legalább 80 százalékos arányban kell a b) pont szerinti értékpapírt tartalmaznia, és
+  - db) a biztosító, a befektetési alapkezelő, a kollektív befektetési értékpapírt kibocsátó szervezet az uniós jogi aktusokban megállapított tőkepiaci felügyelet hatálya alatt áll.
 
 4. § (1) Az átalányadózó mezőgazdasági kistermelő által fizetendő százalékos mértékű egészségügyi hozzájárulás az átalányban megállapított jövedelmének 15 százaléka.
 
@@ -98,7 +105,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 11. § (1)
 
-(2) A kifizetőt, valamint a magánszemélyt terhelő százalékos mértékű egészségügyi hozzájárulást a kifizető havonta állapítja meg, vonja le, a jövedelem kifizetését (juttatását) követő hónap 12. napjáig fizeti meg és az Art. 31. § (2) bekezdésében meghatározottak szerint vallja be az állami adóhatóságnak. Ha a 3. §-ban meghatározott jövedelem nem kifizetőtől származik vagy az egészségügyi hozzájárulás levonására nincs lehetőség, az egészségügyi hozzájárulást a magánszemély állapítja meg, fizeti meg és vallja be a (8) bekezdés rendelkezéseinek megfelelő alkalmazásával.
+(2) A kifizetőt, valamint a magánszemélyt terhelő százalékos mértékű egészségügyi hozzájárulást a kifizető havonta állapítja meg, vonja le, a jövedelem kifizetését (juttatását) követő hónap 12. napjáig fizeti meg és az Art. 31. § (2) bekezdésében meghatározottak szerint vallja be az állami adóhatóságnak. Ha a jövedelem nem kifizetőtől származik vagy az egészségügyi hozzájárulás levonására nincs lehetőség, az egészségügyi hozzájárulást a magánszemély állapítja meg, fizeti meg és vallja be a (8) bekezdés rendelkezéseinek megfelelő alkalmazásával.
 
 (3) A magánszemély legkésőbb a kifizetés időpontjáig nyilatkozik a kifizetőnek arról, hogy a több kifizetőtől és/vagy magánszemélytől származó ingatlan bérbeadásból keletkező jövedelme a naptári évben meghaladja az egymillió forintot.
 
@@ -113,6 +120,8 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 (8) Az egészségügyi hozzájárulás fizetésére kötelezett magánszemély a százalékos mértékű egészségügyi hozzájárulást előlegként, az adóelőleg, illetőleg az adó megfizetésével egyidejűleg állapítja meg és fizeti meg. A tárgyévre vonatkozóan elkészített személyi jövedelemadó bevallásban kell az előlegként megfizetett egészségügyi hozzájárulással elszámolni, az adóbevallás benyújtásának határidejéig a különbözetet megfizetni, illetőleg a bevallás megfelelő rovatában lehet a túlfizetésként mutatkozó különbözet összegéről rendelkezni. Az adóelőleg megfizetésére nem kötelezett magánszemély a százalékos egészségügyi hozzájárulást a személyi jövedelemadó bevallásában a bevallásra előírt határidőig állapítja meg, vallja be, és a bevallás benyújtásának határidejéig fizeti meg. Az előzőektől eltérően az egyéni vállalkozó a százalékos mértékű egészségügyi hozzájárulást havonta állapítja meg, fizeti meg és az Art. 31. § (2) bekezdésében meghatározottak szerint vallja be, a kiegészítő tevékenységet folytató egyéni vállalkozó a személyi jövedelemadóról benyújtott bevallásában vallja be és a tárgyévet követő év január 12-éig fizeti meg. Az egyéni vállalkozó a vállalkozói osztalékalap után fizetendő egészségügyi hozzájárulást a tárgyévre vonatkozó bevallásában vallja be és a bevallás benyújtására előírt határidő lejártáig fizeti meg.
 
 (8a) A 3/A. §-ban meghatározott egészségügyi hozzájárulást és annak alapját a kifizető a Tbj. szerinti belföldi minőség vizsgálata nélkül állapítja meg, vonja le, és magánszemélyhez nem köthető kötelezettségként bruttó módon vallja be. Ha a magánszemély a 3/A. § szerinti egészségügyi hozzájárulás megfizetésére nem köteles, a tőle levont egészségügyi hozzájárulás visszatérítését az Art. 4. számú melléklet 5. pontjában meghatározott eljárásban kezdeményezheti, melynek során igazolja, hogy a Tbj. szerinti külföldinek minősül vagy az 5. § (3) bekezdése alapján mentességet élvez az egészségügyi hozzájárulás alól.
+
+(8b) A 3/A. § (1) bekezdés a) pontjában meghatározott jövedelem utáni egészségügyi hozzájárulást a magánszemély nem vallja be, ha a jövedelem kifizetőtől származik. A 3/A. § (1) bekezdés b) pontjában meghatározott jövedelem utáni egészségügyi hozzájárulást a (2) bekezdéstől eltérően a magánszemély a (8) bekezdésben foglalt szabályok szerint állapítja meg, vallja be és fizeti meg.
 
 (9) Ha az egyszerűsített bevallási nyilatkozat tételére jogosult mezőgazdasági őstermelő jövedelemadóját a munkáltató az adóbevallást helyettesítő elszámolásra vonatkozó rendelkezések szerint állapítja meg, a magánszemély a munkáltatónak tett, bevallást helyettesítő nyilatkozatában köteles nyilatkozni az e tevékenységből származó bevételéről is. A nyilatkozat alapján a munkáltató az egészségügyi hozzájárulást megállapítja, és az adózás rendjéről szóló törvénynek a jövedelemadó-hátralék levonására vonatkozó szabályai megfelelő alkalmazásával megfizeti. Amennyiben a jövedelemadó-hátralék és az egészségügyi hozzájárulás együttes levonására – a levonható összeg százalékos korlátozására tekintettel – nincs lehetőség, a levonást a kötelezettségek arányában kell teljesíteni.
 

@@ -13,7 +13,7 @@ a következő törvényt alkotja:
 - 3. homeopátiás gyógyszer: a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően készült homeopátiás törzsoldatnak nevezett anyagból a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően előállított gyógyszer, amely több alkotóelemet is tartalmazhat;
 - 4. kábítószer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő anyag;
 - 4/a. kábítószerként minősített gyógyszer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő kábítószernek minősített hatóanyagot tartalmazó gyógyszer;
-- 5. pszichotróp anyag: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–IV. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyag;
+- 5. pszichotróp anyag: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–IV. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének jegyzékein szereplő anyag;
 - 5/a. pszichotróp anyagként minősített gyógyszer: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet II–IV. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének B) jegyzékén szereplő pszichotrópnak minősített hatóanyagot tartalmazó gyógyszer;
 - 6. vizsgálati készítmény: hatóanyag vagy placebo, gyógyszerformában elkészítve, amelyet klinikai vizsgálatban vizsgálnak vagy referencia-(összehasonlító) készítményként használnak, ideértve azokat a készítményeket is, amelyek már rendelkeznek forgalomba hozatali engedéllyel, de klinikai vizsgálat során az elfogadott alkalmazási előírástól eltérően, illetve más kiszerelésben vagy csomagolásban használnak, vagy az elfogadott alkalmazási előírásban foglalt indikációtól eltérő indikációban használják, vagy ha a már forgalomba hozatali engedéllyel rendelkező gyógyszerrel kapcsolatos további adatok gyűjtésére használják;
 - 7. klinikai vizsgálat: bármely, olyan emberen végzett orvostudományi kutatásnak minősülő egy vagy több vizsgálati helyen végzett vizsgálat, amelynek célja egy vagy több vizsgálati készítmény
@@ -57,7 +57,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 34. farmakovigilancia-rendszer: a farmakovigilanciai feladatok ellátásához alkalmazott rendszer, amely a forgalomba hozatali engedéllyel rendelkező gyógyszerek biztonságosságának figyelemmel kísérésére és előny/kockázat viszonyában bekövetkező változás felismerésére szolgál,
 - 35. farmakovigilanciarendszer-törzsdokumentáció: a forgalombahozatali engedély jogosultja által egy vagy több forgalomba hozatali engedéllyel rendelkező gyógyszer tekintetében alkalmazott farmakovigilancia-rendszer részletes leírása,
 - 36. koordinációs csoport: az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv 27. cikkében említett testület,
-- 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékén szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
+- 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékein szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
 - 38. hatóanyag: gyógyszer gyártására szánt bármely anyag vagy azok keveréke, amely a gyártás során azon készítmény aktív összetevőjévé válik, amelyet farmakológiai, immunológiai vagy metabolikus hatás kiváltására szánnak valamely élettani funkció fenntartása, helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében;
 - 39. segédanyag: a gyógyszernek a hatóanyagtól és a csomagolóanyagtól eltérő bármely összetevője;
 - 40. gyógyszerközvetítés: a gyógyszer-nagykereskedelem kivételével a gyógyszerek értékesítésével vagy beszerzésével kapcsolatos bármely tevékenység, amely nem jár a gyógyszer fizikai kezelésével, és amely valamely másik jogi vagy természetes személy nevében folytatott és független tárgyalás formájában valósul meg;
@@ -149,6 +149,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) Nem szükséges gyógyszergyártási engedély beszerzése abban az esetben, ha a gyógyszer nem az EGT-ből történő importjára kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt az importáló az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján importált gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.
 
+(3) Nem szükséges gyógyszergyártási engedély beszerzése, ha a gyógyszert külön engedély alapján gyógyszer-nagykereskedelmi engedéllyel rendelkező gyógyszer-nagykereskedő importálja.
+
 ### A gyógyszer forgalomba hozatalának engedélyezése
 
 5. § (1) A forgalomba hozatali engedély az arra hatáskörrel és illetékességgel rendelkező hatóság által kiadott, a gyógyszer embergyógyászati célra történő alkalmazhatóságát engedélyező hatósági határozat. Ha e törvény másként nem rendelkezik, gyógyszer – a magisztrális gyógyszer kivételével – csak akkor hozható forgalomba, ha forgalomba hozatalát a gyógyszerészeti államigazgatási szerv vagy a 726/2004/EK európai parlamenti és tanácsi rendelet, az 1901/2006/EK európai parlamenti és tanácsi rendelet vagy az 1394/2007/EK európai parlamenti és tanácsi rendelet alapján az Európai Bizottság engedélyezte.
@@ -207,7 +209,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 7. § (1) Különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv a gyártó kérelmére a minőségileg megfelelő és az elvégzett vizsgálatok alapján előnyös terápiás előny/kockázat aránnyal bíró készítményre – a vizsgálatok teljes befejezése előtt, legfeljebb egy év időtartamra – ideiglenes forgalomba hozatali engedélyt adhat ki. A gyógyszerészeti államigazgatási szerv az ideiglenes forgalomba hozatali engedélyben meghatározza a forgalomba hozatali engedély jogosultjának – elsősorban a készítmény biztonságos alkalmazására vonatkozó – jelentési kötelezettségeit. A gyógyszerészeti államigazgatási szerv által előírt feltételeket az engedélyben megszabott rendszerességgel a gyógyszerészeti államigazgatási szervnek be kell jelenteni.
 
-(2) Az (1) bekezdésben meghatározott időtartamra engedélyezheti a gyógyszerészeti államigazgatási szerv a gyógyszer ideiglenes forgalomba hozatalát bármely olyan kórokozó, toxin, kémiai anyag vagy nukleáris sugárzás feltételezett vagy igazolt terjedésének megakadályozása érdekében, amely az egészségre gyakorolt hatása okán közegészségügyi szempontból kiemelten veszélyes.
+(2) Az (1) bekezdésben meghatározott időtartamra engedélyezheti a gyógyszerészeti államigazgatási szerv a gyógyszer ideiglenes hozzáférhetővé tételét és alkalmazását bármely olyan kórokozó, toxin, kémiai anyag vagy nukleáris sugárzás feltételezett vagy igazolt terjedésének megakadályozása érdekében, amely az egészségre gyakorolt hatása okán közegészségügyi szempontból kiemelten veszélyes.
 
 (3) A gyógyszerészeti államigazgatási szerv különös méltánylást érdemlő betegellátási érdekből – kérelemre – kivételes forgalomba hozatali engedélyt adhat ki, ha a készítmény az 5. § (2) bekezdés a) pontjában foglaltaknak megfelel, de a b) és c) pontokban rögzítettek nem bizonyíthatók, csak valószínűsíthetők, mert a készítmény klinikai vizsgálatában a betegség előfordulási gyakorisága miatt a szükségesnél kevesebb beteg vonható be. A gyógyszerészeti államigazgatási szerv a kivételes forgalomba hozatali engedélyben meghatározza a forgalomba hozatali engedély jogosultjának – elsősorban a készítmény biztonságos alkalmazására vonatkozó – jelentési kötelezettségeit. A gyógyszerészeti államigazgatási szerv által előírt feltételeket az engedélyben megszabott rendszerességgel a gyógyszerészeti államigazgatási szervnek be kell jelenteni.
 
@@ -363,7 +365,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 (3) Az (1) bekezdés szerinti előzetes szakmai értékelés során azt kell vizsgálni, hogy az értesítésben megjelölt anyaggal vagy vegyületcsoporttal kapcsolatban a magyar hatóságok, szakértői intézmények előtt nem ismert olyan adat,
 
 - a) amely az értesítésben megjelölt anyag vagy vegyületcsoport gyógyászati felhasználására utalna, és
-- b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok.
+- b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének jegyzékein szereplő anyagok.
 
 (4) Az (1) bekezdés szerinti előzetes szakmai értékelést kormányrendeletben kijelölt szakértői szerv végzi.
 
@@ -371,7 +373,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) Ha a vizsgált új pszichoaktív anyagról a magyarországi, európai uniós, vagy az ENSZ szakosodott szervei által végzett kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, a megfelelő pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
 
-(3) Amennyiben a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, akkor meg kell szüntetni az új pszichoaktív anyaggá minősítését.
+(3) Ha a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló kockázatot jelenthet, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének jegyzékein szereplő anyagok, akkor törölni kell az új pszichoaktív anyagok jegyzékéről és kormányrendeletben meghatározott más jegyzékre kell helyezni.
 
 (4) Amennyiben az 1 éven belüli, az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat szerinti kockázatértékelés lezárásához a szakértői szerv megállapításai szerint nem áll rendelkezésre elegendő adat, az új pszichoaktív anyag minősítése további 1 évre meghosszabbítható.
 
@@ -552,6 +554,30 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (8) A lakossági gyógyszerellátásban résztvevők hatósági ellenőrzéséről egyebekben külön jogszabály rendelkezik.
 
+(9) A gyógyszerészeti államigazgatási szerv a (3) és (4) bekezdés szerinti
+
+- a) egymillió forintot meghaladó összegű pénzbírságot megállapító, vagy
+- b) ismételt jogszabálysértés esetén az egymillió forintot meg nem haladó összegű pénzbírságot megállapító
+
+jogerős határozatát a (10) bekezdésben meghatározott tartalommal teszi közzé.
+
+(10) A közétett dokumentumnak tartalmaznia kell:
+
+- a) a közzététel napját,
+- b) az eljáró hatóság megnevezését,
+- c) az ügy számát és tárgyát,
+- d) a jogsértő nevét,
+- e) a megállapított tényállás összefoglaló ismertetését,
+- f) a megsértett jogszabályi rendelkezések megjelölését,
+- g) a döntés rendelkező részét, valamint
+- h) a döntéssel szembeni jogorvoslati eljárás tényét.
+
+(11) A gyógyszerészeti államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
+
+- a) a jogorvoslattal érintett döntésre vonatkozó (10) bekezdés szerinti információkat,
+- b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
+- c) a közzététel napját.
+
 ### Felelősség a vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért
 
 21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a kárt szenvedett személy, illetve halála esetén a hozzátartozója [a Polgári Törvénykönyv 685. § b) pont] részére
@@ -646,6 +672,10 @@ kártérítést fizet.
 
 (2) A kormányrendeletben meghatározott nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
 
+(2a) Nem kell az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díjat, fenntartási díjat megfizetni a Gyftv. szerinti kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
+
+(2b) A Gyftv. 21. § (1c) bekezdése szerinti esetben a forgalomba hozatali engedély jogosultja köteles az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díj, fenntartási díj megfizetésére.
+
 (3) A díjat az 1. számú melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
 
 (4) Az 1. számú melléklet szerinti díj megállapításánál az alábbiakat kell figyelembe venni:
@@ -657,7 +687,7 @@ kártérítést fizet.
 
 (6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
 
-(7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele, és a díjak nyilvántartására, elszámolására az államháztartás alrendszerébe tartozó költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni. A befizetett díjból a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott díjmegosztás szerint részesül. A gyógyszerészeti államigazgatási szervnél az egészségügyért felelős miniszter rendelete alapján maradó bevétel jogszabály szerinti intézményfenntartási feladatai ellátására felhasználható.
+(7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele. A díjak nyilvántartására, elszámolására az államháztartás számviteléről szóló jogszabályokat kell alkalmazni. A befizetett díjból a gyógyszerészeti államigazgatási szerv és a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott megosztás szerint részesül.
 
 (8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
@@ -676,6 +706,8 @@ kártérítést fizet.
 (6) A gyógyszerészeti államigazgatási szerv e törvényben foglaltak alapján hozott, valamint a gyógyszernek nem minősülő gyógyhatású készítmények nyilvántartása és forgalomba hozatala tárgyában hozott döntései ellen fellebbezésnek helye nincs.
 
 (7) A gyógyszerészeti államigazgatási szerv a Magyarországon forgalomba hozatalra engedélyezett, gyógyszernek nem minősülő gyógyhatású készítmények nevéről és az engedélyezés dátumáról közhiteles hatósági nyilvántartást vezet.
+
+(8) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési és ellenőrzési eljárásokban hozott döntés végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható.
 
 27. § A Ket. 28/B. §-a szerinti elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, vizsgálati készítményekkel és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
 

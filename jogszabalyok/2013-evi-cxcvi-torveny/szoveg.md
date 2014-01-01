@@ -38,7 +38,7 @@ a szövetkezeti hitelintézetek integrációjával kapcsolatos egyes törvények
 
 (3) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény e törvény 8. §-ával megállapított 17/E. § (2) bekezdésében írt tagok nyilvántartását illetve részvénykönyvet és a (3) bekezdésében írt feltárást a jelen törvény hatálybalépésekor tulajdoni hányaddal rendelkező tagok illetve részvényesek illetve közvetett tulajdonosok és valódi tulajdonosok vonatkozásában az e törvény hatályba lépését követő 30. napig kell elkészíteni és az Integrációs Szervezet részére megküldeni.
 
-(4) A 17/E. § (4) bekezdésében írt jogkövetkezményt a jelen törvény hatálybalépésekor tulajdoni hányaddal rendelkező tagok illetve részvényesek vonatkozásában a (3) bekezdés szerinti határidőt követően kell alkalmazni.
+(4) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény e törvény 8. §-ával megállapított 17/E. § (4) bekezdésében írt jogkövetkezményt a jelen törvény hatálybalépésekor tulajdoni hányaddal rendelkező tagok illetve részvényesek vonatkozásában a (3) bekezdés szerinti határidőt követően kell alkalmazni.
 
 (5) Az Integrációs Szervezet új alapszabályát az Integrációs Szervezet igazgatósága e törvény mellékletének megfelelő tartalommal fogadja el a jelen törvény hatályba lépését követő tíz napon belül.
 

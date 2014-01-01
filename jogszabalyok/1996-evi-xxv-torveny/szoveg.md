@@ -22,7 +22,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
   - ee)
 - f) adósságrendezésbe vonható vagyon: törvényben meghatározott forgalomképtelen törzsvagyon feletti, valamint a hatósági feladatok és az alapvető lakossági szolgáltatások ellátásához szükséges vagyon feletti forgalomképes vagyonrész;
 - g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Mötv. 106. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett vagy követelésként fennálló összege, valamint az átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
-- h) reorganizációs hitel: a reorganizációs költségvetés és a hitelezői egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.
+- h) reorganizációs hitel: a válságköltségvetés, valamint a III. és IV. Fejezetben szabályozott eljárásban, az eljárás jogerős befejezéséig az önkormányzat, valamint a hitelezők között megkötött egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.
 
 3. § (1) Az adósságrendezési eljárás a helyi önkormányzat székhelye szerint illetékes törvényszék hatáskörébe tartozó nem peres eljárás.
 
@@ -73,6 +73,8 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 (3) A polgármester az értesítés kézhezvételétől számított 15 napon belül köteles a bíróságnak nyilatkozni arról, hogy a kérelemben foglaltak fennállását a helyi önkormányzat elismeri-e. Ha a polgármester a határidőn belül a bíróságnak nem nyilatkozik, a tartozás fennállásának tényét vélelmezni kell.
 
 7. § Az adósságrendezési eljárásban kötött egyezséget, vagy a vagyon felosztását követően hozott eljárást befejező végzés [25. § (3) bek. 32. § (4) bek.] jogerőre emelkedésétől számított 2 éven belül nem kezdeményezheti az adósságrendezési eljárás lefolytatását az a hitelező, aki fennálló (lejárt és le nem járt) követelését a korábban lefolytatott adósságrendezési eljárásban is érvényesíthette volna.
+
+7/A. § A zálogjogosult hitelező a zálogjog érvényesítésével összefüggő jogait a zálogkötelezett helyi önkormányzattal szemben az adósságrendezési eljárás kezdő időpontjától nem gyakorolhatja, követeléseinek a zálogtárgyból való kielégítésére az e törvény szerinti eljárás keretében kerül sor.
 
 8. § A bíróság a kérelmet érdemi vizsgálat nélkül elutasítja, ha
 
@@ -278,7 +280,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - d) a kimutatást, amelyből megállapítható, hogy a 23. § (3) bekezdésében foglalt feltételeknek az egyezség megfelel,
 - e) a vitatott hitelezői igényekre vonatkozó kimutatást és a szükséges iratokat arra vonatkozóan, hogy ezek kielégítése a 23. § (5)–(6) bekezdés szerinti módon biztosítva van.
 
-(3)
+(3) Ha az egyezség megfelel az e törvényben foglalt követelményeknek, a bíróság az adósságrendezési eljárást befejezi, és elrendeli e végzésnek a jogerőre emelkedését követően a Cégközlönyben való közzétételét. Ha az egyezség nem felel meg az e törvényben foglalt követelményeknek, a bíróság elrendeli az eljárás lefolytatását a 29. §-ban foglaltak szerint. Az eljárást befejező végzés ellen felülvizsgálatnak helye nincs.
 
 (4) Az adósságrendezési eljárás befejezésével egyidejűleg a bíróság külön végzésben a pénzügyi gondnokot felmenti, és – a 33. §-ban foglaltak szerint – megállapítja a díját.
 
@@ -317,7 +319,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 30. § (1) A pénzügyi gondnok a 29. § (6) bekezdésében meghatározott jóváhagyó végzés jogerőre emelkedését követő
 
 - a) 30 napon belül a hitelezők követelését a 31. §-ban meghatározott kielégítési sorrend alapján besorolja, és erről a hitelezőket értesíti,
-- b) 60 napon belül köteles megkísérelni a helyi önkormányzat adósságrendezésbe vonható vagyonának nyilvános értékesítését a forgalomban elérhető legmagasabb áron. A vagyon értékesítése során – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (2) bekezdése alapján az államot megillető elővásárlási jogot követően – a hitelezőket elővásárlási jog illeti meg. A 60 napos határidő a 28. § szerinti módon egy alkalommal meghosszabbítható. A pénzügyi gondnok a határidő lejártát követő 30 napon belül az adósságrendezésbe vonható vagyon hitelezők részére történő felosztására tesz javaslatot. A hitelezői igények kielégítése történhet pénzzel, illetve az értékesítetlen vagyontárgyak hitelezők részére történő átadásával is. Ez utóbbi esetben meg kell állapítani – a kielégítési sorrend és a hitelezői követelések arányának megfelelően –, hogy a hitelezők a helyi önkormányzat vagyonából milyen arányban részesednek.
+- b) 60 napon belül köteles megkísérelni a helyi önkormányzat adósságrendezésbe vonható vagyonának nyilvános értékesítését a forgalomban elérhető legmagasabb áron. A vagyon értékesítése során – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (2) bekezdése, valamint a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 86. § (1) bekezdése alapján az államot megillető elővásárlási jogot követően – a hitelezőket elővásárlási jog illeti meg. A 60 napos határidő a 28. § szerinti módon egy alkalommal meghosszabbítható. A pénzügyi gondnok a határidő lejártát követő 30 napon belül az adósságrendezésbe vonható vagyon hitelezők részére történő felosztására tesz javaslatot. A hitelezői igények kielégítése történhet pénzzel, illetve az értékesítetlen vagyontárgyak hitelezők részére történő átadásával is. Ez utóbbi esetben meg kell állapítani – a kielégítési sorrend és a hitelezői követelések arányának megfelelően –, hogy a hitelezők a helyi önkormányzat vagyonából milyen arányban részesednek.
 
 (2) Az értékesítetlen vagyontárgyaknak a hitelezők közötti felosztásával történő vagyonszerzés illetékmentes.
 
@@ -346,7 +348,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) A bíróság a kifogást előterjesztő, továbbá a pénzügyi gondnok és a polgármester meghallgatása után dönt a vagyonfelosztási javaslatról.
 
-(4) Ha a bíróság a vagyonfelosztási javaslatot jóváhagyja, kötelezi a pénzügyi gondnokot a vagyonfelosztás végrehajtására. A vagyonfelosztás megtörténtét a pénzügyi gondnok haladéktalanul köteles bejelenteni a bíróságnak. A bejelentést követően a bíróság az adósságrendezési eljárást végzéssel befejezi, a végzés ellen fellebbezésnek helye nincs.
+(4) Ha a bíróság a vagyonfelosztási javaslatot jóváhagyja, kötelezi a pénzügyi gondnokot a vagyonfelosztás végrehajtására. A vagyonfelosztás megtörténtét a pénzügyi gondnok haladéktalanul köteles bejelenteni a bíróságnak. A bejelentést követően a bíróság az adósságrendezési eljárást végzéssel befejezi, a végzés ellen felülvizsgálatnak helye nincs.
 
 (4a) Ha a (4) bekezdés szerinti jóváhagyást megelőzően a helyi önkormányzat és hitelezői a hitelezők követelésének kielégítését célzó egyezséget kötnek és az egyezség megfelel a jogszabályoknak, a bíróság az adósságrendezési eljárást végzéssel befejezi. Az egyezségkötésre és a bíróság végzésére a 20. § (3) és (4) bekezdését, a 20/A. §-t, a 22. § (3) és (4) bekezdését, a 22/A–24. §-t, a 25. § (1)–(4) bekezdését, a 26. §-t és a 27. §-t kell alkalmazni.
 
@@ -356,7 +358,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 ### V. Fejezet — Egyéb rendelkezések
 
-33. § (1) A pénzügyi gondnok díját – az eset összes körülményeitől függően – a bíróság állapítja meg. Összegét az éves költségvetési törvény határozza meg; 1996-ban legalább 300 ezer Ft, legfeljebb 2 millió Ft.
+33. § (1) A pénzügyi gondnok díját – az eset összes körülményeitől függően – a bíróság állapítja meg. A díj lehetséges mértékét a központi költségvetésről szóló törvény határozza meg.
 
 (2) A pénzügyi gondnok díjának fedezete a központi költségvetés helyi önkormányzatok támogatásait tartalmazó fejezetében áll rendelkezésre. A miniszter a bíróság jogerős végzése alapján a díjösszeg kiutalásáról a kincstáron keresztül intézkedik.
 

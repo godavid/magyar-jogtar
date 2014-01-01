@@ -30,12 +30,18 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - 11. cukrozott kakaópor: a 1806 10 VTSZ szám alá tartozó termék.
 - 12. metil-xantin: a koffein (1,3,7-trimetil-xantin), a teobromin (3,7-dimetil-xantin), a teofillin (1,3-dimetil-xantin).
 - 13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
+- 14. szörp: A Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, víz- és kivonatalapú, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból vagy cukorszirupból, ízesítő és adalékanyagok hozzáadásával állítottak elő.
 
 #### 2. Az adókötelezettség
 
 2. § Adóköteles terméknek minősül az előrecsomagolt termékként forgalomba hozott,
 
-- a) a 2009, 2202 VTSZ szám alá tartozó – energiaitalnak nem minősülő – termék, a Magyar Élelmiszerkönyv szerinti kivonat alapú szörpök, valamint a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó sűrítmények, koncentrátumok, szörpök, nektárok, gyümölcslevek és zöldséglevek, valamint a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 8 gramm cukor/100 milliliter mennyiséget (a továbbiakban: üdítőital);
+- a) hozzáadott cukrot tartalmazó, 8 gramm cukor/100 milliliter mennyiséget meghaladó cukortartalmú
+  - aa) 2009, 2202 VTSZ szám alá tartozó – energiaitalnak nem minősülő – termék a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó nektárok, gyümölcslevek és zöldséglevek, valamint a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével,
+  - ab) szörp a Magyar Élelmiszerkönyv szerinti kivonat alapú szörpök, valamint a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó szörpök kivételével,
+
+[az aa) és ab) alpont a továbbiakban együtt: üdítőital];
+
 - b) a 2009, 2202 VTSZ szám alá tartozó termék, ha metil-xantint tartalmaz, ideértve azt az esetet is, ha a metil-xantint a termék valamely összetevője tartalmazza és
   - ba) taurint tartalmaz, ideértve azt az esetet is, ha a taurint a termék valamely összetevője tartalmazza, feltéve, hogy metil-xantin-tartalma meghaladja az 1 milligramm metil-xantin/100 milliliter mennyiséget vagy taurintartalma meghaladja a 100 milligramm taurin/100 milliliter mennyiséget, vagy
   - bb) metil-xantin-tartalma meghaladja a 15 milligramm metil-xantin/100 milliliter mennyiséget,
@@ -73,7 +79,7 @@ személy, szervezet.
 
 6. § Az adó mértéke
 
-- a) a sűrítmény, koncentrátum vagy szörp formában értékesített üdítőital esetében 200 forint/liter, más üdítőital esetében 7 forint/liter,
+- a) a 2. § a) pont aa) alpontja szerinti üdítőital esetében 7 forint/liter, ab) alpontja szerinti üdítőital esetében 200 forint/liter,
 - b) a 2. § b) pontjának
   - ba) ba) alpontja szerinti energiaital esetében 250 forint/liter,
   - bb) bb) alpontja szerinti energiaital esetében 40 forint/liter,

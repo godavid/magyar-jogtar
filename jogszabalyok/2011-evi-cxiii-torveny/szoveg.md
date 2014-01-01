@@ -667,11 +667,13 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 #### 27. A Honvédség szervezeteinek elhelyezése
 
-42. § (1) A Honvédség szervezeteinek elhelyezéséhez, és feladatai ellátásához rendelkezésre bocsátott ingatlanok állami tulajdonban, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében állnak.
+42. § (1) A Honvédség szervezeteinek elhelyezéséhez, és feladatai ellátásához rendelkezésre bocsátott ingatlanok állami tulajdonban, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében állnak. A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok elsődleges rendeltetése a honvédelmi feladatok ellátásának biztosítása.
 
 (2) A katonai szervezetek kijelölés alapján használatba kapják az ingatlanokat.
 
 (3) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.
+
+42/A. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon Magyarországnak az Észak-atlanti Szerződés Szervezetében való tagságából eredő szövetségesi kötelezettségének teljesítésével összefüggésben nemzetközi szervezet vagy nemzetközi katonai parancsnokság javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.
 
 ### VII. Fejezet — A HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
 
@@ -1296,7 +1298,7 @@ rendelheti el.
   - db) az önkéntes tartalékos őrzésvédelmi és a katonai rendészeti tevékenység teljesítését,
   - dc) a személyi szabadság korlátozásának eljárási szabályait és a végrehajtásának módját, a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,
 - e) a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe, irányítása, fenntartói irányítása és felügyelete alá tartozó, valamint a Honvédség hadrendje szerinti szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
-- f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, továbbá a honvédségi munkavállalóknak és a kormánytisztviselőknek nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások körét, a jogosultság feltételeit és rendjét, továbbá a külföldi szolgálatot teljesítő és külföldi képzésben részt vevő honvédségi munkavállalók és kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
+- f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, továbbá a honvédségi munkavállalóknak, a kormánytisztviselőknek és a kormányzati ügykezelőknek nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások körét, a jogosultság feltételeit és rendjét, továbbá a külföldi szolgálatot teljesítő és külföldi képzésben részt vevő honvédségi munkavállalók, kormánytisztviselők és kormányzati ügykezelők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
 - g) a NATO-NYEU központi nyilvántartó, a NATO-NYEU központi rejtjel elosztó hatóság működési rendjét, valamint a nyilvántartó rendszer működéséhez szükséges általános követelményeket és eljárásokat,
 - h) a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,
 - i) az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
@@ -1309,6 +1311,11 @@ rendelheti el.
 - p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait,
 - q) a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait.
 
+(2a) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
+
+- a) a Honvédség által a Köztársasági Elnöki Hivatalnál foglalkoztatottak részére nyújtható, üdültetési és pihentetési szolgáltatások fajtáit, azok feltételeit és rendjét, továbbá a Honvédség személyi állományába nem tartozó személyeknek szolgálati érdekkel összefüggésben nyújtható költségtérítések fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés rendjét,
+- b) a nyugállományú katonák és a honvédelmi szervezettől nyugdíjba vonult közalkalmazottak segítését célul kitűző civil szervezetek természetbeni támogatásával összefüggő szabályokat.
+
 (3) Felhatalmazást kapnak a miniszterek, hogy feladatkörükben eljárva a honvédelemért felelős miniszterrel egyetértésben, rendeletben határozzák meg ágazatuk honvédelmi feladatait, valamint az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.
 
 #### 50. Hatályba léptető rendelkezések
@@ -1319,7 +1326,12 @@ rendelheti el.
 
 #### 51. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-83. § E törvény I–V. Fejezete a 38. § (7) és (8) bekezdése kivételével, a VII–IX. Fejezete, a 48. alcíme, a 49. alcíme és az 52. alcíme az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése alapján sarkalatosnak minősül.
+83. § E törvény
+
+- a) I–V. Fejezete a 38. § (7) és (8) bekezdése kivételével, VII–IX. Fejezete, 48. alcíme, 49. alcíme, 52. alcíme és 1. melléklete az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
+- b) 42/A. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése
+
+alapján sarkalatosnak minősül.
 
 #### 52. Átmeneti rendelkezések
 

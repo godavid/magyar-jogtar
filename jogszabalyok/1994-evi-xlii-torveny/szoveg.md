@@ -12,42 +12,40 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (2) Az Eximbankban és a Mehib Rt.-ben az állam tulajdonában álló társasági részesedések feletti tulajdonosi (részvényesi) jogok gyakorlására a gazdaságpolitikáért felelős miniszter (a továbbiakban: miniszter) jogosult.
 
-(3) Az Eximbankra és az általa végzett tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényt (a továbbiakban: Hpt.) és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényt (a továbbiakban: Bszt.) az e törvényben foglalt eltérésekkel kell alkalmazni. A Mehib Rt. által végzett piacképes kockázatú biztosítási tevékenységére a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényt (a továbbiakban: Bit.) az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) Az Eximbankra és az általa végzett tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényt (a továbbiakban: Hpt.) és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényt (a továbbiakban: Bszt.) az e törvényben foglalt eltérésekkel kell alkalmazni. A Mehib Rt. által végzett piacképes kockázatú biztosítási tevékenységére a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényt (a továbbiakban: Bit.) az e törvényben foglalt eltérésekkel kell alkalmazni. Amennyiben a Mehib Rt. a 3. § (1) bekezdésében meghatározott piacképes kockázatú biztosítási, illetve viszontbiztosítási tevékenységet is végez, úgy tevékenységét az e törvényben meghatározott valamennyi tevékenységet érintő összevont szervezet keretében is végezheti, azzal, hogy a Bit.-ben nevesített egyes feladatkörök ellátása az összevont szervezet keretében is megvalósul.
 
 (4) Az Eximbankra és a Mehib Rt.-re a gazdasági társaságokról szóló törvényt (a továbbiakban: Gt.) az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, nemzetközi segélyügyletekre, valamint a magyar befektetők külföldi befektetéseire, továbbá külföldiek magyarországi beruházásaira vonatkozóan jogosult végezni.
+(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, valamint a magyar befektetők külföldi befektetéseire, továbbá külföldiek magyarországi beruházásaira vonatkozóan jogosult végezni.
 
 (5a) E törvény alkalmazásában:
 
 - a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésben foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás,
-- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
+- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
-(7) Az Eximbank tekintetében a Hpt. 69/B–69/E. §-ában foglaltakat nem kell alkalmazni.
+(7) Az Eximbank tekintetében a Hpt. 117–121. §-ában foglaltakat nem kell alkalmazni.
 
-2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
+(8) Az Eximbank a prudenciális követelmények tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) szerint jár el az e törvényben foglalt eltérésekkel.
+
+2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
 
 - a) hitel és pénzkölcsön nyújtása;
 - b) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
-- c) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
-- d) a Bszt. 5. § (1) bekezdésének a)–c) pontjában meghatározott tevékenység a Bszt. 6. §-ában meghatározott pénzügyi eszköz tekintetében;
+- c) valutával, devizával – ide nem értve a pénzváltási tevékenységet -, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
+- d) a Bszt. 5. § (1) bekezdés a)–c) pontjában meghatározott tevékenység a Bszt. 6. §-ában meghatározott pénzügyi eszköz tekintetében;
 - e) hitel referencia szolgáltatás;
 - f) pénzforgalmi szolgáltatások nyújtása;
 - g) kizárólag tevékenységéhez szükséges forrásszerzés céljából:
   - ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től;
   - gb) kötvények kibocsátása.
 
-(2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek és kedvező kamatozású hiteleket nyújthat
-
-- a) devizabelföldi és devizakülföldi hitelintézeteknek,
-- b) a belföldi székhelyű, magyar árukat, szolgáltatásokat exportáló gazdálkodó szervezeteknek (a továbbiakban: exportőr),
-- c) az exportőr exportjának teljesítését az 1. § (5a) bekezdés a) pontjában meghatározottak szerint elősegítő beszállítóknak,
-- d) az exportot az 1. § (5a) bekezdés b) pontjában meghatározottak szerint elősegítő, belföldi vagy külföldi befektetést megvalósító exportőrnek,
-- e) a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
+(2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek, és kedvező kamatozású hiteleket nyújthat a külön rendeletben foglalt feltételek mellett. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
 
 (3) Az (1) bekezdés f) pontjában meghatározott tevékenységet az Eximbank kizárólag az adott ügylettel kapcsolatban végezhet, olyan gazdasági társaságok, egyéni cégek és egyéni vállalkozók (a továbbiakban: ügyfelek) részére, amelyeknek hitelt nyújtott, vagy amelyekért garanciát vállalt, a hitel-, illetve a garanciajogviszony fennállásáig.
+
+(4) Az Eximbank az e §-ban szereplő tevékenységéhez a központi költségvetés terhére, valamint a központi költségvetésből folyósított előirányzatokból kapott támogatás felhasználásával kötött ügyletekre rögzíti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény rendelkezései alapján kidolgozott, valamint a Hpt. alapján elfogadott belső eljárásokra vonatkozó szabályzataiban azokat a speciális, fokozott körültekintést biztosító megfelelési eljárásokat, valamint többlettőke-követelmény meghatározására irányuló számítási módszereket is, amelyet azon szervezetek esetében alkalmaz a kockázatok csökkentésére, amelyek az államháztartásról szóló 2011. évi CXCV. törvény alapján nem minősülnek átláthatónak.
 
 3. § (1) A Mehib Rt. tevékenysége a következő biztosítási ágazatok piacképes és nem- piacképes kockázatú biztosításaira, viszontbiztosításaira, valamint az ezekhez kapcsolódó információszolgáltatásra terjed ki:
 
@@ -88,6 +86,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 (9) A (4) bekezdés a) pontjában foglalt kockázatok az exportcélú szerződések gyártási és teljesítési szakaszaira biztosíthatóak, illetőleg viszontbiztosíthatók.
 
 (10) A Mehib Rt.-nek az általa megkötött piacképes kockázatú biztosításokból eredő fizetési kötelezettségei még abban az esetben sem teljesíthetőek a központi költségvetés terhére, ha az ügylethez kapcsolódó besorolási feltételek későbbi megváltozása nem-piacképes kockázatú biztosítás megkötését tenné lehetővé.
+
+(11) A Mehib Rt. az e § alapján folytatott tevékenységéhez a központi költségvetés terhére, valamint a központi költségvetésből folyósított előirányzatokból kapott támogatás felhasználásával kötött ügyletekre rögzíti az ügyfél azonosítási eljárásról szóló belső szabályzatában azokat a speciális, fokozott körültekintést biztosító megfelelési eljárásokat is, amelyeket azon szervezetek esetében alkalmaz a kockázatok csökkentésére, amelyek az államháztartásról szóló 2011. évi CXCV. törvény alapján nem minősülnek átláthatónak.
 
 4. § (1) Az Eximbank és a Mehib Rt. az e törvényben meghatározott tevékenységeit más jogi személy útján nem gyakorolhatja. Az Eximbank a Mehib Rt. részére, a Mehib Rt. pedig az Eximbank részére, az e törvényben meghatározott tevékenységeken kívül, pénzügyi szolgáltatásnak és kiegészítő pénzügyi szolgáltatásnak, vagy biztosítási tevékenységnek nem minősülő, a TEÁOR'08 besorolása szerinti következő tevékenységeket végezheti üzletszerűen:
 
@@ -150,7 +150,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 8. § Az e törvény alapján vállalt jogszabályi állami kezességgel kapcsolatosan az Állam kezességvállalási díjat nem számol fel.
 
-8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani.Az Eximbank és a Mehib Rt. a követelés behajtása során az államháztartásról szóló 2011. évi CXCV. törvényben és a végrehajtására kiadott rendeletben a külföldi követelésekkel kapcsolatban megfogalmazottak figyelembevételével köteles eljárni.
+8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani, vagy harmadik személy útján behajtatni. Az Eximbank és a Mehib Rt. a követelés behajtása, vagy harmadik személy útján történő behajtatása során az államháztartásról szóló 2011. évi CXCV. törvény és a végrehajtására kiadott rendelet rendelkezéseinek figyelembevételével köteles eljárni.
 
 (2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a kamat és késedelmi kamat nélkül befolyt követelés.
 
@@ -176,7 +176,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib Rt. igazgatósági tagjává, a Mehib Rt. igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.
 
-(3) Az Eximbank tekintetében a Hpt. 62. § (2) bekezdését nem kell alkalmazni.
+(3) Az Eximbank tekintetében a Hpt. 148. § (2) bekezdését nem kell alkalmazni.
 
 ### Felügyelő bizottság
 
@@ -194,9 +194,9 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (2) Az igazgatóság és a felügyelőbizottság tagjai, valamint a vezérigazgató pártban tisztséget nem viselhetnek, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathatnak.
 
-18. § (1) A Hpt. 44. § (1) bekezdésében és a Bit. 83. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
+18. § (1) A Hpt. 137. § (1) bekezdésében és a Bit. 83. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
 
-(2) A Hpt. 44. és 68. §-ától, valamint a Bit. 83. és 91. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
+(2) A Hpt. 137. §-ától és 155. §-ától, valamint a Bit. 83. és 91. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
 
 - a) büntetlen előéletű,
 - b) rendelkezik legalább tizennyolc hónap – banki, biztosítási területen vagy a vállalati gazdálkodás vagy a közigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal,
@@ -239,23 +239,25 @@ szerzett.
 
 ### Szavatoló tőke és tőkemegfelelés
 
-20. § (1) Az Eximbank szavatoló tőkéjének kiszámítása során járulékos tőkeelemnek minősül minden olyan hitel és kötvény, amely kielégíti az alábbi feltételeket:
+20. § (1) Az Eximbank szavatoló tőkéjének kiszámítása során az 575/2013/EU rendelet Második rész I. cím 4. fejezet 1. szakasz vonatkozásában járulékos tőkeelemnek minősül minden olyan hitel és kötvény, amely kielégíti az alábbi feltételeket:
 
 - a) ténylegesen rendelkezésre áll, és az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
-- b) a hitel, illetve a kötvény eredeti futamideje öt évet meghaladó lejáratú, illetve – ha a lejárat nincs meghatározva – a hitel csak a szerződésben rögzített, legkevesebb öt év múlva mondható fel, és
+- b) a hitel, illetve a kötvény eredeti futamideje öt évet meghaladó lejáratú, illetve – ha a lejárat nincs meghatározva – a hitel csak a szerződésben rögzített, legkevesebb öt év múlva mondható fel és
 - c) a hitel esetében tőketörlesztés az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges.
 
-(2) A Hpt. 5. számú melléklet 24. pontjában foglaltakat az Eximbankra nem kell alkalmazni.
+(2)
 
-(3) A Hpt. XIV. fejezete alkalmazásában az Eximbank pénzügyi vállalkozásnak minősül.
+(3) Az 575/2013/EU rendelet Első rész II. cím 2. fejezetének alkalmazásában az Eximbank pénzügyi vállalkozásnak minősül.
+
+(4) Az Eximbank nem alkalmazza az 575/2013/EU rendelet 411–428. cikkében foglaltakat.
 
 ### Hitelnyújtás
 
-21. § (1) Az Eximbank esetében a Hpt. 79. § (1) bekezdésében foglaltaktól eltérően nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség, ha annak értéke eléri vagy meghaladja az Eximbank szavatoló tőkéjének huszonöt százalékát.
+21. § (1) Az Eximbank esetében az 575/2013/EU rendelet 392. cikkében foglaltaktól eltérően nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség, ha annak értéke eléri vagy meghaladja az Eximbank szavatoló tőkéjének huszonöt százalékát.
 
-(2) A Hpt. 79. § (2) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát.
+(2) Az 575/2013/EU rendelet 395. cikk (1) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát.
 
-(3) Az (1)–(2) bekezdésben foglalt rendelkezéseket nem kell alkalmazni – a Hpt. 80. §-ának (1) bekezdésében meghatározottakon túlmenően –
+(3) Az (1)–(2) bekezdésben foglalt rendelkezéseket nem kell alkalmazni – az 575/2013/EU rendelet 400. cikk (1) bekezdésében meghatározottakon túlmenően –
 
 - a) az Eximbank által a bel- és külföldi hitelintézet számára nyújtott exportcélú hitelnél és pénzkölcsönnél,
 - b) az Eximbank által olyan külföldi vevőnek nyújtott hitelnél és pénzkölcsönnél, amikor a célország hitelminősítési besorolása a Gazdasági Együttműködési és Fejlesztési Szervezet „Hivatalosan támogatott exporthitelekről szóló megállapodásban” foglalt módszerek szerint legalább 3 vagy annál jobb és a célország központi költségvetése vagy központi bankja garantálja a hitel és a pénzkölcsön visszafizetését,
@@ -270,7 +272,7 @@ szerzett.
 
 ### Titoktartás
 
-24. § A Hpt. 51. §-ában és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 81. § (2) bekezdésében foglalt titoktartási kötelezettség nem terjed ki – a Hpt. 51. § (2) bekezdésében és a Ptk. 81. § (3) bekezdésében foglaltakon túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított adatokra sem.
+24. § A Hpt. 161. §-ában és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 81. § (2) bekezdésében foglalt titoktartási kötelezettség nem terjed ki – a Hpt. 161. § (2) bekezdésében és a Ptk. 81. § (3) bekezdésében foglaltakon túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított adatokra sem.
 
 24/A. §
 

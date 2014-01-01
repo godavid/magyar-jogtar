@@ -224,7 +224,15 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 227–230. §
 
-231. §
+231. § Az Szt. 10. §-a a következő (5)–(6) bekezdéssel egészül ki:
+
+„(5) Azon vállalkozó esetében, amely a (2) és (3) bekezdés alapján a nemzetközi számviteli standardok szerint állítja össze az összevont (konszolidált) éves beszámolóját – e törvény, valamint a külön jogszabályok könyvvizsgálatra vonatkozóan meghatározott feltételein túlmenően – jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok ellátására csak akkor adható kamarai tag könyvvizsgáló (könyvvizsgáló cég) részére megbízás, ha a kamarai tag könyvvizsgáló (könyvvizsgáló cég) rendelkezik IFRS minősítéssel.
+
+(6) Az (5) bekezdés szerinti vállalkozó a 151. § (1) bekezdésének alkalmazása során köteles gondoskodni arról, hogy a könyvviteli szolgáltatás körébe tartozó feladatok irányítását, vezetését, az éves beszámoló, az összevont (konszolidált) éves beszámoló elkészítését olyan személy végezze, aki
+
+a) IFRS regisztrálási szakterületen szerepel a könyvviteli szolgáltatást végzők nyilvántartásában, vagy
+
+b) IFRS minősítéssel rendelkező kamarai tag könyvvizsgáló.”
 
 232–249. §
 
@@ -236,7 +244,9 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (2)
 
-(3)
+(3) Az Szt. 177. §-a a következő (25) bekezdéssel egészül ki:
+
+„(25) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel beiktatott 10. §-ának (5)–(6) bekezdését első alkalommal a 2014. évben induló üzleti évről készített beszámolóra kell alkalmazni.”
 
 256–257. §
 
@@ -515,11 +525,15 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 - a) a kifizetőnek a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel, vagy azzal összefüggésben a természetes személy részére juttatott, kifizetett, a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső nem önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem, növelve a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj összegével;
 - b) a kifizetőnek a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel, vagy azzal összefüggésben a természetes személy részére juttatott, kifizetett, a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem;
-- c) a tanulószerződésben meghatározott díj;
-- d) a hivatásos nevelőszülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint megillető hivatásos nevelőszülői díj;
-- e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi alapbér.
+- c) a tanulószerződés alapján ténylegesen kifizetett díj;
+- d)
+- e) az a)–b) pont hatálya alá tartozó juttatás hiányában a munkaszerződésben meghatározott alapbér vagy – ha a munkát munkavégzésre irányuló egyéb jogviszonyban végzik – a szerződésben meghatározott díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér.
 
 (1a) Ha a kifizető a természetes személlyel fennálló adófizetési kötelezettséget eredményező jogviszonya alapján ugyanazon adó-megállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is kifizet (juttat), az adóalap megállapításánál az (1) bekezdés a)–b) és e) pontját együttesen kell alkalmazni, azzal az eltéréssel, hogy az (1) bekezdés e) pontjának alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
+
+(1b) Az adóalap megállapításánál az (1) bekezdésben meghatározott jövedelmet akkor is számításba kell venni, ha annak kifizetésére az adófizetési kötelezettséggel járó jogviszony megszűnését követően kerül sor.
+
+(1c) Az adókötelezettséget megalapozó jogviszony megszűnését követően, e jogviszony alapján jutatott (kifizetett) adólapot képező jövedelmet úgy kell figyelembe venni, mintha annak kifizetésére a jogviszony megszűnése napján került volna sor.
 
 (2) Adófizetési kötelezettséget eredményező jogviszony:
 
@@ -536,7 +550,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 - a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
 - b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony;
-- c) a szociális szövetkezetnek a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya.
+- c) a szociális szövetkezetnek a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya;
+- d) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszony,
 
 (4) A kifizetőt terhelő adónak nem alapja:
 
@@ -559,7 +574,12 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - a) a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében külön törvény rendelkezése szerint az adóévre, vagy az adóévnek a munkaviszonya vagy tanulói (hallgatói) jogviszonya megszűnését követő hátralévő részére tett nyilatkozat esetében a nyilatkozat szerinti összeg;
 - b) az a) pont hatálya alá nem tartozó esetben az adóalap megállapításának egyéni vállalkozóra, illetve őstermelőre irányadó különös szabályai szerint meghatározott összeg.
 
-(3) Az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót saját maga után terhelő adó alapja az egyszerűsített vállalkozói adó alapjának 4 százaléka, ha az adóalap megállapításának különös szabályai alkalmazása alól legalább heti 36 órás foglalkoztatással járó munkaviszonyára, vagy közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányaira tekintettel mentesül.
+(3) Ha az egyéni vállalkozó egyszerűsített vállalkozói adóalanyisága év közben megszűnik, a (2) bekezdés a) pont szerinti adóalapot törthónap esetén az egyszerűsített vállalkozói adóalanyisága megszűnésének hónapjában napi arányosítással állapítja meg.
+
+(4) Az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót saját maga után terhelő adó alapja az egyszerűsített vállalkozói adó alapjának 4 százaléka, ha
+
+- a) az adóalap megállapításának különös szabályai alkalmazása alól legalább heti 36 órás foglalkoztatással járó munkaviszonyára, közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányaira tekintettel mentesül, vagy
+- b) tagként a kifizetővel az adóalap megállapításának különös szabályai hatálya alá tartozó jogviszonyban áll.
 
 ### Az adóalap megállapításának különös szabályai
 
@@ -585,7 +605,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - a) önkéntes tartalékos katonaként katonai szolgálatot teljesít;
 - b) fogvatartott.
 
-(3) Az ügyvédi iroda, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, a közjegyzői iroda a tagjával fennálló jogviszonya alapján őt terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(2) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja ügyvédi kamarai, szabadalmi ügyvivői kamarai, illetőleg közjegyzői kamarai tagsága szünetel. Az ügyvédi, szabadalmi ügyvivői vagy közjegyzői tevékenységet folytató egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(2) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen ügyvédi kamarai, szabadalmi ügyvivői kamarai, illetőleg közjegyzői kamarai tagsága szünetel.
+(3) Az ügyvédi iroda, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, a közjegyzői iroda a tagjával fennálló jogviszonya alapján őt terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(2) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja ügyvédi tevékenysége, szabadalmi ügyvivői kamarai, illetve közjegyzői kamarai tagsága szünetel. Az ügyvédi, szabadalmi ügyvivői, közjegyzői vagy állat-egészségügyi szolgáltató tevékenységet folytató egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(2) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen ügyvédi tevékenysége, szabadalmi ügyvivői kamarai, közjegyzői kamarai tagsága, vagy állat-egészségügyi szolgáltató tevékenysége szünetel.
 
 (4) Az egyéni vállalkozóról és az egyéni cégről szóló törvény szerint vezetett nyilvántartásban szereplő egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(2) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen egyéni vállalkozói tevékenységét szünetelteti.
 
@@ -610,70 +630,9 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 ### Adókedvezmények
 
-### A munkabérek nettó értékének megőrzését célzó adókedvezmény
+460. §
 
-460. § (1) A költségvetési szervnek, valamint az egyházi jogi személy által fenntartott, közfeladatot ellátó egészségügyi, oktatási, szociális, valamint közgyűjteményi és közművelődési szolgáltatást nyújtó intézménynek nem minősülő kifizető az őt az adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe, amennyiben a munkabérek elvárt emeléséről szóló kormányrendelet szerinti elvárt béremelést – ide nem értve az elvárt béremelésnek akár csak részben is béren kívüli juttatás formájában történő megvalósítását – valamennyi folyamatosan foglalkoztatott munkavállalója tekintetében végrehajtotta.
-
-(2) Az (1) bekezdés szerinti kifizető az adókedvezményt az adóév egészében, de csak az olyan hónapra fizetendő adó megállapításánál, veheti igénybe, amelyre vonatkozóan az (1) bekezdés szerinti feltétel (a legalább a kormányrendelet szerint 2012-re elvárt mértékű béremelés) valamennyi folyamatosan foglalkoztatott munkavállalóját az adott hónapra megillető munkabér tekintetében teljesül.
-
-(2a) Munkaerő-kölcsönzési tevékenységet jogszerűen folytató munkáltató esetén az (1) bekezdés szerinti feltétel megvalósulását külön kell vizsgálni
-
-- a) a vele nem munkaerő-kölcsönzés céljából és
-- b) a vele munkaerő-kölcsönzés céljából munkaviszonyban álló munkavállalók tekintetében.
-
-(2b) Ha a (2a) bekezdés a) pontja szerinti munkavállalók tekintetében az (1) bekezdés szerinti feltétel teljesül, e munkavállalókra tekintettel az adókedvezmény igénybe vehető.
-
-(2c) A (2a) bekezdés b) pontja szerinti munkavállalók esetében az adókedvezmény azon munkavállaló tekintetében és azon időszakokra vehető igénybe, amely munkavállaló esetében és amely időszakra a kölcsönbeadó munkáltató a kölcsönvevő munkáltató nyilatkozatával igazolja, hogy a kölcsönvevő az (1) bekezdés szerinti feltételnek – ha az adókedvezmény érvényesítéséhez esetében kapcsolódott feltétel – megfelel és a kölcsönzött munkavállalók tekintetében a kölcsönbeadó a kölcsönvevőnél azonos vagy hasonló munkakörben foglalkoztatottak számára az elvárt béremelés végrehajtását követően megillető munkabért állapítja meg.
-
-(2d) Ha a nyilatkozatot tevő kölcsönvevő nem foglalkoztat azonos vagy hasonló munkakörben a (2a) bekezdés b) pontja szerinti munkavállalót, a munkaerő-kölcsönzési tevékenységet jogszerűen folytató munkáltató az adókedvezményt az ilyen kölcsönzött munkavállalók tekintetében csak akkor veheti igénybe, ha az elvárt béremelést végrehajtotta és a kölcsönbeadó munkáltató a (2a) bekezdés a) pontja szerinti munkavállalók tekintetében az (1) bekezdés szerinti feltételt teljesíti.
-
-(2e) Külföldi székhelyű munkaerő-kölcsönzési tevékenységet folytató munkáltató esetében a vele nem munkaerő-kölcsönzés céljából munkaviszonyban álló munkavállaló tekintetében az (1) bekezdés szerinti feltétel teljesülését csak akkor kell vizsgálni, ha a munkaviszony e törvény szerint adófizetési kötelezettséget eredményező munkaviszonynak minősül.
-
-(2f) A (2a) bekezdés b) pontja szerinti munkavállalók esetében az adókedvezmény azon munkavállaló tekintetében és azon időszakokra is igénybe vehető, amely munkavállaló esetében és amely időszakra a kölcsönbeadó munkáltató a kölcsönzött munkavállalóra nézve az elvárt béremelést végrehajtotta, tekintet nélkül arra, hogy a kölcsönvevő az (1) bekezdés szerinti feltételnek – ha az adókedvezmény érvényesítéséhez esetében kapcsolódott feltétel – megfelel-e.
-
-(3) A 2011. november 1. és december 31. közötti időszakban természetes személyt munkaviszonyban egyetlen napig sem foglalkoztató kifizető az adókedvezményt az (1)–(2) bekezdésben foglaltaktól függetlenül igénybe veheti, feltéve, hogy az említett időszakban egyetlen belföldi kapcsolt vállalkozása sem foglalkoztatott természetes személyt munkaviszonyban. E rendelkezés alkalmazását természetes személy kifizető esetében kizárja különösen, ha saját maga vagy közeli hozzátartozója (egyéni vállalkozóként, mezőgazdasági őstermelőként vagy egyéb körülmények között), vagy olyan egyéni cég, amelynek ő vagy közeli hozzátartozója a tagja, foglalkoztatott munkaviszonyban természetes személyt.
-
-(4) Az adókedvezmény összegét a kifizető havonta az adott hónap egészében fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön – a részkedvezmény alapját és mértékét figyelembe véve – kiszámított részkedvezmények összegeként állapítja meg.
-
-(5) A részkedvezmény alapja a kifizetővel munkaviszonyban álló természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, bármely esetben kivéve az egyszerűsített foglalkoztatásról szóló törvény alapján létesített munkaviszony szerinti munkabért (a továbbiakban: részkedvezmény-alap).
-
-(5a) Ha a kifizetőt terhelő adó alapja a munkavállaló kiküldetését megelőző évi havi átlagos alapbér, a részkedvezmény alapja – az (5) bekezdéstől eltérően – a kifizetővel munkaviszonyban álló munkavállalót az adómegállapítási időszakra megillető, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér.
-
-(6) A kedvezmény mértéke
-
-- a) a 2012. évre havonta
-  - aa) a kedvezményalap 21,5 százaléka, de legfeljebb 16 125 forint, ha a részkedvezmény-alap nem haladja meg a 75 ezer forintot,
-  - ab) az aa) alpont szerint meghatározott összegnek a 75 ezer forint feletti kedvezményalap 14 százalékát meghaladó része, ha a kedvezményalap meghaladja a 75 ezer forintot;
-- b) a 2013. évre havonta
-  - ba) a kedvezményalap 16 százaléka, de legfeljebb 12 ezer forint, ha a részkedvezmény-alap nem haladja meg a 75 ezer forintot,
-  - bb) a ba) alpont szerint meghatározott összegnek a 75 ezer forint feletti kedvezményalap 20 százalékát meghaladó része, amennyiben a kedvezményalap meghaladja a 75 ezer forintot, azzal, hogy a 2013. évben az adókedvezmény a kifizetőt az (1) bekezdés szerinti feltételre tekintet nélkül illeti meg.
-
-(6a) A (4)–(6) bekezdéstől eltérően, ha a munkavállaló adófizetési kötelezettséget eredményező munkaviszonya nem áll fenn az adott hónap egészében, meg kell határozni azt az összeget, amely a munkavállalót teljes havi munkaviszony esetén megilletné (a továbbiakban: teljes havi jövedelem). Az igénybe vehető részkedvezményt úgy kell meghatározni, hogy az e bekezdés szerinti teljes havi jövedelemre a (6) bekezdés szerint kiszámított összeget meg kell szorozni a kifizetőnél a munkavállalóval fennálló jogviszonyára tekintettel keletkező adott havi adóalap és a teljes havi jövedelem hányadosával.
-
-(6b) Munkaerő-kölcsönzési tevékenységet jogszerűen folytató munkáltató esetén, ha egy adott munkavállaló tekintetében az adómegállapítási időszakban több kölcsönzés történt, az egyes kölcsönzések esetében a részkedvezményre (tört időszaki részkedvezmény) jogosultságot – a kölcsönvevők nyilatkozatai alapján – külön-külön kell megállapítani. A tört időszaki részkedvezmény megállapítására a (6a) bekezdés rendelkezéseit kell alkalmazni. Az adott havi részkedvezmény a törtidőszaki részkedvezmények összege.
-
-(7) E § alkalmazásában folyamatosan foglalkoztatott munkavállaló a kifizetővel az adókedvezmény alapjául szolgáló hónapban adófizetési kötelezettséget eredményező munkaviszonyban álló olyan természetes személy, aki
-
-- a) 2011-ben a 2011. november 1-jén kezdődő időszak bármely napján az adókedvezményt érvényesítő kifizetővel munkaviszonyban állt (természetes személy kifizető esetében ideértve különösen az általa egyéni vállalkozóként, mezőgazdasági őstermelőként vagy egyéb körülmények között munkaviszony keretében foglalkoztatott természetes személyt);
-- b) 2011-ben a 2011. november 1-jén kezdődő időszak bármely napján az adókedvezményt érvényesítő kifizető belföldi kapcsolt vállalkozásával – akár csak egyetlen napig – munkaviszonyban állt (természetes személy kifizető esetében ideértve különösen az olyan egyéni cég által munkaviszonyban foglalkoztatott természetes személyt, amely egyéni cégnek a kifizető vagy közeli hozzátartozója a tagja, valamint a közeli hozzátartozója által egyéni vállalkozóként, mezőgazdasági őstermelőként vagy egyéb körülmények között munkaviszony keretében foglalkoztatott természetes személyt).
-
-(8) A kifizető jogosult a munkavállalója korábbi munkaviszonyával kapcsolatos, az (1) bekezdés szerinti elvárt béremelés mértékének megállapításához szükséges adatok megismerésére. A munkavállaló együttműködési kötelezettsége kiterjed ezen adatok közlésére. A kifizető az adatok közlése érdekében a munkavállaló (7) bekezdés b) pontja szerinti korábbi munkáltatóját megkeresheti.
-
-460/A. § (1) A 460. § (1) bekezdése szerinti kifizető a 460. § (1) bekezdésében meghatározott adókedvezményt (e § alkalmazásában a továbbiakban: adókedvezmény) akkor is igénybe veheti, ha a feltételeket visszamenőlegesen, de legkésőbb a munkavállalót a naptári évben megillető munkabérek tekintetében ugyanazon naptári év végéig végrehajtott béremeléssel teljesíti. Ebben az esetben a munkavállalót megillető béremelést a szociális hozzájárulási adó szempontjából úgy kell tekinteni, mintha annak kifizetése azokban a hónapokban megtörtént volna, amely adómegállapítási időszakra a béremelés a munkavállalót megilleti.
-
-(2) A kifizető azon bevallási időszak tekintetében, amelyre tekintettel az adókedvezményt az (1) bekezdés alapján visszamenőleg veszi igénybe, a szociális hozzájárulási adó alapját, a szociális hozzájárulási adót és a részkedvezmények összegét az állami adóhatóság által rendszeresített nyomtatványon az adózás rendjéről szóló törvény önellenőrzésre vonatkozó szabályai szerint helyesbíti.
-
-(3) A (2) bekezdés szerinti helyesbítés során, az érintett hónapok tekintetében azon jogviszonyokra vonatkozóan, amelyekre tekintettel a kifizető az adókedvezményt az (1) bekezdés alapján veszi igénybe, a már bevallott szociális hozzájárulási adó alapját, a szociális hozzájárulási adót és a részkedvezmények alapját, összegét nullára kell módosítani, ezzel egyidejűleg a visszamenőleges munkabéremelésnek megfelelően megállapított szociális hozzájárulási adó alapot, szociális hozzájárulási adót és a részkedvezmények alapját, összegét a tárgyhavi bevallásban a tárgyhónaptól eltérő időszak feltüntetésével – a visszamenőleges béremeléssel érintett hónaponként – kell bevallani. Tárgyhónapnak e § alkalmazásában az a hónap minősül, amelyben a kifizető teljesíti a 460. § (1) bekezdésében meghatározott feltételeket.
-
-(4) A kifizető a (3) bekezdésben foglaltak szerint a visszamenőleges munkabéremelésnek megfelelően megállapított szociális hozzájárulási adóalapot, szociális hozzájárulási adót és a részkedvezmények alapját, összegét a tárgyhavi bevallásban a tárgyhónaptól eltérő időszak feltüntetésével vallja be akkor is, ha a visszamenőleges béremeléssel érintett valamely bevallási időszak tekintetében a szociális hozzájárulási adót a (2) és (3) bekezdésben meghatározott eljárás szerint önellenőrzéssel azért nem tudja helyesbíteni, mert az ellenőrzéssel lezárt időszaknak minősül, vagy a visszamenőleges béremeléssel érintett időszak vonatkozásában adóellenőrzés van folyamatban.
-
-(5) Ha a visszamenőleges munkabéremeléssel érintett bevallási időszak ellenőrzéssel lezárt időszaknak minősül, a kifizető az adózás rendjéről szóló törvény szerint ismételt ellenőrzésre irányuló kérelmet terjeszthet elő. Az állami adóhatóság a kérelem alapján – ha a (4) bekezdésben foglalt feltételek teljesülnek – az ismételt ellenőrzést 30 napon belül elrendeli.
-
-(6) Az ismételt vagy folyamatban lévő ellenőrzés során azon jogviszonyok tekintetében, amelyekre tekintettel a kifizető az adókedvezményt a (4) bekezdés alapján a tárgyhónaptól eltérő időszak feltüntetésével veszi igénybe, úgy kell tekinteni, mintha a szociális hozzájárulási adó alapja, a szociális hozzájárulási adó és a részkedvezmények alapja, összege nulla lenne. A folyamatban lévő ellenőrzés során az állami adóhatóság a jogosulatlanul igénybevett szociális hozzájárulási adókedvezmény tekintetében adóbírságot és késedelmi pótlékot a tárgyhónapban ténylegesen bevallott és megfizetett szociális hozzájárulási adó alapja, a szociális hozzájárulási adó és a részkedvezmények alapja, összege alapján állapítja meg.
-
-(7) Az (5) és (6) bekezdés szerinti ismételt ellenőrzés nem érinti a korábbi adóellenőrzés során megállapított adóbírság és késedelmi pótlék azon részét, amelyek az adókedvezmény jogosulatlan igénybevétele miatt kerültek megállapításra.
-
-(8) Az adókedvezmény érvényesítése szempontjából nem minősül a 460. § (1) bekezdése szerinti folyamatosan foglalkoztatott munkavállalónak az, akit a kifizető a visszamenőlegesen végrehajtott béremelésre vonatkozó döntés meghozatalának tárgyhónapjában már nem foglalkoztat. E munkavállaló munkaviszonyára tekintettel adókedvezmény e § alapján visszamenőleg nem érvényesíthető. Az a kifizető, aki a 460. § (1) bekezdése szerinti feltételeket már teljesítette, további visszamenőleges béremelésre vonatkozóan az (1)–(7) bekezdés rendelkezéseit nem alkalmazhatja.
+460/A. §
 
 ### A szakképzettséget nem igénylő munkakörben foglalkoztatott munkavállalók után érvényesíthető adókedvezmény
 
@@ -732,25 +691,34 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (2) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében, 14,5 százalékával a foglalkoztatás harmadik évében.
 
-(3) E § alkalmazásában tartósan álláskereső az, akit az állami foglalkoztatási szerv a kedvezményezett foglalkoztatást megelőző 9 hónapon belül legalább 6 hónapig álláskeresőként nyilvántartott. A 9 hónap, valamint a 6 hónap számítása során a közfoglalkoztatásban történő részvétel időtartamát figyelmen kívül kell hagyni.
+(3) E § alkalmazásában tartósan álláskereső az, akit az állami foglalkoztatási szerv a kedvezményezett foglalkoztatást megelőző 275 napon belül legalább 183 napig álláskeresőként nyilvántartott. A 275 nap és a 183 nap számítása során a közfoglalkoztatásban történő részvétel időtartamát figyelmen kívül kell hagyni.
 
 (4) A kedvezményt a munkáltató a feltételek fennállását igazoló, az állami foglalkoztatási szerv által, az álláskereső személy kérelmére kiállított igazolás birtokában érvényesítheti.
 
 (5) A (2) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
 
-### A gyermekgondozási díj, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítását követően foglalkoztatott munkavállalók után érvényesíthető adókedvezmény
+### A gyermekgondozási díjban, gyermekgondozási segélyben vagy gyermeknevelési támogatásban részesülő munkavállaló után érvényesíthető adókedvezmény
 
-462/D. § (1) A gyermekgondozási díj folyósítását követően, a gyermekgondozási segély, valamint a gyermeknevelési támogatás (e § alkalmazásában együtt: anyasági ellátások) folyósítása alatt vagy azt követően az adókötelezettséget eredményező munkaviszonyban foglalkoztatott személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+462/D. § (1) A gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósítása alatt vagy folyósításának megszűnését követően adókötelezettséget eredményező munkaviszonyban álló személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében, 14,5 százalékával a foglalkoztatás harmadik évében.
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott – gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesülő – természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében és 14,5 százalékával a foglalkoztatás harmadik évében.
 
-(3) A kedvezményt a kifizető az anyasági ellátások folyósításának megszűnését követő hónaptól számított 45. hónap végéig, de legfeljebb 3 évig érvényesítheti. A folyósítás megszűnésének hónapja az a hónap, amelyre utoljára az anyasági ellátások valamelyike a foglalkoztatott személyt megillette. Ha a munkavállalót az anyasági ellátások közül több is megillette, a határidőt a később folyósított anyasági ellátás folyósításának megszűnésétől kell számítani.
+(3) A (2) bekezdéstől eltérően a részkedvezmény egyenlő a természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első három évében és 14,5 százalékával a foglalkoztatás negyedik és ötödik évében, ha a foglalkoztatott
 
-(4) A kedvezményt a munkáltató a feltételek fennállását igazoló, az anyasági ellátást folyósító egészségbiztosítási szerv, társadalombiztosítási kifizetőhely, kincstár, vagy családtámogatási kifizetőhely által, az ellátásban részesülő kérelmére kiállított igazolás birtokában érvényesítheti.
+- a) a családok támogatásáról szóló törvény szerint legalább három gyermekre tekintettel családi pótlékra szülőként jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesül, vagy
+- b) gyermeknevelési támogatásban részesült vagy részesül.
 
-(5) A (2) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
+(4) A kedvezményt a kifizető az anyasági ellátások folyósításának megszűnését követő hónaptól számított 45. hónap, a (3) bekezdés alapján 69. hónap végéig, de legfeljebb 3 évig, a (3) bekezdés alapján 5 évig érvényesítheti. A folyósítás megszűnésének hónapja az a hónap, amelyre utoljára az anyasági ellátások valamelyike a foglalkoztatott személyt megillette. Ha a munkavállalót az anyasági ellátások közül több is megillette, a határidőt a legutolsó anyasági ellátás folyósításának megszűnésétől kell számítani.
 
-(6) A (2) bekezdésben meghatározott kedvezmény érvényesítését – az (1)–(4) bekezdésben foglalt jogosultsági feltételek fennállása esetén – nem zárja ki, ha az anyasági ellátás folyósítása alatti vagy azt követő foglalkoztatás 2013. január 1-jét megelőzően kezdődött.
+(5) A kedvezményt a munkáltató a feltételek fennállását igazoló, az anyasági ellátást folyósító egészségbiztosítási szerv, társadalombiztosítási kifizetőhely, kincstár, családtámogatási kifizetőhely, a társadalombiztosítási vagy családtámogatási kifizetőhely megszűnése esetén az egészségbiztosítási szerv, illetve a kincstár által az ellátásban részesülő kérelmére kiállított igazolás birtokában érvényesítheti.
+
+(6) A (3) bekezdés szerinti kedvezmény igénybevételéhez gyermekgondozási díj és gyermekgondozási segély esetén – az (5) bekezdésben foglaltakon túl – szükséges a legalább három gyermek után a szülőnek járó családi pótlékra való jogosultságról szóló, kincstár által kiadott igazolás.
+
+(7) A részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve, a (3) bekezdés szerinti kedvezmény esetén a foglalkoztatás harmadik, illetve ötödik éve véget ér.
+
+(8) A (2) és (3) bekezdés alkalmazásában a foglalkoztatás kezdetének azt a napot kell tekinteni, amikor az anyasági ellátás folyósítása melletti vagy az anyasági ellátás folyósításának megszűnését követő foglalkoztatás vagy továbbfoglalkoztatás megkezdődik.
+
+(9) A (2) bekezdésben meghatározott kedvezmény érvényesítését – a jogosultsági feltételek fennállása esetén – nem zárja ki, ha az anyasági ellátás folyósítása alatti vagy folyósításának megszűnését követő foglalkoztatás 2013. január 1-jét, a (3) bekezdés szerinti kedvezmény esetén 2014. január 1-jét megelőzően kezdődött.
 
 ### A szabad vállalkozási zónákban működő vállalkozások adókedvezménye
 
@@ -761,7 +729,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 (3) A részkedvezményre való jogosultság feltétele, hogy
 
 - a) a kifizető a létszámát az új munkavállalóval létesített munkaviszony kezdetét megelőző hónap – Központi Statisztikai Hivatal által a munkaügy-statisztikai adatszolgáltatáshoz kiadott útmutató szerinti – átlagos statisztikai állományi létszámához képest növeli, és a megemelt létszámot az új munkavállaló foglalkoztatása alatt, de legalább a (2) bekezdésben meghatározott kedvezményezett időszakban nem csökkenti, és
-- b) a kedvezménnyel érintett munkavállaló bejelentett lakóhelye legalább hat hónapja, valamint a tényleges munkavégzési helye abban a szabad vállalkozási zónában található, amelyben a kifizető működik.
+- b) a kedvezménnyel érintett munkavállaló tényleges munkavégzési helye abban a szabad vállalkozási zónában található, amelyben a kifizető működik, és
+- c) a kedvezménnyel érintett munkavállaló bejelentett lakóhelye legalább hat hónapja a b) pont szerinti szabad vállalkozási zónában vagy e szabad vállalkozási zóna közigazgatási határától – közúton vagy közforgalom elől el nem zárt magánúton számított – legfeljebb 20 km-re levő szabad vállalkozási zónában található, vagy ugyanabban a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztési-statisztikai kistérségben van, mint a b) pont szerinti szabad vállalkozási zóna.
 
 (4) Nem minősül az állományi létszám csökkentésének, ha a létszám olyan munkavállalóval csökken, aki helyett a kifizető a munkaviszony megszűnését követő hónap utolsó napjáig másik munkavállalóval létesít munkaviszonyt; e másik munkavállaló után a kedvezmény a (2) bekezdésben meghatározott kedvezményezett időszak fennmaradó részére érvényesíthető.
 
@@ -775,13 +744,19 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 ### Kutatók foglalkoztatása után járó adókedvezmény
 
-462/F. § (1) Adófizetési kötelezettséget eredményező munkaviszonyban, doktori (PhD) vagy ennél magasabb tudományos fokozattal, vagy tudományos címmel rendelkező kutató, fejlesztő munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek minősülő – kifizető, az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+462/F. § (1) Adófizetési kötelezettséget eredményező munkaviszonyban
 
-(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 500 ezer forint 27 százalékával.
+- a) doktori (PhD) vagy ennél magasabb tudományos fokozattal, vagy tudományos címmel rendelkező kutató, fejlesztő, vagy
+- b) a nemzeti felsőoktatásról szóló törvény szerint doktori képzésben részt vevő hallgató vagy doktorjelölt munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek minősülő – kifizető, az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő
+
+- a) az (1) bekezdés a) pont szerinti munkavállaló esetében a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 500 ezer forint 27 százalékával,
+- b) az (1) bekezdés b) pont szerinti munkavállaló esetében a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 200 ezer forint 14,5 százalékával.
 
 (3) Ha a kifizető a foglalkoztatottat az adómegállapítási időszak egy részében nem, vagy nem kizárólag az (1) bekezdésben meghatározott tevékenységnek megfelelő munkakörben foglalkoztatta, a munkaviszony alapján ezen adómegállapítási időszakra vonatkozóan részkedvezményt nem érvényesíthet.
 
-(4) Azon hónapra vonatkozóan, amelyben a munkavállaló munkaviszonya megkezdődik vagy véget ér, a részkedvezmény a kifizetőt az egész hónap tekintetében megilleti.
+(4) Azon hónapra vonatkozóan, amelyben a munkavállaló munkaviszonya kezdődik vagy véget ér, a részkedvezmény az egész hónap tekintetében megilleti a kifizetőt.
 
 (5) E § alkalmazásában
 
@@ -792,20 +767,11 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 463. § (1) A kifizető az ugyanazzal a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel csak e fejezet, vagy az adókedvezményt megállapító törvény külön rendelkezése alapján vehet egyidejűleg igénybe több olyan adókedvezményt, amelynek igénybevételére egyébként jogosult. A több adókedvezmény egyidejű igénybevételét lehetővé tévő külön rendelkezés hiányában az adókedvezmények közötti választás joga a kifizetőt illeti meg.
 
-(2) A külön törvényben meghatározott START PLUSZ, START EXTRA vagy START BÓNUSZ adókedvezmény más, e törvényben szabályozott adókedvezménnyel együtt is érvényesíthető, – a legfeljebb két jogcímen érvényesíthető – együttes kedvezmény meghaladhatja az adott foglalkoztatott után fizetendő adó összegét. Ha a foglalkoztató által az adott hónapra érvényesített adókedvezmények együttes összege meghaladja az adott hónapra fizetendő adó összegét, a különbözetre az adózás rendjéről szóló törvénynek a költségvetési támogatásra vonatkozó szabályait kell értelemszerűen alkalmazni.
+(2)
 
-(2a) A (2) bekezdéstől eltérően a törvényben meghatározott START PLUSZ, START EXTRA vagy START BÓNUSZ adókedvezménnyel nem vonható össze
+(2a)
 
-- a) a szakképzettséget nem igénylő munkakörben foglalkoztatott munkavállalók után,
-- b) a huszonöt év alatti és az ötvenöt év feletti foglalkoztatott munkavállaló után,
-- c) a tartósan álláskereső személyek után,
-- d) a gyermekgondozási díj folyósítását követően, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után,
-- e) a szabad vállalkozási zónában működő vállalkozások által foglalkoztatott munkavállalók után,
-- f) a kutatók foglalkoztatása esetén
-
-érvényesíthető adókedvezmény.
-
-(3) A Karrier Híd Program megvalósítását célzó és a munkabérek nettó megőrzését célzó adókedvezmény ugyanazon munkavállaló vonatkozásában együttesen is érvényesíthető legfeljebb az ezen munkavállalóval fennálló jogviszony alapján megállapított számított adó összegéig.
+(3)
 
 (4) A szociális hozzájárulási adóból törvény alapján érvényesíthető kedvezmény kiszámításánál a munkavállalót a munkaviszonyára tekintettel megillető (bruttó) munkabért a számviteli törvényben foglaltak alkalmazásával kell meghatározni.
 
@@ -836,6 +802,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 (8) A kincstár számfejtési körébe tartozó költségvetési szervek képviselőjeként az adó megállapítására, bevallására és megfizetésére – figyelemmel az Art. 176. § (11)–(12) bekezdéseire is – a kincstár kötelezett.
 
 (9) Az adó megállapítására, bevallására és megfizetésére kötelezett adózó olyan nyilvántartást köteles vezetni, amelynek alapján az adó alapja és összege, valamint az annak megállapításánál figyelembe vett mentesség és kedvezmény összege, továbbá az adó megfizetésének napja ellenőrizhető. E nyilvántartási kötelezettségét a számvitelről szóló törvény hatálya alá tartozó kifizető a számvitelről szóló törvény szerinti nyilvántartása (könyvvezetése) megfelelő részletezésével, más kifizető a személyi jövedelemadóról szóló törvény vagy az egyszerűsített vállalkozói adóról szóló törvény rendelkezése alapján vezetett külön nyilvántartás révén teljesíti.
+
+(10) A Munka Törvénykönyve szerinti munkáltató személyében bekövetkező változás esetén a 462/C. § szerinti kedvezményt az átvevő munkáltató tovább érvényesítheti a kedvezménnyel érintett időszak fennmaradó részére.
 
 464/A. § (1) A munkabérek nettó értékének megőrzését célzó adókedvezmény jogosulatlan igénybevételével összefüggésben az állami adóhatóság nem állapít meg adókülönbözetet abban az esetben, ha az adott hónapban
 
@@ -893,7 +861,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 
 - 1. álláskeresési ellátás: az álláskeresési járadék, a keresetpótló juttatás, a vállalkozói járadék, valamint a munkanélküli-járadék, az álláskeresést ösztönző juttatás és nyugdíj előtti álláskeresési segély;
 - 2. egyéni vállalkozó: a személyi jövedelemadóról szóló törvény szerint egyéni vállalkozónak minősülő természetes személy (az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy akkor is, ha a nyilvántartásban rögzített tevékenysége ingatlan-bérbeadás vagy egyéb szálláshely-szolgáltatás), valamint a gyógyszerészeti magántevékenységet, falugondnoki tevékenységet, tanyagondnoki tevékenységet végző természetes személy, a szociális szolgáltató tevékenység folytatásához szükséges engedéllyel rendelkező természetes személy;
-- 3.
+- 3. Fogvatartott: az őrizetbe vett, házi őrizetbe rendelt, előzetesen letartóztatott, elzárásra utalt, szabadságvesztés vagy elzárás büntetést töltő személy, a kényszergyógykezelés, ideiglenes kényszergyógykezelés alatt álló személy;
 - 4. harmadik állam: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben ilyenként meghatározott állam;
 - 5. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló törvény szerint mezőgazdasági őstermelőnek minősülő természetes személy;
 - 6. minimálbér: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben ilyenként meghatározott összeg;
@@ -910,7 +878,8 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
   - j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
   - k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
   - l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
-  - m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik;
+  - m) a nemzeti felsőoktatásról szóló törvényben meghatározott hallgatói munkaszerződés alapján létrejött munkaviszony,
+  - n) az a)–m) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 - 8. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy.
 - 9. tanulmányokat folytató tanuló, hallgató: az a személy, aki
   - a) nappali rendszerű oktatás keretében a nemzeti köznevelésről szóló törvény szerinti tanulói jogviszonnyal rendelkezik,

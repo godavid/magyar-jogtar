@@ -127,7 +127,7 @@ a munkáltató közterhet nem fizet.
 11. § (1) Egyszerűsített foglalkoztatás esetén a munkáltató köteles az illetékes elsőfokú állami adóhatóságnak a munkavégzés megkezdése előtt bejelenteni a (3) bekezdés szerinti adatokat. A munkáltató bejelentési kötelezettségét – választása szerint –
 
 - a) elektronikus úton, kormányzati kézbesítési szolgáltatás igénybevételével (a továbbiakban: ügyfélkapu), vagy
-- b) telefonos ügyfélszolgálaton keresztül telefonon teljesítheti.
+- b) országos telefonos ügyfélszolgálaton keresztül telefonon teljesítheti.
 - c)
 
 (2) A munkáltató akkor élhet az (1) bekezdés a)–b) pontjában felsorolt bejelentési lehetőségek valamelyikével, ha előzetesen regisztrálta magát az ügyfélkapun.

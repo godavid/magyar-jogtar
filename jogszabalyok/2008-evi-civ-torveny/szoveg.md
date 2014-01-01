@@ -178,14 +178,14 @@ szóló döntéssel szemben.
 16. § (1) A Kormány rendeletben megállapítja, ha a hitelintézet
 
 - a) húsz munkanapot meghaladóan igénybe veszi az MNB rendkívüli likviditási hitelét a legutolsó, könyvvizsgáló által felülvizsgált, az Szmt. szerinti közbenső mérleg készítésére irányadó szabályoknak megfelelően elkészített beszámoló mérlegfőösszegének öt százalékát meghaladó összegben,
-- b) MNB által megállapított szavatoló tőkéje nem éri el a Hpt. e törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
+- b) MNB által megállapított szavatoló tőkéje nem éri el a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény a pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
 - c)
 
 és a hitelintézet fizetésképtelensége a magyarországi pénzügyi közvetítőrendszer működésében súlyos károkat okozna.
 
 (2) A Kormány az (1) bekezdés szerinti rendeletét hatályon kívül helyezi, ha
 
-- a) a hitelintézet MNB által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 76. § (1) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
+- a) a hitelintézet MNB által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 79. § (2) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
 - b) a hitelintézet kilencven egymást követő nap egyikén sem vette igénybe az MNB rendkívüli likviditási hitelét.
 
 (3) A hitelintézet az (1) bekezdés alapján kiadott kormányrendelet hatálybalépését megelőző napra, mint fordulónapra – a kormányrendelet hatálybalépésétől számított kilencven napon belül – az Szmt. szerinti, független könyvvizsgáló által felülvizsgált közbenső mérleget készít.
@@ -310,7 +310,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - 2. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 - 3. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 - 4. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
-- 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
+- 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 - 6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 - 7.
 - 8. Szmt.: a számvitelről szóló 2000. évi C. törvény,

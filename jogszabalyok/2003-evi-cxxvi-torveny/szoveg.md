@@ -48,7 +48,7 @@ a módosításaikkal együtt.
   - b) tagja vagy alkalmazottja az AEO-tanúsítvány iránti kérelmet benyújtó gazdasági szereplő tevékenységi körében követte el, és azt a vezető tisztségviselő felügyeleti vagy ellenőrzési kötelezettségének teljesítése megakadályozhatta volna.
 - 17. tartozás: a magyar állami adó-, illetve vámhatóságnál – engedély nélkül – az előírt vagy a fizetési felszólításban meghatározott időtartamon túl meg nem fizetett összeg megfizetésére való kötelezettség.
 
-(4) A (3) bekezdés 3. pont b) pontjában meghatározott adatot a vámhatóság közvetlenül kéri meg az ügyfél cégjegyzékadatairól nyilvántartást vezető cégbíróságtól. A felsorolt feltételek fennállását – a vámhatósági adatok és adóhatósági adatok, illetve a vámkódex 5a. cikke szerinti engedélyezett gazdálkodó státusszal rendelkezők kivételével – az illetékes vámszervnél a kérelmezőnek évente igazolnia kell. A vámhatóság a feltételek meglétét folyamatosan, illetve bármikor vizsgálhatja. A megbízható vámadós személyre vonatkozó feltételeket az EK végrehajtási rendelet 14a. cikk a) és c) pontjában meghatározott AEO-tanúsítvánnyal rendelkező személyeknél a tanúsítvány kiadása, illetve az EK végrehajtási rendelet 14q. cikk (5) bekezdése szerinti újbóli értékelése során együtt vizsgálja a vámhatóság. A feltételek fennállását az AEO-tanúsítványra vonatkozó szabályok szerint kell igazolni.
+(4) A (3) bekezdés 3. pont b) pontjában meghatározott adatot a vámhatóság közvetlenül kéri meg az ügyfél cégjegyzékadatairól nyilvántartást vezető cégbíróságtól. A felsorolt feltételek fennállását – a vámhatósági adatok és adóhatósági adatok, illetve a vámkódex 5a. cikke szerinti engedélyezett gazdálkodó státusszal rendelkezők kivételével – az illetékes vámszervnél a kérelmezőnek évente igazolnia kell. A vámhatóság a feltételek meglétét folyamatosan, illetve bármikor vizsgálhatja. A megbízható vámadós személyre vonatkozó feltételeket az EK végrehajtási rendelet 14a. cikk (1) bekezdésében meghatározott AEO-tanúsítvánnyal rendelkező személyeknél a tanúsítvány kiadása, illetve az EK végrehajtási rendelet 14q. cikk (5) bekezdése szerinti újbóli értékelése során együtt vizsgálja a vámhatóság. A feltételek fennállását az AEO-tanúsítványra vonatkozó szabályok szerint kell igazolni.
 
 1/A. § (1) Az ügyfél az arra vonatkozó igazolás kiadása iránti kérelem benyújtásával egyidejűleg, hogy megbízható vámadós, hatósági bizonyítvánnyal igazolja azt a tényt, hogy gazdasági tevékenységével összefüggő súlyos bűncselekmény miatt nem minősül büntetett előéletűnek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a vámhatóság részére – annak a megbízható vámadós személyre vonatkozó feltételek fennállásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a vámhatóság arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a megbízható vámadós gazdasági tevékenységével összefüggő súlyos bűncselekmény miatt büntetett előéletűnek minősül-e.
 
@@ -267,7 +267,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 
 (2) Az utólagos ellenőrzés megállapításai alapján részjegyzőkönyv készül, ha az utólagos ellenőrzéssel érintett vámkezelések, vámeljárások, és az ügyfél külkereskedelmi tevékenysége egy részével kapcsolatban a tényállás megfelelően tisztázásra került. A részjegyzőkönyvre a jegyzőkönyv szabályait kell értelemszerűen alkalmazni.
 
-(3) Az utólagos ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött ügyfél részére az ellenőrzés megkezdésétől számított 60 napon belül át kell adni. Indokolt esetben az utólagos ellenőrzést lefolytató hatóság vezetője – az ügyfél értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
+(3) Az utólagos ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött ügyfél részére az ellenőrzés megkezdésétől számított 90 napon belül át kell adni. Indokolt esetben az utólagos ellenőrzést lefolytató hatóság vezetője – az ügyfél értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
 
 (4) Az ellenőrzésre előírt határidőt, ha a tényállás további tisztázása szükségessé teszi, a vámhatóság másodfokú szerve egyszer, legfeljebb további 30 napig terjedő időtartammal meghosszabbíthatja.
 
@@ -275,7 +275,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 
 7/K. § Az utólagos ellenőrzés eredményéről az utólagos ellenőrzést lefolytató szerv – a külön jogszabályban meghatározott, 485/2008/EK tanácsi rendelet szerint végzett utólagos ellenőrzés esetét kivéve – határozatot hoz.
 
-7/L. § Az ügyfél kérelmére, az utólagos ellenőrzések eredményeképp jogerősen kiszabott vámtartozásra – a nem közösségi adók és díjak kivételével –, illetve kamatára az azt kiszabó vámhatóság legfeljebb 12 hónapra részletfizetést, fizetéshalasztást engedélyezhet biztosíték követelés mellett vagy anélkül, amennyiben az ügyfél fizetési nehézsége átmeneti jellegű, ezért a vámteher későbbi megfizetése valószínűsíthető és az egy összegben vagy az azonnal történő megfizetés tevékenységének folyamatosságát súlyosan veszélyeztetné. Az ügyfél gazdasági tevékenysége súlyos veszélyeztetése fennállásának megállapításához szükséges adatok, dokumentumok körét e törvény végrehajtási rendelete tartalmazza.
+7/L. §
 
 ### A vámhatóság jogai és kötelezettségei
 
@@ -291,7 +291,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 
 (5) Az elrendelt utólagos ellenőrzéssel összefüggésben a vámhatóság ellenőrzést végezhet olyan személynél, amely az utólagos ellenőrzés alanyával közvetett vagy közvetlen üzleti kapcsolatban áll, feltéve, hogy az elrendelt utólagos ellenőrzés tényállásának teljes körű tisztázása érdekében ezen vizsgálat szükséges (kapcsolódó vizsgálat). Kapcsolódó vizsgálat esetében a vámhatóság a vizsgálat lefolytatásáról szóló előzetes értesítést mellőzi, és a kapcsolódó vizsgálat a megbízólevél átadásával veszi kezdetét. Egyéb tekintetben a kapcsolódó vizsgálatra az utólagos ellenőrzés szabályai alkalmazandók.
 
-(6) A kapcsolódó vizsgálat időtartama az utólagos ellenőrzés határidejébe nem számít bele. A vámhatóság a kapcsolódó vizsgálat időtartama alatt az ellenőrzést a kapcsolódó vizsgálattal nem érintett kérdésekben folytathatja. A kapcsolódó vizsgálat kezdő és befejező időpontjáról a vámhatóság az ellenőrzött személyt értesíti. A kapcsolódó vizsgálattal egy tekintet alá esik az is, ha a tényállás tisztázásához más személynél folyamatban lévő ellenőrzés eredményének ismerete szükséges. Ebben az esetben a kapcsolódó vizsgálat kezdő napjának a határidő szüneteléséről szóló értesítés postára adásának napját kell tekinteni.
+(6) A kapcsolódó vizsgálat szükségességéről az ellenőrzött személyt a vámhatóság értesíti. Ezen irat postára adásának, a postai kézbesítés mellőzése esetén az értesítés átadásának napjától a kapcsolódó vizsgálat lezárásáig eltelt idő az utólagos ellenőrzés határidejébe nem számít bele. A vámhatóság ezen időtartam alatt az ellenőrzést a kapcsolódó vizsgálattal nem érintett kérdésekben folytathatja. A kapcsolódó vizsgálat befejező időpontjáról a vámhatóság az ellenőrzött személyt értesíti. A kapcsolódó vizsgálattal egy tekintet alá esik az is, ha a tényállás tisztázásához más személynél folyamatban lévő ellenőrzés eredményének ismerete szükséges. Ebben az esetben a kapcsolódó vizsgálat kezdő napjának a határidő szüneteléséről szóló értesítés postára adásának napját kell tekinteni.
 
 ### Az ellenőrzött ügyfél jogai és kötelezettségei
 
@@ -332,7 +332,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 
 (2) Vámutak a vámhatárt átszelő közforgalmú vasúti pályák, nemzetközi vízi utak, határvízi kikötők, vámhatárt átszelő közutak, nemzetközi kereskedelmi repülőterek és nemzetközi áruszállításra megnyitott csővezetékek és elektromos vezetékek, amelyeket a Kormány vámútként megnyit.
 
-(3) A vámutak megnyitásáról, illetve megszüntetéséről a Kormány rendeletben dönt. A vámutak listáját a vámhatóság a honlapján tájékoztatóban teszi közzé.
+(3) A vámutak megnyitásáról, illetve megszüntetéséről a Kormány rendeletben dönt. A vámutak listáját a vámhatóság a honlapján tájékoztatásban teszi közzé.
 
 (4) A vámhatárt átszelő új vasúti pálya létesítésénél – a pálya vonalának kijelölése és határállomás létesítése tekintetében – a vámhatóság előzetes véleményét figyelembe kell venni.
 
@@ -460,8 +460,8 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 - p) az e célra nyilvántartásba vett közös jogkezelést végző szervezeteket, a szerzői jogi törvényben meghatározott igény érvényesítésével összefüggő feladatok ellátása céljából,
 - q) a Magyar Energetikai és Közmű-szabályozási Hivatalt a nála engedélyesként nyilvántartott gazdálkodók adatairól, hatósági feladatai ellátása érdekében.
 - r) megkeresésre a hagyatéki eljárásban eljáró közjegyzőt a közjegyzői hatáskörbe tartozó eljárás során és annak céljára,
-- s) vámpolitikai, kereskedelempolitikai elemzési célokból összesített adatokról a kereskedelmért felelős minisztert,
-- t) dömping- és szubvencióellenes, piacvédelmi elemzési célokból a kereskedelmért felelős minisztert,
+- s) vámpolitikai, kereskedelempolitikai elemzési célokból összesített adatokról a kereskedelemért felelős minisztert, és az európai integrációs ügyekért felelős minisztert,
+- t) dömping- és szubvencióellenes, piacvédelmi elemzési célokból a kereskedelemért felelős minisztert, valamint ezen intézkedésekkel kapcsolatos adatokról, az Európai Unió felé fennálló kötelezettség teljesítése céljából az európai integrációs ügyekért felelős minisztert,
 - u) megkeresésre az élelmiszerlánc-felügyeleti szervet, valamint a borászati hatóságot a külön jogszabályban meghatározott feladataik ellátása céljából,
 - v) az engedélyezési, ellenőrzési, felügyeleti, nyilvántartási, hitelesítési és piacfelügyeleti feladataik ellátása céljából
   - va) a nemzeti külkereskedelmi államigazgatási szervet,
@@ -595,7 +595,7 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 
 ### A vámkódex 63. cikkéhez
 
-31. § Az Egységes Vámárunyilatkozat (a továbbiakban: EV) nem formanyomtatványon történő kitöltésének és benyújtásának feltételeit e törvény végrehajtási rendelete tartalmazza.
+31. § Az Egységes Vámokmány (a továbbiakban: EV) nem formanyomtatványon történő kitöltésének és benyújtásának feltételeit e törvény végrehajtási rendelete tartalmazza.
 
 ### A vámkódex 75. cikkéhez
 
@@ -605,7 +605,7 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 
 33. § (1) Ha a közösségi vámjog eltérő rendelkezést nem tartalmaz, a kiegészítő árunyilatkozat benyújtására vonatkozó határidőket a vámhatóság a kérelmezett vámtartozás fizetési móddal összhangban állapítja meg.
 
-(2) Amennyiben az egyszerűsített vámeljárásra irányuló kérelem nem egységes engedély kiadására irányul, az engedélyt 90 naptári napon belül állítja ki a vámhatóság. Amennyiben a kérelmező az EK végrehajtási rendelet 14a. cikke (1) bekezdésének a) vagy c) pontjában említett AEO-tanúsítvány birtokosa, az említett határidő 60 naptári nap. Az ügyintézési határidő kezdő napja a kérelemnek az EK végrehajtási rendelet 253b. cikkében foglaltak szerinti befogadását követő nap.
+(2) Amennyiben az egyszerűsített eljárásra irányuló kérelem nem egységes engedély kiadására irányul, az engedélyt 90 naptári napon belül állítja ki a vámhatóság. Amennyiben a kérelmező az EK végrehajtási rendelet 14a. cikke (1) bekezdésének a) vagy c) pontjában említett AEO-tanúsítvány birtokosa, az említett határidő 60 naptári nap. Az ügyintézési határidő kezdő napja a kérelemnek az EK végrehajtási rendelet 253b. cikkében foglaltak szerinti befogadását követő nap.
 
 ### Több tagállamra kiterjedő egyszerűsített nyilatkozattételi és helyi vámeljárás
 
@@ -637,7 +637,7 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 - n) az energiaadó-mérték alapjául szolgáló mennyiségi egységben kifejezett mennyisége,
 - o) az energiaadó-mérték alapjául szolgáló mennyiségi egység,
 - p) az energiaadó összege;
-- q)–s) Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatóban teszi közzé.
+- q)–s) Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatásban teszi közzé.
 
 (7) A vámhatóság a nem közösségi adókat és díjakat az adónyilatkozat alapján állapítja meg.
 
@@ -775,12 +775,12 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 
 48. § (1) A nem közösségi adókat és díjakat a vám biztosítására vonatkozó szabályok szerint, a (2)–(4) bekezdésekben meghatározott eltérésekkel kell biztosítani.
 
-(2) Mentes az általános forgalmi adó biztosítása alól a vámigazgatási eljárásban az az adóalany,
+(2) A vámhatóság kérelemre engedélyezi az áfa biztosítása alóli mentességet a vámigazgatási eljárásban annak az adóalanynak,
 
 - a) aki megbízható vámadós, és
-- b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást követő naptári éven belül nem keletkezett az állami adóhatóságnál általános forgalmi adó jogcímen tartozása, illetőleg a vámhatóságnál tartozása.
+- b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást követő naptári éven belül nem keletkezett az állami adóhatóságnál áfa jogcímen tartozása, illetőleg a vámhatóságnál tartozása.
 
-(3) Az általános forgalmi adó összegének ötven százalékát kell biztosítania a vámigazgatási eljárásban annak az adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül a (2) bekezdésben előírt feltétel.
+(3) A vámhatóság kérelemre engedélyezi, hogy az áfa összegének ötven százalékát kell biztosítania a vámigazgatási eljárásban annak az adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül a (2) bekezdésben előírt feltétel.
 
 (4) A (2)–(3) bekezdésben meghatározott mentesség, illetve kedvezmény vonatkozik az energiaadó biztosítására is.
 
@@ -791,11 +791,11 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 (7) A (2) bekezdés b) pontja alkalmazásában nem minősül tartozásnak, ha
 
 - a) az állami adóhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany általános forgalmi adó jogcímen nyilvántartott késedelmesen megfizetett tartozása nem haladta meg az ezen időszakban e jogcímen keletkezett kötelezettségeinek három százalékát;
-- b) a vámhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany a vámhatóság hatáskörébe tartozó fizetési kötelezettségek tekintetében nyilvántartott késedelmesen megfizetett tartozásainak összege nem haladta meg az ezen időszakban e jogcímeken mindösszesen keletkezett kötelezettségeinek három százalékát.
+- b) a vámhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany a vámhatóság hatáskörébe tartozó fizetési kötelezettségek tekintetében nyilvántartott késedelmesen megfizetett tartozásainak összege nem haladta meg az ezen időszakban e jogcímeken mindösszesen keletkezett és fel nem függesztett kötelezettségeinek három százalékát.
 
 (8) A Vtv. 48. § (3) bekezdése alkalmazásában a (7) bekezdés a) és b) pontját azzal az eltéréssel kell alkalmazni, hogy a vizsgálandó időszak a tárgyévet megelőző naptári év.
 
-(9) Mentes továbbá az általános forgalmi adó biztosítása alól a vámigazgatási eljárásban az EK végrehajtási rendelet 14a. cikke (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező gazdálkodó.
+(9) Mentes továbbá az áfa és az energiaadó biztosítása alól a vámigazgatási eljárásban az EK végrehajtási rendelet 14a. cikke (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező gazdálkodó.
 
 ### A vámkódex 201. cikkéhez
 
@@ -809,7 +809,7 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 
 (2) Ha a vámkódex 221. cikke szerint a vámösszeget az adóssal nem kell közölni, akkor ezt az összeget a könyvszerinti nyilvántartásba sem kell felvenni.
 
-(3) A könyvszerinti nyilvántartásba vett vámösszegről és nem közösségi adókról és díjakról szóló, a kérelemnek helyt adó döntés egyszerűsített határozatba foglalható.
+(3) A könyvszerinti nyilvántartásba vett vámösszegről és nem közösségi adókról és díjakról, valamint a korrekciós pótlékról szóló, a kérelemnek helyt adó döntés egyszerűsített határozatba foglalható.
 
 (4) A vámkódex 224. cikkében említett halasztott fizetés szabályait kell alkalmazni a vámmal együtt fizetendő nem közösségi adókra és díjakra is.
 
@@ -842,40 +842,57 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 ### A vámkódex 229. cikkéhez
 
-55. § (1) Hitelkamatként az engedélyezett fizetési kedvezmény időtartamára az engedély megadásának napján érvényes, a Magyar Nemzeti Bank által közzétett jegybanki alapkamat 365-öd részét kell naponta megfizetni. A kamatot a vámtartozás, és a nem közösségi adók és díjak közlésének napjától az engedélyezett fizetési határidő lejártának napjáig kell felszámítani.
+### Fizetési halasztás, részletfizetés engedélyezése
 
-(2) A vámhatóság akkor tekinthet el a hitelkamat felszámításától, ha a kérelmező az e törvény végrehajtási rendeletében meghatározott feltételeket teljesíti, továbbá a hitelkamat megfizetése az adós számára súlyos gazdasági vagy szociális nehézséget okozna.
+54/A. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési könnyítés) az adós kérelmére a vámhatóságnál nyilvántartott vámokra és nem közösségi adókra és díjakra, valamint az EK végrehajtási rendelet 519. cikke szerinti kiegyenlítő kamatra engedélyezhető. A fizetési könnyítés abban az esetben engedélyezhető, ha a fizetési nehézség
+
+- a) a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható, továbbá
+- b) átmeneti jellegű, tehát a kötelezettség későbbi megfizetése valószínűsíthető.
+
+(2) A kérelem elbírálása és a feltételek meghatározása során figyelembe kell venni a fizetési nehézség kialakulásának okait és körülményeit.
+
+(3) Magánszemély esetében a fizetési könnyítés akkor is engedélyezhető, ha a kérelmező igazolja, hogy a vámok, nem közösségi adók és díjak, valamint az EK végrehajtási rendelet 519. cikke szerinti kiegyenlítő kamat azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos megterhelést jelent.
+
+(4) Fizetési könnyítés iránti kérelem benyújtása, illetve a kérelem teljesítése esetén az azzal érintett a vámok és nem közösségi adók és díjak összegére vámbiztosítékot kell nyújtani, továbbá a fizetendő összegeken felül hitelkamatot kell felszámítani.
+
+(5) Ha a fizetési könnyítés megadásának feltételeit vagy az esedékes részletek befizetését az ügyfél nem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben esedékessé válik.
+
+55. § (1) Hitelkamatként az engedélyezett fizetési könnyítés időtartamára az engedély megadásának napján érvényes, a Magyar Nemzeti Bank által közzétett jegybanki alapkamat 365-öd részét kell naponta megfizetni. A kamatot a vámtartozás, és a nem közösségi adók és díjak közlésének napjától az engedélyezett fizetési határidő lejártának napjáig kell felszámítani.
+
+(2) A vámkódex 229. cikkével összhangban a vámhatóság akkor tekinthet el az engedélyezett fizetési könnyítéssel összefüggésben vámbiztosíték megkövetelésétől vagy hitelkamat felszámításától, ha a kérelmező az e törvény végrehajtási rendeletében meghatározott feltételeket teljesíti.
+
+(2a) Az engedélyezett fizetési könnyítéshez kapcsolódóan a vámhatóság különösen indokolt esetben dönthet úgy is, hogy a kérelmezőt a vámbiztosíték megkövetelése alól, és a hitelkamat felszámításától egyaránt mentesíti.
 
 ### A vámkódex 232. cikkéhez
 
-56. § (1) Ha az esedékes vámösszeget és/vagy a nem közösségi adók és díjak összegét, illetve az e törvény 61/A. §-a szerint megállapított vámigazgatási bírságot az előírt időtartamon belül nem fizették meg, illetve bármely tagállam vámhatósága a tartozás végrehajtása érdekében megkeresést küld, a vámhatóság haladéktalanul intézkedik az alábbiak szerint:
+56. § (1) Ha az esedékes vámösszeget és/vagy a nem közösségi adók és díjak összegét, illetve a 61/A. §-a szerint megállapított vámigazgatási bírságot vagy a 61/B. § szerinti korrekciós pótlékot az előírt időtartamon belül nem fizették meg, illetve bármely tagállam vámhatósága a tartozás végrehajtása érdekében megkeresést küld, a vámhatóság haladéktalanul intézkedik az alábbiak szerint:
 
-- 1. amennyiben a tartozást a vámigazgatási eljáráshoz nyújtott biztosíték teljes egészében fedezi, a vámhatóság azt érvényesíti, vagy
-- 2. amennyiben a tartozást a vámigazgatási eljáráshoz nyújtott biztosíték teljes összegében nem fedezi, a rendelkezésre álló biztosítékot elszámolja, és a fennmaradó összeg vonatkozásában, továbbá, ha biztosítékot nyújtani nem kellett, a végrehajtási eljárás megindítása iránt haladéktalanul intézkedik.
+- a) amennyiben a tartozást a vámigazgatási eljáráshoz nyújtott biztosíték teljes egészében fedezi, a vámhatóság azt érvényesíti, vagy
+- b) amennyiben a tartozást a vámigazgatási eljáráshoz nyújtott biztosíték teljes összegében nem fedezi, a rendelkezésre álló biztosítékot elszámolja, és a fennmaradó összeg vonatkozásában, továbbá, ha biztosítékot nyújtani nem kellett, a végrehajtási eljárás megindítása iránt haladéktalanul intézkedik.
 
-(2) A végrehajtási eljárás lefolytatására az állami adóhatóság jogosult. A végrehajtási eljárásra az adózás rendjéről szóló törvénynek az adótartozás végrehajtására vonatkozó rendelkezéseit kell alkalmazni, ide nem értve a behajthatatlan adótartozás nyilvántartására és az elévülésre vonatkozó rendelkezéseit.
+(2) A végrehajtási eljárás lefolytatására az állami adóhatóság jogosult, azonban az állami adó- és vámhatóságnál nyilvántartott tartozás erejéig ingófoglalást a vámhatóság első fokon eljáró szervei is foganatosíthatnak. A végrehajtási eljárásra az adózás rendjéről szóló törvénynek az adótartozás végrehajtására vonatkozó rendelkezéseit kell alkalmazni, ide nem értve a behajthatatlan adótartozás nyilvántartására és az elévülésre vonatkozó rendelkezéseit.
 
-(3)–(4)
+(3) A vámhatóság az adós számára visszatéríthető vámot, és nem közösségi adót és díjat az adós vámtartozása és nem közösségi adó és díj, illetve a 61/A. §-a szerint megállapított vámigazgatási bírság vagy a 61/B. §-a szerinti korrekciós pótléktartozása, vagy az állami adóhatóságnál nyilvántartott köztartozása összegéig visszatarthatja.
 
-(5) A vámhatóság az adós számára visszatéríthető vámot, és nem közösségi adót és díjat az adós vámtartozása és nem közösségi adó és díj tartozása, vagy az állami adóhatóságnál nyilvántartott köztartozása összegéig visszatarthatja.
+(4) Az egy határozattal megállapított vámtartozás és a nem közösségi adó és díj, továbbá a 61/A. § szerint megállapított vámigazgatási bírság, valamint a 61/B. § alapján megállapított korrekciós pótlék tartozás részbeni teljesülése esetén a vámhatóság a befizetett összeget először a vámtartozásra köteles elszámolni. A vámhatóság az így végzett elszámoláson felül fennmaradó összegnek legalább olyan arányú részét köteles a nem közösségi adó- és díj, továbbá a 61/A. § szerint megállapított vámigazgatási bírság, valamint a 61/B. § alapján megállapított korrekciós pótlék tartozásra elszámolni, amilyen a megállapított nem közösségi adó- és díj, illetve vámigazgatási bírság és korrekciós pótlék tartozás aránya a határozatban előírt fizetendő összegen belül. Az elszámolásról az adóst értesíteni kell.
 
-(6) A nem közösségi adó és díj beszedéséhez való jog a közlés napjától számított 5 év elteltével évül el.
+56/A. § (1) A nem közösségi adó és díj, a 61/A. § szerint megállapított vámigazgatási bírság, valamint a 61/B. § alapján megállapított korrekciós pótlék végrehajtásához való jog a fizetési kötelezettséget megállapító határozat közlésének napjától számított 5 év elteltével évül el.
 
-(7) A túlfizetés, illetve a tartozatlanul megfizetett vám és nem közösségi adó és díj visszaigényléséhez való jog az ügyfélnek a visszajáró összegről szóló hitelt érdemlő tájékoztatásától számított 5 év elteltével évül el.
+(2) A túlfizetés, illetve a tartozatlanul megfizetett vám és nem közösségi adó és díj, a 61/A. § szerint megállapított vámigazgatási bírság, valamint a 61/B. § alapján megállapított korrekciós pótlék visszaigényléséhez való jog az ügyfélnek a visszajáró összegről szóló hitelt érdemlő tájékoztatásától számított 5 év elteltével évül el.
 
-(8) Ha a vámhatóság határozatát a bíróság felülvizsgálja, a másodfokú vámhatósági határozat jogerőre emelkedésétől a bíróság határozatának jogerőre emelkedéséig, felülvizsgálati kérelem esetén a felülvizsgálati kérelem elbírálásáig a nem közösségi adó és díj beszedéséhez való jog elévülése nyugszik.
+(3) Ha a vámhatóság határozatát a felettes szerv vagy bíróság felülvizsgálja, a nem közösségi adó és díj, a 61/A. § szerint megállapított vámigazgatási bírság, valamint a 61/B. § alapján megállapított korrekciós pótlék végrehajtásához való jog a jogerős határozat kihirdetésének vagy közzétételének napjától számított 5 év elteltével évül el.
 
-(9) A nem közösségi adó és díj tartozás végrehajtásához való jog az esedékesség napjától számított 5 év elteltével évül el. Amennyiben a vámhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik. Ha a vám- és a nem közösségi adó és díj tartozás végrehajtásához való jog elévült, a tartozást terhelő kamatot is elévültnek kell tekintetni.
+(4) Amennyiben a vámhatóság a nem közösségi adó és díj megfizetésére részletfizetést engedélyez, a végrehajtáshoz való jog az utolsó részlet megfizetésének napjától számított 5 év elteltével évül el.
 
-(10) Nyugszik az elévülés a végrehajtási eljárás felfüggesztésének és szünetelésének, az adós vagyonának egészére elrendelt bűnügyi zárlat, továbbá jogszabályban biztosított fizetési kedvezmény időtartama alatt. A jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
+(5) Ha a vám- és a nem közösségi adó és díj, a 61/A. § alapján kiszabott vámigazgatási bírság, valamint a 61/B. § alapján megállapított korrekciós pótlék tartozás végrehajtásához való jog elévült, az e tartozást terhelő kamatot is elévültnek kell tekintetni.
 
-(11) Nyugszik az elévülés továbbá, a vámmal és nem közösségi adóval és díjjal kapcsolatban indult büntetőeljárás esetén a büntetőeljárás jogerős befejezéséig.
+(6) Nyugszik az elévülés a Vámkódex 243. cikke szerinti jogorvoslati eljárás, a Vámkódex 236., 238. vagy 239. cikke szerinti vámvisszafizetés, -elengedés iránt benyújtott kérelemre indult eljárás, valamint a jogszabályban biztosított fizetési kedvezmény időtartama alatt.
 
-(12) A (6) bekezdés szerint elévült, valamint az eredménytelen végrehajtási eljárás miatt behajthatatlan nem közösségi adót és díjat, továbbá a (7) bekezdés szerinti vámot és nem közösségi adót és díjat törölni kell.
+(7) Jelzálogjog bejegyzése esetében – a bejegyzett jelzálogjog értékéig – a nem közösségi adó- és díj, valamint a 61/A. § szerint megállapított vámigazgatási bírság, és a 61/B. § alapján megállapított korrekciós pótlék tartozás a jelzálogjog alapjául szolgáló zálogtárgy értékesítésének napjától számított 5 év elteltével évül el. A jelzálogjog érvényesítését követően a befolyt összegekből a tartozás összegét az 56. § (4) bekezdésében foglaltak szerint kell elszámolni.
 
-(13) A behajthatatlanság címén törölt nem közösségi adó és díj tartozást újból elő kell írni, ha a végrehajtáshoz való jog elévülési idején belül a tartozás behajthatóvá válik.
+(8) Az elévült, valamint az eredménytelen végrehajtási eljárás miatt behajthatatlan nem közösségi adót és díjat, a 61/A. § szerint megállapított vámigazgatási bírságot, valamint a 61/B. § alapján megállapított korrekciós pótlékot, továbbá a (7) bekezdés szerinti vámot és nem közösségi adót és díjat, a 61/A. § szerint megállapított vámigazgatási bírságot, valamint a 61/B. § alapján megállapított korrekciós pótlékot törölni kell.
 
-(14) Az egy határozattal megállapított vámtartozás és a nem közösségi adó és díjtartozás részbeni teljesülése esetén a vámhatóság a befizetett összeg legalább olyan arányú részét köteles a vámtartozásra elszámolni, amilyen a megállapított vámtartozás aránya a határozatban előírt fizetendő összegen belül. Az elszámolásról az adóst értesíteni kell.
+(9) A behajthatatlanság címén törölt nem közösségi adó és díj, a 61/A. § szerint megállapított vámigazgatási bírság, valamint a 61/B. § alapján megállapított korrekciós pótlék tartozást újból elő kell írni, ha a végrehajtáshoz való jog elévülési idején belül a tartozás behajthatóvá válik.
 
 57. § A vámkódex 232. cikke (1) bekezdésének b) pontjában meghatározott kamat mértéke az esedékes vám és nem közösségi adók és díjak összege után minden megkezdett napra a fizetési határidő lejártát követő naptól a tartozás megfizetése napjáig a felszámítás napján érvényes jegybanki alapkamat kétszeresének 365-öd része, de legalább kettőezer forint.
 
@@ -891,15 +908,15 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 ### A vámkódex 236–241. cikkéhez
 
-59. § (1) A visszatérítésre és a tartozás elengedésére a vámhatóság jogosult.
+59. § (1)
 
 (2) Amennyiben a vámtartozást és a nem közösségi adókat és díjakat, az EK végrehajtási rendelet 519. cikke szerinti kiegyenlítő kamatot, vagy késedelmi kamatot megállapító határozat módosításáról, visszavonásáról, megváltoztatásáról, megsemmisítéséről vagy hatályon kívül helyezéséről rendelkező hatósági határozat, illetve bírósági ítélet alapján a megállapított fizetési kötelezettség (vagy a fizetési kötelezettség összegének egy része) követelésének jogcíme megszűnik, a módosításról, visszavonásról, megváltoztatásról vagy megsemmisítésről rendelkező határozatban, illetve a bírósági ítélet végrehajtása érdekében hozott határozatban az eljáró hatóság rendelkezik az összegnek a vámhatóság általi visszafizetéséről. Ez a visszafizetési kötelezettségről való rendelkezés a vámkódex 236. cikke (2) bekezdésének harmadik francia bekezdése szerinti saját kezdeményezésnek minősül.
 
 (3) A vámhatóság a visszatérítésről rendelkező határozat jogerőre emelkedésétől számított 30 napon belül köteles a visszafizetendő összeget visszautalni. A határidőn túli visszafizetés esetén a vámhatóság kamatot fizet. A kamat összegének megállapítására az 57. §-ban foglalt rendelkezéseket kell értelemszerűen alkalmazni.
 
-(4) Amennyiben a vámhatóság (1) bekezdés szerinti határozata jogszabályt sértett és az adósnak ennek következtében keletkezik visszafizetési igénye, a vámhatóságnak a visszafizetendő összeg után a (3) bekezdés szerinti kamatot a befizetés napjától a visszafizetés napjáig kell fizetnie, kivéve, ha a téves vám- és adómegállapítás a nem jóhiszeműen eljáró adós érdekkörében felmerült okra vezethető vissza.
+(4) Ha jogorvoslati eljárás eredményeképp megállapításra kerül, hogy a vámhatóság határozata jogszabályt sértett és az adósnak ennek következtében keletkezik visszafizetési igénye, a vámhatóságnak a visszafizetendő összeg után a (3) bekezdés szerinti kamatot a befizetés napjától a visszafizetés napjáig kell fizetnie, kivéve, ha a téves vám- és adómegállapítás a nem jóhiszeműen eljáró adós érdekkörében felmerült okra vezethető vissza.
 
-(5) A (2)–(4) bekezdéseket a vámigazgatási bírságot megállapító határozatokra nézve is alkalmazni kell, azzal, hogy ez esetben a „téves vám- és adómegállapítás helyett” vámigazgatási bírság megállapítást kell érteni. Ha a vámigazgatási bírság kiszabását a folyamatban lévő ügyben alkalmazni rendelt későbbi jogszabály ügyfél számára kedvezőbb rendelkezése alapján mellőzni kell, kamatfizetési kötelezettség a vámhatóságot a már megfizetett bírság visszafizetése esetén nem terheli.
+(5) A (2)–(4) bekezdéseket a a vámigazgatási bírságot, illetve korrekciós pótlékot megállapító határozatokra nézve is alkalmazni kell, azzal, hogy ez esetben a „téves vám- és adómegállapítás helyett” vámigazgatási bírság, illetve korrekciós pótlék megállapítást kell érteni. Ha a vámigazgatási bírság, illetve korrekciós pótlék megállapítását a folyamatban lévő ügyben alkalmazni rendelt későbbi jogszabály ügyfél számára kedvezőbb rendelkezése alapján mellőzni kell, kamatfizetési kötelezettség a vámhatóságot a már megfizetett vámigazgatási bírság, illetve korrekciós pótlék visszafizetése esetén nem terheli.
 
 ### A vámkódex 243. cikkéhez
 
@@ -918,6 +935,23 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 - c) a bíróság által elrendelt új eljárás esetében; továbbá
 - d) ha az utólagos ellenőrzésre az Állami Számvevőszék elnökének felhívására vagy az adópolitikáért felelős miniszter utasítására kerül sor,
 - e) ha a vámhatóságnak olyan, a vámtartozás, illetve nem közösségi adó és díj fizetési kötelezettség megállapítását befolyásoló új tény, adat, bizonyíték jut tudomására, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására a vámhatóság vezetője utasítást ad.
+
+60/A. § (1) Jogorvoslati kérelem elbírálása tárgyában a felettes szerv által hozott döntés alapján a 1150/2000/EK Euratom rendelet 6. cikk (3) bekezdés b) pontjában említett elkülönített számlákról (a továbbiakban: elkülönített számlák) – a Vámkódex 220. cikk (2) bekezdés b) pontjában, valamint az EK végrehajtási rendelet 871. cikkében foglaltak sérelme nélkül – kizárólag akkor törölhetők a könyvelésbe vett vámösszegek, ha
+
+- a) a vámszerv döntését a felettes szerv új eljárás lefolytatására való kötelezés nélkül semmisíti meg, vagy
+- b) a vámszerv döntését a felettes szerv új eljárás lefolytatására való kötelezéssel semmisíti meg és az új eljárás várhatóan nem eredményez fizetési kötelezettséget.
+
+(2) Felülvizsgálati kérelem elbírálása tárgyában bíróság által hozott döntés alapján az elkülönített számlákról – a Vámkódex 220. cikk (2) bekezdés b) pontjában, valamint a EK végrehajtási rendelet 871. cikkében foglaltak sérelme nélkül – kizárólag akkor törölhetők a könyvelésbe vett vámösszegek, ha
+
+- a) a vámhatóság döntését a bíróság új eljárás lefolytatására való kötelezés nélkül semmisíti meg és a vámhatóság a bíróság ítéletét nem vitatja, vagy
+- b) a vámhatóság döntését a bíróság új eljárás lefolytatására való kötelezés nélkül semmisíti meg és a vámhatóság valamennyi rendes és rendkívüli jogorvoslati lehetőségét kimerítette, vagy
+- c) a vámhatóság döntését a bíróság új eljárás lefolytatására való kötelezéssel semmisíti meg és az új eljárás várhatóan nem eredményez fizetési kötelezettséget.
+
+(3) Amennyiben a vámszerv döntését a felettes szerv vagy bíróság új eljárás lefolytatására való kötelezéssel semmisíti meg, de az új eljárás az eredetinél alacsonyabb vámösszeg könyvelésbe vételét eredményezi, a különbözetként jelentkező vámösszeg az elkülönített számlákról kizárólag az új eljárás keretében meghozott döntéssel egyidejűleg törölhető.
+
+### A vámkódex 244. Cikkéhez
+
+60/B. § A 60/A. § (1)–(3) bekezdéseiben foglaltakat alkalmazni kell a Vámkódex 244. cikke alapján nyújtott vámbiztosíték felszabadítása tekintetében is.
 
 61. §
 
@@ -940,16 +974,18 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 (5) Ha az EUR.1 vagy EUR-MED szállítási bizonyítványt vagy származási nyilatkozatot tartalmazó számlát a külföldi vámhatóság a rajta lévő adatok ellenőrzése céljából visszaküldi Magyarországra, illetve külföldi megkeresés nélkül a magyar vámhatóság az előzőekben nevesített okmányokat, valamint a „Beszállítói Nyilatkozat”-okat vizsgálat tárgyává teszi és az utólagos vizsgálat során az adatok valótlannak bizonyulnak, az exportőr vagy a beszállító az eladási ár, annak hiányában az áru értékének egy százalékát, de legalább százezer, legfeljebb
 
-- a) vámhiány keletkezése esetén a (6) bekezdésben,
+- a) vámhiány keletkezése esetén a (6)–(6a) bekezdésekben,
 - b) ha vámhiány nem keletkezik, a (7) bekezdésben meghatározott vámigazgatási bírságot köteles fizetni. Hosszú távú beszállítói nyilatkozat esetében a mindenkori maximálisan kiszabható bírságot kell megállapítani.
 
-(6) Ha a mulasztás vagy tevékenység következtében vámhiány keletkezik, vámigazgatási bírságként – a (8) bekezdésben foglaltak kivételével – a vámhiány ötven százalékát kell kiszabni. Nem kell a vámigazgatási bírságot kiszabni és beszedni, ha annak összege kevesebb 2500 Ft-nál.
+(6) Ha a mulasztás vagy tevékenység következtében vámhiány keletkezik, vámigazgatási bírságként – a (8) bekezdésben foglaltak kivételével – a vámhiány ötven százalékát kell kiszabni.
+
+(6a) Amennyiben a (6) bekezdés szerint kiszámított bírság összege nem éri el az EK végrehajtási rendelet 868. cikkében meghatározott értékhatárt, a fizetendő vámigazgatási bírság összege 3000 forint.
 
 (7) Amennyiben a mulasztás vagy tevékenység következtében vámhiány nem keletkezik, a vámigazgatási bírság szervezet esetében egymillió forintig, természetes személy esetében százezer forintig terjedhet. Ez esetben a bírság kiszabásánál a vámhatóság mérlegeli az eset összes körülményét, az ügyfél jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
-(8) A vámigazgatási bírságot nem lehet kiszabni, ha természetes személy esetében a kötelezettségszegés következtében büntető- vagy szabálysértési eljárás indult.
+(8) A vámigazgatási bírságot nem lehet kiszabni, ha természetes személy esetében a kötelezettségszegés következtében büntető- vagy szabálysértési eljárás indult, továbbá a 61/B. § (7)–(8) bekezdésének alkalmazása esetén.
 
-(9) Ha az ügyfél a gyűjtő vámáru-nyilatkozat vagy a vámáru-nyilatkozat adatainak a vámkódex 65. cikke vagy 78. cikk (1) bekezdése szerinti módosítását a korrekcióra okot adó okmány kiállításától számított 60 napon belül a vámhatóságnál kérelmezi, a vámhatóság a módosítás elfogadásakor a vámigazgatási bírság kiszabását mellőzi. Ha az ügyfél a vámáru-nyilatkozat módosítását a fenti időponton túl vagy egyéb okból, de még a vámhatóságnak a vámkódex 78. cikk (2) bekezdése szerinti vagy utólagos ellenőrzésről szóló értesítés kézhezvétele, illetve az előzetes értesítés mellőzése estén az ellenőrzés megkezdése előtt kérelmezi, a vámigazgatási bírság mértéke a (6) bekezdés szerint kiszabható bírság huszonöt százaléka.
+(9)
 
 (10) A vámigazgatási bírságot – a fizetésre kötelezett kérelmére – a külön jogszabályban meghatározott vámszerv elengedheti vagy mérsékelheti, ha
 
@@ -959,7 +995,31 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 (11) Nincs helye a bírság elengedésének, mérséklésének, ha a vámhiány a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
 
+(11a) A vámigazgatási bírság késedelmes megfizetése esetén az 57. § szerinti kamatot kell felszámítani.
+
 (12)
+
+### KORREKCIÓS PÓTLÉK
+
+61/B. § (1) Ha a nyilatkozattevő a vámkódex 78. cikk (1) bekezdése alapján, még a vámhatóságnak a vámkódex 78. cikk (2) bekezdése szerinti utólagos ellenőrzéséről szóló értesítés kézhezvétele, illetve az előzetes értesítés mellőzése esetén az ellenőrzés megkezdése előtt kérelmezi a vámáru-nyilatkozat módosítását, korrekciós pótlékot fizet, feltéve hogy az utólagos könyvelésbe vétel, illetve a nem közösségi adók és díjak utólagos kiszabása nem a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
+
+(2) A korrekciós pótlékot az utólagosan könyvelésbe vett vámösszeg, illetve kiszabott nem közösségi adó és díj összege után a vámhatóság állapítja meg, és a vámáru-nyilatkozat módosításáról hozott határozatában közli az adóssal.
+
+(3) A korrekciós pótlék beszedése tekintetében a közölt vámösszegek beszedésére vonatkozó rendelkezéseket kell alkalmazni.
+
+(4) A korrekciós pótlék mértéke az utólagosan könyvelésbe vett vámösszeg, illetve kiszabott nem közösségi adó és díj összege után a vámtartozás keletkezésének alapjául szolgáló vámáru-nyilatkozat elfogadását követő naptól a vámáru-nyilatkozat módosítására irányuló kérelem benyújtásának napjáig – amennyiben azt a vámáru-nyilatkozat elfogadásától számított 90 napon belül nyújtják be – a felszámítás napján érvényes jegybanki alapkamat 365-öd része naponta, de legalább háromezer forint, legfeljebb egymillió forint.
+
+(5) A (4) bekezdésben foglaltaktól eltérően, amennyiben a vámáru-nyilatkozat módosítását a vámáru-nyilatkozat elfogadásától számított 90 napon túl kezdeményezik, a korrekciós pótlék mértékének megállapítása során a felszámítás napján érvényes jegybanki alapkamathoz hozzá kell adni 0,25 százalékpontot minden egyes megkezdett 30 napos időszak vonatkozásában. Az így megemelt kamatlábat a felszámítás teljes időszakára alkalmazni kell. Az e bekezdés alapján megállapított korrekciós pótlék összege legalább négyezer forint, legfeljebb kettőmillió forint.
+
+(6) A korrekciós pótlék mérséklése, elengedése során a 61/A. § (10) bekezdés b) pontjában foglaltakat kell alkalmazni.
+
+(7) Ha a módosítás az adós terhére nem keletkeztet fizetési kötelezettséget, akkor a vámhatóság nem állapíthat meg korrekciós pótlékot.
+
+(8) Az adós a korrekciós pótlék megfizetésével mentesül a vámigazgatási bírság alól.
+
+(9) Amennyiben a vámhatóság az adós terhére a (2) bekezdés szerinti korrekciós pótlékot állapítja meg, a vámáru-nyilatkozat módosításának eredményeként keletkezett vám- és nem közösségi adó- és díjfizetési kötelezettség nem minősül az 1. § (3) bekezdésének 14. pontja szerinti vámhiánynak.
+
+(10) A korrekciós pótlék késedelmes megfizetése esetén az 57. § szerinti kamatot kell felszámítani.
 
 ### IV. Fejezet — VÁMJOGI VÁMKEDVEZMÉNYEK, VÁMMENTESSÉGEK
 
@@ -979,7 +1039,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 66. § (1) A vámmentességi rendelet 107. cikke alapján a magán- és kereskedelmi gépjárművek és motorkerékpárok szabványos tartályaiban vámmentesen vámkezelt üzemanyag Magyarország területén a vám és nem közösségi adók és díjak megfizetése nélkül nem idegeníthető el.
 
-(2) A vámmentességi rendelet 41. §-ának alkalmazásában „a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről szóló 2007/74/EK tanácsi irányelv rendelkezéseivel összhangban kiadott nemzeti jogszabály” alatt az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvényt kell érteni.
+(2) A vámmentességi rendelet 41. Cikkének alkalmazásában „a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről szóló 2007/74/EK tanácsi irányelv rendelkezéseivel összhangban kiadott nemzeti jogszabály” alatt az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvényt kell érteni.
 
 ### V. Fejezet — VÁMÜGYNÖKSÉGEK
 
@@ -1059,7 +1119,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 (2) Az e törvény 1. §-ának (3) bekezdése 10. pontjának a) alpontjában meghatározott, a II. típusú vámudvaron és a b) alpontjában meghatározott helyeken és/vagy hivatalos idején kívül az ügyfél kérelmére végzett vámigazgatási eljárás esetén szemledíjat kell fizetni.
 
-(3) A díjak késedelmes megfizetése esetén az esedékesség napjától e törvény 57. §-ának a) pontjában meghatározott mértékű késedelmi kamatot kell fizetni.
+(3) A díjak késedelmes megfizetése esetén az esedékesség napjától e törvény 57. §-ban meghatározott mértékű késedelmi kamatot kell fizetni.
 
 (4) A díjak meg nem fizetése esetén az e törvény 56. §-ában foglaltak szerint jár el a vámhatóság.
 
@@ -1112,7 +1172,9 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 (2) A vámjogról, a vámeljárásról, valamint a vámigazgatásról szóló 1995. évi C. törvény 2. számú mellékletében jogosultként meghatározott személyek az ott biztosított kedvezményeiket 2004. május 1. napjáig vehetik igénybe.
 
-78/A. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 48. § (4) bekezdését, 59. § (2) és (4)–(5) bekezdését és 33/A. § (6) bekezdését a folyamatban lévő ügyekben is alkalmazni kell, ha az az ügyfél számára kedvezőbb.
+78/A. § (1) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 48. § (4) bekezdését, 59. § (2) és (4)–(5) bekezdését és 33/A. § (6) bekezdését a folyamatban lévő ügyekben is alkalmazni kell, ha az az ügyfél számára kedvezőbb.
+
+(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 7/N. § (6) bekezdését, 54/A. §-át, 55. § (2)–(2a) bekezdéseit, 56. §-át, 56/A. §-át, 60/A. §-át, 60/B. §-át, 61/A. § (6)–(6a), (8) és (11a) bekezdéseit, 61/B. §-át a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### Módosuló jogszabályok
 
@@ -1142,23 +1204,24 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 - h) a vámhatóság hatáskörébe tartozó közvetlen közösségi bevételi számla nyilvántartás vezetésének részletes szabályait,
 - i) a hitelkamat felszámításának részletes szabályait,
 - j) a szemledíjra és egyéb díjakra vonatkozó részletes – ideértve annak mértékét is – szabályokat,
-- k) az egyszerűsített vámeljárásokra vonatkozó részletes szabályokat,
+- k) az egyszerűsített eljárásokra vonatkozó részletes szabályokat,
 - l) az adatfeldolgozási technika alkalmazásához szükséges feltételeket,
 - m) az integrált postaforgalomra vonatkozó részletes vámszabályokat,
-- n)
+- n) a fizetési halasztás, részletfizetés iránti kérelmek intézése rendjének módját és technikai feltételeit,
 - o) a vámáru-nyilatkozat ellenőrzés nélküli elfogadásának feltételeit,
 - p) az engedélyezett gazdálkodó státuszra vonatkozó részletes szabályokat,
-- q) a vámigazgatási bírságra vonatkozó részletes szabályokat.
+- q) a vámigazgatási bírságra vonatkozó részletes szabályokat,
+- r) a korrekciós pótlékra vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a vámkódex 97. cikke (2) bekezdésének a) pontjában meghatározott nemzetközi szerződéseket megkösse.
 
-(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az illetékes miniszterrel egyetértésben rendeletben szabályozza:
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza:
 
-- a) az 1979. évi 12. tvr.-rel kihirdetett, az oktatási, tudományos és kulturális jellegű tárgyak behozataláról szóló, Lake Success-ben, 1950. november 22-én kelt megállapodás alapján vámmentes vámkezelésre jogosultak körét,
-- b) a szövettipizáló reagensek vámmentes vámkezelésére jogosult laboratóriumokat,
-- c) az alapfeladatoktól eltérő külön feladatokat és ellenőrzési kötelezettségeket,
-- d) a katonai csapat- és árumozgásra vonatkozó vámeljárás különös szabályait,
-- e) a nemzetközi posta- és gyorspostaforgalomra vonatkozó részletes vámeljárási szabályokat.
+- a) az 1979. évi 12. törvényerejű rendelettel kihirdetett, az oktatási, tudományos és kulturális jellegű tárgyak behozataláról szóló, Lake Success-ben, 1950. november 22-én kelt megállapodás alapján vámmentes vámkezelésre jogosultak körét az oktatásért, a kultúráért és a kormányzati tudománypolitikáért felelős miniszterrel egyetértésben,
+- b) a szövettipizáló reagensek vámmentes vámkezelésére jogosult laboratóriumokat az oktatásért, a kultúráért és a kormányzati tudománypolitikáért felelős miniszterrel egyetértésben,
+- c) az alapfeladatoktól eltérő külön feladatokat és ellenőrzési kötelezettségeket, az agrárpolitikáért felelős miniszterrel egyetértésben,
+- d) a katonai csapat- és árumozgásra vonatkozó vámeljárás különös szabályait a honvédelemért felelős miniszterrel egyetértésben,
+- e) a nemzetközi posta- és gyorspostaforgalomra vonatkozó részletes vámeljárási szabályokat a postaügyért felelős miniszterrel egyetértésben.
 
 (4) Felhatalmazást kap külpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Vámtarifa Bizottság összetételét és ügyrendjét.
 

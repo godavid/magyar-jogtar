@@ -20,7 +20,7 @@ Az erős, de az indokoltnál nem nagyobb, a változásokhoz gyorsan és rugalmas
 
 terjed ki.
 
-2. § Törvény eltérő rendelkezése hiányában a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, a Nemzeti Adatvédelmi és Információszabadság Hatóság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, az Egyenlő Bánásmód Hatóság, a Közbeszerzési Hatóság, a Nemzeti Választási Iroda és az Országgyűlési Őrség köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
+2. § Törvény eltérő rendelkezése hiányában a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, a Nemzeti Adatvédelmi és Információszabadság Hatóság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, az Egyenlő Bánásmód Hatóság, a Közbeszerzési Hatóság, a Nemzeti Választási Iroda, az Országgyűlési Őrség és a Nemzeti Emlékezet Bizottságának Hivatala köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
 
 3. § (1) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, illetve ügyészre, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -36,7 +36,7 @@ terjed ki.
 
 (7) A 258. § hatálya kiterjed a közigazgatási szervnél kormánytisztviselőnek, köztisztviselőnek, kormányzati, illetve közszolgálati ügykezelőnek nem minősülő munkavállaló munkaviszonyára.
 
-(8) A politikai vezetők állami vezetői szolgálati jogviszonyára a 26–50. §, 53. §, 55–73. §, 80–88. §, 98. §, 100. § (1) bekezdés, 101. §, 116–130. §, 133–142. §, 150. §, 154–159. §, 181–183. §, 190–191. §, 195–225. § kivételével e törvény kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni. A politikai vezető, valamint a munkáltató az állami vezetői szolgálati jogviszonyból származó igényt a 238. § megfelelő alkalmazásával érvényesítheti.
+(8) A politikai vezetők állami vezetői szolgálati jogviszonyára a 26–50. §, 53. §, 55–73. §, 80–88. §, 98. §, 100. § (1) bekezdés, 101. §, 116–130. §, 133–142. §, 143. § (2) bekezdése, 150. §, 154–159. §, 181–183. §, 190–191. §, 195–225. § kivételével e törvény kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni. A politikai vezető, valamint a munkáltató az állami vezetői szolgálati jogviszonyból származó igényt a 238. § megfelelő alkalmazásával érvényesítheti.
 
 (9) Törvény eltérő rendelkezése hiányában az állami intézményfenntartó központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
 
@@ -607,6 +607,29 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 (2) Az (1) bekezdés a) pontjában meghatározott kétéves határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
 
 (3) Ha a kormánytisztviselő az (1) bekezdés a) pontja szerinti képesítést határidőn belül nem szerzi meg, kormányzati szolgálati jogviszonya a törvény erejénél fogva megszűnik.
+
+(4) Ha a munkakör betöltéséhez szükséges képesítés megszerzésére irányuló képzés a kormányzati szolgálati jogviszony létesítésének időpontjához képest csak később indul, az (1) bekezdés a) pontja szerinti két évet a képzés indulásának időpontjától kell számítani.
+
+41/A. § (1) A betöltetlen álláshely betöltése céljából az államigazgatási szervnek a kiválasztási eljárás lefolytatását megelőzően – a vezetői munkakör betöltésére irányuló kiválasztási eljárást, valamint a (8) bekezdést kivéve – meg kell vizsgálnia, hogy a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) pontjában meghatározott rendelkezési állományba tartozó, hivatásos állomány legalább százados vagy legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek maximális várakozási ideje letelt és annak meghosszabbítására a Hjt. 86. § (3) bekezdése szerint nem került sor (a továbbiakban: rendelkezési állományú katona) számára felajánlható-e a betöltetlen álláshely (a továbbiakban: felajánlható munkakör).
+
+(2) Az (1) bekezdés alkalmazásában felajánlható munkakörnek azt kell tekinteni, ha
+
+- a) a rendelkezési állományú katona megfelel az e törvényben – ideértve a 41. §-t is –, illetve e törvény végrehajtására kiadott jogszabályban a munkakör betöltéséhez előírt képesítési feltételeknek, valamint
+- b) az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát nem haladja meg.
+
+(3) Amennyiben a rendelkezési állományú katona végzettsége nem felel meg a munkakör betöltéséhez előírt képesítési feltételeknek, a 41. § (1) bekezdés a) pontjában meghatározott tanulmányait a Magyar Honvédség költségére végzi.
+
+(4) A (3) bekezdés szerinti képzés költségeit a kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona köteles megtéríteni a Magyar Honvédség részére, ha neki felróható okból a képzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 70. § (6) bekezdésére tekintettel kell megszüntetni a jogviszonyát.
+
+(5) A kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona kötelezi magát, hogy a képesítés megszerzése után legalább a képzés időtartamával azonos időtartamon keresztül kormányzati szolgálati jogviszonyát lemondással nem szünteti meg. Amennyiben a rendelkezési állományú katona ezt a kötelezettségét megszegi, a (3) bekezdés szerinti képzés időarányos költségeit köteles megtéríteni a Magyar Honvédség részére.
+
+(6) Az államigazgatási szervnek a rendelkezési állományú katona részére a (2) bekezdés szerint felajánlható munkakört a Kormány által meghatározott módon fel kell ajánlania.
+
+(7) Ha a rendelkezési állományú katonát a munkakört felajánló államigazgatási szerv továbbfoglalkoztatja, de a Hjt. 59. § (2) bekezdés c) pontja szerinti áthelyezés időpontjában az illetménye magasabb, mint a kormányzati szolgálati jogviszonya alapján járó illetménye lenne, a kormányzati szolgálati jogviszonya létesítéstől számított egy éven át jogosult az illetménykülönbözetre.
+
+(8) E §-ban foglaltakat nem kell alkalmazni arra a rendelkezési állományú katonára, aki a részére korábban felajánlott, a (2) bekezdés szerint felajánlható munkakört nem fogadta el.
+
+41/B. § Vezetői munkakör betöltésére irányuló pályázati eljárás esetén előnyben kell részesíteni azt a rendelkezési állományú katonát, aki a pályázati feltételeknek – ideértve a képesítési követelményeket is – teljes körűen megfelel.
 
 42. § (1) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 
@@ -1600,7 +1623,13 @@ munkanap pótszabadság jár.
 
 (4) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig, öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
-(5) A kormánytisztviselőnek, ha a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította, évenként öt munkanap pótszabadság jár.
+(5) A kormánytisztviselőnek, ha
+
+- a) a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította,
+- b) fogyatékossági támogatásra jogosult, vagy
+- c) vakok személyi járadékára jogosult,
+
+évenként öt munkanap pótszabadság jár.
 
 ### A szabadság kiadása
 
@@ -1960,8 +1989,9 @@ kell megállapítani.
 - 11. a külgazdasági tevékenységet irányító központi hivatalnál,
 - 12. jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél,
 - 13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatalnál,
-- 14. a fejlesztéspolitikáért felelős miniszter irányítása alatt álló, az európai uniós támogatások igénybevételében közreműködő központi hivatalnál,
-- 15. a kormányzati tevékenység összehangolásáért felelős miniszter irányítása alatt álló, a kormányzással és közigazgatással kapcsolatos kutatásokat folytatató központi hivatalnál foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+- 14.
+- 15. a kormányzati tevékenység összehangolásáért felelős miniszter irányítása alatt álló, a kormányzással és közigazgatással kapcsolatos kutatásokat folytatató központi hivatalnál,
+- 16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
 (2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
@@ -2057,7 +2087,9 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 
 143. § (1) A kormánytisztviselőt az e törvény 131–142. §-a alapján megillető illetmény kifizetése a kormánytisztviselő által választott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
-(2) Az illetmény fizetési számlára történő átutalása és egyszeri felvétele, illetve az illetmény-kifizetés a kormánytisztviselő részére költségtöbbletet nem okozhat.
+(2) A fizetési számlához kapcsolódóan a kormánytisztviselő részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
+
+(3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
 ### Díjazás munkavégzés hiányában
 
@@ -3109,14 +3141,17 @@ munkanapra emelkedik.
 
 - a) a 8. § (4) bekezdésében meghatározott 10%-os létszámkorlát,
 - b) a Magyar Kormánytisztviselői Karra vonatkozó rendelkezések (28–35. §),
-- c) a kormányzati érdekből történő kirendelés (55. §),
-- d) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §) nem alkalmazható(k).
+- c) a rendelkezési állományú katona továbbfoglalkoztatására vonatkozó rendelkezések (41/A–B. §)
+- d) a kormányzati érdekből történő kirendelés (55. §),
+- e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §) nem alkalmazható(k).
 
 (4) Az Országgyűlés Hivatala és az Országgyűlési Őrség szervezeti és működési szabályzata a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
 (5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
 
 (6) Az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlés Hivatalának vezetője és az Országgyűlési Őrség parancsnoka az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
+
+(7) A képviselő-testület hivatalánál foglalkoztatott köztisztviselő részére a 143. § (2) bekezdése szerinti bankszámla-hozzájárulás a helyi önkormányzat képviselő-testületének rendeletében meghatározott módon és mértékben nyújtható.
 
 ### A munkáltatói jogkör gyakorlása
 
@@ -3182,7 +3217,7 @@ munkanapra emelkedik.
 
 ### Illetménykiegészítés
 
-234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
+234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
 (2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a középiskolai végzettségű köztisztviselő esetében az alapilletményének 35%-a.
 
@@ -3232,6 +3267,8 @@ A már megállapított vezetői illetménypótlék nem csökkenthető.
 (6) A (4) bekezdés a) pont és az (5) bekezdés alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
 
 (7) A (6) bekezdés alkalmazása során a köztisztviselő illetménye csökkenhet is.
+
+(8) A Nemzeti Emlékezet Bizottságának Hivatala főigazgatója főosztályvezetői illetményre jogosult azzal, hogy alapilletménye az illetményalap 9,5-szerese, a közszolgálati tisztviselőkről szóló törvényben meghatározott juttatásán felüli egyéb juttatásait a Nemzeti Emlékezet Bizottságának elnöke szabályzatban állapítja meg.
 
 ### Egyéb juttatások
 
@@ -3493,7 +3530,7 @@ munkanapra emelkedik.
 
 (6) A munkavállaló a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
 
-(7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, és 82–84. §-a nem alkalmazható. Esetükben e törvény 67. §-át és 193–194. §-át kell alkalmazni.
+(7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 67. §-át, 143. §-át, 146. §-át és 193–194. §-át kell alkalmazni.
 
 ### ZÁRÓ ÉS VEGYES RENDELKEZÉSEK
 
@@ -3507,6 +3544,7 @@ munkanapra emelkedik.
   - c) a közszolgálati alapnyilvántartásra és a közszolgálati statisztikai adatgyűjtésre,
   - d) a tartalékállományba helyezésre, a tartalékállomány működtetésére, az üres álláshely bejelentésére,
   - e) a kormánytisztviselői kártyára
+  - f) a rendelkezési állományú katona részére történő munkakör felajánlásra
 
 vonatkozó részletes szabályokat;
 

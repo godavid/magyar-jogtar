@@ -150,9 +150,7 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 33. § A Be. 534. § (2) bekezdésének alkalmazásában szabadságvesztés kiszabásakor az 1978. évi IV. törvény 87. § (2) bekezdése alapján meghatározott büntetési tétel is irányadó.
 
-34. § (1) A Be. 554/B. § alkalmazásában kiemelt jelentőségű ügy az 1978. évi IV. törvény szerinti hivatali visszaélés (1978. évi IV. törvény 225. §); közélet tisztasága elleni bűncselekmények [1978. évi IV. törvény 250. § (2) bekezdés a) pont és (3) bekezdés, 255/B. § és 256. §], ha annak elkövetésével a helyi önkormányzat képviselő-testületének tagja, polgármestere, alpolgármestere, képviselő-testülete hivatalának vezető beosztású dolgozója, országgyűlési képviselő, állami vezető, a központi költségvetési szerv, a központi államigazgatási szerv, illetve ezek területi szerveinek vezető beosztású dolgozója gyanúsítható megalapozottan, illetve elkövetőként kizárólag az ebben a pontban felsorolt személyek valamelyike jöhet szóba, vagy a bűncselekményt e személyek vonatkozásában követik el, továbbá a nemzetközi közélet tisztasága ellen elkövetett bűncselekmények (1978. évi IV. törvény XV. Fejezet VIII. Cím); a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §); a bűnszervezetben (1978. évi IV. törvény 137. § 8. pont) elkövetett bármely bűncselekmény; a gazdasági életben súlyos következményekkel járó csődbűncselekmény [1978. évi IV. törvény 290. § (4) bekezdés], a versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban (1978. évi IV. törvény 296/B. §), a pénzmosás (1978. évi IV. törvény 303. és 303/A. §) és a költségvetési csalás súlyosabban minősülő esetei [1978. évi IV. törvény 310. § (4)–(5) bekezdés] és azok a bűncselekmények is, amelyek büntethetősége az 1978. évi IV. törvény 33. § (2) bekezdése alapján nem évül el.
-
-(2) Az (1) bekezdés rendelkezései alapján a 2013. július 1-je után indult nyomozásokban kell eljárni.
+34. § A Be. 554/B. §-a alkalmazásában kiemelt jelentőségű ügy az 1978. évi IV. törvény szerinti hivatali visszaélés (1978. évi IV. törvény 225. §); közélet tisztasága elleni bűncselekmények [1978. évi IV. törvény 250. § (2) bekezdés a) pont és (3) bekezdés, 255/B. § és 256. §], ha annak elkövetésével a helyi önkormányzat képviselő-testületének tagja, polgármestere, alpolgármestere, képviselő-testülete hivatalának vezető beosztású dolgozója, országgyűlési képviselő, állami vezető, a központi költségvetési szerv, a központi államigazgatási szerv, illetve ezek területi szerveinek vezető beosztású dolgozója gyanúsítható megalapozottan, illetve elkövetőként kizárólag az ebben a pontban felsorolt személyek valamelyike jöhet szóba, vagy a bűncselekményt e személyek vonatkozásában követik el, továbbá a nemzetközi közélet tisztasága ellen elkövetett bűncselekmények (1978. évi IV. törvény XV. Fejezet VIII. Cím); a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §); a bűnszervezetben (1978. évi IV. törvény 137. § 8. pont) elkövetett bármely bűncselekmény; és azok a bűncselekmények is, amelyek büntethetősége az 1978. évi IV. törvény 33. § (2) bekezdése alapján nem évül el.
 
 35. § A Be. 572. § (1) bekezdésének alkalmazása során a bíróság a próbaidőre felfüggesztett szabadságvesztés végrehajtását az ügyész indítványára vagy hivatalból elrendeli akkor is, ha
 
@@ -346,7 +344,11 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 #### 304–309. §
 
-310. § (1)
+310. § (1) Az ügyészségről szóló 2011. évi CLXIII. törvény (a továbbiakban: Ütv.) 2. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(Az 1. §-ban megjelölt feladatok teljesítése érdekében az ügyészség)
+
+„e) törvényességi felügyeletet lát el a büntetések, a mellékbüntetések, az intézkedések, a személyi szabadságot elvonó és azt korlátozó eljárási kényszerintézkedések, az utógondozás, valamint a bűnügyi, a szabálysértési, a körözési nyilvántartás és a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, továbbá közreműködik a büntetés-végrehajtási bíró eljárásában;”
 
 (2)
 

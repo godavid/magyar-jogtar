@@ -417,13 +417,19 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 ### Regionális fejlesztési ügynökség
 
-17. § (1) A miniszter a megyei, fővárosi fejlesztési program megvalósításával összefüggő fejlesztési döntések előkészítésére és végrehajtására, valamint a területfejlesztési feladatokat ellátó, e törvény III. Fejezetében nevesített területi szervek információval való ellátására és azok munkájának segítésére a régióban nonprofit gazdasági társaság formában regionális fejlesztési ügynökséget működtet.
+17. § (1) Az egy régió területén működő megyei önkormányzatok és a fővárosi önkormányzata területi operatív programok megvalósításával összefüggő fejlesztési döntések előkészítésére és végrehajtásában való közreműködésre a régióban nonprofit gazdasági társasági formában regionális fejlesztési ügynökséget működtetnek. A gazdasági társaság irányításáról tulajdonjogáról és a tulajdonosi jogok gyakorlásának módjáról a régió területét alkotó megyei önkormányzatok és a fővárosi önkormányzat megállapodásban döntenek.
 
 (2) A regionális fejlesztési ügynökség feladatai különösen:
 
 - a) folyamatos kapcsolatot tart a régióban működő közigazgatási szervezetekkel, intézményekkel a fejlesztési szükségletek és a bevonható helyi források feltárása érdekében;
 - b) szervezi a programok megvalósítását, részt vesz a programok – külön jogszabályban meghatározott – pénzügyi finanszírozási feladataiban, a programok megvalósításáról, a pénzügyi felhasználásról naprakész nyilvántartást vezet;
 - c) külön megállapodás alapján részt vesz a területfejlesztési programok lebonyolításában.
+
+(2) A regionális fejlesztési ügynökség feladatai különösen:
+
+- a) közreműködő szervezeti feladatokat lát el a területi operatív programok végrehajtásában és ellenőrzésében,
+- b) külön megállapodás alapján részt vesz az ágazati területfejlesztési operatív programok, vagy más programok lebonyolításában, szervezi a programok megvalósítását, részt vesz a programok pénzügyi finanszírozási feladataiban, a programok megvalósításáról, a pénzügyi felhasználásról naprakész nyilvántartást vezet,
+- c) közreműködik a megyei önkormányzat és a fővárosi önkormányzat területfejlesztési feladatainak ellátásában.
 
 ### A területi államigazgatási szervek feladatai
 
@@ -573,28 +579,7 @@ rendszere.
 
 (7)
 
-23/A. § (1) A kiemelt térségek és a megyék területrendezési terveinek készítése során
-
-- a) az országos jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények helyét az Országos Területrendezési Tervben meghatározott térbeli rend figyelembevételével kell feltüntetni;
-- b) az országos jelentőségű műszaki infrastruktúra hálózatoknak a tervezési területre vetített hossza legfeljebb +/–10%-kal térhet el az Országos Területrendezési Terv szerkezeti tervében ábrázolt nyomvonalváltozattól, kivéve, ha a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat alapján lefolytatott területrendezési hatósági eljárás szerint nagyobb eltérés indokolt;
-- c) az országos, a kiemelt térségi és a megyei övezetek által érintett területeket az érdekelt államigazgatási szervek előzetes adatszolgáltatásának figyelembevételével kell lehatárolni.
-
-(2) A településrendezési tervek készítése során
-
-- a) az országos, valamint a térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények helyét a kiemelt térségi és megyei területrendezési tervekben meghatározott térbeli rend figyelembevételével kell feltüntetni;
-- b) az országos és térségi jelentőségű műszaki infrastruktúra hálózatoknak a település közigazgatási területére vetített hossza legfeljebb +/–5%-kal térhet el a kiemelt térségi és megyei területrendezési tervek szerkezeti tervében ábrázolt nyomvonal-változattól, kivéve, ha a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat alapján lefolytatott területrendezési hatósági eljárás szerint nagyobb eltérés indokolt;
-- c) az országos, a kiemelt térségi és a megyei övezetek által érintett területeket az érdekelt államigazgatási szervek előzetes adatszolgáltatásának figyelembevételével kell lehatárolni oly módon, hogy a kiemelt térségi és a megyei övezet területének a település közigazgatási területére eső része legfeljebb +/–5%-kal változhat;
-- d) kiemelt térségi vagy megyei terv hiányában az Országos Területrendezési Terv előírásait a kiemelt térségi és megyei terv készítésére vonatkozó szabályok szerint [az (1) bekezdésben foglaltak szerint] kell érvényesíteni.
-
-(3) Az országos és térségi jelentőségű műszaki infrastruktúra hálózatok nyomvonalának meghatározásánál biztosítani kell a szomszédos megyék, illetve települések határán a folyamatos kapcsolódás lehetőségét.
-
-(4) Az országos területfelhasználási kategóriákra vonatkozó szabályoknak a kiemelt térség vagy a megye területére vetítve, a kiemelt térségi és megyei területfelhasználási szabályoknak a település közigazgatási területére vetítve kell teljesülniük.
-
-(5)
-
-(6) A megyei területrendezési tervben a felszíni vizek vízminőség-védelmi vízgyűjtő területe övezetét, az ásványi nyersanyag-gazdálkodási terület övezetét, az együtt tervezhető térségek övezetét, a világörökség és világörökség-várományos terület övezetét, a történeti települési terület övezetét, a földtani veszélyforrás területe övezetét, a vízeróziónak kitett terület övezetét, valamint a széleróziónak kitett terület övezetét az érintett települések közigazgatási területének megjelölésével kell meghatározni. A megyei területrendezési tervekben alkalmazott, továbbá ott megállapított egyéb térségi övezeteket tényleges kiterjedésüknek megfelelően kell lehatárolni.
-
-(7) A kiemelt térségek területrendezési tervében a térségi övezetek határait – az övezet jellegére tekintettel – a (6) bekezdésben rögzítettektől eltérően is meg lehet határozni.
+23/A. §
 
 23/B. § (1) A kiemelt térség és megye területrendezési terve a térség területi határát, térségi szerkezeti tervét, térségi övezeteit és területrendezési szabályzatát foglalja magában, továbbá tartalmazhat ajánlásokat és intézkedési javaslatot.
 
@@ -624,7 +609,15 @@ rendszere.
 
 (2) A településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítása az állami főépítész térségi területfelhasználási engedélye alapján történik.
 
-(3) A kiváló termőhelyi adottságú szántóterület övezetében, a kiváló termőhelyi adottságú erdőterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és az erdőtelepítésre alkalmas terület övezetében, valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén a területcsere az állami főépítész térségi területfelhasználási engedélye alapján történik.
+(3) A kiváló termőhelyi adottságú szántóterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén a területcsere az állami főépítész térségi területfelhasználási engedélye alapján történik.
+
+(3a) Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő,
+
+- a) az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, nemzetközi és hazai szénhidrogén- és szén-dioxid-szállítóvezeték elemei,
+- b) a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak, főutak és az országos vasúti törzshálózat elemei,
+- c) az egyedi építmények közül a gyorsforgalmi úton, főúton és vasúti törzshálózaton lévő híd a Dunán és a Tiszán, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók
+
+területi elhelyezése az állami főépítész térségi területfelhasználási engedélye alapján történik.
 
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
@@ -730,7 +723,7 @@ rendszere.
 - j)
 - k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait,
 - l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
-- m) az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét;
+- m)
 - n) a kormányhivatal, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
 - o) a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 - p) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat-köteles eljárások körét, a területi hatásvizsgálat készítésének eljárási szabályait és tartalmi követelményeit;
@@ -764,6 +757,14 @@ rendszere.
 (7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a területrendezési feladatok előirányzat felhasználásának szabályait rendeletben állapítsa meg.
 
 28. §
+
+29. § (1) A területfejlesztés stratégiai tervezéséért felelős miniszter 2014. február 28-ig összehívja az Országos Területfejlesztési Érdekegyeztető Fórum alakuló ülését. Az Országos Területfejlesztési Érdekegyeztető Fórum megalakulása időpontjától jogutódja a megszűnő Országos Területfejlesztési Tanácsnak.
+
+(2) A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosításáról szóló 2013. évi CCXVI. törvény hatálybalépésekor nonprofit gazdasági társasági formában működő regionális fejlesztési ügynökségek a magyar állam könyveiben 2013. december 31-én szereplő értéken, térítésmentesen a területileg érintett megyei önkormányzatok, illetve Budapest Főváros Önkormányzata tulajdonába kerülnek.
+
+(3) A magyar államtól – mint átadótól – a regionális fejlesztési ügynökségeket a székhelyük szerint illetékes megyei (fővárosi) önkormányzatok veszik át.
+
+(4) A 25/B. § rendelkezéseit a 2014. június 30. napját követően megkezdett területfejlesztési tervezési tevékenységre kell alkalmazni.
 
 ### 1. melléklet az 1996. évi XXI. törvényhez
 

@@ -10,113 +10,25 @@ egyes törvényeknek a rezsicsökkentés végrehajtásával összefüggő módos
 
 2. § (1)
 
-(2) A Tt. a következő 43/A. §-sal egészül ki:
+(2)
 
-„43/A. § (1) A közös képviselő vagy az intézőbizottság – többletdíjazás felszámítása nélkül – a rezsicsökkentések végrehajtásához kapcsolódóan tájékoztatja a tulajdonostársa(ka)t
-
-a) minden hónap 15. napjáig, legalább 45 nap időtartamra kifüggesztve – az 1. mellékletben meghatározott formában és tartalommal – írásban, figyelemfelkeltő és a fogyasztók által jól látható módon elhelyezett hirdetmény útján a közös tulajdonú épületrészeket érintő, valamint a 24. § (2) bekezdés b) pontja szerinti közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentések eredményeként a társasház tekintetében jelentkező megtakarításokról költségnemenkénti bontásban,
-
-b) minden év február 15. napjáig, írásban, a közös tulajdonú épületrészeket érintő és a 24. § (2) bekezdés b) pontja szerinti közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentés egyes közszolgáltatási területeken történt bevezetése óta, az annak eredményeként a tulajdonostárs külön tulajdonú lakása és a nem lakás céljára szolgáló helyisége tekintetében jelentkező megtakarításairól a 24. § (2) bekezdés a) és b) pontja alapján számított költségnem szerinti bontásban és évenként összesítve, és
-
-c) a 35. § (1) bekezdése szerinti időpontig a 48. § (1) bekezdés g) pontjában foglaltakról.
-
-(2) Ha valamely közüzemi szolgáltató az adott hónapban nem állít ki a társasház számára számlát, úgy az (1) bekezdés a) pontja szerinti tájékoztatásban e költségnem tekintetében elegendő erre a tényre utalni.
-
-(3) Ha a társasház valamely közüzemi szolgáltatás tekintetében nem részesült a rezsicsökkentésből eredő megtakarításban, akkor a közös képviselő vagy az intézőbizottság köteles ennek indokát a tájékoztatásban érthető és világos módon szerepeltetni. Ha a társasház a villamos energiát vagy földgázt nem egyetemes szolgáltatás keretében vételezi, akkor a tájékoztatásban azt kell feltüntetni, hogy ezen okból az említett területen a társasház nem jogosult a rezsicsökkentésre.
-
-(4) Az (1)–(3) bekezdés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) alkalmazásában fogyasztóvédelmi rendelkezés.
-
-(5) A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni, azzal, hogy a közös képviselő vagy az intézőbizottság tagja az Fgytv. alkalmazásában vállalkozásnak minősül akkor is, ha természetes személy vagy önálló foglalkozásán vagy gazdasági tevékenységi körén kívül eső célból jár el.
-
-(6) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja az (1) bekezdésben foglaltak megsértését, a kiszabott fogyasztóvédelmi bírság megfizetésére a közös képviselő vagy az intézőbizottság köteles, a társasházat helytállási kötelezettség nem terheli. A bírság megfizetéséért az intézőbizottság tagjainak felelőssége egyetemleges.
-
-(7) Rezsicsökkentés alatt a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 9. §-ában foglaltakat kell érteni.”
-
-3. § (1) A Tt. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A számviteli szabályok szerinti könyvvezetés és beszámoló alapján a közös képviselő, illetve az intézőbizottság éves elszámolása tartalmazza:
-
-a) a tervezett és tényleges kiadásokat költségnemenként és a közös költség megosztásának a szervezeti-működési szabályzatban megállapított szabálya szerinti bontásban, ezen belül az üzemeltetési kiadásokat, valamint a karbantartásokat és a felújításokat az elvégzett munkák részletezésében,
-
-b) a tervezett és tényleges bevételeket források szerint, ideértve a közösség javára még nem teljesített – lejárt – követelések részletezését és a behajtás érdekében megtett intézkedéseket is,
-
-c) az a)–b) pont különbségének záróegyenlegét a pénzkészletek kezelési helye szerint részletezve,
-
-d) a közösség tulajdonát képező vagyontárgyak tárgyi-eszköz leltárát,
-
-e) a tárgyévhez tartozó, a közösség egészét terhelő kötelezettségeket,
-
-f) a közös költségekhez való hozzájárulás előírását és teljesítését – a tulajdonostársak nevének feltüntetésével –, a külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek szerinti bontásban, továbbá
-
-g) a rezsicsökkentések eredményeként jelentkező megtakarítások összegét költségnemenként és tulajdonostársanként a közös költség megosztásának a szervezeti működési szabályzatban megállapított szabálya szerinti bontásban.”
-
-(2) A Tt. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az éves elszámolás elfogadása esetén a közgyűlés a közös képviselő vagy az intézőbizottság tárgyévi ügykezelő tevékenységét jóváhagyja. A jóváhagyás nem jelenti az esetleges kártérítési igényről és a fogyasztóvédelmi hatóság 43/A. § (5) bekezdése szerinti eljárásáról való lemondást.”
-
-4. § A Tt. az 1. melléklet szerinti 1. melléklettel egészül ki.
+3–4. §
 
 #### 3. A lakásszövetkezetekről szóló 2004. évi CXV. törvény módosítása
 
-5. § A lakásszövetkezetekről szóló 2004. évi CXV. törvény (a továbbiakban: Lszt.) 23. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az igazgatóság az alapszabályban meghatározott időközönként, de évente legalább egyszer köteles beszámolni a közgyűlésnek
-
-a) a lakásszövetkezet vagyoni, pénzügyi és jövedelmi helyzetéről,
-
-b) az igazgatóság tevékenységéről és
-
-c) a rezsicsökkentések eredményeként jelentkező megtakarítások összegéről költségnemenként a lakásszövetkezet tekintetében, valamint tagonként és nem tag tulajdonosonként a fenntartási költség megosztásának az alapszabály szerinti bontásában.”
-
-6. § Az Lszt. „Az igazgatóság” alcíme a következő 24/B. §-sal egészül ki:
-
-„24/B. § (1) Az igazgatóság a rezsicsökkentések végrehajtásához kapcsolódóan – többletdíjazás felszámítása nélkül – tájékoztatja a tagokat és nem tag tulajdonosokat
-
-a) minden hónap 15. napjáig, legalább 45 nap időtartamra kifüggesztve – a 1. mellékletben meghatározott formában és tartalommal – írásban, figyelemfelkeltő és a fogyasztók által jól látható módon elhelyezett hirdetmény útján a lakásszövetkezet tulajdonában álló épületrészeket érintő, valamint a tagok és nem tag tulajdonosok tulajdonában álló lakásokon és nem lakás céljára szolgáló helyiségeken belül nem mérhető közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentések eredményeként a lakásszövetkezetek tekintetében jelentkező megtakarításokról költségnemenkénti bontásban,
-
-b) minden év február 15. napjáig, írásban, a lakásszövetkezet tulajdonában álló épületrészeket érintő, valamint a tagok és nem tag tulajdonosok tulajdonában álló lakásokon és nem lakás céljára szolgáló helyiségeken belül nem mérhető közüzemi szolgáltatások díjai vonatkozásában a rezsicsökkentés egyes közszolgáltatási területeken történt bevezetése óta, az annak eredményeként a tag és a nem tag tulajdonos lakása és nem lakás céljára szolgáló helyisége tekintetében jelentkező megtakarításainak összegéről költségnem szerinti bontásban és évenként összesítve, és
-
-c) a 23. § (3) bekezdés c) pontjában foglaltakról.
-
-(2) Ha valamely közüzemi szolgáltató az adott hónapban nem állít ki a lakásszövetkezet számára számlát, úgy az (1) bekezdés a) pontja szerinti tájékoztatásban e költségnem tekintetében elegendő erre a tényre utalni.
-
-(3) Ha a lakásszövetkezet valamely közüzemi szolgáltatás tekintetében nem részesült a rezsicsökkentésből eredő megtakarításban, akkor az igazgatóság köteles ennek indokát a tájékoztatásban érthető és világos módon szerepeltetni. Ha a lakásszövetkezet a villamos energiát vagy a földgázt nem egyetemes szolgáltatás keretében vételezi, akkor a tájékoztatásban azt kell feltüntetni, hogy ezen okból az említett területen a lakásszövetkezet nem jogosult a rezsicsökkentésre.
-
-(4) Az (1)–(3) bekezdés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) alkalmazásában fogyasztóvédelmi rendelkezés.
-
-(5) A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni, azzal, hogy az igazgatóság tagja az Fgytv. alkalmazásában vállalkozásnak minősül akkor is, ha természetes személy vagy önálló foglalkozásán vagy gazdasági tevékenységi körén kívül eső célból jár el.
-
-(6) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja az (1) bekezdésben foglaltak megsértését, a kiszabott fogyasztóvédelmi bírság megfizetésére az igazgatóság tagjai egyetemlegesen kötelesek, a lakásszövetkezetet helytállási kötelezettség nem terheli.
-
-(7) Rezsicsökkentés alatt a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 9. §-ában foglaltakat kell érteni.”
-
-7. § A Lszt. a 2. melléklet szerinti 1. melléklettel egészül ki.
+5–7. §
 
 #### 4. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-8. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 42. pontja helyébe a következő rendelkezés lép:
-
-„42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet; ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;”
+8. §
 
 #### 5. A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény módosítása
 
-9. § A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 10/A. § helyébe a következő rendelkezés lép:
-
-„10/A. § A természetes személy tulajdonában lévő, lakhatás célját szolgáló ingatlanok és természetes személy tulajdonában lévő, időlegesen használt ingatlanok, valamint a társasház esetében közös tulajdonban, továbbá lakásszövetkezet tulajdonában lévő ingatlanrészek esetében a közszolgáltatás díját úgy kell megállapítani, hogy az alacsonyabb legyen a 2012. december 31-én alkalmazott közszolgáltatási díj 90%-ánál és a 2013. június 30-án alkalmazott közszolgáltatási díj 90%-ánál.”
+9. §
 
 #### 6. A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény módosítása
 
-10. § (1) A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény (a továbbiakban: Rezsitv.) 1. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített földgáz egyetemes szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásában terhelte.”
-
-(2) A Rezsitv. 4. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített víziközmű-szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásban terhelte.”
-
-11. § A Rezsitv. a következő 9. §-sal egészül ki:
-
-„9. § Rezsicsökkentés alatt a közszolgáltatások végfogyasztói árainak jogszabályok alapján megvalósuló csökkenését kell érteni.”
+10–11. §
 
 #### 7. Az egyes törvények fogyasztóvédelmi célú módosításáról szóló 2013. évi CLXXXIII. törvény módosítása
 
@@ -210,17 +122,7 @@ e) a vállalkozás válaszirat küldésére vonatkozó – békéltető testüle
 
 „f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].””
 
-(4) Az egyes törvények fogyasztóvédelmi célú módosításáról szóló 2013. évi CLXXXIII. törvény 24.§-a helyébe a következő rendelkezés lép:
-
-„24. § (1) Ez a törvény a (2)–(5) bekezdésben foglalt kivétellel – a kihirdetését követő ötödik napon lép hatályba.
-
-(2) A 21. § 2013. november 22-én lép hatályba.
-
-(3) A 2. §, a 14. § (1) bekezdése, a 15. §, a 16. § (2) és (4) bekezdése, valamint a 26. § 2014. január 1-jén lép hatályba.
-
-(4) 3. § az 5-9. §, a 10. § (2) bekezdése, a 11–12. § a 14. § (2) bekezdése, a 16. § (1) és (3) bekezdése, a 17–19. §, a 22. § (1) bekezdés c) pontja és (3) bekezdése, valamint a 23. § (6) bekezdése az e törvény kihirdetését követő hatvanadik napon lép hatályba.
-
-(5) A 4. § 2014. február 1-jén lép hatályba.”
+(4)
 
 8. Az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény módosítása
 
@@ -242,39 +144,9 @@ f) kéményseprő-ipari közszolgáltatás esetén #FFFF00 kódszámú (pantone 
 
 színárnyalatot kell használni.”
 
-(2) A Számlaképtv. 8. §-a az alábbi (8) bekezdéssel egészül ki:
+(2)
 
-„(8) Az 1–12. melléklet első oldalán a címzés feltüntetésének keretezése nem kötelező formai eleme a számlaképnek.”
-
-14. § (1) A Számlaképtv. 2. melléklete e törvény 3. melléklete szerint módosul.
-
-(2) A Számlaképtv. 3. melléklete e törvény 4. melléklete szerint módosul.
-
-(3) A Számlaképtv. 4. melléklete e törvény 5. melléklete szerint módosul.
-
-(4) A Számlaképtv. 5. melléklete e törvény 6. melléklete szerint módosul.
-
-(5) A Számlaképtv. 6. melléklete e törvény 7. melléklete szerint módosul.
-
-(6) A Számlaképtv. 7. melléklete e törvény 8. melléklete szerint módosul.
-
-(7) A Számlaképtv. 8. melléklete e törvény 9. melléklete szerint módosul.
-
-(8) A Számlaképtv. 9. melléklete e törvény 10. melléklete szerint módosul.
-
-(9) A Számlaképtv. 10. melléklete e törvény 11. melléklete szerint módosul.
-
-(10) A Számlaképtv. 8. § (1) bekezdésében a „betűtípussal köteles” szövegrész helyébe a „betűtípussal, a címzést Arial betűtípussal köteles” szöveg lép.
-
-(11) A Számlaképtv. 1. mellékletének „Tájékoztató adatok.” részében a „** A rezsicsökkentés a fogyasztókat a bruttó számlaérték alapulvételével illeti meg” szöveg helyébe a „** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza” szöveg lép.
-
-(12) A Számlaképtv. 11. mellékletének „Számlarészletező” része a „Mérőállás” oszlop előtt egy „Elszámolt időszak” oszloppal egészül ki.
-
-(13) A Számlaképtv. 11. mellékletének „Tájékoztató adatok.” részében a „** A rezsicsökkentés a fogyasztókat a bruttó számlaérték alapulvételével illeti meg” szöveg helyébe a „** A rezsicsökkentés a fogyasztókat a 2012. április 14. napján alkalmazott díj figyelembevételével meghatározott bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza” szöveg lép.”
-
-(14) A Számlaképtv. 1. melléklet 4. pont 4.11. alpontjában a „díjak” szövegrész helyébe a „díjak vagy díjelemek” szöveg, a „díjakat” szövegrész helyébe a „díjakat, díjelemeket” szöveg, a „feltüntetni. ” szövegrész helyébe a „feltüntetni a díjelemek megnevezésével.” szöveg lép.
-
-(15) A Számlaképtv. 2. melléklet 4. pont 4.10. alpontjában a „tarifák” szövegrész helyébe a „díjak vagy díjelemek” szöveg, a „díjakat” szövegrész helyébe a „díjakat, díjelemeket” szöveg, a „feltüntetni. ” szövegrész helyébe a „feltüntetni a díjelemek megnevezésével.” szöveg lép.
+14. §
 
 #### 9. Záró rendelkezések
 

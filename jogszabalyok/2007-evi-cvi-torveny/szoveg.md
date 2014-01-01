@@ -56,6 +56,8 @@ gyakorolja.
 
 (4) Az állami vagyon feletti – a 3. § (1)–(2) bekezdése szerinti – tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
+(5) A 3. § (1) bekezdés a) pontjában és a 3. § (1b) bekezdésében meghatározott tulajdonosi joggyakorlók a rábízott vagyon körében a miniszter jóváhagyásával köthetnek olyan megállapodást, melynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben résztvevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
+
 4. § A miniszter az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj mértékét rendeletben állapítja meg.
 
 5. § (1) Közérdekből nyilvános minden, az állami vagyonnal való gazdálkodásra és az azzal való rendelkezésre vonatkozó, közérdekű adatnak nem minősülő adat. Külön törvény az adat megismerhetőségét korlátozhatja.
@@ -126,7 +128,8 @@ gyakorolja.
 - m) az MNV Zrt. üzleti tervének, a számviteli törvény szerinti beszámolójának, valamint a rábízott vagyonról szóló éves beszámolójának és vagyonkezelési tervének elkészítése,
 - n) a felügyelő bizottság részére beszámoló készítése,
 - o) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapításával kapcsolatos döntés 100 millió forint értékhatár felett,
-- p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató feletti munkáltatói jogok gyakorlása.
+- p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató feletti munkáltatói jogok gyakorlása,
+- q) döntés állami tulajdonú társasági részesedések esetén az Nvtv. 8. § (7) bekezdése szerint a tulajdonosi jogok egészének vagy meghatározott részének gyakorlására vonatkozóan megbízási szerződés megkötéséről, amennyiben a gazdasági társaság saját tőkéjén belül az állami részesedés mértéke eléri vagy meghaladja a 200 millió forintot.
 
 (5) Az Igazgatóság a (4) bekezdés alapján a hatáskörébe nem tartozó bármely ügyet magához vonhat. A (4) bekezdésben meghatározott döntési hatáskörök jogosultjának megállapításához az értéket (ügyletértéket) vagyonelemenként kell figyelembe venni azzal, hogy amennyiben a döntés több vagyonelem együttes értékesítésére, hasznosítására irányul a döntési hatáskört a vagyonelemek, illetve az azokhoz kapcsolódó ügyletek együttes értéke alapján kell meghatározni.
 
@@ -281,15 +284,15 @@ gyakorolja.
 
 (4) Állami vagyon hasznosítását biztosító szerződés megkötésére kiírt pályázati eljárás eredményeként a szerződés a pályázati kiírástól, valamint a nyertes pályázattól eltérő tartalommal nem köthető meg.
 
-24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
+24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés – a (2) bekezdésében foglalt kivételeken kívül – nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
 
-(2) Mellőzhető a versenyeztetés, ha:
+(2) Mellőzhető a versenyeztetés:
 
-- a) a szerződő partner államháztartási körbe tartozó szervezet, legalább többségi állami részesedéssel működő gazdálkodó szervezet, vagy jogszabályban előírt állami, önkormányzati feladatot ellátó más gazdálkodó szervezet,
-- b) nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ingatlan esetében a versenyeztetés alkalmazását kizárja,
-- c) jogszabály rendelkezései vagy a használat átengedésének egyéb körülményei a lehetséges hasznosító személyének megválasztását olyan jelentős módon vagy mértékben korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatók,
-- d) a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg,
-- e) társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
+- a) nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (17) bekezdésében foglalt esetekben, továbbá
+- b) ha nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ingatlan esetében a versenyeztetés alkalmazását kizárja,
+- c) ha jogszabály rendelkezései vagy a használat átengedésének egyéb körülményei a lehetséges hasznosító személyének megválasztását olyan jelentős módon vagy mértékben korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatók,
+- d) ha a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg,
+- e) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
 
 (3) Zártkörű pályázat kiírására különösen akkor kerülhet sor, ha a vagyontárgy nyilvános pályáztatásának reális, tervezett költségei jelentősen csökkentenék a hasznosításból éves szinten elérhető bevételt, vagy ha a korábbi nyilvános pályázat eredménytelenül zárult és ezen eljárással is biztosítható az állami vagyon gazdaságos – a 23. § (3) bekezdésében foglaltaknak megfelelő – hasznosítása.
 
@@ -331,7 +334,11 @@ gyakorolja.
 
 27. § (1) Az állami vagyonra vonatkozóan az a tulajdonosi joggyakorló kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.
 
-(2) A vagyonkezelő köteles a vagyontárgy állagának megóvásáról, jó karbantartásáról, működtetéséről gondoskodni, továbbá – a központi költségvetési szervek kivételével – díjat fizetni, jogszabályban és szerződésben előírt más kötelezettségét teljesíteni, valamint a vagyontárgyat jogszabályban vagy szerződésben meghatározott célnak megfelelően használni. Amennyiben a vagyonkezelő ezen kötelezettségének nem tesz eleget, a tulajdonosi joggyakorló jogosult a szerződést azonnali hatállyal felmondani.
+(2) A vagyonkezelő köteles a vagyontárgy állagának megóvásáról, jó karbantartásáról, működtetéséről gondoskodni, jogszabályban és szerződésben előírt más kötelezettségét teljesíteni, valamint a vagyontárgyat jogszabályban vagy szerződésben meghatározott célnak megfelelően használni.
+
+(2a) A vagyonkezelő – a központi költségvetési szervek és a kizárólag közfeladatot ellátó nem központi költségvetési szerv vagyonkezelők kivételével – köteles díjat fizetni, jogszabályban és szerződésben előírt más kötelezettségét teljesíteni, valamint a vagyontárgyat jogszabályban vagy szerződésben meghatározott célnak megfelelően használni. Amennyiben a vagyonkezelő ezen kötelezettségeinek nem tesz eleget, a tulajdonosi joggyakorló jogosult a szerződést azonnali hatállyal felmondani.
+
+(2b) A központi költségvetési szervnek nem minősülő, közfeladatot is ellátó vagyonkezelőt a vagyonkezelési szerződés a vagyonkezelési díjfizetési kötelezettség alól mentesítheti.
 
 (3) A vagyonkezelési szerződés valamely, az államot megillető jog gyakorlásának átengedésére is irányulhat, ilyen esetben a dolgok vagyonkezelésének szabályait kell megfelelően alkalmazni.
 
@@ -341,11 +348,11 @@ gyakorolja.
 
 (6) A vagyonkezelő a vagyonkezelt eszközökkel kapcsolatban köteles a tulajdonosi joggyakorlóval egyeztetett számviteli politikájában meghatározott módon értékcsökkenést elszámolni.
 
-(7) A vagyonkezelő – a központi költségvetési szervek kivételével – a vagyonkezelt eszközök értékének megőrzéséről legalább a vagyonkezelt eszközök elszámolt értékcsökkenésének megfelelő mértékben köteles gondoskodni (visszapótlási kötelezettség), valamint e célra az értékcsökkenésnek megfelelő mértékben céltartalékot képezni.
+(7) A vagyonkezelő – a központi költségvetési szervek kivételével – a vagyonkezelt eszközök értékének megőrzéséről legalább a vagyonkezelt eszközök elszámolt értékcsökkenésének megfelelő mértékben köteles gondoskodni (visszapótlási kötelezettség).
 
 (8) Az alapfeladatként vagy főtevékenységként közfeladatot ellátó vagyonkezelő a visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
 
-(9) A visszapótlási kötelezettség módját és mértékét, a visszapótlási kötelezettség alóli (8) bekezdés szerinti felmentés tényét, a céltartalék képzésének és felhasználásának rendjét, részletes tartalmát a vagyonkezelési szerződésben kell rögzíteni.
+(9) A visszapótlási kötelezettség módját és mértékét vagy a visszapótlási kötelezettség alóli (8) bekezdés szerinti mentesülés tényét a vagyonkezelési szerződésben kell rögzíteni.
 
 ### Központi költségvetési szervek vagyongazdálkodására vonatkozó szabályok
 

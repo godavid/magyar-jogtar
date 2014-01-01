@@ -584,7 +584,8 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - c) a 47. § (2) bekezdés e)–f) pontjában meghatározott tényekben bekövetkezett változásoknak a védjegylajstromban való feltüntetésére irányuló kérelmet,
 - d) a gyorsított eljárás [64/A. § (1)–(6) bek.] és a különleges gyorsított eljárás [64/A. § (7)–(8) bek.] kezdeményezésére irányuló kérelmet,
 - e) a lajstromkivonat igénylésére vonatkozó kérelmet, és
-- f) az iratbetekintésre vonatkozó kérelmet.
+- f) az iratbetekintésre vonatkozó kérelmet,
+- g) a nemzetközi védjegybejelentést, az annak továbbítására irányuló kérelmet, valamint a nemzetközi lajstromozásból eredő oltalommal kapcsolatos kérelmek továbbítására irányuló kérelmet.
 
 (3) Ha az ügyfél a (2) bekezdés b)–f) pontja alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
 

@@ -44,7 +44,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 34. területi egység: a társulat működési területének az a földrajzilag meghatározható része, amelyről a terület érdekeltjei, a társulat tagjai küldöttjelölteket, küldötteket választanak;
 - 35. területi vízgazdálkodás: a helyi jelentőségű közcélú vízgazdálkodási feladatok a káros többlet vizek és a vízhiányok okozta károk megelőzése, elhárítása érdekében;
 - 36. törvényességi felügyeletet gyakorló szerv: a területileg illetékes cégbíróság;
-- 37. vízitársulati jegyzett tőke: a vízitársulatok saját vagyona;
+- 37.
 - 38. közgyűlés: a társulati tagok összessége.
 
 ### A társulat fogalma
@@ -464,9 +464,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 ### A társulat gazdálkodása, vagyona
 
-41. § (1) A társulat az állam és az érintett települési önkormányzat költségvetési hozzájárulásából, önkéntes támogatásokból, továbbá a vállalkozásból származó eredményéből végzi közcélú tevékenységét. A társulat közfeladataihoz történő állami vagy önkormányzati hozzájárulás mértékéről, folyósításának feltételeiről a vagyonkezelői, üzemeltetői, illetve használati szerződésben kell rendelkezni. Az állami tulajdonú társulati művek üzemeltetéséhez, fenntartásához az állam normatív támogatást biztosít, amelynek felső határa a tárgyévre megállapított közcélú érdekeltségi hozzájárulás hektárra megállapított összege és a társulat hektárban kifejezett működési területe szorzatának fele.
-
-(2) A normatív támogatás, a szerződésen alapuló állami és önkormányzati hozzájárulás, valamint az önkéntes támogatás a társulat tulajdonába kerül.
+41. § A társulat az érintett települési önkormányzat költségvetési hozzájárulásából, önkéntes támogatásokból és a vállalkozásból származó eredményéből végzi tevékenységét. A társulat közfeladataihoz történő önkormányzati hozzájárulás mértékéről, folyósításának feltételeiről az üzemeltetési szerződésben kell rendelkezni.
 
 42. § (1) A társulat közfeladata ellátásához szükséges elkülönített vagyona és a vállalkozásaiból származó nyeresége a tagok között nem osztható fel.
 
@@ -480,7 +478,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 44. § A társulat a vállalkozási tevékenységből származó adózás előtti eredményét közfeladatai ellátására fordíthatja.
 
-45. § A társulati művek körébe tartozó állami, önkormányzati és egyéb tulajdonú vizekre és vízilétesítményekre használati (üzemeltetői) szerződést köt a tulajdonossal.
+45. § A települési önkormányzati és a magántulajdonba tartozó társulati művekre a tulajdonos köthet a vízitársulattal – versenyeztetés nélkül – üzemeltetési szerződést.
 
 46. § A társulat a tagjainál vagy harmadik személynél bekövetkezett vízkárokért csak akkor felel, ha a társulati és a közfeladatok elvégzéséhez bármely jogcímen kapott hozzájárulást nem a küldöttgyűlés döntései szerint használja fel.
 
@@ -602,13 +600,11 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 ### Átmeneti rendelkezések
 
-62. § (1) E törvény hatálybalépésekor már működő, bejegyzett társulatok 2010. december 31-ig kötelesek
+62. §
 
-- a) alapszabályukban a szükséges változásokat átvezetni, és a cégbírósághoz benyújtani;
-- b) e törvény előírásai szerinti szervezeti változásokról gondoskodni, a küldötteket a 17. § (1) bekezdés értelemszerű alkalmazásával a területi egységekben megválasztani;
-- c) a társulati művek körébe tartozó állami tulajdonú vizekre és vízilétesítményekre a 41. § (1) bekezdésében meghatározott hozzájárulást is tartalmazó vagyonkezelői, üzemeltetői, az önkormányzati és egyéb tulajdonú vizekre és vízilétesítményekre használati (üzemeltetési) szerződést kötni.
+62/A. § (1) Az állami tulajdonnak minősülő, az 1992. január 1-jei rendező mérleg és rendező eredménykimutatás készítéséről szóló miniszteri rendelet alapján a vízitársulat jegyzett tőkéjébe átsorolt közcélú vizek és vízilétesítmények könyv szerinti értékét 2014. december 31-ig a vízitársulati jegyzett tőkéből ellentételezés nélkül, adó-, járulék- és illetékmentesen ki kell vonni, és a közcélú vizek és vízilétesítmények könyv szerinti értékével a jegyzett tőkét le kell szállítani.
 
-(2) Az (1) bekezdésben előírt határidőt elmulasztó társulat vezetőjével szemben a cégbíróság a hatályos jogi szabályozás szerint jár el.
+(2) Ha az európai uniós támogatással megvalósuló vízgazdálkodási beruházás kedvezményezettje a vízitársulat, az eddigi kedvezményezett helyébe a forgalomképes állami tulajdonban lévő vizeket és vízilétesítményeket érintő beruházásoknál a vízügyi igazgatási szerv lép.
 
 ### Hatálybalépés
 

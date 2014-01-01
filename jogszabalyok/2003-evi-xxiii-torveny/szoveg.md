@@ -23,7 +23,7 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 - c) biztosíték: a rendszerrel kapcsolatban felmerülő jogok gyakorlásának és kötelezettségek teljesítésének biztosítására szolgáló jogügyletek, így különösen a Polgári Törvénykönyvről szóló törvény szerinti óvadék – ideértve az Európai Parlament és Tanács 2002/47/EK irányelv 1. cikk (4) bekezdés a) pontját átültető EGT-állam jogszabályai szerinti pénzügyi biztosítékot is –, valamint az EGT-állam központi bankja, illetve az Európai Központi Bank által biztosítékként elfogadott eszközök;
 - d) fizetést korlátozó eljárás:
   - da) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése,
-  - db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 153. § (2) bekezdés c) pont 6. alpontja, a Hpt. 176/B. § (5) bekezdése, a Hpt. 181. § (2) bekezdése szerinti felügyeleti intézkedés,
+  - db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 185. § (2) bekezdés c) pont cf) alpontja, a Hpt. 48. § (5) bekezdése, a Hpt. 55. § (2) bekezdése szerinti felügyeleti intézkedés,
   - dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 128. § (1) bekezdése, a Bszt. 164. § (1) bekezdés h) és n) pontjai szerinti felügyeleti intézkedés, a Bszt. 135. § (1) bekezdése szerinti kifizetési tilalom,
   - dd) a tőkepiacról szóló 2001. évi CXX. törvény 400. § (1) bekezdés h) és j) pontjai, valamint a (4) bekezdése szerinti felügyeleti intézkedés,
 
@@ -31,9 +31,9 @@ amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bek
 
 - e) harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 - f) intézmény:
-  - fa) a Hpt. szerinti hitelintézet, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény, a Bszt. szerinti befektetési vállalkozás, a Posta Elszámoló Központot működtető intézmény, a kincstár, az Államadósság Kezelő Központ, a Magyar Nemzeti Bank, vagy
+  - fa) a Hpt. szerinti hitelintézet, az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény, a Bszt. szerinti befektetési vállalkozás, árutőzsdei szolgáltató, a Posta Elszámoló Központot működtető intézmény, a kincstár, az Államadósság Kezelő Központ, a Magyar Nemzeti Bank, vagy
   - fb) más tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás és mindazon intézmény, amely más tagállamban rendszer résztvevője lehet, vagy
-  - fc) olyan harmadik országbeli hitelintézet, amely megfelel a Hpt. 2. számú melléklete III. fejezetének 44. pontjában foglaltaknak, vagy olyan harmadik országbeli befektetési vállalkozás, amely megfelel a Bszt. 4. §-a (2) bekezdésének 39. pontjában foglaltaknak,
+  - fc) olyan harmadik országbeli hitelintézet, amely megfelel a Hpt. 6. § (1) bekezdésben foglaltaknak, vagy olyan harmadik országbeli befektetési vállalkozás, amely megfelel a Bszt. 4. §-a (2) bekezdésének 39. pontjában foglaltaknak,
   - fd) az Európai Unió tagállamának központi bankja, az Európai Központi Bank, amely valamely rendszer résztvevője, és amelynek a rendszerben továbbított transzfer megbízásokból adódó fizetési kötelezettségeket teljesítenie kell;
 - g) központi szerződő fél: az a szervezet, amely a rendszer intézményeinek transzfer megbízásai tekintetében – a jogviszonyba belépve – mindannyiukkal szemben kizárólagos szerződő félként jár el;
 - h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljesítő fél, elszámoló fél vagy rendszerüzemeltető, amely a transzfer megbízásokat teljesítő rendszer valamely résztvevőjével szerződéses kapcsolatban áll abból a célból, hogy transzfer megbízásait e résztvevő bonyolítsa le számára a rendszeren keresztül, feltéve, hogy a közvetett résztvevő a rendszerüzemeltető számára ismert;
@@ -145,7 +145,7 @@ bíróság vagy az intézkedésre jogosult hatóság általi közlésének időp
 - c) a megállapodás tartalmazza a 3. § (1) bekezdésében foglaltakat,
 - d) a megállapodásban elszámoló félként rögzített résztvevő rendelkezik:
   - da) a Tpt. 334. §-ában meghatározott elszámolóházi tevékenység végzése esetén a Tpt. 338. § (1) bekezdése szerinti tevékenységi engedéllyel, vagy
-  - db) a Hpt. 3. § (2) bekezdés b) pontja szerinti kiegészítő pénzügyi tevékenység (elszámolásforgalom lebonyolítása) végzése esetén a Magyar Nemzeti Banknak a Hpt. 3. § (6) bekezdésében előírt tevékenységi engedélyével, vagy
+  - db) a Hpt. 3. § (2) bekezdés b) pontja szerinti kiegészítő pénzügyi tevékenység (fizetési rendszer működtetése) végzése esetén a Hpt. 3. § (3) bekezdésében előírt tevékenységi engedéllyel, vagy
   - dc) az Európai Unió más tagállama felügyeleti hatósága által kiadott elszámolóházi tevékenység végzésére jogosító engedéllyel,
 - e) ha a rendszer résztvevői között külföldi székhelyű van:
   - ea) a külföldi székhelyű résztvevő az adott ország jogszabályainak megfelelően alapított és bejegyzett, a rendszerben való részvételből eredő jogok gyakorlására és kötelezettségek teljesítésére képes gazdasági társaság,

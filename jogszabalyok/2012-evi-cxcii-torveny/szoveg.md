@@ -177,7 +177,41 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 30. §
 
-#### 31–34. §
+31. § A Gyvt. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A gyermeknek joga van – örökbefogadó családban vagy más, családot pótló ellátás formájában – a szülői vagy más hozzátartozói gondoskodást helyettesítő védelemhez. A tizenkét év alatti gyermek átmeneti gondozását és otthont nyújtó ellátását befogadó szülőnél kell biztosítani, kivéve, ha a gyermek tartósan beteg, súlyosan fogyatékos, a testvéreket nem lehet együttesen a befogadó szülőnél elhelyezni vagy más okból szükséges az intézményes elhelyezés biztosítása, továbbá gyermekek átmeneti gondozása esetén az intézményes elhelyezést a szülő, törvényes képviselő kéri és az nem ellentétes a gyermek érdekével.”
+
+32. § A Gyvt. 9. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az átmeneti vagy tartós nevelésbe vett gyermek joga különösen, hogy életkorához, egészségi állapotához, fejlettségéhez, valamint egyéb szükségleteihez igazodóan)
+
+„a) állandóságot, érzelmi biztonságot nyújtó teljes körű ellátásban, gondozásban, – nemzetiségi, etnikai és vallási hovatartozását figyelembe vevő – megfelelő nevelésben, oktatásban és érdekei érvényesítésére megfelelő törvényes képviseletben részesüljön,”
+
+33. § A Gyvt. 11. §-a helyébe a következő rendelkezés lép:
+
+„11. § (1) A gyermeki jogok védelme minden olyan természetes és jogi személy kötelessége, aki a gyermek nevelésével, oktatásával, ellátásával, törvényes képviseletének biztosításával, ügyeinek intézésével foglalkozik.
+
+(2) A gyermekvédelmi gyám a gyámhatóság kirendelő határozata alapján
+
+a) képviseli a gyermek érdekét, elősegíti jogainak gyakorlását,
+
+b) megismeri a gyermek véleményét és közvetíti azt az ellátást nyújtó szolgáltató, intézmény, illetve a gyermek ügyeivel foglalkozó hatóságok felé,
+
+c) ellátja a gyermek törvényes képviseletét, és
+
+d) jogszabályban meghatározott ügyekben eljárást kezdeményez.”
+
+34. § (1) A Gyvt. 13. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az átmeneti nevelésbe vett gyermek szülője jogosult arra, hogy)
+
+„a) a gyermeke gondozójától, gyermekvédelmi gyámjától a gyermeke elhelyezéséről, neveléséről, fejlődéséről rendszeres tájékoztatást, a kapcsolattartáshoz segítséget kapjon,”
+
+(2) A Gyvt. 13. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az átmeneti nevelésbe vett gyermek szülője jogosult és köteles)
+
+„a) a gyermeke gondozását ellátó személyekkel, intézményekkel, a gyermekvédelmi gyámmal – a nevelés érdekében – együttműködni,”
 
 #### 35. §
 
@@ -185,15 +219,127 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 37–38. §
 
-#### 39–45. §
+39. § A Gyvt. 45. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A gyermekek átmeneti gondozásának helyén a gyermek otthontalanná vált szülője is elhelyezhető. A tizennegyedik életévét be nem töltött gyermeket szüleitől elválasztani csak kivételesen indokolt esetben lehet. A tizenkettedik életévét be nem töltött gyermek átmeneti gondozását – a 7. § (2) bekezdésében foglalt kivételekkel – elsősorban helyettes szülőnél kell biztosítani. A szülő gyermeke ellátásában munkarendjéhez igazodóan részt vesz.”
+
+#### 40. §
+
+41. § A Gyvt. 49. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A helyettes szülő egyidejűleg – saját gyermekeit is beszámítva – legfeljebb négy gyermek gondozását végezheti. A működtető gyermekgondozó alkalmazásával vagy megbízásával segíti a helyettes szülő munkáját, ha
+
+a) a helyettes szülőnél elhelyezett gyermek rendszeres gyermekpszichiátriai kezelés alatt áll,
+
+b) a helyettes szülő gondozásában kettőnél több három éven aluli gyermek van,
+
+c) a helyettes szülő szabadságon van, beteg vagy feladatai ellátásában egyéb okból akadályozott.”
+
+42. § A Gyvt. 50. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A gyermekek átmeneti otthonában az a családban élő, tizenkettedik életévét betöltött vagy tizenkettedik életévét be nem töltött, nem helyettes szülőnél elhelyezett gyermek helyezhető el, aki átmenetileg ellátás és felügyelet nélkül marad, vagy elhelyezés hiányában ezek nélkül maradna, valamint akinek ellátása a család életvezetési nehézségei miatt veszélyeztetett.”
+
+43. § A Gyvt. 53. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Otthont nyújtó ellátást biztosít
+
+a) a nevelőszülő a működtető közreműködésével, vagy – ha ez nem lehetséges –
+
+b) a gyermekotthon, vagy
+
+c) az Szt. hatálya alá tartozó fogyatékosokat ápoló-gondozó bentlakásos intézmény, illetve fogyatékosok vagy pszichiátriai betegek lakóotthona (a továbbiakban: fogyatékosok vagy pszichiátriai betegek otthona)
+
+a területi gyermekvédelmi szakszolgálat támogatásával, különösen családgondozással, a gyermekvédelmi gyámság ellátásával.”
+
+#### 44–45. §
 
 #### 46. §
 
-#### 47–64. §
+#### 47. §
+
+48. § A Gyvt. 63. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A gyermekvédelmi szakszolgáltatás a gyermekvédelmi gyámság alatt álló gyermek gyámjával (gyermekvédelmi gyámjával), gondozási helyével együttműködve, a gyermek gondozójának egyéni program szerinti gondozási, nevelési tevékenysége segítése érdekében
+
+a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározottak szerint elkészíti a gyermek egyéni gondozási-nevelési tervét,
+
+b) jelzi a gyámhatóságnak, ha a gyermekvédelmi gyám vagy az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő gyámi tisztségéből való felmentése vagy felfüggesztése indokolt,
+
+c) szervezi az elhelyezési terv végrehajtását, és ennek érdekében – a gyermekjóléti szolgálattal együttműködve – elősegíti a vér szerinti család és a gyermek közötti kapcsolat helyreállítását, fenntartását.”
+
+#### 49. §
+
+50. § A Gyvt. 66. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A területi gyermekvédelmi szakszolgálat szolgáltatási, szervezési, tanácsadói és gondozási feladatokat végez. Tevékenysége körében a 60–65. §-okban foglaltakon túl)
+
+„a) gyermekvédelmi gyámi, eseti gondnoki hálózatot működtet,”
+
+#### 51–53. §
+
+#### 54–56. §
+
+57. § A Gyvt. 81/C. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A bírósági eljárásban a gyermeket a gyermekjogi képviselő képviseli. A gyermek képviseletére a gyámhatóság döntése alapján a gyermekvédelmi gyám is jogosult.”
+
+#### 58–59. §
+
+60. § A Gyvt. XII. Fejezet címe helyébe a következő cím lép:
+
+„A GYERMEKVÉDELMI GONDOSKODÁS ALATT ÁLLÓ GYERMEK GYÁMSÁGA”
+
+#### 61–62. §
+
+63. § A Gyvt. 87. §-a helyébe a következő rendelkezés lép:
+
+„87. § (1) A gyermekvédelmi gyám joga és kötelessége, hogy a gyermeket személyi és vagyoni ügyeiben képviselje. Ennek érdekében a gyermekvédelmi gyám különösen
+
+a) eljár a gyermek személyes okmányainak beszerzése érdekében, kéri a gyermek közgyógyellátásra való jogosultságának megállapítását és a gyermek tartózkodási engedélyének meghosszabbítását,
+
+b) törvényes képviselőként nyilatkozatot tesz a gyermeken végzendő egészségügyi beavatkozásokhoz,
+
+c) eljár a gyermek iskolai beíratása, tanulói jogviszonyának, magántanulói jogállásának létesítése, megszüntetése ügyében,
+
+d) kérelmezi a gyámhatóságnál a gyermek és szülei kapcsolattartásának szabályozását, módosítását, a gyermek örökbefogadhatóvá nyilvánítását, a gondozási hely megváltoztatását, a gondokság alá helyezés iránt eljárás megindítását, a nevelésbe vétel megszüntetését, ha azok feltételei fennállnak,
+
+e) a gyermek örökbefogadásának előkészítése során a gyermekvédelmi szakszolgálattal együttműködve – a szülő-gyermek kapcsolat kialakulása érdekében – a kötelező gondozásba kihelyezést megelőzően engedélyezheti, hogy a gyermek az örökbe fogadni szándékozó szülőnél tartózkodjon, amelyről egyidejűleg értesíti a gyámhatóságot,
+
+f) képviseli a gyermeket a hatósági ügyeiben,
+
+g) szükség esetén kérelmezi a gyermek tanulási képességét érintő vizsgálatát.
+
+(2) A gyermekvédelmi gyám nem adhat hozzájáruló nyilatkozatot a gyermek örökbefogadásához. A gyermekvédelmi gyám jognyilatkozatainak érvényességéhez a gyámhatóság jóváhagyása szükséges, ha a jognyilatkozat a gyermek családi jogállására és az ezzel kapcsolatos perindításra vonatkozik.
+
+(3) A gyermekvédelmi gyám tájékoztatja a gyermeket az otthonteremtési támogatás és az utógondozói ellátás iránti kérelem benyújtásának lehetőségéről és elősegíti a gyermek kérelmének benyújtását.
+
+(4) A gyámhatóság a gyermek képviseletének ellátására eseti gondnokot rendel
+
+a) hivatalból, ha a gyermekvédelmi gyám a gyermek törvényes képviseletét a Csjt. szabályai szerint nem láthatja el,
+
+b) kérelemre, ha a különleges szakértelmet igénylő ügyekben a gyermekvédelmi gyám nem vállalkozik a gyermek képviseletének ellátására.
+
+(5) A gyámhatóság a (4) bekezdés a) pontjában meghatározott esetben elsősorban a területi gyermekvédelmi szakszolgálatnak ezzel a feladattal megbízott munkatársai közül jelöli ki az eseti gondnokot.
+
+(6) A nevelési felügyelettel kapcsolatos eljárásban a gyermek képviselőjeként a gyámhatóság a gyermekjogi képviselőt rendeli ki. Ha a gyermekjogi képviselő kirendelése akadályokba ütközik, a nevelési felügyelettel kapcsolatos eljárásban a gyermeket a gyermekvédelmi gyám képviseli.”
+
+64. § A Gyvt. 88. §-a helyébe a következő rendelkezés lép:
+
+„88. § (1) A gyermekvédelmi gyám joga és kötelessége, hogy feladatkörében védje a gyermek vagyoni érdekeit, gondoskodjon a vagyon megfelelő hasznosításáról, kezeléséről és a rendes vagyonkezelés szabályai szerint intézze a gyermek ügyeit.
+
+(2) A gyermekvédelmi gyám a gyermek vagyonát leltár alapján veszi át.
+
+(3) A gyermekvédelmi gyám eseti, rendes és végszámadást készít a gyámhatóságnak.
+
+(4) A gyermekvédelmi gyám a működése során felmerült kiadásainak megtérítését a gyermektől nem igényelheti.”
 
 #### 65–68. §
 
-#### 69. §
+69. § A Gyvt. 135. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+[A 15. § (1)–(4) bekezdéseiben meghatározott ellátások és intézkedések nyújtása és megtétele, azok ellenőrzése, valamint biztosítása során az e törvényben meghatározott jogok érvényesülésének elősegítése céljából a (2) bekezdésben meghatározott adatok kezelésére az alábbi szervek és személyek jogosultak:]
+
+„d) a befogadó szülő,”
 
 #### 70–72. §
 
@@ -205,15 +351,50 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 75. § (1)
 
-(2)
+(2) Hatályát veszti a Gyvt.
+
+- a) 15. § (7) bekezdés b) pontjában a „ , gyámi tanácsadó” szövegrész,
+- b) 55. § (1) bekezdésében az „a működtető által elkészített” szövegrész,
+- c) 55. § (2) bekezdése,
+- d) 55. § (5) bekezdés b) pontjában a „ , családgondozással” szövegrész,
+- e) 55. § (6) bekezdése,
+- f) 57. § (3) bekezdés c) pontjában az „általa elkészített” szövegrész,
+- g)
+- h) 66/B. § (1) bekezdésében az „a gyámi tanácsadóval,” szövegrész,
+- i)–j)
+- k) 81/B. § (4) bekezdésében az „a gyámi tanácsadót,” szövegrész,
+- l)
+- m) 90–91. §-a és a 90. §-t megelőző alcím.
 
 76. § (1)
 
-(2)
+(2) A Gyvt.
+
+- 1.
+- 2. 15. § (7) bekezdés a) pontjában a „helyettes szülő vagy nevelőszülő” szövegrész helyébe a „befogadó szülő” szöveg,
+- 3.
+- 4. 34. § (1), (2) és (8) bekezdésében a „helyettes szülőnél és a nevelőszülőnél” szövegrész helyébe a „befogadó szülőnél” szöveg,
+- 5. 35. § (4) bekezdésében a „gyermekjogi képviselőnél” szövegrész helyébe a „gyermekvédelmi gyámnál, a gyermekjogi képviselőnél” szöveg,
+- 6. 53. § (2) bekezdésében a „három éven aluli gyermek esetében félévente” szövegrész helyébe a „három éven aluli gyermek esetében félévente, illetve a gyermekvédelmi gyám kérelmére” szöveg,
+- 7–9.
+- 10. 74. § (2) bekezdésében a „gyámjául” szövegrész helyébe a „családbafogadó gyámjául” szöveg,
+- 11. 75. § c) pontjában a „gyámot (hivatásos gyámot)” szövegrész helyébe a „gyermekvédelmi gyámot” szöveg,
+- 12. 75/A. § a) pontjában a „hivatásos gyámot” szövegrész helyébe a „gyermekvédelmi gyámot” szöveg,
+- 13–18.
+- 19. 81/D. §-ában a „gyermekjogi képviselő” szövegrész helyébe a „gyermekjogi képviselő, a gyermekvédelmi gyám” szöveg,
+- 20–21.
+- 22. 135. § (2) bekezdés b) pontjában a „helyettes szülő, nevelőszülő” szövegrész helyébe a „befogadó szülő” szöveg,
+- 23. 141. § (1) bekezdés a) pontjában a „nevelőszülőnél” szövegrész helyébe a „befogadó szülőnél” szöveg,
+- 24. 141. § (1) bekezdés d) pontjában a „hivatásos gyámi” szövegrész helyébe a „gyermekvédelmi gyámi” szöveg
+
+lép.
 
 #### 9. A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény módosítása
 
-#### 77. §
+77. § Hatályát veszti a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény
+
+- a) 98. §-a,
+- b) 107. § (2) bekezdése.
 
 #### 10. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 

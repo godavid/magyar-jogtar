@@ -258,7 +258,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 - a) nemzeti előadó-művészeti szervezet és a kiemelt előadó-művészeti szervezet fenntartója,
 - b) az a) pont szerinti szervezettel közszolgáltatási szerződést kötött önkormányzat, vagy
-- c) ha az előadó-művészeti szervezetnek nincs fenntartója és nem rendelkezik közszolgáltatási szerződéssel, pályázati úton az előadó-művészeti szervezet
+- c) ha az előadó-művészeti szervezetnek nincs fenntartója, nem rendelkezik közszolgáltatási szerződéssel, valamint a 11. § és a 12. § szerinti minősítéssel, pályázati úton az előadó-művészeti szervezet
 
 részére.
 
@@ -391,17 +391,19 @@ részére.
   - ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartóra vagy azzal közszolgáltatási szerződést kötött önkormányzatra,
   - bb) művészeti támogatásának összegét az egyes előadó-művészeti szervezetekre is lebontva határozza meg.
 
-(2) A (3) bekezdésben meghatározott kivétellel a központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
+(2) A (3) és (4) bekezdésben meghatározott kivétellel a központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
 
 - a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
 - b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
 
 (3) A minisztérium költségvetési fejezetében kell biztosítani:
 
-- a) az állam által fenntartott, nyilvántartásba vett és önkormányzattal kötött közszolgálati szerződéssel nem rendelkező színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
-- b) az állammal kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
+- a) a miniszter irányítása, felügyelete vagy tulajdonosi joggyakorlása alá tartozó, nyilvántartásba vett színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok költségvetési támogatását,
+- b) a miniszterrel kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
 - c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
 - d) a kijelölt szerv működéséhez szükséges előirányzatot.
+
+(4) A (3) bekezdés hatálya alá nem tartozó, állami fenntartású, nyilvántartásba vett színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok támogatását az ilyen előadó-művészeti szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló miniszter által vezetett minisztérium költségvetési fejezetében, vagy a szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló központi költségvetési szerv költségvetésében kell biztosítani.
 
 ### V. Fejezet — AZ ELŐADÓ-MŰVÉSZETI MUNKAVÉGZÉS SAJÁTOS SZABÁLYAI
 
@@ -622,7 +624,7 @@ képviselője.
 - 7. előadó-művészeti szervezet: az önálló jogi személyiségű színház, balett- vagy táncegyüttes, szimfonikus zenekar, énekkar, kamara-szimfonikus zenekar, kamarazenekar, amely alaptevékenységeként előadó-művészeti színház-, tánc- vagy zeneművészeti tevékenységet lát el,
 - 8. énekkar: oratórikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet – ideértve a kamarakórust is –, ha létszáma legalább 12 fő,
 - 9. évad: az előadó-művészeti szervezetek tevékenységének a naptári évtől eltérő időegysége, az augusztus 1-jétől július 31-ig terjedő időszak, ide nem értve a szabadtéri színházak tevékenységének időegységét,
-- 10. fenntartó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely az előadó-művészeti szervezet felett felügyeleti vagy tulajdonosi jogokat gyakorol,
+- 10. fenntartó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely az előadó-művészeti szervezet felett irányítási, felügyeleti vagy tulajdonosi jogokat gyakorol,
 - 11. fenntartói támogatás: a fenntartó által nyújtott működési támogatás, amelybe nem számít bele a központi költségvetési támogatás,
 - 12. fizetőnéző-szám: azoknak a magánszemélyeknek száma, akiket az előadó-művészeti szervezet előadás vagy hangverseny megtekintésére az általánosan érvényesített jegyár – bérlet esetében egy előadásra, értékesített előadás vagy hangverseny esetében egy belépőjegyre vetítetten – legalább 50%-os mértékét elérő fogyasztói áron közvetlenül vagy közvetve feljogosított, feltéve, hogy az esetleges értékesítési jutalékkal csökkentett jegyár, illetve az értékesített előadás vagy hangverseny ellenértéke az előadó-művészeti szervezetnél tényleges saját bevételként jelentkezik, továbbá azt, hogy utóbbi esetben – amennyiben arra sor kerül – a tényleges jegyértékesítést végző az általa értékesített belépőjegyek számáról az előadó-művészeti szervezetnek adatot szolgáltat,
 - 13. főpróba: a bemutatót megelőzően, közönség jelenlétében vagy anélkül tartott összpróba,

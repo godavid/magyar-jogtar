@@ -64,7 +64,7 @@ bocsát ki.
 - d) a nehézfémek csoportjába tartozó vízterhelő anyag kibocsátása után, amennyiben a kibocsátó által alkalmazott technológiából adódóan az ilyen típusú vízterhelő anyag kibocsátása kizárt,
 - e) az extenzív módon üzemeltetett halastavak esetén.
 
-(2) Az (1) bekezdés a) és b) pontja szerinti vízterhelő anyagok mennyiségét a vízszolgáltató köteles hiteles mérésekkel igazolt módon a kibocsátó rendelkezésére bocsátani. Amennyiben nem teljesíti fenti kötelezettségét, akkor az illetékes környezetvédelmi hatóság a méréseket elvégzi és a mérési díj ötszörösében állapítja meg a vízszolgáltatót ezért terhelő térítési kötelezettséget.
+(2) Az (1) bekezdés a) és b) pontja szerinti vízterhelő anyagok mennyiségét a vízszolgáltató köteles hiteles mérésekkel igazolt módon a kibocsátó rendelkezésére bocsátani. Ha nem teljesíti fenti kötelezettségét, akkor a vízvédelmi hatóság a méréseket elvégzi vagy elvégezteti, és a mérési díj ötszörösében állapítja meg a vízszolgáltatót ezért terhelő térítési kötelezettséget.
 
 9. § (1) A vízterhelési díj mértékét a vízterhelési díj (2) bekezdésben meghatározott alapja, a vízterhelő anyagok egységdíja, a területérzékenységi, valamint az iszapelhelyezési szorzó határozza meg.
 
@@ -134,7 +134,7 @@ bocsát ki.
 
 (3) A kibocsátó köteles olyan nyilvántartást vezetni, amelyből a díjfizetés alapja, valamint mértéke telephelyenként megállapítható.
 
-21. § A kibocsátó tevékenysége során a levegőterhelő, a vízterhelő anyagok kibocsátásáról, valamint a vízjogi engedély alapján végzett tevékenységéhez kapcsolódó talajterhelésről a külön jogszabályokban meghatározott adatszolgáltatásra köteles. Amennyiben a környezetvédelmi felügyelőség a kibocsátási adatok ellenőrzése során az adatszolgáltatásban eltérést tapasztal, erről az adóhatóságot tájékoztatja.
+21. § A díjfizetésre kötelezett kibocsátó köteles a külön jogszabályokban meghatározott adatszolgáltatás elvégzésére. Amennyiben a környezetvédelmi hatóság vagy a vízvédelmi hatóság a kibocsátási adatok ellenőrzése során az adatszolgáltatásban eltérést tapasztal, erről az adóhatóságot tájékoztatja.
 
 ### A helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatos sajátos szabályok
 
@@ -169,6 +169,8 @@ bocsát ki.
 (2) E törvény 11–14. §-a, 19. §-a, valamint a 3. §-ának, 18. §-ának, 21. §-ának és 24. §-ának a talajterhelési díjra vonatkozó rendelkezései 2004. július 1-jén lépnek hatályba.
 
 (3) Felhatalmazást kap a Kormány, hogy az egyes környezetterhelési díjkedvezmények igénybevételére, a díjak díjvisszaigénylésének alkalmazására, a kibocsátott terhelő anyag mennyiség meghatározásának pontos módjára, valamint a díjfizetés áthárítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
+(3a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a vízvédelmi hatóságot.
 
 (4) A települési önkormányzatok rendeletben állapítják meg a helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatban a 12. §-ban meghatározott általány megállapításának szempontjait, valamint a 21/A. §-ban meghatározottakat.
 

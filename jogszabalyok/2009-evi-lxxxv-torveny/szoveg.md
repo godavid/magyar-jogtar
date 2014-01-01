@@ -30,11 +30,11 @@ a pénzforgalmi szolgáltatás nyújtásáról
   - a) aki a fizetési számla tulajdonosaként fizetési számlájáról fizetési megbízást hagy jóvá, vagy
   - b) aki a fizetési számla hiányában fizetési megbízást ad, vagy
   - c) akinek a fizetési számláját hatósági átutalási megbízás vagy átutalási végzés alapján megterhelik,
-- 10. fogyasztó: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) meghatározott fogyasztó,
+- 10. fogyasztó: a Polgári Törvénykönyvről szóló törvényben meghatározott fogyasztó,
 - 11. hitelesítés: olyan eljárás, amely lehetővé teszi, hogy a pénzforgalmi szolgáltató ellenőrizze a készpénz-helyettesítő fizetési eszköz használatát, ideértve annak személyes biztonsági elemeit is,
 - 12. kedvezményezett: az a jogalany, aki a fizetési művelet tárgyát képező pénz jogosultja,
 - 13. keretszerződés: a pénzforgalmi szolgáltató és az ügyfél között létrejött olyan a pénzforgalmi szolgáltatás nyújtására vonatkozó megállapodás, amely egy adott időszakra vonatkozóan meghatározza a keretszerződésen alapuló fizetési megbízások, illetve fizetési műveletek lényeges feltételeit, ideértve a fizetési számla megnyitását is,
-- 14. készpénzátutalás: a Hpt.-ben meghatározott készpénzátutalás,
+- 14. készpénzátutalás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) meghatározott készpénzátutalás,
 - 15. készpénz-helyettesítő fizetési eszköz: a Hpt.-ben meghatározott készpénz-helyettesítő fizetési eszköz,
 - 16. kis összegű készpénz-helyettesítő fizetési eszköz: olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag kilencezer forintot meg nem haladó fizetési műveletre használható, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a negyvenötezer forintot,
 - 17. mikrovállalkozás: az a vállalkozás, amelynek – a keretszerződés vagy az egyszeri fizetési megbízási szerződés megkötésének időpontjában – az összes foglalkoztatotti létszáma 10 főnél kevesebb, és a szerződés megkötését megelőző üzleti évben éves árbevétele vagy mérlegfőösszege legfeljebb 2 millió euró vagy a szerződés megkötését megelőző üzleti év utolsó napján érvényes Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeg,
@@ -51,7 +51,11 @@ a pénzforgalmi szolgáltatás nyújtásáról
 - 28. ügyfél: a fizető fél és a kedvezményezett,
 - 29. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat.
 
-### II. Fejezet — AZ ÜGYFELEK TÁJÉKOZTATÁSÁNAK, SZERZŐDÉSKÖTÉSÉNEKÉS SZERZŐDÉSMÓDOSÍTÁSÁNAKKÖZÖS SZABÁLYAI
+### II. Fejezet — AZ ÜGYFELEK TÁJÉKOZTATÁSÁNAK, SZERZŐDÉSKÖTÉSÉNEK
+
+ÉS SZERZŐDÉSMÓDOSÍTÁSÁNAK
+
+KÖZÖS SZABÁLYAI
 
 3. § (1) A II–VI. Fejezet rendelkezései a pénzforgalmi szolgáltatás nyújtására irányuló
 
@@ -212,7 +216,9 @@ vonatkoznak.
 
 (7) Az elszámolás a felmondással egyidejűleg, vagy ha a felek a keretszerződésben felmondási időt kötöttek ki, a felmondási idő utolsó napjáig történik.
 
-### IV. Fejezet — FIZETÉSI SZÁMLA MEGNYITÁSA,FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
+### IV. Fejezet — FIZETÉSI SZÁMLA MEGNYITÁSA,
+
+FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 18. § (1) Pénzforgalmi számlát a pénzforgalmi szolgáltató akkor nyithat, ha
 
@@ -378,6 +384,13 @@ vonatkoznak.
 
 (3)
 
+35/A. § (1) Készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett belföldi fizetési műveletek után a kedvezményezett fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatója által a fizető fél fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatója részére – közvetlenül vagy közvetve – megfizetett díjaknak és jutalékoknak a mértéke nem haladhatja meg
+
+- a) a fizetési számla terhére kibocsátott készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett fizetési művelet esetében a díj- és jutalékfizetés alapját képező fizetési művelet értékének 0,2 százalékát,
+- b) a fizető fél rendelkezésére álló hitelkeret terhére kibocsátott készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett fizetési művelet esetében a díj- és jutalékfizetés alapját képező fizetési művelet értékének 0,3 százalékát.
+
+(2) Az (1) bekezdés alkalmazásában belföldi fizetési művelet az olyan fizetési művelet, amelynél mind a fizető fél fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatójának, mind pedig a kedvezményezettnek a székhelye vagy fióktelepe Magyarországon van.
+
 36. § (1) A fizetési műveletet a felek által megállapított devizanemben kell teljesíteni.
 
 (2) A fizető felet és a kedvezményezettet kizárólag a saját pénzforgalmi szolgáltatója által meghatározott díj, költség vagy egyéb fizetési kötelezettség terheli, ha a fizetési művelethez nem kapcsolódik pénznemek közötti átváltás.
@@ -486,7 +499,9 @@ köteles megőrizni, illetve tárolni.
 
 (6) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltatót a (3) és (5) bekezdés szerinti kötelezettségek nem terhelik, ha a készpénz-helyettesítő fizetési eszköz letiltása vagy további használatának megakadályozása nem lehetséges.
 
-### IX. Fejezet — FIZETÉSI MŰVELETEK HELYESBÍTÉSE,A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
+### IX. Fejezet — FIZETÉSI MŰVELETEK HELYESBÍTÉSE,
+
+A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 42. § (1) Az ügyfél a fizetési megbízás teljesítését követően haladéktalanul, de legfeljebb a fizetési művelet teljesítését követő tizenharmadik hónapnak a fizetési számla megterhelésének napjával megegyező napjáig kezdeményezheti a jóvá nem hagyott vagy a jóváhagyott, de hibásan teljesített fizetési művelet helyesbítését. Ha a lejárat hónapjában nincs a terhelés napjának megfelelő naptári nap, akkor a határidő lejárta a hónap utolsó napja.
 
@@ -612,11 +627,7 @@ köteles megőrizni, illetve tárolni.
 
 ### Fizetési titok
 
-59. § (1) Fizetési titok minden olyan, hitelintézetnek nem minősülő pénzforgalmi szolgáltatónak az egyes ügyfelekről rendelkezésére álló, a pénzforgalmi szolgáltatás nyújtásával kapcsolatos tény, információ, megoldás vagy adat, amely az ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzforgalmi szolgáltató által vezetett fizetési számlájának egyenlegére, forgalmára, továbbá a pénzforgalmi szolgáltatóval a pénzforgalmi szolgáltatási szerződéseire vonatkozik.
-
-(2) A fizetési titokra a Hpt. banktitokra vonatkozó szabályait kell megfelelően alkalmazni, azzal az eltéréssel, hogy ahol a Hpt. banktitkot említ, azon a fizetési titkot kell érteni.
-
-(3) A pénzforgalmi szolgáltató a pénzforgalmi szolgáltatási keretszerződés szerint a rendelkezésére álló, személyes adatnak minősülő fizetési titkot legfeljebb a fizetési műveletből eredő követelés elévüléséig jogosult kezelni és továbbítani a pénzforgalmi elszámolóháznak a fizetéssel kapcsolatos csalások valamint a készpénz-helyettesítő fizetési eszközzel történő visszaélések megelőzése, vizsgálata és felderítés céljából.
+59. § A pénzforgalmi szolgáltató a pénzforgalmi szolgáltatási keretszerződés szerint a rendelkezésére álló, személyes adatnak minősülő banktitkot, fizetési titkot legfeljebb a fizetési műveletből eredő követelés elévüléséig jogosult kezelni és továbbítani a fizetési rendszert működtető pénzügyi vállalkozásnak, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek a fizetéssel kapcsolatos csalások valamint a készpénz-helyettesítő fizetési eszközzel történő visszaélések megelőzése, vizsgálata és felderítése céljából.
 
 ### XII. Fejezet — SORBAÁLLÍTÁS
 
@@ -719,6 +730,8 @@ köteles megőrizni, illetve tárolni.
 
 (14) Ha a törvény hatálybalépése előtt követelés érvényesítésére kormányrendelet azonnali beszedési megbízás (jogszabályi azonnali beszedési megbízás) benyújtását tette lehetővé, a törvény hatálybalépését megelőzően keletkezett jogviszonyokban, a követelés jogosultja beszedési megbízást nyújthat be a követelés kötelezettjének fizetési számlája terhére a kötelezett erre vonatkozó felhatalmazása hiányában is, ha annak egyéb, a kormányrendeletben a törvény hatálybalépését megelőzően meghatározott feltételei fennállnak.
 
+66/A. § Az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvénnyel megállapított 35/A. §-ban foglalt követelményeknek a 2014. január 1-jén és ezt követően kezdeményezett belföldi fizetési műveletek tekintetében kell megfelelni.
+
 66/B. § (1) A pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított 36/A. §-t – a (2) bekezdésben meghatározott kivétellel – a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
 
 (2) A 36/A. § (1) bekezdés a) pontja szerinti díjtól és költségtől mentes készpénzkifizetésre az a fogyasztó jogosult, aki a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvény hatálybalépését megelőzően nem rendelkezett a fizetési számlához tartozó készpénz-helyettesítő fizetési eszközzel.
@@ -735,4 +748,4 @@ Az Európai Parlament és a Tanács 2007. november 13-i 2007/64/EK irányelve a 
 
 ### XV. Fejezet
 
-68–155. §
+#### 68–155. §

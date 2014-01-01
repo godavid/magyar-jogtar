@@ -278,7 +278,7 @@ figyelembevételével kell számítani.
 - b) a 12. § (2) és (3) bekezdésében meghatározott feladat ellátásának, valamint
 - c) a működésének várható ráfordításait.
 
-(4) A Szövetség a tagi hozzájárulásból eredő bevételét oly módon tervezi meg, hogy az – figyelembe véve a Szövetség egyéb jogcímen (nem a tagi hozzájárulásból származó) tervezett bevételeit – fedezze a (3) bekezdésben meghatározott, várható ráfordításokat. A készletértékesítésből származó bevétel kizárólag hiteltörlesztésre, vagy új készlet beszerzésére fordítható.
+(4) A Szövetség a tagi hozzájárulásból eredő bevételét oly módon tervezi meg, hogy az – figyelembe véve a Szövetség egyéb jogcímen (nem a tagi hozzájárulásból származó) tervezett bevételeit – fedezze a (3) bekezdésben meghatározott, várható ráfordításokat.
 
 (5) A Szövetség az éves költségvetés alapján meghatározza a termékcsoportonkénti egységnyi tagi hozzájárulás mértékét, amelynek számítása a következők figyelembevételével történik:
 

@@ -322,7 +322,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 #### 17. A hivatásos katasztrófavédelmi szerv központi szerve
 
-23. § (1) A hivatásos katasztrófavédelmi szerv központi szerve önállóan működő és gazdálkodó költségvetési szerv.
+23. § (1) A hivatásos katasztrófavédelmi szerv központi szerve költségvetési szerv.
 
 (2) A hivatásos katasztrófavédelmi szerv központi szerve vezetője vezeti a központi szervet, irányítja a hivatásos katasztrófavédelmi szerv területi és helyi szervei működését és szakmai tevékenységét.
 
@@ -363,7 +363,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 #### 18. A hivatásos katasztrófavédelmi szerv területi szervei
 
-24. § (1) A hivatásos katasztrófavédelmi szerv területi szerve önállóan működő és gazdálkodó költségvetési szerv, amely jogszabályban meghatározott ügyekben hatóságként jár el, ellátja a jogszabályokban részére meghatározott feladatokat, irányítja a hivatásos tűzoltóságokat és a katasztrófavédelmi kirendeltségeket.
+24. § (1) A hivatásos katasztrófavédelmi szerv területi szerve költségvetési szerv, amely jogszabályban meghatározott ügyekben hatóságként jár el, ellátja a jogszabályokban részére meghatározott feladatokat, irányítja a hivatásos tűzoltóságokat és a katasztrófavédelmi kirendeltségeket.
 
 (2) A hivatásos katasztrófavédelmi szerv területi szerve ellátja az önkormányzati tűzoltóságok felügyeletét, ellenőrzi a létesítményi tűzoltóságok és az önkéntes tűzoltó egyesületek tevékenységét.
 

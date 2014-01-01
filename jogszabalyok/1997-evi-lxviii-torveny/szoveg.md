@@ -12,7 +12,7 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 
 létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
 
-(2) Az (1) bekezdésben megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott üdülők, bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
+(2) Az (1) bekezdésben megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
 (3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
@@ -47,7 +47,9 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) A szakértőjelölt az igazságügyi szakértői kinevezéshez szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – az igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
 
-6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a bírósági ügyintéző, a végrehajtási ügyintéző, továbbá a törvényszéki végrehajtó, végrehajtó-helyettes és a végrehajtójelölt is.
+6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a főtanácsadó, a bírósági ügyintéző, a végrehajtási ügyintéző, továbbá a törvényszéki végrehajtó, végrehajtó-helyettes és a végrehajtójelölt is.
+
+(1a) A Kúrián és az OBH-ban foglalkoztatott főtanácsadó szakirányú felsőfokú végzettséggel rendelkező tisztviselő.
 
 (2) A bírósági ügyintéző felsőfokú iskolai végzettséggel rendelkező tisztviselő, aki a bíró feladatkörében eljárva – a bíró irányítása és felügyelete mellett – önálló felelősséggel intézi a jogszabály által hatáskörébe utalt feladatokat.
 
@@ -116,7 +118,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 11/A. § (1) Az igazságügyi alkalmazottként szolgálati jogviszonyt létesíteni szándékozó személy a munkáltatói jogkör gyakorlójának felhívására
 
 - a) igazolja a kinevezéshez szükséges adatokat és tényeket, valamint
-- b) hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 11. § (4) és (5) bekezdésében meghatározott körülmény vele szemben nem áll fenn.
+- b) hatósági erkölcsi bizonyítvánnyal igazolja azt a tényt, hogy a 11. § (4) és (5) bekezdésében meghatározott körülmény vele szemben nem áll fenn.
 
 (2) Ha az igazságügyi alkalmazottként szolgálati jogviszonyt létesíteni szándékozó személy az (1) bekezdésben meghatározott adatokat és tényeket nem igazolja, kinevezésre nem lehet előterjeszteni.
 
@@ -135,10 +137,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2)
 
-(3) Az igazságügyi szakértői kinevezéshez
-
-- a) a szakterületnek megfelelő egyetemi (főiskolai) végzettség, továbbá az orvosszakértőknél igazságügyi orvostani vagy a szakágazat szerint előírt más szakorvosi vizsga, az egyéb szakértőknél a szakágazatnak (szakterületnek) megfelelő szakvizsga,
-- b) legalább 5 éves szakmai gyakorlat szükséges.
+(3) Egyéb igazságügyi szervhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
 
 (4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
@@ -434,12 +433,12 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 37/B. § (1) Az igazságügyi alkalmazott a szolgálati viszony fennállása alatt a munkáltatói jogkör gyakorlójának írásban – a mulasztás jogkövetkezményeire való figyelmeztetéssel – közölt felhívására, tizenöt munkanapon belül igazolja, hogy vele szemben nem áll fenn a 11. § (4) és (5) bekezdésében meghatározott körülmény.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra az igazságügyi alkalmazott igazolja, hogy vele szemben a 11. § (4) és (5) bekezdésében meghatározott körülmény nem áll fenn, az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az igazságügyi szerv az igazságügyi alkalmazott részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra az igazságügyi alkalmazott igazolja, hogy vele szemben a 11. § (4) és (5) bekezdésében meghatározott körülmény nem áll fenn, az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az igazságügyi szerv az igazságügyi alkalmazott részére megtéríti.
 
 (3) A munkáltatói jogkör gyakorlója a 11/A. § (4) és (5) bekezdésben meghatározott körülmény vizsgálata céljából kezeli
 
 - a) az igazságügyi alkalmazottként szolgálati jogviszonyt létesíteni szándékozó személy,
-- b) az igazságügyi alkalmazott azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+- b) az igazságügyi alkalmazott azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány tartalmaz.
 
 (4) A 11/A. § (1) bekezdés b) pontja, valamint az (1) bekezdés alapján megismert személyes adatokat a munkáltatói jogkör gyakorlója a szolgálati viszony létesítéséről meghozott döntés időpontjáig vagy – szolgálati viszony létesítése és fennállása esetén – a szolgálati viszony megszűnéséig kezeli.
 
@@ -525,6 +524,18 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 (5) A helyettesítés vagy kirendelés időtartama a naptári évben – eltérő megállapodás hiányában – a két hónapot nem haladhatja meg.
 
 (6) Az igazságügyi alkalmazott a helyettesítés és kirendelés időtartamára az e törvény alapján megállapított díjazásra jogosult.
+
+42/A. § (1) A bírósági titkárt az OBH elnöke az OBH-ba beoszthatja. A beosztáshoz a bírósági titkár hozzájárulása szükséges.
+
+(2) Az OBH-ba beosztott bírósági titkár tekintetében a munkáltatói jogkört az OBH elnöke gyakorolja.
+
+(3) A bírósági titkár a hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
+
+(4) A hivatali beosztás megszűnését követően a bírósági titkárt a hivatali tevékenységét megelőző szolgálati helyére kell beosztani.
+
+(5) Az OBH elnöke a bírósági titkár hivatali beosztását megszüntetheti, a bírósági titkár kérelmére megszünteti.
+
+(6) A bírósági titkár a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, amitől a felek közös megegyezéssel eltérhetnek.
 
 43. § Az igazságügyi alkalmazottat nem terheli munkavégzési kötelezettség
 
@@ -949,6 +960,21 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (3) Az OBH elnökhelyettese illetményére a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvénynek az államtitkár javadalmazására, juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
+96/A. § (1) Az igazságügyi alkalmazottat az illetménye illeti meg a következő távollétek idejére is:
+
+- a) a szabadság időtartama alatt,
+- b) az Mt. 55. § (1) bekezdés c)–g) pontjában meghatározott esetben,
+- c) az állampolgári kötelezettség teljesítésének időtartamára,
+- d) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
+- e) a munkaszüneti nap miatt kiesett időre,
+- f) ha a munkáltató foglalkoztatási kötelezettségének elháríthatatlan külső okot kivéve nem tesz eleget.
+
+(2) Az illetmény 70 százaléka jár a betegszabadság tartamára.
+
+(3) Az egy napra járó illetmény az egy hónapra megállapított illetmény és a tárgyhó munkanapjai számának hányadosa.
+
+(4) Az egy órára járó illetmény az egy napra kiszámított illetmény és az igazságügyi alkalmazott napi teljes munkaidejének a hányadosa.
+
 ### Az alapilletmény
 
 97. § (1) Az alapilletményt az igazságügyi alkalmazott munkaköre és iskolai végzettsége, valamint az igazságügyi szolgálati ideje alapján, a megfelelő fizetési osztályba vagy csoportba, ezen belül – a fizikai alkalmazottak kivételével – fizetési fokozatba való besorolással kell megállapítani. A fizetési osztályokon belül a magasabb fizetési fokozatokhoz – az illetményalap arányában – növekvő mértékű szorzószámok tartoznak.
@@ -1024,7 +1050,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### A beosztási pótlék
 
-105. § (1) Kúrián, az OBH-nál és az egyéb igazságügyi szerveknek a Kormány által rendeletben meghatározott szervezeti egységénél dolgozó felsőfokú végzettségű tisztviselőt beosztási pótlék illeti meg.
+105. § (1) A Kúrián és az OBH-nál dolgozó bírósági titkárt, valamint a Kúrián és az OBH-nál, továbbá az egyéb igazságügyi szerveknek a Kormány által rendeletben meghatározott szervezeti egységénél dolgozó felsőfokú végzettségű tisztviselőt beosztási pótlék illeti meg.
 
 (2) A beosztási pótlék mértéke a Kúrián és az OBH-nál az illetményalap 10–15 százaléka, az egyéb igazságügyi szerveknél 5–10 százaléka.
 
@@ -1065,9 +1091,15 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (3) A veszélyességi pótlékra jogosító munkaköröket a miniszter rendeletben állapítja meg.
 
-### Munkaköri pótlék
+### Munkaköri pótlék és kiegészítő pótlék
 
-109. § Az igazságügyi szakértő az igazságügyi szolgálati idejétől függően az illetményalap 15–30 százalékának, a bírósági ügyintéző az illetményalap 10–15 százalékának, a törvényszéki végrehajtó és a végrehajtási ügyintéző az illetményalap 8 százalékának megfelelő összegű munkaköri pótlékra jogosult.
+109. § (1) Az igazságügyi szakértő az igazságügyi szolgálati idejétől függően az illetményalap 15–30 százalékának, a bírósági ügyintéző az illetményalap 10–15 százalékának, a törvényszéki végrehajtó és a végrehajtási ügyintéző az illetményalap 8 százalékának megfelelő összegű munkaköri pótlékra jogosult.
+
+(2) A Kúrián és az OBH-ban dolgozó főtanácsadó az illetményalap 15–30 százalékának megfelelő összegű munkaköri pótlékra jogosult.
+
+(3) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – az igazságügyi alkalmazott részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha a bíróság alaptevékenységébe tartozó munkaköri feladatai mellett kommunikációs, instruktori, közvetítői kapcsolattartói, tanúgondozási, vagy más a bíróság vagy a központi igazgatás működéséhez szükséges feladatokat rendszeresen teljesít.
+
+(4) A kiegészítő pótlék összege az illetményalap 5 százalékától 15 százalékáig terjedhet.
 
 ### Kirendelési díj
 
@@ -1180,7 +1212,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (3) A (2) bekezdés a)–c) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló szolgálati jogviszony fennállását a munkáltatói jogkör gyakorlója igazolja.
 
-(4) A (2) bekezdés d) pontjában foglalt feltétel teljesülését az igazságügyi alkalmazott hatósági bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről az igazságügyi alkalmazott a kölcsönt nyújtó hitelintézetnek nyilatkozik.
+(4) A (2) bekezdés d) pontjában foglalt feltétel teljesülését az igazságügyi alkalmazott hatósági erkölcsi bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről az igazságügyi alkalmazott a kölcsönt nyújtó hitelintézetnek nyilatkozik.
 
 (5) Az igazságügyi alkalmazott a munkáltatói jogkör gyakorlójának köteles bejelenteni a hitelszerződés megkötését követő öt munkanapon belül
 
@@ -1214,7 +1246,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (6) Az irányadó időszakban kifizetett, de az irányadó időszakot meghaladó, meghatározott időtartamra járó javadalmazásnak, továbbá az irányadó időszakon kívüli időben kifizetett, de az irányadó időszak alatti munkavégzés alapján járó javadalmazásnak csak az átlagszámítás alapjául figyelembe vehető időszakra eső – a (8) bekezdés szerinti osztószám figyelembevételével számított – (időarányos) részét kell az átlagszámításnál a kifizetett javadalmazás összegébe beszámítani.
 
-(7) Ha az igazságügyi alkalmazott szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének a távolléti díjával azonos összeg tekintendő.
+(7) Ha az igazságügyi alkalmazott szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének az illetményével azonos összeg tekintendő.
 
 (8) Az egy órára, illetve az egy munkanapra járó átlagilletményt úgy kell kiszámítani, hogy az igazságügyi alkalmazott irányadó időszaki javadalmazásának együttes összegét osztani kell az adott időszakban munkában töltött, valamint az illetménnyel fizetett, de munkában nem töltött órák, illetve munkanapok számával (együtt: osztószám).
 
@@ -1242,7 +1274,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. §-át, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-ait, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, valamint (3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (5) bekezdését, 148. § (1) bekezdés a) pontját és (2) bekezdés a) pontját, 149. §-át, 152–153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
+124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. § (1) bekezdését, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés b), c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
@@ -1287,9 +1319,9 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 133. § (1) Az igazságügyi alkalmazott részére az őt e törvény, valamint más jogszabály alapján megillető javadalmazás és egyéb pénzbeli juttatás kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetéssel történik.
 
-(2) A javadalmazás fizetési számlára történő átutalása és egyszeri felvétele, illetve a pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján az igazságügyi alkalmazott számára költségtöbbletet nem okozhat.
+(2) A fizetési számlához kapcsolódóan az igazságügyi alkalmazott részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
 
-(3)
+(3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
 134. § Az igazságügyi alkalmazott az e törvény hatálybalépése előtt adományozott főtanácsosi és tanácsosi címeket tovább viselheti, amennyiben az adományozás feltételeinek megfelel, a címmel járó pótlékot is e törvény rendelkezései szerint kell folyósítani.
 
@@ -1349,7 +1381,7 @@ rendeletben állapítsa meg.
 - 1. Nyilvántartási szám, – név (nőknél a leánykori név is), – születési hely és idő, – anyja neve, – lakóhely – családi állapota, – házastárs neve, – gyermekei neve és születési ideje.
 - 2. A legmagasabb iskolai végzettség (több végzettség esetén valamennyi), – szakképzettség, – szaktanfolyam és szakvizsga megnevezése és időpontja, – jelenleg folytatott tanulmányok megnevezése, – idegennyelv-ismeret.
 - 3. Katonai szakképzettség száma, katonai rendfokozat.
-- 4. Az igazságügyi szervhez történő kinevezés időpontja – a beszámított szolgálati idő kezdete, – a korábbi tevékenységek és a vonatkozó munkahelyek megnevezése, a belépés és kilépés időpontjai, a beosztások (munkakörök) megjelölése, a beszámított jogviszonyok megszűnésének jogcímei, – a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma és kelte.
+- 4. Az igazságügyi szervhez történő kinevezés időpontja – a beszámított szolgálati idő kezdete, – a korábbi tevékenységek és a vonatkozó munkahelyek megnevezése, a belépés és kilépés időpontjai, a beosztások (munkakörök) megjelölése, a beszámított jogviszonyok megszűnésének jogcímei, – a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány száma és kelte.
 - 5. Az igazságügyi szervnél a kinevezés utáni beosztások, – a szolgálati helyek (időtartam kezdete és vége), – munkakörök (időtartam kezdete és vége), – szakterületek (időtartam kezdete és vége), – elektronikus aláírási jogosultság (időtartam kezdete és vége, típusa), – FEOR-szám.
 - 6. A fizetési fokozat megjelölése, annak összege és a besorolás időpontja, a következő kötelező előresorolás időpontja, – a beosztási pótlék megnevezése, százaléka és összege, – a vezetői pótlék megnevezése, százaléka és összege, – az egyéb folyósított pótlékok megnevezése és összege, – az összilletmény összege.
 - 7. A tárgyévben kapott külön juttatás, jubileumi jutalom, egyéb javadalmazások, kedvezmények és költségtérítések megnevezése, összegei és egyéb adatai.

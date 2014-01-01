@@ -140,7 +140,7 @@ Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől
 - e) a kultúráért és az oktatásért felelős miniszter által együttesen delegált 1,
 - f) az agrár-vidékfejlesztésért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
 - g) a turizmusért felelős miniszter által delegált 1,
-- h) a fejlesztéspolitikáért felelős miniszter által delegált 1,
+- h) a Kormány európai uniós források felhasználásáért felelős tagja által delegált 1,
 - i) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
 - j) a Magyar Művészeti Akadémia (a továbbiakban: MMA) elnöke által delegált 1,
 - k) a MÁÉRT által delegált 3, és

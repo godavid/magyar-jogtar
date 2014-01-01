@@ -52,7 +52,7 @@ a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogáll�
 
 (6) Az Országos Tanácsra és tagjaira e törvényben eltérően nem szabályozott kérdésekben az alkalmazotti tanácsra, illetve az annak tagjaira irányadó rendelkezéseket kell megfelelően alkalmazni.
 
-(7) A tevékenységükhöz szükséges időre az alkalmazotti tanács tagjait (tisztségviselőit) legfeljebb nyolc óra, az Országos Tanács tagjait (tisztségviselőjét) legfeljebb további nyolc óra munkaidő-kedvezmény illeti meg havonta. Erre az időre távolléti díj jár.
+(7) A tevékenységükhöz szükséges időre az alkalmazotti tanács tagjait (tisztségviselőit) legfeljebb nyolc óra, az Országos Tanács tagjait (tisztségviselőjét) legfeljebb további nyolc óra munkaidő-kedvezmény illeti meg havonta. Erre az időre illetmény jár.
 
 4. § (1) Az alkalmazotti tanácsot egyetértési jog illeti meg a jóléti célú pénzeszközök felhasználásával, illetve az ilyen jellegű intézmények és ingatlanok hasznosításával kapcsolatos tervek elfogadása tekintetében.
 
@@ -666,16 +666,16 @@ véleményét a pályázóról.
 
 49. § (1) Az ügyészségi szolgálati viszony fennállása alatt az ügyész a munkáltatói jogkör gyakorlójának írásban – a mulasztás jogkövetkezményeire való figyelmeztetéssel – közölt felhívására, tizenöt munkanapon belül igazolja, hogy vele szemben nem áll fenn a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első fordulatában, valamint d) pontjában meghatározott körülmény.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra az ügyész igazolja, hogy vele szemben a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első fordulatában, valamint d) pontjában meghatározott körülmény nem áll fenn, a munkáltató az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ügyész részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra az ügyész igazolja, hogy vele szemben a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első fordulatában, valamint d) pontjában meghatározott körülmény nem áll fenn, a munkáltató az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ügyész részére megtéríti.
 
 (3) A munkáltatói jogkör gyakorlója a 11. § (4) bekezdés a)–f) pontjában meghatározott körülmény vizsgálata céljából kezeli
 
 - a) az ügyészi tisztségre jelölt személy,
 - b) az ügyész
 
-azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány tartalmaz.
 
-(4) A 156. § (1) bekezdés, valamint az (1) bekezdés alapján a hatósági bizonyítványban rögzített személyes adatokat a munkáltatói jogkör gyakorlója az ügyészségi szolgálati viszony létesítéséről meghozott döntés időpontjáig vagy – az ügyészségi szolgálati viszony létesítése és fennállása esetén – az ügyészségi szolgálati viszony megszűnéséig kezeli.
+(4) A 156. § (1) bekezdés, valamint az (1) bekezdés alapján a hatósági erkölcsi bizonyítványban rögzített személyes adatokat a munkáltatói jogkör gyakorlója az ügyészségi szolgálati viszony létesítéséről meghozott döntés időpontjáig vagy – az ügyészségi szolgálati viszony létesítése és fennállása esetén – az ügyészségi szolgálati viszony megszűnéséig kezeli.
 
 (5) Az (1)–(4) bekezdésben a munkáltatói jogkör gyakorlója részére meghatározott jogosultságokat a legfőbb ügyész tekintetében a köztársasági elnök, a legfőbb ügyész helyettes tekintetében a legfőbb ügyész gyakorolja.
 
@@ -688,9 +688,10 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 (2) Az (1) bekezdésben meghatározott eseteken túl akkor is minősíteni kell az ügyészt, ha az ügyész
 
 - a) azt kéri, feltéve, hogy az előző minősítése óta két év már eltelt,
-- b) szakmai alkalmatlanságára, vagy az előző minősítés értékelése megváltoztatásának szükségességére utaló körülmény merült fel.
+- b) szakmai alkalmatlanságára, vagy az előző minősítés értékelése megváltoztatásának szükségességére utaló körülmény merült fel,
+- c) a soron kívül lefolytatandó eljárásban a nyomozás iratainak ismertetését követően az iratok megvizsgálására a büntetőeljárásról szóló törvényben meghatározottak szerint a felettes ügyész által meghosszabbított határidőt elmulasztja.
 
-(3) A (2) bekezdés b) pontjában meghatározott esetben a soron kívüli minősítés elrendelését az ügyésszel írásban közölni kell.
+(3) A (2) bekezdés b) és c) pontjában meghatározott esetben a soron kívüli minősítés elrendelését az ügyésszel írásban közölni kell.
 
 (4) A minősítés a munkáltatói jogkör gyakorlójának feladata. A minisztériumba beosztott ügyész hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre vonatkozó szabályok szerint értékeli.
 
@@ -1012,7 +1013,7 @@ illetménynek megfelelő összeg.
 
 (3) A (2) bekezdés a)–c) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló szolgálati viszony fennállását a munkáltatói jogkör gyakorlója igazolja.
 
-(4) A (2) bekezdés d) pontjában foglalt feltétel teljesülését az ügyész hatósági bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről az ügyész a kölcsönt nyújtó hitelintézetnek nyilatkozik.
+(4) A (2) bekezdés d) pontjában foglalt feltétel teljesülését az ügyész hatósági erkölcsi bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről az ügyész a kölcsönt nyújtó hitelintézetnek nyilatkozik.
 
 (5) Az ügyész a munkáltatói jogkör gyakorlójának köteles bejelenteni a hitelszerződés megkötését követő öt munkanapon belül
 
@@ -1038,7 +1039,9 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 76. § (1) Az ügyészt megillető javadalmazás és egyéb pénzbeli juttatás kifizetése – a napidíj, az utazási és szállásköltség, továbbá más költségtérítés, valamint a 72–73. §-ban említett juttatások kivételével – az általa meghatározott fizetési számlára történő átutalással, pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
-(2) A fizetési számlára történő átutalás és az összeg egyszeri felvétele, illetve a kifizetés az ügyész számára költségtöbbletet nem okozhat.
+(2) A fizetési számlához kapcsolódóan az ügyész részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
+
+(3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
 77. § (1) A minisztériumba beosztott ügyészre az 57–76. §-okban foglalt rendelkezéseket a (2)–(4) bekezdések szerinti eltéréssel kell alkalmazni.
 
@@ -1266,7 +1269,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (3) A személyi nyilvántartás más adatrendszerrel nem kapcsolható össze.
 
-(4) Az ügyész ügyészségi szolgálati viszonyával kapcsolatos iratok közül a személyi adatlapot, a kinevezéshez szükséges iratokat, a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványt, a pályaalkalmassági vizsgálat alapján készített véleményt, az önéletrajzot, a fényképet, a kinevezési (megbízási), kinevezés-módosító okiratot, az esküokmányt, a besorolásról, az áthelyezésről, kirendelésről rendelkező és a kitüntetésről (elismerésről) szóló iratokat, a szervezett kötelező és fakultatív képzésekre vonatkozó adatokat, az azokon való részvételt igazoló okiratokat, a minősítést, a hatályban lévő fegyelmi büntetést kiszabó határozatot, valamint az ügyészségi szolgálati viszonyt megszüntető iratot együttesen kell tárolni.
+(4) Az ügyész ügyészségi szolgálati viszonyával kapcsolatos iratok közül a személyi adatlapot, a kinevezéshez szükséges iratokat, a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt, a pályaalkalmassági vizsgálat alapján készített véleményt, az önéletrajzot, a fényképet, a kinevezési (megbízási), kinevezés-módosító okiratot, az esküokmányt, a besorolásról, az áthelyezésről, kirendelésről rendelkező és a kitüntetésről (elismerésről) szóló iratokat, a szervezett kötelező és fakultatív képzésekre vonatkozó adatokat, az azokon való részvételt igazoló okiratokat, a minősítést, a hatályban lévő fegyelmi büntetést kiszabó határozatot, valamint az ügyészségi szolgálati viszonyt megszüntető iratot együttesen kell tárolni.
 
 (5) A személyi adatlapon a 3. mellékletben meghatározott, valamint a (4) bekezdés szerinti iratokban szereplő adatok rögzíthetők.
 
@@ -1341,9 +1344,15 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (3) Az (1)–(2) bekezdés szerinti előresorolást a naptári év első napjával kell végrehajtani, ennek során a korábbi fizetési fokozatban megszerzett szolgálati időt az új fizetési fokozatban is figyelembe kell venni.
 
+(3a) A Legfőbb Ügyészségen dolgozó alügyészt az illetményalap tíz–tizenöt százalékának megfelelő beosztási pótlék illeti meg. A pótlék alapilletmény jellegű.
+
 (4) Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után az alügyésznek „főtanácsos” cím adományozható.
 
 (5) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. A címpótlék alapilletmény jellegű.
+
+(6) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – az alügyész és az ügyészségi fogalmazó részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha az ügyészség alap- vagy funkcionális tevékenységébe tartozó munkaköri feladatai mellett kommunikációs, instruktori, vagy más, az ügyészség működéséhez szükséges feladatokat rendszeresen teljesít.
+
+(7) A kiegészítő pótlék az illetményalap öt–tizenöt százalékáig terjedhet.
 
 118. § (1) Az alügyész alapilletménye nem lehet kevesebb az ügyészségi szolgálati viszonya kezdetétől számítva azonos szolgálati idővel rendelkező kormánytisztviselőnek a Kttv. 134. § (1) bekezdésében meghatározott szerveknél elért, illetménykiegészítéssel növelt alapilletményénél. Ha az alügyész az egyetemi jogi végzettség megszerzése előtt is ügyészségi szolgálati viszonyban állt, azt az időt az összehasonlításnál figyelmen kívül kell hagyni.
 
@@ -1524,9 +1533,13 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (3) A beosztási pótlék összegét a (2) bekezdésben meghatározott keretek között a tisztviselő ügyészségi szolgálati viszonyban töltött idejének a figyelembevételével kell megállapítani.
 
-(4) Az ügyészségi megbízott – a szolgálati idejétől függően – az illetményalap tíz-tizenöt százalékának megfelelő összegű munkaköri pótlékra jogosult.
+(4) Az ügyészségi megbízott az illetményalap tíz–tizenöt százalékának, a Legfőbb Ügyészségen dolgozó ügyészségi megbízott az illetményalap tizenöt–harminc százalékának megfelelő összegű munkaköri pótlékra jogosult.
 
 (5) Az OKRI-nál dolgozó kutatót – legfőbb ügyészi utasításban rögzített követelmények teljesítésétől függően – az illetményalap tíztől ötven százalékáig terjedő összegű kutatói pótlék illeti meg.
+
+(6) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – a tisztviselő, az írnok és a fizikai alkalmazott részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha az ügyészség alap- vagy funkcionális tevékenységébe tartozó munkaköri feladatai mellett kommunikációs, instruktori, vagy más, az ügyészség működéséhez szükséges feladatokat rendszeresen teljesít.
+
+(7) A kiegészítő pótlék az illetményalap öt–tizenöt százalékáig terjedhet.
 
 142. § (1) A tisztviselő és az írnok beosztási pótlékkal növelt alapilletménye nem lehet kevesebb
 
@@ -1627,7 +1640,7 @@ cím adományozható.
 
 (2) Nem alkalmazhatók az ügyészségi alkalmazottak szolgálati viszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény következő rendelkezései:
 
-- a) a munkaviszonyra vonatkozó szabályok közül: a 34. § (3) bekezdése, a 43. §, a 45. § (5) bekezdése, a 46. § (1) bekezdés g) pontja, a 48. §, az 54. § (1), (2) és (4) bekezdése, 55. § (2) bekezdése, az 56. §, a 61. § (1), (3) bekezdése, a 63. és 64. §, a 65. § (1), (2) bekezdése, a 66. és 67. §, a 69. §, a 70. § (1), (3) bekezdése, a 77–79. §, a 81–83. §, a 84. § (1), (2) bekezdése, a 92. § (2) bekezdésének b) pontja és (3) bekezdése, a 95. §, a 110. § (2) bekezdése, a 117. §, a 139. § (2) és (3) bekezdése, a 144. §, a 148. § (2) bekezdés b) pontja, a 156. § (2)–(4) bekezdése, a 179. § (1) és (2) bekezdése, a 192. § (2)–(4) bekezdése, a 194–211. §, a XVI. és XVII. fejezet, a 228. §;
+- a) a munkaviszonyra vonatkozó szabályok közül: a 34. § (3) bekezdése, a 43. §, a 45. § (5) bekezdése, a 46. § (1) bekezdés g) pontja, a 48. §, az 54. § (1), (2) és (4) bekezdése, 55. § (2) bekezdése, az 56. §, a 61. § (1), (3) bekezdése, a 63. és 64. §, a 65. § (1), (2) bekezdése, a 66. és 67. §, a 69. §, a 70. § (1), (3) bekezdése, a 77–79. §, a 81–83. §, a 84. § (1), (2) bekezdése, a 92. § (2) bekezdésének b) pontja és (3) bekezdése, a 95. §, a 110. § (2) bekezdése, a 117. §, a 136. § (3) bekezdése, a 139. § (2) és (3) bekezdése, a 144. §, a 146. § (1), (3)–(5) bekezdése, a 147–152. §, a 156. § (2)–(4) bekezdése, a 179. § (1) és (2) bekezdése, a 192. § (2)–(4) bekezdése, a 194–211. §, a XVI. és XVII. fejezet, a 228. §;
 - b) a munkaügyi kapcsolatok szabályai közül: a 236. § (1) bekezdése, a 237. §, a 250. § és 251. §, a 252. § g) pontja, a 260. § (1) és (2) bekezdése, a 262. § (3) és (4) bekezdése, a 263–266. §, a 268. § (1)–(3) bekezdése, a 269. §, a 272. § (1) bekezdése, a XXII. fejezet a 277. § (1)–(3), (5) bekezdése kivételével;
 - c) a záró rendelkezések közül: a 295–297. §.
 
@@ -1635,7 +1648,7 @@ cím adományozható.
 
 - a) 53. §-át csak a kinevezéstől eltérő munkakörben való foglalkoztatásra kell alkalmazni,
 - b) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
-- c) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik;
+- c) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása a szabadság egyötödére vonatkozik;
 - d) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
 - e) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
 - f) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
@@ -1651,6 +1664,7 @@ cím adományozható.
 - d) munkaviszonyra vonatkozó szabályt említ, ott az ügyészségi szolgálati viszonyra alkalmazandó törvényt és az abban adott felhatalmazás alapján kiadott egyéb jogszabályt, továbbá a legfőbb ügyész által – az érdekelt munkavállalói érdekképviseleti szervezetekkel egyetértésben – az e törvényben kapott felhatalmazás alapján kiadott utasítást,
 - e) felmondást említ, ott felmondás alatt lemondást, illetve felmentést,
 - f) kivételesen fontos gazdasági érdeket említ, ott kivételesen fontos ügyészségi érdeket
+- g) távolléti díjat említ, ott illetményt
 
 kell érteni.
 
@@ -1686,13 +1700,28 @@ kell érteni.
 
 (6) Az irányadó időszakban kifizetett, de az irányadó időszakot meghaladó, meghatározott időtartamra járó javadalmazásnak, továbbá az irányadó időszakon kívüli időben kifizetett, de az irányadó időszak alatti munkavégzés alapján járó javadalmazásnak csak az átlagszámítás alapjául figyelembe vehető időszakra eső – a (8) bekezdés szerinti osztószám figyelembevételével számított – (időarányos) részét kell az átlagszámításnál a kifizetett javadalmazás összegébe beszámítani.
 
-(7) Ha az ügyészségi alkalmazottnak az ügyészségi szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének a távolléti díjával azonos összeg tekintendő.
+(7) Ha az ügyészségi alkalmazottnak az ügyészségi szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének az illetményével azonos összeg tekintendő.
 
 (8) Az egy órára, illetve az egy munkanapra járó átlagilletményt úgy kell kiszámítani, hogy az ügyészségi alkalmazott irányadó időszaki javadalmazásának együttes összegét osztani kell az adott időszakban munkában töltött, valamint az illetménnyel fizetett, de munkában nem töltött órák, illetve munkanapok számával (együtt: osztószám).
 
 (9) Az a naptári negyedév – az (5) bekezdés szerinti naptári negyedév(ek) hiányában az a naptári hónap –, amelyben az ügyészségi alkalmazottnak kifizetett javadalmazáshoz osztószám nem tartozik, az irányadó időszak meghatározásánál nem vehető figyelembe.
 
 (10) Ha e törvény a fizetési kötelezettség megállapításánál havi átlagilletmény alkalmazását írja elő, akkor egy havi átlagilletményen az ügyészségi alkalmazott egy napi átlagilletményének a huszonkétszerese értendő. Munkaidőkeret alkalmazása esetén a havi átlagilletmény kiszámításánál a (8) bekezdésben foglaltak szerint meghatározott egy órára járó átlagilletmény összege szorzandó 174-gyel, részmunkaidő, rövidebb teljes munkaidő, illetve készenléti jellegű munkakörben a napi nyolc vagy heti negyven órát meghaladó mérték esetén, ennek időarányos részével.
+
+155/B. § (1) Az ügyészségi alkalmazottat illetménye illeti meg a következő távollétek idejére is:
+
+- a) a szabadság időtartama alatt,
+- b) a munka törvénykönyvéről szóló 2012. évi I. törvény 55. § (1) bekezdés c)–g) pontjában meghatározott esetben,
+- c) az állampolgári kötelezettség teljesítésének időtartamára,
+- d) ha törvény munkavégzés nélkül illetmény fizetését, annak mértéke meghatározása nélkül írja elő,
+- e) a munkaszüneti nap miatt kiesett időre,
+- f) ha a munkáltató foglalkoztatási kötelezettségének elháríthatatlan külső okot kivéve nem tesz eleget.
+
+(2) Az illetmény hetven százaléka jár a betegszabadság tartamára.
+
+(3) Az egy napra jutó illetmény az egy hónapra megállapított illetmény és a tárgyhó munkanapjai számának hányadosa.
+
+(4) Az egy órára járó illetmény az egy napra kiszámított illetmény és az ügyészségi alkalmazott napi teljes munkaidejének a hányadosa.
 
 156. § (1) Az ügyészségi szolgálati viszony létesítéséhez, és a besoroláshoz szükséges, illetve a jogviszony fennállása alatt, azzal összefüggésben keletkezett adatokat és tényeket az ügyészségi szolgálati viszonyt létesítő személynek, illetve az ügyészségi alkalmazottnak igazolnia kell.
 

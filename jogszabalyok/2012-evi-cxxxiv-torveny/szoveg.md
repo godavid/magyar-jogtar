@@ -64,6 +64,8 @@ forgalmazható, és amely üzlethelyiség külső felületére tekintve dohányt
 
 (2) A dohánytermék-kiskereskedelem szervezésének előmozdítására, a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázat kiírásának, elbírálásának, a koncessziós szerződés megkötésének előkészítésére, valamint a megkötött koncessziós szerződés ellenőrzésére a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot (a továbbiakban: a részvénytársaság) alapít.
 
+(3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
+
 5. § Az állam nevében a dohánytermék-kiskereskedelem átengedéséről szóló pályázat kiírására, elbírálására, továbbá a koncessziós szerződés megkötésére a miniszter jogosult.
 
 ### 2. CÍM — A nyilvános pályázat
@@ -106,7 +108,7 @@ jogosult végezhesse.
 
 8. § (1) A miniszter, illetve a miniszter által megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 30 napon belül.
 
-(2) A koncessziós díj összegéről, megfizetésének módjáról, valamint az ellentételezésről a koncessziós szerződésben rendelkezni kell. A koncessziós díj éves összege mindenkor legfeljebb az e törvényben foglalt éves állami feladatok ellátásához szükséges mértékig, arányosan határozható meg. A koncessziós díj teljes mértékben a részvénytársaságot illeti meg a törvényben foglalt feladatainak ellátására.
+(2) A koncessziós szerződésben a koncesszióról szóló 1991. évi XVI. törvény 13. § (2) bekezdésében meghatározottakon túl a koncessziós díj ellentételezéséről is rendelkezni kell.
 
 (3) Egy személlyel egy időpontban legfeljebb öt megkötött koncessziós szerződés lehet hatályban. Azoknál az egy közigazgatási egységet képező településeknél, ahol egynél több dohánytermék-kiskereskedelmi jogosultság kerül kiadásra, egy személy nem birtokolhatja az összes dohánytermék-kiskereskedelmi jogosultság több mint kétharmadát.
 
@@ -128,6 +130,14 @@ a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a rés
 (3) A (2) bekezdésben foglaltaktól eltérően, abban az esetben, ha a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, úgy az új pályázat eredménytelenségének kihirdetését követő 36 hónapon belül kell legkésőbb új pályázatot kiírni.
 
 (4) A (3) bekezdésben foglaltaktól eltérően, ha az állam a dohánytermék-kiskereskedelmi jogosultságot a részvénytársaság által feljogosított személy útján gyakorolja, és a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, úgy az új pályázat eredménytelenségének kihirdetését követő 12 hónapon belül kell legkésőbb új pályázatot kiírni.
+
+### 3. CÍM — A koncessziós szerződés alapján keletkező bevételek
+
+10/A. § (1) A koncessziós díjat a miniszter a részvénytársaság közreműködésével szedi be.
+
+(2) A miniszter a beszedett koncessziós díjak nettó összegét a kincstár által – a koncessziós díjak központi kezelésű előirányzatként történő elszámolása céljából – vezetett fizetési számlára, a koncessziós díjat terhelő általános forgalmi adót pedig az állami adóhatóságnak utalja át a tárgyhónapot követő hónap huszadik napjáig. A miniszter által vezetett minisztérium költségvetésében a beszedett koncessziós díjat és a kapcsolódó általános forgalmi adót bevételként, azoknak e bekezdés szerinti átutalását kiadásként nem lehet elszámolni.
+
+(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által vezetett minisztérium bevételei, amelyeket a miniszter a feladatellátáshoz kapcsolódó tevékenységek indokolt költségeire fordít.
 
 ### III. Fejezet — A DOHÁNYTERMÉK-KISKERESKEDELEM FOLYTATÁSA
 

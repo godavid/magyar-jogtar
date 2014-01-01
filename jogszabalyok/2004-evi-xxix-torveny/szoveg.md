@@ -448,44 +448,11 @@ egyes rendelkezések
 
 (3) Felhatalmazást kap a Kormány, hogy a 140/D. § szerinti bírság mértékére, a bírságolási eljárásra vonatkozó szabályokat rendeletben határozza meg.
 
-### A közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos eljárás
+#### 141. §
 
-141. § (1) Az állami és helyi önkormányzati szervek a panaszokat és a közérdekű bejelentéseket e törvény szerint kötelesek elintézni.
+#### 142. §
 
-(2) A panasz olyan kérelem, amely egyéni jog- vagy érdeksérelem megszüntetésére irányul, és elintézése nem tartozik más – így különösen bírósági, államigazgatási – eljárás hatálya alá.
-
-(3) A közérdekű bejelentés olyan körülményre hívja fel a figyelmet, amelynek orvoslása, illetőleg megszüntetése a közösség vagy az egész társadalom érdekét szolgálja. A közérdekű bejelentés javaslatot is tartalmazhat.
-
-(4) Panasszal és a közérdekű bejelentéssel bárki – szóban, írásban vagy elektronikus úton – fordulhat a tárgykörben eljárásra jogosult szervhez. A szóbeli bejelentést az eljárásra jogosult szerv köteles írásba foglalni.
-
-(5) Ha a panaszt, illetőleg a közérdekű bejelentést nem az eljárásra jogosult szervhez tették meg, azt nyolc napon belül oda át kell tenni. Az áttételről a bejelentőt egyidejűleg értesíteni kell.
-
-142. § (1) A panaszt és a közérdekű bejelentést a beérkezéstől számított harminc napon belül kell elbírálni.
-
-(2) Ha az elbírálást megalapozó vizsgálat előreláthatólag harminc napnál hosszabb ideig tart, erről a panaszost (bejelentőt) a panasz (bejelentés) beérkezésétől számított tizenöt napon belül – az elintézés várható időpontjának egyidejű közlésével – tájékoztatni kell.
-
-(3) Az eljárásra jogosult szerv a panaszost, illetőleg a közérdekű bejelentőt meghallgathatja, ha azt a panasz, illetőleg bejelentés tartalma szükségessé teszi.
-
-(4) Az eljárásra jogosult szerv a vizsgálat befejezésekor a megtett intézkedésről vagy annak mellőzéséről – az indokok megjelölésével – köteles a panaszost, illetőleg bejelentőt írásban vagy elektronikus úton haladéktalanul értesíteni.
-
-(5) Az írásbeli értesítés mellőzhető, ha az elintézésről a jelen lévő panaszost, illetőleg bejelentőt szóban tájékoztatták, és a tájékoztatást tudomásul vette.
-
-(6) A korábbival azonos tartalmú, ugyanazon panaszos, illetőleg bejelentő által tett ismételt, továbbá a névtelen bejelentés vizsgálata mellőzhető.
-
-(7) A panasz vizsgálata mellőzhető a (6) bekezdésben említett eseteken kívül akkor is, ha a panasztevő a sérelmezett tevékenységről (mulasztásról) való tudomásszerzéstől számított hat hónap után terjesztette elő a panaszát. A tudomásszerzéstől számított egy éven túl előterjesztett panaszt érdemi vizsgálat nélkül el kell utasítani.
-
-143. § (1) A panasz, illetőleg a közérdekű bejelentés alapján – ha alaposnak bizonyul – gondoskodni kell
-
-- a) a jogszerű, illetőleg a közérdeknek megfelelő állapot helyreállításáról vagy az egyébként szükséges intézkedések megtételéről;
-- b) a feltárt hibák okainak megszüntetéséről;
-- c) az okozott sérelem orvoslásáról, továbbá
-- d) indokolt esetben a felelősségre vonás kezdeményezéséről.
-
-(2) A panaszost, illetőleg a bejelentőt – a (4) bekezdésben foglaltak kivételével – nem érheti hátrány a panasz, illetőleg a közérdekű bejelentés megtétele miatt.
-
-(3) A panaszos, illetőleg a közérdekű bejelentést tevő személyes adatai – a (4) bekezdésben foglaltakon túlmenően – csak a bejelentés alapján kezdeményezett eljárás lefolytatására hatáskörrel rendelkező szerv részére adhatóak át, amennyiben e szerv annak kezelésére törvény alapján jogosult, vagy az adatai továbbításához a bejelentő egyértelműen hozzájárult. A bejelentő adatai egyértelmű hozzájárulása nélkül nem hozhatók nyilvánosságra.
-
-(4) Ha nyilvánvalóvá vált, hogy a bejelentő rosszhiszeműen járt el, és ezzel bűncselekményt vagy szabálysértést követett el; másnak kárt vagy egyéb jogsérelmet okozott, adatai az eljárás kezdeményezésére, illetőleg lefolytatására jogosult szerv vagy személy részére átadhatóak.
+#### 143. §
 
 #### 143/A. §
 

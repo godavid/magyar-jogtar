@@ -116,6 +116,22 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 8. § Az útdíjszedő, az útdíjszolgáltató és a bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendelet szerint meghatározott útdíj összegén felül nem számíthat fel a díjfizetésre kötelezettnek semmilyen további díjat vagy indokolatlan költséget az UD rendszerhez való hozzáférésért. Az úthasználati jogosultság ellenértékének meghatározásakor a jogszabályban meghatározott útdíj mértékétől nem lehet eltérni.
 
+8/A. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneiből eredő fizetési kötelezettsége 100%-ának teljesítéséért.
+
+(2) Az (1) bekezdés szerinti állami készfizető kezesség év végi állományát a költségvetési törvényben kell meghatározni.
+
+(3) A KAVOSZ Vállalkozásfejlesztési Zrt. (1) bekezdés szerinti hitelszerződése biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles.
+
+8/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára használati díj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökből eredő fizetési kötelezettség 80%-ának teljesítéséért.
+
+(2) Az (1) bekezdés szerinti állami készfizető kezesség csak a használati díj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
+
+(3) Az (1) bekezdés szerinti állami készfizető kezesség együttes év végi állományát a költségvetési törvényben kell meghatározni.
+
+(4) A KAVOSZ Vállalkozásfejlesztési Zrt. az (1) bekezdés szerinti kölcsönök biztosítékaként az állami készfizető kezességvállaláson túl további biztosíték előírására nem köteles.
+
+(5) A KAVOSZ Vállalkozásfejlesztési Zrt. által az (1) bekezdés szerinti hitelszerződéshez előírt, a szerződött hitelösszeg 20%-át és a hitelszerződés aláírásakor érvényes 3 havi ügyleti kamat együttes összegét meg nem haladó mértékű biztosítékok az (1) bekezdés szerinti állami készfizető kezesség beváltása esetén nem szállnak át az államra.
+
 #### 6. Mentesség a díj megfizetése alól
 
 9. § (1) Az útdíjfizetési és bevallási kötelezettség nem terheli:
@@ -374,7 +390,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - n) állapítsa meg a jármű kijelölt várakozási helyre szállításának és az ezzel kapcsolatos költségviselésnek a részletes szabályait;
 - o) állapítsa meg az úthasználó bevallással összefüggő kötelezettségeit, beleértve a fedélzeti eszköz üzemeltetésével, használatával és érvénytelenítésével kapcsolatos részletes szabályokat, valamint
 - p) állapítsa meg a bevallási közreműködővel szemben támasztott követelményeket, valamint a bevallási közreműködőkkel megkötendő szerződés tartalmi elemeit;
-- q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait.
+- q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
+- r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

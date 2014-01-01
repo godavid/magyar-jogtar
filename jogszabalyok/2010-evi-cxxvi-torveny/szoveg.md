@@ -87,7 +87,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (3) A kormánymegbízott illetményét a közigazgatás-szervezésért felelős miniszter – legfeljebb az illetményalap 28-szorosában – állapítja meg. A kormánymegbízott – amennyiben kormányrendelet másként nem rendelkezik – helyettes államtitkárt megillető juttatásokra jogosult.
 
-(4) A kormánymegbízottra az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény helyettes államtitkárra vonatkozó rendelkezéseit kell az illetménypótlékra és illetménykiegészítésre vonatkozó szabályok kivételével alkalmazni.
+(4) A kormánymegbízottra az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) helyettes államtitkárra vonatkozó rendelkezéseit kell az illetménypótlékra és illetménykiegészítésre vonatkozó szabályok kivételével alkalmazni.
 
 12. § (1) A fővárosi és megyei kormányhivatal hivatali szervezetét főigazgató vezeti.
 
@@ -183,7 +183,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (2) A megyei szakigazgatási szerv vezetője a járási szakigazgatási szerv kormánytisztviselői és munkavállalói tekintetében az (1) bekezdésben meghatározott munkavégzéssel összefüggő munkáltatói jogkörét célhoz kötötten, meghatározott esemény vagy történés bekövetkezte esetén gyakorolhatja. A megyei szakigazgatási szerv vezetője az érintett hivatalvezetőket írásban tájékoztatja az általa elrendelt intézkedésekről. Amennyiben a döntés elrendelése okafogyottá válik, a megyei szakigazgatási szerv vezetőjének javaslatára a kormánymegbízott haladéktalanul írásban visszavonja a döntését.
 
-20/D. § (1) A hivatalvezetőt a kormánymegbízott javaslatára a közigazgatás-szervezéséért felelős miniszter nevezi ki és menti fel. A hivatalvezető felett – a kinevezés, a felmentés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja.
+20/D. § (1) A hivatalvezetőt a kormánymegbízott javaslatára a közigazgatás-szervezésért felelős miniszter nevezi ki és menti fel. A hivatalvezető felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja. Amennyiben a hivatalvezetővel szemben fegyelmi büntetésként hivatalvesztés büntetés kiszabása indokolt, a kormánymegbízott erre irányuló javaslatáról a közigazgatás-szervezésért felelős miniszter dönt. A kormánymegbízott javaslatában tájékoztatja a közigazgatás-szervezésért felelős minisztert a lefolytatott fegyelmi eljárás megállapításairól, eredményéről, valamint a fegyelmi vétség egyéb releváns körülményeiről.
 
 (2) Hivatalvezetői munkakörbe az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a megyei közgyűlési elnöki és a polgármesteri tisztség ellátása is.
 
@@ -199,7 +199,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (5) A hivatalvezető további munkavégzésre irányuló jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
-(6) A hivatalvezető illetményét a kormánymegbízott javaslatára a közigazgatás-szervezésért felelős miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 18-szorosában állapítja meg. A hivatalvezetőre a törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvényben a főosztályvezetőre vonatkozó rendelkezéseket kell alkalmazni.
+(6) A hivatalvezető illetményét a kormánymegbízott javaslatára a közigazgatás-szervezésért felelős miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 18-szorosában állapítja meg. A hivatalvezetőre a törvényben nem szabályozott kérdésekben a Kttv.-ben a főosztályvezetőre vonatkozó rendelkezéseket kell alkalmazni.
 
 20/E. § (1) A hivatalvezetőt hivatalvezető-helyettes helyettesíti, a hivatalvezető-helyettes főosztályvezető-helyettes besorolású kormánytisztviselő. A hivatalvezető-helyettest a hivatalvezető javaslatára a kormánymegbízott nevezi ki és szünteti meg a jogviszonyát. A hivatalvezető-helyettes felett – a kinevezés, a jogviszony-megszüntetés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a hivatalvezető gyakorolja.
 
@@ -208,6 +208,10 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 (3) A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a kormánymegbízott – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 16-szorosában állapítja meg.
 
 20/F. § A járási szakigazgatási szerv vezetőjét a hivatalvezető javaslatára – amennyiben kormányrendelet kivételt nem tesz – a megyei szakigazgatási szerv vezetője nevezi ki és szünteti meg a jogviszonyát, valamint gyakorolja a kinevezésének módosításával kapcsolatos munkáltatói jogot. A járási szakigazgatási szerv vezetőjének kinevezni, illetve felmenteni javasolt személyről a megyei szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a kinevezni, illetve felmenteni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a járási szakigazgatási szerv vezetőjének, illetve nem kerülhet felmentésre. A járási szakigazgatási szerv vezetője főosztályvezető-helyettes besorolású kormánytisztviselő.
+
+20/G. § (1) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely a kormányablak hatáskörébe tartozik, ideértve, amikor a kormányablak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) 19. § (1a) bekezdése alapján jár el, úgy a kormányablak eljárásáért a jogszabályban meghatározott igazgatási szolgáltatási díj – ha jogszabály eltérően nem rendelkezik – a fővárosi és megyei kormányhivatal bevételét képezi, és azt a közigazgatás-szervezésért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
+
+(2) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely eljárásban a kormányablak a Ket. szerinti közreműködő hatóságként jár el, és a kérelem a kormányablakhoz kerül benyújtásra, úgy a jogszabályban meghatározott igazgatási szolgáltatási díjat a közigazgatás-szervezésért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
 
 #### 10. Záró rendelkezések
 
@@ -225,10 +229,14 @@ rendeletben határozza meg.
 21/A. § Felhatalmazást kap a Kormány, hogy
 
 - a) a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét,
-- b) a járási (fővárosi kerületi) hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működése szabályait, a kormányablakok működésének személyi és technikai feltételeit
+- b) a járási (fővárosi kerületi) hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működése szabályait,
 - c) a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait
 
 rendeletben határozza meg.
+
+21/B. § (1) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a kormányablakok működésének személyi és technikai feltételeit rendeletben szabályozza.
+
+(2) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a kormányablaknak a saját hatáskörben, illetve közreműködő hatóságként történő eljárására vonatkozóan az igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 22. § (1) Ez a törvény – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
@@ -242,36 +250,7 @@ rendeletben határozza meg.
 
 (2) A fővárosi kormányhivatal a fővárosi közigazgatási hivatal általános jogutódja.
 
-24. § (1)
-
-(2)
-
-(3)
-
-(4) Az (1) bekezdéstől eltérően az igazságügyi alkalmazotti szolgálati viszony munkajogviszonnyá alakul át, ha az igazságügyi alkalmazott a munkakörére tekintettel a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény hatálya alá tartozó munkáltatóval nem állhat kormánytisztviselői jogviszonyban. Ebben az esetben az igazságügyi alkalmazott átalakulás utáni munkabére legfeljebb az azonos szolgálati idővel rendelkező kormányzati ügykezelő alapilletményének megfelelő összegben határozható meg azzal, hogy a havi munkabér megállapítása során a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 19. § (1) és (2) bekezdésében meghatározott illetménykiegészítéseket is figyelembe kell venni. Az illetmény összegével kapcsolatos tájékoztatást a jogviszony átalakulást követő 15 napon belül meg kell adni.
-
-(5)
-
-25. § (1)
-
-(2)
-
-(3)
-
-(4) Az átalakult jogviszony esetén a kormánytisztviselő igazságügyi alkalmazotti szolgálati viszonyban töltött idejét úgy kell tekinteni, mintha azt az államigazgatási szervnél töltötte volna el.
-
-(5) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél foglalkoztatott kormánytisztviselő esetében a végkielégítés összegének a meghatározásánál szolgálati viszonyban töltött időként az igazságügyi és az ügyészi szerveknél megszakítás nélkül eltöltött idő, az ismételten létesített szolgálati viszony megszűnésekor pedig csak a korábbi végkielégítést követően e szerveknél eltöltött idő vehető figyelembe. A pártfogó felügyelő esetében szolgálati viszonyban töltött időnek minősül a gyámhatóságnál megszakítás nélkül köztisztviselőként és más szervnél azonos jellegű munkakörben köztisztviselőként vagy közalkalmazottként eltöltött idő is. A Központi Kárrendezési Irodától (a továbbiakban: KKI) áthelyezett kormánytisztviselő esetében kormánytisztviselői jogviszonyban töltött időnek minősül a KKI-nál és jogelődjénél köztisztviselőként eltöltött idő is.
-
-(6) Az igazságügyi alkalmazott korábbi vezetői beosztása e törvény hatálybalépésével egyidejűleg vezetői munkakörré alakul át; az Igazságügyi Hivatal
-
-- a) főigazgatója helyettes államtitkári illetményre és juttatásra,
-- b) főigazgató-helyettese főosztályvezetői illetményre,
-- c) főosztályvezetője, főosztályvezető-helyettese, igazgatója és igazgatóhelyettese főosztályvezető-helyettesi illetményre,
-- d) osztályvezetője, osztályvezető-helyettese, titkárságvezetője, pártfogói foglalkoztató vezetője és csoportvezetője osztályvezetői illetményre jogosult.
-
-26. § (1) Ha az igazságügyi alkalmazott a korábbi jogviszonyok alapján a jubileumi jutalom valamely fokozatában részesült, az ugyanazon fokozat szerinti jutalom ismételten nem illeti meg.
-
-(2) Ha a jogviszony átalakulása időpontjában munkaügyi per fegyelmi elbocsátás tekintetében folyik, a munkavállalói kereset elbírálásánál a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni.
+24–26. §
 
 27. § E törvény 64. alcíme az európai területi együttműködési csoportosulásról szóló, 2006. július 5-i 1082/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

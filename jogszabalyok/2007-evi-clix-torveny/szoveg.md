@@ -27,7 +27,7 @@ a viszontbiztosítókról
 - 1. anyavállalat, leányvállalat, ellenőrző befolyás:
   - a) anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol,
   - b) leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni,
-  - c) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) meghatározott fogalom;
+  - c) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) meghatározott fogalom;
 - 2. alárendelt kölcsöntőke: minden, ténylegesen a viszontbiztosító rendelkezésére bocsátott kölcsön, ha a kölcsönszerződés tartalmazza, hogy a kölcsön a viszontbiztosító adósságának rendezésébe bevonható; a kölcsönt nyújtó követelése a törlesztések sorrendjében a tulajdonosok előtti legutolsó helyen áll és a kölcsön eredeti futamideje az 5 évet meghaladja;
 - 3. azonosító adatok:
   - a) természetes személy személyazonosító és lakcímadatai: természetes személyazonosító adatok, állampolgárság, lakcím, postacím,
@@ -752,7 +752,7 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 - b) a részvénytársaságnál a visszavásárolt saját részvények értékét,
 - c) a nem életbiztosítási ágban működő viszontbiztosító esetén, amennyiben a viszontbiztosító a nem életbiztosítási ág függőkártartalékát a jövőbeni hozamokat figyelembe véve diszkontáltan számítja, a Bit. 1. számú melléklet A) részének 1. és 2. pontjaiban meghatározott ágazatokat és a függőkár tartalékba foglalt járadék értékeket kivéve valamennyi nem életbiztosítási ágazatban, a diszkontálás előtti és a diszkontált függőkártartalék különbözetét,
 - d) a viszontbiztosítónak az olyan biztosítóban, harmadik országbeli biztosítóban, viszontbiztosítóban, harmadik országbeli viszontbiztosítóban vagy biztosítói holding társaságban birtokolt – a 65. § (2) bekezdés h) pontja szerinti – osztalék elsőbbségi részvény és – a 65. § (2) bekezdés g) pontja szerinti – alárendelt kölcsöntőke értékét, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
-- e) a viszontbiztosítónak az olyan hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban birtokolt – a Hpt. 5. számú melléklete szerinti – osztalékelsőbbségi részvény és alárendelt kölcsöntőke értékét, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik.
+- e) a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 49. és 70. cikke szerinti azon tőkeelemek értékét, amelyeket a biztosító olyan hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban birtokolt, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
 
 (3) A 3. számú mellékletben meghatározott minimális szavatoló tőke szükséglet számítását és fedezetének kimutatását az éves beszámolóval egyidejűleg kell elkészíteni és a Felügyelet részére megküldeni. A viszontbiztosító a negyedéves adatszolgáltatás keretében tájékoztatja a Felügyeletet a minimális szavatoló tőke szükséglete, valamint a rendelkezésre álló szavatoló tőkéje becsült értékéről.
 
@@ -762,7 +762,7 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 
 67. § A minimális szavatoló tőke szükséglet egyharmada képezi a viszontbiztosító biztonsági tőkéjét akkor, ha ez nagyobb, mint a 68. §-ban meghatározott minimális szint. Egyébként a viszontbiztosító biztonsági tőkéje megegyezik a 68. § szerinti minimális összeggel.
 
-68. § A részvénytársaság, a szövetkezet és a harmadik országbeli viszontbiztosító fióktelepének biztonsági tőkéje legalább 3 200 000 euró. Zárt viszontbiztosító esetén a biztonsági tőke összege legalább 1 100 000 euró.
+68. § A részvénytársaság, a szövetkezet és a harmadik országbeli viszontbiztosító fióktelepének biztonsági tőkéje legalább 3 400 000 euró. Zárt viszontbiztosító esetén a biztonsági tőke összege legalább 1 200 000 euró.
 
 ### II. Fejezet — A PÉNZÜGYI, A SZANÁLÁSI ÉS A PÉNZÜGYI HELYREÁLLÍTÁSI TERV
 
@@ -988,7 +988,7 @@ alapján, az abban foglalt kötelezettség teljesítése érdekében tájékozta
 - a) az olyan összesített adatok szolgáltatása, amelyből az egyes ügyfelek személye vagy üzleti adata nem állapítható meg,
 - b) fióktelep esetében a külföldi székhelyű vállalkozás székhelye (főirodája) szerinti felügyeleti hatóság számára a felügyeleti tevékenységhez szükséges adattovábbítás, ha az megfelel a külföldi és a magyar felügyeleti hatóság közötti megállapodásban foglaltaknak,
 - c) a jogalkotás megalapozása és a hatásvizsgálatok elvégzése céljából a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) részére személyes adatnak nem minősülő adatok átadása,
-- d) az összevont alapú felügyelet és a kiegészítő felügyeleti feladatok ellátása a Tpt. XIX/B. fejezetében, valamint a Hpt. XIV/A. fejezetében foglalt rendelkezések teljesítése érdekében történő adatátadás.
+- d) az összevont alapú felügyelet és a kiegészítő felügyeleti feladatok ellátása a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás.
 
 (2) Az (1) bekezdésben meghatározott adatok átadását a viszontbiztosító a biztosítási titok védelmére hivatkozva nem tagadhatja meg.
 
@@ -1432,7 +1432,9 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítási piac bizton
 
 (2)
 
-133–154. §
+133. § A tevékenységi engedéllyel rendelkező viszontbiztosítónak az e törvénynek – az egyes pénzügyi tárgyú törvények módosításáról szóló törvény által megállapított – 68. §-ában meghatározottaknak legkésőbb 2014. július 1-jétől kell megfelelni.
+
+134–154. §
 
 ### Felhatalmazó rendelkezések
 

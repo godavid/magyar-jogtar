@@ -68,6 +68,8 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 - 26. víziközmű üzemeltetése: a víziközmű-szolgáltatás nyújtása céljából a víziközmű-szolgáltató által végzett mindazon tevékenységek összessége, amelyek a jogszabályokban és az üzemeltetési szerződésben előírt követelmények teljesítése érdekében okszerűen merülnek fel, különösen a víziközmű műszaki értelemben vett napi üzemben tartása, karbantartása és javítása, közüzemiszerződés-kötés, számlázás, ügyfélszolgálat működtetése,
 - 27. víziközműves kapcsolódó szolgáltatás: szerződés alapján a víziközmű-szolgáltató által más víziközmű-szolgáltató részére nyújtott ivóvíz-értékesítési vagy szennyvízelvezetési és -tisztítási szolgáltatás,
 - 28. holding: a számvitelről szóló törvény szerint anyavállalatnak és leányvállalatnak minősülő társaságok együttese, ahol az anyavállalat egyidejűleg megfelel a nemzeti vagyonról szóló törvény tulajdonosi joggyakorlóval szemben támasztott követelményeinek is.
+- 29. védendő felhasználó: az a természetes személy felhasználó, ideértve a mellékvízmérővel rendelkező elkülönített vízhasználót, valamint a fogyatékkal élő felhasználót is, aki jogszabályban meghatározott szociális helyzete alapján a víziközmű-szolgáltatásban megkülönböztetett feltételek szerint vehet részt,
+- 30. fogyatékkal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti.
 
 ### II. Fejezet — A VÍZIKÖZMŰVEKKEL KAPCSOLATOS FELADAT- ÉS HATÁSKÖRÖK
 
@@ -163,11 +165,21 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 
 10. § (1) A víziközmű-fejlesztés megvalósításáról – ha e törvény másként nem rendelkezik – az ellátásért felelős gondoskodik.
 
-(2) Ha üzemeltetési szerződés alapján a víziközmű-fejlesztést a víziközmű-szolgáltató végzi, akkor a víziközmű az üzembe helyezésének napjával az ellátásért felelős tulajdonába kerül, vagy az ellátásért felelős jogosult arra vonatkozó vízvezetési szolgalmi jog alapítására.
+(2) Ha a víziközmű-fejlesztést a víziközmű-szolgáltató végzi, akkor a víziközmű az üzembe helyezésének napjával az ellátásért felelős tulajdonába kerül, és az ellátásért felelős jogosult arra vonatkozó vízvezetési szolgalmi jog alapítására.
 
-(3)
+(3) Ha az ellátásért felelős és a víziközmű-szolgáltató üzemeltetési szerződésben a víziközmű-szolgáltató beruházásában megvalósuló víziközmű térítésmentes átruházásáról állapodik meg, a térítésmentes vagyonátruházás az általános forgalmi adó, valamint az energiaellátók jövedelemadója szempontjából közcélú adománynak, a társasági adó szempontjából a víziközmű-szolgáltató vállalkozási, bevételszerző tevékenyégével összefüggő költségnek, ráfordításnak minősül. A vagyonátruházás akkor sem jár a társasági adó, illetve az energiaellátók jövedelemadó alapjának növelésével, ha az átadás a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozások között történik.
 
-#### 11. §
+11. § (1) A víziközmű-szolgáltatás hosszú távú biztosíthatósága érdekében – a fenntartható fejlődés szempontjaira tekintettel – víziközmű-szolgáltatási ágazatonként tizenöt éves időtávra gördülő fejlesztési tervet kell készíteni. A gördülő fejlesztési terv felújítási és pótlási tervből, valamint beruházási tervből áll.
+
+(2) A (3) bekezdésben foglalt eltérésekkel a felújítási és pótlási tervet a víziközmű-szolgáltató, a beruházási tervet az ellátásért felelős készíti el, és nyújtja be minden év szeptember 15-ig a Hivatalhoz.
+
+(3) Bérleti-üzemeltetési szerződés alapján végzett víziközmű-működtetés esetében a felújítási és pótlási tervet az ellátásért felelős, építési koncessziós szerződés alapján végzett víziközmű-működtetés esetében a beruházási tervet a víziközmű-szolgáltató készíti el és nyújtja be.
+
+(4) Az az ellátásért felelős vagy víziközmű-szolgáltató, aki nem minősül az adott víziközmű-rendszerre vonatkozó felújítási és pótlási terv, vagy beruházási terv tekintetében benyújtásra kötelezettnek, annak tartalmára nézve véleményezési joggal rendelkezik. Az írásba foglalt véleményeltérés a jóváhagyásra benyújtott terv mellékletét képezi.
+
+(5) Amennyiben a víziközmű-szolgáltató az üzemeltetési jogviszony tartalma szerint nem kötelezettje, vagy egyéb szerződéses jogviszony alapján nem kivitelezője a víziközműre irányuló beruházásnak, vagy a tervszerű rekonstrukciós, felújítási és pótlási munkáknak, kötelezettsége azok bonyolítási feladatait a víziközmű-szolgáltatás érdekében felmerülő tevékenységei részeként elvégezni.
+
+(6) A Hivatal a jóváhagyott felújítási és pótlási tervben, valamint beruházási tervben foglaltak végrehajtását ellenőrzi.
 
 #### 5. A víziközművek vagyonértékelése, nyilvántartása
 
@@ -175,7 +187,22 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 
 (2) A vagyonértékelés az üzemeltetési szerződés mellékletét képezi.
 
-#### 13. §
+13. § (1) A víziközmű-szolgáltató az általa működtetett víziközművekről víziközmű térképi nyilvántartást vezet. A nyilvántartás adatállományának tulajdonjoga az ellátásért felelőst illeti.
+
+(2) A víziközmű térképi nyilvántartás vezetéséhez szükséges informatikai eszközök (hardverek és programalkotások) felhasználói jogára vagy tulajdonjogára a víziközmű-tulajdonos kizárólag azok forgalmi értékének megtérítése ellenében tarthat igényt. A szerzői joggal védett programalkotások esetében a felhasználói jog vagy a tulajdonjog átruházásához a szerzői jog jogosultjának előzetes írásbeli hozzájárulása szükséges.
+
+(3) A víziközmű térképi nyilvántartásba betekinthet, az abban foglaltakról feljegyzést készíthet, valamint adatot kérhet, aki
+
+- a) személyét azonosítja, és
+  - aa) írásban nyilatkozik, hogy a víziközművel kapcsolatba hozható beruházást vagy egyéb munkálatot kíván végezni, vagy
+  - ab) írásban igazolja, hogy az adatmegismerési joga érvényesítéséhez, vagy jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges, és
+- b) az adatközlés díját megtérítette.
+
+(4) A víziközmű tulajdonosának – a tulajdonában álló víziközmű tekintetében – a víziközmű térképi nyilvántartás adataihoz való hozzáférését korlátozás- és díjmentesen kell biztosítani.
+
+(5) A víziközmű-szolgáltató a bíróság, az ügyészség, az ellátott területen működő települési önkormányzat és az illetékes közigazgatási hatóságok részére a víziközművel kapcsolatos hatósági feladataik ellátásához, az ahhoz szükséges mértékben, díjmentesen biztosítja a víziközmű térképi nyilvántartás tartalmának megismerését.
+
+(6) A víziközmű-szolgáltató díjmentesen szolgáltatja az egységes elektronikus közműnyilvántartást üzemeltető szervezet részére a vízellátási, illetve vízelvezetési szakág feladatkörébe tartozó publikálandó objektumokat.
 
 #### 6. A víziközmű működtető eszközök
 
@@ -381,7 +408,7 @@ alapul.
 38. § (1) A Hivatal a víziközmű-szolgáltató e törvényben, a végrehajtására kiadott jogszabályokban vagy a Hivatal által kiadott határozatokban meghatározott kötelezettségeinek megszegése esetében
 
 - a) a jogkövetkezményekre való utalás mellett írásban felszólítja a víziközmű-szolgáltatót a kötelezettségei betartására,
-- b) kormányrendeletben meghatározott mértékű bírságot szabhat ki a jogsértés tárgyi súlyára tekintettel,
+- b) bírságot szabhat ki a jogsértés tárgyi súlyára tekintettel,
 - c) az engedélyt módosíthatja vagy visszavonhatja, ha a víziközmű-szolgáltató az a) pont szerinti felszólítás és a b) pont szerinti bírság kiszabása ellenére nem szünteti meg a jogsértést vagy nem teljesíti kötelezettségét,
 - d) az engedélyt módosítja, ha az engedély kiadásának feltételei már nem állnak fenn, és engedélymódosítással a jogszerű állapot helyreállítható,
 - e) az engedélyt visszavonja, ha
@@ -393,7 +420,7 @@ alapul.
 
 (2) A Hivatal az (1) bekezdés c)–e) pontjában foglalt jogkövetkezménnyel egyidejűleg az (1) bekezdés b) pontja szerinti jogkövetkezményt is alkalmazhatja.
 
-(3) A Hivatal az ellátásért felelőssel szemben az e törvényben vagy a felhatalmazása alapján kiadott külön jogszabályban foglalt kötelezettségeinek megszegése esetében az (1) bekezdés a)–b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
+(3) A Hivatal az ellátásért felelőssel szemben jogszabályban vagy a Hivatal által kiadott határozatban meghatározott kötelezettségeinek megszegése esetében az (1) bekezdés a)–b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
 (4) A folyamatos és biztonságos ellátás érdekében az üzemeltetési szerződés megszűnéséig, valamint a felszámolás vagy a végelszámolás befejezéséig a víziközmű-szolgáltatást és az annak teljesítéséhez szükséges tevékenységeket folyamatosan fenn kell tartani.
 
@@ -417,6 +444,37 @@ alapul.
 (8) Engedély visszavonása esetében a víziközmű-szolgáltató üzemeltetési szerződéseit a (6) bekezdésben foglaltaknak megfelelően megszünteti.
 
 40. § Víziközmű-szolgáltatás engedély nélküli végzése esetében a Hivatal a tevékenység végzőjét azonnali hatállyal eltiltja a tevékenység folytatásától, továbbá a tevékenység végzőjével szemben a 38. § (1) bekezdés a)–b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
+
+40/A. § (1) A Hivatal a bírságot a rendelkezésére álló adatok figyelembevételével, a 41. § szerint, a 2. mellékletben meghatározott mértékben állapítja meg.
+
+(2) A Hivatal víziközmű-védelmi bírságot vagy rendkívüli bírságot szabhat ki.
+
+(3) A bírság a kötelezettség ismételt megszegése, a jogellenes állapot megszüntetésének elmulasztása vagy fenntartása esetén ismételten is kiszabható.
+
+(4) A bírságot legkésőbb a határozat jogerőre emelkedését követő 15. napon kell megfizetni.
+
+(5) Ha a jogellenes állapot elháríthatatlan külső ok miatt alakult ki, és a helyzet orvoslása érdekében az arra kötelezett minden tőle elvárható intézkedést haladéktalanul megtett, a Hivatal bírságot nem alkalmaz.
+
+40/B. § (1) Víziközmű-védelmi bírság szabható ki, ha
+
+- a) az ellátásért felelős
+  - aa) az üzemeltetési szerződés megkötésére irányuló pályázatot a Hivatal jóváhagyása nélkül írta ki,
+  - ab) megszegi a használati díj kezelésére és felhasználására vonatkozó, a 18. §-ban rögzített szabályokat;
+- b) a víziközmű-szolgáltató
+  - ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott jogerős működési engedély vagy az üzemeltetési szerződés, beszerzési szabályzat, üzletszabályzat jóváhagyása nélkül folytatja,
+  - bb) a víziközmű-üzemeltetési feladatainak elvégzésében a kiszervezésre vonatkozó szabályok megsértésével, nem engedélyezett vagy előzetesen be nem jelentett személyt vesz igénybe,
+  - bc) a 42. §-ban meghatározott cégjogi változást a Hivatal hozzájárulása nélkül kérelmez,
+  - bd) a tevékenységét a beszerzési szabályzat, üzletszabályzat Hivatal általi jóváhagyása nélkül folytatja;
+- c) az ellátásért felelős vagy a víziközmű-szolgáltató a Hivatal által jóváhagyott felújítási és pótlási tervben, illetve a beruházási tervben foglaltak végrehajtását elmulasztotta.
+
+(2) Rendkívüli bírság szabható ki, ha a víziközmű-szolgáltató:
+
+- a) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét – a vízügyi hatóság hatáskörébe nem tartozó esetkörben – neki felróható módon nem a jogszabályi vagy hatósági előírásoknak megfelelően folytatja,
+- b) a víziközmű üzemeltetése körében a rábízott víziközmű-vagyon fenntartható működését veszélyezteti,
+- c) keresztfinanszírozást alkalmaz,
+- d) jogszabálysértő díjat vagy árat alkalmaz,
+- e) az általa működtetett szolgáltatással kapcsolatban nem teljesíti a jogszabályban, engedélyben, üzletszabályzatban vagy a felhasználókkal kötött szerződésekben meghatározott előírást,
+- f) a Hivatal részére rosszhiszeműen, valótlan adatot közölt.
 
 41. § (1) Bírság kiszabásakor a Hivatal mérlegeli a jogsértés körülményeit, különös tekintettel
 
@@ -464,7 +522,7 @@ alapul.
 
 (4) A víziközmű-szolgáltató az üzemeltetési szerződésben meghatározott feltételek szerint jogosult a víziközművel a víziközmű-szolgáltatáson kívüli vállalkozási tevékenységet is folytatni, feltéve hogy az nem veszélyezteti a víziközmű-szolgáltatás folyamatos és biztonságos ellátását, továbbá nem okoz a víziközműben állagromlást.
 
-44. § (1) Az országos víziközmű-szolgáltatói érdekszövetség jogalkotási feladatokra, intézkedések megtételére vonatkozó javaslatot tehet a kormány, illetve a miniszter számára, valamint konzultációt folytathat a víziközmű-szolgáltatást érintő stratégiai kérdésekről.
+44. § (1) Az országos víziközmű-szolgáltatói érdekszövetség jogalkotási feladatokra, intézkedések megtételére vonatkozó javaslatot tehet a kormány, illetve a víziközmű-szolgáltatásért felelős miniszter (a továbbiakban: miniszter) számára, valamint konzultációt folytathat a víziközmű-szolgáltatást érintő stratégiai kérdésekről.
 
 (2) Az (1) bekezdés alkalmazásában azt a szervezetet kell országos víziközmű-szolgáltatói érdekszövetségnek tekinteni, amelynek tagjai együttesen a Hivatal által nyilvántartott felhasználói egyenérték több mint 50%-ával rendelkeznek.
 
@@ -498,7 +556,7 @@ végezhet.
 
 46. § A víziközmű-szolgáltató e törvényben meghatározott kötelezettségei teljesítésével kapcsolatos beszerzésre, kiválasztásra és megbízásra – ha jogszabály másként nem rendelkezik – az e törvény végrehajtására kiadott kormányrendeletben, valamint a Hivatal által jóváhagyott beszerzési szabályzatban meghatározott feltételeket és eljárásokat kell alkalmazni.
 
-47. § (1) A víziközmű-szolgáltató üzletszabályzatot dolgoz ki és azt jóváhagyásra benyújtja a Hatósághoz.
+47. § (1) A víziközmű-szolgáltató üzletszabályzatot dolgoz ki és azt jóváhagyásra benyújtja a Hivatalhoz.
 
 (2) Az üzletszabályzat tartalmazza a víziközmű-szolgáltató által a felhasználók részére nyújtott víziközmű-szolgáltatások általános műszaki, kereskedelmi, elszámolási és fizetési szerződési feltételeit.
 
@@ -558,11 +616,16 @@ végezhet.
 
 52. § (1) Közműves ivóvízellátás esetében az elszámolás a bekötési vízmérő mérési adatain alapul.
 
-(2) A bekötési vízmérő és a mellékvízmérők mérési különbözetéből megállapított különbözetet a bekötési vízmérő szerinti felhasználó fizeti meg a víziközmű-szolgáltatónak.
+(2) A bekötési vízmérő és a mellékvízmérők mérési különbözeteként megállapított vízfogyasztás utáni víziközmű-szolgáltatási díjat a bekötési vízmérő szerinti felhasználó fizeti meg a víziközmű-szolgáltatónak.
 
-(3) Szennyvízelvezetés és -tisztítás esetében az elszámolás a szennyvízelvezetési helyről a szennyvízelvezető víziközműbe kerülő szennyvíz mért mennyiségén alapul. Mérés hiányában az elszámolásnál az (1) bekezdés szerint mért ivóvízmennyiség és a más vízilétesítményből származó vízmennyiség összesített mennyiségét kell figyelembe venni, csökkentve a – jogszabály alapján kiadott engedély alapján – más vízilétesítmény részét képező szennyvízelvezető műbe elhelyezett szennyvízmennyiséggel. A víziközmű-szolgáltató a felhasználóval a közüzemi szerződésben ettől eltérően is megállapodhat. A más vízilétesítményből származó vízmennyiséget hiteles vízmérő berendezéssel kell megmérni, és annak mérési adatait a víziközmű-szolgáltató rendelkezésére kell bocsátani.
+(2a) Az (1) és (2) bekezdéstől eltérően a víziközmű-szolgáltatási díj elszámolásának alapja a mellékvízmérőkön mért fogyasztás, ha
 
-(4) A mérés kialakítása ellenőrzésének, valamint a mérőállás ellenőrzésének lehetőségét a víziközmű-szolgáltató részére biztosítani kell.
+- a) a bekötési vízmérő mellett az elkülönített vízhasználók elkülönített vízhasználati helye és más vízvételi helyek kizárólag hiteles, plombával vagy záró bélyeggel ellátott mellékvízmérőkkel és hatályos mellékszolgáltatási szerződéssel rendelkeznek, és
+- b) a mellékvízmérőkön és a bekötési vízmérőn mért fogyasztási adatok, valamint a helyszíni ellenőrzés alapján a csatlakozó hálózati szakaszon a karbantartás elmaradására visszavezethető vízveszteség vagy az elszámolatlan vízvétel lehetősége kizárható.
+
+(3) Szennyvízelvezetés és -tisztítás esetében az elszámolás a szennyvízelvezetési helyről a szennyvízelvezető szennyvíz-törzshálózatba bocsátott szennyvíz mennyiségén alapul, csökkentve azt más szennyvízelvezető műbe szabályosan elvezetett vagy elhelyezett szennyvízmennyiséggel. Az elszámolás alapját képező szennyvízmennyiség meghatározásának részletes szabályait az e törvény felhatalmazása alapján kiadott kormányrendelet rögzíti.
+
+(4) A bekötési vízmérő, a mellékvízmérők, a házi ivóvíz- és szennyvízhálózat, továbbá a csatlakozó hálózat minden eleme és tartozéka ellenőrzésének lehetőségét a felhasználó és az elkülönített vízhasználó az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon biztosítja a víziközmű-szolgáltató részére.
 
 53. § (1) Adott felhasználási hely tekintetében a közüzemi szerződés megszűnik, ha
 
@@ -598,7 +661,7 @@ végezhet.
 - a) a vízellátó rendszerre történő bekötési kötelezettség alól, ha hatályos vízjogi üzemeltetési engedéllyel üzemeltet saját célú vízellátó létesítményt,
 - b) a szennyvízelvető rendszerre történő bekötési kötelezettség alól, ha hatályos vízjogi üzemeltetési engedéllyel üzemeltet egyedi szennyvízkezelő létesítményt, egyedi zárt szennyvíztárolót vagy saját célú szennyvíztisztító telepet.
 
-(6) A környezetvédelmi és vízügyi hatóság az ingatlan tulajdonosát közérdekből – tekintet nélkül az (1) és (2) bekezdésben meghatározott határidőre vagy az (1) bekezdésben meghatározott feltételre – kötelezi az ingatlan beköttetésére, és ezzel a víziközmű-szolgáltatás igénybevételére, ha a saját célú vízellátó létesítmény, egyedi szennyvízkezelő létesítmény vagy egyedi zárt szennyvíztároló közegészségügyi, környezetvédelmi vagy vízgazdálkodási szempontból káros hatása állapítható meg.
+(6) A vízügyi hatóság az ingatlan tulajdonosát közérdekből – tekintet nélkül az (1) és (2) bekezdésben meghatározott határidőre vagy az (1) bekezdésben meghatározott feltételre – kötelezi az ingatlan beköttetésére, és ezzel a víziközmű-szolgáltatás igénybevételére, ha a saját célú vízellátó létesítmény, egyedi szennyvízkezelő létesítmény vagy egyedi zárt szennyvíztároló közegészségügyi, környezetvédelmi vagy vízgazdálkodási szempontból káros hatása állapítható meg.
 
 (7) Az állam mint tulajdonos az (1) és (2) bekezdés szerinti kötelezettségek, továbbá a felhasználó díjtartozása vonatkozásában felmerülő mögöttes felelősség alól mentesül a Nemzeti Eszközkezelő Zrt. által a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján megvásárolt lakóingatlanok esetében.
 
@@ -612,7 +675,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (2) A vízközmű szolgáltató a víziközmű-szolgáltatás szüneteltetését és a víziközmű-szolgáltatás ismételt megindítását a nyilatkozatban megjelölt időpontban, de legkorábban annak érkeztetésétől számított tizenöt napon belül teljesíti.
 
-58. § (1) A víziközmű-szolgáltató – a létfenntartási, a közegészségügyi és a katasztrófa-elhárítási vízigények teljesítése mellett – a fővárosi és a megyei kormányhivatal népegészségügyi szakigazgatási szervének (a továbbiakban együtt: megyei népegészségügyi szakigazgatási szerv) ellentétes állásfoglalása hiányában:
+58. § (1) A víziközmű-szolgáltató – a létfenntartási, a közegészségügyi és a katasztrófa-elhárítási vízigények teljesítése mellett – a fővárosi és a megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének (a továbbiakban: járási népegészségügyi intézet) hozzájárulásával:
 
 - a) a közüzemi ivóvíz-szolgáltatást külön berendezés beépítésével időben és mennyiségben korlátozhatja,
 - b) az átfolyó ivóvíz mennyiségét csökkentő szűkítőt helyezhet el,
@@ -628,22 +691,37 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 - a) a lakossági felhasználó fizetési kötelezettségével 60 napot meghaladó késedelembe esett,
 - b) a lakossági felhasználó által fizetési haladék adásáról vagy részletfizetési lehetőségről kezdeményezett egyeztetés esetében az egyeztetés a víziközmű-szolgáltatóval nem vezetett eredményre, vagy az (1) bekezdés d) pontjának alkalmazásában egyeztek meg,
-- c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, valamint
-- d) a felhasználási hely fekvése szerint illetékes megyei népegészségügyi szakigazgatási szervet a (4) bekezdésben foglaltak szerint értesítette.
+- c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, és az első felszólításban a szociálisan rászoruló felhasználó figyelmét felhívta az e törvény és a végrehajtására kiadott kormányrendelet alapján őt megillető kedvezményekre, valamint
+- d) a felhasználási hely fekvése szerint illetékes járási népegészségügyi intézetet a (4) bekezdésben foglaltak szerint értesítette.
 
-(4) A lakossági felhasználó felszólítása az átvétel igazolására alkalmas módon történik. A megyei népegészségügyi szakigazgatási szervet első alkalommal a felszólítással egyidejűleg, második alkalommal 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
+(4) A lakossági felhasználó (3) bekezdés c) pontja szerinti első felszólítása postai vagy a lakossági felhasználó általi átvétel igazolására alkalmas egyéb – a felhasználó előzetes hozzájárulása esetén elektronikus – módon, a felfüggesztés vagy a korlátozás lehetőségére vonatkozó második felszólítása tértivevényes levélben történik. A járási népegészségügyi intézetet a második felszólítással egyidejűleg, legalább 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
 
 (5) A létfenntartási és közegészségügyi vízigények teljesítéséhez szükséges ivóvízellátást a víziközmű-szolgáltató a kormányrendeletben meghatározottak szerint biztosítja.
 
 (6) A létfenntartási és közegészségügyi vízigényeknek eleget tevő ivóvízellátás érdekében a víziközmű-szolgáltató – az ellátásért felelős előzetes értesítése és a települési önkormányzat hozzájárulása esetében – a víziközmű tulajdonosának költségére közkifolyót helyezhet el. A közkifolyó üzemeltetésének költségeit a települési önkormányzat fizeti meg a víziközmű-szolgáltató részére.
 
-(7) A települési önkormányzat a (6) bekezdés szerinti hozzájárulását kizárólag abban az esetben tagadhatja meg, ha a víziközmű-szolgáltató nem igazolja, hogy az (1) bekezdés a), b) vagy d) pontja szerinti valamely intézkedés végrehajtása a felhasználónak felróható okból hiúsult meg.
+(7) A települési önkormányzat a (6) bekezdés szerinti hozzájárulását megadja, ha a víziközmű-szolgáltató igazolja, hogy az (1) bekezdés a), b) vagy d) pontja szerinti valamely intézkedés végrehajtását megkísérelte, de azt a felhasználó meghiúsította.
 
 (8) A víziközmű-szolgáltató a felhasználó fizetési kötelezettsége teljesítésének igazolását követően a víziközmű-szolgáltatást 3 naptári napon belül teljeskörűen visszaállítja.
 
 (9) A víziközmű-szolgáltató az e §-ban foglalt tevékenységei körében felmerülő költségeit – a (6) bekezdésben foglaltak kivételével – azzal a felhasználóval szemben jogosult érvényesíteni, akivel szemben fennálló közüzemi szerződése körében azok felmerültek.
 
 (10) A közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátás akkor biztosított, ha az ivóvízellátás legalább 20 l/fő/nap mennyiségben, négy emeletnél nem magasabb lakóépület esetén legfeljebb 150 m távolságon belüli, négy emeletnél magasabb lakóépületben pedig négy emeletnél nem nagyobb szintkülönbséggel járó vízvételezési lehetőséggel (közkifolyóról, tűzcsapról, szállított vízből) adott.
+
+58/A. § (1) A védendő felhasználók a védelemre jogosító, jogszabályban meghatározott tulajdonságuk alapján szociálisan rászoruló vagy fogyatékkal élő felhasználóként részesülhetnek a víziközmű-szolgáltató által nyújtott, jogszabályban részletesen meghatározott kedvezményben.
+
+(2) Az a felhasználó, aki a fogyatékkal élő és a szociálisan rászoruló felhasználók nyilvántartásában egyidejűleg szerepel, jogosult igénybe venni a védendő felhasználókat megillető valamennyi kedvezményt.
+
+(3) A védendő felhasználói körbe tartozás igazolásának módját, valamint a kedvezményeket és azok igénybevételének feltételeit, továbbá a különleges bánásmódra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+58/B. § A szociálisan rászoruló felhasználó különösen az alábbi kedvezmények igénybevételére jogosult:
+
+- a) részletfizetés,
+- b) fizetési haladék.
+
+58/C. § Ha a víziközmű-szolgáltatónak az 55. § (1) és (2) bekezdésében foglaltak végrehajtása során jut tudomására, hogy a kötelezett a védendő felhasználókra vonatkozó jogszabályi feltételeket vélhetően kielégíti, haladéktalanul megadja részére a szociálisan rászoruló felhasználókat az e törvény és a végrehajtására kiadott kormányrendelet alapján megillető kedvezményekre vonatkozó tájékoztatást, és megküldi részére a nyilvántartásba vételhez szükséges információkat és formanyomtatványokat.
+
+58/D. § A fogyatékkal élő felhasználót különösen a méréssel, a leolvasással, a számlázással és a díjfizetési módokkal kapcsolatosan igényeinek megfelelő, különleges bánásmódban kell részesíteni.
 
 ### VII. Fejezet — ADATSZOLGÁLTATÁS, BIZALMAS INFORMÁCIÓK KEZELÉSE, TITOKVÉDELEM
 
@@ -668,7 +746,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - c) szerződésben meghatározott díjak számlázása, továbbá szerződésből eredő egyéb követelések érvényesítése, valamint
 - d) együttműködési és adatszolgáltatási kötelezettségek teljesítése céljából kezelheti a felhasználó azonosításához szükséges és elégséges, e törvény vagy a felhatalmazása alapján kiadott települési önkormányzati rendelet szerint a szerződés tartalmát képező személyes adatot. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
 
-(2) Az (1) bekezdés alkalmazásában a felhasználó azonosításához szükséges és elégséges adatok a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma). A víziközmű-szolgáltató és az ellátásért felelős (e § alkalmazásában a továbbiakban együtt: adatkezelő) a kezelt személyes adatot haladéktalanul törli, ha
+(2) Az (1) bekezdés alkalmazásában a felhasználó azonosításához szükséges és elégséges adatok a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma). A víziközmű-szolgáltató és az ellátásért felelős (e fejezet alkalmazásában a továbbiakban együtt: adatkezelő) a kezelt személyes adatot haladéktalanul törli, ha
 
 - a) az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy
 - b) az (1) bekezdésben meghatározott adatkezelési cél megszűnt, így különösen a víziközmű-szolgáltatás keretében létrejött jogviszony megszűnik, az ahhoz kapcsolódó követelés érvényesítése megtörtént, vagy a követelés érvényesíthetősége megszűnt.
@@ -682,10 +760,90 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - e) a Hivatal által a 32. §-ban foglaltak esetében a közérdekű üzemeltetőnek,
 - f) a Hivatalnak,
 - g) a fogyasztóvédelmi hatóságnak,
-- h) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
-- i) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságnak, ügyésznek, valamint bíróságnak.
+- h) a járási hivatalnak,
+- i) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
+- j) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságnak, ügyésznek, valamint bíróságnak.
 
 (4) Az átadott adatokkal kapcsolatban a (3) bekezdés a)–g) pontjában meghatározott adatokat átvevőket a víziközmű-szolgáltatóval, ellátásért felelőssel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (3) bekezdés a)–h) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.
+
+61/A. § (1) A víziközmű-szolgáltató a védendő felhasználókat megillető kedvezmények biztosítása érdekében, az egyes felhasználási helyeken víziközmű-szolgáltatási szerződéssel rendelkező védendő felhasználókról nyilvántartást vezet, amelyből egyértelműen megállapítható, hogy a felhasználó a kedvezmények melyik körére jogosult.
+
+(2) A nyilvántartásba történő felvételt a felhasználónak kell kérnie. A kérelemben meg kell jelölnie, hogy az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott különleges bánásmód vagy kedvezmények közül melyek illetik meg, és azokból melyikre tart igényt. A kérelemhez csatolnia kell a védendő felhasználói körbe tartozás igazolására szolgáló – a (4) bekezdésben, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – iratokat.
+
+(3) A víziközmű-szolgáltató a nyilvántartásba vételről a védendő felhasználót 8 napon belül írásban tájékoztatja. A tájékoztatás tartalmazza, hogy
+
+- a) a védendő felhasználóról a víziközmű-szolgáltató mely különleges bánásmód vagy kedvezmény vonatkozásában rögzített adatot a nyilvántartásba,
+- b) a nyilvántartás szerint a védendő felhasználó milyen kedvezményeket vehet igénybe,
+- c) az adatváltozás bejelentésére mely időpontokban és hol biztosít lehetőséget a víziközmű-szolgáltató, valamint
+- d) a védendő felhasználónak a (7) bekezdésben meghatározott feladatait milyen módon és formában kell teljesítenie.
+
+(4) A védendő felhasználói körbe tartozás igazolására a felhasználó kérelmére igazolja
+
+- a) a jegyző, hogy a felhasználó életvitelszerűen tartózkodik a kérelemben megjelölt felhasználási helyen,
+- b) a védendő felhasználói státuszra jogosító ellátást megállapító szerv, hogy a kérelem benyújtásakor a védendő felhasználó részesül az adott ellátásban.
+
+(5) A jegyző és az ellátást megállapító szerv a (4) bekezdés szerinti igazoláson köteles feltüntetni, hogy az igazolás mely felhasználási hely tekintetében történő felhasználásra került kiadásra. Ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
+
+(6) A személyes adatok kezelésére a 61. §-ban foglaltakat az alábbi eltérésekkel kell alkalmazni:
+
+- a) a nyilvántartásban a felhasználó 61. § (2) bekezdésében meghatározott személyes adataihoz kapcsoltan kizárólag a szociálisan rászoruló vagy a fogyatékkal élő státuszra, esetleg mindkettő együttes fennállására történő utalás, a különleges bánásmód esetén annak formája, valamint a felhasználó által igénybe vehető kedvezmények szerepelhetnek,
+- b) az a) pontban meghatározott adatok a 61. § (3) bekezdés a)–g) pontjában meghatározott szervek részére kizárólag abban az esetben adhatók át, ha a felhasználó, illetve a víziközmű-szolgáltató védendő felhasználói státusszal közvetlenül összefüggő jogának vagy igényének további érvényesítése végett feltétlenül szükséges,
+- c) a nyilvántartásba a 61. § (3) bekezdés i) pontjában meghatározott szerv, valamint személyes adatai vonatkozásában a védendő felhasználó jogosult betekinteni.
+
+(7) A nyilvántartásba történő felvételt követően a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Az a fogyatékkal élő felhasználó, akinek a nyilvántartásba történő felvétele során a szakorvosi vélemény kimondja, hogy állapotában nem várható jelentős javulás, mentesül a védendő felhasználói körbe tartozás évenkénti igazolása alól.
+
+(8) Ha a védettségét megalapozó körülmények megváltozása folytán a lakossági felhasználó már nem jogosult kedvezményre, vagy annak évenkénti igazolását elmulasztja, az (1) bekezdés szerinti célból rögzített adatait a nyilvántartásból törölni kell. A nyilvántartásból törölt adatokat a víziközmű-szolgáltató elkülönítetten kezeli és azokat – ha a 61. § (2) bekezdése szerint a felhasználó valamennyi adatának törlésére hamarabb nem kerül sor – a törléstől számítottan 5 évig tárolja. A nyilvántartásból törölt felhasználót a törlésről 8 napon belül írásban értesíti az adatkezelő.
+
+61/B. § (1) A víziközmű-szolgáltatással kapcsolatos kiemelt jelentőségű adatok teljessége, a víziközmű-vagyon védelme, valamint a víziközmű-szolgáltatással kapcsolatos állami feladatok megalapozottsága érdekében a Hivatal Nemzeti Víziközmű Nyilvántartást (a továbbiakban: Nyilvántartás) vezet.
+
+(2) A Nyilvántartás a víziközművekre, az ellátásért felelősökre és a víziközmű-szolgáltatókra vonatkozó alrendszerekből áll.
+
+(3) A víziközmű nyilvántartása az egyes víziközmű-rendszerekre nézve tartalmazza:
+
+- a) a víziközmű-rendszer megnevezését és a Hivatal által képzett azonosító kódját,
+- b) a víziközmű-szolgáltatási ágazat megnevezését és a víziközmű-rendszer 2. § 23. pont szerinti besorolását,
+- c) a víziközművel ellátott települések nevét, a felhasználók számosságát kifejező, a víziközmű-szolgáltatói működési engedélyben a Hivatal által megállapított felhasználói egyenértéket,
+- d) a víziközmű tulajdonosainak nevét és tulajdoni részesedését,
+- e) a víziközmű működésében érintett ellátásért felelős(ök) nevét, ha a működésben több ellátásért felelős is érdekelt, azt is, hogy a képviseletüket ki látja el,
+- f) a víziközművet üzemeltető víziközmű-szolgáltató nevét.
+
+(4) Az ellátásért felelősök nyilvántartása az egyes ellátásért felelősökre nézve tartalmazza:
+
+- a) a tulajdonába tartozó víziközmű-rendszerek megnevezését, amelyekre a Hivatal víziközmű-szolgáltatói működési engedélyt adott,
+- b) a víziközmű-rendszerek Hivatal által képzett azonosító kódjait.
+
+(5) A víziközmű-szolgáltatók nyilvántartása az egyes víziközmű-szolgáltatókra nézve tartalmazza:
+
+- a) a víziközmű-szolgáltató tulajdonosi szerkezetét (ideértve különösen a tulajdonosok nevét és tulajdoni részesedését),
+- b) a működési engedély kiadásáról rendelkező határozat számát,
+- c) a működtetett víziközmű-rendszerek Hivatal által képzett azonosító kódjait és az ezekre vonatkozó üzemeltetési jogviszony (ide értve a közérdekű üzemeltetői jogviszonyt is) típusát.
+
+(6) A nyilvántartás a (3) bekezdés a) és d) pontja, valamint a (5) bekezdés a) pontja kivételével közhiteles.
+
+(7) Eltérő megállapodás hiányában a (3) és (4) bekezdésben meghatározott adatokat az ellátásért felelős, az (5) bekezdésben meghatározott adatokat a víziközmű-szolgáltató szolgáltatja a Hivatal részére. Nem áll fenn adatszolgáltatási kötelezettség azon adatra, amelyet a Hivatal honlapján közzétett tájékoztató „Hivatalból bejegyzendő” minősítéssel lát el.
+
+(8) Adat keletkezését, változását vagy megszűnését az arra okot adó körülmény vagy tény bekövetkezését követő 15 napon belül a Hivatallal közölni kell.
+
+61/C. § (1) A Nyilvántartásban rögzíteni kell az adatkezelés időpontját és az adatkezelést végző személy nevét.
+
+(2) A Nyilvántartásba új adatot bejegyezni, továbbá bejegyzett adatot módosítani, illetve törölni csak
+
+- a) jogszabályban meghatározott okirat,
+- b) jogerős bírósági vagy hatósági határozat
+
+alapján lehet.
+
+(3) A Nyilvántartásból törölt adatot a Hivatal hatósági és felügyeleti tevékenységének ellátása érdekében az adattal közvetlen kapcsolatba hozható engedély, hozzájárulás, jóváhagyás hatályának fennállásáig elkülönítetten tárolja.
+
+(4) A Hivatal a kezelt adatokat haladéktalanul köteles törölni, ha az adatkezelés nem a 61/B. § (1) bekezdésében meghatározott célból történt, vagy az adatkezelés célja megszűnt.
+
+61/D. § (1) A Nyilvántartás a 61/B. § (3) bekezdés b)–d) és (5) bekezdés a) pontjai kivételével nyilvános, azt a Hivatal köztisztviselőjének jelenlétében személyesen bárki megtekintheti, tartalmáról feljegyzést készíthet, vagy arról másolatot kérhet.
+
+(2) Az adatszolgáltatás teljesítésekor a másolatot vagy kivonatot a Hivatal hitelesítési és érvényességi záradékkal látja el.
+
+(3) Az adatszolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
+
+(4) A jogszabályok utólagos hatásvizsgálata, a jogalkotási, valamint az ágazatpolitikai döntések megalapozása érdekében a miniszter és a vízgazdálkodásért felelős miniszter számára a Hivatal biztosítja a Nyilvántartás adataiba történő korlátlan, díjmentes és közvetlen betekintést.
 
 ### VIII. Fejezet — A VÍZIKÖZMŰ-SZOLGÁLTATÁS DÍJAI
 
@@ -721,7 +879,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - a) a távhő-szolgáltatónak lakossági használati melegvíz előállítása céljából szolgáltatott ivóvizet,
 - b) lakásbérlők tényleges víziközmű-szolgáltatás igénybevételét a bérlakás üzemeltetését végző gazdálkodó szervezettel szemben.
 
-65. § (1) A közműves ivóvízellátás, valamint a közműves szennyvízelvezetés és -tisztítás díját (a továbbiakban együtt: hatósági díj) a Hivatal javaslatának figyelembevételével a víziközmű-szolgáltatásért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg. A hatósági díj megállapításakor rendelkezni kell arról, hogy a hatósági díj mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
+65. § (1) A közműves ivóvízellátás, valamint a közműves szennyvízelvezetés és -tisztítás díját (a továbbiakban együtt: hatósági díj) a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg. A hatósági díj megállapításakor rendelkezni kell arról, hogy a hatósági díj mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a miniszter részére minden év október 15-ig küldi meg.
 
@@ -753,7 +911,8 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 - a) közüzemi szerződéses jogviszony esetében a felhasználási helyen biztosítandó szolgáltatási kapacitásért,
 - b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért, továbbá
-- c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében.
+- c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében,
+- d) az új bekötés megvalósítását megelőzően.
 
 (2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és annak költségvetési intézményének, a helyi önkormányzatnak és annak költségvetési intézményének, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
 
@@ -791,12 +950,12 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - 4. az üzemeltetési szerződések kötelező tartalmi elemeit, benyújtásuk formai követelményeit;
 - 5. a közérdekű üzemeltető kijelölésére, jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a víziközmű-szolgáltatás biztosításához szükséges szerződésekre vonatkozó részletes rendelkezéseket;
 - 6. az engedélyezés és a hozzájárulás részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
-- 7. a kiszabható bírság felső határát;
-- 8. a víziközmű-szolgáltató, az ellátásért felelős és a víziközmű-tulajdonos által a Hivatal részére teljesítendő adatok körét, az adatszolgáltatásra vonatkozó részletes szabályokat;
+- 7.
+- 8.
 - 9. a víziközmű-szolgáltató kötelezettségei teljesítésével kapcsolatos áruk és szolgáltatások körét, a beszerzésre, a kiválasztásra és a megbízásra vonatkozó feltételeket és eljárásokat;
 - 10. a víziközmű-szolgáltató és a felhasználó közötti jogviszony részletes szabályait, a közüzemi szerződés minimális tartalmi követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elkülönített vízhasználóra vonatkozó részletes szabályokat;
 - 11. az üzletszabályzat kötelező tartalmi elemeit, benyújtásának formai követelményeit, valamint a jóváhagyás szempontjait;
-- 12. a víziközmű-rendszerekről, a víziközmű-szolgáltatókról és az ellátási felelősökről vezetett közhiteles nyilvántartások szabályait;
+- 12.
 - 13. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 - 14.
 - 15. a víziközmű-szolgáltatás díjainak szerkezetét;
@@ -804,7 +963,9 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - 17. a Hivatal eljárásában közreműködő szakhatóság kijelölését,
 - 18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait;
 - 19. az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat;
-- 20. a gördülő fejlesztési tervek tartalmát, ütemezését, felülvizsgálatának szabályait, továbbá a tervek jóváhagyásának szempontjait
+- 20. a gördülő fejlesztési tervek tartalmát, ütemezését, felülvizsgálatának szabályait, továbbá a tervek jóváhagyásának szempontjait;
+- 21. a védendő felhasználók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő felhasználókat megillető különleges bánásmód részletes szabályait, a védendő felhasználói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit;
+- 22. a mellékvízmérőkön mért fogyasztáson alapuló elszámolási mód esetén az elkülönített vízhasználók és a víziközmű-szolgáltató sajátos feladatait, a kötelezettség megszegésének következményeit, az elszámolási mód alkalmazhatóságának műszaki feltételeit, a házi és csatlakozó ivóvízhálózat ellenőrzési rendjét, továbbá az elszámolás alapját képező szennyvízmennyiség meghatározásának részletes szabályait
 
 rendeletben állapítsa meg.
 
@@ -814,11 +975,13 @@ rendeletben állapítsa meg.
 - 2. állapítsa meg a víziközmű-szolgáltatás átláthatóságának biztosítása érdekében a víziközmű-szolgáltatók által közérdekből közzéteendő adatok körét és a közzététel módját;
 - 3. állapítsa meg a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
 - 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
-- 5. állapítsa meg a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a víziközmű-szolgáltatók által alkalmazható számlaképet.
-- 6–8.
+- 5.
+- 6. szabályozza a víziközmű térképi nyilvántartás tartalmi és formai követelményeit;
+- 7. állapítsa meg a víziközmű térképi nyilvántartás adatainak szolgáltatására, az adatszolgáltatás díjának mértékére vonatkozó részletes szabályokat;
+- 8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit;
 - 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
-(3)
+(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy rendeletben szabályozza a Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
 
 #### 24. Hatályba léptető rendelkezések
 
@@ -915,17 +1078,27 @@ rendeletben állapítsa meg.
 - a) nem éri el a 100 000-et, akkor a működési engedélyt 2014. december 31. napjával,
 - b) ha az a) pont szerinti értéket eléri, de kevesebb, mint a 36.§ c) pontja szerinti érték, akkor a működési engedélyt 2016. december 31. napjával visszavonja.
 
-(3) A Hivatal a kizárólagosan állami tulajdonban álló gazdasági társaság víziközmű-szolgáltatókénti működését – az integrációs folyamatok elősegítése, az ellátásbiztonság folyamatosságának megőrzése végett – engedélyezési eljárás lefolytatás nélkül, a közérdekű üzemeltetési feladatok ellátására, határozatlan időtartamra engedélyezi.
+(3)
 
 85. § A 49–50. § éves beszámoló készítésére vonatkozó rendelkezéseit első alkalommal a 2013. évi beszámoló elkészítésére kell alkalmazni.
 
-#### 86. §
+86. § Ha 2014. január 1-jén a víziközmű-szolgáltatást végző a víziközműben tulajdoni hányaddal rendelkezik, a víziközmű tulajdonjogának 79. § szerinti átruházásig a saját víziközmű eszközeire vonatkozó felújítási és pótlási tervet a víziközmű-szolgáltatást végző készíti és nyújtja be a Hivatalhoz. A felújítási és pótlási tervet az ellátásért felelős részére a Hivatal jóváhagyó határozatával együtt, a határozat kézhezvételétől számított 8 napon belül tájékoztatásul meg kell küldeni.
 
 #### 87. §
 
+87/A. § (1) A 61/B. §-ban meghatározott nyilvántartás informatikai hátterét az adatkezelési szabályzattal együtt a Hivatal az egyes energetikai tárgyú törvények módosításáról szóló 2013. évi CCXXVII. törvény (a továbbiakban: Mód. törvény) hatálybalépését követő 90 napon belül kidolgozza.
+
+(2) A víziközmű-üzemeltetési jogviszonyban álló ellátásért felelős és víziközmű-szolgáltató a Mód. törvény hatálybalépését követő 60 napon belül megállapodik, hogy a 61/B. § (3)–(5) bekezdésben meghatározott adatokat vagy azok megállapodásban rögzített részét melyik szerződéses partner szolgáltatja a Hivatal részére, és erről a megállapodás létrejöttét követő 8 napon belül tájékoztatják a Hivatalt.
+
+(3) Az adatszolgáltatásra kötelezett a Nyilvántartásba felveendő adatokat – ha a Hivatal későbbi időpontot nem jelöl meg – a Mód. törvény hatálybalépését követő 150. napig adják át a Hivatalnak a Hivatal által kidolgozott algoritmus és eljárásrend felhasználásával. Az átadott adatok formai megfelelősségét a Hivatal haladéktalanul megvizsgálja. A Hivatal az adatok tartalmi felülvizsgálatát a kézhezvételtől számított 15 napon belül elvégzi, majd a felülvizsgálatot követően haladéktalanul bejegyzi a Nyilvántartásba.
+
+(4) A Nyilvántartásba betekinteni, illetve abból adatot igényelni legkorábban 2014. szeptember 1. napjától lehet.
+
 #### 26. Az Európai Unió jogának való megfelelés
 
-88. § E törvény 62. §-a a közösségi cselekvés kereteinek a vízpolitika területén történő meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének való megfelelést szolgálja.
+88. § (1) E törvény 62. §-a a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének való megfelelést szolgálja.
+
+(2) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 27. Módosító rendelkezések
 
@@ -972,3 +1145,13 @@ rendeletben állapítsa meg.
 - 2.2.2. az egy közműves szennyvízelvezetést és -tisztítást igénybevevő felhasználót vagy elkülönített vízhasználót az adott naptári évet megelőző évben a felhasználó, elkülönített vízhasználó részére értékesített közműves szennyvíz köbméterben meghatározott mennyiségének két százalékával kell figyelembe venni;
 - 2.3. K: közműfejlesztési hozzájárulás fizetésére kötelezettek részére a víziközmű-szolgáltató által közműves ivóvízellátásra, valamint közműves szennyvízelvezetésre és -tisztításra biztosított közműfejlesztési kvóták összege.
 - 3. E melléklet alkalmazásában lakossági szolgáltatási díj a lakossági felhasználó, a természetes személy elkülönített vízhasználó és ingatlanhasználó által a víziközmű-szolgáltatás igénybevételéért a víziközmű-szolgáltató részére fizetendő díj, amennyiben az elkülönített vízhasználó, ingatlanhasználó a szolgáltatást nem jövedelemszerző gazdasági tevékenysége körében veszi igénybe.
+
+### 2. melléklet a 2011. évi CCIX. törvényhez
+
+#### A kiszabható bírságok összege
+
+- 1. A kiszabható víziközmű-védelmi bírság: az alábbi képlettel (BVéd) számított összeg, de legalább 900 000 forint BVéd = [FE x 10000] ahol: BVéd = a kiszabható víziközmű-védelmi alapbírság [Ft] FE = a jogellenes magatartással érintett ellátási területrész felhasználói egyenértéke (1. melléklet szerint).
+- 2. A kiszabható rendkívüli bírság: a víziközmű-védelmi bírság (BVéd) háromszorosa, de legalább 1 800 000 forint.
+- 3. A kiszabható víziközmű-védelmi és rendkívüli bírság felső határa:
+  - a) A kiszabható bírság felső határa a jogsértő víziközmű-szolgáltató árbevételének 1%-a, de legfeljebb 100 millió forint. (Árbevétel alatt a víziközmű-szolgáltatónak az adott víziközmű-szolgáltatási tevékenységével kapcsolatos – a határozat meghozatalának időpontjához képest – előző üzleti évi, a számvitelről szóló törvény szerinti értékesítés nettó árbevételét kell érteni. Előző üzleti évi adat hiányában a bírságmaximum 25 000 000 forint.)
+  - b) Az ellátásért felelőssel szemben kiszabható bírság felső határa 25 000 000 forint.

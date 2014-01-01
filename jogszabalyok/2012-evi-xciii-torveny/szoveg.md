@@ -452,7 +452,7 @@ rendeletben szabályozza.
 
 (2) A 8. § a) pontja, 9–10. §, a 12. § (1) és (3) bekezdése, a 14. §, a 15. § (2)–(5) bekezdése, a 18. §, a 19. § (1) bekezdés a)–c) pontja, a 20. § (1)–(7), a (8) bekezdés a)–m) és o) pontja, a (9) bekezdése, a 21. §, a 23. § d) és e) pontja, a 25. § b) pontja, a 26–27. §, a 29–30. §, a 32. §, a 34. § (1)–(5) bekezdése, a 35. § (1)–(6) bekezdése, (7) bekezdés 1–23. pontja és 25–38. pontja, a 36. §, a 38–39. §, a 40. § a) pontja, a 43. § (1) bekezdése, a 44–48. §, az 50. §, az 52–55. §, az 56. § (1) bekezdés b)–c) és g) pontja, az 57. §, a 60. § (1)–(5) bekezdése és a (6) bekezdés a) pontja, a 61. § a)–f) pontja, a 62. §, a 64–68. §, a 70–75. §, a 77. § (1)–(4), (7) és (9) bekezdése, a 80. § (1)–(2) és (4)–(14) bekezdése, a 82. §, a 84. § (1)–(3) bekezdése, a 85–86. § és a 91. § (1)–(4) bekezdése, az (5) bekezdés a) pontja, (6) bekezdése és a (7) bekezdés a)–g) és i)–k) pontja 2013. január 1-jén lépnek hatályba.
 
-(3) A 91. § (8) bekezdése az országgyűlési képviselők következő általános választását követően megalakuló Országgyűlés alakuló ülésének napján lép hatályba.
+(3)
 
 89. § (1) A közoktatásról szóló 1993. évi LXXIX. törvény 88. § (1) bekezdés alapján készített feladatellátási, intézményhálózat-működtetési és köznevelési fejlesztési tervek érvényessége 2013. március 1-jéig meghosszabbodik.
 

@@ -18,8 +18,8 @@ Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget te
 - f) lakóingatlan: a lakás céljára létesített és egy vagy több helyrajzi számon nyilvántartott vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
   - fa) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel és egyéb építményekkel,
   - fb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
-- g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
-- h) lakhatási célú ingatlan: a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgáló, erre a célra épített állami tulajdonú ingatlan,
+- g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
+- h) lakhatási célú ingatlan: az állam által épített és az állam tulajdonába tartozó olyan ingatlan, amely a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgálja,
 - i) természetes személy:
   - ia) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
   - ib) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
@@ -27,7 +27,10 @@ Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget te
   - id) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el,
 - j) végrehajtás alá vont ingatlan: az a lakóingatlan, amelyet – a végrehajtási jog ingatlan-nyilvántartásba történő bejegyzésével – végrehajtás alá vontak,
 - k) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
-- l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésébe adott, az e törvény szerint nem lakóingatlannak és nem lakhatási célú ingatlannak minősülő egyéb ingatlan, valamint a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlan, amelyre nézve a bérleti jogviszony megszűnt és jogszabályban meghatározott módon hasznosításra kerül.
+- l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésében lévő
+  - la) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
+  - lb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt vagy
+  - lc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.
 
 ### II. Fejezet — A NEMZETI ESZKÖZKEZELŐ
 
@@ -113,6 +116,14 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A Nemzeti Eszközkezelő az (1) bekezdés szerint felajánlott lakóingatlant – az (1) bekezdés szerinti feltételekkel – abban az esetben is megvásárolja, ha a szociális rászorultság feltételei a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója tekintetében és az (1) bekezdés b) pontjában meghatározott feltétel a zálogkötelezett tekintetében fennáll.
 
+(4) A Nemzeti Eszközkezelő a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – megvételre felajánlott, pénzügyi intézmény javára bejegyzett jelzáloggal terhelt lakóingatlant a hiteladós, illetve zálogkötelezett erre vonatkozó – jogszabályban meghatározott bizottság (a továbbiakban: méltányossági bizottság) által elbírált – méltányossági kérelme alapján abban az esetben is megvásárolja, ha
+
+- a) a hiteladós pénzügyi intézménnyel szemben fennálló jelzáloghitel-szerződéséből eredő késedelmes tartozásának összege vagy a késedelem időtartama – a viszonyítás időpontjára tekintet nélkül – az 1. § b) pontjában meghatározott mértéket nem éri el,
+- b) az (1) bekezdés a)–e) és g) pontjában meghatározott valamely feltétel nem áll fenn, vagy
+- c) az (1) bekezdés f) pontjában meghatározott feltételtől eltérően a jelzáloghitel-szerződés fedezetét két lakóingatlan képezi, amelyek közül az egyik a hiteladós, a másik a zálogkötelezett tulajdonában áll és a hiteladós és a zálogkötelezett is vállalja, hogy a Nemzeti Eszközkezelővel bérleti szerződést köt.
+
+(5) A (4) bekezdés alapján megvásárolt lakóingatlanok éves szinten összesített vételára nem haladhatja meg a központi költségvetésről szóló törvényben a Nemzeti Eszközkezelő részére ingatlanvásárlás céljára rendelkezésre bocsátott forrás 1%-át.
+
 #### 6. A lakóingatlanért fizetendő vételár
 
 9. § A lakóingatlan vételára az ingatlan-nyilvántartásba bejegyzett jelzálogjoggal rendelkező pénzügyi intézmény követelésének – több ilyen követelés esetén az ingatlan-nyilvántartásba bejegyzett, legelső ranghelyen álló, jelzálogjoggal fedezett követelés – alapjául szolgáló jelzáloghitel-szerződésben megállapított forgalmi érték, vagy annak hiányában a jelzáloghitel-szerződés megkötésekor megállapított forgalmi érték
@@ -151,11 +162,22 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
   - ca) a lakóingatlant – ha annak tulajdoni lapjából az nem állapítható meg – végrehajtás alá vonták-e,
   - cb) a lakóingatlan tulajdonjogának az államra történő átruházása feltételeit és annak jogkövetkezményeit tudomásul veszi,
 - d) azon személyek nevét és születési időpontját, akiknek a nyilvántartásba bejelentett lakóhelye vagy tartózkodási helye a felajánlott lakóingatlanban van, és ennek igazolására a lakcímet igazoló hatósági bizonyítvány másolatát,
-- e) a felajánlott tulajdoni hányadnak megfelelő ingatlanrész kizárólagos használatára vonatkozó megállapodást és annak mellékletét, ha a felajánlott lakóingatlan az ingatlan-nyilvántartás szerint közös tulajdonban áll.
+- e) a felajánlott tulajdoni hányadnak megfelelő ingatlanrész kizárólagos használatára vonatkozó megállapodást és annak mellékletét, ha a felajánlott lakóingatlan az ingatlan-nyilvántartás szerint közös tulajdonban áll,
+- f) a hiteladós – illetve, ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezett – méltányossági kérelmét, ha a lakóingatlan megvásárlását méltányosságból kéri.
 
 12. § (1) A pénzügyi intézmény a szándéknyilatkozat benyújtásától számított 8 napon belül megvizsgálja, hogy a 8. § (1) bekezdés a)–h) pontjában meghatározott feltételek fennállnak-e, és erről a hiteladóst, valamint ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettet írásban tájékoztatja.
 
+(1a) Ha a pénzügyi intézmény az (1) bekezdés szerinti vizsgálat során megállapítja, hogy a 8. § (1) bekezdés a)–g) pontjában meghatározott valamely feltétel vagy az 1. § b) pontjának a tartozás késedelmére vonatkozó feltétele nem teljesül és a hiányok pótlására nincs mód, a pénzügyi intézmény felhívja a hiteladóst és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet a méltányossági kérelem benyújtásának lehetőségére.
+
 (2) A pénzügyi intézmény a szándéknyilatkozat benyújtásától számított legkésőbb 30 napon belül dönt arról, hogy a lakóingatlan tulajdonjogának átruházásához előzetes elvi hozzájárulását adja. Ha a pénzügyi intézmény a tulajdonjog átruházásához nem járul hozzá, erről haladéktalanul tájékoztatja a hiteladóst, és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet.
+
+12/A. § (1) A pénzügyi intézmény a hozzá beérkezett szándéknyilatkozatot – ha ahhoz méltányossági kérelem is kapcsolódik – a méltányossági kérelemmel, a 13. § (2) bekezdése szerinti mellékletekkel és a 12. § (1) bekezdése szerinti tájékoztató másolatával megküldi a méltányossági bizottság részére. Ha a méltányossági kérelem alapja a 11. § (3) bekezdés a) vagy b) pontjában megjelölt valamely igazolás, illetve nyilatkozat hiánya, az e bekezdésben meghatározott más iratot a hiányra való utalással kell a méltányossági bizottság részére megküldeni.
+
+(2) A méltányossági bizottság a méltányossági kérelemre vonatkozó indokolt döntéséről az annak meghozatalát követő 8 napon belül értesíti a szándéknyilatkozatot megküldő pénzügyi intézményt. A méltányossági kérelemre vonatkozó döntésről a pénzügyi intézmény tájékoztatja a hiteladóst és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet.
+
+(3) A méltányossági kérelemnek helyt adó döntés esetén a pénzügyi intézmény – a döntésről szóló értesítés kézhezvételét követő 8 napon belül – a szándéknyilatkozatot, a méltányossági bizottság döntéséről szóló értesítést és az (1) bekezdésre tekintettel rendelkezésére álló mellékleteket és igazolásokat megküldi a Nemzeti Eszközkezelőnek.
+
+(4) A méltányossági bizottság döntése ellen jogorvoslatnak helye nincs.
 
 13. § (1) A pénzügyi intézmény minden hónap 15. napjáig írásban bejelenti a Nemzeti Eszközkezelőnek azon lakóingatlanok címét, helyrajzi számát, a lakóingatlan tulajdonosának nevét, amelyekre vonatkozó szándéknyilatkozatot az előző havi bejelentés óta továbbított.
 
@@ -198,17 +220,18 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 #### 9. A végrehajtási eljárás szünetelése és folytatása
 
-15. § (1) Ha a 8. § (1) bekezdés a)–h) pontjában meghatározott feltételek fennállnak, és a lakóingatlant bírósági vagy közigazgatási végrehajtás alá vonták, a 11. § (1) bekezdése szerinti pénzügyi intézmény 15 napon belül kezdeményezi a végrehajtónál a végrehajtás szünetelését. A pénzügyi intézmény nyilatkozata alapján a megvételre felajánlott lakóingatlanra bejegyzett valamennyi végrehajtási jog vonatkozásában a végrehajtás a bírósági végrehajtásról szóló 1994. évi LIII. törvény 52. § g) pontja alapján szünetel.
+15. § (1) Ha a lakóingatlant bírósági vagy közigazgatási végrehajtás alá vonták, a 8. § (1) bekezdés a)–h) pontjában meghatározott feltételek fennállása vagy ennek hiányában a szándéknyilatkozat méltányossági bizottság részére történő megküldése esetén a 11. § (1) bekezdése szerinti pénzügyi intézmény 15 napon belül kezdeményezi a végrehajtónál a végrehajtás szünetelését. A pénzügyi intézmény nyilatkozata alapján a megvételre felajánlott lakóingatlanra bejegyzett valamennyi végrehajtási jog vonatkozásában a végrehajtás a bírósági végrehajtásról szóló 1994. évi LIII. törvény 52. § g) pontja alapján szünetel.
 
-(2) Ha a jelzáloghitel-szerződés szerint a hitelező a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 257. § (2) és (3) bekezdése szerint jogosult a lakóingatlant bírósági végrehajtáson kívül értékesíteni, az (1) bekezdés szerinti feltételek fennállása esetén a pénzügyi intézmény haladéktalanul intézkedik az iránt, hogy a lakóingatlan lekerüljön az adóhatóság Elektronikus Árverési Felületéről.
+(2) Ha a jelzáloghitel-szerződés szerint a hitelező a Polgári Törvénykönyv alapján jogosult a lakóingatlant bírósági végrehajtáson kívül értékesíteni, az (1) bekezdés szerinti feltételek fennállása esetén a pénzügyi intézmény haladéktalanul intézkedik az iránt, hogy a lakóingatlan lekerüljön az állami adóhatóság Elektronikus Árverési Felületéről.
 
 16. § (1) A végrehajtási eljárás folytatódik, ha
 
 - a) valamely pénzügyi intézmény a lakóingatlan tulajdonjogának átruházásához nem járul hozzá,
-- b) a Nemzeti Eszközkezelő a lakóingatlant nem vásárolja meg, vagy
-- c) a Nemzeti Eszközkezelő a lakóingatlant megvásárolja, de a végrehajtás nem kizárólag a lakóingatlanra vonatkozóan indult.
+- b) a méltányossági bizottság a méltányossági kérelmet elutasítja,
+- c) a Nemzeti Eszközkezelő a lakóingatlant nem vásárolja meg, vagy
+- d) a Nemzeti Eszközkezelő a lakóingatlant megvásárolja, de a végrehajtás nem kizárólag a lakóingatlanra vonatkozóan indult.
 
-(2) A végrehajtás az (1) bekezdésben foglalt esetben attól a naptól folytatódik, amikor a pénzügyi intézménynek a hozzájárulása elutasításáról vagy a Nemzeti Eszközkezelőnek a vételi ajánlat visszautasításáról, vagy a lakóingatlan megvásárlásáról szóló tájékoztatását a végrehajtó kézhez veszi.
+(2) A végrehajtás az (1) bekezdésben meghatározott esetben attól a naptól folytatódik, amikor a végrehajtó a pénzügyi intézménynek a hozzájárulása elutasításáról vagy a méltányossági kérelem elutasításáról szóló tájékoztatását, a Nemzeti Eszközkezelőnek a vételi ajánlat visszautasításáról vagy a lakóingatlan megvásárlásáról szóló tájékoztatását kézhez veszi.
 
 #### 10. Az adásvételi szerződés megkötésének és az állam tulajdonszerzésének szabályai
 
@@ -262,7 +285,7 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 22. § (1) A Nemzeti Eszközkezelő
 
 - a) a hiteladóssal vagy – a 8. § (3) bekezdése szerinti esetben – a zálogkötelezettel az adásvételi szerződés megkötésével egyidejűleg a megvásárolt lakóingatlanra,
-- b) a pályázat alapján kiválasztott, jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel a lakhatási célú ingatlanra és
+- b) pályázat alapján kiválasztott személlyel vagy személyekkel a lakhatási célú ingatlanra és
 - c) az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel – jogszabályban meghatározott feltételek mellett – a tartalék ingatlanra
 
 [az a)–c) pont szerinti személy a továbbiakban együtt: bérlő] lakásbérleti szerződést köt.
@@ -272,6 +295,8 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 (1b) Az (1) bekezdés a) és b) pontjában meghatározott esetben kizárólag határozatlan időre szóló bérleti szerződés köthető.
 
 (2) A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
+
+(3) Az 1. § h) pont hb) alpontja alapján a lakhatási célú ingatlanban elhelyezett természetes személlyel a Nemzeti Eszközkezelő használati megállapodást köt.
 
 23. § A lakásbérleti szerződés létrejöttére, tartalmára és megszűnésére a Lakástörvény szabályait a következő eltérésekkel kell alkalmazni:
 
@@ -309,8 +334,9 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 - e) a Nemzeti Eszközkezelő által megvásárolandó lakóingatlanok maximális számát, valamint ezen lakóingatlanok kiválasztásának módját, ha a megvételre felajánlott lakóingatlanok száma a jogszabályban meghatározott maximális havi darabszámot az adott hónapban meghaladja,
 - f) a Nemzeti Eszközkezelő 4. § (2) bekezdésében megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
 - g) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait,
-- h) a tartalék ingatlan hasznosításának, bérbeadásának feltételeit, különös tekintettel a bérlőkiválasztás módjára, a lakbér mértékére, a bérleti szerződés időtartamára és a bérlő kötelezettségeire,
-- i) a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanok elidegenítésére vonatkozó részletes szabályokat.
+- h) a tartalék ingatlan hasznosításának, bérbeadásának feltételeit, különös tekintettel a bérlőkiválasztás módjára, a lakbér mértékére, a bérleti szerződés időtartamára, a bérlő kötelezettségeire, valamint a tartalék ingatlan veszélyhelyzetben történő kiválasztásának és használatba adásának szabályait,
+- i) a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanok elidegenítésére vonatkozó részletes szabályokat,
+- j) a lakóingatlannal és a lakhatási célú ingatlannal kapcsolatos méltányossági eljárás lefolytatására, a méltányossági kérelem benyújtására, elbírálására, a méltányossági eljárást lefolytató bizottság és a Nemzeti Eszközkezelő közötti kapcsolattartásra vonatkozó részletes szabályokat, és a méltányossági eljárást lefolytató bizottság összetételét.
 
 #### 15. Hatályba léptető rendelkezés
 

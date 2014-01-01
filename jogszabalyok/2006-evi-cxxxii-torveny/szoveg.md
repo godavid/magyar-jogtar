@@ -40,9 +40,9 @@ terjed ki.
 - n) területi ellátási kötelezettség: a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az s) pont szerinti kapacitás-nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat nyújtson;
 - o) egészségügyi szakellátási feladat: a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat;
 - p) egészségügyi szakellátási kötelezettség: az államnak az a kötelezettsége, hogy az l) és az o) pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat;
-- q) tartalékkapacitás: az – a rendelkezésre álló országos kapacitásmennyiség részét képező – járóbeteg-, illetve fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva;
+- q) tartalékkapacitás: az a rendelkezésre álló országos kapacitásmennyiség részét képező, az i) pont ia) alpontja szerinti járóbeteg-szakellátási kapacitás és az i) pont ib) alpontja szerinti fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva;
 - r) szakellátási kapacitás feletti rendelkezési jog: adott szakellátási kapacitás, illetve a hozzá tartozó ellátási terület tekintetében az 5. §, az 5/B. §, a 7. § és a 10. § szerinti eljárásokban a fenntartó számára megállapított jogkör gyakorlása;
-- s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8) bekezdése alapján vezetett közhiteles nyilvántartás.
+- s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8d) bekezdése alapján vezetett közhiteles nyilvántartás.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 
@@ -56,7 +56,7 @@ terjed ki.
 - b) az állam az egészségügyi szakellátási kötelezettségét,
 - c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát
 
-a 3. § (1) bekezdés a) pontja szerinti esetben a kapacitás-nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a 2013. április 28-án lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
+a 3. § (1) bekezdés a) pontja szerinti esetben a kapacitás-nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
 
 (2) Ha az (1) bekezdés a) vagy c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesíti, ideiglenesen az állam – a (3)–(10) bekezdésben és az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – gondoskodik az egészségügyi szakellátási felelőssége alapján az adott szakellátási feladat ellátásáról.
 
@@ -329,6 +329,8 @@ köthet.
 
 (11) Az egészségügyi ellátási szerződés tárgyát képező, a 2/A. § (2) bekezdés b) pontja szerinti kapacitás – a 4. § szerinti eljárás és az egészségügyi közszolgáltatásért felelős szervnek a 2. § (3) bekezdésében meghatározott rendelkezési jogának kivételével – csak abban az esetben állapítható meg a (9) bekezdés, illetve a (10) bekezdés szerinti módon másik egészségügyi szolgáltató számára, ha azt az egészségügyi ellátási szerződés tárgyát képező szakellátási feladat folyamatos ellátását veszélyeztető, másképp el nem hárítható helyzet fennállása miatt felmerülő ellátási érdek indokolja.
 
+(12) Az egészségügyi ellátási szerződés megszüntethető a felek közös megegyezésével is. A közös megegyezéssel történő megszüntetés esetén a szerződés tárgyát képező egészségügyi szakellátás folyamatos biztosításáról az egészségügyi közszolgáltatásért felelős szervnek gondoskodnia kell. Ha erről az egészségügyi közszolgáltatásért felelős szerv újabb, a 2. § (1) bekezdés a) pontja szerinti megállapodás vagy a 2. § (1) bekezdés b) pontja szerinti szerződés útján gondoskodik, a közös megegyezéssel megszüntetett szerződés megszűnésének időpontja nem lehet korábbi az új szerződés, illetve megállapodás hatálybalépésének időpontjánál.
+
 2/F. § (1) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi ellátási szerződés alapján működő egészségügyi szolgáltatónál folytatott ellenőrzése keretében az egészségügyi szolgáltató a közszolgáltatásért felelős szerv számára
 
 - a) rendelkezésre bocsátja az ellenőrzéshez szükséges adatokat, információkat, biztosítja az iratokba való betekintést;
@@ -354,18 +356,19 @@ köthet.
 
 (3) Az egészségügyi szolgáltató köteles a felhasznált vagyoni biztosítékot – legalább a 2/D. § (6) bekezdése szerinti mértékben – hat hónapon belül pótolni, és a pótlás megtörténtét az erre vonatkozó okiratok bemutatásával a közszolgáltatásért felelős szervnek igazolni.
 
-2/H. § (1) A 2. § (3) bekezdés a) pontja szerinti megállapodás kötelezően tartalmazza a 2/A. § (2) bekezdésében foglaltakat, valamint vonatkozásában a 2. § (6) bekezdés c) pontjában, a 2/A. § (1) bekezdésében, valamint a 2/B–2/G. §-ban foglaltakat megfelelően alkalmazni kell.
+2/H. § (1) A 2. § (1) bekezdés a) pontja szerinti megállapodás kötelezően tartalmazza a 2/A. § (2) bekezdésében foglaltakat, valamint vonatkozásában a 2. § (6) bekezdés c) pontjában, a 2/A. § (1) bekezdésében, valamint a 2/B–2/G. §-ban foglaltakat megfelelően alkalmazni kell.
 
-(2) Abban az esetben, ha az egészségügyi szakellátási feladat ellátásáról a 2. § (3) bekezdés a) pontja szerinti megállapodás, illetve b) pontja szerinti szerződés helyett vagyonkezelési vagy más egyéb szerződés rendelkezik, az adott szerződésnek a szakellátási feladat ellátásával kapcsolatos része tekintetében az 1–2/G. §-ban foglaltakat – az (1) bekezdésben meghatározottak figyelembevételével – megfelelően alkalmazni kell.
+(2) Abban az esetben, ha az egészségügyi szakellátási feladat ellátásáról a 2. § (1) bekezdés a) pontja szerinti megállapodás, illetve b) pontja szerinti szerződés helyett vagyonkezelési vagy más egyéb szerződés rendelkezik, az adott szerződésnek a szakellátási feladat ellátásával kapcsolatos része tekintetében az 1–2/G. §-ban foglaltakat – az (1) bekezdésben meghatározottak figyelembevételével – megfelelően alkalmazni kell.
 
 #### 4. Az országos kapacitásmennyiség
 
 3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
 
 - a) a kapacitás-nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
-- b) az a) pont szerinti nyilvántartásban nem szereplő kapacitások tekintetében a 2012. december 31-én lekötött kapacitások,
-- c) a 11. § (3) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások, és
-- d) a tartalékkapacitások
+- b) a kapacitás-nyilvántartás részét nem képező kapacitás fajták esetében a lekötött kapacitások,
+- c) a 11/A. § (4) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások,
+- d) a tartalékkapacitások, és
+- e) a 11/B. § alapján visszavont – d) pont alá nem tartozó – kapacitások
 
 összessége.
 
@@ -375,7 +378,12 @@ köthet.
 
 (4) Kormányrendelet határozza meg azokat a szakmákat, amelyekre az egészségügyi szakellátás körében finanszírozási szerződés köthető.
 
-(5) Az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény és a végrehajtásáról szóló kormányrendelet szerinti eljárások során változhat.
+(5) Az (1) bekezdés szerinti országos kapacitásmennyiség kizárólag abban az esetben emelkedhet, ha
+
+- a) a többletkapacitásnak a 10. § (2) szerinti bevonását váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet teszi szükségessé,
+- b) a többletkapacitás befogadását új egészségügyi technológia bevezetése indokolja, vagy
+- c) a fejlesztési forrásból megvalósuló többletkapacitás befogadása a 11/A. § alapján előzetes többletkapacitás befogadási eljárás keretében történik,
+- d) a többletkapacitás a 11. § (2) bekezdés b) pont bb) alpontja szerint kerül befogadásra.
 
 (6)
 
@@ -487,7 +495,9 @@ köthet.
   - id) időtartamát (határozatlan/határozott – határozott időtartam esetében annak ideje években megadva),
   - ie) által feladat teljesítésére kötelezett fél nevét, székhelyét,
   - if) által érintett egészségügyi szolgáltató fenntartójának nevét, székhelyét,
-  - ig) által érintett szakma megnevezését és a kapacitás mértékét.
+  - ig) által érintett szakma megnevezését és a kapacitás mértékét,
+- j) a speciális ellátásokat végző egészségügyi szolgáltatók esetében a speciális betegségcsoport, illetve a speciális gyógyító eljárás megnevezését,
+- k) a speciális ellátotti körnek ellátást nyújtó szolgáltató esetében a speciális ellátotti kör megjelölését.
 
 (8c) A kapacitás-nyilvántartásban a szakellátási kapacitásokhoz kapcsolódó ellátási területek térségenként, ellátási formánként, szolgáltatónként, szakmánként szerepelnek. A kapacitás-nyilvántartás tartalmazza
 
@@ -568,9 +578,9 @@ köthet.
 
 7. § (1) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
 
-(2) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását.
+(2)
 
-(3) A fenntartó – a (2) bekezdésben foglaltak figyelembevételével, az ellátási forma megváltoztatása nélkül – kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásainak más, a szolgáltató finanszírozási szerződésében szereplő, illetve abban nem szereplő szakmákba – külön jogszabály szerinti mértékben – történő átcsoportosítását, azzal, hogy az egészségügyi szolgáltató rendelkezésére bocsátott kapacitásainak száma összességében nem változhat.
+(3) A fenntartó – az ellátási forma megváltoztatása nélkül – kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásainak más, a szolgáltató finanszírozási szerződésében szereplő, illetve abban nem szereplő szakmákba – külön jogszabály szerinti mértékben – történő átcsoportosítását, azzal, hogy az egészségügyi szolgáltató rendelkezésére bocsátott kapacitásainak száma összességében nem változhat.
 
 (4) A fenntartó kezdeményezheti a saját fenntartásában lévő szolgáltatói közötti kapacitásátcsoportosítást, azzal, hogy az átcsoportosítás a szolgáltatók összkapacitásának mennyiségét nem változtathatja meg.
 
@@ -624,15 +634,56 @@ amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatá
 
 (2) Amennyiben azt váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése indokolja, az egészségügyi államigazgatási szerv, az érintett egészségügyi szolgáltató fenntartója, az egészségügyért felelős miniszter és a államháztartásért felelős miniszter jóváhagyásával az egészségbiztosítónál kezdeményezheti – az egészségügyi szolgáltató megjelölésével egyidejűleg – a lekötött kapacitásokon felüli kapacitásra történő finanszírozási szerződés megkötését.
 
+(2a) A (2) bekezdés alapján lekötött többletkapacitással nem kell a tartalékkapacitásokat csökkenteni.
+
+(2b) A (2) bekezdés alapján lekötött többletkapacitást a kapacitás-nyilvántartásban a többi kapacitástól megkülönböztetve, a lekötés ideiglenességét feltüntetve kell nyilvántartani.
+
 (3) Az egészségbiztosító a (2) bekezdés alapján megkötött finanszírozási szerződést a váratlan esemény vagy az előre nem látható módon bekövetkezett ellátási szükséglet megszűnését követően felmondja, illetve legkésőbb 6 hónap elteltével – és ezt követően hathavonként – felülvizsgálja.
 
-#### 11. Előzetes többletkapacitás-befogadás
+#### 11. Többletkapacitások befogadása és kapacitások visszavonása
 
-11. § (1) Az egészségügyi szolgáltatónak az E. Alap számára többletforrásigényt eredményező fejlesztése nyomán létrejövő kapacitásának előzetes befogadását – amennyiben az éven túli kötelezettségvállalást eredményez – a Kormány határozatban hagyja jóvá kormányrendelet szerinti eljárás keretében.
+11. § (1) A 3. § (1) bekezdés a) és b) pontjában meghatározottakon felüli kapacitás – ide nem értve a 3. § (5) bekezdés a) pontja szerinti kapacitásokat – kizárólag
 
-(2) Amennyiben az előzetes többletkapacitás-befogadás az (1) bekezdéstől eltérően nem eredményez éven túli kötelezettségvállalást, a kapacitásbefogadás tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az egészségbiztosító, az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előzetesen – kormányrendeletben foglaltak szerint – egyetértett.
+- a) előzetes többletkapacitás-befogadási eljárásban, vagy
+- b) a többletkapacitás-befogadási eljárásban
 
-(3) Az (1) bekezdés szerint előzetesen befogadott többletkapacitásokat az egészségügyi államigazgatási szerv tartja nyilván az e törvény végrehajtásáról szóló rendeletben foglaltak szerint. A nyilvántartásra az 5/A. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
+fogadható be.
+
+(2) Többletkapacitás-befogadási eljárásban kapacitás – a 3. § (5) bekezdés b) pontja szerinti kapacitások kivételével – csak
+
+- a) az 1. § (2) bekezdés i) pont ia) és ib) alpontja szerinti szakellátási kapacitások esetében tartalékkapacitások terhére,
+- b) az a) pont alá nem tartozó kapacitások esetében
+  - ba) a 11/B. § (1)–(3) bekezdése alapján visszavont kapacitás terhére, ennek hiányában
+  - bb) az erre a célra elkülönített költségvetési keret terhére
+
+fogadható be.
+
+(3) A többletkapacitás-befogadási eljárásra vonatkozó szabályokat az e törvény végrehajtásáról szóló kormányrendelet állapítja meg.
+
+(4) A többletkapacitás-befogadási eljárás keretében befogadott kapacitás tekintetében az 5/A. § (8b) és (8c) bekezdésében meghatározott adatokat rögzíteni kell a kapacitás-nyilvántartásban és a változást egyidejűleg át kell vezetni a kapacitás-nyilvántartásnak a tartalékkapacitásokra vonatkozó részén is.
+
+11/A. § (1) Az E. Alap számára többletforrás-igényt eredményező fejlesztés nyomán létrejövő kapacitás – ha az érintett kezdeményezi vagy az a fejlesztés feltétele – az előzetes többletkapacitás-befogadási eljárás keretében is befogadható.
+
+(2) Ha a többletkapacitás előzetes befogadása éven túli kötelezettségvállalást eredményez, az előzetes befogadást a Kormány határozatban hagyja jóvá az e törvény végrehajtásáról szóló kormányrendelet szerinti eljárás keretében.
+
+(3) Amennyiben az előzetes többletkapacitás-befogadás a (2) bekezdéstől eltérően nem eredményez éven túli kötelezettségvállalást, a kapacitásbefogadás tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előzetesen – az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerint – egyetértett.
+
+(4) Az (1)–(3) bekezdés szerint előzetesen befogadott többletkapacitásokat az egészségügyi államigazgatási szerv tartja nyilván az e törvény végrehajtásáról szóló rendeletben foglaltak szerint. A nyilvántartásra az 5/A. § (7) bekezdésében foglaltakat kell alkalmazni.
+
+11/B. § (1) Az egészségügyi államigazgatási szerv – az 5. § (5) bekezdésében meghatározott eseten túl – hivatalból indult eljárásban határozattal elrendelheti a szakellátási kapacitás visszavonását az annak használatára jogosult szolgáltatótól, ha a szolgáltató nem teljesíti a kapacitással végzett egészségügyi tevékenység jogszabályban meghatározott, valamint szerződésben vállalt személyi, illetve tárgyi feltételeit.
+
+(2) Ha az egészségügyi államigazgatási szerv a kapacitás-nyilvántartás részét képező szakellátási kapacitás valamely – az e törvény végrehajtási rendelete szerinti – többletkapacitásnak minősülő paramétere tekintetében állapítja meg a személyi, illetve tárgyi feltételek hiányát, az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a kapacitás-nyilvántartásból nem kell törölni a nyilvántartott kapacitást, kivéve, ha a személyi és tárgyi feltételek hiánya a nyilvántartott kapacitást is érinti.
+
+(3) Ha a 11. § (1) bekezdés b) pontja szerinti eljárásban történő többletkapacitás-befogadás tartalékkapacitások vagy erre a célra felhasználható – az 1. § (2) bekezdés i) pont ic) alpontja alá tartozó – kapacitás hiánya miatt nem lenne lehetséges, az egészségügyi államigazgatási szerv a többletkapacitás-befogadási eljárás során hivatalból rendelkezhet már korábban befogadott kapacitás visszavonásáról, feltéve, hogy a befogadásra kerülő kapacitás egészségügyi szakmai szempontból és az ellátáshoz való hozzáférés szempontjából alkalmas a visszavonásra kerülő kapacitás kiváltására.
+
+(4) Az (1) és a (3) bekezdés alapján visszavont kapacitás
+
+- a) az 1. § (2) bekezdés i) pont ia) és ib) alpontja szerinti kapacitások esetében tartalékkapacitásnak,
+- b) az a) pont alá nem tartozó kapacitások esetében a többletkapacitás-befogadási eljárásban felhasználható kapacitásnak
+
+minősül.
+
+(5) A szakellátási kapacitás (1)–(3) bekezdés szerinti visszavonásának feltételeit és eljárási szabályait az e törvény végrehajtásáról szóló kormányrendelet tartalmazza.
 
 #### 12. Vegyes rendelkezések
 
@@ -682,19 +733,11 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (8)
 
-(9) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 3. § (1) bekezdés b) pontja alkalmazása során – a 2012. december 31-én lekötött kapacitásokon túl – kapacitásként figyelembe kell venni
-
-- a) a többletkapacitás-befogadási eljárásban, illetve a már támogatott fejlesztéshez kapcsolódó, előzetes többletkapacitás-befogadási eljárásban 2012. december 31-éig befogadott kapacitást,
-- b) az 5. §-ban és a 7. §-ban foglalt eljárások eredményeként 2012. december 31-éig megvalósult, illetve engedélyezett kapacitás csökkentések, átcsoportosítások miatti változásokat.
+(9)
 
 (10) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 2/B. § (1) bekezdését a hatálybalépését megelőzően megkötött szerződésekre nem kell alkalmazni.
 
-(11) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 3. § (1) bekezdés b) pontja alkalmazása során – a 2012. augusztus 31-én lekötött kapacitásokon túl – kapacitásként figyelembe kell venni
-
-- a) a többletkapacitás-befogadási eljárásban, illetve a már támogatott fejlesztéshez kapcsolódó, előzetes többletkapacitás-befogadási eljárásban 2012. augusztus 31-éig befogadott kapacitást,
-- b) az 5. §-ban és a 7. §-ban foglalt eljárások eredményeként 2012. augusztus 31-éig megvalósult, illetve engedélyezett kapacitás csökkentések, átcsoportosítások miatti változásokat.
-
-(12) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 11. § (3) bekezdése szerinti nyilvántartásban rögzített adatokat 2012. augusztus 21-én az egészségbiztosítási szerv átadja az egészségügyi államigazgatási szerv részére. A 11. § (3) bekezdése szerinti nyilvántartást 2012. augusztus 31-éig továbbra is az egészségbiztosítási szerv vezeti azzal, hogy a 2012. augusztus 21. és 2012. augusztus 31. közötti adatváltozásokról és új adatokról folyamatosan tájékoztatja az egészségügyi államigazgatási szervet. A 11. § (3) bekezdése szerinti nyilvántartást 2012. szeptember 1-jétől az egészségügyi államigazgatási szerv vezeti, az egészségbiztosítási szerv 2012. október 1-jén törli nyilvántartás részeként általa kezelt adatokat.
+(11)–(12)
 
 (13) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
 
@@ -716,6 +759,8 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - f) a Ttv. 5. § (1) bekezdése szerinti kijelölt szervnek kell – a megszüntetésről szóló megegyezéssel egyidejűleg – megtennie a 2. § (8) bekezdése szerinti bejelentést.
 
 (18) A Módtv2. által megállapított (17) bekezdést az annak hatálybalépésekor már hatályos megállapodásoknak és szerződéseknek a Módtv2. hatálybalépését követő megszűnésére is alkalmazni kell függetlenül attól, hogy a felek a megállapodás vagy a szerződés megszüntetéséről a Módtv2. hatálybalépését megelőzően vagy azt követően egyeznek-e meg.
+
+(19) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 3. § (5) bekezdése alkalmazásánál a 3. § (1) bekezdésében meghatározott országos kapacitásmennyiség 2014. január 1-jei állapotát kell figyelembe venni.
 
 15. §
 
@@ -745,7 +790,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - b) a kizárólag krónikus fekvőbeteg-szakellátást nyújtó szolgáltatók által a krónikus fekvőbeteg-szakellátási kapacitáson a krónikus finanszírozáson belül nyújtható aktív belgyógyászati fekvőbeteg-szakellátások mennyiségét,
 - c) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló külön törvény szerinti ügyeleti formában ellátott feladatok finanszírozási szabályait,
 - d) az ellátási terület meghatározásának és módosításának részletszabályait,
-- e) a kapacitások felosztásának, újraosztásának, módosításának és a kapacitások átcsoportosításának részletes szabályait, valamint a kapacitások más szolgáltatónak történő átadásához kapcsolódó pályázati eljárás részletes szabályait,
+- e) a kapacitások felosztásának, újraosztásának, módosításának és a kapacitások átcsoportosításának részletes szabályait, valamint a kapacitások visszavonásának feltételeit és eljárási szabályait,
 - f) azoknak a szakmáknak a körét, amelyekre az e törvény szerinti járóbeteg-szakellátási és fekvőbeteg-szakellátási kapacitásokra kiterjedően finanszírozási szerződést lehet kötni,
 - g) a váratlan helyzet vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése esetére vonatkozó részletes szabályokat,
 - h) a többletkapacitás fogalmát, befogadásának eseteit, eljárásrendjét, mértékét és feltételeit, továbbá az új szolgáltatók befogadásának szabályait,

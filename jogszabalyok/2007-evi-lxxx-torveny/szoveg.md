@@ -309,7 +309,7 @@ rendelkezik;
 
 30. § (1) Az elismerését kérő számára biztosított, a befogadás anyagi feltételei korlátozhatók, illetve – kivételes és kellően indokolt esetben – megvonhatók, ha az elismerését kérő
 
-- a) a befogadó állomást vagy a számára kijelölt tartózkodási helyet a kijelölő hatóság engedélye nélkül huszonnégy órát meghaladó időtartamra elhagyja,
+- a)
 - b) a számára engedélyezett magánszállásról ismeretlen helyre távozott, és az eltávozástól számítva tizenöt nap eltelt,
 - c) ismételten, változatlan ténybeli alapon nyújt be elismerés iránti kérelmet,
 - d) a menekültügyi eljárással összefüggő jelentkezési kötelezettségének nem tesz eleget, nem szolgáltat adatot vagy információt, illetve a személyes meghallgatásokon nem jelenik meg, vagy
@@ -466,11 +466,11 @@ rendelkezik;
 
 ### A menekült, az oltalmazott, valamint a menedékes ellátása és támogatása
 
-32. § (1) A menekült és az oltalmazott az alapvető létfeltételeinek megteremtéséhez rászorultsága esetén jogosult – külön jogszabályban meghatározott ideig – a befogadás anyagi feltételeinek további igénybevételére, valamint társadalmi beilleszkedésének elősegítése érdekében külön jogszabályban meghatározott ellátásokra és támogatásokra.
+32. § (1) A menekült és az oltalmazott – rászorultsága esetén – az elismerésről szóló jogerős határozat keltétől számított legfeljebb hatvan napig jogosult a befogadás anyagi feltételeinek igénybevételére, valamint a jogszabályban meghatározott ellátásra és támogatásra.
 
 (2) A menedékes – rászorultsága esetén – jogosult a befogadás anyagi feltételeire, valamint a külön jogszabályban meghatározott ellátásra és támogatásra.
 
-(3) A menekültügyi hatóság, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) az (1) és (2) bekezdés hatálya alá tartozó ügyekben határozattal dönt. A határozattal szemben bírósági felülvizsgálatnak van helye. A bíróság a menekültügyi hatóság, valamint a járási hivatal döntését megváltoztathatja.
+(3) Ha az ellátás, illetve a támogatás biztosításához szükséges döntés alakszerű meghozatala jogszabály előírása alapján nem mellőzhető, a menekültügyi hatóság az (1)–(2) bekezdés hatálya alá tartozó ügyekben határozattal dönt, amely határozattal szemben bírósági felülvizsgálatnak van helye. A bíróság a menekültügyi hatóság döntését megváltoztathatja.
 
 32/A. § (1) A menekült, az oltalmazott, továbbá a menedékes számára biztosított befogadás anyagi feltételei, valamint a jogszabályban meghatározott ellátások és támogatások korlátozhatók vagy megvonhatók, ha a menekült, az oltalmazott, továbbá a menedékes
 
@@ -490,6 +490,51 @@ rendelkezik;
 (3) A felülvizsgálati kérelmet a határozat közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak. A felülvizsgálati kérelem benyújtásának a határozatban foglaltak végrehajtására nincs halasztó hatálya.
 
 (4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított hat munkanapon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
+
+### VI/A. Fejezet — A NEMZETKÖZI VÉDELEMBEN RÉSZESÍTETT SZEMÉLY TÁRSADALMI BEILLESZKEDÉSÉNEK ELŐSEGÍTÉSE
+
+32/C. § (1) A menekült vagy oltalmazott társadalmi beilleszkedésének elősegítését a menekültügyi hatóság – a menekült vagy az oltalmazott lakóhelye szerinti települési önkormányzat a családsegítést nyújtó szolgáltató, vagy intézmény (a továbbiakban: családsegítő szolgálat) közreműködésével – az e törvényben meghatározott integrációs szerződés és integrációs támogatás formájában biztosítja. A feladat ellátását részben vagy egészben e fejezetben foglalt rendelkezéseknek megfelelően civil szervezet is biztosíthatja.
+
+(2) A menekültügyi hatóság a menekülttel vagy oltalmazottal kérelmére, rászorultsága esetén integrációs szerződést köt.
+
+(3) Az integrációs szerződésben meghatározott támogatást a menekültügyi hatóság folyósítja.
+
+(4) Az integrációs szerződés alapján nyújtandó szolgáltatásokat – a (3) bekezdésben meghatározott kivétellel – a családsegítő szolgálat biztosítja. Az integrációs szerződésben foglaltak teljesülésének elősegítése céljából a családsegítő szolgálat szociális gondozót jelöl ki, aki az integrációs szerződés időtartama alatt az integrációs szerződésben meghatározottak szerint segíti a menekült vagy az oltalmazott társadalmi beilleszkedését. Az integrációs szerződésben meghatározott feladatok teljesítését a menekültügyi hatóság ellenőrzi.
+
+(5) Az integrációs szerződés megkötésére irányuló kérelem a menekültkénti vagy oltalmazottkénti elismerésről szóló jogerős határozat keltétől számított 4 hónapon belül terjeszthető elő. Az integrációs szerződés időbeli hatálya az elismeréstől számított két évig terjedhet.
+
+(6) Ha a menekült vagy oltalmazott
+
+- a) az (5) bekezdésben meghatározott határidőig az integrációs szerződés megkötése érdekében nem nyújt be kérelmet,
+- b) az integrációs szerződésben megjelölt település területéről az integrációs szerződés időtartama alatt – az e törvényben meghatározott eseteket kivéve – elköltözik, vagy
+- c) a számára az integrációs szerződés alapján nyújtott támogatás folyósítását, illetve szolgáltatások biztosítását e törvény alapján megszüntetik, menekült vagy oltalmazott jogállására tekintettel megállapított támogatásokra a 32/D. § (4) bekezdésében foglalt kivételével a továbbiakban nem jogosult.
+
+(7) Az integrációs szerződés hatálya alatt a menekült vagy oltalmazott belföldi lakóhelyét csak indokolt esetben változtathatja meg, így különösen akkor, ha a lakóhely változtatása
+
+- a) munkavállalás,
+- b) lakhatás biztosítása,
+- c) családegyesítés, vagy
+- d) speciális egészségügyi, szociális intézményi ellátás vagy elhelyezés miatt szükséges.
+
+32/D. § (1) Az integrációs szerződés alapján nyújtott támogatás folyósítása, illetve szolgáltatások biztosítása felfüggeszthető, ha a menekült vagy oltalmazott
+
+- a) legalább 30 napig folyamatosan és önhibájából eredően nem teljesíti az integrációs szerződésből rá háruló kötelezettségeket,
+- b) vagyonára és jövedelmére vonatkozóan valótlan nyilatkozatot tesz,
+- c) 30 napot meghaladó fekvőbeteg-gyógyintézeti ellátása szükséges, vagy
+- d) ellen három év vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmény elkövetése miatt büntetőeljárás indult.
+
+(2) Az integrációs szerződés alapján nyújtott támogatás folyósítása, illetve szolgáltatások biztosítása megszüntethető, ha
+
+- a) az (1) bekezdés a)–c) pontjában meghatározott valamely körülmény az annak vonatkozásában meghatározott határidőt követően is fennáll,
+- b) az (1) bekezdés a)–d) pontjában meghatározott valamely körülmény miatt a támogatások folyósításának, illetve szolgáltatások biztosításának újbóli felfüggesztése válna szükségessé,
+- c) a menekültet vagy az oltalmazottat szándékosan elkövetett bűncselekmény miatt jogerősen elítélik, vagy
+- d) a menekült vagy oltalmazott jogállásáról lemondott vagy azt a menekültügyi hatóság visszavonta.
+
+(3) Az (1) bekezdés d) pontja és a (2) bekezdés c) pontja szerinti körülményeket az integrációs szerződésben foglaltak szerint a közigazgatási szerv felhívására a menekült vagy oltalmazott igazolja.
+
+(4) Az integrációs szerződés alapján nyújtott támogatás folyósítása, illetve szolgáltatások biztosítása felfüggesztésénél, illetve megszüntetésénél figyelemmel kell lenni arra, hogy az nem veszélyeztetheti a nemzetközi védelemben részesített személy családtagjainak helyzetét.
+
+(5) A befogadó állomásról való kiköltözést követően az elismert menekült vagy oltalmazott – rászorultsága esetén – az integrációs szerződés megkötéséig, de legfeljebb hat hónapon keresztül havonta folyósított támogatásra jogosult, amelynek mértéke a foglalkoztatást helyettesítő támogatás összege.
 
 ### VII. Fejezet — A MENEKÜLTÜGYI ELJÁRÁS ÁLTALÁNOS SZABÁLYAI
 
@@ -742,18 +787,13 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (5) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
-54. § (1) Ha a kérelmező második kérelmét azt követően nyújtja be, hogy első kérelme tárgyában – a kérelem írásban történő visszavonásától eltérő okból – jogerős megszüntető döntés született, a menekültügyi hatóság megvizsgálja, hogy a korábbi döntést követően felmerültek-e olyan új körülmények vagy tények, amelyek alapján a kérelmező menekültkénti vagy oltalmazottkénti elismerésének lenne helye.
+54. § (1) Ha a kérelmező második kérelmét azt követően nyújtja be, hogy első kérelme tárgyában jogerős megszüntető döntés született, a menekültügyi hatóság megvizsgálja, hogy a korábbi döntést követően felmerültek-e olyan új körülmények vagy tények, amelyek alapján a kérelmező menekültkénti vagy oltalmazottkénti elismerésének lenne helye.
 
 (2) Ha a menekültügyi hatóság az (1) bekezdés szerinti esetben a kérelem elfogadhatatlanságát vagy nyilvánvaló megalapozatlanságát állapítja meg, a kérelmezőt a döntés közlését követően nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
 
-(3) Ha a kérelmező azt követően nyújt be kérelmet, hogy korábbi kérelme tárgyában jogerős elutasító, illetve a kérelem írásban történő visszavonása miatt jogerős megszüntető döntés született, és magyar hatóság vagy bíróság legutóbbi döntésében a visszaküldés tilalmának fennállását nem állapította meg
+(3) Ha ugyanaz a kérelmező azt követően nyújt be kérelmet, hogy korábbi kérelme tárgyában jogerős elutasító, illetve megszüntető döntés született, és magyar hatóság vagy bíróság legutóbbi döntésében a visszaküldés tilalmának fennállását nem állapította meg, a külföldit nem illetik meg az 5. § (1) bekezdés b)–c) pontjában foglalt jogosultságok.
 
-- a) a kérelem benyújtásának nincs halasztó hatálya
-  - aa) a kiutasítás végrehajtására;
-  - ab) a külföldi kiadatási eljárásban történő átadására;
-- b) a külföldit nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
-
-(4) Az (3) bekezdés b) pontjában foglaltak nem érintik a jogszabályok alapján biztosított jogosultságokat.
+(4) A (3) bekezdésben foglaltak nem érintik a jogszabályok alapján biztosított jogosultságokat.
 
 55. § (1) A menekültügyi hatóság a kérelmet részletes vizsgálati eljárásra utalja, amennyiben a kérelem elfogadhatóságát állapítja meg, és a kérelem nem nyilvánvalóan megalapozatlan.
 
@@ -1062,7 +1102,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 (3) Az ujjnyomat-adat rögzítésének és tárolásának célja
 
-- a) az Európai Parlament és a Tanács .../2013/EU rendeletének hatékony alkalmazása érdekében az ujjnyomatok összehasonlítására és az Eurodac rendszerhez a tagállamok rendészeti szervei és az Europol részére biztosított, rendészeti célú hozzáférés biztosítására irányuló, ...-i, .../2013/EU európai parlamenti és tanácsi rendelet végrehajtása;
+- a) a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet végrehajtása;
 - b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.
 
 (4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek.
@@ -1086,20 +1126,20 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 (2) A befogadó állomáson elhelyezett személy adatait a befogadó állomás végleges elhagyását követő egy évig kell kezelni.
 
-85. § (1) A menekült, az oltalmazott, illetve a menedékes lakóhelye, tartózkodási helye vagy szálláshelye szerint illetékes járási hivatal – az e törvényben és külön jogszabályban meghatározott, hatáskörébe tartozó ellátásra, illetve támogatásra való jogosultság megállapítása céljából – nyilvántartást vezet a hatáskörébe tartozó támogatásra jogosult személy
+85. § (1) A menekült, az oltalmazott, illetve a menedékes lakóhelye, tartózkodási helye vagy szálláshelye szerint illetékes járási hivatal és települési önkormányzat – az e törvényben és külön jogszabályban meghatározott, hatáskörébe tartozó feladatok ellátása céljából – nyilvántartást vezet a hatáskörébe tartozó támogatásra jogosult személy
 
 - a) természetes személyazonosító adatairól;
 - b) lakóhelyéről, tartózkodási helyéről vagy szálláshelyéről;
-- c) a folyósított támogatás összegéről;
+- c) a folyósított támogatás összegéről; valamint
 - d) a folyósítás időpontjáról, visszatérítendő támogatás esetén a törlesztési határidőről.
 
-(1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) és d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) és d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2) A támogatást folyósító szervek kezelhetik a járási hivatal hatáskörébe tartozó támogatásra jogosult személlyel közös háztartásban élő családtagok kereseti és vagyoni viszonyaira vonatkozó adatokat, amennyiben a támogatás feltételeinek fennállása ezek alapján állapítható meg.
+(3) A támogatást folyósító szervek kezelhetik a járási hivatal és a települési önkormányzat hatáskörébe tartozó támogatásra jogosult személlyel közös háztartásban élő családtagok kereseti és vagyoni viszonyaira vonatkozó adatokat, amennyiben a támogatás feltételeinek fennállása ezek alapján állapítható meg.
 
-(3) A támogatást folyósító szervek kötelesek adatot szolgáltatni a menekültügyi hatóság, valamint a (2) bekezdés szerinti adatok igénylésére törvényben feljogosított szervek részére.
+(4) A támogatást folyósító szervek kötelesek adatot szolgáltatni a menekültügyi hatóság, valamint a (2) bekezdés szerinti adatok igénylésére törvényben feljogosított szervek részére.
 
-(4) A járási hivatal és a támogatást folyósító szervek az (1)–(2) bekezdésben meghatározott adatokat a támogatásra való jogosultság, illetve a visszafizetési kötelezettség fennállásáig kezelhetik.
+(5) A járási hivatal, a települési önkormányzat és a támogatást folyósító szervek az (1)–(3) bekezdésben meghatározott adatokat a támogatásra való jogosultság, illetve a visszafizetési kötelezettség fennállásáig kezelhetik.
 
 86. § A menekültügyi hatóság jogszabályban meghatározott feladatai ellátása céljából – törvényben meghatározott adatkörben – adatokat igényelhet
 
@@ -1128,7 +1168,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 igényelhetnek adatot.
 
-(2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
+(2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
 
 (3) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és az azokat tartalmazó nyilvántartásokból személyazonosításra alkalmatlan módon statisztikai célra adatok szolgáltathatók.
 
@@ -1191,7 +1231,11 @@ igényelhetnek adatot.
 
 (2) Ahol e törvény a kérelem ismételt benyújtásához jogkövetkezményt fűz, a megelőző kérelmek számának megállapításakor az e törvény hatálybalépése előtt benyújtott kérelmeket is figyelembe kell venni.
 
-92. §
+92. § (1) A 2014. január 1-jét megelőzően befogadó állomáson elhelyezett menekült és oltalmazott 2014. február 28. napjáig tartózkodhat az erre vonatkozó határozat alapján a befogadó állomáson.
+
+(2) Az a menekültként vagy oltalmazottként elismert személy, akinek 2014. január 1-jén a jogszabályban meghatározott támogatás iránti kérelme elbírálása folyamatban van vagy támogatásban részesül, a Met. 2. § n) pontja szerinti integrációs szerződést 2014. február 28. napjáig kötheti meg.
+
+(3) A 2014. január 1-jét megelőzően megítélt támogatások folyósítására 2014. február 28. napja után nem kerülhet sor.
 
 ### Felhatalmazó rendelkezések
 
@@ -1217,7 +1261,7 @@ igényelhetnek adatot.
 
 - a) határozza meg a menekültügy szervezeti rendszerének felépítését, feladatait és működési rendjét;
 - b) jelölje ki a menekültügyi nyilvántartás, valamint a 83. § (3) bekezdésben meghatározott adatkör tekintetében az adatfeldolgozásra jogosult szervet;
-- c) határozza meg az Európai Parlament és a Tanács .../2013/EU rendeletének 33. cikke szerinti korai előrejelzésre, készültségre és válságkezelésre vonatkozó rendszer működtetéséhez szükséges adatközlésre vonatkozó részletes szabályokat és jelölje ki a felelős hatóságokat,
+- c) határozza meg az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i, 604/2013/EU európai parlamenti és tanácsi rendelet 33. cikke szerinti korai előrejelzésre, készültségre és válságkezelésre vonatkozó rendszer működtetéséhez szükséges adatközlésre vonatkozó részletes szabályokat és jelölje ki a felelős hatóságokat;
 - d) határozza meg a menekültügyi óvadék összege mértékét, a menekültügyi óvadék letételével összefüggő eljárási szabályokat, valamint a menekültügyi óvadék kezelésével kapcsolatos rendelkezéseket, továbbá
 - e) határozza meg a menekültügyi őrizet végrehajtására vonatkozó részletes szabályokat,
 
@@ -1282,5 +1326,5 @@ b) az egy évet meghaladja, e törvény erejénél fogva válik a gyermek tankö
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
 - a) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről szóló, 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (VIS-rendelet) [35. §, 83. §],
-- b) az Európai Parlament és a Tanács .../2013/EU rendeletének hatékony alkalmazása érdekében az ujjnyomatok összehasonlítására és az Eurodac rendszerhez a tagállamok rendészeti szervei és az Europol részére biztosított, rendészeti célú hozzáférés biztosítására irányuló, ...-i, .../2013/EU európai parlamenti és tanácsi rendelet, valamint
-- c) az egy harmadik ország állampolgára, illetve hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, ...-i, .../2013/EU európai parlamenti és tanácsi rendelet.
+- b) a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet, valamint
+- c) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i, 604/2013/EU európai parlamenti és tanácsi rendelet.

@@ -18,7 +18,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
   - c) 12. § a) és b) pontjában meghatározott adómentességének megszűnése;
   - d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghatározott adómentesség megszűnése;
 - 2. átalakítás: a közúti gépjármű olyan műszaki megváltoztatása, amelynek eredményeként az e törvény hatálya alá nem tartozó gépjárműből személygépkocsi vagy motorkerékpár jön létre, illetőleg a személygépkocsi vagy a motorkerékpár más adókategóriába kerül;
-- 3. személygépkocsi: a Kereskedelmi Vámtarifának az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapota alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót és az e törvény szerinti motorkerékpárt;
+- 3. személygépkocsi: a Kereskedelmi Vámtarifának az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapota alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót, a halottszállító kocsit és az e törvény szerinti motorkerékpárt;
 - 4. új gépjármű: az a személygépkocsi, illetve motorkerékpár, amely az adó alanya által történt megszerzésének időpontjában legfeljebb 6000 kilométert futott, vagy amelynek első külföldi forgalomba helyezésétől számítva legfeljebb 6 hónap telt el;
 - 5. muzeális jellegű gépjármű: a gépjárműadóról szóló 1991. évi LXXXII. törvény 18. § 14. pontjában meghatározott gépjármű;
 - 6. nyilvántartásba vétel: a gépjármű közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti jármű nyilvántartásba vétele;
@@ -78,9 +78,9 @@ feltéve, hogy annak közvetlen következményeként a gépjárművet forgalomba
 
 keletkezik.
 
-7. § (1) Az adót az adóigazolás kiváltásával – a vámhatósághoz történt bejelentést követően – az adóigazolás kiváltásának időpontjában a 4. § (1) bekezdése szerinti adóalanynak értékesítő, vagy azt megelőző bármely értékesítő is megfizetheti, feltéve, hogy az értékesítő belföldön székhellyel, telephellyel, fiókteleppel vagy állandó lakóhellyel rendelkezik, és az általános forgalmi adó alanya. Az így megfizetett adó, mint más nevében és javára megfizetett összeg, nem tartozik bele a forgalomba helyezést megelőzően teljesített értékesítések, illetve az import áfa alapjába, feltéve, hogy az adó összegét az adót megfizető személy nyilvántartásában elszámolási kötelezettségként szerepelteti. Nem része az adó az import, illetve a Közösségen belüli beszerzés áfa alapjának akkor sem, ha a 4. § (2), illetve (3) bekezdése szerinti adóalany és a forgalomba helyezést saját nevére kezdeményező ugyanaz a személy. Nem tartozik bele továbbá az adó az áfa alapjába abban az esetben, ha a gépjármű e törvény szerinti átalakítása áfafizetési kötelezettséget keletkeztet.
+7. § (1) Az adót – a vámhatósághoz történt bejelentést követően – a 4. § (1) bekezdése szerinti adóalanynak értékesítő, vagy azt megelőző bármely értékesítő is megfizetheti, feltéve, hogy az értékesítő belföldön székhellyel, telephellyel, fiókteleppel vagy állandó lakóhellyel rendelkezik, és az általános forgalmi adó alanya. Az így megfizetett adó, mint más nevében és javára megfizetett összeg, nem tartozik bele a forgalomba helyezést megelőzően teljesített értékesítések, illetve az import áfa alapjába, feltéve, hogy az adó összegét az adót megfizető személy nyilvántartásában elszámolási kötelezettségként szerepelteti. Nem része az adó az import, illetve a Közösségen belüli beszerzés áfa alapjának akkor sem, ha a 4. § (2), illetve (3) bekezdése szerinti adóalany és a forgalomba helyezést saját nevére kezdeményező ugyanaz a személy. Nem tartozik bele továbbá az adó az áfa alapjába abban az esetben, ha a gépjármű e törvény szerinti átalakítása áfafizetési kötelezettséget keletkeztet.
 
-(2) Az így megfizetett adó összegéről a vámhatóság az adót megfizető személy részére a 11. § szerinti adóigazolást állít ki.
+(2)
 
 (3) Az adót a vámhatóság határozattal állapítja meg.
 
@@ -102,9 +102,9 @@ keletkezik.
 
 (3) Import esetén az adót a vámhatóság a vámeljárás során állapítja meg.
 
-(4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelemmel egyidejűleg értesíteni a vámhatóságot az átalakítás szándékáról, bejelentve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű motortérfogatának és környezetvédelmi kategóriába tartozásának, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).
+(4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelmet benyújtani. A közlekedési hatóság az átalakítási engedély kiadásakor, annak egy példánya megküldésével haladéktalanul értesíti a vámhatóságot az adóalany átalakítási szándékáról, közölve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű hengerűrtartalmát, üzemanyag fajtáját és környezetvédelmi osztályba sorolását, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).
 
-(5) A közlekedési igazgatási hatóság a gépjárműnek az adóigazolásban szereplő alvázszámáról, gyártmányáról, típusáról és a motor egyedi azonosító jeléről, illetve kódjáról, valamint az adóigazolás sorszámáról az adategyezőség ellenőrzésének céljából adatokat kérhet a vámhatóságtól.
+(5) A közlekedési igazgatási hatóság a gépjármű alvázszámáról, gyártmányáról, típusáról és a motor egyedi azonosító jeléről, illetve kódjáról az adategyezőség ellenőrzésének céljából adatokat kérhet a vámhatóságtól.
 
 (6) A közúti közlekedési nyilvántartást vezető szerv a tárgyhónapot követő hónap 15. napjáig a tárgyhónapban forgalomba helyezett, e törvény alkalmazásában személygépkocsinak és motorkerékpárnak minősülő gépjárművekről a vámhatóság részére adatot szolgáltat a következő tartalommal:
 
@@ -172,17 +172,7 @@ keletkezik.
 
 10/G. § A vámhatóság adót megállapító határozata ellen a gépjármű tényleges értékcsökkenésének figyelmen kívül hagyására történő hivatkozással az az adóalany élhet jogorvoslati kérelemmel, aki (amely) az elsőfokú adóigazgatási eljárásban indítványozta az adó különös szabályok szerinti megállapítását. A 10/E. § szerinti esetben a döntésnek az adó különös szabályok szerinti megállapítása iránti indítványt elutasító és a díj viseléséről szóló rendelkezése ellen önálló jogorvoslatnak nincs helye.
 
-### Az adóigazolás
-
-11. § (1) Az adókötelezettség megfizetéséről a vámhatóság adóigazolást állít ki. Adóigazolást akkor is ki kell állítani, ha az adókötelezettség negatív előjelű.
-
-(2) Az adóigazolást az adó alanyának kell kiadni, amelyet a továbbiakban együtt kell kezelni azzal a gépjárművel, amelyre az adóigazolás szól.
-
-(3) Új gépjármű Közösségen belüli beszerzésekor, ha az áfát a vámhatóság határozattal állapítja meg, adóigazolás csak akkor adható ki, ha az általános forgalmi adóról szóló törvény szerint fizetendő áfa megfizetése is megtörtént.
-
-(4) A 4. § (5) bekezdése esetében az adóigazolás csak akkor adható ki, ha a tulajdonostársak a gépjárművet terhelő adókötelezettségüknek maradéktalanul eleget tettek.
-
-(5) Azon gépjármű esetében, amelyre az adót a melléklet II. részében foglalt előírások figyelembevételével kell megállapítani, az adóigazolás tartalmazza azt, hogy a vámhatóság az adót az általános vagy a különös szabályok szerint állapította meg. Az adó különös szabályok szerinti megállapítása esetében az adóigazolás tartalmazza az egyedi mértéknek megfeleltethető gépjármű-kort is.
+11. §
 
 ### Adómentességek
 
@@ -197,7 +187,7 @@ keletkezik.
 
 ### Az adó visszaigénylése
 
-13. § (1) A forgalomba helyezés előtt megfizetett adó a vámhatósághoz benyújtott kérelemmel visszaigényelhető, ha
+13. § (1) A forgalomba helyezés előtt megfizetett adót az adóalany a vámhatósághoz benyújtott kérelemmel visszaigényelheti, ha
 
 - a) a gépjárművet – forgalomba helyezés nélkül – végleges rendeltetéssel belföldről kiszállítják vagy kiviszik;
 - b) a forgalomba helyezés előtt a gépjármű
@@ -217,13 +207,13 @@ keletkezik.
 
 kell igazolni.
 
-(3) Az adó visszaigénylésének feltétele az is, hogy a gépjármű adóigazolását legkésőbb a kérelem benyújtásával egyidejűleg a vámhatóságnak visszaszolgáltassák.
+(3)
 
 (4) Abban az esetben, ha az (1) bekezdésben meghatározottakhoz képest a gépjárművet utóbb mégis forgalomba helyezik, újból adókötelezettség keletkezik.
 
 (5) Ha a gépjárműflotta-üzemeltető által bérbe adott személygépkocsira kötött bérleti szerződés az abban foglalt bérleti időtartam lejártát megelőzően megszűnik, akkor a bérbe adott személygépkocsi után megfizetett adó és a szerződés lejárta alapján számított adó különbözetét az adóalany visszaigényelheti.
 
-14. § (1) Ha a 8. § (2) bekezdése szerinti esetben a különbözet előjele negatív, a gépjármű átalakítása előtti forgalomba helyezéskor megfizetett és az átalakítást követő forgalomba helyezéskor számított adó különbözetét az adóalany a vámhatósághoz benyújtott kérelemmel visszaigényelheti.
+14. § (1) Ha a 8. § (2) bekezdése szerinti esetben a különbözet előjele negatív, a gépjármű átalakítása előtti forgalomba helyezéskor megfizetett és az átalakítást követő forgalomba helyezéskor számított adó különbözetét az adóalany a vámhatósághoz benyújtott kérelemmel visszaigényelheti, ha az átalakítást követő forgalomba helyezéskor a gépjármű környezetvédelmi osztályba sorolása jobb, mint az átalakítás előtti forgalomba helyezéskori környezetvédelmi osztályba sorolása.
 
 (2) Az (1) bekezdésben említett esetben a kérelemhez csatolni kell az átalakítás változásait tartalmazó forgalmi engedély másolatát.
 
@@ -243,7 +233,7 @@ kell igazolni.
 
 (3) Az adózó a (2) bekezdés szerinti feltételek teljesülését adókötelezettségének adóévi első ízben való keletkezését követő, míg a személygépkocsi bérbeadási szerződését – annak megkötésétől számított – 15 napon belül nyújtja be a vámhatósághoz. Az adót a vámhatóság a bérleti szerződés benyújtását követő 3 munkanapon belül határozattal állapítja meg a gépjárműflotta-üzemeltető terhére.
 
-(4) A vámhatóság az adó megfizetéséről a személygépkocsi rendszámát, alvázszámát, a bérlet időtartamát, valamint a bérbeadó és bérlő adatait tartalmazó – a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 20. § (1) bekezdés l) pontjában foglalt esetben a Kkt. 20. § (4) bekezdése szerinti bírság alól mentesítő – igazolást ad ki az adó megfizetését követő 3 munkanapon belül, melyet a rendőrség részére elektronikus úton is továbbít.
+(4) A vámhatóság az adó megfizetéséről a személygépkocsi rendszámát, alvázszámát, a bérlet időtartamát, valamint a bérbeadó és bérlő adatait tartalmazó – a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 20. § (1) bekezdés l) pontjában foglalt esetben a Kkt. 20. § (4) bekezdése szerinti bírság alól mentesítő – elektronikus igazolást továbbít a rendőrség részére az adó megfizetését követő 3 munkanapon belül.
 
 ### Záró és átmeneti rendelkezések
 
@@ -265,13 +255,15 @@ kell igazolni.
 
 (3) A 8. § (3) bekezdését akkor is alkalmazni kell, ha a személygépkocsit 2004. február 1. napja előtt helyezték forgalomba, de 2004. február 1. napját követően alakították át. Ha az átalakítás révén különbözeti vámteher is keletkezik, a 8. § (3) bekezdésében foglaltakat akkor is alkalmazni kell azzal, hogy a különbözeti vámteher megállapítása során az e törvényben megállapított regisztrációs adót is figyelembe kell venni.
 
-(4) A 13. § (6) bekezdése alapján az adó visszafizetése kizárólag olyan személygépkocsi átalakítása során történhet, amelynek a forgalomba helyezésekor az e törvény szerinti adót fizették meg.
+(4) A 14. § (1) bekezdése alapján az adó visszafizetése kizárólag olyan személygépkocsi átalakítása során történhet, amelynek a forgalomba helyezésekor az e törvény szerinti adót fizették meg.
 
 20. § (1) Felhatalmazást kap a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az egyedi adó-megállapítás díját, valamint az annak megfizetésre vonatkozó egyéb eljárási szabályokat.
 
 (2)
 
 20/A. § A Mellékletnek az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel (a továbbiakban: Módtv.) megállapított II. részét a Módtv. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+21. § A 2. § 3. pontjának az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított módosítását az e módosítás hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 ### Melléklet a 2003. évi CX. törvényhez
 

@@ -42,7 +42,9 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - r) EU Kék Kártya: olyan tartózkodási engedély, amely magas szintű képzettséggel rendelkező birtokosát valamely tagállam területén történő tartózkodásra és egyúttal magas szintű képzettséget igénylő, a 20/C. §-ban meghatározott feltételek szerinti munkavállalásra jogosítja;
 - s) különösen kizsákmányoló foglalkoztatási feltételek: olyan feltételek – a nemi vagy egyéb alapú megkülönböztetésből származó feltételeket is beleértve –, amelyek feltűnően aránytalanul eltérnek a legálisan foglalkoztatott munkavállalók foglalkoztatási feltételeitől, amely eltérés különösen a munkavállalók egészségét és biztonságát érinti, és sérti az emberi méltóságot;
 - t) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik;
-- u) őrzött szállás: a személyes szabadságában korlátozott külföldi elhelyezésére szolgáló, az idegenrendészeti eljárásban elrendelt őrizet céljaira sajátosan kialakított létesítmény.
+- u) őrzött szállás: a személyes szabadságában korlátozott külföldi elhelyezésére szolgáló, az idegenrendészeti eljárásban elrendelt őrizet céljaira sajátosan kialakított létesítmény;
+- v) összevont engedély: olyan tartózkodási engedély, amely a harmadik országbeli állampolgárt Magyarország területén meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítésére és tartózkodásra jogosítja;
+- w) összevont kérelmezési eljárás: olyan eljárás, amely az általa benyújtott kérelem alapján a harmadik országbeli állampolgárnak Magyarország területén való száznyolcvan napon belül kilencven napot meghaladó tartózkodása és meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítése engedélyezésére irányul.
 
 3. § Harmadik országbeli állampolgárnak kell tekinteni
 
@@ -236,7 +238,7 @@ rendelkezik.
 
 (4) A keresőtevékenység folytatása céljából kiadott tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
-(5) Munkavállalási engedélyhez kötött tevékenység esetén a tartózkodási engedély érvényességi ideje a munkavállalási engedély érvényességi időtartamához igazodik.
+(5)
 
 20/A. § (1) EU Kék Kártyát az a harmadik országbeli állampolgár kap, aki
 
@@ -396,6 +398,52 @@ kíván Magyarország területén tartózkodni.
 (6) A befogadottat megilletik a tartózkodási engedéllyel rendelkezőknek, illetve a befogadottaknak külön törvényben biztosított jogok. A befogadott köteles személyazonosságának megállapítását elősegíteni, de a személyazonosság bizonyításának hiánya miatt a tartózkodási engedély kiadása nem tagadható meg.
 
 (7) A befogadott, illetve az (1) bekezdés e) pontja alapján tartózkodási engedéllyel ellátott harmadik országbeli állampolgár, aki emberkereskedelem áldozata, külön jogszabályban meghatározott ellátásra és támogatásra jogosult.
+
+### Az összevont engedély kiadására és meghosszabbítására vonatkozó szabályok
+
+29/A. § (1) A tartózkodási engedély kiadása vagy meghosszabbítása összevont kérelmezési eljárás keretében történik, ha a keresőtevékenység folytatása céljából kiállított tartózkodási engedély iránti kérelmet előterjesztő harmadik országbeli állampolgár tartózkodása meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítésére irányul.
+
+(2) Összevont kérelmezési eljárás keretében történik a tartózkodási engedély kiadása vagy meghosszabbítása akkor is, ha a harmadik országbeli állampolgár foglalkoztatásra irányuló jogviszonyt kíván létesíteni és
+
+- a) családi együttélés biztosítása céljából kiállított tartózkodási engedély, vagy
+- b) EU Kék Kártya iránti kérelmet terjeszt elő.
+
+(3) Összevont kérelmezési eljárás keretében történik a tartózkodási engedély kiadása vagy meghosszabbítása akkor is, ha a harmadik országbeli állampolgár foglalkoztatásra irányuló jogviszonyt kíván létesíteni és
+
+- a) családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel,
+- b) EU Kék Kártyával,
+- c) a 20. § (1) bekezdés b)–c) pontja alapján keresőtevékenység folytatása céljából kiadott tartózkodási engedéllyel, vagy
+- d) a 29. § (1) bekezdés a), illetve e)–f) pontja, vagy (1a) bekezdése alapján kiadott humanitárius célú tartózkodási engedéllyel rendelkezik.
+
+(4) Nem alkalmazható az összevont kérelmezési eljárás
+
+- a) a törvényben meghatározottak szerint szabad mozgás és tartózkodás jogával rendelkező személyre,
+- b) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i, 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgárra, aki Magyarország területén kiküldetésben tartózkodik,
+- c) arra a harmadik országbeli állampolgárra, aki Magyarország területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
+- d) a vállalaton belül áthelyezett munkavállalóként, au pairként vagy tengerészként Magyarország területén tartózkodni szándékozó, illetve tartózkodó harmadik országbeli állampolgárra,
+- e) arra a harmadik országbeli állampolgárra, aki a menekültügyi hatóságtól menekültkénti elismerését kérte vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért,
+- f) arra, akit Magyarország menekültként ismert el, avagy ideiglenes vagy kiegészítő védelemben részesített,
+- g) a befogadottra,
+- h) arra a harmadik országbeli állampolgárra, aki az Európai Unió más tagállama által kiadott huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkezik,
+- i) arra a harmadik országbeli állampolgárra, akinek tartózkodási célja, hogy jogszabály szerint önállóan, ellenérték fejében végezhető tevékenységet folytasson,
+- j) arra a harmadik országbeli állampolgárra, akinek tartózkodási célja tanulmányok folytatása, valamint
+- k) arra a harmadik országbeli állampolgárra, aki a 7/A. § alapján keresőtevékenységet folytathat.
+
+(5) Ha a tartózkodási engedély kiadása és meghosszabbítása összevont kérelmezési eljárás keretében történik, az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított kilencven napon belül hozza meg.
+
+(6) Az idegenrendészeti hatóság az (1)–(3) bekezdés szerinti eljárásban a tartózkodási engedélyt összevont engedélyként állítja ki.
+
+(7) Az idegenrendészeti hatóság összevont engedélyezési eljárás keretében összevont engedélyt akkor adhat ki, ha a harmadik országbeli állampolgár
+
+- a) foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott, és
+- b) a törvényben meghatározott tartózkodási feltételeket teljesíti.
+
+(8) Ha a tartózkodási engedély összevont engedélyként kerül kiállításra, a tartózkodási engedély érvényességi ideje – a családi együttélés biztosítása céljából kiadott tartózkodási engedély, az EU Kék Kártya, valamint a 29. § (1) bekezdés a), illetve e)–f) pontja vagy (1a) bekezdése alapján kiadott humanitárius tartózkodási engedély kivételével – legfeljebb két év, amely alkalmanként legfeljebb két évvel meghosszabbítható.
+
+(9) A harmadik országbeli állampolgár a meghatározott foglalkoztatóval történő foglalkoztatási jogviszony létesítésítére irányuló szándékát haladéktalanul köteles az idegenrendészeti hatóságnál bejelenteni, ha
+
+- a) a foglalkoztatására a korábbitól eltérő foglalkoztatónál vagy eltérő feltételekkel kerül sor, vagy
+- b) a (3) bekezdésben meghatározott engedélyekkel rendelkezik.
 
 ### Ideiglenes tartózkodásra jogosító igazolás
 
@@ -1349,6 +1397,13 @@ szerinti állam vonatkozásában.
 
 (3) Az (1) bekezdés j) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig, illetve a 29. § (1) bekezdés a)–b) és d)–f) pontjában, illetve (1a) bekezdésében meghatározott humanitárius tartózkodási engedély kiadásáig kezelheti, azt követően haladéktalanul törölni kell.
 
+(4) Az (1) bekezdés e) pontjában meghatározott adatok az összevont kérelmezési eljárás vonatkozásában különösen a következők:
+
+- a) a foglalkoztató adatai (név, cím, székhely, telephely, gazdálkodási forma, adószám, KSH-szám),
+- b) a munkavégzés helye,
+- c) a munkakör (FEOR-szám), valamint
+- d) a foglalkoztatásra irányuló jogviszony időtartama.
+
 96/A. § A kishatárforgalmi engedély kiadásához rögzített, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatot az idegenrendészeti hatóság a kishatárforgalmi engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
 
 97. § (1) Az idegenrendészeti hatóság a meghívó, továbbá a meghívott harmadik országbeli állampolgár következő adatait kezeli:
@@ -1617,6 +1672,8 @@ hatályát veszti.
 
 (9) Az idegenrendészeti hatóság 2013. október 31-ig köteles megvizsgálni, hogy a (8) bekezdés szerinti harmadik országbeli állampolgárok esetében a kijelölt helyen való tartózkodás elrendelésének feltételei fennállnak-e, és – ha ezek a feltételek fennállnak – más tartózkodási helyet kijelölni.
 
+(10) A 2013. december 31. napját követően indult tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem ügyében, ha a harmadik országbeli állampolgár a hatálybalépést megelőzően kiadott munkavállalási engedéllyel rendelkezik, részére – a tartózkodási feltételek teljesítése esetén – összevont engedélyt kell kiadni, és az eljárás során mellőzni kell annak vizsgálatát, hogy a harmadik országbeli állampolgár foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott-e.
+
 ### Felhatalmazó rendelkezések
 
 111. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
@@ -1638,7 +1695,8 @@ hatályát veszti.
 - o) a tagállamok által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
 - p) a hontalanság megállapítására irányuló eljárás részletes szabályait;
 - q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
-- r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket.
+- r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket;
+- s) az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 
@@ -1706,7 +1764,8 @@ hatályát veszti.
 - s) a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és a tanácsi irányelv [5. §, 32. § (5) bekezdés, 34. § (9) és (10) bekezdés, 38. § (2) bekezdés d) és f) és g) pont, 38. § (5a) bekezdés, 39. § (1a) bekezdés, 45. § (2a)–(2e) bekezdés, 107. § (4) bekezdés],
 - t) a menedékkérők befogadása minimumszabályainak megállapításáról szóló, 2003. január 27-i 2003/9/EK tanácsi irányelv;
 - u) a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról szóló, 2004. április 29-i 2004/83/EK tanácsi irányelv;
-- v) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló, 2005. december 1-jei 2005/85/EK tanácsi irányelv.
+- v) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló, 2005. december 1-jei 2005/85/EK tanácsi irányelv;
+- w) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv.
 
 (2) E törvény
 

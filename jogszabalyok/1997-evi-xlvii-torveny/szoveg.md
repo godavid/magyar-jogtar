@@ -21,7 +21,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - c) gyógykezelés: minden olyan tevékenység, amely az egészség megőrzésére, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógyítása, a megbetegedés következtében kialakult állapotromlás szinten tartása vagy javítása céljából az érintett közvetlen vizsgálatára, kezelésére, ápolására, orvosi rehabilitációjára, illetve mindezek érdekében az érintett vizsgálati anyagainak feldolgozására irányul, ideértve a gyógyszerek, gyógyászati segédeszközök, gyógyászati ellátások kiszolgálását, a mentést és betegszállítást, valamint a szülészeti ellátást is;
 - d) orvosi titok: a gyógykezelés során az adatkezelő tudomására jutott egészségügyi és személyazonosító adat, továbbá a szükséges vagy folyamatban lévő, illetve befejezett gyógykezelésre vonatkozó, valamint a gyógykezeléssel kapcsolatban megismert egyéb adat;
 - e) egészségügyi dokumentáció: a gyógykezelés során a betegellátó tudomására jutott egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
-- f) kezelést végző orvos: az érintett gyógykezelését végző vagy abban közreműködő orvos;
+- f) kezelést végző orvos: az egészségügyről szóló 1997. évi CLIV. törvény 3. § b) pontja szerinti kezelőorvos,
 - g) betegellátó: a kezelést végző orvos, az egészségügyi szakdolgozó, az érintett gyógykezelésével kapcsolatos tevékenységet végző egyéb személy, a gyógyszerész;
 - h)
 - i) adatkezelő: a betegellátó; az intézményvezető; az adatvédelmi felelős; a betegjogi képviselőket foglalkoztató szerv; az egészségügyi dokumentációt kezelő szerv; továbbá közegészségügyi-járványügyi közérdekből az 5. § (3) bekezdésében meghatározott szervek és személyek; továbbá a 22. § szerinti esetekben az ott meghatározottak szerint az egészségbiztosítási szerv; a 22/E. §-ban meghatározottak szerint az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértő (a továbbiakban: igazságügyi szakértő); a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíj-biztosítási szerv és a nyugdíj-biztosítási igazgatási szerv; továbbá a 16/A. §-ban meghatározottak szerint, valamint a lakossági célzott szűrővizsgálatok szervezése érdekében a 3. § b) pont szerinti személyazonosító adat tekintetében az egészségügyi államigazgatási szerv; a 14/A. §-ban meghatározott adatok tekintetében a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója; a 15/A. §-ban meghatározottak szerint a munkavédelmi hatóság és a munkahigiénés és foglalkozás-egészségügyi szerv; továbbá a 23. § (1) bekezdés f) pontjában meghatározott esetben az első- és másodfokú etikai eljárást lefolytató kamarai szerv;
@@ -149,7 +149,7 @@ van szükség, és
 
 (2) A háziorvos az érintettet – kérelmére – tájékoztatja a rendelkezésére álló egészségügyi adatokról.
 
-(3) A háziorvos a 4. § (1) bekezdése szerinti cél érdekében – amennyiben az érintett ezt írásban nem tiltotta meg – jogosult a hozzá bejelentkezett biztosított által a kötelező egészségbiztosítás terhére igénybevett egészségügyi ellátás adatairól tudomást szerezni úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus lekérdezés formájában biztosítja számára. Az érintettet a háziorvos írásban vagy szóban tájékoztatja a tiltakozás lehetőségéről. Az érintett a tiltakozását az egészségbiztosítási szerv részére személyesen vagy postai úton juttatja el.
+(3) Az érintett háziorvosa és a kezelését végző orvos a 4. § (1) bekezdése szerinti cél érdekében – ha az érintett ezt írásban nem tiltotta meg – jogosult az érintett által a kötelező egészségbiztosítás terhére igénybevett egészségügyi ellátás adatairól tudomást szerezni úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus lekérdezés formájában biztosítja számára. A háziorvos a hozzá bejelentkezett biztosított adatait ismerheti meg. Az érintettet a kezelést végző orvos írásban vagy szóban tájékoztatja a tiltakozás lehetőségéről. Az érintett a tiltakozását az egészségbiztosítási szerv részére személyesen, postai úton vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus úton juttatja el.
 
 12. § (1) Az egészségügyi és a személyazonosító adatoknak az érintett részéről történő szolgáltatása – az egészségügyi ellátás igénybevételéhez kötelezően előírt személyazonosító adatok és a 13. §-ban foglaltak kivételével – önkéntes.
 
@@ -206,7 +206,7 @@ van szükség, és
 
 (2a) A betegellátó továbbítja az egészségügyi államigazgatási szervnek azon személyek egészségügyi és személyazonosító adatait, akiknél a mikrobiológiai laboratóriumi vizsgálati eredmény az 1. számú melléklet A) pontja szerinti fertőzések, fertőzéses eredetű betegségek, mérgezések fennállását, illetve kórokozóik jelenlétét valószínűsíti vagy igazolja. A betegellátó továbbítja az egészségügyi államigazgatási szervnek az 1. számú melléklet A) pontja szerinti fertőzések, fertőzéses eredetű betegségek, mérgezések közül a miniszteri rendeletben meghatározott betegségekre vonatkozó azon vizsgálati eredményt is, amely a korábbi valószínűsítés ellenére nem igazolja az adott betegség fennállását. Az egészségügyi államigazgatási szerv a 4. § (1) bekezdés d) pontjában meghatározott célból, a népegészségügyi, közegészségügyi vagy járványügyi feladat ellátásához szükséges ideig és mértékben kezelheti a személyazonosító és egészségügyi adatokat, azzal, hogy azon vizsgálati eredmény esetében, amely az adott betegség fennállását a korábbi valószínűsítés ellenére nem igazolta, a vonatkozó személyazonosító adatokat haladéktalanul törölni kell.
 
-(2b) Az 1. számú melléklet B) pontja szerinti betegségek, illetve kórokozóik előfordulása esetén a betegellátó az egészségügyi adatokat személyazonosításra alkalmatlan módon jelenti az egészségügyi államigazgatási szervnek.
+(2b) Amennyiben a mikrobiológiai laboratóriumi vizsgálati eredmény az 1. számú melléklet B) pontja szerinti betegségek, illetve kórokozóik előfordulását valószínűsíti vagy igazolja, a mikrobiológiai vizsgálatot végző betegellátó az egészségügyi adatokat személyazonosításra alkalmatlan módon jelenti az egészségügyi államigazgatási szervnek.
 
 (2c) A betegellátó a miniszteri rendeletben meghatározott, felügyelet alá vont kórokozók kimutatása esetén az egészségügyi adatokat személyazonosításra alkalmatlan módon továbbítja az egészségügyi államigazgatási szervnek.
 
@@ -255,13 +255,17 @@ van szükség, és
 
 ### Népegészségügyi célból történő adatkezelés
 
-16. § (1) Amennyiben az érintett újszülött vagy csecsemő a Betegségek Nemzetközi Osztályozása szerinti valamely veleszületett rendellenességben szenved (Q00-Q99), a 4. § (1) bekezdés b)–c) pontjai és a (2) bekezdés b) pontja szerinti célból a kezelést végző orvos, ennek hiányában a rendellenességet észlelő orvos az érintett személyazonosító és egészségügyi adatait, valamint törvényes képviselője nevét és lakcímét továbbítja a külön jogszabály szerint vezetett Veleszületett Rendellenességek Országos Nyilvántartása részére.
+16. § (1) Amennyiben az érintett beteg (ide értve a magzatot is) a miniszteri rendeletben meghatározott veleszületett rendellenességben szenved, a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból a rendellenességet észlelő orvos a rendellenesség észlelésétől számított 30 napon belül az érintett személyazonosító és egészségügyi adatait, valamint – kiskorú esetén – törvényes képviselője nevét és lakcímét – miniszteri rendeletben meghatározott módon – továbbítja a Veleszületett Rendellenességek Országos Nyilvántartása részére.
 
-(2) Amennyiben a magzatnál olyan elváltozást észlelnek, amely veleszületett rendellenességet eredményezhet, az (1) bekezdés szerint kell eljárni azzal, hogy az érintett személyazonosító adatain a várandós nő adatait kell érteni.
+(2) Az (1) bekezdés szerinti bejelentést megelőzően az észlelő orvos ellenőrzi, hogy az érintett beteg (1) bekezdés szerinti adatai szerepelnek-e a Veleszületett Rendellenességek Országos Nyilvántartásában. Ha az adatok még nem kerültek bejelentésre, az orvos az (1) bekezdésben foglaltak szerint jár el. Ha az ellenőrzés során megállapításra kerül, hogy a beteg nyilvántartott adatai nem teljes körűek, a bejelentő orvos azokat kiegészíti.
 
-(3) A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv az (1) bekezdés szerint hozzá beérkezett adatok alapján a veleszületett fejlődési rendellenességek okainak feltárása céljából, azok megelőzése érdekében elkészített kérdőívet megküldi a gondozást végző területi védőnő számára, aki azt a törvényes képviselő önkéntes tájékoztatása alapján kitölti, és visszaküldi a Veleszületett Rendellenességek Országos Nyilvántartása részére.
+(3) Amennyiben a magzatnál – ide értve a spontán vagy indukált magzati halálozás, illetve halvaszületés esetét is – olyan elváltozást észlelnek, amely veleszületett rendellenességet eredményezhet, az (1) bekezdés szerint kell eljárni, azzal, hogy az érintett személyazonosító adatain a várandós nő adatait kell érteni.
 
-(4) Spontán vagy indukált magzati halálozás, illetve halvaszületés esetén a (3) bekezdés szerinti kérdőívet a kezelőorvos tölti ki.
+(4) Az (1) bekezdés szerinti bejelentő orvos és az érintett gondozását végző védőnő együttműködik a Veleszületett Rendellenességek Országos Nyilvántartását vezető szervvel a veleszületett fejlődési rendellenességek okainak feltárása céljából, azok megelőzése, a betegek gyógykezelésének nyomon követése érdekében.
+
+(4a) Az egészségügyi ellátóhálózat szervei a Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv megkeresésére a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból továbbítják a kezelésükben lévő, veleszületett rendellenességekkel kapcsolatos egészségügyi és hozzájuk kapcsolódó személyazonosító adatokat a Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv részére. A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv az (1) bekezdés szerinti adatokat az érintettre vonatkozó utolsó adattovábbítástól számított ötven évig kezelheti.
+
+(4b) A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv végzi a veleszületett rendellenességekkel kapcsolatos nemzetközi adatszolgáltatást.
 
 (5) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból daganatos eredetű betegség észlelése esetén a betegellátó továbbítja az érintett egészségügyi és személyazonosító adatait a külön jogszabály szerint vezetett Nemzeti Rákregiszternek.
 
@@ -270,6 +274,14 @@ van szükség, és
 (7) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból, a gyermekek daganatos eredetű megbetegedéseinek nyilvántartása érdekében a külön jogszabály szerint vezetett, az érintett egészségügyi és személyazonosító adatait tartalmazó Gyermekonkológiai Regiszter működik.
 
 (8) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból a Központi Statisztikai Hivatal az elhunytak személyazonosításra alkalmas halálozási adatait a külön törvény szerint meghatározott adattartalommal az adatok teljessége és összefüggése ellenőrzésének befejezését követő 5 napon belül továbbítja az (5) és a (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére. Az (5)–(7) bekezdés szerinti regiszterek az adatfeldolgozás befejezésétől számított 8 napon belül a regiszterekben nem nyilvántartott, illetve az adatfeldolgozás során nyilvántartásba nem vett elhunytak adatait kötelesek megsemmisíteni.
+
+(9) A betegellátó szívinfarktussal diagnosztizált betegség észlelése esetén továbbítja az érintett személyazonosító és a szívinfarktus megbetegedésre vonatkozó egészségügyi adatait a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból működő, a miniszteri rendeletben meghatározott Nemzeti Szívinfarktus Regiszter részére.
+
+(10) Az egészségbiztosítási szerv a kezelésében lévő, a szívinfarktussal diagnosztizált beteg személyazonosító és a szívinfarktus megbetegedésre vonatkozó egészségügyi adatait a 4. § (2) bekezdés b) pontja szerinti célból továbbítja a Nemzeti Szívinfarktus Regiszter részére.
+
+(11) A 4. § (2) bekezdés b) pontja szerinti célból a Központi Statisztikai Hivatal az elhunytak halálozással kapcsolatos egészségügyi adatait és az ahhoz kapcsolódó TAJ számot, nemet, születési helyet és időt, valamint a lakóhelyet és tartózkodási helyet az adatok teljessége és összefüggése ellenőrzésének befejezését követő 5 napon belül továbbítja a Nemzeti Szívinfarktus Regiszter részére. A Nemzeti Szívinfarktus Regiszter az adatfeldolgozás befejezésétől számított 8 napon belül a regiszterben nem nyilvántartott, illetve az adatfeldolgozás során nyilvántartásba nem vett elhunytak adatait törli.
+
+(12) A Nemzeti Szívinfarktus Regiszter adategyeztetést folytat a (9)–(11) bekezdés szerinti adatszolgáltatókkal a megküldött adatok tekintetében. A Nemzeti Szívinfarktus Regiszter a nyilvántartott adatokat az érintettre vonatkozó utolsó adattovábbítástól számított ötven évig kezelheti személyazonosításra alkalmas módon.
 
 16/A. § (1) A lakossági célzott szűrővizsgálatok, a népegészségügyi szűrővizsgálatok, valamint a népegészségügyi szűrővizsgálatok körébe is tartozó szűrést végző egészségügyi szolgáltatók szűrővizsgálatai (a továbbiakban együtt: szűrővizsgálat) eredményeinek értékelése, monitorozása érdekében – a 4. § (1) bekezdés c) és d), valamint a 4. § (2) bekezdés b) pontja szerinti célból – a feladat ellátásához szükséges mértékben és ideig az egészségügyi államigazgatási szerv értékeléssel, monitorozással megbízott munkatársa kezelheti a szűrővizsgálaton részt vevő személyek egészségügyi és személyazonosító adatait.
 
@@ -285,7 +297,7 @@ van szükség, és
 
 ### Epidemiológiai vizsgálatok, elemzések, az egészségügyi ellátás tervezése, szervezése, minőség- és teljesítményértékelés
 
-18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükségesegészségügyi adatok, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az ahhoz kapcsolódó TAJ szám, nem, születési dátum és postai irányítószám kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
+18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükséges egészségügyi adatok, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az ahhoz kapcsolódó TAJ szám, nem, születési dátum és postai irányítószám kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
 
 (2) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti, azonos érintettre vonatkozó személyazonosító adatokhoz kapcsolódóan átadott egészségügyi adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a szakmai minőségértékelésért felelős szerv minden átadott, az (1) bekezdés szerinti adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja a betegre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását. A kapcsolati kód nem származtatható személyazonosító adatból és nem lehet azzal azonos.
 
@@ -365,7 +377,23 @@ van szükség, és
 
 (5) A Betegségregiszterben gyűjtött személyazonosításra alkalmatlan egészségügyi adatokat aggregált módon az egészségügyi államigazgatási szerven keresztül megismerheti az adott gyógyszer forgalomba hozatali engedély jogosultja, illetve kizárólag tudományos célt szolgáló statisztikai elemzés érdekében – az adatkezelési szabályzatában rögzített módon – kutatóintézmény.
 
-22/B–22/D. §
+### Központi implantátumregiszter
+
+22/B. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 101/C. § (1) bekezdése szerinti adatokat tartalmazó nyilvántartás adatainak az implantátum beültetésével, kivételével és cseréjével kapcsolatos beavatkozáson átesett érintett további gyógykezelése, egészségi állapotának nyomon követése, váratlan esemény gyors elhárítása, valamint a beültethető orvostechnikai eszközök megfelelőségének ellenőrzése céljából vezetett központi implantátumregiszter részére történő továbbítását követően a központi implantátumregisztert működtető egészségbiztosítási szerv a személyazonosító adatok tekintetében kapcsolati kódot képez. A kapcsolati kódot az egészségbiztosítási szerv minden személyazonosító adat tekintetében azonos kódképzési módszer alapján hozza létre úgy, hogy az a személyes adatokra történő visszafejtést ne tegye lehetővé és ugyanazon beteg tekintetében valamennyi adattovábbítás – függetlenül a beavatkozást végző egészségügyi szolgáltatótól – azonos kapcsolati kódhoz kapcsolódjon.
+
+(2) Az (1) bekezdés szerinti kapcsolati kódot az egészségbiztosítási szerv az általa működtetett informatikai alkalmazás útján megküldi a nyilvántartást vezető egészségügyi szolgáltatónak. A kapcsolati kódot fel kell tüntetni az egészségügyi dokumentációban.
+
+(3) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátása céljából a központi implantátumregiszterben kapcsolati kóddal ellátott, személyazonosításra alkalmatlan adatokat megismerheti.
+
+(4) Az egészségbiztosítási szerv a központi implantátumregiszterben tárolt, személyazonosításra alkalmatlan adatokról kapcsolati kóddal ellátva, kérelemre 8 napon belül, illetve ha az implantátumot viselő személyek egészségének védelme érdekében szükséges, haladéktalanul, elektronikus úton tájékoztatást nyújt az egészségügyi államigazgatási szerv és a szakmai minőségértékelésért felelős szerv részére.
+
+(5) Az egészségügyi szolgáltatónak a betegdokumentációban feltüntetett kapcsolati kódot tartalmazó kérelemére az egészségbiztosítási szerv a központi implantátumregiszterben tárolt adatokról kapcsolati kóddal ellátva haladéktalanul elektronikus úton tájékoztatást nyújt az egészségügyi szolgáltató által kezelt személyen korábban végzett, implantátumot érintő beavatkozással kapcsolatban.
+
+(6) Ha az implantátumot viselő személy tekintetében sürgős szükség vagy veszélyeztető állapot megelőzése vagy elhárítása érdekében szükséges, és a legutolsó, implantációval kapcsolatos ellátást végző egészségügyi szolgáltató jogutód nélkül megszűnt vagy az egészségügyi dokumentáció nem vagy jelentős késedelemmel szerezhető be, az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv megismerheti az Eütv. 101/C. § (1) bekezdés a) pontja szerinti adatokat annak érdekében, hogy az érintettel kapcsolatba lépjen és tájékoztassa az egészsége védelmében szükséges teendőkről.
+
+(7) A központi implantátumregiszterben tárolt adatokat az érintettre vonatkozó utolsó adattovábbítástól számított 50 év elteltével törölni kell.
+
+22/C–22/D. §
 
 ### Az orvosszakértői, rehabilitációs,illetve szociális szakértői szerv, rehabilitációs hatóság adatkezelése
 
@@ -397,11 +425,19 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 - d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 - e) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a kiképzett tartalékosok békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett tartalékosok gyors és differenciált behívása érdekében, a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott körben,
 - f) az egészségügyi dolgozóval szemben folyamatban lévő etikai eljárás során az eljárás lefolytatása hatáskörrel és illetékességgel rendelkező kamarai szerv,
-- g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervek a törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében.
+- g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervek a törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
+- h) halottvizsgálat során a halottvizsgálatot végző orvos.
 
 (2) A megkeresésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 
 (3) A kezelést végző orvos a nyomozó hatóságot a ,,halaszthatatlan intézkedés'' jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő egészségügyi és személyazonosító adatokról.
+
+(4) Ha az egészségügyi adatokra a halottvizsgálat során soron kívül van szükség,
+
+- a) büntetőügyben a nyomozó hatóság, valamint az ügyészség halaszthatatlan nyomozási cselekmény keretében,
+- b) a rendkívüli halállal kapcsolatos hatósági eljárás során a bűncselekményre utaló adat kizárása érdekében az eljáró hatóság
+
+az (1) bekezdés szerinti megkeresést rövid úton is előterjesztheti, a kezelőorvos a megkeresést soron kívül teljesíti.
 
 23/A. § (1) A NER alapján, az Egészségügyi Világszervezet NER kapcsolattartó központja megkeresésére a nemzeti NER tájékoztatási központ az általa közegészségügyi vagy járványügyi közérdekből kezelt egészségügyi és személyazonosító adatokat, valamint a telefonos elérhetőséget a megkereső szerv részére – a nemzetközi horderejű közegészségügyi-járványügyi szükséghelyzet megelőzése vagy kezelése érdekében a feltétlenül szükséges mértékig – átadja, ha a megkeresés kifejezetten ezen adatokra irányul.
 
@@ -472,7 +508,7 @@ részére kell átadni.
 
 (6a) A betegjogi, ellátottjogi és gyermekjogi képviselő eljárása során keletkezett – egészségügyi és személyazonosító adatot is tartalmazó – dokumentációt az eljárás befejezését követően át kell adni a (4) bekezdés b) pontja szerinti szervnek.
 
-(7) A gyógyszertár a vényeket 5 évig őrzi meg. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
+(7) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás kiszolgáltatója, illetve nyújtója a vényeket 5 évig őrzi meg. Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, amelynek kihordási ideje 5 évnél hosszabb, a vény megőrzési ideje a kihordási idővel azonos. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
 
 (8) Az adatmegőrzés érdekében folyamatosan biztosítani kell, hogy az adathordozó az adott technikai feltételek mellett olvasható maradjon, vagy olvasható állapotba kerüljön.
 
@@ -549,14 +585,15 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 - a) az egészségügyi adatok kezelésének, valamint a 15–16/A. § és a 24. § szerinti adattovábbítás részletes előírásait, továbbá a 30. § szerinti kötelező nyilvántartások vezetésének szabályait,
 - b) a járványügyi érdekből felügyelet alá vont kórokozók, valamint a fertőző betegségek bejelentésével kapcsolatos kötelezettségeket,
 - c) a halál tényének és okának bejelentésére vonatkozó részletes szabályokat,
-- d) a veleszületett rendellenességek bejelentésére vonatkozó részletes szabályokat,
+- d) a veleszületett rendellenességek bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
 - e) a 20. § (4) bekezdés szerinti adatok körének meghatározására, gyűjtésére, feldolgozására, bejelentésére és közzétételére vonatkozó részletes szabályokat,
 - f) a gyógykezelés során alkalmazandó egészségügyi dokumentáció jellegére vonatkozó szabályokat, valamint az alkalmazandó nyomtatványok – e törvény keretei közötti – adattartalmát,
 - g) az egyes daganatos megbetegedések bejelentési módját, valamint a bejelentési kötelezettség teljesítésének és a bejelentendő adatok gyűjtésének és kezelésének szabályait,
 - h) az elektronikus vényre vonatkozó részletszabályokat,
 - i) a Betegségregiszterre vonatkozó részletes szabályokat,
-- j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat
-- k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat
+- j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat,
+- k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat,
+- l) a Nemzeti Szívinfarktus Regisztert vezető szervet kijelölje, valamint a szívinfarktussal kapcsolatos megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

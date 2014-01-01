@@ -157,7 +157,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 7. § (1) A mozgóképszakmai célok támogatása
 
 - a) a központi költségvetésből nyújtott költségvetési támogatás és a helyi önkormányzat, nemzetiségi önkormányzat által, saját költségvetéséből nyújtott támogatás (a továbbiakban együtt: közvetlen támogatás) és
-- b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben (a továbbiakban: Tao. tv.) meghatározott adókedvezményre tekintettel biztosított forrásból nyújtott támogatás (a továbbiakban: közvetett támogatás)
+- b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben (a továbbiakban: Tao. tv.) meghatározott adókedvezményre tekintettel biztosított, valamint a Tao. tv.-ben meghatározott kiegészítő támogatásból származó forrásból nyújtott támogatás (a továbbiakban: közvetett támogatás)
 
 útján valósul meg.
 
@@ -184,6 +184,8 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 (3) Az MNF működése során keletkezett egyéb bevételeit is az e törvény szerinti mozgóképszakmai célokra fordítja.
 
 (4) Az MNF-nek feladatai ellátása során figyelemmel kell lennie a különböző társadalmi igények kiszolgálására, a magyar filmipar sokszínűségének biztosítására. Így különösen lehetőséget kell adnia a különböző filmalkotói nemzedékek, irányzatok esélyegyenlőségen alapuló, minél teljesebb körű bemutatkozására, alkotói céljaik megvalósítására. Ezért az elosztási rendszer kialakítása során meghatározza az egyes részterületek közötti arányokat, egyensúlyt teremt az alkotói, filmelőállítói, terjesztési és nézői szempontok, valamint a művészeti és gazdasági érdekek között.
+
+(5) Az MNF közvetlenül vagy az általa alapított gazdasági társaságon keresztül is jogosult filmgyártási tevékenységet folytatni, ebben az esetben nem minősül e törvény szerinti támogatónak.
 
 9/B. § (1) Az MNF feladatai különösen:
 
@@ -887,11 +889,10 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 
 (6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, továbbá a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége érdekében. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-(7) A közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján a közvetett támogatás forrását a letéti számlára utalja. A letéti számlára a tárgyévben befizetett összeg
+(7) A közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján a közvetett támogatás forrását a letéti számlára utalja. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
 
-- a) a 2012. évben a 3000,0 millió forintot,
-- b) a 2013. évben a 9700,0 millió forintot,
-- c) a 2014. évben a 7000,0 millió forintot.
+- a) a 2013. évben a 9700,0 millió forintot,
+- b) a 2014. évben a 7000,0 millió forintot
 
 nem haladhatja meg.
 
@@ -921,17 +922,17 @@ nem haladhatja meg.
 
 (8) Valamely rendezvényről készített filmalkotás esetén csak a filmgyártáshoz közvetlenül kapcsolódó olyan költségek számolhatók el, amelyek nem a rendezvény létrehozásához kapcsolódnak. Ha a rendezvény létrehozásához és a filmgyártáshoz kapcsolódó költségek nem különíthetőek el egyértelműen, akkor azok nem számolhatók el közvetlen filmgyártási költségként.
 
-(9) Nem számolható el közvetlen filmgyártási költségként az a költség, amelyre vonatkozóan a pénzügyi teljesítést váltó kibocsátásával, vagy termékek és szolgáltatások beszámításával valósítják meg.
+(9) Nem számolható el közvetlen filmgyártási költségként az a költség, amelyre vonatkozóan a pénzügyi teljesítést váltó kibocsátásával vagy termékek és szolgáltatások beszámításával valósítják meg, kivéve az MNF által nyújtott termékértékesítéseknek és szolgáltatásoknak azon ellenértékét, amelyet az MNF az általa pénzügyileg folyósított támogatásból visszatart vagy a támogatás részeként biztosít.
 
 31/F. § (1) A közvetlen magyar filmgyártási költségek között az a közvetlen filmgyártási költségnek minősülő filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás ismerhető el,
 
 - a) amelyet az Szt. 160. § (3) bekezdés a)–b) pontjában megnevezett számlákon számolnak el, és
-- b) amely a személyi jövedelemadóról szóló 1995. évi CXVII. törvény, az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény, a Tao. tv. vagy az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény szerinti adókötelezettség alá eső, illetve a költségvetési szervnél bevételt eredményező kötelezettség teljesítésével keletkezett, vagy
+- b) amely a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.), az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény, a Tao. tv. vagy az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény szerinti adókötelezettség alá eső, illetve a költségvetési szervnél bevételt eredményező kötelezettség teljesítésével keletkezett, vagy
   - ba) amely a filmgyártással kapcsolatban teljesített személyi jellegű kifizetések után fizetendő járulékkötelezettség teljesítésével összefüggésben keletkezett, vagy
   - bb) amely az adózás előtti eredmény terhére elszámolt adókötelezettségek teljesítésével keletkezett, ideértve a számlában feltüntetett, a számla kibocsátója által fizetendő adókötelezettséget is (különösen az előzetesen felszámított, nem levonható általános forgalmi adó, vagy egyéb, számlában feltüntetett fogyasztást terhelő és nem visszaigényelhető adó), és
 - c) megfelel a 31/E. § (2)–(9) bekezdésében foglalt feltételeknek.
 
-(2) Az (1) bekezdésben meghatározottakon túl közvetlen magyar filmgyártási költségként számolható el a filmgyártásban közvetlenül közreműködő külföldi előadóművészek és stábtagok javadalmazásának költsége is, akkor is, ha az nem a filmelőállító vagy a filmgyártó vállalkozás könyveiben merül fel, feltéve, hogy az így keletkezett jövedelmet a személyi jövedelemadóról szóló 1995. évi CXVII. törvény alapján Magyarországon adókötelezettség terheli és az adót a kifizető a kifizetéskor a jogszabályoknak megfelelően levonta és az adóhatóság felé befizette. Az adó megfizetését a filmelőállító vagy filmgyártó vállalkozás köteles hitelt érdemlően igazolni.
+(2) Az (1) bekezdésben meghatározottakon túl közvetlen magyar filmgyártási költségként számolható el a filmgyártásban közvetlenül közreműködő külföldi előadóművészek és stábtagok javadalmazásának költsége is, akkor is, ha az nem a filmelőállító vagy a filmgyártó vállalkozás könyveiben merül fel, feltéve hogy az így keletkezett jövedelmet az Szja tv. alapján Magyarországon adókötelezettség terheli, és az adót (adóelőleget) a kifizető a kifizetéskor a jogszabályoknak megfelelően levonta és az adóhatóságnak befizette, vagy kifizető hiányában a magánszemély ezt a jövedelmét terhelő adót (adóelőleget) az adóhatóságnak befizette. Az adó megfizetését a filmelőállító vagy filmgyártó vállalkozás köteles hitelt érdemlően igazolni.
 
 (3) Tárgyi eszköz beszerzése esetén csak a filmgyártáshoz közvetlenül beszerzett eszköznek az Szt. 52. §-a szerinti értékcsökkenése számolható el, legfeljebb a filmgyártás megkezdésétől a gyártás befejezéséig tartó időszakra. Ha az eszközt egyszerre több filmgyártáshoz is használják, úgy az elszámolható költségeket a gyártások között a filmgyártó vállalkozás számviteli politikájában rögzített megosztás szerint arányosan fel kell osztani.
 
@@ -1052,6 +1053,8 @@ nem haladhatja meg.
 (7) Az e § szerinti vagyonátadás adó- és illetékmentes.
 
 36/C. § E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 51. §-ával megállapított IV. Fejezetét e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+
+36/D. § E törvénynek a fejlesztéspolitikával összefüggő egyes törvények módosításáról szóló 2013. évi CCLI. törvénnyel megállapított 31/F. § (2) bekezdését a magánszemély által 2013. január 1-jét követően megszerzett jövedelmekre kell alkalmazni.
 
 ### 2. CÍM — Felhatalmazó rendelkezések
 

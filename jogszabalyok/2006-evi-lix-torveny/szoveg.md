@@ -30,19 +30,19 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (4) A hitelintézet a járadékelőleget negyedévente, a negyedévet követő hónap 12-éig, az utolsó negyedévi adóelőleget az adóév utolsó hónapjának 20. napjáig fizeti meg az adott negyedévben kamat és kamatjellegű bevétel címén elszámolt összeg után.
 
-(5) A pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: Gyűjtőszámlahitel tv.) 2/A. § (1) bekezdése alapján az állam által 2013-ra megtérített összeg 50%-ával megegyező összegű járadékot állapít meg és fizet a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrész után. A pénzügyi intézmény a járadékot negyedévente, az államot a negyedévre terhelő megtérítési kötelezettség teljesítésére jogszabályban előírt határidőt követő hó utolsó napjáig állapítja meg, vallja be és fizeti meg. Az állam által a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrészre és az államnak a rögzített árfolyam alkalmazási időszaka alatt felmerült, a legmagasabb árfolyamot meghaladó törlesztési kötelezettségére tekintettel a gyűjtőszámlahitelek és az azok alapjául szolgáló devizakölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
+(5) A pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: Gyűjtőszámlahitel tv.) 2/A. § (1) bekezdése alapján az állam által 2014-re megtérített összeg 50%-ával megegyező összegű járadékot állapít meg és fizet a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrész után. A pénzügyi intézmény a járadékot negyedévente, az államot a negyedévre terhelő megtérítési kötelezettség teljesítésére jogszabályban előírt határidőt követő hó utolsó napjáig állapítja meg, vallja be és fizeti meg. Az állam által a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrészre és az államnak a rögzített árfolyam alkalmazási időszaka alatt felmerült, a legmagasabb árfolyamot meghaladó törlesztési kötelezettségére tekintettel a gyűjtőszámlahitelek és az azok alapjául szolgáló devizakölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
 
-(6) A Gyűjtőszámlahitel tv. 2/A. §-a alapján az állam által az üzleti évre (az adóévre) megtérített összeget a pénzügyi intézménynél az üzleti év (ár)bevétele alapulvétele alapján fizetendő adó és más hasonló fizetési kötelezettség megállapításánál figyelmen kívül kell hagyni, továbbá a Gyűjtőszámlahitel tv. 2/A. § (2) bekezdése alapján az állam által 2013-ra megtérített összeg mentes az (1)–(4) bekezdésben meghatározott járadék alól.
+(6) A Gyűjtőszámlahitel tv. 2/A. §-a alapján az állam által az üzleti évre (az adóévre) megtérített összeget a pénzügyi intézménynél az üzleti év (ár)bevétele alapulvétele alapján fizetendő adó és más hasonló fizetési kötelezettség megállapításánál figyelmen kívül kell hagyni, továbbá a Gyűjtőszámlahitel tv. 2/A. § (2) bekezdése alapján az állam által 2014-re megtérített összeg mentes az (1)–(4) bekezdésben meghatározott járadék alól.
 
 (7) Az állam által a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet alapján nyújtott támogatásra, továbbá az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet alapján nyújtott támogatásra tekintettel a támogatással érintett kölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
 
 ### Pénzügyi szervezetek különadója
 
-4/A. § (1) A pénzügyi szervezet 2013-ban különadó megállapítására, bevallására és fizetésére kötelezett.
+4/A. § (1) A pénzügyi szervezet 2014-ben különadó megállapítására, bevallására és fizetésére kötelezett.
 
-(2) A pénzügyi szervezet a különadót 2013. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(2) A pénzügyi szervezet a különadót 2014. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A 2010–2012. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2013. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
+(3) A 2010–2013. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2014. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
@@ -158,13 +158,13 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (37) A (21) bekezdés szerinti adóvisszatérítést az előzőek szerint csökkentett adó terhére veheti igénybe a pénzügyi intézmény.
 
-(38) A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a Hpt. 76/A. § (8) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
+(38) A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) 113. cikk (7) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
 
-(39) A Hpt. 80. § (1) bekezdés m) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.
+(39) A 575/2013/EU rendelet 400. cikk (2) bekezdés d) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.
 
 ### A hitelintézetek különadója
 
-4/B. § (1) A hitelintézet a 2013-ban kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
+4/B. § (1) A hitelintézet a 2014-ben kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
 
 (2) A különadó alapja az üzleti év (adóév) adózás előtti eredménye, növelve az annak terhére a pénzügyi szervezetek különadója címén fizetett (fizetendő) összegének megfelelően ráfordításként elszámolt összegével.
 
@@ -214,7 +214,7 @@ megnöveli.
 
 (3) Az adóév utolsó hónapjának 20. napjáig a hitelintézetnek a 4. § szerinti járadék várható összegének a már megfizetett járadékelőleggel csökkentett különbözetét meg kell fizetnie. E rendelkezés nem vonatkozik arra a hitelintézetre, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
 
-(4) A 4. § szerinti járadékot az adózás rendjéről szóló 2003. évi XCII. törvényben a társasági adóra előírt határidőben – az adóévben a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alól kikerülő hitelintézet esetében a 4. § szerinti járadékot a kikerülést követő 90. napig – kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
+(4) A 4. § szerinti járadékot az adózás rendjéről szóló 2003. évi XCII. törvényben a társasági adóra előírt határidőben – az adóévben a Hpt. hatálya alól kikerülő hitelintézet esetében a 4. § szerinti járadékot a kikerülést követő 90. napig – kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
 
 (5)–(6)
 
@@ -227,7 +227,7 @@ megnöveli.
 - 1. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon az állammal elszámolja;
 - 2. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít;
 - 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
-- 4. hitelintézet: a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti hitelintézet;
+- 4. hitelintézet: a Hpt. szerinti hitelintézet;
 - 5–6.
 - 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő, befektetési alapkezelő;
 - 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;

@@ -745,7 +745,15 @@ tekintetében adatot szolgáltat.
 
 #### 18. Halak és haltermékek kereskedelme
 
-#### 58. §
+58. § (1) Nyilvántartott halgazdálkodási vízterületről származó hal vagy haltermék kereskedelmi forgalomba csak fogási tanúsítvánnyal kerülhet. A fogási tanúsítvány haltétel jelölési dokumentációnak minősül.
+
+(2) Nyilvántartott halgazdálkodási vízterületről kereskedelmi forgalomba kerülő hal vagy haltermék fogási tanúsítványán a forgalmazás minden szakaszában fel kell tüntetni a fogási vízterület nevét.
+
+(3) A halgazdálkodási hatóság a fogási tanúsítvány eredeti példányát a forgalmazás minden szakaszában ellenőrizheti.
+
+(4) A halgazdálkodási hatóság az igazolatlan eredetű halat vagy halterméket elkobozza és az állategészségügyi hatóság közreműködésével megsemmisítteti.
+
+(5) E § alkalmazásában nem minősül hal vagy haltermék kereskedelmi forgalomba hozatalának a falusi szálláshely vagy vendégasztal szolgáltatást nyújtó által jogszerűen kifogott hal étkezési szolgáltatásként történő értékesítése.
 
 59. § Valamennyi halnak és halterméknek a forgalmazás során meg kell felelnie a tenyésztett víziállatokra és az azokból származó termékekre vonatkozó állat?egészségügyi követelményekről és a víziállatokban előforduló egyes betegségek megelőzéséről és az azok elleni védekezésről szóló miniszteri rendeletben foglaltaknak, valamint az Európai Unió közvetlenül is alkalmazandó jogi aktusában meghatározott fogyasztói tájékoztatási követelményeknek.
 

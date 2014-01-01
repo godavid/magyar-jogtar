@@ -69,22 +69,26 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - b) az elnökség,
 - c) a felügyelő bizottság,
 - d) az etikai-fegyelmi bizottság,
-- e) a területi alapszabályban meghatározott egyéb bizottságok,
-- f) titkárság.
+- e) a választási jelölőbizottság,
+- f) a területi alapszabályban meghatározott egyéb bizottságok,
+- g) a területi alapszabály szerint létrehozott helyi csoportok,
+- h) a titkárság.
 
-(2) A területi kamara legfelsőbb szerve a taggyűlés. Az (1) bekezdés b)–e) pontjaiban szereplő szervek a területi kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: területi ügyintéző szervek).
+(2) A területi kamara legfőbb szerve a taggyűlés. Az (1) bekezdés b)–f) pontjában szereplő szervek a területi kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: területi ügyintéző szervek).
 
-(3) A területi kamara tisztségviselői: az elnök, az alelnök, az elnökség tagjai, a titkár, valamint a felügyelő bizottság és az etikai-fegyelmi bizottság elnökei.
+(3) A területi kamara tisztségviselői: az elnök, az alelnökök, az elnökség tagjai, a titkár, valamint a felügyelő bizottság és az etikai-fegyelmi bizottság elnökei.
 
 (4) A területi ügyintéző szervek működésének rendjét – az e törvényben meghatározott és a közigazgatási ügyekre vonatkozó kivételekkel – és a bizottságok tagjainak számát a területi alapszabály állapítja meg.
 
 (5) A területi alapszabály úgy rendelkezhet, hogy – nagy létszám esetében – a taggyűlést küldöttgyűlés helyettesítse.
 
+(6) A területi kamara szerve az egyes feladatai ellátásának elősegítésére tanácsadó, döntés-előkészítő testületeket hozhat létre.
+
 5. § (1) A taggyűlés kizárólagos hatáskörébe tartozik:
 
 - a) e törvény keretei között a területi alapszabály elfogadása, módosítása;
 - b) a területi kamarák egyesüléséről, szétválásáról szóló döntés;
-- c) a területi kamara elnökének – ha a taglétszám indokolja: alelnökének –, elnökségének és a bizottságok tagjainak, valamint póttagjainak megválasztása;
+- c) a területi kamara elnökének – ha a taglétszám indokolja: alelnökeinek –, elnökségének és a bizottságok tagjainak, valamint póttagjainak megválasztása;
 - d) az országos kamara küldöttgyűlésébe a választási év kezdő időpontja szerinti taglétszám alapján – a ciklus közbeni taglétszám változásától függetlenül a választási ciklusra érvényesen – az országos alapszabályban meghatározott számú tag után egy-egy küldött, valamint a pótküldöttek megválasztása;
 - e) a területi kamara éves tevékenységének, költségvetési tervének és éves költségvetési beszámolójának, valamint a területi ügyintéző szervek éves tevékenységéről készített beszámolóknak az elfogadása.
 
@@ -96,7 +100,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (5) A taggyűlést szükség szerint, de legalább évente egyszer össze kell hívni. A területi alapszabály a taggyűlés kötelező összehívásának más eseteit is meghatározhatja.
 
-6. § (1) A területi kamara elnöksége az elnökből, az alelnökből és az elnökségi tagokból áll, akiket a taggyűlés választ meg.
+6. § (1) A területi kamara elnöksége az elnökből, az alelnökökből és az elnökségi tagokból áll, akiket a taggyűlés választ meg.
 
 (2) Az elnökség feladata, hogy a taggyűlések közötti időszakban – a taggyűlés határozatainak megfelelően – a területi kamara működését irányítsa, és feladatait végrehajtsa.
 
@@ -217,16 +221,19 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - b) az országos elnökség,
 - c) az országos felügyelő bizottság,
 - d) az országos etikai-fegyelmi bizottság,
-- e) az országos alapszabály szerint létrehozott más állandó bizottságok,
-- f) az országos titkárság,
-- g) az országos alapszabály szerint létrehozott szakmai tagozatok, valamint
-- h) az országos alapszabály szerint létrehozott szakmai kollégiumok.
+- e) az országos választási jelölőbizottság,
+- f) az országos alapszabály szerint létrehozott más állandó bizottságok,
+- g) az országos alapszabály szerint létrehozott szakmai tagozatok,
+- h) az országos alapszabály szerint létrehozott szakmai kollégiumok,
+- i) az országos titkárság.
 
-(2) Az országos kamara legfelsőbb szerve a küldöttgyűlés. Az (1) bekezdés b)–f) pontjaiban meghatározott szervek az országos kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: országos ügyintéző szervek).
+(2) Az országos kamara legfőbb szerve a küldöttgyűlés. Az (1) bekezdés b)–f) pontjaiban meghatározott szervek az országos kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: országos ügyintéző szervek).
 
 (3) Az országos kamara tisztségviselői: az elnök, az alelnök(ök), az elnökség tagjai, a főtitkár, az országos felügyelőbizottság elnöke, valamint az országos etikai-fegyelmi bizottság elnöke.
 
 (4) Az országos ügyintéző szervek működésének rendjét, a tisztségviselők számát az országos alapszabály állapítja meg.
+
+(5) Az országos kamara szerve az egyes feladatai ellátásának elősegítésére tanácsadó, döntés-előkészítő testületeket hozhat létre.
 
 13. § (1) A küldöttgyűlést a területi kamarák, valamint a szakmai tagozatok szavazati joggal rendelkező küldöttei alkotják az alapszabályban meghatározottak szerint.
 
@@ -312,8 +319,9 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - a) az országos kamara székhelyét,
 - b) az országos kamara ügyintéző szerveinek feladataira, hatáskörére és működésére vonatkozó szabályokat,
 - c) a szakmai tagozatok létesítésére, feladataira, működésére, továbbá a küldöttgyűlésen való részvételére és az egyes szakmai tagozatok arányos képviseletére vonatkozó főbb szabályokat,
-- d) a területi kamarák által a tagdíjakból fizetendő hozzájárulás mértékét,
-- e) mindazt, amiben e törvény az országos alapszabály rendelkezését írja elő.
+- d) a szakmai kollégiumok létesítésére, feladataira és működésére vonatkozó főbb szabályokat,
+- e) a területi kamarák által az országos kamarának fizetendő tagdíj részesedés mértékét,
+- f) mindazt, amiben e törvény az országos alapszabály rendelkezését írja elő.
 
 ### IV. Fejezet — A választás szabályai
 
@@ -365,7 +373,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 ### Nonprofit gazdasági társaság alapítása
 
-24. § (1) A kamara gazdasági tevékenységet (ellenérték fejében, nyereség vagy haszonszerzés céljából rendszeresen folytatott termelő vagy szolgáltató tevékenység) nem végezhet.
+24. § (1)
 
 (2) A kamara gazdasági társaságnak nem lehet tagja, és ilyen társaságban nem szerezhet részesedést.
 
@@ -398,7 +406,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - a) akit a kamarából kizártak, a kizárástól számított 3 évig,
 - b) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll.
 
-(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet, de a kettős kamarai tagság kényszere nélkül, egyik területi kamarai tagsága esetén – az általános szabályoknak megfelelően – a másik területi kamara szakterületén is szakmagyakorlási jogosultságot kérhet. Ebben az esetben a két területi kamara megállapodik az érintett tag tagdíjának megosztásáról.
+(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet. Kettős kamarai tagság esetén a kamarai tag mindkét kamaránál kedvezményes tagdíjat fizet, amelynek mértéke a tagdíj 70%-a.
 
 (8) A kamarai tagot a választása szerinti – a szakképesítése, tevékenysége alapján meghatározott – szakmai tagozatba vagy tagozatokba is fel kell venni.
 

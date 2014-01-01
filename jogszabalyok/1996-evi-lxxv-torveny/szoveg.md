@@ -74,7 +74,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - q)
 - r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi foglalkoztatásának bejelentésére vonatkozó jogszabályok,
 - s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. §-ának (1)–(2) bekezdése szerinti kötelezettségek foglalkoztató általi
-- t) a költségvetési szerv, valamint nevelési-oktatási, egészségügyi vagy kulturális tevékenysége tekintetében az egyházi jogi személy munkáltató kivételével, a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértéke megfelelő végrehajtásának megtartására.
+- t) megtartására.
 
 (2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 
@@ -112,7 +112,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 - a) megtiltja a további foglalkoztatást, ha az alkalmazás vagy a foglalkoztatás a 3. § (1) bekezdés a) pontjának első és második fordulata, továbbá b), e), f), i), k) és s) pontjai esetében a jogszabálysértés súlyossága miatt nem tartható fenn, és a sérelem rövid időn belül nem orvosolható. Ha a további foglalkoztatás megtiltására azért került sor, mert a foglalkoztató megsértette a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vagy a jogviszony bejelentésére vonatkozó rendelkezéseket, a felügyelő az eltiltás időtartamára kötelezi a munkáltatót az Mt. 146. § (1) bekezdése szerinti díjazásnak a munkavállaló részére történő megfizetésére,
 - b) kötelezi a foglalkoztatót a szabálytalanság meghatározott időn belül történő megszüntetésére,
-- c) kötelezi a harmadik országbeli állampolgárt érvényes munkavállalási engedély vagy EU Kék Kártya nélkül foglalkoztatót a központi költségvetésbe történő befizetésre a 7/A. §-ban foglaltak szerint,
+- c) kötelezi a foglalkoztatót a központi költségvetésbe történő befizetésre a harmadik országbeli állampolgár magyarországi foglalkoztatásának engedélyezésére vonatkozó szabályok megértése miatt, a 7/A. §-ban foglaltak szerint,
 - d)
 - e) a 7. § (1) bekezdésében meghatározott esetben javaslatot tehet munkaügyi bírság kiszabására,
 - f)
@@ -147,18 +147,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (3)
 
-6/B. § (1) Ha a munkaügyi ellenőrzés feltárja, hogy a munkáltató az ellenőrzés alá vont telephelyen a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelést a kormányrendeletben meghatározott elvárt mértéknek megfelelően nem hajtotta végre, a megállapításról a munkaügyi hatóság határozatot hoz. Ezen megállapítással kapcsolatosan nincsen helye a 6. § (1) bekezdés a) vagy b) pontjában foglaltak, valamint munkaügyi bírság alkalmazásának.
-
-(2) Nincs helye az (1) bekezdés szerinti megállapításnak, ha a munkáltató a munkaügyi ellenőrzés megkezdéséig az érintett munkavállalók legalább kétharmada esetében eleget tett az elvárt mértékű munkabéremelésnek, amely létszám szempontjából:
-
-- a) a kölcsönbeadónál figyelmen kívül kell hagyni azt a kölcsönzött munkavállalót, aki olyan kölcsönvevőhöz került kikölcsönzésre, ahol a kölcsönvevő – az általa tett nyilatkozat szerint – saját munkavállalói tekintetében nem tett eleget az érintett munkavállalók legalább kétharmada esetében az elvárt béremelésnek,
-- b) az iskolaszövetkezetnél figyelmen kívül kell hagyni azt a nappali tagozatos tanuló, hallgató munkavállalót, aki olyan, az iskolaszövetkezet szolgáltatását fogadó gazdálkodó szervezetnél működik közre az iskolaszövetkezet teljesítésében, ahol az iskolaszövetkezet szolgáltatását fogadó gazdálkodó szervezet – az általa tett nyilatkozat szerint – saját munkavállalói tekintetében nem tett eleget az érintett munkavállalók legalább kétharmada esetében az elvárt béremelésnek.
-
-(3) Ahol jogszabály munkaügyi ellenőrzés során feltárt bármely jogsértést említ, ott ez alatt – jogszabály eltérő rendelkezése hiányában – azt is érteni kell, ha a munkáltató a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelést – kormányrendeletben meghatározott – elvárt mértéknek megfelelően nem hajtotta végre.
-
-(4) Ahol jogszabály munkaügyi bírság megállapítását említi, ott ez alatt – jogszabály eltérő rendelkezése hiányában – az (1) bekezdés alapján hozott határozatot is érteni kell.
-
-(5) Amennyiben jogszabály munkaügyi bírság kiszabása esetén további jogkövetkezmény alkalmazását a kiszabott bírság mértékétől teszi függővé, úgy az (1) bekezdés alapján hozott határozat tekintetében úgy kell eljárni, mintha a legmagasabb összegű bírság kiszabására került volna sor.
+6/B. §
 
 7. § (1) Munkaügyi bírság akkor szabható ki, ha a foglalkoztató
 
@@ -182,7 +171,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (8) A 6. § (1) bekezdés b), g), h) és j) pontjában meghatározott jogkövetkezmény, valamint munkaügyi bírság egyidejű alkalmazása esetén a határozatokat egybe kell foglalni.
 
-7/A. § (1) Amennyiben a 3. § (1) bekezdés i) pontjában foglaltak ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt érvényes munkavállalási engedély, illetve EU Kék Kártya nélkül foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre a (2)–(7) bekezdésben foglaltak szerint. A kötelezettség a foglalkoztatót minden olyan általa foglalkoztatott harmadik országbeli állampolgár tekintetében terheli, akire nézve az engedély vagy EU Kék Kártya nélkül történő foglalkoztatást megállapították.
+7/A. § (1) Ha a 3. § (1) bekezdés i) pontjában foglaltak megtartásának ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 7. § (1) bekezdés a) pontja szerinti összevont kérelmezési eljárás alapján kiadott tartózkodási engedély, illetve b) pontja szerinti munkavállalási engedély nélkül foglalkoztat, kötelezi a központi költségvetésbe történő befizetésre a (2)–(5) bekezdésben foglaltak szerint.
 
 (2) A központi költségvetésbe történő befizetés mértéke
 
@@ -208,9 +197,9 @@ megfelelő összeg terheli.
 
 megfelelő összeg terheli a foglalkoztatót.
 
-(6) Amennyiben a munkaügyi hatóság a munkáltatót harmadik országbeli állampolgár engedély nélkül történő foglalkoztatása miatt a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértésre tekintettel munkaügyi bírság egyidejűleg nem alkalmazható.
+(6) Ha a munkaügyi hatóság a foglalkoztatót az (1)–(5) bekezdés alapján a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértés miatt munkaügyi bírság nem szabható ki.
 
-(7) A munkaügyi hatóság a harmadik országbeli állampolgár foglalkoztatásával összefüggő engedély, illetve EU Kék Kártya nélküli foglalkoztatást megállapító, illetve befizetésre kötelező jogerős határozatát közli az idegenrendészeti hatósággal.
+(7) A munkaügyi hatóság a 3. § (1) bekezdés i) pontja szerinti, a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogsértés megállapítása esetén a jogerős határozatát közli az idegenrendészeti hatósággal.
 
 8. § (1) A 2. § (1) és (2) bekezdésében foglalt szervek hatósági tevékenységük során az e törvényben szabályozott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint járnak el.
 
@@ -223,7 +212,7 @@ a munkaügyi hatóság a szükséges intézkedések megtétele céljából megke
 
 (3) A munkaügyi hatóság tevékenysége során együttműködik a tevékenységével érintett más hatóságokkal.
 
-(4) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott álláskeresési ellátásokra, illetőleg a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben meghatározott aktív korúak ellátására való jogosultság fennállásának ellenőrzése céljából a munkaügyi hatóság hivatalból eljárva, havi rendszerességgel, elektronikusan adatot szolgáltat az állami foglalkoztatási szerv részére azokról a munkavállalókról, akik tekintetében a foglalkoztató részéről
+(4) Az Flt.-ben meghatározott álláskeresési ellátásokra, illetőleg a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben meghatározott aktív korúak ellátására való jogosultság fennállásának ellenőrzése céljából a munkaügyi hatóság hivatalból eljárva, havi rendszerességgel, elektronikusan adatot szolgáltat az állami foglalkoztatási szerv részére azokról a munkavállalókról, akik tekintetében a foglalkoztató részéről
 
 - a) e törvény 3. §-a (1) bekezdésének a) pontja alapján a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Mt. 22–23. §, 42–44. §] megsértését,
 - b) e törvény 3. §-a (1) bekezdésének b) pontja alapján a munkaviszony létesítésével összefüggő bejelentési kötelezettség megsértését
@@ -289,7 +278,7 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 
 (7) A munkaügyi hatóság nyilvántartásba vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
-(8) A munkaügyi hatóság a 6/B. § (1) bekezdése szerinti határozat esetében a munkáltatóra vonatkozó adatokat a határozat jogerőssé válásának napján hozza nyilvánosságra a honlapján történő közzététel útján, és a határozat jogerőre emelkedésének napjától számított két év elteltével törli. E határozatok esetében a (6) bekezdés nem alkalmazható.
+(8)
 
 8/D. §
 
@@ -315,7 +304,7 @@ is érteni kell.
 - a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, illetve ideiglenes építési munkahelynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter,
 - b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál.
 
-9/A. § Az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvénnyel (a továbbiakban: T.) megállapított 3. § (1) bekezdés t) pontját, (5) bekezdését és a 6/B. §-t a T. hatálybalépését követően indult ügyekben kell alkalmazni.
+9/A. §
 
 10. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -332,7 +321,8 @@ is érteni kell.
 - k) az Európai Parlament és a Tanács 2002. március 11-i 2002/15/EK irányelve a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről a Munka Törvénykönyve, valamint a közúti közlekedésről szóló 1988. évi I. törvény irányadó rendelkezéseivel együtt;
 - l) az Európai Parlament és a Tanács 2003. november 4-i 2003/88/EK irányelve a munkaidő-szervezés egyes szempontjairól, a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
 - m) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv szerinti illegális foglalkoztatás tilalmának, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény irányadó rendelkezéseivel együtt,
-- n) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló 2008. november 17-i 2008/104/EK európai parlamenti és tanácsi irányelvnek.
+- n) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló 2008. november 17-i 2008/104/EK európai parlamenti és tanácsi irányelvnek,
+- o) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv.
 
 11. § (1) Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) hatálybalépésétől számított 30. napon a munkaügyi hatóság a foglalkoztatóknak a Módtv. hatályba lépéséig hatályos 8/C. § (4) és (5) bekezdése alapján nyilvánosságra hozott adatai közül törli azoknak a munkáltatóknak az adatait, amelyek közzétételi kötelezettségét – ideértve a folyamatban lévő bírósági felülvizsgálattal érintett határozatok adatait is – az államháztartásról szóló 1992. évi XXXVIII. törvény és a Kbt. a Módtv. hatályba lépéséig előírta.
 

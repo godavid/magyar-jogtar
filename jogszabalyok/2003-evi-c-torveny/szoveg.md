@@ -13,7 +13,8 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - a) a Magyarország területén végzett vagy területére irányuló elektronikus hírközlési tevékenységre, valamint minden olyan tevékenységre, amelynek gyakorlása során rádiófrekvenciás jel keletkezik,
 - b) az a) pontban foglalt, vagy azzal összefüggő tevékenységet végző vagy szolgáltatást nyújtó természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire,
 - c) a felhasználókra, a fogyasztókra és az előfizetőkre,
-- d) az a) pontban foglalt tevékenységet vagy szolgáltatást végző, illetve nyújtó, vagy azzal összefüggő tevékenységet végző vagy azt igénybevevő belföldi vagy külföldi természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire.
+- d) az a) pontban foglalt tevékenységet vagy szolgáltatást végző, illetve nyújtó, vagy azzal összefüggő tevékenységet végző vagy azt igénybevevő belföldi vagy külföldi természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire,
+- e) a 159/B. § és a 182. § (3) bekezdés tekintetében az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott kereső- és gyorsítótárolás-szolgáltatást végző közvetítő szolgáltatókra (a továbbiakban együtt: kereső- és gyorsítótár-szolgáltatók).
 
 (2) E törvényt a jogszabályban meghatározott közfeladatok ellátásához szükséges olyan elektronikus hírközlő hálózat esetén, amely nyilvános elektronikus hírközlő hálózattól fizikailag vagy logikailag elkülönített (a továbbiakban: kormányzati célú hálózat), valamint az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenység tekintetében a rájuk vonatkozó külön jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
@@ -132,9 +133,10 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - 24. a vállalt nemzetközi jogi kötelezettségeknek megfelelően a nemzeti frekvenciafelosztás keretei között rendeletben állapítja meg az egyes polgári, nem polgári és közös célra használható frekvenciasávok felhasználására vonatkozó szabályokat, amelyeknek tartalmazniuk kell a rádiórendszerek frekvenciagazdálkodási követelményeit, a rádióberendezések frekvenciagazdálkodási követelményeit, a frekvenciaengedélyezéssel és -használattal kapcsolatos sávhasználati feltételeket, különösen a rádióinterfész követelményeket, és szükség esetén, de legalább háromévenként gondoskodik e szabályok felülvizsgálatáról;
 - 25. a Kormány elé terjeszti és képviseli a Hatóság által előkészített elektronikus hírközlés-politikát és rádióspektrum-politikát;
 - 26. ellátja a hatályban lévő koncessziós szerződésekkel kapcsolatos állami képviseletet, továbbá eljár a hatályban lévő koncessziós szerződések hatósági szerződéssé alakításával kapcsolatos hatósági ügyekben;
-- 27. végzi a légi-riasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos tervezési, szervezési feladatokat.
+- 27. végzi a légi-riasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos tervezési, szervezési feladatokat;
+- 28. szervezi és ellenőrzi az elektronikus hírközlő hálózat útján közzétett adat büntető ügyben elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétele végrehajtását, és ennek érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát, valamint közreműködik a hozzáférhetetlenné tételhez szükséges technikai környezet biztosításában.
 
-(2) A Nemzeti Média- és Hírközlési Hatóság elnöke (a továbbiakban: Elnök) ellátja az (1) bekezdés 2., 4–8., valamint 22–27. pontjaiban meghatározott hatáskörökből eredő feladatokat, ellátja az egyéb, jogszabályban kifejezetten az Elnök hatáskörébe tartozó feladatokat, elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását, továbbá kijelöli a honvédelmi és a katasztrófavédelmi feladatok ellátásában részt vevő elektronikus hírközlési szolgáltatókat és meghatározza felkészülési feladataikat. A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) eljár az (1) bekezdés 1., 3., 10., valamint 12–21. pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A Nemzeti Média- és Hírközlési Hatóság főigazgatója (a továbbiakban: főigazgató) eljár az (1) bekezdés 9. és 11. pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
+(2) A Nemzeti Média- és Hírközlési Hatóság elnöke (a továbbiakban: Elnök) ellátja az (1) bekezdés 2., 4–8., valamint 22–28. pontjaiban meghatározott hatáskörökből eredő feladatokat, ellátja az egyéb, jogszabályban kifejezetten az Elnök hatáskörébe tartozó feladatokat, elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását, továbbá kijelöli a honvédelmi és a katasztrófavédelmi feladatok ellátásában részt vevő elektronikus hírközlési szolgáltatókat és meghatározza felkészülési feladataikat. A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) eljár az (1) bekezdés 1., 3., 10., valamint 12–21. pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A Nemzeti Média- és Hírközlési Hatóság főigazgatója (a továbbiakban: főigazgató) eljár az (1) bekezdés 9. és 11. pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
 
 (2) A Nemzeti Média- és Hírközlési Hatóság elnöke (a továbbiakban: Elnök) ellátja az (1) bekezdés b), d)–g), valamint x)–v) pontjában meghatározott hatáskörökből eredő feladatokat, továbbá elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását. A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) eljár az (1) bekezdés a) c) j), valamint l)–u), pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A Nemzeti Média- és Hírközlési Hatóság főigazgatója (a továbbiakban: főigazgató) eljár az (1) bekezdés i) és k) pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
 
@@ -1415,6 +1417,18 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 (10) Az elektronikus hírközlési szolgáltató minősített időszak idején az intézkedési terv alapján tett intézkedések, illetve a honvédelmi érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott elektronikus hírközlési szolgáltatások tényleges költségeinek megtérítésére jogosult.
 
+### Együttműködés elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
+
+92/A. § (1) Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott egyszerű adatátvitelt és hozzáférést biztosító közvetítő szolgáltatást végző elektronikus hírközlési szolgáltató (a továbbiakban: hozzáférést biztosító elektronikus hírközlési szolgáltató) a Hatóság értesítését követően köteles haladéktalanul, de legkésőbb egy munkanapon belül a büntető ügyben eljáró bíróság által az elektronikus hírközlő hálózat útján közzétett adathoz való hozzáférés megakadályozásával elrendelt ideiglenes vagy végleges hozzáférhetetlenné tételt teljesíteni.
+
+(2) Ha a Hatóság azt észleli, hogy a hozzáférést biztosító elektronikus hírközlési szolgáltató nem teljesíti az (1) bekezdés szerinti kötelezettségét, annak haladéktalan teljesítésére hívja fel, ha a hozzáférést biztosító elektronikus hírközlési szolgáltató a kötelezettségének a felhívás ellenére nem tesz eleget, a Hatóság ezt jelzi a bíróságnak.
+
+(3) A bíróság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot szabhat ki.
+
+(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság megnevezésével és a határozat számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
+
+(5) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság által a szolgáltatás Magyarországon történő megkezdésének időpontja előtt elrendelt elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozását a szolgáltatás megkezdésétől a 159/C. § (1) bekezdése szerint teljesíteni.
+
 ### Űrszegmens használat
 
 93. § Az űrszegmens-szolgáltató jogosult annak ellenőrzésére, hogy a szolgáltató űrszegmensével kapcsolatban felhasznált műholdas földi állomás megfelel-e az adott szolgáltató által használt űrszegmens-kapacitásra vonatkozóan közzétett igénybevételi feltételeknek.
@@ -1430,6 +1444,8 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 (3) Helyi önkormányzat tulajdonában lévő közterületen elektronikus hírközlési építmény abban az esetben helyezhető el, ha e célra állami tulajdonban lévő közterület nem áll rendelkezésre, vagy ez utóbbin műszaki okból, illetőleg jogszabály tiltó rendelkezése miatt az elhelyezés nem lehetséges. A helyi önkormányzat a létesítmény önkormányzati tulajdonú közterületen való elhelyezéséhez szükséges tulajdonosi hozzájárulás és területhasználati engedély megadását csak abban az esetben tagadhatja meg, ha a tulajdonosi hozzájárulás megadása különös méltánylást érdemlő települési vagy lakossági érdeket sértene, illetve, ha a területhasználati engedély megadása jogszabályban foglalt tilalomba ütközne.
 
 (4) A Hatóság biztosítja az internetes honlapján, hogy a használati jogokkal összefüggő jogosultságokra, feltételekre, eljárásokra, díjakra és döntésekre vonatkozó minden lényeges információhoz minden érdekelt könnyen hozzáférhessen, ezen információkat rendszeresen felülvizsgálja.
+
+(5) A települési önkormányzatot a tulajdonában álló közterületen található elektronikus hírközlési építményen – a 90. § megfelelő alkalmazásával – ingyenes használati jog illeti meg az olyan közbiztonsági, bűnmegelőzési, illetve bűnüldözési célt szolgáló eszköz, illetve az eszköz elektronikus hírközlő hálózati ellátását biztosító nem nyilvános elektronikus hírközlő hálózat elemeinek elhelyezésével összefüggésben, amelyek gazdasági célt közvetve sem szolgálnak. Az ingyenes használat joga a fővárosi közterületeken található elektronikus hírközlési építményekkel összefüggésben mind a fővárosi, mind a kerületi önkormányzatot megilleti, függetlenül attól, hogy melyik önkormányzat a közterület tulajdonosa. A használattal összefüggő műszaki feltételeket az elektronikus hírközlési építmény tulajdonosa, használója és a települési önkormányzat közötti megállapodásban kell meghatározni. A megállapodásra az e törvény felhatalmazása alapján kiadott, az elektronikus hírközlési építmények elhelyezéséről szóló elnöki rendelet rendelkezéseit alkalmazni kell.
 
 95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával nincs lehetőség, és a közüzemi szolgáltató, vagy a magántulajdonban álló ingatlan tulajdonosa (kezelője, használója) és a szolgáltató között megállapodás nem jött létre, az elektronikus hírközlési építmény e § szerinti eljárásban elsősorban a közüzemi szolgáltató létesítményén, illetve másodsorban magántulajdonban álló ingatlanon (érintett ingatlan) is elhelyezhető.
 
@@ -2189,6 +2205,32 @@ köteles biztosítani.
 
 (4) A szolgáltató az általános szerződési feltételeiben meghatározott módon köteles biztosítani költségellenőrzés szolgáltatást, beleértve az egyéni előfizetők ingyenes figyelmeztetését is rendellenes fogyasztási szokások vagy túlzott fogyasztás észlelése esetén.
 
+149/A. § (1)
+
+(2) A Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) az internethozzáférés-szolgáltatást nyújtó szolgáltatók számára kidolgozott és közzétett ajánlásokkal segíti elő az (1) bekezdés szerinti követelményeknek megfelelő szűrőszoftverek fejlesztését vagy kiválasztását. A Kerekasztal ösztönzi a szolgáltatókat az összehangolt szűrőszoftver-politika kialakítására és elősegíti e tevékenységük körében az önszabályozó jellegű együttműködésüket.
+
+(3) A Hatóság pályázati úton anyagi támogatást nyújthat az internet-hozzáférés szolgáltatást nyújtó szolgáltatónak az (1) bekezdésben meghatározott kötelezettség teljesítéséhez, ha
+
+- a) a szűrőszoftver megfelel a Kerekasztal ajánlásaiban foglalt követelményeknek,
+- b) a szűrőszoftver a lakossági felhasználók, egyéni előfizetők általi használat mellett alkalmas azon nyilvános könyvtárak és köznevelési intézmények általi használatra is, amelyeknek törvényben előírt kötelezettsége az általuk nyújtott közszolgáltatásokat igénybe vevő kiskorú gyermekek internet-használatához szűrőszoftvert biztosítani, és
+- c) az internet-hozzáférés szolgáltatást nyújtó szolgáltató vállalja, hogy a b) pontban megjelölt intézmények részére közvetlenül vagy más szolgáltató közreműködésével a szűrőszoftverhez való hozzáférést ingyenesen biztosítja.
+
+(4) A (3) bekezdés szerinti pályázati eljárás lefolytatása az Elnök hatósági hatáskörébe tartozik. Az eljárásra az e §-ban nem szabályozott kérdésekben e törvény és a Ket. szabályait kell megfelelően alkalmazni. A pályázati eljárás részletes szabályait az Elnök rendeletben határozza meg.
+
+(5) A (3) bekezdés szerinti támogatás tartalmáról, részletes feltételeiről a (4) bekezdésben említett NMHH rendeletben, továbbá a kiírási dokumentációban meghatározott módon és eljárásrendben hatósági szerződés is köthető.
+
+(6) Ha a kiírási dokumentáció szerint az Elnök a pályázati eljárás nyertesével hatósági szerződést köt, az Elnök a pályázati eljárást érdemben lezáró határozatában a pályázat nyerteséről dönt, és minden, a pályázati eljárás tárgyával, tartalmával, a támogatás feltételeivel, valamint a támogatással összefüggő jogokkal és kötelezettségekkel kapcsolatos egyéb döntés, rendelkezés, feltétel a hatósági szerződés részét képezi. A hatósági szerződés kötelező tartalmi elemeit a (4) bekezdésben említett NMHH rendelet és a kiírási dokumentáció tartalmazza.
+
+(7) A pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozatnak a nyertessel történő közlését követő öt napon belül az Elnök – a nyertessel való hatósági szerződéskötés érdekében – hivatalból hatósági eljárást indít. E hatósági eljárás ügyintézési határideje negyvenöt nap, amely nem hosszabbítható meg.
+
+(8) Ha a (7) bekezdés szerinti hatósági eljárásban a nyertes nem vesz részt vagy a hatósági szerződés megkötését akadályozza – ideértve azt is, ha a nyertes a pályázatát visszavonja –, a (7) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Hatóság az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
+
+(9) A hatósági szerződés a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat jogerőre emelkedéséig nem köthető meg. A határozat jogerőre emelkedésének időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (7) és (8) bekezdésben meghatározott ügyintézési határidejébe nem számít bele.
+
+(10) A hatósági szerződésben meg kell határozni a szerződésszegés jogkövetkezményeit.
+
+(11) Ha a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A bírósági felülvizsgálati eljárás időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás határidejébe nem számít bele.
+
 ### Számhordozhatóság biztosítása
 
 150. § (1) Az előfizetői hozzáférést nyújtó szolgáltató köteles lehetővé tenni előfizetője számára, hogy
@@ -2277,7 +2319,7 @@ köteles biztosítani.
 
 (7) Az előfizetőnek vagy magánszemélynek szóló értesítés tartalmazza legalább a személyes adatok megsértésének jellegét és azokat az információs pontokat, ahol az előfizető további felvilágosítást kaphat, továbbá intézkedéseket javasol a személyes adatok megsértése lehetséges hátrányos hatásainak enyhítésére. A Hatósághoz intézett értesítés ezen túlmenően leírja a személyes adatok megsértésének következményeit, és az annak orvoslására az elektronikus hírközlési szolgáltató által javasolt, vagy megtett intézkedéseket.
 
-(8) A Hatóság iránymutatást adhat ki a jelen § szerinti bejelentési és értesítési kötelezettség teljesítésének a módjára, és a nyilvánosan elérhető elektronikus hírközlési szolgáltatók személyes adatok kezelésével kapcsolatos elérendő biztonsági szintre vonatkozó legjobb gyakorlatokról.
+(8) A Hatóság ajánlást adhat ki a jelen § szerinti bejelentési és értesítési kötelezettség teljesítésének a módjára, és a nyilvánosan elérhető elektronikus hírközlési szolgáltatók személyes adatok kezelésével kapcsolatos elérendő biztonsági szintre vonatkozó legjobb gyakorlatokról.
 
 (9) A műszaki és szervezési intézkedéseknek – figyelembe véve a legjobb gyakorlatot és a meghozandó intézkedések költségeit – a szolgáltatónál, a hálózat egységességével és a szolgáltatás nyújtásával kapcsolatban jelentkező kockázatoknak megfelelő biztonsági szintet kell nyújtaniuk.
 
@@ -2295,7 +2337,7 @@ köteles biztosítani.
 
 (16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelmükre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
-(17)
+(17) Az elektronikus hírközlési szolgáltató az adatkérésre körözési eljárás lefolytatása érdekében a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
 ### Forgalmi és számlázási adatok
 
@@ -2415,6 +2457,36 @@ vonatkozó adatokat.
 - b) e § szerinti adatok megőrzése időpontját és azon időpont között eltelt időt, amikor az illetékes hatóság az adatok továbbítását kérte,
 - c) azokat az esetek, amelyekben a szolgáltató az adatok iránti kérelmeket nem tudta teljesíteni.
 
+### A Hatóság közreműködése az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
+
+159/B. § (1) A Hatóság a büntetőeljárásról szóló 1998. évi XIX. törvény 158/D. § (5) bekezdése és 596/A. § (6) bekezdése alapján szervezi és ellenőrzi a büntető ügyben a bíróság által elrendelt elektronikus adat ideiglenes és végleges hozzáférhetetlenné tétele végrehajtását.
+
+(2) A bíróság elektronikus úton megküldött értesítése alapján a Hatóság a bíróság elektronikus adat ideiglenes vagy végleges hozzáférhetetlenné tételéről szóló rendelkezését kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal.
+
+(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba csak a bíróság, az ügyész, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai tekinthetnek be.
+
+(4) A bíróság elektronikus úton megküldött értesítése alapján a Hatóság a KEHTA-ban rögzíti
+
+- a) az eljáró bíróság megnevezését és a határozat számát,
+- b) az elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről szóló rendelkezést,
+- c) az elektronikus adat azonosítására és elérésére vonatkozó adatokat.
+
+(5) A Hatóság a hiányosan megküldött értesítéssel kapcsolatosan az adatok pótlása érdekében a bíróságot elektronikus úton megkeresi, továbbá jelzi a bíróságnak, ha a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
+
+159/C. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók kötelesek a KEHTA-hoz csatlakozni abból a célból, hogy a bíróság elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről rendelkező határozatainak eleget tegyenek, illetve a végrehajtást a hozzáférhetetlenné tett adatra irányuló keresés eredményeként találat vagy a tárolt változat elérhetőségének nem biztosításával elősegítsék.
+
+(2) Mentesül a KEHTA-hoz való csatlakozási kötelezettség alól az a nyilvános internethozzáférés-szolgáltatást nyújtó szolgáltató, amely kizárólag olyan más elektronikus hírközlési szolgáltatón keresztül csatlakozik a Budapesti Adatkicserélő Központhoz (BIX) és a nemzetközi adatkicserélő központokhoz, amely szolgáltató már csatlakozott a KEHTA-hoz.
+
+(3) A KEHTA és a hozzáférést biztosító elektronikus hírközlési szolgáltatók, illetve a kereső- és gyorsítótár-szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. A bíróság és a Hatóság közötti elektronikus kapcsolattartás biztonságos kézbesítési szolgáltatás útján történik.
+
+(4) A Hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató kérésére – a rendelkezésére álló technikai lehetőségekhez képest – közreműködik a határozatok végrehajtásához szükséges technikai környezet biztosításában.
+
+(5) Ha a Hatóság az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében a (4) bekezdés szerint közreműködik, az érintett hozzáférést biztosító elektronikus hírközlési szolgáltatóval és a kereső- és gyorsítótár-szolgáltatóval közigazgatási szerződést köt. A közreműködés keretében a Hatóság a közigazgatási szerződésben meghatározott módon és feltételekkel hozzáférést biztosít az érintett hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató részére olyan technikai segítségnyújtó rendszerhez, amely műszaki jellemzőinél fogva alkalmas a hozzáférhetetlenné tétel megvalósítására.
+
+(6) A Magyarország területén található adatkicserélő központok, így különösen a Budapest Internet Exchange (BIX) kötelesek közreműködni az e § szerinti intézkedések végrehajtásában.
+
+(7) A Hatóság ajánlást adhat ki az e § szerinti hozzáférhetetlenné tételi kötelezettség teljesítésének módjára vonatkozó legjobb gyakorlatokról, illetve felhasználói segítséget nyújt a bíróság, a hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók számára a KEHTA kezeléséhez.
+
 ### Az előfizetői listák, az előfizetői névjegyzékek,címtárak
 
 160. § (1) A szolgáltató előfizetői listában tartja nyilván az előfizető azonosításához és az általa igénybe vett szolgáltatáshoz szükséges azon adatokat, amelynek a szolgáltató általi adatkezelését e törvény vagy külön jogszabály lehetővé teszi.
@@ -2490,6 +2562,8 @@ vonatkozó adatokat.
 163/E. § E törvény rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatályba lépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
 163/F. § A 96. § (4) bekezdésének a helyi és körzeti televíziók digitális átállásának biztosítása érdekében szükséges és egyes hírközléssel összefüggő törvénymódosításokról szóló 2013. évi CXXI. törvény (a továbbiakban: Módtv.) 28. §-ával megállapított rendelkezését a Módtv. hatálybalépését megelőzően keletkezett tényekre és jogviszonyokra akkor kell alkalmazni, ha az építmény használatbavétele jogszerű volt, és a használatbavétel óta az építmény elhelyezésével és működtetésével kapcsolatban jogerős hatósági határozat nem állapította meg a környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékek megsértését.
+
+163/G. § A Kerekasztal a 149/A. § (2) bekezdésében említett ajánlást első ízben 2014. május elsejéig fogadja el és teszi közzé.
 
 ### Hatálybalépés
 
@@ -2575,7 +2649,9 @@ vonatkozó adatokat.
 - 29. a Hatóság igazgatási szolgáltatási díjköteles eljárásait, az igazgatási szolgáltatási díj mértékét és megfizetésének módját;
 - 30.
 - 31. az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
-- 32. a honvédelmi és a katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását.
+- 32. a honvédelmi és a katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
+- 33. a 159/B. § szerinti elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók KEHTA-hoz való kapcsolódásának és elektronikus kapcsolattartásának, valamint a KEHTA-hoz való kapcsolódás alóli mentesülés részletes szabályait;
+- 34. a 149/A. § (3) bekezdése szerinti pályázat eljárási szabályait és a pályázati kiírás részletes tartalmát.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
 

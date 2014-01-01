@@ -61,12 +61,13 @@ A nemzetgazdaság és a munkaerőpiac követelményeihez, a társadalmi folyamat
 
 - a) a pályakezdő munkavállalók után az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) 462/B. § (2) bekezdése szerint,
 - b) a tartósan álláskereső személyek után az Eat. 462/C. § (2) bekezdése szerint,
-- c) a gyermekgondozási díj folyósítását követően, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint, vagy
-- d) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § szerint
+- c) a gyermekgondozási díj, a gyermekgondozási segély vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint,
+- d) a gyermekgondozási díj, a gyermekgondozási segély vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (3) bekezdése szerint, vagy
+- e) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § szerint
 
-a foglalkoztatás első két évében igénybe vehető szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 100 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+a foglalkoztatás első két évében, a d) pont szerinti esetben a foglalkoztatás első három évében igénybe vehető szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 100 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
-(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó 27 százalékos szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
 (2) A szakképzési hozzájárulás mértéke a szakképzési hozzájárulás alapjának 1,5 százaléka (a továbbiakban: bruttó kötelezettség).
 
@@ -411,12 +412,10 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 
 34. § (1)–(2)
 
-(3) Hatályát veszti a saját munkavállalók részére szervezett képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásáról szóló 15/2009. (VII. 24.) SZMM rendelet azzal, hogy a rendeletet a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatásokra vonatkozóan kiírt pályázatok keretében megvalósuló képzésekre 2013. december 31-ig alkalmazni kell.
-
-(4) A Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatásokra vonatkozóan 2009. szeptember 1-ig kiírt pályázatok keretében megvalósuló képzésekre – a saját munkavállalók részére szervezett képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásáról szóló 15/2009. (VII. 24.) SZMM rendelettel hatályon kívül helyezett – a szakképzési hozzájárulást a saját munkavállalói részére szervezett képzéssel teljesítő hozzájárulásra kötelezett költségei elszámolásának feltételeiről és az elszámolás szabályairól szóló 13/2006. (XII. 27.) SZMM rendelet szabályait kell alkalmazni.
+(3)–(4)
 
 35. §
 
 36. §
 
-37. §
+37. § A 34. § (3) és (4) bekezdése 2014. január 1-jén hatályát veszti.
