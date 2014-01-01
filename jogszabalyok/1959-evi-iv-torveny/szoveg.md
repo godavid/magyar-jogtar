@@ -711,6 +711,8 @@ Ptk.74/C. § (1) Az alapító – az alapító okiratban – kijelölheti a keze
 
 (7) Az alapító az alapító okiratban az e törvényben biztosított jogainak gyakorlására – különösen halála, megszűnése esetére – maga helyett más személyt is kijelölhet. E személyre az alapítóra vonatkozó rendelkezések az irányadók. A kijelölést a nyilvántartásba vétel után az alapító nem vonhatja vissza. Alapító vagy a jogainak gyakorlására kijelölt más személy hiányában – a kezelő szerv (szervezet) vagy az ügyészség erre vonatkozó bejelentése alapján – az alapítói jogosultságok a bíróságot illetik meg.
 
+(8) A bíróság az alapító jogainak gyakorlása során e jogok gyakorlására maga helyett – a kezelő szerv (szervezet) javaslatának figyelembevételével – más személyt jelölhet ki. E személyre az alapítóra vonatkozó rendelkezések az irányadóak. A kezelő szerv (szervezet) által egyhangú döntéssel javasolt személy kijelölése nem tagadható meg, ha ennek törvényi akadálya nincs.
+
 Ptk.74/D. § (1) Ha az alapítvány létrehozása az alapító okiratot tartalmazó végrendeletben történt, annak nyilvántartásba vétele iránt – ha az nem a végrendeleti végrehajtó feladata – a közjegyző által kirendelt ügygondnok köteles gondoskodni.
 
 (2) A végrendeletben létesített alapítványt – nyilvántartásba vétele esetén – olyannak kell tekinteni, mint amely a javára rendelt vagyont az öröklés megnyíltával megszerezte. A végrendeletbe foglalt, de a törvényben meghatározott feltételek hiánya miatt nyilvántartásba nem vett alapítvány részére történő vagyonrendelést közérdekű meghagyásnak kell tekinteni.
