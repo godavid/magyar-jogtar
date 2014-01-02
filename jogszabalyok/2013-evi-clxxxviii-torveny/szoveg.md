@@ -87,36 +87,15 @@ színárnyalatot kell használni.
 
 13. § E törvényt a 2013. december 31-ét követő elszámolási időszakot is tartalmazó számlákra kell alkalmazni.
 
-14. § (1) A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény (a továbbiakban: Kstv.) 10/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 14. §
 
-„(3) A fogyasztóvédelmi hatóság ellenőrzi a közszolgáltató számlázására vonatkozó előírások megtartását.”
-
-(2) A Kstv. 10/B. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az (1)–(3) bekezdésben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.”
-
-15. § (1) A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. § 72. pontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában:]
-
-„72. PB-gáz forgalmazó: aki PB-gáz forgalmazási tevékenység végzésére a műszaki-biztonsági hatóság által kiadott, hatályos engedéllyel rendelkezik, vagy a forgalmazási tevékenység folytatására irányuló szándékát a műszaki-biztonsági hatóságnak bejelentette.”
+15. § (1)
 
 (2)–(6)
 
-16. § A Tszt. 11. §-a a következő (3) bekezdéssel egészül ki:
+#### 16–17. §
 
-„(3) A fogyasztóvédelmi hatósági eljárásban a fogyasztónak igazolnia kell, hogy a fogyasztóvédelemmel kapcsolatos és az eljárás alapjául szolgáló panaszt az érintett távhőszolgáltató felé megtette.”
-
-17. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 46. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 90 nap.”
-
-18. § (1) Hatályát veszti:
-
-- a) a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (4) bekezdése,
-- b) a GET 133. § (3) bekezdése,
-- c) a Vksztv. 74. § (2) bekezdés 5. pontja, továbbá
-- d) a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés bd) pontja.
+18. § (1)
 
 (2) Nem lép hatályba az egyes törvényeknek a rezsicsökkentés végrehajtásához szükséges módosításáról szóló 2013. évi CLXVII. törvény 5. § (7) bekezdés a) pontja.
 

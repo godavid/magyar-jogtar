@@ -56,7 +56,7 @@ Az Országgyűlés a törvényesen és átláthatóan működő, a közszolgált
 
 41. § (1)
 
-(2) A Ket. 93. § (4) bekezdésében a „harminc” szövegrész helyébe a „huszonegy” szöveg lép.
+(2)
 
 #### 10. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 

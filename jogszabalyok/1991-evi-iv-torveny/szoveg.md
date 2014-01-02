@@ -71,12 +71,20 @@ rendeletben állapítsa meg.
 - b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár – ideértve az (1) bekezdés a) pontjában meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – nem foglalkoztatható, valamint
 - c) az EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
 
-(7) A foglalkoztató és a harmadik országbeli munkavállaló az (1) bekezdés a) pontjában meghatározott engedély alapján történő munkavállalás céljából előzetes megállapodást köt – legfeljebb négyéves határozott időtartamú – foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás kötelező érvényű állásajánlatnak minősül. Ha az engedély kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően, valamint az (1) bekezdés a) pontjában meghatározott engedély időtartamának megfelelő időtartammal kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
+(7) A foglalkoztató és a harmadik országbeli munkavállaló az (1) bekezdés a) pontjában meghatározott engedély alapján történő munkavállalás céljából előzetes megállapodást köt foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás – a (7a) bekezdésben foglalt kivétellel – legfeljebb kétéves, határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat. A megállapodás kötelező érvényű állásajánlatnak minősül. Ha az engedély kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően, valamint az (1) bekezdés a) pontjában meghatározott engedély időtartamának megfelelő időtartammal kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
+
+(7a) A megállapodás
+
+- a) családi együttélés biztosítása céljából kiadott tartózkodási engedély esetén legfeljebb öt év,
+- b) EU Kék Kártya iránt benyújtott kérelem esetén legfeljebb négyéves,
+- c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 29. § (1) bekezdés a) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hároméves,
+- d) a Harmtv. 29. § (1) bekezdés e)–f) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hat hónapos,
+- e) a Harmtv. 29. § (1a) bekezdése szerinti humanitárius tartózkodási engedély esetén legfeljebb egyéves határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat.
 
 (8) A (7) bekezdés szerinti előzetes megállapodásnak tartalmaznia kell
 
 - a) a harmadik országbeli állampolgár által ellátandó tevékenységet, munkakört (FEOR),
-- b) a harmadik országbeli állampolgárnak az a) pont szerinti tevékenység ellátásához szükséges felsőfokú szakmai képesítése megnevezését,
+- b) a harmadik országbeli állampolgárnak az a) pont szerinti tevékenység ellátásához szükséges szakmai képesítése, EU Kék Kártyával történő foglalkoztatás esetén felsőfokú szakmai képesítése megnevezését,
 - c) a harmadik országbeli állampolgár részére fizetendő díjazás mértékét,
 - d) a foglalkoztatásra irányuló jogviszony megjelölését, valamint
 - e) a foglalkoztatásra irányuló jogviszony várható időtartamát.

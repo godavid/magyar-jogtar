@@ -679,157 +679,33 @@ sarkalatosnak minősül.
 
 34. § (1)–(11)
 
-(12) Az Rtv. 77. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(A rendőrség feladatai ellátása során)
-
-„e) a körözési eljárás lefolytatásához szükséges adatokat”
-
-(kezeli.)
+(12)
 
 (13)–(14)
 
-(15) Az Rtv. 91/C. § (1) bekezdésében a „bűnüldözési célból” szövegrész helyébe a „bűnüldözési célból és körözési eljárás során” szöveg lép.
-
-(16) Az Rtv. 91/C. § (2) bekezdésében a „személy- és tárgykörözés” szövegrész helyébe a „körözési eljárás” szöveg lép.
-
-(17) Azt Rtv. 91/Q. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A rendőrség a közigazgatási feladatainak ellátása céljából – a külön törvény alapján kezelhető adatokon kívül – kezeli:)
-
-„d) a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,”
+(15)–(17)
 
 (18)
 
-(19) Az Rtv. 91/K. § (1) bekezdés b) pontjában, valamint a 91/O. § (1) bekezdés c) pontjában az „információs rendszer” szövegrész helyébe a „nyilvántartási rendszer” szövegrész lép.
+(19)
 
 #### 35–36. §
 
-37. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 51. § (2) bekezdése a következő q) ponttal egészül ki:
-
-[Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn]
-
-„q) az eltűnt, valamint az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel”
-
-(szemben e szerveknek a pénzügyi intézményhez intézet írásbeli megkeresése esetén.)
-
-38. § (1) Az Eütv. a következő 9/A. §-sal egészül ki:
-
-„9/A. § Az egészségügyi államigazgatási szerv a gyógyintézet jelzése alapján az ismeretlen személyazonosságú beteg körözési eljárás keretében történő azonosítását rendelheti el személyazonosságának megállapítása érdekében. A körözést elrendelő határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható. Ha a körözés elrendelésének az oka megszűnt, az azt elrendelő egészségügyi államigazgatási szerv a körözést visszavonja.”
-
-(2) Az Eütv. 70/A. §-a helyébe a következő rendelkezés lép:
-
-„70/A. § (1) Az egészségügyi államigazgatási szerv a körözési eljárás keretében történő tartózkodási hely megállapítását rendelheti el annak az ismeretlen helyen lévő személynek, akit
-
-a) védőoltásra,
-
-b) járványügyi érdekből végzendő szűrővizsgálatra,
-
-c) kötelező orvosi vizsgálatra,
-
-d) járványügyi ellenőrzésre
-
-kötelezett.
-
-(2) Az egészségügyi államigazgatási szerv a körözési eljárás keretében történő előállítását rendelheti el annak az ismeretlen helyen lévő személynek, akit
-
-a) fertőző betegsége miatt fekvőbeteg-gyógyintézeti elkülönítésére,
-
-b) járványügyi megfigyelésre és zárlatra,
-
-c) tuberkulózis miatt elkülönített, őrzött osztályon való elhelyezésre
-
-kötelezett.
-
-(3) Az (1) és (2) bekezdés szerinti határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
-
-(4) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a rendőri szervet
-
-a) megfelelő tájékoztatással,
-
-b) megfelelő védőfelszereléssel
-
-látja el.
-
-(5) Ha a körözés elrendelésének az oka megszűnt, az azt elrendelő egészségügyi államigazgatási szerv a körözést visszavonja.”
-
-(3) Az Eütv. X. Fejezete a következő 201/B. §-sal egészül ki:
-
-„201/B. § (1) Az egészségügyi államigazgatási szerv – a sürgősségi vagy kötelező gyógykezelést végző pszichiátriai intézet vagy a kötelező gyógykezelés elrendelésére irányuló eljárást kezdeményező orvos jelzése alapján – a körözési eljárás keretében a meghatározott pszichiátriai intézetbe történő előállítását rendelheti el annak a pszichiátriai betegnek,
-
-a) aki a sürgősségi vagy kötelező gyógykezelés hatálya alatt a gyógykezelést végző pszichiátriai intézetet engedély nélkül elhagyja, vagy
-
-b) akinek a bíróság a 200. § alapján elrendeli a kötelező intézeti gyógykezelését és a beteg a jogerős határozat kézhezvételétől számított három napon belül nem jelenik meg a végzésben megjelölt pszichiátriai intézetben.
-
-(2) A körözést elrendelő határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
-
-(3) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a körözési eljárást lefolytató szervet megfelelő tájékoztatással látja el.
-
-(4) Ha az előállítás oka megszűnt, az azt elrendelő egészségügyi államigazgatási szerv a körözést visszavonja.”
+#### 37–38. §
 
 #### 39–40. §
 
-41. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 156. §-a a következő (17) bekezdéssel egészül ki:
-
-„(17) Az elektronikus hírközlési szolgáltató az adatkérésre körözési eljárás lefolytatása érdekében a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.”
+#### 41. §
 
 #### 42. §
 
-43. § (1) A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 36. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(A pénzügyőr a 35. §-ban meghatározott feladatának teljesítése során jogosult:)
-
-„i) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözött személyek nyilvántartásában szereplő, a körözés alapján előállítandó személyt, az intézkedés helye szerint illetékes rendőrkapitányságon előállítani.”
-
-(2) A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 36. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés i) pontja szerint előállított személy átszállításáról, az intézkedést elrendelő vagy az intézkedésben megjelölt hatóság elé állításáról az előállítást elrendelő hatóság gondoskodik. Az előállítás csak a céljának eléréséhez szükséges ideig tarthat, de a nyolc órát nem haladhatja meg. Ezt az időtartamot indokolt esetben a NAV előállítást foganatosító szervének vezetője egy alkalommal, négy órával meghosszabbíthatja. Az előállítás időtartamát a pénzügyőr intézkedésének kezdetétől kell számítani. Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani.”
-
-44. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 81. § (3) bekezdése a következő k) ponttal egészül ki:
-
-(A jegyző)
-
-„k) rögzíti a talált dolgok nyilvántartásába a talált idegen dologgal kapcsolatos a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti adatokat, valamint a talált idegen dolog tulajdonosnak történő átadást követően törli azokat.”
+#### 43–44. §
 
 #### 45. §
 
-46. § (1) A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény (a továbbiakban: SIS II. tv.) 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 46. §
 
-„(4) A bíróság az (1) bekezdés szerinti elfogatóparancsot a figyelmeztető jelzés elhelyezésének kezdeményezése céljából rögzíti a körözési nyilvántartási rendszerről, valamint a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözési nyilvántartási rendszerben.”
-
-(2) A SIS II. tv. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést, valamint a kiegészítő adatot a CS.SIS-ben arról a személyről,
-
-a) akit eltűnés miatt köröznek,
-
-b) akit a büntetőeljárásban terheltként vagy tanúként kívánnak idézni, vagy akinek büntetőeljárásban okiratot kívánnak kézbesíteni, de lakó- vagy tartózkodási helye ismeretlen, vagy
-
-c) aki szabadságvesztés büntetésének letöltését vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg és emiatt tartózkodási helyének megállapítása érdekében körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn.”
-
-(3) A SIS II. tv. 10. § (1) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
-
-„Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést a CS.SIS-ben a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött alábbi tárgyakról:”
-
-(4) A SIS II. tv.
-
-- a) 6. § (5) bekezdésében a „(4) bekezdés szerinti rendőri szerv a körözési információs rendszer útján” szövegrész helyébe a „(4) bekezdés szerinti körözési nyilvántartási rendszert működtető szerv a körözési nyilvántartási rendszer útján”,
-- b) 7. § (1) bekezdésében a „körözési információs rendszer útján” szövegrész helyébe a „körözési nyilvántartási rendszer útján”,
-- c) 7. § (5) bekezdésében a „körözési információs rendszerben” szövegrész helyébe a „körözési nyilvántartási rendszerbe”,
-- d) 8. § (3) bekezdésében a „megküldi a körözést folytató rendőri szervnek” szövegrész helyébe a „rögzíti a körözési nyilvántartási rendszerben”,
-- e) 10. § (2) bekezdésében a „rendőrséget a körözés elrendelése érdekében” szövegrész helyébe a „rendőrséget”,
-- f) 11. § (7) bekezdésében
-  - fa) a „körözést folytató rendőri” szövegrész helyébe a „körözési eljárást lefolytató”,
-  - fb) a „körözési információs rendszerbe” szövegrész helyébe a „körözési nyilvántartási rendszerbe”,
-- g) 11. § (8) bekezdésében a „körözést folytató rendőri szerv” szövegrész helyébe a „körözési eljárást lefolytató szerv”,
-- h) 16. § e) pontjában a „körözési nyilvántartásból” szövegrész helyébe a „körözési nyilvántartási rendszerből”,
-- i) 33. §-ában a „körözést folytató rendőri szerv, valamint a körözési információs rendszert működtető központi rendőri szerv” szövegrész helyébe a „körözési eljárást lefolytató szerv, valamint a körözési nyilvántartási rendszert működtető szerv”
-
-szöveg lép.
-
-47. § (1) Hatályát veszti a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény.
-
-(2) Hatályát veszti az Eütv. 200. § (6) bekezdése.
+47. § (1)–(2)
 
 (3)–(4)
 
@@ -837,7 +713,7 @@ szöveg lép.
 
 - a)
 - b)
-- c) az Rtv. 101. § (1) bekezdés j) pontja,
+- c)
 - d)
 
 (6)

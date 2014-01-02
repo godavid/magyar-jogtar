@@ -750,7 +750,7 @@ kell figyelembe venni.
 
 90. § (1)
 
-(2) Hatályát veszti a Met. 8/C. § (8) bekezdése.
+(2)
 
 #### 27. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 

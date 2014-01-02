@@ -268,41 +268,13 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 60. § (1)
 
-(2) Az Fttv. 38. § (4) bekezdése a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a honvédelemért felelős miniszter, hogy)
-
-„h) a felelősségi körébe tartozó állami topográfiai térképi adatbázisok és térképek vonatkoztatási és vetületi rendszerét”
-
-(rendeletben állapítsa meg.)
+(2)
 
 #### 61. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
 61. § (1)–(2)
 
-(3) Az Aktv. 14. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az agrárkamara külön jogszabályban meghatározott egyes igazgatási feladatait a falugazdász hálózat útján látja el.”
-
-(4) Az Aktv. IV. Fejezet 1. alcíme a következő 15/A. §-sal egészül ki:
-
-„15/A. § (1) Az agrárkamara által az őstermelők részére megállapított tagdíj magában foglalja az őstermelői igazolvány kiállításának és érvényesítésének a díját.
-
-(2) Az agrárkamara az őstermelői igazolvány kiadását, érvényesítését az agrárkamara tagját terhelő tagdíj megfizetéséhez, illetve az adatszolgáltatási kötelezettség teljesítéséhez köti.”
-
-(5) Az Aktv. a következő 16/A. §-sal egészül ki:
-
-„16/A. § Az agrárkamara kiállítja a mezőgazdasági termékek és élelmiszerek vonatkozásában a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló, 1993. július 2-i 2454/93/EGK bizottsági rendelet 48. cikke szerinti származási bizonyítványt.”
-
-(6) Az Aktv. 53. §-a helyébe a következő rendelkezés lép:
-
-„53. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
-
-a) az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a mezőgazdasági szakigazgatási szerv általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
-
-b) az agrárkamara hatáskörébe tartozó igazgatási feladatok ellátásával és azok elvégzésének díjával kapcsolatos részletes szabályokat.
-
-(2) Felhatalmazást kap a Kormány, hogy egyes agrárigazgatási hatósági feladatok tekintetében eljáró hatóságként, egyes feladatok tekintetében mezőgazdasági igazgatási szervként az agrárkamarát rendeletben kijelölje és megállapítsa e hatósági feladatok ellátásáért fizetendő igazgatási szolgáltatási díjat, valamint megfizetésének szabályait.”
+(3)–(6)
 
 (7)
 
@@ -330,37 +302,12 @@ b) az agrárkamara hatáskörébe tartozó igazgatási feladatok ellátásával 
 
 #### 67. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosítása
 
-67. § (1) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 42. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Honvédség szervezeteinek elhelyezéséhez, és feladatai ellátásához rendelkezésre bocsátott ingatlanok állami tulajdonban, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében állnak. A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok elsődleges rendeltetése a honvédelmi feladatok ellátásának biztosítása.”
-
-(2) A Hvt. 27. alcíme a következő 42/A. §-sal egészül ki:
-
-„42/A. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon Magyarországnak az Észak-atlanti Szerződés Szervezetében való tagságából eredő szövetségesi kötelezettségének teljesítésével összefüggésben nemzetközi szervezet vagy nemzetközi katonai parancsnokság javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.”
-
-(3) A Hvt. 81. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
-
-a) a Honvédség által a Köztársasági Elnöki Hivatalnál foglalkoztatottak részére nyújtható, üdültetési és pihentetési szolgáltatások fajtáit, azok feltételeit és rendjét, továbbá a Honvédség személyi állományába nem tartozó személyeknek szolgálati érdekkel összefüggésben nyújtható költségtérítések fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés rendjét,
-
-b) a nyugállományú katonák és a honvédelmi szervezettől nyugdíjba vonult közalkalmazottak segítését célul kitűző civil szervezetek természetbeni támogatásával összefüggő szabályokat.”
-
-(4) A Hvt. 83. §-a helyébe a következő rendelkezés lép:
-
-„83. § E törvény
-
-a) I–V. Fejezete a 38. § (7) és (8) bekezdése kivételével, VII–IX. Fejezete, 48. alcíme, 49. alcíme, 52. alcíme és 1. melléklete az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
-
-b) 42/A. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése
-
-alapján sarkalatosnak minősül.”
+67. § (1)–(4)
 
 (5) A Hvt.
 
 - a)–d)
-- e) 81. § (2) bekezdés f) pontjában az „és a kormánytisztviselőknek” szövegrész helyébe az „ , a kormánytisztviselőknek és a kormányzati ügykezelőknek”,
-- f) 81. § (2) bekezdés f) pontjában az „és kormánytisztviselők” szövegrész helyébe a „ , kormánytisztviselők és kormányzati ügykezelők”,
+- e)–f)
 - g)
 
 szöveg lép.
@@ -369,107 +316,36 @@ szöveg lép.
 
 68. § (1)–(3)
 
-(4) A Hjt. 33. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A munkáltatói jogkör gyakorlója a szolgálati beosztáshoz kapcsolódó idegennyelv-ismereti követelményt munkakörelemzés alapján állapíthatja meg a Honvédség feladatainak végrehajtására, különösen a nemzetközi kötelezettségvállalások teljesítésére és arra figyelemmel, hogy a szolgálati beosztásban várható, a munkaköri leírásban rögzített szolgálati feladat igényel-e idegennyelv-ismeretet, és ha igen, akkor mely idegen nyelv és annak milyen szintű ismeretét, szóbeli, írásbeli vagy mindkét típusú idegen nyelvű kommunikáció szükséges-e, továbbá szaknyelvi nyelvvizsga letétele indokolt-e.
-
-(5) Amennyiben a szolgálati beosztás betöltéséhez idegennyelv-ismeret szükséges, a szolgálati beosztásba történő kinevezés feltétele az idegennyelv-ismereti követelménynek való megfelelés. A munkáltatói jogkört gyakorló az állomány tagját a szolgálati beosztásba történő kinevezést megelőzően a szolgálati beosztáshoz előírt idegennyelv-ismereti követelmény alól egy alkalommal, határozott időre mentesítheti. Ha a mentesítés ideje eredménytelenül telt el, az állomány tagja megfelelő szolgálati beosztásban foglalkoztatható tovább.”
-
-(5) A Hjt. 40. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A 32. § (1) bekezdés d) pontja szerint hivatásos állományba vett személy rendfokozata nem lehet alacsonyabb, mint a hivatásos állományba vételt megelőzően viselt rendfokozata.”
-
-(6) A Hjt. 43. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A hivatásos állományon belüli, valamint a szerződéses állományon belüli állománycsoport-váltás esetén a 40. § (2) és (3) bekezdését megfelelően alkalmazni kell.”
-
-(7) A Hjt. 58. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A szünetelés időtartama alatt az állomány tagja illetményre nem jogosult, a szolgálati viszonyból származó jogait nem gyakorolhatja, az azzal kapcsolatos kötelezettségek őt nem terhelik. Ha az állomány tagja a jelöltségtől visszalépett, vagy őt nem választották meg, katonai szolgálatát szolgálati beosztásában folytatja tovább.”
-
-(8) A Hjt. 72. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a szerződéses állomány tagjának szolgálati viszonya a vállalt idő letelte előtt szűnik meg, köteles a toborzópénzből a le nem szolgált időre eső összeget – az 59. § (1) bekezdés a) és e) pontjában, valamint a 62. § (1) bekezdés a), b) és d) pontjában, (2) bekezdés b) és f) pontjában foglalt kivételekkel – visszafizetni.”
-
-(9) A Hjt. 74. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A leszerelési segély összege a szerződéses szolgálatban ténylegesen eltöltött
-
-a) 1–3. évek után évenként 1,3 havi,
-
-b) 4. év után további 1,4 havi,
-
-c) 5. év után további 1,6 havi,
-
-d) 6. év után további 1,8 havi,
-
-e) 7. év után további 2,0 havi,
-
-f) 8. év után további 2,2 havi,
-
-g) 9. év után további 2,4 havi,
-
-h) 10. év után további 2,4 havi,
-
-i) 11. év után további 2,0 havi,
-
-j) 12. év után további 1,5 havi,
-
-k) 13. év után további 1,0 havi,
-
-l) 14. év után további 0,6 havi,
-
-m) 15–20. évek után évenként további 0,2 havi
-
-távolléti díjjal azonos. Tört időszak esetén a leszerelési segély mértékét időarányosan kell megállapítani.”
+(4)–(9)
 
 (10)
 
-(11) A Hjt. 92. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A szolgálati időpótlékra jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, továbbá a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban töltött tényleges, szorzószámok nélkül számított szolgálati időt kell figyelembe venni.”
+(11)
 
 (12)–(15)
 
-(16) A Hjt. 191. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A miniszter utasításban határozza meg a fedőbeosztásban szolgálatot teljesítő hivatásos katonának a beosztás jellegére tekintettel nyújtható juttatások formáit és feltételeit.”
+(16)
 
 (17) A Hjt.
 
 - 1–2.
-- 3. 2. § 17. pontjában a „szerződés,” szövegrész helyébe a „megállapodás, a szerződés, a tanulmányi szerződés,”,
+- 3.
 - 4.
-- 5. 3. § (1) bekezdésében az „a felek megállapodása” szövegrész helyébe az „a 2. § 17. pontja szerinti jognyilatkozat”,
+- 5.
 - 6–8.
-- 9. 40. § (1) bekezdésében az „altiszt jelöltet” szövegrész helyébe az „altiszt-jelöltet és a 32. § (1) bekezdés c) pontja alá tartozó személyt”,
+- 9.
 - 10–13.
-- 14. 98. § (1) bekezdésében az „A szerződéses pályakezdők alapkiképzésének” szövegrész helyébe az „Az alapkiképzés”,
+- 14.
 - 15–16.
-- 17. 122. § (1) bekezdésében a „havonta” szövegrész helyébe a „ , ha e törvény eltérően nem rendelkezik, az állományba vétel napjától a szolgálati viszony megszűnésének napjáig, havonta”,
+- 17.
 - 18–20.
-- 21. 184. § (4) bekezdésében az „és a 163. §” szövegrész helyébe az „ , a 161. § és a 163. §”,
-- 22. 188. § (1) bekezdésében a „jognyilatkozat” szövegrész helyébe a „fegyelmi, a méltatlansági és a kártérítési határozat”,
-- 23. 197. § (2) bekezdésében a „vagy a kifogástalan életvitel követelményének, valamint az ezekhez szükséges” szövegrész helyébe a „valamint az ehhez szükséges”,
-- 24. 199. § (6) bekezdésében az „A kiemelt” szövegrész helyébe az „Az idegennyelv-tudás igazolásának a 127. § (2) bekezdésétől eltérő szabályait és a kiemelt”,
+- 21–24.
 - 25.
-- 26. 238. § (2) bekezdés 30. pontjában a „napidíj-kiegészítés” szövegrész helyébe a „külföldi napidíj-kiegészítés”
+- 26.
 
 szöveg lép.
 
-(18) Hatályát veszti a Hjt.
-
-- a) 33. § (1) bekezdésében az „a nyelvi és” szövegrész,
-- b) 40. § (2) bekezdésében a „32. § (1) bekezdés d) pontja szerinti hivatásos állományba vételkor, valamint a” szövegrész,
-- c) 192. § (1) bekezdésének második mondata,
-- d) 194. § (2) bekezdésében az „a kifogástalan életvitel,” szövegrész,
-- e) 195. §-a,
-- f) 238. § (2) bekezdés 15. pontjában az „idegennyelv-ismereti” szövegrész,
-- g) 238. § (2) bekezdés 30. pontjában a „ , külön pótlékát,” szövegrész,
-- h) 238. § (2) bekezdés 33. pontja,
-- i) 238. § (2) bekezdés 35. pontjában a „hadkötelezettség alapján teljesített” szövegrészek,
-- j) 2. melléklet 8. pont 8.2. és 8.3. alpontja,
-- k) 6. és 7. melléklete.
+(18)
 
 #### 69. A honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény módosítása
 
@@ -511,7 +387,7 @@ szöveg lép.
 
 (3)–(4)
 
-(5)
+(5) Hatályát veszti a temetőkről és a temetkezésről szóló törvény 3. §-ának a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény 1. §-ával megállapított j) pontja.
 
 #### 78. A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény módosítása
 
@@ -537,17 +413,7 @@ szöveg lép.
 
 83. § (1)
 
-(2) Az Mötv. 108/A. §-a helyébe a következő rendelkezés lép:
-
-„108/A. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
-
-a) a helyi önkormányzat tulajdonában álló nemzeti vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
-
-b) a helyi önkormányzat tulajdonában lévő nemzeti vagyon állam részére történő értékesítése vagy állammal kötött csereügylet esetén és
-
-c) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén.
-
-(2) Az (1) bekezdés c) pontja esetén, ha a cserével érintett önkormányzati vagyon értéke a versenyeztetésre vonatkozó törvényben előírt értékhatárt meghaladja, az illetékes fővárosi vagy megyei kormányhivatal dönt a csereügylet jóváhagyásáról. A kormányhivatal a csereügyletet jóváhagyja, ha az egyes vagyontárgyak értékére és a szerződésben foglalt egyéb vagyoni kötelezettségvállalásra tekintettel az értékarányosság követelménye megvalósul és egyébként az ügylet megkötése az önkormányzat kötelező feladatainak ellátása vagy gazdasági érdekei szempontjából indokolt.”
+(2)
 
 (3)
 
@@ -561,42 +427,15 @@ c) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ing
 
 85. § (1)–(4)
 
-(5) A Pp. „Általános illetékesség” alcíme a következő 30/A. §-sal egészül ki:
-
-„30/A. § A fogyasztói szerződés részévé váló tisztességtelen szerződési feltétel érvénytelensége tárgyában indított perre az a bíróság illetékes, amelynek területén a felperes belföldi lakóhelye, belföldi lakóhely hiányában belföldi tartózkodási helye, vagy – ha a felperes nem természetes személy – belföldi székhelye található. Ha a felperes belföldi lakóhellyel, tartózkodási hellyel vagy székhellyel nem rendelkezik, a bíróság illetékességét az alperes lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az alperes nem természetes személy – az alperes székhelye alapítja meg.”
+(5)
 
 (6)–(10)
 
-(11) A Pp. 78. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
-
-„(4a) A 6. §-ban meghatározott esetekben felmerülő fordítások költségét az anyanyelvének, regionális vagy nemzetiségi nyelvének használatára jogosult fél helyett az állam előlegezi, míg annak viselésére – a (4b) bekezdésben meghatározott kivétellel – a perköltségviselés általános szabályai az irányadóak.
-
-(4b) A 6. §-ban meghatározott esetekben a bírósági határozatok és megkeresések fordításával felmerülő költségeket az állam viseli.”
+(11)
 
 (12)–(37)
 
-(38) Hatályát veszti a Pp.
-
-- a) 23. § (1) bekezdés c) pontjában az „és a Ptk. 86. § (3)–(4) bekezdésében meghatározott jogokkal kapcsolatos perek”,
-- b) 23. § (1) bekezdés k) pontjában a „[Ptk. 209/A. § (1) és (2) bek., 209/B. §, 301/A. § (4)–(6) bek.]”,
-- c) 23. § (1) bekezdés m) pontjában a „kártérítési”,
-- d) 30. § (4) bekezdésében az „a (3) bekezdés hatálya alá nem tartozó”,
-- e) 67. § (1) bekezdés i) pontjában a „(396. §)”,
-- f) 73. § (1) bekezdésében, valamint a 73/C. § (2) bekezdés a) pontjában a „ , jogi személyiség nélküli gazdasági társaság”,
-- g) 100/A. § (7) bekezdésében a „(jogi személyiséggel nem rendelkező gazdasági társaság)”,
-- h) 271. § (1) bekezdés g) pontjában az „ , illetve ha a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni”,
-- i) 293. § (2) bekezdésében az „ , illetőleg a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni”,
-- j) 308. § (2) bekezdésében a „(Ptk. 18–18/A. §-ok)”,
-- k) 333. § (1) bekezdés d) pontjában az „átmeneti”,
-- l) 333. § (1) bekezdés g) pontjában az „átmeneti vagy tartós”
-
-szövegrész.
-
-(39) Hatályát veszti a Pp.
-
-- a) 30. § (3) bekezdése,
-- b) 295. § (1) és (2) bekezdése, valamint
-- c) 333. § (1) bekezdés e) pontja.
+(38)–(39)
 
 #### 86. A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet módosítása
 
@@ -612,55 +451,11 @@ szövegrész.
 
 #### 89. A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény módosítása
 
-89. § (1) A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény (a továbbiakban: Ptv.) I. Fejezete a következő 1/A. §-sal egészül ki:
-
-„1/A. § A pártra – ha e törvény eltérően nem rendelkezik – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvénynek (a továbbiakban: Ectv.) a civil szervezetek felszámolási és végelszámolási eljárására vonatkozó rendelkezéseit, valamint az Ectv. 11. § (3), (6) és (7) bekezdésének a civil szervezetekre irányadó rendelkezését megfelelően alkalmazni kell.”
-
-(2) A Ptv. III. Fejezete a következő 3/A–3/F. §-sal egészül ki:
-
-„3/A. § (1) A párt megszűnése esetén egyszerűsített törlési eljárásnak nincs helye.
-
-(2) A párt ellen csődeljárásnak nincs helye.
-
-(3) A párt fizetésképtelenségét nem lehet megállapítani a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 27. § (2) bekezdés a) pontja szerinti, továbbá az Ectv. 10. § (3) bekezdése szerinti esetekben.
-
-(4) A Cstv. 27. § (2) bekezdés b) és c) pontja szerinti esetekben akkor lehet kezdeményezni a párt felszámolását, ha a tartozása eléri vagy meghaladja a 10 millió forintot.
-
-(5) A Cstv. 26. § (3) bekezdését nem kell alkalmazni, az Ectv. 10. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a bíróság által – a párt kérelmére, tartozásai kifizetésére – engedélyezett határidő lejárta a választási eljárásról szóló törvény szerinti, az országgyűlési képviselők általános választása kampányidőszaka kezdetétől az országgyűlési képviselők általános választása eredményének jogerős megállapításáig tartó időszakra esik, a bíróság által engedélyezett fizetési haladék az országgyűlési képviselők általános választása eredményének jogerős megállapításáig meghosszabbodik.
-
-(6) A választási eljárásról szóló törvény szerinti, az országgyűlési képviselők általános választása kampányidőszaka kezdetétől az országgyűlési képviselők általános választása eredményének jogerős megállapításáig tartó időszak alatt a párt felszámolása nem rendelhető el, a felszámolási eljárást elrendelő végzés és az e végzést másodfokon elbíráló végzés meghozatalára a Cstv.-ben meghatározott határidő ezen időszakkal meghosszabbodik.
-
-3/B. § A felszámolás körébe a párt felszámolásának elrendelésekor a tulajdonában lévő és a felszámolási eljárás alatt szerzett vagyon tartozik.
-
-3/C. § (1) A párt a felszámolás elrendelését követően az 5. § szerinti támogatásra nem jogosult.
-
-(2) A párt felszámolás körébe tartozó vagyonának és kötelezettségállományának megállapítása érdekében a bíróság a felszámolás jogerős elrendelését követő 45 napon belül nyilvános meghallgatást tart. A meghallgatásra megidézi a párt felszámolása elrendelését megelőzően 10 éven belüli vezető tisztségviselőit, a felszámolót, továbbá az ideiglenes vagyonfelügyelőt, ha ideiglenes vagyonfelügyelő kirendelésére is sor került. A párt vezető tisztségviselője a meghallgatáson tesz eleget a Cstv. 31. §-a szerinti iratátadási és nyilatkozattételi kötelezettségeknek, a korábbi vezető tisztségviselők a bíróság kérésére nyilatkozatot tesznek a párt vagyonára és kötelezettségeire vonatkozó, a vezetésük alatti időszak adatairól. A párt vezető tisztségviselője a meghallgatáson adja át a felszámolónak a záróleltárt, a tevékenységet lezáró mérlegre irányadó szabályok szerint elkészített záró beszámolót, az e törvény előírásai szerint készített beszámolót, a törtévre vonatkozóan is. A párt vezető tisztségviselőjének igazolnia kell továbbá, hogy a párt eleget tett az adózás rendjéről szóló törvény szerinti záró adóbevallási kötelezettségének is.
-
-(3) A bíróság a (2) bekezdésben meghatározott kötelezettségek megszegése esetén a párt vezető tisztségviselőjére (korábbi vezető tisztségviselőjére) 100 000 Ft-tól 900 000 Ft-ig terjedő összegű pénzbírságot szab ki. A bírság ismételten is kiszabható.
-
-3/D. § (1) A párttal szemben egyszerűsített felszámolásnak nincs helye.
-
-(2) A felszámolási eljárásban a párt vagyonának értékesítése során nem szerezhet tulajdonjogot – a Cstv.-ben felsoroltakon kívül –
-
-a) a pártnak, a párt által alapított gazdasági társaságnak és a párt által a 9/A. § szerint alapított alapítványnak a vezető tisztségviselője,
-
-b) a párt felszámolása elrendelését megelőzően 10 éven belüli időszakban vezető tisztségviselő tisztséget betöltő személy,
-
-c) a párt által
-
-ca) alapított gazdasági társaság,
-
-cb) a 9/A. § alapján alapított alapítvány,
-
-d) az a)–b) pontban említett személyek Polgári Törvénykönyv szerinti hozzátartozója.
-
-3/E. § A párt felszámolásának befejeződését követően fennmaradt vagyont a bíróság a 8. § szerinti alapítvány részére adja át.
-
-3/F. § Ha a párt jogutód nélkül megszűnik, a hitelezők kielégítetlen követelésük erejéig kártérítési igényt érvényesíthetnek a párt vezető tisztségviselőivel szemben, a szerződésen kívül okozott károkért való felelősség szabályai szerint, ha a párt vezető tisztségviselője a párt fizetésképtelenségével fenyegető helyzet beállta után a hitelezői érdekeket nem vette figyelembe.”
+89. § (1)–(2)
 
 (3)–(4)
 
-(5) Hatályát veszti a Ptv. 2. § (6) bekezdése.
+(5)
 
 #### 90. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
@@ -704,9 +499,7 @@ d) az a)–b) pontban említett személyek Polgári Törvénykönyv szerinti hoz
 
 #### 100. Az ügyvédekről szóló 1998. évi XI. törvény módosítása
 
-100. § (1) Az ügyvédekről szóló 1998. évi XI. törvény (a továbbiakban: Üt.) 8. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az ügyvédi kamara által indított fegyelmi, vizsgálati és ellenőrzési ügyben, – ha annak eredményes lefolytatása érdekében feltétlenül szükséges az ügyvédi titok körébe tartozó adat megismerése – az ügy tárgyához kapcsolódóan az ügyvédet az eljáró kamarai szervek és bíróság előtt nem terheli titoktartási kötelezettség.”
+100. § (1)
 
 (2)–(3)
 
@@ -720,94 +513,29 @@ d) az a)–b) pontban említett személyek Polgári Törvénykönyv szerinti hoz
 
 (9)–(10)
 
-(11) Az Üt. 54. §-a helyébe a következő rendelkezés lép:
-
-„54. § (1) Az első fokú fegyelmi tanács az ügyvéd tevékenységének gyakorlását felfüggeszti, ha
-
-a) ellene olyan szándékos bűncselekmény elkövetése miatt emelt vádat az ügyész, amelynek büntetési tétele ötévi szabadságvesztésnél súlyosabb,
-
-b) olyan szándékos bűncselekmény elkövetése miatt állapítják meg a bűnösségét nem jogerősen másodfokon, amelynek büntetési tétele ötévi szabadságvesztésnél súlyosabb.
-
-(2) Az elsőfokú fegyelmi tanács az ügyvéd tevékenységének gyakorlását felfüggesztheti, ha
-
-a) az ügyvéd szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntető eljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult büntető eljárást – hatálya alatt áll,
-
-b) a felfüggesztés a fegyelmi vétség súlyosságára való tekintettel indokolt.
-
-(3) A felfüggesztés időtartama az (1) bekezdés a) pontja esetén a büntetőeljárás jogerős befejezéséig tart, kivéve, ha első vagy másodfokon az ügyvédet nem jogerősen felmentették; az (1) bekezdés b) pontja esetén a büntetőeljárás jogerős befejezéséig tart, míg a (2) bekezdés esetén 3 hónap, amely egy ízben, legfeljebb 3 hónappal meghosszabbítható.
-
-(4) Az első fokú fegyelmi tanácsnak a felfüggesztésről hozott határozata ellen a kézbesítésétől számított 15 napon belül az ügyvéd, a képviselője és a kamara elnöke a másodfokú fegyelmi tanácshoz fellebbezhet. A fellebbezésnek nincs halasztó hatálya, a fellebbezésről a másodfokú fegyelmi tanács soron kívül határoz.
-
-(5) Ha az első fokú fegyelmi határozat kizárást alkalmazott, és annak végrehajtását nem függesztette fel, a határozatban az ügyvéd tevékenységét a fegyelmi eljárás jogerős befejezéséig fel kell függeszteni. E rendelkezés ellen külön fellebbezésnek van helye, amelynek nincs halasztó hatálya.
-
-(6) Az ügyvédi tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti vagy köztisztviselői jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
-
-(7) A felfüggesztésre a szüneteltetés jogkövetkezményeit kell alkalmazni.”
+(11)
 
 (12)–(17)
 
-(18) Az Üt. 96/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A kamara a tagjairól vezetett névjegyzékbe az ügyvédjelölt foglalkoztatására való jogosultságot az ügyvéd részére – kérelemre – bejegyzi, ha)
-
-„a) legalább két évig ügyvédi tevékenységet folytatott,”
+(18)
 
 (19)
 
-(20) Az Üt. 112. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-[A teljes ülés a 111. § (2) bekezdésének e) pontja alapján szabályzatot ad ki]
-
-„d) az irodagondnok jogköréről, feladatairól, valamint eljárásának és díjazásának részletszabályairól,”
-
-(21) Az Üt. 112. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-[A teljes ülés a 111. § (2) bekezdésének e) pontja alapján szabályzatot ad ki]
-
-„j) a letét- és pénzkezelés, valamint a letétnyilvántartás részletes szabályairól,”
-
-(22) Az Üt. 112. § (1) bekezdés p) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő q) ponttal egészül ki:
-
-[A teljes ülés a 111. § (2) bekezdésének e) pontja alapján szabályzatot ad ki]
-
-„p) a biztonsági jel gyártásával, beszerzésével, rendelkezésre bocsátásával, kezelésével, felhasználásával, a biztonsági jel felhasználásának nyilvántartásával, a biztonsági jel ellenértékének megfizetésével és nyilvántartásával, valamint az ezekkel összefüggő kamarai feladatok ellátásával kapcsolatos részletes szabályokról, továbbá a biztonsági jel ellenértékének összegéről,
-
-q) minden olyan kérdésben, amelyre az Alapszabály feljogosítja.”
+(20)–(22)
 
 (23)
 
 (24)–(26)
 
-(27) Az Üt. 119. §-a helyébe a következő rendelkezés lép:
-
-„119. § (1) Kamarai tisztségviselővé és kamarai bizottság tagjává (e fejezet alkalmazásában a továbbiakban: tisztségviselők) – ha e törvény másképpen nem rendelkezik – bármely kamarai tag megválasztható.
-
-(2) A tisztségviselőket – a (4) bekezdésben foglalt kivétellel – négyévente közvetlenül választják, titkos szavazással (a továbbiakban: általános választás).
-
-(3) A választást jelölés előzi meg, egy tisztségre több személy, egy személy több tisztségre is jelölhető. Akit több tisztségre választottak meg, egy kamarán belül kizárólag egy, általa kiválasztott tisztséget tölthet be.
-
-(4) A tisztségviselők megbízatása az új tisztségviselők megválasztásának napján szűnik meg. Ha a kamarák elnökének, főtitkárának, elnökségi tagjának vagy fegyelmi megbízottjának megbízatása egyéb okból korábban szűnt meg, a választására jogosult szerv a megbízatás megszűnésétől számított 3 hónapon belül megválasztja az új tisztségviselőt. Az új tisztségviselő megbízatása a következő általános választásig tart.
-
-(5) A Magyar Ügyvédi Kamara szabályzata a (4) bekezdésben megjelölteken kívül más tisztségviselő (4) bekezdés szerinti megválasztásáról is rendelkezhet.”
+(27)
 
 (28)
 
-(29) Az Üt. a következő 130/B. §-sal egészül ki:
-
-„130/B. § (1) E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel (a továbbiakban: Módtv.) megállapított 20. § (4a) bekezdését, 76. § (6a) bekezdését, 76. § (7a)–(7c) bekezdését, valamint 76. § (7e)–(7h) bekezdését a 2014. március 15-ét követően kezdeményezett jogutód nélküli megszüntetésre irányuló eljárásokban kell alkalmazni. E törvénynek a Módtv.-vel megállapított 76. § (7d) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő csődeljárásban és felszámolási eljárásban is alkalmazni kell.
-
-(2) E törvénynek a Módtv.-vel megállapított 30/A. §-ában foglaltakat – a (3) bekezdésben foglalt kivétellel – a 2014. december 31-ét követően megkötött letéti szerződésekre kell alkalmazni.
-
-(3) Az ügyvéd a 2015. január 1-jén hatályos összes pénzletétre vonatkozó ügyvédi letéti szerződését köteles 2015. június 30-ig e törvénynek a Módtv.-vel megállapított 30/A. §-ában foglaltak szerint a területi kamara letéti nyilvántartásában rögzíteni.
-
-(4) E törvénynek a Módtv.-vel megállapított 68. § (8) bekezdése, valamint 116. § (9) bekezdése szerinti, az ügyvédi iroda számviteli beszámolójának beküldésére és közzétételére vonatkozó kötelezettséget először a 2014. évi számviteli beszámoló tekintetében kell teljesíteni.
-
-(5) A Magyar Ügyvédi Kamara és a területi kamarák a Módtv.-vel megállapított 25/A. § (1) bekezdésben, 25/B. §-ban, valamint 30/A. §-ban meghatározott feladataik ellátására gazdasági társaságot hozhatnak létre; a gazdasági társaság tagja kizárólag területi kamara, illetve a Magyar Ügyvédi Kamara lehet.”
+(29)
 
 (30) Az Üt.
 
-- a) 8. § (4) bekezdésében a „megfelelően irányadó” szövegrész helyébe a „ , valamint az ügyvédi titok körébe eső adatot is tartalmazó elektronikus vagy papíralapú okiratok tárolását, archiválását, őrzését vagy az abban foglalt adatok feldolgozását végző természetes és jogi személyekre megfelelően irányadó” szöveg,
-- b) 12. § (2) bekezdésének nyitó szövegrészében az „érdekképviseletével kapcsolatos” szövegrész helyébe az „érdekképviseletével, valamint az ügyvédi tevékenységgel összefüggő jogügyletek biztonságával kapcsolatos” szöveg,
+- a)–b)
 - c)–h)
 
 lép.
@@ -816,7 +544,7 @@ lép.
 
 (32) Hatályát veszti az Üt.
 
-- a) 54/A. §-a,
+- a)
 - b)–d)
 
 #### 101. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
@@ -881,9 +609,7 @@ lép.
 
 (34)–(42)
 
-(43) A Ctv. 112. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A végelszámoló a társadalombiztosítási jogszabályban meghatározott módon adatszolgáltatást köteles teljesíteni a biztosítottak jogviszonyára vonatkozó nyugdíjbiztosítási adatokról. A biztosítottak 2009. december 31-éig fennállt jogviszonyáról szóló adatokat az illetékes nyugdíjbiztosítási igazgatási szerv részére kell megküldeni. Az említett időpontot követő időszakra a társadalombiztosítási kötelezettséggel járó kifizetésekről az állami adóhatóság részére kell bevallást teljesíteni. A nyugdíjbiztosítási igazgatási szerv és az állami adóhatóság által – az adatszolgáltatási kötelezettség teljesítéséről – kiadott igazolást a végelszámoló köteles megküldeni a bíróságnak. Ha a biztosítottak jogviszonyára vonatkozó adatokat az állami adóhatóság a végelszámolással összefüggésben lefolytatott ellenőrzése során állapítja meg, az adatszolgáltatási kötelezettség teljesítéséről szóló igazolás helyett az állami adóhatóság határozatát kell a végelszámolónak megküldenie a bíróság részére.”
+(43)
 
 (44)
 
@@ -923,13 +649,7 @@ lép.
 
 116. § (1)
 
-(2) A Kstv. 38. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kisajátítás előtt az ingatlanon előmunkálatot csak különösen indokolt esetekben, az ingatlan rendeltetésszerű használatát a lehető legkevésbé korlátozva lehet végezni. Az előmunkálatok célja a kisajátítás előkészítése érdekében szükséges mérések, vizsgálatok elvégzése lehet. Az Aptv. szerinti gyorsforgalmi út építése, valamint a nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében előmunkálatnak minősül a lőszermentesítés és a próbafeltárás, valamint a megelőző régészeti feltárás is, amennyiben az nem eredményezi az ingatlan helyreállíthatatlan változását. Amennyiben az ingatlan kisajátítására nem kerül sor, az előmunkálatok végzésére jogosult köteles az ingatlant a rendeltetésszerű használatra alkalmassá tenni.”
-
-(3) A Kstv. 38. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az Aptv. szerinti gyorsforgalmi út építése, valamint a nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését.”
+(2)–(3)
 
 (4)–(5)
 
@@ -999,11 +719,7 @@ lép.
 
 (22)
 
-(23) A Cnytv. 105. §-a helyébe a következő rendelkezés lép:
-
-„105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés vagy közhasznúsági melléklet benyújtási kötelezettségének 2015. január 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést vagy közhasznúsági mellékletet papír alapon kell az OBH részére benyújtania. Ha a 2015. január 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2015. január 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
-
-(2) Ha a beszámoló benyújtására köteles szervezet, jogi személyiséggel rendelkező szervezeti egység 2013. január 1. napja és 2014. május 30. napja között a korábbi két év beszámolóját, közhasznúsági mellékletét is benyújtja az OBH részére, azt az OBH az országos névjegyzékben közzéteszi.”
+(23)
 
 (24)–(27)
 
@@ -1028,37 +744,7 @@ lép hatályba.
 
 132. § (1)–(2)
 
-(3) Az Iktv. 110. §-a helyébe a következő rendelkezés lép:
-
-„110. § A Cnytv. 95. §-a következő szöveggel lép hatályba:
-
-„95. § A nyilvántartás egyesület esetén a 91. §-ban foglaltakon túlmenően tartalmazza a következő adatokat is:
-
-a) az egyesület formáját
-
-aa) egyesület,
-
-ab) párt,
-
-ac) sportegyesület,
-
-ad) vallási tevékenységet végző szervezet,
-
-ae) nemzetiségi egyesület,
-
-af) szakszervezet,
-
-ag) szövetség,
-
-ah) polgárőrszervezet és
-
-ai) egyéb, törvényben meghatározott egyesületi forma,
-
-b) az egyesület képviselőjének anyja születési nevét,
-
-c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát,
-
-d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját.””
+(3)
 
 (4) Nem lép hatályba az Iktv.
 
@@ -1167,9 +853,7 @@ d) határozott időre szóló képviselet esetében a jogviszony megszűnéséne
 
 156. § (1)
 
-(2) A Jöt. „Átmeneti rendelkezések” alcíme a következő 128/I. §-sal egészül ki:
-
-„128/I. § Az a személy, aki a 103. § (1) bekezdése alapján a 62/A. § (1) bekezdése szerinti kenőolajjal, illetve az 52. § (1) bekezdés f) pontja szerinti, 5 kilogrammnál nagyobb kiszerelésű palackba töltött cseppfolyósított szénhidrogénnel folytatott jövedéki engedélyes kereskedelmi, export- és importtevékenység engedélyezése iránti kérelmét 2013. december 31-ig benyújtotta, az engedélyezni kért tevékenységet 2013. december 31-ét követően a kérelemről történő döntésig végezheti.”
+(2)
 
 (3)–(4)
 
@@ -1245,25 +929,7 @@ d) határozott időre szóló képviselet esetében a jogviszony megszűnéséne
 
 174. § (1)–(10)
 
-(11) A Kttv. 102. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A kormánytisztviselőnek, ha
-
-a) a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította,
-
-b) fogyatékossági támogatásra jogosult, vagy
-
-c) vakok személyi járadékára jogosult,
-
-évenként öt munkanap pótszabadság jár.”
-
-(12) A Kttv. 134. § (1) bekezdése a következő 16. ponttal egészül ki:
-
-(Az illetménykiegészítés mértéke)
-
-„16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál”
-
-(foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.)
+(11)–(12)
 
 (13)–(24)
 
@@ -1273,9 +939,7 @@ c) vakok személyi járadékára jogosult,
 
 #### 176. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosulóés hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló2012. évi V. törvény módosítása
 
-176. § (1) A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény (a továbbiakban: Kttvá.) 4. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A Kttv.-nek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 134. § (1) bekezdés 16. pontját 2013. augusztus 1-jétől kell alkalmazni.”
+176. § (1)
 
 (2)
 
@@ -1295,9 +959,7 @@ c) vakok személyi járadékára jogosult,
 
 #### 180. A Polgári Törvénykönyvről szóló 1959. évi IV. törvény módosítása
 
-180. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74/C. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A bíróság az alapító jogainak gyakorlása során e jogok gyakorlására maga helyett – a kezelő szerv (szervezet) javaslatának figyelembevételével – más személyt jelölhet ki. E személyre az alapítóra vonatkozó rendelkezések az irányadóak. A kezelő szerv (szervezet) által egyhangú döntéssel javasolt személy kijelölése nem tagadható meg, ha ennek törvényi akadálya nincs.”
+180. §
 
 #### 181. A szövetkezetekről szóló 2006. évi X. törvény módosítása
 
@@ -1503,7 +1165,7 @@ lép hatályba.
 - a) 3:329. § (3) bekezdése,
 - b) 3:404. § (4) bekezdése.
 
-(32) Hatályát veszti a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 39. §-a, valamint 42–44. §-a.
+(32)
 
 #### 186. A Polgári Törvénykönyv Negyedik Könyvéhez kapcsolódó módosítások
 

@@ -697,11 +697,7 @@ rendeletben állapítsa meg.
 
 (7) A 142. § (4) bekezdése 2015. január 1-jén lép hatályba.
 
-106. § (1) 2014. január 1-jén hatályát veszti
-
-- a) az 52. § (2) bekezdése;
-- b) az 53. § (2) bekezdése;
-- c) az 54. § (3) bekezdése.
+106. § (1)
 
 (2) 2014. május 1-jén hatályát veszti
 
@@ -810,14 +806,14 @@ rendeletben állapítsa meg.
 
 - a)
 - b)
-- c) 9. § (1), (2) és (4) bekezdése;
+- c)
 - d)
 - e)
 - f)
 - g)
-- h) 11/A–20. §-a;
+- h)
 - i)
-- j) 22–25/G. §-a;
+- j)
 - k)
 - l)
 - m)
@@ -842,21 +838,11 @@ rendeletben állapítsa meg.
 
 #### 130. §
 
-130/A. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 53. pontjában a „termőföld magánszemély” szövegrész helyébe a „termőföld, illetve halastó magánszemély” szöveg lép.
+#### 130/A. §
 
 #### 32. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-131. § (1) A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz.) 20. § (2) bekezdése a következő n) ponttal egészül ki:
-
-(Az adóazonosító jel kezelésére törvényben meghatározott feladatkörében eljárva jogosult)
-
-„n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési korlátozások hatósági ellenőrzésével, továbbá a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba vételével kapcsolatos eljárással összefüggésben.”
-
-(2) A Szaz. 32. §-a a következő s) ponttal egészül ki:
-
-(A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult)
-
-„s) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott földhasználati összesítő igénylése céljából az ingatlanügyi hatóság, az ügyész, a mezőgazdasági igazgatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv.”
+#### 131. §
 
 #### 33. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
@@ -864,13 +850,7 @@ rendeletben állapítsa meg.
 
 #### 34. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-133. § (1) Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény (a továbbiakban: Díjtv.) 31. § (1) bekezdése a következő l) ponttal egészül ki:
-
-(Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha az)
-
-„l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv”
-
-(kéri.)
+133. § (1)
 
 (2)
 
@@ -896,13 +876,7 @@ rendeletben állapítsa meg.
 
 #### 39. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosítása
 
-138. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 13. § (2) bekezdése a következő n) ponttal egészül ki:
-
-(E törvény rendelkezéseit)
-
-„n) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során”
-
-(csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.)
+#### 138. §
 
 #### 40. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 

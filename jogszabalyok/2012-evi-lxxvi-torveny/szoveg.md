@@ -50,8 +50,8 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 - 2.
 - 3.
 - 4.
-- 5. egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi LXI. törvény,
-- 6. egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi CXXXI. törvény,
+- 5.
+- 6.
 - 7.
 - 8.
 - 9.
@@ -265,7 +265,19 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 58. §
 
-59. §
+59. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 171/A. §-a helyébe a következő rendelkezés lép:
+
+„171/A. § (1) Ahol jogszabály az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt említi, ott a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt, ahol államigazgatási eljárást említ, ott közigazgatási hatósági eljárást, ahol államigazgatási határozatot, azon közigazgatási hatósági döntést kell érteni.
+
+(2) Ahol jogszabály
+
+a) központi elektronikus szolgáltató rendszert említ, ott a Kormány által kötelezően nyújtott szabályozott elektronikus ügyintézési szolgáltatások együttesét vagy az adott szövegkörnyezetben hivatkozott szolgáltatást,
+
+b) ügyfélkaput vagy hivatali kaput említ, ott a Kormány által kötelezően nyújtott azonosítási és biztonságos kézbesítési szabályozott elektronikus ügyintézési szolgáltatást, továbbá
+
+c) ügyfél tárhelyét, vagy bármely megfogalmazásban tárhelyére történő információelhelyezést említ, ott a Kormány által kötelezően nyújtott biztonságos kézbesítési szabályozott elektronikus ügyintézési szolgáltatással történő kézbesítést
+
+kell érteni.”
 
 60. §
 

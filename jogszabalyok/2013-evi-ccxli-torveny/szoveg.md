@@ -248,97 +248,15 @@ volt.
 
 #### 4. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-31. § (1) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 69. § (2) bekezdés b) pontja helyébe az alábbi rendelkezés lép:
-
-[Az (1) bekezdésben foglaltaktól eltérően a nemzetbiztonsági ellenőrzés kezdeményezésére a 74. § i) pontjának]
-
-„b) ie), il), im), it) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,”
-
-(jogosult.)
-
-(2) Az Nbtv. 74. §-a az alábbi iv) alponttal egészül ki:
-
-(E törvény alkalmazásában nemzetbiztonsági ellenőrzés alá eső személy:)
-
-„iv) a Nemzeti Emlékezet Bizottsága tagja.”
+#### 31. §
 
 #### 5. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-32. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 2. §-a helyébe az alábbi rendelkezés lép:
-
-„2. § Törvény eltérő rendelkezése hiányában a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, a Nemzeti Adatvédelmi és Információszabadság Hatóság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, az Egyenlő Bánásmód Hatóság, a Közbeszerzési Hatóság, a Nemzeti Választási Iroda, az Országgyűlési Őrség és a Nemzeti Emlékezet Bizottságának Hivatala köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.”
-
-(2) A Kttv. 234. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.”
-
-(3) A Kttv. 236. §-a következő (8) bekezdéssel egészül ki:
-
-„(8) A Nemzeti Emlékezet Bizottságának Hivatala főigazgatója főosztályvezetői illetményre jogosult azzal, hogy alapilletménye az illetményalap 9,5-szerese, a közszolgálati tisztviselőkről szóló törvényben meghatározott juttatásán felüli egyéb juttatásait a Nemzeti Emlékezet Bizottságának elnöke szabályzatban állapítja meg.”
+#### 32. §
 
 #### 6. Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény módosítása
 
-33. § (1) Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény (a továbbiakban: Ásztl. törvény) 3. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A megfigyelt és a harmadik személy a rá vonatkozó adatokat megismerheti. Megismerheti továbbá
-
-a) a személyes érintkezéseit rögzítő vagy leíró adatokat,
-
-b) azokat az iratokat, amelyeknek a személyes adatokkal együtt történő megismerését az irat keletkezésekor hatályos jogszabály lehetővé tette,
-
-c) a róla szóló anyagban lévő és e törvény alapján bárki által megismerhető adatokat.
-
-(2) A megfigyelt személy megismerheti a róla jelentő, illetve vele foglalkozó hivatásos alkalmazott, hálózati személy és operatív kapcsolat természetes személyazonosító adatait.”
-
-(2) Az Ásztl. törvény 3. §-a a következő (4)–(5) bekezdéssel egészül ki:
-
-„(4) A megfigyelt nyilvánosságra hozhatja az (1)–(2) bekezdés alapján megismert adatokat, más megfigyelt és harmadik személy személyes adatainak kivételével.
-
-(5) A hivatásos alkalmazott, a hálózati személy és az operatív kapcsolat megismerheti és nyilvánosságra hozhatja a kizárólag vele kapcsolatba hozható személyes adatokat.”
-
-34. § Az Ásztl. törvény 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A tudományos kutató a faji eredetre, a nemzetiségi és etnikai hovatartozásra, a vallásos vagy más világnézeti meggyőződésre, illetve az érintett egészségi állapotára vonatkozó adatokat – a védelmi időn belül – anonimizálva ismerheti meg.
-
-A Levéltár az anonimizálás nélküli megismerést akkor engedélyezi, ha
-
-a) a megfigyelés célja a faji eredettel, a nemzetiségi és etnikai hovatartozással, a vallásos vagy más világnézeti meggyőződéssel összefüggésbe hozható, illetve ha
-
-b) az érintett egészségügyi állapotára vonatkozó adat az állambiztonsági tevékenységet végző szervek működésével összefüggésbe hozható, és
-
-a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adatok megismerése szükséges.”
-
-35. § (1) Az Ásztl. törvény 5. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Nem kell anonimizálni azokat az adatokat,
-
-a) amelyeket nyilvános vagy a közönség részére nyitva álló rendezvényeken közszereplésekkel kapcsolatban rögzítettek,
-
-b) amelyeket már jogszerűen nyilvánosságra hoztak,
-
-c) amelyek a hivatásos alkalmazott, a közszereplő operatív kapcsolat és a közszereplő hálózati személyek azonosításához szükségesek,
-
-d) amelyek megismeréséhez az érintett írásban hozzájárult.”
-
-(2) Az Ásztl. törvény 5. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ha a kérelmező közszereplő hálózati személy vagy operatív kapcsolat azonosításához szükséges adatokat kíván megismerni, a Levéltár az érintett közszereplőt nyilatkozat tételére hívja fel a tekintetben, hogy közszereplő minőségét elismeri-e. Amennyiben a felhívás kézhezvételétől számított tizenöt napon belül az érintett olyan nyilatkozatot tesz, amely szerint közszereplői minőségét nem ismeri el, a Levéltár az adat megismerésére irányuló kérelmet elutasítja; ellenkező esetben a megismerési kérelemnek eleget tesz. A közszereplő nyilatkozatával szemben jogorvoslatnak van helye, amelynek során a kérelmező indítványára a bíróság az érintett közszereplői minőségéről állást foglal. Az ügyben a Fővárosi Törvényszék e feladatra kijelölt bírája jár el. Ha a bíróság az érintettet közszereplőnek minősíti, a Levéltár a megismerési kérelemnek eleget tesz.”
-
-36. § Az Ásztl. törvény a következő 6/A. §-sal egészül ki:
-
-„6/A. § A hivatásos alkalmazott, a hálózati személy és az operatív kapcsolat halálát követően hozzátartozója megismerheti a kizárólag az elhunyt hivatásos alkalmazottal, a hálózati személlyel és az operatív kapcsolattal kapcsolatba hozható személyes adatokat.”
-
-37. § Az Ásztl. törvény 7. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az érintettek törvényes jogainak érvényesítésével kapcsolatos bírósági és hatósági eljárások esetén a bíróságok és az eljáró hatóságok számára az (1) bekezdésben foglalt előzetes jóváhagyásra nincs szükség.”
-
-38. § Az Ásztl. törvény 11. §-a a következő (10)–(11) bekezdéssel egészül ki:
-
-„(10) A közfeladatot ellátó szervnél őrzött olyan iratot, amely a Levéltár illetékességébe tartozik – ha szükséges, másolat elkészítését követően –, a Levéltárnak át kell adni. Amennyiben az irat más dokumentumoktól fizikailag nem választható szét, másolati példányt kell kiadni.
-
-(11) A Levéltár megőrzésébe került olyan iratot, amely más szerv már közlevéltárban vagy nyilvános magánlevéltárban őrzött irattári anyagának szerves részét képezi, és nem tartozik a Levéltár illetékességébe tartozó iratok körébe, a Levéltár – a szükséges másolatok elkészítését követően – az iratokat őrző levéltárnak adja át. Amennyiben az irat más dokumentumtól fizikailag nem választható szét, másolati példányt kell kiadni.”
-
-39. § Hatályát veszti az Ásztl. törvény 2. § (2) bekezdésének e) pontja.
+#### 33–39. §
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

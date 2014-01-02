@@ -157,49 +157,12 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 
 20. § Ez a törvény 2014. január 1-jén lép hatályba.
 
-21. § (1) Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbt.) a következő 11/A. alcímmel egészül ki:
-
-„11/A. Közérdekű bejelentések vizsgálata
-
-38/A. § Az alapvető jogok biztosa vizsgálja a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti közérdekű bejelentéseknek a 18. § (1) bekezdés a)–k) pontja szerinti hatóságok általi kezelésének gyakorlatát, valamint kérelemre az egyes közérdekű bejelentések megfelelő intézését.
-
-38/B. § (1) Az alapvető jogok biztosa gondoskodik a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti, a közérdekű bejelentések megtételére és nyilvántartására szolgáló elektronikus rendszer (a továbbiakban: elektronikus rendszer) üzemeltetéséről.
-
-(2) A 18. § (1) bekezdés a)–k) pontja szerinti hatóságok az alapvető jogok biztosának a feladatai ellátásához szükséges körben adatot szolgáltatnak az elektronikus rendszeren keresztül tett közérdekű bejelentésekkel és azok kivizsgálásával kapcsolatban.
-
-38/C. § A közérdekű bejelentő az általa vélelmezett visszásság orvoslása érdekében beadvánnyal fordulhat az alapvető jogok biztosához, ha
-
-a) a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti eljárásra jogosult szerv (a továbbiakban: eljárásra jogosult szerv) a közérdekű bejelentést megalapozatlannak nyilvánítja,
-
-b) a közérdekű bejelentő a vizsgálat eredményével nem ért egyet,
-
-c) a közérdekű bejelentő álláspontja szerint az eljárásra jogosult szerv a közérdekű bejelentést nem vizsgálta ki teljeskörűen.
-
-38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó munkakörben és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.”
-
-(2) Az Ajbt. 40. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az alapvető jogok biztosa az éves beszámolóban)
-
-„a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,”
-
-22. § Az ügyvédekről szóló 1998. évi XI. törvény 5. § (3) bekezdése a következő j) ponttal egészül ki:
-
-[Az ügyvéd az (1) bekezdésben felsoroltakon kívül elláthatja a következő tevékenységeket is:]
-
-„j) bejelentővédelmi ügyvédi tevékenység.”
+21–22. §
 
 23. §
 
-24. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 168. § (17) bekezdése helyébe a következő rendelkezés lép:
-
-„(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.”
+24. §
 
 25. § A kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyvének kihirdetéséről szóló 2011. évi CXLIII. törvény 10. §-ában az Ajbt. 40. § (2) bekezdés a) pontját megállapító rendelkezés az „illetve a 2. § (6) bekezdésében meghatározottak szerinti” szövegrész helyett az „a 2. § (6) bekezdésében meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos” szöveggel lép hatályba.
 
-26. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 94/A. §-ában az „az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 141–143. §-ai” szövegrész helyébe az „a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései” szöveg lép.
-
-27. § Hatályát veszti
-
-- a) az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény „A közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos eljárás” alcíme, továbbá 141–143. §-a, és
-- b) a tisztességes eljárás védelméről, valamint az ezzel összefüggő törvénymódosításokról szóló 2009. évi CLXIII. törvény.
+26–27. §

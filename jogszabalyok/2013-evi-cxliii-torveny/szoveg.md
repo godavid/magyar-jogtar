@@ -166,9 +166,7 @@ egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefügg�
 
 134–137. §
 
-138. § A Gfbt. 57/F. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A Felügyelet eljárására a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 81–95. §-ai nem alkalmazhatók.”
+138. §
 
 139. §
 
@@ -176,19 +174,7 @@ egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefügg�
 
 140. §
 
-141. § A Pft. a következő 35/A. §-sal egészül ki:
-
-„35/A. § (1) Készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett belföldi fizetési műveletek után a kedvezményezett fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatója által a fizető fél fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatója részére – közvetlenül vagy közvetve – megfizetett díjaknak és jutalékoknak a mértéke nem haladhatja meg
-
-a) a fizetési számla terhére kibocsátott készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett fizetési művelet esetében a díj- és jutalékfizetés alapját képező fizetési művelet értékének 0,2 százalékát,
-
-b) a fizető fél rendelkezésére álló hitelkeret terhére kibocsátott készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett fizetési művelet esetében a díj- és jutalékfizetés alapját képező fizetési művelet értékének 0,3 százalékát.
-
-(2) Az (1) bekezdés alkalmazásában belföldi fizetési művelet az olyan fizetési művelet, amelynél mind a fizető fél fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatójának, mind pedig a kedvezményezettnek a székhelye vagy fióktelepe Magyarországon van.”
-
-142. § A Pft. „Átmeneti rendelkezések” alcíme a következő 66/A. §-sal egészül ki:
-
-„66/A. § Az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvénnyel megállapított 35/A. §-ban foglalt követelményeknek a 2014. január 1-jén és ezt követően kezdeményezett belföldi fizetési műveletek tekintetében kell megfelelni.”
+141–142. §
 
 143. §
 
