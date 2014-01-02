@@ -344,75 +344,73 @@ szerezhet.
 
 Az MFB Zrt. a 3. § (5) bekezdése alapján a Magyar Állam nevében a következő gazdálkodó szervezetekben gyakorol tulajdonosi jogokat:
 
-Garantiqa Hitelgarancia Zrt.
+Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság
 
-Diákhitel Központ Zrt.
+Diákhitel Központ Zártkörűen Működő Részvénytársaság
 
-Állami Autópálya Kezelő Zrt.
+Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság
 
-Nemzeti Infrastruktúra Fejlesztő Zrt.
+Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság
 
-Magyar Közút Nonprofit Zrt.
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság
 
-Kisvállalkozás-fejlesztő Pénzügyi Zrt.
+Kisvállalkozás-fejlesztő Pénzügyi Zártkörűen Működő Részvénytársaság
 
-Corvinus Támogatásközvetítő Zrt.
+Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság
 
-Magyar Turizmus Zrt.
+Magyar Turizmus Zártkörűen Működő Részvénytársaság
 
-Kincsem Nemzeti Lóverseny és Lovas Stratégia Kft.
+Kincsem Nemzeti Lóverseny és Lovas Stratégiai Korlátolt Felelősségű Társaság
 
-Magyar Lóversenyfogadást Szervező Kft.
+Magyar Lóversenyfogadást-szervező Korlátolt Felelősségű Társaság
 
-ITD Hungary Zrt.
+Hungarofest Nemzeti Rendezvényszervező Nonprofit Korlátolt Felelősségű Társaság
 
-Hungarofest Nonprofit Kft.
+Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 
-Regionális Fejlesztési Holding Zrt.
+Bakonyerdő Erdészeti és Faipari Zártkörűen Működő Részvénytársaság
 
-Bakonyerdő Erdészeti és Faipari Zrt.
+DALERD Délalföldi Erdészeti Zártkörűen Működő Részvénytársaság
 
-DALERD Délalföldi Erdészeti Zrt.
+ÉSZAKERDŐ Erdőgazdasági Zártkörűen Működő Részvénytársaság
 
-Északerdő Erdőgazdasági Zrt.
+Gemenci Erdő- és Vadgazdaság Zártkörűen Működő Részvénytársaság
 
-Gemenci Erdő- és Vadgazdasági Zrt.
+Gyulaj Erdészeti és Vadászati Zártkörűen Működő Részvénytársaság
 
-GYULAJ Erdészeti és Vadászati Zrt.
+IPOLY ERDŐ Zártkörűen Működő Részvénytársaság
 
-Ipoly Erdő Zrt.
+Kisalföldi Erdőgazdaság Zártkörűen Működő Részvénytársaság
 
-Kisalföldi Erdőgazdasági Zrt.
+KEFAG Kiskunsági Erdészeti és Faipari Zártkörűen Működő Részvénytársaság
 
-KEFAG Kiskunsági Erdészeti és Faipari Zrt.
+EGERERDŐ Erdészeti Zártkörűen Működő Részvénytársaság
 
-EGERERDŐ Erdészeti Zrt.
+Mecsekerdő Zártkörűen Működő Részvénytársaság
 
-Mecseki Erdészeti Zrt.
+NEFAG Nagykunsági Erdészeti és Faipari Zártkörűen Működő Részvénytársaság
 
-NEFAG Nagykunsági Erdészeti és Faipari Zrt.
+NYÍRERDŐ Nyírségi Erdészeti Zártkörűen Működő Részvénytársaság
 
-NYÍRERDŐ Nyírségi Erdészeti Zrt.
+Pilisi Parkerdő Zártkörűen Működő Részvénytársaság
 
-Pilisi Parkerdő Zrt.
+SEFAG Erdészeti és Faipari Zártkörűen Működő Részvénytársaság
 
-SEFAG Erdészeti és Faipari Zrt.
+Szombathelyi Erdészeti Zártkörűen Működő Részvénytársaság
 
-Szombathelyi Erdészeti Zrt.
+TAEG Tanulmányi Erdőgazdaság Zártkörűen Működő Részvénytársaság
 
-TAEG Erdőgazdasági Zrt.
+VADEX Mezőföldi Erdő- és Vadgazdálkodási Zártkörűen Működő Részvénytársaság
 
-VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt.
+Vértesi Erdészeti és Faipari Zártkörűen Működő Részvénytársaság
 
-Vértesi Erdészeti és Faipari Zrt.
+Zalaerdő Erdészeti Zártkörűen Működő Részvénytársaság
 
-Zalaerdő Erdészeti Zrt.
+Budapesti Erdőgazdaság Zártkörűen Működő Részvénytársaság
 
-Budapesti Erdőgazdaság Zrt.
+KASZÓ Erdőgazdaság Zártkörűen Működő Részvénytársaság
 
-Kaszó Erdőgazdaság Zrt.
-
-HM VERGA Erdőgazdasági Zrt.
+VERGA Veszprémi Erdőgazdaság Zártkörűen Működő Részvénytársaság
 
 ### 2. számú melléklet a 2001. évi XX. törvényhez
 

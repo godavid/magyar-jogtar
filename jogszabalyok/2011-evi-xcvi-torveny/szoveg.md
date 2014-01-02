@@ -38,9 +38,7 @@ egyes gazdasági tárgyú törvények módosításáról
 
 23. § (1)–(2)
 
-(3) Az Szt. 177. §-a a következő (21) bekezdéssel egészül ki:
-
-„(21) E törvénynek az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvény 25. §-ának j) pontjával módosított 155. §-a (3) bekezdése a) pontját először a 2014. évben induló üzleti évről készített beszámolóra kell alkalmazni.”
+(3)
 
 24. §
 
@@ -48,9 +46,7 @@ egyes gazdasági tárgyú törvények módosításáról
 
 - a)–h)
 - i)
-- j) 155. § (3) bekezdés a) pontjában a „200 millió forintot” szövegrész helyébe „300 millió forintot” szöveg
-
-lép.
+- j)
 
 #### 7. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről,valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 

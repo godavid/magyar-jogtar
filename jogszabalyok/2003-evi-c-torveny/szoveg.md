@@ -134,7 +134,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - 25. a Kormány elé terjeszti és képviseli a Hatóság által előkészített elektronikus hírközlés-politikát és rádióspektrum-politikát;
 - 26. ellátja a hatályban lévő koncessziós szerződésekkel kapcsolatos állami képviseletet, továbbá eljár a hatályban lévő koncessziós szerződések hatósági szerződéssé alakításával kapcsolatos hatósági ügyekben;
 - 27. végzi a légi-riasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos tervezési, szervezési feladatokat;
-- 28. szervezi és ellenőrzi az elektronikus hírközlő hálózat útján közzétett adat büntető ügyben elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétele végrehajtását, és ennek érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát, valamint közreműködik a hozzáférhetetlenné tételhez szükséges technikai környezet biztosításában.
+- 28. szervezi és ellenőrzi az elektronikus hírközlő hálózat útján közzétett adat büntetőügyben elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétele végrehajtását, valamint a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel végrehajtását, és ennek érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát, valamint közreműködik a hozzáférhetetlenné tételhez szükséges technikai környezet biztosításában.
 
 (2) A Nemzeti Média- és Hírközlési Hatóság elnöke (a továbbiakban: Elnök) ellátja az (1) bekezdés 2., 4–8., valamint 22–28. pontjaiban meghatározott hatáskörökből eredő feladatokat, ellátja az egyéb, jogszabályban kifejezetten az Elnök hatáskörébe tartozó feladatokat, elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását, továbbá kijelöli a honvédelmi és a katasztrófavédelmi feladatok ellátásában részt vevő elektronikus hírközlési szolgáltatókat és meghatározza felkészülési feladataikat. A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) eljár az (1) bekezdés 1., 3., 10., valamint 12–21. pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A Nemzeti Média- és Hírközlési Hatóság főigazgatója (a továbbiakban: főigazgató) eljár az (1) bekezdés 9. és 11. pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
 
@@ -1419,15 +1419,15 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 ### Együttműködés elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
 
-92/A. § (1) Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott egyszerű adatátvitelt és hozzáférést biztosító közvetítő szolgáltatást végző elektronikus hírközlési szolgáltató (a továbbiakban: hozzáférést biztosító elektronikus hírközlési szolgáltató) a Hatóság értesítését követően köteles haladéktalanul, de legkésőbb egy munkanapon belül a büntető ügyben eljáró bíróság által az elektronikus hírközlő hálózat útján közzétett adathoz való hozzáférés megakadályozásával elrendelt ideiglenes vagy végleges hozzáférhetetlenné tételt teljesíteni.
+92/A. § (1) Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott egyszerű adatátvitelt és hozzáférést biztosító közvetítő szolgáltatást végző elektronikus hírközlési szolgáltató (a továbbiakban: hozzáférést biztosító elektronikus hírközlési szolgáltató) a Hatóság értesítését követően köteles haladéktalanul, de legkésőbb egy munkanapon belül a büntetőügyben eljáró bíróság vagy a külön törvényben meghatározott hatóság által, az elektronikus hírközlő hálózat útján közzétett adathoz való hozzáférés megakadályozásával elrendelt ideiglenes vagy végleges hozzáférhetetlenné tételt teljesíteni.
 
-(2) Ha a Hatóság azt észleli, hogy a hozzáférést biztosító elektronikus hírközlési szolgáltató nem teljesíti az (1) bekezdés szerinti kötelezettségét, annak haladéktalan teljesítésére hívja fel, ha a hozzáférést biztosító elektronikus hírközlési szolgáltató a kötelezettségének a felhívás ellenére nem tesz eleget, a Hatóság ezt jelzi a bíróságnak.
+(2) Ha a Hatóság azt észleli, hogy a hozzáférést biztosító elektronikus hírközlési szolgáltató nem teljesíti az (1) bekezdés szerinti kötelezettségét, annak haladéktalan teljesítésére hívja fel. Ha a hozzáférést biztosító elektronikus hírközlési szolgáltató a kötelezettségének a felhívás ellenére nem tesz eleget, a Hatóság ezt jelzi az elrendelő bíróságnak vagy a külön törvényben meghatározott, elrendelő hatóságnak.
 
-(3) A bíróság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot szabhat ki.
+(3) A bíróság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot szabhat ki. A külön törvényben meghatározott hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a külön törvényben meghatározott mértékű bírságot szabhat ki.
 
-(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság megnevezésével és a határozat számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
+(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles az elrendelő bíróság vagy a külön törvényben meghatározott elrendelő hatóság megnevezésével és az elrendelő határozat számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
 
-(5) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság által a szolgáltatás Magyarországon történő megkezdésének időpontja előtt elrendelt elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozását a szolgáltatás megkezdésétől a 159/C. § (1) bekezdése szerint teljesíteni.
+(5) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság vagy a külön törvényben meghatározott hatóság által a szolgáltatás Magyarországon történő megkezdésének időpontja előtt elrendelt elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozását a szolgáltatás megkezdésétől a 159/C. § (1) bekezdése szerint teljesíteni.
 
 ### Űrszegmens használat
 
@@ -2459,25 +2459,30 @@ vonatkozó adatokat.
 
 ### A Hatóság közreműködése az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
 
-159/B. § (1) A Hatóság a büntetőeljárásról szóló 1998. évi XIX. törvény 158/D. § (5) bekezdése és 596/A. § (6) bekezdése alapján szervezi és ellenőrzi a büntető ügyben a bíróság által elrendelt elektronikus adat ideiglenes és végleges hozzáférhetetlenné tétele végrehajtását.
+159/B. § (1) A Hatóság a büntetőeljárásról szóló 1998. évi XIX. törvény 158/D. § (5) bekezdése és 596/A. § (6) bekezdése alapján, illetve az egyéb törvényben meghatározottak alapján szervezi és ellenőrzi a büntetőügyben a bíróság által elrendelt elektronikus adat ideiglenes és végleges hozzáférhetetlenné tétele végrehajtását, továbbá a külön törvényben meghatározott hatóság által elrendelt elektronikus adat hozzáférhetetlenné tétele végrehajtását.
 
-(2) A bíróság elektronikus úton megküldött értesítése alapján a Hatóság a bíróság elektronikus adat ideiglenes vagy végleges hozzáférhetetlenné tételéről szóló rendelkezését kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal.
+(2) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a bíróság elektronikus adat ideiglenes vagy végleges hozzáférhetetlenné tételéről szóló rendelkezését, illetve a külön törvényben meghatározott hatóság elektronikus adat hozzáférhetetlenné tételéről szóló rendelkezését kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal.
 
-(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba csak a bíróság, az ügyész, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai tekinthetnek be.
+(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
 
-(4) A bíróság elektronikus úton megküldött értesítése alapján a Hatóság a KEHTA-ban rögzíti
+- a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyész, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
+- b) a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel esetén a külön törvényben meghatározott hatóság, a bíróság, az ügyész, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai
 
-- a) az eljáró bíróság megnevezését és a határozat számát,
+tekinthetnek be.
+
+(4) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a KEHTA-ban rögzíti
+
+- a) az eljáró bíróság, a külön törvényben meghatározott hatóság megnevezését és a határozat számát,
 - b) az elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről szóló rendelkezést,
 - c) az elektronikus adat azonosítására és elérésére vonatkozó adatokat.
 
-(5) A Hatóság a hiányosan megküldött értesítéssel kapcsolatosan az adatok pótlása érdekében a bíróságot elektronikus úton megkeresi, továbbá jelzi a bíróságnak, ha a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
+(5) A Hatóság a hiányosan megküldött értesítéssel kapcsolatosan az adatok pótlása érdekében a bíróságot, illetve a külön törvényben meghatározott hatóságot elektronikus úton megkeresi, továbbá jelzi a bíróságnak, illetve a külön törvényben meghatározott hatóságnak, ha a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
 
-159/C. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók kötelesek a KEHTA-hoz csatlakozni abból a célból, hogy a bíróság elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről rendelkező határozatainak eleget tegyenek, illetve a végrehajtást a hozzáférhetetlenné tett adatra irányuló keresés eredményeként találat vagy a tárolt változat elérhetőségének nem biztosításával elősegítsék.
+159/C. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók kötelesek a KEHTA-hoz csatlakozni abból a célból, hogy a bíróság, illetve a külön törvényben meghatározott hatóság elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről rendelkező határozatainak eleget tegyenek, illetve a végrehajtást a hozzáférhetetlenné tett adatra irányuló keresés eredményeként talált vagy a tárolt változat elérhetőségének nem biztosításával elősegítsék.
 
 (2) Mentesül a KEHTA-hoz való csatlakozási kötelezettség alól az a nyilvános internethozzáférés-szolgáltatást nyújtó szolgáltató, amely kizárólag olyan más elektronikus hírközlési szolgáltatón keresztül csatlakozik a Budapesti Adatkicserélő Központhoz (BIX) és a nemzetközi adatkicserélő központokhoz, amely szolgáltató már csatlakozott a KEHTA-hoz.
 
-(3) A KEHTA és a hozzáférést biztosító elektronikus hírközlési szolgáltatók, illetve a kereső- és gyorsítótár-szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. A bíróság és a Hatóság közötti elektronikus kapcsolattartás biztonságos kézbesítési szolgáltatás útján történik.
+(3) A KEHTA és a hozzáférést biztosító elektronikus hírközlési szolgáltatók, illetve a kereső- és gyorsítótár-szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. A bíróság, illetve a külön törvényben meghatározott hatóság és a Hatóság közötti elektronikus kapcsolattartás biztonságos kézbesítési szolgáltatás útján történik.
 
 (4) A Hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató kérésére – a rendelkezésére álló technikai lehetőségekhez képest – közreműködik a határozatok végrehajtásához szükséges technikai környezet biztosításában.
 

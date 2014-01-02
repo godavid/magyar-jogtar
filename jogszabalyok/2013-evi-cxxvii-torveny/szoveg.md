@@ -28,21 +28,7 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 
 15. §
 
-16. § (1) Az Eüak. 23. § (1) bekezdése a következő h) ponttal egészül ki:
-
-[A következő szervek írásbeli megkeresésére a kezelést végző orvos az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat. A megkereső szervek a következők lehetnek:]
-
-„h) halottvizsgálat során a halottvizsgálatot végző orvos.”
-
-(2) Az Eüak. 23. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha az egészségügyi adatokra a halottvizsgálat során soron kívül van szükség,
-
-a) büntetőügyben a nyomozó hatóság, valamint az ügyészség halaszthatatlan nyomozási cselekmény keretében,
-
-b) a rendkívüli halállal kapcsolatos hatósági eljárás során a bűncselekményre utaló adat kizárása érdekében az eljáró hatóság
-
-az (1) bekezdés szerinti megkeresést rövid úton is előterjesztheti, a kezelőorvos a megkeresést soron kívül teljesíti.”
+16. §
 
 17. § (1)
 
@@ -137,179 +123,36 @@ lép.
 
 58–59. §
 
-60. § (1) Az Eütv. 101/B. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-[Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § tekintetében a továbbiakban: hatóság) bírságot szabhat ki, ha az egészségügyért felelős miniszter rendelete szerinti kötelezett megszegi]
-
-„g) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással,”
-
-(kapcsolatos, az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.)
+60. § (1)
 
 (2)
 
-(3) Az Eütv. 101/B. §-a a következő (3) bekezdéssel egészül ki:
+(3)
 
-„(3) Az (1) bekezdés g) pontjában foglalt kötelezettség elmulasztása esetén a bírság összegét minden egyes olyan implantátum után meg kell állapítani, amely tekintetében a 101/C. § szerinti nyilvántartásba vétel nem vagy nem az ott meghatározott módon valósult meg.”
-
-61. § Az Eütv. „Orvostechnikai eszközellátás” alcíme a következő 101/C. §-sal egészül ki:
-
-„101/C. § (1) Implantátum beültetéséről, kivételéről és cseréjéről a beavatkozással érintett személy további gyógykezelése, egészségi állapotának nyomon követése, váratlan esemény gyors elhárítása, valamint a beültethető orvostechnikai eszközök megfelelőségének ellenőrzése érdekében az egészségügyi szolgáltató nyilvántartást vezet, amely tartalmazza a következő adatokat:
-
-a) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott személyazonosító adatok közül a beavatkozással érintett személy családi és utónevét, születési nevét, születési dátumát, anyja születési nevét, lakóhelyét vagy tartózkodási helyét, egyéb elérhetőségét,
-
-b) a beültetés, eltávolítás vagy csere időpontját,
-
-c) a beültetés, eltávolítás vagy csere okát,
-
-d) a beültetett vagy eltávolított implantátummal kapcsolatban
-
-da) az implantátum nevét, típusát, gyártási tételszámát – ha rendelkezésre áll – a sorozatszám megjelölésével,
-
-db) a gyártó nevét,
-
-dc) a forgalmazó nevét, székhelyét, akitől az implantátumot az egészségügyi szolgáltató beszerezte,
-
-e) a beültetést végző orvos nevét, pecsétszámát,
-
-f) a beültetést végző egészségügyi szolgáltató nevét, működési engedélye számát.
-
-(2) Az (1) bekezdés szerinti nyilvántartást az egészségügyi szolgáltató az egészségbiztosítási szerv által működtetett informatikai felület alkalmazásával vezeti. A nyilvántartásba az (1) bekezdés szerinti adatokat legkésőbb a beavatkozással érintett személy egészségügyi szolgáltatótól történő elbocsátásának időpontjáig vagy az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben foglalt finanszírozási jelentéstétel napján kell felvinni.
-
-(3) Az egészségügyi szolgáltató az (1) bekezdés szerinti adatokat az egészségbiztosítási szerv által működtetett informatikai felület alkalmazásával, a (2) bekezdés szerinti adatfelvitellel egyidejűleg, elektronikusan továbbítja – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározottak szerint működtetett – Központi Implantátumregiszter részére.”
+61. §
 
 62–70. §
 
-71. § (1) Az Eütv. 216. §-a a következő e) és f) pontokkal egészül ki:
-
-(E fejezet alkalmazásában)
-
-„e) korai vagy középidős magzati halál: a 24 hétig vagy annál rövidebb ideig az anya méhében lévő magzat, ha az anya testétől történt elválasztás után az élet semmilyen jelét nem adja; vagy ha a magzat kora nem állapítható meg, és a magzat testtömege az 500 grammot vagy a testhossza a 30 cm-t nem éri el, ide nem értve azon ikerszülés esetét, ahol legalább az egyik magzat élve született;
-
-f) baleset: baleset az emberi szervezetet ért olyan külső hatás, amely a sérült akaratától függetlenül következik be és halált okoz.”
-
-(2) Az Eütv. 217. §-a helyébe a következő rendelkezés lép:
-
-„217. § (1) A halál bekövetkezését halottvizsgálattal kell megállapítani. A halottvizsgálat minden olyan körülményre kiterjed, amely a halál
-
-a) bekövetkezése tényének,
-
-b) bekövetkezése módjának (természetes módon bekövetkezett vagy nem természetes halál),
-
-c) okának
-
-megítéléséhez szükséges.
-
-(2) Halálozás esetén – az (5) bekezdésben foglalt kivétellel – a Kormány rendeletében meghatározott tartalmú halottvizsgálati bizonyítványt kell kiállítani.
-
-(3) Az (1) bekezdés a) pontjában foglaltak megállapítására a mentőtiszt vagy a külön jogszabály szerinti orvos jogosult. Az (1) bekezdés b) és c) pontjában foglaltak megállapítására kizárólag kormányrendeletben meghatározott orvos jogosult.
-
-(4) A halottat, perinatális halál esetén a magzatot, valamint az újszülöttet csak a halál bekövetkezését megállapító orvosi halottvizsgálat után lehet kórbonctani vizsgálat, eltemetés, elhamvasztás vagy szerv-, szövetkivétel céljából a halál bekövetkezésének helyéről elszállítani.
-
-(5) Korai vagy középidős magzati halál esetén halottvizsgálatnak nincs helye, ilyen halálozásról halottvizsgálati bizonyítványt kitölteni nem kell.
-
-(6) Rendkívüli halál esetében szemle során a hatóság halottvizsgálati szaktanácsadót vehet igénybe, ha a bizonyítási eszközök felkutatásához, megszerzéséhez, összegyűjtéséhez vagy rögzítéséhez különleges szakismeret szükséges, vagy a hatóság valamilyen – szakértőt nem igénylő – szakkérdésben felvilágosítást kér.
-
-(7) A halottvizsgálati szaktanácsadókról az egészségügyi államigazgatási szerv névjegyzéket vezet. A névjegyzék a halottvizsgálati szaktanácsadói jogosultság tekintetében közhiteles hatósági nyilvántartás. A névjegyzékbe nem kell felvenni azt, aki a Kormány rendelete alapján a névjegyzékbevétel nélkül is jogosult halottvizsgálati szaktanácsadói tevékenységet folytatni.
-
-(8) A névjegyzék tartalmazza a halottvizsgálati szaktanácsadó:
-
-a) természetes személyazonosító adatait,
-
-b) működési nyilvántartási számát,
-
-c) lakóhelyét, elérhetőségi címét,
-
-d) egészségügyi szakképesítése megnevezését,
-
-e) munkahelyét, munkahelyének címét, a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenység végzésének helyét,
-
-f) szaktanácsadói névjegyzékbe történő felvételének időpontját.
-
-(9) A halottvizsgálati szaktanácsadó az adatváltozást követő 15 napon belül köteles bejelenteni a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
-
-(10) A névjegyzéket vezető egészségügyi államigazgatási szerv a halottvizsgálati szaktanácsadói névjegyzékben szereplő és az abból törölt szaktanácsadó nyilvántartott adatait a halottvizsgálati eljárások zavartalan lefolytatása, valamint a jogosultság ellenőrzése érdekében kezeli. A névjegyzékből történő törlés időpontjától számított öt év elteltével a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv gondoskodik a halottvizsgálati szaktanácsadó adatainak törléséről.
-
-(11) A halottvizsgálati szaktanácsadói névjegyzékbe a névjegyzéket vezető egészségügyi államigazgatási szerv azt veszi fel, aki
-
-a) büntetlen előéletű,
-
-b) nem áll egészségügyi tevékenységet kizáró foglalkozástól eltiltás alatt,
-
-c) nem áll büntetőeljárás hatálya alatt, a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást kivéve,
-
-d) megfelel a halottvizsgálati szaktanácsadókról, valamint a halottvizsgálati szaktanácsadói névjegyzékről szóló miniszteri rendeletben meghatározott egyéb feltételeknek.
-
-(12) A (11) bekezdés a)–c) pontjaiban szereplő adatokat a névjegyzékbe felvételét kérő a 31/A. § szerint igazolja.”
-
-(3) Az Eütv. 218. §-a helyébe a következő rendelkezés lép:
-
-„218. § (1) Nem természetes a halál, ha a természetes módon való bekövetkezését a körülmények kétségessé teszik, így
-
-a) a halál tekintetében bűncselekményre utaló adat merül fel, vagy
-
-b) rendkívüli halálnak minősül, azaz
-
-ba) a halált baleset okozta, vagy a körülmények arra utalnak,
-
-bb) a halált öngyilkosság okozta, vagy a körülmények arra utalnak,
-
-bc) a halál bekövetkezésének előzményei, körülményei ismeretlenek és nem állnak rendelkezésre olyan adatok, amelyekből megalapozottan következtetni lehet a halál természetes okból történő bekövetkeztére,
-
-bd) fogvatartott elhalálozása esetén.
-
-(2) A személyazonosság megállapításáig a rendkívüli halál esetén követendő eljárást kell alkalmazni, ha az elhunyt személyazonossága ismeretlen.
-
-(3) Ha a halál oka és körülményei vizsgálatánál bűncselekmény elkövetésének gyanúja merül fel, a büntetőeljárás szabályai szerint igazságügyi orvosi boncolást kell elrendelni.
-
-(4) Rendkívüli halál esetén rendkívüli halállal kapcsolatos hatósági eljárást kell lefolytatni, kormányrendeletben meghatározottak szerint hatósági boncolást kell elrendelni.
-
-(5) A hatósági vagy igazságügyi orvosi boncolás célja a halál okának, bekövetkezése körülményeinek tisztázása.
-
-(6) Ha a rendkívüli halállal kapcsolatos hatósági eljárást a hatóság azért szünteti meg, mert bűncselekményre utaló adatok merültek fel, a hatóság ezen döntése ellen nincs helye jogorvoslatnak.”
+71. §
 
 72–76. §
 
-77. § (1) Az Eütv. 247. § (1) bekezdés q) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat,”
-
-(rendeletben megállapítsa.)
+77. § (1)
 
 (2)
 
-(3) Az Eütv. 247. § (3) bekezdése a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
-
-ha) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
-
-hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
-
-hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
-
-hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat”
-
-(rendeletben állapítsa meg.)
+(3)
 
 (4)
 
 78. § Az Eütv.
 
 - a)
-- b) 101/B. § (1) bekezdésében
-  - ba) a „ha az egészségügyért felelős miniszter rendelete” szövegrész helyébe a „ha e törvény vagy az egészségügyért felelős miniszter rendelete”,
-  - bb) az „az egészségügyért felelős miniszter rendeletében” szövegrész helyébe az „e törvényben vagy az egészségügyért felelős miniszter rendeletében”
-
-szöveg,
-
+- b)
 - c)–e)
-- f) 243. § (5) bekezdés b) pontjában a „rendkívüli” szövegrész helyébe a „nem természetes” szöveg,
+- f)
 - g)
-- h) 247. § (1) bekezdés s) pontjában a „szállításának” szövegrész helyébe a „szállításának (beleértve a szállítójármű telephelyről ki- és visszaállását, a holttest szállítójárműbe történő behelyezését és kivételét, valamint szállítás alatti hűtését is)” szöveg
+- h)
 
 lép.
 
@@ -323,11 +166,7 @@ lép.
 
 82. §
 
-83. § Az Öotv. a következő 2/D. §-sal egészül ki:
-
-„2/D. § (1) A 2/C. § a) pontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása, a praxisjogot engedélyező határozatot kiadó hatóság megnevezése, az engedély száma és kelte tekintetében közhiteles hatósági nyilvántartásnak minősül.
-
-(2) A 2/C. § a) pontja szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.”
+83. §
 
 84–85. §
 
@@ -373,9 +212,7 @@ lép.
 
 134. § (1)
 
-(2) A Gyftv. 74. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A közforgalmú gyógyszertárat működtető gazdasági társaság működése során a gyógyszerészi tulajdoni hányad tekintetében biztosítani kell a tagsági jogoknak a tulajdoni hányadnak megfelelő – a társasági szerződésben rendezett – gyakorlását. Az ezzel ellentétes megállapodás semmis.”
+(2)
 
 135–138. §
 
@@ -393,23 +230,7 @@ lép.
 
 #### 15. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosítása
 
-157. § (1) A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény (a továbbiakban: Ttv.) 3. §-a a következő j) ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„j) korai vagy középidős magzati halál: az egészségügyről szóló 1997. évi CLIV. törvény 216. § e) pontjában meghatározott haláleset.”
-
-(2) A Ttv. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a halál körülményeinek vizsgálatára hatósági vagy büntetőeljárás indult, az elhunyt eltemetéséhez, elhamvasztásához az eljáró hatóság engedélye is szükséges.”
-
-(3) A Ttv. 24. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Korai vagy középidős magzati halálozás esetén az elhalt magzat halottvizsgálati bizonyítvány nélkül, a szülő írásbeli nyilatkozata alapján temethető vagy hamvasztható el. A nyilatkozat alapján a maradványokat ki kell adni, a szülő azok eltemettetésére köteles.
-
-(5) Ha az elhunyt fogvatartott volt, a (2) bekezdés szerinti engedélyt az eljáró hatóság az ügyészség hozzájárulása alapján adja meg.”
-
-(4) Hatályát veszti a Ttv. 9. § (1) bekezdés d) pontja.
+157. §
 
 #### 16. Az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló 2009. évi XCI. törvény módosítása
 

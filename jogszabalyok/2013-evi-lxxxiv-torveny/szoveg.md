@@ -190,9 +190,7 @@ A közigazgatási hatósági eljárások racionalizálása és fejlesztése, a h
 
 #### 45. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
-45. § A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 36. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdésben meghatározott nyilvántartás az 5. számú melléklet 1. pontjában az e törvény alapján engedélyezett vagy bejelentett biztosításközvetítési vagy szaktanácsadói tevékenységet végző természetes vagy jogi személy vonatkozásában a nyilvántartási szám és annak kelte, valamint a függő vagy független biztosításközvetítői tevékenység vagy a szaktanácsadói tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.”
+45. §
 
 #### 46. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
@@ -336,13 +334,7 @@ A közigazgatási hatósági eljárások racionalizálása és fejlesztése, a h
 
 #### 80. A Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény módosítása
 
-80. § A Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 1. melléklete a következő f) ponttal egészül ki:
-
-(A Felügyelet és)
-
-„f) a biztosító, illetve a független biztosításközvetítő között a biztosító, illetve a független biztosításközvetítő által közvetlenül vagy gazdálkodó szervezeten keresztül foglalkoztatott személyek biztosításközvetítőként történő felügyeleti nyilvántartásba vételével, adatváltozásával és törlésével kapcsolatos bejelentésre”
-
-(vonatkozó eljárásban kizárólag elektronikus úton történhet a kapcsolattartás.)
+80. §
 
 #### 81. A világörökségről szóló 2011. évi LXXVII. törvény módosítása
 

@@ -836,7 +836,7 @@ bírálja el.
 - d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője útján,
 - e) nemzetközi jogsegély keretében,
 - f) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
-- g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) elektronikus kézbesítési rendszerén keresztül.
+- g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén az NMHH elektronikus kézbesítési rendszerén keresztül.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
 
@@ -6643,7 +6643,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 - p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
 - q) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg,
 - r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
-- s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
+- s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására és ellenőrzésére vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
 
 rendeletben szabályozza.
 
