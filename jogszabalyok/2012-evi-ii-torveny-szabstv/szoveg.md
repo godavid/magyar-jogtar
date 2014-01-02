@@ -3267,7 +3267,7 @@ részletes szabályait rendeletben szabályozza.
 
 (7) Az egyes rendészeti tárgyú törvények módosításáról szóló 2013. évi XCIII. törvény (a továbbiakban: 2013. évi XCIII. törvény) 43. §-ával megállapított, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 133/A. § és 133/B. § rendelkezéseit a 2013. évi XCIII. törvény hatálybalépése előtt végrehajtott ügyekben is alkalmazni kell.
 
-#### 207. Módosító rendelkezések
+#### 207.
 
 #### 207. Az Európai Unió Jogának való megfelelés
 
