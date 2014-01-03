@@ -6,13 +6,13 @@ egyes törvények Alaptörvénnyel összefüggő módosításáról
 
 1–44. §
 
-#### 31. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
+#### 31.
 
 45. § (1)–(3)
 
 (4)
 
-(5)–(7)
+(5)–(6)
 
 46. §
 
