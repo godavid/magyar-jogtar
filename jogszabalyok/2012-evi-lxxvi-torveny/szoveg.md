@@ -22,7 +22,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (3)
 
-(4)
+(4) Hatályát veszti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény.
 
 (5)
 
@@ -40,7 +40,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 6. §
 
-7. § (1)
+7. § (1) Hatályát veszti az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvény.
 
 (2)
 
@@ -89,7 +89,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (2)
 
-(3)
+(3) Hatályát veszti az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvény.
 
 (4)
 
@@ -265,19 +265,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 58. §
 
-59. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 171/A. §-a helyébe a következő rendelkezés lép:
-
-„171/A. § (1) Ahol jogszabály az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt említi, ott a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt, ahol államigazgatási eljárást említ, ott közigazgatási hatósági eljárást, ahol államigazgatási határozatot, azon közigazgatási hatósági döntést kell érteni.
-
-(2) Ahol jogszabály
-
-a) központi elektronikus szolgáltató rendszert említ, ott a Kormány által kötelezően nyújtott szabályozott elektronikus ügyintézési szolgáltatások együttesét vagy az adott szövegkörnyezetben hivatkozott szolgáltatást,
-
-b) ügyfélkaput vagy hivatali kaput említ, ott a Kormány által kötelezően nyújtott azonosítási és biztonságos kézbesítési szabályozott elektronikus ügyintézési szolgáltatást, továbbá
-
-c) ügyfél tárhelyét, vagy bármely megfogalmazásban tárhelyére történő információelhelyezést említ, ott a Kormány által kötelezően nyújtott biztonságos kézbesítési szabályozott elektronikus ügyintézési szolgáltatással történő kézbesítést
-
-kell érteni.”
+59. §
 
 60. §
 
@@ -365,7 +353,7 @@ kell érteni.”
 
 85. § (1)
 
-(2)
+(2) Hatályát veszti az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény 31. alcíme, 352. §-a és 353. §-a.
 
 #### 63. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény módosítása
 
