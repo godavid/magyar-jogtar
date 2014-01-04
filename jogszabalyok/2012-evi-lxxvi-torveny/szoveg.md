@@ -22,7 +22,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (3)
 
-(4) Hatályát veszti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény.
+(4)
 
 (5)
 
@@ -40,7 +40,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 6. §
 
-7. § (1) Hatályát veszti az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvény.
+7. § (1)
 
 (2)
 
@@ -89,7 +89,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (2)
 
-(3) Hatályát veszti az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvény.
+(3)
 
 (4)
 
@@ -353,7 +353,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 85. § (1)
 
-(2) Hatályát veszti az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény 31. alcíme, 352. §-a és 353. §-a.
+(2)
 
 #### 63. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény módosítása
 
