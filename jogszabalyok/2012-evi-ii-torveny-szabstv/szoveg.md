@@ -357,7 +357,7 @@ A b) és c) pont esetén a pénzbírság és a helyszíni bírság legmagasabb �
 
 (2) Az e törvény által a hatáskörébe utalt szabálysértés miatt a szabálysértési hatóság jogkörében a rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv, illetve a Nemzeti Adó- és Vámhivatal vámszerve jár el.
 
-(3) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon a járásbíróság jár el.
+(3) Szabálysértési elzárással is büntethető, valamint e törvényben meghatározott szabálysértés miatt első fokon a járásbíróság jár el.
 
 #### 28. Helyszíni bírság kiszabására jogosultak
 
@@ -403,7 +403,7 @@ jelöli ki.
 
 #### 30. A bíróság hatásköre és illetékessége
 
-41. § (1) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon az elkövetés helye szerint illetékes járásbíróság jár el.
+41. § (1) Szabálysértési elzárással is büntethető, valamint e törvényben meghatározott szabálysértés miatt első fokon az elkövetés helye szerint illetékes járásbíróság jár el.
 
 (2) Ha a szabálysértési eljárás gyorsabb és eredményesebb lefolytatása indokolja, az eljárás alá vont személy lakóhelye, tartózkodási helye, munkahelye, továbbá a szabálysértés felderítésének helye szerint illetékes bíróság is eljárhat.
 
@@ -417,7 +417,7 @@ jelöli ki.
 
 (4) E törvény alkalmazásában járásbíróság alatt a kerületi bíróságot is érteni kell.
 
-(5) E törvény alkalmazásában a járásbíróság hatáskörébe tartozó ügyekben bírósági titkár is eljárhat.
+(5) E törvény alkalmazásában a járásbíróság hatáskörébe tartozó ügyekben – a 216/A. § (1) bekezdésben meghatározott szabálysértés kivételével – a bírósági titkár is eljárhat.
 
 (6) Ha vitás, hogy több bíróság közül melyik köteles eljárni, az eljáró bíróságot a törvényszék másodfokú tanácsa határozatban jelöli ki. Ha az illetékességi összeütközés különböző törvényszékek területén lévő bíróságok között merül fel, akkor a magasabb szintű bíróság jár el. E határozat ellen nincs helye jogorvoslatnak.
 
@@ -443,8 +443,8 @@ jelöli ki.
 
 (3) A (2) bekezdés szerint eljárva
 
-- a) a járási hivatal az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a rendőrség hatáskörébe tartozó közlekedési szabálysértést és a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó szabálysértéseket;
-- b) a rendőrség a közúti közlekedési szabálysértés miatt előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a pénzügyi és kereskedelmi szabálysértéseket;
+- a) a járási hivatal az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a rendőrség hatáskörébe tartozó közlekedési szabálysértést és a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó szabálysértéseket;
+- b) a rendőrség a közúti közlekedési szabálysértés miatt előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a pénzügyi és kereskedelmi szabálysértéseket;
 - c) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is.
 
 (4) Ha a szabálysértési eljárásban több eljárás alá vont személy van, velük szemben rendszerint egy eljárást kell folytatni.
@@ -845,7 +845,7 @@ jelöli ki.
 
 78. § (1) A szabálysértési eljárás feljelentés, vagy a szabálysértési hatóság vagy a bíróság hivatali hatáskörében szerzett tudomása, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy általi észlelés alapján indul meg.
 
-(2) A feljelentést szóban vagy írásban bármely személy vagy szerv megteheti. A szóban tett feljelentést jegyzőkönyvbe kell foglalni, vagy arról feljegyzést kell készíteni.
+(2) A feljelentést – e törvény eltérő rendelkezése hiányában – szóban vagy írásban bármely személy vagy szerv megteheti. A szóban tett feljelentést jegyzőkönyvbe kell foglalni, vagy arról feljegyzést kell készíteni.
 
 (3) A feljelentésnek tartalmaznia kell a feljelentett cselekmény helyének és idejének, továbbá az elkövetés körülményeinek a leírását, a bizonyítási eszközök megjelölését, továbbá, az eljárás alá vont személy ismert személyi adatait. Ha lehetőség van rá, a bizonyítási eszközöket csatolni kell a feljelentéshez.
 
@@ -874,7 +874,7 @@ jelöli ki.
 
 #### 66. Ügyintézési határidő
 
-81. § (1) Ha a feljelentés, illetve az előkészítő eljárás adatai alapján nem került sor a feljelentés elutasítására, a szabálysértési eljárást meg kell indítani. A szabálysértési eljárás kezdőnapja a feljelentésnek a hatáskörrel és illetékességgel rendelkező szabálysértési hatósághoz érkezését követő nap, illetve az előkészítő eljárás befejezését követő nap. A szabálysértési hatóság részéről eljáró személy észlelése vagy tudomása alapján induló eljárás kezdő napja megegyezik az észlelés vagy tudomásra jutás napjával.
+81. § (1) Ha a feljelentés, illetve az előkészítő eljárás adatai alapján nem került sor a feljelentés elutasítására, a szabálysértési eljárást meg kell indítani. A szabálysértési eljárás kezdőnapja a feljelentésnek a hatáskörrel és illetékességgel rendelkező szabálysértési hatósághoz, vagy a 123/A. § szerinti eljárás esetén a hatáskörrel és illetékességgel rendelkező bírósághoz érkezését követő nap, illetve az előkészítő eljárás befejezését követő nap. A szabálysértési hatóság részéről eljáró személy észlelése vagy tudomása alapján induló eljárás kezdő napja megegyezik az észlelés vagy tudomásra jutás napjával.
 
 (2) A szabálysértési eljárást a (3) bekezdésben meghatározott kivétellel a megindulásától számított harminc napon belül be kell fejezni.
 
@@ -1500,7 +1500,7 @@ téríti meg.
 
 (4)
 
-### XVII. Fejezet — A SZABÁLYSÉRTÉSI ELZÁRÁSSAL IS BÜNTETHETŐ SZABÁLYSÉRTÉSEKRE VONATKOZÓ SZABÁLYOK
+### XVII. Fejezet — A SZABÁLYSÉRTÉSI ELZÁRÁSSAL IS BÜNTETHETŐ, VALAMINT A BÍRÓSÁG ELSŐFOKÚ HATÁSKÖRÉBE TARTOZÓ SZABÁLYSÉRTÉSEKRE VONATKOZÓ SZABÁLYOK
 
 #### 94. Előkészítő eljárás
 
@@ -1581,6 +1581,12 @@ téríti meg.
 (1a) A törvényszék végzésével szemben nincs helye jogorvoslatnak.
 
 (2) A törvényszék határozatának kiadmányait kézbesíti és az ügy iratait határozatának kiadmányaival, valamint a határozat kézbesítésének napjáról adott tájékoztatással együtt visszaküldi a járásbíróságnak.
+
+#### 95/A. Eljárás a 216/A. § (1) bekezdésében meghatározott szabálysértés elkövetése esetén
+
+123/A. § (1) A bíróságnak a 216/A. § (1) bekezdésében meghatározott szabálysértés elkövetése miatt indult eljárására a 120–123. §-ban szabályozott rendelkezéseket kell alkalmazni azzal, hogy az ügyben előkészítő eljárásnak nincs helye és a bíróság tárgyalás tartására köteles.
+
+(2) A bíróság a feljelentés beérkezését követő három napon belül megvizsgálja a feljelentést. Ha a feljelentés áttételének vagy elutasításának nincs helye, a bíróság – az eljárás alá vont személy és szükség esetén a tanúk idézésével egyidejűleg – tizenöt napon belüli időpontra tárgyalást tűz ki.
 
 #### 96. A bíróság elé állítás
 
@@ -2884,6 +2890,22 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 216. § (1) Aki a rendvédelmi szerv vagy a vámszerv hivatásos állományú tagja jogszerű intézkedésének nem engedelmeskedik, szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+
+#### 170/A. Az Országgyűlési nemzetbiztonsággal foglalkozó állandó bizottsága ténymegállapító vizsgálati tevékenységének akadályozása
+
+216/A. § (1) Aki a nemzetbiztonsági szolgálatokról szóló törvény szerinti ténymegállapító vizsgálat során
+
+- a) adatszolgáltatási kötelezettségének,
+- b) megjelenési kötelezettségének, illetve
+- c) nyilatkozattételi kötelezettségének
+
+önhibájából nem tesz eleget, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
+
+(3) A feljelentés megtételére kizárólag a ténymegállapító vizsgálat időtartama alatt, továbbá a ténymegállapító vizsgálat befejezését követő nyolc napon belül a ténymegállapító vizsgálatot folytató bizottság elnöke vagy tagja jogosult.
+
+(4) Az (1) bekezdésben meghatározott szabálysértés elkövetésén tetten ért személlyel szemben helyszíni bírság kiszabásának nincs helye.
 
 ### XXVII. Fejezet — A KIEMELT KÖZLEKEDÉSI SZABÁLYSÉRTÉSEK
 
