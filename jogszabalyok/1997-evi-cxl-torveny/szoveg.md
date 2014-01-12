@@ -143,7 +143,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - d) közművelődési rendezvényeket és egyéb programokat rendez,
 - e) együttműködik a nevelési-oktatási intézményekkel és múzeumpedagógiai programjaival segíti az iskolai és az iskolán kívüli nevelés céljainak elérését,
 - f) elvégzi a kulturális javak múzeumpedagógiai célú feldolgozását, folyamatosan megújuló múzeumpedagógiai és múzeumandragógiai programkínálatot biztosít,
-- g) az intézmény turisztikai vonzerejének felhasználásával, a látogatóknak nyújtandó szolgáltatásokkal helyi és országos szinten elősegíti a gazdaság élénkítését.
+- g) turisztikai vonzerejének felhasználásával, a látogatóknak nyújtandó szolgáltatásokkal helyi és országos szinten elősegíti a gazdaság élénkítését.
 
 (5) A muzeális intézmény a kulturális javakhoz való hozzáférés feltételeit a működési engedélyében meghatározott szakmai besorolásnak megfelelő követelményszint szerint biztosítja.
 
@@ -245,7 +245,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (3) A múzeum kifejezés csak a múzeum besorolású muzeális intézmény működési engedélyén feltüntetett elnevezésben szerepelhet.
 
-(4) Az állam és a települési önkormányzat fenntartásában működő múzeum:
+(4) A múzeum:
 
 - a) szabad kapacitásai terhére kiállítások megrendezésével, kulturális javak kölcsönzésével, valamint tudományos, állományvédelmi és közönségkapcsolati tevékenységgel kapcsolatos szolgáltatást nyújthat,
 - b) a fenntartó által jóváhagyott múzeumi küldetésnyilatkozattal rendelkezik, amely alapján szakmai tevékenységét folytatja,
@@ -375,8 +375,9 @@ közigazgatási területére terjed ki.
 - a) szabályozza:
   - aa) a muzeális intézmények működésének szakmai szabályait,
   - ab) a szakfelügyelet rendjét,
-  - ac) a muzeális intézményi alkalmazottak képesítési feltételeit,
+  - ac) a muzeális intézményekben alkalmazottak képesítési feltételeit,
   - ad) a muzeális intézmények éves munkatervéhez szükséges kiemelt szakmai mutatókat,
+  - ae) a muzeális intézmények nyilvántartásában szereplő kulturális javak revíziójával és selejtezésével összefüggő kérdéseket,
 - b) gondoskodik:
   - ba) a muzeális intézményekben folyó szakmai munka országos, megyei, települési, fővárosi szintű szakmai ellenőrzéséről, értékeléséről,
   - bb) az intézményvezetők számára előírt továbbképzés szakmai feltételeinek megteremtéséről,
@@ -423,13 +424,14 @@ közigazgatási területére terjed ki.
 - d) rendszeresen, a felhasználók többsége számára megfelelő időpontban tart nyitva,
 - e) helyben nyújtott alapszolgáltatásai ingyenesek,
 - f) statisztikai adatokat szolgáltat,
-- g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat.
+- g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat,
+- h) elnevezésében megjelenik a könyvtár kifejezés.
 
-(2) A nyilvános könyvtárakról a muzeális intézményeket nyilvántartó hatóság jegyzéket vezet.
+(2) A nyilvános könyvtárakról a miniszter jegyzéket vezet.
 
-(3) A fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata és kérelme nélkül bekerülnek a nyilvános könyvtárak jegyzékébe: a nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtárak, a megyei könyvtárak, a 3. számú melléklet szerinti országos szakkönyvtárak, illetőleg az állami egyetemek könyvtárai.
+(3) A nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtár, a megyei könyvtár, a 3. számú melléklet szerinti országos szakkönyvtár, továbbá az állami egyetem könyvtára nyilvános könyvtár, amely a fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata, valamint a nyilvános könyvtárak jegyzékének vezetéséről szóló kormányrendeletben meghatározott adatok benyújtásával kerül be a nyilvános könyvtárak jegyzékébe.
 
-(4) A fenntartó az (1) bekezdésben foglaltak teljesítésével és az erről szóló nyilatkozat csatolásával kérheti a minisztertől könyvtárai felvételét a nyilvános könyvtárak jegyzékébe.
+(4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
 
 (5) Az (1) bekezdésben felsorolt követelmények betartását a miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását, aminek elmaradása esetén a könyvtárat törli a nyilvános könyvtárak jegyzékéből.
 
@@ -450,7 +452,8 @@ közigazgatási területére terjed ki.
 - g) a könyvtárhasználókat segíti a digitális írástudás, az információs műveltség elsajátításában, az egész életen át tartó tanulás folyamatában,
 - h) segíti az oktatásban, képzésben részt vevők információellátását, a tudományos kutatás és az adatbázisokból történő információkérés lehetőségét,
 - i) kulturális, közösségi, közművelődési rendezvényeket és egyéb programokat szervez,
-- j) tudás-, információ- és kultúraközvetítő tevékenységével hozzájárul az életminőség javításához, az ország versenyképességének növeléséhez.
+- j) tudás-, információ- és kultúraközvetítő tevékenységével hozzájárul az életminőség javításához, az ország versenyképességének növeléséhez,
+- k) a szolgáltatásait a könyvtári minőségirányítás szempontjait figyelembe véve szervezi.
 
 (2) A fenntartó kiegészítő feladatokat is meghatározhat.
 
@@ -666,7 +669,7 @@ közigazgatási területére terjed ki.
 
 (4) Az érdekeltségnövelő támogatásra a nyilvános könyvtárak jegyzékében szereplő könyvtárak fenntartói adhatják be pályázataikat.
 
-71. § (1) A kultúráért felelős miniszter által vezetett minisztérium fejezetéből kell támogatni a nyilvános könyvtári ellátási rendszer működtetésének alábbi feladatait:
+71. § (1) A miniszter által vezetett minisztérium fejezetéből kell támogatni a nyilvános könyvtári ellátási rendszer működtetésének alábbi feladatait:
 
 - a) a 60. §-ban felsorolt szolgáltatásokban való részvétel,
 - b) a könyvtári dokumentumok vásárlása,
@@ -681,7 +684,7 @@ közigazgatási területére terjed ki.
 
 (3) A fejezeti kezelésű címen elkülönített összeg felhasználásának részletes szabályait a miniszter rendeletben állapítja meg.
 
-72. § A kultúráért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell gondoskodni az országos dokumentumellátási rendszer létrehozásának és fenntartásának feltételeiről.
+72. § A miniszter által vezetett minisztérium költségvetési fejezetében kell gondoskodni az országos dokumentumellátási rendszer létrehozásának és fenntartásának feltételeiről.
 
 ## IV. RÉSZ — A KÖZMŰVELŐDÉSRŐL
 
@@ -857,7 +860,7 @@ közigazgatási területére terjed ki.
 
 (3)
 
-(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, múzeumaik és közművelődési intézményeik működéséhez az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
+(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, muzeális és közművelődési intézményeik működéséhez az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
 
 ## VI. RÉSZ — A muzeális intézményekben, a nyilvános könyvtárakban,a közművelődési intézményekben és a levéltárakban alkalmazottak foglalkoztatásának egyes kérdései
 
@@ -923,9 +926,26 @@ vehető figyelembe.
 
 (6)–(8)
 
-(9) Az országos és a megyei hatókörű muzeális intézmény, valamint országos vagy megyei könyvtár közgyűjtemény az éves munkatervét gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos szakmai mutatók alapján készíti el.
+(9) A múzeum éves munkatervét
 
-(10)
+- a) a szolgáltatási feladatokkal,
+- b) a kiállítási tevékenységgel,
+- c) a gyűjtemények gyarapításával és nyilvántartásával,
+- d) a tudományos kutatással és
+- e) a műtárgyvédelemmel
+
+kapcsolatos szakmai mutatók alapján készíti el.
+
+(10) Az országos szakkönyvtár és a megyei könyvtár éves munkatervét
+
+- a) a szolgáltatási feladatokkal,
+- b) a gyűjteményfejlesztéssel,
+- c) a gyűjteményfeltárással,
+- d) a tudományos kutatással,
+- e) a rendezvénnyel, kiállítással és
+- f) az állományvédelemmel
+
+kapcsolatos szakmai mutatók alapján készíti el.
 
 (11) A miniszter
 
@@ -968,7 +988,7 @@ vehető figyelembe.
 
 100. § (1) Felhatalmazást kap a Kormány, hogy a törvény végrehajtásaként rendeletben szabályozza
 
-- a) a könyvtári intézet vagy intézetek, a muzeális intézményeket nyilvántartó hatóság vagy hatóságok, valamint a közművelődési szakmai szolgálató szerv vagy szervek kijelölését,
+- a) a könyvtári intézet, valamint a közművelődési szakmai szolgáltató szerv vagy szervek kijelölését,
 - b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillető kedvezményeket,
 - c) a muzeális intézményben folytatható kutatást,
 - d) a műkereskedelemmel kapcsolatos kérdéseket,
@@ -987,7 +1007,7 @@ vehető figyelembe.
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 - a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
-- b) a közgyűjtemények éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
+- b) a múzeum, valamint az országos szakkönyvtár és a megyei könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 - c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
 - d) a muzeális intézmények működési engedélyeivel kapcsolatos kérdéseket,
 - e) a védetté nyilvánított kulturális javak, valamint a régészeti lelőhelyek nyilvántartását,
@@ -1004,14 +1024,14 @@ vehető figyelembe.
 - p) a könyvtári dokumentumellátást,
 - q) a beiratkozási díjra és a könytári szolgáltatások térítési díjára vonatkozó szabályokat,
 - r) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- s) a könyvtári szakemberek képesítési feltételeit, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat, továbbá a könyvtári alkalmazottak kedvezményeit,
+- s) a muzeális intézményben, a könyvtárban, valamint a közművelődési intézményben nem közalkalmazotti jogviszonyban foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket,
 - t) az összevont önkormányzati intézmények működését,
 - u) az önkormányzatok érdekeltségnövelő támogatását,
 - v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közművelődési és közgyűjteményi telematikai feladatfinanszírozás minisztérium fejezeti kezelésű címe felhasználását,
 - w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
-- x) az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
-- y) a muzeális intézményekben foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
-- z) az országos múzeumok, az országos szakmúzeumok, a nemzeti könyvtár és az országos szakkönyvtárak kiemelt feladatait.
+- x) az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatait, a kiemelt feladatok ellátásának rendjét, valamint a kiemelt feladatok végrehajtásával összefüggésben a muzeális intézmények és a nyilvános könyvtárak kötelezettségeit,
+- y) a muzeális intézmény nyilvántartásában szereplő kulturális javak revíziójára és selejtezésére vonatkozó részletes szabályokat.
+- z)
 
 (4)
 
@@ -1074,7 +1094,7 @@ m) Könyvtárközi dokumentumellátás:
 
 n) Könyvtárközi kölcsönzés: valamely dokumentum szolgáltatása egyik könyvtárból a másikba, beleértve az eredeti dokumentum kölcsönzését, a másolatok szolgáltatását, valamint a könyvtárközi dokumentumszolgáltatásra vonatkozó kérések közvetítését is.
 
-o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint az országos nemzetiségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
+o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
 
 p) Közművelődési intézmény: a lakosság közösségi közművelődési tevékenységéhez erre a célra alapított, fenntartott, működtetett, megfelelő szakmai, személyi, infrastrukturális feltételekkel és alapító okirattal rendelkező költségvetési szerv vagy egyéb fenntartású intézmény.
 
@@ -1098,7 +1118,7 @@ x) Nyilvános könyvtári ellátás: a nyilvános könyvtárak által nyújtott 
 
 y) Tagintézmény: muzeális intézmény szervezeti egységeként működő, önálló működési engedéllyel rendelkező muzeális intézmény.
 
-z) Megyei hatókörű muzeális intézmény: a települési szintet meghaladó, egy megye közigazgatási területére, valamint a megyében lévő megyei jogú városok közigazgatási területére kiterjedő feladatokat ellátó muzeális intézmény.
+z)
 
 zs)
 
@@ -1110,7 +1130,7 @@ Országos szakkönyvtár:
 
 a) a Budapesti Műszaki Egyetem Országos Műszaki Információs Központ és Könyvtár,
 
-b) az Országos Egészségpolitikai Szakkönyvtár,
+b) az Országos Egészségtudományi Szakkönyvtár,
 
 c) a Magyar Tudományos Akadémia Könyvtára,
 

@@ -17,7 +17,8 @@ a jogellenesen kivitt kulturális javak visszaszolgáltatásáról
 - 3. jogellenes kivitel: a kulturális javaknak a tagállam területéről a kulturális javak védelméről szóló tagállami jogszabályok vagy a kulturális javak kiviteléről szóló 116/2009/EK tanácsi rendelet megsértésével történt kivitele, illetve a jogszerű ideiglenes kivitelre vonatkozó feltételek megszegéséből adódó jogsértés is;
 - 4. kérelmező állam: az a tagállam, amelynek területéről a kulturális javakat jogellenesen kivitték;
 - 5. kérelmezett állam: az a tagállam, amelynek területén egy másik tagállam területéről jogellenesen kivitt kulturális javak megtalálhatóak;
-- 6. visszaszolgáltatás: a kulturális javak visszaszállítása a kérelmező állam területére.
+- 6. visszaszolgáltatás: a kulturális javak visszaszállítása a kérelmező állam területére;
+- 7. művészeti, történelmi vagy régészeti értéket képviselő nemzeti kincs: védett kulturális javak, valamint a régészeti leletek és a műemlékek műemléki értékkel rendelkező alkotórészei, tartozékai és berendezési tárgyai.
 
 ### A visszaszolgáltatás
 
