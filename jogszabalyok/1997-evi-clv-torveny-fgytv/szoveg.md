@@ -174,7 +174,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - d) az elektronikus eléréssel működtetett ügyfélszolgálat – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan elérhető legyen, illetve
 - e) amennyiben országos hálózattal rendelkezik, minden megyeszékhelyen ügyfélszolgálatot működtessen.
 
-(3) Telefonos eléréssel működtetett ügyfélszolgálat, illetve az ügyintézés időpontjának előzetes lefoglalására biztosított telefonos elérés esetében biztosítani kell az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. Az ügyfélszolgálathoz beérkező valamennyi telefonon tett szóbeli panaszt, valamint az ügyfélszolgálat és a fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. Ha a hangfelvétel tartalmazza a 17/A. § (5) bekezdése szerinti tartalmi elemeket – ide nem értve a panasz előterjesztésének helyét, a fogyasztó által bemutatott bizonyítékok jegyzékét, a jegyzőkönyvet felvevő személy aláírását, valamint a jegyzőkönyv felvételének helyét és idejét –, a jegyzőkönyv felvétele a fogyasztó beleegyezésével mellőzhető. A hangfelvételt egyedi azonosítószámmal kell ellátni, öt évig meg kell őrizni, és a fogyasztó kérésére, díjmentesen rendelkezésre kell bocsátani. A vállalkozás a hangfelvétel készítésével, megőrzésével és rendelkezésre bocsátásával kapcsolatos kötelezettségéről, továbbá az egyedi azonosítószámról a fogyasztót a telefonos ügyintézés kezdetekor tájékoztatni köteles.
+(3) Telefonos eléréssel működtetett ügyfélszolgálat, illetve az ügyintézés időpontjának előzetes lefoglalására biztosított telefonos elérés esetében biztosítani kell az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A vállalkozás az ügyfélszolgálati ügyintézőnek az ügyfélszolgálat felé indított hívás sikeres felépülésének időpontjától számított öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható. Az ügyfélszolgálathoz beérkező valamennyi telefonon tett szóbeli panaszt, valamint az ügyfélszolgálat és a fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. Ha a hangfelvétel tartalmazza a 17/A. § (5) bekezdése szerinti tartalmi elemeket – ide nem értve a panasz előterjesztésének helyét, a fogyasztó által bemutatott bizonyítékok jegyzékét, a jegyzőkönyvet felvevő személy aláírását, valamint a jegyzőkönyv felvételének helyét és idejét –, a jegyzőkönyv felvétele a fogyasztó beleegyezésével mellőzhető. A hangfelvételt egyedi azonosítószámmal kell ellátni, öt évig meg kell őrizni, és a fogyasztó kérésére, díjmentesen rendelkezésre kell bocsátani. A vállalkozás a hangfelvétel készítésével, megőrzésével és rendelkezésre bocsátásával kapcsolatos kötelezettségéről, továbbá az egyedi azonosítószámról a fogyasztót a telefonos ügyintézés kezdetekor tájékoztatni köteles.
 
 (4) Az (1) bekezdésben meghatározott vállalkozások tevékenységére vonatkozó törvény vagy az annak felhatalmazása alapján kiadott kormányrendelet
 
@@ -201,13 +201,13 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (4) A helyi önkormányzatok részt vállalhatnak a békéltető testület működtetésének feladataiból.
 
-19. §
+19. § A fővárosi kereskedelmi és iparkamara mellett működő békéltető testület látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.
 
 20. § (1) Az eljárásra a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület illetékes.
 
 (2) A fogyasztó belföldi lakóhelye és tartózkodási helye hiányában a békéltető testület illetékességét a fogyasztói jogvitával érintett vállalkozás vagy az annak képviseletére feljogosított szerv székhelye alapítja meg.
 
-(3) Az eljárásra – a fogyasztó erre irányuló kérelme alapján – az (1) bekezdés szerint illetékes testület helyett a szerződés teljesítésének helye vagy a fogyasztói jogvitával érintett vállalkozás, illetve az annak képviseletére feljogosított szerv székhelye szerinti békéltető testület, a (2) bekezdés szerint illetékes testület helyett pedig a szerződés teljesítésének helye szerinti testület is illetékes, ha a teljesítés helye belföldön található.
+(3) Az eljárásra – a fogyasztó erre irányuló kérelme alapján – az (1) és (2) bekezdés szerint illetékes testület helyett a fogyasztó kérelmében megjelölt békéltető testület illetékes.
 
 (4) Ha több fogyasztó közösen terjeszt elő kérelmet, bármelyik kérelmezőre illetékes testület valamennyi kérelmezőre nézve illetékes.
 
@@ -506,6 +506,12 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - h) a békéltető testületnél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozások jegyzéke az alávetés esetleges korlátozásának megadásával,
 - i) hivatkozás az egyes békéltető testületeknél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozásoknak a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzétett, az (1) bekezdés f) pontja szerinti jegyzék, valamint a Magyar Kereskedelmi és Iparkamara által a (2) bekezdés c) pontja szerint közzétett jegyzék elérhetőségére.
 
+### Fogyasztóvédelmi rezsipont
+
+37/B. § (1) A fogyasztóvédelmi hatóság szervezetében fogyasztóvédelmi rezsipont működik.
+
+(2) A fogyasztóvédelmi rezsipont feladata a villamosenergia-, földgáz-, távhő-, víziközmű-szolgáltatást és hulladékgazdálkodási közszolgáltatást érintő területen a fogyasztók tájékoztatása a vonatkozó jogszabályi előírásokról, a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről.
+
 ### Közérdekű igényérvényesítés
 
 38. § (1) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt az ellen, akinek a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekbe ütköző tevékenységét a fogyasztóvédelmi hatóság jogerősen megállapította, ha a jogsértő tevékenység a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti.
@@ -620,7 +626,13 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### X. Fejezet — A fogyasztóvédelmi hatóság eljárása
 
-45/A. § (1) A fogyasztóvédelmi hatóság ellenőrzi az e törvényben és – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével – a végrehajtására kiadott jogszabályokban foglalt rendelkezések betartását, és eljár azok megsértése esetén.
+45/A. § (1) A fogyasztóvédelmi hatóság ellenőrzi – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével –
+
+- a) a forgalmazással, szolgáltatásnyújtással,
+- b) a gyermek- és fiatalkorúak védelmével,
+- c) a fogyasztói csoporttal,
+- d) a panaszkezeléssel, ügyfélszolgálattal, fogyasztóvédelmi referens foglalkoztatásával, valamint
+- e) a vállalkozás válaszirat küldésére vonatkozó – békéltető testületi eljárásban fennálló – kötelezettségével összefüggő, e törvényben és a végrehajtására kiadott jogszabályokban foglalt rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2) A fogyasztóvédelmi hatóság ellenőrzi a külön jogszabályban fogyasztóvédelmi rendelkezésként meghatározott rendelkezések betartását, és – ha a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény eltérően nem rendelkezik – eljár azok megsértése esetén.
 
@@ -653,6 +665,13 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 90 nap.
 
+46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben előírtakon túl – tartalmaznia kell
+
+- a) a kérelemmel érintett vállalkozás nevét, valamint ha a fogyasztó rendelkezésére áll, székhelyének címét,
+- b) a feltételezett jogsértéssel érintett üzlet címét vagy a kifogásolt magatartás elkövetésének helyét,
+- c) a beadvány tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, vagy postai úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot, továbbá
+- d) a kérelmező aláírását.
+
 47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
 
 - a) elrendelheti a jogsértő állapot megszüntetését,
@@ -680,6 +699,8 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 (8) A fogyasztóvédelmi hatóság az (1) bekezdés d), g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli a vállalkozásról, illetve az üzletről nyilvántartást vezető kereskedelmi hatósággal.
 
 (9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével. Ha a fogyasztóvédelmi hatóság felhívására a vállalkozás az adatokat nem közli, vagy valótlan adatot közöl, vele szemben eljárási bírság kiszabásának van helye.
+
+(9a) Az ügyfélszolgálati ügyintéző élőhangos bejelentkezésére vonatkozó, a 17/B. § (3) bekezdésében előírt kötelezettség ellenőrzése érdekében az az elektronikus hírközlési szolgáltató, akinek hálózatából a hívást kezdeményezték, a fogyasztóvédelmi hatóság felhívására köteles közölni a hívás kezdő időpontjára és időtartamára vonatkozó, általa kezelt adatokat.
 
 (10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
 
@@ -709,7 +730,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 47/C. § (1) A bírság összege 15 ezer forinttól
 
-- a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 100 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
+- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
 - b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
 
 terjedhet.
@@ -729,8 +750,9 @@ terjedhet.
 (5) A fogyasztóvédelmi hatóság – ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik – minden esetben bírságot szab ki, ha
 
 - a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító jogerős határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
-- b) a jogsértés a fogyasztók széles körét érinti, továbbá
-- c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor.
+- b) a jogsértés a fogyasztók széles körét érinti,
+- c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, továbbá
+- d) a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezés megsértésére a fogyasztóknak koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó fogyasztóval szemben került sor.
 
 48. § (1)–(2)
 
@@ -743,6 +765,8 @@ terjedhet.
 (6) A jogerősen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
 (7) A fogyasztóvédelmi hatóság eljárása során kiszabott eljárási bírság adók módjára behajtandó köztartozás.
+
+48/A. § A fogyasztóvédelmi hatóság döntése ellen fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet. A fellebbezésben részletesen elő kell adni annak indokait.
 
 49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
@@ -870,5 +894,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.].
 
 (3)
+
+(4) A 19. § a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
 
 58. § A 16/B. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
