@@ -135,7 +135,14 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 12. § A Kormány kétévente az Országgyűlés elé terjeszti a miniszter által kidolgozott, a KKV-k helyzetét, gazdálkodási feltételrendszerét, a vállalkozásfejlesztés érdekében megtett intézkedéseket, valamint a KKV-k részére nyújtott állami támogatások eredményeit bemutató jelentést.
 
-12/A. § A hatósági ellenőrzést végző szervek kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást és a felnőttképzési tevékenységet folytató intézmények ellenőrzésére irányuló eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak, illetve kötelesek megvizsgálni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (1) bekezdés a) pontjában szabályozott eljárás alkalmazásának lehetőségét. Nincs lehetőség a bírságtól való eltekintésre, amennyiben a bírság kiszabásának alapjául szolgáló tényállás megvalósulásával emberi élet, testi épség vagy egészség került közvetlen veszélybe, környezetkárosodás következett be vagy a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor.
+12/A. § (1) A hatósági ellenőrzést végző szervek kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást és a felnőttképzési tevékenységet folytató intézmények ellenőrzésére irányuló eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak, illetve kötelesek megvizsgálni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (1) bekezdés a) pontjában szabályozott eljárás alkalmazásának lehetőségét.
+
+(2) Nincs lehetőség a bírságtól való eltekintésre, ha
+
+- a) a jogsértés emberi életet, testi épséget vagy egészséget sért vagy veszélyeztet,
+- b) a bírság kiszabásának alapjául szolgáló tényállás megvalósulásával környezetkárosodás következett be,
+- c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, vagy
+- d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor.
 
 13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank elnöke, valamint a Közbeszerzések Tanácsának elnöke minden év június 30-áig – az előző év adatai alapján – összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
 

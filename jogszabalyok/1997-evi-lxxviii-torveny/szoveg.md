@@ -1143,7 +1143,7 @@ első fokú végzés ellen.
 
 Kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti üzlet és bevásárlóközpont.
 
-53/F. § (1) 300 m2-nél nagyobb alapterületű kereskedelmi építmény nem létesíthető vagy ezt meghaladó méretre nem bővíthető.
+53/F. § (1) 300 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény nem létesíthető – ideértve a kereskedelmi építmény kialakítása érdekében az építmény engedélyköteles átalakítását is –, vagy ezt meghaladó méretre nem bővíthető.
 
 (2) Az (1) bekezdésben foglalt tilalom alól a kereskedelemért, a környezetvédelemért és a vidékfejlesztésért felelős miniszterek részvételével működtetett Bizottság véleményének kikérésével a kereskedelemért felelős miniszter felmentést adhat.
 
@@ -1371,6 +1371,8 @@ tartalmazza.
 E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybalépésétől kezdődően a korábbi rendezési tervek alapján fennálló, a tulajdonosi érdekeket sértő övezeti előírások változásával, az egyedi határozattal elrendelt, továbbá az egyedi határozattal el nem rendelt tilalmakkal kapcsolatban.
 
 (3) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 53/E–53/G. §-át az olyan építési engedélyezési eljárásban is alkalmazni kell, amelyeknél a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépésekor az építési engedélyt az eljáró hatóság még nem adta ki, vagy –bejelentéshez kötött építési tevékenység esetén – a bejelentést még nem vette nyilvántartásba. Az ilyen eljárásban a 35. § (3) bekezdése nem alkalmazható. A kereskedelmi építményre kiadott, a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépése időpontjában hatályos elvi építési engedély hatálya 2015. december 31-ig meghosszabbodik.
+
+(3a) E törvénynek az egyes törvények fogyasztóvédelmi célú módosításáról szóló 2013. évi CLXXXIII. törvénnyel megállapított 53/F. § (1) bekezdését az olyan építési engedélyezési eljárásban is alkalmazni kell, amelynél az egyes törvények fogyasztóvédelmi célú módosításáról szóló 2013. évi CLXXXIII. törvény 16. §-ának hatálybalépésekor az építési engedélyt az eljáró hatóság még nem adta ki.
 
 (4) Aki a felvonó vagy mozgólépcső (mozgójárda) létesítésére, üzembe helyezésére, rendeltetésszerű használatára, alkalmasságának ellenőriztetésére, biztonságtechnikai felülvizsgálatára vonatkozó kötelességét megszegi, azt a Magyar Kereskedelmi Engedélyezési Hivatal, mint műszaki biztonsági hatóság
 
