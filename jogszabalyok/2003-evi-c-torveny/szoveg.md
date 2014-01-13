@@ -2380,7 +2380,8 @@ köteles biztosítani.
 - a) azoknak, akik az elektronikus hírközlési szolgáltató megbízása alapján a számlázást, a követelések kezelését, a forgalmazás kezelését, illetőleg az ügyfél-tájékoztatást végzik;
 - b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervek részére;
 - c) a bírósági végrehajtásról szóló törvény előírásai szerint a végrehajtónak;
-- d) ha az érintett elháríthatatlan okból nem képes hozzájárulását megadni, az érintett vagy más személy létfontosságú érdekeinek védelme, vagy a személyek életét, testi épségét vagy javait fenyegető veszély elhárítása vagy megelőzése érdekében, az adatok megismerésére külön törvényben felhatalmazott szerv kérelme alapján a felhatalmazott szerv részére.
+- d) ha az érintett elháríthatatlan okból nem képes hozzájárulását megadni, az érintett vagy más személy létfontosságú érdekeinek védelme, vagy a személyek életét, testi épségét vagy javait fenyegető veszély elhárítása vagy megelőzése érdekében, az adatok megismerésére külön törvényben felhatalmazott szerv kérelme alapján a felhatalmazott szerv részére;
+- e) a fogyasztóvédelemről szóló törvény előírásai szerint a fogyasztóvédelmi hatóságnak.
 
 (10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
 

@@ -10,7 +10,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 2. § E törvény alkalmazásában:
 
-- 1. beszállító: aki a terméket, szolgáltatást kereskedelmi tevékenységet folytatónak forgalmazási céllal értékesíti;
+- 1. árusítótér: az üzleten belül a termék vásárlóknak történő bemutatására és értékesítésére szolgáló terület;
+- 1a. beszállító: aki a terméket, szolgáltatást kereskedelmi tevékenységet folytatónak forgalmazási céllal értékesíti;
 - 2. beszerzési szövetség: két vagy több vállalkozás által a beszerzési vagy értékesítési stratégiájuk érvényesítésére, beszerzési vagy értékesítési tevékenységük részének vagy egészének végzésére, koordinálására kötött megállapodás;
 - 3. bevásárlóközpont: olyan komplex kialakítású, vegyes rendeltetésű épület, amelyben állandó jelleggel több kereskedő folytat túlnyomórészt üzletekben különböző típusú kereskedelmi tevékenységet, és ahol emellett jellemzően a szabadidő eltöltésével összefüggő szolgáltatási tevékenységet is folytatnak;
 - 4. csomagküldő kereskedelem: az a kereskedelmi tevékenység, amelynek során a kereskedő a termék jellemzőit és árát feltüntető, ezáltal a vásárló számára az áru megvételére vonatkozó ügyleti döntés meghozatalát lehetővé tevő kereskedelmi kommunikációt bocsátja a vásárló rendelkezésére, és az ilyen kereskedelmi kommunikáció alapján megrendelt terméket szállítja (szállíttatja) a megjelölt címre;
@@ -30,6 +31,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 16. lovas szolgáltató tevékenység: üzletszerű gazdasági tevékenység keretében ló igénybevételével nyújtott, szabadidős, terápiás vagy oktatási célú szolgáltatás;
 - 17. mozgóbolt: kiskereskedelmi tevékenység folytatására kialakított jármű, illetve járműre szerelt vagy általa vontatott eszköz;
 - 18. nagykereskedelmi tevékenység: üzletszerű gazdasági tevékenység keretében termékek átalakítás (feldolgozás) nélküli továbbforgalmazása és az ezzel közvetlenül összefüggő raktározási, szállítási és egyéb kapcsolódó szolgáltatások nyújtása kereskedő, feldolgozó részére, ideértve a nagybani piaci tevékenységet, valamint a felvásárló tevékenységet is;
+- 18a. napi fogyasztási cikk: a vendéglátó tevékenység keretében értékesített termékek kivételével olyan, a lakosság napi szükségleteinek, igényeinek kielégítésére szolgáló élelmiszer, illatszer, drogériai termék, háztartási tisztítószer és vegyi áru, higiéniai papírtermék, amelyet a fogyasztó jellemzően legfeljebb egy éven belül elfogyaszt, elhasznál vagy lecserél;
+- 18b. napi fogyasztási cikket értékesítő üzlet: olyan üzlet, amely forgalmának döntő hányadát napi fogyasztási cikknek minősülő termékek árusítása teszi ki;
 - 19. piac: olyan épület, épületegyüttes vagy terület, ahol állandó vagy rendszeres jelleggel többen általában napi, esetenként heti rendszerességgel folytatnak kiskereskedelmi tevékenységet;
 - 20. saját előállítású termék: a kereskedő által előállított és kiskereskedelmi forgalomba hozott termék, ide nem értve a kereskedő márkanevével, védjegyével, illetve egyéb megkülönböztető megjelölésével forgalmazott, de nem a kereskedő által előállított terméket;
 - 21. termék: minden birtokba vehető forgalomképes ingó dolog, ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőt;
@@ -108,6 +111,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 (4) Az üzletekben jól látható és könnyen hozzáférhető helyen a kereskedelmi hatóság által hitelesített, folyamatosan számozott oldalú vásárlók könyvét kell elhelyezni. A vásárlók a vásárlók könyvébe bejegyezhetik az üzlet működésével, továbbá az ott folytatott kereskedelmi tevékenységgel kapcsolatos panaszaikat és javaslataikat. A vásárlót e jogának gyakorlásában megakadályozni vagy befolyásolni tilos.
 
 (5) A vásárlók könyvét a használatba vétel előtt a kereskedelmi hatóság hitelesíti, feltüntetve a vásárlók könyve megnyitásának időpontját.
+
+5/A. § A napi fogyasztási cikket értékesítő új üzlet működését akkor kezdheti meg, ha biztosítja az országos településrendezési és építési követelményekről szóló kormányrendeletben az árusítótér nagysága alapján meghatározott számú személygépkocsi elhelyezésére szolgáló várakozóhelyet, és megfelel a járművek elhelyezésével kapcsolatos szabályoknak.
 
 ### Az üzletek üzemeltetésének és nyitva tartásának rendje
 
@@ -279,6 +284,11 @@ nyilvántartást vezet.
 11. § (1) A Módtv.-vel megállapított 6. § (8) bekezdésében foglalt előírás nem alkalmazható a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény és a kereskedelemről szóló 2005. évi CLXIV. törvény módosításáról szóló 2012. évi CXLIII. törvény hatálybalépésekor működési engedéllyel vagy igazolással, valamint 24 és 6 óra közötti nyitvatartási jogosultsággal rendelkező, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzletek esetében.
 
 (2) A 6. § (8)–(10) bekezdése nem alkalmazható a Módtv. hatálybalépésekor folyamatban lévő eljárásokban.
+
+11/A. § Nem kell alkalmazni az 5/A. §-ban foglalt követelményeket azokra a napi fogyasztási cikket értékesítő üzletekre, amelyek esetében a kereskedelmi hatóság az egyes törvények fogyasztóvédelmi célú módosításáról szóló 2013. évi CLXXXIII. törvény 19. §-ának hatálybalépését megelőzően
+
+- a) vette nyilvántartásba az üzletet,
+- b) adta ki a működési engedélyt.
 
 12. § (1) Felhatalmazást kap a Kormány, hogy
 
