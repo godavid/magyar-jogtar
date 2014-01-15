@@ -8,7 +8,9 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 4. §
 
-5. §
+5. § A Gyvt. 25. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem alapján az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére elrendeli az utógondozást. Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt.”
 
 6–7. §
 
@@ -44,7 +46,29 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 33–36. §
 
-37–38. §
+37. § A Gyvt. 92. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az utógondozást
+
+a) a gyermek tekintetében a lakóhelye szerinti gyermekjóléti szolgálat,
+
+b) a fiatal felnőtt tekintetében a nevelőszülői hálózatot működtető, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetője
+
+látja el.”
+
+38. § (1) A Gyvt. 93. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Az utógondozói ellátást a fiatal felnőtt, ha)
+
+„b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a 24. életévének, ha felsőoktatási intézménnyel áll hallgatói jogviszonyban, 25. életévének,”
+
+(betöltéséig kérheti.)
+
+(2) A Gyvt. 93. § (9) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Megszűnik az utógondozói ellátás, ha a fiatal felnőtt)
+
+„b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén legkésőbb a 25. életévének betöltésével,”
 
 39. §
 
@@ -58,13 +82,22 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 50–53. §
 
-54. §
+54. § A Gyvt. a következő 167. §-sal egészül ki:
+
+„167. § A Módtv.-vel megállapított 25. § (6) és (7) bekezdését, 92. § (2) bekezdését és (6) bekezdés c) pontját, 93. § (2) bekezdés b) pontját, 93. § (9) bekezdés b) pontját és 93. § (10) bekezdés b) pontját a 2014. január 15-én folyamatban lévő ügyekben is alkalmazni kell.”
 
 55. §
 
 56. § (1)
 
-(2)
+(2) A Gyvt.
+
+- a) 25. § (6) bekezdésében az „utógondozójával” szövegrész helyébe az „utógondozó intézménnyel” szöveg,
+- b) 80/A. § (6) bekezdésében az „országos örökbefogadási nyilvántartás” szövegrész helyébe az „egységes örökbefogadási nyilvántartás” szöveg,
+- c) 92. § (6) bekezdés c) pontjában az „utógondozóval” szövegrész helyébe az „utógondozó intézménnyel” szöveg,
+- d) 93. § (10) bekezdés b) pontjában a „nevelőszülőjével, utógondozójával, az utógondozói ellátást” szövegrész helyébe a „nevelőszülőjével, az utógondozói ellátást” szöveg
+
+lép.
 
 (3)
 
