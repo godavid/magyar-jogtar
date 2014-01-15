@@ -625,9 +625,9 @@ kell kifizetni.
 - f) otthonteremtést elősegítő hitelintézeti kölcsön egyösszegű törlesztésére,
 - g) indokolt esetben a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra.
 
-(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozójával együttműködik.
+(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozó intézménnyel együttműködik.
 
-(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem megérkezését követő naptól számított tizenöt napon belül az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére a lakcím szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki. Az otthonteremtési támogatás céljának megvalósulásához az utógondozó a támogatással való elszámolásig segítséget nyújt.
+(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem alapján az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére elrendeli az utógondozást. Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt.
 
 26. § (1) Az otthonteremtési támogatás mértékét a folyamatos nevelésben eltöltött évek és a jogosult készpénz és ingatlan vagyonának együttes értéke alapján úgy kell megállapítani, hogy a vagyonnal nem rendelkező jogosult esetén érje el, a vagyonnal rendelkező jogosult esetén pedig a vagyonnal együtt érje el
 
@@ -2050,7 +2050,7 @@ szünetel.
 
 (5) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról, illetve – szükség szerint a megyei, fővárosi gyermekvédelmi szakértői bizottság véleményének beszerzésével és mérlegelésével – a gyermek gondozási helyének megváltoztatásáról.
 
-(6) Ha a területi gyermekvédelmi szakszolgálat és az országos örökbefogadási nyilvántartás – a nyilvántartott adatai, a gyermek életkora, egészségi állapota és egyéb körülményei figyelembevételével adott – tájékoztatása alapján a gyermek örökbefogadására reális esély van, a gyámhatóság megindítja az örökbe fogadhatóvá nyilvánítás iránti eljárást.
+(6) Ha a területi gyermekvédelmi szakszolgálat és az egységes örökbefogadási nyilvántartás – a nyilvántartott adatai, a gyermek életkora, egészségi állapota és egyéb körülményei figyelembevételével adott – tájékoztatása alapján a gyermek örökbefogadására reális esély van, a gyámhatóság megindítja az örökbe fogadhatóvá nyilvánítás iránti eljárást.
 
 (7) A gyámhatóság a nevelésbe vétel felülvizsgálata eredményeként hozott határozatában megállapítja, ha a gyermek örökbe fogadható. A (4) bekezdés b) pont ba) alpontjában foglaltak fennállásakor a gyámhatóság minden esetben megállapítja a gyermek örökbefogadhatóságának tényét.
 
@@ -2263,7 +2263,9 @@ szünetel.
 (2) Az utógondozást
 
 - a) a gyermek tekintetében a lakóhelye szerinti gyermekjóléti szolgálat,
-- b) a fiatal felnőtt tekintetében a befogadó szülői hálózatot működtető, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetőjének utógondozója látja el.
+- b) a fiatal felnőtt tekintetében a nevelőszülői hálózatot működtető, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetője
+
+látja el.
 
 (3) A gyámhatóság elrendeli az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor, valamint meghosszabbítja az utógondozást az annak időtartama alatt nyújtott otthonteremtési támogatás elszámolásának időpontjáig.
 
@@ -2279,7 +2281,7 @@ szünetel.
 
 - a) egyéb gyermekvédelmi intézkedést rendeltek el,
 - b) azt a fiatal felnőtt kéri, kivéve ha otthonteremtési támogatásban részesül,
-- c) a fiatal felnőtt az utógondozóval önhibájából legalább három hónapja nem működik együtt.
+- c) a fiatal felnőtt az utógondozó intézménnyel önhibájából legalább három hónapja nem működik együtt.
 
 ### Utógondozói ellátás
 
@@ -2292,7 +2294,7 @@ szünetel.
 (2) Az utógondozói ellátást a fiatal felnőtt, ha
 
 - a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, a 21. életévének, vagy ha speciális vagy különleges ellátási szükségletűként töltötte be nagykorúságát, 22. életévének,
-- b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a 22. életévének, ha felsőoktatási intézménnyel áll hallgatói jogviszonyban, 25. életévének,
+- b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a 24. életévének, ha felsőoktatási intézménnyel áll hallgatói jogviszonyban, 25. életévének,
 - c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a felvétel időpontjáig, de legkésőbb 22. életévének betöltéséig kérheti.
 
 (3) Az (1) bekezdés a) pontjának alkalmazásában akkor nem biztosított a fiatal felnőtt létfenntartása, ha
@@ -2313,13 +2315,13 @@ szünetel.
 (9) Megszűnik az utógondozói ellátás, ha a fiatal felnőtt
 
 - a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, az utógondozói ellátás elrendelése okának megszűnésével, de legkésőbb a fiatal felnőtt 21. életévének betöltésével, vagy ha speciális vagy különleges ellátási szükségletűként érte el nagykorúságát, a 22. életévének betöltésével,
-- b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 22., hallgatói jogviszony fennállása esetén legkésőbb a 25. életévének betöltésével,
+- b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén legkésőbb a 25. életévének betöltésével,
 - c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a szociális intézménybe való felvételével, de legkésőbb a 22. életévének betöltésével.
 
 (10) A gyámhatóság az utógondozói ellátást megszünteti, ha a fiatal felnőtt
 
 - a) utógondozói ellátásának jogosultsági feltételei már nem állnak fenn,
-- b) a nevelőszülőjével, utógondozójával, az utógondozói ellátást nyújtó intézmény munkatársával, illetve az intézményben ellátott társával szemben elfogadhatatlan, az együttélés szabályait súlyosan sértő magatartást tanúsít,
+- b) a nevelőszülőjével, az utógondozói ellátást nyújtó intézmény munkatársával, illetve az intézményben ellátott társával szemben elfogadhatatlan, az együttélés szabályait súlyosan sértő magatartást tanúsít,
 - c) a házirendet többször súlyosan megsérti,
 - d) azt kéri,
 - e) az (1) bekezdés b) pontja alapján elrendelt utógondozói ellátás esetén a tanulmányi vagy vizsgakötelezettségét önhibájából nem teljesíti,
@@ -3793,7 +3795,9 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (8) 2014. január 1-je és június 30-a között a 62. § (2) bekezdése, a 80/A. § (6) bekezdése és a 141. § (4) bekezdése rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy egységes örökbefogadási nyilvántartás alatt az országos örökbefogadást elősegítő szerv által vezetett, a 141/C. § szerinti nyilvántartást kell érteni.
 
-167–188. §
+167. § A Módtv.-vel megállapított 25. § (6) és (7) bekezdését, 92. § (2) bekezdését és (6) bekezdés c) pontját, 93. § (2) bekezdés b) pontját, 93. § (9) bekezdés b) pontját és 93. § (10) bekezdés b) pontját a 2014. január 15-én folyamatban lévő ügyekben is alkalmazni kell.
+
+168–188. §
 
 189. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
