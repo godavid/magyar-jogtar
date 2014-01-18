@@ -301,7 +301,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 #### 11. Az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálata
 
-33. § (1) Az Országgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozatát az Alkotmánybíróság az elrendelés vagy elutasítás Alaptörvénnyel való összhangja és törvényessége tekintetében bárki indítványára felülvizsgálja. Az indítványnak az Országgyűlés határozatának közzétételét követő tizenöt napon belül be kell érkeznie.
+33. § (1) Az Országgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozatát az Alkotmánybíróság az elrendelés vagy elutasítás Alaptörvénnyel való összhangja és törvényessége tekintetében bárki indítványára harminc napon belül felülvizsgálja. Az indítványnak az Országgyűlés határozatának közzétételét követő tizenöt napon belül be kell érkeznie.
 
 (2) Az (1) bekezdésben meghatározott eljárásban az Alkotmánybíróság a határozat érdemében csak akkor folytat vizsgálatot, ha az aláírásgyűjtő ív hitelesítése és a népszavazás elrendelése között a körülményekben olyan lényeges változás következett be, amelyet a kérdés hitelesítéséről, illetve az azzal szembeni felülvizsgálati kérelemről hozott döntés során a Nemzeti Választási Bizottság, illetve a Kúria nem vehetett figyelembe, és a döntést érdemben befolyásolhatja.
 
@@ -640,7 +640,9 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 - e) a 25–27. §-ban foglalt eljárások kivételével a vizsgált jogszabály hatályvesztését, valamint
 - f) a 24. § (3) bekezdésében vagy a 31. §-ban foglaltak fennállását.
 
-65. § Az Alkotmánybíróság érdemi határozatával elbírálja az indítványt, és dönt az eljárása során szükségszerűen felmerülő egyéb kérdésekben.
+65. § (1) Az Alkotmánybíróság érdemi határozatával elbírálja az indítványt, és dönt az eljárása során szükségszerűen felmerülő egyéb kérdésekben.
+
+(2) Az Alkotmánybíróság a 33. § (1) bekezdése szerinti határozatában az Országgyűlés határozatát helybenhagyja, vagy azt megsemmisíti, és az Országgyűlést új határozat meghozatalára hívja fel.
 
 66. § (1) Az Alkotmánybíróság döntését kézbesítés útján közli az indítványozóval, az alkotmányjogi panaszt továbbító bírósággal és azzal az érintettel, akinek a részére a közlést szükségesnek tartja.
 

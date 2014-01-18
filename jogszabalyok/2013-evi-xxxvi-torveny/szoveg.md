@@ -113,7 +113,7 @@ számított százhúsz napon belülre kell kitűzni.
 
 közötti napra.
 
-9. § Az országgyűlési képviselők általános választásának napjára vagy a helyi önkormányzati képviselők általános választásának napjára nem tűzhető ki országos népszavazás.
+#### 9. §
 
 #### 7. A határidők számítása
 

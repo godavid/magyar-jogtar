@@ -313,13 +313,13 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - d) a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi azonosító kezelésére az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult;
 - e) az ingatlan-nyilvántartás és földhasználati nyilvántartás szerve, belső azonosítóként, a külön törvényben meghatározottak szerint, az ingatlantulajdonosok és a földhasználók, illetve az ingatlannal kapcsolatos bármely joggal és kötelezettséggel összefüggésben, a nyilvántartásba bejegyzett polgár azonosításához;
 - f) a katonai igazgatás szervei és a Magyar Honvédség központi irattározásra kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes katonai szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett tartalékos állomány katonai szolgálata tervezése érdekében, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;
-- g) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és nemzetiségi önkormányzati képviselő, az országos nemzetiségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
+- g) a választási szerv a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és nemzetiségi önkormányzati képviselő, az országos nemzetiségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
 - h) a választójoggal nem rendelkező polgárok nyilvántartását vezető, valamint a neki adatot szolgáltató szerv, a választójoggal nem rendelkezők nyilvántartásának vezetéséhez;
 - i) a polgármester (főpolgármester), a népiülnök-választási eljárásban a választójogosultság ellenőrzéséhez;
 - j) az idegenrendészeti szerv és a központi menekültügyi szerv a törvényben meghatározott feladataik ellátásához;
 - k) a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljáráshoz;
 - l) a bűntettesek nyilvántartását kezelő szerv,
-- m) a helyi népi kezdeményezésről és a helyi népszavazás kezdeményezésről szóló önkormányzati rendeletben meghatározott önkormányzati szerv, az összegyűjtött aláírások átvétele és azok hitelesítése tekintetében;
+- m)
 - n) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 - o) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;
 - p) a közúti közlekedési nyilvántartást vezető szerv a nyilvántartási eljáráshoz;
@@ -331,7 +331,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (2) A polgár az (1) bekezdés szerinti megismerhetővé tételt az összerendelési nyilvántartásra irányadó rendelkezések szerint is biztosíthatja, amennyiben ennek műszaki feltételei adottak.
 
-34. § (1) A polgár a személyi azonosítóját a népszavazási kezdeményezés, népi kezdeményezés, európai polgári kezdeményezés támogatására aláírást, illetőleg a választási eljárásban jelöltajánlást gyűjtő szervnek és polgárnak kezdeményezési, jelöltállítási jogának gyakorlásakor köteles átadni.
+34. § (1) A polgár a személyi azonosítóját a népszavazási kezdeményezés, európai polgári kezdeményezés támogatására aláírást, illetőleg a választási eljárásban jelöltajánlást gyűjtő szervnek és polgárnak kezdeményezési, jelöltállítási jogának gyakorlásakor köteles átadni.
 
 (2) Az (1) bekezdésben megjelölt szerv és polgár az aláírások gyűjtése során jogosult a személyi azonosító kezelésére.
 
@@ -344,9 +344,9 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - a) a személyiadat- és lakcímnyilvántartás szerve akkor, ha az adatszolgáltatást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 - b) a 32. § b) pontja szerint adatot szolgáltató szerv vagy polgár, a személyiadat- és lakcímnyilvántartás illetékes szervének;
 - c) az adatkezelő, ha törvény alapján a személyi azonosító alkalmazásával a személyiadat- és lakcímnyilvántartásból adatszolgáltatás igénylésére jogosult, a személyiadat- és lakcímnyilvántartástól történő adatszolgáltatás igényléséhez;
-- d) a népszavazási kezdeményezést, népi kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak az Országos Választási Bizottság elnöke, illetőleg a polgármester (főpolgármester) részére történő átadásakor;
+- d) a népszavazási kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak a Nemzeti Választási Bizottság, illetve a helyi választási bizottság részére történő átadásakor;
 - e) a választójoggal nem rendelkező polgárok nyilvántartásának vezetéséhez adatszolgáltatásra kötelezett szerv, e kötelezettsége teljesítésekor;
-- f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, a népi kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
+- f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, az európai polgári kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
 - g) a polgármester (főpolgármester) a népiülnök-választási eljárásban, a választójoggal nem rendelkezők nyilvántartását vezető szervtől történő adatszolgáltatás igényléséhez;
 - h) a választójoggal nem rendelkezők nyilvántartását vezető szerv a népiülnök-választási eljáráshoz a polgármesternek (főpolgármesternek) teljesített adatszolgáltatáskor;
 - i) az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a nyomozó hatóság részére;
@@ -354,7 +354,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 - l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
 - m)
-- n) a helyi népi kezdeményezés, népszavazás-kezdeményezés összegyűjtött aláírásainak átvételére önkormányzati rendeletben feljogosított személy, az aláírások hitelesítésre történő megküldésekor,
+- n)
 - o) a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
 - p) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 - r) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;

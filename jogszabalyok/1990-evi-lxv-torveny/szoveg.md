@@ -151,63 +151,9 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 44. §
 
-### IV. Fejezet — HELYI NÉPSZAVAZÁS, NÉPI KEZDEMÉNYEZÉS
+### IV. Fejezet
 
-45. § (1) A helyi népi kezdeményezésben az vehet részt, aki a helyi önkormányzati képviselők és polgármesterek választásán választó.
-
-(2) A helyi népszavazás
-
-- a) érvényes, ha a választópolgárok több mint a fele szavazott, és
-- b) eredményes, ha a szavazóknak több mint a fele a megfogalmazott kérdésre azonos választ adott.
-
-(3)–(5)
-
-46. § (1) A képviselő-testület helyi népszavazást köteles kiírni a következő kérdésekben:
-
-- a) a településnek a területével határos másik megyéhez történő átcsatolására irányuló kezdeményezése,
-- b) a községegyesítésnek és a községegyesítés megszüntetésének kezdeményezése,
-- c) új község alakításának kezdeményezése,
-- d) lakott területrész átadása, átvétele, cseréje,
-- e) társult képviselő-testület alakítása, a társult képviselő-testületből való kiválás, továbbá
-- f) abban az ügyben, amelyet az önkormányzati rendelet meghatároz.
-
-(2)
-
-(3) A képviselő-testület helyi népszavazást rendelhet el:
-
-- a) a képviselő-testület feladat- és hatáskörébe tartozó ügyben,
-- b) az önkormányzati rendelet megerősítésére.
-
-(4) Nem rendelhető el helyi népszavazás:
-
-- a) a költségvetésről való döntésre,
-- b) a helyi adónemeket, illetőleg mértéküket megállapító rendelet tárgyában,
-- c) a képviselő-testület hatáskörébe tartozó szervezeti, működési, személyi kérdésekben, a képviselő-testület feloszlásának a kimondásáról.
-
-47. § (1) A helyi népszavazást a polgármesternél kezdeményezheti:
-
-- a) a települési képviselők legalább egynegyede,
-- b) a képviselő-testület bizottsága,
-- c) a helyi egyesület vezető testülete,
-- d) az önkormányzati rendeletében meghatározott számú választópolgár, ami nem lehet kevesebb a választópolgárok tíz százalékánál, és nem lehet több a választópolgárok huszonöt százalékánál.
-
-(2) A képviselő-testület köteles kitűzni a helyi népszavazást, ha azt az önkormányzati rendeletében meghatározott számú választópolgár kezdeményezte.
-
-(3)
-
-(4) A képviselő-testület az ötszáz lakoson aluli községben a helyi népszavazást a falugyűlés hatáskörébe utalhatja, azzal a feltétellel, hogy a falugyűlés döntése abban az esetben számít népszavazási döntésnek, ha a falugyűlésen a választópolgároknak több mint a fele jelen van.
-
-48. § A népszavazás eredménye kötelező a képviselő-testületre. Eredménytelen helyi népszavazás esetén a népszavazásra bocsátott kérdésben a képviselő-testület dönthet. Ugyanabban a kérdésben helyi népszavazást egy éven belül nem lehet kitűzni, akkor sem, ha a helyi népszavazás eredménytelen volt.
-
-49. § (1) Népi kezdeményezés útján a képviselő-testület elé terjeszthető minden olyan ügy, amelynek eldöntése a képviselő-testület hatáskörébe tartozik.
-
-(2) A képviselő-testület önkormányzati rendeletében meghatározott — a választópolgárok öt százalékánál nem kevesebb és tíz százalékánál nem nagyobb — számú választópolgár a népi kezdeményezést a polgármesternek nyújthatja be. A képviselő-testület köteles megtárgyalni azt a népi kezdeményezést, melyet a képviselő-testület által meghatározott számú választópolgár indítványozott.
-
-50. § (1)
-
-(2) A képviselő-testület önkormányzati rendeletben szabályozza a helyi népszavazás és népi kezdeményezés további feltételeit, az eljárás rendjét.
-
-51. §
+45–51. §
 
 ### V. Fejezet — A KÖZSÉG, A VÁROS ÉS TERÜLETÜK
 
@@ -390,4 +336,4 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - a) a forrásmegosztás évenként korrigált mértékét, és
 - b) a kerületi önkormányzatokat együttesen megillető mértékből az egyes kerületi önkormányzatokat megillető részesedés mértékét – a kerületi önkormányzatok véleményének kikérésével – rendeletben állapítsa meg.
 
-117. § E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 45. § (1) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
+117. §
