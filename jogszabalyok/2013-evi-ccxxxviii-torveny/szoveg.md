@@ -598,67 +598,8 @@ sarkalatosnak minősül.
 
 #### 47. Módosító rendelkezések
 
-97. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 350. §-a és az azt megelőző alcím-megjelölése helyébe a következő rendelkezés lép:
-
-„A választás, népszavazás és európai polgári kezdeményezés rendje elleni bűncselekmény
-
-350. § (1) Aki a választási eljárásról szóló törvény vagy a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvény hatálya alá tartozó választás, népszavazás és európai polgári kezdeményezés során
-
-a) a jelölési eljárás szabályait megszegve erőszakkal, fenyegetéssel, megtévesztéssel vagy anyagi juttatással szerez ajánlást,
-
-b) népszavazás vagy európai polgári kezdeményezés indítványozása érdekében erőszakkal, fenyegetéssel, megtévesztéssel vagy anyagi juttatással szerez aláírást,
-
-c) jogosultság nélkül szavaz,
-
-d) jogosulatlanul aláír, hamis adatokat tüntet fel,
-
-e) arra jogosultat a választásban, a népszavazásban, a népszavazási vagy az európai polgári kezdeményezésben akadályoz, vagy erőszakkal, fenyegetéssel, megtévesztéssel, vagy anyagi juttatással befolyásolni törekszik,
-
-f) megsérti a választás vagy a népszavazás titkosságát,
-
-g) meghamisítja a választás, a népszavazás, a népszavazási vagy az európai polgári kezdeményezés eredményét,
-
-h) a jelölési eljárás során az ajánlásáért, illetve a népszavazás kezdeményezése vagy európai polgári kezdeményezés indítványozása során az aláírásáért anyagi juttatást fogad el,
-
-i) szavazatát anyagi juttatás nyújtásától teszi függővé, és erre tekintettel anyagi juttatást fogad el,
-
-bűntettet követ el és három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Az (1) bekezdés szerint büntetendő, aki nemzetiségi önkormányzati képviselőjelöltként történő nyilvántartásba vételhez szükséges nyilatkozatában korábbi nemzetiségi önkormányzati képviselőjelöltségére vonatkozóan valótlan tartalmú nyilatkozatot tesz.”
-
-98. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 65. §-a helyébe a következő rendelkezés lép:
-
-„65. § (1) Az Alkotmánybíróság érdemi határozatával elbírálja az indítványt, és dönt az eljárása során szükségszerűen felmerülő egyéb kérdésekben.
-
-(2) Az Alkotmánybíróság a 33. § (1) bekezdése szerinti határozatában az Országgyűlés határozatát helybenhagyja, vagy azt megsemmisíti, és az Országgyűlést új határozat meghozatalára hívja fel.”
-
-99. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 148. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) Ha az 1. mellékletben felsoroltakon kívül további nemzetiség kíván bizonyságot tenni arról, hogy megfelel a feltételeknek, legalább ezer, magát e nemzetiséghez tartozónak valló, a helyi önkormányzati képviselők és polgármesterek választásán szavazati joggal rendelkező választópolgár kezdeményezheti a nemzetiség Magyarországon honos népcsoporttá nyilvánítását. Az eljárás során a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvénynek az országos népszavazás kezdeményezésére vonatkozó rendelkezéseit kell alkalmazni, a (4) és (5) bekezdésben foglalt eltéréssel.
-
-(4) A kezdeményezés szervezője az a választópolgár lehet, aki a helyi önkormányzati képviselők és polgármesterek választásán választható.
-
-(5) A Nemzeti Választási Bizottság az eljárása során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását a törvényi feltételek fennállásáról.”
-
-100. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz.tv.) 36. § d) pontja helyébe a következő rendelkezés lép:
-
-(A személyi azonosító továbbítására jogosult:)
-
-„d) a népszavazási kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak a Nemzeti Választási Bizottság, illetve a helyi választási bizottság részére történő átadásakor;”
-
-101. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 23. § a) pontjában az „a népi kezdeményezésről” szövegrész helyébe az „az európai polgári kezdeményezésről” szöveg lép.
-
-(2) A Szaz.tv. 32. § g) pontjában a „népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben” szövegrész helyébe a „népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvényben” szöveg, 36. § f) pontjában az „a népi kezdeményezést” szövegrész helyébe az „az európai polgári kezdeményezést” szöveg lép.
-
-(3) Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 33. § (1) bekezdésében a „bárki indítványára” szövegrész helyébe a „bárki indítványára harminc napon belül” szöveg lép.
+#### 97–101. §
 
 #### 48. Hatályon kívül helyező rendelkezések
 
-102. § Hatályát veszti
-
-- a) a helyi önkormányzatokról szóló 1990. évi LXV. törvény IV. Fejezete, valamint 117. §-a,
-- b) a Szaz.tv. 32. § g) pontjában a „továbbá a népszámlálásról szóló törvényben,” szövegrész, 32. § m) pontja, 34. § (1) bekezdésében a „népi kezdeményezés,” szövegrész, 36. § n) pontja,
-- c) az országos népszavazásról és népi kezdeményezésről szóló 1998. évi III. törvény,
-- d) a büntetőeljárásról szóló 1998. évi XIX. törvény 16. § (1) bekezdés p) pontjában az „ , a népi kezdeményezés” szövegrész,
-- e) a menedékjogról szóló 2007. évi LXXX. törvény 10. § (2) bekezdés a) pontjában az „és népi kezdeményezés” szövegrész,
-- f) a Ve. 9. §-a.
+#### 102. §
