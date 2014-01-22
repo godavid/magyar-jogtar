@@ -733,7 +733,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (2) A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) szerinti megrendelésre készült filmalkotás vagy nem megrendelésre készült filmalkotás támogatója (ideértve a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságnak a kincstárnál e célra vezetett számlára befizető adózót) az (1) bekezdés szerinti adókedvezményt a mozgóképszakmai hatóság által kiállított támogatási igazolás alapján veheti igénybe. A támogatási igazolás tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét.
 
-(3) A mozgóképszakmai hatóság által egy filmalkotáshoz kiadott, kedvezményre való jogosultságot igazoló támogatási igazolások és a támogatási szerződés keretében megfizetett kiegészítő támogatások összértéke nem haladhatja meg a mozgóképszakmai hatóság által jóváhagyott közvetlen filmgyártási költség Mktv. 12. § (10) bekezdésében meghatározott részének 20 százalékát, azzal, hogy nem állítható ki igazolás, ha a filmalkotás az Mktv. rendelkezései szerint nem jogosult közvetett állami támogatásra.
+(3) A mozgóképszakmai hatóság által egy filmalkotáshoz kiadott, kedvezményre való jogosultságot igazoló támogatási igazolások összértéke, valamint az Mktv. 31/C. § (1) bekezdése alapján kiadott határozatban megállapított közvetett támogatás összege nem haladhatja meg a mozgóképszakmai hatóság által jóváhagyott közvetlen filmgyártási költség Mktv. 12. § (10) bekezdésében meghatározott részének 20 százalékát, azzal, hogy nem állítható ki igazolás, ha a filmalkotás az Mktv. rendelkezései szerint nem jogosult közvetett támogatásra.
 
 (4) Az előadó-művészeti szervezet támogatója az (1) bekezdés szerinti adókedvezményt az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szerv által kiállított támogatási igazolás alapján veheti igénybe. Az egy előadó-művészeti szervezethez kapcsolódóan a tárgyévre vonatkozóan kiadott támogatási igazolások és a támogatási szerződés keretében megfizetett kiegészítő támogatások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
 
@@ -745,7 +745,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (8) A támogatási igazolás alapján a (6) és (7) bekezdés szerint meghatározott kiegészítő támogatásra jogosult:
 
-- a) a (2) és (3) bekezdés hatálya alá tartozó támogatási igazolás esetén – az adózó döntése szerint – vagy az Mktv.-ben meghatározott, a mozgóképszakmai célokra előirányzott források elosztását végző szervezet, vagy a támogatási igazolás kiállításának alapjául szolgáló támogatásban részesülő filmalkotás tekintetében filmelőállítónak minősülő jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság;
+- a) a (2) és (3) bekezdés hatálya alá tartozó támogatási igazolás esetén az Mktv. 8. § (1) bekezdésében meghatározott, a mozgóképszakmai célokra előirányzott források elosztását végző szervezet, azzal, hogy a kiegészítő támogatást a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságnak a kincstárnál vezetett letéti számlájára kell megfizetni;
 - b) a (4) és (5) bekezdés hatálya alá tartozó támogatási igazolás esetén – az adózó döntése szerint – vagy a kultúráért felelős miniszter által vezetett minisztérium vagy a támogatási igazolás kiállításának alapjául szolgáló támogatásban részesülő előadó-művészeti szervezet.
 
 (9)
@@ -1351,6 +1351,8 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 (3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22. § (1), (3) és (4) bekezdését, (6)–(8) bekezdését, 22/C. § (3) bekezdés a) pontját, (3a), (3c) és (4a) bekezdését, a 3. számú melléklet A) rész 12. pontját a 2013. december 31-ét követően nyújtott támogatásra (juttatásra) kell alkalmazni.
 
 (4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22/C. § (2) bekezdését a hatálybalépése napját követően nyújtott támogatásra (juttatásra) kell alkalmazni.
+
+29/W. § A 22. § (8) bekezdés a) pontjának az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi CCXXXVI. törvénnyel megállapított rendelkezéseit a hatálybalépése napját követően fizetett támogatásra (juttatásra) kell alkalmazni.
 
 29/X. § A 22/C. § (6a) bekezdésének az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi CCXXXVI. törvénnyel megállapított rendelkezéseit a hatálybalépésekor folyamatban lévő sportfejlesztési programok jóváhagyására irányuló kérelmek elbírálása, illetve a folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
