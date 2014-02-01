@@ -196,7 +196,7 @@ adómentesség
 
 19. § Mentes az adó alól:
 
-- a) az építmény hasznos alapterületével egyező nagyságú telekrész,
+- a) az épület, épületrész hasznos alapterületével egyező nagyságú telekrész,
 - b) a belterületen fekvő, az ingatlan-nyilvántartásban művelés alól kivett területként nyilvántartott, 1 hektárt meg nem haladó nagyságú földterület, feltéve, ha az adóévben annak teljes területe tényleges mezőgazdasági művelés alatt áll és e tényt a telek fekvése szerint illetékes mezőgazdasági igazgatási szerv az adóévben igazolja,
 - c) az építési tilalom alatt álló telek adóköteles területének 50 %-a,
 - d) az adóalany termék-előállító üzeméhez tartozó, jogszabályban vagy hatósági előírásban megállapított védő-biztonsági terület (övezet), feltéve, ha az adóalany adóévet megelőző adóévi, évesített nettó árbevétele legalább 50%-ban saját előállítású termék értékesítéséből származik.
@@ -643,7 +643,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 13. korrigált forgalmi érték: az illetékekről szóló törvény alkalmazásával megállapított forgalmi érték 50%-a,
 - 14. erdő: az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földterület, továbbá az a földterület, amelyet az Országos Erdőállomány Adattárban erdőként tartanak nyilván;
 - 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
-- 16. telek: az építménnyel be nem épített földterület, ide nem értve
+- 16. telek: az épülettel, épületrésszel be nem épített földterület, ide nem értve
   - a) a belterületen fekvő termőföldet, feltéve, ha az tényleges mezőgazdasági művelés alatt áll,
   - b) a külterületen fekvő termőföldet,
   - c) a tanyát,
@@ -652,7 +652,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
   - f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet,
   - g) a halászatról és horgászatról szóló törvény szerinti víztározó területét,
   - h) az erdőt,
-  - i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet;
+  - i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
 - 17. termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, fásított terület, halastó művelési ágban nyilvántartott földrészlet;
 - 18. kommunális beruházás: a közmű (a településekre vagy azok jelentős részére kiterjedő elosztó és vezetékrendszerek és az ezekkel kapcsolatos létesítmények, amelyek a fogyasztók vízellátási — ideértve a belvíz-, a csapadék- és szennyvízelvezetési, tisztítási-, villamos energia, hő-, gázenergia és távbeszélési igényeit elégítik ki), valamint az út és járda építés,
 - 19. termék-előállító üzem: az az állandó jellegű üzleti létesítmény (épület, műtárgy), amelyet az elhelyezésére szolgáló telek utáni adó alanya saját termék előállítására vagy saját termék előállításával összefüggő célra (ideértve különösen a saját előállítású termék tárolását, szállítását, kiszolgálását, a termeléshez kapcsolódó irányító, kiszolgáló tevékenységeket) használ;
