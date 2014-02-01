@@ -191,6 +191,59 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 17/C. § A 17/A. § és a 17/B. § alkalmazásában az írásbeliség követelményének levél, távirat, távgépíró vagy telefax útján, továbbá bármely egyéb olyan eszközzel is eleget lehet tenni, amely a címzett számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását, és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
 
+### Fogyasztóvédelmi referens
+
+17/D. § (1) A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás köteles fogyasztóvédelmi referenst foglalkoztatni.
+
+(2) A fogyasztóvédelmi referens feladata a vállalkozás fogyasztókat érintő tevékenységének figyelemmel kísérése, a vállalkozás alkalmazottai részére fogyasztóvédelmi tárgyú oktatás, képzés szervezése. A fogyasztóvédelmi referens kapcsolatot tart a fogyasztóvédelmi hatósággal, békéltető testületekkel, valamint egyéb, fogyasztóvédelmi feladatokat is ellátó állami szervekkel.
+
+(3) Fogyasztóvédelmi referens az a magyar állampolgár vagy az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgára lehet, aki
+
+- a) államilag elismert fogyasztóvédelmi szakképesítést vagy szakképzettséget szerzett, vagy
+- b) részére iskolarendszeren kívüli hatósági jellegű képzést követően képesítési bizonyítvány kiadására került sor.
+
+(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében, ahol
+
+- a) székhelyén, telephelyén vagy fióktelepén kiskereskedelmi tevékenységet folytat, továbbá
+- b) közszolgáltatási tevékenységet folytató, valamint törvény alapján ügyfélszolgálat működtetésére kötelezett vállalkozás esetén ügyfélszolgálattal rendelkezik.
+
+(5) A fogyasztóvédelmi referenst azon legnagyobb népességszámú településen kell foglalkoztatni, ahol a vállalkozás a (4) bekezdés szerinti székhellyel, telephellyel, fiókteleppel vagy ügyfélszolgálattal rendelkezik.
+
+(6) A fogyasztóvédelmi referensi tevékenység megbízási szerződés keretében is ellátható.
+
+(7) A fogyasztóvédelmi referens képzéssel és vizsgáztatással (a továbbiakban: képzés) kapcsolatos tevékenység szakmai felügyeletét a fogyasztóvédelmi hatóság látja el.
+
+(8) A (3) bekezdés b) pontja szerinti képzést olyan jogi személy, jogi személyiség nélkül gazdasági társaság, egyéni cég, egyéni vállalkozó vagy költségvetési szerv szervezhet (a továbbiakban: szervező), amely a képzés céljának megfelelő oktatási anyaggal, valamint tanulmányi és vizsgaszabályzattal rendelkezik.
+
+(9) A fogyasztóvédelmi referens képzésre vonatkozó tevékenységet be kell jelenteni a fogyasztóvédelmi hatóság felé.
+
+(10) A (9) bekezdés szerinti bejelentésnek tartalmaznia kell:
+
+- a) annak igazolását, hogy a képzéshez szükséges infrastruktúra a szervező rendelkezésre áll,
+- b) annak igazolását, hogy az e törvényben meghatározott feltételeknek megfelelő oktatók és vizsgáztatók a szervező rendelkezésre állnak,
+- c) a képzés tárgyköreinek megfelelő tantervet és felkészítő anyagot,
+- d) a tanulmányi és vizsgaszabályzatot.
+
+(11) A (3) bekezdés b) pontja szerinti képzés tantervét és felkészítő anyagát az oktatás és vizsgáztatás módját, valamint a vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá.
+
+(12) A fogyasztóvédelmi hatóság ellenőrzi:
+
+- a) a tanterv és a felkészítő anyag vizsgálata során, hogy az abban foglaltak alkalmassá teszik-e a képzésben részt vevőt a (2) bekezdés szerinti feladatok ellátására, az tartalmazza-e valamennyi tárgykört, továbbá megfelel-e a hatályos jogszabályi előírásoknak;
+- b) a tanulmányi és vizsgaszabályzat vizsgálata során, hogy az megfelelően tartalmazza-e a képzés és a vizsga feltételeit.
+
+(13) A fogyasztóvédelmi hatóság országos nyilvántartást vezet a szervezőkről, ellenőrzi a szervezők e törvénynek és a benyújtott dokumentumoknak megfelelő működését, és a képzés feltételeit. Amennyiben a fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítja meg, törli a nyilvántartásból.
+
+(14) Eredményes vizsgát követően a fogyasztóvédelmi hatóság képesítési, bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
+
+(15) A (3) bekezdés b) pontja szerinti képzésre az vehető fel, aki legalább középfokú végzettséggel rendelkezik, valamint a képzés megkezdéséhez szükséges feltételeket teljesítette. A képzés megkezdéséhez szükséges, hogy a jelentkező
+
+- a) a képzésre a meghatározott formában jelentkezzen és
+- b) a képzés díját megfizesse.
+
+(16) A fogyasztóvédelmi hatóság minden év január 31. napjáig közzéteszi a fogyasztóvédelmi referens vizsga tematikai követelményét.
+
+(17) A (3) bekezdés b) pontja szerinti képzés szakmai követelményeit az 1. melléklet tartalmazza.
+
 ### Békéltető testület
 
 18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztó és a vállalkozás közötti, a termék minőségével, biztonságosságával, a termékfelelősségi szabályok alkalmazásával, a szolgáltatás minőségével, továbbá a felek közötti szerződés megkötésével és teljesítésével kapcsolatos vitás ügy (a továbbiakban: fogyasztói jogvita) bírósági eljáráson kívüli rendezése: e célból egyezség létrehozásának megkísérlése, ennek eredménytelensége esetén pedig az ügyben döntés hozatala a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban.
@@ -837,7 +890,7 @@ terjedhet.
 
 53. § A 2016. január 1-jét követően felálló békéltető testületek tagjainak kijelölése során figyelemmel kell lenni arra, hogy a testületi tagok legfeljebb fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte. A békéltető testületi tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja. A békéltető testület elnöke az életkor vizsgálata céljából történt adatszolgáltatásban foglalt személyes adatokat a kijelölési eljárás befejezéséig kezeli.
 
-54. §
+54. § A 17/D. § (3) bekezdésében előírt képzettség nélkül fogyasztóvédelmi referens legkésőbb 2014. július 31-éig foglalkoztatható.
 
 ### Felhatalmazás
 
@@ -898,3 +951,115 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 (4) A 19. § a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
 
 58. § A 16/B. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
+
+### 1. melléklet az 1997. évi CLV. törvényhez
+
+#### A fogyasztóvédelmi referens hatósági jellegű képzés szakmai követelményei
+
+A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terület specifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában fogyasztóvédelmi referensi feladatok ellátására.
+
+1. A képzés témakörei
+
+1. 1. A képzés tárgykörei:
+
+1.1.1. Fogyasztóvédelmi alapismeretek:
+
+a) a fogyasztóvédelem intézmény- és szabályozási rendszere,
+
+b) a fogyasztóvédelmi hatóság eljárásának szabályai,
+
+c) a tisztességes kereskedelmi gyakorlatok,
+
+d) az általános reklámtilalmak és reklámkorlátozások,
+
+e) a szavatossággal, illetve jótállással kapcsolatos minőségi kifogások intézése, a fogyasztót megillető jogok,
+
+f) a tisztességes szerződési feltételek kialakítása,
+
+g) a speciális értékesítési formákra (távollévők között kötött szerződésekre, üzlethelyiségen kívül kötött szerződésekre) vonatkozó szabályok,
+
+h) a megyei (fővárosi) kereskedelmi és iparkamara mellett működő békéltető testület eljárásának szabályai, valamint
+
+i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
+
+1.1.2. Szabadon választható szakirányok:
+
+1. 1. 2. 1. Elektronikus hírközlés szakirány
+
+a) elektronikus hírközlési szolgáltatásra vonatkozó ismeretek,
+
+b) panaszkezelés és ügyfélszolgálat szabályok.
+
+1. 1. 2. 2. Idegenforgalmi szakirány:
+
+a) utasjogok,
+
+b) panaszkezelési szabályok,
+
+c) utazási szerződésre, utazásközvetítésre vonatkozó szabályok.
+
+1. 1. 2. 3. Közszolgáltatások szakirány:
+
+a) közszolgáltatók panaszkezelése és ügyfélszolgálata,
+
+b) a közszolgáltatók hatósági ellenőrzésének rendszere,
+
+c) számlázás, elszámolás, mérés, kikapcsolás (korlátozás) és visszakapcsolás közszolgáltatókra vonatkozó szabályai, valamint a számlakép.
+
+1. 1. 2. 4. Kereskedelmi szakirány:
+
+a) általános fogyasztóvédelmi kereskedelmi alapismeretek,
+
+b) panaszkezelési és ügyfélszolgálati szabályok,
+
+c) általános termék-biztonságossági ismeretek,
+
+d) villamos és műszaki termékek biztonsága és címkézése,
+
+e) vegyipari termékek biztonsága és címkézése,
+
+f) játékok biztonsága és címkézése,
+
+g) általános élelmiszerjogi ismeretek,
+
+h) termékspecifikus reklámtilalmak és reklámkorlátozások.
+
+1. 2. A képzés során a fogyasztóvédelmi alapismeretek témaköreinek felvétele kötelező, mely mellé kötelezően választandó legalább egy szakirány.
+
+2. A képzési idő
+
+A fogyasztóvédelmi alapismeretek képzés időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+
+Az elektronikus hírközlés szakirány képzésének időtartama 20 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+
+Az idegenforgalmi szakirány képzésének időtartama 30 óra, amelyből 90% elméleti. 10% gyakorlati részből áll.
+
+A közszolgáltatások szakirány képzésének időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+
+A kereskedelmi szakirány képzésének időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+
+Az órákon való részvétel kötelező, a teljes óraszám 10%-ánál magasabb arányú hiányzás esetén a képzést meg kell ismételni.
+
+3. A vizsga
+
+A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmányi és vizsgaszabályzatban kell rögzítenie. A szervező gondoskodik a vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az ellenőrző kérdések összeállításáról és azok közzétételéről, valamint az írásbeli és szóbeli vizsgakérdések összeállításáról.
+
+A fogyasztóvédelmi referens képzésen oktató, valamint vizsgán vizsgáztató lehet, aki
+
+a) szakirányú felsőfokú végzettséggel, vagy
+
+b) legalább 3 éves, valamely fogyasztóvédelmi hatáskörrel rendelkező hatóságnál eltöltött gyakorlattal rendelkezik, vagy
+
+c) legalább 3 éven keresztül békéltető testületi tagként tevékenykedett.
+
+A képzési idő lejártát követően a résztvevő vizsgát köteles tenni. A képzés elvégzését, valamint a vizsga letételét követően fogyasztóvédelmi referens megnevezésű képesítés megszerzésére kerül sor.
+
+A fogyasztóvédelmi referens vizsgát 3 tagú vizsgabizottság bírálja el. A vizsgabizottságot elnök vezeti. Az elnököt a fogyasztóvédelmi hatóság főigazgatója jelöli ki.
+
+A vizsga írásbeli és szóbeli részből áll. Az írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a szóbeli vizsgakérdésekből szükséges ismertetnie tudását a vizsgázónak.
+
+A vizsga eredményét a pontérték alapján, %-ban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel kell ellátni. A megfelelt minősítéshez legalább 60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
+
+A képzést szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 napon belül megküldi a fogyasztóvédelmi hatóságnak.
+
+A vizsga eredményes teljesítéséről a fogyasztóvédelmi hatóság képesítési bizonyítványt állít ki, mely tartalmazza a képzésben részt vevő által elvégzett szakirányt.
