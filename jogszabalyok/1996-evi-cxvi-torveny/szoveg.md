@@ -323,23 +323,23 @@ távolságon belüli terület.
 
 (3) A nukleáris létesítmény nukleáris biztonságával kapcsolatos eljárás megindítására irányuló kérelmet kizárólag az eljárásra hatáskörrel rendelkező hatóságnál lehet előterjeszteni.
 
-(4) A kérelemre indult eljárásban – az eljárás megindítására irányuló kérelmet benyújtó ügyfelet kivéve – az ügyfelet értesíteni kell az eljárás megindításáról:
+(4) Az atomenergia-felügyeleti szerv az (1) bekezdés a) pontjában meghatározott eljárásaiban a döntése meghozatala előtt – a nyilvánosság véleményének megismerése érdekében – közmeghallgatást tart.
 
-- a) a 17. § (2) bekezdés 1., 5. és 10. pontja szerinti kérelem beérkezésétől számított harminc napon belül,
-- b) a 17. § (2) bekezdés 3., 4., 6–9. pontja szerinti kérelem beérkezésétől számított tizenöt napon belül.
+(5) Az atomenergia-felügyeleti szerv a közmeghallgatás helyéről és időpontjáról a közmeghallgatást megelőzően kormányrendeletben meghatározott határidőben
 
-(5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, őt az atomenergia-felügyeleti szerv a 17. § (2) bekezdés 1. pont b) alpontja, 5. és 10. pontja szerinti eljárásoknál a kérelem beérkezésétől számított négy hónapon belül, a 17. § (2) bekezdés 1. pont a) alpontja, valamint 3., 4. és 6–9. pontja szerinti eljárásoknál a kérelem beérkezésétől számított harminc napon belül hiánypótlásra hívja fel.
+- a) hirdetményi úton, valamint a honlapján történő közzététel útján értesíti az érintetteket,
+- b) értesíti az eljárásban közreműködő szakhatóságot.
 
 ### A hatósági engedélyezés és ellenőrzés általános rendje
 
-12. § (1) Az ügyintézés határideje:
+12. § (1) Az atomenergia-felügyeleti szerv e törvény szerinti
 
-- a) a 17. § (2) bekezdés 1. pont b) alpontja és 10. pontja szerinti ügyekben, a létesítmény üzemeltetési engedélyének módosítását igénylő 5. pont szerinti átalakítások, valamint a tervezési alapfenyegetettség első alkalommal történő megállapítása és a fizikai védelmi rendszer első alkalommal történő engedélyezése esetében hat hónap,
-- b) a 17. § (2) bekezdés 1. pont a) alpontja és 3–9. pontja szerinti ügyekben hatvan nap.
+- a) eljárásaira vonatkozó eljárási határidőket, valamint
+- b) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt
 
-(2) Az eljáró hatóság vezetője az ügyintézési határidőt indokolt esetben egy alkalommal, a 17. § (2) bekezdés 1. pont b) alpontja és 10. pontja szerinti ügyekben, valamint a létesítmény üzemeltetési engedélyének módosítását igénylő 5. pont szerinti átalakítások esetében legfeljebb kilencven nappal, a 17. § (2) bekezdés 1. pont a) alpontja és 3–9. pontja szerinti ügyekben legfeljebb harminc nappal meghosszabbíthatja. Erről értesíteni kell az ügyfelet és mindazokat, akiket az eljárás megindításáról értesítettek.
+a Kormány rendeletben állapítja meg.
 
-(3) A szakhatóság eljárására irányadó ügyintézési határidő az (1) bekezdés a) pontja, valamint a 17. § (2) bekezdés 1. pont a) alpontja esetében 45 nap, a 17. § (2) bekezdés 3–9. pontja esetében pedig 30 nap. Indokolt esetben a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt egy alkalommal tíz nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti.
+(2)–(3)
 
 (4) A radioaktív hulladékok, kiégett üzemanyagok, valamint egyéb radioaktív anyagok országhatáron át történő szállításához való hozzájárulás és engedélyezés angol vagy magyar nyelven készült okmányokkal történik.
 
@@ -965,6 +965,9 @@ kezeli.
 - s) az atomenergia alkalmazása körében eljáró független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a rájuk vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait;
 - t) a radioaktívhulladék-tároló, a radioaktív hulladék átmeneti tárolója és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket;
 - u) a 62. § (6) bekezdése szerinti testület létrehozását, összetételét, tevékenységét, álláspontja kialakításának rendjét és működésének feltételeit;
+- v) az atomenergia-felügyeleti szerv e törvény szerinti
+  - va) eljárásaira vonatkozó eljárási határidőket, valamint
+  - vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt.
 
 68. § (1) Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza
 
