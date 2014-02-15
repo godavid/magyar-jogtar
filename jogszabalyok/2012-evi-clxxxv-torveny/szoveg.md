@@ -1060,8 +1060,8 @@ részére adhatók át.
 
 (3) A felügyeleti díj mértéke
 
-- a) hulladékgazdálkodási engedélyhez kötött tevékenységek esetén 40 000 forint,
-- b) nyilvántartásba vételhez kötött tevékenység esetén 25 000 forint.
+- a) hulladékgazdálkodási engedélyhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 40 000 forint,
+- b) nyilvántartásba vételhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 25 000 forint.
 
 83. § (1) A közszolgáltató által az elszámolással, számlázással, díjfizetéssel kapcsolatban, illetve a díjhátralék esedékességét követően megtett intézkedésekre, valamint a hulladékgazdálkodási közszolgáltatást érintő értesítési, tájékoztatási, szolgáltatásnyújtási kötelezettségre vonatkozó rendelkezések fogyasztókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni azzal, hogy a társasházakról szóló törvény szerinti társasházi közösség az Fgytv. alkalmazásában fogyasztónak minősül.
 
