@@ -937,7 +937,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (4) A termelői szerveződésen vagy a termelői szerveződés, valamint annak tagjai kizárólagos tulajdonában lévő vállalkozáson keresztül történő forgalomba-hozatal után fizetendő felügyeleti díj mértéke a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás előző évi nettó árbevételéből, a (2) bekezdés szerinti tevékenységhez kapcsolódó rész 0,1%-a, amennyiben a felügyeleti díjfizetési kötelezettséget a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás szerződésben átvállalta a fizetésre kötelezett termelői szerveződés tagjától.
 
-(5) A felügyeleti díj mértéke élelmiszert kizárólag a végső fogyasztó számára értékesítő felügyeleti díj fizetésére kötelezett
+(5) A felügyeleti díj mértéke az elsődlegesen végső fogyasztó számára értékesítő felügyeleti díj fizetésére kötelezett
 
 - a) mikrovállalkozás és e törvény végrehajtására kiadott rendeletben meghatározott kistermelő esetén évi húszezer forint;
 - b) kisvállalkozás esetén évi hétszázezer forint.
@@ -1155,9 +1155,9 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 - a) ha az eljárás alá vont személy a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás, az eljárás alá vont személy éves nettó árbevételének 10%-áig, de legfeljebb ötszázmillió forintig, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb ötmilliárd forintig;
 - b) az a) pont hatálya alá nem tartozó esetben 500 ezer forintig, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén az eljárás alá vont személy éves nettó árbevételének 10%-áig, az Szt. hatálya alá nem tartozó eljárás alá vont személy esetében tízmillió forintig terjedhet.
 
-(2) Ha az eljárás alá vont személy a tevékenységét a 23. § (1), illetve (2) bekezdésének be nem tartásával végezte, az élelmiszer-ellenőrzési bírság, illetve a takarmány-ellenőrzési bírság legkisebb összege tizenötezer forint, legmagasabb összege pedig – az (1) bekezdéstől eltérően – százmillió forint, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén kétmilliárd forint lehet.
+(2) Ha az eljárás alá vont személy a tevékenységét a 14/A § (1) bekezdésének, vagy a 23. § (1), illetve (2) bekezdésének be nem tartásával végezte, az élelmiszer-ellenőrzési bírság, illetve a takarmány-ellenőrzési bírság legkisebb összege tizenötezer forint, legmagasabb összege pedig – az (1) bekezdéstől eltérően – százmillió forint, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén kétmilliárd forint lehet.
 
-(3) A növényvédelmi bírság és az élelmiszerlánc-felügyeleti bírság legmagasabb összege tizenötmillió forint, legkisebb összege tizenötezer forint.
+(3) A növényvédelmi bírság és az élelmiszerlánc-felügyeleti bírság legmagasabb összege százötvenmillió forint, legkisebb összege tizenötezer forint.
 
 (4) Az (1) bekezdés szerinti nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
@@ -1183,9 +1183,9 @@ esetén.
 60. § (1) Növényvédelmi bírságot kell kiszabni azzal szemben, aki
 
 - a) a zárlati károsítóval való fertőzés azonnali felszámolására vonatkozó kötelezettségét megszegi, zárlati károsítót terjeszt, vagy a terjedést elősegíti, a zárlati intézkedést megszegi;
-- b) növényvédő szerrel olyan cselekményt valósít meg, amellyel az ember vagy az állat egészségét, az élelmiszer-, illetve takarmánybiztonságot vagy a környezetet veszélyezteti;
+- b) engedélyköteles termékkel olyan cselekményt valósít meg, amellyel az ember vagy az állat egészségét, az élelmiszer-, illetve takarmánybiztonságot vagy a környezetet veszélyezteti;
 - c) a 17. § (1) bekezdés c) pontjában előírt kötelezettségét az élelmiszerlánc-felügyeleti szerv kötelezése ellenére, továbbá a 17. § (4) bekezdésében előírt, a parlagfű elleni védekezési kötelezettségét elmulasztja;
-- d) engedélyköteles terméket előírt képesítés, illetve engedély nélkül vagy engedélytől eltérő módon forgalomba hoz, hirdet, nyilvánosság számára ajánl, illetve felhasznál;
+- d) engedélyköteles terméket engedély nélkül vagy engedélytől eltérő módon, illetve a tevékenységhez előírt képesítés és azt igazoló hatályos hatósági engedély nélkül forgalomba hoz, hirdet, nyilvánosság számára ajánl, illetve felhasznál;
 - e) az engedélyköteles termék csomagolására vonatkozóan e törvényben és a végrehajtására kiadott jogszabályban előírt szabályokat megsérti;
 - f) az adott évi analitikailag tiszta hatóanyag benyújtására vonatkozó kötelezettségének nem tesz eleget;
 - g) a méhészetek növényvédelmi szempontból elrendelt vándoroltatási tilalmát megszegi;
@@ -1194,7 +1194,7 @@ esetén.
 - j) a zárlati károsítóval való fertőzés bejelentésére vonatkozó kötelezettségét megszegi;
 - k) az élelmiszerlánc-felügyeleti szerv által elrendelt vegyszeres növényvédelmi munkavégzést akadályozza;
 - l) a növényvédelmi hatósági tevékenységet akadályozza, a hatóság intézkedését figyelmen kívül hagyja, az állami vagy közérdekű védekezés végrehajtását akadályozza;
-- m) a növényvédelemmel kapcsolatban előírt vagy elrendelt növény-egészségügyi, kísérleti, termelési, megsemmisítési, előállítási, formálási, kiszerelési, csomagolási, raktározási, szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi;
+- m) a növényvédelemmel kapcsolatban előírt vagy elrendelt növény-egészségügyi, kísérleti, termelési, megsemmisítési, előállítási, formálási, kiszerelési, csomagolási, jelölési, raktározási, szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi;
 - n) az előírt vagy elrendelt növény-egészségügyi korlátozásokat megszegi;
 - o) az e törvény, valamint e törvény végrehajtására kiadott jogszabályban előírt adatszolgáltatási, nyilvántartási, nyilvántartásba vételi kötelezettségének nem tesz eleget;
 - p) engedélyköteles terméket műszakilag alkalmatlannak minősített vagy érvényes műszaki engedéllyel nem rendelkező géppel, illetve berendezéssel árutermelő gazdaságban juttat ki;
@@ -1217,7 +1217,7 @@ esetén.
 
 takarmány-ellenőrzési bírságot szab ki.
 
-(2) A takarmány-ellenőrzési bírságot (1) bekezdés a)–e) és g) pontjában foglalt esetben a 14. § (1), (3)–(5) bekezdésében, az (1) bekezdés f) pontjában foglalt esetben a 14. § (7) bekezdésében meghatározott felelőssel szemben kell kiszabni.
+(2) A takarmány-ellenőrzési bírságot (1) bekezdés a)–e) és g) pontjában foglalt esetben a 14. § (1), (3)–(5), (10) és (11) bekezdésében, az (1) bekezdés f) pontjában foglalt esetben a 14. § (7) bekezdésében meghatározott felelőssel szemben kell kiszabni.
 
 (3) Ha a (2) bekezdés szerinti felelős kilétét nem lehet megállapítani, a bírságot azzal a takarmány-vállalkozással szemben kell kiszabni, akinél a jogsértést megalapozó takarmányt az élelmiszerlánc-felügyeleti szerv megtalálta.
 
@@ -1260,13 +1260,15 @@ esetén.
   - am) az ökológiai gazdálkodásra illetve az integrált gazdálkodásra;
   - an) a gyógynövénytermékek előállítására, illetve forgalomba hozatalára;
   - ao) a gombaszakellenőri tevékenység folytatására
+  - ap) az élelmiszerláncban felhasználásra szánt fertőtlenítőszerek előállítására, forgalmazására, felhasználására;
+  - aq) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép előállítására és forgalomba hozatalára
 
 vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előírásokat megszegi;
 
 - b) azzal szemben, aki az élelmiszerlánc-felügyeleti szerv hatósági tevékenységét akadályozza, intézkedését figyelmen kívül hagyja;
 - c) azzal az élelmiszer- vagy takarmány-vállalkozással szemben, amelynek eljárását az 58. §-ban foglaltak vonatkozásában az élelmiszerlánc-felügyeleti szerv nem kielégítőnek ítéli meg;
 - d) az élelmiszer- vagy takarmány-vállalkozóval szemben, amennyiben az élelmiszer- vagy takarmány-vállalkozással szemben élelmiszer- vagy takarmány-ellenőrzési bírság kerül kiszabásra, és az élelmiszer- vagy takarmány-vállalkozó – bár azt megtehette volna – nem gondoskodott megfelelő módon a bírság kiszabására okot adó jogsértés megelőzéséről vagy azt az ő utasítására követték el;
-- e) a tanúsító szervezettel szemben, ha az ökológiai termeléssel kapcsolatos tanúsító eljárása során az Európai Unió közvetlenül alkalmazandó jogi aktusa, e törvény vagy az e törvény végrehajtására kiadott jogszabály rendelkezését megsérti.
+- e) a tanúsító szervezettel szemben, ha működése vagy az ökológiai gazdálkodással és integrált gazdálkodással kapcsolatos ellenőrzési, tanúsító eljárása során az Európai Unió közvetlenül alkalmazandó jogi aktusa, e törvény vagy az e törvény végrehajtására kiadott jogszabály rendelkezését megsérti.
 
 (2) A bírság ismételten is kiszabható.
 

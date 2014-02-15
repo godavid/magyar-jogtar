@@ -379,7 +379,7 @@ esetében.
 
 (6) Az újrahasznosítás bejelentése esetén az eljárásra a 6/A. § (1)–(3) bekezdésében foglaltakat kell alkalmazni azzal, hogy a 6/A. § (3) bekezdése szerinti fölvédelmi bírság kiszabásának nincs helye.
 
-(7) Az újrahasznosítás elfogadásáról szóló határozatban rendelkezni kell a végleges más célú hasznosításról szóló jogerős döntésben meghatározott és befizetett földvédelmi járulék összege, valamint az újrahasznosított területre az 1. melléklet 1. pontja alapján kiszámított földvédelmi járulék összege különbözetének a jogosult javára történő visszatérítéséről.
+(7) Az újrahasznosítás elfogadásáról szóló határozat alapján, annak jogerőre emelkedését követő 60 napon belül, a jogosult kérheti az újrahasznosított területre az 1. melléklet 1. pontja alapján kiszámított földvédelmi járulék 50%-ának megfelelő pénzösszeg megfizetését, feltéve, hogy a jogosult a célkitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított földvédelmi járulékot maradéktalanul megfizette. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelmet ahhoz az ingatlanügyi hatósághoz kell benyújtani, amely az újrahasznosítás elfogadásáról szóló első fokú határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 ### Más célú hasznosítás engedély nélkül
 
@@ -439,18 +439,20 @@ esetében.
 
 ### A földvédelmi és az újrahasznosítási eljárás igazgatási szolgáltatási díja
 
-18. § (1) Az első fokon kérelemre, illetve bejelentésre induló földvédelmi eljárásért – ide értve az ingatlanügyi hatóság külön jogszabály szerinti, a termőföld mennyiségi védelmének érvényre juttatásával kapcsolatos szakhatósági közreműködést is –
+18. § (1) Az első fokon kérelemre, illetve bejelentésre induló földvédelmi eljárásért – ideértve az ingatlanügyi hatóságnak a külön jogszabály szerinti, a termőföld mennyiségi védelmének érvényre juttatásával kapcsolatos szakhatósági közreműködését is –, valamint a földvédelmi eljárásban igénybe vehető valamennyi jogorvoslati eljárásért a (2) bekezdésben foglaltak alapján, a (3) bekezdésben meghatározott összegű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
 
-- a) egy földrészlet esetében 30 000 Ft,
-- b) 2–5 db földrészlet esetén 30 000 Ft, valamint földrészletenként további 7000 Ft,
-- c) 6–25 db földrészlet esetén 58 000 Ft, valamint földrészletenként további 2000 Ft,
-- d) 26 db vagy annál több földrészlet esetén 98 000 Ft, valamint földrészletenként további 1000 Ft,
+(2) A díj mértéke – a (4) bekezdésben meghatározott eset kivételével – az eljárás tárgyát képező földrészletek darabszáma alapján, a (3) bekezdésben meghatározott összegű, de legfeljebb 120 000 Ft.
 
-összegű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
+(3) A díj összege
 
-(2) A földvédelmi eljárásban igénybe vehető valamennyi jogorvoslati eljárásért az (1) bekezdésben meghatározott díjat kell fizetni.
+- a) 1 földrészlet esetén 30 000 Ft,
+- b) 2–5 földrészlet esetén az első földrészlet után fizetendő 30 000 Ft, és a további földrészletek után egyenként további 7000 Ft,
+- c) 6–25 földrészlet esetén az első 5 földrészlet után fizetendő 58 000 Ft, és a további földrészletek után egyenként további 2000 Ft,
+- d) 26 vagy annál több földrészlet esetén az első 25 földrészlet után fizetendő 98 000 Ft, és a további földrészletek után egyenként további 1000 Ft.
 
-(3) Az első fokon bejelentésre indult újrahasznosítási eljárásért, valamint az újrahasznosítási eljárásban igénybe vehető valamennyi jogorvoslati eljárásért az (1) bekezdésben meghatározott díjat kell fizetni.
+(4) A 13/A. §-ban foglalt jogorvoslati eljárásban a díj mértéke a határozatban szereplő földrészletek közül a fellebbezéssel érintett földrészletek darabszáma alapján számított, a (3) bekezdésben meghatározott összegű.
+
+(5) Az első fokon bejelentésre indult újrahasznosítási eljárásért, valamint az újrahasznosítási eljárásban igénybe vehető valamennyi jogorvoslati eljárásért a (2) bekezdésben meghatározott módon, a (3) bekezdésben meghatározott összegű díjat kell fizetni.
 
 19. § (1) A díjat a földvédelmi eljárás lefolytatását kérelmezőnek, illetve bejelentőnek – ideértve azon eljárás kérelmezőjét is, mely eljárásban az ingatlanügyi hatóság szakhatóságként működik közre – kell megfizetnie.
 
@@ -484,7 +486,8 @@ esetében.
 - f) vízkárelhárítási töltés és műtárgyai létesítése vagy bővítése,
 - g) állandó jellegű vízkárelhárítási és öntözési célú tározó létesítése vagy bővítése,
 - h) belterületbe vonás esetén állami, önkormányzati bérlakásépítés megvalósítása,
-- i) belterületbe vonás esetén új község alakítása, településegyesítés megszüntetése
+- i) belterületbe vonás esetén új község alakítása, településegyesítés megszüntetése,
+- j) termálvíz-hasznosító létesítményekből kibocsátott használt termálvizek átmeneti tározására és természetközeli tisztítására szolgáló – lehetőség szerint többcélú – állandó jellegű tározók létesítése és bővítése,
 
 céljából engedélyezi.
 
@@ -521,7 +524,8 @@ engedélyezi.
 
 - a) végleges más célú hasznosítás esetén – a termőföld belterületbe vonásának esetét kivéve – az igénybevétel megkezdése napján,
 - b) termőföld belterületbe vonásának engedélyezése esetén, illetőleg engedély nélküli más célú hasznosítás esetén az engedélyező, illetőleg az eredeti állapot helyreállítását elfogadó, illetve a más célú hasznosítás folytatásához hozzájáruló határozat jogerőre emelkedését követő 30 napon belül,
-- c) időleges más célú hasznosítás esetén az eredeti állapot helyreállítását elfogadó határozat jogerőre emelkedését követő 30 napon belül
+- c) időleges más célú hasznosítás esetén az eredeti állapot helyreállítását elfogadó határozat jogerőre emelkedését követő 30 napon belül,
+- d) a 14. § (9) bekezdésében meghatározott esetben a végleges más célú hasznosítás engedélyezéséről szóló határozat jogerőre emelkedését követő 30 napon belül
 
 esedékes.
 
@@ -529,9 +533,20 @@ esedékes.
 
 (5) A járulék fizetése alól felmentés nem adható és részletfizetési vagy egyéb kedvezmény sem engedélyezhető.
 
-(6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósul meg, a járulék megfizetésének esedékessé válása napjától számított 4 éven belül a járulékkülönbözet visszafizetését kérheti az igénybevevő. Ha a más célú hasznosításról szóló engedély időbeli hatálya még nem járt le, az igénybevevőnek a kérelemben nyilatkoznia kell arról, hogy az engedélyezett, de más célra nem hasznosított termőföld más célú hasznosításának jogosultságáról lemond.
+(6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya már lejárt, a járulék megfizetésének esedékessé válása napjától számított 4 éven belül a járulékkülönbözet visszafizetését kérheti az igénybevevő. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelmet ahhoz az ingatlanügyi hatósághoz kell benyújtani, amely az engedélyről szóló elsőfokú határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
+
+(6a) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya még nem járt le, az igénybevevő a (6) bekezdésben meghatározottak szerint kérheti a járulékkülönbözet visszafizetését, azzal, hogy a kérelmében nyilatkoznia kell arról, hogy az engedélyezett, de más célra nem hasznosított termőföld más célú hasznosításának jogosultságáról lemond.
 
 (7) A (6) és a (6a) bekezdés alkalmazásában a más célú hasznosítást akkor lehet megvalósítottnak tekinteni, ha a más célú hasznosítás engedélyezéséről szóló jogerős határozattal érintett termőföld területe az ingatlan-nyilvántartás alapján már nem minősül termőföldnek.
+
+(8) Ha a termőföld más célú hasznosításáról szóló engedélynek a 13. § (1) bekezdése alapján az időbeli hatálya lejárt, vagy az engedély hatályon kívül helyezésére került sor, azonban
+
+- a) az engedélyező határozatban megállapított földvédelmi járulékot a fizetésre kötelezett befizette, és
+- b) a termőföld
+  - ba) igénybevételére, illetve
+  - bb) belterületbe vonás engedélyezése esetén a fekvéshatár-változásnak az ingatlan-nyilvántartásban történő átvezetésére nem került sor,
+
+a földvédelmi járulékot megfizető személy vagy szervezet a járulék összegének visszafizetését az engedély hatályának lejárta napját követő 1 éven belül kérheti. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelmet ahhoz az ingatlanügyi hatósághoz kell benyújtani, amely az engedélyről szóló elsőfokú határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 23. § (1) A járulék felét kell fizetni, ha a termőföldet engedély alapján és annak megfelelően
 
@@ -593,17 +608,47 @@ bejelentését;
 
 (4) Az ingatlanügyi hatóság a kiszabott földvédelmi járulékokról és bírságokról nyilvántartást vezet.
 
-(5) A járuléknak a 13. § (1) bekezdésén, illetve a 22. § (6) bekezdésén alapuló visszafizetéséről, valamint a (4) bekezdés szerinti nyilvántartásból való törléséről a földügyért felelős miniszter dönt. A járulék visszafizetése átutalással teljesíthető.
+(4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséről az ingatlanügyi hatóságnak a kormányhivatal útján felterjesztett kérelme alapján a földügyért felelős miniszter dönt, ha
 
-(6) A járulék visszafizetésére irányuló kérelmet az igénybevevőnek a járulék megfizetését elrendelő ingatlanügyi hatóságnál kell előterjesztenie. Az ingatlanügyi hatóság a visszafizetés iránti kérelemben foglaltakat helyszíni szemle alapján megvizsgálja, és ha a járulék visszafizetését megalapozottnak tartja, a kérelmet a kormányhivatal útján felterjeszti a földügyért felelős miniszter részére.
+- a) a fizetésre kötelezett szervezet jogutód nélkül megszűnt, vagy
+- b) az adóhatóság igazolása alapján az adók módjára behajtandó köztartozás miatt a fizetésre kötelezettel szemben indult végrehajtási eljárás
+  - ba) nem vezetett eredményre, illetve
+  - bb) a végrehajtáshoz való jog elévült. Az ingatlanügyi hatóságnak a kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
 
-(7) A (6) bekezdés szerinti felterjesztéshez csatolni kell:
+(5) Az ingatlanügyi hatósághoz benyújtott,
 
-- a) a járulék visszafizetésére irányuló kérelmet, amely tartalmazza a 13. § (1) bekezdése, illetve a 22. § (6) bekezdése szerinti nyilatkozatot, valamint annak a pénzintézetnek és számlaszámnak a megjelölését, amelyre a kérelmező a visszafizetést kéri;
-- b) a járulék megfizetését, valamint ezeknek a 26. § (1) bekezdése szerinti továbbutalását igazoló okiratot;
-- c) a megfizetett járulék megállapításáról szóló jogerős ingatlanügyi hatósági határozatot;
-- d) az ingatlanügyi hatóság által – kérelem alapján – megtartott helyszíni szemléről készült jegyzőkönyvet;
-- e) az ingatlanügyi hatóságnak a más célú hasznosítás engedélyezéséről szóló határozat hatályon kívül helyezéséről szóló jogerős határozatát a 13. § (1) bekezdésén alapuló kérelem esetén.
+- a) a 15/B. § (7) bekezdése szerinti esetben és az ott meghatározott határozatban a járulék 50%-ának megfelelő összeg megfizetése,
+- b) a járuléknak a 22. § (6), (6a) és (8) bekezdésén alapuló visszafizetése
+
+iránti kérelemről – a (7) bekezdésben meghatározott esetek kivételével – a földügyért felelős miniszter dönt.
+
+(6) Ha a kérelem nem tartalmazza a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározott adatokat, az ingatlanügyi hatóság a kérelmezőt hiánypótlásra szólítja fel.
+
+(7) Ha a kérelmező a (6) bekezdésben meghatározott esetben a hiánypótlási felhívásnak határidőben nem tesz eleget, az eljárást az ingatlanügyi hatóság szünteti meg. Ha a kérelem a 15/B. § (7) bekezdésében, illetve a 22. § (6) vagy (8) bekezdésében meghatározott határidőn túl került benyújtásra, a kérelmet az ingatlanügyi hatóság utasítja el.
+
+(8) A 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározottaknak megfelelő adattartalmú kérelem beérkezését, illetve a hiányosan benyújtott kérelem esetén a hiánypótlás határidőben történő teljesítését követő 30 napon belül az ingatlanügyi hatóság helyszíni szemlét tart a
+
+- a) 15/B. § (7) bekezdésén alapuló kérelem esetén az újrahasznosítás elfogadásáról,
+- b) 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasznosítás engedélyezéséről,
+- c) 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről
+
+szóló jogerős határozatban szereplő földrészleteken.
+
+(9) A helyszíni szemlét követő 15 napon belül az ingatlanügyi hatóság a kormányhivatal útján a kérelmet – a (10), illetve a (11) bekezdésben meghatározott mellékletekkel együtt – felterjeszti döntésre a földügyért felelős miniszter részére.
+
+(10) Az (5) bekezdés a) pontja szerinti kérelem esetében a kérelem felterjesztéséhez csatolni kell:
+
+- a) a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított járulék megfizetését, valamint annak az (1) és (2) bekezdés szerinti továbbutalását igazoló okiratot;
+- b) az újrahasznosítás elfogadásáról szóló jogerős ingatlanügyi hatósági határozat hitelesített másolatát;
+- c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyv hiteles másolatát.
+
+(11) Az (5) bekezdés b) pontja szerinti kérelem esetében a felterjesztéshez csatolni kell:
+
+- a) a járulék megfizetését, valamint ezeknek az (1) és (2) bekezdés szerinti továbbutalását igazoló okiratot;
+- b) a 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasznosítás engedélyezéséről, a 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről szóló jogerős határozat hitelesített másolatát;
+- c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyvet.
+
+(12) Ha a miniszter az (5) bekezdés a) és b) pontjában meghatározott kérelemnek helyt ad, a kifizetést átutalással kell teljesíteni.
 
 ### FÖLDMINŐSÍTÉS
 
@@ -637,6 +682,8 @@ bejelentését;
 összegű igazgatási szolgáltatási díjat kell fizetni.
 
 (2) A földminősítési eljárás díjára vonatkozóan egyebekben a földvédelmi eljárás díjára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(3) A (2) bekezdés szerinti díj magában foglalja az ingatlan-nyilvántartásban a földminősítési eljárás eredményeként bekövetkezett változás átvezetésének díját.
 
 30/B. § A földminősítő igazolvány kiadásának, kicserélésének és pótlásának díja 2000 Ft.
 
@@ -955,7 +1002,10 @@ ellehetetleníti.
 
 64. § (1) A gyümölcsültetvény-kataszterbe bejelentett adatok valódiságát a mezőgazdasági igazgatási szerv a földmérési és térinformatikai államigazgatási szerv közreműködésével ellenőrzi.
 
-(2) Aki valótlan adatokat jelent, vagy az adatszolgáltatást felszólítás ellenére sem teljesíti, azt a mezőgazdasági igazgatási szerv – a jogsértés súlyát, ismételtségét figyelembe véve – 20 000 forinttól 50 000 forintig terjedő bírsággal sújtja.
+(2) A mezőgazdasági igazgatási szerv – a jogsértés súlyát, ismételtségét figyelembe véve –
+
+- a) 20 000 forinttól 50 000 forintig terjedő bírsággal sújtja azt, aki a gyümölcsültetvény-kataszterbe valótlan adatokat jelent be vagy az adatszolgáltatási kötelezettségének felszólítás ellenére sem tesz eleget,
+- b) 50 000 forinttól 200 000 forintig terjedő bírsággal sújtja azt, aki a gyümölcsültetvényt engedély nélkül vagy a telepítési engedélyben foglaltaktól eltérően telepíti.
 
 64/A. § (1) Amennyiben a gyümölcsültetvény használója a gyümölcsültetvényét egy éven keresztül nem műveli, a növénytermesztési hatóság az érintett földrészlet tulajdonosának egyidejű értesítése mellett felszólítja, hogy tegyen eleget az 5. § (2) bekezdése szerinti hasznosítási kötelezettségének. Ha a földhasználati nyilvántartásban nincs bejegyzett földhasználó, a növénytermesztési hatóság az érintett földrészlet tulajdonosát szólítja fel a gyümölcsültetvény művelési ágnak megfelelő hasznosítására.
 
