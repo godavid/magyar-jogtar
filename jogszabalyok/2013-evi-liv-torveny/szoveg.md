@@ -38,7 +38,26 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 (3) A szolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
 
-(4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített víziközmű-szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásban terhelte.
+(4)
+
+4/A. § (1) Ha a víziközmű-szolgáltató az általa nyújtott közszolgáltatást közbeiktatott személy vagy szerződéses kapcsolati lánc (a továbbiakban együtt: közvetített szolgáltatás) útján juttatja el a lakossági felhasználó, illetve jogszabály alapján vele egy díjkategóriába tartozó személy (a továbbiakban együtt: rezsicsökkentésre jogosult) részére, legfeljebb a 4. § (1) bekezdésben meghatározott díjat alkalmazhatja.
+
+(2) A közvetített szolgáltatásban részes közbenső szereplő a fogyasztásmérő leolvasásával egyidejűleg a víziközmű-szolgáltató részére adatot szolgáltat, hogy az elszámolási időszak fogyasztása milyen arányban oszlik meg a vele szerződéses kapcsolatban álló rezsicsökkentésre jogosult és más felhasználók között. A víziközmű-szolgáltató ezen adatszolgáltatás alapján külön-külön számlát bocsát ki a víziközmű-szolgáltatást közvetítető személy részére a rezsicsökkentésre jogosult és más felhasználók víziközmű-szolgáltatási díjáról. Ha az adatszolgáltatást a közvetített szolgáltatásban részes közbenső szereplő határidőben nem teljesíti, a víziközmű-szolgáltató csak egy, a díjcsökkentést nem tartalmazó számlát bocsát ki.
+
+(3) A 4. § (1) bekezdésben meghatározott mértékű díjcsökkentés a (2) bekezdés szerinti adatszolgáltatás elmulasztása esetén is megilleti a rezsicsökkentésre jogosultakat, melynek terhét a víziközmű-szolgáltatást közvetített szolgáltatásként nyújtó személy viseli.
+
+(4) A közvetített szolgáltatásban részes közbenső szereplő az általa kibocsátott számlában legfeljebb a 4. § (1) bekezdésben meghatározott díjat alkalmazhatja.
+
+(5) A közvetített szolgáltatásban részes közbenső szereplő a (4) bekezdés szerint kibocsátott számlán szereplő fizetendő összeg vonatkozásában, annak kiküldésével egyidejűleg, egyértelműen, írásban köteles tájékoztatást nyújtani a rezsicsökkentésre jogosult részére az e § szerinti díjcsökkentésről. A tájékoztatásban külön, összegszerűen fel kell tüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint összesítve az egyes törvényeknek a rezsicsökkentés végrehajtásával összefüggő módosításáról szóló 2013. évi CCXXXI. törvény hatálybalépését követő időszakban.
+
+(6) A víziközmű-szolgáltató bármikor jogosult betekinteni a (2) bekezdés szerinti adatszolgáltatást megalapozó adatokba, számításokba, illetve az alkalmazott módszertanba.
+
+4/B. § A víziközmű-szolgáltató legfeljebb a 4. § (1) bekezdésében meghatározott díjat alkalmazhatja
+
+- a) a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti személyes gondoskodást nyújtó bentlakásos szociális intézmény és a támogatott lakhatás, valamint
+- b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozó otthon és javítóintézet
+
+esetében, ha a szolgáltatás után a fenntartó a központi költségvetésről szóló törvény szerinti támogatásban részesül.
 
 5. § Az egyetemes szolgáltató, a távhőszolgáltató, a víziközmű-szolgáltató, valamint a hulladékgazdálkodási közszolgáltató (a továbbiakban: szolgáltató) – a törvény hatálybalépése után, első alkalommal 30 napon belül, ezt követően – a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az e törvényben foglalt előírások teljesülését.
 

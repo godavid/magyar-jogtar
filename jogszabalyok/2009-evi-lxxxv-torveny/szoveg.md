@@ -188,6 +188,8 @@ vonatkoznak.
 - a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik, és
 - b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
 
+14/A. § A pénzforgalmi szolgáltatási keretszerződésben a pénzforgalmi szolgáltató nem köthet ki olyan szerződési feltételt, amely alapján a vele szerződő fogyasztó számára a Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel fizetési műveleti értékhatárának felső mértékét napi százötvenezer forintnál alacsonyabb összegben egyoldalúan meghatározza.
+
 ### Szerződés módosítása és megszüntetése
 
 15. § (1) A keretszerződés módosítását a pénzforgalmi szolgáltató kizárólag a 8. §-ban meghatározott módon kezdeményezheti a módosítás hatálybalépését megelőzően legalább két hónappal.
@@ -442,6 +444,8 @@ köteles megőrizni, illetve tárolni.
 (13) A fogyasztóval kötött szerződésben – annak részét képező egyéb szerződési feltételben – megállapított díj, költség vagy ezek számítási módja nem módosítható a fogyasztó számára kedvezőtlenül a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított rendelkezésekkel összefüggésben.
 
 (14) A pénzforgalmi szolgáltató az e §-ban foglaltaktól a fogyasztó számára kedvezőbb feltételt is megállapíthat.
+
+36/B. § A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke műveletenként hetvenötezer forintnál alacsonyabb összeg nem lehet.
 
 ### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
 
@@ -739,6 +743,8 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 (3) A 36/A. § (4) bekezdés c) pontja szerinti nyilatkozatát a fogyasztó első alkalommal 2013. december 1-jét követően, 2014. január 20-áig teheti meg a pénzforgalmi szolgáltatónál.
 
 (4) A pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított 36/A. § (1) bekezdése szerinti, díjtól és költségtől mentes készpénzkifizetés, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel első alkalommal 2014. február hónapban vehető igénybe.
+
+(5) A rezsicsökkentéssel és a fogyasztóvédelemmel kapcsolatos egyes törvények módosításáról szóló 2014. évi XI. törvénnyel megállapított 14/A. §-t a rezsicsökkentéssel és a fogyasztóvédelemmel kapcsolatos egyes törvények módosításáról szóló 2014. évi XI. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
 
 ### Jogharmonizációs záradék
 
