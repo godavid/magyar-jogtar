@@ -109,7 +109,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (4) Az (1)–(3) bekezdésben meghatározott korlátozás érvényesítése érdekében a vállalkozás vagy annak képviselője kétség esetén felhívja a fogyasztót életkorának hitelt érdemlő igazolására. Az életkor megfelelő igazolásának hiányában a termék értékesítését, illetve kiszolgálását meg kell tagadni.
 
-(5) A játékszoftver gyártója az olyan játékszoftver forgalmazása esetén, amely alkalmas a kiskorúak fizikai, szellemi, lelki vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, köteles a „Tizennyolc éven aluliak számára nem ajánlott!” szöveget a játékszoftver csomagolásán jól észlelhető módon feltüntetni. A kötelezettséget az internetes lehívásra közzététel útján forgalmazott játékszoftver esetén a technikai sajátosságoknak megfelelő eltéréssel, a játékszoftver lehívása előtt kell teljesíteni.
+(5) A játékszoftver gyártója az olyan játékszoftver forgalmazása esetén, amely alkalmas a tizennyolcadik életévüket be nem töltött személyek fizikai, szellemi, lelki vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, köteles a „Tizennyolc éven aluliak számára nem ajánlott!” szöveget a játékszoftver csomagolásán jól észlelhető módon feltüntetni. A kötelezettséget az internetes lehívásra közzététel útján forgalmazott játékszoftver esetén a technikai sajátosságoknak megfelelő eltéréssel, a játékszoftver lehívása előtt kell teljesíteni.
 
 (6) A játékszoftver gyártója abban az esetben köteles az (5) bekezdésben foglalt kötelezettségnek eleget tenni, ha előzőleg nem csatlakozott az Egységes Európai Játékinformációs Rendszerhez (Pan European Game Information – PEGI) és nem alkalmazza a PEGI által megállapított, korhatár-besorolásra vonatkozó előírásokat. Ha az (5) bekezdés szerinti kötelezettséget – az e bekezdésben foglalt kivétellel – a gyártó nem teljesíti, a játékszoftver forgalmazója a szoftvert az (5) bekezdésben meghatározott szöveg feltüntetésével hozhatja forgalomba.
 
@@ -202,7 +202,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - a) államilag elismert fogyasztóvédelmi szakképesítést vagy szakképzettséget szerzett, vagy
 - b) részére iskolarendszeren kívüli hatósági jellegű képzést követően képesítési bizonyítvány kiadására került sor.
 
-(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében, ahol
+(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében és a fővárosban, ahol
 
 - a) székhelyén, telephelyén vagy fióktelepén kiskereskedelmi tevékenységet folytat, továbbá
 - b) közszolgáltatási tevékenységet folytató, valamint törvény alapján ügyfélszolgálat működtetésére kötelezett vállalkozás esetén ügyfélszolgálattal rendelkezik.
@@ -219,25 +219,25 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (10) A (9) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
-- a) annak igazolását, hogy a képzéshez szükséges infrastruktúra a szervező rendelkezésre áll,
-- b) annak igazolását, hogy az e törvényben meghatározott feltételeknek megfelelő oktatók és vizsgáztatók a szervező rendelkezésre állnak,
+- a) annak igazolását, hogy a képzéshez szükséges infrastruktúra a szervező rendelkezésére áll,
+- b) annak igazolását, hogy az e törvényben meghatározott feltételeknek megfelelő oktatók és vizsgáztatók a szervező rendelkezésére állnak,
 - c) a képzés tárgyköreinek megfelelő tantervet és felkészítő anyagot,
 - d) a tanulmányi és vizsgaszabályzatot.
 
-(11) A (3) bekezdés b) pontja szerinti képzés tantervét és felkészítő anyagát az oktatás és vizsgáztatás módját, valamint a vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá.
+(11) A (3) bekezdés b) pontja szerinti képzés tantervét és felkészítő anyagát, az oktatás és vizsgáztatás módját, valamint a vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá.
 
 (12) A fogyasztóvédelmi hatóság ellenőrzi:
 
 - a) a tanterv és a felkészítő anyag vizsgálata során, hogy az abban foglaltak alkalmassá teszik-e a képzésben részt vevőt a (2) bekezdés szerinti feladatok ellátására, az tartalmazza-e valamennyi tárgykört, továbbá megfelel-e a hatályos jogszabályi előírásoknak;
 - b) a tanulmányi és vizsgaszabályzat vizsgálata során, hogy az megfelelően tartalmazza-e a képzés és a vizsga feltételeit.
 
-(13) A fogyasztóvédelmi hatóság országos nyilvántartást vezet a szervezőkről, ellenőrzi a szervezők e törvénynek és a benyújtott dokumentumoknak megfelelő működését, és a képzés feltételeit. Amennyiben a fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítja meg, törli a nyilvántartásból.
+(13) A fogyasztóvédelmi hatóság országos nyilvántartást vezet a szervezőkről, ellenőrzi a szervezők e törvénynek és a benyújtott dokumentumoknak megfelelő működését és a képzés feltételeit. Amennyiben a fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítja meg, törli a nyilvántartásból.
 
-(14) Eredményes vizsgát követően a fogyasztóvédelmi hatóság képesítési, bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
+(14) Eredményes vizsgát követően a fogyasztóvédelmi hatóság képesítési bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
 
 (15) A (3) bekezdés b) pontja szerinti képzésre az vehető fel, aki legalább középfokú végzettséggel rendelkezik, valamint a képzés megkezdéséhez szükséges feltételeket teljesítette. A képzés megkezdéséhez szükséges, hogy a jelentkező
 
-- a) a képzésre a meghatározott formában jelentkezzen és
+- a) a képzésre a meghatározott formában jelentkezzen, és
 - b) a képzés díját megfizesse.
 
 (16) A fogyasztóvédelmi hatóság minden év január 31. napjáig közzéteszi a fogyasztóvédelmi referens vizsga tematikai követelményét.
@@ -381,7 +381,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 - a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét,
 - b) a fogyasztói jogvitával érintett vállalkozás nevét, székhelyét vagy érintett telephelyét,
-- c) – ha az illetékességet a 20. § (3) bekezdése szerint a szerződés teljesítésének helyére kívánja alapítani – a fogyasztónak a teljesítés helyére vonatkozó nyilatkozatát,
+- c) – ha a fogyasztó az illetékességet a 20. § (3) bekezdésére kívánja alapítani – a 20. § (1) és (2) bekezdése szerint illetékes békéltető testület helyett kérelmezett testület megjelölését,
 - d) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
 - e) a fogyasztó nyilatkozatát a 27. §-ban előírt feltétel teljesítéséről,
 - f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárás nem indult, keresetlevél beadására, illetve fizetési meghagyás kibocsátása iránti kérelem előterjesztésére nem került sor,
@@ -956,7 +956,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 #### A fogyasztóvédelmi referens hatósági jellegű képzés szakmai követelményei
 
-A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terület specifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában fogyasztóvédelmi referensi feladatok ellátására.
+A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a területspecifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában meghatározott fogyasztóvédelmi referensi feladatok ellátására.
 
 1. A képzés témakörei
 
@@ -988,7 +988,7 @@ i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
 
 a) elektronikus hírközlési szolgáltatásra vonatkozó ismeretek,
 
-b) panaszkezelés és ügyfélszolgálat szabályok.
+b) panaszkezelési és ügyfélszolgálati szabályok.
 
 1. 1. 2. 2. Idegenforgalmi szakirány:
 
@@ -1014,11 +1014,11 @@ b) panaszkezelési és ügyfélszolgálati szabályok,
 
 c) általános termék-biztonságossági ismeretek,
 
-d) villamos és műszaki termékek biztonsága és címkézése,
+d) villamos és műszaki termékek biztonságossága és címkézése,
 
-e) vegyipari termékek biztonsága és címkézése,
+e) vegyipari termékek biztonságossága és címkézése,
 
-f) játékok biztonsága és címkézése,
+f) játékok biztonságossága és címkézése,
 
 g) általános élelmiszerjogi ismeretek,
 
@@ -1028,15 +1028,15 @@ h) termékspecifikus reklámtilalmak és reklámkorlátozások.
 
 2. A képzési idő
 
-A fogyasztóvédelmi alapismeretek képzés időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+A fogyasztóvédelmi alapismeretek képzés időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-Az elektronikus hírközlés szakirány képzésének időtartama 20 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+Az elektronikus hírközlés szakirány képzésének időtartama 20 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-Az idegenforgalmi szakirány képzésének időtartama 30 óra, amelyből 90% elméleti. 10% gyakorlati részből áll.
+Az idegenforgalmi szakirány képzésének időtartama 30 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-A közszolgáltatások szakirány képzésének időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+A közszolgáltatások szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-A kereskedelmi szakirány képzésének időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+A kereskedelmi szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
 Az órákon való részvétel kötelező, a teljes óraszám 10%-ánál magasabb arányú hiányzás esetén a képzést meg kell ismételni.
 
@@ -1046,7 +1046,7 @@ A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmá
 
 A fogyasztóvédelmi referens képzésen oktató, valamint vizsgán vizsgáztató lehet, aki
 
-a) szakirányú felsőfokú végzettséggel, vagy
+a) szakirányú felsőfokú végzettséggel rendelkezik, vagy
 
 b) legalább 3 éves, valamely fogyasztóvédelmi hatáskörrel rendelkező hatóságnál eltöltött gyakorlattal rendelkezik, vagy
 
