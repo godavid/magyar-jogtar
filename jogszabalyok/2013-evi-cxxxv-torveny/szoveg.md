@@ -426,7 +426,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 17/K. § (1) A szövetkezeti hitelintézet kötvénykibocsátásához, tőkéjének leszállításához illetve felemeléséhez a Takarékbank Zrt. kifejezett, előzetes, írásbeli hozzájárulása is szükséges. A Takarékbank Zrt. a 17/Q. § (4) bekezdésében foglalt esetekben jogosult illetve köteles megtagadni a hozzájárulást illetve akkor is, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
 
-(2)
+(2) Szövetkezeti hitelintézet esetében a cégjegyzésre – ideértve a fizetési számla feletti rendelkezést is – és a szövetkezet nevében pénzügyi szolgáltatási tevékenységgel kapcsolatos kötelezettségvállalásra két igazgatósági tag, illetve két ügyvezető együttesen jogosult.
 
 (3) A (2) bekezdés szerinti együttes aláírási jog – az igazgatóság által jóváhagyott belső szabályzatban rögzített eljárási rend szerint – átruházható. A szövetkezeti hitelintézettel jogviszonyba lépő személy kérésére be kell mutatni a szövetkezeti hitelintézet nevében kötelezettséget vállalók aláírási jogát rögzítő belső szabályzatot.
 
