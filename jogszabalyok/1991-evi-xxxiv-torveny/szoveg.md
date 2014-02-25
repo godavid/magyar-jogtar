@@ -16,7 +16,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 - a) sorsolásos játék szervezése,
 - b)
-- c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkaszinó) alapítása, működtetése,
+- c) szerencsejátékok lebonyolítására létrejött szervezet (a továbbiakban: játékkaszinó) működtetése,
 - d) kártyaterem üzemeltetése,
 - e) távszerencsejáték szervezése,
 - f)
@@ -115,6 +115,10 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 (2)
 
 (3) A szerencsejátékokkal kapcsolatos koncessziós eljárásra – az e törvényben foglalt eltérésekkel – a Ktv. rendelkezéseit kell alkalmazni.
+
+(4) Ha a megbízható szerencsejáték szervezővel megkötött koncessziós szerződést aláíró által az (1) bekezdés és a Ktv. 20. § (1) bekezdése szerint megalapított koncessziós társaság tagja olyan koncessziós társaság, amely koncesszió-köteles tevékenység folytatására jogosultként koncesszió-köteles tevékenységet folytat, a Ktv. 26. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy esetében a későbbi koncessziós szerződésben meghatározott időtartam lejártakor kell a végelszámolást lefolytatni.
+
+(5) Az 1. § (3) bekezdés c) pontja szerinti tevékenység tekintetében a megbízható szerencsejáték szervező által megalapított koncessziós társaságra a Ktv. 22. §-át nem kell alkalmazni.
 
 ### 2. CÍM — A szerencsejáték szervezés állami felügyelete
 
@@ -818,11 +822,11 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - 27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
 - 28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 - 29. Játékosi egyenleg: távszerencsejáték esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték-szervező által vezetett egyenleg.
-- 30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, valamint annak többségi tulajdonosa, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet, és
-  - a) valamennyi közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és egyszer sem esett harminc napot meghaladó késedelembe;
-  - b) egyik bankszámláján sem volt azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene végrehajtási eljárás;
-  - c) a működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként öt millió forint összeget meghaladó bírsággal sújtották volna;
-  - d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet Magyarországon;
+- 30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+  - a) valamennyi, az állami adóhatóság által nyilvántartott, 500 000 Ft-ot meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
+  - b) egyik bankszámláján sem volt 500 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene 500 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárás,
+  - c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként öt millió forint összeget meghaladó bírsággal sújtották volna,
+  - d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
   - e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
 
 ### Záró rendelkezések
@@ -871,6 +875,8 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 40/A. § (1) Az e törvény alapján a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosításáról szóló 2012. évi CXLIV. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően kiállított játékterem-engedélyek, valamint a pénznyerőautomata üzemeltetésére jogosító engedélyek a Módtv. hatálybalépését követő napon hatályukat vesztik. Az engedélyeket a szerencsejáték szervező a Módtv. hatálybalépését követő 15 napon belül köteles leadni az állami adóhatóságnak. E törvénynek a Módtv.-nyel megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) A Módtv. hatálybalépését megelőző időszakra vonatkozó, e törvény szerinti adófizetési, bevallási és adatszolgáltatási kötelezettséget e törvény a Módtv. hatálybalépését megelőző napon hatályos rendelkezései szerint kell teljesíteni. E törvény a Módtv.-nyel hatályon kívül helyezett rendelkezéseibe ütköző jogsértésekkel kapcsolatos hatósági eljárás lefolytatására, valamint az esetleges jogkövetkezmények megállapítására e törvény a Módtv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+
+40/B. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Módtv.2.) 295. §-ával megállapított 1. § (3) bekezdés c) pontját, 6. § (4) és (5) bekezdését, valamint 37. § 30. pontját a Módtv.2. hatályba lépését követően indult eljárásokban kell alkalmazni.
 
 ### Jogszabály tervezetének egyeztetése
 

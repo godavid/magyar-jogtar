@@ -621,7 +621,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (8) A személyazonosító igazolványt a (7) bekezdés szerinti esetben az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
 
-(9) Ha a személyazonosító igazolvány igénylésére – 14. életévét betöltött polgár kivételével – annak eltulajdonítása miatt, a (2) bekezdés a)–i) pontja szerinti adatok változatlansága mellett kerül sor, a személyazonosító igazolványt az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
+(9) Ha a személyazonosító igazolvány igénylésére – 14. életévét be nem töltött polgár kivételével – annak eltulajdonítása miatt, a (2) bekezdés a)–i) pontja szerinti adatok változatlansága mellett kerül sor, a személyazonosító igazolványt az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
 
 29/A. § (1) A központi szerv a jogszabályban meghatározott figyelmeztető jelzés elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a személyazonosító igazolványnak az adatait, amelynek elvesztését, eltulajdonítását bejelentették, illetve az a jogszabályban meghatározott egyéb okból érvénytelenítésre került és ezt a tényt a személyiadat- és lakcímnyilvántartásba bejegyezték.
 

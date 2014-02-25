@@ -520,6 +520,8 @@ használhatja fel.
 
 (4) Az agrárkamara hatáskörébe utalt közigazgatási ügyekben a főigazgató a közigazgatási szerv vezetőjeként jár el. Ezekben az ügyekben ügyintézőként csak az járhat el, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint köztisztviselőnek vagy ügykezelőnek kinevezhető.
 
+27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, akkor – törvény eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete, másodfokon az agrárkamara országos ügyintéző szervezete jár el.
+
 28. § Az agrárkamara országos, megyei ügyfélszolgálati rendszert működtet. Az agrárkamara az ügyfélszolgálaton keresztül teljesíti a 14. és 16. §-ban előírt igazgatási és szolgáltatási jellegű feladatait. Az ügyfélszolgálat működési területének kijelölését, működési rendjét az elnökség által elfogadott szervezeti és működési szabályzat tartalmazza, melyet a főigazgató köteles előterjeszteni.
 
 ### Az agrárkamara tisztségviselőire vonatkozó közös rendelkezések
@@ -792,7 +794,7 @@ használhatja fel.
 
 55. § E törvénynek a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2012. évi CXXXII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-56. § (1) Akinek kamarai tagsági viszonya kizárólag az egyes agrár tárgyú törvények módosításáról szóló 2013. évi CCXLVI. törvény ( a továbbiakban: Mód. tv.) 18. § b)–c) pontjával megállapított rendelkezéseken alapul, tagsági viszonya 2013. december 31. napján a törvény alapján megszűnik, az általuk befizetett 2013. évre esedékes kamarai tagdíjat kérelemre 60 napon belül vissza kell fizetni.
+56. § (1) Akinek kamarai tagsági viszonya kizárólag a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2013. évi CCXLVII. törvény (a továbbiakban: Mód. tv.) 18. § b)–c) pontjával megállapított rendelkezéseken alapul, tagsági viszonya 2013. december 31. napján a törvény alapján megszűnik, az általuk befizetett 2013. évre esedékes kamarai tagdíjat kérelemre 60 napon belül vissza kell fizetni.
 
 (2) E törvénynek a Mód. tv. 15–16. §-ában foglalt rendelkezések alapján az agrárgazdasági tevékenységet folytató gazda, gazdálkodó szervezet tagsági viszonya e törvény alapján 2014. január 1. napjával keletkezik.
 

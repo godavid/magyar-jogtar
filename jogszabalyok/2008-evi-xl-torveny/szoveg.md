@@ -1133,6 +1133,28 @@ földgázrendszerhez való hozzáférés
 
 (6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – az iparügyekért felelős miniszter rendelete, a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóságot kormányrendelet tartalmazza.
 
+(6a) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincsen helye.
+
+(6b) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság az eljárása során, a műszaki-biztonsági felülvizsgálat szakszerűségének és a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági megfelelőségének megállapítására, az eljáró hatóságot irányító területi szerv által vezetett hatósági nyilvántartásban szereplő szakértőt, vagy ha nem áll rendelkezésre elegendő szakértő, igazságügyi szakértőt rendel ki.
+
+(6c) Nem rendelhető ki szakértőként az, aki a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóság eljárásával érintett felhasználási helyen, az e törvény szerinti gáz csatlakozóvezeték- és felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységet végzett a kirendelést megelőző 3 éven belül.
+
+(6d) A hatósági nyilvántartásban az a gázszerelő szerepelhet, aki:
+
+- a) a nyilvántartásba való felvételi kérelmét a hatóság részére benyújtja,
+- b) a gázszerelők engedélyezéséről és nyilvántartásáról szóló jogszabály szerinti, a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosító engedéllyel rendelkezik,
+- c) az engedély megszerzésétől számított legalább egy éves szakmai gyakorlattal rendelkezik, és
+- d) a b)–c) pont szerinti feltételek meglétét igazolja.
+
+(6e) A hatóság által vezetett hatósági nyilvántartás tartalmazza a szakértő nevét, születésének helyét és időpontját, a szakértő képesítésének megnevezését, az általa végezhető tevékenység meghatározását. A nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(6f) A nyilvántartást vezető hatóság a szakértők jegyzékét honlapján közzéteszi, mely tartalmazza a szakértő nevét, és hozzájárulása esetén értesítési címét, telefonszámát, faxszámát, elektronikus postacímét.
+
+(6g) A nyilvántartást vezető hatóság a szakértőt a nyilvántartásból törli, ha
+
+- a) ezt a szakértő kéri, vagy
+- b) a 88. § (3) bekezdése szerinti nyilvántartásból a gázszerelő törlésre kerül.
+
 (7) A fogyasztói főelzáró karbantartása és javítása, valamint egyetemes szolgáltatásra jogosult felhasználók tekintetében – igénybejelentés esetében – a csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálata a földgázelosztó kötelessége, saját költségén.
 
 (7a) A (7) bekezdés szerinti műszaki-biztonsági felülvizsgálat nem minősül a földgázelosztó e törvény szerinti engedélyköteles tevékenységének.
@@ -2354,7 +2376,7 @@ tartalmazza.
 - 5.
 - 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők engedélyének kiadásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
-(3)
+(3) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során feltárt hibák kijavítására kötelezésre, a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének kezelésére vonatkozó részletes eljárási szabályokat, valamint az eljárás során kirendelt szakértő tevékenysége folytatásának részletes feltételeit.
 
 (4) Felhatalmazást kap a miniszter, hogy a 141/G. § (1) bekezdése szerinti ajánlattétel napját rendeletben határozza meg.
 

@@ -2930,7 +2930,7 @@ különbözetének megtérítése iránti igényt.
 
 (3) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az (1) bekezdésben meghatározott szervek területi szerveinek vezetője főosztályvezetői, a szervezeti egységek vezetője főosztályvezető-helyettesi vagy osztályvezetői, a helyi szervek vezetője főosztályvezetői, főosztályvezető-helyettesi vagy osztályvezetői, a szervezeti egységek vezetője főosztályvezető-helyettesi vagy osztályvezetői beosztási illetményre jogosult.
 
-245/I. § A belügyminiszter irányítása alá tartozó fegyveres szervek, valamint az Országgyűlési Őrség hivatásos állományának tiszthelyettesi és zászlósi rendfokozati állománycsoportba tartozó tagja havonta 14 000 Ft kiegészítő juttatásra jogosult, amelyet az illetménnyel együtt kell folyósítani.
+245/I. § A belügyminiszter irányítása alá tartozó fegyveres szervek, valamint az Országgyűlési Őrség hivatásos állományának tiszthelyettesi és zászlósi rendfokozati állománycsoportba tartozó tagja havonta 24 000 Ft kiegészítő juttatásra jogosult.
 
 245/J–245/M. §
 
@@ -3645,7 +3645,9 @@ A pótlékok mértéke:
 
 336. § E törvénynek a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény 6. §-ával megállapított 44. § (1) bekezdés k) pontját és 44. § (4) bekezdését azon személyek tekintetében is alkalmazni kell, akiknek a szolgálati viszonyát a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény hatálybalépését megelőzően az 56. § (2) bekezdés f) pontja alapján felmentéssel meg kellett volna szüntetni, ugyanakkor az 58. §-ban meghatározott okok miatt a felmentésre nem kerülhetett sor.
 
-337–338. §
+337. § A 245/I. §-ban meghatározott kiegészítő juttatásnak a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított szabályait 2014. január 1-jétől kell alkalmazni.
+
+338. §
 
 339–340. §
 

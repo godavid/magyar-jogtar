@@ -221,7 +221,7 @@ rendelkezik;
 19. § Magyarország menedékesként ideiglenes védelemben részesíti azt a külföldit, aki Magyarország területére tömegesen menekülők olyan csoportjába tartozik, amelyet
 
 - a) az Európai Unió Tanácsa – a lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimumkövetelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről szóló, 2001. július 20-i, 2001/55/EK tanácsi irányelvben (a továbbiakban: 2001/55/EK irányelv) meghatározott eljárás szerint – ideiglenes védelemre jogosultként elismert, vagy
-- b) az Országgyűlés ideiglenes védelemre jogosultként ismert el, mivel a csoportba tartozó személyek hazájukból fegyveres konfliktus, polgárháború vagy etnikai összecsapás, illetve az emberi jogok általános, módszeres vagy durva megsértése – így különösen kínzás, kegyetlen, embertelen vagy megalázó bánásmód – miatt elmenekülni kényszerültek.
+- b) a Kormány ideiglenes védelemre jogosultként ismert el, mivel a csoportba tartozó személyek hazájukból fegyveres konfliktus, polgárháború vagy etnikai összecsapás, illetve az emberi jogok általános, módszeres vagy durva megsértése – így különösen kínzás, kegyetlen, embertelen vagy megalázó bánásmód – miatt elmenekülni kényszerültek.
 
 ### A menedékeskénti elismerés feltételei
 
@@ -266,15 +266,15 @@ rendelkezik;
 
 (2) Amennyiben az Európai Unió Tanácsa az ideiglenes védelemre jogosultként történő elismerés – (1) bekezdésben meghatározott időtartam lejártát követő – fenntartásáról határoz, az ideiglenes védelem a tanácsi határozatban foglalt időtartammal meghosszabbodik.
 
-24. § (1) A 19. § b) pontján alapuló ideiglenes védelem az Országgyűlés határozatában foglalt időtartam lejártáig vagy tény bekövetkeztéig áll fenn.
+24. § (1) A 19. § b) pontján alapuló ideiglenes védelem a Kormány normatív kormányhatározatában foglalt időtartam lejártáig vagy tény bekövetkeztéig áll fenn.
 
-(2) Amennyiben az Országgyűlés az ideiglenes védelemre jogosultként történő elismerés – (1) bekezdésben meghatározott időtartam lejártát vagy tény bekövetkeztét követő – fenntartásáról határoz, az ideiglenes védelem az Országgyűlés határozatában foglalt időtartammal meghosszabbodik.
+(2) Amennyiben a Kormány az ideiglenes védelemre jogosultként történő elismerés – (1) bekezdésben meghatározott időtartam lejártát vagy tény bekövetkeztét követő – fenntartásáról határoz, az ideiglenes védelem a Kormány normatív kormányhatározatában foglalt időtartammal meghosszabbodik.
 
 ### A menedékes jogállás megszűnése
 
 25. § (1) A menedékes jogállás megszűnik, ha
 
-- a) az ideiglenes védelem időtartama lejár, vagy – a 19. § b) pontján alapuló elismerés esetén – az Országgyűlés által megjelölt tény bekövetkezik;
+- a) az ideiglenes védelem időtartama lejár, vagy – a 19. § b) pontján alapuló elismerés esetén – a Kormány által megjelölt tény bekövetkezik;
 - b) az Európai Unió Tanácsa a 19. § a) pontja szerinti elismerést visszavonja;
 - c) a menedékes Magyarországon letelepedett jogállást szerez;
 - d) a menedékest a menekültügyi hatóság menekültként vagy oltalmazottként ismeri el;
@@ -1002,7 +1002,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 ### IX. Fejezet — A MENEDÉKESKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
-76. § (1) Az Országgyűlés – a Kormány előterjesztése alapján – a 19. § b) pontja szerinti ideiglenes védelemre jogosultként történő elismerésről határozatot hoz.
+76. § (1) A Kormány – a miniszter előterjesztése alapján – a 19. § b) pontja szerinti ideiglenes védelemre jogosultként történő elismerésről normatív kormányhatározatot hoz.
 
 (2) Az (1) bekezdés szerinti határozat tartalmazza azt az időtartamot, amelynek lejártával, illetve annak a ténynek a megjelölését, amelynek bekövetkeztével az ideiglenes védelem megszűnik.
 

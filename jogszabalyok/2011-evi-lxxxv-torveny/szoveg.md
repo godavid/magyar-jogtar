@@ -21,7 +21,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - e) a gumiabroncs;
 - f) a reklámhordozó papír.
 
-(4) A (3) bekezdés a) és c)–f) pontja szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét a 2010. január 1-jén hatályos Kombinált Nomenklatúra szerint az 1. melléklet határozza meg. A (3) bekezdés b) pontja szerinti termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő csomagolószer-katalógus kódszámaival kerülnek meghatározásra.
+(4) A (3) bekezdés szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét a 2010. január 1-jén hatályos Kombinált Nomenklatúra szerint az 1. melléklet határozza meg. A termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő kódszámokkal kerülnek azonosításra.
 
 (5) Új termékdíjköteles termék jön létre, ha a feldolgozás, megmunkálás következtében a termék 1. mellékletben meghatározott vámtarifaszáma, az e törvény végrehajtására kiadott kormányrendeletben meghatározott környezetvédelmi termékdíjkódjának vagy csomagolószer esetében a csomagolószer-katalógus szerinti kódszámának első három jegye megváltozik.
 
@@ -30,6 +30,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 2. § E törvény alkalmazásában:
 
 - 1. anyagában történő hasznosítás: a hulladéknak a hulladékról szóló törvény (a továbbiakban: Ht.) szerinti anyagában történő hasznosítása;
+- 1a. alapanyagként történő felhasználás: a termékdíjköteles termék oly módon történő felhasználása, amely során a termékdíjköteles termék a technológiai eljárás szerint épül be egy másik termékbe, elveszítve az eredeti tulajdonságait;
 - 2. anyagáram: az egyes termékáramokon belül elkülönülő önálló hasznosítási kötelezettséggel rendelkező anyag, illetve termék;
 - 3. ártalmatlanítás: a hulladéknak a Ht. szerinti ártalmatlanítása;
 - 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
@@ -122,6 +123,8 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - c) megsemmisítése, alaktalanítása, elfogyasztása;
 - d) minden más, az a)–c) pontokban nem említett használata, ideértve a szolgáltatásnyújtás keretében történő használatot, felhasználást vagy használatba adást is, ami nem a számvitelről szóló törvényben meghatározott saját termelésű készlet létrehozását eredményezi.
 
+(3a) A termékdíjköteles termék alapanyagként történő felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék nem minősül saját célú felhasználásnak. A gyártási selejt, hulladék a hulladékkezelési teljesítményben nem számolható el.
+
 (4) A külföldön előállított csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a termékről, kivéve a belföldi gazdálkodó tulajdonában lévő újrahasználható csomagolószer elválasztását.
 
 (5) Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:
@@ -134,7 +137,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 
 olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj nem került megfizetésre,
 
-- b) a termékdíjköteles termék mennyiségében bekövetkezett, a törvény végrehajtási rendeletében meghatározott elszámolható hiányt meghaladó hiány és a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
+- b) a termékdíjköteles termék éves kibocsátási mennyiségéből 0,5%-ot meghaladó mennyiségű ténylegesen bekövetkezett hiány mennyiségére, vagy a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
 
 (6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
 
@@ -229,7 +232,7 @@ keletkezik.
 
 7. § (1) A termékdíj alapja a termékdíjköteles termék – ideértve a belföldi előállítású csomagolást alkotó csomagolóeszközt is – tömege.
 
-(2) A termékdíj tételeit – a (3) bekezdésben foglalt kivétellel – a törvény 2. melléklete állapítja meg.
+(2) A termékdíj tételeit – a (3) bekezdésben foglalt kivétellel – a 2. melléklet állapítja meg (kollektív teljesítés).
 
 (3) Egyéni hulladékkezelés esetén a termékdíj tételeit és kiszámításának módját a törvény 3. melléklete tartalmazza.
 
@@ -266,6 +269,10 @@ teljesíti.
 
 (7) A kötelezett a termékdíj-kötelezettségre kiható bármely változást, annak bekövetkeztét követő 15 napon belül köteles az állami adóhatóságnak bejelenteni.
 
+(8) Az egyéni hulladékkezelést választó kötelezett az (1) és (3) bekezdésben meghatározott bejelentést termék- és anyagáramonként, tárgyévre vonatkozóan teszi meg.
+
+(9) A kötelezett az e § szerinti bejelentését az e törvény végrehajtására kiadott rendeletben meghatározott adattartalommal, elektronikus úton teljesíti az állami adóhatóság felé. A termékdíj-kötelezettségre kiható változásnak minősül, ha az adatok bármelyike módosul.
+
 #### 8/A. Nyilvántartás-vezetési kötelezettség
 
 10/A. § (1) A kötelezett – e törvényben, a Ht.-ben, valamint ezek felhatalmazása alapján kiadott jogszabályokban meghatározottak szerint – a termékdíjköteles termékekkel, hulladékaikkal, továbbá a nem csomagolószerként forgalomba hozott, e törvény végrehajtási rendeletében meghatározott csomagolószer-katalógusban szereplő árukkal kapcsolatos kötelezettségek teljesítésének ellenőrizhetősége céljából a valóságot (tényhelyzetet) tükröző nyilvántartást vezet.
@@ -278,9 +285,11 @@ teljesíti.
 
 (2) A termékdíjátalány-fizetésre jogosult kötelezett, a tárgyévet követő év január hónap 20. napjáig teljesíti bevallási kötelezettségét.
 
-(3) A termékdíjátalány fizetésére jogosult mezőgazdasági termelőt a (2) bekezdés szerinti bevallási és nyilvántartási kötelezettség nem terheli, tárgyévi átalány megfizetési kötelezettségét a tárgyévet követő év április 20-ig teljesíti.
+(3) A termékdíjátalány fizetésére jogosult mezőgazdasági termelőt a (2) bekezdés szerinti bevallási, nyilvántartási, továbbá számlazáradékolási kötelezettség nem terheli, tárgyévi átalány megfizetési kötelezettségét a tárgyévet követő év április 20-ig teljesíti.
 
 (4) A kötelezett a bevallás adatait forintban, a tömeg adatokat pedig – két tizedesjegy pontossággal – kilogrammban tünteti fel.
+
+(5) A kötelezettnek az e § szerinti bevallási kötelezettségét számviteli bizonylattal, és az e törvény végrehajtására kiadott rendeletben meghatározott nyilvántartás szerinti adattartalommal megegyezően kell teljesítenie az állami adóhatóság felé.
 
 #### 10. A befizetési kötelezettség
 
@@ -292,9 +301,9 @@ teljesíti.
 
 #### 10/A. Termékdíj-előleg megállapítási, bevallási, fizetési kötelezettség
 
-12/A. § (1) A kötelezettet – a 3. § (7) bekezdése, valamint a 15. § (2) bekezdése szerinti kötelezett kivételével – a tárgyév (adóév) negyedik negyedévére nézve – e törvény, valamint a végrehajtására kiadott kormányrendeletben meghatározottak szerint – termékdíj-előleg megállapítási, bevallási és megfizetési kötelezettség terheli.
+12/A. § (1) A kötelezettet – a 3. § (7) bekezdése, valamint a 15. § (2) bekezdése szerinti kötelezett kivételével – a tárgyév (adóév) negyedik negyedévére nézve termékdíj-előleg megállapítási, bevallási és megfizetési kötelezettség terheli.
 
-(2) A termékdíj-előleg mértéke a tárgyév (adóév) első három negyedéve után fizetett termékdíj harmadának a 80%-a.
+(2) A termékdíj-előleg mértéke a tárgyév (adóév) első három negyedéve után fizetett termékdíj harmadának a 80%-a, amelyben figyelembe kell venni az erre az időszakra vonatkozóan elfogadott önellenőrzés, pótlólag benyújtott bevallás alapján befizetett vagy visszafizetett összeget is.
 
 (3) A kötelezett a termékdíj-előlegre vonatkozó bevallási kötelezettségének a harmadik negyedévre vonatkozó bevallás benyújtásával együtt tesz eleget.
 
@@ -314,15 +323,26 @@ teljesíti.
 
 (2) A termékdíj-átalányfizetést választó kötelezett a 13. § (1) bekezdés b) pontja szerinti számlazáradékot – az átalánytermékdíj-fizetéssel teljesített termékdíj-kötelezettség esetében – nem tüntethet fel a számlán.
 
+(3) Az (1) bekezdés b) pontja alapján a visszaigénylésre jogosult vevő igénye alapján a kötelezettnek, illetve a kötelezett vevőinek a számlán fel kell tüntetni a termékdíjköteles termék környezetvédelmi termékkódját (a továbbiakban: KT kód), csomagolószer esetében a csomagolószer-katalógus kódját (a továbbiakban: CsK kód), a termékdíj mértékét és összegét, továbbá a termékdíj megfizetését (bevallását) igazoló dokumentumok adatait. Megfizetést igazoló dokumentumok adatai közül – legalább a termék első belföldi forgalombahozatalakor – a kötelezett által kibocsátott számla számát, keltét, a kötelezett nevét, címét, adószámát a számlának tartalmaznia kell.
+
+(4) Nem kell a számlán záradékot feltüntetni – a 3. § (6) bekezdés c) pont ca) alpontjában foglaltak alkalmazása kivétellel – a csomagolószer kiskereskedelmi értékesítése esetén.
+
 ### III. Fejezet — A TERMÉKDÍJ-KÖTELEZETTSÉG TELJESÍTÉSÉNEK KÜLÖNÖS SZABÁLYAI
 
 #### 12. A termékdíj-kötelezettség átvállalása
 
 14. § (1) A termékdíj-kötelezettség számla vagy szerződés alapján, az e törvényben, továbbá az e törvény végrehajtására kiadott rendeletben meghatározott módon átvállalható.
 
-(2) A termékdíj-fizetési kötelezettséget e § alapján átvállalóra a kötelezettre vonatkozó szabályok alkalmazandóak.
+(2) A termékdíj-kötelezettséget e § alapján átvállalót kötelezettnek kell tekinteni és a termékdíj-kötelezettséggel összefüggő jogok az átvállaló felet illetik, továbbá a kötelezettségek az átvállaló felet terhelik.
 
-(3)
+(3) A termékdíj-kötelezettség
+
+- a) számlán történő átvállalása esetén, vagy
+- b) szerződéssel történő átvállalás esetén a szerződés hatályosságának időszaka alatt,
+
+az 5. § (1) bekezdésében meghatározott időpontban száll át az átvállalóra.
+
+(3a) Hibás teljesítés esetén a termékdíj-kötelezettség nem száll át az átvállalóra. Hibás a teljesítés, ha az átvállalás nem a kötelezettől történt, a záradékszöveg nem kerül a számlán feltüntetésre vagy a termékdíj nem a hatályos díjtétellel került kiszámításra. Nem minősül a követelmény hibás teljesítésének a betűhiba, ide nem értve a záradékszövegben történő jogszabályi helyre való hivatkozást.
 
 (4) Számla alapján a termékdíj-fizetési kötelezettséget belföldi előállítású termékdíjköteles egyéb kőolajtermék esetén az első belföldi forgalomba hozó, annak a kibocsátott számlán történő feltüntetésével a kötelezettől átvállalhatja.
 
@@ -351,7 +371,9 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 
 (6) Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor vagy saját célú felhasználáskor keletkezik.
 
-(7)
+(7) Szerződés alapján legfeljebb 3 év időtartamra vállalható át a kötelezettség.
+
+(8) Az (5) bekezdés a) pontja szerint tárgynegyedévben átvállalt termékdíjköteles termék mennyisége 60%-ának külföldre értékesítését az átvállalás tárgynegyedévének utolsó napjától, legfeljebb 365 napon belül kell igazoltan külföldre kiszállítani, ellenkező esetben a 366. napon a termékdíj-kötelezettség – az átvállalás napján hatályos szabályok szerint – beáll az átvállalónál, a ki nem szállított mennyiség tekintetében. A kiszállítás mértékének elmaradása esetén az állami adóhatóság mulasztási bírságot szabhat ki.
 
 #### 13. Termékdíjátalány
 
@@ -377,6 +399,26 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 
 (3) Termék- és anyagáramonként az energetikai hasznosítás legfeljebb 25%-os arányban vehető figyelembe.
 
+#### 14/A. Az egyéni hulladékkezelés
+
+16/A. § (1) Egyéni hulladékkezelést teljesítő kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen történő gyűjtést jelenti, ha erre a célra közösen finanszírozott és működtetett gyűjtőrendszert hoznak létre, és ezt az ellenőrzés során igazolni is tudják.
+
+(2) Az egyéni hulladékkezelést teljesítő kötelezett jogosult a magánszemély vevőtől lakossági gyűjtésben a 3. mellékletében meghatározott kategóriák szerinti azonos anyagáramú homogén hulladékok visszagyűjtésére, ideértve azon csomagolási hulladékok visszavételét is, amelyet más hozott forgalomba.
+
+(3) Az e törvényben meghatározott egyéni hulladékkezelés teljesítése során a kötelezett az általa tárgyévben elsőként belföldi forgalomba hozott vagy saját célra felhasznált termékdíjköteles termékek mennyiségét veszi alapul. A gyártási selejt vagy hulladék nem vehető figyelembe a hulladékhasznosítási teljesítményben, ha arra a környezetvédelmi termékdíj nem került megfizetésre.
+
+(4) Amennyiben az egyéni hulladékkezelést teljesítő kötelezett saját célú felhasználás mellett a telephelyén magánszemély vevőtől is végez gyűjtést, az azonos típusú hulladékok tekintetében a saját célú felhasználás és forgalomba hozott termékdíjköteles termék együttes mennyiségeire vonatkozóan az összes gyűjtött hulladékból összesítve teljesítheti a kötelezett a hulladékkezelést.
+
+(5) Az egyéni hulladékkezelők adott termék- és anyagáramra vonatkozóan teljesíthetik kötelezettségüket begyűjtést végző teljesítésben közreműködőn keresztül is.
+
+(6) A teljesítésben közreműködők az általuk gyűjtött hulladék mennyiségének az ugyanezen hulladéknak az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OHÜ) felé elszámolt mennyiségével csökkentett mennyiségét számolhatják el a szerződött egyéni hulladékkezelők felé.
+
+(7) A teljesítésben közreműködők a szerződött egyéni hulladékkezelők (6) bekezdésben meghatározott termékeire vonatkozó kibocsátási arányának megfelelően osztják el az egyéni teljesítők között az általuk begyűjtött és hasznosításra átadott mennyiséget.
+
+(8) Az egyéni hulladékkezelést végző kötelezett negyedéves bevallásában a tárgyév befejezett negyedéveinek és a bevallás benyújtásáig hasznosításra történő, igazolt átvételének mennyiségeit összesítve, valamint kibocsátásainak mennyiségeit összesítve veszi figyelembe, és ennek megfelelően számolja ki a 3. mellékletben meghatározott eljárás szerint a lezárt negyedévek összesített kötelezettségét, amelyből a tárgyévben lezárt negyedévek után megfizetett termékdíjat levonja. Az így számított különbözet képezi az adott negyedév után megfizetendő termékdíjat. Amennyiben a számítás eredménye negatív, akkor az adott negyedévben a megfizetést nem kell teljesíteni.
+
+(9) Amennyiben a tárgyévben hulladékhasznosításra átadott mennyiség tényleges hasznosítása a hasznosítást végzők tárgyévet követő február 20-ig kiadott igazolásai alapján maradéktalanul nem teljesült, akkor az egyéni hulladékkezelést végzőnek a tárgyévi hulladékkezelési számítást el kell végezni a (8) bekezdésben meghatározott eljárás szerint, de a ténylegesen hasznosított, a (3) bekezdés szerinti mennyiség figyelembevételével. A termékdíj-különbözetet a tárgyév utolsó negyedévi bevallásának önellenőrzésével kell bevallani és megfizetni.
+
 ### IV. Fejezet — A TERMÉKDÍJKÖTELES TERMÉKEKKEL KAPCSOLATOS HULLADÉKGAZDÁLKODÁS SZERVEZÉSE
 
 #### 15. A Termékdíj Bizottság
@@ -387,7 +429,7 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 
 #### 16. Az Országos Hulladékgazdálkodási Ügynökség
 
-19. § (1) Az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OHÜ) a hulladékká vált termékdíjköteles termékek hasznosításának az érdekében a környezetvédelemért felelős miniszter által alapított, a magyar állam kizárólagos tulajdonában álló társaság, amelynek üzletrésze forgalomképtelen.
+19. § (1) Az OHÜ a hulladékká vált termékdíjköteles termékek hasznosításának az érdekében a környezetvédelemért felelős miniszter által alapított, a magyar állam kizárólagos tulajdonában álló társaság, amelynek üzletrésze forgalomképtelen.
 
 (2) Az OHÜ felett a szakmai felügyeletet, valamint a magyar államot megillető tulajdonosi jogok és kötelezettségek összességét a környezetvédelemért felelős miniszter gyakorolja. Az OHÜ felügyelő bizottsága legfeljebb öt tagból áll.
 
@@ -503,10 +545,10 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 - c) a nemzetközi szerződés szerint köztehermentes beszerzéssel összefüggő tevékenység;
 - d) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja megvalósításával összefüggő tevékenység;
 - e) a termékdíjköteles termék gyártásához közvetlen anyagként (alapanyag) felhasznált termékdíjköteles termék felhasználása;
-- f) a 27. § (3) bekezdésben meghatározott csomagolószer termékdíj-megállapítási időszakon túli külföldre történő igazolt visszaszállítása,
+- f) a 4. § (2) bekezdés d) pontjában meghatározott csomagolószer termékdíj-megállapítási időszakon túli külföldre történő igazolt visszaszállítása,
 - g) egyéb csomagolószer esetében, annak – a továbbforgalmazás kivételével – nem csomagolás előállítására való felhasználása, esetén visszaigényelhető.
 
-(2) A kötelezett az általa befizetett egyéb kőolajtermék termékdíjának visszaigényelheti azon részét, amelyre vonatkozóan a használt vagy hulladékká vált, a kötelezettnél termékdíjköteles egyéb kőolajtermék anyagában történő hasznosításra történő átadás-átvételének tényét és a hasznosítás tényét igazolja.
+(2) A kötelezett az általa befizetett egyéb kőolajtermék termékdíját visszaigényelheti, amelyre vonatkozóan a használt vagy hulladékká vált, a kötelezettnél termékdíjköteles egyéb kőolajtermék anyagában történő hasznosításra történő átadás-átvételének tényét és a hasznosítás tényét igazolja.
 
 (2a) Visszaigényelhető a növényvédőszerrel közvetlenül érintkező, a növényvédőszer csomagolását képező csomagolószerek után megfizetett termékdíjnak azon része, amelyet a visszaigénylő a hulladékkezelés szervezését ellátó non-profit szervezet részére szolgáltatási díjként – a hulladékká vált csomagolást alkotó csomagolószer tömegére vonatkozóan – igazoltan megfizetett.
 
@@ -515,6 +557,27 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 (3) A külföldre történő értékesítés számlával vagy az ügylet teljesítését igazoló egyéb okirattal és szállítólevéllel vagy fuvarokmánnyal igazolható. A visszaigénylés további feltétele a termék beszerzéséről kiállított számla vagy az ügylet teljesítését igazoló egyéb okirat, amely tartalmazza a termék első belföldi forgalomba hozatalakor a kötelezett által kibocsátott számla vagy az ügylet teljesítését igazoló egyéb okirat számát, azonosító adatát, a kötelezett nevét, címét, adószámát, és a kötelezett által kiállított számlán vagy annak mellékletében, illetve az ügylet teljesítését igazoló egyéb okiraton feltüntetett termékdíj mértékét és összegét.
 
 (4) A befizetett termékdíjat e § alapján visszaigénylőre, a kötelezettre vonatkozó bejelentéssel, változás-bejelentéssel, termékdíj megállapítással termékdíj bevallással és nyilvántartás-vezetéssel, továbbá az ellenőrzéssel kapcsolatos szabályokat kell alkalmazni.
+
+(6) A termékdíjköteles termék alapanyagként történő felhasználása során keletkező gyártási selejt és hulladék mennyiségére is visszaigényelhető a termékdíj, de ebben az esetben a gyártási selejt és hulladék mennyisége a hulladékhasznosítási teljesítmény számításánál nem vehető figyelembe.
+
+(7) A 25. § (2) bekezdésében meghatározott visszaigénylés mellett a 3. § (9) bekezdés b) pontjában meghatározott eljárás nem alkalmazható.
+
+25/A. § (1) A termékdíjat azon termékek után lehet visszaigényelni, amelyekre vonatkozóan a termékdíj megfizetése ténylegesen és igazolható módon megtörtént.
+
+(2) A termékdíj visszaigénylésére – a használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos visszaigénylés kivételével – a visszaigénylésre való jogosultság keletkezésének időpontja szerinti tárgyidőszakra vonatkozó bevallásban kerülhet sor.
+
+(3) A visszaigénylés mértéke – a használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos visszaigénylés és a termékdíj-előleg visszaigénylése kivételével – a termékdíjköteles termék forgalomba hozója által az árban felszámított és a kiállított számlán feltüntetett termékdíj.
+
+(4) Külföldre történő értékesítés esetén nem lehet a termékdíjat visszaigényelni a használt vagy hulladékká vált termékdíjköteles termék után, kivéve
+
+- a) az újrahasználható csomagolószer-nyilvántartásban található csomagolószer, illetve
+- b) az egyéb kőolajtermék
+
+esetében.
+
+(5) A 25. § (2) bekezdésében meghatározott visszaigénylés a tárgynegyedévben hasznosításra átadott használt vagy hulladékká vált kenőolaj mennyiségére, ha a kötelezett egyben hasznosító is, akkor az általa hasznosításra átvett használt vagy hulladékká vált kenőolaj mennyiségére vehető igénybe. Abban az esetben, ha a kötelezett saját maga hasznosítja a saját célra felhasznált termékdíjköteles kenőolajból keletkezett használt vagy hulladékká vált kenőolajat, a visszaigénylés alapja a hasznosított használt vagy hulladékká vált kenőolaj mennyisége. A negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.
+
+(6) A 25. § (2) és (2a) bekezdésében meghatározott esetben a negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.
 
 ### VII. Fejezet — AZ EGYES TERMÉKDÍJKÖTELES TERMÉKEKRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
@@ -536,9 +599,9 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 
 #### 20/A. A reklámhordozó papír termékdíja
 
-27/A. § (1) Belföldi előállítású reklámhordozó papír esetén a megrendelőnek – a törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a megrendelés, de legkésőbb a szerződéskötés során nyilatkoznia kell a termékdíj-kötelezettséget meghatározó feltételekről. A megrendelést teljesítő kötelezett köteles a nyilatkozatokat, valamint az előállított termék egy – nyomtatott, vagy a nyomtatottal azonos elektronikusan rögzített – példányát – a törvény végrehajtására kiadott kormányrendeletben foglaltak szerint – megőrizni.
+27/A. § (1) Belföldi előállítású reklámhordozó papír esetén a belföldi megrendelő írásban nyilatkozik a megrendelés, de legkésőbb a szerződéskötés során a nyomdai szolgáltatást teljesítő felé arról, hogy az általa megrendelt termék – annak mellékletét is ideértve – reklámhordozó papírnak minősül-e. Amennyiben a megrendelés nem termékdíjköteles reklámhordozó papír előállítására vonatkozik, úgy a megrendelőnek jeleznie kell, hogy a megrendelt áru a 2. § 26. pontjában meghatározott reklámhordozó papír definíció melyik alpontja szerint nem tartozik a reklámhordozó papír fogalma alá. A valótlanul nyilatkozó megrendelő termékdíj-kötelezetté válik.
 
-(2) A belföldi előállítású reklámhordozó papír esetén, a nem a valóságnak megfelelően nyilatkozó megrendelő – a törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – termékdíj-kötelezetté válik.
+(2) A megrendelést teljesítő köteles 6 évig megőrizni az általa előállított reklámhordozó papír termék elektronikus vagy nyomtatott példányát, és azt az állami adó- és vámhatóság ellenőrzése, hatósági eljárása során kérésre bemutatni.
 
 (3) Amennyiben a termék egyidejűleg csomagolószer és reklámhordózó papír funkciót is betölt, akkor a termékdíj-kötelezettség a csomagolószer jelleg alapján áll fenn.
 
@@ -819,6 +882,10 @@ a termékdíjköteles terméket lefoglalja.
 
 40/B. § A 9/A. § (1) bekezdés f) pontját 2015. július 1-től kell alkalmazni.
 
+40/C. § (1) A 2013. december 31-ig az állami adó- és vámhatóságnak a 14. § (5) bekezdés a) pontja alapján jogszerűen bejelentett szerződéses átvállalások hatályosak a bejelentett időszak végéig, és nem kell az átvállalási szerződést módosítani, valamint azt ismételten bejelenteni a 14. § (5) bekezdés a) pont aa) alpontja szerinti jogcím alapján.
+
+(2) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel (a továbbiakban: Módtv. 1.) módosított 25. § (1) bekezdés f) pontja szerinti termékdíj visszaigénylési jogcím a külföldre igazoltan kiszállított csomagolószerek esetében 2014. január 1-jétől alkalmazható.
+
 #### 31. Bejelentés az Európai Unió részére
 
 41. § (1) A törvény tervezetének a következő közösségi jogi aktusok szerinti előzetes bejelentése megtörtént:
@@ -840,17 +907,19 @@ a termékdíjköteles terméket lefoglalja.
 
 Termékdíjköteles termékek, anyagok köre
 
-Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vámtarifaszámok alá tartozik és az adott termékdíjköteles termékcsoport e törvényben meghatározott fogalmának is megfelel. Az „ex” jelzéssel ellátott vámtarifaszámok alá tartozó termékek közül azok a termékdíjköteles termékek, amelyek a Ktdt. 1. § (3) bekezdésében meghatározott tárgyi hatály alá tartoznak, ide nem értve a megnevezésben kivételként megnevezett termékeket.
+Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vámtarifaszámok alá tartozik és az adott termékdíjköteles termékcsoport e törvényben meghatározott fogalmának is megfelel.
+
+Az „ex” jelzéssel ellátott vámtarifaszámok alá tartozó termékek közül azok a termékdíjköteles termékek, amelyek az 1. § (3) bekezdésében meghatározott tárgyi hatály alá tartoznak, ide nem értve a megnevezésben kivételként megnevezett termékeket.
 
 |  | A | B | C |
 | --- | --- | --- | --- |
-| Megnevezés | Vámtarifaszám |  |
-| Vámtarifaszám és HR alszám | KN alszám |
+| Vámtarifaszám |  |
+|  | Megnevezés | Vámtarifaszám és HR alszám | KN alszám |
 | 1. | Gumiabroncsok |  |  |
-| 1.1. | Új gumi légabroncs, kivéve a 4011 50 00 alá tartozó termékeket | ex. 4011 |  |
+| 1.1. | Új gumi légabroncs 4011 50 00 alszám alá tartozó termékek kivételével | ex. 4011 |  |
 | 1.2. | Újrafutózott vagy használt gumi légabroncs; tömör vagy kisnyomású gumiabroncs, kivéve a 4012 90 30; 4012 90 90 alá tartozó termékeket | ex. 4012 |  |
 | 2. | Akkumulátorok |  |  |
-| 2.1. | Elektromos akkumulátorok a 8507 80 20 a 8507 80 30 és a 8507 90 kivételével | ex. 8507 |  |
+| 2.1. | Elektromos akkumulátorok kivéve: a 8507 80 20 a 8507 80 30 és a 8507 90 alszám alá tartozó termékek és a nátrium-kén (NaS) helyhez kötött energiatároló berendezés | ex. 8507 |  |
 | 3. | Egyéb kőolajtermékek |  |  |
 | 3.1. | Kenőolaj |  |  |
 | 3.1.1. | Motorolaj, kompresszor-kenőolaj, turbina-kenőolaj | 2710 19 | 81 |
@@ -869,20 +938,20 @@ Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vám
 | 4.2. | Könyvek, újságok, képek és más nyomdaipari termékek | ex. 49 |  |
 | 5. | Elektromos, elektronikai berendezések |  |  |
 | 5.1. | Háztartási nagygépek |  |  |
-| 5.1.1. | Lég- vagy vákuumszivattyú, lég- vagy más gázkompresszor és ventilátor; elszívó vagy visszavezető kürtő beépített ventilátorral, szűrővel is | ex. 8414 |  |
+| 5.1.1. | Lég- vagy vákuumszivattyú, lég- vagy más gázkompresszor és ventilátor; elszívó vagy visszavezető kürtő beépített ventilátorral, szűrővel is, melynek bruttó tömege legfeljebb 200 kg | ex. 8414 |  |
 | 5.1.2. | Légkondicionáló berendezés motormeghajtású ventilátorral, hőmérséklet- és nedvességszabályozó szerkezettel, beleértve az olyan berendezést is, amelyben a nedvesség külön nem szabályozható: | ex. 8415 |  |
 | 5.1.3. | Hűtőgép, fagyasztógép és egyéb hűtő- vagy fagyasztókészülék, elektromos működésű; hőszivattyú a 8415 kód alá tartozó légkondicionáló berendezés kivételével: |  |  |
-| 5.1.3.1. | – Más kombinált hűtő-fagyasztó gép | 8418 10 | 80 |
-| 5.1.3.2. | – Kompresszoros típusú háztartási hűtőgép: | 8418 21 |  |
-| 5.1.3.3 | – Abszorpciós típusú hűtőgép | 8418 22 | 00 |
-| 5.1.3.4. | – Más háztartási hűtőgép | 8418 29 |  |
-| 5.1.3.5. | – Fagyasztóláda, legfeljebb 400 liter űrtartalommal | 8418 30 | 20 |
-| 5.1.3.6. | – Fagyasztószekrény, legfeljebb 250 liter űrtartalommal | 8418 40 | 20 |
+| 5.1.3.1. | - Más kombinált hűtő-fagyasztó gép | 8418 10 | 80 |
+| 5.1.3.2. | - Kompresszoros típusú háztartási hűtőgép: | 8418 21 |  |
+| 5.1.3.3 | - Abszorpciós típusú hűtőgép | 8418 22 | 00 |
+| 5.1.3.4. | - Más háztartási hűtőgép | 8418 29 |  |
+| 5.1.3.5. | - Fagyasztóláda, legfeljebb 400 liter űrtartalommal | 8418 30 | 20 |
+| 5.1.3.6. | - Fagyasztószekrény, legfeljebb 250 liter űrtartalommal | 8418 40 | 20 |
 | 5.1.4. | Centrifuga, beleértve a centrifugális szárítót is: |  |  |
-| 5.1.4.1. | – Ruhaszárító | 8421 12 | 00 |
-| 5.1.4.2. | – Más centrifuga | 8421 19 | 70 |
+| 5.1.4.1. | - Ruhaszárító | 8421 12 | 00 |
+| 5.1.4.2. | - Más centrifuga | 8421 19 | 70 |
 | 5.1.5. | Mosogatógép: |  |  |
-| 5.1.5.1. | – Háztartási | 8422 11 | 00 |
+| 5.1.5.1. | - Háztartási | 8422 11 | 00 |
 | 5.1.6. | Háztartásban használatos mosógép, beleértve az olyan gépet is, amely mos és szárít is, kivéve a 8450 20 00, valamint a 8450 90 00 alá tartozó termékek | ex. 8450 |  |
 | 5.1.7. | Szárítógép, legfeljebb 10 kg szárazruha-kapacitású gép | 8451 21 | 00 |
 | 5.1.8. | Hőtárolós radiátor | 8516 21 | 00 |
@@ -910,15 +979,15 @@ Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vám
 | 5.2.18. | Műszerfalba beépítésre alkalmas és hasonló típusú óra gépjárműhöz, légi-, űr- és vízi járműhöz | ex. 9104 00 | 00 |
 | 5.2.19. | Más óra, kivéve a nem elektromosan működőket | ex. 9105 |  |
 | 5.3. | Információs (IT) és távközlési berendezések (kivéve a mobil és a rádiótelefon készülék) |  |  |
-| 5.3.1 | A nyomtatási, másolási vagy faxtovábbító funkciókból legalább kettővel rendelkező, automatikus adatfeldolgozó géphez vagy hálózathoz való kapcsolódásra alkalmas készülék (melynek súlya legfeljebb 200 kg) | ex. 8443 31 |  |
+| 5.3.1 | A nyomtatási, másolási vagy faxtovábbító funkciókból legalább kettővel rendelkező, automatikus adatfeldolgozó géphez vagy hálózathoz való kapcsolódásra alkalmas készülék (melynek bruttó tömege legfeljebb 200 kg) | ex. 8443 31 |  |
 | 5.3.2. | Más, automatikus adatfeldolgozó géphez vagy hálózathoz való kapcsolódásra alkalmas készülék (melynek súlya legfeljebb 200 kg) | ex. 8443 32 |  |
 | 5.3.3. | Más (melynek súlya legfeljebb 200 kg) | ex. 8443 39 |  |
 | 5.3.4. | Írógépek a 8471 alá tartozó nyomtató kivételével; szövegszerkesztő gép: |  |  |
-| 5.3.4.1. | – Elektromos írógép | 8469 00 | 91 |
+| 5.3.4.1. | - Elektromos írógép | 8469 00 | 91 |
 | 5.3.5. | Számológép és számoló funkcióval ellátott zsebméretű adatrögzítő-, előhívó- és megjelenítőgép; könyvelőgép, postai bérmentesítőgép, jegykiadó gép és hasonló gép számolószerkezettel; pénztárgép: |  |  |
-| 5.3.5.1. | – Elektronikus számológép, külső elektromos áramforrás nélkül működő és számoló funkcióval ellátott zsebméretű adatrögzítő-, előhívó- és megjelenítő gép | 8470 10 | 00 |
-| 5.3.5.2. | – Más elektronikus számológép nyomtató szerkezettel | 8470 21 | 00 |
-| 5.3.5.3. | – Más elektronikus számológép | 8470 29 | 00 |
+| 5.3.5.1. | - Elektronikus számológép, külső elektromos áramforrás nélkül működő és számoló funkcióval ellátott zsebméretű adatrögzítő-, előhívó- és megjelenítő gép | 8470 10 | 00 |
+| 5.3.5.2. | Más elektronikus számológép nyomtató szerkezettel | 8470 21 | 00 |
+| 5.3.5.3. | - Más elektronikus számológép | 8470 29 | 00 |
 | 5.3.6. | Automatikus adatfeldolgozó gép és egységei; mágneses és optikai leolvasó, adatátíró gép a kódolt adat adathordozóra történő átírására, másutt nem említett gépi adatfeldolgozáshoz: | ex. 8471 |  |
 | 5.3.7. | Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos katódsugárcsöves monitor | 8528 41 | 00 |
 | 5.3.8. | Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos más monitor | 8528 51 | 00 |
@@ -926,12 +995,12 @@ Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vám
 | 5.3.10. | Automatikus adatfeldolgozó gép által létrehozott digitális információ megjelenítésére alkalmas, síkpanel megjelenítő (pl. folyadékkristályos eszköz) segítségével működő projektor | 8528 69 | 10 |
 | 5.3.11. | Más irodai gép (pl. stencil- vagy más sokszorosítógép, címíró gép, automata bankjegykiadó gép, érmeválogató, érmeszámláló vagy érmecsomagoló gép, ceruzahegyező, lyukasztó- vagy fűzőgép), kivéve a 8472 90 30 alá tartozó termékek | ex. 8472 |  |
 | 5.3.12. | Távbeszélő készülékek, beleértve a mobiltelefon-hálózatokhoz vagy más vezeték nélküli hálózatokhoz való készülékeket; hang, képek vagy más adatok továbbítására vagy vételére szolgáló más készülékek, beleértve a vezetékes vagy vezeték nélküli hálózatok (helyi vagy nagy kiterjedésű hálózat) távközlési berendezéseit a 8443, 8525, 8527 vagy 8528 alá tartozó, továbbításra vagy vételre szolgáló készülékek kivételével |  |  |
-| 5.3.12.1. | – Zsinór nélküli telefonkagylóval ellátott vezetékes távbeszélő | 8517 11 | 00 |
-| 5.3.12.2. | – Más | 8517 18 | 00 |
-| 5.3.12.3. | – Hang, képek vagy más adatok vételére, átalakítására és továbbítására vagy helyreállítására szolgáló gépek, beleértve a kapcsoló- és útvonalválasztó berendezéseket | 8517 62 | 00 |
-| 5.3.12.4. | – Videotelefon | 8517 69 | 10 |
-| 5.3.12.5. | – Kaputelefon | 8517 69 | 20 |
-| 5.3.13. | Hangszóró, amelynek frekvenciatartománya 300 Hz–3,4 kHz közötti, átmérője legfeljebb 50 mm, a telekommunikációban alkalmazott típus | 8518 29 | 30 |
+| 5.3.12.1. | - Zsinór nélküli telefonkagylóval ellátott vezetékes távbeszélő | 8517 11 | 00 |
+| 5.3.12.2. | - Más | 8517 18 | 00 |
+| 5.3.12.3. | - Hang, képek vagy más adatok vételére, átalakítására és továbbítására vagy helyreállítására szolgáló gépek, beleértve a kapcsoló- és útvonalválasztó berendezéseket | 8517 62 | 00 |
+| 5.3.12.4. | - Videotelefon | 8517 69 | 10 |
+| 5.3.12.5. | - Kaputelefon | 8517 69 | 20 |
+| 5.3.13. | Hangszóró, amelynek frekvenciatartománya 300 Hz-3,4 kHz közötti, átmérője legfeljebb 50 mm, a telekommunikációban alkalmazott típus | 8518 29 | 30 |
 | 5.3.14. | Vezetékes telefon kézibeszélője | 8518 30 | 20 |
 | 5.3.15. | Hangfelvevő- vagy hanglejátszó készülék |  |  |
 | 5.3.15.1. | Szövegismétlő készülék telefonhoz | 8519 81 | 11 |
@@ -941,19 +1010,19 @@ Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vám
 | 5.3.17. | Radarkészülék, rádiónavigációs segédkészülék és rádiós távirányító készülék a 8526 92 00 alá tartozó játék működtetésére szolgáló rádiós távirányító készülék kivételével | ex. 8526 |  |
 | 5.4. | Szórakoztató elektronikai cikkek |  |  |
 | 5.4.1. | Mikrofon és tartószerkezete; hangszóró, dobozba szerelve is, fejhallgató és fülhallgató, mikrofonnal összeépítve is, valamint egy mikrofonból és egy vagy több hangszóróból álló egység; hangfrekvenciás elektromos erősítő; elektromos hangerősítő egység a 8518 29 30, a 8518 30 20 és a 8518 90 00 alá tartozó termékek kivételével | ex. 8518 |  |
-| 5.4.11 | Napozóágyak, napozólámpák és hasonló, napozáshoz használt felszerelések: |  |  |
-| 5.4.11.1 | Ultraibolya A sugarat felhasználó fénycsővel legfeljebb 100 cm csőhosszúsággal | 8543 70 | 51 |
-| 5.4.11.2 | Ultraibolya A sugarat felhasználó más fénycsővel | 8543 70 | 55 |
-| 5.4.11.3 | Más, napozóágyak, -lámpák, hasonló felszerelések napozáshoz | 8543 70 | 59 |
 | 5.4.2. | Hangfelvevő- vagy hanglejátszó készülék a 8519 50 00, a 8519 81 11 és a 8519 81 51 alá tartozó termékek kivételével | ex. 8519 |  |
 | 5.4.3. | Videofelvevő és -lejátszókészülék, videotunerrel egybeépítve is | 8521 |  |
 | 5.4.4. | Televíziós kamerák (felvevők), digitális fényképezőgépek és videokamera-felvevők a 8525 80 11 kivételével | ex. 8525 80 |  |
-| 5.4.5. | Rádióműsor-vevőkészülék, hangfelvevő vagy- lejátszó készülékkel vagy órával közös házban is | 8527 |  |
+| 5.4.5. | Rádióműsor-vevőkészülék, hangfelvevő vagy -lejátszó készülékkel vagy órával közös házban is | 8527 |  |
 | 5.4.6. | Monitorok és kivetítők, beépített televízióvevő-készülék nélkül; televíziós adás vételére alkalmas készülék, rádióműsor-vevőkészüléket vagy hang- vagy képfelvevő vagy -lejátszó készüléket magában foglaló is, a 8528 41 00, a 8528 51 00, a 8528 61 00 és a 8528 69 10 alá tartozó termékek kivételével | ex. 8528 |  |
 | 5.4.7. | Fényképezőgép (a mozgófényképészeti kamera kivételével); fényképészeti villanófény-készülék és villanókörte, a 8539 KN-kód alá tartozó kisülési cső kivételével, kivéve továbbá a nem elektromos eszközök, továbbá 9006 10 00, 9006 30 00, 9006 61 00, 9006 69 00 alá tartozó termékek, továbbá azok 9006 91 alá tartozó alkatrészei és 90 06 99 alá tartozó tartozékai | ex. 9006 |  |
 | 5.4.8. | Mozgókép-felvevő (kamera) és vetítő, hangfelvevő és hanglejátszó készülékkel vagy anélkül, kivéve a nem elektromos eszközök és 9007 91 00, 9007 92 00 alá tartozó alkatrészek és tartozékok | ex. 9007 |  |
 | 5.4.9. | Diavetítő | 9008 10 | 00 |
 | 5.4.10. | Hangszer, amelyben a hangot elektromos úton keltik vagy erősítik (pl. orgona, gitár, tangóharmonika) | 9207 |  |
+| 5.4.11 | Napozóágyak, napozólámpák és hasonló, napozáshoz használt felszerelések: |  |  |
+| 5.4.11.1 | Ultraibolya A sugarat felhasználó fénycsővel legfeljebb 100 cm csőhosszúsággal | 8543 70 | 51 |
+| 5.4.11.2 | Ultraibolya A sugarat felhasználó más fénycsővel | 8543 70 | 55 |
+| 5.4.11.3 | Más, napozóágyak, -lámpák, hasonló felszerelések napozáshoz | 8543 70 | 59 |
 | 5.5. | Elektromos, elektronikus barkácsgépek, szerszámok, kivéve a nagyméretű, helyhez kötött ipari szerszámok |  |  |
 | 5.5.1. | Folyadékszivattyú egyfokozatú – búvárszivattyú | 8413 70 | 21 |
 | 5.5.2. | Fűkaszáló motoros körforgó vízszintes vágószerkezettel – elektromos | 8433 11 | 10 |
@@ -968,7 +1037,7 @@ Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vám
 | 5.6.6. | Tévéhez kapcsolható videojáték | 9504 10 | 00 |
 | 5.6.7. | Elektromos autóverseny-készlet, verseny jellegű | 9504 90 | 10 |
 | 5.7. | Ellenőrző és vezérlő eszközök |  |  |
-| 5.7.1. | Mérleg, vizsgáló és ellenőrző mérleg is (az 50 mg vagy ennél nagyobb érzékenységű mérleg kivételével) beleértve a súllyal működtetett számláló vagy ellenőrző mérleget is; súly mindenfajta mérleghez (valamint a 8423 10 alá tartozó termékek kivételével) | ex. 8423 |  |
+| 5.7.1. | Mérleg, vizsgáló és ellenőrző mérleg is (az 50 mg vagy ennél nagyobb érzékenységű mérleg kivételével) beleértve a súllyal működtetett számláló vagy ellenőrző mérleget is; | ex. 8423 |  |
 | 5.7.2. | Gépjárműhöz használt riasztóberendezés | 8512 30 | 10 |
 | 5.7.3. | Elektromos, akusztikus vagy vizuális jelzőberendezés (pl. csengő, sziréna jelzőtábla, betörést vagy tüzet jelző riasztókészülék), a 8512 vagy a 8530 alá tartozó kivételével | ex. 8531 |  |
 | 5.8. | Adagoló automaták |  |  |
@@ -981,6 +1050,67 @@ Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vám
 | 5.9.2. | Rádiótelefon- vagy rádiótávíró-vevőkészülék |  |  |
 | 5.9.2.1. | Hordozható személyi hívó | 8517 69 | 31 |
 | 5.9.2.2. | Más rádiótelefon- vagy rádiótávíró-vevőkészülék | 8517 69 | 39 |
+| 6. | Csomagolószerek |  |  |
+| 6.1. | Növényi anyag |  |  |
+| 6.1.1. | Elsősorban fonatkészítésre használatos növényi anyag (nád, gyékény, rafia, gabonaszalma stb.) csomagolási célra | ex. 1401 90 |  |
+| 6.1.2. | Másutt nem említett növényi eredetű anyag csomagolási célra | ex. 1404 90 |  |
+| 6.2. | Műanyag |  |  |
+| 6.2.1. | Öntapadó műanyag lap, lemez, film, fólia, szalag, csík és más sík formában, tekercsben is kivéve: az építési termék; a villamosszigetelési, elektrotechnikai áru | ex. 3919 |  |
+| 6. 2.2. | Más műanyag lap, lemez, film, fólia, szalag és csík, amely nem porózus, és nem erősített, nem laminált, nem alátámasztott vagy más anyagokkal hasonlóan nem kombinált kivéve: az építési termék, a bútoripari áru; a villamos szigetelési áru; a kordonszalag; | ex. 3920 |  |
+| 6.2.3. | Más műanyag lap, lemez, film, fólia, szalag és csík kivéve: az építési termék; a villamos szigetelési áru | ex. 3921 |  |
+| 6.2.4. | Műanyag eszközök termék szállítására vagy csomagolására legfeljebb 300 liter űrtartalommal; műanyag dugó, fedő, kupak és más lezáró; műanyag bevásárló reklámtáska kivéve: az elkülönített hulladék gyűjtésére szolgáló zsák*; a megújuló forrásból készült, biológiai úton lebomló műanyag szemeteszsák**; a hulladékgyűjtő edény | ex. 3923 |  |
+| 6.2.5. | Egyszer használatos műanyag edények | ex. 3924 |  |
+| 6.3. | Gumi |  |  |
+| 6.3.1. | Vulkanizált lágygumiból készült lezáró termékek (dugó, gyűrű stb.) | ex. 4016 |  |
+| 6.4. | Fa |  |  |
+| 6.4.1. | Furnérlap tűlevelű fából kivéve: építési termék, bútoripari áru | ex. 4408 10 |  |
+| 6.4.2. | Furnérlap más fából kivéve: építési termék, bútoripari áru | ex. 4408 90 |  |
+| 6.4.3. | Forgácslemez, irányított forgácselrendezésű lemez (OSB) és hasonló tábla fából vagy más fatartalmú anyagból, gyantával vagy más szerves kötőanyagokkal agglomerálva (tömörítve) is kivéve: építési termék, bútoripari áru | ex. 4410 |  |
+| 6.4.4. | Rostlemez fából vagy más fatartalmú anyagból, gyantával vagy más szerves anyaggal összeragasztva is kivéve: építési termék, bútoripari áru | ex. 4411 |  |
+| 6.4.5. | Fából készült láda, doboz, rekesz, dob és hasonló csomagolóeszköz; kábeldob fából; rakodólap, keretezett és más szállítólap; rakodólapkeret fából | 4415 |  |
+| 6.5. | Parafa |  |  |
+| 6.5.1. | Természetes parafából készült dugó és lezáró termékek | 4503 10 |  |
+| 6.5.2. | Agglomerált parafából (kötőanyaggal is) készült dugó és lezáró termékek | ex. 4504 10 ex. 4504 90 |  |
+| 6.6. | Kosáráru, fonásáru |  |  |
+| 6.6.1. | Kosáráru, fonásáru és fonásanyagból közvetlenül kész alakban előállított más termék vagy a 4601 vtsz. alá tartozó anyagokból készült termék kivéve: nem egyszer használatos termékek | ex. 4602 |  |
+| 6.7. | Papír, karton |  |  |
+| 6.7.1. | Nem bevont papír és karton írásra, nyomtatásra vagy más grafikai célra, és nem perforált lyukkártya- és lyukszalagpapír tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4801 vagy 4803 vtsz. alá tartozó papír kivételével kivéve: a kézi merítésű papír és karton (4802 10); a tapéta alappapír; a képeslappapír és könyvnyomó papír; az irodai papír (fénymásolópapír); iskolafüzet; jegyzettömb; pénztárgép-papír; biztonsági papír | ex. 4802 |  |
+| 6.7.2. | Selyem alappapír, kreppelt, ráncolt, domborított, perforált, felületileg színezett, díszített vagy nyomtatott alappapír, cellulózvatta és cellulózszálból álló szövedék, tekercsben vagy ívben kivéve: háztartási, egészségügyi alappapír; bútoripari, ruhaipari áru | ex. 4803 |  |
+| 6.7.3. | Nem bevont nátronpapír és -karton tekercsben vagy ívben, a 4802 vagy 4803 vtsz. alá tartozók kivételével | 4804 |  |
+| 6.7.4. | Nem bevont más papír és karton tekercsben vagy ívben a termékcsoporthoz tartozó Megjegyzések 3. pontjában megengedettnél nem nagyobb mértékben megmunkálva vagy feldolgozva kivéve: szűrőpapír és karton (4805 40 HR kód) | ex. 4805 |  |
+| 6.7.5. | Növényi pergamen, zsírpapír, pergamenpapír és más fényezett, átlátszó vagy áttetsző papír, tekercsben vagy ívben kivéve: átmásolópapír; sütőpapír | ex. 4806 |  |
+| 6.7.6. | Többrétegű papír és karton (ragasztóval összeragasztott papír- vagy kartonlapból összeállítva) felületi impregnálás vagy bevonás nélkül, belső erősítéssel is, tekercsben vagy ívben | 4807 |  |
+| 6.7.7. | Hullámpapír és -karton (ragasztott, sima felületű lapokkal is), kreppelt, redőzött, domborított vagy perforált papír és karton tekercsben vagy ívben, a 4803 vtsz. alá tartozók kivételével | 4808 |  |
+| 6.7.8. | Papír és karton egyik vagy mindkét oldalán kaolinnal (kínai agyaggal) vagy más szervetlen anyaggal bevonva, kötőanyag felhasználásával is, de más bevonat nélkül, felületileg színezett, díszített vagy nyomtatott is, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben kivéve: nyomtató-, fénymásolópapír | ex. 4810 |  |
+| 6.7.9. | Papír, karton, cellulózvatta és cellulózszálból álló szövedék bevonva, impregnálva, borítva, felületileg színezve, díszítve vagy nyomtatva, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4803, 4809 vagy 4810 vtsz. alá tartozók kivételével kivéve: háztartási áru, ruhaipari áru | ex. 4811 |  |
+| 6.7.10. | Doboz, láda, tok, zsák és más csomagolóeszköz papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből kivéve: iratgyűjtő doboz; levéltartó doboz és hasonló cikk irodai, üzleti célra (4819 60 HR kód) | ex. 4819 |  |
+| 6.7.11. | Mindenféle címke papírból vagy kartonból, nyomtatott is kivéve: tanszerek; dokumentumok, árut nem tartalmazó levélküldemények azonosító címkéi | ex. 4821 |  |
+| 6.7.12. | Orsó, cséve, kopsz és hasonló tartó papíripari rostanyagból, papírból vagy kartonból (perforálva vagy merítve is) | 4822 |  |
+| 6.7.13. | Más papír, karton, cellulózvatta és cellulózszálból álló szövedék méretre vagy alakra vágva; más terméké papíripari rostanyagból, papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből kivéve: a szűrőpapír és karton (4823 20 HR kód); az előre nyomtatott regisztrálóhengerek, -ívek és számlapok önfeljegyző készülékekhez; pénztárgép szalag | ex. 4823 |  |
+| 6.8. | Szövet, nem szőtt textília |  |  |
+| 6.8.1. | Jutaszövet vagy az 5303 vtsz. alá tartozó más textil háncsrostból készült szövet kivéve: építési termék, erózió- és rézsüvédelmi áru | ex. 5310 |  |
+| 6.9. | Nem szőtt textília |  |  |
+| 6.9.1. | Nem szőtt textília, impregnált, bevont, beborított vagy rétegelt is kivéve: háztartási áru; textil- és ruhaipari áru; járműipari áru; építési termék, bútoripari, erózió- és rézsüvédelmi célokra szolgáló áru; geotextil | ex. 5603 |  |
+| 6.10. | Zsinór, kötél |  |  |
+| 6.10.1. | Zsineg, kötél fonva vagy sodorva, és gumival vagy műanyaggal impregnálva, bevonva, beborítva vagy burkolva is kivéve: hajókötél és kábel; bálázózsineg; 5 mm-nél nagyobb átmérőjű áruk; háztartási áru; textil- és ruhaipari áru; építési termék; bútoripari áru | ex. 5607 |  |
+| 6.11. | Zsák, zacskó |  |  |
+| 6.11.1. | Zsák és zacskó termék csomagolására kivéve: árvízvédelmi homokzsák | ex. 6305 |  |
+| 6.12. | Üveg |  |  |
+| 6.12.1. | Üvegballon (fonatos is), üvegpalack, flaska, konzervüveg, üvegedény, fiola, ampulla és más üvegtartály termék szállítására vagy csomagolására; befőzőüveg; dugasz, fedő és más lezáró üvegből | 7010 |  |
+| 6.13. | Vas, acél |  |  |
+| 6.13.1. | Tartály, hordó, dob, konzervdoboz, doboz és hasonló edény bármilyen anyag (a sűrített vagy folyékony gáz kivételével) befogadására, vasból vagy acélból, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok; hulladékgyűjtő edény | ex. 7310 |  |
+| 6.13.2. | Tartály vasból vagy acélból, sűrített vagy folyékony gáz befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok | ex. 7311 |  |
+| 6.14. | Alumínium |  |  |
+| 6.14.1. | Alumíniumfólia (papír, karton, műanyag vagy hasonló alátéten vagy nyomtatva is), ha vastagsága (az alátétet nem számítva) legfeljebb 0,2 mm kivéve: elektrotechnikai áru | ex. 7607 |  |
+| 6.14.2. | Alumínium hordó, -dob, -kanna, -doboz és hasonló edény (a merev vagy összenyomható cső alakú tartály is) bármilyen anyag (a sűrített vagy folyékony gáz kivételével) befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok; hulladékgyűjtő edény | ex. 7612 |  |
+| 6.14.3. | Alumíniumtartály sűrített vagy folyékony gáz befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok | ex. 7613 |  |
+| 6.14.4. | Asztali, konyhai vagy más háztartási cikk, valamint ezek részei alumíniumból kivéve: nem egyszer használatos áruk | ex. 7615 |  |
+| 6.15. | Máshol nem említett áruk nem nemesfémből |  |  |
+| 6.15.1. | Dugó, kupak és fedő (beleértve a korona-, csavar- és kiöntődugót is), palackfedél vagy kupak, és más csomagolási segédanyag nem nemesfémből kivéve: csavarmenetes hordódugó; hordódugóvédő, pecsét | ex. 8309 |  |
+
+* a termék mindkét oldalán, egy-egy oldal felületének legalább 20%-át kitevő „ELKÜLÖNÍTETT HULLADÉK” felirattal ellátva.
+
+** a termék mindkét oldalán, egy-egy oldal felületének legalább 20%-át kitevő „BIOLÓGIAI ÚTON LEBOMLÓ SZEMETESZSÁK” felirattal ellátva.
 
 ### 2. melléklet a 2011. évi LXXXV. törvényhez
 
