@@ -2507,7 +2507,11 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 81. § (1) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza:
 
 - a) az e törvény végrehajtásához szükséges nyomtatvány kötelező alkalmazását;
-- b) az elismert munkavállalói értékpapír-juttatási program nyilvántartásba vételére irányuló eljárás rendjét, valamint az eljárás kezdeményezéséért fizetendő igazgatási-szolgáltatási díjat.
+- b) a lakáscélú munkáltatói támogatás
+  - ba) igazolására szolgáló bizonylatokat,
+  - bb) folyósításáról a hitelintézet, a kincstár által kiállított igazolás tartalmát, kiállításának feltételeit és rendjét,
+  - bc) folyósításáról a hitelintézet, a kincstár, a munkáltató által teljesítendő adatszolgáltatás rendjét,
+  - bd) adómentessége feltételeinek vizsgálatára köteles személyek körét és módját.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben meghatározza a súlyos fogyatékosság minősítésének és igazolásának rendjét.
 
@@ -2766,11 +2770,13 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (8) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 67/B. § (11)–(13) bekezdését a korábban megkötött tartós befektetési szerződésekre is lehet alkalmazni.
 
-(9) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 11/A. § (1) bekezdés f) pontja, 12. § c) pontja,13. § (1) bekezdés a) alpontja, 44/B. § (4) bekezdés, 65. § (3) bekezdés a) pont ac)–ad) alpontja, (3a) bekezdése, (6a) bekezdése, 1. számú melléklet 4. pont 4.27. alpontja, 7. pont 7.15. alpont b) alpontja, 7.25. alpontja, 8. pont 8.21. alpontja, 9. pont 9.5.1. alpont a)–c) alpontja a 2013. január 1-jétől megszerzett jövedelmekre is alkalmazható.
+(9) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 11/A. § (1) bekezdés f) pontja, 12. § c) pontja, 13. § (1) bekezdés a) alpontja, 28. § (2) bekezdése, 44/B. § (4) bekezdés, 65. § (3) bekezdés a) pont ac)–ad) alpontja, (3a) bekezdése, (6a) bekezdése, 1. számú melléklet 4. pont 4.27. alpontja, 7. pont 7.15. alpont b) alpontja, 7.25. alpontja, 8. pont 8.21. alpontja, 9. pont 9.5.1. alpont a)–c) alpontja a 2013. január 1-jétől megszerzett jövedelmekre is alkalmazható.
 
 (10) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel módosított 1. számú melléklet 8. pont 8.14. alpontja az adómegállapításhoz való jog elévülési idején belül alkalmazható.
 
 (11) E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított és a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2013. évi CXXXVII. törvénnyel módosított 1. számú melléklet 4. pont 4.13. alpontjában foglaltakat a 2013. január 1-jétől megszerzett pénzbeli juttatások tekintetében kell alkalmazni.
+
+84/Z. § E törvénynek a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított 1. számú melléklet 2. pont 2.7. alpontja – ha az a magánszemély számára kedvezőbb – a 2014. január 1-jétől megszerzett jövedelmekre is alkalmazható.
 
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
@@ -2828,7 +2834,7 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 2.6. a lakás-takarékpénztárakról szóló törvény szerint nyújtott állami támogatás és a támogatásra, valamint a lakástakarék-betétre fizetett (jóváírt) kamat;
 
-2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a kincstár útján, annak igazolása alapján nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét, továbbá a lakáscélú felhasználásra hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez nyújtott támogatást is) a vételár vagy a teljes építési költség 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás);
+2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a kincstár útján, annak igazolása alapján, a 9.3. pontban és az adópolitikáért felelős miniszter rendeletében meghatározott feltételek és eljárás szerint nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét, továbbá a lakáscélú felhasználásra hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez, a hitelhez kapcsolódó más kötelezettségek megfizetéséhez nyújtott támogatást is) a vételár, a teljes építési költség vagy a korszerűsítés költségének 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás szobaszáma nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás);
 
 2.8.az az összeg, amelyet a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény rendelkezései szerint a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni;
 
@@ -3296,19 +3302,9 @@ c) a belföldön fekvő lakás alapterületének legalább egy lakószobával t�
 
 d) a lakáscélú állami támogatásokról szóló kormányrendelet szerint meghatározott korszerűsítés.
 
-9.3.2. A lakáscélú munkáltatói támogatás adómentességét az összeg elévülési időn belül történő lakáscélú felhasználására vonatkozó következő okiratok, bizonylatok igazolják:
+9.3.2. A lakáscélú munkáltatói támogatás akkor tekinthető adómentesnek, ha a munkáltató a támogatás folyósításának évét követő év május 31-éig, lakás építéséhez, építtetéséhez, alapterületének növeléséhez és korszerűsítéséhez adott támogatás esetén a folyósítás évét követő második év május 31-éig rendelkezik az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal. Ha a munkáltató nem rendelkezik az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, a lakáscélú munkáltatói támogatás 20 százalékkal növelt összegben a támogatásban részesült magánszemély munkaviszonyból származó jövedelmének minősül. E jövedelem megszerzésének időpontja a támogatás folyósításának évét követő év május hónapja, lakás építéséhez, építtetéséhez, alapterületének növeléséhez és korszerűsítéséhez adott támogatás esetén a folyósítás évét követő második év május hónapja.
 
-a) lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak a megszerzése esetén az érvényes szerződés és az ingatlanügyi hatósághoz benyújtott bejegyzési kérelem, valamint az összeg felhasználását igazoló okirat;
-
-b) lakás építése, építtetése és lakás alapterületének növelése esetén a jogerős használatbavételi engedély, valamint az összeg felhasználását igazoló, a használatbavételi engedély kelte napjáig, illetve a használatbavételi engedélyben megjelölt feltételek teljesítése határidejéig kibocsátott, az építési engedély jogosultja nevére kiállított számla;
-
-c) lakás korszerűsítése esetén a támogatás folyósítását megelőzően hat hónapon belül és azt követően 12 hónapon belül kiállított, az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól szóló rendelet szerinti megfelelőségi igazolással rendelkező – beépített – termékekről szóló számla, valamint a más személy által elvégzett munka ellenértékéről kiállított bizonylat.
-
-d) hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez nyújtott támogatás esetén a hitelintézettel, korábbi munkáltatóval fennálló hitelszerződés, továbbá az összeg felhasználását, a hitel törlesztését igazoló okirat.
-
-9.3.3. Ha a lakáscélú munkáltatói támogatás részben vagy egészben adóköteles, ideértve az adóhatóság által megállapított adóhiány esetét is, az adó (és más jogkövetkezmények) a magánszemélyt terhelik.
-
-9.3.4. A hitelintézet az adóévben a közvetítésével nyújtott támogatásról, a munkáltató a kölcsön általa elengedett összegéről az adóévet követő január 31-éig adatot szolgáltat az állami adóhatóságnak.
+9.3.3. A hitelintézet, a kincstár a közvetítésével nyújtott lakáscélú munkáltatói támogatásról kiállított igazolás adattartalmáról, a munkáltató a kölcsön általa elengedett összegéről adatot szolgáltat az állami adóhatóságnak.
 
 9.4. A termőföld bérbeadásából származó jövedelem adómentességére vonatkozó szabályok
 

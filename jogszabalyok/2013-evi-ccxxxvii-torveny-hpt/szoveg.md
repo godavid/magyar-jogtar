@@ -249,7 +249,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 112. tőkeáttétel: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 113. tőkefenntartási pufferkövetelmény: a hitelintézet veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény;
 - 114. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom;
-- 115. ügyvezető: a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testülete által megválasztott, a pénzügyi intézménnyel munkaviszonyban álló elnöke, a pénzügyi intézmény vezetésére kinevezett, a hitelintézettel vagy pénzügyi vállalkozással munkaviszonyban álló első számú vezető, valamint e vezető valamennyi helyettese;
+- 115. ügyvezető: a vállalkozás irányítási jogkörrel rendelkező vezető testülete által megválasztott, a vállalkozással munkaviszonyban álló elnöke, a vállalkozás vezetésére kinevezett, a vállalkozással munkaviszonyban álló első számú vezető, valamint e vezető valamennyi helyettese;
 - 116. üzletszerű tevékenység: az ellenérték fejében nyereség, illetve vagyonszerzés végett – előre egyedileg meg nem határozott ügyletek megkötésére irányuló – rendszeresen folytatott gazdasági tevékenység;
 - 117. vállalkozás: a gazdasági tevékenységet folytató jogi személy, jogi személyiség nélküli gazdasági társaság, az egyéni cég és az egyéni vállalkozó;
 - 118. vegyes pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
@@ -771,7 +771,7 @@ induló tőkével alapítható.
 
 (3) A Felügyelet a fióktelep engedélyét visszavonja, ha a székhely szerinti illetékes felügyeleti hatóság a külföldi pénzügyi intézmény engedélyét visszavonta.
 
-(4) A pénzügyi intézménynek nem minősülő gazdálkodó szervezet engedélyét a Felügyelet az (1) bekezdésben foglaltak megfelelő alkalmazásával vonhatja vissza.
+(4) A pénzügyi intézménynek nem minősülő gazdálkodó szervezet engedélyét a Felügyelet az (1) és (2) bekezdésben foglaltak megfelelő alkalmazásával vonhatja vissza.
 
 33. § (1) A Felügyelet a hitelintézet tevékenységi engedélyét akkor is visszavonhatja, ha a hitelintézet
 
@@ -2166,7 +2166,7 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 - b) ha a részvénynek több tulajdonosa van, akkor a tulajdonosok és a közös képviselő a) pontban meghatározott adatait,
 - c) a részvény értékpapírkódját, sorozatát és névértékét,
 - d) a részvény fajtáját,
-- e) a részvényvásárlás időpontját,
+- e)
 - f) a részvényvásárlás részvénykönyvbe történő bejegyzésének időpontját,
 - g) a felülbélyegzés időpontját,
 - h) a részvény bevonásának és megsemmisítésének időpontját, valamint
@@ -2566,7 +2566,7 @@ van összefüggésben.
 
 - a) az olyan összesített adatok szolgáltatása, amelyből az egyes ügyfelek személye vagy üzleti adata nem állapítható meg,
 - b) a pénzforgalmi számlatulajdonos nevére, pénzforgalmi számlájának számára vonatkozó adatszolgáltatás, továbbá téves utalás esetén a teljesített átutalási megbízás megbízója, illetve a megbízó számlavezetője javára történő adatátadás, a megbízás szerint kedvezményezett, nem pénzforgalmi számlatulajdonos nevére, címére vonatkozóan,
-- c) a 3. § (1) bekezdés b)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerbe, illetve e rendszerből a törvényben meghatározott referenciaadat-szolgáltató részére nyújtott referenciaadat-szolgáltatás,
+- c) a 3. § (1) bekezdés b)–g) és l) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerbe, illetve e rendszerből a törvényben meghatározott referenciaadat-szolgáltató részére nyújtott referenciaadat-szolgáltatás,
 - d) a pénzügyi intézmény által felhatalmazott könyvvizsgálónak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
 - e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben befolyásoló részesedéssel rendelkező tagnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tag vagy esetleges jövőbeni tag által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
 - f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
