@@ -16,7 +16,7 @@ a következő törvényt alkotja:
 
 (4) Az MFB Zrt. székhelye Budapest.
 
-(5) Az MFB Zrt.-re, az általa végzett pénzügyi szolgáltatási tevékenységre a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.), illetve a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
+(5) Az MFB Zrt.-re, az általa végzett pénzügyi szolgáltatási tevékenységre a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.), illetve a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
 
 (6) Az MFB Zrt. nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 

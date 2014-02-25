@@ -20,8 +20,9 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (5a) E törvény alkalmazásában:
 
-- a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésben foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás,
-- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
+- a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésbe foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás. Idegenforgalmi ágazatba sorolt belföldi gazdálkodó szervezet esetében a devizakülföldivel kötött belföldön teljesített szolgáltatásnyújtás is figyelembe vehető exportra irányuló szolgáltatás-nyújtásként.
+- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése
+- c) nemzetközi fejlesztési együttműködés: az OECD DAC besorolás szerint hivatalos fejlesztési támogatásra (ODA) jogosult fejlődő országok gazdasági és társadalmi fejlődésének előmozdítására irányuló, a donor- és a kedvezményezett ország közötti partneri viszonyon alapuló tevékenység, amelynek keretében a donor ország hivatalos szervein, ügynökségein keresztül kedvezményes hiteleket, vagy vissza nem térítendő támogatást nyújt a kedvezményezett országnak, illetve a kedvezményezett ország erre jogosult gazdálkodó szervezeteinek, illetve intézményeinek.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
@@ -39,7 +40,17 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 - f) pénzforgalmi szolgáltatások nyújtása;
 - g) kizárólag tevékenységéhez szükséges forrásszerzés céljából:
   - ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től;
-  - gb) kötvények kibocsátása.
+  - gb) kötvények kibocsátása;
+- h) követelésvásárlás.
+
+(1a) Az Eximbank a nemzetközi fejlesztési együttműködési célú segélyügyletekhez, valamint nemzetközi fejlesztési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódóan az alábbi tevékenységet végzi:
+
+- a) vissza nem térítendő támogatás, illetve kedvezményes hitel nyújtásával nemzetközi fejlesztési együttműködési célú segélyügyletek finanszírozása,
+- b) nemzetközi pénzügyi-fejlesztési intézmény által működtetett nemzetközi fejlesztési együttműködési célú alap alapításához, vagy ahhoz történő csatlakozás a 6. § (4a) bekezdésben meghatározott források felhasználásával.
+
+(1b) Az Eximbank a nemzetközi fejlesztési együttműködési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódó megállapodások vonatkozásában az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős minszterek egyetértése esetén az állam képviseletében jár el, és e felhatalmazásra történő hivatkozás mellett jogosult a vonatkozó szerződések megkötésére, módosítására vagy megszüntetésére.
+
+(1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.
 
 (2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek, és kedvező kamatozású hiteleket nyújthat a külön rendeletben foglalt feltételek mellett. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
 
@@ -119,7 +130,9 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (3) Az Eximbanknak az (1) bekezdés b) és c) pontja, valamint a Mehib Rt.-nek a (2) bekezdés szerinti fizetési kötelezettsége teljesítéséhez szükséges forrásokat a központi költségvetés közvetlenül biztosítja.
 
-(4) A 2. § (2) bekezdése szerint nyújtott hitelek kamatának, valamint az e célt szolgáló finanszírozási költségek különbözetének (a továbbiakban: egyenleg) forrását az Eximbank részére a központi költségvetés – kormányrendeletben megállapított feltételek szerint és módon – közvetlenül biztosítja (kamatkiegyenlítési rendszer).
+(4) A 2. § (2) bekezdése szerint nyújtott hitelek kamatának, valamint az e célt szolgáló finanszírozási költségek különbözetének (a továbbiakban: egyenleg) forrását az Eximbank részére a központi költségvetés – kormányrendeletben megállapított feltételek szerint és módon – közvetlenül biztosítja.
+
+(4a) A 2. § (1b) bekezdés hatálya alá tartozó, nemzetközi fejlesztési együttműködési célú tevékenységhez szükséges forrásokat 2014. évben az állam a központi költségvetés terhére, a kamatkiegyenlítési rendszeren keresztül közvetlenül biztosítja az Eximbnak részére. 2014. évet követően a központi költségvetésről szóló törvény külön előirányzata tartalmazza az Eximbank 2. § (1b) bekezdésben meghatározott tevékenységéhez szükséges forrásokat.
 
 (5) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén a jogosult az állami készfizető kezességvállaláson túlmenően további biztosíték előírására nem köteles.
 
@@ -152,7 +165,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani, vagy harmadik személy útján behajtatni. Az Eximbank és a Mehib Rt. a követelés behajtása, vagy harmadik személy útján történő behajtatása során az államháztartásról szóló 2011. évi CXCV. törvény és a végrehajtására kiadott rendelet rendelkezéseinek figyelembevételével köteles eljárni.
 
-(2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a kamat és késedelmi kamat nélkül befolyt követelés.
+(2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat.
 
 9. §
 
@@ -176,7 +189,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib Rt. igazgatósági tagjává, a Mehib Rt. igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.
 
-(3) Az Eximbank tekintetében a Hpt. 148. § (2) bekezdését nem kell alkalmazni.
+(3)
 
 ### Felügyelő bizottság
 
@@ -216,7 +229,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 szerzett.
 
-(4) A (2) bekezdés a) pontja alkalmazásában büntetlen előéletű az a személy, aki a büntetlen előéletét a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád, a hatóság félrevezetése, a hamis tanúzás, a hamis tanúzásra felhívás, a mentő körülmény elhallgatása, a bűnpártolás, a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény, a nemzetközi gazdasági tilalom megszegése, a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, a visszaélés robbanóanyaggal vagy robbantószerrel, a visszaélés lőfegyverrel vagy lőszerrel, a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, a bűnszervezetben részvétel, a visszaélés atomenergia alkalmazásával, a visszaélés nemzetközi szerződés által tiltott fegyverrel, az önbíráskodás, a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények tekintetében a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény alapján kibocsátott hatósági bizonyítvánnyal igazolta.
+(4)
 
 (5) Akivel szemben
 
@@ -250,6 +263,8 @@ szerzett.
 (3) Az 575/2013/EU rendelet Első rész II. cím 2. fejezetének alkalmazásában az Eximbank pénzügyi vállalkozásnak minősül.
 
 (4) Az Eximbank nem alkalmazza az 575/2013/EU rendelet 411–428. cikkében foglaltakat.
+
+(5) A nem piacképes kockázatú biztosítások feltételeiről szóló külön jogszabályban foglalt feltételeknek megfelelő, a kormány készfizető kezessége mellett nyújtott, nem piacképes kockázatú biztosítást a kormány készfizető kezessége mértékéig az Eximbank elismerheti hitelkockázat csökkentő tételként.
 
 ### Hitelnyújtás
 
@@ -290,15 +305,16 @@ szerzett.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-26. § (1) A Kormány felhatalmazást kap arra, hogy a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendeletekben külön meghatározza az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait.
+26. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
-(2) Felhatalmazást kap a Kormány arra, hogy a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítások, viszontbiztosítások tárgyát, a biztosítási eseményeket, valamint ezen biztosítások és viszontbiztosítások feltételeit és részletes szabályait, valamint az országok piacképesség szempontjából történő besorolását rendeletben határozza meg.
+- a) az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet külön rendelkezései között,
+- b) a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítások, viszontbiztosítások tárgyát, a biztosítási eseményeket, valamint e biztosítások és viszontbiztosítások feltételeit és részletes szabályait, valamint az országok piacképesség szempontjából történő besorolását,
+- c) az Eximbank kamatkiegyenlítési rendszere részletes szabályait,
+- d) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák és az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei részletes szabályait,
+- e) az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitelnyújtás, segélyhitel ügyletek költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatás részletes szabályait,
+- f) az Eximbank által a nemzetközi fejlesztési célú együttműködés keretében végezhető tevékenységek és azok költségvetéssel történő elszámolásának, az ehhez kapcsolódó adatszolgáltatás részletes szabályait.
 
-(3) Felhatalmazást kap a Kormány arra, hogy az Eximbank kamatkiegyenlítési rendszere, az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei és az Eximbank által az állam készfizető kezessége mellett vállalható garanciák feltételeit és részletes szabályait rendeletben szabályozza.
-
-(4) A Kormány felhatalmazást kap arra, hogy az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitel-nyújtás részletes szabályait rendeletben állapítsa meg.
-
-(5) Az államháztartásért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának részletes szabályait, valamint a 8/A. § (2) bekezdésében említett jutalék mértékét.
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az (1) bekezdés b)–d) pontjaiban meghatározott kormányrendeletek hatálya alá tartozó tevékenységekre az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatásának részletes szabályait, valamint e rendeletben megállapítsa a 8/A. § (2) bekezdésben meghatározott jutalék mértékét.
 
 26/A. §
 

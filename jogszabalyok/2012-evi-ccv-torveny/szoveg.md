@@ -1884,6 +1884,8 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 
 (5) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal az állomány tagja is részt vehet, és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
 
+140/A. § Az altiszti és a legénységi állomány tagja havonta tízezer forint kiegészítő juttatásra jogosult, melyet az illetménnyel együtt kell folyósítani.
+
 #### 83. A juttatások kifizetése
 
 141. § (1) Az állomány tagjának szolgálati viszonyából származó pénzbeli juttatása az általa meghatározott fizetési számlájára történő átutalással, ennek hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik. Egyes nem rendszeres juttatások pénztárból történő kifizetésére miniszteri rendeletben meghatározott módon kerülhet sor.
@@ -3093,6 +3095,8 @@ különbözetének megtérítése iránti igényt.
 
 (3) A 8. mellékletet a 2013. július 1-jén szolgálatot teljesítő honvéd tisztjelöltekre és honvéd altiszt-jelöltekre is alkalmazni kell.
 
+247/A. § A 140/A. §-ban meghatározott kiegészítő juttatásnak a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított szabályait 2014. január 1-jétől kell alkalmazni.
+
 #### 142. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 248. § (1) E törvény 259. § (1)–(3), (7)–(11) bekezdése és a 272. §-a az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése alapján sarkalatosnak minősül.
@@ -3116,7 +3120,7 @@ különbözetének megtérítése iránti igényt.
 
 való megfelelést szolgálja.
 
-#### 144. Módosító rendelkezések
+#### 144.
 
 250. §
 

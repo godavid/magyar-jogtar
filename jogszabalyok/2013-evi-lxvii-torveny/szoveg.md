@@ -116,15 +116,15 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 8. § Az útdíjszedő, az útdíjszolgáltató és a bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendelet szerint meghatározott útdíj összegén felül nem számíthat fel a díjfizetésre kötelezettnek semmilyen további díjat vagy indokolatlan költséget az UD rendszerhez való hozzáférésért. Az úthasználati jogosultság ellenértékének meghatározásakor a jogszabályban meghatározott útdíj mértékétől nem lehet eltérni.
 
-8/A. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneiből eredő fizetési kötelezettsége 100%-ának teljesítéséért.
+8/A. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az útdíj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneiből eredő fizetési kötelezettsége 100%-ának teljesítéséért.
 
 (2) Az (1) bekezdés szerinti állami készfizető kezesség év végi állományát a költségvetési törvényben kell meghatározni.
 
 (3) A KAVOSZ Vállalkozásfejlesztési Zrt. (1) bekezdés szerinti hitelszerződése biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles.
 
-8/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára használati díj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökből eredő fizetési kötelezettség 80%-ának teljesítéséért.
+8/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára útdíj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökből eredő fizetési kötelezettség 80%-ának teljesítéséért.
 
-(2) Az (1) bekezdés szerinti állami készfizető kezesség csak a használati díj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
+(2) Az (1) bekezdés szerinti állami készfizető kezesség csak az útdíj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
 
 (3) Az (1) bekezdés szerinti állami készfizető kezesség együttes év végi állományát a költségvetési törvényben kell meghatározni.
 
