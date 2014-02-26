@@ -163,7 +163,7 @@ lakossági ügyfél vonatkozásában
 (3) A Vht.
 
 - a)
-- b) 307. § (2) bekezdés d) pontjában az „ellátására” szövegrész helyébe az „ellátására és panaszügyintézésére”,
+- b)
 - c)
 
 szöveg lép.
@@ -205,7 +205,7 @@ szöveg lép.
 74. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
 - a)
-- b) 29. § (9) bekezdésében a „betöltött” szövegrész helyébe a „be nem töltött”
+- b)
 
 szöveg lép.
 
@@ -213,7 +213,7 @@ szöveg lép.
 
 77. § (1) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB tv.)
 
-- a) 1. § (5) bekezdésében az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény” szövegrész helyébe az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény” szöveg,
+- a)
 - b)–e)
 
 lép.
@@ -226,12 +226,7 @@ lép.
 
 #### 82–84. §
 
-85. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
-
-- a) 8/A. § (1) bekezdésében az „autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj” szövegrész, és a 8/B. § (1) bekezdésében a „használati díj” szövegrész helyébe az „útdíj”,
-- b) 8/B. § (2) bekezdésében az „a használati díj” szövegrész helyébe az „az útdíj”
-
-szöveg lép.
+#### 85. §
 
 #### 86–87. §
 

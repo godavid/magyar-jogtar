@@ -750,117 +750,35 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 #### 241. §
 
-242. § (1) Az MNBtv. 13. § (9) és (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A Pénzügyi Stabilitási Tanács határozatképes, ha tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő tagok egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke írja alá.
-
-(10) A Pénzügyi Stabilitási Tanács ügyrendjét maga határozza meg.”
-
-(2) Az MNBtv. 13. §-a következő (11) és (12) bekezdéssel egészül ki:
-
-„(11) A Pénzügyi Stabilitási Tanács az ügyrendjében meghatározottak szerint a (2) bekezdés k) pontjában meghatározott döntések tekintetében – egyes döntések vonatkozásában vagy teljes körűen – a kiadmányozási jogot az MNB által alkalmazott vezetői megbízatással rendelkező személyre ruházhatja át.
-
-(12) A Pénzügyi Stabilitási Tanács álláspontját az elnök vagy az erre a Pénzügyi Stabilitási Tanács által felhatalmazott tagja jogosult nyilvánosságra hozni.”
+#### 242. §
 
 #### 243. §
 
 #### 244. §
 
-245. § Az MNBtv. 47. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 245. §
 
-„(1) Az MNB engedélyezési, ellenőrzési és piacfelügyeleti eljárásában ügyfél az,
+#### 246. §
 
-a) akire nézve az MNB jogot vagy kötelezettséget állapíthat meg,
+#### 247. §
 
-b) akit az MNB ellenőrzése alá von,
+#### 248. §
 
-c) aki engedélyezés iránt az MNB-hez kérelmet nyújt be, vagy
+#### 249. §
 
-d) akire nézve az MNB által vezetett közhiteles hatósági nyilvántartás adatot tartalmaz.”
+#### 250. §
 
-246. § Az MNBtv. a következő 50/A. §-sal egészül ki:
+#### 251. §
 
-„50/A. § (1) A természetes személy ügyfél lakóhelyére, tartózkodási helyére vagy a természetes személy ügyfél meghatalmazottja címére, illetve a nem természetes személy ügyfél cégjegyzékbe vagy a civil szervezetek bírósági nyilvántartásába bejegyzett székhelyére vagy meghatalmazottja címére, valamint a Magyarországon lakcímmel vagy székhellyel nem rendelkező külföldi személy magyarországi kézbesítési meghatalmazottja vagy kézbesítési megbízottja címére postai úton feladott hivatalos iratot
+#### 252. §
 
-a) ha e címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadja vagy szándékosan megakadályozza vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a címzett ismeretlensége vagy a postai szolgáltatónak bejelentett elköltözése, elhalálozása (megszűnése) miatt meghiúsul, a kézbesítés megkísérlésének napján,
+#### 253. §
 
-b) ha az „nem kereste” kézbesíthetetlenségi ok jelzésével érkezik vissza a feladóhoz, az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon – ellenkező bizonyításig –
+#### 254. §
 
-kézbesítettnek kell tekinteni.
+#### 255. §
 
-(2) Ha az MNB a hatósági döntését postai kézbesítés mellőzésével saját kézbesítés keretében kézbesíti, azt a személyes átadás megkísérlésének napján akkor is kézbesítettnek kell tekinteni, ha a nem természetes személy ügyfél cégjegyzékbe vagy a civil szervezetek bírósági nyilvántartásába bejegyzett székhelyén a hivatalos irat átvételére jogosult személy az átvételt megtagadja.
-
-(3) Ha az ügyfélnek több meghatalmazott képviselője van, az MNB az iratot az ügyfél által az iratok átvételére írásban kijelölt képviselővel közli, ilyen kijelölés hiányában az MNB az iratot az ügyfél általa választott meghatalmazott képviselőjével közli.
-
-(4) Egyebekben a Ket. kézbesítési vélelemre és annak megdöntésére vonatkozó rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.”
-
-247. § Az MNBtv. 53. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.”
-
-248. § Az MNBtv. 54. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az MNB által jogerősen kiszabott és meg nem fizetett bírságot, valamint a meg nem fizetett vagy késedelmesen megfizetett bírság miatt felszámított késedelmi pótlékot az állami adóhatóság adók módjára hajtja be. Az MNB az állami adóhatóság megkereséséhez a jogerős határozat egy példányát köteles csatolni.”
-
-249. § Az MNBtv. 55. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az MNB döntése ellen fellebbezésnek nincs helye. Az ügyfél az MNB határozatának és önálló jogorvoslattal megtámadható végzésének bírósági felülvizsgálatát kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól.”
-
-250. § Az MNBtv. 75. § (4) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(Az MNB az intézkedések alkalmazásánál tekintettel van:)
-
-„g) az intézkedéssel érintett személy jó- vagy rosszhiszeműségére, az általa a szabályszegéssel vagy a mulasztással elért vagyoni előnyre és az elkerült vagyoni hátrányra,”
-
-251. § Az MNBtv. 81. § (2) bekezdés helyébe a következő rendelkezés lép:
-
-„(2) E törvény alkalmazásában fogyasztó az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.”
-
-252. § Az MNBtv. „29. Fogyasztóvédelmi ellenőrzési eljárás” alcíme a következő 89/A. és 89/B. §-sal egészül ki:
-
-„89/A. § (1) Az MNB a fogyasztóvédelmi rendelkezések betartásának ellenőrzése céljából a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetnél vagy személynél célvizsgálatot vagy több szervezetnél vagy személynél témavizsgálatot tarthat.
-
-(2) Az MNB a határozatainak teljesülését utóvizsgálat keretében vagy adatszolgáltatás alapján ellenőrizheti.
-
-(3) Az MNB a hivatalból indított fogyasztóvédelmi ellenőrzési eljárás során tett megállapításait célvizsgálat esetében az ellenőrzési eljárás megindítását követő hat hónapon belül, témavizsgálat esetében egy éven belül vizsgálati jelentésben rögzíti, és azt az ellenőrzött személlyel vagy szervezettel közli. A vizsgálati jelentés elkészítésére és közlésére nyitva álló határidő indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
-
-(4) A vizsgálati jelentésnek tartalmaznia kell
-
-a) a vizsgálat tárgyának megjelölését,
-
-b) a megállapított tényállást és az azt alátámasztó bizonyítékokat,
-
-c) a tényállás értékelését.
-
-(5) Az eljárás alá vont szervezetek és személyek a vizsgálati jelentésre annak kézhezvételétől számított húsz napon belül írásban észrevételeket tehetnek. Ha ez az időtartam az intézkedés eredményességét veszélyeztetné, az MNB rövidebb határidőt is előírhat. A rövidebb határidő előírását az MNB-nek a (4) bekezdés szerinti vizsgálati jelentésében meg kell indokolnia.
-
-(6) Az MNB az észrevételek kézhezvételétől, illetve a határidő eredménytelen elteltétől számított negyvenöt napon belül hozza meg a döntését. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
-
-(7) Az (1) bekezdés szerinti vizsgálatokra megfelelően alkalmazni kell a 81–89. § rendelkezéseit azzal, hogy a 81. § (2) bekezdését és a 83. § (1) bekezdését nem lehet alkalmazni.
-
-89/B. § (1) Ha az MNB a fogyasztóvédelmi rendelkezések betartását az ellenőrzési eljárás keretében ellenőrzi, akkor az eljárásra a 82. §-t megfelelően alkalmazni kell.
-
-(2) Ha az MNB a fogyasztóvédelmi rendelkezések megsértését ellenőrzési eljárása során észleli, akkor e rendelkezések megsértése miatt a 88. és 89. §-okban meghatározott intézkedéseket alkalmazhatja.
-
-(3) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 75. § (1) bekezdés a)–c) pontjában meghatározott esetkörök mellett a fogyasztóvédelmi rendelkezések megsértése is megvalósult, akkor az MNB valamennyi jogsértésre egységes intézkedést is alkalmazhat, amelyre a 75. és a 76. §-ban meghatározottakat kell alkalmazni.”
-
-253. § Az MNBtv. 93. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A piacfelügyeleti eljárás során a Ket. 29. § (3) bekezdés a) pontját és (4) és (5) bekezdését, a 70. §-át, valamint az e törvény szerinti ellenőrzési eljárás szabályait – a 64. § (1) és (3)–(8) bekezdése, a 65. §, a 67. § (1) és (2) bekezdése, a 69–71. § és a 76. § kivételével – alkalmazni kell.”
-
-254. § Az MNBtv. 159. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az MNB jogosult munkavállalói részére forintban és külföldi pénznemben fizetési számlát vezetni azzal, hogy ezen bankszámla terhére a munkavállaló kizárólag fizetési számláról történő készpénzkifizetésről rendelkezhet.”
-
-255. § Az MNBtv. 169. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az MNB által jogerősen megállapított és meg nem fizetett felügyeleti díjat, valamint a felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén felszámított késedelmi pótlékot az MNB megkeresésére az állami adóhatóság adók módjára hajtja be. Az MNB az állami adóhatóság megkereséséhez a jogerős határozat egy példányát köteles csatolni.”
-
-256. § Az MNBtv. a következő 183/D. §-sal egészül ki:
-
-„183/D. § (1) A Magyar Nemzeti Bank térítésmentesen megszerzi a Hitelintézeti Felszámoló Nonprofit Kft. – állam tulajdonában álló – üzletrésze feletti tulajdonosi jogokat, amely részesedés a Magyar Nemzeti Bank eredménytartalékát növeli.
-
-(2) Az (1) bekezdésben meghatározott részesedés megszerzésének a napja a Kbftv. hatálybalépésének a napja.”
+#### 256. §
 
 #### 257. §
 
@@ -868,334 +786,47 @@ c) a tényállás értékelését.
 
 #### 259. §
 
-260. § A közbeszerzésekről szóló 2011. évi CVIII. törvény 168. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Közbeszerzési Hatóság keretében Tanács (a továbbiakban: Tanács) működik, amely tizenöt tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
-
-(2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
-
-a) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;
-
-b) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
-
-c) az agrár-vidékfejlesztésért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
-
-d) az építésügyért felelős miniszter által kijelölt személy;
-
-e) a Miniszterelnökséget vezető államtitkár által kijelölt személy;
-
-f) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
-
-g) a Gazdasági Versenyhivatal elnöke vagy az általa kijelölt személy;
-
-h) a Kormányzati Ellenőrzési Hivatal elnöke vagy az általa kijelölt személy;
-
-i) a Nemzeti Fogyasztóvédelmi Hatóság vezetője vagy az általa kijelölt személy;
-
-j) a Magyar Nemzeti Bank elnöke vagy az általa kijelölt személy;
-
-k) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
-
-l) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy.”
+#### 260. §
 
 #### 261. §
 
-262. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 81. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 262. §
 
-(Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza:)
+#### 263. §
 
-„b) a lakáscélú munkáltatói támogatás
+#### 264. §
 
-ba) igazolására szolgáló bizonylatokat,
+#### 265. §
 
-bb) folyósításáról a hitelintézet, a kincstár által kiállított igazolás tartalmát, kiállításának feltételeit és rendjét,
+#### 266. §
 
-bc) folyósításáról a hitelintézet, a kincstár, a munkáltató által teljesítendő adatszolgáltatás rendjét,
-
-bd) adómentessége feltételeinek vizsgálatára köteles személyek körét és módját.”
-
-(2) Az Szja tv. a következő 84/Z. §-sal egészül ki:
-
-„84/Z. § E törvénynek a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított 1. számú melléklet 2. pont 2.7. alpontja – ha az a magánszemély számára kedvezőbb – a 2014. január 1-jétől megszerzett jövedelmekre is alkalmazható.”
-
-(3) Az Szja tv. 84/Y. § (9) bekezdésében a „13. § (1) bekezdés a) alpontja” szövegrész helyébe a „13. § (1) bekezdés a) alpontja, 28. § (2) bekezdése” szöveg lép.
-
-(4) Az Szja tv. 1. számú melléklete a 16. melléklet szerint módosul.
-
-263. § (1) A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaztv.) 32. §-a a következő t) ponttal egészül ki:
-
-[A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult]
-
-„t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához.”
-
-(2) A Szaztv. 36. §-a a következő v) ponttal egészül ki:
-
-[A személyi azonosító továbbítására jogosult:]
-
-„v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához.”
-
-264. § (1) A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény (a továbbiakban: Tftv.) 5. § i) pontja helyébe a következő rendelkezés lép:
-
-(A törvény alkalmazásában:)
-
-„i) térség: különböző területi egységek (az ország, a régió, a megye, a kiemelt térség, a járás, valamint ezek területének egy része) összefoglaló elnevezése,”
-
-(2) A Tftv. 5. §-a következő z) ponttal egészül ki:
-
-(A törvény alkalmazásában:)
-
-„z) regionális támogatási térkép: a versenyszférába tartozó tevékenységekhez beruházási támogatás formájában nyújtható állami támogatásokat meghatározó szabályozás az ország területeire és térségeire, mely az Európai Bizottságnak a regionális állami támogatásokról szóló iránymutatása alapján kerül összeállításra.”
-
-(3) A Tftv. 7. § f) pontja helyébe a következő rendelkezés lép:
-
-(A Kormány döntéseiben biztosítja a regionális politika érvényesülését, ennek keretében:)
-
-„f) meghatározza a régiók területi lehatárolását,”
-
-(4) A Tftv. 7. § n) és o) pontja helyébe a következő rendelkezések lépnek, és a § a következő p) ponttal egészül ki:
-
-(A Kormány döntéseiben biztosítja a regionális politika érvényesülését, ennek keretében:)
-
-„n) meghatározza a kedvezményezett járások és települések besorolását, valamint a besorolás feltételrendszerét;
-
-o) az európai uniós tervezési ciklusoknak megfelelően felülvizsgálja a kedvezményezett járások és települések körét.
-
-p) dönt a regionális támogatási térkép koncepciójáról.”
-
-(5) A Tftv. 9/B. § i) pontja helyébe a következő rendelkezés lép:
-
-(A területfejlesztés stratégiai tervezéséért felelős miniszter)
-
-„i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért felelős miniszter közreműködésével;”
-
-(6) A Tftv. 9/B. § a következő l) ponttal egészül ki:
-
-(A területfejlesztés stratégiai tervezéséért felelős miniszter)
-
-„l) kidolgozza a regionális támogatási térkép koncepcióját.”
-
-(7) A Tftv. 15. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A térségi fejlesztési tanács létrehozásakor az (1) bekezdésben meghatározott feladatok tekintetében az érintett megyei közgyűlések szervezeti és működési szabályzatban rögzítik a 11. § (1) bekezdésében felsorolt feladatok figyelembevételével, hogy mely feladatokat látnak el a térségi fejlesztési tanács keretében.”
-
-(8) A Tftv. 15. § (13) bekezdés helyébe a következő rendelkezés lép:
-
-„(13) A térségi fejlesztési tanács a tagjai sorából elnököt és alelnököt (alelnököket) választ. Munkaszervezetét, működési rendjét – a 16. §-ban foglaltak figyelembevételével – maga alakítja ki.”
-
-(9) A Tftv. 15. §-a következő (15) és (16) bekezdéssel egészül ki:
-
-„(15) A területfejlesztési koncepció és program kidolgozását, és más közös területfejlesztési feladatokat a Tokaji Borvidék térségében a Tokaji Borvidék Fejlesztési Tanács látja el. A Tokaji Borvidék Fejlesztési Tanács ennek keretében:
-
-a) vizsgálja és értékeli a kiemelt térség társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a területi információs rendszer rendelkezésére bocsátja,
-
-b) az országos fejlesztési és területfejlesztési koncepcióval összhangban kidolgozza és a területfejlesztés stratégiai tervezéséért felelős miniszter útján a Kormánynak elfogadásra benyújtja a kiemelt térség területfejlesztési koncepcióját,
-
-c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat, és
-
-d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
-
-(16) A Tokaji Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaji Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter, valamint a miniszterelnökséget vezető államtitkár egy-egy képviselője.”
-
-(10) A Tftv. 27. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„b) a kedvezményezett járások és települések besorolásának feltételrendszerét és besorolását,”
-
-(11) A Tftv. 27. § (1) bekezdés n) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„n) a kormányhivatal és a kincstár, a térségi fejlesztési tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét,”
-
-(12) Hatályát veszti a Tftv.
-
-- 1. 5. § g) és h) pontja,
-- 2. 9/B. § e) pontja,
-- 3. területfejlesztéssel és a területrendezéssel összefüggő egyes törvények módosításáról szóló 2011. évi CXCVIII. törvény 16. §-ával megállapított 17. § (2) bekezdése,
-- 4. „Területfejlesztési-statisztikai kistérség” alcíme és 22/A–22/D. §-a,
-- 5. 1. melléklete.
-
-265. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 245/I. §-a helyébe a következő rendelkezés lép:
-
-„245/I. § A belügyminiszter irányítása alá tartozó fegyveres szervek, valamint az Országgyűlési Őrség hivatásos állományának tiszthelyettesi és zászlósi rendfokozati állománycsoportba tartozó tagja havonta 24 000 Ft kiegészítő juttatásra jogosult.”
-
-(2) A Hszt. a következő 337. §-sal egészül ki:
-
-„337. § A 245/I. §-ban meghatározott kiegészítő juttatásnak a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított szabályait 2014. január 1-jétől kell alkalmazni.”
-
-266. § Hatályát veszti a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. §-ának a látvány-csapatsport támogatásával kapcsolatos egyes törvények módosításáról szóló 2011. évi CLXXVIII. törvény 3. § (6) bekezdésével beiktatott, az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 51. § (9) bekezdés e) pontjával módosított (6a) bekezdése.
-
-267. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 15. §-a a következő (4)–(6) bekezdéssel egészül ki:
-
-„(4) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben meghatározott és az ott előírt módon közölt belső egyedi azonosítóval rendelkező személyek és szervezetek azonosítására a személyi azonosító, a cégjegyzékszám, illetve a statisztikai azonosító helyett a belső egyedi azonosítót kell használni.
-
-(5) Ahol e törvény a kérelemben, a megkeresésben, a bejelentésben, illetve az ezek alapjául szolgáló okiratban, vagy hatósági, bírósági határozatban személyi azonosító, cégjegyzékszám, illetve statisztikai azonosító feltüntetését írja elő, a (4) bekezdésben meghatározott személyek és szervezetek a belső egyedi azonosítójukat kötelesek az ingatlanügyi hatósággal közölni.
-
-(6) A belső egyedi azonosítót a tulajdoni lapon, továbbá – ha törvény másként nem rendelkezik – az ingatlan-nyilvántartás részeiről kiadott másolaton feltüntetni nem szabad, továbbá a 70. § (1) bekezdésében, 77. § (1) bekezdésében, valamint a 81. § (1) bekezdésében foglaltak a belső egyedi azonosítóra is irányadók.”
+#### 267. §
 
 #### 268. §
 
 #### 269. §
 
-270. § A Bit.
-
-- a) – egyes biztosítási tárgyú törvények módosításáról szóló 2013. évi LXXXVI. törvénnyel megállapított – 161/C. § (1) bekezdése a „161/A. §-ban meghatározott biztosítási ágazatokat művelő” szövegrész helyett a „161/B. § (1) bekezdésében meghatározott biztosítási ágazatokat művelő”,
-- b) – egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított – 39. § (1) bekezdése az „1 241 500” szövegrész helyett az „1 251 000”
-
-szöveggel lép hatályba.
+#### 270. §
 
 #### 271. §
 
-272. § A sportról szóló 2004. évi I. törvény 1. melléklete helyébe e törvény 17. melléklete lép.
+#### 272. §
 
-273. § (1) A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: Szvmt.) 38. § (1) bekezdése a következő n) ponttal egészül ki:
+#### 273. §
 
-(A kamara)
-
-„n) kormányrendeletben meghatározott eljárásrendben részt vesz a rendészetért felelős miniszternek a minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésében.”
-
-(2) Az Szvmt. a következő VI/B. Fejezettel egészül ki:
-
-„VI/B. FEJEZET
-
-A VAGYONVÉDELMI SZOLGÁLTATÁSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ KÖZBESZERZÉSI ELJÁRÁS KÜLÖNÖS SZABÁLYAI
-
-72/B. § (1) Ha az
-
-a) 1. § (2) bekezdés b)–d) pontjában meghatározott, valamint
-
-b) 1. § (2) bekezdés b)–d) pontjában meghatározott tevékenységek szervezésével és irányításával összefüggő
-
-tevékenységre (a továbbiakban együtt: vagyonvédelmi szolgáltatási tevékenység) irányuló közbeszerzési eljárásban a rezsióradíj mértéke a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 71. §-a szerint önállóan értékelésre kerül, aránytalanul alacsony árajánlatnak minősül, és köteles az ajánlatkérő a Kbt. 69. §-a szerint indokolást kérni, ha az ajánlattevő által alkalmazott rezsióradíj alacsonyabb a rendészetért felelős miniszter rendeletében megállapított minimális vagyonvédelmi szolgáltatási rezsióradíj mértékénél.
-
-(2) Az (1) bekezdésen kívüli esetekben az ajánlatkérő a Kbt. 69. § (1) bekezdése szerinti indokolás kérése keretében köteles arra vonatkozóan is tájékoztatást kérni, hogy az aránytalanul alacsony árat benyújtó ajánlattevő ajánlatában milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes költségeket milyen összeggel és módon vett figyelembe. Az ajánlatkérő az ajánlattevő által nyújtott indokolás gazdasági ésszerűséggel való összeegyeztethetőségének vizsgálata során figyelembe veszi a rendészetért felelős miniszter rendeletében megállapított minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, és ha az ajánlatban alkalmazott rezsióradíj annál alacsonyabb, különös figyelemmel vizsgálja a Kbt. 69. § (6) bekezdése szerinti körülmény fennállását.”
-
-(3) Az Szvmt. a következő 76. és 77. §-sal egészül ki:
-
-„76. § Felhatalmazást kap a Kormány arra, hogy a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés esetén alkalmazandó minimális vagyonvédelmi szolgáltatási rezsióradíj elemeit, a rendészetért felelős miniszternek a minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésére vonatkozó eljárás szabályait rendelettel állapítsa meg.
-
-77. § Felhatalmazást kap a rendészetért felelős miniszter arra, hogy a tárgyévre vonatkozó minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét rendelettel állapítsa meg.”
-
-274. § (1) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vasúti tv.) 2. § (5) bekezdése a következő 23. ponttal egészül ki:
-
-(Egyéb fogalmak:)
-
-„23. Vasúti pályahálózat működtetéséhez szükséges eszközök: a vasúti pálya és tartozékai, vasúti pályahálózat, vasúti üzemi létesítmények e törvény szerint meghatározott eszközein felül azon vasúti összeköttetést biztosító eszközök és kiszolgáló létesítmények is, amelyek vonatkozásában a vállalkozó vasúti társaságok számára a pályaműködtető diszkriminációmentes hozzáférést köteles biztosítani, illetve amelyek a diszkriminációmentesen nyújtandó pályavasúti szolgáltatásokhoz elengedhetetlenek.”
-
-(2) A Vasúti tv. 2. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A 85/A. § alkalmazásában az átadás-átvétel fordulónapja: a távközlő, erősáramú és biztosítóberendezési eszközök vonatkozásában az eszközök üzembe helyezésének, az egyéb eszközök vonatkozásában a műszaki átadás-átvételek dátuma, ide értve a rész műszaki átadás-átvételeket is. Abban az esetben, ha a műszaki átadás-átvételi eljárás nem záródik le sikeresen 60 nap alatt, akkor az első műszaki átadás-átvételi eljárás kezdő napját követő 60. napot kell a rendeltetésszerű használat kezdőnapjának tekinteni azon eszközök esetében, amelyek műszaki átadása nem ütközött akadályba.”
-
-(3) A Vasúti tv. 26. § (1)–(1d) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az országos és az állam tulajdonában lévő vasúti pályát tartalmazó térségi vagy elővárosi vasúti pályahálózatot működtető pályavasúti társaság vagy az integrált vasúti társaság, központi költségvetési szerv vagy az állam 100%-os tulajdonába tartozó más nem pályaműködtető vagyonkezelő gazdasági társaság (a továbbiakban: nem pályaműködtető vagyonkezelő) a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg. A nem pályaműködtető vagyonkezelő vagyonkezelési tevékenysége közfeladatnak minősül.
-
-(1a) Az állam nevében az MNV Zrt. jogosult megkötni a vasúti pályahálózat működtetéséhez szükséges valamennyi ingatlannak az állam tulajdonába kerülésére vonatkozó szerződéseket és vasúti pályahálózat működtetéséhez szükséges valamennyi ingatlannak a vagyonkezelésbe adására vonatkozó szerződéseket.
-
-(1b) Az állam tulajdonába kerülő és a már állam tulajdonában lévő, a vasúti pályahálózat működtetéséhez szükséges ingatlanok tekintetében az állam nevében a tulajdonosi jogokat az MNV Zrt. gyakorolja.
-
-(1c) Állami tulajdonba kerülés esetén a vasúti pályahálózat működtetéséhez szükséges ingatlanokra vonatkozó szerződéses jogviszonyokban az állam a korábbi tulajdonos jogutódjának minősül. Ezen ingatlanokra korábban kötött szerződések az abban rögzített feltételek szerint továbbra is hatályban maradnak, a felek külön rendelkezése nélkül.
-
-(1d) A nem pályaműködtető vagyonkezelő az MNV Zrt.-vel megkötött vagyonkezelési szerződés alapján a pályahálózat hasznosítási jogát a vasúti pályahálózat működtetőjének – a hasznosítási jog átengedésére, fejlesztési, felújítási és karbantartási feladatok ellátására vonatkozó szerződés keretében – ingyenesen átengedi. A nem pályaműködtető vagyonkezelő a vagyonkezelt vagyonra vonatkozó indokolt költségeit és ráfordításait a vasúti pályahálózat működtetőjére átháríthatja.”
-
-(4) A Vasúti tv. 85/A. §-a helyébe a következő rendelkezés lép:
-
-„85/A. § (1) A fejlesztési közreműködőként eljáró Nemzeti Infrastruktúra Fejlesztő Zrt. (a továbbiakban: NIF Zrt.), mint építtető a vasúti pályahálózaton, valamint az ahhoz kapcsolódó ingatlanokon központi költségvetési és európai uniós támogatásból létesítési, felújítási és fejlesztési feladatokat lát el az állam nevében és állami tulajdonon megvalósuló fejlesztés esetén az állam javára, amely tevékenység közcélú tevékenységnek minősül.
-
-(2) Az állam tulajdonába és ellenérték nélkül a NIF Zrt. vagyonkezelésébe kerül az (1) bekezdés szerinti közcélú tevékenység folytatása érdekében a NIF Zrt. által megvásárolt vagy kisajátított földrészlet. A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről a NIF Zrt. gondoskodik. A NIF Zrt. a vagyonkezelői jog bejegyzésére vonatkozó ingatlanügyi hatósági határozatot annak kézhezvételét követően haladéktalanul megküldi az MNV Zrt. részére. A NIF Zrt. vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése valamint törlése igazgatási szolgáltatási díjfizetési kötelezettség alól mentes.
-
-(3) A NIF Zrt. a beruházás előkészítéseként teljes körűen elkészítteti a szükséges terveket, tanulmányokat. A NIF Zrt. ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést és a régészeti feltárást), továbbá lefolytatja a közbeszerzési eljárásokat. A NIF Zrt. építési szerződéseket köt a megvalósításra, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, lebonyolítja a műszaki átadás-átvételt. A NIF Zrt.-re, mint építtetőre egyebekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény rendelkezései az irányadók.
-
-(4) A NIF Zrt. az általa felhasznált forrásokkal és létrehozott eszközökkel az átadás-átvétel fordulónapját és a projekt pénzügyi zárását követően elszámol a forrást rendelkezésre bocsátó szervvel.
-
-(5) A NIF Zrt. által megszerzett, az állam tulajdonában álló egyes földterületek, valamint a NIF Zrt. által ezen földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök az átadás-átvétel fordulónapján, e törvény erejénél fogva, ellenérték nélkül a NIF Zrt. által nyilvántartott könyv szerinti értéken adó- és illetékmentesen, a vasúti pályahálózat vagyonkezelője vagyonkezelésébe kerülnek, a NIF Zrt. vagyonkezelési jogának egyidejű megszűnése mellett azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak. Az átadás-átvétel fordulónapjától számított hat hónapon belül a NIF Zrt. elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és jelen bekezdés szerinti új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
-
-(6) Azon, vasúti pályahálózat részét képező és akár az ingatlan-nyilvántartás, akár a vasúti pályahálózat vagyonkezelőjének nyilvántartása szerint a vasúti pályahálózat vagyonkezelője vagyonkezelésében, kezelésében, használatában (értve ez utóbbi alatt a használat jogát), vagy tulajdonában lévő eszközök vonatkozásában, amelyek tulajdonjogi vagy vagyonkezelési helyzete nem rendezett – azaz az érintett eszköz nem áll az előbbiek szerinti valamennyi nyilvántartás alapján állami tulajdonban és a vasúti pályahálózat vagyonkezelőjének vagyonkezelésében – a fejlesztés előkészítő szakaszában, de legkésőbb az átadás-átvételig a vagyonrendezést az állami vagyonról szóló 2007. évi CVI. törvény vonatkozó rendelkezése szerint el kell végezni. Jelen bekezdésben foglaltak végrehajtása során a vasúti pályahálózat vagyonkezelője, a NIF Zrt. és az MNV Zrt. köteles kölcsönösen együttműködni.
-
-(7) A vasúti pályahálózat vagyonkezelője vagyonkezelésében lévő, rendezett vagyonkezelői státuszú állami vagyonon végzett, vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások eredményeként létrejövő vasúti pályahálózat működtetéséhez szükséges eszközöket a NIF Zrt. a vasúti pályahálózat vagyonkezelője részére ellenérték nélkül a NIF Zrt. által nyilvántartott könyv szerinti értéken, adó- és illetékmentesen adja át azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak. A NIF Zrt. az átadás-átvétel fordulónapjától számított hat hónapon belül elszámolási kimutatást készít az MNV Zrt. egyidejű tájékoztatása mellett annak céljából, hogy az érintett eszközöket az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a vasúti pályahálózat vagyonkezelője, azokat könyveiben nyilvántartásba vegye.
-
-(8) A NIF Zrt.-n és a vasúti pályahálózat vagyonkezelőjén kívül más vagyonkezelésében álló (a továbbiakban: más vagyonkezelésében álló) állami vagyonon végzett, nem vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások, tekintetében a NIF Zrt. az átadás-átvétel fordulónapjától számított hat hónapon belül elszámolási kimutatást készít az MNV Zrt. egyidejű tájékoztatása mellett annak céljából, hogy az érintett eszközöket, ingatlanokat az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a vagyonkezelő könyveiben azokat nyilvántartásba vegye. A más vagyonkezelésében álló állami vagyonon végzett, vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások eredményeként létrejövő vasúti pályahálózat működtetéséhez szükséges eszközöket a NIF Zrt. a vasúti pályahálózat vagyonkezelője részére adja át azzal, hogy az MNV Zrt., a NIF Zrt., az érintett ingatlan vagyonkezelője, valamint a vasúti pályahálózat vagyonkezelője köteles együttműködni annak érdekében, hogy az érintett ingatlan vagyonkezelőjévé a vasúti pályahálózat vagyonkezelője váljon. A jelen bekezdésben meghatározott eljárások ellenérték nélkül a NIF Zrt. által nyilvántartott könyv szerinti értéken adó- és illetékmentesen történnek azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak.
-
-(9) A nem állami tulajdonban lévő ingatlanon, az állami beruházás keretében, a tulajdonos érdekében végzett, nem vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások tekintetében a NIF Zrt. az átadás-átvétel fordulónapjától számított hat hónapon belül elszámolási kimutatást készít és az érintett, nem állami tulajdonban lévő ingatlan tulajdonosával az átadásról szerződést köt annak céljából, hogy az érintett eszközöket, ingatlanokat az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a tulajdonos könyveiben azokat nyilvántartásba vegye. A tulajdonos érdekében végzett nem vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások NIF Zrt.-től történő átvételéről a tulajdonos köteles megállapodni a NIF Zrt.-vel, a NIF Zrt. értesítésének kézhezvételét követő 30 napon belül.
-
-(10) A nem állami tulajdonban lévő ingatlanon végzett, vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások tekintetében a létrejövő vasúti pályahálózat működtetéséhez szükséges eszközöket a NIF Zrt. a vasúti pályahálózat vagyonkezelője részére, ellenérték nélkül a NIF Zrt. által nyilvántartott könyv szerinti értéken adó- és illetékmentesen adja át azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak. Az érintett ingatlanok, állami tulajdonba vételéről a vasúti pályahálózat vagyonkezelője köteles gondoskodni abban az esetben, ha az érintett (harmadik személy tulajdonában álló) ingatlan részben, vagy egészben már a beruházás (fejlesztés) megkezdésének időpontja előtt is vasútüzemi használat alatt állt. A beruházás előkészítésének és lebonyolításának időszakában szükségessé vált területszerzéseknél az elmaradt, vagy elkezdett, de be nem fejezett állami tulajdonba vétel utólagos végrehajtása érdekében, valamint a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Módtv.) hatályba lépését követően megkezdett fejlesztések érdekében szükségessé váló területszerzések során – a vasúti pályahálózat vagyonkezelőjének szakmai véleménye alapján – a NIF Zrt. köteles eljárni. Az állami tulajdonba vételt követően az MNV Zrt. az érintett ingatlanokat a vasúti pályahálózat vagyonkezelője részére vagyonkezelésébe adja.
-
-(11) Az (5)–(10) bekezdések szerinti elszámolási kimutatásnak tartalmaznia kell az átadott létesítményeknek, eszközöknek, berendezéseknek a tulajdonos és vagyonkezelő eszköz-nyilvántartási rendje szerinti, az állami vagyon nyilvántartására vonatkozó jogszabályoknak, a számviteli törvénynek megfelelően szolgáltatandó adatait, az Európai Unió és a költségvetési forrásokkal történő eszközönkénti elszámolást, a kimutatásoknak meg kell továbbá felelnie a vasúti pályaműködtetésére vonatkozó, ezen belül a vasúti pályakapacitás elosztására, a hálózat-hozzáférési díj megállapítására vonatkozó feltételeknek is. A vasúti pályahálózatot működtető pályavasúti társaság köteles a NIF Zrt. adatszolgáltatáshoz szükséges információkat megadni.
-
-(12) A vasúti társaság tulajdonában vagy vagyonkezelésében álló területen megvalósuló vasútfejlesztés esetén a vasúti társaság a beruházás jogerős használatba vételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
-
-(13) A jelen §-ban szabályozott, vagyonkezelői jog ingatlan-nyilvántartásban történő átvezetésére irányuló eljárásokban nem kell igazgatási szolgáltatási díjat fizetni.”
-
-(5) A Vasúti tv. 85/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az üzemeltető a (3) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a közműszakasz kiváltását vagy fejlesztését elvégezni vagy elvégeztetni. Az építtető a körülmények által indokolt mértékű, a közműszolgáltatóval egyeztetett – 30 napnál nem rövidebb – határidőt határoz meg a közműszakasz kiváltására vagy fejlesztésére. Az üzemeltető a véleményét az annak közléséről szóló felhívás kézhezvételétől számított nyolc munkanapos határidőn belül köteles közölni az építtetővel. Az építtető köteles a közműkiváltás vagy – fejlesztés indokolt költségeit az üzemeltetőnek megfizetni, vagy az építtető által létrehozott közművet, közműrészt ingyenesen az üzemeltetőnek átadni. A közműkiváltás vagy fejlesztés elvégzését követő 90 napon belül az építtető és az üzemeltető kötelesek egymással tételesen elszámolni.”
-
-(6) A Vasúti tv. 87/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A jogutód pályavasúti társaságnak az átmeneti engedély időszak alatt is meg kell felelnie a működési engedélyek és a biztonsági engedélyek kiadásának feltételeire vonatkozó előírásoknak. A jogutód pályavasúti társaság az átmeneti működési engedély időszak végéig működési engedélyt, az átmeneti biztonsági engedély időszak végéig biztonsági engedélyt köteles szerezni. Az átmeneti működési engedély és átmeneti biztonsági engedély időszakában a jogelőd pályavasúti társaság és a jogutód pályavasúti társaság a működtetés feltételeinek együttesen is megfelelhet.”
-
-(7) A Vasúti tv. a következő 87/B. §-sal egészül ki:
-
-„87/B. § A Módtv. hatályba lépése előtt megvalósított (átadás-átvétellel érintett) beruházás, fejlesztés tekintetében a Módtv.-vel módosított 85/A. § vonatkozásában a vasúti pályahálózat vagyonkezelőjének vagyonkezelői joga a törvény erejénél fogva, a Módtv. hatályba lépése napján jön létre, a Módtv.-vel módosított 85/A. § (5) bekezdésében meghatározott feltételekkel és a NIF Zrt. vagyonkezelői jogának egyidejű megszűnése mellett. A NIF Zrt. a Módtv. hatályba lépését követő hat hónapon belül készíti el elszámolási kimutatását azzal, hogy a könyv szerinti értékmeghatározás napjának a Módtv. hatályba lépésének napját kell tekinteni.”
-
-(8) A Vasúti tv. 88. § (1) bekezdése a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„h) a vasúti vagyon átadásával és működtetésével kapcsolatos egyes részletes szabályokat,”
-
-(rendeletben állapítsa meg.)
+#### 274. §
 
 #### 275. §
 
-276. § Hatályát veszti a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 21. § (3) bekezdésének harmadik mondata.
+#### 276. §
 
-277. § (1) A menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 76. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kormány – a miniszter előterjesztése alapján – a 19. § b) pontja szerinti ideiglenes védelemre jogosultként történő elismerésről normatív kormányhatározatot hoz.”
-
-(2) A Met. 19. § b) pontjában, 24. § (1) bekezdésében és 25. § (1) bekezdés a) pontjában az „az Országgyűlés” szövegrész helyébe az „a Kormány” szöveg lép.
-
-(3) A Met. 24. § (1) és (2) bekezdésében a „határozatában” szövegrész helyébe a „normatív kormányhatározatában” szöveg lép.
-
-(4) A Met. 24. § (2) bekezdésében az „az Országgyűlés” szövegrészek helyébe az „a Kormány” szöveg lép.
+#### 277. §
 
 #### 278. §
 
 #### 279. §
 
-280. § (1) A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 89. §-a a következő (6a)–(6g) bekezdéssel egészül ki:
-
-„(6a) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincsen helye.
-
-(6b) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság az eljárása során, a műszaki-biztonsági felülvizsgálat szakszerűségének és a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági megfelelőségének megállapítására, az eljáró hatóságot irányító területi szerv által vezetett hatósági nyilvántartásban szereplő szakértőt, vagy ha nem áll rendelkezésre elegendő szakértő, igazságügyi szakértőt rendel ki.
-
-(6c) Nem rendelhető ki szakértőként az, aki a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóság eljárásával érintett felhasználási helyen, az e törvény szerinti gáz csatlakozóvezeték- és felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységet végzett a kirendelést megelőző 3 éven belül.
-
-(6d) A hatósági nyilvántartásban az a gázszerelő szerepelhet, aki:
-
-a) a nyilvántartásba való felvételi kérelmét a hatóság részére benyújtja,
-
-b) a gázszerelők engedélyezéséről és nyilvántartásáról szóló jogszabály szerinti, a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosító engedéllyel rendelkezik,
-
-c) az engedély megszerzésétől számított legalább egy éves szakmai gyakorlattal rendelkezik, és
-
-d) a b)–c) pont szerinti feltételek meglétét igazolja.
-
-(6e) A hatóság által vezetett hatósági nyilvántartás tartalmazza a szakértő nevét, születésének helyét és időpontját, a szakértő képesítésének megnevezését, az általa végezhető tevékenység meghatározását. A nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
-
-(6f) A nyilvántartást vezető hatóság a szakértők jegyzékét honlapján közzéteszi, mely tartalmazza a szakértő nevét, és hozzájárulása esetén értesítési címét, telefonszámát, faxszámát, elektronikus postacímét.
-
-(6g) A nyilvántartást vezető hatóság a szakértőt a nyilvántartásból törli, ha
-
-a) ezt a szakértő kéri, vagy
-
-b) a 88. § (3) bekezdése szerinti nyilvántartásból a gázszerelő törlésre kerül.”
-
-(2) A Get. 133. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során feltárt hibák kijavítására kötelezésre, a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének kezelésére vonatkozó részletes eljárási szabályokat, valamint az eljárás során kirendelt szakértő tevékenysége folytatásának részletes feltételeit.”
+#### 280. §
 
 281. § (1)
 
@@ -1203,617 +834,79 @@ b) a 88. § (3) bekezdése szerinti nyilvántartásból a gázszerelő törlésr
 
 (3)–(4)
 
-(5) A Pft. 66/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A 36/A. § (1) bekezdés a) pontja szerinti díjtól és költségtől mentes készpénzkifizetésre az a fogyasztó jogosult, aki a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvény hatálybalépését megelőzően nem rendelkezett a fizetési számlához tartozó készpénz-helyettesítő fizetési eszközzel. Ez a jogosultság addig áll fenn, amíg a fogyasztó az utóbb a fizetési számlájához igényelt készpénz-helyettesítő fizetési eszközt birtokba nem veszi.”
+(5)
 
 (6)–(8)
 
-282. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 1. §-a a következő (2f) bekezdéssel egészül ki:
+#### 282. §
 
-„(2f) Nem képezi a Nemzeti Földalap részét a vasúti pályahálózat működtetéséhez szükséges földrészlet, függetlenül attól, hogy az ingatlan-nyilvántartásban milyen művelési ággal, vagy kivett megnevezéssel van nyilvántartva.”
+#### 283. §
 
-283. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 98/O. §-a a következő (12a) és (12b) bekezdéssel egészül ki:
+#### 284. §
 
-„(12a) Amennyiben az érintett vezetői munkakörbe vagy pénzügyi nyomozói munkakörbe kerül kinevezésre, II. besorolási osztályból I. besorolási osztályba kerül átsorolására, illetve ha a 31/A. § szerinti címadományozásra kerül sor, az érintett illetményének megállapítása során az általános szabályokat kell irányadónak tekinteni, a továbbiakban illetménykülönbözet címén illetményelem nem állapítható meg, nem tartható nyilván.
-
-(12b) Amennyiben az érintett illetménye a (12a) bekezdés alapján került megállapításra, és vezetői munkakörből nem vezetői munkakörbe, pénzügyi nyomozói munkakörből nem pénzügyi nyomozói munkakörbe kerül kinevezésre, illetve a 31/A. § alapján adományozott címe visszavonásra kerül, illetményét a 20. § szerinti besorolása alapján kell megállapítani, továbbá részére a (12a) bekezdés szerinti munkáltatói intézkedést megelőzően nyilvántartott illetménykülönbözet összegét is meg kell állapítani – szükség szerint az (1) bekezdés b) pontja szerinti korrekcióval – és jelen § alapján nyilván kell tartani.”
-
-284. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 1. § (1) bekezdés 9. pontja helyébe a következő rendelkezés lép:
-
-(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban:)
-
-„9. lakóingatlan:
-
-a) lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese, valamint
-
-b) minden olyan egyéb ingatlan, ami legalább 2011. január 1-jétől a hiteladós bejelentett lakóhelye;”
-
-285. § (1) A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 1. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (3) bekezdés szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét a 2010. január 1-jén hatályos Kombinált Nomenklatúra szerint az 1. melléklet határozza meg. A termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő kódszámokkal kerülnek azonosításra.”
-
-(2) A Ktdt. 2. §-a a következő 1a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„1a. alapanyagként történő felhasználás: a termékdíjköteles termék oly módon történő felhasználása, amely során a termékdíjköteles termék a technológiai eljárás szerint épül be egy másik termékbe, elveszítve az eredeti tulajdonságait;”
+285. § (1)–(2)
 
 (3)–(4)
 
-(5) A Ktdt. 3. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A termékdíjköteles termék alapanyagként történő felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék nem minősül saját célú felhasználásnak. A gyártási selejt, hulladék a hulladékkezelési teljesítményben nem számolható el.”
-
-(6) A Ktdt. 3. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:)
-
-„b) a termékdíjköteles termék éves kibocsátási mennyiségéből 0,5%-ot meghaladó mennyiségű ténylegesen bekövetkezett hiány mennyiségére, vagy a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.”
+(5)–(6)
 
 (7)
 
 (8)
 
-(9) A Ktdt. 10. §-a a következő (8) és (9) bekezdéssel egészül ki:
-
-„(8) Az egyéni hulladékkezelést választó kötelezett az (1) és (3) bekezdésben meghatározott bejelentést termék- és anyagáramonként, tárgyévre vonatkozóan teszi meg.
-
-(9) A kötelezett az e § szerinti bejelentését az e törvény végrehajtására kiadott rendeletben meghatározott adattartalommal, elektronikus úton teljesíti az állami adóhatóság felé. A termékdíj-kötelezettségre kiható változásnak minősül, ha az adatok bármelyike módosul.”
-
-(10) A Ktdt. 11. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A kötelezettnek az e § szerinti bevallási kötelezettségét számviteli bizonylattal, és az e törvény végrehajtására kiadott rendeletben meghatározott nyilvántartás szerinti adattartalommal megegyezően kell teljesítenie az állami adóhatóság felé.”
-
-(11) A Ktdt. 12/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A termékdíj-előleg mértéke a tárgyév (adóév) első három negyedéve után fizetett termékdíj harmadának a 80%-a, amelyben figyelembe kell venni az erre az időszakra vonatkozóan elfogadott önellenőrzés, pótlólag benyújtott bevallás alapján befizetett vagy visszafizetett összeget is.”
-
-(12) A Ktdt. 13. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés b) pontja alapján a visszaigénylésre jogosult vevő igénye alapján a kötelezettnek, illetve a kötelezett vevőinek a számlán fel kell tüntetni a termékdíjköteles termék környezetvédelmi termékkódját (a továbbiakban: KT kód), csomagolószer esetében a csomagolószer-katalógus kódját (a továbbiakban: CsK kód), a termékdíj mértékét és összegét, továbbá a termékdíj megfizetését (bevallását) igazoló dokumentumok adatait. Megfizetést igazoló dokumentumok adatai közül – legalább a termék első belföldi forgalombahozatalakor – a kötelezett által kibocsátott számla számát, keltét, a kötelezett nevét, címét, adószámát a számlának tartalmaznia kell.
-
-(4) Nem kell a számlán záradékot feltüntetni – a 3. § (6) bekezdés c) pont ca) alpontjában foglaltak alkalmazása kivétellel – a csomagolószer kiskereskedelmi értékesítése esetén.”
-
-(13) A Ktdt. 14. § (2) bekezdése helyébe a következő rendelkezés lép, továbbá a 14. § a következő (3) és (3a) bekezdéssel egészül ki:
-
-„(2) A termékdíj-kötelezettséget e § alapján átvállalót kötelezettnek kell tekinteni és a termékdíj-kötelezettséggel összefüggő jogok az átvállaló felet illetik, továbbá a kötelezettségek az átvállaló felet terhelik.
-
-(3) A termékdíj-kötelezettség
-
-a) számlán történő átvállalása esetén, vagy
-
-b) szerződéssel történő átvállalás esetén a szerződés hatályosságának időszaka alatt,
-
-az 5. § (1) bekezdésében meghatározott időpontban száll át az átvállalóra.
-
-(3a) Hibás teljesítés esetén a termékdíj-kötelezettség nem száll át az átvállalóra. Hibás a teljesítés, ha az átvállalás nem a kötelezettől történt, a záradékszöveg nem kerül a számlán feltüntetésre vagy a termékdíj nem a hatályos díjtétellel került kiszámításra. Nem minősül a követelmény hibás teljesítésének a betűhiba, ide nem értve a záradékszövegben történő jogszabályi helyre való hivatkozást.”
-
-(14) A Ktdt. 14. §-a a következő (7) és (8) bekezdéssel egészül ki:
-
-„(7) Szerződés alapján legfeljebb 3 év időtartamra vállalható át a kötelezettség.
-
-(8) Az (5) bekezdés a) pontja szerint tárgynegyedévben átvállalt termékdíjköteles termék mennyisége 60%-ának külföldre értékesítését az átvállalás tárgynegyedévének utolsó napjától, legfeljebb 365 napon belül kell igazoltan külföldre kiszállítani, ellenkező esetben a 366. napon a termékdíj-kötelezettség – az átvállalás napján hatályos szabályok szerint – beáll az átvállalónál, a ki nem szállított mennyiség tekintetében. A kiszállítás mértékének elmaradása esetén az állami adóhatóság mulasztási bírságot szabhat ki.”
+(9)–(14)
 
 (15)
 
 (16)
 
-(17) A Ktdt. III. Fejezete a következő 14/A. alcímmel egészül ki:
-
-„14/A. Az egyéni hulladékkezelés
-
-16/A. § (1) Egyéni hulladékkezelést teljesítő kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen történő gyűjtést jelenti, ha erre a célra közösen finanszírozott és működtetett gyűjtőrendszert hoznak létre, és ezt az ellenőrzés során igazolni is tudják.
-
-(2) Az egyéni hulladékkezelést teljesítő kötelezett jogosult a magánszemély vevőtől lakossági gyűjtésben a 3. mellékletében meghatározott kategóriák szerinti azonos anyagáramú homogén hulladékok visszagyűjtésére, ideértve azon csomagolási hulladékok visszavételét is, amelyet más hozott forgalomba.
-
-(3) Az e törvényben meghatározott egyéni hulladékkezelés teljesítése során a kötelezett az általa tárgyévben elsőként belföldi forgalomba hozott vagy saját célra felhasznált termékdíjköteles termékek mennyiségét veszi alapul. A gyártási selejt vagy hulladék nem vehető figyelembe a hulladékhasznosítási teljesítményben, ha arra a környezetvédelmi termékdíj nem került megfizetésre.
-
-(4) Amennyiben az egyéni hulladékkezelést teljesítő kötelezett saját célú felhasználás mellett a telephelyén magánszemély vevőtől is végez gyűjtést, az azonos típusú hulladékok tekintetében a saját célú felhasználás és forgalomba hozott termékdíjköteles termék együttes mennyiségeire vonatkozóan az összes gyűjtött hulladékból összesítve teljesítheti a kötelezett a hulladékkezelést.
-
-(5) Az egyéni hulladékkezelők adott termék- és anyagáramra vonatkozóan teljesíthetik kötelezettségüket begyűjtést végző teljesítésben közreműködőn keresztül is.
-
-(6) A teljesítésben közreműködők az általuk gyűjtött hulladék mennyiségének az ugyanezen hulladéknak az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OHÜ) felé elszámolt mennyiségével csökkentett mennyiségét számolhatják el a szerződött egyéni hulladékkezelők felé.
-
-(7) A teljesítésben közreműködők a szerződött egyéni hulladékkezelők (6) bekezdésben meghatározott termékeire vonatkozó kibocsátási arányának megfelelően osztják el az egyéni teljesítők között az általuk begyűjtött és hasznosításra átadott mennyiséget.
-
-(8) Az egyéni hulladékkezelést végző kötelezett negyedéves bevallásában a tárgyév befejezett negyedéveinek és a bevallás benyújtásáig hasznosításra történő, igazolt átvételének mennyiségeit összesítve, valamint kibocsátásainak mennyiségeit összesítve veszi figyelembe, és ennek megfelelően számolja ki a 3. mellékletben meghatározott eljárás szerint a lezárt negyedévek összesített kötelezettségét, amelyből a tárgyévben lezárt negyedévek után megfizetett termékdíjat levonja. Az így számított különbözet képezi az adott negyedév után megfizetendő termékdíjat. Amennyiben a számítás eredménye negatív, akkor az adott negyedévben a megfizetést nem kell teljesíteni.
-
-(9) Amennyiben a tárgyévben hulladékhasznosításra átadott mennyiség tényleges hasznosítása a hasznosítást végzők tárgyévet követő február 20-ig kiadott igazolásai alapján maradéktalanul nem teljesült, akkor az egyéni hulladékkezelést végzőnek a tárgyévi hulladékkezelési számítást el kell végezni a (8) bekezdésben meghatározott eljárás szerint, de a ténylegesen hasznosított, a (3) bekezdés szerinti mennyiség figyelembevételével. A termékdíj-különbözetet a tárgyév utolsó negyedévi bevallásának önellenőrzésével kell bevallani és megfizetni.”
-
-(18) A Ktdt. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kötelezett az általa befizetett egyéb kőolajtermék termékdíját visszaigényelheti, amelyre vonatkozóan a használt vagy hulladékká vált, a kötelezettnél termékdíjköteles egyéb kőolajtermék anyagában történő hasznosításra történő átadás-átvételének tényét és a hasznosítás tényét igazolja.”
-
-(19) A Ktdt. 25. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-„(6) A termékdíjköteles termék alapanyagként történő felhasználása során keletkező gyártási selejt és hulladék mennyiségére is visszaigényelhető a termékdíj, de ebben az esetben a gyártási selejt és hulladék mennyisége a hulladékhasznosítási teljesítmény számításánál nem vehető figyelembe.
-
-(7) A 25. § (2) bekezdésében meghatározott visszaigénylés mellett a 3. § (9) bekezdés b) pontjában meghatározott eljárás nem alkalmazható.”
-
-(20) A Ktdt. VI. Fejezete a következő 25/A. §-sal egészül ki:
-
-„25/A. § (1) A termékdíjat azon termékek után lehet visszaigényelni, amelyekre vonatkozóan a termékdíj megfizetése ténylegesen és igazolható módon megtörtént.
-
-(2) A termékdíj visszaigénylésére – a használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos visszaigénylés kivételével – a visszaigénylésre való jogosultság keletkezésének időpontja szerinti tárgyidőszakra vonatkozó bevallásban kerülhet sor.
-
-(3) A visszaigénylés mértéke – a használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos visszaigénylés és a termékdíj-előleg visszaigénylése kivételével – a termékdíjköteles termék forgalomba hozója által az árban felszámított és a kiállított számlán feltüntetett termékdíj.
-
-(4) Külföldre történő értékesítés esetén nem lehet a termékdíjat visszaigényelni a használt vagy hulladékká vált termékdíjköteles termék után, kivéve
-
-a) az újrahasználható csomagolószer-nyilvántartásban található csomagolószer, illetve
-
-b) az egyéb kőolajtermék
-
-esetében.
-
-(5) A 25. § (2) bekezdésében meghatározott visszaigénylés a tárgynegyedévben hasznosításra átadott használt vagy hulladékká vált kenőolaj mennyiségére, ha a kötelezett egyben hasznosító is, akkor az általa hasznosításra átvett használt vagy hulladékká vált kenőolaj mennyiségére vehető igénybe. Abban az esetben, ha a kötelezett saját maga hasznosítja a saját célra felhasznált termékdíjköteles kenőolajból keletkezett használt vagy hulladékká vált kenőolajat, a visszaigénylés alapja a hasznosított használt vagy hulladékká vált kenőolaj mennyisége. A negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.
-
-(6) A 25. § (2) és (2a) bekezdésében meghatározott esetben a negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.”
-
-(21) A Ktdt. 27/A. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Belföldi előállítású reklámhordozó papír esetén a belföldi megrendelő írásban nyilatkozik a megrendelés, de legkésőbb a szerződéskötés során a nyomdai szolgáltatást teljesítő felé arról, hogy az általa megrendelt termék – annak mellékletét is ideértve – reklámhordozó papírnak minősül-e. Amennyiben a megrendelés nem termékdíjköteles reklámhordozó papír előállítására vonatkozik, úgy a megrendelőnek jeleznie kell, hogy a megrendelt áru a 2. § 26. pontjában meghatározott reklámhordozó papír definíció melyik alpontja szerint nem tartozik a reklámhordozó papír fogalma alá. A valótlanul nyilatkozó megrendelő termékdíj-kötelezetté válik.
-
-(2) A megrendelést teljesítő köteles 6 évig megőrizni az általa előállított reklámhordozó papír termék elektronikus vagy nyomtatott példányát, és azt az állami adó- és vámhatóság ellenőrzése, hatósági eljárása során kérésre bemutatni.”
-
-(22) A Ktdt. 30. alcíme a következő 40/C. §-sal egészül ki:
-
-„40/C. § (1) A 2013. december 31-ig az állami adó- és vámhatóságnak a 14. § (5) bekezdés a) pontja alapján jogszerűen bejelentett szerződéses átvállalások hatályosak a bejelentett időszak végéig, és nem kell az átvállalási szerződést módosítani, valamint azt ismételten bejelenteni a 14. § (5) bekezdés a) pont aa) alpontja szerinti jogcím alapján.
-
-(2) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel (a továbbiakban: Módtv. 1.) módosított 25. § (1) bekezdés f) pontja szerinti termékdíj visszaigénylési jogcím a külföldre igazoltan kiszállított csomagolószerek esetében 2014. január 1-jétől alkalmazható.”
+(17)–(22)
 
 (23)
 
 (24)
 
-(25) A Ktdt. 1. melléklete helyébe a 19. melléklet lép.
+(25)–(27)
 
-(26) A Ktdt.
-
-- 1. 7. § (2) bekezdésében az „a törvény 2. melléklete állapítja meg.” szövegrész helyébe az „a 2. melléklet állapítja meg (kollektív teljesítés).”,
-- 2. 11. § (3) bekezdésében a „bevallási és nyilvántartási” szövegrész helyébe a „bevallási, nyilvántartási, továbbá számlazáradékolási”,
-- 3. 19. § (1) bekezdésében az „Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OHÜ)” szövegrész helyébe az „OHÜ”, és
-- 4. 25. § (1) bekezdés f) pontjában a „27. § (3) bekezdésben” szövegrész helyébe a „4. § (2) bekezdés d) pontjában” szöveg lép.
-
-(27) Hatályát veszti a Ktdt. 12/A. § (1) bekezdésében az „– e törvény, valamint a végrehajtására kiadott kormányrendeletben meghatározottak szerint –” szövegrész.
-
-286. § (1) A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: KHRtv.) 2. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„c) pénzügyi szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 3. § (1) bekezdés b)–c), f)–g) és l) pontjában foglalt tevékenységek, ideértve a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 3. § (1) bekezdés 29. pontja és 5. § (6) bekezdés d) pontja szerinti jelzáloghitelezést és a közraktárakról szóló 1996. évi XLVIII. törvény 28. §-a szerinti kölcsönnyújtást is;”
+286. § (1)
 
 (2)
 
-287. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Nek tv.) 242. §-a helyébe a következő rendelkezés lép:
-
-„242. § (1) Az 50–55. §-t, az 56. § (2)–(3) bekezdését, az 57–72. §-t első alkalommal az e törvény hatálybalépését követő általános nemzetiségi önkormányzati választásokon kell alkalmazni.
-
-(2) A nemzetiségi önkormányzati képviselők 2024. évi általános választását megelőzően a települési nemzetiségi önkormányzati képviselők választását akkor kell kitűzni, ha a településen az adott nemzetiséghez tartozó személyek száma – a legutolsó népszámlálásnak az adott nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a huszonöt főt eléri. Az 56. § (1) bekezdését első alkalommal a nemzetiségi önkormányzati képviselők 2024. évi általános választásán kell alkalmazni.”
+#### 287. §
 
 #### 288. §
 
-289. § (1) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény a következő 27/A. §-sal egészül ki:
+#### 289. §
 
-„27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, akkor – törvény eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete, másodfokon az agrárkamara országos ügyintéző szervezete jár el.”
+#### 290. §
 
-(2) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 56. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 291. §
 
-„(1) Akinek kamarai tagsági viszonya kizárólag a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2013. évi CCXLVII. törvény (a továbbiakban: Mód. tv.) 18. § b)–c) pontjával megállapított rendelkezéseken alapul, tagsági viszonya 2013. december 31. napján a törvény alapján megszűnik, az általuk befizetett 2013. évre esedékes kamarai tagdíjat kérelemre 60 napon belül vissza kell fizetni.”
+#### 292. §
 
-290. § (1) A honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 82. alcíme a következő 140/A. §-sal egészül ki:
-
-„140/A. § Az altiszti és a legénységi állomány tagja havonta tízezer forint kiegészítő juttatásra jogosult, melyet az illetménnyel együtt kell folyósítani.”
-
-(2) A Hjt. 141. alcíme a következő 247/A. §-sal egészül ki:
-
-„247/A. § A 140/A. §-ban meghatározott kiegészítő juttatásnak a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított szabályait 2014. január 1-jétől kell alkalmazni.”
-
-(3) Hatályát veszti a Hjt. 144. alcíme.
-
-291. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 68. § (5) bekezdése a következő szöveggel lép hatályba:
-
-„(5) A helyi földbizottság állásfoglalása ellen kifogás terjeszthető elő a települési önkormányzat képviselő-testületénél. A képviselő-testület döntése ellen további jogorvoslatnak, panasznak, felszólalásnak nincs helye.”
-
-(2) A Földforgalmi tv. 72. §-a a következő i) ponttal egészül ki:
-
-[Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg]
-
-„i) a helyi földbizottság állásfoglalása ellen benyújtott kifogás elbírálásának részletes szabályait.”
-
-292. § Nem lép hatályba az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvény 271. §-a.
-
-293. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) I. fejezete a következő 2/A–2/C. §-sal egészül ki:
-
-„2/A. § (1) A föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési feltételek és korlátozások hatósági ellenőrzésével összefüggésben a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy (a továbbiakban: személyi azonosítóval nem rendelkező személy) számára, e személynek az ingatlan-nyilvántartásba, a földhasználati nyilvántartásba, valamint a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba vétele során – a földhivatali információs rendszer keretében – belső egyedi azonosítót kell megállapítani.
-
-(2) Az (1) bekezdés szerinti belső egyedi azonosító olyan számjegysor, amely az (1) bekezdésben meghatározott célból, az ott meghatározott nyilvántartásokban a személyi azonosítóval nem rendelkező személyt egyértelműen azonosítja, az e nyilvántartásokban való egyedi azonosítását szolgálja.
-
-(3) A személyi azonosítóval nem rendelkező személy belső egyedi azonosítója tizennégy jegyű szám, amelynek 1. számjegye konstans 8-as szám, a 2–8. számjegye a természetes személy nemének megfelelő kódszám, a születési évének utolsó két számjegye, valamint a születés hónapja és napja, a 9–14 számjegye technikai azonosító szám, valamint az állampolgárságának megfelelő kódszám.
-
-(4) Az (1) bekezdésben meghatározott nyilvántartásokat vezető ingatlanügyi hatóság, illetve mezőgazdasági igazgatási szerv a belső egyedi azonosítót kizárólag a (2) bekezdésben meghatározott célból kezelheti, azt csak egymás között továbbíthatja, és az a nyilvántartásokból történő adatszolgáltatás során nem tüntethető fel a nyilvántartásokból bármilyen módon és eszközzel szolgáltatott okiratokon.
-
-(5) Az ingatlanügyi hatóság, illetve mezőgazdasági igazgatási szerv a személyi azonosítóval nem rendelkező személynek az (1) bekezdésben meghatározott valamely nyilvántartásba való első bejegyzése alkalmával állapítja meg a belső egyedi azonosítót. A személyi azonosítóval nem rendelkező személynek csak egy belső egyedi azonosítója lehet.
-
-(6) A személyi azonosítóval nem rendelkező személy a belső egyedi azonosítót köteles megadni az ingatlan-nyilvántartással, a földhasználati nyilvántartással, valamint a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartással kapcsolatos eljárásokban, feltéve ha arról a (7) bekezdésben meghatározottak szerint tájékoztatást kapott.
-
-(7) A személyi azonosítóval nem rendelkező személyt a belső egyedi azonosítóról az ingatlan-nyilvántartásba, a földhasználati nyilvántartásba, vagy a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba való első alkalommal történő bejegyzésével egyidejűleg kell tájékoztatni. A tájékoztatásnak ki kell terjednie arra, hogy az (1)–(3) bekezdésben meghatározottak szerint a belső egyedi azonosító mit szolgál, továbbá a személyi azonosítóval nem rendelkező személynek a (6) bekezdésben foglalt kötelezettségére.
-
-2/B. § (1) A statisztikai azonosítóval, cégjegyzékszámmal nem rendelkező tagállami vagy külföldi székhelyű gazdálkodó szervezet belső egyedi azonosítója legfeljebb tíz jegyű szám, amelynek az első nyolc számjegye a gazdálkodó szervezet egyedileg képzett technikai azonosítóját, az utolsó két számjegye a székhely szerinti államnak megfelelő kódszámot tartalmazza.
-
-(2) A statisztikai azonosítóval, cégjegyzékszámmal nem rendelkező tagállami vagy külföldi székhelyű gazdálkodó szervezet esetében a 2/A. § (1)–(2) bekezdésében és a (4)–(7) bekezdésében foglaltakat alkalmazni kell.
-
-2/C. § Az e törvényben meghatározott nyilvántartások adattartalma, és a nyilvántartásokból történő adatszolgáltatások tekintetében, ott ahol a törvény személyi azonosítóról vagy statisztikai azonosítóról és cégjegyzékszámról rendelkezik, a személyi azonosítóval nem rendelkező személy és a tagállami vagy külföldi székhelyű gazdálkodó szervezet tekintetében a 2/A. § és a 2/B. § szerinti belső egyedi azonosítót kell érteni.”
-
-(2) A Fétv. 13. §-a a következő szöveggel lép hatályba:
-
-„13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13–15. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
-
-a) természetes személy szerződő fél
-
-aa) természetes személyazonosító adatait,
-
-ab) személyi azonosítóját a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében,
-
-ac) a személyi azonosítóval nem rendelkező személy esetében a 2/A. §-ban meghatározott belső egyedi azonosító számot, feltéve, ha arról tájékoztatást kapott,
-
-ad) állampolgárságát,
-
-ae) lakcímét;
-
-b) a gazdálkodó szervezet szerződő fél
-
-ba) megnevezését,
-
-bb) statisztikai azonosítóját,
-
-bc) cégjegyzékszámát, ha a gazdálkodó szervezet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozik,
-
-bd) a statisztikai azonosítóval, cégjegyzékszámmal nem rendelkező tagállami vagy külföldi székhelyű gazdálkodó szervezet esetében a 2/B. §-ban meghatározott belső egyedi azonosító számot, feltéve, ha arról tájékoztatást kapott,
-
-be) székhelyét (telephelyét),
-
-bf) vezető tisztségviselő vagy cégvezető családi és utónevét, lakcímét, illetve a törvényes képviselő családi és utónevét, tisztségét,
-
-bg) részéről eljáró meghatalmazott természetes személy családi és utónevét, lakcímét,
-
-bh) bélyegzőjének lenyomatát.
-
-(2) Ha a szerző fél tagja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Kamara), akkor az (1) bekezdésben foglaltakon túl a tagsági azonosító számát is tartalmaznia kell a szerződésnek.
-
-(3) Az adás-vételi szerződésben rögzíteni kell azt is, hogy a vevő elővásárlásra jogosult-e. E jogosultság fennállása esetén meg kell jelölni a szerződésben azt is, hogy a jogosultság mely törvényen, és az ott meghatározott sorrend mely ranghelyén áll fenn. A szerződésen alapuló elővásárlási jog esetén ennek tényét kell rögzíteni az adás-vételi szerződésben.”
-
-(3) A Fétv. 30. § (2) bekezdés a) pont aa) alpontja a következő szöveggel lép hatályba:
-
-[A Ket.-ben meghatározott eseteken túl az ügyintézési határidőbe nem számít be:
-
-a helyi földbizottság megkeresésétől]
-
-„aa) a helyi földbizottság állásfoglalásának, illetve az azzal kapcsolatos kifogás elbírálása kapcsán a képviselő-testület döntésének a mezőgazdasági igazgatási szervhez való beérkezéséig, vagy”
-
-[terjedő időtartam;]
-
-(4) A Fétv. 30. §-a a következő (5) bekezdéssel kiegészülve lép hatályba:
-
-„(5) A 103/A. §-ban meghatározottak alapján, a helyi földbizottság állásfoglalása elleni kifogás benyújtásáról való értesítésnek a mezőgazdasági igazgatási szervhez való beérkezése napja, valamint a kifogás elbírálásáról szóló döntésnek a vele való közlésének napja közötti időtartam alatt a mezőgazdasági igazgatási szerv eljárási cselekményt nem végezhet.”
+293. § (1)–(4)
 
 (5)
 
-(6) A Fétv. 60. §-a a következő (5) bekezdéssel egészül ki:
+(6)–(23) lép.
 
-„(5) A haszonbérbeadó, illetve annak jogutódja. valamint a haszonbérlő az 1994. július 27-e előtt létrejött haszonbérleti szerződést legkésőbb az adott gazdasági év vége előtt 60 nappal 60 napos felmondási idővel a gazdasági év végére felmondhatja, ha a szerződés időtartama meghaladja a Földforgalmi törvény 44. §-ában meghatározott leghosszabb időtartamot.”
+#### 294. §
 
-(7) A Fétv. 71. §-a a következő (2a) bekezdéssel egészül ki:
+#### 295. §
 
-„(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő vagy attól eltérő mértékű terület is kijelölhető, ha a tulajdoni hányaduknak megfelelő vagy attól eltérő mértékű területet közülük valamelyik tulajdonostárs használja vagy annak használatát harmadik személy részére kívánják átengedni.”
-
-(8) A Fétv. 71. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) A használati megosztásról szóló megállapodás létrehozatala vagy módosítása során a tulajdonostárs helyett és nevében a képviselője is eljárhat.”
-
-(9) A Fétv. 99. §-a a következő (1a)–(1d) bekezdéssel egészül ki:
-
-„(1a) A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett földhasználati nyilvántartás adatbázisából – a földügyért felelős miniszter által jóváhagyott egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
-
-a) hatóság részére hatósági ellenőrzése teljesítéséhez,
-
-b) mezőgazdasági és vidékfejlesztési támogatási szerv részére költségvetési vagy európai uniós támogatás igényléséhez szükséges feltételek teljesítésének megállapításához,
-
-c) országos statisztikai célú adatgyűjtéshez, vagy
-
-d) több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén
-
-elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat.
-
-(1b) Az (1a) bekezdés c) és d) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
-
-(1c) Az (1a) bekezdésben meghatározott elektronikus dokumentum az (1a) bekezdésben meghatározott adatszolgáltatás iránti igény célhozkötöttségétől függően a földhasználati lap másolaton megjeleníthető adatokat tartalmazhatja. Az elektronikus dokumentum nem tartalmazhatja a 94. § (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt adatokat.
-
-(1d) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.”
-
-(10) A Fétv. 100. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A nyilvántartás tartalmazza
-
-a) a földműves
-
-aa) természetes személyazonosító adatait,
-
-ab) állampolgárságát,
-
-ac) lakcímét,
-
-ad) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyes esetében a személyi azonosítóját,
-
-ae) mezőgazdasági vagy erdészeti szakirányú képzettség esetén az ezt igazoló okirat számát,
-
-af) az ae) alpontban foglaltak hiányában az arra való utalást, hogy a Földforgalmi törvény 5. § 7. pont a) vagy a b) pontja szerint végzi az ott meghatározott tevékenységet,
-
-ag) kényszerhasznosítóként való jelentkezésének tényét;
-
-b) a mezőgazdasági termelőszervezet
-
-ba) megnevezését,
-
-bb) – a statisztikáról szóló törvény hatálya alá tartozása esetében – statisztikai azonosítóját,
-
-bc) – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozása esetében – cégjegyzékszámát,
-
-bd) székhelyét (telephelyét, fióktelepét),
-
-be) a Földforgalmi törvény 5. § 19. pont a) pont ac) alpontjában, valamint 26. pont c) pontjában meghatározott vezető tisztségviselőjének vagy cégvezetőjének
-
-1. természetes személyazonosító adatait,
-
-2. állampolgárságát,
-
-3. lakóhelyét,
-
-4. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében a személyi azonosítóját, és
-
-5. a mezőgazdasági vagy erdészeti szakirányú képzettsége esetén az ezt igazoló okirat számát, vagy
-
-6. az 5. pontban foglaltak hiányában a 3 éves üzemi gyakorlat fennállásának a tényét,
-
-bf) újonnan alapított mezőgazdasági termelőszervezet-jellege esetén az erre való utalást,
-
-bg) kényszerhasznosítóként való jelentkezésének tényét;
-
-c) a mezőgazdasági üzemközpont esetén
-
-ca) az üzemközpont fekvése szerinti ingatlan helyrajzi számát, a fekvése szerinti településnek, és az ingatlan fekvésének a megjelölését,
-
-cb) azt, hogy a földművesnek, illetve a mezőgazdasági termelőszervezetnek az ingatlanon tulajdonjoga, haszonélvezeti joga, vagyonkezelői joga, vagy használati joga áll fenn, és
-
-cc) a cb) alpont szerinti jogosultság megszerzésének kezdő időpontját.”
-
-(11) A Fétv. 100. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A nyilvántartásba bejegyzett természetes személy és gazdálkodó szervezet azonosításához a mezőgazdasági igazgatási szerv jogosult kezelni
-
-a) a természetes személy ügyfélnek a (3) bekezdés a) pont aa)–ad) alpontjában, a b) pont be) alpontja 1–4. alpontjaiban meghatározott adatait,
-
-b) a gazdálkodó szervezet ügyfélnek a (3) bekezdés b) pont ba)–bd) alpontjában meghatározott adatait.”
-
-(12) A Fétv. 100. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A (3) bekezdés a) pont ad) alpontjában, valamint a b) pont bb)–bc) alpontjában és a be) alpont 4. alpontjában foglalt adatok a nyilvántartásból szolgáltatható másolaton, továbbá a nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.”
-
-(13) A Fétv. 100. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A mezőgazdasági igazgatási szerv a nyilvántartás számítógépes adatbázisából papír alapú vagy elektronikus másolattal díj- és illetékmentesen szolgáltat adatot. Elektronikus másolat a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásaira az ingatlan-nyilvántartásról szóló törvényben meghatározott jogosultak részére, adatátviteli vonalon keresztül szolgáltatható. Ez esetben a jogosultnak a szolgáltatás igénybevételekor meg kell jelölni a feladata ellátására vonatkozó pontos jogszabályhelyet és annak az ügyiratnak a számát, amely elintézéséhez az adatszolgáltatást kéri.”
-
-(14) A Fétv. XIV. Fejezete a következő 100/A. §-sal egészül ki:
-
-„100/A. § A nyilvántartási eljárás díj- és illetékmentes eljárás.”
-
-(15) A Fétv. 102. § (1) bekezdésének a)–b) pontja helyébe a következő rendelkezés lép:
-
-[A helyi földbizottságról és annak tagjairól a jegyző nyilvántartást vezet. A nyilvántartás tartalmazza]
-
-„a) a természetes személy tag, valamint a mezőgazdasági termelőszervezet tag, továbbá a Földforgalmi törvény 40. § (3) és (4) bekezdésében meghatározott köznevelési vagy felsőoktatási intézmény, bevett egyház vagy annak belső egyházi jogi személye képviseletében eljáró személy
-
-aa) természetes személyazonosító adatait,
-
-ab) állampolgárságát,
-
-ac) lakcímét;
-
-b) a mezőgazdasági termelőszervezet tag megnevezését, székhelyét és telephelyét, valamint az a) pontban foglalt köznevelési vagy felsőoktatási intézmény, bevett egyház vagy annak belső egyházi jogi személye megnevezését és székhelyét;”
-
-(16) A Fétv. XV. fejezete a következő 103/A–103/C. §-sal egészül ki.
-
-„103/A. § (1) A helyi földbizottság az állásfoglalását a települési önkormányzat jegyzője annak kézhezvételét követő 3 napon belül a települési önkormányzat polgármesteri hivatala, illetve közös önkormányzati hivatal esetében a közös önkormányzati hivatal hirdetőtábláján 5 napra kifüggeszti. Az állásfoglalás ellen – a hirdetőtáblán való kifüggesztést követő 5 napon belül – az eladó, a vevő, illetve a határidőben elfogadó nyilatkozatot tevő elővásárlásra jogosult kifogást terjeszthet elő a települési önkormányzat képviselő-testületénél. A kifogást a jegyzőhöz kell benyújtani. A kifogás benyújtásáról és annak időpontjáról a jegyző haladéktalanul értesíti a mezőgazdasági igazgatási szervet.
-
-(2) A képviselő-testület megváltoztatja a kifogással érintett állásfoglalást, ha annak kiadására a Földforgalmi törvény 23–25. §-a megsértésével került sor, egyébként a kifogást elutasítja. Az elkésett kifogást a képviselő-testület érdemi vizsgálat nélkül elutasítja. A képviselő-testület a kifogást 15 napon belül zárt ülésen bírálja el. A képviselő-testület a döntését jegyző útján közli a helyi földbizottsággal, a kifogást tevővel és a mezőgazdasági igazgatási szervvel.
-
-(3) Kifogás benyújtása esetén e törvény és a Földforgalmi törvény alkalmazásában a helyi földbizottság állásfoglalásának közlésétől számított határidők a képviselő-testület döntése közlésétől számítandók.
-
-103/B. § (1) A helyi földbizottság felett a fővárosi és megyei kormányhivatal törvényességi felügyeletet gyakorol.
-
-(2) A fővárosi és megyei kormányhivatal törvényességi felügyeleti jogkörében ellenőrzi, hogy a helyi földbizottság
-
-a) működésével kapcsolatos belső szabályzatai megfelelnek-e a jogszabályoknak,
-
-b) működése, határozatai megfelelnek-e a jogszabályoknak és a belső szabályzatainak.
-
-(3) Ha a törvényességi felügyeleti jogkör gyakorlása során a fővárosi és megyei kormányhivatal törvénysértést észlel, megfelelő határidő megjelölésével – a jegyző útján – felhívja a helyi földbizottságot a törvényesség helyreállítására.
-
-(4) Ha a helyi földbizottság működésképtelen vagy a működésképtelenné válás közvetlen veszélye fenyeget, a fővárosi és megyei kormányhivatal megfelelő határidő megjelölésével felhívja a helyi földbizottságot, hogy állítsa helyre a törvényes működését, továbbá felhívja a jegyzőt, hogy a helyi földbizottság ülését hívja össze.
-
-103/C. § Ha a jegyző arról értesíti a fővárosi és megyei kormányhivatalt, hogy a 103/B. § (4) bekezdése szerinti felhívásban megszabott határidő eredménytelenül járt le, a fővárosi és megyei kormányhivatal felhívja a mezőgazdasági igazgatási szervet, hogy a 103. § (1) bekezdése szerint járjon el.”
-
-(17) A Fétv. 104. § (1) bekezdése a következő f) ponttal egészül ki:
-
-[Felhatalmazást kap a Kormány, hogy]
-
-„f) a biztonsági okmányért fizetendő díj mértékét, valamint a biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával összefüggésben kiszabható bírság mértékét és megfizetésének szabályait”
-
-[rendeletben állapítsa meg.]
-
-(18) A Fétv. 107. §-a helyébe a következő rendelkezés lép:
-
-„107. § Az 1. és 2. §, a 3–10. §, a 20. §, a 41–42. §, a 45. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.”
-
-(19) A Fétv. 108. § (2) bekezdése helyébe a következő rendelkezés lép, egyúttal a 108. § a következő (3) bekezdéssel egészül ki:
-
-„(2) Semmis a föld használati jogosultságának átengedéséről szóló olyan szerződés, amelyet az (1) bekezdésben meghatározott időtartamig fennálló haszonélvezeti jog jogosultja a haszonélvezeti jog megszűnését követő időtartamra kötött.
-
-(3) Az (1) bekezdésben meghatározott időtartamig fennálló haszonélvezeti jog jogosultja által a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény hatályba lépése előtt létesített, a föld használati jogosultságának átengedéséről szóló szerződés 2014. szeptember 1-jén a törvény erejénél fogva megszűnik.”
-
-(20) A Fétv. a következő 108/A. §-sal egészül ki:
-
-„108/A. § 2014. május 5. napján minden olyan szerződés, szerződési kikötés, illetve szerződéses kötelezettségvállalás hatálya megszűnik, amely a felek rendelkezése szerint a földre vonatkozó jogszabályi tilalmak és korlátozások megszűnése esetére vagy ennek feltételével állt volna be, és egyébként nem minősül semmisnek. Az ilyen szerződésből, szerződési kikötésből, illetve kötelezettségvállalásból jogot, követelést vagy bármely más igényt érvényesíteni nem lehet. A 2014. május 5. napját követően kötött ilyen tartalmú szerződés, alkalmazott szerződési kikötés vagy vállalt kötelezettség nem lép hatályba.”
-
-(21) A Fétv.
-
-- a) 18. §-a a „13. § (1) bekezdésében” szövegrész helyett a „13. § (1)–(2) bekezdésében”,
-- b) 28. § (1) bekezdés a) pont ad) alpontja a „magánszemélyek” szövegrész helyett a „természetes személyek”,
-- c) 28. § (1) bekezdés b) pontja bc) alpontja a „statisztikai azonosítóját (törzsszámát)” szövegrész helyett a „statisztikai azonosítóját”
-
-szöveggel lép hatályba.
-
-(22) A Fétv.
-
-- a) 6. § (1) bekezdésében a „hektáronként elérte a fél állategységet.” szövegrész helyébe az „elérte a 600 állategységet.” szöveg,
-- b) 7. § (1) bekezdésében a „legalább egytizede” szövegrész helyébe az „egytizede, de legalább 120 hektár” szöveg
-
-lép.
-
-(23) A Fétv.
-
-- a) 48. § (1) bekezdésében a „13. § (1) bekezdésében” szövegrész helyébe a „13. § (1)–(2) bekezdésében”,
-- b) 71. § (4) bekezdés b) pontjában a „magánszemély” szövegrész helyébe a „természetes személy”,
-- c) 76. § (8) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(3) bekezdésben”,
-- d) 94. § (1) bekezdés b) pontja bd) alpontjában a „magánszemélyek” szövegrész helyébe a „természetes személyek”,
-- e) 108. § (1) bekezdésében a „haszonélvezeti jog” szövegrész helyébe a „haszonélvezeti jog továbbá használat joga”
-
-szöveg lép.
-
-294. § (1) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 115. pontja helyébe a következő rendelkezés lép:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„115. ügyvezető: a vállalkozás irányítási jogkörrel rendelkező vezető testülete által megválasztott, a vállalkozással munkaviszonyban álló elnöke, a vállalkozás vezetésére kinevezett, a vállalkozással munkaviszonyban álló első számú vezető, valamint e vezető valamennyi helyettese;”
-
-(2) A Hpt. 164. § c) pontja helyébe a következő rendelkezés lép:
-
-(Nem jelenti a banktitok sérelmét)
-
-„c) a 3. § (1) bekezdés b)–g) és l) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerbe, illetve e rendszerből a törvényben meghatározott referenciaadat-szolgáltató részére nyújtott referenciaadat-szolgáltatás,”
-
-(3) A Hpt. 32. § (4) bekezdésében az „az (1) bekezdésben” szövegrész helyébe az „az (1) és (2) bekezdésben” szöveg lép.”
-
-295. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 1. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[A koncesszióról szóló 1991. évi XVI. tv. (a továbbiakban: Ktv.) 1. § (1) bekezdésének i) pontjában meghatározott szerencsejátékok szervezésére irányuló tevékenységnek minősül]
-
-„c) szerencsejátékok lebonyolítására létrejött szervezet (a továbbiakban: játékkaszinó) működtetése,”
-
-(2) Az Szjtv. 6. §-a a következő (4) és (5) bekezdésekkel egészül ki:
-
-„(4) Ha a megbízható szerencsejáték szervezővel megkötött koncessziós szerződést aláíró által az (1) bekezdés és a Ktv. 20. § (1) bekezdése szerint megalapított koncessziós társaság tagja olyan koncessziós társaság, amely koncesszió-köteles tevékenység folytatására jogosultként koncesszió-köteles tevékenységet folytat, a Ktv. 26. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy esetében a későbbi koncessziós szerződésben meghatározott időtartam lejártakor kell a végelszámolást lefolytatni.
-
-(5) Az 1. § (3) bekezdés c) pontja szerinti tevékenység tekintetében a megbízható szerencsejáték szervező által megalapított koncessziós társaságra a Ktv. 22. §-át nem kell alkalmazni.”
-
-(3) Az Szjtv. 37. § 30. pontja helyébe a következő rendelkezés lép:
-
-„30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
-
-a) valamennyi, az állami adóhatóság által nyilvántartott, 500 000 Ft-ot meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
-
-b) egyik bankszámláján sem volt 500 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene 500 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárás,
-
-c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként öt millió forint összeget meghaladó bírsággal sújtották volna,
-
-d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
-
-e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.”
-
-(4) Az Szjtv. „Záró rendelkezések” alcíme a következő 40/B. §-sal egészül ki:
-
-„40/B. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Módtv.2.) 295. §-ával megállapított 1. § (3) bekezdés c) pontját, 6. § (4) és (5) bekezdését, valamint 37. § 30. pontját a Módtv.2. hatályba lépését követően indult eljárásokban kell alkalmazni.”
-
-296. § (1) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Exim tv.) 1. § (5a) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésbe foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás. Idegenforgalmi ágazatba sorolt belföldi gazdálkodó szervezet esetében a devizakülföldivel kötött belföldön teljesített szolgáltatásnyújtás is figyelembe vehető exportra irányuló szolgáltatás-nyújtásként.”
-
-(2) Az Exim tv. 1. § (5a) bekezdése a következő c) ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„c) nemzetközi fejlesztési együttműködés: az OECD DAC besorolás szerint hivatalos fejlesztési támogatásra (ODA) jogosult fejlődő országok gazdasági és társadalmi fejlődésének előmozdítására irányuló, a donor- és a kedvezményezett ország közötti partneri viszonyon alapuló tevékenység, amelynek keretében a donor ország hivatalos szervein, ügynökségein keresztül kedvezményes hiteleket, vagy vissza nem térítendő támogatást nyújt a kedvezményezett országnak, illetve a kedvezményezett ország erre jogosult gazdálkodó szervezeteinek, illetve intézményeinek.”
-
-(3) Az Exim tv. 2. § (1) bekezdése a következő h) ponttal egészül ki:
-
-(Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:)
-
-„h) követelésvásárlás.”
-
-(4) Az Exim tv. 2. §-a következő (1a), (1b) és (1c) bekezdéssel egészül ki:
-
-„(1a) Az Eximbank a nemzetközi fejlesztési együttműködési célú segélyügyletekhez, valamint nemzetközi fejlesztési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódóan az alábbi tevékenységet végzi:
-
-a) vissza nem térítendő támogatás, illetve kedvezményes hitel nyújtásával nemzetközi fejlesztési együttműködési célú segélyügyletek finanszírozása,
-
-b) nemzetközi pénzügyi-fejlesztési intézmény által működtetett nemzetközi fejlesztési együttműködési célú alap alapításához, vagy ahhoz történő csatlakozás a 6. § (4a) bekezdésben meghatározott források felhasználásával.
-
-(1b) Az Eximbank a nemzetközi fejlesztési együttműködési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódó megállapodások vonatkozásában az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős minszterek egyetértése esetén az állam képviseletében jár el, és e felhatalmazásra történő hivatkozás mellett jogosult a vonatkozó szerződések megkötésére, módosítására vagy megszüntetésére.
-
-(1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.”
-
-(5) Az Exim tv. 6. §-a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A 2. § (1b) bekezdés hatálya alá tartozó, nemzetközi fejlesztési együttműködési célú tevékenységhez szükséges forrásokat 2014. évben az állam a központi költségvetés terhére, a kamatkiegyenlítési rendszeren keresztül közvetlenül biztosítja az Eximbnak részére. 2014. évet követően a központi költségvetésről szóló törvény külön előirányzata tartalmazza az Eximbank 2. § (1b) bekezdésben meghatározott tevékenységéhez szükséges forrásokat.”
+296. § (1)–(5)
 
 (6)
 
-(7) Az Exim tv. 8/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+(7)–(11)
 
-„(2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat.”
-
-(8) Az Exim tv. 20. §-a következő (5) bekezdéssel egészül ki:
-
-„(5) A nem piacképes kockázatú biztosítások feltételeiről szóló külön jogszabályban foglalt feltételeknek megfelelő, a kormány készfizető kezessége mellett nyújtott, nem piacképes kockázatú biztosítást a kormány készfizető kezessége mértékéig az Eximbank elismerheti hitelkockázat csökkentő tételként.”
-
-(9) Az Exim tv. 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
-
-a) az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet külön rendelkezései között,
-
-b) a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítások, viszontbiztosítások tárgyát, a biztosítási eseményeket, valamint e biztosítások és viszontbiztosítások feltételeit és részletes szabályait, valamint az országok piacképesség szempontjából történő besorolását,
-
-c) az Eximbank kamatkiegyenlítési rendszere részletes szabályait,
-
-d) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák és az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei részletes szabályait,
-
-e) az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitelnyújtás, segélyhitel ügyletek költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatás részletes szabályait,
-
-f) az Eximbank által a nemzetközi fejlesztési célú együttműködés keretében végezhető tevékenységek és azok költségvetéssel történő elszámolásának, az ehhez kapcsolódó adatszolgáltatás részletes szabályait.
-
-(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az (1) bekezdés b)–d) pontjaiban meghatározott kormányrendeletek hatálya alá tartozó tevékenységekre az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatásának részletes szabályait, valamint e rendeletben megállapítsa a 8/A. § (2) bekezdésben meghatározott jutalék mértékét.”
-
-(10) Az Exim tv. 6. § (4) bekezdésében a „közvetlenül biztosítja (kamatkiegyenlítési rendszer).” szövegrész helyébe a „közvetlenül biztosítja.” szöveg lép.
-
-(11) Hatályát veszti az Exim tv. 14. § (3) bekezdése és a 18. § (4) bekezdése.
-
-297. § Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 133. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) A takarékbetétről szóló 1989. évi 2. törvényerejű rendelet (a továbbiakban: Ttvr.) 1. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) Takarékbetét-szerződés alapján a hitelintézet köteles az elhelyezőtől takarékbetétkönyv vagy más okmány ellenében pénzt átvenni és annak összegét a szerződés szerint visszafizetni.
-
-(6) A természetes személyek fizetésiszámla-szerződés és betétszerződés keretében hitelintézetnél elhelyezett pénzeszközeire a takarékbetét-szerződés szabályait kell megfelelően alkalmazni.”
+#### 297. §
 
 ### Hatályon kívül helyező rendelkezések
 
 #### 298. §
 
-299. § Nem lép hatályba az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 152. § (2) bekezdés f) és g) pontja, 171. §-a és 7. melléklete.
+#### 299. §
 
 ### 1. melléklet a 2014. évi XVI. törvényhez
 
@@ -2803,54 +1896,7 @@ h) az ABA-k forgalmazására vonatkozó intézkedésekkel kapcsolatos informáci
 
 ### 16. melléklet a 2014. évi XVI. törvényhez
 
-- 1. Az Szja tv. 1. számú melléklet 2. pont 2.7. alpontja helyébe a következő rendelkezés lép:
-
-(A lakáshoz kapcsolódóan adómentes:)
-
-„2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a kincstár útján, annak igazolása alapján, a 9.3. pontban és az adópolitikáért felelős miniszter rendeletében meghatározott feltételek és eljárás szerint nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét, továbbá a lakáscélú felhasználásra hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez, a hitelhez kapcsolódó más kötelezettségek megfizetéséhez nyújtott támogatást is) a vételár, a teljes építési költség vagy a korszerűsítés költségének 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás szobaszáma nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás);”
-
-- 2. Az Szja tv. 1. számú melléklet 9. pont 9.3. alpontja helyébe a következő rendelkezés lép:
-
-(Adómentességre vonatkozó vegyes rendelkezések)
-
-„9.3. A lakáscélú munkáltatói támogatás adómentességével kapcsolatos szabályok
-
-9.3.1. Lakáscélú felhasználás:
-
-a) a belföldön fekvő lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak adásvétel vagy más visszterhes szerződés keretében történő megszerzése (ideértve a lakás zártvégű lízingbe vételét is),
-
-b) a belföldön fekvő lakás építése, építtetése,
-
-c) a belföldön fekvő lakás alapterületének legalább egy lakószobával történő bővítését eredményező növelése,
-
-d) a lakáscélú állami támogatásokról szóló kormányrendelet szerint meghatározott korszerűsítés.
-
-9.3.2. A lakáscélú munkáltatói támogatás akkor tekinthető adómentesnek, ha a munkáltató a támogatás folyósításának évét követő év május 31-éig, lakás építéséhez, építtetéséhez, alapterületének növeléséhez és korszerűsítéséhez adott támogatás esetén a folyósítás évét követő második év május 31-éig rendelkezik az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal. Ha a munkáltató nem rendelkezik az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, a lakáscélú munkáltatói támogatás 20 százalékkal növelt összegben a támogatásban részesült magánszemély munkaviszonyból származó jövedelmének minősül. E jövedelem megszerzésének időpontja a támogatás folyósításának évét követő év május hónapja, lakás építéséhez, építtetéséhez, alapterületének növeléséhez és korszerűsítéséhez adott támogatás esetén a folyósítás évét követő második év május hónapja.
-
-9.3.3. A hitelintézet, a kincstár a közvetítésével nyújtott lakáscélú munkáltatói támogatásról kiállított igazolás adattartalmáról, a munkáltató a kölcsön általa elengedett összegéről adatot szolgáltat az állami adóhatóságnak.”
-
 ### 17. melléklet a 2014. évi XVI. törvényhez
-
-„1. melléklet a 2004. évi I. törvényhez
-
-|  | A | B |
-| --- | --- | --- |
-| 1 | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
-| 2 | Budapest, 38440/52 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 3 | Budapest, 38440/53 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 4 | Budapest, 38440/54 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 5 | Budapest, 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 6 | Budapest, 74333 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 7 | Budapest, 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 8 | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073; Erzsébet krt. 24. I. emelet) |
-| 9 | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073; Erzsébet krt. 24. I. emelet) |
-| 10 | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 11 | Budapest, 29834/3 | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
-| 12 | Budapest, 29834/10 | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
-| 13 | Budapest, 29834/1 | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
-| 14 | Budapest, 29834/3. | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
-
-”
 
 ### 18. melléklet a 2014. évi XVI. törvényhez
 
@@ -2865,214 +1911,3 @@ d) a lakáscélú állami támogatásokról szóló kormányrendelet szerint meg
 „A NYILATKOZATTÉTEL HATÁLYÁT VESZTETTE, A NYILATKOZAT A PFT. 36/A. § (9) BEKEZDÉS B) PONTJA ALAPJÁN VISSZAVONÁSRA KERÜLT.””
 
 ### 19. melléklet a 2014. évi XVI. törvényhez
-
-„1. melléklet a 2011. évi LXXXV. törvényhez
-
-Termékdíjköteles termékek, anyagok köre
-
-Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vámtarifaszámok alá tartozik és az adott termékdíjköteles termékcsoport e törvényben meghatározott fogalmának is megfelel.
-
-Az „ex” jelzéssel ellátott vámtarifaszámok alá tartozó termékek közül azok a termékdíjköteles termékek, amelyek az 1. § (3) bekezdésében meghatározott tárgyi hatály alá tartoznak, ide nem értve a megnevezésben kivételként megnevezett termékeket.
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| Vámtarifaszám |  |
-|  | Megnevezés | Vámtarifaszám és HR alszám | KN alszám |
-| 1. | Gumiabroncsok |  |  |
-| 1.1. | Új gumi légabroncs 4011 50 00 alszám alá tartozó termékek kivételével | ex. 4011 |  |
-| 1.2. | Újrafutózott vagy használt gumi légabroncs; tömör vagy kisnyomású gumiabroncs, kivéve a 4012 90 30; 4012 90 90 alá tartozó termékeket | ex. 4012 |  |
-| 2. | Akkumulátorok |  |  |
-| 2.1. | Elektromos akkumulátorok kivéve: a 8507 80 20 a 8507 80 30 és a 8507 90 alszám alá tartozó termékek és a nátrium-kén (NaS) helyhez kötött energiatároló berendezés | ex. 8507 |  |
-| 3. | Egyéb kőolajtermékek |  |  |
-| 3.1. | Kenőolaj |  |  |
-| 3.1.1. | Motorolaj, kompresszor-kenőolaj, turbina-kenőolaj | 2710 19 | 81 |
-| 3.1.2. | Hidraulikus célú folyadék | 2710 19 | 83 |
-| 3.1.3. | Fehérolaj, folyékony paraffin | 2710 19 | 85 |
-| 3.1.4. | Differenciálolaj és reduktorolaj | 2710 19 | 87 |
-| 3.1.5. | Keverék fémmegmunkáláshoz, formaleválasztó olaj, korróziógátló olaj | 2710 19 | 91 |
-| 3.1.6. | Villamosszigetelési olaj | 2710 19 | 93 |
-| 3.1.7. | Más kenőolaj és más olaj, kivéve kenőzsírok | ex. 2710 19 | 99 |
-| 3.2. | Textil, bőr, szőrme és más anyagok kezelésére használt készítmények | 3403 11 | 00 |
-| 3.3. | Legalább 70 tömegszázalék kőolaj- vagy bitumenes ásványokból előállított olajtartalommal, de nem fő alkotóként | 3403 19 | 10 |
-| 3.4. | Más, kivéve kenőzsírok | ex. 3403 19 | 90 |
-| 3.5. | Hidraulikusfék-folyadék és más elkészített folyadék hidraulikus hajtóműhöz, amely kőolajat vagy bitumenes ásványokból nyert olajat 70 tömegszázaléknál kisebb arányban tartalmaz | ex. 3819 00 | 00 |
-| 4. | Reklámhordozó papírok |  |  |
-| 4.1. | Papír és karton; papíripari rostanyagból, papírból vagy kartonból készült áruk | ex. 48 |  |
-| 4.2. | Könyvek, újságok, képek és más nyomdaipari termékek | ex. 49 |  |
-| 5. | Elektromos, elektronikai berendezések |  |  |
-| 5.1. | Háztartási nagygépek |  |  |
-| 5.1.1. | Lég- vagy vákuumszivattyú, lég- vagy más gázkompresszor és ventilátor; elszívó vagy visszavezető kürtő beépített ventilátorral, szűrővel is, melynek bruttó tömege legfeljebb 200 kg | ex. 8414 |  |
-| 5.1.2. | Légkondicionáló berendezés motormeghajtású ventilátorral, hőmérséklet- és nedvességszabályozó szerkezettel, beleértve az olyan berendezést is, amelyben a nedvesség külön nem szabályozható: | ex. 8415 |  |
-| 5.1.3. | Hűtőgép, fagyasztógép és egyéb hűtő- vagy fagyasztókészülék, elektromos működésű; hőszivattyú a 8415 kód alá tartozó légkondicionáló berendezés kivételével: |  |  |
-| 5.1.3.1. | - Más kombinált hűtő-fagyasztó gép | 8418 10 | 80 |
-| 5.1.3.2. | - Kompresszoros típusú háztartási hűtőgép: | 8418 21 |  |
-| 5.1.3.3 | - Abszorpciós típusú hűtőgép | 8418 22 | 00 |
-| 5.1.3.4. | - Más háztartási hűtőgép | 8418 29 |  |
-| 5.1.3.5. | - Fagyasztóláda, legfeljebb 400 liter űrtartalommal | 8418 30 | 20 |
-| 5.1.3.6. | - Fagyasztószekrény, legfeljebb 250 liter űrtartalommal | 8418 40 | 20 |
-| 5.1.4. | Centrifuga, beleértve a centrifugális szárítót is: |  |  |
-| 5.1.4.1. | - Ruhaszárító | 8421 12 | 00 |
-| 5.1.4.2. | - Más centrifuga | 8421 19 | 70 |
-| 5.1.5. | Mosogatógép: |  |  |
-| 5.1.5.1. | - Háztartási | 8422 11 | 00 |
-| 5.1.6. | Háztartásban használatos mosógép, beleértve az olyan gépet is, amely mos és szárít is, kivéve a 8450 20 00, valamint a 8450 90 00 alá tartozó termékek | ex. 8450 |  |
-| 5.1.7. | Szárítógép, legfeljebb 10 kg szárazruha-kapacitású gép | 8451 21 | 00 |
-| 5.1.8. | Hőtárolós radiátor | 8516 21 | 00 |
-| 5.1.9. | Helyiségek fűtésére szolgáló más elektromos készülék | ex. 8516 29 |  |
-| 5.1.10. | Mikrohullámú sütő | 8516 50 | 00 |
-| 5.1.11. | Sütő; tűzhely, tűzhelylap, forralógyűrű, grillsütő és sütőrostély, kivéve a 8516 60 59 és a 8516 60 90 alá tartozó termékek | ex. 8516 60 |  |
-| 5.2. | Háztartási kisgépek |  |  |
-| 5.2.1. | Személymérleg, csecsemőmérleg is; háztartási mérleg, kivéve a nem elektromos eszközöket | ex. 8423 10 |  |
-| 5.2.2. | Síkkötő gép, hurkológép, kivéve az ipari méretű alkalmazásokat | ex. 8447 20 |  |
-| 5.2.3. | Háztartási varrógép | 8452 10 |  |
-| 5.2.4. | Legfeljebb 1500 W teljesítményű és legfeljebb 20 literes porzsákkal vagy más tartálykapacitással rendelkező beépített elektromotoros porszívó | 8508 11 | 00 |
-| 5.2.5. | Porszívók beépített elektromotorral a 8508 11 alá tartozók kivételével | 8508 19 |  |
-| 5.2.6. | Elektromechanikus háztartási készülék, beépített elektromotorral, a 8508 alá tartozó porszívók kivételével, kivéve továbbá 8509 90 alá tartozó alkatrészeket | ex. 8509 |  |
-| 5.2.7. | Villanyborotva, -hajnyíró gép és szőreltávolító készülék beépített elektromotorral, kivéve 8510 90 00 alá tartozó alkatrészeket | ex. 8510 |  |
-| 5.2.8. | Elektromos átfolyásos vízmelegítő és merülőforraló | 8516 10 | 11 |
-| 5.2.9. | Hajszárító | 8516 31 |  |
-| 5.2.10. | Villanyvasaló | 8516 40 |  |
-| 5.2.11. | Kávé- vagy teafőző | 8516 71 | 00 |
-| 5.2.12. | Kenyérpirító | 8516 72 | 00 |
-| 5.2.13. | Olajsütő | 8516 79 | 20 |
-| 5.2.14. | Más elektrotermikus háztartási készülék | 8516 79 | 70 |
-| 5.2.15. | Karóra, zsebóra és más óra, beleértve a stopperórát is, nemesfémből vagy nemesfémmel plattírozott fémből készült tokkal, kivéve a nem elektromosan működőket | ex. 9101 |  |
-| 5.2.16. | Karóra, zsebóra és más óra, beleértve a stopperórát is a 9101 kód alá tartozó kivételével, kivéve továbbá a nem elektromosan működőket | ex. 9102 |  |
-| 5.2.17. | Óra „kisóraszerkezettel”, a 9104 alá tartozó kivételével | ex. 9103 |  |
-| 5.2.18. | Műszerfalba beépítésre alkalmas és hasonló típusú óra gépjárműhöz, légi-, űr- és vízi járműhöz | ex. 9104 00 | 00 |
-| 5.2.19. | Más óra, kivéve a nem elektromosan működőket | ex. 9105 |  |
-| 5.3. | Információs (IT) és távközlési berendezések (kivéve a mobil és a rádiótelefon készülék) |  |  |
-| 5.3.1 | A nyomtatási, másolási vagy faxtovábbító funkciókból legalább kettővel rendelkező, automatikus adatfeldolgozó géphez vagy hálózathoz való kapcsolódásra alkalmas készülék (melynek bruttó tömege legfeljebb 200 kg) | ex. 8443 31 |  |
-| 5.3.2. | Más, automatikus adatfeldolgozó géphez vagy hálózathoz való kapcsolódásra alkalmas készülék (melynek súlya legfeljebb 200 kg) | ex. 8443 32 |  |
-| 5.3.3. | Más (melynek súlya legfeljebb 200 kg) | ex. 8443 39 |  |
-| 5.3.4. | Írógépek a 8471 alá tartozó nyomtató kivételével; szövegszerkesztő gép: |  |  |
-| 5.3.4.1. | - Elektromos írógép | 8469 00 | 91 |
-| 5.3.5. | Számológép és számoló funkcióval ellátott zsebméretű adatrögzítő-, előhívó- és megjelenítőgép; könyvelőgép, postai bérmentesítőgép, jegykiadó gép és hasonló gép számolószerkezettel; pénztárgép: |  |  |
-| 5.3.5.1. | - Elektronikus számológép, külső elektromos áramforrás nélkül működő és számoló funkcióval ellátott zsebméretű adatrögzítő-, előhívó- és megjelenítő gép | 8470 10 | 00 |
-| 5.3.5.2. | Más elektronikus számológép nyomtató szerkezettel | 8470 21 | 00 |
-| 5.3.5.3. | - Más elektronikus számológép | 8470 29 | 00 |
-| 5.3.6. | Automatikus adatfeldolgozó gép és egységei; mágneses és optikai leolvasó, adatátíró gép a kódolt adat adathordozóra történő átírására, másutt nem említett gépi adatfeldolgozáshoz: | ex. 8471 |  |
-| 5.3.7. | Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos katódsugárcsöves monitor | 8528 41 | 00 |
-| 5.3.8. | Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos más monitor | 8528 51 | 00 |
-| 5.3.9. | Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos projektor | 8528 61 | 00 |
-| 5.3.10. | Automatikus adatfeldolgozó gép által létrehozott digitális információ megjelenítésére alkalmas, síkpanel megjelenítő (pl. folyadékkristályos eszköz) segítségével működő projektor | 8528 69 | 10 |
-| 5.3.11. | Más irodai gép (pl. stencil- vagy más sokszorosítógép, címíró gép, automata bankjegykiadó gép, érmeválogató, érmeszámláló vagy érmecsomagoló gép, ceruzahegyező, lyukasztó- vagy fűzőgép), kivéve a 8472 90 30 alá tartozó termékek | ex. 8472 |  |
-| 5.3.12. | Távbeszélő készülékek, beleértve a mobiltelefon-hálózatokhoz vagy más vezeték nélküli hálózatokhoz való készülékeket; hang, képek vagy más adatok továbbítására vagy vételére szolgáló más készülékek, beleértve a vezetékes vagy vezeték nélküli hálózatok (helyi vagy nagy kiterjedésű hálózat) távközlési berendezéseit a 8443, 8525, 8527 vagy 8528 alá tartozó, továbbításra vagy vételre szolgáló készülékek kivételével |  |  |
-| 5.3.12.1. | - Zsinór nélküli telefonkagylóval ellátott vezetékes távbeszélő | 8517 11 | 00 |
-| 5.3.12.2. | - Más | 8517 18 | 00 |
-| 5.3.12.3. | - Hang, képek vagy más adatok vételére, átalakítására és továbbítására vagy helyreállítására szolgáló gépek, beleértve a kapcsoló- és útvonalválasztó berendezéseket | 8517 62 | 00 |
-| 5.3.12.4. | - Videotelefon | 8517 69 | 10 |
-| 5.3.12.5. | - Kaputelefon | 8517 69 | 20 |
-| 5.3.13. | Hangszóró, amelynek frekvenciatartománya 300 Hz-3,4 kHz közötti, átmérője legfeljebb 50 mm, a telekommunikációban alkalmazott típus | 8518 29 | 30 |
-| 5.3.14. | Vezetékes telefon kézibeszélője | 8518 30 | 20 |
-| 5.3.15. | Hangfelvevő- vagy hanglejátszó készülék |  |  |
-| 5.3.15.1. | Szövegismétlő készülék telefonhoz | 8519 81 | 11 |
-| 5.3.15.2. | Diktafon, amely csak külső áramforrással működik | 8519 81 | 51 |
-| 5.3.15.3. | Telefon üzenetrögzítő készülék | 8519 50 | 00 |
-| 5.3.16. | Elektronikus fordítógép vagy szótár | 8543 70 | 10 |
-| 5.3.17. | Radarkészülék, rádiónavigációs segédkészülék és rádiós távirányító készülék a 8526 92 00 alá tartozó játék működtetésére szolgáló rádiós távirányító készülék kivételével | ex. 8526 |  |
-| 5.4. | Szórakoztató elektronikai cikkek |  |  |
-| 5.4.1. | Mikrofon és tartószerkezete; hangszóró, dobozba szerelve is, fejhallgató és fülhallgató, mikrofonnal összeépítve is, valamint egy mikrofonból és egy vagy több hangszóróból álló egység; hangfrekvenciás elektromos erősítő; elektromos hangerősítő egység a 8518 29 30, a 8518 30 20 és a 8518 90 00 alá tartozó termékek kivételével | ex. 8518 |  |
-| 5.4.2. | Hangfelvevő- vagy hanglejátszó készülék a 8519 50 00, a 8519 81 11 és a 8519 81 51 alá tartozó termékek kivételével | ex. 8519 |  |
-| 5.4.3. | Videofelvevő és -lejátszókészülék, videotunerrel egybeépítve is | 8521 |  |
-| 5.4.4. | Televíziós kamerák (felvevők), digitális fényképezőgépek és videokamera-felvevők a 8525 80 11 kivételével | ex. 8525 80 |  |
-| 5.4.5. | Rádióműsor-vevőkészülék, hangfelvevő vagy -lejátszó készülékkel vagy órával közös házban is | 8527 |  |
-| 5.4.6. | Monitorok és kivetítők, beépített televízióvevő-készülék nélkül; televíziós adás vételére alkalmas készülék, rádióműsor-vevőkészüléket vagy hang- vagy képfelvevő vagy -lejátszó készüléket magában foglaló is, a 8528 41 00, a 8528 51 00, a 8528 61 00 és a 8528 69 10 alá tartozó termékek kivételével | ex. 8528 |  |
-| 5.4.7. | Fényképezőgép (a mozgófényképészeti kamera kivételével); fényképészeti villanófény-készülék és villanókörte, a 8539 KN-kód alá tartozó kisülési cső kivételével, kivéve továbbá a nem elektromos eszközök, továbbá 9006 10 00, 9006 30 00, 9006 61 00, 9006 69 00 alá tartozó termékek, továbbá azok 9006 91 alá tartozó alkatrészei és 90 06 99 alá tartozó tartozékai | ex. 9006 |  |
-| 5.4.8. | Mozgókép-felvevő (kamera) és vetítő, hangfelvevő és hanglejátszó készülékkel vagy anélkül, kivéve a nem elektromos eszközök és 9007 91 00, 9007 92 00 alá tartozó alkatrészek és tartozékok | ex. 9007 |  |
-| 5.4.9. | Diavetítő | 9008 10 | 00 |
-| 5.4.10. | Hangszer, amelyben a hangot elektromos úton keltik vagy erősítik (pl. orgona, gitár, tangóharmonika) | 9207 |  |
-| 5.4.11 | Napozóágyak, napozólámpák és hasonló, napozáshoz használt felszerelések: |  |  |
-| 5.4.11.1 | Ultraibolya A sugarat felhasználó fénycsővel legfeljebb 100 cm csőhosszúsággal | 8543 70 | 51 |
-| 5.4.11.2 | Ultraibolya A sugarat felhasználó más fénycsővel | 8543 70 | 55 |
-| 5.4.11.3 | Más, napozóágyak, -lámpák, hasonló felszerelések napozáshoz | 8543 70 | 59 |
-| 5.5. | Elektromos, elektronikus barkácsgépek, szerszámok, kivéve a nagyméretű, helyhez kötött ipari szerszámok |  |  |
-| 5.5.1. | Folyadékszivattyú egyfokozatú – búvárszivattyú | 8413 70 | 21 |
-| 5.5.2. | Fűkaszáló motoros körforgó vízszintes vágószerkezettel – elektromos | 8433 11 | 10 |
-| 5.5.3. | Kézi használatú szerszám beépített elektromos motorral működő | ex. 8467 |  |
-| 5.5.4. | Forrasztópáka és -pisztoly | 8515 11 | 00 |
-| 5.6. | Játékok, szabadidős és sportfelszerelések |  |  |
-| 5.6.1. | Rádiós távirányító készülék játék működtetésére | ex. 8526 92 | 00 |
-| 5.6.2. | Pénzérmékkel, bankjegyekkel, bankkártyákkal, zsetonokkal vagy más fizetőeszközökkel működő más játék, a tekepálya-felszerelés kivételével | ex. 9504 30 |  |
-| 5.6.3. | Villanyvonat, vágány, jelzőlámpa és más tartozékai; csökkentett méretű „méretarányos” összeszerelhető modell készletben, működő is | ex. 9503 00 | 30 |
-| 5.6.4. | Beépített motorral működő más játék és modell műanyagból | 9503 00 | 75 |
-| 5.6.5. | Beépített motorral működő más játék és modell más anyagból | 9503 00 | 79 |
-| 5.6.6. | Tévéhez kapcsolható videojáték | 9504 10 | 00 |
-| 5.6.7. | Elektromos autóverseny-készlet, verseny jellegű | 9504 90 | 10 |
-| 5.7. | Ellenőrző és vezérlő eszközök |  |  |
-| 5.7.1. | Mérleg, vizsgáló és ellenőrző mérleg is (az 50 mg vagy ennél nagyobb érzékenységű mérleg kivételével) beleértve a súllyal működtetett számláló vagy ellenőrző mérleget is; | ex. 8423 |  |
-| 5.7.2. | Gépjárműhöz használt riasztóberendezés | 8512 30 | 10 |
-| 5.7.3. | Elektromos, akusztikus vagy vizuális jelzőberendezés (pl. csengő, sziréna jelzőtábla, betörést vagy tüzet jelző riasztókészülék), a 8512 vagy a 8530 alá tartozó kivételével | ex. 8531 |  |
-| 5.8. | Adagoló automaták |  |  |
-| 5.8.1. | Bankjegykiadó automata | 8472 90 | 30 |
-| 5.8.2. | Automata elárusítógép (így különösen postai bélyeg, cigaretta, étel vagy ital árusítására), beleértve a pénzváltó gépet is: |  |  |
-| 5.8.2.1 | Automata italárusító gép beépített melegítő- vagy hűtőkészülékkel | 8476 21 | 00 |
-| 5.8.2.2. | Más elárusító automata beépített melegítő-, hűtőkészülékkel | 8476 81 | 00 |
-| 5.9. | Rádiótelefon készülék |  |  |
-| 5.9.1. | Mobiltelefon-hálózathoz vagy más vezeték nélküli hálózatokhoz való távbeszélők | 8517 12 | 00 |
-| 5.9.2. | Rádiótelefon- vagy rádiótávíró-vevőkészülék |  |  |
-| 5.9.2.1. | Hordozható személyi hívó | 8517 69 | 31 |
-| 5.9.2.2. | Más rádiótelefon- vagy rádiótávíró-vevőkészülék | 8517 69 | 39 |
-| 6. | Csomagolószerek |  |  |
-| 6.1. | Növényi anyag |  |  |
-| 6.1.1. | Elsősorban fonatkészítésre használatos növényi anyag (nád, gyékény, rafia, gabonaszalma stb.) csomagolási célra | ex. 1401 90 |  |
-| 6.1.2. | Másutt nem említett növényi eredetű anyag csomagolási célra | ex. 1404 90 |  |
-| 6.2. | Műanyag |  |  |
-| 6.2.1. | Öntapadó műanyag lap, lemez, film, fólia, szalag, csík és más sík formában, tekercsben is kivéve: az építési termék; a villamosszigetelési, elektrotechnikai áru | ex. 3919 |  |
-| 6. 2.2. | Más műanyag lap, lemez, film, fólia, szalag és csík, amely nem porózus, és nem erősített, nem laminált, nem alátámasztott vagy más anyagokkal hasonlóan nem kombinált kivéve: az építési termék, a bútoripari áru; a villamos szigetelési áru; a kordonszalag; | ex. 3920 |  |
-| 6.2.3. | Más műanyag lap, lemez, film, fólia, szalag és csík kivéve: az építési termék; a villamos szigetelési áru | ex. 3921 |  |
-| 6.2.4. | Műanyag eszközök termék szállítására vagy csomagolására legfeljebb 300 liter űrtartalommal; műanyag dugó, fedő, kupak és más lezáró; műanyag bevásárló reklámtáska kivéve: az elkülönített hulladék gyűjtésére szolgáló zsák*; a megújuló forrásból készült, biológiai úton lebomló műanyag szemeteszsák**; a hulladékgyűjtő edény | ex. 3923 |  |
-| 6.2.5. | Egyszer használatos műanyag edények | ex. 3924 |  |
-| 6.3. | Gumi |  |  |
-| 6.3.1. | Vulkanizált lágygumiból készült lezáró termékek (dugó, gyűrű stb.) | ex. 4016 |  |
-| 6.4. | Fa |  |  |
-| 6.4.1. | Furnérlap tűlevelű fából kivéve: építési termék, bútoripari áru | ex. 4408 10 |  |
-| 6.4.2. | Furnérlap más fából kivéve: építési termék, bútoripari áru | ex. 4408 90 |  |
-| 6.4.3. | Forgácslemez, irányított forgácselrendezésű lemez (OSB) és hasonló tábla fából vagy más fatartalmú anyagból, gyantával vagy más szerves kötőanyagokkal agglomerálva (tömörítve) is kivéve: építési termék, bútoripari áru | ex. 4410 |  |
-| 6.4.4. | Rostlemez fából vagy más fatartalmú anyagból, gyantával vagy más szerves anyaggal összeragasztva is kivéve: építési termék, bútoripari áru | ex. 4411 |  |
-| 6.4.5. | Fából készült láda, doboz, rekesz, dob és hasonló csomagolóeszköz; kábeldob fából; rakodólap, keretezett és más szállítólap; rakodólapkeret fából | 4415 |  |
-| 6.5. | Parafa |  |  |
-| 6.5.1. | Természetes parafából készült dugó és lezáró termékek | 4503 10 |  |
-| 6.5.2. | Agglomerált parafából (kötőanyaggal is) készült dugó és lezáró termékek | ex. 4504 10 ex. 4504 90 |  |
-| 6.6. | Kosáráru, fonásáru |  |  |
-| 6.6.1. | Kosáráru, fonásáru és fonásanyagból közvetlenül kész alakban előállított más termék vagy a 4601 vtsz. alá tartozó anyagokból készült termék kivéve: nem egyszer használatos termékek | ex. 4602 |  |
-| 6.7. | Papír, karton |  |  |
-| 6.7.1. | Nem bevont papír és karton írásra, nyomtatásra vagy más grafikai célra, és nem perforált lyukkártya- és lyukszalagpapír tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4801 vagy 4803 vtsz. alá tartozó papír kivételével kivéve: a kézi merítésű papír és karton (4802 10); a tapéta alappapír; a képeslappapír és könyvnyomó papír; az irodai papír (fénymásolópapír); iskolafüzet; jegyzettömb; pénztárgép-papír; biztonsági papír | ex. 4802 |  |
-| 6.7.2. | Selyem alappapír, kreppelt, ráncolt, domborított, perforált, felületileg színezett, díszített vagy nyomtatott alappapír, cellulózvatta és cellulózszálból álló szövedék, tekercsben vagy ívben kivéve: háztartási, egészségügyi alappapír; bútoripari, ruhaipari áru | ex. 4803 |  |
-| 6.7.3. | Nem bevont nátronpapír és -karton tekercsben vagy ívben, a 4802 vagy 4803 vtsz. alá tartozók kivételével | 4804 |  |
-| 6.7.4. | Nem bevont más papír és karton tekercsben vagy ívben a termékcsoporthoz tartozó Megjegyzések 3. pontjában megengedettnél nem nagyobb mértékben megmunkálva vagy feldolgozva kivéve: szűrőpapír és karton (4805 40 HR kód) | ex. 4805 |  |
-| 6.7.5. | Növényi pergamen, zsírpapír, pergamenpapír és más fényezett, átlátszó vagy áttetsző papír, tekercsben vagy ívben kivéve: átmásolópapír; sütőpapír | ex. 4806 |  |
-| 6.7.6. | Többrétegű papír és karton (ragasztóval összeragasztott papír- vagy kartonlapból összeállítva) felületi impregnálás vagy bevonás nélkül, belső erősítéssel is, tekercsben vagy ívben | 4807 |  |
-| 6.7.7. | Hullámpapír és -karton (ragasztott, sima felületű lapokkal is), kreppelt, redőzött, domborított vagy perforált papír és karton tekercsben vagy ívben, a 4803 vtsz. alá tartozók kivételével | 4808 |  |
-| 6.7.8. | Papír és karton egyik vagy mindkét oldalán kaolinnal (kínai agyaggal) vagy más szervetlen anyaggal bevonva, kötőanyag felhasználásával is, de más bevonat nélkül, felületileg színezett, díszített vagy nyomtatott is, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben kivéve: nyomtató-, fénymásolópapír | ex. 4810 |  |
-| 6.7.9. | Papír, karton, cellulózvatta és cellulózszálból álló szövedék bevonva, impregnálva, borítva, felületileg színezve, díszítve vagy nyomtatva, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4803, 4809 vagy 4810 vtsz. alá tartozók kivételével kivéve: háztartási áru, ruhaipari áru | ex. 4811 |  |
-| 6.7.10. | Doboz, láda, tok, zsák és más csomagolóeszköz papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből kivéve: iratgyűjtő doboz; levéltartó doboz és hasonló cikk irodai, üzleti célra (4819 60 HR kód) | ex. 4819 |  |
-| 6.7.11. | Mindenféle címke papírból vagy kartonból, nyomtatott is kivéve: tanszerek; dokumentumok, árut nem tartalmazó levélküldemények azonosító címkéi | ex. 4821 |  |
-| 6.7.12. | Orsó, cséve, kopsz és hasonló tartó papíripari rostanyagból, papírból vagy kartonból (perforálva vagy merítve is) | 4822 |  |
-| 6.7.13. | Más papír, karton, cellulózvatta és cellulózszálból álló szövedék méretre vagy alakra vágva; más terméké papíripari rostanyagból, papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből kivéve: a szűrőpapír és karton (4823 20 HR kód); az előre nyomtatott regisztrálóhengerek, -ívek és számlapok önfeljegyző készülékekhez; pénztárgép szalag | ex. 4823 |  |
-| 6.8. | Szövet, nem szőtt textília |  |  |
-| 6.8.1. | Jutaszövet vagy az 5303 vtsz. alá tartozó más textil háncsrostból készült szövet kivéve: építési termék, erózió- és rézsüvédelmi áru | ex. 5310 |  |
-| 6.9. | Nem szőtt textília |  |  |
-| 6.9.1. | Nem szőtt textília, impregnált, bevont, beborított vagy rétegelt is kivéve: háztartási áru; textil- és ruhaipari áru; járműipari áru; építési termék, bútoripari, erózió- és rézsüvédelmi célokra szolgáló áru; geotextil | ex. 5603 |  |
-| 6.10. | Zsinór, kötél |  |  |
-| 6.10.1. | Zsineg, kötél fonva vagy sodorva, és gumival vagy műanyaggal impregnálva, bevonva, beborítva vagy burkolva is kivéve: hajókötél és kábel; bálázózsineg; 5 mm-nél nagyobb átmérőjű áruk; háztartási áru; textil- és ruhaipari áru; építési termék; bútoripari áru | ex. 5607 |  |
-| 6.11. | Zsák, zacskó |  |  |
-| 6.11.1. | Zsák és zacskó termék csomagolására kivéve: árvízvédelmi homokzsák | ex. 6305 |  |
-| 6.12. | Üveg |  |  |
-| 6.12.1. | Üvegballon (fonatos is), üvegpalack, flaska, konzervüveg, üvegedény, fiola, ampulla és más üvegtartály termék szállítására vagy csomagolására; befőzőüveg; dugasz, fedő és más lezáró üvegből | 7010 |  |
-| 6.13. | Vas, acél |  |  |
-| 6.13.1. | Tartály, hordó, dob, konzervdoboz, doboz és hasonló edény bármilyen anyag (a sűrített vagy folyékony gáz kivételével) befogadására, vasból vagy acélból, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok; hulladékgyűjtő edény | ex. 7310 |  |
-| 6.13.2. | Tartály vasból vagy acélból, sűrített vagy folyékony gáz befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok | ex. 7311 |  |
-| 6.14. | Alumínium |  |  |
-| 6.14.1. | Alumíniumfólia (papír, karton, műanyag vagy hasonló alátéten vagy nyomtatva is), ha vastagsága (az alátétet nem számítva) legfeljebb 0,2 mm kivéve: elektrotechnikai áru | ex. 7607 |  |
-| 6.14.2. | Alumínium hordó, -dob, -kanna, -doboz és hasonló edény (a merev vagy összenyomható cső alakú tartály is) bármilyen anyag (a sűrített vagy folyékony gáz kivételével) befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok; hulladékgyűjtő edény | ex. 7612 |  |
-| 6.14.3. | Alumíniumtartály sűrített vagy folyékony gáz befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok | ex. 7613 |  |
-| 6.14.4. | Asztali, konyhai vagy más háztartási cikk, valamint ezek részei alumíniumból kivéve: nem egyszer használatos áruk | ex. 7615 |  |
-| 6.15. | Máshol nem említett áruk nem nemesfémből |  |  |
-| 6.15.1. | Dugó, kupak és fedő (beleértve a korona-, csavar- és kiöntődugót is), palackfedél vagy kupak, és más csomagolási segédanyag nem nemesfémből kivéve: csavarmenetes hordódugó; hordódugóvédő, pecsét | ex. 8309 |  |
-
-* a termék mindkét oldalán, egy-egy oldal felületének legalább 20%-át kitevő „ELKÜLÖNÍTETT HULLADÉK” felirattal ellátva.
-
-** a termék mindkét oldalán, egy-egy oldal felületének legalább 20%-át kitevő „BIOLÓGIAI ÚTON LEBOMLÓ SZEMETESZSÁK” felirattal ellátva.
-
-”
