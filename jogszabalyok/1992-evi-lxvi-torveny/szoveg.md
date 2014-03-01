@@ -304,6 +304,14 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - b) értesítési címét, valamint
 - c) a bejelentés időpontját.
 
+(4) A külföldön élő magyar állampolgár külföldi lakóhely változásának bejelentése során a következő adatokat közli a központi nyilvántartó szervvel:
+
+- a) természetes személyazonosító adatait,
+- b) személyi azonosítóját,
+- c) magyar állampolgárságát igazoló okiratának számát vagy magyar állampolgárságát igazoló okmányának számát,
+- d) új külföldi lakóhelyét, valamint
+- e) a bejelentés időpontját.
+
 16. § (1) Az anyakönyvvezető a születési, a házassági, a halotti anyakönyvben, valamint a bejegyzett élettársi kapcsolatok anyakönyvében rögzített – a 11. § (1) bekezdésében meghatározott – adatokat átvezeti a nyilvántartáson.
 
 (2) A 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgár esetében a hazai anyakönyvezést végző anyakönyvvezető a születési, a házassági anyakönyvben vagy a bejegyzett élettársi kapcsolatok anyakönyvében rögzített – a 11. § (1) bekezdésében meghatározott, illetve a külföldi lakóhely – adatokat átvezeti a nyilvántartáson.
@@ -668,13 +676,15 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 ### VII. Fejezet — Egyéb rendelkezések
 
-34. § (1) A nyilvántartásba vételre, a nyilvántartás alapján történő okirat kiadására és a nyilvántartott adatokon alapuló adatszolgáltatásokra irányuló ügyekben – a (2)–(4) bekezdésben foglalt kivételekkel – a hatóság az ügyféllel nem tart elektronikusan írásban kapcsolatot.
+34. § (1) A nyilvántartásba vételre, a nyilvántartás alapján történő okirat kiadására és a nyilvántartott adatokon alapuló adatszolgáltatásokra irányuló ügyekben – a (2)–(5) bekezdésben foglalt kivételekkel – a hatóság az ügyféllel nem tart elektronikusan írásban kapcsolatot.
 
 (2) Az érintett elektronikus kapcsolattartás keretében is igényelhet tájékoztatást saját nyilvántartott adatairól és arról, hogy milyen adatszolgáltatások alanya volt, kezdeményezheti nyilvántartott adatainak javítását, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadását, valamint a birtokából kikerült hatósági igazolványa pótlását.
 
 (3) A nyilvántartás szerve a 17. § (4) bekezdésében, a 26. § (3) bekezdés b) pontjában és a 29. § (7) bekezdésében meghatározott ügyfajtákban tart elektronikusan kapcsolatot az ügyféllel.
 
 (4) A polgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás útján is bejelentheti értesítési címét.
+
+(5) A külföldön élő magyar állampolgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás útján is bejelentheti külföldi lakóhelyének változását.
 
 35. § (1) A nyilvántartásban és annak alapján kiadott iratokban a családi név megelőzi az utónevet.
 

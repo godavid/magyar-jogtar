@@ -750,7 +750,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 
 38. § (1) Felhatalmazást kap a kormány, hogy rendeletben
 
-- a) jelölje ki a földmérési és térinformatikai államigazgatási szervet és határozza meg a földmérési és térinformatikai államigazgatási szerv, valamint az ingatlanügyi hatóság e törvény hatálya alá tartozó feladatait és hatáskörét,
+- a) jelölje ki a földmérési és térinformatikai államigazgatási szervet és határozza meg a földmérési és térinformatikai államigazgatási szerv, valamint az ingatlanügyi hatóság e törvény hatálya alá tartozó feladatait, hatáskörét és illetékességi területét,
 - b) határozza meg a nemzeti téradat-infrastruktúra működését irányító állandó bizottság szervezetét, feladatát, működésének szabályait és feltételeit,
 - c) határozza meg a nemzeti téradat-infrastruktúra működésének szabályait, valamint jelölje ki a központi irányításért felelős szervezetet,
 - d) állapítsa meg az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét és a változások átvezetésének szabályait,
@@ -776,7 +776,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 - k) az archív analóg és digitális térképeknek, valamint az állami alapadatok előállításával kapcsolatos különféle távérzékelési anyagoknak, munkarészeknek, adatállományoknak és dokumentumoknak a megőrzési, tárolási, kezelési és szolgáltatási rendjét,
 - l) a felelősségi körébe tartozó állami alapadat-adatbázisok jogszerű felhasználásának feltételeit és a felhasználás ellenőrzésének rendjét,
 - m) az országos földügyi és távérzékelési levéltár létesítésének és működtetésének részletes szabályait,
-- n) az ingatlanügyi hatóság, vagy hatóságok illetékességi területét az e törvény hatálya alá tartozó feladatai tekintetében
+- n)
 
 rendeletben állapítsa meg.
 

@@ -924,7 +924,7 @@ kezeli.
 - 2. belvízi, illetőleg tengeri hajó: rendeltetésének megfelelő, nyilvántartásba vett, és építése, berendezése és felszerelése alapján belvízi, illetőleg tengeri közlekedésre alkalmas vízijármű;
 - 3. csónak: a hajónak, kompnak, vízi sporteszköznek nem minősülő
   - a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket,
-  - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 6,2 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 4 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
+  - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 7,5 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 - 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 - 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
 - 6. gazdasági célú hajózási tevékenység: ellenszolgáltatásért, illetőleg egyéb gazdasági tevékenység kiszolgálása során, vagy annak érdekében végzett hajózási tevékenység;

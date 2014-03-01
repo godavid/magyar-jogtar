@@ -74,11 +74,25 @@ pontjában meghatározott feltételeknek, függetlenül attól, hogy az a)–e) 
 
 #### 6. Az adás-vételi szerződésnek az elővásárlásra jogosultakkal való közlése
 
-#### 16–17. §
+16. § (1) A Földforgalmi törvény 21. § (1) bekezdése szerinti egységes okiratba foglalt adás-vételi szerződés alatt olyan szerződést kell érteni, amely a feleknek a szerződés létrejöttére irányuló nyilatkozatait, továbbá a szerződés lényeges tartalmi elemeit, továbbá a felek által meghatározott valamennyi kikötést, feltételt magába foglalja.
+
+(2) A 14. §-ban meghatározott jogok gyakorlása során a jog gyakorlására irányuló nyilatkozatot kell az elővásárlásra jogosultakkal közölni. A visszavásárlási jog gyakorlása esetén e jog gyakorlására irányuló nyilatkozathoz csatolni kell azt az eredeti adás-vételi szerződést is, amelynek megkötésével egyidejűleg a szerződő felek megállapodnak abban, hogy a vevő visszavásárlási jogot enged a megvett földre az eladó részére.
+
+17. § (1) Az adás-vételi szerződésnek az elővásárlásra jogosultakkal a Földforgalmi törvény 21. § (1) bekezdésében meghatározott módon történő közlése során a szerződést négy eredeti példányban kell benyújtani a föld fekvése szerint illetékes települési önkormányzat (a fővárosban a fővárosi kerületi önkormányzat) jegyzőjéhez (a továbbiakban: jegyző), amelyek közül egy példánynak a Földforgalmi törvény 8. §-a szerinti, és a Földforgalmi törvény végrehajtására kiadott rendeletben meghatározott biztonsági kellékekkel rendelkező papír alapú okmányon (a továbbiakban: biztonsági okmány) kiállítottnak kell lennie.
+
+(2) Más törvényen, illetve megállapodáson alapuló elővásárlási jog esetében az eladónak a hirdetményi úton történő közlés mellett a Földforgalmi törvény 21. § (1) bekezdése szerinti, az adás-vételi szerződés közvetlen közlésére vonatkozó kötelezettsége teljesítése érdekében az adás-vételi szerződésnek a nem biztonsági okmányon szerkesztett példányát a más törvényen, illetve megállapodáson alapuló elővásárlási jog jogosultja részére postai úton kell megküldenie vagy az átvétel igazolása mellett személyesen átadnia. E bekezdés szerinti közlésnek a Földforgalmi törvény 21. § (1) bekezdésében meghatározott határidőn belül kell megtörténnie.
+
+(3) A (2) bekezdésben meghatározott esetben is a joghatályos közlésnek az adás-vételi szerződés hirdetményi úton történő közlése minősül, a más törvényen, illetve megállapodáson alapuló elővásárlási jog jogosultja e jogát a Földforgalmi törvény 21. § (3) bekezdésében meghatározott határidőn belül gyakorolhatja.
+
+(4) Az adás-vételi szerződés hirdetményi úton történő közlésére vonatkozó eljárás díj- és illetékmentes.
 
 #### 7. Az elővásárlási jog gyakorlása
 
-#### 18–20. §
+18. § Az elővásárlásra jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1)–(2) bekezdésében foglaltakat kell tartalmaznia.
+
+19. § A Földforgalmi törvény 19. § (5) bekezdésében meghatározott esetben az elővásárlásra jogosult az adás-vételi szerződést csak teljes egészében fogadhatja el. E rendelkezés alkalmazása során az elővásárlásra jogosultak sorrendjére a Földforgalmi törvény 18–19. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő elővásárlásra jogosult elővásárlási jogát megalapozó körülmény az adásvételi szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az elővásárlási joga fennáll, nyilatkozata új ajánlatnak minősül.
+
+20. § A Földforgalmi törvény 21. § (3) bekezdése alkalmazásában az elfogadó jognyilatkozat személyes átadásának kötelezettsége alól – a földalapkezelő szervezet mellett – az államot megillető elővásárlási jog esetén e jog gyakorlására jogosult más szervezet vagy személy, illetve az önkormányzat is mentesül.
 
 ### V. Fejezet — A TULAJDONJOG ÁTRUHÁZÁSÁRÓL SZÓLÓ, BÍRÓSÁGI VAGY KÖZJEGYZŐI JÓVÁHAGYÁSHOZ KÖTÖTT EGYEZSÉGET MEGELŐZŐ HATÓSÁGI ELJÁRÁSRA VONATKOZÓ SZABÁLYOK
 
@@ -682,7 +696,7 @@ szolgáltat.
 
 ### XV. Fejezet — A HELYI FÖLDBIZOTTSÁG
 
-#### 101. §
+101. § A Földforgalmi törvény 68. § (1) bekezdésében a települési önkormányzat közigazgatási területén földet használó, földművesnek, illetve mezőgazdasági termelőszervezetnek nem minősülő más természetes és jogi személy alatt a Földforgalmi törvény 40. § (3) és (4) bekezdésében meghatározottakat kell érteni.
 
 102. § (1) A helyi földbizottságról és annak tagjairól a jegyző nyilvántartást vezet. A nyilvántartás tartalmazza
 
@@ -871,8 +885,8 @@ rendeletben állapítsa meg.
 - a)
 - b)
 - c)
-- d)
-- e)
+- d) 9. § (3) bekezdése;
+- e) 10. §-a;
 - f)
 - g)
 - h)

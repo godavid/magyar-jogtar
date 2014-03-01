@@ -4,15 +4,14 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 
 ### I. Fejezet — A SZOLGÁLATI JOGVISZONYRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) A törvény hatálya
+1. § (1) E törvény hatálya
 
 - a) a bíróságokkal,
 - b) az Országos Bírósági Hivatallal (a továbbiakban: OBH),
-- c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazságügyi szerv)
+- c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazságügyi szerv), valamint
+- d) az általános rendőrségi feladatok ellátására létrehozott szerv szakértői és bűnügyi technikai feladatokat ellátó szervénél (a továbbiakban: a rendőrség szakértői szerve) az igazságügyi szakértőként és szakértőjelöltként, valamint a technikusként foglalkoztatottal létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
 
-létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
-
-(2) Az (1) bekezdésben megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
+(2) Az (1) bekezdés a)–c) pontjában megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
 (3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
@@ -20,18 +19,32 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (5) Az igazságügyi alkalmazottak szolgálati viszonyára más jogszabály rendelkezéseit akkor kell alkalmazni, ha azt e törvény elrendeli.
 
-2. § (1) A szolgálati viszony alanyai az igazságügyi szerv és az igazságügyi alkalmazott.
+2. § (1) A szolgálati viszony alanyai egyrészről az igazságügyi szerv vagy a rendőrség szakértői szerve, másrészről az igazságügyi alkalmazott.
 
 (2) Igazságügyi alkalmazott:
 
 - a) a bírósági fogalmazó és a bírósági titkár,
-- b)
+- b) a rendőrség szakértői szervénél foglalkoztatott technikus,
 - c) az igazságügyi szakértő és a szakértőjelölt,
 - d) a tisztviselő,
 - e) az írnok,
 - f) a fizikai dolgozó.
 
 (3) A (2) bekezdésben meghatározott munkaköri csoportokon belül a munkavégzés jellegére, illetve a szolgálat teljesítésének a helyére utaló munkaköri elnevezéseket jogszabály állapíthat meg.
+
+2/A. § (1) E törvény eltérő rendelkezésének hiányában tisztviselő alatt a 2. § (2) bekezdés b) pontjában meghatározott igazságügyi alkalmazottat is érteni kell.
+
+(2) Ha e törvény másként nem rendelkezik,
+
+- a) az egyéb igazságügyi szervre irányadó rendelkezéseket a rendőrség szakértői szervére is,
+- b) az egyéb igazságügyi szervnél létesített szolgálati jogviszony tekintetében irányadó rendelkezéseket a rendőrség szakértői szervénél létesített szolgálati jogviszonyra is alkalmazni kell.
+
+(3) A rendőrség szakértői szervére nem kell alkalmazni
+
+- a) a 35/A. §, valamint
+- b) a 93–94. §
+
+rendelkezéseit.
 
 3. § (1) A bírói tisztség ellátásához szükséges gyakorlati ismeretek megszerzése végett a bíróságokon fogalmazók működnek.
 
@@ -64,7 +77,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - a) az OBH elnökhelyettese és egyéb alkalmazottai tekintetében az OBH elnöke,
 - b)
 - c) az igazságügyi szakértők, az egyéb igazságügyi szerv vezetője és helyettese tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter),
-- d)
+- d) a rendőrség szakértői szervénél foglalkoztatott igazságügyi alkalmazottak tekintetében jogszabályban meghatározott személy,
 - e) a járásbírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a törvényszék elnöke,
 - f) az egyéb igazságügyi alkalmazottak tekintetében az igazságügyi szerv vezetője (a továbbiakban együtt: munkáltató) gyakorolja.
 
@@ -137,7 +150,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2)
 
-(3) Egyéb igazságügyi szervhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
+(3) Egyéb igazságügyi szervhez és a rendőrség szakértői szervéhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
 
 (4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
@@ -324,6 +337,8 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - g) húsz év: nyolc havi illetménynek megfelelő összeg.
 
 (2) A végkielégítés összegének a meghatározásánál szolgálati viszonyban töltött időként az igazságügyi és az ügyészi szerveknél megszakítás nélkül eltöltött idő, az ismételten létesített szolgálati viszony megszűnésekor pedig csak a korábbi végkielégítést követően e szerveknél eltöltött idő vehető figyelembe. A Központi Kárrendezési Irodától (a továbbiakban: KKI) áthelyezett igazságügyi alkalmazott esetében szolgálati viszonyban töltött időnek minősül a KKI-nál és jogelődjénél köztisztviselőként eltöltött idő is.
+
+(3) A rendőrség szakértői szervénél foglalkoztatott igazságügyi alkalmazott esetében a végkielégítés összegének a meghatározásánál – a (2) bekezdésben meghatározottakon felül – szolgálati viszonyban töltött időként vehető figyelembe a rendőrség szakértői szervénél megszakítás nélkül eltöltött idő is.
 
 ### Eljárás a szolgálati viszony megszűnésekor
 
@@ -1005,7 +1020,8 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 - a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének a napjától számított időt,
 - b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a kinevezésig a szakirányú végzettségnek megfelelő munkakörben eltöltött időt,
-- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, köztisztviselői, kormányzati ügykezelői, közszolgálati ügykezelői, közalkalmazotti jogviszony és szolgálati jogviszony idejét.
+- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, köztisztviselői, kormányzati ügykezelői, közszolgálati ügykezelői, közalkalmazotti jogviszony és szolgálati jogviszony idejét,
+- d) a rendőrség szakértői szervének igazságügyi alkalmazottainál a korábbi munkaviszony, kormánytisztviselői, köztisztviselői, kormányzati ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.
 
@@ -1329,18 +1345,36 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (2) Ahol a törvény közigazgatási és munkaügyi bíróságról rendelkezik, ott 2012. december 31. napjáig munkaügyi bíróságot kell érteni.
 
+134/B. § (1) A 32. § (2) bekezdésében foglalt rendelkezést a rendőrség szakértői szerve esetében a 2014. március 1-jén vagy azt követően létrejött megbízásokra kell alkalmazni.
+
+(2) A rendőrség szakértői szerve 2014. december 31-ig
+
+- a) megteszi a 93. és 94. §-ban foglalt rendelkezések alkalmazása érdekében szükséges intézkedéseket, valamint
+- b) az igazságügyi alkalmazottairól a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 83/B–83/D. §-ában meghatározott nyilvántartást vezeti.
+
+134/C. § A rendőrség szakértői szervének igazságügyi alkalmazottját megillető egyes illetményelemek együttes összege nem lehet alacsonyabb az őt 2014. március 1-jét megelőzően megillető egyes illetményelemek együttes összegénél.
+
 135. § (1) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerveket rendeletben határozza meg.
 
 (2) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerv esetében meghatározza a beosztási pótlék megállapítására jogosító szervezeti egységeket.
 
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+(3) Felhatalmazást kap a miniszter, hogy
 
 - a)
-- b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével –,
+- b) az 1. § (1) bekezdés d) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével–
 - c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
-- d) az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
+- d) az 1. § (1) bekezdés d) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
 
 rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap a rendészetért felelős miniszter, hogy az 1. § (1) bekezdés d) pontjában meghatározott igazságügyi alkalmazottak tekintetében
+
+- a) rendeletben határozza meg
+  - aa) a munkaköri elnevezéseket és képesítési követelményeket, valamint a veszélyességi pótlékra jogosító munkaköröket,
+  - ab) az igazságügyi alkalmazottak és közeli hozzátartozóik vonatkozásában a juttatások, költségtérítések, kedvezmények, támogatások, rendszerét és feltételeit, valamint az üdülés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat,
+  - ac) a magasabb vezetői, valamint a vezetői megbízás körét, továbbá ezek törvényi szintű szabályozást nem igénylő részletszabályait,
+  - ad) az 1. számú mellékletben meghatározott szempontok mellett az ágazatba tartozó munkakörökhöz kapcsolódó további vagy eltérő szempontokat, valamint az egyes munkakörökben foglalkoztatott igazságügyi alkalmazottak minősítésénél kizárt szempontokat, valamint
+- b) az egészségügyért felelős miniszterrel egyetértésben, rendeletben határozza meg a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét.
 
 136. §
 

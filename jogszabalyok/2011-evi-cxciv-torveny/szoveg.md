@@ -582,7 +582,7 @@ rendeletben állapítsa meg.
 
 (7) E törvény rendelkezéseit a 2012. január 1-jét követően kihirdetett jogszabályok esetében kell alkalmazni.
 
-48. § A Magyarország 2014. évi központi költségvetéséről szóló törvény alapján átvállalással érintett önkormányzati adósságot keletkeztető ügyletekre vonatkozó, az átvállalás miatt szükségessé vált szerződésmódosításokhoz nem szükséges a Kormány 10. § (13) bekezdés szerinti hozzájárulása.
+#### 48. §
 
 #### 49. §
 

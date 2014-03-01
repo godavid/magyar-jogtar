@@ -1449,7 +1449,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - 26. a 6. § (2) bekezdése szerinti határidőt,
 - 27. a magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá országos jelentőségű kulturális és sport rendeltetésű épületek telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan a beépítés szabályait,
 - 28. az építésügyi monitoringrendszer létrehozásáról, az adatforgalom rendjéről, a monitoringrendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
-- 29. a telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságok kijelölését, feladat- és hatáskörét, valamint – a (4) bekezdésben foglaltak kivételével – az illetékességi területük lehatárolását,
+- 29. a telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságok kijelölését, feladat- és hatáskörét, valamint az illetékességi területük lehatárolását,
 - 30. az egyes – nem hatósági – építésügyi igazgatási és települési műszaki feladatokat ellátó települési önkormányzatok körét, a feladatellátás feltételeit, illetékességi területük lehatárolását, a tevékenységet ellátók képesítési és foglalkoztatási feltételeit
 - 31. a közmű- és nyomvonal jellegű építmények egységes elektronikus nyilvántartásának létrehozásáról, az adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, az adatszolgáltatásra és a rendszer használatára kötelezettek köréről, az adatokhoz való hozzáférési jogosultságokról, az adatok védelméről, a nyilvántartási rendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
 - 32. az építészeti-műszaki tervezés során a tervezési díjfizetési kötelezettség nem teljesítése tárgyában hozott, az építészeti-műszaki tervezőt marasztaló jogerős bírósági ítéletről szóló értesítést vagy a nemfizetési jelzést követően lefolytatandó vizsgálat és az ennek alapján megállapítható jogkövetkezmények részletes szabályait
@@ -1481,7 +1481,7 @@ rendeletben állapítsa meg.
 - 2. az építésügyi hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
 - 3. az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető igazgatási szolgáltatási díj mértékét, annak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
 
-(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárás lefolytatására hatáskörrel rendelkező ingatlanügyi hatóságok illetékességi területét önállóan, valamint a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
+(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit a miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
 

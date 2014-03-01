@@ -43,7 +43,7 @@ a Magyarország 2014. évi központi költségvetését megalapozó egyes törv�
 
 (10)
 
-(11)
+(11) Hatályát veszti a Gst. 48. §-a.
 
 #### 5. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 

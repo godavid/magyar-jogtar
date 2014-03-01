@@ -63,7 +63,15 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv szervezeti egységeként kormányrendelet kirendeltséget hozhat létre.
 
-(3) Az általános rendőrségi feladatok ellátására létrehozott szerv személyi állománya hivatásos állományú rendőrökből, kormánytisztviselőkből, közalkalmazottakból, valamint a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból állhat.
+(3) Az általános rendőrségi feladatok ellátására létrehozott szerv személyi állománya
+
+- a) hivatásos állományú rendőrökből,
+- b) kormánytisztviselőkből,
+- c) igazságügyi alkalmazottakból,
+- d) közalkalmazottakból, valamint
+- e) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból
+
+állhat.
 
 (4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, az általános rendőrségi feladatok ellátására létrehozott szervtől a hivatásos szolgálati viszonyra vonatkozó jogszabály szerint vezényelt rendőrökből, kormánytisztviselőkből, valamint közalkalmazottakból állhat.
 

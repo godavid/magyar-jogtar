@@ -71,7 +71,11 @@ az ingatlan-nyilvántartásról
 
 5. § (1) Az ingatlan-nyilvántartás – ha törvény kivételt nem tesz – a bejegyzett jogok és a feljegyzett tények fennállását hitelesen tanúsítja. Ha valamely jogot az ingatlan-nyilvántartásba bejegyeztek, illetve, ha valamely tényt oda feljegyeztek, senki sem hivatkozhat arra, hogy annak fennállásáról nem tudott.
 
-(1a) Az ingatlan-nyilvántartás az e törvényben foglaltak szerint nyilvántartott adatok tekintetében – a 2. § (1) bekezdés b) pontjában meghatározott adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(1a) Az ingatlan-nyilvántartás – az ingatlanok e törvényben meghatározott adatai kivételével – közhiteles hatósági nyilvántartás.
+
+(1b) Az ellenkező bizonyításáig az ingatlan-nyilvántartásba bejegyzett ingatlanadatról vélelmezni kell, hogy az fennáll, az ingatlan-nyilvántartásból törölt ingatlanadatról vélelmezni kell, hogy az nem áll fenn.
+
+(1c) Az ingatlan-nyilvántartásba bejegyzett jogosultak személyazonosító és lakcímadatai tekintetében a személy- és lakcímnyilvántartás adatai az irányadóak.
 
 (2) Az ellenkező bizonyításáig az ingatlan-nyilvántartásba bejegyzett jogról és feljegyzett tényről vélelmezni kell, hogy az fennáll, és az ingatlan-nyilvántartás szerinti jogosultat illeti meg. A jogok, tények törlése esetén – az ellenkező bizonyításáig – azt kell vélelmezni, hogy azok nem állnak fenn.
 
@@ -1038,7 +1042,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (3a) Felhatalmazást kap a miniszter, hogy a részadat-szolgáltatás igénybevételére jogosultak körére, díjának mértékére, valamint annak az ingatlanügyi hatóságok és a földmérési és térinformatikai államigazgatási szerv közötti megosztására, a díjfizetés és a díj visszatérítésének módjára vonatkozó szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
-(3b) Felhatalmazást kap a miniszter, hogy az ingatlanügyi hatóság vagy hatóságok illetékességi területét rendeletben szabályozza.
+(3b)
 
 (4) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben határozza meg a tartós környezetkárosodás tényének, mértékének és jellegének megállapítására vonatkozó részletes szabályokat.
 
@@ -1048,6 +1052,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 - b) a számítógépes ingatlan-nyilvántartási rendszerből történő, törvényben meghatározott szolgáltatásra vonatkozó szolgáltatási szerződés kötelező elemeit,
 - c) az ingatlanügyi hatóság vagy hatóságok kijelölését,
 - d) az ingatlan-nyilvántartási eljárás részletes szabályait,
+- e) az ingatlanügyi hatóság vagy hatóságok illetékességi területét,
 - f) az ingatlan-nyilvántartási adatbázisból adatműveleti, adatfeldolgozási tevékenységet igénylő megkeresések esetén az elektronikus dokumentumként szolgáltatható tulajdonilap-másolat adattartalmán belül az egyes adatköröket, a szolgáltatást nyújtó szervek, a szolgáltatás igénybevételére jogosult szervek és személyek körét, valamint annak módját és részletes feltételeit.
 
 ### Hatálybalépés

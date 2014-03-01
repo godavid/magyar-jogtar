@@ -50,13 +50,24 @@ egyes törvényeknek agrár- és környezetügyi tárgyban történő módosít�
 
 #### 12. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-29. §
+29. § Hatályát veszti az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény
+
+- a) 62. § (1) bekezdés 29. pontjában az „– a (4) bekezdésben foglaltak kivételével –”,
+- b) 62. § (4) bekezdésében az „a telekalakítási eljárás lefolytatására hatáskörrel rendelkező ingatlanügyi hatóságok illetékességi területét önállóan, valamint”
+
+szövegrész.
 
 #### 13. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
 30. §
 
-31. §
+31. § Az Inytv. 5. § (1a) bekezdése helyébe a következő rendelkezés lép, és a következő (1b) és (1c) bekezdéssel egészül ki:
+
+„(1a) Az ingatlan-nyilvántartás – az ingatlanok e törvényben meghatározott adatai kivételével – közhiteles hatósági nyilvántartás.
+
+(1b) Az ellenkező bizonyításáig az ingatlan-nyilvántartásba bejegyzett ingatlanadatról vélelmezni kell, hogy az fennáll, az ingatlan-nyilvántartásból törölt ingatlanadatról vélelmezni kell, hogy az nem áll fenn.
+
+(1c) Az ingatlan-nyilvántartásba bejegyzett jogosultak személyazonosító és lakcímadatai tekintetében a személy- és lakcímnyilvántartás adatai az irányadóak.”
 
 32–38. §
 
@@ -70,7 +81,11 @@ egyes törvényeknek agrár- és környezetügyi tárgyban történő módosít�
 
 49. §
 
-50. § (1)
+50. § (1) Az Inytv. 90. § (5) bekezdése a következő e) ponttal egészül ki:
+
+[Felhatalmazást kap a Kormány, hogy rendeletben szabályozza]
+
+„e) az ingatlanügyi hatóság vagy hatóságok illetékességi területét,”
 
 (2)
 
@@ -79,7 +94,7 @@ egyes törvényeknek agrár- és környezetügyi tárgyban történő módosít�
 54. § Hatályát veszti az Inytv.
 
 - a)–c)
-- d)
+- d) 90. § (3b) bekezdése.
 
 #### 14. A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény módosítása
 
@@ -191,7 +206,7 @@ lép.
 176. § Az Fttv.
 
 - a)–d)
-- e)
+- e) 38. § (1) bekezdés a) pontjában a „feladatait és hatáskörét” szövegrész helyébe a feladatait, hatáskörét és illetékességi területét” szöveg
 
 lép.
 
@@ -199,7 +214,7 @@ lép.
 
 - a)
 - b)
-- c)
+- c) 38. § (2) bekezdés n) pontja,
 - d)–e)
 
 #### 28. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
