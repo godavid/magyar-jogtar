@@ -740,9 +740,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (2) A 36/A. § (1) bekezdés a) pontja szerinti díjtól és költségtől mentes készpénzkifizetésre az a fogyasztó jogosult, aki a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvény hatálybalépését megelőzően nem rendelkezett a fizetési számlához tartozó készpénz-helyettesítő fizetési eszközzel. Ez a jogosultság addig áll fenn, amíg a fogyasztó az utóbb a fizetési számlájához igényelt készpénz-helyettesítő fizetési eszközt birtokba nem veszi.
 
-(3) A 36/A. § (4) bekezdés c) pontja szerinti nyilatkozatát a fogyasztó első alkalommal 2013. december 1-jét követően, 2014. január 20-áig teheti meg a pénzforgalmi szolgáltatónál.
-
-(4) A pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított 36/A. § (1) bekezdése szerinti, díjtól és költségtől mentes készpénzkifizetés, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel első alkalommal 2014. február hónapban vehető igénybe.
+(3)–(4)
 
 (5) A rezsicsökkentéssel és a fogyasztóvédelemmel kapcsolatos egyes törvények módosításáról szóló 2014. évi XI. törvénnyel megállapított 14/A. §-t a rezsicsökkentéssel és a fogyasztóvédelemmel kapcsolatos egyes törvények módosításáról szóló 2014. évi XI. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
 

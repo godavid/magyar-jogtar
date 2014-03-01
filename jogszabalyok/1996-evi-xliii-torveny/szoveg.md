@@ -3089,7 +3089,7 @@ különbözetének megtérítése iránti igényt.
 
 264/A. § A rendőrség külföldi szolgálati helyen szolgálatot teljesítő hivatásos állományú tagját naponta a belföldi napidíj 50%-ának megfelelő mértékű külföldi szolgálati helyi pótlék illeti meg.
 
-264/B. §
+264/B. § A hivatásos állománynak az általános rendőrségi feladatok ellátására létrehozott szerv szakértői és bűnügyi technikai feladatokat ellátó szervénél szolgálatot teljesítő tagja vonatkozásában szolgálati elöljárónak, állományilletékes parancsnoknak vagy munkáltatói jogkört gyakorló elöljárónak a vezető beosztású, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint foglalkoztatott igazságügyi alkalmazott is minősülhet.
 
 ### Különleges foglalkoztatási állomány
 
