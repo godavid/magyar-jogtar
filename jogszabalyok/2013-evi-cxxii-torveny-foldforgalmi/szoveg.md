@@ -102,7 +102,7 @@ a következő törvényt alkotja:
 
 #### 6–7. §
 
-#### 8. §
+8. § A föld tulajdonjogának átruházására vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására csak olyan papír alapú okmányon kerülhet sor, amely az e törvény végrehajtására kiadott rendeletben meghatározott biztonsági kellékekkel rendelkezik.
 
 #### 9. §
 
@@ -130,7 +130,73 @@ a következő törvényt alkotja:
 
 #### 6. Az elővásárlásra jogosultak sorrendje, és az elővásárlási jog gyakorlása
 
-#### 18–22. §
+18. § (1) A föld eladása esetén az alábbi sorrendben elővásárlási jog illeti meg:
+
+- a) az államot a Nemzeti Földalapról szóló törvényben meghatározott földbirtok-politikai irányelvek érvényesítése céljából, valamint közfoglalkoztatás, illetve más közérdekű cél megvalósítása érdekében;
+- b) a földet használó olyan földművest,
+  - ba) aki helyben lakó szomszédnak minősül,
+  - bb) aki helyben lakónak minősül, vagy
+  - bc) akinek a lakóhelye vagy a mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási határa az adás-vétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van;
+- c) az olyan földművest, aki helyben lakó szomszédnak minősül;
+- d) az olyan földművest, aki helyben lakónak minősül;
+- e) az olyan földművest, akinek a lakóhelye vagy a mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási határa az adás-vétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van.
+
+(2) Az (1) bekezdés c)–e) pontjában meghatározott földművest – az elővásárlásra jogosultak sorrendjében – megelőzi
+
+- a) a szántó, rét, legelő (gyep), vagy fásított terület művelési ágban nyilvántartott föld eladása esetén az a földműves, aki a föld fekvése szerinti településen az elővásárlási joga gyakorlását megelőzően legalább 1 éve állattartó telepet üzemeltet, és a tulajdonszerzésének a célja az állattartáshoz szükséges takarmány-előállítás biztosítása;
+- b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld eladása esetén az a földműves, aki számára a tulajdonszerzés célja földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása, vagy ökológiai gazdálkodás folytatása.
+
+(3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányadának harmadik személy javára történő eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi a földműves tulajdonostárs.
+
+(4) Az (1) bekezdés c)–e) pontjában, valamint a (2) és (3) bekezdésben meghatározott jogosulti csoportokon belül az elővásárlásra jogosultak sorrendje a következő
+
+- a) a családi gazdálkodó, illetve a gazdálkodó család tagja,
+- b) fiatal földműves,
+- c) pályakezdő gazdálkodó.
+
+19. § (1) Az államot megillető elővásárlási jogot a földalapkezelő szerv gyakorolja.
+
+(2) A 18. § (1) bekezdés b) pontja szerinti földet használó földműves alatt azt a földművest kell érteni, aki legalább 3 éve használja a földet, ideértve azt is, akit a 65. § szerint a föld kényszerhasznosítójaként jelöltek ki.
+
+(3) Az olyan föld eladása esetén, amely a 18. § (2) bekezdésben meghatározott művelési ágak mellett az ingatlan-nyilvántartásban más művelési ágban is nyilván van tartva, a 18. § (2) bekezdése szerinti elővásárlásra jog abban az esetben áll fenn, ha a 18. § (2) bekezdésében meghatározott művelési ágak valamelyikének, vagy mindegyikének a területnagysága meghaladja a más művelési ágú területnek vagy területeknek a nagyságát.
+
+(4) Az állattartó telep működtetését igazolni kell. Az igazolás céljára szolgáló hatósági bizonyítványt az üzemeltető kérelmére az élelmiszerlánc-felügyeleti szerv adja ki. A hatósági bizonyítványban a tényleges állattartást és a nyilvántartás szerinti állatlétszámot is igazolni kell.
+
+(5) Több föld egybefoglalt vételáron történő eladására akkor kerülhet sor, ha azok egymással szomszédosak, vagy egy mezőgazdasági üzemközponthoz tartoznak.
+
+20. § E törvény szerinti elővásárlási jog nem áll fenn
+
+- a) a közeli hozzátartozók közötti adás-vétel,
+- b) a tulajdonostársak közötti, a közös tulajdon megszüntetését eredményező adás-vétel,
+- c) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vétel,
+- d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel
+
+esetén.
+
+21. § (1) A föld eladása esetén a földre vonatkozó, a tulajdonos által elfogadott vételi ajánlatot egységes okiratba foglalt szerződésbe (a továbbiakban: adás-vételi szerződés) kell foglalni, és azt a tulajdonosnak – a felek aláírásától számított 8 napon belül – közölnie kell e törvényen, valamint más törvényen, illetve a megállapodáson alapuló elővásárlási jog jogosultjaival. Az adás-vételi szerződést – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – az elővásárlásra jogosultakkal a föld fekvése szerint illetékes települési önkormányzat jegyzője útján hirdetményi úton kell közölni, azzal, hogy a tulajdonosnak az adás-vételi szerződést a más törvényen, és a megállapodáson alapuló elővásárlásra jogosultakkal közvetlenül is közölni kell. Az adás-vételi szerződésnek a vevő részéről tartalmaznia kell a 13–15. §-ban előírt nyilatkozatokat is, ennek hiányában azokat a 13–15. §-ban előírt alakszerűségi előírásoknak megfelelően az adás-vételi szerződéshez csatolni kell.
+
+(2) Az adás-vételi szerződés hirdetményi úton történő közlése a települési önkormányzat polgármesteri hivatala, illetve közös önkormányzati hivatal (a továbbiakban együtt: polgármesteri hivatal) esetében a közös önkormányzati hivatal hirdetőtáblájára és a közös önkormányzati hivatalhoz tartozó önkormányzat hirdetőtáblájára való kifüggesztéssel történik azzal, hogy a szerződésben felismerhetetlenné kell tenni az eladó és a vevő nevén, lakcímén vagy értesítési címén, valamint állampolgárságán kívül valamennyi természetes személyazonosító adatot.
+
+(3) A közlés kezdő napja az adás-vételi szerződésnek a polgármesteri hivatal hirdetőtábláján történő kifüggesztését követő nap. Az elővásárlási jog jogosultja a közlés kezdő napjától számított 60 napos jogvesztő határidőn belül tehet az adás-vételi szerződésre elfogadó, vagy az elővásárlási jogáról lemondó jognyilatkozatot. Az elővásárlásra jogosult – ide nem értve a földalapkezelő szervezetet – a jognyilatkozatát a jegyző részére személyesen adja át. A földalapkezelő szervezet a jognyilatkozatát a jegyzőnek megküldi, vagy a földalapkezelő szervezet képviseletében eljáró személy átadja a jegyzőnek. Az elővásárlási jogról való lemondásnak kell tekinteni, ha az elővásárlásra jogosult az e bekezdésben meghatározott határnapig nem nyilatkozik.
+
+(4) A jegyző köteles az elfogadó jognyilatkozat személyes átvételekor az elővásárlásra jogosult – ide nem értve a földalapkezelő szervezetet – személyazonosságát ellenőrizni az elfogadó jognyilatkozatban szereplő természetes személyazonosító adatoknak a személyazonosító okmányban foglalt adatokkal való összevetésével, továbbá az elővásárlásra jogosultat nyilatkoztatni arról, hogy az elfogadó jognyilatkozaton szereplő aláírását a saját kezű aláírásának ismeri el. Ha a jegyző megállapítja, hogy az elfogadó jognyilatkozat az azt átadó elővásárlásra jogosulttól származik, ezt a tényt az elfogadó jognyilatkozaton az aláírásával igazolja, és azt átveszi. Ha a jegyző azt állapítja meg, hogy az elfogadó jognyilatkozat nem az azt átadó személytől származik, a jegyző az elfogadó jognyilatkozat átvételét megtagadja, és ennek tényét, valamint okát az elfogadó jognyilatkozaton rögzíti.
+
+(5) Az elfogadó jognyilatkozatot legalább teljes bizonyító erejű magánokiratba kell foglalni. Az elfogadó jognyilatkozatban meg kell jelölni az elővásárlási jogosultság jogalapját, továbbá ha az elővásárlási jog törvényen alapul, akkor azt is, hogy az elővásárlásra jogosult mely törvényen és az ott meghatározott sorrend melyik ranghelyén gyakorolja az elővásárlási jogát. Az elfogadó jognyilatkozatnak tartalmaznia kell a 13–15. §-ban foglalt esetekben az ott előírt nyilatkozatokat is, ennek hiányában azokat a 13–15. §-ban előírt alakszerűségi előírásoknak megfelelően a jognyilatkozathoz csatolni kell. Az elfogadó jognyilatkozathoz – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – csatolni kell az elővásárlási jogosultságot bizonyító okiratokat is.
+
+(6) Az (5) bekezdésben meghatározottakon túl a 18. § (2) bekezdés a), illetve b) pontjában meghatározott elővásárlásra jogosultak esetében az elfogadó jognyilatkozatnak tartalmazni kell azt is, hogy a 18. § (2) bekezdés a), illetve b) pontjában meghatározott célból gyakorolják az elővásárlási jogukat.
+
+(7) Az államot megillető elővásárlási jog gyakorlása esetén az (5) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy az elfogadó jognyilatkozatnak tartalmaznia kell, miszerint a földalapkezelő szervezet a 18. § (1) bekezdés a) pontjában meghatározott mely célból gyakorolja az elővásárlási jogot. Ha a földalapkezelő szervezet valamely földbirtok-politikai irányelv érvényesítése céljából, vagy közérdekű cél megvalósítása érdekében tesz elfogadó jognyilatkozatot, meg kell jelölnie a Nemzeti Földalapról szóló törvény szerinti mely földbirtok-politikai irányelv, illetve milyen közérdekű cél megvalósítása érdekében gyakorolja az állam nevében az elővásárlási jogot.
+
+(8) Az eladót az olyan elfogadó jognyilatkozat köti, amelyet az elővásárlásra jogosult határidőn belül tesz meg, és a jognyilatkozatában az adás-vételi szerződést magára nézve teljes körűen elfogadja.
+
+(9) A (3)–(7) bekezdésben foglaltak megsértése esetén az elővásárlási jognyilatkozatot olyannak kell tekinteni, mintha az elővásárlási jogát az arra jogosult nem gyakorolta volna.
+
+22. § (1) A jegyző a nyilatkozattételre nyitva álló határidő leteltét követő 8 napon belül a beérkezett, illetve a 21. § (4) bekezdésében meghatározottak szerint átvett jognyilatkozatokról iratjegyzéket készít, és azt az adás-vételi szerződés eredeti példányával, valamint a jognyilatkozatokkal együtt megküldi
+
+- a) az eladó részére, ha az adás-vételi szerződés mentes a mezőgazdasági igazgatási szerv jóváhagyása alól, vagy
+- b) a mezőgazdasági igazgatási szerv részére jóváhagyás céljából.
+
+(2) Az (1) bekezdés a) pontjában meghatározott esetben az adás-vételi szerződés szerinti vevő helyébe az elővásárlásra jogosult az elfogadó jognyilatkozatának az eladóval történt közlése napján lép be. Több elővásárlásra jogosult elfogadó jognyilatkozata esetén az adás-vételi szerződés szerinti vevő helyébe a sorrendben előrébb álló elővásárlásra jogosult, több, azonos ranghelyen álló elővásárlásra jogosult esetén pedig az eladó választása szerinti elővásárlásra jogosult lép.
 
 #### 7. Az adás-vételi szerződés hatósági jóváhagyása
 
@@ -463,7 +529,17 @@ ténylegesen és igazoltan felmerülő költségek megtérítése a kötelezette
 
 ### VI. Fejezet — A HELYI FÖLDBIZOTTSÁG
 
-#### 68. §
+68. § (1) A települési önkormányzat közigazgatási területén földet használó földművesek, mezőgazdasági termelőszervezetek, más természetes és jogi személyek településenként helyi gazdálkodói közösséget alkotnak.
+
+(2) A helyi gazdálkodói közösség képviseleti szerve a közösség tagjai által megválasztott helyi földbizottság. A helyi földbizottság a település közigazgatási területéhez tartozó földek mértékének arányában legalább 3, legfeljebb 9 főből áll.
+
+(3) A helyi földbizottság a település közigazgatási területén a törvény hatálya alá tartozó földek tulajdonjogának forgalmát a birtokviszonyok átláthatósága, a spekulatív földszerzések megelőzése, az üzemszerű művelés alatt álló élet- és versenyképes, egységes birtoktagot képző fölbirtokok kialakítása és megőrzése, a helyi gazdálkodói közösség érdekeinek érvényesítése érdekében a földbirtok-politikai célokkal összhangban a 24. és 25. §-ban foglalt feladatának gyakorlásával befolyásolja.
+
+(4) A földbizottság tagja a saját vagy hozzátartozója ügyével összefüggő eljárásban nem vehet részt.
+
+(5) A helyi földbizottság állásfoglalása ellen kifogás terjeszthető elő a települési önkormányzat képviselő-testületénél. A képviselő-testület döntése ellen további jogorvoslatnak, panasznak, felszólalásnak nincs helye.
+
+(6) A helyi földbizottság tagjainak megválasztása érdekében – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – a települési önkormányzat jegyzője összehívja a helyi gazdálkodói közösség közgyűlését.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
