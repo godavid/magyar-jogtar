@@ -9,7 +9,7 @@ a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltat�
 6. § Hatályát veszti a Pft.
 
 - a)–b)
-- c) 66/B. § (3)–(4) bekezdése.
+- c)
 
 7. § (1) Ez a törvény – a (2)–(3) bekezdésben meghatározott kivételekkel – a kihirdetését követő napon lép hatályba.
 

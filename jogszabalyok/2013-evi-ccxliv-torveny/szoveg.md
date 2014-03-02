@@ -42,9 +42,7 @@ lép.
 
 27–32. §
 
-33. § Az Eütv. 100. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A rehabilitációs medicina területén működő egészségügyi szolgáltatók tevékenységüket rehabilitációs ellátási programok szabályozott rendszere alapján végzik.”
+33. §
 
 34. §
 
@@ -54,13 +52,7 @@ lép.
 
 47. § (1)
 
-(2) Az Eütv. 247. § (2) bekezdése a következő j) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„j) az egészségügyi szolgáltató által végezhető rehabilitációs ellátási programokat”
-
-(rendeletben állapítsa meg.)
+(2)
 
 (3)
 
@@ -71,7 +63,7 @@ lép.
 48. § (1) Az Eütv.
 
 - a)–c)
-- d) 100. § (5) bekezdésében az „Az orvosi rehabilitáció” szövegrész helyébe az „A rehabilitációs medicina” szöveg,
+- d)
 - e)
 - f)
 - g)–n)

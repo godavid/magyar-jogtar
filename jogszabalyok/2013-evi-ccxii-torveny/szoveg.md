@@ -885,8 +885,8 @@ rendeletben állapítsa meg.
 - a)
 - b)
 - c)
-- d) 9. § (3) bekezdése;
-- e) 10. §-a;
+- d)
+- e)
 - f)
 - g)
 - h)
