@@ -3145,7 +3145,7 @@ munkanapra emelkedik.
 - d) a kormányzati érdekből történő kirendelés (55. §),
 - e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §) nem alkalmazható(k).
 
-(4) Az Országgyűlés Hivatala és az Országgyűlési Őrség szervezeti és működési szabályzata a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
+(4) Az Országgyűlés Hivatala és az Országgyűlési Őrség szervezeti és működési szabályzata a 80. § (1)–(2) bekezdésben és a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
 (5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
 

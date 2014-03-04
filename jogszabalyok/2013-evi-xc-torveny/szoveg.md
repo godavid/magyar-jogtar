@@ -6,9 +6,7 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról
 
 2–3. §
 
-4. § Az Ogytv. 109. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) A képviselő – a miniszterelnök, a miniszter, államtitkár, a házelnök, az alelnök, a képviselői megbízatással rendelkező háznagy, valamint a képviselőcsoport vezetője kivételével – nevére, valamint az általa megjelölt fajtájú üzemanyagot fogyasztó és hengerűrtartalmú, a saját vagy házastársa tulajdonában lévő személygépkocsi forgalmi rendszámára szóló, másra át nem ruházható, készpénzre nem átváltható, az Országgyűlés Hivatala által biztosított egy darab, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Az üzemanyagkártya feltöltése első alkalommal a feltöltés időpontját alapul véve az adott tárgynegyedév végéig, a második alkalomtól kezdődően negyedévente történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.”
+4. §
 
 5. § Az Ogytv. 122. §-a a következő (6) bekezdéssel kiegészülve lép hatályba:
 
@@ -26,10 +24,10 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról
 
 - a) 104. § (1) bekezdése a „megbízatásának időtartamára” szövegrész helyett az „az eskütételétől a megbízatásának megszűnéséig” szöveggel,
 - b) 104. § (5) bekezdése a „(3) és (4)” szövegrész helyett a „(2)–(4)” szöveggel,
-- c) 105. § (4) bekezdése az „Az alelnök,” szövegrész helyett az „Az alelnök, a képviselői megbízatással rendelkező háznagy,” szöveggel,
+- c)
 - d) 106. § (1) bekezdése az „a (2) bekezdésben” szövegrész helyett az „az e törvényben” szöveggel,
 - e) 109. § (5) bekezdése a „hengerűrtartalmú” szövegrész helyett a „hengerűrtartalmú, benzinüzemű” szöveggel,
-- f) 110. § (2) bekezdése a „tulajdonában” szövegrész helyett a „vagyonkezelésében” szöveggel,
+- f)
 - g) 110. § (3) bekezdése a „jóváhagyásával” szövegrész helyett a „jóváhagyásával, a képviselőcsoport 113. § (1) bekezdésében meghatározott kerete terhére” szöveggel
 
 lép hatályba.

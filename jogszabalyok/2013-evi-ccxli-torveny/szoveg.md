@@ -14,7 +14,7 @@ Az Országgyűlés a kommunista diktatúrával kapcsolatos emlékezet állami me
 
 (3) A Bizottság általános hatáskörrel ellátja a kommunista diktatúrák hatalmi működésének, a hatalmat birtokló személyek és szervezetek szerepének feltárását, és tevékenysége eredményeit átfogó jelentésben, valamint további dokumentumokban közzéteszi.
 
-(4) A Bizottság tagjainak javaslatára önállóan, valamint az Országgyűlés kérésére megállapításokat, jogalkotási javaslatokat tesz, jelentéseket készít, amelyekkel elősegíti a kommunizmus bűneinek feltárását, ezáltal pedig a demokratikus jogállamiság kiteljesedését.
+(4) A Bizottság önállóan, illetve az Országgyűlés kérésére megállapításokat, jogalkotási javaslatokat tesz, jelentéseket készít, amelyekkel elősegíti a kommunizmus bűneinek feltárását, ezáltal pedig a demokratikus jogállamiság kiteljesedését.
 
 (5) A Bizottság kutatásai alapján a büntetőjogilag felelősnek tartott személyekkel szemben büntetőeljárás lefolytatását kezdeményezi a legfőbb ügyésznél.
 
@@ -22,9 +22,7 @@ Az Országgyűlés a kommunista diktatúrával kapcsolatos emlékezet állami me
 
 (7) A Bizottságnak az Alaptörvény U) cikk (4) bekezdése alapján közzétett tényállításai bíróság vagy más hatóság előtt önálló jogorvoslattal nem támadhatók meg.
 
-2. § (1) A Bizottság a központi költségvetés szerkezetében önálló fejezet. A Bizottság költségvetését úgy kell megállapítani, hogy az ne legyen kevesebb az előző évi központi költségvetésben megállapított összegnél.
-
-(2) A Bizottság részére e törvényben foglaltakon túlmenően további feladatot törvény csak úgy állapíthat meg, hogy a feladatellátáshoz szükséges pénzügyi fedezetet egyidejűleg biztosítja.
+#### 2. §
 
 3. § A Bizottság székhelye Budapest.
 
@@ -41,7 +39,7 @@ Az Országgyűlés a kommunista diktatúrával kapcsolatos emlékezet állami me
 
 (2) A Bizottságnak nem lehet tagja, aki 1972. február 14-e előtt született.
 
-7. § (1) A Bizottság választott tagjainak és elnökének megbízatási ideje kilenc év. A Bizottság elnökét és két tagját az Országgyűlés titkos szavazással, a jelen lévő képviselők kétharmadának szavazatával választja meg. A Bizottság elnökének és két tagjának választását az Országgyűlés elnöke tűzi ki.
+7. § (1) A Bizottság választott tagjainak és elnökének megbízatási ideje kilenc év. A Bizottság elnökét és két tagját az Országgyűlés titkos szavazással választja meg. A Bizottság elnökének és két tagjának választását az Országgyűlés elnöke tűzi ki.
 
 (2) A Bizottság tagja és elnöke tisztségében egyszer választható újra vagy bízható meg.
 
@@ -62,7 +60,7 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 (3) A Bizottság választott tagjának és elnökének nemzetbiztonsági ellenőrzését az Országgyűlés elnöke megválasztásukat követően kezdeményezi. A Bizottság választott tagjának és elnökének nemzetbiztonsági ellenőrzését az Alkotmányvédelmi Hivatal végzi.
 
-(4) Ha az Országgyűlés a jelöltet nem választja meg, a jelölő bizottság új javaslatot tesz.
+(4)
 
 9. § (1) A Bizottság egy-egy tagja a Magyar Tudományos Akadémia elnöke és az igazságügyért felelős miniszter megbízása alapján tölti be tisztségét. A megbízás kilenc évre szól.
 
@@ -112,9 +110,9 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 (3) Ha a Bizottság Országgyűlés által választott több tagjának szűnik meg a megbízatása, az Országgyűlés először a Bizottság azon tagjának utódját választja meg, akinek a megbízatása korábban szűnt meg vagy hosszabbodott meg, illetve korábban szűnne meg.
 
-(4) A Bizottság Országgyűlés által választott tagja megbízatásának a megszűnését az (1) bekezdés e), f) és g) pontjában meghatározott esetben az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának javaslatára az Országgyűlés köteles megállapítani. Az eljárásra az országgyűlési képviselők összeférhetetlenségi eljárására vonatkozó szabályokat kell megfelelően alkalmazni.
+(4) A Bizottság Országgyűlés által választott tagja megbízatásának a megszűnését az (1) bekezdés e), f) és g) pontjában meghatározott esetben az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának javaslatára az Országgyűlés köteles megállapítani. Az eljárásra az országgyűlési képviselők összeférhetetlenségi eljárására vonatkozó szabályokat kell alkalmazni.
 
-(5) A Bizottság nem választott tagja megbízatásának a megszűnését az (1) bekezdés e), f) és g) pontjában meghatározott esetben az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának javaslatára a megbízást adó, 9. § (1) bekezdése szerinti személy köteles megállapítani. Az eljárásra az országgyűlési képviselők összeférhetetlenségi eljárására vonatkozó szabályokat kell megfelelően alkalmazni.
+(5) A Bizottság nem választott tagja megbízatásának a megszűnését az (1) bekezdés e), f) és g) pontjában meghatározott esetben az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának javaslatára a megbízást adó, 9. § (1) bekezdése szerinti személy köteles megállapítani. Az eljárásra az országgyűlési képviselők összeférhetetlenségi eljárására vonatkozó szabályokat kell alkalmazni.
 
 17. § A lemondást a Bizottság választott tagja a Bizottság elnökével, a Bizottság elnöke az Országgyűlés elnökével, a megbízott tag a Bizottság elnökével és a megbízást adó, 9. § (1) bekezdése szerinti személlyel írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának napjával szűnik meg.
 
@@ -130,7 +128,9 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 - f) javaslatot tesz a Bizottság és a Hivatal éves kutatási munkatervére,
 - g) képviseli a Bizottságot az Országgyűlés és más szervek előtt,
 - h) irányítja a Hivatalt,
-- i) ellátja azokat a feladatokat, amelyeket a Bizottság ügyrendje számára előír.
+- i) ellátja azokat a feladatokat, amelyeket a Bizottság ügyrendje számára előír,
+- j) kiadja a Hivatal alapító okiratát és jóváhagyja a Hivatal Szervezeti és Működési Szabályzatát, valamint
+- k) a Bizottság feladat- és hatáskörébe tartozó ügyben a minősített adatok védelméről szóló törvény szerinti minősítésre jogosult.
 
 19. § (1) A Bizottság elnökének munkáját az elnökhelyettes segíti.
 
@@ -198,23 +198,29 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 ### III. Fejezet — A NEMZETI EMLÉKEZET BIZOTTSÁGA HIVATALÁNAK SZEMÉLYI ÁLLOMÁNYA ÉS SZERVEZETE
 
-26. § (1) A Bizottság munkaszervezeteként működő Hivatal központi költségvetési szerv, a Bizottság költségvetési fejezetén belül önálló cím. A Hivatal jogi személy.
+26. § (1) A Hivatal fejezetet irányító szervi jogállással bíró központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez.
 
-(2) A Hivatal ellátja a Bizottság szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait.
+(2) A Hivatal költségvetését úgy kell megállapítani, hogy az ne legyen kevesebb az előző évi központi költségvetésben megállapított összegnél. A Bizottság, illetve a Hivatal részére e törvényben foglaltakon túlmenően további feladatot törvény csak úgy állapíthat meg, hogy a feladatellátáshoz szükséges pénzügyi fedezetet egyidejűleg biztosítja.
 
-(3) A Hivatalt a főigazgató vezeti.
+(3) A Hivatal ellátja a Bizottság szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait.
 
-(4) A főigazgató a Bizottság elnöke irányításával végzi munkáját.
+27. § A Hivatal közszolgálati jogviszonyban álló főigazgatóból, egyéb vezetői munkakört betöltő, valamint nem vezetői munkakört betöltő szakirányú felsőfokú végzettséggel rendelkező köztisztviselőkből, egyéb legalább középiskolai végzettségű köztisztviselőkből, közszolgálati ügykezelőkből és a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból áll.
 
-(5) A főigazgatót a Bizottság elnöke nevezi ki és menti fel. A főigazgató e törvényben és a Bizottság ügyrendjében meghatározottak szerint közreműködik a Bizottság munkájában. A főigazgató az e törvényben foglalt kivételekkel gyakorolja a fejezetet irányító szerv hatásköreit a Bizottság költségvetési fejezetébe sorolt fejezeti kezelésű előirányzatok tekintetében.
+27/A. § (1) A Hivatalt főigazgató vezeti. A főigazgatót a Bizottság elnöke nevezi ki, menti fel és gyakorolja felette az egyéb munkáltatói jogokat.
 
-27. § (1) A Hivatal közszolgálati jogviszonyban álló főigazgatóból, egyéb vezetői munkakört betöltő, valamint nem vezetői munkakört betöltő szakirányú felsőfokú végzettséggel rendelkező köztisztviselőkből, egyéb legalább középiskolai végzettségű köztisztviselőkből, közszolgálati ügykezelőkből és a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból áll.
+(2) A főigazgató a Bizottság elnöke irányításával végzi munkáját.
 
-(2) Az e törvényben nem szabályozott kérdésekben a Hivatal köztisztviselőinek és közszolgálati ügykezelőinek jogviszonyára a közszolgálati tisztviselőkről szóló törvény rendelkezéseit, a munkavállalók jogviszonyára a munka törvénykönyvéről szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+(3) A főigazgató az e törvényben és a Bizottság ügyrendjében meghatározottak szerint közreműködik a Bizottság munkájában.
 
-(3) A Bizottság elnöke a Hivatal köztisztviselői tekintetében a közszolgálati jogviszony létesítését a közszolgálati tisztviselőkről szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
+(4) A főigazgató a Hivatal feladat- és hatáskörébe tartozó ügyben a minősített adatok védelméről szóló törvény szerinti minősítésre jogosult.
 
-28. § A Hivatal főigazgatója a Hivatal köztisztviselőjét vezetői munkakörbe, ezen belül főosztályvezetőnek, főosztályvezető-helyettesnek, osztályvezetőnek kinevezheti.
+(5) A főigazgató az e törvényben foglalt kivételekkel gyakorolja a fejezetet irányító szerv hatásköreit.
+
+28. § (1) A Bizottság elnöke a Hivatal köztisztviselői tekintetében a közszolgálati jogviszony létesítését a közszolgálati tisztviselőkről szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
+
+(2) A Hivatal főigazgatója a Hivatal köztisztviselőjét vezetői munkakörbe, ezen belül főosztályvezetőnek, főosztályvezető-helyettesnek, osztályvezetőnek kinevezheti és kinevezését visszavonhatja.
+
+(3) Az e törvényben nem szabályozott kérdésekben a Hivatal köztisztviselőinek és közszolgálati ügykezelőinek jogviszonyára a közszolgálati tisztviselőkről szóló törvényt, a munkavállalók jogviszonyára a munka törvénykönyvéről szóló törvényt kell alkalmazni.
 
 29. § (1) A Hivatalnál foglalkoztatott köztisztviselő, közszolgálati ügykezelő, valamint munkavállaló összeférhetetlenségére a közszolgálati tisztviselőkről szóló törvény szabályai az irányadóak a (2) és (3) bekezdésben foglalt kiegészítéssel.
 
