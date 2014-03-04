@@ -184,7 +184,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 ### Muzeális intézmények működési engedélyének kiadása, módosítása, visszavonása
 
-39. § (1) Muzeális intézményt bármely jogi és természetes személy alapíthat. A muzeális intézménnyé nyilvánítást a miniszter által kiadott működési engedély igazolja.
+39. § (1) Muzeális intézményt bármely jogi és természetes személy vagy törvény alapíthat. A muzeális intézménnyé nyilvánítást – a törvény által alapított muzeális intézmény kivételével – a miniszter által kiadott működési engedély igazolja.
 
 (2) A működési engedély kiadására irányuló eljárás a fenntartó kérelmére indul meg, arra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt (a továbbiakban: Ket.) kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő 60 nap.
 
@@ -223,6 +223,15 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 (7) A miniszter a működési engedély visszavonásával egyidejűleg – a szakfelügyeleti vizsgálatot lezáró jelentés alapján, a kulturális javak jellegének figyelembevételével – gondoskodik a múzeumban őrzött, alapleltárba vett kulturális javak – azok tulajdonosának költségére történő – további elhelyezéséről.
 
 (8) A miniszter által elrendelt intézkedés – a tulajdonos eltérő döntése hiányában – nem érinti a kulturális javak tulajdonjogát.
+
+41/A. § Törvény által alapított muzeális intézmény esetében
+
+- a) a muzeális intézménnyé nyilvánítás igazolásához nem szükséges működési engedély kiadása,
+- b) törvény állapítja meg a muzeális intézmény szakmai besorolását,
+- c) azokról az adatokról, amelyeket jogszabály szerint a működési engedély tartalmaz, a fenntartó tájékoztatja a minisztert,
+- d) törvény előírhatja, hogy a miniszter a c) pont szerinti tájékoztatásban foglaltak betartását a fenntartó kérelmére ellenőrizheti,
+- e) a miniszter eljárása során a c) pont szerinti tájékoztatásban foglaltak módosítását, a tájékoztatás visszavonását kezdeményezheti a fenntartónál,
+- f) ahol jogszabály működési engedélyt említ, azon a fenntartó c) pont szerinti tájékoztatását kell érteni.
 
 ### Muzeális intézmények szakmai besorolása
 
@@ -433,7 +442,7 @@ közigazgatási területére terjed ki.
 
 (4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
 
-(5) Az (1) bekezdésben felsorolt követelmények betartását a miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását, aminek elmaradása esetén a könyvtárat törli a nyilvános könyvtárak jegyzékéből.
+(5) Az (1) bekezdésben felsorolt követelmények betartását a miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását, aminek elmaradása esetén a könyvtárat törli a nyilvános könyvtárak jegyzékéből. Törvény az ellenőrzés lefolytatását – az érintett könyvtár megnevezésével – a fenntartó kérelméhez kötheti.
 
 (6) A települési könyvtár megszüntetése esetén a fenntartó a döntés előkészítése során beszerzi és a döntést hozó testülettel ismerteti a miniszter véleményét.
 
@@ -498,7 +507,7 @@ közigazgatási területére terjed ki.
 - b) a könyvtári dokumentumok lelőhely-nyilvántartását együttesen megvalósító Magyar Országos Közös Katalógus adatbázist és az erre épülő Országos Dokumentumellátási Rendszer elektronikus szolgáltató központot,
 - c) a könyvtárak gyűjteményéből kivont dokumentumok hasznosítását a könyvtári rendszer számára.
 
-(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, kormányrendeletben meghatározott módon.
+(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, törvényben, illetve kormányrendeletben meghatározott módon.
 
 (3) Az országos dokumentumellátási rendszerről szóló jogszabályban meghatározott könyvtár vezetőjének kinevezése előtt a miniszter véleményét kell kérni.
 
@@ -1029,7 +1038,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - u) az önkormányzatok érdekeltségnövelő támogatását,
 - v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közművelődési és közgyűjteményi telematikai feladatfinanszírozás minisztérium fejezeti kezelésű címe felhasználását,
 - w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
-- x) az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatait, a kiemelt feladatok ellátásának rendjét, valamint a kiemelt feladatok végrehajtásával összefüggésben a muzeális intézmények és a nyilvános könyvtárak kötelezettségeit,
+- x) – törvényben meghatározott kivétellel – az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatait, a kiemelt feladatok ellátásának rendjét, valamint a kiemelt feladatok végrehajtásával összefüggésben a muzeális intézmények és a nyilvános könyvtárak kötelezettségeit,
 - y) a muzeális intézmény nyilvántartásában szereplő kulturális javak revíziójára és selejtezésére vonatkozó részletes szabályokat.
 - z)
 

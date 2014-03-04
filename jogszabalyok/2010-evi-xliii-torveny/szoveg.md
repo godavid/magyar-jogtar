@@ -633,7 +633,7 @@ helyettesíti.
 
 57. § Ha az államtitkár megbízatása az 53. § d) pontja alapján szűnik meg, ennek tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
 
-58. § Ha az államtitkár megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új miniszterelnök megalakulásáig vagy az 53. § b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
+58. § Ha az államtitkár megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig vagy az 53. § b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
 
 ### A Miniszterelnökséget vezető államtitkár és a Miniszterelnökségen működő államtitkár
 

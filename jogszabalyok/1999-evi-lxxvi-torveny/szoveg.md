@@ -418,6 +418,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (2) Bírósági, továbbá közigazgatási vagy más hatósági eljárásban a mű bizonyítás céljára, a célnak megfelelő módon és mértékben felhasználható.
 
+(3) Az Országgyűlés törvényhozási feladata, valamint az ezzel összefüggő országgyűlési képviseleti feladatkörhöz tartozó tevékenységek ellátása céljából a mű e célnak megfelelő módon és mértékben szabadon felhasználható, ha a felhasználás a jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
+
 ### V. Fejezet — A FELHASZNÁLÁSI SZERZŐDÉSEK
 
 ### A felhasználási szerződések általános szabályai

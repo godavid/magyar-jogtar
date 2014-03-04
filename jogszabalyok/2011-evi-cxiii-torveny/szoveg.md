@@ -69,7 +69,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - e) aki a vele közös háztartásban élő kiskorú gyermekét egyedül tartja el,
 - f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, nemzetiségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy megválasztottak, a jelöltsége, vagy mandátuma, megbízatása fennállásáig,
 - g) aki meghagyásban részesült,
-- h) aki a Honvédség és a rendvédelmi szervek hivatásos vagy szerződéses állományú tagja,
+- h) aki a Honvédség, az Országgyűlési Őrség és a rendvédelmi szervek hivatásos vagy szerződéses állományú tagja,
 - i) akinek közös háztartásban élő házastársa katonai szolgálatot teljesít, továbbá
 - j) aki a korábban hatályos szabályok szerint a polgári szolgálat időtartamát már teljesítette,
 - k) aki potenciális hadköteles annak az évnek december 31-től, amelyben 40. életévét betölti,
@@ -286,7 +286,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 #### 11. A honvédelemben közreműködő szervek
 
-18. § (1) A rendvédelmi szervek a jogszabályban meghatározott hatáskörükben, illetékességi területükön:
+18. § (1) A rendvédelmi szervek, valamint az Országgyűlési Őrség a jogszabályban meghatározott hatáskörükben, illetékességi területükön:
 
 - a) ellátják a honvédelem érdekében meghatározott feladataikat,
 - b) ellátják a részükre kijelölt személyek és létesítmények védelmét,
