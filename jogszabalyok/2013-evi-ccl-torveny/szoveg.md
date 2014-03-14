@@ -284,13 +284,13 @@ a hulladékgyűjtő udvarok a lakosság számára könnyen elérhető közelség
 
 (5) A 49. § és a 177. § a) pontja 2014. március 16-án lép hatályba.
 
-(6) A 2. és 3. §, a 39. § (1) bekezdése 2014. május 1-jén lép hatályba.
+(6) A 2. és 3. § 2014. május 1-jén lép hatályba.
 
 (7) A 63. § 2014. július 31-én lép hatályba.
 
 (8) A 66. § 2014. augusztus 1-jén lép hatályba.
 
-(9) A 141. §, a 145. § és a 146. § 2014. november 1-jén lép hatályba.
+(9) A 39. § (1) bekezdése, a 141. §, a 145. § és a 146. § 2014. november 1-jén lép hatályba.
 
 (10) A 97. § b) pontja 2014. december 1-jén lép hatályba.
 

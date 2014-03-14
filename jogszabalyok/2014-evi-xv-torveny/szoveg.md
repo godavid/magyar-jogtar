@@ -178,11 +178,17 @@ szöveg lép.
 
 #### 60–69. §
 
-#### 70. §
+70. § (1) Nem lép hatályba a Polgári Törvénykönyvről szóló 2013. évi V. törvénnyel összefüggésben az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosításáról szóló 2013. évi CCIV. törvény 5. §-a, valamint 11. § d) pontja.
+
+(2) Nem lép hatályba a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 135. § (5) bekezdése.
 
 #### 71. §
 
-72. § (1)
+72. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 18. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+„(4) Ha a közjegyző a közjegyzői szolgálata megszűnését megelőzően lemondását a területi kamarának is megküldi, a kamara a megüresedő közjegyzői állásra a szolgálat megszűnésének várható időpontját megelőzően pályázatot hirdet. Ha a pályázat kiírását követően a meghirdetett közjegyzői állás mégsem üresedik meg, a pályázatot úgy kell tekinteni, mint amit visszavontak.
+
+(5) A közjegyző kinevezésére a (3) és (4) bekezdésben foglalt esetben csak a közjegyzői szolgálat megszűnését követően kerülhet sor.”
 
 (2)
 
@@ -222,13 +228,45 @@ lép.
 
 #### 78–80. §
 
-#### 81. §
+81. § Nem lép hatályba a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény 1. §-a.
 
 #### 82–84. §
 
 #### 85. §
 
-#### 86–87. §
+86. § (1) Az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvény (a továbbiakban: Agrtv.) 222. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A 2. és 3. § 2014. május 1-jén lép hatályba.”
+
+(2) Az Agrtv. 222. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A 39. § (1) bekezdése, a 141. §, a 145. § és a 146. § 2014. november 1-jén lép hatályba.”
+
+87. § (1) Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény (a továbbiakban: Módtv.)
+
+- a) 131. § (1) bekezdésének a Büntető Törvénykönyvről szóló 2012. évi C. törvény 31. § (3) bekezdését módosító rendelkezése a „Ha a sértett korlátozottan cselekvőképes, a magánindítványt önállóan terjesztheti elő, kivéve ha a cselekvőképességében részlegesen korlátozott nagykorút a személyes ügyei vitelében vagy a bírósághoz, hatósághoz fordulás jogában a bíróság korlátozta, ebben az esetben a magánindítvány előterjesztéséhez a törvényes képviselő hozzájárulása szükséges. A magánindítványt a korlátozottan cselekvőképes kiskorú sértett törvényes képviselője is előterjesztheti.” szövegrész helyett az „A magánindítványt a korlátozottan cselekvőképes kiskorú sértett önállóan is előterjesztheti, és erre törvényes képviselője is jogosult. Ha a sértett a személyes ügyei vitelében vagy a bírósághoz, hatósághoz fordulás joga tekintetében cselekvőképességében részlegesen korlátozott nagykorú, a magánindítvány előterjesztéséhez a törvényes képviselő hozzájárulása szükséges.”,
+- b) 118. § (4) bekezdésének az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 38. § g) pontját megállapító rendelkezése a „bejegyzésért” szövegrész helyett a „bejegyzésért és az abból való lekérdezésért”
+
+szöveggel lép hatályba.
+
+(2) A Módtv. 191. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) A 100. § (4), (5), valamint (7) bekezdése 2014. november 1-jén lép hatályba.”
+
+(3) Nem lép hatályba a Módtv.
+
+- a) 29. § (4) bekezdés e) pontja,
+- b) 32. § (2) bekezdés g) pontja,
+- c) 73. § c) pontja,
+- d) 92. §-a,
+- e) 94. § (20) bekezdés i) pontja,
+- f) 130. § (18) bekezdése.
+
+(4) Hatályát veszti a Módtv.
+
+- a) 77. § (5) bekezdése,
+- b) 191. § (2) bekezdése,
+- c) 191. § (4) bekezdésében az „ , a 100. § (4), (5), valamint (7) bekezdése” szövegrész.
 
 ### 1. melléklet a 2014. évi XV. törvényhez
 

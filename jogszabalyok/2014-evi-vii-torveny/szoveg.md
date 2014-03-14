@@ -82,8 +82,6 @@ Az Országgyűlés a termőföldek tulajdonjogának megszerzését vagy használ
 
 9. § E törvény alkalmazásában termőföld: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező- és erdőgazdasági hasznosítású föld.
 
-10. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 70/B. §-a helyébe a következő rendelkezés lép:
-
-„70/B. § A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló szerződések feltárása érdekében az ingatlanügyi hatóság a számítógéppel vezetett ingatlan-nyilvántartási adatbázisban a jogellenes jogügyletekben részt vevő felek személyének, illetve a szerzési korlát túllépésének megállapításához szükséges adatkezelést végezhet.”
+10. §
 
 11. §
