@@ -4,7 +4,17 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 #### 1. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-1–3. §
+1. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 6. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) A gyermeknek joga van ahhoz, hogy a védelme érdekében eljáró szakemberek – különösen a gyermek bántalmazásának felismerése és megszüntetése érdekében – egységes elvek és módszertan alkalmazásával járjanak el.”
+
+2. § A Gyvt. 11. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A gyermek bántalmazással szembeni védelemhez való jogának érvényesítése érdekében a gyermek számára gyermekjóléti alapellátást vagy gyermekvédelmi szakellátást biztosító, továbbá a gyermek törvényes képviseletének ellátásával, ügyeinek intézésével foglalkozó szervek és személyek a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) által jóváhagyott egységes elvek és módszertan alkalmazásával járnak el.”
+
+3. § A Gyvt. 17. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A gyermekjóléti szolgálat és a gyámhatóság a gyermek bántalmazása, elhanyagolása miatt jelzést vagy kezdeményezést tevő intézmény, személy adatait erre irányuló külön kérelem hiányában is zártan kezeli.”
 
 4. §
 
@@ -34,7 +44,11 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 27–28. §
 
-29. §
+29. § A Gyvt. 66/J. § (10) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A működtető azonnali hatállyal felmondja a helyettes szülői jogviszonyt, ha)
+
+„b) a helyettes szülőt a bíróság jogerős ítélettel cselekvőképességét érintő gondnokság alá helyezte vagy számára a gyámhatóság támogatót rendelt ki,”
 
 30. §
 
@@ -46,13 +60,33 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 37–38. §
 
-39. §
+39. § A Gyvt. 130/A. §-a helyébe a következő rendelkezés lép:
+
+„130/A. § (1) A gyermek bántalmazása, súlyos elhanyagolása vagy egyéb más, súlyos veszélyeztető ok fennállása, továbbá a gyermek önmaga által előidézett súlyos veszélyeztető magatartása esetén
+
+a) a hatóság és az ügyfél bármilyen módon tarthat kapcsolatot,
+
+b) ha környezettanulmányra van szükség, azt haladéktalanul el kell készíteni, és
+
+c) a helyszíni szemle a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtartható.
+
+(2) A gyermek bántalmazása, súlyos elhanyagolása vagy egyéb más súlyos veszélyeztető ok felmerülése esetén a gyámhatóság erre irányuló külön kérelem hiányában is zártan kezeli a gyermek, a tanú és az eljárást kezdeményező szerv vagy személy adatait.”
 
 40. §
 
 41–46. §
 
-47. §
+47. § (1) A Gyvt. 141/E. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Az egységes örökbefogadási nyilvántartás tartalmazza)
+
+„b) a 135/A. § (1) bekezdés a) és b) pontjában, valamint (1a) bekezdésében foglalt adatokat, valamint az örökbe fogadni szándékozó személlyel a nyílt örökbefogadás elősegítésére történő megállapodás megkötésének időpontját,”
+
+(2) A Gyvt. 141/E. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Az egységes örökbefogadási nyilvántartásba folyamatosan szolgáltatja)
+
+„b) az örökbefogadást elősegítő közhasznú szervezet a 135/A. § (1) bekezdés a) pontjában és (1a) bekezdésében foglalt adatokat, valamint az örökbe fogadni szándékozó személlyel a nyílt örökbefogadás elősegítésére történő megállapodás megkötésének időpontját,”
 
 48–49. §
 
@@ -66,7 +100,10 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 (2)
 
-(3)
+(3) A Gyvt.
+
+- a) 49. § (2) bekezdésében a „büntetlen előéletű” szövegrész helyébe a „támogatott döntéshozatal hatálya alatt nem álló és büntetlen előéletű” szöveg,
+- b) 69/C. § (5) bekezdésében a „gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter)” szövegrész helyébe a „miniszter” szöveg lép.
 
 (4)
 

@@ -20,7 +20,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 
 ### A törvény hatálya és alkalmazási köre
 
-2. § (1) E törvény hatálya kiterjed mindazon természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező gazdálkodó szervezetre, aki (amely) az élelmiszerlánc szereplője.
+2. § (1) E törvény hatálya kiterjed mindazon természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező szervezetre, aki (amely) az élelmiszerlánc szereplője.
 
 (2) A törvény alkalmazási köre kiterjed
 
@@ -512,7 +512,7 @@ terheli.
   - bd) ellenőrzi az Európai Unió jogi aktusaiban teljeskörűen nem szabályozott (a továbbiakban: nem harmonizált) állatfaj és állati eredetű termék harmadik országból más tagállamba magyar határállomáson keresztüli beléptetéssel történő szállítása során a rendeltetési hely szerinti tagállam által meghatározott feltételek teljesülését;
   - be) ellenőrzi a vizsgálatköteles áruk növény-egészségügyi előírásoknak való megfelelőségét;
 - c) az élelmiszerláncban az élelmiszerek vonatkozásában kivizsgálja és felderíti az élelmiszer-mérgezéseket és -fertőzéseket, feltárja azok okait, nyilvántartja, összegzi és elemzi az eseményeket, és megteszi a szükséges intézkedéseket azok megelőzése érdekében, továbbá adatot szolgáltat az egészségügyi államigazgatási szerv részére;
-- d) működteti az – e törvény hatálya alá tartozó engedélyköteles vagy nyilvántartásba vételi kötelezettség alá vont növények, növényi termékek, állatok, egyéb termékek, létesítmények, eszközök, természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok, illetve tevékenységek e törvényben, valamint a végrehajtására kiadott jogszabályban meghatározott adatait tartalmazó – élelmiszerlánc-felügyeleti adatbázist;
+- d) működteti az – e törvény hatálya alá tartozó engedélyköteles vagy nyilvántartásba vételi kötelezettség alá vont növények, növényi termékek, állatok, egyéb termékek, létesítmények, eszközök, természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező szervezetek, illetve tevékenységek e törvényben, valamint az e törvény végrehajtására kiadott jogszabályban meghatározott adatait tartalmazó – élelmiszerlánc-felügyeleti adatbázist.
 - e) engedélyezi a növényvédő szerek és termésnövelő anyagok engedélyezési célú biológiai hatásvizsgálataihoz a Helyes Kísérleti Gyakorlat (GEP) alkalmazását.
 
 34. § (1) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi vagy nyilvántartásba veszi
@@ -664,7 +664,7 @@ terheli.
 - b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát, továbbá
 - c) az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben
   - ca) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet,
-  - cb) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
+  - cb) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adószámot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
 (2a) Az (1) bekezdés c), l), m), n), o), q) és r) pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
@@ -701,7 +701,7 @@ terheli.
 (3) A FELIR kialakításához és működtetéséhez az élelmiszerlánc-felügyeleti szerv kezeli
 
 - a) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát;
-- b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevét, adószámát, székhelyét, telephelyét, elérhetőséget, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát.
+- b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát.
 
 (4) Az e törvény végrehajtására kiadott jogszabály szerint az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása érdekében megkeresésre adatokat kell átadni:
 
@@ -731,7 +731,7 @@ terheli.
 
 38/B. § (1) Az a
 
-- a) természetes személy vagy gazdálkodó szervezet,
+- a) természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 - b) mezőgazdasági őstermelő és a családi gazdálkodó, aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek valamelyikét Magyarország területén végzi, köteles a 38. § (2) bekezdés c) pontja szerinti adatait, a ténylegesen végzett élelmiszerlánc-felügyelet alá tartozó tevékenységét (tevékenységeit), továbbá a tevékenység végzésének helyét (helyeit) az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik a 2. § (3) bekezdése szerinti tevékenységekre.
 
 (2) Az élelmiszerlánc-felügyeleti szerv az ügyfél bejelentése alapján veszi nyilvántartásba az (1) bekezdés szerinti adatokat, és egyidejűleg FELIR azonosító számot (a továbbiakban: FELIR azonosító) állapít meg a nyilvántartásba vétel igazolására. Amennyiben a FELIR azonosítóval rendelkező ügyfél a továbbiakban nem végez a 47/B. § (2) bekezdése szerinti tevékenységet, akkor a FELIR azonosító egyidejű visszavonásával a nyilvántartásból törölni kell. A nyilvántartásból törölt élelmiszerlánc szereplő adatait az élelmiszerlánc-felügyeleti szerv élelmiszerlánc-biztonsági célból 10 évig köteles megőrizni.
@@ -746,7 +746,7 @@ terheli.
 
 - a) igazolást állít ki, melyen szerepel a FELIR azonosító, az ügyfélnyilvántartási szám vagy technikai azonosító, valamint
   - aa) természetes személy esetében az ügyfél neve és születési dátuma,
-  - ab) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnév és az adószám;
+  - ab) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnév és az adószám;
 - b) honlapján elektronikusan hitelesített módon közzéteszi az a) pontban szereplő adatok mellett az ügyfél által bejelentett tevékenységek és tevékenységi helyek listáját;
 - c) ügyfélkapun keresztül történő ügyintézés esetén a nyilvántartásba vétel, illetve az adatok módosítása esetén a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással ellátott, az a) és b) pont szerinti adatokat tartalmazó dokumentumot küld az ügyfél központi elektronikus szolgáltató rendszerben fenntartott ügyfélkapus tárhelyére;
 - d) az ügyfél írásbeli kérelmére az a) és b) pont szerinti adatok igazolására, a külön jogszabályban foglalt díj ellenében papír alapú igazolást állít ki.
@@ -916,7 +916,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 47/B. § (1) Az élelmiszerlánc-felügyeleti szerv részére, az élelmiszerlánc hatósági felügyeleti tevékenységével összefüggő feladatai ellátásának fedezése érdekében az élelmiszerlánc (2) bekezdésben meghatározott szereplői évente felügyeleti díjat kötelesek fizetni. A felügyeleti díj az élelmiszerlánc-felügyeleti szerv bevétele.
 
-(2) Felügyeleti díjat köteles fizetni az a természetes személy vagy gazdálkodó szervezet, aki:
+(2) Felügyeleti díjat köteles fizetni az a természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, aki (amely):
 
 - a) az élelmiszer-termelési, tenyésztési, kísérleti célból tartott állatokat forgalomba hozza,
 - b) élelmiszer-, takarmány-termelési célból termesztett növényt, vetőmagot, növényi terméket, illetve az e törvény végrehajtására kiadott jogszabály szerinti szaporító és ültetési anyagot, forgalomba hozza,
@@ -1045,7 +1045,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 - n) fertőzésközvetítő anyag, eszköz, tárgy, élelmiszer, takarmány, állati eredetű melléktermék, állati eredetű termék ártalmatlanná tétele;
 - o) fertőtlenítés;
 - p) földterület, jármű, épület, berendezés, eszköz és anyag igénybevétele, használata;
-- q) a járványügyi intézkedés eredményes végrehajtása érdekében gazdálkodó szervezet – így különösen vágóhíd, állati eredetű melléktermék kezelését végző üzem – aktív közreműködésre kötelezése;
+- q) a járványügyi intézkedés eredményes végrehajtása érdekében természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet – így különösen vágóhíd, állati eredetű melléktermék kezelését végző üzem – aktív közreműködésre kötelezése;
 - r) az állattartó, az élelmiszer- vagy takarmányvállalkozó tevékenységének korlátozása, feltételhez kötése, felfüggesztése;
 - s) ebzárlat;
 - t) legeltetési tilalom.
@@ -1095,7 +1095,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 
 - a) az e törvény végrehajtására kiadott jogszabályban meghatározott állatbetegségben a 18. § (1) bekezdésének f) pontjában előírt bejelentés teljesítésének időpontját követően vagy járványügyi intézkedés következtében elhullott, illetve a járványügyi intézkedésként leölt bejelentett állat, megsemmisített termék, anyag, eszköz és tárgy tulajdonosa;
 - b) a 51. § (3) bekezdésének p) pontjában meghatározott földterület, jármű, épület, berendezés, eszköz és anyag tulajdonosa, használója, amennyiben az igénybevételre, illetve használatra kifejezetten az erre irányuló határozat alapján került sor;
-- c) a 51. § (3) bekezdésének q) pontjában meghatározott gazdálkodó szervezet, amennyiben a kötelezésre kifejezetten az erre irányuló határozat alapján került sor.
+- c) az 51. § (3) bekezdés q) pontjában meghatározott természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, amennyiben a kötelezésre kifejezetten az erre irányuló határozat alapján került sor.
 
 (2) Nem jár kártalanítás
 
@@ -1117,7 +1117,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 
 ### A jogkövetkezményekre vonatkozó általános rendelkezések
 
-56. § (1) Az élelmiszerlánc-felügyeleti szerv e törvényben és a végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat, bírságot szabhat ki vagy figyelmeztetésben részesíti az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező gazdálkodó szervezetet vagy természetes személyt (e fejezetben a továbbiakban együtt: eljárás alá vont személy).
+56. § (1) Az élelmiszerlánc-felügyeleti szerv e törvényben és az e törvény végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat, bírságot szabhat ki vagy figyelmeztetésben részesíti az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező szervezetet vagy természetes személyt (e fejezetben a továbbiakban együtt: eljárás alá vont személy).
 
 (2) Az (1) bekezdés szerinti jogkövetkezmény alkalmazásának nincs helye, ha a cselekménynek az élelmiszerlánc-felügyeleti szerv tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
 
@@ -1290,7 +1290,7 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 (3)
 
-(4) Ha a jogi személyre, vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezet kötelezettségeiért a törvény alapján felel.
+(4) Ha a jogi személyre, vagy jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
 
 (5) A bírság kiszabásáról rendelkező határozat fellebbezésre tekintet nélküli végrehajtása rendelhető el.
 
@@ -1567,7 +1567,7 @@ E törvény alkalmazásában:
 - 5. állati eredetű melléktermékek: a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, az Európai Parlament és a Tanács 1774/2002/EK 2002. október 3-i rendeletének 2. cikke (1) bekezdésének a) pontja szerinti fogalom;
 - 6. állat-járványügy: a fertőzésközvetítő útján vagy egyéb módon terjesztett, állatra, vagy az emberre veszélyes kórokozó – a kizárólag emberről emberre terjedő kórokozók kivételével –, illetve az általa okozott betegség elleni védekezésre, annak felismerésére, felszámolására hozható intézkedések és azok végrehajtása;
 - 7. állatorvos: külön jogszabály szerinti állatorvosi oklevéllel rendelkező személy;
-- 8. állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) az állat ellátásáért és felügyeletéért felelős állandó vagy ideiglenes jelleggel, beleértve a szállítás, forgalomba hozatal alatti időszakot is;
+- 8. állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki (amely) az állat ellátásáért és felügyeletéért felelős állandó vagy ideiglenes jelleggel, beleértve a szállítás, forgalomba hozatal alatti időszakot is;
 - 9. behozatal: áru harmadik országból Magyarország területére történő behozatala, beleértve az importot is;
 - 10. élelmiszer: az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendelete (a továbbiakban: 178/2002/EK rendelet) 2. cikke szerinti fogalom;
 - 11. élelmiszer-biztonság: az élelmiszer emberi egészségre ártalmatlansága és emberi fogyasztásra alkalmassága a 178/2002/EK rendeletnek megfelelő fogalom;

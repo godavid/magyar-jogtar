@@ -90,7 +90,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 ### IV. Fejezet — A párt vagyona és gazdálkodása
 
-4. § (1) A párt vagyona a tagok által fizetett díjakból, a központi költségvetésből juttatott támogatásból, az állam által az 5. § alapján ingyenesen átadott ingatlanokból, magyar állampolgár természetes személyek vagyoni hozzájárulásaiból, végintézkedés alapján természetes személyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdálkodó tevékenységéből, illetve a párt által alapított vállalat és egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
+4. § (1) A párt vagyona a tagok által fizetett díjakból, a központi költségvetésből juttatott támogatásból, az állam által az 5. § alapján ingyenesen átadott ingatlanokból, magyar állampolgár természetes személyek vagyoni hozzájárulásaiból, végintézkedés alapján természetes személyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdálkodó tevékenységéből, illetve a párt által alapított egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
 
 (2) A párt részére – az (1) bekezdésben foglalt kivételektől eltekintve – jogi személy, jogi személyiséggel nem rendelkező szervezet vagyoni hozzájárulást nem adhat, a párt jogi személytől, jogi személyiséggel nem rendelkező szervezettől vagyoni hozzájárulást nem fogadhat el.
 
@@ -115,7 +115,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) A pártnak az (1) bekezdésben említett gazdálkodó tevékenysége után társasági adót nem kell fizetnie.
 
-(3) A párt vállalatot hozhat létre (Ptk. 70. § (1) bekezdés), továbbá egyszemélyes korlátolt felelősségű társaságot alapíthat, más gazdasági társaságban azonban részesedést nem szerezhet.
+(3) A párt egyszemélyes korlátolt felelősségű társaságot alapíthat, azonban más gazdasági társaságban részesedést nem szerezhet.
 
 (4) A párt a pénzeszközeit — részvényvásárlás kivételével — értékpapírba fektetheti.
 
@@ -212,7 +212,7 @@ Ft
 
 Ft
 
-5. A párt által alapított vállalat és korlátolt
+5. A párt által alapított korlátolt
 
 felelősségű társaság nyereségéből származó bevétel
 

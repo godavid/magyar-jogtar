@@ -257,7 +257,7 @@ kezeli.
 
 (3) A lajstromba és a katonai légügyi hatóság nyilvántartásába vett légijármű magyar légijárműnek minősül.
 
-(4) A lajstrom igazolja a légijármű adatait, ezen belül a légijármű tulajdonjogát, továbbá az egyéb jogokat és kötelességeket.
+(4) A lajstrom igazolja a légi jármű adatait, ezen belül a légi jármű tulajdonjogát, az egyéb jogokat és kötelességeket, továbbá a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét.
 
 (5) A lajstromozásra kötelezett légijármű üzemben tartója, a 19. § (2) bekezdésében foglaltak esetén a légijármű tulajdonosa üzemeltetési bázisként Magyarország területén lévő repülőteret határoz meg, ahol vagy ahonnan a légijármű üzemben tartását végzi vagy szervezi.
 
@@ -1124,6 +1124,7 @@ folytatja le.
 - 1. állami célú légiközlekedés: a honvédelmi, vámhatósági, rendőrségi és határőrizeti célú légiközlekedés;
 - 2. állami légijármű: a honvédelmi, vámhatósági, rendőrségi és határőrizeti szervek céljára szolgáló légijármű;
 - 3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot nyújtanak;
+- 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 4. légiforgalom: a levegőben vagy a repülőtér munkaterületén légijárművel végrehajtott valamennyi mozgás;
 - 5. légijármű: bármely szerkezet, amelynek légkörben maradása a levegővel való olyan kölcsönhatásból ered, amely más, mint a földfelszínre ható légerők hatása
 - 6. légijárművel végzett egyéb gazdasági tevékenység: az ellenszolgáltatásért, légijárművel végzett — légi személyszállításnak vagy légi fuvarozásnak nem minősülő — különleges tevékenység (pl. a légi mező- és erdőgazdasági szórótevékenység, a külső felfüggesztésű teheremelés és szállítás, a polgári célú légi felderítés és megfigyelés, a légi hirdetés, valamint a bajba jutott légijármű felkutatása és mentése);

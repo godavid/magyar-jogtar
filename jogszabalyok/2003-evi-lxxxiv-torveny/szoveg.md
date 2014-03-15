@@ -530,6 +530,8 @@ részt vehet.
 - b) nem szenved az a) pont szerinti megbetegedésben, de más betegsége, illetve fizikai vagy mentális állapota (a továbbiakban együtt: betegsége) miatt egészségügyi tevékenység végzésére ideiglenes vagy végleges jelleggel alkalmatlan,
 - c) az a) vagy a b) pont szerinti betegsége miatt egészségügyi tevékenység végzésére korlátozással alkalmas.
 
+(1a) Ha az egészségügyi dolgozó a Polgári Törvénykönyv szerinti támogatott döntéshozatallal összefüggő határozat hatálya alatt áll, az alkalmassági vizsgálat kiterjed arra is, hogy a támogatott egészségügyi dolgozó egészségügyi tevékenységét a támogató kirendelésére okot adó, belátási képességének kisebb mértékű csökkenése nem befolyásolja-e hátrányosan.
+
 (2) Amennyiben az alkalmassági vizsgálat során az egészségügyi dolgozó
 
 - a) ideiglenes alkalmasságát állapítják meg, meg kell határozni az alkalmatlanság időtartamát, illetve amennyiben ez nem lehetséges, az egészségi alkalmasság felülvizsgálatának időpontját,

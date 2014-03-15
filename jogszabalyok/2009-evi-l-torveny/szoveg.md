@@ -109,7 +109,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Elektronikus úton beadványt úgy lehet benyújtani, hogy a beadvány adatait annak benyújtója a MOKK rendszerébe beviszi és minősített elektronikus aláírással, valamint minősített időbélyegzővel látja el.
 
-(3) A jogi képviselővel rendelkező fél és a vállalkozás és egyéb jogi személy beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
+(3) A jogi képviselővel rendelkező fél és a jogi személy, a külföldi vállalkozás magyarországi fióktelepe, valamint az egyéni cég beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
 
 (4)
 
@@ -251,8 +251,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - i) külön jogszabály az igény polgári eljárás útján történő érvényesítésére határidőt állapít meg,
   - ia) amely határidő jogvesztő, és ezt a jogosult elmulasztotta,
   - ib) amely határidő elmulasztása esetén a fél igazolással élhet, és a jogosult ezt a határidőt elmulasztotta, de igazolási kérelmet nem terjeszt elő, vagy azt a közjegyző elutasítja;
-- j) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
-- k) a jogi képviselővel rendelkező fél vagy a vállalkozás és egyéb jogi személy fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §); vagy
+- j) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat, a meghatalmazásáról szóló nyilatkozatot, vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
+- k) a jogi képviselővel rendelkező fél vagy a jogi személy, a külföldi vállalkozás magyarországi fióktelepe, valamint az egyéni cég fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §); vagy
 - l) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem, vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el.
 
 (2) Ha a meghagyást a kötelezettnek halála miatt vagy azért nem lehet kézbesíteni, mert a kötelezett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kézbesítéshez szükséges adatokat harminc napon belül jelentse be.
@@ -373,7 +373,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 - a) az elkésett,
 - b) nem az ellentmondás előterjesztésére jogosulttól származik, vagy
-- c) a jogi képviselővel rendelkező fél, a vállalkozás vagy egyéb jogi személy fél azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn.
+- c) a jogi képviselővel rendelkező fél, a jogi személy, a külföldi vállalkozás magyarországi fióktelepe vagy az egyéni cég fél azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn.
 
 ### Perré alakulás
 
@@ -514,7 +514,7 @@ kell megfizetni.
 
 (2) A végrehajtás elrendelésére a fizetési meghagyást kibocsátó közjegyző jogosult; a végrehajtás elrendelése iránti ügyek elosztására a 9. § (3) bekezdésében foglalt rendelkezést alkalmazni kell. Ha a fizetési meghagyást kibocsátó közjegyző valamely okból – ide nem értve a kizárás esetét – nem tud eljárni, az eljáró közjegyzőt a MOKK elnöke (elnökhelyettese) jelöli ki.
 
-(3) A 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) bekezdését, a 24. § (1) bekezdés k) pontját, valamint a 26. § (1) és (2) bekezdését a végrehajtás elrendelése iránti eljárásban is megfelelően alkalmazni kell.
+(3) A 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) bekezdését, a 24. § (1) bekezdés k) pontját, a 26. § (1) és (2) bekezdését, valamint a 39. § (2), (3) és (5) bekezdését a végrehajtás elrendelése iránti eljárásban is megfelelően alkalmazni kell.
 
 (4) A végrehajtás elrendelésére a fizetési meghagyásos eljárásnak a MOKK rendszerében rögzített adatai alapján kizárólag végrehajtási lappal, illetve biztosítási intézkedést elrendelő végzéssel (a továbbiakban együtt: végrehajtási lap) kerül sor.
 
@@ -528,7 +528,7 @@ kell megfizetni.
 
 54. § (1) A végrehajtási lap visszavonása iránti kérelem előterjesztésére a végrehajtási kérelem előterjesztésére, a visszavonásról rendelkező végzés megküldésére pedig a végrehajtási lap megküldésére vonatkozó szabályokat kell alkalmazni azzal, hogy végrehajtási lap visszavonása iránti papír alapú kérelmet nem űrlapon kell előterjeszteni.
 
-(2) A vállalkozás és egyéb jogi személy fél és a jogi képviselővel rendelkező fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
+(2) A jogi személy, a külföldi vállalkozás magyarországi fióktelepe, valamint az egyéni cég fél és a jogi képviselővel rendelkező fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
 
 (3) A végrehajtási eljárás során előterjesztett fellebbezés esetén a közjegyző az iratok felterjesztése helyett a MOKK számítógépes rendszerén keresztül előállított aktanyomatot küldhet a bíróságnak a fellebbezés elbírálása szempontjából szükséges iratokról. Az aktanyomatra a 38. § (4) bekezdését megfelelően alkalmazni kell.
 
@@ -643,6 +643,8 @@ rendeletben állapítsa meg.
 (8) A Magyar Országos Közjegyzői Kamara 2010. március 31-éig köteles biztosítani a MOKK rendszerének tesztelését a közjegyzők és a MOKK feletti törvényességi felügyeletet ellátó szerv részére, 2010. április 30-áig pedig az interneten is elérhetővé tenni a felhasználók számára a MOKK rendszerének tesztelésre alkalmas változatát. A MOKK rendszerének módosítását célzó, az eljárásban szereplő felek felhasználói jogosultságait érintő program-fejlesztés esetében a MOKK köteles biztosítani a MOKK feletti törvényességi felügyeletet ellátó szervnek a módosított program tesztelését.
 
 (9) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel megállapított rendelkezéseit a 2012. március 14-ét követően előterjesztett fizetési meghagyás kibocsátása, végrehajtás elrendelése vagy biztosítási intézkedés elrendelése iránti kérelem alapján indult eljárásokban kell alkalmazni.
+
+(10) E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított rendelkezéseit a 2014. március 15. napját követően indult ügyekben kell alkalmazni.
 
 ### Módosuló jogszabályok
 

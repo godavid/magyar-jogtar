@@ -109,7 +109,7 @@ felszíni előkutatás
 
 6. § (1) A hatósági engedély alapján gyakorolt bányászati jog kérelemre, a bányafelügyelet hozzájárulásával átruházható. A hozzájárulás iránti kérelmet az átvevő nyújtja be.
 
-(2) A bányászati jog átruházására vonatkozó szerződés a bányafelügyelet határozatának jogerőssé és végrehajthatóvá válása napján jön létre.
+(2) A bányászati jog átruházására vonatkozó szerződés a bányafelügyelet határozatának jogerőssé és végrehajthatóvá válása napján válik hatályossá.
 
 (3) A bányafelügyelet a bányászati jog átruházása iránti kérelmet elutasítja, ha az átadónak vagy az átvevőnek bányajáradék, felügyeleti díj, jogerős határozattal megállapított kiesett bányajáradék pótlására megállapított díj, térítési díj vagy bírság tartozása van.
 
@@ -135,7 +135,7 @@ felszíni előkutatás
 
 (3) Ivóvíz-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett vízadók, víztestek zárt területként nem jelölhetők ki.
 
-(4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet negyedévente közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy, valamint ezek jogi személyiség nélküli társasága tehet javaslatot. A bányafelügyelet a soron következő közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe. A negyedévente közzétett területekre a miniszter a pályázatot legkésőbb 9 hónapon belül írja ki.
+(4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet negyedévente közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy tehet javaslatot. A bányafelügyelet a soron következő közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe. A negyedévente közzétett területekre a miniszter a pályázatot legkésőbb 9 hónapon belül írja ki.
 
 ### A koncessziós pályázat
 
@@ -179,7 +179,7 @@ felszíni előkutatás
 
 ### A koncessziós társaság
 
-13. § (1) A koncessziós szerződést aláírónak olyan jogi személyiségű gazdasági társaságot (a továbbiakban: koncessziós társaság) kell alapítania, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek és szavazatok többségével rendelkezik, valamint kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
+13. § (1) A koncessziós szerződést aláírónak olyan gazdasági társaságot (a továbbiakban: koncessziós társaság) kell alapítania, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek és szavazatok többségével rendelkezik, valamint kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
 
 (2) A koncessziós szerződés alapján keletkezett jogok és kötelezettségek a koncessziós társaságot mint bányavállalkozót illetik meg, illetve terhelik.
 
@@ -372,9 +372,9 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (7) Nemzetbiztonsági okokból megtagadható vagy visszavonható az engedély olyan vállalkozás esetében, amely az Európai Unió tekintetében harmadik országok vagy harmadik országok állampolgárainak irányítása alatt áll.
 
-(8) A szénhidrogénekre vonatkozó kutatás engedélyezése iránti kérelemhez mellékelni kell a kutatási munkaprogramot és annak költségvetését. A kutatási jog adományozásának vagy a kutatási engedély megadásának feltétele kutatási blokkonként 200 millió forint, de – az egy vállalkozó jogosultságában álló kutatási területek számától és nagyságától, illetve az összes kutatási költségtől függetlenül – egyidejűleg legfeljebb 1 milliárd forint pénzügyi biztosíték nyújtása. A pénzügyi biztosíték összege a költségvetésben megosztható a kutatási munkaprogram végrehajtásával kapcsolatos feladatok, valamint a várható bányakárok, tájrendezési és környezetmegóvási kötelezettségek fedezetére. Pénzügyi biztosíték az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet által nyújtott bankgarancia lehet. Olyan hitelintézet által nyújtott bankgarancia, amelynek székhelye nem az Európai Gazdasági Térség valamely tagállamában van, csak akkor fogadható el, ha azt az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet felülgarantálja.
+(8) A szénhidrogénekre vonatkozó kutatás engedélyezése iránti kérelemhez mellékelni kell a kutatási munkaprogramot és annak költségvetését. A kutatási jog adományozásának vagy a kutatási engedély megadásának feltétele kutatási blokkonként 200 millió forint, de – az egy vállalkozó jogosultságában álló kutatási területek számától és nagyságától, illetve az összes kutatási költségtől függetlenül – egyidejűleg legfeljebb 1 milliárd forint pénzügyi biztosíték nyújtása. A pénzügyi biztosíték összege a költségvetésben megosztható a kutatási munkaprogram végrehajtásával kapcsolatos feladatok, valamint a várható bányakárok, tájrendezési és környezetmegóvási kötelezettségek fedezetére. Pénzügyi biztosíték az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézettel kötött garanciaszerződés lehet. Olyan hitelintézettel kötött garanciaszerződés, amelynek székhelye nem az Európai Gazdasági Térség valamely tagállamában van, csak akkor fogadható el, ha azt az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet felülgarantálja.
 
-(9) Pénzügyi biztosítékként visszavonhatatlan vagy a bányafelügyelet jóváhagyásához kötött visszavonható bankgarancia fogadható el. A bányafelügyelet a pénzügyi biztosíték visszavonását akkor hagyja jóvá, ha a bányavállalkozó a kutatási munkaprogramját teljesítette, vagy a kutatási területet visszaadta és a kutatással összefüggésben keletkezett bányakártalanítási, illetve tájrendezési, környezetmegóvási kötelezettsége nem maradt fenn. A pénzügyi biztosíték visszavonása – a költségvetésben szereplő (8) bekezdés szerinti megosztásnak megfelelően – a végrehajtott kutatási és kártalanítási kötelezettségekkel arányosan, részösszegekre is engedélyezhető. Abban az esetben, ha a bányafelügyelet a 22. § (9) bekezdése alapján a kutatási engedélyt visszavonja, vagy koncessziós szerződés esetén a miniszter, a bányafelügyelet kezdeményezése alapján, a szerződésszegés jogkövetkezményeit alkalmazza, a pénzügyi biztosítékot a kötelezettségszegés mértékéig érvényesíteni kell a központi költségvetés javára. A pénzügyi biztosíték igénybevételéről a bányafelügyelet a (8) bekezdésben foglaltak figyelembevételével dönt.
+(9) Pénzügyi biztosítékként visszavonhatatlan vagy a bányafelügyelet jóváhagyásához kötött visszavonható garanciaszerződés fogadható el. A bányafelügyelet a pénzügyi biztosíték visszavonását akkor hagyja jóvá, ha a bányavállalkozó a kutatási munkaprogramját teljesítette, vagy a kutatási területet visszaadta és a kutatással összefüggésben keletkezett bányakártalanítási, illetve tájrendezési, környezetmegóvási kötelezettsége nem maradt fenn. A pénzügyi biztosíték visszavonása – a költségvetésben szereplő (8) bekezdés szerinti megosztásnak megfelelően – a végrehajtott kutatási és kártalanítási kötelezettségekkel arányosan, részösszegekre is engedélyezhető. Abban az esetben, ha a bányafelügyelet a 22. § (9) bekezdése alapján a kutatási engedélyt visszavonja, vagy koncessziós szerződés esetén a miniszter, a bányafelügyelet kezdeményezése alapján, a szerződésszegés jogkövetkezményeit alkalmazza, a pénzügyi biztosítékot a kötelezettségszegés mértékéig érvényesíteni kell a központi költségvetés javára. A pénzügyi biztosíték igénybevételéről a bányafelügyelet a (8) bekezdésben foglaltak figyelembevételével dönt.
 
 (10) Szénhidrogének esetében a kutatás engedélyezésére, a kutatás műszaki üzemi tervének jóváhagyására, illetőleg a bányászati jog átruházására irányuló eljárásban az e törvényben és a külön jogszabályban megállapított általános követelményeken túl a bányafelügyeletnek vizsgálnia kell
 
@@ -728,7 +728,7 @@ vonatkozó információ.
 
 (6) Az ingatlan igénybevétele során okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni. A szolgalom szerinti korlátozással megegyezően kell az ingatlanban keletkezett kárt megtéríteni. A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről a bányavállalkozónak, az egyéb gáz- és gáztermékvezeték üzemeltetőjének az ingatlan tulajdonosával, vagyonkezelőjével vagy használójával – ajánlat megküldésével – kell az egyezség létrehozását megkísérelnie.
 
-(6a) Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó vagy az egyéb gáz- és gáztermékvezeték üzemeltetője kérelmére a fővárosi és megyei kormányhivatal állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog a Polgári Törvénykönyv 108. § és 171. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
+(6a) Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó vagy az egyéb gáz- és gáztermékvezeték üzemeltetője kérelmére a fővárosi és megyei kormányhivatal állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog a Polgári Törvénykönyv 5:27. és 5:164. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
 
 (7) A koncessziós szerződésben az állam által vállalt kisajátítással kapcsolatban felmerült kiadásokat (kártalanítás, eljárási költségek stb.) a bányavállalkozó köteles viselni. A kiadások összegét a bányavállalkozó köteles a kisajátítási eljárásban az állam képviseletében eljáró szervezetnek megelőlegezni. Egyéb esetben a bányászati célból történő kisajátítást a bányavállalkozó harmadik személy kisajátítást kérőként kérheti, a kisajátítással kapcsolatos kártalanítást, költségeket a bányavállalkozó köteles megfizetni. A kisajátított ingatlan mindkét esetben az állam tulajdonába kerül, a kisajátított ingatlanon – a bányászati jogosultság időtartama alatt – a bányavállalkozót megilletik az ingatlan birtoklására és ingyenes használatára vonatkozó jogok.
 
@@ -812,7 +812,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 ### A földgáz célvezetékkel kapcsolatos jogok
 
-38/F. § A célvezeték létesítésével és üzemeltetésével kapcsolatos idegen ingatlant terhelő jogok alapítása, fennállása, megszüntetése tekintetében a Ptk. rendelkezéseit kell alkalmazni.
+38/F. § A célvezeték létesítésével és üzemeltetésével kapcsolatos idegen ingatlant terhelő jogok alapítása, fennállása, megszüntetése tekintetében a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
 
 ### Építési tilalom és korlátozások
 
@@ -826,7 +826,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 ### Bírság, intézkedések és biztosítékok
 
-41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, valamint jogi személyiség nélküli gazdasági társaságot, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújthatja és eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére. Jogosulatlanul az folytat bányászati tevékenységet, aki
+41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújthatja és eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére. Jogosulatlanul az folytat bányászati tevékenységet, aki
 
 - a) a 4. § szerinti felszíni előkutatást a kötelező bejelentést elmulasztva végzi,
 - b) bányászati koncesszió vagy bányafelügyeleti engedély nélkül ásványi nyersanyagot termel ki, vagy geotermikus energiát hasznosít,
@@ -834,7 +834,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 - d)
 - e)
 
-(1a) A bányafelügyelet azt a jogi vagy természetes személyt, valamint jogi személyiség nélküli gazdasági társaságot, amely bányászati hulladékkezelési tevékenységet engedély nélkül vagy engedélytől eltérően végez vagy végeztet, bírsággal sújtja és eltiltja a szabálytalanul végzett tevékenység folytatásától, valamint kötelezi a jogellenes állapot megszüntetésére.
+(1a) A bányafelügyelet azt a jogi vagy természetes személyt, amely bányászati hulladékkezelési tevékenységet engedély nélkül vagy engedélytől eltérően végez vagy végeztet, bírsággal sújtja és eltiltja a szabálytalanul végzett tevékenység folytatásától, valamint kötelezi a jogellenes állapot megszüntetésére.
 
 (2) Ha a bányavállalkozó a bányászati tevékenységet szabálytalanul gyakorolja, a bányafelügyelet a bányavállalkozót bírsággal sújthatja, a tevékenység folytatását felfüggesztheti, az engedélyt visszavonhatja és elrendelheti az eredeti állapot helyreállítását, vagy ha ez nem lehetséges, a tájrendezést, vagy a bányavállalkozó bányászati jogát törölheti, amely esetben a 26/A. § (6)–(7) bekezdését is alkalmazni kell. Koncesszió esetén a bányafelügyelet a koncessziós szerződés megszüntetését is kezdeményezheti.
 
@@ -850,7 +850,7 @@ gyakorolja.
 
 (3a) A szabálytalan bányászati tevékenység végzése során kitermelt ásványi nyersanyag tulajdonjoga akkor száll át a bányavállalkozóra, ha a bányafelügyelet az eredeti állapot helyreállítását nem rendelte el és a bányavállalkozó a bányajáradékot megfizette.
 
-(4) A bányafelügyelet azt a természetes vagy jogi személyt, jogi személyiség nélküli gazdasági társaságot, aki, illetőleg amely külön jogszabály hatálya alá tartozó, a bányafelügyelet által kiadott hatósági engedélyhez kötött gázipari tevékenységet (földgáz tárolása, vezetéken történő elosztása, szállítása, egyéb gázok vezetéken történő szállítása, cseppfolyós propán-, butángázok és ezek elegyei vezetéken történő elosztása, tartályban vagy palackban történő forgalmazása) engedély nélkül végez, bírsággal sújthatja és eltilthatja a tevékenység folytatásától.
+(4) A bányafelügyelet azt a természetes vagy jogi személyt, aki, illetőleg amely külön jogszabály hatálya alá tartozó, a bányafelügyelet által kiadott hatósági engedélyhez kötött gázipari tevékenységet (földgáz tárolása, vezetéken történő elosztása, szállítása, egyéb gázok vezetéken történő szállítása, cseppfolyós propán-, butángázok és ezek elegyei vezetéken történő elosztása, tartályban vagy palackban történő forgalmazása) engedély nélkül végez, bírsággal sújthatja és eltilthatja a tevékenység folytatásától.
 
 (5) Azt a (4) bekezdésben meghatározott gázipari tevékenység végzésére jogosult engedélyest, amely a tevékenységét jogszabályban vagy a bányafelügyelet határozatában foglalt előírásoktól eltérően gyakorolja, a bányafelügyelet bírsággal sújthatja és a tevékenységét felfüggesztheti vagy a bányafelügyelet által kiadott engedélyt visszavonhatja. Abban az esetben, ha az intézkedés a földgázellátásról szóló törvény hatálya alá tartozó földgázipari tevékenységet érint, a bányafelügyelet a javasolt intézkedésről értesíti a Magyar Energetikai és Közmű-szabályozási Hivatalt.
 
@@ -869,7 +869,7 @@ gyakorolja.
 
 (9) Amennyiben a (4)–(5) bekezdésben foglalt eljárások során a bányafelügyelet megállapítja, hogy az ügy más hatóság hatáskörébe is tartozik, haladéktalanul köteles tájékoztatni a hatáskörrel rendelkező hatóságot.
 
-41/A. § (1) A bányafelügyelet bírsággal sújtja azt a természetes vagy jogi személyt, vagy jogi személyiség nélküli gazdasági társaságot, aki vagy amely
+41/A. § (1) A bányafelügyelet bírsággal sújtja azt a természetes vagy jogi személyt, aki vagy amely
 
 - a) a bányafelügyelet tűzvédelmi hatósági jogkörébe tartozó létesítményekre vonatkozó tűzvédelmi jogszabályokban vagy tűzvédelmi szabályzatokban foglalt előírásokat megszegi,
 - b) a bányafelügyelet hatósági felügyeleti jogkörébe tartozó nyomástartó berendezést vagy tároló tartályt előzetes vizsgálat nélkül vagy annak kedvezőtlen eredménye ellenére, vagy az engedély hatályának lejárta után üzemben tart,
@@ -1367,7 +1367,7 @@ bányahatósági felügyelete
   - e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
   - f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
   - g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése.
-- 5. ,,Bányavállalkozó'' a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, illetve jogi személyiséggel nem rendelkező társaság (a továbbiakban együtt: személy). Bányavállalkozónak minősül e törvény
+- 5. ,,Bányavállalkozó'' a bányászati tevékenység végzésére jogosult jogi vagy természetes személy (a továbbiakban együtt: személy). Bányavállalkozónak minősül e törvény
   - a)
   - b) 2. §-ának, 18. §-ának, 21. § (1) bekezdésének, 24. § (1) bekezdésének, 28. § (1) bekezdésének, 31–35. §-ainak, 37–38. §-ainak, 41. §-ának szabályai alkalmazásában, a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására, valamint
   - c) 2. §-ának, 21. § (1) bekezdésének, 28. § (1) bekezdésének, 31–34. §-ainak, 41–42. §-ainak szabályai, alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására jogosult személy is.
@@ -1468,7 +1468,7 @@ bányahatósági felügyelete
 
 (5) A törvény 9. §-ában megjelölt területek minősítéséről, a minősítések ötévenként történő felülvizsgálatáról és a koncesszióra jelölhető zárt területek közzétételéről a bányafelügyelet gondoskodik.
 
-(6) E törvény hatálybalépésekor bányászati joggal rendelkező gazdálkodó szervezetek [Ptk. 685. § c) pont] és természetes személyek
+(6) E törvény hatálybalépésekor bányászati joggal rendelkező gazdálkodó szervezetek [polgári perrendtartásról szóló 1952. évi III. törvény 396. §] és természetes személyek
 
 - a) a bányászati tevékenységet a művelés alatt álló bányáikban tovább folytathatják; valamint
 - b) kitermelési jogot szereznek az általuk már megkutatott és bányatelekkel lefedett azon területekre, amelyek feltárását a 15. §-ban meghatározott feltételek megfelelő alkalmazása mellett vállalják; továbbá

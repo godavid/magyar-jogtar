@@ -6,7 +6,7 @@ Az Országgyűlés elismeri a társadalom tagjainak szolidaritásán alapuló, a
 
 1. § (1) A törvény hatálya
 
-- a) a 3. § (1) bekezdése szerinti természetes személynél, jogi személynél, illetve jogi személyiséggel nem rendelkező gazdasági társaságnál és egyéni cégnél (a továbbiakban: fogadó szervezet) Magyarországon végzett,
+- a) a 3. § (1) bekezdése szerinti természetes személynél, jogi személynél és egyéni cégnél (a továbbiakban: fogadó szervezet) Magyarországon végzett,
 - b) a magyar állampolgár által a 3. § (1) bekezdésének a)–e) pontja szerinti fogadó szervezetnél Magyarország területén kívül (a továbbiakban: külföld) végzett
 
 közérdekű önkéntes tevékenységre terjed ki.
@@ -36,7 +36,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - d) az önkéntes részére biztosított – a közérdekű önkéntes tevékenység ellátásához szükséges – iskolarendszeren kívüli képzés költségei,
 - e) az önkéntes tulajdonában álló, a közérdekű önkéntes tevékenység ellátásához szükséges állat élelmezésének, ellátásának, képzésének biztosítása, illetve ezek bizonylattal igazolt költségének az önkéntes részére történő megtérítése,
 - f) az önkéntes tulajdonában vagy használatában álló eszköz – közérdekű önkéntes tevékenység ellátása érdekében történő – működtetéséhez szükséges feltételeknek az önkéntes részére történő biztosítása, illetve ezek bizonylattal igazolt költségének megtérítése,
-- g) az önkéntesnek a közérdekű önkéntes tevékenység során bekövetkező halála, testi sérülése, egészségkárosodása esetére kötött élet-, egészség- és balesetbiztosítás, illetve annak díja, valamint az önkéntes által okozott kár megtérítésére kötött felelősségbiztosítás, illetve annak díja,
+- g) az önkéntesnek a közérdekű önkéntes tevékenység során bekövetkező halála, testi sérülése, egészségkárosodása esetére kötött élet-, egészség- és balesetbiztosítás, illetve annak díja, valamint az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére kötött felelősségbiztosítás, illetve annak díja,
 - h) az önkéntesnek külföldön végzett közérdekű önkéntes tevékenység esetén, illetve a Magyarországon lakóhellyel nem rendelkező nem magyar állampolgár által végzett közérdekű tevékenység esetén adott napidíj, ha annak egy hónapra számított összege nem haladja meg a kötelező legkisebb munkabér mindenkori havi összegének húsz százalékát,
 - i) az önkéntesnek a közérdekű önkéntes tevékenységéért nyújtott jutalom, feltéve, hogy annak éves összege nem haladja meg a kötelező legkisebb munkabér mindenkori havi összegének húsz százalékát.
 
@@ -67,7 +67,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (3) A fogadó szervezet feladatainak ellátásához jogszabályban, illetve hatósági határozatban előírt létszámfeltételek önkéntes foglalkoztatásával nem teljesíthetőek.
 
-(4) Az a fogadó szervezet, amely jogszabály alapján köteles az általa nyújtott szolgáltatás során okozott kár megtérítésére felelősségbiztosítási szerződést kötni, önkéntest akkor foglalkoztathat, ha a felelősségbiztosítási szerződés kiterjed az önkéntes által okozott kár megtérítésére is.
+(4) Az a fogadó szervezet, amely jogszabály alapján köteles az általa nyújtott szolgáltatás során okozott kár megtérítésére, illetve a személyiségi jogi jogsértésért járó sérelemdíj megfizetésére felelősségbiztosítási szerződést kötni, önkéntest akkor foglalkoztathat, ha a felelősségbiztosítási szerződés kiterjed az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére is.
 
 4. § (1) Önkéntes az lehet, aki tizedik életévét betöltötte.
 
@@ -84,13 +84,13 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (6) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
 
-- a) a fogadó szervezet az önkéntes által okozott kár megtérítésére felelősségbiztosítási szerződést kötött,
+- a) a fogadó szervezet az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére felelősségbiztosítási szerződést kötött,
 - b) az önkéntes szállása, ellátása és visszautazása biztosított, valamint
 - c) az önkéntes egészségügyi szolgáltatásra jogosult, vagy rendelkezik az egészségügyi szolgáltatások költségét fedező biztosítással.
 
-5. § (1) A tizennyolcadik életévét be nem töltött személy, illetve a korlátozottan cselekvőképes nagykorú személy olyan közérdekű önkéntes tevékenységet folytathat, amely megfelel életkorának, testi, értelmi és erkölcsi fejlettségének, illetve képességeinek, valamint amely nem veszélyezteti egészségét, fejlődését és tankötelezettségének teljesítését.
+5. § (1) A tizennyolcadik életévét be nem töltött személy, illetve a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú személy olyan közérdekű önkéntes tevékenységet folytathat, amely megfelel életkorának, testi, értelmi és erkölcsi fejlettségének, illetve képességeinek, valamint amely nem veszélyezteti egészségét, fejlődését és tankötelezettségének teljesítését.
 
-(2) A tizenhatodik életévét be nem töltött önkéntes és a korlátozottan cselekvőképes nagykorú önkéntes közérdekű önkéntes tevékenységet külföldön nem végezhet.
+(2) A tizenhatodik életévét be nem töltött önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes közérdekű önkéntes tevékenységet külföldön nem végezhet.
 
 (3) A tizennyolcadik életévét be nem töltött önkéntes közérdekű önkéntes tevékenységet 20 óra és 6 óra között nem végezhet.
 
@@ -114,13 +114,13 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (2) A fogadó intézménynél, illetve annak fenntartójánál végzett közérdekű önkéntes tevékenység esetén jogszabály meghatározhatja az önkéntes szerződés további kötelező tartalmi elemeit is.
 
-(3) Korlátozottan cselekvőképes személy önkéntes szerződést csak a törvényes képviselő beleegyezésével köthet.
+(3) A korlátozottan cselekvőképes kiskorú személy és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú személy önkéntes szerződést csak a törvényes képviselő beleegyezésével köthet.
 
 (4) Kiskorúsága miatt cselekvőképtelen önkéntes esetén az önkéntes jogviszonnyal kapcsolatos jognyilatkozatokat a törvényes képviselő teszi meg, de az önkéntes szerződés megkötéséhez és módosításához az önkéntes beleegyezése szükséges.
 
 (5) Az önkéntes szerződést írásba kell foglalni, ha
 
-- a) az önkéntes szerződést határozatlan időre vagy legalább tíz napra – tizennyolcadik életévét be nem töltött önkéntes, illetve a korlátozottan cselekvőképes nagykorú önkéntes esetén legalább két napra – kötik,
+- a) az önkéntes szerződést határozatlan időre vagy legalább tíz napra – tizennyolcadik életévét be nem töltött önkéntes, illetve a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes esetén legalább két napra – kötik,
 - b) az önkéntes a 2. § (3) bekezdésének b)–h) pontja szerint juttatásban részesül,
 - c) az önkéntest engedélyköteles építési munkában való részvételre foglalkoztatják,
 - d) a közérdekű önkéntes tevékenységet külföldön végzik,
@@ -141,16 +141,16 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (2) Az önkéntes szerződést – ha jogszabály vagy az önkéntes szerződés másként nem rendelkezik – bármelyik fél azonnali hatállyal felmondhatja.
 
-(3) A korlátozottan cselekvőképes önkéntes az önkéntes szerződést a törvényes képviselője hozzájárulása nélkül is felmondhatja.
+(3) A korlátozottan cselekvőképes kiskorú önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes az önkéntes szerződést a törvényes képviselője hozzájárulása nélkül is felmondhatja.
 
-(4) A tizenhatodik életévét be nem töltött önkéntes és a korlátozottan cselekvőképes nagykorú önkéntes, illetve törvényes képviselője azonnali hatályú felmondáshoz való joga az önkéntes szerződésben nem korlátozható.
+(4) A tizenhatodik életévét be nem töltött önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes, illetve törvényes képviselője azonnali hatályú felmondáshoz való joga az önkéntes szerződésben nem korlátozható.
 
 8. § (1) A fogadó szervezet köteles biztosítani
 
 - a) az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeit,
 - b) a szükséges pihenőidőt,
 - c) a közérdekű önkéntes tevékenység ellátásához szükséges tájékoztatást és irányítást, az ismeretek megszerzését, valamint
-- d) tizennyolcadik életévét be nem töltött önkéntes, illetve a korlátozottan cselekvőképes nagykorú önkéntes esetén a közérdekű önkéntes tevékenység folyamatos, szakszerű felügyeletét.
+- d) tizennyolcadik életévét be nem töltött önkéntes, illetve a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes esetén a közérdekű önkéntes tevékenység folyamatos, szakszerű felügyeletét.
 
 (2) Ha az önkéntes szerződés másként nem rendelkezik, a fogadó szervezet gondoskodik
 
@@ -235,7 +235,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 - a) az önkéntes természetes személyazonosító adatait, valamint, ha az önkéntes nem magyar állampolgár, az állampolgárságát,
 - b) az önkéntes lakóhelyét, ennek hiányában tartózkodási, illetve szálláshelyét,
-- c) korlátozottan cselekvőképes és kiskorúsága miatt cselekvőképtelen önkéntes esetén a törvényes képviselő természetes személyazonosító adatait és lakóhelyét, ennek hiányában tartózkodási helyét,
+- c) kiskorú önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott önkéntes esetén a törvényes képviselő természetes személyazonosító adatait és lakóhelyét, ennek hiányában tartózkodási helyét,
 - d) a 6. § (1) bekezdésének a)–c) pontjában meghatározottakat,
 - e) a közérdekű önkéntes tevékenység megkezdésének időpontját,
 - f) határozott időre kötött önkéntes szerződés esetén azt az időpontot, amikor a szerződés hatálya megszűnik,
@@ -269,6 +269,6 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - 5. A fogadó szervezet nyilatkozata arról, hogy a fogadó szervezet kíván-e
 - 5.1. építésiengedély-köteles munkában való részvételre önkéntest foglalkoztatni, és ha igen, annak helyéről,
 - 5.2. tizennyolcadik életévét be nem töltött önkéntest foglalkoztatni,
-- 5.3. korlátozottan cselekvőképes nagykorú önkéntest foglalkoztatni,
+- 5.3. a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntest foglalkoztatni,
 - 5.4. külföldön végzendő közérdekű önkéntes tevékenységre önkéntest foglalkoztatni,
 - 5.5. olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt vagy letelepedett személyt.

@@ -197,7 +197,7 @@ a következő törvényt alkotja:
 
 (2)
 
-19. § E törvény alkalmazásában közeli hozzátartozó a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pontjában meghatározott személy.
+19. § E törvény alkalmazásában közeli hozzátartozó a Polgári Törvénykönyvben közeli hozzátartozóként vagy hozzátartozóként meghatározott személy.
 
 20. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosításáról szóló 2012. évi CC. törvénnyel (a továbbiakban: Mód.tv.) megállapított 11/A. §-t a Mód.tv. hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján megkötött támogatási szerződések alapján nyújtott támogatások a Mód.tv. hatálybalépését követő visszakövetelése esetén felszámítandó kamat esetén is alkalmazni kell.
 

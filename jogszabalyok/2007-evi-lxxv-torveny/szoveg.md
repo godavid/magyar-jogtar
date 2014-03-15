@@ -32,7 +32,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - 3. Egyeztető testület: a kamarán belül működtetett állandó fórum, amelynek célja elősegíteni a kamarai tagok egymás közötti, valamint a kamarai tagok és nem kamarai tagok közötti szakmai természetű viták rendezését.
 - 4. Érintett állami szerv: a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank, az államháztartás alrendszereinek szervezeteit érintően az Állami Számvevőszék.
 - 5. Gazdálkodó: a számvitelről szóló törvényben meghatározott fogalom.
-- 6. Gazdálkodó szervezet: a Polgári Törvénykönyvről szóló törvényben meghatározott fogalom.
+- 6. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 - 7. Gazdálkodó szervezet (szervezet): a gazdálkodó szervezet és a gazdálkodó szervezetnek nem minősülő külföldi illetőségű szervezet.
 - 8. Harmadik ország: az Európai Gazdasági Térségen kívüli állam.
 - 9. Harmadik országbeli könyvvizsgáló: olyan természetes személy, aki nem kamarai tag könyvvizsgáló, és harmadik országban rendelkezik jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosító engedéllyel.
@@ -223,7 +223,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
   - bb) szándékos bűncselekmény miatt kiszabott öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig,
 - c) aki az okleveles könyvvizsgálói szakképesítéshez kötött tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
-- d) aki cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll vagy gondnokság alá helyezés nélkül is cselekvőképtelen,
+- d) aki cselekvőképességet érintő gondnokság hatálya alatt áll vagy gondnokság alá helyezés nélkül is cselekvőképtelen,
 - e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat jogerőre emelkedésétől számított három évig,
 - f) aki az életmódja vagy magatartása miatt a könyvvizsgálói hivatás gyakorlásához szükséges közbizalomra érdemtelen.
 

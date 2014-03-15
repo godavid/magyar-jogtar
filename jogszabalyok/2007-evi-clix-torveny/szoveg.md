@@ -59,6 +59,7 @@ a viszontbiztosítókról
   - a) a pénz időértékének megfelelő explicit és anyagi ellenszolgáltatás,
   - b) szerződéses rendelkezések azzal a céllal, hogy a felek gazdasági eredményei a szerződés teljes időtartama alatt egyensúlyban legyenek, és ezáltal megvalósuljon a célzott kockázatáthárítás;
 - 22. fióktelep tagállama: az a tagállam, amelyben a kötelezettséget vállaló fióktelep található;
+- 22a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott fogalom;
 - 23. harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 - 24. harmadik országbeli viszontbiztosító: az a harmadik országbeli biztosítónak nem minősülő harmadik országbeli szervezet, amely a székhely szerinti ország jogszabályai alapján viszontbiztosítási tevékenységre jogosult és a székhely szerinti engedélyezési feltételek megfeleltethetők az e törvényben foglaltaknak;
 - 25. határon átnyúló szolgáltatás: az a szolgáltatás, amely esetében a viszontbiztosító tevékenységéhez kapcsolódó kötelezettségvállalás tagállama nem azonos azzal a tagállammal, ahol a viszontbiztosító székhelye, telephelye, főirodája található;
@@ -87,9 +88,9 @@ a viszontbiztosítókról
 - 48. ügyfél: a Bit.-ben meghatározott fogalom;
 - 49. ügymenet kiszervezése: a viszontbiztosító viszontbiztosítási tevékenysége valamely részének végzésére mást bíz meg;
 - 50. ügyvezető: a viszontbiztosító vezetésére kinevezett, a viszontbiztosítóval munkaviszonyban álló első számú vezető és helyettesei. A viszontbiztosító első számú vezetője a viszontbiztosító munkaszervezetének irányítója;
-- 51. üzleti titok: a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.) meghatározott fogalom;
+- 51.
 - 52. üzletszerű tevékenység: a Hpt.-ben meghatározott fogalom;
-- 53. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy bankgarancia;
+- 53. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy hitelintézet által vállalt garancia;
 - 54. vállalkozás: az üzletszerű gazdasági tevékenységet folytató gazdálkodó szervezet és a harmadik országbeli viszontbiztosító fióktelepe;
 - 55. vezető állású személy:
   - a) az igazgatóság tagjai, a felügyelő bizottság tagjai és az ügyvezető,
@@ -100,7 +101,7 @@ a viszontbiztosítókról
 - 59. viszontbiztosítói holding társaság: olyan – vegyes pénzügyi holding társaságnak nem minősülő – anyavállalat, amelynek alapvető tevékenysége részesedés megszerzése és birtoklása olyan leányvállalatban, amely viszontbiztosító vagy harmadik országbeli biztosító, és közülük legalább egy leányvállalat tagállami viszontbiztosító;
 - 60. zárt viszontbiztosító: olyan viszontbiztosító, amelynek célja viszontbiztosítási fedezet biztosítása kizárólag azon vállalkozás vagy vállalkozások kockázatai tekintetében, amelyeknek a zárt viszontbiztosító tulajdonát képezi, vagy azon csoport vállalkozása vagy vállalkozásainak kockázatai tekintetében, amelynek a zárt viszontbiztosító a tagja;
 - 61. ÁÉKBV: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott fogalom;
-- 62. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs.
+- 62. közeli hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott fogalom és az élettárs.
 - 63. büntetlen előéletű: akinek e törvényben külön nevesített tevékenység végzéséhez és vezető állás betöltéséhez feltétel a büntetlen előélet, annak büntetlen előéletét
   - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), a 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), az 1978. évi IV. törvény XVI. fejezetének III. címében, továbbá XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények,
   - b) az atomenergia alkalmazásával visszaélés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 252. §], a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §) a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények tekintetében kell – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvánnyal – igazolnia.
@@ -137,9 +138,9 @@ a viszontbiztosítókról
 
 (2) Az egyes szervezeti formákra
 
-- a) viszontbiztosító részvénytársaság esetén a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.),
-- b) viszontbiztosító szövetkezet esetén a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Szvt.),
-- c) fióktelep esetén a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
+- a) viszontbiztosító részvénytársaság esetén a Ptk. gazdasági társaságokra vonatkozó rendelkezéseit,
+- b) viszontbiztosító szövetkezet esetén a Ptk. szövetkezetekre vonatkozó rendelkezéseit,
+- c) fióktelep esetén a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 ### A viszontbiztosító részvénytársaság
 
@@ -157,15 +158,15 @@ a viszontbiztosítókról
 
 (2) A viszontbiztosító szövetkezet cégnevében, hirdetésében vagy bármely más módon használt elnevezésében köteles egyértelműen utalni arra, hogy szövetkezeti formában tevékenykedik.
 
-10. § (1) A viszontbiztosító szövetkezet tagjai által jegyzett, az alapításhoz minimálisan szükséges, 29. § szerinti részjegytőkén belül a pénzbeli hozzájárulásnak legalább 70 százalékot kell elérnie.
+10. § (1) A viszontbiztosító szövetkezet tagjai által jegyzett, az alapításhoz minimálisan szükséges, 29. § szerinti tőkén belül a pénzbeli hozzájárulásnak legalább 70 százalékot kell elérnie.
 
-(2) A 29. § szerinti részjegytőkén belüli nem pénzbeli hozzájárulásban nem szerepelhetnek az Szmt. szerinti immateriális javak.
+(2) A 29. § szerinti tőkén belüli nem pénzbeli hozzájárulásban nem szerepelhetnek az Szmt. szerinti immateriális javak.
 
-11. § (1) Egy részjegy névértéke legalább 10 ezer forint.
+11. § (1)
 
-(2) A viszontbiztosító szövetkezetnek a cégjegyzékbe történő bejegyzésére kizárólag akkor kerülhet sor, ha a részjegyek pénzbeli hányadát teljes egészében befizették.
+(2) A viszontbiztosító szövetkezetnek a cégjegyzékbe történő bejegyzésére kizárólag akkor kerülhet sor, ha a szövetkezeti vagyoni hozzájárulások pénzbeli hányadát teljes egészében befizették.
 
-12. § (1) Az Szvt. 14. §-ában foglaltakon felül meg kell határozni az alapszabályban
+12. § (1) A Ptk. 3:331. §-ában foglaltakon felül meg kell határozni az alapszabályban
 
 - a) a viszontbiztosító szövetkezet tevékenységi körét biztosítási ág szerint,
 - b) a viszontbiztosító szövetkezet adózott eredményének felhasználási elveit.
@@ -234,13 +235,13 @@ a viszontbiztosítókról
 
 22. § A viszontbiztosító alapítási engedély iránti kérelméhez mellékelni kell:
 
-- a) az alapítani tervezett viszontbiztosító – formájának, tevékenységi körének egyértelmű meghatározását tartalmazó – alapító okiratát (alapszabályát),
+- a) az alapítani tervezett viszontbiztosító – formájának, tevékenységi körének egyértelmű meghatározását tartalmazó – alapszabályát,
 - b) az ügyviteli szolgáltatások és az üzleti tevékenység biztosítását szolgáló szervezet felállításának költségeire vonatkozó előzetes számításokat és az ezeket a költségeket fedező pénzeszközök meglétének hitelintézeti igazolását,
-- c) a szervezeti felépítésre, az irányítási, döntési, ellenőrzési rendre, illetve a szervezeti és működési szabályzatra vonatkozó tervezet bemutatását, ha ezeket az alapító okirat részletesen nem tartalmazza,
+- c) a szervezeti felépítésre, az irányítási, döntési, ellenőrzési rendre, illetve a szervezeti és működési szabályzatra vonatkozó tervezet bemutatását, ha ezeket az alapszabály részletesen nem tartalmazza,
 - d) külföldi alapító esetében kézbesítési megbízottjáról szóló nyilatkozatot,
 - e) a kérelmező arra vonatkozó nyilatkozatát, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közölt a Felügyelettel,
 - f) viszontbiztosító részvénytársaság esetén tájékoztatást a részvényesekről, arról, hogy a részvényesek természetes vagy jogi személyek, a minősített befolyással rendelkező személyről és a minősített befolyás mértékéről,
-- g) viszontbiztosító szövetkezet esetén tájékoztatást a tagok személyéről, arról, hogy a tagok természetes vagy jogi személyek-e, illetve a tagok részjegyeinek névértékéről,
+- g) viszontbiztosító szövetkezet esetén tájékoztatást a tagok személyéről, arról, hogy a tagok természetes vagy jogi személyek-e, illetve a tagok szövetkezeti vagyoni hozzájárulásainak mértékéről,
 - h) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó viszontbiztosító esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a viszontbiztosítóval szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a viszontbiztosító összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja,
 - i) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó viszontbiztosító esetében a viszontbiztosítóval szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a viszontbiztosító részére átadott személyes adatainak az összevont alapú, illetőleg a kiegészítő felügyelet e törvény szerinti ellátása céljából történő kezeléséhez, illetőleg továbbításához.
 
@@ -295,7 +296,7 @@ a viszontbiztosítókról
 - a) a folyamatos nyilvántartási, adatfeldolgozási és adatszolgáltatási rendszer kiépítése, illetve a működési kockázatok csökkentését szolgáló információs és ellenőrzési rendszer kialakítása, valamint a rendkívüli helyzetek kezelésére vonatkozó terv elkészítése,
 - b) az adatvédelmet szolgáló (kézi és gépi) irattározás feltételeinek kialakítása.
 
-29. § (1) A viszontbiztosító tevékenységének megkezdésekor a viszontbiztosító részvénytársaságnak legalább olyan nagyságú jegyzett tőkével, a szövetkezetnek részjegytőkével, illetve a harmadik országbeli viszontbiztosító fióktelepének dotációs tőkével kell rendelkeznie, amely elegendő
+29. § (1) A viszontbiztosító tevékenységének megkezdésekor a viszontbiztosító részvénytársaságnak legalább olyan nagyságú jegyzett tőkével, a szövetkezetnek tőkével, illetve a harmadik országbeli viszontbiztosító fióktelepének dotációs tőkével kell rendelkeznie, amely elegendő
 
 - a) a működés megkezdéséhez szükséges személyi és tárgyi feltételek biztosítására, valamint
 - b) a tevékenység megkezdésekor felvállalt kockázatokból adódó kötelezettségek teljesítésére (minimális biztonsági tőkerész).
@@ -334,7 +335,7 @@ a viszontbiztosítókról
 
 31. § (1) Harmadik országbeli viszontbiztosító fióktelepe esetén a tevékenység megkezdésére vonatkozó engedély iránti kérelemnek – a 26. §-ban és a 29. §-ban foglaltak igazolásán túl – tartalmaznia kell:
 
-- a) a harmadik országban székhellyel rendelkező vállalkozás alapító okiratát, tevékenységi engedélyének másolatát, az előző 3 év auditált mérlegét,
+- a) a harmadik országban székhellyel rendelkező vállalkozás alapszabályát, tevékenységi engedélyének másolatát, az előző 3 év auditált mérlegét,
 - b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy a Magyarország területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező viszontbiztosító működését.
 
 (2) A harmadik országbeli viszontbiztosító fióktelepe esetén a tevékenységi engedélyt az (1) bekezdésben foglalt feltételek teljesülésén túl a Felügyelet abban az esetben adja meg, ha
@@ -384,7 +385,7 @@ a viszontbiztosítókról
 - a) a jegyzett tőkéjének felemelését vagy leszállítását,
 - b) a 47. §-a szerinti, a belső ellenőr személyére vonatkozó megállapodást,
 - c) külföldi állandó képviselete megnyitását, címének, fontosabb adatainak megváltozását vagy megszüntetését, illetve a vezető(k) személyének és adatainak megváltozását,
-- d) az alapszabály (alapító okirat) módosítását,
+- d) az alapszabály módosítását,
 - e) könyvvizsgálójának megválasztását.
 
 33. § A viszontbiztosító részvénytársaság a tudomásszerzést követő 15 munkanapon belül köteles a Felügyeletnek bejelenteni a tulajdoni viszonyaiban történt változásokat.
@@ -407,7 +408,7 @@ a viszontbiztosítókról
 
 38. § (1) A kiszervezett tevékenységet a Felügyelet a tevékenységet végzőnél ugyanazon módon és eszközökkel vizsgálhatja, mintha a tevékenységet a viszontbiztosító végezné.
 
-(2) A kiszervezett tevékenységgel harmadik személynek okozott bármely kárért a viszontbiztosító felel.
+(2) A kiszervezett tevékenységgel harmadik személynek okozott bármely kárért a viszontbiztosító felelős és a viszontbiztosító köteles a harmadik személynél felmerült sérelemdíjat megfizetni.
 
 (3) A viszontbiztosító felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. Amennyiben a viszontbiztosító észleli, hogy a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik, haladéktalanul köteles felszólítani a kiszervezett tevékenységet végzőt, hogy tevékenységét a jogszabálynak, illetve a szerződésnek megfelelően végezze. Amennyiben a felszólítás ellenére a kiszervezett tevékenységet végző a tevékenységet továbbra is jogszabálysértő, illetve ismételten vagy súlyosan szerződésszegő módon végzi, a viszontbiztosító köteles a szerződést azonnali hatállyal felmondani.
 
@@ -849,7 +850,7 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 75. § (1) A biztosítástechnikai tartalékok fedezetére bevonható eszközök esetében a következő elvek betartásával kell eljárni:
 
 - a) a biztosítástechnikai tartalékok fedezetét képező eszközöket nettó módon kell értékelni, levonva minden felmerült költséget, amely ezen eszközök megvételével, megszerzésével merült fel,
-- b) a gazdálkodó szervezetnek, az államnak, a nemzetközi szervezetnek, a helyi és regionális önkormányzatnak, vagy a természetes személynek nyújtott kölcsönök kizárólag akkor képezhetik a biztosítástechnikai tartalékok fedezetét, ha a kölcsönvevő megfelelő biztosítékot – ingatlanzálogjog, bankgarancia, biztosítás vagy egyéb biztosítékok – nyújt, kivételt képeznek ez alól a biztosítékkal nem fedezett kölcsönök,
+- b) a gazdálkodó szervezetnek, az államnak, a nemzetközi szervezetnek, a helyi és regionális önkormányzatnak, vagy a természetes személynek nyújtott kölcsönök kizárólag akkor képezhetik a biztosítástechnikai tartalékok fedezetét, ha a kölcsönvevő megfelelő biztosítékot – ingatlanzálogjog, hitelintézet által vállalt garancia, biztosítás vagy egyéb biztosítékok – nyújt, kivételt képeznek ez alól a biztosítékkal nem fedezett kölcsönök,
 - c) a harmadik féllel szembeni követeléseket a viszontkövetelések levonása után lehet a biztosítástechnikai tartalékok fedezetére bevonni.
 
 (2) A viszontbiztosító biztosítástechnikai tartalékának fedezetét nem képezheti jelzáloggal terhelt, továbbá olyan eszköz, amely felett a rendelkezési jog korlátozott.
@@ -875,7 +876,7 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 
 (4) A viszontbiztosító bruttó biztosítástechnikai tartalékainak 5 százalékáig fektethet be különleges célú gazdasági eszközbe.
 
-77. § Bankgaranciával, biztosítással, jelzáloggal vagy egyéb biztosítékkal nem fedezett kötvény, vagy más hitelviszonyt megtestesítő értékpapír és kölcsön, valamint szabályozott piacra be nem vezetett részvény és kötvény együttesen a matematikai tartalékok fedezetéül szolgáló pénzeszközök legfeljebb 15 százalékát tehetik ki.
+77. § Hitelintézet által vállalt garanciával, biztosítással, jelzáloggal vagy egyéb biztosítékkal nem fedezett kötvény, vagy más hitelviszonyt megtestesítő értékpapír és kölcsön, valamint szabályozott piacra be nem vezetett részvény és kötvény együttesen a matematikai tartalékok fedezetéül szolgáló pénzeszközök legfeljebb 15 százalékát tehetik ki.
 
 78. § A derivatív eszközök értékelésénél az óvatosság elve szerint kell eljárni és ezen eszközök figyelembe veendők az alaptermék értékelésekor.
 
@@ -1150,7 +1151,7 @@ megküldeni.
 - e) a viszontbiztosítási tevékenységgel kapcsolatos ügyletek (viszontbiztosítási és továbbengedményezési műveletek),
 - f) a költségek megosztása.
 
-(3) A viszontbiztosító a jegyzett tőkéjének (részjegytőkéjének, induló tőkéjének) 5 százalékát meghaladó értékű, (1) bekezdés szerinti ügyletekről az összevont alapú felügyeleti adatszolgáltatásról szóló, a miniszter által kiadott rendelet rendelkezéseinek megfelelően a negyedéves adatszolgáltatás, illetve az éves beszámoló keretében küld jelentést a Felügyeletnek.
+(3) A viszontbiztosító a jegyzett tőkéjének (tőkéjének, induló tőkéjének) 5 százalékát meghaladó értékű, (1) bekezdés szerinti ügyletekről az összevont alapú felügyeleti adatszolgáltatásról szóló, a miniszter által kiadott rendelet rendelkezéseinek megfelelően a negyedéves adatszolgáltatás, illetve az éves beszámoló keretében küld jelentést a Felügyeletnek.
 
 (4) A viszontbiztosítónak rendelkeznie kell olyan kockázatkezelési eljárással és belső ellenőrzési rendszerrel, beleértve a számviteli politikáját és a beszámolási rendszerét, amely alkalmas az (1) és (2) bekezdés szerinti ügylet meghatározására, mérésére és ellenőrzésére.
 
@@ -1452,7 +1453,7 @@ rendeletben szabályozza.
 
 156. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) Az Európai Parlament és a Tanács 1998. október 27-i 98/78/EK irányelve a biztosítási vagy viszontbiztosítási csoportok biztosítóinak, illetve viszontbiztosítóinak kiegészítő felügyeletéről.
+- a) Az Európai Parlament és a Tanács 1998. október 27-i 98/78/EK irányelve a biztosítási csoportok biztosítóinak és viszontbiztosítóinak kiegészítő felügyeletéről.
 - b) Az Európai Parlament és a Tanács 2005. november 16-i 2005/68/EK irányelve a viszontbiztosításról és a 73/239/EGK, a 92/49/EGK tanácsi irányelv, valamint a 98/78/EK és a 2002/83/EK irányelv módosításáról.
 - c) Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
 - d) Az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.

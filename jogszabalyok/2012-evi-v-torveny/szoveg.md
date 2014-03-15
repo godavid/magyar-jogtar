@@ -149,6 +149,8 @@ terjed ki.
 
 (6) A (4) bekezdés szerinti jogviszony megszűnés esetén a jogutód államigazgatási szerv a nyilatkozattétel napjával, illetve ha a kormánytisztviselő a (4) bekezdésben meghatározott időpontig nem nyilatkozik, 2014. január 16-ától mentesítheti a kormánytisztviselőt a munkavégzési kötelezettség alól. A kormánytisztviselőt jogviszonya megszűnéséig legalább egy hónapra mentesíteni kell a munkavégzési kötelezettség alól. A kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés időtartamára illetményre jogosult. A Kttv. 85. § (2) és (3) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a munkavégzési kötelezettség alól mentesített kormánytisztviselővel szemben. A munkavégzés alól a kormánytisztviselőt a kívánságának megfelelően – legfeljebb két részletben – kell mentesíteni.
 
+19/F. § A Kttv.-nek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított, a személyiségi jogok megsértésével kapcsolatos jogkövetkezményekre vonatkozó szabályait a 2014. március 15-én és ezt követően történt jogsértésekre kell alkalmazni.
+
 #### 2. A közszolgálati tisztviselőkről szóló törvényhez kapcsolódó egyes törvények módosítása
 
 20–34. §

@@ -13,11 +13,14 @@ Az Országgyűlés az agrár- és élelmiszergazdaság, valamint a vidékfejlesz
 - a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, illetve székhellyel vagy telephellyel rendelkező agrárgazdasági tevékenységet folytató őstermelő vagy egyéni vállalkozó;
 - b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező
   - ba) élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató,
-  - bb) a ba) pont szerinti feltételek hiányában agrárgazdasági tevékenységet főtevékenységként folytató jogi személy vagy jogi személyiség nélküli gazdasági társaság, egyéb állami gazdálkodó szerv, egyéni cég, szövetkezet, egyesülés, egyes jogi személyek vállalata, leányvállalat, erdőbirtokossági társulat, európai szövetkezet, európai részvénytársaság;
+  - bb) a ba) pont szerinti feltételek hiányában agrárgazdasági tevékenységet főtevékenységként folytató,
+
+Polgári Törvénykönyv szerinti vállalkozás;
+
 - c) agrárkamara tagja: a kamarai tagjegyzékbe bejegyzett gazda, gazdálkodó szervezet;
 - d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek, a mezőgazdasági termelés, a mezőgazdasági termékek feldolgozása, a szőlő termelése, feldolgozása, az erdőgazdálkodás, a halgazdálkodás, a vadgazdálkodás, az élelmiszer feldolgozása, valamint az ezekhez kapcsolódó, közvetlen ipari, kereskedelmi, szolgáltató tevékenységek, amelyekre vonatkozóan közigazgatási szerv nyilvántartási kötelezettsége kiterjed;
 - e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
-- f) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerint meghatározott személy;
+- f) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó;
 - g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
 - h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
 - i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg.
@@ -322,16 +325,7 @@ használhatja fel.
 
 (7) Az agrárkamara külön jogszabályban meghatározott egyes igazgatási feladatait a falugazdász hálózat útján látja el.
 
-14/A. § (1) Amennyiben fajta és mennyiség szerint meghatározott mezőgazdasági termény tulajdonának betakarítást követő időpontban történő átruházására olyan általános szerződési feltétel alapján kerül sor, amelynek megkötésére még a termés betakarítása előtt került sor, az agrárkamara kérheti a bíróságtól az általános szerződési feltétel tisztességtelen kikötésére történő hivatkozással annak érvénytelenségének megállapítását.
-
-(2) Az (1) bekezdésben foglaltak nem alkalmazhatók
-
-- a) ha a mennyiség meghatározására meghatározott területen megtermelt összes terményre, vagy az összes termény meghatározott hányada alapján kerül sor, vagy
-- b) az árutőzsdei kereskedőcégek egymás közti szerződéseinél.
-
-(3) Az (1) bekezdés szerinti eljárás jogerős befejezéséig az általános szerződési feltétel teljesítésével összefüggésben bíróság, választottbíróság előtt folyamatban levő tárgyalást erre irányuló kérelem esetén fel kell függeszteni.
-
-(4) Az agrárkamara megalakulásáig az (1) bekezdés szerinti jogkört a Magyar Agrárkamara gyakorolja.
+14/A. §
 
 15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
 
@@ -552,7 +546,7 @@ használhatja fel.
 
 (5) A tisztségviselő azonos agrárkamarai szervezeten belül egyidejűleg egy agrárkamarai tisztséget tölthet be és egy szavazati jog illeti meg. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet főigazgatója.
 
-(6) Az elnökségnek, az etikai és a felügyelő bizottságnak a tagjai nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
+(6) Az elnökségnek, az etikai és a felügyelő bizottságnak a tagjai nem lehetnek egymásnak közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 
 (7) A (2), (3), (5) és (6) bekezdésben megjelölt összeférhetetlenségi ok fennállásáról az érintett a megválasztása előtt köteles nyilatkozni. Nyilatkozatában egyúttal vállalja, hogy megválasztása esetén harminc napon belül az összeférhetetlenségi okot megszünteti. Amennyiben az összeférhetetlenség a választást követően merül fel, az érintett az attól számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni. Az összeférhetetlenség megszüntetéséről az érintett a választására jogosult testületet haladéktalanul tájékoztatja.
 

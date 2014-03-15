@@ -234,7 +234,7 @@ megnöveli.
 - 9. befektetési vállalkozás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) szerinti befektetési vállalkozás;
 - 10. tőzsde: a tőkepiacról szóló törvény (a továbbiakban: Tpt.) szerinti tőzsde;
 - 11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
-- 12. kockázati tőkealap-kezelő: a Tpt. szerinti kockázati tőkealap-kezelő;
+- 12. kockázati tőkealap-kezelő: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti kockázati tőkealap-kezelő;
 - 13. befektetési alapkezelő: a Tpt. szerinti befektetési alapkezelő;
 - 14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege (a mérlegfőösszeg), csökkentve
   - a) a bankközi hitelből eredő, belföldön székhellyel rendelkező adóssal szemben, vagy belföldön fiókteleppel rendelkező adóssal szemben e fióktelep útján fennálló követeléssel,

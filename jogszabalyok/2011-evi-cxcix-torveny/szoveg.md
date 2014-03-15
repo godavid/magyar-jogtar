@@ -50,7 +50,7 @@ terjed ki.
 
 6. § E törvény alkalmazásában
 
-- 1. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, áthelyezés, fegyelmi és kártérítési eljárás megindítása, fegyelmi büntetés, kártérítés, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
+- 1. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, áthelyezés, fegyelmi és kártérítési eljárás, valamint sérelemdíj megfizetésére irányuló eljárás megindítása, fegyelmi büntetés, kártérítés, sérelemdíj, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
 - 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
 - 4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), közalkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony és a közérdekű önkéntes tevékenység végzésére irányuló jogviszony;
@@ -73,6 +73,7 @@ terjed ki.
 - 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 - 19. közszolgálati szabályzat: a közigazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szerv vezetőjének általános munkáltatói szabályozási hatáskörbe tartozó kérdésekben kiadott normatív utasítás;
 - 20. közszolgálati tisztviselő: a kormánytisztviselő, kormányzati ügykezelő, köztisztviselő, közszolgálati ügykezelő;
+- 20a. levonásmentes illetményrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész;
 - 21. Magyar Kormánytisztviselői Kar tagozata: a központi és a területi államigazgatásban foglalkoztatott kormánytisztviselőknek a Magyar Kormánytisztviselői Kar alapszabályában meghatározott résztestületei;
 - 22. Magyar Kormánytisztviselői Kar: szakmai érdek-képviseleti szerv, a kormánytisztviselők önkormányzattal rendelkező szakmai, érdek-képviseleti köztestülete;
 - 23. munkaidő: a munkavégzésre előírt idő kezdetétől annak befejezéséig tartó idő, valamint a munkavégzéshez kapcsolódó előkészítő és befejező tevékenység időtartama. Nem munkaidő a közszolgálati tisztviselő lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás időtartama;
@@ -143,21 +144,32 @@ terjed ki.
 
 (4) E törvény rendelkezéseitől csak abban az esetben lehet eltérni, ha azt a törvény kifejezetten megengedi.
 
-10. § (1) Tilos a rendeltetésellenes joggyakorlás. E törvény alkalmazásában rendeltetésellenes a jog gyakorlása különösen akkor, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul, vagy ehhez vezet.
+10. § (1) Tilos a joggal való visszaélés. E törvény alkalmazásában joggal való visszaélés különösen, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul vagy ehhez vezet.
 
 (2) A közszolgálati tisztviselő a munkaidején kívül sem tanúsíthat olyan magatartást, amely – különösen munkakörének jellege, a munkáltató szervezetében elfoglalt helye alapján – közvetlenül és ténylegesen alkalmas munkáltatója helytelen megítélésére, az általa betöltött beosztás tekintélyének, a munkáltató jó hírnevének, a jó közigazgatásba vetett társadalmi bizalomnak, valamint a közszolgálat céljának veszélyeztetésére.
 
 (3) A közszolgálati tisztviselő köteles megtartani a minősített adatot. Ezen túlmenően illetéktelen személynek és szervnek nem adhat tájékoztatást olyan tényekről, amelyek tevékenysége során jutottak tudomására és kiszolgáltatásuk az állam, a közigazgatási szerv, munkatársa vagy az állampolgár számára hátrányos vagy jogellenesen előnyös következményekkel járna.
 
-### A személyhez fűződő jogok védelme
+(4) Ha a joggal való visszaélés e törvény vagy e törvény végrehajtására kiadott jogszabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás a közszolgálat nyomós érdekét vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
 
-11. § (1) Az e törvény hatálya alá tartozók személyhez fűződő jogait tiszteletben kell tartani.
+### A személyiségi jogok védelme
 
-(2) A közszolgálati tisztviselő személyhez fűződő joga akkor korlátozható, ha a korlátozás a közszolgálat rendeltetésével közvetlenül összefüggő okból feltétlenül szükséges és a cél elérésével arányos. A személyhez fűződő jog korlátozásának módjáról, feltételeiről és várható tartamáról a közszolgálati tisztviselőt előzetesen tájékoztatni kell.
+11. § (1) Az e törvény hatálya alá tartozók személyiségi jogait tiszteletben kell tartani.
 
-(3) A közszolgálati tisztviselő a személyhez fűződő jogáról általános jelleggel előre nem mondhat le. A közszolgálati tisztviselő személyhez fűződő jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
+(2) A közszolgálati tisztviselő személyiségi joga akkor korlátozható, ha a korlátozás a közszolgálat rendeltetésével közvetlenül összefüggő okból feltétlenül szükséges és a cél elérésével arányos. A személyiségi jog korlátozásának módjáról, feltételeiről és várható tartamáról a közszolgálati tisztviselőt előzetesen tájékoztatni kell.
 
-12. § (1) A közszolgálati tisztviselőtől csak olyan nyilatkozat megtétele vagy adat közlése kérhető, illetve vele szemben csak olyan alkalmassági vizsgálat alkalmazható, amely személyhez fűződő jogait nem sérti, és a közszolgálat létesítése, teljesítése vagy megszűnése szempontjából lényeges.
+(3) A közszolgálati tisztviselő a személyiségi jogáról általános jelleggel előre nem mondhat le. A közszolgálati tisztviselő személyiségi jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
+
+(4) Az e törvény hatálya alá tartozók személyiségi jogainak megsértése esetén jogkövetkezményként a Polgári Törvénykönyv (a továbbiakban: Ptk.)
+
+- a) 2:51. § (1) bekezdését, 2:52. § (1) bekezdését kell alkalmazni, továbbá
+- b) 2:52. § (2) és (3) bekezdését, valamint 2:53. §-át azzal az eltéréssel kell alkalmazni, hogy e rendelkezések alkalmazásakor e törvény kártérítési felelősségre vonatkozó szabályai az irányadók.
+
+(5) A közszolgálati tisztviselő sérelemdíj megfizetésére kötelezésére a fegyelmi eljárásra kormányrendeletben meghatározott szabályokat kell alkalmazni azzal az eltéréssel, hogy az eljárás megindítására az elévülésre vonatkozó rendelkezések az irányadók.
+
+(6) Az (5) bekezdéstől eltérően, ha a közszolgálati tisztviselő jogviszonya megszűnik, a munkáltató a közszolgálati tisztviselő sérelemdíj megfizetésére kötelezése érdekében közvetlenül bírósághoz fordulhat.
+
+12. § (1) A közszolgálati tisztviselőtől csak olyan nyilatkozat megtétele vagy adat közlése kérhető, illetve vele szemben csak olyan alkalmassági vizsgálat alkalmazható, amely személyiségi jogait nem sérti, és a közszolgálat létesítése, teljesítése vagy megszűnése szempontjából lényeges.
 
 (2) A munkáltató a közszolgálati tisztviselőt csak a közszolgálattal összefüggő magatartása körében ellenőrizheti. A munkáltató ellenőrzése és az annak során alkalmazott eszközök, módszerek nem járhatnak az emberi méltóság megsértésével. A közszolgálati tisztviselő magánélete nem ellenőrizhető.
 
@@ -227,7 +239,9 @@ terjed ki.
 
 (2) A megállapodásban meg kell jelölni a felek nevét, továbbá a megállapodás teljesítése szempontjából lényeges adatait.
 
-(3) A kinevezés és annak elfogadása, a kinevezés módosítása, a közszolgálat megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, kártérítési ügyben hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás kivételével írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+(3) A kinevezés és annak elfogadása, a kinevezés módosítása, a közszolgálat megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás kivételével írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+
+(4) A nyilatkozatevő személyének (3) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírásról szóló törvény szerinti elektronikus aláírása vagy minősített elektronikus aláírása.
 
 ### A jognyilatkozat közlése
 
@@ -276,17 +290,25 @@ terjed ki.
 
 ### A megtámadhatóság
 
-24. § (1) A megállapodás megtámadható, ha a fél annak megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy a tévedését a másik fél okozta vagy azt felismerhette, vagy, ha mindkét fél ugyanabban a téves feltevésben volt. Jogi kérdésben való tévedés címén a megállapodást akkor lehet megtámadni, ha a tévedés lényeges volt és a munkakörében eljáró jogi szakértő a feleknek együttesen adott a jogszabályok tartalmára nézve nyilvánvalóan téves tájékoztatást.
+24. § (1) A megállapodás megtámadható, ha a fél a megállapodás megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy a tévedését a másik fél okozta vagy azt felismerhette, vagy ha a felek a megállapodás megkötésekor lényeges tényben vagy körülményben ugyanabban a téves feltevésben voltak, vagy ha a megállapodás megkötésére a felet megtévesztéssel vagy jogellenes fenyegetéssel vették rá.
 
-(2) Megtámadható a megállapodás akkor is, ha annak megtételére a felet jogellenes fenyegetéssel vagy kényszerítéssel vették rá.
+(2) Az (1) bekezdés alkalmazásában lényeges tényre vagy körülményre vonatkozik a tévedés, illetve téves feltevés akkor, ha annak ismeretében a fél nem vagy más tartalommal kötötte volna meg a megállapodást.
 
-(3) A megállapodást az támadhatja meg, akit a jognyilatkozat megtételére jogellenes fenyegetéssel, kényszerítéssel vettek rá, vagy az, aki tévedésben, téves feltevésben volt.
+(3) A megállapodást megtámadhatja, aki a megállapodás megkötésekor tévedésben vagy téves feltevésben volt.
 
-(4) A megtámadás határideje harminc nap, amely a tévedés felismerésétől, vagy jogellenes fenyegetés, kényszerítés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a megtámadás joga nem gyakorolható.
+(4) A megtévesztés hatására kötött megállapodást megtámadhatja, akit a másik fél szándékos magatartásával tévedésbe ejt vagy tévedésben tart.
 
-(5) A megtámadásra irányuló jognyilatkozatot a (4) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+(5) A megállapodást megtámadhatja, akit a másik fél jogellenes fenyegetéssel vett rá a megállapodás megkötésére.
 
-(6) A sikeresen megtámadott megállapodás érvénytelen.
+(6) A (4) és (5) bekezdésben foglalt szabályokat kell alkalmazni, ha a megtévesztés vagy jogellenes fenyegetés harmadik személy részéről történt és erről a másik fél tudott vagy tudnia kellett.
+
+(7) A megtámadás határideje harminc nap, amely a tévedés, megtévesztés, téves feltevés felismerésétől, vagy jogellenes fenyegetés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a megtámadás joga nem gyakorolható.
+
+(8) A megtámadásra irányuló jognyilatkozatot a (7) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+
+(9) A sikeresen megtámadott megállapodás érvénytelen.
+
+(10) A fél titkos fenntartása vagy rejtett indoka a megállapodás érvényességét nem érinti.
 
 ### Az érvénytelenség jogkövetkezménye
 
@@ -383,7 +405,7 @@ terjed ki.
 
 (9) Az MKK-tagja olyan tényt, információt, megoldást vagy adatot, amelyet az államigazgatási szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei, illetve működése védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
 
-(10) Az MKK-tagja a tevékenysége során tudomására jutott információkat csak az államigazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
+(10) Az MKK-tagja a tevékenysége során tudomására jutott információkat csak az államigazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra.
 
 ### Az MKK szervezete, működése
 
@@ -1309,7 +1331,7 @@ alakul át.
 
 (6) A munkáltató személyében bekövetkező változás esetén a tanulmányi szerződésből származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
 
-(7) Amennyiben a munkáltató a támogatást nem biztosítja, vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő mentesül a szerződésből folyó kötelezettségei alól, és a szerződésszegésből eredő esetleges kárát érvényesítheti.
+(7) Amennyiben a munkáltató a támogatást nem biztosítja vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő mentesül a szerződésből folyó kötelezettségei alól.
 
 (8) Ha a támogatásban részesülő kormánytisztviselő tanulmányait nem megfelelő eredménnyel folytatja, nem lép a szerződés szerinti időpontban a munkáltatónál munkába, illetőleg a meghatározott időtartamot nem tölti le, vagy egyéb lényeges szerződésszegést követ el, a munkáltató követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését.
 
@@ -1318,6 +1340,10 @@ alakul át.
 (10) A tanulmányi szerződést mindkét fél felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a tanulmányi szerződésből eredő kötelezettség teljesítését lehetetlenné tenné, vagy annak teljesítése aránytalan sérelemmel járna.
 
 (11) A kormánytisztviselő felmondása esetén a munkáltató az általa nyújtott támogatást visszakövetelheti. A munkáltató a támogatást arányosan követelheti vissza, ha a kormánytisztviselő a szerződésben kikötött tartamnak csak egy részét tölti le. A munkáltató felmondása esetén a támogatás nem követelhető vissza.
+
+(12) Bármely fél szerződésszegése esetén a másik fél a szerződésszegésből eredő esetleges kárát a Ptk. szerződésszegéssel okozott károkért való felelősségre vonatkozó rendelkezései alapján érvényesítheti.
+
+(13) A felek tanulmányi szerződéssel kapcsolatos személyiségi jogainak megsértése esetén jogkövetkezményként a Ptk. 2:51.–2:53. §-át kell alkalmazni.
 
 ### A kormánytisztviselői hivatás etikai alapelvei
 
@@ -2128,7 +2154,7 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 
 (7) Az illetményt, ha az illetményfizetési nap heti pihenőnapra (heti pihenőidőre) vagy munkaszüneti napra esik, legkésőbb az ezt megelőző munkanapon kell kifizetni.
 
-147. § A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot kell fizetni.
+147. § A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű kamatot kell fizetni.
 
 ### Elszámolás
 
@@ -2154,7 +2180,13 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 
 (9) A kormánytisztviselő az illetményére vonatkozó igényéről – az egyezséget kivéve – előre nem mondhat le.
 
-(10) A levonásmentes illetményrész nem engedményezhető.
+(10) Engedményezésnek pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető.
+
+(11) Tartozásátvállalásnak pénzkövetelés esetén van helye. Munkáltatói tartozást a kormánytisztviselő nem vállalhat át.
+
+### Kamat
+
+149/A. § A kormánytisztviselő és a munkáltató megállapodása alapján pénztartozás után kamat köthető ki, feltéve, hogy annak mértéke nem haladja meg a Ptk. 6:47. §-a szerinti mértéket.
 
 ### Egyéb juttatások
 
@@ -2361,9 +2393,13 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 (3) Amennyiben a kárt többen szándékosan okozták, egyetemleges kötelezésnek van helye.
 
-164. § (1) A kárért felelős kormánytisztviselő köteles az eredeti állapotot helyreállítani, ha pedig ez nem lehetséges, vagy a munkáltató azt alapos okból nem kívánja, köteles a munkáltató vagyoni és nem vagyoni kárát megtéríteni.
+164. § (1) Kártérítés címén a károkozó kormánytisztviselő köteles megtéríteni
 
-(2) Kártérítés címén a károkozó körülmény folytán a munkáltató vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a munkáltatót ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+- a) a munkáltató vagyonában beállott értékcsökkenést,
+- b) az elmaradt vagyoni előnyt, és
+- c) a munkáltatót ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
+
+(2)
 
 (3) A kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
 
@@ -2406,7 +2442,7 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 (2) A kormányzati szolgálati jogviszonyon kívül elmaradt jövedelemként a sérelem folytán elmaradt egyéb rendszeres, jogszerűen megszerzett jövedelmet kell megtéríteni.
 
-(3) Meg kell téríteni azt a kárt is, amelyet a kormánytisztviselő a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el, valamint a kormánytisztviselőnek azt a kárát is, amely nem vagyoni kár.
+(3) Meg kell téríteni azt a kárt is, amelyet a kormánytisztviselő a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el.
 
 (4) Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén kapott összeget.
 
@@ -2418,12 +2454,14 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 (2) Az eltartott hozzátartozó, ha a károkozással összefüggésben a kormánytisztviselő meghal, az (1) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségletének – a tényleges vagy az elvárhatóan elérhető illetményét, jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
 
-171. § A kártérítés összegének kiszámításánál le kell vonni
+171. § (1) A kártérítés összegének kiszámításánál le kell vonni
 
-- a) a társadalombiztosítás vagy az önkéntes kölcsönös biztosító pénztár által nyújtott ellátást;
-- b) amit a kormánytisztviselő megkeresett vagy az adott helyzetben elvárhatóan megkereshetett volna;
-- c) amihez a kormánytisztviselő (hozzátartozója) a megrongálódott dolog hasznosításával hozzájutott;
+- a) a társadalombiztosítás vagy az önkéntes kölcsönös biztosító pénztár által nyújtott ellátást,
+- b) amit a kormánytisztviselő megkeresett vagy az adott helyzetben elvárhatóan megkereshetett volna,
+- c) amihez a kormánytisztviselő (hozzátartozója) a megrongálódott dolog hasznosításával hozzájutott,
 - d) amihez a jogosult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá.
+
+(2) A kártérítés alapjául szolgáló jövedelem meghatározásánál a jövedelmet – a jogosultat a társadalombiztosítási szabályok szerint terhelő – járulékkal csökkentett összegben kell figyelembe venni.
 
 172. § (1) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani akkor, ha a kártérítés a kormánytisztviselő vagy vele szemben tartásra jogosult hozzátartozója tartását vagy tartásának kiegészítését hivatott szolgálni.
 
@@ -2651,7 +2689,10 @@ terjed ki.
 - b) az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítással;
 - c) a minősítés, a teljesítményértékelés megállapításaival;
 - d) a fegyelmi és kártérítési ügyben hozott határozattal;
-- e) a kinevezés egyoldalú módosításával kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
+- e) a kinevezés egyoldalú módosításával;
+- f) a sérelemdíj megfizetése ügyében hozott határozattal
+
+kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
 
 (3) A kormánytisztviselő közvetlenül a bírósághoz fordulhat keresetével
 
@@ -2702,7 +2743,11 @@ terjed ki.
 
 (2) A bűncselekménnyel okozott kár megtérítésére irányuló igény öt év, ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
+(2a) A bűncselekménnyel okozott személyiségi jogi sérelem miatt fizetendő sérelemdíj iránti igény öt év, ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+
 (3) A kártérítés – e törvény eltérő rendelkezése hiányában – a károkozás bekövetkeztekor nyomban esedékes.
+
+(3a) A sérelemdíj – e törvény eltérő rendelkezése hiányában – a személyiségi jogi sérelem bekövetkezésekor nyomban esedékes.
 
 (4) Az igény elévülése az esedékessé válástól kezdődik. Az igény elévülését hivatalból kell figyelembe venni.
 
@@ -2768,7 +2813,7 @@ terjed ki.
 
 (3) A szakszervezet nevében vagy érdekében eljáró személy olyan tényt, információt, megoldást vagy adatot, amelyet az államigazgatási szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei, illetve működése védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
 
-(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak az államigazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
+(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak az államigazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra.
 
 (5) Az e törvényben a szakszervezet számára biztosított jogok az államigazgatási szervnél képviselettel rendelkező helyi szakszervezetet illetik meg.
 
@@ -3287,7 +3332,10 @@ A már megállapított vezetői illetménypótlék nem csökkenthető.
 - c) a minősítés és a teljesítményértékelés megállapításaival,
 - d) a fegyelmi és kártérítési ügyben hozott határozattal,
 - e) a kinevezés egyoldalú módosításával,
-- f) a fizetési felszólítással kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
+- f) a fizetési felszólítással,
+- g) a sérelemdíj megfizetése ügyében hozott határozattal
+
+kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
 
 (4) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
 

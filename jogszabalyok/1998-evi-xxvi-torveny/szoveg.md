@@ -330,7 +330,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### VIII. Fejezet — A FOGYATÉKOS SZEMÉLYEKET MEGILLETŐ JOGOK VÉDELME, TOVÁBBÁ A TÖRVÉNYBŐL FAKADÓ FELADATOK KÖTELEZETTJE
 
-27. § Amennyiben valakit fogyatékossága miatt jogellenesen hátrány ér, megilletik mindazok a jogok, amelyek a személyhez fűződő jogok sérelme esetén irányadók.
+27. § Amennyiben valakit fogyatékossága miatt jogellenesen hátrány ér, megilletik mindazok a jogok, amelyek a személyiségi jogok sérelme esetén irányadók.
 
 27/A. § A fogyatékos személyek jogainak előmozdítása, életminőségük javítása, önálló életvitelük támogatása és az e törvényben megfogalmazott egyéb célok, feladatok megvalósítása érdekében nyújtott, európai uniós forrásból finanszírozott, illetve hazai költségvetési támogatás esetén a társadalmi esélyegyenlőség előmozdításáért felelős miniszter döntése alapján a képviseletében eljáró közreműködő szervezetként a szakmai felügyelete alatt álló, a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott szervezet jár el.
 

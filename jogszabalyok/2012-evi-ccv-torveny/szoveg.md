@@ -10,9 +10,9 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 1. § (1) E törvény hatálya a hivatásos és a szerződéses állományú katonákra (a továbbiakban együtt: állomány tagja), a tényleges szolgálatot teljesítő önkéntes tartalékos katonákra, a honvéd tisztjelöltekre, és a honvéd altiszt-jelöltekre terjed ki.
 
-(2) E törvény hatálya az önkéntes tartalékos katonákra a rendelkezésre állás időszakában, a nyugállományú katonákra, valamint az állomány tagja és a nyugállományú katonák közeli hozzátartozójára akkor terjed ki, ha ezt a törvény elrendeli.
+(2) E törvény hatálya az önkéntes tartalékos katonákra a rendelkezésre állás időszakában, a nyugállományú katonákra, valamint az állomány tagja és a nyugállományú katonák közeli hozzátartozójára, élettársára akkor terjed ki, ha ezt a törvény elrendeli.
 
-(3) A 178. § és a 238. § (2) bekezdés 35. pontjának hatálya kiterjed a hadkötelezettség alapján szolgálatot teljesített személyekre és közeli hozzátartozójukra.
+(3) A 178. § és a 238. § (2) bekezdés 35. pontjának hatálya kiterjed a hadkötelezettség alapján szolgálatot teljesített személyekre, közeli hozzátartozójukra és élettársukra.
 
 2. § E törvény alkalmazásában
 
@@ -41,7 +41,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 - 17. jognyilatkozat: a 29. pont a), b), és d) alpontja szerinti munkáltatói döntések, a döntési lapról készített határozat, a megállapodás, a szerződés, a tanulmányi szerződés, az ösztöndíjszerződés, valamint minden olyan nyilatkozat, amelyből jogok és kötelezettségek származnak,
 - 18. képzés: iskolai végzettség, szakképzettség, szakképesítés, tanfolyami végzettség vagy képzettség megszerzésére irányuló, hazai vagy külföldi, iskolarendszerű vagy iskolarendszeren kívüli oktatás, továbbképzés és átképzés,
 - 19. kötelezően szolgálati viszonyban töltendő idő: az a jognyilatkozatban meghatározott időtartam, amely alatt a Honvédség által támogatott képzésben, a honvéd tisztképzésben vagy a katonai szakképzésben részt vevő személy szolgálati viszonyát köteles fenntartani,
-- 20. közeli hozzátartozó: a házastárs, az egyenes ágbeli rokon, a házastárs egyenes ágbeli rokona, az örökbefogadott, a mostoha és a nevelt gyermek, az örökbefogadó, a mostoha és a nevelő szülő, a testvér, valamint az élettárs,
+- 20. közeli hozzátartozó: a házastárs, az egyenes ágbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelő szülő, a testvér,
 - 21. közkatona: a szerződéses pályakezdő kivételével az a katona, aki rendfokozat nélkül teljesít szolgálatot,
 - 22. legénységi állomány tagja: a közkatona és az 1. melléklet szerinti tisztesi rendfokozattal rendelkező szerződéses katona,
 - 23. magasabb beosztás: az a státusz, amely
@@ -50,7 +50,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
   - c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összevetése alapján magasabbnak minősül,
 - 24. más kereső tevékenység: a munkaviszony, a munkavégzési kötelezettséggel járó szövetkezeti tagsági viszony, a vállalkozási és a megbízási szerződés, a gazdasági társaság tagja esetén a tényleges személyes közreműködés, a vezető tisztségviselői vagy a felügyelő bizottsági tagsági tevékenység ellátására irányuló jogviszony, az egyéni vállalkozási tevékenység, az egyéni cég tagjaként végzett tevékenység, az ügyvédi tevékenység, valamint a tudományos, az oktatói, a művészeti, a lektori, a szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszony,
 - 25. Magyarországon települő katonai szervezet: nemzetközi szervezet döntése vagy nemzetközi megállapodás alapján létrehozott, Magyarországon települő olyan szervezet vagy alakulat, amely a létrehozó szervezet tagállamai vagy a részes államok érdekében katonai feladatot hajt végre,
-- 26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a Miniszterelnökség, a minisztériumok, a kormányhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetek, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédségi szervezetnek minősülő szervezeteket, a minisztériumok védelmi igazgatással foglalkozó szervezeti elemeit, a megyei és a fővárosi védelmi bizottságok titkárságait, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
+- 26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a Miniszterelnökség, a minisztériumok, a kormányhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló vállalkozások, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédségi szervezetnek minősülő szervezeteket, a minisztériumok védelmi igazgatással foglalkozó szervezeti elemeit, a megyei és a fővárosi védelmi bizottságok titkárságait, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
 - 27. megfelelő szolgálati beosztásba helyezés: az az azonos beosztásba áthelyezés vagy magasabb beosztásba kinevezés, amelynek betöltésére az állomány tagja iskolai végzettsége, szakképzettsége, szakképesítése, egyéb felkészültsége, valamint egészségi, pszichikai és fizikai állapota szerint, továbbá nemzetbiztonsági szempontból alkalmas,
 - 28. megfelelő szolgálati feladat: az a szolgálati feladat, amely végrehajtása az állomány tagjától iskolai végzettsége, szakképzettsége, szakképesítése, egyéb felkészültsége, valamint egészségi, pszichikai és fizikai állapota alapján elvárható, továbbá arra nemzetbiztonsági szempontból alkalmas,
 - 29. munkáltatói döntés: a munkáltatói jogkör gyakorlása, amely formáját tekintve
@@ -136,15 +136,23 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 #### 9. Az érvénytelenség
 
-10. § (1) A jognyilatkozat megtámadható, ha a fél annak megtételekor lényeges tényben vagy körülményben tévedett, feltéve, hogy tévedését a másik fél okozta, vagy azt felismerhette, vagy mindkét fél ugyanabban a téves feltevésben volt. Megtámadható akkor is, ha annak megtételére a felet jogellenes fenyegetéssel, vagy kényszerítéssel vették rá.
+10. § (1) A jognyilatkozat megtámadható, ha a fél annak megtételekor lényeges tényben vagy körülményben tévedett, feltéve, hogy tévedését a másik fél okozta vagy azt felismerhette. Lényeges tényre vagy körülményre vonatkozik a tévedés akkor, ha annak ismeretében a fél nem vagy más tartalommal tett volna jognyilatkozatot.
 
-(2) A jognyilatkozatot az támadhatja meg, aki tévedésben, téves feltevésben volt, vagy akit annak megtételére fenyegetéssel, vagy kényszerítéssel vettek rá.
+(2) A jognyilatkozatot bármelyik fél megtámadhatja, ha annak megtételekor lényeges tény vagy körülmény tekintetében a felek ugyanabban a téves feltevésben voltak. Nem támadhatja meg a jognyilatkozatot az, aki a tévedését felismerhette vagy a tévedés kockázatát vállalta.
 
-(3) A megtámadás határideje 30 nap, amely a tévedés felismerésétől, vagy jogellenes fenyegetés, kényszerítés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy 6 hónap elteltével a megtámadás joga nem gyakorolható.
+(3) A megtévesztés hatására tett jognyilatkozatot megtámadhatja az, akit a másik fél szándékos magatartásával tévedésbe ejt vagy tévedésben tart.
 
-(4) A megtámadást a (3) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+(4) A jognyilatkozat megtámadható, ha annak megtételére a felet a másik fél jogellenes fenyegetéssel vette rá. A jognyilatkozat megtámadására az a fél jogosult, akit a jognyilatkozat megtételére jogellenes fenyegetéssel vettek rá.
 
-(5) A sikeresen megtámadott jognyilatkozat érvénytelen.
+(5) A (3) és a (4) bekezdésben foglalt szabályokat kell alkalmazni, ha a megtévesztés vagy a jogellenes fenyegetés harmadik személy részéről történt, és erről a másik fél tudott vagy tudnia kellett.
+
+(6) A fél titkos fenntartása vagy rejtett indoka a jognyilatkozat érvényességét nem érinti.
+
+(7) A megtámadás határideje 30 nap, amely a tévedés felismerésétől vagy jogellenes fenyegetés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy 6 hónap elteltével a megtámadás joga nem gyakorolható.
+
+(8) A megtámadásra irányuló jognyilatkozatot a (7) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+
+(9) A sikeresen megtámadott jognyilatkozat érvénytelen.
 
 11. § (1) Semmis az a jognyilatkozat, amely jogszabályba vagy jó erkölcsbe ütközik, valamint amely jogszabály megkerülésével jött létre.
 
@@ -167,7 +175,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 #### 10. Az elévülés
 
-13. § (1) A szolgálati viszonnyal kapcsolatos igény – ha törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kár megtérítésére irányuló igény 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+13. § (1) A szolgálati viszonnyal kapcsolatos igény – ha törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kár megtérítésére, illetve a személyiségi jog bűncselekménnyel történő megsértéséért járó sérelemdíj megfizetésére irányuló igény 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
 (2) Az elévülés az esedékessé válástól kezdődik. Az elévülést hivatalból kell figyelembe venni. Az elévült igényt bírósági úton érvényesíteni nem lehet. Az elévülés utáni teljesítést elévülés címén nem lehet visszakövetelni.
 
@@ -207,11 +215,11 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 18. § (1) Az állomány tagja a parancsadásra jogosult személy, vagy a katonai rendész járőr felszólítására személyazonosságát igazolni köteles.
 
-(2) A katonai rendész járőr korlátozhatja az állomány tagjának személyi szabadságát, továbbá az állomány tagját igazoltathatja és előállíthatja, ha az állomány tagját bűncselekmény, szabálysértés, vagy súlyos fegyelemsértés elkövetésének megalapozott gyanúja terhel, vagy ilyen cselekmény elkövetése közben tetten érték. A személyi szabadság korlátozásának eljárási szabályait miniszteri rendelet határozza meg azzal, hogy az előállítás és az ideiglenes őrzés legfeljebb 6 órán át tarthat.
+(2) A katonai rendész járőr korlátozhatja az állomány tagjának személyes szabadságát, továbbá az állomány tagját igazoltathatja és előállíthatja, ha az állomány tagját bűncselekmény, szabálysértés, vagy súlyos fegyelemsértés elkövetésének megalapozott gyanúja terhel, vagy ilyen cselekmény elkövetése közben tetten érték. A személyes szabadság korlátozásának eljárási szabályait miniszteri rendelet határozza meg azzal, hogy az előállítás és az ideiglenes őrzés legfeljebb 6 órán át tarthat.
 
 (3) A Hvt. szerinti szükséges és arányos mértékű kényszerítő eszköz alkalmazható az állomány tagjával szemben az előállítás helyszínének önkényes elhagyása, vagy ennek megkísérlése, továbbá a katonai rendész járőr jogos intézkedésének való ellenszegülés esetén.
 
-19. § A különleges műveleti kiképzések, gyakorlatok alkalmával az állomány tagjának személyi szabadsága előzetes írásbeli beleegyezés alapján a kiképzés céljának elérése érdekében a szükséges mértékben és ideig, de összefüggően legfeljebb 96 óra időtartamban korlátozható.
+19. § A különleges műveleti kiképzések, gyakorlatok alkalmával az állomány tagjának személyes szabadsága előzetes írásbeli beleegyezés alapján a kiképzés céljának elérése érdekében a szükséges mértékben és ideig, de összefüggően legfeljebb 96 óra időtartamban korlátozható.
 
 20. § (1) Az állomány tagja szolgálatteljesítési időben a szolgálatteljesítési kötelezettség sérelme nélkül vehet igénybe lelki gondozást, és vehet részt vallásos szertartáson.
 
@@ -288,7 +296,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 (6) A Honvédség nem köteles tájékoztatást adni vagy érdekegyeztetést folytatni, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely a szolgálati érdeket, a Honvédség jogszerű és rendeltetésszerű működését, a közbizalom fenntartását, valamint a szolgálati feladatok ellátását veszélyezteti.
 
-(7) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott, közérdekű adatnak nem minősülő tényt, információt, megoldást vagy adatot a személyhez fűződő jogok megsértése, valamint a honvédelmi és a nemzetbiztonsági érdek veszélyeztetése nélkül hozhatja nyilvánosságra.
+(7) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott, közérdekű adatnak nem minősülő tényt, információt, megoldást vagy adatot a személyiségi jogok megsértése, valamint a honvédelmi és a nemzetbiztonsági érdek veszélyeztetése nélkül hozhatja nyilvánosságra.
 
 28. § (1) A Honvédség és a szakszervezet köteles egymást írásban tájékoztatni a képviseletére jogosult, valamint a tisztségviselő személyéről. Az érdekegyeztetésen a Honvédség kijelölt képviselője és a szakszervezet választott tisztségviselője vesz részt. A vitás kérdések egyeztetésébe szakértők is bevonhatók.
 
@@ -582,7 +590,7 @@ tart.
 
 (3) A más helységbe történő vezénylések együttes időtartama 3 évenként a 6 hónapot nem haladhatja meg. A vezénylés befejezésétől számított 6 hónapon belül újabb vezénylésre nem kerülhet sor. E bekezdés szerinti korlátozásoktól az állomány tagjának kérelmére el lehet térni.
 
-(4) Beleegyezésével vezényelhető más helységbe az állomány tagja, a várandóssága megállapításától gyermeke 3 éves koráig, ha kiskorú gyermekét egyedül neveli, vagy ha tartósan ápolásra szoruló közeli hozzátartozóját gondozza.
+(4) Beleegyezésével vezényelhető más helységbe az állomány tagja, a várandóssága megállapításától gyermeke 3 éves koráig, ha kiskorú gyermekét egyedül neveli, vagy ha tartósan ápolásra szoruló közeli hozzátartozóját vagy élettársát gondozza.
 
 (5) Ha a (4) bekezdésben meghatározott okok bármelyike a vezénylés ideje alatt következik be, az állomány tagjának kérelmére a vezénylést haladéktalanul meg kell szüntetni.
 
@@ -811,7 +819,7 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 67. § (1) Nem szüntethető meg a szolgálati viszony felmentéssel az a)–g) pont szerinti időtartam és az azt követő 30 nap alatt:
 
 - a) a betegség és az egészségügyi szabadság, valamint az egészségi okból megkezdett orvos-bizottsági alkalmassági felülvizsgálat ideje,
-- b) a beteg gyermek ápolásának ideje vagy ilyen célból, továbbá a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság,
+- b) a beteg gyermek ápolásának ideje vagy ilyen célból, továbbá a közeli hozzátartozó vagy élettárs otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság,
 - c) a várandósság ideje,
 - d) a szülést követő 3 hónap, a szülési szabadság és a gyermekgondozás céljából kapott illetmény nélküli szabadság, és illetmény nélküli szabadság igénybevétele nélkül is a gyermek 3 éves kora,
 - e) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság,
@@ -882,7 +890,7 @@ távolléti díjnak megfelelő összeg.
 
 (3) Az 59. § (1) bekezdés e) pontja esetén az állomány tagja szerződéses szolgálati viszonyban eltöltött szolgálati idejét – kivéve azt az időszakot, amelyre szerződés-hosszabbítási díjban részesült – a végkielégítés szempontjából hivatásos szolgálatban eltöltött időként kell figyelembe venni. Ha a hivatásos állományba visszavett személy szolgálati viszonya felmentéssel kerül megszüntetésre, a végkielégítés alapjául a korábbi végkielégítést követően szolgálati viszonyban töltött időt lehet figyelembe venni. Ha a szolgálati viszony áthelyezéssel létesült, a végkielégítés szempontjából figyelembe kell venni az átvételt megelőző jogviszonyban folyamatosan eltöltött időt.
 
-(4) A végkielégítést a felmentési idő utolsó napján kell kifizetni. Ha a hivatásos állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel, vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
+(4) A végkielégítést a felmentési idő utolsó napján kell kifizetni. Ha a hivatásos állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel, vagy költségvetési szerv legalább többségi befolyása alatt álló bármely a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
 - a) ezt a tényt a korábban munkáltatói jogkört gyakorlónak köteles haladéktalanul írásban bejelenteni,
 - b) a felmentési időből hátralevő idő tekintetében távolléti díjra nem jogosult,
@@ -934,7 +942,7 @@ távolléti díjjal azonos. Tört időszak esetén a leszerelési segély mért�
 
 (3) A leszerelési segély mértékét csökkenteni kell az állomány tagjának korábban kifizetett toborzópénz és szerződés-hosszabbítási díj mértékével. Ismételten létesített szerződéses szolgálati viszony megszűnésekor, vagy a később létesített hivatásos szolgálati viszony felmentéssel történt megszüntetésekor a leszerelési segély – hivatásos szolgálati viszony esetében a végkielégítés – alapjául csak az újabb szolgálati viszonyban eltöltött időt lehet figyelembe venni.
 
-(4) Ha a szerződéses állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
+(4) Ha a szerződéses állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
 - a) ezt a tényt a korábban munkáltatói jogkört gyakorlónak köteles haladéktalanul írásban bejelenteni,
 - b) a felmentési időből hátralévő idő tekintetében távolléti díjra nem jogosult,
@@ -1027,7 +1035,7 @@ távolléti díjjal azonos. Tört időszak esetén a leszerelési segély mért�
 
 #### 50. Az összeférhetetlenség
 
-80. § (1) Nem létesíthető szolgálati viszony, ha az állomány tagja ez által közeli hozzátartozójával kerülne közvetlen irányítási, felügyeleti, ellenőrzési vagy elszámolási kapcsolatba.
+80. § (1) Nem létesíthető szolgálati viszony, ha az állomány tagja ez által közeli hozzátartozójával vagy élettársával kerülne közvetlen irányítási, felügyeleti, ellenőrzési vagy elszámolási kapcsolatba.
 
 (2) Ha az (1) bekezdés szerinti összeférhetetlenség a szolgálati viszony fennállása alatt keletkezik, és az a szolgálati viszony módosításával nem orvosolható, a munkáltatói jogkört gyakorló dönti el, hogy – a (3) bekezdés szerinti felmentés hiányában – az állomány melyik tagjának szűnik meg a szolgálati viszonya. A munkáltató döntése során elsődlegesen az érintettek érdemeit mérlegeli.
 
@@ -1153,7 +1161,7 @@ távolléti díjjal azonos. Tört időszak esetén a leszerelési segély mért�
 
 (3) A tanulmányi szerződést írásba kell foglalni, és az közös megegyezéssel bármikor módosítható.
 
-(4) Az állomány tagjának lényeges szerződésszegésére a 88. § (3) és (4) bekezdését alkalmazni kell. Ha a Honvédség lényeges szerződésszegést követ el, így különösen, ha a támogatást nem, vagy nem határidőben biztosítja, az állomány tagja mentesül a szerződésből eredő kötelezettségei alól, és a szerződésszegésből eredő esetleges kárát érvényesítheti.
+(4) Az állomány tagjának lényeges szerződésszegésére a 88. § (3) és (4) bekezdését alkalmazni kell. Ha a Honvédség lényeges szerződésszegést követ el, így különösen, ha a támogatást nem, vagy nem határidőben biztosítja, az állomány tagja mentesül a szerződésből eredő kötelezettségei alól. Bármely fél szerződésszegése esetén a másik fél a szerződésszegésből eredő esetleges kárát a Polgári Törvénykönyv szerződésszegéssel okozott károkért való felelősségre vonatkozó rendelkezései alapján érvényesítheti.
 
 (5) A tanulmányi szerződést lényeges szerződésszegésre hivatkozás nélküli is bármelyik fél felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a tanulmányi szerződésből eredő kötelezettsége teljesítését lehetetlenné tenné, vagy annak teljesítése aránytalan sérelemmel járna. Az állomány tagja általi felmondás esetén a Honvédség az általa nyújtott támogatást, vagy annak arányos részét visszakövetelheti. A Honvédség általi felmondás esetén a támogatás nem követelhető vissza.
 
@@ -1398,7 +1406,7 @@ valósul-e meg.
 - a) az állampolgári kötelezettsége teljesítésének idejére,
 - b) a bíróság vagy a hatóság felhívására, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 - c) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
-- d) a közeli hozzátartozója halálakor, esetenként legalább 2 munkanapra,
+- d) közeli hozzátartozója vagy élettársa halálakor, esetenként legalább 2 munkanapra,
 - e) az orvosi vizsgálat teljes időtartamára, továbbá az egészségügyi szabadságot nem igénylő egészségügyi kezelések időtartamára,
 - f) az emberi reprodukcióra irányuló különleges eljárással összefüggő vizsgálat időtartamára,
 - g) a szoptató anya a szoptatás első 6 hónapjában naponta kétszer 1, ikergyermek esetén naponta kétszer 2 órára, a 9. hónap végéig naponta 1, ikergyermek esetén naponta 2 órára, ha egészségügyi szabadságot nem vesz igénybe,
@@ -1516,7 +1524,7 @@ munkanap pótszabadság jár. A pótszabadság fogyatékos gyermekenként 2 munk
 
 117. § (1) Az állomány tagjának gyermeke személyes gondozása érdekében – a 116. § (1) bekezdésén túl – illetmény nélküli szabadság jár a gyermek 10. életéve betöltéséig a gyermekgondozási segély folyósításának időtartama alatt.
 
-(2) Az állomány tagjának közeli hozzátartozója tartós – előreláthatólag 30 napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb 2 évre illetmény nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
+(2) Az állomány tagjának közeli hozzátartozója vagy élettársa tartós – előreláthatólag 30 napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb 2 évre illetmény nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 
 (3) Az állomány tagja illetmény nélküli szabadságra jogosult a házastárs vagy élettársa tartós külföldi kiküldetése esetén, annak tartamára. Az állomány tagjának kérelmére – méltányolható egyéni indokból – illetmény nélküli szabadságot lehet engedélyezni, így különösen a nemzetközi szervezetek által kiírt pályázat elnyerése esetén, ha a munkakör betöltése a szolgálat érdekével nem esik egybe, a munkavégzés idejére.
 
@@ -1855,13 +1863,13 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 
 (3) A munkáltatói jogkört gyakorló az állomány azon elhunyt tagját, akit az (1) vagy a (2) bekezdés alapján nem minősítettek, a „Katonai szolgálat halottjává” nyilváníthatja.
 
-(4) A kegyelet hivatalos kifejezéseként az elhunytat a minősítéstől függően a végtisztesség megadásaként katonai tiszteletadással, és – az intézkedésre jogosult közeli hozzátartozó kérésének megfelelően – vallási közösség által végzett szertartással vagy polgári szertartással kell eltemetni.
+(4) A kegyelet hivatalos kifejezéseként az elhunytat a minősítéstől függően a végtisztesség megadásaként katonai tiszteletadással, és – az intézkedésre jogosult közeli hozzátartozó vagy élettárs kérésének megfelelően – vallási közösség által végzett szertartással vagy polgári szertartással kell eltemetni.
 
 (5) A kegyeleti minősítés szempontjait és feltételeit, a (4) bekezdés szerinti katonai temetés feltételeit, és a Honvédség által a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit miniszteri rendelet határozza meg.
 
 #### 82. Egyéb juttatások
 
-140. § (1) Humánszolgálati vagy szociális gondoskodás keretében, visszatérítendő, vagy vissza nem térítendő, pénzbeli, természetbeni, vagy személyes gondoskodást nyújtó, szociális, jóléti és kulturális támogatások, juttatások (a továbbiakban együtt: juttatások) biztosíthatók. Miniszteri rendelet az állomány tagjának közeli hozzátartozója támogatását is előírhatja.
+140. § (1) Humánszolgálati vagy szociális gondoskodás keretében, visszatérítendő, vagy vissza nem térítendő, pénzbeli, természetbeni, vagy személyes gondoskodást nyújtó, szociális, jóléti és kulturális támogatások, juttatások (a továbbiakban együtt: juttatások) biztosíthatók. Miniszteri rendelet az állomány tagjának közeli hozzátartozója vagy élettársa támogatását is előírhatja.
 
 (2) Az (1) bekezdés szerint juttatásnak minősül különösen
 
@@ -1900,7 +1908,7 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 
 (2) Az állomány tagja balesetének, betegségének vagy az ezek miatt bekövetkezett halálának szolgálati kötelmekkel való összefüggését hivatalból kell vizsgálni. A balesetnek és a betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által rendeletben kijelölt honvédségi szervezet, a miniszteri rendelet szerinti eljárásban, minősítő határozatban dönt.
 
-(3) A minősítő határozatot az állomány tagjával, halála esetén közeli hozzátartozójával közölni kell.
+(3) A minősítő határozatot az állomány tagjával, halála esetén közeli hozzátartozójával vagy élettársával közölni kell.
 
 (4) A baleseti járadék megállapításáról első fokon a miniszter által rendeletben kijelölt honvédségi szervezet indokolt határozatban dönt. A baleseti járadékra való jogosultság vizsgálatának szabályait miniszteri rendelet határozza meg.
 
@@ -2203,9 +2211,9 @@ felelnek.
 
 (2) Ha a kárt többen szándékosan okozták, a felelősségük egyetemleges.
 
-168. § (1) A károkozó köteles az eredeti állapotot helyreállítani, ha pedig ez nem lehetséges, vagy a Honvédség azt alapos okból nem kívánja, köteles a Honvédség vagyoni és nem vagyoni kárát megtéríteni.
+168. § (1) A károkozó köteles az eredeti állapotot helyreállítani, ha pedig ez nem lehetséges, vagy a Honvédség azt alapos okból nem kívánja, köteles a Honvédség vagyoni kárát és sérelemdíját megtéríteni.
 
-(2) Kártérítés címén a károkozó körülmény folytán a Honvédség vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a Honvédséget ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+(2) Kártérítés címén a károkozó körülmény folytán a Honvédség vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a Honvédséget ért vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
 
 (3) A kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
 
@@ -2266,7 +2274,7 @@ felelnek.
 
 (3) Nem kell megtéríteni a kárnak azt a részét, amelyet az állomány tagjának vétkes magatartása idézett elő, vagy amely abból származott, hogy az állomány tagja a kárenyhítési kötelezettségének nem tett eleget.
 
-(4) A Honvédséggel szembeni kárigény érvényesítésére vonatkozó rendelkezések alkalmazása során az állomány tagján túl károsultnak minősül az állomány tagját ért kár miatt kárigényt érvényesítő közeli hozzátartozó is.
+(4) A Honvédséggel szembeni kárigény érvényesítésére vonatkozó rendelkezések alkalmazása során az állomány tagján túl károsultnak minősül az állomány tagját ért kár miatt kárigényt érvényesítő közeli hozzátartozó vagy élettárs is.
 
 (5) Az állomány tagjának kell bizonyítania a kár bekövetkezését, mértékét, továbbá azt, hogy az a szolgálati viszonnyal összefüggésben keletkezett. A szolgálati viszony körébe tartoznak különösen a Honvédség feladatainak ellátásával összefüggő magatartásból, a használt anyag, felszerelés, berendezés és energia tulajdonságából, állapotából, mozgásából és működéséből eredő okok. Ha az állomány tagja a tevékenységét rendeltetésszerűen a szolgálati helyen kívül is ellátja, az e körben történt károsodásának okát működési körön belül esőnek kell tekinteni.
 
@@ -2286,8 +2294,10 @@ felelnek.
 173. § (1) A Honvédség a 172. § (1) bekezdése szerint köteles megtéríteni az állomány tagjának
 
 - a) elmaradt jövedelmét,
-- b) dologi és nem vagyoni kárát, valamint
+- b) vagyonában beállott értékcsökkenését,
 - c) a sérelemmel, és ennek elhárításával összefüggésben felmerült indokolt költségeit.
+
+(1a) A Honvédség köteles megfizetni az állomány tagjának személyiségi jogainak megsértésével összefüggésben felmerült sérelemdíját.
 
 (2) Az (1) bekezdés a) pontjának megállapításánál figyelembe kell venni
 
@@ -2301,7 +2311,7 @@ felelnek.
 
 (5) Nem kell megtéríteni az olyan szolgáltatások értékét, amelyek rendeltetésük szerint csak szolgálatteljesítés esetén járnak, így különösen az élelmezés, a munka- és védőruha-ellátás, továbbá a költségtérítés címén járó összeget.
 
-174. § (1) A Honvédség köteles megtéríteni az állomány tagja közeli hozzátartozójának a károkozással összefüggésben felmerült kárát és indokolt költségeit is.
+174. § (1) A Honvédség köteles megtéríteni az állomány tagja közeli hozzátartozójának vagy élettársának a károkozással összefüggésben felmerült kárát és indokolt költségeit. A Honvédség köteles megfizetni az állomány tagja közeli hozzátartozójának vagy élettársának a személyiségi jogainak megsértésével összefüggésben felmerült sérelemdíját is.
 
 (2) Ha a károkozással összefüggésben az állomány tagja meghalt, eltartott hozzátartozója az (1) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségleteinek a sérelem előtti színvonalon való kielégítését biztosítja, figyelembe véve a tényleges, és az elvárhatóan elérhető jövedelmét is.
 
@@ -2314,9 +2324,13 @@ felelnek.
   - bc) amelyhez a károsult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá, és
   - bd) amelyhez a károsult a Honvédség által, a javára megkötött biztosítás révén jut.
 
-(2) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani akkor, ha a kártérítés a károsult vagy a vele szemben tartásra jogosult közeli hozzátartozója tartását, vagy tartásának kiegészítését hivatott szolgálni.
+(2) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani akkor, ha a kártérítés a károsult vagy a vele szemben tartásra jogosult közeli hozzátartozója vagy élettársa tartását, vagy tartásának kiegészítését hivatott szolgálni.
 
 (3) Ha a kárnak vagy egy részének mértéke pontosan nem számítható ki, a Honvédség olyan összegű általános kártérítés megfizetésére köteles, amely a károsult teljes anyagi kárpótlására alkalmas. Általános kártérítés járadékként is megállapítható.
+
+(4) Az elmaradt jövedelem kiszámításánál a társadalombiztosítási szabályok szerinti járulékot le kell vonni.
+
+(5) A megállapított sérelemdíj összegéből kizárólag azt az összeget kell levonni, amelyhez a sérelemdíjra jogosult a Honvédség által, a javára megkötött biztosítás révén jut.
 
 176. § (1) Az elévülés szempontjából önállónak kell tekinteni
 
@@ -2344,7 +2358,7 @@ különbözetének megtérítése iránti igényt.
 
 (3) Ha a kártérítés megállapítását követően a károsult körülményeiben lényeges változás következik be, a megállapított kártérítés módosítását a károsult vagy a miniszter által rendeletben kijelölt honvédségi szervezet is kezdeményezheti.
 
-(4) A Honvédség az állomány kártérítésre jogosult tagjától, vagy annak közeli hozzátartozójától a munkavégzésből származó jövedelméről, jövedelmi viszonyairól évente igazolást kérhet.
+(4) A Honvédség az állomány kártérítésre jogosult tagjától, vagy annak közeli hozzátartozójától vagy élettársától a munkavégzésből származó jövedelméről, jövedelmi viszonyairól évente igazolást kérhet.
 
 178. § A hadkötelezettség alapján teljesített szolgálattal összefüggő balesetekkel, a hadkötelezettség alapján teljesített szolgálattal összefüggésben kialakult, vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálása során a 13. §-t, a 172–177.§-t és a 182–186. §-t megfelelően alkalmazni kell.
 
@@ -2380,7 +2394,7 @@ különbözetének megtérítése iránti igényt.
 (2) Az (1) bekezdéstől eltérően
 
 - a) a fegyelmi eljárás során hozott első fokú határozat ellen a közléstől számított 8 napon belül nyújtható be fellebbezés,
-- b) az állomány tagja halálának a szolgálati kötelmekkel való összefüggése kérdésében hozott első fokú határozat ellen a közeli hozzátartozó nyújthat be fellebbezést.
+- b) az állomány tagja halálának a szolgálati kötelmekkel való összefüggése kérdésében hozott első fokú határozat ellen a közeli hozzátartozó vagy élettárs nyújthat be fellebbezést.
 
 (3) Nincs helye fellebbezésnek
 
@@ -2975,12 +2989,12 @@ különbözetének megtérítése iránti igényt.
 - 19. a pénzjutalom megállapításával és folyósításával kapcsolatos szabályokat,
 - 20. az illetménypótlékok és a megbízási díj jogosultságával, megállapításával, kifizetésével kapcsolatos szabályokat,
 - 21. a toborzópénz, a szerződés-hosszabbítási díj, a szerződéskötési díj visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét,
-- 22. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
+- 22. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
 - 23. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját, a miniszter által vezetett minisztérium vagyonkezelésében álló lakások bérleti és különszolgáltatási díját, a lakott forgalmi értéke és a szolgálatban töltött idő figyelembevételével kialakítandó tényleges elidegenítési vételár képzését tartalmazó szabályokat, a végleges letelepedés támogatásának szabályait, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait, a legénységi állományúakra, az állomány próbaidős tagjára, a nyugállományú katonára vonatkozó eltérő szabályokat,
 - 24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az ügyelet, a készenlét elrendelésére és az ezt követő pihenőidő kiadására, valamint az ellentételezésük nyilvántartására, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, melyekhez az éves szolgálatteljesítési időkeret kapcsolható,
 - 25. a baleseti járadékra való jogosultság vizsgálatának szabályait, a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, valamint a szolgáltatások térítésének szabályait,
 - 26. a kegyeleti minősítés szempontjait és feltételeit, a katonai temetés feltételeit és módját, a kegyeleti költségeket és a kegyeleti gondoskodás egyéb költségeit, azok összeghatárát, a költségekhez való hozzájárulás feltételeit és mértékét, az elszámolás rendjét, továbbá a temetési segélyre való jogosultság feltételeit és mértékét, az elszámolás rendjét,
-- 27. a honvédeknek, a nyugállományú katonáknak és közeli hozzátartozóiknak nyújtható regenerálódást segítő, rekreációs és üdültetési szolgáltatások fajtáit, igénybevételük feltételeit és módját,
+- 27. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható regenerálódást segítő, rekreációs és üdültetési szolgáltatások fajtáit, igénybevételük feltételeit és módját,
 - 28. az élelmezési ellátásra és az étkezési hozzájárulásra jogosultak körét, lehetséges formáit és igénybevételük feltételeit, módját,
 - 29. a ruházati ellátások rendszerét, módját, fajtáit, összegét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit,
 - 30. a különféle típusú külföldi szolgálatot teljesítők külszolgálati ellátmányát és egyéb költségtérítését, az ideiglenes külföldi szolgálatot teljesítők részére nyújtható külföldi napidíj mértékét, a külföldi napidíj-kiegészítés folyósításának eseteit és mértékét, továbbá mindezek megállapításának, kifizetésének, és elszámolásának rendjét,

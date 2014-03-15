@@ -11,7 +11,7 @@ az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézked�
 - c) pénzügyi és vagyoni korlátozó intézkedés:
   - ca) a pénzeszközök és gazdasági erőforrások uniós jogi aktus által elrendelt befagyasztása, valamint
   - cb) a pénzeszköz vagy gazdasági erőforrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalma;
-- d) pénzügyi és vagyoni korlátozó intézkedés alanya: a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, illetve az a természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, amely pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó szervezet tagja;
+- d) pénzügyi és vagyoni korlátozó intézkedés alanya: a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, illetve az a természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, amely pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó szervezet tagja;
 - e) vagyoni nyilvántartás: a külön jogszabályok szerinti ingatlan-nyilvántartás, cégnyilvántartás, járműnyilvántartás, úszólétesítmény-lajstrom, légijármű-lajstrom, kulturális örökség hatósági nyilvántartása;
 - f) pénzeszközök átutalására vonatkozó korlátozó intézkedés: az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet V. Fejezetében foglalt intézkedések;
 - g) pénzeszköz átutalása: az uniós jogi aktusban meghatározott fogalom.
@@ -33,7 +33,7 @@ az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézked�
 
 (4) A (3) bekezdés szerinti értesítés tartalmazza a 7. § (1) bekezdése szerinti adatokat, valamint
 
-- a) az 1. § c) pont ca) alpontjában meghatározott pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszközön, valamint gazdasági erőforráson a pénzügyi és vagyoni korlátozó intézkedés végrehajtását korlátozó jogosultsággal rendelkező jogi személy, valamint jogi személyiség nélküli szervezet szervezeti formájának megfelelő törvényben meghatározott azonosító adatait,
+- a) az 1. § c) pont ca) alpontjában meghatározott pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszközön, valamint gazdasági erőforráson a pénzügyi és vagyoni korlátozó intézkedés végrehajtását korlátozó jogosultsággal rendelkező jogi személy, valamint jogi személyiséggel nem rendelkező szervezet szervezeti formájának megfelelő törvényben meghatározott azonosító adatait,
 - b) az 1. § c) pont ca) alpontjában meghatározott pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszköz, valamint gazdasági erőforrás azonosításához szükséges adatokat.
 
 4. § (1) A bíróság a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv 3. § (3) bekezdése szerinti értesítése alapján nemperes eljárásban végzéssel az 1. § c) pont ca) alpontjában meghatározott pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot rendel el, amelyről haladéktalanul, legalább fokozott biztonságú elektronikus aláírással ellátott okiratot tartalmazó elektronikus üzenet vagy telefax útján értesíti a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szervet.

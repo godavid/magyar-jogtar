@@ -157,7 +157,7 @@ lajstromban tartja nyilván.
 10. § (1) A lajstrom nyilvánosan és közhitelesen tanúsítja a lajstromozott
 
 - a) úszólétesítmény állami hovatartozását;
-- b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy vagy jogi személyiség nélküli gazdasági társaság esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának nevét, címét, anyja nevét, születési helyét és idejét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
+- b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának nevét, címét, anyja nevét, születési helyét és idejét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
 - c) úszólétesítményhez kapcsolódó jogokat és jogi szempontból jelentős tényeket;
 - d) úszólétesítmény azonosító adatait.
 
@@ -174,9 +174,9 @@ lajstromban tartja nyilván.
 - a) tulajdonjog,
 - b) üzemben tartói jog,
 - c) bérleti jog,
-- d) jelzálog (önálló zálogjog),
+- d) jelzálogjog,
 - e) haszonélvezeti jog,
-- f) elő- vagy visszavásárlási jog és vételi jog,
+- f) elő- vagy visszavásárlási jog, vételi és eladási jog,
 - g) végrehajtási jog.
 
 (3a) Motoros vízi sporteszköz esetén – a (3) bekezdésben foglaltaktól eltérően – a tulajdonjogot és az üzembentartói jogot kell bejegyeztetni a kishajólajstromba.
@@ -185,7 +185,7 @@ lajstromban tartja nyilván.
 
 (5) A hajózási hatóság bejegyzése hozza létre átruházás esetén a tulajdonjogot, továbbá a szerződésen alapuló üzemben tartói jogot, haszonélvezeti jogot.
 
-(6) Amennyiben az úszólétesítményt – a motoros vízi sporteszköz kivételével – jelzálog terhelheti, a jelzálogjogot a lajstromba be kell jegyeztetni.
+(6)
 
 (7) Valamely jognak vagy ténynek a lajstromba való bejegyzését annak kell kérnie, aki a bejegyzéssel jogosulttá válik, vagy akinek ez a bejegyzett jogát érinti.
 
@@ -204,7 +204,7 @@ lajstromban tartja nyilván.
 13. § (1) E törvény lajstromozási szabályainak alkalmazásában magyar, illetve közösségi tulajdon:
 
 - a) a magyar állampolgár, az Európai Unió tagállama vagy Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgára, illetve az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy tulajdona;
-- b) olyan jogi személy, valamint jogi személyiség nélküli gazdasági társaság tulajdona, amely Magyarországon, az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban rendelkezik székhellyel, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez (a továbbiakban együtt: EGT-állam).
+- b) olyan jogi személy tulajdona, amely Magyarországon, az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban rendelkezik székhellyel, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez (a továbbiakban együtt: EGT-állam).
 
 (2) A magyar, illetve a közösségi tulajdont okmányokkal kell igazolni.
 
@@ -927,6 +927,7 @@ kezeli.
   - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 7,5 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 - 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 - 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
+- 5a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 6. gazdasági célú hajózási tevékenység: ellenszolgáltatásért, illetőleg egyéb gazdasági tevékenység kiszolgálása során, vagy annak érdekében végzett hajózási tevékenység;
 - 7. gyorsjáratú hajó: az a hajó – a kishajók kivételével – amely a 40 km/h-t meghaladó holtvízi sebességgel való közlekedésre alkalmas, és ezt a hajóbizonyítványába bejegyezték;
 - 8. hajó: építésénél, berendezésénél és felszerelésénél fogva a vízen való közlekedésre alkalmas vízijármű;

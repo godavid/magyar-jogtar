@@ -14,15 +14,16 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (3) Az Eximbankra és az általa végzett tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényt (a továbbiakban: Hpt.) és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényt (a továbbiakban: Bszt.) az e törvényben foglalt eltérésekkel kell alkalmazni. A Mehib Rt. által végzett piacképes kockázatú biztosítási tevékenységére a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényt (a továbbiakban: Bit.) az e törvényben foglalt eltérésekkel kell alkalmazni. Amennyiben a Mehib Rt. a 3. § (1) bekezdésében meghatározott piacképes kockázatú biztosítási, illetve viszontbiztosítási tevékenységet is végez, úgy tevékenységét az e törvényben meghatározott valamennyi tevékenységet érintő összevont szervezet keretében is végezheti, azzal, hogy a Bit.-ben nevesített egyes feladatkörök ellátása az összevont szervezet keretében is megvalósul.
 
-(4) Az Eximbankra és a Mehib Rt.-re a gazdasági társaságokról szóló törvényt (a továbbiakban: Gt.) az e törvényben foglalt eltérésekkel kell alkalmazni.
+(4) Az Eximbankra és a Mehib Rt.-re a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, valamint a magyar befektetők külföldi befektetéseire, továbbá külföldiek magyarországi beruházásaira vonatkozóan jogosult végezni.
 
 (5a) E törvény alkalmazásában:
 
 - a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésbe foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás. Idegenforgalmi ágazatba sorolt belföldi gazdálkodó szervezet esetében a devizakülföldivel kötött belföldön teljesített szolgáltatásnyújtás is figyelembe vehető exportra irányuló szolgáltatás-nyújtásként.
-- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése
-- c) nemzetközi fejlesztési együttműködés: az OECD DAC besorolás szerint hivatalos fejlesztési támogatásra (ODA) jogosult fejlődő országok gazdasági és társadalmi fejlődésének előmozdítására irányuló, a donor- és a kedvezményezett ország közötti partneri viszonyon alapuló tevékenység, amelynek keretében a donor ország hivatalos szervein, ügynökségein keresztül kedvezményes hiteleket, vagy vissza nem térítendő támogatást nyújt a kedvezményezett országnak, illetve a kedvezményezett ország erre jogosult gazdálkodó szervezeteinek, illetve intézményeinek.
+- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése,
+- c) nemzetközi fejlesztési együttműködés: az OECD DAC besorolás szerint hivatalos fejlesztési támogatásra (ODA) jogosult fejlődő országok gazdasági és társadalmi fejlődésének előmozdítására irányuló, a donor- és a kedvezményezett ország közötti partneri viszonyon alapuló tevékenység, amelynek keretében a donor ország hivatalos szervein, ügynökségein keresztül kedvezményes hiteleket, vagy vissza nem térítendő támogatást nyújt a kedvezményezett országnak, illetve a kedvezményezett ország erre jogosult gazdálkodó szervezeteinek, illetve intézményeinek,
+- c) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
@@ -33,7 +34,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
 
 - a) hitel és pénzkölcsön nyújtása;
-- b) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
+- b) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása;
 - c) valutával, devizával – ide nem értve a pénzváltási tevékenységet -, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
 - d) a Bszt. 5. § (1) bekezdés a)–c) pontjában meghatározott tevékenység a Bszt. 6. §-ában meghatározott pénzügyi eszköz tekintetében;
 - e) hitel referencia szolgáltatás;
@@ -144,6 +145,8 @@ eredő fizetési kötelezettségek teljesítéséért.
 - b) rövid pozíció esetén: az az összeg, amennyivel a határidős szerződés tárgyának névértéke meghaladja a származtatott ügylet alapjául szolgáló eszköz piaci értékét (vagy deviza esetén az elszámoló árát).
 
 (8) Az (1) és (2) bekezdés alapján fennálló állami kezességgel érintett alapjogviszony módosítása esetén az állami kezesség az alapjogviszony változásához igazodva áll fenn.
+
+(9) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén az Eximbankot és a Mehib Rt.-t nem terheli a kezességi szerződés fennállása esetén a Ptk. 6:429. § alapján teljesítendő tájékoztatási kötelezettség. Az állami kezesség beváltásának kockázatáról, továbbá a kezesség várható beváltásáról (különösen annak összegéről és időpontjáról) az Eximbank és a Mehib Rt. tájékoztatja a kezest. A tájékoztatásra vonatkozó előírásokat a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló miniszteri rendelet tartalmazza.
 
 7. § (1) A Magyarország központi költségvetéséről szóló törvényben meg kell határozni:
 
@@ -276,9 +279,9 @@ szerzett.
 
 - a) az Eximbank által a bel- és külföldi hitelintézet számára nyújtott exportcélú hitelnél és pénzkölcsönnél,
 - b) az Eximbank által olyan külföldi vevőnek nyújtott hitelnél és pénzkölcsönnél, amikor a célország hitelminősítési besorolása a Gazdasági Együttműködési és Fejlesztési Szervezet „Hivatalosan támogatott exporthitelekről szóló megállapodásban” foglalt módszerek szerint legalább 3 vagy annál jobb és a célország központi költségvetése vagy központi bankja garantálja a hitel és a pénzkölcsön visszafizetését,
-- c) a bankgaranciával fedezett összeg mértékéig az Eximbank által nyújtott,
-  - ca) a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél, vagy
-  - cb) olyan hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél, amellyel szembeni – hitelkockázati fedezettel nem ellátott – három hónapnál hosszabb futamidejű kitettségre a hitelezési kockázat sztenderd módszere alkalmazásában legfeljebb 50%-os kockázati súly rendelhető,
+- c) a garanciával fedezett összeg mértékéig az Eximbank által nyújtott,
+  - ca) a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező hitelintézet garanciájával fedezett hitelnél és pénzkölcsönnél, vagy
+  - cb) olyan hitelintézet garanciájával fedezett hitelnél és pénzkölcsönnél, amellyel szembeni – hitelkockázati fedezettel nem ellátott – három hónapnál hosszabb futamidejű kitettségre a hitelezési kockázat sztenderd módszere alkalmazásában legfeljebb 50%-os kockázati súly rendelhető,
 - d) a központi költségvetés készfizető kezességével fedezett kockázatvállalásokra, ideértve a Mehib Rt. nem piacképes kockázatú biztosításával fedezett exportcélú hitelt és pénzkölcsönt is a biztosított összeg önrészesedéssel csökkentett mértékéig.
 
 22. §
@@ -287,7 +290,7 @@ szerzett.
 
 ### Titoktartás
 
-24. § A Hpt. 161. §-ában és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 81. § (2) bekezdésében foglalt titoktartási kötelezettség nem terjed ki – a Hpt. 161. § (2) bekezdésében és a Ptk. 81. § (3) bekezdésében foglaltakon túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított adatokra sem.
+24. § A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Hpt.-ben meghatározott banktitok megtartására vonatkozó kötelezettség nem terjed ki – a Hpt.-ben meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított adatokra sem.
 
 24/A. §
 
@@ -295,11 +298,11 @@ szerzett.
 
 25. § (1) A Mehib Rt. állam készfizető kezessége mellett végzett tevékenységére a Bit. és a viszontbiztosítókról szóló 2007. évi CLIX. törvény rendelkezéseit nem kell alkalmazni.
 
-(2) A Bit. 157. § (1) bekezdésében meghatározott szervek mellett a Mehib Rt. biztosítási tevékenységével kapcsolatban nem áll fenn a biztosítási titoktartási kötelezettség a miniszter által vezetett minisztériummal és az államháztartásért felelős miniszter által vezetett minisztériummal szemben.
+(2) A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Bit.-ben meghatározott biztosítási titok megtartására vonatkozó kötelezettség nem terjed ki – a Bit. 157. § (1) bekezdésében meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint az Eximbank részére továbbított adatokra sem.
 
 (3) A Mehib Rt. kölcsönt csak biztosítási tevékenységéhez kapcsolódóan és az államháztartásért felelős miniszter előzetes hozzájárulásával vehet fel.
 
-(4) A (2) bekezdésben és a Bit. 157. §-ának (1) bekezdésében meghatározott szervek mellett a Mehib Rt. által végzett biztosítási tevékenységgel kapcsolatban nem áll fenn a biztosítási titoktartási és a Ptk. 81. § (2) bekezdésében foglalt titoktartási kötelezettség az Eximbankkal szemben sem.
+(4)
 
 (5) A Mehib Rt. vezető állású személyeire az Eximbankkal megkötendő szerződések esetében a Bit. 116. § (1) bekezdésnek döntéshozatalban való részvételt tiltó rendelkezése nem alkalmazandó.
 

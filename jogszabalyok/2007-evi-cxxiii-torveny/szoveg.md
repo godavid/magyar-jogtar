@@ -281,7 +281,7 @@ kell figyelembe venni.
 
 (3) A kisajátítást kérő a kifizetési kötelezettségét akkor teljesíti, amikor a pénzforgalmi számláját vezető pénzforgalmi szolgáltató a pénzforgalmi számlát a kártalanítás összegével megterheli.
 
-(4) A kártalanítási összeg a kisajátítási határozat jogerőre emelkedésével esedékes, ettől az időponttól kezdődően jár a polgári törvénykönyv szerinti késedelmi kamat is.
+(4) A kártalanítási összeg a kisajátítási határozat jogerőre emelkedésével esedékes, ettől az időponttól kezdődően jár a Polgári Törvénykönyv szerinti késedelmi kamat is.
 
 (5)
 
@@ -354,6 +354,13 @@ kell figyelembe venni.
 
 (8) Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a kisajátítási hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet. Ha a szükséges adatokat a cégnyilvántartás tartalmazza és ezen az adatok a cégnyilvántartásban elektronikus formában állnak rendelkezésre, a kisajátítási hatóság azokat elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
+(9) A kisajátítást kérő és a megbízásából eljáró személy részére az ingatlanügyi hatóság adatátviteli eszközzel vagy számítástechnikai adathordozón, az ingatlan-nyilvántartásból történő adatszolgáltatásra vonatkozó szabályok szerint, az ingatlan leíró adatain felül a kisajátítási eljáráshoz szükséges alábbi adatokat adhatja át:
+
+- a) a kisajátítással érintett ingatlan
+  - aa) tulajdonosának neve, lakcíme (székhelye), tulajdoni hányada, a tulajdonszerzés jogcíme,
+  - ab) tulajdoni lapján széljegyzett jogosultak adatai,
+- b) a kisajátítással érintett ingatlanon fennálló egyéb jog jogosultjának neve, lakcíme (székhelye), a jog megszerzésének jogcíme.
+
 24/A. § (1) A kisajátítási kérelem hiányainak pótlására a kisajátítást kérő csak egy alkalommal hívható fel, és az ennek során meghatározott hiánypótlási határidő nem hosszabbítható meg. A hiánypótlásra meghatározott határidő eredménytelen elteltét követően a kisajátítási hatóság a hiányok ezt követő pótlásáig terjedő időt, de legfeljebb 30 nap időtartamot alapul véve a kisajátítást kérőt – ha mulasztását nem igazolta – eljárási bírsággal sújtja. Az eljárási bírság mértéke naponta 10 000 forint. Az eljárási bírság kiszabását követően a kisajátítási hatóság – ha a hiányok pótlása megtörtént – folytatja az eljárást, ellenkező esetben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint megszüntetheti az eljárást vagy a rendelkezésre álló adatok alapján dönt.
 
 (2) Az (1) bekezdésben foglalt előírások – a hiánypótlások számára vonatkozó szabályt kivéve – irányadók a kisajátítást kérő részére a tényállás tisztázása során felmerült új adatokra tekintettel elrendelt hiánypótlási felhívásokra is.
@@ -362,7 +369,7 @@ kell figyelembe venni.
 
 24/B. § Ha a kisajátítási terv záradéka a kisajátítási eljárás folyamán lejár, a kisajátítási hatóság a tervet újrazáradékolás céljából az erre hatáskörrel rendelkező szervnek megküldi és ezt követően eljárását az újrazáradékolásig felfüggeszti.
 
-25. § (1) A kisajátítási hatóság a kisajátítási kérelem beérkezésétől számított nyolc napon belül a kisajátítással érintett tulajdonosok nevét és lakcímét, valamint az ingatlan helyrajzi számát tartalmazó végzésével – részleges kisajátítás esetén a kisajátítási tervet is mellékelve – megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő feljegyzése, valamint az ingatlan tulajdoni lapján széljegyzett személynek és ingatlan-nyilvántartási jogelődjének neve (cégneve) és lakcíme (székhelye) közlése érdekében. A kisajátítási hatóság végzése és annak melléklete ingatlan-nyilvántartási feljegyzésre alkalmas okirat, valamint az ingatlanügyi hatóság ezen okirat alapján teljesíti a név- és lakcímadatok szolgáltatását is.
+25. § (1) A kisajátítási hatóság a kisajátítási kérelem beérkezésétől számított nyolc napon belül a kisajátítással érintett tulajdonosok nevét és lakcímét, valamint az ingatlan helyrajzi számát tartalmazó végzésével megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő feljegyzése, valamint az ingatlan tulajdoni lapján széljegyzett személynek és ingatlan-nyilvántartási jogelődjének neve (cégneve) és lakcíme (székhelye) közlése érdekében. A kisajátítási hatóság végzése és annak melléklete ingatlan-nyilvántartási feljegyzésre alkalmas okirat, valamint az ingatlanügyi hatóság ezen okirat alapján teljesíti a név- és lakcímadatok szolgáltatását is.
 
 (2) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a kisajátítási hatóság – a 26. §-ban foglalt kivételekkel – tárgyalást tűz ki, továbbá a kisajátításra vonatkozó szakvélemény elkészítése céljából az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértőt (a továbbiakban: szakértő) rendel ki, és meghatározza a szakvélemény elkészítésének határidejét. A kisajátítási hatóság a szakértő kirendelésekor tájékoztatja az ügyfeleket arról, hogy az elkészült szakértői vélemény a kisajátítási hatóságnál mikor tekinthető meg, valamint részleges kisajátítás esetén – ha szükséges – kötelezi a kisajátítást kérőt a kisajátítandó ingatlan határainak a szakértővel egyeztetett időpontra történő ideiglenes kitűzésére is, mely kitűzést az ingatlanon fennálló jog jogosultja tűrni köteles.
 
@@ -411,7 +418,7 @@ kell figyelembe venni.
 
 29/A. § (1) Ha a kisajátítást kérő és a többi ügyfél a kártalanítás tárgyában egyezséget kötött, a kisajátítási hatóság az egyezséget határozatába foglalja.
 
-(2) A kártalanítás tárgyában kötött, a kisajátítási hatóság által jóváhagyott egyezséget a Polgári Törvénykönyvről szóló törvénynek a szerződési nyilatkozatok megtámadására vonatkozó szabályai szerint lehet megtámadni.
+(2) A kártalanítás tárgyában kötött, a kisajátítási hatóság által jóváhagyott egyezséget a Polgári Törvénykönyvnek a szerződési nyilatkozatok megtámadására vonatkozó szabályai szerint lehet megtámadni.
 
 30. § Ha a kisajátítás az ingatlannak csak egy részét érinti, az ingatlan megosztásáról – telekalakítási eljárás lefolytatása nélkül, a kisajátítási terv alapján – a kisajátítási hatóság dönt.
 

@@ -21,6 +21,7 @@ Az Országgyűlés az állat- és növényvilág természetes sokféleségének 
 - 1. bányató: olyan, a bányaművelés befejezését követően fennmaradt állóvíz, amely külszíni és földalatti bányászati tevékenység során az ásványi nyersanyagok feltárása és kitermelése következtében a felszín alatti vízkészletből alakult ki, és amelynek medrét a bányászat során kialakított terepmélyedés képezi;
 - 2. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény;
 - 3. fogási napló: a horgászat vagy halászat során kifogott halak – nyilvántartott halgazdálkodási vízterületenkénti, halfajonkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített nyomtatvány;
+- 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - 4. gereblyézés: a halnak nem a táplálkozási viselkedésére alapozottan, és a szájnyílásán kívüli más testrészébe akasztott horoggal történő zsákmányul ejtésére irányuló módszer;
 - 5. hal: a halak, illetve a körszájúak csoportjába tartozó állatfaj, valamint ezek egyedfejlődési alakjai;
 - 6. hal kifogása: a halnak és más hasznos víziállatnak a halászat vagy a horgászat során történő megfogása és a vízbe vissza nem engedése;
@@ -254,7 +255,7 @@ különleges rendeltetésűvé nyilvánítható.
 - a) a 16. § (6) bekezdése szerinti halgazdálkodási vízterületek esetén vagyonkezelési szerződéssel
   - aa) költségvetési szerv részére,
   - ab) az állam 100%-os tulajdonában álló olyan gazdálkodó szervezet részére, amely alapító okiratában vagy jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja azt hasznosítani, vagy
-- b) haszonbérleti szerződéssel természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet részére.
+- b) haszonbérleti szerződéssel természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére.
 
 25. § (1) Központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 
@@ -828,7 +829,7 @@ tekintetében adatot szolgáltat.
 
 #### 21. A halgazdálkodási hatóság által alkalmazható jogkövetkezmények
 
-64. § (1) A halgazdálkodási hatóság e törvényben és a végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat, bírságot szabhat ki vagy figyelmeztetésben részesíti az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező gazdálkodó szervezetet vagy természetes személyt (a továbbiakban együtt: eljárás alá vont személy).
+64. § (1) A halgazdálkodási hatóság e törvényben és a végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat, bírságot szabhat ki vagy figyelmeztetésben részesíti az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező szervezetet vagy természetes személyt (a továbbiakban együtt: eljárás alá vont személy).
 
 (2) Az (1) bekezdés szerinti jogkövetkezmény alkalmazásának nincs helye, ha a cselekménynek a halgazdálkodási hatóság tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
 
@@ -894,7 +895,7 @@ személlyel szemben.
 
 69. § (1) A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenötödik napig meg kell fizetni.
 
-(2) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezet kötelezettségeiért törvény alapján felel.
+(2) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért törvény alapján felel.
 
 (3) A bírság kiszabásáról rendelkező határozat fellebbezésre tekintet nélküli végrehajtása rendelhető el.
 

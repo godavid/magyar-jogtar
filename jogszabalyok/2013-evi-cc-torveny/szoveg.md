@@ -43,7 +43,7 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 - 3.
 - 4.
 - 5.
-- 6.
+- 6. 26. § (1) bekezdésében a „január 15-éig” szövegrész helyébe a „január 10-éig” szöveg;
 - 7.
 - 8–12.
 - 13.
@@ -301,7 +301,11 @@ lép.
 
 #### 21. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-233. §
+233. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) 2. § 6. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„6. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.”
 
 234–236. §
 

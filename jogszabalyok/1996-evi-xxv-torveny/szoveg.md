@@ -89,7 +89,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) Nem jelölhető ki pénzügyi gondnoknak
 
-- a) aki az önkormányzat polgármestere, képviselő-testületének tagja, költségvetési intézményének vezetője és dolgozója, illetve ezek, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti hozzátartozója, e minősége fennállása alatt, illetve annak megszűnésétől számított 3 évig;
+- a) aki az önkormányzat polgármestere, képviselő-testületének tagja, költségvetési intézményének vezetője és dolgozója, illetve ezeknek a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója, e minősége fennállása alatt, illetve annak megszűnésétől számított 3 évig;
 - b) aki az önkormányzat hitelezője, vagy akinek az önkormányzat a hitelezője, illetve akinél az önkormányzat tulajdonosi jogosultsággal rendelkezik. E szabályok irányadóak a kijelölt pénzügyi gondnok munkavállalóira is;
 - c) aki az önkormányzat által megbízott könyvvizsgáló, belső ellenőr;
 - d) aki a képviselő-testület bizottságának nem képviselő tagja;
@@ -137,7 +137,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - a) igazolási kérelemnek helye nincs;
 - b) a hitelezők fennálló (lejárt és le nem járt) követeléseiket beszedési megbízás benyújtása, végrehajtás és adósságrendezési eljárás kezdeményezése útján csak az adósságrendezési eljárás jogerős befejezését követő 2 év eltelte után érvényesíthetik.
 
-(5) A (4) bekezdés b) pontjában meghatározott követelések után az adósságrendezés megindításának időpontja utáni időszakra késedelmi kamat nem érvényesíthető. E követelések elévülésére a Ptk. 326. §-ának (2) bekezdésében foglaltak az irányadók.
+(5) A (4) bekezdés b) pontjában meghatározott követelések után az adósságrendezés megindításának időpontja utáni időszakra késedelmi kamat nem érvényesíthető. E követelések elévülésére a Ptk. 6:24. §-ában foglaltak az irányadók.
 
 12. § (1) A helyi önkormányzat és költségvetési szerve ellen az adósságrendezés megindításának időpontjában folyamatban lévő, a pénzkövetelések behajtására irányuló végrehajtási eljárásokat a végrehajtást foganatosító bíróság megszünteti, a lefoglalt vagyontárgyakat és a befolyt, de még ki nem fizetett pénzösszegeket – a pénzügyi gondnok egyidejű értesítése mellett – a helyi önkormányzatnak átadja. A helyi önkormányzat ingatlanán fennálló végrehajtási jog az adósságrendezés megindításának időpontjában megszűnik. A szükséges ingatlan-nyilvántartási eljárást a polgármester kezdeményezi.
 
@@ -178,7 +178,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - e) kezdeményezi a helyi önkormányzat esedékessé vált követeléseinek behajtását;
 - f) a hitelezőket – kérésükre – tájékoztatja a helyi önkormányzat vagyonával, továbbá az adósságrendezési eljárással kapcsolatban;
 - g) tájékoztatja a fővárosi és megyei kormányhivatalt, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
-- h) az adósságrendezés megindításának időpontjától számított 90 napon belül az általános hatáskörű bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 236. §-ának (3) bekezdésében foglalt szabályok vonatkoznak.
+- h) az adósságrendezés megindításának időpontjától számított 90 napon belül az általános hatáskörű bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 6:24–6:25. §-ában, valamint 6:89. § (4) bekezdésében foglalt szabályok vonatkoznak.
 
 (3) A pénzügyi gondnok jogszabálysértő intézkedése vagy mulasztása ellen a tudomásszerzéstől számított 8 napon belül a sérelmet szenvedett kifogással élhet az eljáró bíróságnál. Az intézkedéstől vagy mulasztástól számított 30 nap elteltével kifogás nem terjeszthető elő.
 
@@ -332,7 +332,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 31. § (1) Az adósságrendezésbe vonható vagyont a következő sorrendben kell a hitelezők között felosztani (kielégítési rangsor):
 
 - a) rendszeres személyi jellegű juttatások, ideértve a közszolgálati, továbbá közalkalmazotti jogviszony megszűnésekor járó végkielégítést is;
-- b) zálogjoggal, óvadékkal biztosított követelések a zálogtárgy (óvadék) értékének erejéig, feltéve, hogy a biztosítékot az adósságrendezési eljárás kezdő időpontja előtt legalább 6 hónappal kikötötték. Ez a korlátozás nem vonatkozik a korábbi adósságrendezési eljárás során kötött egyezséggel kapcsolatban nyújtott hitel biztosítékára. Ha a zálogtárgyat több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 251. § (3) bekezdése az irányadó;
+- b) zálogjoggal, óvadékkal biztosított követelések a zálogtárgy (óvadék) értékének erejéig, feltéve, hogy a biztosítékot az adósságrendezési eljárás kezdő időpontja előtt legalább 6 hónappal kikötötték. Ez a korlátozás nem vonatkozik a korábbi adósságrendezési eljárás során kötött egyezséggel kapcsolatban nyújtott hitel biztosítékára. Ha a zálogtárgyat több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 5:118. §-a az irányadó;
 - c) az államot illető, a korábbi adósságrendezési eljárás során kötött egyezséghez nyújtott visszterhes kamattámogatásból eredő követelések, a visszafizetendő cél- és címzett támogatás, tovább egyéb – visszatérítendő – költségvetési támogatás összege;
 - d) a társadalombiztosítási tartozások, az adók és az adók módjára behajtható köztartozások;
 - e) egyéb követelések;

@@ -140,7 +140,7 @@ az egyes fizetési szolgáltatókról
 
 (2) Utalványkibocsátó részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet.
 
-(3) A részvénytársasági formában és a korlátolt felelősségű társaságként működő pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre, utalványkibocsátóra a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a szövetkezeti formában működő pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre, utalványkibocsátóra a szövetkezetekre vonatkozó törvényi rendelkezéseket, a fióktelep formájában működő pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) A részvénytársasági formában, korlátolt felelősségű társaságként és szövetkezetként működő pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre és utalványkibocsátóra a Ptk. rendelkezéseit, a fióktelep formájában működő pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (4) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, amelynek székhelye Magyarország területén található, a főirodáját is Magyarország területén létesíti.
 
@@ -687,7 +687,7 @@ köteles megfelelni.
 
 54. § (1) Pénzforgalmi közvetítő az, aki az e törvényben foglaltaknak megfelelően a pénzügyi szolgáltatás közvetítését pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény részére pénzforgalmi közvetítői tevékenységként végzi.
 
-(2) Pénzforgalmi közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Pénzforgalmi közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel vagy más közvetítővel nem létesíthet.
+(2) Pénzforgalmi közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Pénzforgalmi közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel vagy más közvetítővel nem létesíthet.
 
 (3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az általa igénybe vett pénzforgalmi közvetítő tevékenységéért, az e törvényben foglaltak betartásáért teljes felelősséggel tartozik.
 
@@ -1152,11 +1152,11 @@ végzését.
 
 80. § (1) A Felügyelet felügyeleti biztost rendelhet ki, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó olyan helyzetbe kerül, amelyben fennáll a veszélye, hogy nem tud eleget tenni pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból eredő kötelezettségeinek.
 
-(2) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó igazgatósági tagjának, ügyvezetőjének a gazdasági társaságokra, szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
+(2) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó igazgatósági tagjának, ügyvezetőjének a Ptk. rendelkezései szerinti felelőssége fennmarad.
 
 (3) Ha nincs lehetőség a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó ügyeinek átvételére, a felügyeleti biztos közjegyző vagy rendőrség közreműködését veheti igénybe.
 
-(4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja, ügyvezetője a gazdasági társaságokra, szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának, ügyvezetőjének törvényben és alapszabályban megállapított jogait és kötelezettségeit.
+(4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja, ügyvezetője a Ptk. rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának, ügyvezetőjének törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
 (5) A (4) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, utalványkibocsátóval szemben hozott határozat ellen, e jogorvoslati eljárásban a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó képviselheti vagy a képviselet ellátására megbízást adhat.
 
@@ -1166,7 +1166,7 @@ végzését.
 
 (8) A Tvt. 3. § (1) bekezdés a) pontjában meghatározott időponttól kezdődően a közvetlenül csatlakozó résztvevő javára benyújtott fizetési megbízás elszámolása és teljesítése a (6) bekezdés szerinti döntés rendszerüzemeltetővel történt közlésétől függetlenül végrehajtható és megtámadhatatlan.
 
-81. § (1) A fizetési művelet érdekében a pénzforgalmi intézmény által átvett pénzeszköz – az átadó és az átvevő pénzforgalmi intézmény közötti megállapodás alapján – a Felügyelet engedélyével átruházható. Az állományátruházás során a Ptk. tartozásátvállalásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az állományátruházáshoz nem szükséges a szerződő fél hozzájárulása és a szerződés biztosítéka nem szűnik meg. A Felügyelet engedélye nem helyettesíti a Gazdasági Versenyhivatalnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerinti engedélyét.
+81. § (1) A fizetési művelet érdekében a pénzforgalmi intézmény által átvett pénzeszköz – az átadó és az átvevő pénzforgalmi intézmény közötti megállapodás alapján – a Felügyelet engedélyével átruházható. Az állományátruházás során a Ptk. szerződésátruházásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az állományátruházáshoz nem szükséges a szerződő fél jognyilatkozata és a szerződés biztosítéka nem szűnik meg. A Felügyelet engedélye nem helyettesíti a Gazdasági Versenyhivatalnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerinti engedélyét.
 
 (2) Az állományátruházás engedélyezése iránti kérelem tartalmazza:
 
@@ -1272,7 +1272,21 @@ végzését.
 
 Az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (6) bekezdés f) pont.
 
-#### 91. §
+91. § (1) A 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A részvénytársasági formában, korlátolt felelősségű társaságként és szövetkezetként működő pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre és utalványkibocsátóra a Ptk. rendelkezéseit, a fióktelep formájában működő pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.”
+
+(2) A 80. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó igazgatósági tagjának, ügyvezetőjének a Ptk. rendelkezései szerinti felelőssége fennmarad.”
+
+(3) A 80. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja, ügyvezetője a Ptk. rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának, ügyvezetőjének törvényben és alapszabályban megállapított jogait és kötelezettségeit.”
+
+(4) Az 54. § (2) bekezdésében a „jogi személy, jogi személyiség nélküli gazdasági társaság” szövegrész helyébe a „jogi személy” szöveg lép.
+
+(5) A 81. § (1) bekezdésben a „tartozásátvállalásra” szövegrész helyébe a „szerződésátruházásra” szöveg, a „hozzájárulása” szövegrész helyébe a „jognyilatkozata” szöveg lép.
 
 ### 1. melléklet a 2013. évi CCXXXV. törvényhez
 

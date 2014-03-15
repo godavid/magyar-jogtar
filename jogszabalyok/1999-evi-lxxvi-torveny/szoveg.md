@@ -47,7 +47,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 2. § Olyan műre, amely először külföldön került nyilvánosságra, az e törvényben meghatározott védelem csak akkor terjed ki, ha a szerző magyar állampolgár, vagy ha a szerzőt nemzetközi egyezmény, illetőleg viszonosság alapján a védelem megilleti.
 
-3. § Azokban a kérdésekben, amelyeket ez a törvény nem szabályoz, a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
+3. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok átszállására, átruházására, megterhelésére, valamint az e törvény hatálya alá tartozó művekkel és egyéb teljesítményekkel összefüggő egyéb személyi és vagyoni jogviszonyokban az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyv rendelkezései az irányadók.
 
 ### A szerzői jog
 
@@ -1291,7 +1291,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - e) követelheti a jogsértéssel elért gazdagodás visszatérítését;
 - f) követelheti a sérelmes helyzet megszüntetését, a jogsértést megelőző állapot helyreállítását, továbbá a kizárólag vagy elsősorban a jogsértéshez használt eszközök és anyagok, valamint a jogsértéssel előállott dolgok lefoglalását, meghatározott személynek történő átadását, kereskedelmi forgalomból való visszahívását, onnan való végleges kivonását, illetve megsemmisítését.
 
-(2) A szerzői jog megsértése esetén a szerző a polgári jogi felelősség szabályai szerint kártérítést is követelhet.
+(2) A szerzői jog megsértése esetén a szerző a polgári jogi felelősség szabályai szerint kártérítést is követelhet. Az e törvényben szabályozott személyhez fűződő joga megsértése esetén a szerző a polgári jog általános szabályai szerint sérelemdíjat is követelhet.
 
 (3) A szerző az (1) bekezdés b) pontjában meghatározott igényt azzal a személlyel szemben is támaszthatja, akinek szolgáltatásait a jogsértés elkövetéséhez igénybe vették.
 

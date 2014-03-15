@@ -91,13 +91,13 @@ gyakorolja.
 
 18. § (1) Az MNV Zrt. a Magyar Állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapító okiratának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
-(2) Az MNV Zrt. alapítására és működésére – ha e törvény eltérően nem rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) szabályait kell alkalmazni.
+(2) Az MNV Zrt. alapítására és működésére – ha e törvény eltérően nem rendelkezik – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szabályait kell alkalmazni.
 
 (3) Az MNV Zrt. alapító okiratát és annak módosításait a Magyar Közlönyben közzé kell tenni.
 
 19. § (1) Az MNV Zrt.-ben a Magyar Állam részvényesi jogait – az e törvényben meghatározott kivételekkel – a miniszter gyakorolja. Az MNV Zrt. működése során a közgyűlés jogai a részvényesi jogok gyakorlóját illetik meg.
 
-(2) Az MNV Zrt. működésének ellenőrzését a Felügyelő Bizottság látja el. A Felügyelő Bizottságra a Gt. 38–39. §-ának rendelkezéseit nem kell alkalmazni.
+(2) Az MNV Zrt. működésének ellenőrzését a Felügyelő Bizottság látja el. A Felügyelő Bizottságra a Ptk. 3:124.–3:127. §-ának rendelkezéseit nem kell alkalmazni.
 
 (3) A Kormány a Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek működéséről, az állami vagyon állományának alakulásáról, az állami vagyonnal való gazdálkodás folyamatairól évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
 
@@ -111,12 +111,15 @@ gyakorolja.
 
 (3) Az Igazgatóság elnökévé, tagjává az a felsőfokú végzettségű magyar állampolgár nevezhető ki, aki költségvetési, pénzügyi, vagyongazdálkodási tevékenységgel kapcsolatos kérdésekben kiemelkedő elméleti, vagy gyakorlati szakmai ismeretekkel rendelkezik. A 20/B. § rendelkezéseit az Igazgatóság elnöke és tagja esetében is megfelelően alkalmazni kell.
 
-(4) A Gt.-ben foglalt feladatokon kívül az Igazgatóság hatáskörébe tartozik
+(4) A Ptk.-ban foglalt feladatokon kívül az Igazgatóság hatáskörébe tartozik
 
 - a) az állami vagyon fejlesztésével, hasznosításával, elidegenítésével kapcsolatos irányelvekre vonatkozó javaslat kialakítása a miniszter részére,
 - b) az állami vagyon elidegenítésével – ideértve a cserét is – kapcsolatos döntés, ha az ügyben érintett vagyon rendelkezésre álló értéke (könyvszakértő által elfogadott vagyonérték, értékbecslés) eléri vagy meghaladja a nettó 500 millió forintot,
 - c) döntés az állami vagyon b) pont alá nem tartozó hasznosításáról, illetve megterheléséről, ha az ügylet rendelkezésre álló értéke (aktualizált nyilvántartási érték, értékbecslés, ajánlati ár, szerződéses ár) eléri vagy meghaladja az 500 millió forintot, vagy – a központi költségvetési szervek javára történő hasznosítás kivételével – a hasznosítás határozott időtartamra szól és az meghaladja a 10 évet,
-- d) döntés az állami tulajdonú gazdasági társaságok közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakításáról (mandátum kiadás), a Magyar Állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, ha – a társaság kizárólagos állami tulajdoni körbe tartozik, – a társaság részvényei valamilyen többletjogot biztosítanak – a Gt. 186. § (1) bekezdése alapján – a többletjogok vonatkozásában, – a társaság saját tőkéjén belül az állami részesedés eléri vagy meghaladja a 200 millió forintot,
+- d) döntés az állami tulajdonú gazdasági társaságok közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakításáról, az állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, ha
+  - da) a társaság kizárólagos állami tulajdoni körbe tartozik,
+  - db) a társaság részvényei valamilyen többletjogot biztosítanak – a Ptk. 3:230. § (1) bekezdése alapján – a többletjogok vonatkozásában,
+  - dc) a társaság saját tőkéjén belül az állami részesedés eléri vagy meghaladja a 200 millió forintot,
 - e) – ha annak jogszabályban foglalt feltételei fennállnak – döntés a zártkörű pályázat kiírásáról, vagy a versenyeztetés mellőzéséről, ha az ügyben érintett vagyon rendelkezésre álló értéke eléri vagy meghaladja az 50 millió forintot,
 - f) gazdasági társaság alapítása, abban részesedés szerzése, átalakítása, megszüntetése, részére állami vagyon nem vagyoni hozzájárulásként történő rendelkezésre bocsátása, amennyiben az apport értéke meghaladja a 200 millió forintot,
 - g) ingyenes vagyonátadásra vonatkozó javaslat kialakítása a döntéshozó részére,
@@ -133,7 +136,7 @@ gyakorolja.
 
 (5) Az Igazgatóság a (4) bekezdés alapján a hatáskörébe nem tartozó bármely ügyet magához vonhat. A (4) bekezdésben meghatározott döntési hatáskörök jogosultjának megállapításához az értéket (ügyletértéket) vagyonelemenként kell figyelembe venni azzal, hogy amennyiben a döntés több vagyonelem együttes értékesítésére, hasznosítására irányul a döntési hatáskört a vagyonelemek, illetve az azokhoz kapcsolódó ügyletek együttes értéke alapján kell meghatározni.
 
-(6) Az Igazgatóság tagját megillető jogokra és az őt terhelő kötelezettségekre a Gt. szerinti társasági jogi jogviszony az irányadó azzal, hogy az ott nem szabályozott kérdésekben a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
+(6) Az Igazgatóság tagját megillető jogokra és az őt terhelő kötelezettségekre a Ptk. szerinti társasági jogi jogviszonyra vonatkozó rendelkezések az irányadók azzal, hogy az ott nem szabályozott kérdésekben a Ptk.-nak a megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
 
 (7) Az Igazgatóság tagja csak a jogszabályoknak, az alapító okiratnak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter határozatainak van alávetve.
 
@@ -804,9 +807,9 @@ lép.
 
 (5) Az MNV Zrt. – annak érdekében, hogy a jogügylet számviteli elszámolása a gazdasági társaság vagyonában ne eredményezzen vagyonvesztést – jogosult a gazdasági társaság visszapótlási kötelezettségét elengedni, a visszapótlási kötelezettségből származó követelést a gazdasági társasság javára nem pénzbeli hozzájárulásként rendelkezésre bocsátani vagy az elszámolásról egyéb módon rendelkezni. A jogügylet és az annak végrehajtására irányuló eljárások (így különösen az ingatlan-nyilvántartási bejegyzés, telekalakítás, más célú hasznosítási eljárás) adó-, illeték-, díj-, valamint járulékmentesek és nem minősülnek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alapján termékértékesítésnek, illetve szolgáltatásnyújtásnak, a megállapodás esetleges egyéb költségei az MNV Zrt.-vel szerződő gazdasági társaságot terhelik.
 
-70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 685. §-ának b) pontjában meghatározott személyek minősülnek.
+70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek minősülnek.
 
-(2)
+(2) E törvény alkalmazásában gazdálkodó szervezet a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 71. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

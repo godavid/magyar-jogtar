@@ -55,7 +55,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - u) szakmai egyesület: olyan egyesület, amelyben a taggá válás feltétele valamely szakmához való tartozás,
 - v) a tag követelése: a felhalmozási időszakban a tag egyéni számlájának egyenlege, a járadékos időszakban a tag által választott szolgáltatás tartalékából az őt a jövőben még megillető szolgáltatás értéke, a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag egyéni számlaegyenlege, valamint a Pénztárak Garanciaalapja garanciális kifizetésekre fordítható pénzeszközeinek az egy főre jutó összege.
 - x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, közszolgálati, illetve kormányzati szolgálati jogviszonyban, bírósági, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
-- y) közeli hozzátartozó: a Ptk. 685. §-ának b) pontjában megjelölt közeli hozzátartozó, valamint az élettárs,
+- y) közeli hozzátartozó: a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs,
 - z) szolgáltató: az a természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság, amely a pénztárral kötött szerződés alapján a pénztár részére a pénztárüzem működésének részét képező, azt lehetővé tevő, elősegítő, illetve a pénztári szolgáltatásokat ténylegesen nyújtó tevékenységet végez. Szolgáltatónak minősül különösen az, aki (amely) a pénztár részére letétkezelői tevékenységet folytat, amelyhez a pénztár a befektetési üzletmenetét, illetve a könyvelése, nyilvántartásai vezetését kihelyezte, illetve amely a pénztár részére tagszervezést végez, valamint a pénztár tagja részére járadékszolgáltatást teljesítő biztosító intézet. Szolgáltatónak minősül az is, aki (amely) az e pontban meghatározott szolgáltatóval kötött szerződés alapján az előzőek szerinti, pénztárral kapcsolatos tevékenységet végez,
 - zs) értékelési különbözet céltartaléka: a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló jogszabályban felsorolt eszközcsoportokba tartozó eszközök esetében az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára vonatkozóan meghatározott felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében képzett céltartalék. Az értékelési különbözet az adott eszközcsoportokon belül elkülönítetten, a források között a működési, a fedezeti (választható befektetési portfóliót biztosító rendszert működtető pénztárak esetén választható befektetési portfóliónként), illetve a likviditási céltartalékon belül értékelési különbözetből képzett céltartalékként jelenik meg;
   - zsa) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevékenység ellátásával üzletszerűen foglalkozó szervezet (szolgáltató) által, szerződés alapján történő megvalósítása,
@@ -812,7 +812,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 - a) aki 10 százalékot elérő vagy azt meghaladó részesedéssel rendelkezik, rendelkezett, olyan befektetési vállalkozásban, pénzügyi intézményben, biztosítóban, amely öt éven belül fizetésképtelenné vált, vagy fizetésképtelenségét csak felügyeleti intézkedéssel lehetett elkerülni, illetve amelynek tevékenységi engedélyét az illetékes felügyelet visszavonta,
 - b) aki vezető tisztségviselő volt olyan önkéntes kölcsönös biztosító pénztárban, pénztárban, biztosítóintézetben, pénzügyi intézményben vagy befektetési vállalkozásban, amely öt éven belül fizetésképtelenné vált, illetve amelynek tevékenységi engedélyét állami felügyelete visszavonta,
 - c) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet, más hatóság a legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította. E tekintetben súlyos szankciónak minősül, ha a Felügyelet, más hatóság jogerős határozatban a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott.
-- d) aki vezető tisztségviselője volt olyan, a Gt. hatálya alá tartozó vállalkozásnak vagy szövetkezetnek, amelyben 5 éven belül csőd- vagy felszámolási eljárást kellett lefolytatni,
+- d) aki vezető tisztségviselője volt olyan, a Ptk. hatálya alá tartozó gazdasági társaságnak vagy szövetkezetnek, amelyben 5 éven belül csőd- vagy felszámolási eljárást kellett lefolytatni,
 - e) akinek egyéb tulajdonosi érdekeltsége és üzleti tevékenysége veszélyeztetné a pénztár biztonságos működését.
 
 (5) A (4) bekezdés e) pontja alkalmazása szempontjából a pénztár biztonságos működését veszélyezteti különösen, ha a leendő vezető tisztségviselő
@@ -1423,7 +1423,7 @@ sorolja be.
 
 ### Az üzleti titok és pénztártitok
 
-78. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk. 81. § (2) bekezdésében meghatározott fogalmat kell érteni.
+78. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk. 2:47. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) Pénztártitok minden olyan, a pénztártagról a pénztár vagy a pénztári szolgáltató szervezet rendelkezésére álló, a tevékenysége folytán tudomására jutó tény, információ vagy adat, amely a pénztártag személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira, valamint egyéni számláján nyilvántartott összegre, járulékbefizetéseire és a részére járó nyugdíjszolgáltatásra vonatkozik. A pénztártagok nyilvántartható személyes adatainak körét a törvény 2. számú melléklete tartalmazza. A pénztár üzleti és pénztártitkot kizárólag a pénztári tevékenység folytatásával összefüggésben kezelhet.
 
@@ -2231,7 +2231,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 - 8. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény;
 - 9.
 - 10. Öpt.: az 1993. évi XCVI. törvény az Önkéntes Kölcsönös Biztosító Pénztárakról;
-- 11. Ptk.: az 1959. évi IV. törvény a Magyar Köztársaság Polgári Törvénykönyvéről;
+- 11. Ptk.: 2013. évi V. törvény a Polgári Törvénykönyvről;
 - 12. Tbj.: az 1997. évi LXXX. törvény a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről;
 - 13. Tny.: az 1997. évi LXXXI. törvény a társadalombiztosítási nyugellátásról;
 - 14. Szja.: az 1995. évi CXVII. törvény a személyi jövedelemadóról.

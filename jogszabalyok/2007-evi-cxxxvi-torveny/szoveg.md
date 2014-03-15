@@ -22,7 +22,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedik;
 - k) árukereskedelmi tevékenysége folytatása során hárommillió-hatszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
 - l) önkéntes kölcsönös biztosítópénztárként működik;
-- m) ügyvédi, közjegyzői tevékenységet végez.
+- m) ügyvédi, közjegyzői tevékenységet végez;
+- n) bizalmi vagyonkezelési tevékenységet végez.
 
 (2) E törvény hatálya kiterjed arra, aki
 
@@ -36,7 +37,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott ügynöki tevékenység;
 - b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 33. § (4) bekezdésében meghatározott függő biztosításközvetítő;
 - c) a Bit. 33. § (4) bekezdésében meghatározott független biztosításközvetítő a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
-- d) a biztosító, amennyiben kizárólag a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó és 2. számú melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében.
+- d) a biztosító, amennyiben kizárólag a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó és 2. számú melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében;
+- e) a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott nem üzletszerűen eljáró bizalmi vagyonkezelő.
 
 (5) Nem tartozik e törvény hatálya alá az (1) bekezdés a) pontjában meghatározott tevékenység, ha azt a Magyar Nemzeti Bank (a továbbiakban: MNB) végzi, kivéve a 2. § és 22. § rendelkezései alapján végzett pénzátutalási szolgáltatás nyújtását.
 
@@ -70,8 +72,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - qb) a pénzváltási tevékenységet folytató szolgáltató esetében azon ügyletek, amelyekre vonatkozóan egy héten belül az ügyfél megbízást ad,
   - qc) az 1. § (1) bekezdés k) pontjában meghatározott tevékenységet folytató szolgáltató vonatkozásában a részletvétel alapján történő fizetések, fizetési megbízások;
 - r) tényleges tulajdonos:
-  - ra) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetlenül vagy – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685/B. § (3) bekezdésében meghatározott módon – közvetve a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával rendelkezik, ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nem a szabályozott piacon jegyzett társaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak,
-  - rb) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben – a Ptk. 685/B. § (2) bekezdésében meghatározott – meghatározó befolyással rendelkezik,
+  - ra) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetlenül vagy – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. § (4) bekezdésében meghatározott módon – közvetve a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával rendelkezik, ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nem a szabályozott piacon jegyzett társaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak,
+  - rb) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben – a Ptk. 8:2. § (2) bekezdésében meghatározott – meghatározó befolyással rendelkezik,
   - rc) az a természetes személy, akinek megbízásából valamely ügyleti megbízást végrehajtanak,
   - rd) alapítványok esetében az a természetes személy, 1. aki az alapítvány vagyona legalább huszonöt százalékának a kedvezményezettje, ha a leendő kedvezményezetteket már meghatározták, 2. akinek érdekében az alapítványt létrehozták, illetve működtetik, ha a kedvezményezetteket még nem határozták meg, vagy 3. aki tagja az alapítvány kezelő szervének, vagy meghatározó befolyást gyakorol az alapítvány vagyonának legalább huszonöt százaléka felett, illetve az alapítvány képviseletében eljár, továbbá
   - re) az ra)–rb) alpontokban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
@@ -102,7 +104,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - e) a nagykövet, az ügyvivő és a fegyveres szervek hivatásos állományú főtiszti rendfokozatú, tábornoki beosztású és tábornoki rendfokozatú tagjai,
 - f) a többségi állami tulajdonú vállalkozás ügyviteli, igazgatási vagy felügyelő testületének tagja.
 
-(3) Az (1) bekezdés alkalmazásában közeli hozzátartozó a Ptk. 685. §-ának b) pontjában meghatározott közeli hozzátartozó, továbbá az élettárs.
+(3) Az (1) bekezdés alkalmazásában közeli hozzátartozó a Ptk. szerinti közeli hozzátartozó, továbbá az élettárs.
 
 (4) Az (1) bekezdés alkalmazásában a kiemelt közszereplővel közeli kapcsolatban álló személy:
 
@@ -119,7 +121,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - ea) az ügyvédek esetében az a kamara, amelynek az ügyvéd a tagja (a továbbiakban: területi kamara),
   - eb) a közjegyzők esetében az a kamara, amelynek a közjegyző a tagja (a továbbiakban: területi kamara);
 - f) j) és k) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a kereskedelmi hatóság;
-- g) f) és h) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság.
+- g) f) és h) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság;
+- h) n) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szerinti hivatal (a továbbiakban: Hivatal).
 
 ### Ügyfél-átvilágítási kötelezettség
 
@@ -568,25 +571,25 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### Felügyelet, intézkedések
 
-34. § (1) Az 5. § a)–c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a felügyeleti tevékenység gyakorlása során biztosítja a szolgáltató e törvény rendelkezéseinek való megfelelését.
+34. § (1) Az 5. § a)–c) és f)–h) pontjában meghatározott felügyeletet ellátó szerv a felügyeleti tevékenység gyakorlása során biztosítja a szolgáltató e törvény rendelkezéseinek való megfelelését.
 
-(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és az MNBtv. rendelkezései szerint jár el.
+(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c) és f)–h) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és az MNBtv. rendelkezései szerint jár el.
 
 (3) A felügyelet ellátása során az 5. § d) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: könyvvizsgálói törvény) rendelkezései szerint jár el.
 
 (4) A felügyelet ellátása során az 5. § e) pont ea) alpontjában meghatározott felügyeletet ellátó szerv az ügyvédekről szóló 1998. évi XI. törvény (a továbbiakban: Ütv.), az 5. § e) pont eb) alpontjában meghatározott felügyeletet ellátó szerv a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjt.) rendelkezései szerint jár el.
 
-35. § (1) E törvény rendelkezéseinek a megsértése vagy az e törvényben meghatározott kötelezettségek nem megfelelő teljesítése esetén az 5. § a)–c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a jogsértés súlyával arányosan a következő intézkedéseket alkalmazhatja:
+35. § (1) E törvény rendelkezéseinek a megsértése vagy az e törvényben meghatározott kötelezettségek nem megfelelő teljesítése esetén az 5. § a)–c) és f)–h) pontjában meghatározott felügyeletet ellátó szerv a jogsértés súlyával arányosan a következő intézkedéseket alkalmazhatja:
 
 - a) felhívja a szolgáltatót, hogy tegye meg a szükséges intézkedéseket e törvény rendelkezéseinek betartására, a feltárt hiányosságok megszüntetésére;
 - b) javaslatot tesz a szolgáltatónak
-  - ba) az 1. § (1) bekezdésében meghatározott tevékenységet ellátó alkalmazottak (vezetők) speciális képzési programban való részvételére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére,
+  - ba) az 1. § (1) bekezdésében meghatározott tevékenységet ellátó alkalmazottak (vezetők) speciális képzési programban való részvételére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére;
   - bb) a szabályzat meghatározott határidőn belüli, meghatározott szempontok szerinti átdolgozására;
   - bc) vizsgálat lefolytatására a szabályzat szerint és a felelőssel szembeni eljárás kezdeményezésre;
 - c) figyelmezteti a szolgáltatót;
-- d) határozattal megállapítja a jogsértés tényét, s egyben elrendeli a jogsértő állapot megszüntetését;
+- d) határozattal megállapítja a jogsértés tényét, és egyben elrendeli a jogsértő állapot megszüntetését;
 - e) kötelezi a szolgáltatót a jogsértés abbahagyására;
-- f) az a)–e) pontban felsorolt intézkedések mellett vagy önállóan az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltató esetében kétszázezertől ötszázmillió forintig terjedő bírságot, az 1. § (1) bekezdés f), h)–i), j) és k) pontjában meghatározott tevékenységet végző szolgáltató esetében ötvenezertől húszmillió forintig terjedő bírságot szabhat ki.
+- f) az a)–e) pontban felsorolt intézkedések mellett vagy önállóan az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltató esetében kétszázezertől ötszázmillió forintig terjedő bírságot, az 1. § (1) bekezdés f), h)–j), k) és n) pontjában meghatározott tevékenységet végző szolgáltató esetében ötvenezertől húszmillió forintig terjedő bírságot szabhat ki.
 
 (2) A szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet és a szolgáltató vezetője a szolgáltató javára sérti meg e törvény rendelkezéseit.
 
@@ -653,6 +656,14 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 (4) Az ügyvéd és a közjegyző bejelentési kötelezettségének teljesítése nem tekinthető a külön törvényen alapuló titoktartási kötelezettsége megsértésének.
 
 (5) E törvény alkalmazásában a közjegyzőt nem terheli a Kjt. 3. § (2) bekezdésében előírt kötelezettség.
+
+### A bizalmi vagyonkezelési tevékenységet végző szolgáltatókra vonatkozó eltérő rendelkezések
+
+38/A. § (1) E törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a bizalmi vagyonkezelési tevékenységet végző szolgáltatók részére a Hivatal egységes szabályzatot készít, amely a bizalmi vagyonkezelési tevékenységet végző szolgáltatók tekintetében a 33. §-ban foglalt belső szabályzatnak minősül. Az egységes szabályzatot a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter hagyja jóvá.
+
+(2) Az (1) bekezdésben meghatározott egységes szabályzatot a Hivatal köteles kétévente felülvizsgálni és szükség esetén módosítani.
+
+(3) Az (1) bekezdésben meghatározott egységes szabályzatot a Hivatal köteles e törvény módosításait követően felülvizsgálni és szükség esetén módosítani.
 
 ### Záró és felhatalmazó rendelkezések
 

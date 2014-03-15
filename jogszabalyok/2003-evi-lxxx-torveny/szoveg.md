@@ -599,7 +599,9 @@ tart.
 (3) Ha az egyetem a jogi segítői tevékenységének folytatására nem rendelkezik ügyvéd megbízottal, jogi segítői tevékenységére e törvény rendelkezései a következő eltérésekkel alkalmazandók:
 
 - a) csak peren kívüli segítségnyújtást végezhet,
-- b) az egyetemet terheli a polgári jogi felelősség a szakszerűtlen segítségnyújtásból eredő károk megtérítéséért,
+- b) a szakszerűtlen segítségnyújtással okozott
+  - ba) károk megtérítéséért az egyetem tartozik polgári jogi felelősséggel, valamint
+  - bb) a személyiségi jogi jogsértés miatt járó sérelemdíj megfizetésére az egyetem köteles a Polgári Törvénykönyv szabályai szerint,
 - c) a jogi szolgáltatás nyújtását a szervezeti egységet vezető oktató felügyelete mellett jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktató végezheti.
 
 69. § (1) A jogi segítő szolgáltatási szerződésben megjelölt időtartamra vonatkozó közreműködési kötelezettsége vagy általános jellegű, vagy az általa megjelölt szakterületre, illetve az általa egy hónapra megjelölt számú ügyben történő jogi szolgáltatásra terjed ki.
@@ -631,7 +633,7 @@ tart.
 
 ### Törlés a névjegyzékből
 
-71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére a Polgári Törvénykönyvről szóló 1959. évi IV. törvény rendelkezései az e törvényben foglalt eltérésekkel megfelelően irányadóak, a szerződés megszüntetésének és felbontásának nincs helye.
+71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére a Polgári Törvénykönyv rendelkezései az e törvényben foglalt eltérésekkel megfelelően irányadóak, a (2) és (3) bekezdésben foglaltakon kívül a szerződés megszüntetésének és felbontásának nincs helye.
 
 (2) A szerződést a jogi segítségnyújtó szolgálat felmondja, ha a jogi segítői névjegyzékbe történő bejegyzés feltételei megszűntek vagy megállapítja, hogy azok már a felvételkor sem álltak fenn.
 

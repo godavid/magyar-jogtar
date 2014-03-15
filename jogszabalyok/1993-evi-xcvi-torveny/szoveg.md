@@ -49,7 +49,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (4) E törvény alkalmazásában
 
-- a) közeli hozzátartozó: a Ptk. 685. §-ának b) pontjában megjelölt közeli hozzátartozó és az élettárs;
+- a) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs;
 - b) hozzáférhetőség: a pénztár által szervezett és nyújtott szolgáltatásokra a pénztár alapszabályában meghatározott módon kizárólag a pénztártagok, illetve a pénztártag jogán a közeli hozzátartozók jogosultak;
 - c) várakozási idő: a tagsági viszonynak a belépéstől számított alapszabály szerinti azon időszaka, amelynek elteltével az egyéni számlaköveteléshez, illetve a szolgáltatáshoz a pénztártag hozzájuthat;
 - d) kiegészítő vállalkozási tevékenység: a pénztár szervezetében folytatott mindazon gazdálkodási tevékenység, amelyet az alaptevékenységként megjelölt szolgáltatások szervezéséhez és nyújtásához kapcsolódóan, arra visszahatóan, a pénztár szolgáltatási kötelezettségén felül, ellenszolgáltatás fejében nyújt;
@@ -139,7 +139,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (2) A pénztárt a székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alakuló közgyűlést követő 30 napon belül kell benyújtani a bírósághoz. A kérelemhez mellékelni kell az alakuló közgyűlés által elfogadott alapszabályt, az alakuló közgyűlés jegyzőkönyvét, a jelenléti ívet, valamint a kérelem beadását követően a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nemperes eljárásban határoz és határozatát a kérelmezővel egyidejűleg kézbesíti az ügyész részére, továbbá megküldi a Felügyeletnek.
 
-(3) A pénztár a bírósági nyilvántartásba vétellel jön létre, az alakuló közgyűlés időpontjára visszaható hatállyal. A pénztár nyilvántartásba vételének meghiúsulása esetén a felek egymás közötti jogviszonyaira a Polgári Törvénykönyvről szóló többször módosított 1959. évi IV. törvény (a továbbiakban: Ptk.) rendelkezései az irányadók.
+(3) A pénztár a bírósági nyilvántartásba vétellel jön létre, az alakuló közgyűlés időpontjára visszaható hatállyal. A pénztár nyilvántartásba vételének meghiúsulása esetén a felek egymás közötti jogviszonyaira a Ptk. rendelkezései az irányadók.
 
 7. § (1) A bírósági nyilvántartásba vétel megtörténte előtt a pénztár nevében eljáró természetes személyek egyetemlegesen felelnek a pénztár nevében vállalt kötelezettségekért. E felelősség korlátozása vagy kizárása harmadik személlyel szemben semmis.
 
@@ -405,7 +405,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) Az igazgatótanács és az ellenőrző bizottság tagjai, ha az alapszabály erre módot ad, díjazásban részesülhetnek a közgyűlés határozatának megfelelően.
 
-(4) Az ellenőrző bizottságnak nem lehet tagja a pénztár ügyvezetője, alkalmazottja, illetve az igazgatótanács tagja, valamint ezen személyek közeli hozzátartozója [Ptk. 685. § b) pont].
+(4) Az ellenőrző bizottságnak nem lehet tagja a pénztár ügyvezetője, alkalmazottja, illetve az igazgatótanács tagja, valamint ezen személyek közeli hozzátartozója.
 
 (5)
 
@@ -783,13 +783,13 @@ kell helyezni.
 
 ### Az üzleti titok és pénztártitok
 
-40/A. § (1) Üzleti titok minden olyan, a pénztár tevékenységéhez kapcsolódó tény, információ, megoldás vagy adat, amelynek titokban maradásához a pénztárnak méltányolható érdeke fűződik, és amelyet a pénztár üzleti titokká minősített, illetve amelynek titokban tartása érdekében a pénztár a szükséges intézkedéseket megtette.
+40/A. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk. 2:47. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) Pénztártitok minden olyan, a pénztártagról és a munkáltatói tagról a pénztár vagy a pénztári szolgáltató rendelkezésére álló, a tevékenysége folytán tudomására jutó tény, információ vagy adat, amely a pénztártag, a pénztártag kedvezményezettjének, örökösének, közeli hozzátartozójának személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira, valamint egyéni számláján nyilvántartott összegre, illetve, amely a munkáltatói tag, illetve a támogató adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira vonatkozik. A pénztár üzleti és pénztártitkot kizárólag a pénztári tevékenység folytatásával összefüggésben kezelhet.
 
 (3) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
-(4) Az üzleti titokra egyebekben a Ptk. 81. §-ában foglaltakat kell megfelelően alkalmazni.
+(4)
 
 (5) A pénztár igazgatótanácsának és az ellenőrző bizottságának tagja, a pénztár alkalmazottja, ideértve a megbízás alapján foglalkoztatott személyeket, szervezeteket, illetőleg ezek alkalmazottait is, köteles a pénztár működésével kapcsolatban tudomására jutott üzleti titkot és pénztártitkot – időbeli korlátozás nélkül, ezen minősége megszűnését követően is – megtartani.
 

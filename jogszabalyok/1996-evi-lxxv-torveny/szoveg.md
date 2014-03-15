@@ -8,7 +8,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 1. § (1) E törvény hatálya kiterjed
 
-- a) arra a természetes és jogi személyre, valamint jogi személynek nem minősülő gazdasági társaságra, aki, illetve amely a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony – ideértve az egyszerűsített foglalkoztatásra vagy alkalmi munkára létesített munkaviszonyt is –, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
+- a) arra a természetes és jogi személyre, aki, illetve amely a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony – ideértve az egyszerűsített foglalkoztatásra vagy alkalmi munkára létesített munkaviszonyt is –, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
 - b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönbevevőre
 
 (a továbbiakban együtt: foglalkoztató).
@@ -22,8 +22,8 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (4) Nem foglalkoztatásra irányuló jogviszony keretében történik
 
-- a) a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben szabályozott vállalkozási szerződés (389–415. §), valamint megbízási szerződés (474–487. §) alapján végzett munka, továbbá
-- b) a gazdasági társaságokról szóló törvényben szabályozott közkereseti társaság és betéti társaság tagjának személyes közreműködése, valamint a korlátolt felelősségű társaság tagjának mellékszolgáltatásként nyújtott személyes közreműködése,
+- a) a Polgári Törvénykönyvben szabályozott vállalkozási szerződés, valamint megbízási szerződés alapján végzett munka, továbbá,
+- b) a Polgári Törvénykönyvben szabályozott közkereseti társaság és betéti társaság tagjának személyes közreműködése, valamint a korlátolt felelősségű társaság tagjának mellékszolgáltatásként nyújtott személyes közreműködése,
 - c) a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvényben (a továbbiakban: Köt.) szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
 - d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés alapján teljesíti,
 - e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
@@ -78,7 +78,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 
-(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezeti tagnak az Mt. 223. §-a alapján történő munkavégzése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Mt. 224. § (1)–(3) tekintetében a szolgáltatás fogadójára. Az iskolaszövetkezetnél az (1) bekezdés a)–b), e)–i), valamint r)–s) pontja vonatkozásában lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
+(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezeti tagnak az Mt. 223. §-a alapján történő munkavégzése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Mt. 224. § (1)–(3) tekintetében a szolgáltatás fogadójára. Az iskolaszövetkezetnél az (1) bekezdés a)–b), e)–i), valamint r)–s) pontja vonatkozásában lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését az iskolaszövetkezeteket szabályozó törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
 
 (4) A foglalkoztató saját maga munkaügyi hatósági ellenőrzés alá vonását nem kérelmezheti.
 

@@ -107,13 +107,17 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 (4) A (2) bekezdés a) pontjában felsorolt szervek egységeinek a tűzoltásvezető csak a jelenlevő parancsnokaik, illetve vezetőik útján adhat utasítást a tűzoltásban való közreműködésre.
 
-8. § (1) A tűzoltóság által a tűzoltás, a műszaki mentés vagy az ezzel kapcsolatos gyakorlatok során okozott kár, illetőleg a tűzjelzésben, tűzoltásban, műszaki mentésben közreműködőknek a közreműködésükkel, járműveik, eszközeik, felszereléseik igénybevételével közvetlen összefüggésben keletkezett, más forrásból meg nem térülő kárának megtérítésére – az elmaradt haszon kivételével –, ha e törvény kivételt nem tesz, a Polgári Törvénykönyv szabályait kell alkalmazni.
+8. § (1) A tűzoltóság fenntartója a Polgári Törvénykönyv szerződésen kívül okozott kárért való felelősségre vonatkozó szabályai szerint köteles a tűzoltóság által a tűzoltás, a műszaki mentés vagy a tűzoltással, illetve műszaki mentéssel kapcsolatos gyakorlatok során, azokkal közvetlen összefüggésben harmadik személynek okozott, más forrásból meg nem térülő kárért – az elmaradt vagyoni előny kivételével – a kártérítés megfizetésére.
 
-(2) Nem kell megtéríteni annak a kárát, aki a tüzet szándékosan vagy súlyos gondatlanságból okozta.
+(2) A tűzoltóság fenntartója a Polgári Törvénykönyv sérelemdíjra vonatkozó szabályai szerint köteles a tűzoltóság által a tűzoltás, a műszaki mentés vagy a tűzoltással, illetve műszaki mentéssel kapcsolatos gyakorlatok során – azokkal közvetlen összefüggésben – harmadik személynek okozott személyiségi jogsértésért sérelemdíj megfizetésére.
 
-(3) A kártérítési, illetve kártalanítási ügyekben a kárt okozó tűzoltóság fenntartója jár el.
+(3) A tűzjelzésben, tűzoltásban, műszaki mentésben a 7. § (2) bekezdése alapján közreműködő által a tűzoltás, a műszaki mentés során okozott kárt, illetve személyiségi jogsértést úgy kell tekinteni, mintha azt a tűzoltóság okozta volna. Mentesül a tűzoltóság a felelősség, illetve a sérelemdíjjal való helytállás alól, ha bizonyítja, hogy őt a közreműködő utasításokkal való ellátásában és felügyeletében felróhatóság nem terheli.
 
-(4) Köteles a tűzoltással, műszaki mentéssel és ezek jelzésével kapcsolatosan keletkezett költségek megtérítésére az, aki
+(4) A tűzjelzésben, tűzoltásban, műszaki mentésben a 7. § (2) bekezdése alapján közreműködők a közreműködésükkel, járműveik, eszközeik, felszereléseik igénybevételével közvetlen összefüggésben keletkezett, más forrásból meg nem térülő káruk megtérítésére – az elmaradt vagyoni előny kivételével –, illetve a személyiségi joguk megsértése esetén követelhető sérelemdíj megfizetésére a Polgári Törvénykönyv szerződésen kívül okozott kárért való felelősségre, valamint sérelemdíjra vonatkozó szabályai szerint tarthatnak igényt a tűzoltóság fenntartójától.
+
+(5) Nem kell megtéríteni annak a kárát, illetve nem tarthat igényt sérelemdíjra az, aki a tüzet szándékosan vagy súlyos gondatlanságból okozta.
+
+(6) Köteles a tűzoltással, műszaki mentéssel és ezek jelzésével kapcsolatosan keletkezett költségek megtérítésére az, aki
 
 - a) a beavatkozást igénylő eseményt szándékosan okozta;
 - b) a tűzoltásra vagy a műszaki mentésre vonatkozóan szándékosan megtévesztő jelzést adott;
@@ -446,7 +450,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - c) az eseményt észlelőket a helyszínen maradásra, a helyszínen tartózkodókat az általános segítségnyújtási kötelezettség körében a segítségnyújtásban való közreműködésre kérheti fel,
 - d) a hivatásos tűzoltóság vagy önkormányzati tűzoltóság helyszínre érkezését követően a tűz oltásában, illetve a műszaki mentésben a tűzoltásvezető intézkedésének megfelelően működik közre.
 
-(2) A közreműködő önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére a Polgári Törvénykönyv (a továbbiakban: Ptk.) az e törvényben foglalt eltérésekkel irányadó.
+(2) A közreműködő önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére, valamint a szaktevékenységével összefüggésben őt ért személyiségi jogsértés esetén a sérelemdíj iránti igénye érvényesítésére a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rendelkezései az e törvényben foglalt eltérésekkel irányadók.
 
 33/D. § (1) A közreműködő önkéntes tűzoltó egyesület a szaktevékenység végzésére írásban megállapodást köt a hivatásos tűzoltósággal.
 
@@ -579,7 +583,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (2) A központi költségvetésből történő támogatás mértékének meghatározása során a hivatásos katasztrófavédelmi szerv központi szerve által meghatározott, és a katasztrófák elleni védekezésért felelős miniszter által jóváhagyott állománytáblázatban és gépjárműállomány-táblázatban rögzítetteket kell alapul venni.
 
-(3) A hivatásos tűzoltóság és az önkormányzati tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetét a hivatásos katasztrófavédelmi szerv központi szerve költségvetésében kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről. A szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítésére szolgáló fedezetet a munkáltató köteles biztosítani.
+(3) A hivatásos tűzoltóság és az önkormányzati tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetét a hivatásos katasztrófavédelmi szerv központi szerve költségvetésében kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről. A szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítésére és sérelemdíjának kifizetésére szolgáló fedezetet a munkáltató köteles biztosítani.
 
 (4) A tűzoltóság fenntartója a tűzoltóság készenléti szolgálatot, és a tűzoltás irányítását ellátó tagjai részére szolgálati tevékenységükre vonatkozóan köteles élet- és balesetbiztosítást kötni.
 
@@ -616,7 +620,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 (5) A tűzoltóság vonatkozásában központi gazdálkodás körébe tartoznak:
 
 - a) a tűzoltóságok beruházására, fejlesztésére szolgáló központi költségvetési előirányzat;
-- b) a rendkívüli események, ideértve a szolgálati feladatok során súlyos munkabalesetet szenvedett tűzoltó kártérítése folytán felmerülő többletköltségek, továbbá a tűzoltóságnak a működési területén kívüli igénybevételével keletkező költségek fedezetére szolgáló költségvetési előirányzat;
+- b) a rendkívüli események, ideértve a szolgálati feladatok során súlyos munkabalesetet szenvedett tűzoltó kártérítése, illetve sérelemdíj iránti igényének kielégítése folytán felmerülő többletköltségek, továbbá a tűzoltóságnak a működési területén kívüli igénybevételével keletkező költségek fedezetére szolgáló költségvetési előirányzat;
 - c) radiológiai, biológiai és vegyi védelmi eszközök, minősített időszaki készletek;
 - d) a területi katasztrófavédelmi szerv javítóműhelyeinek felszerelése, berendezése, alkatrészkészlete;
 - e) az országos és a megyei kiképzőbázisok működtetésével kapcsolatos költségvetési előirányzatok.

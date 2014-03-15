@@ -2583,7 +2583,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 - 15. a bírósági ügyviteli nyilvántartásból,
 - 16. az ingatlan-nyilvántartásból,
 - 17. az egyéni vállalkozók nyilvántartására kijelölt szerv nyilvántartásából,
-- 18. a közjegyzői zálogjogi nyilvántartásból,
+- 18. a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,
 - 19. a szabálysértési nyilvántartásból.
 
 (3) A NAV nyomozó hatósága a bűnüldözési feladatok, illetve a 77. § szerinti feladatok ellátása érdekében – a vonatkozó törvények rendelkezései szerint – a felhasználás céljának megjelölésével adatokat vehet át a banktitoknak, az értékpapírtitoknak és a pénztártitoknak, valamint más egyéb titoknak minősülő adatot törvény alapján kezelő szervtől, továbbá adótitoknak minősülő adatot, iratot vehet át az önkormányzati adóhatóságtól.

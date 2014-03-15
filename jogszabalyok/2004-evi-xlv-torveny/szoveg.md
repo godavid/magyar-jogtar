@@ -22,7 +22,7 @@ A törvény célja, hogy – az európai belső piac kiteljesedése, valamint a 
 
 ### Nyilvántartásba vétel
 
-2. § Az európai részvénytársaság alapításának nyilvántartásba vételére, valamint az európai részvénytársaságra vonatkozó cégeljárásra a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény (a továbbiakban: Ctv.) irányadó.
+2. § Az európai részvénytársaság alapításának nyilvántartásba vételére, valamint az európai részvénytársaságra vonatkozó cégeljárásra a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) irányadó.
 
 ### A cégbíróság hatásköre
 
@@ -48,11 +48,11 @@ A törvény célja, hogy – az európai belső piac kiteljesedése, valamint a 
 
 (6) A kisebbségi részvényeseket megillető vagyonhányadot a létrejövő európai részvénytársaság cégbejegyzését követő harminc napon belül kell kiadni, kivéve, ha az érintettekkel kötött megállapodás későbbi időpontot jelöl meg.
 
-6. § (1) A társaság köteles – a (2) bekezdésben meghatározott kivétellel – azon hitelezőknek, akiknek az átalakuló részvénytársasággal szemben fennálló, le nem járt követelései az egyesülésről hozott döntés közzétételét megelőzően keletkeztek, követeléseik erejéig biztosítékot nyújtani.
+6. § (1) A társaság köteles – a (2) bekezdésben meghatározott kivétellel – azon hitelezőknek, akiknek az átalakuló részvénytársasággal szemben fennálló követelései az egyesülésről hozott döntés közzétételét megelőzően keletkeztek, követeléseik erejéig biztosítékot nyújtani, ha az egyesülés a hitelező követelésének kielégítését veszélyezteti.
 
-(2) Nem jogosult biztosítékra a hitelező, ha azzal egyébként – jogszabály rendelkezése vagy szerződés alapján – már rendelkezik, vagy a részvénytársaság pénzügyi, vagyoni helyzetére tekintettel a biztosítékadás indokolatlan.
+(2) Nem jogosult biztosítékra a hitelező, ha már rendelkezik az egyesüléshez kapcsolódó kockázattal arányos biztosítékkal vagy a részvénytársaság egyesülés utáni pénzügyi, vagyoni helyzetére tekintettel a biztosítékadás indokolatlan.
 
-(3) A hitelező, ha a részvénytársaság a biztosíték nyújtására vonatkozó kérelmét elutasította, nyolc napon belül kérheti a részvénytársaság székhelye szerint illetékes cégbíróságtól a társasági döntés felülvizsgálatát. A bíróság – a törvényességi felügyeleti eljárásra irányadó szabályok megfelelő alkalmazásával – a kérelem előterjesztésétől számított harminc napon belül határoz.
+(3) A hitelező a biztosítékadásra vonatkozó igényét az egyesülésről hozott döntés közzétételét követő 30 napos jogvesztő határidőn belül jelentheti be. Az igazgatóság a kérelem előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles határozni a kérelem tárgyában és – az elutasítás esetén indokolással ellátott – határozatot a hitelezőnek kézbesíteni. Az elutasító vagy nem megfelelő biztosíték nyújtásáról szóló határozat felülvizsgálatát az érintett hitelező a határozat kézhezvételétől számított nyolc napon belül kérheti a részvénytársaság székhelye szerint illetékes cégbíróságtól. A bíróság – a törvényességi felügyeleti eljárásra irányadó szabályok megfelelő alkalmazásával – a kérelem előterjesztésétől számított harminc napon belül határoz.
 
 (4) A kisebbségi részvényeseket megillető vagyonhányad kifizetésére csak akkor kerülhet sor, ha a részvénytársaság eleget tett az (1)–(3) bekezdésekben foglalt rendelkezéseknek.
 
@@ -80,7 +80,7 @@ A törvény célja, hogy – az európai belső piac kiteljesedése, valamint a 
 
 - a) az európai részvénytársaság munkavállalója vagy volt munkavállalója e jogviszonyának megszűnésétől számított öt évig,
 - b) az európai részvénytársaság vagy vezető tisztségviselői számára és javára ellenérték fejében szakértői vagy más megbízási jogviszonyban tevékenységet folytat,
-- c) a társaság olyan részvényese, aki közvetve vagy közvetlenül a leadható szavazatok legalább harminc százalékát birtokolja, vagy ilyen személynek közeli hozzátartozója [Ptk. 685. § b) pont],
+- c) a társaság olyan részvényese, aki közvetve vagy közvetlenül a leadható szavazatok legalább harminc százalékát birtokolja vagy ilyen személynek a Polgári Törvénykönyvben meghatározott közeli hozzátartozója,
 - d) az európai részvénytársaság eredményes működése esetén igazgatótanácsi tagsága alapján vagyoni juttatásokra jogosult (pl. jegyzési jogot biztosító kötvény, sikerdíj),
 - e) az európai részvénytársaság igazgatótanácsának nem független tagjával egy másik gazdasági társaságban olyan jogviszonyban áll, amely alapján a nem független tagnak irányítási, ellenőrzési joga van.
 
@@ -137,9 +137,9 @@ A törvény célja, hogy – az európai belső piac kiteljesedése, valamint a 
 - a) a 19–31. §-ban meghatározott eljárás alapján, vagy
 - b) e törvényben meghatározott esetekben, a 35–50. §-ban foglalt rendelkezések szerint kell megállapítani.
 
-(3) Az európai részvénytársaságra a gazdasági társaságokról szóló törvénynek (a továbbiakban: Gt.) a munkavállalóknak a társaság ellenőrzésében való részvételére vonatkozó rendelkezései (Gt. 38–39. §) nem alkalmazhatók.
+(3) Az európai részvénytársaságra a Polgári Törvénykönyv (a továbbiakban: Ptk.) gazdasági társaságokra vonatkozó szabályainak a munkavállalóknak a társaság ellenőrzésében való részvételére vonatkozó rendelkezései nem alkalmazhatók.
 
-(4) Az e törvény által nem szabályozott kérdésekben, az európai részvénytársaság, annak leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalóinak tájékoztatási és konzultációs jogaira a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.), az európai részvénytársaság leányvállalata belföldön foglalkoztatott munkavállalóinak a leányvállalat ellenőrzésében való részvételére pedig a Gt. rendelkezéseit kell alkalmazni.
+(4) Az e törvény által nem szabályozott kérdésekben, az európai részvénytársaság, annak leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalóinak tájékoztatási és konzultációs jogaira a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.), az európai részvénytársaság leányvállalata belföldön foglalkoztatott munkavállalóinak a leányvállalat ellenőrzésében való részvételére pedig a Ptk. gazdasági társaságokra vonatkozó rendelkezéseit kell alkalmazni.
 
 (5) Az e rész szerinti tárgyalások és eljárások során a különleges tárgyaló testület, a képviseleti testület, a munkavállalói képviselők, az európai részvénytársaság igazgatósága, igazgatótanácsa (vagy az általuk felhatalmazott más szerv), továbbá a felügyelő bizottság, és a résztvevő társaságok ügyvezető szervei a jóhiszeműség és tisztesség követelményeinek megfelelően, kölcsönösen együttműködve kötelesek eljárni.
 

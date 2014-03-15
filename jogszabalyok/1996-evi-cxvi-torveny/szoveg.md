@@ -46,7 +46,7 @@ a következő törvényt alkotja:
 - 20. rendkívüli esemény: az atomenergia alkalmazását szolgáló létesítményben, berendezésben, vagy radioaktív (nukleáris) anyaggal végzett tevékenység során – bármilyen okból – bekövetkező olyan esemény, amely a biztonságot kedvezőtlenül befolyásolhatja, és az emberek nem tervezett sugárterhelését, valamint a környezetbe radioaktív anyagok nem tervezett kibocsátását eredményezi vagy eredményezheti;
 - 21. nukleáris veszélyhelyzet: rendkívüli esemény következtében előálló állapot, amelyben a lakosságot érintő következmények elhárítása vagy enyhítése érdekében intézkedésekre van vagy lehet szükség;
 - 22. engedélyes: az atomenergia alkalmazói közül, aki hatósági engedéllyel engedélyköteles tevékenységet folytat;
-- 23. atomkár: az emberélet elvesztése, a személyek testi épségében és egészségében keletkezett minden kár, minden anyagi kár, az ezekkel együttesen jelentkező környezeti kár ésszerű mértékű helyreállításának költsége, valamint a károk csökkentése vagy elhárítása érdekében ténylegesen végrehajtott, ésszerű és szükséges intézkedéssel kapcsolatosan felmerült költség, amennyiben azokat a nukleáris üzemanyag, a nukleáris létesítményben lévő radioaktív termék, hulladék vagy a nukleáris létesítményből származó, abból kiszállított, vagy oda küldött nukleáris anyag révén a nukleáris létesítményben vagy a szállítás során bekövetkezett rendkívüli esemény okozta;
+- 23. atomkár: az emberélet elvesztése, a személyek testi épsége és egészsége megsértése folytán keletkezett nem vagyoni sérelem, minden anyagi kár, az ezekkel együttesen jelentkező környezeti kár ésszerű mértékű helyreállításának költsége, valamint a nem vagyoni sérelem és a kár csökkentése vagy elhárítása érdekében ténylegesen végrehajtott, ésszerű és szükséges intézkedéssel kapcsolatosan felmerült költség, amennyiben azokat a nukleáris üzemanyag, a nukleáris létesítményben lévő radioaktív termék, hulladék vagy a nukleáris létesítményből származó, abból kiszállított, vagy oda küldött nukleáris anyag révén a nukleáris létesítményben vagy a szállítás során bekövetkezett rendkívüli esemény okozta;
 - 24. nukleáris baleset: minden olyan rendkívüli esemény, amely atomkárt okoz;
 - 25. SDR: Special Drawing Rights (különleges lehívási jog) – a Nemzetközi Valuta Alap által meghatározott nemzetközi elszámolási egység;
 - 26. ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
@@ -71,7 +71,8 @@ a következő törvényt alkotja:
 - 41. kiégett üzemanyag kezelése: a kiégett üzemanyag mozgatásával, átmeneti tárolásával, újrafeldolgozásával, továbbá végleges elhelyezésével összefüggő valamennyi tevékenység, a telephelyen kívüli szállítás kivételével;
 - 42. radioaktív hulladék kezelése: a radioaktív hulladék mozgatásával, előfeldolgozásával, feldolgozásával, kondicionálásával, átmeneti tárolásával és végleges elhelyezésével összefüggő valamennyi tevékenység, a telephelyen kívüli szállítás kivételével;
 - 43. újrafeldolgozás: olyan folyamat vagy művelet, amelynek célja nukleáris vagy más radioaktív anyag kinyerése kiégett üzemanyagból további felhasználás céljára;
-- 44. végleges elhelyezés: a kiégett üzemanyag és a radioaktív hulladék visszanyerés szándéka nélkül történő végső, engedélyezett elhelyezése.
+- 44. végleges elhelyezés: a kiégett üzemanyag és a radioaktív hulladék visszanyerés szándéka nélkül történő végső, engedélyezett elhelyezése;
+- 45. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 ### Alapelvek
 
@@ -270,7 +271,7 @@ a következő törvényt alkotja:
 
 11. § (1) Az atomenergia alkalmazása körében csak olyan személy foglalkoztatható, aki rendelkezik jogszabályban meghatározott iskolai végzettséggel, szakképesítéssel, és kielégíti a foglalkoztatás jogszabályban előírt feltételeit, továbbá megfelel az előírt egészségügyi követelményeknek.
 
-(2) Nukleáris létesítményekkel, valamint nukleáris rendszerekkel és berendezésekkel kapcsolatos tevékenységek körében csak azok az intézmények, szervezetek, valamint a Polgári Törvénykönyv 685. § c) pontja szerinti gazdálkodó szervezetek működhetnek, amelyek megfelelő minőségirányítási rendszerrel rendelkeznek.
+(2) Nukleáris létesítményekkel, valamint nukleáris rendszerekkel és berendezésekkel kapcsolatos tevékenységek körében csak azok az intézmények, szervezetek, valamint gazdálkodó szervezetek működhetnek, amelyek megfelelő minőségirányítási rendszerrel rendelkeznek.
 
 (3) A nukleáris létesítményben, továbbá a nukleáris létesítmény hatósági ellenőrzésével, tervezésével, építésével, üzemeltetésével és átalakításával, a nukleáris létesítmény fizikai védelmi rendszerének tervezésével, üzemeltetésével és karbantartásával, a nukleáris rendszer, rendszerelem karbantartásával, – jogszabályban meghatározott – I., II. és III. kategóriába tartozó nukleáris, 1-es, 2-es és 3-as veszélyességi kategóriába tartozó zárt radioaktív sugárforrások, valamint 1-es és 2-es veszélyességi kategóriába tartozó radioaktív hulladékok felhasználásával, tárolásával, szállításával, szállítmányok kísérésével, valamint ezek fizikai védelmi rendszerének tervezésével, üzemeltetésével és karbantartásával összefüggő munkakörökben nem foglalkoztatható az a személy:
 
@@ -395,7 +396,7 @@ a Kormány rendeletben állapítja meg.
 - a) a radioaktív anyagok helyét, fizikai és kémiai tulajdonságait,
 - b) a radioaktív anyag tulajdonosának és birtokosának nevét és lakcímét,
 - c) az atomenergia alkalmazóját és a radioaktív anyaggal kapcsolatos tevékenységeket,
-- d) a nyilvántartás vezetésére kötelezett természetes személy nevét és lakcímét vagy a nyilvántartás vezetésére kötelezett jogi személy, jogi személyiség nélküli gazdasági társaság vezetőjének nevét és címét,
+- d) a nyilvántartás vezetésére kötelezett természetes személy nevét és lakcímét vagy a nyilvántartás vezetésére kötelezett jogi személy vezetőjének nevét és címét,
 - e) a radioaktív anyag feltalálási helyét,
 - f) zárt sugárforrások esetében – ideértve a radioaktív hulladékká minősített zárt sugárforrásokat is – tulajdonosonként és birtokosonként és radionuklidonként a radioaktív anyagok engedélyezett maximális készletét, aktuális készletét, fajtáját, aktivitását és rendeltetését (a felhasználás és az alkalmazás engedélyezett formáját),
 - g) nyitott sugárforrások esetében – ide nem értve a radioaktív hulladékokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva tulajdonosonként és birtokosonként, valamint radionuklidonként a radioaktív anyagok mennyiségét, készletváltozását, felhasználását, fajtáját, eredeti aktivitását és rendeltetését,
@@ -412,7 +413,7 @@ a Kormány rendeletben állapítja meg.
 (4) Az atomenergia-felügyeleti szerv kezeli és feldolgozza a központi nyilvántartás részét képező következő személyes adatokat:
 
 - a) a nyilvántartás vezetésére kötelezett természetes személy neve és elérhetősége,
-- b) a nyilvántartás vezetésére kötelezett jogi személy valamint jogi személyiséggel nem rendelkező gazdasági társaság vezetőjének neve és elérhetősége,
+- b) a nyilvántartás vezetésére kötelezett jogi személy és gazdálkodó szervezet vezetőjének neve és elérhetősége,
 - c) a sugárvédelmi megbízott neve, és elérhetősége,
 - d) a biztosítékok végrehajtásáért felelős vezető neve és elérhetősége,
 - e) a telephelyi képviselő neve és elérhetősége,
@@ -600,23 +601,23 @@ kezeli.
 
 (3) Az ionizáló sugárzást létrehozó létesítmények, berendezések tulajdonjogának átruházására irányuló szerződés nem hagyható jóvá,
 
-- a) ha a tulajdont szerző természetes személyt, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező valamely tagját a bíróság
+- a) ha a tulajdont szerző természetes személyt vagy gazdálkodó szervezet képviseleti joggal rendelkező valamely tagját a bíróság
   - aa) szándékos bűncselekmény elkövetése miatt vagy
   - ab) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 259. § (4) bekezdésében, a 260. § (6) bekezdésében, a 264. § (4) bekezdésében, a 264/C. § (4) bekezdésében, a 280. § (3) bekezdésében, a 281. § (4) bekezdésében és a 281/A. § (3) bekezdésében meghatározott bűncselekmény, illetve a Btk. 241. § (2) bekezdésében, 242. § (3) bekezdésében, 243. § (3) bekezdésében, 248. § (3) bekezdésében, 249. § (2) bekezdésében, 250. § (4) bekezdésében, 322. § (5) bekezdésében, 323. § (5) bekezdésében vagy 326. § (7) bekezdésében meghatározott bűncselekmény miatt jogerősen elítélte, és a büntetett előélethez fűződő hátrányos jogkövetkezmények alól még nem mentesült, valamint
 - b) ha nem felel meg a jogszabályban meghatározott követelményeknek.
 
-21/A. § (1) A tulajdont szerző természetes személy, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező tagjai a hatósági jóváhagyást megelőzően igazolják, hogy megfelelnek a 21. § (3) bekezdés b) pontjában meghatározott követelményeknek, valamint
+21/A. § (1) A tulajdont szerző természetes személy, illetve a gazdálkodó szervezet képviseleti joggal rendelkező tagjai a hatósági jóváhagyást megelőzően igazolják, hogy megfelelnek a 21. § (3) bekezdés b) pontjában meghatározott követelményeknek, valamint
 
 - a) hatósági bizonyítvánnyal igazolják azt a tényt, hogy a 21. § (3) bekezdés a) pontjában meghatározott kizáró ok velük szemben nem áll fenn vagy
 - b) kérik, hogy az arra vonatkozó adatokat, amely szerint a 21. § (3) bekezdés a) pontjában meghatározott kizáró ok velük szemben nem áll fenn, a bűnügyi nyilvántartó szerv az egészségügyi államigazgatási szerv részére – annak a jóváhagyás iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
-(2) Az egészségügyi államigazgatási szerv a hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tulajdonos, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező tagjai megfelelnek-e a 21. § (3) bekezdés a) pontjában foglalt feltételeknek. A hatósági ellenőrzés céljából az egészségügyi államigazgatási szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag a 21. § (3) bekezdés a) pontjában meghatározott adatokra irányulhat.
+(2) Az egészségügyi államigazgatási szerv a hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tulajdonos, illetve a gazdálkodó szervezet képviseleti joggal rendelkező tagjai megfelelnek-e a 21. § (3) bekezdés a) pontjában foglalt feltételeknek. A hatósági ellenőrzés céljából az egészségügyi államigazgatási szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag a 21. § (3) bekezdés a) pontjában meghatározott adatokra irányulhat.
 
 (3) Az (1) bekezdésben meghatározott személyes adatokat az egészségügyi államigazgatási szerv a jóváhagyás iránti kérelem jogerős elbírálásáig, a (2) bekezdés szerinti személyes adatokat a hatósági ellenőrzés időtartamára, illetve a tulajdonjog megszűnéséig kezeli.
 
-(4) Ha a tulajdont szerző természetes személy, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező tagjai az (1) bekezdésben meghatározott igazolási kötelezettségnek a hatósági jóváhagyás iránti kérelem benyújtásától számított harminc napon belül nem tesznek eleget, a jóváhagyás nem adható meg.
+(4) Ha a tulajdont szerző természetes személy, illetve a gazdálkodó szervezet képviseleti joggal rendelkező tagjai az (1) bekezdésben meghatározott igazolási kötelezettségnek a hatósági jóváhagyás iránti kérelem benyújtásától számított harminc napon belül nem tesznek eleget, a jóváhagyás nem adható meg.
 
-(5) Ha az egészségügyi államigazgatási szerv a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a tulajdont szerző természetes személy, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező valamely tagja nem felel meg a 21. § (3) bekezdés a) pontjában meghatározott követelménynek, felhívja a nevezettet, hogy negyvenöt napon belül a tulajdonjogot szüntesse meg, és erről értesítse az egészségügyi államigazgatási szervet.
+(5) Ha az egészségügyi államigazgatási szerv a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a tulajdont szerző természetes személy, illetve a gazdálkodó szervezet képviseleti joggal rendelkező valamely tagja nem felel meg a 21. § (3) bekezdés a) pontjában meghatározott követelménynek, felhívja a nevezettet, hogy negyvenöt napon belül a tulajdonjogot szüntesse meg, és erről értesítse az egészségügyi államigazgatási szervet.
 
 21/B. § Az egészségügyi államigazgatási szerv atomenergia alkalmazásával összefüggő, radioaktív anyagok közúti szállításának engedélyezésével, ionizáló sugárzást létrehozó létesítményekkel, berendezésekkel, tevékenységekkel, radioaktív hulladék elhelyezésével, eszköz, berendezés vagy az ionizáló sugárzás elleni védőeszköz sugárvédelmi minősítésével, sugárvédelmi képzéssel, személyi dozimetriai ellenőrzéssel és a belső sugárterhelés meghatározásával kapcsolatos, kérelemre lefolytatott eljárásáért vagy jogszabályban meghatározott szolgáltatásáért igazgatási szolgáltatási díjat kell fizetni, melynek összegét az egészségügyért felelős miniszter az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében állapítja meg.
 
@@ -769,15 +770,24 @@ kezeli.
 
 (2)–(3)
 
-### V. Fejezet — Az atomenergia alkalmazásával kapcsolatosan keletkezett károkért való felelősség és a károk megtérítése
+### V. Fejezet — Az atomkár-felelősség és az atomkár megtérítése
 
-48. § (1) A nukleáris létesítmény engedélyese köteles az e törvényben meghatározott atomkárt megtéríteni. Az engedélyes a felelősség alól kizárólag az e törvényben meghatározott esetekben mentesülhet.
+48. § (1) A nukleáris létesítmény engedélyese köteles az e törvényben meghatározott atomkárt megtéríteni (a továbbiakban: atomkár megtérítése). Az engedélyes a felelősség alól kizárólag az e törvényben meghatározott esetekben mentesülhet.
 
 (2) Nemzetközi szállítás esetében a felelősség átszállásának helyét szerződésben kell rögzíteni.
 
+48/A. § (1) Ha az atomkár megtérítésére való jogosultságot az emberélet elvesztése, a személyek testi épsége és egészsége megsértése folytán keletkezett nem vagyoni sérelem alapozza meg, az ezért való, a 48. § szerinti felelősség megállapításához a jogsértés tényén kívül további hátrány bekövetkeztének bizonyítása nem szükséges.
+
+(2) Az atomkár megtérítésének mértékét, módját és esedékességét
+
+- a) az emberélet elvesztése, továbbá a személyek testi épsége és egészsége megsértése folytán keletkezett nem vagyoni sérelem esetén a Polgári Törvénykönyv sérelemdíjra vonatkozó rendelkezései,
+- b) az a) pontban foglaltaktól eltérő, egyéb atomkár esetén a Polgári Törvénykönyvnek a szerződésen kívül okozott károk megtérítésére vonatkozó rendelkezései
+
+alkalmazásával kell megállapítani.
+
 49. § (1) A 48. §-ban meghatározott felelősség alól kimentésnek helye nincs, kivéve, ha az atomkár a nukleáris létesítmény tevékenységi körén kívül eső, elháríthatatlan külső ok (fegyveres összeütközés, háború, polgárháború, fegyveres felkelés, rendkívüli méretű természeti katasztrófa) által közvetlenül kiváltott nukleáris baleset következménye.
 
-(2) Az engedélyes részben vagy egészben mentesül a 48. §-ban meghatározott felelősség alól, ha bizonyítja, hogy a károsultat ért kár részben vagy egészben a károsult súlyosan gondatlan, vagy kifejezetten a kár előidézésére irányuló, szándékos és elháríthatatlan cselekvésének vagy mulasztásának a következménye.
+(2) Az engedélyes részben vagy egészben mentesül a 48. §-ban meghatározott felelősség alól, ha bizonyítja, hogy az atomkár megtérítését követelő személyt ért atomkár részben vagy egészben az atomkár megtérítését követelő személy súlyosan gondatlan, vagy kifejezetten az atomkár előidézésére irányuló, szándékos és elháríthatatlan cselekvésének vagy mulasztásának a következménye.
 
 50. § Nem minősül atomkárnak, s az engedélyes a Polgári Törvénykönyv szerint köteles helytállni az olyan kárért, amely
 
@@ -788,53 +798,53 @@ kezeli.
 
 52. § (1) A nukleáris létesítmények közül az atomerőmű, atomfűtőmű és nukleáris üzemanyagot előállító,, illetve feldolgozó létesítmény esetében az engedélyes feltétlen felelősségének összege a létesítményben történt nukleáris balesetenként nem haladhatja meg a 100 millió SDR-t; egyéb nukleáris létesítményben, továbbá a nukleáris üzemanyag szállítása, illetve tárolása során bekövetkező nukleáris balesetenként az 5 millió SDR-t.
 
-(2) A Magyar Állam az (1) bekezdésben meghatározott összegeket meghaladó atomkárt megtéríti, a kártérítésre összesen fordítható összeg azonban ebben az esetben sem haladhatja meg a 300 millió SDR-t.
+(2) A Magyar Állam az (1) bekezdésben meghatározott összegeket meghaladó atomkárt megtéríti, az atomkár megtérítésére összesen fordítható összeg azonban ebben az esetben sem haladhatja meg a 300 millió SDR-t.
 
-(3) A kártérítés magyar hivatalos fizetőeszközben történik, az (1) és (2) bekezdésekben rögzített SDR-ben kifejezett határértékek hivatalos átváltása alapján.
+(3) Az atomkár megtérítése magyar hivatalos fizetőeszközben történik, az (1) és (2) bekezdésekben rögzített SDR-ben kifejezett határértékek hivatalos átváltása alapján.
 
-53. § (1) Ha a károkat e törvény alkalmazása szerinti nukleáris baleset és egyéb esemény együttesen okozta, s az egyéb esemény által okozott kár teljes bizonyossággal nem választható el az atomkártól, az egyéb esemény által okozott kár is atomkárnak minősül. Abban az esetben azonban, ha az atomkárt nukleáris baleset és e fejezet hatálya alá nem tartozó ionizáló sugárzás kibocsátása okozta, az ezért a kibocsátásért felelős személy a Polgári Törvénykönyv 345. §-a alapján köteles helytállni.
+53. § (1) Ha a vagyoni kárt, valamint az emberélet elvesztése, továbbá a személyek testi épsége és egészsége megsértése folytán keletkezett nem vagyoni sérelmet e törvény alkalmazása szerinti nukleáris baleset és egyéb esemény együttesen okozta, s az egyéb esemény által okozott vagyoni kár, valamint az emberélet elvesztése, továbbá a személyek testi épsége és egészsége megsértése folytán keletkezett nem vagyoni sérelem teljes bizonyossággal nem választható el az atomkártól, az egyéb esemény által okozott vagyoni kár, valamint az emberélet elvesztése, továbbá a személyek testi épsége és egészsége megsértése folytán keletkezett nem vagyoni sérelem is atomkárnak minősül. Abban az esetben azonban, ha az atomkárt nukleáris baleset és e fejezet hatálya alá nem tartozó ionizáló sugárzás kibocsátása együttesen okozta, az ezért a kibocsátásért felelős személy Polgári Törvénykönyvnek a fokozott veszéllyel járó tevékenységre vonatkozó szabályai alapján köteles helytállni.
 
 (2) Ha az atomkárért több engedélyes egyetemlegesen felelős, bármely engedélyesre vonatkozó feltétlen felelősség felső határa nem haladhatja meg az 52. § szerint rájuk vonatkozó meghatározott összeget.
 
 (3) Ha a rendkívüli esemény nukleáris anyagok szállítása során következik be, akár egy szállítási eszközben, akár szállítás közbeni tárolás során egy létesítményben, s az előidézett atomkárért több engedélyes felelős, a feltétlen felelősség teljes felső határa nem haladhatja meg azt a legmagasabb összeget, amely e törvény 52. §-a alapján az engedélyesek valamelyikével szemben alkalmazandó.
 
-(4) Az engedélyes által ugyanazon a telephelyen üzemeltetett két- vagy több nukleáris létesítmény – e törvény kárfelelősségi szabályainak alkalmazása szempontjából – egy nukleáris létesítménynek minősül.
+(4) Az engedélyes által ugyanazon a telephelyen üzemeltetett két- vagy több nukleáris létesítmény – e törvény atomkár-felelősségi és egyéb kárfelelősségi szabályainak alkalmazása szempontjából – egy nukleáris létesítménynek minősül.
 
-54. § (1) Az engedélyes köteles az 52. § (1) bekezdése szerinti kárfelelősségi összeg erejéig biztosításról vagy más pénzügyi fedezetről gondoskodni. Költségvetési intézmény esetében ennek forrását a központi költségvetés biztosítja.
+54. § (1) Az engedélyes köteles az 52. § (1) bekezdése szerinti atomkár-felelősségi összeg erejéig biztosításról vagy más pénzügyi fedezetről gondoskodni. Költségvetési intézmény esetében ennek forrását a központi költségvetés biztosítja.
 
 (2) A biztosító vagy a pénzügyi fedezetet nyújtó szervezet nem szüntetheti meg, illetve nem függesztheti fel a biztosítást, illetve a pénzügyi fedezetet, kivéve, ha a felmondást vagy a felfüggesztést legalább két hónappal megelőzően az engedélyesnek és az atomenergia-felügyeleti szervnek írásban bejelentette.
 
 (3) Ha a biztosítás vagy pénzügyi fedezet nukleáris anyagok szállítására vonatkozik, a szállítás időtartama alatt a biztosítás vagy a pénzügyi fedezet nem szüntethető meg, és nem függeszthető fel.
 
-55. § (1) Az atomkárokért való kártérítési igények kizárólag az engedélyessel, illetve a helyette pénzügyi fedezetet nyújtóval szemben érvényesíthetők.
+55. § (1) Az atomkár megtérítése iránti igények kizárólag az engedélyessel, illetve a helyette pénzügyi fedezetet nyújtóval szemben érvényesíthetők.
 
 (2) Atomkár esetén az engedélyes csak akkor jogosult megtérítési követelését érvényesíteni, ha
 
 - a) ezt a jogát írásbeli szerződésben kifejezetten kikötötte, vagy
 - b) az atomkár szándékos károkozásra irányuló cselekmény vagy mulasztás eredménye, azzal a természetes személlyel szemben, aki ezt elkövette.
 
-56. § (1) Az 52. §-ban meghatározott feltétlen felelősségért való helytállás összege nem foglalja magában a kamatokat és azokat a költségeket, amelyeket a bíróság az atomkárért való kártérítéssel összefüggésben állapít meg.
+56. § (1) Az 52. §-ban meghatározott feltétlen felelősségért való helytállás összege nem foglalja magában a kamatokat és azokat a költségeket, amelyeket a bíróság az atomkár megtérítésével összefüggésben állapít meg.
 
-(2) Ha valószínűsíthető, hogy a nukleáris baleset által okozott kár meghaladja az 52. §-ban meghatározott összegeket – a Kormány döntése alapján, további intézkedésig – a kárfedezeti összegnek csak meghatározott hányada használható fel a károsultak kielégítésére.
+(2) Ha valószínűsíthető, hogy a nukleáris baleset által okozott atomkár meghaladja az 52. §-ban meghatározott összegeket – a Kormány döntése alapján, további intézkedésig – az atomkár megtérítésének fedezetéül szolgáló összegnek csak meghatározott hányada használható fel az atomkár megtérítésére jogosultak kielégítésére.
 
-(3) Ha a rendelkezésre álló kárfedezeti összeg nem elegendő valamennyi károsult teljes kielégítésére, úgy a valamennyiüknek járó kártérítési összeg arányosan csökken.
+(3) Ha a rendelkezésre álló, az atomkár megtérítésének fedezetéül szolgáló összeg nem elegendő valamennyi, az atomkár megtérítésére jogosult teljes kielégítésére, úgy az atomkár megtérítéseként valamennyiüknek járó összeg arányosan csökken.
 
-57. § (1) A károsult kártérítési igényét három éves elévülési határidő alatt érvényesítheti. Az elévülés attól a naptól kezdődik, amelyen a károsult tudomást szerzett, vagy tudomást szerezhetett volna a kár bekövetkeztéről és az ezért felelős engedélyes személyéről.
+57. § (1) Az atomkár megtérítésére jogosult megtérítési igényét három éves elévülési határidő alatt érvényesítheti. Az elévülés attól a naptól kezdődik, amelyen az atomkár megtérítésére jogosult tudomást szerzett, vagy tudomást szerezhetett volna az atomkár bekövetkeztéről és az ezért felelős engedélyes személyéről.
 
 (2) Az engedélyest az atomkárokért e törvényben meghatározott felelőssége a nukleáris baleset bekövetkeztének időpontjától számított tíz évig terheli.
 
 (3) Ha az atomkárt olyan nukleáris anyag által kiváltott rendkívüli esemény okozta, amely nukleáris anyag a rendkívüli esemény időpontjában lopott, elveszett, kidobott vagy elhagyott volt, a (2) bekezdés szerinti határidőt a nukleáris baleset időpontjától kell számítani, de az nem haladhatja meg a felsorolt események bekövetkeztének időpontjától számított húsz évet.
 
-(4) A (2) és (3) bekezdések szerinti határidők elteltével a kárigény nem érvényesíthető.
+(4) A (2) és (3) bekezdések szerinti határidők elteltével az atomkár megtérítése iránti igény nem érvényesíthető.
 
 58. § E törvény nem érinti a Polgári Törvénykönyv szerinti felelősségét
 
 - a) azoknak a természetes személyeknek, akik károkozási szándékkal elkövetett cselekményükkel vagy mulasztásukkal olyan atomkárt okoztak, amelyért az engedélyes e törvény 49. § (2) bekezdése és 50. §-a értelmében nem felel;
 - b) az engedélyesnek e törvény hatálya alá nem tartozó olyan esetekben, amelyekért az engedélyes az e törvény 50. §-a szerint nem felelős.
 
-59. § Nem jogosult az e törvény szerinti kártérítésre az, akinek ugyanazért az atomkárért bármilyen más jogcímen teljes kárát megtérítették.
+59. § Nem jogosult az e törvény szerinti atomkár megtérítésére az, akinek ugyanazért az atomkárért bármilyen más jogcímen teljes kárát, illetve sérelemdíj iránti igényét megtérítették.
 
-60. § (1) E törvénynek az atomenergia alkalmazásával kapcsolatos felelősségi és kártérítési szabályait kell alkalmazni azokban az esetekben, amikor a Magyarország területén működő valamely nukleáris létesítménnyel kapcsolatos nukleáris baleset következtében az atomkár Magyarország területén vagy olyan bármely más állam területén, illetve egyéb térségekben keletkezik, amelyek tekintetében kártérítésre az engedélyes nemzetközi szerződés alapján köteles.
+60. § (1) E törvénynek az atomenergia alkalmazásával kapcsolatos felelősségi és az atomkár megtérítésére vonatkozó szabályait kell alkalmazni azokban az esetekben, amikor a Magyarország területén működő valamely nukleáris létesítménnyel kapcsolatos nukleáris baleset következtében az atomkár Magyarország területén vagy olyan bármely más állam területén, illetve egyéb térségekben keletkezik, amelyek tekintetében az atomkár megtérítésére az engedélyes nemzetközi szerződés alapján köteles.
 
 (2) E törvény nem zárja ki, hogy az (1) bekezdésben említetteken kívül, a viszonosság alapján egyéb esetekben is e törvény rendelkezéseinek alkalmazására kerüljön sor.
 
@@ -899,7 +909,7 @@ kezeli.
 
 ### Vegyes és hatályba léptető rendelkezések
 
-65. § (1) Az e törvény alapján indított kártérítési igények elbírálása a Fővárosi Törvényszék kizárólagos illetékességébe tartozik.
+65. § (1) Az e törvény alapján indított kártérítési, valamint az atomkár megtérítése iránti igények elbírálása a Fővárosi Törvényszék kizárólagos illetékességébe tartozik.
 
 (2) E törvény hatálya nem érinti az atomenergia alkalmazásával kapcsolatos nemzetközi együttműködésre vonatkozó, Magyarország által elfogadott szerződésekből származó jogokat és kötelezettségeket.
 

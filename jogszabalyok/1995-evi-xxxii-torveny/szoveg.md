@@ -13,9 +13,9 @@ a szabadalmi ügyvivőkről
 - c) a szabadalmi, a növényfajta-oltalmi és a használati mintaoltalmi kényszerengedéllyel, valamint az ilyen előhasználati vagy továbbhasználati jog fennállásával kapcsolatos eljárások, ideértve az európai szabadalom magyar nyelvű fordításának kijavításáról szóló hatósági tájékoztatás közlése előtt megkezdett hasznosításból eredő jogosultsággal kapcsolatos eljárást is;
 - d) a számítógépi programalkotáson és a hozzá tartozó dokumentáción, a gyűjteményes műnek minősülő és egyéb adatbázison, a számítástechnikai eszközökkel hozzáférhető tartalmú alkotásokon, az iparművészeti és ipari tervezőművészeti alkotásokon, valamint a műszaki létesítmények tervein fennálló szerzői jog vagy szerzői joghoz kapcsolódó jog megsértése miatt indított, továbbá az önkéntes műnyilvántartásra vonatkozó eljárások;
 - e) az a)–d) pontok szerinti jogokkal kapcsolatos szerzőségi, igényjogosultsági és díjazási eljárások;
-- f) a Polgári Törvénykönyv által védett és külön jogszabályok hatálya alá nem tartozó, társadalmilag széles körben felhasználható és közkinccsé nem vált szellemi alkotásokkal kapcsolatos eljárások;
-- g) a személyeket a vagyoni értékű gazdasági, műszaki és szervezési ismereteik és tapasztalataik (know-how) tekintetében megillető védelemmel kapcsolatos eljárások; valamint
-- h) a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény alapján a tisztességtelen verseny tilalmának és a fogyasztói döntések tisztességtelen befolyásolása tilalmának megsértése miatt indított eljárások, feltéve, hogy azok találmányokkal vagy egyéb műszaki megoldásokkal, formatervezési mintákkal, növényfajtákkal, számítógépi programalkotásokkal és az ezekhez tartozó dokumentációval, iparművészeti és ipari tervezőművészeti alkotásokkal, műszaki létesítmények terveivel, társadalmilag széles körben felhasználható és közkinccsé nem vált szellemi alkotásokkal, gazdasági, műszaki és szervezési ismeretekkel és tapasztalatokkal (know-how) vagy üzleti titokkal, illetve áruk és szolgáltatások jellegzetes külsejével, csomagolásával, megjelölésével vagy elnevezésével, illetve gazdasági tevékenység során használt névvel, megjelöléssel vagy árujelzővel kapcsolatosak.
+- f)
+- g) a személyeket vagyoni értékű műszaki, gazdasági vagy szervezési ismereteik és tapasztalataik vagy ezek összeállítása (know-how) tekintetében a Polgári Törvénykönyv 2:47. §-a alapján megillető védelemmel kapcsolatos eljárások; valamint
+- h) a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény alapján a tisztességtelen verseny tilalmának és az üzleti döntések tisztességtelen befolyásolása tilalmának megsértése miatt indított eljárások, feltéve hogy azok találmánnyal vagy egyéb műszaki megoldással, formatervezési mintával, növényfajtával, számítógépi programalkotással és az ezekhez tartozó dokumentációval, iparművészeti és ipari tervezőművészeti alkotással, műszaki létesítmény terveivel, üzleti titokkal – ideértve a Polgári Törvénykönyv 2:47. §-ának (2) bekezdése szerinti védelem alatt álló műszaki, gazdasági vagy szervezési ismereteket és tapasztalatokat (know-how) is –, áru és szolgáltatás jellegzetes külsejével, csomagolásával, megjelölésével vagy elnevezésével, illetve gazdasági tevékenység során használt névvel, megjelöléssel vagy árujelzővel kapcsolatosak.
 
 (3) A (2) bekezdés alkalmazásában szabadalmon a kiegészítő oltalmat is érteni kell.
 
@@ -45,7 +45,7 @@ a szabadalmi ügyvivőkről
 
 - a) aki a szabadalmi ügyvivői foglalkozástól való eltiltás hatálya alatt áll,
 - b) aki a Kamarából kizárás fegyelmi büntetés hatálya alatt áll,
-- c) aki cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll,
+- c) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll,
 - d) aki iparjogvédelmi ügyekben eljáró hatóságnál vagy bíróságnál működik,
 - e) akivel szemben a 14. § (1) bekezdésében foglalt összeférhetetlenségi ok áll fenn, és azt nem szünteti meg.
 
@@ -109,7 +109,7 @@ a szabadalmi ügyvivőkről
 - d) jogerős határozattal a Kamarából való kizárás fegyelmi büntetéssel sújtják;
 - e) kamarai tagdíjfizetési kötelezettségének felszólítás ellenére sem tett eleget;
 - f) magyar állampolgársága, valamely EGT-állam állampolgársága, letelepedett vagy bevándorolt státusza megszűnik;
-- g) cselekvőképességét korlátozó vagy kizáró gondnokság alá helyezik;
+- g) cselekvőképességét érintő gondnokság vagy támogatott döntéshozatal hatálya alá helyezik;
 - h) működését iparjogvédelmi ügyekben eljáró hatóságnál vagy bíróságnál folytatja;
 - i) megszűnik a 2. § (3) bekezdésének a) pontja szerinti felelősségbiztosítása;
 - j) megszűnik a 2. § (3) bekezdésének b) pontja szerinti rendelkezési joga a megfelelő irodahelyiségre; vagy

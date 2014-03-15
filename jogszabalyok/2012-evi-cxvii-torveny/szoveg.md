@@ -230,13 +230,15 @@ hf) – ha azzal rendelkezik – közösségi adószámát, továbbá ha a köz�
 
 k) a szervezet célja szerinti besorolását,”
 
-(3) A Cnytv. 92. § (1) bekezdése a következő l) és m) ponttal kiegészülve lép hatályba:
+(3) A Cnytv. 92. § (1) bekezdése a következő l)–n) ponttal kiegészülve lép hatályba:
 
-[A nyilvántartás szükség szerint valamennyi szervezet esetében tartalmazza:]
+(A nyilvántartás szükség szerint valamennyi szervezet esetében tartalmazza:)
 
-„l) – kijavítás [(5) bekezdés] esetén – az adat kijavításának időpontját és
+„l) – kijavítás [(5) bekezdés] esetén – az adat kijavításának időpontját,
 
-m) a szervezet külön törvényben meghatározott adatait.”
+m) a vezető tisztségviselői megbízás időtartamát és
+
+n) a szervezet külön törvényben meghatározott adatait.”
 
 108. § A Cnytv. 93. § (1) bekezdése a következő f)–h) ponttal kiegészülve lép hatályba:
 
@@ -313,7 +315,8 @@ d) az a)–c) pont alá nem tartozó esetben az állami adó- és vámhatóságn
 - a)
 - b)
 - c)
-- d)–f)
+- d)–e)
+- f)
 - g)
 - h)–i)
 

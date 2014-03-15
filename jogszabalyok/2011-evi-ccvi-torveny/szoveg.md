@@ -96,7 +96,7 @@ tevékenység.
 
 jogosultak.
 
-(5) A vallási tevékenységet végző szervezet csak vallási tevékenységet végző szervezettel egyesülhet.
+(5) A vallási tevékenységet végző szervezet csak vallási tevékenységet végző szervezettel egyesülhet és csak vallási tevékenységet végző szervezetekre válhat szét.
 
 9/C. § (1) Az ügyésznek a vallási tevékenységet végző szervezet működése felett gyakorolt törvényességi ellenőrzése kizárólag a vallási tevékenységet végző szervezet 6. § (4) és (5) bekezdésének megfelelő működésének ellenőrzésére terjed ki. Ha az e feltételek szerinti működés az ügyész önkéntes teljesítésre történő felhívása alapján sem biztosítható, az ügyész pert indít a vallási tevékenységet végző szervezettel szemben.
 
@@ -122,6 +122,16 @@ jogosultak.
 (2) A belső egyházi jogi személy a bevett egyház belső szabálya szerint működik, a bevett egyház belső szabályában meghatározott viszonyokban a bevett egyház képviseletében jár el. A belső egyházi jogi személyre a bevett egyházra vonatkozó szabályokat megfelelően kell alkalmazni.
 
 (3) A 9. § (1) bekezdése szerinti tevékenységet ellátó intézmény a bevett egyház belső szabálya szerint belső egyházi jogi személynek minősülhet. Nem minősül belső egyházi jogi személynek a vallási közösség által létrehozott gazdasági társaság, alapítvány és egyesület.
+
+12/A. § A bevett egyház belső szabálya a jogi személyre törvényben meghatározott általános szabályoktól eltérően határozhatja meg
+
+- a) a bevett egyház és a belső egyházi jogi személy
+  - aa) szervezetére és képviseletére,
+  - ab) törvényes működésének biztosítékaira,
+  - ac) átalakulására, egyesülésére, szétválására és jogutód nélküli megszűnésére, valamint
+- b) a belső egyházi jogi személy létesítésére
+
+vonatkozó szabályokat.
 
 ### II/A. Fejezet — A VALLÁSI KÖZÖSSÉG SZOLGÁLATÁBAN ÁLLÓ SZEMÉLY
 

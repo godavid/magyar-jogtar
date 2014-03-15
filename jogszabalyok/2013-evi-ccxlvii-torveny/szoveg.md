@@ -6,7 +6,7 @@ a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szól
 
 18. § Hatályát veszti a
 
-- a)
+- a) Tv. 14/A. §-a,
 - b)–c)
 
 19. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.

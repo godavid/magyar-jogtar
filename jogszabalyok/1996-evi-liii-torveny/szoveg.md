@@ -344,7 +344,7 @@ nyilvánít védetté.
 
 (6) Nemzeti park, tájvédelmi körzet létesítésére kizárólag a miniszter jogosult.
 
-(7) Valamennyi nemzeti park területét – a nemzetközi előírásokkal összhangban a miniszter által meghatározott elvek szerint – természeti övezetbe, természetkímélő hasznosítás övezetébe és szolgáltató övezetbe kell besorolni.
+(7) Valamennyi nemzeti park területét – a nemzetközi előírásokkal összhangban a miniszter által meghatározott elvek szerint – természeti, kezelt és bemutató övezeti kategóriákba kell besorolni.
 
 (8) Az (1) bekezdés a)–c) pontjaiban meghatározott országos jelentőségű védett természeti területet, vagy annak meghatározott részét a miniszter tudományos célokra kijelölheti (tudományos rezervátum). E terület fokozottan védetté nyilvánításáról a kijelölő jogszabályban kell rendelkezni.
 
@@ -484,12 +484,11 @@ található.
 - e) külön jogszabályban meghatározott esetben az erdészeti, vadászati, halászati hatósági eljárásokban;
 - f) bányatelek megállapításának, módosításának, az ásványi nyersanyag feltárására, kitermelésére, valamint a meddőhányó hasznosítására, a kitermelés szünetelésére, a bánya bezárására vonatkozó műszak üzemi tervek és a tájrendezési terv jóváhagyásának, továbbá a bányászati létesítmények építésének és üzembe helyezésének engedélyezésekor;
 - g) termőföld más célú hasznosításának;
-- h) külön jogszabályban meghatározott veszélyes anyag átszállításának, tárolásának;
-- i) kormányrendeletben meghatározott esetekben a vízgazdálkodási, vízvédelmi tevékenységek, létesítmények
+- h) külön jogszabályban meghatározott veszélyes anyag átszállításának, tárolásának
 
 engedélyezésekor.
 
-(2) A természetvédelmi hatóság a Natura 2000 területre közvetlen kihatással lévő vagy azt közvetlenül érintő más hatósági eljárás során – kivéve, ha a tevékenység környezeti hatásvizsgálat- vagy egységes környezethasználati engedélyköteles – kormányrendeletben meghatározott esetekben szakhatóságként működik közre a vízgazdálkodási, vízvédelmi hatósági eljárásokban.
+(2)
 
 40. § (1) Fokozottan védett természeti területre történő belépéshez – a jelzett turistautak és tanösvények kivételével – a természetvédelmi hatóságnak az igazgatóság szakértői véleményének figyelembevételével kiadott engedélye szükséges. A külön jogszabályok alapján erre feljogosított személyek – feladatuk ellátásához szükséges mértékben – engedély nélkül beléphetnek.
 
@@ -1021,7 +1020,7 @@ természetvédelmi bírságot köteles fizetni.
 
 ### Polgári jogi felelősség
 
-81. § (1) Az, aki a természet védelmére vonatkozó jogszabályokat, egyedi hatósági előírásokat megszegve kárt okoz, a kárt a Polgári Törvénykönyv 345–346. §-aiban foglalt szabályok szerint köteles megtéríteni.
+81. § (1) Az, aki a természet védelmére vonatkozó jogszabályokat, egyedi hatósági előírásokat megszegve kárt okoz, a kárt a Polgári Törvénykönyv fokozott veszéllyel járó tevékenységre vonatkozó szabályai szerint köteles megtéríteni.
 
 (2) A természet védelmének szabályai megszegésével okozott kár magában foglalja:
 
@@ -1079,7 +1078,7 @@ természetvédelmi bírságot köteles fizetni.
 - 5. természeti érték védetté és fokozottan védetté nyilvánítását és a kiemelt oltalom feloldását;
 - 6. védett élő szervezet meghatározott fejlődési szakasza, alakja, állapota vagy származéka kiemelt természeti oltalmának feloldását;
 - 7. az európai közösségi jogi aktusokban meghatározott védettségi kategóriába, illetve nemzetközi egyezmény hatálya alá tartozó növény- és állatfajok közül azokat, amelyek kiemelt oltalma szükséges, és az e fajokra vonatkozó részletes szabályokat;
-- 8. a nemzeti parkok területén a természeti, a természetkímélő hasznosítás és a szolgáltató övezeti kategóriákba sorolást, a besorolás egységes elveit, valamint az egyes övezetekre vonatkozó általános természetvédelmi előírásokat;
+- 8. a nemzeti parkok területén a természeti, kezelt és bemutató övezeti kategóriákba sorolást, illetve a besorolás egységes elveit;
 - 9. nemzeti park, tájvédelmi körzet, természetvédelmi terület vagy azok meghatározott részének tudományos rezervátummá kijelölését;
 - 10. nemzeti park, tájvédelmi körzet, természetvédelmi terület vagy azok meghatározott részének bioszféra-rezervátummá minősítését, azon belül a magterület kijelölését;
 - 11. a természetes vagy természetközeli állapotú erdei életközösség megóvását, a természetes folyamatok szabad érvényesülését, továbbá a kutatások folytatását szolgáló erdőterületek erdőrezervátummá nyilvánítását az agrárpolitikáért felelős miniszterrel egyetértésben; erdőrezervátum magterületének kijelölését;
@@ -1112,7 +1111,7 @@ természetvédelmi bírságot köteles fizetni.
 
 (5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza
 
-- 1.
+- 1. a nem halászható (horgászható) fajokat, a halászati (horgászati) tilalmakat és a fajok szerinti tilalmi időket;
 - 2. a védett régi hazai háziállatfajok és fajták megőrzésére, egyedei törzskönyvezésére vonatkozó szabályokat, tenyésztési és teljesítményvizsgálati elveket.
 
 #### 85/A. §

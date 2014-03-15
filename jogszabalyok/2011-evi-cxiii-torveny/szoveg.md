@@ -387,7 +387,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A honvédelemért felelős miniszter összehangolja a honvédelemben résztvevő szervek honvédelmi feladatokra történő felkészítését és felügyeli tevékenységüket.
 
-22/A. § Az 1. mellékletben meghatározott gazdálkodó szervezet állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja azzal, hogy az 1. mellékletben meghatározott gazdálkodó szervezet állami tulajdonú részesedésének elidegenítése, megterhelése, a részesedésen vételi jog, elővásárlási jog létesítése, továbbá a részesedés biztosítékul adása és az 1. mellékletben meghatározott gazdálkodó szervezet végelszámolás útján történő megszüntetése tekintetében a tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
+22/A. § Az 1. mellékletben meghatározott gazdasági társaság állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja azzal, hogy az 1. mellékletben meghatározott gazdasági társaság állami tulajdonú részesedésének elidegenítése, megterhelése, a részesedésen vételi jog, elővásárlási jog létesítése, továbbá a részesedés biztosítékul adása és az 1. mellékletben meghatározott gazdasági társaság végelszámolás útján történő megszüntetése tekintetében a tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
 #### 16. A miniszter
 
@@ -671,7 +671,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (2) A katonai szervezetek kijelölés alapján használatba kapják az ingatlanokat.
 
-(3) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.
+(3) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.
 
 42/A. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon Magyarországnak az Észak-atlanti Szerződés Szervezetében való tagságából eredő szövetségesi kötelezettségének teljesítésével összefüggésben nemzetközi szervezet vagy nemzetközi katonai parancsnokság javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.
 
@@ -1276,7 +1276,7 @@ rendelheti el.
 - d) a miniszterek honvédelmi igazgatási feladatait,
 - e) a helyi védelmi igazgatási szervek szakmai felügyeleti, ellenőrzési rendszerét és rendjét, továbbá a katonai igazgatás területi szervei illetékességi területeit,
 - f) a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítását szolgáló szabályokat,
-- g) a magyarországi székhelyű gazdálkodó szervezeteknek a NATO Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultsága feltételeit, a jogosultság megszerzésével kapcsolatos eljárás szabályait és az eljáró szervezetet, valamint a NATO vonatkozó szabályanyagának figyelembevételével a Magyarország területén kivitelezendő Biztonsági Beruházási Programok megvalósításában közreműködő belföldi és külföldi székhelyű gazdálkodó szervezetek kiválasztásának módját,
+- g) a magyarországi székhelyű, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezeteknek a NATO Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultsága feltételeit, a jogosultság megszerzésével kapcsolatos eljárás szabályait és az eljáró szervezetet, valamint a NATO vonatkozó szabályanyagának figyelembevételével a Magyarország területén kivitelezendő Biztonsági Beruházási Programok megvalósításában közreműködő belföldi és külföldi székhelyű, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetek kiválasztásának módját,
 - h) a szövetségesi együttműködési kötelezettséghez kapcsolódó befogadó nemzeti támogatás részletes kormányzati feladatait,
 - i) a nemzetgazdaság védelmi felkészítése és mozgósítása (erőforrásainak védelmi célú igénybevétele) feladatai végrehajtásának szabályait,
 - j) a Honvédség feladatainak ellátásával összefüggő nemzetközi kártérítési ügyekkel kapcsolatos eljárás részletes szabályait,
@@ -1343,7 +1343,7 @@ alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2011. évi CXIII. törvényhez
 
-A honvédelemért felelős miniszter és az MNV Zrt. a 22/A. § alapján az állam nevében a következő gazdálkodó szervezetekben fennálló, állami tulajdonú részesedések felett gyakorolja a tulajdonosi jogokat:
+A honvédelemért felelős miniszter és az MNV Zrt. a 22/A. § alapján az állam nevében a következő gazdasági társaságokban fennálló, állami tulajdonú részesedések felett gyakorolja a tulajdonosi jogokat:
 
 - 1. HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság,
 - 2. HM CURRUS Gödöllői Harcjárműtechnikai Zártkörűen Működő Részvénytársaság,

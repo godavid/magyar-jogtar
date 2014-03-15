@@ -44,7 +44,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - m) közlevéltár: a nem selejtezhető köziratokkal kapcsolatos levéltári feladatokat — ideértve a tudományos és igazgatási feladatokat is — végző, közfeladatot ellátó szerv által fenntartott levéltár;
 - n) nyilvános magánlevéltár: a természetes személy, valamint a nem közfeladatot ellátó szerv tulajdonában vagy birtokában lévő maradandó értékű iratok tartós megőrzésére létesített olyan intézmény, amely megfelel a 30. § (2) bekezdésében foglalt követelményeknek;
 - o) levéltári kutatás: a levéltári anyag tanulmányozása, abból adatok kigyűjtése tudományos vagy más cél érdekében;
-- p)
+- p) gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - r) közlevéltár illetékessége (illetékességi köre): a maradandó értékű irattári anyagnak az a köre, amelyre vonatkozóan törvény közlevéltárba adási kötelezettséget ír elő, s amelyet az adott közlevéltár törvény rendelkezése, illetve fenntartójának döntése alapján köteles átvenni;
 - s) levéltári gyűjtőkör: a maradandó értékű, köziratnak nem minősülő irattári anyagnak, ha arra vonatkozóan törvény közlevéltárba adási, illetve a levéltárfenntartó levéltárba adási kötelezettséget nem ír elő, továbbá a természetes személyek maradandó értékű iratainak az a köre, amelyet az adott levéltár az őrizetében lévő levéltári anyag forrásértékének gazdagítása céljából gyűjt (ajándékként elfogad vagy megvásárol);
 - t) önkormányzati hivatal: a főpolgármesteri hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala.
@@ -309,7 +309,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 (2) A védelmi idő lejárta előtt is kutatható az (1) bekezdésben meghatározott levéltári anyag, ha
 
 - a) a kutatás — a kérelmező költségére — anonimizált másolattal is megvalósítható, vagy
-- b) a kutatáshoz az érintett, vagy annak halálát követően bármely örököse vagy hozzátartozója a kutató kérésére hozzájárult, vagy
+- b) a kutatáshoz az érintett, vagy annak halálát követően bármely örököse, a Polgári Törvénykönyv szerinti hozzátartozója vagy bejegyzett élettársa a kutató kérésére hozzájárult, vagy
 - c) a kutatásra tudományos célból van szükség — feltéve, hogy a 22. § (1) bekezdésében meghatározott harminc, illetve tizenöt év már eltelt — és a kutató a (3) és (4) bekezdésben meghatározott követelményeknek eleget tesz.
 
 (3) A közlevéltár a (2) bekezdés c) pontja szerinti tudományos célú kutatást akkor köteles engedélyezni, ha a kutató csatolja a tudományos kutatást rendeltetésszerűen végző, közfeladatot ellátó szervnek — a kutató részletes kutatási terve alapján megadott — támogató állásfoglalását.
@@ -326,7 +326,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (3) A Kormány felhatalmazást kap arra, hogy személyes adatot – ideértve a különleges adatot is – tartalmazó levéltári anyag másolatának, a történelmi eseményekről folytatott kutatások eredményeinek bemutatása céljából, külföldi tudományos intézmény részére, a 24. § (1) bekezdésében meghatározott védelmi idő lejárta előtt történő átadása tárgyában adatvédelmi szerződést kössön.
 
-(4) A (3) bekezdésben meghatározott adatvédelmi szerződésen alapuló adattovábbítást – a 24. § (1) bekezdésében foglalt védelmi idő lejártáig – az érintett, vagy annak halálát követően bármely örököse vagy hozzátartozója megtilthatja. A tiltakozási jog gyakorlásával kapcsolatos eljárás szabályait a kultúráért felelős miniszter állapítja meg.
+(4) A (3) bekezdésben meghatározott adatvédelmi szerződésen alapuló adattovábbítást – a 24. § (1) bekezdésében foglalt védelmi idő lejártáig – az érintett, vagy annak halálát követően bármely örököse, a Polgári Törvénykönyv szerinti hozzátartozója vagy bejegyzett élettársa megtilthatja. A tiltakozási jog gyakorlásával kapcsolatos eljárás szabályait a kultúráért felelős miniszter állapítja meg.
 
 25. § (1) A minősítő által meghatározott érvényességi idő lejártáig a minősített adatot vagy törvényben meghatározott egyéb más titkot tartalmazó levéltári anyagban csak a minősítő hozzájárulásával folytatható kutatás.
 
@@ -400,7 +400,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (3) A hatóság határozatban kötelezheti a tulajdonost arra, hogy védetté nyilvánított levéltári anyagát biztonsági másolat elkészítése céljából – meghatározott időtartamra – a Magyar Nemzeti Levéltárnak átadja. A levéltári anyag oda- és visszaszállításáról – a tulajdonossal történt megállapodás szerint – a Magyar Nemzeti Levéltár gondoskodik.
 
-(4) A (3) bekezdésben meghatározott biztonsági másolatot a Magyar Nemzeti Levéltár őrzi meg. A biztonsági másolatról további másolat készítését, valamint az abban folytatható kutatást a tulajdonos, ha a kutatás személyhez fűződő jogait vagy jogos érdekeit sértené, meghatározott időtartamra szólóan megtilthatja.
+(4) A (3) bekezdésben meghatározott biztonsági másolatot a Magyar Nemzeti Levéltár őrzi meg. A biztonsági másolatról további másolat készítését, valamint az abban folytatható kutatást a tulajdonos, ha a kutatás személyiségi jogait vagy jogos érdekeit sértené, meghatározott időtartamra szólóan megtilthatja.
 
 (5) A magániratok védetté nyilvánítására és a védetté nyilvánított levéltári anyagra egyebekben a kulturális örökség védelméről szóló törvényben foglaltakat kell alkalmazni.
 

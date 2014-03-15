@@ -28,7 +28,7 @@ a Nemzeti Kulturális Alapról
 
 2/A. § (1) A kollégium döntéseiben nem vehet részt a miniszter, az Alap alelnöke, valamint a Bizottság tagja.
 
-(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek közeli hozzátartozóinak [Ptk. 685. § b) pont] pályázatát érdemi vizsgálat nélkül el kell utasítani.
+(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek, a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozóinak, továbbá bejegyzett élettársának pályázatát érdemi vizsgálat nélkül el kell utasítani.
 
 (3) A miniszter, az Alap alelnöke, a Bizottság tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 
@@ -45,13 +45,13 @@ a Nemzeti Kulturális Alapról
 - a) az ötöslottó szerencsejáték játékadójának 90 százaléka;
 - b) a kulturális adó teljes összege;
 - c) központi költségvetési előirányzatokból átvett pénzeszközök;
-- d) a jogi személyek, jogi személyiség nélküli gazdasági társaságok és természetes személyek befizetései;
+- d) a jogi személyek és természetes személyek befizetései;
 - e) költségvetési támogatás;
 - f) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján felajánlott személyi jövedelemadó meghatározott része;
 - g) a szerzői jogról szóló törvény alapján a közös jogkezelő szervezetektől származó befizetések;
 - h) egyéb bevételek, ideértve a kezelő szerv által beszedett nevezési díj bevételt is.
 
-(2) Az (1) bekezdés d) pontjában foglalt befizetések közérdekű kötelezettségvállalásnak minősülnek (Ptk. 593–596. §).
+(2) Az (1) bekezdés d) pontjában foglalt befizetések a Ptk. szerinti közérdekű célra történő kötelezettségvállalásnak minősülnek.
 
 (3) A központi költségvetési előirányzatból évközben átvett pénzeszköz kezelésére, illetve a pályáztatás lebonyolítására az átvétel tárgyában kötött megállapodás rendelkezései az irányadók.
 
@@ -96,7 +96,7 @@ a Nemzeti Kulturális Alapról
 
 (2) A 4. § (1) bekezdés a) pontjában foglalt bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének legfeljebb 10%-ának mértékéig a miniszter – a kultúráért felelős államtitkár javaslatára – egyedi elbírálással az ágazati minisztérium irányítása, valamint felügyelete alá tartozó állami fenntartású intézmények számára egyedi kérelem alapján működési támogatást nyújthat.
 
-8. § (1) Az Alapból természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok, társasházak, egyéni cégek, valamint egyéni vállalkozók igényelhetnek támogatást.
+8. § (1) Az Alapból természetes és jogi személyek, társasházak, egyéni cégek, valamint egyéni vállalkozók igényelhetnek támogatást.
 
 (2) Az Alap kezelője a pályázat nyerteseivel szerződést köt.
 

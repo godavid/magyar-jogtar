@@ -12,11 +12,12 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a központi költségvetésről szóló törvényben évenként megállapított költségvetési hozzájárulás;
 - 3. beolvadás: egyesülési folyamat, amelyben a beolvadó társulat megszűnik, és annak vagyona az átvevő társulatra, mint jogutódra száll át;
 - 4. elkülönített vagyon: a társulat nyilvántartásában kimutatott társulati művek, valamint a közfeladatok ellátásához a tárgyévben juttatott pénzeszköz, továbbá saját vagyonból a társulati művek értékének 8%-a;
-- 5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
+- 5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 - 6. érdekelt képviselete: az érdekeltet az alakuló gyűlésen képviselő személy;
 - 7. érdekeltség jogcíme: ingatlantulajdonlás vagy ingatlan egyéb jogcímen történő használata;
 - 8. érdekeltségi terület: az a terület, amelynek felszíni és felszín alatti vizei mások tulajdonában lévő vízfolyásokba, tavakba, vízilétesítményekbe juthatnak, illetve elvezethetők, és a terület nem tartozik a társulat működési területébe;
 - 9. felügyelőbizottság: a társulat ellenőrző szerve;
+- 9a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - 10. intézőbizottság: a társulat irányító szerve;
 - 11. kijelölt vízjárta terület: a települési önkormányzat által kijelölt időszakosan elöntésre kerülő vagy vízzel telített talajú területek;
 - 12. kistérség: a települések között létező funkcionális kapcsolatrendszerek összessége alapján lehatárolható területfejlesztési-statisztikai egység;
@@ -33,7 +34,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 23. szervezőbizottság: a társulat megalakulását előkészítő szervezet, legalább hét tagból áll. Több mint a felét a társulat megalakításában érdekelt természetes személyek, illetve szervezetek (képviselői) alkotják. Tagja a közfeladat ellátása szerint illetékes területi vízügyi és mezőgazdasági igazgatás szervének, a vízgazdálkodási társulatok érdekképviseleti szervezetének képviselője is;
 - 24. szétválás: a társulat a társulati vagyon egy részének a részvételével két vagy több társulatra válik szét;
 - 25. társulat érdekképviselete: a társulatok vagy szerveződéseik által érdekképviseleti célból létrehozott, az egyesülési törvény szerint működő országos vagy területi hatáskörű szervezet;
-- 26. társulat tagja: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, aki, illetve amely a társulat működési területén ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
+- 26. társulat tagja: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki, illetve amely a társulat működési területén ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 - 27.
 - 28.
 - 29. társulati alapszabály: a társulat önkormányzati működésének szabályait meghatározó dokumentum;
@@ -85,7 +86,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 ### Tagsági jogviszony
 
-5. § A társulat tagjai a működési területen ingatlantulajdonnal rendelkező vagy az ingatlant a tulajdonos által feljogosított használó természetes és jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok, egyéb szervezetek (a továbbiakban: tagok). A települési önkormányzatok a település teljes belterületével tagjai a társulatnak.
+5. § A társulat tagjai a működési területen ingatlantulajdonnal rendelkező vagy az ingatlant a tulajdonos által feljogosított használó természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek (a továbbiakban: tagok). A települési önkormányzatok a település teljes belterületével tagjai a társulatnak.
 
 6. § (1) A tag joga, hogy
 
@@ -107,7 +108,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 ### Tagi adatok kezelése
 
-8. § (1) A társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési évét, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), jogviszonyának jellegét (tulajdonos vagy használó), tagsági jogviszonyát megalapozó területének nagyságát első alkalommal az alapszabállyal egy időben, a tagok adataiban bekövetkező változásokat évente egy alkalommal, legkésőbb június 30-ig az illetékes cégbírósághoz kell benyújtani. A tagi adatok és ezek változásainak kezelésére a társulat közfeladata ellátása érdekében működésének időtartama alatt köteles és jogosult.
+8. § (1) A társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési évét, anyja nevét, jogi személy vagy jogi személyiséggel nem rendelkező szervezet cégjegyzékszámát (nyilvántartási számát), jogviszonyának jellegét (tulajdonos vagy használó), tagsági jogviszonyát megalapozó területének nagyságát első alkalommal az alapszabállyal egy időben, a tagok adataiban bekövetkező változásokat évente egy alkalommal, legkésőbb június 30-ig az illetékes cégbírósághoz kell benyújtani. A tagi adatok és ezek változásainak kezelésére a társulat közfeladata ellátása érdekében működésének időtartama alatt köteles és jogosult.
 
 (2) Az (1) bekezdésben foglalt tagi adatokat alakuláskor és az adatokban bekövetkezett változások nyilvántartásának hitelessége érdekében évente egy alkalommal az arra hivatott állami szervek a társulat megkeresésére számítógépes adathordozón, díjmentesen bocsátják a társulat rendelkezésére. A társulat a közfeladatok ellátásához saját adatfeldolgozó eszközökkel az (1) bekezdés szerinti tagi adatok megállapítása érdekében díjmentesen a számítógépes ingatlan-nyilvántartásra csatlakozhat.
 
@@ -135,7 +136,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 (4) Az alapszabály mellékleteiben rögzíteni kell továbbá
 
 - a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését és a képviselt terület nagyságát hektárban;
-- b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), a területének nagyságát ha-ban.
+- b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, jogi személy vagy jogi személyiséggel nem rendelkező szervezet cégjegyzékszámát (nyilvántartási számát), a területének nagyságát ha-ban.
 
 (5) Az alapszabály mellékleteiben bekövetkezett változást az éves rendes küldöttgyűlés követő 30 napon belül kell megküldeni az illetékes cégbíróságnak.
 
@@ -189,7 +190,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 ### A társulat megalakulása
 
-18. § (1) A társulat megalakul, ha a működési területen ingatlantulajdonnal rendelkező, illetve az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, jogi személyiséggel nem rendelkező gazdasági társaságoknak (a továbbiakban: érdekelteknek) az érdekeltségi egység aránya szerint számított több mint kétharmada az alakuló gyűlésen
+18. § (1) A társulat megalakul, ha a működési területen ingatlantulajdonnal rendelkező, illetve az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, jogi személyiséggel nem rendelkező szervezeteknek (a továbbiakban: érdekelteknek) az érdekeltségi egység aránya szerint számított több mint kétharmada az alakuló gyűlésen
 
 - a) elfogadja a társulat alapszabályát;
 - b) megválasztja a társulat vezető testületi szerveit és tisztségviselőit;
@@ -213,7 +214,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 20. § A társulat a cégjegyzékbe való bejegyzésével a bejegyzés napján jön létre. Működését, gazdasági tevékenységét csak jogerős cégbejegyzést követően kezdheti meg.
 
-21. § (1) A társulat jogerős cégbejegyzéséig az alapszabály érvénytelenségére a Ptk. rendelkezéseit kell alkalmazni. A jogerős cégbejegyzés után az alapszabály megtámadására nincs mód, és az alapszabály semmisségét csak a következő okokból lehet megállapítani:
+21. § (1) A társulat jogerős cégbejegyzéséig az alapszabály érvénytelenségére a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezéseit kell alkalmazni. A jogerős cégbejegyzés után az alapszabály megtámadására nincs mód, és az alapszabály semmisségét csak a következő okokból lehet megállapítani:
 
 - a) az alapszabály ügyvédi, illetve az alapító jogtanácsosa általi ellenjegyzésére vagy közjegyzői okiratba foglalására nem került sor;
 - b) az alapszabály nem tartalmazza a társulat nevét, főtevékenységét, jegyzett tőkéjét, a társulat működési területét, a társulati művek megnevezését;
@@ -382,7 +383,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - a) intézőbizottság elnöke, tagjai (vezető tisztségviselők);
 - b) felügyelőbizottság elnöke (vezető tisztségviselő), tagjai.
 
-(2) Tisztségviselő csak a társulat nagykorú, cselekvőképes tagja – jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szerv esetén annak képviselője – lehet, aki nem áll jogerős bírósági ítélet alapján a közügyektől eltiltás hatálya alatt. Egy tag két tisztségre nem választható. A tisztségviselők és az igazgató nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói, valamint a tisztségviselő nem lehet a társulat ügyvezetője. A tisztségviselők tisztségüket a jogszabályokban, az alapszabályban, a társulat belső szabályzataiban, a küldöttgyűlés, az intézőbizottság és a felügyelőbizottság határozataiban foglaltak szerint kötelesek ellátni. A tisztségviselők jogszabályba, alapszabályba, a társulat belső szabályzataiba, küldöttgyűlési és intézőbizottsági határozatokba ütköző cselekedeteikkel a társulatnak szándékosan okozott kárért egyetemlegesen, a gondatlan károkozásért közrehatásuk arányában felelnek. A tisztségviselők a társulat küldöttgyűlése által az éves költségvetésben jóváhagyott összeg mértékéig tiszteletdíjban, költségtérítésben részesülhetnek.
+(2) Tisztségviselő csak a társulat nagykorú, cselekvőképes tagja – jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén annak képviselője – lehet, aki nem áll jogerős bírósági ítélet alapján a közügyektől eltiltás hatálya alatt. Egy tag két tisztségre nem választható. A tisztségviselők és az igazgató nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói, valamint a tisztségviselő nem lehet a társulat ügyvezetője. A tisztségviselők tisztségüket a jogszabályokban, az alapszabályban, a társulat belső szabályzataiban, a küldöttgyűlés, az intézőbizottság és a felügyelőbizottság határozataiban foglaltak szerint kötelesek ellátni. A tisztségviselők jogszabályba, alapszabályba, a társulat belső szabályzataiba, küldöttgyűlési és intézőbizottsági határozatokba ütköző cselekedeteikkel a társulatnak szándékosan okozott kárért egyetemlegesen, a gondatlan károkozásért közrehatásuk arányában felelnek. A tisztségviselők a társulat küldöttgyűlése által az éves költségvetésben jóváhagyott összeg mértékéig tiszteletdíjban, költségtérítésben részesülhetnek.
 
 34. § (1) A tisztségviselőt fel kell menteni, ha
 
@@ -490,7 +491,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 51. § (1) Csatlakozáskor a társulat működési területe azon területtel bővül, amelyen az érdekeltek több mint kétharmada az alakulás szabályai szerinti szándéknyilatkozatban nyilvánítja ki, hogy az adott társulat tagja kíván lenni. A csatlakozásról a társulat küldöttgyűlése az alapszabály egyidejű módosításával határoz.
 
-(2) Amennyiben új ingatlantulajdonos természetes vagy jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok, egyéb szervezetek lépnek be a már működő társulatba, a társulat működési területe a belépő tagok által képviselt területtel bővül ki.
+(2) Amennyiben új ingatlantulajdonos természetes vagy jogi személyek, jogi személyiséggel nem rendelkező szervezetek lépnek be a már működő társulatba, a társulat működési területe a belépő tagok által képviselt területtel bővül ki.
 
 (3) A működési terület kibővítésénél a területileg illetékes vízügyi igazgatási szervezet véleményét figyelembe kell venni. A belépésről a társulat küldöttgyűlése az alapszabály egyidejű módosításával határoz.
 

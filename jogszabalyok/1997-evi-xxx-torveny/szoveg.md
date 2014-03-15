@@ -24,14 +24,14 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 ### A jelzálog-hitelintézet fogalma, tevékenységi köre
 
-3. § (1) Jelzálog-hitelintézet pénzkölcsönt nyújt Magyarország, az Európai Unió más tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államnak (a továbbiakban: EGT-állam) területén lévő ingatlanon alapított jelzálogjog, ideértve az önálló zálogjogként alapított jelzálogjogot is (a továbbiakban együtt: jelzálogjog) fedezete mellett, amelyhez forrásait alapvetően jelzáloglevél kibocsátásával gyűjti.
+3. § (1) Jelzálog-hitelintézet pénzkölcsönt nyújt Magyarország, az Európai Unió más tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam (a továbbiakban: EGT-állam) területén lévő ingatlanon alapított jelzálogjog, ideértve az önálló zálogjogként alapított, valamint a különvált jelzálogjogot is (a továbbiakban együtt: jelzálogjog) fedezete mellett, amelyhez forrásait alapvetően jelzáloglevél kibocsátásával gyűjti.
 
 (2) Jelzálog-hitelintézet kizárólag az alábbi pénzügyi szolgáltatási, befektetési szolgáltatási, illetve kiegészítő befektetési szolgáltatási tevékenységeket végzi:
 
 - a) visszafizetendő pénzeszköz nyilvánosságtól történő elfogadása, ide nem értve a betét gyűjtését;
 - b) pénzkölcsön nyújtása Magyarország vagy EGT-állam területén lévő ingatlanon alapított jelzálogjog fedezete mellett (a továbbiakban: jelzáloghitel);
 - c) jelzálogjog kikötése nélküli kölcsönök nyújtása állami készfizető kezességvállalás esetén;
-- d) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása (a továbbiakban együtt: bankári kötelezettség);
+- d) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása (a továbbiakban együtt: bankári kötelezettség);
 - e) letéti szolgáltatás;
 - f) saját kibocsátású értékpapírhoz kapcsolódóan értékpapír-letétkezelés és az ehhez kapcsolódó szolgáltatás;
 - g) saját kibocsátású értékpapírhoz kapcsolódóan értékpapír letéti őrzés;
@@ -80,11 +80,11 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 ### Jelzáloghitelezés
 
-5. § (1) A teljes hitelállományban a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, valamint az önálló zálogjogvásárlások időpontjában a legalább ötéves futamidejű jelzálog-hitelintézeti követelések aránya nem lehet kevesebb nyolcvan százaléknál.
+5. § (1) A teljes hitelállományban a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, a különvált jelzálogjog fedezete mellett történő pénzkölcsönnyújtáskor (a továbbiakban: refinanszírozási jelzáloghitel), valamint az önálló zálogjogvásárlások időpontjában a legalább ötéves futamidejű jelzálog-hitelintézeti követelések aránya nem lehet kevesebb nyolcvan százaléknál.
 
-(2) A jelzálog-hitelintézet jelzálogjogával (önálló zálogjogával) terhelt ingatlant a jelzálogjognak (önálló zálogjognak) a jelzálog-hitelintézet által történő alapítása, illetve megszerzése időpontjától e jogának megszűnéséig csak a jelzálog-hitelintézet hozzájárulásával lehet elidegeníteni és megterhelni. Az ingatlant terhelő elidegenítési és terhelési tilalmat a jelzálogjog (önálló zálogjog) jelzálog-hitelintézet javára történő bejegyzésével, illetve átjegyzésével egyidejűleg – erre irányuló külön kérelem nélkül is – az ingatlan-nyilvántartásban fel kell jegyezni, ennek elmaradása esetén azonban a jogosult azt nem érvényesítheti a jóhiszemű harmadik jogszerzővel szemben.
+(2) A jelzálog-hitelintézet jelzálogjogával terhelt ingatlant a jelzálogjognak a jelzálog-hitelintézet által történő alapítása, megszerzése, illetve a jelzálog-hitelintézetre történő átruházása időpontjától e jogának megszűnéséig csak a jelzálog-hitelintézet hozzájárulásával lehet elidegeníteni és megterhelni. Az ingatlant terhelő elidegenítési és terhelési tilalmat a jelzálogjognak a jelzálog-hitelintézet javára történő bejegyzésével, illetve átjegyzésével egyidejűleg – erre irányuló külön kérelem nélkül is – az ingatlan-nyilvántartásban fel kell jegyezni, ennek elmaradása esetén azonban a jogosult azt nem érvényesítheti a jóhiszemű harmadik jogszerzővel szemben.
 
-(3) A jelzáloghitelekből, valamint önálló zálogjog visszavásárlásából eredő tőkekövetelések állományának mértéke – ide nem értve a kapcsolódó kölcsönrészből eredő tőkeköveteléseket, továbbá a visszavásárlási vételár kapcsolódó kölcsönrészre eső összegét – nem haladhatja meg a fedezetül szolgáló ingatlanok együttes hitelbiztosítéki értékének hetven százalékát.
+(3) A jelzáloghitelekből, a refinanszírozási jelzáloghitelekből, valamint az önálló zálogjog visszavásárlásából eredő, továbbá a különvált zálogjog átruházásával biztosított tőkekövetelések állományának mértéke – ide nem értve a kapcsolódó kölcsönrészből eredő tőkeköveteléseket, továbbá a visszavásárlási vételár, valamint a refinanszírozási jelzáloghitel kapcsolódó kölcsönrészre eső összegét – nem haladhatja meg a fedezetül szolgáló ingatlanok együttes hitelbiztosítéki értékének hetven százalékát.
 
 (4) A hitelbiztosítéki érték megállapításának módszertani elveit jogszabály határozza meg. Ennek alapján a jelzálog-hitelintézet értékmegállapítási szabályzatot készít, amelyet a Magyar Nemzeti Bank hagy jóvá.
 
@@ -119,7 +119,16 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (5) A jelzálog-hitelintézet (4) bekezdés b) pontja szerinti vételár-követelése (a továbbiakban: visszavásárlási vételár) nem haladhatja meg az önálló zálogjoggal biztosított jelzáloghitelből és a kapcsolódó kölcsönrészből még fennálló követelés mértékét.
 
-(6) Ha a visszavásárló hitelintézet a jelzálog-hitelintézettel megkötött visszavásárlási szerződésből, illetőleg szerződésekből eredő bármely fizetési kötelezettségét megszegi, továbbá, ha a Magyar Nemzeti Bank a visszavásárló hitelintézet felszámolását kezdeményezte, a felszámolás iránti kérelem bírósághoz történő benyújtásának napjával valamennyi visszavásárlási szerződéssel érintett, önálló zálogjoggal biztosított jelzáloghitel és a kapcsolódó kölcsönrész a (3) bekezdés szerinti jogkövetkezménnyel a jelzálog-hitelintézetet illeti meg, amely – törvényi engedményesként – e tényről maga is jogosult a kötelezettet az engedményező értesítési kötelezettségének hatályával [Ptk. 328. § (4) bek.] tájékoztatni. Ebben az esetben a jelzálog-hitelintézet az elszámolás során csak a visszavásárlási vételárnak azt a részét köteles a hitelintézetnek kiadni, amellyel az – a visszavásárlási vételár eddig törlesztett és a jelzálog-hitelintézetet megillető hitel, illetve az abból még fennálló, a hitelintézet által elszámolt értékvesztéssel csökkentett követelés együttes összegét figyelembe véve – többet teljesített.
+(5a) Magyarország területén lévő ingatlanon alapított jelzálogjognak a jelzálog-hitelintézetre történő átruházásával létrejött különvált zálogjog fedezete mellett a jelzálog-hitelintézet akkor nyújthat refinanszírozási jelzáloghitelt hitelintézetnek, ha
+
+- a) a jelzálog-hitelintézetnek a refinanszírozási jelzáloghitelből eredő tőkekövetelése a hitelintézettel szemben a refinanszírozási jelzáloghitel futamideje alatt nem haladja meg a különvált zálogjoggal biztosított jelzáloghitelből és a kapcsolódó kölcsönrészből (a továbbiakban a különvált zálogjoggal biztosított jelzáloghitel és a kapcsolódó kölcsönrész együtt: eredeti jelzáloghitel) még fennálló követelés mértékét,
+- b) a hitelintézet a refinanszírozási jelzáloghitel nyújtását megelőzően kötelezettséget vállal, hogy az eredeti jelzáloghitel elő- vagy végtörlesztése esetén a refinanszírozási jelzáloghitelt ugyanolyan mértékben haladéktalanul elő- vagy végtörleszti,
+- c) a hitelintézet javára a különvált zálogjog biztosítására elidegenítési és terhelési tilalmat kötöttek ki, vagy a jelzálogjogot alapító szerződésben szerepel az a tájékoztatás, hogy ha a jelzálog-hitelintézet az eredeti zálogjogosult helyébe lép, a jelzálog-hitelintézet javára elidegenítési és terhelési tilalom áll fenn, és a kapcsolódó kölcsönrész nyújtása esetén figyelembe vették a 3. § (3) bekezdésében meghatározott szabályokat,
+- d) az eredeti jelzáloghitelből eredő követelés az azt biztosító jelzálogjogot átruházó hitelintézet könyvvizsgálója szerint problémamentes minősítésű,
+- e) az eredeti jelzáloghitel fedezetéül szolgáló ingatlan vagy ingatlanok hitelbiztosítéki értékét a refinanszírozási jelzáloghitelt nyújtó jelzálog-hitelintézet az erre vonatkozó szabályok betartásával állapította meg, és az eredeti jelzáloghitel kölcsönszerződésben meghatározott tőkeösszege nem haladja meg a jelzálog-hitelintézetre átruházott különvált zálogjoggal terhelt ingatlan vagy ingatlanok hitelbiztosítéki értékét, a kapcsolódó kölcsönrész tőkeösszege és kamata pedig nem haladja meg az állami készfizető kezességvállalással biztosított összeget, és
+- f) az eredeti jelzáloghitelre vonatkozó szerződéseket tartalmazó okiratok megfelelnek a 6. §-ban foglalt követelményeknek, függetlenül attól, hogy a 6. § b) pontja szerinti egyoldalú kötelezettségvállaló nyilatkozatot a kölcsön folyósítása előtt vagy azt követően tették.
+
+(6) Ha a visszavásárló, illetve a refinanszírozási jelzáloghitelt felvevő hitelintézet a jelzálog-hitelintézettel megkötött visszavásárlási- vagy kölcsönszerződésből, vagy szerződésekből eredő bármely fizetési kötelezettségét megszegi, továbbá, ha a Magyar Nemzeti Bank a hitelintézet felszámolását kezdeményezte, a felszámolás iránti kérelem bírósághoz történő benyújtásának napjával valamennyi visszavásárlási szerződéssel érintett, önálló zálogjoggal biztosított jelzáloghitel és kapcsolódó kölcsönrész, továbbá valamennyi eredeti jelzáloghitel a (3) bekezdés szerinti jogkövetkezménnyel a jelzálog-hitelintézetet illeti meg, amely – törvényi engedményesként – e tényről maga is jogosult a kötelezettet az engedményezőnek a Polgári Törvénykönyv szerinti értesítési kötelezettsége hatályával tájékoztatni. Ebben az esetben a jelzálog-hitelintézet az elszámolás során csak a visszavásárlási vételárnak azt a részét köteles a hitelintézetnek kiadni, amellyel az – a visszavásárlási vételár eddig törlesztett és a jelzálog-hitelintézetet megillető jelzáloghitel, illetve az abból még fennálló, a hitelintézet könyvvizsgálója által jóváhagyott, elszámolt értékvesztéssel csökkentett követelés együttes összegét figyelembe véve – többet teljesített. A törvényi engedményezés alapján átszállt eredeti jelzáloghitelek esetében a jelzálog-hitelintézet kiadja a hitelintézetnek az eredeti jelzáloghitel alapján fennálló, a hitelintézet által elszámolt értékvesztéssel korrigált és könyvvizsgáló által jóváhagyott, összesített tőkekövetelés azon részét, amellyel az eredeti jelzáloghitelek alapján fennálló összesített tőkekövetelés a refinanszírozási jelzáloghitelek alapján fennálló tőkekövetelés összegét meghaladja.
 
 ### Befektetések korlátozása
 
@@ -146,7 +155,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 11. § (1) A jelzáloglevél kizárólag a jelzálog-hitelintézet által e törvény alapján kibocsátott névre szóló, átruházható értékpapír.
 
-(2) A Magyarország területén előállított jelzáloglevélre a kötvényről szóló jogszabály rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A Magyarország területén előállított jelzáloglevélre a kötvényre vonatkozó jogszabályi rendelkezéseket az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A jelzáloglevélnek tartalmaznia kell:
 
@@ -189,7 +198,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - a) a fedezetként figyelembe vett tőkekövetelések értékvesztéssel csökkentett együttes értékének meg kell haladnia a forgalomban lévő jelzáloglevelek még nem törlesztett névértékének 100%-át,
 - b) a fedezetként figyelembe vett értékvesztéssel csökkentett tőkére járó kamat együttes értékének meg kell haladnia a forgalomban lévő jelzáloglevelek még nem törlesztett névértékére jutó kamatának 100%-át.
 
-(3) Rendes fedezetként azon jelzáloghitelből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint a fennálló tőkekövetelés százalékában meghatározott, a kölcsönszerződés szerint a futamidő alatt rendszeresen felszámítható kezelési költség (a továbbiakban: kamat jellegű bevétel) vehető figyelembe, amely fedezetéül kikötött jelzálogjog az ingatlan-nyilvántartásba bejegyzésre került. Rendes fedezetként a visszavásárlási vételár, valamint a kapcsolódó kölcsönrészből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint kamat jellegű bevétel, továbbá a származtatott (derivatív) ügylet (6) bekezdés szerinti értéke is figyelembe vehető.
+(3) Rendes fedezetként azon jelzáloghitelből, illetve refinanszírozási jelzáloghitelből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint a fennálló tőkekövetelés százalékában meghatározott, a kölcsönszerződés szerint a futamidő alatt rendszeresen felszámítható kezelési költség (a továbbiakban: kamat jellegű bevétel) vehető figyelembe, amely fedezetéül kikötött jelzálogjog a jelzálog-hitelintézet javára az ingatlan-nyilvántartásba bejegyzésre került. Rendes fedezetként a visszavásárlási vételár, valamint a kapcsolódó kölcsönrészből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint kamat jellegű bevétel, továbbá a származtatott (derivatív) ügylet (6) bekezdés szerinti értéke is figyelembe vehető. Refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve önálló zálogjog vásárlása-visszavásárlása esetén a visszavásárlási vételár, továbbá a szerződés alapján járó kamat és kamat jellegű bevétel abban az esetben vehető figyelembe rendes fedezetként, ha a különvált zálogjog, illetve az önálló zálogjog alapítása, valamint a jelzálog-hitelintézet javára történő átruházása érvényesen megtörtént, és a jelzálog-hitelintézet feltétel nélkül jogosult kezdeményezni a különvált zálogjog, valamint az önálló zálogjog átjegyzését a saját javára az ingatlan-nyilvántartásban.
 
 (4) A jelzáloglevelek mindenkori fedezetét – a (2) bekezdés szerinti megfelelés mellett – a jelzálog-hitelintézet a jelenérték alapján is biztosítani köteles.
 
@@ -197,7 +206,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (6) Ha a jelzálog-hitelintézet az általa kibocsátott jelzálogleveleket, illetőleg azok fedezetét érintő származtatott (derivatív) ügyletet köt, úgy ezen származtatott (derivatív) ügyletet jogosult a derivatív partner szerződésben megadott előzetes hozzájárulása esetén – az erre vonatkozó külön jogszabályi rendelkezések szerint – a jelzáloglevelek rendes fedezeteként figyelembe venni. A derivatív partner a fedezetbe vont származtatott (derivatív) ügylet tekintetében felmondási jogát a jelzálog-hitelintézet fizetésképtelensége esetén nem gyakorolhatja. Rendes fedezetként a származtatott (derivatív) ügyletből származó követelésnek vagy kötelezettségnek az ezek fedezetéül szolgáló biztosítékkal korrigált összegét kell nyilvántartásba venni. Ha a korrigált összeg a jelzálog-hitelintézet számára kötelezettség, akkor azt negatív előjellel kell a fedezetek között számba venni. A rendes fedezetbe vont származtatott (derivatív) ügyletekből fennálló követelések és kötelezettségek jelenértéken számított egyenlege nem haladhatja meg a forgalomban lévő jelzáloglevelekből származó kötelezettségek jelenértékének 12%-át.
 
-(7) Ha a jelzáloghitelből eredő tőkekövetelés, illetve visszavásárlási vételár összege a fedezetül lekötött ingatlan hitelbiztosítéki értékének hatvan százalékát meghaladja, rendes fedezetként legfeljebb 60% mértékéig vehető figyelembe. Amennyiben a fedezetül lekötött ingatlan lakóingatlan [a bírósági végrehajtásról szóló 1994. évi LIII. törvény 147. §-a (4) bekezdésének a) pontja], akkor a jelzáloghitelből eredő tőkekövetelés, illetve visszavásárlási vételár összege a hitelbiztosítéki érték 70%-áig vehető rendes fedezetként figyelembe.
+(7) Ha a jelzáloghitelből, a refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve a visszavásárlási vételár összege a fedezetül lekötött ingatlan hitelbiztosítéki értékének hatvan százalékát meghaladja, rendes fedezetként a tőkekövetelés, illetve a visszavásárlási vételár összege legfeljebb annak 60%-áig vehető figyelembe. Ha a fedezetül lekötött ingatlan a bírósági végrehajtásról szóló 1994. évi LIII. törvény 147. § (4) bekezdés a) pontja szerinti lakóingatlan, akkor a jelzáloghitelből eredő tőkekövetelés, illetve visszavásárlási vételár összege a hitelbiztosítéki érték 70%-áig vehető rendes fedezetként figyelembe.
 
 (8) A fedezeten belül a rendes fedezet aránya nem lehet kevesebb nyolcvan százaléknál.
 
@@ -235,11 +244,11 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (2) Az (1) bekezdés c) pontjának megfelelő fedezet-nyilvántartási szabályzatot a Magyar Nemzeti Bank abban az esetben hagyja jóvá, ha az (1) bekezdés a)–b) pontjában foglalt feltételek az adott tagállam területén lévő ingatlanon alapított jelzálogjog fedezete mellett nyújtott jelzáloghitel esetében teljesülnek.
 
-### Jelzáloglevélből eredő kötelezettség átruházása
+### Jelzáloglevélből eredő kötelezettség átszállása
 
-15. § (1) A jelzálog-hitelintézet, átalakítása vagy felszámolása esetén, a Magyar Nemzeti Bank engedélyével a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettségét egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
+15. § (1) A jelzálog-hitelintézet az átalakítása vagy felszámolása esetén valamennyi, a kibocsátott jelzáloglevelekkel és a megkötött derivatív ügyletekkel kapcsolatos szerződésből származó jogát és kötelezettségét a Magyar Nemzeti Bank engedélyével egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
 
-(2) Jelzáloglevélből és származtatott (derivatív) ügyletből eredő kötelezettség átruházása során a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) tartozásátvállalásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az átruházáshoz nem szükséges a jelzáloglevél-tulajdonos és a fedezetbe vont származtatott (derivatív) ügylet szerződött partnerének hozzájárulása. Az átruházással – az engedély kézhezvételének időpontjától – a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettség az átvevő jelzálog-hitelintézetet terheli.
+(2) Jelzáloglevélből és származtatott (derivatív) ügyletből eredő kötelezettség átvállalása során a Polgári Törvénykönyv szerződésátruházásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az átruházás esetén a szerződés biztosítékai nem szűnnek meg, továbbá az átruházáshoz nem szükséges a jelzáloglevél-tulajdonos és a fedezetbe vont származtatott (derivatív) ügylet szerződött partnerének hozzájárulása. Az átruházással – az engedély kézhezvételének időpontjától – a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettség az átruházó jelzálog-hitelintézetet terheli.
 
 (3) Az átruházás engedélyezése iránti kérelem legalább az alábbiakat tartalmazza:
 
@@ -276,7 +285,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (6) Nem lehet vagyonellenőr az a személy, aki
 
-- a) a jelzálog-hitelintézet alapítója, részvényese, vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója és ezek közeli hozzátartozója [Ptk. 685. § b) pont], a jelzálog-hitelintézet alkalmazottja;
+- a) a jelzálog-hitelintézet alapítója, részvényese, vezető tisztségviselője, felügyelő-bizottsági tagja, könyvvizsgálója és ezek Polgári Törvénykönyv szerinti közeli hozzátartozója, a jelzálog-hitelintézet alkalmazottja;
 - b) az a) pontban felsorolt minőségét két évnél rövidebb ideje szüntette meg;
 - c) a jelzálog-hitelintézetben közvetett tulajdoni részesedéssel rendelkezik;
 - d) a jelzálog-hitelintézettel, illetve az a) pontban meghatározott személyekkel üzleti kapcsolatban, illetve a jelzálog-hitelintézetnél minősített befolyással rendelkező tulajdonos alkalmazásában áll;
@@ -373,7 +382,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 23. § A Felügyelet a Hpt.-ben és a Tpt.-ben meghatározottakon túlmenően a következő intézkedést és kivételes intézkedést alkalmazhatja:
 
 - a) határidő megjelölése mellett elrendeli a fedezet helyreállítását, ha a forgalomban lévő jelzáloglevelek még nem törlesztett névértékének és kamatának összege meghaladja a fedezet összegét. A fedezet helyreállítása pótfedezet bevonásával, újabb jelzáloghitel kihelyezésével vagy jelzáloglevél visszavásárlásával történhet;
-- b) a jelzáloglevelekből eredő kötelezettség és a fedezetet képező jelzáloghitel-állomány, ideértve a visszavásárlási vételárból eredő követelésállományt is (a továbbiakban együtt: jelzáloghitel-állomány), továbbá a pótfedezet átruházására kötelezheti a jelzálog-hitelintézetet, ha tőkemegfelelési mutatója – kilencven napot meghaladóan – négy százaléknál alacsonyabb, és azt a Magyar Nemzeti Bank által megállapított határidőn belül nem tudják helyreállítani.
+- b) a jelzáloglevelekből eredő kötelezettség és a fedezetet képező jelzáloghitel-állomány, ideértve a visszavásárlási vételárból, valamint refinanszírozási hitelből eredő követelésállományt is, továbbá a pótfedezet átruházására kötelezheti a jelzálog-hitelintézetet, ha tőkemegfelelési mutatója – kilencven napot meghaladóan – négy százaléknál alacsonyabb, és azt a Magyar Nemzeti Bank által megállapított határidőn belül nem tudják helyreállítani.
 
 ### Bírságok
 

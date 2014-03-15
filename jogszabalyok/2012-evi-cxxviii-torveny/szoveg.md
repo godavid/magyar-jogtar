@@ -7,7 +7,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 1. § (1) E törvény hatálya kiterjed
 
 - a) a mezőgazdasági és élelmiszer-ipari termékre,
-- b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó jogi személyre, jogi személyiség nélküli gazdasági társaságra és egyéb gazdálkodó szervezetre, természetes személyre és családi gazdálkodóra,
+- b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó természetes személyre és családi gazdálkodóra, jogi személyre és jogi személyiséggel nem rendelkező szervezetre,
 - c) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: tanácsi rendelet) hatálya alá tartozó ágazatok termékeinek előállításához, forgalmazásához, illetve feldolgozásához kapcsolódó gazdasági tevékenységek képviselőiből álló és elismert, és szakmaközi elismerés iránt folyamodó szervezetekre,
 - d) a tanácsi rendelet II. Rész II. Cím II. Fejezetében foglalt termelői szervezetekre, termelői csoportokra, és azok társulásaira.
 
@@ -147,7 +147,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 (4) Az ágazatfelügyeleti bírság mértékét az eset összes körülményére – így különösen a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre és a piaci szereplő gazdasági súlyára – tekintettel kell meghatározni.
 
-12. § (1) A jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott végrehajtási bírságot, illetve ágazatfelügyeleti bírságot mind a kötelezett, mind a vállalkozás vezetőjével szemben egyidejűleg is ki lehet szabni.
+12. § (1) A jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott végrehajtási bírságot, illetve ágazatfelügyeleti bírságot mind a kötelezett, mind a vállalkozás vezetőjével szemben egyidejűleg is ki lehet szabni.
 
 (2) A piacszervezési hozzájárulás, ha azt a kötelezett a teljesítésre nyitva álló határidőn belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a mezőgazdasági igazgatási szerv megkeresésére az állami adóhatóság szed be.
 
@@ -209,9 +209,14 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - a) a termék ellenértékére és
 - b) a termék ellenértéke után fizetendő késedelmi kamatra vonatkozó beszedési megbízás teljesítésére irányuló hozzájárulását, felhatalmazó nyilatkozatát.
 
-19/A. § (1) A mezőgazdasági termény betakarítása előtt kötött azon szerződésre, amellyel a termény tulajdonjogát ruházzák át, a Polgári Törvénykönyvnek a mezőgazdasági termékértékesítési szerződésre vonatkozó rendelkezéseit kell alkalmazni.
+19/A. § (1) Mezőgazdasági termelővel mint eladóval az általa használt mezőgazdasági földterületen megtermelt mezőgazdasági termény szolgáltatására annak betakarítása előtt csak
 
-(2) Az (1) bekezdés szerinti szerződés érvényesen csak meghatározott területen megtermő összes terményre vagy annak valamely hányadára köthető meg.
+- a) a Polgári törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:232. §-a szerinti, a saját termelésű mezőgazdasági áru szolgáltatására kötött adásvételi szerződés, valamint
+- b) a Ptk. 6:233. §-a szerinti, a vevő közreműködésével előállított mezőgazdasági áru szolgáltatására kötött adásvételi szerződés köthető.
+
+(2) Az (1) bekezdés alkalmazásában eladónak minősül mezőgazdasági termelőként az a személy, aki az általa használt mezőgazdasági földterületen a szerződés tárgyát képező mezőgazdasági terményt saját nevében és saját kockázatára termeli meg.
+
+(3) Az (1) bekezdés szerinti szerződések esetében a Ptk. rendelkezéseit az e törvényben foglalt kiegészítéssel együtt kell alkalmazni.
 
 19/B. § (1) Az agrárgazdaság megalapozott irányítása, valamint az Európai Unió felé történő adatszolgáltatási kötelezettség teljesítése érdekében statisztikai célra állami adatbázisokat kell működtetni.
 
@@ -248,6 +253,26 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 19/C. § (1) Az agrártámogatás igénybevevője külön jogszabályban foglaltak alapján, az abban meghatározott adatok szolgáltatására köteles.
 
 (2) A mezőgazdasági termelő a mezőgazdasági igazgatási szerv részére termésbecslési célból, illetve agrárgazdasági adatbázis működtetése céljából az e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles gazdálkodásáról adatot szolgáltatni. Az adatszolgáltatás keretében az e törvény végrehajtására kiadott rendeletben meghatározott gazdálkodási adatokon túl a mezőgazdasági termelő köteles szolgáltatni családi és utóneve, születési családi és utóneve, lakcíme, székhelye (telephelye), regisztrációs száma adatait. A termésbecslési adatok, illetve az agrárgazdasági adatok kizárólag statisztikai célra használhatók fel. A mezőgazdasági termelő által megadott személyes adatokat a mezőgazdasági igazgatási szerv az aggregált statisztikai adat előállítását követően törli a nyilvántartásából.
+
+19/D. § (1) Mezőgazdasági termelővel mint eladóval saját termelésű mezőgazdasági termény szolgáltatására annak betakarítása előtt kötött adásvételi szerződésnek tartalmaznia kell
+
+- a) az eladó nyilatkozatát arról, hogy a szerződés teljesítését szolgáló mezőgazdasági terményt mezőgazdasági termelőként saját nevében és saját kockázatára termeli,
+- b) egyedi azonosításra alkalmas módon azon mezőgazdasági földterületek megjelölését, amelyen megtermelt terménnyel az eladó a szerződésben foglaltakat teljesíti,
+- c) rögzített mennyiség szolgáltatására vállalt kötelezettség esetén az eladó nyilatkozatát a b) pont szerinti területeken hektáronként megtermelhető szokásos termény mennyiségről,
+- d) a szerződés teljesítését akadályozó ellenőrzési körön kívül eső ok vevő részére történő bejelentésének és igazolásának részletes feltételeit,
+- e) a minőség meghatározásának módját, valamint
+- f) a teljesítési és a minőségi vita rendezésének rendjét.
+
+(2) A mezőgazdasági termelő egészben vagy részben csak abban az esetben mentesül a szerződésben rögzített mennyiségű mezőgazdasági termény szolgáltatási kötelezettsége alól ha
+
+- a) az (1) bekezdés b) pontja szerinti területen az (1) bekezdés c) pontja szerint rögzített mennyiségű mezőgazdasági termény a mezőgazdasági termelő ellenőrzésén kívüli ok miatt nem termett meg, amelyről másik szerződő felet még a termény betakarítása előtt értesítette, és
+- b) a mezőgazdasági termelő az (1) bekezdés b) pontja szerinti területen ellenőrzési körén kívül eső mezőgazdasági káresemény bekövetkezését a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvénynek megfelelően az agrárkár-megállapító szervhez történt bejelentés alapján kiállított hatósági bizonyítvánnyal igazolta.
+
+(3) A (2) bekezdésben foglaltak alkalmazása nem érinti a szerződő felek megállapodását arról, hogy a mezőgazdasági termelő a (2) bekezdésben foglalt okok miatt kieső termény mennyiséget az általa használt más mezőgazdasági földterületen megtermelt mezőgazdasági terménnyel pótolja. Ebben az esetben a mezőgazdasági termelő csak akkor mentesül a szerződésben rögzített mezőgazdasági termény szolgáltatásának kötelezettsége alól, ha az ellenőrzési körén kívül eső okot az általa használt összes földterület vonatkozásában a (2) bekezdés b) pontja szerinti módon bejelentette és igazolta.
+
+19/E. § (1) A vevő közreműködésével előállított mezőgazdasági termény szolgáltatására annak betakarítása előtt kötött adásvételi szerződés esetében a 19/D. §-ban foglaltakat megfelelően alkalmazni kell.
+
+(2) A vevő az általa mezőgazdasági termelőtől, mint eladótól megvásárolt mezőgazdasági termény harmadik személy javára történő tovább értékesítése esetén a harmadik személlyel szemben csak abban az esetben hivatkozhat a 19/D. § (2) bekezdésen alapuló felelőssége korlátozására, ha a harmadik személlyel kötött szerződés ezt lehetővé teszi.
 
 20. § (1) A szakmaközi szervezet a szakmaközi célok megvalósítása, az adott ágazat fejlesztése és piacszervezése érdekében szakmai adatbázist működtethet.
 

@@ -44,7 +44,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 4. § (1) Magyarországon bíróvá az a harmincadik életévét betöltött személy nevezhető ki, aki
 
 - a) magyar állampolgár,
-- b) cselekvőképes,
+- b) nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
 - c) egyetemi jogi végzettséggel rendelkezik,
 - d) a jogi szakvizsgát letette,
 - e) vállalja, hogy e törvény rendelkezéseinek megfelelően vagyonnyilatkozatot tesz,
@@ -864,7 +864,7 @@ történő rendelkezésre állás.
 
 #### 44. Szolgálati bíróság
 
-101. § A bírák fegyelmi és az ezzel összefüggő kártérítési ügyeiben, továbbá a bíró munkájának szakmai értékeléséből és vezetői munkájának értékeléséből eredő jogvitákban, valamint a 42. § (6)–(8) bekezdése szerinti összeférhetetlenségi eljárásban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság; a továbbiakban együtt: szolgálati bíróság) jár el.
+101. § A bírák fegyelmi és az ezzel összefüggő kártérítési és személyiségi jogsértés miatti ügyeiben, továbbá a bíró munkájának szakmai értékeléséből és vezetői munkájának értékeléséből eredő jogvitákban, valamint a 42. § (6)–(8) bekezdése szerinti összeférhetetlenségi eljárásban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság; a továbbiakban együtt: szolgálati bíróság) jár el.
 
 102. § (1) A szolgálati bíróság elnökét és tagjait a Kúria, az ítélőtáblák, valamint a törvényszékek illetékességi területén működő bírák közül az OBT nevezi ki. A szolgálati bíróság elnökhelyettesét az adott szolgálati bíróság elnöke nevezi ki.
 
@@ -1056,7 +1056,7 @@ történő rendelkezésre állás.
 
 (2) Az első fokú határozat ellen a bíró és a fegyelmi eljárás kezdeményezője a határozat kézbesítésétől számított 15 napon belül fellebbezést jelenthet be. A fellebbezést az elsőfokú szolgálati bíróság tanácsához kell benyújtani.
 
-(3) A másodfokú szolgálati bíróság az első fokú fegyelmi határozatot – annak kártérítésről, valamint a költségek megtérítéséről rendelkező részére is kiterjedően – helybenhagyja, megváltoztatja vagy az eljárást megszünteti, illetve a másodfokú eljárásban nem orvosolható lényeges eljárási szabálysértés esetén a határozatot hatályon kívül helyezi, és az elsőfokú szolgálati bíróságot új eljárásra és új határozat hozatalára utasítja.
+(3) A másodfokú szolgálati bíróság az elsőfokú fegyelmi határozatot – annak kártérítésről, személyiségi jogsértés miatti jogkövetkezményekről, valamint a költségek megtérítéséről rendelkező részére is kiterjedően – helybenhagyja, megváltoztatja vagy az eljárást megszünteti, illetve a másodfokú eljárásban nem orvosolható lényeges eljárási szabálysértés esetén a határozatot hatályon kívül helyezi, és az elsőfokú szolgálati bíróságot új eljárásra és új határozat hozatalára utasítja.
 
 (4) A másodfokú eljárásra és határozatra egyebekben az elsőfokú eljárás szabályait kell megfelelően alkalmazni.
 
@@ -1097,13 +1097,13 @@ történő rendelkezésre állás.
 
 ### IX. Fejezet — A KÁRTÉRÍTÉSI FELELŐSSÉG
 
-#### 53. A bíró kártérítési felelőssége
+#### 53. A bíró kártérítési felelőssége és sérelemdíj megfizetésére kötelezhetősége
 
-131. § (1) A bíró a szolgálati viszonyából eredő kötelezettségének szándékos vagy súlyosan gondatlan megszegésével a munkáltatónak okozott kárért anyagi felelősséggel tartozik.
+131. § (1) A bíró a szolgálati viszonyából eredő kötelezettségének szándékos vagy súlyosan gondatlan megszegésével a munkáltatónak okozott kárért anyagi felelősséggel tartozik, továbbá tőle a munkáltató az okozott személyiségi jogsértés miatt sérelemdíjat követelhet.
 
-(2) A bíró felelősségét, a kár bekövetkeztét és mértékét a munkáltatónak kell bizonyítania.
+(2) A bíró felelősségét, a kár bekövetkeztét és mértékét, valamint a személyiségi jogsértést a munkáltatónak kell bizonyítania.
 
-132. § A bíró háromhavi illetménye erejéig felel, ha a kárt súlyosan gondatlan magatartásával okozta. Szándékos károkozás esetén a bíró a teljes kárösszegért felel.
+132. § A bíró háromhavi illetménye erejéig felel, illetve kötelezhető sérelemdíj megfizetésére, ha a kárt, illetve a személyiségi jogsértést súlyosan gondatlan magatartásával okozta. Szándékos károkozás, illetve személyiségi jogsértés esetén a bíró a teljes kárösszegért felel, illetve a sérelemdíj megfizetésére – illetménye összegétől függetlenül – köteles.
 
 133. § (1) A bíró a vétkességére tekintet nélkül a teljes kárt köteles megtéríteni a visszaszolgáltatási vagy elszámolási kötelezettséggel, jegyzék vagy elismervény alapján átvett olyan dolgokban bekövetkezett hiány esetén, amelyeket állandóan őrizetében tart, kizárólagosan használ vagy kezel.
 
@@ -1113,25 +1113,27 @@ történő rendelkezésre állás.
 
 (4) A megőrzésre átadott dolog megrongálódásából eredő kár esetén a bíró a vétkességi felelősségre vonatkozó szabályok szerint felel azzal az eltéréssel, hogy a vétlenség bizonyítása őt terheli.
 
-134. § (1) Ha a bíró a kárt fegyelmi vétség elkövetésével összefüggésben okozta, a kártérítési felelősséget a fegyelmi eljárás keretében kell elbírálni.
+134. § (1) Ha a bíró a kárt, illetve a személyiségi jogsértést fegyelmi vétség elkövetésével összefüggésben okozta, a kártérítési felelősséget, illetve a személyiségi jogsértés miatt érvényesíthető igényeket a fegyelmi eljárás keretében kell elbírálni.
 
-(2) Fegyelmi vétség elkövetésével össze nem függő kártérítési ügyben a bíró kártérítési felelősségét a munkáltatói jogkör gyakorlója – a kár tudomására jutásától számított 60 napon belül – indokolt határozattal bírálja el. A kártérítési eljárásra a fegyelmi eljárás szabályait kell megfelelően alkalmazni. A munkáltató határozata ellen a bíró 15 napon belül bírósághoz fordulhat.
+(2) Fegyelmi vétség elkövetésével össze nem függő kártérítési, illetve sérelemdíj megfizetése iránti ügyben a bíró kártérítési felelősségét, illetve a sérelemdíj iránti követelést a munkáltatói jogkör gyakorlója – a kár tudomására jutásától számított 60 napon belül – indokolt határozattal bírálja el. A kártérítési, illetve a sérelemdíj megfizetése iránti eljárásra a fegyelmi eljárás szabályait kell megfelelően alkalmazni. A munkáltató határozata ellen a bíró 15 napon belül bírósághoz fordulhat.
 
-#### 54. A munkáltató kártérítési felelőssége
+134/A. § Az okozott személyiségi jogsértés sérelemdíjon kívüli egyéb jogkövetkezményeire a Polgári Törvénykönyv szabályai irányadóak.
 
-135. § (1) A munkáltató a bírónak a szolgálati viszonyával összefüggésben okozott kárért vétkességére tekintet nélkül, teljes mértékben felel.
+#### 54. A munkáltató kártérítési felelőssége és sérelemdíj megfizetésére kötelezhetősége
 
-(2) Mentesül a munkáltató a felelősség alól, ha bizonyítja, hogy a kárt a működési körén kívül eső elháríthatatlan ok vagy kizárólag a károsult elháríthatatlan magatartása okozta.
+135. § (1) A munkáltató a bírónak a szolgálati viszonyával összefüggésben okozott kárért vétkességére tekintet nélkül, teljes mértékben felel, továbbá a szolgálati viszonyával összefüggésben okozott személyiségi jogsértésért sérelemdíj megfizetésére köteles.
+
+(2) Mentesül a munkáltató a felelősség alól, ha bizonyítja, hogy a kárt, illetve a személyiségi jogsértést a működési körén kívül eső elháríthatatlan ok vagy kizárólag a károsult, illetve a személyiségi jogában megsértett elháríthatatlan magatartása okozta.
 
 (3) Nem kell megtéríteni a kárnak azt a részét, amelyet a károsult vétkes magatartása idézett elő.
 
-(4) A bírónak kell bizonyítania, hogy a károkozás a szolgálati viszonyával összefüggésben következett be.
+(4) A bírónak kell bizonyítania, hogy a károkozás, illetve a személyiségi jogsértés a szolgálati viszonyával összefüggésben következett be.
 
 136. § (1) A munkáltatót a 135. § szerinti felelősség terheli a bírónak a munkahelyére bevitt tárgyaiban, dolgaiban bekövetkezett károkért.
 
 (2) A munkáltató előírhatja a munkahelyre bevitt dolgok meghatározott helyen való elhelyezését, illetve a bevitel bejelentését. A munkába járáshoz, illetve a munkavégzéshez nem szükséges dolgok bevitelét a munkáltató megtilthatja, korlátozhatja vagy feltételhez kötheti. Ha a bíró az előírt szabályokat megszegi, a bekövetkezett kárért a munkáltató csak szándékos károkozása esetén felel.
 
-137. § (1) A munkáltató a 135–136. §-on alapuló felelőssége alapján a bírónak az elmaradt jövedelmét, dologi kárát, a nem vagyoni kárát, illetve a sérelemmel és ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
+137. § (1) A munkáltató a 135. §-on alapuló felelőssége, illetve sérelemdíj-fizetési kötelezettsége alapján és a 136. §-on alapuló felelőssége alapján a bírónak az elmaradt jövedelmét, a vagyonában beállott értékcsökkenést, az őt ért vagyoni hátrányok kiküszöböléséhez szükséges költségeit köteles megtéríteni, illetve sérelemdíjat köteles fizetni.
 
 (2) A bíró szolgálati viszonya körében az elmaradt jövedelem megállapításánál a bíró elmaradt illetményét, továbbá azon rendszeres szolgáltatások pénzbeli értékét kell figyelembe venni, amelyekre a szolgálati viszonya alapján jogosult, feltéve, ha azokat a károkozást megelőzően rendszeresen igénybe vette.
 
@@ -1145,15 +1147,15 @@ történő rendelkezésre állás.
 
 (2) A dologi kár összegét az avulás figyelembevételével kell kiszámítani. Ha a dologban okozott kár értékcsökkenés nélkül kijavítható, kárként a javítási költséget kell figyelembe venni.
 
-139. § (1) A munkáltató köteles megtéríteni a bíró hozzátartozójának a károkozással összefüggésben felmerült kárát és indokolt költségeit is.
+139. § (1) A munkáltató köteles megtéríteni a bíró hozzátartozójának a károkozással összefüggésben felmerült kárát és indokolt költségeit is. A hozzátartozó az okozott személyiségi jogsértésért sérelemdíjat is igényelhet.
 
-(2) Ha a károkozással összefüggésben a bíró meghalt, eltartott hozzátartozója az (1) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségleteinek – a tényleges, illetve az elvárhatóan elérhető jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
+(2) Ha a károkozással összefüggésben a bíró meghalt, eltartott hozzátartozója kártérítésként olyan összegű tartást pótló járadékot is igényelhet, amely szükségleteinek – a tényleges, illetve az elvárhatóan elérhető jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
 
 140. § A kártérítés kiszámításánál a kár összegéből le kell vonni
 
 - a) az elmaradt illetményre eső nyugdíjjárulékot, egészségbiztosítási járulékot, munkavállalói járulékot,
 - b) az állami egészség- és társadalombiztosítás keretében járó ellátások ellenértékét,
-- c) azt az összeget, amelyet a bíró a munkaereje hasznosításával megkeresett, ide nem értve a bíró rokkantsága esetén rendkívüli erőmegfeszítéssel elért jövedelmet,
+- c) azt az összeget, amelyet a bíró a munkaereje hasznosításával megkeresett, ide nem értve azt a jövedelmet, amelyet a bíró munkaképességének csökkenése ellenére rendkívüli munkateljesítménnyel ért el,
 - d) azt az összeget, amelyhez a bíró a megrongálódott dolog hasznosításával hozzájutott,
 - e) azt az összeget, amelyet a jogosult a károkozás folytán megtakarított.
 
@@ -1163,9 +1165,9 @@ történő rendelkezésre állás.
 
 (3) Ha a kártérítés megállapítása után a bíró lényeges körülményeiben változás következik be, mind a károsult, mind a munkáltató a megállapított kártérítés módosítását kérheti.
 
-142. § (1) A bíró a kártérítési igényét a munkáltatónál írásban érvényesíti. A munkáltató az igény elismeréséről vagy elutasításáról 60 napon belül indokolt írásbeli választ ad. Amennyiben a munkáltató a kártérítési felelősségét elismeri, haladéktalanul intézkedik a kár megtérítése iránt.
+142. § (1) A bíró a kártérítési, illetve a sérelemdíj megtérítése iránti igényét a munkáltatónál írásban érvényesíti. A munkáltató az igény elismeréséről vagy elutasításáról 60 napon belül indokolt írásbeli választ ad. Ha a munkáltató a kártérítési felelősségét, illetve a sérelemdíj megfizetése iránti igényt elismeri, haladéktalanul intézkedik a kár megtérítése, illetve a sérelemdíj megfizetése iránt.
 
-(2) Ha a munkáltató a kártérítési felelősségét nem vagy csak részben ismerte el, továbbá, ha a megtérített összeg a károsult szerint a sérelem teljes orvoslására nem elegendő, a károsult az igényét bíróság előtt érvényesítheti.
+(2) Ha a munkáltató a kártérítési felelősségét nem vagy csak részben ismerte el, továbbá, ha a megtérített összeg a károsult szerint a sérelem teljes orvoslására nem elegendő, a károsult az igényét bíróság előtt érvényesítheti. A személyiségi jogában megsértett az igényét bíróság előtt érvényesítheti, ha a munkáltató a sérelemdíj megfizetése iránti igényt nem ismerte el, továbbá ha a megfizetett sérelemdíj összegével nem ért egyet.
 
 143. § (1) Az elévülés szempontjából önállónak kell tekinteni
 
@@ -1191,6 +1193,8 @@ kezdődik.
 
 (2) A munkáltató a károsultat 15 napon belül értesíti, ha a kártérítés mértékének módosítására alapul szolgáló bérfejlesztést hajtott végre.
 
+144/A. § Az okozott személyiségi jogsértés sérelemdíjon kívüli egyéb jogkövetkezményeire a Polgári Törvénykönyv szabályai irányadóak.
+
 ### X. Fejezet — A BÍRÓI SZOLGÁLATI VISZONYBÓL EREDŐ JOGVITA
 
 #### 55. A szolgálati jogvita és az eljáró szervek
@@ -1205,7 +1209,7 @@ kezdődik.
 
 (5) A szolgálati jogvita alapján nem helyezhető vissza bírói tisztségbe az, aki a határozat meghozatalakor a bírói kinevezési feltételeknek nem felel meg.
 
-(6) A (3) bekezdésben foglalt esetben meg kell téríteni a bíró elmaradt illetményét és egyéb járandóságait, ideértve a határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótlékot is, meg kell téríteni továbbá – a munkáltató kártérítési felelősségére vonatkozó szabályok szerint – a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek (egyéb járandóságnak) azt a részét, amely máshonnan megtérült. A határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótléknak a visszahelyezésig elmaradt részét egy összegben kell megtéríteni a visszahelyezéskor; a határozott idejű kinevezésből a visszahelyezést követő időszakra járó vezetői pótlék havonta az illetménybe épül be akként, hogy az egyébként esetlegesen járó vezetői pótlék összege beleszámít.
+(6) A (3) bekezdésben foglalt esetben meg kell téríteni a bíró elmaradt illetményét és egyéb járandóságait, ideértve a határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótlékot is, meg kell téríteni továbbá – a munkáltató kártérítési felelősségére vonatkozó szabályok szerint – a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. A bíró sérelemdíjat is igényelhet a szolgálati viszony jogellenes megszüntetésével okozott személyiségi jogsértésért. Nem kell megtéríteni az illetménynek (egyéb járandóságnak) azt a részét, amely máshonnan megtérült. A határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótléknak a visszahelyezésig elmaradt részét egy összegben kell megtéríteni a visszahelyezéskor; a határozott idejű kinevezésből a visszahelyezést követő időszakra járó vezetői pótlék havonta az illetménybe épül be akként, hogy az egyébként esetlegesen járó vezetői pótlék összege beleszámít.
 
 (7) Ha a bírói szolgálati viszony (3) bekezdésben foglalt módon történő jogellenes megszüntetése esetén a bíró a bírói tisztségbe való visszahelyezését nem kéri, vagy a bíróság az (5) bekezdésben meghatározott okból mellőzi a bírói tisztségbe való visszahelyezést, a bíróság a (6) bekezdésben foglaltakon felül – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével, valamint a máshonnan megtérülő károk figyelembevételével – legalább két-, legfeljebb tizenkét havi illetményének megfelelő összegű átalány-kártérítést állapít meg a bíró számára.
 
@@ -1219,7 +1223,7 @@ kezdődik.
 
 147. § (1) A bírákról a (2) bekezdésben foglalt tartalommal személyi nyilvántartást kell vezetni.
 
-(2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt, a bíró önéletrajzát, fényképét, az esküokmányt, a személyi adatlapot, a bírói kinevezéséről, beosztásáról, elektronikus aláírási jogosultságáról és a vezetői kinevezéséről szóló okiratokat, a bíró értékeléséről és vezetői értékeléséről szóló iratot, a szervezett kötelező képzésekre és a fakultatív képzésekre vonatkozó adatokat, valamint az azokon való részvételt igazoló okiratokat, az elismerésekről és kitüntetésekről szóló okiratokat, valamint a hatályos fegyelmi büntetésről és a kártérítésről szóló határozatot tartalmazza. A személyi adatlap tartalmát a törvény 1. melléklete határozza meg. A mellékletben szereplő adatokon kívül – e törvény eltérő rendelkezése hiányában – adatszerzés nem végezhető, ilyen adatot nem lehet nyilvántartani. A bíró a nyilvántartott adatokban bekövetkezett változásokat köteles haladéktalanul bejelenteni.
+(2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt, a bíró önéletrajzát, fényképét, az esküokmányt, a személyi adatlapot, a bírói kinevezéséről, beosztásáról, elektronikus aláírási jogosultságáról és a vezetői kinevezéséről szóló okiratokat, a bíró értékeléséről és vezetői értékeléséről szóló iratot, a szervezett kötelező képzésekre és a fakultatív képzésekre vonatkozó adatokat, valamint az azokon való részvételt igazoló okiratokat, az elismerésekről és kitüntetésekről szóló okiratokat, valamint a hatályos fegyelmi büntetésről és a kártérítésről, illetve sérelemdíjról szóló határozatot tartalmazza. A személyi adatlap tartalmát a törvény 1. melléklete határozza meg. A mellékletben szereplő adatokon kívül – e törvény eltérő rendelkezése hiányában – adatszerzés nem végezhető, ilyen adatot nem lehet nyilvántartani. A bíró a nyilvántartott adatokban bekövetkezett változásokat köteles haladéktalanul bejelenteni.
 
 (3) A bírák központi személyi nyilvántartásának feladatait az OBH látja el. A minisztériumba beosztott bíró adatait a minisztériumban kell nyilvántartani. A bíró személyi adatlapját a törvényszéken, az ítélőtáblán vagy a Kúrián is nyilván kell tartani.
 
@@ -1461,7 +1465,7 @@ jogosult.
 
 (2) A jubileumi jutalom 25 év szolgálati idő után a bíró 2 havi, 30 év után a 3 havi, 35 év után négyhavi, 40 év után az 5 havi illetménye.
 
-(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, a kormánytisztviselői jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, a fegyveres szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban [2006. évi X. törvény 56. § (2) bekezdés] stb.) eltöltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, a kormánytisztviselői jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, a fegyveres szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
 
 (4) A (3) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
 
@@ -1713,7 +1717,7 @@ végzi.
 
 #### 77. Az ülnök jogállása és választása
 
-212. § (1) Ülnöknek az a büntetlen előéletű, cselekvőképes magyar állampolgár választható meg, aki a 30. évét betöltötte és nem áll közügyektől eltiltás hatálya alatt.
+212. § (1) Ülnöknek az a 30. évét betöltött magyar állampolgár választható meg, aki nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt, továbbá büntetlen előéletű és nem áll közügyektől eltiltás hatálya alatt sem.
 
 (2) A katonai büntetőeljárásban eljáró katonai tanácsok ülnökeinek (a továbbiakban: katonai ülnök) megválasztásához az (1) bekezdésben meghatározott feltételeken túl az is szükséges, hogy a jelölt a Magyar Honvédségnél, illetve rendvédelmi szervnél hivatásos szolgálati viszonyban álljon.
 
@@ -1801,7 +1805,7 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 
 #### 79. Az ülnök javadalmazása
 
-221. § (1) A munkaviszonyban, kormánytisztviselői, közszolgálati vagy közalkalmazotti jogviszonyban, a fegyveres szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban [2006. évi X. törvény 56. § (2) bekezdés] stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
+221. § (1) A munkaviszonyban, kormánytisztviselői, közszolgálati vagy közalkalmazotti jogviszonyban, a fegyveres szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
 
 (2) Ha valamely jogszabályban biztosított juttatáshoz való jogosultság, illetve annak mértéke meghatározott munkateljesítménytől vagy a munkában eltöltött napok számától függ, az ülnöki működés időtartamát munkában töltött időként kell számításba venni.
 
@@ -1815,7 +1819,7 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
+222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 

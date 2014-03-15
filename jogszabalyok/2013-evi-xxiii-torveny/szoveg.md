@@ -67,7 +67,7 @@ figyelembevételével kell számítani.
 
 (2) Ha az Európai Unió más tagállamának készletezésre kötelezettje Magyarország területén biztonsági kőolajkészletet tárol, e készlet felett mindenkor e készletezésre kötelezett jogosult rendelkezni.
 
-(3) Ha valamely belföldi természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság (a továbbiakban: gazdasági szereplő) az Európai Unió más tagállamának készletezésre kötelezettje részére belföldön biztonsági vagy különleges kőolajkészletet kíván tárolni, a szerződés létrejöttéhez a miniszter jóváhagyása szükséges.
+(3) Ha valamely belföldi természetes személy, jogi személy (a továbbiakban: gazdasági szereplő) az Európai Unió más tagállamának készletezésre kötelezettje részére belföldön biztonsági vagy különleges kőolajkészletet kíván tárolni, a szerződés létrejöttéhez a miniszter jóváhagyása szükséges.
 
 (4) A Szövetség honlapján kőolajtermék-kategóriánként tájékoztatást tesz közzé a szabad tárolói kapacitásokról és a kapacitások lekötésének feltételeiről.
 
@@ -235,7 +235,7 @@ figyelembevételével kell számítani.
 
 (4) A közgyűlés csak a felügyelő bizottság írásbeli jelentésének birtokában határozhat a (3) bekezdés a) és c) pontjában foglalt kérdésekben.
 
-(5) A felügyelő bizottság a közgyűlés felügyelete alá tartozik és tevékenységéről köteles a közgyűlésnek beszámolni. A felügyelő bizottság tagjai a közgyűlésen tanácskozási joggal vesznek részt. A felügyelő bizottság tagjai a közgyűlés által megállapított tiszteletdíjban részesülhetnek. A felügyelő bizottság tagjainak összeférhetetlenségére a gazdasági társaságokról szóló 2006. évi IV. törvény 23. § (1) és (2) bekezdésében, valamint 25. §-ában foglalt rendelkezéseket kell alkalmazni.
+(5) A felügyelő bizottság a közgyűlés felügyelete alá tartozik és tevékenységéről köteles a közgyűlésnek beszámolni. A felügyelő bizottság tagjai a közgyűlésen tanácskozási joggal vesznek részt. A felügyelő bizottság tagjai a közgyűlés által megállapított tiszteletdíjban részesülhetnek. A felügyelő bizottság tagjainak összeférhetetlenségére a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:22. § (4)–(5) bekezdésében, 3:115. §-ában, valamint 3:26. § (2) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 (6) A felügyelő bizottság tagjai személyesen kötelesek eljárni. A Szövetség vezetőitől felvilágosítást, jelentést kérhetnek, a Szövetség könyveit és iratait megvizsgálhatják.
 
@@ -343,7 +343,7 @@ figyelembevételével kell számítani.
 
 (5) A tag az (1) bekezdés szerinti tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
-(6) A Szövetség a tagi hozzájárulásból eredő költségvetési bevételének biztosítása érdekében vagyoni biztosíték nyújtását írhatja elő. A vagyoni biztosíték mértéke új belépő tagnál a tervezett forgalom, már működő tag esetén a tagsági viszonyt eredményező tevékenység után befizetett tagi hozzájárulás háromhavi átlagának figyelembevételével, legalább egy- és legfeljebb háromhavi, a befizetendő tagi hozzájárulás fedezetét biztosító összegben állapítható meg. A vagyoni biztosíték óvadék jogcímén készpénz vagy belföldi székhelyű bank által vállalt bankgarancia lehet. A vagyoni biztosíték nyújtásának részletes szabályait a Szövetség az alapszabályban határozza meg.
+(6) A Szövetség a tagi hozzájárulásból eredő költségvetési bevételének biztosítása érdekében vagyoni biztosíték nyújtását írhatja elő. A vagyoni biztosíték mértéke új belépő tagnál a tervezett forgalom, már működő tag esetén a tagsági viszonyt eredményező tevékenység után befizetett tagi hozzájárulás háromhavi átlagának figyelembevételével, legalább egy- és legfeljebb háromhavi, a befizetendő tagi hozzájárulás fedezetét biztosító összegben állapítható meg. A vagyoni biztosíték óvadék jogcímén készpénz vagy belföldi székhelyű bank által vállalt garancia lehet. A vagyoni biztosíték nyújtásának részletes szabályait a Szövetség az alapszabályban határozza meg.
 
 41. § (1) Nem kell tagi hozzájárulást fizetni vagy a befizetett tagi hozzájárulás a 42. § (3) bekezdése szerint visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek azon mennyisége után, amelyet a tag
 

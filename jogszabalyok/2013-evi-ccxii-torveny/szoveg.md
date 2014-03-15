@@ -6,7 +6,7 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 1. § E törvény a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) szerinti mező- és erdőgazdasági hasznosítású földek (a továbbiakban: föld) és tanyák forgalmával kapcsolatos jogügyletekre, jogviszonyokra, eljárásokra, az azokban résztvevő természetes személyekre és gazdálkodó szervezetekre, valamint az eljáró hatóságokra és a helyi földbizottságra vonatkozó rendelkezéseket állapítja meg.
 
-#### 2. §
+2. § Gazdálkodó szervezet alatt a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szerinti gazdálkodó szervezetet kell érteni.
 
 2/A. § (1) A föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési feltételek és korlátozások hatósági ellenőrzésével összefüggésben a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy (a továbbiakban: személyi azonosítóval nem rendelkező személy) számára, e személynek az ingatlan-nyilvántartásba, a földhasználati nyilvántartásba, valamint a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba vétele során – a földhivatali információs rendszer keretében – belső egyedi azonosítót kell megállapítani.
 
@@ -100,7 +100,19 @@ pontjában meghatározott feltételeknek, függetlenül attól, hogy az a)–e) 
 
 ### VI. Fejezet — A SZOMSZÉDJOGOK ÉS A TULAJDONJOG KORLÁTAINAK KÜLÖNÖS SZABÁLYAI
 
-#### 22–26. §
+22. § A földhasználó a földet – a jogszabályban foglalt gazdálkodási követelmények és a földhasználati szerződésben meghatározottak mellett – a Polgári Törvénykönyvnek (a továbbiakban: Ptk.), valamint a szomszédjogok és a tulajdonjog korlátainak különös szabályairól szóló törvénynek, továbbá e törvénynek a szomszédjogi előírásai szerint köteles használni.
+
+23. § (1) A szerződő felek eltérő rendelkezése hiányában a földhasználó a kisebb haszonvételek gyakorlását – különösen gomba, vadgyümölcs, virág, gyógynövény, nád, sás gyűjtését, a réti halászatot, valamint az útpadka, az árokpart, a töltés menti fű kaszálását – a használatba adó engedélye nélkül harmadik személy (haszonvételi joggyakorló) részére átengedheti. A haszonvételek gyakorlásának átengedéséről a földhasználó az átengedést követő 5 napon belül köteles a használatba adót tájékoztatni. A földhasználó e jogok gyakorlásának átengedésével a földön megtelepedő élőhelyi közösségeket nem veszélyeztetheti.
+
+(2) A használatba adó a földhasználó felé tett egyoldalú jognyilatkozattal a haszonvételi joggyakorló helyébe léphet.
+
+24. § A szántóföldi és kertészeti növényfajok vetőmagjának előállítása esetén a vetőmag előállítója – a jogszabályban előírt mértékű védőtávolságok betartása érdekében – köteles a vetésterveit egyeztetni az előírt védőtávolságon belül fekvő föld használójával (e § alkalmazásában a továbbiakban együtt: szomszédos földhasználó). A vetés megkezdése előtt a vetőmag előállítója megállapodást köthet a szomszédos földhasználóval a földhasználat módjáról, továbbá arról, hogy a szomszédos földhasználó milyen feltételekkel köteles a védőtávolságon belül a vetőmag-szaporítást veszélyeztető növényfajok és növényfajták termesztésétől tartózkodni.
+
+25. § Ha a szolgalommal terhelt föld közös tulajdonban áll, a szolgalmi jog alapításához a használati megosztás szerint érintett tulajdonostársak tulajdoni hányada alapján számított többségének írásbeli döntése szükséges.
+
+26. § (1) A földhasználót a más használatában levő ingatlanon öntözési szolgalom illeti meg, ha mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében a víz odajuttatását, szétosztását, illetve annak elvezetését másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel lehetne biztosítani.
+
+(2) Az öntözési szolgalom úgy gyakorolható, hogy az ne akadályozza, aránytalanul ne nehezítse a szolgalmi joggal terhelt föld művelési ágának megfelelő használatát, hasznosítását.
 
 ### VII. Fejezet — A HATÓSÁGI JÓVÁHAGYÁSHOZ KÖTÖTT TULAJDONJOG MEGSZERZÉSÉRE VONATKOZÓ SZABÁLYOK
 
@@ -888,7 +900,7 @@ rendeletben állapítsa meg.
 - d)
 - e)
 - f)
-- g)
+- g) 11. § (2) és (3) bekezdése;
 - h)
 - i)
 - j)

@@ -333,9 +333,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A felek jogai és kötelezettségei
 
-28. § (1) A szabadalmas a hasznosítási szerződés egész tartama alatt szavatol azért, hogy harmadik személynek nincs a szabadalomra vonatkozó olyan joga, amely a hasznosítást akadályozza vagy korlátozza. Erre a szavatosságra az eladónak a tulajdonjog átruházásáért való szavatosságára irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy a hasznosító elállás helyett a szerződést azonnali hatállyal felmondhatja.
+28. § (1) A szabadalmas a hasznosítási szerződés egész tartama alatt köteles helytállni azért, hogy harmadik személynek nincs a szabadalomra vonatkozó olyan joga, amely a hasznosítást akadályozza vagy korlátozza. Erre a helytállási kötelezettségre a Polgári Törvénykönyvnek a jogszavatosságra irányadó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy a hasznosító elállás helyett a szerződést azonnali hatállyal felmondhatja.
 
-(2) A szabadalmas szavatol azért is, hogy a találmány műszakilag megvalósítható. Erre a szavatosságra a hibás teljesítés jogkövetkezményeire irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy a hasznosító elállás helyett a szerződést azonnali hatállyal felmondhatja.
+(2) A szabadalmas köteles helytállni azért is, hogy a találmány műszakilag megvalósítható. Erre a helytállási kötelezettségre a Polgári Törvénykönyvnek a kellékszavatosságra irányadó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy kellékszavatossági jogként a hasznosító a szerződés azonnali hatállyal való felmondására jogosult. A hasznosító a találmány műszaki megvalósíthatatlanságából eredő kárának megtérítését is követelheti a szerződésszegésért való felelősség szabályai szerint.
 
 (3) A hasznosítási szerződés minden időbeli és területi korlátozás nélkül minden igénypontra, a hasznosítás minden módjára és mértékére kiterjed.
 
@@ -794,7 +794,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 - i) a szabadalmat megadó határozat keltét,
 - j) a fizetett fenntartási díj összegét és a fizetés időpontját,
 - k) a szabadalmi oltalom megszűnését, annak jogcímét és időpontját, valamint a szabadalom korlátozását,
-- l) a hasznosítási és a kényszerengedélyeket.
+- l) a hasznosítási és a kényszerengedélyeket,
+- m) azt, ha a szabadalmi igény vagy a szabadalmi oltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
 (3) A szabadalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
@@ -813,6 +814,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 (2b) A (2a) bekezdést alkalmazni kell a szabadalmi bejelentés közzététele előtt is, azzal az eltéréssel, hogy a lajstrombejegyzés módosítása helyett a Szellemi Tulajdon Nemzeti Hivatala a módosítást a szabadalmi bejelentés iratain vezeti át.
 
 (3) Nem teljesíthető a kérelem olyan okirat alapján, amely alaki hiány miatt érvénytelen, amelynél a jogszabályban előírt hatósági jóváhagyás hiányzik, illetve ha az okirat tartalmából kitűnően az abban foglalt jognyilatkozat érvénytelen.
+
+(3a) Nem teljesíthető a jogutódlás tudomásulvétele iránti kérelem abban az esetben, ha a szabadalmi igényt vagy a szabadalmi oltalomból eredő jogokat olyan bizalmi vagyonkezelési szerződés alapján ruházták át, amelyet nem bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel kötöttek, és a kérelemhez nem mellékelték a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítványt is.
 
 (4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem felel meg a vizsgált követelményeknek. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.
 

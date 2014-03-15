@@ -247,7 +247,7 @@ határidőt határozhat meg.
 - f) a közös bűnfelderítő-csoport kihelyezett tagjának kötelezettségeit és jogosultságait;
 - g) a működés feltételeit;
 - h) a működés költségeinek viselését;
-- i) a közös bűnfelderítő-csoport kihelyezett tagja által működési körében okozott károkért való felelősségének szabályairól szóló tájékoztatást.
+- i) a közös bűnfelderítő-csoport kihelyezett tagja által működési körében harmadik személynek okozott károkért való felelősség, valamint a személyiségi jogsértésért járó sérelemdíj szabályairól szóló tájékoztatást.
 
 22. § (1) A Magyarországon működő közös bűnfelderítő-csoportot a magyar bűnüldöző szerv kijelölt tagja vezeti.
 
@@ -283,7 +283,7 @@ határidőt határozhat meg.
 - b) az alkalmazás feltételeit,
 - c) a fedett nyomozó jogait és kötelezettségeit,
 - d) a fedett nyomozó lelepleződése esetén alkalmazandó intézkedést,
-- e) a fedett nyomozó által működési körében okozott károkért való felelősségének szabályairól szóló tájékoztatást.
+- e) a fedett nyomozó által működési körében harmadik személynek okozott károkért való felelősség, valamint a személyiségi jogsértésért járó sérelemdíj szabályairól szóló tájékoztatást.
 
 ### Határon átnyúló megfigyelés
 
@@ -434,14 +434,14 @@ határidőt határozhat meg.
 - c) a segítségnyújtás időtartamát és a meghosszabbítás feltételeit,
 - d) a segítségnyújtás feltételeit,
 - e) a segítségnyújtás költségeinek viselését,
-- f) az intervenciós egység tagja által tevékenysége körében okozott károkért való felelősség szabályait,
+- f) az intervenciós egység tagja által tevékenysége körében harmadik személynek okozott károkért való felelősség, valamint a személyiségi jogsértésért járó sérelemdíj szabályait,
 - g) a 8. § a)–k) pontjában meghatározott együttműködés esetén az egyes együttműködési formákra szóló megállapodás e törvényben meghatározott tartalmi elemeit.
 
 42/B. § A magyar intervenciós egység tagja jogosult arra, hogy az érintett tagállam területén támogatói minőségben járjon el, és saját hatáskörében eljárva – az érintett tagállam jogával összhangban – megtegye a kért segítség megadásához szükséges intézkedést, ha tevékenységét az érintett tagállam felelőssége, felügyelete és irányítása mellett végzi.
 
 42/C. § (1) A rendőrség a válsághelyzet megoldása érdekében a NEBEK-en keresztül kérheti az Európai Unió más tagállama intervenciós egységének – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – segítségét.
 
-(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során Magyarország területén okozott kárért a magyar jog szerint felel. Ha a kárt a beavatkozó személy súlyos gondatlanságból vagy szándékos kötelességszegéssel okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
+(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során Magyarország területén harmadik személynek okozott kárért, illetve személyiségi jogsértésért a magyar jog szerint felel, áll helyt. Ha a kárt, illetve a személyiségi jogsértést a beavatkozó személy szándékos kötelességszegéssel okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
 
 42/D. § A 42/A. § (5) bekezdés szerinti megállapodás eltérő rendelkezése hiányában az érintett tagállam viseli a magyar intervenciós egység alkalmazásával kapcsolatos valamennyi költséget, beleértve a szállítási és szállásköltségeket.
 

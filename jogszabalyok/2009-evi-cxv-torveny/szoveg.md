@@ -262,15 +262,15 @@ kell megtenni.
 
 (5) Ahol az egyéni cégre alkalmazandó más jogszabály legfőbb szervet említ, azon az egyéni cég tagját kell érteni.
 
-(6) Az egyéni cégre és tagjára az e törvényben nem szabályozott kérdésekben a gazdasági társaságról szóló törvénynek a gazdasági társaságok közös szabályairól szóló rendelkezéseit, valamint a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezéseit kell megfelelően alkalmazni.
+(6) Az egyéni cégre és tagjára az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyv (a továbbiakban: Ptk.) jogi személyre vonatkozó általános szabályait és a gazdasági társaságok közös szabályait kell megfelelően alkalmazni.
 
-(7) Nem alapíthat egyéni céget, továbbá nem lehet egyéni cég vezető tisztségviselője az a személy, akinek – mint a jogutód nélkül megszűnt gazdálkodó szervezet vezető tisztségviselőjének, kizárólagos vagy többségi befolyást biztosító részesedéssel rendelkező tulajdonosának – felelősségét a jogutód nélküli megszüntetést eredményező eljárás során ki nem elégített követelésekért a bíróság a csődeljárásról és a felszámolási eljárásról szóló törvény vagy a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény alapján indított eljárásban jogerősen megállapította, és a jogerős bírósági határozat szerinti helytállási kötelezettség alapján a fizetési kötelezettségeit nem teljesítette. A tilalom hatálya a vele szemben lefolytatott végrehajtási eljárás időtartama és az annak eredménytelenségétől számított öt év.
+(7)
 
 ### Az egyéni cég alapítása
 
 21. § (1) Az egyéni cég alapításához közjegyző által készített közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt alapító okiratra van szükség, amelyet a tagnak (alapítónak) alá kell írnia. Az alapító okirat aláírásának legkorábbi napja az egyéni vállalkozói nyilvántartásba vételt követő nap.
 
-(2) Az alapító okirat a Ctv. mellékletét képező szerződésminta megfelelő kitöltésével is elkészíthető. Ebben az esetben az alapító okirat tartalmát kizárólag a kitöltött szerződésmintában foglalt rendelkezések alkothatják. A szerződésmintával készült alapító okiratra az (1) bekezdést alkalmazni kell.
+(2) Az alapító okirat szerződésminta megfelelő kitöltésével is elkészíthető. Ebben az esetben az alapító okirat tartalmát kizárólag a kitöltött szerződésmintában foglalt rendelkezések alkothatják. A szerződésmintával készült alapító okiratra az (1) bekezdést alkalmazni kell.
 
 (3) Az alapító okirat az egyéni cég működésének és gazdálkodásának alapokmánya, tartalmát a tag e törvény, illetve más jogszabályok keretei között szabadon állapíthatja meg, e törvény rendelkezéseitől azonban csak akkor térhet el, ha ezt a törvény megengedi.
 
@@ -280,7 +280,7 @@ kell megtenni.
 
 - a) az egyéni cég cégnevét és székhelyét,
 - b) az egyéni cég alapítóját családi és utóneve, anyja neve, lakóhelye és egyéni vállalkozói nyilvántartási száma feltüntetésével,
-- c) az egyéni cég azon tevékenységeit, amelyeket a cégjegyzékben szerepeltetni kíván,
+- c) az egyéni cég főtevékenységét és valamennyi tevékenységét,
 - d) az egyéni cég jegyzett tőkéjét, a tag vagyoni betétjének összegét, valamint a jegyzett tőke rendelkezésre bocsátásának módját és idejét,
 - e)
 - f) az egyéni cég működésének időtartamát, ha azt határozott időre alapítják,
@@ -337,7 +337,7 @@ kell megtenni.
 
 #### 28. §
 
-29. § Az egyéni cég tőkéjéből a tag javára – a tagsági jogviszonyra figyelemmel – kifizetést a gazdasági társaságokról szóló törvény a korlátolt felelősségű társaságokra vonatkozó szabályai szerint lehet teljesíteni.
+29. § Az egyéni cég tőkéjéből a tag javára – a tagsági jogviszonyra figyelemmel – kifizetést a Ptk.-nak a korlátolt felelősségű társaságokra vonatkozó szabályai szerint lehet teljesíteni.
 
 ### Az egyéni cég működése
 
@@ -349,7 +349,7 @@ kell megtenni.
 
 (4) A tag az egyéni cég ügyvezetését az ilyen tisztséget betöltő személytől általában elvárható gondossággal, az egyéni cég érdekeinek elsődlegessége alapján köteles ellátni.
 
-(5) Az egyéni cég fizetésképtelenségével fenyegető helyzet bekövetkeztét követően, a tag ügyvezetési feladatait a társaság hitelezői érdekeinek elsődlegessége alapján köteles ellátni.
+(5) Az egyéni cég fizetésképtelenségével fenyegető helyzet bekövetkeztét követően, a tag ügyvezetési feladatait a társaság hitelezői érdekeinek figyelembevételével köteles ellátni.
 
 (6) Ha az egyéni cég tagja az alapításkor nem felelt meg az egyéni vállalkozóra vonatkozó követelményeknek, úgy kell tekinteni, hogy a működése során nem tartja be a szervezetére és működésére vonatkozó jogszabályi rendelkezéseket.
 
@@ -377,7 +377,7 @@ számítandó.
 
 ### Az egyéni cég átalakulása és megszűnése
 
-33. § (1) Az egyéni cég a gazdasági társaságokról szóló törvény rendelkezéseinek megfelelő alkalmazásával gazdasági társasággá alakulhat át.
+33. § (1) Az egyéni cég a Ptk. rendelkezéseinek megfelelő alkalmazásával gazdasági társasággá alakulhat át.
 
 (2) Az átalakulás során az egyéni cég köteles a számvitelről szóló törvény átalakulásra vonatkozó előírásait megfelelően alkalmazni.
 
@@ -390,7 +390,7 @@ számítandó.
 - e) a cégbíróság hivatalból elrendeli törlését,
 - f) a bíróság felszámolási eljárás során megszünteti.
 
-(2) Az egyéni cégre a felszámolás, a végelszámolás és a csődeljárás szabályait alkalmazni kell.
+(2) Az egyéni cégre a felszámolás, a végelszámolás, kényszertörlés és a csődeljárás szabályait alkalmazni kell.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

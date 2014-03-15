@@ -69,6 +69,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 43. Párhuzamos import: Forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszer vagy annak a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása olyan EGT-megállapodásban részes államból, ahol a gyógyszer szintén rendelkezik forgalombahozatali engedéllyel.
 - 44. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára forgalmazott vagy a forgalmazóknál található gyógyszer visszagyűjtése;
 - 45. kivonás a forgalomból: minden olyan intézkedés, amelynek célja a gyógyszer forgalmazásának megakadályozása az értékesítési láncban.
+- 46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 ### A törvény hatálya
 
@@ -88,7 +89,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) A klinikai vizsgálat engedélyezési eljárásának ügyintézési határideje hatvan nap, ezen belül az etikai vélemény elkészítésének határideje negyvenkét nap. Génterápiára és szomatikus sejtterápiára szolgáló, valamint genetikailag módosított szervezeteket tartalmazó vizsgálati készítmények esetén a klinikai vizsgálat engedélyezési eljárásának ügyintézési határideje kilencven nap, ezen belül az etikai vélemény elkészítésének határideje legfeljebb hetvenkét nap. Xenogén sejtterápiára szolgáló vizsgálati készítmények esetén a klinikai vizsgálat engedélyezési eljárásának ügyintézési határideje tizenkét hónap, ezen belül az etikai jóváhagyás elkészítésének határideje legfeljebb tizenegy hónap.
 
-(5) A klinikai vizsgálat kezdeményezőjének, a klinikai vizsgálattal összefüggésben keletkezett károk megtérítésére – a kockázatoknak megfelelő – felelősségbiztosítási szerződést kell kötnie az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban (a továbbiakban: EGT-megállapodásban részes állam) székhellyel, illetve telephellyel rendelkező biztosítóval. A felelősségbiztosításnak megfelelő fedezetet kell nyújtania a klinikai vizsgálattal kapcsolatosan esetlegesen érvényesítendő kártérítési követelésekre.
+(5) A klinikai vizsgálat kezdeményezőjének, a klinikai vizsgálattal összefüggésben keletkezett károk megtérítésére, illetve a klinikai vizsgálattal összefüggésben megsértett személyiségi jogokért követelhető sérelemdíj megfizetésére – a kockázatoknak megfelelő – felelősségbiztosítási szerződést kell kötnie az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban (a továbbiakban: EGT-megállapodásban részes állam) székhellyel, illetve telephellyel rendelkező biztosítóval. A felelősségbiztosításnak megfelelő fedezetet kell nyújtania a klinikai vizsgálattal kapcsolatosan esetlegesen érvényesítendő kártérítési és sérelemdíj követelésekre.
 
 (6) Az engedélyezett klinikai vizsgálatok megkezdését a gyógyszerészeti államigazgatási szervnek be kell jelenteni.
 
@@ -296,7 +297,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (3) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési és nyilvántartásba vételi eljárásokért, illetve az engedély kiadásáért, módosításáért jogszabályban meghatározottak szerint igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+(4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag olyan gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
 (5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének valamint kábítószerért felelős személynek csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
@@ -536,7 +537,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
-(3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
+(3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
 
 - a) elrendelheti a jogsértő állapot megszüntetését, vagy
 - b) megtilthatja a jogsértő magatartás további folytatását, vagy
@@ -578,24 +579,27 @@ jogerős határozatát a (10) bekezdésben meghatározott tartalommal teszi köz
 - b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
 - c) a közzététel napját.
 
-### Felelősség a vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért
+### A vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért való felelősség és személyiségi jogsértésért való helytállási kötelezettség
 
-21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a kárt szenvedett személy, illetve halála esetén a hozzátartozója [a Polgári Törvénykönyv 685. § b) pont] részére
+21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Polgári Törvénykönyv szerinti hozzátartozója részére
 
 - a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a vizsgálat kezdeményezője,
 - b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a vizsgálat kezdeményezője,
 - c) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a klinikai vizsgálatot engedélyező hatóság előírásának következménye, az engedélyező hatóság,
-- d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a klinikai vizsgálatot végző intézmény
+- d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a klinikai vizsgálatot végző intézmény sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségkárosodással összefüggésben bekövetkezett vagyoni károk esetén – kártérítést fizet.
 
-kártérítést fizet.
+(2) A gyógyszer alkalmazásával összefüggésben bekövetkezett
 
-(2) A gyógyszer alkalmazásával összefüggésben bekövetkezett kárért történő felelősség kérdésében a termékfelelősségről szóló 1993. évi X. törvény (a továbbiakban: Tftv.) rendelkezéseit a (4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+- a) halál, megrokkanás, illetve egészségkárosodás esetén a sérelemdíj fizetésére kötelezés, valamint
+- b) az a) pont szerinti nem vagyoni sérelemből eredő vagyoni károkért való felelősség
 
-(3) Gyógyszer előírás szerinti alkalmazásával okozott, a Tftv. 1. §-ának (4) bekezdése szerinti kár esetében a gyártó a Tftv. 7. §-a (1) bekezdésének d) pontjára hivatkozással nem mentesülhet a termékfelelősség alól.
+kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségre vonatkozó rendelkezéseit a (4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
-(4) Ha a gyógyszer alkalmazására kórokozók, toxinok, kémiai anyagok vagy nukleáris sugárzás feltételezett vagy igazolt terjedésének megakadályozása érdekében a gyógyszerészeti államigazgatási szerv e törvény 6. §-a, illetve 7. §-ának (2) bekezdése szerinti engedélye alapján került sor, az állam a kárt szenvedett személyt, illetve halála esetén eltartott hozzátartozóját kártalanítja.
+(3) Gyógyszer előírás szerinti alkalmazásával okozott halál, megrokkanás, illetve egészségkárosodás, valamint a Polgári Törvénykönyv szerinti termékkár esetében a gyártó kimentésére a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:52. § (2) bekezdését és 6:555. §-át kell megfelelően alkalmazni.
 
-(5) E § alkalmazásában eltartott hozzátartozón azt a személyt kell érteni, akiknek a tartásáról a kárt szenvedett személy jogszabály vagy szerződés alapján gondoskodni köteles.
+(4) Ha a gyógyszer alkalmazására kórokozók, toxinok, kémiai anyagok vagy nukleáris sugárzás feltételezett vagy igazolt terjedésének megakadályozása érdekében a gyógyszerészeti államigazgatási szerv a 6. §, illetve a 7. § (2) bekezdése szerinti engedélye alapján került sor, az állam a sérelmet, illetve vagyoni kárt szenvedett személyt, illetve halála esetén eltartott hozzátartozóját kártalanítja. A kártalanítás módjára és mértékére a Polgári Törvénykönyv 6:564. §-át kell megfelelően alkalmazni.
+
+(5) E § alkalmazásában eltartott hozzátartozón azt a személyt kell érteni, akiknek a tartásáról a sérelmet, illetve vagyoni kárt szenvedett személy jogszabály vagy szerződés alapján gondoskodni köteles.
 
 ### Hatóanyagokra és segédanyagokra vonatkozó külön rendelkezések
 

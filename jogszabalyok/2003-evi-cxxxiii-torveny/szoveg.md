@@ -8,15 +8,13 @@ Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntart
 
 ### A társasház
 
-1. § (1) Társasháztulajdon jön létre, ha az épületingatlanon az alapító okiratban meghatározott, műszakilag megosztott, legalább két önálló lakás vagy nem lakás céljára szolgáló helyiség, illetőleg legalább egy önálló lakás és egy nem lakás céljára szolgáló helyiség a tulajdonostársak külön tulajdonába kerül (a továbbiakban: társasház). Az épülethez tartozó földrészlet, továbbá a külön tulajdonként meg nem határozott épületrész, épületberendezés, nem lakás céljára szolgáló helyiség, illetőleg lakás – különösen: a gondnoki, a házfelügyelői lakás – a tulajdonostársak közös tulajdonába kerül.
+1. § (1)
 
 (2) Az épület tartószerkezetei, azok részei, az épület biztonságát (állékonyságát), a tulajdonostársak közös célját szolgáló épületrész, épületberendezés és vagyontárgy akkor is közös tulajdonba tartozik, ha az a külön tulajdonban álló lakáson vagy nem lakás céljára szolgáló helyiségen belül van.
 
-(3) Ha a földrészlet nem tartozik a közös tulajdonba, arra a tulajdonostársakat használati jog illeti meg.
+(3)
 
-2. § (1) A közös tulajdon tárgyát képező ingatlanrész a külön tulajdonba tartozó lakás, nem lakás céljára szolgáló helyiség alkotórészét képezi, azzal együtt minősül önálló ingatlantulajdonnak.
-
-(2) A közös tulajdonra vonatkozó, az egyes tulajdonostársakat megillető tulajdoni hányad és a lakásra, a nem lakás céljára szolgáló helyiségre vonatkozó tulajdonjog – az e törvényben meghatározott esetek kivételével – egymástól függetlenül nem ruházható át és nem terhelhető meg.
+2. §
 
 3. § (1) A társasház tulajdonostársainak közössége (a továbbiakban: közösség) az általa viselt közös név alatt az épület fenntartása és a közös tulajdonnal kapcsolatos ügyek intézése során jogokat szerezhet és kötelezettségeket vállalhat, önállóan perelhet és perelhető, gyakorolja a közös tulajdonnal kapcsolatos tulajdonosi jogokat, viseli a közös tulajdon terheit. A perbeli cselekvőképesség a közös képviselőt (az intézőbizottság elnökét) illeti meg. A társasháznak vagy a tulajdonostársaknak ezzel ellentétes rendelkezése harmadik személyekkel szemben hatálytalan.
 

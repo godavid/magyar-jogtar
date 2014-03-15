@@ -30,7 +30,7 @@ a következő törvényt alkotja:
 
 (2) A kulturális örökség elemeit tudományos módszerekkel kell felkutatni, számba venni, értékelni, az utókor számára megőrizni és hozzáférhetővé tenni.
 
-5. § (1) A kulturális örökség védelme közérdek, megvalósítása közreműködési jogosultságot és együttműködési kötelezettséget jelent az állami és önkormányzati szervek, a nemzetiségi szervezetek, az egyházi jogi személyek, a társadalmi és gazdasági szervezetek, valamint az állampolgárok számára.
+5. § (1) A kulturális örökség védelme közérdek, megvalósítása közreműködési jogosultságot és együttműködési kötelezettséget jelent az állami és önkormányzati szervek, a nemzetiségi szervezetek, az egyházi jogi személyek, a civil és gazdálkodó szervezetek, valamint az állampolgárok számára.
 
 (2) A nemzetközi együttműködésben a nemzetközi szerződésekkel összhangban érvényesíteni kell a határokon túli magyar vonatkozású kulturális örökség, és a más nemzetek hazánkban található kulturális örökségének védelmét.
 
@@ -87,6 +87,7 @@ látja el.
 - 34. Régészeti szolgáltatási tevékenység: földmunkával járó fejlesztéssel, beruházással összefüggésben végzett régészeti szakfeladat, a feltárásra jogosult szerv által a beruházóval kötött szerződés alapján vagy hatósági határozatban meghatározottak szerint nyújtott – a régészeti feltárás szakszerűségét jogszabályban meghatározott feltételeknek megfelelő szakember révén biztosító – szolgáltatás.
 - 35. Teljes felületű feltárás: régészeti lelőhely földrajzi körülhatárolását és a régészeti örökség elemei történeti összefüggéseinek kutatását szolgáló, a lelőhely állapotfelmérését, jellege és rétegsorai megállapítását célzó régészeti szolgáltatási tevékenység.
 - 36. Régészeti földmunka: régészeti lelőhelyen a régészeti feltárás megvalósítása érdekében végzett, a régészeti szolgáltatási tevékenységhez kapcsolódó földkiemelési munka, kézi és gépi földmunkák összessége.
+- 37. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 ## II. RÉSZ
 
@@ -534,9 +535,22 @@ kulturális javakat.
 
 58. § A hatóság a kiviteli engedély alapjául szolgáló, a kérelemnek helyt adó határozatot kulturális örökségvédelmi okból fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
-#### 59. §
+### Nemzeti érdekű nyilvános gyűjtemény
 
-#### 60. §
+59. § (1) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére nemzeti érdekű nyilvános gyűjteményként nyilvántartásba veszi azt a kiemelkedő tudományos vagy kulturális jelentőségű gyűjteményt vagy tárgyegyüttest, amely egyértelmű azonosításra alkalmas képi és leíró nyilvántartással rendelkezik, és legalább egy eleme védetté nyilvánított.
+
+(2) A nemzeti érdekű nyilvános gyűjtemény kutatói és látogatói hozzáférését évente legalább 24 napon, naponként legalább négy órában biztosítani kell.
+
+(3) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére, vagy ha a nemzeti érdekű nyilvános gyűjtemény már nem felel meg az (1) vagy (2) bekezdésben meghatározott feltételeknek, hivatalból törli azt nyilvántartásából.
+
+### Közérdekű kulturális érték
+
+60. § (1) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére közérdekű kulturális értékként nyilvántartásba veszi azokat a tárgyakat, amelyek
+
+- a) rendelkeznek azonosításra alkalmas nyilvántartással, és
+- b) a nyilvánosság számára – a tulajdonos (rendelkezésre jogosult) által meghatározott módon – legalább évi 12 napon, legalább naponként 4 órán keresztül hozzáférhetőek.
+
+(2) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére, vagy ha a közérdekű kulturális érték már nem felel meg az (1) bekezdésben meghatározott feltételeknek, hivatalból törli azt a nyilvántartásából.
 
 #### 61. §
 
