@@ -259,7 +259,7 @@ szabható ki.
 
 (4) A sportegyesület jogutód nélküli megszűnése esetén a szakosztály jogi személyisége is megszűnik. A jogi személy szakosztály kötelezettségeiért a sportegyesület kezesi felelősséggel tartozik.
 
-(5)
+(5) A sportegyesület alapszabálya vagy a jogvitában érintett személyek megállapodása a tagsági jogviszonyból, továbbá a sportegyesület vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a Sport Állandó Választottbíróság eljárását kötheti ki.
 
 (6) A sportegyesület bírósági feloszlatása esetén a hitelezők kielégítése után fennmaradó vagyon állami tulajdonba kerül, és azt a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetésében az utánpótlás-nevelés támogatására kell fordítani.
 
@@ -277,9 +277,9 @@ szabható ki.
 
 ### A sportszövetségek típusai
 
-19. § (1) A sportszövetségek meghatározott sporttevékenységek körében a sportversenyek szervezésére, a tagok érdekvédelmére és a részükre való szolgáltatásokra, valamint a nemzetközi kapcsolatok lebonyolítására létrehozott, jogi személyiséggel és önkormányzattal rendelkező, a Civil tv. alapján – az e törvényben foglalt eltérésekkel – működő szövetségek.
+19. § (1) A sportszövetségek meghatározott sporttevékenységek körében a sportversenyek szervezésére, a tagok érdekvédelmére és a részükre való szolgáltatásokra, valamint a nemzetközi kapcsolatok lebonyolítására létrehozott, jogi személyiséggel és önkormányzattal rendelkező, a Civil tv. és a Polgári Törvénykönyv alapján – az e törvényben foglalt eltérésekkel – különös formában működő egyesületek.
 
-(2) Az országos sportági szakszövetségre a sportszövetségekre vonatkozó rendelkezéseket az e törvényben, valamint a Polgári Törvénykönyvben meghatározott eltérésekkel kell alkalmazni.
+(2) Az országos sportági szakszövetségre a sportszövetségekre vonatkozó rendelkezéseket az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (3) A sportszövetségek típusai a (2) bekezdésben foglaltakra is figyelemmel:
 
@@ -301,9 +301,9 @@ szabható ki.
 
 ### Az országos sportági szakszövetség
 
-20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el, és törvényben megállapított különleges jogosítványokat gyakorol.
+20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el és e törvényben megállapított különleges jogosítványokat gyakorol. A szakszövetség jogi személy.
 
-(2) A szakszövetségnek kizárólag olyan sportszervezetek és sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek és sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet és a sportiskola, valamint az utánpótlás-nevelés fejlesztését végző alapítvány magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
+(2) A szakszövetség nyilvántartott tagsággal rendelkező szervezet, amelyet a sportág versenyrendszerében részt vevő sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok hozhatnak létre. A sportág versenyrendszerében részt vevő sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok tagként való felvétele a szakszövetségbe nem tagadható meg, ha azok a szakszövetség alapszabályát magukra nézve kötelezőnek fogadják el.
 
 (3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – a Civil tv. és a Polgári Törvénykönyv egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet. A szakszövetség közvetlenül is részesíthető állami támogatásban.
 
@@ -378,12 +378,12 @@ szabható ki.
 
 (5) A szakszövetség szabályzataiban köteles a környezet- és természetvédelmi, valamint a közbiztonsági követelményeket, amennyiben pedig a sporttevékenységben állatok is részt vesznek, az állatok védelméről és kiméletéről szóló 1998. évi XXVIII. törvényben foglalt előírásokat is érvényesíteni.
 
-24. § (1) A szakszövetség szervezeti felépítésére a Civil tv. előírásait a következő eltérésekkel kell alkalmazni:
+24. § (1) A szakszövetség szervezeti felépítésére a Civil tv. és a Polgári Törvénykönyv előírásait a következő eltérésekkel kell alkalmazni:
 
-- a) a szakszövetség legfelsőbb szerve a tagok képviselőiből álló közgyűlés. A szakszövetség alapszabályának rendelkezése alapján a közgyűlés hatáskörét küldöttgyűlés is gyakorolhatja. A küldöttek számát és a küldöttválasztás módját az alapszabályban kell megállapítani,
-- b) amennyiben ezt az alapszabály lehetővé teszi, egy tagszervezet több képviselőt, illetve küldöttet is küldhet a közgyűlésre, illetve a küldöttgyűlésre,
-- c) a közgyűlést (küldöttgyűlést) a szakszövetség ügyintéző-képviselő szervének (elnökségének) évente legalább egyszer össze kell hívnia, amelyen meg kell tárgyalni az elnökség szakmai, illetve az Sztv. szerinti pénzügyi beszámolóját, valamint a tárgyévre vonatkozó szakmai és pénzügyi tervét, és amennyiben a szakszövetség közhasznú szervezet, úgy közhasznúsági jelentését is,
-- d) a szakszövetség közgyűlésének (küldöttgyűlésének) legalább három tagból álló ellenőrző testületet kell választania a szakszövetség gazdálkodásának ellenőrzésére. Ha a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, az ellenőrző testület mellett könyvvizsgálót is kell alkalmaznia. A közgyűlés (küldöttgyűlés) a pénzügyi beszámolóról az ellenőrző testület, illetve a könyvvizsgáló írásos jelentése hiányában döntést nem hozhat.
+- a) a szakszövetség legfelsőbb szerve a tagok képviselőiből álló közgyűlés, a szakszövetség alapszabályának rendelkezése alapján a közgyűlés hatáskörét küldöttgyűlés is gyakorolhatja, a küldöttek számát és a küldöttválasztás módját az alapszabályban kell megállapítani;
+- b) amennyiben ezt az alapszabály lehetővé teszi, egy tagszervezet több képviselőt, illetve küldöttet is küldhet a közgyűlésre, illetve a küldöttgyűlésre;
+- c) a közgyűlést (küldöttgyűlést) a szakszövetség ügyintéző-képviselő szervének (elnökségének) évente legalább egyszer össze kell hívnia, amelyen meg kell tárgyalni az elnökség szakmai, illetve az Sztv. szerinti pénzügyi beszámolóját, valamint a tárgyévre vonatkozó szakmai és pénzügyi tervét és amennyiben a szakszövetség közhasznú szervezet, úgy közhasznúsági jelentését is;
+- d) a szakszövetség közgyűlésének (küldöttgyűlésének) legalább három tagból álló ellenőrző testületet kell választania a szakszövetség gazdálkodásának ellenőrzésére, ha a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, az ellenőrző testület mellett könyvvizsgálót is kell alkalmaznia, a közgyűlés (küldöttgyűlés) a pénzügyi beszámolóról az ellenőrző testület, illetve a könyvvizsgáló írásos jelentése hiányában döntést nem hozhat.
 
 (2) A szakszövetség közgyűlése (küldöttgyűlése) kizárólagos hatáskörébe tartozik:
 
@@ -423,6 +423,8 @@ szabható ki.
 - a) a jogi személyiségét a Fővárosi Törvényszék nyilvántartásába történő bejegyzéssel szerzi meg,
 - b) nevét, székhelyét, képviselőjének nevét és lakóhelyét a Fővárosi Törvényszék külön alszámon tartja nyilván.
 
+(6) A szakszövetség alapszabályának felhatalmazása alapján a tagsági jogviszonyból, továbbá a szakszövetség vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a Sport Állandó Választottbíróság eljárása az alapszabályban – a felek kölcsönös alávetési nyilatkozata nélkül – is kiköthető.
+
 26. § (1) A szakszövetség elsősorban a tagdíjakból, szponzori bevételekből, a kereskedelmi jogai értékesítéséből származó bevételekből, valamint központi költségvetési, önkormányzati, köztestületi, közalapítványi és egyéb támogatásokból gazdálkodik.
 
 (2) A szakszövetség csak olyan gazdasági társaságban vehet részt, amelyben felelőssége korlátozott, és e korlátozott felelősségének mértéke nem haladja meg a társaságba általa bevitt vagyon mértékét.
@@ -437,7 +439,7 @@ szabható ki.
 
 ### A sportági szövetségek
 
-28. § (1) A sportági szövetség a Civil tv. alapján – az e törvényben meghatározott eltérésekkel – működő szövetség, amelynek tagjai kizárólag sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
+28. § (1) A sportági szövetség a Civil tv. és a Polgári Törvénykönyv előírásai alapján – az e törvényben meghatározott eltérésekkel – működő szövetség, amelynek tagjai kizárólag sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
 
 (2) A szakszövetségnek az e törvényben és a külön jogszabályokban meghatározott feladatait az országos sportági szövetség akkor láthatja el, ha nem felel meg a 20. § (4)–(5) bekezdésében meghatározott feltételeknek és:
 
@@ -533,17 +535,17 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 ### V. Fejezet — KERESKEDELMI SZERZŐDÉSEK
 
-35. § (1) Szponzorálási szerződésben a szponzor természetes vagy jogi személy, illetve jogi személységgel nem rendelkező szervezet arra vállal kötelezettséget, hogy pénz- vagy természetbeni szolgáltatás útján támogatja a szponzorált sportoló, sportszervezet, sportszövetség vagy sportköztestület sporttevékenységét, a szponzorált pedig lehetővé teszi, hogy sporttevékenységét a szponzor marketingtevékenysége során felhasználja.
+35. § (1) Szponzorálási szerződésben a szponzor arra vállal kötelezettséget, hogy pénz- vagy természetbeni szolgáltatás útján támogatja a szponzorált sportoló, sportszervezet, sportszövetség vagy sportköztestület sporttevékenységét, a szponzorált pedig lehetővé teszi, hogy sporttevékenységét a szponzor marketingtevékenysége során felhasználja.
 
 (2) A szponzorálás során a sporttevékenységet egészségre ártalmas életmóddal vagy szolgáltatással, illetve egészségre ártalmas más tevékenységgel, valamint környezetveszélyeztető és -károsító magatartással összefüggésben tilos megjeleníteni.
 
-(3) Arculat-átviteli (piacépítési) szerződés alapján a felhasználó marketingtevékenysége keretében ellenérték fejében a sportoló nevét, képmását, továbbá a sportszervezet, sportszövetség vagy sportköztestület nevét, jelvényét, illetve a sporttevékenységgel összefüggő más eszmei javakat használ fel hirdetőtáblákon, dísz- és ajándéktárgyakon, ruházaton, más tárgyakon, valamint elektronikus úton a fogyasztói döntések befolyásolása céljából.
+(3) Arculat-átviteli szerződés alapján a felhasználó marketingtevékenysége keretében ellenérték fejében a sportoló nevét, képmását, továbbá a sportszervezet, sportszövetség vagy sportköztestület nevét, jelvényét, illetve a sporttevékenységgel összefüggő más eszmei javakat használ fel hirdetőtáblákon, dísz- és ajándéktárgyakon, ruházaton, más tárgyakon, valamint elektronikus úton a fogyasztói döntések befolyásolása céljából.
 
-(4) Arculat-átviteli szerződést felhasználóként természetes és jogi személy, valamint jogi személységgel nem rendelkező szervezet köthet sportolóval, sportszövetséggel, sportvállalkozással vagy sportköztestülettel.
+(4) Arculat-átviteli szerződést a felhasználó sportolóval, sportszövetséggel, sportvállalkozással vagy sportköztestülettel köthet.
 
-(5) A sportoló nevét, illetve képmását arculat-átviteli szerződés keretében – amennyiben a szerződést sportszervezet, sportszövetség vagy sportköztestület köti a felhasználóval – csak a sportoló előzetes írásbeli hozzájárulása alapján lehet felhasználni, az ezzel ellentétes megállapodás semmis. Ez a szabály irányadó a sportoló nevét vagy képmását érintő reklám- vagy egyéb szerződésekre is. A sportoló, a sportszervezet, a sportszövetség, a sportköztestület jó hírnevének, illetve személyiségi jogainak védelmére a Polgári Törvénykönyv rendelkezései az irányadók.
+(5) A sportoló nevét, illetve képmását arculat-átviteli szerződés keretében – amennyiben a szerződést sportszervezet, sportszövetség vagy sportköztestület köti a felhasználóval – csak a sportoló előzetes írásbeli hozzájárulása alapján lehet felhasználni, az ezzel ellentétes megállapodás semmis. Ez a szabály irányadó a sportoló nevét vagy képmását érintő reklám- vagy egyéb szerződésekre is.
 
-(6) A szponzorálási és az arculat-átviteli szerződésre egyebekben a Polgári Törvénykönyv szerződésekre vonatkozó általános rendelkezéseit kell alkalmazni.
+(6)
 
 36. § (1) A sporttevékenység, illetve a sportversenyek (mérkőzések) televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (pl. internet) történő közvetítésének, rögzítésének és ezek kereskedelmi célú hasznosításának engedélyezése, továbbá a versenyrendszer (bajnokság) kiírása, szervezése, lebonyolítása vagyoni értékű jogot képez.
 
@@ -734,7 +736,7 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (5) A felügyelőbizottság – az alapszabály vonatkozó rendelkezéseire figyelemmel – maga állapítja meg működésének részletes szabályait, amit a közgyűlés hagy jóvá.
 
-(6) A MOB elnökségének tagjai és azok Polgári Törvénykönyv szerinti közeli hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
+(6) A MOB elnökségének tagjai és azok Polgári Törvénykönyv szerinti hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
 
 (7) A MOB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
 
@@ -1328,13 +1330,11 @@ igényelhet adatot.
 
 ### A néző részvétele a sportrendezvényen
 
-76. § (1) A néző köteles betartani a szervező által meghatározott biztonsági előírásokat. Nem folytathat olyan tevékenységet, amely a sportrendezvényt megzavarja, meghiúsítja vagy veszélyezteti a sportrendezvényen résztvevők, az arra érkezők vagy az onnan távozók testi épségét vagy vagyoni javait.
+76. § (1) A néző köteles betartani a szervező által meghatározott biztonsági előírásokat. A néző nem folytathat olyan tevékenységet, amely a sportrendezvényt megzavarja, meghiúsítja vagy a sportrendezvényen résztvevők, az arra érkezők vagy az onnan távozók személyiségi jogait vagy vagyoni javait sérti vagy veszélyezteti.
 
-(2) Az (1) bekezdésben meghatározott kötelezettség megszegéséből eredő kárért a néző a Polgári Törvénykönyvnek a kártérítésre vonatkozó általános szabályai szerinti felelősséggel tartozik. Több károkozó esetén a károkozók egyetemlegesen felelnek. A kártérítési felelősség nem érinti a résztvevő szabálysértési vagy büntetőjogi felelősségét. A károkozó a sportszervezet részére minden, a károkozásból származó költséget köteles megtéríteni.
+(2) Az (1) bekezdésben meghatározott kötelezettség megszegéséből eredő személyiségi jogsértésért, illetve kárért a néző a Polgári Törvénykönyv szabályai szerint köteles sérelemdíjat fizetni, illetve tartozik a kártérítési felelősségre vonatkozó általános szabályok szerinti kártérítéssel.
 
 (3) A néző a sportrendezvény befejezésének időpontjában, valamint a szervezőnek, a rendezőnek vagy a rendőrségnek a személy- és vagyonbiztonságot veszélyeztető helyzet kialakulása miatt tett felhívására köteles a sportrendezvény helyszínét elhagyni.
-
-(4) A sportrendezvény és a nézők, valamint a további résztvevők biztonságára vonatkozó részletes előírásokat jogszabály állapítja meg.
 
 ### A sportrendészeti nyilvántartás
 

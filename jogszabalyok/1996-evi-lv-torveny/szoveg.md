@@ -85,6 +85,8 @@ területét.
 
 9. § (1) A vad az állam tulajdonában van.
 
+(1a) A vad tulajdonjogának megszerzésére a Polgári Törvénykönyv „A vadak és a halak tulajdonjogának megszerzése” fejezet szabályait kell az e törvényben foglalt eltérésekkel alkalmazni.
+
 (2) A vadászterületen elejtett, elfogott vad (ideértve annak trófeáját is), a hullatott agancs, a szárnyas vad jogszerűen gyűjtött tojása, az elhullott vad teteme a jogosult tulajdonába kerül. A más vadászterületről átváltott sebzett vad – a vadászatra jogosult hozzájárulásával – a sebzés helye szerinti jogosult tulajdonába kerül, ha – a vadászatra jogosult hozzájárulásával – utánkeresés során ejtik el vagy elhullottan fellelik.
 
 (3) A nem vadászterületen elhullott vad teteme, valamint a hullatott agancs annak a jogosultnak tulajdonába kerül, amelyiknek a vadászterületéről a vad oda került. Kétség esetén tulajdonosnak a fellelés helye szerinti legközelebbi vadászterület jogosultját kell tekinteni.
@@ -901,11 +903,11 @@ fényszóróval történő éjszakai vadászatát.
 
 (6) A vadászati hatóság a rendkívüli értékű trófeát nemzeti értékké nyilváníthatja, és egyidejűleg gondoskodik annak elhelyezéséről, bemutatásáról. A nemzeti értékké nyilvánított trófeát megsemmisíteni, feldolgozni, átalakítani tilos, azt az országból csak a vadászati hatóság engedélyével lehet kivinni.
 
-(7) A trófeabírálati eljárásban nem vehet részt olyan személy, aki vadkereskedelemben vagy vadászatszervezésben érdekelt, továbbá olyan vad trófeabírálatában, amelyet olyan jogosult mutat be, amelynél saját maga vagy közeli hozzátartozója [Ptk. 685. § b) pont] érdekelt.
+(7) A trófeabírálati eljárásban nem vehet részt olyan személy, aki vadkereskedelemben vagy vadászatszervezésben érdekelt, továbbá olyan vad trófeabírálatában, amelyet olyan jogosult mutat be, amelynél saját maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója érdekelt.
 
 (8) A trófeabírálat részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
-### V. Fejezet — FELELŐSSÉG A VADKÁRÉRT, A VADÁSZATI KÁRÉRT, VALAMINT A VAD ELPUSZTÍTÁSÁVAL OKOZOTT KÁRÉRT
+### V. Fejezet — FELELŐSSÉG A VADKÁRÉRT, A VADÁSZHATÓ ÁLLAT ÁLTAL OKOZOTT KÁRÉRT, A VADÁSZATI KÁRÉRT, VALAMINT A VAD ELPUSZTÍTÁSÁVAL OKOZOTT KÁRÉRT
 
 ### A vadkár
 
@@ -913,7 +915,11 @@ fényszóróval történő éjszakai vadászatát.
 
 (2) A vadkár megtérítésére az köteles, aki a kárt okozó vad vadászatára jogosult, és akinek vadászterületén a károkozás bekövetkezett, illetőleg akinek vadászterületéről a vad kiváltott.
 
-(3) A jogosult a Polgári Törvénykönyvnek a fokozott veszéllyel járó tevékenységre vonatkozó szabályai szerint köteles megtéríteni a károsultnak a vad által a mezőgazdálkodáson és erdőgazdálkodáson kívül másnak okozott kárt.
+(3)
+
+### A vadászható állat által okozott kár
+
+75/A. § A jogosult a vadászható állat által okozott kárért való felelősség Polgári Törvénykönyvben foglalt szabályai alapján köteles a mezőgazdálkodáson és erdőgazdálkodáson kívül másnak okozott kárt megtéríteni.
 
 ### A vadászati kár
 
@@ -1077,7 +1083,7 @@ VALAMINT A VADVÉDELMI BÍRSÁG
 
 (2)–(3)
 
-(4) A kizárás szabályait kell alkalmazni a vadászati, az erdészeti, valamint a természetvédelmi hatósági feladatokat ellátó köztisztviselővel szemben, aki olyan jogosult hatósági ügyében jár el, melynél akár tagként (érdekeltként), akár vendégvadászként vadászik, továbbá a trófeabírálati eljárásban részt vevő személynél, ha e személy a jogosultnál mint vadász érdekelt, vagy ha hozzátartozója [Ptk. 685. § b) pont] által elejtett trófea bírálatát kellene elvégezni.
+(4) A kizárás szabályait kell alkalmazni a vadászati, az erdészeti, valamint a természetvédelmi hatósági feladatokat ellátó köztisztviselővel szemben, aki olyan jogosult hatósági ügyében jár el, melynél akár tagként (érdekeltként), akár vendégvadászként vadászik, továbbá a trófeabírálati eljárásban részt vevő személynél, ha e személy a jogosultnál mint vadász érdekelt, vagy ha a Polgári Törvénykönyv szerinti közeli hozzátartozója által elejtett trófea bírálatát kellene elvégezni.
 
 88. § A vadászati hatóságnak
 
@@ -1146,7 +1152,7 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 (2) Az (1) bekezdés a), c), e), g) és h) pontjában szereplő nyilvántartás tartalmazza
 
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakóhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
-- b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
+- b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
 #### 93. §
 

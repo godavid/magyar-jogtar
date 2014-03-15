@@ -78,11 +78,12 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 27a. Földgáz-kereskedelmi szerződés: a földgázkereskedő és a felhasználó között létrejött, földgáz adás-vételére irányuló szerződés.
 - 28. Földgáz-kiskereskedelem: e törvény III. Fejezete vonatkozásában az a tevékenység, amelynek során a földgázkereskedő a földgázt közvetlenül a felhasználónak adja el.
 - 29. Földgázipari tevékenység: e törvényben szabályozott engedélyköteles tevékenység.
-- 30. Földgázipari vállalkozás: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § c) pontja szerinti gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely legalább egy földgázipari tevékenységet folytat.
+- 30. Földgázipari vállalkozás: gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely legalább egy földgázipari tevékenységet folytat.
 - 31. Földgáztárolás: a földgáz engedély alapján végzett tárolása.
 - 32. Földgáztároló: az a besajtoló és kitermelő technológiai létesítménnyel ellátott földalatti természetes földtani szerkezet, mesterségesen kialakított földalatti üreg, vagy a földfelszínen létesített építmény, amely földgáz tárolására alkalmas.
-- 33. Földgáztermelő: az a gazdálkodó szervezet [Ptk. 685. § c) pont], amely Magyarország területén földgázbányászati tevékenységet végez, vagy biogáz és biomasszából származó gázok, valamint egyéb gázfajták előállítását üzletszerűen végzi.
+- 33. Földgáztermelő: az a gazdálkodó szervezet, amely Magyarország területén földgázbányászati tevékenységet végez, vagy biogáz és biomasszából származó gázok, valamint egyéb gázfajták előállítását üzletszerűen végzi.
 - 34. Földgázszállítás: a földgáznak szállítóvezetéken történő továbbítása.
+- 34a. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 - 35. Gázátadó állomás: a szállítóvezeték alkotórészét képező létesítmény a szállítóvezeték kilépési pontján, ahol a szállítóvezetékről a gáz átadása, mérése és a szükséges nyomáscsökkentés történik.
 - 36. Gázév: a tárgyév július 1-jei gáznap kezdetétől a következő év június 30-ai gáznap végéig terjedő időszak.
 - 37. Gázfogyasztó készülék: földgázzal, valamint PB-gázzal üzemeltetett készülék.
@@ -310,7 +311,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (2) Aki az együttműködő földgázrendszer szabad kapacitásait Magyarország területén történő átszállítására használja, földgáz-kereskedelmi engedély vagy korlátozott földgáz-kereskedelmi engedély megszerzésére nem köteles.
 
-(3) A felhasználók részére földgázt olyan jogi személyiséggel rendelkező gazdasági társaság vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe értékesíthet, amely erre a Hivataltól engedélyt kapott és rendelkezik a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott pénzügyi biztosítékkal.
+(3) A felhasználók részére földgázt olyan gazdasági társaság vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe értékesíthet, amely erre a Hivataltól engedélyt kapott és rendelkezik a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott pénzügyi biztosítékkal.
 
 (4) Korlátozott földgáz-kereskedelmi engedélyt az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban gazdasági társaságként bejegyzett, ott jogszerűen földgáz-kereskedelmi tevékenységet folytató külföldi gazdálkodó szervezet kap, amely
 
@@ -813,7 +814,7 @@ saját fogyasztására földgázt vásárolni.
 
 (7) Ha a közintézményi felhasználó a moratórium biztosítását e törvénynek és az (1) bekezdésben meghatározott kormányrendeletnek megfelelően kezdeményezte, a földgázkereskedő és a földgázelosztó a közintézményi felhasználóval kötött szerződést fizetési késedelemre történő hivatkozással nem mondhatja fel.
 
-(8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználó a moratórium alatt keletkezett tartozásaiért a Polgári Törvénykönyv 274. § (1) bekezdése szerint egyszerű kezesként felel.
+(8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználónak a moratórium alatt keletkezett tartozásaiért a Ptk. 6:419. §-a szerint egyszerű kezesként felel.
 
 (9) A moratórium részletes feltételeit, a moratóriummal érintett felek jogait és kötelezettségeit a Kormány rendeletben állapítja meg.
 
@@ -1785,7 +1786,7 @@ foglalt kötelezettségét nem teljesíti.
 
 ### A vertikálisan integrált földgázipari vállalkozásokra vonatkozó közös szétválasztási szabályok
 
-120/A. § (1) A vertikálisan integrált földgázipari vállalkozás rendszerüzemeltető tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Gt. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+120/A. § (1) A vertikálisan integrált földgázipari vállalkozás rendszerüzemeltető tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Ptk. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) Vertikálisan integrált földgázipari vállalkozás keretében végzett földgázszállítás és rendszerirányítás vagy földgázelosztás esetén biztosítani kell a földgázszállítás, földgázelosztás jogi személyiség szerinti, szervezeti és döntéshozatali függetlenségét a nem földgázszállítással vagy földgázelosztással kapcsolatos tevékenységektől.
 
@@ -1827,7 +1828,7 @@ foglalt kötelezettségét nem teljesíti.
 
 121/B. § (1) A vertikálisan integrált földgázipari vállalkozás földgáztermeléssel vagy földgáz-kereskedelemmel foglalkozó leányvállalatai nem rendelkezhetnek sem közvetlen, sem közvetett részesedéssel a szállítási rendszerüzemeltetőben. A szállítási rendszerüzemeltető nem rendelkezhet sem közvetlen, sem közvetett részesedéssel a vertikálisan integrált földgázipari vállalkozás földgáztermeléssel vagy földgáz-kereskedelemmel foglalkozó leányvállalatában.
 
-(2) A szállítási rendszerüzemeltető köteles felügyelőbizottságot létrehozni. A felügyelőbizottság a Gt. szerinti jogkörein túlmenően dönt
+(2) A szállítási rendszerüzemeltető köteles felügyelőbizottságot létrehozni. A felügyelőbizottság a Ptk. szerinti jogkörein túlmenően dönt
 
 - a) a részvényesek vagyonának értékére valószínűsíthetően jelentős hatást gyakorló kérdésekben,
 - b) a 121/C. § (1) bekezdésében meghatározott kérdésekben,
@@ -1839,7 +1840,7 @@ foglalt kötelezettségét nem teljesíti.
 
 (5) A felügyelőbizottság tagjai közül a tagok felénél egy fővel kevesebb személyre alkalmazni kell a 121/C. § (2)–(3) bekezdés, a (4) bekezdés a) pontja, a (6) bekezdése, valamint a 121/D. § (1)–(2) bekezdése szerinti rendelkezéseket, azzal, hogy a 121/C. § (2) bekezdés b) pontja a felügyelőbizottság valamennyi tagjára alkalmazandó.
 
-(6) A felügyelőbizottság a vertikálisan integrált földgázipari vállalkozást, a harmadik személy részvényeseket, valamint a Gt. 38. § (1) bekezdésében meghatározottak szerint a munkavállalókat képviselő tagokból áll. A Gt.-ben előírt arányoktól eltérően a felügyelőbizottság tagjainak az 1/9-ede, de legalább egy fő a munkavállalók képviselője.
+(6) A felügyelőbizottság a vertikálisan integrált földgázipari vállalkozást, a harmadik személy részvényeseket, valamint a Ptk. 3:124. § (1) bekezdésében meghatározottak szerint a munkavállalókat képviselő tagokból áll. A Ptk.-ban előírt arányoktól eltérően a felügyelőbizottság tagjainak az 1/9-ede, de legalább egy fő a munkavállalók képviselője.
 
 121/C. § (1) A szállítási rendszerüzemeltető vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, szervezeti egység vezetője (a továbbiakban együtt: operatív irányítást ellátó személy) munkaviszonyának létesítéséről, meghosszabbításáról, munkafeltételeiről – ideértve a díjazását is –, valamint munkaviszonya megszüntetéséről a felügyelőbizottság dönt.
 
@@ -1924,7 +1925,7 @@ foglalt kötelezettségét nem teljesíti.
 
 - a) bármely szavazati jog gyakorlása;
 - b) a felügyelőbizottság tagja, az operatív irányítást végző személy kinevezése, vagy
-- c) a Ptk. 685/B. § (1) bekezdése szerinti többségi befolyás.
+- c) a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. § (1) bekezdése szerinti többségi befolyás.
 
 (3) Az (1) bekezdés b) pontja alkalmazásában
 
@@ -1975,13 +1976,13 @@ foglalt kötelezettségét nem teljesíti.
 
 ### XIV. Fejezet — EGYES CÉGJOGI ESEMÉNYEKRE VONATKOZÓ KÖZÖS SZABÁLYOK
 
-122. § (1) Az engedélyesnek a Gt. rendelkezései szerinti szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal hozzájáruló határozata szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke vagy törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára a Gt. kötelezővé teszi.
+122. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal hozzájáruló határozata szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke vagy törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára a Ptk. kötelezővé teszi.
 
-(2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) valamint szétválás (különválás, kiválás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Gt. 70. §-ának (1) bekezdésében foglaltak nem alkalmazhatók.
+(2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) valamint szétválás (különválás, kiválás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Ptk. 3:39. § (1) bekezdésében foglaltak nem alkalmazhatók.
 
 (3) Az (1) bekezdés szerinti cégjogi esemény nem igényli a Hivatal hozzájárulását az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyese valamint a telephelyi szolgáltató esetében.
 
-(4) A rendszerüzemeltetői, az egyetemes szolgáltatói, és a szervezett földgázpiaci engedélyesek esetében a Gt. 55. §-ának (1) bekezdésében meghatározott uralmi szerződések nem köthetők, az ilyen szerződések semmisek. E bekezdésben meghatározott engedélyesekre a Gt. 64. §-a nem alkalmazható.
+(4) A rendszerüzemeltetői, az egyetemes szolgáltatói, és a szervezett földgázpiaci engedélyesek esetében a Ptk. 3:49. § (1) bekezdésében és 3:50. §-ában meghatározott uralmi szerződés nem köthető, és az ilyen szerződés semmis. E bekezdésben meghatározott engedélyesekre a Ptk. 3:62. §-a nem alkalmazható.
 
 123. § (1) A szerző fél köteles a Hivatalnak haladéktalanul bejelenteni, ha bármely földgázipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének, szavazati jogának vagy közvetlen és közvetett befolyásának aránya eléri vagy meghaladja a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 61. § (3) bekezdésében meghatározott mértéket. A Hivatal köteles a bejelentés tudomásulvételét a bejelentést, információ kérés esetén pedig a Hivatal által kért információk megérkezését követő naptól számított negyven napon belül visszaigazolni. A szavazati jogra, a közvetett befolyásra, a befolyásszerzésre, azok mértékére, az összehangoltan eljáró személyekre és a bejelentés tartalmára vonatkozóan a Tpt. rendelkezéseit kell megfelelően alkalmazni.
 
@@ -2161,7 +2162,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozás átalakulását, szétválását, más földgázipari vállalkozással való egyesülését, jogutód nélküli megszűnését, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást szállítási rendszerüzemeltető vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységei egyes elemeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, és egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését;
 - q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben előírt –, valamint a külön jogszabályban meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
 - r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a szállítási rendszerirányító javaslatára dönt az egyensúlyozó platformon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
-- s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, valamint a hazai termelésű földgázt termelő irataiba betekinteni, ideértve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. § (2) bekezdésében meghatározott üzleti titkot tartalmazó iratokat is, továbbá jogosult a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
+- s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, valamint a hazai termelésű földgázt termelő irataiba betekinteni, ideértve a a Ptk. 2:47. § (1) bekezdése szerinti üzleti titkot tartalmazó iratokat is, továbbá jogosult a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
 - t) meghatározza azon – személyes adatokat nem tartalmazó – gazdálkodási adatok körét, amelyet az engedélyes köteles nyilvánosságra hozni;
 - u) érvényesíti a legkisebb költség elvét az e törvény hatálya alá tartozó hatósági áras termék és szolgáltatás vonatkozásában;
 - v) nyilvánosan közzéteszi a határozatait;
@@ -2350,7 +2351,7 @@ tartalmazza.
 - 2. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat, valamint a csatlakozási díjak meghatározásának szempontjait és a csatlakozási díjak elemeit,
 - 3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, a nagycsaládosokat megillető kedvezményre vonatkozó szabályokat, az egyetemes szolgáltatók és a földgázkereskedők részére vételre felajánlott földgázforrás árát, a 141.-141/A. § és a 141/C. § szerinti szerződések tekintetében felajánlás keretében értékesített mennyiséget a földgáztárolóból és nem földgáztárolóból származó mennyiség szerinti bontásban; az egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges (felhasználási és tárolási célú) hazai termelésű földgáz mennyiségét, az egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát, az igénybevételre jogosultak vagy e törvény szerint kötelezettek körét, valamint a 141/A.-141/C. §-ban foglaltak megsértése esetén az e rendelkezésekben meghatározott engedélyesekkel szemben alkalmazandó jogkövetkezmények körét, valamint a kapcsolt termelésszerkezet átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, az adatbázishoz való hozzáférés részletes szabályait és a szükséges adatszolgáltatást,
-- 5. az engedélyesek és a PB-gáz forgalmazók adatszolgáltatásának módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, a miniszter, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. §-ának (2) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
+- 5. az engedélyesek és a PB-gáz forgalmazók adatszolgáltatásának módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, a miniszter, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 2:47. § (1) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
 - 6.
 - 7.
 - 7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.

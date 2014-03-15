@@ -26,7 +26,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - a) a villamos energia termelésére, átvitelére, elosztására, kereskedelmére, fogyasztására, továbbadására,
 - b) a villamosenergia-rendszer irányítására,
 - c) a villamosmű, az összekötő és a felhasználói berendezés, valamint a termelői vezeték, magánvezeték és a közvetlen vezeték építésére, üzemeltetésére, használatbavételére, fennmaradására és megszüntetésére,
-- d) az e törvény szerint engedélyköteles és az e törvényben szabályozott engedély nélkül végezhető tevékenységeket végzőkre, az e törvény szerint engedélyköteles tevékenység egy részét kiszervezés alapján végzőkre, az e törvény szerinti engedély vagy hozzájárulás iránti kérelmet benyújtókra a kérelem elbírálásáig, az e törvény szerint engedélyköteles tevékenységet engedély nélkül végzőkre, az integrált villamosenergia-ipari vállalkozásokra, a villamosenergia-felhasználókra, a villamosenergia-vételezőkre, a villamosenergia-ipari vállalkozásban részesedést, befolyást vagy irányítást szerezni kívánókra, amennyiben a tervezett jogügylet megvalósítását e törvény bejelentéshez vagy előzetes hivatali hozzájáruláshoz vagy jóváhagyáshoz köti, az átviteli hálózat tulajdonosára, az átviteli tevékenységhez szükséges kapacitású elektronikus hírközlő hálózati elemek, így különösen szálpárak (a továbbiakban együtt: elektronikus hírközlő hálózati elemek) tulajdonosára, az engedélyköteles tevékenység végzéséhez szükséges eszköz tulajdonosára, valamint az e törvény hatálya alá eső természetes személyek, jogi személyek, jogi személyiség nélküli jogalanyok közötti jogviszonyokra.
+- d) az e törvény szerint engedélyköteles és az e törvényben szabályozott engedély nélkül végezhető tevékenységeket végzőkre, az e törvény szerint engedélyköteles tevékenység egy részét kiszervezés alapján végzőkre, az e törvény szerinti engedély vagy hozzájárulás iránti kérelmet benyújtókra a kérelem elbírálásáig, az e törvény szerint engedélyköteles tevékenységet engedély nélkül végzőkre, az integrált villamosenergia-ipari vállalkozásokra, a villamosenergia-felhasználókra, a villamosenergia-vételezőkre, a villamosenergia-ipari vállalkozásban részesedést, befolyást vagy irányítást szerezni kívánókra, amennyiben a tervezett jogügylet megvalósítását e törvény bejelentéshez vagy előzetes hivatali hozzájáruláshoz vagy jóváhagyáshoz köti, az átviteli hálózat tulajdonosára, az átviteli tevékenységhez szükséges kapacitású elektronikus hírközlő hálózati elemek, így különösen szálpárak (a továbbiakban együtt: elektronikus hírközlő hálózati elemek) tulajdonosára, az engedélyköteles tevékenység végzéséhez szükséges eszköz tulajdonosára, valamint az e törvény hatálya alá eső természetes személyek, jogi személyek közötti jogviszonyokra.
 
 (2) Az atomerőműre e törvény rendelkezéseit az atomenergiáról szóló törvény különös szabályaival összhangban kell alkalmazni.
 
@@ -59,6 +59,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 18. Felhasználói berendezés: a felhasználó használatában lévő, villamos energiát termelő, átalakító és kapcsoló berendezés, vezetékhálózat és villamos energiát felhasználó berendezés a tartozékaival (készülékeivel) együtt;
 - 19. Fogyatékkal élő fogyasztó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét közvetlenül veszélyezteti a villamosenergia-szolgáltatásból való kikapcsolás vagy annak megszakadása;
 - 20. Gazdaságilag indokolt hő- vagy hűtési igény: a hő vagy hűtés iránti igényt meg nem haladó mértékű kereslet, amelyet versenypiaci feltételek mellett, kapcsolt hő- és villamosenergia-termelés hiányában, a kapcsolt energiatermeléstől eltérő egyéb energia-előállító folyamaton keresztül elégítenének ki;
+- 20a. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 21. Határkeresztező vezeték: az átviteli hálózat részét képező, Magyarország államhatárát keresztező vezeték, beleértve a hozzá tartozó átalakító- és kapcsolóberendezést;
 - 22. Hálózati engedélyes: az átviteli rendszerirányító és az elosztó;
 - 23. Hasznos hő: a kapcsoltan termelt energia előállítása során valamely, gazdaságilag indokolt hő- vagy hűtési igény kielégítése érdekében megtermelt hő;
@@ -120,7 +121,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 66a. Vételezési hely: egy vagy több kapcsolódási ponton keresztül ellátott összefüggő terület, ahol a vételező a vásárolt villamos energiát teljes egészében felhasználja;
 - 66b. Vételező: aki felhasználótól magánvezetéken továbbadás útján vagy termelőtől közvetlen vezetéken vásárol villamos energiát kizárólag saját felhasználás céljára, és nem minősül felhasználónak;
 - 67. Villamosenergia-ellátási Szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, a nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére vonatkozó elosztói szabályzat;
-- 68. Villamosenergia-ipari vállalkozás: a Polgári Törvénykönyv 685. § c) pontja szerinti gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely e törvény szerint engedélyköteles tevékenységet folytat;
+- 68. Villamosenergia-ipari vállalkozás: a szerinti gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely e törvény szerint engedélyköteles tevékenységet folytat;
 - 69. Villamosenergia-kereskedelem: az a tevékenység, amely a villamos energia és a hozzá tartozó teljesítmény üzletszerű, nem saját felhasználási célra történő vásárlásából és értékesítéséből áll;
 - 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 - 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
@@ -925,7 +926,7 @@ vásárolhat villamos energiát.
 
 meghatározott szerződésszegés esetén.
 
-(6) A hálózati csatlakozási és a hálózathasználati szerződés érvénytelensége, illetve a szerződések vonatkozásában fennálló felelősség tekintetében, amennyiben jelen törvény eltérő rendelkezést nem tartalmaz, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) megfelelő rendelkezéseit kell alkalmazni. A szavatossági igények körében azonban a hálózati engedélyest terheli annak bizonyítása, hogy az előírt minőségű és biztonságos energia ellátás érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható volt.
+(6) A hálózati csatlakozási és a hálózathasználati szerződés érvénytelensége, illetve a szerződések vonatkozásában fennálló felelősség tekintetében, amennyiben jelen törvény eltérő rendelkezést nem tartalmaz, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) megfelelő rendelkezéseit kell alkalmazni. A szavatossági igények körében azonban a hálózati engedélyest terheli annak bizonyítása, hogy az előírt minőségű és biztonságos energia ellátás érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható volt.
 
 (7) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 3 hónapon belül általuk tervezett változtatásokat is.
 
@@ -1007,7 +1008,7 @@ meghatározott szerződésszegés esetén.
 
 (7) Ha a közintézményi felhasználó a moratórium biztosítását e törvénynek és az (1) bekezdésben meghatározott kormányrendeletnek megfelelően kezdeményezte, a villamosenergia-kereskedő vagy az elosztó a közintézményi felhasználóval kötött szerződést fizetési késedelemre történő hivatkozással nem mondhatja fel.
 
-(8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználó a moratórium alatt keletkezett tartozásaiért a Ptk. 274. § (1) bekezdése szerint egyszerű kezesként felel.
+(8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználó fenntartója a közintézményi felhasználónak a moratórium alatt keletkezett tartozásaiért a Ptk. 6:419. §-a szerint egyszerű kezesként felel.
 
 (9) A moratórium részletes feltételeit, a moratóriummal érintett felek jogait és kötelezettségeit a Kormány rendeletben állapítja meg.
 
@@ -1368,7 +1369,7 @@ működési engedély
 
 88. § (1)
 
-(2) Teljes körű, a felhasználók közvetlen ellátására is jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt jogi személyiséggel rendelkező gazdasági társaság, vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe kaphat.
+(2) Teljes körű, a felhasználók közvetlen ellátására is jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt gazdasági társaság, vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe kaphat.
 
 (3) Korlátozott, a felhasználók ellátására közvetlenül nem jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt kap az az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban gazdasági társaságként bejegyzett, ott ténylegesen és jogszerűen villamosenergia-kereskedelmi tevékenységet folytató külföldi gazdálkodó szervezet, amely megfelel az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeknek, valamint a feltételek fennállását hitelt érdemlően igazolja, és Magyarország területén irodát tart fenn, amelynek elérhetőségét a Hivatal részére folyamatosan biztosítja.
 
@@ -1424,9 +1425,9 @@ működtetésére vonatkozó engedély
 
 ### Egyes cégjogi eseményekre vonatkozó közös szabályok
 
-92. § (1) Az engedélyes vállalkozásnak a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) rendelkezéseinek megfelelő szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének, illetve törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együttesen: cégjogi esemény) a Hivatal hozzájáruló határozata is szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke, illetve törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi.
+92. § (1) Az engedélyes vállalkozásnak Ptk. gazdasági társaságokra vonatkozó rendelkezéseinek megfelelő szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének, illetve törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együttesen: cégjogi esemény) a Hivatal hozzájáruló határozata is szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke, illetve törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi.
 
-(2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Gt. 70. § (1) bekezdésében foglaltak nem alkalmazhatók.
+(2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Ptk. 3:39. § (1) bekezdésében foglaltak nem alkalmazhatók.
 
 (3) Az (1) bekezdés szerinti cégjogi esemény nem igényli a Hivatal (1) bekezdés szerinti hozzájáruló határozatát
 
@@ -1434,7 +1435,7 @@ működtetésére vonatkozó engedély
 - b) magánvezeték engedélyese esetében vagy
 - c) közvetlen vezeték engedélyese esetében.
 
-(4) Az átviteli rendszerirányítói, elosztó hálózati, egyetemes szolgáltatói, szervezett villamosenergia-piaci engedélyes esetében a Gt. 55. § (1) bekezdésében meghatározott uralmi szerződés nem köthető, és az ilyen szerződés semmis, továbbá ezen engedélyesekre nem alkalmazható a Gt. 64. §-a.
+(4) Az átviteli rendszerirányítói, elosztó hálózati, egyetemes szolgáltatói, szervezett villamosenergia-piaci engedélyes esetében a Ptk. 3:49. § (1) bekezdésében és 3:50. §-ában meghatározott uralmi szerződés nem köthető, és az ilyen szerződés semmis, továbbá ezen engedélyesekre nem alkalmazható a Ptk. 3:62. §-a.
 
 93. § (1) A szerző fél köteles a Hivatalnak haladéktalanul bejelenteni, ha bármely villamosenergia-ipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének, szavazati jogának vagy közvetlen és közvetett befolyásának aránya eléri vagy meghaladja a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 61. § (3) bekezdésében meghatározott mértéket. A Hivatal köteles a bejelentés tudomásulvételét a bejelentést, információ kérés esetén pedig a Hivatal által kért információk megérkezését követő naptól számított negyven napon belül visszaigazolni. A szavazati jogra, a közvetett befolyásra, a befolyásszerzésre, azok mértékére, az összehangoltan eljáró személyekre és a bejelentés tartalmára vonatkozóan a Tpt. rendelkezéseit kell megfelelően alkalmazni.
 
@@ -1576,7 +1577,7 @@ megállapodni.
 
 ### A vertikálisan integrált villamosenergia-ipari vállalkozásokra vonatkozó közös szétválasztási szabályok
 
-100. § (1) A vertikálisan integrált villamosenergia-ipari vállalkozás hálózati engedélyes tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Gt. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+100. § (1) A vertikálisan integrált villamosenergia-ipari vállalkozás hálózati engedélyes tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Ptk. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) Vertikálisan integrált villamosenergia-ipari vállalkozás keretében végzett átviteli rendszerirányítás vagy elosztás esetén biztosítani kell az átviteli rendszerirányítás, elosztás jogi személyiség szerinti, szervezeti és döntéshozatali függetlenségét a nem átviteli rendszerirányítással, illetve elosztással kapcsolatos tevékenységektől.
 
@@ -1614,7 +1615,7 @@ megállapodni.
 
 102. § (1) A vertikálisan integrált villamosenergia-ipari vállalkozás termeléssel vagy kereskedelemmel foglalkozó leányvállalata nem rendelkezhet sem közvetlen, sem közvetett részesedéssel az átviteli rendszerirányítóban. Az átviteli rendszerirányító nem rendelkezhet sem közvetlen, sem közvetett részesedéssel a vertikálisan integrált villamosenergia-ipari vállalkozás termeléssel vagy kereskedelemmel foglalkozó leányvállalatában.
 
-(2) Az átviteli rendszerirányító köteles felügyelőbizottságot létrehozni, és e törvényben foglalt feladatai ellátásához szükséges jogosítványokat biztosítani. A felügyelőbizottság a Gt. szerinti jogkörein túlmenően dönt
+(2) Az átviteli rendszerirányító köteles felügyelőbizottságot létrehozni, és e törvényben foglalt feladatai ellátásához szükséges jogosítványokat biztosítani. A felügyelőbizottság a Ptk. szerinti jogkörein túlmenően dönt
 
 - a) a részvényesek vagyonának értékére valószínűsíthetően jelentős hatást gyakorló kérdésekben,
 - b) a 102/A. § (1) bekezdésében meghatározott kérdésekben és
@@ -1626,7 +1627,7 @@ megállapodni.
 
 (5) A felügyelőbizottság tagjai közül a tagok felénél egy fővel kevesebb személyre alkalmazni kell a 102/A. § (2)–(3) bekezdése, a 102/A. § (4) bekezdés a) pontja, 102/A. § (6) bekezdése, valamint a 102/B. § (1)–(2) bekezdése szerinti rendelkezéseket, azzal, hogy a 102/A. § (2) bekezdés b) pontja a felügyelőbizottság valamennyi tagjára alkalmazandó.
 
-(6) A felügyelőbizottság a vertikálisan integrált villamosenergia-ipari vállalkozást, a harmadik személy részvényeseket, valamint a Gt. 38. § (1) bekezdésében meghatározottak szerint a munkavállalókat képviselő tagokból áll. A Gt.-ben előírt arányoktól eltérően a felügyelőbizottság tagjainak 1/9-ed része, de legalább 1 fő a munkavállalók képviselője.
+(6) A felügyelőbizottság a vertikálisan integrált villamosenergia-ipari vállalkozást, a harmadik személy részvényeseket, valamint a Ptk. 3:124. § (1) bekezdésében meghatározottak szerint a munkavállalókat képviselő tagokból áll. A Ptk.-ban előírt arányoktól eltérően a felügyelőbizottság tagjainak 1/9-ed része, de legalább 1 fő a munkavállalók képviselője.
 
 102/A. § (1) Az átviteli rendszerirányító vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, szervezeti egység vezetője (a továbbiakban együtt: operatív irányítást ellátó személy) munkaviszonyának létesítéséről, a munkaviszonyának meghosszabbításáról, munkafeltételeiről – ideértve a díjazását is –, valamint a munkaviszony megszüntetéséről a felügyelőbizottság dönt.
 
@@ -1719,7 +1720,7 @@ kapcsolatban.
 
 - a) bármely szavazati jog gyakorlása,
 - b) a felügyelőbizottság tagjai, az operatív irányítást végző személy kinevezése, vagy
-- c) a Ptk. 685/B. § (1) bekezdés szerinti többségi befolyás.
+- c) a Ptk. 8:2. § szerinti többségi befolyás.
 
 (3) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt az átviteli rendszerirányító vagy az átviteli hálózat, másrészt a termelői engedélyes vagy a kereskedő felett az irányítást Magyarország nevében, törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
 
@@ -2495,7 +2496,7 @@ villamos energia képezi.
 - 12. a 8. § (1) bekezdésének rendelkezései szerint erőmű létesítésére, illetve keresletoldali szabályozási intézkedésekre, a 26. § (1) bekezdése szerint a hálózat fejlesztésére pályázatot írhat ki, a 26/A. § (1) bekezdése szerint az átviteli hálózat fejlesztésére pályázatot ír ki, és elbírálja azokat,
 - 13. az egyes engedélyesekre – a jogszabályban meghatározott keretek között – hivatalból határozatban állapítja meg az e törvény szerinti engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a lakossági fogyasztónak nem minősülő felhasználók tájékoztatásának részletes szabályait, továbbá a hálózati engedélyesek vonatkozásában a hálózat biztonságos üzemeltetésére vonatkozó minimális követelményeket,
 - 14. a folyamatos és biztonságos villamosenergia-ellátás fenntartása érdekében kivizsgálja az erőművek teljesítőképességében beálló változásokat, indokolatlan termelés-visszatartás esetén megállapítja az erőművi teljesítőképesség felajánlandó mértékét,
-- 15. e törvény szerint jóváhagyja az engedélyes Gt. szerinti átalakulását, jogutód nélküli megszűnését, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, illetve egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését,
+- 15. e törvény szerint jóváhagyja az engedélyes Ptk szerinti átalakulását, egyesülését, illetve szétválását, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, illetve egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését,
 - 16. felülvizsgálja a szénipari szerkezetátalakítási támogatásra jogosult bányavállalkozó szénipari szerkezetátalakítási támogatásának kifizetésére vonatkozó kérelmét, és javaslatot tesz a miniszternek a kifizethető szénipari szerkezetátalakítási támogatás mértékére, és
 - 17. végrehajtja a 714/2009/EK rendelet 19. cikkében meghatározott feladatokat.
 
@@ -2863,7 +2864,7 @@ rendeletben állapítsa meg.
 - 4. az 50 MW, és azt meghaladó névleges teljesítőképességű erőművek energiaforrás-készletének legkisebb mértékét,
 - 5. a villamos energiának a felhasználók részére történő értékesítése során, a felhasználók – az előző naptári évben értékesített villamos energia előállításához felhasznált energiaforrások részarányáról és környezeti hatásairól történő – tájékoztatásának, valamint a Hivatal által a honlapján közzéteendő – a villamos energia hatékony felhasználására, az energiatakarékos eszközök használatával járó előnyökre vonatkozó ismeretekről, adatokról szóló – tájékoztatás módjára és tartalmára vonatkozó részletes szabályokat,
 - 6. a kapcsoltan termelt villamos energia mennyisége megállapításának számítási módját, valamint a kapcsoltan termelt villamos energia mennyiségének igazolására vonatkozó eljárás részletes szabályait,
-- 7. az engedélyesek e törvény szerinti engedélyköteles tevékenységével, különösen az átviteli rendszerirányító rendszerirányítási tevékenységével összefüggő árakkal, és a villamosenergia-fogyasztással kapcsolatos adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. § (2) bek.] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat, valamint a felhasználótól eltérő fizető megállapítására vonatkozó szabályokat,
+- 7. az engedélyesek e törvény szerinti engedélyköteles tevékenységével, különösen az átviteli rendszerirányító rendszerirányítási tevékenységével összefüggő árakkal, és a villamosenergia-fogyasztással kapcsolatos adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 2:47. § (1) bekezdés] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat, valamint a felhasználótól eltérő fizető megállapítására vonatkozó szabályokat,
 - 8. a felhasználók mérési adataihoz történő hozzáférés szabályait, az adatok formátumát, a mérési adatok felhasználók, valamint a villamosenergia-kereskedők részére történő átadásával kapcsolatos eljárás rendjét,
 - 9. a megújuló energiaforrásokból nyert energiával termelt energiára vonatkozó származási garanciára figyelemmel a megújuló energiaforrásokból előállított vagy felhasznált energia meghatározására és részarányának számítására vonatkozó eljárás szabályait, valamint a megújuló energiaforrásokból előállított vagy felhasznált energia mennyiségének számítási módját energiaforrásonként és felhasználási módonként,
 - 10. a megújuló energiaforrásból történő energiatermelő berendezések és rendszerek beszerzéséhez és működtetéséhez szükséges támogatások nyújtásának feltételét képező műszaki előírásokat, valamint a megújuló energiaforrásból származó energia felhasználásáról, alkalmazásáról, a felhasználás támogatásáról szóló tájékoztatás szabályait,

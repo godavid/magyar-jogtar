@@ -301,7 +301,7 @@ VAGYONI NYILATKOZAT
 
 A) Ingatlanok
 
-1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
+1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -321,7 +321,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
+2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -341,7 +341,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog):
+3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) megnevezése (zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs stb.):
 
@@ -367,7 +367,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog):
+4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) megnevezése:
 
@@ -399,7 +399,7 @@ a szerzés ideje, jogcíme:
 
 aranykorona-értéke:
 
-B) Nagy értékű ingóságok (ideértve a lízingelt vagyontárgyakat is)
+B) Nagy értékű ingóságok (ideértve a lízingelt, valamint a vagyonrendelőként bizalmi vagyonkezelésbe adott vagyontárgyakat, illetve e vagyontárgyak vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznait)
 
 1. Járművek:
 
@@ -566,7 +566,7 @@ V. Rész
 
 GAZDASÁGI ÉRDEKELTSÉGI NYILATKOZAT
 
-Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége:
+Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége (ideértve a vagyonrendelőként bizalmi vagyonkezelésbe adott érdekeltséget, illetve a részesedés vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznát):
 
 A)
 
@@ -710,7 +710,7 @@ VAGYONI NYILATKOZAT
 
 A) Ingatlanok
 
-1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
+1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -730,7 +730,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
+2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -750,7 +750,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog):
+3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) megnevezése (zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs stb.):
 
@@ -776,7 +776,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog):
+4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
 
 a) megnevezése:
 
@@ -808,7 +808,7 @@ a szerzés ideje, jogcíme:
 
 aranykorona-értéke:
 
-B) Nagy értékű ingóságok (ideértve a lízingelt vagyontárgyakat is)
+B) Nagy értékű ingóságok (ideértve a lízingelt, valamint a vagyonrendelőként bizalmi vagyonkezelésbe adott vagyontárgyakat, illetve e vagyontárgyak vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznait)
 
 1. Járművek:
 
@@ -974,6 +974,8 @@ PÉNZINTÉZETTEL, MAGÁNSZEMÉLYEKKEL SZEMBEN FENNÁLLÓ TARTOZÁSOK
 V. Rész
 
 GAZDASÁGI ÉRDEKELTSÉGI NYILATKOZAT
+
+Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége (ideértve a vagyonrendelőként bizalmi vagyonkezelésbe adott érdekeltséget, illetve a részesedés vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznát):
 
 Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége:
 

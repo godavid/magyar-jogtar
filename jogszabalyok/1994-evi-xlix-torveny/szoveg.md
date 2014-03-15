@@ -10,9 +10,9 @@ az erdőbirtokossági társulatról
 
 ### A társulat fogalma
 
-2. § (1) A társulat az erdő művelési ágban nyilvántartott egy vagy több földrészlet tulajdonosai (a továbbiakban: tulajdonos) által az erdőgazdálkodási tevékenységgel összefüggő, valamint az ahhoz kapcsolódó feladatok ellátására létrehozott gazdálkodó szervezet. A társulat jogi személy.
+2. § (1) A társulat az erdő művelési ágban nyilvántartott egy vagy több földrészlet tulajdonosai (a továbbiakban: tulajdonos) által az erdőgazdálkodási tevékenységgel összefüggő, valamint az ahhoz kapcsolódó feladatok ellátására létrehozott, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet. A társulat jogi személy.
 
-(2) A társulat és a tagok e törvényben nem szabályozott vagyoni viszonyaira a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
+(2) A társulat és a tagok e törvényben nem szabályozott vagyoni viszonyaira a a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezéseit kell alkalmazni.
 
 ### A társulati érdekeltség
 
@@ -57,7 +57,7 @@ az erdőbirtokossági társulatról
 
 (2) A cégbejegyzést megelőzően a társulat nevében vállalt kötelezettségekért az (1) bekezdés szerint fennálló felelősség megszűnik, ha a társulat közgyűlése a szerződést utólag jóváhagyja vagy a társulati szerződésben a felek így állapodnak meg.
 
-(3) Az erdőbirtokossági társulatnak a cégbejegyzés megtörténte előtti működésére a gazdasági társaságokról szóló törvénynek az előtársaságra vonatkozó rendelkezéseit megfelelően alkalmazni kell. Ha a társulat a cégbejegyzés előtt megkezdi ezzel kapcsolatos tevékenységét, a cégbejegyzés hiányára harmadik személlyel szemben nem hivatkozhat.
+(3) Az erdőbirtokossági társulatnak a cégbejegyzés megtörténte előtti működésére a Ptk. gazdasági társaságokra vonatkozó rendelkezéseit alkalmazni kell. Ha a társulat a cégbejegyzés előtt megkezdi ezzel kapcsolatos tevékenységét, a cégbejegyzés hiányára harmadik személlyel szemben nem hivatkozhat.
 
 (4) Ha a cégbíróság a társulat bejegyzését megtagadta, a társulat tevékenységét a jogerős határozat kézhezvétele után meg kell szüntetni. Az alakuló közgyűléstől a tevékenység megszüntetéséig terjedő időszakra vonatkozóan a tagok kötelesek egymással elszámolni.
 
@@ -155,7 +155,7 @@ az erdőbirtokossági társulatról
 - c) akit bűncselekmény elkövetése miatt végrehajtható szabadságvesztésre ítéltek, mindaddig, amíg a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesül;
 - d) akit valamely foglalkozástól eltiltottak, az ítélet hatálya alatt az abban megjelölt tevékenységre.
 
-(2) Ha a társulat tagjainak száma a tíz főt meghaladja, azok, akik egymásnak a Ptk. 685. § b) pontja szerint közeli hozzátartozói, nem lehetnek egyidejűleg a társulat elnökségének, valamint a felügyelőbizottságának tagjai. Az alapszabályban az összeférhetetlenség egyéb eseteit is meg lehet határozni.
+(2) Ha a társulat tagjainak száma a tíz főt meghaladja, azok, akik egymásnak a Ptk. szerint közeli hozzátartozói, nem lehetnek egyidejűleg a társulat elnökségének, valamint a felügyelőbizottságának tagjai. Az alapszabályban az összeférhetetlenség egyéb eseteit is meg lehet határozni.
 
 19. § (1) A tisztségviselők a hasonló feladatkört betöltő személyektől általában elvárható gondossággal kötelesek eljárni. Kötelességeik megszegésével a társulatnak okozott kárért a polgári jog szabályai szerint egyetemlegesen felelősek akkor is, ha egyébként a társulattal munkaviszonyban állnak.
 
@@ -260,7 +260,7 @@ az erdőbirtokossági társulatról
 
 (3) A tag a társulati érdekeltsége után kivetett és tagsága idején esedékessé vált járulékért és kamatért a társulattal szemben tagságának megszűnése után is felelősséggel tartozik.
 
-(4) A társulat gazdálkodásával kapcsolatos, e törvényben nem szabályozott kérdésekben a gazdasági társaságokra irányadó szabályokat kell megfelelően alkalmazni.
+(4) A társulat gazdálkodásával kapcsolatos, e törvényben nem szabályozott kérdésekben a Ptk. gazdasági társaságokra vonatkozó szabályait kell alkalmazni.
 
 ### VI. Fejezet — RENDELKEZÉS A TÁRSULAT HASZNÁLATÁBAN LÉVŐ ERDŐ TULAJDONJOGÁRÓL
 

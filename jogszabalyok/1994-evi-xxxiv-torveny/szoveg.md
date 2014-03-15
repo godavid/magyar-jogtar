@@ -194,7 +194,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
   - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai,
   - bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, továbbá
   - be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
-- c) felderíti a b) pontban megjelölt szerveknél a jogszabályban meghatározott bűncselekményeket.
+- c) felderíti a b) pontban megjelölt védett állománnyal összefüggő, külön jogszabályban meghatározott bűncselekményeket.
 
 (1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
 
@@ -464,9 +464,9 @@ igazolja.
 
 26. § (1) A rendőrség bűncselekmény elkövetésének megelőzése, megakadályozása, bűncselekmény felderítése, az elkövető elfogása, a közbiztonság védelme érdekében — ha a törvényben meghatározott kötelezettsége más módon nem teljesíthető, és törvény másként nem rendelkezik — kérheti és igénybe veheti a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet segítségét és a birtokában lévő eszközt. A segítségnyújtás csak akkor tagadható meg, ha az a felkért személy életét, egészségét vagy testi épségét nyilvánvalóan veszélyezteti, továbbá, ha a kért segítség teljesítéséhez szükséges tárgyi feltételek nem állnak rendelkezésre.
 
-(2) A segítő által a segítségnyújtással közvetlen összefüggésben okozott kárt és keletkezett költséget úgy kell tekinteni, mintha a kárt a rendőrség okozta volna, illetve mintha a költség a rendőrség tevékenységével összefüggésben keletkezett volna.
+(2) A segítő által a segítségnyújtással közvetlen összefüggésben harmadik személynek okozott kárt, illetve személyiségi jogsértést úgy kell tekinteni, mintha a kárt, illetve a személyiségi jogsértést a rendőrség okozta volna.
 
-(3) A segítőnek a segítség igénybevételével közvetlen összefüggésben keletkezett, más forrásból meg nem térülő kárát – az elmaradt haszon kivételével –, továbbá a segítségnyújtással összefüggésben keletkezett költségeit a rendőrség megtéríti.
+(3) A segítőnek a segítség igénybevételével közvetlen összefüggésben keletkezett, más forrásból meg nem térülő kárát – az elmaradt vagyoni előny kivételével – a rendőrség a Polgári Törvénykönyv szerződésen kívül okozott kárért való felelősségre vonatkozó szabályai szerint megtéríti, valamint a segítő az őt ért személyiségi jogsértés esetén sérelemdíjat is követelhet.
 
 ### Díjkitűzés
 
@@ -992,9 +992,9 @@ törölni kell.
 
 (4) A beavatkozó személy Magyarország területén történő átutazása esetén is magánál tarthatja kényszerítő eszközét, valamint szolgálati lőfegyverét.
 
-### Felelősségi és kártérítési szabályok
+### Kártérítés és sérelemdíj
 
-62/D. § (1) A 46/E. §, a 62/B. § és a 62/C. § alapján feladatot végrehajtó személy (a továbbiakban: feladatot végrehajtó személy) eljárása során a Magyarország területén okozott kárért a 26. § (2) bekezdésében foglalt rendelkezés szerint a rendőrség felel. Ha a kárt a feladatot végrehajtó személy a szolgálati viszonyából eredő kötelesség vétkes megszegésével okozta, akkor a miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
+62/D. § (1) Ha a 46/E. §, a 62/B. § és a 62/C. § alapján feladatot végrehajtó személy (a továbbiakban: feladatot végrehajtó személy) eljárása során Magyarország területén kárt, illetve személyiségi jogsértést okoz, a károsulttal, illetve a sérelmet szenvedett féllel szemben a 26. § (2) bekezdésében foglalt rendelkezés szerint a rendőrség felel, illetve áll helyt. Ha a kárt, illetve személyiségi jogsértést a feladatot végrehajtó személy a szolgálati viszonyából eredő kötelesség szándékos megszegésével okozta, akkor a miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
 
 (2) A Magyarország területén eljáró feladatot végrehajtó személy szolgálati viszonyára, különös tekintettel fegyelmi felelősségére vonatkozóan a tagállam jogát kell alkalmazni.
 
@@ -1054,7 +1054,7 @@ törölni kell.
 
 (8) A rendőrség az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvi nyilvántartásban, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhet el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
 
-(9) Az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére a 67. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+(9) Az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében harmadik személynek okozott kár megtérítésére, valamint személyiségi jogsértés esetén a sérelemdíj érvényesítésére a 67. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 ### Fedővállalkozás létrehozása, fenntartása
 
@@ -1072,7 +1072,7 @@ törölni kell.
 
 67. § (1) A rendőrség az ügyész hozzájárulásával a feljelentés elutasításának vagy a nyomozás megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhat meg a bűncselekmény elkövetőjével, ha a megállapodással elérhető bűnüldözési célhoz fűződő érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
 
-(2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a rendőrség az elkövető által a sértettnek okozott kárt megtéríti, az ehhez szükséges fedőokiratot elkészítheti, illetőleg titoktartási megállapodás megkötését kezdeményezheti.
+(2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a rendőrség az elkövető által a sértettnek okozott kárt megtéríti, illetve a személyiségi jogsértés esetén a sérelemdíjat megfizeti, az ehhez szükséges fedőokiratot elkészítheti, illetve titoktartási megállapodás megkötését kezdeményezheti.
 
 (3) Nem köthető megállapodás azzal a személlyel, aki olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta.
 
@@ -1082,7 +1082,7 @@ megszüntetése a fedett nyomozóval szemben
 
 67/A. § (1) Bűncselekmény megalapozott gyanúja esetén az ügyész a feljelentést határozattal elutasítja, vagy a nyomozást megszünteti, ha a 64. § (1) bekezdésének f) pontja szerint a bűnszervezetbe beépült fedett nyomozó által a szolgálati feladata teljesítése közben elkövetett bűncselekmény bűnüldözési érdeket szolgál, és az jelentősen meghaladja az állam büntetőjogi igényének érvényesítéséhez fűződő érdeket.
 
-(2) A fedett nyomozó által a sértettnek okozott kár megtérítésére, az ehhez szükséges fedőokirat elkészítésére, illetőleg a titoktartási megállapodás megkötésének kezdeményezésére a 67. § (2) bekezdésében írt rendelkezést kell alkalmazni.
+(2) A fedett nyomozó által a sértettnek okozott kár megtérítésére, illetve a személyiségi jogsértésért járó sérelemdíj megfizetésére, az ehhez szükséges fedőokirat elkészítésére, illetve a titoktartási megállapodás megkötésének kezdeményezésére a 67. § (2) bekezdésében írt rendelkezést kell alkalmazni.
 
 (3) Az (1) bekezdésben foglaltak nem alkalmazhatók, ha a fedett nyomozó olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta
 
@@ -1313,7 +1313,7 @@ adatok köre
 - p) a bírósági ügyviteli nyilvántartásból,
 - r) az ingatlan-nyilvántartásból,
 - s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
-- t) a közjegyzői zálogjogi nyilvántartásból,
+- t) a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,
 - u) a szabálysértési nyilvántartásból,
 - v) központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartásból
 
@@ -1641,7 +1641,7 @@ bírálja el.
 
 (2) Akinek az intézkedés jogát vagy jogos érdekét érintette, panasszal fordulhat az intézkedést foganatosító rendőri szervhez.
 
-(3) Az (1) és (2) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó egyesület vagy alapítvány, nemzetiségi önkormányzat, jogi oktatatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
+(3) Az (1) és (2) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes kiskorú vagy cselekvőképességében bármely ügycsoportban korlátozott nagykorú személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó egyesület vagy alapítvány, nemzetiségi önkormányzat, jogi oktatatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
 
 (4) Az (1)–(2) bekezdésben meghatározott eljárások tárgyi költségmentesek.
 

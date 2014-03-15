@@ -8,7 +8,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 ### I. Fejezet — A törvény hatálya
 
-1. § (1) E törvény hatálya kiterjed a természetes és a jogi személynek, valamint a jogi személyiség nélküli gazdasági társaságnak – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is a VI. fejezetben szabályozott magatartások kivételével – (a továbbiakban az előzőek együtt: vállalkozás) Magyarország területén tanúsított piaci magatartására, kivéve, ha törvény eltérően rendelkezik. E törvény hatálya alá tartozik továbbá – a II–III. fejezetekben szabályozott magatartások kivételével – a vállalkozás külföldön tanúsított piaci magatartása is, ha annak hatása Magyarország területén érvényesülhet.
+1. § (1) E törvény hatálya kiterjed a természetes és a jogi személynek, valamint – a VI. fejezetben szabályozott magatartások kivételével – a külföldi székhelyű vállalkozás magyarországi fióktelepének (a továbbiakban együtt: vállalkozás) Magyarország területén tanúsított piaci magatartására, kivéve ha törvény eltérően rendelkezik. E törvény hatálya alá tartozik továbbá – a II–III. fejezetekben szabályozott magatartások kivételével – a vállalkozás külföldön tanúsított piaci magatartása is, ha annak hatása Magyarország területén érvényesülhet.
 
 (2) Az Európai Közösséget létrehozó szerződés (a továbbiakban: EK-Szerződés) 81. és 82. cikkének alkalmazása során az e cikkek hatálya alá tartozó piaci magatartásra is e törvény eljárási rendelkezéseit kell alkalmazni akkor, ha a Szerződés 81. és 82. cikkében foglalt versenyszabályok végrehajtásáról szóló 1/2003/EK tanácsi rendelet (a továbbiakban: 1/2003/EK rendelet) alapján a Gazdasági Versenyhivatal vagy magyar bíróság eljárásának van helye.
 
@@ -28,7 +28,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 (3) E törvény alkalmazásában
 
-- a) üzleti titok fogalma alatt a Ptk. 81. § (2) bekezdésében meghatározott fogalmat kell érteni;
+- a) üzleti titok alatt a Polgári Törvénykönyvben meghatározott fogalmat kell érteni;
 - b) bizalmi viszony különösen a munkaviszony, a munkavégzésre irányuló egyéb jogviszony és a tagsági viszony;
 - c) üzleti kapcsolat az üzletkötést megelőző tájékoztatás, tárgyalás, ajánlattétel akkor is, ha azt nem követi szerződéskötés.
 
@@ -624,7 +624,7 @@ az eljáró szerv összetétele, kizárás
 - b) az ügyfél hozzátartozója,
 - c) ügyvéd, ügyvédi iroda,
 - d) állami szerv ügyintézője, az állami szerv tevékenységével kapcsolatos ügyekben,
-- e) a gazdálkodó szervezet ügyintézésre jogosult tagja vagy alkalmazottja a gazdálkodó szervezet ügyeiben,
+- e) a vállalkozás ügyintézésre jogosult tagja vagy alkalmazottja a vállalkozás ügyeiben,
 - f) az adott gazdasági tevékenységben érintettek érdekképviseleti szervezete,
 - g) akit erre jogszabály feljogosít.
 
@@ -1118,7 +1118,7 @@ terjedhet.
 - b) követelheti a jogsértés abbahagyását és a jogsértő eltiltását a további jogsértéstől,
 - c) követelheti, hogy a jogsértő – nyilatkozattal vagy más megfelelő módon – adjon elégtételt, és szükség esetén a jogsértő részéről vagy költségén az elégtételnek megfelelő nyilvánosságot biztosítsanak,
 - d) követelheti a sérelmes helyzet megszüntetését, a jogsértést megelőző állapot helyreállítását, továbbá a jogsértéssel előállított vagy forgalomba hozott áruk jogsértő jellegétől való megfosztását, vagy – ha ez nem lehetséges – megsemmisítését, továbbá az előállításra szolgáló különleges eszközök megsemmisítését,
-- e) kártérítést követelhet a polgári jog szabályai szerint, illetve
+- e) kártérítést és – személyiségi joga megsértése esetén – sérelemdíjat követelhet a polgári jog szabályai szerint, illetve
 - f)
 - g) követelheti, hogy a jogsértő szolgáltasson adatot a jogsértéssel érintett áruk előállításában, forgalmazásában résztvevőkről, valamint az ilyen áruk terjesztésére kialakított üzleti kapcsolatokról.
 

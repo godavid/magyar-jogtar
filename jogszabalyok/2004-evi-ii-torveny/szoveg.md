@@ -10,7 +10,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 
 1. § (1) A törvény hatálya a magyar, illetve a magyar részvétellel készülő filmalkotások előállítására, terjesztésére és archiválására, valamint a magyarországi filmterjesztésre terjed ki.
 
-(2) E törvény hatálya nem terjed ki a gazdálkodó és egyéb szervezetek, továbbá az állami szervek által feladataik ellátása céljából, kizárólag belső használatára készített audiovizuális alkotásaira, továbbá a külön törvényben meghatározott audiovizuális médiaszolgáltatási tevékenységre, valamint a játék céljára forgalomba hozott multimédia alkotásokra.
+(2) E törvény hatálya nem terjed ki a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet) és egyéb szervezetek, továbbá az állami szervek által feladataik ellátása céljából, kizárólag belső használatára készített audiovizuális alkotásaira, továbbá a külön törvényben meghatározott audiovizuális médiaszolgáltatási tevékenységre, valamint a játék céljára forgalomba hozott multimédia alkotásokra.
 
 (3) E törvényt kell alkalmazni a mozgóképszakmai célok megvalósulását szolgáló támogatásokra, ha azok forrása a központi költségvetésről szóló törvényben, helyi önkormányzat vagy nemzetiségi önkormányzat költségvetésében meghatározott előirányzat, vagy ha a támogatást a Kormány, a helyi vagy nemzetiségi önkormányzat által alapított alapítvány vagy közalapítvány nyújtja.
 
@@ -21,8 +21,8 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 1. mozgóképszakma: a mozgóképkultúra, illetve a mozgóképipar körébe tartozó tevékenységek, valamint az ilyen tevékenységeket végző személyek összessége;
 - 2. filmalkotás: a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort, és a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilmet;
 - 3. film alkotói: a filmalkotás céljára készült irodalmi és zeneművek szerzői, a filmalkotás rendezője és mindazok, akik a filmalkotás egészének kialakításához alkotó módon járultak hozzá, továbbá a filmalkotásban felhasznált egyéb művek szerzői;
-- 4. filmelőállító: az a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely saját nevében kezdeményezi és megszervezi a filmalkotás megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről, és rendelkezik a filmalkotás felhasználására és a felhasználás engedélyezésére vonatkozó jogokkal;
-- 5. magyar filmelőállító: olyan filmelőállító, amely magyarországi székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság és vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely ország állampolgára, és benne ezen országok állampolgárai vagy jogi személyei rendelkeznek többségi irányítást biztosító befolyással;
+- 4. filmelőállító: az a jogi személy, aki vagy amely saját nevében kezdeményezi és megszervezi a filmalkotás megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről, és rendelkezik a filmalkotás felhasználására és a felhasználás engedélyezésére vonatkozó jogokkal;
+- 5. magyar filmelőállító: olyan filmelőállító, amely magyarországi székhellyel rendelkező jogi személy és vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely ország állampolgára, és benne ezen országok állampolgárai vagy jogi személyei rendelkeznek többségi befolyással;
 - 6. nemzetközi koprodukciós filmalkotás: különböző államokban székhellyel rendelkező filmelőállítók által készített filmalkotás, amelyet két- vagy többoldalú nemzetközi egyezmény vagy az érintett államok jogszabályai ilyennek minősítenek;
 - 6a. koprodukciós filmalkotás: olyan magyar filmelőállítók által közösen készített filmalkotás, amelyben a filmelőállítók filmalkotásra vonatkozó jogait és kötelezettségeit koprodukciós szerződés rögzíti;
 - 6b. egyéb nemzetközi koprodukciós filmalkotás: különböző államokban székhellyel rendelkező filmelőállítók által készített filmalkotás, amely nem tartozik két- vagy többoldalú nemzetközi egyezmény hatálya alá, de a filmelőállítók jogait és kötelezettségeit koprodukciós szerződés rögzíti és a filmalkotás Magyarországon csak közvetett támogatást vesz igénybe;
@@ -48,7 +48,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 18. filmterjesztő: filmterjesztéssel üzletszerűen foglalkozó gazdasági társaság vagy egyéb szervezet;
 - 19. filmterv fejlesztés: filmterv és forgatókönyv létrejöttét, eladhatóságát és eladását, illetve megvalósíthatóságát és későbbi megvalósítását célzó kutatói, alkotói, tervezési és szervezési munkák összessége;
 - 20. filmgyártás: a filmgyártás előkészítésétől a filmalkotás első eredeti példányának előállításáig vezető alkotói, szervezési, gazdasági és műszaki tevékenységek összessége; az első eredeti példány az első, közönség előtti bemutatásra alkalmas végleges kópia;
-- 20a. filmgyártó vállalkozás: az a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amely a film gyártására vonatkozó szerződés alapján szervezi a filmalkotás megvalósítását, és ezen tevékenysége révén az adott film tekintetében nem minősül filmelőállítónak;
+- 20a. filmgyártó vállalkozás: az a jogi személy, amely a film gyártására vonatkozó szerződés alapján szervezi a filmalkotás megvalósítását, és ezen tevékenysége révén az adott film tekintetében nem minősül filmelőállítónak;
 - 20b. magyar filmgyártó vállalkozás: a mozgóképszakmai hatóság nyilvántartásába vett, magyarországi székhellyel rendelkező filmgyártó vállalkozás, amely vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely országnak az állampolgára;
 - 21. filmgyártás-előkészítés: a filmforgatás megkezdését megelőző, közvetlenül annak anyagi, műszaki, szervezési feltételeinek biztosítását célzó alkotó- és szervező tevékenység;
 - 22.
@@ -167,7 +167,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 
 8. § (1) Az MNF az e törvényben meghatározott rendelkezések szerint végzi a mozgóképszakmai célokra előirányzott források elosztását.
 
-(2) Az MNF a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) által alapított egyszemélyes közhasznú nonprofit zártkörűen működő részvénytársaság, amelynek részvénye forgalomképtelen. Az MNF alapító okiratát az MNV Zrt. fogadja el.
+(2) Az MNF a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) által alapított egyszemélyes közhasznú nonprofit zártkörűen működő részvénytársaság, amelynek részvénye forgalomképtelen. Az MNF alapszabályát az MNV Zrt. fogadja el.
 
 9. § (1) Az MNF vezetője a vezérigazgató.
 
@@ -203,7 +203,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó koncepciók elkészítése,
 - i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján.
 
-(2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapító okiratában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a honlapján közzéteszi.
+(2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapszabályában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a honlapján közzéteszi.
 
 ### 3. CÍM — Mozgókép Koordinációs Tanács
 
@@ -301,7 +301,7 @@ az időpontja.
 - f) az a gazdálkodó szervezet, amelynek tulajdonosai között olyan gazdálkodó szervezet van, amely a támogatási igény benyújtását megelőző három évben felhasznált közvetlen támogatással a támogatóval szemben nem számolt el, vagy elszámolását a támogató nem fogadta el,
 - g) aki ellen csőd-, felszámolási vagy végelszámolási eljárás van folyamatban,
 - h) aki a rendezett munkaügyi kapcsolatok jogszabályban meghatározott feltételeinek nem felel meg,
-- i) valamely EGT-államban székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amely legkésőbb az e törvény szerinti támogatás folyósításakor nem rendelkezik magyarországi telephellyel.
+- i) valamely EGT-államban székhellyel rendelkező jogi személy, amely legkésőbb az e törvény szerinti támogatás folyósításakor nem rendelkezik magyarországi telephellyel.
 
 (4) A támogató a (3) bekezdés d) pontjában meghatározott kizáró feltétel alól legkorábban a beszámolási határidő lejártát követő három év elteltével adhat felmentést. Lejárt, teljesítetlen fizetési kötelezettség esetén ilyen felmentés a kötelezettség teljesítéséig nem adható.
 
@@ -309,17 +309,15 @@ az időpontja.
 
 (6) Közvetlen támogatás kizárólag a támogatott és a támogató közötti szerződéskötést követően nyújtható. Ha a támogatott szerződésszegése folytán a támogatott cél nem valósul meg, a támogatás összegét a támogatott köteles a támogatónak visszafizetni.
 
-14/A. § (1) Nem nyújtható közvetlen támogatás a támogató támogatásokról döntő tisztségviselőinek, valamint ezek a Ptk. 685. § b) pontjában felsorolt közeli hozzátartozóinak, továbbá olyan pályázó szervezetnek, amelyben a fenti személyek képviseletre jogosult vezető tisztségviselők, vagy abban a gazdasági társaságokról szóló 1997. évi CXLIV. törvény szerint jelentős befolyást biztosító tulajdoni részesedéssel rendelkeznek.
+14/A. § (1) Nem nyújtható közvetlen támogatás a támogató támogatásokról döntő tisztségviselőjének, valamint annak a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozójának (a továbbiakban: közeli hozzátartozó), továbbá olyan pályázó szervezetnek, amelyben a fenti személy képviseletre jogosult vezető tisztségviselő, vagy abban a Ptk.-nak a gazdasági társaságokra vonatkozó rendelkezései szerint többségi befolyást biztosító tulajdoni részesedéssel rendelkezik.
 
-(2) A támogató szervezet támogatásokról döntő, vagy a támogatásra javaslatot tevő tisztségviselője nem vehet részt a pályázat vagy a támogatási kérelem elbírálásában, ha a pályázatban (támogatási kérelemben) érintett filmalkotásnak ő, vagy a Ptk. 685. § b) pontjában felsorolt közeli hozzátartozója az Szjt. szerinti szerzője, vagy ha a pályázóval (kérelmezővel) ő vagy a Ptk. 685. § b) pontjában felsorolt közeli hozzátartozója munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, vagy a pályázó számára olyan gazdasági társaságon keresztül nyújt szolgáltatást, amelynek tagja vagy részvényese.
+(2) A támogató szervezet támogatásokról döntő vagy a támogatásra javaslatot tevő tisztségviselője nem vehet részt a pályázat vagy a támogatási kérelem elbírálásában, ha a pályázatban (támogatási kérelemben) érintett filmalkotásnak ő vagy a közeli hozzátartozója az Szjt. szerinti szerzője vagy ha a pályázóval (kérelmezővel) ő vagy a közeli hozzátartozója munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll vagy a pályázó számára olyan gazdasági társaságon keresztül nyújt szolgáltatást, amelynek tagja vagy részvényese.
 
-(3) A támogató támogatásokról döntő, vagy a támogatásra javaslatot tevő tisztségviselője, valamint annak a Ptk. 685. § b) pontjában felsorolt közeli hozzátartozója részére a támogatott filmalkotással kapcsolatos, tisztségviselői megbízatása alatt végzett, (2) bekezdésben meghatározott tevékenysége után nyújtott díjazás a támogatás terhére nem számolható el.
+(3) A támogató támogatásokról döntő vagy a támogatásra javaslatot tevő tisztségviselője, valamint annak a közeli hozzátartozója részére a támogatott filmalkotással kapcsolatos, tisztségviselői megbízatása alatt végzett, (2) bekezdésben meghatározott tevékenysége után nyújtott díjazás a támogatás terhére nem számolható el.
 
-(4) A támogató támogatásokról javaslatot tevő tisztségviselőinek a pályázóval kapcsolatos személyi érintettségére vonatkozó körülményt a döntési javaslattal együtt közölni kell a támogató döntéshozóival.
+(4) Az összeférhetetlenségről a pályázat elbírálását megelőzően az érintett tisztségviselőnek írásban nyilatkoznia kell. Ha az érintett vezető vagy javaslattevő tisztségviselő az összeférhetetlenség kérdésében valótlanul nyilatkozik vagy valótlan adatot szolgáltat, megbízatása a törvény erejénél fogva megszűnik.
 
-(5) Az összeférhetetlenségről a pályázat elbírálását megelőzően az érintett tisztségviselőnek írásban nyilatkoznia kell. Ha az érintett vezető, vagy javaslattevő tisztségviselő az összeférhetetlenség kérdésében valótlanul nyilatkozik, vagy valótlan adatot szolgáltat, megbízatása a törvény erejénél fogva megszűnik.
-
-(6) Ha törvény az adott támogatóra eltérő összeférhetetlenségi szabályt állapít meg, a két szabály közül a szigorúbbat kell alkalmazni. E törvény alkalmazásában az MNF vezérigazgatója, valamint az MNF Filmszakmai Döntőbizottságának tagjai támogatásokról döntő tisztségviselőnek minősülnek.
+(5) Ha törvény az adott támogatóra eltérő összeférhetetlenségi szabályt állapít meg, a két szabály közül a szigorúbbat kell alkalmazni. E törvény alkalmazásában az MNF vezérigazgatója, valamint az MNF Filmszakmai Döntőbizottságának tagjai támogatásokról döntő tisztségviselőnek minősülnek.
 
 15. § (1) Közvetlen támogatás a 12. § (3) bekezdésének a)–e) pontjaiban meghatározott tevékenységek esetében – az (1a) bekezdésben foglalt kivétellel – pályázat útján nyújtható. Ha a törvény másként nem rendelkezik, a támogató a támogatási szabályzatában meghatározott mértékig és feltételek mellett egyedi támogatást is nyújthat, ha a pályázati úton előzőleg kiválasztott célok megvalósítása másként nem biztosítható.
 
@@ -410,7 +408,7 @@ az időpontja.
 
 19/C. § (1) A Hatóság e törvényben foglalt hatásköreiben az Elnök rendeletben meghatározhatja azon eljárások körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás.
 
-(2) A kizárólag jogi személyt vagy jogi személyiség nélküli gazdasági társaságot, vagy egyéb szervezetet érintő eljárásokban elektronikus kapcsolattartás kizárólagosan írható elő.
+(2) A kizárólag jogi személyt vagy egyéb szervezetet érintő eljárásokban elektronikus kapcsolattartás kizárólagosan írható elő.
 
 (3) Természetes személyeket érintő eljárásokban elektronikus kapcsolattartás kizárólagosan nem írható elő.
 
@@ -712,7 +710,7 @@ az időpontja.
 
 ### Mozgóképszakmai szervezetek és természetes személyek nyilvántartása
 
-28. § (1) Nyilvántartásba vételét a magyar állampolgár, illetve a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy, a Magyarország területén vagy valamely EGT-államban székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság kérheti, ha az e törvény szerinti támogatást kíván igénybe venni. A mozgóképszakmai szervezetek és természetes személyek nyilvántartásba vételi eljárása kizárólag kérelemre indulhat. A nyilvántartásba vétel az e törvény szerinti támogatás nyújtásának feltétele. Nem feltétele a támogatás nyújtásának a nyilvántartásba vétel azon szervezetek és intézmények esetében, amelyek kizárólag oktatási, könyvtári, illetve közgyűjteményi feladataik ellátása érdekében végeznek filmterjesztési tevékenységet, kivéve a kifejezetten mozgóképszakmai tárgyú közgyűjteményeket. Ezen szervezeteknek a támogatás igénylésekor nyilatkozniuk kell arról, hogy a 28. § (7) bekezdése szerinti kizáró feltételek velük szemben nem állnak fenn.
+28. § (1) Nyilvántartásba vételét a magyar állampolgár, illetve a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy, a Magyarország területén vagy valamely EGT-államban székhellyel rendelkező jogi személy kérheti, ha az e törvény szerinti támogatást kíván igénybe venni. A mozgóképszakmai szervezetek és természetes személyek nyilvántartásba vételi eljárása kizárólag kérelemre indulhat. A nyilvántartásba vétel az e törvény szerinti támogatás nyújtásának feltétele. Nem feltétele a támogatás nyújtásának a nyilvántartásba vétel azon szervezetek és intézmények esetében, amelyek kizárólag oktatási, könyvtári, illetve közgyűjteményi feladataik ellátása érdekében végeznek filmterjesztési tevékenységet, kivéve a kifejezetten mozgóképszakmai tárgyú közgyűjteményeket. Ezen szervezeteknek a támogatás igénylésekor nyilatkozniuk kell arról, hogy a 28. § (7) bekezdése szerinti kizáró feltételek velük szemben nem állnak fenn.
 
 (2) Ha a nyilvántartásba vételt mozgóképszakmai szervezet kéri, a nyilvántartásba vételi kérelemnek tartalmaznia kell a támogatást igénylő nevét, székhelyét, cégjegyzékszámát vagy bírósági nyilvántartási számát, adószámát, képviselője nevét és lakóhelyét, valamint tulajdonosát vagy alapítóját.
 

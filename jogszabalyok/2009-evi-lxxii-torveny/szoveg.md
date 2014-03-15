@@ -15,9 +15,9 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 
 (3) Bántalmazó az a cselekvőképes hozzátartozó, aki a hozzátartozók közötti erőszakot megvalósítja, vagy akire tekintettel a hozzátartozók közötti erőszakot más megvalósítja, feltéve, hogy ezzel a bántalmazó egyetért.
 
-(4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 12. §-a szerinti kiskorút.
+(4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott kiskorút.
 
-(5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.
+(5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk.-ban meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt élettársat, a bejegyzett élettársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.
 
 (6) E törvény alkalmazásában a napokban megállapított határidő folyamatosságot jelent.
 
@@ -99,7 +99,7 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 (2) A rendőrség az ideiglenes megelőző távoltartást
 
 - a) helyszíni intézkedése során észlelt hozzátartozók közötti erőszakra vonatkozó tények alapján hivatalból,
-- b) a bántalmazott, illetve a bántalmazottnak a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozója és hozzátartozója bejelentése,
+- b) a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa bejelentése,
 - c) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személynek a – feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése,
 - d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint a gyermekvédelmi rendszerhez kapcsolódó feladatokat ellátó egészségügyi szolgáltatást nyújtónak, személyes gondoskodást nyújtó szolgáltatónak, közoktatási intézménynek a – gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében törvényben meghatározott feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése
 
@@ -176,7 +176,7 @@ alapján rendelheti el.
 
 (6) Az eljárásban nem járhat el bírósági titkár.
 
-14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozója és hozzátartozója is kérelmezheti.
+14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti.
 
 (2) Hivatalból indított eljárásban a rendőrség, a megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás kezdeményezése esetén a családvédelmi koordinációért felelős szerv, valamennyi rendelkezésére álló iratot, dokumentumot a bíróság rendelkezésére bocsátja.
 
@@ -190,11 +190,13 @@ alapján rendelheti el.
 
 (4) A kérelmet írásban lehet előterjeszteni, vagy az illetékes bíróságon jegyzőkönyvbe lehet mondani.
 
-15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni.
+15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén faxon vagy elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
 
 (2) Hivatalból indult eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
 
 (3) Kérelemre indult eljárásban, ha a bántalmazott kérelmező személyesen nem jelenik meg és távolmaradását alapos indokkal nem menti ki, továbbá ha a kérelem nem tartalmazza a 14. § (3) bekezdésében meghatározottakat, a bíróság az eljárást megszünteti. Kérelemre indult eljárásban nem akadálya a döntés meghozatalának az, ha a bántalmazó nem jelenik meg személyesen a meghallgatáson.
+
+(3a) A (2) és (3) bekezdésben foglaltakra a feleket a személyes meghallgatásra szóló idézésben figyelmeztetni kell.
 
 (4) Az eljárásban hiánypótlásnak csak kérelemre indult eljárásban, rendkívül indokolt esetben, a kérelem hiányossága esetén van helye. Ebben az esetben a bíróság a kérelem beérkezésétől számított egy napon belül felhívja a feleket hiánypótlásra.
 
@@ -202,17 +204,27 @@ alapján rendelheti el.
 
 (6) Az eljárást hivatalból indult eljárás esetén a rendőrség által elrendelt ideiglenes megelőző távoltartás kezdő időpontjától számított három napon belül, kérelemre indult eljárás esetén a kérelem beérkezésétől számított három munkanapon belül le kell folytatni.
 
+(7) A személyes meghallgatáson a bíróság – a rendőrségi iratokban vagy a kérelemben foglaltakra, így különösen a hozzátartozók közötti erőszak módjára, rendszerességére, a bántalmazott kiszolgáltatott helyzetére figyelemmel – a bántalmazott és a bántalmazó egymás jelenlétében való meghallgatását részben vagy teljes egészében mellőzheti. Indokolt esetben a bíróság gondoskodik annak megakadályozásáról is, hogy a bántalmazott és a bántalmazó a bíróság épületében személyesen találkozzon. A határozat közlésére ez esetben is a 16. § (3) bekezdését kell megfelelően alkalmazni.
+
 16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
 
-(2) A megelőző távoltartást a bíróság legfeljebb harminc napra rendelheti el.
+(2) A megelőző távoltartást a bíróság legfeljebb hatvan napra rendelheti el.
 
-(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni.
+(2a) A bíróság határozata előzetesen végrehajtható. A bíróság határozatában arra is figyelmezteti a bántalmazót, hogy a távoltartó határozat szabályainak megszegése elzárással is büntethető szabálysértést valósít meg.
+
+(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén faxon vagy elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
 
 (4) A rendőrség által elrendelt ideiglenes megelőző távoltartás hatálya a bíróság által elrendelt megelőző távoltartás hatályának beálltával megszűnik.
 
 (5) A rendőrség által elrendelt ideiglenes megelőző távoltartás hatálya akkor is megszűnik, ha a bíróság nem rendeli el a megelőző távoltartást.
 
 (6) A határozatban foglaltak nemteljesítése esetén bírósági végrehajtásnak nincs helye.
+
+(7) A bíróság határozata ellen a közléstől számított három munkanapon belül van helye fellebbezésnek. A fellebbezést az arra jogosult a személyes meghallgatáson szóban is bejelentheti.
+
+(8) Fellebbezés bejelentése esetében az elsőfokú bíróság – ha a fellebbezési határidő valamennyi fellebbezésre jogosultra letelt – az iratokat haladéktalanul felterjeszti a másodfokú bírósághoz. A felek a fellebbezésre észrevételeiket az iratok felterjesztéséig az elsőfokú bíróságnál, az iratok felterjesztését követően a másodfokú bíróságnál tehetik meg. Ha a fél a fellebbezésre vonatkozó észrevételét az iratok felterjesztését követően az elsőfokú bírósághoz nyújtja be, az elsőfokú bíróság azt haladéktalanul továbbítja a másodfokú bírósághoz.
+
+(9) A másodfokú bíróság a fellebbezést az iratok alapján 3 munkanapon belül bírálja el. Az elsőfokú határozat hatályon kívül helyezésének a Pp. 252. § (2) és (3) bekezdése alapján nincs helye. A másodfokú bíróság határozatát a rendőrség útján közli a felekkel.
 
 17. § Ha polgári perben ideiglenes megelőző távoltartásra okot adó körülményt észlel a bíróság, az e tényre vonatkozó adatokat – soron kívül – közli a rendőrséggel.
 

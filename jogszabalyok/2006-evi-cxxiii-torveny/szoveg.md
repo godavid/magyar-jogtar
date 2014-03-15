@@ -73,7 +73,7 @@ indul meg.
 
 (5) Ha a sértett diplomáciai vagy a nemzetközi jogon alapuló más mentességet élvező személy, az ügyész, illetve a bíróság a 6. § a), illetve b) pontja szerinti határozat meghozatala előtt a külpolitikáért felelős miniszter útján szerzi be a sértett közvetítői eljárást megalapozó nyilatkozatát.
 
-8. § (1) Ha a sértett korlátozottan cselekvőképes, a közvetítői eljárásban a törvényes képviselő részvétele kötelező, ha a sértett cselekvőképtelen, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el, érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
+8. § (1) A közvetítői eljárásban a törvényes képviselő részvétele kötelező, ha a sértett korlátozottan cselekvőképes kiskorú vagy a személyes, illetve a vagyoni ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú. Ha a sértett cselekvőképtelen, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el. Érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
 
 (2) Ha a büntetőeljárásban a nyomozó hatóság, az ügyész, illetőleg a bíróság elrendelte, hogy a tanúként kihallgatott sértett személyi adatait [Be. 85. § (2) bek.] az iratok között elkülönítve, zártan kezeljék, a Be. 96. §-ának rendelkezései a közvetítői eljárásban is irányadók.
 
@@ -109,7 +109,7 @@ indul meg.
 
 (4) Ha a közvetítő a sértettet és a terheltet egymás távollétében hallgatja meg, az így kapott tájékoztatást közölheti a közvetítői eljárásban részt vevő más sértettel, terhelttel, ezek képviselőjével, azért, hogy az így tájékoztatást kapó sértett vagy terhelt ennek figyelembevételével álláspontját kialakíthassa, előadhassa, kivéve, ha a tájékoztatást adó sértett vagy terhelt akként nyilatkozik, hogy a tájékoztatás nem hozható más sértett, terhelt vagy képviselő tudomására.
 
-(5) Ha a sértett korlátozottan cselekvőképes, őt a közvetítő meghallgatja, és a terhelt a nyilatkozatát ebben az esetben is közvetlenül a sértetthez intézi. A korlátozottan cselekvőképes sértett meghallgatásánál a törvényes képviselőnek jelen kell lennie.
+(5) Ha a sértett korlátozottan cselekvőképes kiskorú vagy a személyes, illetve a vagyoni ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú, őt a közvetítő meghallgatja, és a terhelt a nyilatkozatát ebben az esetben is közvetlenül a sértetthez intézi. A korlátozottan cselekvőképes kiskorú vagy a személyes, illetve a vagyoni ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú sértett meghallgatásánál a törvényes képviselőnek jelen kell lennie.
 
 (6) A sértettnek – ha a törvényes képviselet kötelező, a törvényes képviselőnek is – és a terheltnek, nem természetes személy sértett esetében pedig a képviseletére feljogosított személynek a megállapodás megkötésekor és aláírásakor személyesen, együttesen meg kell jelenniük. A jogi képviselő távolmaradása a közvetítői megbeszélés megtartásának nem akadálya, de a sértett, illetve a terhelt kérelmére a megbeszélést más időpontra kell kitűzni.
 

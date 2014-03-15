@@ -39,7 +39,7 @@ az igazságügyi szakértői tevékenységről
 - b) a kérelmében megjelölt szakterületen az igazságügyi szakértői tevékenység folytatásához meghatározott vagy azzal egyenértékű képesítéssel és – ha jogszabály eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább ötéves szakirányú szakmai gyakorlattal rendelkezik,
 - c) a szakterületén működő szakmai kamara tagja, ha a tevékenység folytatásához a kötelező kamarai tagságot jogszabály előírja,
 - d) kötelezettséget vállal arra, hogy a hatósági kirendelésnek – a jogszabályban meghatározott eseteket kivéve – eleget tesz,
-- e) cselekvőképes, és nem áll közügyektől való eltiltás hatálya alatt,
+- e) nem áll cselekvőképességet érintő gondnokság, támogatott döntéshozatal és közügyektől való eltiltás hatálya alatt,
 - f) a névjegyzékbe való felvételét követően tagja – törvény eltérő rendelkezésének hiányában – a lakóhelye szerint illetékes területi igazságügyi szakértői kamarának (a továbbiakban: szakértői kamara).
 
 (4) Nem vehető fel az igazságügyi szakértői névjegyzékbe az, akivel szemben büntetőeljárás – magánvád és a pótmagánvád esetét kivéve – van folyamatban.

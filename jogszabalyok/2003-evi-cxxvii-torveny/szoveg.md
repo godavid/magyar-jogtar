@@ -810,7 +810,7 @@ is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélye
 
 (2) A 27. § (1)–(2) bekezdése, a 28. § (1) bekezdése és e § (1) bekezdése rendelkezésének alkalmazása során annak megítéléséhez, hogy a belföldre behozott, illetve belföldről kivitt jövedéki termék kereskedelmi célú vagy magánszemély saját felhasználására szolgál, az alábbiakat együttesen, valamint a (3) bekezdésben foglaltakat kell figyelembe venni:
 
-- a) a jövedéki termék tulajdonosa az adott jövedéki termékkel gazdasági tevékenységet folytató gazdálkodó szervezet-e [a Polgári Törvénykönyvről szóló, többször módosított 1959. évi IV. törvény 685. § c) pont (a továbbiakban: gazdálkodó szervezet)];
+- a) a jövedéki termék tulajdonosa olyan, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet), amely az adott jövedéki termékkel folytat gazdasági tevékenységet;
 - b) a birtokban tartás indoka;
 - c) a szállítás módja, a birtokban tartás, illetve tárolás helye;
 - d) a jövedéki termék bizonylatai;
@@ -2270,7 +2270,7 @@ valamint rendelkezik a tevékenysége folytatásához külön jogszabály(ok)ban
 
 (5) A vámhatóság az egyszerűsített adóraktári engedélyt a kérelem benyújtásától számított hatvan napon belül bírálja el.
 
-(6) A szőlőterületet művelő azon közeli hozzátartozók (a továbbiakban: családtagok közössége), akik a saját művelésükben lévő szőlőterületen termelt szőlőből a szőlőbor előállítását, tárolását ugyanazon a közösen használt, adóraktárnak minősíthető helyen (a továbbiakban: közös adóraktár) végzik, e tevékenységüket egy egyszerűsített adóraktári engedéllyel folytathatják. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
+(6) A szőlőterületet művelő azon Polgári Törvénykönyv szerinti közeli hozzátartozók, valamint az élettársak (a továbbiakban: családtagok közössége), akik a saját művelésükben lévő szőlőterületen termelt szőlőből a szőlőbor előállítását, tárolását ugyanazon a közösen használt, adóraktárnak minősíthető helyen (a továbbiakban: közös adóraktár) végzik, e tevékenységüket egy egyszerűsített adóraktári engedéllyel folytathatják. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
 
 (7) Az egyszerűsített adóraktárban kizárólag szőlőbort, valamint az (1) bekezdés szerinti pezsgőt lehet előállítani, palackozni (kiszerelni), tárolni, raktározni.
 
@@ -3071,7 +3071,7 @@ büntetendő.
 
 (3) Ismételt elkövetésnek minősül, ha két egymást követő ugyanolyan jogsértés elkövetése – amennyiben annak pontos időpontja nem állapítható meg, feltárása – között nem telt el 3 év.
 
-116/B. § (1) Az adózás alól elvont termék, a hamis, hamisított vagy jogtalanul megszerzett zárjegy, adójegy, hivatalos zár, a cukorcefre, illetve az abból jogosulatlanul előállított alkoholtermék vagy a 2204, 2205, 2206 vámtarifaszám alá tartozó termék, a jogosulatlanul értékesített borászati melléktermék, a jövedéki termék előállítására alkalmas, jogosulatlanul előállított, értékesített desztillálóberendezés, főzőüst, forralóüst, gép vagy egyéb eszköz, a jogosulatlanul átadott, értékesített, megvásárolt szárított dohány, vagy fermentált dohány, illetve a jogosulatlanul értékesített cigarettapapír, cigarettahüvely, vagy dohánylevél-töltő több természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság vagy egyéni cég általi együttes birtokolása és/vagy szállítása esetén a jövedéki bírság megfizetésére valamennyi birtokos személy egyetemlegesen kötelezhető (a továbbiakban: társkötelezett).
+116/B. § (1) Az adózás alól elvont termék, a hamis, hamisított vagy jogtalanul megszerzett zárjegy, adójegy, hivatalos zár, a cukorcefre, illetve az abból jogosulatlanul előállított alkoholtermék vagy a 2204, 2205, 2206 vámtarifaszám alá tartozó termék, a jogosulatlanul értékesített borászati melléktermék, a jövedéki termék előállítására alkalmas, jogosulatlanul előállított, értékesített desztillálóberendezés, főzőüst, forralóüst, gép vagy egyéb eszköz, a jogosulatlanul átadott, értékesített, megvásárolt szárított dohány, vagy fermentált dohány, illetve a jogosulatlanul értékesített cigarettapapír, cigarettahüvely, vagy dohánylevél-töltő több természetes személy, jogi személy vagy egyéni cég általi együttes birtokolása és/vagy szállítása esetén a jövedéki bírság megfizetésére valamennyi birtokos személy egyetemlegesen kötelezhető (a továbbiakban: társkötelezett).
 
 (2) A vámhatóság a kiszabott jövedéki bírság megfizetését bármelyik társkötelezettől vagy mindegyiküktől együttesen is követelheti. Amennyiben a társkötelezettek bármelyike a jövedéki bírságot megfizeti, a többi társkötelezett bírságfizetési kötelezettsége is megszűnik.
 

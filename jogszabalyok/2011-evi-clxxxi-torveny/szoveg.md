@@ -28,9 +28,9 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - a) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Ectv.) alapján létrehozott egyesületet,
 - b) az Ectv. alapján létrehozott és a pártok működéséről és gazdálkodásáról szóló törvény szerint működő pártot,
 - c) az Ectv. alapján létrehozott és a sportról szóló törvény alapján működő szervezetet,
-- d) a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) alapján létrehozott és a sportról szóló törvény alapján működő országos sportági szakszövetséget,
-- e) a Ptk. alapján külön törvénnyel létrehozott köztestületet, ha a külön törvény eltérően nem rendelkezik,
-- f) a Ptk. alapján alapított alapítványt és közalapítványt,
+- d) a sportról szóló törvény alapján működő országos sportági szakszövetséget,
+- e) a törvénnyel létrehozott köztestületet, ha a törvény eltérően nem rendelkezik,
+- f) az alapítványt, a közalapítványt,
 - g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény alapján alapított magánnyugdíjpénztárt,
 - h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény szerint alapított önkéntes kölcsönös biztosító pénztárt és az átalakulással létrejövő vegyes nyugdíjpénztárt,
 - i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint létrehozott a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapját,
@@ -70,7 +70,22 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 (2)
 
-18. §
+#### 5/A. A bíróság egyes speciális feladatai
+
+18. § (1) A szervezet volt vezető tisztségviselője kérheti a bíróságtól annak nyilvántartásba való bejegyzését, hogy vezető tisztségviselői megbízatásáról való lemondása a Polgári Törvénykönyv (a továbbiakban: Ptk.) 3:25. § (4) bekezdésében meghatározott hatvan nap elteltével hatályossá vált, ha az adat módosítása iránt változásbejegyzési eljárás nincs folyamatban. A kérelemről a szervezet nyilvántartását vezető bíróság nemperes eljárásban határoz.
+
+(2) A kérelemhez csatolni kell:
+
+- a) a lemondó nyilatkozat másolatát és
+- b) a lemondás joghatályos közlését igazoló iratot.
+
+(3) Az eljárás során hozott végzéseket a szervezetnek is kézbesíteni kell. A bíróság a szabályszerűen előterjesztett kérelemről haladéktalanul értesíti az ügyészséget vagy – ha a szervezet felett nem az ügyészség lát el törvényességi ellenőrzést, hanem más szervezet lát el törvényességi felügyeletet – a törvényességi felügyeletet ellátó szervet.
+
+18/A. § (1) Ha jogszabály rendelkezése alapján a szervezet közlemény vagy egyéb irat közzétételére köteles, a szervezetnek a nyilvántartását vezető bíróság részére kell megküldenie azokat a közleményeket és egyéb iratokat, amelynek közzétételére törvény rendelkezése alapján köteles.
+
+(2) Ha a bíróság részére megküldött iratok megfelelőek, a bíróság azokat jogszabályban meghatározott módon, közzététel céljából továbbítja az OBH részére.
+
+(3) Az OBH a (2) bekezdés alapján részére megküldött iratokat az országos névjegyzék erre szolgáló felületén a bíróságok központi internetes oldalán teszi közzé.
 
 #### 6. Egyéb általános szabályok
 
@@ -139,6 +154,17 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 (3) A létesítő okirat módosítása esetén a változásbejegyzési kérelemhez csatolni kell a létesítő okirat változásokkal egységes szerkezetbe foglalt szövegét is.
 
+24/A. § (1) A jogi személy szervezeti egység jogi személyiségének megszűnése esetén a jogi személy szervezeti egység törlése iránti kérelmet változásbejegyzési kérelemként kell benyújtani.
+
+(2) A kérelemhez csatolni kell a jogi személy szervezeti egység jogi személyiségének megszűnéséről szóló döntést tartalmazó okiratot is.
+
+(3) Ha a kérelem áttételének, hivatalból történő elutasításának vagy hiánypótlásnak nincs helye, a bíróság – külön jogszabályban meghatározott módon – az OBH útján az országos névjegyzék részeként, a bíróságok központi internetes oldalán közzéteszi
+
+- a) a jogi személy szervezeti egység jogi személyiségének megszűnéséről szóló döntésről szóló okiratot és
+- b) azt a felhívást, hogy az a hitelező, akinek követelése a döntés közzététele előtt keletkezett, a közzétételtől számított harmincnapos jogvesztő határidőn belül a szervezettől megfelelő biztosítékot követelhet, ha követelésének kielégítését a szervezeti egység jogi személyiségének megszűnése veszélyezteti.
+
+(4) A bíróság a jogi személy szervezeti egységet a nyilvántartásból akkor törli, ha a szervezet a harmincnapos jogvesztő határidő elteltét követően bejelenti, hogy biztosíték adására nem hívták fel, vagy csatolja azt az okiratot, amely szerint a hitelező a felajánlott biztosítékot megfelelőként elfogadta.
+
 #### 9. A nyilvántartásból való törlés iránti kérelem és a kérelemhez csatolandó iratok
 
 25. § A nyilvántartásból való törlés iránti kérelemnek – ha a szervezet jogutód nélküli megszűnését határozta el – tartalmaznia kell:
@@ -154,7 +180,13 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - b) a szervezet legfőbb szervének a szervezet megszűnését elhatározó ülése jelenléti ívét a jelenlévő tagok nevével, lakóhelyével (székhelyével), aláírásával, képviselet esetén a képviseleti minőség feltüntetésével,
 - c) azokat az okiratokat, nyilatkozatokat, amelynek alapján megállapítható, hogy a szervezet nyilvántartásból való törlésének törvényi feltételei bekövetkeztek.
 
-27. § Végelszámolás lefolytatása esetén a kérelemhez csatolni kell a végelszámolás eredményes befejezését igazoló okiratot.
+27. § Végelszámolás lefolytatása esetén a kérelemhez csatolni kell:
+
+- a) a nyugdíj-biztosítási igazgatási szerv és az állami adóhatóság igazolását a szervezet biztosítottjai adatainak átadásáról,
+- b) a szervezetnek a végelszámolás befejezésével kapcsolatos határozatait, ideértve a felügyelőbizottság, illetve a szervezet könyvvizsgálójának jelentését is,
+- c) az elfogadott zárójelentést, az utolsó üzleti év számviteli törvény szerinti beszámolóját, a vagyonfelosztási határozatot,
+- d) az engedményezéssel, tartozásátvállalással kapcsolatos okiratokat,
+- e) a végelszámoló nyilatkozatát arra vonatkozóan, hogy a szervezet a tartozásait kiegyenlítette.
 
 ### III. Fejezet — AZ E TÖRVÉNYBEN SZABÁLYOZOTT POLGÁRI NEMPERES ELJÁRÁSOK SZABÁLYAI
 
@@ -211,9 +243,11 @@ sem.
 
 #### 14. A szervezet neve, elnevezése
 
-35. § (1) Ha a nyilvántartásba vétel iránti kérelem áttételének vagy hivatalból történő elutasításának nincs helye, a bíróság hivatalból megvizsgálja, hogy a szervezet neve, elnevezése (ezen alcímben a továbbiakban együtt: neve) megfelel-e a névkizárólagosság, a névvalódiság és a névszabatosság követelményének.
+35. § (1) A bíróság a nyilvántartásba vétel iránti vagy hiánypótlás keretében benyújtott, új elnevezés bejegyzése iránti kérelem érkezését követő egy munkanapon belül a választott nevet és a kérelem benyújtásának időpontját feltünteti az országos névjegyzék részét képező, erre a célra létrehozott nyilvántartásban (a továbbiakban: névnyilvántartás). A feltüntetés ideje alatt más szervezet ezzel a névvel a szervezetek nyilvántartásába nem jegyezhető be. Ha a szervezet bejegyzésére nem kerül sor, a nevet az eljárás jogerős befejezésének napján törölni kell a névnyilvántartásból. A nevet akkor is törölni kell a névnyilvántartásból, ha a bejegyzés iránti eljárásban újabb név bejegyzését kérik. A Ptk. 3:6. §-ában meghatározott névviselési jog elsőbbsége tekintetében a Pp. 132. §-a nem alkalmazható.
 
-(2) A bíróság az (1) bekezdésben meghatározott követelményének való megfelelőséget a hiánypótlási felhívás kibocsátása előtt, ha pedig hiánypótlási felhívás kibocsátásának egyéb okból nem lenne helye, a határozat meghozatala előtt vizsgálja.
+(2) Ha a nyilvántartásba vétel iránti kérelem áttételének vagy hivatalból történő elutasításának nincs helye, a bíróság hivatalból megvizsgálja, hogy a szervezet neve, elnevezése (ezen alcímben a továbbiakban együtt: neve) megfelel-e a névkizárólagosság, a névvalódiság és a névszabatosság követelményének.
+
+(3) A bíróság a (2) bekezdésben meghatározott követelménynek való megfelelőséget a hiánypótlási felhívás kibocsátása előtt, ha pedig hiánypótlási felhívás kibocsátásának egyéb okból nem lenne helye, a határozat meghozatala előtt vizsgálja.
 
 36. § (1) A bíróság akkor állapíthatja meg, hogy a szervezet neve megfelel a névkizárólagosság követelményének, ha az különbözik az ország területén hasonló működési körben tevékenykedő, nyilvántartásba vett szervezet nevétől, a név az egyediesítésre alkalmas, azaz a megjelölés a szervezetnek sajátos, más szervezettől eltérő jelleget ad, kizárja az összetévesztés lehetőségét.
 
@@ -276,6 +310,30 @@ sem.
 
 (3) A (1) bekezdés b) pontjában meghatározott esetben a bíróság a szervezetet – kivéve, ha a szervezetre irányadó jogszabály másképp rendelkezik – a kényszer-végelszámolási eljárás vagy a felszámolási eljárás lefolytatását követően törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
 
+#### 17/A. A bíróság feladatai a szervezet végelszámolása során
+
+43/B. § (1) A végelszámoló által a végelszámolás bejelentése iránt benyújtott változásbejegyzési kérelemnek tartalmaznia kell
+
+- a) a végelszámolás megindítását elrendelő határozat keltét,
+- b) a végelszámolás kezdő időpontját és
+- c) a végelszámoló nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a megbízásából eljáró természetes személy nevét, születési idejét, anyja születési nevét, és lakóhelyét is.
+
+(2) A végelszámolás bejelentése iránti változásbejegyzési kérelemhez csatolni kell
+
+- a) a szervezet jogutód nélküli megszűnését elhatározó, és a végelszámolás megindítására, a végelszámoló kijelölésére vonatkozó határozatát,
+- b) a végelszámolói megbízatás elfogadását tartalmazó, az összeférhetetlenségre is kiterjedő nyilatkozatot,
+- c) szükség szerint a nyilatkozatot arról, hogy a munkavállalói érdekképviseletet a végelszámolás megindításáról a szervezet tájékoztatta.
+
+(3) A végelszámolásnak a szervezet megszűnése nélküli befejezése esetén a szervezetnek a végelszámolás befejezéséről, a tevékenység továbbfolytatásáról, a végelszámoló felmentéséről és a döntéshozó szerv megválasztásáról szóló határozatát is csatolni kell a változásbejegyzési kérelemhez.
+
+43/C. § (1) A bíróság részére a végelszámolónak az arról szóló tájékoztatást, amelyben bemutatja, hogy a végelszámolás befejezésére miért nem került még sor és azt, hogy a végelszámolás befejezésére várhatóan mikor kerül sor, változásjegyzési kérelem benyújtása nélkül kell a változásbejegyzési eljárás szabályai szerint kell benyújtania, és azt a bíróság a (2) bekezdés szerint vizsgálja.
+
+(2) Ha a bíróság a tájékoztatást nem találja megfelelőnek, a végelszámolót határidő tűzésével pénzbírság terhe mellett a beszámoló kiegészítésére hívja fel. Ha a bíróság a tájékoztatót a kiegészítést követően sem tartja megfelelőnek vagy a végelszámoló a felhívásnak határidőben nem tesz eleget, a bíróság az Ectv. szerinti ismételten is kiróható pénzbírsággal sújtja. Az intézkedések eredménytelensége esetén a bíróság az Ectv. szabályai szerint új végelszámolót jelöl ki a felszámolói névjegyzékből, a korábbi végelszámoló nyilvántartásból való törlése mellett.
+
+43/D. § (1) Ha a bíróság azt észleli, hogy a végelszámoló a kötelezettségeit nem teljesíti – ideértve a bíróság által határozatban megjelölt kötelezettséget is – és ezért az Ectv.-ben írt intézkedések alkalmazásának lehet helye, határidő tűzésével és pénzbírság terhe mellett felhívja a végelszámolót – az Ectv.-ben írt esetben a civil szervezet korábbi vezető tisztségviselőjét –, hogy kötelezettségeinek teljesítését igazolja.
+
+(2) Ha a végelszámoló kötelezettségeinek teljesítését nem igazolja, a bíróság az Ectv. 9/I. §-ában írt intézkedéseket alkalmazza.
+
 #### 18. A közhasznú nyilvántartásba vétel és a közhasznú minősítés nyilvántartásból való törlése
 
 44. § (1) A bíróság a szervezet – illetve alapítvány esetében az alapító vagy az alapítvány – kérelmére polgári nemperes eljárásban dönt a szervezet közhasznúvá minősítéséről és a közhasznú jogállás nyilvántartásba történő bejegyzéséről. Alapítvány esetében a kérelmet az alapítónak kell benyújtania, ha a kérelemben úgy nyilatkozik, hogy a bírósághoz korábban benyújtott létesítő okirat nem tartalmazza az Ectv.-ben előírt rendelkezéseket. Az eljárásra a nyilvántartást vezető bíróság illetékes.
@@ -327,7 +385,7 @@ sem.
 
 #### 21. Az alapítvány nyilvántartásba vételére irányuló kérelem tartalmi elemei
 
-48. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell az alapítvány vagyonának kezelésére kijelölt kezelő szerv nevét, illetve megnevezését, valamint lakóhelyét (székhelyét), vagy az említett célból létrehozott kezelő szervezet tagjainak nevét, lakóhelyét is.
+48. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét) is.
 
 (2) Az alapítvány nyilvántartásba vétele iránti kérelemben nyilatkozni kell a következőkről is:
 
@@ -339,7 +397,7 @@ sem.
 
 49. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon túlmenően csatolni kell a következőket is:
 
-- a) az alapítvány kezelő szerve (szervezete) tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó, az összeférhetetlenségre is kiterjedő nyilatkozatát,
+- a) az alapítvány kuratóriuma tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó, az összeférhetetlenségre is kiterjedő nyilatkozatát,
 - b) az igazolást az alapítvány céljára rendelt vagyon rendelkezésre bocsátásáról
   - ba) pénzbeli vagyonrendelés esetén a pénzforgalmi szolgáltató igazolását a fizetési vagy pénzforgalmi számlán elhelyezett összegről, az ügyvéd vagy a bíróság igazolását az ügyvédi vagy bírósági letétről vagy a közjegyző igazolását az alapítvány céljára rendelt vagyon bizalmi őrzésbe adásáról,
   - bb) – a legalább a működés megkezdéséhez szükséges pénzbeli vagyonrendelésen túlmenően – egyéb vagyonrendelés esetén az alapítói nyilatkozatot,
@@ -352,9 +410,9 @@ sem.
 
 (4) Az alapítvány nyilvántartásba vétele iránti kérelemhez csatolni kell a külön törvényben meghatározott iratokat is.
 
-#### 22. Az alapítványok egyesítésére irányuló kérelem
+#### 22.
 
-50. § Az alapítványok egyesítésére irányuló kérelemhez a 21. és 22. §-ban foglaltakon túlmenően az új vagy a megfelelően módosított – a megszűnt alapítvány jogutódlásáról is rendelkező – alapító okiratot is csatolni kell.
+50. §
 
 #### 23. Az alapítvány nyilvántartásba vételére irányuló eljárás
 
@@ -362,100 +420,132 @@ sem.
 
 52. § Az alapítvány alapítóját megillető jogok, és az alapítót terhelő kötelezettségek tárgyában perképességgel az alapító rendelkezik, az eljárásban hozott határozatokat az alapítványnak is kézbesíteni kell.
 
+#### 23/A. Az alapítói jogok gyakorlásának felfüggesztésére irányuló eljárás
+
+52/A. § (1) Ha a kuratórium vagy a kurátor bejelenti, hogy az alapító a kuratórium felszólítása ellenére a teljes juttatott vagyont nem ruházza át az alapítványra, a bíróság az alapító alapítói jogainak gyakorlását végzéssel felfüggeszti és megállapítja, hogy az alapítói jogokat a felfüggesztés időtartama alatt a nyilvántartó bíróság gyakorolja. Az eljárás az alapítványt nyilvántartó bíróság hatáskörébe és illetékességébe tartozó nemperes eljárás.
+
+(2) A kérelemhez csatolni kell a felszólítást tartalmazó iratot és az annak közlését, de legalább az alapító lakóhelyére (székhelyére) történő kézbesítés megkísérlését igazoló iratot.
+
+(3) Ha a kuratórium vagy a kurátor bejelenti a bíróságnak, hogy az alapító a teljes juttatott vagyont az alapítványra átruházta, a bíróság az alapítói jogok gyakorlásának felfüggesztését végzéssel megszünteti és megállapítja, hogy az alapítói jogokat az alapító gyakorolja. Az eljárás az alapítványt nyilvántartó bíróság hatáskörébe és illetékességébe tartozó nemperes eljárás.
+
 #### 24. Az alapítvány nyilvántartásban szereplő adatainak módosítására irányuló eljárás
 
 53. § (1) Alapítvány esetében a változásbejegyzési kérelmet az alapítónak kell benyújtania és az alapító gyakorolja a kérelmezőt megillető jogokat és kötelezettségeket.
 
-(2) Ha az állami alapító által alapított alapítvány, és állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány esetében az alapítók új kezelő (szervet) szervezetet jelölnek ki, a változásbejegyzési kérelemhez csatolni kell az állami alapító nyilatkozatát arról, hogy a kezelő szervezet mely tagját jelölte.
+(2) Ha az állami alapító által alapított alapítvány, és az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány esetében az alapítók új kuratóriumot vagy kurátort jelölnek ki, a változásbejegyzési kérelemhez csatolni kell az állami alapító nyilatkozatát arról, hogy a kuratórium mely tagját jelölte vagy a kurátort az állami alapító jelölte-e. Ugyanígy kell eljárni abban az esetben is, ha az alapítók a kuratóriumba új tagot jelölnek.
 
-#### 25. Az alapítvány kezelő szervének (szervezetének) bíróság általi kijelölésére irányuló eljárás
+#### 25. Az alapítvány kuratóriuma tagjának vagy kurátorának bíróság általi kijelölésére irányuló eljárás
 
 54. § (1) A bíróság a kezelő szerv (szervezet) kijelöléséről polgári nemperes eljárásban határoz, ha
 
-- a) az alapító nem él a kezelő szerv (szervezet) kijelölésének jogával vagy az alapító által kijelölt szerv (szervezet) a feladat ellátását nem vállalja,
+- a) az alapító nem él a kuratórium vagy kurátor kijelölésének jogával vagy az alapító által kijelölt szerv (szervezet) a feladat ellátását nem vállalja,
 - b) az alapítói jogokat a bíróság gyakorolja.
 
-(2) Ha a kezelő szerv (szervezet) kijelölésének feltételei fennállnak, a bíróság az ügyész indítványára vagy az egyéb érdekelt kérelmére az eljárást megindítja.
+(2) Ha a kuratórium vagy kurátor kijelölésének feltételei fennállnak, a bíróság az ügyész indítványára vagy az egyéb érdekelt kérelmére az eljárást megindítja.
 
-(3) Az e §-ban szabályozott eljárás során a bíróság az alapítvány célja szerinti szakterületen működő szervezettől javaslatot kérhet a kezelő szerv (szervezet) tagjaira vonatkozóan.
+(3) Az e §-ban szabályozott eljárás során a bíróság az alapítvány célja szerinti szakterületen működő szervezettől javaslatot kérhet a kuratórium tagjaira vagy a kurátorra vonatkozóan.
 
-#### 26. Az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárás
+#### 26. Az alapítvány kuratóriuma új tagjának vagy új kurátorának nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárás
 
-55. § Ha az alapító a Ptk. 74/C. § (6) bekezdése alapján az alapítvány kezelő szerve (szervezete) kijelölését visszavonja és új kezelő szervet (szervezetet) jelöl ki, változásbejegyzési kérelem benyújtásával kérheti az új kezelő szerv (szervezet) nyilvántartásba vételét.
+55. § Ha az alapítói jogok gyakorlója a kuratórium tagját vagy a kurátort a Ptk. 3:398. § (2) bekezdése alapján visszahívja és új kuratóriumi tagot vagy kurátort jelöl ki, változásbejegyzési kérelem benyújtásával kérheti az új kuratóriumi tag vagy kurátor nyilvántartásba vételét.
 
 56. § (1) Az 55. § szerinti változásbejegyzési kérelemhez csatolni kell
 
-- a) azokat az okiratokat, amelyek valószínűsítik, hogy az alapítvány kezelő szerve (szervezete) veszélyezteti az alapítvány célját,
-- b) az alapítvány új kezelő szerve, illetve kezelő szervezete tagjainak a tagság elfogadására, valamint a jogszabályban meghatározott követelményekre vonatkozó, az összeférhetetlenségre is kiterjedő nyilatkozatát és
-- c) az alapító okirat módosítását.
+- a) azokat az okiratokat, amelyek valószínűsítik, hogy az alapítvány kuratóriumának tagja vagy a kurátor közvetlenül veszélyezteti az alapítvány célját,
+- b) az alapítvány kuratórium tagja vagy a kurátor a tagság elfogadására, valamint a jogszabályban meghatározott követelményekre vonatkozó, az összeférhetetlenségre is kiterjedő nyilatkozatát és
+- c)
 
-(2) A bíróság a kérelmet azzal a felhívással küldi meg a kezelő szervnek vagy a kezelő szervezet tagjainak, hogy a kézbesítéstől számított tizenöt napon belül nyilatkozzanak arról, hogy a kérelemben foglaltakat vitatják-e.
+(2) A bíróság a kérelmet azzal a felhívással küldi meg a kuratórium változásbejegyzési kérelemmel érintett tagjának vagy a kurátornak, hogy a kézbesítéstől számított tizenöt napon belül nyilatkozzon arról, hogy a kérelemben foglaltakat vitatják-e.
 
-(3) Ha a kérelemben foglaltakat a kezelő szerv vagy a kezelő szervezet bármely tagja vitatja, vagy a kezelő szervezet bármely tagja részére az alapító által a bíróság felhívására megjelölt újabb címre a felhívás nem volt kézbesíthető, a bíróság a változásbejegyzési eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevél benyújtásával kezdeményezheti az alapítvány új kezelő szerve (szervezete) kijelölésének nyilvántartásba történő bejegyzését, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell.
+(3) Ha a kérelemben foglaltakat a kuratórium változásbejegyzési kérelemmel érintett tagja vagy a kurátor vitatja, vagy a kuratórium változásbejegyzési kérelemmel érintett tagja az alapító által a bíróság felhívására megjelölt újabb címre a felhívás nem volt kézbesíthető, a bíróság a változásbejegyzési eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevél benyújtásával kezdeményezheti az alapítvány kuratóriuma új tagjának vagy új kurátora kijelölésének nyilvántartásba történő bejegyzését, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell.
 
-(4) Ha az eljárás (3) bekezdésben meghatározott okból történő megszüntetésének nincs helye, és az alapító által csatolt iratokból nem állapítható meg, hogy az alapítvány kezelő szerve (szervezete) veszélyezteti az alapítvány tevékenységét, a bíróság a kérelmet elutasítja, egyben felhívja az alapítót, hogy harminc napon belül keresetlevél benyújtásával kezdeményezheti az alapítvány új kezelő szerve (szervezete) kijelölésének nyilvántartásba történő bejegyzését, erre az alapítót a kérelmet elutasító végzésben figyelmeztetni kell.
+(4) Ha az eljárás (3) bekezdésben meghatározott okból történő megszüntetésének nincs helye, és az alapító által csatolt iratokból nem állapítható meg, hogy az alapítvány kuratóriumának tagja vagy a kurátora közvetlenül veszélyezteti az alapítvány tevékenységét, a bíróság a kérelmet elutasítja, egyben felhívja az alapítót, hogy harminc napon belül keresetlevél benyújtásával kezdeményezheti az alapítvány kuratóriuma új tagjának vagy az új kurátorának kijelölésének nyilvántartásba történő bejegyzését, erre az alapítót a kérelmet elutasító végzésben figyelmeztetni kell.
 
-(5) Ha a változásbejegyzési eljárás során az alapítvány kezelő szerve, vagy kezelő szervezetének valamennyi tagja e tisztségéről lemond (a tagság elfogadására irányuló jognyilatkozatát visszavonja), a bíróság a kezelő szervet, illetve a lemondott tagokat a nyilvántartásból törli, egyidejűleg az alapító által bejelentett, az alapítvány új kezelő szervét (szervezetét) nyilvántartásba veszi.
+(5) Ha a változásbejegyzési eljárás során az alapítvány kuratóriumának valamennyi tagja vagy kurátora e tisztségéről lemond (a tagság elfogadására irányuló jognyilatkozatát visszavonja), a bíróság a lemondott kuratóriumi tagokat, illetve a kurátort a nyilvántartásból törli, egyidejűleg az alapító által bejelentett, az alapítvány új kuratóriumi tagjait vagy kuratóriumot nyilvántartásba veszi.
 
-#### 27. Az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló peres eljárás
+#### 27. Az alapítvány kuratóriuma új tagjának vagy új kurátorának nyilvántartásba történő bejegyzésére irányuló peres eljárás
 
-57. § (1) Az alapító által az 56. § (3) és (4) bekezdése alapján indított perre a nyilvántartást vezető bíróság illetékes. A pert az alapítónak az alapítvány és a kezelő szerv vagy a kezelő szervezet tagjai ellen kell megindítania. A bíróság hivatalból beszerzi a nemperes ügy 56. § (1) bekezdés b) és c) pontjában megjelölt iratait.
+57. § (1) Az alapító által az 56. § (3) és (4) bekezdése alapján indított perre a nyilvántartást vezető bíróság illetékes. A pert az alapítónak az alapítvány és a kuratórium változásbejegyzési kérelemmel érintett tagja vagy a kurátor ellen kell megindítania. A bíróság hivatalból beszerzi a nemperes ügy 56. § (1) bekezdés b) és c) pontjában megjelölt iratait.
 
 (2) A bíróság az alapító fél keresetlevélben előterjesztett kérelmére beszerzi a nemperes ügy 56. § (1) bekezdés a) pontjában meghatározott iratait, ha arra a fél bizonyítékként kíván hivatkozni.
 
 (3) Ha a bíróság a keresetlevélben foglaltaknak helyet ad, a jogerős ítéletet alapján hivatalból kell módosítani a nyilvántartás adatait, az ítélet miatt bekövetkezett adatváltozásról végzést hozni nem kell.
 
-(4) Ha a bíróság az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárást az 56. § (3) vagy (4) bekezdésben meghatározott okból szünteti meg, és a változásbejegyzési kérelem az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárás mellett más adat bejegyzése (törlése) iránti kérelmet is tartalmaz, a bíróság a változásbejegyzési eljárást – a meg nem szüntetett részben – a perindításra nyitva álló határidő eredménytelen elteltéig, illetőleg a jogerős ítélet meghozataláig (a per megszüntetéséig) felfüggeszti.
+(4) Ha a bíróság az alapítvány kuratóriuma új tagjának vagy új kurátora nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárást az 56. § (3) vagy (4) bekezdésben meghatározott okból szünteti meg, és a változásbejegyzési kérelem az alapítvány kuratóriuma új tagjának vagy új kurátora nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárás mellett más adat bejegyzése (törlése) iránti kérelmet is tartalmaz, a bíróság a változásbejegyzési eljárást – a meg nem szüntetett részben – a perindításra nyitva álló határidő eredménytelen elteltéig, illetőleg a jogerős ítélet meghozataláig (a per megszüntetéséig) felfüggeszti.
 
-(5) Az 55–57. § rendelkezési szerint kell eljárni abban az esetben is, ha az alapító az alapító okirat rendelkezése alapján hívja vissza a kezelő szervezet (szervezetet) vagy annak tagját és nyújt be az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére vagy a kezelő szervezet új tagjának bejegyzésére irányuló változásbejegyzési kérelmet.
+(5) Az 55–57. § rendelkezési szerint kell eljárni abban az esetben is, ha az alapító az alapító okirat rendelkezése alapján hívja vissza a kuratóriumot, kurátort, vagy a kuratórium tagját és nyújt be az alapítvány új kuratóriuma vagy kurátora nyilvántartásba történő bejegyzésére vagy a kuratórium új tagjának bejegyzésére irányuló változásbejegyzési kérelmet.
 
-#### 28. Az alapítványok egyesítésére irányuló eljárás
+#### 28. Az alapítványok egyesülésének és szétválásának bejegyzése iránti eljárás
 
-58. § (1) A bíróság az érdekelt alapítók közös kérelmére – új alapítvány egyesüléssel történő létrehozása vagy más alapítványhoz való csatlakozás céljából – polgári nemperes eljárásban dönt az alapítványok egyesítéséről.
+58. § (1) Az alapítványok összeolvadásának bejegyzése iránti kérelem elbírálására az új alapítvány székhelye szerinti bíróság illetékes. A kérelmet az új alapítvány alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell az összeolvadó alapítványok nyilvántartásból való törlését is.
 
-(2) Az alapítványok egyesítésére irányuló kérelmet az alapítványok alapítóinak együttesen kell benyújtaniuk.
+(2) Az alapítvány beolvadásának bejegyzése iránti kérelem elbírálására az a bíróság illetékes, amely azt az alapítványt tartja nyilván, amelybe a beolvadás történik (a továbbiakban: átvevő alapítvány). A kérelmet az átvevő alapítvány alapító okiratának elfogadásától, ennek hiányában az egyesülési szerződés jóváhagyásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a beolvadó alapítvány nyilvántartásból való törlését is.
 
-(3) A bíróság illetékességét új alapítvány létrehozása esetén az új alapítvány székhelye alapítja meg, csatlakozás esetén pedig az eljárásra az a nyilvántartást vezető bíróság illetékes, amely azt az alapítványt tartja nyilván, amelyhez csatlakozni kívánnak.
+(3) Az alapítvány különválásának bejegyzése iránti kérelem elbírálására a különváló alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítványok alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a különváló alapítvány nyilvántartásból való törlését is.
 
-(4) A bíróság – a (6) bekezdésben foglalt eltéréssel – új alapítvány létrehozása esetén, az alapítványok egyesítését elrendelő határozatában rendelkezik az alapítványok megszűnéséről és az új alapítvány nyilvántartásba vételéről.
+(4) Az alapítvány kiválásának bejegyzése iránti kérelem elbírálására a kiválással érintett alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítványok alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a kiválással létrejövő alapítványok nyilvántartásba vételét is.
 
-(5) A bíróság csatlakozás esetén, az alapítvány csatlakozását elrendelő határozatában rendelkezik a csatlakozó alapítvány megszűnéséről és a csatlakozással érintett alapítvány adataiban bekövetkezett változás nyilvántartásba történő bejegyzéséről.
+58/A. § (1) Ha az egyesülő vagy szétváló alapítványokat nem az egyesülés (összeolvadás, beolvadás) vagy szétválás (különválás, kiválás) bejegyzése iránti kérelem elbírálására illetékes bíróság tartja nyilván, az alapítványok iratait az alapítványokat nyilvántartó bíróság az egyesülés vagy szétválás bejegyzése iránti kérelem elbírálására illetékes bíróság megkeresésére megküldi. Ugyanígy kell eljárni abban az esetben is, ha az egyesüléssel vagy szétválással létrejövő alapítványt nem az a bíróság fogja nyilván tartani, amelyik az egyesülés vagy szétválás bejegyzése iránti kérelem elbírálására illetékes.
 
-(6) Ha a (4) vagy (5) bekezdés alapján megszüntetett alapítványt (alapítványokat) nem az eljáró bíróság vette nyilvántartásba, a bíróság jogerős határozatát megküldi a megszűnt alapítványt nyilvántartásba vevő bíróság számára is. A nyilvántartást vezető bíróság a megszűnt alapítványt (alapítványokat) hivatalból törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
+(2) Ha az egyesülésben vagy szétválásban részt vevő alapítványokat nyilvántartó bíróság változásbejegyzési eljárást folyat le, az alapítványok iratait a változásbejegyzési eljárás jogerős befejezését követően küldi meg az egyesülés vagy szétválás bejegyzésére illetékes bíróságnak. Az egyesülés vagy szétválás bejegyzése iránti kérelem elbírálására illetékes bíróság eljárását az iratok beérkezéséig felfüggeszti. Az eljárást akkor is fel kell függeszteni, ha a változásbejegyzési eljárás és az egyesülés vagy szétválás iránti kérelem elbírálására ugyanaz a bíróság illetékes.
 
-(7) A bíróság eljárására egyebekben az alapítvány nyilvántartásba vételére vonatkozó szabályokat kell alkalmazni.
+(3) Az egyesülés vagy szétválás bejegyzése iránti kérelem elbírálására illetékes bíróság határoz az egyesülés vagy szétválás eredményeképpen megszűnő alapítvány nyilvántartásból való törléséről és a létrejövő alapítvány nyilvántartásba vételéről. Ha a megszűnő alapítványt nem az eljárást lefolytató bíróság tartja nyilván, a határozatot megküldi a megszűnt alapítványt nyilvántartó bíróságnak, amely a határozat alapján a nyilvántartásból törli a megszűnt alapítványt. A törlésről nem kell határozatot hozni. Ha a létrejövő alapítványt nem az eljárást lefolytató bíróság fogja nyilvántartani, a határozatot megküldi az új alapítványt nyilvántartó bíróságnak, amely a határozat alapján az új alapítványt a nyilvántartásba bejegyzi. A bejegyzésről nem kell határozatot hozni.
 
-#### 29. Az alapítvány nyilvántartásból való törlése polgári jogi feltételei bekövetkeztének megállapítására, illetve az alapítvány megszüntetésére irányuló polgári nemperes eljárás
+58/B. § (1) Az alapítványok egyesülésének vagy szétválásának bejegyzése iránti kérelmet az alapítóknak – az alapítók gyűlésének – kell benyújtaniuk. A kérelemben fel kell tüntetni az egyesülő vagy szétváló alapítványok székhelyét és nyilvántartási számát is.
 
-59. § (1) Az annak megállapítására irányuló kérelmet, hogy az alapítvány nyilvántartásból való törlésének a Ptk. 74/E. § (1) bekezdés a)–c) pontjában meghatározott anyagi jogi feltételei bekövetkeztek, az alapító nyújthatja be, vagy ezen feltételek megállapítását az ügyész indítványozhatja.
+(2) Az alapítványok egyesülésének vagy szétválásának nyilvántartásba való bejegyzése iránti kérelemhez – a bejegyzési, változásbejegyzési kérelemhez csatolandó iratokon túl – csatolni kell:
 
-(2) Az alapítvány megszüntetésére és az alapítvány nyilvántartásból való törlésére irányuló kérelmet, annak okán, hogy az alapítvány céljának megvalósítása lehetetlenné vált az alapító nyújthatja be [Ptk. 74/E. § (3) bekezdés].
+- a) az alapítvány alapítóinak vagy az alapítók gyűlésének határozatait az átalakulásról,
+- b) a kuratórium vagy a kurátor nyilatkozatát arról, hogy a munkavállalói érdekképviseletet az átalakulás elhatározásáról tájékoztatta,
+- c) az egyesüléssel érintett alapítványok vagyonmérleg-tervezetét és vagyonleltár-tervezetét,
+- d) összeolvadás vagy különválás esetén a létrejövő alapítvány vagyonmérleg-tervezetét és vagyonleltár-tervezetét,
+- e) a vagyonmérleg-tervezetekre és a vagyonleltár-tervezetekre vonatkozó könyvvizsgálói jelentést tartalmazó okiratot,
+- f) egyesülés esetén az egyesülési szerződést,
+- g) szétválás esetén a szétválási szerződést,
+- h) ha az alapítványnál felügyelőbizottság működik, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozatát,
+- i) ha az alapítványi cél megvalósításához szükséges, a szükséges alapítványi vagyon rendelkezésre bocsátásának igazolását és
+- j) az átalakulási tervet.
 
-(3) Az (1) és (2) bekezdésben meghatározott kérelemhez, illetve az (1) bekezdésben meghatározott indítványhoz csatolni kell a kérelmet, illetve az indítványt alátámasztó okiratokat.
+(3) A kérelemhez a (2) bekezdésben foglaltakon túl csatolni kell:
 
-(4) Ha az alapító a (2) bekezdésben meghatározott okból kéri az alapítvány megszüntetését, a bíróság a kérelmet azzal a felhívással küldi meg az alapítványnak, hogy kézbesítéstől számított harminc napon belül nyilatkozzon arról, hogy a kérelemben foglaltakat vitatja-e.
+- a) összeolvadás esetén az összeolvadással létrejövő alapítvány adatait tartalmazó nyilvántartásba-vételi űrlapot,
+- b) beolvadás esetén az átvevő alapítvány adatait tartalmazó változásbejegyzési űrlapot,
+- c) különválás esetén, a beolvadásos különválás esetét kivéve a különválással létrejövő alapítvány adatait tartalmazó nyilvántartásba-vételi űrlapot,
+- d) beolvadásos különválás esetén annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelybe a beolvadásos különválás történik,
+- e) kiválás esetén a kiválással létrejövő alapítvány adatait tartalmazó nyilvántartásba vételi űrlapot,
+- f) annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyből kiválnak.
 
-(5) Ha a kérelemben foglaltakat az alapítvány vitatja, a bíróság az eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (2) bekezdésben meghatározott okból történő megszüntetését, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell.
+(4) A bíróság az alapítvány egyesülésének vagy szétválásának bejegyzése iránti kérelmet a nyilvántartásba-vételi kérelem szabályai szerint bírálja el, a kérelem elbírálására nyitva álló határidő akkor kezdődik, amikor az egyesülésben vagy szétválásban érintett valamennyi alapítvány irata a bíróság rendelkezésére áll.
 
-(6) Ha az eljárás (5) bekezdésben meghatározott okból történő megszüntetésének nincs helye, és az alapító által csatolt iratokból nem állapítható meg, hogy az alapítvány céljának megvalósítása lehetetlenné vált, a bíróság a kérelmet elutasítja, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (2) bekezdésben meghatározott okból történő megszüntetését, erre az alapítót a kérelmet elutasító végzésben figyelmeztetni kell.
+(5) A bíróság ellenőrzi, hogy az egyesülés vagy szétválás során közzéteendő közlemények közzétételre kerültek-e.
 
-(7) Ha a kérelem vagy indítvány előterjesztésének indoka az, hogy az alapító okiratban meghatározott idő eltelt a kérelemben erre kell hivatkozni.
+(6) Az alapítvány egyesülésének vagy szétválásának bejegyzése iránti kérelmet a bíróság akkor is elutasítja, ha az egyesülés vagy szétválás az egyesülő vagy szétváló alapítvány alapítványi vagyonának csorbításával vagy alapítványi céljának veszélyeztetésével jár.
 
-#### 30. Az alapítvány megszüntetésére irányuló polgári peres eljárás
+#### 29. Az alapítvány megszűnésének megállapítására irányuló polgári nemperes eljárás
 
-60. § (1) Az alapító által az 59. § (5) vagy (6) bekezdése alapján indított perre az alapítvány székhelye szerinti törvényszék illetékes.
+59. § (1) Az alapítvány megszűnésének megállapítására irányuló kérelem vagy indítvány esetén a kérelemhez csatolni kell a kérelmet vagy az indítványt alátámasztó okiratokat.
 
-(2) Az alapítvány megszüntetésére irányuló kereseti kérelmet a Ptk. 74/E. § (3) bekezdésében vagy a Ptk. 74/F. § (2) bekezdésében meghatározott okból az ügyész, míg a Ptk. 74/E. § (4) bekezdésében meghatározott okból az ügyész vagy az egyéb érdekelt nyújthat be. A perre az alapítvány székhelye szerinti törvényszék illetékes.
+(2) Ha a kérelem vagy indítvány előterjesztésének indoka az, hogy az alapító okiratban meghatározott idő eltelt, a kérelemben erre kell hivatkozni.
 
-(3) Ha a bíróság az alapítványt megszünteti, a jogerős ítéletet megküldi az alapítványt nyilvántartó bíróságnak. A nyilvántartást vezető bíróság az alapítványt – a törvényben meghatározott eljárást követően – törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
+(3) Ha az alapítvány megszűnésének megállapítására irányuló kérelemben az alapítvány megszűnésének megállapítását arra hivatkozással kérik, hogy az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód, a bíróság a kérelmet megküldi az alapítványnak.
 
-#### 31. Az alapítvány megszűnésének nyilvántartásba való bejegyzése iránti eljárás
+(4) A bíróság a kérelmet azzal a felhívással küldi meg az alapítványnak, hogy a kézbesítéstől számított harminc napon belül nyilatkozzon arról, hogy a kérelemben foglaltakat vitatja-e.
 
-61. § (1) Ha a bíróság az 59. vagy 60. §-ban meghatározott okból megállapítja, hogy az alapítvány nyilvántartásból való törlésének polgári jogi feltételei bekövetkeztek, vagy az alapítványt megszünteti, az Ectv.-ben foglalt szabályok szerint jár el.
+(5) Ha a kérelemben foglaltakat az alapítvány vitatja, a bíróság az eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány megszűnésének megállapítását a (3) bekezdésben meghatározott okból, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell. Ha az eljárás megszüntetésének abból az okból, hogy azt az alapítvány vitatja, nincs helye, és az alapító által csatolt iratokból nem állapítható meg, hogy az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód, a bíróság a kérelmet elutasítja. A bíróság a kérelmet elutasító végzésében felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (3) bekezdésben meghatározott okból történő megszűnésének megállapítását, erre az alapítót a kérelmet elutasító végzésben figyelmeztetni kell.
 
-(2)
+#### 30. Az alapítvány megszűnésének megállapítására és az alapítvány megszüntetésére irányuló polgári peres eljárás
 
-(3) A nyilvántartást vezető bíróság a végelszámolást, kényszer-végelszámolást követően az alapítványt törli a nyilvántartásból, a végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye.
+60. § (1) Az alapítvány megszűnésének megállapítása iránti perre – ideértve az alapító által az 59. § alapján indított pert is – az alapítvány székhelye szerinti törvényszék illetékes.
+
+(2) Az alapítvány megszüntetésére irányuló perre az alapítvány székhelye szerinti törvényszék illetékes.
+
+(3) Ha a bíróság az alapítványt megszünteti, a jogerős ítéletet megküldi az alapítványt nyilvántartó bíróságnak. A nyilvántartást vezető bíróság az alapítványt – a törvényben meghatározott eljárást követően – törli a nyilvántartásból; a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
+
+#### 31. Az alapítvány megszűnésének és az alapítvány megszüntetésének nyilvántartásba való bejegyzése iránti eljárás
+
+61. § (1) Ha a bíróság az alapítvány megszűnését megállapítja, vagy az alapítványt megszünteti, az Ectv.-ben foglalt szabályok szerint jár el.
+
+(2) A nyilvántartást vezető bíróság a kényszer-végelszámolást, egyszerűsített törlési eljárást követően az alapítványt törli a nyilvántartásból; a végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye.
 
 #### 32. Az állami alapító által alapított alapítvány és közalapítvány megszüntetésére irányuló sajátos nemperes eljárás
 
@@ -477,8 +567,8 @@ sem.
 
 63. § Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:
 
-- a) az egyesület alakuló ülésének jegyzőkönyvét,
-- b) az egyesület alakuló ülésének jelenléti ívét, a tagok nevével, lakóhelyével (székhelyével) és aláírásával és
+- a) ha alakuló ülés tartására került sor, az egyesület alakuló ülésének jegyzőkönyvét és jelenléti ívét, valamint az alapító tagok nevével, lakóhelyével (székhelyével) és aláírásával ellátott, az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket, vagy
+- b) ha alakuló ülés tartására nem került sor, az alapító tagoknak az alapszabályt elfogadó egybehangzó akaratnyilatkozatát tartalmazó okiratot és az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket és
 - c) az egyesület ügyintéző és képviseleti szerve tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát.
 
 64. § Felügyelő szerv esetén a felügyelő szerv tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát is csatolni kell a kérelemhez.
@@ -491,7 +581,7 @@ sem.
 
 #### 34. Az egyesület nyilvántartásba vételére irányuló eljárás egyes szabályai
 
-67. § (1) A bíróság a nyilvántartásba vétel iránti kérelemhez csatolt az egyesület alakuló ülésének jegyzőkönyve vagy a jegyzőkönyvéhez mellékelt tagjegyzék (részvételi ív) alapján vizsgálja azt, hogy az alapítók száma megfelel-e a törvényben foglalt rendelkezéseknek.
+67. § (1) A bíróság a nyilvántartásba vétel iránti kérelemhez csatolt alapszabályhoz mellékelt tagjegyzék alapján vizsgálja azt, hogy az alapítók száma megfelel-e a törvényben foglalt rendelkezéseknek.
 
 (2) A bíróság az ügyintéző és képviseleti szerv tagjainak a nyilvántartásba vételi kérelemhez csatolt nyilatkozata alapján vizsgálja azt, hogy megfelelnek-e a törvényben előírt feltételeknek.
 
@@ -500,6 +590,10 @@ sem.
 #### 35. A szövetség nyilvántartásban szereplő adatainak módosítására irányuló eljárás
 
 68. § Ha a szövetséghez egyesület vagy alapítvány csatlakozik, a bíróság szövetség erre irányuló változásbejegyzési kérelmére a szövetség adatai közé bejegyzi az új tag nevét, székhelyét és nyilvántartási számát.
+
+#### 35/A. Az egyesületek egyesülésének és szétválásának bejegyzése iránti eljárás
+
+68/A. § Az egyesületek egyesülésének és szétválásának bejegyezése során az alapítványok egyesülésének és szétválásának bejegyzésére vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a bejegyzés iránti kérelmet az érintett egyesületek képviseletére jogosult személyeknek kell benyújtani (58. §–58/B. §).
 
 #### 36. Egyéb szervezetek
 
@@ -570,6 +664,12 @@ biztosítja.
 
 is.
 
+88/A. § (1) A fogyasztóvédelemről szóló törvény szerinti fogyasztói érdekek képviseletét ellátó egyesület kérheti a bíróságtól a (2) bekezdés szerinti igazolás kiadását. Az igazolás kiadása iránti kérelemhez csatolni kell az egyesület tagnyilvántartását.
+
+(2) A bíróság a kérelmező részére igazolást állít ki arról, hogy az egyesület alapszabályában meghatározott célja legalább két éve a fogyasztók érdekeinek védelme és tagnyilvántartása alapján természetes személy tagjainak létszáma legalább ötven fő. Az eljárásban hiánypótlásnak helye nincs.
+
+88/B. § Ha az egyesület alapszabályban meghatározott célja a nemzetiségek jogairól szóló törvény rendelkezései szerinti nemzetiség érdekvédelme, érdekképviselete vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenység folytatása (nemzetiségi egyesület), akkor a bíróságtól igazolás kiadását kérheti a hatóköréről és arról, hogy mely nemzetiséget képviseli. A bíróság az igazolást az egyesület alapszabályában foglalt adatok alapján adja ki.
+
 #### 41. A bíróság adatszolgáltatási kötelezettsége
 
 89. §
@@ -605,7 +705,7 @@ is.
 
 (3) A 106. § 2012. november 30-án lép hatályba.
 
-(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2014. július 1-jén lép hatályba.
+(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2015. január 1-jén lép hatályba.
 
 #### 46. Átmeneti rendelkezések
 

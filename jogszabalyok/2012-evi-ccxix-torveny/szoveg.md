@@ -10,7 +10,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 1. § Ez a törvény szabályozza a hegyközségek, a hegyközségi tanácsok és a Hegyközségek Nemzeti Tanácsa (a továbbiakban együtt: hegyközségi szervezetek) létrejöttét, önkormányzatuk szervezetét, működését, feladatát, valamint az azok ellátásához szükséges jogosítványait.
 
-2. § A törvény személyi hatálya a szőlészeti és borászati termelő, illetve szőlészeti és borászati felvásárló tevékenységet folytató természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, továbbá a hegyközségi szervezetekre, azok tagjaira és tisztségviselőire, valamint a hegybírókra terjed ki.
+2. § A törvény személyi hatálya a szőlészeti és borászati termelő, illetve szőlészeti és borászati felvásárló tevékenységet folytató természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervezetekre, továbbá a hegyközségi szervezetekre, azok tagjaira és tisztségviselőire, valamint a hegybírókra terjed ki.
 
 #### 2. A hegyközség
 
@@ -224,7 +224,7 @@ kezeli.
 - a) tanácskozási joggal részt vegyen a közgyűlésen vagy részközgyűlésen;
 - b) a hegyközség belső szabályzatában foglaltak szerint igénybe vegye a hegyközség által nyújtott szolgáltatásokat.
 
-(3) Az (1) bekezdés a) pontjában meghatározott tagsági viszonyból eredő jogait természetes személy csak személyesen, jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság a képviseletére jogosult útján gyakorolhatja.
+(3) Az (1) bekezdés a) pontjában meghatározott tagsági viszonyból eredő jogait természetes személy csak személyesen, jogi személy és jogi személyiséggel nem rendelkező szervezet a képviseletére jogosult útján gyakorolhatja.
 
 (4) Aki több hegyközségnek is tagja, tisztséget csak egy hegyközségben viselhet.
 

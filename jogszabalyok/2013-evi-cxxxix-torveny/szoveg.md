@@ -538,7 +538,7 @@ vonatkozó szabályokat állapít meg.
 - j) a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvény,
 - k) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény (a továbbiakban: Fnytv.),
 - l) a Bszt.,
-- m) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény (a továbbiakban: Batv.),
+- m) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény (a továbbiakban: Kbftv.),
 - n) a viszontbiztosítókról szóló törvény (a továbbiakban: Vbit.),
 - o) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény, valamint
 - p) a kötelező gépjármű-felelősségbiztosításról szóló törvény (a továbbiakban: Gfbt.),
@@ -571,6 +571,14 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (9) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (2010. november 12.) (a továbbiakban: a 1031/2010/EU bizottsági rendelet) 43. cikke szerinti illetékes hatóságként a 1031/2010/EU bizottsági rendelet 37–42. cikkének végrehajtását.
 
 (10) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az 575/2013/EU rendelet végrehajtását.
+
+(11) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai kockázatitőke-alapokról szóló, 2013. április 17-i 345/2013/EU parlamenti és tanácsi rendelet végrehajtását.
+
+(12) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai szociális vállalkozási alapokról szóló, 2013. április 17-i 346/2013/EU parlamenti és tanácsi rendelet végrehajtását.
+
+(13) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló, 2013. május 15-i 447/2013/EU bizottsági végrehajtási rendelet végrehajtását.
+
+(14) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló, 2013. május 15-i 448/2013/EU bizottsági végrehajtási rendelet végrehajtását.
 
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
@@ -1394,7 +1402,7 @@ terjedhet.
 
 (5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a Pénzügyi Békéltető Testület a kérelmet – annak beérkezésétől számított tizenöt napon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.
 
-105. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 327. § (1) és (2) bekezdésében, az eljárás eredménytelensége esetén a Ptk. 326. § (2) bekezdésében foglaltak irányadók.
+105. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:25. § (1) és (2) bekezdésében, az eljárás eredménytelensége esetén Ptk. 6:24. § (1) és (2) bekezdésében foglaltak irányadók.
 
 106. § (1) Az eljárás megindulásától kezdődő határidők számításakor az eljárás megindulásának az minősül, amikor a hiánytalan kérelem a Pénzügyi Békéltető Testülethez beérkezik.
 
@@ -2340,7 +2348,11 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - o) az 1031/2010/EU bizottsági rendelete az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól,
 - p) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
 - q) az Európai Parlament és a Tanács 2012. március 14-i 260/2012/EK rendelete az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról,
-- r) az Európai Parlament és a Tanács 2013. június 26-i 575/2013/EU rendelete a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról.
+- r) az Európai Parlament és a Tanács 2013. június 26-i 575/2013/EU rendelete a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról,
+- s) az Európai Parlament és a Tanács 345/2013/EU rendelete (2013. április 17.) az európai kockázatitőke-alapokról,
+- t) az Európai Parlament és a Tanács 346/2013/EU rendelete (2013. április 17.) az európai szociális vállalkozási alapokról,
+- u) a Bizottság 447/2013/EU végrehajtási rendelete (2013. május 15.) a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról,
+- v) a Bizottság 448/2013/EU végrehajtási rendelete (2013. május 15.) a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról.
 
 186. § (1) A 24. § (1) bekezdés a) pontja a hamispénz-figyelő rendszerhez (CMS) való csatlakozás egyes feltételeiről szóló, 2001. november 8-i EKB/2001/11 európai központi banki határozatnak való megfelelést szolgálja.
 
@@ -2378,7 +2390,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 #### 57. Módosító és hatályon kívül helyező rendelkezések
 
-#### 187. §
+187. § A 105. §-ban a „Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 327. § (1) és (2) bekezdésében” szövegrész helyébe a „Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:25. § (1) és (2) bekezdésében” szöveg „a Ptk. 326. § (2) bekezdésében” szövegrész helyébe a „Ptk. 6:24. § (1) és (2) bekezdésében” szöveg lép.
 
 #### 188. §
 
@@ -2420,7 +2432,7 @@ ac) az ÁÉKBV-kel kapcsolatban
 
 5. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV az egyesülés, illetve szétválás eredményeképp létrejött másik ÁÉKBV gyűjtő-ÁÉKBV-je maradjon vagy eszközeinek legalább 85 százalékát egy másik, nem az egyesülés vagy szétválás eredményeképp létrejött cél-ÁÉKBV kollektív befektetési értékpapírjaiba fektesse, továbbá a kezelési szabályzat tervezett módosításának jóváhagyására,
 
-6. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Batv. 118. § (4) bekezdésének b) pontja, valamint a Batv. 118. § (6) bekezdés c) pontja szerint nem gyűjtő-ÁÉKBV-ként működik tovább, valamint a gyűjtő-ÁÉKBV kezelési szabályzata tervezett módosításainak jóváhagyására,
+6. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdésének b) pontja, valamint a Kbftv. 143. § (6) bekezdésének c) pontja szerint nem gyűjtő-ÁÉKBV-ként működik tovább, valamint a gyűjtő-ÁÉKBV kezelési szabályzata tervezett módosításainak jóváhagyására,
 
 7. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
 
@@ -2444,7 +2456,7 @@ ad) egyebekben
 
 5. a harmonizált befektetési alapok (ÁÉKBV-k) egyesülésére,
 
-6. a Batv. 78. § (7) bekezdésében meghatározott körbe tarozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülésére,
+6. a Kbftv. 82. § (7) bekezdésében meghatározott körbe tarozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülésére,
 
 7. kollektív befektetési forma, illetve annak részalapja szétválásának engedélyezésére,
 

@@ -89,7 +89,7 @@ rendelkezéseit.
 
 (3) Az igazságügyi alkalmazott a szolgálati viszony fennállása alatt nem tanúsíthat olyan magatartást, amellyel az igazságügyi szerv jogos érdekeit, illetve jó hírnevét veszélyeztetné.
 
-10. § (1) Írásbeliséghez kötött a szolgálati viszony létesítésére, a jogviszony tartalmának módosítására és megszüntetésére, a munka értékelésére, az elismerésre, a fegyelmi és kártérítési felelősségre vonatkozó nyilatkozat (határozat) és megállapodás.
+10. § (1) Írásbeliséghez kötött a szolgálati viszony létesítésére, a jogviszony tartalmának módosítására és megszüntetésére, a munka értékelésére, az elismerésre, a fegyelmi és kártérítési felelősségre, illetve sérelemdíjra vonatkozó nyilatkozat (határozat) és megállapodás.
 
 (2) Az (1) bekezdés alkalmazása szempontjából – a 41. § (3) bekezdésében meghatározott kivételtől eltekintve – nem minősül szolgálati viszonnyal kapcsolatos nyilatkozatnak a munkaköri feladatok végrehajtására vonatkozó munkáltatói utasítás.
 
@@ -101,12 +101,14 @@ rendelkezéseit.
 
 11. § (1) A szolgálati viszony kinevezéssel és annak elfogadásával jön létre.
 
-(2) Igazságügyi alkalmazottnak – a (3) bekezdésben meghatározott kivétellel – az a tizennyolcadik életévét betöltött, cselekvőképes magyar állampolgár nevezhető ki, aki a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
+(2) Igazságügyi alkalmazottnak – a (3) bekezdésben foglalt kivétellel – az nevezhető ki, aki
 
-(3) Igazságügyi szakértőnek, szakértőjelöltnek, – a bírósági jegyzőkönyvvezető és a cégszerkesztő kivételével – írnoknak és fizikai dolgozónak azt a tizennyolcadik életévét betöltött, a munkakörére meghatározott képesítéssel rendelkező személyt lehet kinevezni, aki
+- a) tizennyolcadik életévét betöltötte,
+- b) magyar állampolgár,
+- c) nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt, és
+- d) a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
 
-- a) magyar állampolgár, vagy
-- b) külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy, ha a munkakör ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik.
+(3) Fizikai dolgozónak és – a bírósági jegyzőkönyvvezető és a cégszerkesztő kivételével – írnoknak, továbbá egyéb igazságügyi szerv igazságügyi alkalmazottjának az is kinevezhető, aki a (2) bekezdés a), c) és d) pontjában foglalt feltételeknek megfelel, és törvény alapján a szabad mozgás és tartózkodás jogával, valamint a munkakör ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik. Fizikai dolgozónak az is kinevezhető, aki a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll, ha a cselekvőképesség korlátozása, illetve a támogatott döntéshozatal a munkakör ellátását nem érinti.
 
 (4) Igazságügyi alkalmazottnak nem lehet kinevezni azt,
 
@@ -354,9 +356,9 @@ rendelkezéseit.
 
 ### A szolgálati viszony jogellenes megszüntetése esetén követendő eljárás
 
-30. § (1) Ha a bíróság jogerősen megállapítja, hogy az igazságügyi szerv a szolgálati viszonyt jogellenesen szüntette meg, az igazságügyi alkalmazottat az eredeti munkakörében kell tovább foglalkoztatni. Meg kell téríteni az elmaradt illetményét és az egyéb juttatásokat, valamint a jogellenes megszüntetésből eredő kárát. Nem kell megtéríteni azt az összeget, amely máshonnan megtérült.
+30. § (1) Ha a bíróság jogerősen megállapítja, hogy az igazságügyi szerv a szolgálati viszonyt jogellenesen szüntette meg, az igazságügyi alkalmazottat az eredeti munkakörében kell tovább foglalkoztatni. Meg kell téríteni az elmaradt illetményét és az egyéb juttatásokat, valamint a jogellenes megszüntetésből eredő kárát. Az igazságügyi alkalmazott sérelemdíjat is igényelhet a szolgálati viszony jogellenes megszüntetésével okozott személyiségi jogsértésért. Nem kell megtéríteni azt az összeget, amely máshonnan megtérült.
 
-(2) Ha az igazságügyi alkalmazott a szolgálati viszonyának a fenntartását nem kívánja, ezt úgy kell tekintetni, mintha a szolgálati viszony a bírósági ítélet jogerőre emelkedése napjával közös megegyezéssel szűnt volna meg. Az elmaradt illetményt és juttatásokat, valamint a kárt ekkor is meg kell téríteni, továbbá meg kell fizetni a felmentési időre járó átlagilletményt és végkielégítést.
+(2) Ha az igazságügyi alkalmazott a szolgálati viszonyának a fenntartását nem kívánja, ezt úgy kell tekintetni, mintha a szolgálati viszony a bírósági ítélet jogerőre emelkedése napjával közös megegyezéssel szűnt volna meg. Az elmaradt illetményt és juttatásokat, valamint a kárt ekkor is meg kell téríteni, továbbá meg kell fizetni a felmentési időre járó átlagilletményt, a végkielégítést, továbbá a sérelemdíjat.
 
 (3) Ha a szolgálati viszony megszüntetése azért jogellenes, mert a törvényben előírt felmentési időt nem, vagy az előírtnál rövidebb tartamban állapították meg, ez a felmentést önmagában nem teszi érvénytelenné, de ilyen esetben a szolgálati viszony megszűnése napjának a törvény szerinti felmentési idő lejártának a napját követő napot kell tekinteni.
 
@@ -819,22 +821,24 @@ rendelkezéseit.
 
 ### VI. Fejezet — A SZOLGÁLATI VISZONYBÓL EREDŐ KÁRTÉRÍTÉSI FELELŐSSÉG
 
-### Az igazságügyi alkalmazott kártérítési felelőssége
+### Az igazságügyi alkalmazott kártérítési felelőssége és sérelemdíj megfizetésére kötelezhetősége
 
-77. § (1) Az igazságügyi alkalmazott a szolgálati viszonyából eredő kötelezettségének vétkes megszegésével a munkáltatónak okozott kárért anyagi felelősséggel tartozik.
+77. § (1) Az igazságügyi alkalmazott a szolgálati viszonyából eredő kötelezettségének vétkes megszegésével a munkáltatónak okozott kárért anyagi felelősséggel tartozik, továbbá tőle a munkáltató az okozott személyiségi jogsértés miatt sérelemdíjat követelhet.
 
-(2) A vétkességet, a kár bekövetkeztét és mértékét, valamint az okozati összefüggést a munkáltatónak kell bizonyítania.
+(2) A vétkességet, a kár bekövetkeztét és mértékét, az okozati összefüggést, valamint a személyiségi jogsértést a munkáltatónak kell bizonyítania.
 
-78. § (1) Gondatlan károkozás esetén a kártérítés mértéke – a (2) bekezdés szerinti kivételtől eltekintve – az igazságügyi alkalmazott 1 havi illetményének az 50 százalékát nem haladhatja meg.
+78. § (1) Gondatlan károkozás, illetve személyiségi jogsértés esetén a kártérítés, illetve a sérelemdíj mértéke – a (2) bekezdésben foglalt kivétellel – az igazságügyi alkalmazott 1 havi illetményének az 50 százalékát nem haladhatja meg.
 
-(2) Az igazságügyi alkalmazott a 3 havi illetménye erejéig felel, ha a kárt
+(2) Az igazságügyi alkalmazott a 3 havi illetménye erejéig felel, illetve kötelezhető sérelemdíj megfizetésére, ha a kárt, illetve a személyiségi jogsértést
 
 - a) súlyosan gondatlan magatartásával,
-- b) ellenőrzési kötelezettsége elmulasztásával vagy nem megfelelő teljesítésével okozta.
+- b) ellenőrzési kötelezettsége elmulasztásával vagy nem megfelelő teljesítésével
 
-(3) 3 havi illetménye erejéig felel a vezető is, ha a kár olyan jogellenes utasításának a végrehajtásából keletkezett, amelynek jogellenes voltára a figyelmét az utasított előzőleg felhívta.
+okozta.
 
-(4) Szándékos károkozás esetén az igazságügyi alkalmazott a teljes kárt köteles megtéríteni.
+(3) A vezető is 3 havi illetménye erejéig felel, illetve kötelezhető sérelemdíj megfizetésére, ha a kár, illetve személyiségi jogsértés miatt járó sérelemdíj megfizetése iránti igény olyan jogellenes utasításának a végrehajtásából keletkezett, amelynek jogellenes voltára a figyelmét az utasított előzőleg felhívta.
+
+(4) Szándékos károkozás, illetve személyiségi jogsértés esetén az igazságügyi alkalmazott a teljes kárt köteles megtéríteni, illetve a sérelemdíj megfizetésére – illetménye összegétől függetlenül – köteles.
 
 79. § (1) Az igazságügyi alkalmazott vétkességére tekintet nélkül a teljes kárt köteles megtéríteni a visszaszolgáltatási vagy elszámolási kötelezettséggel jegyzék vagy elismervény alapján átvett olyan dolgokban bekövetkezett hiány esetén, amelyet állandóan őrizetben tart, kizárólagosan használ vagy kezel.
 
@@ -846,9 +850,9 @@ rendelkezéseit.
 
 (5) A megőrzésre átadott dolog megrongálódásából eredő kár esetén az igazságügyi alkalmazott a vétkességi felelősségre vonatkozó szabályok szerint felel azzal az eltéréssel, hogy a vétlenség bizonyítása őt terheli.
 
-80. § (1) Ha a kárt többen együttesen okozták, a vétkességük, a megőrzésre átadott dologban bekövetkezett hiány esetén pedig az illetményük arányában felelnek.
+80. § (1) Ha a kárt, illetve a személyiségi jogsértést többen együttesen okozták, a vétkességük arányában felelnek, illetve kötelesek a sérelemdíj megfizetésére. A megőrzésre átadott dologban bekövetkezett hiány esetén, ha a kárt együttesen okozták, az illetményük arányában felelnek.
 
-(2) Amennyiben a kárt többen szándékosan okozták, egyetemleges kötelezésnek van helye.
+(2) Ha a kárt, illetve a személyiségi jogsértést többen szándékosan okozták, egyetemleges kötelezésnek van helye.
 
 81. § (1) A kár összegének a meghatározásánál
 
@@ -857,29 +861,31 @@ rendelkezéseit.
 
 (2) Nem kell megtéríteni a kárnak azt a részét, amely a munkáltató közrehatása következtében keletkezett.
 
-82. § (1) Az igazságügyi alkalmazott kártérítési felelősségéről a munkáltató a kár tudomására jutásától számított 60 napon belül határozattal dönt. Ha a károkozóval szemben a kárigénnyel összefüggően büntetőeljárás indult, a határidő a büntetőeljárás jogerős befejezésekor veszi kezdetét.
+82. § (1) Az igazságügyi alkalmazott kártérítési felelősségéről, illetve sérelemdíj megfizetésére kötelezéséről a munkáltató a kár, illetve a személyiségi jogsértés tudomására jutásától számított 60 napon belül határozattal dönt. Ha a károkozóval, illetve a jogsértővel szemben a kárigénnyel, illetve a személyiségi jogsértéssel összefüggően büntetőeljárás indult, a határidő a büntetőeljárás jogerős befejezésekor veszi kezdetét.
 
-(2) A kártérítési eljárásra a fegyelmi eljárás szabályait megfelelően alkalmazni kell.
+(2) A kártérítési, illetve a sérelemdíj megfizetése iránti eljárásra a fegyelmi eljárás szabályait megfelelően alkalmazni kell.
 
 (3) A határozat ellen az igazságügyi alkalmazott a kézbesítéstől számított 15 napon belül bírósághoz fordulhat. Ha az igazságügyi alkalmazott keresettel nem élt, a határozat végrehajtható.
 
-### Az igazságügyi szerv kártérítési felelőssége
+82/A. § Az okozott személyiségi jogsértés sérelemdíjon kívüli egyéb jogkövetkezményeire a Polgári Törvénykönyv szabályai irányadóak.
 
-83. § (1) Az igazságügyi alkalmazottnak a szolgálati viszonyával összefüggésben okozott kárért a munkáltató – vétkességére tekintet nélkül – teljes mértékben felel.
+### Az igazságügyi szerv kártérítési felelőssége és sérelemdíj megfizetésére kötelezhetősége
 
-(2) Mentesül a munkáltató a felelősség alól, ha bizonyítja, hogy a kárt működési körén kívül eső elháríthatatlan ok vagy kizárólag a károsult elháríthatatlan magatartása okozta.
+83. § (1) Az igazságügyi alkalmazottnak a szolgálati viszonyával összefüggésben okozott kárért a munkáltató – vétkességére tekintet nélkül – teljes mértékben felel, továbbá a szolgálati jogviszonyával összefüggésben okozott személyiségi jogsértésért sérelemdíj megfizetésére köteles.
+
+(2) Mentesül a munkáltató a felelősség, illetve sérelemdíj megfizetése alól, ha bizonyítja, hogy a kárt, illetve a személyiségi jogsértést működési körén kívül eső elháríthatatlan ok vagy kizárólag a károsult, illetve a személyiségi jogában megsértett elháríthatatlan magatartása okozta.
 
 (3) Nem kell megtéríteni a kárnak azt a részét, amelyet a károsult vétkes magatartása idézett elő.
 
-(4) Az igazságügyi alkalmazottnak kell bizonyítania, hogy a károkozás a szolgálati viszonyával összefüggésben következett be.
+(4) Az igazságügyi alkalmazottnak kell bizonyítania, hogy a károkozás, illetve a személyiségi jogsértés a szolgálati viszonyával összefüggésben következett be.
 
-(5) Ha az igazságügyi alkalmazott a munkaköréből eredő feladatokat rendeltetésszerűen a szolgálati helyén kívül is ellátja, az eközben történt károsodásának okát az igazságügyi szerv működési körén belül esőnek kell tekinteni.
+(5) Ha az igazságügyi alkalmazott a munkaköréből eredő feladatokat rendeltetésszerűen a szolgálati helyén kívül is ellátja, az eközben történt károsodásának, illetve személyiségi joga megsértésének okát az igazságügyi szerv működési körén belül esőnek kell tekinteni.
 
 84. § (1) A munkáltatót a 83. § szerinti felelősség terheli az igazságügyi alkalmazottnak a munkahelyére bevitt tárgyaiban, dolgaiban bekövetkezett károkért.
 
 (2) A munkáltató előírhatja a munkahelyre bevitt dolgok meghatározott helyen való elhelyezését, illetve a bevitel bejelentését. A munkába járáshoz, illetve a munkavégzéshez nem szükséges dolgok bevitelét a munkáltató megtilthatja, korlátozhatja vagy feltételhez kötheti. Ha az igazságügyi alkalmazott az előírt szabályokat megszegi, a bekövetkezett kárért a munkáltató csak szándékos károkozása esetén felel.
 
-85. § (1) A munkáltató a 83–84. §-on alapuló felelőssége alapján az igazságügyi alkalmazottnak az elmaradt jövedelmét, dologi kárát, nem vagyoni kárát, illetve a sérelemmel és ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
+85. § (1) A munkáltató a 83. §-on alapuló felelőssége, illetve sérelemdíj-fizetési kötelezettsége alapján és a 84. §-on alapuló felelőssége alapján az igazságügyi alkalmazottnak az elmaradt jövedelmét, a vagyonában beállott értékcsökkenést, az őt ért vagyoni hátrányok kiküszöböléséhez szükséges költségeit köteles megtéríteni, illetve sérelemdíjat köteles fizetni.
 
 (2) Az igazságügyi alkalmazott szolgálati viszonya körében az elmaradt jövedelem megállapításánál az elmaradt illetményt, továbbá azon rendszeres szolgáltatások pénzbeli értékét kell figyelembe venni, amelyekre a szolgálati viszonya alapján jogosult, feltéve, ha azokat a károkozást megelőzően rendszeresen igénybe vette.
 
@@ -893,17 +899,17 @@ rendelkezéseit.
 
 (2) A dologi kár összegét az avulás figyelembevételével kell kiszámítani. Ha a dologban okozott kár az érték csökkenése nélkül kijavítható, kárként a javítási költséget kell figyelembe venni.
 
-87. § (1) A munkáltató köteles megtéríteni az igazságügyi alkalmazott közeli hozzátartozójának a károkozással összefüggésben felmerült kárát és indokolt költségeit is.
+87. § (1) A munkáltató köteles megtéríteni az igazságügyi alkalmazott hozzátartozójának a károkozással összefüggésben felmerült kárát és indokolt költségeit is. A hozzátartozó az okozott személyiségi jogsértésért sérelemdíjat is igényelhet.
 
-(2) Ha a károkozással összefüggésben az igazságügyi alkalmazott meghalt, eltartott hozzátartozója az (1) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségleteinek – a tényleges, illetőleg az elvárhatóan elérhető jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
+(2) Ha a károkozással összefüggésben az igazságügyi alkalmazott meghalt, eltartott hozzátartozója kártérítésként olyan összegű tartást pótló járadékot is igényelhet, amely szükségleteinek – a tényleges, illetve az elvárhatóan elérhető jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
 
 88. § A kártérítés kiszámításánál a kár összegéből le kell vonni
 
 - a) az elmaradt illetményre eső nyugdíjjárulékot, egészségbiztosítási járulékot, munkavállalói járulékot,
 - b) az állami egészség- és a társadalombiztosítás keretében járó ellátások ellenértékét,
-- c) azt az összeget, amelyet az igazságügyi alkalmazott a munkaereje hasznosításával megkeresett,
+- c) azt az összeget, amelyet az igazságügyi alkalmazott a munkaereje hasznosításával megkeresett, ide nem értve azt a jövedelmet, amelyet az igazságügyi alkalmazott munkaképességének csökkenése ellenére rendkívüli munkateljesítménnyel ért el,
 - d) azt az összeget, amelyhez az igazságügyi alkalmazott a megrongálódott dolog hasznosításával hozzájutott,
-- e) azt az összeget, amelyhez a jogosult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá.
+- e) azt az összeget, amelyet a jogosult a károkozás folytán megtakarított.
 
 89. § (1) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani, ha a kártérítés a károsult vagy a vele szemben tartásra jogosult hozzátartozója tartását, illetőleg tartásának a kiegészítését hivatott szolgálni.
 
@@ -911,13 +917,15 @@ rendelkezéseit.
 
 (3) Ha a kártérítés megállapítása után az igazságügyi alkalmazott körülményeiben lényeges változás következik be, mind a károsult, mind a munkáltató a megállapított kártérítés módosítását kérheti.
 
-90. § (1) Az igazságügyi alkalmazott a kártérítési igényét a munkáltatónál írásban érvényesíti. A munkáltató az igény elismeréséről vagy elutasításáról 60 napon belül, indokolt írásbeli választ ad. Amennyiben a munkáltató a kártérítési felelősségét elismeri, haladéktalanul intézkedik a kár megtérítése iránt.
+90. § (1) Az igazságügyi alkalmazott a kártérítési, illetve a sérelemdíj megtérítése iránti igényét a munkáltatónál írásban érvényesíti. A munkáltató az igény elismeréséről vagy elutasításáról 60 napon belül, indokolt írásbeli választ ad. Ha a munkáltató a kártérítési felelősségét, illetve a sérelemdíj megfizetése iránti igényt elismeri, haladéktalanul intézkedik a kár megtérítése, illetve a sérelemdíj megfizetése iránt.
 
-(2) Ha a munkáltató a kártérítési felelősségét nem vagy csak részben ismerte el, továbbá ha a megtérített összeg a sérelem teljes orvoslására nem elegendő, az igazságügyi alkalmazott az igényét bíróság előtt érvényesítheti.
+(2) Ha a munkáltató a kártérítési felelősséget nem vagy csak részben ismerte el, továbbá ha a megtérített összeg a sérelem teljes orvoslására nem elegendő, az igazságügyi alkalmazott az igényét bíróság előtt érvényesítheti. Az igazságügyi alkalmazott az igényét akkor is bíróság előtt érvényesítheti, ha a munkáltató a sérelemdíj megfizetése iránti igényt nem ismerte el, továbbá ha a megfizetett sérelemdíj összegével nem ért egyet.
 
 91. § (1) A munkáltató szükséghez képest az igazságügyi alkalmazottól, illetve hozzátartozójától a munkavégzésből származó jövedelméről, jövedelmi viszonyairól évente igazolást kérhet.
 
 (2) A munkáltató a károsultat tizenöt napon belül értesíti, ha a kártérítés mértékének módosítására alapul szolgáló bérfejlesztést hajtott végre.
+
+91/A. § Az okozott személyiségi jogsértés sérelemdíjon kívüli egyéb jogkövetkezményeire a Polgári Törvénykönyv szabályai irányadóak.
 
 ### VII. Fejezet — A SZOLGÁLATI VISZONYBÓL EREDŐ JOGVITA
 
@@ -929,7 +937,7 @@ rendelkezéseit.
 
 93. § (1) A munkáltató az igazságügyi alkalmazottról személyi nyilvántartást vezet. A járásbírósági és a közigazgatási és munkaügyi bírósági igazságügyi alkalmazottak személyi adatlapját a törvényszéken is nyilván kell tartani.
 
-(2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a fényképet és az esküokmányt, a személyi adatlapot, a kinevezésről, az elektronikus aláírási jogosultságról, illetve a vezetői megbízásról és az illetmény megállapításáról készült iratokat, az értékelést, az elismerésekről és a kitüntetésekről szóló okiratokat, a hatályos fegyelmi büntetésről szóló határozatot, a jogerős kártérítési határozatot, valamint a kirendelésről, áthelyezésről és a szolgálati viszony megszűnéséről szóló iratokat tartalmazza. Bírósági titkár esetén a pályaalkalmassági vizsgálatról készült véleményt a személyi nyilvántartásban kell elhelyezni.
+(2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a fényképet és az esküokmányt, a személyi adatlapot, a kinevezésről, az elektronikus aláírási jogosultságról, illetve a vezetői megbízásról és az illetmény megállapításáról készült iratokat, az értékelést, az elismerésekről és a kitüntetésekről szóló okiratokat, a hatályos fegyelmi büntetésről szóló határozatot, a jogerős kártérítési, illetve sérelemdíjról szóló határozatot, valamint a kirendelésről, áthelyezésről és a szolgálati viszony megszűnéséről szóló iratokat tartalmazza. Bírósági titkár esetén a pályaalkalmassági vizsgálatról készült véleményt a személyi nyilvántartásban kell elhelyezni.
 
 (3) A személyi adatlap tartalmát a 2. számú melléklet tartalmazza. A mellékletben szereplő adatokon kívül adatszerzés nem végezhető, ilyen adatot nem lehet nyilvántartani. Az igazságügyi alkalmazott a nyilvántartott adatokban bekövetkezett változásokat köteles haladéktalanul bejelenteni.
 
@@ -1290,7 +1298,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. § (1) bekezdését, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés b), c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
+124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. § (1) bekezdését, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés b), c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
@@ -1376,7 +1384,7 @@ rendeletben állapítsa meg.
   - ad) az 1. számú mellékletben meghatározott szempontok mellett az ágazatba tartozó munkakörökhöz kapcsolódó további vagy eltérő szempontokat, valamint az egyes munkakörökben foglalkoztatott igazságügyi alkalmazottak minősítésénél kizárt szempontokat, valamint
 - b) az egészségügyért felelős miniszterrel egyetértésben, rendeletben határozza meg a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét.
 
-136. §
+136. § E törvény alkalmazásában közeli hozzátartozón és hozzátartozón a Polgári Törvénykönyv szerinti közeli hozzátartozót és hozzátartozót kell érteni.
 
 137. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

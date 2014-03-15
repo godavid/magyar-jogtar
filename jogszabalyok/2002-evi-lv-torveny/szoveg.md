@@ -10,7 +10,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 1. § (1) E törvény célja, hogy elősegítse a természetes személyek és más személyek személyi és vagyoni jogaival kapcsolatban felmerült azon polgári jogviták rendezését, amelyekben a felek rendelkezési jogát törvény nem korlátozza.
 
-(2) E törvény hatálya nem terjed ki a külön törvényben szabályozott más közvetítői vagy békéltetői eljárásra, továbbá a választottbírósági eljárás során lefolytatandó közvetítésre.
+(2) E törvény hatálya nem terjed ki a külön törvényben szabályozott más közvetítői vagy békéltetői eljárásra, továbbá a választottbírósági eljárás során lefolytatandó közvetítésre, kivéve ha a külön törvény, vagy annak felhatalmazása alapján kiadott rendelet másként rendelkezik.
 
 (3) Nincs helye e törvény szerinti közvetítői eljárásnak a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XVI–XVIII., XX–XXI. és XXIV–XXV. fejezetei alá tartozó ügyekben. A Pp. XV. fejezete alá tartozó ügyekben a bíróság döntése szükséges a házasság érvényességének, illetőleg létezésének vagy nemlétezésének megállapításához, továbbá a házasság érvénytelenítéséhez és a házasság felbontásához.
 
@@ -18,7 +18,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 ### A közvetítés fogalma
 
-2. § A közvetítés e törvény alapján lefolytatott olyan sajátos permegelőző, konfliktuskezelő, vitarendező eljárás, amelynek célja – összhangban az 1. § (1) bekezdésében foglaltakkal – a vitában érdekelt felek kölcsönös megegyezése alapján a vitában nem érintett, harmadik személy (a továbbiakban: közvetítő) bevonása mellett a felek közötti vita rendezésének megoldását tartalmazó írásbeli megállapodás létrehozása.
+2. § A közvetítés e törvény alapján lefolytatott olyan sajátos permegelőző vagy bírósági, illetve hatósági eljárás befejezését elősegítő, egyeztető, konfliktuskezelő, vitarendező eljárás, amelynek célja – összhangban az 1. § (1) bekezdésében foglaltakkal – a vitában érdekelt felek kölcsönös megegyezése alapján a vitában nem érintett, harmadik személy (a továbbiakban: közvetítő) bevonása mellett a felek közötti vita rendezésének megoldását tartalmazó írásbeli megállapodás létrehozása.
 
 ### A közvetítő feladata
 
@@ -41,7 +41,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - c) büntetlen előéletű, és nem áll a közvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 - d) nem esik a (2) bekezdésben vagy egyéb jogszabályban foglalt kizáró ok alá.
 
-(2) Nem vehető fel a névjegyzékbe az a természetes személy, aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll, vagy gondokság alá helyezés nélkül cselekvőképtelen [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 14. § (1) bekezdés, 15. § (1) bekezdés, 17. §].
+(2) Nem vehető fel a névjegyzékbe az a természetes személy, aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll.
 
 (3) A névjegyzékbe kérelemre fel kell venni azt a jogi személyt, amelynek
 
@@ -63,7 +63,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - a) a közvetítői tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
 - b) a közvetítő névjegyzékbe vétele esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-5/B. § Közvetítői tevékenységet a 4. §-ban felsorolt személyeken és szervezeteken kívül az e törvényben meghatározottak szerint bírósági titkár is elláthat (a továbbiakban: bírósági közvetítés).
+5/B. § Közvetítői tevékenységet a 4. §-ban felsorolt személyeken és szervezeteken kívül az e törvényben meghatározottak szerint bírósági titkár, bíró vagy rendelkezési állományba helyezett bíró is elláthat (a továbbiakban: bírósági közvetítés).
 
 ### A névjegyzék
 
@@ -82,7 +82,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - k) lakcímét (postacímét, telefon-, telefaxszámát, e-mail címét),
 - l) munkahelye címét (postacímét, telefon-, telefaxszámát, e-mail címét),
 - m) szakmai testületi tagságát, a szakmai testület pontos megjelölésével, és
-- n) közvetítői igazolványának számát.
+- n) közvetítői igazolványának számát,
+- o) 38/G. § szerinti alávetési nyilatkozat megtételének tényét.
 
 (2) A névjegyzék tartalmazza továbbá a jogi személy
 
@@ -104,6 +105,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 (2) Közvetítői tevékenységet a jogi személynek csak az az alkalmazottja végezhet, aki a névjegyzékben szerepel.
 
 (3) A jogi személy közvetítői tevékenységre feljogosított alkalmazottját e tevékenysége körében a jogi személy tagja, vezető tisztségviselője nem utasíthatja.
+
+(4) Jogi személy 38/G. § szerinti alávetési nyilatkozata érvényességének feltétele, hogy van a jogi személy nevében eljáró olyan természetes személy közvetítő, aki tett ilyen nyilatkozatot és azt nem vonta vissza.
 
 ### A névjegyzékbe történő felvétel iránti kérelem
 
@@ -200,7 +203,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 - a) aki közvetítőként sem járhatott volna el [25. § (1)],
 - b) aki az eljárás alá vont közvetítőt foglalkoztató jogi személy alkalmazottja, vagy vezetője, illetve, ha az őt foglalkoztató jogi személynek a közvetítőt foglalkoztató jogi személlyel vagy az érintett felek bármelyikével való viszonyában többségi befolyás áll fenn, továbbá
-- c) az eljárás alá vont közvetítőnek (jogi személy esetében a nevében eljáró tagjának vagy alkalmazottjának és vezetőjének) a hozzátartozója [Ptk. 685. § b) pont].
+- c) aki az eljárás alá vont közvetítőnek (jogi személy esetében a nevében eljáró tagjának vagy alkalmazottjának és vezetőjének) a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti hozzátartozója.
 
 (3)
 
@@ -242,7 +245,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 ### A közvetítő felkérése
 
-23. § (1) A felek közös megegyezés alapján az általuk választott természetes személy vagy jogi személy közvetítőként történő felkérését írásban vagy elektronikus levélben kezdeményezhetik. A felek – ha annak igénye felmerül – egyidejűleg több természetes személy vagy jogi személy felkérését is kezdeményezhetik.
+23. § (1) A felek közös megegyezés alapján az általuk választott természetes személy vagy jogi személy közvetítőként történő felkérését írásban, telefax útján vagy elektronikus levélben kezdeményezhetik. Ha csak az egyik fél kezdeményezi az eljárás lefolytatását, a közvetítő közreműködhet abban, hogy a többi fél a kezdeményezéshez csatlakozzon; e közreműködésért ellenérték nem állapítható meg. A felek – ha annak igénye felmerül – egyidejűleg több természetes személy vagy jogi személy felkérését is kezdeményezhetik.
 
 (2) A jogi személy a felkérésről értesíti az ügyben közvetítőként eljáró alkalmazottját.
 
@@ -250,13 +253,15 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 - a) a felek nevét, elnevezését, lakhelyét vagy székhelyét, tartózkodási helyét,
 - b) a közvetítésre felkért természetes személy nevét vagy a jogi személy megnevezését,
-- c) ha a felet meghatalmazott képviseli, a meghatalmazott nevét, címét,
+- c) ha a felet
+  - ca) meghatalmazott képviseli, a meghatalmazott nevét, címét vagy
+  - cb) támogató segíti, a támogató nevét, címét,
 - d) a vita tárgyát, és
 - e) a felek által az eljárás során használni kívánt idegen nyelvet.
 
 (4) A felkérésben a feleknek nyilatkozniuk kell arról, hogy közös megegyezésük alapján a közöttük fennálló vitás ügy megoldását közvetítői eljárás keretében kívánják rendezni.
 
-24. § (1) A természetes személy, továbbá a jogi személy nevében eljáró alkalmazott – a jogi személy vezetőjével egyeztetve – a kérelem kézhezvételét követő 8 napon belül köteles írásban nyilatkozni arról, hogy a felkérést elfogadja-e. Ha a felek által felkért természetes személy, továbbá a jogi személy nevében eljáró alkalmazott a felkérést elfogadja, a közvetítői eljárás lefolytatására, mint közvetítő, ő jogosult.
+24. § (1) A természetes személy, továbbá a jogi személy nevében eljáró alkalmazott – a jogi személy vezetőjével egyeztetve – a kérelem kézhezvételét követő 8 napon belül köteles írásban, telefax útján vagy elektronikus levélben nyilatkozni arról, hogy a felkérést elfogadja-e. Ha a felek által felkért természetes személy, továbbá a jogi személy nevében eljáró alkalmazott a felkérést elfogadja, a közvetítői eljárás lefolytatására, mint közvetítő, ő jogosult.
 
 (2) A közvetítő a felkérést a 25. § (1) bekezdésében foglaltak szerinti összeférhetetlenség esetén köteles visszautasítani, egyéb akadályoztatás esetén pedig visszautasíthatja.
 
@@ -264,8 +269,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 25. § (1) A közvetítő nem járhat el, ha
 
-- a) valamelyik felet képviseli,
-- b) a felek bármelyikének a Ptk. 685. § b) pontja szerinti hozzátartozója,
+- a) valamelyik felet képviseli vagy valamelyik fél támogatója,
+- b) a felek bármelyikének a Ptk. szerinti hozzátartozója,
 - c) az őt foglalkoztató jogi személynek valamelyik féllel való viszonyában többségi befolyás áll fenn,
 - d) a felek bármelyikével munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, továbbá tagsági viszonyban áll,
 - e) az ügyben egyébként érdekelt, elfogult.
@@ -316,7 +321,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 31. § (1) A 30. § (2) bekezdése szerinti nyilatkozat aláírásával a közvetítői eljárás megindul.
 
-(2) A közvetítői eljárás megindítása az elévülést megszakítja. A közvetítői eljárás eredményes befejezése után az elévülésre a Ptk. 327. §-a (1) és (2) bekezdésében, a közvetítői eljárás eredménytelensége esetén a Ptk. 326. §-a (2) bekezdésében foglaltak irányadóak.
+(2) A közvetítői eljárás megindítása az elévülést megszakítja. A közvetítői eljárás megállapodással történő eredményes befejezése után az elévülésre a Ptk.-nak az elévülés megszakítására, a közvetítői eljárás eredménytelensége esetén a Ptk.-nak az elévülés nyugvására vonatkozó rendelkezéseiben foglaltak irányadóak.
 
 ### A közvetítői eljárás lefolytatása
 
@@ -353,7 +358,7 @@ a közvetítői eljárásban
 - c) azon a napon, amelyen a felek egybehangzóan kijelentik a közvetítő előtt, hogy kérik a közvetítői eljárás befejezését, vagy
 - d) a felek eltérő megállapodása hiányában a nyilatkozat aláírásának napjától számított négy hónap elteltével.
 
-(2) A közvetítő a felek együttes jelenlétében megkötött megállapodást a közvetítői eljárás lefolytatására választott nyelven írásba foglalja, és a megállapodást tartalmazó okiratot a feleknek átadja. A megállapodást a közvetítő és az együttesen, személyesen jelen lévő felek aláírásukkal látják el.
+(2) A közvetítő a felek együttes jelenlétében megkötött megállapodást a közvetítői eljárás lefolytatására választott nyelven írásba foglalja és a megállapodást tartalmazó okiratot a feleknek átadja. A megállapodást a közvetítő és az együttesen, személyesen jelen lévő felek aláírásukkal látják el. A megállapodás írásba foglalásának elmaradása esetén a megállapodás – részben vagy egészben – történő teljesítése a kötelező alakiság mellőzése miatti érvénytelenséget nem orvosolja.
 
 (3) Ha a közvetítői eljárásban jogtanácsos, közjegyző vagy ügyvéd vett részt közvetítőként, az eljárás során létrejött, írásba foglalt megállapodás alapján joghatás kiváltására alkalmas okiratot nem készíthet és a közvetítő jogtanácsosként vagy ügyvédként annak ellenjegyzésére sem jogosult.
 
@@ -376,13 +381,15 @@ a közvetítői eljárásban
 
 (2) A felek költségére – kérelmük alapján – a közvetítő az őrzési idő alatt az iratokról egyszerű másolatot adhat ki.
 
-### IV. Fejezet — A BÍRÓSÁGI KÖZVETÍTÉS
+### IV/A. Fejezet — A BÍRÓSÁGI KÖZVETÍTÉS
 
 ### A bírósági közvetítő
 
-38/A. § (1) Bírósági közvetítői tevékenységet az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke által – a közvetítői szakmai képzés elvégzésének igazolását követően – kijelölt bírósági titkár és rendelkezési állományba helyezett bíró végezhet.
+38/A. § (1) Bírósági közvetítői tevékenységet az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke által – a közvetítői szakmai képzés elvégzésének igazolását követően – kijelölt bírósági titkár, bíró és rendelkezési állományba helyezett bíró végezhet.
 
-(2) Az (1) bekezdés szerint kijelölt bírósági titkár a bírósági közvetítéssel kapcsolatos tevékenysége során a bírósági közvetítő megjelölést használja (a továbbiakban: bírósági közvetítő).
+(2) Az (1) bekezdés szerint kijelölt személy a bírósági közvetítéssel kapcsolatos tevékenysége során a bírósági közvetítő megjelölést használja (a továbbiakban: bírósági közvetítő).
+
+(3) Ha a felek és a bírósági közvetítő abban megállapodik, az eljárás lefolytatásában további egy vagy több bírósági közvetítő vagy közvetítő is részt vehet.
 
 ### A bírósági közvetítésre vonatkozó különös rendelkezések
 
@@ -394,9 +401,48 @@ a közvetítői eljárásban
 
 (4) A bíróság a bírósági közvetítőként eljáró bírósági titkár vagy rendelkezési állományba helyezett bíró nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
 
-(5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni.
+(5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni. A közvetítői eljárás során, mint közvetítő nem járhat el az ugyanazon közvetítői eljárással érintett peres vagy nemperes bírósági eljárásban eljáró bíró. Az ugyanazon közvetítői eljárással érintett peres vagy nemperes bírósági eljárásban mint bíró nem vehet részt a közvetítői eljárást lefolytató személy.
 
 (6) E törvény 38. §-a azzal az eltéréssel alkalmazandó, hogy a bírósági közvetítés során keletkezett iratokat a bíróság őrzi, és gondoskodik a másolatok kiadásáról.
+
+### IV/B. Fejezet — A KÖTELEZŐ KÖZVETÍTŐI ELJÁRÁS
+
+### Közvetítői eljárás igénybevételére kötelezés
+
+38/C. § (1) Ha törvényben meghatározott jogkörében eljáró bíróság vagy hatóság a vitás feleket közvetítői eljárás igénybevételére kötelezi, e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni (a továbbiakban: kötelező közvetítői eljárás).
+
+(2) Kötelező közvetítői eljárás esetén a bíróság, illetve a hatóság arra kötelezi a feleket, hogy vitájuk – részben vagy egészben – megállapodással történő lezárása céljából legalább egy közvetítővel együttműködjenek; ezen együttműködési kötelezettségük keretében a felek kötelesek
+
+- a) közösen közvetítőhöz fordulni (felkérés vagy kérelem) és
+- b) az első közvetítői megbeszélésen részt venni.
+
+38/D. § (1) Az első közvetítői megbeszélés díja nem haladhatja meg a jogi segítőre vonatkozó, a központi költségvetésről szóló törvényben megállapított óradíj egyszeri összegének és a megjelent felek számának szorzatát.
+
+(2) A közvetítői eljárás díjaként óradíj állapítható meg, amely nem haladhatja meg a jogi segítőre vonatkozó, a központi költségvetésről szóló törvényben megállapított óradíj és a felek számának szorzatát.
+
+### A felekre vonatkozó különös szabályok
+
+38/E. § (1) A felek a közvetítő eljárását felkéréssel, kérelemmel vagy jogszabályban meghatározott módon a kötelezést tartalmazó határozat közlését követő 15 napon belül kötelesek közösen kezdeményezni.
+
+(2) A közvetítő felkérésének vagy a bírósági közvetítői eljárás iránti kérelemnek tartalmaznia kell a bíróságnak vagy a hatóságnak a közvetítői eljárás igénybevételére kötelező határozatának másolatát is.
+
+38/F. § (1) Törvény eltérő rendelkezése hiányában a közvetítői eljárás igénybevételére kötelezett fél e kötelezettsége teljesítését a 38/H. § (2) bekezdése szerinti igazolásnak a bíróság, illetve a hatóság részére történő benyújtásával igazolja.
+
+(2) A kötelező közvetítői eljárás során megkötött megállapodásból külön is írásba foglalható az a rész, amely nem tárgya a bírósági, illetve a hatósági eljárásnak.
+
+### A közvetítőre vonatkozó különös szabályok
+
+38/G. § (1) A kötelező közvetítői eljárás lefolytatására történő felkérést a közvetítő – kivéve ha összeférhetetlenségi ok áll fenn vagy a jogvita tárgya nem tartozik a 6. § (1) bekezdés g) pontja szerinti szakterületébe – köteles elfogadni, ha a miniszternek erről szóló alávetési nyilatkozatot tesz.
+
+(2) Az alávetési nyilatkozatot a közvetítő – legkorábban a névjegyzékbe-vételi kérelemmel egyidejűleg – bármikor megteheti. E nyilatkozat visszavonható; a visszavonás nem érinti azt az ügyet, amelyben a nyilatkozat megtétele tényének a névjegyzékből való törlése előtt a felkérés már megtörtént.
+
+38/H. (1) A közvetítő az első közvetítői megbeszélés időpontját a felekkel egyeztetve úgy határozza meg, hogy a felek a kötelezésnek eleget tehessenek. Ha a kötelező közvetítői eljárás igénybevételének igazolására jogszabály határidőt határoz meg, az első közvetítői megbeszélés közvetítő által javasolt időpontjának a határidő lejártát legalább 15 nappal meg kell előznie.
+
+(2) A közvetítő írásbeli igazolást ad
+
+- a) a feleknek arról, hogy a közvetítői eljárás már megindult, de még nem fejeződött be,
+- b) a feleknek arról, hogy az első közvetítői megbeszélésen részt vettek, vagy
+- c) a félnek arról, hogy a fél jelezte részére a közvetítői eljárás igénybevételére vonatkozó kötelezettségét, de a 38/C. § (2) bekezdésében foglaltak elmaradásának oka nem e félnek a közvetítővel való együttműködésének hiánya.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

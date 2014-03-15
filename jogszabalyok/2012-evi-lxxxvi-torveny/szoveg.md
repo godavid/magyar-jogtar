@@ -138,6 +138,8 @@ kell érteni.
 
 (6) Az Mt. Módtv. 8. § (28) bekezdésével megállapított 287. § (2) és (3) bekezdésében foglaltakat a Módtv. hatálybalépését követően közölt jognyilatkozatok tekintetében kell alkalmazni.
 
+18/B. § Az Mt.-nek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított, a személyiségi jogok megsértésével kapcsolatos jogkövetkezményekre vonatkozó szabályait a 2014. március 15-én és ezt követően történt jogsértésekre kell alkalmazni.
+
 19. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti tartózkodásra jogosító engedéllyel nem rendelkező harmadik országbeli állampolgár foglalkoztatása esetén, a fővállalkozó és valamennyi közbenső alvállalkozó az alvállalkozó munkáltatóval egyetemlegesen felel
 
 - a) a harmadik országbeli állampolgár elmaradt munkabérének és egyéb járandóságainak, valamint

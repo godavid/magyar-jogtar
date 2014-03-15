@@ -48,7 +48,7 @@ az ügyészségről
 
 (5) Az ügyész szakértőt vehet igénybe, ha különleges szakértelemre is szükség van az ügy megítélése szempontjából bizonyítandó tény megállapításához.
 
-5. § (1) Az ügyész a tudomására jutott jogsértés vagy jogszabálysértő mulasztás miatt jogszabályban megállapított feltételek fennállása esetén büntető, fegyelmi, szabálysértési, illetve hatósági eljárást, büntetés-végrehajtási ügyekben kártérítési eljárást is kezdeményez. A kezdeményezés címzettje érdemi döntésének egy példányát köteles az ügyésznek haladéktalanul megküldeni.
+5. § (1) Az ügyész a tudomására jutott jogsértés vagy jogszabálysértő mulasztás miatt jogszabályban megállapított feltételek fennállása esetén büntető, fegyelmi, szabálysértési, illetve hatósági eljárást, büntetés-végrehajtási ügyekben kártérítési, illetve személyiségi jogsértés miatt járó sérelemdíj megfizetése iránti eljárást is kezdeményez. A kezdeményezés címzettje érdemi döntésének egy példányát köteles az ügyésznek haladéktalanul megküldeni.
 
 (2) Az ügyész elbírálja a hatósági határozat, intézkedés, jogszabálysértő mulasztás ellen hozzá intézett kérelmeket, közérdekű bejelentéseket, jogsértésre utaló jelzéseket (a továbbiakban együtt: kérelem). Amennyiben a hozzá intézett kérelem vizsgálatára nincs hatásköre, gondoskodik annak áttételéről a hatáskörrel rendelkező szervhez.
 

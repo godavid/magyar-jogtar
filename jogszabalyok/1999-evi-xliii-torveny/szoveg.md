@@ -22,7 +22,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 (2) A törvény rendelkezéseit alkalmazni kell
 
-- a) azoknak a vallási közösségeknek, települési önkormányzatoknak, nemzetiségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
+- a) azoknak a vallási közösségeknek, települési önkormányzatoknak, nemzetiségi önkormányzatoknak, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezeteknek (a továbbiakban: gazdálkodó szervezet), közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
 - b) a temető és temetkezési emlékhely fenntartását, üzemeltetését, valamint temetkezési szolgáltatási tevékenységet végző természetes és jogi személyeknek, illetőleg annak, akire nézve e tevékenységek során jogok keletkeznek, és kötelezettségek hárulnak.
 
 (3) A törvény rendelkezéseit a műemlékvédelem alatt álló temetők, temetkezési emlékhelyek és temetési helyek tekintetében a kulturális örökség védelméről szóló törvénnyel összhangban kell alkalmazni.
@@ -50,7 +50,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 ### Általános szabályok
 
-4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, a vallási közösség, a helyi és országos nemzetiségi önkormányzat, gazdálkodó szervezet [Ptk. 685. § c) pontja] és közhasznú szervezet lehet.
+4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, a vallási közösség, a helyi és országos nemzetiségi önkormányzat, gazdálkodó szervezet és közhasznú szervezet lehet.
 
 (2) Azon a településen, ahol nincs önkormányzati tulajdonú temető, gazdálkodó szervezet vagy közhasznú szervezet a temetőtulajdonban tulajdoni hányadot akkor szerezhet, ha az önkormányzat legalább 51%-os tulajdoni hányadban tulajdonosa lesz a temetőnek. Az önkormányzat tulajdoni hányada a működés során sem csökkenthető 51% alá.
 
@@ -174,7 +174,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (6) Az üzemeltető a nyilvántartó könyv és a sírbolt könyv adatai alapján, a más temetőben, temetkezési emlékhelyen történő eltemetés esetén a befogadó nyilatkozatról vezetett nyilvántartás alapján, ezek hiányában az eltemetésre kötelezett személy nyilatkozatáról vezetett nyilvántartás alapján a temető nyitvatartási ideje alatt felvilágosítást ad a kegyeleti jogokat gyakorolni kívánó részére az elhunyt személy temetési helyéről és a hamvak elhelyezkedésének helyéről.
 
-(7) A más temetőbe, temetkezési emlékhelyre történt temetés esetén a temető vagy temetkezési emlékhely befogadó nyilatkozatát, valamint a temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatát az eltemettető, az elhunyt közeli hozzátartozója és az ellenőrzést végző hatóság tekintheti meg.
+(7) A más temetőbe, temetkezési emlékhelyre történt temetés esetén a temető vagy temetkezési emlékhely befogadó nyilatkozatát, valamint a temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatát az eltemettető, az elhunyt Polgári Törvénykönyv szerinti közeli hozzátartozója (a továbbiakban: közeli hozzátartozó) és az ellenőrzést végző hatóság tekintheti meg.
 
 (8) A temetőn, temetkezési emlékhelyen kívüli urnaelhelyezésről kiállított nyilatkozatot és az elhunyt más temetőbe történő áthelyezése alapjául szolgáló befogadó nyilatkozatot a temető fennállásig meg kell őrizni. Ha a temető megszűnik, a nyilatkozatok levéltárban történő elhelyezéséről a temető tulajdonosa gondoskodik.
 
@@ -195,7 +195,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 - a) aki a temetést szerződésben vállalta;
 - b) akit arra az elhunyt végrendelete kötelez;
 - c) végintézkedés hiányában elhunyt temetéséről az elhalálozása előtt vele együtt élő házastársa vagy élettársa;
-- d) az elhunyt egyéb közeli hozzátartozója [Ptk. 685. § b) pontja] a törvényes öröklés rendje szerint.
+- d) az elhunyt egyéb, közeli hozzátartozója a törvényes öröklés rendje szerint.
 
 (2) Ha temetésre kötelezett személy nincs, ismeretlen helyen tartózkodik vagy a kötelezettségét nem teljesíti, a temetésről az elhalálozás helye szerint illetékes települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere, illetve ha az elhalálozásra a fővárosi önkormányzat által közvetlenül igazgatott területen kerül sor, a főpolgármester – jogszabályban meghatározott határidőn belül – gondoskodik.
 

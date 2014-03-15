@@ -109,9 +109,9 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 9. § Az e törvényben foglalt egészségügyi szolgáltatások az egészségbiztosítóval az adott szolgáltatásra finanszírozási szerződéssel rendelkező (a továbbiakban: finanszírozott) egészségügyi szolgáltatónál vehetők igénybe. A finanszírozott egészségügyi szolgáltató feladata a 18. § (6) bekezdésében foglalt ellátások közül azok végzése is, amelyek a központi költségvetés terhére az E. Alapon keresztül kerülnek finanszírozásra.
 
-9/A. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 292/B. §-ában foglaltakat a finanszírozott egészségügyi szolgáltatók és a 30. § (2) bekezdése szerinti szerződéssel rendelkező szolgáltatók vonatkozásában azzal az eltéréssel kell alkalmazni, hogy esetükben
+9/A. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:130. §-ában foglaltakat a finanszírozott egészségügyi szolgáltatók és a 30. § (2) bekezdése szerinti szerződéssel rendelkező szolgáltatók vonatkozásában azzal az eltéréssel kell alkalmazni, hogy esetükben
 
-- a) a pénztartozás teljesítésére a Ptk. 292/B. § (1) bekezdésében meghatározott határidő hatvan nap,
+- a) a pénztartozás teljesítésére a Ptk. 6:130. § (1) és (2) bekezdésében meghatározott határidő hatvan nap,
 - b) a pénztartozás teljesítésére szerződésben kikötött határidő a hatvan napot meghaladó részében semmis.
 
 ### II. Fejezet — AZ EGÉSZSÉGBIZTOSÍTÁS EGÉSZSÉGÜGYI SZOLGÁLTATÁSAI
@@ -704,7 +704,7 @@ igazolja.
 - d)
 - e) a pénzeszközállományára,
 - f) a készletállományára és
-- g) a beruházásaira vonatkozó – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. §-a alapján üzleti titoknak nem minősülő – adatokat az egészségbiztosító számára megküldeni. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 15 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
+- g) a beruházásaira vonatkozó – a Ptk. szerint üzleti titoknak nem minősülő – adatokat az egészségbiztosító számára megküldeni. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 15 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
 
 (9a) A fekvőbeteg-szakellátást és a heti 200 szakorvosi óránál magasabb óraszámmal rendelkező járóbeteg-szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató a kötelezettségei állományára vonatkozó, üzleti titoknak nem minősülő adatokat – a fizetési határidő lejártától eltelt idő szerint csoportosított bontásban – havonta, a tárgyhónapot követő hónap ötödik napjáig megküldi az egészségbiztosító számára, az egészségbiztosító által meghatározott formai követelmények szerint. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 5 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
 

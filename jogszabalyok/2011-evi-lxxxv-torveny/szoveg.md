@@ -34,7 +34,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - 2. anyagáram: az egyes termékáramokon belül elkülönülő önálló hasznosítási kötelezettséggel rendelkező anyag, illetve termék;
 - 3. ártalmatlanítás: a hulladéknak a Ht. szerinti ártalmatlanítása;
 - 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
-- 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
+- 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
 - 6. csekély mennyiségű csomagolást forgalomba hozó vagy saját célra felhasználó kötelezett: legfeljebb tárgyévi
   - a) 3000 kg üveg,
   - b) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyag,
@@ -62,6 +62,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - 14. forgalomba hozatal: a termékdíjköteles termék tulajdonjogának
   - a) belföldi ingyenes vagy visszterhes átruházása, ideértve a más termék tartozékaként vagy alkotórészeként való átruházását és a csomagolószer csomagolás részekénti átruházását,
   - b) belföldön gazdasági céllal letelepedett vagy belföldön nyilvántartásba vett kötelezett általi átruházása, ha a külföldön küldeményként vagy a fuvarozásra feladott termék a küldeményként való megérkezésekor, vagy a fuvarozás befejezésekor belföldön van.
+- 14a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - 15. harmadik ország: az Európai Közösségen kívüli állam;
 - 16. hasznosítás: a termékdíjköteles termékből képződő hulladéknak a Ht. szerinti hasznosítása;
 - 17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;

@@ -8,7 +8,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 1. § (1) E törvényt kell alkalmazni
 
-- a) az elektronikus aláírással kapcsolatos szolgáltatást végző természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre, gazdálkodó szervezetre;
+- a) az elektronikus aláírással kapcsolatos szolgáltatást végző természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre;
 - b) az elektronikus aláírással kapcsolatos szolgáltatást igénybe vevő, illetőleg elektronikus aláírást felhasználó természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre;
 - c) az elektronikus aláírással kapcsolatos szolgáltatásra és az elektronikus aláírás felhasználásának egyes kérdéseire.
 
@@ -58,7 +58,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 3. § (1) Elektronikus aláírás, illetve dokumentum elfogadását – beleértve a bizonyítási eszközként történő alkalmazást – megtagadni, jognyilatkozat tételére, illetve joghatás kiváltására való alkalmasságát kétségbe vonni – a (2) bekezdés szerinti korlátozással – nem lehet kizárólag amiatt, hogy az aláírás, illetve dokumentum elektronikus formában létezik.
 
-(2) A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 598–684. §-ában szereplő, illetve a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény szerinti jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
+(2) A Polgári Törvénykönyvben szabályozott családjogi, élettársi kapcsolati, valamint öröklésjogi jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
 
 (3) A bírósági eljárások különböző típusaiban – az (1) bekezdésben előírt, bizonyítási eszközkénti felhasználáson túlmenően – eljárási cselekményeket akkor lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikusan aláírt elektronikus dokumentum, illetve elektronikus aláírás használatával foganatosítani, ha ezt az eljárás-típusra vonatkozó jogszabály kifejezetten lehetővé teszi.
 
@@ -279,7 +279,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 ### A hitelesítés-szolgáltató felelőssége
 
-15. § (1) A hitelesítés-szolgáltató a vele szerződéses jogviszonyban nem álló harmadik személlyel szemben a Ptk. 339. §-a szerint, az aláíróval szemben pedig a szerződésszegésért való felelősség szabályai szerint felelős a minősített elektronikus aláírással vagy időbélyegzővel, illetve az ezzel ellátott elektronikusan aláírt elektronikus dokumentummal okozott kárért, ha a 7. § (2) bekezdésében, illetve a 9–11. §-okban vagy a 14. §-ban foglaltakat megszegte. E szabályok megtartását kétség esetén a szolgáltatónak kell bizonyítania.
+15. § (1) A hitelesítés-szolgáltató a vele szerződéses jogviszonyban nem álló harmadik személlyel szemben a Polgári Törvénykönyv általános felelősségi szabálya szerint, az aláíróval szemben pedig a szerződésszegésért való felelősség szabályai szerint felelős a minősített elektronikus aláírással vagy időbélyegzővel, illetve az ezzel ellátott elektronikusan aláírt elektronikus dokumentummal okozott kárért, ha a 7. § (2) bekezdésében, illetve a 9–11. §-ban vagy a 14. §-ban foglaltakat megszegte. E szabályok megtartását kétség esetén a szolgáltatónak kell bizonyítania.
 
 (2) A 9. § (2) bekezdése szerinti korlátokat meghaladó ügyletekben kibocsátott és aláírt elektronikus dokumentumból származó követelésekért, illetve az így okozott kárért a hitelesítés-szolgáltató nem felel.
 

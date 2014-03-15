@@ -593,7 +593,7 @@ bírálja el.
 
 (4) A polgári jogi igényt – a Polgári perrendtartásban meghatározott feltételek esetén – az ügyész is érvényesítheti.
 
-(5)
+(5) A magánfél támogatója a polgári jogi igénnyel kapcsolatos eljárási cselekményeknél jelen lehet.
 
 (6) Ha a sértett meghalt, az örököse léphet fel magánfélként, az 51. §-ban szabályozott jogok azonban csak a polgári jogi igény érvényesítésével kapcsolatban illetik meg.
 
@@ -613,7 +613,7 @@ bírálja el.
 
 56. § (1) A sértett, a magánvádló és az egyéb érdekelt – ha e törvény nem ír elő személyes közreműködési kötelezettséget – a jogait a képviselője útján is gyakorolhatja. Képviselőként meghatalmazás alapján ügyvéd, nagykorú hozzátartozó, vagy külön törvényben erre feljogosított személy járhat el.
 
-(2) Ha a sértett, a magánvádló vagy az egyéb érdekelt cselekvőképtelen vagy korlátozottan cselekvőképes, a képviseletét a törvényes képviselője látja el, érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók. Az e törvényben meghatározott esetben a képviseletre eseti gondnok is jogosult.
+(2) Ha a sértett, a magánvádló és az egyéb érdekelt kiskorú, cselekvőképtelen nagykorú vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú, képviseletét a törvényes képviselője látja el. Ha a cselekvőképességében részlegesen korlátozott nagykorú sértettet, magánvádlót és egyéb érdekeltet a bíróság a személyes, illetve a vagyoni ügyei vitelében korlátozta, jognyilatkozatot csak a törvényes képviselője hozzájárulásával tehet. Érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók. Az e törvényben meghatározott esetben a képviseletre eseti gyám vagy eseti gondnok is jogosult.
 
 (3) Állami szervet és gazdálkodó szervezetet a képviseletre feljogosított dolgozója, illetőleg az ügyintézésre jogosult tagja vagy alkalmazottja is képviselhet.
 
@@ -638,6 +638,12 @@ bírálja el.
 ### A segítők
 
 59. § A segítők az e törvényben meghatározott tevékenységet fejthetnek ki a terhelt, a tanú és az e törvényben meghatározott más személyek érdekében.
+
+### A támogató
+
+59/A. § (1) A támogató a sértett, a magánfél és a tanú számára, a Polgári Törvénykönyv alapján a gyámhatóság által kirendelt személy.
+
+(2) A támogató a büntetőeljárás során az e törvényben meghatározott tevékenységet fejthet ki.
 
 ### VI. Fejezet — AZ ELJÁRÁSI CSELEKMÉNYEKRE VONATKOZÓ RENDELKEZÉSEK
 
@@ -1144,11 +1150,11 @@ bírálja el.
 
 (2) Aki szellemi vagy egyéb állapota miatt korlátozottan képes megítélni a tanúvallomás megtagadásának jelentőségét, tanúként csak akkor hallgatható ki, ha vallomást kíván tenni, és a törvényes képviselője vagy a tanúként kihallgatandó által megjelölt hozzátartozó hozzájárul. A törvényes képviselő vagy a kihallgatandó által megjelölt hozzátartozó a tanú érdekében ügyvédet hatalmazhat meg.
 
-(3) A tizennyolcadik életévét meg nem haladott, valamint a (2) bekezdésben meghatározott tanú kihallgatásánál a tanú törvényes képviselője és gondozója jelen lehet.
+(3) A tizennyolcadik életévét meg nem haladott, valamint a (2) bekezdésben meghatározott tanú kihallgatásánál a tanú törvényes képviselője, támogatója és gondozója jelen lehet.
 
 (3a) A 85. § (3) bekezdésében meghatározott figyelmeztetéseket a tizennyolcadik életévét meg nem haladott tanú korára, érettségére figyelemmel, számára érthető módon kell megfogalmazni.
 
-(4) Ha a tanú és a törvényes képviselő vagy a gondozó, illetőleg a tanú által megjelölt hozzátartozó között érdekellentét van, a (2) és (3) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
+(4) Ha a tanú és a törvényes képviselő vagy a gondozó, illetve a támogató vagy a tanú által megjelölt hozzátartozó között érdekellentét van, vagy a nyomozás érdekei miatt szükséges, a (2) és (3) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
 
 87. § A tárgyalást megelőzően a tanú bíróság előtti kihallgatásának akkor van helye, ha
 
@@ -1678,7 +1684,7 @@ a bíróság – a vádirat benyújtásáig az ügyész indítványára – a v�
 - b) a magánvádló,
 - c) a pótmagánvádló,
 - d) a sértett,
-- e) a cselekvőképtelen vagy korlátozottan cselekvőképes sértett törvényes képviselője, valamint
+- e) cselekvőképtelen sértett esetén kizárólag törvényes képviselője, korlátozottan cselekvőképes kiskorú sértett esetén törvényes képviselője is, személyes ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú sértett a törvényes képviselője hozzájárulásával, valamint
 - f) a terhelttel közös háztartásban élő kiskorú személy törvényes képviselője
 
 indítványozhatja.
@@ -2226,11 +2232,11 @@ vezet.
 
 (2) A bűncselekmény elkövetésének megalapozott gyanúja esetén az ügyész a feljelentést határozattal elutasítja, ha a bűncselekmény elkövetésével fedett nyomozó [178. § (2) bek.] gyanúsítható megalapozottan, aki a cselekményt szolgálati feladata teljesítése közben bűnüldözési érdekből követte el, és a bűnüldözési érdek jelentősebb, mint az, amely az állam büntetőjogi igényének érvényesítéséhez fűződik.
 
-(3) A feljelentésnek az (1) vagy (2) bekezdés alapján történt elutasítása esetén az állam téríti meg azt a kárt, amely az elkövetőt a polgári jog szerint terheli. Ha a kártérítésről polgári perben kell határozni, a kárigény jogalapját vélelmezni kell.
+(3) A feljelentésnek az (1) vagy (2) bekezdés alapján történt elutasítása esetén az állam téríti meg azt a kárt, illetve sérelemdíjat, amely az elkövetőt a polgári jog szerint terheli. Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell.
 
-(4) A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a feljelentés elutasításáról határozatot hozott ügyész nyilatkozatát a felperes sérelmére elkövetett cselekményről, illetőleg a cselekménnyel okozott kárról. Az ügyész nyilatkozata nem terjedhet ki olyan tényre, amelynek alapján az elkövető személyére, illetve a feljelentés elutasításának indokaira lehet következtetni.
+(4) A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a feljelentés elutasításáról határozatot hozott ügyész nyilatkozatát a felperes sérelmére elkövetett cselekményről, illetőleg a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. Az ügyész nyilatkozata nem terjedhet ki olyan tényre, amelynek alapján az elkövető személyére, illetve a feljelentés elutasításának indokaira lehet következtetni.
 
-(5) Ha a feljelentést az (1) vagy (2) bekezdés alapján utasítják el, a határozat rendelkező részből és keltezésből áll. A rendelkező rész tartalmazza a bűncselekmény megjelölését, a feljelentés elutasításának tényét, és a tájékoztatást arról, hogy a bűncselekmény elkövetésével kapcsolatban felmerült kár az állammal szemben miként érvényesíthető.
+(5) Ha a feljelentést az (1) vagy (2) bekezdés alapján utasítják el, a határozat rendelkező részből és keltezésből áll. A rendelkező rész tartalmazza a bűncselekmény megjelölését, a feljelentés elutasításának tényét, és a tájékoztatást arról, hogy a bűncselekmény elkövetésével kapcsolatban felmerült kár, illetve sérelemdíj iránti igény az állammal szemben miként érvényesíthető.
 
 (6) Az (1) vagy (2) bekezdés alapján a feljelentés nem utasítható el, ha az (1) bekezdésben meghatározott személy, illetőleg a fedett nyomozó más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
 
@@ -2365,7 +2371,7 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (9)
 
-185. § (1) A gyanúsított, a védő és a sértett jelen lehet a szakértő meghallgatásánál, a szemlénél, a bizonyítási kísérletnél és a felismerésre bemutatásnál, indítványt terjeszthet elő és észrevételt tehet, a szakértőhöz kérdéseket intézhet. A felsoroltaknak a nyomozási cselekményről való értesítése kivételesen mellőzhető, ha ezt a nyomozási cselekmény sürgőssége indokolja. Az értesítést mellőzni kell, ha ennek következtében a tanú zártan kezelt adatai a gyanúsított, a védő és a sértett előtt ismertté válnának.
+185. § (1) A gyanúsított, a védő, a sértett és a sértett támogatója jelen lehet a szakértő meghallgatásánál, a szemlénél, a bizonyítási kísérletnél és a felismerésre bemutatásnál, a sértett támogatója kivételével indítványt terjeszthet elő és észrevételt tehet, a szakértőhöz kérdéseket intézhet. A felsoroltaknak a nyomozási cselekményről való értesítése kivételesen mellőzhető, ha ezt a nyomozási cselekmény sürgőssége indokolja. Az értesítést mellőzni kell, ha ennek következtében a tanú zártan kezelt adatai a gyanúsított, a védő, a sértett és a sértett támogatója előtt ismertté válnának.
 
 (2) A gyanúsított a szemlére és a bizonyítási kísérletre idézhető, ebben az esetben a nyomozási cselekmény a gyanúsított távollétében nem tartható meg.
 
@@ -3665,7 +3671,7 @@ ellen.
 (2) A tanács elnöke felhívására
 
 - a) az ügyész ismerteti a vádat,
-- b) a jelen lévő sértett, illetőleg képviselője nyilatkozik arról, hogy érvényesít-e polgári jogi igényt; ha a sértett polgári jogi igényt kíván érvényesíteni, a tanács elnöke felhívja őt igényének ismertetésére, és – ha nincs képviselője – figyelmezteti őt az 54. § (7) bekezdésében foglaltakra; ezt követően
+- b) a jelen lévő sértett, illetve képviselője nyilatkozik arról, hogy érvényesít-e polgári jogi igényt; ha a sértett polgári jogi igényt kíván érvényesíteni, a tanács elnöke felhívja őt igényének ismertetésére, e körben engedélyezheti számára, hogy támogatójával értekezzen, és – ha nincs képviselője – figyelmezteti őt az 54. § (7) bekezdésében foglaltakra; ezt követően
 - c) a tanúként kihallgatandó sértett a tárgyalótermet elhagyja.
 
 (3) A tanács elnöke, ha a polgári jogi igény érvényesítése az 54. § (2a) bekezdésében foglalt feltételeknek megfelel, a polgári jogi igényt és az ideiglenes intézkedés iránti kérelmet a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg.
@@ -4088,7 +4094,7 @@ ellen.
 
 ### A szülői felügyeleti jog megszüntetése
 
-336. § (1) A bíróság az ügyész indítványára a vádlott szülői felügyeleti jogát megszünteti, ha a vádlottat a gyermekének sérelmére elkövetett szándékos bűncselekményben bűnösnek mondja ki, és megállapítja a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 88. §-ának (1) bekezdésében meghatározott feltételek fennállását.
+336. § (1) A bíróság az ügyész indítványára a vádlott szülői felügyeleti jogát megszünteti, ha a vádlottat a gyermekének sérelmére elkövetett szándékos bűncselekményben bűnösnek mondja ki és megállapítja a szülői felügyeleti jog bírósági megszüntetése Polgári Törvénykönyv szerinti feltételeinek fennállását.
 
 (2) A bíróság az (1) bekezdésben meghatározott feltételek hiányában az indítványt elutasítja.
 
@@ -5107,15 +5113,15 @@ II. a terhelt javára:
 
 451. § A törvényes képviselő az ügy iratait a nyomozás befejezése után megtekintheti. A nyomozás során is megtekintheti az olyan eljárási cselekményekről készült iratokat, amelyeknél jelen lehetett. Egyébként a törvényes képviselő jelenléti, észrevételezési, felvilágosításkérési, indítványtételi, valamint jogorvoslati jogára a védő jogai irányadók.
 
-452. § (1) A gyámhatóság – a vádirat benyújtásáig az ügyész, azt követően a bíróság megkeresésére – eseti gondnokot rendel ki, ha
+452. § (1) A gyámhatóság – a vádirat benyújtásáig az ügyész, azt követően a bíróság megkeresésére – eseti gyámot rendel ki, ha
 
 - a) a törvényes képviselő a bűncselekményt a fiatalkorúval együtt követte el, illetőleg az érdekei a fiatalkorú érdekeivel egyébként ellentétesek,
 - b) a törvényes képviselő a jogainak gyakorlásában akadályozva van,
 - c) a fiatalkorúnak nincs törvényes képviselője, vagy nem állapítható meg, hogy ki a törvényes képviselője.
 
-(2) Az (1) bekezdés a) pontja esetén az eseti gondnok kirendeléséig a vádirat benyújtásáig az ügyész, azt követően a bíróság a törvényes képviselőt kizárhatja az eljárásból.
+(2) Az (1) bekezdés a) pontja esetén az eseti gyám kirendeléséig a vádirat benyújtásáig az ügyész, azt követően a bíróság a törvényes képviselőt kizárhatja az eljárásból.
 
-(3) Az eseti gondnok az eljárásban törvényes képviselőként jár el.
+(3) Az eseti gyám az eljárásban törvényes képviselőként jár el.
 
 ### A bizonyítási eszközök
 
@@ -6278,9 +6284,9 @@ I. a nyomozást azért szüntették meg, mert
 
 (3)
 
-582. § (1) A kártalanítás módjára és mértékére a Polgári Törvénykönyvnek a szerződésen kívül okozott kárért való felelősségére vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+582. § (1) A kártalanítás módjára és mértékére a Polgári Törvénykönyvnek a kártalanításra és a sérelemdíjra vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A kártalanítás az annak alapjául szolgáló nyomozást megszüntető határozat kézbesítésével, illetőleg a felmentő ítélet, a eljárást megszüntető végzés, valamint a rendkívüli jogorvoslat eredményeképpen hozott határozat jogerőre emelkedésével válik esedékessé.
+(2) A kártalanítás az annak alapjául szolgáló nyomozást megszüntető határozat kézbesítésével, illetve a felmentő ítélet, az eljárást megszüntető végzés, az 580. § (1) bekezdés III. pontja és (2) bekezdése szerinti bűnösséget megállapító ítélet, valamint a rendkívüli jogorvoslat eredményeképpen hozott határozat jogerőre emelkedésével válik esedékessé.
 
 583. § (1) A terhelt a nyomozást megszüntető határozat, a jogerős felmentő ítélet, a jogerős megszüntető végzés, az 580. § (1) bekezdés III. pontja és (2) bekezdése szerinti bűnösséget megállapító ítélet, a rendkívüli jogorvoslat eredményeképpen hozott jogerős határozat vele történő közlésétől számított hat hónapon belül terjeszthet elő kártalanítási igényt. E határidő elmulasztása jogvesztő.
 
@@ -6288,11 +6294,11 @@ I. a nyomozást azért szüntették meg, mert
 
 (3) Ha a nyomozást megszüntették, a kártalanítási igényt annál a bíróságnál kell előterjeszteni, amely az előzetes letartóztatást, a házi őrizetet, illetve az ideiglenes kényszergyógykezelést elrendelte. Az 580. § (1) bekezdés II. és III. pontjában, (2) bekezdésében, valamint az 581. § (1) bekezdésében meghatározott esetekben a kártalanítási igényt az alapügyben első fokon eljárt bíróságnál kell előterjeszteni.
 
-(4) Ha a terhelt a kártalanítási eljárás lefolytatása előtt meghal, vagy a határidő eltelte előtt meghal anélkül, hogy igényét előterjesztette volna, örököse az eljárás folytatását kérheti, illetőleg a határidőn belül kártalanítási igényt terjeszthet elő.
+(4) Ha a terhelt a kártalanítási eljárás lefolytatása alatt meghal, örököse a terhelt halálától számított hat hónapon belül kérheti az eljárás folytatását.
 
 (5) A terheltet kártalanítási igényének jogalapjáról, az igény érvényesítésének határidejéről, a határidő kezdő időpontjáról és a határidő elmulasztásának jogvesztő jellegéről az (1) bekezdés szerinti határozat közlésével egyidejűleg tájékoztatni kell.
 
-584. § (1) A bíróság a kérelmet a büntetőügy irataival együtt az eljárás lefolytatása végett a kártérítés elbírálására a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg. Az iratok megküldését elrendelő végzés ellen nincs helye fellebbezésnek.
+584. § (1) A bíróság a kérelmet a büntetőügy irataival együtt az eljárás lefolytatása végett az igény elbírálására a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg. Az iratok megküldését elrendelő végzés ellen nincs helye fellebbezésnek.
 
 (2) A kártalanítási igény elbírálása során az (1) bekezdés szerinti bíróság az e törvényben foglalt eltérésekkel a Polgári perrendtartás szabályai szerint jár el. A perben felperesként a terhelt (örökös), alperesként a Magyar Állam képviseletében az igazságügyért felelős miniszter vesz részt.
 
@@ -6576,7 +6582,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 
 (3) Ahol e törvény hozzátartozóról rendelkezik, a Btk. 459. § 14. pontja, illetve az 1978. évi IV. törvény 137. § 6. pontja az irányadó, ahol e törvény állami szervről rendelkezik, ezen költségvetési szervet kell érteni.
 
-(4) Ahol e törvény gazdálkodó szervezetről rendelkezik, ezen a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltakat kell érteni.
+(4) Ahol e törvény gazdálkodó szervezetről rendelkezik, ezen a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetet kell érteni.
 
 (5) Ahol e törvény a jogkövetkezményeket a törvényben meghatározott büntetéshez fűzi, ezen a Btk. Különös Részében meghatározott büntetési tételkeret felső határát kell érteni.
 

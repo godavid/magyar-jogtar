@@ -6,13 +6,13 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 1. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 74/G. §-a, azzal hogy azok a szervezetek, amelyek közalapítvány létrehozására e törvény hatálybalépése előtt a Ptk. 74/G. §-a alapján jogosultak voltak, alapítványt e törvény hatálybalépését követően sem alapíthatnak és ahhoz nem csatlakozhatnak.
 
-(2) Az e törvény hatálybalépése előtt nyilvántartásba vett közalapítvány (a továbbiakban: közalapítvány) működésére a Ptk. alapítványra vonatkozó rendelkezéseit az alábbi eltéréssel kell alkalmazni:
+(2) Az e törvény hatálybalépése előtt nyilvántartásba vett közalapítvány (a továbbiakban: közalapítvány) működésére a Polgári Törvénykönyv alapítványra vonatkozó rendelkezéseit az alábbi eltéréssel kell alkalmazni:
 
-- a) A közalapítvány csak olyan gazdálkodó szervezetben vehet részt, amelyben legalább többségi befolyással (Ptk. 685/B. §) rendelkezik, és amelyben felelőssége nem haladja meg vagyoni hozzájárulása mértékét. Közalapítvány által létrehozott gazdálkodó szervezet további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
+- a) A közalapítvány csak olyan gazdálkodó szervezetben vehet részt, amelyben legalább többségi befolyással (Polgári Törvénykönyv 8:2. §) rendelkezik, és amelyben felelőssége nem haladja meg vagyoni hozzájárulása mértékét. Közalapítvány által létrehozott gazdálkodó szervezet további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
 - b) A közalapítvány alapítványt nem hozhat létre, ahhoz nem csatlakozhat, azzal nem egyesíthető, a közalapítvány alapítvány alapító jogainak gyakorlására nem jelölhető ki.
 - c) A közalapítvány pályázat kiírása nélkül évente a vagyona 5%-ának mértékéig, de legfeljebb összesen egymillió forint (közvetlen vagy közvetett) támogatást nyújthat az alapító okiratban foglalt célokra. Meghívásos pályázat kiírására kizárólag akkor kerülhet sor, ha – azt törvény vagy kormányrendelet lehetővé teszi és – pályázati kiírás tartalmazza a támogatási célt, a támogatás feltételeit és az elszámolás részletes rendjét.
 - d)
-- e) A közalapítvány alapító okiratban megjelölt kezelő szerve (szervezete) a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles.
+- e) A közalapítvány alapító okiratban megjelölt ügyvezető szerve a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles.
 - f) A közalapítvány alapító okiratának módosítását (módosítással egybeszerkesztett szövegét) a Magyar Közlönyben, illetve az önkormányzat hivatalos lapjában – ennek hiányában a helyben szokásos módon – közzé kell tenni.
 
 (3)
@@ -59,7 +59,7 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 (4) A bíróság az alapítvány (közalapítvány) törléséről szóló végzését valamennyi alapító, és az alapítvány (közalapítvány) részére megküldi.
 
-5. § (1) Az állami alapító által alapított alapítvány (közalapítvány), illetve állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) kezelő szervezetébe tagként az állami alapító részéről jelölt személy megbízatását az állami alapító indokolás nélkül visszavonhatja, és helyére más személyt jelölhet ki.
+5. § (1) Az állami alapító által alapított alapítvány (közalapítvány), illetve állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) ügyvezető szervébe tagként az állami alapító részéről jelölt személy megbízatását az állami alapító indokolás nélkül visszavonhatja, és helyére más személyt jelölhet ki.
 
 (2) A kijelölés visszavonásával érintett helyére tagként jelölt személy bírósági nyilvántartásba vételéig nem vehet részt az alapítvány (közalapítvány) olyan vagyoni kötelezettségvállalásra irányuló döntéshozatalában, amely az alapító okiratban vagy annak az állami alapító által a (3) bekezdés szerint előterjesztett módosításában meghatározott mértéket meghaladja.
 
@@ -69,13 +69,23 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 6. § (1) Az állami alapító vagy az általa létrehozott szervezet által önállóan vagy más állami alapítóval, állami alapító által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított alapítvány vagy közalapítvány tekintetében az állami alapító, az állami alapító által létrehozott szervezet vagy az alapító jogainak gyakorlására kijelölt személy halála vagy jogutód nélküli megszűnése esetén, az alapítót megillető jogokat a Kormány által nyilvános határozatban kijelölt miniszter, az erről szóló döntés meghozataláig a kormányzati tevékenység összehangolásáért felelős miniszter (a továbbiakban együtt: az alapító jogainak gyakorlására kijelölt miniszter) gyakorolja.
 
-(2) Az (1) bekezdésben meghatározott esetben az alapítvány vagy közalapítvány alapító okiratát az alapító jogainak gyakorlására kijelölt miniszter a társalapítók egyetértése nélkül is módosíthatja, az alapítvány vagy közalapítvány kezelő szervének vagy szervezetének kijelölését a Ptk.-ban meghatározott ok fennállása hiányában is visszavonhatja, továbbá az alapítvány vagy közalapítvány kezelő szerve helyett, kezelő szervként más szervet vagy szervezetet jelölhet ki vagy hozhat létre, ha e kérdések tekintetében az alapító jogainak gyakorlására kijelölt miniszter és a társalapító nem tudnak megegyezni.
+(2) Az (1) bekezdésben meghatározott esetben az alapítvány vagy közalapítvány alapító okiratát az alapító jogainak gyakorlására kijelölt miniszter a társalapítók egyetértése nélkül is módosíthatja, az alapítvány vagy közalapítvány ügyvezető szervének kijelölését a Polgári Törvénykönyvben meghatározott ok fennállása hiányában is visszavonhatja, továbbá az alapítvány vagy közalapítvány ügyvezető szerve helyett, ügyvezető szervként más szervet vagy szervezetet jelölhet ki vagy hozhat létre, ha e kérdések tekintetében az alapító jogainak gyakorlására kijelölt miniszter és a társalapító nem tudnak megegyezni.
 
 (3) Az (1) bekezdésben meghatározott esetben az alapítványra, közalapítványra a 2–4. §-ban foglaltakat megfelelően alkalmazni kell, azzal, hogy az állami alapító jogait az alapító jogainak gyakorlására kijelölt miniszter gyakorolja.
 
 7. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított 1. § (6) bekezdését, 2. § (2), (5)–(6) bekezdését, 2/A. §-át, 4. § (4) bekezdését az 1. módosító törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 8. § E törvény alkalmazásában állami alapító alatt a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 62.§ (3) bekezdésében meghatározott alapítót kell érteni.
+
+8/A. § (1) A köztestület önkormányzattal és nyilvántartott tagsággal rendelkező szervezet, amelynek létrehozását törvény rendeli el. A köztestület a tagságához, illetve a tagsága által végzett tevékenységhez kapcsolódó közfeladatot lát el. A köztestület jogi személy.
+
+(2) Köztestület különösen a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, a gazdasági, illetve a szakmai kamara.
+
+(3) Törvény meghatározhat olyan közfeladatot, amelyet a köztestület köteles ellátni. A köztestület a közfeladat ellátásához szükséges – törvényben meghatározott – jogosítványokkal rendelkezik, és ezeket önigazgatása útján érvényesíti.
+
+(4) Törvény előírhatja, hogy valamely közfeladatot kizárólag köztestület láthat el, illetve, hogy meghatározott tevékenység csak köztestület tagjaként folytatható.
+
+(5) A köztestületre – ha törvény eltérően nem rendelkezik – a Polgári Törvénykönyvnek az egyesületre vonatkozó szabályait kell megfelelően alkalmazni.
 
 9–12. §
 

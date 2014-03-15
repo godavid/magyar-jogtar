@@ -93,7 +93,7 @@ kezelhet.
 
 (2a) A humángenetikai vizsgálat típusától függően az érintettet a (2) bekezdésben foglaltakon túlmenően tájékoztatni kell:
 
-- a) klinikai genetikai vizsgálat esetén az elvégzett genetikai teszt eredményéről, annak lehetséges következményeiről, valamint az érintettet és hozzátartozóit érintő genetikai kockázatról, és a betegség természetéről;
+- a) klinikai genetikai vizsgálat esetén az elvégzett genetikai teszt eredményéről, annak lehetséges következményeiről, valamint az érintettet és közeli hozzátartozóit érintő genetikai kockázatról, és a betegség természetéről;
 - b) genetikai szűrővizsgálat esetén az adott betegség lényegéről, a pozitív és negatív eredmény jelentéstartalmáról, valamint a megerősítő teszt jelentőségéről;
 - c) kutatási célú genetikai vizsgálat esetén a kutatás lényegéről, valamint arról, hogy az érintett kérheti a kutatási eredmény megismerését.
 
@@ -117,7 +117,7 @@ kezelhet.
 
 8. § (1) A genetikai mintavétel előtt – függetlenül a genetikai adat kezelésének céljától – a rendelkezésre jogosult részletes tájékoztatáson alapuló, írásban rögzített beleegyezése szükséges.
 
-(2) A korlátozottan cselekvőképes személy törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával tehet az (1) bekezdés szerinti beleegyező nyilatkozatot. Az utólagos jóváhagyás megtörténtéig genetikai mintavételre nem kerülhet sor. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat, figyelemmel a 13. § (3) és (4) bekezdéseire.
+(2) A korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával tehet az (1) bekezdés szerinti beleegyező nyilatkozatot. Az utólagos jóváhagyás megtörténtéig genetikai mintavételre nem kerülhet sor. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat, figyelemmel a 13. § (3) és (4) bekezdéseire.
 
 (3) Az (1) bekezdés szerinti beleegyező nyilatkozat az alábbiakat tartalmazza:
 
@@ -143,7 +143,7 @@ járul hozzá;
 
 (7) Az érintett az (1)–(3) bekezdés szerinti beleegyezését visszavonhatja. A mintavételt követően visszavont beleegyezés esetén a 10. §-ban foglaltaknak megfelelően kell eljárni.
 
-(8) A korlátozottan cselekvőképes személy törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával vonhatja vissza beleegyező nyilatkozatát. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat.
+(8) A korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával vonhatja vissza beleegyező nyilatkozatát. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat.
 
 9. § (1) Elhunyt személyből genetikai minta levételére, a levett, személyazonosító adatokkal együttesen tárolt vagy kódolt genetikai minta vizsgálatára, humángenetikai kutatás céljából történő igénybevételére vagy a belőle származó genetikai adat felhasználására akkor kerülhet sor, ha az elhunyt ez ellen életében nem tett tiltakozó nyilatkozatot.
 
@@ -151,7 +151,7 @@ járul hozzá;
 
 (3) Az (1) és (2) bekezdés szerinti tiltakozó vagy korlátozó nyilatkozatot a cselekvőképes személy közokiratban, teljes bizonyító erejű magánokiratban vagy – amennyiben írásbeli nyilatkozatot egyáltalán nem vagy csak jelentékeny nehézséggel tudna tenni – két tanú együttes jelenlétében szóban tehet.
 
-(4) Korlátozottan cselekvőképes személy saját genetikai mintái levételének, illetve felhasználásának megtiltásáról, korlátozásáról törvényes képviselőjének közreműködése nélkül is nyilatkozhat a (3) bekezdésben foglaltak szerint.
+(4) Korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, saját genetikai mintái levételének, illetve felhasználásának megtiltásáról, korlátozásáról törvényes képviselőjének közreműködése nélkül is nyilatkozhat a (3) bekezdésben foglaltak szerint.
 
 (5) A cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat a (3) bekezdésben foglaltak szerint.
 
@@ -175,9 +175,9 @@ járul hozzá;
 
 (2) Humángenetikai vizsgálat elvégzéséhez az érintett 8. § (1) bekezdés szerinti beleegyezése szükséges.
 
-(3) Nem végezhető humángenetikai vizsgálat cselekvőképtelen személyen, kivéve, ha a vizsgálat eredményének ismeretében olyan intézkedés hozható, amely megakadályozza a cselekvőképtelen személy betegségének kialakulását, késlelteti annak kezdetét, korlátozza a súlyosságát, fogyatékosságot előzhet meg, elősegíti egészségének helyreállítását, illetve a már megkezdett vizsgálat folytatása irányának meghatározásához szükséges.
+(3) Nem végezhető humángenetikai vizsgálat cselekvőképtelen személyen, kivéve ha a vizsgálat eredményének ismeretében olyan intézkedés hozható, amely megakadályozza a vizsgálattal érintett személy betegségének kialakulását, késlelteti annak kezdetét, korlátozza a súlyosságát, fogyatékosságot előzhet meg, elősegíti egészségének helyreállítását, illetve a már megkezdett vizsgálat folytatása irányának meghatározásához szükséges.
 
-(4) A humángenetikai vizsgálat kivételesen a közeli hozzátartozó érdekében is elvégezhető a (3) bekezdés szerinti célok keretei között a cselekvőképtelen személyen, ha a vizsgálat elvégzése más vizsgálattal nem pótolható, a vizsgálattal elérhető előnyök meghaladják az azzal járó esetleges kockázatokat és hátrányokat, vagy a vizsgálat természete feltétlenül indokolja, hogy a vizsgálatot cselekvőképtelen személyen végezzék el.
+(4) A humángenetikai vizsgálat kivételesen a közeli hozzátartozó érdekében is elvégezhető a (3) bekezdés szerinti célok keretei között a cselekvőképtelen személyen, ha a vizsgálat elvégzése más vizsgálattal nem pótolható, a vizsgálattal elérhető előnyök meghaladják az azzal járó esetleges kockázatokat és hátrányokat vagy a vizsgálat természete feltétlenül indokolja, hogy a vizsgálatot ilyen személyen végezzék el.
 
 14. § A humángenetikai vizsgálat eredményét közölni kell azzal a kezelést végző orvossal, aki a vizsgálatot kezdeményezte.
 

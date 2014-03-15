@@ -494,7 +494,7 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 
 (2) Az e törvény hatálya alá tartozó, Magyarország területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyarország területén letelepedett kiadó által kiadott sajtóterméket – a szolgáltatás, illetve a tevékenység megkezdését követő hatvan napon belül – nyilvántartásba vétel céljából be kell jelenteni a Hivatalhoz. A nyilvántartásba vétel nem feltétele e szolgáltatás, illetve tevékenység megkezdésének.
 
-(3) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet lehet.
+(3) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy és jogi személy lehet.
 
 (4) A Hivatal nyilvántartást vezet
 
@@ -1141,7 +1141,7 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 - a) új médiaszolgáltatást nem indíthat, médiaszolgáltatást végző vállalkozásban részesedést nem szerezhet, és
 - b) köteles médiaszolgáltatásai műsorstruktúrájának módosításával, a magyar műsorszámok, a független műsorkészítők által előállított műsorszámok arányának növelésével, vagy egyéb módon intézkedéseket tenni a médiapiac sokszínűségének növelése érdekében.
 
-(2) Az (1) bekezdés a) pont esetében, amennyiben a médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltató médiaszolgáltatást végző vállalatban részesedést kíván szerezni, a Médiatanács a 171. § szerinti eljárásában a szakhatósági hozzájárulást köteles megtagadni.
+(2) Az (1) bekezdés a) pont esetében, amennyiben a médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltató médiaszolgáltatást végző vállalkozásban részesedést kíván szerezni, a Médiatanács a 171. § szerinti eljárásában a szakhatósági hozzájárulást köteles megtagadni.
 
 (3) Az (1) bekezdés b) pont esetében a sokszínűség növelésére irányuló intézkedések meghatározása érdekében a médiaszolgáltató kérelmére a Médiatanács a médiaszolgáltatóval – legalább egyéves időtartamra szóló – hatósági szerződést köthet, amely eljárásban a Médiatanácsnak joga van mérlegelni a médiaszolgáltató által vállalni kívánt kötelezettségek elfogadását. Ilyen irányú kérelem a Médiatanács 70. § (7) bekezdésben meghatározott hatósági határozatának közlésétől számított harminc napon belül terjeszthető elő. Amennyiben a hatósági szerződés – a megegyezés elmaradása miatt – a 70. § (7) bekezdésben meghatározott hatósági határozat közlésétől számított három hónapon belül nem jön létre, akkor a Médiatanács az eljárást végzéssel megszünteti.
 
@@ -1517,9 +1517,9 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 - e) megválasztja a közszolgálati médiaszolgáltatók vezérigazgatóit, megállapítja munkaszerződésük feltételeit és díjazásukat,
 - f) megszüntetheti a közszolgálati médiaszolgáltatók vezérigazgatóinak munkaviszonyát,
 - g) megválasztja a közszolgálati médiaszolgáltatók közös felügyelő bizottságának elnökét és tagjait, illetve visszahívhatja azokat,
-- h) megbízza a közszolgálati médiaszolgáltatók könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a gazdasági társaságokról szóló, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
+- h) megbízza a közszolgálati médiaszolgáltatók könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó szabályai szerint, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
 - i) elfogadja a Közalapítvány éves gazdálkodási tervét és megállapítja mérlegét,
-- j) a közszolgálati médiaszolgáltatók vonatkozásában a gazdasági társaságokról szóló törvény alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
+- j) a közszolgálati médiaszolgáltatók vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezései alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
 - k) a Közalapítvány kezelőjeként gazdálkodik a Közalapítvány vagyonával,
 - l) felemelheti a közszolgálati médiaszolgáltatók alaptőkéjét, illetve leszállíthatja azt a Közalapítvány alapító okiratában szabályozottak szerint,
 - m) jóváhagyja a közszolgálati médiaszolgáltatók éves gazdálkodási és pénzügyi terveinek elveit és fő összegeit,
@@ -1531,7 +1531,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (2) Az (1) bekezdés p)–q) pontjának alkalmazása során ugyanazon naptári éven belül ugyanazzal a szerződő féllel kötött szerződésekben foglalt, a közszolgálati médiaszolgáltatót terhelő szolgáltatások értékét – tárgyuktól függetlenül – egybe kell számítani.
 
-91. § (1) A Közalapítvány gyakorolja a közszolgálati médiaszolgáltatók vonatkozásában a gazdasági társaságokról szóló törvényben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
+91. § (1) A Közalapítvány gyakorolja a közszolgálati médiaszolgáltatók vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezéseiben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
 
 - a) megváltoztatni a közszolgálati médiaszolgáltatók alapvető tevékenységi körét,
 - b) a közszolgálati médiaszolgáltatókat megszüntetni, egyesíteni, szétválasztani vagy más szervezeti formába átalakítani,
@@ -1540,7 +1540,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 - e) közszolgálati médiaszolgáltató vezérigazgatójának az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni,
 - f) olyan kérdésben dönteni, amely e törvény alapján más szerv vagy közszolgálati médiaszolgáltató vezérigazgatójának hatáskörébe tartozik.
 
-(2) A Közalapítvány Kuratóriuma nem bővítheti a 90. §-ban foglalt hatásköreit, még a gazdasági társaságokról szóló törvényben meghatározott – a 90. §-ban nem szereplő – alapítói jogkörökkel sem.
+(2) A Közalapítvány Kuratóriuma nem bővítheti a 90. §-ban foglalt hatásköreit, még a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezéseiben meghatározott – a 90. §-ban nem szereplő – alapítói jogkörökkel sem.
 
 ### A Kuratórium működése
 
@@ -1641,7 +1641,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 98. § (1) A közszolgálati médiaszolgáltatók feladata a közszolgálati médiaszolgáltatás 83. §-ban meghatározott céljainak megvalósítása. E feladatuknak a közszolgálati médiaszolgáltatók együttesen, tevékenységüket lehetőség szerint – autonómiájuk megőrzése mellett – összehangolva tesznek eleget.
 
-(2) A közszolgálati médiaszolgáltatókra e törvényben foglalt eltérésekkel a gazdasági társaságokról szóló törvénynek a részvénytársaságokra vonatkozó szabályait kell megfelelően alkalmazni, ideértve a gazdasági társaságok közös szabályait is.
+(2) A közszolgálati médiaszolgáltatókra e törvényben foglalt eltérésekkel a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseinek a részvénytársaságokra vonatkozó szabályait kell megfelelően alkalmazni, ideértve a gazdasági társaságok közös szabályait is.
 
 (3) A közszolgálati médiaszolgáltatóknak egy-egy forgalomképtelen részvénye van.
 
@@ -1713,7 +1713,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 ### A közszolgálati médiaszolgáltatók vezérigazgatóinak választása
 
-102. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását az általa vezetett közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
+102. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását az általa vezetett közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
 
 (2) A közszolgálati médiaszolgáltatók vezérigazgatói feletti munkáltatói jogkört – beleértve a vezérigazgatók kinevezését és munkaviszonyuk megszüntetését – a Kuratórium gyakorolja. A vezérigazgatók jelölése és kinevezése a következő lépések szerinti sorrendben történik:
 
@@ -1781,7 +1781,7 @@ Ennek keretében:
 - h) gondoskodik mindazon további előterjesztések előkészítéséről, amelyeket e törvény és a Közalapítvány alapító okirata vagy a Kuratórium határozata előír,
 - i) az Alappal együttműködve gondoskodik a közszolgálati médiaszolgáltató tevékenységében közreműködők rendszeres médiaszakmai továbbképzéséről,
 - j) részt vesz a Közszolgálati Költségvetési Tanácsban,
-- k) az e törvényben foglalt eltérésekkel gyakorolja mindazokat a jogokat, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal.
+- k) az e törvényben foglalt eltérésekkel gyakorolja mindazokat a jogokat, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokra vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal.
 
 (2) A közszolgálati médiaszolgáltató vezérigazgatója a Közszolgálati Közalapítványtól – a munkaszerződésébe foglalt juttatásokon kívül – semmilyen jogcímen nem kaphat díjazást.
 
@@ -1801,13 +1801,13 @@ Ennek keretében:
 
 (7) A közszolgálati médiaszolgáltatók belső ellenőrzési szervezetei a Bizottság irányítása alá tartoznak.
 
-(8) A Bizottság szervezetére, működésére egyebekben a gazdasági társaságokról szóló törvénynek, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.
+(8) A Bizottság szervezetére, működésére egyebekben a Polgári Törvénykönyvnek a gazdasági társaságokról szóló rendelkezései, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.
 
 ### A közszolgálati médiaszolgáltatók könyvvizsgálója
 
 107. § (1) A közszolgálati médiaszolgáltatók közös könyvvizsgálóját a Kuratórium választja két évre. Megbízatásának megszüntetése is a Kuratórium hatáskörébe tartozik.
 
-(2) A könyvvizsgáló feladatát, jogkörét a gazdasági társaságokról szóló törvény keretei között, a közszolgálati médiaszolgáltató alapító okiratában kell meghatározni.
+(2) A könyvvizsgáló feladatát, jogkörét a Polgári Törvénykönyvnek a gazdasági társaságokra vonatkozó rendelkezések keretei között, a közszolgálati médiaszolgáltató alapító okiratában kell meghatározni.
 
 ### A közszolgálati médiaszolgáltatók finanszírozása és gazdálkodása
 
@@ -1831,7 +1831,7 @@ Ennek keretében:
 
 (8) A közszolgálati médiaszolgáltató – közszolgálati céljainak elősegítése érdekében – vállalkozási tevékenységet végezhet. Nyereségét kizárólag a közszolgálati médiaszolgáltatás végzésére vagy fejlesztésére használhatja fel. A vállalkozási tevékenységének folytatásához való jogot – tekintettel az Alapnak a közszolgálati média támogatása érdekében végzett tevékenységére, ellenérték nélkül – átengedheti az Alap részére. Az Alap az ebből eredő bevételeit csak a közszolgálati médiaszolgáltatók céljainak elérésére használhatja fel.
 
-(9) A közszolgálati médiaszolgáltatónak nem lehet részesedése más médiaszolgáltatóban, alapítványt nem hozhat létre. A közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdálkodó szervezet közszolgálati médiaszolgáltatást indíthat, nyújthat.
+(9) A közszolgálati médiaszolgáltatónak nem lehet részesedése más médiaszolgáltatóban, alapítványt nem hozhat létre. A közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdasági társaság közszolgálati médiaszolgáltatást indíthat, nyújthat.
 
 (10) A közszolgálati médiaszolgáltató szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást.
 
@@ -2383,7 +2383,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (5) A Magyar Állam képviseletében eljárva az audiovizuális politikáért felelős miniszter legfeljebb hét évre szóló szerződést köthet az Alappal a közszolgálati hozzájárulás megfizetéséről. A szerződés megkötéséhez nem szükséges az államháztartásról szóló törvényben előírt, külön országgyűlési felhatalmazás.
 
-(6) Az Alap jogi személy, gazdálkodó szervezet, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
+(6) Az Alap jogi személy, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
 
 (7) Az Alap köteles a Kincstárban fizetési számlát vezetni, a Kincstárban vezetett fizetési számlája mellett szabadon vezethet hitelintézetnél is fizetési számlát.
 
@@ -2625,7 +2625,7 @@ a Biztos hivatalánál panasszal élhet.
 
 - a) az ügyféllel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetve annak vezető tisztségviselője,
 - b) az ügyfélben tulajdoni részesedéssel rendelkezik,
-- c) olyan magánszeméllyel, jogi személlyel vagy jogi személyiség nélküli szervezettel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyféllel rendszeres üzleti kapcsolatban áll,
+- c) olyan természetes személlyel vagy jogi személlyel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyféllel rendszeres üzleti kapcsolatban áll,
 - d) olyan szervezettel áll munkavégzésre irányuló jogviszonyban, amely az ügyfél felügyelő vagy alárendelt szervezete, illetve, amely az ügyfél részére valamely támogatást, illetőleg kizárólagos jogosítványt biztosított, ide nem értve az Alappal vagy a Hatósággal fennálló munkavégzésre irányuló jogviszonyt.
 
 (2) A Hivatal eljáró alkalmazottja a főigazgatónak haladéktalanul köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A Hivatal eljáró alkalmazottja a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik. A Hivatal alkalmazottjának kizárásáról a főigazgató dönt, és szükség esetén kijelöli a Hivatal eljáró alkalmazottját.
@@ -3053,7 +3053,7 @@ a Biztos hivatalánál panasszal élhet.
 
 187. § (1) Ismételt jogsértés esetén a Médiatanács és a Hivatal kétmillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez, illetve az egyedi ügy sajátosságaihoz mérten.
 
-(2) A Médiatanács és a Hivatal a jogkövetkezményt – a jogsértés jellegétől függően – a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértéssel okozott kárra és a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
+(2) A Médiatanács és a Hivatal a jogkövetkezményt – a jogsértés jellegétől függően – a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértéssel okozott kárra, személyiségi jogsérelemre és a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
 
 (3) A Médiatanács és a Hivatal – a (7) bekezdés figyelembevételével – a következő jogkövetkezmények alkalmazására jogosult:
 
@@ -3243,9 +3243,9 @@ b) olyan helyzet, amely a vállalkozásban szerződés, alapító okirat (alapsz
 
 6. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
 
-7. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+7. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy.
 
-8. Előfizető: olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság vagy más szervezet, aki vagy amely a nyilvánosan elérhető médiaszolgáltatás vagy elektronikus hírközlési szolgáltatás nyújtójával, vagy sajtótermék kiadójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
+8. Előfizető: olyan természetes vagy jogi személy, illetve más szervezet, aki vagy amely a nyilvánosan elérhető médiaszolgáltatás vagy elektronikus hírközlési szolgáltatás nyújtójával, vagy sajtótermék kiadójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
 
 9. Európai mű:
 
@@ -3259,7 +3259,7 @@ d) azon mű, amely valamely Európai Uniós tagállam és valamely Európai Uni�
 
 e) azon mű, amely az Európai Unió és harmadik országok között az audiovizuális ágazatra vonatkozóan létrejött megállapodás keretében, koprodukcióban készült el, és amely megfelel a vonatkozó megállapodások feltételeinek.A b)–c) pontban említett művek olyan művek, amelyek e pontokban meghatározott egy vagy több államban lakóhellyel rendelkező szerzőkkel és munkatársak közreműködésével készültek, feltéve, hogy a mű megfelel a következő három feltétel egyikének: 1. az említett államok közül egyben vagy többen letelepedett egy vagy több producer alkotása, 2. gyártását az említett államok közül egyben vagy többen letelepedett egy vagy több producer felügyeli, és ténylegesen ellenőrzi, 3. az összes koprodukciós költséghez túlnyomó részben az említett államok társproducerei járultak hozzá, és a koprodukciót nem az említett államokon kívül letelepedett egy vagy több producer ellenőrzi.A c) és az e) pontban meghatározott művek abban az esetben tekinthetők európai műnek, ha az érintett, Európai Unión kívüli államban a tagállamokból származó művekre nem vonatkoznak megkülönböztető intézkedések.
 
-10. Felhasználó: az a természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet, aki vagy amely használja vagy igényli az elektronikus hírközlési szolgáltatásokat vagy médiaszolgáltatásokat.
+10. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely használja vagy igényli az elektronikus hírközlési szolgáltatásokat vagy médiaszolgáltatásokat.
 
 11. Filmalkotás: a szerzői jogról szóló törvény szerinti filmalkotás, ide nem értve többek között a hír- és politikai tájékoztató műsorszámot, az aktuális- és szolgáltató magazin műsorszámot, a sportműsorszámot vagy egyéb esemény közvetítését tartalmazó műsorszámot, a játék- és vetélkedő műsorszámot és a kereskedelmi közleményeket. Filmalkotás különösen a játékfilm, a televíziós film, a televíziós filmsorozat, az animációs film és a dokumentumfilm.
 
@@ -3279,7 +3279,7 @@ e) azon mű, amely az Európai Unió és harmadik országok között az audioviz
 
 19. Játék: az a műsorszám, amelyben a közönség tagjai vagy a játékban résztvevők meghatározott szabályok szerint kérdésekre válaszolnak vagy feladatokat oldanak meg, rendszerint abból a célból, hogy a médiaszolgáltató vagy harmadik személy által felajánlott nyereményt elnyerjék. Nem minősül játéknak a tehetségkutató-műsorszám, valamint a televíziós vásárlásnak vagy televíziós vásárlási műsorablaknak minősülő telefonos vagy más interaktív játék.
 
-20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
+20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
 21. Képújság: lineáris audiovizuális médiaszolgáltatásban közzétett olyan műsorszám, amely elsősorban szöveges információközlésre szolgál, illetőleg emellett állóképet, mozgóképet, hangot, vagy számítógépes grafikát is tartalmazhat.
 
@@ -3323,7 +3323,7 @@ d) információk megtalálását elősegítő segédeszközöket biztosít az ig
 
 31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltatók által nyújtott médiaszolgáltatás.
 
-32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató, valamint a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató által létrehozott médiaszolgáltató, illetve a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdálkodó szervezet által létrehozott médiaszolgáltató.
+32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató, valamint a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató által létrehozott médiaszolgáltató, illetve a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdasági társaság által létrehozott médiaszolgáltató.
 
 33. Közszolgálati médiavagyon: a közszolgálati médiaszolgáltatók, jogelődeik, valamint a Médiaszolgáltatás-támogató és Vagyonkezelő Alap által megrendelt, bármilyen jogcímen készített, adásvétel útján beszerzett, felhasználási szerződéssel vagy egyéb megállapodás útján részben vagy egészben megszerzett, vagy készített filmalkotások és más audiovizuális művek, rádiós műsorszámok, hangfelvételek és a médiaszolgáltatáshoz kapcsolódó egyéb, kulturális értéket képviselő dokumentumok, fényképek szerzői és szomszédos jogai, vagy ezek bármely felhasználási jogai, valamint e műveket tartalmazó fizikai hordozók (például: lemezek, szalagok, kazetták, papíralapú dokumentumok, kották), továbbá a szerzői jogi védelem alatt álló jelmezek, kellékek, díszletek és egyéb szerzői művek, amennyiben a művel kapcsolatos szerzői és szomszédos jogok a törvény hatálybalépését megelőzően a közszolgálati médiaszolgáltatók valamelyikét vagy a törvény hatálybalépését követően a Médiaszolgáltatás-támogató és Vagyonkezelő Alapot illetik meg vagy illették meg, valamint amelyekre vonatkozóan a közszolgálati médiaszolgáltatók e törvény hatálybalépését követően szereznek jogot.
 
@@ -3353,7 +3353,7 @@ f)
 
 40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
 
-41. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
+41. Médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
 42. Médiatartalom: valamennyi médiaszolgáltatás során, valamint sajtótermék által kínált tartalom.
 
@@ -3393,7 +3393,7 @@ f)
 
 59. Reklám: olyan – műsorszámnak minősülő – közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
 
-60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
+60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
 
 61. Sportműsorszám: olyan műsorszám, amely sporteseményt (az eseménnyel egyidejűleg, késleltetett módon vagy szerkesztve) közvetít, ide nem értve a sporteseményekről való híradást és a sporttémájú beszélgetést tartalmazó műsorszámot.
 
@@ -3413,7 +3413,7 @@ f)
 
 69. Választási kampányidőszak: a választási eljárásról szóló törvényben meghatározott, a választási kampány lefolytatására rendelkezésre álló időszak.
 
-70. Vállalkozás: természetes személy, egyéni vállalkozó, gazdasági társaság, más jogi személy, vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+70. Vállalkozás: természetes személy, egyéni vállalkozó, gazdasági társaság, más jogi személy.
 
 71. Vételkörzet:
 

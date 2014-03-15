@@ -357,17 +357,29 @@ közigazgatási területére terjed ki.
 
 ### Múzeumi letét
 
-49. § (1) A múzeum a gyűjtőkörébe tartozó, más tulajdonában levő kulturális javakat határozott időre szóló, írásbeli szerződés alapján megőrzésre átveheti.
+49. § (1) A múzeum a gyűjtőkörébe tartozó kulturális javakat határozott idejű letétként megőrzésre átveheti. Az erre vonatkozó szerződést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. A letétre a Polgári Törvénykönyv rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A múzeum a letétért a szerződésben meghatározott mértékű, de legalább a felmerülő költségeket magában foglaló díjat köthet ki.
+(2) A letéti szerződés tartalmazza
 
-(3) A szerződésben – külön feltétel hiányában – kikötött őrzési idő letelte előtt a letevő a letét visszavételét csak akkor követelheti, ha az nem sérti a múzeum közművelődési, illetőleg tudományos tevékenységét. Az ezzel kapcsolatos vitás kérdésekben az Igazgatóság állásfoglalása az irányadó.
+- a) a letét időtartamát,
+- b) a letétbe helyezett kulturális javak – egyértelmű azonosításra alkalmas – képi és szöveges listáját, az átvétel időpontjában fennálló, részletes szakmai állapotdokumentációjával együtt,
+- c) a letétbe helyezett kulturális javakra vonatkozó állományvédelmi követelményeket, beleértve a klimatikus viszonyokat, a csomagolás, a szállítás és az őrzés feltételeit,
+- d) a letétbe helyezett kulturális javak sérülése esetén követendő eljárást, valamint
+- e) a múzeum által vállalt vagyonbiztonsági feltételeket.
 
-(4) A múzeum a szerződésben meghatározott őrzés ideje alatt a rábízott kulturális javakat tudományos szempontból feldolgozhatja, kiállíthatja és publikálhatja.
+(3) A múzeum a letét megőrzéséért díjat köthet ki.
+
+(4) A letéti szerződést – a letéti szerződés eltérő rendelkezése hiányában – a letevő akkor mondhatja fel, ha az nem sérti a múzeum közművelődési vagy tudományos tevékenységét.
+
+(5) A múzeum a letét időtartama alatt a letétbe helyezett kulturális javakat – a letét tényére történő utalással – tudományos szempontból feldolgozhatja, kutathatja, kiállíthatja és publikálhatja.
+
+(6) A letétbe helyezett kulturális javak más őrizetébe adásához, továbbá külső kutatói hozzáférésének biztosításához a letevő hozzájárulására van szükség.
+
+(7) A letétbe helyezett kulturális javak visszaadásakor részletes szakmai állapotdokumentációt kell készíteni.
 
 ### VI. Fejezet — A muzeális intézmények fenntartása, irányítása
 
-50. § (1) A muzeális intézmény fenntartója az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, amely biztosítja a muzeális intézmény folyamatos és rendeltetésszerű működéséhez szükséges feltételeket.
+50. § (1) A muzeális intézmény fenntartója az a természetes személy vagy jogi személy, amely biztosítja a muzeális intézmény folyamatos és rendeltetésszerű működéséhez szükséges feltételeket.
 
 (2) A fenntartó az e törvényben foglaltak alapján
 
@@ -1022,7 +1034,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - e) a védetté nyilvánított kulturális javak, valamint a régészeti lelőhelyek nyilvántartását,
 - f) a muzeális intézmények nyilvántartási szabályzatát,
 - g) a muzeális intézmények tevékenységével összefüggő szakmai követelményeket,
-- h)
+- h) a múzeumi letét létrejöttére, a letéti szerződés tartalmi elemeire és felmondására, valamint a letéti díj megállapítására vonatkozó részletes szabályokat,
 - i) a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 - j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
 - k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cseréjére és kölcsönzésére, valamint a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére vonatkozó részletes szabályokat,

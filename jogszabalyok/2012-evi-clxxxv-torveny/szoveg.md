@@ -50,7 +50,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 12. feltöltés: olyan hasznosítási vagy ártalmatlanítási művelet, amelynek során meghatározott célra alkalmas hulladék felhasználásával hulladéknak nem minősülő anyagokat helyettesítenek kitermeléssel érintett területek helyreállításakor vagy tájrendezéskor;
 - 13. fogyasztó: aki a terméket továbbértékesítési cél nélkül a gyártótól vagy a forgalmazótól átveszi vagy megvásárolja;
 - 14. forgalmazó: terméket viszonteladónak, illetve fogyasztónak átadó, értékesítő gazdálkodó szervezet;
-- 15. gazdálkodó szervezet: a jogi személy, a jogi személyiséggel nem rendelkező gazdasági társaság, az egyéni vállalkozó, valamint az egyéni cég ide nem értve azt a költségvetési szervet, amelyet az államháztartásról szóló törvény szerint közfeladat ellátására hoztak létre;
+- 15. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, ide nem értve azt a költségvetési szervet, amelyet az államháztartásról szóló törvény szerint közfeladat ellátására hoztak létre;
 - 16. gyártó: termék előállítója, továbbá – ha a terméket nem Magyarország területén állítják elő – az, aki a terméket gazdasági tevékenysége körében Magyarország területén elsőként forgalomba hozza;
 - 17. gyűjtés: a hulladék összegyűjtése hulladékkezelő létesítménybe történő elszállítás céljából; a gyűjtés magában foglalja a hulladék előzetes válogatását és előzetes tárolását is;
 - 17a. gyűjtő: olyan gazdálkodó szervezet – a hulladéktermelőt ide nem értve –, amely a hulladékot a hulladékbirtokostól, illetve hulladékgazdálkodási létesítményekből összegyűjti, átveszi, és azt az elszállítást megelőzően szükség szerint előzetesen válogatja, előzetesen tárolja;
@@ -109,7 +109,7 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 
 (6) A hulladék e törvény szerinti behozatalára, kivitelére és átszállítására a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1013/2006/EK európai parlamenti és tanácsi rendelet) szerinti szállítás fogalmat kell alkalmazni.
 
-(7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvről szóló törvényt, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, a környezetvédelmi termékdíjról szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
+(7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvet, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, a környezetvédelmi termékdíjról szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
 
 (8) Törvény vagy kormányrendelet az egyes hulladéktípusok és -fajták képződésének megelőzése érdekében, valamint a hulladékgazdálkodási tevékenységek vonatkozásában e törvénnyel összhangban álló további rendelkezéseket állapíthat meg.
 
@@ -1109,7 +1109,7 @@ részére adhatók át.
 
 (9) A lefoglalt eszköz, dolog, illetve jármű értékesítéséből befolyt bevételeket a területileg illetékes környezetvédelmi hatóság számlájára kell megfizetni.
 
-86. § (1) Az a természetes vagy jogi személy, egyéni cég, egyéni vállalkozó, továbbá jogi személyiség nélküli gazdasági társaság, aki (amely)
+86. § (1) Az a természetes vagy jogi személy, egyéni vállalkozó, továbbá jogi személyiséggel nem rendelkező szervezet, aki (amely)
 
 - a) a hulladékgazdálkodással kapcsolatos jogszabály, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásait megsérti,
 - b) hatósági engedélyhez, hozzájáruláshoz, nyilvántartásba vételhez vagy bejelentéshez kötött hulladékgazdálkodási tevékenységet engedély, hozzájárulás, nyilvántartásba vétel vagy bejelentés nélkül, továbbá attól eltérően végez, vagy

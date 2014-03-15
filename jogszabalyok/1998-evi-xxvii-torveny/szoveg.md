@@ -39,7 +39,7 @@ terjed ki.
 - j) kibocsátás: a géntechnológiával módosított szervezetek, illetve azok részeinek vagy kombinációjának a szabad környezetbe bármilyen módon történő szándékos kijuttatása, amelyre nézve e törvény felhatalmazása alapján kiadott jogszabályban meghatározott különleges elszigetelési intézkedéseket nem alkalmaztak az emberi és a természeti környezettel való érintkezés korlátozására, valamint a nagyfokú védelem biztosítására; a nem zárt rendszerben végzett géntechnológiai módosítás, illetve a géntechnológiával módosított szervezet nem zárt rendszerben való felhasználása kibocsátásnak minősül;
 - k) forgalomba hozatal: olyan kibocsátás, amelynek során a géntechnológiával módosított szervezetek, illetve az azokból előállított termékek a feldolgozókhoz, a viszonteladókhoz, a fogyasztókhoz vagy az egyéb felhasználókhoz bármilyen módon eljutnak;
 - l) ártalmatlanítás: a géntechnológiával módosított szervezet, illetve annak előállítása során keletkezett hulladék, valamint a géntechnológiával módosított szervezet összetevői környezetszennyező hatásának megszüntetése, környezetkárosító hatásuk kizárása vagy megszüntetése a környezet elemeitől történő elszigeteléssel vagy anyagi minőségük megváltoztatásával;
-- m) hasznosító: géntechnológiai módosítást végző létesítményt létrehozó, természetes szervezeteket géntechnológiával módosító, illetve a géntechnológiával módosított szervezeteket és az azokból előállított termékeket zárt rendszerben felhasználó, a szabad környezetbe kibocsátó vagy forgalomba hozó természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság, aki a felsorolt tevékenységekért felelős;
+- m) hasznosító: géntechnológiai módosítást végző létesítményt létrehozó, természetes szervezeteket géntechnológiával módosító, illetve a géntechnológiával módosított szervezeteket és az azokból előállított termékeket zárt rendszerben felhasználó, a szabad környezetbe kibocsátó vagy forgalomba hozó természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki a felsorolt tevékenységekért felelős;
 - n) géntechnológiával módosított termék: olyan géntechnológiával módosított szervezetet, vagy géntechnológiával módosított szervezetek kombinációját tartalmazó, illetve azokból álló készítmény, amelyet forgalomba hoznak;
 - o) környezeti kockázat értékelés: az emberi egészségre ható és természeti környezeti – közvetlen vagy közvetett, azonnali vagy később várhatóan bekövetkező – kockázatok e törvény felhatalmazása alapján kiadott jogszabályban vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában foglaltak szerint elvégzett értékelése, amely a géntechnológiával módosított szervezetek zárt rendszerű felhasználása, kibocsátása vagy forgalomba hozatala miatt indokolt;
 - p) baleset: bármely véletlen esemény, amelynek során, illetve amelynek következtében a zárt rendszerben, és a kibocsátás során használt géntechnológiával módosított szervezetek jelentős, nem szándékos kibocsátása történik, és amely az emberi egészségre vagy környezetre azonnali, illetve később bekövetkező veszélyt jelenthet;
@@ -322,7 +322,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 21/B. § (1) A géntechnológiával módosított növények és a hagyományos módon, valamint az ökológiai gazdálkodással termesztett növények keveredésének megelőzése érdekében a géntechnológiával módosított növények termesztésére kizárólag a termesztési hatóság jogerős termesztési engedélyének birtokában kerülhet sor.
 
-(2) A géntechnológiával módosított növényt termesztő természetes személynek, jogi személynek vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek (a továbbiakban: termelő) a termesztési engedély iránti kérelmet legalább 90 nappal a vetés tervezett időpontja előtt kell benyújtania a termesztési hatósághoz, csatolva az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott, az egymás melletti termesztéshez szükséges ismeretek megszerzését igazoló – saját vagy az általa alkalmazott személy – bizonyítványát. A termesztési engedély iránti kérelem benyújtásakor külön jogszabályban meghatározott díjat kell fizetni.
+(2) A géntechnológiával módosított növényt termesztő természetes személynek, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek (a továbbiakban: termelő) a termesztési engedély iránti kérelmet legalább 90 nappal a vetés tervezett időpontja előtt kell benyújtania a termesztési hatósághoz, csatolva az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott, az egymás melletti termesztéshez szükséges ismeretek megszerzését igazoló – saját vagy az általa alkalmazott személy – bizonyítványát. A termesztési engedély iránti kérelem benyújtásakor külön jogszabályban meghatározott díjat kell fizetni.
 
 (3) Több termelő közösen is benyújthat kérelmet, amennyiben földterületeik, amelyeken géntechnológiával módosított növényt kívánnak termeszteni, egymással szomszédosak. Ebben az esetben a termesztési hatóság a pufferzóna méretének és a termesztés egyéb feltételeinek meghatározásakor a földterületeket egy egésznek tekinti és a termesztés engedélyezéséről egy határozatot hoz. Közös kérelem esetén a termesztési hatóság csak abban az esetben adja meg az engedélyt, ha minden termelőnél külön-külön fennállnak a jogszabályban előírt feltételek, ellenkező esetben a kérelmet minden kérelmező vonatkozásában elutasítja.
 
@@ -384,9 +384,9 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (4) Amennyiben az ellenőrzés során megállapítást nyer, hogy a pufferzónán belüli földtulajdonos, illetve földhasználó megszegi a 21/B. § (9) bekezdésében foglalt tilalmat, az egymás melletti termesztés ellenőrzésére jogosult hatóság értesítése alapján a termesztési hatóság kötelezi a jogsértőt a tilalom ellenére termesztett növények megsemmisítésére.
 
-(5) Az egymás melletti termesztés során okozott károkért való felelősségre – a (6) bekezdésben foglalt kivétellel – a Polgári Törvénykönyv 345. és 346. §-a az irányadó.
+(5) Az egymás melletti termesztés során okozott károkért való felelősségre – a (6) bekezdésben foglalt kivétellel – a Polgári Törvénykönyv fokozott veszéllyel járó tevékenységre vonatkozó szabályai irányadóak.
 
-(6) Ha a károsult a géntechnológiával módosított növények termesztéséhez a 21/C. § (1) és (2) bekezdése szerinti írásos hozzájárulását megadta, az egymás melletti termesztés során okozott károkért való felelősségre a Polgári Törvénykönyv 339–342. és 344. §-ait kell alkalmazni.
+(6) Ha a károsult a géntechnológiával módosított növények termesztéséhez a 21/C. § (1) és (2) bekezdése szerinti írásos hozzájárulását megadta, az egymás melletti termesztés során okozott károkért való felelősségre a Polgári Törvénykönyvnek a szerződésen kívül okozott károkért való felelősség általános szabályaira vonatkozó rendelkezéseit kell alkalmazni.
 
 21/E. § (1) A géntechnológiával módosított növény szaporítóanyagának forgalmazója legkésőbb 60 nappal az adott géntechnológiával módosított szaporítóanyag-tétel forgalmazását megelőzően – a név vagy cégnév és cím vagy székhelycím feltüntetésével – köteles adatot szolgáltatni a termesztési hatóság számára a forgalmazni kívánt géntechnológiával módosított szaporítóanyag mennyiségéről, a növényfaj és a fajta megjelölésével.
 
@@ -400,7 +400,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (5) Az e §-ban foglaltakat alkalmazni kell a géntechnológiával módosított növény szaporítóanyagának a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő forgalmazása esetén is.
 
-21/F. § Amennyiben természetes vagy jogi személyek, valamint jogi személyiség nélküli jogalanyok megállapodás keretében géntechnológiával módosított növényfajtáktól mentes övezetet hoznak létre, a termesztési hatóság az övezetben gazdálkodók kérelmére és önkéntes adatszolgáltatása alapján az övezetnek a kérelemben megjelölt adatait és a kérelmező gazdálkodók adatait a honlapján, valamint a kormányzati portálon közzéteszi.
+21/F. § Amennyiben természetes vagy jogi személyek, valamint jogi személyiség nélküli szervezetek megállapodás keretében géntechnológiával módosított növényfajtáktól mentes övezetet hoznak létre, a termesztési hatóság az övezetben gazdálkodók kérelmére és önkéntes adatszolgáltatása alapján az övezetnek a kérelemben megjelölt adatait és a kérelmező gazdálkodók adatait a honlapján, valamint a kormányzati portálon közzéteszi.
 
 ### IV. Fejezet — HATÓSÁGI ELLENŐRZÉS ÉS INTÉZKEDÉSEK
 
@@ -448,7 +448,7 @@ esetén.
 
 (3) A géntechnológiai hatóság a nemzeti hatáskörbe tartozó engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról szóló határozatát közli a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túlmenően a nyilvántartó szervvel is.
 
-(4) A 22. § (1) bekezdés b) pontja szerinti esetben a géntechnológiai hatóság a nem engedélyezett géntechnológiai tevékenységet folytató természetes vagy jogi személyt, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezetet 3 évig eltilthatja minden géntechnológiai tevékenység végzésétől, aki ezáltal a tilalom idejére géntechnológiai tevékenység végzésére jogosító engedélyt nem kaphat.
+(4) A 22. § (1) bekezdés b) pontja szerinti esetben a géntechnológiai hatóság a nem engedélyezett géntechnológiai tevékenységet folytató természetes vagy jogi személyt, valamint jogi személyiséggel nem rendelkező szervezetet 3 évig eltilthatja minden géntechnológiai tevékenység végzésétől, aki ezáltal a tilalom idejére géntechnológiai tevékenység végzésére jogosító engedélyt nem kaphat.
 
 24. § (1)
 
@@ -480,7 +480,7 @@ esetén.
 
 ### Felelősség a géntechnológiai tevékenységbőleredő károkért
 
-27. § A géntechnológiai tevékenység fokozott veszéllyel járhat, ezért az abból eredő károkért való felelősségre a Polgári Törvénykönyv veszélyes üzem működéséből eredő károkra vonatkozó rendelkezései az irányadóak.
+27. § A géntechnológiai tevékenységből eredő károkért való felelősségre a Polgári Törvénykönyv fokozott veszéllyel járó tevékenységre vonatkozó szabályai irányadóak.
 
 28. § A géntechnológiát hasznosító jogutód nélküli megszűnése esetén a felszámolás vagy a végelszámolás során a tevékenységgel esetlegesen okozott károk feltárása, megszüntetése érdekében a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló törvénynek a környezetvédelmi követelményekre vonatkozó rendelkezései értelemszerű alkalmazásával kell eljárni.
 

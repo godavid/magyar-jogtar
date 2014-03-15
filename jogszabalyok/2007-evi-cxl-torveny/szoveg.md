@@ -71,7 +71,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 (3) A (2) bekezdés szerinti iratokat, amennyiben azok nem magyar nyelven készültek, hiteles magyar nyelvű fordításban is csatolni kell.
 
-(4) A tanúsítvány kiadására vonatkozó cégbírósági eljárásra egyebekben a Ctv. 46–47. §-aiban foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy a Ctv. 47. §-a (2) bekezdése esetén a határidő letételét követő munkanapon a tanúsítványt – a kérelem szerinti tartalommal – kiadottnak kell tekinteni.
+(4) A tanúsítvány kiadására vonatkozó cégbírósági eljárásra egyebekben a Ctv. 46 és 47. §-ában, valamint 57. § (1a) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy a Ctv. 57. § (1a) bekezdése szerinti határidő letételét követő három munkanapon belül a tanúsítványt – a kérelem szerinti tartalommal – a cégbíróság vezetője köteles kiadni.
 
 7. § (1) A tanúsítvány tartalmazza a kérelmező nevét, székhelyét és cégjegyzékszámát, az egyesüléssel létrejövő társaság formáját, cégnevét és székhelyét, valamint azt, hogy a tanúsítvány kiadását kérelmező társaság eleget tett-e az átalakulás időpontját megelőzően őt terhelő jogszabályi kötelezettségeinek. Amennyiben társasági határozat bírósági felülvizsgálatára irányuló per van folyamatban, ennek tényét a tanúsítvány tartalmazza.
 

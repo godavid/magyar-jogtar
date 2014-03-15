@@ -10,7 +10,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (2) A mérnöki, illetve építészeti tevékenységet a kamara tagja az ország egész területén végezheti.
 
-(3) Az érintett személy lakóhelye, illetve az adott szakterület szerint illetékes kamara – külön kormányrendeletben meghatározott feltételekkel – engedélyezheti, hogy az adott tervezési szakterület tekintetében szakirányú felsőfokú végzettséggel és szakmai gyakorlattal rendelkező személy kamarai tagság kötelezettsége nélkül, kivételes esetben saját maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozói számára építészeti-műszaki tervet készítsen.
+(3) Az érintett személy lakóhelye, illetve az adott szakterület szerint illetékes kamara – külön kormányrendeletben meghatározott feltételekkel – engedélyezheti, hogy az adott tervezési szakterület tekintetében szakirányú felsőfokú végzettséggel és szakmai gyakorlattal rendelkező személy kamarai tagság kötelezettsége nélkül, kivételes esetben saját maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozói (a továbbiakban: közeli hozzátartozó) számára építészeti-műszaki tervet készítsen.
 
 (4) Kamarai tagság nélkül végezhetnek mérnöki, illetve építészeti tevékenységet azok a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a szabad szolgáltatásnyújtás jogával rendelkező személyek, akik szakmájukat – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény rendelkezéseire figyelemmel – határon átnyúló szolgáltatásnyújtás keretében kívánják gyakorolni. Ezen személyekre e törvény etikai-fegyelmi rendelkezéseit a 34. §-ban meghatározott eltéréssel kell alkalmazni.
 
@@ -333,7 +333,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (4) A tisztségviselőket titkos szavazással kell megválasztani.
 
-21. § (1) A kamarai tag egyidejűleg nem lehet az elnökség és a felügyelő bizottság tagja, továbbá az elnökség és a felügyelő bizottságok tagjai nem lehetnek egymás közeli hozzátartozói [Ptk. 685. § b) pontja], illetve munkakörükben egymás alá- és fölérendeltjei.
+21. § (1) A kamarai tag egyidejűleg nem lehet az elnökség és a felügyelő bizottság tagja, továbbá az elnökség és a felügyelő bizottságok tagjai nem lehetnek egymás közeli hozzátartozói, illetve munkakörükben egymás alá- és fölérendeltjei.
 
 (2) Az összeférhetetlenség fennállásának kérdésében a tisztségviselő választására jogosult testület foglal állást az illetékes etikai-fegyelmi bizottság véleménye alapján.
 
@@ -529,7 +529,7 @@ folytatja le.
 
 34/D. § (1) A fegyelmi tanács elnökeként és tagjaként nem járhat el:
 
-- a) a panaszos, az eljárás alá vont személy és azok hozzátartozója [Ptk. 685. § b) pont],
+- a) a panaszos, az eljárás alá vont személy és azok hozzátartozója [Ptk. 8:1. § (1) bekezdés 2. pont],
 - b) aki jogerős fegyelmi büntetés hatálya alatt áll, vagy aki ellen büntetőeljárás van folyamatban, ennek jogerős befejezéséig, illetve ha az eljárás során büntetés kiszabására került sor, a büntetés alóli mentesítésig,
 - c) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat,
 - d) a területi kamara elnöke, alelnöke, elnökségi tagja,

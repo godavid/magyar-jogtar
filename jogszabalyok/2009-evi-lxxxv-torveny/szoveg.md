@@ -224,8 +224,8 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 18. § (1) Pénzforgalmi számlát a pénzforgalmi szolgáltató akkor nyithat, ha
 
-- a) jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létrejöttéhez szükséges nyilvántartásba (a továbbiakban: nyilvántartás) már bejegyzett vállalkozás a nyilvántartást vezető szervezettől származó, harminc napnál nem régebbi okirattal igazolta, hogy a nyilvántartásban szerepel, valamint adószámát és statisztikai számjelét közölte,
-- b) a nyilvántartásba még be nem jegyzett jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létesítő okiratát (társasági szerződését) egy másolati példányban átadta, valamint – ha cégbejegyzésre kötelezett és a pénzforgalmi számla megnyitása nem feltétele a cégbejegyzési kérelem benyújtásának – csatolta a cégbejegyzési kérelem benyújtása során a cégbíróságtól kapott elektronikus tanúsítványt vagy annak hiteles papír alapú másolatát,
+- a) jogi személy létrejöttéhez szükséges nyilvántartásba (a továbbiakban: nyilvántartás) már bejegyzett vállalkozás a nyilvántartást vezető szervezettől származó, harminc napnál nem régebbi okirattal igazolta, hogy a nyilvántartásban szerepel, valamint adószámát és statisztikai számjelét közölte,
+- b) a nyilvántartásba még be nem jegyzett jogi személy gazdasági társaság létesítő okiratát (társasági szerződését) egy másolati példányban átadta, valamint – ha cégbejegyzésre kötelezett és a pénzforgalmi számla megnyitása nem feltétele a cégbejegyzési kérelem benyújtásának – csatolta a cégbejegyzési kérelem benyújtása során a cégbíróságtól kapott elektronikus tanúsítványt vagy annak hiteles papír alapú másolatát,
 - c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó a Nemzeti Adó- és Vámhivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó a nyilvántartásba vételről szóló igazolás vagy az egyéni vállalkozói igazolvány, illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta.
 
 (2) Fizetési számlát a pénzforgalmi szolgáltató akkor nyithat, ha a pénzforgalmi számla nyitására nem kötelezett – a jogi formájára vonatkozó előírások szerint – a létrejöttére, illetve nyilvántartásba vételére vonatkozó okmányokat, iratokat bemutatta.
@@ -239,7 +239,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 19. § (1) A fizetési számla felett természetes személy számlatulajdonos a fizetési számlaszerződésben meghatározott módon, önállóan vagy más személlyel együttesen vagy külön-külön rendelkezhet.
 
-(2) Jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság a pénzforgalmi számla feletti rendelkezéséhez a nyilvántartásba bejegyzett, illetőleg bejegyzésre bejelentett teljes vagy rövidített nevének (cégnevének) betű szerinti használata, valamint a számlatulajdonos által a pénzforgalmi számla feletti rendelkezésre bejelentett személy vagy személyek aláírása szükséges. Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti egyéb szervezet a létesítő okiratában, ennek hiányában a fizetési számlaszerződésben meghatározott módon rendelkezhet fizetési számlája felett.
+(2) Jogi személy a pénzforgalmi számla feletti rendelkezéséhez a nyilvántartásba bejegyzett, illetőleg bejegyzésre bejelentett teljes vagy rövidített nevének (cégnevének) betű szerinti használata, valamint a számlatulajdonos által a pénzforgalmi számla feletti rendelkezésre bejelentett személy vagy személyek aláírása szükséges. Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti egyéb szervezet a létesítő okiratában, ennek hiányában a fizetési számlaszerződésben meghatározott módon rendelkezhet fizetési számlája felett.
 
 (3) A számlatulajdonos vagy a képviseletében jogszabály alapján eljárni jogosult személy által feljogosított rendelkezésre jogosult rendelkezési joga bármikor visszavonható vagy – a fizetési számlaszerződésben meghatározott esetben és módon – korlátozható.
 
@@ -263,7 +263,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (2a) A számlatulajdonos fizetési számlája terhére benyújtott hatósági átutalás és átutalási végzés teljesítéséhez szükséges fedezetet a pénzforgalmi szolgáltató a fizetési megbízásban szereplő név és egyedi azonosító fizető féllel történő egyezőségének megállapítása után azonnal elkülöníti.
 
-(3) A fizetési számlaszerződésre a Polgári Törvénykönyvben foglalt bankszámlaszerződésre vonatkozó szabályokat kell alkalmazni azzal, hogy a hitelintézetnek nem minősülő pénzforgalmi szolgáltató a fizetési számlára befolyó pénzeszközöket nem használhatja.
+(3) A fizetési számlaszerződésre a Polgári Törvénykönyvben foglalt szabályokat kell alkalmazni azzal, hogy a hitelintézetnek nem minősülő pénzforgalmi szolgáltató a fizetési számlára befolyó pénzeszközöket nem használhatja, betétként nem kezelheti.
 
 ### V. Fejezet — KERETSZERZŐDÉSEN ALAPULÓ FIZETÉSI MEGBÍZÁS
 

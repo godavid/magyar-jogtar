@@ -72,6 +72,7 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 - 11. erdőtelepítés: nem erdőművelési ágban lévő, erdővel nem borított területen a talaj-előkészítést követően csemeteültetés, magvetés vagy dugványozás útján erdő létrehozása;
 - 12. felnyíló erdő: olyan természetes, természetszerű erdőtársulás, illetve ezek származék erdői, amelyek természetes módon alacsony záródásban borítják a területet, ligetesek vagy erdő és sztyeppfoltok váltakozásával alakulnak ki, így különösen az erdőssztyepp erdők és a karsztbokor erdők;
 - 13. folyamatos erdőborítás: olyan állapot, amikor a többkorú erdőállomány folyamatosan, egyenletesen borítja az erdő talaját és az erdő megújulása, felújítása az erdőállomány védelmében, véghasználati terület nélkül történik, az erdő tájképi megjelenése nem változik;
+- 13a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - 14. jogosult erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti szakmai gyakorlattal rendelkező, az erdészeti hatóság jogosult szakszemélyzeti névjegyzékében szereplő erdészeti szakszemélyzet;
 - 15. kopár: az Országos Erdőállomány Adattárban nyilvántartott, termőhelyi adottságainál fogva záródott fás szárú- vagy lágy szárú növényzet fenntartására alkalmatlan terület;
 - 16. mezőgazdasági előhasználat: tarvágás esetén a véghasználat évében vagy az azt követő két évben végzett mezőgazdasági használat;
@@ -1456,7 +1457,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 105/A. § (1) Amennyiben e törvény vagy a végrehajtására kiadott jogszabály másként nem rendelkezik, az erdészeti hatóság által vezetett közhiteles hatósági nyilvántartásokba történő bejegyzésnek, törlésnek, adatmódosításnak kizárólag közokirat, teljes bizonyító erejű magánokirat vagy más közhiteles hatósági nyilvántartásból történő adatátvétel alapján van helye.
 
-(2) Ha e törvény eltérően nem rendelkezik, az erdészeti hatóság által vezetett nyilvántartásokban szereplő közhiteles adatokról az erdészeti hatóság kérelemre adatot szolgáltat annak a természetes vagy jogi személynek, illetve jogi személyiséggel nem rendelkező gazdasági társaságnak, akire nézve a nyilvántartás adatot tartalmaz, illetve akinek az adat megismeréséhez jogos érdeke fűződik. A jogos érdek fennállását annak kell igazolnia, aki az adatszolgáltatást erre a körülményre hivatkozva kéri.
+(2) Ha e törvény eltérően nem rendelkezik, az erdészeti hatóság által vezetett nyilvántartásokban szereplő közhiteles adatokról az erdészeti hatóság kérelemre adatot szolgáltat annak a természetes vagy jogi személynek, illetve jogi személyiséggel nem rendelkező szervezetnek, akire nézve a nyilvántartás adatot tartalmaz, illetve akinek az adat megismeréséhez jogos érdeke fűződik. A jogos érdek fennállását annak kell igazolnia, aki az adatszolgáltatást erre a körülményre hivatkozva kéri.
 
 (3) Az erdészeti hatóság a hatáskörébe tartozó közigazgatási hatósági eljárásokhoz kapcsolódóan az erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület ingatlan-nyilvántartásba bejegyzett tulajdonosának, vagyonkezelői, földhasználati, haszonélvezeti, használati jogosultjának alábbi személyes adatait kezeli:
 

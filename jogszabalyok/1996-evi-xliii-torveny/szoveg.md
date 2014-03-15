@@ -92,15 +92,15 @@ is alkalmazni kell.
 
 ### II. Fejezet — A SZOLGÁLATI VISZONYRA VONATKOZÓ ALAPELVEK
 
-### A rendeltetésszerű joggyakorlásés kötelezettségteljesítés
+### A joggal való visszaélés tilalma
 
-5. § (1) A szolgálati viszonnyal kapcsolatos jogokat és kötelezettségeket a rendeltetésüknek megfelelően kell gyakorolni, illetve teljesíteni.
+5. § (1) A szolgálati viszonnyal kapcsolatos jogokat és kötelezettségeket a rendeltetésüknek megfelelően kell gyakorolni, illetve teljesíteni, tilos a joggal való visszaélés.
 
-(2) A jog gyakorlása különösen akkor nem rendeltetésszerű, ha az mások zaklatására, jogos érdekének csorbítására, érdekérvényesítési lehetőségének korlátozására, lehetséges véleménynyilvánításának elfojtására irányul, vagy erre vezet.
+(2) E törvény alkalmazásában joggal való visszaélés különösen, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul vagy ehhez vezet.
 
-(3) A kötelezettség teljesítése különösen akkor nem rendeltetésszerű, ha az indokolatlan érdek- vagy jogsérelmet okoz.
+(3) Ha a joggal való visszaélés e törvény vagy e törvény végrehajtására kiadott jogszabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás a közszolgálat nyomós érdekét vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
 
-(4) A rendeltetésellenes joggyakorlás és kötelezettségteljesítés hátrányos következményeit orvosolni kell.
+(4) A joggal való visszaélés hátrányos következményeit orvosolni kell.
 
 ### Az egyenlő bánásmód követelménye
 
@@ -112,7 +112,7 @@ is alkalmazni kell.
 
 7. § (1) A szolgálati viszonnyal kapcsolatos jognyilatkozatokat (megállapodásokat) – eltérő rendelkezés hiányában – alaki kötöttség nélkül lehet megtenni. A hivatásos állomány tagjának kérésére azonban a nyilatkozatot akkor is írásba kell foglalni, ha az írásbeliség egyébként nem kötelező. Nem minősül a szolgálati viszonnyal kapcsolatos nyilatkozatnak a szolgálati feladatok végrehajtására vonatkozó parancs vagy intézkedés.
 
-(2) E törvény rendelkezésének megfelelően írásbeliséghez kötött a szolgálati viszony létesítésére, szünetelésére és megszüntetésére, a hivatásos állomány tagjának kinevezésére, előléptetésére, előresorolására, elismerésére, áthelyezésére, vezénylésére, megbízására, helyettesítésére, valamint alkalmasságára vonatkozó nyilatkozat, a minősítés, a fegyelmi, kártérítési és minősítő határozat, továbbá a külön törvény szerinti nemzetbiztonsági ellenőrzéshez való hozzájárulásról és az ellenőrzés eredményéről készült irat.
+(2) E törvény rendelkezésének megfelelően írásbeliséghez kötött a szolgálati viszony létesítésére, szünetelésére és megszüntetésére, a hivatásos állomány tagjának kinevezésére, előléptetésére, előresorolására, elismerésére, áthelyezésére, vezénylésére, megbízására, helyettesítésére, valamint alkalmasságára vonatkozó nyilatkozat, a minősítés, a fegyelmi, kártérítési, személyiségi jogsértés tárgyában hozott, valamint minősítő határozat, továbbá a külön törvény szerinti nemzetbiztonsági ellenőrzéshez való hozzájárulásról és az ellenőrzés eredményéről készült irat.
 
 (3) Az írásbeli nyilatkozatot közölni kell a hivatásos állomány tagjával. A nyilatkozat akkor tekinthető közöltnek, ha azt a hivatásos állomány tagjának vagy az átvételre jogosult személynek kézbesítették. A közlés akkor is hatályos, ha az átvételt az érdekelt megtagadta, vagy azt szándékosan megakadályozta. Erről jegyzőkönyvet kell felvenni.
 
@@ -122,9 +122,18 @@ is alkalmazni kell.
 
 - a) a szolgálati viszonynak a 36. § (1) bekezdésében meghatározott valamelyik alanya (a továbbiakban a 8–11. §-ban: fél) a jognyilatkozat megtételekor lényeges tényben vagy körülményben tévedett, feltéve, hogy tévedését a másik fél okozta, vagy azt felismerhette;
 - b) mindkét fél a lényeges tény vagy körülmény tekintetében téves feltevésben volt;
-- c) a nyilatkozat megtételére a felet jogellenes fenyegetéssel vették rá.
+- c) a nyilatkozat megtételére a felet a másik fél jogellenes fenyegetéssel vette rá;
+- d) a felet a másik fél szándékos magatartásával tévedésbe ejtette vagy tévedésben tartotta és a fél ezen megtévesztő magatartás hatására tette meg nyilatkozatát.
 
-(2) A nyilatkozatot az támadhatja meg, akit megtévesztettek, a nyilatkozat megtételére fenyegetéssel vettek rá, illetve az, aki téves feltevésben volt.
+(1a) Lényeges tényre vagy körülményre vonatkozik a tévedés akkor, ha annak ismeretében a fél nem vagy más tartalommal tette volna meg a jognyilatkozatát.
+
+(2) A nyilatkozatot az támadhatja meg, akit megtévesztettek, a nyilatkozat megtételére jogellenes fenyegetéssel vettek rá, illetve az, aki tévedett vagy téves feltevésben volt.
+
+(2a) Nem támadhatja meg a jognyilatkozatát az, aki a tévedését felismerhette vagy a tévedés kockázatát vállalta.
+
+(2b) Az (1) bekezdés c) és d) pontjában foglalt szabályokat kell alkalmazni akkor is, ha a megtévesztés vagy jogellenes fenyegetés harmadik személy részéről történt és erről a másik fél tudott vagy tudnia kellett.
+
+(2c) A fél titkos fenntartása vagy rejtett indoka a megállapodás érvényességét nem érinti.
 
 (3) A megtámadás határideje 30 nap, amely a tévedés vagy megtévesztés felismerésétől, illetve jogellenes fenyegetés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai irányadók azzal, hogy 6 hónap elteltével a megtámadás joga nem gyakorolható.
 
@@ -148,7 +157,7 @@ is alkalmazni kell.
 
 ### A szolgálati viszonnyal kapcsolatos igény elévülése
 
-12. § (1) A szolgálati viszonnyal kapcsolatos igény – ha e törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kárért fennálló felelősség 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+12. § (1) A szolgálati viszonnyal kapcsolatos igény – ha e törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kárért fennálló felelősség, valamint a bűncselekménnyel okozott személyiségi jogi sérelem miatt fizetendő sérelemdíj iránti igény 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
 (2) Az igény elévülése az igény érvényesítésének esedékessé válásától kezdődik. Az igény elévülését hivatalból kell figyelembe venni. Az elévülés utáni teljesítést elévülés címén nem lehet visszakövetelni.
 
@@ -506,7 +515,7 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 
 (3) A szakszervezet nevében vagy érdekében eljáró személy olyan tényt, információt, megoldást vagy adatot, amelyet a fegyveres szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
 
-(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a fegyveres szerv jogos érdekeinek, valamint a rendvédelmi érdekeknek a veszélyeztetése, illetve a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
+(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a fegyveres szerv jogos érdekeinek, valamint a rendvédelmi érdekeknek a veszélyeztetése, illetve a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra.
 
 33/C. § (1) A fegyveres szerv nem követelheti meg, hogy a hivatásos állomány tagja szakszervezethez való tartozásáról nyilatkozzék.
 
@@ -746,10 +755,10 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 - g) aki szolgálati feladatait önhibáján kívüli okból (pl. gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt) nem tudja ellátni, legfeljebb az ok megszűnéséig;
 - h) az MRK elnöke, az elnöki megbízatás megszűnéséig;
 - i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 75/B. § (5) és (7) bekezdés szerinti beosztás felajánlására nincs lehetőség;
-- j) akinek a részére a más szervhez vezénylés megszüntetését követően a 43. § (4) bekezdés, illetve a 248. § (4) bekezdés d) pontja szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig;
+- j) akinek a részére a más szervhez vezénylés megszüntetését követően a 49/C. § (5) bekezdése szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig;
 - k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg kellene szüntetni, de a felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig.
 
-(2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 43. § – az NKE-re vezényeltek esetében a 43. § és a 43/C. § – rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
+(2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 49/B–49/G. § rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
 (3) Az (1) bekezdés c)–h) pontja szerinti rendelkezési állomány megszűnésekor a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a rendelkezési állományba helyezést megelőző beosztásával azonos besorolási szintű szolgálati beosztást kell biztosítani, ilyen beosztás hiányában legalább a végzettségének, képzettségének megfelelő beosztást kell felajánlani.
 
@@ -807,7 +816,7 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 - c) a külföldi szolgálatra vezénylés,
 - d) a más beosztás vagy feladatkör ellátásával való tartós megbízás,
 - e) a szolgálati viszony szüneteltetése,
-- f) a más szervhez a 43. § (1) bekezdés vagy a 43/C. § (1) bekezdés szerinti vezénylés,
+- f) a más szervhez vezénylés,
 - g) a magasabb iskolai végzettséget (szakképesítést) nyújtó oktatási intézménybe beiskolázás,
 - h) a más fegyveres szervhez történő áthelyezés.
 
@@ -870,7 +879,7 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 
 (2) Ha a más szervhez vezénylésre a hivatásos állomány tagjának beleegyezése nélkül kerül sor, a belegyezés nélküli más szervhez vezénylések együttes időtartama 5 évenként az 1 évet nem haladhatja meg.
 
-49/C. § (1) A hivatásos állomány más szervhez vezényelt tagja a más szerv illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát. Tevékenységére, munkarendjére, illetményére, illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére, illetve viselésére – a (2) bekezdés kivételével – a más szerv munkavállalóira vonatkozó szabályok az irányadók azzal, hogy számára a rendfokozati illetménynek megfelelő mértékű pótlékot, keresőképtelenség esetén a 93. § alkalmazásával távolléti díjat és az e törvény szerinti jubileumi jutalmat kell fizetni. A más szervnél megállapított illetmény – a vezényelt hozzájárulása nélkül – nem lehet kevesebb a vezénylés előtt a beosztásban elért illetményénél.
+49/C. § (1) A hivatásos állomány más szervhez vezényelt tagja a más szerv illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát. Tevékenységére, munkarendjére, illetményére, illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértésre, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére, illetve viselésére – a (2) bekezdés kivételével – a más szerv munkavállalóira vonatkozó szabályok az irányadók azzal, hogy számára a rendfokozati illetménynek megfelelő mértékű pótlékot, keresőképtelenség esetén a 93. § alkalmazásával távolléti díjat és az e törvény szerinti jubileumi jutalmat kell fizetni. A más szervnél megállapított illetmény – a vezényelt hozzájárulása nélkül – nem lehet kevesebb a vezénylés előtt a beosztásban elért illetményénél.
 
 (2) A vezénylés időtartama alatt a szolgálati viszonnyal összefüggő munkáltatói jogokat a miniszter, az egyéb munkáltatói jogokat a vezénylés helye szerinti más szerv munkáltatói jogkört gyakorló vezetője, parancsnoka gyakorolja. A hivatásos állomány más szervhez vezényelt tagjának előléptetése, kitüntetése, fegyelmi felelősségre vonása, nyugállományba helyezése – a más szerv vezetőjének javaslatára, illetve egyetértésével –, továbbá ruházati ellátmányának és az (1) bekezdésben nem említett járandóságainak biztosítása a vezénylő fegyveres szervnél szolgálatot teljesítő hivatásos állományúakra vonatkozó szabályok szerint a vezénylő fegyveres szerv költségvetésének terhére történik.
 
@@ -893,7 +902,7 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 
 - a) esetében a szolgálati viszonyt nem érintő munkáltatói jogköröket, fegyelmi felelősségre vonását – a szolgálati viszonyt érintő fegyelmi fenyítések kivételével – a foglalkoztató más szerv vezetője gyakorolja,
 - b) foglalkoztatásával kapcsolatos költségek – ha jogszabály vagy az érintett szervek megállapodása eltérően nem rendelkezik – a vezényeltet foglalkoztató más szervet terhelik,
-- c) tevékenységére, munkarendjére, illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére e törvény szabályait kell alkalmazni.
+- c) tevékenységére, munkarendjére, illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértésre, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére e törvény szabályait kell alkalmazni.
 
 (3) Az (1) bekezdésben meghatározott szervekhez hivatásos szolgálati beosztás betöltésére történő vezénylésre a más szervhez vezénylésre vonatozó rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
@@ -1155,7 +1164,7 @@ miatt.
 - e)
 - f) a kifizetésre került végkielégítés összegét.
 
-(3) Az (1) és (2) bekezdésben foglaltakat értelemszerűen alkalmazni kell a 43. § szerinti vezénylés, a 43/C. § szerinti vezénylés, az 59/A. § alapján fegyveres szerven belül történő áthelyezés, valamint a 60. § és a 60/A. § szerinti áthelyezés esetén is.
+(3) Az (1) és (2) bekezdésben foglaltakat értelemszerűen alkalmazni kell a 49/B–49/G. § szerinti más szervhez vezénylés, az 59/A. § alapján fegyveres szerven belül történő áthelyezés, valamint a 60. § és a 60/A. § szerinti áthelyezés esetén is.
 
 61/A. §
 
@@ -1519,7 +1528,7 @@ távolléti díjnak megfelelő összeg.
 
 (4) A tárgyévet lezáró teljesítményértékelés – az értékelt képességeinek és szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelését, valamint a beosztás ellátására való alkalmasságára, további fejleszthetőségére és előmenetelre vonatkozó következtetést is tartalmazó – szöveges indokolással kiegészítve adja az értékelt tárgyévre szóló minősítését.
 
-(5) Az értékelő vezető a minősítés alapján kezdeményezheti az értékeltnek a vezetői és utánpótlási adatbankba való felvételét vagy az abból való törlését, továbbá a szolgálati viszony módosítását vagy megszüntetését.
+(5) Az értékelő vezető a minősítés alapján kezdeményezheti az értékeltnek a vezetői és utánpótlási adatbankba való felvételét vagy az abból való törlését, a szolgálati viszony módosítását vagy megszüntetését, továbbá jogszabályban meghatározott egyéb intézkedéseket javasolhat.
 
 83. § (1) A hivatásos állomány tagja kérésére az állományilletékes parancsnok köteles lehetővé tenni, hogy a szervezeti egységnél működő érdekképviseleti szerv vagy tisztségviselője a minősítésben foglalt megállapításokra észrevételt tegyen.
 
@@ -1607,7 +1616,7 @@ távolléti díjnak megfelelő összeg.
 
 ### Szabadság
 
-89. § A hivatásos állomány tagja alap-, pót-, egészségügyi, szülési és illetmény nélküli szabadságra, továbbá gyermek születése esetén járó munkaidő-kedvezményre jogosult.
+89. § A hivatásos állomány tagja alap-, pót-, egészségügyi, szülési és illetmény nélküli szabadságra jogosult.
 
 ### Alap- és pótszabadság
 
@@ -1647,6 +1656,14 @@ távolléti díjnak megfelelő összeg.
 (3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
 
 (4) E § vonatkozásában a gyermek, a fogyatékos gyermek és a szülő fogalmára az Mt. értelmező rendelkezéseit kell alkalmazni.
+
+91/A. § (1) Gyermeke születése esetén öt munkanap – ikergyermekek esetében hét munkanap – pótszabadság illeti meg az apát, amelyet legkésőbb a születést követő második hónap végéig, a kérésének megfelelő időpontban kell kiadni. A pótszabadság tartamára távolléti díj jár.
+
+(2) Az (1) bekezdésben foglalt pótszabadság abban az esetben is megilleti az apát, ha gyermeke halva születik vagy meghal.
+
+(3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vér szerinti vagy örökbe fogadó apát kell érteni.
+
+(4) A pótszabadság tartamára járó távolléti díj kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.
 
 92. § (1) A hivatásos állomány tagja a folyamatos és átlagon felüli fizikai, pszichikai igénybevételéből származó egészségkárosodás megelőzése, illetve a fizikai állóképességének megőrzése céljából a 90. § (2) vagy (3) bekezdése szerinti pótszabadságon felül külön pótszabadságra jogosult, amely
 
@@ -1700,15 +1717,7 @@ távolléti díjnak megfelelő összeg.
 
 (5) A nőnek – ha nem veszi igénybe a 94. §-ban engedélyezett egészségügyi szabadságot – a szoptatás első 6 hónapjában naponta kétszer 1 óra, ezt követően a 9. hónap végéig naponta 1 óra munkaidő-kedvezmény jár. Ikrek esetében a munkaidő-kedvezmény az ikrek számának megfelelő mértékben jár.
 
-### Gyermek születése esetén járó munkaidő-kedvezmény
-
-95/A. § (1) Gyermeke születése esetén öt munkanap munkaidő-kedvezmény illeti meg az apát, melyet legkésőbb a születést követő második hónap végéig kérésének megfelelő időpontban kell kiadni. A munkaidő-kedvezmény tartamára távolléti díj jár.
-
-(2) Az (1) bekezdésben foglalt kedvezmény abban az esetben is megilleti az apát, ha gyermeke halva születik, vagy meghal.
-
-(3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vérszerinti vagy örökbefogadó apát kell érteni.
-
-(4) A munkaidő-kedvezmény tartamára járó távolléti díj kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.
+95/A. §
 
 ### Illetmény nélküli szabadság
 
@@ -1884,7 +1893,11 @@ a gyermek 3. életévének – ikergyermek esetén a tankötelessé válás év�
 
 (3) A jogalap nélkül kifizetett illetmény 60 napon belül írásbeli felszólítással visszakövetelhető a hivatásos állomány tagjától. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett illetmény, ha annak jogtalanságáról a hivatásos állomány tagja tudott, vagy tudnia kellett volna.
 
-(4) A hivatásos állomány tagja az illetményre vonatkozó igényéről előre nem mondhat le, és a levonásmentes illetményrészét nem ruházhatja át.
+(4) Engedményezésnek csak pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető és a hivatásos állomány tagja az illetményre vonatkozó igényéről előre nem mondhat le. A levonásmentes illetményrész a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész.
+
+(5) Tartozásátvállalásnak csak pénzkövetelés esetén van helye. Munkáltatói tartozást a hivatásos állomány tagja nem vállalhat át.
+
+(6) A fegyveres szerv és a hivatásos állomány tagjának megállapodása alapján pénztartozás után kamat köthető ki. A kamat mértéke nem haladhatja meg a Polgári Törvénykönyv 6:47. §-a szerinti mértéket.
 
 107. § (1) A hivatásos állomány beosztásából felfüggesztett, előzetes letartóztatásban, illetve lakhely elhagyási tilalom alatt lévő, vagy ideiglenes kényszergyógykezelés alatt álló, továbbá a szabadságvesztés büntetését katonai fogházban töltő tagjának távolléti díj jár, amelyet a munkáltatói jogkört gyakorló elöljáró legfeljebb 50%-kal csökkenthet. A teljes illetményt vissza kell tartani a szolgálati viszony megszüntetés vagy lefokozás fegyelmi fenyítés kiszabásáról szóló munkáltatói intézkedés végrehajtásáig.
 
@@ -2476,9 +2489,13 @@ alapilletménye erejéig felel.
 
 (3) Nem kell a hivatásos állomány tagjának megtérítenie a kárnak azt a részét, amely a fegyveres szerv közrehatása következtében állt elő.
 
-157/A. § (1) A hivatásos állomány kárért felelős tagja köteles az eredeti állapotot helyreállítani, ha pedig ez nem lehetséges, vagy a fegyveres szerv azt alapos okból nem kívánja, köteles – a 151. §-ban meghatározott korlátozás figyelembevételével – a fegyveres szerv vagyoni és nem vagyoni kárát megtéríteni.
+157/A. § (1) Kártérítés címén a hivatásos állomány kárért felelős tagja – a 151. §-ban meghatározott korlátozás figyelembevételével – köteles megtéríteni
 
-(2) Kártérítés címén a károkozó körülmény folytán a fegyveres szerv vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a fegyveres szervet ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+- a) a fegyveres szerv vagyonában beállott értékcsökkenést,
+- b) az elmaradt vagyoni előnyt és
+- c) a fegyveres szervet ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
+
+(2)
 
 (3) Ha az (1) bekezdésben meghatározottak szerint a kár megtérítésére kerül sor, a kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
 
@@ -2538,7 +2555,7 @@ alapilletménye erejéig felel.
 
 (4) A fegyveres szerv a szolgálati viszonnyal összefüggő balesetből eredő személyi kárért vétkességére tekintet nélkül felel.
 
-165. § A fegyveres szerv a 162. § (1) bekezdésén, továbbá a 164. § (1) és (4) bekezdésén alapuló felelőssége alapján a hivatásos állomány tagjának elmaradt jövedelmét, dologi és nem vagyoni kárát, a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
+165. § A fegyveres szerv a 162. § (1) bekezdésén, továbbá a 164. § (1) és (4) bekezdésén alapuló felelőssége alapján a hivatásos állomány tagjának elmaradt jövedelmét, dologi kárát, a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
 
 166. § (1) A szolgálati viszony körében az elmaradt jövedelem megállapításánál figyelembe kell venni az elmaradt átlagkeresetet, továbbá azoknak a rendszeres szolgáltatásoknak a pénzbeni értékét, amelyekre a hivatásos állomány tagja a szolgálati viszony alapján jogosult, feltéve, hogy azokat a károkozás bekövetkezését megelőzően rendszeresen igénybe vette.
 
@@ -2562,7 +2579,7 @@ alapilletménye erejéig felel.
 
 170. § A kártérítés kiszámításánál a kár összegéből le kell vonni:
 
-- a) az elmaradt illetményre eső nyugdíjjárulékot, egészségbiztosítási járulékot,
+- a) az elmaradt illetményre eső társadalombiztosítási szabályok szerinti járulékot,
 - b) az állami egészségügyi és a társadalombiztosítás keretében járó ellátás ellenértékét, azt a pénzösszeget:
 - c) amelyet a hivatásos állomány tagja munkaereje hasznosításával megkeresett vagy az adott helyzetben elvárhatóan megkereshetett volna,
 - d) amelyhez a hivatásos állomány tagja (illetve annak hozzátartozója) a megrongálódott dolog hasznosításával hozzájutott,
@@ -2615,6 +2632,15 @@ különbözetének megtérítése iránti igényt.
 
 178. § Az 1965. január 1-je előtt bekövetkezett balesetből, illetve szolgálati megbetegedésből eredő kártérítési követelésekre e törvény rendelkezései nem alkalmazhatók. Ilyen esetben a polgári jog kártérítési szabályai irányadók.
 
+### XIII/A. Fejezet — A SZEMÉLYISÉGI JOGOK MEGSÉRTÉSÉNEK SZANKCIÓI
+
+178/A. § (1) Az e törvény hatálya alá tartozók személyiségi jogainak a szolgálati viszonnyal összefüggő megsértése esetén jogkövetkezményként a Polgári Törvénykönyv
+
+- a) 2:51. § (1) bekezdését, 2:52. § (1) bekezdését kell alkalmazni, valamint
+- b) 2:52. § (2) és (3) bekezdését, valamint 2:53. §-át azzal az eltéréssel kell alkalmazni, hogy e rendelkezések alkalmazásakor e törvény és a végrehajtására kiadott rendelet kártérítési felelősségre vonatkozó szabályai az irányadók.
+
+(2) Ha a hivatásos állomány tagjának szolgálati viszonya megszűnik, a fegyveres szerv a hivatásos állomány egykori tagjának sérelemdíj megfizetésére kötelezése érdekében közvetlenül bírósághoz fordulhat.
+
 ### XIV. Fejezet — A HIVATÁSOS SZOLGÁLATI VISZONYON ALAPULÓ TÁRSADALOMBIZTOSÍTÁSI ELLÁTÁSOK
 
 ### Egészségbiztosítási ellátások
@@ -2638,6 +2664,8 @@ különbözetének megtérítése iránti igényt.
 (4) A minősítő határozatot írásba kell foglalni, és azt a hivatásos állomány tagja – halála esetén közeli hozzátartozója – részére meg kell küldeni.
 
 (5) A minősítő határozat ellen a kézbesítésétől számított 15 napon belül a miniszterhez fellebbezésnek van helye. A miniszter döntése ellen keresetet lehet a bírósághoz benyújtani.
+
+(6) Az Országgyűlési Őrség hivatásos állományának tagja esetében az (5) bekezdésben foglaltaktól eltérően a minősítő határozat ellen fellebbezésnek nincs helye, a határozat ellen keresetet lehet a bírósághoz benyújtani.
 
 ### Nyugellátás
 
@@ -2712,7 +2740,7 @@ különbözetének megtérítése iránti igényt.
 196. § (1) A hivatásos állomány tagja a szolgálati viszonyból származó jogvita esetén 30 napon belül keresettel fordulhat a bírósághoz, ha
 
 - a) a szolgálati panaszát vagy az elsőfokú határozat elleni panaszát vagy fellebbezését elutasították;
-- b) a 142. § vagy a 159. § alapján a határozatot az Országgyűlési Őrség parancsnoka hozta;
+- b) a 142. §, a 159. § vagy a 180. § alapján a határozatot az Országgyűlési Őrség parancsnoka hozta;
 - c) a sérelmezett döntést a miniszter hozta;
 - d) az a)–c) pontba nem tartozó, alanyi jogon biztosított jogosultságokkal kapcsolatban hozott döntés vagy intézkedés, vagy ezek elmulasztása miatt joghátrány érte.
 
@@ -2728,7 +2756,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) Ha a szolgálati viszonyt jogellenesen szüntették meg, a hivatásos állomány tagját olyan helyzetbe kell hozni, mintha a szolgálati viszony meg sem szűnt volna.
 
-(3) A szolgálati viszony megszüntetéséről hozott határozat hatályon kívül helyezése esetén a hivatásos állomány tagját eredeti beosztásába vissza kell helyezni, és meg kell téríteni az elmaradt illetményét, egyéb járandóságát, valamint a felmerült kárát. Nem kell megtéríteni az illetménynek, az egyéb járandóságnak és a kárnak azt a részét, amelyet a hivatásos állomány tagja munkaereje hasznosításával megkeresett vagy megkereshetett volna.
+(3) A szolgálati viszony megszüntetéséről hozott határozat hatályon kívül helyezése esetén a hivatásos állomány tagját eredeti beosztásába vissza kell helyezni, és meg kell téríteni az elmaradt illetményét, egyéb járandóságát, valamint a felmerült kárát. A hivatásos állomány tagja sérelemdíjat is igényelhet a szolgálati viszony jogellenes megszüntetésével okozott személyiségi jogsértésért. Nem kell megtéríteni az illetménynek, az egyéb járandóságnak és a kárnak azt a részét, amelyet a hivatásos állomány tagja munkaereje hasznosításával megkeresett vagy megkereshetett volna.
 
 (4) Ha a hivatásos állomány tagja a szolgálati viszonyának fenntartását nem kívánta, ezt úgy kell tekinteni, mintha szolgálati viszonya a bírósági határozat jogerőre emelkedésének napjával közös megegyezéssel szűnt volna meg. Ebben az esetben részére végkielégítés jár.
 
@@ -3002,7 +3030,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) A 92. § (2) bekezdése szerinti tartós igénybevétel esetén a rendkívüli pihenőnapokat az országos parancsnok engedélyezi.
 
-254. § (1) A hivatásos állomány felsőfokú és középfokú végzettségű tagját 10 év elteltével az állományilletékes parancsnok a 82. § (4) bekezdés szerint minősíti, a minősítés alapján kinevezheti a következő beosztási kategória első fizetési fokozatába. Ha az érintett a következő beosztási kategóriához előírt szakirányú végzettséget megszerezte, kinevezésére 10 év letelte előtt is sor kerülhet.
+254. § (1) A hivatásos állomány felsőfokú és középfokú végzettségű tagját az állományilletékes parancsnok 10 év elteltével a 82. § (4) bekezdése szerinti, tárgyévi minősítés alapján kinevezheti a következő beosztási kategória első fizetési fokozatába. Ha az érintett a következő beosztási kategóriához előírt szakirányú végzettséget megszerezte, kinevezésére 10 év letelte előtt is sor kerülhet.
 
 (2) A 104. §-ban meghatározott pótlékokon felül a hivatásos állomány tagját az illetményalap százalékában pótlékok illetik meg. Azon illetménypótlékoknál, ahol a pótlék mértéke alsó és felső határ között állapítható meg, a pótlék tényleges mértékét az érintett munkakörének az általános munkakörülményektől való eltérősége alapján kell meghatározni.
 
@@ -3132,7 +3160,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) Az (1) bekezdésben meghatározott szervnél történő szolgálat határozott ideig, de legfeljebb két évig tart, amely időtartam a szenior állomány tagjának beleegyezésével határozatlan időre meghosszabbítható.
 
-(3) Az (1) és (2) bekezdés szerinti vezénylésre a 43. § rendelkezései azzal az eltéréssel alkalmazhatók, hogy a szenior állomány vezényelt tagjának illetményére, munkaidejére, foglalkoztatási feltételeire a 264/C–264/F. § rendelkezéseit kell alkalmazni.
+(3) Az (1) és (2) bekezdés szerinti vezénylésre a 49/B. § rendelkezései azzal az eltéréssel alkalmazhatók, hogy a szenior állomány vezényelt tagjának illetményére, munkaidejére, foglalkoztatási feltételeire a 264/C–264/F. § rendelkezéseit kell alkalmazni.
 
 264/H. §
 
@@ -3300,7 +3328,7 @@ különbözetének megtérítése iránti igényt.
 
 ### A minősítés
 
-289. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának minősítése során nem kötelező a törvény 4. számú mellékletében meghatározott lőkészség vizsgálata. A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának minősítésére észrevételeket az érdekképviseleti szerv nem tehet.
+289. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának minősítésére észrevételeket az érdekképviseleti szerv nem tehet.
 
 (2) A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja minősítését bíróság előtt nem támadhatja meg.
 
@@ -3695,13 +3723,14 @@ A pótlékok mértéke:
 - m) a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat;
 - n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztviselői kártya alkalmazásának szabályait;
 - o) az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként részt vevő hivatásos állományú szolgálati viszonyára és sajátos jogállására vonatkozó rendelkezéseket;
-- p) a teljesítményértékelés kötelező elemeit és a teljesítményértékelés szintjeit, valamint a kötelező elemek alkalmazásához kapcsolódó eljárás részletes szabályait.
+- p) a teljesítményértékelés kötelező elemeit és a teljesítményértékelés szintjeit, valamint a kötelező elemek alkalmazásához kapcsolódó eljárás részletes szabályait;
+- q) a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy – ha e törvény eltérően nem rendelkezik – rendeletben a (2) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
-- 1. a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a személyügyi igazgatás rendjét, azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét, a 42. § (2) bekezdés a) és b) pontjában meghatározott szerveknél, valamint a Miniszterelnökségnél vezényléssel betölthető szolgálati beosztásokat és azok számát, azokat a szolgálati beosztásokat, amelyek a rendőrség különleges állományában határozott idejű szolgálati viszonyban tölthetők be, az előmenetel részletes szabályait, a minősítés készítésének szabályait, a visszavétel, az áthelyezés, a megbízás, a fegyveres szerven belüli vezénylés feltételeit, eljárási rendjét, a munkáltatói intézkedések kiadásának rendjét, a beosztási kategóriákba történő besorolás és az előresorolás rendjét, az illetménykiegészítésre jogosító szervek, szervezeti egységek meghatározását;
+- 1. a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a személyügyi igazgatás rendjét, azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét, a 42. § (2) bekezdés a) és b) pontjában meghatározott szerveknél, valamint a Miniszterelnökségnél vezényléssel betölthető szolgálati beosztásokat és azok számát, azokat a szolgálati beosztásokat, amelyek a rendőrség különleges állományában határozott idejű szolgálati viszonyban tölthetők be, az előmenetel részletes szabályait, a visszavétel, az áthelyezés, a megbízás, a fegyveres szerven belüli vezénylés feltételeit, eljárási rendjét, a munkáltatói intézkedések kiadásának rendjét, a beosztási kategóriákba történő besorolás és az előresorolás rendjét, az illetménykiegészítésre jogosító szervek, szervezeti egységek meghatározását;
 - 2. a miniszter és az országos parancsnok munkáltatói jogkörében nem szereplő, alacsonyabb szintű munkáltatói jogköröket és a jogkört gyakorló elöljárók körét;
 - 3. az illetmény, illetményjellegű juttatások, egyéb juttatások megállapításának, folyósításának valamint a költségek viselésének szabályait, a végkielégítés kifizetésének rendjét;
 - 4. az illetménypótlékra jogosító beosztást, tevékenységet, az illetménypótlék tényleges mértékét e törvény szerinti alsó és felső határ között, azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, valamint, ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét, továbbá a képzettségi és munkaköri pótlékra vonatkozó részletes szabályokat;
@@ -3723,7 +3752,7 @@ A pótlékok mértéke:
 - 20. a szenior állományba vétel fizikai, pszichikai és egészségi feltételeit, a ruházati ellátási normát és a felszerelést;
 - 21. azon fertőző betegségek körét, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait;
 - 22. a méltatlansági eljárás részletes szabályait;
-- 23. a teljesítményértékelés ajánlott elemeit, valamint az ajánlott elemek alkalmazásához kapcsolódó részletes eljárási szabályokat, a szervezeti teljesítményértékelés és a szakmai teljesítménykövetelmény-minimumok figyelembevételének szabályait, a minősítés tartalmi és eljárási szabályait.
+- 23. a teljesítményértékelés ajánlott elemeit, valamint az ajánlott elemek alkalmazásához kapcsolódó részletes eljárási szabályokat, a szervezeti teljesítményértékelés és a szakmai teljesítménykövetelmény-minimumok figyelembevételének szabályait, a minősítés tartalmi és eljárási szabályait, továbbá a minősítés alapján kezdeményezhető e törvényben nem szabályozott munkáltatói intézkedéseket.
 
 (3)
 
@@ -4185,11 +4214,13 @@ VIII. Összeférhetetlenségre vonatkozó adatok:
 
 IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai:
 
-X. Fegyelmi, kártérítési adatok:
+X. Fegyelmi, kártérítési és személyiségi jogsértéssel összefüggő adatok:
 
 – a fegyelmi fenyítés neme, hatálya, mentesítés,
 
-– kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok.
+– kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok,
+
+– a személyiségi jogsértés miatt alkalmazott szankciók, a sérelemdíj mértéke, a teljesítésre vonatkozó adatok.
 
 XI. Társadalombiztosítási adatok:
 

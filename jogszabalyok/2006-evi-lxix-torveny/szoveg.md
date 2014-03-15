@@ -12,15 +12,15 @@ A törvény célja, hogy – az európai belső piac kiteljesedése, valamint a 
 
 1. § (1) A magyarországi székhelyű európai szövetkezet (rövidített néven: SCE) alapítására, szervezetére, működésére és megszűnésére az európai szövetkezet (SCE) statútumáról szóló, 2003. július 22-i, 1435/2003/EK tanácsi rendeletet (a továbbiakban: Rendelet) és az e törvényben meghatározott szabályokat kell alkalmazni.
 
-(2) E törvény rendelkezéseit magyarországi székhelyű jogi személyre vagy jogi személyiség nélküli gazdasági társaságra, valamint Magyarországon honos természetes személyre mint az európai szövetkezet alapítójára akkor is megfelelően alkalmazni kell, ha a létrejövő európai szövetkezet székhelye külföldön van.
+(2) E törvény rendelkezéseit magyarországi székhelyű jogi személyre, valamint Magyarországon honos természetes személyre mint az európai szövetkezet alapítójára akkor is megfelelően alkalmazni kell, ha a létrejövő európai szövetkezet székhelye külföldön van.
 
 (3) A magyarországi székhelyű európai szövetkezet alapítása és működése során a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonását e törvény második részében foglalt szabályok szerint kell biztosítani.
 
 (4) E törvény második részének rendelkezéseit megfelelően alkalmazni kell a részt vevő jogalanyok (52. §), az európai szövetkezet, ezek leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalói képviselőinek (a különleges tárgyaló testület és a képviseleti testület tagjainak, valamint az európai szövetkezet felügyelőbizottságában, illetve igazgatótanácsában lévő munkavállalói küldötteknek) a megválasztására, visszahívására, valamint a részt vevő jogalanyok, az európai szövetkezet, az üzemi tanács, a munkavállalók és a munkavállalói képviselők ezzel kapcsolatos jogaira és kötelességeire, akkor is, ha a létrejövő európai szövetkezet székhelye külföldön van.
 
-(5) Ahol e törvény vagy a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a szövetkezetekre vonatkozó jogszabályaira utal, belföldi székhelyű európai szövetkezet vagy alapító esetében azon a szövetkezetekről szóló 2006. évi X. törvényt (a továbbiakban: Sztv.), és az Sztv. 107. §-ának (3) bekezdésében foglalt felhatalmazás alapján kiadott kormányrendeletet kell érteni.
+(5) Ahol e törvény vagy a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a szövetkezetekre vonatkozó jogszabályaira utal, belföldi székhelyű európai szövetkezet vagy alapító esetében azon a Polgári Törvénykönyvnek a szövetkezetekre vonatkozó rendelkezéseit kell érteni.
 
-(6) Ahol a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a részvénytársaságokra vonatkozó jogszabályaira utal, azon a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.), illetve a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit kell érteni.
+(6) Ahol a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a részvénytársaságokra vonatkozó jogszabályaira utal, azon a Polgári Törvénykönyvnek a részvénytársaságokra vonatkozó rendelkezéseit, illetve a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit kell érteni.
 
 (7) Ha törvény valamely tevékenység folytatására szövetkezeti formát ír elő, illetve amennyiben törvény valamely tevékenység végzését szövetkezeti formában lehetővé teszi, azon az európai szövetkezeti formát is érteni kell.
 
@@ -66,11 +66,11 @@ minősül.
 
 6. § (1) A nem egységes irányítási rendszerű európai szövetkezet ügyvezetését igazgatóság látja el, amely az alapszabályban meghatározott létszámú, de legalább három természetes személy tagból áll.
 
-(2) Ötven főnél kisebb létszámú európai szövetkezetben az alapszabály az igazgatóság helyett ügyvezető elnöki tisztséget rendszeresíthet. Az ügyvezető elnök az igazgatóság hatáskörében jár el.
+(2) Tizenöt főnél kisebb létszámú európai szövetkezetben az alapszabály az igazgatóság helyett igazgató elnöki tisztséget rendszeresíthet. Az igazgató elnök az igazgatóság hatáskörében jár el.
 
-(3) A nem egységes irányítási rendszerű európai szövetkezet vezető tisztségviselői az igazgatóság tagjai, vagy az ügyvezető elnök.
+(3) A nem egységes irányítási rendszerű európai szövetkezet vezető tisztségviselői az igazgatóság tagjai, vagy az igazgató elnök.
 
-(4) Az igazgatóság tagjait, illetve az ügyvezető elnököt a közgyűlés választja meg és hívja vissza.
+(4) Az igazgatóság tagjait, illetve az igazgató elnököt a közgyűlés választja meg és hívja vissza.
 
 7. § (1) Az európai szövetkezet felügyelőbizottsága az alapszabályban meghatározott számú, de legalább három természetes személy tagból áll.
 
@@ -91,8 +91,8 @@ minősül.
 - a) az európai szövetkezet munkavállalója vagy volt munkavállalója e jogviszonyának megszűnésétől számított öt évig,
 - b) az európai szövetkezet vagy igazgatótanácsa számára és javára ellenérték fejében szakértői vagy más megbízási jogviszonyban tevékenységet folytat,
 - c) az európai szövetkezet eredményes működése esetén igazgatótanácsi tagsága alapján vagyoni juttatásokra jogosult (pl. jegyzési jogot biztosító kötvény, sikerdíj),
-- d) az európai szövetkezet valamely – nem független – igazgatótanácsi tagjának vagy vezető állású munkavállalójának közeli hozzátartozója [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pont] vagy élettársa,
-- e) az európai szövetkezet igazgatótanácsának nem független tagjával egy másik gazdálkodó szervezetben [Ptk. 685. § c) pont] olyan jogviszonyban áll, amely alapján a nem független tagnak irányítási, ellenőrzési joga van,
+- d) az európai szövetkezet valamely – nem független – igazgatótanácsi tagjának vagy vezető állású munkavállalójának Polgári Törvénykönyv szerinti közeli hozzátartozója vagy élettársa,
+- e) az európai szövetkezet igazgatótanácsának nem független tagjával egy másik jogi személyben olyan jogviszonyban áll, amely alapján a nem független tagnak irányítási, ellenőrzési joga van,
 - f) az európai szövetkezet független könyvvizsgálója, a könyvvizsgáló alkalmazottja vagy üzlettársa e jogviszony megszűnésétől számított három évig.
 
 9. § (1) Ha az európai szövetkezet tevékenységének jellege vagy más ésszerű ok indokolja, a szövetkezet az alapszabályban bizottságokat (jelölési, javadalmazási bizottság stb.) hozhat létre.
@@ -111,13 +111,13 @@ minősül.
 
 ### IV. Fejezet — SZÉKHELYÁTHELYEZÉS
 
-10. § (1) Ha az európai szövetkezet székhelyének egy másik tagállamba történő áthelyezését határozza el, a szövetkezet köteles – a (3) bekezdésben meghatározott kivétellel – azon hitelezőknek, akiknek a szövetkezettel szemben fennálló, le nem járt követelései a székhelyáthelyezésről hozott döntés közzétételét megelőzően keletkeztek, követeléseik erejéig biztosítékot nyújtani.
+10. § (1) Ha az európai szövetkezet székhelyének egy másik tagállamba történő áthelyezését határozza el, a szövetkezet köteles – a (3) bekezdésben meghatározott kivétellel – azon hitelezőknek, akiknek a szövetkezettel szemben fennálló követelései a székhelyáthelyezésről hozott döntés közzétételét megelőzően keletkeztek, követeléseik erejéig biztosítékot nyújtani, ha a székhelyáthelyezés a követelések kielégítését veszélyezteti.
 
 (2) A hitelező a biztosítékadásra vonatkozó igényét a székhelyáthelyezésről hozott döntés közzétételét követő 30 napos jogvesztő határidőn belül jelentheti be az európai szövetkezet igazgatóságának (igazgatótanácsának).
 
-(3) Nem jogosult biztosítékra a hitelező, ha azzal egyébként – jogszabály rendelkezése vagy szerződés alapján – már rendelkezik vagy az európai szövetkezet pénzügyi, vagyoni helyzetére tekintettel a biztosítékadás indokolatlan.
+(3) Nem jogosult biztosítékra a hitelező, ha már rendelkezik a székhelyáthelyezéshez kapcsolódó kockázattal arányos biztosítékkal, vagy az európai szövetkezet székhelyáthelyezés utáni pénzügyi, vagyoni helyzetére tekintettel a biztosítékadás indokolatlan.
 
-(4) Az igazgatóság (igazgatótanács) a kérelem előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles biztosítékot nyújtani, vagy a kérelem elutasításáról indokolással ellátott határozatot a hitelezőnek kézbesíteni. Az elutasító vagy nem megfelelő biztosíték nyújtásáról szóló határozat felülvizsgálatát az érintett hitelező a határozat kézhezvételétől számított nyolc napon belül az európai szövetkezet székhelye szerint illetékes cégbíróságtól kérheti.
+(4) Az igazgatóság (igazgatótanács) a kérelem előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles határozni a kérelem tárgyában, és – az elutasítás esetén indokolással ellátott – határozatot a hitelezőnek kézbesíteni. Az elutasító vagy nem megfelelő biztosíték nyújtásáról szóló határozat felülvizsgálatát az érintett hitelező a határozat kézhezvételétől számított nyolc napon belül az európai szövetkezet székhelye szerint illetékes cégbíróságtól kérheti.
 
 (5) A cégbíróság – a törvényességi felügyeleti eljárásra irányadó szabályok megfelelő alkalmazásával – a kérelem előterjesztésétől számított harminc napon belül határoz. A cégbíróság az eljárás lefolytatását követően elutasítja a kérelmet, vagy az európai szövetkezetet megfelelő biztosíték nyújtására kötelezi.
 
@@ -145,7 +145,7 @@ minősül.
 
 15. § (1) A kizárólag természetes személyek vagy egyetlen részt vevő jogalany és természetes személyek által létrehozandó európai szövetkezet esetében a munkavállalók bevonására a 16–52. § rendelkezéseit akkor kell alkalmazni, ha az alapítók – legalább két tagállamban – összesen legalább ötven munkavállalót foglalkoztatnak.
 
-(2) Ha a munkavállalók létszáma – függetlenül attól, hogy őket egy vagy több tagállamban foglalkoztatják – nem éri el az ötvenet vagy az ötvenet meghaladja, de foglalkoztatásukra egyetlen tagállamban kerül sor, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására az európai szövetkezet, illetve magyarországi telephelye és leányvállalata esetében az Sztv. szabályait kell alkalmazni.
+(2) Ha a munkavállalók létszáma – függetlenül attól, hogy őket egy vagy több tagállamban foglalkoztatják – nem éri el az ötvenet vagy az ötvenet meghaladja, de foglalkoztatásukra egyetlen tagállamban kerül sor, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására az európai szövetkezet, illetve magyarországi telephelye és leányvállalata esetében a Polgári Törvénykönyv szövetkezetekre vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) Ha a (2) bekezdés hatálya alá tartozó európai szövetkezet bejegyzése után az európai szövetkezetben, annak telephelyein és leányvállalataiban foglalkoztatott összes munkavállaló – legalább két tagállamban foglalkoztatott – legalább egyharmada ezt kéri vagy a legalább két tagállamban foglalkoztatott összes munkavállaló száma eléri az ötven főt, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására a 16–52. § rendelkezéseit kell megfelelően alkalmazni.
 
@@ -489,5 +489,9 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 (2) Ez a törvény az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek való megfelelést szolgálja.
 
 ### XI. Fejezet
+
+55. § E törvény az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított rendelkezéseinek az európai szövetkezet a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvénynek a szövetkezetekre vonatkozó különös átmeneti rendelkezései szerint köteles megfelelni.
+
+56–60. §
 
 ### Melléklet a 2006. évi LXIX. törvényhez

@@ -157,7 +157,7 @@ mellékeli.
 
 (3) Az ÁKK Zrt. tulajdonosa az állam, amelynek nevében az alapításhoz és a tulajdonosi jogok gyakorlásához kapcsolódó jogokat az államháztartásért felelős miniszter gyakorolja azzal, hogy az igazgatóság jogkörét nem vonhatja el.
 
-(4) Az ÁKK Zrt. működésére – e törvény eltérő rendelkezései kivételével – a gazdasági társaságokról törvény szabályait kell alkalmazni.
+(4) Az ÁKK Zrt. működésére – az e törvényben foglalt eltérésekkel – a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseit kell alkalmazni.
 
 (5) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott állami vezetők az ÁKK Zrt. igazgatóságában és felügyelő bizottságában tisztséget viselhetnek.
 

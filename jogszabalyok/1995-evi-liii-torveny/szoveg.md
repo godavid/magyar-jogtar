@@ -103,6 +103,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - 37. téradatkezelő: téradatot létrehozó, kezelő, rendszeresen frissítő és a téradat birtokában lévő, valamint a téradattal kapcsolatos állami vagy helyi önkormányzati, továbbá jogszabályban meghatározott, környezettel összefüggő közfeladatot ellátó, illetve közszolgáltatást nyújtó szerv vagy személy, valamint az ezek ellenőrzése alatt álló, környezettel összefüggő feladatot végző vagy közszolgáltatást nyújtó természetes vagy jogi személy. Nem minősülnek téradatkezelőnek a bíróságok és a jogalkotó szervek annyiban, amennyiben azok e feladat- és hatáskörükben járnak el;
 - 38. interoperabilitás: a téradatkészletek összeköttetésének és a téradat-szolgáltatások között ismételt kézi beavatkozás nélkül létrejövő olyan összekapcsolódásnak a lehetősége, amely a téradatkészletek és -szolgáltatások elérését magasabb minőséggel biztosítja, mint a 48/G. § (2) bekezdésében meghatározott információs rendszerek elkülönülten;
 - 39. térinformatikai eszköz: olyan informatikai, geodéziai vagy távérzékelési eszköz, amely téradat rögzítésére, tárolására, kezelésére, továbbá megjelenítésére szolgál.
+- 40. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
 
 5. § E törvény hatálybalépését követően törvény, kormányrendelet vagy önkormányzati rendelet határozhat meg környezethasználatnak minősülő tevékenységet.
 
@@ -856,7 +857,7 @@ véleményezésre megküldi.
 - a) természetes személy esetében
   - aa) természetes személyazonosító adatok,
   - ab) lakcím;
-- b) jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég esetében
+- b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetében
   - ba) cég neve, cégjegyzék száma, adószáma, statisztikai számjele,
   - bb) székhely településazonosító törzsszámmal, illetve telephelyei településazonosító törzsszámmal;
 - c) egyéni vállalkozó esetében
@@ -1320,7 +1321,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 ### Kártérítési felelősség
 
-103. § (1) A környezet igénybevételével, illetőleg terhelésével járó tevékenységgel vagy mulasztással másnak okozott kár környezetveszélyeztető tevékenységgel okozott kárnak minősül és arra a Polgári Törvénykönyvnek a fokozott veszéllyel járó tevékenységre vonatkozó szabályait (Ptk. 345—346. §-ai) kell alkalmazni.
+103. § (1) A környezet igénybevételével, illetőleg terhelésével járó tevékenységgel vagy mulasztással másnak okozott kár környezetveszélyeztető tevékenységgel okozott kárnak minősül és arra a Polgári Törvénykönyvnek a fokozott veszéllyel járó tevékenységre vonatkozó szabályait kell alkalmazni.
 
 (2) Ha a károsult az (1) bekezdés szerinti kártérítési igényét nem kívánja érvényesíteni a károkozóval szemben — a károsult erre vonatkozó és az elévülési időn belül tett nyilatkozata alapján — a miniszter a környezetvédelmi alap célfeladat fejezeti kezelésű előirányzat javára az igényt érvényesítheti.
 

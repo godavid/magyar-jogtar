@@ -138,6 +138,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (1a) A járműnyilvántartás tulajdonjog változás esetén – a tulajdonszerző bejelentéséig – tartalmazza a járműnyilvántartásba bejegyzett tulajdonos (tulajdonjog átruházó) által a 33. § (6) bekezdésében meghatározott tulajdon átruházási szerződés alapján teljesített bejelentésben foglaltak szerint a tulajdonszerzőre vonatkozó, az (1) bekezdésben meghatározott adatokat, a tulajdonjog-átruházás időpontját, valamint a bejelentés tényét és időpontját.
 
+(1b) A járműnyilvántartás tartalmazza a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét.
+
 (2) A járműnyilvántartás a külön jogszabályban meghatározottak szerint tartalmazza a jármű
 
 - a) azonosító és műszaki adatait, valamint motorjának egyedi azonosító jelét, illetve kódját,
@@ -290,11 +292,12 @@ igényelhető.
 - a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
 - b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabályban megjelölt feladataik ellátásához szükséges adatokat;
 - c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
-- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1a) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
+- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1b) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 - e) a települési önkormányzat jegyzője
   - ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat,
   - eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában megjelölt adatokat;
-- f)–g)
+- f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) bekezdésében, a 9. § (2) bekezdés a)–c) pontjában és a 9/A. § (1) bekezdés a)–e) pontjában meghatározott adatokat;
+- g)
 - h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat;
 - i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 - j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműködési Központ útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;

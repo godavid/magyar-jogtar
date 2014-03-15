@@ -80,7 +80,8 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
   - ub) az úszólétesítmény eltűnik vagy megsemmisül,
   - uc) jelentős környezetszennyezés következik be,
   - ud) a hajóút teljesen vagy a víziközlekedést akadályozó módon részlegesen elzáródik,
-  - ue) az úszólétesítmény a víziút műtárgyait vagy a víziutat keresztező műtárgyakat megrongálja, vagy azok üzemképességüket részlegesen vagy teljesen elvesztik.
+  - ue) az úszólétesítmény a víziút műtárgyait vagy a víziutat keresztező műtárgyakat megrongálja, vagy azok üzemképességüket részlegesen vagy teljesen elvesztik;
+- v) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 ### II. Fejezet — KÖZLEKEDÉSBIZTONSÁGI SZERV
 
@@ -112,7 +113,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (e törvény alkalmazásában a továbbiakban: kormánytisztviselő) nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselője, vezető tisztségviselője, tulajdonosa, alkalmazottja vagy egyéb munkavállalója.
 
-(9) A (8) bekezdésben foglaltakon túl a közlekedésbiztonsági szerv vezetője, valamint a vezetőjének helyettesítésére jogosult személy nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselőjének, vezető tisztségviselőjének, tulajdonosának, alkalmazottjának vagy egyéb munkavállalójának közeli hozzátartozója [Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pont].
+(9) A (8) bekezdésben foglaltakon túl a közlekedésbiztonsági szerv vezetője, valamint a vezetőjének helyettesítésére jogosult személy nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselőjének, vezető tisztségviselőjének, tulajdonosának, alkalmazottjának vagy egyéb munkavállalójának közeli hozzátartozója [Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pont].
 
 4. § (1) A közlekedésbiztonsági szerv 24 órás folyamatos baleseti ügyeleti szolgálatot tart fenn a közlekedési balesetekről, és az egyéb közlekedési eseményekről szóló bejelentések fogadására, a szükséges jelentések és intézkedések megtételére.
 
@@ -311,13 +312,13 @@ látja el.
 
 (3) A nyomozó hatóság és a szabálysértési hatóság által lefoglalt bizonyítékoknak a vizsgálóbizottság által szükségesnek ítélt vizsgálata iránt – az érintett hatóságokkal egyeztetett módon – a vizsgálóbizottság vezetője intézkedik.
 
-(4) A közlekedési esemény szakmai vizsgálata során átvett vagy lefoglalt bármely járművet, berendezést és egyéb dolgot – ha arra a vizsgálat lefolytatásához már nincs szükség – az érintett hatóságokkal történt egyeztetést követően át kell adni a tulajdonosának, üzemben tartójának vagy az általuk kijelölt szerv, személy részére. Ha a jogosult a dolgot megfelelő határidő alatt felszólításra nem szállítja el, a közlekedésbiztonsági szerv – állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény kivételével – értékesítés vagy felhasználás tekintetében a felelős őrzés szabályai szerint jár el (Polgári Törvénykönyvről szóló 1959. évi IV. törvény 197. §). Állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény tekintetében az üzemben tartó a jármű, berendezés és egyéb dolog átvételéről köteles intézkedni.
+(4) A közlekedési esemény szakmai vizsgálata során átvett vagy lefoglalt bármely járművet, berendezést és egyéb dolgot – ha arra a vizsgálat lefolytatásához már nincs szükség – az érintett hatóságokkal történt egyeztetést követően át kell adni a tulajdonosának, üzemben tartójának vagy az általuk kijelölt szerv, személy részére. Ha a jogosult a dolgot megfelelő határidő alatt felszólításra nem szállítja el, a közlekedésbiztonsági szerv – állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény kivételével – értékesítés és felhasználás tekintetében a jogalap nélküli birtoklás szabályai szerint jár el (Ptk. 5:12. §). Állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény tekintetében az üzemben tartó a jármű, berendezés és egyéb dolog átvételéről köteles intézkedni.
 
 ### A szakmai vizsgálatban részt vevő személyek
 
 13. § (1) A vizsgálóbizottság tagja, illetve szakmai kivizsgáló nem lehet az, aki
 
-- a) érintett a közlekedési balesetben vagy az egyéb közlekedési eseményben, valamint annak közeli hozzátartozója [Ptk. 685. § b) pont],
+- a) érintett a közlekedési balesetben vagy az egyéb közlekedési eseményben, valamint annak közeli hozzátartozója [Ptk. 8:1. § (1) bekezdés 1. pont],
 - b) eljárt a közlekedési baleset vagy az egyéb közlekedési esemény tárgyában indult más hatósági, szabálysértési vagy büntetőeljárásban, továbbá
 - c) az a személy, akit a közlekedési balesetet, az egyéb közlekedési eseményt hatósági, szabálysértési vagy büntetőeljárás keretében vizsgáló más hatóság a vizsgálatba szakértőként bevont,
 - d) akitől a közlekedési baleset vagy az egyéb közlekedési esemény tárgyilagos vizsgálata egyéb okból nem várható el,

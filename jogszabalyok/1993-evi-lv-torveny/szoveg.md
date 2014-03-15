@@ -22,13 +22,13 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 ### A magyar állampolgárság keletkezése
 
-3. § (1)
+3. § (1) A magyar állampolgárság Alaptörvény G) cikk (1) bekezdése szerinti keletkezése megállapítása tekintetében a Polgári Törvénykönyvnek a leszármazásra, illetve az apai és az anyai jogállásra vonatkozó rendelkezéseit kell alkalmazni.
 
-(2) A nem magyar állampolgár szülő gyermekének magyar állampolgársága a születés napjára visszaható hatállyal keletkezik, ha másik szülője — teljes hatályú apai elismerő nyilatkozat, utólagos házasságkötés, továbbá az apaság vagy az anyaság bírói megállapítása alapján — magyar állampolgár.
+(2) A nem magyar állampolgár szülő gyermekének magyar állampolgársága a születés napjára visszaható hatállyal keletkezik, ha magyar állampolgár és a gyermek közötti leszármazáson alapuló egyenes ági rokoni kapcsolat a gyermek születését követően jön létre.
 
 (3) Ellenkező bizonyításig magyar állampolgárnak kell tekinteni:
 
-- a) a Magyarországon lakóhellyel rendelkező hontalan szülők Magyarországon született gyermekét;
+- a) a Magyarországon lakóhellyel rendelkező hontalan szülők Magyarországon született gyermekét,
 - b) az ismeretlen szülőktől származó, Magyarországon talált gyermeket.
 
 ### A magyar állampolgárság megszerzése
@@ -81,7 +81,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) Nem köteles vizsgát tenni:
 
-- a) a cselekvőképtelen és a korlátozottan cselekvőképes személy;
+- a) a korlátozottan cselekvőképes kiskorú és az a személy, akinek a cselekvőképességét a bíróság az állampolgársági eljárással kapcsolatos ügyek tekintetében korlátozta (a továbbiakban együtt: korlátozottan cselekvőképes személy), valamint a cselekvőképtelen személy;
 - b) aki magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményben végzettséget szerzett;
 - c) aki a kérelem benyújtásakor hatvanadik életévét betöltötte;
 - d) aki igazolja, hogy egészségi állapotának tartós és visszafordíthatatlan romlása miatt képtelen a vizsga letételére.

@@ -308,7 +308,7 @@ adja ki.
 
 - a) akinél olyan – a 17. § (1) bekezdés b) pontjában, illetve a 18. § (2) bekezdésében meghatározott – ok áll fenn, amely miatt kamarai tagságát fel kellene függeszteni, illetőleg őt a kamarából ki kellene zárni,
 - b) aki olyan tevékenységet folytat, amit jogszabály, illetőleg a szakmai kamara etikai normái az adott egészségügyi tevékenységgel összeférhetetlennek minősítenek, e tevékenység folytatásának megszüntetéséig,
-- c) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll,
+- c) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
 - d) a 25. § (1) bekezdés f) pontja szerinti kizárás fegyelmi büntetés jogerőre emelkedésétől számított két évig az, akit a kamarából kizártak.
 
 14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – a (2) és (2a) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.

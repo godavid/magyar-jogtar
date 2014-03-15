@@ -15,7 +15,7 @@ Az Országgyűlés a vizek hasznosításával, hasznosítási lehetőségeinek m
 - e) a vizek megismeréséhez, állapotának feltárásához szükséges mérésre, adatok gyűjtésére, feldolgozására, szolgáltatására és felhasználására (a továbbiakban: vízrajzi tevékenység), valamint a vizek állapotának értékelésére, kutatására;
 - f) a vízkárok elleni védelemre és védekezésre,
 
-továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természetes és jogi személyekre, ezek jogi személyiséggel nem rendelkező gazdasági társaságaira terjed ki.
+továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természetes és jogi személyekre, ezek jogi személyiséggel nem rendelkező szervezeteire terjed ki.
 
 (2) A nemzetközi együttműködésből adódó vízgazdálkodási feladatok ellátására e törvény hatálya annyiban terjed ki, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
 
@@ -606,7 +606,7 @@ indokolja.
 
 35. § (1) A társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
 
-(2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok.
+(2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek.
 
 (3) A víziközmű társulat tagjai kötelesek a víziközmű társulat részére víziközmű társulati érdekeltségi hozzájárulást (a továbbiakban: hozzájárulás) fizetni. A hozzájárulás adók módjára behajtható köztartozás.
 
@@ -660,7 +660,7 @@ indokolja.
 
 ### A víziközmű társulat megalakulása
 
-40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok (a továbbiakban: tagok) az alakuló taggyűlésen
+40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező szervezetek (a továbbiakban: tagok) az alakuló taggyűlésen
 
 - a) elhatározzák megalakulását,
 - b) elfogadják alapszabályát,
@@ -955,7 +955,7 @@ E törvény alkalmazásában
 - 3. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény;
 - 4. elhabolás: víz (folyó, patak, csatorna, tározó, tó) hullámzó mozgásának hatására a partban keletkezett rongálódás;
 - 5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
-- 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
+- 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 - 7. érdekeltségi terület: víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
 - 8. gyógyvíz: olyan ásványvíz, amelynek bizonyítottan gyógyhatása van és gyógyászati felhasználásának engedélyezése külön jogszabályok szerint történik;
 - 9. ivóvíz: a rendszeres emberi fogyasztásra alkalmas a fizikai, a kémiai, a bakteriológiai, a toxikológiai és a radiológiai határértékeknek megfelelő víz;
@@ -977,7 +977,7 @@ E törvény alkalmazásában
 - 21. vízfolyás: minden olyan természetes vagy mesterséges terepalakulat, amelyben állandóan vagy időszakosan víz áramlik;
 - 22. vízgazdálkodás: a vizek hasznosítása, hasznosítási lehetőségeinek megőrzése, a vizek kártételei elleni védelem és védekezés (vízkárelhárítás);
 - 23. vízhasználat: az a tevékenység, amelynek következménye a víz lefolyási, áramlási viszonyainak, mennyiségének, minőségének, továbbá a medrének, partjának a víz hasznosítása érdekében való befolyásolása;
-- 24. vízhasználó: az a természetes személy, jogi személy és a természetes személyek jogi személyiséggel nem rendelkező gazdasági társasága, aki (amely) vizet szolgáltatás teljesítésére vagy saját céljaira vesz igénybe;
+- 24. vízhasználó: az a természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet, aki (amely) vizet szolgáltatás teljesítésére vagy saját céljaira vesz igénybe;
 - 25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
 - 26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
   - a) közcélú vízilétesítmény: amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja;
@@ -1001,6 +1001,7 @@ E törvény alkalmazásában
 - 39. mederhasználati jog: a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetőjét a vízilétesítmény által igénybe vett terület mértékéig megillető használati jog;
 - 40. mederhasználati vízilétesítmény: a nemzeti vagyonba tartozó vizek medrében elhelyezett kikötői lekötőmű, móló – az úszó móló kivételével –, sólyapálya, partvédő művek, hullámtörő, energiatörő.
 - 41. mezőgazdasági vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység.
+- 42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 

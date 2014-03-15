@@ -372,7 +372,8 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - j) a mintaoltalom megadásáról szóló határozat keltét,
 - k) a mintaoltalom megújítását, illetve megosztását,
 - l) a mintaoltalom megszűnését, annak jogcímét és időpontját, valamint a mintaoltalom változtatással való fenntartását, illetve korlátozását,
-- m) a hasznosítási engedélyeket.
+- m) a hasznosítási engedélyeket,
+- n) azt, ha a mintaoltalmi igény vagy a mintaoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
 (3) A mintaoltalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a mintaoltalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A mintaoltalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 

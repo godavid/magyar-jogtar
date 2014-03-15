@@ -83,6 +83,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
 - t) területcsere: a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
 - u) területfejlesztési terv: a térségre készülő területfejlesztési koncepció és program,
+- u) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 - v) ágazati tervek: a szakpolitikai stratégia, a szakpolitikai program és a hálózati fejlesztési terv,
 - x) területi terv: a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv,
 - y) térségi gazdaságfejlesztő szervezet: a térségi partnerséget megvalósító, helyileg optimálisnak ítélt működő szervezeti forma, mely rendelkezik az ipari parkokkal és a szabad vállalkozási zóna fejlesztéséhez szükséges képességekkel,

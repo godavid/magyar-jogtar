@@ -8,9 +8,9 @@ Az Országgyűlés a pártok Alaptörvényben biztosított, a népakarat kialak�
 
 2. §
 
-3. § (1) Az alapítványra a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+3. § (1) Az alapítványra a Polgári Törvénykönyv rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) Az alapítványhoz bárki feltétel nélkül csatlakozhat, az alapító okirat azonban előírhatja, hogy a csatlakozás elfogadásához a kezelő szerv jóváhagyása szükséges.
+(2) Az alapítványhoz bárki feltétel nélkül csatlakozhat, az alapító okirat azonban előírhatja, hogy a csatlakozás elfogadásához az ügyvezető szerv jóváhagyása szükséges.
 
 (3) Az alapítvány támogatást csak egyértelműen azonosítható személytől fogadhat el. A támogatás az azt nyújtó személy fizetési számlájáról az alapítvány pénzforgalmi számlájára történő átutalással történik.
 
@@ -23,13 +23,13 @@ Az Országgyűlés a pártok Alaptörvényben biztosított, a népakarat kialak�
 
 (6)
 
-(7) Az alapítvány kezelő szervének tagjait az alapító párt országgyűlési képviselőcsoportja nevében a képviselőcsoport vezetője, amennyiben nem rendelkezik országgyűlési képviselőcsoporttal, az alapító jelöli ki ötéves időtartamra. Nem minősül a Ptk. 74/C. § (3) bekezdése szerinti meghatározó befolyásnak, ha a kezelő szerv tagja az alapító párt tagja. Állami vezető az alapítvány kezelő szervének tagja lehet.
+(7) Az alapítvány kuratóriumának tagjait az alapító párt országgyűlési képviselőcsoportja nevében a képviselőcsoport vezetője, amennyiben nem rendelkezik országgyűlési képviselőcsoporttal, az alapító párt jelöli ki ötéves időtartamra. A kuratórium tagja, illetve tagjainak többsége az alapító párt tagja is lehet. A kuratórium tagjának állami vezető is kijelölhető.
 
 (8) Az alapítvány nem tartozik a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásról szóló 1996. évi CXXVI. törvény 4. §-ának (1) bekezdésében meghatározott kedvezményezettek körébe.
 
 3/A. § (1) Az alapítvány köteles az éves beszámoló jóváhagyásával egyidejűleg tevékenységéről jelentést készíteni.
 
-(2) Az (1) bekezdésben meghatározott jelentés elfogadása a kezelő szerv kizárólagos hatáskörébe tartozik.
+(2) Az (1) bekezdésben meghatározott jelentés elfogadása az ügyvezető szerv kizárólagos hatáskörébe tartozik.
 
 (3) Az (1) bekezdésben meghatározott jelentés tartalmazza:
 

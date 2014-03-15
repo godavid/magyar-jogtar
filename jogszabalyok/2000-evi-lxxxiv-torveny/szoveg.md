@@ -54,7 +54,7 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 (4) A (3) bekezdés c) és q) pontja szerinti nyilvántartás tartalmazza
 
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
-- b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
+- b) jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
 (5) A (3) bekezdés c) és p) pontja szerinti hatósági eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni. Az eljárást első fokon a területi szervezet folytatja le. A területi szervezet döntése ellen fellebbezésnek van helye, melynek az elbírálására az országos szervezet jogosult.
 
@@ -187,7 +187,7 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 
 (2) Kamarai tisztségviselő azonos kamarai szervezetben egyéb tisztséget nem tölthet be. Kamarai tisztségre választható minden kamarai tag, feltéve, ha vele szemben összeférhetetlenségi ok nem áll fenn.
 
-(3) A területi szervezet vezetőségének, az országos szervezet elnökségének, valamint felügyelő bizottság tagjai nem lehetnek egymásnak közeli hozzátartozói [Ptk. 685. § b) pontja] és munkájuk során egymás alá- és fölérendeltjei.
+(3) A területi szervezet vezetőségének, az országos szervezet elnökségének, valamint a felügyelő bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkájuk során egymás alá- és fölérendeltjei.
 
 (4) Az (1)–(3) bekezdésben megjelölt összeférhetetlenségi okot az érintett a megválasztásakor köteles bejelenteni, és azt a megválasztástól számított 15 napon belül megszüntetni. A megszüntetésről az érintett a választásra jogosult testületet 8 napon belül tájékoztatja.
 

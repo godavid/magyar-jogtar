@@ -179,7 +179,7 @@ hívja össze.
 
 #### 6. A kinevezés
 
-11. § (1) Ügyésszé azt a cselekvőképes magyar állampolgárt lehet kinevezni, akinek egyetemi jogi végzettsége van, és külön jogszabály szerint jogi szakvizsgával rendelkezik. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
+11. § (1) Ügyésszé azt az egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező magyar állampolgárt lehet kinevezni, aki nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
 
 (2) Az (1) bekezdésben foglalt feltételeken túl az a személy nevezhető ki ügyésszé, aki a jogi szakvizsga letételét követően
 
@@ -611,11 +611,11 @@ véleményét a pályázóról.
 - a) az ügyész munkaköre megszűnt,
 - b) az ügyészi szervnél létszámcsökkentést hajtanak végre az ítélet jogerőssé válásakor.
 
-(3) Az (1) bekezdésben foglalt esetben meg kell téríteni az ügyész elmaradt illetményét (egyéb járandóságait), továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek (egyéb járandóságnak), illetve a kárnak azt a részét, amely máshonnan megtérült.
+(3) Az (1) bekezdésben foglalt esetben meg kell téríteni az ügyész elmaradt illetményét (egyéb járandóságait), továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Az ügyész sérelemdíjat is igényelhet a szolgálati viszony jogellenes megszüntetésével okozott személyiségi jogsértésért. Nem kell megtéríteni az illetménynek (egyéb járandóságnak), illetve a kárnak azt a részét, amely máshonnan megtérült.
 
 (4) Ha az ügyészségi szolgálati viszony (1) bekezdésben foglalt módon történő jogellenes megszüntetése esetén az ügyész az eredeti munkakörébe való visszahelyezést nem kéri vagy a bíróság mellőzi az ügyész eredeti munkakörbe történő visszahelyezését, az ügyészségi szolgálati viszony a jogellenességet megállapító határozat jogerőre emelkedésének napján szűnik meg. Ilyen esetben a bíróság a munkáltatót a (3) bekezdésben foglaltakon felül – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével – az ügyész legalább két-, legfeljebb tizenkét havi illetményének megfelelő összeg megfizetésére kötelezi.
 
-(5) Ha az ügyészségi szolgálati viszonyt nem az (1) bekezdésben foglalt módon szüntették meg jogellenesen, az ügyészségi szolgálati viszony a megszüntetésről szóló jognyilatkozat szerinti időpontban megszűnik, de az ügyész részére – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelése alapján – legalább két, legfeljebb huszonnégy havi illetményének megfelelő átalány kártérítést kell fizetni.
+(5) Ha az ügyészségi szolgálati viszonyt nem az (1) bekezdésben foglalt módon szüntették meg jogellenesen, az ügyészségi szolgálati viszony a megszüntetésről szóló jognyilatkozat szerinti időpontban megszűnik, de az ügyész részére – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelése alapján – legalább két, legfeljebb huszonnégy havi illetményének megfelelő átalány-kártérítést kell fizetni, amely összegbe az esetleges sérelemdíj is beletartozik.
 
 (6) Amennyiben az ügyészségi szolgálati viszonyt az ügyész valamely, az ügyészségi szolgálati viszony megszüntetésére vonatkozó szabály megszegésével szünteti meg, ezt úgy kell elbírálni, mintha az ügyészségi szolgálati viszonya hivatalvesztés fegyelmi büntetés folytán szűnt volna meg, valamint köteles a munkáltató számára a rá irányadó lemondási időre – határozott időre szóló ügyészségi szolgálati viszony esetén legfeljebb a hátralévő időre – járó, de legfeljebb kéthavi illetményének megfelelő összeget megfizetni. A munkáltató jogosult az ezt meghaladó kárának érvényesítésére is. Ezek együttesen nem haladhatják meg az ügyész tizenkét havi illetményének összegét.
 
@@ -742,7 +742,7 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 (5) Ha az utasítást az ügyész jogszabállyal vagy jogi meggyőződésével nem tartja összeegyeztethetőnek, az ügy elintézése alól mentesítését kérheti írásban, jogi álláspontját kifejtve. Az ilyen kérelem teljesítése nem tagadható meg; az ügy elintézését ez esetben más ügyészre kell bízni, vagy azt a felettes ügyész saját hatáskörébe vonhatja.
 
-(6) Ha az utasítás végrehajtása jogellenesen kárt idézhet elő, és az ügyész ezzel számolhat, köteles erre az utasítást adó figyelmét felhívni.
+(6) Ha az utasítás végrehajtása jogellenesen kárt, illetve személyiségi jogsértést idézhet elő, és az ügyész ezzel számolhat, köteles erre az utasítást adó figyelmét felhívni.
 
 (7) Az ügyész a halaszthatatlan intézkedést – a (3)–(4) bekezdésben foglalt esetet kivéve – akkor is köteles megtenni, ha az utasítás teljesítése alól mentesítését kérte.
 
@@ -1219,37 +1219,39 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 99. § A fegyelmi eljárás lefolytatásával kapcsolatos indokolt költségeket az ügyészség viseli. Ha azonban az ügyész fegyelmi felelősségét jogerősen megállapították, az ügyész köteles megtéríteni az általa indítványozott eljárási cselekmények költségeit, illetve a részéről igénybe vett képviselő költségeit.
 
-### XI. Fejezet — A KÁRTÉRÍTÉSI FELELŐSSÉG
+### XI. Fejezet — A KÁRTÉRÍTÉSI FELELŐSSÉG ÉS A SÉRELEMDÍJRA JOGOSULTSÁG
 
-100. § (1) Az ügyész az ügyészségi szolgálati viszonyából eredő kötelességének vétkes megszegésével okozott kárért kártérítési felelősséggel tartozik.
+100. § (1) Az ügyész az ügyészségi szolgálati viszonyából eredő kötelességének vétkes megszegésével okozott kárért kártérítési felelősséggel tartozik, továbbá tőle az okozott személyiségi jogsértés miatt sérelemdíj megfizetése követelhető.
 
-(2) Az ügyész vétkességét, a kár bekövetkeztét, illetve mértékét, valamint az okozati összefüggést a munkáltatónak kell bizonyítania.
+(2) Az ügyész vétkességét, a kár bekövetkeztét, illetve mértékét, az okozati összefüggést, valamint a személyiségi jogi jogsértést a munkáltatónak kell bizonyítania.
 
-101. § (1) Gondatlan károkozás esetén – a (2) bekezdésben foglalt esetek kivételével – a kártérítés mértéke az ügyész egyhavi illetményének ötven százalékát nem haladhatja meg.
+101. § (1) Gondatlan károkozás, illetve személyiségi jogsértés esetén – a (2) bekezdésben foglalt esetek kivételével – a kártérítés, illetve a sérelemdíj mértéke az ügyész egyhavi illetményének ötven százalékát nem haladhatja meg.
 
-(2) Gondatlan károkozás esetén az ügyész háromhavi illetménye erejéig felel, amennyiben
+(2) Gondatlan károkozás, illetve személyiségi jogsértés esetén az ügyész háromhavi illetménye erejéig felel, illetve kötelezhető sérelemdíj megfizetésére, amennyiben
 
-- a) a kárt súlyos gondatlanságával, illetve az ellenőrzési kötelezettség elmulasztásával vagy hiányos teljesítésével okozta;
-- b) a kár olyan – jogszabályba ütköző – utasítása teljesítéséből keletkezett, amelynek következményeire az utasított ügyész előzőleg a figyelmét felhívta.
+- a) a kárt, illetve a személyiségi jogsértést súlyos gondatlanságával, illetve az ellenőrzési kötelezettség elmulasztásával vagy hiányos teljesítésével okozta;
+- b) a kár, illetve a személyiségi jogsértés olyan – jogszabályba ütköző – utasítása teljesítéséből keletkezett, amelynek következményeire az utasított ügyész előzőleg a figyelmét felhívta.
 
-102. § Szándékos károkozás esetén az ügyész a teljes kárt köteles megtéríteni.
+102. § Szándékos károkozás, illetve személyiségi jogsértés esetén az ügyész a teljes kárt köteles megtéríteni, illetve a sérelemdíj megfizetésére – illetménye összegétől függetlenül – köteles.
 
 103. § A munka törvénykönyve rendelkezéseit kell megfelelően alkalmazni
 
 - a) a megőrzésre átadott, visszaszolgáltatási vagy elszámolási kötelezettséggel átvett dologban bekövetkezett hiányért és a megőrzésre átadott dologban megrongálódása folytán keletkezett kárért való felelősségre;
-- b) az együttesen okozott kárért való felelősségre;
+- b) az együttesen okozott kárért való felelősségre, illetve személyiségi jogsértésre;
 - c) a leltárhiányért fennálló felelősségre.
 
-104. § (1) A legfőbb ügyész helyettes kártérítési felelősségét a legfőbb ügyész, a többi ügyész kártérítési felelősségét pedig a fegyelmi jogkör gyakorlója kártérítési határozattal állapítja meg.
+104. § (1) A legfőbb ügyész helyettes kártérítési felelősségét, illetve sérelemdíj megfizetésére kötelezhetőségét a legfőbb ügyész, a többi ügyész kártérítési felelősségét, illetve sérelemdíj megfizetésére kötelezhetőségét pedig a fegyelmi jogkör gyakorlója kártérítési, illetve sérelemdíj megfizetésére kötelező határozattal állapítja meg.
 
-(2) A kártérítési felelősség megállapítására, a kártérítési határozat elleni jogorvoslatra a fegyelmi eljárás szabályait kell megfelelően alkalmazni a következő eltérésekkel
+(2) A kártérítési felelősség, illetve a sérelemdíj megfizetésére kötelezhetőség megállapítására, a kártérítési, illetve sérelemdíj megfizetésére kötelező határozat elleni jogorvoslatra a fegyelmi eljárás szabályait kell megfelelően alkalmazni a következő eltérésekkel
 
-- a) a kártérítési határozat az elévülési időn belül hozható meg;
-- b) a legfőbb ügyész helyettes a vele szemben hozott kártérítési határozat ellen annak közlését követő tizenöt napon belül közvetlenül a bírósághoz fordulhat.
+- a) a kártérítési, illetve sérelemdíj megfizetésére kötelező határozat az elévülési időn belül hozható meg;
+- b) a legfőbb ügyész helyettes a vele szemben hozott kártérítési, illetve sérelemdíj megfizetésére kötelező határozat ellen annak közlését követő tizenöt napon belül közvetlenül a bírósághoz fordulhat.
 
-(3) Ha az ügyész ügyészségi szolgálati viszonya a kártérítési határozat közlése előtt megszűnt, az általa okozott kár megtérítése iránti igényét a munkáltató a bíróság előtt érvényesítheti.
+(3) Ha az ügyész ügyészségi szolgálati viszonya a kártérítési, illetve a sérelemdíj megfizetésére kötelező határozat közlése előtt megszűnt, az általa okozott kár megtérítése, illetve sérelemdíj megfizetése iránti igényét a munkáltató a bíróság előtt érvényesítheti.
 
-105. § Az ügyészségnek az ügyésszel szemben az ügyészségi szolgálati viszonyból eredő kártérítési felelősségére és a kártérítés iránti igény érvényesítésének rendjére a Munka Törvénykönyvének a munkáltató kártérítési felelősségére vonatkozó szabályait kell megfelelően alkalmazni.
+105. § Az ügyészségnek az ügyésszel szemben az ügyészségi szolgálati viszonyból eredő kártérítési felelősségére, illetve sérelemdíjra kötelezhetőségére és a kártérítés, illetve sérelemdíj megfizetése iránti igény érvényesítésének rendjére a Munka Törvénykönyvének a munkáltató kártérítési felelősségére, illetve a sérelemdíjra kötelezhetőségére vonatkozó szabályait kell megfelelően alkalmazni.
+
+105/A. § Az okozott személyiségi jogsértés sérelemdíjon kívüli egyéb jogkövetkezményeire a Polgári Törvénykönyv szabályai irányadóak.
 
 ### XII. Fejezet — A JOGVITÁK
 
@@ -1290,9 +1292,9 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 ### XIV. Fejezet — AZ ALÜGYÉSZ ÉS AZ ÜGYÉSZSÉGI FOGALMAZÓ ÜGYÉSZSÉGI SZOLGÁLATI VISZONYA
 
-109. § (1) Ügyészségi fogalmazóvá azt a cselekvőképes magyar állampolgárt lehet kinevezni, akinek egyetemi jogi végzettsége van. Katonai ügyészségi fogalmazóvá történő kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
+109. § (1) Ügyészségi fogalmazóvá azt az egyetemi jogi végzettséggel rendelkező magyar állampolgárt lehet kinevezni, aki nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt. A katonai ügyészségi fogalmazóvá történő kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
 
-(2) Az alügyész kinevezésének az (1) bekezdésben meghatározottakon túl további feltétele, hogy a kinevezendő személy három év joggyakorlattal és külön jogszabály szerinti jogi szakvizsgával rendelkezzék.
+(2) Az alügyész kinevezésének az (1) bekezdésben meghatározottakon túl további feltétele, hogy a kinevezendő személy három év joggyakorlattal és jogi szakvizsgával rendelkezzék.
 
 (3) Az alügyészek és az ügyészségi fogalmazók nem lehetnek tagjai pártnak és nem folytathatnak politikai tevékenységet.
 
@@ -1382,24 +1384,35 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 ### XV. Fejezet — A TISZTVISELŐ, AZ ÍRNOK ÉS A FIZIKAI ALKALMAZOTT ÜGYÉSZSÉGI SZOLGÁLATI VISZONYA
 
-122. § (1) Tisztviselővé azt a cselekvőképes magyar állampolgárt lehet kinevezni, akinek legalább középfokú végzettsége van. Tisztviselő a szakirányú felsőfokú iskolai végzettséggel rendelkező ügyészségi megbízott is, aki az ügyész irányítása és felügyelete mellett, önálló felelősséggel ügyészi részjogosítványokat gyakorol.
+122. § (1) Tisztviselővé azt a legalább középfokú végzettséggel rendelkező magyar állampolgárt lehet kinevezni, aki nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt. Tisztviselő a szakirányú felsőfokú iskolai végzettséggel rendelkező ügyészségi megbízott is, aki az ügyész irányítása és felügyelete mellett, önálló felelősséggel ügyészi részjogosítványokat gyakorol.
 
-(2) Írnokká, illetve fizikai alkalmazottá azt a személyt lehet kinevezni, aki
+(2) Írnokká azt a személyt lehet kinevezni, aki
 
-- a) magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személy, vagy
-- b) az a) pontban meghatározott személyeknek az Szmtv. szerinti családtagja, ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel és legalább alapfokú végzettséggel rendelkezik. Fontos és bizalmas ügyészségi munkakört csak magyar állampolgár tölthet be.
+- a) magyar állampolgár vagy a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik, vagy
+- b) az a) pontban meghatározott személyeknek a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti családtagja,
 
-(3) Nem nevezhető ki tisztviselőnek, írnoknak, fizikai alkalmazottnak az a személy, aki
+ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel, továbbá legalább alapfokú végzettséggel rendelkezik, és nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.
+
+(3) Fizikai alkalmazottá azt a személyt lehet kinevezni, aki
+
+- a) magyar állampolgár vagy a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik, vagy
+- b) az a) pontban meghatározott személyeknek a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti családtagja,
+
+ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel és legalább alapfokú végzettséggel rendelkezik.
+
+(4) Fontos és bizalmas ügyészségi munkakört csak magyar állampolgár tölthet be.
+
+(5) Nem nevezhető ki tisztviselőnek, írnoknak, fizikai alkalmazottnak az a személy, aki
 
 - a) büntetett előéletű,
-- b) a betöltendő munkakörnek megfelelő vagy a munkakör részét képező foglalkozástól eltiltás hatálya alatt áll,
-- c) külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
+- b) a betöltendő munkakörnek megfelelő vagy a munkakör részét képező foglalkozástól eltiltás hatálya alatt áll, vagy
+- c) vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
-(4) Nem nevezhető ki ügyészségi megbízottnak a (3) bekezdésben említetteken túl, aki a 11. § (4) bekezdés a)–f) pontjában meghatározott feltételeknek nem felel meg.
+(6) Nem nevezhető ki ügyészségi megbízottnak az (5) bekezdésben említetteken túl, aki a 11. § (4) bekezdés a)–f) pontjában meghatározott feltételeknek nem felel meg.
 
-(5) Jogszabály, illetve a legfőbb ügyész a kinevezést az (1)–(4) bekezdésben foglaltakon túl meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
+(7) Jogszabály, illetve a legfőbb ügyész a kinevezést az (1)–(6) bekezdésben foglaltakon túl meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
 
-(6) A legfőbb ügyész a tisztviselők, írnokok és fizikai alkalmazottak részére munkaköri elnevezést állapíthat meg, és a munkakör ellátásához szükséges – az ügyészségi munka sajátos ismereteiről számot adó – vizsga letételének kötelezettségét is előírhatja.
+(8) A legfőbb ügyész a tisztviselők, írnokok és fizikai alkalmazottak részére munkaköri elnevezést állapíthat meg, és a munkakör ellátásához szükséges – az ügyészségi munka sajátos ismereteiről számot adó – vizsga letételének kötelezettségét is előírhatja.
 
 123. § (1) A tisztviselő, írnok és fizikai alkalmazott ügyészségi szolgálati viszonya kinevezéssel és annak elfogadásával – a (2) bekezdésben foglalt kivétellel – határozatlan időre létesül.
 
@@ -1452,9 +1465,9 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 - i) a bíróságnak vele szemben végrehajtandó szabadságvesztést kiszabó jogerős határozatával, továbbá ha büntetőeljárás során kényszergyógykezelését rendelték el;
 - j) halálával;
 - k) az eskütételi kötelezettség megszegésével;
-- l) külön törvényben meghatározott vagyonnyilatkozat-tételi kötelezettség megszegésével.
+- l) vagyonnyilatkozat-tételi kötelezettségének megszegésével.
 
-(2) Az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya az (1) bekezdésben említetteken kívül megszűnik, ha a 122. § (2) bekezdésében meghatározott feltételnek nem felel meg.
+(2) Az írnok ügyészségi szolgálati viszonya az (1) bekezdésben említetteken kívül megszűnik, ha a 122. § (2) bekezdésében meghatározott feltételnek nem felel meg. A fizikai alkalmazott ügyészségi szolgálati viszonya az (1) bekezdésben említetteken kívül megszűnik, ha a 122. § (3) bekezdésében meghatározott feltételnek nem felel meg.
 
 (3) A tisztviselő ügyészségi szolgálati viszonya az (1) bekezdésben említetteken túl megszűnik, ha a 122. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
@@ -1603,10 +1616,10 @@ cím adományozható.
 - h) az eljárás alá vont a fegyelmi határozat ellen annak közlését követő tizenöt napon belül közvetlenül a bírósághoz fordulhat;
 - i) ha a tisztviselővel, az írnokkal vagy a fizikai alkalmazottal szemben büntetőeljárás indult – ha a fegyelmi eljárás elrendelése egyéb okból nem szükséges –, a fegyelmi eljárás elrendelése nem kötelező.
 
-149. § E törvénynek az ügyész kártérítési felelősségére vonatkozó rendelkezéseit a tisztviselő, az írnok és a fizikai alkalmazott esetében is megfelelően alkalmazni kell, azzal az eltéréssel, hogy
+149. § E törvénynek az ügyész kártérítési felelősségére, illetve sérelemdíjra kötelezhetőségére vonatkozó rendelkezéseit a tisztviselő, az írnok és a fizikai alkalmazott esetében is megfelelően alkalmazni kell, azzal az eltéréssel, hogy
 
-- a) a tisztviselővel, az írnokkal és a fizikai alkalmazottal szemben a munkáltatói jogkör gyakorlója jogosult kártérítési határozatot hozni, és
-- b) az eljárás alá vont a kártérítési határozat ellen, annak közlését követő tizenöt napon belül közvetlenül a bírósághoz fordulhat.
+- a) a tisztviselővel, az írnokkal és a fizikai alkalmazottal szemben a munkáltatói jogkör gyakorlója jogosult kártérítés, illetve sérelemdíj megfizetésére kötelező határozatot hozni, és
+- b) az eljárás alá vont a kártérítési, illetve sérelemdíj megfizetésére kötelező határozat ellen, annak közlését követő tizenöt napon belül közvetlenül a bírósághoz fordulhat.
 
 150. § A tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonyára e törvénynek az ügyészek ügyészségi szolgálati viszonyára vonatkozó rendelkezései közül megfelelően alkalmazni kell a következő rendelkezéseket is
 
@@ -1676,7 +1689,7 @@ kell érteni.
 
 (2) A végkielégítés összegének megállapításakor – az (1) bekezdésben említetten kívül – ügyészségi szolgálati viszonyban töltött időnek kell tekinteni a bírói szolgálati viszonyban, az igazságügyi szolgálati jogviszonyban megszakítás nélkül eltöltött időt.
 
-(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának a megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban [2006. évi X. törvény 56. § (2) bekezdés] töltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának a megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.
 
 (4) A jubileumi jutalomra jogosító idők számítása során ügyészségi szolgálati viszonyban töltött időnek tekintendő az (1) és (3) bekezdésben írtakon túl az ügyvédi tevékenység és a közjegyzői szolgálat tartama, ide nem értve a jogviszony szünetelését.
 

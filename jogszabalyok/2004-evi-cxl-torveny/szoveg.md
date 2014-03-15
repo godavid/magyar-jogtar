@@ -49,7 +49,7 @@ a következő törvényt alkotja:
 
 (2) A közigazgatási hatóság a nem jogszabályszerű eljárással okozott kárt a polgári jog szabályai szerint megtéríti.
 
-(3)
+(3) A közigazgatási hatóság nem jogszabályszerű eljárása következtében személyiségi jogában megsértett jogalany számára sérelemdíjat fizet.
 
 5. § (1) A közigazgatási hatóság az ügyfél és az eljárás egyéb résztvevője számára biztosítja, hogy jogaikról és kötelezettségeikről tudomást szerezzenek, és előmozdítja az ügyféli jogok gyakorlását.
 
@@ -183,7 +183,7 @@ eljárásban.
 
 (6a) Törvény előírhatja, hogy a hatósági döntés jogerőre emelkedésétől és végrehajthatóvá válásától számított, a törvényben meghatározott, legalább hat hónapos határidőn túl további ügyfél nem vehet részt az eljárásban. Ebben az esetben a határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
 
-(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Ha eziránt kétség merül fel, az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve az erre vonatkozó iratok csatolásával ügygondnok kirendelését kéri, vagy ha törvény vagy kormányrendelet lehetővé teszi – az ügygondnok kirendelésére vonatkozó részletes szabályok meghatározásával –, maga gondoskodik ügygondnok kirendeléséről.
+(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha cselekvőképesnek minősül. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Ha eziránt kétség merül fel, az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve az erre vonatkozó iratok csatolásával ügygondnok kirendelését kéri, vagy ha törvény vagy kormányrendelet lehetővé teszi – az ügygondnok kirendelésére vonatkozó részletes szabályok meghatározásával –, maga gondoskodik ügygondnok kirendeléséről.
 
 (8) Az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzés ellen önálló fellebbezésnek van helye.
 
@@ -313,7 +313,7 @@ kezelésére.
 
 (2) Hatáskör vagy illetékesség hiányában a hatóság a kérelmet és az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a kérelem megérkezésétől, folyamatban levő ügyben a hatáskör és illetékesség hiányának megállapításától számított nyolc napon belül átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
 
-(3) A hatóság – tekintet nélkül a joghatóságára, valamint a hatáskörére és az illetékességére – hivatalból köteles megtenni azt az ideiglenes intézkedést, amelynek hiányában a késedelem elháríthatatlan kárral vagy veszéllyel járna.
+(3) A hatóság – tekintet nélkül a joghatóságára, valamint a hatáskörére és az illetékességére – hivatalból köteles megtenni azt az ideiglenes intézkedést, amelynek hiányában a késedelem elháríthatatlan kárral, a személyiségi jogok elháríthatatlan sérelmével vagy elháríthatatlan veszéllyel járna.
 
 (4) A hatóság az ideiglenes intézkedéséről szóló végzését közli az ügyféllel, valamint a joghatósággal és hatáskörrel rendelkező illetékes hatósággal, amely az ideiglenes intézkedés szükségességét felülvizsgálja, és szükség esetén megteszi a hatáskörébe tartozó intézkedést.
 
@@ -770,7 +770,7 @@ számított nyolc napon belül értesíteni kell.
 
 ### Adatok zárt kezelése
 
-39/A. § (1) Erre irányuló indokolt kérelem esetén a hatóság elrendeli a tanú, a tolmács, a szemletárgy birtokosa és a hivatalbóli eljárást kezdeményező személy természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az adatok zárt kezelése iránti kérelmet előterjesztő valószínűsíti, hogy őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést kizárólag a kérelmet előterjesztővel kell közölni.
+39/A. § (1) Erre irányuló indokolt kérelem esetén a hatóság elrendeli a tanú, a tolmács, a szemletárgy birtokosa, a támogató és a hivatalbóli eljárást kezdeményező személy természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az adatok zárt kezelése iránti kérelmet előterjesztő valószínűsíti, hogy őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést kizárólag a kérelmet előterjesztővel kell közölni.
 
 (1a) A hatóság a cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél, tanú, illetve a szemletárgy birtokosa védelme érdekében erre irányuló kérelem nélkül is dönthet a cselekvőképtelen vagy korlátozottan cselekvőképes személy adatainak zárt kezeléséről. A végzést a cselekvőképtelen vagy korlátozottan cselekvőképes személy képviselőjével is közölni kell.
 
@@ -818,6 +818,30 @@ számított nyolc napon belül értesíteni kell.
 
 (7) A meghatalmazásnak visszavonás, felmondás vagy az ügyfél halála folytán való megszűnése a hatósággal szemben a hatóságnak való bejelentéstől, a többi ügyféllel szemben pedig a vele való közléstől hatályos.
 
+### A támogató
+
+40/B. § (1) A Polgári Törvénykönyv szerinti támogató kirendelése esetén a támogató
+
+- a) a támogatott személlyel egyidejűleg az eljárás során valamennyi eljárási cselekménynél – ideértve a nyilvánosság kizárásával megtartott tárgyalást is – jelen lehet, távolléte azonban az eljárási cselekmény teljesítésének, valamint az eljárás folytatásának nem akadálya,
+- b) a nyilatkozat, adatszolgáltatás megtételének elősegítése érdekében a támogatott személlyel – az eljárási cselekmény rendjét meg nem zavaró módon – egyeztethet.
+
+(2) A támogató a támogatói jogosultságát a gyámhatóság által kiadott kirendelő határozattal vagy tanúsítvánnyal igazolja. A gyámhatóság határozatát vagy tanúsítványát az első olyan eljárási cselekménynél kell a hatóságnak bemutatni, amelyen a támogatott személy a támogatóval együtt vesz részt.
+
+(3) A támogató az általa támogatott személy helyett nyilatkozattételre nem jogosult.
+
+(4) A támogatónak az eljárási cselekményen való részvételéről a támogatott személy gondoskodik, a hatóság ezzel kapcsolatos intézkedést nem tesz.
+
+(5) Ha a hatóság a támogató és a támogatott személy között érdekellentétet észlel, erről a támogatott tájékoztatásával egyidejűleg haladéktalanul értesíti a gyámhatóságot.
+
+(6) Az eljárásban támogatóként nem vehet részt az a személy,
+
+- a) aki ellenérdekű ügyfél vagy annak képviselője, támogatója,
+- b) aki az eljárásban mint a hatóság képviselője, szakértő, tolmács, hatósági tanú vagy hatósági közvetítő részt vesz.
+
+(7) Az eljárás egyéb résztvevőjére vonatkozó szabályokat – az e törvényben foglalt eltérésekkel – a támogatóra is alkalmazni kell.
+
+(8) Az eljárás során a támogatóval kapcsolatban felmerült költségeket a támogatott előlegezi és viseli.
+
 ### Hatósági közvetítő
 
 41. § (1) A hatóság és az ügyfél, valamint az ellenérdekű ügyfelek közötti vita rendezése érdekében a hatóság hatósági közvetítőt vehet igénybe.
@@ -852,7 +876,7 @@ számított nyolc napon belül értesíteni kell.
 
 ### Kizárás
 
-42. § (1) Az ügy elintézésében nem vehet részt az a személy, akinek jogát vagy jogos érdekét az ügy közvetlenül érinti, továbbá az, aki az ügyben tanúvallomást tett, hatósági közvetítőként, az ügyfél képviselőjeként, hatósági tanúként vagy szakértőként járt el, valamint a szemletárgy birtokosa.
+42. § (1) Az ügy elintézésében nem vehet részt az a személy, akinek jogát vagy jogos érdekét az ügy közvetlenül érinti, továbbá az, aki az ügyben tanúvallomást tett, hatósági közvetítőként, az ügyfél képviselőjeként, hatósági tanúként vagy szakértőként járt el, valamint a szemletárgy birtokosa és a támogató.
 
 (2) Az ügy másodfokú elintézésében nem vehet részt az, aki az ügy elintézésében első fokon részt vett.
 
@@ -1959,7 +1983,7 @@ teljesíti.
 
 - a) életveszéllyel vagy súlyos kárral fenyegető helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése miatt szükséges,
 - b) nemzetbiztonsági és honvédelmi érdekből vagy a közbiztonság fenntartása érdekében, illetve fontos közrendvédelmi okból szükséges,
-- c) a végrehajtás késedelme jelentős vagy helyrehozhatatlan kárral járna,
+- c) a végrehajtás késedelme jelentős vagy helyrehozhatatlan kárral vagy a személyiségi jogok jelentős sérelmével járna,
 - d) a döntés valakinek a tartásáról vagy gondozásáról rendelkezik,
 - e) azt törvény élelmiszerlánc-felügyelettel kapcsolatos, továbbá közegészségügyi, járványügyi, tűzvédelmi, katasztrófavédelmi, munkaügyi, munkavédelmi, fogyasztóvédelmi, kulturális örökségvédelmi, termőföld-, környezet- vagy természetvédelmi okból, továbbá a közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében lehetővé teszi, vagy
 - f) a hatósági nyilvántartásba történő haladéktalan bejegyzést törvény írja elő.
@@ -2094,7 +2118,7 @@ teljesíti.
 
 (8) Ha az újrafelvételi eljárásban a kötelezettséget megállapító jogerős határozat megváltoztatása vagy visszavonása várható, a hatóság hivatalból intézkedik a folyamatban lévő végrehajtás felfüggesztéséről.
 
-(9) Ha az újonnan ismertté vált tények alapján a jogerős határozatban megállapított kötelezettség elrendelésének – részben vagy egészben – nem lett volna helye, az újrafelvételi eljárásban intézkedni kell a kérelem benyújtásáig, illetve a végrehajtás felfüggesztéséig történt teljesítéssel (végrehajtással) kialakult helyzet rendezéséről, a kötelezettnek alaptalanul okozott joghátrány megszüntetéséről, valamint az okozott kár és eljárási költség megtérítéséről.
+(9) Ha az újonnan ismertté vált tények alapján a jogerős határozatban megállapított kötelezettség elrendelésének – részben vagy egészben – nem lett volna helye, az újrafelvételi eljárásban intézkedni kell a kérelem benyújtásáig, illetve a végrehajtás felfüggesztéséig történt teljesítéssel (végrehajtással) kialakult helyzet rendezéséről, a kötelezettnek alaptalanul okozott joghátrány megszüntetéséről, az okozott kár és eljárási költség megtérítéséről, valamint a személyiségi jogsértés miatt járó sérelemdíj megfizetéséről.
 
 ### Az Alkotmánybíróság határozata alapján indítható eljárás
 
@@ -2736,7 +2760,7 @@ teljesíti.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-170. § Ha az ügyfél a jogerős vagy végrehajtható közigazgatási határozatban megállapított tilalmat vagy kötelezettséget oly módon szegi meg, hogy magatartása az e törvény alapján kiszabott eljárási bírságon túl közigazgatási anyagi jogszabályban megállapított bírságot, illetve szabálysértési, büntetőjogi vagy kártérítési felelősséget von maga után, az e törvény szerinti eljárási bírság megfizetése nem mentesíti őt magatartásának egyéb jogkövetkezményei alól.
+170. § Ha az ügyfél a jogerős vagy végrehajtható közigazgatási határozatban megállapított tilalmat vagy kötelezettséget oly módon szegi meg, hogy magatartása az e törvény alapján kiszabott eljárási bírságon túl közigazgatási anyagi jogszabályban megállapított bírságot, illetve szabálysértési, büntetőjogi vagy kártérítési felelősséget von maga után, vagy sérelemdíj iránti igényt alapoz meg, az e törvény szerinti eljárási bírság megfizetése nem mentesíti őt magatartásának egyéb jogkövetkezményei alól.
 
 ### Átmeneti rendelkezések
 
@@ -2818,8 +2842,11 @@ kell érteni.
 - m)
 - n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását,
 - o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató,
-- p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy,
-- q) elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nyújtott elektronikus tájékoztatás.
+- p) korlátozottan cselekvőképes személy: olyan cselekvőképességében részlegesen korlátozott nagykorú, akinek a polgári jog szabályai szerinti cselekvőképessége az eljárásra, az eljárás tárgyára, illetve egyes eljárási cselekményekre kiterjedő hatállyal korlátozva van, valamint az a kiskorú, aki a tizennegyedik életévét betöltötte és nem cselekvőképtelen,
+- q) kiskorú személy: a Polgári Törvénykönyv szerinti kiskorú személy,
+- r) cselekvőképtelen személy: a Polgári Törvénykönyv szerinti cselekvőképtelen személy,
+- s) cselekvőképes személy: a Polgári Törvénykönyv szerinti cselekvőképes személy, valamint olyan cselekvőképességében részlegesen korlátozott nagykorú, akinek a polgári jog szabályai szerinti cselekvőképessége az eljárásra, az eljárás tárgyára, illetve az egyes eljárási cselekményekre kiterjedő hatállyal nincs korlátozva,
+- t) elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nyújtott elektronikus közzététel.
 
 ### Hatálybalépés
 

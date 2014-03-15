@@ -159,7 +159,10 @@ rendeletben állapítsa meg.
 - c) a munkaerő-piaci szolgáltatások tartalmát, csoportosítását és a szolgáltatások szakmai követelményeit,
 - d) az egyéni cselekvési tervre vonatkozó részletes szabályokat,
 - e) a szolgáltatások igénybevételének, valamint e bekezdés a) pontjában meghatározott szervezetek részére történő támogatás nyújtásának feltételeit, valamint
-- f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és szabályait.
+- f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és szabályait,
+- g) az állami foglalkoztatási szerv szolgáltatásait igénybe vevő vagy kérő, álláskeresőként nem nyilvántartott személyek nyilvántartásának szabályait.
+
+(5) A munkaerő-piaci programot és munkaerő-piaci szolgáltatást nyújtók szakmai támogatása a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet kedvezményezett részére továbbadási kötelezettséggel átadott szakmai támogatás nyújtásával is megvalósulhat. A szakmai támogatás továbbadásáról a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet a munkaerő-piaci programot és a munkaerő-piaci szolgáltatást nyújtóval szerződést köt. A szerződésben meg kell határozni a kedvezményezettet jogszabály, támogatói okirat, támogatási szerződés alapján terhelő kötelezettségek megtartását biztosító feltételeket.
 
 ### Képzések elősegítése
 
@@ -175,8 +178,8 @@ rendeletben állapítsa meg.
 
 (2) Az (1) bekezdés c) pontjában meghatározott személyek képzése akkor támogatható, ha a képzés időtartama hetente nem haladja meg a harminc órát, és
 
-- a) a gyermekgondozási segélyben részesülő személy képzése a gyermek egyéves, gyermekgondozási díj folyósítása esetén másfél éves korának betöltését követően kezdődik meg, valamint
-- b) a gyermekgondozási segélyben, gyermeknevelési támogatásban részesülő személy kereső tevékenységet nem folytat.
+- a) a gyermekgondozási segélyben, illetve gyermekgondozási díjban részesülő személy képzése a gyermek egy éves korának betöltését követően kezdődik meg, valamint
+- b) a gyermekgondozási segélyben, gyermekgondozási díjban, gyermeknevelési támogatásban részesülő személy kereső tevékenységet nem folytat.
 
 (3)
 
@@ -230,7 +233,7 @@ adható.
 
 (2) Az (1) bekezdésben meghatározott támogatás legfeljebb egyévi időtartamra, a legalább huszonnégy hónapja álláskeresőként nyilvántartott személy foglalkoztatásához legfeljebb kétévi időtartamra nyújtható.
 
-(3) Ha a munkaadó a szövetkezetekről szóló törvény szerinti szociális szövetkezet, a támogatás mértéke a munkabér és járuléka legfeljebb 70 százalékáig terjedhet feltéve, hogy a munkaadó vállalja a hátrányos helyzetű személy továbbfoglalkoztatását legalább a támogatás folyósítási időtartama 50 százalékának megfelelő időtartamra.
+(3) Ha a munkaadó szociális szövetkezet, a támogatás mértéke a munkabér és járuléka legfeljebb 70 százalékáig terjedhet, feltéve, hogy a munkaadó vállalja a hátrányos helyzetű személy továbbfoglalkoztatását legalább a támogatás folyósítási időtartama 50 százalékának megfelelő időtartamra.
 
 (4) A (3) bekezdésben meghatározott támogatás esetén a támogatás és a továbbfoglalkoztatás együttes időtartama legfeljebb egy év, a legalább huszonnégy hónapja álláskeresőként nyilvántartott személy foglalkoztatása esetén legfeljebb két év lehet.
 
@@ -684,7 +687,7 @@ időtartamával.
 
 - a) központi foglalkoztatási, képzési és munkaerőpiaci integrációs programok és kutatások támogatására;
 - b) a 18. §-ban meghatározott munkahely-teremtési támogatásra;
-- c) a foglalkoztatáspolitikáért felelős miniszter által alapított, közfeladatot ellátó közhasznú szervezet részére – foglalkoztatási és képzési célú támogatás nyújtása érdekében – támogatás nyújtására;
+- c) a foglalkoztatáspolitikáért felelős miniszter által alapított, közfeladatot ellátó közhasznú szervezet részére – foglalkoztatási és képzési célú támogatás, valamint munkaerő-piaci szolgáltatás nyújtása érdekében – támogatás nyújtására;
 - d) foglalkoztatást elősegítő támogatások továbbfejlesztésére vonatkozó kutatások és programok támogatására;
 - e) az Európai Szociális Alap társfinanszírozásával megvalósuló programok hazai finanszírozására;
 - f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre;
@@ -871,7 +874,15 @@ időtartamával.
 
 (4) Ha a jogosult az igényét menthető okból nem tudja érvényesíteni, az akadály megszűnésétől számított hat hónapon belül ezt akkor is megteheti, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra.
 
-(5) Az igény érvényesítésére irányuló írásbeli felszólítás, az igénynek a bíróság előtti érvényesítése, megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése az elévülést megszakítja. Az elévülés megszakadása, illetőleg az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
+(5) Az elévülést megszakítja
+
+- a) igény érvényesítésére irányuló írásbeli felszólítás,
+- b) az igénynek a bírósági eljárásban történő érvényesítése, ha a bíróság az eljárást befejező jogerős érdemi határozatot hozott,
+- c) az igény megegyezéssel történő módosítása,
+- d) az egyezségkötés, és
+- e) a kötelezett elismerése.
+
+(5a) Az elévülés megszakításától vagy az elévülést megszakító eljárás jogerős befejezésétől az elévülési idő újból kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
 
 54/B. § (1) Az álláskeresőként történő nyilvántartásba vétellel kapcsolatos eljárásban – ideértve a nyilvántartásba vétel szünetelését is – az állami foglalkoztatási szerv abban az esetben dönt határozattal, ha az ügyfélnek az álláskeresőként történő nyilvántartásba vétellel kapcsolatos kérelmét érdemben elutasítja, vagy az ügyfelet az 54. § (14) bekezdés d) és e) pontja alapján törli az álláskeresők nyilvántartásából.
 
@@ -1042,7 +1053,7 @@ szerinti adatok igénylésére jogosult.
 - d) iskolai végzettsége, szakképesítése,
 - e) annak ténye, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
 - f) Társadalombiztosítási Azonosító Jele (TAJ szám),
-- g) intézkedésbe történő belépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
+- g) intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
   - ga) intézkedésbe történő belépés dátuma,
   - gb) munkaerő-piaci státusza,
   - gc) annak ténye, hogy megváltozott munkaképességűnek minősül-e,
@@ -1050,6 +1061,10 @@ szerinti adatok igénylésére jogosult.
   - ge) a résztvevő önkéntes nyilatkozata alapján, nemzetiségének megjelölése,
   - gf) annak ténye, hogy tartós munkanélkülinek minősül-e,
   - gg) annak ténye, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
+  - gh) annak ténye, hogy 18 éven aluli gyermeket nevel-e saját háztartásában,
+  - gi) annak ténye, hogy egyetlen felnőttből álló háztartásban él-e,
+  - gj) annak ténye, hogy munkanélküli háztartásban él-e,
+  - gk) annak ténye, hogy hajléktalan-e.
 - h) az intézkedésből történő kilépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
   - ha) intézkedésből történő kilépés dátuma,
   - hb) a résztvevő munkaerő-piaci státusza,
@@ -1078,11 +1093,11 @@ szerinti adatok igénylésére jogosult.
 
 (5) E törvény alkalmazásában
 
-- a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a hivatásos nevelő szülői jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya, – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját –, fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya,
+- a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya, – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját –, fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya,
 - b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, illetve magánszemély és annak jogi személyiséggel nem rendelkező társasága, aki munkavállalót foglalkoztat, vagy foglalkoztatni kíván.
 - d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, rehabilitációs járadékban, valamint a megváltozott munkaképességű személyek ellátásaiban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
-- e) kereső tevékenység: – az 1–5. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek. 5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés, akkor minősül kereső tevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja a személyi jövedelemadóról szóló törvény alapján az adómentes bevétel értékhatárát,
+- e) kereső tevékenység: – az 1–5. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek. 5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés, akkor minősül kereső tevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja a személyi jövedelemadóról szóló törvény alapján az adómentes bevétel értékhatárát,
 - f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 - g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 - h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár,
@@ -1106,7 +1121,8 @@ szerinti adatok igénylésére jogosult.
   - va) az a természetes személy, aki az állami foglalkoztatási szerv szolgáltatását az álláskeresők ellátása és a foglalkoztatást elősegítő támogatások iránti kérelem benyújtása nélkül veszi igénybe vagy olyan támogatás érdekében veszi igénybe, amelynek nem feltétele az álláskeresőként történő nyilvántartásba vétel, vagy
   - vb) az a munkaadó, aki harmadik országbeli állampolgár magyarországi foglalkoztatásának engedélyezése érdekében munkaerőigényt jelent be és közvetítést is kér,
 - v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
-- w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül.
+- w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül,
+- x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott.
 
 (6) A törvény alkalmazásában a
 

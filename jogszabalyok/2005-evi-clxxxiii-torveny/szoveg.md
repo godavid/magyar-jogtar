@@ -33,12 +33,13 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 
 - 1. vasúti közlekedés: vasúti pályához kötött közlekedési rendszer;
 - 2. vasúti rendszer: a hagyományos és a nagysebességű vasúti rendszerek strukturális és működési alrendszereinek összessége, valamint ezek irányítása és üzemeltetése;
-- 3. szervezet: a jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság;
+- 3. szervezet: a jogi személy;
 - 4. kölcsönös átjárhatóság: egy vasúti pályahálózat azon képessége, amely lehetővé teszi az ezeken a pályahálózatokon előírt teljesítményt elérő vonatok biztonságos és zavartalan haladását. Ez a képesség azoktól a szabályozási, műszaki és üzemeltetési feltételektől függ, amelyeket az alapvető követelményeknek való megfelelés érdekében be kell tartani;
 - 5. nyomtáv: a vasúti pálya két sínszálának egymástól való távolsága;
 - 6. normál nyomtáv: a vasúti pálya két sínszálának egymástól való távolsága 1435 mm;
 - 7. keskeny nyomtáv: a normál nyomtávnál keskenyebb nyomtáv;
-- 8. széles nyomtáv: a normál nyomtávnál nagyobb nyomtáv.
+- 8. széles nyomtáv: a normál nyomtávnál nagyobb nyomtáv;
+- 9. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 (2) Vasúti tevékenységek, szolgáltatások:
 
@@ -128,7 +129,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
 - 20.
 - 21. közmű: vízellátást szolgáló vezeték, szennyvíz-, illetve csapadékelvezetést szolgáló zárt csatorna, távhővezeték, villamos energia átviteli és elosztó hálózat, villamos termelői-, magán- és közvetlen vezeték, szénhidrogén szállító-, földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékeinek vezetéke, elektronikus hírközlési vezeték;
-- 22. kapacitásfoglalásra jogosult: az a bármely EGT-államban bejegyzett, a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet, amely nem vasúti társaság, és a vasúti pályahálózat-működtetővel a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést köt;
+- 22. kapacitásfoglalásra jogosult: az a bármely EGT-államban bejegyzett gazdálkodó szervezet, amely nem vasúti társaság, és a vasúti pályahálózat-működtetővel a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést köt;
 - 23. Vasúti pályahálózat működtetéséhez szükséges eszközök: a vasúti pálya és tartozékai, vasúti pályahálózat, vasúti üzemi létesítmények e törvény szerint meghatározott eszközein felül azon vasúti összeköttetést biztosító eszközök és kiszolgáló létesítmények is, amelyek vonatkozásában a vállalkozó vasúti társaságok számára a pályaműködtető diszkriminációmentes hozzáférést köteles biztosítani, illetve amelyek a diszkriminációmentesen nyújtandó pályavasúti szolgáltatásokhoz elengedhetetlenek.
 
 (6) A 68. §–68/G. § alkalmazásában:
@@ -283,7 +284,7 @@ kapcsolatos, külön jogszabályban meghatározott követelményeknek.
 
 (10) Amennyiben a vasúti igazgatási szerv olyan információról szerez tudomást, amely alapján alappal feltételezheti, hogy a más EGT-államban a 95/18/EK irányelv alapján kiadott működési engedélyt szerzett vállalkozó vasúti társaság nem teljesíti a működési engedély kiadásának valamely feltételét, a vasúti igazgatási szerv a működési engedélyt kiállító külföldi hatóságot haladéktalanul értesíti.
 
-8/A. § (1) A 8. § (1) bekezdés a) pontjában meghatározott üzleti jó hírnévvel nem rendelkezik az a kérelmező, amelynek a gazdasági társaságokról szóló törvény szerinti vezető tisztségviselője (a továbbiakban együtt: vezető) büntetett előéletű.
+8/A. § (1) A 8. § (1) bekezdés a) pontjában meghatározott üzleti jó hírnévvel nem rendelkezik az a kérelmező, amelynek a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti vezető tisztségviselője (a továbbiakban együtt: vezető) büntetett előéletű.
 
 (2) A vezető a működési engedély kiadása iránti kérelem benyújtásával egyidejűleg a vasúti igazgatási szerv részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy az e tényre vonatkozó adatokat a bűnügyi nyilvántartó szerv a vasúti igazgatási szerv részére – annak a működési engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vezető büntetlen előéletű-e.
 
@@ -1092,7 +1093,7 @@ biztosítható.
 
 61. § (1) A hozzáférésre jogosult a vasúti pályahálózat-kapacitásra, valamint az 54. § (1) és a (3)–(4) bekezdéseiben meghatározott szolgáltatásokra vonatkozó igényét a vasúti pályahálózat működtetőjének bejelenti.
 
-(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 212. § (1) bekezdés].
+(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 6:71. § (2) bekezdés].
 
 (3) A vasúti pályahálózat működtetője a Hálózati Üzletszabályzatban foglaltaknak megfelelően köteles a vasúti pályahálózat-kapacitásnak, valamint az 54. § (1) és a (3)–(4) bekezdéseiben meghatározott szolgáltatások igénybevételének – a Hálózati Üzletszabályzat rendelkezéseinek megfelelően számított hálózat-hozzáférési díj ellenében történő – biztosítására vonatkozóan ajánlatot tenni.
 
@@ -1132,7 +1133,7 @@ biztosítható.
 
 64. § (1) A hozzáférésre jogosult a vasúti pályahálózat-kapacitásra, valamint az 54. § (1) és a (3)–(4) bekezdéseiben meghatározott szolgáltatásokra vonatkozó igényét a VPSZ részére jelenti be.
 
-(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 212. § (1) bekezdés].
+(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 6:71. § (2) bekezdés].
 
 (3) A VPSZ a Hálózati Üzletszabályzatban foglaltaknak megfelelően meghatározza
 
@@ -1177,7 +1178,7 @@ biztosítható.
 - c) munkafeltételeit, hatásköreit, beszámolási kötelezettségeit olyan módon kell meghatározni, hogy a 62. § (2) bekezdése szerinti feladatok ellátásával kapcsolatos ügyekben a független döntéshozatal biztosított legyen, továbbá
 - d) munkaszerződésében vagy megbízási szerződésében foglalt jogait és kötelezettségeit, valamint a munkavégzésének feltételeit – független döntéshozatali eljárás keretében – úgy kell meghatározni, hogy a 62. § (2) bekezdése szerinti feladatok ellátásával összefüggő döntések meghozatala során a befolyásmentesség és az egyenlő bánásmód követelményének megfelelően járjon el.
 
-(5) A VPSZ vezető tisztségviselőjének, felügyelőbizottsága tagjának, vezető állású munkavállalójának, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalójának közeli hozzátartozója [Ptk. 685. § b) pont]
+(5) A VPSZ vezető tisztségviselőjének, felügyelőbizottsága tagjának, vezető állású munkavállalójának, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalójának közeli hozzátartozója [Ptk. 8:1. § (1) bekezdés 1. pont]
 
 - a) a vasúti igazgatási szervvel közszolgálati jogviszonyt nem létesíthet,
 - b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
@@ -1185,7 +1186,7 @@ biztosítható.
 
 (6) A VPSZ vezető tisztségviselője, felügyelőbizottságának tagja, vezető állású munkavállalója, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalója köteles haladéktalanul írásban bejelenteni, ha vele vagy közeli hozzátartozójával szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha jogviszonyának fennállása alatt ő vagy közeli hozzátartozója összeférhetetlen helyzetbe kerül. A vezető tisztségviselőt és a felügyelőbizottság tagját a tulajdonosi jogkör gyakorlója, a vezető állású munkavállalót, és a díjszabási vagy kapacitáselosztási feladatot ellátó munkavállalót pedig a munkáltatói jogkör gyakorlója írásban köteles felszólítani az összeférhetetlenség megszüntetésére. Ha az összeférhetetlenség a felszólítás kézbesítésétől számított 30 napon belül nem szűnik meg, akkor a vezető tisztségviselő, a felügyelőbizottság tagja, a vezető állású munkavállaló, vagy a díjszabási vagy kapacitáselosztási feladatot ellátó munkavállaló jogviszonya e törvény erejénél fogva megszűnik.
 
-(7) A VPSZ a nem független vasúti pályahálózat-működtető számára nyújtott szolgáltatások ellenértékeként az általa elosztott vasúti pályahálózat-kapacitás után – a 79. § (1) bekezdésének e), g) és h) pontjára is figyelemmel – kiszámlázott hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj [65. § (2) bekezdés b) pont] külön jogszabályban meghatározott hányadának megfelelő összegű megbízási díjra jogosult a vasúti pályahálózat működtetőjétől. A vasúti pályahálózat működtetője és a VPSZ közötti jogviszonyra a külön jogszabályban, illetve a Ptk. 198. §-ának (3) bekezdésében foglaltakat kell alkalmazni.
+(7) A VPSZ a nem független vasúti pályahálózat-működtető számára nyújtott szolgáltatások ellenértékeként az általa elosztott vasúti pályahálózat-kapacitás után – a 79. § (1) bekezdésének e), g) és h) pontjára is figyelemmel – kiszámlázott hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj [65. § (2) bekezdés b) pont] külön jogszabályban meghatározott hányadának megfelelő összegű megbízási díjra jogosult a vasúti pályahálózat működtetőjétől. A vasúti pályahálózat működtetője és a VPSZ közötti jogviszonyra a külön jogszabályban, illetve a Ptk. 6:2. § (3) bekezdésében foglaltakat kell alkalmazni.
 
 (8) A VPSZ vezető tisztségviselője, vezető állású munkavállalója, továbbá díjszabási vagy kapacitáselosztási feladatot ellátó munkavállalója feladatainak ellátása során korlátozás nélkül jogosult a VPSZ e fejezetben meghatározott feladataival összefüggő üzleti titok megismerésére. E személyek a tudomásukra jutott üzleti titkot kötelesek megőrizni.
 

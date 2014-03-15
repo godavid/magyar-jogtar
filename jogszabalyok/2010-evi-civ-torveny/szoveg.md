@@ -10,7 +10,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 1. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
 
-2. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
+2. Médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
 3. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
 
@@ -18,13 +18,13 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 5. Lineáris médiaszolgáltatás: a médiaszolgáltató által nyújtott, műsorszámok műsorrend alapján történő egyidejű megtekintését, illetve meghallgatását lehetővé tevő médiaszolgáltatás.
 
-6. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
+6. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
 
 7. Médiatartalom: valamennyi médiaszolgáltatás során, valamint sajtótermék által kínált tartalom.
 
 8. Médiatartalom-szolgáltató: a médiaszolgáltató, illetve bármely médiatartalom szolgáltatója.
 
-9. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
+9. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
 10. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve megtéveszti a közönséget. Burkolt reklámnak minősülhet a kereskedelmi közlemény céljait szolgáló közlemény abban az esetben is, ha nem ellenszolgáltatás fejében került közzétételre.
 
@@ -64,7 +64,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (2) A sajtószabadság kiterjed az államtól, valamint bármely szervezettől és érdekcsoporttól való függetlenségre is.
 
-(3) A sajtószabadság gyakorlása nem valósíthat meg bűncselekményt vagy bűncselekmény elkövetésére való felhívást, nem sértheti a közerkölcsöt, valamint nem járhat mások személyhez fűződő jogainak sérelmével.
+(3) A sajtószabadság gyakorlása nem valósíthat meg bűncselekményt vagy bűncselekmény elkövetésére való felhívást, nem sértheti a közerkölcsöt, valamint nem járhat mások személyiségi jogainak sérelmével.
 
 5. § (1) Törvény a médiaszolgáltatások megkezdésének vagy végzésének, illetve a sajtótermékek közzétételének feltételéül szabhatja a hatósági nyilvántartásba vételt. A nyilvántartásba vétel feltételei nem korlátozhatják a sajtó szabadságát.
 
@@ -74,7 +74,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (2) A bíróság – bűncselekmény elkövetésének felderítése érdekében – törvényben meghatározott, kivételesen indokolt esetben az információforrás felfedésére, valamint az információforrás azonosítására esetlegesen alkalmas dokumentum, irat, tárgy vagy adathordozó átadására kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt.
 
-7. § (1) A médiatartalom-szolgáltató munkavállalója, vagy a médiatartalom-szolgáltatóval munkavégzésre irányuló egyéb jogviszonyban álló személy jogosult a médiatartalom-szolgáltató tulajdonosától, valamint a médiatartalom-szolgáltatót támogató, illetve a médiatartalomban kereskedelmi közleményt elhelyező természetes vagy jogi személytől, illetve jogi személyiséggel nem rendelkező gazdasági társaságtól való szakmai függetlenségre és a médiatartalmak befolyásolására irányuló tulajdonosi vagy támogatói nyomásgyakorlással szembeni védelemre (szerkesztői és újságírói szabadság).
+7. § (1) A médiatartalom-szolgáltató munkavállalója, vagy a médiatartalom-szolgáltatóval munkavégzésre irányuló egyéb jogviszonyban álló személy jogosult a médiatartalom-szolgáltató tulajdonosától, valamint a médiatartalom-szolgáltatót támogató, illetve a médiatartalomban kereskedelmi közleményt elhelyező természetes vagy jogi személytől való szakmai függetlenségre és a médiatartalmak befolyásolására irányuló tulajdonosi vagy támogatói nyomásgyakorlással szembeni védelemre (szerkesztői és újságírói szabadság).
 
 (2) Nem alkalmazható a munkajogi jogszabályokban meghatározott, illetve a munkavégzésre irányuló egyéb jogviszonyból eredő joghátrány a médiatartalom-szolgáltató munkavállalójával, illetve vele munkavégzésre irányuló egyéb jogviszonyban álló személlyel szemben amiatt, mert megtagadta a szerkesztői és újságírói szabadságát csorbító utasítás végrehajtását.
 

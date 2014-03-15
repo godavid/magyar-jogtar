@@ -91,9 +91,9 @@ az ügyvédekről
 
 ### Anyagi felelősség
 
-10. § (1) Az ügyvéd a tevékenysége körében okozott kár megtérítéséért a Polgári Törvénykönyv (Ptk.) szerint felel.
+10. § (1) Az ügyvéd által ügyvédi tevékenysége körében okozott kár megtérítésére, valamint az okozott személyiségi jogsértés miatt járó sérelemdíj megfizetésére a Polgári Törvénykönyv szabályait kell alkalmazni.
 
-(2) Az ügyvéd az ügyvédi tevékenysége körében okozott károk megtérítésére köteles felelősségbiztosítási szerződést kötni, és azt ügyvédi tevékenységének tartama alatt fenntartani.
+(2) Az ügyvéd az ügyvédi tevékenysége körében okozott kár megtérítésére, sérelemdíj megfizetésére köteles felelősségbiztosítási szerződést kötni és azt ügyvédi tevékenysége alatt fenntartani.
 
 (3) Az ügyvéd felróhatóság hiányában is felelősséggel tartozik a visszaszolgáltatási vagy elszámolási kötelezettséggel átvett pénzért és értéktárgyért. Mentesül a felelősség alól, ha bizonyítja, hogy a hiányt elháríthatatlan külső ok idézte elő.
 
@@ -195,7 +195,7 @@ az ügyvédekről
   - cc) akinek a szabadságvesztés büntetés végrehajtását próbaidőre felfüggesztették, a próbaidő leteltétől számított három évig,
   - cd) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig.
 - d) akit az ügyvédi kamarából kizártak, a kizáró határozat jogerőre emelkedésétől számított 10 évig,
-- e) aki cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll, vagy gondnokság alá helyezés nélkül is cselekvőképtelen (Ptk. 17. §),
+- e) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll,
 - f) aki az életmódja vagy magatartása miatt az ügyvédi hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 - g) akinek a kamarával vagy a Magyar Ügyvédek Biztosító és Segélyező Egyesületével szemben lejárt tagdíjtartozása van.
 
@@ -226,7 +226,7 @@ az ügyvédekről
 
 15. § (1) A területi kamara elnöksége a kérelemről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezését követő naptól számított negyven napon belül dönt.
 
-(2) A kamarai tagságnak a 20. § (2) bekezdés f) pontja szerinti hivatalból történő megszüntetése, valamint az ügyvédi iroda 76. § (2) bekezdés b) pont szerinti névjegyzékből való törléssel történő megszűnése esetén a megszüntetésre irányuló döntés meghozatalának feltétele az állami adóhatóság és a vámhatóság – erre a célra rendszeresített nyomtatványon kiadott – nyilatkozata arról, hogy az iroda adóbevallási kötelezettségeinek eleget tett, adótartozása, jogerős határozatban megállapított adófizetési kötelezettsége nincs, az irodánál adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság illetőleg a vámhatóság nem kezdeményez. Az adóhatósági nyilatkozat beszerzése érdekében a kamarai hatósági eljárás során a kamara megkeresi az adóhatóságot, a nyilatkozat beszerzéséig eltelt idő az döntés meghozatalára nyitva álló határidőbe nem tartozik bele.
+(2)
 
 (3)
 
@@ -281,13 +281,15 @@ az ügyvédekről
 - a) a 13. § (3) bekezdésében felsorolt feltételeknek nem felel meg,
 - b) a kamarai tagdíjfizetési kötelezettségét felszólítás ellenére nem teljesítette,
 - c) a 6. §-ban foglalt összeférhetetlenséget felszólítás ellenére nem szüntette meg,
-- d) cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alá került, vagy gondnokság alá helyezés nélkül is cselekvőképtelen (Ptk. 17. §),
+- d) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alá került,
 - e) az esküt határidőben nem tette le,
 - f) tevékenysége szüneteltetésének időtartama lejárt anélkül, hogy a tevékenysége folytatásának szándékát a kamarának bejelentette volna.
 
 (3) A kamara a (2) bekezdés b) és c) pontja esetén írásban felszólítja az ügyvédet, hogy fizesse be a tagdíjat, illetve a 6. §-ban szabályozott összeférhetetlenséget 30 napon belül szüntesse meg. A (2) bekezdés c) pontja esetén a kamara összeférhetetlenségi bizottságának állásfoglalását be kell szerezni.
 
 (4) A kamarai tagság megszüntetése iránti eljárásra a 15. §-t kell alkalmazni. A megszüntetésről szóló határozat – fellebbezésre tekintet nélkül – előzetesen végrehajtható.
+
+(4a) A kamarai tagságnak a (2) bekezdés f) pontja szerinti hivatalból történő megszüntetése esetén a megszüntetésre irányuló döntés meghozatalának feltétele az állami adóhatóság, a vámhatóság, az ügyvéd irodájának fekvése szerint illetékes önkormányzati adóhatóság, továbbá a nyugdíjbiztosítási igazgatási szerv – erre a célra rendszeresített nyomtatványon kiadott – nyilatkozata arról, hogy az ügyvéd adóbevallási és nyugdíjbiztosítási adatszolgáltatási kötelezettségeinek eleget tett, adótartozása, jogerős határozatban megállapított adófizetési kötelezettsége és más, adók módjára behajtandó köztartozása nincs, az ügyvédnél adóhatósági, vámhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság illetőleg a vámhatóság nem kezdeményez. Az adóhatósági nyilatkozat beszerzése érdekében a kamarai hatósági eljárás során a kamara megkeresi az adóhatóságot, a nyilatkozat beszerzéséig eltelt idő a döntés meghozatalára nyitva álló határidőbe nem tartozik bele.
 
 (5) Ha az ügyvéd kamarai tagsága a (2) bekezdés a) és b) pontjában szabályozott okból szűnt meg, az újbóli kamarai felvételre irányuló kérelem a kamarai tagság megszűnéséről szóló határozat jogerőre emelkedésétől számított 1 év elteltével nyújtható be.
 
@@ -302,7 +304,7 @@ az ügyvédekről
 
 21. § (1) Kamarai tagságának megszűnésekor a kamara az ügyvédet törli a nyilvántartásából, és az igazolványát visszavonja.
 
-(2) Az ügyvéd kamarai tagságának megszűnését az ügyvéd nevének és irodája címének közlésével a megszűnést követő 15 napon belül egy országos napilapban a kamara közzéteszi, kivéve, ha a kamarai tagság elhalálozás folytán szűnt meg.
+(2) Az ügyvéd kamarai tagságának megszűnését az ügyvéd nevének és irodája címének közlésével a megszűnést követő 15 napon belül a kamara honlapján közzéteszi, kivéve, ha a kamarai tagság elhalálozás folytán szűnt meg.
 
 ## HARMADIK RÉSZ — AZ ÜGYVÉDI MŰKÖDÉS
 
@@ -361,7 +363,7 @@ az ügyvédekről
 
 (2) A megbízó és az ügyvéd által aláírt meghatalmazás teljes bizonyító erejű magánokirat.
 
-(3) Ha a megbízó írni, olvasni nem tud, vagy nem képes, a meghatalmazást közokiratba vagy olyan teljes bizonyító erejű magánokiratba kell foglalni, amelyen két tanú az aláírásával igazolja, hogy a megbízó a megbízás létrejöttét előttük elismerte.
+(3) Ha a megbízó írni, olvasni nem tud vagy nem képes, a meghatalmazást a Polgári Törvénykönyvnek az írásbeli alakhoz kötött jognyilatkozatra vonatkozó szabályai szerint kell megadni.
 
 (4) A meghatalmazás feljogosítja az ügyvédet minden olyan cselekményre, amely a rábízott ügy szabályszerű ellátásával jár, így okirat, pénz és más vagyontárgy átvételére is.
 
@@ -392,6 +394,8 @@ az ügyvédekről
 - b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazolványa, és tartózkodásra jogosító okmánya (a továbbiakban együtt: igazolvány) nyilvántartási adatokkal való egyezőségének és érvényességének
 
 megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvántartást, a járművezetőiengedély-nyilvántartást, az útiokmány-nyilvántartást vezető vagy a központi idegenrendészeti nyilvántartás (a továbbiakban ezen alcím alatt együttesen: nyilvántartás) adatait feldolgozó hatóságot.
+
+(1a) Az ügyvéd gazdasági társaság létesítő okiratának, valamint a cégnyilvántartásba bejegyzett cég képviselője aláírásmintájának ellenjegyzése során, ha a felet személyesen nem ismeri, az (1) bekezdés szerinti személyazonosság-ellenőrzést köteles elvégezni.
 
 (2) Az ellenőrzés elektronikus úton történő adatigényléssel valósul meg; az adatigénylés iránti megkeresést az ügyvéd elektronikus aláírásával látja el.
 
@@ -846,6 +850,15 @@ fogadhat el.
 
 (7) Az alapító okirat módosításáról rendelkező taggyűlési határozatot, továbbá az iroda jogutódlással történő megszűnése esetén az új iroda (irodák) alapító okiratát (okiratait) a taggyűlés döntését követő 30 napon belül kell benyújtani.
 
+(7a) A névjegyzékbe be kell jegyezni
+
+- a) az ügyvédi iroda egyesülésére, szétválására, a jogutód és a jogelőd szervezetekre vonatkozó adatokat,
+- b) az ügyvédi iroda jogutód nélküli megszüntetésére irányuló eljárások kezdő és befejező időpontját,
+- c) csődeljárás esetén az eljáró bíróság nevét, a bíróság által kirendelt vagyonfelügyelő nevét, hivatali levelezési címét,
+- d) felszámolási eljárás esetén a bíróság által kirendelt felszámoló, továbbá a felszámoló által kijelölt felszámolóbiztos nevét, hivatali levelezési címét, a területi kamara által kijelölt irodagondnok nevét, hivatali levelezési címét.
+
+(8) Az ügyvédi iroda köteles számviteli beszámolóját a közzététele céljából megküldeni a területi kamara részére.
+
 ### Felelősség az iroda kötelezettségéért
 
 69. § (1) Az iroda tagjának felelőssége az irodával szemben az alapító okiratban meghatározott vagyon szolgáltatására és az esetleg megállapított egyéb vagyoni hozzájárulásra terjed ki. Az iroda kötelezettségéért a tag – a (2) bekezdésben foglalt kivétellel – nem felel.
@@ -905,24 +918,49 @@ fogadhat el.
 
 76. § (1) Az iroda az ügyvédi irodák névjegyzékéből való törléssel szűnik meg.
 
-(2) A kamara az ügyvédi irodák névjegyzékéből törli az irodát, ha az iroda
+(2) A kamara az ügyvédi irodák névjegyzékéből törli az irodát, ha
 
-- a) a 68. § (2) bekezdésében írt feltételeknek nem felel meg,
-- b) jogutód nélkül megszűnt,
-- c) más irodával egyesült (összeolvadt, beolvadt) vagy különvált,
-- d) valamennyi tagjának kamarai tagsága megszűnt.
+- a) az iroda a 68. § (2) bekezdésében írt feltételeknek nem felel meg, és a 68. § (2) bekezdés a) és b) pontja esetén a kamara (3) bekezdés szerinti felhívásának nem tesz eleget,
+- b) az iroda taggyűlése dönt a jogutód nélküli megszüntetéséről,
+- c) a bíróság az irodát felszámolási eljárásban jogutód nélkül megszünteti,
+- d) az iroda más irodával egyesült (összeolvadt, beolvadt) vagy szétvált (kivált, különvált),
+- e) az iroda valamennyi tagjának kamarai tagsága megszűnt.
 
-(3) A kamara a (2) bekezdés a) pontja esetén felszólítja az ügyvédi irodát, hogy a 68. § (2) bekezdésében írt feltételeknek 30 napon belül tegyen eleget.
+(3) A kamara a (2) bekezdés a) pontja esetén felszólítja az ügyvédi irodát, hogy a 68. § (2) bekezdés a), illetve b) pontjában írt feltételeknek 30 napon belül tegyen eleget.
 
 (4) A törlési eljárásra a 15. §-t kell alkalmazni.
 
-(5) Az irodát a (2) bekezdés b) és c) pontja szerinti esetben a taggyűlési határozatban megjelölt nappal, a (2) bekezdés d) pontja szerinti esetben az utolsó tag kamarai tagsága megszűnésének napjával kell a névjegyzékből törölni.
+(5) Az irodát
+
+- a) a (2) bekezdés b) és d) pontja szerinti esetben a taggyűlési határozatban megjelölt nappal,
+- b) felszámolási eljárás esetén az iroda jogutód nélküli megszüntetését elrendelő végzés Cégközlönyben való közzététele napjával,
+- c) a (2) bekezdés e) pontja szerinti esetben az utolsó tag kamarai tagsága megszűnésének napjával
+
+kell a névjegyzékből törölni.
 
 (6) Az iroda jogutód nélküli megszűnése esetén a tartozások kiegyenlítése után fennmaradó vagyont – az alapító okirat eltérő rendelkezése vagy megegyezés hiányában – a tagok között vagyoni hozzájárulásuk arányában kell felosztani.
 
+(6a) A jogutód nélküli megszűnés esetén – ha arra nem a felszámolási eljárásban kerül sor – a végelszámolási eljárás alatt álló szervezetek könyvvezetési és beszámoló-készítési kötelezettségére vonatkozó szabályokat kell alkalmazni.
+
 (7) A jogutód nélkül megszűnt iroda tagja az iroda tartozásaiért az iroda vagyonából rá eső rész erejéig felelős.
 
-### Az iroda jogutódlással történő megszűnése(átalakulása)
+(7a) Az iroda (2) bekezdés b) és e) pontja szerinti megszűnése esetén a névjegyzékből való törlésre irányuló kamarai határozat meghozatalának előzetes feltétele az állami adóhatóság, és az iroda székhelye szerint illetékes önkormányzati adóhatóság, a vámhatóság, továbbá a nyugdíjbiztosítási igazgatási szerv – erre a célra rendszeresített nyomtatványon kiadott – nyilatkozata arról, hogy az iroda adóbevallási és a nyugdíjbiztosítási adatszolgáltatási kötelezettségeinek eleget tett, adótartozása, jogerős határozatban megállapított adófizetési kötelezettsége és más adók módjára behajtandó közteherfizetési kötelezettsége nincs, az irodánál adóhatósági, vámhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság illetőleg a vámhatóság nem kezdeményez. Az adóhatósági nyilatkozat beszerzése érdekében a kamarai hatósági eljárás során a kamara megkeresi az adóhatóságot, a nyilatkozat beszerzéséig eltelt idő a döntés meghozatalára nyitva álló határidőbe nem tartozik bele.
+
+(7b) A csődeljárás és a felszámolási eljárás alatt az ügyvédi iroda a nevét a „cs.a.”, illetve az „f.a.” toldattal használhatja.
+
+(7c) Ha a nyitó mérleg alapján az állapítható meg, hogy az iroda vagyona a tartozások kifizetéséhez nem elegendő, és a tagok a hiányzó összeget harminc napon belül nem bocsátják az iroda rendelkezésére vagyoni hozzájárulásként, az iroda megszűnésével összefüggő feladatokkal megbízott személy haladéktalanul köteles felszámolási eljárás lefolytatására irányuló kérelmet benyújtani a bírósághoz. A felszámolás iránti kérelem előterjesztéséhez a taggyűlés hozzájárulására nincs szükség, de a felszámolás kezdeményezéséről egyidejűleg tájékoztatnia kell.
+
+(7d) A csődeljárás és a felszámolási eljárás szempontjából nem tartozik az ügyvédi iroda vagyonába az ügyfelek által vagy az ügyfelek javára az irodánál letétbe helyezett, vagy az iroda által az ügyféltől megőrzésre átvett pénz, értékpapír, egyéb vagyontárgy.
+
+(7e) Ha a bíróság az ügyvédi iroda felszámolását rendeli el, az erről szóló jogerős végzést megküldi annak a területi kamarának is, amelynek területén az ügyvédi iroda működik. A kamara a végzés kézhezvételét követő három munkanapon belül irodagondnokot jelöl ki és erről – a kijelölést tartalmazó kamarai határozat – megküldésével a bíróságot és a felszámolót három munkanapon belül értesíti.
+
+(7f) A felszámolási eljárás elrendelését követően az iroda vezetője a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 31. § szerinti kötelezettségeit azzal az eltéréssel teljesíti, hogy a (7d) bekezdés szerinti vagyont, az azzal összefüggő okiratokat, bizonylatokat, valamint az ügyvédi titkot tartalmazó iratokat az irodagondnoknak köteles átadni.
+
+(7g) Az iroda vezetője a felszámolóbiztossal és az irodagondnokkal együttműködni köteles annak érdekében, hogy a még folyamatban lévő megbízási jogviszonyokból eredő követelései – a megbízási jogviszonyok megszüntetése mellett – beszedésre kerülhessenek.
+
+(7h) Az ügyvédi iroda felszámolása esetén a Cstv. 31. § b) pontja szerinti iratjegyzékben nem kell feltüntetni a (7f) pontban meghatározottak szerint, az irodagondok részére átadott iratokat. Ezekből az irodagondnok külön iratjegyzéket köteles felvenni, és azt a területi kamara elnökének átadni.
+
+### Az iroda jogutódlással történő megszűnése
 
 77. § (1) Az iroda jogutódlással történő megszűnéséről különválás, kiválás (a továbbiakban: szétválás) esetén az iroda taggyűlése dönt, összeolvadás, beolvadás (a továbbiakban: egyesülés) esetén az érintett irodák taggyűlései döntenek.
 
@@ -934,7 +972,7 @@ fogadhat el.
 
 (5) A megbízásnak a jogutód irodára való átszállásáról a megbízott iroda a megbízót a 24. § (7) bekezdése szerint köteles értesíteni.
 
-(6) Az átalakuló, az átalakulással létrejövő iroda vagyonmérleg-készítési, vagyonértékelési, vagyonmegállapítási kötelezettségére, az átalakulás eljárási szabályaira a gazdasági társaságokról szóló törvény átalakulásra vonatkozó előírásait kell megfelelően alkalmazni.
+(6) Az átalakuló, az átalakulással létrejövő iroda vagyonmérleg-készítési, vagyonértékelési, vagyonmegállapítási kötelezettségére, az átalakulás eljárási szabályaira a Polgári Törvénykönyvnek a gazdasági társaságok átalakulására, egyesülésére és szétválására vonatkozó előírásait kell megfelelően alkalmazni.
 
 (7) A szétváló iroda jogutódai az irodának a szétválás előtt keletkezett kötelezettségeiért a vagyonmegosztás arányában felelnek. Ha valamely vagyontárgyról a szétválás során nem rendelkeztek, a vagyontárgy vagy annak ellenértéke valamennyi jogutód irodát a vagyonmegosztás arányában illeti meg. Ha a kötelezettség csak a szétválást követően válik ismertté, a jogutód irodák felelőssége egyetemleges. Egyetemleges a jogutód irodák felelőssége akkor is, ha a szétválás során rendelkeztek ugyan a kötelezettségről, de a kötelezettséget a kötelezett iroda nem teljesítette. E rendelkezéseket a megbízásból fakadó kötelezettségeket illetően csak az esetleges kártérítési felelősségre (69. §) lehet alkalmazni.
 
@@ -981,6 +1019,33 @@ fogadhat el.
 (2) A vagyoni tagság a vagyoni tag halálával megszűnik, az iroda köteles a vagyoni tag örököseivel elszámolni.
 
 83. § Az irodára egyebekben az ügyvédekre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+### Az irodagondnok, az irodagondnok eljárása
+
+83/A. § (1) A területi kamara az ügyvédeknél, illetve ügyvédi irodáknál a (2) bekezdésben meghatározott esetekben ellátandó ügyvédi szakértelmet igénylő feladatok teljesítése érdekében irodagondnokokat jelöl ki az irodagondnokok névjegyzékéből.
+
+(2) Irodagondnokot kell kijelölni
+
+- a) az elhunyt ügyvéd irodája részére,
+- b) az ügyvéd részére, ha
+  - ba) tevékenysége folytatásában akadályoztatva van,
+  - bb) ügyvédi kamarai tagsága megszűnt és folyamatban lévő ügyeinek ellátásáról nem gondoskodott,
+- c) a jogutód nélkül megszűnő ügyvédi iroda részére, ha
+  - ca) nem nyújtja be közzétételre a leltárral alátámasztott, taggyűlés által jóváhagyott nyitó és záró mérlegét és a vagyonfelosztási javaslatot,
+  - cb) nem terjeszti elő a záró elszámolását az ügyfelekkel történő elszámolásról és a letétek kifizetéséről,
+  - cc) nem igazolja, hogy a folyamatban lévő ügyei ellátásáról gondoskodott,
+  - cd) nem igazolja, hogy gondoskodott az ügyfeleket megillető iratok kiadásáról, a nem selejtezhető iratok megőrzéséről, illetve levéltárban történő elhelyezéséről,
+- d) a felszámolási eljárás alatt álló ügyvédi iroda részére.
+
+(3) Az irodagondnok ellátja – a (2) bekezdés c) és d) pontja szerinti esetekben az ügyvéddel, irodavezetővel együttműködve – az ügyvéd, ügyvédi iroda ügyeiben a halaszthatatlan jogi cselekményeket, rendelkezési jogot nyer a letéti számla és az ügyvéd által az ügyfelektől átvett vagyontárgyak, valamint – a csőd- és felszámolási eljárások kivételével – az ügyvédi iroda fizetési számlái felett, megkísérli a kikötött, de még ki nem fizetett ügyvédi díjak beszedését, és jogosult az ügyvéd, ügyvédi iroda irataiba betekinteni.
+
+(4) A területi kamara kérelemre felveszi az irodagondnoki névjegyzékbe azt az öt éves ügyvédi gyakorlattal rendelkező ügyvédet, aki a kamara tagja. Nem vehető fel az irodagondnoki névjegyzékbe az az ügyvéd,
+
+- a) aki ellen fegyelmi eljárás folyik vagy fegyelmi büntetés hatálya alatt áll,
+- b) akinek folyamatban van a kamarai tagságának törlésére irányuló eljárás, vagy
+- c) aki a tevékenységét szünetelteti.
+
+(5) Az irodagondnok a tevékenységéért a területi kamarától díjazásra jogosult.
 
 ### VIII. Fejezet — AZ ALKALMAZOTT ÜGYVÉD
 
@@ -1093,7 +1158,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - d) más EGT-állambeli és – ha van – belföldi címét,
 - e) egyetemi diplomájának, továbbá – ha rendelkezik ilyennel – ügyvédi tevékenységre jogosító vizsgáját tanúsító oklevélének számát és keltét, tudományos fokozatát, szakjogászi végzettségét,
 - f) irodájának, alkalmazott esetében munkáltatójának, és – ha van – az együttműködő ügyvéd irodájának címét, telefon- és telefaxszámát, e-mail címét, ha együttműködési szerződés megkötésére nem került sor, az elérhetőségi adatait,
-- g) névjegyzékbe vételének időpontját, a határozat számát,
+- g) névjegyzékbe vételének időpontját, a határozat számát, az ügyvéd kamarai azonosító számát,
 - h) tevékenysége megkezdésének, felfüggesztésének, szünetelésének és megszűnésének időpontját,
 - i) tevékenysége jellegét (állandó jellegű, eseti szolgáltatást nyújtó vagy alkalmazott),
 - j) által megjelölt idegen nyelvet, amelyen az ügyvédi tevékenység folytatását vállalja,
@@ -1572,7 +1637,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - d) egyetemi diplomájának, jogi szakvizsgájának számát és keltét, tudományos fokozatát, szakjogászi végzettségét,
 - e) irodájának címét, telefon- és telefax-számát,
 - f) alkalmazott ügyvéd, ügyvédjelölt esetén a munkáltató nevét és címét,
-- g) az eskütétel és a nyilvántartásba bejegyzés idejét, a határozat számát,
+- g) az eskütétel és a nyilvántartásba bejegyzés idejét, a határozat számát, az ügyvéd anyakönyvi számát,
 - h) a tevékenység megkezdésének, felfüggesztésének, szünetelésének és megszűnésének időpontját, a tevékenység 7. § szerinti korlátozását, továbbá a vagyoni tagságot,
 - i) a fegyelmi büntetést, a mentesítés időpontját,
 - j) nyelvtudását,
@@ -1581,22 +1646,46 @@ szerint illetékes kamaránál kell előterjeszteni.
 - m) a kamarai tagnak az ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a hitelesítés-szolgáltató megnevezését,
 - n) a kamarai tag jogosultságát az elektronikus cégeljárásban való részvételre,
 - o) a kamarai tagnak az ügyvédjelölt foglalkoztatására vonatkozó jogosultságát.
+- p) az ügyvéd elektronikus elérhetőségét (elektronikus levélcím, honlap),
+- q) az ügyvéd által megjelölt főbb jogterületeket, amelyeken tevékenységét kifejti.
 
 (1a) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés a)–d), j), k) és m) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) Külföldi jogi tanácsadó esetén az (1) bekezdés d) pontjában foglaltakat nem kell nyilvántartani, de a külföldi jogi tanácsadóval együttműködő magyar ügyvéd (iroda) adatait, a külföldi iroda nevét, címét és a külföldi bejegyzésre vonatkozó adatait a külföldi jogi tanácsadó nyilvántartásában szerepeltetni kell.
 
-(3) Ügyvédi iroda esetén az iroda nevét, címét, telefon- és telefax-számát, valamint tagjainak nevét, lakcímét kell nyilvántartani.
+(3) A kamara az ügyvédi iroda következő adatait tartja nyilván:
 
-(3a) A (3) bekezdés szerinti nyilvántartás – a tag természetes személyazonosító, valamint lakcím-azonosító adata kivételével – közhiteles hatósági nyilvántartásnak minősül.
+- a) neve,
+- b) székhelye,
+- c) telefon és telefax száma,
+- d) elektronikus elérhetősége (elektronikus levélcím, honlap),
+- e) irodavezető neve,
+- f) tagjainak neve,
+- g) tagjainak lakcíme.
 
-(4) Az (1)–(3) bekezdésben felsorolt adatok közül az a), e), h) és n) pontban felsorolt adatok nyilvánosak, közzétehetők, vagy bárki számára kiadhatók.
+(3a) A (3) bekezdés szerinti nyilvántartás – a (3) bekezdés c)–g) pontja kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(5) A kamara az általa folytatott eljárások során kezelhet minden olyan adatot, amelynek kezeléséhez az eljárásban résztvevő hozzájárult, továbbá amelyet az eljárás eredményessége érdekében jogszerűen szerzett.
+(4) Az ügyvédet, alkalmazott ügyvédet, külföldi jogi tanácsadót és ügyvédjelöltet nyilvántartó kamara neve, valamint az (1), (2) és (3) bekezdésben felsorolt adatok közül az (1) bekezdés a), e), h), n), p) és q) pontjában, a (2) bekezdésben, valamint a (3) bekezdésben felsorolt adatok – a lakcím kivételével – nyilvánosak, közzétehetők vagy bárki számára kiadhatók.
 
-(6)
+(5) A kamara az érintett kérelmére a (4) bekezdésben szereplő adatokon felül az érintettre vonatkozó, az (1) és (3) bekezdésben szereplő egyéb adatot is kereshető módon közzéteszi (ügyvédkereső).
 
-(7) A Magyar Ügyvédi Kamara az (1)–(3) bekezdésben felsorolt adatokról központi nyilvántartást vezet.
+(6) A kamara az ügyvédkeresőben közzétett adatokat az érintett eltérő rendelkezése hiányában jogosult az ügyvédek és az európai közösségi jogászok saját EGT-államuk szerinti, legmagasabb szintű képviseletét ellátó szakmai szervezetekből álló, őket az Európai Unió szervei és intézményei előtt képviselő érdekképviseleti szervezetnek is továbbítani az Európai Gazdasági Térségen belüli egységes ügyvédkereső működtetése céljából.
+
+(7) A kamara az általa folytatott eljárások során kezelhet minden olyan adatot, amelynek kezeléséhez az eljárásban résztvevő hozzájárult, továbbá amelyet az eljárás eredményessége érdekében jogszerűen szerzett.
+
+(8) A kamara a (4) bekezdésben szereplő adatokon túl megkeresésre felvilágosítást nyújt
+
+- a) arról, hogy a megkeresésében megjelölt személy, iroda az általa vezetett névjegyzékben szerepel vagy sem,
+- b) arról, hogy a megkeresésben megjelölt személy az elektronikus cégeljárásban való részvételre jogosult ügyvédekről, illetve az ügyvédjelölt foglalkoztatására jogosult ügyvédekről vezetett nyilvántartásban szerepel vagy sem,
+- c) a kijelölt irodagondnok nevéről, hivatali levelezési címéről,
+- d) az ügyvédi iroda jogutódlással történő megszűnése esetén az egyesüléssel vagy szétválással létrejövő, valamint megszűnt ügyvédi iroda nevéről székhelyéről, az átalakulás formájáról,
+- e) arról, ha az ügyvédi irodával szemben csőd- vagy felszámolási eljárás van folyamatban,
+- f) a bíróság által kirendelt vagyonfelügyelő vagy felszámoló nevéről, hivatali levelezési címéről,
+- g) az ügyvédi iroda névjegyzékből való törlésének időpontjáról.
+
+(9) A területi kamara az ügyvédi irodának a (3) bekezdés a)–f) pontjában, valamint a (8) bekezdés d)–g) pontjában foglalt adatait, valamint a közzététel céljából részére megküldött számviteli beszámolóját a honlapján közzéteszi.
+
+(10) A Magyar Ügyvédi Kamara az (1), (2) és (3) bekezdésben felsorolt adatokról központi nyilvántartást vezet.
 
 117. § A kamara, a Magyar Ügyvédi Kamara szerveinek ülésén – tagjain kívül – a kamarai szerv elnöke által meghívottak és azok vehetnek részt, akiket az alapszabály felsorol.
 

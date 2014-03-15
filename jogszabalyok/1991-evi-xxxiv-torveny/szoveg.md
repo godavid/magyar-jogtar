@@ -38,7 +38,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (7b)
 
-(8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
+(8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyiségi jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
 
 2. § (1) Liberalizált tevékenység az 1. § (3) bekezdés a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) pontjában meghatározott tevékenység.
 
@@ -70,7 +70,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 (6) A hírközlő eszköz és rendszer által történő szerencsejáték szervezési tevékenység engedélyezéséhez a (3)–(5) bekezdésekben foglalt feltételek teljesítésén túl a szervezőnek igazolnia kell, hogy
 
 - a) az adott tevékenység kockázati tényezőiről a játékosokat hírközlő eszközön és rendszeren keresztül megfelelően tájékoztatja,
-- b) a játékosok személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja,
+- b) a játékosok személyes adatai, valamint egyéb, személyiségi jogai védelmét biztosítja,
 - c) a véletlen elemeket az elektronikus játékrendszerek auditálása alapján biztosítja.
 
 (7) Nem folytatható belföldön, külföldön vagy nemzetközi együttműködés keretében szervezett szerencsejátékban történő részvételre Magyarországon értékesítési, szervező, közvetítő tevékenység, ha a szerencsejáték szervezésére az állami adóhatóság nem adott engedélyt.
@@ -156,7 +156,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (3) Az állami adóhatóság vezetője és helyettesei, valamint az állami adóhatóság szerencsejáték-felügyeleti feladatkörében eljáró alkalmazottai szerencsejáték-szervezőnél munkavégzésre irányuló jogviszonyt nem létesíthetnek, vezető tisztségviselők, valamint felügyelőbizottság tagjai nem lehetnek.
 
-(4) A (3) bekezdésben felsoroltak nem vehetnek részt olyan ügy elbírálásában, amelyben ők vagy közeli hozzátartozójuk (Ptk. 685. § b) pont) érdekelve van.
+(4) A (3) bekezdésben felsoroltak nem vehetnek részt olyan ügy elbírálásában, amelyben ők vagy a Polgári Törvénykönyv szerinti közeli hozzátartozójuk érdekelve van.
 
 (5) A (3) bekezdésben felsoroltak munkaviszonyának az állami adóhatóságnál történő megszűnését követő 2 évig szerencsejáték szervező tevékenységet nem folytathatnak.
 

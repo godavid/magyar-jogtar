@@ -209,7 +209,7 @@ rendelkező személy.
 
 (7) A felügyelő testület működésének részletes szabályairól, tagjai díjazásáról az Alapszabály rendelkezik.
 
-19. § (1) Az elnökség tagjai és azok Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozói nem lehetnek a felügyelő testület tagjai.
+19. § (1) Az elnökség tagjai és azok Polgári Törvénykönyv szerinti közeli hozzátartozói és bejegyzett élettársai nem lehetnek a felügyelő testület tagjai.
 
 (2) Az összeférhetetlenségi ok fennállásáról, illetve kinevezése esetén a megszüntetés módjáról az érintett a kinevezése előtt köteles nyilatkozni. Amennyiben az összeférhetetlenség a kinevezést követően merül fel, az érintett az összeférhetetlenségi ok felmerülésétől számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni.
 
@@ -291,7 +291,7 @@ rendelkező személy.
 
 (7) Az MMA a vagyona terhére – közfeladatai ellátása céljából – zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyen gazdasági társaságban – ha törvény más feltételt nem határoz meg – legalább a nemzeti vagyonról szóló törvény szerinti többségi befolyást szerezhet.
 
-(8) A (7) bekezdés szerinti gazdasági társaság további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
+(8) A (7) bekezdés szerinti gazdasági társaság további, a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet (a továbbiakban: gazdálkodó szervezet) nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
 
 (9) Az MMA az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolítói, végrehajtói feladat ellátása, továbbá közbeszerzés lefolytatása céljából gazdálkodó szervezet alapítását nem kezdeményezheti, abban alapítói (tulajdonosi) jogokat nem gyakorolhat, illetve tagsági (részvényesi) jogviszonyt nem létesíthet, részesedést nem szerezhet.
 

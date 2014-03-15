@@ -234,7 +234,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A felek jogai és kötelezettségei
 
-24. § (1) A védjegyjogosult a használati szerződés egész tartama alatt szavatol azért, hogy harmadik személynek nincs a védjegyre vonatkozó olyan joga, amely a használatot akadályozza vagy korlátozza. Erre a szavatosságra az eladónak a tulajdonjog átruházásáért való szavatosságára irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy a használó elállás helyett a szerződést azonnali hatállyal felmondhatja.
+24. § (1) A védjegyjogosult a használati szerződés egész tartama alatt köteles helytállni azért, hogy harmadik személynek nincs a védjegyre vonatkozó olyan joga, amely a használatot akadályozza vagy korlátozza. Erre a helytállási kötelezettségre a Polgári Törvénykönyvnek a jogszavatosságra irányadó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy a használó elállás helyett a szerződést azonnali hatállyal felmondhatja.
 
 (2) A védjegyjogosult köteles a használót a védjegyre vonatkozó jogokról és fontos körülményekről tájékoztatni, a védjeggyel kapcsolatos gazdasági, műszaki és szervezési ismereteket és tapasztalatokat azonban csak akkor köteles átadni, ha ebben kifejezetten megállapodtak.
 
@@ -622,7 +622,8 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - i) a lajstromozásról szóló határozat keltét,
 - j) a védjegy megújítását,
 - k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását, és
-- l) a használati engedélyeket.
+- l) a használati engedélyeket,
+- m) azt, ha a védjegyoltalmi igény vagy a védjegyoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
 (3) A védjegylajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
@@ -637,6 +638,8 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 (2) A védjegyoltalommal összefüggő jogok és tények tudomásulvétele, illetve bejegyzése ügyében – a védjegyeljárásokban bekövetkezett tények kivételével – a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján határoz. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy megfelelő bizonyító erejű magánokiratot. Ha ugyanabban az ügyben olyan kérelmeket nyújtanak be, amelyek teljesítése kizárná egymást, a kérelmeket a beérkezésük sorrendjében kell elbírálni.
 
 (3) Nem teljesíthető a kérelem olyan okirat alapján, amely alaki hiány miatt érvénytelen, vagy amelynél a jogszabályban előírt hatósági jóváhagyás hiányzik, továbbá, ha az okirat tartalmából kitűnően az abban foglalt jognyilatkozat érvénytelen.
+
+(3a) Nem teljesíthető a jogutódlás tudomásulvétele iránti kérelem abban az esetben, ha a védjegyoltalmi igényt vagy a védjegyoltalomból eredő jogokat olyan bizalmi vagyonkezelési szerződés alapján ruházták át, amelyet nem bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel kötöttek, és a kérelemhez nem mellékelték a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítványt is.
 
 (4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.
 

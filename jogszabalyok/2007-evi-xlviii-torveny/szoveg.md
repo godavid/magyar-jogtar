@@ -48,4 +48,4 @@ megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fiz
 
 (3) E törvény a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
 
-7. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az Európai Unió területére belépő, vagy azt elhagyó készpénz ellenőrzésének végrehajtását, annak részletes szabályait, valamint a kiszabott bírság bevételezésének rendjét.
+7. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az Európai Unió területére belépő vagy azt elhagyó készpénz ellenőrzésének végrehajtását, annak részletes szabályait, az ideiglenes biztosítási intézkedésként visszatartott készpénz kezelésére, letétbe helyezésére és őrzésére vonatkozó részletes szabályokat, a bírság kiszabására vonatkozó részletes eljárási szabályokat, valamint a kiszabott bírság bevételezésének rendjét.

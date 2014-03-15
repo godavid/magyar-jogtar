@@ -13,7 +13,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 - c)
 - d) az a) és b) pontban meghatározottak felügyeletére.
 
-(2) A Gt., a Ctv., az Áht., a Hpt. és a Tpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A Ptk. jogi személyekre vonatkozó rendelkezései, a Ctv., az Áht., a Hpt. és a Tpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 ### ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -21,14 +21,14 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 (2) E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban
 
-- 1. alapszabály: a Gt.-ben meghatározott alapszabály és alapító okirat,
+- 1. alapszabály: a Ptk.-ban meghatározott létesítő okirat,
 - 2. befolyás: a Tpt.-ben meghatározott fogalom,
 - 3. befolyásoló részesedés: a Hpt.-ben meghatározott fogalom,
 - 4. értékpapír: a Tpt.-ben meghatározott fogalom,
 - 5. forgalomba hozatal: a Tpt.-ben meghatározott fogalom,
 - 6. hitelintézet: a Hpt. szerinti hitelintézet, ide nem értve a fióktelep formájában működő hitelintézetet,
 - 7. szabályozott intézmény: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 39. §-a szerinti szervezet és személy,
-- 8. vezető tisztségviselő: a Gt.-ben meghatározott fogalom,
+- 8. vezető tisztségviselő: a Ptk. jogi személyekre vonatkozó rendelkezéseiben meghatározott fogalom,
 - 9. vezető állású személy: a Hpt.-ben meghatározott fogalom,
 - 10. pénzügyi eszköz: a Bszt. 6. §-ában meghatározott fogalom,
 - 11. MNB rendkívüli likviditási hitele: az MNB tv. 35. §-a szerinti – az MNB tv. 18. §-ában meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.
@@ -101,7 +101,7 @@ kerülhet sor.
 
 (5) A Magyar Állam javára e törvény szerint történő részesedésszerzés, valamint a részvényesi jogok gyakorlása esetében a Vtv. rendelkezéseit nem kell alkalmazni.
 
-(6) A Magyar Állam tekintetében a (2) bekezdésben meghatározott tőkeemelésre, illetőleg a befolyásszerzésre a Tpt. befolyásszerzésre, a Gt. minősített befolyásszerzésre, a kisebbségi részvényesi jogok gyakorlására, a Tpvt. vállalatok összefonódására vonatkozó szabályait, a Hpt. befolyásoló részesedés megszerzésére vonatkozó szabályait, valamint a jogosult hitelintézet alapszabályában foglalt, egy részvényes vagy részvényesi csoport által gyakorolható szavazati jog legmagasabb mértékét előíró rendelkezéseit nem kell alkalmazni.
+(6) A Magyar Állam tekintetében a (2) bekezdésben meghatározott tőkeemelésre, illetőleg a befolyásszerzésre a Tpt. befolyásszerzésre, a Ptk. minősített többséget biztosító befolyásszerzésre, a kisebbségi részvényesi jogok gyakorlására, a Tpvt. vállalatok összefonódására vonatkozó szabályait, a Hpt. befolyásoló részesedés megszerzésére vonatkozó szabályait, valamint a jogosult hitelintézet alapszabályában foglalt, egy részvényes vagy részvényesi csoport által gyakorolható szavazati jog legmagasabb mértékét előíró rendelkezéseit nem kell alkalmazni.
 
 9/A. § Az 5. § (1) bekezdés b) pontja szerinti tőkeemelésben részesült hitelintézetnek a Hpt. javadalmazási politikára vonatkozó rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
@@ -119,7 +119,7 @@ kerülhet sor.
 
 (3) A különleges osztalékelsőbbségi részvényhez szavazati jog nem kapcsolódik.
 
-(4) A különleges osztalékelsőbbségi részvény esetében a Gt. 187. §-ának (2) és (3) bekezdésében foglaltakat nem kell alkalmazni.
+(4) A különleges osztalékelsőbbségi részvény esetében a Ptk. 3:231. § (2) bekezdésében foglaltakat nem kell alkalmazni.
 
 11. § (1) A különleges osztalékelsőbbségi részvény névértékéről és kibocsátási értékéről a Magyar Állam és a hitelintézet a 8. § (2) bekezdésének b) pontjában meghatározott megállapodásban rendelkezik.
 
@@ -225,7 +225,7 @@ nincs helye.
 
 (2) A Magyar Állam a közgyűlés hatáskörében eljárva meghozott döntéseit a hitelintézet vezető tisztségviselőivel és a felügyelőbizottság tagjaival haladéktalanul, írásban közli.
 
-(3) A Magyar Állam a közgyűlés hatáskörében eljárva köteles a Gt.-nek a minősített többséget biztosító befolyással rendelkező részvényesre vonatkozó szabályai, és a hitelintézet stabil működése helyreállításához fűződő érdekek elsődlegessége alapján eljárni.
+(3) A Magyar Állam a közgyűlés hatáskörében eljárva köteles a Ptk. jogi személyekre vonatkozó rendelkezéseinek a minősített többséget biztosító befolyással rendelkező részvényesre vonatkozó szabályai, és a hitelintézet stabil működése helyreállításához fűződő érdekek elsődlegessége alapján eljárni.
 
 (4) A Magyar Állam a hitelintézettel szemben korlátlanul felel a Magyar Állam által a (3) bekezdésben meghatározott kötelezettség felróható megszegésével okozott károkért.
 
@@ -309,7 +309,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - 1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 - 2. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 - 3. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
-- 4. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
+- 4. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
 - 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 - 6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 - 7.

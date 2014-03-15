@@ -28,9 +28,9 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 ### Szervezeti és működési feltételek
 
-2. § (1) Közraktár kizárólag részvénytársaságként vagy fióktelepként működhet. A részvénytársasági formában működő közraktárra a gazdasági társaságokról szóló törvény rendelkezéseit, a fióktelep formájában működő közraktárra a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+2. § (1) Közraktár kizárólag részvénytársaságként vagy fióktelepként működhet. A részvénytársasági formában működő közraktárra a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseit, a fióktelep formájában működő közraktárra a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A közraktár legalább ötszázmillió forint alaptőkével (jegyzett tőkével), fióktelep esetén dotációs tőkével alapítható, amelyből legalább kettőszázötvenmillió forint pénzbeli hozzájárulás és az (5) bekezdésben meghatározott ingatlan mint nem pénzbeli hozzájárulás.
+(2) A közraktár legalább ötszázmillió forint alaptőkével, fióktelep esetén dotációs tőkével alapítható, amelyből legalább kettőszázötvenmillió forint pénzbeli hozzájárulás és az (5) bekezdésben meghatározott ingatlan mint nem pénzbeli hozzájárulás.
 
 (3) A dotációs tőke a fióktelep létesítéséhez és működéséhez a létesítő által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke.
 
@@ -483,7 +483,7 @@ a felügyelet rendelkezésére bocsátani.
 
 (3) A semmis közraktári szerződés alapján kiállított közraktári jegy nem értékpapír. A közraktári jegy vagy bármely részének jóhiszemű megszerzőjével szemben érvénytelenségre nem lehet hivatkozni.
 
-(4) A közraktár a semmisség megállapítását követően felszólítja a letevőt az áru harminc napon belül történő átvételére. Az átvétel elmulasztása esetén a közraktár jogosult az árut értékesíteni, a befolyt összegből a költségeit levonni, és köteles a fennmaradó összeget bírói letétbe helyezni.
+(4) A közraktár a semmisség megállapítását követően felszólítja a letevőt az áru harminc napon belül történő átvételére. Az átvétel elmulasztása esetén a közraktár jogosult az árut értékesíteni, a befolyt összegből a költségeit levonni, és köteles a fennmaradó összeget bírósági vagy közjegyzői letétbe helyezni.
 
 16. § (1) A közraktári szerződésnek tartalmaznia kell:
 
@@ -593,7 +593,7 @@ származik, a közraktár a kár összegének megtérítését a letevőtől kö
 - a) ha a közraktári jegy lejárt, és a zálogjegy birtokosa a 32. § (1) bekezdésében meghatározott jogával a lejáratig nem élt;
 - b) ha a közraktári jegy lejárt és az árut a jegybirtokos a közraktár írásbeli felszólítása ellenére az értesítéstől számított 5 napon belül nem váltja ki. A közraktárnak az értesítést a letéti könyvének adatai szerinti áru- és zálogjegybirtokos részére kell megküldenie.
 
-(4) A (3) bekezdésben meghatározott esetekben a közraktár az árut a közraktári jegy birtokosának kockázatára, a Polgári Törvénykönyv felelős őrzésre vonatkozó rendelkezéseinek megfelelően őrizheti tovább, és a Polgári Törvénykönyvnek a jogosult késedelmére vonatkozó szabályait kell megfelelően alkalmazni.
+(4) A (3) bekezdésben meghatározott esetekben a közraktár az árut a közraktári jegy birtokosának kockázatára, a Polgári Törvénykönyv megbízás nélküli ügyvitelre vonatkozó rendelkezéseinek megfelelően őrizheti tovább, és a Polgári Törvénykönyvnek a jogosult késedelmére vonatkozó szabályait kell megfelelően alkalmazni.
 
 23. § (1) A közraktár nem köteles vizsgálni, hogy a letevő tulajdonosa-e az árunak, és nem felel azért, hogy a letevő azonos-e azzal a személlyel, akit a közraktári jegy letevőként megjelöl. Ha a közraktárnak hitelt érdemlő módon tudomására jut, hogy az áru bűncselekményből származik, köteles erről az illetékes hatóságot értesíteni.
 
@@ -750,7 +750,7 @@ származik, a közraktár a kár összegének megtérítését a letevőtől kö
 - a) a közraktár közraktári jegyre felvezetett díjkövetelése;
 - b) a zálogjegybirtokos követelése;
 - c) a közraktár egyéb követelése;
-- d) az árujegybirtokos követelése. Ha ez utóbbi ismeretlen helyen tartózkodik, a részére járó pénzt bírói letétbe kell helyezni.
+- d) az árujegybirtokos követelése. Ha ez utóbbi ismeretlen helyen tartózkodik, a részére járó pénzt bírósági vagy közjegyzői letétbe kell helyezni.
 
 (4) Ha a követelését kielégítették, a zálogjegybirtokos a zálogjegyet köteles visszaadni a közraktárnak, amely azt érvényteleníti.
 
@@ -758,7 +758,7 @@ származik, a közraktár a kár összegének megtérítését a letevőtől kö
 
 33. § (1) Ha a közraktári szerződés alapján elhelyezett áru a szerződés lejáratát követően nem váltják ki, vagy a szerződés tartama alatt a megromlás veszélye fenyegeti, a közraktár – a letevő előzetes felszólítása után – az árut értékesítheti. Ha a letevő a közraktári jegyet vagy az árujegyet továbbforgatta, kötelessége az őt követő birtokost a közraktár felszólításáról két napon belül tájékoztatni. A tájékoztatás elmaradásából eredő kárért a mulasztó fél felel.
 
-(2) Az értékesítésből befolyt összegből az igényeket a 32. § (3) bekezdése szerint kell kielégíteni. Ha a közraktári jegy birtokosának tartózkodási helye ismeretlen, az őt megillető pénzt bírói letétbe kell helyezni.
+(2) Az értékesítésből befolyt összegből az igényeket a 32. § (3) bekezdése szerint kell kielégíteni. Ha a közraktári jegy birtokosának tartózkodási helye ismeretlen, az őt megillető pénzt bírósági vagy közjegyzői letétbe kell helyezni.
 
 34. § (1) Ha az árut értékesíteni kell, és az a közraktárjegyen feltüntetett adatok szerint megfelel a Budapesti Értéktőzsde szabályzatában foglalt feltételeknek, a közraktár az árut tőzsdei forgalomban értékesítheti.
 
@@ -894,15 +894,19 @@ származik, a közraktár a kár összegének megtérítését a letevőtől kö
 
 (3) Ha a hirdetményi határidő alatt a közraktári jegyet bemutatják, a közjegyző az eljárást megszünteti, míg ha az értékpapírt nem mutatják be, illetőleg annak hollétére vonatkozó adatot nem jelentenek be, a közraktári jegyet semmissé nyilvánítja. A határozatot a kérelmezővel, a közraktárral, valamint az egyéb érdekeltekkel közölni kell.
 
-### Bírósági letét
+### Az áru értékesítéséből befolyt összeg letétbe helyezése
 
-43. § (1) A bírósági letétbe helyezés iránti kérelmet a közraktár székhelye szerint illetékes járásbíróságnál kell előterjeszteni.
+43. § (1) A bírósági letétbe helyezés iránti kérelmet a közraktár székhelye szerint illetékes járásbíróságnál kell előterjeszteni, a letétbe helyezendő pénzt pedig a járásbíróság székhelye szerint illetékes bírósági gazdasági hivatal letéti számlájára kell befizetni annak a bíróságnak a megjelölésével, amelyhez a közraktár a letét elfogadása iránti kérelmet benyújtja.
 
-(2) A letétbe helyezendő pénzt a járásbíróság székhelye szerint illetékes bírósági gazdasági hivatal letéti számlájára kell befizetni. A befizetéskor meg kell jelölni az összeg rendeltetését, a letevő nevét, azt, hogy a közraktári jegy vagy a jegy mely részének birtokosa jogosult felvenni a letett összeget, valamint annak a bíróságnak a megnevezését, amelyhez a közraktár a befizetett összegnek bírósági letétként elfogadása iránti kérelmet benyújtotta. Ha a jogosult ismeretlen, erre utalni kell.
+(2) A befizetéskor meg kell jelölni az összeg rendeltetését, a letevő nevét és azt, hogy a közraktári jegy vagy a jegy mely részének birtokosa jogosult felvenni a letett összeget. Ha a jogosult ismeretlen, erre utalni kell.
 
-(3) A letét elfogadása iránt a bíróságnál kérelmet kell előterjeszteni. A kérelemben fel kell tüntetni a (2) bekezdésben említett adatokat, továbbá a letét kiutalásával kapcsolatos kikötéseket. Elő kell adni és valószínűsíteni kell a letétbe helyezés okát vagy célját. A kérelemhez csatolni kell a pénz befizetését igazoló okiratot.
+(3) A kérelemben fel kell tüntetni a (2) bekezdésben említett adatokat és a letét kiutalásával kapcsolatos kikötéseket, elő kell adni és valószínűsíteni kell továbbá a letétbe helyezés okát vagy célját is.
 
-(4) A közraktári jegy vagy egyik részének birtokosa – ha a bírósági letétbe helyezett összeghez hozzá akar jutni – köteles a közraktárnál az értékpapírt bemutatni, s a közraktár – ha az e törvényben foglalt feltételek fennállnak – a jegy érvénytelenítése után cégszerű aláírásával igazolja, hogy a jegy birtokosa jogosult a letétbe helyezett összeg felvételére. Az igazolás alapján a bíróság a letétet köteles kiutalni.
+(4) A kérelemhez csatolni kell a pénz befizetését igazoló okiratot.
+
+(5) A közraktári jegy vagy egyik részének birtokosa – ha a letétbe helyezett összeghez hozzá akar jutni – köteles a közraktárnál az értékpapírt bemutatni, s a közraktár – ha az e törvényben foglalt feltételek fennállnak – a jegy érvénytelenítése után cégszerű aláírásával igazolja, hogy a jegy birtokosa jogosult a letétbe helyezett összeg felvételére. Az igazolás alapján a letétet ki kell utalni.
+
+(6) Az e törvény szerinti letétbe helyezési kötelezettség közjegyzői letét útján is teljesíthető, amire a (3) és (5) bekezdésben foglalt eltérésekkel az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény szabályai alkalmazandóak.
 
 ## HARMADIK RÉSZ — VEGYES RENDELKEZÉSEK
 

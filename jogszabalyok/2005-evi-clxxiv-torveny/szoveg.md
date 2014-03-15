@@ -27,7 +27,7 @@ A magyar nemzet jövője, a hátrányos helyzetűek esélyeinek növelése irán
   - b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2012. évi XCVII. törvény hatálybalépését követően nyitott számla esetében a kincstár;
 - 8. szülő: a gyermeknek családi pótlékra jogosult szülője vagy családi pótlékra jogosult más törvényes képviselője;
 - 9. utalási összeg: a kiutaló által a gyermek javára a Start-számlát vezető számlevezetőhöz e törvény alapján utalt összeg;
-- 10. hozzátartozó: a gyermek a Polgári Törvénykönyvről szóló törvény szerinti – szülőnek nem minősülő – hozzátartozója és az egyenes ágbeli rokon testvére.
+- 10. hozzátartozó: a gyermek a Polgári Törvénykönyv szerinti – szülőnek nem minősülő – hozzátartozója és az egyenes ágbeli rokon testvére.
 
 ### Start-számla
 
