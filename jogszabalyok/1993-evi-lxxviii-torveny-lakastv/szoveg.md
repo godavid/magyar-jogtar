@@ -16,13 +16,11 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 ### I. Fejezet — A lakásbérlet létrejötte
 
-2. § (1) A lakásbérleti jogviszonyt (a továbbiakban: lakásbérleti jog) a bérbeadó és a bérlő szerződése határozott vagy határozatlan időre, illetőleg feltétel bekövetkezéséig hozza létre.
-
-(2) A szerződés alapján a bérbeadó köteles a lakást a bérlő használatába adni, a bérlő pedig a lakás használatáért, továbbá a szerződés keretében a bérbeadó által nyújtott szolgáltatásért lakbért fizetni.
+2. § (1)–(2)
 
 (3) A lakásbérleti jog a lakásra és a lakáshoz tartozó helyiségekre terjed ki.
 
-(4) A fizetendő lakbérben a szerződés megkötésekor kell megállapodni. Ha a lakbér mértékét jogszabály állapítja meg, a szerződés akkor is létrejön, ha a felek a fizetendő lakbérben nem állapodtak meg.
+(4)
 
 (5) A lakás bérbeadásának érvényességéhez a szerződés írásba foglalása szükséges.
 
@@ -64,11 +62,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (2) A lakás rendeltetésszerű használatra akkor alkalmas, ha az épület központi berendezéseinek a lakásban lévő részei és a lakásberendezések üzemképesek.
 
-8. § (1) A bérbeadó szavatol azért, hogy a lakás az átadásakor rendeltetésszerű használatra alkalmas.
-
-(2) A bérbeadó a bérlet fennállása alatt a lakással összefüggő, törvényben meghatározott, illetőleg a szerződésben vállalt kötelezettségéért szavatol.
-
-(3) Az (1) és (2) bekezdés szerinti szavatosságra a hibás teljesítés miatti szavatosság szabályait az e törvényben meghatározott, illetőleg a szerződésben kikötött eltérésekkel kell alkalmazni.
+8. §
 
 9. § (1) A bérbeadó és a bérlő megállapodhatnak, hogy a lakást a bérlő teszi rendeltetésszerű használatra alkalmassá és látja el a komfortfokozatának megfelelő lakásberendezésekkel. A megállapodásban a felmerülő költségek megtérítését és annak feltételeit is meg kell határozni.
 
@@ -84,16 +78,13 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (3) A feleknek meg kell állapodniuk abban is, hogy a bérlő a bérbeadótól átvállalt kötelezettség teljesítése esetén milyen mértékű lakbérmérséklésre tarthat igényt.
 
-11. § (1) A bérbeadó a 10. § (1) bekezdésében meghatározott kötelezettségét:
-
-- a) életveszélyt okozó, továbbá az épület állagát veszélyeztető vagy a lakás, illetőleg a szomszédos lakások és nem lakás céljára szolgáló helyiségek rendeltetésszerű használatát lényegesen akadályozó (a továbbiakban együtt: azonnali beavatkozást igénylő) hibák esetében haladéktalanul;
-- b) azonnali beavatkozást nem igénylő hibák esetében pedig általában az épület karbantartásával vagy felújításával összefüggésben köteles teljesíteni.
+11. § (1)
 
 (2) A bérlő az igazolt költségének egy összegben való megtérítését igényelheti a bérbeadótól, ha helyette azonnali beavatkozást igénylő munkát végzett, feltéve, hogy az a másik félnek méltánytalan megterhelést nem okoz.
 
 (3) Önkormányzati lakás esetén a bérbeadónak a bérlő igazolt költségeit — haladéktalanul — egy összegben kell megtéríteni.
 
-(4) Ha a bérbeadó az (1) bekezdés b) pontjában foglalt kötelezettségét — az ott megjelölt időpontban — a bérlő felszólítása ellenére sem teljesíti, akkor a bérlő
+(4) Ha a bérbeadó az azonnali beavatkozást nem igénylő hibák esetén a kötelezettségét – az épület karbantartásával vagy felújításával egyidejűleg – a bérlő felszólítása ellenére sem teljesíti, akkor a bérlő
 
 - a) a bíróságtól kérheti a bérbeadó kötelezését a hiba kijavítására;
 - b) a bérbeadó helyett és költségére a munkát elvégezheti.
@@ -135,9 +126,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 16. § (1) A bérbeadó, illetőleg a bérlő az őt terhelő munkát úgy köteles elvégezni, hogy a lakás, illetőleg más lakások rendeltetésszerű használatát — lehetőség szerint — ne akadályozza. A munka megkezdéséről és várható időtartamáról az érdekelt bérlőket előzetesen értesíteni kell.
 
-(2) Az életveszély elhárításához szükséges munka a másik fél felszólítása nélkül is elvégezhető. Erről a másik felet egyidejűleg értesíteni kell.
-
-(3) A bérlő köteles tűrni az épület karbantartásával, felújításával, helyreállításával, átalakításával, bővítésével és korszerűsítésével kapcsolatos, valamint a bérbeadót és más bérlőt terhelő egyéb munkák elvégzését, ha ezek nem eredményezik a lakás megsemmisülését.
+(2)–(3)
 
 17. § (1) A szerződés megszűnésekor a bérlő köteles a lakást és a lakásberendezéseket rendeltetésszerű használatra alkalmas állapotban a bérbeadónak visszaadni.
 
@@ -222,13 +211,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (7) E §-ban foglalt rendelkezések megsértése esetén a polgári jogi szabályok szerint bírósághoz lehet fordulni azzal, hogy az államot vagy az önkormányzatot terheli annak bizonyítása, hogy a lakásbérlet fennmaradása a beruházás megvalósítását akadályozza.
 
-24. § (1) A bérbeadó a szerződést írásban felmondhatja, ha
-
-- a) a bérlő a lakbért a fizetésre megállapított időpontig nem fizeti meg;
-- b) a bérlő a szerződésben vállalt vagy jogszabályban előírt egyéb lényeges kötelezettségét nem teljesíti;
-- c) a bérlő vagy a vele együttlakó személyek a bérbeadóval vagy a lakókkal szemben az együttélés követelményeivel ellentétes, botrányos, tűrhetetlen magatartást tanúsítanak;
-- d) a bérlő vagy a vele együttlakó személyek a lakást, a közös használatra szolgáló helyiséget, illetőleg területet rongálják vagy a rendeltetésükkel ellentétesen használják;
-- e) a bérlő részére megfelelő és beköltözhető lakást (a továbbiakban: cserelakás) ajánl fel.
+24. § (1)
 
 (2) Bérlőtársi jogviszony esetén a felmondás valamennyi bérlőtársra csak akkor terjed ki, ha a felmondási ok velük szemben is megvalósult és a bérbeadó a felmondást valamennyi bérlőtárssal közölte.
 
@@ -236,15 +219,15 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 25. § (1) Ha a bérlő a bérfizetésre megállapított időpontig a lakbért nem fizeti meg, a bérbeadó köteles a bérlőt — a következményekre figyelmeztetéssel — a teljesítésre írásban felszólítani. Ha a bérlő a felszólításnak nyolc napon belül nem tesz eleget, a bérbeadó további nyolc napon belül írásban felmondással élhet.
 
-(2) Ha a bérlő a szerződésben vállalt, vagy jogszabályban előírt egyéb lényeges kötelezettségét a bérbeadó által írásban megjelölt határidőben nem teljesíti, a bérbeadó a határidőt követő tizenöt napon belül írásban felmondással élhet.
+(2)
 
 (3) Ha a bérlő vagy a vele együttlakó személyek magatartása szolgál a felmondás alapjául, a bérbeadó köteles a bérlőt — a következményekre figyelmeztetéssel — a magatartás megszüntetésére vagy megismétlésétől való tartózkodásra a tudomására jutástól számított nyolc napon belül írásban felszólítani. A felmondást az alapjául szolgáló magatartás folytatásától vagy megismétlésétől számított nyolc napon belül írásban kell közölni.
 
-(4) A felmondást nem kell előzetes felszólításnak megelőznie, ha a kifogásolt magatartás olyan súlyos, hogy a bérbeadótól a szerződés fenntartását nem lehet elvárni. A felmondást a tudomásra jutástól számított nyolc napon belül írásban kell közölni.
+(4)
 
-(5) A felmondás az (1) és (2) bekezdés esetében az elmulasztott határnapot követő hónap, a (3) és (4) bekezdés esetében a hónap utolsó napjára szólhat. A felmondási idő nem lehet rövidebb tizenöt napnál.
+(5) A felmondás az (1) bekezdés esetében az elmulasztott határnapot követő hónap, utolsó napjára szólhat. A felmondási idő nem lehet rövidebb tizenöt napnál.
 
-26. § (1) A bérbeadó a határozatlan időre szóló szerződést írásban felmondhatja, ha a bérlő részére egyidejűleg ugyanazon a településen — a fővárosban a főváros területén — cserelakást ajánl fel bérleti jogviszony létesítésére. A felmondási idő azonban három hónapnál rövidebb nem lehet.
+26. § (1) Állami vagy önkormányzati lakás esetén a bérbeadó a határozatlan időre szóló szerződést rendes felmondással, írásban abban az esetben mondhatja fel, ha egyidejűleg a bérlő részére beköltözhető és megfelelő lakást (a továbbiakban: cserelakás) ajánl fel ugyanazon a településen – a fővárosban a főváros területén – bérleti jogviszony létesítésére. A felmondási idő három hónapnál rövidebb nem lehet.
 
 (2) A cserelakás megfelelőségénél figyelembe kell venni mindkét lakás
 
@@ -259,9 +242,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (4) A bérbeadó nem köteles cserelakást felajánlani, ha a bérlőnek a bérelt lakással azonos településen — a fővárosban a főváros területén — megfelelő és beköltözhető lakása van.
 
-(5) A bérbeadó a határozatlan időre szóló szerződést – ha a felek másképpen nem állapodtak meg – írásban, cserelakás és a 24. § (1) bekezdésének a)–d) pontjaiban meghatározott okok fennállása nélkül is felmondhatja a hónap utolsó napjára; a felmondási idő azonban nem lehet rövidebb három hónapnál.
-
-(6) Önkormányzati, illetőleg állami lakás esetén a bérbeadó az (5) bekezdésben említett cserelakás felajánlása nélküli felmondás jogát érvényesen nem gyakorolhatja.
+(5)–(6)
 
 (7) A szociális helyzet alapján bérbe adott önkormányzati lakás esetén az (1) bekezdés szerinti felmondásra csak az épület (a benne lévő lakás) átalakítása, korszerűsítése, lebontása vagy társbérlet megszüntetése céljából kerülhet sor.
 
@@ -271,9 +252,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (3) A 26. § (1) bekezdése szerinti felmondás esetén a bérlő igényt tarthat arra, hogy a bérbeadó térítse meg a lakásváltoztatással kapcsolatban felmerült indokolt költségeit.
 
-28. § (1) A bérlő a határozatlan időre kötött szerződést bármikor írásban felmondhatja.
-
-(2) A felmondás a hónap utolsó napjára szólhat, de a felmondási idő nem lehet rövidebb tizenöt napnál.
+28. §
 
 29. § (1) A bérlő a lakás bérleti jogát – a bérbeadó hozzájárulásával – elcserélheti; a csereszerződést írásba kell foglalni.
 
@@ -345,7 +324,7 @@ miatt cseréli el a lakást, és a (4) bekezdésben említett indokok nem állna
 
 ### V. Fejezet — Az albérlet
 
-33. § (1) A bérlő a bérbeadó hozzájárulásával a lakás egy részét albérletbe adhatja. Az albérleti díjban a felek szabadon állapodnak meg.
+33. § (1) A bérlő a bérbeadó hozzájárulásával a lakást vagy annak egy részét albérletbe adhatja. Az albérleti díjban a felek szabadon állapodnak meg.
 
 (2) A lakás albérletbe adásának érvényességéhez a szerződés írásba foglalása szükséges.
 
@@ -410,7 +389,7 @@ történő bérbeadás figyelembevételével önkormányzati rendelet állapítj
 
 (2) Önkormányzati helyiség esetén a hozzájárulás feltételeit önkormányzati rendeletben kell meghatározni. A hozzájárulás nem tagadható meg, ha a cserélő fél az önkormányzat rendeletében meghatározott feltételeket vállalja.
 
-43. § (1) A bérbeadó a határozatlan időre kötött szerződést – ha a felek másként nem állapodtak meg – cserehelyiség biztosítása, és a 24. § (1) bekezdésének a)–d) pontjaiban meghatározott esetek fennállása nélkül is felmondhatja. A felmondási idő – eltérő megállapodás hiányában – egy évnél rövidebb nem lehet.
+43. § (1) Állami vagy önkormányzati helyiség esetén a határozatlan időre kötött szerződés cserehelyiség biztosítása nélkül is felmondható, ha a felek másként nem állapodtak meg. A felmondási idő – eltérő megállapodás hiányában – egy évnél rövidebb nem lehet.
 
 (2)
 
@@ -571,7 +550,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 - a) aki büntetett előéletű,
 - b) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll,
-- c) aki a gazdasági társaságokról szóló törvény alapján vezető tisztségviselő nem lehet.
+- c) aki gazdasági társaság vezető tisztségviselője nem lehet.
 
 (3) Az engedély iránti kérelem tartalmazza a kérelmező természetes személyazonosító adatait, lakcímét, értesítési címét, a szakképzettségét tanúsító bizonyítvány (oklevél) számát, és ahhoz csatolni kell a szakképesítést tanúsító bizonyítványt.
 

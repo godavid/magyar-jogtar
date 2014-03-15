@@ -45,15 +45,17 @@ alkalmazni kell.
 
 #### 4. Általános magatartási követelmények
 
-6. § (1) A munkaszerződés teljesítése során – kivéve, ha törvény eltérő követelményt ír elő – úgy kell eljárni, ahogy az adott helyzetben általában elvárható.
+6. § (1) A munkaszerződés teljesítése során – kivéve, ha törvény eltérő követelményt ír elő – úgy kell eljárni, ahogy az adott helyzetben általában elvárható. Felróható magatartására előnyök szerzése végett senki nem hivatkozhat. A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
 
-(2) A jogok gyakorlása és a kötelezettségek teljesítése során a jóhiszeműség és a tisztesség elvének megfelelően kell eljárni, továbbá kölcsönösen együtt kell működni és nem lehet olyan magatartást tanúsítani, amely a másik fél jogát, jogos érdekét sérti.
+(2) A jogok gyakorlása és a kötelezettségek teljesítése során a jóhiszeműség és a tisztesség elvének megfelelően kell eljárni, továbbá kölcsönösen együtt kell működni, és nem lehet olyan magatartást tanúsítani, amely a másik fél jogát, jogos érdekét sérti. A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
 
 (3) A munkáltató a munkavállaló érdekeit a méltányos mérlegelés alapján köteles figyelembe venni, a teljesítés módjának egyoldalú meghatározása a munkavállalónak aránytalan sérelmet nem okozhat.
 
 (4) Az e törvény hatálya alá tartozók kötelesek egymást minden olyan tényről, adatról, körülményről vagy ezek változásáról tájékoztatni, amely a munkaviszony létesítése, valamint az e törvényben meghatározott jogok gyakorlása és a kötelezettségek teljesítése szempontjából lényeges.
 
-7. § Tilos a rendeltetésellenes joggyakorlás. E törvény alkalmazásában rendeltetésellenes a jog gyakorlása különösen akkor, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul vagy ehhez vezet.
+7. § (1) Tilos a joggal való visszaélés. E törvény alkalmazásában joggal való visszaélés különösen, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul vagy ehhez vezet.
+
+(2) Ha a joggal való visszaélés munkaviszonyra vonatkozó szabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás nyomós közérdeket vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
 
 8. § (1) A munkavállaló a munkaviszony fennállása alatt – kivéve, ha erre jogszabály feljogosítja – nem tanúsíthat olyan magatartást, amellyel munkáltatója jogos gazdasági érdekeit veszélyeztetné.
 
@@ -63,15 +65,15 @@ alkalmazni kell.
 
 (4) A munkavállaló köteles a munkája során tudomására jutott üzleti titkot megőrizni. Ezen túlmenően sem közölhet illetéktelen személlyel olyan adatot, amely munkaköre betöltésével összefüggésben jutott a tudomására, és amelynek közlése a munkáltatóra vagy más személyre hátrányos következménnyel járhat. A titoktartás nem terjed ki a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettségre.
 
-#### 5. A személyhez fűződő jogok védelme
+#### 5. A személyiségi jogok védelme
 
-9. § (1) Az e törvény hatálya alá tartozók személyhez fűződő jogait tiszteletben kell tartani.
+9. § (1) A munkavállaló és a munkáltató személyiségi jogainak védelmére, ha e törvény eltérően nem rendelkezik, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 2:42–54. §-át kell alkalmazni azzal, hogy a Ptk. 2:52. § (2) és (3) bekezdése, valamint 2:53. §-a alkalmazásakor e törvény kártérítési felelősségre vonatkozó szabályai az irányadók.
 
-(2) A munkavállaló személyhez fűződő joga akkor korlátozható, ha a korlátozás a munkaviszony rendeltetésével közvetlenül összefüggő okból feltétlenül szükséges és a cél elérésével arányos. A személyhez fűződő jog korlátozásának módjáról, feltételeiről és várható tartamáról a munkavállalót előzetesen tájékoztatni kell.
+(2) A munkavállaló személyiségi joga akkor korlátozható, ha a korlátozás a munkaviszony rendeltetésével közvetlenül összefüggő okból feltétlenül szükséges és a cél elérésével arányos. A személyiségi jog korlátozásának módjáról, feltételeiről és várható tartamáról a munkavállalót előzetesen tájékoztatni kell.
 
-(3) A munkavállaló a személyhez fűződő jogáról általános jelleggel előre nem mondhat le. A munkavállaló személyhez fűződő jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
+(3) A munkavállaló a személyiségi jogáról általános jelleggel előre nem mondhat le. A munkavállaló személyiségi jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
 
-10. § (1) A munkavállalótól csak olyan nyilatkozat megtétele vagy adat közlése kérhető, amely személyhez fűződő jogát nem sérti, és a munkaviszony létesítése, teljesítése vagy megszűnése szempontjából lényeges. A munkavállalóval szemben csak olyan alkalmassági vizsgálat alkalmazható, amelyet munkaviszonyra vonatkozó szabály ír elő, vagy amely munkaviszonyra vonatkozó szabályban meghatározott jog gyakorlása, kötelezettség teljesítése érdekében szükséges.
+10. § (1) A munkavállalótól csak olyan nyilatkozat megtétele vagy adat közlése kérhető, amely személyiségi jogát nem sérti, és a munkaviszony létesítése, teljesítése vagy megszűnése szempontjából lényeges. A munkavállalóval szemben csak olyan alkalmassági vizsgálat alkalmazható, amelyet munkaviszonyra vonatkozó szabály ír elő, vagy amely munkaviszonyra vonatkozó szabályban meghatározott jog gyakorlása, kötelezettség teljesítése érdekében szükséges.
 
 (2) A munkáltató köteles a munkavállalót tájékoztatni személyes adatainak kezeléséről. A munkáltató a munkavállalóra vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy a munkavállaló hozzájárulásával közölhet.
 
@@ -159,7 +161,7 @@ alkalmazni kell.
 
 (3) A munkavállaló, kivéve, ha a képviselet tartalma egyértelműen korlátozott, nem hivatkozhat arra, hogy képviselője jogkörét túllépve járt el.
 
-(4) A törvényes képviselő hozzájárulása szükséges a korlátozottan cselekvőképes személy olyan jognyilatkozatához, amely a munkaszerződés megkötésére, módosítására, megszüntetésére vagy kötelezettségvállalásra irányul.
+(4) A törvényes képviselő hozzájárulása szükséges a fiatal munkavállaló vagy a cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló olyan jognyilatkozatának érvényességéhez, amely a munkaszerződés megkötésére, módosítására, megszüntetésére vagy kötelezettségvállalásra irányul.
 
 (5) A cselekvőképtelen személy nevében törvényes képviselője tesz jognyilatkozatot.
 
@@ -167,7 +169,10 @@ alkalmazni kell.
 
 22. § (1) A jognyilatkozatot – ha munkaviszonyra vonatkozó szabály vagy a felek megállapodása eltérően nem rendelkezik – alaki kötöttség nélkül lehet megtenni. A munkavállaló kérésére a munkáltatónak a jognyilatkozatát akkor is írásba kell foglalnia, ha az egyébként nem kötelező.
 
-(2) Írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+(2) Írásbelinek kell tekinteni a jognyilatkozatot,
+
+- a) ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor;
+- b) a 93. § (4) bekezdésében, a 97. § (4) bekezdésében, a 108. § (1) bekezdésében, a 110. § (5) és (6) bekezdésében, a 138. § (4) bekezdésében, 193. § (2) bekezdésében meghatározott esetekben akkor is, ha azt a helyben szokásos és általában ismert módon közzé teszik.
 
 (3) A megállapodást, ha írásba kellett foglalni, módosítani vagy megszüntetni csak írásban lehet.
 
@@ -175,7 +180,13 @@ alkalmazni kell.
 
 (5) A munkáltató az egyoldalú jognyilatkozatát az e törvényben meghatározott esetben köteles írásban indokolni és az igény érvényesítésének módjáról, és ha az elévülési időnél rövidebb, annak határidejéről a munkavállalót ki kell oktatni. A határidőről való kioktatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.
 
-(6) A jognyilatkozat írásba foglalásához közokirat vagy teljes bizonyító erejű magánokirat szükséges, ha a fél (képviselő) nem tud vagy nem képes írni vagy olvasni.
+(6) Írni nem tudó vagy nem képes személy írásbeli jognyilatkozata abban az esetben érvényes, ha azt közokirat vagy olyan teljes bizonyító erejű magánokirat tartalmazza,
+
+- a) amelyen a nyilatkozó fél aláírását vagy kézjegyét bíróság vagy közjegyző hitelesíti,
+- b) amelyen ügyvéd ellenjegyzéssel vagy két tanú aláírással igazolja, hogy a nyilatkozó fél a nem általa írt okiratot előttük írta alá vagy látta el kézjegyével, vagy
+- c) az okiraton lévő aláírást vagy kézjegyet előttük saját aláírásának vagy kézjegyének ismerte el.
+
+(7) Az olvasni nem tudó, továbbá olyan személy esetén, aki nem érti azt a nyelvet, amelyen az írásbeli nyilatkozatát tartalmazó okirat készült, az írásbeli jognyilatkozat érvényességének feltétele az is, hogy magából az okiratból kitűnjön, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy a nyilatkozó félnek felolvasta és megmagyarázta.
 
 23. § (1) A munkáltató köteles a megállapodás írásba foglalásáról gondoskodni és ennek egy példányát a munkavállalónak átadni.
 
@@ -183,7 +194,7 @@ alkalmazni kell.
 
 #### 16. A jognyilatkozat közlése
 
-24. § (1) Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, vagy az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza.
+24. § (1) Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, vagy az elektronikus dokumentum részükre hozzáférhetővé válik, továbbá a 22. § (2) bekezdés b) pontjában meghatározott jognyilatkozat esetében, ha azt a helyben szokásos és általában ismert módon közzéteszik. Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény különszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
 
@@ -220,7 +231,7 @@ kézbesítettnek kell tekinteni.
 
 #### 18. A semmisség
 
-27. § (1) Semmis az a megállapodás, amely munkaviszonyra vonatkozó szabályba ütközik, vagy amely munkaviszonyra vonatkozó szabály megkerülésével jött létre.
+27. § (1) Semmis az a megállapodás, amely munkaviszonyra vonatkozó szabályba ütközik, vagy munkaviszonyra vonatkozó szabály megkerülésével jött létre vagy nyilvánvalóan a jóerkölcsbe ütközik.
 
 (2) A színlelt megállapodás semmis, ha pedig más megállapodást leplez, azt a leplezett megállapodás alapján kell megítélni.
 
@@ -228,17 +239,23 @@ kézbesítettnek kell tekinteni.
 
 #### 19. A megtámadhatóság
 
-28. § (1) A megállapodás megtámadható, ha a fél annak megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy tévedését a másik fél okozta vagy azt felismerhette, vagy, ha mindkét fél ugyanabban a téves feltevésben volt. Jogi kérdésben való tévedés címén a megállapodást akkor lehet megtámadni, ha a tévedés lényeges volt és a munkakörében eljáró jogi szakértő a feleknek együttesen adott a jogszabályok tartalmára nézve nyilvánvalóan téves tájékoztatást.
+28. § (1) A megállapodás megtámadható, ha annak megkötésekor a fél valamely lényeges körülmény tekintetében tévedésben volt, feltéve, ha tévedését a másik fél okozta vagy felismerhette. A megállapodást bármelyik fél megtámadhatja, ha a szerződéskötéskor lényeges körülményben ugyanabban a téves feltevésben voltak. Lényeges körülményre vonatkozik a tévedés akkor, ha annak ismeretében a fél nem vagy más tartalommal kötötte volna meg a szerződést.
 
-(2) Megtámadható a megállapodás akkor is, ha annak megtételére a felet jogellenes fenyegetéssel vagy kényszerítéssel vették rá.
+(2) Nem támadhatja meg a szerződést az, aki a tévedését felismerhette vagy a tévedés kockázatát vállalta.
 
-(3) A megállapodást az támadhatja meg, akit a jognyilatkozat megtételére jogellenes fenyegetéssel, kényszerítéssel vettek rá, vagy az, aki tévedésben, téves feltevésben volt.
+(3) A megtévesztés hatására kötött megállapodást megtámadhatja, akit a másik fél szándékos magatartásával tévedésbe ejt vagy tévedésben tart.
 
-(4) A megtámadás határideje harminc nap, amely a tévedés felismerésétől vagy jogellenes fenyegetés, kényszerítés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a megtámadás joga nem gyakorolható.
+(4) A megállapodást megtámadhatja, akit a másik fél jogellenes fenyegetéssel vett rá a megállapodás megkötésére.
 
-(5) A megtámadásra irányuló jognyilatkozatot a (4) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+(5) A (3) és a (4) bekezdésben foglalt szabályokat kell alkalmazni, ha a megtévesztés vagy jogellenes fenyegetés harmadik személy részéről történt és erről a másik fél tudott vagy tudnia kellett.
 
-(6) A sikeresen megtámadott megállapodás érvénytelen.
+(6) A fél titkos fenntartása vagy rejtett indoka a megállapodás érvényességét nem érinti.
+
+(7) A megtámadás határideje harminc nap, amely a tévedés felismerésétől vagy a jogellenes fenyegetés megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a megtámadás joga nem gyakorolható.
+
+(8) A megtámadásra irányuló jognyilatkozatot a (7) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+
+(9) A sikeresen megtámadott megállapodás érvénytelen.
 
 #### 20. Az érvénytelenség jogkövetkezménye
 
@@ -252,11 +269,11 @@ kézbesítettnek kell tekinteni.
 
 (5) A munkaviszony megszüntetésére irányuló jognyilatkozat érvénytelensége esetén – a munkáltató saját jognyilatkozatának sikeres megtámadását kivéve – a 82–84. §-ban foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-30. § A megállapodás érvénytelenségéből származó kár megtérítésére a kártérítési felelősség szabályait kell megfelelően alkalmazni.
+30. § A megállapodás érvénytelenségéből származó kár megtérítésére e törvény szabályait kell alkalmazni.
 
 #### 21. A polgári jogi szabályok alkalmazása
 
-31. § A jognyilatkozatokra egyebekben a Polgári Törvénykönyv XVII–XXII. fejezetének rendelkezéseit kell megfelelően alkalmazni, azzal, hogy a megállapodás bírósági úton nem módosítható.
+31. § A jognyilatkozatra egyebekben, ha e törvény eltérően nem rendelkezik, a Ptk. 6:4. § és 6:5. §, 6:8. §, 6:11. §, 6:13. §, 6:15–17. §, 6:26.§ és 6:27. §, 6:42. §, 6:46–56. §, 6:62. §, 6:63. § (1)–(3) bekezdése, 6:64–70. §, 6:73. §, 6:77. § és 6:78. §, 6:80. § és 6:81. §, 6:86. § és 6:87. §, 6:102. §, 6:107. §, 6:116–119. §, 6:193–201. §, 6:203–207. §, 6:587. § szabályait kell megfelelően alkalmazni.
 
 ## MÁSODIK RÉSZ — A MUNKAVISZONY
 
@@ -330,6 +347,10 @@ foglaltak nem alkalmazhatók.
 43. § (1) A munkaszerződés – jogszabály eltérő rendelkezése hiányában – a Második Részben foglaltaktól, valamint munkaviszonyra vonatkozó szabálytól a munkavállaló javára eltérhet.
 
 (2) Az eltérést az egymással összefüggő rendelkezések összehasonlításával kell elbírálni.
+
+(3) A felek munkaviszonyból származó jogaival és kötelezettségeivel kapcsolatos megállapodására a munkaszerződésre vonatkozó szabályokat a (4) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(4) A (3) bekezdés szerinti megállapodást munkaviszonyra vonatkozó szabály rendelkezése esetén kell írásba foglalni.
 
 44. § A munkaszerződést írásba kell foglalni. Az írásba foglalás elmulasztása miatt a munkaszerződés érvénytelenségére csak a munkavállaló – a munkába lépést követő harminc napon belül – hivatkozhat.
 
@@ -481,7 +502,7 @@ nem térhet el.
 
 56. § (1) A munkaviszonyból származó kötelezettség vétkes megszegése esetére kollektív szerződés vagy – ha a munkáltató vagy a munkavállaló nem áll kollektív szerződés hatálya alatt – munkaszerződés a kötelezettségszegés súlyával arányos hátrányos jogkövetkezményeket állapíthat meg.
 
-(2) Hátrányos jogkövetkezményként csak olyan, a munkaviszonnyal összefüggő, annak feltételeit határozott időre módosító hátrány állapítható meg, amely a munkavállaló személyhez fűződő jogát és emberi méltóságát nem sérti. A vagyoni hátrányt megállapító jogkövetkezmény összességében nem haladhatja meg a munkavállaló – a jogkövetkezmény megállapításakor irányadó – egyhavi alapbére összegét.
+(2) Hátrányos jogkövetkezményként csak olyan, a munkaviszonnyal összefüggő, annak feltételeit határozott időre módosító hátrány állapítható meg, amely a munkavállaló személyiségi jogát és emberi méltóságát nem sérti. A vagyoni hátrányt megállapító jogkövetkezmény összességében nem haladhatja meg a munkavállaló – a jogkövetkezmény megállapításakor irányadó – egyhavi alapbére összegét.
 
 (3) A hátrányos jogkövetkezmény alkalmazása során a 78. § (2) bekezdését megfelelően alkalmazni kell.
 
@@ -506,7 +527,7 @@ foglaltaktól nem térhet el.
 
 58. § A felek a munkaszerződést közös megegyezéssel módosíthatják. A munkaszerződés módosítására a megkötésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-59. § A munkáltató a 127–133. §-ban meghatározott távollét megszűnését követően ajánlatot tesz a munkavállaló számára a munkabér módosítására. Ennek során a munkavállalóval azonos munkakörű munkavállalók részére a munkáltatónál időközben megvalósított átlagos éves béremelés mértékét kell alapul venni. Ilyen munkavállalók hiányában a munkáltatónál ténylegesen megvalósult átlagos éves béremelés mértéke az irányadó.
+59. § A munkáltató a 127–132. §-ban meghatározott távollét megszűnését követően ajánlatot tesz a munkavállaló számára a munkabér módosítására. Ennek során a munkavállalóval azonos munkakörű munkavállalók részére a munkáltatónál időközben megvalósított átlagos éves béremelés mértékét kell alapul venni. Ilyen munkavállalók hiányában a munkáltatónál ténylegesen megvalósult átlagos éves béremelés mértéke az irányadó.
 
 60. § (1) A munkavállaló számára egészségi állapotának megfelelő munkakört kell felajánlani, ha várandóssága megállapításától gyermeke egyéves koráig – munkaköri alkalmasságára vonatkozó orvosi vélemény alapján – a munkakörében nem foglalkoztatható. A munkavégzés alól fel kell menteni, ha az egészségi állapotának megfelelő foglalkoztatása nem lehetséges.
 
@@ -805,13 +826,22 @@ távolléti díj összegével emelkedik, ha a munkaviszony az (1) bekezdésben m
 
 (4) A munkavállaló az (1)–(2) bekezdésben foglaltak helyett követelheti a munkáltatói felmondás esetén irányadó felmondási időre járó távolléti díjnak megfelelő összeget.
 
-83. § A munkavállaló kérelmére – a 82. § (1) bekezdésében meghatározott jogkövetkezményen túlmenően – a bíróság a munkaviszonyt helyreállítja, ha
+83. § (1) A munkavállaló kérelmére a bíróság a munkaviszonyt helyreállítja, ha
 
 - a) a munkaviszony megszüntetése az egyenlő bánásmód követelményébe,
 - b) a 65. § (3) bekezdésébe,
 - c) a 273. § (1) bekezdésébe ütközött,
 - d) a munkavállaló a munkaviszony megszüntetésekor munkavállalói képviselő volt,
 - e) a munkavállaló a munkaviszony közös megegyezéssel történő megszüntetését vagy erre irányuló saját jognyilatkozatát sikerrel támadta meg.
+
+(2) A munkaviszony helyreállítását követően keletkezett, a munkaviszonyban töltött időhöz kapcsolódó jogosultság tekintetében a munkaviszony megszüntetése (megszűnése) és annak helyreállítása közötti tartamot munkaviszonyban töltött időnek kell tekinteni.
+
+(3) Meg kell téríteni a munkavállaló elmaradt munkabérét, egyéb járandóságát és ezt meghaladó kárát. Elmaradt munkabérként a munkavállaló távolléti díját kell figyelembe venni.
+
+(4) Az elmaradt munkabér és egyéb járandóság összegének számításánál le kell vonni,
+
+- a) amit a munkavállaló megkeresett, vagy az adott helyzetben elvárhatóan megkereshetett volna, továbbá
+- b) a munkaviszony megszüntetésekor kifizetett végkielégítést.
 
 84. § (1) A munkavállaló, ha munkaviszonyát jogellenesen szüntette meg, köteles a munkavállalói felmondás esetén irányadó felmondási időre járó távolléti díjnak megfelelő összeget megfizetni.
 
@@ -1321,7 +1351,7 @@ munkanap pótszabadság jár.
 
 #### 62. Szülési szabadság, fizetés nélküli szabadság
 
-127. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult.
+127. § (1) Az anya egybefüggő 24 hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
 (2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
 
@@ -1664,7 +1694,7 @@ figyelembevételével kell megállapítani.
 
 (6) A munkabért a munkavállaló munkahelyén vagy a munkáltató telephelyén munkaidőben kell kifizetni. Szórakozóhelyen munkabér csak az ott dolgozóknak fizethető ki.
 
-160. § A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot kell fizetni.
+160. § A Ptk. 6:47. § szerinti kamat a felek megállapodása alapján jár.
 
 161. § (1) A munkabérből való levonásnak jogszabály vagy – a levonásmentes munkabérrészig – végrehajtható határozat alapján van helye.
 
@@ -1679,7 +1709,9 @@ figyelembevételével kell megállapítani.
 
 163. § (1) A munkavállaló munkabérére vonatkozó igényéről egyoldalú jognyilatkozattal nem mondhat le.
 
-(2) A levonásmentes munkabérrész nem engedményezhető.
+(2) Engedményezésnek pénzkövetelés esetén van helye. A levonásmentes munkabérrész nem engedményezhető.
+
+(3) Tartozásátvállalásnak pénzkövetelés esetén van helye. Munkáltatói tartozást a munkavállaló nem vállalhat át.
 
 164. § A jogalap nélkül kifizetett munkabér hatvan napon túl akkor követelhető vissza, ha a munkavállalónak a kifizetés alaptalanságát fel kellett ismernie, vagy azt maga idézte elő.
 
@@ -1747,12 +1779,14 @@ foglaltaktól csak a munkavállaló javára térhet el.
 
 (2) Az eltartott hozzátartozó, ha a károkozással összefüggésben a munkavállaló meghal, az (1) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségletének – a tényleges vagy az elvárhatóan elérhető munkabérét, jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
 
-172. § A kártérítés összegének kiszámításánál le kell vonni
+172. § (1) A kártérítés összegének számításánál le kell vonni
 
 - a) a társadalombiztosítás vagy az önkéntes kölcsönös biztosító pénztár által nyújtott ellátást,
-- b) amit a munkavállaló megkeresett, vagy az adott helyzetben elvárhatóan megkereshetett volna,
-- c) amihez a munkavállaló (hozzátartozója) a megrongálódott dolog hasznosításával hozzájutott,
-- d) amihez a jogosult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá.
+- b) amit a jogosult megkeresett vagy az adott helyzetben elvárhatóan megkereshetett volna,
+- c) amihez a jogosult a megrongálódott dolog hasznosításával hozzájutott,
+- d) amihez jogosult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá.
+
+(2) A kártérítés alapjául szolgáló jövedelem meghatározásánál a jövedelmet – a jogosultat a társadalombiztosítási szabályok szerint terhelő – járulékkal csökkentett összegben kell figyelembe venni.
 
 173. § (1) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani, ha a kártérítés a munkavállaló vagy vele szemben tartásra jogosult hozzátartozója tartását vagy tartásának kiegészítését szolgálja.
 
@@ -1788,7 +1822,7 @@ különbözetének megtérítése iránti igényt.
 
 #### 74. A polgári jogi szabályok alkalmazása
 
-177. § A kár megtérítésére egyebekben a Ptk. XXXI. fejezetének szabályait kell alkalmazni.
+177. § A kár megtérítésére egyebekben a Ptk. 6:518-534. §-a szabályait kell alkalmazni.
 
 #### 75. Eltérő megállapodás
 
@@ -1796,7 +1830,7 @@ különbözetének megtérítése iránti igényt.
 
 ### XIV. Fejezet — A MUNKAVÁLLALÓ KÁRTÉRÍTÉSI FELELŐSSÉGE
 
-#### 76. Felelősség a vétkesen okozott kárért
+#### 76. A felelősség általános szabályai
 
 179. § (1) A munkavállaló a munkaviszonyból származó kötelezettségének megszegésével okozott kárt köteles megtéríteni, ha nem úgy járt el, ahogy az adott helyzetben általában elvárható.
 
@@ -2072,13 +2106,23 @@ meghatározott szabályaitól nem térhet el.
 
 209. § (1) A vezető munkaszerződése e törvény Második Részében foglalt rendelkezésektől – a (2) bekezdés kivételével – eltérhet.
 
-(2) A vezetőre a kollektív szerződés hatálya nem terjed ki.
+(2) A vezető munkaszerződése
 
-(3) A vezető munkarendje kötetlen.
+- a) az 55. § (1) bekezdés b), c) és e) pontjában,
+- b) a 65. § (3) bekezdés a) és b) pontjában,
+- c) a 113. § (3) bekezdésében,
+- d) a 127. §-ban, valamint
+- e) a (3) bekezdésben
 
-(4) A vezető gondatlan károkozás esetén a teljes kárért felel.
+foglaltaktól nem térhet el.
 
-(5) A vezető munkaviszonyának jogellenes megszüntetése esetén – a 84. § (1)–(2) bekezdésében foglaltaktól eltérően – tizenkét havi távolléti díjnak megfelelő összeget köteles megfizetni.
+(3) A vezetőre a kollektív szerződés hatálya nem terjed ki.
+
+(4) A vezető munkarendje kötetlen.
+
+(5) A vezető gondatlan károkozás esetén a teljes kárért felel.
+
+(6) A vezető munkaviszonyának jogellenes megszüntetése esetén – a 84. § (1) és (2) bekezdésében foglaltaktól eltérően – tizenkét havi távolléti díjnak megfelelő összeget köteles megfizetni.
 
 210. § (1) Munkáltatói felmondás esetén
 
@@ -2102,13 +2146,13 @@ nem kell alkalmazni.
 
 #### 92. A cselekvőképtelen munkavállaló
 
-212. § (1) A cselekvőképtelen munkavállaló csak olyan munkakörre létesíthet munkaviszonyt, amelyet egészségi állapotánál fogva tartósan és folyamatosan képes ellátni.
+212. § (1) A cselekvőképtelen vagy a cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló csak olyan munkakörre létesíthet munkaviszonyt, amelyet egészségi állapotánál fogva tartósan és folyamatosan képes ellátni.
 
 (2) A munkavállaló munkakörét az ahhoz tartozó feladatok részletes leírásával kell meghatározni. A munkavállalóra vonatkozó egészségügyi alkalmassági vizsgálat kiterjed a részletes munkaköri feladatok ellátására.
 
 (3) A munkavállaló munkavégzését folyamatosan és oly módon kell felügyelni, hogy az az egészséges és biztonságos munkafeltételek megtartását biztosítsa.
 
-(4) A munkavállaló esetében a XIV. fejezet szabályai nem alkalmazhatók, egyebekben a fiatal munkavállalóra vonatkozó rendelkezések megfelelően irányadók.
+(4) A munkavállalóra a fiatal munkavállalóra vonatkozó rendelkezések megfelelően irányadók azzal, hogy kártérítésre vagy sérelemdíj megfizetésére nem kötelezhető.
 
 #### 93. Eltérő megállapodás
 
@@ -2252,13 +2296,13 @@ kapcsolatos, a munkáltatót megillető jogokat és terhelő kötelezettségeket
 
 #### 99. A kártérítési felelősség
 
-221. § (1) A munkavállaló károkozása esetén a kölcsönvevő a munkavállalóval szemben kártérítési igényét e törvény rendelkezései szerint érvényesítheti.
+221. § (1) A munkavállaló károkozása vagy személyiségi jog sértése esetén a kölcsönvevő a munkavállalóval szembeni igényét e törvény rendelkezései szerint érvényesítheti.
 
 (2) A kölcsönbeadó és a kölcsönvevő megállapodása alapján az (1) bekezdésben foglalt esetben az alkalmazott károkozásáért való felelősség polgári jogi szabályait kell alkalmazni.
 
 (3) Az alkalmazott károkozásáért való felelősség polgári jogi szabályainak alkalmazásában munkáltatónak – a kölcsönbeadó és a kölcsönvevő eltérő megállapodása hiányában – a kölcsönvevőt kell tekinteni.
 
-(4) A munkavállalónak a kikölcsönzés során okozott kárért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel.
+(4) A munkavállalónak a kikölcsönzés során okozott kárért vagy személyiségi jogai megsértéséért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel.
 
 #### 100. Eltérő megállapodás
 
@@ -2339,11 +2383,11 @@ kapcsolatosak.
 
 (3) Arra az időre, amíg a munkavállaló a munkáltató vagy a szolgáltatás fogadója részére nem végez munkát – a 146. §-ban foglaltak kivételével – nem illeti meg díjazás.
 
-226. § (1) A munkavállaló károkozása esetén a szolgáltatás fogadója a munkavállalóval szemben kártérítési igényét e törvény rendelkezései szerint érvényesítheti.
+226. § (1) A munkavállaló károkozása vagy személyiségi jog sértése esetén a szolgáltatás fogadója a munkavállalóval szembeni igényét e törvény rendelkezései szerint érvényesítheti.
 
 (2) A munkáltató és a szolgáltatás fogadójának megállapodása alapján az (1) bekezdésben foglalt esetben az alkalmazott károkozásáért való felelősség polgári jogi szabályait kell alkalmazni.
 
-(3) A szolgáltatás fogadójának részére történő munkavégzés során a munkavállalónak okozott kárért a munkáltató és a szolgáltatás fogadója a munkáltatói károkozásra vonatkozó szabályok szerint egyetemlegesen felel.
+(3) A szolgáltatás fogadója részére történő munkavégzés során a munkavállalónak okozott kárért vagy a személyiségi jogai megsértéséért a munkáltató és a szolgáltatás fogadója egyetemlegesen felel.
 
 #### 101. Eltérő megállapodás
 
@@ -2390,6 +2434,8 @@ foglaltakat nem lehet alkalmazni.
 
 (4) A munkáltató személyében bekövetkező változás esetén a megállapodásból származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
 
+(5) Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó.
+
 #### 103. A tanulmányi szerződés
 
 229. § (1) A tanulmányi szerződésben a munkáltató vállalja, hogy a tanulmányok alatt támogatást nyújt, a munkavállaló pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül munkaviszonyát felmondással nem szünteti meg. A munkaviszonyban töltött idő számításánál – eltérő megállapodás hiányában – a 115. § (2) bekezdése megfelelően irányadó.
@@ -2408,6 +2454,8 @@ foglaltakat nem lehet alkalmazni.
 (6) A munkáltató elállhat a tanulmányi szerződéstől és a nyújtott támogatást visszakövetelheti, ha a munkavállaló a tanulmányi szerződésben foglaltakat megszegi. Szerződésszegésnek minősül az is, ha a munkaviszony megszüntetésének indoka a munkavállaló munkaviszonnyal kapcsolatos magatartása. A visszatérítési kötelezettség arányos, ha a munkavállaló a szerződésben kikötött tartamnak csak egy részét nem tölti le.
 
 (7) A tanulmányi szerződést a fél azonnali hatállyal felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a kötelezettség teljesítését lehetetlenné tenné, vagy az aránytalan sérelemmel járna. A munkavállaló felmondása esetén a munkáltató a nyújtott támogatást visszakövetelheti. A munkáltató a támogatást arányosan követelheti vissza, ha a munkavállaló a szerződésben kikötött tartamnak csak egy részét töltötte le. A munkáltató felmondása esetén a támogatás nem követelhető vissza.
+
+(8) Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó.
 
 ## HARMADIK RÉSZ — A MUNKAÜGYI KAPCSOLATOK
 
@@ -2440,7 +2488,7 @@ foglaltakat nem lehet alkalmazni.
 
 (2) Az üzemi tanács vagy a szakszervezet nevében vagy érdekében eljáró személy olyan tényt, információt, megoldást vagy adatot, amelyet a munkáltató jogos gazdasági érdekei, vagy működése védelmében kifejezetten bizalmasan vagy üzleti titokként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
 
-(3) Az üzemi tanács vagy a szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a munkáltató jogos gazdasági érdekeinek veszélyeztetése vagy a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
+(3) Az üzemi tanács vagy a szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a munkáltató jogos gazdasági érdekeinek veszélyeztetése vagy a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra.
 
 ### XX. Fejezet — AZ ÜZEMI TANÁCS
 
@@ -2477,7 +2525,7 @@ foglaltakat nem lehet alkalmazni.
 - b) a vezető hozzátartozója,
 - c) a választási bizottság tagja.
 
-(3) A (2) bekezdés alkalmazásában munkáltatói jognak minősül a munkaviszony létesítése, megszüntetése vagy kártérítési felelősség megállapítása.
+(3) A (2) bekezdés alkalmazásában munkáltatói jognak minősül a munkaviszony létesítése, módosítása és megszüntetése.
 
 239. § Az üzemi tanács tagjának választására a munkáltatóval munkaviszonyban álló és az adott telephelyen dolgozó munkavállaló jogosult.
 
@@ -2923,7 +2971,12 @@ foglaltakat kivéve eltérni nem lehet.
 
 286. § (1) A munkajogi igény három év alatt évül el.
 
-(2) A bűncselekménnyel okozott kár megtérítésére irányuló igény öt év; ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+(2) A bűncselekménnyel okozott
+
+- a) kár megtérítésére vagy
+- b) személyiségi jogsértéssel összefüggő sérelemdíj megfizetésére
+
+irányuló igény öt év; ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
 (3) Az igény elévülését hivatalból kell figyelembe venni.
 
@@ -2981,7 +3034,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 294. § (1) E törvény alkalmazásában
 
 - a) fiatal munkavállaló: a tizennyolcadik életévét be nem töltött munkavállaló,
-- b) hozzátartozó: a házastárs, az egyeneságbeli rokon, a házastárs egyeneságbeli rokona, az örökbefogadott, mostoha és nevelt gyermek, az örökbefogadó, a mostoha és a nevelőszülő, a testvér, valamint az élettárs,
+- b) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő és a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, és a testvér házastársa,
 - c) gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek; fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 - d) kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is,
 - e) munkavállalói képviselő: az üzemi tanács tagja, üzemi megbízott, a gazdasági társaság felügyelő bizottságának munkavállalói képviselője,
@@ -2999,7 +3052,8 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
   - hb) az, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
   - hc) a gyám,
   - hd) a nevelőszülő és a helyettes szülő,
-- i) gyermekét egyedül nevelő munkavállaló: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa.
+- i) gyermekét egyedül nevelő munkavállaló: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
+- j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
 

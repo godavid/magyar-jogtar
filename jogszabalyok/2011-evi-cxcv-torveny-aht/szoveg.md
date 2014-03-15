@@ -20,7 +20,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
 
 - a) agrártámogatások: a részben vagy egészben az Európai Mezőgazdasági Garancia Alapból finanszírozott közvetlen, piaci, valamint intervenciós intézkedésekhez kapcsolódó kifizetések, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, az Európai Tengerügyi és Halászati Alapból finanszírozott támogatások,
 - b) állami garancia: olyan önálló, az állam nevében vállalt kötelezettség, amely alapján az állam a központi költségvetés terhére, jogszabályban, szerződésben meghatározott feltételek szerint, a kötelezett nem teljesítése esetén a jogosultnak fizetést teljesít az előzetesen rögzített összeghatárig,
-- c) állami kezesség: a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti kezességnek megfelelő, az állam nevében vállalt kötelezettség,
+- c) állami kezesség: a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti kezességnek megfelelő, az állam nevében vállalt kötelezettség,
 - d) állami támogatás: az Európai Unió működéséről szóló Szerződés 107. cikke szerinti támogatás,
 - e) előirányzat-átcsoportosítás: az átcsoportosítást végrehajtó költségvetésének – az Országgyűlés vagy a Kormány intézkedése, és a fejezetet irányító szervek megállapodása esetén a központi költségvetés, a fejezetet irányító szerv intézkedése esetén a fejezet, az államháztartás önkormányzati alrendszerében a költségvetési rendelet, határozat összesített – kiadási előirányzatai főösszegének változatlansága mellett, a kiadási előirányzatok egyidejű csökkentésével és növelésével végrehajtott módosítás,
 - f) előirányzat-módosítás: a megállapított kiadási előirányzat növelése vagy csökkentése, a bevételi előirányzatok egyidejű növelése vagy csökkentése mellett,
@@ -43,7 +43,8 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
 - s) zárolás: a kiadási előirányzatok felhasználásának időlegesen, feltételhez kötötten történő korlátozása, felfüggesztése,
 - t) átlátható szervezet: a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 3. §-a szerinti átlátható szervezet,
 - u) önkormányzati garancia: az önkormányzati alrendszerben vállalható olyan kötelezettség, ami alapján a garanciavállaló saját költségvetése terhére, szerződésben meghatározott feltételek szerint, a kötelezett nem szerződésszerű teljesítése esetén a jogosultnak fizetést teljesít az előzetesen rögzített összeghatárig,
-- v) önkormányzati kezesség: az önkormányzati alrendszerben a Polgári Törvénykönyvről szóló törvény szerinti kezességnek megfelelően vállalt kötelezettség,
+- v) önkormányzati kezesség: az önkormányzati alrendszerben a Ptk. szerinti kezességnek megfelelően vállalt kötelezettség,
+- w) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti fogalom.
 - x) kormányzati szektor egyenlege: az Európai Unió túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló rendelete alapján számított egyenleg,
 - y) strukturális egyenleg: a kormányzati szektornak a gazdaság ciklikus hatásaitól és egyedi tételektől megtisztított egyenlege,
 - z) középtávú költségvetési cél: a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló, 1997. július 7-i 1466/97/EK tanácsi rendelet szerint készített aktuális konvergencia programban a strukturális egyenlegre meghatározott célérték, ami összhangban van a stabilitási és növekedési paktum követelményeivel.
@@ -110,7 +111,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
 
 #### 5. A költségvetési szerv fogalma, tevékenységei
 
-7. § (1) A költségvetési szerv jogszabályban vagy az alapító okiratban meghatározott közfeladat ellátására létrejött jogi személy. A nemzeti köznevelésről szóló törvény szerinti állami intézményfenntartó központ egyes szervezeti egységei törvényben foglaltak szerint jogi személyiséggel rendelkezhetnek.
+7. § (1) A költségvetési szerv jogszabályban vagy az alapító okiratban meghatározott közfeladat ellátására létrejött jogi személy, amelynek alapítására, nyilvántartására, képviseletére, szervezetére, működésére, irányítására, felügyeletére, átalakítására és megszüntetésére az e törvényben, kormányrendeletben, valamint az egyes költségvetési szervekre vonatkozó jogszabályokban foglalt rendelkezéseket kell alkalmazni. A nemzeti köznevelésről szóló törvény szerinti állami intézményfenntartó központ egyes szervezeti egységei törvényben foglaltak szerint jogi személyiséggel rendelkezhetnek.
 
 (2) A költségvetési szerv tevékenysége lehet
 
@@ -178,7 +179,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
 
 meghatározott hatáskörök együttesét kell érteni.
 
-#### 8. A költségvetési szerv szervezete, működése
+#### 8. A költségvetési szerv szervezete, működése és képviselete
 
 10. § (1) A költségvetési szerv vezetője felelős a közfeladatok jogszabályban, alapító okiratban, belső szabályzatban foglaltaknak megfelelő ellátásáért, valamint a költségvetési szerv számára jogszabályban előírt kötelezettségek teljesítéséért.
 
@@ -189,6 +190,8 @@ meghatározott hatáskörök együttesét kell érteni.
 (4) A Kormány rendeletében meghatározott költségvetési szerv gazdasági szervezettel rendelkezik. A gazdasági szervezetet a Kormány rendeletében meghatározott képesítéssel rendelkező gazdasági vezető irányítja.
 
 (5) A költségvetési szerv feladatai ellátásának részletes belső rendjét és módját szervezeti és működési szabályzat állapítja meg. A szervezeti egységekre vonatkozó szabályokat a költségvetési szerv szervezeti és működési szabályzatában vagy a szervezeti egységek ügyrendjében, a gazdálkodás részletes rendjét belső szabályzatban kell meghatározni.
+
+(6) A költségvetési szerv képviseletét a szerv vezetője látja el, amely jogkör gyakorlása jogszabályban vagy a költségvetési szerv szervezeti és működési szabályzatában foglaltak szerint – esetenként vagy az ügyek meghatározott csoportjára nézve – a szerv vezetőjének helyettesére vagy más dolgozójára ruházható át.
 
 #### 9. A költségvetési szerv átalakítása, megszüntetése
 
@@ -213,7 +216,11 @@ meghatározott hatáskörök együttesét kell érteni.
 11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy az állami vagyon felügyeletéért felelős miniszter által kijelölt személy vagy szervezet tulajdonosi joggyakorlása alatt álló,
 
 - a) az állam 100%-os tulajdonában lévő gazdasági társaság, vagy
-- b) az a) pont szerinti gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság (ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: állami feladat) központi költségvetési szerv által történő átvételére az ebben az alcímben foglaltakat kell alkalmazni.
+- b) az a) pont szerinti gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság
+
+(ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: állami feladat) központi költségvetési szerv által történő átvételére, a társaság megszüntetésére, a megszüntetéssel összefüggő eljárások lefolytatására, a társaság jogainak és kötelezettségeinek rendezésére, a társaság tagjának helytállási kötelezettségére az ebben az alcímben foglaltakat kell alkalmazni.
+
+(1a) A társaság e törvény alapján történő megszüntetésekor a megszűnő társaságot terhelő kötelezettségekből származó követeléssel összefüggésben a Ptk. szerinti tagi helytállási kötelezettség nem áll fenn.
 
 (2) A Kormány az állami feladat központi költségvetési szerv általi átvételéről és a társaság e törvény alapján történő megszüntetéséről kormányrendelettel dönt. Az átvétel időpontjának, illetve a kormányrendelet kihirdetésének és hatálybalépésének megállapításakor figyelemmel kell lenni az állami feladat átvételéhez, valamint az ebben az alcímben és törvényben meghatározottak teljesítéséhez szükséges időigényre.
 
@@ -249,7 +256,7 @@ meghatározott hatáskörök együttesét kell érteni.
 - a) végelszámolás alatt áll, vagy vonatkozásában csődeljárás elrendeléséről szóló bírósági végzést közzétettek, vagy az ellene indított felszámolási eljárást jogerősen elrendelték, vagy ha a külföldi székhelyű társaság személyes joga szerinti hasonló eljárás van folyamatban, vagy aki személyes joga szerint hasonló helyzetben van, vagy
 - b) egy évnél régebben lejárt adó-, illeték-, vámfizetési vagy társadalombiztosítási járulékfizetési kötelezettségének nem tett eleget, kivéve, ha annak megfizetésére halasztást kapott.
 
-(9) Ezen alcím alkalmazásában 100%-os állami tulajdonban lévő gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, az állam 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény 135. § (1) bekezdése és 223. § (1) bekezdése szerinti – üzletrésszel vagy részvénnyel.
+(9) Ezen alcím alkalmazásában 100%-os állami tulajdonban lévő gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, az állam 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik saját üzletrésszel vagy részvénnyel.
 
 11/B. § (1) A társaság legkésőbb az állami feladat átvételének időpontját megelőzően átutalja valamennyi pénzforgalmi számláján lévő pénzeszközét az átvevő költségvetési szerv fizetési számlájára, valamint a készpénzállományát átadja az átvevő költségvetési szerv részére. A pénzeszközök átadását a társaság saját tőkéjével (ezen belül az eredménytartalékával) szemben kell elszámolni.
 
@@ -293,7 +300,7 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (5) A 11/A. § (8) bekezdésében foglaltak fennállása esetén a társaság ezen alcímben foglaltak alapján nem törölhető a cégjegyzékből.
 
-(6) A társaság tagjával szemben – a társaság e törvény alapján történő jogutód nélküli megszűnésekor – a megszűnő társaságot terhelő kötelezettségekből származó követelés nem érvényesíthető.
+(6)
 
 11/E. § (1) Ha az állami feladatot újonnan alapított központi költségvetési szerv veszi át, az új központi költségvetési szerv nyilvántartásba vétel iránti kérelem benyújtásának annyival kell megelőznie az állami feladat átvételének időpontját, hogy az állami feladat folyamatos ellátása biztosított legyen, és az átvevő költségvetési szerv legkésőbb az állami feladat átvételének időpontjától megkezdhesse a működését, továbbá hogy a foglalkoztatottak jogviszonyával kapcsolatos intézkedések kellő időben megtörténjenek.
 
@@ -609,7 +616,7 @@ a költségvetési évet követő három évre várható összegét.
 
 - a) az európai uniós források felhasználásával kapcsolatos költségvetési kiadás,
 - b) jogszabály által alanyi jogon összegszerűen megállapított, továbbá magánszemélyeket jogszabályban meghatározott feltételek alapján megillető támogatásokkal kapcsolatos költségvetési kiadás,
-- c) az állammal szemben folyamatban lévő peres ügyekkel és az állam által fizetendő kártérítésekkel, kártalanításokkal kapcsolatos költségvetési kiadás,
+- c) az állammal szemben folyamatban lévő peres ügyekkel és az állam által fizetendő kártérítésekkel, kártalanításokkal, továbbá sérelemdíjakkal kapcsolatos költségvetési kiadás,
 - d) a Kormány által egyedi határozatban biztosított beruházás-ösztönzési célú költségvetési kiadás,
 - e) az állami kezességekkel, állami garanciákkal, állami viszontgaranciákkal, kiállítási garanciákkal és viszontgaranciákkal kapcsolatos költségvetési kiadás,
 - f) devizában teljesítendő költségvetési kiadás, az árfolyamváltozás hatásának mértékéig, és
@@ -771,7 +778,7 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 (4) A (2) és (3) bekezdés esetében a 41. § (1) bekezdése nem alkalmazandó.
 
-45/B. § (1) A Bankra a gazdasági társaságokról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni a hitelintézeti törvényben meghatározott előírások betartása mellett.
+45/B. § (1) A Bankra a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben foglaltakat az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A Bank ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből és további igazgatósági tagokból áll.
 
@@ -791,7 +798,7 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 (8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a gazdaságpolitikáért felelős miniszternek is.
 
-(9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Polgári Törvénykönyvről szóló törvény közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
+(9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Ptk. többek közös károkozására vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
 #### 32. A vállalkozási tevékenység
 

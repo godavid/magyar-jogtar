@@ -709,7 +709,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 - a) pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján vagy a jogosult által megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára,
 - b) EGT-állam területén élők részére történő folyósítás esetén a jogosult által megjelölt, valamely EGT a államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára,
 - c) Magyarországgal szociálpolitikai, szociális biztonsági egyezményt kötött állam területén élő személy részére történő folyósítás esetén a jogosult által megjelölt, a szerződő államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára, vagy
-- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett – gyermek árvaellátását a gyám, eseti gondnok által megjelölt gyámhatósági fenntartásos betétre vagy fizetési számlára történő utalással teljesíti. A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a naptól kezdve, amelytől azt megállapították, a jogosultság megszűnésének (megszüntetésének) napjáig, de – ha jogszabály eltérően nem rendelkezik – legfeljebb a jogosult elhalálozásának napját magában foglaló naptári hónap utolsó napjáig.
+- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett – gyermek árvaellátását a gyermekvédelmi gyám vagy a gyermek vagyonának kezelésére a gyámhatóság által feljogosított személy által megjelölt gyámhatósági fenntartásos betétre vagy fizetési számlára történő utalással teljesíti. A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a naptól kezdve, amelytől azt megállapították, a jogosultság megszűnésének (megszüntetésének) napjáig, de – ha jogszabály eltérően nem rendelkezik – legfeljebb a jogosult elhalálozásának napját magában foglaló naptári hónap utolsó napjáig.
 
 (3) A nyugdíjfolyósító szerv által folyósított ellátásokból történő levonásra a bírósági végrehajtásról szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -808,7 +808,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 88. § (1) Aki a nyugellátásra jogosult haláláért felelős, köteles az emiatt nyújtott nyugellátást megtéríteni. A megtérítési kötelezettség olyan mértékben áll fenn, amilyen mértékben a felelősség megállapítható.
 
-(2) A felelősség megállapítására a Polgári Törvénykönyvről szóló 1959. évi IV. törvénynek (a továbbiakban: Ptk.) a szerződésen kívül okozott károkért fennálló felelősségre vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a felelősség abban az esetben is fennáll, ha a nyugellátásra jogosultnak vagyoni kára nincs.
+(2) A felelősség megállapítására a Polgári Törvénykönyvről szóló törvénynek a szerződésen kívül okozott károkért való felelősségre vonatkozó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy a felelősség abban az esetben is fennáll, ha a nyugellátásra jogosultnak kára nincs.
 
 (3) A foglalkoztató az általa foglalkoztatott biztosított üzemi balesetével kapcsolatban az (1)–(2) bekezdések rendelkezései alapján megtérítésre nem kötelezhető.
 
@@ -821,7 +821,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 (3) Az (1)–(2) bekezdésben foglaltaktól eltérően egyösszegű megtérítésre kerül sor, ha
 
 - a) a megtérítésre kötelezett azt kéri, vagy
-- b) a megtérítésre kötelezett gazdálkodó szervezet (foglalkoztató vagy egyéb szerv) felszámolással, illetve végelszámolással jogutód nélkül megszűnik.
+- b) a megtérítésre kötelezett, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (foglalkoztató vagy egyéb szerv) felszámolással, illetve végelszámolással jogutód nélkül megszűnik.
 
 (4) A (3) bekezdés szerinti egyösszegű megtérítés címén a megtérítési kötelezettség alapjául szolgáló
 

@@ -96,7 +96,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 5. befektetés: az ingatlan, az ingó dolog, a vagyoni értékű jog, illetve a vállalkozásokban fennálló részesedés (részvény, üzletrész, tagsági viszony stb.), valamint a más pénzügyi vállalkozás részére nyújtott alárendelt kölcsöntőke;
 - 6. befolyásoló részesedés: az 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
 - 7. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom;
-- 8. betét: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.). szerinti betétszerződés vagy takarékbetét-szerződés alapján fennálló tartozás, ideértve a bankszámlaszerződés alapján fennálló pozitív számlaegyenleget is;
+- 8. betét: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti betétszerződés vagy a takarékbetétről szóló 1989. évi 2. törvényerejű rendelet szerinti takarékbetét-szerződés alapján fennálló tartozás, ideértve a hitelintézetnél a fizetésiszámla-szerződés alapján fennálló pozitív számlaegyenleget is;
 - 9. betét és más, a nyilvánosságtól származó visszafizetendő pénzeszköz gyűjtése: pénzeszközök egyedileg előre meg nem határozott személyektől történő gyűjtése oly módon, hogy azzal a betétgyűjtő tulajdonosként rendelkezhet, de köteles azt – kamattal, más előny biztosításával vagy anélkül – visszafizetni;
 - 10. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
 - 11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, a likviditás biztosítása érdekében közösen végrehajtott pénzügyi művelete;
@@ -161,7 +161,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
   - c) a pénzforgalmi szolgáltató és az ügyfél közötti keretszerződésben meghatározott olyan személyre szabott dolog vagy eljárás, amely lehetővé teszi az ügyfél számára a fizetési megbízás megtételét;
 - 56. készpénz-helyettesítő fizetési eszköz kibocsátása: szerződés alapján a készpénz-helyettesítő fizetési eszköznek az ügyfél rendelkezésére bocsátása;
 - 57. készpénz-helyettesítő fizetési eszköz kibocsátásával kapcsolatos szolgáltatásnyújtás: a készpénz-helyettesítő fizetési eszköz kibocsátására, kezelésére és használatára vonatkozó jogszabályok alapján nyújtott, vagy az ügyféllel, valamint az eladóval vagy a szolgáltatóval kötött szerződésben a kibocsátó által elvállalt szolgáltatások összessége, ide nem értve a készpénz-helyettesítő fizetési eszközzel kapcsolatos szolgáltatásnak a készpénz-helyettesítő fizetési eszköz használatával összefüggő elszámolás forgalom lebonyolítását;
-- 58. kiszervezés: ha a pénzügyi intézmény a pénzügyi vagy kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel vagy jogi személyiséggel nem rendelkező gazdasági társasággal kizárólagos szerződést köt;
+- 58. kiszervezés: ha a pénzügyi intézmény a pénzügyi vagy kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel kizárólagos szerződést köt;
 - 59. kockázat, vagy kockázatvállalás:
   - a) a kölcsön nyújtása, ideértve az adósságra kibocsátott, hitelviszonyt megtestesítő értékpapír megvásárlását is;
   - b) a váltó és csekk, valamint egyéb kötelezvény leszámítolása;
@@ -251,7 +251,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 114. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 115. ügyvezető: a vállalkozás irányítási jogkörrel rendelkező vezető testülete által megválasztott, a vállalkozással munkaviszonyban álló elnöke, a vállalkozás vezetésére kinevezett, a vállalkozással munkaviszonyban álló első számú vezető, valamint e vezető valamennyi helyettese;
 - 116. üzletszerű tevékenység: az ellenérték fejében nyereség, illetve vagyonszerzés végett – előre egyedileg meg nem határozott ügyletek megkötésére irányuló – rendszeresen folytatott gazdasági tevékenység;
-- 117. vállalkozás: a gazdasági tevékenységet folytató jogi személy, jogi személyiség nélküli gazdasági társaság, az egyéni cég és az egyéni vállalkozó;
+- 117. vállalkozás: a gazdasági tevékenységet folytató jogi személy, az egyéni cég és az egyéni vállalkozó;
 - 118. vegyes pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 119. vegyes tevékenységű holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 120. versengő szolgáltatások:
@@ -267,7 +267,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
   - b) szövetkezeti formában működő szövetkezeti hitelintézet esetén az igazgatóság elnöke, a felügyelő bizottság elnöke és az ügyvezető,
   - c) részvénytársasági vagy szövetkezeti formában működő pénzügyi vállalkozás esetén az igazgatóság elnöke, a felügyelő bizottság elnöke és az ügyvezető,
   - d) fióktelep esetén a fióktelep vezetésére a külföldi pénzügyi intézmény által kinevezett személy és annak közvetlen helyettese,
-  - e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, az ellenőrző testület elnöke, valamint az ügyvezető, valamint
+  - e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, a felügyelő bizottság elnöke, valamint az ügyvezető, valamint
   - f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese;
 - 123. vezető testület: a pénzügyi intézmény igazgatósága és felügyelő bizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő pénzügyi intézmény vezető állású személyeit is.
 
@@ -413,7 +413,7 @@ végez (a továbbiakban együtt: független közvetítő).
 
 (2) Pénzforgalmi közvetítői tevékenység az egyes fizetési szolgáltatókról szóló törvény alapján végezhető.
 
-(3) Közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
+(3) Közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, egyéni cég és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
 
 (4) A független közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.
 
@@ -423,15 +423,15 @@ végez (a továbbiakban együtt: független közvetítő).
 
 11. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként vagy zártkörűen működő részvénytársaságként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként működhet.
 
-(2) A részvénytársasági formában működő pénzügyi intézményre a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a szövetkezeti formában működő pénzügyi intézményre a szövetkezetekre vonatkozó törvényi rendelkezéseket, az alapítványi formában működő pénzügyi vállalkozásra a Ptk. rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
+(2) A pénzügyi intézményre a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
 
 (3) A pénzügyi intézmény, amelynek székhelye Magyarország területén található, a főirodáját is Magyarország területén létesíti.
 
-(4) A pénzügyi szolgáltatás közvetítését – az (5) bekezdésben meghatározott kivétellel – bármely jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is végezheti.
+(4) A pénzügyi szolgáltatás közvetítését – az (5) bekezdésben meghatározott kivétellel – bármely jogi személy, és egyéni vállalkozó is végezheti.
 
 (5) A többes kiemelt közvetítő részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet.
 
-(6) Pénzfeldolgozási tevékenységet pénzügyi intézménynek nem minősülő, jogi személyiséggel rendelkező gazdasági társaság, szövetkezet vagy fióktelep is végezhet.
+(6) Pénzfeldolgozási tevékenységet pénzügyi intézménynek nem minősülő, részvénytársaság, korlátolt felelősségű társaság, szövetkezet vagy fióktelep is végezhet.
 
 #### 9. Az induló tőke legkisebb összege
 
@@ -537,7 +537,7 @@ induló tőkével alapítható.
 
 16. § A Felügyelet az e törvényben meghatározott engedélyt határozott időre, feltételhez kötötten, valamint korlátozott tevékenységi körrel, területi korlátozással, a pénzügyi szolgáltatási tevékenységen belül pedig üzletági vagy termékkorlátozással is megadhatja.
 
-17. § (1) A betétállomány és más visszafizetendő pénzeszköz – az átadó és az átvevő hitelintézet közötti megállapodás alapján – a Felügyelet engedélyével átruházható. Az állományátruházás során a Ptk. tartozásátvállalásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az állományátruházás esetén a szerződés biztosítékai nem szűnnek meg, továbbá az állományátruházáshoz nem szükséges a szerződő fél hozzájárulása. A Felügyelet engedélye nem helyettesíti a Gazdasági Versenyhivatalnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerinti engedélyét.
+17. § (1) A betétállomány és más visszafizetendő pénzeszköz – az átadó és az átvevő hitelintézet közötti megállapodás alapján – a Felügyelet engedélyével átruházható. Az állományátruházás során a Ptk. szerződésátruházásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az állományátruházás esetén a szerződés biztosítékai nem szűnnek meg, továbbá az állományátruházáshoz nem szükséges a szerződő fél jognyilatkozata. A Felügyelet engedélye nem helyettesíti a Gazdasági Versenyhivatalnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerinti engedélyét.
 
 (2) Az állományátruházás engedélyezése iránti kérelemnek tartalmaznia kell
 
@@ -649,7 +649,7 @@ induló tőkével alapítható.
 
 (2) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 
-(3) Független közvetítő csak olyan jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég és egyéni vállalkozó lehet,
+(3) Független közvetítő csak olyan jogi személy, egyéni cég és egyéni vállalkozó lehet,
 
 - a) akinek vezető állású személye – ideértve az egyéni vállalkozót is –
   - aa) büntetlen előéletű,
@@ -707,7 +707,7 @@ induló tőkével alapítható.
 (2) Nem egyesülhet
 
 - a) részvénytársasági formában működő pénzügyi intézmény és szövetkezeti formában működő pénzügyi intézmény,
-- b) fióktelep formájában működő pénzügyi intézmény és jogi személy vagy jogi személyiség nélküli gazdasági társaság.
+- b) fióktelep formájában működő pénzügyi intézmény és jogi személy.
 
 (3) Hitelintézet vagy pénzügyi vállalkozás egyesülése esetén az engedélyezésre irányuló kérelemhez benyújtja:
 
@@ -943,7 +943,7 @@ induló tőkével alapítható.
 
 #### 23. Általános rendelkezések
 
-47. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.), a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.), és a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.), a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
+47. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.), a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.), és a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
 
 (2) Pénzügyi intézmény felszámolójának vagy végelszámolójának kizárólag a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNB tv.) meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki.
 
@@ -1342,11 +1342,11 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 
 #### 37. A jegyzett tőke leszállítása
 
-82. § (1) A hitelintézet jegyzett tőkéjének leszállítása esetén, ha a hitelintézet a jegyzett tőke leszállított értéke tekintetében is eléri vagy meghaladja a 79. § (2) bekezdése szerinti összeget, a vele szemben fennálló követelések a gazdasági társaságokról szóló törvényi rendelkezések szempontjából biztosítékkal ellátottnak tekintendőek.
+82. § (1) A hitelintézet jegyzett tőkéjének leszállítása esetén, ha a hitelintézet tőkemegfelelése a jegyzett tőke leszállított értéke tekintetében is eléri vagy meghaladja a 79. § (2) bekezdése szerinti összeget, valamint az e törvényben előírt mértéket, a vele szemben fennálló követelések a Ptk. jogi személyekre vonatkozó rendelkezéseinek szempontjából biztosítékkal ellátottnak tekintendőek.
 
 (2) Az (1) bekezdés szerinti esetben a hitelintézet jegyzett tőkéjének leszállítását kimondó közgyűlési határozatot kétszer egymás után legalább tizenöt napos időközzel az igazgatóság az alapszabályban megjelölt módon közzéteszi. A jegyzett tőke leszállítás közzétételének igazolását követően a cégbíróság kérelemre a jegyzett tőke leszállítását bejegyzi.
 
-(3) A hitelintézet jegyzett tőkéjének leszállítása esetén, ha a hitelintézet a jegyzett tőke leszállított értéke tekintetében nem éri el az e törvényben az induló tőkére előírt mértéket, de a leszállítást elrendelő közgyűlés egyidejűleg dönt a tőkeemelésről is, amelynek következtében a hitelintézet eléri vagy meghaladja az e törvényben az induló tőkére előírt mértéket, akkor a hitelintézettel szemben fennálló követelések a Gt. rendelkezéseinek szempontjából biztosítékkal ellátottnak tekintendőek és a Gt. 271–272. §-ában foglaltak nem alkalmazandóak.
+(3) A hitelintézet jegyzett tőkéjének leszállítása esetén, ha a hitelintézet tőkemegfelelése a jegyzett tőke leszállított értéke tekintetében nem éri el az e törvényben az induló tőkére előírt mértéket, de a leszállítást elrendelő közgyűlés egyidejűleg dönt a tőkeemelésről is, amelynek következtében a hitelintézet tőkemegfelelése eléri vagy meghaladja az e törvényben az induló tőkére előírt mértéket, akkor a hitelintézettel szemben fennálló követelések a Ptk. jogi személyekre vonatkozó rendelkezéseinek szempontjából biztosítékkal ellátottnak tekintendőek és a Ptk. 3:312–3:313. §-ában foglaltak nem alkalmazandóak.
 
 (4) Nem kerülhet sor a jegyzett tőke (3) bekezdésben említett leszállításának és felemelésének cégbírósági bejegyzésére, ha a tőkeemelés meghiúsul vagy nem éri el azt a mértéket, amelynek következtében a hitelintézet jegyzett tőkéje elérné vagy meghaladná a 79. § (2) bekezdésében előírt mértéket.
 
@@ -1636,7 +1636,7 @@ vonatkozó információkat.
 
 - a) a saját maga által kibocsátott, tagsági jogokat megtestesítő értékpapírt, ideértve a szövetkezeti részesedést is,
 - b) a hitelintézettel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogokat megtestesítő értékpapírt, ideértve a szövetkezeti részesedést is,
-- c) a hitelintézet vagy az összevont alapú felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló vállalkozás a Gt.-ben meghatározott minősített többséget biztosító befolyása alatt álló részvénytársaság részvényét.
+- c) a hitelintézet vagy az összevont alapú felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló vállalkozás Ptk.-ban meghatározott minősített többséget biztosító befolyása alatt álló részvénytársaság részvényét.
 
 (3) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, beleértve az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.
 
@@ -2158,11 +2158,11 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 
 #### 60. A tulajdonosokra, a vezető testületek tagjaira és a vezető állású személyekre vonatkozó szabályok
 
-#### 135. §
+135. § A nyilvános részvénytársasági formában működő hitelintézet alapszabálya meghatározhatja az egy részvényes által gyakorolható szavazati jog legmagasabb mértékét. A szavazati jog legmagasabb mértékének meghatározása során tilos a részvényesek közötti bármiféle különbségtétel. A társaság alapszabálya az alapszabályban meghatározott részvényesi csoport szavazati joggyakorlását maximáló szabályt is előírhat.
 
 136. § (1) A pénzügyi intézmény igazgatósága a névre szóló részvényekről és a részvények tulajdonosáról olyan részvénykönyvet vezet, amely a következő adatokat tartalmazza:
 
-- a) a részvénytulajdonosok nevét, természetes személy esetén lakcímét, anyja nevét, állampolgárságát, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég esetén pedig székhelyét,
+- a) a részvénytulajdonosok nevét, természetes személy esetén lakcímét, anyja nevét, állampolgárságát, jogi személy és egyéni cég esetén pedig székhelyét,
 - b) ha a részvénynek több tulajdonosa van, akkor a tulajdonosok és a közös képviselő a) pontban meghatározott adatait,
 - c) a részvény értékpapírkódját, sorozatát és névértékét,
 - d) a részvény fajtáját,
@@ -2341,7 +2341,7 @@ együttesen jogosult.
 
 (6) A felügyeleti jogkörrel rendelkező vezető testület elnöke a bizottsági ülést követő tíz napon belül a Felügyeletnek megküldi azokat a jegyzőkönyveket, előterjesztéseket és jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
 
-153. § Az alapítványi formában működő pénzügyi vállalkozás kuratóriuma működésének ellenőrzésére legalább háromtagú ellenőrző testületet kell létrehozni. Az ellenőrző testület működésére a pénzügyi intézmény felügyelő bizottságára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+153. § Az alapítványi formában működő pénzügyi vállalkozás kuratóriuma működésének ellenőrzésére legalább háromtagú felügyelő bizottságot kell létrehozni. A felügyelő bizottság működésére a pénzügyi intézmény felügyelő bizottságára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 #### 66. Belső ellenőrzés és belső ellenőrzési rendszer
 
@@ -2432,11 +2432,9 @@ szerzett.
 
 #### 68. Közérdeklődésre számot tartó hitelintézetre vonatkozó előírások
 
-157. § (1) A közérdeklődésre számot tartó hitelintézet a Gt. 311. §-a szerinti audit bizottságot hoz létre és működtet, figyelemmel arra, hogy nem nyilvános részvénytársasági formában működő hitelintézet esetén, ahol a Gt. részvénytársaságot és közgyűlést említ ott hitelintézetet és annak legfőbb szervét kell érteni.
+157. § (1) A közérdeklődésre számot tartó hitelintézet a Ptk. jogi személyekre vonatkozó rendelkezései szerinti audit bizottságot hoz létre és működtet, figyelemmel arra, hogy nem nyilvános részvénytársasági formában működő hitelintézet esetén, ahol a Ptk. jogi személyekre vonatkozó rendelkezése részvénytársaságot és közgyűlést említ ott hitelintézetet és annak legfőbb szervét kell érteni.
 
-(2) Az (1) bekezdésben foglaltak nem alkalmazandóak, ha a közérdeklődésre számot tartó hitelintézet rendelkezik olyan testülettel, amely megfelel a Gt. 311. § (1)–(2) bekezdésében meghatározott feltételeknek és a testület ellátja a Gt. 311. § (3)–(4) bekezdésében foglaltakat. A közérdeklődésre számot tartó hitelintézet ebben az esetben saját honlapján nyilvánosságra hozza a testület összetételét, valamint azt, hogy melyik testület látja el a Gt. 311. § (3)–(4) bekezdésében foglalt feladatokat.
-
-(3) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező közérdeklődésre számot tartó hitelintézet közös kockázatvállalási-kockázatkezelési és audit bizottságot állíthat fel, amelynek tagjai megfelelő szakértelemmel rendelkeznek feladataik ellátásához.
+(2) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező közérdeklődésre számot tartó hitelintézet közös kockázatvállalási-kockázatkezelési és audit bizottságot állíthat fel, amelynek tagjai megfelelő szakértelemmel rendelkeznek feladataik ellátásához.
 
 #### 69. Belső szervezet
 
@@ -2591,7 +2589,7 @@ részére,
 - t) a jegybanki feladatkörében eljáró MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás,
 - v) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás, valamint
-- w)
+- w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti.
 
 #### 72. Üzleti titok és banktitok közös szabályai
 
@@ -3840,7 +3838,7 @@ megküldi a Felügyeletnek.
 
 #### 114. Könyvvizsgálat
 
-260. § (1) Pénzügyi intézmény esetén – a gazdasági társaságokról szóló törvénynek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
+260. § (1) Pénzügyi intézmény esetén könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
 
 - a) a könyvvizsgáló (könyvvizsgálói társaság) pénzügyi intézményi minősítéssel rendelkezik,
 - b) a könyvvizsgáló nem rendelkezik a hitelintézetben közvetlen vagy közvetett tulajdonnal,
@@ -3916,7 +3914,7 @@ megküldi a Felügyeletnek.
 
 (3) E § alkalmazásában az érintett naptári félévet megelőző hónap első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
 
-266. § Semmis a fogyasztóval kötött, a vételi jog biztosítéki célú kikötésére vonatkozó szerződés, ha a vételi jog a kötelezett által lakott lakóingatlanra vonatkozik.
+#### 266. §
 
 267. § (1) Ha pénzügyi intézmény devizában nyilvántartott vagy devizában nyújtott és forintban törlesztett (a továbbiakban: deviza alapú) jelzáloghitel-szerződést vagy lakáscélú pénzügyi lízingszerződést kötött, akkor
 
@@ -4081,7 +4079,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 (5) A (3) bekezdés a) pontjában meghatározott esetben a fogyasztó által fizetendő kamat és a referenciakamat különbségét (a felárat) a pénzügyi intézmény egyoldalúan a fogyasztó számára kedvezőtlenül kizárólag akkor módosíthatja, ha
 
 - a) a fogyasztó egy havi törlesztőrészlettel negyvenöt napot meghaladó fizetési késedelembe esik vagy
-- b) a fogyasztó a fedezetül szolgáló ingatlanra kötött, a pénzügyi intézményre engedményezett vagyonbiztosítást a pénzügyi szolgáltató postai úton vagy más, a szerződésben meghatározott közvetlen módon történő értesítése ellenére legalább 2 hónapon keresztül nem fizeti.
+- b) a fogyasztó a fedezetül szolgáló ingatlanra kötött, a pénzügyi intézményre engedményezett, illetve a pénzügyi intézmény zálogjogával terhelt vagyonbiztosítást a pénzügyi szolgáltató postai úton vagy más, a szerződésben meghatározott közvetlen módon történő értesítése ellenére legalább 2 hónapon keresztül nem fizeti.
 
 (6) Az (5) bekezdésben meghatározott feltételek változásának felárra gyakorolt hatását a pénzügyi intézmény belső szabályzatában rögzíti.
 
@@ -4343,13 +4341,66 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 #### 132. Módosító rendelkezések
 
-#### 306. §
+306. § (1) A 6. § (1) bekezdés 8. pontja helyébe a következő rendelkezés lép:
+
+(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
+
+„8. betét: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti betétszerződés vagy a takarékbetétről szóló 1989. évi 2. törvényerejű rendelet szerinti takarékbetét-szerződés alapján fennálló tartozás, ideértve a hitelintézetnél a fizetésiszámla-szerződés alapján fennálló pozitív számlaegyenleget is;”
+
+(2) A 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A pénzügyi intézményre a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.”
+
+(3) A 82. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hitelintézet jegyzett tőkéjének leszállítása esetén, ha a hitelintézet tőkemegfelelése a jegyzett tőke leszállított értéke tekintetében is eléri vagy meghaladja a 79. § (2) bekezdése szerinti összeget, valamint az e törvényben előírt mértéket, a vele szemben fennálló követelések a Ptk. jogi személyekre vonatkozó rendelkezéseinek szempontjából biztosítékkal ellátottnak tekintendőek.”
+
+(4) A 82. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A hitelintézet jegyzett tőkéjének leszállítása esetén, ha a hitelintézet tőkemegfelelése a jegyzett tőke leszállított értéke tekintetében nem éri el az e törvényben az induló tőkére előírt mértéket, de a leszállítást elrendelő közgyűlés egyidejűleg dönt a tőkeemelésről is, amelynek következtében a hitelintézet tőkemegfelelése eléri vagy meghaladja az e törvényben az induló tőkére előírt mértéket, akkor a hitelintézettel szemben fennálló követelések a Ptk. jogi személyekre vonatkozó rendelkezéseinek szempontjából biztosítékkal ellátottnak tekintendőek és a Ptk. 3:312–3:313. §-ában foglaltak nem alkalmazandóak.”
+
+(5) A 99. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A hitelintézet fedezetként nem fogadhatja el:)
+
+„c) a hitelintézet vagy az összevont alapú felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló vállalkozás Ptk.-ban meghatározott minősített többséget biztosító befolyása alatt álló részvénytársaság részvényét.”
+
+(6) A 157. § helyébe a következő rendelkezés lép:
+
+„157. § (1) A közérdeklődésre számot tartó hitelintézet a Ptk. jogi személyekre vonatkozó rendelkezései szerinti audit bizottságot hoz létre és működtet, figyelemmel arra, hogy nem nyilvános részvénytársasági formában működő hitelintézet esetén, ahol a Ptk. jogi személyekre vonatkozó rendelkezése részvénytársaságot és közgyűlést említ ott hitelintézetet és annak legfőbb szervét kell érteni.
+
+(2) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező közérdeklődésre számot tartó hitelintézet közös kockázatvállalási-kockázatkezelési és audit bizottságot állíthat fel, amelynek tagjai megfelelő szakértelemmel rendelkeznek feladataik ellátásához.”
+
+(7) A 280. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A (3) bekezdés a) pontjában meghatározott esetben a fogyasztó által fizetendő kamat és a referenciakamat különbségét (a felárat) a pénzügyi intézmény egyoldalúan a fogyasztó számára kedvezőtlenül kizárólag akkor módosíthatja, ha]
+
+„b) a fogyasztó a fedezetül szolgáló ingatlanra kötött, a pénzügyi intézményre engedményezett, illetve a pénzügyi intézmény zálogjogával terhelt vagyonbiztosítást a pénzügyi szolgáltató postai úton vagy más, a szerződésben meghatározott közvetlen módon történő értesítése ellenére legalább 2 hónapon keresztül nem fizeti.”
+
+(8) A
+
+- a) 6. § (1) bekezdés 117. pontjában a „jogi személy, jogi személyiség nélküli gazdasági társaság,” szövegrész helyébe a „jogi személy,” szöveg,
+- b) 6. § (1) bekezdés 122. pont e) alpontjában az „az ellenőrző testület” szövegrész helyébe az „a felügyelő bizottság” szöveg,
+- c) 10. § (3) bekezdésében, 11. § (4) bekezdésében, 21. § (3) bekezdésében, a „jogi személy, jogi személyiség nélküli gazdasági társaság,” szövegrész helyébe a „jogi személy,” szöveg,
+- d) 11. § (6) bekezdésében a „jogi személyiséggel rendelkező gazdasági társaság” szövegrész helyébe a „részvénytársaság, korlátolt felelősségű társaság” szöveg,
+- e) 17. § (1) bekezdésében a „tartozásátvállalásra” szövegrész helyébe a „szerződésátruházásra” szöveg, a „hozzájárulása” szövegrész helyébe a „jognyilatkozata” szöveg,
+- f) 47. § (1) bekezdésében a „gazdasági társaságokról szóló törvény 2006. évi IV. törvény (a továbbiakban: Gt.),” szövegrész helyébe a „Ptk. jogi személyekre vonatkozó rendelkezéseit,” szöveg,
+- g) 153. §-ban az „ellenőrző testületet” szövegrész helyébe a „felügyelő bizottságot” szöveg, az „Az ellenőrző testület” szövegrész helyébe az „A felügyelő bizottság” szöveg
+
+lép.
 
 #### 307. §
 
 308. § (1)
 
-(2)
+(2) Hatályát veszti a
+
+- a) 6. § (1) bekezdés 58. pontjában a „vagy jogi személyiséggel nem rendelkező gazdasági társasággal” szövegrész,
+- b) 25. § (2) bekezdés b) pontjában „vagy jogi személyiség nélküli gazdasági társaság” szövegrész,
+- c) 136. § (1) bekezdés a) pontjában a „vagy jogi személyiséggel nem rendelkező gazdasági társaság” szövegrész,
+- d) 260. § (1) bekezdésében a „– a gazdasági társaságokról szóló törvénynek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően –” szövegrész,
+- e) 266. §,
+- f) 307. §.
 
 ### 1. melléklet a 2013. évi CCXXXVII. törvényhez
 

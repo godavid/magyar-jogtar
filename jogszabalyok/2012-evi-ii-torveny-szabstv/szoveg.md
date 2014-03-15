@@ -964,7 +964,7 @@ indul meg.
 
 (3) A sértett és az eljárás alá vont személy jogosult arra, hogy jogi képviselőt hatalmazzon meg, aki az eljárásban részt vehet és az általa képviselt érdekében felszólalhat, de a megállapodásnak az általa képviselt fél nevében történő megkötésére nem jogosult. A szabálysértési ügyben adott meghatalmazás – ha a meghatalmazásból más nem tűnik ki – hatálya kiterjed a közvetítői eljárásra is.
 
-(4) Ha a sértett korlátozottan cselekvőképes, a közvetítői eljárásban a törvényes képviselő részvétele kötelező. Ha a sértett cselekvőképtelen, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el, érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
+(4) Ha a sértett korlátozottan cselekvőképes, a közvetítői eljárásban a törvényes képviselő részvétele kötelező. Ha a sértett cselekvőképtelen kiskorú vagy a cselekvőképességet teljesen korlátozó gondnokság hatálya alatt áll, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el, érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
 
 (5) A közvetítői eljárás nyelve a magyar. Az anyanyelv használatára és a tolmács igénybevételére e törvénynek a szabálysértési eljárásra vonatkozó rendelkezései az irányadóak.
 

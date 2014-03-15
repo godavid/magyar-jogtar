@@ -67,7 +67,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 - q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés vagy felsőoktatási szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
 - r) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér, valamint az élettárs;
 - s) magyar állampolgár: a magyar állampolgársággal, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), a letelepedett, valamint a bevándorolt jogállású személy, továbbá a külön jogszabály értelmében menekültnek minősülő személy;
-- t) korlátozottan cselekvőképes beteg: akit a bíróság a Ptk. rendelkezéseinek megfelelően általános jelleggel vagy az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében cselekvőképességet korlátozó gondnokság alá helyezett, valamint az a kiskorú személy, aki a tizennegyedik életévét már betöltötte és nem cselekvőképtelen. Az ilyen személy egészségügyi ellátással kapcsolatos jognyilatkozataira – ha törvény kivételt nem tesz – a Ptk.-ban foglalt szabályok irányadóak;
+- t) cselekvőképtelen: az a személy, akit a bíróság a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerint cselekvőképességét teljesen korlátozó gondnokság alá helyezett, továbbá a tizennegyedik életévét be nem töltött kiskorú és a cselekvőképtelen állapotban lévő személy;
 - u) gazdasági célú letelepedés: a külföldiek magyarországi befektetéseiről szóló törvény szabályainak megfelelő letelepedés;
 - v) egészségügyi szakma: a q) pontban meghatározott egészségügyi szakképesítéssel, továbbá jogszabályban meghatározott szakmai (személyi és tárgyi) minimumfeltételekkel ellátható olyan egészségügyi szolgáltatások összessége, mely szerepel az egészségügyi szakmai kódjegyzékben;
 - w) fenntartó:
@@ -178,11 +178,11 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (2) A beteg távozási szándékát a kezelőorvosnak bejelenti, aki ezt a tényt a beteg egészségügyi dokumentációjában feltünteti.
 
-(3) Amennyiben a beteg a gyógyintézetet bejelentés nélkül hagyja el, a kezelőorvos ezt a beteg egészségügyi dokumentációjában feltünteti, továbbá – ha a beteg állapota indokolja – a gyógyintézet elhagyásának tényéről értesíti a hatáskörrel és illetékességgel rendelkező hatóságokat, valamint cselekvőképtelen beteg esetén a törvényes képviselőt. Korlátozottan cselekvőképes beteg esetén a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ennek hiányában a törvényes képviselőt kell értesíteni.
+(3) Amennyiben a beteg a gyógyintézetet bejelentés nélkül hagyja el, a kezelőorvos ezt a beteg egészségügyi dokumentációjában feltünteti, továbbá cselekvőképtelen beteg esetén – ide nem értve a cselekvőképtelen állapotban lévő beteget – a gyógyintézet elhagyásának tényéről értesíti a törvényes képviselőt. Korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott nagykorú beteg esetén a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ennek hiányában a törvényes képviselőt kell értesíteni. Amennyiben a betegnek a támogatott döntéshozatalról szóló törvény szerinti támogatója van és annak feltüntetését az egészségügyi dokumentációban kérte, a gyógyintézet elhagyásának tényéről a támogatót értesíteni kell.
 
 (4) A beteg gyógyintézetből történő elbocsátásáról a beteget, illetőleg hozzátartozóját előzetesen tájékoztatni kell, lehetőség szerint legalább 24 órával a tervezett elbocsátást megelőzően.
 
-(5) Cselekvőképtelen beteg esetén az (1) bekezdés szerinti jog a törvényes képviselő egyetértésével gyakorolható.
+(5) Cselekvőképtelen beteg esetén – ide nem értve a cselekvőképtelen állapotban lévő beteget – az (1) bekezdés szerinti jog a törvényes képviselő egyetértésével gyakorolható.
 
 ### A tájékoztatáshoz való jog
 
@@ -204,13 +204,15 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (4) A betegnek joga van megismerni ellátása során az egyes vizsgálatok, beavatkozások elvégzését követően azok eredményét, esetleges sikertelenségét, illetve a várttól eltérő eredményt és annak okait.
 
-(5) A cselekvőképtelen és korlátozottan cselekvőképes betegnek is joga van a korának és pszichés állapotának megfelelő tájékoztatáshoz.
+(5) A cselekvőképtelen, a korlátozottan cselekvőképes kiskorú és a cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozott betegnek is joga van a korának és pszichés állapotának megfelelő tájékoztatáshoz.
 
 (6) A betegnek joga van megismerni az ellátásában közvetlenül közreműködő személyek nevét, szakképesítését és beosztását.
 
 (7) A tájékoztatáshoz fűződő jogok gyakorlásához szükséges feltételeket a fenntartó biztosítja.
 
 (8) A betegnek joga van arra, hogy számára érthető módon kapjon tájékoztatást, figyelemmel életkorára, iskolázottságára, ismereteire, lelkiállapotára, e tekintetben megfogalmazott kívánságára, valamint arra, hogy a tájékoztatáshoz szükség esetén és lehetőség szerint tolmácsot vagy jelnyelvi tolmácsot biztosítsanak.
+
+(8a) Ha a betegnek az egészségügyi ellátással összefüggő döntései meghozatalában a támogatott döntéshozatalról szóló törvény szerinti támogatója van, a beteg kérelmére a tájékoztatás során biztosítani kell támogatója jelenlétét.
 
 (9) Az orvos a vizsgálatot megelőzően köteles a beteget – amennyiben állapota lehetővé teszi – arról tájékoztatni, hogy a vizsgálat és az azt követő ellátás térítési díját meg kell téríteni, ha a vizsgálat eredménye szerint sürgős szükség nem áll fenn és az ellátás költségének fedezete a központi költségvetésben és az Egészségbiztosítási Alapon keresztül sincs biztosítva.
 
@@ -227,6 +229,8 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 (2) Az önrendelkezési jog gyakorlása keretében a beteg szabadon döntheti el, hogy kíván-e egészségügyi ellátást igénybe venni, illetve annak során mely beavatkozások elvégzésébe egyezik bele, illetve melyeket utasít vissza, figyelembe véve a 20. §-ban előírt korlátozásokat.
 
 (3) A betegnek joga van arra, hogy a kivizsgálását és kezelését érintő döntésekben részt vegyen. Az e törvényben foglalt kivételektől eltekintve bármely egészségügyi beavatkozás elvégzésének feltétele, hogy ahhoz a beteg megtévesztéstől, fenyegetéstől és kényszertől mentes, megfelelő tájékoztatáson alapuló beleegyezését (a továbbiakban: beleegyezését) adja.
+
+(3a) Ha a betegnek az egészségügyi ellátással összefüggő döntései meghozatalában a támogatott döntéshozatalról szóló törvény szerinti támogatója van, a beteg kérelmére biztosítani kell, hogy a támogató – a 27. §-ban foglaltak betartásával – a beleegyezés megadása során jelen lehessen, azzal kapcsolatban a beteggel egyeztethessen.
 
 (4) A beteg a (3) bekezdésben foglalt beleegyezését szóban, írásban vagy ráutaló magatartással megadhatja, kivéve, ha e törvény eltérően nem rendelkezik.
 
@@ -260,11 +264,16 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (4) A (2) bekezdés szerinti személyek nyilatkozata – kizárólag a 13. §-ban foglalt tájékoztatást követően – a kezelőorvos által javasolt invazív beavatkozásokhoz történő beleegyezésre terjedhet ki. E nyilatkozat azonban – a 20. § (3) bekezdése szerinti eset kivételével – a beavatkozással fölmerülő kockázatoktól eltekintve nem érintheti hátrányosan a beteg egészségi állapotát, így különösen nem vezethet súlyos vagy maradandó egészségkárosodásához. A nyilatkozatról a beteget cselekvőképessé válását követően azonnal tájékoztatni kell.
 
-(5) Az egészségügyi ellátással kapcsolatos döntésekben a cselekvőképtelen, illetve korlátozottan cselekvőképes beteg véleményét a szakmailag lehetséges mértékig figyelembe kell venni abban az esetben is, ha a beleegyezés, illetve a visszautasítás jogát a (2) bekezdés szerinti személy gyakorolja.
+(5) Az egészségügyi ellátással kapcsolatos döntésekben a cselekvőképtelen, illetve a korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg véleményét a szakmailag lehetséges mértékig figyelembe kell venni abban az esetben is, ha a beleegyezés, illetve a visszautasítás jogát a (2) bekezdés szerinti személy gyakorolja.
 
 (6) Az (1) bekezdés szerinti rendelkezéseket a 16. életévét betöltött kiskorú személy esetén is alkalmazni kell.
 
-(7) A (4) bekezdés rendelkezéseit a korlátozottan cselekvőképes beteg törvényes képviselője, illetve a korlátozottan cselekvőképes beteg által a 16. § (1) bekezdés a) pontja alapján megnevezett személy nyilatkozatára is alkalmazni kell.
+(7) A (4) bekezdés rendelkezéseit
+
+- a) a korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg törvényes képviselője és
+- b) az a) pontban meghatározott beteg által a 16. § (1) bekezdés a) pontja alapján megnevezett személy
+
+nyilatkozatára is alkalmazni kell.
 
 17. § (1) A beteg beavatkozásokba történő beleegyezését vélelmezni kell, ha a beteg egészségi állapota következtében beleegyező nyilatkozat megtételére nem képes, és
 
@@ -305,9 +314,9 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (8) A beteg a visszautasításra vonatkozó nyilatkozatát bármikor, alaki kötöttség nélkül visszavonhatja.
 
-21. § (1) Cselekvőképtelen és korlátozottan cselekvőképes beteg esetén a 20. § (2) bekezdése szerinti ellátás nem utasítható vissza.
+21. § (1) Cselekvőképtelen beteg, korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg esetén a 20. § (2) bekezdése szerinti ellátás nem utasítható vissza.
 
-(2) Amennyiben cselekvőképtelen és korlátozottan cselekvőképes beteg esetén a 20. § (3) bekezdése szerinti ellátás visszautasítására kerül sor, az egészségügyi szolgáltató keresetet indít a beleegyezés bíróság általi pótlása iránt. A kezelőorvos a bíróság jogerős határozatának meghozataláig köteles a beteg egészségi állapota által indokolt ellátások megtételére. Közvetlen életveszély esetén a szükséges beavatkozások elvégzéséhez bírósági nyilatkozatpótlásra nincs szükség.
+(2) Ha cselekvőképtelen beteg, továbbá korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg esetén a 20. § (3) bekezdése szerinti ellátás visszautasítására kerül sor, az egészségügyi szolgáltató keresetet indít a beleegyezés bíróság általi pótlása iránt. A kezelőorvos a bíróság jogerős határozatának meghozataláig köteles a beteg egészségi állapota által indokolt ellátások megtételére. Közvetlen életveszély esetén a szükséges beavatkozások elvégzéséhez bírósági nyilatkozatpótlásra nincs szükség.
 
 (3) A kezelőorvos a (2) bekezdésben foglalt kötelezettsége teljesítése érdekében – szükség esetén – igénybe veheti a rendőrhatóság közreműködését.
 
@@ -348,9 +357,9 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (4) A beteg jogosult az általa pontatlannak vagy hiányosnak vélt – rá vonatkozó – egészségügyi dokumentáció kiegészítését, kijavítását kezdeményezni, amelyet a kezelőorvos, illetve más adatkezelő a dokumentációra saját szakmai véleményének feltüntetésével jegyez rá. A hibás egészségügyi adatot az adatfelvételt követően törölni nem lehet, azt úgy kell kijavítani, hogy az eredetileg felvett adat megállapítható legyen.
 
-(5) Amennyiben a betegről készült egészségügyi dokumentáció más személy magántitok-védelméhez való jogát érintő adatokat is tartalmaz, annak csak a betegre vonatkozó része tekintetében gyakorolható a betekintési, illetve a (3) bekezdésben említett egyéb jogosultság.
+(5) Amennyiben a betegről készült egészségügyi dokumentáció más személy magántitokhoz való jogát érintő adatokat is tartalmaz, annak csak a betegre vonatkozó része tekintetében gyakorolható a betekintési, illetve a (3) bekezdésben említett egyéb jogosultság.
 
-(6) Cselekvőképtelen személy dokumentációjába való betekintési jog a 16. § (1)–(2) bekezdései szerinti személyt, korlátozottan cselekvőképes személy dokumentációjába való betekintési jog a beteget, illetve a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ennek hiányában a törvényes képviselőt illeti meg.
+(6) Cselekvőképtelen beteg dokumentációjába való betekintési jog a 16. § (1) és (2) bekezdése szerinti személyt, korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy dokumentációjába való betekintési jog a beteget, a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ilyen személy hiányában a törvényes képviselőt illeti meg.
 
 (7) A beteg jogosult az adott betegségével kapcsolatos egészségügyi ellátásának ideje alatt az általa meghatározott személyt írásban felhatalmazni a rá vonatkozó egészségügyi dokumentációba való betekintésre, illetve arra, hogy azokról másolatot készíttessen.
 
@@ -1597,7 +1606,7 @@ kell alkalmazni.
 
 a törléstől számított egy évig,
 
-- j)
+- j) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
 - k) aki – feltéve, hogy a törvény kötelező kamarai tagságot ír elő – nem tagja a szakképesítése szerint illetékes szakmai kamarának.
 
 (4) A működési nyilvántartás az alábbi adatokat tartalmazza:
@@ -1675,7 +1684,7 @@ a törléstől számított egy évig,
 
 113/A. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv – a (2) bekezdésben foglalt eltéréssel – törli azt a személyt
 
-- a)
+- a) akit a bíróság bármely ügycsoport tekintetében cselekvőképességet részlegesen korlátozó vagy a cselekvőképességet teljesen korlátozó gondnokság alá helyezett,
 - b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll,
 - c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 - d) akit az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
@@ -1685,7 +1694,7 @@ a törléstől számított egy évig,
 - h) aki a törlését kéri,
 - i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
-(1a) Az (1) bekezdés b)–d) pontjai alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
+(1a) Az (1) bekezdés a)–d) pontja alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
 
 (2)
 
@@ -2043,7 +2052,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 134. § (1) A kezelőorvos – a 14. § (1)–(2) bekezdéseiben foglalt esetek kivételével – a beteg állapota által indokolt rendszerességgel, a tőle elvárható ismereteknek megfelelően és legjobb tudása szerint, a 13. §-ban foglaltak figyelembevételével tájékoztatja a beteget annak egészségi állapotáról.
 
-(2) Amennyiben a beteg cselekvőképtelen, illetve korlátozottan cselekvőképes, a kezelőorvos a 16. §-ban foglalt személyeket is tájékoztatja.
+(2) Ha a beteg cselekvőképtelen, korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, a kezelőorvos a 16. §-ban foglalt személyeket is tájékoztatja.
 
 (3) A szóbeli tájékoztatás nem helyettesíthető az előre elkészített általános ismertető segédanyagok átadásával.
 
@@ -2060,7 +2069,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 (2) Az egészségügyi dokumentációban fel kell tüntetni
 
 - a) a betegnek az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott személyazonosító adatait,
-- b) cselekvőképes beteg esetén az értesítendő személy, kiskorú, illetve gondnokság alatt álló beteg esetében a törvényes képviselő nevét, lakcímét, elérhetőségét,
+- b) cselekvőképes beteg esetén az értesítendő személy, valamint – ha a beteg kéri – a támogatott döntéshozatalról szóló törvény szerinti támogató nevét, lakcímét, elérhetőségét, továbbá kiskorú, illetve a cselekvőképességet részlegesen vagy teljesen korlátozó gondnokság alatt álló beteg esetében a törvényes képviselő nevét, lakcímét, elérhetőségét,
 - c) a kórelőzményt, a kórtörténetet,
 - d) az első vizsgálat eredményét,
 - e) a diagnózist és a gyógykezelési tervet megalapozó vizsgálati eredményeket, a vizsgálatok elvégzésének időpontját,
@@ -2473,12 +2482,12 @@ költségének fedezetét.
 - f) a kutatásban való részvétel kockázatának körébe tartozó egészségkárosodás jellegéről és gyógykezeléséről, valamint a kártalanításról, illetve kártérítésről;
 - g) a kutatatásért felelős személy(ek) nevéről.
 
-(4) Kutatás cselekvőképtelen, illetve korlátozottan cselekvőképes személyen kizárólag a következő feltételek együttes fennállása esetén végezhető:
+(4) Kutatás cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személyen kizárólag a következő feltételek együttes fennállása esetén végezhető:
 
-- a) az (1) bekezdés a)–d) pontjaiban foglalt feltételek teljesülnek;
+- a) az (1) bekezdés a)–d) pontjában foglalt feltételek teljesülnek;
 - b) a kutatástól várt eredmény közvetlenül szolgálhatja a kutatás alanyának egészségét;
 - c) a kutatás nem folytatható hasonló hatékonysággal cselekvőképes személyen;
-- d) a 16. § (1)–(2) bekezdései szerinti személy, illetve a korlátozottan cselekvőképes személy esetén a beteg – figyelemmel a 16. § (5) bekezdésben foglaltakra is – a beleegyezését adta.
+- d) a 16. § (1) és (2) bekezdése szerinti személy, illetve korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy esetén a kutatási alany – figyelemmel a 16. § (5) bekezdésében foglaltakra is – a beleegyezését adta.
 
 (5) A (4) bekezdés b) pontjában foglalt feltételtől kivételesen a következő feltételek együttes fennállása esetén el lehet tekinteni:
 
@@ -2509,7 +2518,7 @@ költségének fedezetét.
 
 164. § (1) Amennyiben a szakmai szabályoknak, valamint a kutatási tervnek megfelelően végzett kutatás során a kutatás alanya kárt szenved vagy meghal, őt, illetve az általa eltartott hozzátartozóját az állam kártalanítja.
 
-(2) A kutatást végző egészségügyi szolgáltatónak a kártérítés fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződéssel kell rendelkeznie. A vizsgálati készítménnyel végzett klinikai vizsgálatok esetén a külön törvényben előírt felelősségbiztosítással kell rendelkezni.
+(2) A kutatást végző egészségügyi szolgáltatónak a kártérítés és sérelemdíj fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződéssel kell rendelkeznie. A vizsgálati készítménnyel végzett klinikai vizsgálatok esetén a külön törvényben előírt felelősségbiztosítással kell rendelkezni.
 
 164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
@@ -2770,21 +2779,24 @@ végezhető kutatás. Az eljárásban a 186. § szerinti Humán Reprodukciós Bi
 
 ### Művi meddővététel
 
-187. § (1) A nemző-, illetőleg fogamzásképességet megakadályozó művi meddővé tétel az érintett nő vagy férfi írásbeli kérelme alapján
+187. § (1) A nemző-, illetőleg fogamzásképességet megakadályozó művi meddővé tétel egészségügyi indokból az érintett személy írásbeli kérelme alapján
 
-- a) tizennyolcadik életévét betöltött cselekvőképes és korlátozottan cselekvőképes,
-- b) a (7) bekezdésben foglalt feltételek teljesülése esetén tizennyolcadik életévét be nem töltött korlátozottan cselekvőképes, valamint
-- c) a 187/B. § szerinti esetben a cselekvőképtelen
+- a) tizennyolcadik életévét betöltött cselekvőképes és
+- b) tizennyolcadik életévét betöltött, cselekvőképességében bármely ügycsoportban részlegesen korlátozott,
+- c) tizennyolcadik életévét be nem töltött korlátozottan cselekvőképes kiskorú, valamint
+- d) a 187/B. § szerinti esetben a cselekvőképtelen – ide nem értve a cselekvőképtelen állapotban lévő személyt –
 
 személynél végezhető el.
 
+(1a) A művi meddővé tétel az (1) bekezdés a) és b) pontja szerinti személy kérelmére családtervezési célból 40. életévét betöltött vagy három vér szerinti gyermekkel rendelkező személynél végezhető el.
+
 (2) A művi meddővé tétel elvégzése iránti kérelem benyújtásakor az egészségügyi szolgáltató kijelölt orvosa a kérelmezőt szóban és írásban tájékoztatja a fogamzásgátlás – általa, illetve partnere által alkalmazható – egyéb lehetőségeiről, a beavatkozás jellegéről, lehetséges kockázatairól és következményeiről, a fogamzó-, illetve nemzőképesség helyreállításának esélyéről.
 
-(3) A művi meddővé tétel elvégzése iránti kérelem benyújtásakor az egészségügyi szolgáltató tájékoztatja továbbá a kérelmezőt arról, hogy amennyiben a kérelmező a művi meddővé tételre irányuló beavatkozás igénybevételére vonatkozó szándékát fenntartja – a (4) bekezdésben foglaltak kivételével –, a tájékoztatást követő hat hónap elteltével az egészségügyi szolgáltatónál történő ismételt megjelenése szükséges. Ha a kérelmező e tájékoztatást követő hat hónap elteltével az egészségügyi szolgáltatónál megjelenik és nyilatkozik arról, hogy a művi meddővé tétel elvégzése iránti kérelmét fenntartja, a beavatkozás elvégzésére az ettől az időponttól számított hat hónap elteltével kerülhet sor, kivéve, ha a kérelem fenntartásáról szóló nyilatkozat megtételét követően a beavatkozás soron kívüli elvégzését szülészeti vagy más műtéti esemény lehetővé teszi.
+(3) A művi meddővé tétel elvégzése iránti kérelem benyújtásakor az egészségügyi szolgáltató tájékoztatja továbbá a kérelmezőt arról, hogy amennyiben a kérelmező a művi meddővé tételre irányuló beavatkozás igénybevételére vonatkozó szándékát fenntartja, a tájékoztatást követő hat hónap elteltével az egészségügyi szolgáltatónál történő ismételt megjelenése szükséges. Ha a kérelmező e tájékoztatást követő hat hónap elteltével az egészségügyi szolgáltatónál megjelenik és nyilatkozik arról, hogy a művi meddővé tétel elvégzése iránti kérelmét fenntartja, a beavatkozás elvégzésére az ettől az időponttól számított hat hónap elteltével kerülhet sor, kivéve, ha a kérelem fenntartásáról szóló nyilatkozat megtételét követően a beavatkozás soron kívüli elvégzését szülészeti vagy más műtéti esemény lehetővé teszi.
 
-(4) A (3) bekezdésben foglalt rendelkezéseket a huszonhatodik életévet betöltött kérelmező tekintetében úgy kell alkalmazni, hogy a kérelmezőnek a tájékoztatását követő három hónap elteltével kell ismételten megjelennie az egészségügyi szolgáltatónál, és a megjelenését követő három hónap elteltével kerülhet sor a beavatkozás elvégzésére.
+(4)
 
-(5) Amennyiben a beavatkozás korlátozottan cselekvőképes, illetőleg cselekvőképtelen személy művi meddővé tételére irányul, a (2)–(4) bekezdés szerinti tájékoztatás a korlátozottan cselekvőképes, illetőleg cselekvőképtelen személy számára a cselekvőképességet korlátozó, illetve kizáró ok jellegének figyelembevételével, az érintett személy által értelmezhető módon történik.
+(5) Amennyiben a beavatkozás az (1) bekezdés b)–d) pontjában megjelölt személy művi meddővé tételére irányul, a (2) és (3) bekezdés szerinti tájékoztatás az érintett számára a cselekvőképességet részlegesen vagy teljesen korlátozó ok jellegének figyelembevételével, az érintett személy által értelmezhető módon történik.
 
 (6) A művi meddővé tétel iránti kérelmet közokiratban vagy teljes bizonyító erejű magánokiratban kell előterjeszteni.
 
@@ -2793,28 +2805,28 @@ személynél végezhető el.
 - a) a terhesség a nő életét, testi épségét, egészségét közvetlenül veszélyeztetné, vagy a terhességből születendő gyermek orvosilag valószínűsíthetően súlyos fogyatékosságban szenvedne, és
 - b) más fogamzásgátlási módszer alkalmazása nem lehetséges vagy egészségügyi okból nem javasolható.
 
-(8) A (7) bekezdés szerinti egészségügyi indokból végzett beavatkozás esetén a (3)–(4) bekezdés rendelkezéseit nem kell alkalmazni.
+(8) A (7) bekezdés szerinti egészségügyi indokból végzett beavatkozás esetén a (3) bekezdés rendelkezéseit nem kell alkalmazni.
 
-187/A. § (1) Korlátozottan cselekvőképes személy kérelmező művi meddővé tétel elvégzése iránti kérelmének érvényességéhez a gyámhatóság hozzájárulása és
+187/A. § (1) A 187. § (1) bekezdés c) pontja szerinti személy kérelmező egészségügyi indokból végzett művi meddővé tétel iránti kérelmének érvényességéhez a törvényes képviselője hozzájárulása szükséges.
+
+(1a) A 187. § (1) bekezdés b) pontja szerinti személy művi meddővé tétel elvégzése iránti kérelmének érvényességéhez – amennyiben a beavatkozást nem egészségügyi indokból kéri – a gyámhatóság hozzájárulása és
 
 - a) törvényes képviselője vagy
-- b) a korlátozottan cselekvőképes személy által cselekvőképesként a 16. § (1) bekezdésének a) pontja alapján megnevezett személy
+- b) a 16. § (1) bekezdés a) pontja alapján megnevezett személy hozzájárulása szükséges.
 
-hozzájárulása szükséges.
+(2) A gyámhatóság a hozzájárulás megadása előtt vizsgálja, hogy a 187. § (1) bekezdés b) pontja szerinti személy kérelme akaratával egyező-e, így különösen azt, hogy az érintett és törvényes képviselője között fennáll-e érdekellentét, továbbá azt, hogy az érintett tisztában van-e a döntése következményeivel.
 
-(2) A gyámhatóság a hozzájárulás megadása előtt vizsgálja, hogy a korlátozottan cselekvőképes személy kérelme akaratával egyező-e, így különösen azt, hogy a korlátozottan cselekvőképes személy és törvényes képviselője között fennáll-e érdekellentét, továbbá azt, hogy a korlátozottan cselekvőképes személy tisztában van-e a döntése következményeivel.
-
-(3) Ha a korlátozottan cselekvőképes személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
+(3) Ha a 187. § (1) bekezdés b) pontja szerinti személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
 
 (4) A bíróság a kérelemről nemperes eljárásban, a kérelmező és a törvényes képviselő, illetve a gyámhatóság meghallgatását követően, harminc napon belül határoz. A bíróság a jognyilatkozatot abban az esetben pótolja, ha a művi meddővé tétel elvégzése a kérelmező érdekét – figyelembe véve különösen a kérelmező egészségügyi, személyi és családi körülményeit – nem sérti.
 
 (5) A bíróság határozata ellen annak közlésétől számított tizenöt napon belül terjeszthető elő fellebbezés. A határozat ellen felülvizsgálatnak nincs helye.
 
-(6) Ha a korlátozottan cselekvőképes személy művi meddővé tételére irányuló kérelem érvényességéhez szükséges jognyilatkozatot a bíróság pótolja, a 187. § (3) és (4) bekezdése szerinti várakozási idő a bíróság határozatának jogerőre emelkedésétől kezdődik.
+(6) Ha a 187. § (1) bekezdés b) pontja szerinti személy művi meddővé tételére irányuló kérelem érvényességéhez szükséges jognyilatkozatot a bíróság pótolja, a 187. § (3) bekezdése szerinti várakozási idő a bíróság határozatának jogerőre emelkedésétől kezdődik.
 
-(7) Amennyiben az (1) bekezdés szerinti kérelmet az (1) bekezdés a) pontjában meghatározott személy nyújtja be, úgy annak érvényességéhez a korlátozottan cselekvőképes személy egyetértése szükséges.
+(7) Amennyiben az (1a) bekezdés szerinti kérelmet az (1a) bekezdés a) pontjában meghatározott személy nyújtja be, úgy annak érvényességéhez a 187. § (1) bekezdés b) pontja szerinti személy egyetértése szükséges.
 
-(8) Amennyiben a korlátozottan cselekvőképes személy egészségügyi okból kéri a művi meddővé tétel elvégzését, az (1)–(6) bekezdésben foglalt rendelkezéseket nem kell alkalmazni, az (1) bekezdés a)–b) pontjában megjelölt személyeket azonban a beavatkozás elvégzéséről, és annak indokairól a beavatkozás megkezdését megelőzően tájékoztatni kell. A tájékoztatás megtörténtéig a beavatkozás nem végezhető el.
+(8) Amennyiben a 187. § (1) bekezdés b) pontja szerinti személy egészségügyi okból kéri a művi meddővé tétel elvégzését, az (1a)–(6) bekezdésben foglalt rendelkezéseket nem kell alkalmazni, az (1a) bekezdés a)–b) pontjában megjelölt személyeket azonban a beavatkozás elvégzéséről, és annak indokairól a beavatkozás megkezdését megelőzően tájékoztatni kell. A tájékoztatás megtörténtéig a beavatkozás nem végezhető el.
 
 187/B. § (1) Cselekvőképtelen személy művi meddővé tételére irányuló beavatkozás kizárólag jogerős bírósági határozat alapján, a fogamzóképesség elérését követően végezhető el.
 
@@ -2826,7 +2838,7 @@ hozzájárulása szükséges.
 
 - a) a cselekvőképtelen személy gyermek felnevelésére nem képes, és a beavatkozás elvégzése a cselekvőképtelen személy akaratával megegyezik,
 - b) a terhességből születendő gyermek orvosilag valószínűsíthetően súlyos fogyatékosságban szenvedne, és a beavatkozás elvégzése a cselekvőképtelen személy akaratával nem ellenkezik, vagy
-- c) a bekövetkező terhesség a nő életét, testi épségét, egészségét közvetlenül veszélyeztetné.
+- c) a bekövetkező terhesség a cselekvőképtelen személy életét, testi épségét, egészségét közvetlenül veszélyeztetné.
 
 (5) A bíróság határozata ellen annak közlésétől számított tizenöt napon belül terjeszthető elő fellebbezés. A határozat ellen felülvizsgálatnak nincs helye.
 
@@ -2895,9 +2907,9 @@ van helye.
 
 197. § (1) A gyógykezelés akkor tekinthető önkéntesnek, ha abba a cselekvőképes beteg a 15. § (5) bekezdés szerint a pszichiátriai intézetbe történő felvétele előtt beleegyezett.
 
-(2) A korlátozottan cselekvőképes vagy cselekvőképtelen beteg a (3)–(4) bekezdés kivételével a 16. § (1)–(2) bekezdésben meghatározott személy kérelmére vehető pszichiátriai intézeti gyógykezelésbe.
+(2) A korlátozottan cselekvőképes kiskorú, a cselekvőképességében az egészségügyi ellátással összefüggő jogok tekintetében részlegesen korlátozott vagy cselekvőképtelen beteg a (3)–(4) bekezdés kivételével a 16. § (1)–(2) bekezdésben meghatározott személy kérelmére vehető pszichiátriai intézeti gyógykezelésbe.
 
-(3) A korlátozottan cselekvőképes vagy cselekvőképtelen beteg abban az esetben, ha a 16. § (1)–(2) bekezdésben meghatározott személy nyilatkozatának beszerzése késedelemmel járna, vagy felmerül annak a veszélye, hogy a beteg indokolt gyógykezelésében ellenérdekelt, kérheti az intézetbe történő ideiglenes felvételét akkor, ha a 199. § szerinti sürgősségi vagy 200. § szerinti kötelező gyógykezelés feltételei nem állnak fenn, de az intézeti gyógykezelés indokolt. Az ideiglenes felvétellel egyidejűleg az intézet haladéktalanul megkísérli a kapcsolatfelvételt a 16. § (1)–(2) bekezdésben meghatározott személlyel. Abban az esetben, ha ez sikertelen, vagy a 16. § (1)–(2) bekezdésben meghatározott személy nem járul hozzá a beteg indokolt gyógykezeléséhez, az intézet haladéktalanul értesíti a gyámhatóságot a beteg intézeti felvételéről és annak körülményeiről.
+(3) A korlátozottan cselekvőképes kiskorú, a cselekvőképességében az egészségügyi ellátással összefüggő jogok tekintetében részlegesen korlátozott vagy cselekvőképtelen beteg abban az esetben, ha a 16. § (1)–(2) bekezdésben meghatározott személy nyilatkozatának beszerzése késedelemmel járna, vagy felmerül annak a veszélye, hogy a beteg indokolt gyógykezelésében ellenérdekelt, kérheti az intézetbe történő ideiglenes felvételét akkor, ha a 199. § szerinti sürgősségi vagy 200. § szerinti kötelező gyógykezelés feltételei nem állnak fenn, de az intézeti gyógykezelés indokolt. Az ideiglenes felvétellel egyidejűleg az intézet haladéktalanul megkísérli a kapcsolatfelvételt a 16. § (1)–(2) bekezdésben meghatározott személlyel. Abban az esetben, ha ez sikertelen, vagy a 16. § (1)–(2) bekezdésben meghatározott személy nem járul hozzá a beteg indokolt gyógykezeléséhez, az intézet haladéktalanul értesíti a gyámhatóságot a beteg intézeti felvételéről és annak körülményeiről.
 
 (4) A (3) bekezdés esetében a felvétel akkor tekinthető véglegesnek, ha a 16. § (1)–(2) bekezdésben meghatározott személy a felvételhez megadja utólagos jóváhagyását, vagy a bíróság megállapítja a (3) bekezdés alapján történő gyógykezelés indokoltságát. A végleges felvételig elsősorban a beteg állapotromlásának megakadályozására kell törekedni.
 
@@ -2912,7 +2924,7 @@ van helye.
 
 (8) A (6)–(7) bekezdésekben meghatározott eljárás során, amennyiben a gyógykezelés nem indokolt, a bíróság elrendeli a beteg elbocsátását. Ebben az esetben a beteget a bíróság jogerős határozatának közlésétől számított 24 órán belül el kell bocsátani az intézetből. Az önkéntes gyógykezelés alapjául szolgáló beleegyező nyilatkozat, illetve kérelem érvénytelensége esetén – amennyiben annak az e törvényben meghatározott feltételei fennállnak – a bíróság elrendeli a beteg kötelező intézeti gyógykezelését.
 
-(9) A cselekvőképes beteget kérelmére, a cselekvőképtelen, illetve korlátozottan cselekvőképes beteget – a (3) bekezdésben foglalt eset kivételével – a gyógykezelésbe vételét kérő személy kérelmére az intézetből el kell bocsátani.
+(9) A cselekvőképes beteget kérelmére, a cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében az egészségügyi ellátással összefüggő jogok tekintetében részlegesen korlátozott beteget – a (3) bekezdésben foglalt eset kivételével – a gyógykezelésbe vételét kérő személy kérelmére az intézetből el kell bocsátani.
 
 (10) A (3) bekezdésben foglalt ideiglenes felvétel esetén annak (4) bekezdés szerinti véglegessé válásáig a beteget a saját vagy a 16. § (1)–(2) bekezdésben meghatározott személy kérelmére el kell bocsátani, kivéve ha az ideiglenes felvétellel egyidejűleg indult gyámhatósági eljárás eredményeként más intézkedés szükséges. A (4) bekezdés szerinti végleges felvételt követően a beteget a 16. § (1)–(2) bekezdésben meghatározott személy kérelmére el kell bocsátani, kivéve ha az ideiglenes felvétellel egyidejűleg indult gyámhatósági eljárás eredményeként más intézkedés szükséges.
 
@@ -3063,13 +3075,13 @@ van helye.
 
 (4) A fogvatartott csak a (2) bekezdés szerinti esetben lehet szerv-, illetve szövetdonor.
 
-(5) Csontvelő, illetve haemopoetikus őssejt vagy más regenerálódó szövet eltávolítására kivételesen korlátozottan cselekvőképes, illetve cselekvőképtelen személy testéből is sor kerülhet, az alábbi feltételek együttes fennállása esetén:
+(5) Csontvelő, illetve haemopoetikus őssejt vagy más regenerálódó szövet eltávolítására kivételesen korlátozottan cselekvőképes kiskorú, a cselekvőképességében az egészségügyi ellátással összefüggő jogok tekintetében részlegesen korlátozott, illetve cselekvőképtelen személy testéből is sor kerülhet, az alábbi feltételek együttes fennállása esetén:
 
 - a) nem áll rendelkezésre megfelelő cselekvőképes donor;
 - b) a recipiens a donor testvére;
 - c) az adományozás valószínűsíthetően életmentő a recipiens számára;
 - d) a törvényes képviselő beleegyezését a kórházi etikai bizottság jóváhagyta;
-- e) a kórházi etikai bizottság a d) pont szerinti döntésének meghozatala előtt a korlátozottan cselekvőképes, illetve cselekvőképtelen személyt – amennyiben azt egészségi állapota vagy életkora nem zárja ki – meghallgatta és meggyőződött arról, hogy a beavatkozásnak kényszertől, fenyegetéstől, megtévesztéstől mentesen veti alá magát.
+- e) a kórházi etikai bizottság a d) pont szerinti döntésének meghozatala előtt az érintett személyt – amennyiben azt egészségi állapota vagy életkora nem zárja ki – meghallgatta és meggyőződött arról, hogy a beavatkozásnak kényszertől, fenyegetéstől, megtévesztéstől mentesen veti alá magát.
 
 207. § (1) Szerv, illetve szövet adományozása kizárólag ellenérték nélkül történhet.
 
@@ -3103,7 +3115,7 @@ van helye.
 
 ### Szerv, szövet eltávolítása halottból
 
-211. § (1) Halottból szerv, illetve szövet eltávolítására átültetés céljából akkor kerülhet sor, ha az elhunyt életében ez ellen nem tett tiltakozó nyilatkozatot. Tiltakozó nyilatkozatot a cselekvőképes személy írásban (közokiratban vagy teljes bizonyító erejű magánokiratban) vagy – amennyiben írásbeli nyilatkozatot egyáltalán nem vagy csak jelentékeny nehézséggel tudna tenni – kezelőorvosánál szóban tehet. Korlátozottan cselekvőképes személy tiltakozó nyilatkozatot törvényes képviselőjének közreműködése nélkül is tehet. A cselekvőképtelen személy helyett tiltakozó nyilatkozatot törvényes képviselője tehet.
+211. § (1) Halottból szerv, illetve szövet eltávolítására átültetés céljából akkor kerülhet sor, ha az elhunyt életében ez ellen nem tett tiltakozó nyilatkozatot. Tiltakozó nyilatkozatot a cselekvőképes személy írásban (közokiratban vagy teljes bizonyító erejű magánokiratban) vagy – amennyiben írásbeli nyilatkozatot egyáltalán nem vagy csak jelentékeny nehézséggel tudna tenni – kezelőorvosánál szóban tehet. Korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok tekintetében részlegesen korlátozott személy tiltakozó nyilatkozatot törvényes képviselőjének közreműködése nélkül is tehet. A cselekvőképtelen személy helyett tiltakozó nyilatkozatot törvényes képviselője tehet.
 
 (2) A kezelőorvos a szerv, illetve szövet eltávolítására rendelkezésre álló időn belül köteles meggyőződni arról, hogy az elhunytnál maradt-e tiltakozó nyilatkozat.
 
@@ -3565,7 +3577,9 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 ### XVIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-244. § Az egészségügyi szolgáltatásokkal összefüggésben keletkezett kárigények tekintetében a szerződésszegéssel okozott károkért való felelősség polgári jogi szabályait kell megfelelően alkalmazni.
+244. § (1) Az egészségügyi szolgáltatás keretében végzett ellátás során okozott kárért és személyiségi jogsértésért az egészségügyi szolgáltató tartozik felelősséggel, illetve helytállással. Ha a törvény alapján az egészségügyi dolgozó a saját nevében és felelősségére nyújtott egészségügyi szolgáltatást, az egészségügyi szolgáltatásokkal összefüggésben okozott kárért és személyiségi jogsértésért az egészségügyi dolgozó tartozik felelősséggel, illetve helytállással.
+
+(2) Az egészségügyi szolgáltatásokkal összefüggésben keletkezett kárigényekre, illetve a személyiségi jogsértések esetén követelhető igényekre a Ptk.-nak a szerződésen kívül okozott kárért való felelősségre, valamint a személyiségi jogok megsértésének szankcióira vonatkozó szabályait kell megfelelően alkalmazni.
 
 244/A. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 113. § (4) bekezdésében foglaltakat akkor kell alkalmazni, ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét követően keletkezett. Amennyiben a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét megelőzően keletkezett, a működési nyilvántartást a nyilvántartott személy kérelmére a közfeladat ellátásának teljes idejével kell meghosszabbítani.
 

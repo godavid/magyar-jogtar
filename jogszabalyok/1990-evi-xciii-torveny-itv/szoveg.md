@@ -48,7 +48,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (4) Az eljárási illetékkötelezettség az eljárás megindítása iránti kérelem előterjesztésekor keletkezik.
 
-(5) A hatósági jóváhagyástól (engedélytől, hozzájárulástól, tudomásulvételtől) függő vagyonszerzési jogügylettel kapcsolatban az illetékkötelezettség a jóváhagyás — több hatósági jóváhagyás esetén az utolsó jóváhagyás — napján keletkezik. Ez irányadó akkor is, ha a szerződés érvényességéhez harmadik személy beleegyezése szükséges.
+(5) A hatósági jóváhagyástól (engedélytől, hozzájárulástól, tudomásulvételtől) függő vagyonszerzési jogügylettel kapcsolatban az illetékkötelezettség a jóváhagyás — több hatósági jóváhagyás esetén az utolsó jóváhagyás — napján keletkezik. Ez irányadó akkor is, ha a szerződés hatályosságához harmadik személy beleegyezése szükséges.
 
 (6) A felfüggesztő vagy bontó feltételtől, illetőleg a kezdő határidő bekövetkezésétől függő szerződés esetén a vagyonszerzési illetékkötelezettség a szerződés hatályának beálltakor keletkezik.
 
@@ -109,7 +109,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 9. § (1) Az öröklésről való ingyenes lemondás esetén illetéket nem kell fizetni. Ha az öröklésről történő lemondás ellenérték fejében történt, az ellenérték alapulvételével kell az ajándékozási illetéket megfizetni.
 
-(2) Nem kötelezhető öröklési illeték fizetésére az az örökös vagy hagyományos, aki az öröklés megnyílta után az örökséget, illetőleg hagyományt visszautasítja (Ptk. 674. §).
+(2) Nem kötelezhető öröklési illeték fizetésére az az örökös vagy hagyományos, aki az öröklés megnyílta után az örökséget, illetőleg hagyományt visszautasítja.
 
 ### Rendelkezés a megnyílt örökségről, hagyatéki osztályos egyezség
 
@@ -151,7 +151,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 13. § (1) Az örökség és az ajándék tiszta értéke a megszerzett vagyonnak a (2) bekezdésben foglaltak szerint csökkentett forgalmi értéke.
 
-(2) A tiszta érték kiszámításánál a megszerzett vagyon forgalmi értékéből le kell vonni a hagyatékot terhelő tartozást (Ptk. 677. §), illetőleg az ajándékot terhelő adósság és az egyéb teher értékének egy-egy örökösre, illetőleg megajándékozottra eső részét. A hagyatéki terhekhez kell számítani a hagyatéki eljárás során kirendelt gondnok és végrendeleti végrehajtó tiszteletdíját is. A vagyoni értékű jogból álló terheket a 72. § szerint kell számításba venni. Ilyen esetben az illeték alapját a 15. § (4) bekezdése szerint kell megállapítani.
+(2) A tiszta érték kiszámításánál a megszerzett vagyon forgalmi értékéből le kell vonni a hagyatékot terhelő tartozást, illetőleg az ajándékot terhelő adósság és az egyéb teher értékének egy-egy örökösre, illetőleg megajándékozottra eső részét. A hagyatéki terhekhez kell számítani a hagyatéki eljárás során kirendelt gondnok és végrendeleti végrehajtó tiszteletdíját is. A vagyoni értékű jogból álló terheket a 72. § szerint kell számításba venni. Ilyen esetben az illeték alapját a 15. § (4) bekezdése szerint kell megállapítani.
 
 (3) Azokat a hagyatéki terheket, amelyek a hagyatékba tartozó egyes illetékfizetési kötelezettség alá eső vagyontárgyakhoz kapcsolódnak, az adott vagyontárgy forgalmi értékéből kell levonni. Azokat a hagyatéki terheket pedig, melyek az örökség egészét terhelik, az örökös által megszerzett illetékfizetési kötelezettség alá eső és az illetékfizetési kötelezettség alá nem eső (belföldön lévő mentes és külföldön lévő, e törvény hatálya alá nem eső) vagyon arányában kell számításba venni.
 
@@ -232,7 +232,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követelés-elengedést és a tartozásátvállalást is – útján történő megszerzése;
 - o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elengedett követelés, ha a követelés elengedése – a pénzügyi intézmény által az adósnak kiadott igazolás szerint – az azonos helyzetben levők egyenlő elbánásának elve alapján történik, azzal, hogy a rendelkezés nem alkalmazható, ha az elengedés nem a személyi jövedelemadóról szóló törvény szerinti független felek között valósul meg;
 - p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), illetve házastársa által megszerzett ajándék;
-- q) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
+- q) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
 - r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény rendelkezése alapján elengedett követelés,
 - s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
 - t) az osztalékra vonatkozó követelés elengedése;
@@ -291,6 +291,14 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (2) Ha a kedvezményben részesülő vagyonszerző az (1) bekezdés szerinti 3 éves időtartam letelte előtt a kisvállalkozás működtetését a gazdasági tevékenységgel együtt járó üzleti kockázaton túlmutató elháríthatatlan külső ok hiányában megszünteti, vagy a kedvezményes illetékfizetés mellett megszerzett vagyoni betétje arányát csökkenti, az általa igénybe vett illetékalap-kedvezmény alapján élvezett illetékteher-csökkenés összegének kétszeresét köteles pótlólag megfizetni.
 
+### A bizalmi vagyonkezelés keretében történő vagyonszerzés illetékkötelezettsége
+
+17/D. § (1) Nem tárgya az ajándékozási illetéknek az állami adóhatósághoz bizalmi vagyonkezelőként bejelentett személynek, szervezetnek (a továbbiakban: vagyonkezelő) a Polgári Törvénykönyv szerinti bizalmi vagyonkezelési szerződés (a továbbiakban e § alkalmazásában: szerződés) alapján történő vagyonszerzése – ideértve a vagyonkezelői tisztségben való jogutódlás formájában történő vagyonszerzést is –, kivéve a vagyonkezelő kedvezményezettként történő vagyonszerzését.
+
+(2) A kezelt vagyon és annak hasznai kedvezményezett általi megszerzését az illetékkötelezettség vonatkozásában úgy kell tekinteni, mintha a kedvezményezett a kezelt vagyont és annak hasznait közvetlenül a vagyonrendelőtől szerezte volna. Ha a szerződést a vagyonrendelő és a kedvezményezett között, a szerződés megkötését megelőzően létrejött visszterhes jogviszonyra tekintettel kötötték, a kezelt vagyon és annak hasznai megszerzésekor a kedvezményezett e törvény visszterhes vagyonátruházási illetékre vonatkozó szabályai szerint köteles fizetni visszterhes vagyonátruházási illetéket.
+
+(3) Nem tárgya az ajándékozási illetéknek a kezelt vagyon és annak hasznai vagyonrendelő általi megszerzése, ideértve a vagyonrendelő kedvezményezettként történő vagyonszerzését is.
+
 ### III. Fejezet — A VISSZTERHES VAGYONÁTRUHÁZÁSI ILLETÉK
 
 ### Az illeték tárgya
@@ -306,7 +314,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - e) közterületen álló, ingatlannak nem minősülő felépítmény tulajdonjogának, vagyoni értékű jogának megszerzése;
 - f) az önálló orvosi tevékenység praxisjogának megszerzése;
 - g) az értékpapír öröklési szerződéssel való megszerzése;
-- h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére.
+- h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részesedés, átalakított befektetői részjegy) megszerzésére.
 
 (3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő haszonélvezet, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött haszonélvezet, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
 
@@ -467,7 +475,7 @@ megszerzése;
   - qc) az átruházó társaság legalább két üzletággal rendelkezik, melyek az átruházást megelőző két teljes, 12 hónapos adóévben önálló üzletágként működtek,
   - qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket.
 - r) – a (16) bekezdésben foglaltakra figyelemmel – az építésügyi szabályok és a településrendezési terv alapján sportcélú ingatlan létrehozására alkalmas beépítetlen földrészlet tulajdonjogának, vagyoni értékű jogának sporttevékenységet, annak szervezését, valamint a sporttevékenység feltételeinek megteremtését végző sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy sportszövetség általi megszerzése, ha a vagyonszerző az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül sportcélú ingatlant hoz létre és vállalja, hogy az így létrehozott sportcélú ingatlant az üzembe helyezéstől számított 15 évig nem idegeníti el és sport célra használja vagy hasznosítja. Amennyiben a vagyonszerző a fizetési meghagyás jogerőre emelkedéséig nyilatkozik arról, hogy a megszerzett földrészleten a sportcélú ingatlan létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportcélú ingatlannal beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel.
-- s) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves által gazdaságátadási támogatás igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
+- s) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves által gazdaságátadási támogatás igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
 - t) ingatlannak, valamint a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása. Ingatlan átruházása esetén az illetékmentesség akkor alkalmazható, ha az illetékkötelezettség keletkezése időpontjában a vagyonszerző főtevékenysége saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele;
 - u) a magánszemély lakásvásárlása, amennyiben az a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvényben meghatározott visszavásárlási jog érvényesítésével történik.
 - v) az egyéni cég egyszemélyes korlátolt felelősségű társasággá való átalakulása keretében történő vagyonszerzés;
@@ -779,6 +787,8 @@ származik.
 
 (8) A csődeljárás és a felszámolási eljárás során benyújtott kifogás, valamint a végrehajtási kifogás illetéke 15 000 forint. Ha a kifogás alapos, a bíróság a kifogásnak helyt adó döntésében hivatalból rendelkezik a kifogás illetékének a kifogást előterjesztő részére történő visszatérítéséről.
 
+(9) Az előzetes jognyilatkozatok nyilvántartásba való bejegyzésének illetéke 15 000 forint.
+
 ### A csőd- és felszámolási eljárás illetéke
 
 44. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában meghatározott és jogi személyiséggel rendelkező gazdálkodó szervezetek felszámolási eljárásának illetéke 80 000 forint, csődeljárásának illetéke 50 000 forint, jogi személyiséggel nem rendelkező gazdálkodó szervezet esetében pedig a felszámolási eljárás illetéke 30 000 forint, a csődeljárás illetéke 30 000 forint.
@@ -789,10 +799,10 @@ származik.
 
 45. § (1) A cégbejegyzésre irányuló eljárás illetéke:
 
-- a) nyilvánosan működő részvénytársaság, illetve az európai részvénytársaság esetében 600 000 forint,
+- a) európai részvénytársaság esetében 600 000 forint,
 - b) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetében 100 000 forint,
-- c) az a) és b) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
-- d) jogi személyiség nélküli gazdasági társaság esetén 50 000 forint,
+- c) közkereseti társaság, betéti társaság esetén 50 000 forint,
+- d) az a)–c) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
 - e) egyéni cég esetén 30 000 forint,
 - f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
 - g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
@@ -804,14 +814,16 @@ származik.
 (3) Az egyszerűsített eljárással történő cégbejegyzési kérelem illetéke:
 
 - a) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetén 50 000 Ft,
-- b) jogi személyiség nélküli gazdasági társaság esetén 25 000 forint,
+- b) közkereseti társaság, betéti társaság esetén 25 000 forint,
 - c) egyéni cég esetén 15 000 forint, azzal, hogy amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
 
 (3a) A jogutód nélkül megszűnt gazdálkodó szervezet vagyontárgyára vonatkozóan jognak vagy ténynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 83/A. §-a, 83/C. §-a szerinti törlésére irányuló bírósági nemperes eljárás illetéke 10 000 forint.
 
 (3b) Az e §-ban nem említett egyéb cégbírósági eljárás illetéke 15 000 Ft.
 
-(4) Az átalakulás, minősített többséget biztosító befolyás létrejötte, valamint az elismert vállalatcsoportként való működés, illetve a nyilvánosan működő részvénytársaság cégadataira vonatkozó változás bejegyzése iránti kérelem illetéke 50 000 Ft. Ez az illeték magában foglalja az átalakulással, minősített többségi befolyás létrejöttével, valamint az elismert vállalatcsoportként való működés bejegyzésével egyidejűleg bejelentett más változásokért fizetendő illetéket is.
+(4) Az átalakulás, egyesülés, szétválás, minősített többséget biztosító befolyás létrejötte, valamint az elismert vállalatcsoportként való működés, illetve a nyilvánosan működő részvénytársaság cégadataira vonatkozó változás bejegyzése iránti kérelem illetéke 50 000 Ft. Ez az illeték magában foglalja az átalakulással, egyesüléssel, szétválással, minősített többségi befolyás létrejöttével, valamint az elismert vállalatcsoportként való működés bejegyzésével egyidejűleg bejelentett más változásokért fizetendő illetéket is.
+
+(4a) Zártkörűen működő részvénytársaság nyilvánosan működő részvénytársasággá történő alakulása esetén a változás bejegyzése iránti kérelem illetéke 500 000 Ft, amely magában foglalja az egyidejűleg bejelentett más változásokért fizetendő illetéket is.
 
 (5) A cég vagyonában bekövetkezett változás bejelentése iránti eljárásért az (1) bekezdésben meghatározott illeték 40%-át kell megfizetni. Ez az illeték magában foglalja az egyidejűleg bejelentett más változásokért fizetendő illetéket is.
 
@@ -1181,7 +1193,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 (4) A választottbírósági eljárásban az illetéket a megállapított költségekkel együtt kell megfizetni és azt az eljárás befejezésekor az eljárt választottbíróság utalja át az állami adóhatóságnak.
 
-(5) A Nemzeti Adó- és Vámhivatal gazdálkodó szervezet székhelye szerint illetékes megyei (fővárosi) adóigazgatósága – kérelemre – az általános szabályoktól eltérően a bírósági eljárási illeték utólagos elszámolással történő megfizetését engedélyezheti annak a gazdálkodó szervezetnek [Ptk. 685. § c) pont], amely a kérelem benyújtását megelőző 12 hónapban valamennyi általa kezdeményezett bírósági (peres és nemperes) eljárás megjelölésével és az azokhoz kapcsolódóan megfizetett bírósági eljárási illeték feltüntetésével nyilatkozik arról, hogy az érintett időszakban legalább 250 bírósági eljárást kezdeményezett. Utólagos elszámolás esetén a gazdálkodó szervezet mentesül az eljárás kezdeményezésekor a bírósági eljárási illeték megfizetése alól.
+(5) A Nemzeti Adó- és Vámhivatal gazdálkodó szervezet székhelye szerint illetékes megyei (fővárosi) adóigazgatósága – kérelemre – az általános szabályoktól eltérően a bírósági eljárási illeték utólagos elszámolással történő megfizetését engedélyezheti annak a gazdálkodó szervezetnek, amely a kérelem benyújtását megelőző 12 hónapban valamennyi általa kezdeményezett bírósági (peres és nemperes) eljárás megjelölésével és az azokhoz kapcsolódóan megfizetett bírósági eljárási illeték feltüntetésével nyilatkozik arról, hogy az érintett időszakban legalább 250 bírósági eljárást kezdeményezett. Utólagos elszámolás esetén a gazdálkodó szervezet mentesül az eljárás kezdeményezésekor a bírósági eljárási illeték megfizetése alól.
 
 (6) Az engedély egy évre szól, meghosszabbítását a Nemzeti Adó- és Vámhivatal gazdálkodó szervezet székhelye szerint illetékes megyei (fővárosi) adóigazgatósága engedélyezi, amennyiben azt a gazdálkodó szervezet legkésőbb az engedély lejártát megelőző 60. napon kéri és nyilatkozik arról, hogy a meghosszabbítás iránti kérelem előterjesztését megelőző 12 hónapban az engedély kiadására meghatározott feltételek teljesültek.
 
@@ -1480,7 +1492,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
   - ed) a belföldi ingatlanvagyonnal rendelkező társaság esetén a társaság ingatlanvagyonának forgalmi értéke a társaság tulajdonában lévő ingatlanok forgalmi értéke, növelve a társaság közvetett vagy közvetlen 75%-os tulajdonában álló gazdálkodó szervezetek tulajdonában álló ingatlanok forgalmi értékének olyan arányával, mint amekkora arányt az o) pontban foglaltak alapján a társaság közvetett vagy közvetlen részesedése a gazdálkodó szervezet összes vagyoni betétjéhez képest képvisel;
 - f) lakástulajdon: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel. Lakásnak minősül az építési engedély szerint lakóház céljára létesülő építmény is, amennyiben annak készültségi foka a szerkezetkész állapotot (elkészült és ráépített tetőszerkezet) eléri. Ha az ingatlan-nyilvántartásban tanyaként feltüntetett földrészleten lakóház van, az épületet – a hozzá tartozó kivett területtel együtt – lakástulajdonnak kell tekinteni. Nem minősül lakástulajdonnak a lakóépülethez tartozó földrészleten létesített, a lakás rendeltetésszerű használatához nem szükséges helyiség még akkor sem, ha az a lakóépülettel egybeépült (garázs, műhely, üzlet, gazdasági épület stb.), továbbá az ingatlan-nyilvántartásban lakóházként (lakásként) nyilvántartott olyan épület, amelyet az illetékkötelezettség keletkezését megelőzően már legalább 5 éve más célra hasznosítanak;
 - g) értékpapírnak olyan okirat vagy – jogszabályban megjelölt – más módon rögzített, nyilvántartott és továbbított adat tekinthető, amely jogszabályban meghatározott kellékekkel rendelkezik és kiállítását (kibocsátását), illetve ebben a formában történő megjelenítését jogszabály lehetővé teszi;
-- h)
+- h) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
 - i) gépjármű: az olyan közúti szállító- vagy vontatóeszköz – a mezőgazdasági vontató, az önjáró vagy vontatott munkagép, a lassú jármű és a segédmotoros kerékpár kivételével –, amelyet beépített erőgép hajt és nyilvántartásba vételét jogszabály írja elő;
 - j) pótkocsi: az i) pont szerinti gépjárművel történő vontatásra készült jármű, teher- és sátras utánfutó, félpótkocsi, valamint lakópótkocsi, melynek a közlekedésben való részvételét — külön jogszabály — hatósági nyilvántartásba vételhez köti;
 - k) sportcélú ingatlan: az ingatlan-nyilvántartási bejegyzés szerint sporttelep, sportpálya, uszoda, stadion, sportcsarnok, jégpálya, jégcsarnok, tornaterem, tornaszoba, tornaudvar, vízi-sporttelep – vagy a széljegy szerint ilyenként feltüntetésre váró ingatlan, ingatlanrész, feltéve, ha az az ingatlan-nyilvántartási eljárás, melynek megindítását a széljegy tanúsítja, bejegyzéssel zárul –, ide nem értve a földrészleten létesített, de a sporttevékenység végzéséhez vagy az e célt szolgáló létesítmény fenntartásához közvetlenül nem szükséges ingatlanrészt (szálloda, irodaház, bevásárlóközpont és az építési szabályok szerint ezekhez kialakított parkolóhelyek stb.), akkor is, ha az a sportcélú ingatlannal egybeépült, vagy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
@@ -1498,8 +1510,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 - s) lakóépület: kizárólag vagy túlnyomó részben lakást tartalmazó épület;
 - sz) kisvállalkozás: az az egyéni cég, illetve gazdasági társaság, amelynél az éves összes foglalkoztatott létszám az 50 főt nem éri el és éves nettó árbevétele legfeljebb 700 millió forint. Az éves foglalkoztatottak létszámát az egyes foglalkoztatottak munkaviszonyának kezdetétől annak megszűnéséig eltelt naptári napok összegezésével, majd az így kapott összeg 365-tel történő elosztásával, tört hányados esetén lefelé kerekítve kell meghatározni;
 - t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog.
-- v) alapítvány (közalapítvány): magánszemély, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes törvényszék által nyilvántartásba vett szervezet;
-- w) közigazgatási hatósági eljárás: a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hatósági ügy, a Polgári Törvénykönyvről szóló törvény szerinti eredeti birtokállapot helyreállítására vagy a birtokállapot zavarásának megszüntetésére irányuló eljárás, valamint minden olyan eljárás, amelyre a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései irányadók, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés.
+- v) alapítvány (közalapítvány): magánszemély, jogi személy által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes törvényszék által nyilvántartásba vett szervezet;
+- w) közigazgatási hatósági eljárás: a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hatósági ügy, a Polgári Törvénykönyv szerinti eredeti birtokállapot helyreállítására vagy a birtokállapot zavarásának megszüntetésére irányuló eljárás, valamint minden olyan eljárás, amelyre a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései irányadók, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés.
 - z) cég: a cégnyilvánosságról, a bírósági eljárásról és a végelszámolásról szóló 2006. évi V. törvény 2. §-ában meghatározott jogalany.
 
 (2) A 2. § (1) bekezdésében megjelölt Magyarországon élő nem magyar állampolgárnak azt kell tekinteni, aki
@@ -1512,7 +1524,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (4) A 26. § (1) bekezdésének f) pontja alkalmazásában új lakásnak minősül a lakástulajdon a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követő első – illetve, ha a lakást a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követően a vállalkozótól a 23/A. § (1), (2) és (4) bekezdésében meghatározott ingatlanforgalmazó vásárolja meg akkor második – megvásárlásáig.
 
-(5) A 26. § (1) bekezdés f) pontjának alkalmazásában vállalkozónak kell tekinteni a Ptk. szerinti gazdálkodó szervezetet, illetve a vállalkozói tevékenység végzésére jogosult egyéb szervezetet.
+(5) A 26. § (1) bekezdés f) pontjának alkalmazásában vállalkozónak kell tekinteni a gazdálkodó szervezetet, illetve a vállalkozói tevékenység végzésére jogosult egyéb szervezetet.
 
 103. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

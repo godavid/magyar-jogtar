@@ -18,22 +18,22 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 
 (3) A törvény hatálya nem terjed ki az egyéni vállalkozóra, a polgári jogi társaságra, az építőközösségre, továbbá a külföldi székhelyű vállalkozás magyarországi kereskedelmi képviseletére.
 
-2/A. § (1) E törvény hatálya nem terjed ki arra a jogi személyiség nélküli gazdasági társaságra (közkereseti társaság, betéti társaság) és egyéni cégre, amely az üzleti évben (az adóévben) nyilvántartásait az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény előírásai szerint vezeti.
+2/A. § (1) E törvény hatálya nem terjed ki arra a közkereseti társaságra, betéti társaságra és egyéni cégre, amely az üzleti évben (az adóévben) nyilvántartásait az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény előírásai szerint vezeti.
 
-(2) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben előírt feltételeknek meg nem felelő, (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaság, valamint egyéni cég attól a naptól köteles e törvény előírásait alkalmazni, amely naptól nem tartozik az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá.
+(2) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben előírt feltételeknek meg nem felelő, (1) bekezdés szerinti közkereseti társaság, betéti társaság, valamint egyéni cég attól a naptól köteles e törvény előírásait alkalmazni, amely naptól nem tartozik az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá.
 
-(3) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaságra, valamint egyéni cégre a jogelőd nélkül alapított vállalkozókra vonatkozó előírásokat kell megfelelően alkalmazni.
+(3) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságra, betéti társaságra, valamint egyéni cégre a jogelőd nélkül alapított vállalkozókra vonatkozó előírásokat kell megfelelően alkalmazni.
 
-(4) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaságnak, valamint egyéni cégnek – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval kell ellenőriztetni.
+(4) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságnak, betéti társaságnak, valamint egyéni cégnek – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval kell ellenőriztetni.
 
-(5) A törvény hatálya alá tartozó jogi személyiség nélküli gazdasági társaság, valamint egyéni cég beszámolójának kiegészítő mellékletében – az (1)–(4) bekezdés előírásaival összefüggésben – utalni kell arra, ha számviteli (nyilvántartási) kötelezettségei tekintetében a vállalkozó az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá a következő üzleti évtől átjelentkezett, vagy ha e törvény hatálya alá – az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól – átkerülve (visszatérve) először készít beszámolót.
+(5) A törvény hatálya alá tartozó közkereseti társaság, betéti társaság, valamint egyéni cég beszámolójának kiegészítő mellékletében – az (1)–(4) bekezdés előírásaival összefüggésben – utalni kell arra, ha számviteli (nyilvántartási) kötelezettségei tekintetében a vállalkozó az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá a következő üzleti évtől átjelentkezett, vagy ha e törvény hatálya alá – az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól – átkerülve (visszatérve) először készít beszámolót.
 
 ### Értelmező rendelkezések, fogalmak
 
 3. § (1) E törvény alkalmazásában
 
 - 1. gazdálkodó: a vállalkozó, az államháztartás szervezetei, az egyéb szervezet, a Magyar Nemzeti Bank, továbbá az általuk, illetve a természetes személy által alapított egészségügyi, szociális és oktatási intézmény;
-- 2. vállalkozó: minden olyan gazdálkodó, amely a saját nevében és kockázatára nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében termelő vagy szolgáltató tevékenységet (a továbbiakban: vállalkozási tevékenység) végez, ideértve a hitelintézetet, a pénzügyi vállalkozást, a befektetési vállalkozást és a biztosítót is, továbbá a nonprofit gazdasági társaság, az egyesülés, a szociális szövetkezet, az iskolaszövetkezet, az európai gazdasági egyesülés, az európai részvénytársaság, az európai szövetkezet, a vízitársulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, amennyiben nem tartozik a 3. és 4. pontban felsoroltak közé;
+- 2. vállalkozó: minden olyan gazdálkodó, amely a saját nevében és kockázatára nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében termelő vagy szolgáltató tevékenységet (a továbbiakban: vállalkozási tevékenység) végez, ideértve a hitelintézetet, a pénzügyi vállalkozást, a befektetési vállalkozást és a biztosítót is, továbbá a nonprofit gazdasági társaság, az egyesülés, a szociális szövetkezet, az iskolaszövetkezet, az európai gazdasági egyesülés, az európai részvénytársaság, az európai szövetkezet, a vízitársulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a kezelt vagyon, amennyiben nem tartozik a 3. és 4. pontban felsoroltak közé;
 - 3. államháztartás szervezetei: az államháztartásról szóló törvény alapján az államháztartás központi és önkormányzati alrendszerébe tartozó szervek;
 - 4. egyéb szervezet:
   - a) a lakásszövetkezet,
@@ -111,14 +111,14 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - b) cégvásárlás esetén (amikor az adott társaság részvényeit a vevő úgy szerzi meg, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit a tőzsdén jegyzik, illetve forgalmazzák): az adott társaság megszerzett részvényeiért fizetett ellenérték lényegesen kevesebb, mint a megvásárolt részvények piaci értéke, a különbözet a negatív üzleti vagy cégérték,
   - c) cégvásárlás esetén (amikor az adott társaság részvényeit, üzletrészeit, vagyoni betéteit a vevő úgy szerzi meg, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit, üzletrészeit, vagyoni betéteit a tőzsdén nem jegyzik, nem forgalmazzák): az adott társaság megszerzett részvényeiért, üzletrészeiért, vagyoni betéteiért fizetett ellenérték lényegesen kevesebb, mint az ezen befektetésre jutó – az adott társaság eszközei és kötelezettségei piaci értékének figyelembevételével meghatározott (számított) – saját tőke értéke, a kettő közötti negatív különbözet;
   - d)
-- 3. többségi befolyás, minősített többséget biztosító befolyás: a gazdasági társaságokról szóló törvényben meghatározott fogalom;
+- 3. többségi befolyás, minősített többséget biztosító befolyás: a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben meghatározott fogalom;
 - 4. létesítő okirat: a gazdálkodó alapításához szükséges jogszabályban előírt okirat, ide tartozik különösen: a társasági szerződés, az alapító okirat, az alapszabály, az egyéb módon nevezett – a tulajdonosok közötti – megállapodás.
 
 (6) E törvény alkalmazásában
 
 - 1. mérlegkészítés időpontja: a mérleg egyes tételeihez kapcsolódóan meghatározott azon – az üzleti év mérlegfordulónapját követő – időpont, amely időpontig a megbízható és valós vagyoni helyzet bemutatásához szükséges értékelési feladatokat el lehet és el kell végezni;
 - 2. hitelviszonyt megtestesítő értékpapír: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó (adós) meghatározott pénzösszeg rendelkezésére bocsátását elismerve arra kötelezi magát, hogy a pénz (kölcsön) összegét, valamint annak meghatározott módon számított kamatát vagy egyéb hozamát, és az általa esetleg vállalt egyéb szolgáltatásokat az értékpapír birtokosának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetve teljesíti. Ide tartozik különösen: a kötvény, a kincstárjegy, a letéti jegy, a pénztárjegy, a célrészjegy, a takaréklevél, a jelzáloglevél, a hajóraklevél, a közraktárjegy, az árujegy, a zálogjegy, a kárpótlási jegy, a határozott idejű befektetési alap által kibocsátott befektetési jegy;
-- 3. tulajdoni részesedést jelentő befektetés: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzértékben meghatározott nem pénzbeli vagyoni érték tulajdonba- vagy használatbavételét elismerve arra kötelezi magát, hogy ezen értékpapír, okirat birtokosának meghatározott vagyoni és egyéb jogokat biztosít. Ide tartozik különösen: a részvény, az üzletrész, a részjegy, a vagyonjegy, a vagyoni betét, a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy, a kockázati tőkejegy, a kockázati tőkerészvény;
+- 3. tulajdoni részesedést jelentő befektetés: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzértékben meghatározott nem pénzbeli vagyoni érték tulajdonba- vagy használatbavételét elismerve arra kötelezi magát, hogy ezen értékpapír, okirat birtokosának meghatározott vagyoni és egyéb jogokat biztosít. Ide tartozik különösen: a részvény, az üzletrész, a szövetkezeti részesedés, a vagyonjegy, a vagyoni betét, a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy, a kockázati tőkejegy, a kockázati tőkerészvény;
 - 4. diszkont értékpapír: olyan hitelviszonyt megtestesítő, nem kamatozó értékpapír, amelyet névérték alatt bocsátottak ki, és a lejáratkor névértéken váltanak be;
 - 5. vásárolt készletek: az anyagok [alap-, segéd-, üzem- és fűtőanyag, alkatrészek, a 28. § (3) bekezdésének a) pontja szerinti eszközök], az áruk (kereskedelmi készletek, betétdíjas göngyölegek, a közvetített szolgáltatások), a készletre adott előlegek;
 - 6. saját termelésű készletek: a befejezetlen termelés, a félkész termékek, a késztermékek, a növendék-, hízó- és egyéb állatok;
@@ -149,7 +149,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - a) valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben legalább az egyik fél hitelintézet, és amelyben a penzió átvevője kötelezi magát, hogy a pénzügyi eszközöket egy meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja, továbbá a penzióba adó szerződéses kikötésekkel a pénzügyi eszközök feletti ellenőrzési jogokat (rendelkezési jog az eszköz tovább értékesítéséről, fedezetként való felhasználásáról, kölcsönbeadásáról, valamint a hasznok szedésére vonatkozó jog) fenntartja. A valódi penziós ügylet kölcsönügyletként kerül elszámolásra, az ügylet tárgyát képező eszköz a penzióba adó könyveiben marad, az eladási és a visszavásárlási ár különbözete kamatnak minősül.
   - b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben a felek megállapodásától függően, a penzió átvevője saját döntése (jogosultsága) alapján egy előre rögzített időpontban (időpontig), vagy az általa megállapított későbbi időpontban vagy egy, a későbbiekben bekövetkező feltétel beállta esetén, annak időpontjában az eladási áron, vagy a felek által meghatározott más áron visszaadja, a penzióba adó pedig visszaveszi a penzió tárgyát. Nem valódi penziós ügyletnek minősül az is, ha a penzió átvevője kötelezi magát, hogy a penzió tárgyát egy előre meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja és a penzióba adó a penzió tárgya feletti ellenőrzési jogokat szerződéses kitételekkel nem tartja fenn. A nem valódi penziós ügylet a pénzügyi eszközök adásvételére vonatkozó általános szabályok szerint kerül elszámolásra.
 - 12. elektronikus pénz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
-- 13. pénzügyi lízing: olyan szerződés alapján valósul meg, amely szerződés értelmében a lízingbeadó a lízingbevevő igényei szerint beszerzett és a lízingbeadó tulajdonát képező eszközt lízingdíj ellenében, a szerződésben rögzített időtartamra a lízingbevevő használatába, birtokába adja azzal, hogy a lízingbevevőt terheli a használatból következően minden költség és kockázat, a lízingbevevő jogosult a hasznok szedésére, a szerződés időtartamának végén a lízingelt eszköz tulajdonjogát a lízingbevevő vagy az általa megjelölt megszerzi (vagy megszerezheti), a maradványérték megfizetésével vagy anélkül, illetve a lízingbevevőt elővételi jog illeti meg, a lízingbevevő azonban ezen jogairól a szerződés megszűnése előtt le is mondhat;
+- 13. pénzügyi lízing: a Polgári Törvénykönyv szerinti pénzügyi lízingszerződés alapján létrejött ügylet;
 - 14. függő kötelezettség: az olyan – általában – harmadik személlyel szemben vállalt kötelezettség, amely a mérleg fordulónapján fennáll, de mérlegtételkénti szerepeltetése jövőbeni eseménytől függ. A függő kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó függő kötelezettségek. A pénzeszközre vonatkozó függő kötelezettségek közé tartoznak különösen: a kezességvállalási, a garanciavállalási, a váltókezesi kötelezettség, az opciós ügyletekkel, a nem valódi penziós ügyletekkel, a le nem zárt peres ügyekkel kapcsolatban várható kötelezettségek. Az egyéb eszközre vonatkozó kötelezettségek közé tartoznak különösen a fedezetként, biztosítékként, óvadékként felajánlott (szolgáló) vagyontárgyak és az opciós ügylet miatti egyéb eszköz átadására vonatkozó kötelezettségek;
 - 15. biztos (jövőbeni) kötelezettség: az olyan visszavonhatatlan kötelezettség, amely a mérleg fordulónapján már fennáll, de a szerződés teljesítése még nem történt meg, ezért mérlegtételként nem szerepeltethető. A biztos (jövőbeni) kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó biztos (jövőbeni) kötelezettségek. Idetartoznak különösen: a határidős adásvételi ügyletek, a swap ügyletek határidős része miatti pénzeszköz vagy egyéb eszköz átadására vonatkozó kötelezettségek. Nem tartoznak ide az üzleti tevékenységgel kapcsolatos, folyamatosan felmerülő költségek;
 - 16. mérlegen kívüli tétel: olyan, szerződés alapján fennálló mérlegen kívüli [függő vagy biztos (jövőbeni)] kötelezettség, illetve követelés, amely pénzeszköz vagy egyéb eszköz átadására, illetve átvételére vonatkozik, a mérleg fordulónapján már fennáll, de mérlegtételkénti szerepeltetése egy jövőbeni esemény bekövetkezésétől vagy a szerződés teljesítésétől függ;
@@ -213,6 +213,13 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 - 3. elutasító záradék: az 1. pont szerint kibocsátott független könyvvizsgálói jelentésben szereplő ellenvélemény;
 - 4. záradék megadásának elutasítása: az 1. pont szerint kibocsátott független könyvvizsgálói jelentésben a véleménynyilvánítás visszautasítása.
 
+(14) E törvény alkalmazásában:
+
+- 1. kezelt vagyon: a Polgári Törvénykönyvről szóló törvény bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerinti kezelt vagyon (szerződésenként külön-külön);
+- 2. vagyonrendelő: az a személy, amely a Polgári Törvénykönyvről szóló törvény bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonrendelőnek minősül;
+- 3. bizalmi vagyonkezelő: az a személy, amely a Polgári Törvénykönyvről szóló törvény bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonkezelőnek minősül;
+- 4. bizalmi vagyonkezelés: a Polgári Törvénykönyvről szóló törvény szerinti bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelő által végzett tevékenység.
+
 ### II. Fejezet — BESZÁMOLÁS ÉS KÖNYVVEZETÉS
 
 ### Beszámolási kötelezettség
@@ -242,6 +249,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 7. § Az 5. § és a 6. § szerinti kormányrendelet az e törvényben meghatározott szabályoktól eltérő rendelkezéseket állapíthat meg. E törvény kormányrendeletben meghatározott eltéréssel nem érintett rendelkezéseit – a kormányrendeletben meghatározott sajátosságokon túlmenően – az 5. §-ban és a 6. §-ban meghatározott szervezeteknél is alkalmazni kell.
 
 7/A. § A külföldi székhelyű vállalkozás magyarországi fióktelepe alapítására, működésére és megszűnésére – ha e törvény, illetve más jogszabály eltérően nem rendelkezik – e törvény vállalkozóra vonatkozó szabályait kell megfelelően alkalmazni.
+
+7/B. § A kezelt vagyonra e törvény vállalkozóra vonatkozó szabályait kell megfelelően alkalmazni azzal, hogy a kezelt vagyon beszámolási és könyvvezetési kötelezettségét a bizalmi vagyonkezelő – kezelt vagyononként elkülönítve – teljesíti.
 
 8. § (1) A beszámoló formája az éves nettó árbevétel nagyságától, a mérleg főösszegétől, a foglalkoztatottak létszámától, mindezek határértékeitől függ.
 
@@ -319,7 +328,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (8) Üzleti év az átalakulással létrejövő új vállalkozónál az átalakulás napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
 
-(9) A beszámolóban rögzített adatoknál forintról devizára, devizáról forintra, illetve devizáról más devizára való áttéréskor, továbbá a gazdasági társaságokról szóló törvényben nem szabályozott átalakulásnál az üzleti év az (5)–(8) bekezdésnek megfelelően határozható meg azzal, hogy – értelemszerűen – a mérlegfordulónap az áttérés, az átalakulás napja.
+(9) A beszámolóban rögzített adatoknál forintról devizára, devizáról forintra, illetve devizáról más devizára való áttéréskor, továbbá a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben nem szabályozott átalakulásnál az üzleti év az (5)–(8) bekezdésnek megfelelően határozható meg azzal, hogy – értelemszerűen – a mérlegfordulónap az áttérés, az átalakulás napja.
 
 (10) Üzleti év a vállalkozó felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, a végelszámolás, illetve kényszertörlési eljárása kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év a felszámolási, a végelszámolási eljárás befejezésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
 
@@ -529,7 +538,7 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (9) A tárgyi eszközök értékhelyesbítéseként csak a (2)–(6) bekezdésben nevesített eszközök – könyv szerinti értéket meghaladó – piaci értéke és könyv szerinti értéke (a bekerülési értéknek a terv szerinti értékcsökkenés elszámolt összegével csökkentett értéke) közötti különbözet mutatható ki.
 
-27. § (1) A befektetett pénzügyi eszközök között a mérlegben azokat az eszközöket (részesedés, értékpapír, adott kölcsön) kell kimutatni, amelyeket a vállalkozó azzal a céllal fektetett be más vállalkozónál, adott át más vállalkozónak, hogy ott tartós jövedelemre (osztalékra, illetve kamatra) tegyen szert, vagy befolyásolási, irányítási, ellenőrzési lehetőséget érjen el. A befektetett pénzügyi eszközök értékhelyesbítését szintén a befektetett pénzügyi eszközök között kell a mérlegben kimutatni.
+27. § (1) A befektetett pénzügyi eszközök között a mérlegben azokat az eszközöket (részesedés, értékpapír, adott kölcsön) kell kimutatni, amelyeket a vállalkozó azzal a céllal fektetett be más vállalkozónál, adott át más vállalkozónak, hogy ott tartós jövedelemre (osztalékra, illetve kamatra) tegyen szert, vagy befolyásolási, irányítási, ellenőrzési lehetőséget érjen el. A kezelt vagyonra szóló tartós követelést, valamint a befektetett pénzügyi eszközök értékhelyesbítését szintén a befektetett pénzügyi eszközök között kell a mérlegben kimutatni.
 
 (2) Tartós részesedés kapcsolt vállalkozásban mérlegtételként a 3. § (2) bekezdésének 7. pontja szerinti vállalkozásban lévő tulajdoni részesedést jelentő, tartósan befolyásolási, irányítási, ellenőrzési lehetőséget biztosító befektetéseket (részvényeket, üzletrészeket, vagyoni betéteket) kell kimutatni.
 
@@ -544,6 +553,8 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 (7) Tartós hitelviszonyt megtestesítő értékpapírként azokat a befektetési céllal beszerzett értékpapírokat kell kimutatni, amelyek lejárata, beváltása a tárgyévet követő üzleti évben még nem esedékes, és a vállalkozó azokat a tárgyévet követő üzleti évben nem szándékozik értékesíteni.
 
 (8) Befektetett pénzügyi eszközök értékhelyesbítéseként a részesedések – bekerülési értéket meghaladó – piaci értéke és bekerülési értéke közötti különbözet mutatható ki.
+
+(9) A kezelt vagyonra szóló tartós követelést a vagyonrendelőnél tartósan adott kölcsönként kell kimutatni a mérlegben.
 
 28. § (1) A forgóeszközök csoportjába a mérlegben a készleteket, a vállalkozó tevékenységét nem tartósan szolgáló követeléseket, hitelviszonyt megtestesítő értékpapírokat, tulajdoni részesedést jelentő befektetéseket, pénzeszközöket kell besorolni.
 
@@ -590,7 +601,7 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (5) A forgatási célú hitelviszonyt megtestesítő értékpapírok között azokat az értékpapírokat kell kimutatni, amelyeket forgatási célból, kamatbevétel, illetve árfolyamnyereség elérése érdekében szereztek be, továbbá azokat, amelyek a tárgyévet követő üzleti évben lejárnak.
 
-(6) E törvény alkalmazásában a saját részvényekkel, saját üzletrészekkel esik egy tekintet alá a visszavásárolt (megszerzett) szövetkezeti részjegy (ideértve a befektetői részjegyet és az átalakított befektetői részjegyet is). A visszavásárolt (megszerzett) szövetkezeti részjegyre e törvény saját részvényre, saját üzletrészre vonatkozó szabályait kell megfelelően alkalmazni.
+(6) E törvény alkalmazásában a saját részvényekkel, saját üzletrészekkel esik egy tekintet alá a visszavásárolt (megszerzett) szövetkezeti részesedés (ideértve az átalakított befektetői részjegyet is). A visszavásárolt (megszerzett) szövetkezeti részesedésre e törvény saját részvényre, saját üzletrészre vonatkozó szabályait kell megfelelően alkalmazni.
 
 31. § A pénzeszközök a készpénzt, az elektronikus pénzt és a csekkeket, továbbá a bankbetéteket foglalják magukban.
 
@@ -757,6 +768,29 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 (3) Ha a legutolsó beszámolóval lezárt üzleti év mérlege, illetve a – 21. § szerinti – közbenső mérleg a külön jogszabályban meghatározott időtartamon belül több kifizetés, ügylet alátámasztására is szolgál, a feltételek vizsgálata során azokat együttesen (egybe számítva) kell figyelembe venni.
 
 (4) Átváltoztatható és átváltozó kötvény részvénnyé történő átalakítása során a jegyzett tőke (alaptőke) emelését a kötvénykibocsátás miatti kötelezettség terhére kell végrehajtani az alapító okirat, az alapszabály előírásainak (módosításának) megfelelően, a cégjegyzékbe történt bejegyzés időpontjával.
+
+40/A. § (1) Kezelt vagyonnál a saját tőke az induló tőkéből, a tartalékból, a lekötött tartalékból, az értékelési tartalékból és a tárgyév mérleg szerinti eredményéből tevődik össze.
+
+(2) Az induló tőke a bizalmi vagyonkezelés során a vagyonrendelő által a bizalmi vagyonkezelő rendelkezésére bocsátott eszközök 50. § (9) bekezdése szerinti értéke, csökkentve azt a bizalmi vagyonkezelés során kiadott vagyon összegével.
+
+(3) A tartalék növekedéseként kell kimutatni:
+
+- a) a kezelt vagyon előző üzleti évi mérleg szerinti eredményét (nyereségét), ide értve az ellenőrzés előző üzleti év(ek) mérleg szerinti eredményét növelő módosítását (nyereségét) is;
+- b) a tartalékba a lekötött tartalékból visszavezetett összeget a lekötés feloldása alapján.
+
+(4) A tartalék csökkenéseként kell kimutatni:
+
+- a) a kezelt vagyon előző üzleti évi mérleg szerinti eredményét (veszteségét), ide értve az ellenőrzés előző üzleti év(ek) mérleg szerinti eredményét csökkentő módosítását (veszteségét) is;
+- b) a tartalék lekötött tartalékba átvezetett összegét;
+- c) a bizalmi vagyonkezelés során teljesített hozamkifizetés összegét.
+
+(5) A tartalékból kell lekötni, és a lekötött tartalékba átvezetni a 38. § (3) bekezdés c), d), g) pontja szerinti összegeket. A lekötött tartalék feloldását a tartalékkal szemben kell elszámolni.
+
+(6) Értékelési tartalékként a 39. § (1) bekezdése szerinti összegeket lehet kimutatni.
+
+(7) Bizalmi vagyonkezelés során a tárgyévi adózott eredményből, illetve a tartalékkal kiegészített tárgyévi adózott eredményből akkor teljesíthető hozamkifizetés, ha a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összege a hozamkifizetés után sem csökken az induló tőke összege alá.
+
+(8) Bizalmi vagyonkezelés során vagyonkiadásra csak az induló tőke (negatív tartalék, illetve tárgyévi mérleg szerinti veszteség esetén a tartalékkal, illetve a tárgyévi mérleg szerinti veszteséggel csökkentett induló tőke) összegéig kerülhet sor. Évközi vagyonkiadásnál a kiadható vagyon megállapításánál a közbenső mérlegben kimutatott negatív adózott eredményt is figyelembe kell venni.
 
 41. § (1) Az adózás előtti eredmény terhére céltartalékot kell képezni – a szükséges mértékben – azokra a múltbeli, illetve a folyamatban lévő ügyletekből, szerződésekből származó, harmadik felekkel szembeni fizetési kötelezettségekre [ideértve különösen a jogszabályban meghatározott garanciális kötelezettséget, a függő kötelezettséget, a biztos (jövőbeni) kötelezettséget, a korengedményes nyugdíj, illetve a helyébe lépő korhatár előtti ellátás, a végkielégítés miatti fizetési kötelezettséget, a környezetvédelmi kötelezettséget], amelyek a mérlegfordulónapon valószínű vagy bizonyos, hogy fennállnak, de összegük vagy esedékességük időpontja még bizonytalan, és azokra a vállalkozó a szükséges fedezetet más módon nem biztosította.
 
@@ -929,6 +963,8 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (8) A külföldi székhelyű vállalkozás magyarországi fióktelepe működése során, a (7) bekezdésben foglaltakon túlmenően, beszerzésként – a 48. § (5) bekezdésében előírtak esetén importbeszerzésként – köteles elszámolni a külföldi székhelyű vállalkozástól, vagy annak más fióktelepétől kapott eszköz számla szerinti értékét. Az így állományba vett eszköz bekerülési (beszerzési) értéke – ez esetben is – magában foglalja mindazon 47–51. § szerinti tételeket, amelyek az eszközhöz egyedileg hozzákapcsolhatók.
 
+(9) A kezelt vagyonra szóló tartós követelés bekerülési értéke a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti, együttes értéke.
+
 51. § (1) Az eszköz bekerülési (előállítási) értékének részét képezik azok a költségek, amelyek
 
 - a) az eszköz (termék) előállítása, üzembe helyezése, bővítése, rendeltetésének megváltoztatása, átalakítása, eredeti állagának helyreállítása során közvetlenül felmerültek,
@@ -1009,6 +1045,10 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 (8) A hitelkockázati szempontból – a (9) bekezdésben foglaltak figyelembevételével, a számviteli politikában meghatározottak szerint – kockázatmentesnek minősített, valamely ország központi kormánya vagy központi (jegy) bankja által kibocsátott, illetve tőkére és hozamra vonatkozóan garantált befektetési célú, lejáratig tartott, kamatozó, illetve diszkont értékpapírok esetében a (4) bekezdés szerinti értékvesztés-elszámolást nem kell alkalmazni a bekerülési érték azon része után, amely a lejáratkor megtérül.
 
 (9) A (8) bekezdés alkalmazása szempontjából bármely vállalkozónál kockázatmentesnek minősíthető a külön törvény(ek) felhatalmazása alapján kiadott jogszabály(ok) szerint nulla százalékos kockázati súlyozású tételnek tekinthető valamely ország központi kormánya vagy központi (jegy) bankja által kibocsátott, illetve tőkére és hozamra vonatkozóan garantált értékpapír, feltéve, hogy az értékpapírral kapcsolatban tőke- és kamattörlesztési késedelem nem merült fel.
+
+(10) A kezelt vagyonra szóló tartós követelésre értékvesztést kell elszámolni annak könyv szerinti értéke és piaci értéke közötti veszteségjellegű különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
+
+(11) A (10) bekezdés szerinti értékvesztés, illetve annak visszaírása során a piaci érték meghatározásakor a kezelt vagyon üzleti év mérlegfordulónapjára kimutatott induló tőkéjének, tartalékának és mérleg szerinti eredményének együttes összegét kell figyelembe venni.
 
 55. § (1) A vevő, az adós minősítése alapján az üzleti év mérlegfordulónapján fennálló és a mérlegkészítés időpontjáig pénzügyileg nem rendezett követelésnél (ideértve a hitelintézetekkel, pénzügyi vállalkozásokkal szembeni követeléseket, a kölcsönként, az előlegként adott összegeket, továbbá a bevételek aktív időbeli elhatárolása között lévő követelésjellegű tételeket is) értékvesztést kell elszámolni – a mérlegkészítés időpontjában rendelkezésre álló információk alapján – a követelés könyv szerinti értéke és a követelés várhatóan megtérülő összege közötti – veszteségjellegű – különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
 
@@ -1462,7 +1502,9 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 - e) az immateriális jószág, a tárgyi eszköz közvetlen értékesítéséből, továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdésének a) és c) pontja szerinti jogcímen történő átadásából származó bevételt az értékesítéskor, az átadáskor;
 - f) a biztosító által fizetett, illetve a mérlegkészítés időpontjáig elfogadott, visszaigazolt – tárgyévi, illetve a tárgyévet megelőző üzleti évi káreseményhez kapcsolódó – összeget;
 - g) a követelés eredeti jogosultjánál – ha a követelésre korábban értékvesztést számolt el – a követelés könyv szerinti értékét meghaladóan realizált összeget;
-- h) a nyereség jellegű kerekítési különbözetet.
+- h) a nyereség jellegű kerekítési különbözetet;
+- i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti értékét;
+- j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor az átvett vagyon vagyonrendelőnek járó összegét.
 
 (4) Egyéb bevételként kell elszámolni a 45. § (3) bekezdése szerint halasztott bevételként elhatárolt negatív üzleti vagy cégértékből az üzleti évben a 45. § (4) bekezdése szerint leírt összeget.
 
@@ -1514,7 +1556,9 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 - e) az államháztartás egyes alrendszereivel (a központi kormányzat, az elkülönített állami pénzalapok, a helyi önkormányzatok, a társadalombiztosítás költségvetéseivel), az Európai Unió különböző pénzügyi alapjaival (pénzügyi forrásaival) elszámolt – a bekerülési érték részét nem képező, illetve a költségek között el nem számolható – adók, díjak, illetékek, hozzájárulások tárgyévre bevallott, fizetett, illetve fizetendő összegét;
 - f)
 - g)
-- h) a veszteség jellegű kerekítési különbözetet.
+- h) a veszteség jellegű kerekítési különbözetet;
+- i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékét;
+- j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegét.
 
 (3) Az egyéb ráfordítások között kell kimutatni:
 
@@ -1551,7 +1595,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 
 (3) A pénzügyi műveletek ráfordításai közé tartoznak: a befektetett pénzügyi eszközök árfolyamvesztesége, a fizetendő kamatok és kamatjellegű ráfordítások, a pénzügyi műveletek egyéb ráfordításai, a részesedések, az értékpapírok, a bankbetétek értékvesztése.
 
-84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredményből járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot is), amennyiben az a mérlegkészítés időpontjáig ismertté vált.
+84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredményből járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot, valamint a bizalmi vagyonkezelés során a vagyonrendelőnek kifizetett, illetve járó hozamot is), amennyiben az a mérlegkészítés időpontjáig ismertté vált.
 
 (2) Részesedések értékesítésének árfolyamnyereségeként kell kimutatni a befektetett pénzügyi eszközök között lévő tulajdoni részesedést jelentő befektetés értékesítésekor az értékesített befektetés eladási ára és könyv szerinti értéke közötti – nyereségjellegű – különbözetet.
 
@@ -1733,14 +1777,14 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 - c) minden olyan gazdasági társaság nevét és székhelyét, amely a mellékletet készítő vállalkozónak társult vállalkozása, bemutatva külön-külön azok saját tőkéjét, jegyzett tőkéjét, tartalékait, a birtokolt részesedés arányát, a legutolsó üzleti év mérleg szerinti eredményét; továbbá
 - d) minden olyan gazdasági társaság nevét és székhelyét, amely a mellékletet készítő vállalkozónak egyéb részesedési viszonyban lévő vállalkozása.
 
-(2) A gazdasági társaságokról szóló törvény szerinti ellenőrzött gazdasági társaság kiegészítő mellékletének tartalmaznia kell:
+(2) A korlátolt felelősségű társaság és a részvénytársaság kiegészítő mellékletének tartalmaznia kell a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezései szerint
 
-- a) a többségi befolyással,
-- b) a minősített többséget biztosító befolyással
+- a) többségi befolyással,
+- b) minősített többséget biztosító befolyással
 
 rendelkező tag (részvényes) nevét, székhelyét, szavazatainak arányát.
 
-(3) A kiegészítő mellékletnek tételesen tartalmaznia kell minden olyan gazdasági társaság nevét, székhelyét, jegyzett tőkéjének összegét, a szavazatok arányát, ahol a vállalkozó a gazdasági társaságokról szóló törvény szerint
+(3) A kiegészítő mellékletnek tételesen tartalmaznia kell minden olyan gazdasági társaság nevét, székhelyét, jegyzett tőkéjének összegét, a szavazatok arányát, ahol a vállalkozó a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezései szerint
 
 - a) a többségi befolyással,
 - b) a minősített többséget biztosító befolyással
@@ -2536,7 +2580,7 @@ tartalmazza.
 
 (2) Ha a saját tőke egyes elemeinek – az előző előírások szerint kialakított – értékétől a (3)–(7) bekezdésben foglaltakat is figyelembe véve a létesítő okiratban a szerződő felek eltérnek, vagy az eltérést törvény írja elő, akkor a saját tőke – létesítő okirat szerinti megosztásának megfelelő – átrendezéséhez egy további külön oszlopot (,,rendezés'' oszlop) is be kell iktatni a vagyonmérleg-tervezetbe.
 
-(3) A vagyonmérleg-tervezetben a saját tőkének jegyzett tőkére, tőketartalékra, eredménytartalékra és lekötött tartalékra történő megosztása során a gazdasági társaságokról szóló törvény előírásai, illetve a 139. §, valamint az (1)–(2) és (4)–(7) bekezdés előírásai szerint kell eljárni, azzal, hogy a jegyzett tőke összege nem haladhatja meg a lekötött tartalékkal csökkentett saját tőke összegét.
+(3) A vagyonmérleg-tervezetben a saját tőkének jegyzett tőkére, tőketartalékra, eredménytartalékra és lekötött tartalékra történő megosztása során a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezései, illetve a 139. §, valamint az (1)–(2) és (4)–(7) bekezdés előírásai szerint kell eljárni, azzal, hogy a jegyzett tőke összege nem haladhatja meg a lekötött tartalékkal csökkentett saját tőke összegét.
 
 (4)
 
@@ -2700,7 +2744,7 @@ a különbözettel.
 - c) akit a bíróság a könyvviteli szolgáltatás körébe tartozó tevékenység vonatkozásában a foglalkozástól eltiltott,
 - d) aki az engedélyezéskor vagy az engedély megadását követően valótlan adatot közölt, az engedély visszavonására okot adó körülményt 30 napon belül nem jelentette be, a valótlan adatközlés, illetve a bejelentés elmulasztása utólagos megállapításakor,
 - e) aki azt kéri,
-- f) akit jogerős bírói ítélet a cselekvőképességet korlátozó vagy kizáró gondnokság alá helyezett,
+- f) akit jogerős bírói ítélet a cselekvőképességet érintő gondnokság alá helyezett,
 - g) aki elhalálozott,
 - h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be.
 
@@ -2813,6 +2857,8 @@ a különbözettel.
 
 154. § (1) Minden kettős könyvvitelt vezető vállalkozó (ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is) köteles az éves beszámolót, illetve az egyszerűsített éves beszámolót, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt közzétenni.
 
+(1a) A bizalmi vagyonkezelő mentesül az (1) bekezdés szerinti kötelezettség, valamint a 155. § szerinti könyvvizsgálati kötelezettség alól a kezelt vagyon éves beszámolójának, illetve egyszerűsített éves beszámolójának könyvvizsgálata és közzététele tekintetében.
+
 (2) A vállalkozó köteles biztosítani, hogy munkavállalói, alkalmazottai, tagjai az éves beszámolót, az egyszerűsített éves beszámolót, az összevont (konszolidált) éves beszámolót, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentést a vállalkozó (az anyavállalat) székhelyén megtekinthessék és azokról teljes vagy részleges másolatot készíthessenek.
 
 (3) Ha a vállalkozó közzétett éves beszámolóját, illetve egyszerűsített éves beszámolóját könyvvizsgáló nem ellenőrizte, vagy kötelező könyvvizsgálat esetén a könyvvizsgáló a záradék megadását elutasította, akkor a vállalkozó az általa elkészített éves beszámoló, illetve egyszerűsített éves beszámoló mérlegén, eredménykimutatásán, kiegészítő mellékletén (ezek minden egyes példányán) köteles feltüntetni a következő szöveget: ,,A közzétett adatok könyvvizsgálattal nincsenek alátámasztva.''
@@ -2882,7 +2928,7 @@ a különbözettel.
 
 (9) Ha az összevont (konszolidált) éves beszámoló felülvizsgálatára a (8) bekezdés szerint nem választottak könyvvizsgálót, könyvvizsgáló céget, akkor az anyavállalat könyvvizsgálójának, könyvvizsgáló cégének a feladata az összevont (konszolidált) éves beszámoló felülvizsgálata is. Erről az anyavállalat könyvvizsgálójával, könyvvizsgáló cégével írásban, a (8) bekezdés szerinti időpontig kell megállapodni.
 
-(10) A bejegyzett könyvvizsgálóra, a könyvvizsgáló cégre egyebekben a gazdasági társaságokról szóló törvény, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény, valamint a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény előírásai az irányadóak.
+(10) A bejegyzett könyvvizsgálóra, a könyvvizsgáló cégre egyebekben a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezései, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény, valamint a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény előírásai az irányadóak.
 
 155/A. § (1) A 155. § (6) bekezdése szerinti könyvvizsgáló vagy könyvvizsgáló cég megbízása csak megfelelő indok alapján mondható fel. A számviteli vagy a könyvvizsgálati eljárások tekintetében fennálló véleményeltérés nem minősül megfelelő indoknak.
 

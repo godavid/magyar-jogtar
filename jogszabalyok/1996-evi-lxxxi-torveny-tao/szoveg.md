@@ -20,7 +20,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 ### A társasági adó alanya
 
-2. § (1) A társasági adó alanya a (2)–(4) bekezdésben meghatározott személy.
+2. § (1) A társasági adó alanya a (2)–(4) és (6) bekezdésben meghatározott személy.
 
 (2) Belföldi illetőségű adózó a belföldi személyek közül
 
@@ -46,7 +46,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 (5) Nem alanya a társasági adónak az 5. számú mellékletben felsorolt szervezet.
 
-(6)
+(6) Belföldi illetőségű adózónak minősül a bizalmi vagyonkezelési szerződés alapján kezelt vagyon.
 
 (7)
 
@@ -71,15 +71,15 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
   - d) befektetési vállalkozásnál a befektetési szolgáltatási tevékenység bevételei növelve a nem befektetési szolgáltatási tevékenység bevételeivel, valamint a kapott kamatokkal és kamatjellegű bevételekkel, csökkentve a kamatozó értékpapírok vételárában érvényesített kamat ráfordításként elszámolt összegével,
   - e)
 - 4/a. behajthatatlan követelés: a számvitelről szóló törvény szerinti behajthatatlan követelés, valamint azon követelés bekerülési értékének 20 százaléka, amelyet a fizetési határidőt követő 365 napon belül nem egyenlítettek ki, kivéve, ha a követelés elévült vagy bíróság előtt nem érvényesíthető;
-- 5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben, jogi személyiséggel nem rendelkező társas cégben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 10 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 10 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 10 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
+- 5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 10 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 10 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 10 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
 - 5/a. bejelentett immateriális jószág: jogdíjbevételre jogosító immateriális jószág (szellemi termék, vagyoni értékű jog) szerzése, előállítása feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja, előállítás napjának a használatba vétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjbevételre jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő;
 - 6. belföld: Magyarország területe, ideértve a vámszabad- és a tranzitterületet is;
-- 7. belföldi személy: a belföldi jogszabály alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet, valamint a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
+- 7. belföldi személy: a belföldi jogszabály alapján létrejött jogi személy, személyi egyesülés, egyéb szervezet, valamint a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
 - 8. beruházás értéke: az üzembe helyezett tárgyi eszköz bekerülési értéke;
-- 9.
+- 9. bizalmi vagyonkezelési szerződés: a Ptk. szerinti bizalmi vagyonkezelési szerződés;
 - 9/a. beszámoló: a számvitelről szóló törvény, vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 - 10. célszervezet: miniszter által a teljes adóévre ilyennek kijelölt gazdasági társaság, szövetkezet (a lakásszövetkezet kivételével) és egyes jogi személyek vállalata;
-- 10/a.
+- 10/a. bizalmi vagyonkezelő: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is;
 - 10/b. elismert tőzsde: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
 - 11. ellenőrzött külföldi társaság: az a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű (a továbbiakban együtt: külföldi társaság), amelyben a külföldi társaság adóéve napjainak többségében a személyi jövedelemadóról szóló törvény szerint belföldi illetőségű tényleges tulajdonos (a továbbiakban: részesedéssel rendelkező) van, valamint az a külföldi társaság, amelynek az adóévben elért bevételei többségében magyarországi forrásból származnak, bármely esetben akkor, ha a külföldi társaság által az adóévre fizetett (fizetendő), adóvisszatérítéssel csökkentett társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 10 százalékot vagy a külföldi társaság nulla vagy negatív adóalap miatt nem fizet társasági adónak megfelelő adót, bár eredménye pozitív; nem kell e rendelkezést alkalmazni, ha a külföldi társaság székhelye, illetősége az Európai Unió tagállamában, az OECD tagállamában vagy olyan államban van, amellyel Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére és amely államban valódi gazdasági jelenléttel bír, azzal, hogy
   - a) valódi gazdasági jelenlétnek minősül a külföldi társaság és az adott államban lévő kapcsolt vállalkozásai által együttesen saját eszközzel és munkaviszonyban foglalkoztatott munkavállalókkal végzett termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői, valamint kereskedelmi tevékenység, ha az ebből származó bevételük eléri az összes bevételük legalább 50 százalékát;
@@ -91,8 +91,8 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
   - g) nem minősül ellenőrzött külföldi társaságnak a külföldi társaság, amelyben az adóév első napján már legalább öt éve elismert tőzsdén jegyzett személy vagy kapcsolt vállalkozása az adóév minden napján legalább 25 százalékos részesedéssel rendelkezik;
   - h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi jogállás közvetett fennállásának kivételével – az adózó köteles bizonyítani;
 - 12. előkészítő vagy kisegítő jellegű tevékenység: kizárólag a külföldi személy részére végzett olyan tevékenység, amely nem tartozik a külföldi személy társasági szerződésben meghatározott tevékenységi körébe, de az abban meghatározott tevékenységek végzését segíti, készíti elő;
-- 13.
-- 14.
+- 13. vagyonrendelő: az a személy, amely a Ptk. bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonrendelőnek minősül;
+- 14. kezelt vagyon: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján kezelt vagyon;
 - 15. építkezés befejezésének napja: a használatbavételi, fennmaradási engedély jogerőre emelkedésének a napja, a használatbavétel tudomásulvételének a napja, alvállalkozó esetében az általa végzett tevékenység befejezésének a napja;
 - 16. építkezés kezdetének napja: az építési, szerelési naplóban az építkezés kezdő napjaként megjelölt nap, alvállalkozó esetén az építési, szerelési naplóban megjelölt kezdési időpont;
 - 16/a. foglalkoztatottak átlagos állományi létszáma: a Központi Statisztikai Hivatal által a munkaügyi-statisztikai adatszolgáltatáshoz kiadott, az adóév első napján hatályos kiadvány szerinti éves szinten számított statisztikai állományi létszám, azzal, hogy a kölcsönvett munkaerő a kölcsönvevőnél figyelembe vehető, amennyiben a kölcsönadó e létszámot a kölcsönadott munkaerő nélkül számítja fel, és erről az adóbevallás benyújtásáig írásban nyilatkozik a kölcsönvevőnek;
@@ -139,7 +139,7 @@ fejében a jogosult által kapott ellenérték;
 - 27. külföldi személy: a külföldi jogszabályok alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet;
 - 28.
 - 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
-- 28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság nem számolja az adózás előtti eredmény terhére ráfordításként;
+- 28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja az adózás előtti eredmény terhére ráfordításként;
 - 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
 - 30.
 - 30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
@@ -186,7 +186,7 @@ fejében a jogosult által kapott ellenérték;
 
 5. § (1) Az adózót jövedelme után e törvény előírása szerint társasági adókötelezettség terheli. Az adóévben vállalkozási tevékenységet nem folytató egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül társasági adókötelezettségét azzal teljesíti, hogy az adóévre bevallást helyettesítő nyilatkozatot tesz.
 
-(2) A belföldi illetőségű adózó társasági adókötelezettsége a társasági szerződése közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön. Az adózó adókötelezettsége azon a napon szűnik meg, amelyen a megszűnését szabályozó jogszabály szerint megszűnik, vagy amely napot követő napon bármely egyéb okból kikerül a társasági adó hatálya alól (ideértve a cégbejegyzés iránti kérelem elutasítását vagy a cégbejegyzési eljárás megszüntetését is).
+(2) A belföldi illetőségű adózó társasági adókötelezettsége a társasági szerződése közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, a kezelt vagyon esetében a bizalmi vagyonkezelési szerződés hatályosulásának napján, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön. Az adózó adókötelezettsége azon a napon szűnik meg, amelyen a megszűnését szabályozó jogszabály szerint megszűnik, vagy amely napot követő napon bármely egyéb okból kikerül a társasági adó hatálya alól (ideértve a cégbejegyzés iránti kérelem elutasítását vagy a cégbejegyzési eljárás megszüntetését is).
 
 (3) A külföldi vállalkozó társasági adókötelezettsége a fióktelepének a cégnyilvántartásba történő bejegyzése napján kezdődik, és fióktelepének a cégnyilvántartásból való törlésének a napján szűnik meg. A külföldi vállalkozó adókötelezettsége megszűnik a fióktelepe ellen belföldön vagy – amennyiben az eljárás e fióktelepre is kiterjed – az ellene külföldön indított felszámolási eljárás (annak megfelelő eljárás) kezdő napját megelőző napon. Amennyiben a külföldi vállalkozó cégnyilvántartásba be nem jegyzett telephelye útján végez belföldön vállalkozási tevékenységet, adókötelezettsége a telephely létrejöttét eredményező első jognyilatkozat megtételének napján keletkezik, és a külföldi vállalkozó megszűnésének vagy a telephely megszűnését eredményező jognyilatkozat tételének napján (ideértve azt is, ha a tevékenységet fióktelepen, európai részvénytársaságként vagy európai szövetkezetként folytatja) szűnik meg. A külföldi vállalkozó adókötelezettsége az általa belföldön végzett építkezés esetén az építkezés kezdetének napján kezdődik, ha az építkezés időtartama meghaladja az egyezményben meghatározott időtartamot, illetve (egyezmény hiányában) a három hónapot. Az építkezés folyamatosságát nem befolyásolja, hogy azt a külföldi vállalkozó fióktelepén vagy más telephelyén végzi.
 
@@ -221,7 +221,8 @@ fejében a jogosult által kapott ellenérték;
 
 - a) az előtársasági adóévben .és az azt követő adóévben, illetve az első adóévében, amennyiben az előtársasági időszakról külön beszámoló készítésére nem kötelezett, vagy
 - b) ha a 2. § (2) bekezdésének e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, iskolaszövetkezet vagy közhasznú nonprofit gazdasági társaság, vagy
-- c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát.
+- c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát,
+- d) ha a 2. § (6) bekezdése alapján adóalany.
 
 (7) Az (5) bekezdés alkalmazásában a jövedelem-(nyereség-)minimum a (8) bekezdésben foglaltakkal csökkentett és a (9) bekezdésben foglaltakkal növelt összes bevétel 2 százaléka.
 
@@ -754,7 +755,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (11)–(13)
 
-(14) A szövetkezet a szövetkezetekről szóló 2006. évi X. törvény 58. §-a alapján az adóévben képzett közösségi alap 6,5 százalékát adókedvezményként veheti igénybe. Az adókedvezmény az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
+(14) A szövetkezet a Ptk. alapján az adóévben képzett közösségi alap 6,5 százalékát adókedvezményként veheti igénybe. Az adókedvezmény az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
 
 ### Kis- és középvállalkozások adókedvezménye
 
@@ -1040,7 +1041,7 @@ a támogatás adóévében megfizetni.
 
 (11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
 
-(12) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő 60 napon belül köteles az esedékességi időre eső összeg feltüntetésével az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő naptól az adóévet követő hatodik hónap utolsó napjáig számított időszak valamennyi teljes naptári negyedévére társasági adóelőleget bevallani és egyenlő részletekben a negyedév utolsó hónapjának 10. napjáig megfizetni. A háromhavonta esedékes társasági adóelőleg összege
+(12) A jogi személy és az egyéni cég az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő 60 napon belül köteles az esedékességi időre eső összeg feltüntetésével az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő naptól az adóévet követő hatodik hónap utolsó napjáig számított időszak valamennyi teljes naptári negyedévére társasági adóelőleget bevallani és egyenlő részletekben a negyedév utolsó hónapjának 10. napjáig megfizetni. A háromhavonta esedékes társasági adóelőleg összege
 
 - a) az egyszerűsített vállalkozói adó adóalanyisága megszűnésének adóévében elszámolt összes bevétel 1 százaléka, ha az adóév időtartama 12 hónap volt,
 - b) az egyszerűsített vállalkozói adó adóalanyisága megszűnésének adóévében elszámolt összes bevételnek a működés naptári napjai alapján 12 hónapra számított összegének 1 százaléka minden más esetben.
@@ -1599,7 +1600,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 10. A bíróság előtt nem érvényesíthető, továbbá az elévült követelés miatt elszámolt ráfordítás.
 
-11. A gazdasági társaságokról szóló törvényben előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés.
+11. a Ptk. gazdasági társaságokra vonatkozó rendelkezései szerint előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés;
 
 12. a 22. § (6)–(8) bekezdésében meghatározott kiegészítő támogatás és a 22/C. § (3a)–(3b) bekezdésében meghatározott kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
 
@@ -1639,7 +1640,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 12. a szerencsejáték szervezéséről szóló törvényben meghatározott sorsolásos játék, ajándéksorsolás keretében átadott, nyújtott nyeremény ráfordításként elszámolt értéke;
 
-13. A szövetkezetnél a közösségi alapból a szövetkezetekről szóló 2006. évi X. törvény 57. §-ának (2) bekezdése szerinti céloknak megfelelő felhasználás alapján elszámolt költség;
+13. A szövetkezetnél a közösségi alapból a szövetkezet alapszabálya szerinti céloknak megfelelő felhasználás alapján elszámolt költség;
 
 14. A kifizető által viselt képzés (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is) költsége.
 
@@ -1656,6 +1657,8 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 20.
 
 21. éttermi szolgáltatás igénybevétele esetén a bankkártyával, hitelkártyával történő fizetésre tekintettel kapott nyugta alapján elszámolt költség, ráfordítás, feltéve, hogy a szolgáltatás igénybevétele a személyi jövedelemadóról szóló törvény szerinti reprezentáció céljából történik.
+
+22. a vagyonrendelőnél a bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, valamint a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.
 
 ### 4. számú melléklet az 1996. évi LXXXI. törvényhez
 
@@ -1674,7 +1677,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 - 9. a pártok,
 - 10. a Magyar Távirati Iroda Részvénytársaság,
 - 11. a külön törvényben és annak felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelően működő, kizárólag készfizetőkezesség-vállalást folytató részvénytársaság,
-- 12. az a jogi személy, jogi személyiség nélküli gazdasági társaság, amely az adóévben az egyszerűsített vállalkozói adó alanyának minősül.
+- 12. az a jogi személy, amely az adóévben az egyszerűsített vállalkozói adó alanyának minősül.
 - 13. a költségvetési szervként működő felsőoktatási intézmény (ideértve az általa létrehozott intézményt is) és diákotthon,
 - 14. a Nemzeti Eszközkezelő Zrt.
 - 15. az az adózó, aki az adóévben a kisadózó vállalkozások tételes adójának alanya vagy a kisvállalati adó alanya.

@@ -68,7 +68,7 @@ Nem terjed ki a törvény hatálya a külön jogszabály alapján az egészségk
 (8) E törvény hatálya nem terjed ki azokra a lakhatást biztosító szolgáltatásokra, amelyek esetében
 
 - a) a szolgáltatást igénybe vevőnek,
-- b) hozzátartozójának [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja],
+- b) a szolgáltatást igénybe vevő hozzátartozójának [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 2. pont],
 - c) a szolgáltatást igénybe vevő tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személynek, vagy
 - d) a térítési díjat vagy az egyszeri hozzájárulást megfizető személynek
 
@@ -88,8 +88,8 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 - c) család: egy lakásban, vagy személyes gondoskodást nyújtó bentlakásos szociális, gyermekvédelmi intézményben együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező közeli hozzátartozók közössége;
 - d) közeli hozzátartozó:
   - da) a házastárs, az élettárs,
-  - db) a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti, örökbe fogadott, illetve nevelt gyermek,
-  - dc) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (a továbbiakban: fogyatékos gyermek),
+  - db) a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti gyermek, örökbe fogadott gyermek, mostohagyermek és a Ptk. szerinti gyermekvédelmi nevelőszülő által e jogviszonya keretében nevelt gyermek kivételével a nevelt gyermek (a továbbiakban: nevelt gyermek),
+  - dc) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, mostoha-, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (a továbbiakban: fogyatékos gyermek),
   - dd) a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa;
 - e) egyedülélő: az a személy, aki egyszemélyes háztartásban lakik;
 - f) háztartás: az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek közössége;
@@ -103,7 +103,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
   - ma) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása (a továbbiakban együtt: állami fenntartó),
   - mb) az egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó),
   - mc) az egyéni vállalkozó,
-  - md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
+  - md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy és egyéni cég,
   - me) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó];
 
 ha az e törvényben és más jogszabályokban meghatározott feltételek szerint szociális szolgáltatót, illetve szociális intézményt létesít és működtet.
@@ -283,7 +283,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
 - k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
 - l) a lakásfenntartási támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
-  - la) a támogatott szolgáltatást szolgáltatási vagy közüzemi szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
+  - la) a támogatott szolgáltatást szolgáltatási vagy közszolgáltatási szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
   - lb) a lakáscélú kölcsönszerződés adósának és adóstársának a kölcsönt nyújtó pénzintézet általi azonosításához szükséges adatot.
 
 18/A. § A járási hivatal a feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
@@ -414,7 +414,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (3) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, illetve ellenőrzése céljából adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől, a közúti közlekedési nyilvántartást vezető, valamint az ingatlanügyi hatóságtól.
 
-(4) A jegyző a 18. § l) pont la) alpontjában foglaltak körében adatot kérhet a természetbeni szociális ellátás formájában nyújtott lakásfenntartási támogatással támogatott szolgáltatást szolgáltatási vagy közüzemi szerződés alapján nyújtó szolgáltatótól.
+(4) A jegyző a 18. § l) pont la) alpontjában foglaltak körében adatot kérhet a természetbeni szociális ellátás formájában nyújtott lakásfenntartási támogatással támogatott szolgáltatást szolgáltatási vagy közszolgáltatási szerződés alapján nyújtó szolgáltatótól.
 
 ### II. Fejezet — PÉNZBELI ELLÁTÁSOK
 
@@ -811,7 +811,7 @@ ahol a J a jogosult háztartásában egy fogyasztási egységre jutó havi jöve
 
 40. § Az ápolási díj a tartósan gondozásra szoruló személy otthoni ápolását ellátó nagykorú hozzátartozó részére biztosított anyagi hozzájárulás.
 
-41. § (1) Ápolási díjra jogosult – a jegyes kivételével – a hozzátartozó [Ptk. 685. § b) pontja], ha állandó és tartós gondozásra szoruló
+41. § (1) Ápolási díjra jogosult a hozzátartozó [Ptk. 8:1. § (1) bekezdés 2. pont], ha állandó és tartós gondozásra szoruló
 
 - a) súlyosan fogyatékos, vagy
 - b) tartósan beteg 18 év alatti
@@ -2112,7 +2112,7 @@ rendeletet alkot.
 
 93. § (1) A személyes gondoskodást nyújtó szociális ellátások igénybevétele önkéntes, az ellátást igénylő, illetve törvényes képviselője szóbeli vagy írásbeli kérelmére, indítványára történik.
 
-(2) Ha az ellátást igénylő személy cselekvőképtelen, a kérelmet, illetve indítványt – az érintett személy véleményét lehetőség szerint figyelembe véve – a törvényes képviselője terjeszti elő. A korlátozottan cselekvőképes személy a kérelmét, indítványát a törvényes képviselőjének beleegyezésével vagy – ha e tekintetben a bíróság a cselekvőképességét nem korlátozta – önállóan terjesztheti elő.
+(2) Ha az ellátást igénylő személy cselekvőképtelen kiskorú vagy a cselekvőképességet teljesen korlátozó gondnokság alatt áll, a kérelmet vagy indítványt – az érintett személy véleményét lehetőség szerint figyelembe véve – a törvényes képviselője terjeszti elő. A korlátozottan cselekvőképes kiskorú és a cselekvőképességében a szociális ellátás igénybevételével összefüggő jognyilatkozatok tekintetében részlegesen korlátozott személy a kérelmét, indítványát a törvényes képviselőjének beleegyezésével terjesztheti elő.
 
 (3) Ha a törvényes képviselő ideiglenes gondnok, intézményi elhelyezésre vonatkozó kérelméhez, indítványához a gyámhatóság előzetes jóváhagyása szükséges.
 
@@ -2440,7 +2440,7 @@ való jogra.
 
 99/D. § (1) A munka-rehabilitáció célja a szociális intézményben ellátott személy munkakészségének, valamint testi és szellemi képességeinek munkavégzéssel történő megőrzése, illetve fejlesztése, továbbá a fejlesztő-felkészítő foglalkoztatásra való felkészítés.
 
-(2) A munka-rehabilitáció az intézményi jogviszony keretében történik. A munka-rehabilitációban történő részvételről az ellátott, illetve – amennyiben az ellátott jognyilatkozata a Ptk. 15/A. §-ának (1) bekezdése alapján semmisnek minősülne – törvényes képviselője írásban, a (3)–(6) bekezdésben foglaltak figyelembevételével megállapodást köt a szociális intézmény vezetőjével. Ez utóbbi esetben a megállapodást az ellátott aláírhatja. A megállapodás tartalmazza
+(2) A munka-rehabilitáció az intézményi jogviszony keretében történik. A munka-rehabilitációban történő részvételről az ellátott, illetve – amennyiben az ellátott jognyilatkozata a Ptk. 2:22. § (1) bekezdése alapján semmisnek minősülne – törvényes képviselője írásban, a (3)–(6) bekezdésben foglaltak figyelembevételével megállapodást köt a szociális intézmény vezetőjével. Ez utóbbi esetben a megállapodást az ellátott aláírhatja. A megállapodás tartalmazza
 
 - a) a munka-rehabilitáció keretében végzett tevékenység részletes leírását,
 - b) a munka-rehabilitáció időbeosztását,
@@ -2519,7 +2519,7 @@ való jogra.
 - b) az esedékes, illetve hátralékos térítési díj befizetési kötelezettségéről;
 - c) az intézménnyel, illetve a jogosulttal szembeni követelésről, kárigényről, azok esetleges előterjesztési és rendezési módjáról.
 
-104. § Ha a jogosult korlátozottan cselekvőképes vagy cselekvőképtelen, a 95—100. §-ban szabályozott, jogi következményekkel járó cselekmények és jognyilatkozatok tekintetében a hozzátartozóra vonatkozó rendelkezéseket a törvényes képviselőre kell alkalmazni.
+104. § Ha a jogosult kiskorú vagy cselekvőképességében a szociális ellátás igénybevételével összefüggő jognyilatkozatok tekintetében részlegesen korlátozott személy vagy a cselekvőképességet teljesen korlátozó gondnokság alatt áll, a 95–100. §-ban szabályozott, jogi következményekkel járó cselekmények és jognyilatkozatok tekintetében a hozzátartozóra vonatkozó rendelkezéseket a törvényes képviselőre kell alkalmazni.
 
 ### II. CÍM — Egyes intézményekre vonatkozó külön szabályok
 
@@ -2757,7 +2757,7 @@ nyújtó intézmények esetén.
 
 (3) A jelzálogjogot a külön jogszabály szerint nyilvántartott folyó évi hátralék erejéig lehet bejegyezni. A jelzálog bejegyzésének kezdeményezéséről a szociális hatóság a jogszabályi feltételek fennállása esetén – a fenntartó kérelme alapján – határozatot hoz. A határozatot az ingatlanügyi hatósággal közölni kell.
 
-119/A. § (1) Az ellátottól, törvényes képviselőjétől, hozzátartozójától [Ptk. 685. § b) pontja], az ellátott tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személytől, valamint a térítési díjat vagy az egyszeri hozzájárulást megfizető személytől a térítési díjon és az egyszeri hozzájáruláson kívül más jogcímen a szociális szolgáltatásért, illetve az intézményben történő elhelyezésért a szolgáltató, az intézmény, a fenntartó vagy egy harmadik személy számára pénzbefizetés vagy más vagyoni előny nyújtása – a (2) bekezdésben foglaltak kivételével – nem kérhető.
+119/A. § (1) Az ellátottól, törvényes képviselőjétől, hozzátartozójától [Ptk. 8:1. § (1) bekezdés 2. pont], az ellátott tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személytől, valamint a térítési díjat vagy az egyszeri hozzájárulást megfizető személytől a térítési díjon és az egyszeri hozzájáruláson kívül más jogcímen a szociális szolgáltatásért, illetve az intézményben történő elhelyezésért a szolgáltató, az intézmény, a fenntartó vagy egy harmadik személy számára pénzbefizetés vagy más vagyoni előny nyújtása – a (2) bekezdésben foglaltak kivételével – nem kérhető.
 
 (2) A tartós bentlakásos intézményi ellátásban részesülő személy írásbeli kezdeményezésére az ellátott, illetve az (1) bekezdésben megjelölt személy az intézménnyel e célból kötött szerződésben vállalhatja, hogy a jogszabályban előírt feltételeket meghaladó ellátotti igény kielégítésének költségeit viseli. A költségek megtérítésének teljes összege kizárólag a szerződésben meghatározott célokra fordítható. Ha az intézményi jogviszony a szerződés megkötésétől számított öt éven belül – haláleset kivételével – megszűnik, a költségeknek a fennmaradó időre jutó arányos részét az intézmény köteles visszafizetni.
 

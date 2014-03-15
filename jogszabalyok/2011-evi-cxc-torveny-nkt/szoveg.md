@@ -376,7 +376,9 @@ szükséges.
 
 - a) az állami köznevelési közfeladat-ellátás keretében,
 - b) a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá
-- c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdálkodó szervezet vagy költségvetési szerv által nyújtható.
+- c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdasági társaság szervezet vagy költségvetési szerv által
+
+nyújtható.
 
 (4) A pedagógiai-szakmai szolgáltatások az oktatásért felelős miniszter szakmai irányítása mellett láthatók el. Az oktatásért felelős miniszter által kijelölt intézmény szervezi a nemzetiségi óvodai nevelést, iskolai nevelés-oktatást, kollégiumi nevelést segítő pedagógiai-szakmai szolgáltatásokat, továbbá azokat, amelyek helyi szinten nem szervezhetők meg hatékonyan vagy az ágazati irányítás feladatait segítik.
 

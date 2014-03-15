@@ -284,7 +284,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) Nem lehet békéltető testületi tag, aki
 
-- a) a polgári jog szabályai szerint cselekvőképtelen vagy korlátozottan cselekvőképes,
+- a) a polgári jog szabályai szerint cselekvőképtelen vagy cselekvőképességében bármely ügycsoportban korlátozott,
 - b) büntetett előéletű,
 - c) büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, XVII. fejezetében meghatározott gazdasági bűncselekmény, XVIII. fejezetében meghatározott vagyon elleni bűncselekmény szándékos elkövetése, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XXVII. Fejezetében meghatározott korrupciós bűncselekmény, bűnszervezetben részvétel, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény, XXXV–XXXVII. Fejezetében meghatározott szándékos bűncselekmény, XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény, vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el
   - ca) ötévi vagy azt meghaladó végrehajtandó szabadságvesztés kiszabása esetén a mentesítés beálltától számított tizenkét évig,
@@ -352,7 +352,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (6) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említ, azon az egyedül eljáró testületi tagot is érteni kell.
 
-26. § (1) A békéltető testületi tag az eljárásból ki van zárva, ha neki vagy hozzátartozójának [Ptk. 685. § b) pont] a vitás ügyhöz személyi vagy vagyoni érdekeltsége fűződik, illetve egyéb ok miatt elfogult, kivéve, ha a feleket erről tájékoztatta, és ennek ismeretében személye ellen egyik fél sem emelt kifogást.
+26. § (1) A békéltető testületi tag az eljárásból ki van zárva, ha neki vagy a Polgári Törvénykönyv szerinti hozzátartozójának a vitás ügyhöz személyi vagy vagyoni érdekeltsége fűződik, illetve egyéb ok miatt elfogult, kivéve, ha a feleket erről tájékoztatta, és ennek ismeretében személye ellen egyik fél sem emelt kifogást.
 
 (2) A felek, illetve az elnök által az eljáró tanácsba kijelölt testületi tag köteles a testület elnökének haladéktalanul bejelenteni és a felek előtt feltárni minden olyan körülményt, amely jogos kétségeket ébreszthet függetlensége vagy pártatlansága tekintetében.
 
@@ -394,7 +394,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a hiány megjelölésével – a kérelem beérkezésétől számított tizenöt napon belül – pótlásra hívja fel a kérelmezőt.
 
-28/A. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Ptk. 327. §-a (1) és (2) bekezdésében, az eljárás eredménytelensége esetén a Ptk. 326. §-a (2) bekezdésében foglaltak irányadók.
+28/A. § Az eljárás megindítása esetén a Polgári Törvénykönyv elévülés nyugvására vonatkozó rendelkezései irányadók.
 
 29. § (1) Az eljárás megindulásától kezdődő határidők számításakor az eljárás megindulásának napja az a nap, amelyen a kérelem a békéltető testület elnökéhez beérkezik, hiánypótlásra történő felhívás esetén az a nap, amelyen a kérelmező a hiánypótlásnak eleget tett.
 
@@ -898,9 +898,7 @@ terjedhet.
 
 - a)
 - b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
-- c) a szállás időben megosztott használati joga, a hosszú távra szóló üdülési termék megszerzésére, ezek viszontértékesítésére és cseréjére irányuló, fogyasztóval kötött szerződésekre, valamint az ezekkel összefüggő tájékoztatási követelményekre,
-- d) az üzleten kívül fogyasztóval kötött szerződésekre,
-- e) a távollevők között létrejött szerződésekre,
+- c)–e)
 - f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
 - g) a békéltető testületi tagok díjazására,
 - h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és hatáskörére,

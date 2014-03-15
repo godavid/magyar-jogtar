@@ -312,7 +312,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A képviselő-testület
 
-41. § (1) A helyi önkormányzat jogi személy. A képviselő-testületet a polgármester, a megyei közgyűlés elnöke, a főpolgármester képviseli.
+41. § (1) A helyi önkormányzat jogi személy, a Polgári Törvénykönyvről szóló törvény jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. A képviselő-testületet a polgármester, a megyei közgyűlés elnöke, a főpolgármester képviseli.
 
 (2) Az önkormányzati feladatok ellátását a képviselő-testület és szervei biztosítják. A képviselő-testület szervei: a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a képviselő-testület bizottságai, a részönkormányzat testülete, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a jegyző, továbbá a társulás.
 
@@ -322,7 +322,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (5) Az átruházott hatáskör tovább nem ruházható.
 
-(6) A képviselő-testület a feladatkörébe tartozó közszolgáltatások ellátására – jogszabályban meghatározottak szerint – költségvetési szervet, gazdálkodó szervezetet, nonprofit szervezetet és egyéb szervezetet (a továbbiakban együtt: intézmény) alapíthat, továbbá szerződést köthet természetes- és jogi személlyel vagy jogi személyiséggel nem rendelkező szervezettel.
+(6) A képviselő-testület a feladatkörébe tartozó közszolgáltatások ellátására – jogszabályban meghatározottak szerint – költségvetési szervet, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetet (a továbbiakban: gazdálkodó szervezet), nonprofit szervezetet és egyéb szervezetet (a továbbiakban együtt: intézmény) alapíthat, továbbá szerződést köthet természetes- és jogi személlyel vagy jogi személyiséggel nem rendelkező szervezettel.
 
 (7) A helyi önkormányzat képviselő-testülete – amennyiben törvény kivételt nem tesz – kinevezi az intézmény vezetőjét.
 
@@ -1375,7 +1375,7 @@ Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat helyi önkormány
 - 3. Védett műalkotás, védett gyűjtemény:
   - a) egyedi alkotások: ..................................................................................... megnevezés ..... db a szerzés ideje, jogcíme: .......................................................................... megnevezés ..... db a szerzés ideje, jogcíme: .......................................................................... megnevezés ..... db a szerzés ideje, jogcíme: ..........................................................................................................
   - b) gyűjtemény: .............................................................................................. megnevezés ..... db a szerzés ideje, jogcíme: .......................................................................... megnevezés ..... db a szerzés ideje, jogcíme: .......................................................................... megnevezés ..... db a szerzés ideje, jogcíme: ..........................................................................................................
-- 4. Egyéb, darabonként vagy készletenként (gyűjteményenként) a mindenkori köztisztviselői illetményalap hathavi összegét meghaladó értékű ingóság:
+- 4. Egyéb, darabonként vagy készletenként (gyűjteményenként) a mindenkori a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hathavi összegét meghaladó értékű ingóság:
   - a) megnevezés: a szerzés ideje, jogcíme:
   - b) megnevezés: a szerzés ideje, jogcíme:
   - c) megnevezés: a szerzés ideje, jogcíme:
@@ -1383,11 +1383,11 @@ Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat helyi önkormány
   - e) megnevezés: a szerzés ideje, jogcíme:
 - 5. Értékpapírban elhelyezett megtakarítás vagy egyéb befektetés (részvény, kötvény, részjegy, nagy értékű biztosítás stb.): megnevezés: névérték, biztosítási összeg: megnevezés: névérték, biztosítási összeg: megnevezés: névérték, biztosítási összeg: megnevezés: névérték, biztosítási összeg: megnevezés: névérték, biztosítási összeg:
 - 6. Takarékbetétben elhelyezett megtakarítás: ......................................................................... Ft
-- 7. A mindenkori köztisztviselői illetményalap hathavi összegét meghaladó készpénz: ........................... Ft
-- 8. Az összességében a mindenkori köztisztviselői illetményalap hathavi összegét meghaladó pénzintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
+- 7. A mindenkori közszolgálati tisztviselőkről szóló törvény illetményalap hathavi összegét meghaladó készpénz: ........................... Ft
+- 8. Az összességében a mindenkori közszolgálati tisztviselőkről szóló törvény illetményalap hathavi összegét meghaladó pénzintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
   - a) pénzintézeti számlakövetelés: forintban: devizában (forintértéken):
   - b) más szerződés alapján fennálló pénzkövetelés összege: ................................................. Ft
-- 9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a mindenkori köztisztviselői illetményalap hathavi összegét meghaladja: megnevezés: megnevezés: megnevezés: megnevezés: megnevezés:
+- 9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a mindenkori közszolgálati tisztviselőkről szóló törvény illetményalap hathavi összegét meghaladja: megnevezés: megnevezés: megnevezés: megnevezés: megnevezés:
 
 #### III. Tartozások
 

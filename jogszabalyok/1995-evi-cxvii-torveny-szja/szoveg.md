@@ -178,7 +178,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
   - a) az ingó dolog átruházása esetén annak eredeti használhatóságát növeli, javítja és/vagy az átruházást megelőző 12 hónapon belül és az átruházásról szóló szerződés szerinti bevételnek az 5 százalékát meghaladó mértékben az eredeti használhatóságának megőrzése, helyreállítása céljából történt;
   - b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon belül és az átruházásról szóló szerződés szerinti bevételnek az 5 százalékát meghaladó mértékben az ingatlan állagmegóvása céljából történt.
 - 33. Társas vállalkozás: a gazdasági társaság, az európai részvénytársaság (ideértve az európai holding részvénytársaságot is), az európai szövetkezet, az egyesülés, a szövetkezet, a lakásszövetkezet, az egyéni cég, az ügyvédi iroda, a végrehajtói iroda, a közjegyzői iroda, a szabadalmi ügyvivői iroda, az erdőbirtokossági társulat, az MRP szervezet.
-- 34. Értékpapír: minden olyan okirat, adat, amelyet a Ptk., vagy a kibocsátás helyének joga értékpapírnak tekint, továbbá a közkereseti társaság részére rendelkezésre bocsátott vagyoni hozzájárulás, a betéti társaság részére rendelkezésre bocsátott vagyoni betét, a kft üzletrész, a szövetkezetekről szóló törvény szerinti részjegy, befektetői részjegy, átalakított befektetői részjegy, célrészjegy és más vagyoni hozzájárulás a szövetkezeti tagsági kölcsön kivételével, valamint más, tagsági jogot megtestesítő vagyoni részesedés.
+- 34. Értékpapír: minden olyan okirat, elektronikus jelsorozat, amely a kibocsátás helyének joga szerint értékpapírnak minősül, továbbá a közkereseti társaságban és a betéti társaságban fennálló részesedés, a korlátolt felelősségű társaság üzletrésze és a szövetkezeti részesedés.
 - 35. Szociális segély: a szociálisan rászorulónak pénzben vagy nem pénzben ellenszolgáltatás nélkül nyújtott vissza nem térítendő támogatás.
 - 36. Szociálisan rászoruló: az a magánszemély, akinek (eltartottainak) létfenntartása oly mértékben veszélyeztetett, hogy azt – vagyoni viszonyára is tekintettel – csak külső segítséggel képes biztosítani.
 - 37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az Országgyűlési Őrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
@@ -273,6 +273,8 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
 (5) Ha a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított vissza nem térítendő támogatást e törvény rendelkezése alapján a jövedelem kiszámításánál nem kell bevételként figyelembe venni, akkor a támogatás felhasználásával a jogszabály, illetve a nemzetközi szerződés rendelkezéseivel összhangban teljesített kiadás alapján nem számolható el költség (értékcsökkenési leírás sem). Ha a támogatás csak részben nyújt fedezetet a kiadásra, e rendelkezést csak a kiadásnak a támogatásból fedezett része tekintetében kell alkalmazni.
 
 (6) Ha e törvény másként nem rendelkezik, közös tulajdon esetén – a tulajdonosok eltérő rendelkezése, vagy tulajdonjogi korlátozások hiányában – az ingó vagyontárgy, az ingatlan átruházásából, bérbeadásából, a vagyoni értékű jog visszterhes alapításából, végleges átengedéséből, megszüntetéséből, ilyen jogról való végleges lemondásból, az értékpapír elidegenítéséből származó jövedelem után a magánszemélyt a tulajdoni hányada arányában terheli adókötelezettség. Házassági vagyonközösség fennállása alatt – az előzőekben említetteket kivéve – ezen időszakban a felek tevékenységéből származó és minden más jövedelem után azt a magánszemélyt terheli adókötelezettség, aki a tevékenységet folytatja, illetőleg aki a jövedelemszerzés jogcímének jogosultja.
+
+(7) Ha a bizalmi vagyonkezelési szerződésben megjelölt kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, a bizalmi vagyonkezelésből származó bevétel adókötelezettségének jogcímét és a jövedelem összegét a tevékenységre, átruházásra, szolgáltatásnyújtásra irányadó rendelkezések szerint kell megállapítani. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bevétel adókötelezettségének jogcímét nem lehet megállapítani, a bizalmi vagyonkezelésből származó bevétel egészét egyéb jövedelemnek kell tekinteni.
 
 5. § (1) A jövedelem megállapítása során a bevételt és a költséget forintban kell meghatározni.
 
@@ -393,7 +395,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 - f) a magánszemély javára vagy érdekében teljesített kiadás esetében a kiadás teljesítésének napja;
 - g) az a)–f) pontban nem említett esetben az a nap, amelytől kezdődően a magánszemély a bevétel tárgyát képező vagyoni értékkel rendelkezni jogosult.
 
-(3) Ha a magánszemély az őt megillető bevétel tárgyát képező vagyoni értékre vonatkozó rendelkezési jogát az (1)–(2) bekezdésben meghatározott időpontot megelőzően gyakorolta, akkor a bevétel megszerzésének időpontja – az (1)–(2) bekezdésben foglaltaktól függetlenül – a rendelkezési jog gyakorlásának napja, ha azonban a bevétel tárgyát képező vagyoni érték miatti kiadást a magánszemély a juttatónak megelőlegezi, és/vagy a kiadást igazoló bizonylattal elszámolni köteles, az előzőektől eltérően az elszámolás napja.
+(3) Ha a magánszemély az őt megillető bevétel tárgyát képező vagyoni értékre vonatkozó rendelkezési jogát az (1)–(2) bekezdésben meghatározott időpontot megelőzően gyakorolta, akkor a bevétel megszerzésének időpontja – az (1)–(2) bekezdésben foglaltaktól függetlenül – a rendelkezési jog gyakorlásának napja, ha azonban a bevétel tárgyát képező vagyoni érték miatti kiadást a magánszemély a juttatónak megelőlegezi, illetve a kiadást igazoló bizonylattal elszámolni köteles, az előzőektől eltérően az elszámolás napja. E § alkalmazásában nem minősül a rendelkezési jog gyakorlásának a vagyonrendelő magánszemély vonatkozásában a bizalmi vagyonkezelési szerződés megkötése.
 
 (3a) Ha a biztosítási szerződés a 7. § (1a) bekezdése szerinti esetben utóbb olyan módon módosul, hogy a biztosító teljesítésére a biztosított vagy más magánszemély (nem a díjat fizető személy) válik jogosulttá (e törvény alkalmazásában ideértve azt az esetet is, ha a biztosított a szerződő helyébe lép), a biztosítás szerződésmódosítás időpontjáig megfizetett díja a szerződés módosításának időpontjában – tekintettel az 1. számú melléklet rendelkezéseire is – egy összegben minősül adóköteles biztosítási díjnak a biztosított magánszemélynél, azzal, hogy nem kell alkalmazni ezt a szabályt, ha a magánszemély a más személy által korábban megfizetett díjat a díjat fizető személynek megtéríti.
 
@@ -670,7 +672,7 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 - b) a közfoglalkoztatási jogviszonyban végzett tevékenység,
 - c) a társas vállalkozás magánszemély tagjának személyes közreműködése,
 - d) a gazdasági társaság vezető tisztségviselőjének tevékenysége,
-- e) a jogszabály alapján választott tisztségviselő (kivéve a választott könyvvizsgálót) tevékenysége, ha ezt a tevékenységet nem egyéni vállalkozóként végzi,
+- e) a jogszabály alapján választott vagy kijelölt tisztségviselő (ideértve a felügyelőbizottság tagját és a Polgári Törvénykönyv szerinti küldöttgyűlés tagját, de ide nem értve a választott könyvvizsgálót) tevékenysége, ha ezt a tevékenységet nem egyéni vállalkozóként végzi,
 - f) a segítő családtag tevékenysége,
 - g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony,
 - h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység.
@@ -692,7 +694,7 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 
 (5)–(8)
 
-26. § (1) Ha a munkaviszonyból származó, előző naptári évre vonatkozó bevételt, a munkáltató által kifizetett adóköteles társadalombiztosítási ellátást a következő év január 15-éig fizetik ki, azt az előző naptári év utolsó napján megszerzett jövedelemnek kell tekinteni.
+26. § (1) Ha a munkaviszonyból származó, előző naptári évre vonatkozó bevételt, a munkáltató által kifizetett adóköteles társadalombiztosítási ellátást a következő év január 10-éig fizetik ki, azt az előző naptári év utolsó napján megszerzett jövedelemnek kell tekinteni.
 
 (2)–(4)
 
@@ -795,7 +797,7 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 - a)–e)
 
-(20) Ha a magánszemély ellenőrzött külföldi társaság tagja, és/vagy abban más társaság(ok) révén közvetett részesedéssel/szavazattal rendelkezik annak adóéve (üzleti éve) utolsó napján, és abban a saját, valamint a Ptk. 685. §-ának b) pontja szerinti közeli hozzátartozói együtt számított részesedése/közvetett részesedése vagy szavazati aránya/közvetett szavazati aránya eléri a 25 százalékot, egyéb jövedelem az ellenőrzött külföldi társaság adóéve (üzleti éve) utolsó napján kimutatott, a felosztott osztalékkal csökkentett adózott eredményéből, a magánszemély közvetlen és/vagy közvetett részesedésének arányában megállapított rész. A magánszemély e bekezdés szerint megállapított jövedelmének halmozott összegéről – figyelemmel a (21) bekezdésben foglaltakra is – nyilvántartást vezet. E rendelkezés alkalmazásában
+(20) Ha a magánszemély ellenőrzött külföldi társaság tagja, és/vagy abban más társaság(ok) révén közvetett részesedéssel/szavazattal rendelkezik annak adóéve (üzleti éve) utolsó napján, és abban a saját, valamint a Polgári Törvénykönyv szerinti közeli hozzátartozói együtt számított részesedése/közvetett részesedése vagy szavazati aránya/közvetett szavazati aránya eléri a 25 százalékot, egyéb jövedelem az ellenőrzött külföldi társaság adóéve (üzleti éve) utolsó napján kimutatott, a felosztott osztalékkal csökkentett adózott eredményéből, a magánszemély közvetlen és/vagy közvetett részesedésének arányában megállapított rész. A magánszemély e bekezdés szerint megállapított jövedelmének halmozott összegéről – figyelemmel a (21) bekezdésben foglaltakra is – nyilvántartást vezet. E rendelkezés alkalmazásában
 
 - a) közvetett részesedés, közvetett szavazati arány: a b) pont szerint számított, két tizedesre kerekítve százalékban kifejezett részesedési arány;
 - b) részesedési/szavazati arány számítása: a magánszemély közvetett részesedést/szavazatot biztosító társaságban lévő részesedésének/szavazati arányának és a köztes társaságban, illetve társaságokban fennálló részesedés(ek)nek/szavazati arány(ok)nak a szorzata azzal, hogy ha a köztes társaságban fennálló részesedés/szavazati arány mértéke az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni;
@@ -1245,6 +1247,8 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 (3) Jogszabály vagy államközi megállapodás alapján a tevékenységhez nyújtott vissza nem térítendő támogatás elszámolására és nyilvántartására az önálló tevékenységet folytató magánszemélyre vonatkozó szabályokat kell alkalmazni.
 
 (4) Az átalányadózást követően a vállalkozói jövedelem szerinti adózásra áttérő egyéni vállalkozónál az áttérés adóévében a vállalkozói bevétel része az az összeg, amelyet az átalányadózás megkezdésekor a meglévő készletekkel összefüggésben az egyéni vállalkozói tevékenység megszüntetésére vonatkozó szabályok szerint megállapított.
+
+(4a) Vállalkozói bevételnek minősül az egyéni vállalkozó mint vagyonrendelő által létrehozott bizalmi vagyonkezelési szerződés keretében a vagyonkezelő tulajdonába adott készletek szokásos piaci értéke.
 
 (5) Vállalkozói bevételnek minősül – figyelemmel a (19) bekezdés rendelkezésére – az egyéni vállalkozó által foglalkoztatottak adóévet megelőző adóévi átlagos állományi létszámának az adóévben foglalkoztatottak átlagos állományi létszámát meghaladó érték és a megelőző adóév első napján érvényes havi minimálbér évesített összegének szorzataként meghatározott összeg 1,2-szerese, de legfeljebb a korábban érvényesített összes foglalkoztatási kedvezmény összegének 1,2-szerese, azzal, hogy
 
@@ -1843,6 +1847,7 @@ a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szól�
   - ab) a kamatozó részvény kamata;
   - ac) a külföldi állam joga szerint osztaléknak minősülő jövedelem;
   - ad) a kockázatitőkealap-jegy hozama;
+  - ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
 - b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
 (2)
@@ -1854,9 +1859,9 @@ a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szól�
 
 – a kifizetés időpontjában állapítja meg és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Kifizető hiányában az adót a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg. Az osztalékelőleget és annak adóját a kifizetés évéről szóló adóbevallásban tájékoztató adatként kell feltüntetni, a jóváhagyott kifizetett osztalékot, a levont, megfizetett adót az osztalékot megállapító beszámoló elfogadásának évéről szóló adóbevallásban – az osztalékelőlegből levont, megfizetett adót levont adóként figyelembe véve – kell bevallani.
 
-(4)
+(4) Nem alkalmazható az (1) bekezdés a) pont ae) alpontja, ha a bizalmi vagyonkezelési szerződésben megjelölt kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
 
-(5)
+(5) Az (1) bekezdés a) pont ae) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett vagy a vagyonrendelő magánszemély a bizalmi vagyonkezelésben lévő vagyonnak először a hozamait szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni.
 
 ### Árfolyamnyereségből származó jövedelem
 
@@ -2111,7 +2116,7 @@ kell figyelembe venni.
   - ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
   - bb) Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 8 ezer forintot meg nem haladó rész;
 - c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
-- d) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezetekről szóló törvényben foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
+- d) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezet alapszabályában foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
 
 (3) Béren kívüli juttatásnak minősül a magánszemély javára átutalt munkáltatói/foglalkoztatói havi hozzájárulásból
 
@@ -2876,7 +2881,7 @@ nyújt.
 
 a) amelynek címzettje az alapító, az adományozó, a támogató – kivéve az orvosi javaslat alapján fogyatékosságával, gyógyításával összefüggő termék, szolgáltatás formájában nem pénzben megszerzett bevételt –,
 
-b) amelyet a kifizetővel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy más, a Ptk. szerinti olyan szerződéses jogviszonyban álló magánszemély kap, amelynek alapján a kifizetés (juttatás) a magánszemélyt
+b) amelyet a kifizetővel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy más, a Polgári Törvénykönyv szerinti olyan szerződéses jogviszonyban álló magánszemély kap, amelynek alapján a kifizetés (juttatás) a magánszemélyt
 
 ba) az általa végzett tevékenység mennyiségi és/vagy minőségi jellemzőire tekintettel,
 
@@ -2982,7 +2987,11 @@ c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Öszt
 
 4.23. a Magyar Közigazgatási Ösztöndíjprogram keretében folyósított ösztöndíj.
 
-4.24. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetekről szóló 2006. évi X. törvény 56. § (1) bekezdése szerint termék termelésével vagy feldolgozásával teljesített személyes közreműködés ellenértékeként a tagi jogállásra tekintettel élelmiszer, a szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát. Az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni.
+4.24. a) a szociális szövetkezet tagja által a tagi munkavégzés ellenértékeként élelmiszer, a szociális szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát;
+
+b) a közhasznú jogállású szociális szövetkezet által a közösségi alapból az alapszabályában rögzített közhasznú céljával összhangban a szövetkezeti tag természetes személynek, vagy családtagjának élelmiszer, fogyasztásra kész étel vásárlására felhasználható utalvány formájában legfeljebb havonta a minimálbér összegét meg nem haladó értékben támogatásként vagy segélyként juttatott bevétel,
+
+mindkét esetben azzal, hogy az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni;
 
 4.25. a munkáltató által a munkavállalók számára biztosított olyan szolgáltatás (ide értve berendezés, eszköz használatát is), amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy
 
@@ -3010,7 +3019,7 @@ a) mint károsult, segélyként, támogatásként elemi kár (ideértve a martin
 
 b) tartásdíjként jogszabályban meghatározott kötelezettség alapján, ideértve a jogszabályban meghatározott kötelezettség alapján megállapított tartásdíj helyett fizetett összeget is,
 
-c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
+c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, sérelemdíjként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
 
 d) mint bűncselekmény áldozata, támogatásként az áldozatsegítő szolgálattól,
 
@@ -3141,6 +3150,8 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás.
 
 7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó az egyéni vállalkozók, az őstermelők esetében agrár csekély összegű (de minimis) támogatásnak minősül.
+
+7.25. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon (ide nem értve annak hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 

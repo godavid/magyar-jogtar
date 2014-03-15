@@ -299,11 +299,15 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (7) A bíróság elrendelheti ítéletének – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha azt az adatvédelem érdekei és nagyobb számú érintett e törvényben védett jogai megkövetelik.
 
-#### 17. Kártérítés
+#### 17. Kártérítés és sérelemdíj
 
-23. § (1) Az adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével másnak okozott kárt köteles megtéríteni. Az érintettel szemben az adatkezelő felel az adatfeldolgozó által okozott kárért is. Az adatkezelő mentesül a felelősség alól, ha bizonyítja, hogy a kárt az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.
+23. § (1) Ha az adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével másnak kárt okoz, köteles azt megtéríteni.
 
-(2) Nem kell megtéríteni a kárt annyiban, amennyiben az a károsult szándékos vagy súlyosan gondatlan magatartásából származott.
+(2) Ha az adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével az érintett személyiségi jogát megsérti, az érintett az adatkezelőtől sérelemdíjat követelhet.
+
+(3) Az érintettel szemben az adatkezelő felel az adatfeldolgozó által okozott kárért és az adatkezelő köteles megfizetni az érintettnek az adatfeldolgozó által okozott személyiségi jogsértés esetén járó sérelemdíjat is. Az adatkezelő mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy a kárt vagy az érintett személyiségi jogának sérelmét az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.
+
+(4) Nem kell megtéríteni a kárt és nem követelhető a sérelemdíj annyiban, amennyiben a kár a károsult vagy a személyiségi jog megsértésével okozott jogsérelem az érintett szándékos vagy súlyosan gondatlan magatartásából származott.
 
 #### 18. Belső adatvédelmi felelős és adatvédelmi szabályzat
 
@@ -361,7 +365,11 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - g) bírósági vagy közigazgatási hatósági eljárásra tekintettel;
 - h) a szellemi tulajdonhoz fűződő jogra tekintettel korlátozhatja.
 
-(3) Az üzleti titok megismerésére a Polgári Törvénykönyvben foglaltak az irányadók.
+(3) Közérdekből nyilvános adatként nem minősül üzleti titoknak a központi és a helyi önkormányzati költségvetés, illetve az európai uniós támogatás felhasználásával, költségvetést érintő juttatással, kedvezménnyel, az állami és önkormányzati vagyon kezelésével, birtoklásával, használatával, hasznosításával, az azzal való rendelkezéssel, annak megterhelésével, az ilyen vagyont érintő bármilyen jog megszerzésével kapcsolatos adat, valamint az az adat, amelynek megismerését vagy nyilvánosságra hozatalát külön törvény közérdekből elrendeli. A nyilvánosságra hozatal azonban nem eredményezheti az olyan adatokhoz – így különösen a védett ismerethez – való hozzáférést, amelyek megismerése az üzleti tevékenység végzése szempontjából aránytalan sérelmet okozna, feltéve hogy ez nem akadályozza meg a közérdekből nyilvános adat megismerésének lehetőségét.
+
+(3a) Az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely az államháztartás alrendszerébe tartozó valamely személlyel pénzügyi vagy üzleti kapcsolatot létesít, köteles e jogviszonnyal összefüggő és a (3) bekezdés alapján közérdekből nyilvános adatra vonatkozóan – erre irányuló igény esetén – bárki számára tájékoztatást adni. A tájékoztatási kötelezettség a közérdekből nyilvános adatok nyilvánosságra hozatalával vagy a korábban már elektronikus formában nyilvánosságra hozott adatot tartalmazó nyilvános forrás megjelölésével is teljesíthető.
+
+(3b) Ha a (3a) bekezdés alapján tájékoztatásra kötelezett a tájékoztatást megtagadja, a tájékoztatást igénylő a tájékoztatásra kötelezett felett törvényességi felügyelet gyakorlására jogosult szerv eljárását kezdeményezheti.
 
 (4) A közérdekű adatok megismerése korlátozható uniós jogi aktus alapján az Európai Unió jelentős pénzügy- vagy gazdaságpolitikai érdekére tekintettel, beleértve a monetáris, a költségvetési és az adópolitikai érdeket is.
 

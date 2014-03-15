@@ -264,7 +264,7 @@ hiánya.
 
 (2) A magánindítvány előterjesztésére a sértett jogosult.
 
-(3) Ha a sértett korlátozottan cselekvőképes, a magánindítványt törvényes képviselője is, ha cselekvőképtelen, kizárólag a törvényes képviselője terjesztheti elő. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult.
+(3) Ha a sértett cselekvőképtelen, a magánindítványt törvényes képviselője terjesztheti elő. A magánindítványt a korlátozottan cselekvőképes kiskorú sértett önállóan is előterjesztheti, és erre törvényes képviselője is jogosult. Ha a sértett a személyes ügyei vitelében vagy a bírósághoz, hatósághoz fordulás joga tekintetében cselekvőképességében részlegesen korlátozott nagykorú, a magánindítvány előterjesztéséhez a törvényes képviselő hozzájárulása szükséges. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult. Érdekellentét esetén a Polgári Törvénykönyv szabályai az irányadók.
 
 (4) Ha a magánindítvány előterjesztésére jogosult sértett meghal, a hozzátartozója jogosult a magánindítvány előterjesztésére.
 
@@ -5663,7 +5663,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 
 - 6. felfegyverkezve követi el a bűncselekményt, aki az ellenállás leküzdése vagy megakadályozása érdekében az élet kioltására alkalmas eszközt tart magánál;
 - 7. fenyegetés: eltérő rendelkezés hiányában súlyos hátrány kilátásba helyezése, amely alkalmas arra, hogy a megfenyegetettben komoly félelmet keltsen;
-- 8. gazdálkodó szervezet: a Polgári Törvénykönyv szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a Polgári Törvénykönyv szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
+- 8. gazdálkodó szervezet: a polgári perrendtartás szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a polgári perrendtartás szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
 - 9. hatóság a bíróság és az ügyész is;
 - 10. háború:
   - a) a háború áldozatainak védelmére vonatkozóan Genfben, az 1949. évi augusztus hó 12. napján kelt nemzetközi egyezmények közös 2. és 3. Cikkében, valamint ezen egyezmények I. Kiegészítő Jegyzőkönyve 1. Cikkének 4. bekezdésében meghatározott helyzetek,
