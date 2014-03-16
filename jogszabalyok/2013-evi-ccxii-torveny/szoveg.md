@@ -900,7 +900,7 @@ rendeletben állapítsa meg.
 - d)
 - e)
 - f)
-- g) 11. § (2) és (3) bekezdése;
+- g)
 - h)
 - i)
 - j)

@@ -2849,416 +2849,83 @@ van összefüggésben.
 
 ### Módosító rendelkezések
 
-206. § (1) A Tpt. 5. § (1) bekezdés 36. pontja helyébe a következő rendelkezés lép:
+#### 206. §
 
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában)
+#### 207. §
 
-„36. elszámolási rendszer: pénzügyi eszközre kötött ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására, illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,”
+#### 208. §
 
-(2) A Tpt. 5. § (1) bekezdés 60. pontja helyébe a következő rendelkezés lép:
+#### 209. §
 
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában)
+#### 210. §
 
-„60. intézményi befektető:
+#### 211. §
 
-a) a hitelintézet, a pénzügyi vállalkozás, befektetési vállalkozás, a kollektív befektetési forma, befektetési alapkezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény, az egészségbiztosítási szerv és a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+#### 212. §
 
-b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,”
+#### 213. §
 
-207. § A Tpt. 7. §-a helyébe a következő rendelkezés lép:
+#### 214. §
 
-„7. § (1) A dematerializált értékpapír bármilyen nyomtatott formában történő megjelenítésén feltűnő módon fel kell tüntetni, hogy az nem értékpapír.
+#### 215. §
 
-(2) Ha a kibocsátó az értékpapír dematerializált értékpapírként történő előállításáról rendelkezett, a kibocsátó egy példányban – értékpapírnak nem minősülő – okiratot állít ki, amely tartalmazza:
+#### 216. §
 
-a) a tulajdonos neve kivételével az értékpapír jogszabályban meghatározott valamennyi tartalmi kellékét,
+#### 217. §
 
-b) a kibocsátásról szóló döntést és a döntés meghozatalának időpontját,
+#### 218. §
 
-c) a kibocsátott teljes sorozat össznévértékét,
+#### 219. §
 
-d) a kibocsátott értékpapírok számát, névértékét, és
+#### 220. §
 
-e) a kibocsátó cégszerű aláírását, részvény esetén a kibocsátó részvénytársaság igazgatósága két tagjának aláírását.
+#### 221. §
 
-(3) A dematerializált értékpapír olyan névre szóló értékpapír, amelynek nincs sorszáma, a tulajdonos nevét, egyértelmű azonosítására szolgáló adatokat pedig az értékpapírszámla tartalmazza.”
+#### 222. §
 
-208. § A Tpt. 9. §-a helyébe a következő rendelkezés lép:
+#### 223. §
 
-„9. § (1) A 7. § (2) bekezdése szerinti okiratot a kibocsátó a központi értéktárban helyezi el, és egyidejűleg megbízza a központi értéktárat az értékpapír előállításával.
+#### 224. §
 
-(2) A dematerializált értékpapír kibocsátása esetén, ha a tulajdonosnak az értékpapír kiadására vonatkozó követelési joga megnyílt, a kibocsátó haladéktalanul értesíti a központi értéktárat az allokáció eredménye alapján az értékpapír-tulajdonos számlavezetőjének személyéről és a központi értékpapírszámlán jóváírandó értékpapír darabszámáról. A kibocsátó utasítására a központi értéktár a központi értékpapírszámlákat a 7. § (2) bekezdése szerinti okirat és a kibocsátó értesítése alapján az értékpapír jóváírásával megnyitja.
+#### 225. §
 
-(3) Az értékpapír-számlavezető – a központi értéktárnak a központi értékpapírszámla megnyitásáról szóló értesítését követően – az abban megjelölt értéknappal, az általa vezetett értékpapírszámlán jóváírja az értékpapírt és erről értesíti a számlatulajdonost. A dematerializált értékpapír előállítása során az előállítás visszamenőleges értéknappal nem lehetséges.
+#### 226. §
 
-(4) Amennyiben az értékpapír előállítása során a kibocsátó által megadott adatok alapján a dematerializált értékpapír tulajdonosát az értékpapír számlavezető nem éri el, az értékpapír-számlavezető az előállítás alatt álló értékpapírt továbbítja a központi értéktár által a kibocsátó nevén erre a célra vezetett értékpapírszámlára. A jóváírt értékpapírok az erre a célra nevesített értékpapírszámlán 6 hónapig tarthatók, ezen időszakon belül a kibocsátó köteles a központi értéktár részére utasítást adni az értékpapírok értékpapír-számlavezetők részére történő allokálására vagy azok törlésére.
+#### 227. §
 
-(5) A központi értéktár felel azért, hogy a központi értékpapírszámlák összesített állománya folyamatosan megegyezzen az adott értékpapír-sorozat kibocsátási mennyiségével. Ha a központi értékpapírszámlákon nyilvántartott értékpapír mennyisége a forgalomba hozott mennyiségtől eltér, a központi értéktár az eltérés okát köteles haladéktalanul kivizsgálni, és annak megszüntetése érdekében intézkedni.”
+#### 228. §
 
-209. § A Tpt. 12/A. §-a a következő (8)–(9) bekezdéssel egészül ki:
+#### 229. §
 
-„(8) Az átalakítás során be nem azonosított részvényes dematerializált részvénye helyébe lépő nyomdai úton előállított részvényt a kibocsátó az átalakítástól számított hat hónapon belül – befektetési vállalkozás, hitelintézet közreműködésével – értékesíti. Az értékesítés szabályait a kibocsátó az átalakításról szóló hirdetményben jelenteti meg. Az értékesítés eredménytelensége esetén a kibocsátó az értékesítésre nyitva álló határidő lejártát követő első közgyűlésen leszállítja az alaptőkét.
+#### 230. §
 
-(9) A be nem azonosított részvényes utólag követelheti a dematerializált részvény helyébe lépett nyomdai úton előállított részvény kiadását, vagy ha az értékesítés megtörtént, akkor a nyomdai úton előállított részvény ellenértékét. Az értékesített nyomdai úton előállított részvény ellenértékének összegét a jogosult jelentkezéséig a kibocsátó hitelintézetnél nyitott letéti számlán tartja. Az átalakítási folyamatot követően beazonosított részvényes az igényének érvényesítéséig felmerült költségeket köteles megfizetni. A részvény kiadása iránti követelés helyébe lépő pénzkövetelés elévülésére az értékpapírban megtestesített követelés elévülésére irányadó szabályok érvényesek.”
+#### 231. §
 
-210. § A Tpt. 149. §-a helyébe a következő rendelkezés lép:
+#### 232. §
 
-„149. § (1) Dematerializált értékpapír esetén a kibocsátó kérelme vagy a Felügyelet határozata alapján tulajdonosi megfeleltetésre kerülhet sor. A Felügyelet tulajdonosi megfeleltetésről akkor határozhat, ha ez feladatai ellátása érdekében szükséges. A tulajdonosi megfeleltetést a központi értéktár által meghatározott eljárási rend szerint, a kibocsátó kérelmében vagy a Felügyelet határozatában megjelölt időpontban hatályos adatokra nézve kell végrehajtani.
+#### 233. §
 
-(2) A tulajdonosi megfeleltetés esetén az értékpapírszámla-vezető átadja a központi értéktárnak azoknak az értékpapírszámla-tulajdonosoknak az azonosító adatait és értékpapírjaik darabszámát, akik a tulajdonosi megfeleltetést elrendelő felügyeleti határozatban vagy a tulajdonosi megfeleltetésre vonatkozó kibocsátói kérelemben meghatározott időpontban, az ott meghatározott dematerializált értékpapírral rendelkeznek.
+#### 234. §
 
-(3) A tulajdonosi megfeleltetés során, amennyiben az olyan kibocsátó kérelmére indul, amely befektetési vállalkozás, részvénytársasági formában működő árutőzsdei szolgáltató, befektetési alapkezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve központi értéktár, az értékpapírszámla-vezető a kibocsátó részvényeit jegyző értékpapírszámla-tulajdonosairól a központi értéktárnak köteles átadni a (2) bekezdésben meghatározottakon kívül a részvényszerzés részvénykönyvbe történő bejegyzésének, továbbá jogszabály eltérő rendelkezése esetén a részvény szerzésének időpontját.
+#### 235. §
 
-(4) Dematerializált részvény esetén – ha a tulajdonosi megfeleltetésre a kibocsátó kérelme alapján kerül sor – azoknak az értékpapírszámla-tulajdonosoknak az azonosító adatai és részvényeinek darabszáma átadására kerül sor, akik a tulajdonosi megfeleltetésre vonatkozó kibocsátói kérelemben meghatározott időpontban, az ott meghatározott dematerializált részvénnyel rendelkeznek, és nyilvánosan működő részvénytársaság esetében nem rendelkeztek a részvénykönyvbe történő bejegyzés megtiltásáról, vagy nem kérték törlésüket.
+#### 236. §
 
-(5) A kibocsátó és a Felügyelet jogosult a hitelviszonyt megtestesítő értékpapírok esetén a tulajdonosi megfeleltetés alapján rendelkezésre álló adatokat az Országos Betétbiztosítási Alapnak átadni.”
+#### 237. §
 
-211. § A Tpt. 168. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 238. §
 
-„(1) A befektetési vállalkozás, a befektetési alapkezelő, a kollektív befektetési forma, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, az önkéntes kölcsönös biztosító pénztár, foglalkoztatói nyugdíjszolgáltató intézmény, a magánnyugdíjpénztár és a biztosító a tevékenység megkezdését megelőzően bejelenti a Felügyeletnek, ha értékpapír-kölcsönzést kíván végezni. A bejelentéshez mellékelni kell a KHR igazolását a tagság fennállásáról, ha az értékpapír-kölcsönzést nem referenciaadat-szolgáltatók részére végzik.”
+#### 239. §
 
-212. § A Tpt. 321. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 240. §
 
-„(2) A határidős ügylet teljesítése történhet az ügylet tárgyának tényleges átadásával, közraktári jeggyel történő teljesítéssel, illetve számlapénz elszámolással. Az elszámolásra vonatkozó szabályok a szerződés tárgyának tényleges átadásával történő teljesítését korlátozhatják vagy kizárhatják.”
-
-213. § A Tpt. 335. § (3) bekezdése a következő k) ponttal egészül ki:
-
-(Az elszámolóház elszámolási tevékenységen kívül kizárólag:)
-
-„k) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti valamennyi kereskedési adattári,”
-
-(tevékenységet végezhet.)
-
-214. § A Tpt. 335/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az elszámolóház a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag értékpapír forgalomba hozatalával, az értékpapíron alapuló fizetéssel, befektetési szolgáltatással, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatással, az értékpapírban foglalt kötelezettségen alapuló fizetéssel vagy erre vonatkozó szolgáltatással, árutőzsdei szolgáltatással, egyensúlyozó platformon nyújtott szolgáltatással, valamint külön törvényben meghatározott szervezett piac számára nyújtott szolgáltatással kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezhet.”
-
-215. § A Tpt. 336. § (2) bekezdése a következő h) ponttal egészül ki:
-
-(A központi értéktár központi értéktári tevékenységen kívül kizárólag:)
-
-„h) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti kereskedési adattári tevékenységet”
-
-(folytathat.)
-
-216. § A Tpt. 338. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Az elszámolóházi tevékenység mellett végezhető, a 335. § (3) bekezdés k) pontjában foglalt tevékenységre a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szabályai az irányadók.”
-
-217. § A Tpt. 340. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az elszámolóház pénzügyi szolgáltatási tevékenységére a Hpt. rendelkezéseit, az elszámolóházi tevékenységet végző szervezetek kiegészítő befektetési szolgáltatási tevékenységére pedig a Bszt. rendelkezéseit az e részben foglalt eltérésekkel kell alkalmazni.”
-
-218. § A Tpt. 340/A. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A központi értéktári tevékenység mellett végezhető, a 336. § (2) bekezdés h) pontjában foglalt tevékenység végzésére a 648/2012/EU rendelet szabályai az irányadók.”
-
-219. § (1) A Tpt. 340/D. § (2) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
-
-[A központi szerződő fél az (1) bekezdésben meghatározott tevékenységen kívül jogosult]
-
-„e) a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylettel kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezni,
-
-f) a fenti tevékenységeket segítő kiegészítő tevékenységként informatikai, adatszolgáltatási, valamint oktatási tevékenységet végezni, valamint”
-
-(2) A Tpt. 340/D. § (2) bekezdése a következő g) ponttal egészül ki:
-
-[A központi szerződő fél az (1) bekezdésben meghatározott tevékenységen kívül jogosult]
-
-„g) a központi értéktár vagy az elszámolóház által kiszervezett tevékenységet végezni.”
-
-220. § A Tpt. 340/F. §-a helyébe a következő rendelkezés lép:
-
-„340/F. § (1) A Felügyelet a központi szerződő fél tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha a központi szerződő fél tevékenységet végző szervezet a tevékenységre vonatkozó, e törvényben és más jogszabályban, valamint a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlament és tanácsi rendeletében meghatározott előírásokat ismétlődően vagy súlyosan megszegi.
-
-(2) A Felügyelet a központi szerződő fél kérelmére indult eljárásban a központi szerződő fél tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha a központi szerződő fél ügyfele felé vállalt összes kötelezettségének eleget tett, a pénzügyi eszközben megkötött ügyletek elszámolását és az ügyletek teljesítésének garantálását más központi szerződő fél átvette.”
-
-221. § A Tpt. 341. § (1) bekezdése a következő h) ponttal egészül ki:
-
-[A központi értéktárban – a (2) bekezdésben meghatározott eltéréssel – tulajdoni részesedést szerezhet:]
-
-„h) a központi szerződő fél.”
-
-222. § (1) A Tpt. 342. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A központi értéktárban minősített befolyást szerző vagy meglévő befolyását módosító személy – ha a befolyásának mértéke eléri a huszonöt, harminchárom, ötven, hetvenöt, kilencven vagy száz százalékot – a befolyásszerzést két munkanapon belül)
-
-„b) tájékoztatja azt az elszámolóházi tevékenységet végző szervezetet, illetve központi szerződő felet, amellyel a központi értéktárnak hatályos megállapodása van.”
-
-(2) A Tpt. 342. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A központi értéktárban az (1) bekezdésben meghatározott befolyással rendelkező személy – ha befolyásának mértéke a huszonöt, harminchárom, ötven, hetvenöt, kilencven százalék alá csökken vagy megszűnik – a befolyásszerzést két munkanapon belül – a bejelentés pillanatában meglévő befolyás mértékének megjelölésével –]
-
-„b) tájékoztatja azt az elszámolóházi tevékenységet végző szervezetet, illetve központi szerződő felet, amellyel a központi értéktárnak hatályos megállapodása van.”
-
-223. § A Tpt. 350/E. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az üzletszabályzat és a szabályzatok rendelkezéseinek tervezetét a központi szerződő fél véleményezteti azzal a tőzsdével, amelynek szerződés alapján elszámolást végez.”
-
-224. § (1) A Tpt. 358. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve központi értéktár által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.”
-
-(2) A Tpt. 358. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az (1) bekezdésben foglaltakon túlmenően további követelmény a könyvvizsgáló céggel szemben, hogy a könyvvizsgáló cégen belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló egyidejűleg legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és a könyvvizsgáló cég egy intézménytől származó bevétele nem haladhatja meg az éves nettó árbevételének tíz százalékát. A könyvvizsgáló cégnek az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátótól, hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól, befektetési alapkezelőtől, tőzsdétől, elszámolóházi tevékenységet végző szervezettől, központi szerződő féltől, valamint központi értéktártól és a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített bevétele nem haladhatja meg az éves nettó árbevételének harminc százalékát.”
-
-225. § A Tpt. 360. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
-
-a) korlátozott vagy elutasító könyvvizsgálói záradék, illetve a záradék megadásának elutasítása válhat szükségessé;
-
-b) bűncselekmény elkövetésére vagy a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár belső szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
-
-c) e törvény vagy más jogszabályok, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
-
-d) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
-
-e) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
-
-f) jelentős véleménykülönbség alakult ki közte és a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezetése között a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.”
-
-226. § A Tpt. 361. §-a helyébe a következő rendelkezés lép:
-
-„361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdés d) pontjában meghatározott intézkedésként a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.”
-
-227. § A Tpt. 363. §-a helyébe a következő rendelkezés lép:
-
-„363. § (1) A tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
-
-(2) A Felügyelet jogosult a könyvvizsgáló a 360. § (3) bekezdés b) pontja szerinti tájékoztatása alapján – az éves beszámoló jóváhagyása előtt – a tőzsdénél, az elszámolóházi tevékenységet végző szervezetnél, a központi szerződő félnél, illetve a központi értéktárnál kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót helyesbítsék, gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
-
-(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szmt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár köteles a Felügyeletnek bemutatni.”
-
-228. § A Tpt. 368. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél tulajdonosa, az e szervezetekben részesedést szerezni kívánó személy, a vezető állású személy, valamint e szervezetek alkalmazottja köteles az e szervezetek működésével kapcsolatban tudomására jutott üzleti titkot időbeli korlátozás nélkül megtartani.”
-
-229. § (1) A Tpt. 380. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szabályozott piac, a tőzsde, a központi értéktár, a központi szerződő fél, a külföldi székhelyű befektetési vállalkozás magyarországi képviselete a Felügyelet részére felügyeleti díjat fizet.”
-
-(2) A Tpt. 380. § (4) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
-
-(A szorzószám)
-
-„a) szabályozott piac, tőzsde, központi értéktár, központi szerződő fél esetén: négy,
-
-b) az Európai Unió másik tagállamában székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, valamint a 648/2012/EU rendelet 25. cikke szerint nyilvántartásba vett, Európai Unió tagállamában székhellyel nem rendelkező központi szerződő fél magyarországi fióktelepe esetén: négy,”
-
-230. § A Tpt. 381. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az Európai Unió másik tagállamában székhellyel rendelkező központi értéktár, szabályozott piac, tőzsde magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,1 ezreléke.”
-
-231. § A Tpt. 391. § (1) bekezdés a)–i) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:)
-
-„a) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár neve, székhelye;
-
-b) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár alapításának időpontja;
-
-c) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenységi köre;
-
-d) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
-
-e) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
-
-f) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár vezető állású személyei;
-
-g) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
-
-h) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
-
-i) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;”
-
-232. § (1) A Tpt. 394. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet feladata ellátása érdekében kezelheti)
-
-„a) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;”
-
-(2) A Tpt. 394. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet feladata ellátása érdekében kezelheti)
-
-„c) a pénzügyi közvetítőrendszer felügyeletének ellátása során, a Felügyelet ellenőrzési feladatainak ellátása érdekében a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár természetes személy ügyfelének természetes személyazonosító adatait, jogi személy ügyfelének azonosító adatait illetve az ilyen adatot tartalmazó nyilvántartást vagy adatbázist; az ügyfél vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, számlájának egyenlegére és forgalmára vonatkozó adatokat;”
-
-(3) A Tpt. 394. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet feladata ellátása érdekében kezelheti)
-
-„f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekében
-
-1. a tőzsdére bevezetett értékpapír kibocsátójánál vezető állású személy,
-
-2. a tőzsde tisztségviselője és alkalmazottja,
-
-3. az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél vagy a központi értéktár vezető állású személye és alkalmazottja,
-
-4. az ügynök
-
-természetes személyazonosító adatait;”
-
-233. § (1) A Tpt. 395. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár a Felügyeletnek köteles bejelenteni és ezzel egyidejűleg – az i) pontban foglaltak kivételével – közzétenni:
-
-a) valamely engedélyezett tevékenység megkezdését;
-
-b) a részvényesei nevét (cégnevét), illetve tulajdoni és szavazati hányadukat;
-
-c) a járulékos vállalkozásban történő befolyásszerzést, illetve a befolyás megszűnését;
-
-d) a 356. §-ban és a Kbftv. 19. § (5)–(8) bekezdésében meghatározott személyi körben bekövetkezett változást;
-
-e) az ügynökkel kötött szerződés megkötését, módosítását és megszűnését;
-
-f) fióktelepének, képviseletének megnyitását és megszűnését;
-
-g) a közgyűlésének összehívását a napirend közlésével, valamint a közgyűlés által hozott határozatokat, az utóbbiak lényeges tartalmának összefoglalásával;
-
-h) az ügyfélfogadás szüneteltetésének tervét;
-
-i) a cégjegyzékben nyilvántartott adatainak változását;
-
-j) ha vele szemben törvényességi felügyeleti eljárás indult.”
-
-(2) A Tpt. 395. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a Felügyeletnek megküldeni és ezzel egyidejűleg közzétenni a közgyűlés által jóváhagyott, független könyvvizsgálói jelentéssel ellátott számviteli beszámolót.”
-
-(3) A Tpt. 395. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről jogszabályban előírt módon, tartalommal és gyakorisággal az MNB-nek adatot szolgáltatni.”
-
-234. § (1) A Tpt. 400. § (1) bekezdés d)–g) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„d) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
-
-e) kötelezheti a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
-
-f) a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
-
-g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;”
-
-(2) A Tpt. 400. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„j) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár tevékenységi engedélyét visszavonhatja;”
-
-(3) A Tpt. 400. § (1) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„l) felügyeleti biztost rendelhet ki a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, központi szerződő félhez illetve a központi értéktárhoz;”
-
-(4) A Tpt. 400. § (1) bekezdés q)–r) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„q) megtilthatja, korlátozhatja vagy feltételhez kötheti a tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve a központi értéktár
-
-1. osztalékának kifizetését,
-
-2. vezető állású személyének történő kifizetést,
-
-3. tulajdonosainak e szervezetektől való kölcsönfelvételét, illetve, hogy e szervezetek részükre kockázatvállalással járó szolgáltatást nyújtsanak,
-
-4. tulajdonosainak és vezető tisztségviselőinek érdekeltségi körébe tartozó vállalkozások részére történő hitel, kölcsön nyújtását, illetve annak minősülő ügyletkötést,
-
-5. hitel- vagy kölcsönszerződésében foglalt határidők meghosszabbítását (prolongálását),
-
-6. új fiókjának megnyitását, új tevékenységének, valamint új üzletágának megkezdését;
-
-r) kötelezheti a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat
-
-1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetve alkalmazására,
-
-2. az alkalmazottak (vezetők) szakmai továbbképzésére, illetve megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére,
-
-3. a működési költségek csökkentésére,
-
-4. megfelelő nagyságú tartalék képzésére;”
-
-235. § (1) A Tpt. 401. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve központi értéktár
-
-a) olyan helyzetbe kerül, amelyben fennáll annak a veszélye, hogy kötelezettségeinek nem tud eleget tenni;
-
-b) igazgatósága (más vezető állású személye) nem tudja ellátni feladatát, és ez veszélyezteti a befektetők érdekeit;
-
-c) számvitelében, belső ellenőrzési rendszerében feltárt hiányosságok oly mértékűek, hogy lehetetlenné vált valódi pénzügyi helyzetének értékelése.”
-
-(2) A Tpt. 401. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdés b) pontjában meghatározott helyzet különösen akkor áll fenn, ha]
-
-„a) a tulajdonosok vagy a fióktelep alapítója az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár saját tőkéjét az előírt szintre nem emelik fel;”
-
-236. § (1) A Tpt. 402. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a szabályozott piac, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár igazgatósági tagjainak a gazdasági társaságokra vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.”
-
-(2) A Tpt. 402. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A (2) bekezdéstől eltérően az igazgatóság és a felügyelőbizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a szabályozott piaccal, a tőzsdével, az elszámolóházi tevékenységet végző szervezettel, a központi szerződő féllel, a központi értéktárral szemben hozott határozat ellen, e jogorvoslati eljárásban a szabályozott piacot, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, a központi értéktárat képviselheti vagy a képviselet ellátására megbízást adhat.
-
-(4) A felügyeleti biztos feladata:
-
-a) az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vagyoni helyzetének felmérése;
-
-b) az ügyfélkövetelések teljesíthetőségének felmérése;
-
-c) az a) és b) pontban előírtakhoz szükséges mértékben az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár nyilvántartásának helyreállítása; és
-
-d) a szükséges mértékben az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár működtetése.”
-
-237. § A Tpt. 404. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha az Európai Unió másik tagállamában székhellyel rendelkező szabályozott piac, tőzsde, elszámolóház, központi szerződő fél, illetve központi értéktár fióktelepe megsérti a Magyarországon hatályos előírásokat, illetve a Felügyelet hiányosságot észlel a fióktelep működésében, a Felügyelet felszólítja a fióktelepet a szabályellenes helyzet megszüntetésére.”
-
-238. § A Tpt. 405. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet és a piacbefolyásolást elkövető személyt az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá, ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.”
-
-239. § A Tpt.
-
-- a) 5. § (1) bekezdés 99. pontjában a „Batv.” szövegrész helyébe a „Kbftv.” szöveg,
-- b) 5. § (1) bekezdés 10., 12., 15., 76., és 77. pontjában a „Batv.-ben” szövegrészek helyébe a „Kbftv.-ben” szöveg
-
-lép.
-
-240. § A Tpt. 1. számú melléklet 21. pontjának helyébe a következő rendelkezés lép:
-
-„21. Kbftv.: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény.”
-
-241. § A Tpt. – egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított – 346. § (1) bekezdése, 350/C. § (1) bekezdése és 350/F. § (1) bekezdése a „Ptk. 5:95. § (2) és (4) bekezdése” szövegrész helyett a „Ptk. 5:95. §” szöveggel lép hatályba.
+#### 241. §
 
 #### 242. §
 
-243. § Az MNBtv. 39. § (1) bekezdés m) pontja helyébe a következő rendelkezés lép:
+#### 243. §
 
-[Ha törvény eltérően nem rendelkezik, az MNB a 4. § (9) bekezdésben meghatározott feladatkörében ellátja]
-
-„m) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény (a továbbiakban: Kbftv.),”
-
-(hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.)
-
-244. § Az MNBtv. 40. §-a a következő (11)–(14) bekezdéssel egészül ki:
-
-„(11) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai kockázatitőke-alapokról szóló, 2013. április 17-i 345/2013/EU parlamenti és tanácsi rendelet végrehajtását.
-
-(12) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai szociális vállalkozási alapokról szóló, 2013. április 17-i 346/2013/EU parlamenti és tanácsi rendelet végrehajtását.
-
-(13) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló, 2013. május 15-i 447/2013/EU bizottsági végrehajtási rendelet végrehajtását.
-
-(14) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló, 2013. május 15-i 448/2013/EU bizottsági végrehajtási rendelet végrehajtását.”
+#### 244. §
 
 #### 245. §
 
@@ -3284,96 +2951,15 @@ lép.
 
 #### 256. §
 
-257. § Az MNBtv. 185. §-a a következő s)–v) ponttal egészül ki:
+#### 257. §
 
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+#### 258. §
 
-„s) az Európai Parlament és a Tanács 345/2013/EU rendelete (2013. április 17.) az európai kockázatitőke-alapokról,
-
-t) az Európai Parlament és a Tanács 346/2013/EU rendelete (2013. április 17.) az európai szociális vállalkozási alapokról,
-
-u) a Bizottság 447/2013/EU végrehajtási rendelete (2013. május 15.) a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról,
-
-v) a Bizottság 448/2013/EU végrehajtási rendelete (2013. május 15.) a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról.”
-
-258. § Az MNBtv.
-
-- a) 1. melléklete a) pontja ac) alpontjának 6. alpontjában a „Batv. 118. § (4) bekezdésének b) pontja” szövegrész helyébe a „Kbftv. 143. § (4) bekezdésének b) pontja” szöveg,
-- b) 1. melléklete a) pontja ac) alpontjának 6. alpontjában a „Batv. 118. § (6) bekezdésének c) pontja” szövegrész helyébe a „Kbftv. 143. § (6) bekezdésének c) pontja” szöveg,
-- c) 1. melléklete a) pontja ad) alpontjának 6. alpontjában a „Batv. 78. § (7) bekezdésében” szövegrész helyébe a „Kbftv. 82. § (7) bekezdésében” szöveg
-
-lép.
-
-259. § A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény 7. §-a helyébe a következő rendelkezés lép:
-
-„7. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az Európai Unió területére belépő vagy azt elhagyó készpénz ellenőrzésének végrehajtását, annak részletes szabályait, az ideiglenes biztosítási intézkedésként visszatartott készpénz kezelésére, letétbe helyezésére és őrzésére vonatkozó részletes szabályokat, a bírság kiszabására vonatkozó részletes eljárási szabályokat, valamint a kiszabott bírság bevételezésének rendjét.”
+#### 259. §
 
 #### 260. §
 
-261. § (1) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 13/A. § (4) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben határozza meg)
-
-„g) az állami foglalkoztatási szerv szolgáltatásait igénybe vevő vagy kérő, álláskeresőként nem nyilvántartott személyek nyilvántartásának szabályait.”
-
-(2) Az Flt. 13/A. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A munkaerő-piaci programot és munkaerő-piaci szolgáltatást nyújtók szakmai támogatása a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet kedvezményezett részére továbbadási kötelezettséggel átadott szakmai támogatás nyújtásával is megvalósulhat. A szakmai támogatás továbbadásáról a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet a munkaerő-piaci programot és a munkaerő-piaci szolgáltatást nyújtóval szerződést köt. A szerződésben meg kell határozni a kedvezményezettet jogszabály, támogatói okirat, támogatási szerződés alapján terhelő kötelezettségek megtartását biztosító feltételeket.”
-
-(3) Az Flt. 14. § (2) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdés c) pontjában meghatározott személyek képzése akkor támogatható, ha a képzés időtartama hetente nem haladja meg a harminc órát, és]
-
-„a) a gyermekgondozási segélyben, illetve gyermekgondozási díjban részesülő személy képzése a gyermek egy éves korának betöltését követően kezdődik meg, valamint
-
-b) a gyermekgondozási segélyben, gyermekgondozási díjban, gyermeknevelési támogatásban részesülő személy kereső tevékenységet nem folytat.”
-
-(4) Az Flt. 40. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi kerete felhasználható)
-
-„c) a foglalkoztatáspolitikáért felelős miniszter által alapított, közfeladatot ellátó közhasznú szervezet részére – foglalkoztatási és képzési célú támogatás, valamint munkaerő-piaci szolgáltatás nyújtása érdekében – támogatás nyújtására;”
-
-(5) Az Flt. 57/D. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(Az adatbázis tartalmazza a résztvevők alábbi adatait, amelyet a kedvezményezettek szolgáltatnak:)
-
-„g) intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
-
-ga) intézkedésbe történő belépés dátuma,
-
-gb) munkaerő-piaci státusza,
-
-gc) annak ténye, hogy megváltozott munkaképességűnek minősül-e,
-
-gd) annak ténye, hogy a gc) ponton belül fogyatékkal élőnek minősül-e,
-
-ge) a résztvevő önkéntes nyilatkozata alapján, nemzetiségének megjelölése,
-
-gf) annak ténye, hogy tartós munkanélkülinek minősül-e,
-
-gg) annak ténye, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
-
-gh) annak ténye, hogy 18 éven aluli gyermeket nevel-e saját háztartásában,
-
-gi) annak ténye, hogy egyetlen felnőttből álló háztartásban él-e,
-
-gj) annak ténye, hogy munkanélküli háztartásban él-e,
-
-gk) annak ténye, hogy hajléktalan-e.”
-
-(6) Az Flt. 58. § (5) bekezdése a következő x) ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott.”
-
-(7) Az Flt.
-
-- a) 58. § (5) bekezdés a) pontjában az „a hivatásos nevelő szülői jogviszony,” szövegrész helyébe az „a nevelőszülői foglalkoztatási jogviszony,”
-- b) 58. § (5) bekezdés e) pont 4. alpontjában a „nevelőszülői jogviszony” szövegrész helyébe „a nevelőszülői foglalkoztatási jogviszony”
-
-szöveg lép.
+#### 261. §
 
 #### 262. §
 
@@ -3387,21 +2973,13 @@ szöveg lép.
 
 #### 267. §
 
-268. § Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 8. § (1) és (2) bekezdésében, 18. § (6) és (9) bekezdésében, 19. § (9) bekezdés a)–c) pontjában, 20. § (4) bekezdésében és 22. § (1) bekezdésében a „jogi személyiség nélküli gazdasági társaság”, szövegrész helyébe a „betéti társaság, közkereseti társaság” szöveg lép.
+#### 268. §
 
-269. § A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.)
-
-- a) 3. § (1) bekezdés 67. pontjában a „bankgarancia” szövegrész helyébe a „hitelintézet által vállalt garancia”,
-- b) 91/S. §-ában a „85. §-ban felsorolt egyéb vezetők mellett” szövegrész helyébe a „85. §-ban felsoroltak mellett – egyéb vezetőként –,
-- c) 135. § (1) bekezdés b) pontjában a „bankgarancia” szövegrész helyébe a „hitelintézet által vállalt garancia”,
-- d) 137. § (3) bekezdésében a „Bankgaranciával” szövegrész helyébe a „Hitelintézet által vállalt garanciával”,
-- e) 12. számú melléklet 22. pontjában a „biztosítási csoportok biztosítóintézeteinek kiegészítő felügyeletéről” szövegrész helyébe a „biztosítási csoportok biztosítóinak és viszontbiztosítóinak kiegészítő felügyeletéről”
-
-szöveg lép.
+#### 269. §
 
 #### 270. §
 
-271. § Az adózás rendjéről szóló 2003. évi XCII. törvény 7. számú melléklet 1. pont d) pont dc) alpontjában „a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvényben (Batv.) meghatározott ÁÉKBV,” szövegrész helyébe „a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvényben meghatározott ÁÉKBV,” szöveg lép.
+#### 271. §
 
 #### 272. §
 
@@ -3409,42 +2987,15 @@ szöveg lép.
 
 #### 274. §
 
-275. § Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény 7. § 12. pontjában „a Tpt. szerinti kockázati tőkealap-kezelő;” szövegrész helyébe „a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti kockázati tőkealap-kezelő;” szöveg lép.
+#### 275. §
 
 #### 276. §
 
 #### 277. §
 
-278. § (1) A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 57. §-a a következő (7) és (8) bekezdéssel egészül ki:
+#### 278. §
 
-„(7) Az értékpapíron kívüli óvadék alapítható a befektetési vállalkozás által nyilvántartott más pénzügyi eszközön is azzal, hogy az óvadék tárgya a fogyasztónak minősülő zálogkötelezett tulajdonába a zálogszerződés megkötését követően kerülő, körülírással meghatározott pénzügyi eszköz is lehet, és az óvadék tárgyából való közvetlen kielégítési jog az ilyen óvadékkal biztosított követelés tekintetében is gyakorolható. Ennek során az ügyfélszámla követelést annak névértékén, az egyéb pénzügyi eszközt pedig annak nyilvános forgalmi értékén, ennek hiányában az adott időpontban felektől függetlenül meghatározható értékén kell figyelembe venni.
-
-(8) Ha az óvadék alapítására irányuló szerződés fogyasztói zálogszerződésnek minősül és az óvadéktárgya ügyfélszámla-követelés, fizetésiszámla-követelés vagy olyan pénzügyi eszköz, amely tőzsdei vagy egyéb nyilvánosan jegyzett piaci árral vagy az adott időpontban a felektől függetlenül meghatározható értékkel rendelkezik, azt a zálogjogosult a kielégítési jogának gyakorlása során a szerződésben meghatározott eljárással a zálogkötelezett nevében értékesítheti. Egyéb pénzügyi eszköz esetében a zálogjogosult az értékesítés jogát akkor gyakorolhatja, ha a pénzügyi eszköz értékelési és értékesítési módjáról, továbbá az elszámolás szabályairól az ügyféllel a zálogszerződésben megállapodott, ilyen esetben a pénzügyi eszköz az elszámolás során nem vehető figyelembe a felek által a zálogszerződésben rögzített értékelési módon meghatározott árnál alacsonyabb értéken.”
-
-(2) Bszt. 180. § (1) bekezdése az alábbi c) ponttal egészül ki:
-
-[Felhatalmazást kap a Kormány arra, hogy]
-
-„c) a pénzügyi eszközök, továbbá egyes értékpapírok körében a zálogjog érvényesítésének a kielégítési jog közvetlen gyakorlására, továbbá bírósági végrehajtáson kívüli értékesítésre vonatkozó eljárás részletes szabályait,”
-
-(3) A Bszt.
-
-- a) 3. § (3) bekezdésében a „Batv.” szövegrész helyébe a „Kbftv.” szöveg,
-- b) 3. § (3) bekezdésében, valamint a 4. § (2) bekezdés 2. és 36. pontjában a „Batv.-ben” szövegrész helyébe a „Kbftv.-ben” szöveg,
-- c) 117. § (3) bekezdés b) pontjában a „felszámolási eljárás” szövegrész helyébe a „felszámolási eljárás, kényszertörlési eljárás” szöveg lép.
-
-(4) A Bszt 1. melléklet 23. pontjának helyébe a következő rendelkezés lép:
-
-„23. Kbftv.: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény”.”
-
-279. § A viszontbiztosítókról szóló 2007. évi CLIX. törvény
-
-- a) 3. § (1) bekezdés 53. pontjában a „bankgarancia” szövegrész helyébe a „hitelintézet által vállalt garancia”,
-- b) 75. § (1) bekezdés b) pontjában a „bankgarancia” szövegrész helyébe a „hitelintézet által vállalt garancia”,
-- c) 77. §-ában a „Bankgaranciával” szövegrész helyébe a „Hitelintézet által vállalt garanciával”,
-- d) 156. § a) pontjában a „biztosítási vagy viszontbiztosítási csoportok biztosítóinak, illetve viszontbiztosítóinak kiegészítő felügyeletéről” szövegrész helyébe a „biztosítási csoportok biztosítóinak és viszontbiztosítóinak kiegészítő felügyeletéről”
-
-szöveg lép.
+#### 279. §
 
 #### 280. §
 
@@ -3516,9 +3067,7 @@ szöveg lép.
 
 296. § (1)–(5)
 
-(6) Az Exim tv. 6. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén az Eximbankot és a Mehib Rt.-t nem terheli a kezességi szerződés fennállása esetén a Ptk. 6:429. § alapján teljesítendő tájékoztatási kötelezettség. Az állami kezesség beváltásának kockázatáról, továbbá a kezesség várható beváltásáról (különösen annak összegéről és időpontjáról) az Eximbank és a Mehib Rt. tájékoztatja a kezest. A tájékoztatásra vonatkozó előírásokat a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló miniszteri rendelet tartalmazza.”
+(6)
 
 (7)–(11)
 
@@ -3526,11 +3075,7 @@ szöveg lép.
 
 ### Hatályon kívül helyező rendelkezések
 
-298. § (1) Hatályát veszti
-
-- a) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény,
-- b) a Tpt. 1. § n)–p) pontja; 5. § (1) bekezdés 71–74. pontja; a Nyolcadik/A. Rész; 355. § (1) bekezdés e) pontja; 381. § (1) bekezdése; 391. § (1) bekezdés j) pontja; 26. számú melléklete,
-- c) a Hpt. 136. § (1) bekezdés e) pontja.
+298. § (1)
 
 (2) E törvény 122. §-a és 123. §-a az Európai Bizottság – az ABAK-irányelv 68. cikk (6) bekezdése alapján – elfogadandó felhatalmazáson alapuló jogi aktusának meghozatalát követő 15. napon hatályát veszti.
 

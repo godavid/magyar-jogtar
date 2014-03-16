@@ -78,33 +78,17 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 49. §
 
-50. § A Bit. a következő 19/A. §-sal egészül ki:
-
-„19/A. § A Ptk. biztosítási szerződési szabályok hatályának kiterjesztésére vonatkozó rendelkezését (Ptk. 6:457. §) a kölcsönös biztosító egyesületi tagsági jogviszony keretében létrejött biztosítási szerződéseken alapuló biztosítási jogviszonyokra kell alkalmazni.”
-
-51. § A Bit. 33. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A Ptk. 6:298. §-ában meghatározott kártalanítás a biztosítóval fennálló jogviszony alapján biztosításközvetítői tevékenységet végző ügynököt és többes ügynököt kizárólag az erre irányuló, a biztosítóval írásban megkötött megállapodás esetében illeti meg, a megkötött megállapodás feltételei szerint.”
-
-52. § A Bit. 37. § (1) bekezdése a következő m) ponttal egészül ki:
-
-(A biztosításközvetítő – ha törvény eltérően nem rendelkezik – a biztosítási szerződés megkötését megelőzően és bármely, a tájékoztatásban szereplő adat változása esetén a szerződés módosításakor és megújításakor köteles az ügyfél részére a kötelezettségvállalás tagállamának hivatalos nyelvén vagy az ügyféllel történő megállapodásban kikötött más nyelven írásban tájékoztatást adni:)
-
-„m) függő biztosításközvetítő vagy többes ügynök esetén arról, hogy a biztosítóval kötött megállapodása alapján milyen képviseleti jogosultsággal rendelkezik, különös tekintettel arra vonatkozóan, hogy a biztosító nevében megkötheti-e a biztosítási szerződést.”
+50–52. §
 
 53. §
 
-54. § A Bit. 48. §-a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha a szerződő fél a díjat – díjátvételre biztosítói meghatalmazással rendelkező – ügynöknek fizette, a díjat – legkésőbb a fizetés napjától számított negyedik napon – a biztosító számlájára, illetőleg pénztárába beérkezettnek kell tekinteni; a szerződő fél azonban bizonyíthatja, hogy a díj korábban érkezett be.”
+54. §
 
 55–56. §
 
 57. § (1)
 
-(2) A Bit. 96. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A szerződő felek megállapodásukban a Ptk. 6:470. § (3) bekezdésétől a fogyasztói biztosítási szerződés esetén is eltérhetnek.”
+(2)
 
 58–61. §
 
@@ -162,11 +146,7 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 83. § (1)
 
-(2) A Bszt. 20/A. § (8) és (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A közérdeklődésre számot tartó befektetési vállalkozás a Ptk. 3:291. §-a szerinti audit bizottságot hoz létre és működtet.
-
-(9) Az (8) bekezdésben foglaltak nem alkalmazandóak, ha a közérdeklődésre számot tartó befektetési vállalkozás rendelkezik olyan testülettel, amely megfelel a Ptk. 3:291. § (2) és (4) bekezdésében meghatározott feltételeknek és a testület ellátja a Ptk. 3:291. § (1) bekezdésében foglaltakat. A közérdeklődésre számot tartó befektetési vállalkozás ebben az esetben saját honlapján nyilvánosságra hozza, hogy melyik testület látja el a Ptk. 3:291. § (1) bekezdésében foglaltakat és a testület összetételét.”
+(2)
 
 84–112. §
 
@@ -188,9 +168,7 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 120. §
 
-121. § A Gfbt. 27. §-a helyébe a következő rendelkezés lép:
-
-„27. § A biztosító, a Kártalanítási Számla kezelője, a Nemzeti Iroda, a kárrendezési megbízott, valamint a Kártalanítási Szervezet a gépjármű üzemeltetése során okozott kárt az e törvényben foglaltak szerint megtéríti. E kártérítés nem érinti a károsultnak a Polgári Törvénykönyv szerződésszegéssel okozott károkért való felelősség szabályai alapján érvényesíthető további kártérítési igényét.”
+121. §
 
 122–123. §
 
