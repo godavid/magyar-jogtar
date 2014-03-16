@@ -429,25 +429,7 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 ### IX. Fejezet — HATÁLYUKAT VESZTŐ JOGSZABÁLYOK
 
-67. § A Ptk. hatálybalépésével egyidejűleg hatályát veszti
-
-- a) a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény,
-- b) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény,
-- c) a gazdasági társaságokról szóló 2006. évi IV. törvény,
-- d)
-- e) a termékfelelősségről szóló 1993. évi X. törvény,
-- f) a Polgári Törvénykönyv egyes rendelkezéseinek módosításáról szóló 1993. évi XCII. törvény,
-- g) az önálló kereskedelmi ügynöki szerződésről szóló 2000. évi CXVII. törvény,
-- h) a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény hatálybalépése és végrehajtása, valamint a személyi jog egyes kérdéseinek szabályozása tárgyában című 1952. évi 23. törvényerejű rendelet,
-- i) a Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet,
-- j) a Polgári Törvénykönyv módosításáról és egységes szövegéről szóló 1977. évi IV. törvény hatálybalépéséről és végrehajtásáról szóló 1978. évi 2. törvényerejű rendelet,
-- k) a Magyar Népköztársaság Polgári Törvénykönyvének a külgazdasági kapcsolatokra történő alkalmazásáról szóló 1978. évi 8. törvényerejű rendelet.
-
-68. § A Ptk. hatálybalépésével egyidejűleg hatályát veszti
-
-- a) a talált dolgok tekintetében követendő eljárásról szóló 18/1960. (IV. 13.) Korm. rendelet,
-- b) a fogyasztóval kötött szerződésben tisztességtelennek minősülő feltételekről szóló 18/1999. (II. 5.) Korm. rendelet,
-- c) a szövetkezet által létrehozott közösségi alapból nyújtott támogatásokra vonatkozó részletes szabályokról szóló 124/2006. (V. 19.) Korm. rendelet.
+#### 67–68. §
 
 ### X. Fejezet — A PTK. ÉS E TÖRVÉNY MEGNEVEZÉSE, HATÁLYBALÉPÉS
 
