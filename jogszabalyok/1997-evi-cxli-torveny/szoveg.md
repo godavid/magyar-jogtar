@@ -194,9 +194,11 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 24. a társasházakról szóló törvény szerinti, 24.1. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, 24.2. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább négyötödét feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja,
 - 25. az e törvényben meghatározott megismételt hagyatéki eljárás megindítása,
 - 26. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
-- 27. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog.
+- 27. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
+- 27. nemzeti emlékhely,
+- 28. történelmi emlékhely.
 
-(2) Az (1) bekezdés 1–14. pontjában meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–27. pontban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
+(2) Az (1) bekezdés 1–14. és 27–28. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–26. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 
 (3) Tulajdonjog fenntartással történt eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.
 
@@ -873,6 +875,10 @@ kell csatolnia.
 - b) teljes másolat: amely a hatályos térképi állapot mellett az előzetes térképi változásokat is tartalmazza.
 
 (4) Térkép, ingatlan-nyilvántartási térkép alatt a földmérési és térképészeti tevékenységről szóló törvényben meghatározott állami ingatlan-nyilvántartási térképi adatbázist kell érteni.
+
+(5) Az ingatlan-nyilvántartási adatbázisból adatműveleti, adatfeldolgozási tevékenységet igénylő megkeresés a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott adatkörök tekintetében, a rendeletben meghatározott szervek és személyek részére, módon és feltételekkel az elektronikus dokumentumként szolgáltatható tulajdonilap-másolat adattartalmának elektronikusan feldolgozható formában történő átadásával is teljesíthető.
+
+(6) A megszűnt helyrajzi számú ingatlan tulajdoni lapjának adattartalmáról a felhasználási célt, valamint az igényelt adatokat tartalmazó kérelemre vagy megkeresésre az ingatlanügyi hatóság – a tulajdoni lapról kiállított papír alapú hiteles másolat igazgatási szolgáltatási díjával azonos mértékű díj fejében – hatósági bizonyítványt állít ki. A díj megfizetésének és visszatérítésének módjára, valamint a díjmentességre – ha törvény eltérően nem rendelkezik – a tulajdoni lapról kiállított papír alapú hiteles másolatra vonatkozó rendelkezések az irányadók.
 
 69. § A hitelesítési záradékban fel kell tüntetni, hogy a másolat a kiadást megelőző napig az eredetivel megegyezik. A hiteles tulajdonilap-másolat az ingatlan-nyilvántartásba bejegyzett jogokat, feljegyzett tényeket, illetve az ingatlan adatait hitelesen tanúsítja.
 

@@ -177,7 +177,7 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (17) Az ingatlanügyi hatóságok a hatósági feladataik ellátásához nem fizetnek adatszolgáltatási, illetve vizsgálati és záradékolási díjat.
 
-(18) A miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó állami alapadatbázisokból történő adatszolgáltatás tekintetében igazgatási szolgáltatási díjmentességet engedélyezhet államigazgatási szervek részére a központi címregiszter létrehozása érdekében.
+(18)
 
 #### 6. Az ország térképellátása
 
