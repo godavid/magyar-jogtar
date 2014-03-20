@@ -999,6 +999,8 @@ végez.
 
 (6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 467 550 000 Ft, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – ha meghatározható – kétszereséig terjed.
 
+(7) A kiszabható bírság alsó határa a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 14/A. §-ában, 36/A. § (1)–(3) bekezdésében és 36/B. §-ában a pénzforgalmi szolgáltató számára előírt kötelezettség megszegése, elkerülése, elmulasztása, késedelmes vagy hiányos teljesítése esetén ötszázmillió forint.
+
 77. § (1) A bírságot a kiszabásáról hozott határozat jogerőre emelkedésétől számított harminc napon belül kell a határozatban megjelölt számlára befizetni.
 
 (2) Nem kötelezhető bírság fizetésére az, aki bizonyítani tudja, hogy úgy járt el, ahogy az ilyen tisztséget betöltő személytől az adott helyzetben általában elvárható.
