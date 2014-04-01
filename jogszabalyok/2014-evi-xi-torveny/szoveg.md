@@ -40,7 +40,9 @@ a rezsicsökkentéssel és a fogyasztóvédelemmel kapcsolatos egyes törvények
 
 #### 10. A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény módosítása
 
-20. §
+20. § A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény (a továbbiakban: Rezsitörvény) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 3. § 8. pontjában meghatározott egyetemes szolgáltatás keretében vételező, a Get. 3. § 47. pontjában meghatározott lakossági fogyasztók részére, az egyetemes szolgáltató által kibocsátott számlában a 2014. március 31-ét követő időszakban igénybe vett földgázszolgáltatás MJ-ban meghatározott mennyiségéért fizetendő összeg, valamint a szolgáltatás rendelkezésre állásáért fizetendő havi alapdíj együttes értéke nem haladhatja meg az azonos elosztói területen, az egyetemes szolgáltató által a 2013. november 1-jén alkalmazott díjak (beleértve a biztonsági készletezési díjat) alapján azonos hőmennyiségre, azonos számú hónapra, azonos körülmények között (azonos kedvezménymérték esetén) számított összeg 93,5%-át.”
 
 21. §
 

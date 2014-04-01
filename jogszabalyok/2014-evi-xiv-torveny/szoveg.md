@@ -230,11 +230,19 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 61–62. §
 
-63. §
+63. § Az Ogytv. 130. § (1) bekezdése a következő e) ponttal egészül ki:
+
+(A rendészetért felelős miniszter a házelnök véleményének kikérésével rendeletben szabályozza)
+
+„e) az Országgyűlési Őrség által használt kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat, valamint a rendszeresíthető kényszerítő eszközök típusát, fajtáját.”
 
 64–68. §
 
-69. §
+69. § Az Ogytv. 143. § (5) bekezdése a következő d) ponttal egészül ki:
+
+(Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza)
+
+„d) az Országgyűlési Őrség által használt kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat, valamint a rendszeresíthető kényszerítő eszközök típusát, fajtáját.”
 
 70–71. §
 

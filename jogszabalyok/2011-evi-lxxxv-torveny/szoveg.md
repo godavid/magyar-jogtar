@@ -35,14 +35,16 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - 3. ártalmatlanítás: a hulladéknak a Ht. szerinti ártalmatlanítása;
 - 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
 - 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
-- 6. csekély mennyiségű csomagolást forgalomba hozó vagy saját célra felhasználó kötelezett: legfeljebb tárgyévi
-  - a) 3000 kg üveg,
-  - b) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyag,
-  - c) 75 kg műanyag bevásárló-reklám táska,
-  - d) 300 kg társított vagy rétegzett,
-  - e) 500 kg papír, fa, természetes alapú textil,
-  - f) 300 kg fém,
-  - g) 300 kg egyéb, azonban a b)–g) pontok esetén mindösszesen legfeljebb 1000 kg csomagolást kiskereskedelmi értékesítés során a fogyasztó számára forgalomba hozó vagy saját célra felhasználó kötelezett;
+- 6. csekély mennyiségű kibocsátó: a tárgyévben
+  - a) 30 kg akkumulátort,
+  - b) csomagolószer termékkör esetén ba) 3000 kg üveget, bb) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyagot, bc) 75 kg műanyag bevásárló-reklám táskát, bd) 300 kg társított vagy rétegzett csomagolószert, be) 500 kg papír, fa, természetes alapú textil csomagolószert, bf) 300 kg fém csomagolószert, bg) 300 kg egyéb csomagolószert, azonban a bb)–bg) alpontok esetén mindösszesen legfeljebb 1000 kg csomagolószert,
+  - c) 40 kg egyéb kőolajterméket,
+  - d) elektromos, elektronikai berendezés termékkör esetében, da) 40 kg háztartási nagygépet, db) 40 kg háztartási kisgépet, dc) 40 kg információs (IT) és távközlési berendezést, kivéve a rádiótelefon készüléket, dd) 40 kg szórakoztató elektronikai cikket, de) 40 kg barkácsgépet, szerszámot, df) 10 kg játékot, szabadidős és sportfelszerelést, dg) 10 kg ellenőrző, vezérlő és megfigyelő eszközt, dh) 10 kg adagoló automatát, di) 5 kg rádiótelefon készüléket mindösszesen legfeljebb 100 kg elektromos, elektronikai terméket;
+  - e) 60 kg gumiabroncsot,
+  - f) 100 kg reklámhordozó papírt
+
+meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelhasználó vevő részére – belföldi forgalomba hozó, saját célra felhasználó, vagy készletre vevő kötelezett;
+
 - 7. csomagolás: valamennyi olyan, bármilyen tulajdonságú anyagból készült termék, amelyet áru tartására, megóvására, átadására, átvételére, szállítására, valamint bemutatására használnak, beleértve minden terméket a nyersanyagoktól kezdve a feldolgozott árucikkekig, továbbá az ugyanilyen célra használt egyutas árucikkek; így:
   - a) a fogyasztói vagy elsődleges csomagolás, amely értékesítési egységet képez a fogyasztó számára az értékesítés helyszínén;
   - b) a gyűjtő- vagy másodlagos csomagolás, amely az értékesítés helyszínén meghatározott számú értékesítési egységet foglal magában, ha ezeket az egységeket a fogyasztó részére értékesítik, vagy ezek az egységek csupán a polcok feltöltésére szolgálnak, és a csomagolást a termékről a termék tulajdonságainak megváltoztatása nélkül el lehet távolítani, valamint
@@ -97,7 +99,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
   - g) nyilvántartás-vezetési,
   - h) adatszolgáltatási, ideértve a nem csomagolószerként forgalomba hozott, az e törvényhez tartozó végrehajtási rendeletben meghatározott csomagolószer katalógusban szereplő árukra vonatkozóan is,
   - i) nyilatkozattételi kötelezettség;
-- 30. termékdíjátalány: a csekély mennyiségű csomagolást forgalomba hozó kötelezett, továbbá a 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett számára meghatározott díjfizetési kötelezettség;
+- 30. termékdíjátalány: a csekély mennyiségű kibocsátó, továbbá a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett számára meghatározott díjfizetési kötelezettség;
 - 31. újrahasználat: a termékdíjköteles termék Ht. szerinti újrahasználata;
 - 32. újbóli felhasználásra előkészítés: a hulladékká nem vált termékdíjköteles termék, illetve alkotórészének vagy tartozékának ellenőrzése, tisztítása, valamint javítása az eredeti felhasználási célra való alkalmassá tétel érdekében;
 
@@ -262,6 +264,8 @@ teljesíti.
 
 (3) A tárgyévet megelőzően az állami adóhatóság nyilvántartásában lévő, a tárgyévre vonatkozóan egyéni hulladékkezelés teljesítést választó termékdíj-kötelezettnek az (1) bekezdés szerinti bejelentést tárgyév január 31-ig kell megtennie termék- és anyagáramonként.
 
+(3a) A tárgyévet megelőzően az állami adóhatóság nyilvántartásában lévő, a tárgyévre vonatkozóan termékdíjátalány-fizetést választó kötelezettnek az (1) bekezdés szerinti bejelentést tárgyév január 31-ig kell megtennie. E bekezdés szerinti bejelentést a kötelezettnek tárgyévenként nem kell megismételnie, ha a bejelentés alapjául szolgáló termékdíjátalány-fizetési kötelezettség feltételei változatlanul fennállnak.
+
 (4) A 6. § (1) vagy (4) bekezdésében foglaltak tárgyévtől történő alkalmazását választó kötelezettnek január 31-ig kell bejelentést tennie, amennyiben a kötelezettségét a bejelentést megelőzően a bejelentésében foglaltaktól eltérő időpontban keletkeztette.
 
 (5) A (3) és (4) bekezdésben előírt határidő elmulasztása esetén igazolásnak nincs helye és a (3) vagy (4) bekezdésben meghatározottak nem alkalmazhatók.
@@ -380,9 +384,16 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 
 15. § (1) E törvény II. Fejezete szerinti termékdíj-kötelezettség teljesítését e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A csekély mennyiségű csomagolást forgalomba hozó vagy saját célú felhasználó kötelezett, továbbá a (4) bekezdésben foglalt éves értékesítési nettó árbevétellel rendelkező, valamint a tárgyévben kötelezetté váló, 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett termékdíjátalány fizetésére jogosult.
+(2) A csekély mennyiségű kibocsátó, továbbá a (4) bekezdésben foglalt éves értékesítési nettó árbevétellel rendelkező, valamint a tárgyévben kötelezetté váló, 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett termékdíjátalány fizetésére jogosult.
 
-(3) A csekély mennyiségű csomagolást forgalomba hozó kötelezett termékdíjátalánya 12 000 Ft/év, .
+(3) A csekély mennyiségű kibocsátó kötelezett termékdíj átalánya:
+
+- a) akkumulátor termékáram esetén 2 000 Ft/év;
+- b) csomagolószer termékáram esetén 12 000 Ft/év;
+- c) egyéb kőolajtermék termékáram esetén 4 000 Ft/év;
+- d) elektromos, elektronikai berendezés termékáram esetén 10 000 Ft/év;
+- e) gumiabroncs termékáram esetén 3 000 Ft/év;
+- f) reklámhordozó papír termékáram esetén 6 000 Ft/év.
 
 (4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
 
@@ -886,6 +897,16 @@ a termékdíjköteles terméket lefoglalja.
 40/C. § (1) A 2013. december 31-ig az állami adó- és vámhatóságnak a 14. § (5) bekezdés a) pontja alapján jogszerűen bejelentett szerződéses átvállalások hatályosak a bejelentett időszak végéig, és nem kell az átvállalási szerződést módosítani, valamint azt ismételten bejelenteni a 14. § (5) bekezdés a) pont aa) alpontja szerinti jogcím alapján.
 
 (2) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel (a továbbiakban: Módtv. 1.) módosított 25. § (1) bekezdés f) pontja szerinti termékdíj visszaigénylési jogcím a külföldre igazoltan kiszállított csomagolószerek esetében 2014. január 1-jétől alkalmazható.
+
+40/D. § (1) A csekély mennyiségű kibocsátó a 2014. év tekintetében a 10. § (3a) bekezdésében meghatározott bejelentést 2014. április 20-ig teheti meg. E bekezdés szerinti bejelentéssel a 2014. év tekintetében más jogcímre való bejelentés megváltoztatható.
+
+(2) A Módtv. 1. hatálybalépésekor csekély mennyiségű csomagolást forgalomba hozó vagy saját célra felhasználó kötelezettként az állami adóhatósághoz bejelentkezett kötelezettet úgy kell tekinteni, hogy bejelentését csekély mennyiségű kibocsátóként tette meg.
+
+(3) A csekély mennyiségű kibocsátó – a (2) bekezdésben foglalt kötelezett kivételével – a termékdíjátalány-fizetést a 2014. évi tárgyév (adóév) utolsó három negyedévében forgalomba hozott, saját célra felhasznált, vagy készletre vett termékdíjköteles termék tekintetében veheti igénybe, legfeljebb a 2. § 6. pontjában foglalt mennyiség erejéig, a 15. § (2) bekezdésében foglalt termékdíjátalány megfizetése mellett.
+
+(4) A (2) bekezdésben foglalt kötelezett a termékdíjátalány-fizetést a teljes tárgyév (adóév) tekintetében igénybe veheti azzal, hogy a 2014. évi tárgyév (adóév) első negyedévében kibocsátott csomagolószer a 2. § 6. pontjában foglalt teljes mennyiségbe beszámít.
+
+(5) A (2) bekezdésben foglalt kötelezett, ha a 2. § 6. pontja szerinti, a csomagolószeren kívüli mennyiséget a 2014. évben túllépi, a 2014. év tekintetében a csomagolószerre vonatkozó termékdíjátalány-fizetésre jogosult marad.
 
 #### 31. Bejelentés az Európai Unió részére
 
