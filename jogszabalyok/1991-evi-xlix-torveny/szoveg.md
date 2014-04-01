@@ -447,6 +447,8 @@ szűnik meg.
 
 20. § (1) Egyezség akkor köthető, ha az adós az egyezséghez a 18. § (4)–(5) bekezdése szerint szavazati joggal rendelkező hitelezőktől – a biztosított és a nem biztosított hitelezői osztályokban egyaránt – a szavazatok többségét külön-külön megkapta.
 
+(1a) Az egyezség megkötésénél a jóhiszemű joggyakorlás követelményét kell szem előtt tartani, az egyezség nem tartalmazhat a hitelezők összességére vagy egyes hitelezői csoportokra vonatkozóan nyilvánvalóan és kirívóan előnytelen vagy méltánytalan rendelkezéseket. Ilyennek kell tekinteni különösen, ha az adós vagyonához mérten a hitelezők összessége követeléseinek kielégítési aránya méltánytalanul alacsony mértékű, vagy ha valamely hitelezői csoport követelése más hitelezői csoportnál kirívóan alacsonyabb arányban vagy méltánytalanul hátrányosabb feltételekkel kerül kielégítésre.
+
 (2) A megkötött egyezség azokra az egyezségkötésre jogosult hitelezőkre is kiterjed, akik az egyezséghez nem járultak hozzá, vagy szabályszerű értesítésük ellenére az egyezség megkötésében nem vettek részt, továbbá kiterjed azon hitelezőkre is, amelyek vitatott követelésére tartalékot kellett képezni, vagy tartalékképzés helyett biztosítékot kellett számára nyújtani (kényszeregyezség). Az egyezség azonban az említett hitelezőkre vonatkozóan nem állapíthat meg kedvezőtlenebb feltételeket, mint amelyeket az egyezséghez hozzájáruló hitelezőkre az adott hitelezői osztályban, továbbá a 12. § (2) bekezdés bc)–bd) pontja szerinti hitelezői körben megállapított. A vitatott követelésekre (követelésrészekre) vonatkozóan képzett tartalék terhére a vitatott követelés jogosultjának akkor lehet kifizetést teljesíteni, ha a vitatott követelés jogosultja az adós ellen keresetet indított, és a bírósági eljárás jogerősen lezárult, amelyben a hitelező követelésének jogalapját és összegét a bíróság megállapította, vagy pedig a hitelező közigazgatási úton érvényesítette igényét az adóssal szemben.
 
 (3) A 10. § (2) bekezdése szerinti határidő elmulasztása esetén a hitelező az egyezségkötésben nem vehet részt, az egyezség hatálya nem terjed ki rá. A bejelentési határidő elmulasztása miatt nyilvántartásba nem vett hitelezői igény jogosultja az adós ellen követelését nem érvényesítheti, azonban a más által kezdeményezett felszámolási eljárásban a még el nem évült követelését bejelentheti. Ebben az esetben a 35. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a 35. § (2) bekezdés b) pontja szerinti késedelmi kamatot, késedelmi pótlékot, továbbá a pótlék és bírság jellegű követelést a felszámolási eljárásban sem lehet érvényesíteni.
@@ -567,6 +569,15 @@ folytatható le.
 (3a) A felszámolási eljárás iránti kérelemtől az ellenérdekű fél hozzájárulása nélkül el lehet állni a felszámolás kezdő időpontjáig. Az eljárás megszüntetéséről az a bíróság rendelkezik, amely előtt az eljárás az elállás bejelentésekor folyamatban van.
 
 (4) Szünetelésnek kizárólag az adós és a felszámolási eljárás lefolytatását kérő hitelezők együttes kérelmére, a felszámolás elrendeléséről szóló végzés jogerőre emelkedéséig van helye.
+
+(5) Az adós a – felszámolást elrendelő első fokú végzés kézhezvételét követően, a végzés jogerőre emelkedéséig – köteles legalább 100 000 forint céltartalékot képezni a felszámolási költségek, így különösen
+
+- a) a vagyonára vonatkozó dokumentumok, közhiteles nyilvántartásból beszerzendő adatok összegyűjtésével,
+- b) a fizetési és értékpapír számláinak vezetésével és annak forgalmával,
+- c) az iratanyagának rendezésével, kezelésével, tárolásával és elhelyezésével,
+- d) a vagyontárgyainak őrzésével, állagmegóvásával
+
+kapcsolatos kiadások fedezetére.
 
 27. § (1) A bíróság az adós felszámolását végzéssel elrendeli, ha az adós fizetésképtelenségét állapítja meg. A bíróság a felszámolást elrendelő végzést az eljárás lefolytatására irányuló kérelem beérkezését követő 60 napon belül hozza meg. A felszámolást elrendelő végzés ellen nincs helye felülvizsgálatnak. A felszámolás kezdő időpontja a felszámolást elrendelő jogerős végzés közzétételének napja (28. §).
 
@@ -764,7 +775,8 @@ folytatható le.
 - e) a felszámolás elrendeléséről a munkavállalókat, illetve a szövetkezeti tagokat, valamint az Mt. 270. §-ában meghatározott szakszervezeteket, az Mt. XX. fejezete szerinti üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatni
 - f) a felszámolás elrendeléséről az 57. § (1) bekezdésének c) pontjában meghatározott követelések jogosultjait a felszámolás kezdő időpontját követő 15 napon belül tájékoztatni,
 - g) a felszámoló kérésére az adós felszámolás előtti tevékenységével, a vagyontárgyak elhelyezésével kapcsolatos tájékoztatást megadni, a felszámoló tevékenységét elősegíteni,
-- h) a felszámolás elrendeléséről haladéktalanul értesíteni az adós értékpapírszámláját vezető szolgáltatót és az egyéb pénzpiaci eszközeit kezelő szolgáltatót.
+- h) a felszámolás elrendeléséről haladéktalanul értesíteni az adós értékpapírszámláját vezető szolgáltatót és az egyéb pénzpiaci eszközeit kezelő szolgáltatót,
+- i) a 26. § (5) bekezdése alapján a felszámolási költségekre céltartalékolással elkülönített összeget a felszámoló rendelkezésére bocsátani.
 
 (2) A gazdálkodó szervezet vezetője az (1) bekezdés b) pontjában előírt kötelezettségének a minősített adatvédelmi, valamint a személyiségi jogok védelmét biztosító szabályok betartásával köteles eleget tenni.
 
@@ -924,6 +936,11 @@ folytatható le.
 
 (4) A (3) bekezdés szerinti hozzájárulás egy évre szól. Ha a felszámoló az egy év elteltével tovább akarja folytatni a tevékenységet, ismét meg kell szereznie ehhez a választmány (hitelezői képviselő) jóváhagyását, legkésőbb az egy év elteltét megelőző 30 napon belül.
 
+(4a) A felszámoló az adós vagyontárgyait csak a hitelezői választmány, illetve a hitelezők képviselője jóváhagyásával adhatja bérbe vagy engedheti át használatba olyan személynek vagy szervezetnek, aki vagy amely
+
+- a) az adós felszámolás elrendelésekor vagy azt megelőző egy éven belül vezető tisztségviselője vagy
+- b) az adós kizárólagos vagy többségi befolyással rendelkező tulajdonosa volt.
+
 (5) A felszámoló külön nyilvántartásba veszi
 
 - a)
@@ -954,7 +971,11 @@ folytatható le.
 
 48. § (1) A felszámoló az adós követeléseit esedékességkor behajtja, igényeit érvényesíti, és vagyonát értékesíti. A felszámoló a vagyont — kedvezőbb értékesítés érdekében — a hitelezőknek a 44. §-ban meghatározott arányú egyetértése esetén korlátolt felelősségű társaság, részvénytársaság vagy szövetkezet részére nem pénzbeli betétként (hozzájárulásként) rendelkezésre bocsáthatja.
 
-(2)
+(2) A felszámoló az értékesítés megkezdéséről értesíti azokat a személyeket és szervezeteket, akik (amelyek) az adós értékesítésre kerülő vagyontárgyán közhiteles nyilvántartásba bejegyzett joggal rendelkeznek vagy az adós értékesítésre kerülő vagyontárgyára vonatkozóan elővásárlási joggal rendelkeznek.
+
+(2a) A felszámoló az értékesítéskor ellenőrzi, hogy a vevő nem esik-e az e törvényben meghatározott kizáró ok alá.
+
+(2b) A felszámoló a (2)–(2a) bekezdés szerinti személyek, szervezetek azonosítására és az őket megillető jogokra vonatkozóan nyilvántartást vezet az értékesítés megkezdéséről történő tájékoztatásuk, továbbá annak érdekében, hogy ne vehessen részt az értékesítésben olyan személy vagy szervezet, amely kizáró ok alá esik. Ezeket az adatokat a felszámoló a felszámolási eljárás jogerős lezárásáig jogosult kezelni.
 
 (3) A felszámoló a felszámolási eljárás alatt köteles gondoskodni az adós vagyonának megóvásáról, megőrzéséről, különösen a mezőgazdaságilag művelhető földek termőképességének fenntartásáról, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításáról, az erdőfelújítási és erdőállomány nevelési munkák elvégzéséről, továbbá a környezetvédelmi, természetvédelmi és műemlékvédelmi követelmények betartásáról, a felszámolás kezdő időpontját megelőző időszakból eredő, bizonyított környezeti károsodások, környezeti terhek olyan rendezéséről, amely az eljárás során a környezeti károsodások, illetve terhek elhárítását, megszüntetését, illetve a vagyontárgyaknak a környezeti terhekkel történő értékesítését is jelenti.
 
@@ -969,6 +990,8 @@ folytatható le.
 (2) Az értékesítést – ha a választmány (választmány hiányában a hitelezői képviselő) ettől eltérően nem rendelkezik – a felszámolás közzétételének időpontjától számított 100 napon belül kell megkezdeni. A hitelezői választmány előírhatja, hogy a felszámoló az értékesítési eljárásról a választmányt értesítse, illetve tegye lehetővé az értékbecslés és az értékesítési eljárás hitelezők általi megismerését, figyelemmel kísérését. A hitelezői választmány előírhatja, hogy a felszámoló a pályázati felhívás, illetve az árverési hirdetmény szövegéről és az értékesítésre kerülő vagyontárgyak becsértékéről előzetesen, észrevételezési jog biztosításával tájékoztassa a választmányt. A becsérték felülvizsgálatára a hitelezői választmány a bíróságtól szakértő kirendelését kezdeményezheti, amelynek költségét előlegezni köteles. A bíróság a kérelemről 8 napon belül dönt. A szakértő díját a felszámolási költségek [57. § (2) bekezdés e) pont] terhére kell elszámolni, amennyiben az általa megállapított becsérték kerül elfogadásra. Ha a szakértői vélemény alapján a becsérték módosítására nincs szükség, a szakértői díjat a választmányban résztvevő hitelezők viselik, a szakértő kirendelésének kezdeményezésével összefüggő megállapodásuk szerinti arányban.
 
 (3) Az értékesítésen a felszámoló, a vagyonfelügyelő (ideiglenes vagyonfelügyelő), az említett szervezetek tulajdonosa (tagja, részvényese, alapítója), vezető tisztségviselője, cégvezetője, felügyelőbizottsági tagja, könyvvizsgálója, foglalkoztatottja, a felszámolóbiztos, valamint az előbbiekben említett személyek közeli hozzátartozója, továbbá az említettek többségi befolyással rendelkező gazdálkodó szervezete tulajdonjogot vagy más vagyoni értékű jogot nem szerezhet.
+
+(3b) Az értékesítés során – kivéve a jogszabályon alapuló elővásárlási jog gyakorlását – nem szerezhet tulajdont olyan személy vagy szervezet sem, aki vagy amely az adós kizárólagos vagy többségi befolyással rendelkező tulajdonosa, vagy olyan gazdálkodó szervezet, amely az adóssal együtt elismert vagy tényleges vállalatcsoport tagja.
 
 (4) A tulajdonjogot vagy más vagyoni értékű jogot szerző fél a nyilvános értékesítésen az adóssal szemben beszámítással nem élhet, ide nem értve, ha az adós vagyonaként olyan lakóingatlan kerül értékesítésre, amelynek ellenértékét a magánszemély vevő részben vagy egészben kiegyenlítette, de a tulajdonjog átruházására nem került sor a felszámolás elrendelése előtt.
 

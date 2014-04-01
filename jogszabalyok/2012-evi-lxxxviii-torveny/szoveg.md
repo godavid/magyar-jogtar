@@ -258,6 +258,14 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (5) A piacfelügyeleti hatóság eljárása során – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
+#### 10/A. Egyes termékek piacfelügyeleti ellenőrzésével kapcsolatos különös rendelkezések
+
+17/A. § (1) Felvonót és mozgólépcsőt létesíteni, áthelyezni, átalakítani, a létesítést követően használatba venni és műszaki biztonságtechnikai felülvizsgálatukat elvégezni az e törvény végrehajtására kiadott kormányrendeletben meghatározott közigazgatási hatóság engedélyével (nyilvántartásba vételével) lehet.
+
+(2) A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH) közhitelű hatósági nyilvántartást vezet a felvonók és mozgólépcsők kötelező műszaki biztonságtechnikai felülvizsgálatát végző ellenőrökről (a továbbiakban: ellenőrök). A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az ellenőr nevét, születésének helyét és időpontját, az ellenőr képesítésének megnevezését, az általa végezhető tevékenységek meghatározását.
+
+(3) A MKEH az ellenőrök jegyzékét honlapján közzéteszi, amely tartalmazza az ellenőr nevét, az ellenőri engedély számát, továbbá – ha ahhoz az ellenőr előzetesen hozzájárult – a hatósági nyilvántartásba bejelentett lakcímét, székhelyét, a telefonszámát, a faxszámát és az elektronikus postacímét.
+
 #### 11. Korlátozó intézkedésekre vonatkozó különös előírások
 
 18. § (1) A 15. § (2) bekezdés c)–e) pontja szerinti döntés meghozatalát megelőzően a piacfelügyeleti hatóság a gazdasági szereplő kérésére tárgyalást tart, kivéve, ha erre a meghozandó intézkedés sürgőssége, az egészségügyi vagy biztonsági előírások betartása, az élet, testi épség, egészség vagy egyéb közérdek védelme miatt nincs lehetőség. A tárgyalás lehetőségéről a piacfelügyeleti hatóság az első kapcsolatfelvétel alkalmával, vagy a (3) bekezdésben meghatározott esetben a döntés közlésével egyidejűleg tájékoztatja az érintett gazdasági szereplőt.
@@ -388,9 +396,11 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 - a) a piacfelügyeleti hatóságok körét, valamint a termékek piacfelügyeleti ellenőrzésére vonatkozó részletes szabályokat;
 - b) az importtermékek ellenőrzésével kapcsolatos részletes szabályokat;
 - c) a megjelenésükben másnak látszó és ezáltal a fogyasztó egészségét vagy biztonságát veszélyeztető termékek forgalmazására és ellenőrzésére, továbbá az alkalmazható jogkövetkezményekre vonatkozó részletes szabályokat, valamint
-- d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat
+- d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői, tervezői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat
 
 rendeletben határozza meg.
+
+(1a) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a nyilvántartott szervezetek és a felvonó- és mozgólépcső ellenőrök engedélyezéséért és a nyilvántartásba vételért, a felvonók és mozgólépcsők nyilvántartásának vezetéséért, beleértve a nyilvántartásba vételt is, továbbá a felvonók és mozgólépcsők létesítésének, használatbavételének, áthelyezésének, átalakításának, megszüntetésének és ismételt üzemeltetésének engedélyezéséért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (2) Felhatalmazást kap a termék tekintetében szabályozási feladatkörrel rendelkező miniszter, hogy
 
