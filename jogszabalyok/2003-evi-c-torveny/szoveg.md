@@ -2567,7 +2567,7 @@ tekinthetnek be.
 
 163/E. § E törvény rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatályba lépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
-163/F. § A 96. § (4) bekezdésének a helyi és körzeti televíziók digitális átállásának biztosítása érdekében szükséges és egyes hírközléssel összefüggő törvénymódosításokról szóló 2013. évi CXXI. törvény (a továbbiakban: Módtv.) 28. §-ával megállapított rendelkezését a Módtv. hatálybalépését megelőzően keletkezett tényekre és jogviszonyokra akkor kell alkalmazni, ha az építmény használatbavétele jogszerű volt, és a használatbavétel óta az építmény elhelyezésével és működtetésével kapcsolatban jogerős hatósági határozat nem állapította meg a környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékek megsértését.
+163/F. §
 
 163/G. § A Kerekasztal a 149/A. § (2) bekezdésében említett ajánlást első ízben 2014. május elsejéig fogadja el és teszi közzé.
 
