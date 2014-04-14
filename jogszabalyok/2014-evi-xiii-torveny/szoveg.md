@@ -432,4 +432,4 @@ DONE at Budapest on 3 February 2014, in duplicate, in English and Hungarian lang
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
 
-5. § Hatályát veszti a Magyar Köztársaság Kormánya és a Közép- és Kelet-Európai Regionális Környezetvédelmi Központ Igazgatótanácsa közötti, a budapesti Regionális Központ jogállásáról szóló Megállapodás kihirdetéséről szóló 90/1996. (VI. 21.) Korm. rendelet.
+5. §
