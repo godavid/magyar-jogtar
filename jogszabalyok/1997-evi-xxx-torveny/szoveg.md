@@ -149,6 +149,10 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (3) A (2) bekezdésben meghatározott módon megszerzett ingatlanokat hat éven belül nyilvános árverésen el kell idegeníteni.
 
+(4) A mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földnek minősülő ingatlan a jelzálog-hitelintézet tulajdonába csak átmenetileg, a szerzés időpontjától számított legfeljebb egy éves időtartamra, felszámolási vagy végrehajtási eljárás útján kerülhet.
+
+(5) Ha a jelzálog-hitelintézet a tulajdonába került földet a szerzés időpontjától számított egy éven belül nem tudja értékesíteni, a föld az állam tulajdonába és a Nemzeti Földalapba kerül. A földalapkezelő szervezet az állam tulajdonjogának ingatlan-nyilvántartási bejegyzésétől számított 90 napon belül megfizeti a föld hitelbiztosítéki értékét a jelzálog-hitelintézet részére. E bekezdés alkalmazása szempontjából a szerzés időpontjának a tulajdonjognak az ingatlan-nyilvántartásba való bejegyzése napját követő napot kell tekinteni.
+
 ## III. RÉSZ — A JELZÁLOGLEVÉL
 
 ### Jelzáloglevél kibocsátásának módja, feltételei

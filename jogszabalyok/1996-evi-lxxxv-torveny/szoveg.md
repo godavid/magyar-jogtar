@@ -59,7 +59,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 kéri.
 
-(2) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése, ha az igazolhatóan birtok-összevonási célú önkéntes földcsere megszervezése iránt indított eljáráshoz szükséges.
+(2)
 
 (3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
 
@@ -133,11 +133,11 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 - e) az olyan jog vagy tény törlésére irányuló kérelem, amelynek megszűnése az ingatlan-nyilvántartásból kétségtelenül megállapítható;
 - f) a lakástörvény alapján vételi, elővásárlási joggal rendelkező személy részére elidegenített önkormányzati vagy állami tulajdonban álló lakás tulajdonjogának, haszonélvezeti jogának, továbbá az ezzel összefüggő elidegenítési és terhelési tilalomnak, valamint jelzálogjognak az ingatlan-nyilvántartási bejegyzésével vagy törlésével kapcsolatos eljárás;
-- g) a birtok-összevonási célú önkéntes földcsere keretében létrejött megállapodáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése;
+- g) a birtok-összevonási célú földcsere keretében létrejött megállapodáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése;
 - h) a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának feljegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
 - i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
 - j) a költségmentesség engedélyezése iránti eljárás;
-- k) a birtok-összevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint a kárpótlási eljárás, a részarány-tulajdonnal kapcsolatos eljárás;
+- k) a kárpótlási eljárás, a részarány-tulajdonnal kapcsolatos eljárás;
 - l) a lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján
   - la) a Magyar Állam javára történő lakásvásárlással megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás,
   - lb) a visszavásárlási jog bejegyzésére irányuló eljárás,

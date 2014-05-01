@@ -425,7 +425,7 @@ e törvény rendelkezéseinek betartásával folytatható.
 
 (3) Hároméves kortól az adott év december 31. napjáig a 15. életévét be nem töltött személy részére állami horgászjegy kiadása esetén a (2) bekezdésben foglaltakat nem kell alkalmazni.
 
-(4)
+(4) Egy személy évente egy alkalommal, korlátozott időtartamra, a szükséges szabály- és fajismeret igazolása mellett, az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint történő horgászathoz turista állami horgászjegyet válthat, amely vonatkozásában a (2) bekezdésben foglaltakat nem kell alkalmazni.
 
 (5) A horgászvizsga letétele alól a halgazdálkodási hatóság felmentést ad azon értelmi fogyatékos személy részére, akinek a törvényes képviselője az állapotát igazoló okmányokat benyújtja. A horgászvizsga letétele alól mentesített, halfogásra jogosító okmányokkal rendelkező értelmi fogyatékos személy kizárólag 18. életévét betöltött, állami horgászvizsgával rendelkező személy folyamatos jelenlétében, az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint horgászhat.
 

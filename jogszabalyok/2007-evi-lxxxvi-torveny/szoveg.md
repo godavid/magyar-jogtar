@@ -658,6 +658,12 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (3) A (2) bekezdésben meghatározott számla elektronikus és nyomtatott másolatának egyszeri kiadását a hálózati engedélyes és a villamosenergia-kereskedő külön díj fizetéséhez nem kötheti.
 
+(4) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, és a számlázási információk észrevétlen módosítását. A számlázási rendszernek meg kell felelni az általános információbiztonsági zártsági követelményeknek. Ennek érdekében a szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(5) A (4) bekezdésben meghatározott követelmények való megfelelést tanúsító szervezet által történő, a számlázási rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftver termékek és rendszerek tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható.
+
+(6) Az (5) bekezdés szerinti tanúsítást – két egymást követő naptári évben – nem végezheti ugyanaz a szervezet.
+
 44. § Ha jogszabály vagy a hálózathasználati szerződés ettől eltérően nem rendelkezik a villamosenergia-kereskedő a szerződésben meghatározott időszakban, a hálózati engedélyes tulajdonában lévő hiteles fogyasztásmérő berendezés adatai alapján a 40. § (4) bekezdésében meghatározott leolvasási gyakorisággal egyezően számolja el az értékesített villamosenergia-mennyiséget. Az elszámolás során tájékoztatni kell a felhasználót az adott elszámolási időszakra vonatkozóan a fogyasztásmérő berendezés által tárolt kezdő és záró mérőállásról.
 
 #### 45. §
