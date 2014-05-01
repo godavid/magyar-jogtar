@@ -284,6 +284,8 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (4) A kérelmet a bejegyzés alapjául szolgáló szerződés (jognyilatkozat) keltétől számított 30 napon belül az ingatlanügyi hatósághoz kell benyújtani. Ha a szerződés (jognyilatkozat) létrejöttéhez harmadik személy beleegyezése vagy – ide nem értve az ingatlanügyi hatósági engedélyt – hatósági jóváhagyás szükséges, a kérelmet a beleegyezéstől, illetve a jóváhagyástól számított 30 napon belül kell az ingatlanügyi hatósághoz benyújtani.
 
+(4a) Abban az esetben, ha a föld tulajdonjogának megszerzésére irányuló szerződéshez nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, azonban a szerződést az elővásárlásra jogosultakkal hirdetményi úton, a föld fekvése szerint illetékes települési önkormányzat jegyzője közreműködésével kell közölni, a bejegyzésre irányuló kérelmet a kifüggesztett szerződésnek az ingatlan tulajdonosa által történő kézhezvételétől számított harminc napon belül kell az ingatlanügyi hatósághoz benyújtani.
+
 (5) A bejegyzés iránti kérelem benyújtására meghatározott határidő elmulasztása esetén az adózás rendjéről szóló törvény szerinti mulasztási bírságot kell fizetni.
 
 (6) A kérelemhez két eredeti és egy másolati példányban kell csatolni a bejegyzés alapjául szolgáló okiratot, közjegyzői okirat esetén a közjegyzői okirat hiteles kiadmányának vagy hiteles másolatának két eredeti és egy másolati példányát, amelyeknek tartalmazniuk kell a jogszabályban meghatározott esetekben az okiratra vezetett záradékot, továbbá a bejegyzéshez és az illeték megállapításához szükséges egyéb iratokat.
@@ -403,6 +405,8 @@ alapján kerülhet sor.
 
 (5) Jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen és nyilvánvalóan azonosítható módon írt alá.
 
+(6) A föld tulajdonjogának megszerzésére irányuló, ügyvéd által ellenjegyzett vagy közokiratba foglalt, a külön jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített, és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául akkor szolgálhat, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék. Az elővásárlásra jogosult javára történő bejegyzés iránti kérelemhez csatolandó bejegyzési engedélynek tartalmaznia kell a jogszerző bejegyzéshez szükséges adatait.
+
 33. § (1)
 
 (2) Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, illetve látta el kézjegyével, csatolni kell a meghatalmazást is, amelyet a bejegyzés alapjául szolgáló okiratra előírt alakszerűségek szerint kell kiállítani. Ha a felet a közjegyzői okirat elkészítésénél meghatalmazott képviseli, az ingatlan-nyilvántartási eljárásban azt a magánokiratban foglalt meghatalmazást is el kell fogadni, amelyben a fél aláírását közjegyző vagy magyar külképviseleti szerv hitelesítette.
@@ -475,6 +479,12 @@ kell csatolnia.
 
 (5) Ha a (3) és (4) bekezdés szerinti okirat valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, vagy azokat az ingatlanügyi hatóság – a (3a) vagy (3b) bekezdés alapján – korábban már beszerezte, az újabb kérelemben – az iktatószámra való hivatkozással – elegendő a korábbi benyújtásra, beszerzésre és arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratok a bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem ingatlanügyi hatósághoz történő benyújtásának időpontjában a képviseleti jogosultság vonatkozásában változást nem tartalmaznak.
 
+37/A. § A föld tulajdonjogának hatósági jóváhagyáshoz nem kötött megszerzésére irányuló szerződések esetében a kérelmezőnek az ingatlan-nyilvántartási kérelemben nyilatkoznia kell arról, hogy a szerződést a mezőgazdasági igazgatási szervnek nem kell jóváhagynia, továbbá
+
+- a) a közeli hozzátartozók között történt tulajdonjog átruházás esetén csatolni kell a szerződő feleknek a szerződésbe, vagy az azzal azonos alakiságú okiratba foglalt – büntetőjogi felelősségük tudatában tett – nyilatkozatát arról, hogy közöttük közeli hozzátartozói viszony áll fenn;
+- b) a földnek jogszabályba foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adásvétele esetén csatolni kell a mezőgazdasági és vidékfejlesztési támogatási szerv igazolását a feltétel fennállásáról,
+- c) ha jogszabály a szerződésnek az elővásárlásra jogosultakkal hirdetményi úton történő közlését írja elő, csatolni kell az eladó részére a jegyző által megküldött jognyilatkozatokat és iratjegyzéket.
+
 38. § (1) A bizalmi vagyonkezelési jogviszony alapján fennálló, vagy létrejövő, kezelt vagyonba kerülő ingatlanra vonatkozó tulajdonjog bejegyzés esetén, ha a bizalmi vagyonkezelési szerződés nem bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel került megkötésre, a kérelemben erről nyilatkozni kell, és ahhoz csatolni kell a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítványt is.
 
 (2) A bizalmi vagyonkezelési jogviszony alapján fennálló, vagy létrejövő, kezelt vagyonba kerülő ingatlanra vonatkozó tulajdonjog bejegyzés esetén, ha a bizalmi vagyonkezelési szerződés bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel került megkötésre, a kérelemben erről nyilatkozni kell és ahhoz csatolni kell a bizalmi vagyonkezelő vállalkozás e minőségének igazolására szolgáló, a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott hivatal által kiállított hatósági bizonyítványt.
@@ -499,7 +509,7 @@ kell csatolnia.
 - f) a bejegyzési engedélyt kellene pótolni, kivéve, ha a bejegyzett jogosult a tulajdonjog-bejegyzés alapjául szolgáló okiratban nyilatkozott arról, hogy a tulajdonjog-bejegyzési engedélyt későbbi időpontban, de legfeljebb az okirat ingatlanügyi hatósági benyújtását követő 6 hónapon belül megadja,
 - g) okirat keltezésének helyét vagy az időpontját kellene feltüntetni,
 - h) az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, vagy a vázrajzon a törvényben meghatározott személyek aláírását kellene pótolni,
-- i) termőföld ingatlan tulajdonjogának megszerzésére irányuló szerződés esetében, a külön jogszabályban a tulajdonjog bejegyzés iránti kérelem benyújtásához előírt, a hirdetményi úton történt közlés megtörténtét igazoló okiratokat, illetve az elővásárlási jogról lemondó nyilatkozatot nem mellékelték vagy a hirdetményi kifüggesztés időtartama nem felel meg a külön jogszabályban foglaltaknak.
+- i)
 
 (3a) Nem vonatkozik a (3) bekezdés c) pontjában foglalt rendelkezés arra az esetre, ha az ingatlan helyrajzi száma a kérelem iktatását követően, az érdemi döntés meghozatala előtt az ingatlanügyi hatóság ügykörében felmerült, kizárólag számítástechnikai okból került módosításra, és az ingatlan minden más adata változatlan.
 
@@ -512,7 +522,8 @@ kell csatolnia.
 - c) az az ingatlan, jog tény, amelyre a bejegyzést kérték az ingatlan-nyilvántartásban nem szerepel,
 - d) a bejegyzési kérelmet arra nem jogosult nyújtotta be,
 - e) a kérelemhez a bejegyzés alapjául szolgáló okiratot nem csatolták,
-- f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási eljárás megindításához szükséges nyomtatvány kérelmet nem csatolták.
+- f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási eljárás megindításához szükséges nyomtatvány kérelmet nem csatolták,
+- g) a föld tulajdonjogának megszerzésére irányuló szerződésen a mezőgazdasági igazgatási szerv törvényben előírt jóváhagyásáról szóló záradék nem szerepel.
 
 (5) Az igazgatási szolgáltatási díj meg nem fizetése esetén – a (3) és (4) bekezdéstől eltérően – az ingatlanügyi hatóság a díj megfizetésére irányuló hiánypótlási felhívást bocsát ki a (3) és (4) bekezdés szerinti döntés meghozatalát megelőzően, de legkésőbb a kérelem benyújtását követő tizenöt napon belül.
 
@@ -653,11 +664,11 @@ kell csatolnia.
 - e) a földrészlet tulajdonosának, ha egyéb önálló ingatlan tulajdonjogát ruházták át,
 - f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezetnek és mindazoknak, akiknek jogát az új bejegyzés érinti, kivéve ha az ingatlanügyi hatóság hatósági határozat alapján vagy a bíróság megkeresésére a 17. § (1) bekezdés 1–10. pontjában meghatározott tényt jegyezte be az ingatlan-nyilvántartásba,
 - g) telekalakítás esetén az építésügyi hatóság részére,
-- h) külföldi jogi vagy magánszemély, továbbá a termőföldről szóló törvény szerinti tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyzett jogi személy vagy jogi személyiség nélküli szervezet termőföldnek nem minősülő ingatlanra vonatkozó tulajdonszerzése esetén a fővárosi és megyei kormányhivatalnak,
+- h) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Fftv.) meghatározott külföldi jogi vagy természetes személy által az Fftv. hatálya alá nem tartozó ingatlannak a megszerzése esetén az illetékes megyei (fővárosi) kormányhivatalnak,
 - i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 - j) ha az érdekelt kiskorú vagy gondnokság alatt áll, a gyámhatóságnak,
 - k) felszámolás vagy végelszámolás alatt álló jogosult esetében a felszámolónak, illetve a végelszámolónak,
-- l) a termőföldről szóló törvény szerinti tagállami állampolgár termőföld tulajdonszerzése esetén – a bejegyzés alapját képező okirat másolatával együtt – a mezőgazdasági igazgatási szervnek.
+- l) a föld tulajdonjogának szerzése esetén – a bejegyzés alapját képező okirat másolatával együtt – a mezőgazdasági igazgatási szervnek.
 
 (2) Az elutasító határozatot kézbesíteni kell
 
@@ -898,7 +909,7 @@ kell csatolnia.
 
 70/A. § Annak megállapítása érdekében, hogy a kérelmező – az általa megadott természetes személyazonosító adatok alapján – Magyarországon rendelkezik-e ingatlantulajdonnal, az ingatlanügyi hatóság – a 70. § (1) bekezdésében foglaltakra tekintet nélkül – adatlekérdezést végez, amelynek eredményéről hatósági bizonyítványt állít ki.
 
-70/B. § A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló szerződések feltárása érdekében az ingatlanügyi hatóság a számítógéppel vezetett ingatlan-nyilvántartási adatbázisban a jogellenes jogügyletekben részt vevő felek személyének, illetve a szerzési korlát túllépésének megállapításához szükséges adatkezelést végezhet.
+70/B. § A föld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló szerződések feltárása érdekében az ingatlanügyi hatóság a számítógéppel vezetett ingatlan-nyilvántartási adatbázisban a jogellenes jogügyletekben részt vevő felek személyének, illetve a szerzési korlát túllépésének megállapításához szükséges adatkezelést végezhet.
 
 71. § Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől személyi azonosító vagy természetes személyazonosító adatok alapján igényelhet adatot.
 

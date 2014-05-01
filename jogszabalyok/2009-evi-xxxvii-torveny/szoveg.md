@@ -137,20 +137,20 @@ a kincstári vagyon részét képezi.
 - a) 5 hektárnál nem nagyobb, természetben összefüggő, természetes erdő, természetszerű erdő és származék erdő természetességi állapotú erdő,
 - b) 5 hektárnál nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
 
-állami tulajdonból történő kikerülésére kizárólag azonos vagy magasabb természetességi állapotú erdővel történő birtokösszevonási célú önkéntes földcsere vagy csere útján, az optimális állami birtokszerkezet kialakítása céljából kerülhet sor.
+állami tulajdonból történő kikerülésére kizárólag azonos vagy magasabb természetességi állapotú erdővel történő birtokösszevonási célú földcsere vagy csere útján, az optimális állami birtokszerkezet kialakítása céljából kerülhet sor.
 
 (5) Az állam 100%-os tulajdonában álló,
 
 - a) gazdasági elsődleges rendeltetésű, 5 hektárnál nem nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
 - b) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület,
 
-állami tulajdonból történő kikerülésére optimális állami birtokszerkezet kialakítása céljából, elsődlegesen birtokösszevonási célú önkéntes földcsere, vagy csere útján, ezek sikertelensége esetén vagyonátruházással kerülhet sor. Az erdő, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület ellenértékét erdő tulajdonjogának megszerzésére kell fordítani.
+állami tulajdonból történő kikerülésére optimális állami birtokszerkezet kialakítása céljából, elsődlegesen birtokösszevonási célú földcsere, vagy csere útján, ezek sikertelensége esetén vagyonátruházással kerülhet sor. Az erdő, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület ellenértékét erdő tulajdonjogának megszerzésére kell fordítani.
 
 (6) A (4)–(5) bekezdés szerinti földcseréhez, valamint vagyonátruházáshoz az erdő védelmi rendeltetése szerint feladat- és hatáskörrel rendelkező miniszter egyetértése szükséges.
 
 (7) Az állam 100%-os tulajdonában álló erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonból csak abban az esetben kerülhet ki, ha nem szomszédos az állam 100%-os tulajdonában álló erdővel.
 
-(8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú önkéntes földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
+(8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
 
 (9) Az osztatlan közös tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonban lévő hányadának a használatára, hasznosítására, a Nemzeti Földalapba tartozó vagyonra vonatkozó általános szabályokat kell alkalmazni.
 
