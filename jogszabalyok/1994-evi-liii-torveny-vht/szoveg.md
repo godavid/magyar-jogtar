@@ -1706,6 +1706,19 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (2) Nem terheli az ingatlant megszerző tulajdonos tulajdonjogát a haszonélvezeti jog – függetlenül attól, hogy az ingatlan-nyilvántartásba be van-e jegyezve –, ha annak jogosultja a végrehajtást kérő követelésének kielégítéséért felelős, vagy ha azt a jelzálogjog keletkezése után szerződéssel létesítették.
 
+(3) Ha a végrehajtás alá vont, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földön (a továbbiakban: föld) szerződés alapján keletkezett földhasználati jogosultság áll fenn harmadik személy javára (a továbbiakban: a földhasználó), a végrehajtás alá vont földet megszerző új tulajdonos tulajdonjogát az (1) bekezdésben meghatározott jogok mellett a földhasználati jogosultság is korlátozza a 137/A. §-ban meghatározottak szerint.
+
+137/A. § (1) A földhasználati jogosultság – a (2) bekezdésben meghatározott esetek kivételével – az új tulajdonos tulajdonjogának az ingatlan-nyilvántartásba való bejegyzését követő 6. hónap utolsó napján megszűnik.
+
+(2) Nem szűnik meg az (1) bekezdésben meghatározott határnapon a földhasználati jogosultság, ha
+
+- a) az új tulajdonos az (1) bekezdésben meghatározott határnapig a földhasználati jogosultság fenntartására vonatkozó írásbeli nyilatkozatot tesz a földhasználó felé, vagy
+- b) a földhasználó a földhöz kötődő olyan európai uniós vagy nemzeti forrásból folyósított agrár-vidékfejlesztési támogatást vett igénybe, amelynek feltételéül jogszabály meghatározott időtartamra földhasználati kötelezettséget ír elő.
+
+(3) A (2) bekezdésben meghatározott esetben a földhasználati jogosultság az azt létesítő szerződés megszűnésére irányadó szabályok szerint és időpontban szűnik meg.
+
+(4) Az (1) bekezdésben foglaltakat kell alkalmazni a föld lefoglalását követően létesített földhasználati jogosultság megszerzésére is.
+
 ### Az ingatlan lefoglalása
 
 138. § (1) Ha a végrehajtható okirat tartalmazza az ingatlan adatait, a végrehajtó a végrehajtási költség megelőlegezését – ideértve az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtónak történő megfizetését – követő 3 munkanapon belül lefoglalja az ingatlant. Ha a végrehajtást kérő a végrehajtási kérelemben úgy rendelkezett, hogy az adós ingatlanát is vonják végrehajtás alá, vagy az adós ingatlanának végrehajtás alá vonását nem zárta ki, de a végrehajtási kérelemben az ingatlan adatait nem jelölte meg, a végrehajtó a végrehajtási költség előlegezését és az ingatlan adatainak beszerzését, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtónak történő megfizetését követő 3 munkanapon belül intézkedik az ingatlan lefoglalása iránt.
@@ -2413,7 +2426,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 - a) az adós az ingatlan kezelésében hosszabb távollét miatt vagy más okból akadályozva van, vagy pedig
 - b) a végrehajtást kérő zárgondnok kijelölését kérte, és ez az ügy körülményeire tekintettel a végrehajtó szerint indokolt.
 
-197. § (1) Termőföld zárgondnokául a végrehajtó elsősorban a járási hivatal által javasolt személyt vagy szervet jelöli ki.
+197. § (1) A föld zárgondnokául a végrehajtó elsősorban a járási hivatal által javasolt személyt vagy szervet jelöli ki.
 
 (2) A járási hivatal a végrehajtó megkeresésére 8 napon belül nyilatkozni köteles: javasol-e valakit zárgondnoknak.
 
@@ -4114,6 +4127,8 @@ a végrehajtást foganatosító bíróság végzéssel a kiürítés foganatosí
 - b) 103. § (8) bekezdését azokban a folyamatban lévő végrehajtási eljárásokban kell alkalmazni, amelyekben a Módtv. hatálybalépését követően történik a gépjármű lefoglalása,
 - c) 233. § (2) bekezdés h) pontját a Módtv. hatálybalépését követően kiírt álláspályázatok elbírálása során kell alkalmazni,
 - d) 267. § (1) bekezdés e) pontját és 267. § (2) bekezdés e) pontját a Módtv. hatálybalépését követően elkövetett fegyelmi vétség miatt indult végrehajtói fegyelmi eljárásokban kell alkalmazni.
+
+306/D. § E törvénynek a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvénnyel megállapított 137. § (3) bekezdését és 137/A. §-át az e rendelkezések hatálybalépését követően kitűzött árverések esetén kell alkalmazni.
 
 ### Felhatalmazás
 
