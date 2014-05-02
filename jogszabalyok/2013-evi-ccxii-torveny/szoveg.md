@@ -997,10 +997,7 @@ rendeletben állapítsa meg.
 
 106. § (1)
 
-(2) 2014. május 1-jén hatályát veszti
-
-- a) az 5. §;
-- b) a 112–119. §.
+(2)
 
 107. § Az 1. és 2. §, a 3–10. §, a 20. §, a 41–42. §, a 45. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
@@ -1035,46 +1032,15 @@ rendeletben állapítsa meg.
 
 #### 21. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-120. § (1) Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 26. § (1) bekezdés p) pontja helyébe a következő rendelkezés lép:
-
-(Mentes a visszterhes vagyonátruházási illeték alól:)
-
-„p) a termőföldnek a földműves általi, ellenérték fejében történő megszerzése, feltéve, ha a birtokbaadástól, de legkésőbb az illetékkötelezettség keletkezését követő 12. hónap utolsó napjától számítva 5 évig
-
-pa) a termőföld tulajdonjogát nem idegeníti el,
-
-pb) a termőföldön vagyoni értékű jogot nem alapít, és
-
-pc) a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja.”
-
-(2) Az Itv. 26. § (18) bekezdése helyébe a következő rendelkezés lép, és a § a következő (18a) bekezdéssel egészül ki:
-
-„(18) Az (1) bekezdés p) pontja szerinti illetékmentesség alkalmazásában nem minősül elidegenítésnek a kisajátítás, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítés és a birtokösszevonási célú földcsere, továbbá nem minősül vagyoni értékű jog alapításának a termőföld használatának, hasznosításának közeli hozzátartozó javára történő átengedése, feltéve, hogy a közeli hozzátartozó a vagyonszerző helyett földművesként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja a termőföldet, és az 5 éves időtartam hátralévő részében az (1) bekezdés p) pontja szerinti feltételeket vállalja.
-
-(18a) Az (1) bekezdés p) pontja szerinti feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző az eredetileg vállalt 5 év letelte előtt
-
-a) a termőföldet – a (18) bekezdésben meghatározott tulajdonszerzési módok kivételével – elidegeníti,
-
-b) a termőföldön – használatának, hasznosításának a (18) bekezdésben meghatározott közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
-
-c) a termőföldet saját maga vagy a (18) bekezdésben meghatározott közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
-
-az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdésben meghatározott közeli hozzátartozója által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.”
+120. § (1)–(2)
 
 (3)
 
-(4) Hatályát veszti az Itv.
-
-- a) 26. § (1) bekezdés n) pontjában az „önkéntes”,
-- b) 33. § (2) bekezdés 24. pontjában az „a birtokösszevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint”
-
-szövegrész.
+(4)
 
 #### 22. A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény módosítása
 
-121. § A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény 23. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Azt a vételi jog alapján szerzett termőföldet, amelynek tulajdonosa az (1) bekezdésben vállalt kötelezettségét a tulajdonszerzéstől számított öt éven belül megszegi, kártalanítás nélkül állami tulajdonba kell venni és árverés útján kell értékesíteni. E bekezdést nem kell alkalmazni, ha a termőföld tulajdonjogának átruházására birtokösszevonási célú földcserével kerül sor.”
+#### 121. §
 
 #### 23. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
@@ -1086,79 +1052,37 @@ szövegrész.
 
 #### 25. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-124. § (1) A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástv.) „A törvény hatálya” alcíme a következő 1/A. §-sal egészül ki:
-
-„1/A. § (1) E törvényt és az e törvény végrehajtására kiadott rendeletet kell alkalmazni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Fftv.) szerinti mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlan tulajdonjogának az Fftv. szerinti külföldi jogi vagy természetes személy által történő megszerzésére, ide nem értve az öröklés esetét.
-
-(2) A külföldi jogi vagy természetes személy az (1) bekezdés szerinti ingatlant az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal engedélyével szerezheti meg.
-
-(3) A fővárosi és megyei kormányhivatal (2) bekezdés szerinti határozata ellen nincs helye fellebbezésnek.
-
-(4) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez a külpolitikáért felelős miniszter engedélye szükséges. A külpolitikáért felelős miniszter az engedélyt nemzetközi szerződés vagy viszonosság fennállása alapján adja meg.”
-
-(2) A Lakástv. a következő 93. §-sal egészül ki:
-
-„93. § Felhatalmazást kap a Kormány, hogy a mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlanokra vonatkozóan a külföldiek tulajdonszerzésével kapcsolatos szabályokat rendeletben állapítsa meg.”
+#### 124. §
 
 #### 26. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-125. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 137. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha a végrehajtás alá vont, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földön (a továbbiakban: föld) szerződés alapján keletkezett földhasználati jogosultság áll fenn harmadik személy javára (a továbbiakban: a földhasználó), a végrehajtás alá vont földet megszerző új tulajdonos tulajdonjogát az (1) bekezdésben meghatározott jogok mellett a földhasználati jogosultság is korlátozza a 137/A. §-ban meghatározottak szerint.”
-
-(2) A Vht. „Az ingatlan-végrehajtás általános szabályai” alcíme a következő 137/A. §-sal egészül ki:
-
-„137/A. § (1) A földhasználati jogosultság – a (2) bekezdésben meghatározott esetek kivételével – az új tulajdonos tulajdonjogának az ingatlan-nyilvántartásba való bejegyzését követő 6. hónap utolsó napján megszűnik.
-
-(2) Nem szűnik meg az (1) bekezdésben meghatározott határnapon a földhasználati jogosultság, ha
-
-a) az új tulajdonos az (1) bekezdésben meghatározott határnapig a földhasználati jogosultság fenntartására vonatkozó írásbeli nyilatkozatot tesz a földhasználó felé, vagy
-
-b) a földhasználó a földhöz kötődő olyan európai uniós vagy nemzeti forrásból folyósított agrár-vidékfejlesztési támogatást vett igénybe, amelynek feltételéül jogszabály meghatározott időtartamra földhasználati kötelezettséget ír elő.
-
-(3) A (2) bekezdésben meghatározott esetben a földhasználati jogosultság az azt létesítő szerződés megszűnésére irányadó szabályok szerint és időpontban szűnik meg.
-
-(4) Az (1) bekezdésben foglaltakat kell alkalmazni a föld lefoglalását követően létesített földhasználati jogosultság megszerzésére is.”
-
-(3) A Vht. „Átmeneti rendelkezések” alcíme a következő 306/D. §-sal egészül ki:
-
-„306/D. § E törvénynek a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvénnyel megállapított 137. § (3) bekezdését és 137/A. §-át az e rendelkezések hatálybalépését követően kitűzött árverések esetén kell alkalmazni.”
-
-(4) A Vht. 197. § (1) bekezdésében a „Termőföld” szövegrész helyébe az „A föld” szöveg lép.
+#### 125. §
 
 #### 27. A termőföldről szóló 1994. évi LV. törvény hatályon kívül helyezése
 
 126. § (1) Hatályát veszti a termőföldről szóló 1994. évi LV. törvény
 
 - a)
-- b) 4–8/C. §-a;
+- b)
 - c)
 - d)
 - e)
-- f) 11. § (1) bekezdése;
+- f)
 - g)
 - h)
 - i)
 - j)
-- k) 26–35. §-a;
-- l) 81. § (5) bekezdése;
+- k)
+- l)
 - m)
-- n) 88–88/D. §-a;
+- n)
 - o)
 
-(2) Hatályát veszti a termőföldről szóló 1994. évi LV. törvény.
+(2)
 
 #### 28. Az erdőbirtokossági társulatról szóló 1994. évi XLIX. törvény módosítása
 
-127. § Az erdőbirtokossági társulatról szóló 1994. évi XLIX. törvény 30. §-a helyébe a következő rendelkezés lép:
-
-„30. § (1) A társulati tag tulajdonában lévő erdőterület az ahhoz kapcsolódó társulati érdekeltséggel együtt forgalomképes, de a tulajdonjog átruházása vagy átszállása az erdőgazdálkodót terhelő kötelezettségek teljesítését nem érinti.
-
-(2) A társulati tagot elővásárlási jog illeti meg a társulat tulajdonában, illetve használatában álló erdőterület eladása esetén. A társulati tagot az elővásárlási jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott elővásárlásra jogosultak sorrendjében a földet használó földművest követően, a helyben lakó szomszéd földművest megelőzően illeti meg.
-
-(3) Az elővásárlási jog gyakorlásának rendjét az alapszabály határozza meg.
-
-(4) A társulat elnöke kérelemre, illetve megkeresésre igazolást állít ki arról, hogy az elővásárlási jog gyakorlására az alapszabályban meghatározott módon, az arra jogosult által került sor.”
+#### 127. §
 
 #### 29. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
@@ -1180,67 +1104,27 @@ b) a földhasználó a földhöz kötődő olyan európai uniós vagy nemzeti fo
 
 #### 33. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
-132. § A természet védelméről szóló 1996. évi LIII. törvény „Tulajdonjogi rendelkezések” alcíme a következő 68/A. §-sal egészül ki:
-
-„68/A. § A mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti külföldi természetes személy és jogi személy a földnek nem minősülő, a település külterületén fekvő védett természeti terület tulajdonjogát nem szerezheti meg.”
+#### 132. §
 
 #### 34. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
 133. § (1)
 
-(2) Hatályát veszti a Díjtv.
-
-- a) 31. § (2) bekezdése,
-- b) 32/C. § (1) bekezdés g) pontjában az „önkéntes” szövegrész.
-- c) 32/C. § (1) bekezdés k) pontjában az „a birtok-összevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint” szövegrész.
+(2)
 
 #### 35. A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény módosítása
 
-134. § A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény 10. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földnek minősülő ingatlan a jelzálog-hitelintézet tulajdonába csak átmenetileg, a szerzés időpontjától számított legfeljebb egy éves időtartamra, felszámolási vagy végrehajtási eljárás útján kerülhet.
-
-(5) Ha a jelzálog-hitelintézet a tulajdonába került földet a szerzés időpontjától számított egy éven belül nem tudja értékesíteni, a föld az állam tulajdonába és a Nemzeti Földalapba kerül. A földalapkezelő szervezet az állam tulajdonjogának ingatlan-nyilvántartási bejegyzésétől számított 90 napon belül megfizeti a föld hitelbiztosítéki értékét a jelzálog-hitelintézet részére. E bekezdés alkalmazása szempontjából a szerzés időpontjának a tulajdonjognak az ingatlan-nyilvántartásba való bejegyzése napját követő napot kell tekinteni.”
+#### 134. §
 
 #### 36. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-135. § (1) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 26. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Abban az esetben, ha a föld tulajdonjogának megszerzésére irányuló szerződéshez nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, azonban a szerződést az elővásárlásra jogosultakkal hirdetményi úton, a föld fekvése szerint illetékes települési önkormányzat jegyzője közreműködésével kell közölni, a bejegyzésre irányuló kérelmet a kifüggesztett szerződésnek az ingatlan tulajdonosa által történő kézhezvételétől számított harminc napon belül kell az ingatlanügyi hatósághoz benyújtani.”
-
-(2) Az Inytv. 32. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A föld tulajdonjogának megszerzésére irányuló, ügyvéd által ellenjegyzett vagy közokiratba foglalt, a külön jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített, és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául akkor szolgálhat, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék. Az elővásárlásra jogosult javára történő bejegyzés iránti kérelemhez csatolandó bejegyzési engedélynek tartalmaznia kell a jogszerző bejegyzéshez szükséges adatait.”
-
-(3) Az Inytv. a következő 37/A. §-sal egészül ki:
-
-„37/A. § A föld tulajdonjogának hatósági jóváhagyáshoz nem kötött megszerzésére irányuló szerződések esetében a kérelmezőnek az ingatlan-nyilvántartási kérelemben nyilatkoznia kell arról, hogy a szerződést a mezőgazdasági igazgatási szervnek nem kell jóváhagynia, továbbá
-
-a) a közeli hozzátartozók között történt tulajdonjog átruházás esetén csatolni kell a szerződő feleknek a szerződésbe, vagy az azzal azonos alakiságú okiratba foglalt – büntetőjogi felelősségük tudatában tett – nyilatkozatát arról, hogy közöttük közeli hozzátartozói viszony áll fenn;
-
-b) a földnek jogszabályba foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adásvétele esetén csatolni kell a mezőgazdasági és vidékfejlesztési támogatási szerv igazolását a feltétel fennállásáról,
-
-c) ha jogszabály a szerződésnek az elővásárlásra jogosultakkal hirdetményi úton történő közlését írja elő, csatolni kell az eladó részére a jegyző által megküldött jognyilatkozatokat és iratjegyzéket.”
+135. § (1)–(3)
 
 (4)
 
 (5)
 
-(6) Az Inytv. 52. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(A jogok és tények bejegyzéséről, adatok átvezetéséről szóló határozatot – a változás tulajdoni lapon történő átvezetése után – kézbesíteni kell)
-
-„h) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Fftv.) meghatározott külföldi jogi vagy természetes személy által az Fftv. hatálya alá nem tartozó ingatlannak a megszerzése esetén az illetékes megyei (fővárosi) kormányhivatalnak,”
-
-(7) Az Inytv. 52. § (1) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(A jogok és tények bejegyzéséről, adatok átvezetéséről szóló határozatot – a változás tulajdoni lapon történő átvezetése után – kézbesíteni kell)
-
-„l) a föld tulajdonjogának szerzése esetén – a bejegyzés alapját képező okirat másolatával együtt – a mezőgazdasági igazgatási szervnek.”
-
-(8) Az Inytv. 70/B. §-ában a „termőföld” szövegrész helyébe a „föld” szöveg lép.
-
-(9) Hatályát veszti az Inytv. 39. § (3) bekezdés i) pontja.
+(6)–(9)
 
 #### 37. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
@@ -1262,7 +1146,7 @@ c) ha jogszabály a szerződésnek az elővásárlásra jogosultakkal hirdetmén
 
 140. § (1)
 
-(2) Hatályát veszti az Evt. 8. § (4), (5) és (8) bekezdésében az „önkéntes” szövegrész.
+(2)
 
 #### 42. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
@@ -1274,29 +1158,7 @@ c) ha jogszabály a szerződésnek az elővásárlásra jogosultakkal hirdetmén
 
 „(2) A leltár mellékletét képező papír alapú okiratokat a Pp.-ben meghatározottak szerinti elektronikus kézbesítésen felül postai úton kell továbbítani, ha az okirat végintézkedést tartalmaz vagy papír alapú bemutatása, megtekintése egyéb, az eljárás kimenetelét befolyásoló okból szükséges; kizárólag papír alapú megküldésre különösen akkor kerülhet sor, ha az eredetileg papír alapú iratok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A papír alapú megküldést a közjegyző hivatalból és az öröklésben érdekelt indítványára is elrendelheti.”
 
-(3) A Hetv. 71. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A közjegyző a hagyatéki eljárást felfüggeszti, ha a hagyaték átadását befolyásoló kérdésben
-
-a) házasság létezésének, érvényességének vagy gyermek családi jogállásának bírósági megállapítása,
-
-b) holtnak nyilvánítási vagy halál tényének megállapítása iránti eljárás vagy
-
-c) az ingatlan-nyilvántartásban az örökhagyó tulajdonaként
-
-ca) bejegyzett ingatlanra vagy annak a tulajdoni hányadára az örökhagyó túlélő házastársa vagy volt (elvált) házastársa házastársi vagyonközösség vagy élettársa élettársi vagyonközösség jogcímén őt megillető részesedés megállapítása vagy
-
-cb) be nem jegyzett ingatlannal kapcsolatban az örökhagyó tulajdonjogának ingatlan-nyilvántartásba való bejegyzése
-
-tárgyában bírósági vagy hatósági eljárás van folyamatban, vagy
-
-d) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mezőgazdasági igazgatási szerv által kiadott hatósági bizonyítvány szükséges.
-
-(3) Ha az (1) bekezdésben és a (2) bekezdés a)–c) pontjában meghatározott eljárás még nincs megindítva, de a rendelkezésre álló adatok és a megindításra jogosult nyilatkozata alapján rövid időn belül megindulása valószínűnek mutatkozik, a közjegyző az eljárás megindítására és annak igazolására az arra jogosultnak megfelelő határidőt tűz. Ha a határidő eredménytelenül telik le, az eljárás felfüggesztésének nincs helye. A (2) bekezdés d) pontjában meghatározott esetben a közjegyző a mező- és erdőgazdasági földek forgalmáról szóló törvény szerint szükséges feltételek fennállásáról szóló hatósági bizonyítvány kiadása céljából megkeresi a mezőgazdasági igazgatási szervet.”
-
-(4) A Hetv. 71. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Ha a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági földek forgalmáról szóló törvény alapján a hatósági bizonyítvány kiadását megtagadja, a közjegyző a végrendelet ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek ideiglenes hatállyal sem adható át.”
+(3)–(4)
 
 (5)
 
@@ -1324,13 +1186,7 @@ d) a mező- és erdőgazdasági földek forgalmáról szóló törvényben megha
 
 #### 47. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-146. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény
-
-- a) 349. §-át megelőző alcímben a „Termőföld” szövegrész helyébe a „Mező- és erdőgazdasági hasznosítású föld”,
-- b) 349. § (1) bekezdés a) pontjában a „termőföld” szövegrész helyébe a „mező- és erdőgazdasági hasznosítású földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld”,
-- c) 349. § (1) bekezdés b) pontjában a „termőföldre” szövegrész helyébe a „mező- és erdőgazdasági hasznosítású földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földre”
-
-szöveg lép.
+#### 146. §
 
 #### 48. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
