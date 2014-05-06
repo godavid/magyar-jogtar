@@ -134,7 +134,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - b) működésének és eljárásainak tapasztalatairól háromévente beszámol az Országgyűlésnek, valamint évente tájékoztatja az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságait,
 - c) az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak és a főigazgatóknak utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
 
-(2) A Testület öt tagját az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságainak együttes javaslatára az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával, egyidejű, listás módon választja. A Testület tagjaira az alapvető jogok védelme érdekében tevékenységet folytató szervek és szervezetek a bizottságoknak javaslatot tehetnek.
+(2) A Testület öt tagját az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságainak együttes javaslatára az Országgyűlés egyidejű, listás módon választja. A Testület tagjaira az alapvető jogok védelme érdekében tevékenységet folytató szervek és szervezetek a bizottságoknak javaslatot tehetnek.
 
 (3) A Testület tagjának olyan, büntetlen előéletű, az országgyűlési képviselők választásán választható személy választható meg, aki jogi végzettséggel és az alapvető jogok védelme területén kiemelkedő tapasztalatokkal rendelkezik, és külön törvény szerinti nemzetbiztonsági ellenőrzése megtörtént.
 
@@ -157,13 +157,13 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - e) a tisztségtől való megfosztással,
 - f) a tag halálával.
 
-(2) A Testület tagja megbízatásának megszűnését az (1) bekezdés b), valamint f) pontja esetében az Országgyűlés elnöke állapítja meg és hirdeti ki. Az (1) bekezdés c)–e) pontja esetében a megbízatás megszűnésének kérdésében az Országgyűlés határoz. A megbízatás megszűnésének megállapításához a jelenlévő képviselők kétharmadának szavazata szükséges.
+(2) A Testület tagja megbízatásának megszűnését az (1) bekezdés b), valamint f) pontja esetében az Országgyűlés elnöke állapítja meg és hirdeti ki. Az (1) bekezdés c)–e) pontja esetében a megbízatás megszűnésének kérdésében az Országgyűlés határoz.
 
 (3) A lemondást írásban kell közölni az Országgyűlés elnökével, aki köteles azt elfogadni.
 
 (4) Összeférhetetlenségi okból szűnik meg a megbízatása annak a tagnak, aki a jelölését követően bekövetkezett körülmény folytán nem felel meg a megválasztáshoz szükséges feltételeknek.
 
-(5) Ha a Testület tagjának tevékenysége során összeférhetetlenségi ok merül fel, azt meg kell szüntetnie. Az összeférhetetlenség fennállását az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával határozatban állapítja meg. Ha a Testület tagja az összeférhetetlenségi okot e határozat meghozatalától számított tíz napon belül nem szünteti meg, az Országgyűlés – bármely képviselő indítványára – határozatban állapítja meg a Testület tagja megbízatásának megszűnését. Az összeférhetetlenségi ok fennállását megállapító országgyűlési határozat meghozatalának időpontjától az összeférhetetlenségi ok megszüntetéséig vagy a megbízatás e miatt történő megszűnését megállapító országgyűlési határozat meghozataláig a Testület tagja e tisztségéből eredő jogkörét nem gyakorolhatja.
+(5) Ha a Testület tagjának tevékenysége során összeférhetetlenségi ok merül fel, azt meg kell szüntetnie. Az összeférhetetlenség fennállását az Országgyűlés határozatban állapítja meg. Ha a Testület tagja az összeférhetetlenségi okot e határozat meghozatalától számított tíz napon belül nem szünteti meg, az Országgyűlés – bármely képviselő indítványára – határozatban állapítja meg a Testület tagja megbízatásának megszűnését. Az összeférhetetlenségi ok fennállását megállapító országgyűlési határozat meghozatalának időpontjától az összeférhetetlenségi ok megszüntetéséig vagy a megbízatás e miatt történő megszűnését megállapító országgyűlési határozat meghozataláig a Testület tagja e tisztségéből eredő jogkörét nem gyakorolhatja.
 
 (6) Felmentéssel szűnik meg a megbízatás, ha a Testület tagja neki fel nem róható okból száznyolcvan napnál hosszabb ideig nem képes eleget tenni a testületi tagságból eredő feladatainak. A felmentést bármely képviselő indítványozhatja.
 

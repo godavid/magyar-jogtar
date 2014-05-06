@@ -68,7 +68,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) Az NFA elnöke és elnökhelyettese magyar állampolgár lehet. Az NFA elnöke, és elnökhelyettese nem lehet
 
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b) a Nemzeti Földalap Ellenőrző Bizottságának (a továbbiakban: ellenőrző bizottság) tagja;
 - c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
@@ -149,7 +149,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, megyei közgyűlés tagja, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b) az ellenőrző bizottságának tagja;
 - c) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 

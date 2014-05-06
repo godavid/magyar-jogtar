@@ -68,7 +68,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (6) Nem kérhető fel a Testület tagjává az, aki
 
-- a) országgyűlési vagy európai parlamenti képviselő,
+- a) országgyűlési vagy európai parlamenti képviselő, nemzetiségi szószóló,
 - b) Kormány tagja, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár,
 - c) polgármester vagy helyi önkormányzati képviselő,
 - d) párt alkalmazottja vagy tisztségviselője,

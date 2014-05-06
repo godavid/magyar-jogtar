@@ -62,7 +62,7 @@ az ügyvédekről
 - b) az oktatói tevékenység,
 - c) a nem igazságügyi szakértői tevékenység,
 - d) a választottbírói tevékenység,
-- e) az országgyűlési, európai parlamenti, helyi önkormányzati képviselői jogviszony,
+- e) az országgyűlési, európai parlamenti, helyi önkormányzati képviselői és a nemzetiségi szószólói jogviszony,
 - f) a munkaviszony nélküli igazgatósági és felügyelőbizottsági tagság,
 - g) a kuratóriumi tagság és tisztségviselés,
 - h) az önkéntes tartalékos szolgálati viszony.
@@ -256,7 +256,7 @@ az ügyvédekről
 
 (4) A tevékenység folytatásának tényét a kamara a nyilvántartásba bejegyzi. A kamara ellenőrizheti, hogy az ügyvédi tevékenység folytatásához szükséges feltételek fennállnak-e.
 
-18. § (1) A kamara engedélyezése nem szükséges az országgyűlési képviselői vagy a polgármesteri megbízatás miatti szüneteltetéshez. Ez esetben a szüneteltetés időtartama a megbízatás lejártáig tart. Az ügyvéd az ilyen szüneteltetést köteles a kamarának bejelenteni.
+18. § (1) A kamara engedélyezése nem szükséges az országgyűlési képviselői, a nemzetiségi szószólói vagy a polgármesteri megbízatás miatti szüneteltetéshez. Ez esetben a szüneteltetés időtartama a megbízatás lejártáig tart. Az ügyvéd az ilyen szüneteltetést köteles a kamarának bejelenteni.
 
 (2) Az ügyvédi tevékenység szüneteltetésének időtartama alatt létesített munkaviszony, közalkalmazotti vagy köztisztviselői jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
 

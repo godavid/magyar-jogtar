@@ -18,7 +18,7 @@ biztosítva a képviselői jogok rendeltetésszerű gyakorlásának sérthetetle
 
 előmozdítva az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködését, összhangban az Európai Uniónak a nemzeti parlamentek hangsúlyozott szerepének biztosítására irányuló törekvésével;
 
-az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabályi rendelkezések törvényi szinten való megállapítására az Alaptörvény 2. cikk (2) bekezdése, 4. cikk (2) és (5) bekezdése, valamint 5. cikk (4), (7) és (8) bekezdése, 7. cikk (3) bekezdése és 19. cikke alapján a következő törvényt alkotja:
+az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabályi rendelkezések törvényi szinten való megállapítására az Alaptörvény 2. cikk (2) bekezdése, 4. cikk (2) és (5) bekezdése, valamint 5. cikk (4), (7)–(9) bekezdése, 7. cikk (3) bekezdése és 19. cikke alapján a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — AZ ORSZÁGGYŰLÉS SZERVEZETE
 
@@ -37,14 +37,14 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (2) A házelnök
 
-- a) képviseli az Országgyűlést a más állami szervekkel, civil és egyéb szervezetekkel való kapcsolatban,
+- a) képviseli az Országgyűlést más állami szervekkel, civil és egyéb szervezetekkel való kapcsolatban,
 - b) képviseli az Országgyűlést a nemzetközi kapcsolatokban, közvetlenül felügyeli az Országgyűlés nemzetközi tevékenységét és meghatározza annak szabályait,
 - c) közjogi feladataiból adódóan képviseli Magyarországot a külföldi partnerekkel folytatott tárgyalások során,
 - d) az Európai Tanács üléseit és a stratégiai jelentőségű eseményeket megelőzően összehívja az európai uniós politika országgyűlési egyeztetésére az Európai Uniós Konzultációs Testületet; felkéri a miniszterelnököt az Európai Uniós Konzultációs Testület tájékoztatására Magyarország álláspontjáról, javaslatot tehet az európai uniós ügyekkel foglalkozó állandó bizottságnak, illetve más állandó bizottságnak európai uniós stratégiai jelentőségű kérdés megtárgyalására,
 - e) összehívja az Országgyűlés ülésszakát, és ezen belül az egyes üléseket,
 - f) megnyitja és részrehajlás nélkül vezeti, majd berekeszti az üléseket; engedélyezi a felszólalásokat, ügyel a házszabályi rendelkezések betartására, kihirdeti a szavazás eredményét, és ügyel az ülések rendjére,
 - g) elnököl a Házbizottság ülésein,
-- h) összehangolja az országgyűlési bizottságok működését, az e törvényben meghatározottak szerint javaslatot tesz az országgyűlési bizottságok számára, elnevezésére, feladatkörére, tagjainak számára, az elnök, alelnök és a tagok megválasztására és a személyükre vonatkozó változásra,
+- h) összehangolja az országgyűlési bizottságok működését, az e törvényben meghatározottak szerint javaslatot tesz az országgyűlési bizottságok számára, elnevezésére, feladatkörére, tagjainak számára, az elnök, alelnök és a tagok megválasztására, valamint a személyükre vonatkozó változásra,
 - i) előkészítés, illetve intézkedés céljából kiadja a feladatkörrel rendelkező országgyűlési bizottságnak az Országgyűléshez érkezett indítványokat és beadványokat,
 - j) javaslatot tesz az Országgyűlésnek a háznagy megválasztására és felmentésére,
 - k) kinevezi és felmenti a főigazgatót, valamint az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szervek vezetőit; az általa kinevezett vezető felett munkáltatói jogkört gyakorol,
@@ -72,6 +72,8 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (4) A házelnököt helyettesítő alelnök jogai és kötelezettségei a házelnökével azonosak, a 2. § (2) bekezdés j)–l) és q) pontjában foglalt feladat- és hatásköröket azonban nem gyakorolhatja.
 
+(5) Az Országgyűlés az alelnökök sorában törvényalkotásért felelős alelnököt is választ.
+
 #### 3. Az Országgyűlés háznagya
 
 4. § (1) A háznagy – a 2. § (2) bekezdés d)–h), j)–m) és o)–q) pontjában foglalt feladat- és hatáskörök kivételével – gyakorolja azokat a feladat- és hatásköröket, amelyeket a házelnök részére az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában ad át.
@@ -84,7 +86,9 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (5) A háznagy – a képviselői megbízatás kivételével – más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
 
-(6)
+(6) A képviselői megbízatással rendelkező háznagy javadalmazása megegyezik az alelnök javadalmazásával.
+
+(6a) A képviselői megbízatással nem rendelkező háznagy javadalmazása megegyezik a miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegével, továbbá a miniszter részére jogszabályban biztosított egyéb juttatással. A képviselői megbízatással nem rendelkező háznagy jogállására – a megbízatás keletkezése és megszűnése, a vagyon-nyilatkozattételi kötelezettség teljesítése, valamint az összeférhetetlenség kivételével – a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 (7) A háznagy a megbízatása keletkezését követő harminc napon belül, azt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül a képviselők vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozatával (a továbbiakban: vagyonnyilatkozat) azonos tartalmú vagyonnyilatkozatot tesz. A vagyonnyilatkozattal kapcsolatos eljárásra a képviselők vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni.
 
@@ -95,36 +99,36 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - a) közreműködnek az Országgyűlés ülésének vezetésében,
 - b) a kézfelemeléssel történő szavazásnál – szükség esetén – összeszámolják a szavazatokat,
 - c) a titkos szavazásnál szavazatszámláló bizottságként járnak el,
-- d) felolvassák az országgyűlési iratokat, eskütételnél előolvassák az eskü szövegét,
+- d) felolvassák az országgyűlési iratokat, eskütételnél előolvassák a magyar nyelvű eskü szövegét,
 - e) vezetik a felszólalásra jelentkezett képviselők névsorát,
 - f) jelzik az ülést vezető házelnöknek vagy alelnöknek (a továbbiakban együtt: ülést vezető elnök) a beszédidő lejártát, valamint
 - g) hitelesítik az Országgyűlés szó szerinti jegyzőkönyvét.
 
 (2) Az Országgyűlés ülésén – a házelnök által meghatározott sorrendben – egyidejűleg két jegyző teljesít szolgálatot, akik közül lehetőleg egy kormánypárti országgyűlési képviselőcsoporthoz, illetve egy ellenzéki országgyűlési képviselőcsoporthoz tartozik.
 
-(3) Ha a jegyzők az Országgyűlés ülésén nem állnak kellő számban rendelkezésre, az ülést vezető elnök más országgyűlési képviselőt kér fel a jegyzői feladatok ellátására.
+(3) Ha a jegyzők az Országgyűlés ülésén nem állnak kellő számban rendelkezésre, az ülést vezető elnök más képviselőt kér fel a jegyzői feladatok ellátására.
 
 #### 5. Az Országgyűlés tisztségviselőinek megválasztása
 
-6. § (1) Az Országgyűlés az alakuló ülésén – az Országgyűlésben képviselettel rendelkező pártok országgyűlési képviselőcsoportjai (a továbbiakban: képviselőcsoport) vezetőinek indítványára, a legidősebb képviselő (a továbbiakban: korelnök) javaslata alapján – titkos szavazással megválasztja a házelnököt, az alelnököket és a jegyzőket.
+6. § (1) Az Országgyűlés az alakuló ülésén – az Országgyűlésben képviselettel rendelkező pártok országgyűlési képviselőcsoportjai (a továbbiakban: képviselőcsoport) vezetőinek indítványára, a legidősebb képviselő (a továbbiakban: korelnök) javaslata alapján – a házelnököt titkos szavazással, az alelnököket és a jegyzőket nyílt szavazással megválasztja. A törvényalkotásért felelős alelnök megválasztásának tényével és időpontjában a törvényalkotási bizottság elnökjelöltjévé válik.
 
-(2) Ha a képviselőcsoportok közös indítványt nem terjesztenek elő, vagy a közös indítvány alapján tartott szavazás során nincs meg a szükséges többség, a legnagyobb létszámú képviselőcsoport vezetője jogosult a házelnök személyére vonatkozóan indítványt tenni. Ebben az esetben a házelnök megválasztását követően a képviselőcsoportok vezetőinek közös indítványára vagy ilyen indítvány hiányában véleményük meghallgatását követően a házelnök javaslatára az Országgyűlés megválasztja az alelnököket és a jegyzőket.
+(2) Ha a képviselőcsoportok közös indítványt nem terjesztenek elő, vagy a közös indítvány alapján tartott szavazás során nincs meg a szükséges többség, a legnagyobb létszámú képviselőcsoport vezetője jogosult a házelnök személyére vonatkozóan indítványt tenni. Ebben az esetben a házelnök megválasztását követően a képviselőcsoportok vezetőinek közös indítványára vagy ilyen indítvány hiányában – az egyes indítványok mérlegelését követően – a házelnök javaslatára az Országgyűlés megválasztja az alelnököket és a jegyzőket.
 
 (3) Ha közös indítványban a képviselőcsoportok vezetői nem tudnak megállapodni és a legnagyobb létszámú képviselőcsoport azonos mandátumszám miatt nem állapítható meg, a legtöbb mandátummal rendelkező valamennyi képviselőcsoport jogosult a házelnök személyére indítványt tenni.
 
-(4) Az (1)–(3) bekezdésben meghatározott javaslathoz módosító javaslatot nem lehet benyújtani, arról az Országgyűlés vita nélkül határoz.
+(4) Az (1)–(3) bekezdésben meghatározott javaslathoz módosító javaslatot nem lehet benyújtani. A tisztségviselőkről az Országgyűlés személyenként, vita nélkül határoz.
 
-(5) A szavazatok leadása után a négy legfiatalabb képviselő (a továbbiakban: a korjegyzők) a korelnök felügyelete alatt összeszámlálják a szavazatokat, és a korelnök kihirdeti az eredményt.
+(5) A szavazatok leadása után a nyolc legfiatalabb képviselő (a továbbiakban: a korjegyzők) a korelnök felügyelete alatt összeszámlálják a szavazatokat, és a korelnök kihirdeti az eredményt.
 
 (6) Ha a házelnök, alelnök, jegyző megválasztásához a (2)–(3) bekezdés alapján sincs meg a szükséges többség, e tisztség tekintetében az alakuló ülésen megismételt szavazást kell tartani. Ha a házelnöki tisztségre több jelölt volt, a megismételt szavazás során a két legtöbb szavazatot kapott házelnökjelöltre lehet szavazni. Az alelnök és a jegyző tekintetében a megismételt szavazáson a megválasztandónál eggyel több jelöltre lehet szavazni a legmagasabb számú szavazatot kapott jelöltek közül.
 
 (7) Ha a megismételt szavazás is eredménytelen, a be nem töltött tisztségre új jelölést és szavazást kell tartani. A házelnök tekintetében az új jelölésnél a második – újabb eredménytelen szavazás esetén a soron következő – legnagyobb létszámú képviselőcsoport jogosult a házelnök személyére indítványt tenni.
 
-7. § Az Országgyűlés az alakuló ülésén – a házelnök javaslatára – titkos szavazással megválasztja a háznagyot.
+7. § Az Országgyűlés az alakuló ülésén – a házelnök javaslatára – nyílt szavazással megválasztja a háznagyot.
 
 8. § Tisztségviselői megbízatás megszűnése esetén az új tisztségviselő megválasztására a 6–7. §-ban foglaltakat kell alkalmazni azzal, hogy a korjegyzők helyett a jegyzők, a korelnök helyett a házelnök választása esetén az alelnök, egyébként a házelnök jár el.
 
-9. § Az Országgyűlés tisztségviselője a megválasztása napján az Országgyűlés előtt esküt tesz.
+9. § A házelnök a megválasztása napján az Országgyűlés előtt esküt tesz.
 
 #### 6. A tisztségviselők megbízatásának megszűnése
 
@@ -136,6 +140,8 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - d) felmentésével,
 - e) a tisztségről való lemondásával.
 
+(1a) A törvényalkotásért felelős alelnök megbízatása megszűnik akkor is, ha az Országgyűlés nem választja meg a törvényalkotási bizottság elnökévé, illetve ha a törvényalkotási bizottság elnökségére vonatkozó megbízatása a 19. § (1) bekezdés b), e) vagy h) pontja alapján megszűnik.
+
 (2) A háznagy megbízatása megszűnik:
 
 - a) az új Országgyűlés megalakulásával,
@@ -144,7 +150,9 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - d) a tisztségről való lemondásával,
 - e) összeférhetetlenségének kimondásával.
 
-(3) A házelnök, alelnök, jegyző felmentéséről a Házbizottság javaslata, a háznagy felmentéséről a házelnök javaslata alapján az Országgyűlés vita nélkül határoz. A háznagy felmentésére irányuló javaslatot nem kell indokolni.
+(3) Az alelnök, jegyző felmentéséről a Házbizottság javaslata, a háznagy felmentéséről a házelnök javaslata alapján az Országgyűlés vita nélkül határoz. Az alelnök, a jegyző és a háznagy felmentésére egyebekben a megválasztásra vonatkozó szabályokat kell alkalmazni.
+
+(3a) A házelnök felmentésére a megválasztásra vonatkozó szabályokat kell alkalmazni. A házelnök felmentése napján az Országgyűlés megválasztja az új házelnököt.
 
 (4) Az Országgyűlés tisztségviselője az Országgyűléshez benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról. A lemondást nem kell indokolni, érvényességéhez elfogadó nyilatkozat nem szükséges, a tisztségviselői megbízatás a lemondás benyújtása napján szűnik meg.
 
@@ -152,77 +160,87 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 ### II. Fejezet — A HÁZBIZOTTSÁG
 
-11. § (1) A Házbizottság a házszabályi rendelkezések keretei közt
+11. § (1) A Házbizottság a házszabályi rendelkezések keretei között
 
 - a) állást foglal az Országgyűlés ülésszakonkénti és ülésszakon belüli munkarendjéről,
-- b) javaslatot készít az ülések napirendjére, időtartamára és a felszólalási időkeretekre, meghatározza a nemzetiségek érdekeit, jogait érintő és az európai uniós kérdéssel összefüggő napirendi pontokat,
+- b) javaslatot készít az ülések napirendjére, időtartamára, meghatározza a nemzetiségek érdekeit, jogait érintő és az európai uniós kérdéssel összefüggő napirendi pontokat,
 - c) megvitatja az Országgyűlés működését érintő önálló indítványokat, és ezekkel kapcsolatban állást foglal,
 - d) egyezteti az Országgyűlés működésével kapcsolatos vitás kérdéseket,
 - e) javaslatot tehet a nemzetközi kapcsolatok szervezésére vonatkozó ügyekben, előkészíti az ünnepi eseményeket,
-- f) állást foglal a parlamenti munka sajtónyilvánosságával kapcsolatos kérdésekben,
+- f) állást foglal az Országgyűlés munkájának sajtónyilvánosságával kapcsolatos kérdésekben,
 - g) meghallgatja a házelnök által kinevezni kívánt személyeket, valamint a háznagy tisztségére jelölt személyt,
-- h) kialakítja az Országgyűlés Hivatala költségvetésének elkészítésére vonatkozó elveket,
+- h) megállapítja azokat az eseteket, amelyekben a házszabályi rendelkezések szerinti írásbeliség követelményének elektronikus úton történő benyújtással kell vagy lehet eleget tenni, és meghatározza az elektronikus benyújtás feltételeit,
 - i) a házelnök felkérésére megvitatja az Országgyűléshez, illetve annak tisztségviselőihez érkezett jelentősebb beadványokat, petíciókat, felhívásokat, nyílt leveleket, valamint véleményezi az ezekkel kapcsolatos esetleges intézkedéseket,
-- j) megállapítja az Országgyűlés szavazásairól és a bizottsági ülésekről való távolmaradás igazolásának rendjét, illetve a képviselői tiszteletdíj törvényben meghatározott esetekben való csökkentése végrehajtásának szabályait,
-- k) javaslatot tesz arra, hogy az Országgyűlés valamely ügy tárgyalása során valamely, országgyűlési határozatban meghatározott házszabályi rendelkezéstől (a továbbiakban: határozati házszabályi rendelkezés) eltérjen,
-- l) javaslatot tesz arra, hogy az Országgyűlés a kapcsolódó módosító javaslatok benyújtására a határozati házszabályi rendelkezésekben meghatározottnál rövidebb határidőt szabjon,
-- m) javaslatot tesz a házelnök, alelnök vagy jegyző felmentésére,
-- n) visszahívja az országgyűlési bizottság független képviselő elnökét, alelnökét, tagjait,
-- o) javaslatot tesz napirendi pont időkeretben történő, illetve vezérszónoki rendben történő tárgyalására,
-- p) a köztársasági elnök és a miniszterelnök napirenden kívüli felszólalásánál megállapítja a felszólalások és hozzászólások időkeretét,
-- q) javaslatot tesz az Országgyűlésnek hasonló témájú vagy egymással összefüggő ügyek együttes tárgyalására,
-- r) az Országgyűlés ülésének napirendtervezetét az ülést megelőző 72 órával korábban közzéteszi,
-- s) a karzaton – a férőhelyektől függően – ülőhelyeket biztosít a hallgatóság számára, valamint
-- t) megvitatja a Házbizottság tagjai által előterjesztett egyéb kérdéseket.
+- j) megállapítja az Országgyűlés üléseinek szavazásairól, valamint a bizottsági ülésekről való távolmaradás igazolásának rendjét, illetve a képviselői tiszteletdíj e törvényben meghatározott esetekben való csökkentése végrehajtásának szabályait,
+- k) állást foglal a miniszteri tisztségre javasolt személyek kinevezés előtti bizottsági meghallgatásának rendjéről,
+- l) ajánlást tesz a köztársasági elnök jelölésére vonatkozó ajánlás érvénytelenségének megállapítására,
+- m) javaslatot tesz az alelnök vagy jegyző felmentésére,
+- n) az Országgyűlés ülésének napirendjére vonatkozó javaslatban javaslatot tesz az interpellációk és kérdések elhangzásának időpontjára,
+- o) dönt a protokolláris jellegű napirenden kívüli felszólalások engedélyezéséről,
+- p) a karzaton – a férőhelyektől függően – ülőhelyeket biztosít a hallgatóság számára,
+- q) megvitatja a Házbizottság tagjai által előterjesztett egyéb kérdéseket, valamint
+- r) ellátja azokat a további feladatokat, amelyeket törvény vagy országgyűlési határozatban meghatározott házszabályi rendelkezés (a továbbiakban: határozati házszabályi rendelkezés) a hatáskörébe utal.
 
 (2)–(3)
 
-12. § (1) A Házbizottság elnöke a házelnök, tagjai az alelnökök, a képviselőcsoportok vezetői és a háznagy.
+12. § (1) A Házbizottság az Országgyűlés döntés-előkészítő testülete. A Házbizottság elnöke a házelnök, tagjai az alelnökök, a képviselőcsoportok vezetői és a háznagy.
 
 (2) A Házbizottság a képviselőcsoport-vezetők nevének bejelentésével, valamint a házelnök és az alelnökök megválasztásával alakul meg.
 
 13. § (1) A Házbizottságban csak a képviselőcsoport vezetője – akadályoztatása esetén megbízottja – rendelkezik szavazati joggal.
 
-(2) A Házbizottság ülésén a Házbizottság tagjain kívül csak a házelnök által meghívott személyek vehetnek részt.
+(2) A Házbizottság ülésén – a (2a) és a (3) bekezdésben meghatározott kivétellel – a Házbizottság tagjain kívül csak a házelnök által meghívott személyek vehetnek részt.
+
+(2a) A nemzetiségeket képviselő bizottság elnöke – akadályoztatása esetén a bizottság általa felkért alelnöke – a Házbizottság ülésén részt vehet.
 
 (3) A Kormány képviselője és a főigazgató állandó meghívottként tanácskozási joggal részt vehet a Házbizottság ülésén.
 
 (4) A Házbizottság ülését a házelnök hívja össze és vezeti. Az Országgyűlés ülésének ideje alatt az ülést vezető elnök összehívhatja a Házbizottság ülését.
 
-(5) A Házbizottságot össze kell hívni, ha ezt bármelyik képviselőcsoport vezetője kéri.
+(5) A Házbizottságot össze kell hívni, ha ezt bármelyik képviselőcsoport vezetője kéri. Ha a Házbizottság összehívását az Országgyűlés ülésezése alatt kérik, a Házbizottság ülését legkésőbb annak az ülésnek a végére kell összehívni, amelyen az összehívás kezdeményezése megtörtént.
 
-(6) A Házbizottság a döntéseit egyhangúlag hozza meg. Egyhangú döntés hiányában a 11. § (1) bekezdés a), d), j) és m) pontjában foglaltakról az Országgyűlés, egyéb kérdésekben a házelnök dönt.
+(5a) A nemzetiségeket képviselő bizottság elnöke kezdeményezheti a házelnöknél a Házbizottság összehívását annak érdekében, hogy a Házbizottság valamely napirendi pontot a nemzetiségek érdekeit, jogait érintő napirendi pontként határozzon meg. A Házbizottság összehívásáról a házelnök dönt.
+
+(6) A Házbizottság a döntéseit egyhangúlag hozza meg. Egyhangú döntés hiányában a 11. § (1) bekezdés a) és j) pontjában foglaltakról az Országgyűlés, egyéb kérdésekben a házelnök dönt.
+
+(7) Ha a Házbizottság egyhangú döntése hiányában az Országgyűlés dönt, a vita tárgyát képező kérdés ismertetését követően képviselőcsoportonként egy képviselő, továbbá az elsőként szólásra jelentkező független képviselő legfeljebb háromperces hozzászólása után határoz.
+
+(8) A Házbizottság a működési rendjét – a házszabályi rendelkezésekre tekintettel – maga határozza meg.
 
 13/A. § A Házbizottság üléséről készült jegyzőkönyvre az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (5)–(6) bekezdését kell alkalmazni.
 
 ### III. Fejezet — AZ ORSZÁGGYŰLÉSI BIZOTTSÁGOK
 
-14. § Az Országgyűlés országgyűlési bizottságként
+14. § (1) Az Országgyűlés országgyűlési bizottságként
 
-- a) állandó bizottságokat és a nemzetiségeket képviselő bizottságot hoz létre, valamint
-- b) eseti bizottságot és vizsgálóbizottságot hozhat létre.
+- a) állandó bizottságokat, törvényalkotási bizottságot és a nemzetiségeket képviselő bizottságot hoz,
+- b) eseti bizottságot és vizsgálóbizottságot hozhat
+
+létre.
+
+(2) A bizottság létrehozásáról szóló országgyűlési határozatnak rendelkeznie kell a bizottság megbízatása kezdetének időpontjáról.
 
 #### 7. Az állandó bizottságok
 
 15. § (1) Az állandó bizottság az Országgyűlés kezdeményező, javaslattevő, véleményező, törvényben és a határozati házszabályi rendelkezésekben meghatározott esetekben ügydöntő, valamint a kormányzati munka ellenőrzésében közreműködő szerve, amely az Alaptörvényben, törvényben, a határozati házszabályi rendelkezésekben, továbbá az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
 
-(2) Az Országgyűlés az Alaptörvény elfogadására, illetve módosítására irányuló javaslat, valamint törvényjavaslat, határozati javaslat, politikainyilatkozat-tervezet és jelentés (a továbbiakban együtt: döntési javaslat) készítésére kérheti fel az állandó bizottságot.
+(2) Az Országgyűlés az Alaptörvény elfogadására, illetve módosítására irányuló javaslat, valamint törvényjavaslat, határozati javaslat, politikai nyilatkozatra vonatkozó javaslat és jelentés készítésére kérheti fel az állandó bizottságot.
 
-(3) A házelnök által kijelölt állandó bizottság ajánlást készít az Országgyűléshez benyújtott döntési javaslathoz.
+(3)
 
-(4) Az állandó bizottság a feladatkörét érintő bármely kérdést – az Országgyűlés felkérése vagy saját elhatározása alapján – megtárgyalhat, és abban állást foglalhat. Az állandó bizottság az állásfoglalását bizottsági tájékoztatóban nyilvánosságra hozhatja.
+(4) Az állandó bizottság a feladatkörét érintő bármely kérdést – az Országgyűlés felkérése vagy saját elhatározása alapján – megtárgyalhat, és abban állást foglalhat. Az állandó bizottság az állásfoglalását – a házelnöknek történő egyidejű megküldésével – bizottsági tájékoztatóban nyilvánosságra hozhatja.
 
-16. § (1) Az Országgyűlés a megalakulását követően létrehozza állandó bizottságait, amelyek feladatköre alapvetően a kormányzat felépítéséhez igazodik.
+16. § (1) Az Országgyűlés a megalakulását követően létrehozza állandó bizottságait. Az állandó bizottságok feladatköre a kormányzati feladatokhoz igazodik.
 
 (2) Kötelező létrehozni a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottságot, valamint alkotmányügyi kérdésekkel, költségvetéssel, külügyekkel, európai uniós ügyekkel, honvédelemmel, nemzetbiztonsággal, nemzetpolitikával foglalkozó állandó bizottságot.
 
 (3) Az Országgyűlés állandó bizottságot egyébként bármikor létrehozhat, átalakíthat és megszüntethet.
 
-17. § (1) Az állandó bizottság munkájában bizottsági tagként minden képviselőcsoportból annyi képviselő vehet részt, amennyi a képviselőcsoportok közötti létszámaránynak megfelel, de minden képviselőcsoportból legalább egy képviselő.
+17. § (1) Az állandó bizottság munkájában bizottsági tagként lehetőség szerint minden képviselőcsoportból annyi képviselő vehet részt, amennyi a képviselőcsoportok közötti létszámaránynak megfelel.
 
-(2) A Kormány tagja, az államtitkár, a kormánymegbízott és a járási (fővárosi kerületi) hivatal vezetője (a továbbiakban: járási hivatalvezető) kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy állandó bizottság munkájában részt vegyen.
+(2) A Kormány tagja és az államtitkár kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy, a 14. § (1) bekezdés a) pontja szerinti bizottság munkájában részt vegyen.
 
-(3) Az Országgyűlés az (1) bekezdésben foglaltaktól eltérően is határozhat. Ahhoz, hogy állandó bizottságban a képviselőcsoport létszámaránya egy bizottsági tagsági helyet meghaladóan eltérjen a képviselőcsoport létszámának az Országgyűlés egészéhez viszonyított arányától, a jelen lévő képviselők négyötödének szavazata szükséges.
+(3)
 
 (4) Az Országgyűlés úgy is határozhat, hogy valamely állandó bizottságba mind a kormánypárti képviselőcsoportok, mind az ellenzéki képviselőcsoportok együttesen ugyanannyi képviselőt jelölhetnek (a továbbiakban: paritásos bizottság). A Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság paritásos bizottság.
 
@@ -232,9 +250,11 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (3) A független képviselők az (1) és (2) bekezdés szerinti véleményüket – lehetőség szerint együttesen – a házelnöknek terjesztik elő.
 
-(4) Az állandó bizottságokra vonatkozó, illetve a személyi javaslatról az Országgyűlés vita nélkül határoz. A javaslatra csak a képviselőcsoport vezetője, személyi javaslatra csak az érintett képviselőcsoport vezetője vagy az érintett független képviselő tehet módosító javaslatot. Az Országgyűlés az (1)–(2) bekezdés szerinti eljárásban tett javaslatra úgy is dönthet, hogy egy állandó bizottságba több alelnököt választ.
+(4) Az állandó bizottságokra vonatkozó, illetve a személyi javaslatról az Országgyűlés vita nélkül határoz. Az állandó bizottságokra vonatkozó javaslatra csak a képviselőcsoport vezetője tehet módosító javaslatot. A módosító javaslatról az Országgyűlés vita nélkül dönt. A személyi javaslathoz módosító javaslatot nem lehet benyújtani. Az Országgyűlés az (1)–(2) bekezdés szerinti eljárásban tett javaslat alapján úgy is dönthet, hogy egy állandó bizottságba több alelnököt választ.
 
 (5) A képviselőcsoport vezetője az általa vezetett képviselőcsoporthoz tartozó vagy független képviselőt jelölhet bizottsági tisztségre vagy tagságra. Képviselőcsoport-vezető független képviselőt csak annak előzetes egyetértésével jelölhet. Független képviselő a képviselőcsoportot megillető bizottsági tisztségre, illetve tagsági helyre jelölhető.
+
+(6) A bizottság elnökének, alelnökének és tagjainak felmentésére egyebekben a megválasztásra vonatkozó szabályokat kell alkalmazni.
 
 19. § (1) Az állandó bizottság elnökének, alelnökének vagy tagjának megbízatása megszűnik
 
@@ -251,7 +271,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 20. § (1) A bizottsági tag a bizottság ülésein személyesen vagy helyettese útján vesz részt.
 
-(2) A bizottsági tag távolléte esetére csak ugyanazon állandó bizottság tagjának adhat képviseleti megbízást. A képviseleti megbízás egyetlen bizottsági ülésre szól.
+(2) A bizottsági tag távolléte esetére csak ugyanazon országgyűlési bizottság tagjának adhat képviseleti megbízást. A képviseleti megbízás egyetlen bizottsági ülésre szól.
 
 (3) A helyettes jogai és kötelezettségei azonosak a bizottsági tagéval. A helyettesítés nem terjedhet ki a bizottsági elnöki és alelnöki jogok gyakorlására.
 
@@ -259,13 +279,31 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 21. § (1) Az állandó bizottság egyes feladatai elvégzésére tagjai sorából albizottságokat hozhat létre. Az albizottság működésének szabályaira – az albizottság eltérő rendelkezése hiányában – az állandó bizottság működésére vonatkozó szabályokat kell alkalmazni.
 
-(2) Minden állandó bizottságnak létre kell hoznia egy albizottságot, amely a bizottság feladatkörébe tartozó törvények végrehajtását, társadalmi és gazdasági hatását figyelemmel kíséri.
+(2) Minden állandó bizottságnak létre kell hoznia egy albizottságot, amely a bizottság feladatkörébe tartozó törvények végrehajtását, társadalmi és gazdasági hatását, valamint a deregulációs folyamatokat figyelemmel kíséri.
 
 (3) Az albizottság megalakításáról a bizottság elnöke az Országgyűlést haladéktalanul tájékoztatja.
 
-#### 8.
+#### 7/A. A törvényalkotási bizottság
 
-#### 22. §
+21/A. § (1) A törvényalkotási bizottság az Országgyűlés jogalkotási tevékenysége során eljáró, annak javaslattevő, véleményező, törvényben és a határozati házszabályi rendelkezésekben meghatározott esetekben ügydöntő bizottsága, amely az Alaptörvényben, törvényben, a határozati házszabályi rendelkezésekben, valamint az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
+
+(2) Az Országgyűlés a megalakulását követően köteles létrehozni a törvényalkotási bizottságot. Az Országgyűlés a törvényalkotási bizottság alelnökének és tagjainak személyéről az állandó bizottságok létrehozásával egyidejűleg határoz. A törvényalkotási bizottság elnökének személyéről az Országgyűlés külön határoz.
+
+(3) A törvényalkotási bizottságra a 15. § (4) bekezdését, a 17. § (1)–(2) bekezdését, a 18–20. §-t és a 21. § (1) és (3) bekezdését alkalmazni kell azzal, hogy a törvényalkotási bizottság elnökének megbízatása megszűnik akkor is, ha a törvényalkotásért felelős alelnöki megbízatása a 10. § (1) bekezdés d) pontja alapján megszűnik.
+
+#### 8. A nemzetiségeket képviselő bizottság
+
+22. § (1) A nemzetiségeket képviselő bizottság a nemzetiségek érdekeit, jogait érintően az Országgyűlés kezdeményező, javaslattevő, véleményező és a kormányzati munka ellenőrzésében közreműködő szerve, amely az Alaptörvényben, törvényben és a határozati házszabályi rendelkezésekben, valamint az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
+
+(2) A nemzetiségeket képviselő bizottság állást foglal a Kormánynak a nemzetiségek helyzetéről készített beszámolójáról, valamint az alapvető jogok biztosának éves beszámolójáról.
+
+(3) A nemzetiségeket képviselő bizottság tagjai a nemzetiségi listáról mandátumot szerző képviselő, valamint a nemzetiségi szószóló (a továbbiakban: szószóló).
+
+(4) A nemzetiségeket képviselő bizottság elnevezésére, feladatkörének kiegészítésére, elnökének, alelnökének személyére a házelnök – a nemzetiségi listáról mandátumot szerző képviselők és a nemzetiségi szószólók indítványait mérlegelve – tesz javaslatot az Országgyűlésnek.
+
+(4a) A nemzetiséghez tartozó országgyűlési képviselő, a nemzetiségi listáról mandátumot szerző képviselő, valamint a nemzetiségi szószóló anyanyelvhasználatával összefüggésben felmerült kiadások a nemzetiségeket képviselő bizottság erre a célra rendelkezésre álló keretét terhelik.
+
+(5) A nemzetiségeket képviselő bizottságra a 15. § (2) és (4) bekezdését, a 19. § (1) bekezdés a), c) és – a nemzetiségeket képviselő bizottság elnöke, alelnöke tekintetében – h) pontját, a 19. § (2) bekezdését, a 20. §-t, valamint a 21. §-t alkalmazni kell.
 
 #### 9. Az eseti bizottság
 
@@ -273,7 +311,9 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (2) Az eseti bizottság feladatát, elnevezését, tagjainak számát és megbízatásának terjedelmét az Országgyűlés az eseti bizottság felállításakor határozza meg.
 
-(3) Az eseti bizottság tagjainak legfeljebb fele nem képviselő is lehet. Az eseti bizottság elnöke és alelnöke csak képviselő lehet, az eseti bizottság nem képviselő tagjait szavazati jog nem illeti meg.
+(3) Az eseti bizottság tagjainak legfeljebb fele nem képviselő is lehet. Az eseti bizottság elnöke és alelnöke csak képviselő lehet, az eseti bizottság nem képviselő tagjait szavazati jog nem illeti meg. Az eseti bizottság határozatképessége szempontjából a képviselő bizottsági tagokat kell figyelembe venni.
+
+(3a) Az eseti bizottság képviselő tagja képviseleti megbízást képviselő bizottsági tagnak adhat.
 
 (4) Az eseti bizottságra a 15. § (2) bekezdését, a 17–20. §-t, valamint a 21. § (1) és (3) bekezdését alkalmazni kell.
 
@@ -281,7 +321,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 24. § (1) Az Országgyűlés – az Alaptörvény C) cikk (1) bekezdésével összhangban – bármely, az Országgyűlés ellenőrzési feladatkörében felmerülő, közérdekű, interpellációval, kérdéssel (azonnali kérdéssel) nem tisztázható ügy megvizsgálására vizsgálóbizottságot küldhet ki. Nem hozható létre vizsgálóbizottság egyedi jogi felelősség megállapítására, továbbá olyan ügyben, amely az Alkotmánybíróság, az Állami Számvevőszék, illetve az önkormányzatok hatáskörébe tartozik. Nem terjedhet ki a vizsgálat olyan ügyre, amely a döntés előkészítésének szakaszában van. Nem terjedhet ki a vizsgálat továbbá olyan ügy megvizsgálására, amely folyamatban lévő büntető-, szabálysértési, polgári vagy hatósági eljárás tárgya.
 
-(2) A vizsgálóbizottságot létre kell hozni, ha azt a képviselők legalább egyötöde indítványozza, és az (1) bekezdés szerinti feltételek fennállnak.
+(2) Vizsgálóbizottság létrehozását a képviselők egyötöde kezdeményezheti.
 
 (3) A vizsgálóbizottság létrehozatalára irányuló határozati javaslathoz nem lehet olyan módosító javaslatot benyújtani, amely a vizsgálóbizottság elnevezésére, a vizsgálat tárgyára vonatkozik.
 
@@ -316,7 +356,27 @@ terheli.
 
 (4) A jelentés, valamint az abban foglalt megállapítások bíróság vagy más hatóság előtt nem támadhatók meg. A jelentéssel, illetve a jelentés alapján elfogadott országgyűlési határozattal érintett személynek a jelentés rá vonatkozó megállapítására írásban tett észrevételeit az Országgyűlés honlapján közzé kell tenni.
 
-27. § A vizsgálóbizottságra a 15. § (2) bekezdését, a 17–20. §-t, valamint a 21. § (1) és (3) bekezdését, valamint a 23. § (2) bekezdését alkalmazni kell.
+27. § A vizsgálóbizottságra a 15. § (2) bekezdését, a 18. § (2)–(5) bekezdését, a 19–20. §-t, a 21. § (1) és (3) bekezdését, valamint a 23. § (2) bekezdését alkalmazni kell.
+
+#### 10/A. A bizottságok vizsgálati tevékenysége
+
+27/A. § (1) Az országgyűlési bizottság – a vizsgálóbizottság kivételével – saját elhatározása alapján folytathat vizsgálatot valamely feladatkörét érintő olyan ügyben, amelynek megvizsgálására az Országgyűlés a 24. § (1) bekezdése alapján vizsgálóbizottságot küldhet ki.
+
+(2) Az állandó bizottság vizsgálati tevékenységére – ha törvény eltérően nem rendelkezik – a 25. §-t és a 26. §-t kell alkalmazni.
+
+(3) Az állandó bizottságon kívüli egyéb országgyűlési bizottság a vizsgálata során a vizsgálati tevékenységével összefüggő irattal, adattal vagy egyéb információval rendelkező személyt, szervet vagy szervezetet a vizsgálati tevékenységében való közreműködésre kérhet fel. Az állandó bizottságon kívüli egyéb országgyűlési bizottság vizsgálati tevékenységére a 10. alcím nem alkalmazható.
+
+#### 10/B. Beszámoló vagy jelentés bizottsági tárgyalása
+
+27/B. § Ha az Alaptörvény, törvény vagy országgyűlési határozat az Országgyűlésnek történő beszámolási vagy jelentéstételi kötelezettséget ír elő, az Országgyűlés a Házbizottság javaslatára – az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke beszámolója, a Kormánynak a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben készített beszámolója, valamint országgyűlési bizottság jelentése kivételével – a beszámolóról vagy a jelentésről történő határozathozatalra állandó bizottságát felkérheti.
+
+#### 10/C. A határozatképesség, tanácskozóképesség
+
+27/C. § (1) Az országgyűlési bizottság akkor határozatképes, ha a bizottsági tagok több mint fele jelen van. A határozatképesség szempontjából a képviseleti megbízást adó bizottsági tagot jelenlévőnek kell tekinteni.
+
+(2) Az országgyűlési bizottság a határozatait – ha a házszabályi rendelkezések eltérően nem rendelkeznek – a jelen lévő bizottsági tagok több mint felének szavazatával hozza.
+
+(3) Az országgyűlési bizottság napirendjének elfogadása után az országgyűlési bizottság tanácskozóképes, ha a bizottsági tagok több mint egyharmada jelen van. Az országgyűlési bizottság tanácskozóképességének megállapítására csak akkor van szükség, ha azt bármelyik bizottsági tag kéri. Tanácskozóképesség szempontjából a képviseleti megbízást adó bizottsági tagot jelenlevőnek kell tekintetni.
 
 ### III/A. Fejezet — AZ ORSZÁGGYŰLÉS NEVÉNEK, JELKÉPÉNEK HASZNÁLATA
 
@@ -370,9 +430,36 @@ használható.
 
 (4) A köztársasági elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő határozati javaslatot terjeszthet elő. Nemzetközi szerződés kihirdetéséről szóló törvényjavaslatot a Kormány terjeszthet elő. A törvényjavaslathoz és a határozati javaslathoz indokolást kell fűzni.
 
-#### 12.
+(5) A képviselő – ha törvény vagy határozati házszabályi rendelkezés kivételt nem tesz – a képviselői jogait személyesen gyakorolja.
 
-#### 29. §
+#### 12. A nemzetiségi szószóló
+
+29. § (1) A szószólók jogai és kötelezettségei egyenlők, tevékenységüket a köz és az adott nemzetiség érdekében végzik, e tekintetben nem utasíthatók.
+
+(2) A szószóló az Országgyűlés ülésén felszólalhat, ha a Házbizottság megítélése szerint a napirendi pont a nemzetiségek érdekeit, jogait érinti. Rendkívüli ügyben a szószóló a napirendi pontok tárgyalását követően – a határozati házszabályi rendelkezésekben meghatározott módon – felszólalhat. A szószóló az Országgyűlés ülésein szavazati joggal nem rendelkezik.
+
+(3) A szószóló a nemzetiségeket képviselő bizottság munkájában szavazati joggal vesz részt, az állandó bizottságok, illetve a törvényalkotási bizottság ülésein – az állandó bizottság, illetve a törvényalkotási bizottság elnökének döntése alapján, vagy ha a Házbizottság arról a (2) bekezdés szerinti döntése körében határoz – tanácskozási joggal vehet részt.
+
+(4) A szószóló kérdést intézhet a Kormányhoz és a Kormány tagjához, az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez és a legfőbb ügyészhez a feladatkörükbe tartozó, a nemzetiségek érdekeit, jogait érintő ügyben.
+
+29/A. § (1) A szószólót mentelmi jog illeti meg. A mentelmi jogra a képviselők mentelmi jogára vonatkozó szabályokat kell alkalmazni.
+
+(2) A szószóló megbízatása megszűnik
+
+- a) az Országgyűlés megbízatásának megszűnésével,
+- b) halálával,
+- c) összeférhetetlenség kimondásával,
+- d) lemondásával,
+- e) ha a képviselők választásán már nem választható, vagy
+- f) ha már nem szerepel a központi névjegyzékben nemzetiségi választópolgárként.
+
+(3) Ha a szószóló megbízatása a (2) bekezdés b) pontjában meghatározott ok miatt szűnik meg, ennek tényét az ülést vezető elnök jelenti be az Országgyűlésnek.
+
+(4) Annak megállapításáról, hogy a szószóló a képviselők választásán már nem választható, már nem szerepel a központi névjegyzékben nemzetiségi választópolgárként, valamint az összeférhetetlenség kimondásáról az Országgyűlés határoz.
+
+(5) A szószóló nem lehet nemzetiségi önkormányzat elnöke vagy tagja.
+
+(6) Az 5. § (1) bekezdés e) pontjának, a 28. § (1), (3a) és (5) bekezdésének, a 30. §-nak, a 38/C. §-nak, a 40. § (3) bekezdésének, a 42. § (8) bekezdésének, a 46. § (2) bekezdésének, a 48. § (3) és (5) bekezdésének, a 49. § (2), (4) és (6) bekezdésének, az 50. § (1), (2), (5), (6) és (8) bekezdésének, az 51/A. § (1)–(11) bekezdésének, valamint (13) és (14) bekezdésének, az 52. § (2)–(4) bekezdésének, valamint (6) bekezdésének, az 53. § (2)–(5) bekezdésének, az 57. § (2) bekezdésének, az 58. § (3) bekezdésének, az 59. § (7) bekezdésének, a VIII. Fejezetnek, a 96. §-nak, a 97. §-nak, a 98. § (1), (2) és (4) bekezdésének, a 100. §-nak, a 101. § (2) bekezdésének, a 103. §-nak, a 36. alcímnek, a 37. alcímnek és a 39. alcímnek a képviselőkre vonatkozó rendelkezéseit, továbbá – a nemzetiségek érdekeit, jogait érintő ügyben – a 28. § (4) bekezdését a szószólóra is alkalmazni kell.
 
 #### 13. Az Országgyűlés megalakulása
 
@@ -392,17 +479,23 @@ használható.
 
 33. § Az ülésszak ülésekből, az ülés ülésnapokból áll. Az ülés összehívásakor jelezni kell az ülésnapok várható számát.
 
-34. § Az Országgyűlés ülésszakait és üléseit a házelnök hívja össze. A házelnök – a 11. § (1) bekezdés a) pontjára is figyelemmel – úgy köteles összehívni az üléseket, hogy az Országgyűlés rendszeres ülésezése során az ülésszakok alatt az ülések ésszerű időtartamban kövessék egymást, biztosítva ezáltal az Országgyűlés Alaptörvényben meghatározott feladatainak maradéktalan ellátását.
+34. § (1) Az Országgyűlés ülésszakait és üléseit a házelnök hívja össze. A házelnök – a 11. § (1) bekezdés a) pontjára is figyelemmel – úgy köteles összehívni az üléseket, hogy az Országgyűlés rendszeres ülésezése során az ülésszakok alatt az ülések ésszerű időtartamban kövessék egymást, biztosítva ezáltal az Országgyűlés Alaptörvényben meghatározott feladatainak maradéktalan ellátását.
+
+(2) Az Országgyűlés ülésének napirendjére vonatkozó javaslatot legkésőbb az ülést megelőző 72 órával, ha egy naptári héten belülre több ülés összehívása szükséges, legkésőbb az ülést megelőző 48 órával korábban közzé kell tenni.
 
 35. § (1) A köztársasági elnök, a Kormány vagy a képviselők egyötödének írásbeli kérelmére az Országgyűlést rendkívüli ülésszakra vagy rendkívüli ülésre össze kell hívni. A kérelemben az összehívás indokát, továbbá a javasolt időpontot és napirendet meg kell jelölni. A házelnöknek lehetőleg a javasolt, de legkésőbb az azt követő nyolc napon belüli időpontra kell az Országgyűlést összehívnia.
 
 (2) A házelnök rendkívüli ülésszakot vagy rendkívüli ülést hív össze az e törvényben, vagy a határozati házszabályi rendelkezésekben meghatározott esetekben.
 
+35/A. § (1) Az Országgyűlés – a Házbizottság javaslatára – Magyarország történelme szempontjából kiemelkedő jelentőségű esemény évfordulója, valamint nemzeti ünnep alkalmából ünnepi vagy emlékülést (a továbbiakban: ünnepi ülés) tarthat.
+
+(2) Az ünnepi ülés programját az Országgyűlés a napirend elfogadásával állapítja meg.
+
 36. § (1) A köztársasági elnök az Országgyűlés ülését egy ülésszak alatt egy alkalommal – legfeljebb harminc napra – elnapolhatja. Az elnapolást a házelnöknél kell írásban bejelenteni.
 
 (2) Az elnapolás tartama alatt a házelnök a képviselők egyötödének írásbeli kérelmére – a kérelem kézhezvételétől számított nyolc napnál nem távolabbi időpontra – köteles az Országgyűlés ülését összehívni.
 
-37. § Az Országgyűlés üléseit – ha az Országgyűlés a képviselők kétharmadának szavazatával eltérően nem határoz – az Országház épületében tartja. Különleges jogrendben a házelnök az Országgyűlés ülését eltérő helyszínre is összehívhatja.
+37. § Az Országgyűlés üléseit – ha az Országgyűlés eltérően nem határoz – az Országház épületében tartja. Különleges jogrendben a házelnök az Országgyűlés ülését eltérő helyszínre is összehívhatja.
 
 38. § A Kormány megalakulását követően az adott, minden ülésszak végén a következő ülésszakra vonatkozóan tájékoztatja az Országgyűlést törvényalkotási programjáról.
 
@@ -416,31 +509,49 @@ használható.
 
 (4) A (2) vagy (3) bekezdés alapján engedélyezett szemléltetésre a felszólaló álláspontjának kifejtéséhez szükséges mértékben kerülhet sor.
 
+#### 14/B. A tanácskozás nyelve, az anyanyelv- és a jelnyelvhasználat
+
+38/B. § (1) Az Országgyűlés és az országgyűlési bizottság ülésén a tanácskozás nyelve a magyar.
+
+(2) A nemzetiséghez tartozó képviselő, a nemzetiségi listáról mandátumot szerző képviselő, valamint a szószóló anyanyelvén is felszólalhat és irományt nyújthat be.
+
+(3) A (2) bekezdés szerinti felszólalási szándékot legkésőbb a felszólalással érintett ülésnapot vagy bizottsági ülést megelőzően egy nappal – amennyiben az ülés napirendje az előzetes napirend tervezetéhez képest módosítással kerül elfogadásra, úgy a módosítással érintett napirend tekintetében annak megállapítását követően haladéktalanul – jelezni kell.
+
+(4) A (2) bekezdés szerinti iromány benyújtásával egyidejűleg be kell nyújtani annak hiteles magyar nyelvű fordítását is. Az irományok benyújtására vonatkozó alaki és tartalmi feltételeknek mind az anyanyelven, mind a magyar fordításban benyújtott irománynak meg kell felelnie. Az Országgyűlés eljárását a magyar nyelven benyújtott iromány alapján folytatja le.
+
+(5) Az Országgyűlés és az országgyűlési bizottság ülésén a (2) bekezdés szerinti felszólalás magyar nyelvre történő tolmácsolását – a (3) bekezdés szerinti határidőben tett jelzés esetén – az Országgyűlés Hivatala biztosítja.
+
+38/C. § (1) A képviselő felszólalása során a magyar jelnyelvet használhatja.
+
+(2) Az Országgyűlés és – a képviselő kérelmére – az országgyűlési bizottság ülésén a magyar jelnyelvi tolmácsolást az Országgyűlés Hivatala biztosítja.
+
+38/D. § A 38/B. és 38/C. § rendelkezéseit az Országgyűlés e törvényben, valamint határozati házszabályban nevesített testületeinek ülése tekintetében is alkalmazni kell.
+
 #### 15. Az Országgyűlés és országgyűlési bizottság ülésén részt vevő más személyek
 
 39. § (1) A köztársasági elnök, a Kormány tagja, az Alkotmánybíróság elnöke, a Kúria elnöke, a legfőbb ügyész, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat vitája során a Költségvetési Tanács elnöke, továbbá az általa benyújtott beszámoló országgyűlési vitája során az Országgyűlés előtt beszámolásra kötelezett, valamint európai uniós kérdéssel összefüggő napirend országgyűlési vitája során az Európai Parlament magyarországi képviselője (a továbbiakban együtt: tanácskozási joggal rendelkező személy) részt vehet és – az ülés lefolytatásával kapcsolatos házszabályi rendelkezések keretei között – bármikor felszólalhat az Országgyűlés ülésén.
 
-(2) Ha a napirenden lévő önálló indítványt tanácskozási joggal rendelkező személy terjeszti elő, az előterjesztő vagy a helyettesítésére jogosult személy távollétében az indítványt az Országgyűlés nem tárgyalja.
+(2) A napirenden lévő önálló indítvány előterjesztője vagy a helyettesítésére jogosult személy távollétében az indítványt az Országgyűlés nem tárgyalja.
 
 (3) A Kormány tagja vagy a helyettesítésére jogosult személy akkor is köteles részt venni az Országgyűlés ülésén, ha a napirenden lévő törvényjavaslat, határozati javaslat vagy jelentés a feladatkörét érinti.
 
 (4) Az Országgyűlés a tanácskozási joggal rendelkező személyt – a köztársasági elnök, az Alkotmánybíróság elnöke, a Kúria elnöke és az Európai Parlament magyarországi képviselője kivételével – kötelezheti az Országgyűlés ülésén való megjelenésre.
 
-40. § (1) Az előterjesztő, a köztársasági elnök, a házelnök, az Európai Parlament magyarországi képviselője, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, az adott országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, külön törvényben erre feljogosított személyek, valamint – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja az állandó bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre.
+40. § (1) Az előterjesztő, a köztársasági elnök, a házelnök, az Európai Parlament magyarországi képviselője, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat vitája során a Költségvetési Tanács elnöke, az adott országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, külön törvényben erre feljogosított személyek, valamint – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja a 14. § (1) bekezdés a) pontja szerinti bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre.
 
 (2) Az (1) bekezdés alapján meghívott személyek tanácskozási joggal vesznek részt az ülésen, illetve a napirendi pont tárgyalásán. Az ülésen a meghívottat a helyettesítésére jogosult személy is képviselheti. Az ülésen az országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetőjét – egy alkalomra szóló vagy visszavonásig érvényes megbízással – a képviselőcsoport egy tagja is képviselheti. Az országgyűlési bizottság ülésén a Kormány döntésre felhatalmazott képviselője vesz részt.
 
-(3) A bizottsági ülésen az előterjesztő és a tárgyalt napirendi ponthoz módosító javaslatot, kapcsolódó módosító javaslatot benyújtó képviselő tanácskozási joggal vehet részt. Más képviselő számára az országgyűlési bizottság szótöbbséggel hozzászólási jogot adhat.
+(3) A bizottsági ülésen az előterjesztő és a tárgyalt napirendi ponthoz módosító javaslatot benyújtó képviselő tanácskozási joggal vehet részt. Más képviselő számára az országgyűlési bizottság hozzászólási jogot adhat.
 
 (4) Az országgyűlési bizottság elnöke az országgyűlési bizottság ülésére szakértőt hívhat meg, aki az ülésen tanácskozási joggal vesz részt. Szakértő meghívására – a szakértő személyének megjelölésével vagy anélkül – az országgyűlési bizottság tagjai is tehetnek javaslatot, amelyről az országgyűlési bizottság dönt.
 
 (5) Képviselőcsoportonként egy szakértő az országgyűlési bizottság ülésén adott napirendi pont tárgyalásánál jelen lehet, ha az országgyűlési bizottság erre engedélyt ad, felszólalhat.
 
-41. § Az országgyűlési bizottság köteles évente legalább egy alkalommal meghallgatni azt a minisztert, akit kinevezése előtt meghallgatott.
+41. § A minisztert a miniszter feladatköre szerint hatáskörrel rendelkező bizottság évente meghallgatja.
 
 #### 16. Interpelláció és kérdés
 
-42. § (1) Az Országgyűlés ülésének napirendjében feltüntetett időpontban az interpelláció és kérdés tárgyalására minden olyan héten, amikor az Országgyűlés ülést tart legalább a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani. Valamennyi képviselőcsoport számára lehetővé kell tenni, hogy legalább egy általa benyújtott interpelláció és kérdés tárgyalására sor kerüljön. A Házbizottság a független képviselők létszámát figyelembe véve biztosítja számukra az interpellációk és kérdések feltételének lehetőségét.
+42. § (1) Az Országgyűlés ülésének napirendjében feltüntetett időpontban interpelláció és kérdés, illetve interpelláció vagy kérdés tárgyalására minden olyan héten, amikor az Országgyűlés ülést tart, legalább a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani. Valamennyi képviselőcsoport számára lehetővé kell tenni, hogy az ülésen legalább egy általa benyújtott interpelláció és kérdés tárgyalására sor kerüljön. A Házbizottság a független képviselők létszámát figyelembe véve biztosítja számukra az interpellációk és kérdések feltételének lehetőségét.
 
 (2) Akihez az Alaptörvény szerint interpelláció vagy kérdés intézhető, köteles az interpellációt vagy kérdést személyesen, kivételesen helyettese útján megválaszolni.
 
@@ -450,27 +561,33 @@ használható.
 
 (5) Az írásban megadott választ az interpelláló képviselőnek és a házelnöknek kell eljuttatni. A válasz benyújtását követő ülésen az interpellációt tárgyalni kell.
 
-(6) A válasz után – az írásban adott válasz esetében is – az interpelláló képviselőnek viszontválaszra van joga, amely nem terjedhet túl az interpellációra adott válasz értékelésén, illetve az értékelés indokolásán. Ha a képviselő a választ nem fogadja el, a válasz elfogadásáról az Országgyűlés dönt.
+(6) A válasz után – az írásban adott válasz esetében is – az interpelláló képviselőnek viszonválaszra van joga, amely nem terjedhet túl az interpellációra adott válasz értékelésén, illetve az értékelés indokolásán. Ha a képviselő a választ nem fogadja el, a válasz elfogadásáról az Országgyűlés dönt.
 
-(7) Ha az Országgyűlés a választ elutasította, az interpellációt a feladatkörrel rendelkező országgyűlési bizottságnak kell kiadni. Az interpelláció tárgyalását az Országgyűlés a bizottsági jelentés beérkezését követően a következő ülésén napirendre tűzi, és az országgyűlési bizottság javaslata alapján
+(7) Ha az Országgyűlés a választ elutasította, az interpellációra adott választ a feladatkörrel rendelkező állandó bizottságnak kell kiadni. Az interpellált az interpellációra adott szóbeli válaszát írásban kiegészíti, amelyről a feladatkörrel rendelkező állandó bizottság jelentésében állást foglal. Az interpellációra adott válasz tárgyalását az Országgyűlés a bizottsági jelentés beérkezését követően a következő ülésén napirendre tűzi.
+
+(7a) A (7) bekezdés szerinti országgyűlési bizottság javaslata alapján az Országgyűlés
 
 - a) utólag helyesnek ítéli az interpellációra adott választ,
 - b) elfogadja az országgyűlési bizottság ülésén az interpellált által kiegészített választ, vagy
 - c) megerősíti korábbi elutasító döntését, és az országgyűlési bizottságot intézkedési javaslat kidolgozására kéri fel.
 
-(8) Kérdés esetén meg kell jelölni, hogy a kérdező a választ az Országgyűlés ülésén szóban vagy ülésen kívül, írásban kéri. Az írásbeli választ igénylő kérdésre a kérdezett tizenöt napon belül ad választ. Kérdés esetén a képviselőnek viszontválaszra nincs joga, és az Országgyűlés a válasz elfogadásáról nem határoz.
+(8) Kérdés esetén meg kell jelölni, hogy a kérdező a választ az Országgyűlés ülésén szóban vagy ülésen kívül, írásban kéri. Kérdés esetén a képviselőnek viszonválaszra nincs joga, és az Országgyűlés a válasz elfogadásáról nem határoz.
 
-43. § (1) Minden olyan héten, amikor az Országgyűlés ülést tart, az Országgyűlés ülésén a napirendben feltüntetett időpontban a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani kérdés közvetlen feltevésére és megválaszolására (a továbbiakban: azonnali kérdések órája).
+(9) Az írásbeli választ igénylő kérdésre a kérdezett tizenegy munkanapon belül ad választ. A határidő kezdőnapja a házelnökhöz történt benyújtást követő nap. A válaszadás napja az, amikor a választ postára adták vagy a házelnökhöz megérkezett.
+
+43. § (1) Minden olyan héten, amikor az Országgyűlés ülést tart, az Országgyűlés ülésén a napirendben feltüntetett időpontban a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani kérdés közvetlen feltevésére és megválaszolására (a továbbiakban: azonnali kérdések órája). Valamennyi képviselőcsoport számára biztosítani kell, hogy a képviselőcsoport legalább egy tagja kérdést tehessen fel.
 
 (2) Az azonnali kérdések órájában az Alaptörvény szerint válaszadásra kötelezettek kötelesek az ülésteremben tartózkodni. A válaszadásra kötelezett halaszthatatlan közfeladata ellátása esetén előzetesen tájékoztatja a házelnököt, és megjelöli a helyette válaszadásra feljogosított személyt.
 
-(3) Ha a miniszterelnök vagy a miniszter nem személyesen válaszol, a képviselő személyes válaszadást kérhet. Ebben az esetben a megkérdezett legkésőbb a harmadik soron következő azonnali kérdések órájában köteles személyesen válaszolni. Ezen határidő alatt a kérdést a képviselőcsoport vezetője csak olyan helyre sorolhatja, ahol annak feltételére lehetőség nyílik, ellenkező esetben a személyes válaszadás kötelezettsége megszűnik.
+(3) Ha a válaszadásra kötelezett nem személyesen válaszol, a képviselő személyes válaszadást kérhet. Ebben az esetben a megkérdezett legkésőbb a képviselő személyes válaszadást kérő nyilatkozatát követő harmadik soron következő azonnali kérdések órájában köteles személyesen válaszolni. Ezen határidő alatt a kérdést a képviselőcsoport vezetője csak olyan helyre sorolhatja, ahol annak feltételére lehetőség nyílik, ellenkező esetben a személyes válaszadás kötelezettsége megszűnik.
 
 #### 17. Az Országgyűlés közjogi tisztségviselőkkel kapcsolatos határozatai
 
-44. § (1) Az Országgyűlés a miniszterelnököt nyílt szavazással, a köztársasági elnököt, az Alkotmánybíróság elnökét és tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét titkos szavazással választja meg.
+44. § (1) Az Országgyűlés által megválasztott személy (a továbbiakban: közjogi tisztségviselő) megválasztásánál – az Alaptörvény vagy törvény eltérő rendelkezése hiányában – a házelnök nyújtja be a javaslatot a közjogi tisztségviselő személyére. A javaslatról az Országgyűlés – az (1a) bekezdésben és a 6. § (1) bekezdésében foglalt kivétellel – nyílt szavazással határoz.
 
-(2) Ha törvény valamely közjogi tisztségviselő megválasztása vagy kinevezése előtt a jelölt országgyűlési bizottság előtt történő meghallgatását írja elő, a feladatkörrel rendelkező országgyűlési bizottság a jelöltet meghallgatja, és a személyi javaslatot véleményezi. A jelölt miniszterré történő kinevezésének támogatásáról az országgyűlési bizottság nyílt szavazással határoz.
+(1a) Az Országgyűlés a köztársasági elnököt, az Alkotmánybíróság elnökét és tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét titkos szavazással választja meg.
+
+(2) Ha törvény valamely közjogi tisztségviselő megválasztása vagy kinevezése előtt a jelölt országgyűlési bizottság előtt történő meghallgatását írja elő, a feladatkörrel rendelkező országgyűlési bizottság a jelöltet meghallgatja, a személyi javaslatot véleményezi és a véleményéről írásban tájékoztatja az Országgyűlést. A miniszteri tisztségre javasolt személy miniszterré történő kinevezésének támogatásáról az országgyűlési bizottság nyílt szavazással határoz.
 
 (3) Az Országgyűlés által választott közjogi tisztségviselők esetében a kialakított véleményt az országgyűlési bizottság előadója az Országgyűlés ülésén ismerteti. A többi jelöltről a véleményt az országgyűlési bizottság elnöke a házelnöknek küldi meg, aki azt a javaslattételi és a kinevezési jogkör gyakorlójához eljuttatja.
 
@@ -645,9 +762,9 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 21. A zárt ülés
 
-57. § (1) Az Alaptörvény alapján zárt ülés kezdeményezésére jogosult javaslata alapján egy vagy több napirendi pont, illetve napirend előtti felszólalás tárgyalása céljából zárt üléssé nyilvánítható a nyilvános ülés egy része is.
+57. § (1) Az Alaptörvény alapján zárt ülés kezdeményezésére jogosult javaslata alapján egy vagy több napirendi pont, illetve napirenden kívüli felszólalás tárgyalása céljából zárt üléssé nyilvánítható a nyilvános ülés egy része is. Az Országgyűlés a javaslatról az ügyrendi javaslatra vonatkozó szabályok szerint dönt.
 
-(2) A zárt ülésen a képviselőkön kívül csak a tanácskozási joggal rendelkező személyek, a háznagy, valamint az Országgyűlés Hivatalának oda beosztott munkatársai és a jegyzőkönyvvezetők vehetnek részt.
+(2) A zárt ülésen a képviselőkön kívül csak a tanácskozási joggal rendelkező személy, a háznagy, valamint a főigazgató által kijelölt – az Országgyűlés Hivatalával szerződéses jogviszonyban álló – személy vehet részt.
 
 (3) A zárt ülésen hallgatóság – ideértve a médiatartalom-szolgáltatók képviselőit is – nem vehet részt.
 
@@ -657,15 +774,15 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) Zárt ülés tartását az előterjesztő vagy bármely bizottsági tag kérelmezheti, arról az országgyűlési bizottság határoz. Egy vagy több napirendi pont tárgyalása céljából zárt üléssé nyilvánítható a nyilvános ülés egy része is. Nem rendelhető el az országgyűlési bizottság zárt ülése, ha a javaslattevő nem nevezi meg konkrétan azt az (1) bekezdés szerinti adatkört, amelybe tartozó adat vagy titok védelme indokolja a zárt ülés elrendelését.
 
-(3) A zárt ülésen a köztársasági elnök, a házelnök, a háznagy, az országgyűlési bizottság tagjai, továbbá az országgyűlési bizottság elnöke által az adott napirendi ponthoz meghívott személyek, valamint – ha a 29. § (3) bekezdése alapján tanácskozási joga van – a szószóló vehetnek részt. Az országgyűlési bizottság szótöbbséggel más – nem bizottsági tag – képviselő jelenlétéhez is hozzájárulhat. Ha az országgyűlési bizottság másként nem dönt, a zárt ülésen az Országgyűlés Hivatalának oda beosztott munkatársai és a jegyzőkönyvvezetők részt vehetnek.
+(3) A zárt ülésen a köztársasági elnök, a házelnök, a háznagy, az országgyűlési bizottság tagjai, továbbá az országgyűlési bizottság elnöke által az adott napirendi ponthoz meghívott személyek, valamint – ha a 29. § (3) bekezdése alapján tanácskozási joga van – a szószóló vehetnek részt. Az országgyűlési bizottság más – nem bizottsági tag – képviselő jelenlétéhez is hozzájárulhat. Ha az országgyűlési bizottság másként nem dönt, a zárt ülésen az Országgyűlés Hivatalának oda beosztott munkatársai és a jegyzőkönyvvezetők részt vehetnek.
 
-(4) A határozati házszabályi rendelkezésekben meghatározott kivételes eljárásban elrendelt zárt ülésről a képviselőket kizárni nem lehet.
+(4)
 
 (5) Az országgyűlési bizottságok nyilvános ülésének jegyzőkönyveit az Országgyűlés honlapján közzé kell tenni.
 
 #### 23. Az ülések közvetítése
 
-59. § (1) Az Országgyűlés ülésének, a kinevezésekkel és jelölésekkel kapcsolatos nyilvános országgyűlési bizottsági meghallgatásoknak, valamint a házelnök által – a Házbizottság véleményének kikérését követően – kijelölt egyéb országgyűlési bizottsági üléseknek a közvetítése céljából zártláncú audiovizuális rendszer működik.
+59. § (1) Az Országgyűlés ülésének, a törvényalkotási bizottság ülésének, a kinevezésekkel és jelölésekkel kapcsolatos nyilvános országgyűlési bizottsági meghallgatásoknak, valamint a házelnök által – a Házbizottság véleményének kikérését követően – kijelölt egyéb országgyűlési bizottsági üléseknek a közvetítése céljából zártláncú audiovizuális rendszer működik.
 
 (2) A zártláncú audiovizuális rendszerből kimenő jelet valamennyi médiaszolgáltató számára hozzáférhetővé kell tenni. A rendszerhez való csatlakozás költségei a médiaszolgáltatót terhelik. A zártláncú audiovizuális rendszer kimenő jeléből nyilvánosan elérhető valósidejű, internetes közvetítésre alkalmas jelfolyamot kell képezni, és azt az Országgyűlés honlapján elérhetővé kell tenni.
 
@@ -685,9 +802,9 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 - a) a törvényjavaslatokat,
 - b) a módosító javaslatokat,
-- c) a törvényjavaslathoz készült bizottsági ajánlásokat,
+- c) a törvényjavaslathoz készült bizottsági jelentéseket,
 - d) az egységes javaslatot, valamint
-- e) a törvényjavaslatokhoz kapcsolódó, az Országgyűlés iromány-nyilvántartásában szereplő más dokumentumokat.
+- e) az egyéb olyan dokumentumokat és adatokat, amelyek a házszabályi rendelkezések szerint az Országgyűlés iromány-nyilvántartásában szerepelnek.
 
 (2) Az (1) bekezdés, valamint az 56. § (2) bekezdése és az 58. § (5) bekezdése szerint közzétett dokumentumok az Országgyűlés honlapjáról nem távolíthatóak el.
 
@@ -697,17 +814,49 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) Ha az országgyűlési bizottság ülésén a házszabályi rendelkezések értelmezésével kapcsolatban vitás kérdés merül fel, az országgyűlési bizottság elnöke dönt, vagy a házszabályi rendelkezések értelmezéséért felelős bizottsághoz fordul.
 
-(3) A házszabályi rendelkezések értelmezéséért felelős bizottság az (1) és (2) bekezdésben foglalt esetben, valamint az országgyűlés tisztségviselője, bármely képviselőcsoport, országgyűlési bizottság, vagy – ha azt legalább tíz képviselő támogatja – független képviselő kérésére állást foglal.
+(3) A házszabályi rendelkezések értelmezéséért felelős bizottság az (1) és (2) bekezdésben foglalt esetben, valamint az országgyűlés tisztségviselője, bármely képviselőcsoport, országgyűlési bizottság vagy legalább öt független képviselő kérésére állást foglal.
 
 (4) A házszabályi rendelkezések értelmezéséért felelős bizottság – saját döntése alapján – általános érvényű vagy eseti jellegű állásfoglalást hoz. Az általános érvényű állásfoglalást az ülést vezető elnök ismerteti, az eseti jellegű állásfoglalást a házszabályi rendelkezések értelmezéséért felelős bizottság írásban teszi közzé.
 
-(5) Az általános érvényű állásfoglalás ismertetésétől, illetve az eseti jellegű állásfoglalás kiküldésétől számított tizenöt napon belül bármely képviselőcsoport, illetve – ha a kérését legalább tíz képviselő támogatja – bármely független képviselő kérheti az Országgyűlés döntését. A kérelem az állásfoglalás elutasítására vagy fenntartására irányulhat. Az Országgyűlés a kérelemről annak beérkezését követő harminc napon belül határoz.
+(5) Az általános érvényű állásfoglalás ismertetésétől, illetve az eseti jellegű állásfoglalás kiküldésétől számított tizenöt napon belül bármely képviselőcsoport, illetve – ha a kérését legalább öt képviselő támogatja – bármely független képviselő kérheti az Országgyűlés döntését. A kérelem az állásfoglalás elutasítására vagy fenntartására irányulhat. Az Országgyűlés a kérelemről annak beérkezését követő harminc napon belül határoz.
 
 (6) Az Országgyűlés ellenkező határozatáig a házszabályi rendelkezések értelmezéséért felelős bizottság állásfoglalását alkalmazni kell.
 
+(7) Az általános érvényű állásfoglalás az újonnan megválasztott Országgyűlés házszabályi rendelkezések értelmezéséért felelős bizottságának megalakulásakor hatályát veszti. A házszabályi rendelkezések értelmezéséért felelős bizottság az így hatályát vesztett általános érvényű állásfoglalást változatlan tartalommal elfogadhatja. A változatlan tartalommal elfogadott állásfoglalás elutasítására vagy fenntartására vonatkozóan az Országgyűlés döntése nem kérhető.
+
 ### V/A. Fejezet — EGYES DÖNTÉSEKHEZ SZÜKSÉGES SZAVAZATI ARÁNY
 
-61/A. § A képviselők kétharmadának szavazata szükséges a Nemzeti Emlékezet Bizottságáról szóló törvény szerinti Nemzeti Emlékezet Bizottsága elnökének és választott tagjának a megválasztásához, valamint ha a Nemzeti Emlékezet Bizottságáról szóló törvény szerint az Országgyűlés dönt a Nemzeti Emlékezet Bizottsága elnöke és választott tagja megbízatása megszűnéséről.
+61/A. § (1) A képviselők kétharmadának szavazata szükséges
+
+- a) az Országos Bírósági Hivatal elnökének megválasztásához a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 66. §-ában meghatározott esetben,
+- b) az Országos Bírósági Hivatal elnöke megbízatása – a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 70. § (1) bekezdés d)–f) pontja szerinti – megszűnésének kimondásához a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 70. § (2) bekezdésében foglalt esetben,
+- c) a Kúria elnöke megbízatása – a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 115. § (1) bekezdés d)–f) pontja szerinti – megszűnésének kimondásához a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 115. § (2) bekezdésében foglaltak szerint,
+- d) az Állami Számvevőszék elnöke mentelmi jogának felfüggesztéséhez az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 10. § (2) bekezdésében foglaltak szerint,
+- e) az Állami Számvevőszék elnöke összeférhetetlenségének megállapításához az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 11. § (3) bekezdésében foglaltak szerint,
+- f) az Állami Számvevőszék elnöke felmentéséhez az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 11. § (4) bekezdésében foglaltak szerint,
+- g) az Állami Számvevőszék elnöke kizárásához az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 11. § (5) bekezdésében foglaltak szerint,
+- h) a 37. § alapján az Országgyűlés ülésének az Országház épületétől eltérő helyen történő megtartásához.
+
+(2) A jelen lévő képviselők kétharmadának szavazata szükséges
+
+- a) a 77. § (3) bekezdése alapján az országgyűlési képviselő mentelmi jogának felfüggesztéséhez,
+- b) a 29/A. § (4) bekezdése alapján annak megállapításához, hogy a nemzetiségi szószóló az országgyűlési képviselők választásán már nem választható, már nem szerepel a központi névjegyzékben nemzetiségi választópolgárként, valamint a szószóló összeférhetetlenségének kimondásához,
+- c) település megyék közötti átcsatolásához a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 125. § (4) bekezdésében foglalt esetben,
+- d) a Kúria elnöke és az Országos Bírósági Hivatal elnöke mentelmi jogának felfüggesztéséhez a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 2. § (2) bekezdésében foglaltak szerint,
+- e) a legfőbb ügyész mentelmi jogának felfüggesztéséhez az ügyészségről szóló 2011. évi CLXIII. törvény 3. § (6) bekezdésében foglaltak szerint,
+- f) a Közszolgálati Közalapítvány alapító okiratának elfogadásához és módosításához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 84. § (3) bekezdésében foglaltak szerint,
+- g) a Közszolgálati Közalapítvány Kuratóriuma hat tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 86. § (1) bekezdésében foglaltak szerint,
+- h) a Közszolgálati Közalapítvány Kuratóriuma új tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 87. § (7) bekezdésében foglaltak szerint,
+- i) a Közszolgálati Közalapítvány Kuratóriuma elnöke vagy tagja összeférhetetlenségéről, felmentéséről vagy kizárásáról való döntéshez a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 89. § (2) bekezdésében meghatározott esetben,
+- j) a Médiatanács elnökének és négy tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 124. § (1) bekezdésében foglaltak szerint,
+- k) a Médiatanács elnökének megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 125. § (3) bekezdésében meghatározott esetben,
+- l) a Médiatanács elnöke vagy tagja összeférhetetlenségéről, felmentéséről vagy kizárásáról való döntéshez a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 129. § (7) bekezdésében meghatározott esetben,
+- m) a Független Rendészeti Panasztestület öt tagjának megválasztásához a Rendőrségről szóló 1994. évi XXXIV. törvény 6/A. § (2) bekezdésében foglaltak szerint,
+- n) a Független Rendészeti Panasztestület tagja megbízatása – a Rendőrségről szóló 1994. évi XXXIV. törvény 6/B. § (1) bekezdés c)–e) pontja szerinti – megszűnésének megállapításához a Rendőrségről szóló 1994. évi XXXIV. törvény 6/B. § (2) bekezdésében foglaltak szerint,
+- o) a Független Rendészeti Panasztestület tagja összeférhetetlensége fennállásának megállapításához a Rendőrségről szóló 1994. évi XXXIV. törvény 6/B. § (5) bekezdésében foglaltak szerint,
+- p) alapítvány létrehozásához a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 8. § (1) bekezdésében foglalt esetben,
+- q) a Nemzeti Emlékezet Bizottsága elnökének és két tagjának megválasztásához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 7. § (1) bekezdésében foglaltak szerint,
+- r) a Nemzeti Emlékezet Bizottsága tagja megbízatása – a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (1) bekezdésének e)–g) pontja szerinti – megszűnésének megállapításához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (4) bekezdésében foglaltak szerint.
 
 ### VI. Fejezet — AZ ORSZÁGGYŰLÉS ÉS A KORMÁNY EURÓPAI UNIÓS ÜGYEKBEN TÖRTÉNŐ EGYÜTTMŰKÖDÉSE
 
@@ -789,11 +938,11 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) A házelnök kezdeményezésére az Európai Tanács üléseit és a stratégiai jelentőségű európai uniós eseményeket megelőzően a miniszterelnök tájékoztatja az Országgyűlés Európai Uniós Konzultációs Testületét.
 
-(3) Az Európai Uniós Konzultációs Testület ülésén a házelnök, a képviselőcsoportok vezetői, az európai uniós ügyekkel foglalkozó állandó bizottság elnöke és alelnöke, az alkotmányossággal foglalkozó állandó bizottság elnöke, a külügyekkel foglalkozó állandó bizottság elnöke, valamint a házelnök által meghívott más személyek vehetnek részt.
+(3) Az Európai Uniós Konzultációs Testület ülésén a házelnök, a képviselőcsoportok vezetői, az európai uniós ügyekkel foglalkozó állandó bizottság elnöke és alelnöke, az alkotmányügyi kérdésekkel foglalkozó állandó bizottság elnöke, a külügyekkel foglalkozó állandó bizottság elnöke, valamint a házelnök által meghívott más személyek vehetnek részt.
 
 (4) A miniszterelnök az Európai Tanács ülését követően, az ülés kimeneteléről szóban tájékoztatja az Országgyűlés ülését.
 
-(5) A Kormány évente tájékoztatja az Országgyűlés ülését Magyarország európai uniós tagságával összefüggő kérdésekről és az európai integráció helyzetéről.
+(5) A Kormány évente tájékoztatja az Országgyűlést Magyarország európai uniós tagságával összefüggő kérdésekről és az európai integráció helyzetéről.
 
 70. § Az Európai Bizottság, a Bíróság, a Törvényszék, a Számvevőszék és az Európai Beruházási Bank igazgatótanácsa magyar tagjainak személyére az Európai Unió – a tagok kinevezéséről szóló döntés meghozatalára jogosult – intézményének a Kormány tesz javaslatot. A Kormány a személyi javaslat megtételét megelőzően a javasolni kívánt személyről tájékoztatja az Országgyűlést. Az Országgyűlés a Kormány által javasolt személyt a javaslat megtételét megelőzően meghallgathatja.
 
@@ -801,7 +950,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 71. § (1) Az Országgyűlés az európai uniós tervezetekkel kapcsolatban állást foglalhat a szubszidiaritás és arányosság elvének érvényesüléséről.
 
-(2) Az Országgyűlés az Európai Unióról szóló szerződéshez (a továbbiakban: EUSz), az Európai Unió működéséről szóló szerződéshez (a továbbiakban: EUMSz), illetve az Európai Atomenergia-közösség létrehozásáról szóló szerződéshez csatolt 2. jegyzőkönyv szerinti, az Európai Unió intézményeinek küldött indokolt véleményéről tájékoztatja a Kormányt.
+(2) Az Országgyűlés az Európai Unióról szóló szerződéshez (a továbbiakban: EUSZ), az Európai Unió működéséről szóló szerződéshez (a továbbiakban: EUMSZ), illetve az Európai Atomenergia-közösség létrehozásáról szóló szerződéshez csatolt 2. jegyzőkönyv szerinti, az Európai Unió intézményeinek küldött indokolt véleményéről tájékoztatja a Kormányt.
 
 (3) Az Országgyűlés – az Európai Unió jogalkotási aktusának az Európai Unió Hivatalos Lapjában való kihirdetését követő egy hónapon belül – kezdeményezheti, hogy a Kormány az EUMSz 263. cikke szerint nyújtson be keresetet az Európai Unió Bíróságához arra hivatkozással, hogy az Európai Unió jogalkotási aktusa a szubszidiaritás elvét sérti. Az Országgyűlés a kezdeményezésében megjelöli azokat az érveket, amelyek alapján a jogalkotási aktust a szubszidiaritás elvét sértőnek tartja. Az Országgyűlés kezdeményezése alapján a Kormány – az EUMSz 263. cikkében meghatározott határidőn belül – keresetet nyújt be az Európai Unió Bíróságához, vagy a kereset benyújtását az indokainak részletes megjelölésével elutasítja. A kereset benyújtását, illetve a benyújtás elutasítását megelőzően a Kormány az Országgyűlés kezdeményezésében foglaltakról egyeztetést kérhet.
 
@@ -809,7 +958,21 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 29. Az Országgyűlés kifogása
 
-72. § Az Országgyűlés az EUSz 48. cikk (7) bekezdése és az EUMSz 81. cikk (3) bekezdése szerinti kifogás megtételéről tájékoztatja a Kormányt.
+72. § Az Országgyűlés az EUSZ 48. cikk (7) bekezdése és az EUMSZ 81. cikk (3) bekezdése szerinti kifogás megtételéről tájékoztatja a Kormányt.
+
+### VI/A. Fejezet — A HATÁRIDŐ SZÁMÍTÁSA
+
+72/A. § (1) Törvény vagy határozati házszabályi rendelkezés eltérő rendelkezése hiányában a házszabályi rendelkezések alkalmazása során a határidő számítására a (2)–(6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
+
+(2) A határidőket órákban vagy napokban kell számítani, kivéve, amikor a házszabályi rendelkezések ülést vagy ülésnapot említenek. Az ülésnap az elfogadott napirenden szereplő napirendi pontok megtárgyalásáig tart.
+
+(3) A határidőbe a kezdőnap nem számít bele. Kezdőnap az a nap, amelyen a határidő megkezdésére okot adó cselekmény vagy körülmény bekövetkezik.
+
+(4) Ha a határidő utolsó napja nem a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkanapra esik, a határidő az azt követő munkanapon jár le.
+
+(5) A határidő az utolsó napon a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő végén, az Országgyűlés ülésezése idején az ülésnap végén jár le.
+
+(6) A (4)–(5) bekezdés nem alkalmazható, ha a határidő órában van megadva.
 
 ## HARMADIK RÉSZ — AZ ORSZÁGGYŰLÉSI KÉPVISELŐK JOGÁLLÁSA
 
@@ -841,7 +1004,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során a mentelmi jog felfüggesztésével és a mentelmi jog megsértésével összefüggő, a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság által kért adatokat a képviselő és minden állami szerv köteles haladéktalanul a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság rendelkezésére bocsátani. A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során átvett, illetve rendelkezésre bocsátott adatokat a mentelmi jog felfüggesztésére irányuló eljárás és a mentelmi jog megsértése miatti vizsgálat lezárulását követő harmincadik napon törölni kell.
 
-(3) A mentelmi jog felfüggesztésére irányuló ügyben a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság előadója, valamint az érintett képviselő a határozathozatal előtt öt-öt perces időkeretben felszólalhat és ismertetheti álláspontját. A mentelmi jog felfüggesztésére irányuló döntéshez a jelen lévő képviselők kétharmadának a szavazata szükséges.
+(3) A mentelmi jog felfüggesztéséről az Országgyűlés dönt.
 
 (4) A mentelmi jog felfüggesztése tárgyában hozott döntés csak arra az ügyre vonatkozik, amelyre az indítványt előterjesztették.
 
@@ -855,48 +1018,27 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 ### VIII. Fejezet — ÖSSZEFÉRHETETLENSÉG ÉS VAGYONNYILATKOZAT-TÉTELI KÖTELEZETTSÉG
 
-#### 30. Hivatali összeférhetetlenség
+#### 30. Összeférhetetlenség
 
-80. § A képviselő nem lehet
+80. § (1) A képviselői megbízatás – a (2) és (4) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő más kereső foglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
 
-- a) köztársasági elnök,
-- b) az Alkotmánybíróság tagja,
-- c) az alapvető jogok biztosa és helyettese,
-- d) az Állami Számvevőszék elnöke, alelnöke és számvevője,
-- e) a Magyar Nemzeti Bank elnöke, alelnöke, ügyvezető igazgatója, igazgatóságának tagja,
-- f) bíró,
-- g) ügyész,
-- h) állami vezető – a Kormány tagja és az államtitkár kivételével –,
-- i) kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személy, közigazgatási szerv munkavállalója,
-- j) az önkéntes tartalékos szolgálati jogviszony kivételével a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy,
-- k) a Magyar Nemzeti Vagyonkezelő Zrt. alkalmazottja, illetve igazgatóságának vagy felügyelő bizottságának tagja,
-- l) a Közbeszerzési Hatóság keretében működő Tanács tagja.
+(2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
-81. § A képviselő az Országgyűlés, a Kormány vagy a helyi önkormányzat képviselő-testülete által létrehozott közalapítvány kezelő szervének tisztségviselőjeként vagy kezelő szervezetének tagjaként nem részesülhet tiszteletdíjban.
+(3) A miniszterelnök, miniszter, államtitkár képviselő nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
 
-82. § Képviselő nem lehet
+(4) A képviselő főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlési elnöki, megyei közgyűlési alelnöki, polgármesteri, alpolgármesteri, helyi önkormányzati képviselői és nemzetiségi önkormányzati képviselői megbízatást (a továbbiakban együtt: polgármesteri megbízatás) láthat el. A képviselő polgármesteri megbízatásának fennállása alatt a 104. § (1) bekezdésében meghatározott képviselői tiszteletdíjra és – amennyiben nyilatkozata szerint polgármesteri megbízatásával összefüggésben költségtérítésben vagy költségátalányban részesül – üzemanyagkártya használatára nem jogosult.
 
-- a) országos vagy regionális terjesztésű politikai napilap szerkesztőségének vezetője vagy annak helyettese,
-- b) a Magyar Távirati Iroda Nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese,
-- c) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, a Magyar Rádió Nonprofit Zrt., a Magyar Televízió Nonprofit Zrt., és a Duna Televízió Nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese,
-- d) a Közszolgálati Közalapítvány Kuratóriumának elnöke és tagja,
-- e) az országos vagy körzeti rádió vagy televízió vezetője.
+#### 81. §
 
-83. § (1) A házelnök és az alelnök más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
+#### 82. §
 
-(2) A miniszterelnök, miniszter, államtitkár, kormánymegbízott vagy járási hivatalvezető országgyűlési képviselőként nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
+#### 83. §
 
 #### 31. Gazdasági összeférhetetlenség
 
 84. § Képviselő nem lehet
 
-- a) olyan állami részesedéssel működő gazdálkodó szervezet vezető tisztségviselője, felügyelőbizottsági tagja, vezető állású munkavállalója, amelyben az államot 10%-nál nagyobb szavazati jog vagy részesedés illeti meg,
-- b) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa külföldi állam, külföldi helyhatóság vagy nemzetközi szervezet,
-- c) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa belföldi vagy külföldi vallási közösség,
-- d) olyan gazdálkodó szervezet vezető tisztségviselője, felügyelőbizottsági tagja, vezető állású munkavállalója, amelyben helyi önkormányzatnak, nemzetiségi önkormányzatnak, helyi önkormányzatok társulásának, fejlesztési tanácsnak, közalapítványnak, az államháztartás valamely alrendszerébe sorolt köztestületnek kizárólagos vagy közvetlen vagy közvetett többségi részesedése van,
-- e) olyan gazdálkodó szervezet vezető tisztségviselője vagy felügyelő bizottsági tagja, vezető állású munkavállalója, amelynek legalább 10%-os társasági részesedése a megválasztásától (kinevezésétől) számított két éven belül került ki a magyar állam vagy külföldi állam, helyi önkormányzat, helyi önkormányzati társulás, fejlesztési tanács vagy külföldi helyhatóság tulajdonából,
-- f) a képviselői megbízatás fennállása alatt, illetve annak megszűnésétől számított két évig a közbeszerzésekről szóló törvény hatálya alá tartozó szervezettel a törvény hatálya alá tartozó beszerzések teljesítésére irányuló szerződéses viszonyban álló gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja, vezető állású munkavállalója,
-- g) a képviselői megbízatás fennállása alatt, illetve annak megszűnésétől számított két évig koncessziós társaság vezető tisztségviselője, felügyelő bizottsági tagja, vezető állású munkavállalója, valamint
+- a)–g)
 - h) a tőkepiacról szóló törvény szerinti pénzügyi ágazatban működő pénzügyi szervezet kizárólagos vagy többségi tulajdonosa, vezető tisztségviselője, vezető állású munkavállalója.
 - i) olyan gazdálkodó szervezetben tulajdoni részesedéssel rendelkező tag vagy részvényes, amely a nemzeti vagyonról szóló törvény szerint nem minősül átlátható szervezetnek,
 - j) az államháztartás alrendszeréből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján az államháztartáson kívüli természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező egyéb szervezetek – ide nem értve a társasházat – számára nyújtott támogatások odaítélése céljából létrehozott szerv vezetője, tagja, illetve a szerv döntésének előkészítésében vagy meghozatalában közreműködő személy.
@@ -924,12 +1066,11 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 89. § A képviselő a házelnöknek köteles bejelenteni minden, összeférhetetlenség alá nem eső
 
-- a) munkaviszonyát és munkavégzésre irányuló más jogviszonyát,
+- a) polgármesteri megbízatását és polgármesteri megbízatása megszűnését,
 - b) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), az e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelő bizottsági tagságát, továbbá bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői illetve kedvezményezetti jogállását,
 - c) alapítványát, alapítvány kezelő testületében fennálló tagságát, civil szervezetben fennálló tagsági viszonyát, továbbá e szervezetek jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét,
-- d) köztestületben fennálló tagságát, valamint köztestület jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét,
-- e) az a)–d) pontokban meghatározottakon túlmenően valamennyi, a képviselői megbízatáson kívüli rendszeres, valamint az egyhavi képviselői javadalmazást meghaladó mértékű eseti, illetve évente többszöri jövedelemmel járó tevékenységét, szerződéses jogviszonyát,
-- f) az a)–e) pontokban meghatározottakkal összefüggésben szerzett jövedelmét.
+- d) köztestületben fennálló tagságát, valamint köztestület jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét.
+- e)–f)
 
 #### 34. Vagyonnyilatkozat-tételi kötelezettség
 
@@ -985,7 +1126,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (3) Az (1) bekezdésben meghatározott időtartam alatt a képviselőjelölt munkaviszonya a munkáltató által nem szüntethető meg.
 
-96. § (1) A képviselő megbízatásának időtartama alatt – az összeférhetetlenségi eseteket kivéve – munkaviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban állhat, illetve keresőfoglalkozást folytathat.
+96. § (1)
 
 (2) A képviselőt mandátuma igazolásától a munkáltató – a munkavállaló kérésének megfelelően – a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 
@@ -1006,8 +1147,8 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 (3) A (2) bekezdéstől eltérően
 
 - a) a vizsgálóbizottság tagja – a vizsgálóbizottság felhatalmazása alapján – a vizsgálóbizottság döntése alapján, személyi biztonsági tanúsítvány, titoktartási nyilatkozat és felhasználói engedély nélkül jogosult a minősített adat felhasználására, ha a vizsgálóbizottság létrehozásáról szóló országgyűlési határozat a vizsgálóbizottság feladatának ellátásához szükséges minősített adat felhasználásához a felhatalmazást megadta,
-- b) a honvédelmi ügyekkel foglalkozó állandó bizottság tagja a bizottság döntése alapján, személyi biztonsági tanúsítvány, titoktartási nyilatkozat és felhasználói engedély nélkül jogosult a bizottságnak az Alaptörvényben, a honvédelemről szóló törvényben és a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására,
-- c) a nemzetbiztonsági ügyekkel foglalkozó állandó bizottság tagja a bizottság döntése alapján, felhasználói engedély nélkül jogosult a bizottságnak a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására.
+- b) a honvédelemmel foglalkozó állandó bizottság tagja a bizottság döntése alapján, személyi biztonsági tanúsítvány, titoktartási nyilatkozat és felhasználói engedély nélkül jogosult a bizottságnak az Alaptörvényben, a honvédelemről szóló törvényben és a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására,
+- c) a nemzetbiztonsággal foglalkozó állandó bizottság tagja a bizottság döntése alapján, felhasználói engedély nélkül jogosult a bizottságnak a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására.
 
 (4) A képviselői igazolvány valamennyi közigazgatási szervhez, valamint a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő – a feladat- és hatáskörrel rendelkező miniszter által szabályozott módon – jogosult a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve működésére szolgáló területre is belépni. E jogosultság gyakorlása nem eredményezheti az érintett szervek rendeltetésszerű működésének aránytalan sérelmét.
 
@@ -1039,55 +1180,236 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) A képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés ideje alatt a 36–37. alcímben meghatározott javadalmazásra nem jogosult.
 
-## NEGYEDIK RÉSZ
+## NEGYEDIK RÉSZ — AZ ORSZÁGGYŰLÉSI KÉPVISELŐK JAVADALMAZÁSA
 
-#### 36.
+#### 36. A képviselő tiszteletdíja
 
-#### 104. §
+104. § (1) A képviselő az eskütételétől a megbízatásának megszűnéséig havonta tiszteletdíjra jogosult, amelynek összege megegyezik a helyettes államtitkárnak a közszolgálati tisztviselőkről szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegével.
 
-#### 105. §
+(2) A képviselőcsoport vezetője képviselőcsoportvezetői megbízatásának időtartamára a képviselőcsoport által meghatározott összegű tiszteletdíjra jogosult, amelynek összege nem lehet magasabb a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegénél.
 
-#### 106. §
+(3) A képviselőcsoport vezetőjének helyettese (a továbbiakban: képviselőcsoportvezető-helyettes) az államtitkár központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegével megegyező mértékű tiszteletdíjra jogosult. Az e bekezdésben meghatározott tiszteletdíjra képviselőcsoportonként minden megkezdett huszonöt tag után egy-egy képviselőcsoportvezető-helyettes jogosult.
 
-#### 107. §
+(4) A képviselőcsoport a 115. § (4) bekezdésében meghatározott keret terhére azoknak a képviselőcsoportvezető-helyetteseknek, akik nem részesülnek a (3) bekezdés szerinti tiszteletdíjban, az (1) bekezdésben meghatározott tiszteletdíjon felül külön juttatást állapíthat meg. Ebben az esetben a képviselőcsoportvezető-helyettest az (1) bekezdés alapján megillető képviselői tiszteletdíj, valamint a tiszteletdíjon felüli külön juttatás együttes összege nem haladhatja meg a (3) bekezdésben meghatározott összeget. Az e bekezdés szerinti juttatásban legfeljebb a (3) bekezdésben foglaltaknak megfelelő számú képviselőcsoportvezető-helyettes részesülhet.
 
-#### 108. §
+(4a) A képviselőcsoportnak – a (3) és (4) bekezdés hatálya alá nem tartozó – további képviselőcsoportvezető-helyettesei külön juttatásban nem részesülhetnek, és számuk nem haladhatja meg a képviselőcsoport létszámának 20%-át.
 
-#### 37.
+(5) A képviselőcsoport vezetője és a képviselőcsoportvezető-helyettes a (2)–(4) bekezdésben meghatározott tiszteletdíjra a megbízatás keletkezésének bejelentésétől a megbízatás megszűnésének bejelentéséig jogosult.
 
-#### 109. §
+(6) Ha a képviselő a (2)–(4) bekezdésben, a 4. §-ban, a 105. §-ban, illetve a 106. § (2) bekezdésében meghatározott megbízatással rendelkezik, a (2)–(4) bekezdés, a 4. § (6) bekezdése, a 105. §, illetve a 106. § (2) bekezdése szerinti tiszteletdíjra jogosult.
 
-#### 110. §
+105. § (1) Az alelnök tiszteletdíjának összege megegyezik a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegével.
 
-#### 111. §
+(2) A 14. § (1) bekezdés a) pontja szerinti bizottság elnöke, az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, az Országgyűlés jegyzője tiszteletdíjának összege megegyezik az államtitkár központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegével.
 
-#### 112. §
+(3) A 14. § (1) bekezdés a) pontja szerinti bizottság alelnöke a 104. § (1) bekezdésében meghatározott tiszteletdíj 1,2-szeresének megfelelő összegű tiszteletdíjra jogosult.
 
-#### 38.
+(4) Az alelnök, a képviselői megbízatással rendelkező háznagy, a 14. § (1) bekezdés a) pontja szerinti bizottság elnöke és alelnöke, az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, valamint a jegyző az (1)–(3) bekezdésben meghatározott tiszteletdíjra a megbízatásának időtartamára jogosult.
 
-#### 113. §
+(5) Ha a képviselő egyidejűleg több, a 104. §-ban vagy az e §-ban meghatározott megbízatással rendelkezik, a magasabb összegű tiszteletdíjra jogosult.
 
-#### 114. §
+106. § (1) A képviselő – az e törvényben meghatározottak kivételével – állami szervtől egyéb jogcímen díjazásban nem részesülhet.
 
-#### 115. §
+(2) A házelnök, a miniszterelnök, a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott vagy a miniszteri biztos képviselő kizárólag a 104. § (1) bekezdésében meghatározott tiszteletdíj 30%-ára jogosult.
 
-#### 116. §
+107. § (1) A képviselő esedékes tiszteletdíjának összege arányosan csökken, ha igazolatlanul nem vesz részt az Országgyűlés adott hónapban tartott ülésének, – több ülés esetén – üléseinek napirendi javaslatában feltüntetett szavazásainak több mint egynegyedén.
 
-#### 117. §
+(2) Ha az Országgyűlés a napirendi javaslatban előre feltüntetett szavazások – napirendi javaslatban jelzett – időpontjában nem határozatképes és a határozatképességet az ülést vezető elnöknek nem sikerül helyreállítania, akkor a bejelentés nélkül távol lévő képviselő esedékes tiszteletdíját a Házbizottság csökkentheti. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő esedékes tiszteletdíjának harmadát. A tiszteletdíj csökkentésére az 51/A. § rendelkezéseit kell alkalmazni.
 
-#### 118. §
+(3) Ha az országgyűlési bizottság – legalább 24 órával korábban összehívott ülése – nem határozatképes és a határozatképességet a bizottság elnökének nem sikerül helyreállítania, akkor a távol lévő képviselő esedékes tiszteletdíját a Házbizottság csökkentheti, kivéve, ha a képviselő a bizottsági ülésről való távolmaradását az országgyűlési bizottság elnökének a bizottsági ülés kezdetéig bejelentette. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő esedékes tiszteletdíjának harmadát. A tiszteletdíj csökkentésére az 51/A. § rendelkezéseit kell alkalmazni.
 
-#### 39.
+(4) A képviselő – ülésszakot követően esedékes első havi – tiszteletdíjának összege arányosan csökken, ha a bizottsági tag ülésszakonként – ide nem értve a rendkívüli ülésszakot – a bizottsági ülések több mint a felén, de legalább három ülésen igazolatlanul nem vesz részt. A bizottsági ülésen részt nem vevőnek kell tekinteni azt a képviselőt, aki bizottsági ülés – teljes vagy részbeni tartamára – eseti képviseleti megbízást adott.
 
-#### 119. §
+108. § A képviselő tiszteletdíja nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-#### 40.
+#### 37. A képviselő juttatásai és a képviselői tevékenységéhez kapcsolódó támogatások
 
-#### 120. §
+109. § (1) A képviselő – a miniszterelnök, a miniszter, az államtitkár, a házelnök, az alelnök, a képviselői megbízatással rendelkező háznagy, valamint a képviselőcsoport vezetője kivételével – nevére, valamint az általa megjelölt fajtájú üzemanyagot fogyasztó és hengerűrtartalmú, a saját vagy házastársa tulajdonában lévő személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Az üzemanyagkártya feltöltése első alkalommal a feltöltés időpontját alapul véve az adott tárgynegyedév végéig, a második alkalomtól kezdődően havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.
 
-#### 121. §
+(2) Az (1) bekezdésben meghatározott összeg havonta – ha a képviselőnek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhelye
 
-#### 122. §
+- a) Budapesten van – 2000 km-re,
+- b) Budapesttől 1 és 100 km között van – 3000 km-re,
+- c) Budapesttől 101 és 150 km között van – 3500 km-re,
+- d) Budapesttől 151 és 200 km között van – 4000 km-re,
+- e) Budapesttől 201 és 250 km között van – 4500 km-re,
+- f) Budapesttől 251 és 300 km között van – 5000 km-re,
+- g) Budapesttől 300 km-en túl van – 5500 km-re
+
+elegendő üzemanyag értéke.
+
+(3) Egyéni választókerületben megválasztott képviselő esetében a (2) bekezdésben meghatározott összeg – ha a képviselő egyéni választókerületének területnagysága
+
+- a) 850 és 1150 km2 között van – 10%-kal,
+- b) 1151 és 1400 km2 között van – 20%-kal,
+- c) 1401 és 1650 km2 között van – 30%-kal,
+- d) 1651 és 1900 km2 között van – 40%-kal,
+- e) 1901 km2 fölött van – 50%-kal
+
+emelkedik.
+
+(4) A (2) bekezdés szerinti besorolásnál a Budapest és a számítás alapjául szolgáló település közötti – autópálya, illetve autóút, ennek hiányában egyéb főközlekedési útvonal igénybevételével számított – legrövidebb közúti távolságot kell figyelembe venni.
+
+(5) A képviselő a belföldi közforgalmú közösségi közlekedési eszközök igénybevételével kapcsolatban felmerült költségeinek megtérítésére jogosult, ha üzemanyagkártyára való jogosultságáról lemond. A költségtérítés összege nem haladhatja meg az (1)–(4) bekezdés alapján, egy 2000 cm3 hengerűrtartalmú, benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget.
+
+(6) Az alelnök és – a 113. § (1) bekezdésében foglalt keret terhére – a képviselőcsoport vezetője személyi, illetve hivatali célra személygépkocsi használatára jogosult. Az alelnök részére a személygépkocsit és használatának költségeit az Országgyűlés Hivatala biztosítja.
+
+(7) A képviselő ideiglenes külföldi kiküldetése idején a köztisztviselőkre irányadó napidíjra és költségtérítésre jogosult.
+
+(8)–(9)
+
+110. § (1) A képviselő kérelmére, az Országgyűlés Hivatala által biztosított, legalább 35 m2, de legfeljebb 50 m2 alapterületű budapesti lakóház vagy lakás használatára jogosult, kivéve ha
+
+- a) ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan van, vagy
+- b) közjogi tisztségviselőként lakáshasználatra vagy budapesti lakhatásával összefüggésben támogatásra vagy egyéb juttatásra jogosult.
+
+(1a) A képviselő akkor is jogosult az (1) bekezdés szerinti lakóház vagy lakás használatára, ha az (1) bekezdés a) pontja esetén a képviselő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában csak olyan budapesti lakóház vagy lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
+
+(2) Ha az (1) bekezdésben foglaltakat az Országgyűlés Hivatala nem a vagyonkezelésében lévő lakóház vagy lakás használatba adásával biztosítja, abban az esetben a megfelelő lakóház vagy lakás használatba adásának biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 25%-ának megfelelő összeget használhat fel. A lakóház vagy lakás rendeltetésszerű használata során felmerülő egyéb költségek a képviselőt terhelik. A nem rendeltetésszerű használat során bekövetkezett károkért a képviselő felelős.
+
+(2a) Bármely képviselő, illetve közeli hozzátartozója, valamint a 111. § (3) bekezdésében meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
+
+- a) legalább 5%-os tulajdonában álló nyilvánosan működő részvénytársaság tulajdonában lévő ingatlan,
+- b) bármilyen arányban tulajdonában álló gazdasági társaság (ide nem értve a nyilvánosan működő részvénytársaságot) tulajdonában lévő ingatlan,
+- c) tulajdonában álló b) pont szerinti gazdasági társaság
+  - ca) legalább 5%-os tulajdonában álló nyilvánosan működő részvénytársaság tulajdonában lévő ingatlan,
+  - cb) bármilyen arányú tulajdonában álló gazdasági társaság (ide nem értve a nyilvánosan működő részvénytársaságot) tulajdonában lévő ingatlan
+
+a (2) bekezdésben foglaltak biztosítására nem használható.
+
+(2b) A (2a) bekezdésben foglaltakon túl a (2) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy a 111. § (3) bekezdésében meghatározott személyek, illetve ezek közeli hozzátartozója a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
+
+(3) Ha a képviselő az (1) bekezdésben foglaltakat nem veszi igénybe, a képviselői tevékenységének ellátásához szükséges budapesti tartózkodásának időtartamára, kérelmére, havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 25%-ának megfelelő összeg erejéig, az Országgyűlés Hivatala által Budapesten biztosított, megfelelő szállodai szálláshelyen lévő szállodai szobaegység használatára jogosult. A képviselői tevékenység ellátásához szükséges budapesti tartózkodás biztosítására az e bekezdésben meghatározott összegtől magasabb mértékű összeg a képviselőcsoport vezetője által meghatalmazott személy jóváhagyásával, a képviselőcsoport 113. § (1) bekezdésében meghatározott kerete terhére használható fel.
+
+(4) Az alelnök, illetve a képviselőcsoport vezetője – kérelmére – budapesti hivatali lakás használatára jogosult, ha ő vagy a vele közös háztartásban élő közeli hozzátartozója Budapesten vagy közvetlen vonzáskörzetében az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlannal nem rendelkezik.
+
+(5) Az alelnök és a képviselőcsoport vezetője akkor is jogosult budapesti hivatali lakás használatára, ha az ő vagy vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten vagy közvetlen vonzáskörzetében csak olyan lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
+
+111. § (1) A képviselő választókerületének székhelyén vagy a választókerületében általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületében meghatározott helyen, az országos listán megválasztott képviselő esetében az általa meghatározott településen a képviselői tevékenységének ellátására alkalmas az Országgyűlés Hivatala által biztosított irodai elhelyezésre jogosult, amely magában foglalja a megfelelő színvonalú irodai berendezést és felszerelést, az iroda működtetésével összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
+
+(1a) Bármely képviselő, illetve közeli hozzátartozója, valamint a 111. § (3) bekezdésében meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
+
+- a) legalább 5%-os tulajdonában álló nyilvánosan működő részvénytársaság tulajdonában lévő ingatlan,
+- b) bármilyen arányban tulajdonában álló gazdasági társaság (ide nem értve a nyilvánosan működő részvénytársaságot) tulajdonában lévő ingatlan,
+- c) tulajdonában álló b) pont szerinti gazdasági társaság
+  - ca) legalább 5%-os tulajdonában álló nyilvánosan működő részvénytársaság tulajdonában lévő ingatlan,
+  - cb) bármilyen arányú tulajdonában álló gazdasági társaság (ide nem értve a nyilvánosan működő részvénytársaságot) tulajdonában lévő ingatlan
+
+az (1) bekezdésben foglaltak biztosítására nem használható.
+
+(1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely párt tulajdonában vagy vagyonkezelésében van, illetve amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója, vagy a 111. § (3) bekezdésében meghatározott személy, illetve ezek közeli hozzátartozója a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
+
+(2)
+
+(3) A képviselő tevékenységét az Országgyűlés Hivatala által finanszírozott személyek segítik, munkavégzésük helye a képviselő (1) bekezdés szerinti irodája.
+
+(4) A képviselő az Országgyűlés Hivatalán keresztül jogosult térítésmentesen igénybe venni a képviselői tevékenységének ellátásához szükséges postai és elektronikus hírközlési szolgáltatásokat. A képviselő az Országgyűlés Hivatalán keresztül jogosult havonta legfeljebb a mindenkori legkisebb munkabér (minimálbér) 30%-ának megfelelő összeg erejéig mobiltelefon-szolgáltatás igénybevételére, amelyhez az Országgyűlés Hivatala biztosít megfelelő készüléket. Az Országgyűlés Hivatala a képviselő számára biztosítja a minősített elektronikus aláírás használatának lehetőségét és feltételeit.
+
+(5) A képviselő jogosult térítésmentesen igénybe venni az Országgyűlés Hivatala által működtetett elemző, információs és dokumentációs szolgáltatásokat.
+
+(6) A képviselő jogosult térítésmentesen igénybe venni az Országgyűlés kiadványait és hivatalos dokumentumait.
+
+112. § (1) A képviselőnek a 109–111. §-ban meghatározott pénzügyi feltételeket, juttatásokat, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala a képviselő eskütételétől megbízatásának megszűnéséig biztosítja.
+
+(2) A képviselő 111. § (1) bekezdése szerinti jogosultságai biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 50%-ának megfelelő összeget használhat fel.
+
+(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíjnak megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
+
+(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére.
+
+(5) Képviselő közeli hozzátartozója nem foglalkoztatható a 111. § (2)–(3) bekezdése alapján képviselő tevékenységét segítő alkalmazottként.
+
+#### 38. A képviselőcsoport működési feltételeinek biztosítása
+
+113. § (1) A képviselőcsoport a működésével járó kiadásokra havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj tízszeresének, valamint – a képviselőcsoporthoz tartozó képviselőnként – kormánypárt esetében a 104. § (1) bekezdésében meghatározott tiszteletdíj 30%-ának, ellenzéki párt esetében 40%-ának megfelelő összegre jogosult az Országgyűlés Hivatala költségvetéséből.
+
+(2) A független képviselő a képviselői tevékenységével járó kiadásokra a 104. § (1) bekezdésében meghatározott tiszteletdíj 40%-ának megfelelő összegre jogosult.
+
+114. § (1) A képviselőcsoport – működésének, valamint a képviselők képviselői tevékenységének biztosítására –
+
+- a) térítésmentesen az Országházban vagy az Országgyűlés Irodaházában irodákra,
+- b) a képviselőcsoport működéséhez, valamint a képviselők képviselői tevékenységéhez szükséges irodai berendezésre és felszerelésre,
+- c) az a) pont szerinti irodák működtetésével összefüggő kiadások biztosítására
+
+jogosult.
+
+(2) A független képviselő jogosult az (1) bekezdés szerinti feltételek biztosítására.
+
+(3) Az (1) bekezdés b) és c) pontjában meghatározott költségek fedezésére a képviselő-csoport képviselőnként, valamint a független képviselő a 104. § (1) bekezdésében meghatározott tiszteletdíj 20%-ának megfelelő összegű ellátási keret felhasználására jogosult az Országgyűlés Hivatala költségvetéséből.
+
+115. § (1) A képviselőcsoport jogosult arra, hogy működését az Országgyűlés Hivatalánál foglalkoztatott személyek segítsék, akik munkavégzésének a helye a képviselőcsoport 114. § (1) bekezdése szerinti irodája.
+
+(2) A képviselőcsoport működését a képviselőcsoport létszámától függően, ha annak létszáma
+
+- a) nem haladja meg a tíz főt, öt fő,
+- b) tizenegy–húsz fő közötti, hét fő,
+- c) huszonegy–harmincnégy fő közötti, tíz fő,
+- d) harmincöt–ötven fő közötti, tizenkettő fő,
+- e) az ötven főt meghaladja, tizenöt fő,
+
+valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú felső- vagy középfokú iskolai végzettségű köztisztviselő vagy munkavállaló segítheti.
+
+(3) A képviselőcsoport a (2) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
+
+(4) A képviselőcsoport a (2) bekezdés szerint megállapított létszám
+
+- a) 20%-a után a közszolgálati tisztviselőkről szóló törvény szerinti főtanácsadói,
+- b) 30%-a után a közszolgálati tisztviselőkről szóló törvény szerinti tanácsadói,
+- c) 30%-a után a közszolgálati tisztviselőkről szóló törvény szerinti I. besorolási osztály 9. fokozata,
+- d) 20%-a után a közszolgálati tisztviselőkről szóló törvény szerinti II. besorolási osztály 10. fizetési fokozata
+
+szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is figyelembe vevő bérkeretre jogosult.
+
+(5) A képviselőcsoport működését segítő köztisztviselőkre, illetve munkavállalókra a köztisztviselőkre, illetve a közigazgatási szervnél foglalkoztatott munkavállalókra irányadó szabályokat kell alkalmazni azzal, hogy a munkáltatói jogkört a képviselőcsoport vezetője egyetértésével kell gyakorolni.
+
+(6) A cafetéria-juttatások fedezetére a központi költségvetésről szóló törvényben meghatározott összeget az Országgyűlés Hivatala külön biztosítja. A munkáltatói jogkört gyakorló döntési jogkörébe tartozó egyéb juttatásokra, valamint jutalmazásra a képviselőcsoport a (4) bekezdés szerinti bérkeret 10%-ának megfelelő fedezetre jogosult, amelynek terhére a (2) bekezdésben meghatározott személy nem foglalkoztatható.
+
+116. § A képviselőcsoport és a független képviselő által a 113. §-ban és a 114. § (3) bekezdésében meghatározott keret terhére vásárolt tárgyi eszközök az Országgyűlés Hivatala tulajdonát képezik. A képviselőcsoport a képviselőcsoport működésének, a független képviselő a megbízatásának időtartama alatt e tárgyi eszközöket birtokolhatja.
+
+117. § A képviselőcsoport működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatásokat az Országgyűlés Hivatala biztosítja.
+
+118. § (1) A képviselőcsoport a 113. § (1) bekezdésében meghatározott keret, valamint a 114. § (3) bekezdésében meghatározott keret között év közben átcsoportosítást hajthat végre.
+
+(2) A képviselőcsoport vezetője a 112. § (3) bekezdésében, a 115. § (4) és (6) bekezdésében meghatározott keretből a 113. § (1) bekezdésében, illetve a 114. § (3) bekezdésében meghatározott keretre – a 112. § (3) bekezdésében meghatározott keret tekintetében a képviselő egyetértésével – év közben átcsoportosítást hajthat végre.
+
+(3) A (2) bekezdésben meghatározott átcsoportosítások során a munkáltatót terhelő járulékok összegét is figyelembe kell venni.
+
+(4) A képviselőcsoport havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatja az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1)–(2) bekezdésben meghatározott átcsoportosításokról.
+
+(5) A független képviselő esetében az (1)–(4) bekezdésben meghatározottakat megfelelően alkalmazni kell.
+
+#### 39. A volt képviselő juttatásai
+
+119. § (1) Ha a képviselő megbízatása az Országgyűlés megbízatásának megszűnésével szűnik meg, a volt képviselő további három hónapon keresztül a tiszteletdíjának a megbízatása megszűnését megelőző háromhavi átlagának megfelelő összegű ellátásra jogosult.
+
+(2) A volt képviselő kérelmére az ellátást egy összegben kell kifizetni.
+
+(3) Nem jogosult az (1) bekezdés szerinti ellátásra a volt képviselő,
+
+- a) ha a megbízatása megszűnését közvetlenül megelőző általános országgyűlési választáson mandátumot szerzett,
+- b) amíg a megbízatása megszűnését követően törvényben meghatározottak szerint nem tesz eleget vagyonnyilatkozat-tételi kötelezettségének.
+
+(4) A volt képviselő az (1) bekezdés szerinti időtartamra a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, az (1) bekezdés szerinti tiszteletdíja nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+
+#### 40. A házelnök és a volt házelnök javadalmazása
+
+120. § A házelnök javadalmazására és juttatásaira – a 122. §-ban foglalt eltérésekkel – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény a miniszterelnök javadalmazása és juttatása alcímében foglalt szabályokat kell alkalmazni.
+
+121. § (1) Ha a házelnök megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni.
+
+(2) A volt házelnök juttatásaira – a 122. §-ban foglalt eltérésekkel – a volt miniszterelnök juttatásaira vonatkozó szabályokat kell alkalmazni.
+
+122. § (1) A házelnököt és a volt házelnököt megillető juttatások igénybevételével kapcsolatban felmerült költségek fedezetét – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezete tartalmazza.
+
+(2) A juttatások biztosításához szükséges megállapodásokat az Országgyűlés Hivatala köti meg.
+
+(3) A házelnök külföldi kiküldetésével és utazásával kapcsolatos juttatások és szolgáltatások biztosítását az Országgyűlés Hivatala biztosítja.
+
+(4) A házelnök és a volt házelnök részére gépjárművezetőt az Országgyűlési Őrség biztosít.
+
+(5) A házelnök közcélú felajánlásaira, adományaira a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvénynek a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályait kell alkalmazni azzal, hogy az e célra szolgáló előirányzatot a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezete tartalmazza, az előirányzat felhasználására a házelnök írásbeli kötelezettségvállalása alapján kerül sor és a közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét az Országgyűlés honlapján kell közzétenni.
+
+(6) A házelnök és a volt házelnök juttatása tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 13. § (3a) bekezdésében foglaltakat nem kell alkalmazni.
 
 ## ÖTÖDIK RÉSZ — AZ ORSZÁGGYŰLÉS HIVATALI SZERVEZETE ÉS AZ ORSZÁGGYŰLÉSI ŐRSÉG
 
@@ -1101,7 +1423,9 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (4) A főigazgató e törvényben és határozati házszabályi rendelkezésekben meghatározottak szerint közreműködik az Országgyűlés döntéseinek előkészítésében, az e törvényben foglalt kivételekkel gyakorolja a fejezetet irányító szerv hatásköreit az Országgyűlés költségvetési fejezetébe sorolt fejezeti kezelésű előirányzatok és olyan költségvetési szervek tekintetében, amelyek esetében a költségvetési szerv vezetője nem bír fejezetet irányító szervi jogállással.
 
-(5) A főigazgató a háznaggyal azonos javadalmazásban részesül, jogállására egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+(4a) Az Országgyűlés ülésén a főigazgató által – a házelnök egyetértésével – kijelölt, az Országgyűlés Hivatalával szerződéses jogviszonyban álló személy részt vehet, de nem szólalhat fel.
+
+(5) A főigazgató a képviselői megbízatással nem rendelkező háznaggyal azonos javadalmazásban részesül, jogállására egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 124. § (1) Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a házelnök a Házbizottság egyetértésével, a Költségvetési bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
@@ -1327,7 +1651,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) A háznagyot az Országgyűlés első alkalommal 2012. december 31-ig választja meg. A főigazgatót a házelnök első alkalommal 2012. december 31-ig nevezi ki.
 
-(2a) A háznagy javadalmazása megegyezik a miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott – alapilletményből, illetménykiegészítésből, vezetői illetménypótlékból álló – illetményével, illetve egyéb, a miniszter részére jogszabályban biztosított juttatással. A háznagyi megbízatás időtartama a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek minősül, illetve nyugdíjra jogosító szolgálati időnek számít.
+(2a)
 
 (3) E törvény hatálybalépését követően az Országgyűlés, az Országház és a Parlament nevét, jelképeit az e törvény hatálybalépése előtti időponttól felhasználó 2012. december 31-ig kérvényezheti a házelnöknél a név-, illetve jelképhasználat engedélyeztetését.
 
@@ -1357,13 +1681,13 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § (6) bekezdése, a 48–52. §, a Harmadik rész, a 36. és 37. alcím, a 145. § (8) bekezdése, a 147. § (2)–(3) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 48–52. §, a Harmadik rész, a 36. és 37. alcím, a 145. § (8) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
-(4) A 10. alcím és a 147. § (1) bekezdése az Alaptörvény 7. cikk (3) bekezdése alapján sarkalatosnak minősül.
+(4) A 10. és a 10/A. alcím, valamint a 147. § (1) bekezdése az Alaptörvény 7. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-(5) Az Első rész, a 11. alcím, a 13. alcím, a 14/A–19. alcím, a IV–V/A. Fejezet, a XII. Fejezet, a 41. alcím, a 42. alcím, az 50. alcím, a 145. § (1)–(3), (7), (9), (11) és (12) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
+(5) Az Első rész, a 11. alcím, a 13. alcím, a 14/A–19. alcím, a IV–V/A. Fejezet, a VI/A. Fejezet, a XII. Fejezet, a 41. alcím, a 42. alcím, az 50. alcím, a 145. § (1)–(3), (7), (9), (11) és (12) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
 (6) E törvény
 
@@ -1387,7 +1711,11 @@ sarkalatosnak minősül.
 
 #### 53. Módosító rendelkezések
 
-#### 147. §
+147. § (1) A 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Vizsgálóbizottság létrehozását a képviselők egyötöde kezdeményezheti.”
+
+(2)–(3)
 
 148. § (1)
 
@@ -1407,7 +1735,11 @@ sarkalatosnak minősül.
 
 #### 152. §
 
-#### 153. §
+153. § A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 11. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kormánymegbízott további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
+
+(2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen.”
 
 #### 154. §
 
@@ -1417,7 +1749,131 @@ sarkalatosnak minősül.
 
 #### 157. §
 
-#### 158. §
+158. § (1) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény 137. § 1. pont a) alpontjában az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő és a nemzetiségi szószóló” szöveg lép.
+
+(2)
+
+(3) A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 20. § (3) bekezdésében az „országgyűlési képviselői” szövegrész helyébe az „országgyűlési képviselői, nemzetiségi szószólói” szöveg lép.
+
+(4) Az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvény 3/B. § (3) bekezdésében az „országgyűlési képviselői” szövegrész helyébe az „országgyűlési képviselői, a nemzetiségi szószólói” szöveg lép.
+
+(5) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény
+
+- a) 3. § 10. pontjában az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, a nemzetiségi szószóló”,
+- b) 16. § (1) bekezdésében az „országgyűlési képviselői” szövegrész helyébe az „országgyűlési képviselői, a nemzetiségi szószólói”,
+- c) 1. számú melléklet 8.10. pontjában az „országgyűlési képviselői” szövegrész helyébe az „országgyűlési képviselői és a nemzetiségi szószólói”,
+- d) 3. számú melléklet I. „Jellemzően előforduló költségek” fejezet 25. pontjában a „helyi önkormányzati képviselői” szövegrész helyébe a „helyi önkormányzati képviselői és a nemzetiségi szószólói”,
+- e) 3. számú melléklet I. „Jellemzően előforduló költségek” fejezet 25. pontjában az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő vagy nemzetiségi szószóló”
+
+szöveg lép.
+
+(6) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény
+
+- a) 15. § (3) bekezdésében az „országgyűlési képviselőre” szövegrész helyébe az „országgyűlési képviselőre, nemzetiségi szószólóra”,
+- b) 68. § (5) bekezdésében az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, a nemzetiségi szószóló”
+
+szöveg lép.
+
+(7) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 59. § (1) bekezdés c) pontjában az „európai parlamenti képviselővé” szövegrész helyébe az „európai parlamenti képviselővé, nemzetiségi szószólóvá” szöveg lép.
+
+(8) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 41/B. § (2) bekezdésében az „önkormányzati képviselő” szövegrész helyébe az „önkormányzati képviselő, nemzetiségi szószóló” szöveg lép.
+
+(9) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontjában az „országgyűlési képviselőt” szövegrész helyébe az „országgyűlési képviselőt és a nemzetiségi szószólót” szöveg lép.
+
+(10) Az ügyvédekről szóló 1998. évi XI. törvény
+
+- a) 6. § (2) bekezdés e) pontjában a „képviselői” szövegrész helyébe a „képviselői és a nemzetiségi szószólói”,
+- b) 18. § (1) bekezdésében az „országgyűlési képviselői” szövegrész helyébe az „országgyűlési képviselői, a nemzetiségi szószólói”
+
+szöveg lép.
+
+(11) A külföldre utazásról szóló 1998. évi XII. törvény
+
+- a) 11. § (3) bekezdésében az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, a nemzetiségi szószóló”,
+- b) 12. § (1) bekezdés b) pontjában és 32. §-ában az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, a nemzetiségi szószóló”
+
+szöveg lép.
+
+(12) A büntetőeljárásról szóló 1998. évi XIX. törvény 554/B. § b) pont ba) alpontjában az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, nemzetiségi szószóló” szöveg lép.
+
+(13) A társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9/B. § (6) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló” szöveg lép.
+
+(14) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 14. § (3) bekezdésében az „országgyűlési, illetőleg önkormányzati képviselő” szövegrész helyébe az „országgyűlési vagy helyi önkormányzati képviselő, valamint nemzetiségi szószóló” szöveg lép.
+
+(15) A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 62. § c) pontjában az „országgyűlési képviselővé” szövegrész helyébe az „országgyűlési képviselővé, nemzetiségi szószólóvá” szöveg lép.
+
+(16) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 35. § (2) bekezdésében az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, nemzetiségi szószóló” szöveg lép.
+
+(17) Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 8. § (2) bekezdés c) pontjában az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, nemzetiségi szószóló” szöveg lép.
+
+(18) A felsőoktatásról szóló 2005. évi CXXXIX. törvény 23. § (7) bekezdés e) pontjában a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló” szöveg lép.
+
+(19) A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 68. § (2) bekezdés f) pontjában a „képviselő” szövegrész helyébe a „képviselő, illetve nemzetiségi szószóló” szöveg lép.
+
+(20) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 26. § (6) bekezdésében az „országgyűlési képviselői” szövegrész helyébe az „országgyűlési képviselői, a nemzetiségi szószólói” szöveg lép.
+
+(21) Az állami vagyonról szóló 2007. évi CVI. törvény 20/F. § (1) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló” szöveg lép.
+
+(22) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 4. § (2) bekezdés b) pontjában a „képviselő” szövegrész helyébe a „képviselő és a nemzetiségi szószóló” szöveg lép.
+
+(23) A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 2. § (1) bekezdés e) pontjában az „európai parlamenti képviselő” szövegrész helyébe az „európai parlamenti képviselő, a nemzetiségi szószóló” szöveg lép.
+
+(24) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 4. § (3) bekezdés a) pontjában és 10. § (2) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló” szöveg lép.
+
+(25) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény
+
+- a) 9. § (1a) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő és a nemzetiségi szószóló”,
+- b) 9. § (3) bekezdés a) pontjában az „országgyűlési képviselők” szövegrész helyébe az „országgyűlési képviselők, nemzetiségi szószólók”
+
+szöveg lép.
+
+(26) A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 103. § (3) bekezdésében és 118. § (1) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló” szöveg lép.
+
+(27) A közbeszerzésekről szóló 2011. évi CVIII. törvény
+
+- a) 169. § (1) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő vagy nemzetiségi szószóló”
+- b) 179. § (5) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló”
+
+szöveg lép.
+
+(28) Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 5. § (5) bekezdésében az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, nemzetiségi szószóló” szöveg lép.
+
+(29) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 40. § (2) bekezdésében az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, nemzetiségi szószóló” szöveg lép.
+
+(30) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 54. § (2) bekezdés a) pontjában a „képviselő” szövegrész helyébe a „képviselő és a nemzetiségi szószóló” szöveg lép.
+
+(31) A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 70. § (1) bekezdés d) pontjában és 151. § (2) bekezdés c) pontjában a „képviselővé” szövegrész helyébe a „képviselővé, nemzetiségi szószólóvá” szöveg lép.
+
+(32) A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény
+
+- a) 8. § (3) bekezdésében az „európai parlamenti képviselő” szövegrész helyébe az „európai parlamenti képviselő, illetve a nemzetiségi szószóló”,
+- b) 39. § (2) bekezdésében a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló”,
+- c) 90. § f) pontjában a „képviselőnek” szövegrész helyébe a „képviselőnek, nemzetiségi szószólónak”,
+- d) 184. § (3) bekezdésében az „országgyűlési képviselőként” szövegrész helyébe az „országgyűlési képviselőként, a nemzetiségi szószólóként”
+
+szöveg lép.
+
+(33) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
+
+- a) 14. § (2) bekezdés d) pontjában az „országgyűlési képviselői megbízatásának” szövegrész helyébe az „országgyűlési képviselői megbízatásának, illetve a volt nemzetiségi szószóló a nemzetiségi szószólói megbízatásának”,
+- b) 22. § (1) bekezdés e) pontjában, 24. § (1) bekezdés d) pontjában, 34. § f) pontjában és 48. § (2) bekezdésében a „képviselővé” szövegrész helyébe a „képviselővé, nemzetiségi szószólóvá”,
+- c) 44. § (1) bekezdésében a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló”,
+- d) 48. § (3) bekezdésében a „képviselői” szövegrész helyébe a „képviselői, a nemzetiségi szószólói”
+
+szöveg lép.
+
+(34) Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 66. § (1) bekezdés b) pontjában az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, nemzetiségi szószóló” szöveg lép.
+
+(35) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény
+
+- a) 8. § (7) bekezdésében a „képviselői” szövegrész helyébe a „képviselői, a nemzetiségi szószólói”,
+- b) 216. § (1) bekezdés d) pontjában és 221. § (1) bekezdés d) pontjában a „képviselővé” szövegrész helyébe a „képviselővé, nemzetiségi szószólóvá”
+
+szöveg lép.
+
+(36) Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 1. § (1) bekezdésében az „országgyűlési képviselő” szövegrész helyébe az „országgyűlési képviselő, a nemzetiségi szószóló” szöveg lép.
+
+(37) A Magyar Nemzeti Bankról szóló 2011. évi CCVIII. törvény 55. § (1) bekezdésében a „képviselő” szövegrész helyébe a „képviselő, nemzetiségi szószóló” szöveg lép.
 
 #### 159. §
 
@@ -1426,16 +1882,16 @@ sarkalatosnak minősül.
 160. § (1) Hatályát veszti
 
 - a)
-- b)
+- b) az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény,
 - c)–g)
-- h)
+- h) az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény módosításáról szóló 2011. évi LIX. törvény.
 
 (2) Hatályát veszti
 
 - a)–b)
 - c)
 
-(3)
+(3) Hatályát veszti a 81–83. §, a 84. § a)–g) pontja, a 89. § e) és f) pontja, a 96. § (1) bekezdése, valamint a 109. § (8) és (9) bekezdése.
 
 (4)
 

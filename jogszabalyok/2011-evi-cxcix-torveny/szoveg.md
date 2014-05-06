@@ -122,7 +122,7 @@ terjed ki.
 
 (6) Az (5) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e, vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
 
-(7) Az országgyűlési, az európai parlamenti, az önkormányzati képviselői és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnését követően a köztisztviselő ismételten közszolgálati jogviszonyt, illetve a kormánytisztviselő kormányzati szolgálati jogviszonyt létesít – a közszolgálati, illetve kormányzati szolgálati jogviszonyban töltött időnek kell tekinteni.
+(7) Az országgyűlési, az európai parlamenti, az önkormányzati képviselői, a nemzetiségi szószólói és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnését követően a köztisztviselő ismételten közszolgálati jogviszonyt, illetve a kormánytisztviselő kormányzati szolgálati jogviszonyt létesít – a közszolgálati, illetve kormányzati szolgálati jogviszonyban töltött időnek kell tekinteni.
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
@@ -3055,7 +3055,7 @@ munkanapra emelkedik.
 - a) halálával,
 - b) ha az országgyűlési képviselők választásán már nem választható,
 - c) összeférhetetlenségének megállapításával, vagy
-- d) országgyűlési, helyi önkormányzati képviselővé, polgármesterré vagy politikai vezetővé történő megválasztásával, illetve kinevezésével,
+- d) országgyűlési, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, polgármesterré vagy politikai vezetővé történő megválasztásával, illetve kinevezésével,
 - e) hivatalvesztés fegyelmi büntetéssel.
 
 (2) A közigazgatási államtitkár kormányzati szolgálati jogviszonya megszüntethető:
@@ -3129,7 +3129,7 @@ munkanapra emelkedik.
 - a) halálával,
 - b) ha az országgyűlési képviselők választásán már nem választható,
 - c) összeférhetetlenségének megállapításával, vagy
-- d) országgyűlési, helyi önkormányzati képviselővé, polgármesterré, politikai vezetővé vagy érdek-képviseleti szervezet tisztségviselőjévé történő megválasztásával, illetve kinevezésével,
+- d) országgyűlési, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, polgármesterré, politikai vezetővé vagy érdek-képviseleti szervezet tisztségviselőjévé történő megválasztásával, illetve kinevezésével,
 - e) hivatalvesztés fegyelmi büntetéssel.
 
 (2) A helyettes államtitkár kormányzati szolgálati jogviszonya megszüntethető:

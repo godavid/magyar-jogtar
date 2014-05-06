@@ -1425,7 +1425,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (2) A Közalapítvány induló vagyonát az Országgyűlés országgyűlési határozatban állapítja meg.
 
-(3) A Közalapítvány alapító okiratát az Országgyűlés a jelenlévő képviselők kétharmados szavazatával fogadja el, illetve módosíthatja. A Közalapítvány működésének és szervezetének e törvényben és az alapító okiratban nem szabályozott kérdéseit a Közalapítvány Szervezeti és Működési Szabályzatában kell meghatározni.
+(3) A Közalapítvány alapító okiratát az Országgyűlés fogadja el, illetve módosíthatja. A Közalapítvány működésének és szervezetének e törvényben és az alapító okiratban nem szabályozott kérdéseit a Közalapítvány Szervezeti és Működési Szabályzatában kell meghatározni.
 
 (4) A Közalapítványra e törvény eltérő rendelkezése hiányában az alapítványokra vonatkozó általános szabályokat kell alkalmazni.
 
@@ -1441,7 +1441,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 ### A Kuratórium összetétele
 
-86. § (1) Az Országgyűlés a Kuratóriumba egyenkénti szavazással a jelenlevő képviselők kétharmadának szavazatával hat tagot választ.
+86. § (1) Az Országgyűlés a Kuratóriumba egyenkénti szavazással hat tagot választ.
 
 (2) Az Országgyűlés által a Kuratóriumba választható tagok felét a kormánypárti, másik felét az ellenzéki képviselőcsoportok jelölik. A kormány-, illetve az ellenzéki oldalhoz tartozó képviselőcsoportok egymás között állapodnak meg az adott oldal által jelölhető személyekről.
 
@@ -1473,7 +1473,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (6) Ha a jelölőbizottság a (4) bekezdés szerinti esetben sem tud kellő számú jelöltet állítani, új jelölőbizottságot kell felállítani.
 
-(7) Az eredményes jelölést követően az új tagot az Országgyűlés a jelenlevő képviselők kétharmadának szavazatával választja meg a már működő megválasztott Kuratórium tagjai mandátumának lejártáig terjedő időszakra. A Kuratórium új tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint esküt tesz.
+(7) Az eredményes jelölést követően az új tagot az Országgyűlés választja meg a már működő megválasztott Kuratórium tagjai mandátumának lejártáig terjedő időszakra. A Kuratórium új tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint esküt tesz.
 
 (8) Amennyiben a Kuratórium elnökének vagy a Médiatanács által delegált tagjának szűnik meg a mandátuma annak lejárta előtt, a Médiatanács tizenöt napon belül új elnököt, illetve tagot delegál a Kuratórium tagjai mandátumának lejártáig terjedő időszakra.
 
@@ -1496,7 +1496,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 89. § (1) A Kuratórium elnöke vagy tagja megbízatásának összeférhetetlenség, felmentés vagy kizárás miatti megszűnését a Kuratórium teljes ülése állapítja meg, és hirdeti ki.
 
-(2) Ha a Kuratórium teljes ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Kuratórium elnöke kezdeményezi e tárgyban az Országgyűlésnek döntését. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával dönt.
+(2) Ha a Kuratórium teljes ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Kuratórium elnöke kezdeményezi e tárgyban az Országgyűlés döntését. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról az Országgyűlés dönt.
 
 (3) Amennyiben az összeférhetetlenség gyanúja a Kuratórium elnökével szemben merült fel, az (5)–(6) bekezdés szerinti eljárásokban az elnök jogkörében a Kuratórium ügyrendje szerint meghatározott tag jár el.
 
@@ -1751,7 +1751,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (2) Szakmai gyakorlatnak tekintendő a műsorkészítési, műsorszolgáltatási, tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, vezetői, igazgatási, gazdasági, kulturális, tudományos és közvéleménykutatási tevékenység.
 
-(3) Nem nevezhető ki a közszolgálati médiaszolgáltató vezérigazgatójává, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
+(3) Nem nevezhető ki a közszolgálati médiaszolgáltató vezérigazgatójává, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, nemzetiségi szószóló, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
 
 (4) A közszolgálati médiaszolgáltató vezérigazgatója büntetlen előélete igazolásának rendjére és az alkalmazandó jogkövetkezményekre a munka törvénykönyvében meghatározottakat kell alkalmazni.
 
@@ -2084,7 +2084,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 118. § (1) Az Elnök, az elnökhelyettes, a főigazgató, a főigazgató-helyettes nem lehet
 
-- a) köztársasági elnök, miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- a) köztársasági elnök, miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
 - b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 - c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja,
@@ -2161,7 +2161,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (9) Az NHIT működéséhez szükséges forrásokat a Hatóság költségvetésén belül kell biztosítani. A források más célra nem csoportosíthatók át.
 
-(10) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente jelentést készít az Országgyűlés illetékes bizottságának.
+(10) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente tájékoztatót készít az Országgyűlés feladatkörrel rendelkező bizottságának.
 
 122. § (1) Az NHIT Irodája (a továbbiakban: Iroda) a Hatóság szervezeti egysége, melynek vezetője irodaigazgató cím használatára jogosult.
 
@@ -2193,7 +2193,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 ### A Médiatanács választása
 
-124. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés – a jelenlévő országgyűlési képviselők kétharmadának szavazatával – kilenc évre választja egyidejű, listás szavazással, kivéve, ha az elnök megbízatása a 113. § (1) bekezdés b)–e) pontjában, a tag megbízatása pedig a 129. § (1) bekezdés b)–f) pontjában foglalt valamely okból szűnik meg. Utóbbi esetben az elnök-, illetve a tagjelöltről az Országgyűlés külön szavaz.
+124. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés kilenc évre választja egyidejű, listás szavazással, kivéve, ha az elnök megbízatása a 113. § (1) bekezdés b)–e) pontjában, a tag megbízatása pedig a 129. § (1) bekezdés b)–f) pontjában foglalt valamely okból szűnik meg. Utóbbi esetben az elnök-, illetve a tagjelöltről az Országgyűlés külön szavaz.
 
 (2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint rendelkezik felsőfokú végzettséggel és
 
@@ -2231,7 +2231,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (2) A Médiatanács elnöke és tagja a megválasztásával, illetve – ha megválasztására hivatali elődje megbízatásának megszűnését megelőzően kerül sor – hivatali elődje megbízatásának megszűnésekor hivatalba lép.
 
-(3) Ha a Hatóság Elnökének a megbízatása a 113. § (1) bekezdés b)–d) pontok szerint megszűnik, akkor ezzel egyidejűleg megszűnik a Médiatanács elnökségére vonatkozó megbízatása is. Amennyiben a Hatóság Elnökének megbízatása lejár, úgy a 216. § (8) bekezdésben foglaltakat kell alkalmazni. A Hatóság köztársasági elnök által kinevezett új Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik. Megválasztásáról – a 124. § (1) bekezdésben foglaltak szerint listás vagy külön szavazással – az Országgyűlés jelenlevő képviselőinek kétharmada dönt.
+(3) Ha a Hatóság elnökének a megbízatása a 113. § (1) bekezdés b)–d) pontja szerint megszűnik, akkor ezzel egyidejűleg megszűnik a Médiatanács elnökségére vonatkozó megbízatása is. Amennyiben a Hatóság elnökének megbízatása lejár, úgy a 216. § (8) bekezdésében foglaltakat kell alkalmazni. A Hatóság köztársasági elnök által kinevezett új elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik. Megválasztásáról – a 124. § (1) bekezdésében foglaltak szerint listás vagy külön szavazással – az Országgyűlés dönt.
 
 (4)
 
@@ -2285,7 +2285,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 - a) ha a Médiatanács elnöke vagy tagja neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak,
 - b) ha a Médiatanács elnökével vagy tagjával szemben lefolytatott büntetőeljárás eredményeként az elnök vagy a tag bűnösségét a bíróság – szabadságvesztés vagy a Médiatanács elnöke vagy tagja tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
 
-(7) Ha a Médiatanács ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Médiatanács elnöke az Országgyűlésnek javasolja a döntés meghozatalát. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról a jelenlévő képviselők kétharmadának szavazatával az Országgyűlés dönt.
+(7) Ha a Médiatanács ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Médiatanács elnöke az Országgyűlésnek javasolja a döntés meghozatalát. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról az Országgyűlés dönt.
 
 (8) A Médiatanács elnöke esetében a (3), (6) és (7) bekezdés szerinti eljárásokban az elnök jogkörében az ügyrend szerint meghatározott tag jár el.
 

@@ -241,7 +241,7 @@ hívja össze.
 - a) kinevezését megelőzően korábban legalább három évig ügyészként, illetve katonai ügyészként működött, vagy
 - b) kinevezését közvetlenül megelőzően alkotmánybíróként, bíróként, katonai bíróként működött, nemzetközi szervezetnél vagy az Európai Unió Bíróságán ítélkezett, az Európai Unió Bíróságán főtanácsnokként működött, és az e pontban, valamint az a) pontban említett munkakörökben, tevékenységekkel együttesen legalább hároméves szakmai gyakorlatot szerzett, vagy
 - c) kiemelkedő elméleti jogi jártasságot szerzett a tudomány vagy az oktatás területén, vagy
-- d) a volt országgyűlési képviselő az országgyűlési képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ügyésszé történő ismételt kinevezését kéri, és a kinevezéshez szükséges feltételekkel rendelkezik, ide nem értve a pályaalkalmassági vizsgálaton való részvételt, vagy
+- d) a volt országgyűlési képviselő az országgyűlési képviselői megbízatásának, illetve a volt nemzetiségi szószóló a nemzetiségi szószólói megbízatásának megszűnésekor úgy nyilatkozott, hogy ügyésszé történő ismételt kinevezését kéri, és a kinevezéshez szükséges feltételekkel rendelkezik, ide nem értve a pályaalkalmassági vizsgálaton való részvételt, vagy
 - e) a volt európai parlamenti képviselő az európai parlamenti képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ügyésszé történő ismételt kinevezését kéri, és a kinevezéshez szükséges feltételekkel rendelkezik, ide nem értve a pályaalkalmassági vizsgálaton való részvételt.
 
 15. § (1) Az ügyészségi szolgálati viszony a kinevezéssel (megválasztással) és annak elfogadásával jön létre.
@@ -339,7 +339,7 @@ véleményét a pályázóról.
 - b) felmentésével;
 - c) lemondásával;
 - d) hetvenedik életévének a betöltésével;
-- e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
+- e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 - f) összeférhetetlenségének megállapításával (47. §);
 - g) hivatalvesztése kimondásával;
 - h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
@@ -376,7 +376,7 @@ véleményét a pályázóról.
 - a) felmentésével;
 - b) lemondásával;
 - c) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
-- d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
+- d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - e) összeférhetetlenségének megállapításával (47. §);
 - f) hivatalvesztése kimondásával;
 - g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
@@ -505,7 +505,7 @@ véleményét a pályázóról.
 - c) lemondásával;
 - d) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
 - e) rendkívüli lemondásával;
-- f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
+- f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - g) összeférhetetlenségének megállapításával;
 - h) hivatalvesztés fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
 - i) a bíróságnak vele szemben szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
@@ -621,7 +621,7 @@ véleményét a pályázóról.
 
 ### V. Fejezet — AZ ÖSSZEFÉRHETETLENSÉG
 
-44. § (1) Az ügyész nem lehet országgyűlési, európai parlamenti, önkormányzati képviselő, polgármester és állami vezető.
+44. § (1) Az ügyész nem lehet országgyűlési, európai parlamenti, önkormányzati képviselő, nemzetiségi szószóló, polgármester és állami vezető.
 
 (2) Összeférhetetlenség miatt meg kell szüntetni a legfőbb ügyész, a legfőbb ügyész helyettes ügyészségi szolgálati jogviszonyát, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
 
@@ -658,9 +658,9 @@ véleményét a pályázóról.
 
 48. § (1) Ha az ügyész országgyűlési, európai parlamenti, önkormányzati képviselői, illetve polgármesteri választáson jelöltetni kívánja magát, köteles e szándékát – a jelöltkénti indulásnak a választási szervnél való bejelentését követő napig – a munkáltatói jogkör gyakorlójának bejelenteni. A bejelentéstől a választás eredményének közzétételéig, illetve megválasztása esetén mandátuma igazolásáig az ügyész ügyészségi szolgálati viszonya szünetel. A szünetelés időtartama ügyészségi szolgálati viszonyban töltött időnek minősül.
 
-(2) Az ügyész ügyészségi szolgálati viszonya az országgyűlési, az európai parlamenti, önkormányzati képviselővé, illetve polgármesterré történő megválasztásával megszűnik.
+(2) Az ügyész ügyészségi szolgálati viszonya az országgyűlési, az európai parlamenti, önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával megszűnik.
 
-(3) Az országgyűlési, európai parlamenti, önkormányzati képviselői és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnésekor az ügyész ismét ügyészségi szolgálati viszonyt létesít – ügyészségi szolgálati viszonyban töltött időnek kell tekinteni.
+(3) Az országgyűlési, európai parlamenti, önkormányzati képviselői, a nemzetiségi szószólói és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnésekor az ügyész ismét ügyészségi szolgálati viszonyt létesít – ügyészségi szolgálati viszonyban töltött időnek kell tekinteni.
 
 #### 19. Igazolási kötelezettség
 

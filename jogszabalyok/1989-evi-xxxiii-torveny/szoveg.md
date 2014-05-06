@@ -8,7 +8,10 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 1. § E törvény hatálya azokra az egyesületekre terjed ki, amelyek nyilvántartott tagsággal rendelkeznek, és amelyek a nyilvántartásba vételüket végző bíróság előtt kinyilvánítják, hogy e törvény rendelkezéseit magukra nézve kötelezőnek ismerik el.
 
-1/A. § A pártra – ha e törvény eltérően nem rendelkezik – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvénynek (a továbbiakban: Ectv.) a civil szervezetek felszámolási és végelszámolási eljárására vonatkozó rendelkezéseit, valamint az Ectv. 11. § (3), (6) és (7) bekezdésének a civil szervezetekre irányadó rendelkezését megfelelően alkalmazni kell.
+1/A. § A pártra
+
+- a) – ha e törvény eltérően nem rendelkezik – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvénynek (a továbbiakban: Ectv.) a civil szervezetek egyesülésére, szétválására, felszámolási és végelszámolási eljárására vonatkozó rendelkezéseit, és
+- b) az Ectv. 11. § (3)–(5), (6) és (7) bekezdését megfelelően alkalmazni kell.
 
 ### II. Fejezet — A párt működése
 
@@ -18,21 +21,30 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (3) Párt alapítója és tisztségviselője csak olyan személy lehet, aki az országgyűlési képviselők választásán vagy a helyi önkormányzati képviselők és polgármesterek választásán választható.
 
-(4) A párt tagja a párt szervei által hozott határozat ellen csak az egyesülési jogról szóló törvény és a Polgári törvénykönyv egyesületekre vonatkozó rendelkezései, vagy e törvény megsértése esetén indíthat pert.
+(4) A párt tagja a párt szervei által hozott határozat ellen csak az Ectv. és a Polgári törvénykönyv egyesületekre vonatkozó rendelkezései, vagy e törvény megsértése esetén indíthat pert.
 
-(5) A párt törvénysértése esetén az ügyész keresetet indít a párt ellen.
+(5) Az ügyész törvényességi ellenőrzési jogkörét a pártok működése felett az e törvényben meghatározottak szerint gyakorolja. A párt törvénysértése esetén az ügyész keresetet indít a párt ellen.
 
 (6)
 
 ### III. Fejezet — A párt megszűnése
 
-3. § (1) A párt megszűnhet:
+3. § (1) A párt jogutóddal szűnik meg, ha
 
-- a) más párttal való egyesüléssel,
-- b) két vagy több pártra való szétválással,
-- c) feloszlással,
-- d) a bíróság által való feloszlatással vagy
-- e) megszűnésének megállapításával.
+- a) más párttal összeolvad,
+- b) más pártba beolvad, vagy
+- c) több pártra válik külön.
+
+(1a) A párt jogutód nélkül szűnik meg, ha
+
+- a) feloszlik,
+- b) a bíróság feloszlatja,
+- c) a bíróság megszünteti, vagy
+- d) a bíróság megállapítja megszűnését,
+
+és a párt vagyoni viszonyainak lezárására irányuló megfelelő eljárás lefolytatását követően a bíróság a pártot a nyilvántartásból törli.
+
+(1b) Pártból való kiválás esetén jogutód csak párt lehet.
 
 (2) A bíróság az ügyészség indítványára megállapítja a párt megszűnését, ha az tevékenységével felhagy és vagyonáról nem rendelkezik.
 
@@ -53,6 +65,8 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 - b) azt a tényt, hogy a hitelezők kielégítése után vagyona nem maradt, vagy
 - c) hogy fennmaradó vagyonát a 8. § (1) bekezdése szerinti alapítvány tulajdonába adta.
 
+(8) A bíróság a párt bírósági nyilvántartásból való törléséről rendelkező jogerős határozatáról értesíti az Országgyűlés elnökét.
+
 3/A. § (1) A párt megszűnése esetén egyszerűsített törlési eljárásnak nincs helye.
 
 (2) A párt ellen csődeljárásnak nincs helye.
@@ -69,9 +83,9 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 3/C. § (1) A párt a felszámolás elrendelését követően az 5. § szerinti támogatásra nem jogosult.
 
-(2) A párt felszámolás körébe tartozó vagyonának és kötelezettségállományának megállapítása érdekében a bíróság a felszámolás jogerős elrendelését követő 45 napon belül nyilvános meghallgatást tart. A meghallgatásra megidézi a párt felszámolása elrendelését megelőzően 10 éven belüli vezető tisztségviselőit, a felszámolót, továbbá az ideiglenes vagyonfelügyelőt, ha ideiglenes vagyonfelügyelő kirendelésére is sor került. A párt vezető tisztségviselője a meghallgatáson tesz eleget a Cstv. 31. §-a szerinti iratátadási és nyilatkozattételi kötelezettségeknek, a korábbi vezető tisztségviselők a bíróság kérésére nyilatkozatot tesznek a párt vagyonára és kötelezettségeire vonatkozó, a vezetésük alatti időszak adatairól. A párt vezető tisztségviselője a meghallgatáson adja át a felszámolónak a záróleltárt, a tevékenységet lezáró mérlegre irányadó szabályok szerint elkészített záró beszámolót, az e törvény előírásai szerint készített beszámolót, a törtévre vonatkozóan is. A párt vezető tisztségviselőjének igazolnia kell továbbá, hogy a párt eleget tett az adózás rendjéről szóló törvény szerinti záró adóbevallási kötelezettségének is.
+(2) A párt felszámolás körébe tartozó vagyonának és kötelezettségállományának megállapítása érdekében a bíróság a felszámolás jogerős elrendelését követő 45 napon belül nyilvános meghallgatást tart. A meghallgatásra meg kell idézni a párt vezető tisztségviselőit, a pártnak a párt felszámolása elrendelését megelőző 10 évben közreműködő vezető tisztségviselőit, a felszámolót, továbbá az ideiglenes vagyonfelügyelőt, ha ideiglenes vagyonfelügyelő kirendelésére is sor került. A párt vezető tisztségviselője a meghallgatáson tesz eleget a Cstv. 31. §-a szerinti iratátadási és nyilatkozattételi kötelezettségeknek, a korábbi vezető tisztségviselők a bíróság kérésére nyilatkozatot tesznek a párt vagyonára és kötelezettségeire vonatkozó, a vezetésük alatti időszak adatairól. A párt vezető tisztségviselője a meghallgatáson adja át a felszámolónak a záróleltárt, a tevékenységet lezáró mérlegre irányadó szabályok szerint elkészített záró beszámolót, az e törvény előírásai szerint készített pénzügyi kimutatást, a törtévre vonatkozóan is. A párt vezető tisztségviselőjének igazolnia kell továbbá, hogy a párt eleget tett az adózás rendjéről szóló törvény szerinti záró adóbevallási kötelezettségének is.
 
-(3) A bíróság a (2) bekezdésben meghatározott kötelezettségek megszegése esetén a párt vezető tisztségviselőjére (korábbi vezető tisztségviselőjére) 100 000 Ft-tól 900 000 Ft-ig terjedő összegű pénzbírságot szab ki. A bírság ismételten is kiszabható.
+(3) A bíróság a (2) bekezdésben meghatározott kötelezettségek megszegése esetén a párt vezető tisztségviselőjére, illetve a párt korábbi vezető tisztségviselőjére 100 000 Ft-tól 900 000 Ft-ig terjedő összegű pénzbírságot szab ki. A bírság ismételten is kiszabható.
 
 3/D. § (1) A párttal szemben egyszerűsített felszámolásnak nincs helye.
 
@@ -90,7 +104,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 ### IV. Fejezet — A párt vagyona és gazdálkodása
 
-4. § (1) A párt vagyona a tagok által fizetett díjakból, a központi költségvetésből juttatott támogatásból, az állam által az 5. § alapján ingyenesen átadott ingatlanokból, magyar állampolgár természetes személyek vagyoni hozzájárulásaiból, végintézkedés alapján természetes személyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdálkodó tevékenységéből, illetve a párt által alapított egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
+4. § (1) A párt vagyona a tagok által fizetett díjakból, a központi költségvetésből juttatott támogatásból, az állam által az 5. § alapján ingyenesen átadott ingatlanokból, magyar állampolgár természetes személyek vagyoni hozzájárulásaiból, végintézkedés alapján természetes személyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdasági-vállalkozási tevékenységéből, illetve a párt által alapított egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
 
 (2) A párt részére – az (1) bekezdésben foglalt kivételektől eltekintve – jogi személy, jogi személyiséggel nem rendelkező szervezet vagyoni hozzájárulást nem adhat, a párt jogi személytől, jogi személyiséggel nem rendelkező szervezettől vagyoni hozzájárulást nem fogadhat el.
 
@@ -104,16 +118,16 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) A párt e törvény rendelkezései szerint támogatásra jogosult. A központi költségvetésről szóló törvényben a pártok támogatására fordítható összeg 25%-át — egyenlő arányban — az Országgyűlésben az országos listán mandátumot szerzett pártok között kell felosztani. A fennmaradó 75%-nak megfelelő összeg, az országgyűlési választások eredménye alapján a pártra, illetőleg a párt jelöltjeire leadott szavazatok arányában illeti meg a pártokat. Nem jogosult támogatásra az a párt, amely a szavazáson részt vett választók szavazatának 1%-át nem szerzi meg.
 
-(3) A támogatás felosztása szempontjából a választás eredményét első ízben a képviselői megbízatás érvényességének megállapítását követő hónap első napjától kell figyelembe venni.
+(3) A támogatás felosztása szempontjából a választás eredményét az Országgyűlés alakuló ülését követő hónap első napjától kell figyelembe venni.
 
 (4) A pártok támogatására fordítandó összeget a központi költségvetésről szóló törvény állapítja meg. A támogatások kifizetése negyedévenként történik, a negyedév első napján.
 
-6. § (1) A párt a költségeinek fedezése és vagyonának gyarapítása érdekében a következő gazdálkodó tevékenységeket folytathatja:
+6. § (1) A párt a költségeinek fedezése és vagyonának gyarapítása érdekében a következő gazdasági-vállalkozási tevékenységeket folytathatja:
 
 - a) politikai céljainak és tevékenységének megismertetése érdekében kiadványokat jelentethet meg és terjeszthet, a pártot szimbolizáló jelvényeket és más ilyen célú tárgyakat árusíthat, és pártrendezvényeket szervezhet;
 - b) a tulajdonában álló ingatlanokat és ingókat díj ellenében hasznosíthatja és elidegenítheti.
 
-(2) A pártnak az (1) bekezdésben említett gazdálkodó tevékenysége után társasági adót nem kell fizetnie.
+(2) A pártnak az (1) bekezdésben említett gazdasági-vállalkozási tevékenysége után társasági adót nem kell fizetnie.
 
 (3) A párt egyszemélyes korlátolt felelősségű társaságot alapíthat, azonban más gazdasági társaságban részesedést nem szerezhet.
 
@@ -121,13 +135,13 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (5) Ha a párt az (1)—(4) bekezdésben foglalt szabályokat megsérti a 4. § (4) bekezdésben meghatározott jogkövetkezményeket kell megfelelően alkalmazni.
 
-7. § Ha a párt a 3. § (1) bekezdésének a) vagy b) pontjában foglaltaknak megfelelően szűnik meg, vagyona a jogutód párt tulajdonába kerül. Szétválás esetén a vagyon megosztásának arányát és módját a párt határozza meg.
+7. § Ha a párt más párttal összeolvad, más pártba beolvad, vagy több pártra válik külön, vagyona a jogutód párt tulajdonába kerül. Szétválás esetén a vagyon megosztásának arányát és módját a párt szétválási tervben határozza meg.
 
-8. § (1) Ha a párt a 3. § (1) bekezdése c)-e) pontjának megfelelően szűnik meg, a hitelezők kielégítése után fennmaradó vagyonát az Országgyűlés által létrehozott alapítvány tulajdonába kell adni. Az alapítvány részletes céljait és felhasználásának módját az Országgyűlés által kiküldött — az országos listán mandátumot szerzett pártok egy-egy képviselőjéből álló — bizottság dolgozza ki. Az alapítvány létrehozásához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.
+8. § (1) Ha a párt kimondja feloszlását vagy a bíróság feloszlatja, megszünteti vagy megállapítja megszűnését, a hitelezők kielégítése után fennmaradó vagyonát az Országgyűlés által létrehozott alapítvány tulajdonába kell adni. Az alapítvány részletes céljait és felhasználásának módját az Országgyűlés által kiküldött – az országos listán mandátumot szerzett pártok egy-egy képviselőjéből álló – bizottság dolgozza ki.
 
 (2) Ha a párt a feloszlásának kimondásával szűnik meg, az (1) bekezdésben említett alapítványt maga is létrehozhatja, vagy a hitelezők kielégítése után fennmaradó vagyonát már működő alapítvány javára felajánlhatja.
 
-9. § (1) A pártok kötelesek minden év április 30-áig az előző évi gazdálkodásukról szóló beszámolót (zárszámadást) a Magyar Közlönyben, valamint saját honlappal rendelkező pártok a honlapjukon is – e törvény 1. számú mellékletében meghatározott minta szerint – közzétenni.
+9. § (1) A pártok kötelesek minden év május 31-ig az 1. számú melléklet szerinti pénzügyi kimutatást a Magyar Közlönyben, valamint saját honlappal rendelkező pártok a honlapjukon is közzétenni.
 
 (2) A pénzügyi kimutatásban az egy naptári év alatt adott, ötszázezer forintot meghaladó hozzájárulásokat – a hozzájárulást adó megnevezésével és az összeg megjelölésével – külön kell feltüntetni.
 
@@ -146,7 +160,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (4) A támogatásra jogosult alapítványok támogatásának naptári évre számított összege nem lehet alacsonyabb, mint a központi költségvetésről szóló törvényben a tárgyévet megelőző évben a pártok működését segítő, tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványok támogatására tervezett előirányzatok összege.
 
-(5) A támogatás az alapítványt az azt alapító pártra, valamint e párt jelöltjeire az országgyűlési képviselők utolsó általános választásán leadott szavazatok arányában illeti meg.
+(5) A támogatás az alapítványt az azt alapító pártra, valamint e párt jelöltjeire az országgyűlési képviselők legutóbbi általános választásán leadott szavazatok arányában illeti meg.
 
 (6) A támogatás felosztása szempontjából az országgyűlési képviselők általános választásának eredményét első ízben az Országgyűlés megalakulását követő naptári negyedév első napjától kell figyelembe venni.
 
@@ -162,7 +176,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (3) Az Állami Számvevőszék kétévenként ellenőrzi azoknak a pártoknak a gazdálkodását, amelyek a központi költségvetésből rendszeres támogatásban részesültek.
 
-(4) Ha az Állami Számvevőszék azt észleli, hogy a párt gazdálkodása körében jogellenesen járt el, felhívja a törvényes állapot helyreállítására. Súlyosabb törvénysértés esetén, vagy ha a párt nem tesz eleget a felhívásnak, az Állami Számvevőszék elnöke indítványozza a bíróság eljárását.
+(4) Ha az Állami Számvevőszék azt észleli, hogy a párt gazdálkodása körében jogellenesen járt el, felhívja a törvényes állapot helyreállítására. Súlyosabb törvénysértés esetén, vagy ha a párt nem tesz eleget a felhívásnak, az Állami Számvevőszék elnöke az ügyész Ectv. 11. § (3) bekezdésének megfelelő eljárását indítványozza.
 
 ### VI. Fejezet — Záró rendelkezések
 
@@ -188,7 +202,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 ### 1. számú melléklet a pártok működéséről és gazdálkodásáról szólótörvényhez
 
-A pártok beszámolója
+Pénzügyi kimutatás
 
 Bevételek:
 

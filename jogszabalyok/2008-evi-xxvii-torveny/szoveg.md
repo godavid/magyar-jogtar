@@ -2,9 +2,14 @@
 
 egyes közjogi tisztségviselők esküjéről és fogadalmáról
 
-1. § (1) Az országgyűlési bizottság tagja és tisztségviselője kivételével az Országgyűlés által megválasztott személy, az országgyűlési képviselő, valamint a nemzetiségi szószóló (a továbbiakban együtt: közjogi tisztségviselő) a megválasztását követően az Országgyűlés előtt a melléklet szerinti szöveggel esküt vagy fogadalmat (a továbbiakban együtt: eskü) tesz.
+1. § (1) A megválasztását követően
 
-(2) Az eskütételről a közjogi tisztségviselő okmányt ír alá.
+- a) az országgyűlési képviselő és – az Országgyűlés alelnöke, jegyzője, képviselői megbízatással rendelkező háznagya, az országgyűlési bizottság elnöke és tagja kivételével – az Országgyűlés által megválasztott személy az Országgyűlés előtt,
+- b) a nemzetiségi szószóló az Országgyűlés elnöke előtt a melléklet szerinti szöveggel esküt vagy fogadalmat (a továbbiakban: eskü) tesz.
+
+(2) A nemzetiséghez tartozó országgyűlési képviselő, a nemzetiségi listáról mandátumot szerző országgyűlési képviselő és a nemzetiségi szószóló az esküt választása szerint magyarul vagy nemzetiségi nyelven teszi.
+
+(3) Az eskütételről a közjogi tisztségviselő – magyarul vagy az eskütétel nemzetiségi nyelve szerinti hiteles fordításban kiállított – okmányt ír alá.
 
 2. §
 

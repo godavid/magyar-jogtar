@@ -224,7 +224,7 @@ gyakorolja.
 
 20/F. § (1) Az Igazgatóság, illetőleg a Felügyelő Bizottság tagja nem lehet
 
-- a) országgyűlési, illetőleg önkormányzati képviselő, miniszter, polgármester, főpolgármester;
+- a) országgyűlési, illetőleg önkormányzati képviselő, nemzetiségi szószóló, miniszter, polgármester, főpolgármester;
 - b) aki büntetett előéletű;
 - c) aki gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll;
 - d) gazdasági társaság megszüntetési eljárás során való törlését követő két évig az a személy, aki a törlést megelőző naptári évben a gazdasági társaságnál vezető tisztségviselő volt.

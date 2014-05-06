@@ -267,7 +267,7 @@ terheli.
 
 (2) A Bizottság jogosult a nemzetbiztonsági szolgálatok nem egyedi ügyekkel kapcsolatos tájékoztató jelentéseibe betekinteni.
 
-(3) Ha a nemzetbiztonsági szolgálatok országgyűlési képviselőre vagy vele közös háztartásban élő hozzátartozójára vonatkozóan információgyűjtő tevékenységet kezdenek (folytatnak), e tényről a miniszter haladéktalanul tájékoztatja a Bizottságot. Az ügyben érintett képviselő e tevékenységről nem kaphat tájékoztatást.
+(3) Ha a nemzetbiztonsági szolgálatok országgyűlési képviselőre, nemzetiségi szószólóra vagy vele közös háztartásban élő hozzátartozójára vonatkozóan információgyűjtő tevékenységet kezdenek (folytatnak), e tényről a miniszter haladéktalanul tájékoztatja a Bizottságot. Az ügyben érintett képviselő e tevékenységről nem kaphat tájékoztatást.
 
 16. § (1) A Bizottság által folytatott parlamenti ellenőrzés során a miniszter és a nemzetbiztonsági szolgálatok tájékoztatási kötelezettsége – a (2) bekezdésben foglalt kivétellel – nem terjed ki azon információk szolgáltatására, amelyek átadása konkrét ügyben a módszer, illetve forrás (közreműködő személye) védelméhez fűződő kiemelt súlyú nemzetbiztonsági érdeket veszélyeztetné.
 
@@ -746,7 +746,7 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 - g) ha megfelelő szintű ellenőrzését még nem folytatták le, vagy érvényes ellenőrzéssel nem rendelkezik, állami vagy közfeladat ellátásához szükséges „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adat felhasználására jogosult személy,
 - h) a Független Rendészeti Panasztestület tagjai tekintetében.
 
-(5) A (4) bekezdés g) pontja szerinti ellenőrzést nem kell kezdeményezni a minősített adat védelméről szóló 2009. évi CLV. törvény 13. § (3) és (5) bekezdésében, valamint a 14. § (2) bekezdésében szereplő személyek, továbbá – a (4) bekezdés c), d) és h) pontjában meghatározottak kivételével – az országgyűlési képviselő, az Európai Parlament Magyarországon megválasztott képviselője és az önkormányzati képviselő tekintetében.
+(5) A (4) bekezdés g) pontja szerinti ellenőrzést nem kell kezdeményezni a minősített adat védelméről szóló 2009. évi CLV. törvény 13. § (3) és (5) bekezdésében, valamint a 14. § (2) bekezdésében szereplő személyek, továbbá – a (4) bekezdés c), d) és h) pontjában meghatározottak kivételével – az országgyűlési képviselő, a nemzetiségi szószóló, az Európai Parlament Magyarországon megválasztott képviselője és az önkormányzati képviselő tekintetében.
 
 (6) Amennyiben a fontos és bizalmas munkakörbe jelölt, vagy ilyen munkakört betöltő, továbbá a (4) bekezdésben meghatározott személyek tekintetében öt éven belül biztonsági kockázati tényezőt nem tartalmazó – az új kinevezéshez, kijelöléshez vagy megbízáshoz, illetve a közreműködéshez szükséges ellenőrzéssel legalább azonos szintű – biztonsági szakvélemény került kibocsátásra, a kezdeményezésre jogosult mérlegelési jogkörében dönt az érintett személy ellenőrzésének kezdeményezéséről.
 
