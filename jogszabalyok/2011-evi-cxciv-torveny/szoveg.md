@@ -112,7 +112,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez – kivéve a likvid, az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs és a (10) bekezdés szerinti adósságmegújító hiteleket – kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja.
 
-(7a) (7a) Az önkormányzat (7) bekezdés szerinti adatszolgáltatási kötelezettséggel terhelt, de a (7) bekezdés szerinti adatszolgáltatásában nem szereplő vagy az ott feltüntetettnél nagyobb értékű adósságkeletkeztetéssel járó ügylete esetén is szükséges a Kormány előzetes hozzájárulása az ügylet megkötéséhez.
+(7a) Az önkormányzat (7) bekezdés szerinti adatszolgáltatási kötelezettséggel terhelt, de a (7) bekezdés szerinti adatszolgáltatásában nem szereplő vagy az ott feltüntetettnél nagyobb értékű adósságkeletkeztetéssel járó ügylete esetén is szükséges a Kormány előzetes hozzájárulása az ügylet megkötéséhez.
 
 (8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járulhat hozzá:
 
@@ -305,69 +305,52 @@ mellékeli.
 
 (2) Az Állami Számvevőszék és a Magyar Nemzeti Bank az Állami Számvevőszék elnökének és a Magyar Nemzeti Bank elnökének a Tanács tagjaként ellátandó feladatait a Tanács által tárgyalt kérdésekhez kapcsolódó elemzéseknek és megállapításoknak a Tanács rendelkezésére bocsátásával segíti.
 
-24. § (1) A Kormány a központi költségvetésről szóló törvény tervezetét – ideértve a központi költségvetés bevételi vagy kiadási főösszegét megváltoztató, vagy a költségvetési hiány mértékét növelő módosítást is – (a továbbiakban: tervezet) részletes számításokkal alátámasztva véleménynyilvánítás céljából megküldi a Tanácsnak, amely a tervezet kézhezvételét követő tíz napon belül a tervezetre vonatkozó véleményét megküldi a Kormány részére.
+24. § (1) A Kormány
 
-(2) A Tanács az (1) bekezdés szerinti véleményében a tervezetre észrevételeket tehet, valamint – ha a tervezettel kapcsolatban annak hitelességére vagy végrehajthatóságára vonatkozóan alapvető ellenvetései vannak – a tervezettel való egyet nem értését jelzi.
+- a) a központi költségvetésről szóló törvény tervezetét és
+- b) a központi költségvetésről szóló törvény módosítását tartalmazó olyan törvény tervezetét, amely a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná vagy a költségvetési hiány mértékét növelné
 
-(3) A Kormány a tervezetet a Tanács véleményének kézhezvételét vagy – költségvetési tanácsi vélemény hiányában – az (1) bekezdés szerinti határidő eredménytelen elteltét követően nyújthatja be az Országgyűlésnek.
+[az a) és b) pont a továbbiakban együtt: tervezet] – részletes számításokkal alátámasztva – megküldi a Tanácsnak.
 
-(4) Ha a Tanács az (1) bekezdés szerinti határidőig egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek.
+(2) A Tanács a tervezet kézhezvételét követő tíz napon belül a tervezetre észrevételt tehet, illetve – ha a tervezettel kapcsolatban, annak hitelességére vagy végrehajthatóságára vonatkozóan alapvető ellenvetése van – a tervezettel való egyet nem értését jelezheti.
+
+(3) A Kormány a tervezetet a Tanács észrevételének kézhezvételét vagy a (2) bekezdésben meghatározott határidő eredménytelen elteltét követően nyújthatja be az Országgyűlésnek.
+
+(4) Ha a Tanács a (2) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek.
+
+(5) Az Országgyűlésnek benyújtott központi költségvetésről szóló törvényjavaslatra a Tanács észrevételt tehet.
 
 #### 7. A Tanács eljárása az államadósság mértékének vizsgálatában
 
-25. § (1) A központi költségvetésről szóló törvényjavaslat (a továbbiakban: költségvetési törvényjavaslat) tárgyalása során az Országgyűlésnek a költségvetés fejezeti főösszegeit érintő szavazása után az Országgyűlés elnöke egy napon belül tájékoztatja a Tanácsot az elfogadott fejezeti főösszegekről, valamint bemutatja az elfogadott módosító indítványok részletes számszaki hatását.
+25. § (1) A központi költségvetésről szóló törvényjavaslat tárgyalása során a Tanács az Országgyűlés elnökének a házszabályi rendelkezésekben meghatározottak szerinti tájékoztatása alapján vizsgálja a központi költségvetésről szóló törvényjavaslat az Alaptörvény 36. cikk (4) és (5) bekezdésének (a továbbiakban: államadósság-szabály) való megfelelését.
 
-(2) Az (1) bekezdés szerinti szavazást követően újból megnyitott részletes vita lezárását követő szavazás alapján elkészített egységes költségvetési törvényjavaslatot az Országgyűlés elnöke haladéktalanul megküldi a Tanácsnak.
+(2) A Tanács véleményét az (1) bekezdés szerinti tájékoztatás kézhezvételét követő egy napon belül – a központi költségvetésről szóló törvényjavaslathoz benyújtott módosító javaslatról történő szavazást követő első tájékoztatás esetében három munkanapon belül – írásban közli az Országgyűlés elnökével.
 
-(3) A Tanács megvizsgálja, hogy a (2) bekezdés szerint megküldött egységes javaslat megfelel-e az államadósság mértékére az Alaptörvény 36. cikk (4) és (5) bekezdésében előírt rendelkezésnek (a továbbiakban: államadósság-szabály). A Tanács véleményéről az egységes javaslat kézhezvételét követő három napon belül írásban tájékoztatja az Országgyűlés elnökét.
+(3) A Tanács olyan véleményét, amelyben azt állapítja meg, hogy a központi költségvetésről szóló törvényjavaslat megfelel az államadósság-szabálynak, az elfogadáshoz szükséges előzetes hozzájárulásának kell tekinteni, ha annak a Tanács által véleményezetthez képest változatlan szöveggel való elfogadására kerül sor.
 
-(4) Ha a Tanács véleményében azt állapítja meg, hogy az egységes javaslat elfogadása az államadósság-szabály megsértését eredményezné, abban az esetben véleményét részletesen indokolja.
+(4) Ha a Tanács véleményében azt állapítja meg, hogy a költségvetési törvényjavaslat elfogadása az államadósság-szabály megsértését eredményezné, véleményét részletesen indokolja.
 
-(5)–(9)
+(5) A Tanács (4) bekezdés szerinti véleménye alapján a Kormány a központi költségvetésről szóló törvényjavaslat államadósság-szabálynak való megfelelését biztosító módosító javaslatot nyújt be az Országgyűlésnek a Tanács (4) bekezdés szerinti véleményének kézhezvételét követő három napon belül.
 
-25/A. § (1) A Tanács 25. § (4) bekezdése szerinti véleménye alapján a Kormány zárószavazás előtti módosító javaslatot nyújt be annak érdekében, hogy a költségvetési törvényjavaslat megfeleljen az államadósság-szabálynak. A Kormány által benyújtott módosító javaslat a költségvetési törvényjavaslat korábban már megszavazott módosító javaslattal érintett részének megváltoztatását, újbóli megállapítását is tartalmazhatja.
+(6) Az (1)–(5) bekezdés szerinti eljárást mindaddig folytatni kell, amíg a Tanács a központi költségvetésről szóló törvényjavaslat elfogadásához szükséges előzetes hozzájárulását meg nem adja. Az előzetes hozzájárulás megtagadása miatt megismételt eljárásban kizárólag a Kormány nyújthat be módosító javaslatot.
 
-(2) A költségvetési törvényjavaslathoz benyújtott zárószavazás előtti módosító javaslatokat az Országgyűlés elnöke az azok benyújtására vonatkozó határidő lejártát követően haladéktalanul megküldi a Tanácsnak. A Tanács a zárószavazás előtti módosító javaslatok kézhezvételétől számított egy napon belül írásban tájékoztatja az Országgyűlés elnökét arról, hogy azok megfelelnek-e az államadósság-szabálynak.
+25/A. § (1) A központi költségvetésről szóló törvény módosítását tartalmazó olyan törvényjavaslat elfogadásához, amely a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná vagy a költségvetési hiány mértékét növelné, a Tanács előzetes hozzájárulása szükséges.
 
-(3) A Tanács az Országgyűlés elnökének az elfogadott zárószavazás előtti módosító javaslatokról való tájékoztatása alapján az annak kézhezvételét követő egy napon belül alakítja ki a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulására vonatkozó álláspontját. A Tanács az előzetes hozzájárulás megtagadásáról hozott döntését részletesen indokolja.
+(2) A Tanács a központi költségvetésről szóló törvény módosítását tartalmazó, (1) bekezdés szerinti törvényjavaslat tárgyalása során történő tájékoztatására, az Országgyűlés és a Tanács eljárására, valamint a Kormány kötelezettségére a 25. §-t kell alkalmazni.
 
-(4) A Tanács elnökét az Országgyűlés azon ülésére, amelyen a költségvetési törvényjavaslat zárószavazására kerül sor, meg kell hívni, a Tanács elnöke azon – a Tanácsnak a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulásával kapcsolatos álláspontja kifejtése céljából – felszólalhat. Ha a Tanács elnöke a Tanácsnak a költségvetési törvényjavaslattal kapcsolatos előzetes hozzájárulására vonatkozó álláspontját a költségvetési törvényjavaslat zárószavazását megelőzően nem ismerteti az Országgyűlés ülésén vagy nem közli az Országgyűlés elnökével, a Tanácsnak a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását megadottnak kell tekinteni.
-
-(5) Ha a Tanács a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását nem adja meg, a költségvetési törvényjavaslat zárószavazását el kell halasztani. A költségvetési törvényjavaslat zárószavazásának elhalasztása esetén a Kormány olyan módosító javaslatot köteles benyújtani a költségvetési törvényjavaslathoz, amelynek eredményeként a költségvetési törvényjavaslat az államadósság-szabálynak megfelel. Ebben az eljárásban más módosító javaslat nem nyújtható be.
-
-(6) Az (1)–(5) bekezdésben foglalt eljárást azzal, hogy az így megismételt eljárásban kizárólag a Kormány jogosult módosító javaslatot benyújtani, mindaddig kell folytatni, amíg a Tanács a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását meg nem adja.
-
-(7) A (2)–(6) bekezdést megfelelően kell alkalmazni, ha külön törvény felhatalmazása alapján, a Kormány által benyújtott zárószavazás előtti módosító javaslat a költségvetési egyenleg mértékét és a központi költségvetésről szóló törvény fejezetei bevételi és kiadási főösszegeit érinti.
-
-26. § (1) A központi költségvetésről szóló törvény módosítását tartalmazó olyan törvényjavaslat, amely – a megszavazott módosító javaslatokra tekintettel – a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná, vagy a költségvetési hiány mértékét növelné, a Tanács előzetes hozzájárulása alapján bocsátható zárószavazásra.
-
-(2) Az Országgyűlés elnöke az (1) bekezdés szerinti törvényjavaslatot annak benyújtását követően és az ahhoz kapcsolódóan megszavazott módosító javaslatokat azok elfogadását követően – az előzetes hozzájárulás megadása céljából – haladéktalanul megküldi a Tanács részére.
-
-(3) A Tanács az előzetes hozzájárulásra vonatkozó döntését a zárószavazás előtti módosító javaslatokról való szavazást – ha az (1) bekezdés szerinti törvényjavaslathoz az általános vita lezárásáig módosító javaslatot nem terjesztettek elő, az általános vita lezárását, ha az (1) bekezdés szerinti törvényjavaslathoz benyújtott módosító javaslatok közül az Országgyűlés egyet sem fogadott el, a módosító javaslatokról való szavazást, ha zárószavazás előtti módosító javaslat benyújtására nem került sor, az erre vonatkozó határidő lejártát – követően, a (2) bekezdés szerinti tájékoztatás kézhezvételétől számított egy napon belül közli az Országgyűlés elnökével. A Tanács az előzetes hozzájárulás megtagadásáról hozott döntését részletesen indokolja.
-
-(3a) Ha a Tanács elnöke az előzetes hozzájárulására vonatkozó álláspontját az (1) bekezdés szerinti törvényjavaslat zárószavazását megelőzően nem közli az Országgyűlés elnökével, a Tanácsnak az (1) bekezdés szerinti törvényjavaslat elfogadásához szükséges előzetes hozzájárulását megadottnak kell tekinteni.
-
-(4) Ha a Tanács az előzetes hozzájárulás megadását megtagadja, a Kormány a Tanács döntését megalapozó indokolásban foglaltak alapján zárószavazás előtti módosító javaslatot készít, amely – a Tanács döntésében meghatározott követelményeknek történő megfelelés céljából – az (1) bekezdés szerinti törvényjavaslat bármely rendelkezését módosíthatja. Ezen eljárásban más módosító javaslat nem nyújtható be. A zárószavazás előtti módosító javaslat Tanács részére történő megküldésére, benyújtására, az arról történő szavazásra, valamint a Tanács egyetértésének megadására a 25/A. §-t kell alkalmazni.
-
-(5)
+26. § Ha a Tanács elnöke a Tanács előzetes hozzájárulására vonatkozó, 25. § és 25/A. § szerinti álláspontját határidőn belül írásban nem közli az Országgyűlés elnökével, a Tanács előzetes hozzájárulását megadottnak kell tekinteni.
 
 #### 8. A Költségvetési Tanács működése
 
-27. § (1) A Tanács szükség szerint tartja üléseit.
+27. § (1) A Tanács véleményét az ülésein alakítja ki. A Tanács üléseit szükség szerint tartja. A Tanács ülései nem nyilvánosak.
 
-(2) A Tanács véleményét az ülésein alakítja ki.
+(2) A Tanács akkor határozatképes, ha tagjainak többsége jelen van. A Tanács döntéseit a jelenlévők egyszerű szótöbbségével hozza.
 
-(3) A Tanács akkor határozatképes, ha tagjainak többsége jelen van. Döntéseit a jelenlévők egyszerű szótöbbségével hozza.
+(3) A Tanács üléseit a napirend közlésével az elnök hívja össze és vezeti. Az elnök akadályoztatása esetére az ülés összehívásával és vezetésével a Tanács valamely más tagját bízza meg. Egyebekben a Tanács ülésein helyettesítésnek nincs helye.
 
-(4) A Tanács ülései nem nyilvánosak.
+(4) A Tanács az ülés napirendjén nem szereplő kérdést csak akkor tárgyalhat meg, ha az ülésen valamennyi tag jelen van, és egyhangúlag hozzájárulnak a napirenden nem szereplő kérdés megtárgyalásához.
 
-(5) A Tanács üléseit a napirend közlésével az elnök hívja össze és vezeti. Az elnök akadályoztatása esetére az ülés összehívásával és vezetésével a Tanács valamely más tagját bízza meg. Egyebekben a Tanács ülésein helyettesítésnek nincs helye.
-
-(5a) Azokban az esetekben, ahol e törvény a Tanács részére egynapos határidőt állapít meg, a Tanács tagjai az ülésen való személyes részvétel helyett elektronikus hírközlő eszköz igénybevételével is gyakorolhatják az e törvényben meghatározott jogaikat.
-
-(5b) A Tanács az ülés napirendjén nem szereplő kérdést csak akkor tárgyalhat meg, ha az ülésen valamennyi tag jelen van, és egyhangúlag hozzájárul a napirenden nem szereplő kérdés megtárgyalásához.
-
-(6) A Tanács döntését tartalmazó dokumentumot – az akadályoztatás esetét kivéve – a Tanács valamennyi tagja aláírja.
+(5) A Tanács döntését – az akadályoztatás esetét kivéve – a Tanács valamennyi tagja aláírja. A döntések nyilvánosak, azokat az Országgyűlés honlapján közzé kell tenni.
 
 ### V. Fejezet — A KÖZTEHERVISELÉS ALAPVETŐ SZABÁLYAI
 

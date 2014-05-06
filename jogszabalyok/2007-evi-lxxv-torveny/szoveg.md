@@ -348,7 +348,7 @@ Isten engem úgy segéljen!”
 - a) megbízásainak átadásáról vagy megszüntetéséről, továbbá
 - b) a vele munkaviszonyban lévő kamarai tag könyvvizsgáló, könyvvizsgáló jelölt jogviszonyának megszüntetéséről.
 
-(6) Nem szükséges engedély az európai parlamenti képviselői, az országgyűlési képviselői és a polgármesteri megbízatás miatti szüneteltetéshez. A szüneteltetést ez esetben a képviselői vagy a polgármesteri megbízatás kezdőnapját követő 15 napon belül kell írásban bejelenteni a kamara felvételi bizottságának. A szüneteltetés időtartama a megbízatás lejártáig tart.
+(6) Nem szükséges engedély az európai parlamenti képviselői, az országgyűlési képviselői, a nemzetiségi szószólói és a polgármesteri megbízatás miatti szüneteltetéshez. A szüneteltetést ez esetben a képviselői vagy a polgármesteri megbízatás kezdőnapját követő 15 napon belül kell írásban bejelenteni a kamara felvételi bizottságának. A szüneteltetés időtartama a megbízatás lejártáig tart.
 
 (7) A (6) bekezdés hatálya alá tartozó kamarai tag könyvvizsgálónak, valamint a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását fegyelmi eljárás során kiszabott büntetés alapján szüneteltető kamarai tag könyvvizsgálónak is eleget kell tennie az (5) bekezdés szerinti kötelezettségeknek.
 

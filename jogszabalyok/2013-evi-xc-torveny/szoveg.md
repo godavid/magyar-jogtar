@@ -2,7 +2,9 @@
 
 az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról
 
-1. §
+1. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 4. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) A képviselői megbízatással nem rendelkező háznagy javadalmazása megegyezik a miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegével, továbbá a miniszter részére jogszabályban biztosított egyéb juttatással. A képviselői megbízatással nem rendelkező háznagy jogállására – a megbízatás keletkezése és megszűnése, a vagyon-nyilatkozattételi kötelezettség teljesítése, valamint az összeférhetetlenség kivételével – a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.”
 
 2–3. §
 
@@ -14,7 +16,7 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról
 
 6–7. §
 
-8. §
+8. § Az Ogytv. 123. § (5) bekezdésében az „a háznaggyal” szövegrész helyébe az „a képviselői megbízatással nem rendelkező háznaggyal” szöveg lép.
 
 9–10. §
 

@@ -1071,7 +1071,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 - c) a pályázóval munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személy;
 - d) a pályázat folyamatba épített (adminisztratív, illetve helyszíni), valamint utólagos ellenőrzését végző személy;
 - e) az a)–d) pontban szereplő személyek Polgári Törvénykönyv szerinti közeli hozzátartozója;
-- f) politikai párt vezető tisztségviselője vagy alkalmazottja, valamint önkormányzati vagy országgyűlési képviselő;
+- f) politikai párt vezető tisztségviselője vagy alkalmazottja, valamint önkormányzati vagy országgyűlési képviselő, illetve nemzetiségi szószóló;
 - g) akitől a tárgyilagos eljárás egyéb okból nem várható el.
 
 (3) A támogatásra vonatkozó döntés előkészítésében vagy meghozatalában, továbbá a kifizetés engedélyezésében részt vevő személy a döntés-előkészítési vagy döntéshozatali eljárás megkezdésekor teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy a (2) bekezdés szerinti összeférhetetlensége nem áll fenn, továbbá arról, hogy az értékelés, illetve bírálat során tudomására jutott minősített adatot üzleti vagy banktitkot, fizetési titkot, illetve egyéb magántitkot megőrzi. A nyilatkozatot a döntéshozó szervnek át kell adni.

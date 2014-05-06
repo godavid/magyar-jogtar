@@ -506,7 +506,11 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
 
 #### 13. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-#### 319. §
+319. § A Btk. 459. § (1) bekezdés 11. pont b) alpontja helyébe a következő rendelkezés lép:
+
+(hivatalos személy:)
+
+„b) az országgyűlési képviselő, a nemzetiségi szószóló és a Magyarországon megválasztott európai parlamenti képviselő,”
 
 #### 14. Záró rendelkezések
 

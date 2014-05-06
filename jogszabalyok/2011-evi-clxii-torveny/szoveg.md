@@ -14,7 +14,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 2. § (1) A bírót az országgyűlési képviselővel azonos mentelmi jog illeti meg.
 
-(2) A Kúria elnöke és az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke mentelmi jogának felfüggesztése tárgyában az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával dönt, a mentelmi jog megsértése esetén szükséges intézkedést az Országgyűlés elnöke teszi meg.
+(2) A Kúria elnöke és az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke mentelmi jogának felfüggesztése tárgyában az Országgyűlés dönt, a mentelmi jog megsértése esetén szükséges intézkedést az Országgyűlés elnöke teszi meg.
 
 (3) A bíró mentelmi jogának felfüggesztése tárgyában az OBH elnökének javaslatára a köztársasági elnök dönt. A mentelmi jog megsértése esetén szükséges intézkedést az OBH elnökének javaslatára a köztársasági elnök teszi meg.
 
@@ -124,7 +124,7 @@ meghatározott esetben.
 
 (2) Nem kell pályázatot kiírni abban az esetben sem, ha a bíróságok szervezetéről és igazgatásáról szóló törvény alapján a Kúria elnökét vagy elnökhelyettesét, az OBH elnökét vagy elnökhelyettesét, vagy más bírósági vezetőt vezetői megbízatásának megszűnését követően tényleges bírói álláshelyre osztják be.
 
-(3) Ha az országgyűlési vagy az európai parlamenti képviselő a megválasztása előtt bíró volt és a képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy bíróvá történő ismételt kinevezését kéri, valamint a bírói kinevezéséhez szükséges feltételekkel rendelkezik (ide nem értve a pályaalkalmassági vizsgálaton való részvételt) akkor őt kérelmére, pályázat kiírása nélkül, a köztársasági elnök – az OBH elnökének javaslatára – határozatlan időre bíróvá kinevezi. Ezt követően a bírót az OBH elnöke tényleges bírói álláshelyre, indokolt esetben tanácselnöki munkakörbe osztja be a bíró képviselővé történő megválasztását megelőző vagy azzal legalább azonos szintű, lehetőleg a bíró lakóhelye szerinti szolgálati helyre.
+(3) Ha az országgyűlési vagy az európai parlamenti képviselő, illetve a nemzetiségi szószóló a megválasztása előtt bíró volt és a képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy bíróvá történő ismételt kinevezését kéri, valamint a bírói kinevezéséhez szükséges feltételekkel rendelkezik (ide nem értve a pályaalkalmassági vizsgálaton való részvételt) akkor őt kérelmére, pályázat kiírása nélkül, a köztársasági elnök – az OBH elnökének javaslatára – határozatlan időre bíróvá kinevezi. Ezt követően a bírót az OBH elnöke tényleges bírói álláshelyre, indokolt esetben tanácselnöki munkakörbe osztja be a bíró képviselővé történő megválasztását megelőző vagy azzal legalább azonos szintű, lehetőleg a bíró lakóhelye szerinti szolgálati helyre.
 
 9. § (1) A pályázat kiírására az OBH elnöke jogosult.
 
@@ -427,7 +427,7 @@ elnökének véleményét.
 
 39. § (1) A bírák nem lehetnek tagjai pártnak, és politikai tevékenységet nem folytathatnak.
 
-(2) A bíró nem lehet országgyűlési, európai parlamenti vagy önkormányzati képviselő, polgármester, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezető.
+(2) A bíró nem lehet országgyűlési, európai parlamenti vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezető.
 
 40. § (1) A bíró a tisztsége ellátásán kívül csak tudományos és oktatói, edzői, versenybírói, játékvezetői, művészi, szerzői jogi védelemben részesülő, továbbá lektori és szerkesztői, valamint műszaki alkotó munkát végezhet kereső tevékenységként, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti ennek látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését.
 
@@ -788,7 +788,7 @@ történő rendelkezésre állás.
 - c) ha a bíróval szemben jogerősen szabadságvesztést, közérdekű munkát vagy elzárást szabtak ki, kényszergyógykezelését rendelték el,
 - d) ha a bíró a bírói esküt a 22. §-ban meghatározott határidőn belül nem tette le,
 - e) ha a bíró kinevezésének a 4. § (1) bekezdés a) és b) pontjában foglalt feltételei már nem állnak fenn,
-- f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek vagy polgármesternek megválasztották, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
+- f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek, nemzetiségi szószólónak vagy polgármesternek megválasztották, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
 - g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
 - h) ha a bíró
   - ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt,
@@ -1465,7 +1465,7 @@ jogosult.
 
 (2) A jubileumi jutalom 25 év szolgálati idő után a bíró 2 havi, 30 év után a 3 havi, 35 év után négyhavi, 40 év után az 5 havi illetménye.
 
-(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, a kormánytisztviselői jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, a fegyveres szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, a kormánytisztviselői jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, a fegyveres szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
 
 (4) A (3) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
 

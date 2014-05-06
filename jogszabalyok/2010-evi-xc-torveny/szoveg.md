@@ -89,7 +89,7 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 (1a) Különadó fizetésére köteles
 
-- a) az országgyűlési képviselő, ha megbízatása megszűnésével összefüggésben az országgyűlési képviselők javadalmazásáról szóló törvény alapján vagy más jogcímen,
+- a) az országgyűlési képviselő és a nemzetiségi szószóló, ha megbízatása megszűnésével összefüggésben az országgyűlési képviselők javadalmazásáról szóló törvény alapján vagy más jogcímen,
 - b) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester), az alpolgármester, a főpolgármester-helyettes, a megyei közgyűlés alelnöke (a továbbiakban együtt: alpolgármester), ha e jogviszonyának megszűnésével összefüggésben a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény alapján vagy más jogcímen,
 - c) az európai parlamenti képviselő, ha megbízatásának megszűnésével összefüggésben az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény alapján vagy más jogcímen
 
@@ -99,7 +99,7 @@ a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kiv
 
 (3) A (2) bekezdésben foglaltaktól eltérően nem minősül a különadó alapjának:
 
-- a) az állami vezetők, országgyűlési képviselők, polgármesterek, alpolgármesterek, európai parlamenti képviselők, (fő)jegyzők, a köztulajdonban álló gazdasági társaságok vezető tisztségviselői és felügyelőbizottságának tagjai esetében a (2) bekezdés szerinti bevétel kétmillió forintot meg nem haladó része;
+- a) az állami vezetők, országgyűlési képviselők, nemzetiségi szószólók, polgármesterek, alpolgármesterek, európai parlamenti képviselők, (fő)jegyzők, a köztulajdonban álló gazdasági társaságok vezető tisztségviselői és felügyelőbizottságának tagjai esetében a (2) bekezdés szerinti bevétel kétmillió forintot meg nem haladó része;
 - b) más foglalkoztatott esetében a (2) bekezdés szerinti különadó alapba tartozó bevételnek a hárommillió-ötszázezer forintot meg nem haladó része, valamint a jogviszony megszűnésének évében esedékes szabadság megváltása címén kifizetett bevétel, illetve a jogviszony megszűnésekor a magánszemélyt megillető jubileumi jutalom;
 - c) a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvénynek a 33/2012. (VII. 17.) AB határozattal megsemmisített 90. § ha) alpontja alapján felmentett bíró számára a jogviszony jogellenes megszüntetésével kapcsolatosan törvény vagy bírósági határozat alapján szerzett bevétel,
 - d) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel hatályon kívül helyezett 160. §-a alapján megszűnt szolgálati jogviszonyú ügyészek és a 2013. január 1. napja és az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépése között a rá irányadó öregségi nyugdíjkorhatár betöltése miatt megszűnt szolgálati jogviszonyú ügyészek esetében a jogviszony jogellenes megszüntetésével kapcsolatosan törvény vagy bírósági határozat alapján szerzett bevétel.

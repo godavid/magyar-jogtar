@@ -20,7 +20,7 @@ Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a 
 
 (6) Az Állami Számvevőszék jelentései, az abban foglalt megállapításai, következtetései bíróság vagy más hatóság előtt nem támadhatók meg.
 
-2. § (1) Az Állami Számvevőszék a központi költségvetés szerkezetében önálló fejezet, a fejezet felügyeletét ellátó szerv vezetőjének jogosítványait az elnök gyakorolja.
+2. § (1) Az Állami Számvevőszék a központi költségvetésről szóló törvényben önálló költségvetési fejezetet alkot, a fejezetet irányító szerv jogait az elnök gyakorolja.
 
 (2) Az Állami Számvevőszék a költségvetésére vonatkozó javaslatát és a költségvetésének végrehajtásáról szóló beszámolóját maga állítja össze, és azt a Kormány változtatás nélkül terjeszti be a központi költségvetésről, illetve az annak végrehajtásáról szóló törvényjavaslat részeként az Országgyűlésnek. Az Állami Számvevőszék költségvetését úgy kell megállapítani, hogy ne legyen kevesebb az előző évi központi költségvetésben megállapított összegnél.
 
@@ -43,9 +43,9 @@ Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a 
 
 4. § Az Állami Számvevőszék elnöke az Országgyűlés számára készített éves beszámolójában tájékoztatást ad a szervezet előző évi ellenőrzési tevékenységéről, működéséről, gazdálkodásáról, valamint az ellenőrzési megállapítások alapján tett intézkedésekről.
 
-5. § (1) Az Állami Számvevőszék ellenőrzi az államháztartás gazdálkodását, ennek keretében a központi költségvetési javaslat (pótköltségvetési javaslat) megalapozottságát, a bevételi előirányzatok teljesíthetőségét, az állami kötelezettségvállalással járó beruházási előirányzatok felhasználásának törvényességét és célszerűségét.
+5. § (1) Az Állami Számvevőszék az Országgyűlés számára véleményt ad a központi költségvetésről szóló törvényjavaslat megalapozottságáról, a bevételi előirányzatok teljesíthetőségéről, az állami kötelezettségvállalással járó beruházási előirányzatok felhasználásának törvényességéről és célszerűségéről.
 
-(2) Az Állami Számvevőszék az államháztartás gazdálkodásának ellenőrzése keretében ellenőrzi a központi költségvetés szerkezeti rendjébe tartozó fejezetek működését, a társadalombiztosítás pénzügyi alapjainak és az elkülönített állami pénzalapoknak a felhasználását, valamint a helyi önkormányzatok és a nemzetiségi önkormányzatok, továbbá ezek társulásai gazdálkodását.
+(2) Az Állami Számvevőszék az államháztartás gazdálkodásának ellenőrzése keretében ellenőrzi a központi költségvetési fejezetet irányító szerv és a fejezetbe sorolt költségvetési szervek működését, a fejezetbe tartozó központi kezelésű előirányzatok és fejezeti kezelésű előirányzatok felhasználását, valamint a helyi önkormányzat, a nemzetiségi önkormányzat és ezek társulása gazdálkodását.
 
 (3) Az Állami Számvevőszék az államháztartásból származó források felhasználásának keretében ellenőrzi a központi költségvetésből gazdálkodó szervezeteket (intézményeket), valamint az államháztartásból nyújtott támogatás vagy az államháztartásból meghatározott célra ingyenesen juttatott vagyon felhasználását a helyi önkormányzatoknál, az országos és helyi nemzetiségi önkormányzatoknál, a közalapítványoknál (ide értve a közalapítvány által alapított gazdasági társaságot is), a köztestületeknél, a közhasznú szervezeteknél, a gazdálkodó szervezeteknél, az egyesületeknél, az alapítványoknál és az egyéb kedvezményezett szervezeteknél. Amennyiben a kedvezményezett szervezet az államháztartásból támogatásban – ide nem értve a személyi jövedelemadó meghatározott részének az adózó rendelkezése alapján történő átutalását – vagy ingyenes vagyonjuttatásban részesül, gazdálkodási tevékenységének egésze ellenőrizhető.
 
@@ -128,25 +128,25 @@ jogszabályok előkészítésében.
 
 10. § (1) Az Állami Számvevőszék elnökét az országgyűlési képviselővel azonos mentelmi jog illeti meg.
 
-(2) A mentelmi joggal kapcsolatos eljárásokra az országgyűlési képviselők mentelmi jogával kapcsolatos eljárási szabályokat kell alkalmazni. A mentelmi jog felfüggesztése tárgyában az Országgyűlés a képviselők kétharmadának a szavazatával dönt, a mentelmi jog megsértése esetén szükséges intézkedést az Országgyűlés elnöke teszi meg.
+(2) A mentelmi joggal kapcsolatos eljárásokra az országgyűlési képviselők mentelmi jogával kapcsolatos eljárási szabályokat kell alkalmazni. A mentelmi jog felfüggesztése tárgyában az Országgyűlés dönt, a mentelmi jog megsértése esetén szükséges intézkedést az Országgyűlés elnöke teszi meg.
 
 11. § (1) Az Állami Számvevőszék elnökének megbízatása megszűnik:
 
 - a) a megbízatási időtartam leteltével,
 - b) a 70. életév betöltésével,
 - c) lemondással,
-- d) összeférhetetlenség megállapításával,
+- d) összeférhetetlenség kimondásával,
 - e) felmentéssel,
 - f) kizárással,
 - g) halállal.
 
 (2) A lemondást írásban kell közölni az Országgyűlés elnökével. Az Állami Számvevőszék elnökének megbízatása a lemondásban megjelölt napon szűnik meg.
 
-(3) Az Állami Számvevőszék elnökével szemben a 18. §-ban meghatározott esetekben az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottsága javaslatára, az országgyűlési képviselők kétharmadának szavazatával meghozott határozattal állapítja meg az összeférhetetlenséget.
+(3) Az Állami Számvevőszék elnökével szemben a 18. § (1)–(4) bekezdésében és a 19. § (2) bekezdésében meghatározott összeférhetetlenséget az Országgyűlés az összeférhetetlenségi ügyekkel foglalkozó bizottsága javaslatára állapítja meg.
 
-(4) Felmentéssel szüntethető meg a megbízatás, ha az Állami Számvevőszék elnöke neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak. A felmentést az Országgyűlés mentelmi ügyekkel foglalkozó bizottsága kezdeményezheti. A felmentéshez az országgyűlési képviselők kétharmadának szavazata szükséges.
+(4) Felmentéssel szüntethető meg a megbízatás, ha az Állami Számvevőszék elnöke neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak. A felmentést az Országgyűlés mentelmi ügyekkel foglalkozó bizottsága kezdeményezheti, a felmentésről az Országgyűlés dönt.
 
-(5) Kizárással szünteti meg a megbízatást az Országgyűlés, ha az Állami Számvevőszék elnöke neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el. A kizárást a mentelmi ügyekkel foglalkozó bizottság kezdeményezheti. A kizáráshoz az Országgyűlés kétharmadának szavazata szükséges.
+(5) Kizárással szünteti meg a megbízatást az Országgyűlés, ha az Állami Számvevőszék elnöke neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el. A kizárást a mentelmi ügyekkel foglalkozó bizottság kezdeményezheti.
 
 12. § (1) Ha az elnök e tisztségét legalább három évig betöltötte és megbízatása megszűnésére a megbízatás időtartamának letelte, a 70. életév betöltése, lemondás, felmentés vagy halál miatt kerül sor, a tisztség megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén pedig háromhavi – illetményével megegyező összegű juttatásra jogosult, amely társadalombiztosítási járulék, egészségügyi hozzájárulás, valamint – a (3) bekezdésben meghatározott kivétellel – egészségbiztosítási és nyugdíjjárulék alapjául szolgáló jövedelem.
 

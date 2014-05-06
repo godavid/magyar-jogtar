@@ -154,7 +154,7 @@ is kiterjedhet.
 - a) gondoskodik a polgárőrök szakmai felkészítéséről, képzéséről, továbbképzéséről,
 - b) a polgárőr szolgálat ellátását meghatározó szolgálati és etikai szabályzat megalkotásával biztosítja a polgárőr szolgálat rendeltetésszerű és szakszerű ellátását,
 - c) meghatározza a polgárőrség bűnmegelőzési, közlekedésbiztonsági tevékenységének irányait, folyamatos szakmai koordinációval segíti a területi polgárőr szövetségek és polgárőr egyesületek tevékenységét,
-- d) az Országgyűlés rendészeti ügyekkel foglalkozó bizottsága részére minden év március 31-ig írásos beszámolót készít és a bizottság munkaterve szerint tájékoztatót tart,
+- d) az Országgyűlés rendészeti ügyekkel foglalkozó bizottsága részére minden év március 31-ig írásos tájékoztatót készít és a bizottság munkaterve szerint szóbeli tájékoztatót tart,
 - e) képviseli és védi a polgárőrség, valamint a polgárőrök érdekeit,
 - f) véleményt nyilvánít az e törvény hatálya alá tartozó tevékenységeket érintő jogszabályokról, kezdeményezheti jogszabályok kiadását,
 - g) az információs önrendelkezési jogról és az információszabadságról szóló törvény adatvédelmi szabályai megtartásával a nyilvántartásában szereplő adatokról – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat, valamint

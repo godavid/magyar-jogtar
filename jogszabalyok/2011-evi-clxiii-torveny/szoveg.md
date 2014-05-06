@@ -34,7 +34,7 @@ az ügyészségről
 
 (5) A legfőbb ügyészt és az ügyészeket az országgyűlési képviselővel azonos mentelmi jog illeti meg.
 
-(6) A legfőbb ügyészre az országgyűlési képviselők mentelmi jogával kapcsolatos eljárási szabályokat kell alkalmazni. A mentelmi jog felfüggesztése tárgyában az Országgyűlés a jelen lévő képviselők kétharmadának szavazatával dönt, a mentelmi jog megsértése esetén a szükséges intézkedést az Országgyűlés elnöke teszi meg.
+(6) A legfőbb ügyészre az országgyűlési képviselők mentelmi jogával kapcsolatos eljárási szabályokat kell alkalmazni. A mentelmi jog felfüggesztése tárgyában az Országgyűlés dönt, a mentelmi jog megsértése esetén a szükséges intézkedést az Országgyűlés elnöke teszi meg.
 
 (7) Az ügyész mentelmi jogának felfüggesztése tárgyában a legfőbb ügyész dönt, mentelmi jogának megsértése esetén a szükséges intézkedést a legfőbb ügyész teszi meg.
 

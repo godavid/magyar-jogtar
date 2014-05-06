@@ -2242,7 +2242,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 169. § (1) Nem lehet a Tanács tagja, aki
 
-- a) országgyűlési képviselő;
+- a) országgyűlési képviselő vagy nemzetiségi szószóló;
 - b) büntetett előéletű.
 
 (2) A tagok megbízatása legalább két évre szól.
@@ -2424,7 +2424,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (5) Nem lehet közbeszerzési biztos, aki
 
-- a) országgyűlési, helyi önkormányzati képviselő, polgármester, illetőleg kamarai tisztségviselő;
+- a) országgyűlési, helyi önkormányzati képviselő, nemzetiségi szószóló, polgármester, illetőleg kamarai tisztségviselő;
 - b) gazdasági társaságban huszonöt százaléknál, illetőleg huszonöt millió forintnál nagyobb tulajdoni részesedéssel rendelkezik.
 
 (6) A közbeszerzési biztost a Kttv. előmeneteli szabályainak megfelelően kell besorolni azzal az eltéréssel, hogy a besorolási fokozatánál kettővel magasabb besorolási fokozathoz tartozó illetményre jogosult.
