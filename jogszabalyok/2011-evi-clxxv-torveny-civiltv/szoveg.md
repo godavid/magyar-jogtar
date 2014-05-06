@@ -996,7 +996,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 66. § (1) Nem lehet a Tanács tagja, és a kollégium tagja
 
 - a) politikai párt vezető testületének tagja, tisztségviselője,
-- b) állami vezető, országgyűlési képviselő, az Európai Parlament tagja, megyei (fővárosi), települési önkormányzat képviselő-testületének tagja, polgármester, alpolgármester, Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó tag vagy hozzátartozója,
+- b) állami vezető, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja, megyei (fővárosi), települési önkormányzat képviselő-testületének tagja, polgármester, alpolgármester, Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó tag vagy hozzátartozója,
 - c) a Tanács tagjának vagy a kollégium tagjának hozzátartozója,
 - d) az, aki a jelölését megelőző öt éven belül olyan civil szervezet vezető tisztségviselője volt, amely megszűnt, és a megszűnését megelőző kettő éven belül keletkezett állami adó- és vámhatóságnál nyilvántartott adó- és vámtartozás megfizetésére a szervezetet vagy jogutódját jogerős hatósági vagy bírósági határozat kötelezte, és ennek nem tett eleget, kivéve, ha vezető tisztségviselői megbízatására kifejezetten a szervezet anyagi helyzetének rendezése érdekében került sor,
 - e) az, akinek a megbízatása visszavonással szűnt meg,

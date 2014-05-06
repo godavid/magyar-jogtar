@@ -477,18 +477,13 @@ költségvetési bevételeit és költségvetési kiadásait.
 - b) az államháztartás alrendszerei költségvetési egyenlegének összefüggését és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor hiányával, és az ugyanott meghatározott kamatkiadásokat figyelmen kívül hagyó elsődleges egyenlegmutatóval, és
 - c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként.
 
-(5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait, valamint a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot a központi költségvetésről szóló törvényjavaslattal egyidejűleg nyújtja be az Országgyűlésnek.
+(5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül, a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot a központi költségvetésről szóló törvényjavaslattal egyidejűleg nyújtja be az Országgyűlésnek.
 
-(6) A központi költségvetésről szóló törvényjavaslatot az Országgyűlés az Állami Számvevőszék és a Költségvetési Tanács véleményével együtt tárgyalja meg.
+(6)
 
-(7) Az Országgyűlés a központi költségvetésről szóló törvényjavaslat tárgyalása során november 30-áig egyedi határozatban meghatározza a központi költségvetésről szóló törvény fejezeteinek bevételi és kiadási főösszegét és a központi költségvetés költségvetési egyenlegét. A határozat elfogadása után a központi költségvetésről szóló törvényjavaslat vitájában benyújtott módosító javaslatok – a (8) bekezdésben foglalt kivétellel – a költségvetési egyenleg mértékét és a központi költségvetésről szóló törvény fejezetei bevételi és kiadási főösszegeit nem módosíthatják.
+(7)
 
-(8) A Kormány zárószavazás előtti módosító javaslatot nyújt be, amely érintheti a költségvetési egyenleg mértékét és a központi költségvetésről szóló törvény fejezetei bevételi és kiadási főösszegeit
-
-- a) a Stabilitási tv. 25/A. § (1) és (5) bekezdése szerinti esetben,
-- b) ha a (7) bekezdés szerinti határozat elfogadását követően nemzetközi szervezettel megkötésre kerülő szerződésből eredő kötelezettség teljesítése miatt feltétlenül szükséges,
-- c) ha az Alkotmánybíróság, az Európai Unió Bírósága, illetve más bíróság vagy jogalkalmazó szerv a (7) bekezdés szerinti határozat elfogadását követően meghozott döntéséből az állam által teljesítendő olyan mértékű fizetési kötelezettség fakad, amelynek teljesítésére a (7) bekezdés szerinti kiadási főösszegek nem biztosítanak fedezetet, vagy
-- d) ha a Magyarországgal szemben fennálló, az Európai Unió működéséről szóló szerződés 126. cikkében meghatározott túlzott hiány eljárás megszüntetése érdekében az szükséges.
+(8)
 
 #### 14. A helyi önkormányzat költségvetési rendelete
 

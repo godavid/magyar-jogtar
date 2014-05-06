@@ -120,7 +120,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
   - d) független fél által az ügylet révén elért – megfelelő vetítési alapra (bevétel, költség, tárgyi eszközök és nem anyagi javak) vetített – ügyleti nyereség figyelembevételével állapítanak meg (ügyleti nyereségen alapuló módszer), vagy
   - e) a nem független felek az ügyletből származó összevont nyereségnek gazdaságilag indokolható alapon olyan arányban történő felosztásával határoznak meg, ahogy független felek járnának el az ügyletben (nyereség-megosztásos módszer), vagy
   - f) egyéb módszerrel állapítanak meg, ha a szokásos piaci érték az a)–e) pont szerinti módszerek egyikével sem határozható meg azzal, hogy szokásos haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek, továbbá tőzsdén nem forgalmazott részvény, valamint vagyoni betét, üzletrész és más hasonló, tagsági jogot megtestesítő vagyoni részesedés szokásos piaci értéke – ha a magánszemély ennek ellenkezőjét nem bizonyítja – a vagyoni részesedést kibocsátó jogi személynek, egyéb szervezetnek a vagyoni részesedés megszerzésének alapjául szolgáló szerződés megkötésének, jogügylet létrejöttének napján ismert, a beszámoló elfogadására jogosult szerve által már jóváhagyott beszámoló mérlegében kimutatott saját tőke összegéből a vagyoni részesedésre arányosan jutó rész, növelve a kibocsátó jogi személy, egyéb szervezet olyan kötelezettségének összegével, amely a vagyoni részesedéshez kapcsolódó jóváhagyott osztalék, részesedés címén a vagyoni részesedés megszerzésekor még fennáll.
-- 10. Hivatali, üzleti utazás: a magánszemély jövedelmének megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében szükséges utazás – a munkahelyre, a székhelyre vagy a telephelyre a lakóhelyről történő bejárás kivételével –, ideértve különösen a kiküldetés (kirendelés) miatt szükséges utazást, de ide nem értve az olyan utazást, amelyre vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti; továbbá az országgyűlési képviselő, a polgármester, az önkormányzati képviselő e tisztségével összefüggő feladat ellátása érdekében szükséges utazás (a lakóhelytől való távollét).
+- 10. Hivatali, üzleti utazás: a magánszemély jövedelmének megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében szükséges utazás – a munkahelyre, a székhelyre vagy a telephelyre a lakóhelyről történő bejárás kivételével –, ideértve különösen a kiküldetés (kirendelés) miatt szükséges utazást, de ide nem értve az olyan utazást, amelyre vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti; továbbá az országgyűlési képviselő, a nemzetiségi szószóló, a polgármester, az önkormányzati képviselő e tisztségével összefüggő feladat ellátása érdekében szükséges utazás (a lakóhelytől való távollét).
 - 11. Kiküldetés (kirendelés): a munkáltató által elrendelt, a munkaszerződésben rögzített munkahelytől eltérő helyen történő munkavégzés, ideértve a fegyveres szervek hivatásos állományú tagjának, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezését, átvezénylését is.
 - 12. Külföldi kiküldetés: a belföldi illetőségű magánszemélynek a jövedelme megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében Magyarország területén kívüli (a továbbiakban: külföld) tartózkodása, továbbá az előzőekkel kapcsolatos külföldre történő utazás, ideértve különösen a külszolgálatot és az azzal összefüggő utazást.
 - 13. Külszolgálat: a munkáltató által elrendelt, külföldön történő munkavégzés.
@@ -582,7 +582,7 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 
 ### Az önálló tevékenységből származó jövedelem
 
-16. § (1) Önálló tevékenység minden olyan tevékenység, amelynek eredményeként a magánszemély bevételhez jut, és amely e törvény szerint nem tartozik a nem önálló tevékenység körébe. Ide tartozik különösen az egyéni vállalkozó, a mezőgazdasági őstermelő, a bérbeadó, a választott könyvvizsgáló tevékenysége, az európai parlamenti, az országgyűlési képviselői, valamint a helyi önkormányzati képviselői tevékenység.
+16. § (1) Önálló tevékenység minden olyan tevékenység, amelynek eredményeként a magánszemély bevételhez jut, és amely e törvény szerint nem tartozik a nem önálló tevékenység körébe. Ide tartozik különösen az egyéni vállalkozó, a mezőgazdasági őstermelő, a bérbeadó, a választott könyvvizsgáló tevékenysége, az európai parlamenti, a nemzetiségi szószólói, valamint a helyi önkormányzati képviselői tevékenység.
 
 (2) Az önálló tevékenységből származó bevételből – kivéve, ha törvény másként rendelkezik – a 17–23. § rendelkezéseinek figyelembevételével számított rész a jövedelem.
 
@@ -675,7 +675,8 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 - e) a jogszabály alapján választott vagy kijelölt tisztségviselő (ideértve a felügyelőbizottság tagját és a Polgári Törvénykönyv szerinti küldöttgyűlés tagját, de ide nem értve a választott könyvvizsgálót) tevékenysége, ha ezt a tevékenységet nem egyéni vállalkozóként végzi,
 - f) a segítő családtag tevékenysége,
 - g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony,
-- h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység.
+- h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység,
+- h) az országgyűlési képviselői tevékenység.
 
 (2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint kell kiszámítani.
 
@@ -3187,7 +3188,7 @@ g)
 
 8.9. a gátkaszálásból származó terményjuttatás, valamint a fürdőben (strandon) foglalkoztatott magánszemély által igénybe vett fürdőszolgáltatás;
 
-8.10. az Országgyűlés hivatali szervezete által az országgyűlési képviselők javadalmazásáról szóló törvény alapján az országgyűlési képviselői tisztség ellátására tekintettel természetben biztosított eszköz, szolgáltatás;
+8.10. az Országgyűlés hivatali szervezete által az országgyűlési képviselői és a nemzetiségi szószólói tisztség ellátására tekintettel természetben biztosított eszköz, szolgáltatás;
 
 8.11. a csoportos személyszállítás;
 
@@ -3467,7 +3468,7 @@ c) az internet-használat díja (ideértve különösen az egyszeri, a havi, a f
 
 d) a munkáltató székhelyétől, telephelyétől elkülönült munkavégzési hely bérleti díja, a fűtés, a világítás és a technológiai energia díja azzal, hogy ha a lakás és a munkavégzési hely műszakilag nem elkülönített, akkor e kiadás(oka)t a távmunkavégzéssel arányosan, az adott költségre jellemző mértékegységek (munkaidő, m2, m3 stb.) alapulvételével lehet figyelembe venni.
 
-25. az európai parlamenti, az országgyűlési, a helyi önkormányzati képviselői tevékenységgel összefüggésben megszerzett bevétel esetén, valamint a polgármester költségátalánya esetén az adott tisztséggel összefüggő feladat ellátása érdekében felmerült, a magánszemély nevére kiállított bizonylattal igazolt kiadás – ideértve különösen a lakhatási támogatásra jogosult országgyűlési képviselő szállásra fordított kiadását –, valamint az adott tisztséggel összefüggő feladat ellátása érdekében használt tárgyi eszközök átalány-értékcsökkenése.
+25. az európai parlamenti, az országgyűlési, a helyi önkormányzati képviselői és a nemzetiségi szószólói tevékenységgel összefüggésben megszerzett bevétel esetén, valamint a polgármester költségátalánya esetén az adott tisztséggel összefüggő feladat ellátása érdekében felmerült, a magánszemély nevére kiállított bizonylattal igazolt kiadás – ideértve különösen a lakhatási támogatásra jogosult országgyűlési képviselő vagy nemzetiségi szószóló szállásra fordított kiadását –, valamint az adott tisztséggel összefüggő feladat ellátása érdekében használt tárgyi eszközök átalány-értékcsökkenése.
 
 II. Igazolás nélkül elszámolható költségek
 

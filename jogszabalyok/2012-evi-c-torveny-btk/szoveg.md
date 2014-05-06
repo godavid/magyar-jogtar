@@ -5680,7 +5680,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - e) a háborús és a katonai bűncselekmények esetében a Magyar Honvédség külföldi alkalmazása is;
 - 11. hivatalos személy:
   - a) a köztársasági elnök,
-  - b) az országgyűlési képviselő és a Magyarországon megválasztott európai parlamenti képviselő,
+  - b) az országgyűlési képviselő, a nemzetiségi szószóló és a Magyarországon megválasztott európai parlamenti képviselő,
   - c) az alkotmánybíró,
   - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár és a kormánymegbízott,
   - e) a bíró, az ügyész és a választottbíró,
