@@ -18,11 +18,7 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 4. §
 
-5. § Az Szja tv. 24. § (1) bekezdése a következő h) alponttal egészül ki:
-
-(Nem önálló tevékenység)
-
-„h) az országgyűlési képviselői tevékenység.”
+5. §
 
 6–10. §
 
@@ -45,14 +41,14 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 20. § Hatályát veszti az Szja tv.
 
 - 1.
-- 2. 16. § (1) bekezdésében „az országgyűlési képviselői,” szövegrész;
+- 2.
 - 3–5.
 - 6.
 - 7.
 - 8.
 - 9.
 - 10.
-- 11. az 1. számú melléklet 8. pont 8.10. alpontjában az „az országgyűlési képviselők javadalmazásáról szóló törvény alapján” szövegrész;
+- 11.
 - 12.
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
