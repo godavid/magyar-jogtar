@@ -582,7 +582,7 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 
 ### Az önálló tevékenységből származó jövedelem
 
-16. § (1) Önálló tevékenység minden olyan tevékenység, amelynek eredményeként a magánszemély bevételhez jut, és amely e törvény szerint nem tartozik a nem önálló tevékenység körébe. Ide tartozik különösen az egyéni vállalkozó, a mezőgazdasági őstermelő, a bérbeadó, a választott könyvvizsgáló tevékenysége, az európai parlamenti, a nemzetiségi szószólói, valamint a helyi önkormányzati képviselői tevékenység.
+16. § (1) Önálló tevékenység minden olyan tevékenység, amelynek eredményeként a magánszemély bevételhez jut, és amely e törvény szerint nem tartozik a nem önálló tevékenység körébe. Ide tartozik különösen az egyéni vállalkozó, a mezőgazdasági őstermelő, a bérbeadó, a választott könyvvizsgáló tevékenysége, az európai parlamenti, valamint a helyi önkormányzati képviselői tevékenység.
 
 (2) Az önálló tevékenységből származó bevételből – kivéve, ha törvény másként rendelkezik – a 17–23. § rendelkezéseinek figyelembevételével számított rész a jövedelem.
 
@@ -676,7 +676,8 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 - f) a segítő családtag tevékenysége,
 - g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony,
 - h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység,
-- h) az országgyűlési képviselői tevékenység.
+- i) az országgyűlési képviselői tevékenység, valamint
+- j) a nemzetiségi szószólói tevékenység.
 
 (2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint kell kiszámítani.
 
@@ -3152,7 +3153,9 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 
 7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó az egyéni vállalkozók, az őstermelők esetében agrár csekély összegű (de minimis) támogatásnak minősül.
 
-7.25. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon (ide nem értve annak hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el.
+7.26. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon (ide nem értve annak hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el.
+
+7.27. külföldön bejegyzett pártalapítvány által, a bejegyzés helye szerinti állam állampolgárságával rendelkező munkavállalója részére a munkavégzésre irányuló jogviszonyra tekintettel kifizetett összeg, amennyiben e jogviszonyra tekintettel a bejegyzés helye szerinti állam nem vet ki rá adót.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
