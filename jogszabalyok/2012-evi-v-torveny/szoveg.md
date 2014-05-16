@@ -73,7 +73,7 @@ is megfelelően érteni kell.
 
 terjed ki.
 
-7–8. §
+#### 7–8. §
 
 9. § (1) A Kttv. Magyar Kormánytisztviselői Karra vonatkozó szabályozása hatálybalépésének napján az, aki kormánytisztviselő, a Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) tagjává válik.
 
@@ -99,15 +99,15 @@ terjed ki.
 
 (10) Az MKK megalakulásával kapcsolatos költségeket a Közigazgatási és Igazságügyi Minisztérium fejezete tartalmazza.
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
 12. § Ha a közigazgatási szervnél a munkaszerződéssel foglalkoztatottak aránya a Kttv. hatálybalépésekor meghaladja a Kttv. 8. § (4) bekezdésében meghatározott mértéket, új munkaszerződés nem köthető, illetve a meglévő szerződések a közigazgatásért és igazságügyért felelős miniszter engedélyével hosszabbíthatóak meg addig, amíg az ilyen szerződésekkel foglalkoztatottak aránya az engedélyezett létszám tíz százalékára nem csökken.
 
 13. § Ha a 2012. február 29-én hatályos Ktv. szabályok szerint felmentési védelemnek minősülő ok 2012. február 29-éig keletkezik és a Kttv. hatálybalépését követően is fennáll, ezen ok fennállásáig a felmentési védelemre jogosító időhöz fűződő jogkövetkezmények tekintetében a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályait kell alkalmazni.
 
-14. §
+#### 14. §
 
 15. § Ha a kormányzati szolgálati jogviszony, közszolgálati jogviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmentést vagy a munkáltató jogutód nélküli megszűnését 2012. január 1-jét megelőzően közölte, a kormánytisztviselő, köztisztviselő, kormányzati ügykezelő, közszolgálati ügykezelő a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.
 
@@ -115,7 +115,7 @@ terjed ki.
 
 17. § A Kttv. 234. § (3)–(6) bekezdését azzal kell alkalmazni, hogy a köztisztviselőnek a Kttv. hatálybalépésekor érvényes illetménye nem csökkenthető oly módon, hogy ha a helyi önkormányzat csökkenti vagy megszünteti az illetménykiegészítést, annak a jogviszonynak a fennállásáig, amelyben a köztisztviselő számára az illetménykiegészítést megállapították.
 
-18–19. §
+#### 18–19. §
 
 19/A. § (1) Az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel [72. §, 98. §, 109. § (2) bekezdés 15., 17., 18., és 29. pontja] megállapított Kormánytisztviselői Döntőbizottságra vonatkozó szabályokat a folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -151,11 +151,20 @@ terjed ki.
 
 19/F. § A Kttv.-nek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított, a személyiségi jogok megsértésével kapcsolatos jogkövetkezményekre vonatkozó szabályait a 2014. március 15-én és ezt követően történt jogsértésekre kell alkalmazni.
 
+19/G. § (1) A Kttv.-nek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2014. évi XVIII. törvény hatálybalépését megelőző napon hatályos 69. § (5) bekezdés c) pontját, 204. § (3)–(6) bekezdését és 205. § (1) bekezdését alkalmazni kell arra
+
+- a) a politikai főtanácsadóra, politikai tanácsadóra és kabinetfőnökre is, aki az országgyűlési képviselők 2014. évi általános választásakor kormányzati szolgálati jogviszonyban,
+- b) az önkormányzati főtanácsadóra, önkormányzati tanácsadóra is, aki a helyi önkormányzati képviselők 2014. évi általános választásakor közszolgálati jogviszonyban
+
+állt, a (2) bekezdésben meghatározott eltérésekkel.
+
+(2) A végkielégítés megfizetésére az (1) bekezdés szerinti jogviszony megszűnését követő hatvanegyedik napon kell intézkedni, és ha az (1) bekezdés szerinti személy az (1) bekezdés szerinti jogviszony megszűnését követő hatvan napon belül újabb kormányzati szolgálati jogviszonyt vagy közszolgálati jogviszonyt létesít, végkielégítésre nem jogosult.
+
 #### 2. A közszolgálati tisztviselőkről szóló törvényhez kapcsolódó egyes törvények módosítása
 
-20–34. §
+#### 20–34. §
 
-35. §
+#### 35. §
 
 #### 2/A. A közszolgálati joganyagnak az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló törvénnyel hatályon kívül helyezett rendelkezéseivel összefüggő szabályozási átmenet
 
@@ -183,7 +192,7 @@ terjed ki.
 
 41. § Mentesül a közigazgatási felsővezetői képzés és vizsga alól az, aki 2012. szeptember 1-jét megelőzően állami vezetői megbízatással vagy a Ktv. 2009. november 11-én hatályos 31. § (10) bekezdésében meghatározott vezetői megbízással, kinevezéssel legalább egy évig rendelkezett.
 
-42–52. §
+#### 42–52. §
 
 #### 3. Záró rendelkezések
 
@@ -199,22 +208,14 @@ terjed ki.
 
 (6) A 60. § (17) bekezdése 2012. szeptember 1-jén lép hatályba.
 
-#### 4. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+#### 4.
 
-54. § (1) E törvény 21. § (1) és (4) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+#### 54. §
 
-(2) E törvény 22. §-a az Alaptörvény 43. cikk (4) bekezdése alapján sarkalatosnak minősül.
+#### 55–59. §
 
-(3) E törvény 32. § (1) bekezdése az Alaptörvény XXIX. cikk (3) bekezdése alapján, 33. § (1) bekezdése az Alaptörvény VII. cikk (3) bekezdése alapján sarkalatosnak minősül.
+#### 60–61. §
 
-(4) A 35. § (1) és (4) bekezdése és az 59. § (4) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
-
-(5) E törvény 39. §-a az Alaptörvény 23. cikke és 42. cikke alapján sarkalatosnak minősül.
-
-55–59. §
-
-60–61. §
-
-62. §
+#### 62. §
 
 ### Melléklet a 2012. évi V. törvényhez

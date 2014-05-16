@@ -1020,7 +1020,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 30. Összeférhetetlenség
 
-80. § (1) A képviselői megbízatás – a (2) és (4) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő más kereső foglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
+80. § (1) A képviselői megbízatás – a (2) és (4) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más kereső foglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 
 (2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
@@ -1047,7 +1047,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 32. Egyéb összeférhetetlenségi szabályok
 
-86. § (1) Képviselő nem járhat el az állam, központi államigazgatási szerv, központi költségvetési szerv, teljes vagy többségi állami tulajdonban álló gazdálkodó szervezet jogi képviselőjeként.
+86. § (1)
 
 (2) A képviselő szakmai vagy üzleti ügyben képviselői minőségére nem hivatkozhat.
 
@@ -1062,7 +1062,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 - a) akit – képviselői megbízatásának ideje alatt – bűntett miatt jogerősen elítéltek, kivéve ha a közügyek gyakorlásától eltiltották,
 - b) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi.
 
-#### 33. Bejelentési kötelezettség alá eső tevékenységek és jövedelmek
+#### 33. Bejelentési kötelezettség alá eső tevékenységek
 
 89. § A képviselő a házelnöknek köteles bejelenteni minden, összeférhetetlenség alá nem eső
 
@@ -1130,7 +1130,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) A képviselőt mandátuma igazolásától a munkáltató – a munkavállaló kérésének megfelelően – a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 
-(3) Ha a képviselő a megválasztása előtt ügyész, kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
+(3) Ha a képviselő a megválasztása napján ügyész, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban vagy közalkalmazotti jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
 97. § (1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a honvédek jogállásáról szóló törvény, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
 
@@ -1265,7 +1265,7 @@ emelkedik.
 
 (1a) A képviselő akkor is jogosult az (1) bekezdés szerinti lakóház vagy lakás használatára, ha az (1) bekezdés a) pontja esetén a képviselő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában csak olyan budapesti lakóház vagy lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
 
-(2) Ha az (1) bekezdésben foglaltakat az Országgyűlés Hivatala nem a vagyonkezelésében lévő lakóház vagy lakás használatba adásával biztosítja, abban az esetben a megfelelő lakóház vagy lakás használatba adásának biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 25%-ának megfelelő összeget használhat fel. A lakóház vagy lakás rendeltetésszerű használata során felmerülő egyéb költségek a képviselőt terhelik. A nem rendeltetésszerű használat során bekövetkezett károkért a képviselő felelős.
+(2) Ha az (1) bekezdésben foglaltakat az Országgyűlés Hivatala nem a vagyonkezelésében lévő lakóház vagy lakás használatba adásával biztosítja, abban az esetben a megfelelő lakóház vagy lakás használatba adásának biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 25%-ának megfelelő összeget használhat fel, amely kiterjed a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével összefüggő kiadások teljesítésére is. A lakóház vagy lakás rendeltetésszerű használata során felmerülő egyéb költségek a képviselőt terhelik. A nem rendeltetésszerű használat során bekövetkezett károkért a képviselő felelős.
 
 (2a) Bármely képviselő, illetve közeli hozzátartozója, valamint a 111. § (3) bekezdésében meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
 
@@ -1285,7 +1285,7 @@ a (2) bekezdésben foglaltak biztosítására nem használható.
 
 (5) Az alelnök és a képviselőcsoport vezetője akkor is jogosult budapesti hivatali lakás használatára, ha az ő vagy vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten vagy közvetlen vonzáskörzetében csak olyan lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
 
-111. § (1) A képviselő választókerületének székhelyén vagy a választókerületében általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületében meghatározott helyen, az országos listán megválasztott képviselő esetében az általa meghatározott településen a képviselői tevékenységének ellátására alkalmas az Országgyűlés Hivatala által biztosított irodai elhelyezésre jogosult, amely magában foglalja a megfelelő színvonalú irodai berendezést és felszerelést, az iroda működtetésével összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
+111. § (1) A képviselő választókerületének székhelyén, illetve a választókerületben általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületben meghatározott helyen, az országos listán megválasztott képviselő esetében az általa megválasztott településen a képviselői tevékenység ellátására alkalmas az Országgyűlés Hivatala által biztosított, egy vagy több ingatlanban megvalósuló irodai elhelyezésre jogosult, amely minden képviselő esetében egy irodánál magában foglalja a megfelelő színvonalú irodai berendezést és felszerelést, továbbá az iroda vagy irodák működtetésével – így különösen a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével – összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
 
 (1a) Bármely képviselő, illetve közeli hozzátartozója, valamint a 111. § (3) bekezdésében meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
 
@@ -1297,11 +1297,11 @@ a (2) bekezdésben foglaltak biztosítására nem használható.
 
 az (1) bekezdésben foglaltak biztosítására nem használható.
 
-(1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely párt tulajdonában vagy vagyonkezelésében van, illetve amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója, vagy a 111. § (3) bekezdésében meghatározott személy, illetve ezek közeli hozzátartozója a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
+(1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy élettársa, vagy a 111. § (3) bekezdésében meghatározott személy, illetve ezek közeli hozzátartozója vagy élettársa a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
 
 (2)
 
-(3) A képviselő tevékenységét az Országgyűlés Hivatala által finanszírozott személyek segítik, munkavégzésük helye a képviselő (1) bekezdés szerinti irodája.
+(3) A képviselő tevékenységét az Országgyűlés Hivatala által finanszírozott személyek segítik.
 
 (4) A képviselő az Országgyűlés Hivatalán keresztül jogosult térítésmentesen igénybe venni a képviselői tevékenységének ellátásához szükséges postai és elektronikus hírközlési szolgáltatásokat. A képviselő az Országgyűlés Hivatalán keresztül jogosult havonta legfeljebb a mindenkori legkisebb munkabér (minimálbér) 30%-ának megfelelő összeg erejéig mobiltelefon-szolgáltatás igénybevételére, amelyhez az Országgyűlés Hivatala biztosít megfelelő készüléket. Az Országgyűlés Hivatala a képviselő számára biztosítja a minősített elektronikus aláírás használatának lehetőségét és feltételeit.
 
@@ -1315,9 +1315,13 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 (3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíjnak megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
 
-(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére.
+(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére.
 
-(5) Képviselő közeli hozzátartozója nem foglalkoztatható a 111. § (2)–(3) bekezdése alapján képviselő tevékenységét segítő alkalmazottként.
+(5) Képviselő közeli hozzátartozója nem foglalkoztatható a 111. § (3) bekezdése alapján képviselő tevékenységét segítő alkalmazottként.
+
+(6) A képviselő a 111. § (1) bekezdésében meghatározott jogosultságának gyakorlásáról a képviselőcsoportja javára írásos nyilatkozatban lemondhat, amely nyilatkozatban a képviselő a (2) bekezdés szerinti keret feletti rendelkezési jogot a képviselőcsoport vezetőjére ruházza át.
+
+(7) A képviselőcsoport vezetője a (6) bekezdés szerinti rendelkezési jogát személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.
 
 #### 38. A képviselőcsoport működési feltételeinek biztosítása
 
@@ -1368,15 +1372,17 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 117. § A képviselőcsoport működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatásokat az Országgyűlés Hivatala biztosítja.
 
-118. § (1) A képviselőcsoport a 113. § (1) bekezdésében meghatározott keret, valamint a 114. § (3) bekezdésében meghatározott keret között év közben átcsoportosítást hajthat végre.
+118. § (1) A képviselőcsoport a 112. § (2) bekezdésében meghatározott keret, a 113. § (1) bekezdésében meghatározott keret, valamint a 114. § (3) bekezdésében meghatározott keret között év közben átcsoportosítást hajthat végre.
 
-(2) A képviselőcsoport vezetője a 112. § (3) bekezdésében, a 115. § (4) és (6) bekezdésében meghatározott keretből a 113. § (1) bekezdésében, illetve a 114. § (3) bekezdésében meghatározott keretre – a 112. § (3) bekezdésében meghatározott keret tekintetében a képviselő egyetértésével – év közben átcsoportosítást hajthat végre.
+(2) A képviselőcsoport vezetője a 112. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretből a 113. § (1) bekezdésében, illetve a 114. § (3) bekezdésében meghatározott keretre év közben átcsoportosítást hajthat végre.
 
-(3) A (2) bekezdésben meghatározott átcsoportosítások során a munkáltatót terhelő járulékok összegét is figyelembe kell venni.
+(3) A képviselőcsoport vezetője a 112. § (3) bekezdésében meghatározott keret, valamint a 115. § (4) és (6) bekezdésében meghatározott keretek között év közben átcsoportosítást hajthat végre.
 
-(4) A képviselőcsoport havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatja az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1)–(2) bekezdésben meghatározott átcsoportosításokról.
+(4) A (2) bekezdésben meghatározott átcsoportosítások során a munkáltatót terhelő járulékok összegét is figyelembe kell venni.
 
-(5) A független képviselő esetében az (1)–(4) bekezdésben meghatározottakat megfelelően alkalmazni kell.
+(5) A képviselőcsoport havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatja az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1)–(3) bekezdésben meghatározott átcsoportosításokról.
+
+(6) A független képviselő esetében az (1)–(5) bekezdésben meghatározottakat megfelelően alkalmazni kell.
 
 #### 39. A volt képviselő juttatásai
 
@@ -1705,7 +1711,7 @@ sarkalatosnak minősül.
 
 (7) A 160. § (2) bekezdés a) pontja az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-(8) A 149. § (2) bekezdése, a 154. § és a 160. § (4) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+(8) A 80. § (4) bekezdése, a 149. § (2) bekezdése, a 154. § és a 160. § (4) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (9) Az 50. alcím az Alaptörvénynek az (1)–(4), (6) és (7) bekezdésben meghatározott rendelkezései alapján sarkalatosnak minősül.
 

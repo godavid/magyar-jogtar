@@ -227,7 +227,7 @@ megismerése nem korlátozható.
 
 (5) Amennyiben az ajánlatkérő egy közbeszerzési eljáráson belül teszi lehetővé a részekre történő ajánlattételt, minden rész értékét egybe kell számítani a közbeszerzés becsült értékének meghatározásakor.
 
-(6) A (2) bekezdést a külképviseletek számára történő beszerzéskor külképviseletenként, az állami köznevelési intézményfenntartó által fenntartott intézményenként, az országgyűlési képviselőcsoportok törvény alapján biztosított működési kerete terhére lefolytatandó beszerzésekkor pedig képviselőcsoportonként külön kell alkalmazni. A (2) bekezdést továbbá külön kell alkalmazni az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés a)–c) pontjában, valamint 10. § (1) bekezdésében említett szerveknek a részükre jóváhagyott részelőirányzataik terhére megvalósítandó beszerzései vonatkozásában.
+(6) A (2) bekezdést a külképviseletek számára történő beszerzéskor külképviseletenként, az állami köznevelési intézményfenntartó által fenntartott intézményenként, az országgyűlési képviselőcsoportok törvény alapján biztosított működési és ellátási kerete terhére lefolytatandó beszerzésekkor pedig képviselőcsoportonként külön kell alkalmazni. A (2) bekezdést továbbá külön kell alkalmazni az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés a)–c) pontjában, valamint 10. § (1) bekezdésében említett szerveknek a részükre jóváhagyott részelőirányzataik terhére megvalósítandó beszerzései vonatkozásában.
 
 ### Az alkalmazandó eljárásrend
 
@@ -1524,7 +1524,9 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - j) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, vagy teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 - k) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel és pénzkölcsön, valamint pénzforgalmi szolgáltatás igénybevételére;
 - l) a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
-- m) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére.
+- m) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére;
+- n) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
+- o) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti.
 
 ### Az alkalmazandó eljárási szabályok
 
