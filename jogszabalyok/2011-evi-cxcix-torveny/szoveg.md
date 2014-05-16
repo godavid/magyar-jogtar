@@ -1099,7 +1099,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 
 - a) a jogelőd munkáltatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál – ,
 - b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
-- c) a 204. § (5) bekezdése szerint folyamatosnak tekintendő kormányzati szolgálati jogviszony esetében a politikai főtanácsadói, politikai tanácsadói jogviszonyban,
+- c)
 - d) átminősítés esetén a hivatásos szolgálati viszonyban eltöltött idő is.
 
 (6) Az (5) bekezdésben meghatározottak kivételével a végkielégítésre való jogosultság feltétele, hogy a kormányzati szolgálati jogviszony folyamatosan fennálljon a jogviszony megszüntetéséig.
@@ -2915,19 +2915,15 @@ kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével s
 
 (2) A 101. § (1) bekezdése szerinti alapszabadságon felül a politikai főtanácsadó kilenc nap, a politikai tanácsadó hét nap pótszabadságra jogosult évente.
 
-(3) Ha a politikai főtanácsadói, politikai tanácsadói kinevezése a miniszterelnök, a miniszter vagy az államtitkár megbízatásának megszűnése következtében szűnik meg, végkielégítés címén kéthavi illetményére jogosult, feltéve, hogy a politikai főtanácsadói, politikai tanácsadói jogviszonya legalább két évig folyamatosan fennállt.
+(3)–(5)
 
-(4) A végkielégítés megfizetésére a jogviszony megszűnését követő harmincegyedik napon kell intézkedni.
-
-(5) Amennyiben a politikai főtanácsadó, politikai tanácsadó jogviszonyának a (3) bekezdésében szabályozott módon történő megszűnését követő harminc napon belül újabb politikai főtanácsadói, politikai tanácsadói munkakörre kap kinevezést, végkielégítésre nem jogosult, de a (3) bekezdés szerinti végkielégítés szempontjából jogviszonyát folyamatosnak kell tekinteni.
-
-(6) Amennyiben a politikai főtanácsadó, politikai tanácsadó jogviszonyának a 203. § (6) bekezdésében szabályozott módon történő megszűnését követő harminc napon belül újabb kormányzati szolgálati jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni. A 69. § (3)–(4) bekezdésének alkalmazása szempontjából a politikai főtanácsadói, politikai tanácsadói munkakörben töltött idő kormányzati szolgálati jogviszonyban töltött időnek minősül.
+(6) Ha a politikai főtanácsadó, politikai tanácsadó jogviszonyának a 203. § (6) bekezdésében szabályozott módon történő megszűnését követő hatvan napon belül újabb kormányzati szolgálati jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni.
 
 (7) A politikai főtanácsadóra, politikai tanácsadóra e törvény rendelkezéseit megfelelően kell alkalmazni a 45. § (1)–(3) és (6) bekezdése, 58. §, 62. §, 69. §, 72–73. §, 101. § (2)–(7) bekezdése, 116–130. §, 131. § (2) és (7) bekezdése, 132–142. §, 150. §, 181. § kivételével.
 
 ### Kabinetfőnök
 
-205. § (1) A politikai tanácsadói, politikai főtanácsadói munkakörbe kinevezett kabinetfőnökre a miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre vonatkozó e § szerinti rendelkezéseket kell alkalmazni. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök kinevezése a 203. § (6) bekezdésben meghatározott időre szól. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök végkielégítésre a 204. § (3)–(6) bekezdés alapján jogosult.
+205. § (1) A politikai tanácsadói, politikai főtanácsadói munkakörbe kinevezett kabinetfőnökre a miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre vonatkozó e § szerinti rendelkezéseket kell alkalmazni. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök kinevezése a 203. § (6) bekezdésében meghatározott időre szól.
 
 (2) A miniszteri kabinetet főosztályvezetőként vezető kabinetfőnök felett a munkáltatói jogokat a miniszter, az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök felett az alapvető munkáltatói jogokat a miniszter, míg az egyéb munkáltató jogokat az államtitkár gyakorolja.
 
