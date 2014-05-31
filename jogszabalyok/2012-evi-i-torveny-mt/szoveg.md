@@ -595,7 +595,7 @@ foglalkoztatás lehetőségéről.
 
 (4) A (3) bekezdés szerinti védelem alkalmazása szempontjából a felmondás közlésének, csoportos létszámcsökkentés esetén a 75. § (1) bekezdés szerinti tájékoztatás közlésének időpontja az irányadó.
 
-(5) A (3) bekezdés a) és e) pontban meghatározott körülményre a munkavállaló csak akkor hivatkozhat, ha erről a munkáltatót a felmondás közlését megelőzően tájékoztatta.
+(5) A (3) bekezdés a) és e) pontban meghatározott körülményre a munkavállaló csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta.
 
 (6) A (3) bekezdés c) pontban meghatározott védelem az anyát illeti meg, ha a fizetés nélküli szabadságot mindkét szülő igénybe veszi.
 
