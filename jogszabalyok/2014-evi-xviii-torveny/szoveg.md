@@ -26,15 +26,11 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolód�
 
 11. § (1)
 
-(2) Az Ogytv. 80. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A képviselő főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlési elnöki, megyei közgyűlési alelnöki, polgármesteri, alpolgármesteri, helyi önkormányzati képviselői és nemzetiségi önkormányzati képviselői megbízatást (a továbbiakban együtt: polgármesteri megbízatás) láthat el. A képviselő polgármesteri megbízatása alatt polgármesteri megbízatásból származó tiszteletdíjra, illetményre, egyéb díjazásra, illetve polgármesteri megbízatásával összefüggő költségtérítésre, költségátalányra nem jogosult.”
+(2)
 
 12. §
 
-13. § Az Ogytv. 109. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A képviselő – a miniszterelnök, a miniszter, az államtitkár, a házelnök, az alelnök, a képviselői megbízatással rendelkező háznagy, a képviselőcsoport vezetője, valamint annak a polgármesteri megbízatást ellátó képviselőnek a kivételével, aki nyilatkozata alapján polgármesteri megbízatásával összefüggésben személygépkocsi használatra jogosult – nevére, valamint az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Az üzemanyagkártya feltöltése első alkalommal a feltöltés időpontját alapul véve az adott tárgynegyedév végéig, a második alkalomtól kezdődően havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.”
+13. §
 
 14–18. §
 
