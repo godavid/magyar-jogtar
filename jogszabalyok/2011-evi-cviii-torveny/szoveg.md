@@ -72,7 +72,7 @@ a közbeszerzésekről
 
 6. § (1) E törvény alkalmazásában ajánlatkérők:
 
-- a) a minisztérium, a Miniszterelnökség, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
+- a) a minisztérium, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 - b) az állam, a helyi önkormányzat és minden költségvetési szerv, a közalapítvány, a helyi és országos nemzetiségi önkormányzat, a helyi önkormányzatok társulása, a helyi önkormányzat által a helyben központosított közbeszerzés keretében, valamint több helyi önkormányzat, illetve a közös hivatalhoz tartozó települések központosított közbeszerzési rendszere keretében ajánlatkérésre kizárólagosan feljogosított szervezet, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács;
 - c) az a jogképes szervezet, amelyet közérdekű, de nem ipari vagy kereskedelmi jellegű tevékenység folytatása céljából hoznak létre, vagy amely ilyen tevékenységet lát el, ha az a)–d) pontokban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány külön-külön vagy együttesen, közvetlenül vagy közvetetten meghatározó befolyást képes felette gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza;
 - d) a 9. § (1) bekezdés k) pontja szerinti gazdálkodó szervezet;
@@ -2225,7 +2225,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - b) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
 - c) az agrár-vidékfejlesztésért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
 - d) az építésügyért felelős miniszter által kijelölt személy;
-- e) a Miniszterelnökséget vezető államtitkár által kijelölt személy;
+- e) a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy;
 - f) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
 - g) a Gazdasági Versenyhivatal elnöke vagy az általa kijelölt személy;
 - h) a Kormányzati Ellenőrzési Hivatal elnöke vagy az általa kijelölt személy;
@@ -2521,7 +2521,7 @@ az Ükt. hatálybalépése után megkezdett közbeszerzési eljárásokra kell a
 
 (3) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben szabályozza a helyben központosított közbeszerzési eljárások részletes szabályait, a helyben központosított közbeszerzés szabályai szerint eljárni köteles szervek körét, a helyben központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét.
 
-(4) Felhatalmazást kap a belügyminiszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.
+(4) Felhatalmazást kap a közfoglalkoztatásért felelős miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.
 
 ### Az Európai Unió jogának való megfelelés
 

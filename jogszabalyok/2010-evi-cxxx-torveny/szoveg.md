@@ -277,7 +277,7 @@ a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szerveze
 - c) az Alkotmánybíróság,
 - d) az alapvető jogok biztosa,
 - e) az önálló szabályozó szerv, valamint
-- f) a Miniszterelnökség és a minisztérium
+- f) a minisztérium
 
 hivatali szervezetének vezetője, amely a szerv állományába tartozó személyekre kötelező.
 
@@ -297,7 +297,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 25/A. § (1) A Magyar Közlöny kiadása során a Magyar Közlöny felelős szerkesztője az elektronikus dokumentumot minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A Magyar Közlöny és a mellékleteként megjelenő külön sorozatának egyes lapszámain a megjelenés dátumát fel kell tüntetni, amely nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
 
-(2) A Magyar Közlöny felelős szerkesztőjét és a helyettesítésére jogosult személyt a kormányzati tevékenység összehangolásáért felelős miniszter normatív utasításban jelöli ki.
+(2) A Magyar Közlöny felelős szerkesztőjét és a helyettesítésére jogosult személyt az igazságügyért felelős miniszter normatív utasításban jelöli ki.
 
 (3) Az (1) bekezdésben meghatározott elektronikus aláírás ellenőrzéséhez a Magyar Közlöny felelős szerkesztője és a helyettesítésére jogosult személy aláírásaihoz tartozó nyilvános kulcsok a kormányzati portálnak a Magyar Közlöny közzétételére szolgáló oldalán érhetőek el.
 
@@ -319,9 +319,9 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (4) A Kormány tagja rendelet kiadásában (aláírásában) nem helyettesíthető.
 
-(5) A köztársasági elnök által aláírt törvénynek, a Magyar Nemzeti Bank elnöke rendeletének, az önálló szabályozó szerv vezetője rendeletének és a (3)–(4) bekezdés szerint aláírt rendeletnek a Magyar Közlönyben való kihirdetéséről – a kézhezvételt követően haladéktalanul – a kormányzati tevékenység összehangolásáért felelős miniszter gondoskodik.
+(5) A köztársasági elnök által aláírt törvénynek, a Magyar Nemzeti Bank elnöke rendeletének, az önálló szabályozó szerv vezetője rendeletének és a (3)–(4) bekezdés szerint aláírt rendeletnek a Magyar Közlönyben való kihirdetéséről – a kézhezvételt követően haladéktalanul – az igazságügyért felelős miniszter gondoskodik.
 
-(6) A fővárosi és megyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével a közjogi szervezetszabályozó eszköz közzétételéről – az arra jogosult általi aláírását követően – a kormányzati tevékenység összehangolásáért felelős miniszter a kézhezvételt követően haladéktalanul gondoskodik.
+(6) A fővárosi és megyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével a közjogi szervezetszabályozó eszköz közzétételéről – az arra jogosult általi aláírását követően – az igazságügyért felelős miniszter a kézhezvételt követően haladéktalanul gondoskodik.
 
 (7)
 
@@ -339,9 +339,9 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (1a) A köztársasági elnöknek az (1) bekezdéssel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
 
-(2) A helyesbítésre a jogszabály hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon kerülhet sor, ha az (1) bekezdés szerinti eltérést a kormányzati tevékenység összehangolásáért felelős miniszter megállapítja.
+(2) A helyesbítésre a jogszabály hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon kerülhet sor, ha az (1) bekezdés szerinti eltérést az igazságügyért felelős miniszter megállapítja.
 
-(3) A helyesbítést a Magyar Közlönyben kell közzétenni. A közzétételről a kormányzati tevékenység összehangolásáért felelős miniszter a kezdeményezést követően haladéktalanul gondoskodik.
+(3) A helyesbítést a Magyar Közlönyben kell közzétenni. A közzétételről az igazságügyért felelős miniszter a kezdeményezést követően haladéktalanul gondoskodik.
 
 #### 14/A. Egyes más jogi aktusok nyilvánossága
 
@@ -403,12 +403,12 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben határozza meg az előzetes és az utólagos hatásvizsgálat részletes szabályait.
 
-(4) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
 - a) a jogszabály kihirdetés során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelölésének, valamint
 - b) a Magyar Közlöny kiadásának részletes szabályait.
 
-(5) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
 - a) az előfizetők 28/C. § (4) bekezdése szerinti számát,
 - b) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésének igazgatási szolgáltatási díját, és

@@ -896,7 +896,7 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 49/D. § (1) Vezényléssel hivatásos szolgálati beosztás is betölthető
 
 - a) a 42. § (2) bekezdés a) és b) pontjában meghatározott szerveknél, továbbá
-- b) az Információs Hivatal állománya tekintetében a Miniszterelnökségen.
+- b)
 
 (2) A hivatásos állománynak az (1) bekezdésben meghatározott szervekhez hivatásos szolgálati beosztás betöltésére vezényelt tagja
 
@@ -1829,14 +1829,14 @@ a gyermek 3. életévének – ikergyermek esetén a tankötelessé válás év�
 
 (2) A felsőfokú iskolai végzettséggel rendelkező hivatásos állomány illetménykiegészítésének mértéke:
 
-- a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, vezénylés esetén is a beosztási illetmény 50%-a,
+- a) a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, vezénylés esetén is a beosztási illetmény 50%-a,
 - b) a miniszter közvetlen irányítása alá tartozó szerveknél, az országos parancsnokságon, a polgári nemzetbiztonsági szolgálatoknál, valamint az NKE-n a beosztási illetmény 40%-a,
 - c) a legalább megyei illetékességű középirányító szervnél (főkapitányság, parancsnokság, igazgatóság) és a vele azonosnak tekinthető szervnél a beosztási illetmény 30%-a,
 - d) helyi szerveknél, alegységeknél a beosztási illetmény 15%-a.
 
 (3) A középfokú iskolai végzettséggel rendelkező hivatásos állomány illetménykiegészítésének mértéke:
 
-- a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, vezénylés esetén is a beosztási illetmény 15%-a,
+- a) a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, vezénylés esetén is a beosztási illetmény 15%-a,
 - b) a miniszter közvetlen irányítása alá tartozó szerveknél, az országos parancsnokságon, a polgári nemzetbiztonsági szolgálatoknál, valamint az NKE-n a beosztási illetmény 20%-a,
 - c) legalább megyei illetékességű középirányító szervnél (főkapitányság, parancsnokság, igazgatóság) és a vele azonosnak tekinthető szervnél a beosztási illetmény 15%-a,
 - d) helyi szerveknél, alegységeknél a beosztási illetmény 10%-a.
@@ -2958,7 +2958,7 @@ különbözetének megtérítése iránti igényt.
 
 (3) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az (1) bekezdésben meghatározott szervek területi szerveinek vezetője főosztályvezetői, a szervezeti egységek vezetője főosztályvezető-helyettesi vagy osztályvezetői, a helyi szervek vezetője főosztályvezetői, főosztályvezető-helyettesi vagy osztályvezetői, a szervezeti egységek vezetője főosztályvezető-helyettesi vagy osztályvezetői beosztási illetményre jogosult.
 
-245/I. § A belügyminiszter irányítása alá tartozó fegyveres szervek, valamint az Országgyűlési Őrség hivatásos állományának tiszthelyettesi és zászlósi rendfokozati állománycsoportba tartozó tagja havonta 24 000 Ft kiegészítő juttatásra jogosult.
+245/I. § A rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítása alá tartozó fegyveres szervek, valamint az Országgyűlési Őrség hivatásos állományának tiszthelyettesi és zászlósi rendfokozati állománycsoportba tartozó tagja havonta 24 000 Ft kiegészítő juttatásra jogosult.
 
 245/J–245/M. §
 
@@ -3431,7 +3431,7 @@ Szolgálatonként:
 
 (3) A polgári nemzetbiztonsági szolgálatok esetében a miniszter a kihelyezett állományra vonatkozó különös szabályokat utasításban állapítja meg.
 
-(4) Az Információs Hivatal esetében – az (1) és (3) bekezdéstől eltérően – a Kormány határozatban állapítja meg az (1) és (3) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában a szabályokat.
+(4)
 
 ### XXII. Fejezet — A BÜNTETÉS-VÉGREHAJTÁSI SZERVEZET HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ SZABÁLYOK
 
@@ -3726,11 +3726,11 @@ A pótlékok mértéke:
 - p) a teljesítményértékelés kötelező elemeit és a teljesítményértékelés szintjeit, valamint a kötelező elemek alkalmazásához kapcsolódó eljárás részletes szabályait;
 - q) a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
 
-(1a) Felhatalmazást kap a Kormány, hogy – ha e törvény eltérően nem rendelkezik – rendeletben a (2) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
+(1a)
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
-- 1. a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a személyügyi igazgatás rendjét, azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét, a 42. § (2) bekezdés a) és b) pontjában meghatározott szerveknél, valamint a Miniszterelnökségnél vezényléssel betölthető szolgálati beosztásokat és azok számát, azokat a szolgálati beosztásokat, amelyek a rendőrség különleges állományában határozott idejű szolgálati viszonyban tölthetők be, az előmenetel részletes szabályait, a visszavétel, az áthelyezés, a megbízás, a fegyveres szerven belüli vezénylés feltételeit, eljárási rendjét, a munkáltatói intézkedések kiadásának rendjét, a beosztási kategóriákba történő besorolás és az előresorolás rendjét, az illetménykiegészítésre jogosító szervek, szervezeti egységek meghatározását;
+- 1. a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a személyügyi igazgatás rendjét, azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét, a 42. § (2) bekezdés a) és b) pontjában meghatározott szerveknél vezényléssel betölthető szolgálati beosztásokat és azok számát, azokat a szolgálati beosztásokat, amelyek a rendőrség különleges állományában határozott idejű szolgálati viszonyban tölthetők be, az előmenetel részletes szabályait, a visszavétel, az áthelyezés, a megbízás, a fegyveres szerven belüli vezénylés feltételeit, eljárási rendjét, a munkáltatói intézkedések kiadásának rendjét, a beosztási kategóriákba történő besorolás és az előresorolás rendjét, az illetménykiegészítésre jogosító szervek, szervezeti egységek meghatározását;
 - 2. a miniszter és az országos parancsnok munkáltatói jogkörében nem szereplő, alacsonyabb szintű munkáltatói jogköröket és a jogkört gyakorló elöljárók körét;
 - 3. az illetmény, illetményjellegű juttatások, egyéb juttatások megállapításának, folyósításának valamint a költségek viselésének szabályait, a végkielégítés kifizetésének rendjét;
 - 4. az illetménypótlékra jogosító beosztást, tevékenységet, az illetménypótlék tényleges mértékét e törvény szerinti alsó és felső határ között, azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, valamint, ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét, továbbá a képzettségi és munkaköri pótlékra vonatkozó részletes szabályokat;

@@ -160,6 +160,10 @@ terjed ki.
 
 (2) A végkielégítés megfizetésére az (1) bekezdés szerinti jogviszony megszűnését követő hatvanegyedik napon kell intézkedni, és ha az (1) bekezdés szerinti személy az (1) bekezdés szerinti jogviszony megszűnését követő hatvan napon belül újabb kormányzati szolgálati jogviszonyt vagy közszolgálati jogviszonyt létesít, végkielégítésre nem jogosult.
 
+19/H. § (1) A Miniszterelnökségen az egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szóló törvénnyel összefüggő módosításáról szóló 2014. évi XXI. törvény (a továbbiakban: Mftvá.) hatálybalépését megelőző napon miniszterelnökségi tanácsadói munkakört betöltő kormánytisztviselő kormánytanácsadói, miniszterelnökségi főtanácsadói munkakört betöltő kormánytisztviselő kormány-főtanácsadói munkakörben tölti be kormányzati szolgálati jogviszonyát az Mftvá. hatálybalépése napjától.
+
+(2) Ha a kormánytisztviselő az Mftvá. hatálybalépésekor kormány-főtanácsadó vagy kormánytanácsadó munkakört tölt be és az általa ellátott feladat olyan minisztériumhoz kerül, amelyben a Kttv. alapján kormány-főtanácsadói vagy kormánytanácsadói munkakör létesítésére nincs lehetőség, az Mftvá. hatálybalépése hónapjának utolsó napjáig ilyen munkakörben alkalmazható. Az új munkáltatói jogkör gyakorlója az ilyen kormánytisztviselőt az ezt követő nappal a Kttv. 125. § (7) bekezdése alapján egyoldalú, írásba foglalt döntésével az államigazgatási szervre vonatkozó szabályok szerint felajánlható másik munkakörbe helyezi át.
+
 #### 2. A közszolgálati tisztviselőkről szóló törvényhez kapcsolódó egyes törvények módosítása
 
 #### 20–34. §

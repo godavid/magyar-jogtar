@@ -380,7 +380,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat, és
 - d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
 
-(16) A Tokaji Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaji Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter, valamint a miniszterelnökséget vezető államtitkár egy-egy képviselője.
+(16) A Tokaji Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaji Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter egy-egy képviselője.
 
 15/A. § (1) A főváros területén – a kerületi önkormányzatok hatáskörébe tartozó fejlesztési feladatok kivételével – a megyei önkormányzat e törvény szerinti feladatait Budapest Főváros Önkormányzata látja el.
 

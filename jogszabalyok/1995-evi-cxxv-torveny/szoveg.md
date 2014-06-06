@@ -132,9 +132,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - b) az Alkotmányvédelmi Hivatalt és a Nemzetbiztonsági Szakszolgálatot a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
 - c) a Katonai Nemzetbiztonsági Szolgálatot a honvédelemért felelős miniszter [az a)–c) pont szerinti miniszterek a továbbiakban együtt: miniszter] útján irányítja.
 
-(2) A Kormány az Információs Hivatalt – a Kormány erre vonatkozó eredeti jogalkotó hatáskörben kiadott kormányrendeleti kijelölése esetén – a miniszterelnök útján is irányíthatja. Ha a Kormány az Információs Hivatalt a miniszterelnök útján irányítja, az e törvényben a miniszter alatt – az Információs Hivatal vonatkozásában – a miniszterelnököt is érteni kell.
-
-(3) Ha a Kormány az Információs Hivatalt a miniszterelnök útján irányítja, az irányítással összefüggő egyes hatásköröket a miniszterelnök a Miniszterelnökség szervezeti és működési szabályzatában a Miniszterelnökséget vezető államtitkárra átruházhatja.
+(2)–(3)
 
 11. § (1) A miniszter
 
@@ -195,9 +193,9 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (2) A Nemzetbiztonsági Szakszolgálat főigazgatójára vonatkozó előterjesztést a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben teszi meg.
 
-12/A. § Ha a Kormány az Információs Hivatalt a miniszterelnök útján irányítja, a 11. § (2) bekezdés j) pontját és a 12. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az Információs Hivatal főigazgatóját a miniszterelnök nevezi ki és menti fel.
+12/A. §
 
-13. § (1) A főigazgatók e törvény, a jogszabályok és a közjogi szervezetszabályozó eszközök által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolgálatokat.
+13. § (1) A főigazgatók e törvény, a jogszabályok és a közjogi szervezetszabályozó eszközök által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolglatokat.
 
 (2) A Magyar Honvédség vezérkari főnöke a honvédelmi törvényben meghatározott feladatai ellátásához szükséges információ átadását – alá- és fölérendeltség hiányában is – közvetlenül igényelheti a Katonai Nemzetbiztonsági Szolgálat főigazgatójától, aki azt haladéktalanul köteles teljesíteni. A szakmai kapcsolattartás és az információszolgáltatás rendjét a honvédelemért felelős miniszter állapítja meg.
 
@@ -993,14 +991,14 @@ kell kezdeményezni.
 
 (3)
 
-78. § (1) Felhatalmazást kap a miniszter, hogy az (1a) bekezdésben meghatározott kivétellel rendeletben megállapítsa:
+78. § (1) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa:
 
 - a) a nemzetbiztonsági szolgálatok lakásgazdálkodása, valamint a lakáscélú munkáltatói támogatás rendjét;
 - b) a szolgálati fegyver rendszeresítésének, viselésének rendjét és használatának részletes szabályait;
 - c) a nemzetbiztonsági szolgálatok létesítményeibe való belépés rendjét;
 - d) a miniszteri elismerések adományozásának rendjét;
 
-(1a) Felhatalmazást kap a Kormány, hogy rendeletben az (1) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
+(1a)
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
@@ -1009,7 +1007,7 @@ kell kezdeményezni.
 - c) mindazokat az eljárásokat, amelyeket a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály saját hatáskörű szabályozásként ír elő;
 - d) a nemzetbiztonsági szolgálatok védelemre jogosult vezetőinek körét, a védelmi intézkedések részletes szabályait.
 
-(3) Felhatalmazást kap a Kormány, hogy határozatban a (2) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
+(3)
 
 79. §
 

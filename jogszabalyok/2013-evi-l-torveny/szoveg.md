@@ -385,9 +385,9 @@ a hatóság részére.
 
 #### 11. A kormányzati koordináció biztosítása
 
-21. § (1) A Miniszterelnökséget vezető államtitkár által vezetett Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) a Kormány javaslattevő, véleményező szerveként gondoskodik a 2. § (1)–(4) bekezdésében meghatározott szervezetek e törvényben és végrehajtási rendeleteiben meghatározott tevékenységeinek összehangolásáról.
+21. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter által vezetett Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) a Kormány javaslattevő, véleményező szerveként gondoskodik a 2. § (1)–(4) bekezdésében meghatározott szervezetek e törvényben és végrehajtási rendeleteiben meghatározott tevékenységeinek összehangolásáról.
 
-(2) A Tanács a Miniszterelnökséget vezető államtitkár vezetésével és a Miniszterelnökség által delegált kiberkoordinátor támogatásával:
+(2) A Tanács a kormányzati tevékenység összehangolásáért felelős miniszter vezetésével és az általa delegált kiberkoordinátor támogatásával:
 
 - a) összehangolja a törvény hatálya alá tartozó szervezetek együttműködését a kiberbiztonsággal összefüggő feladatok ellátásában;
 - b) elősegíti a kiberbiztonság szabályozását, valamint a kiberbiztonság ágazati munkacsoportjainak munkáját;

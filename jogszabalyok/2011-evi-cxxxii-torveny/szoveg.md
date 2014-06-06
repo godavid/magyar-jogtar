@@ -27,11 +27,12 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 4. § Az Egyetem fenntartói jogait Fenntartói Testület (a továbbiakban: FT) útján
 
-- a) a közigazgatás-fejlesztésért,
-- b) a honvédelemért és
-- c) a rendészetért
+- a) a közigazgatás-fejlesztésért felelős miniszter,
+- b) az igazságügyért felelős miniszter,
+- c) a honvédelemért felelős miniszter és
+- d) a rendészetért felelős miniszter
 
-felelős miniszterek (a továbbiakban együtt: fenntartó miniszterek) közösen gyakorolják.
+[az a)–d) pont a továbbiakban együtt: fenntartó miniszterek] közösen gyakorolják.
 
 5. § Az FT
 
@@ -64,7 +65,7 @@ felelős miniszterek (a továbbiakban együtt: fenntartó miniszterek) közösen
 
 9. § (1) Az FT tagjai közül hat hónapra – váltásos rendszerben – ügyvivőt választ. Az FT ülését az ügyvivő vezeti, aki egyúttal gondoskodik a döntések előkészítésével és azok végrehajtásával kapcsolatos feladatok ellátásáról is.
 
-(2) Az FT a hatáskörébe tartozó ügyekben határozattal dönt a három tag egyhangú igen szavazatával. Bármilyen más szavazati arány nemleges döntésnek minősül.
+(2) Az FT a hatáskörébe tartozó ügyekben határozattal dönt a négy tag egyhangú igen szavazatával. Bármilyen más szavazati arány nemleges döntésnek minősül.
 
 (3) Az FT ügyviteli és döntés-előkészítő feladatait az FT ügyvivő irányításával az FT hivatala látja el.
 
@@ -277,7 +278,7 @@ kezeli.
 
 35. § (1) Az Egyetem központi költségvetési szerv.
 
-(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. A fenntartó miniszterek megállapodása alapján kiegészítő jelleggel költségvetési támogatást a rendészetért és a honvédelemért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít.
+(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. A fenntartó miniszterek megállapodása alapján kiegészítő jelleggel költségvetési támogatást az igazságügyért felelős miniszter, a rendészetért felelős miniszter és a honvédelemért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít.
 
 36. § (1) A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
 
@@ -302,24 +303,24 @@ kezeli.
 
 ### VII. Fejezet — A MINŐSÍTETT ADAT VÉDELME AZ EGYETEMEN
 
-38. § (1) Az Egyetem vezetője, oktatója, tudományos kutatója és más alkalmazottja, továbbá a hallgató a minősített adatot képező vagy azt tartalmazó találmányainak szabadalmaztatását, tudományos kutatásainak közzétételét csak a (2) bekezdésben meghatározott, kar szerint illetékes miniszter engedélyével kezdeményezheti.
+38. § (1) Az Egyetem vezetője, oktatója, tudományos kutatója és más alkalmazottja, továbbá hallgatója a minősített adatot képező vagy azt tartalmazó találmányának szabadalmaztatását, tudományos kutatásainak közzétételét csak a felügyeletet gyakorló miniszter engedélyével kezdeményezheti.
 
-(2) Találmányt, kutatási eredményt minősített adattá
-
-- a) a közigazgatási képzést folytató kar tekintetében a közigazgatás-fejlesztésért felelős miniszter,
-- b) a katonai képzést folytató kar tekintetében a honvédelemért felelős miniszter,
-- c) a rendészeti képzést folytató kar és a katasztrófavédelmi képzésért felelős oktatási szervezeti egység tekintetében a rendészetért felelős miniszter,
-- d) a nemzetbiztonsági felsőoktatás tekintetében a rendészetért felelős miniszter és a honvédelemért felelős miniszter közösen minősíthet a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 17. §-ának figyelembevételével.
-
-(3) A (2) bekezdés szerinti minősítés során az érintett országos parancsnok véleményét ki kell kérni.
+(2) A találmányt, a kutatási eredményt a felügyeletet gyakorló miniszter – a rendészeti, a katonai, illetve a nemzetbiztonsági felsőoktatás tekintetében az érintett országos parancsnok véleményének kikérése mellett – a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 17. §-ának figyelembevételével minősítheti minősített adattá.
 
 39. § A minősített adatot tartalmazó tananyaghordozók, dokumentációk, könyvtári segédletek minősítése és megismerése a minősített adat védelmére vonatkozó jogszabályok alapján az Egyetem minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint történhet.
 
 ### VIII. Fejezet — A KÖZIGAZGATÁSI, RENDÉSZETI ÉS KATONAI FELSŐOKTATÁS FELÜGYELETE
 
-40. § A közigazgatási felsőoktatás felügyeletét a közigazgatás-fejlesztésért felelős miniszter, a rendészeti felsőoktatás felügyeletét a rendészetért felelős miniszter, a katonai felsőoktatás felügyeletét a honvédelemért felelős miniszter, a nemzetbiztonsági felsőoktatás felügyeletét pedig a rendészetért és a honvédelemért felelős miniszter közösen látja el (a továbbiakban: felügyeletet gyakorló miniszterek). A felügyelet a miniszterek részére e fejezetben meghatározott jogokat foglalja magában.
+40. § (1) Felügyeletet gyakorló miniszter
 
-41. § (1) Közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatási képzés az illetékes felügyeletet gyakorló miniszter előzetes engedélye alapján indulhat.
+- a) a közigazgatási felsőoktatás tekintetében az igazságügyért felelős miniszter és a közigazgatás-fejlesztésért felelős miniszter együttesen,
+- b) a rendészeti felsőoktatás tekintetében a rendészetért felelős miniszter,
+- c) a katonai felsőoktatás tekintetében a honvédelemért felelős miniszter,
+- d) a nemzetbiztonsági felsőoktatás tekintetében a rendészetért felelős miniszter és a honvédelemért felelős miniszter.
+
+(2) A felügyelet a miniszterek részére a VII. Fejezetben és az e Fejezetben meghatározott jogokat foglalja magában.
+
+41. § (1) Közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatási képzés a felügyeletet gyakorló miniszter előzetes engedélye alapján indulhat.
 
 (2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás tekintetében az adott évben felvehető hallgatói létszámkeretet.
 
@@ -327,9 +328,9 @@ kezeli.
 
 (4) Az adott szakra történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a felügyeletet gyakorló miniszter határozata állapítja meg.
 
-42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az illetékes felügyeletet gyakorló miniszter egyetértésével dönt.
+42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
 
-43. § A közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit a közigazgatás-fejlesztésért felelős miniszter – a honvédelemért és a rendészetért felelős miniszter egyetértésével – rendeletben szabályozza.
+43. § A közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit a közigazgatás-fejlesztésért felelős miniszter – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben szabályozza.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -342,7 +343,7 @@ kezeli.
 - c) az Egyetem hallgatóinak juttatásaival és az általuk fizetendő egyes térítésekkel kapcsolatos szabályokat,
 - d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait.
 
-(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – a honvédelemért és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
+(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
 
 - a) a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
 - b) az Egyetemre történő felvétel különös feltételeit, valamint
@@ -371,7 +372,7 @@ kezeli.
 
 48. § Az Egyetemen – a jogelődnél indult alap- és mesterképzési szakokon, szakirányú továbbképzési szakokon, szakképzési programokban, valamint doktori képzéseken – a képzés folytatásának feltételeit biztosítani kell addig, amíg a 2011/2012. tanévre, illetve korábban felvett hallgatók nem fejezik be tanulmányaikat azon a szakon, amelyen azt megkezdték. A korábban besorolt és felvett hallgatók tanulmányaikat a hallgatói jogviszonyuk létesítésekor hatályos képzési- és kimeneti követelményekben meghatározott feltételek szerint fejezik be.
 
-49. § A 41. § (1) bekezdése tekintetében a közigazgatás-fejlesztésért felelős miniszter előzetes engedélyére a 2013/2014-es tanévtől, az új belépők számára induló képzések esetén van szükség.
+49. § A 41. § (1) bekezdése tekintetében a közigazgatás-fejlesztésért felelős miniszter és az igazságügyért felelős miniszter együttes előzetes engedélyére a 2013/2014-es tanévtől, az új belépők számára induló képzések esetén van szükség.
 
 50. § A 41. § (2) és (3) bekezdését a 2012/2013-as tanévre felvételre kerülő hallgatói létszámra vonatkozóan kell először alkalmazni.
 

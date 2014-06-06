@@ -45,7 +45,7 @@ terjed ki.
 - b) az f) és a h) pontjaiban rögzített feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter),
 - c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a gazdaságpolitikáért felelős miniszterrel együttesen,
 - d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
-- e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, valamint a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel egyetértésben,
+- e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, valamint a külgazdasági ügyekért felelős miniszterrel egyetértésben,
 - f)
 - g) az i) pontjában rögzített feladatot a miniszter a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
 - h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
