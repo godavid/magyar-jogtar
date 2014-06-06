@@ -252,7 +252,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 15. § (1) Mentes a szolgáltatás alól:
 
-- a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a Miniszterelnökség, a minisztériumok, a Kúria, a Legfőbb Ügyészség és a Magyar Nemzeti Bank,
+- a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a minisztériumok, a Kúria, a Legfőbb Ügyészség és a Magyar Nemzeti Bank,
 - b) a Honvédség és a rendvédelmi szervek,
 - c) a közigazgatási, bírósági és ügyészségi szervek alaprendeltetésük, valamint honvédelmi feladataik ellátásához szükséges mértékben,
 - d) a vallási közösségek azon dolgok és jogok tekintetében, amelyek közvetlenül a hitéleti feladatokat szolgálják,

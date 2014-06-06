@@ -24,7 +24,7 @@ Stt.3. § (1) E törvényben meghatározott statisztikai tevékenység ellátás
 (2) A hivatalos statisztikai szolgálathoz tartozó szervek:
 
 - a) a Központi Statisztikai Hivatal;
-- b) a minisztériumok és a Miniszterelnökség;
+- b) a minisztériumok;
 - c) Az Országos Bírósági Hivatal elnöke,
 - d) a Legfőbb Ügyészség;
 - e) a Magyar Nemzeti Bank;

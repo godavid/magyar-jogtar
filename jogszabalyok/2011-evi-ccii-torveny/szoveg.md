@@ -106,7 +106,7 @@ véleményét.
 
 (2) A Corvin-lánc kitüntetéssel adományozottak alkotják a Magyar Corvin-lánc Testületet (a továbbiakban: Corvin-lánc Testület).
 
-(3) A Corvin-lánccal kapcsolatos feladatokat a Miniszterelnökség keretében működő Magyar Corvin-lánc Iroda (a továbbiakban: Corvin-lánc Iroda) látja el.
+(3) A Corvin-lánccal kapcsolatos feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő Magyar Corvin-lánc Iroda (a továbbiakban: Corvin-lánc Iroda) látja el.
 
 16. § A Magyar Becsület Rend Magyarország és a nemzet érdekében teljesített kiemelkedő szolgálat vagy tanúsított hősiesség elismerésére szolgál.
 
@@ -128,7 +128,7 @@ véleményét.
 
 (3) Az állami kitüntetések adományozásáról szóló határozatot a Magyar Közlönyben közzé kell tenni.
 
-(4) A miniszterelnöki előterjesztéssel kapcsolatos teendőket a Miniszterelnökség látja el. Az állami kitüntetések adományozásával összefüggő további teendőket a Köztársasági Elnöki Hivatal látja el, az ezekkel összefüggő kiadások fedezetét a Köztársasági Elnöki Hivatal költségvetésében kell biztosítani.
+(4) A miniszterelnöki előterjesztéssel kapcsolatos teendőket a kormányzati tevékenység összehangolásáért felelős miniszter látja el. Az állami kitüntetések adományozásával összefüggő további teendőket a Köztársasági Elnöki Hivatal látja el, az ezekkel összefüggő kiadások fedezetét a Köztársasági Elnöki Hivatal költségvetésében kell biztosítani.
 
 20. § Az állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető közös szabályokat az 1. melléklet, az egyes állami kitüntetésekkel kapcsolatos részletes szabályokat a 2. melléklet tartalmazza.
 
@@ -230,7 +230,7 @@ rendeletben szabályozza.
 - 9. A 2. mellékletben meghatározott kivételektől eltekintve az állami kitüntetéssel kitüntetett személy újabb kitüntetésre az előző állami kitüntetés adományozásától számított tíz éven belül csak kivételesen, abban az esetben javasolható, ha az előző állami kitüntetés adományozását követően szerzett, az annak alapjául szolgáló érdemeket felülmúló, kimagasló érdemek azt indokolják.
 - 10. Az állami kitüntetési javaslatok előkészítéséért felelős szerv és az előterjesztő az adományozásra irányuló eljárásban a kitüntetésre érdemesség megállapítása és a többszöri kitüntetés megelőzése céljából kezelheti az indítványozott és a javaslatban megjelölt személy (a továbbiakban: jelölt) nevét, születési helyét és idejét, valamint az életútjára és a kitüntetésre méltatott érdemeire közvetlenül vonatkozó, az állami kitüntetés adományozásához figyelembe vett adatokat, a javaslatot tartalmazó előterjesztésről való döntés időpontjáig.
 - 11. A jelölt állami kitüntetésre való érdemessége megállapítása céljából az előkészítésért felelős szerv vagy az előterjesztő a külön törvényben meghatározott bűntettesek nyilvántartásából vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából adatot igényelhet, amely kizárólag arra irányulhat, hogy a jelölt megfelel-e a 18. § (5) bekezdésében meghatározott feltételeknek. Az ellenőrzést követően a bűnügyi nyilvántartásból kapott adatot haladéktalanul törölni kell, és az előkészítő iratban a kizáró ok fennállásának tényét vagy annak hiányát kell feltüntetni.
-- 12. Az e törvénnyel alapított állami kitüntetések adományozásáról a Miniszterelnökség nyilvántartást vezet. A nyilvántartás a kitüntetett személy nevét, születési helyét és idejét, az adományozott kitüntetési osztály megjelölését, valamint az adományozás rövid indokolását, az átadás időpontját tartalmazza.
+- 12. Az e törvénnyel alapított állami kitüntetések adományozásáról a kormányzati tevékenység összehangolásáért felelős miniszter nyilvántartást vezet. A nyilvántartás a kitüntetett személy nevét, születési helyét és idejét, az adományozott kitüntetési osztály megjelölését, valamint az adományozás rövid indokolását, az átadás időpontját tartalmazza.
 - 13. Az e törvénnyel alapított állami kitüntetés adományozására irányuló előterjesztésben a megalapozott döntéshez szükséges részletességgel be kell mutatni a jelölt személy életútját, valamint az állami kitüntetés alapjául szolgáló érdemeket.
 - 14. Az adományozásra jelölt az adományozást megelőzően nyilatkozatot tesz az állami kitüntetés elfogadásáról.
 - 15. Az adományozási eljárás lefolytatásához szükséges adatok biztosítása céljából a kitüntetési javaslat előkészítéséért felelős szerv, az előterjesztő, valamint az elismerés adományozására jogosult a 12. pont szerinti nyilvántartásból adatot igényelhet. A köztársasági elnök, illetve hivatalának köztisztviselője a nyilvántartásba jogosult betekinteni.

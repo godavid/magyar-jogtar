@@ -16,7 +16,7 @@ egyrészről az Európai Közösség és tagállamai, másrészről Elefántcson
 
 (3) A Megállapodás hatálybalépésének naptári napját, valamint a (2) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter és a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter és a külgazdasági ügyekért felelős miniszter gondoskodik.
 
 ### Melléklet a 2009. évi XVI. törvényhez
 
