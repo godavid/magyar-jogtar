@@ -30,4 +30,4 @@ Az Országgyűlés az Alaptörvény 17. cikk (1) bekezdése alapján a miniszté
 
 4. § Ez a törvény 2014. június 6-án lép hatályba.
 
-5. § Hatályát veszti a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvény.
+5. §
