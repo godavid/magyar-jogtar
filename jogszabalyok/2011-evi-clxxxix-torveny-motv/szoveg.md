@@ -861,13 +861,18 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 108. § A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.
 
-108/A. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
+108/A. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
 
 - a) a helyi önkormányzat tulajdonában álló nemzeti vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
 - b) a helyi önkormányzat tulajdonában lévő nemzeti vagyon állam részére történő értékesítése vagy állammal kötött csereügylet esetén és
 - c) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén.
 
 (2) Az (1) bekezdés c) pontja esetén, ha a cserével érintett önkormányzati vagyon értéke a versenyeztetésre vonatkozó törvényben előírt értékhatárt meghaladja, az illetékes fővárosi vagy megyei kormányhivatal dönt a csereügylet jóváhagyásáról. A kormányhivatal a csereügyletet jóváhagyja, ha az egyes vagyontárgyak értékére és a szerződésben foglalt egyéb vagyoni kötelezettségvállalásra tekintettel az értékarányosság követelménye megvalósul és egyébként az ügylet megkötése az önkormányzat kötelező feladatainak ellátása vagy gazdasági érdekei szempontjából indokolt.
+
+108/B. § Az Nvt. 11. § (16) bekezdése szerinti versenyeztetés mellőzhető:
+
+- a) az Nvt. 11. § (17) bekezdésében foglalt esetekben, továbbá
+- b) ha az önkormányzati vagyon használatát biztosító, határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg.
 
 109. § (1) A képviselő-testület a helyi önkormányzat tulajdonában lévő nemzeti vagyonra a nemzeti vagyonról szóló törvény rendelkezései szerint az önkormányzati közfeladat átadásához kapcsolódva vagyonkezelői jogot létesíthet. Vagyonkezelői jog önkormányzati lakóépületre és vegyes rendeltetésű épületre, társasházban lévő önkormányzati lakásra és nem lakás céljára szolgáló helyiségre kizárólag a helyi önkormányzat 100%-os tulajdonában álló gazdálkodó szervezettel, vagy annak 100%-os tulajdonában álló gazdálkodó szervezettel létesíthető, és kizárólag általuk gyakorolható. A vagyonkezelési szerződésnek a gazdálkodó szervezet tulajdonosi szerkezetében történő tulajdonos változás miatti megszűnésének esetére a nemzeti vagyonról szóló törvényben meghatározottak az irányadók.
 
