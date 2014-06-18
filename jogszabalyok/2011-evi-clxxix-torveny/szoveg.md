@@ -386,7 +386,7 @@ szerepelhet a nemzetiségi névjegyzékben.
 
 59. § (1) A települési nemzetiségi önkormányzati képviselő jelöléséhez a nemzetiségi névjegyzékben a választás kitűzésének napján szereplő választópolgárok öt százalékának, de legalább öt választópolgárnak az ajánlása szükséges.
 
-(2) Egy választópolgár egy jelöltet ajánlhat.
+(2)
 
 60. § (1) A területi nemzetiségi önkormányzati képviselők választásán az a nemzetiségi szervezet állíthat listát, amely a fővárosban, megyében kitűzött települési nemzetiségi önkormányzati képviselők választásán legalább a választások tíz százalékában önállóan jelöltet állított, és amely a választópolgárok legalább két százalékának ajánlását összegyűjtötte.
 
