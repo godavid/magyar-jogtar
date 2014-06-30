@@ -229,14 +229,18 @@ a következő törvényt alkotja:
 
 (7) Az atomenergia biztonságos alkalmazásával összefüggő kormányzati, hatósági és nukleárisbaleset-elhárítási intézkedések tudományos megalapozásának biztosítása érdekében az atomenergia-felügyeleti szerv munkáját tudományos tanácsadó testület segíti.
 
-9. § (1) Az atomenergia-felügyeleti szerv az engedélyezés, az ellenőrzés és ezekhez kapcsolódóan a hozzá benyújtott, a nála fellelhető és az általa összegyűjtött adatok értékelése, elemzése, szakértői vélemények és tanúsítványok értelmezése útján győződik meg arról, hogy az atomenergia alkalmazása és a nukleáris létesítmények, azok rendszereinek és rendszerelemeinek a műszaki állapota, a nukleáris létesítmények üzemeltetése, valamint az átalakítások végrehajtása megfelel a kockázat elfogadható mértéke alapján meghatározott követelményeknek és a hatósági engedélyekben előírtaknak.
+9. § (1) Az atomenergia-felügyeleti szerv az engedélyezés, az ellenőrzés és ezekhez kapcsolódóan a hozzá benyújtott, a nála fellelhető és az általa összegyűjtött adatok értékelése, elemzése, szakértői vélemények és tanúsítványok értelmezése útján győződik meg arról, hogy
 
-(2) A nukleáris létesítmények folyamatos hatósági felügyelet alatt állnak. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
+- a) az atomenergia alkalmazása,
+- b) a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója, valamint azok rendszereinek és rendszerelemeinek a műszaki állapota, valamint
+- c) a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója üzemeltetése, továbbá az átalakítás végrehajtása megfelel a kockázat elfogadható mértéke alapján meghatározott követelményeknek és a hatósági engedélyekben előírtaknak.
 
-- a) egyedi hatósági eljárások keretében engedélyezési és jóváhagyási döntésekkel;
-- b) az engedélyesek működésének és a nukleáris létesítmények biztonsági helyzetének rendszeres elemzésével és értékelésével;
-- c) folyamatos, valamint egyedi eljárások során végzett ellenőrzéssel, az átalakításokhoz kapcsolódó ellenőrzési programok végrehajtásával;
-- d) a jogszabályi követelmények, az azokon alapuló hatósági előírások gyakorlati érvényesülését biztosító érvényesítési eljárások lefolytatásával.
+(2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
+
+- a) egyedi hatósági eljárás keretében engedélyezési és jóváhagyási döntésekkel,
+- b) az engedélyes tevékenységének, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója biztonsági helyzetének rendszeres elemzésével és értékelésével,
+- c) folyamatos, valamint egyedi eljárás során végzett ellenőrzéssel, az átalakításhoz kapcsolódó ellenőrzési program végrehajtásával, és
+- d) a jogszabályi követelmények, az azokon alapuló hatósági előírások gyakorlati érvényesülését biztosító érvényesítési eljárás lefolytatásával.
 
 (3) Az engedélyesnek és az atomenergia-felügyeleti szervnek a nukleáris létesítmények nukleáris biztonságát, a nukleáris biztonsági követelmények teljesítését, a kockázat mértékét, a létesítést és az üzembe helyezést megelőzően, valamint – figyelembe véve az üzemi tapasztalatokat és a biztonsággal kapcsolatos új ismereteket – a teljes üzemidő alatt (időszakos biztonsági felülvizsgálat és jelentés keretében) rendszeres időközönként teljes körűen elemeznie, értékelnie kell, és annak eredményét a honlapján nyilvánosságra kell hoznia.
 
@@ -467,10 +471,10 @@ a Kormány rendeletben állapítja meg.
 - 9. jogszabályban meghatározott szerelési, kivitelezési technológiák, mérési, számítási, műszaki vizsgálati és értékelési módszerek leírásának, továbbá a biztonság szempontjából meghatározó munkakörök betöltésének jóváhagyása;
 - 10. az Időszakos Biztonsági Felülvizsgálat végrehajtása, a további üzemeltetés feltételeinek meghatározása, és a szükséges intézkedések végrehajtásának elrendelése a felülvizsgálat eredménye alapján, illetve az Időszakos Biztonsági Jelentés által, valamint az Időszakos Biztonsági Felülvizsgálat keretében azonosított eltérés jóváhagyása;
 - 11. a 11. § (2) bekezdésében előírt irányítási rendszer ellenőrzése;
-- 12. nukleáris létesítmény biztonsági övezetének kijelölése és felülvizsgálata;
+- 12. nukleáris létesítmény, valamint radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója biztonsági övezetének kijelölése és felülvizsgálata;
 - 13. a radioaktív anyagok szállításának engedélyezése a veszélyes áruk szállításáról szóló jogszabályok rendelkezései szerint;
 - 14. a radioaktív anyagok csomagolásának – a veszélyes áruk szállításáról szóló jogszabályok és nemzetközi egyezmények rendelkezései szerint – jóváhagyása és ellenőrzése;
-- 15. a nukleáris és a nukleáris kettős felhasználású termékek exportjának és importjának engedélyezése;
+- 15. radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelye kiválasztásának, létesítésének, üzemeltetésének, átalakításának és lezárásának engedélyezése, ellenőrzése;
 - 16. radioaktív hulladékok és kiégett fűtőelemek az országhatáron át történő szállításának engedélyezése, és a szállítás engedélyezéséhez való hozzájárulás;
 - 17. radioaktív anyagoknak Magyarország és az Európai Unió tagállamai, továbbá Magyarország és harmadik országok közötti szállításához való hozzájárulás, illetve engedélyezés;
 - 18. a tervezési alapfenyegetettség megállapítása és felülvizsgálata, valamint az atomenergia alkalmazása körében a fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése és ellenőrzése;
@@ -587,7 +591,7 @@ kezeli.
 - a) a radioaktív anyagok tulajdonjoga megszerzésének, előállításának, termelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezését és ellenőrzését;
 - b) az a) pont alatt felsorolt tevékenységeket szolgáló, nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, javításának, megszüntetésének engedélyezését és ellenőrzését;
 - c) az ionizáló sugárzást létrehozó létesítmény, berendezés tulajdonjoga megszerzésének, átadásának, a használat bármilyen jogcímen való átengedésének, létesítésének, előállításának, üzemeltetésének, átalakításának és megszüntetésének engedélyezését és ellenőrzését;
-- d) a radioaktívhulladék-tároló telepítésének, létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, lezárásának engedélyezését és ellenőrzését;
+- d)
 - e) az atomenergia alkalmazását szolgáló létesítményben működő sugárvédelmi szolgálat szervezetének és működésének felügyeletét;
 - f) az atomenergia alkalmazása körében a munkavállalókra érvényes sugáregészségügyi, munkavégzési, munkaköri alkalmassági és foglalkoztatási előírások betartásának ellenőrzését;
 - g) a lakosság sugárvédelme érdekében az országos sugárzási helyzetre vonatkozó adatok központi gyűjtését, feldolgozását, nyilvántartását és értékelését, illetve nukleáris veszélyhelyzetben a döntések megalapozásában való közreműködést;
@@ -977,7 +981,8 @@ alkalmazásával kell megállapítani.
 - u) a 62. § (6) bekezdése szerinti testület létrehozását, összetételét, tevékenységét, álláspontja kialakításának rendjét és működésének feltételeit;
 - v) az atomenergia-felügyeleti szerv e törvény szerinti
   - va) eljárásaira vonatkozó eljárási határidőket, valamint
-  - vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt.
+  - vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt;
+- v) a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója engedélyezési, ellenőrzési, jelentési követelményeit.
 
 68. § (1) Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza
 
