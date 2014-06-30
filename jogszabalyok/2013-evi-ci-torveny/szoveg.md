@@ -6,7 +6,27 @@ az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, to
 
 1–5. §
 
-6. §
+6. § Az Atv. 9. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az atomenergia-felügyeleti szerv az engedélyezés, az ellenőrzés és ezekhez kapcsolódóan a hozzá benyújtott, a nála fellelhető és az általa összegyűjtött adatok értékelése, elemzése, szakértői vélemények és tanúsítványok értelmezése útján győződik meg arról, hogy
+
+a) az atomenergia alkalmazása,
+
+b) a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója, valamint azok rendszereinek és rendszerelemeinek a műszaki állapota, valamint
+
+c) a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója üzemeltetése, továbbá az átalakítás végrehajtása
+
+megfelel a kockázat elfogadható mértéke alapján meghatározott követelményeknek és a hatósági engedélyekben előírtaknak.
+
+(2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
+
+a) egyedi hatósági eljárás keretében engedélyezési és jóváhagyási döntésekkel,
+
+b) az engedélyes tevékenységének, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója biztonsági helyzetének rendszeres elemzésével és értékelésével,
+
+c) folyamatos, valamint egyedi eljárás során végzett ellenőrzéssel, az átalakításhoz kapcsolódó ellenőrzési program végrehajtásával, és
+
+d) a jogszabályi követelmények, az azokon alapuló hatósági előírások gyakorlati érvényesülését biztosító érvényesítési eljárás lefolytatásával.”
 
 7–9. §
 
@@ -14,7 +34,17 @@ az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, to
 
 11. § (1)–(2)
 
-(3)–(4)
+(3) Az Atv. 17. § (2) bekezdés 12. pontja helyébe a következő rendelkezés lép:
+
+(Az atomenergia-felügyeleti szerv hatáskörébe tartozik:)
+
+„12. nukleáris létesítmény, valamint radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója biztonsági övezetének kijelölése és felülvizsgálata;”
+
+(4) Az Atv. 17. § (2) bekezdés 15. pontja helyébe a következő rendelkezés lép:
+
+(Az atomenergia-felügyeleti szerv hatáskörébe tartozik:)
+
+„15. radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelye kiválasztásának, létesítésének, üzemeltetésének, átalakításának és lezárásának engedélyezése, ellenőrzése;”
 
 (5)
 
@@ -40,7 +70,11 @@ az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, to
 
 (3)
 
-(4)
+(4) Az Atv. 67. §-a a következő v) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:)
+
+„v) a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója engedélyezési, ellenőrzési, jelentési követelményeit.”
 
 23. § (1)
 
@@ -58,7 +92,7 @@ az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, to
 
 (2)
 
-27. § (1)
+27. § (1) Hatályát veszti az Atv. 20. § (1) bekezdés d) pontja.
 
 (2)
 
