@@ -68,7 +68,7 @@ meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelha
 - 15. harmadik ország: az Európai Közösségen kívüli állam;
 - 16. hasznosítás: a termékdíjköteles termékből képződő hulladéknak a Ht. szerinti hasznosítása;
 - 17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;
-- 18. jármű: a légi közlekedésről szóló külön törvény szerinti légi jármű, valamint a motorral meghajtott közúti szállító- vagy vontatóeszköz, ideértve az önjáró vagy vontatott munkagépet is, kivéve a kerekes szék;
+- 18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék előállítható, feldolgozható, újbóli felhasználásra előkészíthető és készletezhető;
 - 19. kereskedelmi csomagolás: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2010. január 1-jén hatályos I. melléklete szerinti
   - a) 2009 vámtarifaszámú gyümölcslé (beleértve a szőlőmustot is) és zöldséglé, nem erjesztve, hozzáadott alkoholtartalom nélkül, cukor vagy más édesítőanyag hozzáadásával is,
   - b) 2106 90 20, 2106 90 30, 2106 90 51, 2106 90 55, 2106 90 59 vámtarifaszámú ízesített vagy színezett cukorszirup,
@@ -78,6 +78,7 @@ meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelha
   - f) 2204 vámtarifaszámú bor friss szőlőből, beleértve a szeszezett bort is; szőlőmust, a 2009 vtsz. alá tartozó kivételével,
   - g) 2205 vámtarifaszámú vermut és friss szőlőből készült más bor növényekkel vagy aromatikus anyagokkal ízesítve, a 2206 vámtarifaszámú más erjesztett ital (pl. almabor, körtebor, mézbor); erjesztett italok keverékei, és erjesztett italok és alkoholmentes italok másutt nem említett keverékei, a 2207 10 00 vámtarifaszámú nem denaturált etil-alkohol legalább 80 térfogatszázalék alkoholtartalommal, valamint a 2208 vámtarifaszámú nem denaturált etil-alkohol, kevesebb mint 80 térfogatszázalék alkoholtartalommal; szesz, likőr és más szeszes ital termékek fogyasztói (elsődleges) közvetlen csomagolása, a címke (ide nem értve a polivinilklorid műanyagból készült címkét) és a záróelem, továbbá az egyszerhasználatos ivópohár kivételével, továbbá a műanyag bevásárló reklám táska;
 - 20. kereskedelmi csomagolószer: olyan csomagolószer, amely rendeltetésszerű felhasználása esetén és további feldolgozás nélkül alkalmas kereskedelmi csomagolás létrehozására, a csomagolni kívánt termék befogadására, továbbá a csomagolószer ilyen jellege a csomagolószer fogalomba hozatala vagy saját célú felhasználása során megállapítható;
+- 20a. kereskedelmi termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék tárolható;
 - 21. kiskereskedelmi értékesítés: a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység;
 - 22. környezetvédelmi termékdíj nettó összege: a termékdíj megállapítási időszakban keletkezett termékdíj-fizetési kötelezettség és a visszaigényelhető termékdíj különbözete;
 - 23. közvetítő: a Ht. szerinti közvetítő;
@@ -112,6 +113,8 @@ meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelha
 - a) az első belföldi forgalomba hozót vagy első saját célú felhasználót,
 - b) belföldi előállítású egyéb kőolajtermék esetében az első belföldi forgalomba hozó első vevőjét, vagy a saját célú felhasználót,
 - c) bérgyártás esetén a bérgyártatót [a továbbiakban a)–c) pontok együtt: kötelezett] terheli. Reklámhordozó papír esetében az a) pont szerinti első belföldi forgalomba hozatalnak – belföldi előállítás esetén – a nyomdai szolgáltatás teljesítése (nyomtatás és átadás) minősül.
+
+(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre történő kiszállítása, első belföldi forgalomba hozatalnak minősül.
 
 (3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként, továbbá a csomagolószer esetében a csomagolás részeként:
 
@@ -155,7 +158,9 @@ használja fel,
   - ca) mint annak végfelhasználója nem csomagolás előállítására, vagy
   - cb) más termék előállításához közvetlen anyagként (alapanyagként)
 
-használja fel.
+használja fel,
+
+- d) a termékdíjköteles terméket termékdíj raktárba szállítja be.
 
 (7) A (6) bekezdés szerinti nyilatkozó kötelezettnek minősül, ha a nyilatkozatával ellentétesen jár el, egyébként a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 
@@ -176,7 +181,8 @@ esetén nem kell megfizetni.
 
 - a) természetes személy által, nem gazdasági tevékenység keretében végzett átruházása,
 - b) az általános forgalmi adóról szóló törvény szerinti adóraktárba való beraktározás keretében és az adóraktáron belüli átruházása,
-- c) vámjogi szabadforgalomba kerülését megelőző átruházása
+- c) vámjogi szabadforgalomba kerülését megelőző átruházása,
+- d) termékdíj raktáron belüli átruházása
 
 nem minősül forgalomba hozatalnak.
 
@@ -185,7 +191,7 @@ nem minősül forgalomba hozatalnak.
 - a) a termékdíjköteles termék igazolt külföldre kiszállítása esetén, ideértve a termékdíjköteles termék változatlan állapotban más termék alkotórészeként, tartozékaként, illetve a csomagolást alkotó csomagolószer igazolt külföldre kiszállítását is;
 - b) természetes személy esetén a termékdíjköteles termék személyes szükséglet kielégítését meg nem haladó mennyiségű saját célú felhasználása során;
 - c) a technológiai folyamatba visszavezetett maradék anyag vagy a selejt felhasználása esetén;
-- d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontja szerinti termékdíj-megállapítási időszakban közvetlenül külföldre visszaszállították;
+- d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontja szerinti termékdíj-megállapítási időszakban közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították;
 - e) az újrahasználható csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha az újrahasználható csomagolószer az e törvény végrehajtási rendeletében meghatározott újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvételre került, és a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben használják fel;
 - f) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett újrahasználható raklapnak a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására céljából történő felhasználása esetén;
 - g) a termékdíjköteles termék nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzletben, végső úti céllal külföldre utazó utasok részére történő értékesítése esetén; vagy
@@ -248,6 +254,58 @@ keletkezik.
 #### 7. Képviselet
 
 9. § Ha a kötelezett gazdasági céllal harmadik országban telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye harmadik országban van, a termékdíjjal kapcsolatos ügyének intézéséhez az Art. szerinti pénzügyi képviselő megbízása kötelező.
+
+#### 7/A. Termékdíj raktár
+
+9/A. § (1) Termékdíj raktár üzemeltetése kérelemre annak a gazdálkodó szervezetnek, egyéni vállalkozónak engedélyezhető
+
+- a) aki vagy amely a termékdíj raktár működésére szolgáló ingatlan jogszerű használója,
+- b) aki vagy amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, újbóli felhasználásra előkészített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
+- c) akinek vagy amelynek az állami adó- és vámhatóság felé nincs meg nem fizetett vám- vagy adótartozása – kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek –, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn,
+- d) amely nem áll csőd-, felszámolási vagy végelszámolási, valamint kényszertörlési eljárás alatt,
+- e) amely – ipari termékdíj raktár esetében – a termékdíj raktári engedély kiadásának évét követő évtől vállalja, hogy független könyvvizsgáló által hitelesített (auditált) mérleggel rendelkezik,
+- f) aki vagy amely termékdíj ügyintéző szakképesítéssel rendelkezik vagy ilyen szakképesítéssel rendelkező ügyintézőt foglalkoztat, képviselőt alkalmaz a termékdíj raktár ügyeinek intézésére, és
+- g) amelynek vezetője, vezető tisztségviselője, egyéni vállalkozó esetében az egyéni vállalkozó
+  - ga) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti gazdasági vagy a közélet tisztasága elleni,
+  - gb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt nem áll jogerős ítélet hatálya alatt vagy mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+
+(2) Az engedély legfeljebb öt évre adható, amely az engedélyezés feltételeinek fennállása esetén újabb öt évre meghosszabbítható.
+
+(3) Termékdíj raktár üzemeltetése olyan belföldi ingatlanra engedélyezhető, ahol az e törvény végrehajtási rendeletében megállapított feltételek szerint termékdíjköteles termék tárolható, illetve feldolgozható, előállítható.
+
+(4) A termékdíj raktár üzemeltetésének feltételeit – az e törvényben és a végrehajtására kiadott rendeletben foglaltak alapján – az engedélyben kell meghatározni.
+
+(5) A termékdíj raktár engedélyesére e törvényben foglalt rendelkezések figyelembevételével a kötelezettre vonatkozó szabályokat kell alkalmazni. A termékdíj raktár engedélyese felelős a termékdíj raktárba beszállított termékdíjköteles termékkel kapcsolatos kötelezettségek és az engedélyben meghatározott feltételek teljesítéséért.
+
+(6) A termékdíj raktárban
+
+- a) nem termékdíjköteles termék tárolása, előállítása, feldolgozása, ha az elkülönítés a nyilvántartások alapján biztosított, és
+- b) a termékdíjköteles termék kereskedelmi termékdíj raktárban történő, e törvény végrehajtási rendeletében meghatározott kezelése
+
+is végezhető.
+
+(7) Az engedélyt vissza kell vonni, ha
+
+- a) a termékdíj raktár engedélyese az ellenőrzés során megállapított hiányosság megszüntetésére vonatkozó felszólításban meghatározott határidőn belül a megállapított hiányosságot nem szüntette meg;
+- b) a termékdíj raktár engedélyes vezetőjét, vezető tisztségviselőjét, egyéni vállalkozó esetében az egyéni vállalkozót
+  - ba) a 2013. június 30-ig hatályban volt, 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
+  - bb) a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték vagy még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól;
+- c) a termékdíj raktár engedélyezésének feltételei már nem állnak fenn.
+
+(8) A termékdíj raktár üzemeltetésének engedélyezése iránti kérelem benyújtásával egyidejűleg a vezető, vezető tisztségviselő vagy egyéni vállalkozó hatósági bizonyítvánnyal igazolja az (1) bekezdés g) pontjában meghatározott feltételek fennállását, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az állami adóhatóság részére – a termékdíj raktár üzemeltetéséhez szükséges engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az állami adóhatóság az (1) bekezdés g) pontjában meghatározott feltételek fennállására vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől.
+
+(9) Az állami adóhatóság a termékdíj raktár üzemeltetésének időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vezető, vezető tisztségviselő vagy egyéni vállalkozó tekintetében fennáll-e a (7) bekezdés b) pontjában meghatározott körülmény. A hatósági ellenőrzés céljából az állami adóhatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azt tartalmazhatja, hogy a (7) bekezdés b) pontjában meghatározott feltétel fennáll-e.
+
+(10) A (8) és (9) bekezdés alapján megismert személyes adatokat az állami adóhatóság
+
+- a) a termékdíj raktár üzemeltetésének engedélyezése iránti eljárás jogerős befejezéséig, vagy
+- b) a termékdíj raktár üzemeltetésének engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+
+kezeli.
+
+(11) Az engedélyesnek a (2) bekezdésben meghatározott határidő lejártát vagy az engedély visszavonását követő napon saját célú felhasználással termékdíj kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
+
+(12) A termékdíj raktárban kiskereskedelmi értékesítés – a 3920 vámtarifaszám alá tartozó csomagolóanyag nem csomagolási célú felhasználója, továbbá a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra értékesítést végző üzletben, végső úti céllal külföldre utazó utas részére történő értékesítés kivételével -, továbbá bizományosi értékesítés nem végezhető.
 
 ### II. Fejezet — A TERMÉKDÍJ-KÖTELEZETTSÉG TELJESÍTÉSE
 
@@ -322,7 +380,8 @@ teljesíti.
 
 - a) a számlán vagy szerződéssel történő átvállalás esetén,
 - b) a kötelezett és vevőinek visszaigénylésre jogosult vevő partnerei által igényelt esetben,
-- c) csomagolószer, illetve reklámhordozó papír első belföldi forgalomba hozatalakor
+- c) csomagolószer, illetve reklámhordozó papír első belföldi forgalomba hozatalakor,
+- d) a termékdíj raktár engedélyese részére, a termékdíjköteles termék termékdíjának felszámítása nélkül vagy a termékdíj visszaigénylésével történő értékesítése esetén
 
 – a (2) bekezdésben foglaltak kivételével – az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.
 
@@ -379,6 +438,8 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 (7) Szerződés alapján legfeljebb 3 év időtartamra vállalható át a kötelezettség.
 
 (8) Az (5) bekezdés a) pontja szerint tárgynegyedévben átvállalt termékdíjköteles termék mennyisége 60%-ának külföldre értékesítését az átvállalás tárgynegyedévének utolsó napjától, legfeljebb 365 napon belül kell igazoltan külföldre kiszállítani, ellenkező esetben a 366. napon a termékdíj-kötelezettség – az átvállalás napján hatályos szabályok szerint – beáll az átvállalónál, a ki nem szállított mennyiség tekintetében. A kiszállítás mértékének elmaradása esetén az állami adóhatóság mulasztási bírságot szabhat ki.
+
+14/A. § Az átvállalási szerződés hatályosságához, ideértve annak módosítását is, a szerződésnek az állami adó- és vámhatóság részéről történő nyilvántartásba vétele szükséges. A nyilvántartásba vételre, módosításra vagy a nyilvántartásból történő törlésre vonatkozó kérelmet a szerződés vagy a szerződésmódosítás, továbbá a szerződés megszűnésére vonatkozó dokumentum keltétől számított 15 napon belül kell elektronikus úton megküldeni az állami adó- és vámhatóságnak. A szerződés nyilvántartásba vételéről szóló kérelemhez a szerződést nem kell csatolni. A szerződés az állami adó- és vámhatóság nyilvántartásba vételének napjától, vagy ha a felek a szerződésben későbbi időpontban állapodnak meg, a szerződésben megjelölt időponttól hatályos. Az állami adó- és vámhatóság a nyilvántartásba vételről mindkét szerződő felet értesíti.
 
 #### 13. Termékdíjátalány
 
@@ -569,6 +630,8 @@ ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre ér
 (3) A külföldre történő értékesítés számlával vagy az ügylet teljesítését igazoló egyéb okirattal és szállítólevéllel vagy fuvarokmánnyal igazolható. A visszaigénylés további feltétele a termék beszerzéséről kiállított számla vagy az ügylet teljesítését igazoló egyéb okirat, amely tartalmazza a termék első belföldi forgalomba hozatalakor a kötelezett által kibocsátott számla vagy az ügylet teljesítését igazoló egyéb okirat számát, azonosító adatát, a kötelezett nevét, címét, adószámát, és a kötelezett által kiállított számlán vagy annak mellékletében, illetve az ügylet teljesítését igazoló egyéb okiraton feltüntetett termékdíj mértékét és összegét.
 
 (4) A befizetett termékdíjat e § alapján visszaigénylőre, a kötelezettre vonatkozó bejelentéssel, változás-bejelentéssel, termékdíj megállapítással termékdíj bevallással és nyilvántartás-vezetéssel, továbbá az ellenőrzéssel kapcsolatos szabályokat kell alkalmazni.
+
+(5) A termékdíj visszaigénylése szempontjából külföldre történő kiszállítással, külföldre történő ingyenes vagy visszterhes tulajdonjog-átruházással esik egy tekintet alá a termékdíjköteles termék ipari termékdíj raktárba történő betárolása.
 
 (6) A termékdíjköteles termék alapanyagként történő felhasználása során keletkező gyártási selejt és hulladék mennyiségére is visszaigényelhető a termékdíj, de ebben az esetben a gyártási selejt és hulladék mennyisége a hulladékhasznosítási teljesítmény számításánál nem vehető figyelembe.
 
@@ -907,6 +970,8 @@ a termékdíjköteles terméket lefoglalja.
 (4) A (2) bekezdésben foglalt kötelezett a termékdíjátalány-fizetést a teljes tárgyév (adóév) tekintetében igénybe veheti azzal, hogy a 2014. évi tárgyév (adóév) első negyedévében kibocsátott csomagolószer a 2. § 6. pontjában foglalt teljes mennyiségbe beszámít.
 
 (5) A (2) bekezdésben foglalt kötelezett, ha a 2. § 6. pontja szerinti, a csomagolószeren kívüli mennyiséget a 2014. évben túllépi, a 2014. év tekintetében a csomagolószerre vonatkozó termékdíjátalány-fizetésre jogosult marad.
+
+40/E. § A 2014. július 1-jét megelőzően az állami adó- és vámhatóságnak jogszerűen bejelentett szerződéses átvállalások hatályosak a bejelentett átvállalási időszak végéig, és nem kell az átvállalási szerződés nyilvántartásba vételét kérni, ha az adatokban változás nem következik be.
 
 #### 31. Bejelentés az Európai Unió részére
 

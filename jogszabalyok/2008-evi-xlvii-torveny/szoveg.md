@@ -54,6 +54,8 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 (4) A mellékletben meghatározott kereskedelmi gyakorlatok tisztességtelenek.
 
+(5) A fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozóan az 1. § (4) vagy (5) bekezdése szerint külön jogszabályban előírt, az e törvényben foglaltaknál szigorúbb követelményeket megsértő kereskedelmi gyakorlat tisztességtelen.
+
 4. § (1) A kereskedelmi gyakorlat megítélése során az olyan fogyasztó magatartását kell alapul venni, aki ésszerűen tájékozottan, az adott helyzetben általában elvárható figyelmességgel és körültekintéssel jár el, figyelembe véve az adott kereskedelmi gyakorlat, illetve áru nyelvi, kulturális és szociális vonatkozásait is. Ha a kereskedelmi gyakorlat a fogyasztók egy meghatározott csoportjára irányul, az adott csoport tagjaira általánosan jellemző magatartást kell figyelembe venni.
 
 (2) Ha a kereskedelmi gyakorlat csak a fogyasztóknak egy, az adott gyakorlat vagy az annak alapjául szolgáló áru vonatkozásában koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportja magatartásának torzítására alkalmas, és ez a kereskedelmi gyakorlat megvalósítója által ésszerűen előre látható, a gyakorlatot az érintett csoport tagjaira általánosan jellemző magatartás szempontjából kell értékelni.
@@ -62,7 +64,7 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 5. § Magatartási kódex nem ösztönözhet tisztességtelen kereskedelmi gyakorlatra.
 
-6. § (1) Megtévesztő az a kereskedelmi gyakorlat, amely valótlan információt tartalmaz, vagy valós tényt – figyelemmel megjelenésének valamennyi körülményére – olyan módon jelenít meg, hogy megtéveszti vagy alkalmas arra, hogy megtévessze a fogyasztót az alábbiak közül egy vagy több tényező tekintetében és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas:
+6. § (1) Megtévesztő az a kereskedelmi gyakorlat, amely valótlan információt tartalmaz, vagy valós tényt – figyelemmel megjelenésének valamennyi körülményére – olyan módon jelenít meg, hogy megtéveszti vagy alkalmas arra, hogy megtévessze a fogyasztót az alábbiak közül egy vagy több tényező tekintetében, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas:
 
 - a) az áru létezése, természete, figyelembe véve a termék megnevezésére vonatkozó jogszabályi előírásokat is,
 - b) az áru lényeges jellemzői, így különösen
@@ -123,7 +125,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (6) Az (5) bekezdés szerinti esetben nem megtévesztő mulasztás, ha az információ egyébként a körülményekből közvetlenül kitűnik.
 
-8. § (1) Agresszív az a kereskedelmi gyakorlat, amely – figyelembe véve valamennyi tényszerű körülményt – pszichés vagy fizikai nyomásgyakorlással – akár a fogyasztóval szembeni hatalmi helyzet kihasználása, akár a fogyasztó zavarása révén – az adott helyzetben jelentősen korlátozza vagy alkalmas arra, hogy jelentősen korlátozza a fogyasztónak az áruval kapcsolatos választási vagy magatartási szabadságát, illetve lehetőségét a tájékozott döntés meghozatalára és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
+8. § (1) Agresszív az a kereskedelmi gyakorlat, amely – figyelembe véve valamennyi tényszerű körülményt – pszichés vagy fizikai nyomásgyakorlással – akár a fogyasztóval szembeni hatalmi helyzet kihasználása, akár a fogyasztó zavarása révén – az adott helyzetben jelentősen korlátozza vagy alkalmas arra, hogy jelentősen korlátozza a fogyasztónak az áruval kapcsolatos választási vagy magatartási szabadságát, illetve lehetőségét a tájékozott döntés meghozatalára, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
 
 (2) Annak megállapítására, hogy egy kereskedelmi gyakorlat agresszív-e, figyelembe kell venni a következőket:
 
@@ -151,9 +153,12 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Gazdasági Versenyhivatal jár el, ha a kereskedelmi gyakorlat a gazdasági verseny érdemi befolyásolására alkalmas.
 
-(4) A (3) bekezdés nem alkalmazható, ha a tisztességtelen kereskedelmi gyakorlat kizárólag a terméken, annak csomagolásán vagy a termékhez egyéb módon rögzítve (a továbbiakban együtt: címke), illetve a termékhez adott használati és kezelési útmutatóban vagy jótállási jegyben jelenik meg, vagy ha a 7. § (3) bekezdésében említett tájékoztatási követelmény megsértésével valósul meg.
+(4) A (3) bekezdés nem alkalmazható az olyan kereskedelmi gyakorlat vonatkozásában, amely kizárólag
 
-(5) Ha a címkén megjelenített kereskedelmi gyakorlat azonos formában és tartalommal más kommunikációs eszköz útján is megvalósul, és ez utóbbi kereskedelmi gyakorlat tekintetében az eljárás a gazdasági verseny érdemi érintettsége miatt a Gazdasági Versenyhivatal hatáskörébe tartozik, a Gazdasági Versenyhivatal bírálja el az e kereskedelmi gyakorlat alkalmazásával a címkén elkövetett jogsértést is.
+- a) a termék címkéjén (a terméken, annak csomagolásán vagy a termékhez egyéb módon rögzítve), a termékhez adott használati és kezelési útmutatóban vagy jótállási jegyben jelenik meg, vagy
+- b) a 7. § (3) bekezdésében említett tájékoztatási követelmény megsértésével valósul meg.
+
+(5)
 
 (6) A (3) bekezdés nem alkalmazható, ha a tisztességtelen kereskedelmi gyakorlat tilalma megsértésének részét képezi az olyan magatartási kódexben foglalt követelmény be nem tartása, amely magatartási kódex a (2) bekezdés szerinti vállalkozások (2) bekezdés szerinti tevékenységével összefüggő kereskedelmi gyakorlatok vonatkozásában követendő magatartási szabályokat állapít meg.
 
@@ -171,7 +176,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 12. § (1) A 10. §-ban megjelölt hatóságok a tisztességtelen kereskedelmi gyakorlat tilalmának megsértésével kapcsolatos feladataik hatékony ellátása érdekében együttműködnek egymással. Az együttműködés különösen a hatóságok jogalkalmazási gyakorlatának kölcsönös megismerését, az anyagi és eljárásjogi szabályok egységes alkalmazását, a hatásköri összeütközések elkerülését, az esetleges hatásköri viták hatékony rendezésének megkönnyítését szolgálja.
 
-(2) Az együttműködést szolgáló adatok és információk átadásának, így különösen a 20. § (3) bekezdésében, illetve a 23. § (2) bekezdésében, a 25. § (3) bekezdésében és a 26. § (2) bekezdésében előírt értesítés megtételének módját a hatóságok együttműködésük keretében állapítják meg.
+(2) Az együttműködést szolgáló adatok és információk átadásának, így különösen a 20. § (3) bekezdésében, illetve a 23. § (3) bekezdésében, a 25. § (3) bekezdésében és a 26. § (2) bekezdésében előírt értesítés megtételének módját a hatóságok együttműködésük keretében állapítják meg.
 
 (3) Az együttműködés részletes szabályaira vonatkozóan a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal és a Felügyelet együttműködési megállapodást kötnek, amelyet évente felülvizsgálnak, és honlapjukon a nyilvánosság számára hozzáférhetővé tesznek.
 
@@ -189,11 +194,9 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 16. § Ha a tisztességtelen kereskedelmi gyakorlat még nem valósult meg, de a vállalkozás tevékenysége, így különösen a szükséges feltételek megteremtése, szerződések megkötése, eszközök beszerzése alapján valószínűsíthető, hogy annak alkalmazására sor kerülne, az eljáró hatóság jogosult a tervezett kereskedelmi gyakorlat előzetes megtiltására.
 
-17. § (1) Az e törvényben meghatározott hatóság jár el az e törvény szerinti eljárásban akkor is, ha külön törvény vagy kormányrendelet, illetve az annak végrehajtására kiadott jogszabály vagy az Európai Unió közvetlenül alkalmazandó jogi aktusa fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezésének megsértése tekintetében külön törvény vagy kormányrendelet így rendelkezik. Az ilyen eljárásban az eljáró hatóság vizsgálja mind az e törvény, mind pedig a külön törvény vagy kormányrendelet, illetve az annak végrehajtására kiadott jogszabály, illetve az Európai Unió közvetlenül alkalmazandó jogi aktusa fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezéseinek megsértését.
+17. § (1) Az e törvényben meghatározott hatóság jár el az e törvény szerinti eljárásban akkor is, ha külön törvény vagy kormányrendelet, illetve az annak végrehajtására kiadott jogszabály vagy az Európai Unió közvetlenül alkalmazandó jogi aktusa fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezésének (a továbbiakban együtt: külön jogszabályi rendelkezés) megsértése tekintetében külön törvény vagy kormányrendelet így rendelkezik.
 
-(2) Ha az (1) bekezdés szerinti eljárásban az eljáró hatóság azt állapítja meg, hogy a kereskedelmi gyakorlat nem ütközik a tisztességtelen kereskedelmi gyakorlat tilalmába, azonban megsérti a külön törvény, illetve az annak végrehajtására kiadott jogszabály vagy az Európai Unió közvetlenül alkalmazandó jogi aktusa fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezését, az (1) bekezdés szerinti külön törvényben meghatározott jogkövetkezményeket alkalmazza.
-
-(3) Ha az (1) bekezdés szerinti eljárásban az eljáró hatóság azt állapítja meg, hogy a kereskedelmi gyakorlat a tisztességtelen kereskedelmi gyakorlat tilalmát és a külön törvény, illetve az annak végrehajtására kiadott jogszabály, illetve az Európai Unió közvetlenül alkalmazandó jogi aktusa fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezését is megsérti, az e törvényben meghatározott jogkövetkezmények mellett az (1) bekezdés szerinti külön törvényben vagy a felhatalmazása alapján kiadott jogszabályban meghatározott bármely jogkövetkezményt alkalmazhatja, azzal, hogy bírságot a magasabb bírságösszeget lehetővé tevő rendelkezések szerint szab ki, a bírságösszeg megállapításakor figyelembe véve azt, hogy a kereskedelmi gyakorlat mindkét alapon jogsértő.
+(2) Ha az eljáró hatóság azt állapítja meg, hogy a kereskedelmi gyakorlat a külön jogszabályi rendelkezést is megsérti, az e törvényben meghatározott jogkövetkezmények mellett az (1) bekezdés szerinti külön törvényben, kormányrendeletben vagy az annak felhatalmazása alapján kiadott jogszabályban meghatározott bármely jogkövetkezményt alkalmazhatja, azzal, hogy bírságot a magasabb bírságösszeget lehetővé tevő rendelkezések szerint szab ki.
 
 18. § Ha a jogsértésért felelős vállalkozás a tisztességtelen kereskedelmi gyakorlatot közreműködő személy igénybevételével valósítja meg [9. § (2) bek.], és a jogsértést az eljáró hatóság határozatában megállapított határidőben nem szüntetik meg, az eljáró hatóság kivételesen a közreműködő személyt külön határozatban kötelezheti az eredeti határozatnak a tisztességtelen kereskedelmi gyakorlat megszüntetésére irányuló része végrehajtására, feltéve, hogy a jogsértés másként nem szüntethető meg, és az eredeti határozatot a közreműködő személlyel is közölték.
 
@@ -231,23 +234,27 @@ rendelkezéseit kell alkalmazni.
 
 ### A Gazdasági Versenyhivatal eljárására vonatkozó különös rendelkezések
 
-25. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel, illetve panasszal kapcsolatos eljárásra – a Tpvt. 43/H. §-ának (2) bekezdésétől és 43/I. §-a (1) bekezdésétől eltérően – a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatásköri vitára vonatkozó rendelkezéseit is megfelelően alkalmazni kell.
+25. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel, illetve panasszal kapcsolatos eljárásra – a Tpvt. 43/H. §-ának (2) bekezdésétől és 43/I. §-a (1) bekezdésétől eltérően – a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatásköri vitára vonatkozó rendelkezéseit is megfelelően alkalmazni kell azzal, hogy ügyfél alatt a bejelentőt, illetve a panaszost kell érteni.
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezését követő naptól számított harminc napon belül hozza meg a Tpvt. 43/H. §-ának (8) bekezdése szerinti végzést.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti bejelentésről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.
 
-26. § (1) A vizsgáló végzéssel hivatalból vizsgálatot rendel el a tisztességtelen kereskedelmi gyakorlat tilalmát feltételezhetően sértő olyan tevékenység, magatartás vagy állapot észlelése esetén, amely tekintetében e törvény szerint a Gazdasági Versenyhivatal jár el.
+26. § (1) A vizsgáló végzéssel hivatalból vizsgálatot rendel el a Gazdasági Versenyhivatal hatáskörébe tartozó, valószínűsíthetően a tisztességtelen kereskedelmi gyakorlat tilalmát sértő tevékenység, magatartás vagy állapot észlelése esetén.
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti vizsgálat elrendeléséről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.
 
-27. § (1) Az elintézési határidő tekintetében a Tpvt. 63. §-ának (1) bekezdését, (2) bekezdésének a) pontját, valamint (5)–(7) bekezdését kell alkalmazni.
+26/A. § (1) A tényállás tisztázása érdekében a Gazdasági Versenyhivatal próbaügyletet köthet.
 
-(2) A Tpvt. 72. §-a (1) bekezdése c) pontjának alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
+(2) A próbaügyletkötéshez a Gazdasági Versenyhivatal közreműködő személyt vehet igénybe. A közreműködő személy részére megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely vállalkozásnál milyen típusú ellenőrzésben vehet részt. A közreműködő személyre az ügyintézőre vonatkozó kizárási szabályokat, továbbá a hatósági tanú titoktartási kötelezettségére vonatkozó szabályokat kell alkalmazni.
 
-(3) A Tpvt. 75. §-a szerinti kötelezettségvállalás alkalmazásának akkor is helye lehet, ha az ügyfél a vizsgált magatartással időközben felhagyott. Ilyen esetben a magatartás megismétlésétől való tartózkodásra lehet kötelezettséget vállalni.
+(3) A próbaügylet-kötési jogosultság igazolásakor az érintett vállalkozás – az áru visszaszolgáltatása esetén – köteles minden, a próbaügyletkötés keretében átvett összeget visszatéríteni. Ha az áru jellegénél fogva nem visszaszolgáltatható, ellenértéke eljárási költségnek minősül.
 
-(4)
+(4) A próbaügyletkötésre egyebekben a szemlére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+27. § (1) Az ügyintézési határidő tekintetében a Tpvt. 63. § (1) bekezdését, (2) bekezdés a) pontját, (4) bekezdését, (5) bekezdés a) pontját, valamint (6) bekezdését kell alkalmazni.
+
+(2) A Tpvt. 72/A. § (1) bekezdés c) pontja szerinti ideiglenes intézkedésként a 16. § szerinti intézkedés is elrendelhető.
 
 ### Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
@@ -422,7 +429,7 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 - 1. Annak valótlan állítása, hogy a vállalkozás magatartási kódex aláírója.
 - 2. Annak valótlan állítása, hogy a magatartási kódexet valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy egyéb szervezet jóváhagyta.
 - 3. Minőségi jelzés, bizalmi jegy vagy hasonló megkülönböztető jelölés jogosulatlan feltüntetése.
-- 4. Annak valótlan állítása – akár önmagában az árunak a kereskedelmi kommunikációban való megjelenítése által –, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy áruját valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
+- 4. Annak valótlan állítása, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy áruját valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
 - 5. Áru meghatározott áron való vásárlására felhívás annak elhallgatásával, hogy a vállalkozásnak alapos oka van azt feltételezni, hogy az adott vagy azt helyettesítő árut a kínált áron nem fogja tudni – az árura, a vonatkozó kereskedelmi kommunikáció hatókörére és az ajánlati árra figyelemmel – megfelelő időtartamig és mennyiségben szolgáltatni vagy más vállalkozástól beszerezni (csalogató reklám).
 - 6. Áru meghatározott áron való vásárlására felhívás, majd
   - a) a felhívásban szereplő áru fogyasztóknak való bemutatásának visszautasítása,
@@ -452,4 +459,4 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 - 28. Reklámban gyermekkorúak közvetlen felszólítása a reklámozott áru megvételére, illetve igénybevételére vagy arra, hogy győzzék meg szüleiket vagy más felnőttet, hogy vásárolja meg számukra a reklámozott árut.
 - 29. Azonnali vagy halasztott fizetés követelése a vállalkozás által szállított vagy nyújtott áruért, illetve az áru visszaszolgáltatásának vagy megőrzésének követelése, ha azt a fogyasztó nem rendelte meg (nem kért értékesítés), kivéve, ha a szerződésnek megfelelő helyettesítő áruról van szó.
 - 30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott árut, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
-- 31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt vagy egyéb előnyhöz jutni, miközben valójában nincs ilyen nyeremény, illetve előny, vagy a nyeremény, illetve egyéb előny érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.
+- 31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt (díjat, jutalmat vagy azzal egyenértékű egyéb előnyt), miközben valójában nincs ilyen nyeremény, vagy a nyeremény érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.

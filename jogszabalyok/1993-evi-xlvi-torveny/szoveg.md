@@ -303,7 +303,7 @@ Stt.10. § (1) A népmozgalmi statisztika körében megfigyelésre kerül minden
 
 (1a) A népmozgalmi események körében kell megfigyelni a magyarországi lakcímmel rendelkező személyek külföldön bekövetkezett halálozását, valamint a magyarországi lakcímmel rendelkező anyák külföldön történt szülését, amennyiben az esemény anyakönyvezésére Magyarországon is sor kerül.
 
-(2) A népmozgalmi események felmérése a következő adatkörökre terjed ki: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, illetve halálozással, mint népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi bejegyzés folyószáma, a népmozgalmi esemény helye és ideje.
+(2) A népmozgalmi események felmérése a következő adatkörökre terjed ki: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, illetve halálozással mint népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, a bejegyzés egyedi elektronikus anyakönyvi azonosítója, a népmozgalmi esemény helye és ideje.
 
 (3) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és a társadalombiztosítási azonosító jelet az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
 

@@ -377,7 +377,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (5) A bejegyzett élettársi kapcsolat megszüntetésére irányuló eljárásban bizonyításnak és igazolásnak nincs helye.
 
-(6) A bejegyzett élettársi kapcsolat megszüntetésére irányuló eljárás lefolytatására – a felek választása szerint – az a közjegyző illetékes, akinek az illetékességi területén a kérelmezők utolsó közös lakóhelye volt, vagy akinek az illetékességi területén a felek valamelyikének lakóhelye van. Ha a kérelem előterjesztésekor a feleknek nincs belföldi lakóhelye, az eljárást a bejegyzett élettársi kapcsolatot az anyakönyvi nyilvántartásba bejegyző anyakönyvvezető illetékességi területe szerint illetékes közjegyző folytatja le.
+(6) A bejegyzett élettársi kapcsolat megszüntetésére irányuló eljárás lefolytatására – a felek választása szerint – az a közjegyző illetékes, akinek az illetékességi területén a kérelmezők utolsó közös lakóhelye volt, vagy akinek az illetékességi területén a felek valamelyikének lakóhelye van. Ha a kérelem előterjesztésekor a feleknek nincs belföldi lakóhelye, az eljárást a bejegyzett élettársi kapcsolatot az anyakönyvvbe bejegyző anyakönyvvezető illetékességi területe szerint illetékes közjegyző folytatja le.
 
 36/B. § (1) A közjegyző a feleket a kérelem beérkezésétől vagy a hiányok pótlásától számított 30 napon belül személyesen meghallgatja, kivéve, ha a kérelem érdemi vizsgálat nélküli elutasításának van helye.
 

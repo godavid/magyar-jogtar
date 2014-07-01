@@ -113,7 +113,11 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 #### 9. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló2003. évi CXXVII. törvény módosítása
 
-61. § (1)
+61. § (1) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 7. §-a a következő 9/A. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„9/A. KN-kód: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. mellékletében meghatározott Kombinált Nómenklatúrával megegyező árut megjelölő áruazonosító szám;”
 
 (2)–(3)
 
@@ -123,7 +127,9 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 63–65. §
 
-66. §
+66. § A Jöt. VII. fejezete a következő 48/F. §-sal egészül ki:
+
+„48/F. § A jövedéki eljárásokban alkalmazandó vámtarifaszámoknak megfelelő KN-kódokat a vámhatóság legkésőbb a KN-kódok változását megelőző 15. napon internetes honlapján közzéteszi.”
 
 67–86. §
 
@@ -132,9 +138,11 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 88. § A Jöt.
 
 - 1–4.
-- 5–7.
+- 5. 40. § (4) bekezdésében a „vámtarifaszám” szövegrész helyébe a „KN-kód” szöveg,
+- 6. 41. § (4) bekezdésében, 59. § (5) bekezdés a) pontjában, 59. § (5) bekezdés b) pontjában, 106. § (4) bekezdés a) pontjában, 106. § (7) bekezdés a) pontjában, 108. § (3) bekezdésében és 111. § (4) bekezdés e) pontjában a „vámtarifaszámát” szövegrész helyébe a „KN-kódját” szöveg,
+- 7. 48. § (4) bekezdésében a „vámtarifaszámára” szövegrész helyébe a „KN-kódjára” szöveg,
 - 8.
-- 9.
+- 9. 48. § (20) bekezdésében a „vámtarifaszám” szövegrész helyébe a „vámtarifaszám és KN-kód” szöveg,
 - 10–12.
 - 13–15.
 - 16.
@@ -149,23 +157,35 @@ lép.
 
 90. §
 
-91. §
+91. § Az Áfa tv. 58. § (1) bekezdése helyébe a következő rendelkezés lép, valamint az 58. § a következő (1a) bekezdéssel egészül ki:
+
+„(1) Ha a felek az általuk kötött szerződés alapján a teljesített termékértékesítésről, a nyújtott szolgáltatásról időszakonként számolnak el, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, a teljesítés időpontja az érintett időszak utolsó napja.
+
+(1a) Az (1) bekezdésben foglaltaktól eltérően, ha a felek a Ptk. szerinti közszolgáltatási szerződés alapján teljesített termékértékesítésről, nyújtott szolgáltatásról, telekommunikációs szolgáltatásról határozott időre történő elszámolásban állapodnak meg, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, a teljesítés időpontja az ellenérték megtérítésének esedékessége. A teljesítés időpontja az ellenérték megtérítésének esedékessége azon termékértékesítés, szolgáltatásnyújtás vonatkozásában is, amelyet a telekommunikációs szolgáltatás nyújtója a telekommunikációs szolgáltatás nyújtására szolgáló hálózat felhasználásával teljesít a telekommunikációs szolgáltatás igénybevevője részére, feltéve, hogy e termékértékesítés, szolgáltatásnyújtás felek közötti elszámolására a telekommunikációs szolgáltatás elszámolási időszakának részeként kerül sor.”
 
 92–98. §
 
-99–100. §
+99. § Az Áfa tv. „Nyugta adattartalma” alcíme a következő 173/A. §-sal egészül ki:
+
+„173/A. § A nyugta kibocsátásának időpontjától a nyugta megőrzésére vonatkozó időszak végéig biztosítani kell a nyugta eredetének hitelességét, adattartalma sértetlenségét és olvashatóságát.”
+
+100. § Az Áfa tv. 174. §-a helyébe a következő rendelkezés lép:
+
+„174. § A számla és a nyugta lehet elektronikus vagy papíralapú.”
 
 101. §
 
 102–103. §
 
-104. §
+104. § Az Áfa tv. a következő 284. §-sal egészül ki:
+
+„284. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 58. § (1) bekezdését az olyan 2014. június 30-át követően kezdődő elszámolási időszak esetén kell először alkalmazni, amely tekintetében a fizetés esedékessége 2014. június 30-át követő időpont.”
 
 105–107. §
 
 108. § Az Áfa tv.
 
-- a)
+- a) 58. § (3) bekezdésében az „az (1) bekezdéstől” szövegrész helyébe az „az (1) és (1a) bekezdéstől” szöveg;
 - b)–o)
 
 lép.
@@ -200,11 +220,15 @@ lép.
 
 148–163. §
 
-164. §
+164. § Az Art. 93. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ellenőrzés az erről szóló megbízólevél kézbesítésével, egy példányának átadásával vagy az általános megbízólevél bemutatásával kezdődik. Új eljárás lefolytatása esetén megbízólevél kiállítására ismételten nem kerül sor. A megbízólevél elektronikusan is kézbesíthető.”
 
 165–168. §
 
-169. § (1)
+169. § (1) Az Art. 124. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Adóügyekben az elektronikus úton kézbesített adóhatósági irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Az elektronikus úton kézbesített adóhatósági irat vonatkozásában a kézbesítési vélelem az iratnak az elektronikus kézbesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon áll be.”
 
 (2)
 
@@ -352,19 +376,33 @@ lép.
 
 265. § (1)–(5)
 
-(6)
+(6) A Ktdt. 2. § 18. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:)
+
+„18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék előállítható, feldolgozható, újbóli felhasználásra előkészíthető és készletezhető;”
 
 (7)
 
-(8)
+(8) A Ktdt. 2. §-a a következő 20a. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„20a. kereskedelmi termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék tárolható;”
 
 (9)–(12)
 
-266. § (1)
+266. § (1) A Ktdt. 3. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre történő kiszállítása, első belföldi forgalomba hozatalnak minősül.”
 
 (2)–(5)
 
-(6)
+(6) A Ktdt. 3. § (6) bekezdése a következő d) ponttal egészül ki:
+
+[A termékdíjköteles termék termékdíjat nem kell megfizetni, ha – e törvény végrehajtási rendeletében meghatározottak szerint – nyilatkozik a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) arról, hogy]
+
+„d) a termékdíjköteles terméket termékdíj raktárba szállítja be.”
 
 (7)–(8)
 
@@ -372,7 +410,13 @@ lép.
 
 268. § (1)
 
-(2)
+(2) A Ktdt. 4. § (1) bekezdése a következő d) ponttal egészül ki:
+
+(A termékdíjköteles termék tulajdonjogának)
+
+„d) termékdíj raktáron belüli átruházása”
+
+(nem minősül forgalomba hozatalnak.)
 
 269–270. §
 
@@ -382,20 +426,28 @@ lép.
 
 273. § (1)
 
-(2)
+(2) A Ktdt. 13. § (1) bekezdése a következő d) ponttal egészül ki:
+
+(A számlán)
+
+„d) a termékdíj raktár engedélyese részére, a termékdíjköteles termék termékdíjának felszámítása nélkül vagy a termékdíj visszaigénylésével történő értékesítése esetén”
+
+[– a (2) bekezdésben foglaltak kivételével – az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.]
 
 274–278. §
 
 279. § (1)–(2)
 
-(3)
+(3) A Ktdt. 25. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A termékdíj visszaigénylése szempontjából külföldre történő kiszállítással, külföldre történő ingyenes vagy visszterhes tulajdonjog-átruházással esik egy tekintet alá a termékdíjköteles termék ipari termékdíj raktárba történő betárolása.”
 
 280–285. §
 
 286. § A Ktdt.
 
 - 1–2.
-- 3.
+- 3. 4. § (2) bekezdés d) pontjában a „közvetlenül külföldre visszaszállították” szövegrész helyébe a „közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították” szöveg,
 - 4.
 - 5.
 - 6–14.

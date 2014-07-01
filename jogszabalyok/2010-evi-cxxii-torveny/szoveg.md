@@ -131,7 +131,8 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 - g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai és munkavállalói részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 - h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
 - i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
-- j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, hatósági felügyeleti feladatokat.
+- j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, hatósági felügyeleti feladatokat,
+- k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 46. § (1) bekezdésben meghatározott, a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétével kapcsolatos feladat végrehajtásában.
 
 (3) A NAV
 
@@ -2568,7 +2569,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 - 1. a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - 2. a személyi igazolvány nyilvántartásból,
-- 3. az anyakönyvi nyilvántartásból,
+- 3. az anyakönyvi nyilvántartások rendszeréből,
 - 4. az útiokmány-nyilvántartásból (külföldre utazásban korlátozott személyekre vonatkozó nyilvántartás, útlevélre vonatkozó nyilvántartás),
 - 5. a társadalombiztosítási nyilvántartásból,
 - 6. az önkormányzati adóhatóság által vezetett nyilvántartásból,

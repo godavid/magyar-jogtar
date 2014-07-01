@@ -214,9 +214,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (2) A jármű ideiglenes forgalomban tarthatóságát igazoló okmány tartalmazza a járműtulajdonos (üzembentartó) 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában és a jármű 9. § (2) bekezdésének a)–d) pontjaiban meghatározott adatait.
 
-(3) Az előzetes eredetiségvizsgálatról kiállított hatósági
-
-bizonyítvány a 9/B. § (1) bekezdésének a), f) és h) pontjaiban meghatározott adatokat tartalmazza.
+(3) Az előzetes eredetiségvizsgálatról kiállított hatósági bizonyítvány a 9/B. § (1) bekezdésének a), f) és h) pontjaiban meghatározott adatokat tartalmazza.
 
 ### A nyilvántartás adatforrásai
 
@@ -310,7 +308,7 @@ igényelhető.
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése szerinti adatokat;
 - r) az országos közutak kezelői a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, valamint a (3) bekezdésében foglalt adatokat,
 - s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1)–(1a) és (3) bekezdésben foglalt adatokat,
-- t) az anyakönyvvezető az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
+- t) az anyakönyvvezető a személyazonosság ellenőrzése és az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 - u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, valamint (2) bekezdés a)–c) pontjaiban megjelölt adatokat;
 - v) a környezetvédelmi, természetvédelmi és vízügyi felügyelőség az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésben megjelölt adatokat.
 

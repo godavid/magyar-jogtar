@@ -1529,7 +1529,8 @@ szükséges,
 - g) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
 - h) a központi költségvetésből vagy Európai Uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges.
 - i) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet a helyi önkormányzatokról szóló törvény 33/A. § (2a) bekezdés c) pontjában meghatározott körben;
-- j) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben.
+- j) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben;
+- k) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
 
 (8) Az állami adó- és vámhatóság a NAV nyomozó hatóságát tájékoztatja az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntető eljárás megindítása vagy lefolytatása céljából.
 
@@ -1886,7 +1887,7 @@ amelyek az adózó valós jövedelem-(bevétel-)felhasználásának és forrás�
 
 ### Az ellenőrzés megindítása
 
-93. § (1) Az ellenőrzés az erről szóló megbízólevél kézbesítésével, egy példányának átadásával vagy az általános megbízólevél bemutatásával kezdődik. Új eljárás lefolytatása esetén megbízólevél kiállítására ismételten nem kerül sor.
+93. § (1) Az ellenőrzés az erről szóló megbízólevél kézbesítésével, egy példányának átadásával vagy az általános megbízólevél bemutatásával kezdődik. Új eljárás lefolytatása esetén megbízólevél kiállítására ismételten nem kerül sor. A megbízólevél elektronikusan is kézbesíthető.
 
 (2) Ha az adózó vagy képviselője, meghatalmazottja, alkalmazottja a megbízólevél átvételét megtagadja, az ellenőrzés két hatósági tanú jelenlétében az erről szóló jegyzőkönyv felvételével és aláírásával kezdődik.
 
@@ -2292,7 +2293,7 @@ hatósági eljárás.
 
 (4) Ha törvény egyidejűleg több adózó fizetési kötelezettségét írja elő, az adóhatóság az adómegállapításról szóló határozatot a közös képviselőnek, ennek hiányában valamennyi adózónak külön-külön kézbesíti.
 
-(5) Adóügyben az elektronikus úton kézbesített adóhatósági irat vonatkozásában a kézbesítési vélelem az iratnak az elektronikus kézbesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon áll be.
+(5) Adóügyekben az elektronikus úton kézbesített adóhatósági irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Az elektronikus úton kézbesített adóhatósági irat vonatkozásában a kézbesítési vélelem az iratnak az elektronikus kézbesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon áll be.
 
 (6) Amennyiben az adózónak több meghatalmazott képviselője van, az adóhatóság az iratot az adózó által az iratok átvételére írásban kijelölt képviselőnek kézbesíti, ilyen kijelölés hiányában az adóhatóság az iratot az adózó általa választott meghatalmazott képviselőjének kézbesíti.
 

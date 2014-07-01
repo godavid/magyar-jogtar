@@ -163,42 +163,45 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 ### A veszélyes állatfajok egyedeinek tartása
 
-20. § (1)
+20. § (1) A veszélyes állatfajok körét e törvény végrehajtására kiadott rendelet állapítja meg. Veszélyes állatnak a veszélyes állatfajok egyedei minősülnek.
 
-(2) A természetvédelmi oltalom alatt nem álló, illetve nemzetközi természetvédelmi egyezmény hatálya alá nem tartozó veszélyes állat tartására, szaporítására az állatvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha a tartás, illetve szaporítás a környezet nyugalmát és biztonságát nem sérti vagy veszélyezteti, és az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak. Az engedélyben – ha az állat azonosíthatósága megoldható – rendelkezni kell a veszélyes állat azonosíthatóságának módjáról.
+(2) A veszélyes állatokat veszélyességük alapján az alábbi kategóriákba kell sorolni:
 
-(3) A természetvédelmi oltalom alatt álló, illetve nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat tartását, szaporítását a természetvédelmi hatóság engedélyezi.
+- a) különösen veszélyes állatfajok,
+- b) közepesen veszélyes állatfajok,
+- c) elővigyázatosságot igénylő állatfajok.
 
-(4) A veszélyes állat tartási helyéül szolgáló ingatlanon, ingatlanrészen az állat fajának feltüntetésével a veszélyre felhívó jól látható tartós jelzést kell elhelyezni.
+21. § (1) A különösen veszélyes állatfaj egyedét – kivéve ha e törvény végrehajtására kiadott rendelet eltérően rendelkezik – kizárólag állatkertben szabad tartani. A különösen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, másik állatkertbe történő át- vagy kihelyezésére, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak. Amennyiben lehetséges, az állatot egyedi azonosítóval kell ellátni, amelynek módjáról az engedélyben kell rendelkezni.
+
+(2) A közepesen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, megvételére, felügyeletének átengedésére, eladásra való felkínálására, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha a tartás, szaporítás, elidegenítés, felügyelet átengedése, eladásra való felkínálás, országba történő behozatal, illetve bemutatás a környezet nyugalmát és biztonságát nem sérti vagy veszélyezteti, és az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak. Amennyiben lehetséges, az állatot egyedi azonosítóval kell ellátni, amelynek módjáról az engedélyben kell rendelkezni.
+
+(3) Az elővigyázatosságot igénylő állatfaj egyedének tartását, szaporítását, elidegenítését, tartásának átengedését, országba történő behozatalát a természetvédelmi hatóságnak be kell jelenteni. Az elővigyázatosságot igénylő állatfaj egyede akkor tartható, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak. Amennyiben lehetséges, az állatot egyedi azonosítóval kell ellátni.
+
+(4) A veszélyes állat tartási helyéül szolgáló ingatlanon, ingatlanrészen a veszélyre felhívó, jól látható tartós jelzést kell elhelyezni, az állat fajának feltüntetésével.
 
 (5) Az állattartó veszélyes állatát közterületen csak átmenetileg, közvetlen és állandó felügyelettel, ember és állat életét, testi épségét nem veszélyeztetve tarthatja.
 
-(6) A veszélyes állat tartójának gondoskodnia kell arról, hogy az állat közterületre vagy más magánterületére ne juthasson be. Ennek hiányában tartási engedély nem adható.
+(6) A veszélyes állat tartójának gondoskodnia kell az állat szökésének megakadályozásáról.
 
-(7) A veszélyes állat tartását, illetőleg szaporítását jogszabály vagy hatósági határozat megtilthatja, illetve feltételhez kötheti. A veszélyes állatok körét, valamint tartásuk, szaporításuk, illetve a veszélyes állattá nyilvánítás feltételeit külön jogszabály állapítja meg.
+(7) A természetvédelmi hatóság nyilvántartja
 
-(8) Az állatvédelmi hatóság a (2) bekezdésben, a természetvédelmi hatóság a (3) bekezdésben leírt veszélyes állat vonatkozásában nyilvántartást vezet, amely tartalmazza az állat tulajdonosának és tartójának nevét, címét, valamint az állat azonosítását szolgáló adatokat és az állat tartási helyének adatait.
+- a) az állat tulajdonosának nevét és címét,
+- b) az állat felügyeletét ellátó természetes személy nevét, születési helyét és idejét, lakcímét, telefonszámát, elektronikus levélcímét,
+- c) az állat tartási helyét,
+- d) az állat faját, nemét, születési idejét, egyéb egyedi jellemzőit,
+- e) egyedileg jelölt állat esetén az állat azonosítására szolgáló adatokat.
 
-21. § (1) A természetvédelmi oltalom alatt nem álló, illetve nemzetközi természetvédelmi egyezmény hatálya alá nem tartozó veszélyes állatnak az országba való behozatalához az állatvédelmi hatóság tartási engedélye szükséges. Az állatvédelmi hatóság a határozatát a rendőrségnek megküldi.
+(8) A természetvédelmi hatóság nyilvántartása alapján a természetvédelemért felelős miniszter országos adatbázist működtet.
 
-(2) A természetvédelmi oltalom alatt álló, illetve nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat országba való behozatalához a természetvédelmi hatóság tartási engedélye szükséges.
+(9) A veszélyes állatok tartásának, szaporításának, elidegenítésének, eladásra való felkínálásának, országba történő behozatalának, illetve bemutatásának, valamint egyedi azonosításának szabályait e törvény végrehajtására kiadott rendelet állapítja meg.
 
-(3)
+22. § (1) A veszélyes állat eltűnését a veszélyes állat tartója haladéktalanul köteles bejelenteni a természetvédelmi hatóságnak. Különösen és közepesen veszélyes állatfaj egyedének eltűnésekor a rendőrséget is értesíteni kell.
 
-22. § (1) Veszélyes állat elidegenítése, felügyeletének átengedése hatósági engedélyhez kötött. Az engedélyezésre a veszélyes állat tartásának engedélyezésére vonatkozó szabályokat kell megfelelően alkalmazni.
+(2) Veszélyes állat elhullását a veszélyes állat tartója 30 napon belül köteles bejelenteni a természetvédelmi hatóságnak.
 
-(2) A veszélyes állat tartója a veszélyes állat
+23. § (1) Ha a veszélyes állat tartója a jogszabályban, illetve az engedélyben foglalt feltételeket nem vagy nem megfelelően teljesíti, veszélyes állatot az előírt engedély nélkül tart, szaporít, elidegenít, eladásra felkínál, felügyeletét átengedi, bemutatja vagy behoz az országba, illetve bejelentési kötelezettségét elmulasztja, a természetvédelmi hatóság – a tulajdonos költségére, a feltételek biztosításáig – a veszélyes állat állatkertbe vagy más megfelelő helyre való szállítását rendelheti el.
 
-- a) eltűnését az állatvédelmi hatóságnak és a rendőrhatóságnak, a természetvédelmi oltalom alatt álló, illetőleg nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat esetében a természetvédelmi hatóságnak is,
-- b) elhullását az állatvédelmi hatóságnak és az állatorvosnak
-
-haladéktalanul köteles bejelenteni.
-
-(3) Nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat eltűnését, elhullását a veszélyes állat tartója 15 napon belül a természetvédelmi hatóságnak köteles bejelenteni.
-
-23. § (1) Ha a veszélyes állat tartója az engedélyben foglalt feltételeket nem, vagy nem megfelelően teljesíti, illetve veszélyes állatot engedély nélkül tart, vagy behoz az országba, az állatvédelmi hatóság, illetve természetvédelmi oltalom alatt álló, vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat esetében a természetvédelmi hatóság – a tulajdonos költségére, a feltételek biztosításáig – a veszélyes állat állatkertbe vagy más megfelelő helyre való szállítását rendelheti el, vagy egyéb megfelelő intézkedést hozhat.
-
-(2) Ha az állattartó az állatvédelmi hatóság, illetve – természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat esetében – a természetvédelmi hatóság által előírt időpontig gondoskodik a jogszabályszerű állattartási feltételek biztosításáról, úgy az (1) bekezdés szerint elszállított állatot részére vissza kell szolgáltatni, ellenkező esetben az állatvédelmi hatóság, illetve – természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat esetében – a természetvédelmi hatóság az állatot elkobozza. Az állatvédelmi hatóság, illetve – természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat esetében – a természetvédelmi hatóság gondoskodik az állat tulajdonjogának átruházásáról, vagy ha ezt jogszabály kizárja vagy ez eredménytelen, az állat végleges elhelyezéséről. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén – hat hónap elteltével – az állat életét megengedett módon ki lehet oltani.
+(2) Ha az állattartó a természetvédelmi hatóság által előírt időpontig gondoskodik a jogszabályszerű állattartási feltételek biztosításáról, úgy az (1) bekezdés szerint elszállított állatot részére vissza kell szolgáltatni, ellenkező esetben a természetvédelmi hatóság az állatot elkobozza és gondoskodik annak végleges elhelyezéséről. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén az állat életét megengedett módon ki lehet oltani.
 
 24. § A veszélyes állat tartójának felelősségére a Polgári Törvénykönyvnek a fokozott veszéllyel járó tevékenységet folytatókra vonatkozó szabályait kell alkalmazni.
 

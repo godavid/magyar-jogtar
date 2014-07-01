@@ -131,6 +131,7 @@ a következő törvényt alkotja:
 - l) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti eljárásokban, valamint a forgalomban lévő magyar törvényes fizetőeszközről utánzat készítésével kapcsolatos eljárásokban,
 - m) a kisajátítási eljárásban,
 - n) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során
+- n) a névváltoztatási eljárásban, a házasságkötési szándék bejelentésére irányuló eljárásban, valamint a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésére irányuló eljárásban
 
 csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.
 

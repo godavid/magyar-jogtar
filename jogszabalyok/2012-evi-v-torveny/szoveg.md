@@ -137,6 +137,8 @@ terjed ki.
 
 19/C. § A Kttv.-nek az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel megállapított 218. § (10) bekezdését és 223. § (6) bekezdését az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvény hatályba lépését követően kinevezett helyettes államtitkárra és közigazgatási államtitkárra kell alkalmazni.
 
+19/D. § A Kttv.-nek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor fennálló kormányzati szolgálati, illetve közszolgálati jogviszonyra akkor kell alkalmazni, ha az 1. módosító törvény hatálybalépése után indul büntetőeljárás a közszolgálati tisztviselővel szemben a Kttv. 39. § (1b) bekezdés a) pontjában meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt.
+
 19/E. § (1) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetménykiegészítését a 11. § szerinti szerv jogutód államigazgatási szervénél (e § alkalmazásában a továbbiakban: jogutód államigazgatási szerv) 2014. június 30-ig a 2013. december 31-én hatályos 11. § szerint kell biztosítani.
 
 (2) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetménykiegészítését 2014. július 1-jétől a jogutód államigazgatási szervnél irányadó szabályok szerint kell biztosítani.

@@ -119,7 +119,9 @@ figyelembevételével kell számítani.
 
 (2) A Szövetség feladata továbbá, hogy a 3.§ (1) bekezdése szerinti biztonsági kőolajkészlet, illetve a tagi hozzájárulás mértékének megalapozott számítása, valamint a kőolajtermékek forgalmazásához kapcsolódó adók beszedése hatékonyságának növelése érdekében olyan ellenőrző és jelölő rendszert működtessen, amely folyamatosan lehetővé teszi a szabad forgalomba bocsátott, behozott és felhasznált, a (3) bekezdésben megjelölt kőolajtermékek megfigyelését.
 
-(3) A Szövetség a (2) bekezdés szerinti feladat teljesítése érdekében a 2710 11 41, 2710 11 45, 2710 11 49, 2710 19 41, 2710 19 45, 2710 19 49 vámtarifa szám alatt nyilvántartott termékeket – termékcsoportonként különböző – ellenőrző jelölő anyaggal látja el.
+(3) A Szövetség a (2) bekezdés szerinti feladat teljesítése érdekében a 2710 11 41, 2710 11 45, 2710 11 49, 2710 19 41, 2710 19 45, 2710 19 49 vámtarifa szám alatt nyilvántartott termékeket termékcsoportonként különböző, miniszteri rendelet szerinti ellenőrző jelölő anyaggal látja el.
+
+(3a) Ellenőrző jelölő anyag nélkül a (3) bekezdés szerinti termék szabad forgalomba nem bocsátható.
 
 (4) A (2) és (3) bekezdésben meghatározott tevékenység ellátása érdekében a (3) bekezdés szerinti kőolajtermékeket előállító, szabad forgalomba bocsátó, behozó vagy importáló köteles együttműködni a jelölést és ellenőrzést végző Szövetséggel.
 
@@ -207,9 +209,9 @@ figyelembevételével kell számítani.
 
 (2) Az igazgatótanács az igazgatóság tagjaitól jelentést kérhet és számukra utasítást adhat.
 
-(3) Az igazgatótanács csak olyan személyt javasolhat igazgatónak vagy igazgató-helyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energia Hivatal (a továbbiakban: MEH) képviselői közül legalább három támogat.
+(3) Az igazgatótanács csak olyan személyt javasolhat igazgatónak vagy igazgató-helyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) képviselői közül legalább három támogat.
 
-25. § Az igazgatótanács tizennégy tagból áll. Hat tagot a kőolaj szekcióból, négy tagot a földgáz szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter és egy a MEH képviselője.
+25. § Az igazgatótanács tizennégy tagból áll. Hat tagot a kőolaj szekcióból, négy tagot a földgáz szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter és egy a MEKH képviselője.
 
 26. § Az igazgatótanács tagjai közül egy elnököt és egy elnökhelyettest választ. A választás egyszerű szavazattöbbséggel történik.
 
@@ -258,7 +260,7 @@ figyelembevételével kell számítani.
 - c) határoz a Szövetség azon ügyeiben, amelyek más szerv hatáskörébe nem tartoznak,
 - d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését és annak végrehajtásáról szóló beszámolót,
 - e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget,
-- f) a 12.§ (2) és (3) bekezdésében meghatározott feladat ellátására olyan, Magyarországon bejegyzett gazdasági társasággal köthet szerződést, amellyel a miniszter, az államháztartásért felelős miniszter és a MEH igazgatótanácsi tagjai közül legalább három egyetért.
+- f) a 12.§ (2) és (3) bekezdésében meghatározott feladat ellátására olyan, Magyarországon bejegyzett gazdasági társasággal köthet szerződést, amellyel a miniszter, az államháztartásért felelős miniszter és a MEKH igazgatótanácsi tagjai közül legalább három egyetért.
 
 #### 8. A Szövetség gazdálkodása
 
@@ -289,7 +291,7 @@ figyelembevételével kell számítani.
 
 34. § (1) A következő évi költségvetést az igazgatóság november 30-ig készíti el, amelyet a közgyűlés hagy jóvá.
 
-(2) A költségvetés közgyűlés elé terjesztéséhez a miniszter, az államháztartásért felelős miniszter és a MEH igazgatótanácsi képviselőinek hozzájárulása szükséges.
+(2) A költségvetés közgyűlés elé terjesztéséhez a miniszter, az államháztartásért felelős miniszter és a MEKH igazgatótanácsi képviselőinek hozzájárulása szükséges.
 
 35. § (1) A Szövetség éves beszámolójának – a tárgyévet követő május 31-ig történő – elfogadásakor felülvizsgálja a 33. § szerinti költségvetését.
 
@@ -377,9 +379,9 @@ figyelembevételével kell számítani.
 
 43. § A Szövetség a tag kérésére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről.
 
-#### 11. Együttműködés a NAV-val, a MEH-hel és a Központi Statisztikai Hivatallal
+#### 11. Együttműködés a NAV-val, a MEKH-hel és a Központi Statisztikai Hivatallal
 
-44. § (1) A Szövetség megkeresésére a NAV, a MEH és a Központi Statisztikai Hivatal a rendelkezésére álló adatok alapján tájékoztatást ad
+44. § (1) A Szövetség megkeresésére a NAV, a MEKH és a Központi Statisztikai Hivatal a rendelkezésére álló adatok alapján tájékoztatást ad
 
 - a) a biztonsági készlet mértékének meghatározásához,
 - b) a tagi hozzájárulás befizetésének ellenőrzéséhez,
@@ -447,6 +449,8 @@ a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, besz
 - d) az ellátás súlyos zavara esetén és az 1999. évi XXXIX. törvény 2. §-a szerinti nemzetközi szerződés 5. cikk 1. pontja szerinti esetben alkalmazandó készenléti terv szabályait
 
 rendeletben állapítsa meg.
+
+49/A. § Felhatalmazást kap a miniszter, hogy a kőolajtermékek ellenőrzéséhez és jelöléséhez szükséges rendszer működésének részletszabályait, valamint az ellenőrző jelölő anyag jellemzőit rendeletben állapítsa meg.
 
 50. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő hónap első napján lép hatályba.
 

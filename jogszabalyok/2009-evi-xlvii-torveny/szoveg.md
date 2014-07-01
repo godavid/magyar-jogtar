@@ -83,7 +83,11 @@ azonosítása.
 
 által kezelt adatokkal.
 
+(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján az anyakönyvi ügyekért felelős miniszter által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
+
 (2) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul gondoskodik a személyazonosító adatokban bekövetkező változásoknak a személyazonosító adatok és fényképek nyilvántartásában történő átvezetéséről.
+
+(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.
 
 6. § (1) A személyazonosító adatok és fényképek nyilvántartásában az érintett arcképmását nyilván kell tartani, ha
 
@@ -906,6 +910,8 @@ valamint a közvetlen hozzáférés útján történő adattovábbítás biztos�
 
 (4) A (3) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, a (3) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
 
+(4a) Ha a kérelmező foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll, akkor a (3) bekezdés b) pontjában meghatározott tény igazolására irányuló kérelem esetén a hatósági erkölcsi bizonyítványban kötelező feltüntetni– erre irányuló kérelem hiányában is – a (3) bekezdés e) pontjában meghatározott tényt.
+
 (5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
 
 (6) A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.
@@ -941,7 +947,7 @@ valamint a közvetlen hozzáférés útján történő adattovábbítás biztos�
 - e) a hatósági erkölcsi bizonyítvány kiállításának helyét és időpontját, valamint
 - f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírását.
 
-(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival egyező módon határozza meg.
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokkal egyező módon határozza meg.
 
 (3) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
 
@@ -1101,7 +1107,7 @@ továbbítja.
 
 ### Automatikus találati adathozzáférés
 
-85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen, valamint az Európai Unió kötelező jogi aktusán alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállam, valamint az Európai Unió kötelező jogi aktusában meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
+85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen, valamint az Európai Unió kötelező jogi aktusán alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának, valamint az Európai Unió kötelező jogi aktusában meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
 
 - a) bűnmegelőzés és büntetőeljárás lefolytatása céljából az ujj- és tenyérnyomat, valamint
 - b) büntetőeljárás lefolytatása céljából a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.

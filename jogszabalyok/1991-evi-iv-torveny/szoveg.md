@@ -1021,13 +1021,20 @@ szerinti adatok igénylésére jogosult.
 
 (5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) A (3) bekezdés 1. pont aa)–ae) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban. A települési önkormányzat jegyzője rögzítheti a (3) bekezdés 3. pont g) alpontja szerinti adatokat is.
+(6) A (3) bekezdés 1. pont aa)–ae) alpontja szerinti adatokat az Szt. 18/B. § szerinti nyilvántartást vezető hatóság továbbítja az adatbázisba. A (3) bekezdés 3. pont g) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzítheti.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 
 (8) Felhatalmazást kap a Kormány, hogy (3) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
 
-57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a (3) bekezdésben meghatározott adatbetekintéshez, a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatátvételhez, valamint az állami felnőttképzési intézmény számára a (4) bekezdésben meghatározott adatbetekintéshez szükséges hozzáférést.
+57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja
+
+- a) a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a (3) bekezdésben meghatározott adatbetekintéshez,
+- b) az Szt. 18/B. § szerinti nyilvántartást vezető hatóság számára az 57/B. § (6) bekezdésében meghatározott adattovábbításhoz,
+- c) a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatátvételhez, és
+- d) az állami felnőttképzési intézmény számára a (4) bekezdésben meghatározott adatbetekintéshez
+
+szükséges hozzáférést.
 
 (2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban meghatározott adatokba betekinthet.
 

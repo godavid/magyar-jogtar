@@ -1340,6 +1340,10 @@ szerinti állam vonatkozásában.
 
 92/A. § A harmadik országbeli állampolgárnak a kiutasítással kapcsolatos idegenrendészeti eljárásokban lehetőséget kell biztosítani arra, hogy saját költségén jogi segítséget vegyen igénybe, jogi képviselőt bízzon meg, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett egyesület jogi segítségét. A hatóság a jogvédelemmel foglalkozó bejegyzett egyesület által végzett tanácsadáshoz – szükség esetén tolmács biztosítása útján – segítséget nyújt.
 
+92/B. § (1) A harmadik országbeli állampolgár az idegenrendészeti kiutasítás elrendeléséről szóló határozat bírósági felülvizsgálatára irányuló eljárás kezdeményezéséhez – kérelem alapján – külön jogszabályban meghatározott ingyenes jogi segítségnyújtást vehet igénybe.
+
+(2) Az idegenrendészeti hatóság a jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem előterjesztéséhez szükséges jogi segítségnyújtás iránti kérelmet haladéktalanul, a kiutasító határozat egy példányával együtt elektronikus hírközlő eszköz (különösen telefon, elektronikus levél) útján továbbítja a jogi segítségnyújtó szolgálatnak.
+
 ### X. Fejezet — A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK ADATAINAK KEZELÉSÉRE VONATKOZÓ SZABÁLYOK
 
 93. § Az idegenrendészeti hatóság a harmadik országbeli állampolgár e törvény alapján nyilvántartott személyes adatait személyazonosítás, az okmányok hitelességének ellenőrzése, a jogszerű tartózkodás időtartamának megállapítása, illetve a párhuzamos eljárások megakadályozása céljából a központi idegenrendészeti nyilvántartásban kezeli.

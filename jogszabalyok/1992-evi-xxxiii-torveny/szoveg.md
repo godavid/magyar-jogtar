@@ -171,23 +171,43 @@ személlyel létesíthető.
 
 (2b) A munkáltatóval közalkalmazotti jogviszonyban állók tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy a munkáltatóval közalkalmazotti jogviszonyban álló közalkalmazott eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.
 
+(2c) Ha a munkáltató feladatkörébe tizennyolcadik életévét be nem töltött személy nevelése, felügyelete, gondozása vagy gyógykezelése tartozik, a közalkalmazotti jogviszony létesítésének a feltétele az (1) bekezdésben meghatározottakon túl a (2d) és (2e) bekezdésben meghatározott követelményeknek való megfelelés.
+
+(2d) Közalkalmazotti jogviszony nem létesíthető
+
+- a) a büntetőeljárás jogerős befejezéséig azzal, aki
+  - aa) a 2013. június 30-ig hatályban volt emberölés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 166. § (2) bekezdés i) pont], öngyilkosságban való közreműködés [1978. évi IV. törvény 168. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (3) bekezdés e) pont], emberkereskedelem [1978. évi IV. törvény 175/B. § (2) bekezdés a) pont és (5) bekezdés], családi állás megváltoztatása [1978. évi IV. törvény 193. § (2) bekezdés b) pont], kiskorú veszélyeztetése [1978. évi IV. törvény 195. § (1)–(3) bekezdés], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás (1978. évi IV. törvény 201–202/A. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont], visszaélés kábítószerrel [1978. évi IV. törvény 282/B. § (1) bekezdés, (2) bekezdés a) és c) pont, 282/B. § (5) bekezdés és (7) bekezdés a) pont],
+  - ab) tiltott toborzás [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem [Btk. 192. § (4) bekezdés a) pont, (5) és (6) bekezdés], kényszermunka [Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll,
+- b) azzal, aki a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, vagy
+- c) azzal, aki az a) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
+
+(2e) Közalkalmazotti jogviszony nem létesíthető azzal, akivel szemben a (2d) bekezdés a) pontjában meghatározott
+
+- a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
+  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig;
+- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított két évig;
+- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított három évig.
+
 (3) Végrehajtási jogszabály a jogviszony létesítéséhez
 
 - a) a (2) bekezdés b) és c) pontjában foglalt feltétel alól mentesítést adhat,
 - b) magyar állampolgárságot, magyar nyelvtudást, illetőleg cselekvőképességet írhat elő.
 
-(4) A közalkalmazotti jogviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
+(4) A közalkalmazotti jogviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, és – ha a (2c) bekezdésben meghatározott közalkalmazotti jogviszonyt kíván létesíteni – vele szemben nem állnak fenn a (2d) és (2e) bekezdésben foglalt kizáró okok.
 
 (5) A munkáltató felhívására a közalkalmazotti jogviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a közalkalmazotti jogviszony létesítését nem teszi lehetővé.
 
-(6) Indokolt esetben a munkáltató írásban felszólíthatja a közalkalmazottat, hogy a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, illetve nem áll a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt.
+(6) Indokolt esetben a munkáltató írásban felszólíthatja a közalkalmazottat, hogy a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, és nem áll a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt, illetve – a (2c) bekezdésben meghatározott közalkalmazotti jogviszony esetén – nem állnak fenn vele szemben a (2d) és (2e) bekezdésben foglalt kizáró okok.
 
-(7) Ha a közalkalmazott igazolja, hogy büntetlen előéletű, illetve nem áll a (6) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt, a munkáltató a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a közalkalmazott részére megtéríti.
+(7) Ha a közalkalmazott igazolja, hogy büntetlen előéletű, nem áll a (6) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt, illetve – a (2c) bekezdésben meghatározott közalkalmazotti jogviszony esetén – nem állnak fenn vele szemben a (2d) és (2e) bekezdésben foglalt kizáró okok, akkor a munkáltató a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a közalkalmazott részére megtéríti.
 
-(8) A munkáltató a 20. § (2) bekezdés a) pontjában, valamint az (5)–(6) bekezdésben meghatározott kizáró ok fennállásának megállapítása céljából kezeli
+(8) A munkáltató a (2) bekezdés a) pontjában, a (2d) és (2e) bekezdésben, valamint az (5) és (6) bekezdésben meghatározott feltételeknek való megfelelés ellenőrzése céljából kezeli
 
 - a) a közalkalmazotti jogviszonyt létesíteni szándékozó személy,
-- b) a közalkalmazott azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által a kizáró ok igazolása céljából kiállított hatósági bizonyítvány tartalmaz.
+- b) a közalkalmazott
+
+azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
 (9) A (4)–(7) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a közalkalmazotti jogviszony létesítéséről meghozott döntés időpontjáig vagy – közalkalmazotti jogviszony létesítése esetén – a közalkalmazotti jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
@@ -403,7 +423,7 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
 
 24. § (1) Ha a közalkalmazott munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, s ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti.
 
-(2) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony alanyairól, a munkaviszony létesítéséről és a munkaszerződés módosításáról szóló rendelkezései (V., VII., és IX. fejezet) közül a 32–35. §, a 42–43. §, a 45. § (1) bekezdés, a 45. § (5) bekezdés, az 50. § és a 62. § nem alkalmazható.
+(2) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony alanyairól, a munkaviszony létesítéséről és a munkaszerződés módosításáról szóló rendelkezései (V., VII. és IX. fejezet) közül a 32–35. §, a 42–43. §, a 44/A. §, a 45. § (1) bekezdése, a 45. § (5) bekezdése, az 50. § és a 62. § nem alkalmazható.
 
 (3) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató személyében bekövetkező változásról szóló VI. fejezete megfelelően abban az esetben alkalmazható, ha az átadó és az átvevő munkáltató e törvény hatálya alá tartozik.
 
@@ -442,7 +462,7 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
 (3) A munkáltató köteles a közalkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni, ha
 
 - a) a közalkalmazott a 20. § (6) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
-- b) a 20. § (2) bekezdés a) pontjában vagy a (6) bekezdésben meghatározott kizáró ok fennállását a munkáltató a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, vagy az egyéb módon a tudomására jut.
+- b) a 20. § (2) bekezdés a) pontjában, (2d) és (2e) bekezdésében vagy (6) bekezdésében meghatározott feltételnek való megfelelést a munkavállaló a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni, vagy a foglalkoztatást kizáró ok egyéb módon a munkáltató tudomására jut.
 
 (4) A közalkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
@@ -1521,6 +1541,8 @@ eltöltött időt.
 (2) A Módtv. 1. § (7) bekezdésével megállapított 38. § (5) bekezdésben foglaltakat a Módtv. hatálybalépése után közölt munkáltatói közalkalmazotti jogviszony-megszüntetés jogellenességének megállapítása iránt indított munkaügyi perben kell alkalmazni.
 
 (3) A Módtv. 1. § (13) bekezdésével megállapított – 80. § (2)–(4) bekezdésében foglaltakat a Módtv. hatálybalépése után esedékessé váló távolléti díjra kell alkalmazni.
+
+91/B. § E törvénynek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor fennálló közalkalmazotti jogviszonyra akkor kell alkalmazni, ha az 1. módosító törvény hatálybalépése után indul büntetőeljárás a 20. § (2d) bekezdés a) pontjában meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt.
 
 92. § (1)
 

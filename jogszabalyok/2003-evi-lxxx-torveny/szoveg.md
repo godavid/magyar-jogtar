@@ -55,7 +55,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - c) nem magyar állampolgár, az államának Magyarországgal kötött nemzetközi megállapodása vagy viszonosság alapján;
 - d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik;
 - e) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel rendelkezik Magyarország területén, az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
-- f) humanitárius célú tartózkodási engedéllyel rendelkezik.
+- f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény hatálya alá tartozik, azonban lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel nem rendelkezik Magyarország területén, és akivel szemben az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasító határozatot hozott;
+- g) humanitárius célú tartózkodási engedéllyel rendelkezik.
 
 (2) A viszonosság fennállása tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter) nyilatkozata irányadó.
 
@@ -71,7 +72,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - d) menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, és a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára biztosított ellátásra és támogatásra jogosult,
 - e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
 - f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
-- g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget.
+- g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget,
+- h) a 4. § (1) bekezdés f) pontjának hatálya alá tartozik.
 
 (3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a nyugdíjminimum 150%-át.
 
@@ -229,7 +231,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 ### A kérelem elbírálásának határideje
 
-23. § (1) A jogi segítségnyújtó szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatók – a kérelem személyesen történő benyújtásakor lehetőség szerint azonnal, de legkésőbb öt napon belül, az írásban benyújtott kérelem alapján pedig tizenöt napon belül dönt.
+23. § (1) A (3) bekezdésben foglaltak kivételével a jogi segítségnyújtó szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatók – a kérelem személyesen történő benyújtásakor lehetőség szerint azonnal, de legkésőbb öt napon belül, az írásban benyújtott kérelem alapján pedig tizenöt napon belül dönt.
 
 (2) A támogatás engedélyezése iránti ügyben az ügy érdemében hozott döntésnek minősül:
 
@@ -238,6 +240,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - c) a támogatás összegének meghatározása,
 - d) a támogatás visszatérítésére kötelezés,
 - e)
+
+(3) A jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem előterjesztéséhez szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.
 
 ### Adatváltozás bejelentése
 
@@ -331,7 +335,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - a) a nemzetiségi szervezet nevében eljáró személy vagy a nemzetiségek jogairól szóló törvény hatálya alá tartozó természetes személy által benyújtott kérelem tárgyában hozott döntés fordítási költségeinek viselésére, valamint, ha a hatóság nem magyar állampolgárságú, a magyar nyelvet nem ismerő személy ügyében – ideértve a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megbízásából eljáró természetes személyt is – magyarországi tartózkodásának tartama alatt hivatalból indít azonnali intézkedéssel járó eljárást vagy a természetes személy ügyfél azonnali jogvédelemért fordult a hatósághoz,
 - b) ha a 28. § (2) bekezdésében foglaltak szerint kap tájékoztatást,
 - c) ha támogatásban részesül, vagy ha a támogatás iránti kérelmét nem a rászorultság hiánya miatt utasították el,
-- d) ha e törvény kifejezetten így rendelkezik.
+- d) a menekültügyi eljárásban részt vevő, továbbá a 4. § (1) bekezdés f) és g) pontjában meghatározott személyt,
+- e) ha e törvény kifejezetten így rendelkezik.
 
 (10) A tolmácsolási és fordítási díj megfizetésére a támogatás visszatérítésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -347,13 +352,17 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 ### Határozathozatal
 
-41. § A kérelemnek helyt adó határozat tartalmazza:
+41. § (1) A kérelemnek helyt adó határozat tartalmazza:
 
 - a) a kérelem alapjául szolgáló ügy, vita megjelölését,
 - b) a jogi szolgáltatás tárgyát, célját,
 - c) a támogatott jogi szolgáltatás formáját és azt, hogy az állam a jogi segítő jogi szolgáltatás nyújtására fordított idejének figyelembevételével hány óra díját téríti vagy előlegezi meg a fél helyett,
 - d) a jogi szolgáltatás igénybevételének határidejét,
 - e) a támogatás összegének állam részére történő visszatérítésére való kötelezést, ha a fél helyett az állam a jogi szolgáltatás díját csak előlegezi.
+
+(2) Ha a jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem előterjesztéséhez szükséges jogi segítségnyújtás iránti kérelmének helyt ad, a peren kívüli támogatásról hozott határozattal egyidejűleg végzésben jogi segítőt és szükség szerint tolmácsot rendel ki, aki a kirendelés alapján a jogi szolgáltatás nyújtása során a jogi segítő és a fél között tolmácsol. A kérelemnek helyt adó határozattal szemben fellebbezésnek helye nincs.
+
+(3) A (2) bekezdés alapján kirendelt tolmács díjazására a közigazgatási hatósági eljárásban közreműködő tolmácsok díjazásáról szóló jogszabályban foglaltakat kell alkalmazni.
 
 ### A jogi szolgáltatás igénybevétele
 
@@ -377,15 +386,35 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 47. § A támogatásról, a támogatás engedélyezésének, felülvizsgálatának, megvonásának és visszatérítésének a feltételeiről a jogi segítő a hozzá jogi szolgáltatás igénybevétele érdekében vagy tájékoztatásért forduló felet tájékoztatja, részére a támogatás engedélyezése iránti kérelemhez szükséges nyomtatványokat rendelkezésre bocsátja és kitöltésükben segítséget nyújt. E tevékenységéért a jogi segítő díjat nem számíthat fel.
 
+47/A. § (1) A 41. § (2) bekezdése szerinti kérelemnek helyt adó határozatot és kirendelő végzést a jogi segítségnyújtó szolgálat haladéktalanul, elektronikus hírközlő eszköz (különösen telefon, elektronikus levél) igénybevételével kézbesíti a jogi segítőnek, illetve a tolmácsnak. Ha a harmadik országbeli állampolgár az ügyében eljárt idegenrendészeti hatóság őrizetében van, a kérelemnek helyt adó határozatot és kirendelő végzést a jogi segítségnyújtó szolgálat az idegenrendészeti hatóság útján, más esetben a jogi segítő közreműködésével kézbesíti a harmadik országbeli állampolgár részére. A kérelmet elutasító határozatot a harmadik országbeli állampolgár részére postai úton is kézbesíteni kell.
+
+(2) A harmadik országbeli állampolgár ügyében eljárt idegenrendészeti hatóság a harmadik országbeli állampolgár tartózkodási helyének megváltozásáról haladéktalanul, elektronikus hírközlő eszköz útján tájékoztatja a jogi segítségnyújtó szolgálatot.
+
+(3) A jogi segítő és a tolmács a közreműködés megtagadásáról – a megtagadás okának megjelölésével – haladéktalanul, elektronikus hírközlő eszköz útján tájékoztatni köteles a jogi segítségnyújtó szolgálatot.
+
+(4) A (2) és (3) bekezdésben foglalt esetben – szükség esetén – a jogi segítségnyújtó szolgálat haladéktalanul új jogi segítőt vagy tolmácsot rendel ki, egyúttal a korábbi kirendelő végzést visszavonja.
+
+47/B. § (1) A jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem elkészítése érdekében a jogi segítő, illetve a tolmács a kirendelés kézhezvételét követően haladéktalanul, de legkésőbb 5 napon belül személyesen köteles felvenni a kapcsolatot a harmadik országbeli állampolgárral.
+
+(2) A tolmács és a jogi segítő a kirendelő végzés kézhezvételét követően haladéktalanul kötelesek egyeztetni a bírósági felülvizsgálati kérelem elkészítése érdekében szükséges intézkedéseket.
+
+(3) A tolmács távtolmácsolás útján is közreműködhet. Ha a tolmács közreműködésére az idegenrendészeti hatóság telephelyén (igazgatóság, őrzött szállás) kerül sor, a távtolmácsolás technikai feltételeit az idegenrendészeti hatóság biztosítja.
+
+47/C. § (1) A jogi segítő a bírósági felülvizsgálati kérelmet a harmadik országbeli állampolgárral való személyes kapcsolatfelvételt követően köteles haladéktalanul vagy legkésőbb a következő munkanapon benyújtani a hatáskörrel rendelkező illetékes bírósághoz.
+
+(2) A jogi segítő a bírósági felülvizsgálati kérelem benyújtásának megtörténtét a jogi segítségnyújtó szolgálat felé a bírósági felülvizsgálati kérelem egy érkeztetett példányának bemutatásával igazolja.
+
 ### A támogatás felülvizsgálata
 
 48. § A jogi segítségnyújtó szolgálat a támogatás igénybevétele feltételeinek fennállását annak jogerős engedélyezésétől számított 1 éven belül bármikor felülvizsgálhatja.
 
-### A jogi szolgáltatás díjának fedezete
+### Egyes szolgáltatások díjának fedezete
 
-49. § (1) A jogi segítő részére a jogi szolgáltatás díját a célelőirányzat terhére kell megfizetni. A célelőirányzat csak a díj összegének megfizetésére használható fel.
+49. § (1) A jogi segítő részére a jogi szolgáltatás díját a célelőirányzat terhére kell megfizetni. A célelőirányzat – a 39. § (7) bekezdésében, valamint a (2) bekezdésben foglaltak kivételével – csak a díj összegének megfizetésére használható fel.
 
-(2) A célelőirányzat terhére történő kifizetések célelőirányzat-módosítás nélkül teljesíthető kiadások.
+(2) A 4. § (1) bekezdés f) pontjában meghatározott személy ügyében a tolmácsolási és fordítási díj megfizetése iránt a jogi segítségnyújtó szolgálat a célelőirányzat terhére intézkedik.
+
+(3) A célelőirányzat terhére történő kifizetések célelőirányzat-módosítás nélkül teljesíthető kiadások.
 
 ### A díj megfizetése a jogi segítő részére
 
@@ -731,6 +760,7 @@ tart.
 89. § Ez a törvény a következő uniós jogi aktusoknak való részleges megfelelést szolgálja:
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 12. cikk (5) bekezdése;
-- b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+- b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk;
+- c) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelv 13. cikk (3) és (4) bekezdése.
 
 90. § E törvény 5. § (2) bekezdés g) pontja a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet 46. cikkének végrehajtásához szükséges rendelkezést állapít meg.

@@ -10,7 +10,15 @@ az egyes egészségügyi és egészségbiztosítási tárgyú törvények módos
 
 7–10. §
 
-11. §
+11. § Az Eüak. „Az Európai Unión belüli határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése céljából történő adatkezelés” alcíme a következő 19/B. §-sal egészül ki:
+
+„19/B. § A finanszírozási szerződéssel nem rendelkező egészségügyi szolgáltató a határon átnyúló egészségügyi ellátás keretében ellátott, a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti uniós beteg (a továbbiakban: uniós beteg) részére nyújtott ellátásról – havonta, a tárgyhót követő 15. napig, személyazonosításra alkalmatlan módon – a következő adatokat szolgáltatja az egészségügyi államigazgatási szerv részére:
+
+a) az ellátott uniós betegek száma, állampolgárság szerinti bontásban,
+
+b) az uniós betegek által igénybevett egészségügyi szolgáltatások esetszáma az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló miniszteri rendelet szerinti ellátási forma szerinti bontásban,
+
+c) az egészségügyi szolgáltató működési engedélye szerinti szakmák, valamint az elvégzett egészségügyi beavatkozások szerinti ellátási esetszám.”
 
 12–13. §
 
@@ -26,7 +34,11 @@ az egyes egészségügyi és egészségbiztosítási tárgyú törvények módos
 
 24. § (1)
 
-(2)
+(2) Az Ebtv. 83. § (6) bekezdése a következő k) ponttal egészül ki:
+
+(Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben határozza meg)
+
+„k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját.”
 
 25. § Az Ebtv.
 
