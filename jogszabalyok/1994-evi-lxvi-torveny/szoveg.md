@@ -6,7 +6,7 @@ Az Országgyűlés a munkavállalók szociális biztonságának elősegítése �
 
 1. § (1) A bérgarancia-eljárás keretében
 
-- a) a felszámolás alatt álló gazdálkodó szervezetnek a munkavállalóval szemben fennálló kiegyenlíthetetlen bértartozásából,
+- a) a felszámolás vagy kényszertörlési eljárás alatt álló gazdálkodó szervezetnek a munkavállalóval szemben fennálló kiegyenlíthetetlen bértartozásából,
 - b) a felszámolás alatt álló kölcsönbevevő által a kölcsönbeadó részére a kölcsönzött munkavállaló után meg nem fizetett kölcsönzési díjból,
 - c) a felszámolás alatt álló gazdálkodó szervezetnek az iskolaszövetkezet részére meg nem fizetett szolgáltatási díjból
 
@@ -17,13 +17,15 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - a) felszámolás: a csődeljárásról és a felszámolási eljárásról szóló 1991. évi IL. törvény (a továbbiakban: Cstv.) szerinti felszámolás, továbbá az Európai Unió államának és az Európai Gazdasági Térségről szóló megállapodásban részes más állam (a továbbiakban: EGT állam) joga szerinti bármely olyan eljárás, amely alapján
   - aa) a munkáltató fizetésképtelensége alapján az adott tagállam joga szerinti kollektív eljárás kezdeményezésére irányuló kérelmet terjesztettek elő, amely a munkáltató vagyona feletti rendelkezési joga részleges vagy teljes elvonásával, valamint felszámoló vagy hasonló feladatot ellátó személy (a továbbiakban: felszámoló) kinevezésével jár, és
   - ab) az említett rendelkezések alapján az illetékes hatóság vagy bíróság döntött az eljárás megkezdéséről, vagy megállapította, hogy a munkáltató vállalkozása vagy üzeme végleg megszűnt, és a rendelkezésre álló eszközök nem elegendőek az eljárás megkezdéséhez;
-- b) gazdálkodó szervezet: a Cstv. 3. §-a (1) bekezdésének a) pontjában felsorolt minden gazdálkodó szervezet, továbbá minden olyan, valamely EGT tagállam joga szerint alakult egyéb szervezet, amely az a) pontban írottak alapján felszámolás alatt állhat;
-- c) bértartozás: a felszámolás alatt álló gazdálkodó szervezetet – mint munkáltatót – terhelő minden munkabértartozás, ideértve a betegszabadság időtartamára járó térítést is, és a munkaviszony megszűnésével összefüggésben járó, a Cstv. 57. §-ának (3) bekezdése szerint elszámolható végkielégítés tartozás.
-- d) kölcsönbeadó: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 214. § (1) bekezdés b) pontjában és 215. § (1) bekezdés b) pontjában meghatározott munkáltató,
-- e) kölcsönvevő: az Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató,
-- f) felszámolási eljárás: a Cstv. szerinti felszámolási eljárás.
+- b) kényszertörlési eljárás: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) VIII/A. fejezete szerinti eljárás;
+- c) gazdálkodó szervezet: a Cstv. 3. §-a (1) bekezdésének a) pontjában felsorolt minden gazdálkodó szervezet, továbbá minden olyan, valamely EGT tagállam joga szerint alakult egyéb szervezet, amely az a) vagy b) pontokban írottak alapján felszámolás vagy kényszertörlési eljárás alatt állhat;
+- d) bértartozás: a felszámolás vagy kényszertörlési eljárás alatt álló gazdálkodó szervezetet – mint munkáltatót – terhelő minden munkabértartozás, ideértve a betegszabadság időtartamára járó térítést is, és a munkaviszony megszűnésével összefüggésben járó, a Cstv. 57. §-ának (3) bekezdése szerint elszámolható végkielégítés tartozás;
+- e) kölcsönbeadó: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 214. § (1) bekezdés b) pontjában és 215. § (1) bekezdés b) pontjában meghatározott munkáltató;
+- f) kölcsönvevő: az Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató;
+- g) felszámolási eljárás: a Cstv. szerinti felszámolási eljárás;
+- h) Bérgarancia biztos: a Ctv. 117/A. § (4) bekezdés szerinti személy.
 
-(3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
+(3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás vagy kényszertörlési eljárás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
 
 (4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Nemzeti Foglalkoztatási Alap bérgarancia alaprésze szolgál.
 
@@ -133,6 +135,8 @@ jogosultanként további, legfeljebb kettő havi bruttó átlagkeresetnek megfel
 (3) Ha a kölcsönbeadó, illetve az iskolaszövetkezet részére a korábban meg nem fizetett kölcsönzési díj, szolgáltatási díj vagy annak egy része a felszámolási eljárás alatt befolyt bevételekből megtérítésre kerül, a kölcsönbeadó, illetve az iskolaszövetkezet a támogatást vagy annak a megtérüléssel érintett részét az állami foglalkoztatási szerv részére a megtérítést követő 8 napon belül visszafizeti.
 
 (4) Ha a bíróság a támogatás igénybevételének időtartama alatt a kölcsönbeadó, illetve az iskolaszövetkezet felszámolását rendeli el, a kölcsönbeadó, illetve az iskolaszövetkezet felszámolója nem igényelhet a 2. § (1) bekezdése szerinti támogatást azon munkavállaló, illetve iskolaszövetkezet tagja munkabérének kifizetéséhez, akire vonatkozóan kölcsönzési díj vagy – iskolaszövetkezet esetében – szolgáltatási díj meg nem fizetése miatt a kölcsönbeadó, illetve az iskolaszövetkezet a 11. § bekezdésében meghatározott támogatást már igénybe vett.
+
+12/A. § Az e törvényben meghatározott jogok és kötelezettségek tekintetében a Bérgarancia biztost, valamint a kényszertörlési eljárás alatt álló gazdálkodó szervezet munkavállalóját ugyanazok a jogok illetik meg, illetve kötelezettségek terhelik, mint a felszámolót, illetőleg felszámolás alatt álló gazdálkodó szervezet munkavállalóját.
 
 13. § (1) Ha a kölcsönbeadó, illetve az iskolaszövetkezet 11. § (1) bekezdés szerinti kérelme az e törvényben foglaltaknak megfelel, az állami foglalkoztatási szerv a kölcsönbeadó és az iskolaszövetkezet részére a 11. § (1) bekezdésben meghatározott támogatást megállapítja és a kérelem átvételétől számított 15 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből a kölcsönbeadó és az iskolaszövetkezet pénzforgalmi számlájára történő átutalásáról.
 

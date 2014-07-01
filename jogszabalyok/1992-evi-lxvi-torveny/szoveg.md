@@ -56,7 +56,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - c) az (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot szerez,
 - d) a Magyarország területén kívül élő polgár a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a alapján nyilatkozattal magyar állampolgárságot szerez,
 - e) a Magyarország területén kívül élő magyar állampolgár kérelmére a magyar állampolgárságról szóló 1993. évi LV. törvény alapján az állampolgársági ügyekben eljáró szerv a magyar állampolgársága fennállását igazolja, vagy
-- f) a Magyarország területén kívül élő magyar állampolgár külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezést végző hatóság anyakönyvezi.
+- f) a Magyarország területén kívül élő magyar állampolgár külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezést végző hatóság anyakönyvezi,
+- g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi.
 
 (2b)
 
@@ -180,7 +181,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 - a) a személyazonosító igazolvány adatlapokat és fényképeket, a lakcímbejelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat, valamint az értesítésicím-bejelentőlapot;
 - b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgároknak a nyilvántartással kapcsolatos bejelentéseit, illetőleg nyilatkozatait tartalmazó iratokat;
-- c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, az abból való törléssel, adatszolgáltatási korlátozással, adatváltozással, adathelyesbítéssel kapcsolatos alapiratokat, az anyakönyvi bejegyzések alapiratainak kivételével;
+- c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, az abból való törléssel, adatszolgáltatási korlátozással, adatváltozással, adathelyesbítéssel kapcsolatos alapiratokat, az anyakönyvi alapiratok kivételével;
 - d) a területszervezési, közigazgatás-szervezési, címváltozási iratokat.
 
 (4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját, továbbá a magyar állampolgárság megszűnésének tényét és időpontját lehet átvezetni.
@@ -242,7 +243,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (4) A személyi azonosítót igazoló hatósági igazolványt úgy kell kiállítani, hogy abból az érintett polgár személyi azonosítója és lakcím adata egyidejűleg ne váljon megismerhetővé.
 
-(5) A polgár személyi azonosítójának megváltozásáról a központi szerv az anyakönyvbe történő bejegyzés céljából értesíti a polgár születési helye szerinti anyakönyvvezetőt, külföldön történt születése esetén az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szervet.
+(5) A polgár személyi azonosítójának megváltozásáról a központi szerv az anyakönyvbe történő bejegyzés céljából értesíti az elektronikus anyakönyvi nyilvántartási rendszer adatkezelőjét.
 
 13/A. § A helységnév, postai irányítószám, közterület elnevezés, közterület jelleg változása vagy területszervezési eljárásban hozott döntés miatt költözéssel nem járó lakcímváltozás esetén a címváltozásnak megfelelő személyi azonosítóról és lakcímről szóló hatósági igazolványt a címváltozás szerinti lakó vagy tartózkodási hely szerint illetékes járási hivatal hivatalból állítja ki és kézbesíti a polgár részére.
 
@@ -312,9 +313,11 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) új külföldi lakóhelyét, valamint
 - e) a bejelentés időpontját.
 
-16. § (1) Az anyakönyvvezető a születési, a házassági, a halotti anyakönyvben, valamint a bejegyzett élettársi kapcsolatok anyakönyvében rögzített – a 11. § (1) bekezdésében meghatározott – adatokat átvezeti a nyilvántartáson.
+16. § (1) Az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvben rögzített – a 11. § (1) bekezdésében meghatározott – adatokat átvezeti a nyilvántartáson.
 
-(2) A 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgár esetében a hazai anyakönyvezést végző anyakönyvvezető a születési, a házassági anyakönyvben vagy a bejegyzett élettársi kapcsolatok anyakönyvében rögzített – a 11. § (1) bekezdésében meghatározott, illetve a külföldi lakóhely – adatokat átvezeti a nyilvántartáson.
+(2) A 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgár esetében a hazai anyakönyvezést végző hatóság az anyakönyvben rögzített – a 11. § (1) bekezdésében meghatározott, illetve a külföldi lakóhely – adatokat átvezeti a nyilvántartáson.
+
+(3) A 4. § (2a) bekezdés g) pontja szerinti, külföldön élő magyar állampolgár esetében az anyakönyvvezető az anyakönyvben rögzített – a 11. § (1) bekezdésében meghatározott, illetve a külföldi lakóhelyre vonatkozó – adatokat átvezeti a nyilvántartáson.
 
 ### IV. Fejezet — Adatszolgáltatás a nyilvántartásból
 
@@ -409,7 +412,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 - e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
-- g) az anyakönyvi és névváltoztatási ügyekben eljáró szerv törvényben meghatározott feladatai ellátásához;
+- g)
 - h) a Központi Statisztikai Hivatal a statisztikáról szóló 1993. évi XLVI. törvényben meghatározott feladatai ellátásához;
 - i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
 - j) az egyes fontos tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvény 5. §-ában meghatározott bizottság, az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
@@ -432,7 +435,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 - e) a központi menekültügyi szerv a törvényben meghatározott feladatai ellátásához;
 - f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
-- g) az anyakönyvvezető;
+- g) az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;
 - h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a konzuli érdekvédelmi feladatok ellátásához;
 - i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője az útlevél-ügyintézéshez.
 
@@ -473,10 +476,10 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 25. § (1) Az e törvényben előírt adatszolgáltatási és nyilvántartási feladataik teljesítéséhez az eljárásban érintett polgár személyazonosító jelét az alábbi szerveknek köteles átadni:
 
 - a) a nyilvántartás (6. §) szerveinek;
-- b) a szülő, illetve hozzátartozó a születés és a haláleset bejelentésekor az egészségügyi intézménynek és az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személynek, illetve az anyakönyvvezetőnek;
+- b) a szülő, illetve hozzátartozó a születés és a haláleset bejelentésekor az egészségügyi intézménynek és az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személynek, illetve az anyakönyvi esemény elektronikus anyakönyvbe rögzítésére jogosult személynek;
 - c) a házasulók a házassági szándékuk bejelentésekor, illetve a bejegyzett élettársi kapcsolatot létesítők e szándékuk bejelentésekor az anyakönyvvezetőnek;
 - d) a peres felek a családjogi és házassági bontóperben, a bejegyzett élettársi kapcsolat felbontására irányuló perben, valamint a holttá nyilvánítással és a halál tényének bírói megállapításával összefüggő ügyekben a bíróságnak, a bejegyzett élettársi kapcsolatot megszüntetni kívánók a közjegyzőnek;
-- e) a szülők a gyermek családi jogállása rendezésekor a gyámhatóságnak, a bíróságnak, az anyakönyvvezetőnek, illetve egyéb jogszabály alapján az eljárásban közreműködő szervnek;
+- e) a szülők a gyermek családi jogállása rendezésekor a gyámhatóságnak, a bíróságnak, az anyakönyvi esemény elektronikus anyakönyvbe rögzítésére jogosult személynek, illetve egyéb jogszabály alapján az eljárásban közreműködő szervnek;
 - f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
 - g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 
@@ -636,6 +639,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 (2) Ha a személyazonosító igazolvány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen személyazonosító igazolvány eltűnéséről (elvesztéséről, eltulajdonításáról), illetve az eltűnt kitöltetlen személyazonosító igazolvány megkerüléséről értesíti a központi szervet, a központi szerv a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
 
 (3) Ha az (1) vagy (2) bekezdés szerinti személyazonosító igazolvány időközben megkerült és a kitöltött személyazonosító igazolvány esetében annak megkerülése tényét a személyiadat- és lakcímnyilvántartásba bejegyezték, a központi szerv az (1) bekezdés szerinti módon gondoskodik az (1) vagy (2) bekezdés szerinti figyelmeztető jelzés törléséről.
+
+29/B. § Ha törvény valamely, a személyiadat- és lakcímnyilvántartásban nyilvántartott személyes adat megváltozása esetén előírja, a központi szerv a törvényben megjelölt nyilvántartást vezető szervet az adatváltozással érintett személy természetes személyazonosító adatainak továbbításával értesíti az adatváltozásról. A törvényben megjelölt nyilvántartást vezető szerv haladéktalanul egyedileg összehasonlítja az érintett természetes személyazonosító adatait a nyilvántartásában kezelt adatokkal. Az összehasonlítást követően a törvényben megjelölt nyilvántartást vezető szerv az értesítésben megküldött adatokat haladéktalanul törli, ha az érintett természetes személyazonosító adatait nyilvántartásában nem kezeli.
 
 ### VI. Fejezet — Adatvédelem
 

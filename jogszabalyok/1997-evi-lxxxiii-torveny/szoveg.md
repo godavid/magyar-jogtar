@@ -1803,7 +1803,8 @@ meghatározására.
 - g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait, valamint az ellenjegyzéssel kapcsolatos eljárási szabályokat,
 - h) a társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét,
 - i) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat,
-- j) a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembeveendő rezsi óradíj összegét.
+- j) a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembeveendő rezsi óradíj összegét,
+- k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját.
 
 (7)
 

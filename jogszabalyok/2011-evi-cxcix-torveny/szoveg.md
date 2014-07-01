@@ -586,6 +586,24 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 - b) cselekvőképes,
 - c) legalább középiskolai végzettséggel rendelkező magyar állampolgárral létesíthető és tartható fenn.
 
+(1a) Ha az államigazgatási szerv feladatkörébe tizennyolcadik életévét be nem töltött személy nevelése, felügyelete, gondozása vagy gyógykezelése tartozik, a kormányzati szolgálati jogviszony létesítésének és fenntartásának a feltétele az (1) bekezdésben meghatározottakon túl az (1b) és (1c) bekezdésben meghatározott követelményeknek való megfelelés.
+
+(1b) Kormányzati szolgálati jogviszony nem létesíthető
+
+- a) a büntetőeljárás jogerős befejezéséig azzal, aki
+  - aa) a 2013. június 30-ig hatályban volt emberölés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 166. § (2) bekezdés i) pont], öngyilkosságban való közreműködés [1978. évi IV. törvény 168. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (3) bekezdés e) pont], emberkereskedelem [1978. évi IV. törvény 175/B. § (2) bekezdés a) pont és (5) bekezdés], családi állás megváltoztatása [1978. évi IV. törvény 193. § (2) bekezdés b) pont], kiskorú veszélyeztetése [1978. évi IV. törvény 195. § (1)–(3) bekezdés], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás (1978. évi IV. törvény 201–202/A. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont], visszaélés kábítószerrel [1978. évi IV. törvény 282/B. § (1) bekezdés, (2) bekezdés a) és c) pont, 282/B. § (5) bekezdés és (7) bekezdés a) pont],
+  - ab) tiltott toborzás [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem [Btk. 192. § (4) bekezdés a) pont, (5) és (6) bekezdés], kényszermunka [Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll,
+- b) azzal, aki a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, és
+- c) azzal, aki az a) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
+
+(1c) Kormányzati szolgálati jogviszony nem létesíthető azzal, akivel szemben az (1b) bekezdés a) pontjában meghatározott
+
+- a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
+  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig;
+- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított két évig;
+- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított három évig.
+
 (2) Az (1) bekezdésben foglaltakon túl pártfogó felügyelőnek nem lehet kinevezni továbbá azt,
 
 - a) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
@@ -617,7 +635,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 (7) Az e törvényben meghatározott alkalmazási feltételek alól – a 41. § (1) bekezdés a) pontja kivételével – felmentés nem adható.
 
-40. § (1) Ha a központi államigazgatási szerv alaptevékenysége körében felsőfokú iskolai végzettségű pályakezdő kormánytisztviselőt kíván alkalmazni, a kormányzati szolgálati jogviszony létesítéséhez a 39. § (1) bekezdésében meghatározott feltételeken túlmenően a kormánytisztviselőnek angol, francia vagy német nyelvből államilag elismert nyelvvizsgával kell rendelkeznie. Ha a központi államigazgatási szervnél betöltendő munkakör ellátásához az előbbiekben felsoroltakon kívül más idegen nyelv használata szükséges, akkor az e nyelvből meglévő, államilag elismert nyelvvizsgát az angol, francia vagy német nyelvből meglévő nyelvvizsga helyett alkalmazási feltételnek kell tekinteni.
+40. § (1) Ha a központi államigazgatási szerv alaptevékenysége körében felsőfokú iskolai végzettségű pályakezdő kormánytisztviselőt kíván alkalmazni, a kormányzati szolgálati jogviszony létesítéséhez a 39. §-ban meghatározott feltételeken túlmenően a kormánytisztviselőnek angol, francia vagy német nyelvből államilag elismert nyelvvizsgával kell rendelkeznie. Ha a központi államigazgatási szervnél betöltendő munkakör ellátásához az előbbiekben felsoroltakon kívül más idegen nyelv használata szükséges, akkor az e nyelvből meglévő, államilag elismert nyelvvizsgát az angol, francia vagy német nyelvből meglévő nyelvvizsga helyett alkalmazási feltételnek kell tekinteni.
 
 (2) Központi államigazgatási szerv alaptevékenysége keretében – ide nem értve a funkcionális tevékenységet – középiskolai végzettségű kormánytisztviselőt nem alkalmazhat. Az államigazgatási szerv alaptevékenységének az alkalmazási és a képesítési követelmények szempontjából az minősül, amit jogszabály a szerv feladatkörébe utal, továbbá amit a miniszter, kormányhivatal vagy központi hivatal vezetője e körben alaptevékenységként határoz meg.
 
@@ -655,6 +673,8 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 42. § (1) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 
+(1a) Az, aki a 39. § (1a) bekezdése szerinti államigazgatási szervnél kíván kormányzati szolgálati jogviszonyt létesíteni, az (1) bekezdésben foglaltakon túl azt is igazolja, hogy a 39. § (1b) és (1c) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben.
+
 (2) A pártfogó felügyelőként kormányzati szolgálati jogviszonyt létesíteni szándékozó személy az (1) bekezdésben foglaltakon túl hatósági bizonyítvánnyal azt is igazolja, hogy a 39. § (2) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben.
 
 (3) A munkáltatói jogkör gyakorlója felhívására a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a kormányzati szolgálati jogviszony létesítését nem teszi lehetővé.
@@ -663,7 +683,8 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 - a) büntetlen előéletű, illetve
 - b) nem áll a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt, továbbá
-- c) az a) pontban foglaltakon túlmenően, pártfogó felügyelő esetén, hogy a 39. § (2) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben.
+- c) az a) pontban foglaltakon túlmenően, pártfogó felügyelő esetén, hogy a 39. § (2) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben,
+- d) az a) pontban foglaltakon túlmenően, a 39. § (1a) bekezdése szerinti államigazgatási szervvel fennálló kormányzati szolgálati jogviszony esetén nem áll fenn vele szemben a 39. § (1b) és (1c) bekezdésében foglalt kizáró feltétel.
 
 (5) Ha a kormánytisztviselő igazolja, hogy
 
@@ -671,17 +692,27 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 - b) nem áll a (4) bekezdés b) pontjában meghatározott foglalkozástól eltiltás hatálya alatt, továbbá
 - c) a pártfogó felügyelő azt is igazolja, hogy a 39. § (2) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben az államigazgatási szerv a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a kormánytisztviselő részére megtéríti.
 
-(6) Az államigazgatási szerv a foglalkoztatást kizáró és az (1)–(3) bekezdés alapján vizsgálandó ok fennállásának megállapítása céljából kezeli
+(5a) Ha a 39. § (1a) bekezdése szerinti államigazgatási szervnél foglalkoztatott kormányzati szolgálati jogviszonyban álló személy igazolja, hogy
+
+- a) büntetlen előéletű,
+- b) nem áll a (4) bekezdés b) pontjában meghatározott foglalkozástól eltiltás hatálya alatt, és
+- c) a 39. § (1b) és (1c) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben,
+
+az államigazgatási szerv a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a kormánytisztviselő részére megtéríti.
+
+(6) Az államigazgatási szerv a foglalkoztatást kizáró és az (1)–(3) bekezdés alapján vizsgálandó ok ellenőrzése céljából kezeli
 
 - a) a kormánytisztviselőként kormányzati szolgálati jogviszonyt létesíteni szándékozó személy,
-- b) a kormánytisztviselő azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által a kizáró ok fennállásának megállapítása céljából kiállított hatósági bizonyítvány tartalmaz.
+- b) a kormánytisztviselő
 
-(7) Az (1)–(5) bekezdésben foglaltak alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
+azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+
+(7) Az (1)–(5a) bekezdésben foglaltak alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
 (8) Az államigazgatási szerv a kormányzati szolgálati jogviszonyt a 25. § (1) bekezdése alapján azonnali hatállyal megszünteti, és az érvénytelenség jogkövetkezményeit alkalmazza,
 
 - a) ha a kormánytisztviselő a (4) bekezdésben foglalt kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása menthető ok következménye,
-- b) ha a foglalkoztatást kizáró és az (1)–(3) bekezdés alapján vizsgálandó ok fennállását a munkáltatói jogkör gyakorlója a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, vagy az egyéb módon a tudomására jut.
+- b) ha a foglalkoztatást kizáró és az (1)–(3) bekezdés alapján vizsgálandó követelményeknek való megfelelést a kormánytisztviselő a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni, vagy a foglalkoztatást kizáró ok egyéb módon a munkáltatói jogkör gyakorlójának a tudomására jut.
 
 (9) A kormányzati szolgálati jogviszonynak a (8) bekezdésben meghatározott okból történő megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
@@ -1075,7 +1106,9 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - a) húsz főnél kevesebb kormánytisztviselő foglalkoztatása esetén legalább öt fő;
 - b) húsznál több száznál kevesebb kormánytisztviselő foglalkoztatása esetén legalább tíz fő;
 - c) száz vagy annál több, de háromszáznál kevesebb kormánytisztviselő foglalkoztatása esetén legalább a kormánytisztviselők 10%-a;
-- d) háromszáz vagy annál több kormánytisztviselő foglalkoztatása esetén legalább harminc fő. Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a kormányzati szolgálati jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani.
+- d) háromszáz vagy annál több kormánytisztviselő foglalkoztatása esetén legalább harminc fő.
+
+Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a kormányzati szolgálati jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani.
 
 68. § (1) A felmentési idő két hónap.
 
@@ -2973,6 +3006,8 @@ kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével s
 - b) cselekvőképes, valamint
 - c) legalább középszintű szakképesítéssel rendelkező magyar állampolgárral létesíthető és tartható fenn.
 
+(1a) Kormányzati szolgálati jogviszony kormányzati ügykezelői munkakörre tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végző államigazgatási szervhez az (1) bekezdésben és a 39. § (1b) és (1c) bekezdésében meghatározott feltételek teljesítése esetén létesíthető és tartható fenn.
+
 (2) Az (1) bekezdéstől eltérően kormányzati ügykezelői munkakörre kormányzati szolgálati jogviszony – a jogszabály által meghatározott fontos és bizalmas ügykezelői munkaköröket, valamint az ügykezelői osztályvezetői kinevezés esetét kivéve –
 
 - a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személlyel, valamint
@@ -3390,6 +3425,8 @@ nem lehet alkalmazni.
 - b) cselekvőképes, valamint
 - c) legalább középszintű szakképesítéssel rendelkező magyar állampolgárral létesíthető és tartható fenn.
 
+(1a) Közszolgálati jogviszony közszolgálati ügykezelői munkakörre tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végző közigazgatási szervnél az (1) bekezdésben és a 39. § (1b) és (1c) bekezdésében meghatározott feltételek teljesítése esetén létesíthető és tartható fenn.
+
 (2) Az (1) bekezdéstől eltérően közszolgálati ügykezelői munkakörre közszolgálati jogviszony – a jogszabály által meghatározott fontos és bizalmas ügykezelői munkaköröket, valamint az ügykezelői osztályvezető esetét kivéve –
 
 - a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személlyel, valamint
@@ -3699,7 +3736,7 @@ részletes szabályokat.
 - f) a Tanács 2010/18/EU irányelve (2010. március 8.) a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről,
 - g) a Tanács 92/85/EGK irányelve (1992. október 19.) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében),
 - h) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról,
-- i) a Tanács 2004/83/EK irányelve (2004. április 29.) a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról,
+- i) az Európai Parlament és a Tanács 2011/95/EU irányelve (2011. december 13.) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról,
 - j) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól.
 
 ### 1. melléklet a 2011. évi CXCIX. törvényhez

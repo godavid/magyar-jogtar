@@ -8,7 +8,7 @@ a bejegyzett élettársi kapcsolatról, az ezzel összefüggő, valamint az éle
 
 (2) Kiskorú részére bejegyzett élettársi kapcsolat létesítése nem engedélyezhető.
 
-(3) Az anyakönyvvezető a kijelentés megtörténte után a bejegyzett élettársi kapcsolatot a bejegyzett élettársi kapcsolatok anyakönyvébe bejegyzi.
+(3) Az anyakönyvvezető a kijelentés megtörténte után a bejegyzett élettársi kapcsolatot az anyakönyvbe bejegyzi.
 
 (4) A bejegyzett élettársi kapcsolat létesítése nyilvánosan, két tanú jelenlétében történik.
 
@@ -35,7 +35,7 @@ a bejegyzett élettársi kapcsolatról, az ezzel összefüggő, valamint az éle
 
 (5) Ha e törvény a házasság vagy a bejegyzett élettársi kapcsolat fennállásához, illetve a házasság vagy a bejegyzett élettársi kapcsolat megszűnéséhez nem állapít meg eltérő jogkövetkezményt, továbbá ha a jogosultság vagy a kötelezettség az özvegyet és az özvegy bejegyzett élettársat megkülönböztetés nélkül megilleti vagy terheli, a családi állapotra vonatkozó nyilatkozat csak olyan formában követelhető meg, hogy a „házas” és „bejegyzett élettárs”, az „özvegy” és az „özvegy bejegyzett élettárs”, illetve az „elvált” és az „elvált bejegyzett élettárs” megjelölés együtt szerepeljen.
 
-(6) A családi állapotra vonatkozó adatot tartalmazó nyilvántartásban – az anyakönyvi nyilvántartás, valamint a személyiadat- és lakcímnyilvántartás kivételével – a családi állapotot úgy kell feltüntetni, hogy a „házas” és a „bejegyzett élettárs”, az „özvegy” és az „özvegy bejegyzett élettárs”, illetve az „elvált” és az „elvált bejegyzett élettárs” megjelölés együtt szerepeljen.
+(6) A családi állapotra vonatkozó adatot tartalmazó nyilvántartásban – az anyakönyvi nyilvántartások rendszere, valamint a személyiadat- és lakcímnyilvántartás kivételével – a családi állapotot úgy kell feltüntetni, hogy a „házas” és a „bejegyzett élettárs”, az „özvegy” és az „özvegy bejegyzett élettárs”, illetve az „elvált” és az „elvált bejegyzett élettárs” megjelölés együtt szerepeljen.
 
 ### A bejegyzett élettársi kapcsolat megszűnése
 

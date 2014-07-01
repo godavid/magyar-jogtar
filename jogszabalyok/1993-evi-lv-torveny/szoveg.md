@@ -282,7 +282,7 @@ ellátva kell csatolni.
 
 19. § (1) A magyar állampolgárság honosítással vagy visszahonosítással történő megszerzésével kapcsolatos adatszolgáltatást – beleértve a 14. § (1) bekezdésében és a 20/A. §-ban meghatározott adatokat is – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, az állampolgársági ügyekben eljáró szerv teljesíti más anyakönyvvezetőnek, a személyiadat- és lakcímnyilvántartást kezelő szervnek, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, valamint a Központi Statisztikai Hivatalnak.
 
-(2) A magyar állampolgárság megszűnéséről az állampolgársági ügyekben eljáró szerv értesíti a személyiadat- és lakcímnyilvántartást kezelő szervet, az anyakönyvi hatóságot, az útlevélhatóságot, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
+(2) A magyar állampolgárság megszűnéséről az állampolgársági ügyekben eljáró szerv értesíti a személyiadat- és lakcímnyilvántartást kezelő szervet, a magyar állampolgárság megszűnésével érintett személy születését és házasságát vagy bejegyzett élettársi kapcsolatát, valamint gyermekének születését nyilvántartó anyakönyvvezetőt, illetve a hazai anyakönyvezést végző hatóságot, az útlevélhatóságot, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
 
 (3) Az állampolgársági eljárás során a miniszter és az állampolgársági ügyekben eljáró szerv
 

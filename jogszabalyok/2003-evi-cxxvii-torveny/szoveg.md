@@ -107,7 +107,7 @@ kell alkalmazni.
 - 8.
 - 9. vámtarifaszám: a Tanács 2658/87/EGK rendeletének
   - a) az ásványolaj, az ETBE, valamint az 50. § (4) bekezdés d)–e) pontjában említett termékek, továbbá a 68. § (1) bekezdés b) pontjában említett aromák esetében a Bizottság 2031/2001/EGK rendeletével módosított, 2002. január 1-jén hatályos,
-  - b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. október 19-én hatályos 1. számú mellékletében meghatározott Kombinált Nomenklatúrával megegyező tartalmú, külön PM rendeletben kihirdetett áruazonosító számok. A nyolc számjegynél kevesebb számjeggyel megadott vámtarifaszám esetén annak valamennyi alszámos bontása is ideértendő;
+  - b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. október 19-én hatályos 1. számú mellékletében meghatározott Kombinált Nomenklatúrával megegyező tartalmú, külön PM rendeletben kihirdetett áruazonosító számok. A nyolc számjegynél kevesebb számjeggyel megadott vámtarifaszám esetén annak valamennyi alszámos bontása is ideértendő; 9/A. KN-kód: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. mellékletében meghatározott Kombinált Nómenklatúrával megegyező árut megjelölő áruazonosító szám;
 - 10. adóhatóság: a Nemzeti Adó- és Vámhivatal adóztatási szerve;
 - 11. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve vagy annak kirendeltsége;
 - 12. adóraktár (ideértve a 82. § szerinti egyszerűsített adóraktárt is): az a fizikailag (pl. fallal, kerítéssel, mérési ponttal) elkülönített, – a terméktávvezeték adóraktár és a kikötői adóraktár kivételével – helyrajzi számmal beazonosított, egy technológiai egységet képező üzem, raktár, továbbá a 72. § (2) bekezdés a) pontja szerinti helyen kialakított üzlethelyiség a hozzá tartozó raktárral, ahol az e törvényben meghatározott engedély birtokában jövedéki termék előállítása folyik, illetve ahol olyan jövedéki termék tárolását, raktározását végzik, amely után az adót még nem fizették meg;
@@ -1019,7 +1019,7 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (3) Az adóraktár-engedélyes bizonylatokkal alátámasztott nyilvántartási rendjének alkalmasnak kell lenni arra, hogy annak alapján az adóraktárban keletkezett adókötelezettség, a felfüggesztett és az esedékessé vált adófizetési kötelezettség bármikor megállapítható, illetve ellenőrizhető legyen.
 
-(4) Az adóraktárban – a (15) bekezdésben foglalt eltéréssel – jövedéki termékenként – a dohánytermékek kivételével a vámtarifaszám legalább 6 számjegyű, illetve az ásványolajtermékeknél 8 számjegyű bontásában – külön-külön termékmérleg-nyilvántartást is kell vezetni. A vámhatóság – az ásványolajtermékek kivételével – a termékmérleg ennél mélyebb termékbontású vezetését is előírhatja az ellenőrizhetőség érdekében. A dohánygyártmány esetében cigaretta, szivar, szivarka és fogyasztási dohány bontásban, ezen belül az azonos fajlagos adómérték (ezer darab cigarettára, szivarra és szivarkára, 1 kilogramm fogyasztási dohányra számított adó) alá tartozó dohánygyártmányokra kell a termékmérleget vezetni.
+(4) Az adóraktárban – a (15) bekezdésben foglalt eltéréssel – jövedéki termékenként – a dohánytermékek kivételével a KN-kód legalább 6 számjegyű, illetve az ásványolajtermékeknél 8 számjegyű bontásában – külön-külön termékmérleg-nyilvántartást is kell vezetni. A vámhatóság – az ásványolajtermékek kivételével – a termékmérleg ennél mélyebb termékbontású vezetését is előírhatja az ellenőrizhetőség érdekében. A dohánygyártmány esetében cigaretta, szivar, szivarka és fogyasztási dohány bontásban, ezen belül az azonos fajlagos adómérték (ezer darab cigarettára, szivarra és szivarkára, 1 kilogramm fogyasztási dohányra számított adó) alá tartozó dohánygyártmányokra kell a termékmérleget vezetni.
 
 (5) A jövedéki termék mennyiségét az adó alapjaként meghatározott mennyiségi egységben, illetve a cigaretta, szivar, szivarka esetében ezer darabban, a fogyasztási dohány esetében kilogrammban kimutatva kell a termékmérlegben szerepeltetni.
 
@@ -1047,7 +1047,7 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (3)
 
-(4) Az adóraktár engedélyese a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék vámtarifaszámát is feltüntetni.
+(4) Az adóraktár engedélyese a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék KN-kódját is feltüntetni.
 
 ### V. Fejezet — A JÖVEDÉKI TERMÉK ADÓMENTES FELHASZNÁLÁSÁNAK
 
@@ -1241,7 +1241,7 @@ kell megfelelően alkalmazni.
 
 (3) Az adóalany az adót önadózással állapítja meg, vallja be és fizeti meg, ha e törvény szerint nincs helye az adó hivatalból történő megállapításának.
 
-(4) A hatósági felügyeletet ellátó vámhatóság az adóraktár engedélyese és az adómentes felhasználó adóbevallása alapjául szolgáló tények, körülmények, az adóraktáranként benyújtott termékmérleg-havizárás, illetve a 46. § (1) bekezdés szerinti, telephelyenként benyújtott elszámolás ellenőrzése alapján jegyzőkönyvvel igazolja, hogy a bevallással érintett jövedéki termékek összetételére, vámtarifaszámára és mennyiségére vonatkozó adatok a valóságnak megfelelnek. A vámhatóságnak a benyújtott termékmérleg-havizárás, illetve elszámolás ellenőrzésére 5 munkanap áll rendelkezésére. A vámhatósághoz benyújtott termékmérleg-havizárás, illetve elszámolás a jogkövetkezmények szempontjából adóbevallásnak minősül.
+(4) A hatósági felügyeletet ellátó vámhatóság az adóraktár engedélyese és az adómentes felhasználó adóbevallása alapjául szolgáló tények, körülmények, az adóraktáranként benyújtott termékmérleg-havizárás, illetve a 46. § (1) bekezdés szerinti, telephelyenként benyújtott elszámolás ellenőrzése alapján jegyzőkönyvvel igazolja, hogy a bevallással érintett jövedéki termékek összetételére, KN-kódjára és mennyiségére vonatkozó adatok a valóságnak megfelelnek. A vámhatóságnak a benyújtott termékmérleg-havizárás, illetve elszámolás ellenőrzésére 5 munkanap áll rendelkezésére. A vámhatósághoz benyújtott termékmérleg-havizárás, illetve elszámolás a jogkövetkezmények szempontjából adóbevallásnak minősül.
 
 (5) Amennyiben a vámhatóság által megállapított adatok, tények, körülmények eltérnek az adóraktár engedélyese, illetve az adómentes felhasználó által bemutatott termékmérleg-havizárásban, illetve elszámolásban szereplő adatoktól, a vámhatóság az eltérés tényét és okát jegyzőkönyvbe veszi, s a felvett jegyzőkönyv egy példányát az adóalanynak átadja, aki a jegyzőkönyvre 8 napon belül észrevételt tehet. Az észrevételt a vámhatóság másodfokú szerve bírálja el, az adóalany kérelmére helyszíni vizsgálatot folytat. A másodfokú vámhatóság döntését a jegyzőkönyvre feljegyzi, szükség esetén kiegészítő jegyzőkönyvet vesz fel. A vámhatóság az eredménytelen adategyeztetést tartalmazó jegyzőkönyv és kiegészítő jegyzőkönyv egy példányát adóellenőrzés végett az ellenőrzés lefolytatására illetékes vámhatósághoz továbbítja annak kiállítását követő 15 napon belül. Az ellenőrzés eredményeként megindult adóigazgatási eljárásban az adóalanynak a vámhatóság jegyzőkönyvére tett, el nem fogadott észrevételeit és indokait is el kell bírálni.
 
@@ -1280,7 +1280,7 @@ adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jöve
 
 (19) A vámhatóság hivatalos helyén kívül, kérelemre végzett eljárása, továbbá a zárjeggyel ellátandó jövedéki termékek utáni adó-visszatérítéshez szükséges vámhatósági eljárás (zárjegy levétele) esetén – az engedélyezési eljárás és ahhoz kapcsolódóan a hivatalos zár felhelyezése kivételével – a kérelmezőnek szemledíjat kell fizetni, és – ha jogszabály ettől eltérően nem rendelkezik – meg kell fizetni az eljárás során felmerülő szakértői és más vizsgálati díjat, szállítási, kiszállási és más vizsgálati költségeket (a továbbiakban együtt: költségtérítés).
 
-(20) Az adóraktári engedélyt, a keretengedélyt, a bejegyzett kereskedői engedélyt, a felhasználói engedélyt kérelmező vagy az adóraktári engedéllyel, keretengedéllyel, bejegyzett kereskedői engedéllyel rendelkező adóalany, a felhasználói engedélyes a vegyvizsgáló szervtől kérheti, illetve a vámhatóság – az engedélyes egyidejű értesítése mellett – a vegyvizsgáló szervnél kezdeményezheti az adóraktári engedélyes által előállított vagy beszerzett jövedéki termékre, a bejegyzett kereskedő által beszerzett jövedéki termékre, valamint a keretengedélyes vagy a felhasználói engedélyes által beszerzett, felhasznált jövedéki termékre és előállított termékre az adófizetési kötelezettség meghatározásánál, illetve az adómérték alkalmazásánál – a termék változatlan összetétele esetén – kötelező érvénnyel bíró vámtarifaszám megállapítást (a továbbiakban: kötelező érvényű vámtarifabesorolás). A vegyvizsgáló szerv a kérelemre vagy hivatalból az engedélyes nevére kiadott kötelező érvényű vámtarifabesorolásról határozatban rendelkezik, amely fellebbezésre tekintet nélkül végrehajtható, rendelkezéseit a határozat közlésének napját követő naptól kell alkalmazni.
+(20) Az adóraktári engedélyt, a keretengedélyt, a bejegyzett kereskedői engedélyt, a felhasználói engedélyt kérelmező vagy az adóraktári engedéllyel, keretengedéllyel, bejegyzett kereskedői engedéllyel rendelkező adóalany, a felhasználói engedélyes a vegyvizsgáló szervtől kérheti, illetve a vámhatóság – az engedélyes egyidejű értesítése mellett – a vegyvizsgáló szervnél kezdeményezheti az adóraktári engedélyes által előállított vagy beszerzett jövedéki termékre, a bejegyzett kereskedő által beszerzett jövedéki termékre, valamint a keretengedélyes vagy a felhasználói engedélyes által beszerzett, felhasznált jövedéki termékre és előállított termékre az adófizetési kötelezettség meghatározásánál, illetve az adómérték alkalmazásánál – a termék változatlan összetétele esetén – kötelező érvénnyel bíró vámtarifaszám és KN-kód megállapítást (a továbbiakban: kötelező érvényű vámtarifabesorolás). A vegyvizsgáló szerv a kérelemre vagy hivatalból az engedélyes nevére kiadott kötelező érvényű vámtarifabesorolásról határozatban rendelkezik, amely fellebbezésre tekintet nélkül végrehajtható, rendelkezéseit a határozat közlésének napját követő naptól kell alkalmazni.
 
 (21) Az adóraktár-engedélyes, az adómentes felhasználó, a bejegyzett kereskedő vagy a felhasználói engedélyes terhére a kötelező érvényű vámtarifabesorolással vagy annak megváltoztatásával összefüggő adókötelezettség, illetve jogkövetkezmény a vámtarifabesorolás kötelezővé válásának napját megelőző időszakra nem állapítható meg.
 
@@ -1359,6 +1359,8 @@ kezeli.
 (2) Az (1) bekezdés szerinti nyilvántartás az engedélyes vagy a nyilvántartásba vett nevére, engedélyszámára vagy nyilvántartási számára, az engedélyben vagy nyilvántartásban szereplő jövedéki termék vagy eszköz megnevezésére, az engedély kiadása vagy a nyilvántartásba vétel időpontjára, valamint az engedély érvényességére vonatkozó adatok tekintetében minősül közhitelesnek. A vámhatóság ezen adatokat az (1) bekezdés szerinti tevékenységek ellenőrzése érdekében, az engedély hatályának megszűnését vagy a nyilvántartásból történő törlést követő 5 évig kezeli.
 
 (3) A vámhatóság a hatályos engedélyek vagy nyilvántartások azon adatait, amelyek tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles, a honlapján közzéteszi.
+
+48/F. § A jövedéki eljárásokban alkalmazandó vámtarifaszámoknak megfelelő KN-kódokat a vámhatóság legkésőbb a KN-kódok változását megelőző 15. napon internetes honlapján közzéteszi.
 
 ### VIII. Fejezet — HATÓSÁGI FELÜGYELET
 
@@ -1735,8 +1737,8 @@ talajjal egybeépített vagy talajhoz rögzített, az illetékes hatóság álta
 
 (5) A felhasználói engedély iránti kérelemhez meg kell adni
 
-- a) a felhasználni, kiszerelni kívánt egyéb ellenőrzött ásványolaj és az előállítani, kiszerelni, felhasználni kívánt megfigyelt termék megnevezését és vámtarifaszámát, továbbá a felhasználás célját,
-- b) – ha a felhasználás célja termék-előállítás – a felhasználási arányszámot, az előállításra kerülő termék (kivéve gyógyszer) összetételét és vámtarifaszámát, illetve – ha a felhasználás egyéb célra történik – a felhasználás mennyiségének levezetését a technológiai folyamat leírásával, műszaki vagy egyéb adatokkal alátámasztva. Amennyiben a felhasználás célja a 3814 00 90 vámtarifaszámú, legalább 95 térfogatszázalékban kőolajból és bitumenes ásványolajból nyert olajat vagy legalább 85 térfogatszázalékban etilalkoholt tartalmazó oldószerkeverék, hígító előállítása, a kérelmezőnek rendelkeznie kell az előállítani kívánt termék 48. § (20) bekezdése szerinti kötelező érvényű vámtarifa-besorolásával.
+- a) a felhasználni, kiszerelni kívánt egyéb ellenőrzött ásványolaj és az előállítani, kiszerelni, felhasználni kívánt megfigyelt termék megnevezését és KN-kódját, továbbá a felhasználás célját,
+- b) – ha a felhasználás célja termék-előállítás – a felhasználási arányszámot, az előállításra kerülő termék (kivéve gyógyszer) összetételét és KN-kódját, illetve – ha a felhasználás egyéb célra történik – a felhasználás mennyiségének levezetését a technológiai folyamat leírásával, műszaki vagy egyéb adatokkal alátámasztva. Amennyiben a felhasználás célja a 3814 00 90 vámtarifaszámú, legalább 95 térfogatszázalékban kőolajból és bitumenes ásványolajból nyert olajat vagy legalább 85 térfogatszázalékban etilalkoholt tartalmazó oldószerkeverék, hígító előállítása, a kérelmezőnek rendelkeznie kell az előállítani kívánt termék 48. § (20) bekezdése szerinti kötelező érvényű vámtarifa-besorolásával.
 
 (6) A jövedéki biztosítékot
 
@@ -2769,7 +2771,7 @@ jövedéki biztosítékot nyújtania.
 
 (4) A jövedéki engedélyes kereskedő jövedéki terméket
 
-- a) kizárólag olyan számla kibocsátásával értékesíthet, amelynek az áfatörvényben meghatározott adatokon kívül tartalmaznia kell a jövedéki termék vámtarifaszámát, a jövedéki engedélyes kereskedő jövedéki engedélye számát, a vevő adóigazgatási azonosító számát, továbbá a fűtőolaj mezőgazdasági őstermelőnek történő értékesítése esetén az előbbieken kívül a vevő őstermelői igazolványának számát,
+- a) kizárólag olyan számla kibocsátásával értékesíthet, amelynek az áfatörvényben meghatározott adatokon kívül tartalmaznia kell a jövedéki termék KN-kódját, a jövedéki engedélyes kereskedő jövedéki engedélye számát, a vevő adóigazgatási azonosító számát, továbbá a fűtőolaj mezőgazdasági őstermelőnek történő értékesítése esetén az előbbieken kívül a vevő őstermelői igazolványának számát,
 - b) szállítólevéllel szállíthat.
 
 (5) A szállítólevél szigorú számadású bizonylat, amelyen fel kell tüntetni
@@ -2787,7 +2789,7 @@ jövedéki biztosítékot nyújtania.
 
 (7) A jövedéki engedélyes kereskedőnek a belföldön értékesített jövedéki termékről vevőnként olyan nyilvántartással kell rendelkeznie, amely tartalmazza
 
-- a) az értékesített termék megnevezését és vámtarifaszámát, számla szerinti mennyiségi egységét, mennyiségét és értékét, a számla számát,
+- a) az értékesített termék megnevezését és KN-kódját, számla szerinti mennyiségi egységét, mennyiségét és értékét, a számla számát,
 - b) a vevő nevét, székhelye (telephelye) címét, adóazonosító számát,
 - c) a vásárlás és a teljesítés (kiszállítás) időpontját. A jövedéki engedélyes kereskedő a nyilvántartás adatait számítógépes adathordozón köteles tárolni, melyeket – kérésre – köteles elektronikus úton, ügyfélkapun keresztül a vámhatóság rendelkezésére bocsátani.]
 
@@ -2807,7 +2809,7 @@ jövedéki biztosítékot nyújtania.
 
 (2) Az importáló az importtevékenységéről külön nyilvántartást köteles folyamatosan vezetni, amely tartalmazza az importált termék megnevezését és mennyiségét, az importszámla számát, a vámokmány megnevezését és azonosító számát, a vámhatáron történt belépés és a vámjogi szabadforgalomba bocsátás időpontját, az importált termék készletre vételének időpontját, valamint a beszerzés céljának (feldolgozás, továbbértékesítés) megjelölését. Az importáló az importált és belföldön értékesített jövedéki termékről a 106. § (7) bekezdésében előírtak szerint vevőnyilvántartást köteles vezetni.
 
-(3) Az importáló a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék vámtarifaszámát is feltüntetni.
+(3) Az importáló a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék KN-kódját is feltüntetni.
 
 109. § (1) Jövedéki termékek szabad forgalomban végzett nem jövedéki engedélyes kereskedelme – a (2)–(7) bekezdésben, a 72. § (14) bekezdésében és a 110. § (11) bekezdésében foglalt eltéréssel, továbbá a saját előállítású szőlőbornak a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló miniszteri rendelet szerinti falusi vendégasztal keretében történő értékesítése, a gyógyszertárak, valamint az egyszerűsített adóraktárban folytatott termelői borkimérés kivételével – üzlethelyiségben, az üzemanyag nem jövedéki engedélyes kereskedelme továbbá automatából történő értékesítés keretében is folytatható. A Magyar Gyógyszerkönyvben meghatározott benzin és alkoholtermék nem jövedéki engedélyes kereskedelmét a gyógyszertárak létesítéséről és működésük egyes szabályairól szóló törvényben meghatározott gyógyszertár folytathatja.
 
@@ -2922,7 +2924,7 @@ meghaladó mennyisége minősül.
 - b) megállapíthatja az egyéb ellenőrzött ásványolaj, a megfigyelt termék és a teljesen denaturált alkohol tényleges készletét,
 - c) vizsgálhatja az e törvényben előírt nyilvántartást,
 - d) vizsgálhatja a beszerzett, felhasznált, készleten lévő egyéb ellenőrzött ásványolaj, megfigyelt termék és teljesen denaturált alkohol származásának, eredetének igazolására szolgáló bizonylatokat,
-- e) vizsgálhatja a készleten lévő termék vámtarifaszámát,
+- e) vizsgálhatja a készleten lévő termék KN-kódját,
 - f) az ellenőrzés céljából a készleten lévő termékből ellenszolgáltatás nélkül mintát vehet.
 
 (5) A jövedéki ellenőrzés folyamatos jelenléttel és vizsgálattal vagy helyszíni, eseti vizsgálattal gyakorolható.
@@ -3076,6 +3078,10 @@ büntetendő.
 (2) A vámhatóság a kiszabott jövedéki bírság megfizetését bármelyik társkötelezettől vagy mindegyiküktől együttesen is követelheti. Amennyiben a társkötelezettek bármelyike a jövedéki bírságot megfizeti, a többi társkötelezett bírságfizetési kötelezettsége is megszűnik.
 
 (3) A társkötelezetteket a fizetési kötelezettség egymás között egyenlő arányban terheli. Ha valamely társkötelezett a vámhatóság felé a ráeső fizetési kötelezettséget meghaladó összegben teljesít, a többi társkötelezettel szemben – a fizetési kötelezettség őket terhelő része erejéig – megtérítési követelése támad.
+
+### Egyéb bírság
+
+116/C. § Az a gazdálkodó, amely a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 12. § (3a) bekezdésében meghatározott kötelezettségét megszegi, 1 millió forintig terjedő bírsággal sújtható.
 
 ### Intézkedések
 

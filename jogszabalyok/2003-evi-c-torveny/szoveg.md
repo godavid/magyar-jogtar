@@ -1857,7 +1857,8 @@ köteles biztosítani.
 - i) szerződések időtartama,
 - j) adatkezelés, adatbiztonság,
 - k) az előfizető jogszabályban meghatározott nyilatkozatai megadásának, a nyilatkozatok módosításának, visszavonásának módjai, esetei és határideje, különösen előfizetői névjegyzékhez, a forgalmi adatokon kívüli helymeghatározó adatok nyújtásához, értéknövelt szolgáltatások nyújtásához, hírközlési szolgáltatások értékesítése, és üzletszerzés céljából történő személyes adatok kezeléséhez, tételes számla igényléséhez, az előválasztással választott közvetítő szolgáltatóra vonatkozó nyilatkozatok, egyéni előfizetői minőségre vonatkozó nyilatkozat,
-- l) az Elnök által rendeletben meghatározott további fejezetek.
+- l) a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek és azokkal egyező célra szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó tájékoztatás;
+- m) az Elnök által rendeletben meghatározott további fejezetek.
 
 (2) A Hatóság az általános szerződési feltételeknek az elektronikus hírközlésre vonatkozó szabályoknak való megfelelőségét rendszeresen vizsgálja.
 
@@ -2110,6 +2111,8 @@ köteles biztosítani.
 - b) a gyermekek és sérülékeny személyek védelmét lehetővé tevő könnyen használható és konfigurálható szoftverekre vagy szoftveropciók elérhetőségére, vagy
 - c) az elektronikus hírközlési szolgáltatások használata során a személyes biztonságot, a magánéletet és a személyes adatokat fenyegető kockázatokkal szembeni védelem céljából rendelkezésére álló eszközökre.
 
+(2a) Az internethozzáférés-szolgáltatást nyújtó szolgáltató köteles a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek vagy azokkal egyező célra szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó közérdekű tájékoztatót összeállítani, a tájékoztatót internetes honlapján közzétenni, a közzétételről és annak elérhetőségéről negyedévente – figyelemmel a (3)–(5) bekezdésre és a 149/A. §-ra is – az előfizetőt értesíteni.
+
 (3) Ha jogszabály az előfizető értesítését írja elő és amennyiben a szolgáltató számlalevelet is küld, a szolgáltató köteles a számlalevél mellékletében értesíteni az előfizetőt.
 
 (4) Ha jogszabály az előfizető értesítését írja elő és a szolgáltató a szolgáltatás jellegéből adódóan nem köteles számlalevelet küldeni, illetve ha az értesítés számlalevélben történő teljesítésére azért nincs mód, mert az értesítés jogszabály által előírt időpontja a számlalevél előfizetőnek történő, szolgáltató általános szerződési feltételei által meghatározott megküldési időpontját megelőzi, a szolgáltató választása szerint – a 144. § (5) és (6) bekezdésében foglaltakra figyelemmel – az értesítési kötelezettségének a következő módon tehet eleget:
@@ -2205,7 +2208,9 @@ köteles biztosítani.
 
 (4) A szolgáltató az általános szerződési feltételeiben meghatározott módon köteles biztosítani költségellenőrzés szolgáltatást, beleértve az egyéni előfizetők ingyenes figyelmeztetését is rendellenes fogyasztási szokások vagy túlzott fogyasztás észlelése esetén.
 
-149/A. § (1)
+### A kiskorúak védelme
+
+149/A. § (1) Az internet-hozzáférés szolgáltatást nyújtó szolgáltató köteles valamely, a kiskorúak védelmét lehetővé tevő, magyar nyelvű, könnyen telepíthető és használható szoftver (a továbbiakban: szűrőszoftver) internetes honlapjáról való ingyenes letölthetőségét és ezt követően annak ingyenes használhatóságát biztosítani.
 
 (2) A Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) az internethozzáférés-szolgáltatást nyújtó szolgáltatók számára kidolgozott és közzétett ajánlásokkal segíti elő az (1) bekezdés szerinti követelményeknek megfelelő szűrőszoftverek fejlesztését vagy kiválasztását. A Kerekasztal ösztönzi a szolgáltatókat az összehangolt szűrőszoftver-politika kialakítására és elősegíti e tevékenységük körében az önszabályozó jellegű együttműködésüket.
 
@@ -2374,6 +2379,8 @@ köteles biztosítani.
 - b) a logikailag elkülönített adatkezelési rendszerből mindazokat az adatokat, amelyekre vonatkozóan a célhoz kötött kezelési határidők mindegyike letelt.
 
 (8) A (2) bekezdés szerinti adatok közül az előfizető családi és utóneve, születési neve, lakóhelye, tartózkodási helyére vonatkozó információ, az előfizetői állomás száma vagy egyéb azonosítója, az őt hívó és az általa hívott előfizetői számok, a hívás vagy egyéb szolgáltatás dátuma és kezdő időpontja átadható a bennfentes kereskedelem, piacbefolyásolás, engedély nélküli szolgáltatás végzése, a nettó short pozícióra vonatkozó bejelentési és közzétételi kötelezettség elmulasztása, a short ügyletkötési korlátozások ügyében, illetve vállalatfelvásárlásra vonatkozó szabályok betartásának ellenőrzése érdekében indított eljárás keretében a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Banknak.
+
+(8a) A (2) bekezdés szerinti adatok közül átadható a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-ában vagy 21. §-ában, illetve az Európai Unió működéséről szóló szerződés 101. vagy 102. cikkében foglalt tilalom megsértése miatt, valamint a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény Melléklete 26. pontjának megsértése miatt versenyfelügyeleti eljárást folytató Gazdasági Versenyhivatalnak az előfizető családi és utóneve, születési neve, lakóhelye, tartózkodási helyére vonatkozó információ, az előfizetői állomás száma vagy egyéb azonosítója, az őt hívó és az általa hívott előfizetői számok, a hívás vagy egyéb szolgáltatás dátuma és kezdő időpontja, valamint időtartama. A közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére, a piac felosztására – beleértve a versenytárgyalási összejátszást is –, vagy a termelési, eladási kvóták meghatározására irányuló versenytársak közötti megállapodás vagy összehangolt magatartás miatt versenyfelügyeleti eljárást folytató Gazdasági Versenyhivatalnak a mobil rádiótelefon szolgáltatásnál a szolgáltatást nyújtó hálózat és cella, valamint a szolgáltatás igénybevételekor használt készülék egyedi azonosítója (IMEI), IP hálózatok esetén az alkalmazott azonosítók is átadhatók.
 
 (9) A (2) bekezdés szerinti adatok közül azok, amelyek az adatkezelés céljához szükségesek, a (3) bekezdésben meghatározott adatmegőrzési időn belül átadhatók:
 

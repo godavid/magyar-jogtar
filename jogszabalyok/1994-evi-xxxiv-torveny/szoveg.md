@@ -1052,7 +1052,7 @@ törölni kell.
 
 (7) Rendvédelmi szerv és nemzetbiztonsági szolgálat fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
 
-(8) A rendőrség az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvi nyilvántartásban, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhet el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
+(8) A rendőrség az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvben, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhet el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
 
 (9) Az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében harmadik személynek okozott kár megtérítésére, valamint személyiségi jogsértés esetén a sérelemdíj érvényesítésére a 67. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
@@ -1297,7 +1297,7 @@ adatok köre
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - b) a személyi igazolvány nyilvántartásból,
-- c) az anyakönyvi nyilvántartásból,
+- c) az anyakönyvi nyilvántartások rendszeréből,
 - d) az útiokmány-nyilvántartásból (külföldre utazásban korlátozott személyekre vonatkozó nyilvántartás, útlevélre vonatkozó nyilvántartás),
 - e) a társadalombiztosítási nyilvántartásból,
 - f) az adóhatóság által vezetett nyilvántartásból,

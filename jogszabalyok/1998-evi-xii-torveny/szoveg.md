@@ -328,7 +328,7 @@ hajtja végre.
 
 (7) Amennyiben az úti okmány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen úti okmány eltűnéséről (elvesztés, eltulajdonítás), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a központi adatkezelő szervet, a központi adatkezelő szerv a külön jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
 
-(8) Az anyakönyvvezető az állampolgárság ellenőrzése, valamint az elhunyt személyek személyazonosság igazolására alkalmas okmányának bevonása céljából a 24. § a), e) és f) pontjában foglalt adatokat lekérdezheti.
+(8) Az anyakönyvvezető a személyazonosság és állampolgárság ellenőrzése, valamint az elhunyt személy személyazonosság igazolására alkalmas hatósági igazolványának bevonása céljából a 24. § (1) bekezdés a), e) és f) pontjában foglalt adatokat lekérdezheti.
 
 28. § (1) A (2a) és (2b) bekezdésben meghatározott eltérésekkel a központi adatkezelő szerv természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére – az adatfelhasználás céljának és jogalapjának igazolása esetén – adatot szolgáltathat
 

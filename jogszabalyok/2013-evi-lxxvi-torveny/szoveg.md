@@ -134,7 +134,11 @@ jegyezhet be.
 
 (4) Ha a bíróság holtnak nyilvánító döntést hozott, a halálesetet a holtnak nyilvánított személy születését nyilvántartó anyakönyvvezető jegyzi be az anyakönyvbe.”
 
-6. §
+6. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 10. §-a a következő e) ponttal egészül ki:
+
+(A hazai anyakönyvezést végző hatóság anyakönyvezi)
+
+„e) a Magyarországon lakóhellyel rendelkező hontalan személy külföldön történt születését, házasságkötését, bejegyzett élettársi kapcsolata létesítését, valamint halálesetét, ha a bejegyzést olyan személy kéri, akinek a magyarországi anyakönyvezéshez érdeke fűződik.”
 
 7. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 11. §-a a következő szöveggel lép hatályba:
 
@@ -150,7 +154,51 @@ jegyezhet be.
 
 (2) A papír alapú anyakönyvbe bejegyzett, de az elektronikus anyakönyvbe be nem jegyezhető adatról kért hatósági bizonyítvány kiállítására a nyilvántartó anyakönyvvezető illetékes.”
 
-9–12. §
+9. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Illetékesség” alcíme a következő 12/A. §-sal egészül ki:
+
+„12/A. § (1) Az apai elismerő nyilatkozatot és – ha azt nem az apai elismerő nyilatkozattal együtt tették meg – az apai elismerő nyilatkozathoz szükséges hozzájáruló nyilatkozatot az az anyakönyvvezető rögzíti az apai elismerő nyilatkozatok nyilvántartásában, aki előtt a nyilatkozatot tették.
+
+(2) A nem az anyakönyvvezető előtt tett apai elismerő nyilatkozatot és – ha azt nem az apai elismerő nyilatkozattal együtt tették meg – az apai elismerő nyilatkozathoz szükséges hozzájáruló nyilatkozatot
+
+a) – ha a gyermek a nyilatkozattétel időpontjában még nem született meg –
+
+aa) azon szerv székhelye szerinti anyakönyvvezető, amely előtt a nyilatkozatot megtették,
+
+ab) a konzul előtt tett nyilatkozatot az anyakönyvi ügyekért felelős miniszter,
+
+b) – ha a gyermek a nyilatkozattétel időpontjában már megszületett – a születést nyilvántartó anyakönyvvezető, illetve a hazai anyakönyvezést végző hatóság
+
+rögzíti az apai elismerő nyilatkozatok nyilvántartásában.”
+
+10. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 13. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A fővárosi és megyei kormányhivatal a 4. § (5) és (6) bekezdésében meghatározott döntésével szemben benyújtott fellebbezést az anyakönyvi ügyekért felelős miniszter bírálja el.”
+
+11. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 14. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+
+„(3a) Ha az okirat kiállításának helye szerinti államban nem működik magyar külképviselet, vagy a magyar külképviselet diplomáciai felülhitelesítési tevékenységet nem végez, a külföldi okirat diplomáciai felülhitelesítés nélkül is elfogadható.
+
+(3b) A külföldi állam Magyarországon működő külképviselete által kiállított anyakönyvi okirat diplomáciai felülhitelesítés nélkül is elfogadható.”
+
+12. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Okirat és személyes nyilatkozat” alcíme a következő 14/A. §-sal egészül ki:
+
+„14/A. § (1) Ha a bejegyzés alapja külföldi bíróság vagy más hatóság házassági ügyben vagy bejegyzett élettársi kapcsolat ügyében hozott határozata, a fővárosi és megyei kormányhivatal a határozat elfogadhatóságáról az igazságügyért felelős miniszter véleményét kéri.
+
+(2) Ha a hazai anyakönyvezést végző hatóság jár el és
+
+a) a bejegyzés alapja külföldi bíróság vagy más hatóság házassági ügyben vagy bejegyzett élettársi kapcsolat ügyében hozott határozata vagy
+
+b) nem állapítható meg, hogy a külföldön megkötött házasság vagy bejegyzett élettársi kapcsolat létrejött és érvényes,
+
+a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszter véleményét kéri.
+
+(3) Nem kell az igazságügyért felelős miniszter véleményét kérni, ha az anyakönyvi bejegyzés teljesítéséről való döntésre a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet az irányadó.
+
+(4) A fővárosi és megyei kormányhivatal vagy a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszter véleményét kéri, ha
+
+a) a kiskorú magyar állampolgárt magyar állampolgár fogadta örökbe külföldön, és az anyakönyvi bejegyzés iránti kérelem benyújtásakor az örökbefogadott gyermek már nagykorú és a bejegyzést ő maga kéri,
+
+b) a kiskorú magyar állampolgár nem magyar állampolgár általi örökbefogadásának anyakönyvbe történő bejegyzését a már nagykorú örökbefogadott maga kéri.”
 
 13. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 15. § (2) bekezdése a következő szöveggel lép hatályba:
 
@@ -188,7 +236,17 @@ c) a hivatali helyiségen kívüli helyszínen történő lebonyolítást lehete
 
 „(1) Ha a települési önkormányzat a házasság hivatali helyiségen kívüli megkötése, továbbá munkaidőn kívül történő házasságkötés esetén a többletszolgáltatás ellentételezéseként díjat kíván megállapítani, a szolgáltatásért a települési önkormányzat rendeletében meghatározott mértékű díjat kell fizetni.”
 
-18–20. §
+18. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 19. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az anyakönyvvezető kizárólag akkor működik közre a házasság hivatali helyiségen kívüli megkötésében, továbbá a hivatali munkaidőn kívüli házasságkötésben, ha a házasulók a többletszolgáltatás ellentételezéseként megállapított díjat megfizették.”
+
+19. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 21. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A felek kérelmére a megállapodást az anyakönyvből törölni kell, kivéve, ha a felek házasságából gyermek született.”
+
+20. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 22. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A házasságkötés helye szerint illetékes jegyző a kérelem benyújtásától számított harminc napon belül dönt a házassági akadály alól a Polgári Törvénykönyv családjogi rendelkezései szerint adható felmentésről.”
 
 21. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 27. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -242,7 +300,13 @@ c) a hivatali helyiségen kívüli helyszínen történő lebonyolítást lehete
 
 „(1) Ha a települési önkormányzat a bejegyzett élettársi kapcsolat hivatali helyiségen kívüli, továbbá a munkaidőn kívül történő létesítése esetén a többletszolgáltatás ellentételezéseként díjat kíván megállapítani, a szolgáltatásért a települési önkormányzat rendeletében meghatározott mértékű díjat kell fizetni.”
 
-28–29. §
+28. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 33. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az anyakönyvvezető kizárólag akkor működik közre az (1) bekezdés szerinti eljárásban, ha a többletszolgáltatás ellentételezéseként megállapított díjat megfizették.”
+
+29. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 34. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A bejegyzett élettársi kapcsolat létesítésének helye szerint illetékes jegyző a kérelem benyújtásától számított harminc napon belül dönt a bejegyzett élettársi kapcsolat akadályai alóli a Polgári Törvénykönyv családjogi rendelkezései szerint adható felmentésről.”
 
 30. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 39. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -274,7 +338,9 @@ c) a hivatali helyiségen kívüli helyszínen történő lebonyolítást lehete
 
 (2) Az anyakönyvbe azt a születési és házassági nevet kell bejegyezni, amely az érintett személyt a bejegyzés alapjául szolgáló esemény időpontjában megillette.”
 
-35. §
+35. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 44. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az a személy, akinek korábbi személyes joga alapján kettős családi nevét a magyar anyakönyvi szabályoktól eltérő írásmóddal anyakönyvezték, a magyar állampolgárság megszerzése után kérheti, hogy kettős családi nevét a magyar anyakönyvi szabályoknak megfelelő írásmóddal jegyezzék be az anyakönyvbe.”
 
 36. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 44. § (5)–(7) bekezdése a következő szöveggel lép hatályba:
 
@@ -316,11 +382,23 @@ d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utó
 
 „(5) Ha a feleség a házasságkötést megelőzően olyan nevet visel, amelyet az újabb házasságkötést követően nem viselhet tovább, és a házasság megkötéséig nem nyilatkozott a házasságkötés után viselni kívánt házassági nevéről, házassági névként a születési nevét kell bejegyezni.”
 
-40. §
+40. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 47. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Ha a bíróság a volt feleséget a házasságra utaló toldást tartalmazó házassági név viselésétől jogerős ítéletében eltiltotta, és a volt feleség nem nyilatkozott a viselni kívánt házassági névről, házassági névként a születési nevét kell bejegyezni.”
 
 41. §
 
-42. §
+42. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 48. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+„(4) A házassági névviselési forma módosítása iránti kérelem elbírálására illetékes anyakönyvvezető az eljárása során keletkezett anyakönyvi alapiratot a házassági névviselési forma módosításának az anyakönyvbe történő bejegyzését követő nyolc napon belül megküldi a házasságkötést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak.
+
+(5) Ha a bíróság a volt feleséget eltiltotta a házasságra utaló toldást tartalmazó házassági név viselésétől, a bíróság értesíti a házasságkötést nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot. Az értesítés tartalmazza
+
+a) a volt házastársak természetes személyazonosító adatait,
+
+b) a házasságkötés helyét és időpontját, valamint
+
+c) a házasságra utaló toldást tartalmazó házassági név viselésétől eltiltás tényét.”
 
 43. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 49. §-a a következő szöveggel lép hatályba:
 
@@ -422,7 +500,9 @@ g) nyilatkozatot arról, hogy a kérelmezett név a Polgári Törvénykönyv né
 
 46. §
 
-47. §
+47. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 55. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A doktori cím és más tudományos fokozat, valamint az egyes címek és rangok megszüntetéséről szóló 1947. évi IV. törvény szabályaival ellentétes adatok bejegyzését meg kell tagadni.”
 
 48. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Az elektronikus és a papír alapú anyakönyv” alcíme a következő szöveggel lép hatályba:
 
@@ -480,7 +560,9 @@ g) nyilatkozatot arról, hogy a kérelmezett név a Polgári Törvénykönyv né
 
 „(7) Bejelentés hiányában is be kell jegyezni az anyakönyvbe a Magyarországon történt születést és halálesetet, ha bejelentésre kötelezett nincs, vagy a kötelezett a bejelentést elmulasztotta. Ilyen esetben az anyakönyvvezető gondoskodik a szükséges adatok beszerzéséről.”
 
-50. §
+50. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 61. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Ha az intézeten kívüli születésnél az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személy nem működött közre, a születés szülész-nőgyógyász szakorvos által utólagosan kiállított igazolás alapján anyakönyvezhető. Az igazolásnak tartalmaznia kell az anya személyazonosításra alkalmas adatait, a szülés, a születés tényét és annak vélelmezett idejét, valamint a gyermek nemét.”
 
 51. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 62. §-a a következő szöveggel lép hatályba:
 
@@ -492,7 +574,15 @@ g) nyilatkozatot arról, hogy a kérelmezett név a Polgári Törvénykönyv né
 
 (4) Bevándorolt, letelepedett, menekült vagy oltalmazott jogállással nem rendelkező nem magyar állampolgár halálesetének bejelentésekor az elhalt személyazonosításra alkalmas okmányait, továbbá a halottvizsgálati bizonyítványt az anyakönyvvezetőnek be kell mutatni. Az anyakönyvvezető az elhalt úti okmányában lévő érvényes magyar vízumon, illetve a tartózkodási jogosultságra vonatkozó bejegyzésen az egyedi elektronikus anyakönyvi azonosító feltüntetésével „érvénytelen” bejegyzést tesz, és a külföldi hatóságok által kiállított okmányokat a bejelentőnek visszaadja.”
 
-52. §
+52. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Bejelentés” alcíme a következő 62/A. §-sal egészül ki:
+
+„62/A. § Az anyakönyvvezető elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult
+
+a) a személyazonosság és az állampolgárság ellenőrzése, valamint az elhalt személyek személyazonosság igazolására alkalmas hatósági igazolványainak, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolványának bevonása céljából a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben, valamint a külföldre utazásról szóló törvényben meghatározott adatokat, valamint
+
+b) a személyazonosság ellenőrzése, valamint az elhalt személyek személyazonosság igazolására alkalmas hatósági igazolványainak bevonása céljából a közúti közlekedési nyilvántartásról szóló törvényben meghatározott adatokat
+
+megismerni.”
 
 53. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Az anyakönyvezés helye, időpontja, az újbóli anyakönyvezés” alcíme a következő szöveggel lép hatályba:
 
@@ -512,7 +602,11 @@ g) nyilatkozatot arról, hogy a kérelmezett név a Polgári Törvénykönyv né
 
 „(1) A hazai anyakönyvezés iránti kérelem bármely képviselő-testület hivatalának anyakönyvvezetőjénél vagy bármely konzuli tisztviselőnél előterjeszthető. Ha magyar állampolgár külföldön történt születéséről, házasságkötéséről, bejegyzett élettársi kapcsolata külföldi létesítéséről vagy külföldön történt halálesetéről az anyakönyvvezető vagy – a fogadó állam hatósága által megküldött anyakönyvi kivonat alapján – a konzuli tisztviselő tudomást szerez, a hazai anyakönyvezést hivatalból kezdeményezi. A magyar állampolgár külföldön bekövetkezett halálesetének hazai anyakönyvezése iránti kérelmet a hivatásos konzuli tisztviselőnél postai úton is elő lehet terjeszteni.”
 
-55. §
+55. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 67. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) Az állampolgárság megszerzésére vagy az állampolgárság igazolására irányuló eljárás kezdeményezésekor az állampolgársági kérelem átvételére jogosult szervnél a hazai anyakönyvezés iránti kérelmet is elő kell terjeszteni.
+
+(1b) Magyar állampolgár külföldön történt születésének, házasságkötésének, bejegyzett élettársi kapcsolata létesítésének hazai anyakönyvezésére irányuló kérelemhez csatolni kell – ha a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel – a személyiadat- és lakcímnyilvántartásba vételhez szükséges iratokat. Az anyakönyvvezető vagy a hivatásos konzuli tisztviselő ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.”
 
 56. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény VI. Fejezete a következő szöveggel lép hatályba:
 
@@ -1232,7 +1326,63 @@ c) a fővárosi és megyei kormányhivatal,
 
 d) az anyakönyvi ügyekért felelős miniszter.”
 
-63. §
+63. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény a következő 81/A-81/D. §-sal egészül ki:
+
+„81/A. § (1) Az elektronikus anyakönyvben, az apai elismerő nyilatkozatok nyilvántartásában, az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét, valamint az elektronikus alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, valamint az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
+
+a) a bíróság az előtte folyamatban lévő eljárásban részt vevő személyek személyazonosságának, valamint a családi kapcsolatok fennállásának megállapítása, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése céljából,
+
+b) a nyomozó hatóság a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+
+c) az ügyészség az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+
+d) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból.
+
+(2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból és alapiratokból.
+
+(3) Az (1) bekezdésben felsorolt szervek az ott meghatározott célokból közvetlen hozzáféréssel jogosultak átvenni az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét.
+
+81/B. § (1) Az elektronikus anyakönyvben és az apai elismerő nyilatkozatok nyilvántartásában kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott és e törvény szerint az elektronikus anyakönyv adattartalmát képező adatot jogosult megtekinteni és átvenni, és az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
+
+a) a külpolitikáért felelős miniszter a konzuli érdekvédelem ellátása és az anyakönyvi kivonatok miniszteri felülhitelesítése céljából,
+
+b) a hivatásos konzuli tisztviselő a konzuli érdekvédelem ellátása, anyakönyvi okirat kiállítása, az úti okmány kiadása iránti eljárásban és a névváltoztatási eljárásban a névviselés ellenőrzése, valamint a bemutatott anyakönyvi kivonat ellenőrzése céljából.
+
+(2) Ha az (1) bekezdésben meghatározott személyek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
+
+(3) Az (1) bekezdésben felsorolt személyek az ott meghatározott célokból közvetlen hozzáféréssel jogosultak átvenni az okirat-nyilvántartásban kezelt adatok teljes körét.
+
+81/C. § (1) Az elektronikus anyakönyvben kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott és e törvény szerint az elektronikus anyakönyv adattartalmát képező adatot jogosult megtekinteni és átvenni, és az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
+
+a) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban az érintett anyakönyvezett adatainak, névviselésének, valamint a családi kapcsolatok fennállásának megállapítása céljából,
+
+b) a személyiadat- és lakcímnyilvántartás szerve a személyiadat- és lakcímnyilvántartás vezetése céljából,
+
+c) a gyámhatóság a gyermek családból történő kiemelése, a családi jogállás rendezése, a származás megismeréséhez való jog biztosítása, az örökbefogadás, a kiskorú házasságkötésének előzetes engedélyezése, a szülői felügyelettel kapcsolatos ügyek, a gyám és gondnok kirendelése, valamint a bíróság vagy más hatóság előtti eljárás megindítása céljából,
+
+d) a közjegyző a bejegyzett élettársi kapcsolat megszüntetése iránti eljárás lefolytatása, az Élettársi Nyilatkozatok Nyilvántartásának vezetése, valamint a hagyatéki eljárás lefolytatása céljából,
+
+e) a jegyző a hagyatéki leltár elkészítése céljából.
+
+(2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
+
+81/D. § (1) Az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni az anyakönyvi kivonat adattartalmát képező adatokat a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
+
+a) a személyazonosság igazolására alkalmas hatósági igazolványt kiállító hatóság a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából,
+
+b) az útlevélhatóság az úti okmány kiadására irányuló eljárás lefolytatása céljából,
+
+c) a kincstár a hatáskörébe tartozó támogatási eljárás lefolytatása céljából,
+
+d) az egészségbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
+
+e) a nyugdíjbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
+
+f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából.
+
+(2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
+
+(3) Az okirat-nyilvántartásban kezelt adatok teljes körét jogosult közvetlen hozzáféréssel átvenni a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából a személyazonosság igazolására alkalmas hatósági igazolványt kiállító hatóság.”
 
 64. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 82. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -1246,7 +1396,9 @@ d) az anyakönyvi ügyekért felelős miniszter.”
 
 (3) A (2) bekezdésben meghatározott felhatalmazás jogosultjának a 72. § (3) bekezdésében meghatározott adatairól, valamint az azokban bekövetkezett változásról a közvetlen hozzáférésre jogosult szerv a felhatalmazás kiadását, valamint az adat változását követően haladéktalanul értesíti a központi nyilvántartó szervet.”
 
-66. §
+66. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „A közvetlen hozzáféréssel történő adatátvétel és a betekintés” alcíme a következő 83/A. §-sal egészül ki:
+
+„83/A. § Közvetlen hozzáféréssel – a 81. §-ban meghatározott kivételekkel – nem vehető át az adatátvétellel érintett személy anyakönyvi eseményével kapcsolatba hozható más személy személyi azonosítója.”
 
 67. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 84. §-a a következő szöveggel lép hatályba:
 
@@ -1272,7 +1424,9 @@ b) az adatigénylő pontos megnevezését és címét.
 
 (4) Az adatigénylésre történő adattovábbítási eljárást meg kell szüntetni, ha az adatigénylés a (2) bekezdés a) pontjában meghatározott feltételnek nem felel meg.”
 
-68. §
+68. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Az adatigénylés alapján történő adattovábbítás feltételei” alcíme a következő 84/A. §-sal egészül ki:
+
+„84/A. § Az adatigénylő számára nem továbbítható az adatigényléssel érintett személy anyakönyvi eseményével kapcsolatba hozható más személy személyi azonosítója.”
 
 69. §
 
@@ -1324,7 +1478,39 @@ b) az ügyszámot, anyakönyvi folyószámot vagy egyedi elektronikus anyakönyv
 
 b) az érintettnek az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatása céljából az anyakönyvvezető és a hazai anyakönyvezést végző hatóság,”
 
-76. §
+76. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény VIII. fejezete a következő alcímmel egészül ki:
+
+„Az anyakönyv kutathatósága
+
+93/A. § (1) Az anyakönyvbe bejegyzett adatok
+
+a) az érintett halálozási évét követő harminc év,
+
+b) ha a halálozás éve nem ismert, az érintett születésétől számított száz év, vagy – ha az későbbi – a bejegyzés keletkezésétől számított hetvenöt év,
+
+c) ha sem a születés, sem a halálozás időpontja nem ismert, a bejegyzés keletkezésétől számított hetvenöt év után
+
+válnak bárki számára kutathatóvá.
+
+(2) Az (1) bekezdésben meghatározott védelmi idő lejárta előtt is kutatható az anyakönyv, ha
+
+a) a kutatáshoz saját bejegyzése tekintetében az érintett, az érintett halálát követően leszármazója, leszármazó hiányában bármely, a Polgári Törvénykönyv szerinti hozzátartozója, hozzátartozó hiányában más örököse a kutató kérésére hozzájárult,
+
+b) a kutató a hozzájárulás megadására az a) pont szerint jogosult személy, vagy
+
+c) a kutatás – a kérelmező költségére – anonimizált másolattal is megvalósítható.
+
+(3) A (2) bekezdés a) pontjában meghatározott hozzájárulás megadásakor a hozzájáruló személy írásban nyilatkozik a kutató által megismerhető személyes adat – kutatás célja szerinti – felhasználásának elfogadásáról, valamint a személyes adatot tartalmazó iratok másolhatóságáról.
+
+(4) Az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti különleges adatok az anyakönyv kutatása során személyazonosításra alkalmas módon nem rögzíthetők és nem használhatók fel, kivéve, ha az érintett vagy az érintett halálát követően leszármazója ahhoz hozzájárult, vagy a kutatást ő végzi.
+
+(5) Ha a kutató a kutatást tudományos célból végzi, a kutatás a bejegyzés keletkezését követő harminc év elteltével az (1) bekezdésben meghatározott védelmi időn belül is lefolytatható, feltéve, hogy a kutatás a közlevéltárakról szóló törvényben meghatározott, a kutatási tervre és az arra jogosult intézmény támogató állásfoglalására, továbbá a személyes adatok kezelésére vonatkozó előírásoknak és a (4) bekezdésben foglaltaknak megfelel.
+
+93/B. § (1) A kutatási kérelmet az 1980. december 31-ig vezetett anyakönyvek esetén a levéltárnál kell benyújtani.
+
+(2) A kutatási kérelem elbírálásának határideje a kérelem benyújtásától számított harminc nap. A kutatási kérelem részleges vagy teljes megtagadását írásban indokolni kell.
+
+(3) A kutatási kérelem részleges vagy teljes megtagadása esetén a kérelmező bírósághoz fordulhat. A per megindítására és az eljárás lefolytatására az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a közérdekű adat megismerése iránti igény elutasítása esetén megindítható perre vonatkozó szabályai az irányadóak.”
 
 77. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 94. §-a a következő szöveggel lép hatályba:
 
@@ -1350,7 +1536,7 @@ e) az anyakönyvi nyilvántartások rendszeréből teljesítendő adattovábbít
 
 részletes szabályait rendeletben állapítsa meg.”
 
-79. §
+79. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény az 1. melléklet szerinti 1. melléklettel egészül ki.
 
 80. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény
 
@@ -1404,7 +1590,7 @@ szövegrész.
 
 #### 3. A nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet módosítása
 
-84. §
+84. § A nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 38. § (1a) bekezdésében az „A központi anyakönyvi szerv” szövegrész helyébe az „Az anyakönyvi ügyekért felelős miniszter” szöveg lép.
 
 #### 4. Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet módosítása
 
@@ -1412,27 +1598,67 @@ szövegrész.
 
 #### 5. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-86. §
+86. § Az illetékekről szóló 1990. évi XCIII. törvény 33. § (2) bekezdés
+
+- a) 5. pont c) pont ca) alpontjában az „a születési anyakönyvből” szövegrész helyébe az „az anyakönyvből” szöveg,
+- b) 5. pont c) pont cb) alpontjában az „a házassági anyakönyvből” szövegrész helyébe az „az anyakönyvből” szöveg,
+- c) 5. pont c) pont cc) alpontjában az „a halotti anyakönyvből” szövegrész helyébe az „az anyakönyvből” szöveg
+
+lép.
 
 #### 6. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-87–88. §
+87. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 16. §-a helyébe a következő rendelkezés lép:
+
+„16. § (1) Az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvben rögzített – a 11. § (1) bekezdésében meghatározott – adatokat átvezeti a nyilvántartáson.
+
+(2) A 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgár esetében a hazai anyakönyvezést végző hatóság az anyakönyvben rögzített – a 11. § (1) bekezdésében meghatározott, illetve a külföldi lakóhely – adatokat átvezeti a nyilvántartáson.”
+
+88. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 22. § g) pontja helyébe a következő rendelkezés lép:
+
+[E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:]
+
+„g) az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;”
 
 89. §
 
-90–91. §
+90. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 9. § (3) bekezdés c) pontjában az „anyakönyvi bejegyzések alapiratainak” szövegrész helyébe az „anyakönyvi alapiratok” szöveg lép.
+
+(2) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 13. § (5) bekezdésében az „a polgár születési helye szerinti anyakönyvvezetőt, külföldön történt születése esetén az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szervet” szövegrész helyébe az „az elektronikus anyakönyvi nyilvántartási rendszer adatkezelőjét” szöveg lép.
+
+(3) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 25. § (1) bekezdés b) és e) pontjában az „anyakönyvvezetőnek” szövegrész helyébe az „anyakönyvi esemény elektronikus anyakönyvbe rögzítésére jogosult személynek” szöveg lép.
+
+91. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. § g) pontja.
 
 #### 7. A statisztikáról szóló 1993. évi XLVI. törvény módosítása
 
-92. §
+92. § A statisztikáról szóló 1993. évi XLVI. törvény 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A népmozgalmi események felmérése a következő adatkörökre terjed ki: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, illetve halálozással mint népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, a bejegyzés egyedi elektronikus anyakönyvi azonosítója, a népmozgalmi esemény helye és ideje.”
 
 #### 8. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-93. §
+93. § A Rendőrségről szóló 1994. évi XXXIV. törvény
+
+- a) 64. § (8) bekezdésében az „anyakönyvi nyilvántartásban” szövegrész helyébe az „anyakönyvben” szöveg,
+- b) 84. § (2) bekezdés c) pontjában az „az anyakönyvi nyilvántartásból” szövegrész helyébe az „az anyakönyvi nyilvántartások rendszeréből” szöveg
+
+lép.
 
 #### 9. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról 1996. évi XX. törvény módosítása
 
-94–95. §
+94. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 36. §-a a következő m) ponttal egészül ki:
+
+(A személyi azonosító továbbítására jogosult:)
+
+„m) a központi nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;”
+
+95. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény
+
+- a) 32. § a) pontjában a „vezetéséhez” szövegrész helyébe a „vezetéséhez, a címnyilvántartás szerve a címnyilvántartás vezetéséhez” szöveg,
+- b) 32. § c) pontjában az „anyakönyvvezető, az Nytv.-ben meghatározott adatszolgáltatási kötelezettsége teljesítéséhez, valamint a személyi azonosító anyakönyvbe történő bejegyzéséhez” szövegrész helyébe az „elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából” szöveg
+
+lép.
 
 #### 10. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
@@ -1440,43 +1666,70 @@ szövegrész.
 
 #### 11. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosítása
 
-97. §
+97. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 40/C. § (2) bekezdés a) pontjában az „anyakönyvi nyilvántartásokba” szövegrész helyébe az „anyakönyvbe” szöveg lép.
 
 #### 12. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-98. §
+98. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés t) pontjában az „az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából” szövegrész helyébe az „a személyazonosság ellenőrzése és az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából” szöveg lép.
 
 #### 13. A konzuli védelemről szóló 2001. évi XLVI. törvény módosítása
 
-99. §
+99. § A konzuli védelemről szóló 2001. évi XLVI. törvény 15. § (5) bekezdés a) pontjában az „anyakönyvi hivatalok” szövegrész helyébe az „anyakönyvezést végző hatóság” szöveg lép.
 
 #### 14. A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény módosítása
 
-100. §
+100. § A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény 23. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Ha az érintett házastársa, illetve kiskorú gyermeke nem áll a Program hatálya alatt és a házastárs, illetve a gyermek az érintett nevét viseli, a névváltoztatás nem terjed ki a házastársra, illetve a gyermekre.
+
+(4) A (3) bekezdés rendelkezései alkalmazandóak abban az esetben is, ha a gyermek a Programban érintett szülő nevét viseli.
+
+(5) A (3) és (4) bekezdésben meghatározott esetben az érintett névváltoztatásának tényét az érintett személy házastársa és kiskorú gyermeke anyakönyvi bejegyzésében nem lehet feltüntetni.”
 
 #### 15. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosítása
 
-101. §
+101. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 13. § (2) bekezdése a következő n) ponttal egészül ki:
+
+(E törvény rendelkezéseit)
+
+„n) a névváltoztatási eljárásban, a házasságkötési szándék bejelentésére irányuló eljárásban, valamint a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésére irányuló eljárásban”
+
+(csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.)
 
 #### 16. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
 
-102. §
+102. § Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 36/A. § (6) bekezdésében az „anyakönyvi nyilvántartásba” szövegrész helyébe az „anyakönyvbe” szöveg lép.
 
 #### 17. A bejegyzett élettársi kapcsolatról, az ezzel összefüggő, valamint az élettársi viszony igazolásának megkönnyítéséhez szükséges egyes törvények módosításáról szóló 2009. évi XXIX. törvény módosítása
 
-103. §
+103. § A bejegyzett élettársi kapcsolatról, az ezzel összefüggő, valamint az élettársi viszony igazolásának megkönnyítéséhez szükséges egyes törvények módosításáról szóló 2009. évi XXIX. törvény
+
+- a) 1. § (3) bekezdésében az „a bejegyzett élettársi kapcsolatok anyakönyvébe” szövegrész helyébe az „az anyakönyvbe” szöveg,
+- b) 3. § (6) bekezdésében az „anyakönyvi nyilvántartás” szövegrész helyébe az „anyakönyvi nyilvántartások rendszere” szöveg
+
+lép.
 
 #### 18. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-104–105. §
+104. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 5. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján az anyakönyvi ügyekért felelős miniszter által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.”
+
+(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 5. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.”
+
+105. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 74. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokkal egyező módon határozza meg.”
 
 #### 19. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-106. §
+106. § A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 118. § (1) és (4) bekezdésében az „a születési, házassági és halotti anyakönyvet vezető anyakönyvvezetőtől” szövegrész helyébe az „az anyakönyvből” szöveg lép.
 
 #### 20. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-107. §
+107. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 71. § (2) bekezdés 3. pontjában az „anyakönyvi nyilvántartásból” szöveg helyébe az „anyakönyvi nyilvántartások rendszeréből” szöveg lép.
 
 #### 21. Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XLIX. törvény módosítása
 
@@ -1508,7 +1761,7 @@ szövegrész.
 
 #### 28. Hatályon kívül helyező rendelkezések
 
-117. §
+117. § Hatályát veszti az anyakönyvekről, a házasságkötési eljárásról és a névviselésről 1982. évi 17. törvényerejű rendelet.
 
 118. §
 
@@ -1529,3 +1782,323 @@ szövegrész.
 121. § A 93. § a) pontja az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2013. évi LXXVI. törvényhez
+
+„1. melléklet a 2010. évi I. törvényhez
+
+a) Jegyzőkönyv a születés bejelentéséről
+
+1. Anyakönyvi azonosító.
+
+2. Egyedi elektronikus anyakönyvi azonosító.
+
+3. A gyermek
+
+3.1. 69/B. § (1) bekezdés b) pont ba) alpontja,
+
+3.2. 69/B. § (1) bekezdés b) pont bb) alpontja,
+
+3.3. 69/B. § (1) bekezdés b) pont bc) alpontja,
+
+3.4. 69/B. § (1) bekezdés b) pont bd) alpontja,
+
+3.5. 69/B. § (1) bekezdés b) pont be) alpontja,
+
+3.6. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja,
+
+3.7. 69/C. § b) pontja
+
+szerinti adata.
+
+4. Az apa és az anya
+
+4.1. 69/B. § (1) bekezdés b) pont ba) alpontja,
+
+4.2. 69/B. § (1) bekezdés b) pont bi) alpontja,
+
+4.3. 69/B. § (1) bekezdés b) pont bb) alpontja,
+
+4.4. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában 69/B. § (1) bekezdés b) pont bc) alpontja
+
+szerinti adata,
+
+4.5. lakóhelye,
+
+4.6. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja szerinti adata,
+
+4.7. menekült státusa,
+
+4.8. nyilatkozata arról, hogy a 46. § (1) bekezdés d) pontja alapján kérik a gyermek születési családi és utónevének nemzetiségi nyelven is történő bejegyzését.
+
+5. Az anya 69/B. § (1) bekezdés b) pont bj) alpontja szerinti adata.
+
+6. A szülők
+
+6.1. 69/D. § (1) bekezdés a) pontja szerinti adata vagy
+
+6.2. élettársi kapcsolata nyilvántartásba vételének helye és ideje.
+
+7. Ha az anya özvegy, a férj
+
+7.1. 69/F. § (1) bekezdés a) pontja és
+
+7.2. 69/B. § (1) bekezdés a) pontja
+
+szerinti adata.
+
+8. Ha az anya elvált, a jogerős határozat 69/H. § szerinti adatai.
+
+9. Az egyes vagy ikerszülés ténye, ha ikerszülés, a gyermek hányadikként született.
+
+10. Megjegyzés a titkolt terhesség tényéről.
+
+11. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
+
+12. Az anya és az apa aláírása.
+
+13. A kiállítás kelte.
+
+b) Jegyzőkönyv a házasság bejelentéséről
+
+1. Anyakönyvi azonosító.
+
+2. A 69/D. § (1) bekezdés a) pontja szerinti adat.
+
+3. A házastársak
+
+3.1. 69/B. § (1) bekezdés b) pont ba) alpontja,
+
+3.2. 69/B. § (1) bekezdés b) pont bb) alpontja,
+
+3.3. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában 69/B. § (1) bekezdés b) pont bc) alpontja,
+
+3.4. 69/B. § (1) bekezdés b) pont bi) alpontja,
+
+3.5. 69/B. § (1) bekezdés b) pont bj) alpontja,
+
+3.6. 69/B. § (1) bekezdés b) pont bf) alpontja,
+
+3.7. 69/B. § (1) bekezdés b) pont bg) alpontja,
+
+3.8. 69/B. § (1) bekezdés a) pontja,
+
+3.9. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja
+
+szerinti adata,
+
+3.10. lakóhelye,
+
+3.11. menekült státusa,
+
+3.12. előző állampolgársága,
+
+3.13. előző lakóhelye.
+
+4. A bemutatott okiratok tekintetében
+
+4.1. a személyazonosság igazolására szolgáló okmány típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+
+4.2. a születési anyakönyvi kivonat okmányazonosítója, a kiállító hatóság megnevezése, az egyedi elektronikus anyakönyvi azonosító vagy a folyószám,
+
+4.3. a személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
+
+4.4. a családi állapot igazolására bemutatott okirat és a kiállító hatóság megnevezése,
+
+4.5. a házassági engedély, felmentés, a kiállító hatóság megnevezése, az engedély, felmentés érvényességi ideje,
+
+4.6. az állampolgárságot igazoló okirat típusa, száma, a kiállító hatóság megnevezése, az okirat érvényességi ideje.
+
+5. Megjegyzés
+
+5.1. a termen kívüli házasságkötés tényéről,
+
+5.2. az egyik fél közeli halállal fenyegető állapotáról.
+
+6. A házassági akadályok elhallgatásának következményeire való figyelmeztetés után a menyasszony és a vőlegény nyilatkozata arról, hogy egymással házasságot kívánnak kötni, és legjobb tudomásuk szerint házasságkötésüknek törvényi akadálya nincs.
+
+7. A menyasszony és a vőlegény nyilatkozata a születendő közös gyermekeik családi nevéről.
+
+8. A házasság hivatali helyiségen kívüli vagy hivatali munkaidőn kívüli megkötése iránti kérelem és a nyilatkozatok.
+
+9. A harmincnapos várakozási idő alóli felmentés iránti kérelem és indokolása.
+
+10. A tanúsítvány alóli felmentés iránti kérelem és indokolása.
+
+11. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
+
+12. A menyasszony aláírása.
+
+13. A vőlegény aláírása.
+
+14. A tolmács aláírása.
+
+15. A házasságkötésnél közreműködő anyakönyvvezető családi és utóneve.
+
+16. A tanúk és a tolmács
+
+16.1. családi és utóneve,
+
+16.2. lakcíme,
+
+16.3. bemutatott személyazonosságot igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+
+16.4. aláírása.
+
+17. Megjegyzés a nemzetiségi nyelven történő házasságkötésről.
+
+18. A kiállítás kelte.
+
+c) Jegyzőkönyv bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről
+
+1. Anyakönyvi azonosító.
+
+2. A 69/E. § (1) bekezdés a) pontja szerinti adat.
+
+3. A bejegyzett élettársak
+
+3.1. 69/B. § (1) bekezdés b) pont ba) alpontja,
+
+3.2. 69/B. § (1) bekezdés b) pont bb) alpontja,
+
+3.3. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában bc) alpontja,
+
+3.4. 69/B. § (1) bekezdés b) pont be) alpontja,
+
+3.5. 69/B. § (1) bekezdés b) pont bj) alpontja,
+
+3.6. 69/B. § (1) bekezdés b) pont bf) alpontja,
+
+3.7. 69/B. § (1) bekezdés b) pont bg) alpontja,
+
+3.8. 69/B. § (1) bekezdés a) pontja,
+
+3.9. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja
+
+szerinti adata,
+
+3.10. lakóhelye,
+
+3.11. menekült státusa,
+
+3.12. előző állampolgársága,
+
+3.13. előző lakóhelye.
+
+4. A bemutatott okiratok tekintetében
+
+4.1. a személyazonosság igazolására szolgáló okmány típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+
+4.2. a születési anyakönyvi kivonat okmányazonosítója, a kiállító hatóság megnevezése, az egyedi elektronikus anyakönyvi azonosító vagy a folyószám,
+
+4.3. a személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
+
+4.4. a családi állapot igazolására bemutatott okirat és a kiállító hatóság megnevezése,
+
+4.5. a bejegyzett élettársi kapcsolat létesítésére vonatkozó engedély, felmentés, a kiállító hatóság megnevezése, az engedély, felmentés érvényességi ideje,
+
+4.6. az állampolgárságot igazoló okirat típusa, száma, a kiállító hatóság megnevezése, az okirat érvényességi ideje.
+
+5. Megjegyzés
+
+5.1. a bejegyzett élettársi kapcsolat hivatalos helyiségen kívüli létesítésének tényéről,
+
+5.2. az egyik fél közeli halállal fenyegető állapotáról.
+
+6. A bejegyzett élettársi kapcsolat létrejötte akadályai elhallgatásának következményeire való figyelmeztetés után a felek nyilatkozata arról, hogy egymással bejegyzett élettársi kapcsolatot kívánnak létesíteni, és legjobb tudomásuk szerint ennek törvényi akadálya nincs.
+
+7. A bejegyzett élettársi kapcsolat hivatalos helyiségen vagy hivatali munkaidőn kívüli létesítése iránti kérelem és a nyilatkozatok.
+
+8. A tanúsítvány alóli felmentés iránti kérelem és indokolása.
+
+9. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
+
+10. A felek aláírása.
+
+11. A tolmács aláírása.
+
+12. A bejegyzett élettársi kapcsolat létesítésénél közreműködő anyakönyvvezető családi és utóneve.
+
+13. A tanúk és a tolmács
+
+13.1. születési családi és utóneve,
+
+13.2. lakcíme,
+
+13.3. bemutatott személyazonosságot igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+
+13.4. aláírása.
+
+14. Megjegyzés a nemzetiségi nyelven történő bejegyzett élettársi kapcsolat létesítéséről.
+
+15. A kiállítás kelte.
+
+d) Jegyzőkönyv a haláleset bejelentéséről
+
+1. Anyakönyvi azonosító.
+
+2. Egyedi elektronikus anyakönyvi azonosító.
+
+3. A 69/F. § (1) bekezdés a) pontja szerinti adat.
+
+4. Az elhalt hozzátartozójának nyilatkozata az elhalt eltemetésének, az urna elhelyezésének helyéről.
+
+5. Az elhalt
+
+5.1. 69/B. § (1) bekezdés b) pont ba) alpontja,
+
+5.2. 69/B. § (1) bekezdés b) pont bi) alpontja,
+
+5.3. 69/B. § (1) bekezdés b) pont bb) alpontja,
+
+5.4. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában 69/B. § (1) bekezdés b) pont bc) alpontja,
+
+5.5. 69/B. § (1) bekezdés b) pont bf) alpontja,
+
+5.6. 69/B. § (1) bekezdés b) pont bg) alpontja,
+
+5.7. 69/B. § (1) bekezdés b) pont be) alpontja,
+
+5.8. 69/B. § (1) bekezdés b) pont bj) alpontja,
+
+5.9. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja
+
+szerinti adata,
+
+5.10. lakóhelye,
+
+5.11. menekült státusa.
+
+6. Az életben levő házastárs vagy bejegyzett élettárs
+
+6.1. 69/B. § (1) bekezdés b) pont ba) alpontja,
+
+6.2. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában 69/B. § (1) bekezdés b) pont bc) alpontja,
+
+6.3. 69/B. § (1) bekezdés b) pont bi) alpontja
+
+szerinti adata.
+
+7. Ha az elhalt családi állapota házas vagy bejegyzett élettárs volt, házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének a 69/D. § (1) bekezdés a) pontja vagy a 69/E. § (1) bekezdés a) pontja szerinti adata.
+
+8. Az elhalt állampolgárságát igazoló okiratának típusa, száma, a kiállító hatóság megnevezése, az okirat érvényességi ideje.
+
+9. Az elhalt személyazonosságát igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje.
+
+10. Az elhalt személyi azonosítóját és lakcímét igazoló hatósági igazolvány száma.
+
+11. A bejelentő
+
+11.1. születési családi és utóneve,
+
+11.2. minősége, amelyben a bejelentést tette,
+
+11.3. lakcíme,
+
+11.4. személyazonosságát igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+
+11.5. nyilatkozata arról, hogy a jegyzőkönyvbe bejegyzett adatok a valóságnak megfelelnek.
+
+12. A jegyzőkönyvet felvevő személy neve és aláírása.
+
+13. Ha a jegyzőkönyvet nem az anyakönyvvezető vette fel, az anyakönyvvezető neve és aláírása.
+
+14. A kiállítás kelte.”

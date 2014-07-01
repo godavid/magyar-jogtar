@@ -1828,7 +1828,8 @@ köteles foglalkoztatni.
 - k) a személyes adatok kezelésére vonatkozó elvi és gyakorlati tudnivalókat, amennyiben a szerződő vagy a biztosított természetes személy, illetve – részben vagy egészben – természetes személyek csoportja,
 - l) a biztosító, illetve fióktelep címét,
 - m) a biztosítottnak járó többlethozam jóváírásának rendjét,
-- n) befektetési egységhez kötött életbiztosítás esetén a 132/A. §-ban foglaltakkal összhangban meghatározott, az eszközalap felfüggesztéssel és szétválasztással kapcsolatos részletes szabályokat.
+- n) befektetési egységhez kötött életbiztosítás esetén a 132/A. §-ban foglaltakkal összhangban meghatározott, az eszközalap felfüggesztéssel és szétválasztással kapcsolatos részletes szabályokat,
+- o) az élet-, továbbá a baleset- és betegségbiztosítások (egészségbiztosítások) esetében a technikai kamatláb biztosítási szerződés tartama alatti megváltoztathatósága lehetőségét azzal a feltétellel, hogy a változtatásra csak akkor kerülhet sor, ha a technikai kamatlábak legnagyobb mértékéről szóló jogszabályban rögzített technikai kamatláb legnagyobb mértéke módosul.
 
 (2) Az életbiztosítási szerződést önálló foglalkozása vagy üzleti tevékenysége körén kívül megkötő természetes személy szerződő a 167. §-ban meghatározott tájékoztatás kézhezvételétől számított 30 napon belül az életbiztosítási szerződést írásbeli nyilatkozattal – indoklás nélkül – felmondhatja.
 
@@ -2688,7 +2689,7 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 - d) a hagyatéki ügyben eljáró közjegyzővel, továbbá az általa kirendelt szakértővel,
 - e) a (2) bekezdésben foglalt esetekben az adóhatósággal,
 - f) a feladatkörében eljáró nemzetbiztonsági szolgálattal,
-- g) a biztosítóval, a biztosításközvetítővel, a szaktanácsadóval, a harmadik országbeli biztosító, független biztosításközvetítő vagy szaktanácsadó magyarországi képviseletével, ezek érdek-képviseleti szervezeteivel, illetve a biztosítási, biztosításközvetítői, szaktanácsadói tevékenységgel kapcsolatos versenyfelügyeleti feladatkörében eljáró Gazdasági Versenyhivatallal,
+- g) a feladatkörében eljáró Gazdasági Versenyhivatallal,
 - h) a feladatkörében eljáró gyámhatósággal,
 - i) az egészségügyről szóló 1997. évi CLIV. törvény 108. § (2) bekezdésében foglalt egészségügyi hatósággal,
 - j) a külön törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,

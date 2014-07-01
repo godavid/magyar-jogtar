@@ -307,9 +307,9 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 32. § A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult
 
-- a) a személyiadat- és lakcímnyilvántartás szerve, a személyiadat- és lakcímnyilvántartás vezetéséhez;
+- a) a személyiadat- és lakcímnyilvántartás szerve, a személyiadat- és lakcímnyilvántartás vezetéséhez, a címnyilvántartás szerve a címnyilvántartás vezetéséhez;
 - b) az Nytv. alapján a személyiadat- és lakcímnyilvántartás vezetéséhez adatszolgáltatásra kötelezett szerv vagy polgár, adatszolgáltatási feladatai teljesítéséhez;
-- c) az anyakönyvvezető, az Nytv.-ben meghatározott adatszolgáltatási kötelezettsége teljesítéséhez, valamint a személyi azonosító anyakönyvbe történő bejegyzéséhez;
+- c) elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;
 - d) a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi azonosító kezelésére az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult;
 - e) az ingatlan-nyilvántartás és földhasználati nyilvántartás szerve, belső azonosítóként, a külön törvényben meghatározottak szerint, az ingatlantulajdonosok és a földhasználók, illetve az ingatlannal kapcsolatos bármely joggal és kötelezettséggel összefüggésben, a nyilvántartásba bejegyzett polgár azonosításához;
 - f) a katonai igazgatás szervei és a Magyar Honvédség központi irattározásra kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes katonai szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett tartalékos állomány katonai szolgálata tervezése érdekében, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;
@@ -354,7 +354,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - j) a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a nyomozó hatóság részére;
 - k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 - l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
-- m)
+- m) a központi nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 - n)
 - o) a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
 - p) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;

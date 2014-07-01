@@ -136,7 +136,11 @@ egyes törvényeknek a távolléti díj számításával és a közpénzek szab�
 
 #### 21. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
 
-27. §
+27. § A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény XVII. fejezete a következő új alcímmel és 116/C. §-sal egészül ki:
+
+„Egyéb bírság
+
+116/C. § Az a gazdálkodó, amely a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 12. § (3a) bekezdésében meghatározott kötelezettségét megszegi, 1 millió forintig terjedő bírsággal sújtható.”
 
 #### 22. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
@@ -144,7 +148,11 @@ egyes törvényeknek a távolléti díj számításával és a közpénzek szab�
 
 #### 23. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-30. §
+30. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 13. § (2) bekezdése a következő k) ponttal egészül ki:
+
+(A NAV)
+
+„k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 46. § (1) bekezdésben meghatározott, a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétével kapcsolatos feladat végrehajtásában.”
 
 #### 24. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 
@@ -172,7 +180,22 @@ egyes törvényeknek a távolléti díj számításával és a közpénzek szab�
 
 #### 28. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 
-36. §
+36. § (1) A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény (a továbbiakban: Kt.) 12. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Ellenőrző jelölő anyag nélkül a (3) bekezdés szerinti termék szabad forgalomba nem bocsátható.”
+
+(2) A Kt. a következő 49/A. §-sal egészül ki:
+
+„49/A. § Felhatalmazást kap a miniszter, hogy a kőolajtermékek ellenőrzéséhez és jelöléséhez szükséges rendszer működésének részletszabályait, valamint az ellenőrző jelölő anyag jellemzőit rendeletben állapítsa meg.”
+
+(3) A Kt.
+
+- a) 12. § (3) bekezdésében a „termékeket – termékcsoportonként különböző –” szövegrész helyébe a „termékeket termékcsoportonként különböző, miniszteri rendelet szerinti” szöveg,
+- b) 24. § (3) bekezdésében a „Magyar Energia Hivatal (a továbbiakban: MEH)” szövegrész helyébe a „Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH)” szöveg,
+- c) 25. §-ában, 31. § f) pontjában, 34. § (2) bekezdésében, 44. § (1) bekezdésében a „MEH” szövegrész helyébe a „MEKH” szöveg,
+- d) 11. alcímének címében a „MEH-hel” szövegrész helyébe a „MEKH-hel” szöveg
+
+lép.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
