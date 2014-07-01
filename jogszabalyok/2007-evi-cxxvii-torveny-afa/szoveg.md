@@ -583,11 +583,13 @@ a termék importjának teljesítési helye a Közösség azon tagállama, ahol a
 
 (2) Bírósági vagy más hatósági eljárás keretében bíróságnak vagy más hatóságnak nyújtott szolgáltatás esetében, ha az ennek fejében járó ellenértéket a bíróság vagy más hatóság határozattal (végzéssel) állapítja meg, teljesítés az ellenértéket megállapító jogerős határozatnak (végzésnek) a szolgáltatás nyújtójával történő közlése.
 
-58. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha a felek részletfizetésben vagy határozott időre szóló elszámolásban állapodtak meg, teljesítés az ellenérték megtérítésének esedékessége, amelyre az adott részlet vagy elszámolás vonatkozik.
+58. § (1) Ha a felek az általuk kötött szerződés alapján a teljesített termékértékesítésről, a nyújtott szolgáltatásról időszakonként számolnak el, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, a teljesítés időpontja az érintett időszak utolsó napja.
+
+(1a) Az (1) bekezdésben foglaltaktól eltérően, ha a felek a Ptk. szerinti közszolgáltatási szerződés alapján teljesített termékértékesítésről, nyújtott szolgáltatásról, telekommunikációs szolgáltatásról határozott időre történő elszámolásban állapodnak meg, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, a teljesítés időpontja az ellenérték megtérítésének esedékessége. A teljesítés időpontja az ellenérték megtérítésének esedékessége azon termékértékesítés, szolgáltatásnyújtás vonatkozásában is, amelyet a telekommunikációs szolgáltatás nyújtója a telekommunikációs szolgáltatás nyújtására szolgáló hálózat felhasználásával teljesít a telekommunikációs szolgáltatás igénybevevője részére, feltéve, hogy e termékértékesítés, szolgáltatásnyújtás felek közötti elszámolására a telekommunikációs szolgáltatás elszámolási időszakának részeként kerül sor.
 
 (2) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja az egy naptári hónapot, az (1) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik a naptári hónap utolsó napján is, feltéve, hogy a termékértékesítésre a 89. § alkalmazandó.
 
-(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik
+(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) és (1a) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik
 
 - a) a naptári év utolsó napján is, feltéve, hogy az adót a 140. § a) pontja szerint a szolgáltatás igénybevevője fizeti, vagy
 - b) egyéb, a (2) bekezdés és az a) pont alá nem tartozó esetekben pedig a tizenkettedik hónap utolsó napján is.
@@ -1999,11 +2001,11 @@ számlakibocsátási kötelezettséget jelent.
 
 (2) Abban az esetben, ha a nyugta egyúttal az abban megjelölt szolgáltatás igénybevételére is jogosít, akkor az (1) bekezdés a) pontjában foglalt adattartalom helyett elegendő azon feltüntetni azt az időpontot vagy időszakot, amikor a nyugtában megjelölt szolgáltatás igénybe vehető.
 
+173/A. § A nyugta kibocsátásának időpontjától a nyugta megőrzésére vonatkozó időszak végéig biztosítani kell a nyugta eredetének hitelességét, adattartalma sértetlenségét és olvashatóságát.
+
 ### Megjelenési forma
 
-174. § (1) A számla lehet elektronikus vagy papíralapú számla.
-
-(2) Nyugta kizárólag papíron bocsátható ki.
+174. § A számla és a nyugta lehet elektronikus vagy papíralapú.
 
 ### Elektronikus számlára vonatkozó szabályok
 
@@ -3268,6 +3270,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 283. § (1) E törvénynek a Mód3 törvénnyel megállapított 9. számú melléklet 11/A. pontját azokban az esetekben kell alkalmazni először, amelyekben az adófizetési kötelezettség 2013. július 1. napján vagy azt követően keletkezik.
 
 (2) A Horvát Köztársaságban gazdasági céllal letelepedett adóalanyokat az Áfa tv. XVIII. Fejezetében szabályozott adó-visszatéríttetési jog az ott meghatározott feltételek fennállása mellett a Horvát Köztársaságnak az Európai Unióhoz történő csatlakozása napján vagy azt követően belföldön teljesített ügyletek tekintetében illeti meg. A Horvát Köztársaságban letelepedett adóalanyok esetében a 2013. évi adóvisszatérítési időszakra vonatkozóan benyújtott adó-visszatéríttetési kérelmekre a 251/B. § (2) bekezdés b) pontjában foglalt összeget időarányosan kell figyelembe venni.
+
+284. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 58. § (1) bekezdését az olyan 2014. június 30-át követően kezdődő elszámolási időszak esetén kell először alkalmazni, amely tekintetében a fizetés esedékessége 2014. június 30-át követő időpont.
 
 285. § (1) E törvénynek a felnőttképzésről szóló 2013. évi LXXVII. törvénnyel módosított 85. § (2) bekezdés b) pontját azokban az esetekben kell először alkalmazni, amelyekben a felnőttképzést folytató intézmények által indított képzések indításának időpontja 2013. szeptember 1. napjára esik vagy azt követi.
 

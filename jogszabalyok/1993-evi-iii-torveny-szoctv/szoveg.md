@@ -337,7 +337,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában vagy a 43/B. § alapján méltányossági ápolási díjban, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a jegyző, illetve a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 
-(3) A jegyző az aktív korúak ellátására jogosultak tekintetében a 18. § a)–c), f), valamint h) pontjaiban meghatározott adatokról az állami foglalkoztatási szervet – annak törvényben meghatározott nyilvántartási és adatszolgáltatási feladatai teljesítésének elősegítésére – folyamatos elektronikus adatkapcsolat keretében tájékoztatja.
+(3) A 18/B. § szerinti országos nyilvántartást vezető hatóság az aktív korúak ellátására jogosultak tekintetében az aktív korúak ellátására jogosult személynek a 18. § a), b), d) és e) pontjában meghatározott adatairól az állami foglalkoztatási szervet – annak az Flt. 57/B. §-ában meghatározott nyilvántartási és adatszolgáltatási feladatai teljesítésének elősegítésére – folyamatos elektronikus adatkapcsolat keretében tájékoztatja.
 
 (4) A jegyző a 18. § l) pont la) alpontja szerinti szolgáltató részére – a természetbeni szociális ellátás formájában nyújtott lakásfenntartási támogatás érvényesítésével kapcsolatos feladata teljesítése céljából – a lakásfenntartási támogatásra jogosult személynek a 18. § a) pont aa) és ab) alpontjában, d) és e) pontjában, valamint a 18. § l) pont la) alpontjában foglalt adatait a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott módon átadja.
 
@@ -2041,6 +2041,8 @@ rendeletet alkot.
 - b) kormányrendeletben foglaltak szerint a szolgáltatói nyilvántartás adatait módosíthatja,
 - c) kormányrendeletben foglaltak szerint a szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a szolgáltatói nyilvántartásból törölheti, és kötelezheti a fenntartót a szociális szolgáltatások nyújtásának megszüntetésére, illetve
 - d) alkalmazhatja a kormányrendeletben meghatározott egyéb jogkövetkezményeket.
+
+(4d) A szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a fenntartó a kérelmeket, a kérelemhez csatolandó iratokat és nyilatkozatokat, valamint a működést engedélyező szervnek benyújtandó más iratokat elektronikus úton nyújtja be, a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét elektronikus úton teljesíti, a működést engedélyező szerv a döntéseit és az ellenőrzés megindításáról szóló értesítéseit elektronikus úton közli. A fenntartó meghatalmazotti képviselőjének adott meghatalmazás papíralapon is benyújtható.
 
 (5) Az intézményben ellátottak száma egyetlen napon sem haladhatja meg
 

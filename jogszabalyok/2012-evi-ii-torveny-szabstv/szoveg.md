@@ -272,7 +272,12 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 - b) a pénzbírság legmagasabb összege ötvenezer forint, szabálysértési elzárással is büntethető szabálysértések esetén százezer forint,
 - c) a helyszíni bírság legmagasabb összege huszonötezer forint.
 
-A b) és c) pont esetén a pénzbírság és a helyszíni bírság legmagasabb összege nem haladhatja meg a kormányrendeletben meghatározott kötelező mértéket.
+(2a) Kormányrendeletben meghatározott kötelező mértékű pénzbírsággal vagy helyszíni bírsággal sújtandó szabálysértés elkövetése esetén, ha
+
+- a) a kormányrendeletben meghatározott kötelező mérték nem haladja meg a (2) bekezdés b), illetve c) pontjában meghatározott legmagasabb összeget, akkor a kormányrendeletben meghatározott mértékű;
+- b) a kormányrendeletben meghatározott kötelező mérték meghaladja a (2) bekezdés b), illetve c) pontjában meghatározott legmagasabb összeget, akkor a (2) bekezdés b), illetve c) pontjában meghatározott összeghatáron belüli
+
+pénzbírságot vagy helyszíni bírságot kell kiszabni.
 
 (3) Fiatalkorúval szemben pénzbírságot vagy helyszíni bírságot csak akkor lehet kiszabni, ha a fiatalkorú annak megfizetését vállalja. Helyszíni bírság törvényes képviselő jelenléte nélkül nem szabható ki.
 
@@ -1308,7 +1313,7 @@ téríti meg.
 
 (3) Az (1) bekezdés szerinti eljárás lefolytatására – az Alkotmánybíróság határozata alapján indított eljárás kivételével – a helyszíni bírságot kiszabó szerv vagy személy csak egy ízben, a döntés közlésétől számított hat hónapon belül jogosult, ha döntése
 
-- a) a 2. § (4), (5), (7) és (8) bekezdésébe, 39. § (2) bekezdésébe, 83. § (1) bekezdés a), c) és e) pontjába, valamint a 99. § (2) és (7)–(9) bekezdésébe ütközik,
+- a) a 2. § (4), (5), (7) és (8) bekezdésébe, a 27. § (2) bekezdés c) pontjába vagy második fordulatába, a 27. § (3) bekezdésébe, a 39. § (2) bekezdésébe, a 83. § (1) bekezdés a), c) és e) pontjába, valamint a 99. § (2) és (7)–(9) bekezdésébe ütközik,
 - b) kormányrendeletben meghatározott, a helyszíni bírság kötelező mértékére vonatkozó rendelkezésbe ütközik, feltéve, hogy a kiszabott bírság a kormányrendeletben meghatározottnál magasabb összegben került megállapításra.
 
 (4) A helyszíni bírság módosítására a (3) bekezdés b) pontjában és a 99. § (7)–(9) bekezdésében foglalt esetben és kizárólag a meghatározott összegnek megfelelő bírságösszeg megállapítására van lehetőség.
