@@ -12,25 +12,17 @@ a kormányablakok kialakításával, valamint a fővárosi és megyei kormányhi
 
 #### 3. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-3. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 4. § (2a) bekezdése a következő g) ponttal egészül ki:
-
-(A külföldön élő magyar állampolgár adatai a nyilvántartásban akkor szerepelnek, ha)
-
-„g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi.”
+3. § (1)
 
 (2)
 
 (3)
 
-(4) Az Nytv. 16. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A 4. § (2a) bekezdés g) pontja szerinti, külföldön élő magyar állampolgár esetében az anyakönyvvezető az anyakönyvben rögzített – a 11. § (1) bekezdésében meghatározott, illetve a külföldi lakóhelyre vonatkozó – adatokat átvezeti a nyilvántartáson.”
+(4)
 
 (5)–(9)
 
-(10) Az Nytv. „Személyazonosság igazolására alkalmas hatósági igazolványok” alcíme a következő 29/B. §-sal egészül ki:
-
-„29/B. § Ha törvény valamely, a személyiadat- és lakcímnyilvántartásban nyilvántartott személyes adat megváltozása esetén előírja, a központi szerv a törvényben megjelölt nyilvántartást vezető szervet az adatváltozással érintett személy természetes személyazonosító adatainak továbbításával értesíti az adatváltozásról. A törvényben megjelölt nyilvántartást vezető szerv haladéktalanul egyedileg összehasonlítja az érintett természetes személyazonosító adatait a nyilvántartásában kezelt adatokkal. Az összehasonlítást követően a törvényben megjelölt nyilvántartást vezető szerv az értesítésben megküldött adatokat haladéktalanul törli, ha az érintett természetes személyazonosító adatait nyilvántartásában nem kezeli.”
+(10)
 
 (11)
 
@@ -44,7 +36,7 @@ a kormányablakok kialakításával, valamint a fővárosi és megyei kormányhi
 
 4. § (1)
 
-(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 19. § (2) bekezdésében az „az anyakönyvi hatóságot” szövegrész helyébe az „a magyar állampolgárság megszűnésével érintett személy születését és házasságát vagy bejegyzett élettársi kapcsolatát, valamint gyermekének születését nyilvántartó anyakönyvvezetőt, illetve a hazai anyakönyvezést végző hatóságot” szöveg lép.
+(2)
 
 (3)
 
@@ -56,33 +48,7 @@ a kormányablakok kialakításával, valamint a fővárosi és megyei kormányhi
 
 6. § (1)–(2)
 
-(3) A Gyvt. a következő 128/A. §-sal egészül ki:
-
-„128/A. § (1) Az örökbefogadás engedélyezése iránti eljárásban a gyámhatóság tájékoztatja az örökbefogadó szülőt, hogy az örökbefogadás következtében a gyermek vér szerinti szülőjeként anyakönyvezik. Ennek ismeretében a titkos örökbefogadás kivételével az örökbefogadás engedélyezése iránti eljárás során
-
-a) az örökbefogadó szülők,
-
-b) 14. életévét betöltött gyermek örökbefogadása esetén az örökbefogadó szülők és a gyermek együttesen
-
-nyilatkozatban kérhetik a vér szerinti szülők születési családi és utónevének az anyakönyvben való feltüntetését.
-
-(2) Az (1) bekezdésben meghatározott nyilatkozatot az annak előterjesztésére jogosult személyek az örökbefogadást engedélyező elsőfokú határozat meghozataláig a gyámhatóság előtt visszavonhatják.
-
-(3) A titkos örökbefogadás kivételével az örökbefogadott gyermek a nagykorúságának elérését követően a gyámhatóság előtt nyilatkozhat arról, hogy kéri a vér szerinti szülők születési családi és utónevének az anyakönyvben való feltüntetését.
-
-(4) A gyámhatóság a (3) bekezdésben meghatározott feltételeknek megfelelő nyilatkozat alapján hozott döntéséről értesíti az örökbefogadott gyermek születését nyilvántartó anyakönyvvezetőt.
-
-(5) Az (1) vagy a (3) bekezdés szerinti nyilatkozat megtétele vagy korábban anyakönyvezett tény szerinti örökbefogadás esetén az örökbefogadás anyakönyvezését követően
-
-a) a gyermek 14. életévének betöltése előtt az örökbefogadó szülők,
-
-b) 14. életévét betöltött gyermek esetén az örökbefogadó szülők és a gyermek együttesen,
-
-c) nagykorúságának elérését követően az örökbefogadott gyermek
-
-nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szülők születési családi és utónevét ne tartalmazza.
-
-(6) Az (5) bekezdés szerinti nyilatkozatot a gyámhatóságnál kell megtenni. Ha a nyilatkozat az (5) bekezdés szerinti feltételeknek megfelel, arról a gyámhatóság értesíti az örökbefogadott gyermek születését nyilvántartó anyakönyvezetőt.”
+(3)
 
 #### 7. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
@@ -90,9 +56,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 
 #### 8. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-8. § A külföldre utazásról szóló 1998. évi XII. törvény 27. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az anyakönyvvezető a személyazonosság és állampolgárság ellenőrzése, valamint az elhunyt személy személyazonosság igazolására alkalmas hatósági igazolványának bevonása céljából a 24. § (1) bekezdés a), e) és f) pontjában foglalt adatokat lekérdezheti.”
+8. §
 
 #### 9. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
@@ -112,131 +76,13 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 
 #### 13. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-13. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Alapvető rendelkezések” alcíme a következő 2/B. §-sal egészül ki:
-
-„2/B. § Az e törvény hatálya alá tartozó eljárásokban a bejegyzett élettársi kapcsolatról, az ezzel összefüggő, valamint az élettársi viszony igazolásának megkönnyítéséhez szükséges egyes törvények módosításáról szóló 2009. évi XXIX. törvény 3. § (1) bekezdésében foglalt rendelkezések nem alkalmazhatók.”
-
-14. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 12. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az elektronikus anyakönyvbe még be nem jegyzett anyakönyvi bejegyzésről elektronikus úton igényelt anyakönyvi okirat kiállítására a nyilvántartó anyakönyvvezető vagy hazai anyakönyvezést végző hatóság illetékes. Az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi okirat kiállítására az anyakönyvi okirat iránti kérelemben megjelölt kézbesítési cím szerinti anyakönyvvezető illetékes. Ha a kérelmező az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi kivonatot személyesen kívánja átvenni, az anyakönyvi okirat kiállítására az anyakönyvi okirat kiállítása iránti kérelemben az átvétel helyeként megjelölt települési önkormányzat anyakönyvvezetője illetékes.”
+13–14. §
 
 15. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 48. § (2) bekezdése a következő szöveggel lép hatályba:
 
 „(2) A házassági névviselési forma módosítása iránti kérelmet bármely anyakönyvvezetőnél vagy bármely hivatásos konzuli tisztviselőnél személyesen lehet előterjeszteni. A hivatásos konzuli tisztviselő az első diplomáciai futárral köteles megküldeni a kérelmet a házasságkötést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak. Ha a házassági névviselési forma módosítása iránti kérelem elbírálása a hazai anyakönyvezést végző hatóság hatáskörébe tartozik, az anyakönyvvezető a kérelmet haladéktalanul megküldi a hazai anyakönyvezést végző hatóságnak.”
 
-16. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 51. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A névváltoztatási okiratmásolatot az anyakönyvi ügyekért felelős miniszter állítja ki.”
-
-17. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 57. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha a (2) bekezdés szerinti bejegyzés házassági, bejegyzett élettársi vagy halotti anyakönyvi bejegyzést érint, a (2) bekezdés szerinti bejegyzést teljesítő anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesíti a házastársak, bejegyzett élettársak, valamint az elhalt és a túlélő házastársa vagy bejegyzett élettársa születését nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot a születési bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzése érdekében. A megkeresett anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a papír alapú anyakönyvi bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzéséről az értesítéstől számított százhúsz napon belül gondoskodik, és erről értesíti a megkeresőt.”
-
-18. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 58. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A házasság vagy a bejegyzett élettársi kapcsolat létesítésének hazai anyakönyvezése esetén a felek születési anyakönyvi bejegyzésének adatait, ha azok az elektronikus anyakönyvben még nem szerepelnek, az elektronikus anyakönyvbe be kell jegyezni. A hazai anyakönyvezést végző hatóság a bejegyzés érdekében megkeresi a felek születését nyilvántartó anyakönyvvezetőt, aki a megkeresés kézhezvételétől számított százhúsz napon belül gondoskodik a születési anyakönyvi bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzéséről, és erről értesíti a megkeresőt. Ha a felek születését a hazai anyakönyvezést végző hatóság anyakönyvezte, a házasság vagy a bejegyzett élettársi kapcsolat hazai anyakönyvezésére irányuló eljárás megindulásától számított százhúsz napon belül jegyzi be a születési anyakönyvi bejegyzés adatait az elektronikus anyakönyvbe.”
-
-19. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény a következő 58/A. §-sal egészül ki:
-
-„58/A. § (1) A haláleset bejegyzése esetén a halálesetet bejegyző anyakönyvvezető vagy hazai anyakönyvezést végző hatóság az elhalt születési anyakönyvi bejegyzésben szereplő adatainak az elektronikus anyakönyvbe történő bejegyzése érdekében megkeresi a születést nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot. A születést nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a papír alapú anyakönyv születési anyakönyvi bejegyzése adatainak az elektronikus anyakönyvbe történő bejegyzéséről az értesítéstől számított százhúsz napon belül gondoskodik, és erről értesíti a megkeresőt.
-
-(2) Ha az elhaltnak halálakor házassága vagy bejegyzett élettársi kapcsolata állt fenn, a halálesetet bejegyző anyakönyvvezető vagy hazai anyakönyvezést végző hatóság az elhalt házassági vagy bejegyzett élettársi anyakönyvi bejegyzésben szereplő adatainak az elektronikus anyakönyvbe történő bejegyzése érdekében megkeresi a házasságot vagy a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot. A házasságot vagy a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a papír alapú anyakönyv házassági vagy bejegyzett élettársi anyakönyvi bejegyzése adatainak az elektronikus anyakönyvbe történő bejegyzéséről az értesítéstől számított százhúsz napon belül gondoskodik, és erről értesíti a megkeresőt.
-
-(3) A (2) bekezdés szerinti esetben a házasságot vagy a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság az elhalt házastársa vagy bejegyzett élettársa születési anyakönyvi bejegyzésében szereplő adatainak az elektronikus anyakönyvbe történő bejegyzése érdekében megkeresi a születést nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot. A születést nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a papír alapú anyakönyv születési anyakönyvi bejegyzése adatainak az elektronikus anyakönyvbe történő bejegyzéséről az értesítéstől számított százhúsz napon belül gondoskodik, és erről értesíti a megkeresőt.”
-
-20. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 59. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha az (1) bekezdés szerinti adattovábbítás házassági, bejegyzett élettársi vagy halotti anyakönyvi bejegyzést érint, az adattovábbítással érintett bejegyzést a papír alapú anyakönyvben nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesíti a házastársak, bejegyzett élettársak, valamint az elhalt és a túlélő házastársa vagy bejegyzett élettársa születését nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot a születési bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzése érdekében. A megkeresett anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a papír alapú anyakönyvi bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzéséről az értesítéstől számított százhúsz napon belül gondoskodik, és erről értesíti a megkeresőt.”
-
-21. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 59/A. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Ha a bejegyzett élettárs a bejegyzett élettársi kapcsolat létesítését megelőzően házassági névként volt férje nevét vagy családi nevét viselte a házasságra utaló toldással, és házassági nevét nem módosította másik házassági névviselési formára, ezért a születési családi nevének viselésére jogosult, és a házassági névviselési forma módosításával érintett házasságra vonatkozó anyakönyvi bejegyzés az elektronikus anyakönyvben nem szerepel, az az anyakönyvvezető, akinél a bejegyzett élettársi kapcsolat létesítésére irányuló szándékot bejelentették, megkeresi a házasságkötést nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot. A megkeresett anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a papír alapú anyakönyv házassági anyakönyvi bejegyzése adatainak az elektronikus anyakönyvbe történő bejegyzéséről a bejegyzett élettársi kapcsolat létesítésének időpontjáig gondoskodik, és erről értesíti a megkeresőt. Közeli hallállal fenyegető állapot esetén a megkeresett anyakönyvvezető az 58. § (3) bekezdésében meghatározott határidőn belül teljesíti a bejegyzést.”
-
-22. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény a következő 61/A. §-sal egészül ki:
-
-„61/A. § (1) Ha a bíróság
-
-a) az apasági vélelem megdöntése iránti perben az anyakönyvbe apaként bejegyzett személy apaságát megdönti,
-
-b) az apaság megállapítása iránti perben az érintett személy apaságát megállapítja, vagy
-
-c) az anyasági perben megállapítja, hogy a gyermek anyja nem a születési anyakönyvbe anyaként bejegyzett személy,
-
-a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot.
-
-(2) Az (1) bekezdés szerinti értesítés tartalmazza
-
-a) az apa vagy az anya természetes személyazonosító adatait,
-
-b) a gyermek születésének helyét és időpontját, valamint
-
-c) az apaság vélelme megdöntésének, az apaság megállapításának vagy az anyaság negatív megállapításának a tényét.”
-
-23. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 69. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A központi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter és az e-közigazgatásért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével, kivéve, ha az anyakönyvi ügyekért felelős miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak alapján más adatfeldolgozó megbízását engedélyezi.”
-
-24. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 69/B. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A szülő születési nevének megváltozását a kiskorú gyermek anyakönyvi bejegyzésébe akkor is rögzíteni kell, ha a szülő nem kérte a névváltoztatás hatályának a kiskorú gyermekre történő kiterjesztését, vagy a gyermek nem a névváltoztatással érintett szülő születési családi nevét viseli.”
-
-25. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 69/B. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A nem megváltozásának anyakönyvbe való bejegyzését meg kell tagadni, ha az érintett személy házassága vagy bejegyzett élettársi kapcsolata fennáll.”
-
-26. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 69/G. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha az elhalt személyazonossága ismertté válik, az (1) bekezdés a) pontjában foglalt adatot akkor kell törölni, ha az elhalt személy az elektronikus anyakönyvben már szerepel.”
-
-27. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 71. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(Az okirat-nyilvántartás tartalmazza)
-
-„f) a kiállított névváltoztatási okiratmásolat esetén
-
-fa) a d) pont da)–dc) alpontjában foglalt adatokat,
-
-fb) az okirat kiállításának idejét,
-
-fc) a névváltoztatást kérelmező személy egyedi elektronikus anyakönyvi azonosítóját,
-
-fd) a névváltoztatást kérelmező személy természetes személyazonosító adatait és lakcímét,
-
-fe) az okirat kiállítását elvégző személy nevét és felhasználói azonosítóját,
-
-ff) az okiratmásolat jellegére utaló megjegyzést.”
-
-28. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 73/A. § (3) bekezdés b) pontja a következő bd) alponttal egészül ki:
-
-(A házassági anyakönyvi kivonat tartalmazza a férj és a feleség)
-
-„bd) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszerzését vagy megszűnését,”
-
-29. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 73/A. § (4) bekezdés b) pontja a következő bd) alponttal egészül ki:
-
-(A bejegyzett élettársi kapcsolat létesítéséről kiállított anyakönyvi kivonat tartalmazza a bejegyzett élettársak)
-
-„bd) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszerzését vagy megszűnését,”
-
-30. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 73/A. § (5) bekezdés a) pontja a következő af) alponttal egészül ki:
-
-(A halotti anyakönyvi kivonat tartalmazza az elhalt)
-
-„af) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszerzését vagy megszűnését,”
-
-31. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény a következő 81/E. §-sal egészül ki:
-
-„81/E. § (1) A 81/B. § (1) bekezdés a) pontjában meghatározott célból a külpolitikáért felelős miniszter, a 81/C. § (1) bekezdés d) pontjában meghatározott célokból – a hagyatéki eljárás lefolytatása kivételével – a közjegyző, és a 81/D. § (1) bekezdésében meghatározott célokból az ott felsorolt szervek az örökbefogadott személynek csak az örökbefogadás következtében változatlan, valamint az örökbefogadás tényére utaló adatok kivételével az örökbefogadás következtében megváltozott adatait ismerhetik meg.
-
-(2) Az adatok az (1) bekezdésben meghatározott korlátozás nélkül megismerhetőek, ha
-
-a) az örökbefogadó szülők,
-
-b) az örökbefogadó szülők és a 14. életévét betöltött gyermek, vagy
-
-c) a nagykorúság elérését követően az örökbefogadott gyermek
-
-a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nyilatkozatot tett.”
+16–31. §
 
 32. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 87. §-a a következő szöveggel lép hatályba:
 
@@ -296,7 +142,7 @@ lép hatályba.
 
 36. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 1. melléklete a 2. melléklet szerint módosul.
 
-37. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 1. melléklete a 3. melléklet szerint módosul.
+37. §
 
 #### 14. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 
@@ -397,11 +243,3 @@ az „Anyakönyvi” szövegrész helyett az „A szervet megjelölő” szöveg
 4. Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 1. melléklet a) Jegyzőkönyv a születés bejelentéséről cím 12. pontja az „Az anya és az apa” szövegrész helyett az „A szülő vagy a szülők” szöveggel lép hatályba.
 
 ### 3. melléklet a 2013. évi CCXVIII. törvényhez
-
-1. Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 1. melléklet a) Jegyzőkönyv a születés bejelentéséről címe a következő 14. ponttal egészül ki:
-
-„14. A születést bejelentő intézmény neve és címe.”
-
-2. Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 1. melléklet d) Jegyzőkönyv a haláleset bejelentéséről címe a következő 15. ponttal egészül ki:
-
-„15. A halálesetet bejelentő intézmény neve és címe.”

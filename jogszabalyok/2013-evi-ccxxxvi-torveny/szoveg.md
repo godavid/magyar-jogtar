@@ -86,11 +86,7 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 55–56. §
 
-57. § (1) A Bit. 96. § (1) bekezdése a következő o) ponttal egészül ki:
-
-(A biztosítási szerződésnek tartalmaznia kell:)
-
-„o) az élet-, továbbá a baleset- és betegségbiztosítások (egészségbiztosítások) esetében a technikai kamatláb biztosítási szerződés tartama alatti megváltoztathatósága lehetőségét azzal a feltétellel, hogy a változtatásra csak akkor kerülhet sor, ha a technikai kamatlábak legnagyobb mértékéről szóló jogszabályban rögzített technikai kamatláb legnagyobb mértéke módosul.”
+57. § (1)
 
 (2)
 
@@ -170,13 +166,7 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 119. §
 
-120. § (1) A Gfbt. 22. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az üzemben tartó a (3) és (4) bekezdésben meghatározottak szerint kiszámított fedezetlenségi díjat az esedékes biztosítási díjrészlettel együtt, a biztosítási időszakra járó teljes díj egyösszegű megfizetése esetén 30 napos határidővel köteles megfizetni. A biztosító, ha a fedezetlenséggel érintett időszak meghaladja a 120 napot, részletfizetési lehetőséget nyújthat.”
-
-(2) A Gfbt. 22. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A Kártalanítási Számla kezelője jogosult az érdekmúlás miatt vagy egyéb okból következően ki nem számlázott, illetve a biztosító által kiszámlázott és az üzemben tartó által részben vagy teljes mértékben ki nem fizetett fedezetlenségi díjat beszedni.”
+120. §
 
 121. §
 
