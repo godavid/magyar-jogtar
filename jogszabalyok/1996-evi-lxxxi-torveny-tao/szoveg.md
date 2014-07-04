@@ -60,7 +60,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 4. § E törvény alkalmazásában
 
-- 1.
+- 1. azonos vagy hasonló tevékenység: a fejlesztési adókedvezmény iránti kérelem, illetve bejelentés benyújtásának időpontjában hatályos TEÁOR szerint ugyanazon szakágazatba sorolt tevékenység;
 - 1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
 - 2. adózó: a 2. § (2)–(4) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
 - 3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör;
@@ -98,6 +98,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 - 16/a. foglalkoztatottak átlagos állományi létszáma: a Központi Statisztikai Hivatal által a munkaügyi-statisztikai adatszolgáltatáshoz kiadott, az adóév első napján hatályos kiadvány szerinti éves szinten számított statisztikai állományi létszám, azzal, hogy a kölcsönvett munkaerő a kölcsönvevőnél figyelembe vehető, amennyiben a kölcsönadó e létszámot a kölcsönadott munkaerő nélkül számítja fel, és erről az adóbevallás benyújtásáig írásban nyilatkozik a kölcsönvevőnek;
 - 16/b. foglalkoztatói nyugdíjszolgáltató intézmény: a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltató intézmény;
 - 17. független képviselő: az adózótól gazdaságilag és jogilag független személy, amely/aki a szokásos üzletmenete szerint jár el, amikor az adózót képviseli; nem számít szokásos üzletmenetnek, ha a képviselő olyan tevékenységet is végez, amely az adózó tevékenységi körébe tartozik; nem független a képviselő, ha üzleti tevékenységét az adózó részletes utasítása vagy átfogó ellenőrzése mellett végzi, vagy ha a kockázatot az adózó és nem a képviselő viseli;
+- 17/a. induló beruházás: az a beruházás, amely új létesítmény létrehozatalát, meglévő létesítmény bővítését, létesítmény termékkínálatának a létesítményben addig nem gyártott termékekkel történő bővítését vagy egy meglévő létesítmény teljes termelési folyamatának lényegi átalakítását eredményezi, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna;
 - 18. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog;
 - 18/a. ingatlannal rendelkező társaság: az adózó, amennyiben 1. a beszámolójában vagy a belföldi illetőségű adózónak vagy külföldi vállalkozónak minősülő kapcsolt vállalkozásaival együttesen (a továbbiakban: csoport), az egyes beszámolókban kimutatott eszközök mérlegfordulónapi könyv szerinti értékének (együttes) összegéből a belföldön fekvő ingatlan értéke több mint 75 százalék és 2. tagja (részvényese) vagy a csoport valamelyikének tagja (részvényese) az adóév legalább egy napján olyan államban rendelkezik külföldi illetőséggel, amellyel Magyarország nem kötött a kettős adóztatás elkerüléséről egyezményt vagy az egyezmény lehetővé teszi az árfolyamnyereség Magyarországon történő adóztatását azzal, hogy
   - a) beszámoló alatt az adóévre vonatkozó, a naptári év (első ízben 2011.) május 31-éig rendelkezésre álló beszámolót kell érteni,
@@ -137,7 +138,7 @@ fejében a jogosult által kapott ellenérték;
 - 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
 - 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 - 27. külföldi személy: a külföldi jogszabályok alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet;
-- 28.
+- 28. önálló környezetvédelmi beruházás: az a beruházás, amely kizárólag a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 1. § (2) bekezdés a)–c) pontja szerinti célt szolgál;
 - 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 - 28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja az adózás előtti eredmény terhére ráfordításként;
 - 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
@@ -145,7 +146,7 @@ fejében a jogosult által kapott ellenérték;
 - 30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
 - 30/b. szabályozott ingatlanbefektetési projekttársaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott projekttársaság;
 - 30/c. szabályozott ingatlanbefektetési társaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési társaságként nyilvántartásba vett gazdasági társaság;
-- 31. szabad vállalkozási zóna: a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, a fejlesztés szempontjából együtt kezelt térség;
+- 31. szabad vállalkozási zóna: a fejlesztési adókedvezmény iránti kérelem, illetve bejelentés benyújtásának időpontjában a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, a fejlesztés szempontjából együtt kezelt térség;
 - 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;
 - 31/b. személy: a belföldi személy, a külföldi személy és a magánszemély;
 - 31/c. személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy idetartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó; személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor;
@@ -165,7 +166,7 @@ fejében a jogosult által kapott ellenérték;
 - 34. természeti erőforrás: a környezet védelmének általános szabályairól szóló törvényben meghatározott fogalom;
 - 34/a. üzemkörön kívüli ingatlan: az az ingatlan, amely nincs az adózó vállalkozási tevékenységével közvetlen összefüggésben; ilyennek minősül különösen az üzemen belüli lakóépület, valamint az elsődlegesen jóléti célt szolgáló épület, építmény;
 - 35. üzletvezetés helye: az a hely, ahol az ügyvezetés az irányításra berendezkedett;
-- 36.
+- 36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményezi, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 - 37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett szervezet.
 - 38.
 - 39. előadó-művészeti szervezet jegybevétele: e törvény alkalmazásában az a TESZOR 90.01. Előadóművészet, a TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenységből a bábszínházi előadás általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétele.
@@ -785,41 +786,50 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 22/B. § (1) Az adózó adókedvezményt vehet igénybe
 
 - a) jelenértéken legalább 3 milliárd forint értékű beruházás,
-- b) az e törvény felhatalmazása alapján kiadott kormányrendeletben (a továbbiakban: kormányrendelet) meghatározott kedvezményezett települési önkormányzat közigazgatási területén üzembe helyezett és üzemeltetett, jelenértéken legalább 1 milliárd forint értékű beruházás,
+- b) az e törvény felhatalmazása alapján kiadott, a fejlesztési adókedvezményről szóló kormányrendeletben (a továbbiakban: kormányrendelet) meghatározott kedvezményezett települési önkormányzat közigazgatási területén üzembe helyezett és üzemeltetett, jelenértéken legalább 1 milliárd forint értékű beruházás,
 - c) jelenértéken legalább 100 millió forint értékű, korábban már használatba vett, állati eredetű élelmiszert előállító létesítmény jogszabályban meghatározott élelmiszer-higiéniai feltételeinek megteremtését szolgáló beruházás,
 - d) jelenértéken legalább 100 millió forint értékű önálló környezetvédelmi beruházás,
-- e) jelenértéken legalább 100 millió forint értékű,
-  - ea) meglévő, a frekvenciasávok nemzeti felosztásáról szóló jogszabály fogalommeghatározása szerinti állandóhelyű szolgálat keretében, vagy a helyhez kötött, az elektronikus hírközlésről szóló 2003. évi C. törvény szerinti előfizetői interfésszel rendelkező elektronikus hírközlő hálózat fejlesztésével, vagy
-  - eb) 2006. január 1-jét követően szerzett frekvenciahasználati jogosultság alapján megvalósuló,
+- e) jelenértéken legalább 100 millió forint értékű, alapkutatást, alkalmazott kutatást vagy kísérleti fejlesztést szolgáló beruházás,
+- f) jelenértéken legalább 100 millió forint értékű, kizárólag film- és videogyártást szolgáló beruházás,
+- g) munkahelyteremtést szolgáló beruházás,
+- h) a jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (vagy egy részének) a tőkepiacról szóló törvényben meghatározott szabályozott piacra (a továbbiakban: szabályozott piac) történő bevezetésének a napját (az első kereskedési napot) követően, de legkésőbb az e napot követő harmadik év utolsó napjáig megkezdett, jelenértéken legalább 100 millió forint értékű beruházás,
+- i) jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás,
+- j) jelenértéken legalább 100 millió forint értékű, szabad vállalkozási zóna területén megvalósított beruházás
 
-szélessávú internetszolgáltatást szolgáló beruházás,
+üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén.
 
-- f) a jelenértéken legalább 100 millió forint értékű, az alapkutatást, az alkalmazott kutatást vagy a kísérleti fejlesztést szolgáló beruházás,
-- g) jelenértéken legalább 100 millió forint értékű, kizárólag film- és videogyártást szolgáló beruházás,
-- h) munkahelyteremtést szolgáló beruházás,
-- i) a jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (vagy egy részének) a tőkepiacról szóló törvényben meghatározott szabályozott piacra (a továbbiakban: szabályozott piac) történő bevezetésének a napját (az első kereskedési napot) követően, de legkésőbb az e napot követő harmadik év utolsó napjáig megkezdett, jelenértéken legalább 100 millió forint értékű beruházás
-- j) jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás
-- k) a szabad vállalkozási zóna területén üzembe helyezett és üzemeltetett jelenértéken legalább 100 millió forint értékű beruházás,
-- l) a jelenértéken legalább 100 millió forint értékű – külön jogszabályban meghatározott tanúsítvány által igazolt módon – energiahatékonyságot szolgáló beruházás
+(1a) Az adókedvezmény igénybevételének feltétele, hogy az (1) bekezdés szerinti beruházás
 
-üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén, feltéve, hogy a beruházás új létesítmény létrehozatalát, meglévő létesítmény bővítését vagy – az alapkutatást, alkalmazott kutatást vagy kísérleti fejlesztést szolgáló beruházást kivéve – az előállított termék, a nyújtott szolgáltatás, illetve a termelési, szolgáltatási folyamat alapvető változását eredményezi.
+- a) olyan induló beruházásnak minősüljön, amelyet
+  - aa) kis- és középvállalkozás valósít meg, vagy
+  - ab) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl vagy Nyugat-Dunántúl régióban nagyvállalkozás valósít meg; vagy
+- b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein nagyvállalkozás valósít meg.
 
-(2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A kormányrendeletben meghatározott időtartam alatt összevonandó, jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó – kormányrendeletben meghatározott – elszámolható költség esetén az adózó az adókedvezményt a Kormány engedélye alapján, az engedélyben meghatározott feltételek szerint veheti igénybe. A Kormány az adókedvezményt az adózó kérelmére, a kérelemben bemutatott fejlesztési program alapján engedélyezi, ha a fejlesztési program és a kérelem megfelel az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott valamennyi feltételnek.
+(2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A (2a) bekezdésben meghatározott beruházás esetén az adózó az adókedvezményt a Kormány – Európai Bizottság engedélyén alapuló – határozata alapján, a határozatban meghatározott feltételek szerint veheti igénybe. A Kormány a határozatot az adózó kérelmére, a kérelemben bemutatott fejlesztési program és az Európai Bizottság engedélye alapján hozza meg, ha a fejlesztési program és a kérelem megfelel az e törvényben és a kormányrendeletben meghatározott valamennyi feltételnek.
 
-(3) Az adókedvezmény igénybevételének feltétele, hogy az adózó
+(2a) Az adókedvezmény igénybe vételének feltétele a Kormány – Európai Bizottság engedélyén alapuló – határozata, amennyiben
 
-- a) a beruházás megkezdése előtt az adópolitikáért felelős miniszternek bejelenti a kormányrendeletben meghatározott valamennyi adatot, vagy
-- b) a beruházás megkezdése előtt az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tartalommal és formában benyújtja az adópolitikáért felelős miniszterhez, ha az adókedvezmény a Kormány engedélye alapján vehető igénybe, és a beruházás üzembe helyezését követően 90 napon belül az adópolitikáért felelős miniszternek bejelenti a beruházás befejezésének a napját.
+- a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás kaphat;
+- b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, beruházásonként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
+- c) a mezőgazdasági termékek feldolgozását és forgalmazását szolgáló beruházás elszámolható költsége jelenértéken meghaladja a 25 millió eurónak megfelelő forintösszeget, vagy, ha az igényelt állami támogatás jelenértéken több, mint 12 millió eurónak megfelelő forintösszeg;
+- d) az adózó a kérelem benyújtását megelőző két naptári évben azonos vagy hasonló tevékenységet szüntetett meg az Európai Gazdasági Térség területén, vagy tervezi, hogy a beruházás befejezését követő két naptári éven belül ilyen tevékenységet szüntet meg.
 
-(4) A (3) bekezdés a) pontjában előírt bejelentés késedelmes teljesítése esetén igazolási kérelem előterjesztésének nincs helye, továbbá a beruházás megkezdését követően a bejelentés nem egészíthető ki, illetve nem módosítható.
+(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – a Támogatásokat Vizsgáló Iroda közreműködésével – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
+
+(3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás megkezdése előtt
+
+- a) az adópolitikáért felelős miniszternek bejelenti a kormányrendeletben meghatározott valamennyi adatot, vagy
+- b) a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tartalommal és formában benyújtja az adópolitikáért felelős miniszterhez.
+
+(4) A (3) bekezdés a) és b) pontjában előírtak késedelmes teljesítése esetén igazolási kérelem előterjesztésének nincs helye.
 
 (5) Az adókedvezmény a környezeti elemek védelme, valamint a környezetet veszélyeztető hatások elleni védelem érdekében, a beruházás üzembe helyezését követő 5 év során abban az adóévben nem vehető igénybe, amelyben az adózó a jogszabályban vagy hatósági határozatban megállapított kibocsátási határértéket jogerős határozattal megállapított módon túllépi.
 
 (6) Az adózó az adókedvezményt a beruházás üzembe helyezését követő adóévben – vagy döntése szerint a beruházás üzembe helyezésének adóévében – és az azt követő kilenc adóévben, legfeljebb a bejelentés, illetve a kérelem benyújtásának adóévét követő tizennegyedik adóévben veheti igénybe.
 
-(7) Az adózó által igénybe vett adókedvezmény, valamint a kormányrendeletben meghatározott más állami támogatás együttes összege jelenértéken nem haladhatja meg a bejelentett, engedély esetén a megállapított, de legfeljebb jelenértéken a ténylegesen felmerült, elszámolható költség összegére vetített, a kormányrendeletben meghatározott aránnyal számított értéket.
+(7) Az adózó által igénybe vett adókedvezmény, valamint a kormányrendeletben meghatározott más állami támogatás együttes összege jelenértéken nem haladhatja meg a bejelentett, határozat esetén a megállapított, de legfeljebb jelenértéken a ténylegesen felmerült, elszámolható költség összegére vetített, a kormányrendeletben meghatározott aránnyal számított értéket.
 
-(8) Az (1) bekezdés d) pontja szerinti önálló környezetvédelmi beruházás esetén az adókedvezmény igénybevételének feltétele, hogy az adózó adókötelezettsége a kérelem, a bejelentés benyújtása évét megelőző ötödik évben vagy korábban kezdődött. Önálló környezetvédelmi beruházás az a beruházás, amely kizárólag a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 1. §-a (2) bekezdésének a)–c) pontja szerinti célt szolgál.
+(8) Az (1) bekezdés d) pontja szerinti önálló környezetvédelmi beruházás esetén az adókedvezmény igénybevételének feltétele, hogy az adózó adókötelezettsége a kérelem, a bejelentés benyújtása évét megelőző ötödik évben vagy korábban kezdődött.
 
 (9) Az (1) bekezdés a)–b) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
 
@@ -830,31 +840,33 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (11)
 
-(12) Mezőgazdasági termékek feldolgozását és forgalmazását szolgáló, az (1) bekezdés a)–c), valamint h)-i) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltételeit a kormányrendelet tartalmazza.
+(12) Mezőgazdasági termékek feldolgozását és forgalmazását szolgáló, az (1) bekezdés a)–c), valamint g)–j) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltételeit a kormányrendelet tartalmazza.
 
-(13) Az (1) bekezdés i) pontja szerinti beruházásnál az adókedvezmény igénybevételének további feltétele, hogy
+(13) Az (1) bekezdés h) pontja szerinti beruházásnál az adókedvezmény igénybevételének további feltétele, hogy
 
 - a) a részvényeknek a szabályozott piacra történő bevezetésétől a beruházás megkezdésének évét követő ötödik adóév végéig a szabályozott piacra bevezetett részvények együttes névértéke folyamatosan eléri az adózó jegyzett tőkéjének legalább 50 százalékát, és ebben az időszakban az adózó nem alakul át;
 - b) az adózó jegyzett tőkéjét megtestesítő részvények szabályozott piacra történő bevezetése első ízben az a) pontnak megfelelő bevezetéssel valósul meg;
 - c) az adózó által a jegyzett tőke felemelése keretében kibocsátott és a szabályozott piacra bevezetett részvények együttes kibocsátási értéke az – adókedvezmény iránti kérelemben, bejelentésben szereplő – elszámolható költség folyó áron számított összegének legalább az 50 százalékát eléri;
 - d) a szabályozott piacra bevezetett részvények tekintetében a kérelem, a bejelentés benyújtásakor az adózónak legalább 25 részvényese van, vagy a szabályozott piacra bevezetett részvények legalább 25 százalékát meghaladó részvények olyan részvényesek tulajdonában vannak, akiknek (amelyeknek) egyike sem rendelkezik a szabályozott piacra bevezetett részvények névértékének 5 százalékát elérő részesedéssel.
 
-(14) Az (1) bekezdés j) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
+(14) Az (1) bekezdés i) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
 
-- a) a foglalkoztatottak átlagos állományi létszáma kisvállalkozásnál legalább 20 fővel, középvállalkozásnál legalább 50 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
-- b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az adóév első napján érvényes minimálbér adóévre számított összegének ötvenszeresével, középvállalkozásnál százszorosával meghaladja a beruházás megkezdését megelőző adóév vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő évesített bérköltségét.
+- a) a foglalkoztatottak átlagos állományi létszáma kisvállalkozásnál legalább 10 fővel, középvállalkozásnál legalább 25 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
+- b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az adóév első napján érvényes minimálbér adóévre számított összegének huszonötszörösével, középvállalkozásnál ötvenszeresével meghaladja a beruházás megkezdését megelőző adóév vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő évesített bérköltségét.
 
 (15) A kormányrendelet az e törvényben foglaltakon kívüli feltételeket is megállapíthat, vagy rendelkezhet az adókedvezmény igénybevételének tilalmáról.
 
-(16) Az adózó nem jogosult a (7) bekezdés szerinti adókedvezményre, és a már igénybe vett adókedvezmény jogosulatlanul igénybe vett támogatásnak minősül, ha az e törvényben, a kormányrendeletben, illetve az engedélyben meghatározott bármely feltételt nem teljesíti. Nem kell e rendelkezést alkalmazni, ha a feltétel teljesítését elháríthatatlan külső ok akadályozta meg.
+(16) Az adózó nem jogosult a (7) bekezdés szerinti adókedvezményre, és a már igénybe vett adókedvezmény jogosulatlanul igénybe vett támogatásnak minősül, ha az e törvényben, a kormányrendeletben, illetve a határozatban meghatározott bármely feltételt nem teljesíti. Nem kell e rendelkezést alkalmazni, ha a feltétel teljesítését elháríthatatlan külső ok akadályozta meg.
 
 (17) Az adózó a kormányrendeletben meghatározott adatokat társasági adóbevallásában beruházásonként feltünteti.
 
 (18) Az adópolitikáért felelős miniszter a (3) bekezdésben meghatározott adatokról évente tájékoztatást nyújt az állami adóhatóság részére. Az adóhatóság a rendelkezésére álló valamennyi adatról adózónként és beruházásonként haladéktalanul tájékoztatja a kincstárt, amely a kapott adatok felhasználásával, megkeresésre – törvénnyel kihirdetett nemzetközi szerződésben előírt tájékoztatási kötelezettség teljesítése érdekében – a miniszter részére adatot szolgáltat. A kincstár által a tájékoztatás révén megszerzett adatra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(19) Az adózó a (2) bekezdés alkalmazása esetén az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlást követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 60 nappal meghosszabbítható. A kérelem előterjesztését megelőzően az adópolitikáért felelős miniszter – ha szükséges – megkéri az Európai Bizottság hozzájárulását. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelemnek a Kormány elé terjesztését.
+(19) A fejlesztési adókedvezmény a kérelem, bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe.
 
 (20) Az e § alapján folyó valamennyi eljárás tekintetében a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai nem alkalmazhatók.
+
+(21) Az adópolitikáért felelős miniszter a kormányrendeletben meghatározott módon közzéteszi a fejlesztési adókedvezményben részesült adózó kormányrendeletben meghatározott adatait.
 
 ### Látvány-csapatsportok támogatásának adókedvezménye
 
@@ -1391,6 +1403,10 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 - a) a támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
 - b) a 22. § (4) bekezdése szerinti támogatási igazolás iránti kérelem tartalmát, a támogatási igazolás kiállítására irányuló eljárás szabályait és a támogatási igazolás tartalmát, valamint a támogatási igazolással kapcsolatos adatszolgáltatás és ellenőrzés részletes szabályait meghatározza.
 
+### Jogharmonizációs záradék
+
+30/A. § Ez a törvény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. május 21-i bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
 31. § (1) Ez a törvény a következő uniós jogi aktusoknak történő megfelelést szolgálja:
 
 - a) a Tanács 90/434/EGK irányelve a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről;
@@ -1407,11 +1423,11 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 - b) a nemzetközi vállalkozások és az adóhatóságok részére készült, a kapcsolt vállalkozások közötti árak módosítására vonatkozó iránymutatás;
 - c)
 
-(3) E törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapítja meg: Iránymutatás a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásokról (2006/C 54/08), valamint az N 651/2006 számú Állami Támogatás – Magyarország.
+(3) E törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapítja meg: Iránymutatás a regionális állami támogatásokról (2014–2020).
 
 (4) Ez a törvény az Európai Közösséget Létrehozó Szerződés 107. és 108. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló rendelet hatálya alá tartozó támogatási programot tartalmaz.
 
-(5) E törvény 22/B. § (1) bekezdésének j), k), l) pontja, valamint (9) és (14) bekezdése a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL L 214., 2008. 08. 09., 3-47. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
+(5)
 
 ### 1. számú melléklet az 1996. évi LXXXI. törvényhez
 
