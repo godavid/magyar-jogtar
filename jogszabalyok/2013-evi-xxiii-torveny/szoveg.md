@@ -119,9 +119,9 @@ figyelembevételével kell számítani.
 
 (2) A Szövetség feladata továbbá, hogy a 3.§ (1) bekezdése szerinti biztonsági kőolajkészlet, illetve a tagi hozzájárulás mértékének megalapozott számítása, valamint a kőolajtermékek forgalmazásához kapcsolódó adók beszedése hatékonyságának növelése érdekében olyan ellenőrző és jelölő rendszert működtessen, amely folyamatosan lehetővé teszi a szabad forgalomba bocsátott, behozott és felhasznált, a (3) bekezdésben megjelölt kőolajtermékek megfigyelését.
 
-(3) A Szövetség a (2) bekezdés szerinti feladat teljesítése érdekében a 2710 11 41, 2710 11 45, 2710 11 49, 2710 19 41, 2710 19 45, 2710 19 49 vámtarifa szám alatt nyilvántartott termékeket termékcsoportonként különböző, miniszteri rendelet szerinti ellenőrző jelölő anyaggal látja el.
+(3) A Szövetség a (2) bekezdés szerinti feladat teljesítése érdekében a 2710 11 41, 2710 11 45, 2710 11 49, 2710 19 41, 2710 19 45, 2710 19 49 vámtarifa szám alatt nyilvántartott termékeket ellenőrző jelölő anyaggal látja el.
 
-(3a) Ellenőrző jelölő anyag nélkül a (3) bekezdés szerinti termék szabad forgalomba nem bocsátható.
+(3a)
 
 (4) A (2) és (3) bekezdésben meghatározott tevékenység ellátása érdekében a (3) bekezdés szerinti kőolajtermékeket előállító, szabad forgalomba bocsátó, behozó vagy importáló köteles együttműködni a jelölést és ellenőrzést végző Szövetséggel.
 
@@ -225,7 +225,7 @@ figyelembevételével kell számítani.
 
 #### 6. A felügyelő bizottság
 
-29. § (1) A felügyelő bizottság hat tagból áll. A felügyelő bizottság két tagját a miniszter, egy tagját az államháztartásért felelős miniszter delegálja, két tagját a kőolaj szekció, egy tagját a földgáz szekció jelölésére a közgyűlés választja három évre. A tagok maguk közül elnököt választanak. A felügyelő bizottság határozatképes, ha legalább három tagja jelen van. A felügyelő bizottság határozatát egyszerű többséggel hozza és szavazategyenlőség esetén az elnök szavazata dönt. A felügyelő bizottság ügyrendjét maga állapítja meg és a közgyűlés hagyja jóvá.
+29. § (1) A felügyelő bizottság hét tagból áll. A felügyelő bizottság két tagját a miniszter, egy tagját az államháztartásért felelős miniszter, egy tagját a MEKH elnöke delegálja, két tagját a kőolaj szekció, egy tagját a földgáz szekció jelölésére a közgyűlés választja három évre. A tagok maguk közül elnököt választanak. A felügyelő bizottság határozatképes, ha legalább négy tagja jelen van. A felügyelő bizottság határozatát egyszerű többséggel hozza és szavazategyenlőség esetén az elnök szavazata dönt. A felügyelő bizottság ügyrendjét maga állapítja meg és a közgyűlés hagyja jóvá.
 
 (2) A felügyelő bizottság ellenőrzési jogköre a Szövetség működésének, tevékenységének jogszerűségi szempontból történő vizsgálatára terjed ki.
 
@@ -460,7 +460,9 @@ rendeletben állapítsa meg.
 
 (2) E törvény hatálybalépése az igazgatóság, az igazgatótanács és a felügyeleti bizottság tagjainak tagsági viszonyát nem érinti.
 
-52. § A 12. § (2) és (3) bekezdésében meghatározott feladat ellátásához szükséges ellenőrző és jelölő rendszert a Szövetségnek 2014. július 1-jéig kell kialakítania.
+52. § A 12. § (2) és (3) bekezdésében meghatározott feladat ellátásához szükséges ellenőrző és jelölő rendszert a Szövetségnek 2015. július 1-jéig kell kialakítania.
+
+52/A. § Az egyes adótörvények és azokkal összefüggő más törvények módosításáról szóló 2014. évi XXV. törvény (a továbbiakban: Módtv.) hatályba lépését megelőző napon hatályos 12. § (3a) bekezdését a Módtv. hatályba lépésekor folyamatban lévő ügyekben sem kell alkalmazni.
 
 53. § (1) E törvény 54. § (2) bekezdése a tengeri balesetek és események kivizsgálására szolgáló, a 2009/18/EK európai parlamenti és tanácsi rendelet 5. cikkének (4) bekezdése szerint kidolgozott közös módszertan elfogadásáról szóló, 2011. december 9-i 1286/2011/EU bizottsági rendelet végrehajtását szolgálja.
 
