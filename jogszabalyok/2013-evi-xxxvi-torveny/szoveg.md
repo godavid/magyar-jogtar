@@ -819,7 +819,7 @@ nyújthatja be a Nemzeti Választási Irodához.
 
 93. § (1) A választási iroda a névjegyzékkel kapcsolatos kérelemnek csak abban az esetben adhat helyt, ha a választópolgárnak a kérelemben szereplő adatai megegyeznek a polgárok személyi és lakcím adatait tartalmazó nyilvántartás, illetve a magyar állampolgárságát igazoló okirata nyilvántartásának adataival.
 
-(1a) A 84. § szerinti kérelem elbírálása során a választási iroda abban az esetben is helyt ad a kérelemnek, ha a kérelemben foglaltak
+(1a) A 84. § és a 85. § szerinti kérelem elbírálása során a választási iroda abban az esetben is helyt ad a kérelemnek, ha a kérelemben foglaltak
 
 - a) ékezethiba,
 - b) írásmódbeli eltérés,
@@ -844,7 +844,7 @@ következtében nem egyeznek meg a polgárok személyi és lakcím adatait tarta
 
 (3) A 93. § (3) bekezdése szerinti esetben a kérelem elbírálására megállapított határidőt a magyar állampolgárságot igazoló okirat nyilvántartását vezető szerv megkeresésre adott válaszának beérkezésétől kell számítani.
 
-95. § (1) A választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja és a 334. § szerinti kérelem elutasításáról, valamint a 97. § (1) bekezdés b) pontja és (2) bekezdés b) pontja szerinti törlésről határozattal dönt. A határozatra a 46. § rendelkezéseit alkalmazni kell.
+95. § (1) A választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja és a 334. § szerinti kérelem elutasításáról, valamint a 97. § (1) bekezdés b) pontja és (2) bekezdés b) pontja szerinti törlésről határozattal dönt. A határozatra a 46. § rendelkezéseit kell alkalmazni. A határozatban pontosan meg kell jelölni az elutasítás, illetve a törlés okát.
 
 (2) Ha a választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja vagy a 334. § szerinti kérelemnek helyt ad, döntéséről értesíti a kérelmezőt.
 
@@ -1887,9 +1887,14 @@ a szavazóköri névjegyzékből a választópolgár nemzetiségi adatát törö
 
 (2) A névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok számának megállapításakor a nemzetiségi választópolgárként a szavazást megelőző negyvennyolcadik napon a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal nemzetiségi választópolgárként szereplő választópolgárokat kell figyelembe venni.
 
-(3) A Nemzeti Választási Iroda – az ajánlóív átadásával egyidejűleg – ingyenesen átadja a jelölő szervezetként jogerősen nyilvántartásba vett országos nemzetiségi önkormányzat számára a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal a nemzetiség választópolgáraként szereplő választópolgárok nevét és lakcímét. A nemzetiség választópolgáraként az adatátadást követően névjegyzékbe vett választópolgárok adatait tartalmazó kiegészítő adatszolgáltatást az országos nemzetiségi önkormányzat a szavazást megelőző harmincötödik napig igényelheti.
+(3) A Nemzeti Választási Iroda
 
-(4) A (3) bekezdés szerinti adatszolgáltatás adatait kizárólag az ajánlások gyűjtése, valamint közvetlen politikai kampány céljára lehet felhasználni. Az adatszolgáltatás adatainak kezelésére a 155. §-ban és a 218. § (2) bekezdés d) pontjában foglalt rendelkezéseket is alkalmazni kell.
+- a) az ajánlóív átadásával egyidejűleg,
+- b) a jelölő szervezet kérésére a szavazást megelőző harmincötödik és tizenharmadik napon, a 89. § (1) bekezdése szerint az adatai kiadását megtiltó választópolgárok adatainak kivételével
+
+ingyenesen átadja a jelölő szervezetként jogerősen nyilvántartásba vett országos nemzetiségi önkormányzat számára a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal a nemzetiség választópolgáraként szereplő választópolgárok nevét és lakcímét.
+
+(4) A (3) bekezdés a) pontja szerinti adatszolgáltatás adatait kizárólag az ajánlások gyűjtése, a (3) bekezdés b) pontja szerinti adatszolgáltatás adatait kizárólag közvetlen politikai kampány céljára lehet felhasználni. Az adatszolgáltatás adatainak kezelésére a 155. §-ban és a 218. § (2) bekezdés d) pontjában foglalt rendelkezéseket is alkalmazni kell.
 
 #### 115. A szavazólap adattartalma
 
@@ -2430,9 +2435,12 @@ alapján, legkésőbb a szavazást követő tizenkilencedik napon megállapítja
 
 317. § (1) Az ajánlóív a nemzetiség megjelölését is tartalmazza.
 
-(2) A választási iroda – az ajánlóív átadásával egyidejűleg – ingyenesen átadja a jelölő szervezet számára a névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok nevét és lakcímét. A nemzetiség választópolgáraként az adatátadást követően névjegyzékbe vett választópolgárok adatait tartalmazó kiegészítő adatszolgáltatást a jelölő szervezet a szavazást megelőző harmincötödik napig igényelheti.
+(2) A választási iroda
 
-(3) A (2) bekezdés szerinti adatszolgáltatás adatait kizárólag az ajánlások gyűjtése, valamint közvetlen politikai kampány céljára lehet felhasználni. Az adatszolgáltatás adatainak kezelésére a 155. §-ban és a 218. § (2) bekezdés d) pontjában foglalt rendelkezéseket is alkalmazni kell.
+- a) az ajánlóív átadásával egyidejűleg,
+- b) a jelölő szervezet kérésére a szavazást megelőző harmincötödik és tizenharmadik napon, a 89. § (1) bekezdése szerint az adatai kiadását megtiltó választópolgárok adatainak kivételével ingyenesen átadja a jelölő szervezet számára a névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok nevét és lakcímét.
+
+(3) A (2) bekezdés a) pontja szerinti adatszolgáltatás adatait kizárólag az ajánlások gyűjtése, a (2) bekezdés b) pontja szerinti adatszolgáltatás adatait kizárólag közvetlen politikai kampány céljára lehet felhasználni. Az adatszolgáltatás adatainak kezelésére a 155. §-ban és a 218. § (2) bekezdés d) pontjában foglalt rendelkezéseket is alkalmazni kell.
 
 #### 146. A jelölt bejelentése
 

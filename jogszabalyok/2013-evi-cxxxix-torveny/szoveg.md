@@ -1934,7 +1934,7 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 
 - a) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti pénzforgalmi szolgáltató,
 - b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet,
-- c) az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fszt.) szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
+- c) a Hpt. szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
 - d) a pénzfeldolgozási tevékenységet végző szervezet,
 - e) a központi értéktár,
 - f) az Országos Betétbiztosítási Alap,
@@ -2095,11 +2095,11 @@ fordítható.
 - a) a fizetési forgalomban a fizetési megbízások lebonyolításának, továbbá a fizetési módok részletes szabályait,
 - b) a készpénzforgalmazás feltételeit,
 - c) a pénzfeldolgozási tevékenység szabályait és
-- d) az Fszt. szerinti fizetési rendszer működtetése tevékenységre vonatkozó részletes szabályokat.
+- d) a fizetési rendszer működtetése tevékenységre vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és a 28. § (1) és (2) bekezdésében foglalt feladatai körében rendeletben szabályozza
 
-- a) az Fszt. szerinti fizetési rendszer működtetése tevékenységet végző szervezetek üzletszabályzatának tartalmi és formai követelményeit és a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket;
+- a) a fizetési rendszer működtetése tevékenységet végző szervezetek üzletszabályzatának tartalmi és formai követelményeit és a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket;
 - b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet üzletszabályzatának tartalmi és formai követelményeit, továbbá
   - ba) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
   - bb) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
