@@ -726,7 +726,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 
 36. § (1) A nemzeti téradat-infrastruktúra kötelező alapját a törvényben meghatározott állami térképi adatbázisok képezik.
 
-(2) A nemzeti téradat-infrastruktúra létrehozását és működését irányító állandó bizottságról (a továbbiakban: állandó bizottság) kormányrendelet rendelkezik.
+(2) A nemzeti téradat-infrastruktúra létrehozását és működését irányító állandó bizottság (a továbbiakban: állandó bizottság) a kormány tanácsadó testületeként működik.
 
 (3) A miniszter és a honvédelemért felelős miniszter közösen gondoskodik a nemzeti téradat-infrastruktúra állami térképi adatbázisokkal való ellátásáról.
 
@@ -751,8 +751,8 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 38. § (1) Felhatalmazást kap a kormány, hogy rendeletben
 
 - a) jelölje ki a földmérési és térinformatikai államigazgatási szervet és határozza meg a földmérési és térinformatikai államigazgatási szerv, valamint az ingatlanügyi hatóság e törvény hatálya alá tartozó feladatait, hatáskörét és illetékességi területét,
-- b) határozza meg a nemzeti téradat-infrastruktúra működését irányító állandó bizottság szervezetét, feladatát, működésének szabályait és feltételeit,
-- c) határozza meg a nemzeti téradat-infrastruktúra működésének szabályait, valamint jelölje ki a központi irányításért felelős szervezetet,
+- b)
+- c) határozza meg a nemzeti téradat-infrastruktúra működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás és adatkezelés rendjére, az adatok felhasználásának részletes szabályaira, valamint jelölje ki ezen feladatok központi irányításáért felelős szervezetet,
 - d) állapítsa meg az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét és a változások átvezetésének szabályait,
 - e) állapítsa meg a levegőből végzett távérzékelés engedélyezésének és a távérzékelési adatok használatának rendjét,
 - f) határozza meg a magyarországi hivatalos földrajzi nevek megállapításának és nyilvántartásának rendjét,

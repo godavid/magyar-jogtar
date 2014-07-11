@@ -93,7 +93,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) jóváhagyja a 8. § (1) bekezdés c) pontjában meghatározott éves tervet;
 - d) előterjeszti a Kormány részére elfogadás céljából a 8. § (1) bekezdés a) pontjában foglalt középtávú stratégiai tervet;
 - e) dönt az NFA költségvetési előirányzatával kapcsolatos előterjesztésekről;
-- f) kinevezi a Tanács elnökét és a Tanács 10. § (1) bekezdésének b)–d) pontjában meghatározott tagjait;
+- f) kinevezi a Tanács elnökét és tagjait;
 - g) jóváhagyja a Tanács ügyrendjét.
 
 7. § (1) Az NFA elnöke
@@ -140,12 +140,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (6) A Tanács üléséről összefoglaló készül, melynek az NFA honlapján történő közzétételéről az NFA elnöke az ülés napjától számított öt munkanapon belül gondoskodik. Az összefoglaló tartalmazza az ülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére az ülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, továbbá a Tanács által hozott döntést tartalmazó iratoknak a Tanács elnöke általi aláírással ellátott eredeti egy-egy példányát.
 
-10. § (1) A Tanács elnökét a miniszter nevezi ki, további tagjai:
-
-- a) az NFA elnöke;
-- b) a miniszter által kinevezett személyek;
-- c) az állami vagyon felügyeletéért felelős miniszter által jelölt és a miniszter által kinevezett egy személy;
-- d) a kormányzati tevékenység összehangolásáért felelős miniszter által jelölt és a miniszter által kinevezett egy személy.
+10. § (1) A Tanács elnökét és további négy tagját a miniszter nevezi ki.
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
