@@ -86,7 +86,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (2) Az államháztartásért felelős miniszter (a továbbiakban: miniszter) ellátja a szerencsejátékok szervezésének szakmai irányítását, valamint képviseli az államot az (1) bekezdés b) pontja tekintetében.
 
-(3) A számsorsjáték és – a lóversenyfogadás, valamint a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
+(3) A számsorsjáték és – a lóversenyfogadás, a távszerencsejáték és a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
 
 4. § (1) A koncessziós szerződés megkötésére a Ktv. 5. § (1) bekezdése szerinti nyilvános pályázatot a miniszter írja ki. A koncessziós pályázat kiírásához – országos pályázat kivételével – az érintett települési önkormányzat képviselő-testületének, Budapesten a fővárosi önkormányzat közgyűlésnek egyetértése is szükséges. Országos pályázattal elnyert koncessziós jog tekintetében az állami adóhatóság az engedélyt azokra a településekre adja ki, amelyek önkormányzatának képviselő-testülete – Budapesten a fővárosi önkormányzat közgyűlése is – hozzájárult a tevékenység területén történő gyakorlásához.
 
@@ -190,11 +190,17 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (7) Az állami adóhatóság díjbevételéből kell fedezni a koncessziós pályázatok kiírásának és elbírálásának költségeit is.
 
-(8) A játékost megillető, de át nem vett nyeremények összegét a szervező köteles a nyeremény átvételére nyitva álló határidő lejártát követő hónap 20. napjáig játékadó címén bevallani és a központi költségvetésbe befizetni. Tárgynyeremény-sorsolás esetén a szervező a nyereménytárgy forgalmi értékét fizeti be.
+(7a) A nyertes játékos részére a nyeremény igénylésére a jóváhagyott játéktervben meghatározottak szerint, a sorsolás, illetve a fogadási esemény napját követő 90 napos jogvesztő határidőn belül van lehetőség. A szervező a nyeremény igénylését követően a nyeremény átadása érdekében haladéktalanul köteles a szükséges intézkedéseket megtenni és a nyeremény átadását a nyertes játékos részére a nyeremény igénylésétől számított 30 napos jogvesztő határidőn belül biztosítani.
+
+(7b) Ha a szervező az át nem vett nyeremények újbóli felhasználását sorsolás formájában biztosítja a nyeremények céljára, a (7a) bekezdés szerinti, a nyeremény igénylésére vonatkozó jogvesztő határidő időtartama 40 nap.
+
+(8) A játékost megillető, de át nem vett nyeremények összegét a szervező köteles a nyeremény igénylésére nyitva álló határidő lejárta utáni 30 nap elteltét követő hónap 20. napjáig játékadó címén bevallani és a központi költségvetésbe befizetni. Tárgynyeremény-sorsolás esetén a szervező a nyereménytárgy forgalmi értékét fizeti be.
 
 (9) A (8) bekezdés rendelkezéseit megfelelően alkalmazni kell abban az esetben is, ha a kisorsolt, de át nem vett nyeremények újbóli felhasználását jogszabály meghatározott határidőn belül lehetővé teszi. Ebben az esetben a (8) bekezdés szerinti adókötelezettségeket a felhasználásra nyitva álló határidőt követő, de legkésőbb a játék megszűnését követő hónap 20. napjáig kell teljesíteni.
 
-(10) A játékosok részére meghirdetett, de a (8)–(9) bekezdésekben foglaltaktól eltérő, bármely okból részükre át nem adott, vagy nyeremények céljára fel nem használt nyeremények értékét vagy összegét a nyereményalap felhasználására vonatkozó határidő lejártát, illetve a játék megszűnését követő hónap 20. napjáig a szervezőnek játékadó címén be kell vallania és be kell fizetnie.
+(10) A játékosok részére meghirdetett, de a (7a)–(9) bekezdésekben foglaltaktól eltérő, bármely okból részükre át nem adott, vagy nyeremények céljára fel nem használt nyeremények értékét vagy összegét a nyereményalap felhasználására vonatkozó határidő lejártát, illetve a játék megszűnését követő hónap 20. napjáig a szervezőnek játékadó címén be kell vallania és be kell fizetnie.
+
+(11) Az állami adóhatóság a nemzetközi együttműködésben szervezett szerencsejáték esetén az át nem vett nyeremények felhasználását a valamennyi részt vevő szerencsejáték-szervező által közösen kialakított és elfogadott játékszabályok szerint engedélyezi, ennek során a (7b)–(10) bekezdésben foglaltaktól eltérő játékszabályok is engedélyezhetők. Ha az át nem vett nyeremények felhasználását minden részt vevő szerencsejáték-szervező szabadon alakíthatja ki, az állami adóhatóság az engedélyt a (7b)–(10) bekezdés alkalmazásával adja ki.
 
 12. § (1) Az állami adóhatóság a szerencsejáték-szervezőt, illetve az e törvény hatálya alá tartozó tevékenységet folytató bármely szervezetet vagy személyt, valamint a szervezetek vezetőjét vagy vezető tisztségviselőjét a (2)–(3) bekezdésekben foglaltak szerinti bírság megfizetésére kötelezi.
 
@@ -206,7 +212,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 (3) A bírság
 
 - a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe, 36/C–E. §-ba,
-- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (8)–(10) bekezdéseibe, a 17. § (3)–(4) bekezdéseibe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet, valamint a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének részletes személyi, pénzügyi műszaki és informatikai feltételeit meghatározó rendelet rendelkezéseibe.
+- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe,, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet, valamint a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének részletes személyi, pénzügyi műszaki és informatikai feltételeit meghatározó rendelet rendelkezéseibe.
 - c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (5a) vagy (5b) bekezdéseibe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
 - d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C. § (1)–(7), (9) bekezdésébe és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
 
@@ -296,7 +302,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (2)
 
-(3) A kisorsolt nyeremények átvételéről az engedélyben meghatározott időben, de legfeljebb a sorsolás napját követő 90 napon belül kell gondoskodni. A szerencsejáték szervező köteles biztosítani a nyeremények megfelelő átvételének lehetőségét.
+(3)
 
 (4) A folyamatosan szervezett sorsolásos játékok esetében a kisorsolt, de át nem vett nyereményeket a szerencsejáték szervező nyeremények céljára köteles felhasználni.
 
@@ -304,7 +310,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (2) Ha a sorsjátékot nem a játéktervnek megfelelően bonyolítják le, az állami adóhatóság megbízottja a sorsolásos játék folytatását felfüggeszti és kezdeményezi az állami adóhatóságnál a 12. §-ban, illetőleg a 13. § (1) és (2) bekezdésében foglalt szankciók alkalmazását. A játékosok kártalanításáról a szerencsejáték szervező gondoskodik.
 
-19. § (1) A nem folyamatosan szervezett sorsolásos játékok esetében a 17. § (3) bekezdésében meghatározott időpontot követő 30 napon belül a szerencsejáték szervező köteles végelszámolást készíteni és azt az állami adóhatóságnak megküldeni.
+19. § (1) A nem folyamatosan szervezett sorsolásos játékok esetében a 11. § (7a) és (7b) bekezdésében meghatározott időpontot követő 30 napon belül a szerencsejáték szervező köteles végelszámolást készíteni és azt az állami adóhatóságnak megküldeni.
 
 (2) A nem folyamatosan szervezett sorsolásos játék biztosítékának mértéke a kisorsolásra kerülő nyeremények összértékének legalább 50%-a.
 
@@ -321,7 +327,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 23. § (1) Aki rendszeresen, saját nevében áruk, szolgáltatások értékesítését végzi, engedély nélkül rendezhet és bonyolíthat le vásárlással vagy szolgáltatás igénybevételével egybekötött ajándéksorsolásos akciót (a továbbiakban: ajándéksorsolás), amelyben a vásárlónak a meghatározott értékű, mennyiségű vagy fajtájú áru megvételekor vagy szolgáltatás igénybevételekor kapott sorsjegy nyilvános kihúzása esetén áru vagy szolgáltatás formájában nyereményt kell adni.
 
-(2) Ajándéksorsolás lebonyolítása során az 1. § (8) bekezdését, a 11. § (8)–(10) bekezdéseit, a 15. § (2) bekezdését, a 16. § (2) bekezdését és a 17–19. §-okat megfelelően alkalmazni kell azzal az eltéréssel, hogy pénznyeremény sorsolására nincs lehetőség.
+(2) Ajándéksorsolás lebonyolítása során az 1. § (8) bekezdését, a 11. § (7a)–(10) bekezdéseit, a 15. § (2) bekezdését, a 16. § (2) bekezdését és a 17–19. §-okat kell alkalmazni azzal az eltéréssel, hogy pénznyeremény sorsolására nincs lehetőség, a 11. §-ban szabályozott nyeremény igénylés alatt pedig a nyeremény átadását kell érteni.
 
 24. § (1) A 21—23. §-okban nem szabályozott sorsolásos játék (a továbbiakban: egyéb sorsolásos játék) a törvénynek a sorsolásos játékokra meghatározott rendelkezései alkalmazásával az állami adóhatóság engedélyével szervezhető.
 
@@ -411,7 +417,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 - a) a 2013. tárgyév esetén az e törvény 2012. január 1. napján hatályos 27. § (5) bekezdésében,
 - b) ezt követően pedig a tárgyévet megelőző évre a központi költségvetésről szóló törvényben meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezett gazdasági környezet figyelembe vételével. A koncessziós szerződésben a felek a jogszabályi minimumot meghaladó mértékű koncessziós díjban megállapodhatnak.
 
-(6) A koncessziós szerződésben meghatározott, a jogszabályi minimumot meghaladó mértékű koncessziós díjat évente valorizálni kell oly módon, hogy a tárgyévi koncessziós díjat a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett éves fogyasztói árindexszel megnövelve kell kiszámítani. A koncessziós díjat a tárgyév február hó 15-éig kell megfizetni. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre a koncessziós díj időarányos részét kell megfizetni.
+(6) A koncessziós szerződésben meghatározott, a jogszabályi minimumot meghaladó mértékű koncessziós díjat évente valorizálni kell oly módon, hogy a tárgyévi koncessziós díjat a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett fogyasztói árindexszel megnövelve kell kiszámítani. A valorizációs kötelezettség nem áll fenn abban az esetben, amikor a jogszabályi minimumot meghaladó koncessziós díj a koncessziós szerződésben a jogszabályban meghatározott mindenkori minimum koncessziós díjhoz viszonyított rögzített mértékben kerül meghatározásra. Az éves koncessziós díjat a koncessziós szerződés hatályban létének első két teljes évében négy egyenlő részletben, a tárgyév január 15., április 15., július 15., és október 15. napján, a koncessziós szerződés további időszakában pedig a tárgyév február 15. napjáig egy összegben kell megfizetni. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre vonatkozó koncessziós díj időarányos részét kell megfizetni.
 
 (7) A koncesszió időtartama I. kategóriájú játékkaszinó esetében legfeljebb 20 év, II. kategóriájú játékkaszinó esetében legfeljebb 10 év.
 
@@ -451,7 +457,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) Lóversenyfogadás kivételével totalizatőri rendszerű fogadást kizárólag az az állami játékszervező szervezhet, amely legalább 1 milliárd forint alap-(törzs-)tőkével rendelkezik és a fogadás szervezését megelőzően legalább 5 évig az e törvény hatálya alá tartozó szerencsejáték(ok) szervezésével foglalkozott.
 
-(3) A nyeremények átvételének lehetőségét a fogadás-szervező az engedélyben meghatározott ideig, de legfeljebb a fogadási eseményt követő 90 napon belül köteles biztosítani.
+(3)
 
 (4) Fogadás esetén – a bukmékeri rendszerű fogadás kivételével – a fogadásszervező a fogadót megillető, de át nem vett nyereményeket nyeremények céljára köteles felhasználni. Az át nem vett nyeremények sorsolás útján is visszajuttathatók a fogadók részére, a sorsolásos játékok nyereményeire vonatkozó szabályok szerint. A bukmékeri rendszerű fogadás esetén az át nem vett nyereményekre e törvény 11. §-ának (8) bekezdése vonatkozik.
 
@@ -509,7 +515,11 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 29/C. § (1) Távszerencsejáték a sportfogadás, a kártyajáték vagy a kaszinójáték, ha azt hírközlő eszköz és rendszer útján szervezik. A fogadási esemény fogalmára a 28/A. § (1) bekezdésben foglalt rendelkezéseket kell alkalmazni. Távszerencsejáték keretében szervezett sportfogadás az agár- és lóversenyre, valamint sportrendezvényre fogadás.
 
-29/D. § A 3. § (1) bekezdés a) pontja szerinti esetben az állami játékszervező kizárólagos tulajdonában álló gazdasági társaságnak vagy az állam többségi részesedésével működő gazdálkodó szervezetnek, a 3. § (1) bekezdés b) pontja szerinti esetben a koncessziós társaságnak legalább 200 millió forint jegyzett tőkével kell rendelkeznie.
+29/D. § (1) A 3. § (1) bekezdés a) pontja szerinti esetben az állami játékszervező kizárólagos tulajdonában álló gazdasági társaságnak vagy az állam többségi részesedésével működő gazdálkodó szervezetnek, a 3. § (1) bekezdés b) pontja szerinti esetben a koncessziós társaságnak vagy a megbízható szerencsejáték szervezőnek legalább 50 millió forintnak megfelelő értékű jegyzett tőkével kell rendelkeznie.
+
+(2) Az (1) bekezdésben meghatározott koncessziós társaság – figyelemmel a koncesszióról szóló 1991. évi XVI. törvény 20. § (1) bekezdésére – külföldi székhelyű gazdasági társaságként is működhet.
+
+(3) Külföldi székhelyű gazdasági társaság esetén a (2) bekezdésben, külföldi székhelyű vagy külföldi szerencsejáték szervezési tevékenységi engedéllyel rendelkező ajánlattevő esetén a 37. § 31. pontban meghatározott összeghatárok átszámítása során a külföldi bíróság, hatóság által kiadott okiratban a jegyzett tőke mértékére, a közteher fennállására vagy végrehajtási eljárásra vonatkozó napon érvényes, az MNB által közzétett hivatalos devizaárfolyamot kell figyelembe venni.
 
 29/E. § (1) A 3. § (1) bekezdés b) pontja szerinti esetben a tárgyévi távszerencsejáték koncessziós díj jogszabályi minimumát a tárgyévre vonatkozó központi költségvetésről szóló törvény határozza meg. A 2013. évet követő tárgyévekben a koncessziós díj minimumát a tárgyévet megelőző évre a központi költségvetésről szóló törvényben meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezett gazdasági környezet figyelembe-vételével kell meghatározni.
 
@@ -523,7 +533,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (3) Az állami adóhatóság az engedélyezési eljárás során és az engedély érvényességi időtartama alatt a távszerencsejáték műszaki-informatikai rendszer megfelelőségének ellenőrzése céljából a szervezőtől és a szervező hozzájárulása esetén a szervező részére műszaki vagy informatikai szolgáltatást nyújtó személytől vagy szervezettől kiegészítő információkat kérhet és ezeket az információkat a hatósági eljárásban bizonyítékként felhasználhatja.
 
-(4) Az állami adóhatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel – legfeljebb 5 éves határozott időtartamra adja ki.
+(4) Az állami adóhatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel és sportfogadás játéktípusra szóló engedély esetén a távszerencsejáték szervező az állami adóhatóság részére igazolta, hogy a távszerencsejáték szervező az általa szervezett játékokban érintett vagyoni értékű jogokra vonatkozóan a jogosultakkal felhasználási szerződést kötött – legfeljebb 5 éves határozott időtartamra adja ki.
 
 29/G. § (1) A szervező a szerverhez a távoli hozzáférés lehetőségét az állami adóhatóság részére folyamatosan köteles biztosítani.
 
@@ -661,7 +671,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) A tiszta játékbevételt növeli a tárgyhóban elfogadott borravaló 50%-a.
 
-(3) A szerencsejáték-szervező a tárgyhavi adó összegét úgy állapítja meg, hogy az adóév első napjától a tárgyhó utolsó napjáig a tiszta játékbevételt összesíti, ezután az (1) bekezdésben foglaltak alapján megállapítja a tárgyhavi adó összegét és levonja belőle az adóéven belül a tárgyhónapot megelőző időszakokra megfizetett adó összegét, valamint az általa a tárgyévre megfizetett koncessziós díj egytizenketted részének összegét.
+(3) A szerencsejáték-szervező a tárgyhavi adó összegét úgy állapítja meg, hogy az adóév első napjától a tárgyhó utolsó napjáig a tiszta játékbevételt összesíti, ezután az (1) bekezdésben foglaltak alapján megállapítja a tárgyhavi adó összegét és levonja belőle az adóéven belül a tárgyhónapot megelőző időszakokra megfizetett adó összegét, valamint az általa a tárgyév vonatkozásában fizetendő bruttó koncessziós díjnak a tárgyhónapra arányosan jutó összegét.
 
 ### IV. Fejezet — A szerencsejáték-szervezés ellenőrzése
 
@@ -822,12 +832,18 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - 27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
 - 28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 - 29. Játékosi egyenleg: távszerencsejáték esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték-szervező által vezetett egyenleg.
-- 30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+- 30. Megbízható szerencsejáték-szervező a távszerencsejáték szervezés kivételével: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
   - a) valamennyi, az állami adóhatóság által nyilvántartott, 500 000 Ft-ot meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
   - b) egyik bankszámláján sem volt 500 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene 500 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárás,
   - c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként öt millió forint összeget meghaladó bírsággal sújtották volna,
   - d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
   - e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
+- 31. Megbízható szerencsejáték-szervező távszerencsejáték szervezés esetén: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+  - a) valamennyi, az állami adóhatóság, illetve a szerencsejáték-szervező székhelye szerinti és szerencsejáték szervezési tevékenységi engedélyét kiadó állam adóhatósága által nyilvántartott, 500 000 forintnak megfelelő összeget meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
+  - b) egyik bankszámláján sem volt 500 000 forintnak megfelelő összeget meghaladó azonnali beszedési megbízás a szerencsejáték-szervező szerencsejáték szervezési tevékenységi engedélyét kiadó állam adóhatósága részéről, illetve működése során a szerencsejáték szervezési tevékenységi engedélyét kiadó államban nem indult ellene 500 000 forintnak megfelelő összeget meghaladó érték tekintetében végrehajtási eljárás,
+  - c) működése során, azzal összefüggésben, a szerencsejáték szervezési tevékenységi engedélyét kiadó államban nem történt olyan jogsértés, amely miatt esetenként öt millió forintnak megfelelő összeget meghaladó bírsággal sújtották volna,
+  - d) a szerencsejáték szervezési tevékenységi engedélyét kiadó államban legalább 3 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet,
+  - e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat a szerencsejáték szervezési tevékenységi engedélyét kiadó államban maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte. Ha a szerencsejáték-szervező több államban is rendelkezett vagy rendelkezik szerencsejáték szervezési tevékenységi engedéllyel, akkor az a)–e) pontok szerinti feltételeknek megfelelést ezek közül egy és ugyanazon államra vonatkozóan kell bizonyítania.
 
 ### Záró rendelkezések
 

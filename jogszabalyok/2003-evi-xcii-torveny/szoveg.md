@@ -2446,7 +2446,7 @@ hatósági eljárás.
 
 (3) A feltételes adómegállapítás az adóhatóságra csak változatlan tényállás mellett, az adott ügyben kötelező. A feltételes adómegállapítást érdemben érintő jövőbeni jogszabályváltozás vagy tényállásváltozás (tartalmi változás) esetén – annak hatálybalépésétől, illetve időpontjától kezdődően – a feltételes adómegállapítás nem alkalmazható. A tartós feltételes adómegállapítás alkalmazhatóságát – a (2a) bekezdés kivételével – a jogszabályváltozás nem, csak a tényállás megváltozása érinti.
 
-(4) A határozathozatalra nyitva álló határidő a kérelem benyújtásától számított 75 nap, amely egy alkalommal 60 nappal meghosszabbítható. Az adózó a kérelmében kezdeményezheti a feltételes adómegállapítás sürgősségi eljárásban történő elbírálását, amelynek során a határozathozatalra nyitva álló határidő 45 nap, amely 30 nappal meghosszabbítható. Amennyiben az adózó a kérdés(eke)t módosítja, további kérdést tesz fel vagy a tényállást módosítja, az ügyintézési határidőt a módosítás vagy kiegészítés adópolitikáért felelős miniszterhez történő beérkezésétől kell számítani. A feltételes adómegállapítás iránti kérelem az elsőfokú határozat meghozataláig visszavonható.
+(4) A határozathozatalra nyitva álló határidő a kérelem benyújtásától számított 75 nap, hiánypótlás esetén a hiánypótlástól számított 75 nap, amely egy alkalommal 60 nappal meghosszabbítható. Az adózó a kérelmében kezdeményezheti a feltételes adómegállapítás sürgősségi eljárásban történő elbírálását, amelynek során a határozathozatalra nyitva álló határidő 45 nap, hiánypótlás esetén a hiánypótlástól számított 45 nap, amely 30 nappal meghosszabbítható. Amennyiben az adózó a kérdés(eke)t módosítja, további kérdést tesz fel vagy a tényállást módosítja, az ügyintézési határidőt a módosítás vagy kiegészítés adópolitikáért felelős miniszterhez történő beérkezésétől kell számítani. A feltételes adómegállapítás iránti kérelem az elsőfokú határozat meghozataláig visszavonható.
 
 (5) A kérelem jogszabályban előírt nyomtatványon nyújtható be. A kérelemhez csatolni kell az adózó nyilatkozatát arról, hogy a kérelem vagy hasonló kérelme ügyében nincs és korábban sem volt folyamatban tudomása szerint ellenőrzés, hatósági eljárás vagy bírósági eljárás.
 
@@ -2696,7 +2696,7 @@ végzés ellen.
 
 (4) Felügyeleti intézkedés keretében nem hozható olyan döntés, amely az adókötelezettséget, az adó alapját, az adó összegét, a költségvetési támogatás alapját, összegét az adózó terhére változtatja meg. Amennyiben a felettes adóhatóság vagy az adópolitikáért felelős miniszter illetve a NAV felügyeletére kijelölt miniszter megállapítása szerint a felülvizsgált döntés (intézkedés) súlyosításának lenne helye, úgy a jogszabálysértő döntést (intézkedést) megsemmisíti és új eljárás lefolytatását rendeli el.
 
-(5) A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedés iránti kérelmet érdemi vizsgálat nélkül elutasítja, ha az ügyben eljárt adóhatóság döntését a bíróság már felülvizsgálta. Az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedés iránti kérelmet érdemi vizsgálat nélkül elutasítja, ha a kérelem benyújtásával egyidejűleg nem fizeti meg az eljárási illetéket. A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedés iránti kérelmet érdemi vizsgálat nélkül elutasíthatja, ha a bírósági felülvizsgálatot az adózó kezdeményezte. A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedést mellőzi, ha jogszabálysértést nem állapít meg. A felügyeleti intézkedés iránti kérelem érdemi vizsgálat nélküli elutasításáról, illetve a felügyeleti intézkedés mellőzéséről az adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter az adózót határozat (végzés) meghozatala nélkül értesíti.
+(5) A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedés iránti kérelmet érdemi vizsgálat nélkül elutasítja, ha az ügyben eljárt adóhatóság döntését a bíróság már felülvizsgálta. Az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedés iránti kérelmet érdemi vizsgálat nélkül elutasítja, ha a kérelem benyújtásával egyidejűleg nem fizeti meg az eljárási illetéket. Ha az adózó a felügyeleti intézkedés iránti kérelmével együtt költségmentesség iránti kérelmet is előterjeszt, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedés iránti kérelem folytán indult hatósági eljárást felfüggeszti a költségmentesség jogerős elbírálásáig. A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedés iránti kérelmet érdemi vizsgálat nélkül elutasíthatja, ha a bírósági felülvizsgálatot az adózó kezdeményezte. A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter a felügyeleti intézkedést mellőzi, ha jogszabálysértést nem állapít meg. A felügyeleti intézkedés iránti kérelem érdemi vizsgálat nélküli elutasításáról, illetve a felügyeleti intézkedés mellőzéséről az adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter az adózót határozat (végzés) meghozatala nélkül értesíti.
 
 141/A. §
 
@@ -3136,7 +3136,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 ### Végrehajtás megkeresésre
 
-161. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetőleg a köztartozás jogosultja a fizetési határidő lejártát követő 15 nap elteltével megkeresi az adóhatóságot behajtás végett, ha a köztartozás összege meghaladja a 10 000 forintot, az ingatlan nyilvántartási eljárás igazgatási szolgáltatási díja, a szabálysértési költség, valamint az elővezetési költség esetén az 5000 forintot Amennyiben a hátralék későbbi megfizetése veszélyeztetett, az adóhatóság soron kívül is megkereshető. Az adók módjára behajtandó köztartozásra vonatkozó rendelkezéseket kell alkalmazni akkor is, ha az illetékességi területén folytatott végrehajtás akadálya vagy eredménytelensége esetén a köztartozás beszedésére jogosult önkormányzati adóhatóság másik önkormányzati adóhatóságot keres meg behajtás végett. Amennyiben az adóhatóság végrehajtási ügyében megbízottként bírósági végrehajtó jár el, a megkeresésre a Vht. 33. §-át kell alkalmaznia.
+161. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetőleg a köztartozás jogosultja a fizetési határidő lejártát követő 15 nap elteltével megkeresi az adóhatóságot behajtás végett, ha a köztartozás összege eléri vagy meghaladja a 10 000 forintot, az ingatlan nyilvántartási eljárás igazgatási szolgáltatási díja, a szabálysértési költség, valamint az elővezetési költség esetén az 5000 forintot Amennyiben a hátralék későbbi megfizetése veszélyeztetett, az adóhatóság soron kívül is megkereshető. Az adók módjára behajtandó köztartozásra vonatkozó rendelkezéseket kell alkalmazni akkor is, ha az illetékességi területén folytatott végrehajtás akadálya vagy eredménytelensége esetén a köztartozás beszedésére jogosult önkormányzati adóhatóság másik önkormányzati adóhatóságot keres meg behajtás végett. Amennyiben az adóhatóság végrehajtási ügyében megbízottként bírósági végrehajtó jár el, a megkeresésre a Vht. 33. §-át kell alkalmaznia.
 
 (2) A megkeresésben fel kell tüntetni a behajtást kérő és a fizetésre kötelezett azonosításához szükséges adatokat, a tartozás jogcímét, a fizetési kötelezettséget elrendelő határozat (végzés) számát, jogerőre emelkedésének időpontját, a teljesítési határidőt, a tartozás összegét és esetleges járulékait, valamint annak a jogszabálynak a pontos megjelölését, amely az adók módjára való behajtást lehetővé teszi. Ha a behajtást kérőt törvény valamely végrehajtási cselekmény foganatosítására kötelezi, annak megtörténtét a megkeresésben igazolni kell.
 
@@ -3487,9 +3487,8 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 - g) a végrehajtás során teljesítendő fizetési kötelezettségek teljesítésének,
 - h) egyes adóügyek távbeszélőn történő ügyintézésének, az elektronikus kézbesítés szabályainak,
 - i) végrehajtási eljárás során az elektronikus ügyintézés,
-- j) az Európai Közösség más tagállamában és az általános forgalmi adóról szóló törvény szerint elismert harmadik államban letelepedett adóalanynak belföldön, illetve a belföldön letelepedett adóalanynak az Európai Közösség más tagállamában érvényesített visszatéríttetési kérelmével (kiigazítási nyilatkozatával) kapcsolatos eljárás rendjének, ideértve az elektronikus levélben (e-mailen) történő ügyintézés
-
-módját és technikai feltételeit.
+- j) az Európai Közösség más tagállamában és az általános forgalmi adóról szóló törvény szerint elismert harmadik államban letelepedett adóalanynak belföldön, illetve a belföldön letelepedett adóalanynak az Európai Közösség más tagállamában érvényesített visszatéríttetési kérelmével (kiigazítási nyilatkozatával) kapcsolatos eljárás rendjének, ideértve az elektronikus levélben (e-mailen) történő ügyintézés módját és technikai feltételeit,
+- k) az adózó által nem adóalanyok számára nyújtott távolról is nyújtható szolgáltatásokkal kapcsolatos különös szabályozás elektronikus ügyintézésére vonatkozó részletes szabályait.
 
 (14) Az adóhatóság az internetes honlapján folyamatosan közzéteszi azt az adatformátumot, amelyben az adóalany az ellenőrzés során az elektronikus adathordozón tárolt adatokat rendelkezésre bocsátja. Amennyiben az adatformátum megváltozik, az adóhatóság köteles a változást megelőzően legalább 30 nappal az új adatformátumot közzétenni. Az önkormányzati adóhatóság az adatformátum megváltozását az önkormányzat hivatalos lapjában is közzéteszi.
 
@@ -3945,7 +3944,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 190. § A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvénnyel megállapított 2. számú melléklet I. 2. b) pontját a 2012. január 1-jén folyamatban lévő, vagy ezt követően indult ügyekben is alkalmazni kell.
 
-191. § A fordított adózás mezőgazdasági szektorra történő kiterjesztésével kapcsolatban egyes törvények módosításáról szóló 2012. évi XLIX. törvénnyel megállapított 31/A. §-t utoljára a 2014. június 30. napját magába foglaló adómegállapítási időszak tekintetében kell alkalmazni.
+191. § E törvény 31/A. §-át utoljára a 2018. december 31. napját magába foglaló adómegállapítási időszak tekintetében kell alkalmazni.
 
 192. § (1) A 2011. december 31-én hatályos 7. § (3)–(4) bekezdését a 2012. január 1-jét megelőzően elkövetett mulasztásokra alkalmazni kell.
 
@@ -4058,6 +4057,13 @@ kell alkalmazni.
 alkalmazni kell.
 
 (2) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 3. számú melléket R) pontja szerinti adatszolgáltatást a 2013. január 1-jei állapotra vonatkozóan, továbbá e rendelkezés hatályba lépésének időpontjáig bekövetkezett változásokra vonatkozóan első alkalommal e rendelkezés hatálybalépésétől számított 30 napon belül kell teljesíteni.
+
+201. § E törvénynek az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvénnyel módosított
+
+- 1. 132. § (4) bekezdését a hatálybalépését követően indult eljárásokban, és
+- 2. 141. § (5) bekezdését a folyamatban lévő ügyekben
+
+is alkalmazni kell.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
@@ -4589,11 +4595,7 @@ A/I.
 
 A/II. A kifizető a föld bérbeadásából (földjáradékból) származó jövedelemről és a levont adóról, az adómentesség feltételéül szabott időtartamra kötött, de ezen időtartam lejárta előtt megszűnt haszonbérleti szerződésről és az adókötelessé vált időszakról, valamint a bérbeadott földterület ingatlan-nyilvántartási azonosító adatairól az adatszolgáltatást a földterület fekvése szerint illetékes önkormányzati adóhatósághoz teljesíti. Az adatszolgáltatásban fel kell tüntetni az adólevonás elmaradásának okát (természetben történő bérfizetés). Az adatszolgáltatást a kifizető papíralapú adathordozón az adóévet követő év március 31-éig teljesíti.
 
-B) A biztosítóintézet adatszolgáltatása
-
-A biztosítóintézet adatot szolgáltat a nyugdíjbiztosítás alapján folyósított nyugdíjszolgáltatás kifizetéséről, illetőleg arról, hogy a magánszemély az élet- vagy – az 1995. január 1-jét követően kötött – nyugdíjbiztosításának rendelkezési jogával a szerződéskötéstől számított 10 éven belül élt.
-
-Az adatszolgáltatást, a kifizetést, illetőleg a rendelkezési jog gyakorlását követő év január 31-éig elektronikus úton kell teljesítenie az állami adóhatóság részére a magánszemély azonosításához szükséges adatok feltüntetésével.
+B)
 
 C) Az ingatlanügyi hatóság adatszolgáltatása
 
