@@ -40,6 +40,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 (5) A (2) bekezdés szerinti, e törvény rendelkezései alól részleges felmentést élvező ABAK a (2) bekezdés a) pont aa) és ab) alpontjában említett küszöbérték kiszámítása során és a küszöbértéknek való megfeleléssel kapcsolatban az ABAK-rendelet 2–5. cikkének megfelelően jár el.
 
+(6) A (2) bekezdés szerinti kockázati tőkealap-kezelőre vagy magántőkealap-kezelőre e törvény 16. §-a, 18. § (3) bekezdése, valamint 38. §-a nem alkalmazandóak.
+
 ### II. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
 3. § A törvényben hivatkozott jogszabályok rövidítését az 1. melléklet tartalmazza.
@@ -434,8 +436,9 @@ alá.
 
 - a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, önkéntes, kölcsönös biztosító pénztárnál, magánnyugdíjpénztárnál, foglalkoztatói nyugdíjszolgáltató intézménynél,
 - b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
-- c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
-- d) az a)–c) pontban felsoroltak külföldi megfelelőinél szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
+- c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél,
+- d) kockázatitőkealap-kezelő, magántőkealap-kezelő vezető állású személye esetén üzletviteli tanácsadással foglalkozó gazdasági társaságnál, valamint
+- e) az a)–d) pontban felsoroltak külföldi megfelelőinél szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
 
 (9) A (2) és (5)–(7) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni:
 
@@ -451,6 +454,8 @@ alá.
 (11) A (10) bekezdés szerinti kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 
 (12) A befektetési alapkezelő az (1) és (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
+
+(13) A 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő, illetve magántőkealap-kezelő felügyelő-bizottságának elnökére és tagjára a (2) bekezdés c) pontja nem alkalmazandó.
 
 20. § Az ÁÉKBV-alapkezelőben történő minősített befolyás megszerzésére alkalmazni kell a Bszt. IX. Fejezetében foglalt rendelkezéseket, azzal, hogy ahol a jogszabály befektetési vállalkozást említ, azon ÁÉKBV-alapkezelőt kell érteni.
 
@@ -1222,7 +1227,7 @@ tekintetében.
 
 #### 30. A kezelési szabályzat
 
-72. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. ABA esetében a kezelési szabályzatnak hivatkoznia kell a letétkezelő által kötött azon megállapodásokra, amelyek célja, hogy a letétkezelő a 64. § (16) bekezdésével összhangban, szerződéses alapon felmentse magát a felelősség alól. A kezelési szabályzatot nyilvános befektetési alap esetében a 3. melléklet I. Fejezetében, zártkörű befektetési alap esetében a 3. melléklet II. Fejezetében foglaltaknak megfelelő tartalommal kell elkészíteni.
+72. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. ABA esetében a kezelési szabályzatnak hivatkoznia kell a letétkezelő által kötött azon megállapodásokra, amelyek célja, hogy a letétkezelő a 64. § (16) bekezdésével összhangban, szerződéses alapon felmentse magát a felelősség alól. A kezelési szabályzatot nyilvános befektetési alap esetében a 3. melléklet I. Fejezetében, zártkörű befektetési alap esetében a 3. melléklet II. Fejezetében, a 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő és magántőkealap-kezelő által kezelt kockázati tőkealap illetve magántőkealap esetében a 3. melléklet III. Fejezetében foglaltaknak megfelelő tartalommal kell elkészíteni.
 
 (2) A befektető a befektetési jegyek vásárlásakor nyilatkozik arról, hogy ismeri a kezelési szabályzatban foglalt feltételeket, különös tekintettel a befektetési jegyhez fűződő kockázatokra, valamint arról, hogy a befektetés a kockázatviselő képességének megfelel.
 
@@ -2802,9 +2807,9 @@ van összefüggésben.
 
 (5) A 285. § (7), (15) és (24) bekezdése 2014. július 1-jén lép hatályba.
 
-(6) A 281. § (1), (3)–(4) és (6)–(8) bekezdése és a 286. § (2) bekezdése 2014. október 1-jén lép hatályba.
+(6) A 281. § (1), (4) és (6)–(8) bekezdése és a 286. § (2) bekezdése 2014. október 1-jén lép hatályba.
 
-(7) A 281. § (2) bekezdése 2014. december 1-jén lép hatályba.
+(7) A 281. § (2) és (3) bekezdése 2014. december 1-jén lép hatályba.
 
 (8) E törvény 155–161. §-a az Európai Bizottság – az ABAK-irányelv 67. cikk (6) bekezdése alapján elfogadandó – felhatalmazáson alapuló jogi aktusának meghozatalát követő 15. napon lép hatályba.
 
@@ -3001,9 +3006,9 @@ van összefüggésben.
 
 281. § (1)
 
-(2)
+(2)–(3)
 
-(3)–(4)
+(4)
 
 (5)
 
@@ -3508,6 +3513,38 @@ Kezelési szabályzat
 - 73.3. A letétkezelővel kötött esetleges megállapodás azon elemének leírása, amely az ABA eszközei átruházásának és újrafelhasználásnak lehetőségére vonatkozik, továbbá a prime brókerre esetlegesen átruházott felelősségre vonatkozó információ leírása
 - 74. Az adott tárgykörre vonatkozó egyéb információk
 
+#### III. FEJEZET
+
+A 2. § (2) BEKEZDÉS SZERINTI KOCKÁZATI TŐKEALAP-KEZELŐ ÉS MAGÁNTŐKEALAP-KEZELŐ ÁLTAL KEZELT KOCKÁZATI TŐKEALAP, ILLETVE MAGÁNTŐKEALAP-KEZELÉSI SZABÁLYZATA
+
+KEZELÉSI SZABÁLYZAT
+
+- 1. Bevezetés A kockázati tőkebefektetés illetve magántőke befektetés jellegzetességeinek részletes leírása, a működési feltételek ismertetése.
+- 2. A kockázati tőkealap-kezelőre illetve magántőkealap-kezelőre vonatkozó információk A kockázati tőkealap-kezelő illetve magántőkealap-kezelő
+  - a) cégneve, székhelye;
+  - b) a cégbejegyzésének száma, helye és ideje;
+  - c) a Felügyelettől kapott tevékenységi engedélyének száma, dátuma;
+  - d) a vezető állású személy neve, szakmai önéletrajza;
+  - e) a könyvvizsgáló neve, engedélyének száma.
+- 3. A kockázati tőkealapra illetve magántőkealapra vonatkozó információk
+  - a) a kockázati tőkealap illetve magántőkealap neve, székhelye, nyilvántartásba vételének időpontja, nyilvántartási száma;
+  - b) a kockázati tőkealap illetve magántőkealap jegyzett tőkéje, a befektetési jegyek forgalomba hozatalára, a jegyzett tőke felemelésére és leszállítására vonatkozó szabályok, az ideiglenes befektetési jegy tulajdonosokkal való elszámolás módja;
+  - c) a befektetési jegyek névértéke, darabszáma, sorozat- és sorszáma, valamint a befektetési jegyhez fűződő jogok bemutatása;
+  - d) a jegyzéskor vállalt vagyoni hozzájárulás felszólítás ellenére történő nem teljesítése esetén alkalmazandó rendelkezések;
+  - e) a kockázati tőkealap illetve magántőkealap futamideje meghosszabbíthatóságának lehetősége és feltételei és lehetséges leghosszabb időtartama;
+  - f) a kockázati tőkealap illetve magántőkealap befektetési elveinek leírása, megváltoztatásának lehetősége és feltételei;
+  - g) hitelfelvétel lehetőségei és korlátai;
+  - h) a kölcsönnyújtás feltételei, a kölcsönnyújtás lehetősége vagy kizártsága;
+  - i) a tőkenövekmény és a hozam megállapításának és kifizetésének részletes szabályai, a kockázati tőkealap illetve magántőkealap tőkenövekményének felosztására vagy újra befektetésére vonatkozó szabályok (a működési időn belül fizet-e hozamot a kockázati tőkealap illetve magántőkealap, ha hozam képződik, vagy teljes egészében újra befekteti; ha fizetnek hozamot, milyen időközönként történhet a kifizetés stb.);
+  - j) a kockázati tőkealapot illetve magántőkealapot terhelő várható díjak és költségek tételes felsorolása, a díjak és költségek összegére vagy számítási módjára, továbbá azok elszámolására vonatkozó részletes tájékoztatás;
+  - k) a befektetési jegy-tulajdonosok tájékoztatásának a szabályai;
+  - l) tanácsadóra vagy közreműködőre vonatkozó információk;
+  - m) a kockázati tőkealap illetve magántőkealap megszűnésével kapcsolatos rendelkezések;
+  - n) a kockázati tőkealap-kezelő illetve magántőkealap-kezelő díjazására vonatkozó feltételek, a díj formája, mértéke, számításának módja, a kifizetés feltételei;
+  - o) a kezelési szabályzat módosítására vonatkozó eljárás;
+  - p) a nettó eszközérték számítására és közzétételére vonatkozó előírások;
+  - q) a szabad pénzeszközök felhasználására vonatkozó szabályok.
+
 ### 4. melléklet a 2014. évi XVI. törvényhez
 
 #### A megszűnési jelentés kötelező tartalmi elemei
@@ -3682,6 +3719,8 @@ c) a közelmúltban forgalomba hozott átruházható értékpapírok;
 d) egyéb átruházható értékpapírok;
 
 e) hitelviszonyt megtestesítő értékpapírok;
+
+f) kockázati tőkealap és magántőkealap esetén üzletrészek és más társasági részesedések.
 
 A fentiek elemzése a befektetési alap befektetési politikájának tükrében a legmegfelelőbb szempontok alapján a nettó eszközök százalékos arányában; a fenti befektetések mindegyikénél jelezni kell, hogy milyen részarányt képvisel a befektetési alap összes eszközei viszonylatában. A portfolió összetételében a tárgyidőszakban bekövetkezett változások leírása.
 

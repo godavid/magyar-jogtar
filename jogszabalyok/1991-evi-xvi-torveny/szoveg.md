@@ -109,6 +109,12 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (3) A szerencsejáték szervezésére irányuló tevékenység végzésére a megbízható szerencsejáték-szervező ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli az üzemeltetni kívánt – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szjtv.) meghatározott – egységek település szerinti helyszínét és vállalja, hogy egységenként a mindenkori központi költségvetésről szóló törvényben meghatározott koncessziós díj összege legalább kétszeresének megfelelő összegű éves koncessziós díjat fizet.
 
+(3a) Távszerencsejáték szervezés tárgyú ajánlat tételére a (3) bekezdés rendelkezéseit a következő eltérésekkel kell alkalmazni:
+
+- a) ajánlat tételére kizárólag az Szjtv. 37. § 31. pontja szerinti megbízható szervező jogosult,
+- b) az ajánlatban legalább a központi költségvetésről szóló törvényben meghatározott, játéktípusonként irányadó koncessziós díj összegének megfelelő éves koncessziós díjat kell megjelölni játéktípusonként, és
+- c) a nem magyarországi székhelyű vagy nem magyarországi szerencsejáték szervezési tevékenységi engedéllyel rendelkező ajánlattevő ajánlatához csatolja a székhelye, illetve szerencsejáték szervezési tevékenységi engedélye szerinti állam hatóságainak Szjtv. 37. § 31. pontja szerinti feltételek teljesítéséről szóló igazolását és annak hivatalos magyar nyelvű fordítását.
+
 (4) Az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel.
 
 (5) Az e § szerint megkötött koncessziós szerződés alapján a koncesszió jogosultja legfeljebb öt egységet üzemeltethet.
@@ -131,7 +137,9 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (3) Az állam által kötött koncessziós szerződésből származó koncessziós díjat elkülönítetten kell nyilvántartani; felhasználásáról az Országgyűlés az éves költségvetési törvény elfogadása során határoz.
 
-14. § Az állam, illetőleg az önkormányzat a jogosultnak a koncessziós díjjal vagy más módon ellentételezett vagyoni értékű pozícióját (kizárólagosság), annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak abban az esetben változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
+14. § (1) Az állam, illetve az önkormányzat a jogosultnak a koncessziós díjjal vagy más módon ellentételezett vagyoni értékű pozícióját (kizárólagosság), annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak abban az esetben változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
+
+(2) Az állam, illetve az önkormányzat a 10/C. §-a alapján megkötött koncessziós szerződés esetében a jogosult vagyoni értékű pozícióját annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak akkor változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
 
 15. § (1) Abban az esetben, ha a koncesszió-köteles tevékenység kizárólagos állami tulajdonhoz vagy az önkormányzati törzsvagyonhoz tartozó vagyontárgyhoz kapcsolódik, a koncessziós szerződés megkötése e vagyontárgy tulajdonjogában változást nem eredményez. Az ágazati törvény a bányászati koncessziós szerződés alapján kitermelt természeti kincs feletti tulajdonjog vonatkozásában ettől eltérő rendelkezést állapíthat meg.
 
