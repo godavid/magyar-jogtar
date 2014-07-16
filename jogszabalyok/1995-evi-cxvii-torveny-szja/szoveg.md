@@ -2873,7 +2873,7 @@ kap.
 
 3.2.6. oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra ösztöndíj címén, vagy a szociálisan rászoruló részére szociális segély, valamint szociális ösztöndíj címén, illetve – alkalmanként 500 forintot meg nem haladó összegben – a diák- és szabadidősport résztvevőjének
 
-3.2.6.1. a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által kijelölt költségvetési szerv, alapítvány, közalapítvány, az állam tulajdonában álló nonprofit gazdasági társaság útján közvetve, vagy
+3.2.6.1. a társadalmi felzárkózásért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a társadalmi felzárkózásért felelős miniszter által kijelölt költségvetési szerv, alapítvány, közalapítvány, az állam tulajdonában álló nonprofit gazdasági társaság útján közvetve, vagy
 
 3.2.6.2. a Kormány döntése alapján az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvényben foglalt eljárás szerint megszűnő alapítvány, közalapítvány feladatát átvevő közhasznú nonprofit gazdasági társaság az átvett feladatkörében
 

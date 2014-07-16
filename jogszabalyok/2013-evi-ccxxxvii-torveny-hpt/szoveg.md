@@ -2498,6 +2498,8 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (7) Nem jelenti az üzleti titok sérelmét, ha a Felügyelet eleget tesz a felügyeleti stressz-tesztre vonatkozó kötelezettség végrehajtására, valamint a felügyeleti stressz-teszt eredményeinek az EBH részére való továbbítására abból a célból, hogy az EBH az európai uniós stressz-tesztek eredményeit összegezve nyilvánosságra hozza.
 
+(8) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvényből (a továbbiakban: FATCA-törvény) fakadó kötelezettségek teljesítése érdekében az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
+
 #### 71. Banktitok
 
 160. § (1) Banktitok minden olyan, az egyes ügyfelekről a pénzügyi intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzügyi intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
@@ -2552,6 +2554,8 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 (7) A pénzügyi intézmény az (1)–(3) bekezdésben, valamint az 162. §-ban foglalt esetekben az adatok kiszolgáltatását – titoktartási kötelezettségére hivatkozva – nem tagadhatja meg.
 
 (8) Az MNB jogszabályban, a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
+
+(9) Az adóhatóság a FATCA-törvényből fakadó kötelezettségek teljesítése céljából az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
 
 162. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
@@ -4191,6 +4195,18 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (15) A pénzügyi intézmény és a független közvetítő fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelöli, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenti.
 
+#### 126/A. A FATCA-törvény alapján fennálló kötelezettségek
+
+288/A. § A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+288/B. § (1) Az intézmény a számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg írásban tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az Aktv. 43/B–43/C. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről,
+- c) a FATCA-törvény szerinti jelentéstételi kötelezettségéről.
+
+(2) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban tájékoztatja.
+
 ### XIV. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
 #### 127. Vegyes rendelkezések
@@ -4348,6 +4364,8 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 (2) A globálisan rendszerszinten jelentős hitelintézet tájékoztatja 2014. július 1-jétől az Európai Bizottságot a 123. § (1) bekezdés d)–f) pontjában meghatározott információkról.
 
 304. § E törvény hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő hitelintézet a 114. §-ban meghatározott követelményeknek 2015. január 1-től felel meg.
+
+304/A. § A 288/A. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 288/B. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
 #### 131. Az Európai Unió jogának való megfelelés
 

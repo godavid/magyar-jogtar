@@ -205,7 +205,7 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (4) A költségvetési szerv általános jogutóddal történő megszüntetése a vele szemben fennálló követeléseket nem teszi lejárttá.
 
-(5) A költségvetési szerv jogutód nélküli megszüntetése esetén az állami vagyonról szóló törvény (a továbbiakban: Vtv.) vagy a megszüntetésről rendelkező jogszabály, megszüntető okirat eltérő rendelkezése hiányában a költségvetési szerv megszüntetés időpontjában fennálló magánjogi jogait és kötelezettségeit – ideértve a vagyonkezelői jogot is – az alapító szerv, az Országgyűlés vagy a Kormány által alapított költségvetési szerv esetén az alapító szerv által kijelölt szerv gyakorolja és teljesíti.
+(5) A költségvetési szerv jogutód nélküli megszüntetése esetén az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) vagy a megszüntetésről rendelkező jogszabály, megszüntető okirat eltérő rendelkezése hiányában a költségvetési szerv megszüntetés időpontjában fennálló magánjogi jogait és kötelezettségeit – ideértve a vagyonkezelői jogot is – az alapító szerv, az Országgyűlés vagy a Kormány által alapított költségvetési szerv esetén az alapító szerv által kijelölt szerv gyakorolja és teljesíti.
 
 (6) A jogutód nélkül megszüntetett költségvetési szerv nem magánjogi jogai és kötelezettségei a jövőre nézve megszűnnek azzal, hogy a megszűnés napján fennálló kötelezettségek teljesítéséért és követelések beszedéséért az (5) bekezdés szerinti szerv felel.
 
@@ -213,7 +213,7 @@ meghatározott hatáskörök együttesét kell érteni.
 
 #### 9/A. Az állami tulajdonú gazdasági társaságok állami feladatellátásának központi költségvetési szerv által történő átvétele
 
-11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy az állami vagyon felügyeletéért felelős miniszter által kijelölt személy vagy szervezet tulajdonosi joggyakorlása alatt álló,
+11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy más személy vagy szervezet tulajdonosi joggyakorlása alatt álló,
 
 - a) az állam 100%-os tulajdonában lévő gazdasági társaság, vagy
 - b) az a) pont szerinti gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság
@@ -379,7 +379,7 @@ meghatározott hatáskörök együttesét kell érteni.
 (4) A központi költségvetésről szóló törvény az (1) és (2) bekezdésben foglaltakon, valamint törvény által előírt önálló fejezeteken kívül fejezetként tartalmazza
 
 - a) a Nemzeti Földalapba sorolt vagyon,
-- b) a Vtv., továbbá a Magyar Fejlesztési Bank Részvénytársaságról szóló törvény hatálya alá tartozó, a Magyar Fejlesztési Bank Zrt. rábízott vagyoni körébe tartozó vagyon,
+- b) a Vtv., továbbá a Magyar Fejlesztési Bank Részvénytársaságról szóló törvény hatálya alá tartozó, a Magyar Fejlesztési Bank Zrt. (a továbbiakban: MFB Zrt.) rábízott vagyoni körébe tartozó vagyon,
 - c) az államháztartás központi alrendszere adóssága kezelésének, és
 - d) az állam más fejezetbe nem sorolható közvetlen
 
@@ -430,7 +430,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai esetén az (1) bekezdés szerinti feladatokat a törvényben kijelölt kezelő szerv látja el.
 
-(3) Az elkülönített állami pénzalap kezelését központi költségvetési szerv vagy kivételesen köztestület, továbbá az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság vagy az általa alapított vagy megbízott szervezet láthatja el. Az elkülönített állami pénzalap kezelésének kiadásait az elkülönített állami pénzalap költségvetése az elkülönített állami pénzalapot létrehozó törvényben vagy a központi költségvetésről szóló törvényben meghatározott mértékben finanszírozhatja.
+(3) Az elkülönített állami pénzalap kezelését központi költségvetési szerv vagy kivételesen köztestület, továbbá az MFB Zrt. vagy az általa alapított vagy megbízott szervezet láthatja el. Az elkülönített állami pénzalap kezelésének kiadásait az elkülönített állami pénzalap költségvetése az elkülönített állami pénzalapot létrehozó törvényben vagy a központi költségvetésről szóló törvényben meghatározott mértékben finanszírozhatja.
 
 (4) A központi kezelésű előirányzat és a fejezeti kezelésű előirányzat esetén jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai ellátására – a tervezéssel, az előirányzatok módosításával, átcsoportosításával, valamint az éves költségvetési beszámoló jóváhagyásával kapcsolatos feladatok kivételével – kezelő szervet kijelölhet. Ha e törvény központi kezelésű előirányzat vagy fejezeti kezelésű előirányzat kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.
 
@@ -757,11 +757,18 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 #### 31. Az állami vagyonnal való gazdálkodás sajátos államháztartási szabályai
 
-45. § (1) A Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.), a Nemzeti Földalapkezelő Szervezet, a Magyar Fejlesztési Bank Zrt., és törvényben vagy az állami vagyon felügyeletéért felelős miniszter rendeletében kijelölt, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott tulajdonosi joggyakorló szervezet (a továbbiakban együtt: tulajdonosi joggyakorló szervezet) az állam nevében hitelt, kölcsönt csak a tulajdonosi joggyakorlása alatt álló gazdasági társaság részére nyújthat. A hitel, kölcsön nyújtásához, átütemezéséhez az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter előzetes jóváhagyása szükséges.
+45. § (1) Az állam nevében
 
-(2) A tulajdonosi joggyakorló szervezet az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést és támogatást – kivéve a szakmai feladatok ellátásához nyújtott támogatást – csak az állami vagyon felügyeletéért felelős miniszter jóváhagyásával nyújthat. Az állami vagyon felügyeletéért felelős miniszter a jóváhagyásról az állami támogatások versenyszempontú ellenőrzéséért felelős szervezet és az államháztartásért felelős miniszter írásos véleményének ismeretében dönt.
+- a) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.), az MFB Zrt., törvényben vagy miniszteri rendeletben kijelölt tulajdonosi joggyakorló,
+- b) az Nvt. 8. § (7) bekezdése szerinti meghatalmazott tulajdonosi joggyakorló esetén – annak kezdeményezésére – az MNV Zrt.
 
-(3) Az állami vagyonnal való gazdálkodás során az államháztartáson kívüli tulajdonosi joggyakorló szervezet saját számláján nem számolhatja el az állam nevében végzett műveletek hatását.
+hitelt, kölcsönt kizárólag a tulajdonosi joggyakorlása alatt álló gazdasági társaság részére nyújthat.
+
+(1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén az államháztartásért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter, egyéb gazdasági társaság esetén az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
+
+(2) Az (1) bekezdés a) és b) pontja szerinti tulajdonosi joggyakorló az állam tulajdonában és tulajdonosi joggyakorlása alatt álló gazdasági társaságnak az állam nevében tőkeemelést és támogatást – kivéve a szakmai feladatok ellátásához nyújtott támogatást – az állami vagyon felügyeletéért felelős miniszter, a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén a kormányzati tevékenység összehangolásáért felelős miniszter előzetes jóváhagyásával nyújthat. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős írásos véleményének ismeretében kell dönteni.
+
+(3) Az állami vagyonnal való gazdálkodás során az államháztartáson kívüli, (1) bekezdés szerinti tulajdonosi joggyakorló saját számláján nem számolhatja el az állam nevében végzett műveletek hatását.
 
 (4) Ha az államháztartás központi alrendszerébe tartozó költségvetési szerv jogszabály, vagy az MNV Zrt.-vel kötött szerződés alapján használt állami vagyon használatát, vagy az őt megillető más jog gyakorlását visszterhes szerződés alapján harmadik személynek átengedi, az ebből származó költségvetési bevétel – törvény eltérő rendelkezése hiányában – a költségvetési szervet illeti meg.
 
@@ -827,7 +834,7 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 - b) a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvényben foglalt közzétételi kötelezettségének eleget tett, és
 - c) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén átlátható szervezetnek minősül.
 
-(2)
+(2) Egyedi döntéssel költségvetési támogatás kivételesen átlátható szervezetnek nem minősülő jogi személy vagy jogi személyiséggel nem rendelkező más szervezet számára az (1) bekezdés c) pontjában meghatározott feltétel fennállása hiányában akkor is biztosítható, ha az átlátható szervezetként való elismerhetőségéhez szükséges – tulajdonosi, igazgatási vagy egyéb – intézkedések megtételét vállalja. Ebben az esetben támogatói okirat addig nem adható ki, illetve a támogatási szerződés addig nem lép hatályba, amíg a kedvezményezett nem felel meg az (1) bekezdés c) pontjában meghatározott feltételnek.
 
 (3) Az agrártámogatások kivételével a költségvetési támogatási igény benyújtásának feltételéül előírható, hogy a benyújtónak ne legyen esedékessé vált és még meg nem fizetett adótartozása – ide nem értve a helyi adókat –, valamint járulék-, illeték- vagy vámtartozása (a továbbiakban együtt: köztartozás).
 
@@ -1155,7 +1162,7 @@ kezeli.
 - b) kizárólag az államháztartás központi alrendszerében:
   - ba) az ÁKK Zrt. által állampapírokkal végzett repóügyletek,
   - bb) a Magyar Nemzeti Bankról szóló törvény alapján a Magyar Nemzeti Bank és a központi költségvetés közötti elszámolásokból a Magyar Nemzeti Bank deviza-árfolyamváltozásból származó eredményének (ideértve az eredménytartalékot is) és az értékpapírok értékesítéséből származó realizált eredményének tulajdonítható rész, előjelre való tekintet nélkül,
-  - bc) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján vállalt árfolyam-garanciából eredő, a Magyar Fejlesztési Bank és az állam közötti elszámolások előjelre való tekintet nélkül,
+  - bc) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján vállalt árfolyam-garanciából eredő, az MFB Zrt. és az állam közötti elszámolások előjelre való tekintet nélkül,
   - bd) az állam nevében a többségi állami tulajdonú gazdasági társaságnak nyújtott tulajdonosi kölcsön és annak visszatérülése, ha a kölcsön visszafizetése a kötelezett pénzügyi helyzetére vonatkozó információk – különösen a pénzügyi, számviteli kimutatások és előrejelzések – alapján a közfeladatok ellátásáért fizetendő összegen felüli központi költségvetési többlettámogatás biztosítása nélkül kellően megalapozott,
   - be) az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei, és
   - bf) a 78. § (4) bekezdése szerinti megelőlegezések és azok visszatérítése.
@@ -1603,7 +1610,7 @@ kezelésére.
 
 (2) A költségvetési év során a Kormány rendeletében meghatározott gyakorisággal időközi költségvetési jelentést és időközi mérlegjelentést kell készíteni a kincstár számára.
 
-(3) A Stabilitási tv. 2. §-a szerinti államadósság, államadósság-mutató számításához, valamint az Európai Unió felé teljesítendő évközi költségvetési és adósságállományi monitoringjelentések összeállításához – a költségvetési szerv kivételével – a (2) bekezdésben megjelölt szervezet, a tulajdonosi joggyakorló szervezet, valamint a kormányzati szektorba sorolt egyéb szervezet adatszolgáltatást teljesít az államháztartás információs rendszerébe.
+(3) A Stabilitási tv. 2. §-a szerinti államadósság, államadósság-mutató számításához, valamint az Európai Unió felé teljesítendő évközi költségvetési és adósságállományi monitoringjelentések összeállításához – a költségvetési szerv kivételével – a (2) bekezdésben megjelölt szervezet, a 45. § (1) bekezdése szerinti tulajdonosi joggyakorló, valamint a kormányzati szektorba sorolt egyéb szervezet adatszolgáltatást teljesít az államháztartás információs rendszerébe.
 
 (4) Ha a helyi önkormányzat a (2) bekezdés szerinti adatszolgáltatási kötelezettségét nem vagy késedelmesen teljesíti, a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki. A kincstár határozata tekintetében az 58. § (4) és (5) bekezdését kell alkalmazni, azzal, hogy a bíróság határozata ellen felülvizsgálatnak nincs helye.
 
