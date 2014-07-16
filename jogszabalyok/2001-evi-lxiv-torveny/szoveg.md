@@ -40,12 +40,7 @@ a következő törvényt alkotja:
 
 #### 5/C. §
 
-6. § A kulturális örökség védelmének keretében a védelem összehangolását és irányítását, ágazati felügyeletét, továbbá a kulturális örökség védelmével összefüggő feladatokat ellátó, kormányrendeletben meghatározott eljáró hatóság (a továbbiakban: hatóság) irányítását
-
-- a) a kulturális javak és az emlékhelyek tekintetében a kultúráért felelős miniszter
-- b) a régészeti örökség és a műemléki érték védelme (a továbbiakban együtt: örökségvédelem) tekintetében a régészeti örökség és a műemléki érték védelméért felelős miniszter (a továbbiakban: miniszter)
-
-látja el.
+6. § A kulturális örökség védelmének keretében a védelem összehangolását és irányítását, ágazati felügyeletét, továbbá a kulturális örökség védelmével összefüggő feladatokat ellátó, kormányrendeletben meghatározott eljáró hatóságot (a továbbiakban: hatóság) a kulturális örökség védelméért felelős miniszter (a továbbiakban: miniszter) irányítja.
 
 ### Értelmező rendelkezések
 
@@ -99,7 +94,7 @@ látja el.
 
 8. § (1) A Magyarország határain belül a föld felszínén, a földben, a vizek medrében vagy máshol rejlő vagy onnan előkerülő régészeti lelet állami tulajdon, és e törvény erejénél fogva védelem alatt áll.
 
-(2) A közgyűjteményben kulturális javakként elhelyezett régészeti leletek tulajdonjogáról az állam nevében a kultúráért felelős miniszter lemondhat régészeti gyűjtőkörrel rendelkező, nem állami fenntartású múzeumok tulajdonosai javára.
+(2) A közgyűjteményben kulturális javakként elhelyezett régészeti leletek tulajdonjogáról az állam nevében a miniszter lemondhat régészeti gyűjtőkörrel rendelkező, nem állami fenntartású múzeumok tulajdonosai javára.
 
 9. § A régészeti lelőhelyeket – a fenntartható használat elvének figyelembevételével – csak olyan mértékben lehet igénybe venni, hogy azok állománya számottevően ne csökkenjen, illetve eredeti összefüggéseik jelentősen ne károsodjanak.
 
@@ -393,7 +388,7 @@ soron kívül legfeljebb egyéves időtartamra ideiglenes védelem alá helyezhe
 
 (3) A műemléki környezet területén minden változtatást, beavatkozást a műemlék településképi, illetőleg tájképi megjelenésének és értékei érvényesülésének kell alárendelni.
 
-44. § (1) A kultúráért felelős miniszter jóváhagyása szükséges
+44. § (1) A miniszter jóváhagyása szükséges
 
 - a) az állami tulajdonban álló műemlék bármely jogcímen való átruházásához és megterheléséhez,
 - b) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
@@ -402,7 +397,7 @@ soron kívül legfeljebb egyéves időtartamra ideiglenes védelem alá helyezhe
 
 (2) Jóváhagyás hiányában a jogügylet érvénytelen.
 
-(3) Amennyiben a műemlék – a Tv. alapján – az állami tulajdon fenntartása mellett az önkormányzat ingyenes használatába került, a Tv. 27. § (4) bekezdésében foglalt körülmények megváltozása, vagy az ott megadott feltételek nem teljesítése esetén a kultúráért felelős miniszter jogosult az ingyenes használati jog felülvizsgálatára, megvonására.
+(3) Amennyiben a műemlék – a Tv. alapján – az állami tulajdon fenntartása mellett az önkormányzat ingyenes használatába került, a Tv. 27. § (4) bekezdésében foglalt körülmények megváltozása, vagy az ott megadott feltételek nem teljesítése esetén a miniszter jogosult az ingyenes használati jog felülvizsgálatára, megvonására.
 
 45. § (1) A műemlék egésze nem bontható le.
 
@@ -511,7 +506,7 @@ kulturális javakat.
 
 - a) a kivitel veszélyezteti a kulturális érdekeket vagy a tárgy biztonságát;
 - b) a kivitellel érintett tárgyra nem vonatkozik állami garanciavállalás, biztosítási szerződés vagy ezeknek megfelelő egyéb kötelezettségvállalás;
-- c) külön jogszabályban meghatározott tárgyak esetén a kultúráért felelős miniszter a kivitelhez nem adja hozzájárulását.
+- c) külön jogszabályban meghatározott tárgyak esetén a miniszter a kivitelhez nem adja hozzájárulását.
 
 (4) Az ideiglenes kiviteli engedély határozott időre, legfeljebb a kivitellel érintett tárgyra vonatkozó állami garancia, biztosítási szerződés vagy ezeknek megfelelő egyéb kötelezettségvállalás időtartamára adható.
 
@@ -580,7 +575,7 @@ kulturális javakat.
 
 (4) A (2) és (2a) bekezdésben meghatározott állami vagyon tulajdonjogának és vagyonkezelési jogának ingatlan-nyilvántartásba történő bejegyzése iránt a Magyar Nemzeti Vagyonkezelő Zrt. intézkedik.
 
-61/D. § (1) A kultúráért felelős miniszter az emlékhelyekkel összefüggésben különösen az alábbi feladatokat látja el:
+61/D. § (1) A miniszter az emlékhelyekkel összefüggésben különösen az alábbi feladatokat látja el:
 
 - a) érvényesíti az emlékhelyekkel kapcsolatos érdekeket az emlékhelyeket érintő jogszabályok előkészítése során, illetve átfogó tervezési programokban;
 - b) nemzetközi megállapodások keretében együttműködik a határon túli helyszínek esetén az érintett állam felelős miniszterével;
@@ -639,7 +634,7 @@ kulturális javakat.
 (2) A Kiemelt Nemzeti Emlékhely Bizottság elnöke az Országgyűlés elnöke, tagjai
 
 - a) a Bizottság által delegált személy,
-- b) a kultúráért felelős miniszter által delegált személy,
+- b) a miniszter által delegált személy,
 - c) az Országgyűlés kulturális ügyekkel foglalkozó bizottsága által delegált személy, valamint
 - d) a Házbizottság által jelölt személy.
 
@@ -695,7 +690,7 @@ kulturális javakat.
 
 ### 6. Fejezet — EURÓPAI ÖRÖKSÉG CÍM
 
-61/L. § Az Európai Örökség cím elnyerésére pályázó helyszíneknek az Európai Örökség címre vonatkozó európai uniós fellépés létrehozásáról szóló, 2011. november 16-i 1194/2011/EU európai parlamenti és tanácsi határozatban meghatározott célkitűzésekre és kritériumokra figyelemmel történő nemzeti szintű előzetes kiválasztásáról a kultúráért felelős miniszter gondoskodik.
+61/L. § Az Európai Örökség cím elnyerésére pályázó helyszíneknek az Európai Örökség címre vonatkozó európai uniós fellépés létrehozásáról szóló, 2011. november 16-i 1194/2011/EU európai parlamenti és tanácsi határozatban meghatározott célkitűzésekre és kritériumokra figyelemmel történő nemzeti szintű előzetes kiválasztásáról a miniszter gondoskodik.
 
 ## III. RÉSZ — A HATÓSÁG FELADATAI
 
@@ -733,7 +728,7 @@ kulturális javakat.
 - c) gyakorolja az állam e törvényben, vagy e törvény felhatalmazása alapján kiadott jogszabályban meghatározott elővásárlási jogát;
 - d) vita esetén dönt arról, hogy valamely tárgy vagy jelenség a kulturális örökség körébe tartozik-e;
 - e) a természetvédelmi őrszolgálat közreműködésével gondoskodik a régészeti örökség védelmével kapcsolatos feladatokról;
-- f) ellátja a miniszter vagy a kulturális javak esetében a kultúráért felelős miniszter által – eseti vagy állandó jelleggel – meghatározott egyéb feladatokat.
+- f) ellátja a miniszter által – eseti vagy állandó jelleggel – meghatározott egyéb feladatokat.
 
 64/A. § A kulturális örökség védelmével kapcsolatos tudományos feladatok ellátásában a kormányrendeletben kijelölt szervek vesznek részt.
 
@@ -794,7 +789,7 @@ kulturális javakat.
 - c) a védetté nyilvánított régészeti lelőhelyek,
 - d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek és történeti tájak központi, közhiteles nyilvántartását, amely tartalmazza az a)–d) pontokban meghatározottakkal összefüggő, az örökségvédelem szempontjából fontos adatokat.
 
-(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet
+(2) A miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet
 
 - a) a védetté nyilvánított kulturális javakról,
 - b) a kiviteli engedélyekről és igazolásokról,
@@ -1014,9 +1009,11 @@ kulturális javakat.
 - l)
 - m)
 - n) a műemléki értékek védetté nyilvánítását és a védettség megszüntetését;
-- o)
-- p)
-- q)
+- o) kulturális javak védetté nyilvánítására és a védettség megszüntetésére vonatkozó szabályokat,
+- p) a kulturális javakkal kapcsolatos hatósági eljárás részletes szabályait,
+- q) a kulturális javak nyilvántartásának szabályait és – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
+- r) az adópolitikáért felelős miniszterrel egyetértésben a kulturális javak kivitelének engedélyezésére irányuló eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének részletes szabályait,
+- s) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
 
 (3) A miniszter a (2) bekezdés j) pontjában kapott, az igazgatási szolgáltatási díjra vonatkozó szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
 
@@ -1024,16 +1021,13 @@ kulturális javakat.
 
 (4) A miniszter a (2) bekezdés i) pontjában kapott szabályozási jogkörét természeti vagy védett természeti területen, továbbá védett természeti értékek esetében a természetvédelemért felelős miniszterrel egyetértésben gyakorolja.
 
-(5) A miniszter a (2) bekezdés i) és n) pontjában kapott szabályozási jogkörét az állam elővásárlási jogára és az örökségvédelmi bírságra vonatkozó rendelkezések vonatkozásában a kultúráért felelős miniszterrel egyetértésben gyakorolja.
+(5)
 
 (6) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza:
 
-- a) kulturális javak védetté nyilvánítására és a védettség megszüntetésére vonatkozó szabályokat,
-- b) a kulturális javakkal kapcsolatos hatósági eljárás részletes szabályait,
-- c) a kulturális javak nyilvántartásának szabályait és – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
+- a)–c)
 - d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
-- e) az adópolitikáért felelős miniszterrel egyetértésben a kulturális javak kivitelének engedélyezésére irányuló eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének részletes szabályait,
-- f) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
+- e)–f)
 
 ### Az Európai Unió jogának való megfelelés
 

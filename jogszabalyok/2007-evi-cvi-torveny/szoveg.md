@@ -6,7 +6,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) E törvény szabályozza a Magyar Állam tulajdonában álló vagyon (a továbbiakban: állami vagyon) feletti tulajdonosi joggyakorlás módját és szervezetét, valamint e vagyonnal való gazdálkodást.
+1. § (1) E törvény szabályozza az állam tulajdonában álló vagyon (a továbbiakban: állami vagyon) feletti tulajdonosi joggyakorlás módját és szervezetét, valamint e vagyonnal való gazdálkodást.
 
 (2) E törvény alkalmazásában állami vagyonnak minősül:
 
@@ -32,31 +32,39 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (6a) E törvény hatálya alá tartozik a köztartozások fejében állami tulajdonba kerülő vagyon (adó-, vám-, illeték, egyéb állami támogatás, ideértve az elkülönített állami pénzalapból finanszírozott állami feladatokkal kapcsolatos állami követeléseket és az állami tulajdonban lévő pénzügyi eszközöket is). E vagyon felett – ideértve a 2010. június 17. napján és ezt követően a Nemzeti Adó- és Vámhivatal követelése fejében átadott vagyont is – az államot megillető tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
-(7) E törvénynek az állami vagyon megszerzésére, elidegenítésére vagy az állami vagyonnal való más rendelkező cselekményre vonatkozó szabályait nem kell alkalmazni, ha a felsoroltakra törvény vagy a Magyar Állam által kötött nemzetközi szerződés eltérően rendelkezik.
+(7) E törvénynek az állami vagyon megszerzésére, elidegenítésére vagy az állami vagyonnal való más rendelkező cselekményre vonatkozó szabályait nem kell alkalmazni, ha a felsoroltakra törvény vagy az állam által kötött nemzetközi szerződés eltérően rendelkezik.
 
 2. § (1) A tulajdonosi joggyakorlás és a vagyongazdálkodás feladata: az állami vagyon rendeltetésének megfelelő – az állami feladatok ellátásához, a társadalmi szükségletek kielégítéséhez, valamint a Kormány gazdaságpolitikája megvalósításának elősegítéséhez szükséges, egységes elveken alapuló, önálló ágazatként megjelenő – hatékony, költségtakarékos, értékmegőrző, értéknövelő felhasználásának biztosítása (közvetlen felhasználás), illetve közvetett hasznosítása (beleértve a vagyoni kör változását eredményező értékesítést), valamint az állami vagyon gyarapítása (ideértve a vagyoni kör bővítését is).
 
-(2) A központi költségvetési szerv – ha törvény eltérően nem rendelkezik – önálló tulajdonjoggal nem rendelkezik, bármely dolog tulajdonjogát, gazdálkodó szervezet részesedését, vagy valamely vagyoni értékű jogot a Magyar Állam javára szerez meg.
+(2) A központi költségvetési szerv – ha törvény eltérően nem rendelkezik – önálló tulajdonjoggal nem rendelkezik, bármely dolog tulajdonjogát, gazdálkodó szervezet részesedését, vagy valamely vagyoni értékű jogot az állam javára szerez meg.
 
-3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként:
+3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként – ha törvény vagy miniszteri rendelet eltérően nem rendelkezik – az MNV Zrt. gyakorolja.
 
-- a) ha törvény vagy miniszteri rendelet eltérően nem rendelkezik, az MNV Zrt.,
-- b) törvényben kijelölt személy vagy
-- c) az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) által rendeletben kijelölt személy
+(1a)
+
+(1b)
+
+(2) A tulajdonosi jogokat
+
+- a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság és a Magyar Posta Zártkörűen Működő Részvénytársaság felett a kormányzati tevékenység összehangolásáért felelős miniszter,
+- b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
+- c) az Egészségbiztosítási Alap ellátási vagyona tekintetében az egészségbiztosításért felelős miniszter,
+- d) a Nyugdíjbiztosítási Alap ellátási vagyona tekintetében a nyugdíjpolitikáért felelős miniszter
 
 gyakorolja.
 
-(1a) Azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a tulajdonosi jogokat a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint gyakorolja.
+(2a) A 2. §-ban meghatározott célok hatékonyabb elérése érdekében – e törvény keretei között – az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját
 
-(1b) Az Egészségbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat az egészségbiztosításért felelős miniszter, a Nyugdíjbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat a nyugdíjpolitikáért felelős miniszter gyakorolja.
+- a) a kormányzati tevékenység összehangolásáért felelős miniszter a (2) bekezdés a) pontjában meghatározott gazdasági társaságok tekintetében,
+- b) a miniszter az MNV Zrt. tulajdonosi joggyakorlásába tartozó állami vagyoni kör tekintetében
 
-(2) A miniszter e törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával – az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül kijelölheti.
+az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül a joggyakorlás szabályainak meghatározásával meghatározott időtartamra rendeletben kijelölheti.
 
-(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2) bekezdés alapján a Magyar Állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
+(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
 
-(4) Az állami vagyon feletti – a 3. § (1)–(2) bekezdése szerinti – tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
+(4) Az állami vagyon feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
-(5) A 3. § (1) bekezdés a) pontjában és a 3. § (1b) bekezdésében meghatározott tulajdonosi joggyakorlók a rábízott vagyon körében a miniszter jóváhagyásával köthetnek olyan megállapodást, melynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben résztvevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
+(5) Az MNV Zrt. és a 3. § (2) bekezdés c) és d) pontjában meghatározott tulajdonosi joggyakorlók a rábízott vagyon körében a miniszter jóváhagyásával köthetnek olyan megállapodást, melynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben résztvevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
 
 4. § A miniszter az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj mértékét rendeletben állapítja meg.
 
@@ -77,10 +85,10 @@ gyakorolja.
 17. § (1) Az MNV Zrt.:
 
 - a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
-- b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a 3. § (1) bekezdése alapján a miniszter által vagy külön törvény alapján gyakorolt, valamint a 3. § (2) bekezdése alapján jogszabály útján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
+- b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a törvény vagy miniszteri rendelet alapján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
 - c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
 - d) rendszeresen ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelő Bizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
-- e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli a Magyar Államot,
+- e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
 - f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
 - g) közreműködik a Nemzeti Vagyongazdálkodási Irányelvek és az Éves Nemzeti Vagyongazdálkodási Program előkészítésében,
 - h) az állami feladatok ellátása során a költségvetési szervek, illetve az egyéb, az állami vagyont használó természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek részére a működésükhöz szükséges állami tulajdon használatához szükséges szolgáltatásokat (üzemeltetés, beszerzés) nyújt.
@@ -89,17 +97,17 @@ gyakorolja.
 
 (3) Az állami vagyon feletti tulajdonosi joggyakorló köteles a Kormány rendeletében meghatározott adattartalommal és módon adatszolgáltatást nyújtani az MNV Zrt. részére.
 
-18. § (1) Az MNV Zrt. a Magyar Állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapító okiratának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
+18. § (1) Az MNV Zrt. az állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapító okiratának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
 (2) Az MNV Zrt. alapítására és működésére – ha e törvény eltérően nem rendelkezik – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szabályait kell alkalmazni.
 
 (3) Az MNV Zrt. alapító okiratát és annak módosításait a Magyar Közlönyben közzé kell tenni.
 
-19. § (1) Az MNV Zrt.-ben a Magyar Állam részvényesi jogait – az e törvényben meghatározott kivételekkel – a miniszter gyakorolja. Az MNV Zrt. működése során a közgyűlés jogai a részvényesi jogok gyakorlóját illetik meg.
+19. § (1) Az MNV Zrt.-ben az állam részvényesi jogait – az e törvényben meghatározott kivételekkel – a miniszter gyakorolja. Az MNV Zrt. működése során a közgyűlés jogai a részvényesi jogok gyakorlóját illetik meg.
 
 (2) Az MNV Zrt. működésének ellenőrzését a Felügyelő Bizottság látja el. A Felügyelő Bizottságra a Ptk. 3:124.–3:127. §-ának rendelkezéseit nem kell alkalmazni.
 
-(3) A Kormány a Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek működéséről, az állami vagyon állományának alakulásáról, az állami vagyonnal való gazdálkodás folyamatairól évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
+(3) A Kormány az állam nevében tulajdonosi jogokat gyakorló szervezetek működéséről, az állami vagyon állományának alakulásáról, az állami vagyonnal való gazdálkodás folyamatairól évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
 
 ### Az MNV Zrt. szervezete
 
@@ -142,7 +150,7 @@ gyakorolja.
 
 (8) A részvényesi jogokat gyakorló miniszter az Igazgatóság részére írásban utasítást adhat, amelyet az végrehajtani köteles, de ez esetben a tagok mentesülnek a (9)–(10) bekezdésben foglalt felelősség alól.
 
-(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
+(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
 
 (10) Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
@@ -212,9 +220,9 @@ gyakorolja.
 
 (4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelő Bizottság írásbeli jelentésének birtokában dönthet.
 
-(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapító okiratba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti a Magyar Állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
+(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapító okiratba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
 
-(6) A Felügyelő Bizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
+(6) A Felügyelő Bizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
 (7) A Felügyelő Bizottság a működéséről évente, a tárgyévet követő év augusztus 31. napjáig beszámolót készít a miniszter részére. A beszámolót a Felügyelő Bizottság az Állami Számvevőszéknek is megküldi.
 
@@ -235,7 +243,7 @@ gyakorolja.
 
 (4) Nem vonatkozik a (3) bekezdés arra az esetre, ha az adásvételi szerződés megkötésére jogszabályon alapuló elővásárlási jog alapján kerül sor.
 
-(5) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelő bizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt a Magyar Államtól társasági részesedést szerzett.
+(5) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelő bizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt az államtól társasági részesedést szerzett.
 
 ### Az MNV Zrt. munkaszervezete
 
@@ -371,19 +379,19 @@ gyakorolja.
 
 ### Állami tulajdonú gazdasági társaságokés más gazdálkodó szervezetek
 
-29. § (1) A Magyar Állam – a törvényes képviseletét ellátó szerv útján – csak olyan gazdálkodó szervezetben vehet részt, illetve olyan gazdálkodó szervezetet alapíthat, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
+29. § (1) Az állam – a törvényes képviseletét ellátó szerv útján – csak olyan gazdálkodó szervezetben vehet részt, illetve olyan gazdálkodó szervezetet alapíthat, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
 
 (2)
 
-(3) Gazdálkodó szervezet alapítására, illetve abban tulajdonosi (tagsági, részvényesi) jogok gyakorlására – ha törvény, illetőleg a miniszter a 3. § (2) bekezdése szerint eltérően nem rendelkezik – a Magyar Állam nevében az MNV Zrt. jogosult. Gazdálkodó szervezet alapítása során történő eljárásra az MNV Zrt. más személynek, szervezetnek meghatalmazást adhat.
+(3) Gazdálkodó szervezet alapítására, illetve abban tulajdonosi (tagsági, részvényesi) jogok gyakorlására – ha törvény vagy a 3. § (2a) bekezdése szerinti miniszteri rendelet eltérően nem rendelkezik – az állam nevében az MNV Zrt. jogosult. Gazdálkodó szervezet alapítása során történő eljárásra az MNV Zrt. más személynek, szervezetnek meghatalmazást adhat.
 
-(4) A gazdálkodó szervezet cégbejegyzése során az eljáró cégbíróság vizsgálni köteles, hogy a kérelmező jogosult-e Magyar Állam képviseletére.
+(4) A gazdálkodó szervezet cégbejegyzése során az eljáró cégbíróság vizsgálni köteles, hogy a kérelmező jogosult-e az állam képviseletére.
 
-(5) Központi költségvetési szerv vagy más személy állami tulajdonú gazdálkodó szervezetben az állam nevében tulajdonosi (tagsági, részvényesi stb.) jogokat törvény, illetve a miniszter 3. § (2) bekezdése szerinti rendelete vagy az MNV Zrt.-vel kötött szerződés alapján gyakorolhat.
+(5) Központi költségvetési szerv vagy más személy állami tulajdonú gazdálkodó szervezetben az állam nevében tulajdonosi (tagsági, részvényesi stb.) jogokat törvény vagy a 3. § (2a) bekezdése szerinti miniszteri rendelet vagy az MNV Zrt.-vel kötött szerződés alapján gyakorolhat.
 
-(6) A Magyar Fejlesztési Bank Zrt. felett a tulajdonosi jogokat e törvény és a Magyar Fejlesztési Bankról szóló külön törvény alapján a miniszter gyakorolja.
+(6)
 
-30. § (1) A Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek a tulajdonosi joggyakorlásuk alá tartozó gazdasági társaságoknál és más gazdálkodó szervezeteknél kötelesek érvényesíteni a cégvezetés felelősségét, valamint a közérdek érvényesülését biztosító vagyongazdálkodást.
+30. § (1) Az állam nevében tulajdonosi jogokat gyakorló szervezetek a tulajdonosi joggyakorlásuk alá tartozó gazdasági társaságoknál és más gazdálkodó szervezeteknél kötelesek érvényesíteni a cégvezetés felelősségét, valamint a közérdek érvényesülését biztosító vagyongazdálkodást.
 
 (2) Az állam nevében tulajdonosi jogokat gyakorló szervezet közérdekből, kivételesen indokolt esetben a lakosság alapvető közszolgáltatásokkal való ellátása érdekében olyan – követelésvásárlással összefüggő – jogügyletet is köthet, amelyben a jogügylet ellenértékének meghatározásakor a lakosság ellátásbiztonsághoz fűződő érdekét is figyelembe veszi.
 
@@ -430,7 +438,7 @@ lehet végezni.
 
 (2) Mellőzni lehet a versenyeztetést:
 
-- a) a magyar állam tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén,
+- a) az állam tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén,
 - b) állami vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
 - c) nyilvános vételi ajánlat keretében történő eladási jog gyakorlása esetén,
 - d) kisebbségi állami befolyás alatt álló részvénytársaság részvényeinek értékesítése esetén, ha a befolyásszerző sikeres nyilvános vagy önkéntes vételi ajánlatának lezárását követően vételi jogát gyakorolja,
@@ -736,7 +744,7 @@ lép.
 
 (3) Az ÁPV Zrt. munkavállalóinak az MNV Zrt.-nél történő továbbfoglalkoztatása munkáltatói jogutódlásnak minősül.
 
-(4) Az ÁPV Zrt. saját vagyona – az MNV Zrt. működéséhez szükséges tárgyi eszközök (műszaki berendezés, gép, felszerelés stb.) kivételével – a társaság megszűnésével a Magyar Államra száll. Az MNV Zrt. működéséhez szükséges tárgyi eszközök az MNV Zrt. saját vagyonába kerülnek.
+(4) Az ÁPV Zrt. saját vagyona – az MNV Zrt. működéséhez szükséges tárgyi eszközök (műszaki berendezés, gép, felszerelés stb.) kivételével – a társaság megszűnésével az államra száll. Az MNV Zrt. működéséhez szükséges tárgyi eszközök az MNV Zrt. saját vagyonába kerülnek.
 
 61. § (1) A Kincstári Vagyoni Igazgatóság (a továbbiakban: KVI) 2007. december 31-ei hatállyal megszűnik, jogai és kötelezettségei ezen időponttól – a 66. § (1) bekezdésében megjelölt feladat kivételével – az MNV Zrt.-re szállnak. A KVI 66. § (1) bekezdésben foglalt feladata a kincstárra száll. A jogok és kötelezettségek átszállása nem minősül a KVI által kötött szerződések módosításának.
 
@@ -756,11 +764,11 @@ lép.
 
 65. § (1) Ahol az ingatlan-nyilvántartás az ÁPV Zrt.-t, a KVI-t mint tulajdonosi joggyakorlót, illetve vagyonkezelőt tünteti fel, ezen az MNV Zrt.-t kell érteni.
 
-(2) Ha az ingatlan-nyilvántartási változásbejegyzési kérelem a Magyar Állam tulajdonjogát nem érinti, az ingatlanügyi hatóság a kérelem elintézése során, azzal egyidejűleg az (1) bekezdés szerinti változást is átvezeti az ingatlan-nyilvántartásban. Más változás hiányában az ingatlanügyi hatóság az MNV Zrt., illetve a szerződéses vagyonkezelő legkésőbb 2009. december 31. napjáig előterjesztett kérelmére gondoskodik az (1) bekezdés szerinti változás átvezetéséről.
+(2) Ha az ingatlan-nyilvántartási változásbejegyzési kérelem az állam tulajdonjogát nem érinti, az ingatlanügyi hatóság a kérelem elintézése során, azzal egyidejűleg az (1) bekezdés szerinti változást is átvezeti az ingatlan-nyilvántartásban. Más változás hiányában az ingatlanügyi hatóság az MNV Zrt., illetve a szerződéses vagyonkezelő legkésőbb 2009. december 31. napjáig előterjesztett kérelmére gondoskodik az (1) bekezdés szerinti változás átvezetéséről.
 
-66. § (1) Más személy tulajdonában lévő ingatlanon a Magyar Állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételére – ha jogszabály eltérően nem rendelkezik – az állam nevében a kincstár jogosult.
+66. § (1) Más személy tulajdonában lévő ingatlanon az állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételére – ha jogszabály eltérően nem rendelkezik – az állam nevében a kincstár jogosult.
 
-(2) A Magyar Államot megillető elővásárlási vagy vételi jog gyakorlására – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az MNV Zrt. jogosult.
+(2) Az államot megillető elővásárlási vagy vételi jog gyakorlására – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az MNV Zrt. jogosult.
 
 67. § (1) Az állami tulajdonban lévő ingatlanok pártok által történő használatáról szóló 2000. évi XCIV. törvény, valamint az állam tulajdonában és pártok használatában álló ingatlanok hasznosításának rendezéséről szóló 2000. évi XCV. törvény alapján fennálló ingyenes ingatlanhasználati jog e törvény erejénél fogva kártalanítás nélkül megszűnik, azzal hogy az ingyenes ingatlanhasználati jog helyébe a (2)–(6) bekezdésekben, valamint a 68. §-ban szabályozott jogok lépnek. A megszűnt ingyenes ingatlanhasználati jog tárgyát képező ingatlanok hasznosításáról az MNV Zrt. – a (2)–(6) bekezdésben foglalt kivételekkel – e törvény általános szabályai szerint gondoskodik.
 
@@ -813,7 +821,7 @@ lép.
 
 71. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) az állami vagyon és az ahhoz kapcsolódó bevételek és kiadások, az állami vagyonon végzett értéknövelő beruházások nyilvántartásának, valamint a vagyonnal való elszámolásnak a szabályait, a Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek könyvvezetésének és beszámoló készítésének sajátosságait,
+- a) az állami vagyon és az ahhoz kapcsolódó bevételek és kiadások, az állami vagyonon végzett értéknövelő beruházások nyilvántartásának, valamint a vagyonnal való elszámolásnak a szabályait, az állam nevében tulajdonosi jogokat gyakorló szervezetek könyvvezetésének és beszámoló készítésének sajátosságait,
 - b) az állami vagyonról vezetett nyilvántartás, és az állami vagyont használó személyek ezzel összefüggő adatszolgáltatási kötelezettségének szabályait,
 - c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon hasznosítására vonatkozó más szerződésekre vonatkozó részletes szabályokat,
 - d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
@@ -825,6 +833,8 @@ lép.
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 - a) az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj megállapításának elveit, módszereit és mértékét,
-- b) a 3. § (2) bekezdése szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát.
+- b) a 3. § (2a) bekezdés b) pontja szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát.
+
+(3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy a 3. § (2a) bekezdés a) pontja szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát rendeletben határozza meg.
 
 ### Melléklet a 2007. évi CVI. törvényhez

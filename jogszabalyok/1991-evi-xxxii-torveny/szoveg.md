@@ -81,7 +81,7 @@ Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és
 
 6. § (1) Ha az érdekeltek közvetlen tárgyalása alapján a megállapodásra nem került sor, a bizottság határoz az ingatlannak a 4. § (1) bekezdésében említett jegyzékbe történő felvételéről. A bizottság határozatának tartalmaznia kell, hogy az átadáshoz előreláthatólag milyen pénzügyi fedezet, cserehelyiség szükséges, és arról ki gondoskodik. A bizottság figyelembe veszi az érdekeltek (az egyház és az ingatlan tulajdonosa, kezelője, használója) véleményét, és törekszik valamennyi érdekelt számára megfelelő megoldás kialakítására.
 
-(2) A bizottsági döntéshez be kell szerezni az ingatlan jelenlegi és tervezett használata szerint érdekelt miniszter, valamint műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kultúráért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
+(2) A bizottsági döntéshez be kell szerezni az ingatlan jelenlegi és tervezett használata szerint érdekelt miniszter, valamint műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kulturális örökség védelméért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
 
 (3) A bizottság ülésére az igényeket a miniszter megbízottja terjeszti elő. Az előterjesztést megelőzően az érdekeltek jogosultak álláspontjukat nyilatkozatban rögzíteni. Az előterjesztésben ismertetni kell az 5. § szerinti eljárás lényegét, és csatolni kell az előterjesztéshez az érdekeltek nyilatkozatait.
 
@@ -162,7 +162,7 @@ Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és
 
 16. § (1) A helyi önkormányzatokról szóló 1990. évi LXV. törvény 107. §-ának (3) bekezdése alapján Kormány általános hatáskörű területi államigazgatási szervének döntése, illetőleg külön törvény alapján nem kerülhet a helyi önkormányzat tulajdonába az az ingatlan, amelyet e törvényben említett jegyzék (7. §) szerint egyházi tulajdonba kell adni.
 
-(2) Azok az állami tulajdonú ingatlanok, amelyekre e törvény szerint az elidegenítési és terhelési tilalmat az ingatlannyilvántartásba bejegyezték, de a jegyzékben nem szerepelnek, a miniszter hozzájárulásával kerülhetnek — az (1) bekezdésben említett módon — a helyi önkormányzat tulajdonába. A döntéshez be kell szerezni az érdekelt egyház, továbbá műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kultúráért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
+(2) Azok az állami tulajdonú ingatlanok, amelyekre e törvény szerint az elidegenítési és terhelési tilalmat az ingatlannyilvántartásba bejegyezték, de a jegyzékben nem szerepelnek, a miniszter hozzájárulásával kerülhetnek — az (1) bekezdésben említett módon — a helyi önkormányzat tulajdonába. A döntéshez be kell szerezni az érdekelt egyház, továbbá műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kulturális örökség védelméért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
 
 (3) A jogerős bírósági határozat meghozataláig nem kerülhetnek a helyi önkormányzat tulajdonába az (1) bekezdésben említett módon azok az ingatlanok, amelyek esetén a 12. § (2) bekezdése alapján hozott határozat bírósági felülvizsgálatát kérték.
 

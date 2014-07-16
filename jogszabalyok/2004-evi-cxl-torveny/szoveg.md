@@ -2355,7 +2355,7 @@ teljesíti.
 
 (4) Ha a külföldi határozat végrehajtható, a megkeresést a végrehajtás foganatosítása céljából meg kell küldeni a végrehajtás foganatosítására hatáskörrel rendelkező illetékes szervhez.
 
-(5) Ha a magyar jog szerint hatáskörrel rendelkező hatóság nincs, és a bíróság hatásköre sem állapítható meg, a kijelölt hatóság a közigazgatás-szervezésért felelős miniszter állásfoglalását kéri. A közigazgatás-szervezésért felelős miniszter az érintett miniszterrel vagy központi államigazgatási szerv vezetőjével egyeztetett állásfoglalását tizenöt napon belül megküldi a kijelölt hatósághoz. A külpolitikáért felelős miniszter az ügyfajta tekintetében feladatkörrel rendelkező miniszterrel egyetértésben tizenöt napon belül nyilatkozik a viszonosságról. A kijelölt hatóság a megkeresést átteszi az állásfoglalásban meghatározott hatósághoz.
+(5) Ha a magyar jog szerint hatáskörrel rendelkező hatóság nincs, és a bíróság hatásköre sem állapítható meg, a kijelölt hatóság az igazságügyért felelős miniszter állásfoglalását kéri. Az igazságügyért felelős miniszter az érintett miniszterrel vagy központi államigazgatási szerv vezetőjével egyeztetett állásfoglalását tizenöt napon belül megküldi a kijelölt hatósághoz. A külpolitikáért felelős miniszter az ügyfajta tekintetében feladatkörrel rendelkező miniszterrel egyetértésben tizenöt napon belül nyilatkozik a viszonosságról. A kijelölt hatóság a megkeresést átteszi az állásfoglalásban meghatározott hatósághoz.
 
 ### Magyar közigazgatási hatóság döntésének külföldön történő végrehajtása
 
@@ -2870,21 +2870,21 @@ kell érteni.
 - g) a 15. § (5) bekezdésében meghatározott szervezeteknek az eljárásba való bekapcsolódásuk érdekében vezetett elektronikus adatbázis létrehozására, vezetésére és az adatbázis alapján történő értesítésre vonatkozó szabályokat,
 - h) az eljárás irataiban lévő személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratokról való másolat készítéséért fizetendő költségtérítés mértékét és a költségtérítés megfizetésének szabályait.
 
-(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közigazgatási hatósági eljárásban közreműködő hatósági közvetítők és tolmácsok, az államháztartásért felelős miniszterrel, a társadalmi esélyegyenlőség előmozdításért felelős miniszterrel, valamint a társadalmi felzárkózásért felelős miniszterrel egyetértésben a jeltolmácsok díjazására vonatkozó szabályokat.
+(2) Felhatalmazást kap az igazságügyért felelős miniszter arra, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közigazgatási hatósági eljárásban közreműködő hatósági közvetítők és tolmácsok, az államháztartásért felelős miniszterrel, valamint a társadalmi felzárkózásért felelős miniszterrel egyetértésben a jeltolmácsok díjazására vonatkozó szabályokat.
 
 (3) Felhatalmazást kap
 
 - a)
 - b)–c)
-- d) a közigazgatás-fejlesztésért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével rendeletben állapítsa meg a tanú és a hatósági tanú által felszámítható költségekre vonatkozó részletes szabályokat,
-- e) a közigazgatás-fejlesztésért felelős miniszter, hogy rendeletben állapítsa meg a közigazgatási hatósági eljárás során lefoglalt dolgok tárolásának és értékesítésének részletes szabályait,
-- f) a közigazgatás-fejlesztésért felelős miniszter, hogy rendeletben állapítsa meg a hatósági letét részletes szabályait.
+- d) az igazságügyért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével rendeletben állapítsa meg a tanú és a hatósági tanú által felszámítható költségekre vonatkozó részletes szabályokat,
+- e) az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg a közigazgatási hatósági eljárás során lefoglalt dolgok tárolásának és értékesítésének részletes szabályait,
+- f) az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg a hatósági letét részletes szabályait.
 
 (4) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy rendeletben határozzák meg azon jogszabályi rendelkezések körét, amelyek megsértése esetén a 94. § (2) bekezdés b) pontja alkalmazásának van helye.
 
-(5) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy a közérdekű munka végrehajtásának, a közérdekű munka foglalkoztatói nyilvántartás részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének, a közérdekű munka foglalkoztatói nyilvántartását vezető szerv által teljesített adatszolgáltatás rendjének részletes szabályait – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben – állapítsa meg.
+(5) Felhatalmazást kap az igazságügyért felelős miniszter arra, hogy a közérdekű munka végrehajtásának, a közérdekű munka foglalkoztatói nyilvántartás részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének, a közérdekű munka foglalkoztatói nyilvántartását vezető szerv által teljesített adatszolgáltatás rendjének részletes szabályait – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben – állapítsa meg.
 
-(6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy – a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások használatával, igénybevételével, működtetésével kapcsolatos díjak mértékét, valamint a díjak viselésével, megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat.
+(6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy – a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, az igazságügyért felelős miniszterrel, az informatikáért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások használatával, igénybevételével, működtetésével kapcsolatos díjak mértékét, valamint a díjak viselésével, megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat.
 
 174/A. § (1) Felhatalmazást kap a Kormány, hogy rendeletben a közigazgatási hatósági eljárásokban
 
@@ -2932,9 +2932,9 @@ kell érteni.
 - f) az elektronikus ügyintézési szolgáltató regisztrációjának részletes szabályait,
 - g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.
+(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel és az igazságügyért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.
 
-(5) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az elektronikus ügyintézési szolgáltatás bejelentéséért, engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(5) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az elektronikus ügyintézési szolgáltatás bejelentéséért, engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat az adópolitikáért felelős miniszterrel és az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 176. §
 

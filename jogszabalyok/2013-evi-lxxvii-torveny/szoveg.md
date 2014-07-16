@@ -436,7 +436,7 @@ vonatkozó adatokat.
 
 (12) A hatóság az ellenőrzése során a támogatással összefüggésben tapasztalt jogszabálysértésről, szabálytalanságról – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésről szóló fejezetében foglaltak alapján – értesíti a támogató szervet a szükséges intézkedések megtétele céljából.
 
-(13) A hatóság az 1. § (2) bekezdés a) pontjában meghatározott képzések gyakorlati képzési részére vonatkozó ellenőrzési tevékenységét – amennyiben a gyakorlati képzés nem a felnőttképzést folytató intézményben valósul meg – a gyakorlati képzés helye szerint illetékes területi kamara, szakmai kamara működése esetén a szakmai kamara, a vidékfejlesztési miniszter felelősségébe tartozó szakképesítés megszerzésére felkészítő képzés esetén a területi agrárkamara bevonásával látja el.
+(13) A hatóság az 1. § (2) bekezdés a) pontjában meghatározott képzések gyakorlati képzési részére vonatkozó ellenőrzési tevékenységét – amennyiben a gyakorlati képzés nem a felnőttképzést folytató intézményben valósul meg – a gyakorlati képzés helye szerint illetékes területi kamara, szakmai kamara működése esetén a szakmai kamara, az agrárpolitikáért felelős miniszter felelősségébe tartozó szakképesítés megszerzésére felkészítő képzés esetén a területi agrárkamara bevonásával látja el.
 
 (14) A felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények további eseteit, valamint az engedéllyel rendelkező intézmények ellenőrzésére vonatkozó részletes szabályokat kormányrendelet határozza meg.
 

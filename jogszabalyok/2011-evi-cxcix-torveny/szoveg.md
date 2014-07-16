@@ -328,28 +328,28 @@ terjed ki.
 
 ### III. Fejezet — KÖZSZOLGÁLATI SZEMÉLYZETI IGAZGATÁS
 
-### A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter
+### A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a közszolgálati életpálya kidolgozásáért felelős miniszter
 
 26. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felel a Kormány közigazgatási személyzeti politikájának érvényesítésért. E feladatkörében
 
 - a) összehangolja, koordinálja a közigazgatás szervek személyzeti tevékenységét,
 - b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gondoskodik azok megvalósításáról.
 
-(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter módszertani koordinációs feladatkörében támogatást nyújt a közszolgálatra vonatkozó szabályozás egységes alkalmazásának elősegítésére, a feladatok végrehajtásának összehangolására.
+(2) A közszolgálati életpálya kidolgozásáért felelős miniszter módszertani koordinációs feladatkörében támogatást nyújt a közszolgálatra vonatkozó szabályozás egységes alkalmazásának elősegítésére, a feladatok végrehajtásának összehangolására.
 
-(3) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter statisztikai célú adatgyűjtést végezhet, adatszolgáltatást kérhet a közigazgatási szervtől a kormányzati személyzetpolitika összehangolásának biztosítása érdekében.
+(3) A közszolgálati életpálya kidolgozásáért felelős miniszter statisztikai célú adatgyűjtést végezhet, adatszolgáltatást kérhet a közigazgatási szervtől a kormányzati személyzetpolitika összehangolásának biztosítása érdekében.
 
 (4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi – a fővárosi és megyei kormányhivatalok közreműködésével – a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó jogszabályok végrehajtását.
 
-(5) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
+(5) A közszolgálati életpálya kidolgozásáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
 
-(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
+(6) A közszolgálati életpálya kidolgozásáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
 (8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter dönt az 55. §-ban meghatározott kormányzati kirendelés elrendeléséről.
 
-(9) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
+(9) A közszolgálati életpálya kidolgozásáért felelős miniszter irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
 
 (10) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el az e törvényben a közszolgálati ellenőrzéssel kapcsolatos feladatokat.
 
@@ -361,7 +361,7 @@ terjed ki.
 
 ### A Magyar Kormánytisztviselői Kar jogállása, feladata és hatásköre
 
-28. § E fejezet alkalmazásában miniszter a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter.
+#### 28. §
 
 29. § (1) A Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) a kormánytisztviselők önkormányzattal rendelkező, közigazgatási szakmai, érdek-képviseleti köztestülete.
 
@@ -385,7 +385,7 @@ terjed ki.
   - ec) az igazgatási munkaerővel és személyi juttatásokkal való gazdálkodás elvi kérdéseiben;
 - f) kezdeményezheti a Kormánynál a kormánytisztviselők élet-és munkakörülményeit, valamint foglalkoztatási feltételeit és a hivatás gyakorlását érintő jogszabályok megalkotását, illetve módosítását;
 - g) a feladat- és hatáskörét érintő bármely kérdésben felterjesztési jogot gyakorol;
-- h) kezdeményezheti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternél a kormányzati szolgálati jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását;
+- h) kezdeményezheti az igazságügyért felelős miniszternél a kormányzati szolgálati jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását;
 - i) megalkotja működési szabályait;
 - j) tagjairól és szerveiről nyilvántartást vezet;
 - k) a kiváló munka elismeréseként díjakat alapíthat és adományozhat;
@@ -534,7 +534,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 - b) a működés törvényességének helyreállítása érdekében összehívja az Országos Közgyűlést és a Területi Közgyűlést;
 - c) ismételt vagy súlyos törvénysértés esetén az MKK egyes szerveinek működését felfüggeszti.
 
-(6) Az ügyészég és a bíróság a (5) bekezdés szerinti jogsértés megállapításával és intézkedések megtételével egyidejűleg értesíti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert.
+(6) Az ügyészég és a bíróság a (5) bekezdés szerinti jogsértés megállapításával és intézkedések megtételével egyidejűleg értesíti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert és az igazságügyért felelős minisztert.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, illetve egyéb államigazgatási szerv vezetője az MKK-val, illetve annak területi szervezetével kötött megállapodás alapján az MKK, illetve területi szervezete működéséhez támogatást (pénzbeli, nem pénzbeli) nyújthat. A megállapodás irányulhat helyiséghasználat biztosítására is. A megállapodás nyilvános, azt a támogatást nyújtó államigazgatási szerv és az MKK honlapján közzé kell tenni.
 
@@ -550,7 +550,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 ### A munkáltatói jogkör gyakorlása
 
-37. § (1) A kormánytisztviselők felett a munkáltatói jogokat – törvény vagy a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter rendeletének eltérő rendelkezése hiányában – az államigazgatási szerv hivatali szervezetének vezetője, vagy testület gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása állami vezetőre vagy vezetői munkakört betöltő kormánytisztviselőre írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
+37. § (1) A kormánytisztviselők felett a munkáltatói jogokat – törvény vagy az igazságügyért felelős miniszter rendeletének eltérő rendelkezése hiányában – az államigazgatási szerv hivatali szervezetének vezetője, vagy testület gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása állami vezetőre vagy vezetői munkakört betöltő kormánytisztviselőre írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
 
 (2) Az államigazgatási szerv hivatali szervezetének vezetőjén a minisztériumok esetében a közigazgatási államtitkárt kell érteni.
 
@@ -2001,9 +2001,9 @@ kell megállapítani.
 
 (6) A teljesítményértékelés, minősítés tartalma hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítése iránt a kormánytisztviselő közszolgálati jogvitát kezdeményezhet.
 
-(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
+(7) A közszolgálati életpálya kidolgozásáért felelős miniszter a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
 
-(8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
+(8) A közszolgálati életpálya kidolgozásáért felelős miniszter – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
 
 ### Díjazás, illetmény
 
@@ -2063,7 +2063,7 @@ kell megállapítani.
 - 12. jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél,
 - 13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatalnál,
 - 14.
-- 15. a kormányzati tevékenység összehangolásáért felelős miniszter irányítása alatt álló, a kormányzással és közigazgatással kapcsolatos kutatásokat folytatató központi hivatalnál,
+- 15.
 - 16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
 (2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
@@ -2564,9 +2564,9 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 
 (5) Az államigazgatási szerv közszolgálati alapnyilvántartási rendszere törvény felhatalmazásának hiányában más adatrendszerrel nem kapcsolható össze.
 
-178. § (1) A közszolgálati alapnyilvántartás alapadatairól és azok változásairól, továbbá az államigazgatási szerv szervezeti adatairól évente a Kormány által rendeletben meghatározottak szerint az államigazgatási szervek – személyazonosításra alkalmatlan módon – adatszolgáltatást végeznek a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter részére.
+178. § (1) A közszolgálati alapnyilvántartás alapadatairól és azok változásairól, továbbá az államigazgatási szerv szervezeti adatairól évente a Kormány által rendeletben meghatározottak szerint az államigazgatási szervek – személyazonosításra alkalmatlan módon – adatszolgáltatást végeznek a közszolgálati életpálya kidolgozásáért felelős miniszter részére.
 
-(2) A kormánytisztviselőknek, valamint az államigazgatási szervnél foglalkoztatott munkavállalóknak létszám- és illetményadatait, kereseti adatait a központi létszám- és bérgazdálkodási statisztikai információs rendszer a Kormány által meghatározott rendben átadja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter részére a (3) bekezdés b) pontjában előírtak, valamint az államigazgatási szerveknél foglalkoztatott munkavállalók adatainak elemzése céljából.
+(2) A kormánytisztviselőknek, valamint az államigazgatási szervnél foglalkoztatott munkavállalóknak létszám- és illetményadatait, kereseti adatait a központi létszám- és bérgazdálkodási statisztikai információs rendszer a Kormány által meghatározott rendben átadja a közszolgálati életpálya kidolgozásáért felelős miniszter részére a (3) bekezdés b) pontjában előírtak, valamint az államigazgatási szerveknél foglalkoztatott munkavállalók adatainak elemzése céljából.
 
 (3) Az (1)–(2) bekezdésben meghatározott statisztikai célú adatgyűjtés (a továbbiakban: közszolgálati statisztikai adatgyűjtés) célja:
 
@@ -2599,7 +2599,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 2. mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
-- k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a fővárosi, megyei kormányhivatal kormánytisztviselője feladatkörében,
+- k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter és a fővárosi, megyei kormányhivatal kormánytisztviselője feladatkörében,
 - l) a feladatai ellátásához szükséges mértékig adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra vonatkozó adatok tekintetében, valamint az államigazgatási szervek kormánytisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatos feladatai ellátásához a személyügyi központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, személyügyi központnál alkalmazásban álló személy.
 
 (2) A kormánytisztviselő jogosult a róla nyilvántartott helytelen adat helyesbítését, a jogellenesen nyilvántartott adat törlését kérni, a jogellenesen kért adat közlését megtagadni. Az adatkezelő köteles a helytelen adatot haladéktalanul helyesbíteni, illetve törölni.
@@ -2608,7 +2608,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 
 181. § (1) A tartalékállományba helyezett kormánytisztviselőknek a 3. melléklet szerinti adatairól az államigazgatási szerv folyamatos adatszolgáltatást végez a Kormány által meghatározott rendben a személyügyi központ részére.
 
-(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter betekinthet a tartalékállományba helyezett kormánytisztviselőknek a személyügyi központ által kezelt, 3. melléklet szerinti adataiba.
+(2) A közszolgálati életpálya kidolgozásáért felelős miniszter betekinthet a tartalékállományba helyezett kormánytisztviselőknek a személyügyi központ által kezelt, 3. melléklet szerinti adataiba.
 
 182. § (1) A személyügyi központ nyilvántartja és kezeli az általa lefolytatott pályázati eljárással, a kompetencia vizsgálattal, és a toborzási adatbázissal kapcsolatos adatokat. A pályázati eljárás lefolytatását követően – függetlenül annak eredményességétől – a személyügyi központ a pályázati eljárásokkal kapcsolatos adatokat egyéni azonosításra alkalmatlan módon statisztikai adatgyűjtés céljából tárolhatja. A pályázati eljárással kapcsolatos adatokat a személyügyi központ a pályázati eljárás lezárását követően törli a nyilvántartásából, kivéve, ha a pályázó adatai további kezeléséhez hozzájárul, abból a célból, hogy a későbbi pályázati lehetőségekről tájékoztatást kapjon, valamint bekerüljön a toborzási adatbázisba. A személyügyi központ a versenyvizsgára vonatkozó adatokat, annak érvényessége lejártát követően törli a nyilvántartásából.
 
@@ -2631,7 +2631,7 @@ terjed ki.
 
 - a) a személyügyi központ vezetője,
 - b) meghatározott körben a személyügyi központ vezetője által feljogosított, személyügyi központnál alkalmazásban álló személy,
-- c) a személyügyi központ felügyeletét ellátó közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
+- c) a személyügyi központ felügyeletét ellátó közszolgálati életpálya kidolgozásáért felelős miniszter és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
 - d) saját adatai tekintetében az adatbázisban szereplő személy,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) munkaügyi per kapcsán az eljáró bíróság,
@@ -2886,7 +2886,7 @@ kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével s
 
 (4) A KÉF tájékoztatáskérésre, illetve javaslattételre jogosult a (2) bekezdés szerinti hatáskörébe tartozó egyéb ügyekkel kapcsolatban.
 
-(5) A KÉF szervezetének és működésének szabályait a Kormány nevében eljáró közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az érdekegyeztetésben résztvevő felek közötti megállapodás tartalmazza. Titkársági feladatait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el.
+(5) A KÉF szervezetének és működésének szabályait a Kormány nevében eljáró közszolgálati életpálya kidolgozásáért felelős miniszter és az érdekegyeztetésben résztvevő felek közötti megállapodás tartalmazza. Titkársági feladatait a közszolgálati életpálya kidolgozásáért felelős miniszter látja el.
 
 199. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényben, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvényben, szabályozott Országos Közszolgálati Érdekegyeztető Tanács az e törvény hatálya alá tartozó közszolgálati tisztviselők érdekegyeztető fóruma is.
 
@@ -2978,7 +2978,7 @@ kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével s
 
 (4) Az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök gyakorolja a munkáltatói jogokat az államtitkári kabinet állományába tartozó kormánytisztviselők, valamint az államtitkár titkárságát vezető osztályvezető felett. A vezetői kinevezés adása és visszavonása az államtitkár hatáskörébe tartozik.
 
-(5) A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre e törvény rendelkezéseit megfelelően kell alkalmazni a 45. § (1)–(3) és (6) bekezdése, 58. §, 62. §, 69. §, 72–73. §, 116–128. §, 130. §, 181. §, 203. § (7)–(9) bekezdése, 204. § (1)–(2) és (7) bekezdése kivételével.
+(5) A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre e törvény rendelkezéseit kell alkalmazni a 45. § (1)–(3) és (6) bekezdése, 58. §, 62. §, 69. §, 72–73. §, 116–128. §, 130. §, 181. §, 203. § (7)–(9) bekezdése, 204. § (7) bekezdése kivételével.
 
 ### VI. Fejezet — A KORMÁNYZATI ÜGYKEZELŐK
 
@@ -3703,7 +3703,7 @@ vonatkozó részletes szabályokat;
 
 (4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
 
-(5) Felhatalmazást kap a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
+(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) a személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszerrel összefüggő részletes szabályokat,
 - b) a kormányzati szolgálati jogviszonnyal kapcsolatos munkáltatói jogkör gyakorlásával és átruházásával összefüggő részletes szabályokat,

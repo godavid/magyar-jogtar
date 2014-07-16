@@ -49,7 +49,7 @@ az egyes fizetési szolgáltatókról
 - 27. közvetítői díj: minden olyan pénzben vagy természetben jutatott térítés, amelyet a pénzforgalmi közvetítő a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől az ügyfél és a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény között létrejött pénzügyi szolgáltatásra vonatkozó megállapodás érvényes létrejöttéért és meghatározott esetekben annak teljesítéséért, és meghatározott időtartamig történő fennállásáért kap,
 - 28. külföldi vállalkozás: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) 2. § a) pontjában meghatározott külföldi vállalkozás,
 - 29. pénzforgalmi közvetítői tevékenység:
-  - a) pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára, pénzforgalmi szolgáltatás nyújtásának, szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ideértve a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötését is,
+  - a) pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötése,
   - b) elektronikuspénz-kibocsátójával kötött megbízási szerződés alapján, az elektronikuspénz-kibocsátója nevében, javára és kockázatára, elektronikuspénz értékesítésére és visszaváltására irányuló szerződés megkötésének elősegítésére irányuló tevékenység,
 - 30. pénzforgalmi szolgáltatás: a Hpt.-ben meghatározott pénzforgalmi szolgáltatás,
 - 31. pénzforgalmi szolgáltató: a Pft.-ben meghatározott pénzforgalmi szolgáltató,
@@ -774,7 +774,7 @@ rendelkezik.
 
 58. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tagja, a pénzforgalmi intézményben, elektronikuspénz-kibocsátó intézményben befolyásoló részesedést szerezni kívánó személy, a vezető állású személy, valamint a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény alkalmazottja a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megtartja.
 
-(2) A (1) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
+(2) Az (1) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 - a) Magyar Nemzeti Bankkal,
 - b) nemzetbiztonsági szolgálattal,
@@ -783,8 +783,9 @@ rendelkezik.
 - e) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző kormányzati ellenőrzési szervvel,
 - f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel,
 - g) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,
-- h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, vagy felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal és
-- i) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel
+- h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd- vagy felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
+- i) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel és
+- j) a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvénnyel (a továbbiakban: FATCA-törvény) összefüggésben az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatás teljesítése során az adóhatósággal
 
 szemben.
 
@@ -891,6 +892,8 @@ van összefüggésben.
 (3) Aki üzleti vagy fizetési titok birtokába jut, nem használhatja fel arra, hogy annak révén saját maga vagy más személy részére közvetlen vagy közvetett módon előnyt szerezzen, továbbá, hogy a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfeleinek hátrányt okozzon.
 
 (4) A fizetési rendszert működtető pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a pénzforgalmi szolgáltató és az ügyfél közötti pénzforgalmi szolgáltatási keretszerződés szerint rendelkezésére álló, személyes adatnak minősülő fizetési titkot legfeljebb a fizetési műveletből eredő követelés elévüléséig jogosult kezelni a fizetéssel kapcsolatos csalások, valamint a készpénz-helyettesítő fizetési eszközzel történő visszaélések megelőzése, vizsgálata és felderítés céljából.
+
+(5) Az adóhatóság a FATCA-törvényből fakadó kötelezettségek teljesítése céljából az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás során is jogosult fizetési titokhoz jutni.
 
 64. § Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
@@ -1248,6 +1251,18 @@ végzését.
 
 (3) A Felügyelet engedélye egyúttal a nyilvántartásba vételt is igazolja.
 
+#### 16/A. A FATCA-törvény alapján fennálló kötelezettségek
+
+86/A. § A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+86/B. § (1) Az intézmény a számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg írásban tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az Aktv. 43/B–43/C. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről,
+- c) a FATCA-törvény szerinti jelentéstételi kötelezettségéről.
+
+(2) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban tájékoztatja.
+
 #### 17. Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
 
 87. § E törvény, valamint a végrehajtására kiadott jogszabályok a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen az ügyfelek tájékoztatásra vonatkozó rendelkezéseinek megsértése esetén a Felügyelet a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el, ha a jogsértés fogyasztót érint.
@@ -1273,6 +1288,10 @@ végzését.
 Az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (6) bekezdés f) pont.
 
 #### 91. §
+
+#### 19. Átmeneti rendelkezések
+
+92. § A 86/A. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 86/B. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
 ### 1. melléklet a 2013. évi CCXXXV. törvényhez
 

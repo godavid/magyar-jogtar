@@ -46,9 +46,9 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) A miniszter az Éghajlatváltozási Stratégia elfogadását követően annak végrehajtásáról szükség szerint, de legalább háromévente beszámol a Kormánynak, valamint az Országgyűlés hatáskörrel rendelkező szakbizottságának.
 
-(4) A (2) bekezdés c) pontja szerinti nemzeti alkalmazkodási térinformatikai rendszer felállításáról és működtetéséről, a szükséges adatgyűjtésről, valamint a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséről az energiapolitikáért felelős miniszter gondoskodik.
+(4) A (2) bekezdés c) pontja szerinti nemzeti alkalmazkodási térinformatikai rendszer felállításáról és működtetéséről, a szükséges adatgyűjtésről, valamint a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséről a miniszter gondoskodik.
 
-(5) A téradatot létrehozó, kezelő, rendszeresen frissítő és a téradat birtokában lévő, valamint a téradattal kapcsolatos állami vagy önkormányzati, továbbá jogszabályban meghatározott közfeladatot ellátó, illetve közszolgáltatást nyújtó szerv vagy személy, valamint ezek ellenőrzése alatt álló természetes vagy jogi személy – a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló törvény rendelkezéseire figyelemmel – a nemzeti alkalmazkodási térinformatikai rendszer működéséhez és a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséhez szükséges adatokat az e törvény végrehajtására kiadott jogszabályban meghatározott eljárási rendben az energiapolitikáért felelős miniszter számára díj- és költségtérítés megállapítása nélkül biztosítja.
+(5) A téradatot létrehozó, kezelő, rendszeresen frissítő és a téradat birtokában lévő, valamint a téradattal kapcsolatos állami vagy önkormányzati, továbbá jogszabályban meghatározott közfeladatot ellátó, illetve közszolgáltatást nyújtó szerv vagy személy, valamint ezek ellenőrzése alatt álló természetes vagy jogi személy – a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló törvény rendelkezéseire figyelemmel – a nemzeti alkalmazkodási térinformatikai rendszer működéséhez és a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséhez szükséges adatokat az e törvény végrehajtására kiadott jogszabályban meghatározott eljárási rendben a miniszter számára díj- és költségtérítés megállapítása nélkül biztosítja.
 
 ### Az üvegházhatású gázok kibocsátásának nyilvántartása, adatszolgáltatás
 
@@ -66,7 +66,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 5. § (1) A kiotói egységek kiadásának, átruházásának és törlésének nyilvántartása közhiteles és nyilvános forgalmi jegyzékben történik, amelynek kezelője a környezetvédelmi hatóság.
 
-(2) A Magyar Állam kincstári vagyonába tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot a miniszter gyakorolja.
+(2) A kincstári vagyonba tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot az államháztartásért felelős miniszter – a miniszterrel együttműködésben – gyakorolja.
 
 (3) A kiotói egységek átruházásához a forgalmi jegyzékben vezetett számlán történő nyilvántartásba vétel is szükséges.
 
@@ -84,7 +84,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### A kiotói egységek létrejötte és megszűnése
 
-8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a Magyar Állam kincstári vagyonába tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
+8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
 (2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. A miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 
@@ -94,7 +94,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 9. § (1) A nemzeti vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló törvény (a továbbiakban: Vtv.), a nemzeti vagyonról szóló 2011. évi CXCVI. törvény, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény, valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A nemzeti vagyon részét képező kibocsátási jogosultságok tekintetében a tulajdonosi jogokat és kötelezettségeket a miniszter gyakorolja, illetve teljesíti.
+(2) A nemzeti vagyon részét képező kibocsátási jogosultságok tekintetében a tulajdonosi jogokat és kötelezettségeket az államháztartásért felelős miniszter a miniszterrel együttműködésben gyakorolja, illetve teljesíti.
 
 (3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
@@ -104,20 +104,20 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
 
-(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja az államháztartásért felelős minisztert és a kincstári vagyon kezeléséért felelős szervet.
 
-(8) A kibocsátható mennyiség egységek kincstári vagyonkörből történő kikerüléséről, illetve törléséről a miniszter évente tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről, illetve törléséről a miniszter évente tájékoztatja az államháztartásért felelős minisztert és a kincstári vagyon kezeléséért felelős szervet.
 
 10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
 
 - a) Magyarországnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
 - b) Magyarország mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
 
-(2) A nemzetközi és európai kibocsátás-kereskedelem keretében a miniszter a Magyar Állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
+(2) A nemzetközi és európai kibocsátás-kereskedelem keretében az államháztartásért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával összhangban történő felhasználásáról a miniszter gondoskodik.
+(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával összhangban történő felhasználásáról az államháztartásért felelős miniszter gondoskodik.
 
 (4a)
 

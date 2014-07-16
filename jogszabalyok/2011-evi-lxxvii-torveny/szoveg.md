@@ -22,7 +22,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - 4. Világörökség Jegyzék: az UNESCO Világörökség Bizottsága által az Egyezmény 11. cikk (2) bekezdése alapján létrehozott és vezetett lista;
 - 5. világörökségi terület: a világörökségi helyszín és annak védőövezete;
 - 6. világörökségi várományos helyszín (a továbbiakban: várományos helyszín): a kiemelkedő kulturális örökségi, illetve természeti értékei (a továbbiakban: kiemelkedő érték) révén, az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint az UNESCO Világörökség Központhoz (a továbbiakban: Központ) bejelentett, a Világörökségi Várományos Helyszínek Jegyzékében szereplő helyszín, amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
-- 7. Világörökségi Várományos Helyszínek Jegyzéke: a kiemelkedő kulturális örökségi, illetve természeti értékei alapján a Világörökség Jegyzékbe való felterjesztésre kiválasztott helyszíneknek a kultúráért felelős miniszter rendeletében kihirdetett, a helyszínek és azok védőövezetei EOV és WGS 84 koordináták szerinti lehatárolását is tartalmazó jegyzéke;
+- 7. Világörökségi Várományos Helyszínek Jegyzéke: a kiemelkedő kulturális örökségi, illetve természeti értékei alapján a Világörökség Jegyzékbe való felterjesztésre kiválasztott helyszíneknek a kulturális örökség védelméért felelős miniszter rendeletében kihirdetett, a helyszínek és azok védőövezetei EOV és WGS 84 koordináták szerinti lehatárolását is tartalmazó jegyzéke;
 - 8. világörökségi várományos helyszín védőövezete (a továbbiakban: várományos helyszín védőövezete): a világörökségi várományos helyszín környezete, amely kiemelkedő értékeinek sértetlenségét, illetve hitelességének védelmét biztosítja, továbbá amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
 - 9. világörökségi várományos terület (a továbbiakban: várományos terület): a világörökségi várományos helyszín és annak védőövezete.
 
@@ -43,9 +43,9 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - e) érvényesüljön a közérdeknek megfelelő és hiteles, a világörökségi helyszínhez méltó funkció és jelleg,
 - f) biztosított legyen a világörökségi értékekhez való hozzáférés, a megközelíthetőség és a zavartalan látogatás.
 
-4. § (1) A világörökségi területekkel összefüggő állami feladatokat a kultúráért felelős miniszter – a külön jogszabályok alapján fennálló feladat- és hatáskörüket nem érintve – az 1. mellékletben meghatározott miniszterekkel egyetértésben, más érdekelt miniszterekkel együttműködve látja el.
+4. § (1) A világörökségi területekkel összefüggő állami feladatokat a kulturális örökség védelméért felelős miniszter – a külön jogszabályok alapján fennálló feladat- és hatáskörüket nem érintve – az 1. mellékletben meghatározott miniszterekkel egyetértésben, más érdekelt miniszterekkel együttműködve látja el.
 
-(2) A kultúráért felelős miniszter az (1) bekezdés szerinti feladatai körében különösen az alábbi tevékenységet végzi:
+(2) A kulturális örökség védelméért felelős miniszter az (1) bekezdés szerinti feladatai körében különösen az alábbi tevékenységet végzi:
 
 - a) meghatározza az Egyezményből eredő feladatok végrehajtásának koncepcióját, stratégiáját;
 - b) érvényesíti a világörökségi szempontokat a világörökségi területet érintő jogszabályokban, illetve átfogó tervezési programokban;
@@ -59,15 +59,15 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
 - k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről.
 
-4/A. § (1) A kultúráért felelős miniszter hivatalból, továbbá az állam tulajdonosi jogait gyakorló szerv vagy a világörökségi helyszínen működő világörökségi gondnokság kérelmére megvizsgálja a világörökségi területen levő, állami tulajdonban álló vagyonelem (a továbbiakban: állami vagyonelem) használatát és hasznosítását.
+4/A. § (1) A kulturális örökség védelméért felelős miniszter hivatalból, továbbá az állam tulajdonosi jogait gyakorló szerv vagy a világörökségi helyszínen működő világörökségi gondnokság kérelmére megvizsgálja a világörökségi területen levő, állami tulajdonban álló vagyonelem (a továbbiakban: állami vagyonelem) használatát és hasznosítását.
 
-(2) Ha a kultúráért felelős miniszter a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti hatósági eljárásában megállapítja, hogy az állami vagyonelem használata vagy hasznosítása nem felel meg a 3. § (3)–(4) bekezdéseiben foglalt követelményeknek, közigazgatási hatósági határozatban kötelezi az állami vagyonelemet használó vagy hasznosító természetes személyt, jogi személyt, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezetet arra, hogy a vagyonelemet 30 napon belül az állam tulajdonosi jogait gyakorló szerv birtokába adja. A határozat jogerőssé válásával egyidejűleg az állami vagyonelem használatára illetve hasznosítására vonatkozó, a határozat jogerőssé válása időpontjában érvényes jogviszony a törvény erejénél fogva megszűnik. A kultúráért felelős miniszter a határozatában döntését a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilváníthatja.
+(2) Ha a kulturális örökség védelméért felelős miniszter a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti hatósági eljárásában megállapítja, hogy az állami vagyonelem használata vagy hasznosítása nem felel meg a 3. § (3)–(4) bekezdéseiben foglalt követelményeknek, közigazgatási hatósági határozatban kötelezi az állami vagyonelemet használó vagy hasznosító természetes személyt, jogi személyt, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezetet arra, hogy a vagyonelemet 30 napon belül az állam tulajdonosi jogait gyakorló szerv birtokába adja. A határozat jogerőssé válásával egyidejűleg az állami vagyonelem használatára illetve hasznosítására vonatkozó, a határozat jogerőssé válása időpontjában érvényes jogviszony a törvény erejénél fogva megszűnik. A kulturális örökség védelméért felelős miniszter a határozatában döntését a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilváníthatja.
 
-(2a) Ha a (2) bekezdés szerinti hatósági eljárás jelentős számú ügyfelet érint, akkor a hatóságként eljáró kultúráért felelős miniszter az ügyféllel hirdetményi úton is kapcsolatot tarthat.
+(2a) Ha a (2) bekezdés szerinti hatósági eljárás jelentős számú ügyfelet érint, akkor a hatóságként eljáró kulturális örökség védelméért felelős miniszter az ügyféllel hirdetményi úton is kapcsolatot tarthat.
 
 (3) A (2) bekezdés szerinti határozat végrehajtását az állam tulajdonosi jogait gyakorló szerv foganatosítja.
 
-5. § A kultúráért felelős miniszter más érdekelt miniszterekkel együttműködve ellátja a várományos területtel kapcsolatos állami feladatokat, így különösen:
+5. § A kulturális örökség védelméért felelős miniszter más érdekelt miniszterekkel együttműködve ellátja a várományos területtel kapcsolatos állami feladatokat, így különösen:
 
 - a) kiválasztja a várományos helyszíneket;
 - b) bejelenti a várományos helyszíneket a Központhoz;
@@ -75,7 +75,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - d) intézkedik a Világörökségi Várományos Helyszínek Jegyzékébe felvett várományos helyszínek Világörökség Jegyzékbe történő jelöléséről, valamint
 - e) gondoskodik a kiemelkedő kulturális örökségi, illetve természeti értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról.
 
-6. § A kultúráért felelős miniszter a 4. § (2) bekezdésében és az 5. §-ban meghatározott feladatokat a Kormány által az e feladatok ellátása céljából létrehozott javaslattevő, véleményező és döntés-előkészítő testület közreműködésével látja el, amely
+6. § A kulturális örökség védelméért felelős miniszter a 4. § (2) bekezdésében és az 5. §-ban meghatározott feladatokat a Kormány által az e feladatok ellátása céljából létrehozott javaslattevő, véleményező és döntés-előkészítő testület közreműködésével látja el, amely
 
 - a) a hatáskörében érintett miniszterek által delegált, kiemelkedő elméleti és gyakorlati ismeretekkel rendelkező tagokból,
 - b) a kulturális, valamint a természetvédelmi feladatokat ellátó központi hivatalok vezetőjéből,
@@ -100,7 +100,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - d) a határon átnyúló világörökségi területek esetében együttműködés az érintett határon túli kezelő szervezetekkel;
 - e) a világörökségi terület állapotának folyamatos követő-figyelése, az ezzel kapcsolatos intézkedések kezdeményezése, valamint a világörökségi kezelési terv végrehajtásához szükséges adatok gyűjtésében, elemzésében és a világörökségi kezelési terv teljesítéséhez szükséges lépések meghatározásában való részvétel;
 - f) az érintett partnerekkel – köztük a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel – folyamatosan együttműködve a világörökségi terület értékmegőrzésével és fejlesztésével kapcsolatos feladatok megvalósításának kezdeményezése, szervezése, előmozdítása, valamint
-- g) a kultúráért felelős miniszter részére jelentés készítése a világörökségi terület állapotáról, különös tekintettel a világörökségi területet érintő minden olyan tevékenységre, amely kihat a világörökségi helyszín kiemelkedő egyetemes értékére.
+- g) a kulturális örökség védelméért felelős miniszter részére jelentés készítése a világörökségi terület állapotáról, különös tekintettel a világörökségi területet érintő minden olyan tevékenységre, amely kihat a világörökségi helyszín kiemelkedő egyetemes értékére.
 
 8. § (1) A világörökségi helyszínek által hordozott kiemelkedő egyetemes érték vagy a várományos helyszínek által hordozott kiemelkedő érték megőrzése, és a fennmaradást nem veszélyeztető hasznosíthatósága érdekében – a (3) bekezdésben meghatározott kivétellel – a világörökségi területek, valamint a várományos területek világörökségi kezelési tervét a Kormány rendeletben hirdeti ki.
 
@@ -132,11 +132,11 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 9. § (1) A hatósági eljárásokban hatóságként eljáró vagy szakhatóságként közreműködő örökségvédelmi- és természetvédelmi hatóság a világörökségi helyszínek által hordozott kiemelkedő egyetemes érték, valamint a várományos helyszín által hordozott kiemelkedő érték megőrzése érdekében a világörökségi területen és a várományos területen az e törvényben és a világörökségi kezelési tervben foglaltakat eljárása során köteles érvényre juttatni.
 
-(2) Amennyiben a világörökségi területet érintő restaurálási, helyreállítási, fejlesztési és építési tevékenységre irányuló kérelem esetében szakértői vélemény beszerzése szükséges, az eljáró hatóság, szakhatóság – a saját költségei terhére – a kulturális szakértői tevékenység folytatásának feltételeiről és a kulturális szakértői nyilvántartás vezetéséről szóló miniszteri rendeletben meghatározott szakértőt rendel ki.
+(2) Amennyiben a világörökségi területet érintő restaurálási, helyreállítási, fejlesztési és építési tevékenységre irányuló kérelem esetében szakértői vélemény beszerzése szükséges, az eljáró hatóság, szakhatóság – a saját költségei terhére – miniszteri rendeletben meghatározott szakértőt rendel ki.
 
 (3) A szakértő a szakértői véleményében világörökségi komplex hatásvizsgálati dokumentációt köteles bemutatni.
 
-(4) A kulturális szakértői nyilvántartás az alábbi adatok tekintetében közhiteles hatósági nyilvántartásnak minősül:
+(4) A (2) bekezdés szerinti szakértőkre vonatkozó nyilvántartás az alábbi adatok tekintetében közhiteles hatósági nyilvántartásnak minősül:
 
 - a) szakterület, részszakterület, szakág,
 - b) nyilvántartásba vétel száma,
@@ -154,7 +154,7 @@ vehető figyelembe.
 
 (2) A világörökségi gondnokság olyan, az adott világörökségi helyszín kiemelkedő egyetemes értékének jellegéhez kötődő tevékenységű, jogi személyiséggel rendelkező szervezet – így különösen költségvetési szerv, helyi önkormányzat, egyházi jogi személy, egyesület, alapítvány, nonprofit gazdasági társaság –, amelynek tevékenysége kiterjed a világörökségi érdekek képviseletére, a kiemelkedő egyetemes érték védelmére, valamint működési területe magában foglalja a világörökségi területet vagy annak jelentős részét.
 
-(3) A kultúráért felelős miniszter a világörökségi gondnokságot világörökségi helyszínenként – a (4) bekezdésben meghatározott kivétellel – a (2) bekezdésben foglaltak figyelembevételével választja ki. A világörökségi gondnokság megbízása visszavonásig, de legfeljebb hét évre szól, amely meghosszabbítható.
+(3) A kulturális örökség védelméért felelős miniszter a világörökségi gondnokságot világörökségi helyszínenként – a (4) bekezdésben meghatározott kivétellel – a (2) bekezdésben foglaltak figyelembevételével választja ki. A világörökségi gondnokság megbízása visszavonásig, de legfeljebb hét évre szól, amely meghosszabbítható.
 
 (4) Amennyiben a világörökségi helyszín kiemelkedő egyetemes értéke kizárólag természeti érték, és a világörökségi helyszínt teljes egészében lefedő védett természeti területre vonatkozóan külön jogszabály természetvédelmi kezelésért felelős szervet jelöl ki, úgy ez a szerv látja el a kezelés 7. §-ban megjelölt feladatait.
 
@@ -185,7 +185,7 @@ vehető figyelembe.
 
 #### 5. Átmeneti rendelkezések
 
-13. § (1) A kultúráért felelős miniszter e törvény hatálybalépését követő 3 éven belül felülvizsgálja az e törvény hatálybalépésekor az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint a Központhoz bejelentett helyszínek Világörökségi Várományos Helyszínek Jegyzékébe történő felvételének indokoltságát. Amennyiben a kultúráért felelős miniszter a felülvizsgálatot követően nem tartja indokoltnak a helyszín Világörökségi Várományos Helyszínek Jegyzékébe történő felvételét, erről soron kívül értesíti a Központot.
+13. § (1) A kulturális örökség védelméért felelős miniszter e törvény hatálybalépését követő 3 éven belül felülvizsgálja az e törvény hatálybalépésekor az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint a Központhoz bejelentett helyszínek Világörökségi Várományos Helyszínek Jegyzékébe történő felvételének indokoltságát. Amennyiben a kulturális örökség védelméért felelős miniszter a felülvizsgálatot követően nem tartja indokoltnak a helyszín Világörökségi Várományos Helyszínek Jegyzékébe történő felvételét, erről soron kívül értesíti a Központot.
 
 (2) Az illetékes országos szervezetek, valamint a megyei önkormányzatok a területrendezési terveik 8. § (6) bekezdés a) pontja szerinti összhangja megteremtéséről a világörökségi kezelési tervek kihirdetését követően legkésőbb 5 éven belül, illetve más jogszabályból fakadó kötelező felülvizsgálat vagy más okból elvégzett módosítás alkalmával kötelesek gondoskodni.
 
@@ -210,12 +210,12 @@ vehető figyelembe.
 - e)
 - f)
 
-(2) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
+(2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
 
 - a) a világörökségi gondnokság kiválasztásának részletes szabályait, a világörökségi gondnokság feladatait és működését; valamint
 - b) a Világörökségi Várományos Helyszínek Jegyzékét.
 
-(3) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben állapítsa meg az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
+(3) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy rendeletben állapítsa meg az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
 
 15. §
 
@@ -231,70 +231,67 @@ vehető figyelembe.
 
 ### 1. melléklet a 2011. évi LXXVII. törvényhez
 
-A világörökségi helyszínekkel összefüggő állami feladatokat
-
-a kultúráért felelős miniszterrel egyetértésben ellátó miniszterek
+#### A világörökségi helyszínekkel összefüggő állami feladatokat a kulturális örökség védelméért felelős miniszterrel egyetértésben ellátó miniszterek
 
 |  | A | B |
 | --- | --- | --- |
-| 1. | Világörökségi helyszín | Egyetértő miniszter |
-| 2. | Budapest – a Duna-partok, a Budai Várnegyed és az Andrássy út | Állami vagyon felügyeletéért felelős miniszter Építésügyért felelős miniszter |
-|  |  | Kormány európai uniós források felhasználásáért felelős tagja |
-|  |  | Közigazgatás-szervezésért felelős miniszter |
-|  |  | A régészeti örökség és a műemléki érték védelméért felelős miniszter |
-|  |  | Természetvédelemért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
-| 3. | Hollókő ófalu és környezete | Agrárpolitikáért felelős miniszter |
-|  |  | Építésügyért felelős miniszter |
-|  |  | Kormány európai uniós források felhasználásáért felelős tagja |
-|  |  | Közigazgatás-szervezésért felelős miniszter |
-|  |  | A régészeti örökség és a műemléki érték védelméért felelős miniszter |
-|  |  | Természetvédelemért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
-| 4. | Az Aggteleki-karszt és a Szlovák-karszt barlangjai | Kormány európai uniós források felhasználásáért felelős tagja Közigazgatás-szervezésért felelős miniszter |
-|  |  | Természetvédelemért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
-| 5. | Az ezeréves Pannonhalmi Bencés Főapátságés természeti környezete | Építésügyért felelős miniszter Kormány európai uniós források felhasználásáért felelős tagja Közigazgatás-szervezésért felelős miniszter |
-|  |  | A régészeti örökség és a műemléki érték védelméért felelős miniszter |
-|  |  | Természetvédelemért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
-| 6. | Hortobágyi Nemzeti Park – a Puszta | Agrárpolitikáért felelős miniszter |
-|  |  | Építésügyért felelős miniszter |
-|  |  | Kormány európai uniós források felhasználásáért felelős tagja |
-|  |  | Közigazgatás-szervezésért felelős miniszter |
-|  |  | A régészeti örökség és a műemléki érték védelméért felelős miniszter |
-|  |  | Természetvédelemért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
-| 7. | Pécs (Sopianae) ókeresztény temetője | Építésügyért felelős miniszter |
-|  |  | Kormány európai uniós források felhasználásáért felelős tagja |
-|  |  | Közigazgatás-szervezésért felelős miniszter |
-|  |  | A régészeti örökség és a műemléki érték védelméért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
-| 8. | Fertő/Neusiedlersee kultúrtáj (röviden: Fertő-táj) | Agrárpolitikáért felelős miniszter Építésügyért felelős miniszter |
-|  |  | Kormány európai uniós források felhasználásáért felelős tagja |
-|  |  | Közigazgatás-szervezésért felelős miniszter |
-|  |  | A régészeti örökség és a műemléki érték védelméért felelős miniszter |
-|  |  | Természetvédelemért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
-| 9. | Tokaj-hegyaljai történelmi borvidék kultúrtáj | Agrárpolitikáért felelős miniszter Építésügyért felelős miniszter |
-|  |  | Kormány európai uniós források felhasználásáért felelős tagja |
-|  |  | Közigazgatás-szervezésért felelős miniszter |
-|  |  | A régészeti örökség és a műemléki érték védelméért felelős miniszter |
-|  |  | Természetvédelemért felelős miniszter |
-|  |  | Területrendezésért felelős miniszter |
-|  |  | Településfejlesztésért és településrendezésért felelős miniszter |
-|  |  | Turizmusért felelős miniszter |
+| 1 | Világörökségi helyszín | Egyetértő miniszter |
+| 2 | Budapest – a Duna-partok, a Budai Várnegyed és az Andrássy út | állami vagyon felügyeletéért felelős miniszter |
+| 3 | építésügyért felelős miniszter |
+| 4 | európai uniós források felhasználásáért felelős miniszter |
+| 5 | közigazgatás-szervezésért felelős miniszter |
+| 6 | természetvédelemért felelős miniszter |
+| 7 | területrendezésért felelős miniszter |
+| 8 | településfejlesztésért és településrendezésért felelős miniszter |
+| 9 | turizmusért felelős miniszter |
+| 10 | Hollókő ófalu és környezete | agrárpolitikáért felelős miniszter |
+| 11 | építésügyért felelős miniszter |
+| 12 | európai uniós források felhasználásáért felelős miniszter |
+| 13 | közigazgatás-szervezésért felelős miniszter |
+| 14 | természetvédelemért felelős miniszter |
+| 15 | területrendezésért felelős miniszter |
+| 16 | településfejlesztésért és településrendezésért felelős miniszter |
+| 17 | turizmusért felelős miniszter |
+| 18 | Az Aggteleki-karszt és a Szlovák-karszt barlangjai | európai uniós források felhasználásáért felelős miniszter |
+| 19 | közigazgatás-szervezésért felelős miniszter |
+| 20 | természetvédelemért felelős miniszter |
+| 21 | területrendezésért felelős miniszter |
+| 22 | településfejlesztésért és településrendezésért felelős miniszter |
+| 23 | turizmusért felelős miniszter |
+| 24 | Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete | építésügyért felelős miniszter |
+| 25 | európai uniós források felhasználásáért felelős miniszter |
+| 26 | közigazgatás-szervezésért felelős miniszter |
+| 27 | természetvédelemért felelős miniszter |
+| 28 | területrendezésért felelős miniszter |
+| 29 | településfejlesztésért és településrendezésért felelős miniszter |
+| 30 | turizmusért felelős miniszter |
+| 31 | Hortobágyi Nemzeti Park – a Puszta | agrárpolitikáért felelős miniszter |
+| 32 | építésügyért felelős miniszter |
+| 33 | európai uniós források felhasználásáért felelős miniszter |
+| 34 | közigazgatás-szervezésért felelős miniszter |
+| 35 | természetvédelemért felelős miniszter |
+| 36 | területrendezésért felelős miniszter |
+| 37 | településfejlesztésért és településrendezésért felelős miniszter |
+| 38 | turizmusért felelős miniszter |
+| 39 | Pécs (Sopianae) ókeresztény temetője | építésügyért felelős miniszter |
+| 40 | európai uniós források felhasználásáért felelős miniszter |
+| 41 | közigazgatás-szervezésért felelős miniszter |
+| 42 | területrendezésért felelős miniszter |
+| 43 | településfejlesztésért és településrendezésért felelős miniszter |
+| 44 | turizmusért felelős miniszter |
+| 45 | Fertő/Neusiedlersee kultúrtáj (röviden: Fertő-táj) | agrárpolitikáért felelős miniszter |
+| 46 | építésügyért felelős miniszter |
+| 47 | európai uniós források felhasználásáért felelős miniszter |
+| 48 | közigazgatás-szervezésért felelős miniszter |
+| 49 | természetvédelemért felelős miniszter |
+| 50 | területrendezésért felelős miniszter |
+| 51 | településfejlesztésért és településrendezésért felelős miniszter |
+| 52 | turizmusért felelős miniszter |
+| 53 | Tokaj-hegyaljai történelmi borvidék kultúrtáj | agrárpolitikáért felelős miniszter |
+| 54 | építésügyért felelős miniszter |
+| 55 | európai uniós források felhasználásáért felelős miniszter |
+| 56 | közigazgatás-szervezésért felelős miniszter |
+| 57 | természetvédelemért felelős miniszter |
+| 58 | területrendezésért felelős miniszter |
+| 59 | településfejlesztésért és településrendezésért felelős miniszter |
+| 60 | turizmusért felelős miniszter |

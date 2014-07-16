@@ -21,7 +21,9 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 - 1. adómegállapítási jogsegély: az 5. § (1) bekezdésben meghatározott adókkal kapcsolatos tagállami jogszabályok végrehajtása szempontjából előreláthatólag releváns információk cseréje céljából folytatott közigazgatási együttműködés az Európai Unió tagállamainak hatáskörrel rendelkező hatóságai között;
 - 2. behajtási jogsegély: az információkérés, a kézbesítés, a behajtás és a biztosítási intézkedés iránti megkereséssel kapcsolatos, 22–41. §-ban szabályozott eljárás;
 - 3. kettős adóztatás elkerüléséről szóló egyezmény: Magyarország és más állam között a kettős adóztatás elkerülése tárgyában létrejött, jogszabályban kihirdetett nemzetközi szerződés;
-- 4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény.
+- 4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény;
+- 5. FATCA Megállapodás: a 2014. évi XIX. törvénnyel kihirdetett, a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás;
+- 6. Hatóságközi Megállapodás: a FATCA Megállapodás 3. cikk 6. pontja szerinti megállapodás.
 
 (2) E törvény II. és III. Fejezete alkalmazásában:
 
@@ -80,6 +82,16 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
   - b) az adós személy neve, valamint az azonosítását szolgáló más lényeges adat,
   - c) annak a hatóságnak a neve (elnevezése), székhelye, egyéb postai vagy elektronikus címe, ca) amely a végrehajtást engedélyező egységes okirathoz mellékelt okirat vonatkozásában illetékes hatóság, valamint ha ettől eltér, cb) amelytől a követeléssel vagy a fizetési kötelezettséggel kapcsolatos jogorvoslatokra vonatkozóan további tájékoztatás kérhető;
 - 11. végrehajtást engedélyező eredeti okirat: olyan okirat, amely a végrehajtást a megkereső tagállamban teszi lehetővé.
+
+(5) Az V/A. fejezet alkalmazásában:
+
+- 1. Jelentő Magyar Pénzügyi Intézmény
+  - a) a tőkepiacról szóló 2001. évi CXX. törvény 146/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
+  - b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 167/C. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
+  - c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 123/B. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
+  - d) az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 86/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény, és
+  - e) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 288/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény.
+- 2. Nem Jelentő Magyar Pénzügyi Intézmény: a FATCA Megállapodás 1. cikk 1. pont q) alpontja szerinti Nem Jelentő Magyar Pénzügyi Intézmény.
 
 ### II. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMAI KÖZÖTTI ADÓMEGÁLLAPÍTÁSI JOGSEGÉLY SZABÁLYAI
 
@@ -521,6 +533,48 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 (2) Az illetékes hatóság az együttműködési kötelezettség teljesítéséhez szükséges információ megszerzése érdekében saját hatáskörben vagy belföldi jogsegély (megkeresés) keretében megtesz minden olyan intézkedést, amelyet hasonló belföldi jogsegély (megkeresés) teljesítése érdekében végrehajtana.
 
+### V/A. Fejezet — A FATCA MEGÁLLAPODÁSHOZ KAPCSOLÓDÓ EGYES RENDELKEZÉSEK
+
+43/A. § (1) A Jelentő Magyar Pénzügyi Intézmény e minőségét az e minőség keletkezését követő 15 napon belül bejelenti az állami adóhatóságnak.
+
+(2) A Nem Jelentő Magyar Pénzügyi Intézmény e minőségét az e minőség keletkezését követő 15 napon belül jelenti be az állami adóhatóságnak. A Nem Jelentő Magyar Pénzügyi Intézmény a bejelentésben megjelöli, hogy e minősége a FATCA Megállapodás 1. cikk 1. pont q) alpontja szerinti mely jogcímen áll fenn.
+
+(3) Az (1) és (2) bekezdés szerinti bejelentett adatok változását a Jelentő Magyar Pénzügyi Intézmény és a Nem Jelentő Magyar Pénzügyi Intézmény a változást követő 15 napon belül jelenti be az állami adóhatóságnak.
+
+(4) A Jelentő Magyar Pénzügyi Intézmény a FATCA Megállapodás 4. cikk 1. pont c) alpontja szerinti IRS FATCA regisztrációs kötelezettségnek való megfelelés teljesítéséről illetve a megfelelés változásáról a regisztrációt, illetve a megfelelés változását követő 15 napon belül adatszolgáltatást teljesít az állami adóhatósághoz.
+
+(5) Az állami adóhatóság az (1)–(4) bekezdés szerinti bejelentés és adatszolgáltatás alapján az adókötelezettségek jogszerű teljesítéséhez honlapján közzéteszi a Jelentő Magyar Pénzügyi Intézmények és a Nem Jelentő Magyar Pénzügyi Intézmények elnevezését, székhelyét és adószámát.
+
+43/B. § (1) A Jelentő Magyar Pénzügyi Intézmény a FATCA Megállapodás 4. cikk 1. pont a) alpontja szerinti adatszolgáltatási kötelezettségét az adóévet követő év június 30. napjáig teljesíti az állami adóhatósághoz.
+
+(2) A Jelentő Magyar Pénzügyi Intézmény (1) bekezdés szerinti kötelezettségét
+
+- a) a 2014. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (1) bekezdése szerinti adattartalommal,
+- b) a 2015. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (2) bekezdése szerinti adattartalommal,
+- c) a 2016. adóévre és az azt követő adóévekre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (3) bekezdése szerinti adattartalommal
+
+teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vételével.
+
+43/C. § A Jelentő Magyar Pénzügyi Intézmény a 2015. és 2016. adóévre vonatkozóan a FATCA Megállapodás 4. cikk 1. pont b) alpontja szerinti adatszolgáltatási kötelezettségét az adóévet követő június 30. napjáig teljesíti az állami adóhatósághoz.
+
+43/D. § (1) Az állami adóhatóság a FATCA Megállapodás 2. cikke szerinti automatikus információcserét a Jelentő Magyar Pénzügyi Intézmények adatszolgáltatása alapján a Hatóságközi Megállapodásban foglaltak szerint legkésőbb az adóévet követő év szeptember 30. napjáig teljesíti.
+
+(2) Az állami adóhatóság az Amerikai Egyesült Államok Illetékes Hatósága által a FATCA Megállapodás 2. cikke szerinti automatikus információcserét a Hatóságközi Megállapodásban foglaltak szerint fogadja.
+
+(3) A FATCA Megállapodás szerinti, adatszolgáltatásra és automatikus információcserére irányuló együttműködés során az állami adóhatóság vagy az adópolitikáért felelős miniszter által közölt, szerzett vagy továbbított információ adótitoknak minősül.
+
+(4) Nem jelenti az adótitok, illetve a tőkepiacról szóló törvény szerinti értékpapírtitok és üzleti titok, a biztosítókról és a biztosítási tevékenységről szóló törvény szerinti biztosítási titok és üzleti titok, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti értékpapírtitok, az egyes fizetési szolgáltatókról szóló törvény szerinti fizetési titok és üzleti titok, továbbá a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti banktitok és üzleti titok sérelmét, ha az információk átadására, átvételére és felhasználására az Amerikai Egyesült Államok Illetékes Hatósága és az állami adóhatóság közötti, e törvényben, a FATCA Megállapodásban és a Hatóságközi Megállapodásban foglaltaknak megfelelő automatikus információcsere és együttműködés keretében kerül sor.
+
+(5) A FATCA Megállapodás szerinti automatikus információcsere keretében az Amerikai Egyesült Államok Illetékes Hatósága által közölt információt az állami adóhatóság adóügyben bizonyítékként felhasználhatja.
+
+43/E. § (1) A Jelentő Magyar Pénzügyi Intézmény a 43/A–43/C. § szerinti bejelentési és adatszolgáltatási kötelezettségét, a Nem jelentő Magyar Pénzügyi Intézmény a 43/A. § (2) és (3) bekezdése szerinti bejelentési kötelezettségét elektronikus úton, az állami adóhatóság által e célra rendszeresített elektronikus űrlapon teljesíti az állami adóhatósághoz.
+
+(2) A 43/A–43/C. § szerinti bejelentési vagy adatszolgáltatási kötelezettség késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
+
+43/F. § (1) Az állami adóhatóság a 43/D. § szerinti automatikus adatcsere teljesítéséről az adóévet követő év október 20-ig jelentést készít az adópolitikáért felelős miniszter részére.
+
+(2) A jelentésben az állami adóhatóság az adóévre vonatkozó automatikus adatcsere statisztikai adatait, a 43/D. (4) bekezdése szerinti információ felhasználásának statisztikai adatait, valamint a FATCA Megállapodás szerinti együttműködésre vonatkozó jogszabályok és egyéb eszközök alkalmazásának értékelését és hatékonyságának növelésére tett javaslatait szerepelteti.
+
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 15. Hatályba léptető rendelkezések
@@ -538,6 +592,8 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 (2) A IV. Fejezetben foglalt rendelkezéseket a Vtv. és az Art. szerint indult és e törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
 
 (3) A 39. § (6) bekezdés szerinti rendelkezést a magyar megkereső hatóság által az e törvény hatálybalépését követően kezdeményezett behajtás iránti megkeresésekkel kapcsolatos eljárásokban kell alkalmazni.
+
+45/A. § A 43/A. § hatálybalépésekor Jelentő Magyar Pénzügyi Intézménynek vagy Nem Jelentő Magyar Pénzügyi Intézménynek minősülő szervezet a 43/A. § szerinti bejelentési vagy adatszolgáltatási kötelezettségét a 43/A. § hatálybalépését követő 45. napig teljesíti az állami adóhatósághoz.
 
 #### 17. Az Európai Unió jogának való megfelelés
 

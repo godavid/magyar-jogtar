@@ -81,6 +81,31 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (6) Ha a kormánymegbízott megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
 
+10/A. § (1) A kormánymegbízott a megbízatásának időtartama és a 10. § (6) bekezdésben meghatározott időtartam alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából kormányzati szolgálati jogviszonyban foglalkoztatott biztosítottnak, illetménye nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+
+(2) A kormánymegbízott megbízatásának időtartama és a 10. § (6) bekezdésében meghatározott időtartam kormányzati szolgálati jogviszonyban töltött időnek számít.
+
+(3) Ha a kormánymegbízott megbízatása megszűnt, illetménye és juttatásai addig illetik meg, amíg a 10. § (6) bekezdése alapján gyakorolja hatáskörét.
+
+(4) Ha a kormánymegbízott e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg, a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén pedig háromhavi – illetményével megegyező összegű juttatásra jogosult, amelyre az (1) bekezdést kell alkalmazni.
+
+(5) A kormánymegbízott halála esetén a (4) és (6) bekezdés szerinti juttatás a kormánymegbízott házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában a kormánymegbízott örökösét, több örökös esetén örököseit – illeti meg.
+
+(6) Ha a kormánymegbízott megbízatása a (4) bekezdésben meghatározott okokból három évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (4) bekezdésben megjelölt juttatás felére jogosult.
+
+(7) Ha a kormánymegbízott a megbízatásának megszűnését követően állami vezetői vagy újabb kormánymegbízotti megbízatást kap, a (4) és (6) bekezdésben meghatározott juttatás összege megegyezik a hatásköre gyakorlásának megszűnésétől az új megbízatással összefüggő hivatalba lépéséig terjedő időre járó illetménnyel.
+
+(8) A (7) bekezdést kell alkalmazni akkor is, ha a kormánymegbízott megbízatása összeférhetetlenség címén azért szűnik meg, mert országgyűlési képviselővé vagy európai parlamenti képviselővé választják.
+
+(9) A kormánymegbízott végkielégítésre és felmentési időre nem jogosult.
+
+(10) A (4) és a (6) bekezdésben meghatározott időtartam számításánál a folyamatos kormánymegbízotti megbízatásban töltött időt – a hatáskörgyakorlás megszűnésétől az új megbízatással összefüggésben a hivatalba lépésig terjedő, legfeljebb hat hónapos, valamint a megbízatás megszűnésétől a hatáskörgyakorlás megszűnéséig terjedő megszakítást a folyamatosság szempontjából nem számítva – egybe kell számítani.
+
+(11) Ha a kormánymegbízottat legkésőbb a hatáskörgyakorlásának megszűnésétől számított harminc napon belül ismételten kormánymegbízottá nevezik ki vagy állami vezetővé választják meg vagy nevezik ki
+
+- a) a ki nem adott szabadságát nem lehet pénzben megváltani, és
+- b) a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett kormánymegbízotti megbízatás, illetve állami vezetői szolgálati jogviszony vagy állami vezetőként betöltött jogviszony alapján járó szabadsághoz hozzá kell számítani.
+
 11. § (1) A kormánymegbízott további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen.
@@ -117,7 +142,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 #### 8. A munkáltatói jogok gyakorlása
 
-15. § (1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A törzshivatalnál szolgálatot teljesítő katonák, fegyveres szervek hivatásos állományú tagjai, illetve a Honvédelmi Minisztérium és a Belügyminisztérium állományába tartozó, de a törzshivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
+15. § (1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A törzshivatalnál szolgálatot teljesítő katonák, fegyveres szervek hivatásos állományú tagjai, illetve a honvédelemért felelős miniszter által vezetett minisztérium, illetve a rendészetért felelős miniszter által vezetett minisztérium állományába tartozó, de a törzshivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
 
 (2) A szakigazgatási szerv kormánytisztviselői és munkavállalói felett a munkáltatói jogokat – a 20/B. §-ban meghatározott kivétellel – a szakigazgatási szerv vezetője gyakorolja.
 
@@ -175,7 +200,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (2) A fővárosi kormányhivatal kirendeltségeiként kerületi hivatalok működnek. A kerületi hivatal illetékességi területe megegyezik a fővárosi kerület közigazgatási területével. A kerületi hivatalra egyebekben a járási hivatalra vonatkozó jogszabályokat kell alkalmazni.
 
-(3) A járási hivatal a járási hivatalvezető (a továbbiakban: hivatalvezető) által közvetlenül vezetett járási törzshivatalból és járási szakigazgatási szervekből áll.
+(3) A járási hivatal a járási hivatalvezető (a továbbiakban: hivatalvezető) által közvetlenül vezetett járási törzshivatalból és járási szakigazgatási szervekből áll. A járási törzshivatal szervezeti egységeként jogszabályban meghatározottak szerint kormányablak és okmányiroda működik.
 
 20/B. § A járási hivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha e törvény eltérően nem rendelkezik – a hivatalvezető gyakorolja. A járási hivatal kormánytisztviselőjének kinevezni, illetve felmenteni javasolt személyről a hivatalvezető – a járási szakigazgatási szerv esetében a járási szakigazgatási szerv vezetője véleményének kikérését követően – tájékoztatja a kormánymegbízottat, aki a kinevezni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki kormánytisztviselőnek, illetve nem kerülhet felmentésre.
 
@@ -234,7 +259,7 @@ rendeletben határozza meg.
 
 rendeletben határozza meg.
 
-21/B. § (1) Felhatalmazást kap a miniszter, hogy a kormányablakok működésének személyi és technikai feltételeit rendeletben szabályozza.
+21/B. § (1) Felhatalmazást kap a miniszter, hogy a kormányablakok és az okmányirodák működésének személyi és technikai feltételeit rendeletben szabályozza.
 
 (2) Felhatalmazást kap a miniszter, hogy a kormányablaknak a saját hatáskörben, illetve közreműködő hatóságként történő eljárására vonatkozóan az igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
@@ -250,7 +275,9 @@ rendeletben határozza meg.
 
 (2) A fővárosi kormányhivatal a fővárosi közigazgatási hivatal általános jogutódja.
 
-24–26. §
+24. § E törvénynek az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló 2014. évi XXXV. törvénnyel megállapított 10/A. §-át az országgyűlési képviselők 2014. évi általános választásának időpontjában hivatalban lévő kormánymegbízottra is alkalmazni kell azzal, hogy a 10/A. § (4) bekezdésében meghatározott határidő kezdő napjának az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló 2014. évi XXXV. törvény hatálybalépését követő napot kell tekinteni.
+
+25–26. §
 
 27. § E törvény 64. alcíme az európai területi együttműködési csoportosulásról szóló, 2006. július 5-i 1082/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

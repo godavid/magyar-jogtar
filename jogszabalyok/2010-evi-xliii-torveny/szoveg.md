@@ -311,7 +311,7 @@ jogosult.
 
 (2) A miniszterelnök az (1) bekezdés b) pontja szerinti rezidenciát köteles igénybe venni.
 
-(3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a külpolitikáért felelős miniszter látja el.
+(3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter látja el.
 
 (4) Az (1) bekezdés h) pontja szerinti jogosultság megilleti a miniszterelnökkel együtt üdülő családtagját, gyermekének házastársát, szülőjét és unokáját is.
 
@@ -438,9 +438,9 @@ jogosult.
 
 (2) A tárca nélküli miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg. A tárca nélküli miniszter tevékenységét e törvényben meghatározottak szerint a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vagy a Kormány által rendeletben meghatározott más minisztérium segíti.
 
-(3) A tárca nélküli minisztert tevékenységének ellátásában a (2) bekezdés szerinti minisztériumban működő kabinet segíti. A (2) bekezdés szerinti minisztérium szervezeti és működési szabályzatában a tárca nélküli miniszter tevékenységének segítésére a (2) bekezdés szerinti minisztérium helyettes államtitkára, illetve egyéb szervezeti egységének vezetője is kijelölhető.
+(3) A tárca nélküli minisztert tevékenységének ellátásában a (2) bekezdés szerinti minisztériumban működő kabinet segíti. A (2) bekezdés szerinti minisztérium szervezeti és működési szabályzatában a tárca nélküli miniszter tevékenységének segítésére a (2) bekezdés szerinti minisztérium államtitkára, helyettes államtitkára, illetve egyéb szervezeti egységének vezetője is kijelölhető.
 
-(4) A tárca nélküli miniszter a feladatkörében egyedi utasítást adhat a (2) bekezdés szerinti minisztérium közigazgatási államtitkárának, valamint azon helyettes államtitkárának és szervezeti egysége vezetőjének, aki a tárca nélküli miniszter tevékenységét segíti.
+(4) A tárca nélküli miniszter a feladatkörében egyedi utasítást adhat a (2) bekezdés szerinti minisztérium közigazgatási államtitkárának, valamint azon államtitkárának, helyettes államtitkárának és szervezeti egysége vezetőjének, aki a tárca nélküli miniszter tevékenységét segíti.
 
 (5) A (2) bekezdésben meghatározott kormányrendelet alapján a tárca nélküli miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium jogutódja, ha a (2) bekezdésben meghatározott kormányrendelet eltérően nem rendelkezik, a (2) bekezdés szerinti minisztérium.
 
@@ -727,7 +727,7 @@ helyettesíti.
 
 70. § (1) A kormányhivatal törvény által létrehozott, a Kormány irányítása alatt működő központi államigazgatási szerv. A kormányhivatal törvényben meghatározottak szerint fegyveres rendvédelmi feladatokat is elláthat.
 
-(2) A kormányhivatal felügyeletét a miniszterelnök által kijelölt miniszter látja el, aki e hatáskörében – ha törvény eltérően nem rendelkezik – különösen
+(2) A kormányhivatal felügyeletét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt miniszter látja el, aki e hatáskörében – ha törvény eltérően nem rendelkezik – különösen
 
 - a) törvény vagy kormányrendelet felhatalmazása alapján jogszabályt alkot a kormányhivatal feladatkörébe tartozó kérdésekben, illetve előterjesztést tesz törvény vagy kormányrendelet alkotására,
 - b) képviseli a kormányhivatalt a Kormány és az Országgyűlés előtt.
@@ -804,7 +804,7 @@ helyettesíti.
 
 (3) Felhatalmazást kap a Kormány, hogy a Kormány vagy a Kormány tagja irányítása alá tartozó államigazgatási szervek tekintetében a kormánytisztviselőket törvény alapján megillető juttatásokra vonatkozó szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a miniszterelnök, illetve az ügyvezető miniszterelnök, hogy rendeletben jelölje ki a miniszter hatáskörét gyakorló más minisztert, a kormányhivatal felügyeletét ellátó minisztert, valamint irányítási jogkörrel ruházza fel a miniszterelnöki biztost.
+(4) Felhatalmazást kap a miniszterelnök, illetve az ügyvezető miniszterelnök, hogy rendeletben jelölje ki a miniszter hatáskörét gyakorló más minisztert, valamint irányítási jogkörrel ruházza fel a miniszterelnöki biztost.
 
 (4a) Felhatalmazást kap a Kormány, hogy rendeletben irányítási jogkörrel ruházza fel a kormánybiztost.
 

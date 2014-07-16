@@ -1434,6 +1434,18 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 146. § Az értékpapír-számla és az értékpapír letéti számla kezelésének, a számlarendszer működtetésének részletes szabályait külön jogszabály állapítja meg.
 
+### A FATCA-törvény alapján fennálló kötelezettségek
+
+146/A. § A Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+146/B. § (1) Az intézmény a számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg írásban tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről,
+- c) a FATCA-törvény szerinti jelentéstételi kötelezettségéről.
+
+(2) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban tájékoztatja.
+
 ### XIV. Fejezet — ÜGYFÉLSZÁMLA
 
 147. § (1) A befektetési vállalkozás, a hitelintézet, a befektetési alapkezelő és az árutőzsdei szolgáltató – a 148. §-ban foglalt eset kivételével – ügyfélszámlát vezet. Az ügyfélszámlán kell nyilvántartani a számlatulajdonost megillető bevételt, és az ügyfélszámláról kell teljesíteni a számlatulajdonost terhelő kifizetést. Az ügyfélszámlán elkülönítetten kell nyilvántartani az azonnali, illetőleg az opciós és határidős ügyletekből eredő követeléseket és kötelezettségeket. A befektetési vállalkozás és a befektetési alapkezelő köteles ügyfélszámla-szerződést kötni azzal az ügyféllel, akinek a megbízásából portfóliókezelést, letéti őrzést, letétkezelést végez.
@@ -3617,7 +3629,7 @@ folytathat.
 
 373. § Nem jelenti az értékpapírtitok, üzleti titok sérelmét a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás.
 
-374. §
+374. § Nem jelenti az értékpapírtitok és az üzleti titok sérelmét a FATCA-törvény alapján az Aktv. 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez az adóhatóság felé szükséges adatszolgáltatás.
 
 ### Összesített adatok átadása
 
@@ -4090,7 +4102,9 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 409. § A 14. § (1) bekezdés c)–d) pontjában, a 21. § (2) bekezdés c) pont ca) alpontjában, a 26. § (5) bekezdésében, a 45. § (2) bekezdés b) pontjában és az 54. § (3) bekezdésében előírt rendelkezéseknek való megfelelést 2013. január 1-től kell biztosítani.
 
-410–411. §
+410. § A 146/A. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 146/B. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
+
+411. §
 
 412. § (1)–(3)
 

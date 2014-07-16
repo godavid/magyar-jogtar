@@ -219,7 +219,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (6)
 
-(7) Felhatalmazást kap a földügyért felelős miniszter, hogy a díj és az elektronikus adatszolgáltatási díj megfizetésére, kezelésére, nyilvántartására és felhasználására, valamint a fővárosi és megyei kormányhivatalon belüli elszámolásra vonatkozó részletes szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítsa meg.
+(7) Felhatalmazást kap az ingatlan-nyilvántartásért felelős miniszter, hogy a díj és az elektronikus adatszolgáltatási díj megfizetésére, kezelésére, nyilvántartására és felhasználására, valamint a fővárosi és megyei kormányhivatalon belüli elszámolásra vonatkozó részletes szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 33/A. § (1) Az államháztartás alrendszereiből, európai uniós forrásokból, illetve nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati vagy pályázati rendszeren kívüli támogatások odaítélésére irányuló eljárásban mellékletként nem lehet tulajdonilap-másolat csatolását kérni.
 

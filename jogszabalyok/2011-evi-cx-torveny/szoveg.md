@@ -72,7 +72,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (2) Ha a külföldre utazás menetrendszerű repülőgéppel, illetve vonattal történik, a köztársasági elnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe.
 
-(3) Az (1) és a (2) bekezdésben meghatározott juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a külpolitikáért felelős miniszter látja el.
+(3) Az (1) és a (2) bekezdésben meghatározott juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a Hivatal a Kormány eredeti jogalkotói hatáskörében kiadott rendeletében kijelölt miniszterrel együttműködve látja el.
 
 (4) A köztársasági elnök külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára.
 

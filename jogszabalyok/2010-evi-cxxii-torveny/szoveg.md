@@ -10,7 +10,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 ### A Nemzeti Adó- és Vámhivatal jogállása és szervezeti keretei
 
-1. § (1) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) államigazgatási és fegyveres rendvédelmi feladatokat is ellátó kormányhivatal. A NAV felügyeletét a miniszterelnök által kijelölt miniszter (a továbbiakban: kijelölt miniszter) látja el.
+1. § (1) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) államigazgatási és fegyveres rendvédelmi feladatokat is ellátó kormányhivatal.
 
 (2) A NAV központi költségvetési szerv, amely a központi költségvetésben önálló fejezetet képez.
 
@@ -36,7 +36,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 ### A Nemzeti Adó- és Vámhivatal miniszteri felügyelete
 
-5. § (1) A kijelölt miniszter
+5. § (1) A NAV felügyeletét ellátó miniszter (a továbbiakban: kijelölt miniszter)
 
 - a) felügyeli az adóztatás, a vámok és a NAV hatáskörébe tartozó nem közösségi adók és díjak kiszabásának, beszedésének törvényességét,
 - b) felügyeli és ellenőrzi a NAV tevékenységét és vezetését, a törvények és más jogszabályok végrehajtását,

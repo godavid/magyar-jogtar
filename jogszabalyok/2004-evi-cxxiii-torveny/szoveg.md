@@ -322,7 +322,7 @@ ad ki.
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8/A. §-ban meghatározott adókedvezmény érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
 
-(5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszterrel, a szociál- és nyugdíjpolitikáért felelős miniszterrel és az egészségbiztosítási járulék-fizetés szabályozásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Rehabilitációs kártya igénylésének, kibocsátásának, felhasználásának, kicserélésének, visszavonásának és a hozzá kapcsolódó kedvezmény érvényesítésének részletes szabályait.
+(5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a társadalmi felzárkózásért felelős miniszterrel, a szociál- és nyugdíjpolitikáért felelős miniszterrel és az egészségbiztosítási járulék-fizetés szabályozásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Rehabilitációs kártya igénylésének, kibocsátásának, felhasználásának, kicserélésének, visszavonásának és a hozzá kapcsolódó kedvezmény érvényesítésének részletes szabályait.
 
 (6)
 

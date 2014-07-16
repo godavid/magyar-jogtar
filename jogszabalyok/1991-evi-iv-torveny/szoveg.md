@@ -267,7 +267,7 @@ adható.
 
 (3) Munkaerő-piaci program keretében a munkaadó részére a munkaviszonyban foglalkoztatott személy munkabére és járulékai legfeljebb száz százalékának megfelelő összegű támogatás nyújtható.
 
-(4) Felhatalmazást kap a miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter és a társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben határozza meg a (2) bekezdésben foglalt egységes támogatás megállapításának feltételeit.
+(4) Felhatalmazást kap a miniszter, hogy a társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben határozza meg a (2) bekezdésben foglalt egységes támogatás megállapításának feltételeit.
 
 ### Egyes általánostól eltérő foglalkoztatási formák támogatása
 

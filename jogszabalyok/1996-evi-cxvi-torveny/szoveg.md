@@ -149,7 +149,7 @@ a következő törvényt alkotja:
 
 (3) Az Országgyűlés a nemzeti politikáról normatív országgyűlési határozatban rendelkezik.
 
-(4) A nemzeti politika és annak felülvizsgálata előkészítéséről az atomenergia-felügyeleti szerv felügyeletét ellátó, a miniszterelnök által kijelölt miniszter (a továbbiakban: kijelölt miniszter) gondoskodik.
+(4) A nemzeti politika és annak felülvizsgálata előkészítéséről az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter (a továbbiakban: miniszter) gondoskodik.
 
 (5) A nemzeti politika kidolgozása során az alábbi elveket kell érvényesíteni:
 
@@ -166,7 +166,7 @@ a következő törvényt alkotja:
 
 (2) A Kormány ötévente felülvizsgálja a hatályos nemzeti programot.
 
-(3) A nemzeti program és annak felülvizsgálata előkészítéséről a kijelölt miniszter gondoskodik. A nemzeti program elkészítése, felülvizsgálata során figyelembe kell venni a műszaki és a tudományos fejlődés eredményeit, a szakértői értékelések során megfogalmazott ajánlásokat, az üzemi és az üzemzavari eseményekből levont tanulságokat, valamint a bevált gyakorlatot is.
+(3) A nemzeti program és annak felülvizsgálata előkészítéséről a miniszter gondoskodik. A nemzeti program elkészítése, felülvizsgálata során figyelembe kell venni a műszaki és a tudományos fejlődés eredményeit, a szakértői értékelések során megfogalmazott ajánlásokat, az üzemi és az üzemzavari eseményekből levont tanulságokat, valamint a bevált gyakorlatot is.
 
 (4) A nemzeti programnak ki kell terjednie
 
@@ -199,7 +199,7 @@ a következő törvényt alkotja:
 
 (2) Új nukleáris létesítmény és radioaktívhulladék-tároló létesítését, valamint meglévő atomerőmű további atomreaktort tartalmazó egységgel való bővítését előkészítő tevékenység megkezdéséhez az Országgyűlés előzetes, elvi hozzájárulása szükséges.
 
-8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal, felügyeletét a kijelölt miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal, felügyeletét a miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
 (2)
 
@@ -218,7 +218,7 @@ a következő törvényt alkotja:
 - f) feladatkörében együttműködik más országok hasonló hatósági feladatokat ellátó szervezeteivel, és velük kétoldalú szakmai megállapodásokat köt, két- és többoldalú nemzetközi kapcsolatokat épít ki és tart fenn, összehangolja az atomenergia alkalmazásának biztonságával és védettségével összefüggő nemzetközi együttműködést, továbbá ennek körében véleményezi az e téren kötendő nemzetközi egyezményeket, és figyelemmel kíséri – hatáskörét illetően – azok megvalósulását;
 - g) ellátja az 5/A. § (4) bekezdése alapján Magyarországot terhelő kötelezettségeket.
 
-(5) A kijelölt miniszter
+(5) A miniszter
 
 - a)
 - b) rendelkezik a Központi Nukleáris Pénzügyi Alappal;
@@ -858,7 +858,7 @@ alkalmazásával kell megállapítani.
 
 62. § (1) A Központi Nukleáris Pénzügyi Alap a radioaktív hulladék végleges elhelyezésének, a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésével összefüggő feladatok finanszírozását biztosító elkülönített állami pénzalap.
 
-(2) A Központi Nukleáris Pénzügyi Alap kezelő szerve a kijelölt miniszter által vezetett minisztérium.
+(2) A Központi Nukleáris Pénzügyi Alap kezelő szerve a miniszter által vezetett minisztérium.
 
 (3) A Központi Nukleáris Pénzügyi Alap terhére kizárólag a 10/A. § (2) bekezdésében és az (1) bekezdésben meghatározott célokra lehet kifizetést teljesíteni, továbbá a Központi Nukleáris Pénzügyi Alap kezelésével kapcsolatban a (2) bekezdés szerinti szerv által ellátott feladatokat a Központi Nukleáris Pénzügyi Alap terhére kell finanszírozni.
 
@@ -867,12 +867,12 @@ alkalmazásával kell megállapítani.
 - a) szerződést köt a 40. § (1) bekezdése szerint kijelölt szervvel a 40. § szerinti feladatok finanszírozására,
 - b) engedélyezi, hogy a 40. § (1) bekezdése szerint kijelölt szerv megkösse a Központi Nukleáris Pénzügyi Alapból finanszírozandó tevékenységek éves munkaprogramja szerinti célkitűzések teljesítéséhez szükséges szerződéseket,
 - c) nyilvántartja és kezeli a 40. § (1) bekezdése szerint kijelölt szerv által kötött szerződéseket,
-- d) előkészíti és a kijelölt miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alap költségvetési előirányzatát érintő előirányzat-módosítást, továbbá
-- e) megvizsgálja, és egyetértése esetén a (6) bekezdés szerinti testület előzetes állásfoglalásával együtt jóváhagyásra a kijelölt miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alapból finanszírozandó tevékenységek közép- és hosszú távú terveit, és ezek részeként a befizetési kötelezettségekre vonatkozó javaslatokat, továbbá az éves munkaprogramokat és beszámolókat.
+- d) előkészíti és a miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alap költségvetési előirányzatát érintő előirányzat-módosítást, továbbá
+- e) megvizsgálja, és egyetértése esetén a (6) bekezdés szerinti testület előzetes állásfoglalásával együtt jóváhagyásra a miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alapból finanszírozandó tevékenységek közép- és hosszú távú terveit, és ezek részeként a befizetési kötelezettségekre vonatkozó javaslatokat, továbbá az éves munkaprogramokat és beszámolókat.
 
-(5) A (4) bekezdés e) pontja szerinti dokumentumok kijelölt miniszterhez való felterjesztéséhez csatolni kell az atomenergia-felügyeleti szerv előzetes szakmai értékelését is.
+(5) A (4) bekezdés e) pontja szerinti dokumentumok miniszterhez való felterjesztéséhez csatolni kell az atomenergia-felügyeleti szerv előzetes szakmai értékelését is.
 
-(6) A kijelölt miniszter Központi Nukleáris Pénzügyi Alappal kapcsolatos munkájának segítése érdekében értékelő és előzetes állásfoglalást kialakító testület működik.
+(6) A miniszter Központi Nukleáris Pénzügyi Alappal kapcsolatos munkájának segítése érdekében értékelő és előzetes állásfoglalást kialakító testület működik.
 
 63. § (1) Az atomerőmű a radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának – beleértve a tároló leszerelését is –, és a nukleárisüzemanyag-ciklus lezárásának, továbbá az atomerőmű leszerelésének, valamint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatás költségeit a Központi Nukleáris Pénzügyi Alapba történő befizetés útján köteles biztosítani. Az adott évre megállapított összeg arányos részét közvetlenül a Központi Nukleáris Pénzügyi Alap kincstárnál vezetett számlájára havonta, a hónap 15. napjáig kell befizetni.
 
@@ -984,7 +984,7 @@ alkalmazásával kell megállapítani.
   - vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt;
 - v) a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója engedélyezési, ellenőrzési, jelentési követelményeit.
 
-68. § (1) Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza
+68. § (1) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 - a) a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait az egészségügyért felelős miniszterrel, a rendészetért felelős miniszterrel, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
 - b) a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait az egészségügyért, a rendészetért, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
@@ -1001,7 +1001,7 @@ alkalmazásával kell megállapítani.
 - b) az atomenergia alkalmazása körében használt berendezések, eszközök sugárvédelmi minősítését;
 - c) az atomenergia alkalmazása körében munkavállalókra érvényes sugáregészségügyi, munkavégzési, munkaköri alkalmassági szabályokat, és az atomenergia alkalmazása körében munkavállalók sugárvédelmi oktatása rendjét;
 - d) a közúti szállító eszközök sugárvédelmi követelményeit;
-- e) az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben az atomenergia alkalmazásával összefüggő sugárvédelmi szabályokat és a sugárvédelmi szolgálatok feladatára és működésére vonatkozó részletes előírásokat;
+- e) a miniszterrel egyetértésben az atomenergia alkalmazásával összefüggő sugárvédelmi szabályokat és a sugárvédelmi szolgálatok feladatára és működésére vonatkozó részletes előírásokat;
 - f) az egészségügyi ágazat radiológiai mérő és adatszolgáltató hálózata felépítésének és működésének szabályait;
 - g) a radon- és radon leányelem-koncentrációk elfogadható szintjét lakó- és középületekben, valamint az építésügyért felelős miniszterrel és a környezetvédelemért felelős miniszterrel egyetértésben, az építőanyagok gyártásához felhasznált alapanyagok, a kereskedelmi forgalomba kerülő építőanyagok, továbbá az építési területek felhasználhatóságának sugárvédelmi szempontból való korlátozását;
 - h) a kereskedelemért felelős miniszterrel egyetértésben a külföldről származó és kereskedelmi forgalomba kerülő termékek, illetve alapanyagok radioaktivitásával kapcsolatos előírások betartásának és ellenőrzésének szabályait;
@@ -1015,14 +1015,14 @@ alkalmazásával kell megállapítani.
 - p) a radioaktív hulladékok átmeneti tárolásának és végleges elhelyezésének sugáregészségügyi szabályait;
 - q) bányászati ügyekért felelős miniszterrel egyetértésben a bányászati és földtani környezettel kapcsolatos sugáregészségügyi előírásokat.
 
-(3) Felhatalmazást kap a környezetvédelmért felelős miniszter, hogy rendeletben állapítsa meg az atomenergia-felügyeleti szervet felügyelő miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben
+(3) Felhatalmazást kap a környezetvédelmért felelős miniszter, hogy rendeletben állapítsa meg a miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben
 
 - a) az atomenergia alkalmazása során a levegőbe és vízbe kibocsátható radioaktív anyagok – fizikai és kémiai jellemzőktől függő – maximális mennyiségét és a kibocsátás más feltételeit, továbbá a levegő és a vízi környezet radioaktív szennyezése ellenőrzésére irányadó szabályokat;
 - b) a vizek és a víztartó képződmények radioaktív és hőszennyezés elleni védelmével kapcsolatos, a környezetvédelemre vonatkozó – általános jogszabályokon túlmenő – speciális szabályokat.
 
-(4) Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg a nukleáris és radioaktív anyagok szállítása és csomagolása követelményeit a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel, továbbá az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben.
+(4) Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg a nukleáris és radioaktív anyagok szállítása és csomagolása követelményeit a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel, továbbá a miniszterrel egyetértésben.
 
-(5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
+(5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy a miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
 
 (6)
 
@@ -1032,9 +1032,9 @@ alkalmazásával kell megállapítani.
 - b)
 - c) a katasztrófák elleni védekezésért felelős miniszter, hogy tűzbiztonság fokozása érdekében a tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeit és azok érvényesítésének módját a hatóságok tevékenysége során
 
-az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben, rendeletben állapítsa meg.
+a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint a miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
 
 (9)
 
@@ -1043,7 +1043,7 @@ az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben, re
 - a) a radioaktív anyagok kezelése és ellenőrzése ágazati szabályait, továbbá az e törvény hatálya alá tartozó létesítmények és haditechnikai berendezések létrehozása és megszüntetése szabályait;
 - b) az ágazat speciális (kiképzési, nukleárisbaleset-elhárítási, háborús) sugáregészségügyi szabályait.
 
-(11) Felhatalmazást kapnak a miniszterek, hogy rendeletben állapítsák meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
+(11) Felhatalmazást kap a Kormány tagja, hogy rendeletben állapítsa meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 
 (12) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 21/B. § szerinti, az atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket rendeletben határozza meg.
 

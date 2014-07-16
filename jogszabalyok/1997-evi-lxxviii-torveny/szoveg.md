@@ -103,7 +103,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
   - ba) összehangolja az építésügyi és az építésfelügyeleti hatóságok tevékenységét,
   - bb) ellátja az építésügyi és az építésfelügyeleti hatóságok, valamint az egyéb építésügyi igazgatási feladatot ellátó szervezet építésügyi igazgatási feladatainak szakmai irányítását, ennek keretében rendszeresen gondoskodik e szervezetek szakmai munkájának és a vonatkozó jogszabályok érvényesülésének helyszíni ellenőrzéséről,
 - c) ellátja az Országos Építésügyi Nyilvántartás (a továbbiakban: Nyilvántartás), valamint az Építésügyi Dokumentációs és Információs Központ (a továbbiakban: Dokumentációs Központ) szakmai irányítását és felügyeletét,
-- d) elősegíti – a régészeti örökség és a műemléki értékek védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
+- d) elősegíti – a kulturális örökség védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
 - e) részt vesz az építésügyet érintő felsőoktatási, szakirányú továbbképzési, oktatási képzési és szakképzési célok meghatározásában, azok tartalmának és képesítési követelményeinek kidolgozásában, továbbá kezdeményezési, véleményezési és egyetértési jogot gyakorol az erre vonatkozó jogszabályok előkészítésében,
 - f) a műemlékek és a sajátos építményfajtákért felelős miniszterek és önálló szabályozó szervek, valamint az építésügy területén érintett szakmai kamarák és az érintett felsőfokú oktatási és szakképzéssel foglalkozó intézmények javaslata alapján koordinálja, összefogja és irányítja az építésüggyel kapcsolatos szakmák gyakorlására vonatkozó szabályozás kialakítását,
 - g) ellátja a területi építész és mérnöki kamarák által vezetett, építésüggyel összefüggő szakmagyakorlási jogosultságokhoz kapcsolódó eljárások és nyilvántartások, valamint a vállalkozó építőipari kivitelezői nyilvántartás szakmai felügyeletét,
@@ -1221,7 +1221,7 @@ Kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény
 - b) az épített környezet alakításában, védelmében és fejlesztésében, a települési és építészeti értékek feltárásában, megőrzésében kifejtett eredményes és kiemelkedő munka, valamint
 - c) a településrendezési és az építésügyi igazgatási tevékenység kimagasló színvonalának elismerése.
 
-(4) A kultúráért felelős miniszter, valamint a sajátos építményfajták szerinti miniszterek külön jogszabályban meghatározott szakmai díjakat adományoznak.
+(4) A kulturális örökség védelméért felelős miniszter, valamint a sajátos építményfajták szerinti miniszterek külön jogszabályban meghatározott szakmai díjakat adományoznak.
 
 (5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során a miniszter együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
 

@@ -104,7 +104,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (2) A Kerekasztal elnökből és húsz tagból áll.
 
-(3) A Kerekasztal elnökét és két tagját a Hatóság Elnöke, két tagját az informatikáért felelős miniszter jelöli.
+(3) A Kerekasztal elnökét és két tagját a Hatóság Elnöke, egy tagját az informatikáért felelős miniszter, egy tagját az e-közigazgatásért felelős miniszter jelöli.
 
 (4) A Hatóság elnökének felhívására, az abban megjelölt határidőig a Kerekasztal nyolc tagjára a kiskorúak védelmével foglalkozó, országos működési területű, legalább három éve működő szakmai és civil szervezetek, további nyolc tagjára a médiatartalom-szolgáltatók, az elektronikus kereskedelmi szolgáltatók és az elektronikus hírközlési szolgáltatók országos működési területű, legalább három éve működő szakmai érdekképviseleti és önszabályozó szervezetei tehetnek javaslatot.
 

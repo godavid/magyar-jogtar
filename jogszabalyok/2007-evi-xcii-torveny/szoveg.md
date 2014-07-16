@@ -1762,7 +1762,7 @@ A jelen Jegyzőkönyv arab, kínai, angol, francia, orosz és spanyol nyelvű sz
 
 A fentiek hiteléül a kormányuktól megfelelő felhatalmazással rendelkező alulírott meghatalmazottak aláírták a jelen Jegyzőkönyvet.”
 
-4. § Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a törvény hivatalos magyar nyelvű fordításának vak és gyengénlátó emberek számára olvasható Braille-változatát, a megértési és olvasási problémával élő emberek számára készült könnyen érthető, valamint a siket és nagyothalló emberek számára készült jelesített változatát a Magyar Közlönyben közzétegye.
+4. § Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy a törvény hivatalos magyar nyelvű fordításának vak és gyengénlátó emberek számára olvasható Braille-változatát, a megértési és olvasási problémával élő emberek számára készült könnyen érthető, valamint a siket és nagyothalló emberek számára készült jelesített változatát a Magyar Közlönyben közzétegye.
 
 5. § (1) E törvény – a (2)–(3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
