@@ -445,7 +445,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 - a) büntetlen előéletű,
 - b) nem áll foglalkozási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt és
-- c) megfelel a társadalmi esélyegyenlőség előmozdításáért felelős miniszter rendeletében meghatározott egyéb feltételeknek.
+- c) megfelel a társadalmi felzárkózásért felelős miniszter rendeletében meghatározott egyéb feltételeknek.
 
 (2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormány által kijelölt szervnek bejelenteni. A bejelentés tartalmazza a bejelentő természetes személyazonosító adatait, valamint annak igazolását, hogy vele szemben kizáró ok nem áll fenn. A bejelentő hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a foglalkozási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a Kormány által erre kijelölt szerv részére – annak a bejelentés elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Kormány által erre kijelölt szerv a (4) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől. A Kormány által kijelölt szerv a bejelentés időtartama alatt kezeli az (1) és (4) bekezdésben meghatározott feltételek teljesülését alátámasztó adatokat.
 
@@ -464,7 +464,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 (5) A (4) bekezdés alapján megismert személyes adatokat a Kormány által kijelölt szerv a hatósági ellenőrzés lefolytatásáig kezeli.
 
-(6) A Kormány által kijelölt szerv a társadalmi esélyegyenlőség előmozdításáért felelős miniszter rendeletében meghatározottak szerint gondoskodik a foglalkozási rehabilitációs szakértők továbbképzéséről.
+(6) A Kormány által kijelölt szerv a társadalmi felzárkózásért felelős miniszter rendeletében meghatározottak szerint gondoskodik a foglalkozási rehabilitációs szakértők továbbképzéséről.
 
 #### 8/a. A rehabilitációs orvosszakértő
 
@@ -472,7 +472,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 - a) büntetlen előéletű,
 - b) nem áll rehabilitációs orvosszakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt és
-- c) megfelel a társadalmi esélyegyenlőség előmozdításáért felelős miniszter rendeletében meghatározott egyéb feltételeknek.
+- c) megfelel a társadalmi felzárkózásért felelős miniszter rendeletében meghatározott egyéb feltételeknek.
 
 (2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormány által kijelölt szervnek bejelenteni. A bejelentés tartalmazza a bejelentő természetes személyazonosító adatait, valamint annak igazolását, hogy vele szemben kizáró ok nem áll fenn. A bejelentő hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a rehabilitációs orvosszakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a Kormány által erre kijelölt szerv részére – annak a bejelentés elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Kormány által erre kijelölt szerv a (4) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől. A Kormány által kijelölt szerv a bejelentés időtartama alatt kezeli az (1) és (4) bekezdésben meghatározott feltételek teljesülését alátámasztó adatokat.
 
@@ -490,7 +490,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 (5) A (4) bekezdés alapján megismert személyes adatokat a Kormány által kijelölt szerv a hatósági ellenőrzés lefolytatásáig kezeli.
 
-(6) A Kormány által kijelölt szerv a társadalmi esélyegyenlőség előmozdításáért felelős miniszter rendeletében meghatározottak szerint gondoskodik a rehabilitációs orvosszakértők továbbképzéséről.
+(6) A Kormány által kijelölt szerv a társadalmi felzárkózásért felelős miniszter rendeletében meghatározottak szerint gondoskodik a rehabilitációs orvosszakértők továbbképzéséről.
 
 #### 9. Záró rendelkezések
 
@@ -505,15 +505,15 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 (2) Felhatalmazást kap a Kormány, hogy a rehabilitációs hatóságot, a megváltozott munkaképességű személyek ellátásait folyósító szervet, a rehabilitációs szakértői szervet, az orvosszakértői szervet, a foglalkozási rehabilitációs szakértői névjegyzéket és a rehabilitációs orvosszakértői névjegyzéket vezető szervet, valamint a foglalkozási rehabilitációs szakértők, rehabilitációs orvosszakértők továbbképzésével kapcsolatos feladatokat ellátó szervet rendeletben jelölje ki.
 
-(3) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben a komplex minősítésre vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben a komplex minősítésre vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a foglalkozási rehabilitációs szakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+(4) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy a foglalkozási rehabilitációs szakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
 
-(4a) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a továbbképzésre vonatkozó szabályokat, valamint a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+(4a) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a továbbképzésre vonatkozó szabályokat, valamint a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait rendeletben határozza meg.
+(5) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait rendeletben határozza meg.
 
-(6) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a foglalkozási rehabilitációs szakértői névjegyzékbe és a rehabilitációs orvosszakértői névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokat rendeletben határozza meg.
+(6) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a foglalkozási rehabilitációs szakértői névjegyzékbe és a rehabilitációs orvosszakértői névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokat rendeletben határozza meg.
 
 29. § (1) Ez a törvény – a (2)–(6) bekezdésben foglaltak kivételével – 2011. december 31-én lép hatályba.
 

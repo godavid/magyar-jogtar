@@ -117,7 +117,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - c) a létesítményben folytatott tevékenységre, az alkalmazott technológiára és az engedélyezett kibocsátásra vonatkozó adatok,
 - d) a hatóság által jóváhagyott nyomonkövetési terv,
 - e) a jelentési követelmények és
-- f) az üzemeltető azon kötelezettségének megállapítása, amely szerint minden év április 30-ig köteles a nyomon követett, hitelesített előző évi kibocsátásával egyenlő számú kibocsátási egységet a magyar államnak e törvény szerint visszaadni.
+- f) az üzemeltető azon kötelezettségének megállapítása, amely szerint minden év április 30-ig köteles a nyomon követett, hitelesített előző évi kibocsátásával egyenlő számú kibocsátási egységet az államnak e törvény szerint visszaadni.
 
 5. § (1) Az üzemeltető értesíti a hatóságot valamennyi, a létesítményben folytatott tevékenységének, tevékenységi körének, alkalmazott technológiájának vagy működésének megváltoztatására, a létesítmény kapacitásának bővítésére vagy jelentős csökkentésére irányuló szándékáról, amelyhez az üvegházhatású gáz kibocsátására vonatkozó engedély módosítására lehet szükség.
 
@@ -154,7 +154,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (4) A bezáró létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a bezárás évére vonatkozó hitelesített jelentést tenni. Ha a létesítmény bezárására az adott év február 28-ig kerül sor, a bezárás évére vonatkozó jelentéstétel és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 
-(5) Ha a légi jármű üzembentartó légiközlekedési tevékenysége megszűnik, vagy a tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, azt a bejelentés alapjául szolgáló esemény napjától számított 15 napon belül az energiapolitikáért felelős miniszternek (a továbbiakban: miniszter) és a hatóságnak bejelenti. A bejelentés tartalmazza a bejelentés alapjául szolgáló esemény időpontját és az annak igazolására alkalmas dokumentumot. A tevékenység megszűnésének vagy az 1. melléklet XXII. pontja alóli kikerülésnek napját követő 30 napon belül a légi jármű üzembentartója köteles a tevékenység megszűnésének, e törvény hatálya alóli kikerülésének évére vonatkozóan hitelesített jelentést benyújtani a hatóság részére. Ha a bejelentett eseményre az adott év február 28-ig kerül sor, a jelentés és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
+(5) Ha a légi jármű üzembentartó légiközlekedési tevékenysége megszűnik, vagy a tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, azt a bejelentés alapjául szolgáló esemény napjától számított 15 napon belül az államháztartásért felelős miniszternek (a továbbiakban: miniszter) és az energiapolitikáért felelős miniszternek és a hatóságnak bejelenti. A bejelentés tartalmazza a bejelentés alapjául szolgáló esemény időpontját és az annak igazolására alkalmas dokumentumot. A tevékenység megszűnésének vagy az 1. melléklet XXII. pontja alóli kikerülésnek napját követő 30 napon belül a légi jármű üzembentartója köteles a tevékenység megszűnésének, e törvény hatálya alóli kikerülésének évére vonatkozóan hitelesített jelentést benyújtani a hatóság részére. Ha a bejelentett eseményre az adott év február 28-ig kerül sor, a jelentés és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 
 11. § A 10. § (1) és (2) bekezdése szerinti kibocsátási jelentéseket és tonnakilométer-adatokat tartalmazó jelentéseket akkreditált hitelesítő szervezettel kell hitelesíttetni.
 
@@ -162,15 +162,15 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 12. § (1) Az ÜHG-egység dematerializált, immateriális, forgalomképes vagyoni értékű jog, amely a 389/2013/EU bizottsági rendelet 41. cikkében meghatározott módon jön létre.
 
-(2) Az állam tulajdonában lévő ÜHG-egységek tekintetében a tulajdonosi jogok gyakorlója a miniszter.
+(2) Az állam tulajdonában lévő ÜHG-egységek tekintetében a tulajdonosi jogokat és kötelezettségeket a miniszter gyakorolja, illetve teljesíti.
 
-(3) A magyar állam tulajdonában lévő és a 389/2013/EU bizottsági rendelet értelmében a magyar nemzeti tisztviselő által kezelt számlákon lévő ÜHG-egységek nyilvántartásáról a miniszter a jegyzékkezelő útján gondoskodik.
+(3) Az állam tulajdonában lévő és a 389/2013/EU bizottsági rendelet értelmében a magyar nemzeti tisztviselő által kezelt számlákon lévő ÜHG-egységek nyilvántartásáról a miniszter a jegyzékkezelő útján gondoskodik.
 
-13. § (1) A magyar állam tulajdonában lévő ÜHG-egységek esetében az állami vagyonról szóló törvény és végrehajtására kiadott kormányrendeletek, a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) és a végrehajtására kiadott kormányrendeletek tulajdonjog átruházásával, állami vagyon elidegenítésével, a vagyonnal történő rendelkezéssel kapcsolatos szabályait a 389/2013/EU bizottsági rendeletben, az e törvényben és a végrehajtására kiadott kormányrendeletben foglalt eltéréssel kell alkalmazni.
+13. § (1) Az állam tulajdonában lévő ÜHG-egységek esetében az állami vagyonról szóló törvény és végrehajtására kiadott kormányrendeletek, a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) és a végrehajtására kiadott kormányrendeletek tulajdonjog átruházásával, állami vagyon elidegenítésével, a vagyonnal történő rendelkezéssel kapcsolatos szabályait a 389/2013/EU bizottsági rendeletben, az e törvényben és a végrehajtására kiadott kormányrendeletben foglalt eltéréssel kell alkalmazni.
 
 (2)
 
-(3) A magyar állam tulajdonában lévő ÜHG-egységek esetében az Nvtv. értéknyilvántartásra, könyvvezetési és beszámoló készítési kötelezettségre vonatkozó rendelkezései nem alkalmazandók.
+(3) Az állam tulajdonában lévő ÜHG-egységek esetében az Nvtv. értéknyilvántartásra, könyvvezetési és beszámoló készítési kötelezettségre vonatkozó rendelkezései nem alkalmazandók.
 
 (4)
 
@@ -179,6 +179,8 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 (2) Az egyes kereskedési időszak kezdete után négy hónappal az érvényességét vesztett, és a jelentési időszakokat követően vissza nem adott és nem törölt ÜHG-egység forgalmi jegyzékből történő törlése iránt a jegyzékkezelő intézkedik. A törléssel az ÜHG-egység megszűnik.
 
 (3) A (2) bekezdés szerint megszűnt ÜHG-egység helyett – a törléssel egyidejűleg – a kibocsátási egység jogosultjának forgalmi jegyzékben vezetett számláján a jegyzékkezelő a folyó időszakra érvényes ÜHG-egységet ír jóvá.
+
+14/A. § A miniszter a 12. § (2) bekezdésében, a 15. § (4) bekezdésében, a 15. § (5) bekezdés első mondatában, a 16. § (5) bekezdésében, a 18/A. § (3) bekezdésében, a 18/B. § (4) bekezdésében, a 18/F. § (1) bekezdésében, a 30. § (2) bekezdésében és a 38. § (1) bekezdésében meghatározott feladatait az energiapolitikáért felelős miniszterrel együttműködésben látja el.
 
 #### 6. A kibocsátási egységek kiosztása
 
@@ -271,7 +273,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (2) A hatóság a 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait a határozat meghozatalát követő 3 napon belül a honlapján közzé teszi.
 
-(3) A miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak a minisztérium honlapján történő közzétételéről.
+(3) A miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak a miniszter által vezetett minisztérium honlapján történő közzétételéről.
 
 #### 7. A légiközlekedési kibocsátási egységek kiosztása a légi jármű üzembentartóknak
 
@@ -313,38 +315,38 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 #### 8. Az ÜHG-egységek visszaadása
 
-24. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni a magyar állam részére. A visszaadott kibocsátási egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
+24. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni az állam részére. A visszaadott kibocsátási egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
 
-(2) A légi jármű üzembentartó köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű ÜHG-egységet a tárgyévet követő év április 30-ig visszaadni a magyar állam részére. A visszaadott ÜHG-egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
+(2) A légi jármű üzembentartó köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű ÜHG-egységet a tárgyévet követő év április 30-ig visszaadni az állam részére. A visszaadott ÜHG-egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
 
 (3) Ha
 
 - a) az üzemeltető és a légi jármű üzembentartó nem adott le hitelesített jelentést, vagy
 - b) a leadott hitelesítési jelentésben a hitelesítő szervezet azt állapítja meg, hogy
   - ba) a kibocsátás nem a jogszabályoknak, illetve a kibocsátási engedélynek megfelelően történt, vagy
-  - bb) a nyomon követés nem felelt meg az előírásoknak, akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközlekedési kiosztási táblában szereplő adatok és a forgalmi jegyzékben szereplő adatok alapján – az üzemeltető vagy a légi jármű üzemeltető költségére bevont hitelesítő útján – a hatóság állapítja meg a tárgyévi kibocsátást, amelynek megfelelő mennyiségű kibocsátási egységet, légi jármű üzembentartó esetében ÜHG-egységet a hatóság felszólítására vissza kell adniuk a magyar állam részére.
+  - bb) a nyomon követés nem felelt meg az előírásoknak, akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközlekedési kiosztási táblában szereplő adatok és a forgalmi jegyzékben szereplő adatok alapján – az üzemeltető vagy a légi jármű üzemeltető költségére bevont hitelesítő útján – a hatóság állapítja meg a tárgyévi kibocsátást, amelynek megfelelő mennyiségű kibocsátási egységet, légi jármű üzembentartó esetében ÜHG-egységet a hatóság felszólítására vissza kell adniuk az állam részére.
 
 (4) A légiközlekedési kibocsátási egységeket kizárólag a légiközlekedési kibocsátási egységek visszaadásával kapcsolatos kötelezettségek teljesítésére lehet felhasználni. A légi jármű üzembentartó a visszaadási kötelezettség teljesítéséhez felhasználhat kibocsátási egységet.
 
 (5) Nem vonatkozik a visszaadási kötelezettség az olyan hitelesített kibocsátásra, amelyet elkülönítettek, és a szén-dioxid geológiai tárolásáról szóló jogszabály szerinti tárolási engedéllyel rendelkező létesítménybe szállítottak állandó tárolás céljából.
 
-(6) A szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a bányászatról szóló törvényben meghatározott szivárgás esetén köteles a szivárgást követő év április 30-ig a környezetbe jutó üvegházhatású gázokkal egyenértékű kibocsátási egységet a magyar állam részére visszaadni.
+(6) A szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a bányászatról szóló törvényben meghatározott szivárgás esetén köteles a szivárgást követő év április 30-ig a környezetbe jutó üvegházhatású gázokkal egyenértékű kibocsátási egységet az állam részére visszaadni.
 
 #### 9. Az ÜHG-egységek értékesítése és forgalomképessége
 
-25. § (1) A magyar állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a miniszter az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. A magyar állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
+25. § (1) Az állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a miniszter az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. Az állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
 
-(2) A magyar állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység árverés útján kerül értékesítésre.
+(2) Az állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység árverés útján kerül értékesítésre.
 
-(3) A magyar állam tulajdonában lévő légiközlekedési kibocsátási egységek esetében a térítésmentesen ki nem osztott kibocsátási egységek árverés útján kerülnek értékesítésre. Az árverés útján értékesítendő légiközlekedési kibocsátási egységek éves mennyiségét az Európai Bizottság határozza meg.
+(3) Az állam tulajdonában lévő légiközlekedési kibocsátási egységek esetében a térítésmentesen ki nem osztott kibocsátási egységek árverés útján kerülnek értékesítésre. Az árverés útján értékesítendő légiközlekedési kibocsátási egységek éves mennyiségét az Európai Bizottság határozza meg.
 
-(4) A magyar állam tulajdonában lévő ÜHG-egységek árverés útján történő értékesítésére Magyarország a tagállamok által az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdésének megfelelően kiválasztott aukciós platformot veszi igénybe.
+(4) Az állam tulajdonában lévő ÜHG-egységek árverés útján történő értékesítésére Magyarország a tagállamok által az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdésének megfelelően kiválasztott aukciós platformot veszi igénybe.
 
 (5) A térítés ellenében kiosztott (értékesített) ÜHG-egységek számlatulajdonosok forgalmi jegyzékbeli számláin történő jóváírásáról a miniszter a jegyzékkezelő útján gondoskodik.
 
 (6) Az ÜHG-egységek térítés ellenében történő kiosztása (értékesítése) során az Nvtv. átlátható szervezetre vonatkozó rendelkezéseit nem kell alkalmazni.
 
-26. § (1) A miniszter az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (2) bekezdésében foglaltaktól eltérően a kibocsátási egységek magyar állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a légiközlekedési kibocsátási egységek magyar állam általi, árverés útján való értékesítéséből származó bevételnek
+26. § (1) A miniszter az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (2) bekezdésében foglaltaktól eltérően a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevételnek
 
 - a) az üvegházhatású gázok kibocsátásának csökkentését és az éghajlatváltozás hatásaihoz való alkalmazkodást célzó hazai és nemzetközi tevékenységek támogatására,
 - b) a magyar klímapolitika és zöldgazdaság-fejlesztés hatékony megvalósítására,
@@ -362,7 +364,7 @@ fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében 
 
 #### 10. A kibocsátáscsökkentési egység és az igazolt kibocsátás-csökkentési egység beszámítása a harmadik kereskedési időszakban
 
-29. § (1) Az üzemeltető és a légi jármű üzembentartó a 2008–2012 közötti kereskedési időszakban a részükre engedélyezett, de fel nem használt, illetve a korábbi kereskedési időszakban be nem számított, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvényben (a továbbiakban: Éhvt.) meghatározott kibocsátás-csökkentési egység (a továbbiakban: ERU) és az igazolt kibocsátás-csökkentési egység (a továbbiakban: CER) 2013–2020 közötti időszakra érvényes kibocsátási egységre történő átváltását kérelmezhetik a miniszternél. A kérelmet legkésőbb 2014. június 30-ig kell benyújtani. A miniszter 2015. március 31-ig gondoskodik az átváltásról és a kibocsátási egységeknek az üzemeltető, a légi jármű üzembentartó forgalmi jegyzékben vezetett számláján történő jóváírásáról.
+29. § (1) Az üzemeltető és a légi jármű üzembentartó a 2008–2012 közötti kereskedési időszakban a részükre engedélyezett, de fel nem használt, illetve a korábbi kereskedési időszakban be nem számított, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvényben (a továbbiakban: Éhvt.) meghatározott kibocsátás-csökkentési egység (a továbbiakban: ERU) és az igazolt kibocsátás-csökkentési egység (a továbbiakban: CER) 2013–2020 közötti időszakra érvényes kibocsátási egységre történő átváltását kérelmezhetik az energiapolitikáért felelős miniszternél. A kérelmet legkésőbb 2014. június 30-ig kell benyújtani. Az energiapolitikáért felelős miniszter 2015. március 31-ig gondoskodik az átváltásról és a kibocsátási egységeknek az üzemeltető, a légi jármű üzembentartó forgalmi jegyzékben vezetett számláján történő jóváírásáról.
 
 (2) Az üzemeltető a 2008–2020 közötti időszakban legfeljebb a számára a második kereskedési időszakra (2008–2012) – új belépők esetében a számára új belépőként történő kiosztást is figyelembe véve – engedélyezett mennyiség erejéig, vagy ha az magasabb, a számára a második kereskedési időszakban (2008–2012) térítésmentesen kiosztott kibocsátási egységek 11%-áig beszámíthat ERU és CER egységeket a visszaadási kötelezettsége teljesítéséhez.
 
@@ -376,7 +378,7 @@ fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében 
 
 (2) A forgalmi jegyzékben vezetett magyar nemzeti folyószámla feletti tulajdonosi jogokat a miniszter gyakorolja.
 
-(3) A 389/2013/EU bizottsági rendelet szerinti nemzeti tisztviselőt a Kormány rendeletben jelöli ki. A nemzeti tisztviselő biztosítja a miniszter számára a forgalmi jegyzékhez való folyamatos hozzáférést. A nemzeti tisztviselő a 389/2013/EU bizottsági rendelet szerint látja el jegyzékkezelői feladatát.
+(3) A 389/2013/EU bizottsági rendelet szerinti nemzeti tisztviselőt a Kormány rendeletben jelöli ki. A nemzeti tisztviselő biztosítja a miniszter és a 29. § tekintetében az energiapolitikáért felelős miniszter számára a forgalmi jegyzékhez való folyamatos hozzáférést. A nemzeti tisztviselő a 389/2013/EU bizottsági rendelet szerint látja el jegyzékkezelői feladatát.
 
 (4) A 389/2013/EU bizottsági rendelet szerinti meghatalmazott képviselőt a miniszter jelöli ki.
 
@@ -414,7 +416,7 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 (3) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető vagy a légi jármű üzembentartó a jelentési vagy hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltető vagy a légi jármű üzembentartó nevét és a kötelességszegés tényét honlapján nyilvánosságra hozza.
 
-(4) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül az üzemeltető és a légi jármű üzembentartó köteles az elmulasztott ÜHG-egységekkel egyező mennyiségű ÜHG-egységet a tárgyévet követő második év április 30-ig a magyar állam részére visszaadni. Ennek elmulasztása esetén a tárgyévet követő harmadik évben az üzemeltető és a légi jármű üzembentartó számláján a mulasztással érintett mennyiséggel csökkentett mennyiségű ÜHG-egység kerül jóváírásra.
+(4) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül az üzemeltető és a légi jármű üzembentartó köteles az elmulasztott ÜHG-egységekkel egyező mennyiségű ÜHG-egységet a tárgyévet követő második év április 30-ig az állam részére visszaadni. Ennek elmulasztása esetén a tárgyévet követő harmadik évben az üzemeltető és a légi jármű üzembentartó számláján a mulasztással érintett mennyiséggel csökkentett mennyiségű ÜHG-egység kerül jóváírásra.
 
 #### 14. Felügyeleti díj
 
@@ -450,16 +452,16 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 (4) Az (1) és (2) bekezdés szerinti kötelezettség teljesítése során a 2009/406/EK európai parlamenti és tanácsi határozat 3. és 5. cikkében meghatározott rugalmas éves elszámolási szabályok vehetők igénybe.
 
-38. § (1) A 2009/406/EK európai parlamenti és tanácsi határozat 3. cikk (2) bekezdése és II. melléklete alapján Magyarország számára a 2013–2020 közötti időszakra vonatkozóan évenként maximálisan engedélyezett, a 37. § (1) bekezdése szerinti üvegházhatású gázkibocsátás a magyar állam tulajdonában álló vagyoni értékű jogosultság (a továbbiakban: ESD-egység). Az ESD-egység feletti tulajdonosi jogokat a miniszter gyakorolja.
+38. § (1) A 2009/406/EK európai parlamenti és tanácsi határozat 3. cikk (2) bekezdése és II. melléklete alapján Magyarország számára a 2013–2020 közötti időszakra vonatkozóan évenként maximálisan engedélyezett, a 37. § (1) bekezdése szerinti üvegházhatású gázkibocsátás az állam tulajdonában álló vagyoni értékű jogosultság (a továbbiakban: ESD-egység). Az ESD-egység feletti tulajdonosi jogokat a miniszter gyakorolja.
 
 (2) Az ESD-egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
-(3) A magyar állam tulajdonában álló ESD-egység a következő módokon használható fel a 2009/406/EK európai parlamenti és tanácsi határozattal összhangban:
+(3) Az állam tulajdonában álló ESD-egység a következő módokon használható fel a 2009/406/EK európai parlamenti és tanácsi határozattal összhangban:
 
 - a) Magyarország 37. § szerinti kibocsátás-csökkentési céljának teljesítésére, a Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére;
 - b) a (4) bekezdés szerinti értékesítésre.
 
-(4) A miniszter a magyar állam nevében ESD-egységeket értékesíthet és vásárolhat e törvény céljának hatékonyabb elérése céljából. Az értékesítés az állami vagyonról szóló törvény, az Nvtv. és az értékesítés részletszabályait meghatározó, e törvény végrehajtására kiadott jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
+(4) A miniszter az állam nevében ESD-egységeket értékesíthet és – az energiapolitikáért felelős miniszterrel együttműködésben – vásárolhat e törvény céljának hatékonyabb elérése érdekében. Az értékesítés az állami vagyonról szóló törvény, az Nvtv. és az értékesítés részletszabályait meghatározó, e törvény végrehajtására kiadott jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
 (5) A (4) bekezdés szerinti értékesítési bevétel felhasználásáról a miniszter előterjesztése alapján a Kormány dönt.
 
@@ -473,7 +475,7 @@ vonatkozó adatok környezeti információnak minősülnek.
 - b) a kibocsátási engedély tartalmára vonatkozó részletes szabályokat,
 - c) az ÜHG-egységek kiosztásához szükséges részletszabályokat,
 - d) az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatkozó részletes szabályokat,
-- e) a magyar állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
+- e) az állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
 - f)
 - g) a hatóság és a jegyzékkezelő kijelölését és az ÜHG-egységek nyilvántartásának szabályait,
 - h) a CER és az ERU beszámításának részletes szabályait,
@@ -493,7 +495,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-- a) a fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletben állapítsa meg,
+- a) a fizetendő igazgatási szolgáltatási díj mértékét rendeletben állapítsa meg,
 - b) az igazgatási szolgáltatási díj és a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.
 
 40. § (1) E törvény – a (2)–(6) bekezdésben meghatározott kivétellel – 2012. december 31-én lép hatályba.

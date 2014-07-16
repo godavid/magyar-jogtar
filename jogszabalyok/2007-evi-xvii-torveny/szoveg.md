@@ -43,7 +43,12 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 - a) beruházás: az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. §-a (1) bekezdésének a) pontjában megfogalmazott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés. A társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 - b) egyéb szervezet: a szakcsoport, valamint a jogi személyiséggel nem rendelkező szervezet;
 - c) illetékes hatóság: az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló 885/2006/EK bizottsági rendelet (2006. június 21.) 1. cikkének (2) bekezdése alapján az agrárpolitikáért felelős miniszter;
-- d) irányító hatóság: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet (2005. szeptember 20.) 75. cikke, valamint az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés a) pontja alapján az agrárpolitikáért felelős miniszter;
+- d) irányító hatóság: az agrár-vidékfejlesztésért felelős miniszter mint
+  - da) a 2007–2013 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet (2005. szeptember 20.) 75. cikke és az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés a) pontja,
+  - db) a 2014–2020 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1305/2013/EU európai parlamenti és tanácsi rendelet (2013. december 17.) 65. cikk (2) bekezdése és az Európai Halászati Alappal összefüggésben a 2014–2020 programozási időszakra vonatkozó közösségi jogi aktus
+
+alapján kijelölt hatóság;
+
 - e) kifizető ügynökség: a közös agrárpolitika finanszírozásáról szóló 1290/2005/EK tanácsi rendelet (2005. június 21.) 6. cikkében meghatározottak szerinti, a Kormány által rendeletben kijelölt, és az illetékes hatóság által e feladat ellátására akkreditált szerv;
 - f) igazoló szerv: a közös agrárpolitika finanszírozásáról szóló 1290/2005/EK tanácsi rendelet (2005. június 21.) 7. cikkében meghatározottak szerinti szerv;
 - g) közreműködő szervezet: az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 3. cikk p) pontja szerinti szervezet;
@@ -104,7 +109,7 @@ benyújtásával a hatáskörrel és illetékességgel rendelkező szervnél elj
 
 hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek hatáskörébe tartozó eljárására.
 
-(2) A törvény végrehajtásáért az agrárpolitikáért, agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) felel. A miniszter:
+(2) E törvény végrehajtásáért az EMVA vagy az EHA terhére nyújtott támogatás tekintetében az agrár-vidékfejlesztésért felelős miniszter, az EMGA terhére nyújtott támogatás tekintetében az agrárpolitikáért felelős miniszter felel, amelynek keretében:
 
 - a) az államháztartás működési rendjére vonatkozó jogszabályok rendelkezései szerint gondoskodik a belső kontrollrendszerek kialakításáról, azok folyamatos és hatékony működtetéséről, valamint
 - b) felel az egyes végrehajtási feladatokat ellátó szervek, szervezetek közötti feladatok elhatárolásáért.
@@ -136,13 +141,13 @@ gyakorolja.
 
 (9) A (4) bekezdés szerinti ellenőrzés lefolytatása nem érinti az államháztartásra vonatkozó jogszabályok rendelkezései szerinti független belső ellenőrzés keretében lefolytatott ellenőrzési tevékenységet.
 
-(10) Ha az igazoló szerv, az igazoló hatóság, a közreműködő szervezet, az ellenőrző hatóság, az átruházott feladatot ellátó szervezet, az együttműködő szervezet, a helyi akciócsoport, a nemzeti vidéki hálózat kijelöléséhez a közbeszerzésekről szóló 2003. évi CXXIX. törvény alapján nem kell közbeszerzési eljárást lefolytatni, e szervek, illetve szervezetek kijelöléséről a miniszter – ha e szervek, szervezetek felett az alapítói, illetőleg irányítási jogokat más miniszter gyakorolja, az államháztartásért felelős miniszter és az érintett miniszter egyetértésével kiadott – rendeletben intézkedik. Amennyiben a kijelölés alapján a feladat ellátásáról szóló megállapodást olyan szervezettel kötik meg, amely felett az alapítói, illetőleg irányítási jogokat más miniszter gyakorolja, e megállapodás létrejöttéhez az államháztartásért felelős miniszter, valamint az alapítói, illetőleg irányítási jogokat gyakorló miniszter jóváhagyása szükséges. A Kormány rendeletben intézkedik a nem közigazgatási feladat ellátására létrehozott szervezet, köztestület vagy személy átruházott feladatot ellátó vagy együttműködő szervezetként való kijelöléséről, valamint az általuk ellátandó hatósági feladatok köréről.
+(10) Ha az igazoló szerv, az igazoló hatóság, a közreműködő szervezet, az ellenőrző hatóság, az átruházott feladatot ellátó szervezet, az együttműködő szervezet és a nemzeti vidékfejlesztési hálózat titkársága kijelöléséhez a közbeszerzésekről szóló törvény alapján nem kell közbeszerzési eljárást lefolytatni, e szervek, illetve szervezetek kijelöléséről a Kormány rendeletben intézkedik. A Kormány rendeletben intézkedik a nem közigazgatási feladat ellátására létrehozott szervezet, köztestület vagy személy átruházott feladatot ellátó vagy együttműködő szervezetként való kijelöléséről, valamint az általuk ellátandó hatósági feladatok köréről. A helyi akciócsoportot az agrár-vidékfejlesztésért felelős miniszter jelöli ki.
 
 (11) E törvény hatálya nem terjed ki a Közös Agrárpolitika hatálya alá tartozó termékek importjának engedélyezésére.
 
 (12) E törvény rendelkezéseit az exportengedélyezéssel, az export-visszatérítéssel kapcsolatos eljárásra, valamint a vámhatóság ellenőrzési hatáskörébe tartozó egyes intézkedésekre a közösségi jogi aktusokban, valamint a külön jogszabályokban foglaltak figyelembevételével kell alkalmazni.
 
-(13) A Kormány a miniszter útján az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 2. §-ában foglaltak szerint évente beszámol az Országgyűlésnek a törvény hatálya alá tartozó intézkedések végrehajtásáról.
+(13)
 
 (14) A 28–30/A. §-ban meghatározott nyilvántartással összefüggő kötelezettségek kiterjednek a hatáskörrel rendelkező hatóság hatáskörébe tartozó közigazgatási ügyekben részt vevő ügyfelekre is. Az élelmiszerlánc-felügyeleti szerv nyilvántartásaira vonatkozó törvény rendelkezéseit e törvény rendelkezéseivel együtt kell alkalmazni.
 
@@ -164,22 +169,22 @@ gyakorolja.
 
 ### Az illetékes hatósági jogkör gyakorlása
 
-13. § (1) A miniszter illetékes hatósági jogkörének gyakorlása során:
+13. § (1) Az agrárpolitikáért felelős miniszter illetékes hatósági jogkörének gyakorlása során:
 
 - a) felelős a kifizető ügynökség akkreditációjáért, e feladatkörében – a közösségi jogi aktusokban foglaltak szerint – jogosult az akkreditáció megadására, illetve szükség esetén annak megvonására;
 - b) folyamatosan figyelemmel kíséri a kifizető ügynökségnél az akkreditációs feltételek teljesítését;
 - c) gondoskodik az egyes intézkedésekhez kapcsolódó monitoringrendszer működéséhez és az ellenőrzési feladatok végrehajtásához szükséges ágazati információs rendszereknek más információs rendszerekkel való összehangolásáról;
 - d) közleményt ad ki a forrás kimerüléséről.
 
-(2) A miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), valamint g) és h) pontjai szerinti irányítási jogköröket gyakorolja.
+(2) Az agrárpolitikáért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), valamint g) és h) pontjai szerinti irányítási jogköröket gyakorolja.
 
 (3)
 
-(4) Az (1) bekezdés d) pontja szerinti közleményeket a miniszter által vezetett minisztérium hivatalos lapjában és honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
+(4) Az (1) bekezdés d) pontja szerinti közleményeket az agrárpolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
 
 ### Az irányító hatósági jogkör gyakorlása
 
-14. § (1) A miniszter irányító hatósági jogkörének gyakorlása során:
+14. § (1) Az agrár-vidékfejlesztésért felelős miniszter irányító hatósági jogkörének gyakorlása során:
 
 - a) a közösségi jogi aktusok, valamint az Európai Unió vonatkozó programjai alapján dönt a technikai segítségnyújtás céljaira rendelkezésre álló közösségi források felhasználásáról;
 - b) meghatározza a monitoring bizottság összetételét, illetve gondoskodik annak működtetéséről;
@@ -197,11 +202,11 @@ gyakorolja.
 - g) felel a partnerség elvének közösségi jogszabályok szerinti érvényesüléséért;
 - h) működteti a monitoringrendszert, valamint átveszi és kezeli az 1698/2005/EK rendeletben, valamint az 1198/2006/EK rendeletben foglalt adatszolgáltatási, jelentéstételi és értékelési kötelezettségek teljesítésére, a mezőgazdasági és vidékfejlesztési támogatási szerv által gyűjtött és összesített, az integrált igazgatási és ellenőrzési rendszerben nyilvántartott monitoringadatokat.
 
-(2) A miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a Ksztv. 2. § (1) bekezdés c), g) és h) pontja szerinti irányítási jogköröket gyakorolja.
+(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a Ksztv. 2. § (1) bekezdés c), g) és h) pontja szerinti irányítási jogköröket gyakorolja.
 
 (3)
 
-(4) Az (1) bekezdés c) pontja szerinti közleményeket a miniszter által vezetett minisztérium hivatalos lapjában, internetes honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
+(4) Az (1) bekezdés c) pontja szerinti közleményeket az agrár-vidékfejlesztésért felelős miniszter által vezetett minisztérium hivatalos lapjában, internetes honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
 
 ### A VÉGREHAJTÁS EGYES INTÉZMÉNYEI ÁLTALELLÁTANDÓ FELADATOK
 
@@ -951,13 +956,20 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 57/A. § (1) A jogorvoslati eljárás során a törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
+(1a) A mezőgazdasági és vidékfejlesztési támogatási szervnek
+
+- a) az EMVA-val és az EHA-val kapcsolatos döntése ellen irányuló fellebbezést az agrár-vidékfejlesztésért felelős miniszter,
+- b) az EMGA-val kapcsolatos döntése ellen irányuló fellebbezést az agrárpolitikáért felelős miniszter
+
+bírálja el.
+
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv döntése ellen benyújtott fellebbezésben pontosan meg kell jelölni azt a döntést, amely ellen a fellebbezés irányul, azaz fel kell tüntetni az ügyszámot, meg kell jelölni az ügyfél (és képviselője) nevét, lakóhelyét, székhelyét és azt az intézkedést, amely ellen a fellebbezés irányul. A fellebbezésben meg kell jelölni azt is, hogy a fellebbezést benyújtó személy a vitatott döntés megváltoztatását mennyiben és milyen okból kívánja.
 
-(3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a felettes szervhez, kivéve, ha az elsőfokú döntést hozó hatóság a megtámadott határozatot (végzést) visszavonja, illetőleg a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
+(3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a fellebbezés elbírálására jogosult hatósághoz, kivéve, ha az elsőfokú döntést hozó hatóság a megtámadott határozatot (végzést) visszavonja, illetőleg a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
 
-(4) A másodfokú döntést hozó hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő két hónapon belül hozza meg, amelyet a jogorvoslati kérelem elbírálója indokolt esetben, egy alkalommal ugyanezen időtartalommal meghosszabbíthat.
+(4) A fellebbezés elbírálására jogosult hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő két hónapon belül hozza meg, amelyet a jogorvoslati kérelem elbírálója indokolt esetben, egy alkalommal ugyanezen időtartalommal meghosszabbíthat.
 
-(5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a másodfokú hatóság csak abban az esetben veheti figyelembe, ha az ügyfél igazolni tudja, valamint az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott.
+(5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a fellebbezés elbírálására jogosult hatóság csak abban az esetben veheti figyelembe, ha az ügyfél igazolni tudja, valamint az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott.
 
 (6) A fellebbezési eljárás során eljárási, valamint mulasztási bírság is kiszabható.
 
@@ -1229,7 +1241,7 @@ kapcsolatos eljárások.
 
 78. § (1) Egyes, közvetlenül alkalmazandó közösségi jogi aktusokban meghatározott mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatások csak az Európai Bizottság részére történő bejelentést követően hirdethetők meg.
 
-(2) A miniszter közleményt ad ki a forrás kimerüléséről.
+(2) Az agrárpolitikáért felelős miniszter közleményt ad ki a forrás kimerüléséről.
 
 79. § A külön jogszabályban meghatározott birtokösszevonási célú termőföld vásárlás támogatásával összefüggésben az állam javára elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
 
@@ -1265,35 +1277,44 @@ kapcsolatos eljárások.
 
 rendeletben állapítsa meg.
 
+(1a) Felhatalmazást kap a Kormány, hogy az Európai Unió jogi aktusa vagy e törvény alapján átruházható feladatok körét rendeletben állapítsa meg, továbbá hogy a 11. § (10) bekezdése szerinti esetben az igazoló szervet, az igazoló hatóságot, az ellenőrző hatóságot, az átruházott feladatot ellátó szervezetet, a közreműködő szervezetet, az együttműködő szervezetet és a nemzeti vidéki hálózat titkárságát rendeletben jelölje ki.
+
 (2) Felhatalmazást kap a Kormány, hogy a mezőgazdasági és vidékfejlesztési támogatási szervet rendeletben kijelölje.
 
-(3) Felhatalmazást kap a miniszter arra, hogy:
+(3) Felhatalmazást kap az agrár-vidékfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben
 
-- a) a törvény hatálya alá tartozó egyes intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
+- a) az e törvény hatálya alá tartozó, az EMVA-ból és az EHA-ból támogatott intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
+- b) az EMVA-ból és az EHA-ból támogatott intézkedések igénybevétele vonatkozásában az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
+- c) a helyi akciócsoportok elismerési rendjének részletes szabályait és a helyi akciócsoportokat,
+- d) a nemzeti vidéki hálózat felállításával kapcsolatos részletes szabályokat,
+- e) az EMVA-ból és az EHA-ból támogatott intézkedések esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoring-indikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,
+- f) az EMVA-ból és az EHA-ból támogatott intézkedések pályázati eljárásának részletes szabályait,
+- g) az EMVA-ból és az EHA-ból támogatott intézkedések esetében a legkisebb, a jogutódlás vagy a kötelezettségátvállalás tárgyát képező részt,
+- h) az EMVA-ból és az EHA-ból támogatott intézkedések esetében az elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
+- i) az EMVA-ból és az EHA-ból támogatott intézkedések esetében a mesterséges körülmények megállapításának eseteit rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben
+
+- a) a (3) bekezdés a) pontja alá nem tartozó egyes intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
 - b) a mezőgazdasági vagyoni értékű jogok kiosztásának részletes szabályait, illetve nemzeti tartalékának mértékét,
 - c) a mezőgazdasági és vidékfejlesztési szaktanácsadási rendszer felállítására, működésére, a területi szaktanácsadási központként végzett tevékenység engedélyezésére, valamint a szaktanácsadók képzettségére vonatkozó részletes szabályokat,
-- d) az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
-- e) a helyi akciócsoportok elismerési rendjének részletes szabályait,
-- f) a nemzeti vidéki hálózat felállításával kapcsolatos részletes szabályokat,
-- g) az EMVA vagy az EHA esetén, valamint az EMGA-ból támogatott Nemzeti Diverzifikációs Program intézkedései esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoring-indikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét
-- h) a pályázati eljárás részletes szabályait,
-- i) a MePAR és az ügyfél-blokk kapcsolat nyilvántartásának részletes szabályait
-- j) az intervenciós raktárregiszter létrehozásával, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes szabályokat,
-- k) a VINGIS-hez kapcsolódó adatszolgáltatás részletes szabályait,
-- l) a szakrendszerek kialakításának részletes szabályait,
-- m) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokat,
-- n) a kölcsönös megfeleltetés végrehajtásához kialakítandó nyilvántartások részletes szabályait,
-- o) az EMVA-ból és az EHA-ból finanszírozott intézkedések esetében a legkisebb, a jogutódlás vagy a kötelezettségátvállalás tárgyát képező részt,
-- p) az elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
-- q) a mesterséges körülmények megállapításának eseteit,
-- r) az ügyfél-nyilvántartás módját és feltételeit, továbbá az ügyfél-nyilvántartással kapcsolatos eljárás részletes szabályait,
-- s) a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a tevékenységihely-nyilvántartással kapcsolatos eljárás részletes szabályait
+- d) az elháríthatatlan külső ok (vis maior) a (3) bekezdés b) pontja alá nem tartozó bejelentésével és igazolásával kapcsolatos részletes szabályokat,
+- e) az EMGA-ból támogatott Nemzeti Diverzifikációs Program intézkedései esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoring-indikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,
+- f) a (3) bekezdés f) pontja alá nem tartozó pályázati eljárás részletes szabályait,
+- g) a MePAR és az ügyfél-blokk kapcsolat nyilvántartásának részletes szabályait,
+- h) az intervenciós raktárregiszter létrehozásával, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes szabályokat,
+- i) a VINGIS-hez kapcsolódó adatszolgáltatás részletes szabályait,
+- j) a szakrendszerek kialakításának részletes szabályait,
+- k) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokat,
+- l) a kölcsönös megfeleltetés végrehajtásához kialakítandó nyilvántartások részletes szabályait,
+- m) a (3) bekezdés h) pontja alá nem tartozó elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
+- n) a (3) bekezdés i) pontja alá nem tartozó mesterséges körülmények megállapításának eseteit,
+- o) az ügyfél-nyilvántartás módját és feltételeit, továbbá az ügyfél-nyilvántartással kapcsolatos eljárás részletes szabályait,
+- p) a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a tevékenységihely-nyilvántartással kapcsolatos eljárás részletes szabályait
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
-
-(5) Felhatalmazást kap a miniszter arra, hogy az érintett miniszterekkel egyetértésben az átruházható feladatok körét rendeletben állapítsa meg, továbbá hogy a 11. § (10) bekezdése szerinti esetben az igazoló szervet, az igazoló hatóságot, az ellenőrző hatóságot, az átruházott feladatot ellátó szervezetet, a közreműködő szervezetet, az együttműködő szervezetet, a helyi akciócsoportot és a nemzeti vidéki hálózatot – ha e szervek, szervezetek felett az alapítói, illetőleg irányítási jogokat más miniszter gyakorolja, az államháztartásért felelős miniszter, valamint az érintett miniszterek egyetértésével kiadott – rendeletben jelölje ki.
+(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
 
 82. §
 

@@ -1576,14 +1576,17 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 85. § (1)–(4)
 
-(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben szabályozza
+(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) a csődeljárás iránti kérelem benyújtására vonatkozó formanyomtatvány, továbbá az ahhoz csatolandó, az adós vagyoni helyzetét bemutató adatlap formáját, tartalmi elemeit,
-- b) a felszámolót a zálogtárgy értékesítésekor, továbbá a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait,
-- c) a csődeljárásban és a felszámolási eljárásban a vagyonfelügyelő, az ideiglenes vagyonfelügyelő és a felszámoló elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, az elektronikus rendszer működésének, üzemeltetésének, ellenőrzésének szabályait.
-- d) a Cégközlöny honlapján közzétételre kerülő végzések kivonatának kötelező tartalmi elemeit.
+- b) a csődeljárásban a vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének, valamint az elektronikus rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
+- c) a Cégközlöny honlapján közzétételre kerülő végzések kivonatának kötelező tartalmi elemeit,
+- d) a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete 40. cikke által előírt, az ismert hitelezők értesítésének formai és tartalmi kellékeit.
 
-(6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben szabályozza a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete 40. cikke által előírt, az ismert hitelezők értesítésének formai és tartalmi kellékeit.
+(6) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg
+
+- a) a felszámolót a zálogtárgy értékesítésekor és a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait,
+- b) a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus rendszer működésének, üzemeltetésének és ellenőrzésének szabályait.
 
 (7)
 

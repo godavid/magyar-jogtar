@@ -1246,7 +1246,7 @@ Készült Hágában, az 1999. év március hó 26. napján, egyetlen példányba
 
 4. § (1) Ez a törvény 2006. május 1. napján lép hatályba.
 
-(2) E törvény végrehajtásához szükséges intézkedésekről a honvédelemért felelős miniszterrel egyetértésben a kultúráért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
+(2) E törvény végrehajtásához szükséges intézkedésekről a honvédelemért felelős miniszterrel egyetértésben a kulturális örökség védelméért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben hirdesse ki:
 

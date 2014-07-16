@@ -251,7 +251,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (4) A mező- és erdőgazdasági művelés alatt álló vagy arra alkalmas, illetőleg alkalmassá tett föld minőségét osztályba sorozással – a természetbeni állapotnak megfelelően – kell megállapítani. A föld minőségeként a minőségi osztályt és az annak megfelelő kataszteri tiszta jövedelmet kell feltüntetni.
 
-(5) A területegységre vonatkozó kataszteri tiszta jövedelmet (tiszta jövedelmi fokozat), továbbá egyes települések földminősítési szempontból történő besorozását, a besorozás megváltoztatását az adópolitikáért felelős miniszterrel egyetértésben a miniszter határozza meg.
+(5) A területegységre vonatkozó kataszteri tiszta jövedelmet (tiszta jövedelmi fokozat), továbbá egyes települések földminősítési szempontból történő besorozását, a besorozás megváltoztatását az adópolitikáért felelős miniszterrel egyetértésben a földügyért felelős miniszter határozza meg.
 
 24. § (1) Az ingatlan-nyilvántartásban minden ingatlant külön tulajdoni lapon kell nyilvántartani.
 

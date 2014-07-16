@@ -233,7 +233,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
   - bc) monitoring bizottság vagy más döntéshozó szerv útján közreműködik a területi operatív programok irányításában, megvalósításuk végrehajtásában,
   - bd) figyelemmel kíséri az operatív programok megyében vagy a fővárosban jelentkező feladatainak megvalósítását, beleértve a megyehatáron átnyúló és más nemzetközi programok végrehajtását a megyei jogú városok önkormányzata és a fővárosi kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével,
   - be) más megyei önkormányzatokkal és az államigazgatási szervekkel közösen, monitoring bizottság vagy más döntéshozó szerv útján közreműködik a határon átnyúló nemzetközi fejlesztési programok irányításában, részt vesz azok lebonyolításában, végrehajtásában,
-  - bf) dönt a Kutatási és Innovációs Alapnak a miniszter által a megyei önkormányzat hatáskörébe utalt pénzeszközeinek pályázati kiírásairól, illetve felhasználásáról,
+  - bf) dönt a Kutatási és Innovációs Alap felett rendelkezési jogot gyakorló miniszternek a Kutatási és Innovációs Alap megyei önkormányzat hatáskörébe utalt pénzeszközeinek felhasználásáról,
   - bg) a megye gazdaságának és foglalkoztatásának fellendítése érdekében gazdaságfejlesztési, befektetés ösztönző tevékenységet lát el, aminek elősegítése érdekében külön szervezetet hozhat létre vagy megállapodás alapján más szervezettel működhet együtt;
 - c) a területfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében:
   - ca) összehangolja illetékességi területén az államigazgatási szervek, a települési vagy kerületi önkormányzatok, a megyei jogú város önkormányzata, a gazdasági és civil szervezetek fejlesztési elképzeléseit,
@@ -370,6 +370,8 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 (12)
 
 (13) A térségi fejlesztési tanács a tagjai sorából elnököt és alelnököt (alelnököket) választ. Munkaszervezetét, működési rendjét – a 16. §-ban foglaltak figyelembevételével – maga alakítja ki.
+
+(13a) A térségi fejlesztési tanács (8) bekezdés a) és b) pontjában meghatározott tagja a térségi fejlesztési tanácsban végzett tevékenysége után díjazásra nem jogosult.
 
 (14) A Balaton Fejlesztési Tanács dönt a hatáskörébe utalt pénzeszközök felhasználásáról, és megállapodást köthet az érintett tárcákkal az egyes fejlesztési programok finanszírozásáról.
 
@@ -753,7 +755,7 @@ területi elhelyezése az állami főépítész térségi területfelhasználás
 
 28. §
 
-29. § (1) A területfejlesztés stratégiai tervezéséért felelős miniszter 2014. február 28-ig összehívja az Országos Területfejlesztési Érdekegyeztető Fórum alakuló ülését. Az Országos Területfejlesztési Érdekegyeztető Fórum megalakulása időpontjától jogutódja a megszűnő Országos Területfejlesztési Tanácsnak.
+29. § (1) Az Országos Területfejlesztési Érdekegyeztető Fórum megalakulása időpontjától jogutódja a megszűnő Országos Területfejlesztési Tanácsnak.
 
 (2) A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosításáról szóló 2013. évi CCXVI. törvény hatálybalépésekor nonprofit gazdasági társasági formában működő regionális fejlesztési ügynökségek a magyar állam könyveiben 2013. december 31-én szereplő értéken, térítésmentesen a területileg érintett megyei önkormányzatok, illetve Budapest Főváros Önkormányzata tulajdonába kerülnek.
 

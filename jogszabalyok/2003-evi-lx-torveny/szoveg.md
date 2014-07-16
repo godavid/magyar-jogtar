@@ -2705,6 +2705,8 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
+(2a) Nem jelenti a biztosítási titok sérelmét a biztosító által az adóhatóság felé történő adatszolgáltatás a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez.
+
 (3) A biztosító, a biztosításközvetítő és a biztosítási szaktanácsadó az (1) és (5) bekezdésekben, a 156. §-ban, a 158. §-ban és a 159. §-ban meghatározott esetekben és szervezetek felé az ügyfelek személyes adatait továbbíthatja.
 
 (4) A biztosítási titoktartási kötelezettség az eljárás keretén kívül a (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
@@ -2774,6 +2776,8 @@ van összefüggésben.
 - i) , – a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében – az agrárkár-megállapító szervvel, agrárkár-enyhítési szervvel, mezőgazdasági igazgatási szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
 
 szemben.
+
+(1a) Nem jelenti az üzleti titok sérelmét a biztosító által az adóhatóság felé történő adatszolgáltatás a FATCA-törvény alapján az Aktv. 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez.
 
 (2) A 162. §-ban előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
 
@@ -2879,6 +2883,18 @@ szemben.
 (15) A szolgáltató köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
 (16) Viszontbiztosítás megkötése és nagykockázatra létrejövő biztosítási szerződés esetén a szolgáltatót az e §-ban meghatározott kötelezettség nem terheli.
+
+### A FATCA-törvény alapján fennálló kötelezettségek
+
+167/C. § A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+167/D. § (1) Az intézmény a számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg írásban tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az Aktv. 43/B–43/C. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről,
+- c) a FATCA-törvény szerinti jelentéstételi kötelezettségéről.
+
+(2) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban tájékoztatja.
 
 ## NYOLCADIK RÉSZ — A BIZTOSÍTÁSI RENDSZER FELÜGYELETE
 
@@ -3613,6 +3629,8 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 (3) Az e törvénynek – a Módosító tv. által megállapított – 37/A. §-ában foglaltakat a biztosító és a biztosításközvetítő legkésőbb 2015. január 1-jétől köteles alkalmazni.
 
 (4) A tevékenységi engedéllyel rendelkező biztosítónak az e törvénynek – a Módosító tv. által megállapított – 126. § (1) bekezdésében, a 8. számú melléklet A) pont 7., 8., 28., 29. alpontjában, valamint C) pont 7., 8., 20., 21. alpontjában meghatározottaknak legkésőbb 2014. július 1-jétől kell megfelelni.
+
+231/F. § A 167/C. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 167/D. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
 ### Módosuló jogszabályok
 

@@ -198,9 +198,9 @@ Az Országgyűlés a tulajdoni viszonyok átalakítása keretében, az önkormá
 
 (5) Az önkormányzat intézményének törzsleltárában szereplő, az a múzeális emlék, amely nem ajándékozás, végrendelet vagy adásvétel (csere) alapján vált az állam tulajdonává a 21. § alapján kerül önkormányzat tulajdonába.
 
-(6) Az önkormányzat tulajdonába lévő múzeális emlék korlátozottan forgalomképes; elidegenítéséhez a kultúráért felelős miniszter hozzájárulása szükséges.
+(6) Az önkormányzat tulajdonába lévő múzeális emlék korlátozottan forgalomképes; elidegenítéséhez a kulturális örökség védelméért felelős miniszter hozzájárulása szükséges.
 
-(7) Önkormányzat fenntartásában működő intézményben lévő állami tulajdonú múzeális emlék tekintetében a tulajdonosi jogok gyakorlóját a kultúráért felelős miniszter határozza meg.
+(7) Önkormányzat fenntartásában működő intézményben lévő állami tulajdonú múzeális emlék tekintetében a tulajdonosi jogok gyakorlóját a kulturális örökség védelméért felelős miniszter határozza meg.
 
 23. § (1) Az önkormányzatok és intézményeik, illetve közüzemeik, valamint jogelődjeik levéltári anyagának tulajdonjogára a levéltári jogszabályok az irányadók.
 

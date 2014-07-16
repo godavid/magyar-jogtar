@@ -44,7 +44,7 @@ bemutatásával vehető igénybe.
 - b) a hallgatói jogviszonnyal összefüggésben a felsőoktatási hallgatói jogviszonyban álló személy részére szemeszterenként 60 óra,
 - c) a képzéssel összefüggésben a felnőttképzésben részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
 
-6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a társadalmi esélyegyenlőség előmozdításáért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
+6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a társadalmi felzárkózásért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
 
 (2) A nyilvántartás tartalmazza
 
@@ -303,14 +303,14 @@ szövegrész lép.
 
 részletes szabályokat.
 
-(7) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
+(7) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályokat és a térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására vonatkozó részletes szabályokat,
 - b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait, továbbá
 - c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére vonatkozó részletes eljárási szabályokat,
 - d) a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint az azok bejelentésére, igazolására és ellenőrzésére vonatkozó szabályokat.
 
-(8) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a társadalmi felzárkózásért felelős miniszter, valamint az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
+(8) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
 
 ### Melléklet a 2009. évi CXXV. törvényhez
 

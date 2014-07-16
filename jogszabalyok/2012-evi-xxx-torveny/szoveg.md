@@ -138,7 +138,7 @@ Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől
 - c) az igazságügyért felelős miniszter által delegált 1,
 - d) a helyi önkormányzatokért felelős miniszter által delegált 1,
 - e) a kultúráért és az oktatásért felelős miniszter által együttesen delegált 1,
-- f) az agrár-vidékfejlesztésért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
+- f) az agrárpolitikáért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
 - g) a turizmusért felelős miniszter által delegált 1,
 - h) a Kormány európai uniós források felhasználásáért felelős tagja által delegált 1,
 - i) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
@@ -152,9 +152,9 @@ tagból áll.
 
 (4) Nem lehet a HB tagja az, akinek szellemi vagy termelőtevékenységével létrehozott produktuma nemzeti értéknek minősül, valamint, aki nemzeti érték kereskedelmi célú forgalmazásával kapcsolatos tevékenységet végez.
 
-(5) A HB elnöke az agrár-vidékfejlesztésért felelős miniszter.
+(5) A HB elnöke az agrárpolitikáért felelős miniszter.
 
-15. § (1) A HB titkársági feladatait az agrár-vidékfejlesztésért felelős miniszter által vezetett minisztérium látja el, titkárát határozatlan időtartamra a miniszter nevezi ki.
+15. § (1) A HB titkársági feladatait az agrárpolitikáért felelős miniszter által vezetett minisztérium látja el, titkárát határozatlan időtartamra a miniszter nevezi ki.
 
 (2) A HB üléseit a HB elnöke szükség szerint, de legalább félévente hívja össze, továbbá köteles összehívni a tagok kétharmadának írásbeli kezdeményezésére.
 
@@ -192,11 +192,11 @@ tagból áll.
 
 18. § (1) A HB tevékenységének megjelenítésére, valamint a Hungarikumok Gyűjteményében szereplő kiemelkedő nemzeti értékek megismertetésének elősegítése, színvonaluk és minőségük folyamatos fenntartása érdekében hungarikum védjegy kerül bevezetésre.
 
-(2) A hungarikum védjegy lajstromozása iránti nemzeti bejelentést, valamint a közösségi védjegybejelentést az agrár-vidékfejlesztésért felelős miniszter teszi meg.
+(2) A hungarikum védjegy lajstromozása iránti nemzeti bejelentést, valamint a közösségi védjegybejelentést az agrárpolitikáért felelős miniszter teszi meg.
 
 (3) A hungarikum védjegy használatát a védjegyjogosult a hungarikumot gondozó vagy fenntartó magánszemélyek, vállalkozások, szakmai vagy civil szervezetek számára, azok kérelme alapján engedélyezi.
 
-(4) A hungarikum védjegy piaci bevezetése és népszerűsítése az agrár-vidékfejlesztésért felelős miniszter feladata.
+(4) A hungarikum védjegy piaci bevezetése és népszerűsítése az agrárpolitikáért felelős miniszter feladata.
 
 ## IV. RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

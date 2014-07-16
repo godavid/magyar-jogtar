@@ -413,9 +413,13 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 26. § (1) Az egyetemes postai szolgáltató köteles a Hpt. 6. § (1) bekezdésében meghatározott készpénzátutalást, valamint a Hpt. 6. § (1) bekezdésében meghatározott fizetési számláról történő készpénzkifizetést lehetővé tevő szolgáltatást és készpénzbefizetést lehetővé tevő szolgáltatást végezni, és ennek érdekében Posta Elszámoló Központot működtetni.
 
-(2)–(3)
+(2) Az egyetemes postai szolgáltató jogosult a Hpt. 6. § (1) bekezdés 87. pont c) és d) alpontja szerinti pénzforgalmi szolgáltatások nyújtására.
 
-(4) Az egyetemes postai szolgáltató jogosult a nála történő készpénzbefizetés céljára szolgáló nyomtatvány kialakítására, előállítására és bármely módon történő megszemélyesítésére.
+(3) Az egyetemes postai szolgáltató az (1) és (2) bekezdésben meghatározott pénzforgalmi szolgáltatás nyújtásához pénzforgalmi közvetítőt vehet igénybe.
+
+(4) Az egyetemes postai szolgáltató jogosult a nála történő készpénzbefizetés céljára szolgáló nyomtatvány kialakítására, előállítására és bármely módon történő megszemélyesítésére. Az egyetemes postai szolgáltató köteles a készpénz-befizetési szolgáltatás keretében, a pénzforgalmi szolgáltatásokra vonatkozó általános szerződési feltételeiben meghatározott, elektronikus úton kezdeményezett fizetési megbízást és egyéb készpénz-helyettesítő fizetési eszközt is elfogadni.
+
+(5) A miniszter rendeletben az (1) és (2) bekezdésben meghatározott szolgáltatásokkal kapcsolatban jogszabályban nem szabályozott további, a Hpt.-vel összhangban álló követelményeket állapíthat meg.
 
 27. § (1) Az egyetemes postai szolgáltató köteles jóhiszemű tárgyalásba bocsátkozni azon postai szolgáltatókkal, amelyek az általuk engedélyköteles szolgáltatás keretében felvett postai küldemények feldolgozását, szállítását és kézbesítését együttesen magában foglaló tevékenység ellátása érdekében igénybe kívánják venni az egyetemes postai szolgáltatónak az egyetemes postai szolgáltatás érdekében működtetett hálózatát, és az egyetemes postai szolgáltató mindenkori hálózati szerkezetéhez és technológiai rendszeréhez igazodó tartalmú hálózati hozzáférési szerződés megkötését kezdeményezik.
 
@@ -1116,7 +1120,10 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - d) az engedélyköteles szolgáltatások nyújtására vonatkozó szolgáltatási engedély megadásához szükséges vagyoni biztosíték mértékét és szabályait;
 - e) az egyetemes postai szolgáltatás nyújtására vonatkozó nyilvános pályázat szabályait.
 
-(3) Felhatalmazást kap a miniszter arra, hogy – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét.
+(3) Felhatalmazást kap a miniszter, hogy – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg
+
+- a) az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét,
+- b) a 26. § (5) bekezdésében meghatározott követelményeket.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben állapítsa meg:
 

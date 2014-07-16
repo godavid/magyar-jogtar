@@ -1893,11 +1893,12 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - i) a Gazdasági Versenyhivatal;
 - j) a kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv;
 - k) az állami vagyon felügyeletéért felelős miniszter;
-- l) az ügyész.
+- l) az ügyész;
+- m) a közbeszerzésekért felelős miniszter.
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását
 
-- a) az (1) bekezdés a), d)–i) és k) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetve – a közbeszerzési eljárás mellőzése estén – három éven belül,
+- a) az (1) bekezdés a), d)–i), k) és m) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetve – a közbeszerzési eljárás mellőzése estén – három éven belül,
 - b) az (1) bekezdés b), c), j) és l) pontja szerinti szervezet a jogsértés tudomásra jutásától számított harminc napon belül, de legfeljebb a jogsértés megtörténtétől számított három éven belül, közbeszerzési eljárás mellőzésével történő beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított három éven belül kezdeményezheti.
 
 (3) A Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni a 138. § (1) bekezdésének a)–d) és g) pontjában szereplő adatokat és javaslatot lehet tenni az e) és f) pontjában foglaltakra. A kezdeményező irathoz csatolni kell a jogsértéssel érintett beszerzéssel (közbeszerzéssel) kapcsolatban rendelkezésre álló iratok másolatát.
@@ -1953,7 +1954,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 ### Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezése
 
-145. § (1) Ha a Közbeszerzési Döntőbizottság az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezi az Európai Közösséget létrehozó szerződésben foglalt szabályok szerint, erről külön végzéssel dönt és egyidejűleg az eljárást felfüggeszti. A Közbeszerzési Döntőbizottság végzésében meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és a magyar jog érintett szabályait. A Közbeszerzési Döntőbizottság a végzést az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter részére is.
+145. § (1) Ha a Közbeszerzési Döntőbizottság az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezi az Európai Közösséget létrehozó szerződésben foglalt szabályok szerint, erről külön végzéssel dönt és egyidejűleg az eljárást felfüggeszti. A Közbeszerzési Döntőbizottság végzésében meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és a magyar jog érintett szabályait. A Közbeszerzési Döntőbizottság a végzést az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter és a közbeszerzésekért felelős miniszter részére is.
 
 (2) Az előzetes döntéshozatali eljárást kezdeményező végzés ellen a 156. § szerint külön jogorvoslatnak van helye. A jogorvoslati kérelemnek a végzés végrehajtására halasztó hatálya van.
 
@@ -2223,7 +2224,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 - a) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;
 - b) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
-- c) az agrár-vidékfejlesztésért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
+- c) az agrárpolitikáért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
 - d) az építésügyért felelős miniszter által kijelölt személy;
 - e) a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy;
 - f) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
@@ -2309,10 +2310,10 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - h) gondoskodik a „Közbeszerzési Értesítő – a Közbeszerzési Hatóság Hivatalos Lapja” (a továbbiakban: Közbeszerzési Értesítő) szerkesztéséről, a közbeszerzési és a tervpályázati eljárással kapcsolatos hirdetmények közzétételéről, valamint ellenőrzéséről, továbbá az e törvény által előírt egyéb adatok, információk honlapján, illetve a Közbeszerzési Értesítőben történő közzétételéről;
 - i) honlapján a beérkezés időpontjában közzéteszi a Közbeszerzési Döntőbizottság eljárását kezdeményező kérelem, valamint a hivatalbóli kezdeményezés – ideértve a Döntőbizottság elnöke által megindított jogorvoslati eljárás kezdeményező iratát – adatait, a Közbeszerzési Döntőbizottság érdemi és a közbeszerzési ügy befejezését eredményező határozatát, továbbá a határozat bírósági felülvizsgálata esetén a bíróság határozatát (határozatait);
 - j) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
-- k) az állami vagyon felügyeletéért felelős miniszterrel egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
+- k) a közbeszerzésekért felelős miniszterrel egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
 - l) figyelemmel kíséri a közbeszerzési eljárás alapján megkötött szerződések módosítását és teljesítését;
 - m) működteti a Közbeszerzési Adatbázist, amely a közbeszerzési eljárások központi nyilvántartása, elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását; ennek keretében elektronikus közzétételi lehetőséget biztosít, ahol az ajánlatkérő a közbeszerzési eljárás dokumentációját központilag, térítésmentesen és teljes terjedelemben közvetlenül elektronikus úton az ajánlattevők számára hozzáférhetővé teheti, és ahonnan az ajánlattevők a közbeszerzési eljárások dokumentációit ingyenesen elérhetik;
-- n) az állami vagyon felügyeletéért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában és a közbeszerzési tárgyú képzések koordinálásában, felügyeletében és ellenőrzésében;
+- n) a közbeszerzésekért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában és a közbeszerzési tárgyú képzések koordinálásában, felügyeletében és ellenőrzésében;
 - o) kapcsolatot tart más államok közbeszerzési szervezeteivel és teljesíti a 2004/18/EK irányelv 45. cikk (4) bekezdésben foglalt tájékoztatást;
 - p) folyamatosan frissíti, karbantartja és honlapján közzéteszi az egyes ágazatokban szokásos vagy megállapított béreket és kapcsolódó közterheket;
 - q) elfogadja saját szervezeti és működési, valamint más, működését érintő belső szabályzatát – így különösen a hirdetmények vizsgálata kapcsán a jogorvoslati eljárás indításának eljárásrendjét –, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
@@ -2511,7 +2512,7 @@ az Ükt. hatálybalépése után megkezdett közbeszerzési eljárásokra kell a
 - 19. az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában, az uniós értékhatárokat el nem érő árubeszerzésekre, valamint szolgáltatás megrendelésekre e törvény 123. §-ának alkalmazásában kötelezően alkalmazandó eljárási szabályokat;
 - 20. a közbeszerzési eljárás valamennyi szakaszára kiterjedő környezetvédelmi, fenntarthatósági és energiahatékonysági követelmények tekintetében előírható részletes szabályokat, valamint az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában a környezetvédelmi, fenntarthatósági és energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját.
 
-(2) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy rendeletben szabályozza
+(2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
 - a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét, díjának mértékét, befizetését, a közbeszerzések éves statisztikai összegezésére vonatkozó szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét;
 - b) a hirdetmények, bírálati összegezések és az éves statisztikai összegezés mintáját, a hirdetmények egyes tartalmi elemeit;
@@ -2521,7 +2522,7 @@ az Ükt. hatálybalépése után megkezdett közbeszerzési eljárásokra kell a
 
 (3) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben szabályozza a helyben központosított közbeszerzési eljárások részletes szabályait, a helyben központosított közbeszerzés szabályai szerint eljárni köteles szervek körét, a helyben központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét.
 
-(4) Felhatalmazást kap a közfoglalkoztatásért felelős miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.
+(4) Felhatalmazást kap a közfoglalkoztatásért felelős miniszter, hogy a közbeszerzésekért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.
 
 ### Az Európai Unió jogának való megfelelés
 

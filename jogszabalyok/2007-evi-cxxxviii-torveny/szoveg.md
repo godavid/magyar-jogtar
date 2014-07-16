@@ -2655,7 +2655,8 @@ szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsde
 - c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési vállalkozástól, illetőleg az árutőzsdei szolgáltatótól, ha a megkeresés tartalmazza a külföldi bűnüldöző szerv által aláírt titoktartási záradékot,
 - d) a Befektető-védelmi Alap által külföldi befektetővédelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
 - e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art. 52. §-ának (8) bekezdése alapján szolgáltat adatot,
-- f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól.
+- f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól,
+- g) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot.
 
 (5) A (4) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 
@@ -2832,6 +2833,18 @@ kell eleget tenni.
 - f) a kapott állami támogatást.
 
 (2) A befektetési vállalkozás egyedi alapon nyilvánosságra hozza az adózott eredmény és a mérlegfőösszeg hányadosaként kifejezett eszközarányos jövedelmezőségi mutatóját.
+
+### A FATCA-törvény alapján fennálló kötelezettségek
+
+123/B. § A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+123/C. § (1) Az intézmény a számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg írásban tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az Aktv. 43/B–43/C. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről,
+- c) a FATCA-törvény szerinti jelentéstételi kötelezettségéről.
+
+(2) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban tájékoztatja.
 
 ### XXII. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ JOGUTÓD NÉLKÜLI MEGSZŰNÉSE ÉS AZ ÁLLOMÁNY-ÁTRUHÁZÁS
 
@@ -3746,6 +3759,8 @@ azzal, hogy 2019. január 1-jétől a Módtv.-vel megállapított 110/B. §-ban 
 (14) A 174. § szerinti határozatot legalább évente egyszer vagy a 102. § (1) bekezdés szerinti kérelmező indoklással ellátott kérelmére az éves felülvizsgálat letelte előtt aktualizálni szükséges.
 
 (15) A 4. melléklet 7–23. pontjában foglaltakat a 2014. január 1-jét követően kifizetett javadalmazásra abban az esetben is alkalmazni kell, ha a kifizetésre vonatkozó szerződés az e törvény hatálybalépése előtt került megkötésre. Az e törvény hatálybalépésekor már működő befektetési vállalkozás – a 4. melléklet 5. pontjától eltérően – 2014. június 30-ig az igazgatóság által elfogadott és a felügyelőbizottság által ellenőrzött javadalmazási politikát is alkalmazhat.
+
+182/A. § A 123/B. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 123/C. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
 ### Jogharmonizációs záradék
 
