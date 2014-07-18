@@ -83,11 +83,11 @@ azonosítása.
 
 által kezelt adatokkal.
 
-(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján az anyakönyvi ügyekért felelős miniszter által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
+(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a központi anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
 
 (2) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul gondoskodik a személyazonosító adatokban bekövetkező változásoknak a személyazonosító adatok és fényképek nyilvántartásában történő átvezetéséről.
 
-(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.
+(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a központi anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.
 
 6. § (1) A személyazonosító adatok és fényképek nyilvántartásában az érintett arcképmását nyilván kell tartani, ha
 
@@ -947,7 +947,7 @@ valamint a közvetlen hozzáférés útján történő adattovábbítás biztos�
 - e) a hatósági erkölcsi bizonyítvány kiállításának helyét és időpontját, valamint
 - f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírását.
 
-(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokkal egyező módon határozza meg.
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy a központi anyakönyvi szerv értesítésében megküldött adatokkal egyező módon határozza meg.
 
 (3) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
 
