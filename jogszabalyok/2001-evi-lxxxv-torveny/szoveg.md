@@ -183,7 +183,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 ### A névváltoztatás
 
-23. § (1) A magyar állampolgár érintett a névváltoztatásra vonatkozó jogszabály szerint a Szolgálat útján kezdeményezheti az anyakönyvi ügyekért felelős miniszternél családi, illetve utónevének megváltoztatását.
+23. § (1) A magyar állampolgár érintett a névváltoztatásra vonatkozó jogszabály szerint a Szolgálat útján kezdeményezheti a központi anyakönyvi szervnél családi, illetve utónevének megváltoztatását.
 
 (2) A gyermek névviselése vonatkozásában a szülői felügyeletet közösen gyakorló szülők esetében az érintett házastársának a gyermeke névváltoztatásához hozzá kell járulnia. A hozzájárulás hiányában a hozzájáruló nyilatkozatot a gyámhatóság pótolhatja.
 
