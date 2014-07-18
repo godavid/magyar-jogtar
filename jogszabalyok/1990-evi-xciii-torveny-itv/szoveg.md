@@ -1714,7 +1714,7 @@ X. Anyakönyvi és névváltoztatási eljárás
 
 2. A születési név megváltoztatására irányuló kérelem illetéke 10 000 forint. Az egy családhoz tartozó nagykorúak közös kérelme esetében az illetéket minden nagykorúnak külön-külön kell megfizetni.
 
-3. Az anyakönyvi ügyekért felelős miniszter által megváltoztatott név ismételt megváltoztatására irányuló kérelem illetéke 50 000 forint.
+3. Az anyakönyvi eljárásról szóló jogszabályokban meghatározott eljárásban megváltoztatott név ismételt megváltoztatására irányuló kérelem illetéke 50 000 forint.
 
 4.
 
