@@ -1025,7 +1025,12 @@ fizetésképtelenségének vizsgálata nélkül köteles elrendelni.
 
 (2) A felszámolóra a Cstv. 59. §-a és 60. § (4)–(6) bekezdése nem alkalmazható.
 
-57. § (1) Hitelintézet felszámolása során a betételhelyezésből eredő követeléseket a Cstv. 57. § (1) bekezdés d) pontjába szükséges sorolni; e követelések a követelések arányában kerülnek kielégítésre.
+57. § (1) Hitelintézet felszámolása során
+
+- a) az OBA által biztosított, valamint az 1993. június 30-át megelőzően – állami garanciával (helytállással) biztosított – betételhelyezésből eredő követeléseket a Cstv. 57. § (1) bekezdés c) pontját követő és a d) pontját megelőző kielégítési csoportba,
+- b) az a) pontba nem tartozó betételhelyezésből eredő követeléseket a Cstv. (1) bekezdés d) pontjába
+
+szükséges sorolni azzal, hogy e követelések a követelések arányában kerülnek kielégítésre.
 
 (2) Hitelintézet felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
 
@@ -2496,9 +2501,9 @@ szemben.
 
 az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter részére.
 
-(7) Nem jelenti az üzleti titok sérelmét, ha a Felügyelet eleget tesz a felügyeleti stressz-tesztre vonatkozó kötelezettség végrehajtására, valamint a felügyeleti stressz-teszt eredményeinek az EBH részére való továbbítására abból a célból, hogy az EBH az európai uniós stressz-tesztek eredményeit összegezve nyilvánosságra hozza.
+(7) Nem jelenti az üzleti titok sérelmét, ha a Felügyelet eleget tesz a felügyeleti stressz-tesztre vonatkozó kötelezettség végrehajtására, valamint a felügyeleti stressz-teszt eredményeinek az EBH részére való továbbítására abból a célból, hogy az EBH az európai uniós stressz-tesztek eredményeit összegezve nyilvánosságra hozza
 
-(8) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvényből (a továbbiakban: FATCA-törvény) fakadó kötelezettségek teljesítése érdekében az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
+(8) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvényből (a továbbiakban: FATCA-törvény) fakadó kötelezettségek teljesítése érdekében az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé..
 
 #### 71. Banktitok
 
@@ -3079,7 +3084,7 @@ a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rend
 - d) kötelezheti az igazgatóságot a közgyűlés összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívhatja fel e testületek figyelmét,
 - e) felügyeleti biztost rendelhet ki a pénzügyi intézményhez, vagy
 - f) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős határozatban megállapította, és kezdeményezheti a pénzügyi intézménynél más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság,
-- g) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terve életbe léptetésére, az abban foglalt intézkedések alkalmazására.
+- g)
 
 (2) Az (1) bekezdésben meghatározott kivételes intézkedésekkel egyidejűleg a Felügyelet felszólíthatja a szükséges intézkedések megtételére a pénzügyi intézmény
 
@@ -3459,7 +3464,7 @@ betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 (2) Az OBA székhelye: Budapest.
 
-(3) Az OBA saját vagyona, bevételei és jövedelme után sem társasági adó, sem helyi adó, sem illeték fizetésére nem kötelezhető.
+(3)
 
 (4) Az OBA pénzeszközei nem vonhatók el, és a 211. §-ban meghatározottól eltérő célra nem használhatók fel.
 
@@ -4363,7 +4368,7 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 (2) A globálisan rendszerszinten jelentős hitelintézet tájékoztatja 2014. július 1-jétől az Európai Bizottságot a 123. § (1) bekezdés d)–f) pontjában meghatározott információkról.
 
-304. § E törvény hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő hitelintézet a 114. §-ban meghatározott követelményeknek 2015. január 1-től felel meg.
+304. § A Szantv. 161. § (9) bekezdésével megállapított 114. §-ban foglalt helyreállítási tervet valamint csoportszintű helyreállítási tervet a Szantv. hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő hitelintézet irányítási jogkörrel rendelkező vezető testülete első alkalommal legkésőbb 2014. december 31-ig köteles a Felügyeletnek benyújtani.
 
 304/A. § A 288/A. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 288/B. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
