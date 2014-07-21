@@ -198,7 +198,7 @@ mellékeli.
 
 - a) jogszabály felhatalmazása alapján állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok forgalomba hozatalát szervezheti, ezzel kapcsolatos tanácsadási feladatokat láthat el,
 - b) a (2) bekezdésben meghatározott mértékű díj ellenében közreműködhet az állam, az önkormányzat, valamint ezek többségi tulajdonában álló gazdálkodó szervezete hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
-- c) közreműködhet az Országos Betétbiztosítási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában.
+- c) közreműködhet az Országos Betétbiztosítási Alap és a Szanálási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjainak kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
 - d) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek kezelésében és értékesítésében,
 - e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
 
@@ -490,12 +490,13 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 43. § Az időskori jövedelembiztonság megteremtésében viselt egyéni felelősség és az öngondoskodás érvényre juttatása érdekében a tagok önkéntes részvételével – törvényben meghatározott feltételek szerint – kiegészítő nyugdíjintézmények működhetnek.
 
-### VII. Fejezet — A PÉNZÜGYI RENDSZER STABILITÁSÁNAK MEGŐRZÉSE ÉRDEKÉBEN HITELINTÉZETEKNEK NYÚJTHATÓ KÖLCSÖN
+### VII. Fejezet — A PÉNZÜGYI RENDSZER STABILITÁSÁNAK MEGŐRZÉSE ÉRDEKÉBEN HITELINTÉZETEKNEK VAGY A SZANÁLÁSI ALAPNAK NYÚJTHATÓ KÖLCSÖN
 
-44. § „(1) A pénzügyi közvetítőrendszer stabilitását potenciálisan veszélyeztető helyzetben az állam a szabad pénzeszközeinek kezelése keretében
+44. § (1) A pénzügyi közvetítőrendszer stabilitását lehetségesen veszélyeztető helyzetben az állam a szabad pénzeszközeinek kezelése keretében
 
 - a) a Magyar Nemzeti Bank által kibocsátott kötvényt szerezhet,
-- b) Magyarország területén székhellyel rendelkező hitelintézetnek kölcsönt nyújthat.
+- b) Magyarország területén székhellyel rendelkező hitelintézetnek kölcsönt nyújthat, valamint
+- c) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapnak kölcsönt nyújthat.
 
 (2) Az e §-ban foglaltak teljesítése során az állam nevében az államháztartásért felelős miniszter az ÁKK Zrt. útján jár el.
 
@@ -503,12 +504,15 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 (4) Az államháztartásért felelős miniszter az értékpapírkölcsön-ügyletről vagy a kölcsönnyújtásról szóló döntését megelőzően javaslatot kér a Magyar Nemzeti Bank elnökétől, amely tartalmazza
 
-- a) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára és a reálgazdaságra gyakorolt hatásának vizsgálatát,
-- b) a hitelintézet rövid távú likviditási helyzetének értékelését,
-- c) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
-- d) a hitelintézet szavatolótőke-helyzetéről szóló értékelést,
-- e) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
-- f) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
+- a) az (1) bekezdés a) és b) pontja esetben
+  - aa) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára és a reálgazdaságra gyakorolt hatásának vizsgálatát,
+  - ab) a hitelintézet rövid távú likviditási helyzetének értékelését,
+  - ac) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
+  - ad) a hitelintézet szavatoló tőke-helyzetéről szóló értékelést,
+  - ae) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
+  - af) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést;
+- b) az (1) bekezdés
+- c) pontja esetben a Szanálási Alap kölcsönfelvételi szándékának MNB által értékelt indokoltságát.
 
 (5) Az (1) bekezdés b) pontja szerinti kölcsönnyújtáshoz kapcsolódóan az államháztartásért felelős miniszter a kölcsönfelvevő kötelezettségeként olyan feltételek teljesülését írja elő, amelyek biztosítják, hogy a kölcsön a Magyarország területén székhellyel rendelkező vállalkozások finanszírozási forrásainak bővítését szolgálja.
 
@@ -518,6 +522,8 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 - b) kölcsönzési díjat köt ki.
 
 (7) Az (1) bekezdés b) pontjában és a (3) bekezdésben meghatározott ügylet az államháztartásról szóló törvény szerinti finanszírozási célú pénzügyi műveletnek minősül, amely költségvetési előirányzatként, illetve annak teljesítéseként nem számolható el.”
+
+(8) Az (1) bekezdés c) pontja szerinti kölcsönnyújtáshoz kapcsolódóan az államháztartásért felelős miniszter a Szanálási Alap kötelezettségeként olyan feltételeket ír elő, amelyek biztosítják a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott fiskális semlegesség elvének teljesülését.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

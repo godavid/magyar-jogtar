@@ -67,12 +67,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 ### A tőkeemelés és befolyásszerzés szabályai
 
-8. § (1) Az 5. § (1) bekezdés b) pontjában meghatározott intézkedések meghozatalára az MNB elnöke javaslata alapján, az e törvényben meghatározottak szerint
-
-- a) a hitelintézet kérelmére vagy egyetértésével, vagy
-- b) hivatalból, a hitelintézet egyetértése nélkül, a 16. § (1) bekezdésében meghatározott esetben
-
-kerülhet sor.
+8. § (1) Az 5. § (1) bekezdésének b) pontjában meghatározott intézkedések meghozatalára a Felügyelet Felügyeleti Tanácsának elnöke és az MNB elnöke együttes javaslata alapján, az e törvényben meghatározottak szerint a hitelintézet kérelmére vagy egyetértésével kerülhet sor.
 
 (2) A hitelintézet kérelmére vagy egyetértésével megvalósuló intézkedés során
 
@@ -175,74 +170,13 @@ szóló döntéssel szemben.
 
 ### Tulajdonosi irányítási jog
 
-16. § (1) A Kormány rendeletben megállapítja, ha a hitelintézet
-
-- a) húsz munkanapot meghaladóan igénybe veszi az MNB rendkívüli likviditási hitelét a legutolsó, könyvvizsgáló által felülvizsgált, az Szmt. szerinti közbenső mérleg készítésére irányadó szabályoknak megfelelően elkészített beszámoló mérlegfőösszegének öt százalékát meghaladó összegben,
-- b) MNB által megállapított szavatoló tőkéje nem éri el a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény a pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
-- c)
-
-és a hitelintézet fizetésképtelensége a magyarországi pénzügyi közvetítőrendszer működésében súlyos károkat okozna.
-
-(2) A Kormány az (1) bekezdés szerinti rendeletét hatályon kívül helyezi, ha
-
-- a) a hitelintézet MNB által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 79. § (2) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
-- b) a hitelintézet kilencven egymást követő nap egyikén sem vette igénybe az MNB rendkívüli likviditási hitelét.
-
-(3) A hitelintézet az (1) bekezdés alapján kiadott kormányrendelet hatálybalépését megelőző napra, mint fordulónapra – a kormányrendelet hatálybalépésétől számított kilencven napon belül – az Szmt. szerinti, független könyvvizsgáló által felülvizsgált közbenső mérleget készít.
-
-(4) Az a hitelintézet, amely az Szmt. rendelkezései alapján konszolidált beszámoló készítésére kötelezett, a (3) bekezdés szerinti közbenső mérlegét az Szmt. konszolidált éves beszámolóra vonatkozó követelményeinek megfelelően készíti el.
-
-(5) A Kormány az (1) bekezdés szerinti rendeletét akkor is hatályon kívül helyezi, ha a rendelet hatálybalépését követően öt év és egy nap eltelt.
-
-(6) A (3) bekezdés szerinti felülvizsgálatra nem lehet megbízni azt a könyvvizsgálót, könyvvizsgálói társaságot, aki a közbenső mérleg fordulónapját megelőző két üzleti évben a hitelintézet számára könyvvizsgálatot végzett. A közbenső mérleg felülvizsgálatát végző könyvvizsgáló, könyvvizsgálói társaság a felülvizsgálatot követő három üzleti éven belül nem jelölhető ki a hitelintézet könyvvizsgálójává.
-
-17. § (1) A hitelintézet, vagy a hitelintézet részvényese kezdeményezheti, hogy a Fővárosi Ítélőtábla nemperes eljárásban állapítsa meg, hogy
-
-- a) a 16. § (1) bekezdésben foglalt feltételek a Kormány rendeletének kihirdetésekor nem teljesültek,
-- b) a 16. § (2) bekezdésben foglalt feltételek a Kormány 16. § (1) bekezdése szerinti rendeletének kihirdetését követően legalább egy napig teljesültek.
-
-(2) Az (1) bekezdésben meghatározott kérelemről a bíróság haladéktalanul rövid úton értesíti az államháztartásért felelős minisztert.
-
-(3) Bizonyítási indítványt a kérelmező kizárólag a kérelmében, a kérelmezett kizárólag az érdemi ellenkérelmében terjeszthet elő.
-
-(4) Az eljárás során
-
-- a) a kérelem megváltoztatásának vagy viszontkérelem benyújtásának,
-- b) az eljárás felfüggesztésének,
-- c) a mulasztás igazolásának
-
-nincs helye.
-
-(5) Az eljárás során a bíróság a feleket meghallgatja, és tárgyalást tarthat. A tárgyalás bármelyik fél távollétében is megtartható. A bíróság a kérelemről a beérkezésétől számított nyolc napon belül dönt.
-
-(6) A bíróság az írásba foglalt határozatot annak kihirdetésekor átadja, vagy annak meghozatalát követően haladéktalanul kézbesíti a feleknek vagy képviselőiknek. A bíróság határozatával szemben a kihirdetést vagy a kézbesítést követő három napon belül fellebbezésnek van helye.
-
-(7) A fellebbezésről a Legfelsőbb Bíróság három napon belül dönt. A Legfelsőbb Bíróság a Fővárosi Ítélőtábla határozatát helybenhagyja vagy megváltoztatja. A Legfelsőbb Bíróság az írásba foglalt határozatot annak kihirdetésekor átadja, vagy annak meghozatalát követően haladéktalanul kézbesíti a feleknek vagy képviselőiknek.
-
-(8) Ha a bíróság a jogerős határozatában azt állapítja meg, hogy a 16. § (1) bekezdésében foglaltak feltételek a Kormány rendeletének kihirdetésekor nem teljesültek, vagy a 16. § (2) bekezdésében foglalt feltételek a Kormány 16. § (1) bekezdése szerinti rendeletének kihirdetését követően legalább egy napig teljesültek, a Kormány a rendeletét hatályon kívül helyezi úgy, hogy az a bíróság határozatának kihirdetésétől számított három napon belül hatályát veszítse.
-
-18. § (1) A Magyar Állam a 16. § (1) bekezdés szerinti rendelet időbeli hatálya alatt kizárólagosan jogosult a hitelintézet közgyűlésének hatáskörébe tartozó ügyekben való döntésre. A Magyar Állam nevében az államháztartásért felelős miniszter jár el.
-
-(2) A Magyar Állam a közgyűlés hatáskörében eljárva meghozott döntéseit a hitelintézet vezető tisztségviselőivel és a felügyelőbizottság tagjaival haladéktalanul, írásban közli.
-
-(3) A Magyar Állam a közgyűlés hatáskörében eljárva köteles a Ptk. jogi személyekre vonatkozó rendelkezéseinek a minősített többséget biztosító befolyással rendelkező részvényesre vonatkozó szabályai, és a hitelintézet stabil működése helyreállításához fűződő érdekek elsődlegessége alapján eljárni.
-
-(4) A Magyar Állam a hitelintézettel szemben korlátlanul felel a Magyar Állam által a (3) bekezdésben meghatározott kötelezettség felróható megszegésével okozott károkért.
-
-(5) A Kormány 16. § (1) bekezdése alapján kiadott rendeletének hatálybalépése napjától számított százhuszadik napig a hitelintézet részvényese a 16. § (3) és (4) bekezdése alapján elkészített közbenső mérleg szerinti egy részvényre – tulajdoni hányad alapján – jutó saját tőke értékével megegyező értéken eladási jogot gyakorolhat a Magyar Állammal szemben.
-
-(6) A Magyar Állam az (5) bekezdés szerinti felajánlott részvényeket köteles megvásárolni és az eladási jog gyakorlására nyitva álló határidő utolsó napját követő harmincadik napig a vételárat a részvényesnek megfizetni.
-
-(7) A Magyar Állam a részvényes ténylegesen felmerült kárával megegyező kártalanítással tartozik az államháztartásért felelős miniszter által a hitelintézet közgyűlésének hatáskörébe tartozó döntésével okozott károkért arra az időtartamra, amikor a Kormány 16. § (1) bekezdésében meghatározott olyan rendelete volt hatályban, amit az Alkotmánybíróság megsemmisített, vagy amelyről a bíróság jogerős ítéletében megállapította, hogy kihirdetésekor a 16. § (1) bekezdésében foglalt feltételek nem teljesültek.
+16–18. §
 
 ### ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
 ### Felhatalmazó rendelkezések
 
-19. § Felhatalmazást kap a Kormány, hogy
-
-- a)
-- b) a 16. § (1) bekezdése alapján rendeletet adjon ki.
+19. §
 
 ### Hatálybalépés
 
