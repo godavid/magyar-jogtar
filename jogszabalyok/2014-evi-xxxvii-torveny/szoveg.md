@@ -635,93 +635,21 @@ készíti el, amely kötelezettség teljesítése nem érinti azt a jogát, hogy
 
 #### 153–157. §
 
-158. § (1) A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény (a továbbiakban: Stabtv.) 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 158–159. §
 
-„(1) Az 5. § (1) bekezdésének b) pontjában meghatározott intézkedések meghozatalára a Felügyelet Felügyeleti Tanácsának elnöke és az MNB elnöke együttes javaslata alapján, az e törvényben meghatározottak szerint a hitelintézet kérelmére vagy egyetértésével kerülhet sor.”
-
-(2) Hatályát veszti a Stabtv. 16–19. §-a.
-
-159. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 13. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdésben meghatározott feladatokon túl az ÁKK Zrt.]
-
-„c) közreműködhet az Országos Betétbiztosítási Alap és a Szanálási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjainak kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,”
-
-(2) A Gst. 44. §-át megelőző alcím címe helyébe a következő szöveg lép:
-
-„A pénzügyi rendszer stabilitásának megőrzése érdekében hitelintézeteknek vagy a Szanálási Alapnak nyújtható kölcsön”
-
-(3) A Gst. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A pénzügyi közvetítőrendszer stabilitását lehetségesen veszélyeztető helyzetben az állam a szabad pénzeszközeinek kezelése keretében
-
-a) a Magyar Nemzeti Bank által kibocsátott kötvényt szerezhet,
-
-b) Magyarország területén székhellyel rendelkező hitelintézetnek kölcsönt nyújthat, valamint
-
-c) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapnak kölcsönt nyújthat.”
-
-(4) A Gst. 44. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az államháztartásért felelős miniszter az értékpapírkölcsön-ügyletről vagy a kölcsönnyújtásról szóló döntését megelőzően javaslatot kér a Magyar Nemzeti Bank elnökétől, amely tartalmazza
-
-a) az (1) bekezdés a) és b) pontja esetben
-
-aa) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára és a reálgazdaságra gyakorolt hatásának vizsgálatát,
-
-ab) a hitelintézet rövid távú likviditási helyzetének értékelését,
-
-ac) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
-
-ad) a hitelintézet szavatoló tőke-helyzetéről szóló értékelést,
-
-ae) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
-
-af) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést;
-
-b) az (1) bekezdés c) pontja esetben a Szanálási Alap kölcsönfelvételi szándékának MNB által értékelt indokoltságát.”
-
-(5) A Gst. 44. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az (1) bekezdés c) pontja szerinti kölcsönnyújtáshoz kapcsolódóan az államháztartásért felelős miniszter a Szanálási Alap kötelezettségeként olyan feltételeket ír elő, amelyek biztosítják a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott fiskális semlegesség elvének teljesülését.”
-
-160. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 4. §-a a következő (15) bekezdéssel egészül ki:
-
-„(15) A (8) bekezdésben meghatározott feladatkör ellátásánál gondoskodni kell a szanálási feladatok ellátásáért felelős szervezeti egységnek az MNB más feladatait ellátó szervezeti egységétől való működési függetlenségről, ideértve azt is, hogy ezen feladatkört kizárólag az MNB elnökének vagy bármelyik alelnökének közvetlen alárendeltségében és irányításában lehet ellátni.”
+160. § (1)
 
 (2)–(9)
 
-(10) Az MNB tv. 140. § (4) bekezdés e) pontja a következő ef) alponttal egészül ki:
-
-[Az MNB tájékoztatja
-
-az Európai Rendszerkockázati Testületet]
-
-„ef) a Szantv. 113. § (2) bekezdésében foglaltakról.”
-
-(11) Az MNB tv. 163. §-a az alábbi (4) bekezdéssel egészül ki:
-
-„(4) Az MNB szervezeti egysége az MNB más feladatköréhez tartozó feladatot ellátó szervezeti egységének rendelkezésére bocsátja mindazon adatokat, amelyek kezelése a másik szervezeti egység jogszabályban meghatározott feladatai ellátásához is szükséges.”
+(10)–(11)
 
 161. § (1)–(7)
 
-(8) A Hpt. 57. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Hitelintézet felszámolása során
-
-a) az OBA által biztosított, valamint az 1993. június 30-át megelőzően – állami garanciával (helytállással) biztosított – betételhelyezésből eredő követeléseket a Cstv. 57. § (1) bekezdés c) pontját követő és a d) pontját megelőző kielégítési csoportba,
-
-b) az a) pontba nem tartozó betételhelyezésből eredő követeléseket a Cstv. (1) bekezdés d) pontjába
-
-szükséges sorolni azzal, hogy e követelések a követelések arányában kerülnek kielégítésre.”
+(8)
 
 (9)–(23)
 
-(24) A Hpt. 304. §-a helyébe a következő rendelkezés lép:
-
-„304. § A Szantv. 161. § (9) bekezdésével megállapított 114. §-ban foglalt helyreállítási tervet valamint csoportszintű helyreállítási tervet a Szantv. hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő hitelintézet irányítási jogkörrel rendelkező vezető testülete első alkalommal legkésőbb 2014. december 31-ig köteles a Felügyeletnek benyújtani.”
-
-(25) Hatályát veszti a Hpt. 189. § (1) bekezdés g) pontja, valamint a 220. § (3) bekezdése.
+(24)–(25)
 
 #### 82. Hatályát vesztő rendelkezések
 
