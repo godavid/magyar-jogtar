@@ -330,7 +330,7 @@ nyilatkozatára is alkalmazni kell.
 
 (2) A cselekvőképes személy – cselekvőképtelensége esetére – közokiratban megnevezheti azt a cselekvőképes személyt, aki az (1) bekezdés szerinti jogát helyette gyakorolhatja.
 
-(3) Az (1)–(2) bekezdés szerinti nyilatkozat abban az esetben érvényes, ha pszichiáter szakorvos – egy hónapnál nem régebbi – szakvéleményben igazolja, hogy a személy döntését annak lehetséges következményei tudatában hozta meg. A nyilatkozatot kétévente meg kell újítani, és azt a beteg bármikor – cselekvőképességére, illetve alaki kötöttségre tekintet nélkül – visszavonhatja.
+(3) Az (1)–(2) bekezdés szerinti nyilatkozatot a beteg bármikor – cselekvőképességére, illetve alaki kötöttségre tekintet nélkül – visszavonhatja.
 
 (4) A (2) bekezdés szerinti cselekvőképes személy beavatkozást visszautasító nyilatkozata esetén a 20. § (4) bekezdése szerinti bizottság nyilatkozik, hogy
 
