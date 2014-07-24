@@ -423,7 +423,7 @@ nyújtható.
 
 21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – az állami intézményfenntartó központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A köznevelési intézmény a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
 
-(2) A köznevelési intézmény alapítását az alapító okirat, az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentum, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, az állami intézményfenntartó központ által fenntartott intézmény esetében a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szervnél (a továbbiakban: hivatal), más esetben a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
+(2) A köznevelési intézmény alapítását az alapító okirat, az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentum, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, az állami intézményfenntartó központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szervnél (a továbbiakban: hivatal), más esetben a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
 
 (3) A köznevelési intézmény alapító okirata, szakmai alapdokumentuma tartalmazza
 
@@ -702,9 +702,9 @@ rendkívüli szünetet rendel el.
 
 (6) A felsőoktatási intézmények által fenntartott óvodák, általános iskolák – a (1) bekezdésben meghatározottak szerint – részt vesznek a kötelező felvételi feladatok ellátásában.
 
-34. § (1) A kormányhivatal elkészíti és vezeti az egyházi köznevelési intézmények és a magán köznevelési intézmények jegyzékét.
+34. § (1) A kormányhivatal elkészíti és vezeti az egyházi, magán köznevelési intézmények és a nemzetiségi önkormányzatok által fenntartott köznevelési intézmények jegyzékét.
 
-(2) A kormányhivatal legalább kétévente végzi az egyházi köznevelési intézmény és a magán köznevelési intézmény fenntartói tevékenységének törvényességi ellenőrzését, amelynek eredményéről értesíti a költségvetési hozzájárulást folyósító szervet. A kormányhivatal a törvényességi ellenőrzés keretében vizsgálja, hogy a fenntartó a nevelési-oktatási intézményt az alapító okiratban és a működéshez szükséges engedélyben meghatározottak szerint működteti-e.
+(2) A kormányhivatal legalább kétévente végzi az egyházi, magán köznevelési intézmény és a nemzetiségi önkormányzatok által fenntartott köznevelési intézmény fenntartói tevékenységének törvényességi ellenőrzését, amelynek eredményéről értesíti a költségvetési hozzájárulást folyósító szervet. A kormányhivatal a törvényességi ellenőrzés keretében vizsgálja, hogy a fenntartó a nevelési-oktatási intézményt az alapító okiratban és a működéshez szükséges engedélyben meghatározottak szerint működteti-e.
 
 (3) A kormányhivatal a törvényességi ellenőrzés körében – megfelelő határidő biztosításával – felhívja a fenntartót a törvénysértés megszüntetésére. Ha a fenntartó a megadott határidőn belül nem intézkedett, a kormányhivatal a köznevelési intézményt törli a nyilvántartásból.
 
@@ -851,6 +851,13 @@ tekintetében.
   - eh) a tanulói jogviszony megszűnésének időpontja és oka,
 - f) az országos mérés-értékelés adatai.
 
+(4a) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (4) bekezdésben meghatározott adatokon kívül
+
+- a) a szülő, a törvényes képviselő önkéntes adatszolgáltatása alapján a gyermek, a tanuló nemzetiségi hovatartozására vonatkozó adatot,
+- b) annak a nevelési-oktatási intézménynek a nevét, címét, OM azonosítóját, amellyel a gyermek, a tanuló óvodai nevelési vagy tanulói jogviszonyban, kollégiumi tagsági viszonyban áll, valamint a gyermek, a tanuló által igénybe vett pedagógiai szakszolgálati ellátás 18. § (2) bekezdés szerinti megnevezését
+
+is nyilvántartja.
+
 (5) A (2)–(3) bekezdésben foglalt adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, rendőrségnek, ügyészségnek, a közneveléssel összefüggő igazgatási tevékenységet végző közigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak, a nemzetbiztonsági szolgálatnak.
 
 (6) A köznevelési intézmények az alkalmazottak személyes adatait csak a foglalkoztatással, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével, az állampolgári jogok és kötelezettségek teljesítésével kapcsolatosan, nemzetbiztonsági okokból, az e törvényben meghatározott nyilvántartások kezelése céljából, a célnak megfelelő mértékben, célhoz kötötten kezelhetik. A 63. § (3) bekezdésében meghatározott pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a KIR adatkezelője, a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
@@ -902,7 +909,8 @@ továbbítható.
 - c) akit pedagógus-munkakörben alkalmaznak,
 - d) akit nevelő és oktató munkát közvetlenül segítő munkakörben alkalmaznak,
 - e) akit pedagógiai előadó vagy pedagógiai szakértő munkakörben alkalmaznak,
-- f) akit óraadóként foglalkoztatnak.
+- f) akit óraadóként foglalkoztatnak,
+- g) aki pedagógiai szakszolgálati ellátásban részesül és nem tartozik az a)–f) pontban felsoroltak közé.
 
 (4) Egy személynek csak egy oktatási azonosítója lehet, ennek biztosítása érdekében a KIR személyi nyilvántartása, valamint a felsőoktatási információs rendszer hallgatói és alkalmazotti személyi törzsének adatállománya összekapcsolható.
 
@@ -979,6 +987,42 @@ továbbítható.
 - d) az elnök nevét,
 - e) az elnök elérhetőségeit (telefonszámát, telefax, elektronikus levelezési cím),
 - f) nyilvántartásba vételi számát.
+
+44/A. § (1) A pedagógiai szakszolgálati tevékenységek során alkalmazott INYR a gyermekek, tanulók teljes körű pedagógiai szakszolgálati ellátása, fejlődésük figyelemmel kísérése céljából a gyermekekhez, tanulókhoz kapcsolódóan, a számukra ellátást nyújtó intézmények, nevelési-oktatási intézmények és a pedagógiai szakszolgálati intézmények feladatellátási adatainak nyilvántartását, továbbá az ellátást igénybevevők ellátási eseményeinek nyomon követését szolgáló országos informatikai nyilvántartó rendszer.
+
+(2) Az INYR keretében folyó adatkezelés tekintetében a hivatal az adatkezelő.
+
+(3) A KIR adatkezelője
+
+- a) a 44. § (5) bekezdés a)–j) és m)–o) pontjában foglalt adatokat,
+- b) a gyermek, tanuló pedagógiai szakszolgálati ellátásban, gyógypedagógiai nevelésében-oktatásában, fejlesztő foglalkoztatásában közreműködő pedagógus, továbbá szakorvos 44. § (7) bekezdés a)–m) pontjában foglalt adatait
+
+a gyermek, tanuló pedagógiai szakszolgálati ellátása céljából továbbítja az INYR részére.
+
+(4) A gyermek, tanuló pedagógiai szakszolgálati ellátása során keletkezett adatokat a külön jogszabályban meghatározott feladatellátási kötelezettséggel rendelkező pedagógiai szakszolgálati intézménynek a gyermekkel, tanulóval közvetlenül foglalkozó szakembere köteles az INYR-be rögzíteni.
+
+(5) Az ellátott gyermekre, tanulóra vonatkozó személyes adatokat az INYR-ből kizárólag
+
+- a) a pedagógiai szakszolgálatnak a gyermeket, tanulót közvetlenül ellátó munkatársa,
+- b) a gyermeket, tanulót közvetlenül ellátó pedagógiai szakszolgálati intézmény vezetője ismerheti meg.
+
+(6) Az INYR-ben tárolt személyes adatokat az adatkezelő a pedagógiai szakszolgálati intézmény ellátásának utolsó igénybevételétől számított tizenöt év elteltével törli a nyilvántartásból.
+
+44/B. § Az INYR
+
+- a) a pedagógiai szakszolgálati ellátásban részesülő személy
+  - aa) 44. § (5) bekezdés a)–j) és m)–o) pontban foglaltak szerinti adatait, valamint hátrányos vagy halmozottan hátrányos helyzetét,
+  - ab) szülője, törvényes képviselője 41. § (4) bekezdés b) pontban foglalt adatait,
+- b) az ellátott adataihoz kapcsolva az ellátott egészségügyi, továbbá a pedagógiai szakszolgálaton kívüli köznevelési ellátása során keletkezett azon dokumentumok kiállításának időpontját, tartalmát, kibocsátójának nevét, amelyek a pedagógiai szakszolgálati ellátást megelőzően keletkeztek, az ellátott vagy szülője, törvényes képviselője rendelkezésére állnak és az ellátáshoz feltétlenül szükségesek,
+- c) az ellátott adataihoz kapcsolva a pedagógiai szakszolgálati ellátására vonatkozóan
+  - ca) a szűrést, vizsgálatot végző intézmény nevét, címét, a szűrés eredményét, a szűrés, vizsgálat kérelmezőjének nevét, címét, elérhetőségét, a szűrés, vizsgálat módszerét, eszközét, eredményét, megállapításait, a szűrési, vizsgálati eljárásban szereplő szakemberek nevét, végzettségét, szakképzettségét, a szűrés, vizsgálat időpontját, időtartamát, helyét,
+  - cb) az állapotmegismerést végző intézmény nevét, címét, az állapotmegismerés kérelmezőjének nevét, címét, elérhetőségét, az állapotmegismerés időpontját, időtartamát, helyét, az állapotmegismerés módszerét, eszközét, az állapotmegismerés eredményét és megállapításait, az eljárásban közreműködő szakember nevét, végzettségét, szakképzettségét,
+  - cc) a szűrés, vizsgálat, állapotmegismerés alapján megállapított szükséges segítő beavatkozás megnevezését, óraszámát, időtartamát, módszerét, eszközét, helyszínét, a segítő beavatkozást végző intézmény adatait, a részt vevő szakember nevét, végzettségét, szakképzettségét, a segítő beavatkozás eredményét,
+  - cd) a szűrés, vizsgálat, állapotmegismerés eredményével kapcsolatos szülői nyilatkozatot, a szülői felülvizsgálati kérelem adatait,
+  - ce) a felülvizsgálat okát, kérelmezőjét, legutóbbi vizsgálat, felülvizsgálat óta eltelt időt, felülvizsgálatot végző intézmény nevét, címét, a felülvizsgálat módszerét, eszközét, időpontját, időtartamát, helyszínét, a felülvizsgálatot végző szakemberek nevét, végzettségét, szakképzettségét, a felülvizsgálat eredményét,
+- d) a pedagógiai szakszolgálati intézmények működéséről szóló jogszabályban meghatározott közigazgatási hatósági eljárás adatai közül az eljárás kezdeményezőjének nevét, címét, elérhetőségét, az eljárás okát, az eljárás eredményét, a közigazgatási hatósági eljárás ügyszámát
+
+tartja nyilván.
 
 #### 27. A gyermekek, a tanulók kötelességei és jogai, a tankötelezettség
 
@@ -1425,7 +1469,7 @@ fegyelmi büntetés szabható ki.
 
 (4) A továbbképzési kötelezettség teljesítése szempontjából a külön jogszabályban meghatározottakon kívül csak olyan továbbképzés vehető figyelembe, amelynek programját az oktatásért felelős miniszter jóváhagyta és a program alkalmazására engedélyt adott. A pedagógus-továbbképzések nyilvántartását és ellenőrzését a hivatal az oktatásért felelős miniszter által kijelölt háttérintézménnyel közösen látja el.
 
-(5) A nevelési-oktatási intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
+(5) A nevelési-oktatási és a pedagógiai szakszolgálati intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
 
 (6) A teljes munkaidő ötvenöt–hatvanöt százalékában (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
 
@@ -1443,7 +1487,7 @@ fegyelmi büntetés szabható ki.
 
 (12) Az iskolai, kollégiumi könyvtárostanár, könyvtárostanító a neveléssel-oktatással lekötött munkaidő keretében biztosítja a könyvtár nyitva tartását, a könyvtári órákat. Munkaköri feladatként a kötött munkaidő többi része hetven százaléka – a könyvtár zárva tartása mellett – a munkahelyen végzett könyvtári munkára (az állomány gyarapítása, gondozása, könyvtári kutatómunka), iskolai kapcsolattartásra, a további harminc százaléka a munkahelyen kívül végzett felkészülésre, könyvtári kapcsolatépítésre, állománygyarapításra, továbbá a pedagógus-munkakörrel összefüggő más tevékenység ellátására szolgál.
 
-(13) A pedagógiai szakszolgálat intézményében alkalmazott pedagógusok teljes munkaidőben történő foglalkoztatás esetében heti huszonegy órában a neveléssel-oktatással lekötött munkaidőben végzik a gyermekek, tanulók vizsgálatával, egyéni vagy csoportos foglalkoztatásával, a tanácsadással, gondozói tanfolyamok megtartásával (a továbbiakban: közvetlen foglalkozás) kapcsolatos feladatokat. A közvetlen foglalkozásra megállapított időn kívül – munkaköri feladatként – látják el a szakértői véleményhez szükséges vizsgálatok, valamint a közvetlen foglalkozások előkészítésével kapcsolatos feladatokat, a vizsgálatok keretében készített vélemények egyeztetését, a szakértői vélemények elkészítését, biztosítják a folyamatos nyitva tartást, továbbá végzik a gyermek, tanuló fejlődéséhez szükséges egyéb, intézményen kívüli tevékenységet, utaznak a gyermekhez, tanulóhoz.
+(13) A pedagógiai szakszolgálat intézményében alkalmazott pedagógusok teljes munkaidőben történő foglalkoztatás esetében heti huszonegy órában a neveléssel-oktatással lekötött munkaidőben végzik a gyermekek, tanulók vizsgálatával, egyéni vagy csoportos foglalkoztatásával, a tanácsadással, gondozói tanfolyamok megtartásával (a továbbiakban: közvetlen foglalkozás) kapcsolatos feladatokat.
 
 (14) A nevelési-oktatási intézmény és pedagógiai szakszolgálat vezetője a teljes munkaidő 5. melléklet vagy a pedagógiai szakszolgálatokra vonatkozó miniszteri rendelet szerinti tanórai foglalkozásokkal le nem kötött részében látja el a vezetői megbízással kapcsolatos feladatokat.
 
@@ -1759,7 +1803,7 @@ fokozatokat érheti el.
 
 (6) A legalább Pedagógus II. fokozatot elért pedagógus tízévenként – tudományos kutatáshoz, vagy egyéni tudományos továbbképzésen való részvételhez – legfeljebb egy évi fizetés nélküli szabadságot (a továbbiakban: alkotói szabadság) vehet igénybe.
 
-(7) Az öregségi nyugdíjkorhatárt öt éven belül elérő pedagógus, óvodai dajka választása szerint csökkentett munkaidőben dolgozhat, illetménye, munkabére pedig csak a munkaidő-csökkentés arányának ötven százalékával csökken. Az e bekezdésben foglalt kedvezményt csak azok választhatják, akik a nyugdíjkorhatár elérése előtti ötödik évet megelőzően legalább 20 év szakmai gyakorlattal rendelkeznek pedagógus-munkakörben vagy óvodai dajkaként.
+(7) Az öregségi nyugdíjkorhatárt öt éven belül elérő pedagógus, óvodai dajka választása szerint csökkentett munkaidőben dolgozhat. Illetménye, munkabére a munkaidő-csökkentés mértékének ötven százalékával csökken. A munkáltató csak akkor köteles biztosítani a választás szerinti feltételeket, ha azt a nevelési, a tanítási év vagy a tanítási év első félévének befejezését megelőző hatvan nappal korábban közli a pedagógus, az óvodai dajka. Az e bekezdésben foglalt kedvezményt csak azok választhatják, akik a nyugdíjkorhatár elérése előtti ötödik évet megelőzően legalább 20 év szakmai gyakorlattal rendelkeznek pedagógus-munkakörben vagy óvodai dajkaként.
 
 (8) A minősítő vizsga és a minősítési eljárás részletes szabályait, a sikeres minősítő vizsgához és minősítési eljáráshoz, az alkotói szabadság igénybevételéhez szükséges követelményeket külön jogszabály állapítja meg.
 
@@ -1777,7 +1821,9 @@ vonatkozó szabályok szerint kell figyelembe venni.
 
 foglalkoztatott tekintetében is.
 
-(10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, gyógypedagógiai asszisztens, pszichopedagógus pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.
+(10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.
+
+(11) Abban az esetben, ha a magasabb vezetői, vezetői megbízással rendelkező pedagógus helyettesítésének ideje eléri a tíz munkanapot, a helyettesítő pedagógus heti tanóráinak, foglalkozásainak számát az ellátott magasabb vezető, vezető beosztásra meghatározott óraszám alapján kell megállapítani.
 
 #### 37. A köznevelésben történő alkalmazás feltételei
 
@@ -1826,7 +1872,7 @@ foglalkoztatott tekintetében is.
 
 #### 39. A köznevelési intézmény vezetője
 
-68. § (1) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény, többcélú intézmény vezetőjét – nevelési-oktatási intézmény esetében a nevelőtestület, többcélú intézményben az igazgatótanács, a fenntartó, az intézmény székhelye szerint illetékes vagy az intézményt működtető települési önkormányzat, szakképző iskolában a szakképzésért és felnőttképzésért felelős miniszter véleményének kikérésével – az oktatásért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
+68. § (1) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény, többcélú intézmény vezetőjét – az e törvényben foglalt szervezetek, közösségek, személyek és a fenntartó véleményének kikérésével – az oktatásért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
 
 (2) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény kivételével az állami fenntartású köznevelési intézmény, továbbá az egyházi köznevelési intézmény és a magán köznevelési intézmény vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
 
@@ -2013,7 +2059,7 @@ mindaddig, amíg a köznevelési közfeladat állami intézményfenntartó közp
 - b) ellenőrzi a tankönyvkiadást és tankönyvforgalmazást, szabályozza a tankönyvekkel kapcsolatos támogatások rendszerét,
 - c) gondoskodik – az országos pedagógiai-szakmai szolgáltatásokról és az állami nevelési-oktatási intézmények számára ingyenesen nyújtott pedagógiai-szakmai szolgáltatások megszervezéséről,
 - d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, megyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
-- e) felügyeli a KIR működését,
+- e) felügyeli a KIR és az INYR működését,
 - f) működteti az oktatási jogok biztosának hivatalát,
 - g) javaslatot tesz statisztikai adatszolgáltatásra,
 - h) jóváhagyja az iskolák által használt bizonyítványnyomtatványokat és a kiállításuk alapjául szolgáló nyomtatványokat, engedélyezi előállításukat és forgalomba hozatalukat, továbbá jóváhagyja a kötelező tanügyi nyilvántartást felváltó elektronikus adatnyilvántartást,
@@ -2121,7 +2167,7 @@ figyelembe veszi.
 
 (8) A hivatal az országos mérésnek, értékelésnek a tanulóra vonatkozó feldolgozott adatait a honlapján az érintett tanuló és szülője részére hozzáférhetővé teszi.
 
-(9) Az oktatásért felelős miniszternek a tanév rendjéről szóló rendeletében meghatározott mérési időszakban tanévenként, az iskola az 1–4. évfolyamán tanulók kivételével, valamennyi évfolyamon megszervezi a nappali rendszerű iskolai oktatás munkarendje szerint tanulók bevonásával a tanulók fizikai állapotának és edzettségének mérését, vizsgálatát. Az érintett tanuló fizikai állapotának és edzettségének mérését, vizsgálatát az iskolai testnevelés tantárgyat tanító pedagógus végzi.
+(9) Az iskola az oktatásért felelős miniszternek a tanév rendjéről szóló rendeletében meghatározott mérési időszakban, tanévenként megszervezi – a felnőttoktatásban és az 1–4. évfolyamon tanulók kivételével – a tanulók fizikai állapotának és edzettségének mérését, vizsgálatát azokon az évfolyamokon, ahol a testnevelés tantárgy tanítása folyik. Az érintett tanuló fizikai állapotának és edzettségének mérését, vizsgálatát az iskolai testnevelés tantárgyat tanító pedagógus végzi. A mérés megszervezésére a (2)–(8) bekezdésben foglaltak alkalmazandók.
 
 81. § A középfokú iskola minden év október 31-éig értesíti az általános iskolát arról, hogy az ott végzett tanulók – a középfokú iskola első két évfolyamán – a tanítási év végén milyen tanulmányi eredményt értek el. A középfokú iskola megküldi az általános iskolának a tanuló nevét, oktatási azonosítóját, továbbá az elért tanulmányi eredményeket. Az általános iskola a megküldött adatokat feldolgozza, és személyazonosításra alkalmatlan módon az iskola honlapján, annak hiányában a helyben szokásos módon nyilvánosságra hozza.
 
@@ -2185,7 +2231,7 @@ kezeli.
 
 (2) A fenntartó
 
-- a) e törvényben foglalt keretek között – az állami intézményfenntartó központ által fenntartott köznevelési intézmény kivételével – dönt a köznevelési intézmény létesítéséről, nevének megállapításáról, gazdálkodási jogköréről, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról, fenntartói jogának átadásáról,
+- a) e törvényben foglalt keretek között – az állami intézményfenntartó központ, valamint az állami felsőoktatási intézmény által fenntartott köznevelési intézmény kivételével – dönt a köznevelési intézmény létesítéséről, nevének megállapításáról, gazdálkodási jogköréről, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról, fenntartói jogának átadásáról,
 - b) dönt az óvodába történő jelentkezés módjáról, az óvodai általános felvételi időpontról, az óvoda heti és éves nyitvatartási idejének meghatározásáról,
 - c) meghatározza a köznevelési intézmény költségvetését, továbbá a kérhető térítési díj és tandíj megállapításának szabályait, a szociális alapon adható kedvezmények feltételeit,
 - d) meghatározza az adott nevelési évben indítható óvodai csoportok számát, az adott tanítási évben az iskolában indítható osztályok, a kollégiumban szervezhető csoportok számát,
@@ -2251,13 +2297,13 @@ kapcsolatban.
 
 (8)
 
-(9) A települési önkormányzat, az állami fenntartó az alapító okirata, szakmai alapdokumentuma szerint nemzetiségi óvodai nevelésben, iskolai nevelés-oktatásban, kollégiumi nevelésben közreműködő nevelési-oktatási intézmény, továbbá az érintett gyermekek, tanulók ellátásában közreműködő pedagógiai szakszolgálatot ellátó intézmény
+(9) Ha a nevelési-oktatási intézmény alapító okirata, szakmai alapdokumentuma tartalmazza a nemzetiségi nevelési-oktatási feladat ellátását, feltéve, hogy e feladatot az intézmény ténylegesen ellátja, akkor a települési önkormányzat, az állami fenntartó az intézmény
 
 - a) létesítésével, megszüntetésével, átszervezésével, nevének megállapításával,
 - b) költségvetésének meghatározásával és módosításával,
-- c) vezetőjének megbízásával, megbízásának visszavonásával
+- c) vezetőjének megbízásával, megbízásának visszavonásával összefüggő döntéséhez, véleményéhez beszerzi az érintett települési nemzetiségi önkormányzat, térségi feladatot ellátó intézmény esetében a területi nemzetiségi önkormányzat, országos feladatot ellátó köznevelési intézmény esetében az országos nemzetiségi önkormányzat egyetértését. Többcélú intézményben, valamint ha a nevelési-oktatási intézménynek több tagintézménye, több intézményegysége van, akkor több tagintézmény esetén tagintézményenként, több intézményegység esetén intézményegységenként kell vizsgálni azt, hogy szerepel-e a nemzetiségi nevelés-oktatás az alapító okiratban vagy a szakmai alapdokumentumban továbbá azt, hogy a tagintézmény, intézményegység a nemzetiségi nevelési-oktatási feladatot ténylegesen ellátja-e. Ha a tagintézményben vagy intézményegységben folyó nevelés-oktatás megfelel e feltételeknek, akkor az érintett nemzetiségi önkormányzatot az adott tagintézményre, intézményegységre vonatkozóan az a)–c) pontban felsorolt döntések meghozatala során egyetértési jog illeti meg.
 
-összefüggő döntéséhez, véleményéhez beszerzi az érintett települési nemzetiségi önkormányzat, térségi feladatot ellátó intézmény esetében a területi nemzetiségi önkormányzat, országos feladatot ellátó köznevelési intézmény esetében az országos nemzetiségi önkormányzat egyetértését.
+(9a) Az oktatásért felelős miniszter az állami intézményfenntartó központ által fenntartott intézmények tekintetében hozott, az e §-ban meghatározott döntéseihez nem köteles beszerezni az érintett nemzetiségi önkormányzat egyetértését, amennyiben az oktatásért felelős miniszter az állami intézményfenntartó központ véleményével egyező döntést hoz, és az állami intézményfenntartó központ véleményével az érintett nemzetiségi önkormányzat egyetért.
 
 (10) Többcélú intézmény esetén az e §-ban foglaltakat csak az érintett intézményegység vonatkozásában kell alkalmazni.
 
@@ -2463,6 +2509,7 @@ egyetértésben gyakorolja.
 - t) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát,
 - u) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 - v) 2014. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének százalékában meghatározott tanévenkénti mértékét
+- w) a pedagógiai szakszolgálati tevékenységek során alkalmazott integrált nyomonkövető rendszer létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét
 
 rendeletben állapítsa meg.
 
@@ -2715,7 +2762,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 | 1 | Magasabb vezetői, vezetői megbízás | Feltétel | Létszám |
 | 2 | intézményvezető | intézményenként | 1 |
 | 3 | tagintézmény-vezető | tagintézményenként | 1 |
-| 4 | intézményvezető-helyettes | 50 gyermek létszám alatt | – |
+| 4 | intézményvezető-helyettes | 51 gyermek létszám alatt | – |
 | 5 | intézményvezető-helyettes | 51 – 200 gyermek esetén | 1 |
 | 6 | intézményvezető-helyettes | 201 – 500 gyermek esetén | 2 |
 | 7 | intézményvezető-helyettes | 500-nál több gyermek esetén | 3 |
