@@ -941,7 +941,13 @@ alapszabadság illeti meg.
 
 (2) A magasabb vezető megbízású közalkalmazottat évi tíz munkanap, a vezető megbízásút évi öt munkanap pótszabadság illeti meg.
 
-(3) A bölcsődékben, a csecsemőotthonokban, az óvodákban, továbbá az alsó-, közép- és felsőfokú oktatás keretében, valamint az egészségügyi ágazatban az oktató, nevelő munkát végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató oktató, nevelő, illetőleg az oktatással, neveléssel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
+(3) A bölcsődékben, a nevelési-oktatási és a pedagógiai szakszolgálati intézményekben, a felsőfokú oktatás keretében, valamint az egészségügyi ágazatban a nevelő, nevelő-oktató, oktató munkát, pedagógiai szakszolgálati tevékenységet végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató nevelő, nevelő-oktató, oktató, illetőleg a neveléssel, oktatással, pedagógiai szakszolgálati tevékenységgel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
+
+(3a) A gyermekvédelmi szakellátási intézményekben, javítóintézetekben jogszabályban meghatározott pedagógus-munkakörben foglalkoztatott közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató
+
+- a) a gyermekekkel, fiatal felnőttekkel való közvetlen, egyéni és csoportos foglalkozás vezetésére, fejlesztés és oktatás tartására,
+- b) a gyermekek, fiatal felnőttek és a velük kapcsolatos intézkedések meghozatala, a számukra nyújtott ellátások meghatározása szempontjából jelentőséggel bíró személyek személyiségállapotának vizsgálatára, pedagógiai megfigyelések és családgondozási, utógondozási feladatok végzésére, és
+- c) az a) és b) pontban foglalt tevékenységgel összefüggő feladatok ellátására.
 
 (4)
 
@@ -1357,7 +1363,7 @@ megfelelő összeg illeti meg.
   - cc) munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
   - cd) a gyakornoki követelmények elveit, a szakmai segítő részletes kötelezettségeit, a gyakornoki szabályzat kiadásával kapcsolatos eljárási szabályokat, valamint a gyakornok kötelező órájával kapcsolatos rendelkezéseket,
   - ce) a külön törvényben szabályozott teljesítményértékelés minősítési eredménnyel való egyenértékűsége feltételeit,
-  - cf) pótszabadságra jogosult oktató, nevelő munkát végzők körét,
+  - cf) a pótszabadságra jogosult nevelő, nevelő-oktató és pedagógiai szakszolgálati tevékenységet végzők körét,
   - cg) a további szakképzettség, illetve szakképesítés hasznosításának a kötelező óraszámra eső mértékét,
   - ch) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
   - ci) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
@@ -1538,6 +1544,10 @@ eltöltött időt.
 (3) A Módtv. 1. § (13) bekezdésével megállapított – 80. § (2)–(4) bekezdésében foglaltakat a Módtv. hatálybalépése után esedékessé váló távolléti díjra kell alkalmazni.
 
 91/B. § E törvénynek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor fennálló közalkalmazotti jogviszonyra akkor kell alkalmazni, ha az 1. módosító törvény hatálybalépése után indul büntetőeljárás a 20. § (2d) bekezdés a) pontjában meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt.
+
+91/C. § (1) A pedagógiai szakszolgálati intézményben foglalkoztatott – külön jogszabályban meghatározott munkakört betöltő – közalkalmazottat az 57. § (3) bekezdése alkalmazásakor a 2014. július 1. és 2014. december 31. napja közti időszakra 15 munkanap pótszabadság illeti meg.
+
+(2) A pedagógiai szakszolgálati intézményben foglalkoztatott – külön jogszabályban meghatározott munkakört betöltő – közalkalmazottat a 2014. július 1. és 2014. december 31. napja közti időszakban a tárgyévi pótszabadsága idejéből kötelező munkavégzésre legfeljebb öt munkanapra lehet igénybe venni.
 
 92. § (1)
 
