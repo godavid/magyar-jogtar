@@ -10,7 +10,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 1. § (1) E törvény értelmében nemzetiség minden olyan – Magyarország területén legalább egy évszázada honos – népcsoport, amely az állam lakossága körében számszerű kisebbségben van, a lakosság többi részétől saját nyelve, kultúrája és hagyományai különböztetik meg, egyben olyan összetartozás-tudatról tesz bizonyságot, amely mindezek megőrzésére, történelmileg kialakult közösségeik érdekeinek kifejezésére és védelmére irányul.
 
-(2)
+(2) A nemzetiségi jogok és kötelezettségek vonatkozásában az (1) bekezdés szerinti nemzetiséghez tartozik az a Magyarországon lakóhellyel rendelkező személy, aki magát valamely nemzetiséghez tartozónak tekinti és ezen nemzetiséghez tartozását az e törvényben meghatározott esetekben és módon kinyilvánítja.
 
 (3) Az (1) bekezdés szerinti nemzetiségeket az 1. melléklet sorolja fel.
 
@@ -38,7 +38,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 - 11. az intézmény alapításának joga magában foglalja az intézmény átvételének, átszervezésének és megszüntetésének jogát;
 - 12. hozzátartozó: az egyenesági rokon és ennek házastársa, a testvér, a házastárs, a bejegyzett élettárs és az élettárs;
 - 13. nemzetiségi köznevelésben alkalmazottak köre: a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatása a nemzetiségi köznevelési intézményben pedagógus, pedagógiai szakértő munkakörben és pedagógiai előadó munkakörben, továbbá a nevelő és oktató munkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását közvetlenül segítő munkakörben történik;
-- 14.
+- 14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában szereplő olyan egyesület, amelynek alapszabályában rögzített célja az e törvény szerinti, konkrétan megjelölt nemzetiség képviselete;
 - 15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó nemzetiségi egyesülettel.
 
 ### II. Fejezet — A nemzetiségek alapvető jogai
@@ -56,13 +56,24 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 (2) A polgári és büntetőeljárások során, valamint a közigazgatási eljárásokban az anyanyelv használatát a vonatkozó eljárásjogi törvények biztosítják.
 
-(3) Az Országgyűlésben a nemzetiséghez tartozó képviselő az anyanyelvét is használhatja.
+(3) Az Országgyűlésben a nemzetiséghez tartozó képviselő és a nemzetiségi szószóló az anyanyelvét is használhatja.
 
 (4) A helyi önkormányzat képviselő-testületében a nemzetiségi képviselő anyanyelvét is használhatja. Ha a felszólalás kizárólag valamely nemzetiség nyelvén hangzott el, a felszólalás magyar nyelvű szövegét vagy tartalmi kivonatát az ülés jegyzőkönyvéhez csatolni kell.
 
-(5)
+(5) Azokon a településeken, ahol valamely nemzetiségnek a népszámlálás során a regisztrált aránya eléri a húsz százalékot, az érintett települési nemzetiségi önkormányzat kérésére a képviselő-testület köteles jegyzőkönyveit és határozatait a magyar mellett az adott nemzetiség nyelvén is vezetni, szövegezni. Értelmezési vita esetén a magyar nyelvű változat a hiteles.
 
-6. § (1)–(4)
+6. § (1) Azokon a településeken, ahol valamely nemzetiségnek a népszámlálás során regisztrált aránya eléri a tíz százalékot, a helyi önkormányzat az illetékességi területén működő érintett települési nemzetiségi önkormányzat kérésére köteles biztosítani, hogy
+
+- a) rendeletének kihirdetése, hirdetményének közzététele – a magyar nyelven történő közzététel mellett – a nemzetiség anyanyelvén is megtörténjék,
+- b) a közigazgatási eljárás során használt nyomtatványok a nemzetiség anyanyelvén is rendelkezésre álljanak,
+- c) a közhivatalok, közszolgáltatást végző szervek elnevezését feltüntető táblák feliratai vagy ezek működésére vonatkozó közlemények – a magyar nyelvű szövegezés és írásmód mellett, azzal azonos tartalommal és formában – a nemzetiség anyanyelvén is olvashatóak legyenek,
+- d) a helység- és utcaneveket megjelölő táblák feliratai a magyar nyelvű szövegezés és írásmód mellett a hagyományos nemzetiségi elnevezés a nemzetiség anyanyelvén, ennek hiányában a magyar nyelvű elnevezéssel azonos tartalmú és formájú elnevezés a nemzetiség anyanyelvén is olvashatóak legyenek.
+
+(2) Azokon a településeken, ahol valamely nemzetiségnek a népszámlálás során regisztrált aránya eléri a húsz százalékot, az érintett települési nemzetiségi önkormányzat kérésére a helyi köztisztviselői és közalkalmazotti, valamint közjegyzői és bírósági végrehajtói állások betöltése során – az általános szakmai követelmények megtartása mellett – biztosítani kell az adott nemzetiség anyanyelvét is ismerő személy alkalmazását.
+
+(3) Azokon a településeken, ahol valamely nemzetiségnek a népszámlálás során regisztrált aránya eléri a tíz százalékot és a településen nemzetiségi önkormányzat, vagy nemzetiségi egyesület működik, az érintett települési nemzetiségi önkormányzat, vagy nemzetiségi egyesület kérésére a helyi önkormányzat által fenntartott vagy finanszírozott médiaszolgáltató rendszeres nemzetiségi közszolgálati műsort biztosít az adott településen élő nemzetiségi közösség anyanyelvű tájékoztatása érdekében. A rendelkezés a helyi önkormányzat által kiadott vagy finanszírozott sajtótermékre is vonatkozik.
+
+(4) A (3) bekezdés szerint megvalósuló médiaszolgáltatással kapcsolatos kérdésekben ki kell kérni az érintett települési nemzetiségi önkormányzat, ennek hiányában a településen székhellyel rendelkező nemzetiségi egyesület véleményét.
 
 (5) Ha a településen nemzetiséghez tartozó személyek élnek – az érintett nemzetiség települési nemzetiségi önkormányzata, ennek hiányában települési székhelyű nemzetiségi szervezete, intézménye, vagy az adott nemzetiséghez tartozók kezdeményezésére – a képviselő-testület biztosíthatja az (1)–(4) bekezdés szerinti nyelvhasználati jogokat.
 
@@ -515,7 +526,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) A nemzetiségi önkormányzat testülete az átruházott hatáskör tekintetében utasítást adhat a hatáskör gyakorlásához, és e hatáskört visszavonhatja. Az átruházott hatáskör tovább nem ruházható át.
 
-(3)
+(3) Egyes, a közgyűlés szervezeti és működési szabályzatában meghatározott feladatok ellátásának felügyeletére az országos nemzetiségi önkormányzat tanácsnokot választhat. A tanácsnok részére a képviselő-testület a bizottsági elnököt megillető tiszteletdíjat és egyéb juttatást állapíthat meg.
 
 78. § (1) Nemzetiségi önkormányzatnak e törvény állapíthat meg kötelező feladat- és hatáskört, ezzel egyidejűleg a kötelező feladat- és hatáskör ellátásához az Országgyűlés biztosítja az azzal arányban álló forrást és eszközrendszert.
 
@@ -603,7 +614,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (5) Az alakuló ülést a jelenlévő legidősebb nemzetiségi önkormányzati képviselő mint korelnök vezeti a képviselő-testület, közgyűlés elnökének megválasztásáig.”
 
-88. § (1) Az alakuló ülésen a nemzetiségi önkormányzat a testületének tagjai közül megválasztja az önkormányzat elnökét, elnökhelyettesét, bizottsága tagjait, megalkotja szervezeti és működési szabályzatát, dönt a tiszteletdíjakról, illetményekről.
+88. § (1) Az alakuló ülésen a nemzetiségi önkormányzat a testületének tagjai közül megválasztja az önkormányzat elnökét, elnökhelyettesét, bizottsága tagjait, megalkotja szervezeti és működési szabályzatát, dönt a tiszteletdíjakról, illetményekről. Az országos önkormányzat egy-négy elnökhelyettest választ.
 
 (2) Az alakuló ülés akkor tekinthető megtartottnak, ha a tisztségviselők, de legalább az elnök megválasztására sor került.
 
@@ -620,7 +631,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 (2) A testület zárt ülést tart a következő ügyekben:
 
 - a) összeférhetetlenségi,
-- b)
+- b) méltatlansági,
 - c) kitüntetési ügy tárgyalásakor,
 - d) vagyonnyilatkozati eljárás és
 - e) fegyelmi büntetés kiszabása során.
@@ -706,7 +717,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) A nemzetiségi önkormányzati képviselő megbízatása, jogai és kötelezettségei a megválasztásával keletkeznek, jogai és kötelezettségei a megbízatás megszűnésével szűnnek meg.
 
-100. §
+100. § A nemzetiségi önkormányzati képviselő és a nemzetiségi települési önkormányzati képviselő az alakuló ülésen, illetve a megválasztását követő ülésen – választása szerint – anyanyelvén vagy magyarul, vagy mindkét nyelven a 155. § szerinti szöveggel – választása szerint – esküt vagy fogadalmat tesz, és erről okmányt ír alá. A nemzetiségi önkormányzati képviselő az eskü vagy fogadalom letételét megelőzően is gyakorolja képviselői jogait. Amennyiben a települési nemzetiségi önkormányzati képviselő tagja a területi vagy az országos nemzetiségi önkormányzatnak is, a területi vagy az országos testület előtt is esküt vagy fogadalmat tesz.
 
 101. § (1) A nemzetiségi önkormányzati képviselő
 
@@ -714,11 +725,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - b) kérésére írásbeli hozzászólását a jegyzőkönyvhöz kell mellékelni, kérésére véleményét szó szerint rögzíteni kell a jegyzőkönyvben,
 - c) megbízás alapján képviselheti a nemzetiségi önkormányzat testületét,
 - d) köteles részt venni a testület munkájában,
-- e)
+- e) megbízatásának ideje alatt legalább egy alkalommal köteles részt venni a fővárosi és megyei kormányhivatal által szervezett ingyenes képzésen.
 
 (2) A nemzetiségi önkormányzati képviselőt a testületi munkában való részvételhez szükséges időtartamra munkahelyén fel kell menteni a munkavégzés alól. Az emiatt kiesett jövedelmét a nemzetiségi önkormányzati testület téríti meg, aminek alapján a képviselő társadalombiztosítási ellátásra is jogosult. A testület átalányt is megállapíthat.
 
-(3)
+(3) A nemzetiségi önkormányzati képviselő a testületi üléseken jelnyelvet, illetve az általa választott speciális kommunikációs rendszert használhat.
 
 102. § (1) A nemzetiségi önkormányzati képviselő megbízatása megszűnik
 
@@ -751,15 +762,41 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### A vagyonnyilatkozat-tételi kötelezettség
 
-103. §
+103. § (1) A nemzetiségi önkormányzati képviselő a megválasztásától számított harminc napon belül, majd ezt követően minden év január 31-ig a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. A képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házastársának vagy élettársának, valamint gyermekének az e törvény melléklete szerinti vagyonnyilatkozatát.
+
+(2) A vagyonnyilatkozat tételének elmulasztása esetén – annak benyújtásáig – a képviselő nem gyakorolhatja képviselői jogait, és nem részesülhet tiszteletdíjban, természetbeni juttatásban, költségtérítésben.
+
+(3) A vagyonnyilatkozatot a szervezeti és működési szabályzatban erre kijelölt bizottság, vagy legalább két képviselő tartja nyilván és ellenőrzi. A képviselő vagyonnyilatkozata – az ellenőrzéshez szolgáltatott azonosító adatok kivételével – nyilvános. A képviselő hozzátartozójának nyilatkozata nem nyilvános, abba csak az ellenőrző bizottság tagjai tekinthetnek be az ellenőrzés céljából.
+
+(4) A vagyonnyilatkozattal kapcsolatos eljárást a vagyonnyilatkozat ellenőrzésére kijelölt bizottságnál vagy a kijelölt képviselőknél bárki írásban kezdeményezheti. Az eljárás eredményéről a bizottság vagy a kijelölt képviselők a soron következő ülésén tájékoztatják a képviselő-testületet, közgyűlést.
+
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során felhívásra a képviselő köteles a saját, illetve hozzátartozója vagyonnyilatkozatával feltüntetett adatokra vonatkozó azonosító adatokat haladéktalanul írásban bejelenteni. Az azonosító adatokat csak a bizottság tagjai ismerhetik meg, azokat az eljárás lezárását követő nyolc napon belül törölni kell.
+
+(6) A nemzetiségi önkormányzat hatásköréből nem ruházható át a vagyonnyilatkozati eljárással kapcsolatos döntés.
+
+(7) A nemzetiségi önkormányzat a vagyonnyilatkozattal kapcsolatos eljárást zárt ülés keretében tárgyalja meg.
 
 ### A nemzetiségi önkormányzat bizottságai
 
-104. §
+104. § (1) A nemzetiségi önkormányzat képviselő-testülete, közgyűlése bizottságot (bizottságokat) hozhat létre. Az országos nemzetiségi önkormányzat kötelező bizottsága a pénzügyi bizottság.
+
+(2) A háromfős bizottság legalább egy tagja a nemzetiségi önkormányzat tagja, a négy-öt fős bizottság tagjainak legalább fele a nemzetiségi önkormányzat képviselője. A bizottság működésének részletes szabályait a szervezeti és működési szabályzata tartalmazza.
+
+(3) A bizottság a feladatkörében előkészíti a testület döntését. A nemzetiségi önkormányzat testülete által ráruházott hatáskörben döntést hoz, e jogkörében hozott döntéseit a nemzetiségi önkormányzat képviselő-testülete, közgyűlése felülvizsgálhatja.
+
+(4) A bizottságot a nemzetiségi önkormányzat elnökének vagy bármely bizottsági tag indítványára össze kell hívni.
+
+(5) A bizottság működésére, határozatképességére, döntéshozatalára a nemzetiségi önkormányzati testület működésének, döntéshozatalának szabályait kell alkalmazni.
+
+(6) A nemzetiségi önkormányzat elnöke nem lehet a bizottság elnöke és a bizottság tagja sem. A bizottság tagjainak száma három fő, az országos nemzetiségi önkormányzati bizottság tagjainak száma legfeljebb öt fő.
+
+(7) A nemzetiségi önkormányzat elnöke felfüggesztheti a bizottság döntését, ha az ellentétes a nemzetiségi önkormányzat testületének határozatával, vagy sérti a nemzetiségi önkormányzat érdekeit. A felfüggesztett döntésről a nemzetiségi önkormányzat testülete a soron következő ülésén határoz.
+
+(8) A bizottság nem képviselő tagjaira a helyi önkormányzatokról szóló törvény rendelkezéseit kell alkalmazni.
 
 ### A nemzetiségi önkormányzat elnöke, elnökhelyettese és tagja
 
-105. § (1)
+105. § (1) Az alakuló ülésen a helyi nemzetiségi önkormányzat képviselő-testülete, közgyűlése a tagjai közül társadalmi megbízatású elnököt, az elnök helyettesítésére, munkájának segítésére társadalmi megbízatású elnökhelyettest választ. Az országos nemzetiségi önkormányzat főállású elnököt és elnökhelyetteseket is választhat. Az országos nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti az elnöki, elnökhelyettesi tisztség betöltésének módját.
 
 (2) A települési nemzetiségi önkormányzat elnöke a települési önkormányzat képviselő-testületi, közgyűlési és bizottsági ülésén tanácskozási joggal vesz részt. A megyei nemzetiségi önkormányzat elnöke a megyei önkormányzat képviselő-testületi, bizottsági ülésén tanácskozási joggal vesz részt. Az országos nemzetiségi önkormányzat elnöke a helyi nemzetiségi önkormányzat képviselő-testületi, közgyűlési ülésén tanácskozási joggal részt vehet.
 
@@ -855,9 +892,30 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) Az országos önkormányzat közgyűlése, amennyiben nem társadalmi megbízatású elnököt, elnökhelyettest vagy elnökhelyetteseket választ, illetményt állapít meg tisztségviselői részére.
 
-(3)–(9)
+(3) A helyi nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori illetményalap, a természetbeni juttatás pedig az illetményalap ötven százaléka.
 
-110–111. §
+(4) A tiszteletdíj mértéke legfeljebb ötven százalékkal megemelhető, amennyiben a képviselő tanácsnoki, bizottsági elnöki vagy tagsági feladatot is ellát.
+
+(5) A nemzetiségi önkormányzati képviselőnek a képviselő-testület, közgyűlés képviseletében vagy a képviselő-testület, közgyűlés illetve az elnök megbízásából végzett tevékenységével összefüggő, általa előlegezett, számlával igazolt, szükséges költségét meg kell téríteni. A képviselői költségek kifizetését az elnök engedélyezi.
+
+(6) A nemzetiségi önkormányzati tisztségviselő, képviselő tiszteletdíja, illetménye és egyéb juttatása közérdekű adat.
+
+(7) A helyi nemzetiségi önkormányzat elnökhelyettese részére megállapított tiszteletdíj, valamint az országos nemzetiségi önkormányzat elnökhelyettese részére megállapított tiszteletdíj vagy illetmény nem érheti el az elnök részére megállapított összeget.
+
+(8) A helyi nemzetiségi önkormányzati bizottság elnöke, tagja esetében a tiszteletdíj nem lehet magasabb a nemzetiségi önkormányzat elnöke tiszteletdíjának ötven százalékánál.
+
+(9) A helyi nemzetiségi önkormányzati képviselő tiszteletdíja nem lehet magasabb a nemzetiségi önkormányzat elnöke tiszteletdíjának harminc százalékánál.
+
+110. § (1) Az országos önkormányzat által az elnök részére megállapított illetmény összege nem lehet magasabb a köztisztviselői illetményalap tizenkétszeresénél.
+
+(2) Az országos önkormányzat által megállapított tiszteletdíj összege nem lehet magasabb
+
+- a) elnök és elnökhelyettes esetében a köztisztviselői illetményalap kilencszeresénél,
+- b) a bizottság elnöke esetében a köztisztviselői illetményalap ötszörösénél,
+- c) a bizottság tagja esetében a köztisztviselői illetményalap háromszorosánál,
+- d) képviselő esetében a köztisztviselői illetményalap kétszeresénél.
+
+111. § Az elnök és az elnökhelyettes tiszteletdíjat, más járandóságot – a költségtérítés kivételével – nem vehet fel a nemzetiségi önkormányzat által létrehozott (vagy az önkormányzat részvételével működő) bármely szervezetben, valamint olyan szervezetben, amelynek tevékenységében tulajdonosként (résztulajdonosként), fenntartóként (részfenntartóként) közreműködik.
 
 112. § (1) Az e törvény által nem szabályozott kérdésekben az országos nemzetiségi önkormányzat tisztségviselője, bizottsági tagja és képviselője foglalkoztatási jogviszonyára, munkarendjére, díjazására, juttatására, tiszteletdíjára, költségtérítésére a helyi önkormányzat polgármestere és az önkormányzati képviselő foglalkoztatási jogviszonyára, munkarendjére, díjazására, juttatására, tiszteletdíjára, költségtérítésére vonatkozó szabályokat kell alkalmazni.
 
@@ -914,7 +972,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### Az országos nemzetiségi önkormányzat
 
-117. § (1) Az országos nemzetiségi önkormányzat a 113. §-ban foglaltak szerint meghatározza törvényes működése feltételeit, dönt a 114. § szerinti ügyekben azzal, hogy az országos nemzetiségi önkormányzat át nem ruházható hatáskörben, minősített többséggel dönt:
+117. § (1) Az országos nemzetiségi önkormányzat a 113. §-ban foglaltak szerint meghatározza törvényes működése feltételeit, dönt a 114. § szerinti ügyekben azzal, hogy az országos nemzetiségi önkormányzat legfeljebb négy elnökhelyettest választ, továbbá át nem ruházható hatáskörben, minősített többséggel dönt:
 
 - a) székhelyéről,
 - b) az általa képviselt nemzetiség országos ünnepeiről,
@@ -948,7 +1006,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (3) Az országos önkormányzat a szervezeti és működési szabályzatában részletesen szabályozza az országos nemzetiségi önkormányzat hivatala működését.
 
-(4)
+(4) Az országos nemzetiség önkormányzat foglalkoztatottjainak jogviszonyára (ide nem értve a munkavégzésre irányuló egyéb jogviszonyokat) a közszolgálati tisztségviselők jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
 
 120. § A hivatal vezetőjét az elnök javaslatára a közgyűlés határozatlan időre nevezi ki. A hivatal vezetője tekintetében – a felmentés esetét kivéve – az elnök gyakorolja a munkáltatói jogokat. A felmentés jogát a közgyűlés gyakorolja.
 
@@ -968,11 +1026,15 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### Az országos nemzetiségi önkormányzati hivatal vezetője
 
-123. § (1)–(3)
+123. § (1) Az országos nemzetiségi önkormányzat közgyűlése át nem ruházható hatáskörében, pályázat alapján, határozatlan időre, jogszabály által megállapított képesítési feltételeknek megfelelő hivatalvezetőt nevez ki az országos nemzetiségi önkormányzati hivatal élére.
+
+(2) A kinevezés vezetői megbízásnak minősül, alkalmazni kell rá a közszolgálati tisztviselők jogállásáról szóló törvény vezetői megbízásra vonatkozó rendelkezéseit.
+
+(3) A hivatalvezető helyettesítésére hivatalvezető-helyettes nevezhető ki.
 
 (4) A hivatalvezető
 
-- a)
+- a) vezeti az országos nemzetiségi önkormányzati hivatalt, ellátja az ehhez kapcsolódó munkáltatói jogkörbe tartozó feladatokat, e körben kinevezi a hivatal köztisztviselőit, illetve a hivatal nem köztisztviselő munkavállalóival egyéb munkavégzésre irányuló jogviszonyt létesít, szabályozza a hivatal belső működésének rendjét,
 - b) gondoskodik a közgyűlés működésével kapcsolatos feladatok ellátásáról,
 - c) előkészíti a testületi döntéseket, tanácskozási joggal részt vesz az üléseken,
 - d) jelzi, ha a testület döntése vagy döntéshozatali eljárása jogszabálysértő,
@@ -1056,7 +1118,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 138. § (1) A bármely módon megszűnő nemzetiségi önkormányzat jogutóda a soron következő általános választáson újonnan választott, megalakult nemzetiségi önkormányzat.
 
-(2)
+(2) Ha az általános nemzetiségi önkormányzati választás eredményeképpen nem alakul új helyi nemzetiségi önkormányzat, a megszűnt helyi nemzetiségi önkormányzat vagyona az adott nemzetiség országos nemzetiségi önkormányzatának tulajdonába kerül azzal, hogy azt kizárólag nemzetiségi célra lehet felhasználni.
 
 (3) Az időközi választás eredményeképpen felálló új testület megalakulásáig, továbbá a soron következő általános nemzetiségi választás eredményeképpen felálló új testület megalakulásáig a megszűnt nemzetiségi önkormányzat vagyona ideiglenes kezelésbe kerül.
 
@@ -1181,7 +1243,13 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 154. § Az e törvény alapján indított perben, ahol e törvény eltérően nem rendelkezik, a Pp. XX. fejezetében foglaltakat kell alkalmazni.
 
-155. §
+155. § Az e törvény 100. §-ában meghatározottak szerinti eskü (fogadalom) szövege:
+
+„Én ........................... (név) mint a nemzetiségek jogairól szóló törvény szerinti .......................... (nemzetiség megjelölése) nemzetiségi közösség tagja, esküszöm, (fogadom), hogy képviselői tisztségem ellátása során nemzetiségi közösségemhez hű leszek, az Alaptörvényt és a jogszabályokat megtartom, a tudomásomra jutott titkot megőrzöm, munkámat választóim akaratához híven, lelkiismeretesen végzem, minden igyekezetemmel a ............................. nemzetiség (nemzetiség megjelölése) érdekeit képviselem, ennek során anyanyelvünk, hagyományaink, kultúránk megőrzésén és fejlesztésén fogok fáradozni.
+
+(Az esküt tevő meggyőződése szerint)
+
+Isten engem úgy segéljen!”
 
 ### XII. Fejezet — Záró rendelkezések
 
@@ -1267,125 +1335,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 166. § A 106. § (1) és (3) bekezdésében az „és a (10) bekezdésben foglalt kivétellel más nemzetiségi önkormányzat elnöke” szövegrészt és a 106. § (10) bekezdését első alkalommal a hatálybalépését követő általános nemzetiségi önkormányzati választások időpontjától kell alkalmazni.
 
-167. § A megszűnt helyi nemzetiségi önkormányzat vagyona az adott nemzetiség országos nemzetiségi önkormányzatának ideiglenes kezelésébe kerül.
+167. §
 
 168. §
 
-169. § (1) A nemzetiségi önkormányzat testülete bizottságot (bizottságokat) hozhat létre. A bizottság tagjainak legalább fele a nemzetiségi önkormányzat képviselője. A bizottság működésének részletes szabályait a szervezeti és működési szabályzata tartalmazza.
-
-(2) A bizottság a feladatkörében előkészíti a testület döntését. A nemzetiségi önkormányzat testülete által ráruházott hatáskörben döntési joga lehet, e körben hozott döntéseit a települési önkormányzat testülete felülvizsgálhatja.
-
-(3) A bizottságot a nemzetiségi önkormányzat elnökének vagy a bizottsági tagok egyharmadának indítványára össze kell hívni.
-
-(4) A bizottság működésére, határozatképességére, döntéshozatalára a nemzetiségi önkormányzati testület működésének, döntéshozatalának szabályait kell megfelelően alkalmazni.
-
-(5) A bizottság elnökét és tagjai közül 1 főt a nemzetiségi önkormányzati képviselők közül kell választani. A nemzetiségi önkormányzat elnöke és elnökhelyettese nem lehet a bizottság elnöke, a nemzetiségi önkormányzat elnöke nem lehet a bizottság tagja sem. A bizottság tagjainak száma legfeljebb három fő.
-
-(6) A nemzetiségi önkormányzat elnöke felfüggesztheti a bizottság döntését, ha az ellentétes a nemzetiségi önkormányzat testületének határozatával, vagy sérti a nemzetiségi önkormányzat érdekeit. A felfüggesztett döntésről a nemzetiségi önkormányzat testülete a soron következő ülésén határoz.
-
-(7) A bizottsági döntéshozatalból kizárható az, akit vagy akinek a hozzátartozóját személyesen érinti az ügy. A személyes érintettséget az érdekelt köteles bejelenteni. A kizárásról a bizottság dönt. A döntéshozatalnál a határozatképesség szempontjából az érintett jelenlévőnek számít.
-
-170. § (1) E törvény hatálya a Magyarországon lakóhellyel rendelkező, valamely nemzetiséghez tartozó magyar állampolgárságú személyekre és e személyek közösségeire terjed ki.
-
-(2) A nemzetiségi önkormányzati képviselő az alakuló ülésen, illetve a megválasztását követő ülésen anyanyelvén, magyarul, illetőleg mindkét nyelven is leteheti a (3) bekezdés szerinti esküt. Az eskü letételéig a települési kisebbségi önkormányzati képviselő a jogait nem gyakorolhatja.
-
-(3) A (2) bekezdésében meghatározottak szerinti eskü szövege:
-
-„Én ........................ (név) mint a nemzetiségekről szóló törvény szerinti........................ (nemzetiség megjelölése) nemzetiségi közösség tagja, esküszöm, hogy képviselői tisztségem ellátása során nemzetiségi közösségemhez hű leszek, az Alaptörvényt és a jogszabályokat megtartom, a tudomásomra jutott titkot megőrzöm, munkám során választóim akaratához híven, lelkiismeretesen járok el, minden igyekezetemmel a ........................ nemzetiség (nemzetiség megjelölése) anyanyelvének, hagyományainak, kultúrájának a megőrzésén és fejlesztésén fogok fáradozni. (Az esküt tevő meggyőződése szerint:) Isten engem úgy segéljen!”
-
-(4) A nemzetiségi önkormányzatok 2014. évi általános választásának kitűzéséig a mandátumok betöltésére és az időközi választásokra az (5)–(19) bekezdés rendelkezéseit kell alkalmazni.
-
-(5) Ha a települési nemzetiségi önkormányzat képviselőjének megbízatása megszűnik, helyére a szavazatszám szerinti sorrendben következő jelölt lép. Ha nincs ilyen jelölt, a mandátum betöltetlen marad. Ha a betöltetlen mandátumok miatt a képviselők száma három alá csökken, a települési nemzetiségi önkormányzat megszűnik.
-
-(6) Ha a területi vagy az országos nemzetiségi önkormányzat képviselőjének megbízatása megszűnik, helyére – a listán eredetileg is szereplő jelöltek közül – a jelölő szervezet által megnevezett, ennek hiányában a listán soron következő jelölt lép. Ha a listán nincs több jelölt, a mandátum betöltetlen marad.
-
-(7) Ha a területi vagy az országos nemzetiségi önkormányzat közgyűlése tagjainak száma a testület 2010. évi általános nemzetiségi önkormányzati választáson megválasztható tagjai számának fele alá csökken, illetve ha a közgyűlést feloszlatják, vagy az kimondja feloszlását, időközi választást kell tartani.
-
-(8) A területi nemzetiségi önkormányzat időközi választását ki kell tűzni, ha az időközi választás kitűzésekor a megye területén legalább 10 településen, illetve a fővárosban legalább 10 fővárosi kerületben települési nemzetiségi önkormányzat működik.
-
-(9) Az országos nemzetiségi önkormányzat időközi választását ki kell tűzni, ha az időközi választás kitűzésekor országosan legalább 4 települési nemzetiségi önkormányzat működik.
-
-(10) Az időközi területi nemzetiségi önkormányzati választáson választó és választható, aki az adott megyében (fővárosban) lévő települési nemzetiségi önkormányzat tagja (a továbbiakban: elektor). Az időközi országos nemzetiségi önkormányzati választáson elektor, aki települési nemzetiségi önkormányzat tagja.
-
-(11) Az időközi választáson annyi képviselő választható a közgyűlésbe, mint a 2010. évi általános nemzetiségi önkormányzati választásokon.
-
-(12) Az időközi választáson az a jelölő szervezet állíthat listát, amely az elektorok legalább tíz százalékát jelöltként állította a 2010. évi települési nemzetiségi önkormányzati választáson. A jelöltek számába beszámítanak:
-
-- a) az adott jelölő szervezet által önállóan állított jelöltek,
-- b) a közös jelöltek közül az adott jelölő szervezetre eső jelölthányad, amelyet közös jelöltenként, a jelöltet állító jelölő szervezetek arányában kell megállapítani; nem keletkezik jelölthányad a közös lista állítását megalapozó közös jelöltek után.
-
-(13) Azok a jelölő szervezetek, amelyek az elektorok legalább tíz százalékát közösen állították jelöltként a 2010. évi települési nemzetiségi önkormányzati választásokon, közös listát indíthatnak.
-
-(14) A választást akkor lehet megtartani, ha a jelölő szervezetek által állított listákon összesen legalább annyi jelölt van, mint a megválasztható képviselők száma.
-
-(15) Az elektor egy listára szavazhat. A listák a leadott szavazatok arányában, az alábbi számítási módszer alapján szereznek mandátumot:
-
-- a) össze kell állítani egy táblázatot, amelyben minden lista neve alatt képezni kell egy számoszlopot; a számoszlop első száma az adott listára leadott szavazatok száma, a következő a fele, majd a harmada, a negyede stb.,
-- b) minden lista számoszlopában annyi szám szerepelhet, amennyi a listán szereplő jelöltek száma,
-- c) a táblázat segítségével lehet kiosztani a mandátumokat: meg kell keresni a táblázatban előforduló legnagyobb számot, és amelyik lista számoszlopában találjuk meg azt, az a lista kap egy mandátumot; ezt követően meg kell keresni a következő legnagyobb számot: amelyik lista oszlopában találjuk, az a lista kap egy mandátumot; ezt az eljárást kell folytatni mindaddig, míg kiosztásra kerül az összes mandátum; ha a táblázatban előforduló legnagyobb szám keresésekor egyenlő legnagyobb számok vannak, akkor az a lista kap mandátumot, amelyik már szerzett mandátumot, illetőleg amelyik több mandátumot kapott, végezetül, amelyik a listasorsolásnál kisebb sorszámot kapott.
-
-(16) A listán szereplő jelöltek a listán elfoglalt helyük sorrendjében szereznek mandátumot.
-
-(17) Ha a települési nemzetiségi önkormányzat képviselőjének megbízatása 2011. december 31-ét követően, de e törvénynek az a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló törvénnyel (a továbbiakban: Mód. tv.) megállapított rendelkezései hatálybalépését megelőzően megszűnt, helyére a szavazatszám szerinti sorrendben következő jelölt lép. Ha nincs ilyen jelölt, a mandátum betöltetlen marad. Ha a betöltetlen mandátumok miatt a képviselők száma három alá csökken, a települési nemzetiségi önkormányzat megszűnik.
-
-(18) Ha a területi vagy az országos nemzetiségi önkormányzat képviselőjének megbízatása 2011. december 2-át követően megszűnt, és a mandátum 2011. december 31-ig nem került betöltésre, a helyére – a listán eredetileg is szereplő jelöltek közül – a jelölő szervezet által megnevezett, ennek hiányában a listán soron következő jelölt lép. A jelölő szervezet a mandátumot szerző jelöltet e törvénynek a Mód. tv. által megállapított rendelkezései hatálybalépését követő 30 napon belül jelentheti be a területi választási bizottságnál vagy a Nemzeti Választási Bizottságnál. Ha a listán nincs több jelölt, a mandátum betöltetlen marad.
-
-(19) Ha 2011. december 31-ét követően, e törvénynek a Mód. tv. által megállapított rendelkezései hatályba lépéséig a területi vagy az országos nemzetiségi önkormányzat közgyűlése tagjainak száma a testület 2010. évi általános nemzetiségi önkormányzati választáson megválasztható tagjai számának fele alá csökkent, illetve ha a közgyűlést feloszlatták vagy az kimondta feloszlását, időközi választást kell tartani. Az időközi választást e törvénynek a Mód. tv. által megállapított rendelkezései hatályba lépését követő négy hónapon belülre kell kitűzni.
-
-171. § (1) Az országos önkormányzat képviselője a megbízólevelének átvételétől számított 30 napon belül, majd ezt követően minden év január 31-ig a 2. melléklet szerinti vagyonnyilatkozatot tesz. A képviselő saját vagyonnyilatkozatához csatolja a vele közös háztartásban élő házastársának vagy élettársának, valamint gyermekének a 2. melléklet szerinti vagyonnyilatkozatát.
-
-(2) A vagyonnyilatkozat tételének elmulasztása esetén – annak benyújtásáig – az országos önkormányzat képviselője nem gyakorolhatja képviselői jogait, és az e törvény szerinti juttatásokban nem részesülhet.
-
-(3) A vagyonnyilatkozatot a szervezeti és működési szabályzatban erre kijelölt bizottság tartja nyilván és ellenőrzi. A képviselő vagyonnyilatkozata – az ellenőrzéshez szolgáltatott azonosító adatok kivételével – nyilvános. A képviselő hozzátartozójának nyilatkozata nem nyilvános, abba csak az ellenőrző bizottság tagjai tekinthetnek be az ellenőrzés céljából.
-
-(4) A vagyonnyilatkozattal kapcsolatos eljárást a vagyonnyilatkozatot ellenőrző bizottságnál bárki kezdeményezheti. Az eljárás eredményéről az ellenőrző bizottság a soron következő ülésén tájékoztatja az országos önkormányzatot.
-
-(5) A vagyonnyilatkozattal kapcsolatos eljárás során a vagyonnyilatkozatot ellenőrző bizottság felhívására a képviselő köteles a saját, illetve hozzátartozója vagyonnyilatkozatával feltüntetett adatokra vonatkozó azonosító adatokat haladéktalanul írásban bejelenteni. Az azonosító adatokat csak a bizottság tagjai ismerhetik meg, azokat az eljárás lezárását követő 8 napon belül törölni kell.
-
-(6) Az országos önkormányzat hatásköréből nem ruházható át a vagyonnyilatkozati eljárással kapcsolatos döntés.
-
-(7) Az országos önkormányzat a vagyonnyilatkozattal kapcsolatos eljárást zárt ülés keretében tárgyalja meg.
-
-172. § (1) Az elnök megbízatása megszűnik
-
-- a) az elnöki tisztségről történő lemondásával,
-- b) az összeférhetetlenség kimondásával,
-- c) képviselői megbízatása megszűnésével,
-- d) az elnöki tisztségnek a bíróság által történő – (3) bekezdés szerinti – megszüntetésével,
-- e) halálával.
-
-(2) Az elnök megbízatása visszahívással nem szüntethető meg.
-
-(3) Az elnök sorozatos törvénysértő tevékenysége, mulasztása miatt a települési kisebbségi önkormányzat testülete – minősített többséggel hozott határozata alapján – keresetet nyújthat be az elnök ellen a települési kisebbségi önkormányzat székhelye szerint illetékes közigazgatási és munkaügyi bírósághoz az elnök tisztségének megszüntetése érdekében. Egyidejűleg kérheti az elnöknek e tisztségből történő felfüggesztését is.
-
-(4) A közigazgatási és munkaügyi bíróság eljárása során a polgári perrendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
-
-(5) Az elnökhelyettesre az elnökre irányadó szabályokat kell megfelelően alkalmazni.
-
-173. § (1) A települési nemzetiségi önkormányzat testülete az elnökének, elnökhelyettesének, tagjának, valamint az általa létrehozott bizottság elnökének és tagjának – a települési nemzetiségi önkormányzat költségvetése terhére – tiszteletdíjat állapíthat meg, az elnök tiszteletdíja nem lehet magasabb, mint a köztisztviselői illetményalap háromszorosa, elnökhelyettes esetében nem érheti el az elnök részére megállapított összeget.
-
-(2) Bizottság elnöke, tagja esetében a tiszteletdíj nem lehet magasabb a kisebbségi önkormányzat elnöke tiszteletdíjának harminc százalékánál.
-
-(3) A települési nemzetiségi önkormányzati képviselő tiszteletdíja nem lehet magasabb a települési nemzetiségi önkormányzat elnöke tiszteletdíjának huszonöt százalékánál.
-
-(4) Az elnök és az elnökhelyettes tiszteletdíját a települési nemzetiségi önkormányzat képviselő-testülete összegszerűen állapítja meg.
-
-(5) Az elnök tiszteletdíjat, más járandóságot – a költségtérítés kivételével – nem vehet fel a nemzetiségi önkormányzat által létrehozott közalapítványban, közhasznú társaságban végzett tevékenységéért.
-
-(6) A területi nemzetiségi önkormányzat testülete által megállapítható tiszteletdíj összege nem lehet magasabb
-
-- a) elnök esetében a köztisztviselői illetményalap hatszorosánál,
-- b) elnökhelyettes esetében nem lehet magasabb az elnök részére megállapított összegnél,
-- c) bizottság elnöke, tagja esetében a megyei nemzetiségi önkormányzat elnöke tiszteletdíjának harminc százalékánál,
-- d) képviselő esetében a területi nemzetiségi önkormányzat elnöke tiszteletdíjának huszonöt százalékánál.
-
-(7) Az országos önkormányzat közgyűlése által megállapítható illetmény, illetőleg tiszteletdíj összege nem lehet magasabb:
-
-- a) elnök esetében a köztisztviselői illetményalap tízszeresénél,
-- b) elnökhelyettes esetében a köztisztviselői illetményalap nyolcszorosánál,
-- c) a bizottság elnöke esetében a köztisztviselői illetményalap hatszorosánál,
-- d) a bizottság tagja esetében a köztisztviselői illetményalap háromszorosánál,
-- e) képviselő esetében a köztisztviselői illetményalap kétszeresénél.
+169–173. §
 
 ### Módosító rendelkezések
 
