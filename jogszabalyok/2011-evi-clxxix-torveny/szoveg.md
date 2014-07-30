@@ -2,7 +2,29 @@
 
 a nemzetiségek jogairól
 
-A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építve,a magyarsággal e hazában évszázadok óta együtt élő nemzetiségek sajátos kultúrájának megőrzése, anyanyelvük ápolása és fejlesztése, egyéni és közösségi jogainak széleskörű biztosítása érdekében, figyelemmel Magyarország Alaptörvényében a magyarországi nemzetiségek ügye iránt kinyilvánított felelősségvállalásra, továbbátekintettel a nemzetiségek védelme érdekében Magyarország aktív közreműködésével megalkotott nemzetközi dokumentumokban foglaltakra, különösen az Egyesült Nemzetek Szervezetének a Polgári és Politikai Jogokról szóló Nemzetközi Egyezségokmányára, az Európai Biztonsági és Együttműködési Szervezet keretében végzett munkára, a Koppenhágai Dokumentumra, az Európa Tanácsnak az Emberi Jogok és Alapvető Szabadságjogok Védelméről szóló Egyezményére, valamint a Regionális vagy Kisebbségi Nyelvek Európai Kartájában és a Nemzeti Kisebbségek Védelméről szóló Keretegyezményben megfogalmazottak széleskörű érvényesítésére, szem előtt tartva, hogyMagyarország tiszteletben tartja az ország különböző vallási hagyományait, más népek szabadságát és kultúráját, vallja, hogy az egyéni szabadság csak másokkal együttműködve bontakozhat ki,minden, valamely nemzetiséghez tartozó magyar állampolgárnak joga van önazonossága szabad megvallásához és megőrzéséhez,a nemzetiségek a magyar politikai közösség részei, államalkotó tényezők,a kulturális sokszínűség, a nyelvi különbözőség nem a megosztottság, hanem a gazdagodás forrása,a nemzetiségek által létrehozott kulturális értékek Magyarország kulturális örökségének szerves részei,a nemzetiségek sajátos egyéni és közösségi jogai alapvető szabadságjogok,Magyarország védelemben részesíti a nemzetiségeket, biztosítja saját kultúrájuk ápolását, anyanyelvük használatát, az anyanyelvű oktatást, a saját nyelven való névhasználat jogát, kollektív részvételüket a közéletben, elősegíti a kulturális autonómiájuk megvalósulását, garantálja a valós közösségeik önigazgatáshoz, önkormányzatisághoz való jogát,a következő törvényt alkotja:
+A Magyar Országgyűlés
+
+a magyar történelem legnemesebb hagyományaira építve,
+
+a magyarsággal e hazában évszázadok óta együtt élő nemzetiségek sajátos kultúrájának megőrzése, anyanyelvük ápolása és fejlesztése, egyéni és közösségi jogainak széleskörű biztosítása érdekében, figyelemmel Magyarország Alaptörvényében a magyarországi nemzetiségek ügye iránt kinyilvánított felelősségvállalásra, továbbá
+
+tekintettel a nemzetiségek védelme érdekében Magyarország aktív közreműködésével megalkotott nemzetközi dokumentumokban foglaltakra, különösen az Egyesült Nemzetek Szervezetének a Polgári és Politikai Jogokról szóló Nemzetközi Egyezségokmányára, az Európai Biztonsági és Együttműködési Szervezet keretében végzett munkára, a Koppenhágai Dokumentumra, az Európa Tanácsnak az Emberi Jogok és Alapvető Szabadságjogok Védelméről szóló Egyezményére, valamint a Regionális vagy Kisebbségi Nyelvek Európai Kartájában és a Nemzeti Kisebbségek Védelméről szóló Keretegyezményben megfogalmazottak széleskörű érvényesítésére, szem előtt tartva, hogy
+
+Magyarország tiszteletben tartja az ország különböző vallási hagyományait, más népek szabadságát és kultúráját, vallja, hogy az egyéni szabadság csak másokkal együttműködve bontakozhat ki,
+
+minden, valamely nemzetiséghez tartozó magyar állampolgárnak joga van önazonossága szabad megvallásához és megőrzéséhez,
+
+a nemzetiségek a magyar politikai közösség részei, államalkotó tényezők,
+
+a kulturális sokszínűség, a nyelvi különbözőség nem a megosztottság, hanem a gazdagodás forrása,
+
+a nemzetiségek által létrehozott kulturális értékek Magyarország kulturális örökségének szerves részei,
+
+a nemzetiségek sajátos egyéni és közösségi jogai alapvető szabadságjogok,
+
+Magyarország védelemben részesíti a nemzetiségeket, biztosítja saját kultúrájuk ápolását, anyanyelvük használatát, az anyanyelvű oktatást, a saját nyelven való névhasználat jogát, kollektív részvételüket a közéletben, elősegíti a kulturális autonómiájuk megvalósulását, garantálja a valós közösségeik önigazgatáshoz, önkormányzatisághoz való jogát,
+
+a következő törvényt alkotja:
 
 ### I. Fejezet — Általános rendelkezések
 
@@ -387,7 +409,7 @@ szerepelhet a nemzetiségi névjegyzékben.
 
 (3) Az országos nemzetiségi önkormányzati képviselők választását ki kell tűzni.
 
-57. §
+#### 57. §
 
 ### A jelölés
 
@@ -1311,7 +1333,7 @@ Isten engem úgy segéljen!”
 
 (5)
 
-161. §
+#### 161. §
 
 162. § (1)
 
@@ -1319,7 +1341,7 @@ Isten engem úgy segéljen!”
 
 (3)
 
-163. §
+#### 163. §
 
 164. § (1)
 
@@ -1335,23 +1357,111 @@ Isten engem úgy segéljen!”
 
 166. § A 106. § (1) és (3) bekezdésében az „és a (10) bekezdésben foglalt kivétellel más nemzetiségi önkormányzat elnöke” szövegrészt és a 106. § (10) bekezdését első alkalommal a hatálybalépését követő általános nemzetiségi önkormányzati választások időpontjától kell alkalmazni.
 
-167. §
+#### 167. §
 
-168. §
+#### 168. §
 
-169–173. §
+#### 169. §
+
+#### 170. §
+
+#### 171. §
+
+#### 172. §
+
+#### 173. §
 
 ### Módosító rendelkezések
 
-174–181. §
+#### 174. §
 
-182. §
+#### 175. §
 
-183–197. §
+#### 176. §
 
-198. §
+#### 177. §
 
-199–218. §
+#### 178. §
+
+#### 179. §
+
+#### 180. §
+
+#### 181. §
+
+#### 182. §
+
+#### 183. §
+
+#### 184. §
+
+#### 185. §
+
+#### 186. §
+
+#### 187. §
+
+#### 188. §
+
+#### 189. §
+
+#### 190. §
+
+#### 191. §
+
+#### 192. §
+
+#### 193. §
+
+#### 194. §
+
+#### 195. §
+
+#### 196. §
+
+#### 197. §
+
+#### 198. §
+
+#### 199. §
+
+#### 200. §
+
+#### 201. §
+
+#### 202. §
+
+#### 203. §
+
+#### 204. §
+
+#### 205. §
+
+#### 206. §
+
+#### 207. §
+
+#### 208. §
+
+#### 209. §
+
+#### 210. §
+
+#### 211. §
+
+#### 212. §
+
+#### 213. §
+
+#### 214. §
+
+#### 215. §
+
+#### 216. §
+
+#### 217. §
+
+#### 218. §
 
 219. § (1) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény
 
@@ -1361,44 +1471,61 @@ Isten engem úgy segéljen!”
 
 (2)–(3)
 
-220–221. §
+#### 220. §
 
-222. §
+#### 221. §
 
-223–230. §
+#### 222. §
 
-231–232. §
+#### 223. §
 
-233. §
+#### 224. §
 
-234. §
+#### 225. §
 
-235. §
+#### 226. §
+
+#### 227. §
+
+#### 228. §
+
+#### 229. §
+
+#### 230. §
+
+#### 231. §
+
+#### 232. §
+
+#### 233. §
+
+#### 234. §
+
+#### 235. §
 
 ### Hatályon kívül helyező rendelkezések
 
-236–237. §
+#### 236. §
 
-238. § E törvény
+#### 237. §
 
-- a)
-- b)
-- c)
-- d) a 159. § (14) bekezdése, a 167. §-a, a 169–173. §-a a 2014. évi általános nemzetiségi önkormányzati választás kitűzésének napján
+#### 238. §
 
-hatályát veszti.
+#### 239. §
 
-239–240. §
+#### 240. §
 
-241. §
+#### 241. §
 
 242. § (1) Az 50–55. §-t, az 56. § (2)–(3) bekezdését, az 57–72. §-t első alkalommal az e törvény hatálybalépését követő általános nemzetiségi önkormányzati választásokon kell alkalmazni.
 
 (2) A nemzetiségi önkormányzati képviselők 2024. évi általános választását megelőzően a települési nemzetiségi önkormányzati képviselők választását akkor kell kitűzni, ha a településen az adott nemzetiséghez tartozó személyek száma – a legutolsó népszámlálásnak az adott nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a huszonöt főt eléri. Az 56. § (1) bekezdését első alkalommal a nemzetiségi önkormányzati képviselők 2024. évi általános választásán kell alkalmazni.
 
-243–244. §
+#### 243. §
 
-245. §
+#### 244. §
+
+#### 245. §
 
 ### 1. melléklet a 2011. évi CLXXIX. törvényhez
 
