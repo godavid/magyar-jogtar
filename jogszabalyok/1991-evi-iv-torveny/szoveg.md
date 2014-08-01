@@ -28,7 +28,7 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 (2) A munkaerőpiaci szerv a hozzáforduló munkavállalót, valamint munkaadót jogairól és kötelezettségeiről tájékoztatja, igényének érvényesítéséhez segítséget nyújt.
 
-5. § (1) A foglalkoztatási feszültségek megszüntetésére, kezelésére és feloldására, valamint a munkanélküliség megelőzésére, csökkentésére és hátrányos következményeinek enyhítésére a III. fejezetben, valamint más jogszabályokban meghatározott munkaerő-piaci szolgáltatásokat, foglalkoztatást elősegítő támogatásokat, illetőleg egyéb eszközöket kell alkalmazni.
+5. § (1) A foglalkoztatási feszültségek megszüntetésére, kezelésére és feloldására, valamint a munkanélküliség megelőzésére, csökkentésére és hátrányos következményeinek enyhítésére a III. fejezetben, valamint más jogszabályokban meghatározott munkaerő-piaci szolgáltatásokat, foglalkoztatást elősegítő támogatásokat, a közfoglalkoztatás szervezését, illetve egyéb eszközöket kell alkalmazni.
 
 (2) A foglalkoztatási lehetőségek bővítését, a munkanélküliség megelőzését, valamint időtartamának csökkentését a foglalkoztatáspolitika körébe nem tartozó eszközök alkalmazásával (pl. adókedvezmények biztosításával, továbbá területfejlesztési és a munkahelyteremtést támogató, elkülönített pénzalapok felhasználásával, az oktatási rendszer és a foglalkoztatáspolitika összehangolásával) is elő kell segíteni.
 

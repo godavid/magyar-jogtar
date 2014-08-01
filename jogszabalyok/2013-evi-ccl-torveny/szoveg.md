@@ -91,13 +91,15 @@ egyes törvényeknek agrár- és környezetügyi tárgyban történő módosít�
 
 #### 16. A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény módosítása
 
-63. § A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) 2004. május 1-je után engedéllyel végzett ültetvénykivágás alapján újratelepítési jogot szerző és kivágási engedéllyel rendelkező személy újratelepítési jogát a kivágástól számított ötödik borpiaci év (augusztus 1–július 31.) végéig jogosult felhasználni. Az ezen időszak alatt fel nem használt újratelepítési jogok a telepítési jogtartalékba kerülnek. Az újratelepítési jogra, az új telepítési jogra, valamint a telepítési jogtartalékra vonatkozó részletes szabályokat az e törvény felhatalmazása alapján kiadott rendelet határozza meg.”
+63. §
 
 64–65. §
 
-66. §
+66. § A Btv. 32. §-a helyébe a következő rendelkezés lép:
+
+„32. § (1) A Tokaji borvidék területéről kiszállított, forgalomba hozatali engedéllyel nem rendelkező bármely borászati termék esetében a Tokaj eredetmegjelölés csak abban az esetben használható, amennyiben abból pezsgőt készítenek és a hegyközségi tanács megadta rá a Tokaj eredetmegjelölés használatára vonatkozó engedélyt. A hegyközségi tanács határozata ellen fellebbezésnek nincs helye. A határozat rendelkező részében foglaltakat a származási bizonyítványra rá kell jegyezni. A Tokaj eredetmegjelölés használatára vonatkozó rájegyzés hiányában a származási bizonyítvány érvénytelen.
+
+(2) A Tokaj eredetmegjelölés használatáról szóló határozatot a hegyközségi tanács közli a borászati hatósággal is.”
 
 67–70. §
 
