@@ -1914,7 +1914,7 @@ besorolást kap.
 
 123. § A minisztériumok kivételével a központi államigazgatási szervek esetében jogszabály a kormánytisztviselő tevékenységének jellegére utaló – a besorolási fokozatot nem érintő – munkaköri megnevezést állapíthat meg.
 
-124. § (1) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A külön jogszabály meghatározott iskolai végzettségű kormánytisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+124. § (1) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, a kárpótlási hatóságként kijelölt szervnél, valamint a büntetés-végrehajtási szervezetnél működő pártfogó felügyelő, kormánytisztviselő a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. Jogszabály meghatározott iskolai végzettségű kormánytisztviselő részére e vizsga alól részben vagy egészben felmentést adhat.
 
 (2) A munkáltató a munkakörre előírt ügyviteli vizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 
@@ -2659,6 +2659,12 @@ terjed ki.
 183/A. § (1) A Közigazgatási és Igazságügyi Hivatal az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek 6. mellékletben meghatározott adatait a kormánytisztviselők munkavégzésével összefüggésben belépési jogosultságot biztosító igazolványok kibocsátása, nyilvántartása és bevonása céljából kezeli.
 
 (2) A 6. melléklet szerinti adatokat, az abban bekövetkező változásokat, valamint a kormányzati szolgálati jogviszony megszűnésére vagy a kormánytisztviselő tartós távollétére vonatkozó adatokat a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőt alkalmazó államigazgatási szerv hivatali szervezetének vezetője köteles a közszolgálati alapnyilvántartás adatai alapján továbbítani az (1) bekezdésben meghatározott adatkezelő részére.
+
+(3) Az (1) bekezdés szerinti nyilvántartásba – az eljárásban indokolt mértékig – saját adatai tekintetében kizárólag a kormánytisztviselő jogosult betekinteni, illetve abból adatokat átvenni.
+
+183/B. § (1) A büntetés-végrehajtás központi szerve a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselőinek 6. mellékletben meghatározott adatait a kormánytisztviselők munkavégzésével összefüggésben belépési jogosultságot biztosító igazolványok kibocsátása, nyilvántartása és bevonása céljából kezeli.
+
+(2) A 6. melléklet szerinti adatokat, az abban bekövetkező változásokat, valamint a kormányzati szolgálati jogviszony megszűnésére vagy a kormánytisztviselő tartós távollétére vonatkozó adatokat a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatokat ellátó kormánytisztviselőt alkalmazó büntetés-végrehajtási szerv vezetője köteles a közszolgálati alapnyilvántartás adatai alapján továbbítani az (1) bekezdésben meghatározott adatkezelő részére.
 
 (3) Az (1) bekezdés szerinti nyilvántartásba – az eljárásban indokolt mértékig – saját adatai tekintetében kizárólag a kormánytisztviselő jogosult betekinteni, illetve abból adatokat átvenni.
 
@@ -3699,7 +3705,10 @@ vonatkozó részletes szabályokat;
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó szervek foglalkoztatottjainak igazolványára vonatkozó szabályokat,
-- b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait rendeletben állapítsa meg.
+- b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait
+- c) a büntetés-végrehajtási szervezetnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+
+(3a) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványára vonatkozó szabályokat rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
 
@@ -4061,7 +4070,7 @@ vonatkozó adatok.
 
 ### 6. melléklet a 2011. évi CXCIX. törvényhez
 
-Az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek belépési igazolványához szükséges adatok köre
+Az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek, illetve a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselőknek belépési igazolványához szükséges adatok köre
 
 I. A kormánytisztviselő
 
