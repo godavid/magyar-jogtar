@@ -1367,7 +1367,7 @@ nyújtja.
 (2) A szociális szolgáltató, illetve intézmény együttműködik az ellátási területén működő szociális, gyermekjóléti-gyermekvédelmi, egészségügyi, oktatási és munkaügyi szolgáltatókkal, intézményekkel, így különösen
 
 - a) az otthonápolási szolgálattal,
-- b) a pártfogó felügyelői szolgálattal,
+- b) a pártfogó felügyelői szolgálattal, valamint a büntetés-végrehajtási szervezetnél működő pártfogó felügyelőkkel,
 - c) fogyatékos személy ellátása esetén a gyógypedagógiai, nevelési szakszolgálatokkal és a fogyatékos személyek segítő, érdekvédelmi szervezeteivel,
 - d) pszichiátriai beteg és szenvedélybeteg esetén a háziorvossal és a kezelőorvossal.
 
