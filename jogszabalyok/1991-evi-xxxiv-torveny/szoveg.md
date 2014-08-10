@@ -645,7 +645,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (4) A 16. § szerinti sorsolásos játék, valamint a 23. § szerinti ajándéksorsolás, a lóversenyfogadás a játékadó fizetési kötelezettség alól mentes.
 
-(5) A távszerencsejáték kétheti gyakorisággal teljesítendő játékadója a 37. § 2.1. pontja szerint meghatározott tiszta játékbevétel 20%-a.
+(5) A távszerencsejáték havi gyakorisággal teljesítendő játékadója a 37. § 2.1. pontja szerint meghatározott tiszta játékbevétel 15%-a.
 
 ### Játékautomaták játékadója játékadója
 
@@ -710,7 +710,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - e) a játékkaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint,
 - f) kártyaterem üzemeltetése esetén a negyedévi tiszta játékbevétel 5 ezreléke, de legalább 5 ezer forint, legfeljebb 1 millió forint,
 - g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint,
-- h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 50 millió forint
+- h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 10 millió forint
 
 felügyeleti díjat fizet.
 
@@ -802,7 +802,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 37. §
 
 - 1. Tét: a szerencsejátékban részvételre jogosító pénzösszeg, vagy más vagyoni érték.
-- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2.
+- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel és sportfogadás esetén a jogszabályban előírt vagyoni értékű jogra vonatkozó felhasználási szerződés időarányos ellenértékével csökkentett összege, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2.
 - 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 - 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
 - 5. Közérdekű cél: a szerencsejáték szervező tevékenységi körét meghaladó, saját, vagy alkalmazottai érdekein túli, közösségi érdekeket szolgáló cél. A közösségi érdek meghatározásához a közérdekű célként meghatározott tevékenység felügyeletét ellátó szerv egyetértése szükséges. Lóversenyfogadás esetében közérdekű célnak minősül a versenyló tenyésztés is.
