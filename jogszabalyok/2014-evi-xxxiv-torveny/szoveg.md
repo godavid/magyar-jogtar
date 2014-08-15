@@ -102,7 +102,15 @@ e) az interneten közzétett reklám esetén a reklám közzétevője.
 
 #### 2. A reklámadóról szóló 2014. évi XXII. törvény eltérő szöveggel való hatálybalépésével összefüggő egyes adótörvények módosítása
 
-10–12. §
+10. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 49/B. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) A reklámadóról szóló törvény alapján a 2014. adóév adóalapjának megállapítása során a reklámadó-alap csökkentő tételként figyelembe vett összeg a személyi jövedelemadó-kötelezettség megállapítása során elszámolt elhatárolt veszteségnek minősül.”
+
+11. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) VII. Fejezete a következő 29/Z. §-sal egészül ki:
+
+„29/Z. § A reklámadóról szóló törvény alapján a 2014. évben kezdődő adóév adóalapjának megállapítása során a reklámadó-alap csökkentő tételként figyelembe vett összeg a társasági adókötelezettség megállapítása során elszámolt elhatárolt veszteségnek minősül.”
+
+12. § A Tao tv. 3. számú melléklete e törvény 1. melléklete szerint módosul.
 
 #### 3. Hatályba léptető rendelkezés
 
@@ -111,3 +119,9 @@ e) az interneten közzétett reklám esetén a reklám közzétevője.
 (2) A 10–12. § és az 1. melléklet az e törvény kihirdetését követő 31. napon lép hatályba.
 
 ### 1. melléklet a 2014. évi XXXIV. törvényhez
+
+A Tao tv. 3. számú melléklet A) része a következő 16. ponttal egészül ki:
+
+[A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:]
+
+„16. a reklámadóról szóló törvény szerinti reklám közzétételével összefüggésben elszámolt költség (így különösen a reklám közzétevőjének vagy a reklám közzétételében közreműködőnek járó ellenérték), de legalább a reklám közzétételének szokásos piaci értéke, ha az adóalany nem rendelkezik a reklámadó alanyának olyan nyilatkozatával, miszerint a reklám közzétételével összefüggésben felmerült reklámadó kötelezettségét teljesíti vagy reklámadó-kötelezettség teljesítésre nem kötelezett.”
