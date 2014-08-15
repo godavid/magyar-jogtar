@@ -1291,6 +1291,8 @@ minősül;
 - h) A 2003. december 31-éig keletkezett, a vállalkozói jövedelemmel szemben még nem érvényesített elhatárolt veszteség a keletkezése időpontjában érvényes feltételek szerint számolható el.
 - i) Az e)–h) pont rendelkezéseit az egyéni vállalkozó döntése szerint az adóellenőrzés során is figyelembe kell venni.
 
+(7a) A reklámadóról szóló törvény alapján a 2014. adóév adóalapjának megállapítása során a reklámadó-alap csökkentő tételként figyelembe vett összeg a személyi jövedelemadó-kötelezettség megállapítása során elszámolt elhatárolt veszteségnek minősül.
+
 (8) A vállalkozói adóalap
 
 - a) az (1)–(7) bekezdés szerint megállapított jövedelem, azzal, hogy

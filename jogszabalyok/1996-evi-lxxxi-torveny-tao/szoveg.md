@@ -1376,6 +1376,8 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (2) E törvénynek az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvénnyel megállapított 18. § (3) bekezdését az adózó a 2013. évi adókötelezettségének megállapítása során is alkalmazhatja.
 
+29/Z. § A reklámadóról szóló törvény alapján a 2014. évben kezdődő adóév adóalapjának megállapítása során a reklámadó-alap csökkentő tételként figyelembe vett összeg a társasági adókötelezettség megállapítása során elszámolt elhatárolt veszteségnek minősül.
+
 ### ZÁRÓ RENDELKEZÉSEK
 
 ### VIII. Fejezet
@@ -1632,6 +1634,8 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 14. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére az adózó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
 
 15. a kutatás-fejlesztési tevékenység közvetlen költsége, ha az adózó vállalkozási, bevételszerző tevékenységéhez nem kapcsolódik.
+
+16. a reklámadóról szóló törvény szerinti reklám közzétételével összefüggésben elszámolt költség (így különösen a reklám közzétevőjének vagy a reklám közzétételében közreműködőnek járó ellenérték), de legalább a reklám közzétételének szokásos piaci értéke, ha az adóalany nem rendelkezik a reklámadó alanyának olyan nyilatkozatával, miszerint a reklám közzétételével összefüggésben felmerült reklámadó kötelezettségét teljesíti vagy reklámadó-kötelezettség teljesítésre nem kötelezett.
 
 B)
 
