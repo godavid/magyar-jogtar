@@ -22,7 +22,9 @@ egyes törvényeknek a gyermekek védelme érdekében történő módosításár
 
 #### 5. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló1997. évi CXL. törvény módosítása
 
-20. §
+20. § A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 55. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A nyilvános könyvtár az általa üzemeltetett, kiskorúak által is használható, internet-hozzáféréssel rendelkező számítógépek használatát a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátva biztosítja a kiskorúak lelki, testi és értelmi fejlődésének védelme érdekében.”
 
 #### 6. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
@@ -62,11 +64,17 @@ egyes törvényeknek a gyermekek védelme érdekében történő módosításár
 
 #### 11. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-40. §
+40. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 9. §-a a következő (11) bekezdéssel egészül ki:
+
+„(11) A köznevelési intézmény – ideértve a 7. § (4) bekezdése szerint alapított intézményt is – köteles a gyermekek, tanulók számára hozzáférhető, internet-hozzáféréssel rendelkező számítógépeket a gyermekek, tanulók védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátni a gyermekek és tanulók harmonikus lelki, testi és értelmi fejlődése védelmének érdekében.”
 
 41–43. §
 
-44. §
+44. § Az Nkt. 46. § (6) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A tanuló joga különösen, hogy)
+
+„c) igénybe vegye az iskolában és kollégiumban rendelkezésre álló eszközöket, az iskola és kollégium létesítményeit és az iskolai, kollégiumi könyvtári szolgáltatást, lelki, testi és értelmi fejlődését elősegítő védelemben részesüljön a köznevelési intézmény által biztosított számítógépeken való internet-hozzáférés során,”
 
 45–58. §
 

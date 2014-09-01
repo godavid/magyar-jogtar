@@ -32,7 +32,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 - b) útlevél: Magyarország tulajdonát képező hatósági igazolvány, amely birtokosának személyazonosságát és állampolgárságát, valamint a világ összes országába utazásra, illetve hazatérésre való jogosultságát hitelesen igazolja;
 - c) útlevélhatóság: az úti okmány kiadására, visszavonására, az utazás e törvény szerint történő engedélyezésére, illetőleg korlátozására feljogosított közigazgatási szerv;
 - d) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
-- e) gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
+- e) gazdálkodó szervezet: gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
 
 ### II. Fejezet — Az úti okmányra vonatkozó általános szabályok
 
@@ -113,12 +113,12 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) Hivatalos útlevél – a diplomata-útlevél és a hajós szolgálati útlevél kivételével – kizárólag hivatalos utazás céljára használható fel.
 
-(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, a nemzetiségi szószóló, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
+(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
 
 12. § (1) Diplomata-útlevélre jogosult
 
 - a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Kúria elnöke;
-- b) az országgyűlési képviselő, a nemzetiségi szószóló és az Európai Parlament magyarországi képviselője;
+- b) az országgyűlési képviselő és az Európai Parlament magyarországi képviselője;
 - c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei;
 - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
 - e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, Magyarország diplomáciai képviselete diplomáciai személyzetének tagja, Magyarország konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
@@ -374,7 +374,7 @@ hajtja végre.
 
 32. § A hivatalos útlevéllel rendelkező állampolgár személyi adatait és a kiadott útlevél adatait
 
-- a) az Európai Parlament magyarországi képviselője és az országgyűlési képviselő, a nemzetiségi szószóló, továbbá a vele hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke [12. § (1) bekezdés g) pontja] diplomata útlevele tekintetében az Országgyűlés Hivatala,
+- a) az Európai Parlament magyarországi képviselője és az országgyűlési képviselő, továbbá a vele hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke [12. § (1) bekezdés g) pontja] diplomata útlevele tekintetében az Országgyűlés Hivatala,
 - b) egyéb diplomata útlevél, valamint a külügyi szolgálati útlevél esetén a külpolitikáért felelős miniszter,
 - c) szolgálati útlevél esetében az útlevél kiadására javaslatot tevő szerv, valamint
 - d) hajós szolgálati útlevél esetén a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet

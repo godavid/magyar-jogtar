@@ -42,7 +42,9 @@ a rezsicsökkentéssel és a fogyasztóvédelemmel kapcsolatos egyes törvények
 
 20. §
 
-21. §
+21. § A Rezsitörvény 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 3. § 7. pontjában meghatározott egyetemes szolgáltatás keretében vételező, a Vet. 3. § 42. pontjában meghatározott lakossági fogyasztó részére, az egyetemes szolgáltató által kibocsátott számlában a 2014. augusztus 31-ét követő időszakban igénybe vett villamos energiáért fizetendő összeg nem haladhatja meg a 2013. november 1-jén alkalmazott díjak alapján azonos energia mennyiségre, azonos számú hónapra, azonos körülmények között (azonos árszabás mellett) számított összeg 94,3%-át.”
 
 22. §
 

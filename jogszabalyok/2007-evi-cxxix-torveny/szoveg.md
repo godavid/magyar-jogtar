@@ -819,6 +819,8 @@ kell gondoskodnia a talaj szervesanyag-tartalmának megőrzéséről.
 
 (3) A termőföld minőségét veszélyeztető tevékenységet és eseményt a talajvédelmi hatóság részére haladéktalanul be kell jelenteni.
 
+48/A. § A nitrátérzékeny területen mezőgazdasági tevékenységet folytató mezőgazdasági termelők a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges adatszolgáltatási kötelezettségüket a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény végrehajtására kiadott jogszabályban foglaltak szerint, elektronikus úton kötelesek teljesíteni.
+
 ### Talajvédelmi hatósági eljáráshoz kötött tevékenységek
 
 49. § (1) A talajvédelmi hatóság engedélye szükséges:
