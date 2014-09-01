@@ -204,6 +204,8 @@ tagozat,
 
 (4) A kötelező óvodai nevelés fejlesztő nevelésben is teljesíthető.
 
+(5) A gyermek hároméves korától annak az évnek az augusztus 31. napjáig, amikor az ötödik életévét betölti, az óvodába járási kötelezettségét családi napköziben is teljesítheti abban az esetben, ha a családi napköziben a szolgáltatást nyújtó személy rendelkezik a 3. mellékletben az óvodapedagógus munkakör betöltéséhez előírt szakképzettséggel, és munkája során figyelembe veszi az óvodai nevelés országos alapprogramjában foglalt követelményeket.
+
 #### 7. Az iskolai nevelés és oktatás közös szabályai
 
 9. § (1) A tanulók rendszeres nevelés-oktatása, az érettségi vizsgára, a szakképzésről szóló törvényben meghatározott kivétellel a szakmai vizsgára (a továbbiakban együtt: vizsga), valamint a művészeti alapvizsgára történő felkészítése az iskola feladata.
@@ -234,6 +236,8 @@ tagozat,
 (9) Az óvodapedagógiai program, kerettanterv a (8) bekezdésben meghatározott körben eltérhet az e törvényben meghatározottaktól, valamint az e törvény végrehajtására kiadott jogszabályoktól azzal a megkötéssel, hogy az alternatív intézmények költségvetési támogatásának alapja óvodapedagógiai programjukban, kerettantervükben foglalt kötelező feladatellátás, ezen felül a működésükkel járó többletköltségekhez központi költségvetési többlettámogatás nem igényelhető.
 
 (10) A (8) bekezdés alkalmazásában alternatív óvoda, alternatív iskola az az óvoda, iskola, amely nem hagyományos pedagógiai módszerekkel végzi nevelő és oktató munkáját. Az engedély iránti kérelmet, ha van olyan hálózat, szervezet, amelyik az alternatív óvodát, iskolát képviseli, a hálózat, szervezet, ha nincs ilyen hálózat, szervezet, az intézmény fenntartója jogosult benyújtani.
+
+(11) A köznevelési intézmény – ideértve a 7. § (4) bekezdése szerint alapított intézményt is – köteles a gyermekek, tanulók számára hozzáférhető, internet-hozzáféréssel rendelkező számítógépeket a gyermekek, tanulók védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátni a gyermekek és tanulók harmonikus lelki, testi és értelmi fejlődése védelmének érdekében.
 
 #### 8. Az általános iskola
 
@@ -1084,7 +1088,7 @@ dönt.
 
 - a) kollégiumi ellátásban részesüljön,
 - b) válasszon a pedagógiai program keretei között a választható tantárgyak, foglalkozások, továbbá pedagógusok közül,
-- c) igénybe vegye az iskolában és kollégiumban rendelkezésre álló eszközöket, az iskola és kollégium létesítményeit és az iskolai, kollégiumi könyvtári szolgáltatást,
+- c) igénybe vegye az iskolában és kollégiumban rendelkezésre álló eszközöket, az iskola és kollégium létesítményeit és az iskolai, kollégiumi könyvtári szolgáltatást, lelki, testi és értelmi fejlődését elősegítő védelemben részesüljön a köznevelési intézmény által biztosított számítógépeken való internet-hozzáférés során,
 - d) rendszeres egészségügyi felügyeletben és ellátásban részesüljön,
 - e) hozzájusson a jogai gyakorlásához szükséges információkhoz, tájékoztassák a jogai gyakorlásához szükséges eljárásokról,
 - f) részt vegyen a diákkörök munkájában, és kezdeményezze azok létrehozását, tagja legyen iskolai, művelődési, művészeti, ismeretterjesztő, sport- és más köröknek,
@@ -1227,7 +1231,11 @@ dönt.
 
 (4) A kollégiumi felvétel, externátusi elhelyezés a (3) bekezdésben meghatározott esetben a tanulói jogviszony fennállásáig, egyébként egy tanévre szól.
 
-53. § (1)
+53. § (1) Megszűnik az óvodai elhelyezés, ha
+
+- a) a gyermeket másik óvoda átvette, az átvétel napján,
+- b) a jegyző a szülő kérelmére engedélyt adott a gyermek óvodából történő kimaradására,
+- c) a gyermeket felvették az iskolába, a nevelési év utolsó napján.
 
 (2) Megszűnik a tanulói jogviszony
 
