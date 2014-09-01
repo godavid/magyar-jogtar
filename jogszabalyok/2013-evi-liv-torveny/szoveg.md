@@ -18,7 +18,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 (4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített földgáz egyetemes szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásában terhelte.
 
-2. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 3. § 7. pontjában meghatározott egyetemes szolgáltatás keretében vételező, a Vet. 3. § 42. pontjában meghatározott lakossági fogyasztó részére, az egyetemes szolgáltató által kibocsátott számlában a 2013. október 31-ét követő időszakban igénybe vett villamos energiáért fizetendő összeg nem haladhatja meg a 2013. október 31-én alkalmazott díjak alapján azonos energia mennyiségre, azonos számú hónapra, azonos körülmények között (azonos árszabás mellett) számított összeg 88,9%-át.
+2. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 3. § 7. pontjában meghatározott egyetemes szolgáltatás keretében vételező, a Vet. 3. § 42. pontjában meghatározott lakossági fogyasztó részére, az egyetemes szolgáltató által kibocsátott számlában a 2014. augusztus 31-ét követő időszakban igénybe vett villamos energiáért fizetendő összeg nem haladhatja meg a 2013. november 1-jén alkalmazott díjak alapján azonos energia mennyiségre, azonos számú hónapra, azonos körülmények között (azonos árszabás mellett) számított összeg 94,3%-át.
 
 (2)
 

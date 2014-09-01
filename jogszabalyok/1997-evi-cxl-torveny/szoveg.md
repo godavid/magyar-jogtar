@@ -476,6 +476,8 @@ közigazgatási területére terjed ki.
 - j) tudás-, információ- és kultúraközvetítő tevékenységével hozzájárul az életminőség javításához, az ország versenyképességének növeléséhez,
 - k) a szolgáltatásait a könyvtári minőségirányítás szempontjait figyelembe véve szervezi.
 
+(1a) A nyilvános könyvtár az általa üzemeltetett, kiskorúak által is használható, internet-hozzáféréssel rendelkező számítógépek használatát a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátva biztosítja a kiskorúak lelki, testi és értelmi fejlődésének védelme érdekében.
+
 (2) A fenntartó kiegészítő feladatokat is meghatározhat.
 
 ### II. Fejezet — A könyvtárhasználók jogaiés a könyvtárhasználat feltételei
