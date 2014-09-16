@@ -677,17 +677,19 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 45. § Az MNB hatóságként jár el
 
-- a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. §-ban meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti felügyelet gyakorlása,
-- b) a 4. § (5) bekezdésében meghatározott feladatkörében a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti kijelölés, valamint annak visszavonása,
-- c) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezése és ellenőrzése, továbbá
-- d) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése
+- a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti felügyelet gyakorlása,
+- b) a 4. § (8) bekezdésében meghatározott feladatkörében a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti jogosultság gyakorlása során,
+- c) a 4. § (5) bekezdésében meghatározott feladatkörében a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti kijelölés, valamint annak visszavonása,
+- d) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezése és ellenőrzése, továbbá
+- e) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése
 
 során.
 
-46. § Az MNB hatósági eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben és
+46. § Az MNB hatósági eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben és
 
-- a) a fogyasztóvédelmi eljárásban a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben, továbbá az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben, valamint
-- b) az a) pontban nem említett eljárásokban a 39. §-ban meghatározott törvények szerinti ügyfajtára irányadó különös eljárási szabályokban
+- a) a fogyasztóvédelmi eljárásban a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben, továbbá az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben,
+- b) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben, valamint
+- c) az a és b) pontban nem említett eljárásokban a 39. § (1) bekezdésében meghatározott törvények szerinti ügyfajtára irányadó különös eljárási szabályokban
 
 meghatározott eltérésekkel kell alkalmazni.
 
@@ -709,11 +711,11 @@ meghatározott eltérésekkel kell alkalmazni.
 
 folytat le.
 
-(2) Az MNB a 39. §-ban meghatározott felügyeleti tevékenységét helyszíni ellenőrzéssel, a rendszeres és rendkívüli adatszolgáltatásból származó adatok, az MNB részére megküldött dokumentumok, valamint a hivatalosan ismert tények ellenőrzésével és elemzésével végzi.
+(2) Az MNB a 39. §-ban meghatározott felügyeleti tevékenységét és a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben meghatározott szanálási jogosultságát helyszíni ellenőrzéssel, a rendszeres és rendkívüli adatszolgáltatásból származó adatok, az MNB részére megküldött dokumentumok, valamint a hivatalosan ismert tények ellenőrzésével és elemzésével végzi.
 
-(3) Az MNB a felügyelethez szükséges információk beszerzése érdekében a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek vagy személyek számára rendszeres vagy rendkívüli adatszolgáltatási kötelezettséget írhat elő.
+(3) Az MNB a felügyelethez szükséges információk beszerzése érdekében a 39. § (1) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó szervezetek vagy személyek számára rendszeres vagy rendkívüli adatszolgáltatási kötelezettséget írhat elő.
 
-(4) Az MNB felhívására a 39. §-ban meghatározott törvények hatálya alá tartozó személy és szervezet köteles az MNB feladatellátásához kért, a tevékenységére vonatkozó tájékoztatást megadni, a hatósági eljárás tárgyával összefüggő adatot, beszámolót, bizonylatot, vizsgálati anyagot, a számviteli nyilvántartásait, szabályzatait, az egyes ügyletekhez kapcsolódó dokumentációit, a legfőbb szerve, az ügyvezető és ellenőrző szerve előterjesztéseit, e szervek ülésének jegyzőkönyveit, a könyvvizsgáló írásos észrevételeit, a könyvvizsgálati jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit, továbbá meghatározott formájú és tagolású kimutatást az MNB által meghatározott formában elkészíteni és az MNB rendelkezésére bocsátani.
+(4) Az MNB felhívására a 39. § (1) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó személy és szervezet köteles az MNB feladatellátásához kért, a tevékenységére vonatkozó tájékoztatást megadni, a hatósági eljárás tárgyával összefüggő adatot, beszámolót, bizonylatot, vizsgálati anyagot, a számviteli nyilvántartásait, szabályzatait, az egyes ügyletekhez kapcsolódó dokumentációit, a legfőbb szerve, az ügyvezető és ellenőrző szerve előterjesztéseit, e szervek ülésének jegyzőkönyveit, a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit, továbbá az előbbiekben fel nem sorolt egyéb kimutatást az MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani.
 
 (5) Az MNB az általa hivatalosan ismert tények alapján a 75. § (1) bekezdésében meghatározott intézkedést közvetlenül is alkalmazhatja.
 
@@ -786,10 +788,10 @@ folytat le.
 
 56. § Az MNB-vel szemben – hatósági jogkörben hozott döntése miatt – kártérítési igény akkor érvényesíthető, ha az MNB határozata vagy mulasztása jogszabálysértő és a bekövetkezett kárt közvetlenül ez idézte elő, és a sérelmet okozó MNB döntés kapcsán megindított közigazgatási perben hozott – az MNB-t marasztaló – ítélet jogerőre emelkedett.
 
-57. § (1) Az MNB a 4. § (9) bekezdésben meghatározott feladatkörében, nemzetközi együttműködés során külföldi pénzügyi felügyeleti hatóságtól kapott egyedi adatokat kizárólag az alábbi célokra használhatja fel, valamint külföldi pénzügyi felügyeleti hatóságnak az alábbi célokra adhat ki adatokat:
+57. § (1) Az MNB a 4. § (9) bekezdésben meghatározott feladatkörében, nemzetközi együttműködés során külföldi pénzügyi felügyeleti hatóságtól kapott egyedi adatokat kizárólag az alábbi célokra használhatja fel, valamint külföldi pénzügyi felügyeleti és szanálási hatóságnak az alábbi célokra adhat ki adatokat:
 
-- a) az alapítás és a tevékenység engedélyezésére vonatkozó kérelmek elbírálásához az engedélyben foglaltak ellenőrzéséhez, a szervezetek prudens működésének megítéléséhez, valamint az MNB határozatával kapcsolatos bírósági eljáráshoz,
-- b) a pénzügyi felügyeleti hatóság döntésének, így különösen az alkalmazott intézkedések és kiszabott szankciók megalapozásához.
+- a) az alapítás és a tevékenység engedélyezésére vonatkozó kérelmek elbírálásához az engedélyben foglaltak ellenőrzéséhez, a szervezetek prudens működésének megítéléséhez, valamint az MNB határozatával kapcsolatos bírósági eljáráshoz, valamint
+- b) a pénzügyi felügyeleti és szanálási hatóság döntésének, így különösen az alkalmazott intézkedések és kiszabott szankciók megalapozásához.
 
 (2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak.
 
@@ -946,7 +948,7 @@ végez.
 
 72. § Ha olyan helyzet áll elő, amely veszélyeztetheti a pénzügyi közvetítőrendszer stabilitását, vagy valamely, a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet prudens működését, az MNB ellenőrzési eljárása során az adott ágazatnak megfelelő minősítéssel rendelkező független könyvvizsgálót vagy egyéb szakértőt rendelhet ki.
 
-73. § A 39. §-ban meghatározott törvények alapján az MNB ellenőrzési eljárást külföldi pénzügyi hatóság kérésére is lefolytathat.
+73. § A 39. §-ban meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szantv.) alapján az MNB ellenőrzési eljárást külföldi pénzügyi vagy szanálási hatóság kérésére is lefolytathat.
 
 74. § (1) Az MNB eljárásában a döntés meghozataláig terjedő időtartamra a végrehajtás felfüggesztésére irányuló kérelemre tekintet nélkül végrehajtható végzésben
 
@@ -1631,7 +1633,8 @@ terjedhet.
   - ac) az Európai Rendszerkockázati Testülettel,
   - ad) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valamint
   - ae) az Európai Bankbizottsággal,
-- b) a 4. § (7) bekezdésében meghatározott feladataira tekintettel az Európai Rendszerkockázati Testülettel.
+- b) a 4. § (7) bekezdésében meghatározott feladataira tekintettel az Európai Rendszerkockázati Testülettel,
+- c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai Bankhatósággal.
 
 (2) Az MNB teljesíti az (1) bekezdésben meghatározott hatóságok irányában fennálló bejelentési kötelezettségeket.
 
@@ -1668,7 +1671,8 @@ terjedhet.
   - ad) a Magyarországon székhellyel rendelkező szabályozott piacokról, amelynek jegyzékét megküldi, illetve a jegyzék változásáról,
   - ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek rendelkezésére állnak,
   - af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
-  - ag) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
+  - ag) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+  - ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
 - b) az Európai Bankhatóságot
   - ba) a hitelintézet számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
   - bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
@@ -1694,7 +1698,8 @@ terjedhet.
   - bv) a 35/A. §-ban, a Hpt. 92. §-ában, és a Bszt. 110/G. §-ában meghatározott felülvizsgálatok eredményéről,
   - bw) ha a Pkt. 9. §-a (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
   - bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
-  - by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről.
+  - by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
+  - bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról.
 - c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
   - ca) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
   - cb) a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
