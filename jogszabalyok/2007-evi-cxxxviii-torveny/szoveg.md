@@ -175,9 +175,9 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 - 91. egyéb rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amelynek felszámolása vagy nem prudens működése EGT-szinten vagy tagállami szinten rendszerkockázathoz vezethet,
 - 92. egyéb rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a Magyarországon vagy az Európai Unióban jelentős kockázatokat hordozó befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
 - 93. rendszerkockázati tőkepuffer: a rendszerszintű kockázatok megelőzésére és mérséklésére irányuló szavatolótőke-követelmény,
-- 94. helyreállítási terv: olyan terv, amelyben foglalt intézkedési lehetőségek a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás vagy a jegybanki feladatkörében eljáró MNB rendkívüli likviditási hitelének igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
+- 94. helyreállítási terv: olyan terv, amelyben foglalt a befektetési vállalkozás által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
 - 95. alapjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározottaknak megfelelően a befektetési vállalkozás a vezető állású személynek vagy munkavállalónak rendszeresen munkabérként kifizet, és amely megfelelően tükrözi a tisztség betöltéséhez szükséges szakmai tapasztalatokat és felelősséget, ideértve minden olyan juttatást, amelyet más munkavállaló is megkap,
-- 96. kritikus funkciók: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését,
+- 96.
 - 97. irányítási jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely a döntéshozatalra jogosult,
 - 98. felügyeleti jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely az irányítási jogkörrel rendelkező vezető testület döntéshozatalát ellenőrzi,
 - 99. vezető testület: a befektetési vállalkozás igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás vezető állású személyeit is,
@@ -715,7 +715,8 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy al
 - t) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a befektetési vállalkozással szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a befektetési vállalkozás összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt átadják,
 - u) a befektetési vállalkozással szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a befektetési vállalkozás részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez, valamint továbbításához,
 - v) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás anyavállalatával szoros kapcsolatban álló személy vagy szervezet azonosító adatait,
-- w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről, ha a biztosított tevékenység végzésére kér engedélyt és jogszabály előírja az Alaphoz történő csatlakozást.
+- w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről, ha a biztosított tevékenység végzésére kér engedélyt és jogszabály előírja az Alaphoz történő csatlakozást,
+- x) a befektetési vállalkozás likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 102. §-ban meghatározott egyedi helyreállítási tervét.
 
 (2) A kérelmező a letétkezelési tevékenység végzésére jogosító engedély iránti kérelméhez az (1) bekezdésben foglaltakon túl mellékeli a biztonsági, a letétkezelési és az értéktári szabályzat tervezetét.
 
@@ -771,6 +772,8 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy al
 (3) Ha a Felügyelet olyan hitelintézet tevékenység végzésére jogosító engedélyét vonja vissza, amely befektetési szolgáltatási tevékenység végzésére jogosító engedéllyel is rendelkezik, és az engedély visszavonásakor megfelel a befektetési vállalkozásra vonatkozó szabályoknak, a Hpt. szabályai szerint befektetési vállalkozássá alakulhat át.
 
 (4) A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt határozott időre felfüggeszti, ha a tevékenység végzésnek az engedélyezéshez előírt feltételei már nem állnak fenn, de azok legfeljebb hat hónapon belül pótolhatók.
+
+(5) A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben (a továbbiakban: Szantv.) meghatározott szanálás alatt álló befektetési vállalkozás tevékenységi engedélye a szanálási eljárás megszüntetéséig nem vonható vissza.
 
 ### VIII. Fejezet — AZ ÁRUTŐZSDEI SZOLGÁLTATÁS ENGEDÉLYEZÉSE
 
@@ -2134,28 +2137,56 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 - a) a kereskedési könyvbe bevezetett, hitelviszonyt megtestesítő értékpapírok egyedi kockázata, és
 - b) a nemteljesítési és átminősítési kockázata tekintetében, ha a befektetési vállalkozás kitettségeinek speciális kockázata abszolút értelemben jelentős és különböző kibocsátók hitelviszonyt megtestesítő értékpapírjaiból nagyszámú jelentős pozícióval rendelkezik.
 
-102. § (1) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos helyreállítási tervvel rendelkezik.
+102. § (1) Minden olyan befektetési vállalkozás,
 
-(2) A helyreállítási terv a befektetési vállalkozás esetleges fizetésképtelenné válásának – a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában legalább a következőket tartalmazza:
+- a) amelyre az összevont alapú felügyelet nem terjed ki, vagy
+- b) amely a csoportszintű helyreállítási terv felülvizsgálata alapján erre külön kötelezett
 
-- a) a terv kulcsfontosságú elemeinek, valamint az előző tervhez képest bekövetkezett lényeges változásainak összefoglalása,
+az általa végzett befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos helyreállítási tervvel rendelkezik.
+
+(2) A helyreállítási tervet a befektetési vállalkozás irányítási jogkörrel rendelkező vezető testülete által történő jóváhagyást követően benyújtja a Felügyeletnek.
+
+(3) A helyreállítási terv a befektetési vállalkozás esetleges fizetésképtelenné válásának – a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában legalább a következőket tartalmazza:
+
+- a) a terv kulcsfontosságú elemeinek, az előző tervhez képest bekövetkezett lényeges változásainak, valamint a befektetési vállalkozás általános helyreállítási képességének összefoglalása,
 - b) az esetleges negatív piaci reakciók kezelését célzó kommunikációs és tájékoztatási terv,
 - c) a befektetési vállalkozás kritikus funkcióinak meghatározása,
 - d) a befektetési vállalkozás kritikus funkciói működésének fenntartásához szükséges, a likviditással és a fizetőképességgel (szolvenciával) kapcsolatban tervezett lépések,
 - e) a terv minden egyes lényeges lépéséhez szükséges becsült időkeret,
 - f) a terv esetleges végrehajtását gátló tényezők leírása, ideértve az ügyfelekre, a szerződéses partnerekre, valamint – összevont alapú felügyelet alá tartozó befektetési vállalkozás esetén – a csoport többi tagjára gyakorolt hatásokat is,
-- g) a befektetési vállalkozás fő üzletágai, működési folyamatai és eszközei értékének, valamint értékesíthetőségének meghatározására irányuló eljárások,
+- g) a befektetési vállalkozás fő üzletágai, működési folyamatai és eszközei értékének valamint értékesíthetőségének meghatározására irányuló eljárások, valamint értékesítésükhöz szükséges lépések és azok becsült időkerete,
 - h) annak ismertetése, hogy a terv hogyan illeszkedik a befektetési vállalkozás vállalatirányítási rendszerébe, ideértve a terv kidolgozásához és végrehajtásához kapcsolódó felelősségi köröket,
 - i) a 105. §-ban meghatározott tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések,
-- j) szabályok és intézkedések annak biztosítására, hogy a befektetési vállalkozás megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
+- j) szabályok és lépések annak biztosítására, hogy a befektetési vállalkozás megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
 - k) a kötelezettségek szerkezetének átalakítására irányuló szabályok és intézkedések,
 - l) a fő üzletágak szerkezetének átalakítására irányuló szabályok és intézkedések,
-- m) a fizetési-, elszámolási rendszerekhez és egyéb infrastruktúrákhoz történő hozzáférés fenntartásához szükséges szabályok és intézkedések,
-- n) a befektetési vállalkozás által tett vagy tervezett előkészítő lépések a helyreállítási terv végrehajtásának előmozdítására, ideértve a befektetési vállalkozás megfelelő időben történő feltőkésítéséhez szükséges intézkedéseket is.
+- m) a fizetési, elszámolási rendszerekhez és egyéb infrastruktúrákhoz történő hozzáférés fenntartásához szükséges szabályok és intézkedések,
+- n) a befektetési vállalkozás által tett vagy tervezett előkészítő lépések a helyreállítási terv végrehajtásának előmozdítására, ideértve a befektetési vállalkozás esetleges tőkeemeléséről szóló döntést korlátozó szabályok felülvizsgálatát is,
+- o) arra vonatkozó elemzés, hogy a tervben vázolt körülmények között a befektetési vállalkozás hogyan és mikor igényelhet a jegybanki feladatkörében eljáró MNB-től rendkívüli likviditási hitelt, ideértve a lehetséges fedezetet is,
+- p) a Felügyelet által alkalmazható intézkedést, kivételes intézkedést kiváltó esemény teljesülésekor a befektetési vállalkozás részéről alkalmazandó lehetséges lépéseket,
+- q) feltételek és eljárások a tervben foglalt intézkedések befektetési vállalkozás által történő gyors végrehajtása biztosításához,
+- r) alternatív forgatókönyvek a befektetési vállalkozás egyedi működése szempontjából súlyos makrogazdasági, illetve a pénzügyi közvetítőrendszerben fennálló általános válsághelyzet kialakulásához kapcsolódóan.
 
-(3) A helyreállítási tervet legalább évente egyszer, valamint a befektetési vállalkozás jogi vagy szervezeti felépítésével, tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően, amely a tervben foglaltak végrehajtására lényeges hatással lehet, a befektetési vállalkozás felülvizsgálja.
+(4) A befektetési vállalkozás a helyreállítási tervet legalább évente egyszer, valamint a jogi vagy szervezeti felépítésével, tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően felülvizsgálja, amely a tervben foglaltak végrehajtására lényeges hatással lehet.
 
-(4) A befektetési vállalkozás együttműködik a törvényben meghatározott szanálási hatósággal, biztosítandó, hogy esetleges felszámolása – a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak mérséklése érdekében a szanálási hatóság alternatív forgatókönyvekkel rendelkezzen a befektetési vállalkozás szerkezetátalakítására, funkciói folyamatosságának fenntartására, a pénzügyi stabilitás megőrzésére, a befektetési vállalkozás egésze vagy egy része életképességének helyreállítására.
+(5) A helyreállítási tervben nem feltételezhető, hogy a befektetési vállalkozás bármilyen formában rendkívüli állami pénzügyi támogatást kap.
+
+(6) A helyreállítási terv olyan indikátorokat tartalmaz, melyek meghatározzák, hogy a befektetési vállalkozás mely pontokon hozza meg a tervben rögzített lépéseket. Az indikátorok lehetnek a befektetési vállalkozás pénzügyi helyzetével összefüggő mennyiségi vagy minőségi jellegű mutatók azzal, meghatározásuk során a befektetési vállalkozás figyelemmel van a könnyű nyomonkövethetőségükre.
+
+(7) A (6) bekezdéstől eltérően a befektetési vállalkozás
+
+- a) a helyreállítási terv alapján lépéseket tehet akkor is, ha a körülmény nem felel meg a vonatkozó indikátornak, de az irányítási jogkörrel rendelkező vezető testület az intézkedést szükségesnek tartja,
+- b) eltekinthet a helyreállítási tervben foglalt intézkedések meghozatalától, ha az irányítási jogkörrel rendelkező vezető testület úgy ítéli meg, hogy az intézkedés megtétele a körülmények alapján nem lenne szükséges,
+
+azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet.
+
+(8) Az összevont alapú felügyelet alá tartozó befektetési vállalkozás mindazon vállalkozásokra kiterjedő csoportszintű helyreállítási tervet készít, amelyre a csoport tagjaként az összevont alapú felügyelet kiterjed.
+
+(9) A csoportszintű helyreállítási tervet a befektetési vállalkozás irányítási jogkörrel rendelkező vezető testülete által történt jóváhagyást követően benyújtja a Felügyeletnek.
+
+(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tervén kívül mindazon lépéseket tartalmazza, amelyet a csoport esetleges fizetésképtelenné válásának elkerülése érdekében alkalmaznának.
+
+(11) A (3) bekezdés alkalmazásában kritikus funkciónak minősülnek azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése vagy korlátozottan megvalósítható helyettesíthetősége a befektetési vállalkozás vagy a csoport méretéből, piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből vagy határon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését.
 
 ### Kereskedési könyv
 
@@ -2498,6 +2529,70 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 - a) a meghatározott határidőn belül a befektetési vállalkozás szavatoló tőkéjének meghatározott szintre emelését írja elő,
 - b) a 110/I. §-ban meghatározottnál szigorúbb kifizetési korlátozást rendel el.
 
+### XX/B. Fejezet — CSOPORTON BELÜLI PÉNZÜGYI TÁMOGATÁS
+
+### Csoportszintű pénzügyi támogatási megállapodás
+
+110/M. § (1) Az összevont alapú felügyelet alá tartozó befektetési vállalkozás, valamint mindazon vállalkozás, amelyre az összevont alapú felügyelet kiterjed, az e Fejezetben meghatározottak szerint csoportszintű pénzügyi támogatási megállapodást köthet arról, hogy a megállapodásban részes fél a Felügyelet által alkalmazható intézkedést, kivételes intézkedést – ideértve a másik EGT-állam hatáskörrel rendelkező felügyeleti hatóságának intézkedését, kivételes intézkedését is – kiváltó esemény teljesülésekor a csoport intézkedéssel, kivételes intézkedéssel érintett tagjának pénzügyi támogatást nyújt.
+
+(2) Az e Fejezetben foglaltak nem érintik a csoporton belüli
+
+- a) finanszírozási rendszereket, és
+- b) eseti jellegű pénzügyi támogatásokat, ha a támogatás nem jelent kockázatot a csoport egészének.
+
+(3) A csoportszintű pénzügyi támogatási megállapodás a csoporthoz tartozó egy vagy több olyan leányvállalatra terjedhet ki, amelyre az összevont alapú felügyelet kiterjed és
+
+- a) az anyavállalat által a leányvállalatnak nyújtott támogatásról,
+- b) a leányvállalat által az anyavállalatnak nyújtott támogatásról, valamint
+- c) a leányvállalatok egymás között nyújtott támogatásáról
+
+rendelkezhet.
+
+(4) A csoportszintű pénzügyi támogatási megállapodás alapján történő támogatás lehet hitel, garanciavállalás, valamint biztosítékként használható eszközök átruházása.
+
+(5) Ha a csoportszintű pénzügyi támogatási megállapodás alapján a csoport valamely tagja pénzügyi támogatást nyújthat a csoport másik tagjának, a csoportszintű pénzügyi támogatási megállapodás a másik tag támogatásra vonatkozó viszonossági kötelezettségét is tartalmazhatja.
+
+(6) A csoportszintű pénzügyi támogatási megállapodásnak tartalmaznia kell a nyújtható támogatás miatt fizetendő ellenérték számítási elveit is azzal, hogy az ellenértéket a támogatás nyújtásának időpontjában kell meghatározni.
+
+(7) A csoportszintű pénzügyi támogatásnak meg kell felelnie az alábbi elveknek:
+
+- a) a csoport minden tagja szabadon dönthet a megállapodás megkötéséről,
+- b) a megállapodás megkötése és a pénzügyi támogatás nyújtásáért fizetendő ellenérték meghatározása során a csoport minden tagja a saját érdekei szerint cselekszik, amelybe beletartozhat minden közvetlen vagy közvetett előny, amelyben a pénzügyi támogatás nyújtásának következtében valamely tag részesül,
+- c) a csoport támogatást nyújtó tagjának minden szükséges információt meg kell kapnia a támogatásban részesülőtől még a fizetendő ellenérték meghatározása, valamint a támogatás nyújtásáról szóló döntés meghozatala előtt,
+- d) a támogatás nyújtásáért fizetendő ellenérték meghatározásakor figyelembe vehetők azok a piacon hozzá nem férhető információk is, amelyekkel a támogatást nyújtó fél rendelkezik abból eredően, hogy ugyanazon csoport tagja, mint a támogatásban részesülő, valamint
+- e) a támogatás nyújtásáért fizetendő ellenérték számítási elveibe nem tartozik bele az a kötelezettség, hogy figyelembe vegyék a csoporton kívüli eseményeknek a piaci árakra gyakorolt várható ideiglenes hatását.
+
+(8) A csoportszintű pénzügyi támogatási megállapodás megkötésének feltétele, hogy a szerződés időpontjában a megállapodó felek egyike sincs abban a helyzetben, hogy vele szemben a hatáskörrel rendelkező felügyeleti hatóság intézkedést, kivételes intézkedést alkalmazzon.
+
+110/N. § (1) A csoportszintű pénzügyi támogatásra vonatkozó megállapodás megkötéséhez a hatáskörrel rendelkező felügyeleti hatóságok 173/A. § szerinti többoldalú eljárás keretében hozott határozata szükséges.
+
+(2) Az (1) bekezdésben meghatározott döntést követően a megállapodás tervezetét a részes félként szereplő tagok tulajdonosainak is jóvá kell hagynia azzal, hogy a megállapodás kizárólag a csoport azon tagjait kötelezi, akiknél a tulajdonosok jóváhagyásukat megadták, illetve azt nem vonták vissza.
+
+(3) A megállapodásban részes fél irányítási jogkörrel rendelkező vezető testülete évente beszámol a tulajdonosainak a megállapodás teljesüléséről és a megállapodás alapján hozott döntések végrehajtásáról.
+
+### A csoporton belüli pénzügyi támogatás nyújtása
+
+110/O. § A csoportszintű pénzügyi támogatási megállapodás alapján a csoport tagja kizárólag az alábbi feltételekkel nyújthat támogatást, ha:
+
+- a) megalapozottan valószínűsíthető, hogy a támogatás jelentős mértékben orvosolja a támogatást kapó pénzügyi nehézségét,
+- b) a támogatás célja a csoport vagy a csoport tagja pénzügyi stabilitásának megőrzése vagy helyreállítása, melyben a támogatást nyújtó is érdekelt,
+- c) a támogatás nyújtásáról szóló döntés meghozatalakor a támogatást nyújtó irányítási jogkörrel rendelkező vezető testületének rendelkezésére álló információk alapján megalapozottan valószínűsíthető, hogy a támogatás ellenértéke megfizetésre kerül,
+- d) a támogatás nem veszélyezteti a támogatás nyújtójának likviditását és fizetőképességét, valamint a székhelye szerinti EGT-állam pénzügyi stabilitását,
+- e) a támogatás nyújtója a támogatás nyújtásának időpontjában megfelel a prudens működésre vonatkozó jogszabályi követelményeknek, ideértve a nagykockázatra vonatkozó rendelkezéseket is, és
+- f) a támogatás nyújtása nem veszélyezteti a támogatást nyújtó szanálhatóságát.
+
+110/P. § (1) A csoportszintű pénzügyi támogatási megállapodás alapján történő támogatást a támogatásban részes felek irányítási jogkörrel rendelkező vezető testülete hagyja jóvá.
+
+(2) A jóváhagyásban meg kell határozni a támogatás célját, valamint rögzíteni kell, hogy a támogatás megfelel a 110/O. §-ban foglalt feltételeknek.
+
+110/Q. § (1) A támogatás nyújtásához a hatáskörrel rendelkező felügyeleti hatóság jóváhagyása kell.
+
+(2) Ha a támogatást a csoport magyarországi székhelyű tagja kívánja nyújtani, az engedélyt a Felügyelet adja meg azzal, hogy az engedélyt kérő a kérelméről a támogatásban részes másik fél hatáskörrel rendelkező felügyeleti hatóságát, valamint az EBH-t is értesíti. A kérelemnek valamint az értesítésnek tartalmaznia kell a 110/P. § (2) bekezdésében foglaltakat.
+
+(3) A Felügyelet a kérelemről öt munkanapon belül dönt.
+
+(4) A Felügyelet döntéséről értesíti a támogatásban részes fél hatáskörrel rendelkező felügyeleti hatóságát, valamint az EBH-t.
+
 ### XXI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ TEVÉKENYSÉGÉVEL ÖSSZEFÜGGŐ EGYÉB KÜLÖNLEGES SZABÁLYOK
 
 ### A közvetítőre és a közvetítő igénybevételére vonatkozó szabályok
@@ -2624,6 +2719,8 @@ szemben.
 
 (8) Nem jelenti az üzleti titok megsértését a Hpt.-ben és az e törvényben meghatározott összevont alapú felügyeletre vonatkozó rendelkezések, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás.
 
+(8) Nem jelenti az üzleti titok sérelmét a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független értékelőnek vagy az ideiglenes értékelésben közreműködőnek az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során adatok, információk átadása a lehetséges ajánlattevőknek, valamint a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
+
 118. § (1) A befektetési vállalkozás, az árutőzsdei szolgáltató, illetőleg a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személye és alkalmazottja, valamint bármely más személy, aki valamilyen módon birtokába jutott, az értékpapírtitkot köteles időbeli korlátozás nélkül megőrizni.
 
 (2) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az értékpapírtitkot harmadik személynek – az ügyfél egyidejű tájékoztatása mellett – csak akkor adja ki, ha
@@ -2720,7 +2817,8 @@ részére,
 - p) a tulajdonosi megfeleltetés érdekében a központi értéktár részéről a kibocsátó részére nyújtott adatszolgáltatás,
 - q) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésére álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérése alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - r) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, árutőzsdei szolgáltatás, multilaterális kereskedési rendszer működtetési tevékenység keretében az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás teljesítése céljából a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője által az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás feldolgozásában, elszámolásában és teljesítésében közreműködő befektetési vállalkozás, árutőzsdei szolgáltató, multilaterális kereskedési rendszer működtetője, központi értéktár, központi szerződő fél, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, továbbá befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézet és befektetési alapkezelő részére történő adattovábbítás,
-- s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás.
+- s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás,
+- t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
 
 ### A panaszkezelés
 
@@ -2891,6 +2989,8 @@ kell eleget tenni.
 132. § (1) A befektetési vállalkozás és az árutőzsdei szolgáltató felszámolási eljárásában az eljárás felfüggesztésének nincs helye.
 
 (2) A befektetési vállalkozással és az árutőzsdei szolgáltatóval szemben fennálló követelés esetében a Cstv. 46. §-ának (7) bekezdése nem alkalmazható.
+
+(3) A Cstv. 40. § (1) bekezdés c) pontja és (2) bekezdése nem alkalmazható a Szantv.-ben meghatározott szanálás alatt álló befektetési vállalkozás eszközeinek, forrásainak, jogainak és kötelezettségeinek a szanálási feladatkörében eljáró MNB szanálási eszköz alkalmazásáról szóló határozata – az annak megfelelően kötött ügyletek – alapján egy másik jogalanyhoz történő átruházása tekintetében.
 
 133. § (1) A Felügyelet a befektetési vállalkozás vagy az árutőzsdei szolgáltató ellen felszámolási eljárást kezdeményez, ha
 
@@ -3368,12 +3468,14 @@ kezelheti.
 
 (15) A felügyeleti felülvizsgálat és értékelés elősegítése érdekében a Felügyelet legalább évente felügyeleti stressztesztet végez az általa felügyelt befektetési vállalkozásokra vonatkozóan.
 
-(16) A Felügyelet felülvizsgálja és értékeli a befektetési vállalkozás helyreállítási tervét. A felülvizsgálatnak a 102. § (2) bekezdésében meghatározott feltételeken kívül ki kell terjednie arra, hogy a helyreállítási tervben foglaltak
+(16) A Felügyelet – az egyes helyreállítási tervek benyújtását követő hat hónapon belül és azon EGT-állam illetékes felügyeleti hatóságával történt egyeztetést követően, amelyben a befektetési vállalkozás rendszerszinten jelentős fiókteleppel rendelkezik – felülvizsgálja és értékeli a befektetési vállalkozás helyreállítási tervét. A felülvizsgálat a 102. §-ban meghatározott feltételeken kívül kiterjed arra is, hogy a helyreállítási tervben foglaltak alapján megalapozottan valószínűsíthető, hogy
 
-- a) végrehajtása alkalmas a befektetési vállalkozás likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a befektetési vállalkozás pénzügyi helyzetének stabilizálására, figyelemmel a befektetési vállalkozás által megtett és tervezett lépésekre;
-- b) alkalmazhatósága a vonatkozó stresszforgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más befektetési vállalkozások is helyreállítási terveket hajtanak végre.
+- a) végrehajtásával fenntartható vagy helyreállítható a befektetési vállalkozás vagy a csoport életképessége és pénzügyi helyzete, alkalmas a befektetési vállalkozás likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a befektetési vállalkozás pénzügyi helyzetének stabilizálására, figyelemmel a befektetési vállalkozás által megtett és tervezett lépésekre;
+- b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más befektetési vállalkozás is helyreállítási tervet hajt végre.
 
-(17) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a befektetési vállalkozást a helyreállítási terv három hónapon belüli átdolgozására.
+(17) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a befektetési vállalkozást a helyreállítási terv kettő hónapon belüli átdolgozására, mely határidő egy hónappal meghosszabbítható.
+
+(18) A (17) bekezdés szerinti határozat meghozatala előtt a Felügyelet lehetőséget biztosít a befektetési vállalkozás számára, hogy a Felügyelet által feltárt hiányosságok, végrehajtási akadályok tárgyában észrevételt tegyen.
 
 163. § (1) A Felügyelet évente felügyeleti vizsgálati programot fogad el az általa felügyelt, Magyarországon bejegyzett azon befektetési vállalkozások esetében, amelyek
 
@@ -3430,6 +3532,14 @@ kezelheti.
 - c) a felügyeleti felülvizsgálat és értékelés eredményét, valamint
 - d) a Magyarországot fenyegető rendszerszintű likviditási kockázatot.
 
+163/C. § (1) A 173/A. § szerinti többoldalú eljárás keretében kell eljárni és többoldalú eljárás keretében hozott határozatot kell hozni az összevont alapú felügyeleti felülvizsgálat esetén is.
+
+(2) A csoportszintű helyreállítási terv felülvizsgálatakor a többoldalú eljárásba azon EGT-állam hatáskörrel rendelkező felügyeleti hatóságát is be kell vonni, amelyben a csoport tagja rendszerszinten jelentős fiókteleppel rendelkezik.
+
+(3) A csoportszintű helyreállítási terv felülvizsgálata arra is kiterjed, hogy a csoportszintű helyreállítási tervtől függetlenül szükséges-e a csoport egyes tagjainak külön helyreállítási tervet készíteni.
+
+(4) Ha a Felügyelet látja el az EU-szintű anyavállalat leányvállalati befektetési vállalkozás felügyeletét, a többoldalú eljárás eredménytelensége esetén dönthet arról, hogy a csoportszintű helyreállítási tervtől függetlenül szükség van a leányvállalati befektetési vállalkozásnak egyedi helyreállítási tervet készítenie.
+
 ### XXVIII. Fejezet — A FELÜGYELET INTÉZKEDÉSEI ÉS SZANKCIÓI
 
 164. § (1) A Felügyelet az e törvényben foglalt kötelezettségek sérelme esetén alkalmazható intézkedése során
@@ -3467,7 +3577,8 @@ kezelheti.
 - u) a multilaterális kereskedési rendszerben kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését,
 - v) kötelezheti a befektetési vállalkozást, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a befektetési vállalkozás prudenciális követelményeknek való megfelelésével,
 - x) közleményt ad ki, amelyben megjelöli a jogsértésért felelő személyt és a jogsértés természetét,
-- y) határozattal megállapítja a jogsértés tényét és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását.
+- y) határozattal megállapítja a jogsértés tényét és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását,
+- z) kötelezheti a befektetési vállalkozást a 102. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
@@ -3482,6 +3593,15 @@ kezelheti.
 (5) A Felügyelet a befektetési vállalkozással szembeni intézkedés alkalmazása, illetve bírság kiszabása esetén a határozattal egyidejűleg a Befektető-védelmi Alapot is értesíti, ha a határozat a Befektető-védelmi Alap e törvény és a Tpt. szerinti feladatainak ellátására kihathat, illetve a határozat meghozatalára a befektetési vállalkozásnak a Befektető-védelmi Alap tevékenységével összefüggő kötelezettsége megsértése miatt került sor.
 
 (6) A Felügyelet akkor is értesíti a Befektető-védelmi Alapot, ha a befektetési vállalkozás anyavállalatának felügyeletét ellátó hatóság tájékoztatása alapján olyan helyzet fennállását állapítja meg, amely a Befektető-védelmi Alap e törvény és a Tpt. szerinti feladatainak ellátására kihathat.
+
+(7) A Felügyelet megteszi a szükséges intézkedéseket, ha bizonyíthatóan fennáll annak a veszélye, hogy a befektetési vállalkozás az elkövetkező 12 hónapban nem fog megfelelni az e törvényben, valamint a prudens működésre vonatkozó jogszabályokban foglalt követelményeknek.
+
+(8) Ha a befektetési vállalkozás a Felügyelet határozata ellenére nem nyújt be átdolgozott helyreállítási tervet vagy az átdolgozott helyreállítási terv nem orvosolja a határozatban foglalt hiányosságokat, a Felügyelet kötelezheti a befektetési vállalkozást
+
+- a) kockázatvállalásának – ideértve a likviditási kockázatot is – mérséklésére,
+- b) az esetleges tőkeemelésről szóló döntést korlátozó szabályzatainak felülvizsgálatára,
+- c) irányítási rendszerének felülvizsgálatára,
+- d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók ellenálló képessége növelése érdekében történő felülvizsgálatára.
 
 165. § A Felügyelet a 164. § (1) bekezdésének h), n), o) és p) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el azzal, hogy a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
@@ -3687,6 +3807,8 @@ rendeletben állapítsa meg.
 - g) 481. cikk (5) bekezdésének megfelelően az elsődleges alapvető tőkeelemekre, az alapvető tőkeelemekre, a járulékos tőkeelemekre és a szavatolótőke-elemekre a 2013. december 31-ig hatályos jogszabályok által előírt, de az 575/2013/EU rendeletben nem szereplő szűrők és levonások átmeneti alkalmazására vonatkozó százalékos arányokat,
 - h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembevehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembevételére vonatkozó százalékos arányokat.
 
+(5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
+
 ### Hatálybalépés
 
 181. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – 2007. december 1-jén lép hatályba.
@@ -3759,6 +3881,8 @@ azzal, hogy 2019. január 1-jétől a Módtv.-vel megállapított 110/B. §-ban 
 (14) A 174. § szerinti határozatot legalább évente egyszer vagy a 102. § (1) bekezdés szerinti kérelmező indoklással ellátott kérelmére az éves felülvizsgálat letelte előtt aktualizálni szükséges.
 
 (15) A 4. melléklet 7–23. pontjában foglaltakat a 2014. január 1-jét követően kifizetett javadalmazásra abban az esetben is alkalmazni kell, ha a kifizetésre vonatkozó szerződés az e törvény hatálybalépése előtt került megkötésre. Az e törvény hatálybalépésekor már működő befektetési vállalkozás – a 4. melléklet 5. pontjától eltérően – 2014. június 30-ig az igazgatóság által elfogadott és a felügyelőbizottság által ellenőrzött javadalmazási politikát is alkalmazhat.
+
+(16) A Szantv. 157. § (4) bekezdésével megállapított 102. §-ban foglalt helyreállítási tervet, valamint csoportszintű helyreállítási tervet a Szantv. hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő befektetési vállalkozás irányítási jogkörrel rendelkező vezető testülete első alkalommal legkésőbb 2014. december 31-ig köteles a Felügyeletnek benyújtani.
 
 182/A. § A 123/B. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 123/C. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
