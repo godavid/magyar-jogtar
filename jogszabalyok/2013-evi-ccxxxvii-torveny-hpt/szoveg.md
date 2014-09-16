@@ -134,7 +134,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 36. harmadik országbeli pénzügyi intézmény: a harmadik országbeli hitelintézet és a harmadik országbeli pénzügyi vállalkozás;
 - 37. harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés b)–c) és g)–l) pontjában, valamint a (2) bekezdés a)–d) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
 - 38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény székhelye, telephelye, főirodája, fióktelepe;
-- 39. helyreállítási terv: olyan terv, amelyben foglalt intézkedési lehetőségek a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás vagy a jegybanki feladatkörében eljáró MNB rendkívüli likviditási hitelének igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
+- 39. helyreállítási terv: olyan terv, amelyben foglalt a hitelintézet által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
 - 40. hitel és pénzkölcsön nyújtása:
   - a) hitelnyújtás: a hitelező és az adós között írásban létesített hitelszerződés alapján meghatározott hitelkeret rendelkezésre tartása az adós részére, jutalék ellenében és a hitelező kötelezettségvállalása meghatározott szerződési feltételek megléte esetén a kölcsönszerződés megkötésére vagy egyéb hitelművelet végzésére,
   - b) pénzkölcsönnyújtás: ba) a hitelező és az adós között létesített hitel- vagy kölcsönszerződés alapján a pénzösszeg rendelkezésre bocsátása, amelyet az adós a szerződésben megállapított időpontban – kamat ellenében vagy anélkül – köteles visszafizetni, bb) minden olyan megállapodás, amely értékpapír vételéről és határidős visszaszármaztatásáról rendelkezik és a szerződés tárgyát képező értékpapírok a vevő (hitelező) javára az ellenérték óvadéki biztosítékául szolgálnak úgy, hogy azokat az ügylet ideje alatt további ügyletben sem elidegeníteni, sem megterhelni nem lehet, bc) a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvény szerinti önálló zálogjog vásárlása és egyidejű eladása útján végzett tevékenység, bd) zálogkölcsön nyújtása, valamint be) csoportfinanszírozás,
@@ -180,7 +180,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 66. közvetett tulajdon: egy vállalkozás tulajdoni hányadának, vagy szavazati jogának a vállalkozásban tulajdoni részesedéssel vagy szavazati joggal rendelkező más vállalkozás (a 3. melléklet alkalmazásában: köztes vállalkozás) tulajdoni hányadán vagy szavazati jogán keresztül történő birtoklása vagy gyakorlása;
 - 67. közvetítői díj: minden olyan pénzben vagy természetben juttatott térítés, amelyet a közvetítő akár az ügyféltől, akár a pénzügyi szolgáltatást nyújtó személytől az ügyfél és a pénzügyi szolgáltatást nyújtó személy között létrejött pénzügyi szolgáltatásra vonatkozó megállapodás érvényes létrejöttéért és meghatározott esetekben annak teljesítéséért, illetve meghatározott időtartamig történő fennállásáért kap;
 - 68. közvetlen banküzemi célt szolgáló vállalkozás: egy vagy több hitelintézet vagy pénzügyi vállalkozás üzemviteléhez, zavartalan működéséhez nélkülözhetetlen fejlesztést, beszerzést, értékesítést, ipari szolgáltatást és termékelőállítást végző, illetve biztonsági feladatokat ellátó vállalkozás;
-- 69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése Magyarországon vagy más EGT-államban valószínűsíthetően jelentősen megzavarná a gazdaság vagy a pénzügyi piacok működését;
+- 69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése vagy korlátozottan megvalósítható helyettesíthetősége a hitelintézet vagy a csoport méretéből, piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből vagy határon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését;
 - 70. külföldi hitelintézet: az a hitelintézet, amelynek székhelye Magyarországon kívül van;
 - 71. külföldi pénzügyi intézmény: a külföldi hitelintézet és a külföldi pénzügyi vállalkozás;
 - 72. külföldi pénzügyi vállalkozás: az a pénzügyi vállalkozás, amelynek székhelye Magyarországon kívül van;
@@ -205,7 +205,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
   - b) a fizetési számláról történő készpénzkifizetést lehetővé tevő szolgáltatás, valamint a fizetési számla vezetéséhez szükséges összes tevékenység,
   - c) a fizetési műveletek fizetési számlák közötti teljesítése,
   - d) a c) pontban meghatározott szolgáltatás, ha a fizetési művelet teljesítése a pénzforgalmi szolgáltatást igénybe vevő ügyfél rendelkezésére álló hitelkeretéből történik,
-  - e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása,
+  - e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása, valamint elfogadása,
   - f) a készpénzátutalás,
   - g) az olyan fizetési művelet teljesítése, ahol a fizető fél távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz segítségével adja meg a fizetési megbízást, és ahol a fizetési művelet a távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz üzemeltetőjénél történik, aki kizárólag közvetítőként jár el az ügyfele és az ügyfele részére árut szállító vagy szolgáltatást nyújtó harmadik személy között;
 - 88. pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
@@ -633,13 +633,14 @@ induló tőkével alapítható.
 - i) számviteli politikájának, részletes számviteli rendszerének tervezetét,
 - j) valamely, a hitelintézetek közötti fizetési rendszerhez való közvetlen csatlakozásról szóló nyilatkozatot és a csatlakozást biztosító informatikai rendszer könyvvizsgálói igazolását, vagy a közvetve történő csatlakozás elfogadásáról adott nyilatkozatot,
 - k) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot,
-- l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó – a hitelintézet igazgatósága által elfogadott – eljárás rendjét és a 114. §-ban meghatározott helyreállítási tervét,
+- l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 114. §-ban meghatározott egyedi helyreállítási tervét,
 - m) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
 - n) szövetkezeti hitelintézet esetében a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez benyújtott, csatlakozásról szóló nyilatkozatot, valamint
 - o) harmadik országbeli hitelintézet fióktelepe esetén, ha az a Felügyelet e törvény szerinti engedélye alapján nem csatlakozik az OBA-hoz,
   - oa) az ügyfelek – biztosított betéti formákról történő – magyar nyelvű tájékoztatására vonatkozó kötelezettségvállalását,
   - ob) a harmadik országbeli hitelintézetnek a betétesek Magyarországon történő kártalanítására vonatkozó kötelezettségvállalását, és
-  - oc) a kártalanítás feltételeit, módját, az eljárás menetének rendjét, és a kártalanítás kifizetését biztosító megállapodásokat.
+  - oc) a kártalanítás feltételeit, módját, az eljárás menetének rendjét, és a kártalanítás kifizetését biztosító megállapodásokat,
+- p) a Szanálási Alaphoz történő csatlakozásáról szóló nyilatkozat másolatát.
 
 (3) Már működő pénzügyi intézmény tevékenységi körének pénzügyi szolgáltatással történő bővítésére vonatkozó engedély iránti kérelméhez benyújtja a tevékenység végzéséhez szükséges személyi és tárgyi feltételek meglétét bizonyító igazolást, valamint a (2) bekezdés d)–f), h) és k)–m) pontjában foglaltakat, ha ezek benyújtására korábban még nem került sor.
 
@@ -772,6 +773,8 @@ induló tőkével alapítható.
 (3) A Felügyelet a fióktelep engedélyét visszavonja, ha a székhely szerinti illetékes felügyeleti hatóság a külföldi pénzügyi intézmény engedélyét visszavonta.
 
 (4) A pénzügyi intézménynek nem minősülő gazdálkodó szervezet engedélyét a Felügyelet az (1) és (2) bekezdésben foglaltak megfelelő alkalmazásával vonhatja vissza.
+
+(5) A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben (a továbbiakban: Szantv.) meghatározott szanálás alatt álló pénzügyi intézmény tevékenységi engedélye a szanálási eljárás megszüntetéséig nem vonható vissza.
 
 33. § (1) A Felügyelet a hitelintézet tevékenységi engedélyét akkor is visszavonhatja, ha a hitelintézet
 
@@ -995,6 +998,8 @@ induló tőkével alapítható.
 (2) Pénzügyi intézmény esetén a felszámolási eljárásban az eljárás felfüggesztésének nincs helye.
 
 (3) A pénzügyi intézménnyel szemben fennálló követelések esetében a Cstv. 46. § (7) bekezdése nem alkalmazható.
+
+(4) A Cstv. 40. § (1) bekezdés c) pontja és (2) bekezdése nem alkalmazható a Szantv.-ben meghatározott szanálás alatt álló pénzügyi intézmény eszközeinek, forrásainak, jogainak és kötelezettségeinek a szanálási feladatkörében eljáró MNB szanálási eszköz alkalmazásáról szóló határozata – az annak megfelelően kötött ügyletek – alapján egy másik jogalanyhoz történő átruházása tekintetében.
 
 53. § (1) Pénzügyi intézmény, illetve a harmadik országbeli pénzügyi intézmény fióktelepe ellen a felszámolási eljárás megindítását kizárólag a Felügyelet kezdeményezheti.
 
@@ -1852,28 +1857,56 @@ a belső szabályzatban meghatározott mértékig.
 
 (2) A hitelintézet megfelelő humán és pénzügyi erőforrást biztosít az irányítási jogkörrel rendelkező vezető testület tagjainak képzésére.
 
-114. § (1) A hitelintézet az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységek és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos helyreállítási tervet készít.
+114. § (1) Minden olyan hitelintézet,
 
-(2) A helyreállítási terv a hitelintézet esetleges fizetésképtelenné válásának – más hitelintézetekre vagy a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában legalább a következőket tartalmazza:
+- a) amelyre az összevont alapú felügyelet nem terjed ki, vagy
+- b) amely a csoportszintű helyreállítási terv felülvizsgálata alapján erre külön kötelezett
 
-- a) a terv kulcsfontosságú elemeinek, valamint az előző tervhez képest bekövetkezett lényeges változásainak összefoglalása,
+az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységek és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos helyreállítási tervet készít.
+
+(2) A helyreállítási tervet a hitelintézet irányítási jogkörrel rendelkező vezető testülete által történő jóváhagyást követően benyújtják a Felügyeletnek.
+
+(3) A helyreállítási terv a hitelintézet esetleges fizetésképtelenné válásának – más hitelintézetekre vagy a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában legalább a következőket tartalmazza:
+
+- a) a terv kulcsfontosságú elemeinek, az előző tervhez képest bekövetkezett lényeges változásainak, valamint a hitelintézet általános helyreállítási képességének összefoglalása,
 - b) az esetleges negatív piaci reakciók kezelését célzó kommunikációs és tájékoztatási terv,
 - c) a hitelintézet kritikus funkcióinak meghatározása,
 - d) a hitelintézet kritikus funkciói működésének fenntartásához szükséges, a likviditással és a fizetőképességgel (szolvenciával) kapcsolatban tervezett lépések,
 - e) a terv minden egyes lényeges lépéséhez szükséges becsült időkeret,
 - f) a terv esetleges végrehajtását gátló tényezők leírása, ideértve az ügyfelekre, a szerződéses partnerekre, valamint – összevont alapú felügyelet alá tartozó hitelintézet esetén – a csoport többi tagjára gyakorolt hatásokat is,
-- g) a hitelintézet fő üzletágai, működési folyamatai és eszközei értékének valamint értékesíthetőségének meghatározására irányuló eljárások, valamint értékesítésükhöz szükséges intézkedések és azok becsült időkerete,
+- g) a hitelintézet fő üzletágai, működési folyamatai és eszközei értékének valamint értékesíthetőségének meghatározására irányuló eljárások, valamint értékesítésükhöz szükséges lépések és azok becsült időkerete,
 - h) annak ismertetése, hogy a terv hogyan illeszkedik a hitelintézet vállalatirányítási rendszerébe, ideértve a terv kidolgozásához és végrehajtásához kapcsolódó felelősségi köröket,
 - i) a 79. §-ban meghatározott tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések,
-- j) szabályok és intézkedések annak biztosítására, hogy a hitelintézet megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
+- j) szabályok és lépések annak biztosítására, hogy a hitelintézet megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
 - k) a kötelezettségek szerkezetének átalakítására irányuló szabályok és intézkedések,
 - l) a fő üzletágak szerkezetének átalakítására irányuló szabályok és intézkedések,
 - m) a fizetési, elszámolási rendszerekhez és egyéb infrastruktúrákhoz történő hozzáférés fenntartásához szükséges szabályok és intézkedések,
-- n) a hitelintézet által tett vagy tervezett előkészítő lépések a helyreállítási terv végrehajtásának előmozdítására, ideértve a hitelintézet megfelelő időben történő feltőkésítéséhez szükséges intézkedéseket is.
+- n) a hitelintézet által tett vagy tervezett előkészítő lépések a helyreállítási terv végrehajtásának előmozdítására, ideértve a hitelintézet esetleges tőkeemeléséről szóló döntést korlátozó szabályok felülvizsgálatát is,
+- o) arra vonatkozó elemzés, hogy a tervben vázolt körülmények között a hitelintézet hogyan és mikor igényelhet a jegybanki feladatkörében eljáró MNB-től rendkívüli likviditási hitelt, ideértve a lehetséges fedezetet is,
+- p) a Felügyelet által alkalmazható intézkedést, kivételes intézkedést kiváltó esemény teljesülésekor a hitelintézet részéről alkalmazandó lehetséges lépéseket,
+- q) feltételek és eljárások a tervben foglalt intézkedések hitelintézet által történő gyors végrehajtása biztosításához,
+- r) alternatív forgatókönyvek a hitelintézet egyedi működése szempontjából súlyos makrogazdasági, illetve a pénzügyi közvetítőrendszerben fennálló általános válsághelyzet kialakulásához kapcsolódóan.
 
-(3) A helyreállítási tervet legalább évente egyszer, valamint a hitelintézet jogi vagy szervezeti felépítésével, tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően, amely a tervben foglaltak végrehajtására lényeges hatással lehet, a hitelintézet felülvizsgálja.
+(4) A helyreállítási tervet a hitelintézet legalább évente egyszer, valamint a hitelintézet jogi vagy szervezeti felépítésével, tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően felülvizsgálja, amely a tervben foglaltak végrehajtására lényeges hatással lehet.
 
-(4) A hitelintézet együttműködik a törvényben meghatározott szanálási hatósággal, biztosítandó, hogy esetleges felszámolása – más hitelintézetekre vagy a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak mérséklése érdekében a szanálási hatóság alternatív forgatókönyvekkel rendelkezzen a hitelintézet szerkezetátalakítására, alapvető funkciói folyamatosságának fenntartására, a pénzügyi stabilitás megőrzésére, a hitelintézet egésze vagy egy része életképességének helyreállítására.
+(5) A helyreállítási tervben nem feltételezhető, hogy a hitelintézet bármilyen formában rendkívüli állami pénzügyi támogatást kap.
+
+(6) A helyreállítási terv olyan indikátorokat tartalmaz, melyek meghatározzák, hogy a hitelintézet mely pontokon hozza meg a tervben rögzített lépéseket. Az indikátorok lehetnek a hitelintézet pénzügyi helyzetével összefüggő mennyiségi vagy minőségi jellegű mutatók azzal, meghatározásuk során a hitelintézet figyelemmel van a könnyű nyomonkövethetőségükre.
+
+(7) A (6) bekezdéstől eltérően a hitelintézet
+
+- a) a helyreállítási terv alapján lépéseket tehet akkor is, ha a körülmény nem felel meg a vonatkozó indikátornak, de az irányítási jogkörrel rendelkező vezető testület az intézkedést szükségesnek tartja,
+- b) eltekinthet a helyreállítási tervben foglalt intézkedések meghozatalától, ha az irányítási jogkörrel rendelkező vezető testület úgy ítéli meg, hogy a körülmények alapján nem lenne szükséges,
+
+azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet.
+
+(8) Az összevont alapú felügyelet alá tartozó hitelintézet mindazon vállalkozásokra kiterjedő csoportszintű helyreállítási tervet készít, amelyre a csoport tagjaként az összevont alapú felügyelet kiterjed.
+
+(9) A csoportszintű helyreállítási tervet a hitelintézet irányítási jogkörrel rendelkező vezető testülete által történt jóváhagyást követően benyújtja a Felügyeletnek.
+
+(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tevén kívül mindazon lépéseket tartalmaz, amelyet a csoport esetleges fizetésképtelené válásának elkerülése érdekében alkalmaznának.
+
+(11) Az 575/2013/EU rendelet 113. cikk (7) bekezdése szerinti ugyanazon intézményvédelmi rendszerhez tartozó hitelintézetek helyreállítási tervét az intézményvédelmi rendszer készíti el.
 
 115. § (1) A hitelintézet egyedi alapon teljesíti az e törvény által meghatározott kockázatkezelésre és vállalatirányítási rendszerre vonatkozó követelményeket, kivéve, ha a hitelintézetet a Felügyelet az 575/2013/EU rendelet 7. cikke szerint a prudenciális követelmények egyedi alapon történő teljesítése alól mentesíti.
 
@@ -1988,7 +2021,7 @@ amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azz
 
 #### 56. Nyilvánosságra hozatal
 
-122. § (1) A hitelintézet egyedi alapon legalább félévente eleget tesz az 575/2013/EU rendelet Nyolcadik részében meghatározott nyilvánosságra hozatali követelménynek azzal, hogy a nyilvánosságra hozatali szabályzatában a nyilvánosságra hozatal rendszerességét és a nyilvánosságra hozatal kiterjedését is rögzíti.
+122. § (1) A hitelintézet egyedi alapon legalább évente eleget tesz az 575/2013/EU rendelet Nyolcadik részében meghatározott nyilvánosságra hozatali követelménynek azzal, hogy a Felügyelet ennél gyakoribb nyilvánosságra hozatalról is dönthet, ha az intézmény tevékenységi volumene, tevékenységi köre, más országban folytatott tevékenysége, különböző pénzügyi szektorokban folytatott tevékenysége, nemzetközi pénzügyi piacon való részvétele, illetve a klíring- és elszámolási rendszerekben való részvétele indokolja azt.
 
 (2) A tagállami anyavállalat és a tagállami pénzügyi holding társaság anyavállalat legalább évente nyilvánosságra hozza – az 575/2013/EU rendeletben foglaltakon kívül – a jogi, vállalatirányítási és szervezeti struktúráját, valamint javadalmazási politikáját is.
 
@@ -2163,7 +2196,9 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 
 #### 60. A tulajdonosokra, a vezető testületek tagjaira és a vezető állású személyekre vonatkozó szabályok
 
-135. § A nyilvános részvénytársasági formában működő hitelintézet alapszabálya meghatározhatja az egy részvényes által gyakorolható szavazati jog legmagasabb mértékét. A szavazati jog legmagasabb mértékének meghatározása során tilos a részvényesek közötti bármiféle különbségtétel. A társaság alapszabálya az alapszabályban meghatározott részvényesi csoport szavazati joggyakorlását maximáló szabályt is előírhat.
+135. § (1) A nyilvános részvénytársasági formában működő hitelintézet alapszabálya meghatározhatja az egy részvényes által gyakorolható szavazati jog legmagasabb mértékét. A szavazati jog legmagasabb mértékének meghatározása során tilos a részvényesek közötti bármiféle különbségtétel. A társaság alapszabálya az alapszabályban meghatározott részvényesi csoport szavazati joggyakorlását maximáló szabályt is előírhat.
+
+(2) A nyilvános részvénytársasági formában működő hitelintézet közgyűlése legalább kétharmados szótöbbséggel határozhat az alapszabály olyan tartalmú módosításáról, amelynek alapján az e törvényben rögzített, a Felügyelet által alkalmazható intézkedés, kivételes intézkedés vagy a Szantv. szerinti szanálási eljárás elrendelésének elkerülése érdekében szükséges tőkeemelésről döntő közgyűlést annak kezdőnapját megelőzően legalább tíz nappal össze lehessen hívni.
 
 136. § (1) A pénzügyi intézmény igazgatósága a névre szóló részvényekről és a részvények tulajdonosáról olyan részvénykönyvet vezet, amely a következő adatokat tartalmazza:
 
@@ -2501,9 +2536,11 @@ szemben.
 
 az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter részére.
 
-(7) Nem jelenti az üzleti titok sérelmét, ha a Felügyelet eleget tesz a felügyeleti stressz-tesztre vonatkozó kötelezettség végrehajtására, valamint a felügyeleti stressz-teszt eredményeinek az EBH részére való továbbítására abból a célból, hogy az EBH az európai uniós stressz-tesztek eredményeit összegezve nyilvánosságra hozza
+(7) Nem jelenti az üzleti titok sérelmét, ha a Felügyelet eleget tesz a felügyeleti stressz-tesztre vonatkozó kötelezettség végrehajtására, valamint a felügyeleti stressz-teszt eredményeinek az EBH részére való továbbítására abból a célból, hogy az EBH az európai uniós stressz-tesztek eredményeit összegezve nyilvánosságra hozza.
 
-(8) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvényből (a továbbiakban: FATCA-törvény) fakadó kötelezettségek teljesítése érdekében az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé..
+(8) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvényből (a továbbiakban: FATCA-törvény) fakadó kötelezettségek teljesítése érdekében az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
+
+(9) Nem jelenti az üzleti titok sérelmét a szanálási feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: szanálási feladatkörében eljáró MNB) által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti szanálási biztosnak a szanálási biztosi feladatok ellátása érdekében, valamint a független értékelőnek vagy az ideiglenes értékelésben közreműködőnek az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során adatok, információk átadása a lehetséges ajánlattevőknek, valamint a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
 
 #### 71. Banktitok
 
@@ -2612,7 +2649,8 @@ részére,
 - t) a jegybanki feladatkörében eljáró MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás,
 - v) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás, valamint
-- w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti.
+- w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
+- x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
 
 #### 72. Üzleti titok és banktitok közös szabályai
 
@@ -2857,12 +2895,14 @@ a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rend
 
 (14) A felügyeleti felülvizsgálat és értékelés elősegítése érdekében a Felügyelet legalább évente felügyeleti stressz-tesztet végez az általa felügyelt hitelintézetekre vonatkozóan.
 
-(15) A Felügyelet felülvizsgálja és értékeli a hitelintézet helyreállítási tervét. A felülvizsgálatnak a 114. § (2) bekezdésében meghatározott feltételeken kívül ki kell terjednie arra, hogy a helyreállítási tervben foglaltak
+(15) A Felügyelet – az egyes helyreállítási tervek benyújtását követő hat hónapon belül és azon EGT-állam illetékes felügyeleti hatóságával történt egyeztetést követően, amelyben a hitelintézet rendszerszinten jelentős fiókteleppel rendelkezik – felülvizsgálja és értékeli a hitelintézet helyreállítási tervét. A felülvizsgálat a 114. §-ban meghatározott feltételeken kívül kiterjed arra is, hogy a helyreállítási tervben foglaltak alapján megalapozottan valószínűsíthető, hogy
 
-- a) végrehajtása alkalmas a hitelintézet likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a hitelintézet pénzügyi helyzetének stabilizálására, figyelemmel a hitelintézet által megtett és tervezett lépésekre;
-- b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más hitelintézetek is helyreállítási terveket hajtanak végre.
+- a) végrehajtásával fenntartható vagy helyreállítható a hitelintézet vagy a csoport életképessége és pénzügyi helyzete, alkalmas a hitelintézet likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a hitelintézet pénzügyi helyzetének stabilizálására, figyelemmel a hitelintézet által megtett és tervezett lépésekre;
+- b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más hitelintézet is helyreállítási tervet hajt végre.
 
-(16) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a hitelintézetet a helyreállítási terv három hónapon belüli átdolgozására.
+(16) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a hitelintézetet a helyreállítási terv két hónapon belüli átdolgozására, mely határidő egy hónappal meghosszabbítható.
+
+(17) A (16) bekezdés szerinti határozat meghozatala előtt a Felügyelet lehetőséget biztosít a hitelintézet számára, hogy a Felügyelet által feltárt hiányosságok, végrehajtási akadályok tárgyában észrevételt tegyen.
 
 178. § (1) A Felügyelet évente felügyeleti vizsgálati programot fogad el az általa felügyelt, Magyarországon bejegyzett azon hitelintézetek esetében, amelyek
 
@@ -2927,7 +2967,13 @@ a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rend
 
 #### 77. Csoportszintű felügyeleti felülvizsgálat
 
-182. § A 173. § szerint többoldalú eljárás keretében kell eljárni és többoldalú eljárás keretében hozott határozatot kell hozni összevont alapú felügyeleti felülvizsgálat esetén is.
+182. § (1) A 173. § szerinti többoldalú eljárás keretében kell eljárni és többoldalú eljárás keretében hozott határozatot kell hozni az összevont alapú felügyeleti felülvizsgálat esetén is.
+
+(2) A csoportszintű helyreállítási terv felülvizsgálatakor a többoldalú eljárásba azon EGT-állam illetékes felügyeleti hatóságát is be kell vonni, amelyben a csoport tagja rendszerszinten jelentős fiókteleppel rendelkezik.
+
+(3) A csoportszintű helyreállítási terv felülvizsgálata arra is kiterjed, hogy a csoportszintű helyreállítási tervtől függetlenül szükséges-e a csoport egyes tagjainak külön helyreállítási tervet készíteni.
+
+(4) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat leányvállalati hitelintézetének felügyeletét, a többoldalú eljárás eredménytelensége esetén arról is dönthet, hogy a csoportszintű helyreállítási tervtől függetlenül a leányvállalati hitelintézetnek egyedi helyreállítási tervet kell készítenie.
 
 #### 78. Az intézkedések és a kivételes intézkedések alkalmazásának közös szabályai
 
@@ -3035,7 +3081,8 @@ a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rend
   - ce) a hitel- vagy kölcsönszerződésekben foglalt határidők meghosszabbítását (prolongálását),
   - cf) az egyes pénzügyi szolgáltatási tevékenységek vagy kiegészítő pénzügyi szolgáltatási tevékenységek végzését,
   - cg) fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valamint egy pénzügyi szolgáltatáson belül új tevékenység (új üzletág) megkezdését;
-- d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelményekkel.
+- d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelményekkel;
+- e) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
 
 (3) A kirendelt helyszíni ellenőr jogosult
 
@@ -3044,6 +3091,13 @@ a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rend
 - c) konzultálni a pénzügyi intézmény könyvvizsgálójával.
 
 (4) Ha a fióktelep formájában működő hitelintézet eszközfenntartási mutatója száz százalék alá csökken, a Felügyelet kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszközfenntartási mutatóra vonatkozó előírásoknak.
+
+(5) Ha a hitelintézet a Felügyelet határozata ellenére nem nyújt be átdolgozott helyreállítási tervet vagy az átdolgozott helyreállítási terv nem orvosolja a határozatban foglalt hiányosságokat, a Felügyelet kötelezheti a hitelintézetet
+
+- a) kockázatvállalásának – ideértve a likviditási kockázatot is – mérséklésére,
+- b) az esetleges tőkeemelésről szóló döntést korlátozó szabályzatainak felülvizsgálatára,
+- c) irányítási rendszerének felülvizsgálatára,
+- d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók ellenálló képessége növelése érdekében történő felülvizsgálatára.
 
 186. § (1) A Felügyelet a hitelintézet számára többlettőke-követelményt írhat elő, ha
 
@@ -3065,7 +3119,7 @@ a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rend
 
 187. § (1) Ha a Felügyelet rendkívüli intézkedési terv elfogadását is szükségesnek tartja, annak kidolgozására legfeljebb harmincnapos határidőt engedélyezhet.
 
-(2) Ha a rendkívüli intézkedési terv elfogadásához, illetve tőkeemelés szükségessége miatt rendkívüli közgyűlés (küldöttgyűlés) megtartása szükséges, akkor a Felügyelet az (1) bekezdésben meghatározott határidő legfeljebb huszonegy napos meghosszabbítását engedélyezheti. Ha a közgyűlés (küldöttgyűlés) a tőkeemelésről vagy alapvető kölcsöntőke nyújtásáról határozott, e határozat meghozatalától további legfeljebb tizenöt nap engedélyezhető a tőkeösszeg befizetésére.
+(2) Ha a rendkívüli intézkedési terv elfogadásához, illetve tőkeemelés szükségessége miatt rendkívüli közgyűlés (küldöttgyűlés) megtartása szükséges, akkor a Felügyelet az (1) bekezdésben meghatározott határidő legfeljebb huszonegy napos vagy – ha a hitelintézet alapszabálya a 135. § (2) bekezdésében meghatározottak szerint módosult – tíz napos meghosszabbítását engedélyezheti. Ha a közgyűlés (küldöttgyűlés) a tőkeemelésről vagy alapvető kölcsöntőke nyújtásáról határozott, e határozat meghozatalától további legfeljebb tizenöt nap engedélyezhető a tőkeösszeg befizetésére.
 
 188. § A Felügyelet a pénzügyi intézmény részére a rendkívüli intézkedési tervben foglaltak végrehajtása érdekében, meghatározott időre, de legfeljebb egy évre a 79. § (2) bekezdésben, a 101. és 102. §-okban, valamint az 575/2013/EU rendelet 387–403. cikkében foglalt kötelezettségek teljesítése alól felmentést adhat. Ezt a felmentést a Felügyelet egy alkalommal, legfeljebb hat hónapra meghosszabbíthatja.
 
@@ -3344,7 +3398,8 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 - a) a betétes magyar nyelvű tájékoztatása, magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén történő tájékoztatása, amelyben a fióktelepet létrehozták,
 - b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének a Felügyelet által a 33. § (1) bekezdés a) vagy b) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén, vagy az előző szabályok érintése nélkül, amennyiben a szövetkezeti hitelintézet végelszámolásának elhatározására a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/T. § (5) bekezdése alapján kerül sor, a betétes részére a 214. §-ban meghatározott kártalanítási összeg kifizetése, és
-- c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása.
+- c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása,
+- d) a Szantv. alapján a szanálás finanszírozásához történő hozzájárulás.
 
 (2) Az OBA az államtól kapott megbízás alapján ellátja az állam képviseletét az (1) bekezdésben meghatározott feladatkörében az egyezségi tárgyaláson, és a felszámolási eljárás során.
 
@@ -3487,7 +3542,7 @@ betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 (2) Az OBA igazgatótanácsának tagjai:
 
 - a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy;
-- b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (7) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
+- b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (8) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
 - c) a hitelintézetek érdek-képviseleti szervezetei által kijelölt két személy,
 - d) a Szövetkezeti Hitelintézetek Integrációs Szervezetének igazgatósági elnöke által kijelölt személy, továbbá
 - e) az OBA ügyvezetője.
@@ -3841,6 +3896,70 @@ megküldi a Felügyeletnek.
 257. § (1) Törvény kimondhatja intézményvédelmi integrációs szervezet létrehozását (kötelező intézményvédelmi szervezet).
 
 (2) A kötelező intézményvédelmi szervezet szervezetének és működésének szabályait törvény határozza meg.
+
+### XI/A. Fejezet — CSOPORTON BELÜLI PÉNZÜGYI TÁMOGATÁS
+
+#### 112/A. Csoportszintű pénzügyi támogatási megállapodás
+
+257/A. § (1) Az összevont alapú felügyelet alá tartozó hitelintézet, valamint mindazon vállalkozás, amelyre az összevon talapú felügyelet kiterjed, az e Fejezet meghatározottak szerint csoportszintű pénzügyi támogatási megállapodást köthet arról, hogy a megállapodásban részes fél a Felügyelet által alkalmazható intézkedést, kivételes intézkedést – ideértve a másik EGT-állam illetékes felügyeleti hatóságának intézkedését, kivételes intézkedését is – kiváltó esemény teljesülésekor a csoport intézkedéssel, kivételes intézkedéssel érintett tagjának pénzügyi támogatást nyújt.
+
+(2) Az e Fejezetben foglaltak nem érintik a csoporton belüli
+
+- a) finanszírozási rendszereket, és
+- b) eseti jellegű pénzügyi támogatásokat, ha a támogatás nem jelent kockázatot a csoport egészének.
+
+(3) A csoportszintű pénzügyi támogatási megállapodás a csoporthoz tartozó egy vagy több olyan leányvállalatra terjedhet ki, amelyre az összevont alapú felügyelet kiterjed és
+
+- a) az anyavállalat által a leányvállalatnak nyújtott támogatásról,
+- b) a leányvállalat által az anyavállalatnak nyújtott támogatásról, valamint
+- c) a leányvállalatok egymás között nyújtott támogatásáról
+
+rendelkezhet.
+
+(4) A csoportszintű pénzügyi támogatási megállapodás alapján történő támogatás lehet hitel, garanciavállalás valamint biztosítékként használható eszközök átruházása.
+
+(5) Ha a csoportszintű pénzügyi támogatási megállapodás alapján a csoport valamely tagja pénzügyi támogatást nyújthat a csoport másik tagjának, a csoportszintű pénzügyi támogatási megállapodás a másik tag támogatásra vonatkozó viszonossági kötelezettségét is tartalmazhatja.
+
+(6) A csoportszintű pénzügyi támogatási megállapodásnak tartalmaznia kell a nyújtható támogatás miatt fizetendő ellenérték számítási elveit is azzal, hogy az ellenértéket a támogatás nyújtásának időpontjában kell meghatározni.
+
+(7) A csoportszintű pénzügyi támogatásnak meg kell felelnie az alábbi elveknek:
+
+- a) a csoport minden tagja szabadon dönthet a megállapodás megkötéséről,
+- b) a megállapodás megkötése és a pénzügyi támogatás nyújtásáért fizetendő ellenérték meghatározása során a csoport minden tagja a saját érdekei szerint cselekszik, amelybe beletartozhat minden közvetlen vagy közvetett előny, amelyben a pénzügyi támogatás nyújtásának következtében valamely tag részesül,
+- c) a csoport támogatást nyújtó tagjának minden szükséges információt meg kell kapnia a támogatásban részesülőtől még a fizetendő ellenérték meghatározása, valamint a támogatás nyújtásáról szóló döntés meghozatala előtt,
+- d) a támogatás nyújtásáért fizetendő ellenérték meghatározásakor figyelembe vehetők azok a piacon hozzá nem férhető információk is, amelyekkel a támogatást nyújtó fél rendelkezik abból eredően, hogy ugyanazon csoport tagja, mint a támogatásban részesülő, valamint
+- e) a támogatás nyújtásáért fizetendő ellenérték számítási elveibe nem tartozik bele az a kötelezettség, hogy figyelembe vegyék a csoporton kívüli eseményeknek a piaci árakra gyakorolt várható ideiglenes hatását.
+
+(8) A csoportszintű pénzügyi támogatási megállapodás megkötésének feltétele, hogy az szerződés időpontjában a megállapodó felek egyike sincs abban a helyzetben, hogy vele szemben az illetékes felügyeleti hatóság intézkedést, kivételes intézkedést alkalmazzon.
+
+257/B. § (1) A csoportszintű pénzügyi támogatásra vonatkozó megállapodás megkötéséhez – határon átnyúló csoport esetében – az illetékes felügyeleti hatóságok 173. § szerinti többoldalú eljárás keretében hozott határozata szükséges.
+
+(2) Az (1) bekezdésben meghatározott döntést követően a megállapodás tervezetét a részes félként szereplő tagok tulajdonosainak kétharmados szótöbbséggel is jóvá kell hagynia azzal, hogy a megállapodás kizárólag a csoport azon tagjait kötelezi, akiknél a tulajdonosok jóváhagyásukat megadták, illetve azt nem vonták vissza.
+
+(3) A megállapodásban részes fél irányítási jogkörrel rendelkező vezető testülete évente beszámol a tulajdonosainak a megállapodás teljesüléséről és a megállapodás alapján hozott döntések végrehajtásáról.
+
+#### 112/B. A csoporton belüli pénzügyi támogatás nyújtása
+
+257/C. § A csoportszintű pénzügyi támogatási megállapodás alapján a csoport tagja kizárólag az alábbi feltételekkel nyújthat támogatást:
+
+- a) megalapozottan valószínűsíthető, hogy a támogatás jelentős mértékben orvosolja a támogatást kapó pénzügyi nehézségét,
+- b) a támogatás célja a csoport vagy a csoport tagja pénzügyi stabilitásának megőrzése vagy helyreállítása, melyben a támogatást nyújtó is érdekelt,
+- c) a támogatás nyújtásáról szóló döntés meghozatalakor a támogatást nyújtó irányítási jogkörrel rendelkező vezető testületének rendelkezésére álló információk alapján megalapozottan valószínűsíthető, hogy a támogatás ellenértéke megfizetésre kerül,
+- d) a támogatás nem veszélyezteti a támogatás nyújtójának likviditását és fizetőképességét, valamint a székhelye szerinti EGT-állam pénzügyi stabilitását,
+- e) a támogatás nyújtója a támogatás nyújtásának időpontjában megfelel a prudens működésre vonatkozó jogszabályi követelményeknek, ideértve a nagykockázatra vonatkozó rendelkezéseket is, és
+- f) a támogatás nyújtása nem veszélyezteti a támogatást nyújtó szanálhatóságát.
+
+257/D. § (1) A csoportszintű pénzügyi támogatási megállapodás alapján történő támogatást a támogatásban részes felek irányítási jogkörrel rendelkező vezető testülete hagyja jóvá.
+
+(2) A jóváhagyásban meg kell határozni a támogatás célját, valamint rögzíteni kell, hogy a támogatás megfelel a 257/C. §-ban foglalt feltételeknek.
+
+257/E. § (1) A támogatás nyújtásához az illetékes felügyeleti hatóság jóváhagyása kell.
+
+(2) Ha a támogatást a csoport magyarországi székhelyű tagja kívánja nyújtani, az engedélyt a Felügyelet adja meg azzal, hogy az engedélyt kérő a kérelméről a támogatásban részes másik fél illetékes felügyeleti hatóságát, valamint az EBH-t is értesíti. A kérelemnek valamint az értesítésnek tartalmaznia kell a 257/D. § (2) bekezdésében foglaltakat.
+
+(3) A Felügyelet a kérelemről öt munkanapon belül dönt.
+
+(4) A Felügyelet döntéséről értesíti a támogatásban részes fél illetékes felügyeleti hatóságát valamint az EBH-t.
 
 ### XII. Fejezet — A PÉNZÜGYI INTÉZMÉNYEK SZÁMVITELE ÉS KÖNYVVIZSGÁLATA
 
@@ -4260,7 +4379,7 @@ vonatkozó részletes szabályokat.
 - g) 481. cikk (5) bekezdésének megfelelően az elsődleges alapvető tőkeelemekre, az alapvető tőkeelemekre, a járulékos tőkeelemekre és a szavatolótőke-elemekre a 2013. december 31-ig hatályos jogszabályok által előírt, de az 575/2013/EU rendeletben nem szereplő szűrők és levonások átmeneti alkalmazására vonatkozó százalékos arányokat,
 - h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembe vehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembe vételére vonatkozó százalékos arányokat.
 
-(5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a kiterjesztett teljesítmény-javadalmazás kifizetésének jelenértéke meghatározásához alkalmazandó diszkontrátát.
+(5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
 
 #### 129. Hatályba léptető rendelkezések
 
