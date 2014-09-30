@@ -556,7 +556,10 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 - a)–b)
 - c)–h)
 
-(31)
+(31) Az Üt.
+
+- a)–g)
+- h)–i)
 
 (32)
 
@@ -1385,11 +1388,13 @@ lép hatályba.
 
 (6) A 31. § (2) bekezdése és a 37. § (2) bekezdése 2014. szeptember 1-jén lép hatályba.
 
-(6a) A 100. § (4), (5), valamint (7) bekezdése 2014. november 1-jén lép hatályba.
+(6a) A 100. § (9), (10), (19), (23) és (28) bekezdése, valamint (31) bekezdés h) és i) pontja 2015. május 1-jén lép hatályba.
+
+(6b) A 100. § (4), (5), (7) bekezdése, valamint (31) bekezdés a)–g) pontja külön törvényben meghatározott időpontban lép hatályba.
 
 (7) A 39. § (2) bekezdése 2014. december 31-én lép hatályba.
 
-(8) A 77. § (1) és (2) bekezdése, a 100. § (9) és (10), (19), (23), (28), valamint (31) bekezdése, a 112. § (33) bekezdése, a 130. § (8) és (16) bekezdése és a 154. § (15) bekezdése 2015. január 1-jén lép hatályba.
+(8) A 77. § (1) és (2) bekezdése, a 112. § (33) bekezdése, a 130. § (8) és (16) bekezdése és a 154. § (15) bekezdése 2015. január 1-jén lép hatályba.
 
 (9) A 130. § (22) bekezdése 2015. január 2-án lép hatályba.
 

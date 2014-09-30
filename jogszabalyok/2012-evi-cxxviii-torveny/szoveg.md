@@ -121,7 +121,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - l) a minőségi minimumkövetelmények, valamint a csomagolásra és a kiszerelésre vonatkozó minimumszabályok meghatározása;
 - m) minősített vetőmag használata és a termékminőség ellenőrzése.
 
-(3) Azon piacszervezési intézkedés kiterjesztése kezdeményezhető, amely a kérelem beadásának időpontjában már legalább egy éve hatályban van.
+(3)
 
 (4) Piacszervezési intézkedés kiterjesztése legfeljebb három gazdasági évre alkalmazható.
 
@@ -323,7 +323,9 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - l) a szakértői tevékenység bejelentésével és szaktanácsadói tevékenység engedélyezésével kapcsolatos igazgatási szolgáltatási díjak mértékét és megfizetésének szabályait az adópolitikáért felelős miniszterrel egyetértésben,
 - m) a szakmaközi szervezet által működtetett adatbázishoz kapcsolódó adatszolgáltatás kiterjesztésével kapcsolatos szabályokat, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját rendeletben állapítsa meg.
 
-24–26. §
+24. § Az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvénnyel hatályon kívül helyezett 9. § (3) bekezdését a hatályon kívül helyezés időpontjában már benyújtott, de még el nem bírált kiterjesztés iránti kérelmek esetében sem kell alkalmazni.
+
+25–26. §
 
 27. § Ez a törvény
 

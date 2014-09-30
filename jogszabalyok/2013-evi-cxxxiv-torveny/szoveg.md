@@ -14,7 +14,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (6) Az állami szerv az ideiglenes ellátásra irányuló kijelölés során az ellátás hatékonyságához, gyorsaságához, gazdaságosságához fűződő közérdeket, továbbá a lakosság méltányos érdekeit veszi figyelembe.
 
-(7) Ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb 9 hónapos időtartamra történhet. A kijelölés egy alkalommal, legfeljebb 3 hónappal meghosszabbítható.
+(7) Az ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb kilenc hónapos időtartamra történhet. A kijelölés ezt követően három havonként, legfeljebb egy éves időtartammal meghosszabbítható
 
 (8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a hulladékgazdálkodási közszolgáltatási engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
 

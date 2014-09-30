@@ -140,18 +140,18 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 (2) A Nemzeti Média- és Hírközlési Hatóság elnöke (a továbbiakban: Elnök) ellátja az (1) bekezdés b), d)–g), valamint x)–v) pontjában meghatározott hatáskörökből eredő feladatokat, továbbá elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását. A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) eljár az (1) bekezdés a) c) j), valamint l)–u), pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A Nemzeti Média- és Hírközlési Hatóság főigazgatója (a továbbiakban: főigazgató) eljár az (1) bekezdés i) és k) pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
 
-11. § (1) A rádiótávközlési és rádióspektrum-politika érvényesítése érdekében a Hatóság, mint polgári frekvenciagazdálkodó hatóság, valamint a Hatóság önálló hatáskörrel rendelkező szervezeti egysége, a Közigazgatási Frekvenciagazdálkodási Hatóság (a továbbiakban: KFGH), mint nem polgári frekvenciagazdálkodó hatóság (a továbbiakban együtt: frekvenciagazdálkodó hatóságok) műszaki tervet készít a szabályozás előkészítése érdekében:
+11. § (1) A rádiótávközlési és rádióspektrum-politika érvényesítése érdekében a Hatóság, mint frekvenciagazdálkodó hatóság polgári és nem polgári frekvenciagazdálkodási szempontokat összehangolva műszaki tervet készít a szabályozás előkészítése érdekében:
 
-- a) a frekvenciasávok újrafelosztására, illetőleg átrendezésére;
+- a) a frekvenciasávok újrafelosztására, illetve átrendezésére;
 - b) a frekvenciák kiosztására (csatornakiosztási tervek);
 - c) az egyes rádióalkalmazásokra vonatkozó használati feltételekre;
 - d) a frekvenciahasználat feltételeire.
 
 (2) A Hatóságnak a frekvenciák káros zavarástól mentes felhasználása és a nemzetközi kötelezettségek érvényesítése érdekében szükség szerint operatív nemzetközi frekvenciakoordinációt kell végezni.
 
-(3) A frekvenciagazdálkodó hatóságok kötelesek a frekvenciahasználattal kapcsolatos nemzeti, illetve nemzetközi megállapodásokon alapuló nemzetközi rádiómegfigyelést, ellenőrzést, felderítést, zavarvizsgálati és zavarelhárítási tevékenységet végezni, amelynek során jogosultak a rádióadások műszaki-forgalmi megfigyelésére és azok rögzítésére, jogszabályban meghatározott feltételek szerint.
+(3) A Hivatal köteles a frekvenciahasználattal kapcsolatos nemzeti, illetve nemzetközi megállapodásokon alapuló nemzetközi rádiómegfigyelést, ellenőrzést, felderítést, zavarvizsgálati és zavarelhárítási tevékenységet végezni, amelynek során jogosult a rádióadások műszaki-forgalmi megfigyelésére és azok rögzítésére, jogszabályban meghatározott feltételek szerint.
 
-(4) A hírközlés védelme, a frekvenciahasználat hatékonysága és káros zavarástól való mentessége, valamint az elektromágneses összeférhetőség (EMC) biztosítása céljából a frekvenciagazdálkodó hatóságok rádiómérő és rádió-zavarelhárító szolgálatot tartanak fenn.
+(4) A hírközlés védelme, a frekvenciahasználat hatékonysága és káros zavarástól való mentessége, valamint az elektromágneses összeférhetőség (EMC) biztosítása céljából a Hivatal rádiómérő és rádió-zavarelhárító szolgálatot tart fenn.
 
 11/A. § (1) Az Elnök a frekvenciasávok felhasználására vonatkozó szabályok megalkotása során a következő szempontok vizsgálatát követően ír elő egyedi engedélyezési kötelezettséget:
 
@@ -291,7 +291,7 @@ kapcsolatos eljárásokban.
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-23. § A Hatóság a nem polgári célú frekvenciagazdálkodási hatósági eljárások kivételével, figyelemmel a 44. § (8) bekezdésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit e törvényben foglalt eltérésekkel alkalmazza.
+23. § A Hatóság a nem polgári célú frekvenciagazdálkodási hatósági eljárások kivételével a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit e törvényben foglalt eltérésekkel alkalmazza.
 
 ### Eljárási alapelvek
 
@@ -625,7 +625,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (7) A Hivatal a (6) bekezdés szerinti határozata ellen benyújtott keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság, a keresetlevél bírósághoz történő – Hivatal általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással fellebbezésnek van helye a Fővárosi Törvényszékhez, azzal, hogy a fellebbezés benyújtására meghatározott határidőn belül a fellebbezésnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Fővárosi Törvényszék a fellebbezést negyvenöt napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Törvényszék határozatával szemben perújításnak, felülvizsgálati kérelemnek nincs helye. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Fővárosi Törvényszék soron kívül jár el.
 
-(8) A KFGH határozata ellen nincs helye fellebbezésnek. Akinek jogát vagy jogos érdekét a KFGH-nak az ügy érdemében hozott határozata sérti, keresettel kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól annak felülvizsgálatát. A bírósági felülvizsgálattal kapcsolatban, egyebekben a 45–46. §-ban foglaltak megfelelően irányadók.
+(8)
 
 ### Az Elnök döntése elleni jogorvoslat
 
@@ -815,7 +815,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (1d) Amennyiben a 44. § (6)–(7) bekezdése szerint az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A bírósági felülvizsgálati eljárás időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (1c) bekezdés a) és b) pontjában meghatározott ügyintézési határidejébe nem számít bele.
 
-(2) A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, és rádióengedélyt, valamint árverés, illetve pályázat esetén frekvenciahasználati jogosultságot a Hatóság, a nem polgári célú frekvenciakijelölést, illetve rádióengedélyt a Hatóság a nem polgári célú frekvenciagazdálkodó, önálló hatáskörrel rendelkező szervezeti egysége, a KFGH útján adja ki.
+(2) A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést és rádióengedélyt, valamint versenyeztetési eljárás esetén frekvenciahasználati jogosultságot, továbbá a nem polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, illetve rádióengedélyt a Hivatal adja ki.
 
 (2a) A frekvenciahasználati jogosultság versenyeztetési eljárás során (árverés, pályázat) történő megszerzéséhez a kiírási dokumentációban – a személyi (részvételi), alaki és tartalmi feltételek mellett – a tényleges verseny előmozdítása és a verseny torzulásainak elkerülése szempontjából különösen a következő feltételek, kötelezettségek köthetők ki, valamint a frekvenciahasználati jogosultság fennállása alatt különösen a következő intézkedések tehetők:
 
@@ -2308,7 +2308,7 @@ köteles biztosítani.
 
 (4) Egy előfizetőnek vagy felhasználónak elektronikus hírközlő végberendezésén csak az érintett felhasználó vagy előfizető világos és teljes körű – az adatkezelés céljára is kiterjedő – tájékoztatását követő hozzájárulása alapján lehet adatot tárolni, vagy az ott tárolt adathoz hozzáférni.
 
-(5) A nyomozó hatóságok és a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a frekvenciagazdálkodó hatóságok – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
+(5) A nyomozó hatóságok és a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a Hivatal – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
 
 (6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, védett telefonszámait érintő adatszolgáltatási megkeresésekről.
 

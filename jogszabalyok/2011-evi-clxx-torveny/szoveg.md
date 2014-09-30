@@ -10,27 +10,29 @@ Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget te
 
 1. § E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában
 
-- a) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
-- b) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét, és 2013. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2013. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is, ha az áthidaló kölcsönszerződésből eredő tartozás 2013. január 1-jén fennállt,
-- c) hitelező: az a pénzügyi intézmény és az a pénzügyi intézménynek nem minősülő jogosult, akinek javára a lakóingatlanon jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
-- d) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés – ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést, továbbá a jogszabályon alapuló állami készfizető kezességvállalással érintett kölcsönszerződéseket is –, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
-- e) hozzátartozó: a házastárs, élettárs, szülő, gyermek, örökbefogadott, mostoha- és nevelt gyermek, örökbefogadó, mostoha- és nevelőszülő,
-- f) lakóingatlan: a lakás céljára létesített és egy vagy több helyrajzi számon nyilvántartott vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
-  - fa) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel és egyéb építményekkel,
-  - fb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
-- g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
-- h) lakhatási célú ingatlan: az állam által épített és az állam tulajdonába tartozó olyan ingatlan, amely a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgálja,
-- i) természetes személy:
-  - ia) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
-  - ib) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
-  - ic) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján bevándorolt vagy letelepedett jogállással rendelkezik,
-  - id) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el,
-- j) végrehajtás alá vont ingatlan: az a lakóingatlan, amelyet – a végrehajtási jog ingatlan-nyilvántartásba történő bejegyzésével – végrehajtás alá vontak,
-- k) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
-- l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésében lévő
-  - la) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
-  - lb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt vagy
-  - lc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.
+- a) életjáradékra jogosult: az a természetes személy, aki az életjáradék nyújtójával megkötött, ügyvéd által ellenjegyzett szerződés alapján a tulajdonában álló lakóingatlan tulajdonjogát az életjáradék nyújtójára átruházta, ennek fejében haláláig havi rendszerességgel a szerződésben meghatározott pénzösszegre (a továbbiakban: járadék) jogosult,
+- b) életjáradék nyújtója: életjáradéki szerződés megkötésével üzletszerűen foglalkozó olyan magyarországi székhelyű gazdasági társaság, amelynek tevékenységét a pénzügyi közvetítőrendszer felügyeletét ellátó állami hatóság felügyeli,
+- c) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
+- d) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét, és 2013. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2013. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is, ha az áthidaló kölcsönszerződésből eredő tartozás 2013. január 1-jén fennállt,
+- e) hitelező: az a pénzügyi intézmény és pénzügyi intézménynek nem minősülő jogosult, akinek javára a lakóingatlanon jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
+- f) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés – ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést, továbbá a jogszabályon alapuló állami készfizető kezességvállalással érintett kölcsönszerződéseket is –, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
+- g) hozzátartozó: a házastárs, élettárs, szülő, gyermek, örökbefogadott, mostoha- és nevelt gyermek, örökbefogadó, mostoha- és nevelőszülő,
+- h) lakóingatlan: a lakás céljára létesített és egy vagy több helyrajzi számon nyilvántartott vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
+  - ha) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel és egyéb építményekkel,
+  - hb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
+- i) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
+- j) lakhatási célú ingatlan: az állam által épített és az állam tulajdonába tartozó olyan ingatlan, amely a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgálja,
+- k) természetes személy:
+  - ka) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
+  - kb) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
+  - kc) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján bevándorolt vagy letelepedett jogállással rendelkezik,
+  - kd) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el,
+- l) végrehajtás alá vont ingatlan: az a lakóingatlan, amelyet – a végrehajtási jog ingatlan-nyilvántartásba történő bejegyzésével – végrehajtás alá vontak,
+- m) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
+- n) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésében lévő
+  - na) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
+  - nb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt, vagy
+  - nc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.
 
 ### II. Fejezet — A NEMZETI ESZKÖZKEZELŐ
 
@@ -54,11 +56,12 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 3. § (1) A Nemzeti Eszközkezelő
 
 - a) a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – megvételre felajánlott, a hiteladós vagy a zálogkötelezett lakhatását biztosító lakóingatlant az állam nevében és javára megvásárolja,
-- b) az általa megvásárolt lakóingatlan vonatkozásában eljár az állam tulajdonjogának ingatlan-nyilvántartási bejegyzése érdekében,
-- c) az általa megvásárolt lakóingatlan, a lakhatási célú ingatlan és a tartalék ingatlan (a továbbiakban együtt: ingatlan) felett vagyonkezelői jogot gyakorol,
-- d) a vagyonkezelésében lévő állami vagyont közvetlenül vagy magánjogi szerződés útján hasznosítja,
-- e) a vagyonkezelésében lévő állami vagyonnal kapcsolatos magánjogi jogviszonyokban képviseli az államot,
-- f) az állami feladatok ellátása során az állami vagyont használó természetes személyek részére az állami tulajdon használatához szükséges szolgáltatásokat nyújt.
+- b) az életjáradék nyújtójának tulajdonjogát megszerezve hosszú távon biztosítja, hogy az életjáradékra jogosultnak az életjáradékra való jogosultsága és egyben a lakhatását biztosító lakóingatlan használati joga az életjáradéki szerződés szabályai szerint az életjáradékra jogosult haláláig folyamatosan fennálljon,
+- c) az általa megvásárolt lakóingatlan vonatkozásában eljár az állam tulajdonjogának ingatlan-nyilvántartási bejegyzése érdekében,
+- d) az általa megvásárolt lakóingatlan, a lakhatási célú ingatlan és a tartalék ingatlan (a továbbiakban együtt: ingatlan) felett vagyonkezelői jogot gyakorol,
+- e) a vagyonkezelésében lévő állami vagyont közvetlenül vagy magánjogi szerződés útján hasznosítja,
+- f) a vagyonkezelésében lévő állami vagyonnal kapcsolatos magánjogi jogviszonyokban képviseli az államot,
+- g) az állami feladatok ellátása során az állami vagyont használó természetes személyek részére az állami tulajdon használatához szükséges szolgáltatásokat nyújt.
 
 (2) A Nemzeti Eszközkezelő az (1) bekezdésben meghatározott feladatait az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével, a rendelkezésére álló források erejéig látja el.
 
@@ -118,7 +121,7 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (4) A Nemzeti Eszközkezelő a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – megvételre felajánlott, pénzügyi intézmény javára bejegyzett jelzáloggal terhelt lakóingatlant a hiteladós, illetve zálogkötelezett erre vonatkozó – jogszabályban meghatározott bizottság (a továbbiakban: méltányossági bizottság) által elbírált – méltányossági kérelme alapján abban az esetben is megvásárolja, ha
 
-- a) a hiteladós pénzügyi intézménnyel szemben fennálló jelzáloghitel-szerződéséből eredő késedelmes tartozásának összege vagy a késedelem időtartama – a viszonyítás időpontjára tekintet nélkül – az 1. § b) pontjában meghatározott mértéket nem éri el,
+- a) a hiteladós pénzügyi intézménnyel szemben fennálló jelzáloghitel-szerződéséből eredő késedelmes tartozásának összege vagy a késedelem időtartama – a viszonyítás időpontjára tekintet nélkül – az 1. § d) pontjában meghatározott mértéket nem éri el,
 - b) az (1) bekezdés a)–e) és g) pontjában meghatározott valamely feltétel nem áll fenn, vagy
 - c) az (1) bekezdés f) pontjában meghatározott feltételtől eltérően a jelzáloghitel-szerződés fedezetét két lakóingatlan képezi, amelyek közül az egyik a hiteladós, a másik a zálogkötelezett tulajdonában áll és a hiteladós és a zálogkötelezett is vállalja, hogy a Nemzeti Eszközkezelővel bérleti szerződést köt.
 
@@ -167,7 +170,7 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 12. § (1) A pénzügyi intézmény a szándéknyilatkozat benyújtásától számított 8 napon belül megvizsgálja, hogy a 8. § (1) bekezdés a)–h) pontjában meghatározott feltételek fennállnak-e, és erről a hiteladóst, valamint ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettet írásban tájékoztatja.
 
-(1a) Ha a pénzügyi intézmény az (1) bekezdés szerinti vizsgálat során megállapítja, hogy a 8. § (1) bekezdés a)–g) pontjában meghatározott valamely feltétel vagy az 1. § b) pontjának a tartozás késedelmére vonatkozó feltétele nem teljesül és a hiányok pótlására nincs mód, a pénzügyi intézmény felhívja a hiteladóst és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet a méltányossági kérelem benyújtásának lehetőségére.
+(1a) Ha a pénzügyi intézmény az (1) bekezdés szerinti vizsgálat során megállapítja, hogy a 8. § (1) bekezdés a)–g) pontjában meghatározott valamely feltétel vagy az 1. § d) pontjának a tartozás késedelmére vonatkozó feltétele nem teljesül és a hiányok pótlására nincs mód, felhívja a hiteladóst és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet a méltányossági kérelem benyújtásának lehetőségére.
 
 (2) A pénzügyi intézmény a szándéknyilatkozat benyújtásától számított legkésőbb 30 napon belül dönt arról, hogy a lakóingatlan tulajdonjogának átruházásához előzetes elvi hozzájárulását adja. Ha a pénzügyi intézmény a tulajdonjog átruházásához nem járul hozzá, erről haladéktalanul tájékoztatja a hiteladóst, és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet.
 
@@ -296,7 +299,7 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
 
-(3) Az 1. § h) pont hb) alpontja alapján a lakhatási célú ingatlanban elhelyezett természetes személlyel a Nemzeti Eszközkezelő használati megállapodást köt.
+(3) A lakhatási célú ingatlanban elhelyezett természetes személlyel az 1. § n) pont nc) alpontja esetében a Nemzeti Eszközkezelő használati megállapodást köt.
 
 23. § A lakásbérleti szerződés létrejöttére, tartalmára és megszűnésére a Lakástörvény szabályait a következő eltérésekkel kell alkalmazni:
 
@@ -320,6 +323,17 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 24. § (1) A Nemzeti Eszközkezelő a lakásbérleti szerződést felmondhatja, ha a bérlő vagy a háztartás más tagja az adásvételi szerződés megkötése érdekében hamisított vagy valótlan tartalmú iratokkal, nyilatkozatokkal a Nemzeti Eszközkezelőt megtévesztette.
 
 (2) Ha lakásbérleti jogviszony megszűnik, az üresen maradt ingatlanra a Nemzeti Eszközkezelő más, e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő bérlővel bérleti szerződést köthet.
+
+### IV/A. Fejezet — AZ ÉLETJÁRADÉK PROGRAM
+
+24/A. § (1) A Nemzeti Eszközkezelő az életjáradék nyújtóját jogosult az állam nevében és javára abban az esetben megvásárolni, ha az életjáradék nyújtója
+
+- a) nem áll végelszámolás alatt, vonatkozásában csődeljárás elrendeléséről szóló bírósági végzést nem tettek közzé vagy ellene felszámolási eljárást jogerősen nem rendeltek el,
+- b) nem áll a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény alapján a bíróság jogerős ítéletében megállapított szankció hatálya alatt és erre irányuló eljárás sem folyik ellene,
+- c) tulajdonjoga az életjáradékra jogosultaktól megvásárolt valamennyi ingatlanra a földhivatali nyilvántartásban szabályszerűen bejegyzésre került, és
+- d) az életjáradék nyújtójának piaci értékét független, nemzetközileg elismert könyvvizsgáló értékelő meghatározta, és a vételár ezt az értéket nem haladja meg.
+
+(2) Ha a lakóingatlanban életjáradékra jogosult lakik, a Nemzeti Eszközkezelő vagyonkezelése során a bentlakó részére az életjáradéki szerződés szabályai szerinti ingyenes lakáshasználatot köteles biztosítani és csak e használat megszűnését követően jogosult a 7. § (2) bekezdése szerinti jogosultságait gyakorolni.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

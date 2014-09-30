@@ -857,7 +857,13 @@ fogadhat el.
 - c) csődeljárás esetén az eljáró bíróság nevét, a bíróság által kirendelt vagyonfelügyelő nevét, hivatali levelezési címét,
 - d) felszámolási eljárás esetén a bíróság által kirendelt felszámoló, továbbá a felszámoló által kijelölt felszámolóbiztos nevét, hivatali levelezési címét, a területi kamara által kijelölt irodagondnok nevét, hivatali levelezési címét.
 
-(8) Az ügyvédi iroda köteles számviteli beszámolóját a közzététele céljából megküldeni a területi kamara részére.
+(8) Az ügyvédi iroda köteles számviteli beszámolóját annak közzététele céljából a területi kamara szabályzatában meghatározott módon az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig megküldeni a területi kamara részére.
+
+(9) Ha a területi kamara szabályzata elektronikus benyújtásról rendelkezik, a számviteli beszámoló elektronikus okiratként történő elkészítése nem jogosít a beszámoló összeállítását (formáját, szerkezetét, tagolását) illetően a számvitelről szóló törvényben előírt rendelkezésektől való eltérésre.
+
+(10) Ha az ügyvédi iroda a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott és a beszámolót a területi kamara szabályzatának megfelelően elektronikus úton küldi meg a területi kamarának, akkor a benyújtó személy a benyújtással egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben a benyújtó a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és ha a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a területi kamara felhívására bemutatni.
+
+(11) A beszámolóhoz mellékelni kell az adózott eredmény felhasználására vonatkozó határozatot, valamint kötelező könyvvizsgálat esetén a független könyvvizsgálói jelentést is.
 
 ### Felelősség az iroda kötelezettségéért
 
@@ -1683,7 +1689,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - f) a bíróság által kirendelt vagyonfelügyelő vagy felszámoló nevéről, hivatali levelezési címéről,
 - g) az ügyvédi iroda névjegyzékből való törlésének időpontjáról.
 
-(9) A területi kamara az ügyvédi irodának a (3) bekezdés a)–f) pontjában, valamint a (8) bekezdés d)–g) pontjában foglalt adatait, valamint a közzététel céljából részére megküldött számviteli beszámolóját a honlapján közzéteszi.
+(9) A területi kamara az ügyvédi irodának a (3) bekezdés a)–f) pontjában, valamint a (8) bekezdés d)–g) pontjában foglalt adatait, valamint a közzététel céljából részére megküldött számviteli beszámolóját a honlapján közzéteszi. A területi kamara a honlapján a közzététel céljából megküldött beszámolókat haladéktalanul és ingyenesen megismerhetővé teszi és biztosítja, hogy azok a honlapon az ügyvédi iroda nevének megadásával, keresőprogram segítségével is megismerhetőek legyenek. A beszámolót, illetve annak elektronikus másolatát a területi kamara őrzi. A beszámolót úgy kell megőrizni, hogy az kizárja az utólagos módosítás lehetőségét, folyamatosan biztosított legyen az ahhoz való hozzáférés, valamint az elektronikus okirat értelmezhetősége (olvashatósága). Az elektronikus okiratot védeni kell a jogosulatlan hozzáférés, módosítás, törlés vagy megsemmisítés ellen is. A területi kamara a számviteli beszámoló megküldésének és közzétételének szabályait szabályzatban határozza meg.
 
 (10) A Magyar Ügyvédi Kamara az (1), (2) és (3) bekezdésben felsorolt adatokról központi nyilvántartást vezet.
 
@@ -1806,9 +1812,9 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 130/B. § (1) E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel (a továbbiakban: Módtv.) megállapított 20. § (4a) bekezdését, 76. § (6a) bekezdését, 76. § (7a)–(7c) bekezdését, valamint 76. § (7e)–(7h) bekezdését a 2014. március 15-ét követően kezdeményezett jogutód nélküli megszüntetésre irányuló eljárásokban kell alkalmazni. E törvénynek a Módtv.-vel megállapított 76. § (7d) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő csődeljárásban és felszámolási eljárásban is alkalmazni kell.
 
-(2) E törvénynek a Módtv.-vel megállapított 30/A. §-ában foglaltakat – a (3) bekezdésben foglalt kivétellel – a 2014. december 31-ét követően megkötött letéti szerződésekre kell alkalmazni.
+(2) E törvénynek a Módtv.-vel megállapított 30/A. §-ában foglaltakat – a (3) bekezdésben foglalt kivétellel – a 2015. április 30-át követően megkötött letéti szerződésekre kell alkalmazni.
 
-(3) Az ügyvéd a 2015. január 1-jén hatályos összes pénzletétre vonatkozó ügyvédi letéti szerződését köteles 2015. június 30-ig e törvénynek a Módtv.-vel megállapított 30/A. §-ában foglaltak szerint a területi kamara letéti nyilvántartásában rögzíteni.
+(3) Az ügyvéd a 2015. május 1-jén hatályos összes pénzletétre vonatkozó ügyvédi letéti szerződését köteles 2015. december 31-ig e törvénynek a Módtv.-vel megállapított 30/A. §-ában foglaltak szerint a területi kamara letéti nyilvántartásában rögzíteni.
 
 (4) E törvénynek a Módtv.-vel megállapított 68. § (8) bekezdése, valamint 116. § (9) bekezdése szerinti, az ügyvédi iroda számviteli beszámolójának beküldésére és közzétételére vonatkozó kötelezettséget először a 2014. évi számviteli beszámoló tekintetében kell teljesíteni.
 

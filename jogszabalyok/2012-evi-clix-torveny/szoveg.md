@@ -278,9 +278,19 @@ szerződést nem köthet. A postai szolgáltató a már megkötött szerződése
 
 14. § (1) Az egyetemes postai szolgáltatás biztosítása állami feladat, melynek az állam az egyetemes postai szolgáltató útján tesz eleget.
 
+(1a) Az egyetemes postai szolgáltató az általa nyújtott egyetemes postai szolgáltatás teljesítése érdekében szerződést köthet egy vagy több – postai szolgáltatónak nem minősülő – szervezettel (a továbbiakban: partnerszervezet) oly módon, hogy az egyetemes postai szolgáltatás keretében végzett és egyetemes postai szolgáltatás részét képező gyűjtési, feldolgozási, szállítási, valamint a címhelyen való kézbesítési tevékenységet az egyetemes postai szolgáltató látja el.
+
+(1b) Az egyetemes postai szolgáltató az (1a) bekezdés szerinti szerződésben kötelezheti a partnerszervezetet meghatározott arculati elemek használatára, valamint az e szerződés szerinti tevékenység felfüggesztésére azon időszakban, amikor az egyetemes postai szolgáltatás a 34. § (1) bekezdése szerint szünetel vagy korlátozott.
+
+(1c) A partnerszervezet az (1a) bekezdés szerinti szerződés alapján ellátott, az egyetemes postai szolgáltatás teljesítése érdekében kifejtett tevékenységet a saját nevében végzi azzal, hogy az (1a) bekezdés szerinti szerződés megkötésének a tényét és a 74. § (2) bekezdése szerinti nyilvántartás vezetéséhez szükséges adatokat az egyetemes postai szolgáltató köteles bejelenteni a Hatóságnak.
+
+(1d) A partnerszervezet az (1a) bekezdés szerinti szerződés hatálybalépésének napjától postai szolgáltatóvá válik és jogosult az (1a) bekezdés szerinti szerződés időbeli hatálya alatt az abban foglalt tevékenységek végzésére, azonban egyéb postai szolgáltatás végzésére nem szerezhet jogosultságot.
+
+(1e) A partnerszervezet által az (1a) bekezdés szerinti szerződés alapján ellátott tevékenység az egyetemes postai szolgáltató által nyújtott egyetemes postai szolgáltatás részét képezi. Az (1a) bekezdés szerinti szerződés megkötése nem eredményezheti az egyetemes postai szolgáltatás sérelmét. A partnerszervezet (1a) bekezdés szerinti szerződés alapján ellátott tevékenységéért és a szolgáltatásra irányadó minőségi követelmények teljesüléséért az egyetemes postai szolgáltató tartozik felelősséggel.
+
 (2) A gazdasági és társadalmi igények folyamatos változásának való megfelelés, valamint az egyetemes postai szolgáltatás egyes részletes szabályainak megállapítása érdekében a miniszter az államháztartásért felelős miniszter egyetértésével az egyetemes postai szolgáltatóval Egyetemes Postai Közszolgáltatási Szerződést köt.
 
-(3)
+(3) Az egyetemes postai szolgáltatás közérdekű jellege miatt az egyetemes postai szolgáltatás ellátása érdekében működtetett postai hálózat fejlesztése (felvételi és kézbesítési pontok kialakítása és rekonstrukciója) a területfejlesztés része, melyet az állam a területfejlesztésről és a területrendezésről szóló törvényben foglaltak szerint területfejlesztést szolgáló pénzügyi eszközökből támogathat, valamint pénzügyi kedvezményekben részesíthet.
 
 (4) Az egyetemes postai szolgáltatás keretében az egyetemes postai szolgáltató biztosítja a 6. § (2)–(3) bekezdésében foglalt postai küldemények munkanaponkénti felvételét, valamint a 15. § (3) bekezdésében megállapított kötelezettség teljesítésével és jogszabályban meghatározott kivételek figyelembevételével a cím helyén történő kézbesítés megkísérlését. A cím helyén történő kézbesítésre vonatkozó kötelezettség teljesítése alól az egyetemes postai szolgáltató kérelemre, a Hatóság döntése alapján mentesül ott, ahol annak teljesítése rendkívüli földrajzi, illetve infrastrukturális körülmények következtében nem, vagy csak aránytalan nehézséggel lehetséges.
 
@@ -336,7 +346,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 #### 12. Az egyetemes postai szolgáltató kijelölése
 
-18. § (1) Tekintettel az egyetemes postai szolgáltatásnak a társadalmi és területi kohézióban játszott szerepére, az annak folyamatos biztosítására vonatkozó állami feladat ellátására e törvény 2020. december 31-ig a Magyar Posta Zrt.-t jelöli ki. Az egyetemes postai szolgáltató e kijelölés alapján az egyetemes postai szolgáltatás nyújtására köteles és jogosult, valamint jogosult a 7. § (2) bekezdésében foglalt egyetemes postai szolgáltatást helyettesítő szolgáltatások nyújtására. Az egyetemes postai szolgáltató a 7. § (2) bekezdés a) pontjában meghatározott szolgáltatás esetén a szolgáltatás megkezdése előtt 15 nappal köteles benyújtani a Hatóság részére a 10. § (2) bekezdés c), d) és e) pontjában, a 10. § (3) bekezdés a), b) pontjában, továbbá 12. § (1) bekezdés a) és c) pontjában meghatározott dokumentumokat.
+18. § (1) Tekintettel az egyetemes postai szolgáltatásnak a társadalmi és területi kohézióban játszott szerepére, az annak folyamatos biztosítására vonatkozó állami feladat ellátására e törvény 2020. december 31-éig a Magyar Posta Zrt.-t jelöli ki. Az egyetemes postai szolgáltató e kijelölés alapján az egyetemes postai szolgáltatás nyújtására köteles és jogosult, jogosult továbbá a 14. § (1a) bekezdése szerinti szerződés megkötésére, valamint jogosult a 7. § (2) bekezdésében foglalt egyetemes postai szolgáltatást helyettesítő szolgáltatások nyújtására. Az egyetemes postai szolgáltató a 7. § (2) bekezdés a) pontjában meghatározott szolgáltatás esetén a szolgáltatás megkezdése előtt 15 nappal köteles benyújtani a Hatóság részére a 10. § (2) bekezdés c), d) és e) pontjában, a 10. § (3) bekezdés a) és b) pontjában, továbbá a 12. § (1) bekezdés a) és c) pontjában meghatározott dokumentumokat.
 
 (2) Az egyetemes postai szolgáltatás folyamatosságának biztosítása érdekében a Hatóság az egyetemes postai szolgáltatási jogosultság megszűnését megelőző naptári év utolsó napjáig, első alkalommal 2019. június 30-ig, beszámolót készít a jogosultsági időszak vonatkozásában az egyetemes postai szolgáltatás biztosításának általános hatósági tapasztalatairól, beleértve az egyetemes postai szolgáltatás minőségének, nettó költségének, finanszírozásának alakulását, továbbá tájékoztatást ad a különböző szolgáltatásokat igénybevevő felhasználók elégedettségének alakulásáról, valamint a postai piac fejlődéséről. A beszámolóban szereplő megállapítások függvényében a miniszter meghatározza az egyetemes postai szolgáltatás ellátása további biztosításának leghatékonyabb és legmegfelelőbb mechanizmusát, tiszteletben tartva az objektivitás, az átláthatóság, a megkülönböztetésmentesség, az arányosság és a lehető legkisebb mértékű piactorzítás elveit.
 
@@ -359,7 +369,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 - a) a küldeményenkénti díjszabás alapján feladható nem elsőbbségi levélküldemények, valamint az egyetemes postai szolgáltatásként feladható csomagküldemények és egyéb tartalmú küldemények kötelezően teljesítendő átfutási idejét;
 - b) az elveszett, megsemmisült vagy megsérült könyvelt postai küldeményeknek a feladott könyvelt postai küldemények számához viszonyított maximális arányára vonatkozó – a szolgáltatás megbízhatóságát leíró – követelményeket;
 - c) az egyetemes postai szolgáltatás igénybevételét lehetővé tevő felvételi és kézbesítési pontok területi elhelyezkedésére és időbeli hozzáférhetőségére vonatkozó részletes követelményeket, szükség szerint a felvételi és kézbesítési pontok számát;
-- d)
+- d) az egyetemes postai szolgáltató méltánytalan többletterhének a 29. § szerinti megtérítésére vonatkozó részletes szabályokat;
 - e) az egyetemes postai szolgáltatás igénybevételének akadályozottsága esetére vonatkozó részletes szabályokat;
 - f) a postabélyeg kibocsátására, forgalomba hozatalára és forgalomból történő kivonására, valamint érvényességére vonatkozó részletes szabályokat.
 
@@ -385,7 +395,9 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 #### 15. Az egyetemes postai szolgáltatás nyújtásának méltánytalan többletterhe
 
-#### 21. §
+21. § (1) Az egyetemes postai szolgáltatási kötelezettség nettó költsége az egyetemes postai szolgáltatás nyújtásával kapcsolatban felmerülő költség. A nettó költség az egyetemes postai szolgáltató egyetemes postai szolgáltatási kötelezettséggel együtt járó és egyetemes postai szolgáltatási kötelezettség nélkül jelentkező nettó költségeinek különbözeteként számítható ki. A nettó költség számításkor figyelembe kell venni az egyetemes postai szolgáltatónál keletkező előnyöket, beleértve a nem tárgyi és piaci előnyöket, továbbá az ésszerű nyereséghez való jogot és a költséghatékonysági ösztönzőket.
+
+(2)–(4)
 
 #### 16. Egyetemes Postai szolgáltatást Támogató Számla
 
@@ -427,11 +439,13 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 28. § Az egyetemes postai szolgáltató a felhasználók és a postai szolgáltatók számára a települési irányítószámokat tartalmazó adatbázisát internetes honlapján hozzáférhetővé teszi.
 
-#### 29. §
+29. § (1) Az egyetemes postai szolgáltató jogosult méltánytalan többletterhének megtéríttetésére.
+
+(2)
 
 #### 18. Az egyetemes postai szolgáltató hivatalos iratokkal kapcsolatos kizárólagos kötelezettsége és joga
 
-30. § (1) Az egyetemes postai szolgáltató az ország teljes területén köteles és kizárólagosan jogosult a hivatalos iratokkal kapcsolatos postai szolgáltatás nyújtására.
+30. § (1) Az egyetemes postai szolgáltató az ország teljes területén köteles és kizárólagosan jogosult a hivatalos iratokkal kapcsolatos postai szolgáltatás nyújtására. Az egyetemes postai szolgáltató jogosult e kötelezettsége teljesítése érdekében a 14. § (1a) bekezdése szerinti szerződés megkötésére.
 
 (2) Amennyiben az állami vagy önkormányzati szervek, valamint a jogszabályban meghatározott egyéb szervek vagy személyek határozatának, végzésének vagy egyéb iratának feladásához vagy kézbesítéséhez, a kézbesítés megkísérléséhez vagy azok időpontjához külön jogszabály jogkövetkezményt fűz, azok címzett részére történő eljuttatása – a saját kézbesítés kivételével – törvény eltérő rendelkezésének hiányában kizárólag hivatalos iratként történhet meg.
 
@@ -461,7 +475,21 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 #### 20. Egyetemes postai szolgáltató közreműködése közszolgáltatásokban
 
-#### 33. §
+33. § (1) Az egyetemes postai szolgáltató köteles jóhiszemű tárgyalásokat folytatni abban az esetben, ha a miniszter vagy valamely közszolgáltatás vagy általános gazdasági érdekű szolgáltatás kielégítéséért felelős szervezet vezetője javaslatot tesz a közszolgáltatásnak vagy általános gazdasági érdekű szolgáltatásnak (a továbbiakban: közszolgáltatás) az egyetemes postai szolgáltató postai hálózatának igénybevételével történő nyújtására. Ilyen közérdekű szolgáltatás nyújtására az egyetemes postai szolgáltató is javaslatot tehet.
+
+(2) Az (1) bekezdésben foglalt közszolgáltatás lehet különösen:
+
+- a) a nyugdíjak, segélyek és egyéb állami juttatások jogosultnak való kifizetésében történő közreműködés;
+- b) az a) pontban meg nem határozott pénzforgalmi szolgáltatások nyújtása;
+- c) az elektronikus ügyintézés részletes szabályairól szóló kormányrendeletben meghatározott kihelyezett ügyintézési pontban az elektronikus kapcsolattartási rendszerhez történő hozzáférés biztosítása, a helyi önkormányzatokról szóló törvény szerinti ügyfélszolgálati megbízotti vagy egyéb, az ügyfeleknek az állami, önkormányzati vagy egyéb szolgáltatásokhoz történő hozzáférését, illetve ügyintézését elősegítő szolgáltatás;
+- d) a c) pontban meghatározottaktól eltérő egyéb szabályozott elektronikus ügyintézési szolgáltatások nyújtása vagy a digitális kultúra terjesztésében történő közreműködői tevékenység.
+
+(3) A miniszter vagy valamely közszolgáltatás vagy általános gazdasági érdekű szolgáltatás kielégítéséért felelős szervezet vezetője által kezdeményezett közszolgáltatási szerződés esetében az egyetemes postai szolgáltatót szerződéskötési kötelezettség terheli amennyiben
+
+- a) a javasolt közszolgáltatás végzése nem veszélyezteti az egyetemes postai szolgáltatás nyújtását vagy valamely más közszolgáltatási tevékenység végzését, és
+- b) a javasolt közszolgáltatás ellenszolgáltatása fedezi az ellátásának költségeit és a fenntarthatóságát garantáló, amortizációt meghaladó ésszerű nyereséget.
+
+(4) Az egyetemes postai szolgáltató az e tevékenységgel kapcsolatos közszolgáltatási szerződésben meghatározottak szerint köteles közreműködni a közhiteles címregiszter kialakításában és működtetésében.
 
 #### 21. Az egyetemes postai szolgáltatás korlátozása, szünetelése
 
@@ -813,7 +841,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 #### 36. A postai szolgáltatások bevételei, költségei és ráfordításai kimutatására vonatkozó követelmények
 
-58. § (1) A postai szolgáltató a számviteli nyilvántartási rendszerében – az e törvényben és a miniszter rendeletében meghatározottak szerint – köteles elkülöníteni és kimutatni a postai szolgáltatásokra, valamint az egyéb tevékenységeire vonatkozó bevételeit. Az egyetemes postai szolgáltató köteles elkülönítetten nyilvántartani a hivatalos iratokkal kapcsolatos szolgáltatás nyújtásával kapcsolatos bevételeit, költségeit és ráfordításait.
+58. § (1) A postai szolgáltató – a 14. § (1a) bekezdése szerinti partnerszervezet kivételével – a számviteli nyilvántartási rendszerében – az e törvényben és a miniszter rendeletében meghatározottak szerint – köteles elkülöníteni és kimutatni a postai szolgáltatásokra és az egyéb tevékenységeire vonatkozó bevételeit. Az egyetemes postai szolgáltató köteles elkülönítetten nyilvántartani a hivatalos iratokkal kapcsolatos szolgáltatás nyújtásával kapcsolatos bevételeit, költségeit és ráfordításait.
 
 (2) Az egyetemes postai szolgáltató köteles elkülönítetni és kimutatni az egyetemes, az egyetemes postai szolgáltatást helyettesítő- és a bejelentésköteles szolgáltatásból származó bevételeit, költségeit és ráfordításait, az engedélyköteles szolgáltatást nyújtó szolgáltató pedig köteles elkülöníteni és kimutatni az engedélyköteles és – amennyiben ilyet nyújt – a bejelentésköteles szolgáltatásból származó bevételeit, költségeit és ráfordításait.
 
@@ -828,7 +856,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
   - bc) amennyiben a költségfelosztásra sem közvetlen, sem közvetett módszer nem alkalmazható, a költségkategóriát egy általános osztótényező alapján kell felosztani, amelynek kiszámítása egyrészről a közvetlenül vagy közvetve az egyes egyetemes postai szolgáltatásokhoz, másrészről pedig az egyéb szolgáltatásokhoz rendelt vagy kijelölt összes kiadás arányának felhasználásával történik;
   - bd) a mind az egyetemes, mind a nem egyetemes postai szolgáltatások nyújtásához szükséges közös költségeket megfelelő módon kell felosztani; ugyanazokat a költségtényezőket kell alkalmazni mind az egyetemes, mind a nem egyetemes postai szolgáltatásokra.
 
-(5) Az egyetemes postai szolgáltató az (1)–(4) bekezdés szerint, az engedélyköteles szolgáltatást nyújtó szolgáltató a (2) bekezdés szerint vezetett nyilvántartások – a miniszter által rendeletben meghatározott – adatait az üzleti év utolsó napját követő hat hónapon belül köteles megküldeni a Hatóságnak.
+(5) Az egyetemes postai szolgáltató az (1)–(4) bekezdés szerint, az engedélyköteles szolgáltatást nyújtó szolgáltató a (2) bekezdés szerint vezetett nyilvántartások – a miniszter által rendeletben meghatározott – adatait az üzleti év utolsó napját követő hat hónapon belül köteles megküldeni a Hatóságnak. A 14. § (1a) bekezdése szerinti szerződés alapján a partnerszervezet által ellátott tevékenységre vonatkozó bevételi adatokat az egyetemes postai szolgáltató e bekezdés szerinti adatszolgáltatás keretében küldi meg a Hatóság részére.
 
 (6) Az egyetemes postai szolgáltató számviteli nyilvántartási rendszerének alkalmasnak kell lennie az egyetemes postai szolgáltatási kötelezettség nettó költsége számításának kimutatására és méltánytalan többletterhének alátámasztására.
 
@@ -1088,7 +1116,11 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 76. § (1) Ez a törvény – a (2) és (3) bekezdésben meghatározott kivétellel – 2013. január 1-jén lép hatályba.
 
-(2) Ha az Európai Bizottság jóváhagyó határozatának meghozatalára az (1) bekezdésben megjelölt időpontot követően kerül sor, a 14. § (3) bekezdése, a 19. § (2) bekezdés d) pontja, a 21–23. §, a 29. § és a 33. § az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba. Ebben az esetben a miniszter az Európai Bizottság határozata meghozatalának időpontját – annak ismertté válását követően – haladéktalanul a Magyar Közlönyben közzétett egyedi határozattal állapítja meg.
+(1a) A 14. § (3) bekezdése, a 19. § (2) bekezdés d) pontja, a 21. § (1) bekezdése, a 29. § (1) bekezdése és a 33. § az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvény (a továbbiakban: Módtv.) kihirdetését követő napon lép hatályba.
+
+(2) A 21. § (2)–(4) bekezdése, a 22. §, a 23. § és a 29. § (2) bekezdése az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+
+(2a) A 21. § (2)–(4) bekezdése, a 22. §, a 23. § és a 29. § (2) bekezdése hatálybalépésének naptári napját a miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (3) A 65. § (2) bekezdése 2014. január 1-jén lép hatályba.
 
@@ -1099,6 +1131,10 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 77. § (1) Mindazok, akik 2012. december 31-én a postáról szóló 2003. évi CI. törvény szabályai szerint postai szolgáltatás nyújtására jogosultak, a szolgáltatás nyújtását 2013. június 30-ig folytathatják a törvényi kijelölés vagy nyilvántartásba vételükről szóló hatósági határozatban foglaltak alapján, a 2012. december 31-én hatályos, a postáról szóló 2003. évi CI. törvénynek megfelelő általános szerződési feltételeik szerint. Az e bekezdés szerint postai szolgáltatás nyújtására jogosult személyek az általános szerződési feltételeiket legkésőbb 2013. június 30-ig folyamatosan vagy egy ütemben feleltethetik meg e törvény rendelkezéseinek. 2013. július 1-jétől kizárólag az e törvény rendelkezéseinek megfelelően hatósági nyilvántartásba vett gazdálkodó szervezetek jogosultak postai szolgáltatás nyújtására.
 
 (2) A 19. §-ban meghatározott Egyetemes Postai Közszolgáltatási Szerződést az állam és az egyetemes postai szolgáltató oly módon köteles megkötni, hogy annak az egyetemes postai szolgáltatások minőségét érintő rendelkezései legkésőbb 2013. március 31-ig lépjenek hatályba. Az egyetemes postai szolgáltatások minőségére vonatkozó szerződéses rendelkezések hatálybalépéséig az e szolgáltatások minőségére a 2012. december 31-én hatályos szabályokat kell alkalmazni.
+
+77/A. § (1) Ha az egyetemes postai szolgáltatás nettó költsége meghaladja az egyetemes postai szolgáltató egyetemes postai szolgáltatásokhoz kapcsolódó költségeinek 1 százalékát, ezen összeg az egyetemes postai szolgáltató méltánytalan többletterhe (a továbbiakban: méltánytalan többletteher). Az Európai Bizottság 76. § (2) bekezdése szerinti jóváhagyó határozata meghozataláig az egyetemes postai szolgáltató a méltánytalan többletterhének évi 15 millió eurót meg nem haladó részének a központi költségvetés terhére történő megtérítésére jogosult. A méltánytalan többletteher összegét a miniszter állapítja meg.
+
+(2) A 2013. év vonatkozásában az egyetemes postai szolgáltató a méltánytalan többletterhének meghatározására vonatkozó kérelmét a Módtv. hatálybalépését követő 8. napig nyújtja be a miniszternek, aki a Módtv. hatálybalépését követő 15. napig intézkedik a 2013. és 2014. évi méltánytalan többletteher (1) bekezdésben meghatározott részének az egyetemes postai szolgáltató részére előlegként történő átutalásáról. Az egyetemes postai szolgáltató a méltánytalan többletteher összegének megállapítását követő 8 napon belül köteles az előlegnek azt a részét a központi költségvetés részére visszatéríteni, ami meghaladja a méltánytalan többletteher miniszter által megállapított összegét. A 2014. év vonatkozásában az egyetemes postai szolgáltató a méltánytalan többletteherre vonatkozó elszámolást a miniszter részére 2015. június 30-áig nyújtja be.
 
 #### 50. Felhatalmazó rendelkezések
 
