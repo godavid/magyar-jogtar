@@ -12,13 +12,13 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (3) Az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezései az irányadóak.
 
-1/A. § (1) E törvényt és az e törvény végrehajtására kiadott rendeletet kell alkalmazni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Fftv.) szerinti mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlan tulajdonjogának az Fftv. szerinti külföldi jogi vagy természetes személy által történő megszerzésére, ide nem értve az öröklés esetét.
+1/A. § (1) E törvényt és az e törvény végrehajtására kiadott rendeletet kell alkalmazni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlan tulajdonjogának külföldi jogi személy vagy külföldi természetes személy által történő megszerzésére, ide nem értve az öröklés esetét.
 
-(2) A külföldi jogi vagy természetes személy az (1) bekezdés szerinti ingatlant az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal engedélyével szerezheti meg.
+(2) A külföldi jogi személy vagy a külföldi természetes személy az (1) bekezdés szerinti ingatlant az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal engedélyével szerezheti meg.
 
-(3) A fővárosi és megyei kormányhivatal (2) bekezdés szerinti határozata ellen nincs helye fellebbezésnek.
+(3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez az engedélyt az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal nemzetközi szerződés vagy viszonosság fennállása alapján adja meg. A nemzetközi szerződésről, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter nyilatkozatát be kell szerezni.
 
-(4) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez a külpolitikáért felelős miniszter engedélye szükséges. A külpolitikáért felelős miniszter az engedélyt nemzetközi szerződés vagy viszonosság fennállása alapján adja meg.
+(4) A fővárosi és megyei kormányhivatal (2) és (3) bekezdés szerinti határozata ellen nincs helye fellebbezésnek.
 
 ### A LAKÁSBÉRLET SZABÁLYAI
 
@@ -893,6 +893,8 @@ rendelkezik.
 - 21. Elővásárlásra jogosult: az e törvény 49. §-ának (1) bekezdésében, az 58. §-ának (1) bekezdésében, továbbá az 59. §-ában meghatározott személy.
 - 22. Önkormányzati helyi támogatás: kamatmentes kölcsön, illetőleg részben vagy egészben vissza nem térítendő támogatás nyújtása rászoruló családok részére lakótelek, új vagy használt lakás megszerzéséhez, lakás bővítéséhez, korszerűsítéséhez, felújításához, fenntartásához, lakáscélú kölcsön törlesztőrészleteinek, lakás lakbérének megfizetéséhez és más, a lakással kapcsolatos költségeik viseléséhez, valamint társasházi közös tulajdonú és lakásszövetkezeti tulajdonú épületrészek és épületberendezések felújításához, korszerűsítéséhez.
 - 23. nyugdíjszerű ellátás: a korhatár előtti ellátás, a szolgálati járandóság, az átmeneti bányászjáradék és mindaz az ellátás, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik, vagy amely ellátást a nyugdíjemelésre vonatkozó rendelkezések szerint kell emelni.
+- 24. Külföldi jogi személy: az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint nemzetközi szerződés alapján velük egy tekintet alá eső államban székhellyel nem rendelkező jogi személy és jogi személyiséggel nem rendelkező szervezet.
+- 25. Külföldi természetes személy: az Európai Unió tagállama, az Európai Gazdasági Térségről szóló megállapodásban részes állam, valamint nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgárának nem minősülő természetes személy.
 
 ### Hatálybalépés
 
@@ -906,7 +908,7 @@ rendelkezik.
 
 (5) Az e törvény alkalmazásához szükséges értelmező rendelkezéseket a 2. számú melléklet tartalmazza.
 
-93. § Felhatalmazást kap a Kormány, hogy a mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlanokra vonatkozóan a külföldiek tulajdonszerzésével kapcsolatos szabályokat rendeletben állapítsa meg.
+93. § Felhatalmazást kap a Kormány, hogy a mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlanokra vonatkozóan a külföldi jogi vagy természetes személy tulajdonszerzésével kapcsolatos szabályokat rendeletben állapítsa meg.
 
 94. § (1) E törvényben meghatározott kivételekkel, a törvény hatálybalépéséig indult bírósági, valamint a lakásügyi és elhelyező hatósági elsőfokú eljárásban és az ennek során hozott határozat ellen benyújtott jogorvoslati (felülvizsgálati) kérelem elbírálására, továbbá új eljárás elrendelése esetén a törvény hatálybalépése után is az elsőfokú eljárás megindításakor hatályos jogszabályokat kell alkalmazni.
 

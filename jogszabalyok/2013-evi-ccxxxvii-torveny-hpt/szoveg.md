@@ -359,13 +359,13 @@ végezhet.
 - a) betét gyűjtésére, valamint saját tőkéjét meghaladó mértékben – hitelintézet vagy állam által a visszafizetésre vállalt kezesség vagy garancia nélkül – más visszafizetendő pénzeszköz nyilvánosságtól való elfogadására,
 - b) pénzváltási tevékenység végzésére.
 
-(3) A hitelintézet bank, szakosított hitelintézet vagy – zártkörűen működő részvénytársasági formában vagy szövetkezeti formában működő – szövetkezeti hitelintézet lehet. A szövetkezeti hitelintézet lehet takarék- vagy hitelszövetkezet.
+(3) A hitelintézet bank, szakosított hitelintézet vagy – részvénytársasági vagy szövetkezeti formában működő – szövetkezeti hitelintézet lehet. A szövetkezeti hitelintézet lehet bank, szakosított hitelintézet és takarék- vagy hitelszövetkezet.
 
 (4) A bank az a hitelintézet, amely a 3. § (1) bekezdés a), b) és d) pontjában meghatározott tevékenységet üzletszerűen végzi. Kizárólag bank kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
 (5) A szakosított hitelintézet a rá vonatkozó külön törvényi szabályozásnak megfelelően jogosult tevékenységének végzésére, azzal, hogy nem kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
-(6) A szövetkezeti hitelintézet a 3. § (1) és (2) bekezdésében, és a fentieken kívül kizárólag a 7. § (3) bekezdésében megjelölt kiegészítő tevékenységet végezhet.
+(6) A szövetkezeti formában működő szövetkezeti hitelintézet a 3. § (1) és (2) bekezdésében, valamint a 7. § (3) bekezdésében megjelölt tevékenységet, illetve kiegészítő tevékenységet végezhet.
 
 (7) A szövetkezeti hitelintézetekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat külön törvény állapítja meg.
 
@@ -421,7 +421,7 @@ végez (a továbbiakban együtt: független közvetítő).
 
 #### 8. Szervezeti szabályok
 
-11. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként vagy zártkörűen működő részvénytársaságként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként működhet.
+11. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként vagy részvénytársaságként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként működhet.
 
 (2) A pénzügyi intézményre a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
 
@@ -707,7 +707,7 @@ induló tőkével alapítható.
 
 (2) Nem egyesülhet
 
-- a) részvénytársasági formában működő pénzügyi intézmény és szövetkezeti formában működő pénzügyi intézmény,
+- a)
 - b) fióktelep formájában működő pénzügyi intézmény és jogi személy.
 
 (3) Hitelintézet vagy pénzügyi vállalkozás egyesülése esetén az engedélyezésre irányuló kérelemhez benyújtja:

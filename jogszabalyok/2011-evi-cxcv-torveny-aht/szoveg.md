@@ -462,7 +462,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 22. § (1) A Kormány a központi költségvetésről szóló törvényjavaslatot a Stabilitási tv. szerint egyezteti a Költségvetési Tanáccsal.
 
-(2) A Kormány október 15-éig benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
+(2) A Kormány október 15-éig – az országgyűlési képviselők általános választásának évében október 31-éig – benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
 
 (3) A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában
 
@@ -477,7 +477,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 - b) az államháztartás alrendszerei költségvetési egyenlegének összefüggését és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor hiányával, és az ugyanott meghatározott kamatkiadásokat figyelmen kívül hagyó elsődleges egyenlegmutatóval, és
 - c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként.
 
-(5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül, a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot a központi költségvetésről szóló törvényjavaslattal egyidejűleg nyújtja be az Országgyűlésnek.
+(5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül, a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot pedig akként nyújtja be az Országgyűlésnek, hogy az a központi költségvetésről szóló törvénnyel legalább egyidejűleg hatályba lépjen.
 
 (6)
 
@@ -506,9 +506,9 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 #### 15. A költségvetési rendelet előkészítése, elfogadása
 
-24. § (1) A jegyző, főjegyző, megyei főjegyző (a továbbiakban együtt: jegyző) által elkészített, a következő évre vonatkozó költségvetési koncepciót a polgármester október 31-ig nyújtja be a képviselő-testületnek.
+24. § (1)
 
-(2) A jegyző a költségvetési rendelet-tervezetet a 29/A. § szerinti tervszámoknak megfelelően készíti elő. A tervszámoktól csak a külső gazdasági feltételeknek a tervszámok elfogadását követően bekövetkezett lényeges változása esetén térhet el, az eltérést és annak indokát a költségvetési rendelet-tervezet indokolásában ismertetni kell.
+(2) A jegyző, főjegyző (a továbbiakban együtt: jegyző) a költségvetési rendelet-tervezetet a 29/A. § szerinti tervszámoknak megfelelően készíti elő. A tervszámoktól csak a külső gazdasági feltételeknek a tervszámok elfogadását követően bekövetkezett lényeges változása esetén térhet el, az eltérést és annak indokát a költségvetési rendelet-tervezet indokolásában ismertetni kell.
 
 (3) A jegyző által a (2) bekezdés szerint előkészített költségvetési rendelet-tervezetet a polgármester a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.
 
@@ -1350,9 +1350,7 @@ fedezetét.
 
 #### 60. Évközi kimutatások, beszámolás
 
-87. § (1) A polgármester a helyi önkormányzat gazdálkodásának első félévi helyzetéről szeptember 15-éig, háromnegyed éves helyzetéről a költségvetési koncepció ismertetésekor írásban tájékoztatja a képviselő-testületet. A tájékoztatás tartalmazza a helyi önkormányzat költségvetési rendeletében megjelenő előirányzatok és a költségvetési egyenleg alakulását.
-
-(2) A nemzetiségi önkormányzat, a társulás, illetve a térségi fejlesztési tanács elnöke a gazdálkodásról az (1) bekezdésben foglaltaknak megfelelően beszámol a képviselő-testületnek, a társulási tanácsnak, illetve a térségi fejlesztési tanács tagjainak.
+#### 87. §
 
 88. § (1) A vagyonról és a költségvetés végrehajtásáról a számviteli jogszabályok szerinti éves költségvetési beszámolót kell készíteni. Az éves költségvetési beszámolót a 28. § (4) és (5) bekezdésében megjelölt személy hagyja jóvá.
 
@@ -1625,7 +1623,7 @@ kezelésére.
 - 3. a központi költségvetés tervezéséhez kapcsolódóan a központi költségvetésről szóló törvény fejezeteinek tervezett kiadási főösszegei megállapításának módját, a 13. § szerinti feladatok végrehajtásának, a középtávú tervezéshez szükséges adatszolgáltatás, valamint a makrogazdasági és költségvetési előrejelzések részletes szabályait és azok közzétételének módját,
 - 4. az elfogadott központi költségvetésről szóló törvény alapján fejezetenként a fejezetet irányító szervet, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervét, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok esetén a kezelő szerv kijelölésének módját, feltételeit, a kezelő szerv által ellátható feladatokat, a központi és fejezeti kezelésű előirányzat, elkülönített állami pénzalap nem költségvetési szervi formában működő kezelő szervének szabályzataira, szervezeti felépítésére, pénzügyi feladatokat ellátó alkalmazottaira vonatkozó sajátos követelményeket,
 - 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásának rendjét,
-- 6. az államháztartás önkormányzati alrendszerében az irányító szerv és az általa irányított költségvetési szervek költségvetési bevételei és költségvetési kiadásai között megtervezendő tételeket, a költségvetési koncepció és a költségvetési rendelet, határozat előkészítésének, elfogadásának részletszabályait, a 24. § (4) bekezdés c) pontja szerinti közvetett támogatások további részletezését a költségvetés és a zárszámadás elfogadása során,
+- 6. az államháztartás önkormányzati alrendszerében az irányító szerv és az általa irányított költségvetési szervek költségvetési bevételei és költségvetési kiadásai között megtervezendő tételeket, a költségvetési rendelet, határozat előkészítésének, elfogadásának részletszabályait, a 24. § (4) bekezdés c) pontja szerinti közvetett támogatások további részletezését a költségvetés és a zárszámadás elfogadása során,
 - 7. a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit,
 - 8. a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos tartalmi és formai követelményeket, a bevételi kiemelt előirányzatokat, az egységes rovatrendet,
 - 9. a költségvetési szerv és a fejezeti kezelésű előirányzat többletbevétele felhasználása engedélyezésének eseteit, az engedélyezés szempontjait, eljárási szabályait, az engedélyezők körét, az engedély megadása, megtagadása esetén a többletbevétel további rendeltetését, a 33. § (2) bekezdése szerinti eseteket, valamint az előirányzatok módosításának és az előirányzatok átcsoportosításának módját, az előirányzat-csoportok közötti és a kiemelt előirányzatok közötti átcsoportosítás eseteit, módját és az arra jogosultak körét
