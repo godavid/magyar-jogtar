@@ -116,8 +116,10 @@ finanszírozására nyújthat hitelt, illetve kölcsönt.
 
 (5) Az MFB Zrt.
 
-- a) Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap [a tőkepiacról szóló 2001. évi CXX. törvény 5. §-a (1) bekezdésének 7. pontja] által kibocsátott befektetési jegyet, és
-- b) Magyarországon létrehozott, magyarországi székhelyű kockázati tőkealap-kezelő által kezelt kockázati tőkealap [a tőkepiacról szóló 2001. évi CXX. törvény 5. §-a (1) bekezdésének 139. pontja] által kibocsátott kockázati tőkealap-jegyet kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, fejlesztési tőkefinanszírozás céljából – közvetlenül vagy közvetetten – szerezhet, ha a befektetés megtérülése az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan vállalt garancia (tőke-, illetve hozamgarancia) vagy az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan tett ígéret (tőke-, illetve hozamvédelem) alapján kellően biztosított.
+- a) Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap által kibocsátott befektetési jegyet, és
+- b) Magyarországon létrehozott, magyarországi székhelyű kockázati tőkealap-kezelő által kezelt kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet
+
+kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, közvetlenül vagy közvetetten szerezhet, ha a befektetés megtérülése az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan vállalt garancia (tőke-, illetve hozamgarancia) vagy az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan tett ígéret (tőke-, illetve hozamvédelem) alapján kellően biztosított.
 
 (6) Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1) pontja szerint átlátható szervezetnek minősül, kivéve a mezőgazdasági őstermelőket és családi gazdálkodókat.
 
@@ -178,7 +180,7 @@ finanszírozására nyújthat hitelt, illetve kölcsönt.
 
 7. § (1) Az MFB Zrt. tevékenységéhez illeszkedő jövedelmezőségi elvárásokat az éves üzleti tervben kell meghatározni.
 
-(2) Az MFB Zrt. eredményéből osztalékot nem fizet, a felosztható eredményt az eredménytartalék növelésére kell fordítani.
+(2)
 
 ### Az MFB Zrt. prudens működésére vonatkozószabályok
 
@@ -206,16 +208,16 @@ finanszírozására nyújthat hitelt, illetve kölcsönt.
 
 8/A. § Az 1. és 2. mellékletben szereplő pénzügyi vállalkozásoknál, valamint az 1. és 2. mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi vállalkozásoknál igazgatóság nem működik kivéve, ha a tulajdonos (alapító), illetve a kormányzati tevékenység összehangolásáért felelős miniszter, vagy a közgyűlés másként rendelkezik. Egyszemélyes ügyvezetés esetén az igazgatóság jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja. E rendelkezéseket 2010. július 1. napját követően létrehozott, illetve megszüntetett jogviszonyok tekintetében kell alkalmazni.
 
-9. § (1) Az MFB Zrt. a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából
+9. § (1) Az MFB Zrt. a 2. §-ban meghatározott feladatainak ellátása érdekében
 
 - a) kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet, és
 - b) zártkörű és zártvégű értékpapír-befektetési alap által kibocsátott befektetési jegyet
 
 szerezhet.
 
-(2) Az MFB Zrt. által egy befektetési alapba vagy kockázati tőkealapba befektetett fejlesztési tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének húsz százalékát.
+(2) Az MFB Zrt. által egy befektetési alapba vagy kockázati tőkealapba befektetett tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének húsz százalékát.
 
-(3) Az MFB Zrt. által befektetési alapokba, illetőleg kockázati tőkealapokba befektetett fejlesztési tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjét.
+(3) Az MFB Zrt. által befektetési alapokba, illetve kockázati tőkealapokba befektetett tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjét.
 
 9/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az MFB Zrt. részére a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
 
@@ -338,19 +340,20 @@ szerezhet.
 
 ### Felhatalmazás
 
-20. § A Kormány felhatalmazást kap arra, hogy rendeletben meghatározza azon gazdasági társaságokat, amelyekben az MFB Zrt. a 8. § (3) bekezdés c) pontja szerint tulajdont szerezhet.
+20. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza azon gazdasági társaságokat, amelyekben az MFB Zrt. a 8. § (3) bekezdés c) pontja szerint tulajdont szerezhet.
 
-21. § E törvény alkalmazásában gazdálkodó szervezet a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó.
+21. § E törvény alkalmazásában
 
-22. § E törvény alkalmazásában fejlesztési tőkefinanszírozás az MFB Zrt. közvetlen vagy közvetett részesedésszerzése korlátolt felelősségű társaságban vagy részvénytársaságban (a továbbiakban: céltársaság). A fejlesztési tőkefinanszírozás jogcímén juttatott forrásból kizárólag
+- 1. fejlesztési tőkefinanszírozás: az MFB Zrt. közvetlen vagy közvetett részesedésszerzése korlátolt felelősségű társaságban vagy részvénytársaságban (a továbbiakban: céltársaság) azzal, hogy a fejlesztési tőkefinanszírozás jogcímén juttatott forrásból kizárólag
+  - a) beruházás,
+  - b) immateriális javak beszerzése, létesítése, saját vállalkozásban történő előállítása,
+  - c) tárgyi eszközök és immateriális javak korszerűsítése,
+  - d) beruházáshoz kapcsolódó forgóeszközigény,
+  - e) a kutatás-fejlesztés-innováció keretében, az Európai Unió vonatkozó szabályozása szerinti tevékenység finanszírozható, valamint
+  - f) a céltársaságnak cégalapítás vagy tőkeemelés végrehajtása útján korlátolt felelősségű társaságban vagy részvénytársaságban történő közvetlen részesedésszerzése finanszírozható, ha az a)–e) pontban foglaltakat közvetlenül a céltársaság részesedésszerzésével érintett korlátolt felelősségű társaság vagy részvénytársaság valósítja meg;
+- 2. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, továbbá a jogszabállyal létrehozott, gazdasági tevékenységet is folytató jogi személy.
 
-- a) beruházás,
-- b) immateriális javak beszerzése, létesítése, saját vállalkozásban történő előállítása,
-- c) tárgyi eszközök és immateriális javak korszerűsítése,
-- d) a kutatás-fejlesztés és technológiai innováció keretében, az Európai Unió jogi aktusa szerinti tevékenység, valamint
-- e) az a)–d) pontnak a céltársaság leányvállalatai által történő közvetlen megvalósítása érdekében a céltársaságnak a leányvállalatban történő közvetlen részesedésszerzése
-
-finanszírozható.
+22. §
 
 23. §
 
@@ -385,3 +388,4 @@ Az MFB Zrt. a 8. § (3) bekezdés b) pontja alapján a következő gazdálkodó 
 - 9. MMBF Földgáztároló Zártkörűen Működő Részvénytársaság
 - 10. EHPSZ Első Hazai Pénzügyi Szolgáltatásfejlesztési Korlátolt Felelősségű Társaság
 - 11. Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság
+- 12. MFB Földgázkereskedő Zártkörűen Működő Részvénytársaság

@@ -41,21 +41,21 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 3. biohulladék: a biológiailag lebomló, parkokból származó vagy kerti hulladék, háztartásokban, éttermekben, étkeztetőkben és kiskereskedelmi tevékenységet folytató létesítményekben képződő élelmiszer- és konyhai hulladék, valamint az ezekhez hasonló, élelmiszer-feldolgozó üzemekben képződő hulladék;
 - 4. biológiailag lebomló hulladék: minden szervesanyag-tartalmú hulladék, amely aerob vagy anaerob úton biológiailag lebomlik vagy lebontható, ideértve a biohulladékot is;
 - 5. elkülönített gyűjtés: olyan gyűjtés, amelynek során a hulladékáramot a hulladék fajtája és jellege – adott esetben típusa – szerint elkülönítik, lehetővé téve annak egyedi módon történő kezelését;
-- 6. elkülönítetten gyűjtött hulladék: olyan hulladék, amelyet fajta és jelleg – adott esetben típus – szerint a képződés helyén elkülönítve gyűjtenek, ide nem értve a vegyes hulladékot;
-- 7. előkezelés: a hasznosítást vagy ártalmatlanítást megelőző előkészítő művelet; az előkészítő műveletek nem kimerítő listáját a 2. és 3. melléklet tartalmazza;
+- 6. elkülönítetten gyűjtött hulladék: olyan hulladék, amelyet fajta és jelleg – adott esetben típus – szerint a képződés helyén a vegyes hulladéktól, illetve más fajtájú, jellegű vagy típusú hulladéktól elkülönítve gyűjtenek;
+- 7. előkezelés: a hasznosítást vagy ártalmatlanítást megelőző előkészítő művelet;
 - 8. energetikai hasznosítás: hasznosítási művelet, amelynek során a hulladék energiatartalmát kinyerik, ideértve a biológiailag lebomló hulladékból történő energia-előállítást, valamint az olyan anyaggá történő feldolgozást, amelyet üzemanyagként, illetve tüzelőanyagként használnak fel;
 - 9. életciklus-szemlélet: olyan összehasonlító megközelítési mód, amely a megelőzés, valamint a hulladékgazdálkodás során az elővigyázatosságra és a fenntarthatóságra vonatkozó általános környezetvédelmi elvekre, a műszaki megvalósíthatóságra, továbbá az erőforrások védelmére és a gazdasági életképességre vonatkozó szempontokra figyelemmel, az általános környezeti és gazdasági hasznok, költségek, valamint az emberi, egészségügyi és társadalmi hatások felmérésére irányul;
 - 10. építési-bontási hulladék: az épített környezet alakításáról és védelméről szóló törvény szerinti építési tevékenységből származó hulladék;
 - 11. ésszerű nyereség: az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat 5. cikk (5) bekezdése szerinti nyereség;
-- 12. feltöltés: olyan hasznosítási vagy ártalmatlanítási művelet, amelynek során meghatározott célra alkalmas hulladék felhasználásával hulladéknak nem minősülő anyagokat helyettesítenek kitermeléssel érintett területek helyreállításakor vagy tájrendezéskor;
+- 12. feltöltés: olyan hasznosítási művelet, amelynek során meghatározott célra alkalmas hulladék felhasználásával hulladéknak nem minősülő anyagokat helyettesítenek kitermeléssel érintett területek helyreállításakor vagy tájrendezéskor;
 - 13. fogyasztó: aki a terméket továbbértékesítési cél nélkül a gyártótól vagy a forgalmazótól átveszi vagy megvásárolja;
 - 14. forgalmazó: terméket viszonteladónak, illetve fogyasztónak átadó, értékesítő gazdálkodó szervezet;
 - 15. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, ide nem értve azt a költségvetési szervet, amelyet az államháztartásról szóló törvény szerint közfeladat ellátására hoztak létre;
 - 16. gyártó: termék előállítója, továbbá – ha a terméket nem Magyarország területén állítják elő – az, aki a terméket gazdasági tevékenysége körében Magyarország területén elsőként forgalomba hozza;
 - 17. gyűjtés: a hulladék összegyűjtése hulladékkezelő létesítménybe történő elszállítás céljából; a gyűjtés magában foglalja a hulladék előzetes válogatását és előzetes tárolását is;
-- 17a. gyűjtő: olyan gazdálkodó szervezet – a hulladéktermelőt ide nem értve –, amely a hulladékot a hulladékbirtokostól, illetve hulladékgazdálkodási létesítményekből összegyűjti, átveszi, és azt az elszállítást megelőzően szükség szerint előzetesen válogatja, előzetesen tárolja;
+- 17a. gyűjtő: olyan gazdálkodó szervezet, amely a hulladékot a hulladékbirtokostól, illetve hulladékgazdálkodási létesítményekből összegyűjti, átveszi;
 - 18. gyűjtőedény: szabványos mérettel rendelkező hulladékgyűjtő edényzet, hulladékgyűjtő zsák, valamint az elkülönített hulladékgyűjtés céljából üzemeltetett eszköz, berendezés;
-- 19. gyűjtőhely: a hulladékgyűjtő pont, a hulladékgyűjtő udvar, valamint a munkahelyi gyűjtőhely és az üzemi gyűjtőhely;
+- 19. gyűjtőhely: az átvételi hely, a hulladékgyűjtő pont, a hulladékgyűjtő udvar, valamint a munkahelyi gyűjtőhely és az üzemi gyűjtőhely;
 - 20. hasznosítás: bármely kezelési művelet, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse; a hasznosítási műveletek nem kimerítő listáját a 3. melléklet tartalmazza;
 - 21. háztartási hulladék: a háztartásokban képződő vegyes, elkülönítetten gyűjtött, valamint lomhulladék, ideértve a lakásokban, lakóingatlanokban, a pihenés, üdülés céljára használt helyiségekben, valamint a lakóházak közös használatú helyiségeiben és területein képződő hulladékot;
 - 22. háztartási hulladékhoz hasonló hulladék: az a vegyes, illetve elkülönítetten gyűjtött hulladék, amely a háztartásokon kívül képződik, és jellegében, összetételében a háztartási hulladékhoz hasonló;
@@ -83,7 +83,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
   - b) a képződött hulladék környezetre és emberi egészségre gyakorolt káros hatásait, vagy
   - c) az anyagok és a termékek veszélyesanyag-tartalmát;
 - 41. szállítás: a hulladék telephelyen kívüli mozgatása;
-- 42.
+- 42. tárolás: a hulladéknak a gyűjtő, a kereskedő, illetve a hulladékkezelő telephelyén történő, valamint telephelyén kívüli átvételét, összegyűjtését, majd telephelyre történő szállítását követő ideiglenes elhelyezése a további hulladékgazdálkodási tevékenységek elvégzése érdekében, kivéve a hulladékkezelő létesítményben képződött hulladék ugyanazon hulladékkezelő létesítményben történő elhelyezését, valamint a 2. melléklet szerinti D12 ártalmatlanítási műveletet;
 - 43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló szilárd hulladék;
 - 44. újrafeldolgozás: olyan hasznosítási művelet, amelynek során a hulladékot termékké vagy anyaggá alakítják annak eredeti használati céljára, akár más célokra; ez magában foglalja a szerves anyagok feldolgozását, de nem tartalmazza az energetikai hasznosítást és az olyan anyaggá történő feldolgozást, amelyet feltöltési műveletek során használnak fel;
 - 45. újrahasználat: olyan művelet, amelynek révén a hulladéknak nem minősülő terméket vagy alkatrészét újrahasználják arra a célra, amelyre eredetileg szolgált;
@@ -91,7 +91,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 47. vegyes hulladék: a háztartási és a háztartási hulladékhoz hasonló hulladéknak az a különböző fajtájú és összetételű hulladékot tartalmazó része, amelyet az elkülönítetten gyűjtött hulladéktól eltérő külön gyűjtőedényben gyűjtenek;
 - 48. veszélyes hulladék: az 1. mellékletben meghatározott veszélyességi jellemzők legalább egyikével rendelkező hulladék;
 - 49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
-- 50. visszavétel: olyan szolgáltatás, amelynek során a hulladéknak nem minősülő használt elemet, akkumulátort, illetve csomagolását, valamint a használt elektromos és elektronikus berendezést, illetve csomagolását a gyártó vagy a forgalmazó a fogyasztótól visszaveszi.
+- 50.
 
 (2) Az e törvény hatálya alá tartozó állati mellékterméket az (1) bekezdés 23. pontja szerinti fogalommeghatározással összhangban kell értelmezni.
 
@@ -220,9 +220,11 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 #### 9. A hulladék gyűjtése
 
-12. § (1) A hulladéktermelő az ingatlanon képződött hulladék gyűjtését az ingatlan területén hulladékgazdálkodási engedély nélkül végezheti.
+12. § (1) A hulladéktermelő az ingatlanon képződött hulladék gyűjtését az ingatlan területén hulladékgazdálkodási engedély nélkül legfeljebb 1 évig végezheti.
 
-(2) A gyűjtő – a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
+(2) A gyűjtő – a (2a) bekezdésben és a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
+
+(2a) A nemzeti köznevelésről szóló 2011. évi CXC törvény 7. § (1) bekezdés a)–h) pontja szerinti nevelési-oktatási intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.
 
 (3) A gyűjtő által gyűjtött hulladék előzetes válogatása, előzetes tárolása – kormányrendeletben vagy miniszteri rendeletben meghatározott kivétellel – összesen legfeljebb 1 évig végezhető. Ezt követően a hulladék kezeléséről haladéktalanul gondoskodni kell.
 
@@ -236,7 +238,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 (2) Ha a kereskedőnek és a közvetítőnek a kereskedelem, illetve a közvetítés tárgyát képező hulladék a birtokába kerül, tevékenységét csak kereskedelemre, illetve közvetítésre vonatkozó hulladékgazdálkodási engedéllyel végezheti.
 
-(3) A kereskedő és a közvetítő a hulladékot csak kezelés céljából, a kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhatja át, illetve közvetítheti.
+(3) A kereskedő és a közvetítő a hulladékot – ha törvény vagy kormányrendelet eltérően nem rendelkezik – csak kezelés céljából, a kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhatja át, illetve közvetítheti.
 
 (4) A kereskedő és a közvetítő – ha a hulladék a birtokába kerül – az átvett hulladékot a hulladékkezelőnek változatlan formában adja át.
 
@@ -259,7 +261,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 15. § (1) A hulladék hasznosítója azt a hasznosítási műveletet alkalmazza, amely a hasznosítandó hulladék vonatkozásában az összességében legjobb környezeti eredményt biztosítja.
 
-(2) Hasznosítási művelet a környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
+(2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
 
 (3) Ha a hasznosítási művelet elvégzéséhez a hulladék más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal való összekeverése szükséges, a hulladékkezelő a hasznosítandó hulladékot csak abban az esetben keverheti össze más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal, ha az összességében legjobb környezeti eredmény másképp nem biztosítható. Ilyen művelet csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezhető.
 
@@ -303,7 +305,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 - b) a bejelentő vagy a címzett hulladékgazdálkodási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 - c) a bejelentő vagy a címzett a Kvt. szerinti kármentesítési kötelezettségét a teljesítésre megállapított határidő lejártáig nem teljesíti.
 
-(3) A hulladék behozatalára, kivitelére, illetve átszállítására irányuló bejelentési kötelezettség teljesítésével egyidejűleg a bejelentő és a címzett hatósági bizonyítvánnyal igazolja a környezetvédelmi hatóság részére azt a tényt, hogy vele szemben nem áll fenn a (2) bekezdés a) vagy b) pontjában meghatározott kizáró ok, vagy kéri, hogy e tény fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a bejelentési kötelezettség teljesítése céljából a környezetvédelmi hatóság által benyújtott adatigénylés alapján továbbítsa. Az adatigénylés során a környezetvédelmi hatóság a bűnügyi nyilvántartó szervtől a (2) bekezdés a) és b) pontjában meghatározott adatokat kérheti.
+(3) A hulladék behozatalára, illetve kivitelére irányuló bejelentési kötelezettség teljesítésével egyidejűleg a magyarországi székhellyel vagy telephellyel rendelkező bejelentő, illetve címzett hatósági bizonyítvánnyal igazolja a környezetvédelmi hatóság részére azt a tényt, hogy vele szemben nem áll fenn a (2) bekezdés a) vagy b) pontjában meghatározott kizáró ok, vagy kéri, hogy e tény fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a bejelentési kötelezettség teljesítése céljából a környezetvédelmi hatóság által benyújtott adatigénylés alapján továbbítsa. Az adatigénylés során a környezetvédelmi hatóság a bűnügyi nyilvántartó szervtől a (2) bekezdés a) és b) pontjában meghatározott adatokat kérheti.
 
 (4) A környezetvédelmi hatóság a hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával összefüggésben folytatott hatósági ellenőrzés keretében azt is ellenőrizheti, hogy a bejelentésre kötelezett vagy a címzett nem áll-e a (2) bekezdés a) és b) pontjában meghatározott kizáró ok hatálya alatt. A hatósági ellenőrzés céljából a környezetvédelmi hatóság a bűnügyi nyilvántartási rendszerből adatot kérhet. Az adatkérés kizárólag a (2) bekezdés a) és b) pontjában meghatározottak igazolásához szükséges adatra irányulhat.
 
@@ -416,7 +418,7 @@ kötheti.
 
 (2) Akinek tevékenysége során hulladék képződik, a hulladék kezeléséről a hulladékbirtokosra vonatkozó előírásoknak megfelelően gondoskodik.
 
-(3) Hulladékot csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezet tárolhat.
+(3)
 
 ### V. Fejezet — A HULLADÉKGAZDÁLKODÁSI KÖZSZOLGÁLTATÁSRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
@@ -752,20 +754,7 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 
 (4) A hulladékjegyzékben felsorolt anyag vagy tárgy akkor minősül hulladéknak, ha megfelel a 2. § (1) bekezdésének 23. pontjában foglaltaknak.
 
-64. § (1) Ha a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott gazdálkodó szervezet mellékterméket állít elő vagy tevékenysége során melléktermék képződik, és az előállított vagy képződött anyagot, tárgyat melléktermékként, illetve termékként használja fel, tárolja vagy forgalmazza, a gazdálkodó szervezet a melléktermék 8. § szerinti feltételeknek való megfeleléséről a melléktermék képződését vagy előállítását követő 30 napon belül tájékoztatja a környezetvédelmi hatóságot.
-
-(2) A környezetvédelmi hatóság a melléktermék megfelelőségének és biztonságának ellenőrzéséért, illetve a melléktermék piacának felügyeletéért felelős hatóságtól az (1) bekezdésben meghatározott tájékoztatás alapján a gazdálkodó szervezet által felhasznált, tárolt vagy forgalmazott melléktermék felhasználhatóságának, tárolhatóságának vagy forgalmazhatóságának igazolására nyilatkozatot kér. A melléktermék megfelelőségének és biztonságának ellenőrzéséért, illetve a melléktermék piacának felügyeletéért felelős hatóság a nyilatkozatot a kérelem kézhezvételétől számított 30 napon belül a környezetvédelmi hatóságnak megküldi.
-
-(3) A környezetvédelmi hatóság indokolt esetben a melléktermék 8. §-ban meghatározott feltételeknek való megfelelésének igazolására a gazdálkodó szervezettől a melléktermék felhasználhatóságára, tárolhatóságára vagy forgalmazhatóságára vonatkozó dokumentációt kérhet, amelyet a felhívástól számított 60 napon belül a gazdálkodó szervezet a környezetvédelmi hatóságnak benyújt. Indokolt esetben a környezetvédelmi hatóság a dokumentáció benyújtásának határidejét meghosszabbíthatja.
-
-(4) A (3) bekezdés szerinti dokumentáció tartalmazza:
-
-- a) a melléktermék előállítással vagy képződéssel járó technológia részletes ismertetését,
-- b) a technológia anyagmérlegét,
-- c) az előállított vagy képződött melléktermék összetételét, valamint
-- d) a melléktermék felhasználásának, tárolásának, forgalmazásának tervezett célját, helyét és módját.
-
-(5) A (3) bekezdésben meghatározott dokumentációt a környezetvédelmi hatóság a dokumentáció beérkezésétől számított 3 hónapon belül határozatban elbírálja.
+64. § Ha valamely gazdálkodó szervezet mellékterméket állít elő, vagy tevékenysége során melléktermék képződik, és azt melléktermékként tárolja, használja fel vagy forgalmazza, a melléktermék 8. § szerinti feltételeknek való megfeleléséről a környezetvédelmi hatóságot kormányrendeletben meghatározott módon tájékoztatja.
 
 #### 28. Nyilvántartás vezetése és adatszolgáltatás
 
@@ -784,7 +773,7 @@ tarthatja nyilván.
 
 (5) A nyilvántartás vezetésére kötelezett a nyilvántartás alapján a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendelet szerint a környezetvédelmi hatóságnak adatot szolgáltat, továbbá nyilvántartását a hatóság felhívása esetén a hatóság rendelkezésére bocsátja.
 
-(6) Az a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott gazdálkodó szervezet, amely mellékterméket állít elő vagy tevékenysége során melléktermék képződik, és az előállított vagy képződött anyagot, tárgyat melléktermékként használja fel, tárolja vagy forgalmazza, a melléktermékről – a 64. § (4) bekezdésében meghatározott tartalommal – nyilvántartást vezet.
+(6) Az a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott gazdálkodó szervezet, amely mellékterméket állít elő vagy tevékenysége során melléktermék képződik, és az előállított vagy képződött anyagot, tárgyat melléktermékként tárolja, használja fel vagy forgalmazza, a melléktermékről – kormányrendeletben meghatározott tartalommal – nyilvántartást vezet.
 
 66. § (1) A hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségek teljesítéséről a közszolgáltató gondoskodik.
 
@@ -1182,16 +1171,17 @@ jogsértés esetén nem mérsékelhető.
 - 24. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 - 25. a Hivatal által kiszabható bírság felső határát;
 - 26. a közterület tisztántartásával kapcsolatos hulladékgazdálkodási szabályokat;
-- 27. a melléktermékre vonatkozó részletes szabályokat;
-- 28. a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységek, valamint a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+- 27. a melléktermék státusznak való megfelelés igazolására, valamint a melléktermék tárolására és nyilvántartására vonatkozó részletes szabályokat;
+- 28. a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységek, valamint a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint a biohulladékból előállított komposzt osztályozásának szabályait;
 - 29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
 - 30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait;
 - 31. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
+- 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
 
 - 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
-- 2. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes műszaki szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
+- 2.
 - 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
 - 4. a hulladék termikus kezelésének technikai követelményeit és részletes szabályait;
 - 5. a hulladékolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
@@ -1234,7 +1224,7 @@ rendeletben állapítsa meg.
 
 90. § (1) E törvény rendelkezéseit a hatálybalépése után indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
-(2) A begyűjtési és tárolási engedélyek időbeli hatályuk lejártáig, de legkésőbb e törvény hatálybalépését követő 2 évig hatályosak, azt követően hatályukat vesztik. A begyűjtési és tárolási engedéllyel rendelkező gazdálkodó szervezetre a gyűjtőre, a szállítóra, a kereskedőre, a közvetítőre és a hulladékkezelőre vonatkozó szabályokat kell megfelelően alkalmazni.
+(2) A begyűjtési és tárolási engedélyek időbeli hatályuk lejártáig hatályosak, azt követően hatályukat vesztik. A begyűjtési és tárolási engedéllyel rendelkező gazdálkodó szervezetre a gyűjtőre, a szállítóra, a kereskedőre, a közvetítőre és a hulladékkezelőre vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (3) A törvény hatálybalépésekor működő gazdálkodó szervezet, amely mellékterméket állít elő, vagy tevékenysége során melléktermék képződik, és az előállított vagy képződött anyagot, tárgyat melléktermékként használja fel, tárolja vagy forgalmazza, a melléktermék 8. § szerinti feltételeknek való megfeleléséről a melléktermék képződését vagy előállítását követő 6 hónapon belül tájékoztatja a környezetvédelmi hatóságot.
 

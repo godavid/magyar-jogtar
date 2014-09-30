@@ -472,6 +472,20 @@ keletkeztet ellenőrzéssel lezárt időszakot.
   - vf) az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló 2173/2005/EK rendelet alapján az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerével kapcsolatos, az engedélyek elfogadására és hatósági nyilvántartására kijelölt hatóságot,
   - vg) a gazdasági célfelhasználásra szánt egyes termékek (berendezések, készülékek, gépek és rendszerek), illetőleg a kötelező hitelesítés körébe tartozó egyes mérőeszközök piacfelügyeletére kijelölt hatóságot.
 
+(6a) A Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosultnak az általa igénybe vehető szolgáltatásokról történő tájékoztatása céljából adatot igényelhet a vámhatóságtól.
+
+(6b) A (6a) bekezdés szerinti adatigénylés a következő adatokra terjedhet ki:
+
+- a) az egyes harmadik országok vonatkozásában a vámpolitikai, kereskedelempolitikai elemzési célokból összesített adatok;
+- b) az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult egyéni vállalkozó neve, lakcíme, levelezési címe, egyéni vállalkozói nyilvántartási száma, adóazonosító jele;
+- c) az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult jogi személy elnevezése, székhelye, levelezési címe, cégjegyzékszáma, statisztikai számjele, adóazonosító száma.
+
+(6c) Az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult a vámhatósághoz intézett, írásban vagy elektronikus úton tett nyilatkozatban megtilthatja a (6b) bekezdésben meghatározott adatainak a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság részére történő továbbítását.
+
+(6d) Az adatigénylés teljesítésének a (6c) bekezdés szerinti megtiltása esetén a vámhatóság a (6a) bekezdés szerinti adatigénylés teljesítését megtagadja.
+
+(6e) Ha az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult a (6a) bekezdés szerinti adatigénylés teljesítését követően tiltja meg a (6b) bekezdés szerinti adatainak a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság részére történő továbbítását, a vámhatóság a nyilatkozat megtételét követő, további adatigénylés teljesítését megtagadja, és értesíti a Magyar Export-Import Bank Részvénytársaságot és a Magyar Exporthitel Biztosító Részvénytársaságot az adattovábbítás megtiltásáról.
+
 (7) A vámtitokról való tájékoztatás azon adatokra terjedhet ki, amelyek kezelésére a (6) bekezdés szerinti szervek törvény alapján jogosultak.
 
 (8) A vámhatóság és
@@ -1175,6 +1189,8 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 78/A. § (1) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 48. § (4) bekezdését, 59. § (2) és (4)–(5) bekezdését és 33/A. § (6) bekezdését a folyamatban lévő ügyekben is alkalmazni kell, ha az az ügyfél számára kedvezőbb.
 
 (2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 7/N. § (6) bekezdését, 54/A. §-át, 55. § (2)–(2a) bekezdéseit, 56. §-át, 56/A. §-át, 60/A. §-át, 60/B. §-át, 61/A. § (6)–(6a), (8) és (11a) bekezdéseit, 61/B. §-át a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+78/B. § A Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság első alkalommal az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvény hatálybalépését követő 31. napon igényelhet adatot a 16. § (6a) bekezdése szerint a vámhatóságtól.
 
 ### Módosuló jogszabályok
 

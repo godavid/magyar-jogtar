@@ -22,7 +22,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 2. filmalkotás: a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort, és a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilmet;
 - 3. film alkotói: a filmalkotás céljára készült irodalmi és zeneművek szerzői, a filmalkotás rendezője és mindazok, akik a filmalkotás egészének kialakításához alkotó módon járultak hozzá, továbbá a filmalkotásban felhasznált egyéb művek szerzői;
 - 4. filmelőállító: az a jogi személy, aki vagy amely saját nevében kezdeményezi és megszervezi a filmalkotás megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről, és rendelkezik a filmalkotás felhasználására és a felhasználás engedélyezésére vonatkozó jogokkal;
-- 5. magyar filmelőállító: olyan filmelőállító, amely magyarországi székhellyel rendelkező jogi személy és vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely ország állampolgára, és benne ezen országok állampolgárai vagy jogi személyei rendelkeznek többségi befolyással;
+- 5. magyar filmelőállító: magyarországi székhellyel rendelkező filmelőállító, amelynek tevékenységi körei között szerepel a filmelőállítás, filmgyártás;
 - 6. nemzetközi koprodukciós filmalkotás: különböző államokban székhellyel rendelkező filmelőállítók által készített filmalkotás, amelyet két- vagy többoldalú nemzetközi egyezmény vagy az érintett államok jogszabályai ilyennek minősítenek;
 - 6a. koprodukciós filmalkotás: olyan magyar filmelőállítók által közösen készített filmalkotás, amelyben a filmelőállítók filmalkotásra vonatkozó jogait és kötelezettségeit koprodukciós szerződés rögzíti;
 - 6b. egyéb nemzetközi koprodukciós filmalkotás: különböző államokban székhellyel rendelkező filmelőállítók által készített filmalkotás, amely nem tartozik két- vagy többoldalú nemzetközi egyezmény hatálya alá, de a filmelőállítók jogait és kötelezettségeit koprodukciós szerződés rögzíti és a filmalkotás Magyarországon csak közvetett támogatást vesz igénybe;
@@ -49,7 +49,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 19. filmterv fejlesztés: filmterv és forgatókönyv létrejöttét, eladhatóságát és eladását, illetve megvalósíthatóságát és későbbi megvalósítását célzó kutatói, alkotói, tervezési és szervezési munkák összessége;
 - 20. filmgyártás: a filmgyártás előkészítésétől a filmalkotás első eredeti példányának előállításáig vezető alkotói, szervezési, gazdasági és műszaki tevékenységek összessége; az első eredeti példány az első, közönség előtti bemutatásra alkalmas végleges kópia;
 - 20a. filmgyártó vállalkozás: az a jogi személy, amely a film gyártására vonatkozó szerződés alapján szervezi a filmalkotás megvalósítását, és ezen tevékenysége révén az adott film tekintetében nem minősül filmelőállítónak;
-- 20b. magyar filmgyártó vállalkozás: a mozgóképszakmai hatóság nyilvántartásába vett, magyarországi székhellyel rendelkező filmgyártó vállalkozás, amely vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely országnak az állampolgára;
+- 20b. magyar filmgyártó vállalkozás: a mozgóképszakmai hatóság által nyilvántartásába vett, magyarországi székhellyel rendelkező filmgyártó vállalkozás;
 - 21. filmgyártás-előkészítés: a filmforgatás megkezdését megelőző, közvetlenül annak anyagi, műszaki, szervezési feltételeinek biztosítását célzó alkotó- és szervező tevékenység;
 - 22.
 - 23. megrendelésre készülő filmalkotás: az a filmalkotás, amelynek gyártásában az adott film tekintetében filmgyártónak minősülő vállalkozás vesz részt;
@@ -261,9 +261,13 @@ meghatározott kulturális követelményeknek megfelel.
 
 13. § (1) Ha e törvény másként nem rendelkezik, az e törvény szerinti támogatás mértéke bármely filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának az 50%-áig terjedhet.
 
-(2) Az e törvény szerinti támogatás mértéke a mozibemutatásra készült – játékfilm, egész estét betöltő dokumentumfilm, népszerű tudományos és animációs film műfajba tartozó – magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 90%-áig terjedhet, ha a filmalkotás gyártási költségvetése nem haladja meg magyar filmalkotás esetén a 237 millió forintot, nemzetközi koprodukciós filmalkotás esetén a 467 millió forintot.
+(1a) Ha a nemzetközi koprodukciós filmalkotásban a magyar filmelőállító mellett legalább egy EGT-állambeli filmelőállító is részt vesz, az e törvény szerinti támogatás mértéke a magyar hozzájárulás arányának 60%-áig terjedhet.
 
-(3) Az e törvény szerinti támogatás mértéke magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 90%-áig terjedhet, ha a filmalkotást eredetileg magyar nyelven gyártják, továbbá valószínűsíthető, hogy a filmalkotás gyártási költségvetése a terjesztés valamennyi formájából származó összes bevétel révén sem térül meg. Ha a filmalkotás gyártási költségvetése a terjesztés során megtérül, a gyártási költségvetést meghaladó összeget a támogatónak vissza kell fizetni.
+(2) Az e törvény szerinti támogatás mértéke a mozibemutatásra készült – játékfilm, egész estét betöltő dokumentumfilm, népszerű tudományos és animációs film műfajba tartozó – magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 100%-áig terjedhet, ha a filmalkotás gyártási költségvetése nem haladja meg magyar filmalkotás esetén a 237 millió forintot, nemzetközi koprodukciós filmalkotás esetén a 467 millió forintot.
+
+(3) Az e törvény szerinti támogatás mértéke magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 100%-áig terjedhet, ha a filmalkotást eredetileg magyar nyelven gyártják, továbbá valószínűsíthető, hogy a filmalkotás gyártási költségvetése a terjesztés valamennyi formájából származó összes bevétel révén sem térül meg. Ha a filmalkotás gyártási költségvetése a terjesztés során megtérül, a gyártási költségvetést meghaladó összeget a támogatónak vissza kell fizetni.
+
+(3a) Az e törvény szerinti támogatás mértéke magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 100%-áig terjedhet olyan nemzetközi koprodukciós filmalkotás esetén, amelyben a magyar mellett legalább egy, a Gazdasági Együttműködési és Fejlesztési Szervezet Fejlesztési Támogatási Bizottságának listáján felsorolt valamely állambeli filmelőállító is részt vesz.
 
 (4) Az e törvény szerinti támogatás mértéke dokumentumfilm, animációs film, tudományos ismeretterjesztő film, kísérleti film vagy rövidfilm műfajba tartozó magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 100%-áig terjedhet, ha a kulturális sokszínűséghez hozzájáruló filmalkotás elkészítéséhez szükséges forrás más módon nem biztosítható. Ez a szabály a mozibemutatásra készült játékfilmek esetén nem alkalmazható.
 
@@ -890,7 +894,8 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 (7) A közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján a közvetett támogatás forrását a letéti számlára utalja. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
 
 - a) a 2013. évben a 9700,0 millió forintot,
-- b) a 2014. évben a 7000,0 millió forintot
+- b) a 2014. évben a 7000,0 millió forintot,
+- c) a 2015. évben a 12 000,0 millió forintot
 
 nem haladhatja meg.
 

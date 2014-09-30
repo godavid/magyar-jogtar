@@ -53,11 +53,9 @@ a közbeszerzésekről
 - 17. postai szolgáltatás: a postáról szóló törvényben így meghatározott fogalom azzal, hogy a postai küldemény fogalmának vonatkozásában az ott meghatározott tömeghatárok nem érvényesülnek;
 - 18. postai szolgáltatástól eltérő szolgáltatás:
   - a) postaszolgálat-irányítási szolgáltatások (a postai feladást megelőző és a kézbesítést követő küldeményrendező szolgáltatások);
-  - b) elektronikus postával összefüggő és teljes mértékben elektronikus úton nyújtott hozzáadott-értékű szolgáltatások (beleértve kódolt dokumentumok elektronikus úton történő biztonságos továbbítását, a címkezelési szolgáltatásokat és ajánlott elektronikus levelek továbbítását is);
+  - b)
   - c) a 17. pont alá nem tartozó postai küldeményhez (így például címzés nélküli közvetlen küldeményhez) kapcsolódó szolgáltatások;
-  - d) a 3. melléklet 6. csoportjában és a 9. § (5) bekezdés b) pontjában meghatározott pénzügyi szolgáltatások, beleértve a pénzforgalmi szolgáltatást;
-  - e) bélyeggyűjtői (filatéliai) szolgáltatások;
-  - f) postai küldeményekkel kapcsolatos logisztikai szolgáltatások (a fizikai kézbesítést, valamint a raktározást egyéb, nem postai funkciókkal vegyítő szolgáltatások);
+  - d)–f)
 - 19. részvételre jelentkező: az a gazdasági szereplő, aki (amely) a több szakaszból álló közbeszerzési eljárás első, részvételi szakaszában részvételi jelentkezést nyújt be;
 - 20. szociális foglalkoztatási engedéllyel rendelkező szervezet: a szociális igazgatásról és a szociális ellátásokról szóló törvényben kapott felhatalmazás alapján készült, a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait tartalmazó kormányrendeletben így meghatározott fogalom;
 - 21. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt és a kezességvállalást;
@@ -135,6 +133,13 @@ a közbeszerzésekről
 
 (4) Az (1) bekezdés ka) és a kb) pontjaiban rögzített feltételeknek a szerződés teljes időtartama alatt fenn kell állniuk. Amennyiben az (1) bekezdés ka) és a kb) pontjaiban rögzített feltételek már nem állnak fenn, ajánlatkérő a szerződést olyan határidővel jogosult és köteles felmondani, hogy a közfeladat ellátásáról (közbeszerzési eljárás lefolytatásáról) gondoskodni tudjon.
 
+(4a) E törvényt nem kell alkalmazni a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet következő tevékenységek célját szolgáló beszerzései vonatkozásában:
+
+- a) elektronikus postával összefüggő és teljes mértékben elektronikus úton nyújtott hozzáadott-értékű szolgáltatások (beleértve kódolt dokumentumok elektronikus úton történő biztonságos továbbítását, a címkezelési szolgáltatásokat és ajánlott elektronikus levelek továbbítását),
+- b) a 66100000-1 és 66720000-3 közötti CPV-kódok alatti és az értékpapírok és egyéb pénzügyi eszközök kibocsátásával, vételével, eladásával vagy átruházásával kapcsolatos pénzügyi szolgáltatás a pénzügyi eszközök piacairól, a 85/611/EGK, és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2004. április 21-i 2004/39/EK európai parlamenti és tanácsi irányelv értelmében, valamint az Európai Pénzügyi Stabilitási Eszköz és az európai stabilizációs mechanizmus segítségével végrehajtott műveletek, beleértve a postai pénzesutalványokat és a postai elszámolási számlákról történő átutalásokat,
+- c) bélyeggyűjtői szolgáltatások, vagy
+- d) logisztikai szolgáltatások (a fizikai kézbesítést, illetve a raktározást egyéb, nem postai funkciókkal vegyítő szolgáltatások).
+
 (5) E törvény szerinti eljárást – ha a közbeszerzés tárgya szolgáltatás megrendelés – nem kell alkalmazni a következő esetekben:
 
 - a) meglévő építmény vagy egyéb ingatlan vétele vagy ingatlanra vonatkozó egyéb jognak a megszerzése; kivéve az ilyen szerződéssel összefüggő pénzügyi szolgáltatásra irányuló (bármilyen formában, illetve tartalommal megkötött) szerződést;
@@ -144,7 +149,8 @@ a közbeszerzésekről
 - e) munkaszerződés, közszolgálati, közalkalmazotti jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a fegyveres szervek hivatásos állományának szolgálati jogviszonya;
 - f) kutatási és fejlesztési szolgáltatás; kivéve, ha annak eredményét kizárólag az ajánlatkérő hasznosítja tevékenységi körében, és az ellenszolgáltatást teljes mértékben az ajánlatkérő teljesíti;
 - g) ha a szolgáltatást a 6. § (1) bekezdés a)–c) pontjaiban meghatározott ajánlatkérők valamelyike vagy általuk létrehozott társulás jogszabály alapján fennálló kizárólagos jog alapján nyújtja;
-- h) ha valamely közfeladat ellátását egy 6. § (1) bekezdés a)–c) pontja szerinti ajánlatkérő egy másik 6. § (1) bekezdés a)–c) pontok szerinti ajánlatkérőnek adja át olyan módon, hogy az az átruházó ajánlatkérőtől teljesen függetlenül és saját felelősséggel, haszonszerzési cél nélkül végzi a feladat ellátását.
+- h) ha valamely közfeladat ellátását egy 6. § (1) bekezdés a)–c) pontja szerinti ajánlatkérő egy másik 6. § (1) bekezdés a)–c) pontok szerinti ajánlatkérőnek adja át olyan módon, hogy az az átruházó ajánlatkérőtől teljesen függetlenül és saját felelősséggel, haszonszerzési cél nélkül végzi a feladat ellátását;
+- i) kölcsönök, függetlenül attól, hogy értékpapírok vagy egyéb pénzügyi eszközök kibocsátásával, vételével, eladásával vagy átruházásával kapcsolatosak-e.
 
 (6) Az (1) bekezdés a) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését a 6.§ (1) bekezdés a) és b) pontjában meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
 
@@ -279,9 +285,11 @@ megismerése nem korlátozható.
 
 ### Központosított közbeszerzés
 
-23. § (1) A Kormány a közbeszerzések központosított eljárás keretében történő lefolytatását rendelheti el az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában, meghatározva annak személyi és tárgyi hatályát, az ajánlatkérésre feljogosított szervezetet (központi beszerző szerv), valamint az eljáráshoz való csatlakozás lehetőségét. Jogszabály vagy a támogató szervezet az államháztartásról szóló törvény szerinti költségvetési támogatás nyújtását a központosított eljáráshoz való csatlakozás feltételéhez kötheti.
+23. § (1) A Kormány a közbeszerzések központosított eljárás keretében történő lefolytatását rendelheti el az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint azon állami tulajdonú gazdálkodó szervezetek vonatkozásában, amelyek felett közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni, meghatározva a központosított eljárás személyi és tárgyi hatályát, az ajánlatkérésre feljogosított szervezetet (központi beszerző szerv), valamint az eljáráshoz való csatlakozás lehetőségét. Jogszabály vagy a támogató szervezet az államháztartásról szóló törvény szerinti költségvetési támogatás nyújtását a központosított eljáráshoz való csatlakozás feltételéhez kötheti.
 
 (2) Az Egészségbiztosítási Alapból finanszírozott szervezeteknél az egészségügyi szolgáltatásokhoz kapcsolódóan központosított eljárást lehet alkalmazni. A Kormány jogosult az eljárás részletes szabályainak meghatározására, beleértve a személyi és tárgyi hatályt, valamint az ajánlatkérésre feljogosított szervezetet. A központosított közbeszerzések fedezete az Egészségbiztosítási Alap mindenkori költségvetésében az adott ellátási forma előirányzata.
+
+(2a) A (2) bekezdésben foglalt szolgáltatásokon túl a kormányzati kommunikációs feladatok ellátásával kapcsolatos közbeszerzések esetében is központosított eljárást lehet alkalmazni. A Kormány jogosult a központosított eljárás részletes szabályainak meghatározására, beleértve annak személyi és tárgyi hatályát, valamint az ajánlatkérésre feljogosított szervezetet.
 
 (3) A központosított eljárás részletes – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – szabályait külön jogszabály határozza meg.
 
@@ -2392,7 +2400,14 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (4) A Döntőbizottság elnökét és elnökhelyettesét a Tanács a jelen lévő tagok kétharmadának szavazatával, öt évre választja meg. A Döntőbizottság elnökhelyettesét a Tanács a közbeszerzési biztosok közül választja meg, az elnökhelyettes személyére a Döntőbizottság elnöke tesz javaslatot. A Döntőbizottság elnöke és elnökhelyettese újraválasztható.
 
-(5) A Döntőbizottság elnöke az lehet, aki legalább tízéves közbeszerzési és legalább hároméves bírói gyakorlattal vagy legalább tízéves közbeszerzési és legalább hároméves közbeszerzési biztosi gyakorlattal, továbbá jogi szakvizsgával rendelkezik.
+(5) A Döntőbizottság elnöke az lehet,
+
+- a) aki jogi szakvizsgával és
+  - aa) legalább ötéves közbeszerzési gyakorlattal vagy
+  - ab) legalább hároméves állami vezetői gyakorlattal, vagy
+- b) aki legalább hároméves bírói vagy ügyészi gyakorlattal
+
+rendelkezik.
 
 (6) A Döntőbizottság elnökének közszolgálati jogviszonyára a közszolgálati tisztviselőkről szóló törvényt (a továbbiakban: Kttv.) a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -2510,7 +2525,9 @@ az Ükt. hatálybalépése után megkezdett közbeszerzési eljárásokra kell a
 - 17. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 - 18. az irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, amelyekben az állam nevében a tulajdonosi (részvényesi, tagsági stb.) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján központi költségvetési szerv vagy intézménye gyakorolja, valamint e szervezetek közbeszerzési szerződései teljesítésének ellenőrzésére és módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését;
 - 19. az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában, az uniós értékhatárokat el nem érő árubeszerzésekre, valamint szolgáltatás megrendelésekre e törvény 123. §-ának alkalmazásában kötelezően alkalmazandó eljárási szabályokat;
-- 20. a közbeszerzési eljárás valamennyi szakaszára kiterjedő környezetvédelmi, fenntarthatósági és energiahatékonysági követelmények tekintetében előírható részletes szabályokat, valamint az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában a környezetvédelmi, fenntarthatósági és energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját.
+- 20. a közbeszerzési eljárás valamennyi szakaszára kiterjedő környezetvédelmi, fenntarthatósági és energiahatékonysági követelmények tekintetében előírható részletes szabályokat, valamint az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában a környezetvédelmi, fenntarthatósági és energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját;
+- 21. a kormányzati kommunikációs feladatok ellátásához kapcsolódó központosított eljárások részletes szabályait, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét;
+- 22. a kormányzati kommunikációs feladatok ellátását biztosító kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt eltérő – szabályait.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
