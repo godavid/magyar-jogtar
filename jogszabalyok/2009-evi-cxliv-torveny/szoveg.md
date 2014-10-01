@@ -11,7 +11,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 1. alakuló gyűlés: az érdekeltek fóruma a társulat megalakítása céljából;
 - 2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a központi költségvetésről szóló törvényben évenként megállapított költségvetési hozzájárulás;
 - 3. beolvadás: egyesülési folyamat, amelyben a beolvadó társulat megszűnik, és annak vagyona az átvevő társulatra, mint jogutódra száll át;
-- 4. elkülönített vagyon: a társulat nyilvántartásában kimutatott társulati művek, valamint a közfeladatok ellátásához a tárgyévben juttatott pénzeszköz, továbbá saját vagyonból a társulati művek értékének 8%-a;
+- 4. elkülönített vagyon: az üzemeltetésre, fenntartásra és fejlesztésre a települési önkormányzattól vagy a magántulajdonostól átvett művek, valamint a tulajdonos részéről a vízitársulatnak az üzemeltetésre, fenntartásra és fejlesztésre juttatott pénzeszköz;
 - 5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 - 6. érdekelt képviselete: az érdekeltet az alakuló gyűlésen képviselő személy;
 - 7. érdekeltség jogcíme: ingatlantulajdonlás vagy ingatlan egyéb jogcímen történő használata;
@@ -40,8 +40,8 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 29. társulati alapszabály: a társulat önkormányzati működésének szabályait meghatározó dokumentum;
 - 30.
 - 31.
-- 32. társulati közfeladat: a társulat működési területén a társulat tagjainak közös érdekeit szolgáló vízgazdálkodási tevékenység, valamint megbízás alapján a forgalomképes állami tulajdonban lévő vizekkel és vízilétesítményekkel összefüggő feladatok ellátása;
-- 33. társulati művek: azok a közcélú, mezőgazdasági és más célú vízgazdálkodási művek, amelyeket a társulat küldöttgyűlése annak nyilvánít;
+- 32. társulati közfeladat: a társulat működési területén a társulat tagjainak közös érdekeit, valamint üzemeltetési szerződés esetén a települési önkormányzati tulajdonban lévő vizek és vízilétesítmények fenntartását, üzemeltetését és fejlesztését szolgáló vízgazdálkodási tevékenység;
+- 33. társulati művek: a vízitársulat saját tulajdonában lévő művek, valamint a települési önkormányzati vagy magántulajdonban lévő azon művek, amelyek fenntartására, üzemeltetésére és fejlesztésére a tulajdonos a vízitársulattal üzemeltetési szerződést köt;
 - 34. területi egység: a társulat működési területének az a földrajzilag meghatározható része, amelyről a terület érdekeltjei, a társulat tagjai küldöttjelölteket, küldötteket választanak;
 - 35. területi vízgazdálkodás: a helyi jelentőségű közcélú vízgazdálkodási feladatok a káros többlet vizek és a vízhiányok okozta károk megelőzése, elhárítása érdekében;
 - 36. törvényességi felügyeletet gyakorló szerv: a területileg illetékes cégbíróság;
@@ -60,7 +60,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 3. § (1) A területi vízgazdálkodási közfeladatok az e törvényben meghatározott feltételek szerint létrehozott társulatok útján is elláthatók.
 
-(2) A társulat közfeladatként a működési területén a tulajdonában, vagyonkezelésében, valamint használatában lévő közcélú vízgazdálkodási műveken (a továbbiakban: társulati művek) területi vízrendezési, vízkárelhárítási és mezőgazdasági vízhasznosítási feladatokat lát el, közcélú vízilétesítményeket hoz létre, karbantartási és üzemeltetési feladatokat lát el. Működési területén környezetvédelmi, természetvédelmi, táblán, illetve üzemen belüli meliorációs és mezőgazdasági vízszolgáltatási feladatokat végezhet.
+(2) A vízitársulat a társulati műveken területi vízrendezési, vízkárelhárítási és mezőgazdasági vízhasznosítási feladatokat lát el, a társulati műveket fenntartja, üzemelteti és fejleszti.
 
 (3) A társulat alapszabályban meghatározott közfeladatait elősegítő vállalkozási tevékenységet is folytathat.
 

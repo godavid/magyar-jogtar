@@ -1460,7 +1460,7 @@ foglalt árat köteles megfizetni.
 (2) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter
 
 - a) a rendszerhasználati díj esetében a 105. § (2) bekezdése,
-- b) a csatlakozási díj esetében a 108. § (1) bekezdése,
+- b)
 - c) a külön díj esetében a 106. §, és
 - d) az egyetemes szolgáltatás árának esetében a 107. § (3) bekezdése szerinti rendeletben állapítja meg.
 
@@ -1548,7 +1548,7 @@ foglalt árat köteles megfizetni.
 
 (6)
 
-108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg. A csatlakozási díjakat és alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók.
+108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait a Hivatal elnöke rendeletben állapítja meg. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók.
 
 (2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint vegye figyelembe a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozás érdekében végrehajtott hálózati beruházásra fordított összeg nagyságát.
 
@@ -1556,10 +1556,7 @@ foglalt árat köteles megfizetni.
 
 (3a) A rendszerüzemeltető köteles a Hivatal által megállapított áralkalmazási feltételeket alkalmazni.
 
-(4) A Hivatal az (1) bekezdésben meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelet kihirdetését. A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
-
-- a) elfogadása esetén a miniszter a csatlakozási díjak meghatározásának szempontjait, elemeit, alkalmazásának általános szabályait az előterjesztés elfogadását követő 30 napon belül rendelettel hirdeti ki,
-- b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
+(4) A Hivatal az (1) bekezdésben meghatározott elnöki rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendelet tervezetét az engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveivel történő egyeztetést megelőzően a honlapján közzéteszi.
 
 (5) A csatlakozási díjból származó vagy a csatlakozási díj megállapításáról szóló külön jogszabályban meghatározott bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség számításánál figyelmen kívül kell hagyni.
 
@@ -2154,7 +2151,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - e) ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, a 715/2009/EK rendeletben, a Hivatal által kiadott határozatokban, az Üzemi és Kereskedelmi Szabályzatban, üzletszabályzatokban, valamint a megfelelési programokban meghatározott kötelezettségek betartását, különösen a tevékenységek szétválasztásának teljesítésére és ennek keretében a keresztfinanszírozás-mentes működés érvényesülésére vonatkozó szabályokat, továbbá a 128. § szerinti eljárásban ellenőrzi a szállítási rendszerüzemeltető szétválasztási követelményeknek való megfelelését;
 - f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez, figyelemmel kíséri továbbá a szállítási rendszerüzemeltető és a vertikálisan integrált vállalkozás közötti kommunikációt, valamint a kereskedelmi és pénzügyi kapcsolatokat;
 - g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, és az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket;
-- gy) rendeletében meghatározza a rendszerhasználati és a csatlakozási díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
+- gy) rendeletében meghatározza a rendszerhasználati és a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
 - h) javaslatot tesz a rendszerüzemeltető és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira, az ingyenesen biztosítandó szolgáltatások legszűkebb körére, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körére és díjaira;
 - i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira, az egyetemes szolgáltatás keretében értékesített mennyiségekre, a hatósági árral érintett földgázforrás felhasználására vonatkozó előírások teljesülését, és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, ellenőrzi továbbá az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátására termelt hazai földgáz árképzésére vonatkozó szabályok betartását, valamint előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 - í) a külön jogszabályban az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett számítási módszer szerint meghatározza a földgázelosztóknak a 105. § (4) bekezdés alapján teljesítendő kiegyenlítő fizetések összegét;
@@ -2364,7 +2361,7 @@ tartalmazza.
 133. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 - 1. a kiegyensúlyozás földgázszállító általi biztosításához közvetlenül kapcsolódó igazolt költségeket és pótdíjakat, valamint azok nyilvántartását, kezelését,
-- 2. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat, valamint a csatlakozási díjak meghatározásának szempontjait és a csatlakozási díjak elemeit,
+- 2. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat,
 - 3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, a nagycsaládosokat megillető kedvezményre vonatkozó szabályokat, az egyetemes szolgáltatók és a földgázkereskedők részére vételre felajánlott földgázforrás árát, a 141–141/A. § és a 141/C. § szerinti szerződések tekintetében felajánlás keretében értékesített mennyiséget a földgáztárolóból és nem földgáztárolóból származó mennyiség szerinti bontásban; az egyetemes szolgáltatásra jogosult felhasználók és a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges (felhasználási és tárolási célú) hazai termelésű földgáz mennyiségét, az egyetemes szolgáltatásra jogosult felhasználók és a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát, az igénybevételre jogosultak vagy e törvény szerint kötelezettek körét, valamint a 141/A–141/C. §-ban foglaltak megsértése esetén az e rendelkezésekben meghatározott engedélyesekkel szemben alkalmazandó jogkövetkezmények körét, valamint a kapcsolt termelésszerkezet átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét,
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, az adatbázishoz való hozzáférés részletes szabályait és a szükséges adatszolgáltatást,
 - 5. az engedélyesek és a PB-gáz forgalmazók adatszolgáltatásának módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, a miniszter, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 2:47. § (1) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
@@ -2400,7 +2397,7 @@ tartalmazza.
 133/A. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
 - 1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
-- 2. a csatlakozási díjakat és alkalmazásuk szabályait,
+- 2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait,
 - 3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK

@@ -2333,20 +2333,17 @@ ELJÁRÁSOK
 - b) a Hivatalnak megadni minden olyan tájékoztatást, amely az árfelügyeleti és hatósági árelőkészítő tevékenységhez szükséges,
 - c) a költség és árbevétel struktúra átláthatóságát nyilvántartási és elszámolási rendszerében biztosítani.
 
-144. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg.
+144. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, valamint a csatlakozási díjak mértékét és alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg. A rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
-(1a) A csatlakozási díjak mértékét és alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg. A rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
+(1a)
 
-(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint figyelembe vegye a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a hálózati engedélyes által a csatlakozás érdekében közvetlenül hálózati beruházásra fordított összeg nagyságát.
+(2) A csatlakozási díjat úgy kell megállapítani, hogy vegye figyelembe a csatlakozás érdekében hálózati beruházásra fordított összeg nagyságát, valamint az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint figyelembe vegye a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a csatlakozások érdekében közvetlenül hálózati beruházásokra fordított összegek nagyságát.
 
 (3) A csatlakozási díjból származó bevételt a hálózathoz történő csatlakozáshoz szükséges beruházásokra kell fordítani.
 
 (4) A csatlakozási díjat tételesen kell megállapítani. Az erőművek és a 132 kV, vagy annál magasabb feszültségszintre csatlakozó felhasználók esetében a csatlakozási díj a kiszámítására vonatkozó módszer előírásával is megállapítható. A rendszerhasználók és a hálózatra csatlakozni kívánók kötelesek a Hivatal által megállapított csatlakozási díjat megfizetni. A hálózati engedélyesek kötelesek a Hivatal által megállapított áralkalmazási feltételeket alkalmazni.
 
-(5) A Hivatal az (1) bekezdésben meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a honlapján közzéteszi és kezdeményezi a miniszternél a rendelet kihirdetését. A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
-
-- a) elfogadása esetén a miniszter a csatlakozási díjak meghatározásának szempontjait, elemeit, alkalmazásának általános szabályait az előterjesztés elfogadását követő 30 napon belül rendelettel hirdeti ki,
-- b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
+(5) A Hivatal az (1) bekezdésben meghatározott rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendelet tervezetét az engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveivel történő egyeztetést megelőzően a honlapján közzéteszi.
 
 (6) A csatlakozási díjból származó bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség számításánál figyelmen kívül kell hagyni.
 
@@ -2874,7 +2871,7 @@ rendeletben állapítsa meg.
 - 8. a felhasználók mérési adataihoz történő hozzáférés szabályait, az adatok formátumát, a mérési adatok felhasználók, valamint a villamosenergia-kereskedők részére történő átadásával kapcsolatos eljárás rendjét,
 - 9. a megújuló energiaforrásokból nyert energiával termelt energiára vonatkozó származási garanciára figyelemmel a megújuló energiaforrásokból előállított vagy felhasznált energia meghatározására és részarányának számítására vonatkozó eljárás szabályait, valamint a megújuló energiaforrásokból előállított vagy felhasznált energia mennyiségének számítási módját energiaforrásonként és felhasználási módonként,
 - 10. a megújuló energiaforrásból történő energiatermelő berendezések és rendszerek beszerzéséhez és működtetéséhez szükséges támogatások nyújtásának feltételét képező műszaki előírásokat, valamint a megújuló energiaforrásból származó energia felhasználásáról, alkalmazásáról, a felhasználás támogatásáról szóló tájékoztatás szabályait,
-- 11. rendszerhasználati díjak képzésének alapelveit, árszabályozásának kereteit, valamint csatlakozási díjak meghatározásának szempontjait és a díjak elemeit,
+- 11. rendszerhasználati díjak képzésének alapelveit, árszabályozásának kereteit,
 - 12.
 - 13. az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztási szabályait és a szétosztás során alkalmazható árak meghatározásának módját,
 - 14.
@@ -2908,7 +2905,7 @@ rendeletben állapítsa meg.
 (5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
 - 1. a rendszerhasználati díjakat és alkalmazásuk szabályait,
-- 2. a csatlakozási díjakat és alkalmazásuk szabályait,
+- 2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, valamint a csatlakozási díjak mértékét és alkalmazásuk szabályait,
 - 3. az elosztók közötti kiegyenlítő fizetések mértékét.
 
 ### XXI. Fejezet — ÁTMENETI RENDELKEZÉSEK

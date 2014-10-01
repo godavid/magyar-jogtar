@@ -538,7 +538,85 @@ alapján megállapítja a választás eredményét.
 
 ### VI. Fejezet — A HELYI NÉPSZAVAZÁSI ELJÁRÁS
 
-#### 80–90. §
+80. § A szavazás, az eredmény megállapítása és a jogorvoslat során a helyi népszavazásra feltett minden kérdést külön-külön kell figyelembe venni.
+
+#### 32. A helyi népszavazás kitűzése
+
+81. § (1) A helyi népszavazás időpontját a helyi választási bizottság a helyi népszavazást elrendelő képviselő-testületi határozat elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén annak elbírálását – követő 15 napon belül tűzi ki.
+
+(2) A helyi népszavazást úgy kell kitűzni, hogy a szavazás napja a kitűzés napját követő hetvenedik és ötvenedik nap közé essen.
+
+(3) A helyi népszavazási eljárás határidőinek naptár szerinti dátumait a helyi választási bizottság a helyi népszavazást kitűző határozatában állapítja meg.
+
+(4) A helyi népszavazás időpontjának kitűzéséről szóló határozatot az önkormányzat hivatalos lapjában, és a helyben szokásos módon közzé kell tenni.
+
+#### 33. A helyi népszavazási eljárás költségei
+
+82. § A helyi népszavazás előkészítésével és lebonyolításával kapcsolatos feladatok végrehajtásának költségeit, valamint a választási szervek tevékenységével összefüggő egyéb költségeket a helyi önkormányzat költségvetéséből kell biztosítani.
+
+#### 34. A választási szervek
+
+83. § (1) A helyi népszavazáson az alábbi választási bizottságok működnek:
+
+- a) szavazatszámláló bizottság,
+- b) helyi választási bizottság,
+- c) területi választási bizottság,
+- d) fővárosi, megyei ügyben a Nemzeti Választási Bizottság is.
+
+(2) A helyi választási bizottságba, fővárosi, megyei ügyben a területi választási bizottságba a kezdeményezés szervezői közösen, választási bizottságonként egy tagot, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek egy-egy tagot bízhatnak meg.
+
+(3) A szavazatszámláló bizottságba, valamint az egy szavazókörrel rendelkező településen a helyi választási bizottságba a kezdeményezés szervezői közösen, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek két-két tagot bízhatnak meg.
+
+#### 35. A választópolgár tájékoztatása
+
+84. § (1) Azt a választópolgárt, aki legkésőbb a szavazás napját megelőző harmincadik napon a szavazóköri névjegyzékben szerepel, a helyi választási iroda értesítő megküldésével tájékoztatja a szavazóköri névjegyzékbe vételéről.
+
+(2) Az értesítőt a választópolgár értesítési címére, ennek hiányában lakcímére a szavazást megelőző huszadik napig kell megküldeni.
+
+#### 36. A szavazólap adattartalma
+
+85. § (1) Egy szavazólapon csak egy kérdés szerepelhet.
+
+(2) A helyi népszavazás szavazólapja tartalmazza
+
+- a) a „szavazólap” megjelölést,
+- b) a bélyegzőlenyomat elhelyezésére szolgáló terület megjelölését a szavazólap bal felső sarkában,
+- c) a helyi népszavazás megnevezést,
+- d) a helyi népszavazás napját,
+- e) a település, illetve a megye vagy a főváros megjelölését,
+- f) annak megjelölését, hogy érvényesen szavazni csak egy válaszra lehet,
+- g) a helyi népszavazásra feltett kérdést,
+- h) az igen és nem válaszlehetőséget,
+- i) a szavazásra szolgáló kört,
+- j) az érvényes szavazat formájára vonatkozó tájékoztatást.
+
+(3) A szavazólap adattartalmát a helyi választási bizottság hagyja jóvá legkésőbb a szavazás napját megelőző harmincadik napon.
+
+#### 37. A szavazás módja
+
+86. § A Ve. 186. § rendelkezéseinek alkalmazása során jelöltön választ kell érteni.
+
+#### 38. A szavazatszámlálás
+
+87. § A Ve. 193. §, 195. §, valamint 197. § rendelkezéseinek alkalmazása során jelöltön választ kell érteni.
+
+#### 39. Az eredmény megállapítása
+
+88. § A helyi népszavazás eredményét a szavazatszámláló bizottságok jegyzőkönyvei alapján a helyi választási bizottság állapítja meg.
+
+#### 40. A jogorvoslat
+
+89. § (1) A helyi népszavazási eljárásban a jogorvoslat benyújtására és elbírálására rendelkezésre álló határidő öt nap. Ha a határidő utolsó napja nem munkanapra esik, a határidő csak az azt követő legközelebbi munkanapon jár le.
+
+(2) A helyi népszavazással kapcsolatos kifogásról a helyi választási bizottság dönt. A helyi választási bizottság döntése elleni fellebbezésről a területi választási bizottság dönt.
+
+#### 41. A területi szintű helyi népszavazási eljárás
+
+90. § (1) A megyei és a fővárosi szintű helyi népszavazási eljárásra e fejezet rendelkezéseit kell alkalmazni.
+
+(2) Az e fejezetben a helyi választási bizottság számára megállapított hatáskört a területi választási bizottság, a területi választási bizottság számára megállapított hatáskört a Nemzeti Választási Bizottság, a helyi választási iroda és annak vezetője számára megállapított hatáskört a területi választási iroda és vezetője gyakorolja.
+
+(3) Az e fejezetben a törvényszék számára megállapított hatáskört a Kúria gyakorolja.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
