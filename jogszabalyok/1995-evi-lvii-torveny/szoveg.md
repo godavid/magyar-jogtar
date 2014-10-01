@@ -127,6 +127,10 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (7) A természetes úton létrejött — a meder részét már nem képező — feliszapolódáson (parti növedék) csak a parti ingatlan tulajdonosa szerezhet tulajdont.
 
+6/A. § (1) A belvízelvezetést vagy öntözést szolgáló, nem állami tulajdonban lévő vízfolyások, csatornák üzemeltetését és fenntartását – a 45/E. § (1) bekezdése, a 45/F. § (2) bekezdése vagy a 45/G. § (4) bekezdése szerint megkötött üzemeltetési szerződés alapján – a működési terület szerinti vízügyi igazgatási szerv látja el.
+
+(2) A vízügyi igazgatási szerv végzi azon belvízelvezetést vagy öntözést szolgáló vízfolyások, csatornák üzemeltetését és fenntartását is, amelyre a vízügyi hatóság kijelölte.
+
 7. § (1) Az állami tulajdonban lévő, valamint a 6/A. § szerint állami üzemeltetésbe és fenntartásba kerülő vizek és vízilétesítmények üzemeltetésének és fenntartásának költségeit – a 9. és 10. §-ban foglaltakra is figyelemmel – a közérdek mértékéig a központi költségvetés útján kell biztosítani.
 
 (2) Az (1) bekezdésben megjelölt feladat:
