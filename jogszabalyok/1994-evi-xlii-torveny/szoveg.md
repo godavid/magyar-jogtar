@@ -16,14 +16,17 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (4) Az Eximbankra és a Mehib Rt.-re a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, valamint a magyar befektetők külföldi befektetéseire, továbbá külföldiek magyarországi beruházásaira vonatkozóan jogosult végezni.
+(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, továbbá külföldiek magyarországi beruházásaira vonatkozóan jogosult végezni.
 
 (5a) E törvény alkalmazásában:
 
-- a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésbe foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás. Idegenforgalmi ágazatba sorolt belföldi gazdálkodó szervezet esetében a devizakülföldivel kötött belföldön teljesített szolgáltatásnyújtás is figyelembe vehető exportra irányuló szolgáltatás-nyújtásként.
-- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése,
-- c) nemzetközi fejlesztési együttműködés: az OECD DAC besorolás szerint hivatalos fejlesztési támogatásra (ODA) jogosult fejlődő országok gazdasági és társadalmi fejlődésének előmozdítására irányuló, a donor- és a kedvezményezett ország közötti partneri viszonyon alapuló tevékenység, amelynek keretében a donor ország hivatalos szervein, ügynökségein keresztül kedvezményes hiteleket, vagy vissza nem térítendő támogatást nyújt a kedvezményezett országnak, illetve a kedvezményezett ország erre jogosult gazdálkodó szervezeteinek, illetve intézményeinek,
-- c) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó.
+- 1. beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet között létrejött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldivel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésbe foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatásnyújtás. Idegenforgalmi és egészségügyi ágazatba sorolt belföldi gazdálkodó szervezet esetében a devizakülföldivel kötött belföldön teljesített szolgáltatásnyújtás is figyelembe vehető exportra irányuló szolgáltatásnyújtásként;
+- 2. exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése;
+- 3. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
+- 4. nemzetközi fejlesztési együttműködés: az OECD DAC besorolás szerint hivatalos fejlesztési támogatásra (ODA) jogosult fejlődő országok gazdasági és társadalmi fejlődésének előmozdítására irányuló, a donor- és a kedvezményezett ország közötti partneri viszonyon alapuló tevékenység, amelynek keretében a donor ország hivatalos szervein, ügynökségein keresztül kedvezményes hiteleket vagy vissza nem térítendő támogatást nyújt a kedvezményezett országnak, illetve a kedvezményezett ország erre jogosult gazdálkodó szervezeteinek, illetve intézményeinek;
+- 5. nemzetközi versenyképességet javító befektetés: a devizabelföldi gazdálkodó szervezet olyan belföldi működő tőke befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló, a befektetéssel érintett belföldi gazdálkodó szervezetnél a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint számszerűsíthető előny mutatható ki vagy ami a befektetéssel érintett gazdálkodó szervezet nemzetközi piacra lépését segíti elő;
+- 6. nemzetközi versenyképességet javító beruházás: devizabelföldi gazdálkodó szervezet belföldön megvalósuló beruházása, amelynek eredményeként a beruházást megvalósító vagy az azt üzembe helyező devizabelföldi gazdálkodó szervezetnél a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint számszerűsíthető előny mutatható ki, vagy amely a beruházást megvalósító vagy az azt üzembe helyező devizabelföldi gazdálkodó szervezet nemzetközi piacra lépését segíti elő;
+- 7. nemzetközi versenyképességet javító forgóeszközigény: devizabelföldi gazdálkodó szervezet versenyképes termeléséhez vagy szolgáltatásnyújtásához szükséges erőforrások, árukészletek vagy szolgáltatások finanszírozásához szükséges, vagy nemzetközi versenyképességet javító beruházásához kapcsolódó forgóeszköz-növekményhez köthető likvid források iránti igény, amely kielégítésével a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint a gazdálkodó szervezetnél számszerűsíthető előny mutatható ki, vagy amely igény kielégítése a gazdálkodó szervezet nemzetközi piacra lépését segíti elő.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
@@ -31,16 +34,16 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (8) Az Eximbank a prudenciális követelmények tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) szerint jár el az e törvényben foglalt eltérésekkel.
 
-2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
+2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
 
 - a) hitel és pénzkölcsön nyújtása;
 - b) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása;
-- c) valutával, devizával – ide nem értve a pénzváltási tevékenységet -, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
+- c) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
 - d) a Bszt. 5. § (1) bekezdés a)–c) pontjában meghatározott tevékenység a Bszt. 6. §-ában meghatározott pénzügyi eszköz tekintetében;
-- e) hitel referencia szolgáltatás;
+- e) hitelreferencia-szolgáltatás;
 - f) pénzforgalmi szolgáltatások nyújtása;
 - g) kizárólag tevékenységéhez szükséges forrásszerzés céljából:
-  - ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től;
+  - ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től,
   - gb) kötvények kibocsátása;
 - h) követelésvásárlás.
 
@@ -208,14 +211,14 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 17. § (1) Az Eximbank és a Mehib Rt. igazgatóságának elnökét, tagjait és a vezérigazgatót a miniszter nevezi ki és menti fel.
 
-(2) Az igazgatóság és a felügyelőbizottság tagjai, valamint a vezérigazgató pártban tisztséget nem viselhetnek, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathatnak.
+(2) Az igazgatóság és a felügyelőbizottság tagja, valamint a vezérigazgató párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathat.
 
 18. § (1) A Hpt. 137. § (1) bekezdésében és a Bit. 83. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
 
 (2) A Hpt. 137. §-ától és 155. §-ától, valamint a Bit. 83. és 91. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
 
 - a) büntetlen előéletű,
-- b) rendelkezik legalább tizennyolc hónap – banki, biztosítási területen vagy a vállalati gazdálkodás vagy a közigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal,
+- b) rendelkezik legalább tizenkét hónap – banki, biztosítási területen vagy a vállalati gazdálkodás vagy a közigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal,
 - c) rendelkezik szakirányú felsőfokú iskolai végzettséggel,
 - d) nem rendelkezik vagy rendelkezett minősített befolyással, illetve nem vezető állású személy vagy nem volt az egy olyan biztosítónál, biztosításközvetítőnél vagy olyan pénzügyi intézménynél, pénzforgalmi intézménynél,
   - da) amely esetében a fizetőképtelenséget kizárólag a biztosító, a biztosításközvetítő, a pénzügyi intézmény vagy a pénzforgalmi intézmény felügyeleti szerve által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósási határozat megállapította, vagy
@@ -232,7 +235,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 szerzett.
 
-(4)
+(4) A (2) bekezdés c) pontjától eltérően a miniszter a (3) bekezdésben meghatározott szakirányú végzettségtől eltérő felsőfokú végzettséggel rendelkező személyt is kinevezhet vezető állású személynek, ha a vezető állásra jelölt személy a (2) bekezdés b) pontjában meghatározott területeken szerzett, legalább tizennyolc hónap vezetői gyakorlattal rendelkezik.
 
 (5) Akivel szemben
 
@@ -292,7 +295,15 @@ szerzett.
 
 24. § A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Hpt.-ben meghatározott banktitok megtartására vonatkozó kötelezettség nem terjed ki – a Hpt.-ben meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított adatokra sem.
 
-24/A. §
+24/A. § (1) Az Eximbank és a Mehib Rt. jogosult a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) 16. § (6a)–(6e) bekezdésében meghatározottak szerint, a Vtv. 16. § (6a) bekezdésében meghatározott célból megismerni az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult
+
+- a) egyéni vállalkozó nevét, lakcímét, levelezési címét, egyéni vállalkozói nyilvántartási számát, adóazonosító jelét,
+- b) jogi személy elnevezését, székhelyét, levelezési címét, cégjegyzékszámát, statisztikai számjelét, adóazonosító számát, valamint
+- c) az a) és b) pontban meghatározott alanyi kör tekintetében a vámhatósági nyilvántartásban szereplő, az export értékére vonatkozó összesített adatokat.
+
+(2) Az Eximbank és a Mehib Rt. az (1) bekezdésben meghatározott adatokat – a (3) bekezdésben meghatározott kivétellel – a megismeréstől számított 5 évig jogosult kezelni.
+
+(3) Az Eximbank és a Mehib Rt. a Vtv. 16. § (6e) bekezdése szerinti értesítés kézhezvételét követően haladéktalanul törli a Vtv. 16. § (6e) bekezdése szerinti nyilatkozatot tevő, az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult adatait.
 
 ### V. Fejezet — A MEHIB RT.-RE VONATKOZÓ SZABÁLYOK
 
