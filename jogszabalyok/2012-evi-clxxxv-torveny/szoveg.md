@@ -1052,7 +1052,7 @@ részére adhatók át.
 - a) hulladékgazdálkodási engedélyhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 40 000 forint,
 - b) nyilvántartásba vételhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 25 000 forint.
 
-83. § (1) A közszolgáltató által az elszámolással, számlázással, díjfizetéssel kapcsolatban, illetve a díjhátralék esedékességét követően megtett intézkedésekre, valamint a hulladékgazdálkodási közszolgáltatást érintő értesítési, tájékoztatási, szolgáltatásnyújtási kötelezettségre vonatkozó rendelkezések fogyasztókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni azzal, hogy a társasházakról szóló törvény szerinti társasházi közösség az Fgytv. alkalmazásában fogyasztónak minősül.
+83. § (1) A közszolgáltató által az elszámolással, számlázással, díjfizetéssel kapcsolatban, illetve a díjhátralék esedékességét követően megtett intézkedésekre, valamint a hulladékgazdálkodási közszolgáltatást érintő értesítési, tájékoztatási, szolgáltatásnyújtási kötelezettségre vonatkozó rendelkezések természetes személy ingatlanhasználókkal, társasházakkal, illetve lakásszövetkezetekkel szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni azzal, hogy a társasházakról szóló törvény szerinti társasházi közösség, továbbá a lakásszövetkezet az Fgytv. alkalmazásában fogyasztónak minősül.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezés.
 
@@ -1282,7 +1282,9 @@ közszolgáltatási díjat kell tekinteni.
 
 (10) Ha a (2) vagy a (2d) bekezdés szerint megállapított díj 2013. július 1-jét követően legalább 10%-kal nem alacsonyabb a 2013. június 30-án alkalmazott díjnál, akkor a közszolgáltató köteles azt legalább annyival csökkenteni, hogy a fizetendő díj a 2013. június 30-án alkalmazott díjnál legalább 10%-kal alacsonyabb legyen.
 
-(11)–(12)
+(11) A (2) és (10) bekezdés szerinti, a közszolgáltatási díj legmagasabb mértékére vonatkozó rendelkezéseket a közszolgáltatónak akkor is érvényesítenie kell, ha 2013. június 30-át követően a műszaki tartalom megváltozott, az azonban nem a természetes személy ingatlanhasználó kifejezett kérésére történt.
+
+(12)
 
 (13) A Hivatal a 47/A. § (2) bekezdése szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
 
@@ -1316,6 +1318,8 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 (3) 2020. december 31-ig a nem veszélyes építési-bontási hulladék – a föld és a kő kivételével – újrahasználatra előkészítésének, újrafeldolgozásának és egyéb, anyagában történő hasznosításának – ideértve a feltöltési műveleteknél más anyagok helyettesítésére használt hulladékot – együttes mértékét a képződött mennyiséghez viszonyítva tömegében országos szinten legalább 70%-ra kell növelni.
 
 (4) Az OMP-t első alkalommal 2013. december 12-ig kell kidolgozni, amelyben meg kell határozni a hulladékképződés megelőzése, továbbá a gazdasági növekedés és az ebből eredő hulladékképződés által okozott környezeti hatások megszüntetésének érdekében a 2020. évre elérendő célokat, valamint az intézkedések és az eredmények nyomon követését, értékelését szolgáló minőségi és mennyiségi referenciaszinteket, illetve mutatókat.
+
+92/A. § Azon közszolgáltató, amely az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépéséig három hónapnál ritkábban állított ki számlát, az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépését követő két hónapon belül a díjfizetéssel nem rendezett időszak vonatkozásában számla kibocsátására köteles.
 
 #### 41. Az Európai Unió jogának való megfelelés
 
