@@ -738,7 +738,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (2) A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) szerinti megrendelésre készült filmalkotás vagy nem megrendelésre készült filmalkotás támogatója (ideértve a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságnak a kincstárnál e célra vezetett számlára befizető adózót) az (1) bekezdés szerinti adókedvezményt a mozgóképszakmai hatóság által kiállított támogatási igazolás alapján veheti igénybe. A támogatási igazolás tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét.
 
-(3) A mozgóképszakmai hatóság által egy filmalkotáshoz kiadott, kedvezményre való jogosultságot igazoló támogatási igazolások összértéke, valamint az Mktv. 31/C. § (1) bekezdése alapján kiadott határozatban megállapított közvetett támogatás összege nem haladhatja meg a mozgóképszakmai hatóság által jóváhagyott közvetlen filmgyártási költség Mktv. 12. § (10) bekezdésében meghatározott részének 20 százalékát, azzal, hogy nem állítható ki igazolás, ha a filmalkotás az Mktv. rendelkezései szerint nem jogosult közvetett támogatásra.
+(3) A mozgóképszakmai hatóság által egy filmalkotáshoz kiadott, kedvezményre való jogosultságot igazoló támogatási igazolások összértéke, valamint az Mktv. 31/C. § (1) bekezdése alapján kiadott határozatban megállapított közvetett támogatás összege nem haladhatja meg a mozgóképszakmai hatóság által jóváhagyott közvetlen filmgyártási költség Mktv. 12. § (10) bekezdésében meghatározott részének 25 százalékát, azzal, hogy nem állítható ki igazolás, ha a filmalkotás az Mktv. rendelkezései szerint nem jogosult közvetett támogatásra.
 
 (4) Az előadó-művészeti szervezet támogatója az (1) bekezdés szerinti adókedvezményt az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szerv által kiállított támogatási igazolás alapján veheti igénybe. Az egy előadó-művészeti szervezethez kapcsolódóan a tárgyévre vonatkozóan kiadott támogatási igazolások és a támogatási szerződés keretében megfizetett kiegészítő támogatások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
 
@@ -1131,7 +1131,7 @@ a támogatás adóévében megfizetni.
 - a) az 1998. január 1. napjától hatályos előírások választása esetén megelőző adóév árbevételének az adózó 1997. évi árbevételét kell tekinteni abban az esetben is, ha a hivatkozott rendelkezések 1997. december 31. napján hatályos előírása alapján adókedvezményt vett igénybe 1997. évi adójából,
 - b) a választásától az 1998. évet követő években nem térhet el.
 
-29/A. §
+29/A. § E törvénynek az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvénnyel (a továbbiakban: Módtv.) módosított 22. § (3) bekezdését a mozgóképszakmai hatósághoz 2014. június 25-ét követően benyújtott kérelemre induló, azon filmalkotások támogatására való jogosultság megállapítására irányuló eljárásokban is alkalmazni kell, amelyekre vonatkozóan a Módtv. hatálybalépését követően támogatási igazolás kiadására irányuló kérelmet nyújtanak be, kivéve a Médiaszolgáltatás-támogató és Vagyonkezelő Alappal támogatási szerződést kötött filmalkotásokra vonatkozó támogatásra jogosultság megállapítására irányuló eljárásokat.
 
 29/B. § (1)
 
