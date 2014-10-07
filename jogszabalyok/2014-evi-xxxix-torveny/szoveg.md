@@ -12,7 +12,11 @@ egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és 
 
 #### 3. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-9–10. §
+9. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) a következő 29/A. §-sal egészül ki:
+
+„29/A. § E törvénynek az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvénnyel (a továbbiakban: Módtv.) módosított 22. § (3) bekezdését a mozgóképszakmai hatósághoz 2014. június 25-ét követően benyújtott kérelemre induló, azon filmalkotások támogatására való jogosultság megállapítására irányuló eljárásokban is alkalmazni kell, amelyekre vonatkozóan a Módtv. hatálybalépését követően támogatási igazolás kiadására irányuló kérelmet nyújtanak be, kivéve a Médiaszolgáltatás-támogató és Vagyonkezelő Alappal támogatási szerződést kötött filmalkotásokra vonatkozó támogatásra jogosultság megállapítására irányuló eljárásokat.”
+
+10. § A Tao. tv. 22. § (3) bekezdésében a „20 százalékát” szövegrész helyébe a „25 százalékát” szöveg lép.
 
 #### 4. Az ügyvédekről szóló 1998. évi XI. törvény módosítása
 
@@ -32,7 +36,35 @@ egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és 
 
 #### 8. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-25–28. §
+25. § (1) A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 2. § 5. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„5. magyar filmelőállító: magyarországi székhellyel rendelkező filmelőállító, amelynek tevékenységi körei között szerepel a filmelőállítás, filmgyártás;”
+
+(2) Az Mktv. 2. § 20b. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„20b. magyar filmgyártó vállalkozás: a mozgóképszakmai hatóság által nyilvántartásába vett, magyarországi székhellyel rendelkező filmgyártó vállalkozás;”
+
+26. § (1) Az Mktv. 13. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha a nemzetközi koprodukciós filmalkotásban a magyar filmelőállító mellett legalább egy EGT-állambeli filmelőállító is részt vesz, az e törvény szerinti támogatás mértéke a magyar hozzájárulás arányának 60%-áig terjedhet.”
+
+(2) Az Mktv. 13. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az e törvény szerinti támogatás mértéke magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 100%-áig terjedhet olyan nemzetközi koprodukciós filmalkotás esetén, amelyben a magyar mellett legalább egy, a Gazdasági Együttműködési és Fejlesztési Szervezet Fejlesztési Támogatási Bizottságának listáján felsorolt valamely állambeli filmelőállító is részt vesz.”
+
+27. § Az Mktv. 31/D. § (7) bekezdése a következő c) ponttal egészül ki:
+
+[A közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján a közvetett támogatás forrását a letéti számlára utalja. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül]
+
+„c) a 2015. évben a 12 000,0 millió forintot”
+
+(nem haladhatja meg.)
+
+28. § Az Mktv. 13. § (2) és (3) bekezdésében a „90%-áig” szövegrész helyébe a „100%-áig” szöveg lép.
 
 #### 9. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 

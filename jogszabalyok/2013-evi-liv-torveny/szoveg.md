@@ -34,9 +34,9 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 4. § (1) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.) 2. § 15. pontjában meghatározott lakossági felhasználók részére, valamint a Vksztv. 64. § (4) bekezdésében meghatározott körben lakossági díjon elszámolt felhasználásra, a Vksztv. 2. § 24. pontjában meghatározott víziközmű-szolgáltatás tekintetében a számlában meghatározott fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában nem haladhatja meg a 2013. január 31-én jogszerűen alkalmazott díjtételek és egyéb számlaelemek alapján, ugyanazon feltételekkel számított összeg 90%-át.
 
-(2) A víziközmű-szolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a lakossági felhasználók részére az (1) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a lakossági felhasználót.
+(2) A víziközmű-szolgáltató és közvetített víziközmű-szolgáltatás nyújtása esetén a távhőszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével egyidejűleg köteles tájékoztatást nyújtani a lakossági felhasználók részére az (1) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a lakossági felhasználót.
 
-(3) A szolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
+(3) A víziközmű-szolgáltató és közvetített víziközmű-szolgáltatás nyújtása esetén a távhőszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
 
 (4)
 
@@ -67,7 +67,11 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 
 (2) A szolgáltató az (1) bekezdésben meghatározott, a fogyasztóvédelmi hatóság által megállapított szerződésszegése esetén – ha a fogyasztóvédelmi hatóság a szerződésszegést megállapító döntésében a jogsértés súlyosságára tekintettel erről rendelkezik – minden érintett számlára vonatkozóan legfeljebb 10 000 forint kötbért köteles fizetni a szerződésszegéssel érintett lakossági fogyasztónak.
 
-8. § (1) Az e törvényben foglalt lakossági díjakkal és azok tájékoztatásával összefüggő rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el.
+7/A. § (1) Amennyiben a számlát kiállító közszolgáltató előtt másik közszolgáltató is nyújtott szolgáltatást a rezsicsökkentéssel érintett időszakban, úgy a korábbi közszolgáltató köteles az általa nyújtott szolgáltatás tekintetében a megtakarítás összegének feltüntetéséhez szükséges adatokról a számlát kiállító szolgáltatót tájékoztatni, az adatvédelmi előírások betartása mellett.
+
+(2) E § alkalmazásában közszolgáltató: villamosenergia-kereskedő és a hálózati engedélyes, a földgázkereskedő és a földgázelosztó, a távhőszolgáltató, a víziközmű-szolgáltató és a kéményseprő-ipari közszolgáltató.
+
+8. § (1) Az e törvényben foglalt lakossági díjakkal és azok tájékoztatásával összefüggő rendelkezések, valamint a 7/A. §-ban foglaltak megsértése esetén a fogyasztóvédelmi hatóság jár el.
 
 (2) A fogyasztóvédelmi hatóság eljárására külön törvényben meghatározott eltérésekkel a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) rendelkezéseit kell alkalmazni.
 
