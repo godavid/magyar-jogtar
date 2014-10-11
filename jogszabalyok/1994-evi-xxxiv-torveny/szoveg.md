@@ -584,9 +584,7 @@ igazolja.
 
 (3) A rendőrség a határforgalom ellenőrzése során engedélyezi a határátlépés jogszabályban meghatározott feltételeivel rendelkező személyek határátlépését, illetve megtagadja a határátlépés feltételeivel nem rendelkező személyek határátléptetését.
 
-35/B. § (1) A Rendőrség a határforgalom-ellenőrzés során a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK rendelet – az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelettel módosított – 7. cikk (3) bekezdése szerinti ellenőrzések lefolytatása céljából a vízumbélyeg sorszáma ellenőrzésével végez keresést a Vízuminformációs Rendszerben.
-
-(2) A Rendőrség az (1) bekezdés szerinti ellenőrzések lefolytatása céljából a vízumbélyeg sorszámának és a vízumbirtokos ujjnyomatának együttes ellenőrzésével is végezhet keresést a Vízuminformációs Rendszerben.
+#### 35/B. §
 
 #### 35/C. §
 
