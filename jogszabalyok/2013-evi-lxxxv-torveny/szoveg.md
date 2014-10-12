@@ -4,7 +4,9 @@ Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény m
 
 1. § (1)–(2)
 
-(3)
+(3) A Mötv. 85. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha a kialakítandó közös önkormányzati hivatalhoz tartozó települések közül valamelyik város, a (2) bekezdésben meghatározott összlakosságszámra vonatkozó követelményt nem kell alkalmazni.”
 
 2. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
