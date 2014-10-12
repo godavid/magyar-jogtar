@@ -192,7 +192,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A fővárosi, valamint a fővárosi kerületi önkormányzatok önkormányzati alapjogaikat tekintve egyenlőek, feladat- és hatásköreik egymástól eltérnek.
 
-(3) A fővárosi önkormányzat olyan önkormányzat, amely a települési és a területi önkormányzat feladat- és hatásköreit is elláthatja. A fővárosi önkormányzat képviselő-testülete a közgyűlés. A közgyűlést a főpolgármester képviseli.
+(3) fővárosi önkormányzat olyan önkormányzat, amely a települési és a területi önkormányzat feladat- és hatásköreit is elláthatja. A fővárosi önkormányzat képviselő-testülete a közgyűlés. A közgyűlést a főpolgármester képviseli.
+
+(3a) A fővárosi közgyűlés tagjai a főpolgármester, a fővárosi kerületek polgármesterei, valamint a fővárosi kompenzációs listáról mandátumot szerző kilenc képviselő.
 
 (4) A főváros területe kerületekre, valamint a fővárosi önkormányzat által közvetlenül igazgatott Margitszigetre tagozódik. Minden fővárosi kerületben települési önkormányzat működik.
 
@@ -270,7 +272,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 27. § (1) A megyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, területrendezési, valamint koordinációs feladatokat lát el. A megyei önkormányzat képviselő-testülete a közgyűlés.
 
-(2)
+(2) A megyei közgyűlés elnökét a közgyűlés az Alaptörvény 33. cikk (2) bekezdése alapján titkos szavazással választja a megbízatásának időtartamára.
 
 (3) A megyei közgyűlés elnöke – pályázat alapján határozatlan időre – nevezi ki a jegyzőt, a jegyző javaslatára az aljegyzőt.
 
@@ -280,35 +282,153 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A megbízatás keletkezése és megszűnése
 
-#### 28–31. §
+28. § (1) A helyi önkormányzati képviselő (a továbbiakban: önkormányzati képviselő) megbízatása, jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
+
+(2) Az önkormányzati képviselő a képviselő-testület alakuló ülésén, időközi választás esetén a megválasztását követő ülésen a képviselő-testület előtt az 1. melléklet szerinti szöveggel esküt tesz és erről okmányt ír alá.
+
+29. § (1) Az önkormányzati képviselő megbízatása megszűnik:
+
+- a) a megválasztását követő helyi önkormányzati általános választás napján, jelöltek hiányában elmaradt választás esetén az időközi választás napján;
+- b) ha a helyi önkormányzati képviselők és polgármesterek választásán már nem választható;
+- c) az összeférhetetlenség kimondásával;
+- d) méltatlanság megállapításával;
+- e) ha az önkormányzati képviselő, annak az ülésnek az időpontjától, amelyről első ízben távol maradt, egy éven át nem vesz részt a képviselő-testület ülésén;
+- f) lemondással;
+- g) a képviselő-testület feloszlatásával;
+- h) a képviselő-testület feloszlása esetén, valamint
+- i) az önkormányzati képviselő halálával.
+
+(2) Az önkormányzati képviselő az (1) bekezdés b) pontjában foglalt feltétel bekövetkezéséről három napon belül köteles tájékoztatni a képviselő-testületet és a kormányhivatalt.
+
+30. § (1) Az önkormányzati képviselő a képviselő-testület ülésén jelentheti be lemondását. A lemondást és a megbízatás megszűnésének időpontját az ülés jegyzőkönyvében rögzíteni kell.
+
+(2) Az önkormányzati képviselő lemondhat a képviselő-testülethez intézett írásbeli nyilatkozatával is, melyet a polgármesternek, a főpolgármesternek, a megyei közgyűlés elnökének ad át vagy juttat el. Az írásbeli nyilatkozatot a képviselő-testület következő ülésén ismertetni kell.
+
+(3) A lemondás nem vonható vissza.
+
+(4) Az önkormányzati képviselő megbízatása megszűnik a képviselő által meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában a lemondás bejelentésének vagy az írásbeli nyilatkozat átvételének napján.
+
+31. § (1) Az önkormányzati képviselői megbízatás megszűnését a 29. § (1) bekezdés c)–e) pontjai esetén a képviselő-testület a határozatában állapítja meg.
+
+(2) A képviselő-testület (1) bekezdés szerinti határozatát kézbesíteni kell:
+
+- a) az érintett önkormányzati képviselőnek;
+- b) a választási bizottságnak;
+- c) a kormányhivatalnak.
+
+31/A. § A fővárosi közgyűlés fővárosi kerületi polgármester tagja megbízatása megszűnik, ha a fővárosi kerületi polgármesteri megbízatása megszűnik.
 
 ### Jogok és kötelezettségek
 
-#### 32–34. §
+32. § (1) Az önkormányzati képviselő a település (fővárosi kerület, megye) egészéért vállalt felelősséggel képviseli a választóinak az érdekeit. Az önkormányzati képviselők jogai és kötelességei azonosak.
+
+(2) Az önkormányzati képviselő:
+
+- a) a képviselő-testület ülésén – a szervezeti és működési szabályzatban meghatározott módon – kezdeményezheti rendelet megalkotását vagy határozat meghozatalát;
+- b) a képviselő-testület ülésén a polgármestertől (alpolgármestertől), a jegyzőtől, a bizottság elnökétől önkormányzati ügyekben felvilágosítást kérhet, amelyre az ülésen – vagy legkésőbb harminc napon belül írásban – érdemi választ kell adni;
+- c) kérésére az írásban is benyújtott hozzászólását a jegyzőkönyvhöz kell mellékelni, vagy kérésére a véleményét rögzíteni kell a jegyzőkönyvben;
+- d) tanácskozási joggal részt vehet a képviselő-testület bármely bizottságának nyilvános vagy zárt ülésén. Javasolhatja a bizottság elnökének a bizottság feladatkörébe tartozó ügy megtárgyalását, amelyet a bizottság legközelebbi ülése elé kell terjeszteni és tárgyalására az önkormányzati képviselőt meg kell hívni. Kezdeményezheti, hogy a képviselő-testület vizsgálja felül bizottságának, a polgármesternek, a részönkormányzat testületének, a jegyzőnek – a képviselő-testület által átruházott – önkormányzati ügyben hozott döntését;
+- e) megbízás alapján képviselheti a képviselő-testületet;
+- f) a polgármestertől igényelheti a képviselői munkájához szükséges tájékoztatást. Közérdekű ügyben kezdeményezheti a polgármester intézkedését, amelyre annak harminc napon belül érdemi választ kell adni;
+- g) a testületi munkában való részvételhez szükséges időtartam alatt a munkahelyén felmentést élvez a munkavégzés alól. Az emiatt kiesett jövedelmét a képviselő-testület téríti meg, melynek alapján az önkormányzati képviselő társadalombiztosítási ellátásra is jogosult. A képviselő-testület átalányt is megállapíthat;
+- h) a képviselő-testület és a képviselő-testület bizottságának ülésén a magyar jelnyelvet vagy az általa választott speciális kommunikációs rendszert használhatja. A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az önkormányzat biztosítja;
+- i) köteles a testületi üléseken megjelenni, a képviselő-testület munkájában és döntéshozatali eljárásában részt venni;
+- j) eskütételét követően három hónapon belül köteles részt venni a kormányhivatal által szervezett képzésen;
+- k) köteles kapcsolatot tartani a választópolgárokkal, akiknek évente legalább egy alkalommal tájékoztatást nyújt képviselői tevékenységéről.
+
+(3) Az önkormányzati képviselő e minőségére saját szakmai vagy üzleti ügyében nem hivatkozhat.
+
+33. § Az e törvényben meghatározott kötelezettségeit megszegő önkormányzati képviselő megállapított tiszteletdíját, természetbeni juttatását a képviselő-testület – a szervezeti és működési szabályzatában meghatározottak alapján – legfeljebb tizenkét havi időtartamra csökkentheti, megvonhatja. Ismételt kötelezettségszegés esetén a csökkentés vagy a megvonás újra megállapítható.
+
+34. § A képviselő-testület a polgármesternek vagy bármely önkormányzati képviselőnek a javaslatára az önkormányzati képviselők közül tanácsnokokat választhat. A tanácsnok felügyeli a képviselő-testület által meghatározott önkormányzati feladatkörök ellátását.
 
 ### A helyi önkormányzati képviselők tiszteletdíja, juttatása, költségtérítése
 
-#### 35. §
+35. § (1) A képviselő-testület az önkormányzati képviselőnek, a bizottsági elnöknek, a bizottság tagjának, a tanácsnoknak rendeletében meghatározott tiszteletdíjat, természetbeni juttatást állapíthat meg.
+
+(1a) A fővárosi közgyűlés fővárosi kerületi polgármester tagjai számára közgyűlési tagságukért tiszteletdíjat, költségtérítést, költségátalányt és egyéb juttatást nem állapíthat meg.
+
+(2) Ha az önkormányzati képviselő tanácsnok, önkormányzati bizottság elnöke vagy tagja, számára magasabb összegű tiszteletdíj is megállapítható. Az önkormányzati képviselő számára történő tiszteletdíj megállapítása nem veszélyeztetheti az önkormányzat kötelező feladatai ellátását.
+
+(3) Az önkormányzati képviselőnek a képviselő-testület képviseletében vagy a képviselő-testület, továbbá a polgármester megbízásából végzett tevékenységével összefüggő, általa előlegezett, számlával igazolt, szükséges költsége megtéríthető. A képviselői költségek kifizetését a polgármester engedélyezi.
+
+(4) Az önkormányzati képviselő tiszteletdíja és egyéb juttatása közérdekből nyilvános adat.
 
 ### Összeférhetetlenség
 
-#### 36. §
+36. § (1) Az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja nem folytathat olyan tevékenységet, amely a feladatainak ellátásához szükséges közbizalmat megingathatja, továbbá nem lehet
+
+- a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
+  - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet lát el;
+  - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
+- b) központi államigazgatási szerv vezetője, köztisztviselője;
+- c) kormánytisztviselő;
+- d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
+- e) jegyző (főjegyző), aljegyző, polgármesteri hivatal vagy közös önkormányzati hivatal köztisztviselője, alkalmazottja;
+- f) más települési önkormányzatnál képviselő;
+- g) más települési önkormányzatnál polgármester, alpolgármester;
+- h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
+- i) médiatartalom-szolgáltató természetes személy, továbbá jogi személy, valamint gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
+
+(2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
 
 ### Összeférhetetlenségi eljárás
 
-#### 37. §
+37. § (1) Az önkormányzati képviselő az összeférhetetlenségi okot a megválasztásától vagy az összeférhetetlenségi ok felmerülésétől számított harminc napon belül köteles megszüntetni. Amennyiben jogszabályban meghatározottak szerint nem lehetséges az összeférhetetlenségi ok alapjául szolgáló jogviszony harminc napon belül történő megszüntetése, akkor az önkormányzati képviselő által tett és a jogviszony megszüntetéséről szóló, az arra jogosult által írásban megerősített lemondó nyilatkozatának a szervezeti és működési szabályzatban meghatározott bizottságnak történő átadását az összeférhetetlenség megszüntetésének kell tekinteni.
+
+(2) Ha az önkormányzati képviselő az (1) bekezdésben foglalt kötelezettségének nem tett eleget, bármely önkormányzati képviselő vagy bizottság indítványára – az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottság javaslata alapján – a képviselő-testület a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő harminc napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget. A képviselő-testület határozatát az önkormányzati képviselőnek és a kormányhivatalnak kézbesíteni kell.
+
+(3) Az önkormányzati képviselő összeférhetetlenségének megállapítását bárki kezdeményezheti a polgármesternél, melyet az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottságnak haladéktalanul továbbítani kell kivizsgálásra. Ismételt kezdeményezés esetén, amennyiben az új tényt vagy körülményt nem tartalmaz, az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottság külön vizsgálat nélkül lezárja az ügyet, ebben az esetben a (2) bekezdés szerinti határozathozatalra sem kerül sor.
+
+(4) Az önkormányzati képviselő az összeférhetetlenségét, a tisztsége megszűnését megállapító képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított nyolc napon belül a törvényszéktől.
+
+(5) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság az önkormányzati képviselőt, a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
+
+(6) A kormányhivatal a törvényszéknél kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására az (5) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, valamint a kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+
+(7) Az önkormányzati képviselő tisztsége a képviselő-testület összeférhetetlenséget megállapító határozata – ha az ellen a rendelkezésre álló határidő alatt jogorvoslat iránti kérelemmel nem éltek – meghozatalának napján, jogorvoslati kérelem előterjesztése esetén a jogerős bírósági döntés napján szűnik meg.
 
 ### Méltatlanság
 
-#### 38. §
+38. § (1) Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,
+
+- a)
+- b) akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek;
+- c)
+- d) akinek az állammal, önkormányzattal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi;
+- e) akinek a gazdasági társaságokról szóló törvény rendelkezései alapján a felszámolás során ki nem elégített követelésekért a bíróság jogerősen megállapította a felelősségét és a bírósági határozat szerinti helytállási kötelezettségét nem teljesítette;
+- f) aki a vele szemben megindított bírósági eljárást lezáró jogerős bírósági döntés végrehajtását akadályozza, vagy azt neki felróható módon elmulasztja;
+- g) aki a 36. §-ban szabályozott összeférhetetlenségi okot nem hozza a képviselő-testület tudomására.
+
+(2) Az önkormányzati képviselő köteles az (1) bekezdés a)–g) pontjában foglaltakról, a jogerős ítélet kézhezvételétől vagy az (1) bekezdés d) és e) pontjában foglaltak beálltától számított három napon belül tájékoztatni a képviselő-testületet és a kormányhivatalt.
+
+(3) A büntetőeljárásról szóló törvényben foglaltakra figyelemmel az eljáró bíróság az önkormányzati képviselő bűnösségét megállapító jogerős ítélet meghozataláról haladéktalanul tájékoztatja a képviselő-testületet és a kormányhivatalt.
+
+(4) Az önkormányzati képviselő megválasztásától számított harminc napon belül köteles kérelmezni felvételét az adózás rendjéről szóló törvényben meghatározott köztartozásmentes adózói adatbázisba (a továbbiakban: adatbázis). Az önkormányzati képviselő az adatbázisba történő felvételére irányuló kérelme benyújtásának hónapját követő hónap utolsó napjáig köteles a képviselő-testületnél igazolni az adatbázisba való felvételének megtörténtét. Amennyiben az állami adóhatóság az adatbázisba történő felvételt követően megállapítja, hogy az önkormányzati képviselő az adatbázisba történő felvétel feltételeinek nem felel meg, az adatbázisból törli, amelyről írásban értesíti a képviselő-testületet és a kormányhivatalt.
+
+(5) A méltatlansági eljárásra egyebekben a 37. § (2)–(7) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
 ### Vagyonnyilatkozat-tételi eljárás
 
-#### 39. §
+39. § (1) Az önkormányzati képviselő megválasztásától, majd ezt követően minden év január 1-jétől számított harminc napon belül a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. Az önkormányzati képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekének (e § tekintetében együtt: hozzátartozó) a melléklet szerinti vagyonnyilatkozatát.
+
+(2) A vagyonnyilatkozat tételének elmulasztása esetén – annak benyújtásáig – az önkormányzati képviselő e tisztségéből fakadó jogait nem gyakorolhatja, tiszteletdíjat, természetbeni juttatást, költségtérítést nem kaphat.
+
+(3) A vagyonnyilatkozatot a szervezeti és működési szabályzatban erre kijelölt bizottság (a továbbiakban: vagyonnyilatkozat-vizsgáló bizottság) tartja nyilván és ellenőrzi. Az önkormányzati képviselő vagyonnyilatkozata – az ellenőrzéshez szolgáltatott azonosító adatok kivételével – közérdekből nyilvános. Az önkormányzati képviselő és hozzátartozója tárgyévben tett vagyonnyilatkozatának benyújtását követően, az előző évre vonatkozó vagyonnyilatkozatukat a vagyonnyilatkozat-vizsgáló bizottság a képviselőnek visszaadja. Az önkormányzati képviselő hozzátartozójának nyilatkozata nem nyilvános, abba csak a vagyonnyilatkozat-vizsgáló bizottság tagjai tekinthetnek be az ellenőrzés céljából.
+
+(4) A vagyonnyilatkozattal kapcsolatos eljárást a vagyonnyilatkozat-vizsgáló bizottságnál bárki kezdeményezheti. Az eljárás eredményéről a vagyonnyilatkozat-vizsgáló bizottság tájékoztatja a soron következő ülésen a képviselő-testületet.
+
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a vagyonnyilatkozat-vizsgáló bizottság felhívására az önkormányzati képviselő köteles saját, valamint a hozzátartozója vagyonnyilatkozatában feltüntetett adatokra vonatkozó azonosító adatokat haladéktalanul írásban bejelenteni. Az azonosító adatokat csak a vagyonnyilatkozat-vizsgáló bizottság tagjai ismerhetik meg, azokat az eljárás lezárását követő nyolc napon belül törölni kell.
 
 ### A képviselő-testület bizottságának nem képviselő tagjaira vonatkozó külön szabályok
 
-#### 40. §
+40. § (1) A képviselő-testület bizottságának nem képviselő tagja a megválasztását követően a képviselő-testület előtt – a képviselőre irányadó szöveggel – esküt tesz, és erről okmányt ír alá.
+
+(2) A képviselő-testület bizottságának nem képviselő tagjával szemben fennálló összeférhetetlenségre az önkormányzati képviselőkre vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy ha a képviselő-testület bizottságának nem képviselő tagja harminc napon belül nem szünteti meg a vele szemben fennálló összeférhetetlenségi okot, a képviselő-testület köteles a határidő lejártát követő ülésén az érintett bizottsági tagságát megszüntetni. E döntés ellen jogorvoslatnak helye nincs.
+
+(3) A képviselő-testület bizottságának nem képviselő tagjára az önkormányzati képviselőkre vonatkozó méltatlansági szabályokat kell alkalmazni azzal az eltéréssel, hogy a képviselő-testület köteles a méltatlansági feltételek beálltát követő ülésén az érintett bizottsági tagságát megszüntetni. A képviselő-testület döntése ellen jogorvoslatnak helye nincs.
+
+(4) A képviselő-testület bizottságának nem képviselő tagjára az önkormányzati képviselők tiszteletdíjára, természetbeni juttatására, költségtérítésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 ### A képviselő-testület
 
@@ -373,7 +493,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 47. § (1) A képviselő-testület akkor határozatképes, ha az ülésen az önkormányzati képviselőknek több mint a fele jelen van. A határozatképességet folyamatosan figyelemmel kell kísérni.
 
-(2) A javaslat elfogadásához az egyszerű többséget igénylő javaslat esetén a jelen levő önkormányzati képviselők, minősített többséget igénylő javaslat esetén a megválasztott önkormányzati képviselők több mint a felének igen szavazata szükséges. Ennek hiányában a képviselő-testület a javaslatot elutasította. A betöltetlen önkormányzati képviselői helyet a határozatképesség szempontjából betöltöttnek kell tekinteni.
+(2) A javaslat elfogadásához az egyszerű többséget igénylő javaslat esetén a jelen levő önkormányzati képviselők, minősített többséget igénylő javaslat esetén az önkormányzati képviselők több mint a felének igen szavazata szükséges. A betöltetlen önkormányzati képviselői helyet a határozatképesség szempontjából betöltöttnek kell tekinteni.
+
+(3) A fővárosi közgyűlésben a (2) bekezdést úgy kell alkalmazni, hogy a javaslat elfogadásához a (2) bekezdés szerinti szavazatarány mellett a főváros lakosságszámának együttesen több mint a felét kitevő lakosságszámú fővárosi kerületek polgármestereinek igen szavazata is szükséges.
+
+(4) A (3) bekezdés szerinti esetben a lakosságszám megállapításakor a fővárosnak, valamint a fővárosi kerületeknek a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jén meglévő lakosságszámát kell figyelembe venni.
 
 48. § (1) A képviselő-testület a döntéseit (határozat, rendelet) nyílt szavazással hozza.
 
@@ -509,7 +633,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 63. § A polgármester megválasztását követően esküt tesz a képviselő-testület előtt és erről okmányt ír alá. Az eskü szövegét az 1. melléklet tartalmazza. A polgármester jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
 
-#### 64. §
+64. § (1) A polgármester tisztségét főállásban vagy társadalmi megbízatásban látja el.
+
+(2) Főállású a polgármester, ha főállású polgármesterként választották meg. A polgármesteri tisztség betöltésének módját a képviselő-testület a megbízatás időtartamán belül egy esetben a polgármester egyetértésével, a szervezeti és működési szabályzat egyidejű módosításával megváltoztathatja.
 
 65. § A képviselő-testület elnöke a polgármester. A polgármester összehívja és vezeti a képviselő-testület ülését, valamint képviseli a képviselő-testületet.
 
@@ -533,21 +659,78 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (4) A polgármester önkormányzati rendeletben meghatározott értékhatárig dönt a forrásfelhasználásról, döntéséről tájékoztatja a képviselő-testületet.
 
-#### 69–70. §
+69. § (1) A polgármester e tisztsége megszűnik:
+
+- a) az új polgármester megválasztásával;
+- b) ha a helyi önkormányzati képviselők és polgármesterek választásán már nem választható;
+- c) az összeférhetetlenség kimondásával;
+- d) méltatlanság megállapításával;
+- e) sorozatosan törvénysértő tevékenysége, mulasztása miatti jogi felelősségének jogerős bírósági ítéletben történő megállapításával, az ítélet jogerőre emelkedésének a napjával;
+- f) a tisztségről történő lemondással;
+- g) a képviselő-testület feloszlásának kimondását követően új polgármester megválasztásával;
+- h) az Országgyűlésnek a helyi önkormányzat képviselő-testülete feloszlatását kimondó határozatával;
+- i) halálával.
+
+(2) A polgármester e tisztségéről a képviselő-testülethez intézett írásbeli nyilatkozatával mondhat le, amelyet az alpolgármesternek, ennek hiányában a szervezeti és működési szabályzatban a képviselő-testület összehívására, vezetésére kijelölt képviselőnek adja át, részére juttatja el. A polgármester e tisztsége az általa meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában az írásbeli nyilatkozat átvételének napjával szűnik meg. A lemondás nem vonható vissza. Az írásbeli nyilatkozatot a képviselő-testület következő ülésén ismertetni kell.
+
+70. § (1) A polgármester sorozatos törvénysértő tevékenysége, mulasztása miatt a képviselő-testület – minősített többséggel hozott határozata alapján – keresetet nyújthat be a polgármester ellen a helyi önkormányzat székhelye szerint illetékes törvényszékhez a polgármester tisztségének megszüntetése érdekében. Egyidejűleg kérheti a polgármesternek e tisztségéből történő felfüggesztését is. A döntéshozatalban a polgármester nem vesz részt, de a határozathozatalnál a határozatképesség szempontjából jelenlévőnek kell tekinteni. A bíróság a keresetet soron kívül bírálja el.
+
+(2) A bírósági eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
+
+70/A. § A fővárosi kerületi polgármester megbízatása megszűnik, ha fővárosi közgyűlési képviselői megbízatása megszűnik.
 
 ### A főpolgármester, polgármester, a megyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
 71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői illetménypótlékából álló illetményének összegével. A főpolgármester havonta az illetményének 15%-ában meghatározott összegű költségtérítésre jogosult.
 
-(2)–(6)
+(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a helyettes államtitkár közszolgálati tisztviselőkről szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői illetménypótlékából álló illetményének összegével.
+
+(3) A megyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a (2) bekezdésben meghatározott illetmény 90%-ának összegével.
+
+(4) A polgármester illetménye a (2) bekezdésben meghatározott összeg
+
+- a) 20%-a az 500 fő lakosságszám alatti település polgármestere esetében;
+- b) 40%-a az 501–1500 fő lakosságszámú település polgármestere esetében;
+- c) 60%-a az 1501–10 000 fő lakosságszámú település polgármestere esetében;
+- d) 70%-a a 10 001–30 000 fő lakosságszámú település polgármestere esetében;
+- e) 80%-a a 30 000 fő lakosságszám feletti település polgármestere esetében.
+
+(5) A társadalmi megbízatású polgármester havonta a polgármester illetménye 50%-ával megegyező mértékű tiszteletdíjra jogosult, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
+
+(6) A főállású polgármester, a társadalmi megbízatású polgármester, a megyei önkormányzat közgyűlésének elnöke havonta az illetményének, tiszteletdíjának 15%-ában meghatározott összegű költségtérítésre jogosult.
 
 ### Összeférhetetlenség
 
-#### 72–73. §
+72. § (1) Az 1500 fő és az az alatti lakosságszámú település polgármesterének az összeférhetetlenségére a 36. §-t kell alkalmazni.
+
+(2) Az 1500 fő feletti lakosságszámú település főállású polgármestere tudományos, oktatói, lektori, szerkesztői, művészeti és jogi oltalom alá eső szellemi tevékenység kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
+
+(3) Az 1500 fő feletti lakosságszámú település társadalmi megbízatású polgármesterének az összeférhetetlenségére a 36. §-t – a 36. § (1) bekezdés a) pont ab) alpontja kivételével – kell alkalmazni.
+
+(4) A polgármesterre megfelelően alkalmazni kell az önkormányzati képviselőre vonatkozó összeférhetetlenségi, méltatlansági, vagyonnyilatkozat-tételi szabályokat azzal, hogy a polgármester nem lehet más önkormányzatnál polgármester, alpolgármester, települési önkormányzati képviselő, megyei közgyűlés elnöke, alelnöke, kivéve, hogy a fővárosi kerületi polgármester a fővárosi közgyűlés tagja. A fővárosi kerületi polgármester nem lehet főpolgármester, valamint főpolgármester-helyettes.
+
+73. § A polgármesteri tisztség ellátásával kapcsolatos egyéb rendelkezéseket a közszolgálati tisztviselőkről szóló törvény állapítja meg.
 
 ### Az alpolgármester
 
-#### 74–78. §
+74. § (1) A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy alpolgármestert, főpolgármester-helyettest, a megye közgyűlése alelnököt (a továbbiakban együtt: alpolgármester) választ, több alpolgármestert választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
+
+(2) Az alpolgármester a polgármester irányításával látja el feladatait. Több alpolgármester esetén a polgármester bízza meg általános helyettesét.
+
+75. § (1) Az alpolgármesteri tisztség főállásban is ellátható. A főállású alpolgármester foglalkoztatási jogviszonya a helyi önkormányzat képviselő-testületének a tisztség főállásban történő betöltéséről szóló döntését követően, az alpolgármester megválasztásával jön létre.
+
+(2) Azon alpolgármester, akit nem a képviselő-testület tagjai közül választottak, nem tagja a képviselő-testületnek, a polgármestert a képviselő-testület elnökeként nem helyettesítheti, de a képviselő-testület ülésein tanácskozási joggal részt vehet. A nem a képviselő-testület tagjai közül választott alpolgármester jogállására egyebekben a képviselő-testület tagjai közül választott alpolgármesterre vonatkozó szabályokat kell alkalmazni.
+
+76. § Az alpolgármester e tisztsége megszűnik:
+
+- a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek;
+- b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésének napján; továbbá
+- c) a 69. § (1) bekezdés b)–i) pontjában foglalt esetekben;
+- d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
+
+77. § Amennyiben a képviselő-testület az alpolgármester megbízását a 76. § d) pontja alapján nem vonja vissza és a polgármester az alpolgármester feladatait írásban, teljeskörűen megvonja, a feladatkör megvonását követően az alpolgármester a helyi önkormányzati képviselők tiszteletdíjával azonos mértékű díjra jogosult.
+
+78. § Társadalmi megbízatású polgármesteri tisztség esetén az alpolgármesteri tisztség is csak társadalmi megbízatásban tölthető be.
 
 79. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren a megyei közgyűlés elnökét és a főpolgármestert is érteni kell.
 
@@ -555,7 +738,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A főpolgármester-helyettes, az alpolgármester, a megyei önkormányzat közgyűlésének alelnöke díjazása, költségtérítése
 
-#### 80. §
+80. § (1) A főpolgármester-helyettes, a főállású alpolgármester, a megyei közgyűlés alelnöke illetményének összegét a főpolgármester, a polgármester, a megyei közgyűlés elnöke illetménye 70–90%-a közötti összegben a képviselő-testület állapítja meg.
+
+(2) A társadalmi megbízatású alpolgármester tiszteletdíját a képviselő-testület a társadalmi megbízatású polgármester tiszteletdíja 70–90%-a közötti összegben állapítja meg, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
+
+(3) A főpolgármester-helyettes, a főállású alpolgármester, a társadalmi megbízatású alpolgármester, a megyei közgyűlés alelnöke havonta az illetményének, tiszteletdíjának 15%-ában meghatározott összegű költségtérítésre jogosult.
 
 ### A jegyző és az aljegyző
 
@@ -617,6 +804,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 85. § (1) Közös önkormányzati hivatalt hoznak létre azok a járáson belüli községi önkormányzatok, amelyek közigazgatási területét legfeljebb egy település közigazgatási területe választja el egymástól, és a községek lakosságszáma nem haladja meg a kétezer főt. A kétezer fő lakosságszámot meghaladó település is tartozhat közös önkormányzati hivatalhoz.
 
 (2) A közös önkormányzati hivatalhoz tartozó települések összlakosságszáma legalább kétezer fő, vagy a közös hivatalhoz tartozó települések száma legalább hét.
+
+(2a) Ha a kialakítandó közös önkormányzati hivatalhoz tartozó települések közül valamelyik város, a (2) bekezdésben meghatározott összlakosságszámra vonatkozó követelményt nem kell alkalmazni.
 
 (3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül állapodnak meg. A megállapodás az általános önkormányzati választásokat követő év január 1-jén lép hatályba.
 
@@ -1244,7 +1433,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - a)–c)
 - d) az öngondoskodás és a közösségi feladatok ellátásához való hozzájárulás, továbbá a közösségi együttélés alapvető szabályait, valamint ezek elmulasztásának jogkövetkezményeit;
 - e)
-- f)
+- f) az önkormányzati képviselőnek, a bizottsági elnöknek és tagnak, továbbá a tanácsnoknak járó tiszteletdíjat és természetbeni juttatást;
 - g) a nagyobb gazdasági teljesítőképességű, lakosságszámú települési önkormányzat számára előírt kötelező feladat- és hatáskör vállalását;
 - h) a polgármester általi forrásfelhasználás mértékét;
 - i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait.
@@ -1301,11 +1490,14 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - b)
 - c)
 
-(3)
+(3) Hatályát veszti az Ötv.
 
 #### 157. §
 
-#### 158. §
+158. § Hatályát veszti
+
+- a) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény,
+- b) a helyi önkormányzati képviselők jogállásának egyes kérdéseiről szóló 2000. évi XCVI. törvény.
 
 ### 1. melléklet a 2011. évi CLXXXIX. törvényhez
 
