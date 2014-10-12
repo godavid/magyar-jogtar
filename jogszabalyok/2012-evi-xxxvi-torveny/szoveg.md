@@ -1020,13 +1020,13 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 30. Összeférhetetlenség
 
-80. § (1) A képviselői megbízatás – a (2) és (4) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más kereső foglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
+80. § (1) A képviselői megbízatás – a (2) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más kereső foglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 
 (2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
 (3) A miniszterelnök, miniszter, államtitkár képviselő nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
 
-(4) A képviselő főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlési elnöki, megyei közgyűlési alelnöki, polgármesteri, alpolgármesteri, helyi önkormányzati képviselői és nemzetiségi önkormányzati képviselői megbízatást (a továbbiakban együtt: polgármesteri megbízatás) láthat el. A képviselő polgármesteri megbízatása alatt polgármesteri megbízatásból származó tiszteletdíjra, illetményre, egyéb díjazásra, illetve polgármesteri megbízatásával összefüggő költségtérítésre, költségátalányra nem jogosult.
+(4)
 
 #### 81. §
 
@@ -1066,7 +1066,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 89. § A képviselő a házelnöknek köteles bejelenteni minden, összeférhetetlenség alá nem eső
 
-- a) polgármesteri megbízatását és polgármesteri megbízatása megszűnését,
+- a)
 - b) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), az e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelő bizottsági tagságát, továbbá bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői illetve kedvezményezetti jogállását,
 - c) alapítványát, alapítvány kezelő testületében fennálló tagságát, civil szervezetben fennálló tagsági viszonyát, továbbá e szervezetek jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét,
 - d) köztestületben fennálló tagságát, valamint köztestület jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét.
@@ -1711,7 +1711,7 @@ sarkalatosnak minősül.
 
 (7) A 160. § (2) bekezdés a) pontja az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-(8) A 80. § (4) bekezdése, a 149. § (2) bekezdése, a 154. § és a 160. § (4) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+(8) A 149. § (2) bekezdése, a 154. § és a 160. § (4) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (9) Az 50. alcím az Alaptörvénynek az (1)–(4), (6) és (7) bekezdésben meghatározott rendelkezései alapján sarkalatosnak minősül.
 

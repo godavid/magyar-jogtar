@@ -88,7 +88,11 @@ d) megyei jogú városi polgármesteri hivatal esetén: (település neve) Megye
 
 „(3) Hatályát veszti a 81–83. §, a 84. § a)–g) pontja, a 89. § e) és f) pontja, a 96. § (1) bekezdése, valamint a 109. § (8) és (9) bekezdése.”
 
-17. §
+17. § Hatályát veszti az Ogytv.
+
+- a) 80. § (1) bekezdésében az „és (4)” szövegrész,
+- b) 80. § (4) bekezdése,
+- c) 89. § a) pontja.
 
 18. § (1) E törvény – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
