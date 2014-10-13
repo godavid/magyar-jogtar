@@ -34,10 +34,10 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolód�
 
 14–18. §
 
-19. § Hatályát veszti az Ogytv.
+19. §
 
 - a)–b)
-- c) 146. § (8) bekezdésében a „80. § (4) bekezdése, a ” szövegrész.
+- c)
 
 #### 7. Záró rendelkezések
 

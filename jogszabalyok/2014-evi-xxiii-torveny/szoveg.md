@@ -8,9 +8,7 @@ egyes helyi önkormányzatokkal kapcsolatos törvényeknek a választásokkal ö
 
 #### 2. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-12. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 22. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A fővárosi közgyűlés tagjai a főpolgármester, a fővárosi kerületek polgármesterei, valamint a fővárosi kompenzációs listáról mandátumot szerző kilenc képviselő.”
+12. §
 
 13. § Az Mötv. „A megbízatás keletkezése és megszűnése” alcíme a következő 31/A. §-sal kiegészülve lép hatályba:
 
@@ -46,15 +44,7 @@ h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével mű
 
 i) médiatartalom-szolgáltató természetes személy, továbbá jogi személy, valamint gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.”
 
-16. § Az Mötv. 47. §-a helyébe a következő rendelkezés lép:
-
-„47. § (1) A képviselő-testület akkor határozatképes, ha az ülésen az önkormányzati képviselőknek több mint a fele jelen van. A határozatképességet folyamatosan figyelemmel kell kísérni.
-
-(2) A javaslat elfogadásához az egyszerű többséget igénylő javaslat esetén a jelen levő önkormányzati képviselők, minősített többséget igénylő javaslat esetén az önkormányzati képviselők több mint a felének igen szavazata szükséges. A betöltetlen önkormányzati képviselői helyet a határozatképesség szempontjából betöltöttnek kell tekinteni.
-
-(3) A fővárosi közgyűlésben a (2) bekezdést úgy kell alkalmazni, hogy a javaslat elfogadásához a (2) bekezdés szerinti szavazatarány mellett a főváros lakosságszámának együttesen több mint a felét kitevő lakosságszámú fővárosi kerületek polgármestereinek igen szavazata is szükséges.
-
-(4) A (3) bekezdés szerinti esetben a lakosságszám megállapításakor a fővárosnak, valamint a fővárosi kerületeknek a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jén meglévő lakosságszámát kell figyelembe venni.”
+16. §
 
 17. § Az Mötv. „Polgármester” alcíme a következő 70/A. §-sal kiegészülve lép hatályba:
 
