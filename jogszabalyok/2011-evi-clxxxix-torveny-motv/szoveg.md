@@ -1490,14 +1490,11 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - b)
 - c)
 
-(3) Hatályát veszti az Ötv.
+(3)
 
 #### 157. §
 
-158. § Hatályát veszti
-
-- a) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény,
-- b) a helyi önkormányzati képviselők jogállásának egyes kérdéseiről szóló 2000. évi XCVI. törvény.
+#### 158. §
 
 ### 1. melléklet a 2011. évi CLXXXIX. törvényhez
 
