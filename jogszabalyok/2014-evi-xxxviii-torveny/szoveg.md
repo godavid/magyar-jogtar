@@ -8,20 +8,26 @@ A Kúria 2/2014. számú PJE határozatából származó egyes követelmények �
 
 1. § (1) E törvény hatálya a 2004. május 1. napja és az e törvény hatálybalépésének napja között kötött fogyasztói kölcsönszerződésre terjed ki. E törvény alkalmazásában fogyasztói kölcsönszerződésnek minősül a pénzügyi intézmény és a fogyasztó között létrejött deviza alapú (devizában nyilvántartott vagy devizában nyújtott és forintban törlesztett) vagy forint alapú hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés, ha annak részévé a 3. § (1) bekezdése vagy a 4. § (1) bekezdése szerinti kikötést is tartalmazó általános szerződési feltétel vagy egyedileg meg nem tárgyalt szerződési feltétel vált.
 
-(2) Az e törvényben foglalt szabályokat nem kell alkalmazni azokra a fogyasztói kölcsönszerződésekre, amelyek teljesítésére irányuló kötelezettség megszűnt
+(1a) E törvény alkalmazásában fogyasztói kölcsönszerződésnek minősül – az (1) bekezdésben foglaltakon túl – a pénzügyi intézmény és a fogyasztó között létrejött deviza alapúnak nem minősülő deviza hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés, ha azt az (1) bekezdésben meghatározott időpontok között kötötték, és annak részévé a 4. § (1) bekezdése szerinti kikötést is tartalmazó általános szerződési feltétel vagy egyedileg meg nem tárgyalt szerződési feltétel vált.
 
-- a) végtörlesztés következtében (a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/B. §-ban foglaltak szerint), vagy
-- b) e törvény hatálybalépése előtt a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény alapján a fogyasztói kölcsönszerződés fedezetéül szolgáló ingatlannak az állam által történő megvásárlása következtében.
+(2) E törvény hatálya nem terjed ki:
+
+- a) a hitelkártyához vagy fizetési számlához kapcsolódó és
+- b) az állami kamattámogatással nyújtott lakáscélú forint alapú
+
+kölcsönszerződésre.
 
 (3) Az e törvény hatálybalépése napján fennálló fogyasztói kölcsönszerződés esetén az e törvényben meghatározott kötelezettségek és jogosultságok azt a pénzügyi intézményt terhelik, illetve illetik, amely e törvény hatálybalépésének napján a fogyasztói kölcsönszerződésből eredő követelések jogosultja. Ha e törvény hatálybalépése napján a fogyasztói kölcsönszerződésből eredő követelések nem pénzügyi intézményt illetnek meg, az e törvényben meghatározott kötelezettségek és jogosultságok azt a pénzügyi intézményt terhelik, illetve illetik, amelytől a követelést a nem pénzügyi intézmény megszerezte. Ha a fogyasztói kölcsönszerződés e törvény hatálybalépésének napja előtt megszűnt, akkor a kötelezettségek és a jogosultságok azt a pénzügyi intézményt terhelik, illetve illetik, amely a szerződés megszűnésekor a követelés jogosultja volt. Ha a szerződés megszűnésekor a követelés jogosultja nem pénzügyi intézmény volt, az e törvényben meghatározott kötelezettségek és jogosultságok azt a pénzügyi intézményt terhelik, illetve illetik, amelytől a követelést a nem pénzügyi intézmény megszerezte.
 
-(4) Ha a pénzügyi intézmény végelszámolás vagy felszámolási eljárás alatt áll, az e törvény szerinti kötelezettségek a végelszámolót, illetve a felszámolót terhelik. A felszámolási zárómérleg – illetve végelszámolás esetében a végelszámolás időszakáról a számviteli beszámoló – elkészítésére akkor kerülhet sor, ha az e törvény szerinti kötelezettségek teljesítése megtörtént, ideértve a külön törvény szerinti elszámolási kötelezettségek teljesítését is. A külön törvényben és a 3. § (5) bekezdésben, illetve a 4. § (3) bekezdésben meghatározott elszámolási kötelezettségek alapján fennálló követelésekkel összefüggő igénybejelentési határidő a külön törvényben meghatározott időponttól kezdődik.
+(4) Ha a pénzügyi intézmény végelszámolás vagy felszámolási eljárás alatt áll, az e törvény szerinti kötelezettségek a végelszámolót, illetve a felszámolót terhelik. A felszámolási zárómérleg – illetve végelszámolás esetében a végelszámolás időszakáról a számviteli beszámoló – elkészítésére akkor kerülhet sor, ha az e törvény és a külön törvény szerinti elszámolási kötelezettségek teljesítése megtörtént. A külön törvényben meghatározott eljárásokban teljesített elszámolással összefüggésben a fogyasztói követelést, illetve a Nemzeti Eszközkezelő részére járó visszatérítési igényt a felszámoló, illetve a végelszámoló külön hitelezői bejelentés nélkül, elismert követelésként veszi nyilvántartásba és igazolja vissza. Ha az elszámolási kötelezettséggel vagy azzal összefüggésben a külön törvény szerinti felülvizsgálatra vagy perre kerül sor, az eljárásoknak a külön törvényben meghatározott befejezését követő hatvan napon belül kell az ezek alapján megállapított hitelezői követeléseket nyilvántartásba venni és erről a visszaigazolást az érintetteknek megküldeni.
 
 (5) E törvény végrehajtása érdekében a fogyasztói kölcsönszerződés jogosulti pozíciójában bekövetkezett alanyváltozásban érintett pénzügyi intézmények egymással együttműködni kötelesek. Együttműködési kötelezettsége alapján a korábbi jogosult pénzügyi intézmény az e törvény teljesítéséhez szükséges adatokat a (3) bekezdés szerinti pénzügyi intézmény rendelkezésére bocsátja. E körben a pénzügyi intézmények egymás közötti viszonyában a banktitok megtartására vonatkozó külön törvényi kötelezettség nem áll fenn.
 
 (6) A Polgári Törvénykönyvről szóló 1959. évi IV. törvény elévüléssel kapcsolatos szabályait a fogyasztói kölcsönszerződésből eredő követelések tekintetében úgy kell értelmezni, hogy e követelések a kölcsönszerződés fennállása alatt nem évülnek el, azok elévülése a szerződés megszűnésével kezdődik.
 
 (7) A (6) bekezdés szerinti követelés elévülése e törvény hatálybalépésének napjától a 3. § (5) bekezdése és a 4. § (3) bekezdése szerinti külön törvényben meghatározott időpontig nyugszik.
+
+(7a) Ahol az (1a) bekezdés szerinti fogyasztói kölcsönszerződésből ered a követelés, a (6) bekezdés szerinti követelés elévülése e rendelkezés hatálybalépésének napjától a 3. § (5) bekezdése és a 4. § (3) bekezdése szerinti külön törvényben meghatározott időpontig nyugszik.
 
 #### 2. Értelmező rendelkezések
 
@@ -39,11 +45,11 @@ A Kúria 2/2014. számú PJE határozatából származó egyes követelmények �
 
 (3) Ha a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/A. §-ában vagy a Hpt. 267. §-ában meghatározott szerződések esetében és rendelkezések alapján az azokban megjelölt devizaárfolyam alkalmazására vonatkozó rendelkezés a szerződés részévé vált, vagy a törlesztés során a felek ennek megfelelően jártak el, a (2) bekezdés devizaárfolyamra vonatkozó előírását e szerződések esetében és a törlesztés e rendelkezések által érintett időszakára csak a folyósítás tekintetében kell alkalmazni.
 
-(4) A pénzügyi intézménynek e törvény hatálybalépését követő kilencven napon belül úgy kell az átszámítást elvégeznie, hogy a kölcsön-, illetve a finanszírozási összeg folyósításától kezdődő időponttal a folyósítás és a törlesztés összegének kiszámítása alapjául az ezek esedékessége napján érvényes (2) bekezdés szerinti – a (3) bekezdésben meghatározott esetben a (3) bekezdés szerinti – devizaárfolyam szolgáljon.
+(4)
 
-(5) A (4) bekezdés szerinti átszámítás alapján a pénzügyi intézménynek a fogyasztóval külön törvényben meghatározott módon kell elszámolnia.
+(5) A pénzügyi intézménynek a fogyasztóval külön törvényben meghatározott módon kell elszámolnia.
 
-(6) A (4) bekezdés szerinti átszámítás jogszerűségét a felügyeleti és fogyasztóvédelmi jogkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) hivatalból ellenőrzi. A pénzügyi intézmény az általa alkalmazott átszámítási módszertant e törvény hatálybalépését követő hatvan napon belül megküldi a Felügyelet részére.
+(6)
 
 #### 4. Az egyoldalú szerződésmódosítás lehetőségét tartalmazó szerződéses kikötések rendezése
 
@@ -57,17 +63,25 @@ A Kúria 2/2014. számú PJE határozatából származó egyes követelmények �
 - f) a felmondhatóság elvének: a szerződésmódosítás bekövetkezése esetére nem biztosítja a fogyasztó számára a felmondás jogát vagy
 - g) a szimmetria elvének: kizárja, hogy a fogyasztó javára bekövetkező feltételváltozás hatása a fogyasztó javára érvényesítésre kerüljön.
 
-(2) Az (1) bekezdés szerinti szerződéses kikötés semmis, ha a pénzügyi intézmény a 8. § (1) bekezdés szerinti határidőben nem kezdeményezte a polgári peres eljárás lefolytatását vagy a bíróság a keresetet elutasítja vagy a pert megszünteti.
+(2) Az (1) bekezdés szerinti szerződéses kikötés semmis, ha a pénzügyi intézmény a 8. § (1) bekezdés szerinti határidőben nem kezdeményezte a polgári peres eljárás lefolytatását vagy a bíróság a keresetet elutasítja vagy a pert megszünteti, kivéve ha a szerződéses kikötés esetében a 6. § (2) bekezdés szerinti peres eljárás megindításának lehet helye, de az eljárás nem került megindításra vagy az eljárás megindításra került, de a bíróság nem állapította meg a (2a) bekezdés szerint a szerződéses kikötés semmisségét.
 
-(3) A (2) bekezdésben foglalt esetben a pénzügyi intézménynek a fogyasztóval külön törvény szerint meghatározott módon kell elszámolnia.
+(2a) Az (1) bekezdés szerinti szerződéses kikötés semmis, ha a bíróság annak semmisségét az elszámolásról szóló külön törvény alapján a Felügyelet által indított közérdekű keresettel indított perben megállapította.
+
+(3) A (2) és a (2a) bekezdésben foglalt esetben a pénzügyi intézménynek a fogyasztóval külön törvény szerint meghatározott módon kell elszámolnia.
 
 #### 5. Az általános szerződési feltételek és az egyedileg meg nem tárgyalt szerződési feltételek vizsgálata és adatszolgáltatás e feltételekről
 
 5. § (1) A pénzügyi intézménynek e törvény hatálybalépését követő harminc napon belül meg kell vizsgálnia a fogyasztói kölcsönszerződés részévé váló azon általános szerződési feltételeket és egyedileg meg nem tárgyalt szerződési feltételeket (a továbbiakban együtt: ÁSZF), melyekben szerepel az egyoldalú szerződésmódosítás lehetőségét tartalmazó szerződéses kikötés.
 
-(2) A pénzügyi intézménynek e törvény hatálybalépését követő harminc napon belül be kell jelentenie a Felügyelet részére valamennyi (1) bekezdés szerinti szerződéses kikötést tartalmazó ÁSZF-et, és nyilatkoznia kell arról, hogy az azokban foglalt szerződéses kikötést tisztességesnek vagy tisztességtelennek tekinti-e. A bejelentéshez a Felügyelet részére mellékelni kell a szerződéses kikötéssel érintett szerződések azonosítási számát és az érintett szerződés alapján fennálló követelések összegét.
+(2) A pénzügyi intézménynek e törvény hatálybalépését követő harminc napon belül be kell jelentenie a felügyeleti és fogyasztóvédelmi jogkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) részére valamennyi (1) bekezdés szerinti szerződéses kikötést tartalmazó ÁSZF-et, és nyilatkoznia kell arról, hogy az azokban foglalt szerződéses kikötést tisztességesnek vagy tisztességtelennek tekinti-e. A bejelentéshez a Felügyelet részére mellékelni kell a szerződéses kikötéssel érintett szerződések azonosítási számát és az érintett szerződés alapján fennálló követelések összegét.
 
-6. § Ha a pénzügyi intézmény a vizsgálat során azt állapítja meg, hogy az általa alkalmazott valamely ÁSZF tartalmaz olyan szerződéses kikötést, mely esetében a 4. § (1) bekezdésében foglalt rendelkezésre figyelemmel vélelmezni kell a szerződéses kikötés tisztességtelenségét, de a pénzügyi intézmény álláspontja szerint a szerződéses kikötés tisztességes, a vélelem megdöntése iránt a 6. alcímben foglalt szabályok szerint polgári peres eljárást indíthat.
+(3) A pénzügyi intézménynek 2014. november 30. napjáig meg kell vizsgálnia az 1. § (1a) bekezdése szerinti fogyasztói kölcsönszerződés részévé váló azon ÁSZF-eket, melyekben szerepel az egyoldalú szerződésmódosítás lehetőségét tartalmazó szerződéses kikötés.
+
+(4) A pénzügyi intézménynek 2014. november 30. napjáig be kell jelentenie a Felügyelet részére valamennyi (3) bekezdés szerinti szerződéses kikötést tartalmazó ÁSZF-et, és nyilatkoznia kell arról, hogy az azokban foglalt szerződéses kikötést tisztességesnek vagy tisztességtelennek tekinti-e, továbbá nyilatkoznia kell arról, hogy a szerződéses kikötések alapján sor került-e egyoldalú kamat-, díj- vagy költségemelést eredményező szerződésmódosításra. A bejelentéshez a Felügyelet részére mellékelni kell a szerződéses kikötéssel érintett szerződések azonosítási számát és az érintett szerződés alapján fennálló követelések összegét.
+
+6. § (1) Ha a pénzügyi intézmény a vizsgálat során azt állapítja meg, hogy az általa alkalmazott valamely ÁSZF tartalmaz olyan szerződéses kikötést, mely esetében a 4. § (1) bekezdésében foglalt rendelkezésre figyelemmel vélelmezni kell a szerződéses kikötés tisztességtelenségét, de a pénzügyi intézmény álláspontja szerint a szerződéses kikötés tisztességes, a vélelem megdöntése iránt – ha a (2) bekezdés eltérően nem rendelkezik – a 6. alcímben foglalt szabályok szerint polgári peres eljárást indíthat.
+
+(2) A forint alapú fogyasztói kölcsönszerződések vagy az 1. § (1a) bekezdése szerinti fogyasztói kölcsönszerződések esetén a 2010. november 26-át követően közzétett ÁSZF-ek vagy a korábbi ÁSZF-ek 2010. november 26-át követően közzétett módosításai vonatkozásában nem kell vélelmezni a 4. § (1) bekezdésében foglalt rendelkezésre figyelemmel a szerződéses kikötés tisztességtelenségét. A Felügyelet a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény szerinti eljárásokat folytathatja le és 2015. február 14. és február 28. között hivatalból közérdekű keresettel pert indíthat; a határidő jogvesztő. A közérdekű keresettel indított perre a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvényben foglalt szabályokat kell alkalmazni.
 
 #### 6. A polgári peres eljárás
 
@@ -94,22 +108,28 @@ A Kúria 2/2014. számú PJE határozatából származó egyes követelmények �
 - g) bírósági meghagyás kibocsátásának,
 - h) hiánypótlásnak,
 - i) csatlakozó fellebbezésnek és csatlakozó felülvizsgálati kérelemnek,
-- j) a Pp. XXVIII. fejezete alkalmazásának.
+- j) a Pp. XXVIII. fejezete alkalmazásának,
+- k) perújításnak.
 
 8. § (1) A pénzügyi intézmény 6. § szerinti polgári peres eljárást megindító keresetlevelének, ha a per tárgyát képező ÁSZF kikötést
 
 - a) deviza alapú (devizában nyilvántartott vagy devizában nyújtott és forintban törlesztett) hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés esetén alkalmazták, az e törvény hatálybalépésétől számított harminc napon belül,
-- b) forint alapú hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés esetén alkalmazták, az e törvény hatálybalépését követő kilencvenedik és százhuszadik nap között
+- b) forint alapú hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés esetén alkalmazták 2010. november 26-án vagy azt megelőzően, 2015. január 5. napja és január 12. napja között,
+- c) az 1. § (1a) bekezdése szerinti fogyasztói kölcsönszerződés esetén alkalmazták 2010. november 26-án vagy azt megelőzően, 2015. január 5. napja és január 12. napja között
 
 kell a bírósághoz beérkeznie, a határidő jogvesztő.
 
+(1a) Ha az (1) bekezdés b) vagy c) pontja szerinti esetben a keresetlevél 2015. január 5. napja előtt érkezett be a bírósághoz, azt ebből az okból elutasítani nem kell, hanem úgy kell tekinteni, mintha a keresetlevél benyújtására 2015. január 5. napján került volna sor.
+
 (2) Az (1) bekezdés szerinti határidő elmulasztása miatt igazolásnak nincs helye.
 
-(3) A pénzügyi intézménynek egy keresetlevélben kell kérnie az általa alkalmazott valamennyi ÁSZF – 4. § (1) bekezdése szerinti – szerződéses kikötései érvényességének megállapítását. A keresetlevélben azt az időszakot is meg kell jelölni, amely alatt a pénzügyi intézmény a szerződéses kikötést alkalmazta.
+(3) A pénzügyi intézménynek – a (3a) bekezdésben foglalt eltéréssel – egy keresetlevélben kell kérnie az általa alkalmazott valamennyi ÁSZF 4. § (1) bekezdése szerinti szerződéses kikötései érvényességének megállapítását. A keresetlevélben azt az időszakot is meg kell jelölni, amely alatt a pénzügyi intézmény a szerződéses kikötést alkalmazta.
+
+(3a) A pénzügyi intézménynek egy keresetlevélben kell kérnie az általa alkalmazott valamennyi olyan ÁSZF 4. § (1) bekezdése szerinti szerződéses kikötései érvényességének megállapítását, melyek esetében a keresetlevélnek 2015. január 5. napja és január 12. napja között kell a bírósághoz megérkeznie. A keresetlevélben azt az időszakot is meg kell jelölni, amely alatt a pénzügyi intézmény a szerződéses kikötést alkalmazta.
 
 (4) A pénzügyi intézmény a keresetében kizárólag a 11. § (3) bekezdésében foglaltak megállapítását kérheti.
 
-(5) A keresetlevélhez a Pp. 121. § (2) és (3) bekezdésében meghatározottak mellett csatolni kell a (3) bekezdés szerinti ÁSZF-ek egy okiratba foglalt azon kivonatát, amely kizárólag azokat a szerződéses kikötéseket tartalmazza, amelyek tekintetében a pénzügyi intézmény az érvényesség megállapítását kéri, a szerződéses kikötések esetén meg kell jelölni azt az időszakot, amely alatt a pénzügyi intézmény a szerződéses kikötést alkalmazta. A kivonatban az egyes szerződéses feltételek mellett fel kell tüntetni azon tényeket és bizonyítékokat, amelyek a pénzügyi intézmény szerint megalapozzák a kereseti kérelemben foglaltakat. A keresetlevélhez továbbá elektronikus adathordozót kell csatolni, amely tartalmazza a keresetlevélnek és mellékleteinek informatikai eszköz alkalmazásával megszerkesztett változatát.
+(5) A keresetlevélhez a Pp. 121. § (2) és (3) bekezdésében meghatározottak mellett csatolni kell a (3) bekezdés szerinti ÁSZF-ek egy okiratba foglalt azon kivonatát, amely kizárólag azokat a szerződéses kikötéseket tartalmazza, amelyek tekintetében a pénzügyi intézmény az érvényesség megállapítását kéri, a szerződéses kikötések esetén meg kell jelölni azt az időszakot, amely alatt a pénzügyi intézmény a szerződéses kikötést alkalmazta. A kivonatban az egyes szerződéses feltételek mellett fel kell tüntetni azon tényeket és bizonyítékokat, amelyek a pénzügyi intézmény szerint megalapozzák a kereseti kérelemben foglaltakat. A keresetlevélhez továbbá elektronikus adathordozót kell csatolni, amely tartalmazza a keresetlevélnek és mellékleteinek informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát.
 
 (6) A keresetlevélnek a Pp. 130. §-a alapján való elutasítása esetében a keresetlevél beadásának jogi hatályai fennmaradnak, ha a felperes az elutasító határozat jogerőre emelkedésétől számított öt nap alatt a keresetlevelet szabályszerűen újra benyújtja.
 
@@ -130,6 +150,8 @@ kell a bírósághoz beérkeznie, a határidő jogvesztő.
 (4) A tárgyalást egy alkalommal és csak akkor lehet elhalasztani – legfeljebb hét napra –, ha ez a felek által felajánlott bizonyítás lefolytatása érdekében szükséges.
 
 (5) Ha a fél vagy képviselője a tárgyalási határnapot hibáján kívül mulasztja el és ezért igazolási kérelemmel él, kérelmét legkésőbb az elmulasztott határnapot követő első munkanapon terjesztheti elő. Az igazolási kérelmet elutasító végzés ellen az igazolási kérelem előterjesztője három napon belül élhet fellebbezéssel. A fellebbezést a bíróság egy munkanapon belül – a fellebbező fél ellenfele észrevételeinek beszerzése nélkül – terjeszti fel a másodfokú bírósághoz. A másodfokú bíróság a fellebbezést a felterjesztéstől számított három napon belül bírálja el.
+
+(6) A bíróságnak a 8. § (1) bekezdés b) és c) pontja szerinti esetben a keresetlevél beérkezésétől számított 30 napon belül kell megvizsgálnia a keresetlevelet és dönteni a keresetlevél idézés kibocsátása nélküli elutasításáról, vagy a tárgyalás kitűzéséről. Ha a bíróság a keresetlevelet nem utasítja el idézés kibocsátása nélkül, a 9. § (3) bekezdése szerinti határidőt a tárgyalás kitűzésétől kell számítani.
 
 11. § (1) A bíróság az eljárásban kizárólag azt vizsgálja, hogy a pénzügyi intézmény által tisztességesnek tartott szerződéses kikötés a 4. § (1) bekezdése szerint tisztességes-e.
 
@@ -173,13 +195,17 @@ kell a bírósághoz beérkeznie, a határidő jogvesztő.
 
 #### 7. Folyamatban lévő perek kezelése
 
-16. § A bíróság a külön törvényben meghatározott intézkedésig, de legkésőbb 2014. december 31. napjáig hivatalból felfüggeszti – a 6. alcímben szabályozott per kivételével – azt a peres eljárást, amelynek a tárgya részben vagy egészben a 3. § (1) bekezdése vagy 4. § (1) bekezdése szerinti szerződéses kikötés, illetve amely pert az ilyen szerződéses kikötésen is alapuló követelés érvényesítése iránt a pénzügyi intézmény indított a fogyasztóval szemben. A bíróság a felfüggesztés tárgyában tárgyaláson kívül is határozhat. Az eljárás felfüggesztésére a Pp. 155. §-ában foglaltakat megfelelően alkalmazni kell azzal, hogy a felfüggesztést elrendelő bírósági határozat ellen fellebbezésnek nincs helye.
+16. § (1) A bíróság a külön törvényben meghatározott intézkedésig, de legkésőbb 2014. december 31. napjáig hivatalból felfüggeszti – a 6. § (2) bekezdése szerinti közérdekű keresettel indított per és a 6. alcímben szabályozott per kivételével – azt a peres eljárást, amelynek a tárgya részben vagy egészben a 3. § (1) bekezdése vagy a 4. § (1) bekezdése szerinti szerződéses kikötés, illetve amely pert az ilyen szerződéses kikötésen is alapuló követelés érvényesítése iránt a pénzügyi intézmény indított a fogyasztóval szemben. A bíróság a felfüggesztés tárgyában tárgyaláson kívül is határozhat. Az eljárás felfüggesztésére a Pp. 155. §-ában foglaltakat megfelelően alkalmazni kell, azzal hogy a felfüggesztést elrendelő bírósági határozat ellen fellebbezésnek nincs helye.
+
+(2) A bíróság a külön törvényben meghatározott intézkedésig, de legkésőbb 2015. december 31. napjáig hivatalból felfüggeszti – a 6. § (2) bekezdése szerinti közérdekű keresettel indított per és a 6. alcímben szabályozott per kivételével – azt a peres eljárást is, amelynek a tárgya részben vagy egészben a 4. § (1) bekezdése szerinti szerződéses kikötés, illetve amely pert az ilyen szerződéses kikötésen is alapuló követelés érvényesítése iránt a pénzügyi intézmény indított a fogyasztóval szemben, ha a 4. § (1) bekezdése szerinti szerződéses kikötés az 1. § (1a) bekezdése szerinti fogyasztói kölcsönszerződésben szerepel. A felfüggesztésre az (1) bekezdés szabályait kell alkalmazni.
 
 #### 8. A bírósági végrehajtásról szóló 1994. évi LIII. törvény szabályainak eltérő alkalmazása
 
 17. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) E § alkalmazásában kölcsönszerződés: pénzügyi intézmény és fogyasztó mint adós vagy adóstárs által kötött deviza vagy forint alapú hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés.
+
+(2a) E § alkalmazásában – a (2) bekezdésben foglaltak mellett – kölcsönszerződés: pénzügyi intézmény és fogyasztó mint adós vagy adóstárs által kötött, deviza alapúnak nem minősülő deviza hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés.
 
 (3) A kölcsönszerződésen alapuló követelések behajtása iránt folyamatban lévő (vagy a kölcsönszerződésből eredő követelés behajtása érdekében bekapcsolódással indult) végrehajtási eljárásokban – a (4), (7), (8) és (10) bekezdésben foglalt kivétellel – a külön törvényben meghatározott időpontig eljárási cselekmény, intézkedés nem foganatosítható, a felek és egyéb érdekeltek által tett nyilatkozatok is hatálytalanok; eddig az időpontig minden határidő megszakad, azt követően a határidő újra kezdődik. A végrehajtási ügyet a végrehajtónak szünetelő ügyként kell nyilvántartania, ha a végrehajtási ügyben eljárási cselekmény vagy intézkedés foganatosítására e törvény alapján nem kerül sor.
 
@@ -197,7 +223,7 @@ kell a bírósághoz beérkeznie, a határidő jogvesztő.
 - a) a kölcsönszerződésből eredő követelést biztosító zálogszerződésben vagy kezesi kötelezettségvállaló nyilatkozatban foglaltak kikényszerítése a végrehajtás tárgya,
 - b) az eljárás végrehajtást kérője, illetve adósa a kölcsönszerződésben vagy abból eredő követelést biztosító szerződésben részes fél jogutódja.
 
-(7) A végrehajtást kérő, illetve az adós kérheti annak megállapítását, hogy a kölcsönszerződésben nem szerepel a 3. § (1) bekezdése, illetve a 4. § (1) bekezdése szerinti szerződéses kikötés. A kérelmet a végrehajtónál kell benyújtani, aki azt – elbírálás végett – az ügy irataival együtt beterjeszti a végrehajtást foganatosító bírósághoz. A kérelmet legkésőbb e törvény hatálybalépésétől számított 120 napon belül kell benyújtani vagy ajánlott küldeményként postára adni. A kérelmet a végrehajtást foganatosító bíróság a végrehajtási kifogás elbírálásának szabályai szerint bírálja el.
+(7) A végrehajtást kérő, illetve az adós kérheti annak megállapítását, hogy a kölcsönszerződésben nem szerepel a 3. § (1) bekezdése, illetve a 4. § (1) bekezdése szerinti szerződéses kikötés. A kérelmet a végrehajtónál kell benyújtani, aki azt – elbírálás végett – az ügy irataival együtt beterjeszti a végrehajtást foganatosító bírósághoz. A kérelmet a végrehajtást foganatosító bíróság a végrehajtási kifogás elbírálásának szabályai szerint bírálja el.
 
 (8) Ha a végrehajtást foganatosító bíróság azt állapítja meg, hogy a kölcsönszerződésben nem szerepel a 3. § (1) bekezdés, illetve a 4. § (1) bekezdés szerinti szerződéses kikötés, akkor végzéssel határoz arról, hogy – a végzés jogerőre emelkedését követően – a (3)–(6) bekezdés nem alkalmazható és az eljárási cselekmények, intézkedések foganatosításának van helye; a megszakadt határidők a végzés jogerőre emelkedését követően kezdődnek újra.
 
@@ -211,7 +237,8 @@ az adós a végrehajtónál kérheti a (3) bekezdés alkalmazását.
 (10) E törvény rendelkezései nem akadályozzák azt, hogy
 
 - a) az adós megfizesse a követelés összegét vagy
-- b) a követelés megszűnésének és csökkenésének bejelentésére, valamint a követelés megszűnésével és csökkenésével kapcsolatos eljárási cselekmények és intézkedések megtételére, foganatosítására kerüljön sor.
+- b) a követelés megszűnésének és csökkenésének bejelentésére, valamint a követelés megszűnésével és csökkenésével kapcsolatos eljárási cselekmények és intézkedések megtételére, foganatosítására kerüljön sor,
+- c) a kölcsönszerződések esetén a végrehajtás elrendelésére (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálására) sor kerüljön és a végrehajtás elrendelése (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálása) körébe tartozó eljárási cselekmények, nyilatkozatok megtehetőek legyenek.
 
 #### 9. A zálogtárgyak bírósági végrehajtáson kívüli értékesítését szabályozó kormányrendelet szabályainak eltérő alkalmazása
 
@@ -231,3 +258,11 @@ az adós a végrehajtónál kérheti a (3) bekezdés alkalmazását.
 
 - a) a módosítás után még nem került sor törlesztésre, úgy a pénzügyi intézmény a módosítást nem érvényesíti a fizetendő törlesztőrészletben és a hirdetményt visszavonja;
 - b) a módosítás után már sor került törlesztésre, úgy a módosítás miatti törlesztőrészlet növekedést az ügyfél számláján e törvény hatálybalépését követő harmadik munkanapon jóvá kell írni és a hirdetményt vissza kell vonni.
+
+22. § (1) Ha a 17. § (2) bekezdése szerinti kölcsönszerződések esetén a végrehajtás elrendelése (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálása) iránti kérelmet 2014. július 26. napját követően nyújtották be, és 2014. október 15. napjáig nem került sor a végrehajtás elrendelésére (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálására), a végrehajtás elrendelése (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálása) iránt 2014. december 15. napjáig kell intézkedni.
+
+(2) E törvénynek a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvénnyel (a továbbiakban: Módtv.) megállapított 1. § (2) bekezdése szerinti kölcsönszerződések esetén a 16. § alapján felfüggesztett eljárásokat a fél kérelmére folytatni kell; a bíróságnak a kérelem beérkezésétől számított 30 napon belül kell a folytatás iránt intézkednie.
+
+(3) E törvénynek a Módtv.-nyel megállapított 1. § (2) bekezdése szerinti kölcsönszerződések esetén a végrehajtást kérő vagy az adós a 17. § (7)–(8) bekezdése szerinti eljárás lefolytatását kérheti, a kérelmet a bíróság soron kívül bírálja el.
+
+(4) E törvénynek a Módtv.-nyel megállapított 1. § (2) bekezdése szerinti kölcsönszerződések esetén a 18. §-ban foglalt szabályokat 2014. december 15. napjától nem kell alkalmazni.
