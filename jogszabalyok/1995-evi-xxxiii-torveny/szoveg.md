@@ -2218,7 +2218,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (4) A Hivatal a szerzői és a szerzői joghoz kapcsolódó jogokkal összefüggésben – külön jogszabályok alapján – különösen a következő feladatokat látja el:
 
-- a) engedélyezi a felhasználást ismeretlen vagy ismeretlen helyen tartózkodó szerző alkotása (árva mű) esetén és nyilvántartást vezet erről,
+- a) lefolytatja az árva művek felhasználásával összefüggő eljárásokat és az árva művek felhasználására kiadott engedélyekről nyilvántartást vezet,
 - b) nyilvántartást vezet a szerzői és a szomszédos jogok közös kezelését végző szervezetekről,
 - c) felügyeletet gyakorol a közös jogkezelési tevékenység felett,
 - d) előkészíti a közös jogkezelő szervezetek díjszabásainak, támogatási politikájának és a bevétel jogosultak érdekében történő felhasználására vonatkozó döntésének miniszteri jóváhagyását, és megteszi az ehhez szükséges intézkedéseket,
