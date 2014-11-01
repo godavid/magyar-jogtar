@@ -1378,6 +1378,26 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 29/Z. § A reklámadóról szóló törvény alapján a 2014. évben kezdődő adóév adóalapjának megállapítása során a reklámadó-alap csökkentő tételként figyelembe vett összeg a társasági adókötelezettség megállapítása során elszámolt elhatárolt veszteségnek minősül.
 
+29/ZS. § (1) Ha a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény (a továbbiakban: 2014. évi XXXVIII. törvény) és a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény (a továbbiakban: elszámolási törvény, a 2014. évi XXXVIII. törvény és az elszámolási törvény együtt: Törvények) végrehajtása miatt – figyelemmel az elszámolási törvény 44. §-ában foglaltakra – a társasági adóban, társas vállalkozások különadójában, a helyi iparűzési adóban, az innovációs járulékban, a pénzügyi szervezetek különadójában a 2008–2014. adóévekre bevallott és megfizetett adó (a továbbiakban: összes bevallott adó) csökkentésének az adózás rendjéről szóló törvény szerinti önellenőrzés vagy ismételt ellenőrzés alkalmazásával azért lenne helye, mert az a számviteli beszámolóval lezárt 2008–2014. üzleti éveknek az említett adók alapját képező bevételeire, ráfordításaira és a 2009. üzleti év mérlegfőösszegére vonatkozna, akkor – önellenőrzés, ismételt ellenőrzés helyett – az adózó azzal az összeggel, amellyel a Törvények végrehajtása miatti önellenőrzés, ismételt ellenőrzés esetén az összes bevallott adót csökkentené (a továbbiakban e § alkalmazásában: különbözet), a 2015. adóévi fizetendő társasági adót csökkenti.
+
+(2) Ha a különbözet összege több, mint a 2015. adóévi fizetendő társasági adó összege, akkor a fennmaradó különbözet a soron következő adóévek társasági adóját csökkenti, a 2015. adóévet követő adóévekben összesen legfeljebb a fennmaradó különbözet erejéig.
+
+(3) Az adóalany a 2015. adóévi társasági adóelőleg kiegészítésről tett bevallásban feltünteti, a 2015. adóévi társasági adóbevallásban bevallja az (1) bekezdésben említett adónként és adóévenként – a helyi iparűzési adó esetén azon településenként is, ahol az adóalanyt az adóévben helyi iparűzési adókötelezettség terhelte – a helyesbített adóalapot és adót, amelyeket egyébként az önellenőrzés esetén is kellene, illetve amelyeket ismételt ellenőrzés esetén a határozat tartalmazna.
+
+(4) Az elszámolási törvény 44. §-a szerint 2015. adóévben elszámolt rendkívüli ráfordítás a 8. § (1) bekezdés d) pontjának alkalmazásában a pénzügyi intézménynek minősülő adózónál nem a vállalkozási tevékenység érdekében felmerült ráfordításnak minősül.
+
+(5) Növeli az adózás előtti eredményt a pénzügyi intézménynél a Törvények végrehajtására tekintettel képzett bármely céltartalék, céltartalékot növelő összeg következtében elszámolt ráfordítás, feltéve, hogy azzal összefüggésben az adózó a 8. § (1) bekezdés a) pontja alapján nem növelte az adózás előtti eredményét.
+
+(6) Csökkenti az adózás előtti eredményt a pénzügyi intézménynél a Törvények végrehajtására tekintettel képzett bármely céltartalék felhasználása miatt az adóévben elszámolt bevétel, feltéve, hogy azzal összefüggésben az adózó a 7. § (1) bekezdés b) pontja alapján nem csökkentette az adózás előtti eredményét.
+
+(7) A pénzügyi intézménynek minősülő adózó által a kapcsolt vállalkozásának minősülő pénzügyi intézmény részére kizárólag a Törvények végrehajtása következtében, azzal közvetlen összefüggésben felmerült költségek, ráfordítások fedezetére visszafizetési kötelezettség nélkül, 2015. december 31-ig adott támogatás, juttatás alapjául szolgáló szerződésre, megállapodásra nem terjed ki e törvénynek a kapcsolt vállalkozások között alkalmazott árak módosítására irányadó jogszabályi rendelkezései hatálya.
+
+(8) A (7) bekezdés hatálya alá tartozó támogatás, juttatás adóévi ráfordításként elszámolt összege a 8. § (1) bekezdés d) pontjának alkalmazásában a pénzügyi intézménynek minősülő adózónál a vállalkozási tevékenység érdekében felmerült ráfordításnak minősül.
+
+(9) Az (5)–(6) bekezdést a 2014. adóévi adókötelezettség megállapítása során is alkalmazni kell.
+
+(10) Az elszámolási törvény 44. §-ának és az (1)–(8) bekezdés rendelkezéseit az elszámolási törvény hatálybalépésekor folyamatban lévő önellenőrzések esetében is alkalmazni kell.
+
 ### ZÁRÓ RENDELKEZÉSEK
 
 ### VIII. Fejezet
