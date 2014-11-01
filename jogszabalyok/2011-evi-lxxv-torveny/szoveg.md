@@ -156,7 +156,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 
 (6) A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank az e § tájékoztatásra vonatkozó rendelkezéseinek való megfelelést fogyasztóvédelmi eljárás keretében vizsgálja, azok megsértése esetén fogyasztóvédelmi eljárást folytat le.
 
-5. § (1) Ha a hiteladós előtörlesztést teljesít, az előtörlesztett összeget – amennyiben a devizakölcsönből eredő tartozása a hiteladósnak még fennáll – a devizakölcsön előtörlesztéseként kell elszámolni. A pénzügyi intézmény a devizakölcsönre vonatkozó teljes előtörlesztést abban az esetben fogadja el, ha az előtörlesztett összeg a gyűjtőszámlahitelre vonatkozó hitelkeretszerződésből eredő tartozás teljes megfizetését is fedezi. A devizakölcsön részleges vagy teljes előtörlesztésére – törvény eltérő rendelkezése hiányában – annak tényleges elszámolásakor a pénzügyi intézmény által alkalmazott törlesztési árfolyamon kerülhet sor.
+5. § (1) Ha a hiteladós előtörlesztést teljesít, az előtörlesztett összeget – amennyiben a devizakölcsönből eredő tartozása a hiteladósnak még fennáll, a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény 12. § (1) bekezdésében szabályozott előtörlesztés kivételével – a devizakölcsön előtörlesztéseként kell elszámolni. A pénzügyi intézmény a devizakölcsönre vonatkozó teljes előtörlesztést abban az esetben fogadja el, ha az előtörlesztett összeg a gyűjtőszámlahitelre vonatkozó hitelkeretszerződésből eredő tartozás teljes megfizetését is fedezi. A devizakölcsön részleges vagy teljes előtörlesztésére – törvény eltérő rendelkezése hiányában – annak tényleges elszámolásakor a pénzügyi intézmény által alkalmazott törlesztési árfolyamon kerülhet sor.
 
 (2) A devizakölcsön fedezetéül kikötött, ingatlanon alapított jelzálogjog törlésére vonatkozó engedélyt a pénzügyi intézmény akkor köteles kiadni a zálogkötelezettnek, ha a hiteladós a devizakölcsönből és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő tartozását maradéktalanul megfizette.
 
@@ -274,7 +274,9 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 
 (2) E törvénynek a Módtv3.-mal megállapított 4/A. § (1)–(4) bekezdése szerinti tájékoztatást a pénzügyi intézmény első alkalommal 2014. március 20-áig küldi meg a hiteladós részére.
 
-#### 16. §
+16. § (1) A 2/A. § (1) bekezdése alapján az elszámolás napját megelőzően a magyar állam által megtérített mentesített követelésrész összegét nem érinti a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvény szerinti elszámolás.
+
+(2) A 13/A. §-ban meghatározott támogatás összegét nem érinti a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvény szerinti elszámolás.
 
 #### 17. §
 
