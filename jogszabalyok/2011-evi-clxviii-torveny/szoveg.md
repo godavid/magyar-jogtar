@@ -137,9 +137,9 @@ megjelölésével nyújtanak be egységes kérelmet, a mezőgazdasági káresem�
 11. § (1) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő az e törvényben foglalt feltételek teljesítése esetén – a (2)–(5) bekezdésben és a 12. § (5)–(6) bekezdésében foglaltakra is figyelemmel – kárenyhítő juttatásra jogosult, amennyiben:
 
 - a) a termőföld az egységes kérelem benyújtásakor, a mezőgazdasági káresemény bekövetkezésekor és a kárenyhítő juttatás iránti kérelem benyújtásakor is a használatában volt,
-- b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az agrárkár-megállapító szervhez bejelentette,
+- b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az erre a célra létrehozott elektronikus felületen bejelentette, és a mezőgazdasági káresemény tényét az agrárkár-megállapító szerv igazolta,
 - c) a hozamérték-csökkenést – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az agrárkár-megállapító szerv által e törvényben foglaltak szerint kiadott hatósági bizonyítvánnyal igazolja,
-- d) a kárenyhítő juttatás megállapítása iránti kérelmét a tárgyév november 30-áig az agrárkár-megállapító szervhez benyújtotta, és
+- d) a kárenyhítő juttatás megállapítása iránti kérelmét a tárgyév november 30–áig az erre a célra létrehozott elektronikus felületen benyújtotta, és
 - e) a kárenyhítési hozzájárulást a 10. § (2) és (3) bekezdésében foglaltak alapján határidőben és maradéktalanul megfizette.
 
 (2) A mezőgazdasági termelő a neki tárgyévben járó kárenyhítő juttatásra abban az esetben jogosult, ha annak kifizetendő összege legalább tízezer forint.
@@ -265,15 +265,16 @@ kezelése, nyilvánossága
 
 (4) A (3) bekezdés szerinti adatokat a miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézmény statisztikai, gazdaságelemzési és rendszerfejlesztési célból használhatja fel.
 
-18. § (1) Az agrárkár-enyhítési szerv a kárenyhítési hozzájárulás-fizetési kötelezettség teljesítésével, a kárenyhítő juttatás megállapításával, valamint a mezőgazdasági biztosítás díjához nyújtott támogatás nyújtásával, ellenőrzésével összefüggő feladatai ellátásához mezőgazdasági kockázatkezelési adatbázist működtet.
+18. § (1) Az agrárkár-enyhítési szerv a kárbejelentéssel, a kárenyhítési hozzájárulás-fizetési kötelezettség teljesítésével, a kárenyhítő juttatás megállapításával, valamint a mezőgazdasági biztosítás díjához nyújtott támogatás nyújtásával, ellenőrzésével összefüggő feladatai ellátásához mezőgazdasági kockázatkezelési adatbázist működtet.
 
 (2) A mezőgazdasági kockázatkezelési adatbázis mezőgazdasági termelőnként tartalmazza:
 
-- a) a mezőgazdasági termelő azonosítására szolgáló (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító szám),
-- b) a kárenyhítési hozzájárulás megfizetésével kapcsolatos,
-- c) a kárenyhítő juttatásra vonatkozó,
-- d) a mezőgazdasági biztosítás díjához nyújtott támogatás megállapításáról rendelkező határozatban szereplő, valamint
-- e) a (3) bekezdésben foglaltak szerinti
+- a) a mezőgazdasági termelő azonosítására szolgáló (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
+- b) a kárbejelentéssel,
+- c) a kárenyhítési hozzájárulás megfizetésével kapcsolatos,
+- d) a kárenyhítő juttatásra vonatkozó,
+- e) a mezőgazdasági biztosítás díjához nyújtott támogatás nyújtásával kapcsolatos, valamint
+- f) a kármegállapítást támogató szervek által e törvény alapján szolgáltatott, és e törvény végrehajtásáról szóló rendeletben meghatározott
 
 adatokat.
 
@@ -354,6 +355,7 @@ amelyek összegéről – a Magyar Agrárkamara és a mezőgazdasági termelők 
 - i) természeti esemény miatt egyes mezőgazdasági terményekben keletkezett károk enyhítése érdekében igénybe vehető támogatás igénybevételének részletes szabályait,
 - j) a kárenyhítési hozzájárulás megfizetésének részletes szabályait,
 - k) a kárenyhítő juttatások kifizetési terve elkészítésének határidejét,
+- l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

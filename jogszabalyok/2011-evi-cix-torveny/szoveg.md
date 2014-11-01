@@ -77,6 +77,8 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (1a) Rendes taggá választható – az (1) bekezdésben foglaltakon túl – az a személy, aki a művészeti tevékenységgel kapcsolatos korszerű elméleti álláspontok megismertetésével és közvetítésével, tendenciák megfigyelésével, garanciarendszerek kidolgozásával kimagasló eredményeket és széles körű társadalmi elismertséget ért el.
 
+(1b) Rendes taggá a levelező tag választható, legkorábban a levelező taggá választása napját követő két év elteltével.
+
 (2) A 30. § szerint regisztrált személyek az MMA rendes tagjai.
 
 (3) Az MMA rendes tagjainak száma nem lehet több 250 főnél.
