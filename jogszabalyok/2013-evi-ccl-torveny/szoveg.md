@@ -164,47 +164,11 @@ lép.
 
 140. §
 
-141. § (1) Az Mkk. 11. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő az e törvényben foglalt feltételek teljesítése esetén – a (2)–(5) bekezdésben és a 12. § (5)–(6) bekezdésében foglaltakra is figyelemmel – kárenyhítő juttatásra jogosult, amennyiben:]
-
-„b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az erre a célra létrehozott elektronikus felületen bejelentette, és a mezőgazdasági káresemény tényét az agrárkár-megállapító szerv igazolta,”
-
-(2) Az Mkk. 11. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-[Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő az e törvényben foglalt feltételek teljesítése esetén – a (2)–(5) bekezdésben és a 12. § (5)–(6) bekezdésében foglaltakra is figyelemmel – kárenyhítő juttatásra jogosult, amennyiben:]
-
-„d) a kárenyhítő juttatás megállapítása iránti kérelmét a tárgyév november 30–áig az erre a célra létrehozott elektronikus felületen benyújtotta, és”
+141. §
 
 142–144. §
 
-145. § Az Mkk. 18. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az agrárkár-enyhítési szerv a kárbejelentéssel, a kárenyhítési hozzájárulás-fizetési kötelezettség teljesítésével, a kárenyhítő juttatás megállapításával, valamint a mezőgazdasági biztosítás díjához nyújtott támogatás nyújtásával, ellenőrzésével összefüggő feladatai ellátásához mezőgazdasági kockázatkezelési adatbázist működtet.
-
-(2) A mezőgazdasági kockázatkezelési adatbázis mezőgazdasági termelőnként tartalmazza:
-
-a) a mezőgazdasági termelő azonosítására szolgáló (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
-
-b) a kárbejelentéssel,
-
-c) a kárenyhítési hozzájárulás megfizetésével kapcsolatos,
-
-d) a kárenyhítő juttatásra vonatkozó,
-
-e) a mezőgazdasági biztosítás díjához nyújtott támogatás nyújtásával kapcsolatos, valamint
-
-f) a kármegállapítást támogató szervek által e törvény alapján szolgáltatott, és e törvény végrehajtásáról szóló rendeletben meghatározott
-
-adatokat.”
-
-146. § Az Mkk. 24. § (2) bekezdése a következő l) ponttal egészül ki:
-
-[Felhatalmazást kap a miniszter, hogy]
-
-„l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat”
-
-[rendeletben állapítsa meg.]
+145–146. §
 
 147. §
 
