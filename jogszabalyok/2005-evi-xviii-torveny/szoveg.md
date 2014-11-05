@@ -519,6 +519,8 @@ a szolgáltatást korlátozni. A korlátozás általános feltételeit a kormán
 
 (4) A távhőszolgáltatással kapcsolatos díjfizetési kötelezettség és más pénztartozás a társasház tulajdonostársait és a lakásszövetkezet tagjait nem terheli egyetemlegesen. Épületrészenként külön-külön történő díjfizetés esetén a felhasználó az egyes díjfizetők, továbbá a díjfizető más díjfizetők díjtartozásának megfizetéséért nem tartozik felelősséggel.
 
+(5) A távhőszolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak, az (1) bekezdés szerinti esetben a díjfizetőnek a kézhezvételtől számítva legalább 15 nap rendelkezésére álljon.
+
 45. § (1) A távhőszolgáltató jogosult az érintettek tájékoztatása mellett
 
 - a) a közszolgáltatási szerződés hatálybalépésétől, a közszolgáltatási szerződés megszűnése után a követelések elévülési idejéig a felhasználók és a díjfizetők adatai közül azokat kezelni, amelyek a felhasználók és a díjfizetők azonosításához, a közszolgáltatási szerződés teljesítéséhez szükségesek. Ennek keretében jogosult a felhasználók és a díjfizetők azonosító adatai közül természetes személyek vonatkozásában a névre, lakcímre, születési időre és helyre vonatkozó adatokat, egyéb szervezetek vonatkozásában a névre, székhelyre, képviselő nevére vonatkozó adatokat, és mindkét esetben a felhasználási helyre, a fogyasztásra, a számlázásra és a díjfizetésre vonatkozó adatokat a közszolgáltatási szerződésen alapuló kötelezettségeinek teljesítése, jogainak gyakorlása céljából kezelni. Ugyanezen adatkezelői jogok illetik meg a felhasználók képviselőit, a felhasználók és a díjfizetők előbbiekben megjelölt adatai tekintetében;
@@ -781,6 +783,8 @@ meghatározott szerződésszegést követi el.
 (4) E § alkalmazásában szerződés alatt az értékesítő és a távhőszolgáltató közötti szerződést, valamint a távhőszolgáltató által a lakossági felhasználóval vagy a külön kezelt intézménnyel kötött közszolgáltatási szerződést kell érteni.
 
 57/F. § Távhőszolgáltatási támogatásban részesülhet az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottaknak megfelelő távhőszolgáltató és külön kezelt intézmény.
+
+57/G. § E törvénynek az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvénnyel megállapított 44. § (5) bekezdését első alkalommal a 2015. január 1-jétől elszámolt időszakot is tartalmazó számlák tekintetében kell alkalmazni.
 
 ### VIII. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 

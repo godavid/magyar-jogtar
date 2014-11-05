@@ -1482,6 +1482,8 @@ működtetésére vonatkozó engedély
 
 (2) Kiszervezés esetén az engedélyes úgy felel jogszabályban vagy hatósági határozatban meghatározott kötelezettségei teljesítéséért, mintha az adott tevékenységet maga végezné.
 
+(2a) Amennyiben kiszervezés esetén a lakossági fogyasztók részére a postai küldeményt nem az engedélyes küldi ki, úgy a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 40. § (2) bekezdésével összhangban feladóként az engedélyest (mint megbízót) és a kiszervezett tevékenységet végző vállalkozást (mint postai konszolidátort) kell feltüntetni.
+
 (3) Nem igényli a Hivatal (1) bekezdés szerinti előzetes hozzájáruló határozatát vagy előzetes tájékoztatását a kiszervezés
 
 - a) termelői engedélyes,
