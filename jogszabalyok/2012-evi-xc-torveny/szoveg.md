@@ -161,11 +161,11 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 
 10/A. § A természetes személy tulajdonában lévő, lakhatás célját szolgáló ingatlanok és természetes személy tulajdonában lévő, időlegesen használt ingatlanok, valamint a társasház esetében közös tulajdonban, továbbá lakásszövetkezet tulajdonában lévő ingatlanrészek esetében a közszolgáltatás díját úgy kell megállapítani, hogy az alacsonyabb legyen a 2012. december 31-én alkalmazott közszolgáltatási díj 90%-ánál és a 2013. június 30-án alkalmazott közszolgáltatási díj 90%-ánál.
 
-10/B. § (1) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével vagy átadásával egyidejűleg részletes írásbeli tájékoztatást nyújt a természetes személy ingatlantulajdonosok, illetve társasházak és lakásszövetkezetek részére arról, hogy a rezsicsökkentés következtében a 2013. június 30-án jogszerűen alkalmazott díjához viszonyítva a közszolgáltatás díja mennyivel csökkent.
+10/B. § (1) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével vagy átadásával egyidejűleg részletes írásbeli tájékoztatást nyújt a természetes személy ingatlantulajdonosok, illetve társasházak és lakásszövetkezetek részére arról, hogy a rezsicsökkentés következtében a 2013. június 30-án általa jogszerűen alkalmazott díjhoz viszonyítva a közszolgáltatás díja mennyivel csökkent. Amennyiben a számlát kiállító közszolgáltató előtt másik közszolgáltató is nyújtott szolgáltatást a 2013. július 1-jét követő időszakban, úgy a korábbi közszolgáltató köteles az általa nyújtott szolgáltatás tekintetében a megtakarítás összegének feltüntetéséhez szükséges adatokról a számlát kiállító szolgáltatót tájékoztatni, az adatvédelmi előírások betartása mellett.
 
 (2) A közszolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az (1) bekezdésben foglalt előírások teljesülését.
 
-(3) A fogyasztóvédelmi hatóság ellenőrzi a közszolgáltató számlázására vonatkozó előírások megtartását.
+(3) A kéményseprő-ipari közszolgáltatással összefüggésben elvégzett sormunkák után a természetes személy ingatlantulajdonosok, illetve a társasházak és a lakásszövetkezetek részére kibocsátott számlák megfelelősége tekintetében a fogyasztóvédelmi hatóság jár el.
 
 (4) Az (1)–(3) bekezdésben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 

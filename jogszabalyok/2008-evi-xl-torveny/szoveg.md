@@ -2046,6 +2046,8 @@ foglalt kötelezettségét nem teljesíti.
 
 (3) Kiszervezés esetén a kiszervezést végző engedélyes úgy felel jogszabályokban, a hatósági hozzájáruló határozatban és a működési engedélyében meghatározott kötelezettségei teljesítéséért, mintha a kiszervezett tevékenységet maga végezné.
 
+(3a) Amennyiben kiszervezés esetén a lakossági fogyasztók részére a postai küldeményt nem az engedélyes küldi ki, úgy a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 40. § (2) bekezdésével összhangban feladóként az engedélyest (mint megbízót) és a kiszervezett tevékenységet végző vállalkozást (mint postai konszolidátort) kell feltüntetni.
+
 (4) Nem igényli a Hivatal (1) bekezdés szerinti előzetes jóváhagyását a kiszervezés és az alapvető eszközökkel és vagyon értékű jogokkal való rendelkezés, a földgázkereskedő – kivéve az egyetemes szolgáltatót – az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyese, valamint a telephelyi szolgáltató esetében.
 
 124/A. § (1) A Magyar Államot elővásárlási jog illeti meg

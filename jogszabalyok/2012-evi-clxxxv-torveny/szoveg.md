@@ -522,14 +522,15 @@ kötheti.
 
 (4) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult közszolgáltató külön kormányrendeletben meghatározott összegben környezetvédelmi biztosítást köt vagy céltartalékot képez, és ennek tényét a környezetvédelmi hatóságnak, valamint az OHÜ-nek igazolja.
 
-42. § (1) A hulladékgazdálkodási közszolgáltatás keretében a közszolgáltató
+42. § (1) A hulladékgazdálkodási közszolgáltatás keretében a közszolgáltató:
 
 - a) az ingatlanhasználók által a közszolgáltató szállítóeszközéhez rendszeresített gyűjtőedényben gyűjtött települési hulladékot az ingatlanhasználóktól összegyűjti és elszállítja – ideértve a háztartásban képződő zöldhulladék, vegyes hulladék, valamint az elkülönítetten gyűjtött hulladék összegyűjtését és elszállítását is –,
 - b) a lomtalanítás körébe tartozó lomhulladékot az ingatlanhasználóktól összegyűjti, illetve átveszi és elszállítja,
 - c) az általa üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő udvaron gyűjtött vagy átvételi helyen átvett hulladékot összegyűjti és elszállítja,
 - d) az elhagyott, illetve ellenőrizetlen körülmények között elhelyezett hulladékot összegyűjti, elszállítja és gondoskodik a hulladék kezeléséről, ha erre a települési önkormányzattal megkötött hulladékgazdálkodási közszolgáltatási szerződése kiterjed,
-- e) gondoskodik az a)–d) pontban meghatározott hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék kezeléséről, és
-- f) a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítményt üzemelteti.
+- e) gondoskodik az a)–d) pontban meghatározott hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék kezeléséről,
+- f) a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítményt üzemelteti, és
+- g) – jogszabály eltérő rendelkezése hiányában – legalább negyedévente, utólag a hulladékgazdálkodási díj fizetésére kötelezett ingatlanhasználó vagy tőle a fizetési kötelezettséget jogszerűen átvállaló személy vagy önkormányzat részére számlát állít ki.
 
 (2) Ha a közszolgáltató hulladékkezelő létesítménnyel, illetve a közszolgáltatás körébe tartozó hulladék kezelésére alkalmas berendezéssel nem rendelkezik, a közszolgáltatás körébe tartozó hulladék kezeléséről a hulladék hulladékkezelőnek történő átadása útján gondoskodik. Ebben az esetben a hulladékkezelőnek nem szükséges hulladékgazdálkodási közszolgáltatási engedéllyel rendelkeznie.
 
@@ -1263,7 +1264,7 @@ rendeletben állapítsa meg.
 
 (5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2), a (2d), a (3) és a (10) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a természetes személy ingatlanhasználókat, illetve társasházakat és lakásszövetkezeteket.
 
-(5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
+(5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban. A közszolgáltató személyében bekövetkező változás esetében a korábbi közszolgáltató rezsicsökkentéssel kapcsolatos adatait a 37. § rendelkezéseinek megfelelő alkalmazásával kell biztosítani az új közszolgáltató részére.
 
 (5b) Az (5) bekezdésben foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
