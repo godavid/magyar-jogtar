@@ -1142,4 +1142,4 @@ For the Swiss Federal Council:
 
 (5) E törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
 
-(6) Hatályát veszti a Magyar Népköztársaság és a Svájci Államszövetség között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén Budapesten, az 1981. évi április hó 9. napján aláírt egyezmény kihirdetéséről szóló 1982. évi 23. törvényerejű rendelet.
+(6)
