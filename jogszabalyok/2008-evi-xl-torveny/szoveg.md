@@ -113,6 +113,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 53a. Szállítási rendszerüzemeltető: a földgázszállítást, a szállítóvezetékek üzemeltetését, karbantartását és fejlesztését végző engedélyes.
 - 53b. Szállítási rendszerirányító: az együttműködő földgázrendszer működtetését végző szállítási rendszerüzemeltetők közötti irányítási és koordinációs feladatok ellátását végző engedélyes.
 - 54. Szállítóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgázt továbbítják, és amelynek kezdőpontja Magyarország államhatára, a termelés betáplálási pontjai, a földgáz tároló be- és kitáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára, a gázátadó állomások kilépő pontjai – illetve az engedélyben foglaltak szerint a felhasználó telekhatára –, vagy a földgáz tároló be- és kitáplálási pontja.
+- 54a. Szállítóvezeték-létesítő: szállítási rendszerüzemeltetési engedéllyel nem rendelkező földgázipari vállalkozás, amely e törvény szerinti szállítóvezeték létesítési engedély alapján szállítóvezetéket létesíthet.
 - 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben az energiakereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 - 55a. Szigetüzem: olyan elszigetelt földgáz vezetékrendszer, amely csak termelői rendszerhez csatlakozik és a földgáz fizikai betáplálása az együttműködő földgázrendszerről nem biztosítható.
 - 56. Telephelyi felhasználó: a telephelyi vezetéken földgázt vételező, a telephelyi szolgáltató által földgázzal ellátott felhasználó.
@@ -310,6 +311,10 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 28. § (1) Földgáz-kereskedelmet, működési engedélye alapján földgázkereskedő végezhet.
 
 (2) Aki az együttműködő földgázrendszer szabad kapacitásait Magyarország területén történő átszállítására használja, földgáz-kereskedelmi engedély vagy korlátozott földgáz-kereskedelmi engedély megszerzésére nem köteles.
+
+(2a) A közvámraktárként üzemeltetett földgáztárolóban elhelyezett földgáz tulajdonjoga szabadon átruházható, ahhoz nem szükséges földgáz-kereskedelmi engedély vagy korlátozott földgáz-kereskedelmi engedély.
+
+(2b) A közvámraktárként üzemeltetett földgáztárolóban történt földgáztulajdon-átruházásokról és a közvámraktári földgázkészlet-változásokról a földgáztárolói engedélyes köteles a Hivatalt haladéktalanul tájékoztatni.
 
 (3) A felhasználók részére földgázt olyan gazdasági társaság vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe értékesíthet, amely erre a Hivataltól engedélyt kapott és rendelkezik a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott pénzügyi biztosítékkal.
 
@@ -1651,9 +1656,10 @@ foglalt árat köteles megfizetni.
 - f) az egyetemes szolgáltatás,
 - g) a szervezett földgázpiac-működtetés,
 - h) a vezetékes PB-gáz szolgáltatás,
-- i) az egyablakos kapacitásértékesítés.
+- i) az egyablakos kapacitásértékesítés,
+- j) a szállítóvezeték-létesítő által történő szállítóvezeték-létesítés.
 
-(2) Az (1) bekezdés szerinti tevékenységek határozatlan időre szóló engedély alapján végezhetők.
+(2) Az (1) bekezdés a)–i) pontja szerinti tevékenység határozatlan, az (1) bekezdés j) pontja szerinti tevékenység határozott időre szóló engedély alapján végezhető.
 
 (3) Az e törvény szerinti engedélyköteles tevékenység csak működési engedély alapján végezhető.
 
@@ -1674,7 +1680,7 @@ foglalt árat köteles megfizetni.
 
 (9) A Hivatal az engedély iránti kérelem elutasításának okait tájékoztatásul megküldi az Európai Bizottságnak.
 
-(10) Az (1) bekezdés a)–h) pontjában meghatározott engedélyköteles tevékenységet csak az a földgázipari vállalkozás végezhet, amely megfelel az e törvényben, és a végrehajtására kiadott jogszabályban meghatározott feltételeknek.
+(10) Az (1) bekezdés a)–h) és j) pontjában meghatározott engedélyköteles tevékenységet csak az a földgázipari vállalkozás végezhet, amely megfelel az e törvényben, és a végrehajtására kiadott jogszabályban meghatározott feltételeknek.
 
 (11) Az (1) bekezdés i) pontjában foglalt tevékenységet külföldi székhelyű vállalkozás is végezhet, ha a külföldi vállalkozás székhely szerinti állama és Magyarország közötti nemzetközi szerződés ezt biztosítja.
 
