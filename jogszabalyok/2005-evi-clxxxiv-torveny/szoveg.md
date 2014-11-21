@@ -111,7 +111,10 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - h) a biztonsági hatóságtól,
 - i) a többi vasúti szabályozó szervezettől.
 
-(8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (e törvény alkalmazásában a továbbiakban: kormánytisztviselő) nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselője, vezető tisztségviselője, tulajdonosa, alkalmazottja vagy egyéb munkavállalója.
+(8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (a továbbiakban: kormánytisztviselő) a (7) bekezdésben meghatározott szervekkel, vagy gazdálkodó szervezetekkel, a közszolgálati tisztviselőkről szóló törvényben meghatározottak figyelembevételével
+
+- a) további jogviszonyt a jártasságának, tapasztalatának, gyakorlatának fenntartásához szükséges mértékben vagy vizsgáztatói tevékenység kivételével oktatói tevékenység végzésére,
+- b) gyakorolható tevékenység végzésére irányuló jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
 
 (9) A (8) bekezdésben foglaltakon túl a közlekedésbiztonsági szerv vezetője, valamint a vezetőjének helyettesítésére jogosult személy nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselőjének, vezető tisztségviselőjének, tulajdonosának, alkalmazottjának vagy egyéb munkavállalójának közeli hozzátartozója [Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pont].
 
@@ -158,8 +161,10 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
   - fc) állami légijármű esetén a légi jármű üzemben tartójának, továbbá a katonai állami légijármű esetén a honvédelemért felelős miniszternek,
   - fd) a közlekedési hatóságnak, és az eljárásban érintett más hatóságnak;
 - g) a légiközlekedési balesetek, súlyos repülőesemények, repülőesemények és légiközlekedési rendellenességek nyilvántartására, értékelésére, feldolgozására adatbázist hoz létre és működtet;
-- h) folyamatos vélemény- és tapasztalatcserét folytat más országok szervezeteivel, a nemzetközi szervezetekkel – a műszaki és tudományos fejlődéssel összhangban lévő – közös vizsgálati módszerek kidolgozása, a biztonsági ajánlások végrehajtásának figyelemmel kísérésére szolgáló közös elvek megfogalmazása céljából, az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal értesíti az Európai Bizottságot a víziközlekedési balesetekről és a rendkívüli víziközlekedési eseményekről;
-- i) a víziközlekedési balesetekre és víziközlekedési eseményekre vonatkozó adatokat a Bizottság által létrehozott, az Európai Tengeri Balesetek Információs Platformja (EMCIP) elnevezésű európai elektronikus adatbázisban tárolja.
+- h) folyamatos vélemény- és tapasztalatcserét folytat más országok szervezeteivel, a nemzetközi szervezetekkel a műszaki és tudományos fejlődéssel összhangban lévő közös vizsgálati módszerek kidolgozása, a biztonsági ajánlások végrehajtásának figyelemmel kísérésére szolgáló közös elvek megfogalmazása céljából;
+- i) az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal értesíti az Európai Bizottságot a víziközlekedési balesetekről és a rendkívüli víziközlekedési eseményekről;
+- j) a víziközlekedési balesetekre és víziközlekedési eseményekre vonatkozó adatokat a Bizottság által létrehozott, az Európai Tengeri Balesetek Információs Platformja (EMCIP) elnevezésű európai elektronikus adatbázisban tárolja;
+- k) a közlekedési baleset és az egyéb közlekedési esemény súlyosságának és jellegének megfelelő formában zárójelentést készít.
 
 (2) A közlekedésbiztonsági szerv az (1) bekezdés g) pontjában megjelölt adatbázisban tartja nyilván a légiközlekedési balesetre, a súlyos repülőeseményre és a légiközlekedési rendellenességre vonatkozó bejelentések alapján indított szakmai vizsgálat során az e törvénnyel összhangban birtokába került adatokat. Az adatbázisban tárolja továbbá a légiközlekedési hatóság által összegyűjtött, értékelt, a légiközlekedés biztonságát veszélyeztető, a külön jogszabályban meghatározott légiközlekedés védelmi jellegű eseményekre vonatkozó adatokat is. Az adatbázisban rögzített adatok kizárólag az e törvényben, valamint az 1321/2007/EK bizottsági rendeletben és az 1330/2007/EK bizottsági rendeletben meghatározott célokra használhatók fel.
 
@@ -199,7 +204,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 10. § (1) Aki közlekedési balesetet észlel, köteles azt haladéktalanul a rendőrségnek bejelenteni. A rendőrség haladéktalanul értesíti azokat a szerveket, amelyek feladatkörébe tartozik a közlekedési baleset következtében veszélybe került személyek részére segítség nyújtása, az élet- és vagyonbiztonság védelme, a közlekedési baleset szakmai vizsgálata.
 
-(2) A vasúti vagy víziközlekedési balesetben vagy eseményben részt vevő jármű személyzete, a járművek üzemben tartói, az érintett közlekedési infrastruktúra üzemben tartói, továbbá a vasúti és víziközlekedési baleset vagy esemény kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett vasúti és víziközlekedési balesetet vagy eseményt az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar úszólétesítményt külföldön ért balesetre is.
+(2) A vasúti vagy víziközlekedési balesetben vagy eseményben részt vevő jármű személyzete, a járművek üzemben tartói, az érintett közlekedési infrastruktúra üzemben tartói, a közlekedési hatóság, továbbá a vasúti és víziközlekedési baleset vagy esemény kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett vasúti és víziközlekedési balesetet vagy eseményt az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar úszólétesítményt külföldön ért balesetre is.
 
 (3) A szakmai vizsgálat kizárólag hivatalból indul meg. A bejelentés nem minősül kérelemnek. A bejelentő – abban az esetben is, ha hatóság a bejelentő – az eljárás egyéb résztvevőjének minősül.
 
