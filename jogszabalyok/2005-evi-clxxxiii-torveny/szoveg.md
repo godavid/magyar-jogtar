@@ -189,7 +189,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 
 (3) A 2004/49/EK irányelv szerinti vasútbiztonsági hatóság Magyarországon a közlekedési hatóság.
 
-(4) A vasúti közlekedés igazgatásának szervezete a vasúti társaságoktól, a közlekedési igazgatási szervekkel és vasúti társaságokkal szerződéses kapcsolatban lévő személyektől és szervezetektől függetlenül működik.
+(4) A vasúti közlekedés igazgatásának szervezete jogi, szervezeti és döntéshozatali szempontból a pályavasúti társaságoktól, vállalkozó vasúti társaságoktól továbbá a beszerző egységektől és szervezetektől függetlenül működik.
 
 ### A TELEPÜLÉSI ÖNKORMÁNYZATOK FELADATAI
 
@@ -1440,6 +1440,8 @@ biztosítható.
 (3) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
 (4) Az ügyfél a közlekedési hatóság felhívására köteles az ügy eldöntéséhez szükséges adatokat, iratokat szolgáltatni a közlekedési hatóság részére.
+
+(5) A közlekedési hatóság a biztonsági hatósági feladatai végrehajtása során bármikor kérheti a pályavasúti társaságok, vállalkozó vasúti társaságok vagy más minősített testületek műszaki-technikai segítségnyújtását.
 
 80/A. § (1) A közlekedési hatóság vasúti pályával és vasúti üzemi létesítménnyel kapcsolatos eljárásában ügyfélnek minősül a vasúti pálya vagy vasúti létesítmény építése, korszerűsítése, átalakítása és megszüntetése által terület-igénybevétellel érintett, vagy a vasúti pálya, vagy a vasúti létesítménnyel szomszédos, továbbá a megvalósult vasúti pálya, vagy vasúti létesítmény környezetvédelmi hatástanulmányában, ennek hiányában a műszaki tervdokumentációjában igazolt hatásterületen lévő ingatlan tulajdonosa, vagy az ezen ingatlan vonatkozásában a használat jogát biztosító dologi joggal rendelkező személy.
 
