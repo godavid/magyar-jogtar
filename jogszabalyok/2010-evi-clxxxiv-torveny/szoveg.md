@@ -38,6 +38,8 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 (3) A Szolnoki Törvényszék és a Szolnoki Törvényszék illetékességi területéhez tartozó járásbíróságok határozata ellen a Módtv. hatálybalépését követően előterjesztett jogorvoslatot a Szegedi Ítélőtábla bírálja el.
 
+6. § E törvénynek az egyes igazságügyi és magánjogi tárgyú törvények módosításáról szóló 2014. évi LXXIII. törvénnyel megállapított rendelkezéseit e rendelkezés hatálybalépését követően indult ügyekben kell alkalmazni.
+
 ### 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
 A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi bíróságok illetékességi területe
@@ -1474,11 +1476,11 @@ A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi b
 | Bozsok | Bük | Cák |
 | --- | --- | --- |
 | Csepreg | Gyöngyösfalu | Horvátzsidány |
-| Kiszsidány | Kőszeg | Kőszegdoroszló |
-| Kőszegpaty | Kőszegszerdahely | Lukácsháza |
-| Nemescsó | Ólmod | Peresznye |
-| Pusztacsó | Tormásliget | Tömörd |
-| Velem |  |  |
+| Iklanberény | Kiszsidány | Kőszeg |
+| Kőszegdoroszló | Kőszegpaty | Kőszegszerdahely |
+| Lócs | Lukácsháza | Nemescsó |
+| Ólmod | Peresznye | Pusztacsó |
+| Tormásliget | Tömörd | Velem |
 
 18/4. Sárvári Járásbíróság
 
@@ -1489,25 +1491,24 @@ A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi b
 | Csénye | Csönge | Duka |
 | Egyházashetye | Gérce | Gór |
 | Hegyfalu | Hosszúpereszteg | Ikervár |
-| Iklanberény | Jákfa | Jánosháza |
-| Karakó | Káld | Keléd |
-| Kemeneskápolna | Kemenesmagasi | Kemenesmihályfa |
-| Kemenespálfa | Kemenessömjén | Kemenesszentmárton |
-| Kenéz | Kenyeri | Kissomlyó |
-| Köcsk | Lócs | Meggyeskovácsi |
-| Megyehid | Mersevát | Mesterháza |
-| Mesteri | Nagygeresd | Nagysimonyi |
-| Nemeskeresztúr | Nemeskocs | Nemesládony |
-| Nick | Nyőgér | Ostffyasszonyfa |
-| Ölbő | Pápoc | Pecöl |
-| Porpác | Pósfa | Rábapaty |
-| Répcelak | Répceszentgyörgy | Sajtoskál |
-| Sárvár | Simaság | Sitke |
-| Sótony | Szeleste | Szergény |
-| Tokorcs | Tompaládony | Uraiújfalu |
-| Vasegerszeg | Vashosszúfalu | Vámoscsalád |
-| Vásárosmiske | Viszák | Vönöck |
-| Zsédeny |  |  |
+| Jákfa | Jánosháza | Karakó |
+| Káld | Keléd | Kemeneskápolna |
+| Kemenesmagasi | Kemenesmihályfa | Kemenespálfa |
+| Kemenessömjén | Kemenesszentmárton | Kenéz |
+| Kenyeri | Kissomlyó | Köcsk |
+| Meggyeskovácsi | Megyehid | Mersevát |
+| Mesterháza | Mesteri | Nagygeresd |
+| Nagysimonyi | Nemeskeresztúr | Nemeskocs |
+| Nemesládony | Nick | Nyőgér |
+| Ostffyasszonyfa | Ölbő | Pápoc |
+| Pecöl | Porpác | Pósfa |
+| Rábapaty | Répcelak | Répceszentgyörgy |
+| Sajtoskál | Sárvár | Simaság |
+| Sitke | Sótony | Szeleste |
+| Szergény | Tokorcs | Tompaládony |
+| Uraiújfalu | Vasegerszeg | Vashosszúfalu |
+| Vámoscsalád | Vásárosmiske | Viszák |
+| Vönöck | Zsédeny |  |
 
 18/5. Szombathelyi Közigazgatási és Munkaügyi Bíróság
 
@@ -1520,25 +1521,26 @@ A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi b
 
 | Alsóörs | Aszófő | Bakonyjákó |
 | --- | --- | --- |
-| Bakonykoppány | Balatonakali | Balatonalmádi |
-| Balatoncsicsó | Balatonfőkajár | Balatonfüred |
-| Balatonfűzfő | Balatonkenese | Balatonszepezd |
-| Balatonszőlős | Balatonudvari | Barnag |
-| Bánd | Berhida | Csajág |
-| Csopak | Dörgicse | Felsőörs |
-| Hajmáskér | Hárskút | Herend |
-| Hidegkút | Királyszentistván | Küngös |
-| Litér | Lovas | Márkó |
-| Mencshely | Monoszló | Nagyvázsony |
-| Nemesvámos | Németbánya | Óbudavár |
-| Örvényes | Ősi | Öskü |
-| Paloznak | Papkeszi | Pécsely |
-| Pétfürdő | Pula | Sóly |
-| Szentantalfa | Szentgál | Szentjakabfa |
-| Szentkirályszabadja | Tagyon | Tés |
-| Tihany | Tótvázsony | Várpalota |
-| Vászoly | Veszprém | Veszprémfajsz |
-| Vilonya | Vöröstó | Zánka |
+| Bakonykoppány | Balatonakali | Balatonakarattya |
+| Balatonalmádi | Balatoncsicsó | Balatonfőkajár |
+| Balatonfüred | Balatonfűzfő | Balatonkenese |
+| Balatonszepezd | Balatonszőlős | Balatonudvari |
+| Barnag | Bánd | Berhida |
+| Csajág | Csopak | Dörgicse |
+| Felsőörs | Hajmáskér | Hárskút |
+| Herend | Hidegkút | Királyszentistván |
+| Küngös | Litér | Lovas |
+| Márkó | Mencshely | Monoszló |
+| Nagyvázsony | Nemesvámos | Németbánya |
+| Óbudavár | Örvényes | Ősi |
+| Öskü | Paloznak | Papkeszi |
+| Pécsely | Pétfürdő | Pula |
+| Sóly | Szentantalfa | Szentgál |
+| Szentjakabfa | Szentkirályszabadja | Tagyon |
+| Tés | Tihany | Tótvázsony |
+| Várpalota | Vászoly | Veszprém |
+| Veszprémfajsz | Vilonya | Vöröstó |
+| Zánka” |  |  |
 
 19/2. Ajkai Járásbíróság
 

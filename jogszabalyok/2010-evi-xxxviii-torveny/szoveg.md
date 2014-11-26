@@ -171,7 +171,7 @@ szerinti közjegyző illetékes.
 
 - a) öröklési érdeke veszélyeztetve van és
   - aa) méhmagzat,
-  - ab) cselekvőképességet érintő gondnokság alatt álló kiskorú,
+  - ab) kiskorú,
   - ac) cselekvőképességet érintő gondnokság alatt álló nagykorú,
   - ad) ismeretlen helyen lévő személy,
   - ae) ügyeinek vitelében akadályozott természetes személy, vagy
@@ -210,7 +210,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 24. § (1) A leltár egy példányát – az ok megjelölésével – az illetékes gyámhatóságnak is meg kell küldeni a szükséges intézkedések megtétele végett, ha az öröklésben olyan személy látszik érdekeltnek, akinek nincs törvényes képviselője, vagy törvényes képviselője akár a törvény kizáró rendelkezése folytán, akár tényleges akadály miatt az ügyben nem járhat el és
 
 - a) méhmagzat,
-- b) cselekvőképességet érintő gondnokság alatt álló kiskorú,
+- b) kiskorú,
 - c) cselekvőképességet érintő gondnokság alatt álló nagykorú,
 - d) törvényes képviselővel vagy meghatalmazottal nem rendelkező, ismeretlen helyen tartózkodó vagy az ügyeinek vitelében más okból akadályozott természetes személy.
 
@@ -255,7 +255,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 29. § (1) A leltározást a vagyon fekvésének helyén a szemlére vonatkozó szabályok szerint kell elvégezni, ha
 
-- a) az öröklésben érdekelt méhmagzat, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő vagy ügyeinek vitelében akadályozott személy öröklési érdeke veszélyeztetve van,
+- a) az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő vagy ügyeinek vitelében akadályozott személy öröklési érdeke veszélyeztetve van,
 - b) örökösként csak a Magyar Állam érdekelt, vagy
 - c) a jegyző vagy a közjegyző – az eset arra okot adó körülményeire figyelemmel és azokat a leltárban feltüntetve – indokoltnak tartja, vagy
 - d) helyszíni leltározást az örökösként érdekelt személy, a végrendeleti végrehajtó, a hagyatéki hitelező vagy a gyámhatóság kéri.
@@ -266,7 +266,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 (2) Az értesítés tartalmazza azt a figyelmeztetést, hogy a meghallgatásról való távolmaradás a hagyatéki leltár felvételét nem akadályozza.
 
-(3) Ha az öröklésben méhmagzat vagy cselekvőképességet érintő gondnokság alatt álló személy látszik érdekeltnek, a jegyző a hagyatéki leltár felvétele során e személy törvényes képviselőjét, gyámját, ügygondnokát és a nevében eljáró eseti gyámot vagy eseti gondnokot, valamint az ismeretlen helyen tartózkodó vagy az ügyben más okból eljárni nem tudó, törvényes képviselővel vagy meghatalmazottal nem rendelkező személy részére kirendelt ügygondnokot, eseti gyámot vagy eseti gondnokot meghallgatja.
+(3) Ha az öröklésben méhmagzat, kiskorú vagy cselekvőképességet érintő gondnokság alatt álló személy látszik érdekeltnek, a jegyző a hagyatéki leltár felvétele során e személy törvényes képviselőjét, gyámját, ügygondnokát és a nevében eljáró eseti gyámot vagy eseti gondnokot, valamint az ismeretlen helyen tartózkodó vagy az ügyben más okból eljárni nem tudó, törvényes képviselővel vagy meghatalmazottal nem rendelkező személy részére kirendelt ügygondnokot, eseti gyámot vagy eseti gondnokot meghallgatja.
 
 (4) Az érdekelteknek a meghallgatáson és a jelenlévőknek a szemlén tett nyilatkozatait kérelmükre a hagyatéki leltárban, valamint a szemléről készült jegyzőkönyvben fel kell tüntetni.
 
@@ -299,7 +299,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 33. § Ha a hagyatékhoz tartozó vagyontárgyaknak vagy azok egy részének a 32. § (1) bekezdés szerinti veszélyeztetése megállapítható, biztosítási intézkedés elrendelésének a gyámhatóság értesítéséig hivatalból is helye van, ha az öröklésben olyan személy látszik érdekeltnek, aki:
 
-- a) méhmagzat, cselekvőképességet érintő gondnokság alatt álló személy és nincs törvényes képviselője vagy törvényes képviselője akár a törvény kizáró rendelkezése folytán, akár tényleges akadály miatt az ügyben nem járhat el, vagy
+- a) méhmagzat, kiskorú vagy cselekvőképességet érintő gondnokság alatt álló személy és nincs törvényes képviselője vagy törvényes képviselője akár a törvény kizáró rendelkezése folytán, akár tényleges akadály miatt az ügyben nem járhat el, vagy
 - b) törvényes képviselővel vagy meghatalmazottal nem rendelkező olyan személy, aki ismeretlen helyen tartózkodik, vagy az ügyben más okból eljárni nem tud.
 
 34. § (1) A jegyző által elrendelt biztosítási intézkedést a jegyző maga foganatosítja. A közjegyző által elrendelt biztosítási intézkedést a közjegyző maga is foganatosíthatja, vagy annak foganatosítása végett a vagyontárgy fekvése szerint illetékes jegyzőt keresi meg. A megkeresett jegyző a megkeresést haladéktalanul köteles teljesíteni.
@@ -400,11 +400,11 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 49. § (1) A közjegyző ügygondnokot rendel ki vagy – ha az a leltározás során nem történt meg – a gyámhatóságot keresi meg eseti gyám vagy eseti gondnok kirendelése végett, ha
 
-- a) az öröklésben érdekeltnek nincs törvényes képviselője és méhmagzat, cselekvőképességet érintő gondnokság alatt álló személy,
+- a) az öröklésben érdekeltnek nincs törvényes képviselője és méhmagzat, kiskorú vagy cselekvőképességet érintő gondnokság alatt álló személy,
 - b) nincs meghatalmazottja vagy törvényes képviselője az ismeretlen helyen tartózkodó, vagy ismert helyen tartózkodó, de visszatérésében gátolt öröklésben érdekeltnek, vagy
 - c) az öröklésben érdekelt törvényes képviselője jogszabály vagy a gyámhatóság rendelkezése folytán, érdekellentét vagy más tényleges akadály miatt nem járhat el.
 
-(2) Ha a közjegyző által ismert adatok arra utalnak, hogy az öröklésben érdekeltnek cselekvőképességét korlátozó vagy kizáró gondnokság alá helyezése indokolt és annak elmaradása a hagyatéki eljárásban károsodását okozhatja, erről a közjegyző az illetékes ügyészt vagy az illetékes gyámhatóságot, az öröklésben érdekeltnek az érdekeltségére vonatkozó és a rendelkezésre álló más adatok közlése mellett, a gondnokság alá helyezési eljárás esetleges megindítása végett értesíti.
+(2) Ha a közjegyző által ismert adatok arra utalnak, hogy az öröklésben érdekeltnek cselekvőképességét érintő gondnokság alá helyezése indokolt és annak elmaradása a hagyatéki eljárásban károsodását okozhatja, erről a közjegyző az illetékes ügyészt vagy az illetékes gyámhatóságot, az öröklésben érdekeltnek az érdekeltségére vonatkozó és a rendelkezésre álló más adatok közlése mellett, a gondnokság alá helyezési eljárás esetleges megindítása végett értesíti.
 
 (3)
 
@@ -731,7 +731,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 - a) – a (3) bekezdésben foglaltak kivételével – a hagyatékátadó végzést vagy az eljárást befejező egyéb végzést
   - aa) a hagyatéki eljárásban érdekeltekkel,
-  - ab) ha az érdekeltek között méhmagzat, cselekvőképességet érintő gondnokság alatt álló vagy ismeretlen helyen tartózkodó személy van, akkor a gyámhatósággal;
+  - ab) ha az érdekeltek között méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló vagy ismeretlen helyen tartózkodó személy van, akkor a gyámhatósággal;
 - b) a tárgyaláson hozott végzést azzal az eljárásban fellépett érdekelttel, aki a tárgyalásra nem volt szabályszerűen megidézve;
 - c) a tárgyaláson hozott olyan végzést, amely új határnap kitűzésére vonatkozik, vagy amely ellen külön fellebbezésnek van helye, azzal az érdekelttel, aki a tárgyaláson – szabályszerű idézés ellenére – nem jelent meg;
 - d) a tárgyaláson kívül hozott végzést az érdekeltekkel.
@@ -916,7 +916,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 106. § A hagyatéki eljárás megismétlése iránti kérelmet a gyámhatóság is előterjesztheti az arra nyitva álló határidőben, ha az öröklésben érdekelt
 
-- a) méhmagzat, cselekvőképességet érintő gondnokság alatt álló személy,
+- a) méhmagzat, kiskorú vagy cselekvőképességet érintő gondnokság alatt álló személy,
 - b) ismeretlen helyen levő személy, vagy
 - c) ügyeinek vitelében egyébként akadályozott személy.
 
@@ -974,7 +974,7 @@ végzés ellen.
 
 (2) A közjegyző végzése ellen fellebbezéssel a gyámhatóság is élhet, ha az örökösként érdekelt
 
-- a) méhmagzat, cselekvőképességet érintő gondnokság alatt álló személy,
+- a) méhmagzat, kiskorú vagy cselekvőképességet érintő gondnokság alatt álló személy,
 - b) ismeretlen helyen levő személy vagy
 - c) ügyeinek vitelében egyébként akadályozott személy.
 
@@ -1019,7 +1019,7 @@ végzés ellen.
 - b) lakóhelye és tartózkodási helye,
 - c) az általa önként közölt sürgős elérhetősége (telefon, fax, e-mail),
 - d) az eljárásban való érdekeltségét megalapozó ok (végintézkedésen, hozzátartozói kapcsolaton vagy egyéb jogviszonyon alapul),
-- e) a törvényes képviselő a), b) és c) pontjában meghatározott adatai, ha az öröklésben érdekelt méhmagzat, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő, vagy ügyeinek vitelében akadályozott személy.
+- e) a törvényes képviselő a), b) és c) pontjában meghatározott adatai, ha az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő, vagy ügyeinek vitelében akadályozott személy.
 
 (3) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt jogalany képviselőjének (ha képviseleti jogosultságát igazolta) nevét, címét és az általa önként közölt sürgős elérhetőségét (telefon, fax, e-mail) kezelheti.
 

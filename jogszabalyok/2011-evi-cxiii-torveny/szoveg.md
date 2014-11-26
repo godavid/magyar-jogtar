@@ -420,7 +420,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (4) A megyei védelmi bizottság elnöke a kormánymegbízott, elnökhelyettesei a honvédelmi feladatok tekintetében a Honvédség állományába tartozó tényleges állományú katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője. Tagjai az elnökön és az elnökhelyettesen kívül
 
-- a) a megyei közgyűlés elnöke, a fővárosban a főpolgármester,
+- a) a megyei közgyűlés elnöke, a fővárosban a főpolgármester vagy az általa kijelölt főpolgármester-helyettes,
 - b) a megyei jogú város polgármestere,
 - c) a fővárosi és megyei kormányhivatal főigazgatója,
 - d) a katonai igazgatás területi szervének vezetője, képviselője,

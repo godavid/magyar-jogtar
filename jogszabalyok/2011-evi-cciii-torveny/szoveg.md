@@ -6569,27 +6569,27 @@ Területe:
 
 3. Balatonakali
 
-4. Balatonalmádi
+4. Balatonakarattya
 
-5. Balatoncsicsó
+5. Balatonalmádi
 
-6. Balatonfőkajár
+6. Balatoncsicsó
 
-7. Balatonfüred
+7. Balatonfőkajár
 
-8. Balatonfűzfő
+8. Balatonfüred
 
-9. Balatonhenye
+9. Balatonfűzfő
 
-10. Balatonkenese
+10. Balatonhenye
 
-11. Balatonszepezd
+11. Balatonkenese
 
-12. Balatonszőlős
+12. Balatonszepezd
 
-13. Balatonudvari
+13. Balatonszőlős
 
-14.
+14. Balatonudvari
 
 15. Barnag
 

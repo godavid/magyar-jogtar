@@ -21,7 +21,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - e) a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásának (a továbbiakban: nyilvántartás) vezetése és
 - f) a nyilvántartás adatairól – a törvényben meghatározott módon – tájékoztatás nyújtása.
 
-3. §
+#### 3. §
 
 4. § A bíróság tartja nyilván
 
@@ -60,11 +60,11 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 6. § A beadványokat egy példányban – ha jogszabály a beadványra űrlapot rendszeresít – űrlapon kell benyújtani.
 
-7–14. §
+#### 7–14. §
 
 #### 5. Kézbesítés
 
-15–16. §
+#### 15–16. §
 
 17. § (1) Ha a belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező kérelmező a szervezet nyilvántartásba vételére irányuló kérelem benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető, a bíróság felhívja, hogy a felhívás kézhezvételétől számított harminc napon belül a kézbesítési megbízott nevét és címét jelentse be, és – szükség szerint – egyidejűleg a kézbesítési megbízottal kötött és teljes bizonyítóerejű magánokiratba vagy közokiratba foglalt megbízási szerződését nyújtsa be. A felhívás a (2) bekezdésben írt jogkövetkezményekre való tájékoztatást tartalmaz.
 
@@ -89,7 +89,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 #### 6. Egyéb általános szabályok
 
-19. §
+#### 19. §
 
 ### II. Fejezet — A KÉRELMEK TARTALMI ELEMEI
 
@@ -123,7 +123,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - a) a szervezet létesítő okiratát és
 - b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 
-(2) Ha a szervezet alapításában jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a kérelemhez csatolni kell a jogi személy alapító jogi személyiségét igazoló okiratot vagy a jogi személyiséggel nem rendelkező gazdasági társaságként való működést igazoló okiratot és a szervezet nevében eljáró képviselő képviseleti jogát igazoló okiratot is.
+(2) Ha a szervezet alapításában jogi személy vesz részt, a kérelemhez csatolni kell a jogi személy alapító jogi személyiségét igazoló okiratot és a szervezet nevében eljáró képviselő képviseleti jogát igazoló okiratot is.
 
 (3) Ha a szervezet neve jogi személy, más szervezet vagy természetes személy nevét tartalmazza, a kérelemhez csatolni kell a jogosultnak, illetve örökösének vagy jogutódjának a névhasználathoz hozzájáruló nyilatkozatát.
 
@@ -136,6 +136,11 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 (7) Ha a kérelmező a szervezet magyar nyelvű elnevezésének megfelelő idegen nyelvű elnevezését is kéri nyilvántartásba venni, a magyar nyelvű elnevezés – a külön jogszabályban foglaltak szerint arra jogosult által készített – idegen nyelvű fordításával kell igazolnia, hogy az idegen nyelvű elnevezés a magyar nyelvű elnevezésének megfelel. Ha a bíróságnak a fordítás megfelelőségével szemben kétsége merül fel, a kérelmezőtől a magyar nyelvű elnevezés idegen nyelvű hiteles fordítást kérheti.
 
 (8) Képviselet esetén a Pp. 69–73. §-át megfelelően alkalmazni kell.
+
+(9) Ha több kérelmező a kérelmet elektronikus úton nyújtja be, a kérelemhez csatolni kell valamennyi kérelmező nyilatkozatát arról, hogy:
+
+- a) hozzájárul ahhoz, hogy a kérelmet a benyújtó személy ügyfélkapuján keresztül nyújtják be,
+- b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy ügyfélkapujára történő kézbesítése.
 
 22. § Ha külön jogszabályban előírt kötelezettségek teljesítése feltétele a szervezet nyilvántartásba vételének, a kérelemnek tartalmaznia kell azokat az adatokat és a kérelemhez csatolni kell azokat az okiratokat is, melyek alapján megállapítható, hogy a szervezet a külön jogszabályban előírt kötelezettségeket teljesítette.
 
@@ -174,11 +179,13 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - c) a kérelemmel érintett szervezet nevét és nyilvántartási számát és
 - d) az arra való utalást, hogy a szervezet nyilvántartásból való törlésének törvényi feltételei bekövetkeztek.
 
-26. § A nyilvántartásból való törlés iránti kérelemhez csatolni kell
+26. § (1) A nyilvántartásból való törlés iránti kérelemhez csatolni kell
 
-- a) – alapítvány kivételével – a szervezet legfőbb szervének a szervezet megszűnését elhatározó ülése jegyzőkönyvét,
-- b) a szervezet legfőbb szervének a szervezet megszűnését elhatározó ülése jelenléti ívét a jelenlévő tagok nevével, lakóhelyével (székhelyével), aláírásával, képviselet esetén a képviseleti minőség feltüntetésével,
+- a) – az alapítvány kivételével – a szervezet legfőbb szervének a szervezet megszűnését elhatározó ülése jegyzőkönyvét,
+- b) a szervezet legfőbb szervének a szervezet megszűnését elhatározó ülése jelenléti ívét a jelenlévő tagok nevével, lakóhelyével (székhelyével), képviselet esetén a képviseleti minőség feltüntetésével és – ha ülés tartására nem elektronikus hírközlő eszköz igénybevételével került sor – aláírásával,
 - c) azokat az okiratokat, nyilatkozatokat, amelynek alapján megállapítható, hogy a szervezet nyilvántartásból való törlésének törvényi feltételei bekövetkeztek.
+
+(2) Ha ülés tartására nem került sor, a nyilvántartásból való törlés iránti kérelemhez a tagoknak a megszűnést elhatározó akaratnyilatkozatát tartalmazó okiratot kell csatolni.
 
 27. § Végelszámolás lefolytatása esetén a kérelemhez csatolni kell:
 
@@ -239,7 +246,7 @@ sem.
 
 #### 13. Az egyszerűsített nyilvántartásba vételi eljárás
 
-34. §
+#### 34. §
 
 #### 14. A szervezet neve, elnevezése
 
@@ -288,11 +295,11 @@ sem.
 
 (2)–(7)
 
-40. §
+#### 40. §
 
 #### 16. A szervezet adószáma és statisztikai számjelének nyilvántartásban történő rögzítése
 
-41. §
+#### 41. §
 
 #### 17. A nyilvántartásból való törlésére irányuló eljárás általános szabályai
 
@@ -316,7 +323,9 @@ sem.
 
 - a) a végelszámolás megindítását elrendelő határozat keltét,
 - b) a végelszámolás kezdő időpontját és
-- c) a végelszámoló nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a megbízásából eljáró természetes személy nevét, születési idejét, anyja születési nevét, és lakóhelyét is.
+- c) a végelszámoló nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a megbízásából eljáró természetes személy nevét, születési idejét, anyja születési nevét, és lakóhelyét
+
+is.
 
 (2) A végelszámolás bejelentése iránti változásbejegyzési kérelemhez csatolni kell
 
@@ -361,9 +370,9 @@ sem.
 
 (9) A (8) bekezdés kivételével a bíróság a beszámolók, és a bírósághoz korábban benyújtott létesítő okirat alapján dönt a szervezet közhasznúvá minősítéséről, ebben az esetben az eljárás során hiánypótlási felhívás kibocsátásának nincs helye.
 
-44/A. § (1) 2014. december 31-éig a bíróság a közhasznú szervezet letétbe helyezett beszámolóját a letétbe helyezést követő hatvan napon belül megvizsgálja; ha a beszámoló alapján azt állapítja meg, hogy a szervezet a közhasznúvá minősítés feltételeinek nem felel meg, a szervezet közhasznú minősítésének megszüntetéséről és az erre vonatkozó adat nyilvántartásból való törléséről határoz.
+44/A. § (1) 2015. december 31-éig a bíróság a közhasznú szervezet letétbe helyezett beszámolóját a letétbe helyezést követő hatvan napon belül megvizsgálja; ha a beszámoló alapján azt állapítja meg, hogy a szervezet a közhasznúvá minősítés feltételeinek nem felel meg, a szervezet közhasznú minősítésének megszüntetéséről és az erre vonatkozó adat nyilvántartásból való törléséről határoz.
 
-(2) 2014. december 31-éig a cégbíróság, és ha a nyilvántartásba vételre nem bíróság jogosult, az erre jogosult szervezet az (1) bekezdés és a 44. § rendelkezései szerint jár el – az eljárására irányadó szabályok szerint – az általa nyilvántartott szervezet közhasznúvá minősítése és a közhasznú jogállás nyilvántartásba történő bejegyzésére, illetve a közhasznú minősítés megszüntetése és a közhasznú jogállás nyilvántartásból való törlésére irányuló eljárás során.
+(2) 2015. december 31-éig a cégbíróság, és ha a nyilvántartásba vételre nem bíróság jogosult, az erre jogosult szervezet az (1) bekezdés és a 44. § rendelkezései szerint jár el – az eljárására irányadó szabályok szerint – az általa nyilvántartott szervezet közhasznúvá minősítése és a közhasznú jogállás nyilvántartásba történő bejegyzésére, illetve a közhasznú minősítés megszüntetése és a közhasznú jogállás nyilvántartásból való törlésére irányuló eljárás során.
 
 45. § (1)
 
@@ -373,7 +382,11 @@ sem.
 
 46. § (1) Ha e § másképp nem rendelkezik a törvény elsőfokú eljárásra vonatkozó rendelkezéseit a másodfokú eljárásban is megfelelően alkalmazni kell.
 
-(2)–(5)
+(2)
+
+(3)–(4)
+
+(5)
 
 (6) A másodfokú bíróság a fellebbezésről a felterjesztéstől számított hatvan napon belül dönt. Ha a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság elnöke felhívja a bírói tanács elnökét, hogy soron kívül, nyolc napon belül tegye meg a szükséges intézkedéseket a fellebbezés elbírálása érdekében. A bíró a kérelem elbírálását követően a bíróság elnökének beszámol arról, hogy mi volt az indoka annak, hogy döntési kötelezettségének határidőn belül nem tett eleget.
 
@@ -412,7 +425,7 @@ sem.
 
 #### 22.
 
-50. §
+#### 50. §
 
 #### 23. Az alapítvány nyilvántartásba vételére irányuló eljárás
 
@@ -483,7 +496,7 @@ sem.
 
 (3) Az alapítvány különválásának bejegyzése iránti kérelem elbírálására a különváló alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítványok alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a különváló alapítvány nyilvántartásból való törlését is.
 
-(4) Az alapítvány kiválásának bejegyzése iránti kérelem elbírálására a kiválással érintett alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítványok alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a kiválással létrejövő alapítványok nyilvántartásba vételét is.
+(4) Az alapítvány kiválásának bejegyzése iránti kérelem elbírálására a kiválással érintett alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítvány alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a kiválással létrejövő alapítvány nyilvántartásba vételét is.
 
 58/A. § (1) Ha az egyesülő vagy szétváló alapítványokat nem az egyesülés (összeolvadás, beolvadás) vagy szétválás (különválás, kiválás) bejegyzése iránti kérelem elbírálására illetékes bíróság tartja nyilván, az alapítványok iratait az alapítványokat nyilvántartó bíróság az egyesülés vagy szétválás bejegyzése iránti kérelem elbírálására illetékes bíróság megkeresésére megküldi. Ugyanígy kell eljárni abban az esetben is, ha az egyesüléssel vagy szétválással létrejövő alapítványt nem az a bíróság fogja nyilván tartani, amelyik az egyesülés vagy szétválás bejegyzése iránti kérelem elbírálására illetékes.
 
@@ -512,8 +525,9 @@ sem.
 - b) beolvadás esetén az átvevő alapítvány adatait tartalmazó változásbejegyzési űrlapot,
 - c) különválás esetén, a beolvadásos különválás esetét kivéve a különválással létrejövő alapítvány adatait tartalmazó nyilvántartásba-vételi űrlapot,
 - d) beolvadásos különválás esetén annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelybe a beolvadásos különválás történik,
-- e) kiválás esetén a kiválással létrejövő alapítvány adatait tartalmazó nyilvántartásba vételi űrlapot,
-- f) annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyből kiválnak.
+- e) kiválás esetén – a beolvadásos kiválás esetét kivéve – a kiválással létrejövő alapítvány adatait tartalmazó nyilvántartásba vételi űrlapot,
+- f) beolvadásos kiválás esetén, annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyhez a csatlakozás történik,
+- g) annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyből a kiválás történt.
 
 (4) A bíróság az alapítvány egyesülésének vagy szétválásának bejegyzése iránti kérelmet a nyilvántartásba-vételi kérelem szabályai szerint bírálja el, a kérelem elbírálására nyitva álló határidő akkor kezdődik, amikor az egyesülésben vagy szétválásban érintett valamennyi alapítvány irata a bíróság rendelkezésére áll.
 
@@ -609,21 +623,25 @@ sem.
 
 #### 37. Az informatikai rendszer
 
-72–82. §
+#### 72–78. §
+
+#### 79–80. §
+
+#### 81–82. §
 
 #### 38. A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása
 
-83. §
+#### 83. §
 
 #### 39. Az országos névjegyzék
 
-84. §
+#### 84. §
 
 ### VI. Fejezet — A BÍRÓSÁGI ELJÁRÁS NYILVÁNOSSÁGA
 
 #### 40. Az OBH feladata, a bírósági iratok megtekintése, másolatok
 
-85. §
+#### 85. §
 
 86. § (1) A nyilvántartás közhiteles.
 
@@ -672,7 +690,7 @@ is.
 
 #### 41. A bíróság adatszolgáltatási kötelezettsége
 
-89. §
+#### 89. §
 
 ### VII. Fejezet — A CIVIL ÉS EGYÉB CÉGNEK NEM MINŐSÜLŐ SZERVEZETEK NYILVÁNTARTÁSÁNAK ADATTARTALMA
 
@@ -682,7 +700,7 @@ is.
 
 #### 43. A civil és egyéb cégnek nem minősülő szervezetek nyilvántartásának tartalma
 
-91–96. §
+#### 91–96. §
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -693,19 +711,23 @@ is.
 - a) az e törvényben szabályozott eljárásokban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
 - b)
 - c) az e törvényben szabályozott eljárásokban érvényesülő ügyviteli szabályokat,
-- d)–f)
+- d)
+- e)
+- f)
 - g) a szervezet célja szerinti besorolását,
 - h) az e törvényben szabályozott eljárásokban érvényesülő iratkezelési szabályokat rendeletben állapítsa meg.
 
 #### 45. Hatálybalépés
 
-98. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetést követő napon lép hatályba.
+98. § (1) Ez a törvény – a (2)–(5) bekezdésben foglalt kivétellel – a kihirdetést követő napon lép hatályba.
 
 (2) Az 1. §, a 2. §, a 4–6. §, a 17. §, a 20. § (1) bekezdés a)–i) és k) pontja, a 21–28. § (1) bekezdése, a 29. § (1) bekezdésének a) és b) pontja, (2) és (3) bekezdése, a 30–33. §, a 35–38. §, 39. § (1) bekezdése, a 42. §, a 43. §, a 44. § (1)–(6), (8) és (9) bekezdése, a 45. § (2) bekezdése, a 46. § (1) és (6) bekezdése, a 47–71. §, a 86. § (1)–(4) bekezdése, a 87. § (1) bekezdése és (2) bekezdésének b) pontja, 88. § (1)–(4) és (6) bekezdése, a 90. §, a 99. §, a 100. §, a 103–105. §, a 109. §, a 110. §, a 112–116. §, a 118–120. §, a 122. § és 123. §, valamint a 125. § (1) bekezdése 2012. január 1-jén lép hatályba.
 
 (3) A 106. § 2012. november 30-án lép hatályba.
 
-(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2015. január 1-jén lép hatályba.
+(4) A 3. §, a 7. § (1) és (4) bekezdése, a 8–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2) és (5) bekezdése, a 71–78. §, a 81–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d), f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § (1), (3) és (5)–(9) bekezdése és a 125. § (2) bekezdése 2015. január 1-jén lép hatályba.
+
+(5) A 28. § (2) bekezdése, a 46. § (3) és (4) bekezdése, a 79. §, a 80. § és a 124. § (2) és (4) bekezdése 2016. január 1-jén lép hatályba.
 
 #### 46. Átmeneti rendelkezések
 
@@ -740,9 +762,9 @@ is.
 
 (6) Az országos névjegyzék arra való figyelmeztetést tartalmaz, hogy a névjegyzék nem közhiteles.
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
 103. § Azokra a köztestületekre vonatkozó adatokat, melyeket e törvény hatályba lépését követően – külön törvény alapján – a bíróság nem tart nyilván törölni kell a nyilvántartásból, a köztestület nyilvántartásból való törléséről nem kell végzést hozni.
 
@@ -760,19 +782,19 @@ is.
 
 106. § Az OBH legkésőbb 2014. december 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.
 
-107–108. §
+#### 107–108. §
 
 #### 47. Módosuló jogszabályok
 
-109–110. §
+#### 109–110. §
 
-111. §
+#### 111. §
 
-112–116. §
+#### 112–116. §
 
-117. §
+#### 117. §
 
-118–120. §
+#### 118–120. §
 
 121. § (1) Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 29. § 10. pontja a következő szöveggel lép hatályba:
 
@@ -862,11 +884,19 @@ d) a kedvezmény igénybevevője legkésőbb az ellenőrzés megállapításair�
 
 464/B. § A munkabérek nettó értékének megőrzését célzó adókedvezmény igénybevevőjének nem kell bevallását önellenőrzéssel helyesbítenie, ha a kedvezmény jogosulatlan igénybevételét állapítja meg, de 464/A. § szerint a kedvezmény jogosulatlan igénybevételével összefüggésben adókülönbözet megállapításának nem lenne helye. Ha a visszamenőleges béremelés miatt a munkavállalónkénti részkedvezmény összege változik, az önellenőrzést a változással érintett munkavállalókkal összefüggésben teljesíteni kell.”
 
-(17) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló CLVI. törvény 11. számú melléklet 2. pontjával megállapított Art. 2. számú melléklet I/Határidők/2. pont b) alpontjában a „ha az adózó a kérelem benyújtását megelőző két évben” szövegrész helyett a „ha az adózó esetében az alábbi feltételek bármelyike érvényesül” szövegrésszel, illetve az „az adószám felfüggesztés hatálya alatt állt vagy adószámát a felfüggesztést követően törölték, vagy” szövegrész helyett az „az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,” szövegrésszel lép hatályba.
+(17) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló CLVI. törvény 11. számú melléklet 2. pontjával megállapított Art. 2. számú melléklet I/Határidők/2. pont b) alpontjában a „ha az adózó a kérelem benyújtását megelőző két évben” szövegrész helyett a „ha az adózó esetében az alábbi feltételek bármelyike érvényesül” szövegrésszel, illetve az „az adószám felfüggesztés hatálya alatt állt vagy adószámát a felfüggesztést követően törölték, vagy” szövegrész helyett az „az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,” szövegrésszel lép hatályba.”
 
-122–123. §
+#### 122–123. §
 
-124. §
+124. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)–(9)
 
 #### 48. Hatályukat vesztő rendelkezések
 
