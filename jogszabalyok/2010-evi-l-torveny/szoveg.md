@@ -225,6 +225,8 @@ jelöltnek ajánlott.
 
 (6) Ha az önkormányzati képviselő-testületet feloszlatták vagy feloszlott, időközi választást kell tartani.
 
+(7) A fővárosi közgyűlés feloszlása esetén időközi választást kell kiírni valamennyi fővárosi kerület polgármesteri tisztségére.
+
 #### 2. A kiesett képviselő mandátumának betöltése
 
 21. § (1) Ha az egyéni listáról megválasztott képviselő helye üresedik meg, helyére a következő legtöbb szavazatot elért jelölt lép.
