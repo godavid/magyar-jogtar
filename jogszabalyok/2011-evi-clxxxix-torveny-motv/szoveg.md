@@ -272,6 +272,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 27. § (1) A megyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, területrendezési, valamint koordinációs feladatokat lát el. A megyei önkormányzat képviselő-testülete a közgyűlés.
 
+(1a) A megyei önkormányzat székhelyét a szervezeti és működési szabályzatról szóló rendeletében a megyeszékhely település területén határozza meg.
+
 (2) A megyei közgyűlés elnökét a közgyűlés az Alaptörvény 33. cikk (2) bekezdése alapján titkos szavazással választja a megbízatásának időtartamára.
 
 (3) A megyei közgyűlés elnöke – pályázat alapján határozatlan időre – nevezi ki a jegyzőt, a jegyző javaslatára az aljegyzőt.
@@ -362,12 +364,12 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
   - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet lát el;
   - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
-- c) kormánytisztviselő;
+- c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
 - d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
-- e) jegyző (főjegyző), aljegyző, polgármesteri hivatal vagy közös önkormányzati hivatal köztisztviselője, alkalmazottja;
+- e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 - f) más települési önkormányzatnál képviselő;
 - g) más települési önkormányzatnál polgármester, alpolgármester;
-- h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
+- h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület –, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
 - i) médiatartalom-szolgáltató természetes személy, továbbá jogi személy, valamint gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 
 (2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
@@ -471,7 +473,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A képviselő-testület működése
 
-43. § (1) A képviselő-testület az alakuló ülését a választást követő tizenöt napon belül tartja meg.
+43. § (1) A képviselő-testület az alakuló ülését a választás eredményének jogerőssé válását követő tizenöt napon belül tartja meg.
 
 (2) Az alakuló ülést a polgármester hívja össze és vezeti. A megyei közgyűlés alakuló ülését a választást követő tizenöt napon belül a korelnök hívja össze, és vezeti a megyei közgyűlés új elnökének szervezeti és működési szabályzat szerinti megválasztásának időpontjáig.
 
@@ -510,6 +512,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 (5) Az ülésvezető megállapítja a szavazás eredményét. Ha a szavazás eredménye felől kétség merül fel, bármely önkormányzati képviselő kérésére a szavazást egy alkalommal meg lehet ismételni.
 
 49. § (1) A képviselő-testület döntéshozatalából kizárható az, akit vagy akinek a közeli hozzátartozóját az ügy személyesen érinti. Az önkormányzati képviselő köteles bejelenteni a személyes érintettséget. A kizárásról az érintett önkormányzati képviselő kezdeményezésére vagy bármely önkormányzati képviselő javaslatára a képviselő-testület dönt. A kizárt önkormányzati képviselőt a határozatképesség szempontjából jelenlevőnek kell tekinteni.
+
+(1a) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a képviselő-testület döntéshozatala saját tagjának választására, kinevezésére, megbízására vagy delegálására irányul.
 
 (2) A képviselő-testület szervezeti és működési szabályzatában meghatározza a személyes érintettségre vonatkozó bejelentési kötelezettség elmulasztásának jogkövetkezményeit.
 
@@ -572,6 +576,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 54. § A képviselő-testület évente legalább egyszer előre meghirdetett közmeghallgatást tart, amelyen a helyi lakosság és a helyben érdekelt szervezetek képviselői a helyi közügyeket érintő kérdéseket és javaslatot tehetnek. Az elhangzott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni.
 
 55. § (1) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
+
+(1a) A fővárosi közgyűlés feloszlásának kimondásához az önkormányzati képviselők négyötödének igen szavazata, valamint a főváros lakosságszámának legalább négyötödét kitevő lakosságszámú fővárosi kerületek polgármestereinek igen szavazata szükséges.
 
 (2) A képviselő-testület feloszlása nem mondható ki a választást követő hat hónapon belül, valamint az általános választást megelőző év november 30. napját követően. A határidő megállapításkor a feloszlásra irányuló kezdeményezés időpontját kell figyelembe venni.
 
@@ -641,7 +647,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 66. § A polgármester tagja a képviselő-testületnek, a képviselő-testület határozatképessége, döntéshozatala, működése szempontjából önkormányzati képviselőnek tekintendő.
 
-67. § A polgármester
+67. § (1) A polgármester
 
 - a) a képviselő-testület döntései szerint és saját hatáskörében irányítja a polgármesteri hivatalt, a közös önkormányzati hivatalt;
 - b) a jegyző javaslatainak figyelembevételével meghatározza a polgármesteri hivatalnak, a közös önkormányzati hivatalnak feladatait az önkormányzat munkájának a szervezésében, a döntések előkészítésében és végrehajtásában;
@@ -651,7 +657,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - f) gyakorolja a munkáltatói jogokat a jegyző tekintetében;
 - g) gyakorolja az egyéb munkáltatói jogokat az alpolgármester és az önkormányzati intézményvezetők tekintetében.
 
+(2) A 42. § 2. és 7. pontjában meghatározott kérdésekről, valamint egyéb jogszabályban, közjogi szervezetszabályozó eszközben meghatározott kinevezésről, megbízásról, választásról a fővárosi közgyűlés kizárólag a főpolgármester előterjesztése alapján dönthet.
+
 68. § (1) Amennyiben a polgármester a képviselő-testület döntését a helyi önkormányzat érdekeit sértőnek tartja, ugyanazon ügyben – a képviselő-testület önfeloszlatásáról szóló, valamint a 70. § (1) bekezdésében meghatározott ügyben hozott döntése kivételével – egy alkalommal kezdeményezheti az ismételt tárgyalást. A kezdeményezést az ülést követő három napon belül nyújthatja be, a képviselő-testület a benyújtás napjától számított tizenöt napon belül minősített többséggel dönt. A döntést addig végrehajtani nem lehet, amíg arról a képviselő-testület a megismételt tárgyalás alapján nem dönt.
+
+(1a) A főpolgármester az (1) bekezdésben meghatározott ismételt tárgyalást, annak szabályait megfelelően alkalmazva, ugyanazon ügyben több alkalommal is kezdeményezheti. Az ismételt tárgyalás során hozott döntés akkor hajtható végre, ha az üléstől számított három napon belül a főpolgármester nem kezdeményez újabb ismételt tárgyalást.
 
 (2) Amennyiben a képviselő-testület – határozatképtelenség vagy határozathozatal hiánya miatt – két egymást követő alkalommal ugyanazon ügyben nem hozott döntést, a polgármester a szervezeti és működési szabályzatban meghatározott ügyben – a 42. §-ban meghatározott ügyek kivételével – döntést hozhat. A polgármester a döntésről a képviselő-testületet a következő ülésen tájékoztatja.
 
@@ -681,7 +691,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A főpolgármester, polgármester, a megyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
-71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői illetménypótlékából álló illetményének összegével. A főpolgármester havonta az illetményének 15%-ában meghatározott összegű költségtérítésre jogosult.
+71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, és vezetői illetménypótlékából álló illetményének összegével. A főpolgármester havonta az illetményének 15%-ában meghatározott költségtérítésre, valamint a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
 
 (2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a helyettes államtitkár közszolgálati tisztviselőkről szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői illetménypótlékából álló illetményének összegével.
 
@@ -701,11 +711,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### Összeférhetetlenség
 
-72. § (1) Az 1500 fő és az az alatti lakosságszámú település polgármesterének az összeférhetetlenségére a 36. §-t kell alkalmazni.
+72. § (1) A 3000 fő és az az alatti lakosságszámú település polgármesterének, valamint a 3000 fő feletti település társadalmi megbízatású polgármesterének összeférhetetlenségére a 36. §-t kell alkalmazni.
 
-(2) Az 1500 fő feletti lakosságszámú település főállású polgármestere tudományos, oktatói, lektori, szerkesztői, művészeti és jogi oltalom alá eső szellemi tevékenység kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
+(2) A 3000 fő feletti lakosságszámú település főállású polgármestere tudományos, oktatói, lektori, szerkesztői, művészeti és jogi oltalom alá eső szellemi tevékenység kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
 
-(3) Az 1500 fő feletti lakosságszámú település társadalmi megbízatású polgármesterének az összeférhetetlenségére a 36. §-t – a 36. § (1) bekezdés a) pont ab) alpontja kivételével – kell alkalmazni.
+(3)
 
 (4) A polgármesterre megfelelően alkalmazni kell az önkormányzati képviselőre vonatkozó összeférhetetlenségi, méltatlansági, vagyonnyilatkozat-tételi szabályokat azzal, hogy a polgármester nem lehet más önkormányzatnál polgármester, alpolgármester, települési önkormányzati képviselő, megyei közgyűlés elnöke, alelnöke, kivéve, hogy a fővárosi kerületi polgármester a fővárosi közgyűlés tagja. A fővárosi kerületi polgármester nem lehet főpolgármester, valamint főpolgármester-helyettes.
 
@@ -723,8 +733,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 76. § Az alpolgármester e tisztsége megszűnik:
 
-- a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek;
-- b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésének napján; továbbá
+- a) a megválasztását követő helyi önkormányzati általános választás napján, jelöltek hiányában elmaradt választás esetén az időközi választás napján;
+- b)
 - c) a 69. § (1) bekezdés b)–i) pontjában foglalt esetekben;
 - d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
 
@@ -739,6 +749,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 ### A főpolgármester-helyettes, az alpolgármester, a megyei önkormányzat közgyűlésének alelnöke díjazása, költségtérítése
 
 80. § (1) A főpolgármester-helyettes, a főállású alpolgármester, a megyei közgyűlés alelnöke illetményének összegét a főpolgármester, a polgármester, a megyei közgyűlés elnöke illetménye 70–90%-a közötti összegben a képviselő-testület állapítja meg.
+
+(1a) A 10 000 fő vagy az alatti lakosságszámú település alpolgármestere illetményének összegét a képviselő-testület állapítja meg úgy, hogy az nem haladhatja meg a polgármester illetménye 90%-át.
 
 (2) A társadalmi megbízatású alpolgármester tiszteletdíját a képviselő-testület a társadalmi megbízatású polgármester tiszteletdíja 70–90%-a közötti összegben állapítja meg, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
 
