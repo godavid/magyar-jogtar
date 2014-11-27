@@ -628,7 +628,7 @@ a fizetendő adót – a (2) bekezdéstől eltérően – az a) pontban említet
 61. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha az ellenérték megtérítése pénzzel, készpénz-helyettesítő fizetési eszközzel vagy pénzhelyettesítő eszközzel történik, a teljesítésre kötelezett adóalany, aki (amely)
 
 - a) nyilvántartását az egyszeres könyvvezetés szabályai szerint vezeti, vagy csak a bevételeiről köteles nyilvántartást vezetni, vagy
-- b) nyilvántartási kötelezettségének – a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály szerint – módosított teljesítési szemléletben tesz eleget,
+- b) nyilvántartási kötelezettségének az államháztartás számviteléről szóló jogszabály szerint tesz eleget,
 
 a fizetendő adót legkésőbb az ellenérték megfizetésekor állapíthatja meg.
 
@@ -886,7 +886,7 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
 
 (4) E § alkalmazásában közszolgáltató:
 
-- a) a költségvetési szerv az alapító okiratban megjelölt tevékenysége tekintetében;
+- a) a költségvetési szerv az alapító okiratban megjelölt tevékenysége tekintetében, ideértve az önkormányzatot és a társulást is az általa ellátott tevékenység tekintetében;
 - b) az egyesület, a szövetség, a civil társaság, a köztestület, az országos sportági szakszövetség az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenysége tekintetében;
 - c) az egyházi jogi személy a létesítő okiratában vagy a bevett egyház belső szabályában megjelölt tevékenysége tekintetében;
 - d) az alapítvány és a közalapítvány az alapító okiratban megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében;
@@ -1482,12 +1482,13 @@ terhelő előzetesen felszámított adó összegének 30 százaléka.
 - a) a 124. § (1) bekezdésének d) pontjában említett esetben igazoltan egészben vagy túlnyomó részben taxiszolgáltatás nyújtása érdekében használja;
 - b) a 124. § (1) bekezdésének d)–g) pontjaiban említett esetekben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja;
 - c) a 124. § (1) bekezdésének c) pontjában és (4) bekezdésében említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként a b) pontban említett szolgáltatásnyújtás adóalapjába épül be;
-- d) a 124. § (1) bekezdésének h) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja, feltéve, hogy a 88. § szerinti választási jogával úgy élt, hogy a bérbeadást adókötelessé tette;
+- d) a 124. § (1) bekezdésének h) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja, azzal, hogy ha a lakóingatlan a 86. § (1) bekezdés l) pontja alá tartozik, a 88. § szerinti választási jogával úgy élt, hogy a bérbeadást adókötelessé tette
 - e) a 124. § (1) bekezdésének i) pontjában és (2) bekezdésének c) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű vagy értékcsökkenési leírás alapjánál figyelembe vehető ráfordításként a d) pontban említett adóköteles szolgáltatásnyújtás adóalapjába épül be;
 - f) a 124. § (1) bekezdésének i) pontjában és (2) bekezdésének c) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű vagy értékcsökkenési leírás alapjánál figyelembe vehető ráfordításként a lakóingatlan-értékesítés adóalapjába épül be azzal, hogy ha a lakóingatlan a 86. § (1) bekezdésének j) pontja alá tartozik, az értékesítő adóalanynak előzetesen élnie kell a 88. § szerinti választási jogával;
 - g) a 124. § (1) bekezdésének j) és k) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként más termékértékesítés, szolgáltatásnyújtás adóalapjába épül be;
 - h) a 124. § (2) bekezdésének e) és f) pontjában említett esetekben igazoltan az általa üzemben tartott, 3,5 tonnát meghaladó legnagyobb össztömegű szárazföldi közlekedési eszköz üzemeltetése érdekében hasznosítja;
-- i) a 124. § (1) bekezdésének a) pontjában említett esetben – a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008. 8.9.) 30. cikkének 4. pontjában meghatározott kísérleti fejlesztés keretében – igazoltan a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztéshez használja fel.
+- i) a 124. § (1) bekezdésének a) pontjában említett esetben – a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008. 8.9.) 30. cikkének 4. pontjában meghatározott kísérleti fejlesztés keretében – igazoltan a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztéshez használja fel;
+- j) a 124. § (1) bekezdés a) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként más termékértékesítés adóalapjába épül be.
 
 126. § (1) A 125. §-ban említett igazolási kötelezettség különösen olyan elkülönített nyilvántartás alkalmazását igényli az adóalanytól, amely alkalmas az adólevonási jog korlátozása alóli mentesülés – ott meghatározott – feltételeinek egyértelmű, megbízható és folyamatos követésére.
 
@@ -3134,7 +3135,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gi) a Tanács 2010/45/EU irányelve (2010. június 13.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a számlázás szabályai tekintetében történő módosításáról;
   - gj) a Tanács 2013/43/EU irányelve (2013. július 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózás bizonyos, csalásra alkalmas termékek és szolgáltatások értékesítésére vonatkozó fakultatív és ideiglenes alkalmazása tekintetében történő módosításáról;
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
-  - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról.
+  - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
+- i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról.
 
 ### Átmeneti rendelkezések
 
@@ -3283,6 +3285,10 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 287. § A 3. számú melléklet I. részének az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 19–24. pontjait azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2014. január 1-jére vagy azt követő napra esik.
 
+290. § Ha a belföldön nyilvántartásba vett adóalany az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény (a továbbiakban: Mód5 törvény) kihirdetését követő napig az állami adóhatóságnak nyilatkozott arról, hogy a 86. § (1) bekezdés j) és k) pontjában említett valamennyi termékértékesítését adókötelessé teszi, nyilatkozatát 2015. február 28-ig a lakóingatlan értékesítésére vonatkozóan – a 88. § (4) bekezdésére tekintettel – megváltoztathatja. A lakóingatlan-értékesítés adó alóli mentességére vonatkozó nyilatkozat 2015. január 1-jétől kezdődően alkalmazandó.
+
+291. § E törvénynek a Mód5 törvénnyel megállapított 125. § (2) bekezdés j) pontját azokban az esetekben is alkalmazni lehet, amelyekben az adólevonási jog keletkezésének időpontja az e törvénynek a Mód5 törvénnyel megállapított 125. § (2) bekezdés j) pontja hatálybalépésének időpontját megelőzi.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3291,7 +3297,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 - 2. A Közösség területe, ezzel együtt a tagállam területe nem foglalja magában a következő tagállamok alábbiak szerint meghatározott részét, amelyek a Közösség, ezzel együtt a tagállam vámterületének részét képezik:
   - a) Egyesült Királyság: – Csatorna-szigetek;
   - b) Finn Köztársaság: – Aland szigetek;
-  - c) Francia Köztársaság: – tengerentúli megyék;
+  - c) Francia Köztársaság: - az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikkének (1) bekezdésében említett francia területek;
   - d) Görög Köztársaság: – Athosz-hegy;
   - e) Spanyol Királyság: – Kanári-szigetek.
 - 3. A Közösség területe, ezzel együtt a tagállam területe nem foglalja magában a következő tagállamok alábbiak szerint meghatározott részét, amely részek nem tartoznak a Közösség vámterületéhez:

@@ -209,7 +209,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
   - f) a készpénzátutalás,
   - g) az olyan fizetési művelet teljesítése, ahol a fizető fél távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz segítségével adja meg a fizetési megbízást, és ahol a fizetési művelet a távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz üzemeltetőjénél történik, aki kizárólag közvetítőként jár el az ügyfele és az ügyfele részére árut szállító vagy szolgáltatást nyújtó harmadik személy között;
 - 88. pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
-- 89. pénzügyi lízing: az a tevékenység, amelynek során a lízingbeadó ingatlan vagy ingó dolog tulajdonjogát, illetve vagyoni értékű jogot a lízingbevevő határozott idejű használatába adja oly módon, hogy a használatba adással a lízingbevevő
+- 89. pénzügyi lízing: az a tevékenység, amelynek során a lízingbeadó a tulajdonában lévő ingatlant vagy ingó dolgot, illetve vagyoni értékű jogot a lízingbevevő határozott idejű használatába adja oly módon, hogy a használatba adással a lízingbevevő
   - a) viseli a kárveszély átszállásából származó kockázatot,
   - b) a hasznok szedésére jogosulttá válik,
   - c) viseli a közvetlen terheket (ideértve a fenntartási és amortizációs költségeket is),
