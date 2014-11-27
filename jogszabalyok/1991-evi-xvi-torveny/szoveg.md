@@ -113,7 +113,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 - a) ajánlat tételére kizárólag az Szjtv. 37. § 31. pontja szerinti megbízható szervező jogosult,
 - b) az ajánlatban legalább a központi költségvetésről szóló törvényben meghatározott, játéktípusonként irányadó koncessziós díj összegének megfelelő éves koncessziós díjat kell megjelölni játéktípusonként, és
-- c) a nem magyarországi székhelyű vagy nem magyarországi szerencsejáték szervezési tevékenységi engedéllyel rendelkező ajánlattevő ajánlatához csatolja a székhelye, illetve szerencsejáték szervezési tevékenységi engedélye szerinti állam hatóságainak Szjtv. 37. § 31. pontja szerinti feltételek teljesítéséről szóló igazolását és annak hivatalos magyar nyelvű fordítását.
+- c)
 
 (4) Az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel.
 

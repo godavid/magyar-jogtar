@@ -447,6 +447,11 @@ előtt adóazonosító jelének közlése végett az állami adóhatóságnál a
 
 (7b) Amennyiben az adóhatóság a (7a) bekezdésben felsoroltakról nem az egészségbiztosítási szervtől értesül, 10 napon belül elektronikus úton adatot szolgáltat az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
 
+(7c) Az állami adóhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő magánszemély Tbj. 39. § (2) bekezdés szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően igazolja (különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal), hogy
+
+- a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
+- b) tartózkodási helyén annak jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
+
 (8) Az egészségbiztosítási szerv által vezetett egészségügyi szolgáltatásra jogosultak, biztosítottak nyilvántartásában biztosítottként vagy egyéb jogcímen jogosultként nem szereplő, a Tbj. 44/B. §-a vagy 44/C. §-a alapján adóhatóságnak átadott személyek adatait az adóhatóság összeveti
 
 - a) az e törvény 31. §-ának (2) bekezdésében előírt bevallások magánszemélyenkénti adataival,
@@ -3459,7 +3464,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a számla, egyszerűsített számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit rendeletben határozza meg.
 
-(4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben határozza meg a kezelőszemélyzet nélküli automataberendezéssel kapcsolatos nyilvántartás-vezetési kötelezettség teljesítésének – az adó megfizetését, a költségvetési támogatás igénybevételét, valamint az alapul szolgáló bizonylatoknak az ellenőrzését biztosító – részletes szabályait és műszaki követelményeit.
+(4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automata berendezés adókötelezettségével és a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (5) Az adóhatóság a fizetési meghagyást, a fizetési felszólítást és az adóívet nyomtatványon is kiadhatja.
 
@@ -3506,6 +3511,8 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (17) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység végzéséhez szükséges engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat azzal, hogy az eljárás során méltányossági eljárásnak nincs helye.
 
+(17a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység végzéséhez szükséges engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat – azzal, hogy az eljárás során méltányossági eljárásnak nincs helye –, valamint a továbbképzési programok szervezésére és lebonyolítására jelentkező szervezetek pályázatának elbírálásáért fizetendő igazgatási szolgáltatási díj mértékét.
+
 (18) Felhatalmazást kap a Kormány, hogy az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezetet rendeletben kijelölje.
 
 (19)
@@ -3537,6 +3544,12 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 részére az állami adóhatóság által teljesített adatátadással érintett adatok körét, az adatátadás részletes szabályait, így különösen az adatátadás határidejét és gyakoriságát.
 
 (30) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben állapítsa meg az üzemeltető részére nyújtott, az általános forgalmi adóról szóló törvény szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait.
+
+(31) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a pénztárgép éves felülvizsgálatához kapcsolódó valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait.
+
+(32) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER működésével kapcsolatos részletszabályokat, különösen az EKAER szám megállapításának rendjét, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel, a kockázati biztosíték mértékének folyamatos meghatározásával kapcsolatos szabályokat rendeletben határozza meg.
+
+(33) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott rendeletben határozza meg az EKAER működésével összefüggésben a kockázatos termékek körét.
 
 ### Adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vétele
 
@@ -3641,7 +3654,36 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 (16) Az adóév utolsó napján az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja őstermelői tevékenysége tekintetében adókötelezettségeit – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági őstermelőre irányadó szabályok szerint teljesíti. A családi gazdálkodó és említett családtagja a családi gazdaság nyilvántartási számát az adózásával összefüggő valamennyi iratán, valamint a törvény alapján adókedvezményt, adómentességet biztosító nyilatkozatán köteles feltüntetni.
 
-176/A. §
+176/A. § (1) Az adószámmal rendelkező adózót az ukrajnai helyzetet destabilizáló orosz intézkedések közvetlen következtében a 2014. február 28-át megelőzően megszerzett (állományba vett) befektetett eszközei után 2014-re elszámolt ráfordítások alapulvételével, ha e ráfordítások összege meghaladja a százezer forintot, adó-visszatérítés illeti meg. Az adó-visszatérítés, figyelemmel a (2)–(5) és (11) bekezdésben foglaltakra is, egyenlő a más módon (így különösen biztosító szolgáltatása révén) 2014-re bevétellel nem fedezett ráfordítások összegével, de
+
+- a) nem lehet több 5 milliárd forintnál, valamint
+- b) nem haladhatja meg az adózót az adóévre vállalkozási tevékenységére tekintettel adóalanyként terhelő, a központi költségvetés bevételét képező adók (a társasági adó, az egyszerűsített vállalkozói adó, a kisvállalati adó, a pénzügyi szervezetek különadója és a hitelintézetek különadója, valamint az energiaellátók jövedelemadója, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 36. § (1) és (2) bekezdésében meghatározott fizetési kötelezettségek, továbbá a vállalkozói személyi jövedelemadó, a vállalkozói átalányadó és az őstermelői tevékenységből származó jövedelmet terhelő személyi jövedelemadó) 2014-re fizetett (fizetendő) összegének 50 százalékát.
+
+(2) Az (1) bekezdés hatálya alá tartozó ráfordítás alapjául a következő, az ukrajnai helyzetet destabilizáló orosz intézkedések közvetlen következtében bekövetkezett gazdasági események szolgálnak:
+
+- a) tárgyi eszköz 2014. február 28. és március 31. között bekövetkezett megsérülése, megsemmisülése miatti terven felüli értékcsökkenés, kivezetés;
+- b) az ukrajnai székhelyű kibocsátó által kibocsátott értékpapír értékvesztése, kivezetése;
+- c) az ukrajnai székhellyel adóssal szemben fennálló, teljes bizonyító erejű magánokiratba vagy közokiratba foglalt követelés értékvesztése, kivezetése;
+- d) az adózó ukrajnai székhelyű kapcsolt vállalkozásában fennálló, tulajdoni részesedést jelentő befektetés értékvesztése, kivezetése;
+- e) a d) pontban meghatározott befektetéshez kapcsolódóan kimutatott üzleti vagy cégérték terven felüli értékcsökkenése, kivezetése.
+
+(3) Az (1)–(2) bekezdésben előírt közvetlen, ok-okozati kapcsolat bizonyítása az adózót terheli. Az eljárás során hiánypótlásra csak egy alkalommal kerülhet sor.
+
+(4) Az adó-visszatérítést az adózó által 2014. december 31-ig írásban benyújtott kérelem alapján az állami adóhatóság állapítja meg; a kérelem benyújtására előírt határidő elmulasztása estén igazolási kérelem előterjesztésének, valamint a benyújtott kérelem olyan módosításának, amely az adó-visszatérítés összege növekedését eredményezi, nincs helye. A kérelem tartalmazza az adózó megnevezését, székhelyét és adószámát és az adó-visszatérítés igényelt összegét. A kérelemhez mellékelni kell az adó-visszatérítés összegét alátámasztó, a számvitelről szóló törvény rendelkezéseinek megfelelő bizonylatokat.
+
+(5) Az adó-visszatérítés teljesítése az Európai Bizottságnak a (1) bekezdésben foglaltakat jóváhagyó határozatától függ. Az Európai Bizottság határozata meghozatalának napját – annak ismertté válását követően haladéktalanul – az adópolitikáért felelős miniszter a Magyar Közlönyben közzétett egyedi határozattal megállapítja. Az adó-visszatérítés ügyében folyó eljárás tekintetében az ügyintézési határidő a miniszteri határozat közzétételének a napját követő napon, de legkorábban az (1) bekezdés b) pontjának hatálya alá tartozó adók bevallására előírt határidő leteltének napját követő napon kezdődik. Ha az Európai Bizottság az (1) bekezdésben foglaltakat nem hagyja jóvá, az állami adóhatóság az adó-visszatérítés ügyében a miniszteri határozat közzététele napját követő 10 napon belül az eljárást érdemi vizsgálat nélkül megszünteti.
+
+(6) Az adózót megillető adó-visszatérítés összegét az adóhatóság külön számlán tartja nyilván, amelynek terhére kiutalást nem, csak átvezetést teljesíthet.
+
+(7) Ha az igényelt adó-visszatérítés alapjául szolgáló ráfordítás más (nem az adó-visszatérítés miatt elszámolt) bevétellel történő ellentételezése (így különösen az adó-visszatérítés alapjául szolgáló értékvesztés, terven felüli értékcsökkenés visszaírása) a kérelem benyújtását követően bekövetkezett változás miatt 2020. december 31-ig, de legkésőbb az adózó megszűnésének napjáig megtörténik, az adózót a ráfordításból ellentételezett résznek megfelelő adó-visszatérítés a változás bekövetkezésének napjától – ha a változás csak az adózó számvitelről szóló törvény szerinti beszámolójának elfogadásával válik véglegessé, a beszámoló elfogadásának napjától – kezdődően már nem illeti meg. Ebben az esetben az adózó köteles adó-visszatérítési kérelmét kiegészítő kérelmet előterjeszteni, valamint, szükség esetén visszafizetési kötelezettségét haladéktalanul teljesíteni. E rendelkezés értelemszerű alkalmazásával jár el az adózó akkor is, ha (1) bekezdés b) pontjának hatálya alá tartozó adóknak az adó-visszatérítés alapjául szolgáló összege az önellenőrzés során csökkent, ha e csökkenés az adózót megillető adó-visszatérítés összegének csökkenését is eredményezi.
+
+(8) Az adó-visszatérítéssel összefüggő adókötelezettségek teljesítése és azok ellenőrzése érdekében az adózó külön nyilvántartást vezet.
+
+(9) Az adó-visszatérítéssel összefüggésben kiszabható adóbírság mértéke az adóhiány 100%-a. Az adó-visszatérítéssel összefüggő jogsértés esetén a jogkövetkezmények tekintetében az adózó kapcsolt vállalkozásait az adózóval egyetemleges felelősség terheli.
+
+(10) Az (1) bekezdés szerinti adó-visszatérítés a Szerződés 107. cikk (2) bekezdés b) pontja szerinti állami támogatást tartalmaz.
+
+(11) Az adó-visszatérítésre jogosult adózókat együttesen megillető adó-visszatérítés összege nem haladhatja meg a 15 milliárd forintot. Ha az adózók által benyújtott, az (1)–(5) bekezdés szerint jogszerű adó-visszatérítési igények összege meghaladja a 15 milliárd forintot, az egyes adózókat az adó-visszatérítés összege olyan arányban illeti meg, amilyen arányt az adott adózót jogszerűen megillető igény a jogszerű igények összességében képvisel.
 
 ### A gépi nyugta, illetve nyugta- és számlaadásra szolgáló pénztárgépekkel, taxaméterekkel szemben támasztott követelmények
 
@@ -4074,6 +4116,8 @@ is alkalmazni kell.
 (2) E törvénynek az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvénnyel módosított 161. § (1) bekezdését a 2012. augusztus 7-től indult eljárásokban is alkalmazni kell.
 
 (3) E törvénynek az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvénnyel módosított 10. számú mellékletét a bejelentkezés és nyilvántartásba vétel kivételével 2015. január 1-jétől kell alkalmazni. Az első bevallási időszak kezdete 2015. január 1-je.
+
+203. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény által megállapított 20. § (7c) bekezdését a hatálybalépést követő napon folyamatban lévő eljárásokban, valamint kérelemre a hatálybalépés időpontjában jogerősen elbírált ügyekben is alkalmazni kell.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
