@@ -595,7 +595,9 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (4) Ha az adó alanya a vagyoni értékű jog jogosítottja és a 2012. december 31-ét követő időszakra vonatkozó adóját nem fizette meg és a végrehajtás vele szemben eredménytelenül zárul, az adóhatóság az így előállt adótartozás megfizetésére határozattal kötelezi az építmény, telek tulajdonosát.
 
-44. § Az önkormányzati adóhatóság hatáskörébe tartozó adókat és adók módjára behajtandó köztartozásokat csak az adópolitikáért felelős miniszter engedélyével működő számítógépes programrendszerrel lehet nyilvántartani.
+44. § (1) Az önkormányzati adóhatóság hatáskörébe tartozó adókat és adók módjára behajtandó köztartozásokat kizárólag a kincstár által rendelkezésre bocsátott számítógépes programrendszerrel lehet nyilvántartani.
+
+(2) Ha az önkormányzat 2014. június 30-án nem a kincstár által rendelkezésre bocsátott számítógépes programrendszert használta, akkor esetében az (1) bekezdés szerinti rendelkezést csak 2016. január 1-jétől kell alkalmazni.
 
 45. § A helyi önkormányzat az ügykörébe tartozó adók és illetékek hatékony beszedésének elősegítésére a feltárt és beszedett adóhiányból, valamint a beszedett adó- és illetéktartozásból az önkormányzatokat megillető bevétel terhére rendeletében szabályozhatja az anyagi érdekeltség feltételeit.
 

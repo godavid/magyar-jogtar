@@ -19,7 +19,7 @@ a szabályozott ingatlanbefektetési társaságokról
 
 3. § (1) Szabályozott ingatlanbefektetési társaság az a nyilvánosan működő részvénytársaság, amely megfelel az e törvényben meghatározott valamennyi feltételnek, és amelyet az állami adóhatóság – a társaság bejelentése alapján – e törvény hatálya alá tartozó szabályozott ingatlanbefektetési társaságként nyilvántartásba vett.
 
-(2) A szabályozott ingatlanbefektetési társaságra a gazdasági társaságokról szóló 2006. évi IV. törvény és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A szabályozott ingatlanbefektetési társaságra a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) gazdasági társaságokra vonatkozó rendelkezéseit és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) Szabályozott ingatlanbefektetési társaság az a nyilvánosan működő részvénytársaság lehet, amely
 
@@ -50,7 +50,7 @@ tevékenységet végez;
 
 - a) amely a rá irányadó előírások szerint osztalékként kifizethető eredményének 100%-át kifizeti osztalékként a számviteli beszámoló jóváhagyását követő 15 napon belül, és
 - b) amelynek a számviteli beszámolójában kimutatott, visszafizetési kötelezettséget keletkeztető idegen forrásai nem haladják meg a számviteli beszámolójában kimutatott ingatlanok értékének 70%-át, és
-- c) amely nem köt olyan szerződést, nem vállal olyan egyoldalú kötelezettséget, amely az osztalék kifizetését korlátozza, vagy amely az ingatlanportfólióba tartozó ingatlanra vonatkozóan más személy részére vételi jogot biztosít, és
+- c) amely nem köt olyan szerződést, nem vállal olyan egyoldalú kötelezettséget, amely az osztalék kifizetését korlátozza, és
 - d) amely az ingatlanok 10. § (1) bekezdése szerinti piaci értéke és könyv szerinti értéke közötti különbözetét könyvviteli nyilvántartásában az alkalmazott számviteli politikája szerint, de legalább negyedévente elszámolja [a belföldi projekttársaság az elszámolás során köteles alkalmazni a számviteli törvény 57. § (3) bekezdésében, valamint 58. és 59. §-ában meghatározott, a piaci értékelésre és az értékhelyesbítésre vonatkozó előírásokat], és
 - e) amely értelemszerűen alkalmazza a 13. § (1)–(2) bekezdéseit.
 
@@ -88,7 +88,7 @@ tevékenységet végez;
 - e) a szabályozott ingatlanbefektetési elővállalkozás az állami adóhatóság által történő nyilvántartásba vétel üzleti évét követő üzleti év utolsó napjáig nem felel meg a szabályozott ingatlanbefektetési társaságokra vonatkozó valamennyi feltételnek; vagy
 - f) a szabályozott ingatlanbefektetési elővállalkozást az állami adóhatóság szabályozott ingatlanbefektetési társaságként nyilvántartásba veszi.
 
-(4) A szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság a változás bekövetkezésének, illetve a feltétel megszűnésének napjától számított 15 napon belül bejelenti az állami adóhatóságnak, ha a nyilvántartásba vételhez előírt adataiban, vagy a bejelentett projekttársaságok vonatkozásában változás állt be, vagy már nem felel meg a nyilvántartásba vétel feltételeinek, vagy a szabályozott ingatlanbefektetési társaság tevékenységét hat hónapot meghaladóan nem gyakorolja.
+(4) A szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság a változás bekövetkezésének, illetve a feltétel megszűnésének napjától számított 30 napon belül bejelenti az állami adóhatóságnak, ha a nyilvántartásba vételhez előírt adataiban, vagy a bejelentett projekttársaságok vonatkozásában változás állt be, vagy már nem felel meg a nyilvántartásba vétel feltételeinek, vagy a szabályozott ingatlanbefektetési társaság tevékenységét hat hónapot meghaladóan nem gyakorolja.
 
 (5) Az állami adóhatóság ellenőrizheti a nyilvántartásba vett szabályozott ingatlanbefektetési elővállalkozásnak és társaságnak a nyilvántartásba vétel feltételeinek való megfelelését. Az ellenőrzés során az (1) bekezdés h) pont szerinti bűnügyi személyes adatot az érintett igazolja. Az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás és társaság vezető állású személyére vonatkozó (1) bekezdés h) pont szerinti bűnügyi személyes adatot a 6. § (1) bekezdés c) pontjában meghatározott feltétel ellenőrzése céljából, a szabályozott ingatlanbefektetési elővállalkozás és társaság ellenőrzésének befejezéséig, illetve a szabályozott ingatlanbefektetési elővállalkozásnak és társaságnak a (6) bekezdés szerinti nyilvántartásból való törléséig kezelheti.
 

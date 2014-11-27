@@ -1226,7 +1226,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 - n) a fizetési halasztás, részletfizetés iránti kérelmek intézése rendjének módját és technikai feltételeit,
 - o) a vámáru-nyilatkozat ellenőrzés nélküli elfogadásának feltételeit,
 - p) az engedélyezett gazdálkodó státuszra vonatkozó részletes szabályokat,
-- q) a vámigazgatási bírságra vonatkozó részletes szabályokat,
+- q) a vámigazgatási bírságra, a lefoglalásra, az elkobzásra, illetve a megsemmisítésre vonatkozó részletes szabályokat.
 - r) a korrekciós pótlékra vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a vámkódex 97. cikke (2) bekezdésének a) pontjában meghatározott nemzetközi szerződéseket megkösse.

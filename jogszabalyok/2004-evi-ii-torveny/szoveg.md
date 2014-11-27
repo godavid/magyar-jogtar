@@ -883,7 +883,7 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 
 (2) A filmelőállító vagy filmgyártó vállalkozás jogosult a támogatási igazolás kiadására vonatkozó kérelmét naptári hónapok szerinti vagy naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják.
 
-(3) A (2) bekezdésben foglaltak alkalmazása esetén az egy-egy igazolásban szereplő összeg – ugyanazon filmhez a közvetett támogatás forrását biztosító több szervezet részére történő igazolás kiadása esetén az együttes összeg – legfeljebb az igazolás kiadásáig felmerült közvetlen filmgyártási költség 20%-áig terjedhet.
+(3) A (2) bekezdésben foglaltak alkalmazása esetén az egy-egy igazolásban szereplő összeg – ugyanazon filmhez a közvetett támogatás forrását biztosító több szervezet részére történő igazolás kiadása esetén az együttes összeg – legfeljebb az igazolás kiadásáig felmerült közvetlen filmgyártási költség 25%-áig terjedhet.
 
 (4) A 12. § (10) bekezdése szerinti arány teljesülése céljából a Hivatal a (2) bekezdés szerinti esetekben, a filmelőállító, illetve a filmgyártó vállalkozás kérelmére az utolsó pénzügyileg elszámolt időszak után záró elszámolást készít, amelyben figyelembe veszi az elszámolt költségek egészére tekintettel a 12. § (10) bekezdésében foglalt arányok érvényesíthetőségét, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekcióját, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költséget.
 
@@ -1058,6 +1058,14 @@ nem haladhatja meg.
 36/C. § E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 51. §-ával megállapított IV. Fejezetét e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
 36/D. § E törvénynek a fejlesztéspolitikával összefüggő egyes törvények módosításáról szóló 2013. évi CCLI. törvénnyel megállapított 31/F. § (2) bekezdését a magánszemély által 2013. január 1-jét követően megszerzett jövedelmekre kell alkalmazni.
+
+36/E. § (1) A Hivatal a 13. §-ban meghatározott támogatási arányoknak a 31/B. § (5) bekezdés c) pontja és a 31/D. § (5) bekezdése alapján történő ellenőrzése során az ellenőrzéssel érintett filmalkotás támogatásra jogosultságának megállapítására irányuló kérelme Hivatalhoz érkezésének időpontjában hatályban lévő támogatási arányok betartását ellenőrzi.
+
+(2) E törvénynek a Módtv.-nyel módosított 13. § (3) bekezdését a mozgóképszakmai hatósághoz 2014. március 15-ét követően benyújtott kérelemre induló, MNF által támogatott filmalkotások támogatására való jogosultság megállapítására irányuló eljárásokban is kell alkalmazni.
+
+(3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel módosított 31/D. § (3) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény hatálybalépésekor folyamatban lévő költségellenőrzési eljárásokban és támogatási igazolási eljárásokban is kell alkalmazni.
+
+(4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel módosított 31/D. § (4) bekezdését és 31/D. § (6) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény hatálybalépésekor folyamatban lévő záró elszámolásokban is alkalmazni kell.
 
 ### 2. CÍM — Felhatalmazó rendelkezések
 

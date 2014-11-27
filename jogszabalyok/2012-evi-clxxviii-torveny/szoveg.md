@@ -367,7 +367,7 @@ egyes adótörvények és azzal összefüggő egyéb törvények módosításár
 
 (7) A 89. § 2014. január 1-jén lép hatályba.
 
-(8) A 219. §–224. § az európai uniós szinten harmonizált pénzügyi tranzakciós adóra vonatkozó irányelv-javaslat elfogadását követő naptári év első napján lép hatályba.
+(8)
 
 #### 43. A jogalkotásra vonatkozó európai uniós követelményekre történő utalás
 

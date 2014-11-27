@@ -40,7 +40,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 - a)
 - b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, az ellenérték nélkül átvállalt kötelezettség egyéb vagy rendkívüli ráfordításként az adóévi adózás előtti eredmény terhére elszámolt összege,
-- c) az adóalany jogutódlással (átalakulással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet, a (4) bekezdésben meghatározott kivétellel,
+- c) az adóalany jogutódlással (átalakulással, egyesüléssel, szétválással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet, a (4) bekezdésben meghatározott kivétellel,
 - d) a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, figyelemmel a (12) bekezdésben foglaltakra, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
 - e) a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, figyelemmel a (12) bekezdésben foglaltakra, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
 - f) a forintról devizára, devizáról forintra vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
@@ -51,18 +51,19 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - a) az adózás előtti eredmény javára elszámolt kapott (járó) osztalék, az ellenőrzött külföldi társaságtól kapott osztalék kivételével,
 - b) az adózás előtti eredmény javára elszámolt visszafizetési kötelezettség nélkül kapott támogatás, juttatás, véglegesen átvett pénzeszköz, az ellenérték nélkül átvállalt tartozásnak az adóévi adózás előtti eredmény javára elszámolt összege,
 - c) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség a megszerzett társaság tagjánál (részvényesénél), ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
-- d) a kedvezményezett átalakulásban részt vevő társaság tagjánál (részvényesénél) az átalakulás következtében kivezetett részesedés könyv szerinti értékét meghaladóan a társaság jogutódjában szerzett részesedés bekerülési értékeként az adóévben elszámolt bevétel, ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett átalakulás alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
+- d) a kedvezményezett átalakulásban részt vevő társaság tagjánál (részvényesénél) az átalakulás, egyesülés, szétválás következtében kivezetett részesedés könyv szerinti értékét meghaladóan a társaság jogutódjában szerzett részesedés bekerülési értékeként az adóévben elszámolt bevétel, ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett átalakulás alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
 - e) kedvezményezett eszközátruházás esetén az átruházó társaságnál – választása szerint, az átvevő társasággal írásban kötött szerződés alapján, az (5) bekezdésben meghatározott feltételekkel – az önálló szervezeti egység átruházása alapján elszámolt bevételnek az átadott eszközök könyv szerinti értékét meghaladó része,
 - f) a forintról devizára, devizáról forintra vagy devizáról más devizára való áttérés következtében az eredménytartalék csökkentéseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
-- g) az adóellenőrzés, önellenőrzés során megállapított, adóévi bevételként, vagy aktivált saját teljesítmény növeléseként vagy adóévi költség, ráfordítás csökkenéseként elszámolt összeg.
+- g) az adóellenőrzés, önellenőrzés során megállapított, adóévi bevételként, vagy aktivált saját teljesítmény növeléseként vagy adóévi költség, ráfordítás csökkenéseként elszámolt összeg,
+- i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol.
 
 (4) Kedvezményezett átalakulás esetén a jogelőd, illetve a jogutód – választása szerint – nem alkalmazza a (2) bekezdés c) pontját, feltéve, hogy a jogutód létesítő okirata tartalmazza a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
 
 (5) A (3) bekezdés e) pont alkalmazásának feltétele, hogy a kedvezményezett eszközátruházás alapjául szolgáló írásbeli szerződés tételesen tartalmazza az átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is), és azoknak az átadás napjára az átruházó társaságnál kimutatott bekerülési értékét, könyv szerinti értékét és számított nyilvántartási értékét, valamint a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
 
-(6) Kedvezményezett átalakulás esetén a jogutód a jogelődtől átvett, kedvezményezett eszközátruházás esetén az átvevő társaság az átruházó társaságtól átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is) figyelembe véve az átalakulást, illetve az eszközátruházást követően a jövedelemadó-alapját úgy határozza meg, mintha az átalakulás, illetve a kedvezményezett eszközátruházás nem történt volna meg. Kedvezményezett átalakulás esetén a jogutód, kedvezményezett eszközátruházás esetén az átvevő társaság az átértékelt, illetve átvett eszközöket és kötelezettségeket elkülönítve tartja nyilván, és e nyilvántartásban feltünteti a jogelődnél az átalakulás napjára, illetve az átruházó társaságnál az átadás napjára kimutatott bekerülési értéket, könyv szerinti értéket, számított nyilvántartási értéket, valamint az eszköz, a kötelezettség alapján általa az átalakulást, illetve az átvételt követően a jövedelemadó-alap módosításaként elszámolt összeget is.
+(6) Kedvezményezett átalakulás esetén a jogutód a jogelődtől átvett, kedvezményezett eszközátruházás esetén az átvevő társaság az átruházó társaságtól átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is) figyelembe véve az átalakulást, egyesülést, szétválást, illetve az eszközátruházást követően a jövedelemadó-alapját úgy határozza meg, mintha az átalakulás, egyesülés, szétválás, illetve a kedvezményezett eszközátruházás nem történt volna meg. Kedvezményezett átalakulás esetén a jogutód, kedvezményezett eszközátruházás esetén az átvevő társaság az átértékelt, illetve átvett eszközöket és kötelezettségeket elkülönítve tartja nyilván, és e nyilvántartásban feltünteti a jogelődnél az átalakulás, egyesülés, szétválás napjára, illetve az átruházó társaságnál az átadás napjára kimutatott bekerülési értéket, könyv szerinti értéket, számított nyilvántartási értéket, valamint az eszköz, a kötelezettség alapján általa az átalakulást, egyesülést, szétválást, illetve az átvételt követően a jövedelemadó-alap módosításaként elszámolt összeget is.
 
-(7) A (4), illetve (5) bekezdésben foglaltak alkalmazásának további feltétele, hogy átalakuláskor a jogelőd (kiválás esetén, továbbá, ha a jogelőd külföldi vállalkozónak nem minősülő külföldi személy, akkor a jogutód), kedvezményezett eszközátruházáskor az átadó, (ha az átadó külföldi vállalkozónak nem minősülő külföldi személy, akkor az átvevő) a választását az átalakulás, illetve az eszközátruházás adóévéről szóló bevallásában bejelenti az adóhatóságnak.
+(7) A (4), illetve (5) bekezdésben foglaltak alkalmazásának további feltétele, hogy átalakuláskor, egyesüléskor, szétváláskor a jogelőd (kiválás esetén, továbbá, ha a jogelőd külföldi vállalkozónak nem minősülő külföldi személy, akkor a jogutód), kedvezményezett eszközátruházáskor az átadó, (ha az átadó külföldi vállalkozónak nem minősülő külföldi személy, akkor az átvevő) a választását az átalakulás, egyesülés, szétválás, illetve az eszközátruházás adóévéről szóló bevallásában bejelenti az adóhatóságnak.
 
 (8) Amennyiben az adóalany kapcsolt vállalkozásával a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 18. §-a alá tartozó jogügyletet köt, úgy az adóalap megállapításkor köteles az abban foglaltakat megfelelően alkalmazni.
 
@@ -78,7 +79,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 7. § (1) A jövedelemadó a pozitív adóalap 31 százaléka.
 
-(2) Az (1) bekezdéstől eltérően a Tao. tv. 22/B. §-a szerint fejlesztési adókedvezményt érvényesíteni jogosult adózó a számított adót – legfeljebb annak 50 százalékáig, és legfeljebb a fejlesztési adókedvezmény érvényesítésére nyitva álló időszakban – csökkentheti a fejlesztési adókedvezmény társasági adóban még nem érvényesített részével. E rendelkezésben meghatározott kedvezmény a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL L 214., 2008. 08. 09., 3–47. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
+(2) Az (1) bekezdéstől eltérően a Tao. tv. 22/B. §-a szerint fejlesztési adókedvezményt érvényesíteni jogosult adózó a számított adót – legfeljebb annak 50 százalékáig, és legfeljebb a fejlesztési adókedvezmény érvényesítésére nyitva álló időszakban – csökkentheti a fejlesztési adókedvezmény társasági adóban még nem érvényesített részével. E rendelkezésben meghatározott kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
 
 (3) Az (1) és (2) bekezdés szerint kiszámított jövedelemadót legfeljebb annak mértékéig csökkenti az üzleti évre (adóévre) bányajáradék címén fizetett (fizetendő) összeg, legfeljebb azonban 1,5 milliárd forint.
 
@@ -95,7 +96,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (4) A könyvvezetés pénznemének évközbeni változtatása a bevallott jövedelemadó-előleget nem érinti.
 
-(5) Az átalakulás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott jövedelemadó-előlegből számított (az átalakulás formájától függően azzal egyező, összesített, megosztott) adóelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig adóelőleget fizetni. Az átalakulás napját követő első adóbevallásában nem vall be adóelőleget kiválás esetén a fennmaradó, beolvadás esetén az átvevő adózó, ha az átalakulás napja az előző adóévi adóbevallás benyújtását megelőzi.
+(5) Az átalakulás, egyesülés, szétválás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott jövedelemadó-előlegből számított (az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott) adóelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig adóelőleget fizetni. Az átalakulás, egyesülés, szétválás napját követő első adóbevallásában nem vall be adóelőleget kiválás esetén a fennmaradó, beolvadás esetén az átvevő adózó, ha az átalakulás, egyesülés, szétválás napja az előző adóévi adóbevallás benyújtását megelőzi.
 
 (6) A jövedelemadó-előleg
 
@@ -104,7 +105,9 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (7) Az adóalany az adóév utolsó hónapjának 20. napjáig bevallja és megfizeti a várható jövedelemadó 90 százalékát. Ez a kötelezettség nem vonatkozik arra az adóalanyra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
 
-(8) Nem kell a (2)–(7) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
+(7a) Az előleg-kiegészítésre kötelezett adóalany a várható fizetendő adó és az adóévre már bevallott előlegek különbözetéről az adóév utolsó hónapjának 20. napjáig bevallást nyújt be és ezzel egyidejűleg tesz eleget az előleg-kiegészítés fizetési kötelezettségének.
+
+(8) Nem kell a (2)–(7a) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
 
 ### Vegyes rendelkezések
 
@@ -245,13 +248,16 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 
 (5) Hatályát veszti a Thtv. 6. § (2) bekezdés b) pontjának harmadik és negyedik mondata, a 10. § b) pontja, valamint a 60. § (2) bekezdés a) pontjában az „[5. § (2)–(3) bekezdések]” szövegrész.
 
-(6) Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
-
-- a) az 1990. július 23-i 90/434/EGK tanácsi irányelv a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről;
-- b) a 2005. február 17-i 2005/19/EK tanácsi irányelv a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról.
+(6) Ez a törvény a következő európai uniós jogi aktusnak való megfelelést szolgálja: a Tanács 2009/133/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, részleges szétválására, eszközátruházására és részesedéscseréjére, valamint az SE-k vagy az SCE-k létesítő okirat szerinti székhelyének a tagállamok közötti áthelyezésére alkalmazandó adóztatás közös rendszeréről (2009. október 19).
 
 (7)
 
 ### Átmeneti rendelkezések
 
 18. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 8. § (1)–(6), (8) bekezdését – e törvény eltérő rendelkezése hiányában – első ízben a 2014. adóévi adókötelezettségre kell alkalmazni.
+
+(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 8. § (7a) bekezdését a 2014. adóévi előleg-kiegészítési kötelezettségre az adózó választása szerint alkalmazza.
+
+(3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 6. § (3) bekezdés i) pontját az adózó a 2014. adóévi adókötelezettségének megállapítása során is alkalmazhatja.
+
+(4) Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felhasználása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó a 2014-ben kezdődő adóév adókötelezettségének megállapítása során választása szerint alkalmazza.

@@ -45,7 +45,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 - a) az adóévet megelőző adóév fizetendő járulékának összege, ha az adóévet megelőző adóév időtartama 12 hónap volt,
 - b) az adóévet megelőző adóév fizetendő járulékának a működés naptári napjai alapján 12 hónapra számított összege minden más esetben.
 
-(5) Az átalakulás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott járulékelőlegből számított (az átalakulás formájától függően azzal egyező, összesített, megosztott) járulékelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig járulékelőleget fizetni. Kiválás esetén a fennmaradó gazdasági társaság e rendelkezés alkalmazásában jogutódnak is minősül.
+(5) Az átalakulás, egyesülés, szétválás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott járulékelőlegből számított (az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott) járulékelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig járulékelőleget fizetni. Kiválás esetén a fennmaradó gazdasági társaság e rendelkezés alkalmazásában jogutódnak is minősül.
 
 (6) Nem kell járulékelőleget bevallania a járulékfizetésre kötelezettnek megszűnésekor, továbbá, ha járulékbevallást a cégbejegyzési eljárás befejezése miatt ad be.
 
