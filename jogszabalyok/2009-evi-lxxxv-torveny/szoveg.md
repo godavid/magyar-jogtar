@@ -105,7 +105,7 @@ vonatkoznak.
   - aa) a szolgáltató cégnevéről és székhelyéről,
   - ab) a szolgáltató – az ügyfél lakóhelye vagy székhelye szerinti EGT-államban székhellyel rendelkező – fióktelepének vagy közvetítőjének címéről,
   - ac) ügyféllel való egyéb kapcsolattartás (ideértve az elektronikus levelezést) címéről, valamint
-  - ad) a szolgáltató cégjegyzékszámáról vagy bírósági nyilvántartásba vételi számáról, és a Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által kiadott tevékenységi engedély számáról, vagy törzskönyvi nyilvántartási számáról;
+  - ad) a szolgáltató cégjegyzékszámáról vagy bírósági nyilvántartásba vételi számáról, és a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által kiadott tevékenységi engedély számáról, vagy törzskönyvi nyilvántartási számáról;
 - b) a szolgáltatásra vonatkozóan:
   - ba) a szolgáltatás lényeges jellemzőiről,
   - bb) azokról az adatokról vagy egyedi azonosítóról, amelyek a fizetési megbízás teljesítéséhez szükségesek,
@@ -430,7 +430,12 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (8) Ha a fogyasztó a (4) bekezdés c) pontja szerint adott naptári hónap 20-áig nyilatkozatot tesz a pénzforgalmi szolgáltatónál, az (1) bekezdés szerinti, díjtól és költségtől mentes készpénzkifizetésre, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvételre a következő naptári hónaptól jogosult.
 
-(9) A fogyasztó új nyilatkozat megtételével más fizetési számlát jelölhet meg. A fogyasztó azt követően tehet új nyilatkozatot, hogy a korábbi nyilatkozatát a pénzforgalmi szolgáltató pénzforgalmi szolgáltatás nyújtására szolgáló helyiségében leadott írásbeli, vagy biztonsági azonosítással ellátott internetes szolgáltató rendszerén keresztül megtett nyilatkozattal visszavonta.
+(9) A nyilatkozat a fogyasztó által a pénzforgalmi szolgáltató pénzforgalmi szolgáltatás nyújtására szolgáló helyiségében leadott írásbeli vagy biztonsági azonosítással ellátott internetes szolgáltató rendszerén (internetbankján) keresztül megtett
+
+- a) visszavonó rendelkezéssel vagy
+- b) a korábbi nyilatkozatában megjelölttől eltérő fizetési számlát megjelölő nyilatkozatával
+
+vonható vissza.
 
 (10) Az a pénzforgalmi szolgáltató, amely a készpénzkifizetés, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel után költséget, díjat azért nem számít fel, mert az ügyfél a (7) és (9) bekezdésben foglaltaknak nem tett eleget vagy a (4) bekezdés c) pontja szerinti nyilatkozatban valótlan tartalmat közölt, jogosult a készpénzkifizetés, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel díját, költségét visszamenőleg egy összegben érvényesíteni.
 

@@ -1066,7 +1066,7 @@ kiadott rendeletben határozza meg.
 
 68. § E törvénynek a kisajátításról szóló 2007. évi CXXIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CLXXXIV. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépését megelőzően jogerőre emelkedett termőföld eredeti állapotba való helyreállítására kötelező határozatok esetében is alkalmazni kell azzal, hogy a 17/A. § (1) bekezdés b) pontjában foglalt határidőt e rendelkezés hatálybalépésétől kell számítani.
 
-69. § A földvédelmi járulékot megfizető személy vagy szervezet a járulék összegének visszafizetése iránti kérelmet 2014. november 30-ig terjesztheti elő abban az esetben, ha az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvény 83. § (4) bekezdésével megállapított 22. § (8) bekezdésében meghatározott 1 éves határidő e rendelkezés hatálybalépéséig már lejárt vagy a hatálybalépésének évében jár le.
+69. §
 
 70. § A Nemzeti Agrárkutatási és Innovációs Központ az Állami Gyümölcs- és Dísznövénytermesztési Kutató-Fejlesztő Közhasznú Nonprofit Kft. által 2013. december 31-ig vezetett Országos Gyümölcs Termőhely Kataszter adatait, így a termőhely azonosító adatait (település, helyrajzi szám, területnagyság), a gyümölcs termőhely ökológiai minősítését és a gyümölcsfajokat, amelyekre a minősítés vonatkozik, 2014. június 30-ig átadja a gyümölcs termőhelyi katasztert vezető szervnek. Az átadott adatok a gyümölcs termőhelyi kataszter részét képezik.
 
