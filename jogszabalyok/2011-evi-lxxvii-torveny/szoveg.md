@@ -207,7 +207,7 @@ vehető figyelembe.
 - b) a világörökségi testületbe tag delegálására jogosult minisztereket, a testület részletes feladatait és működését;
 - c) a világörökségi kezelési terv készítését, annak tartalmi elemeire vonatkozó részletes követelményeket, az érintettekkel történő előzetes egyeztetésének és felülvizsgálatának rendjét;
 - d) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
-- e)
+- e) a világörökségi terület világörökségi kezelési tervét; valamint
 - f)
 
 (2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
