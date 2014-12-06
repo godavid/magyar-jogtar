@@ -4140,6 +4140,21 @@ ha e feltételek fennállása a végrehajtási iratokból nem állapítható meg
 
 303/A. § A 187. §-nak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosításáról szóló 2009. évi XIV. törvénnyel megállapított (1) bekezdés b) pontját az e rendelkezés hatálybalépését követően elkövetett jogszabálysértések esetében kell alkalmazni.
 
+303/B. § (1) A végrehajtási eljárásban a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény (a továbbiakban: 2014. évi XXXVIII. törvény) 17. §-ának szabályait nem kell alkalmazni, ha a végrehajtási eljárásban a végrehajtást kérő
+
+- a) helyi önkormányzat vagy olyan gazdálkodó szervezet, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együtt 100%-os részesedéssel rendelkezik, és
+- b) írásban kötelezettséget vállal arra, hogy amennyiben a végrehajtás alá vont lakóingatlan tulajdonát ő szerezné meg, úgy a lakóingatlan birtokbavételétől számított 2 éven belül
+  - ba) a lakóingatlant felújítja vagy felújíttatja, és
+  - bb) a munkahelyteremtés, munkaerő-megtartás és helyben maradás elősegítése céljából pályázatot ír ki a lakóingatlannak a lakóingatlan fekvése szerinti településen munkát vállaló személy részére az önkormányzat bérbeadásról szóló rendeletében meghatározott feltételek szerinti bérbeadására.
+
+(2) Ha a végrehajtási iratokból nem állapítható meg az (1) bekezdésben foglalt feltételek fennállása, a végrehajtó ennek megállapítása érdekében beterjeszti az iratokat a végrehajtást foganatosító bírósághoz, amely – a szükséges iratok beszerzését követően – végzéssel határoz arról, hogy az (1) bekezdés alkalmazásának van-e helye.
+
+(3) Ha az (1) bekezdés szerinti végrehajtási eljárásban a 2014. évi XXXVIII. törvény 17. §-a már alkalmazásra került, az (1) és (2) bekezdés rendelkezéseinek alkalmazását a végrehajtást kérő vagy az adós a végrehajtónál kérheti. Ha végrehajtási ügy beterjesztésre került a bírósághoz, a végrehajtó a kérelemről tájékoztatja a bíróságot. Ha a végrehajtható okirat a végrehajtónak még nem került megküldésre, a kérelmet a végrehajtást elrendelő bíróságnak, közjegyzőnek kell előterjeszteni.
+
+(4) Ha az (1) bekezdés szerinti végrehajtási eljárásban a lakóingatlan nem a végrehajtást kérő tulajdonába kerül, akkor a végrehajtási eljárásban a továbbiakban a 2014. évi XXXVIII. törvény 17. §-ában foglalt szabályok szerint kell eljárni.
+
+(5) Az e §-ban foglalt szabályokat a 303. § (9) bekezdése szerinti devizakölcsön szerződések esetében kell alkalmazni.
+
 304. § (1) A 303. §-nak a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2014. évi XVII. törvénnyel (a továbbiakban e §-ban: Módtv.) megállapított rendelkezéseit azokban a Módtv. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a kilakoltatás foganatosítására még nem került sor.
 
 (2) Ha a végrehajtó a Módtv. hatálybalépésének napjáig
