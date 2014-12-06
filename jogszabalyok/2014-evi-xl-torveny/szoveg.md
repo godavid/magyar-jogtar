@@ -30,7 +30,7 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) Az elszámolást a szerződésben meghatározott, illetve a (2) bekezdés szerinti kedvezményes időszak lejártát követően a szerződés részévé vált kamat, költség és díj mértékének alapulvételével kell elvégezni.
 
-(4) Az egyoldalú szerződésmódosításból származó túlfizetés összege nem csökkenthető a kamat, költség, díj (3) bekezdés szerint alapul vett mértékének – akár egyoldalú szerződésmódosítás eredményeként – bekövetkezett csökkenésére tekintettel. Ha a csökkentésre jogszabály kötelező előírása alapján került sor, az 5. § (5) és (6) bekezdését alkalmazni kell.
+(4) Az egyoldalú szerződésmódosításból származó túlfizetés összege nem csökkenthető a kamat, költség, díj (3) bekezdés szerint alapul vett mértékének – akár egyoldalú szerződésmódosítás eredményeként – bekövetkezett csökkenésére tekintettel. Ha a csökkentésre jogszabály kötelező előírása alapján, illetve a díj vagy költség csökkentésére a kamat emelésével egyidejűleg került sor, abban a mértékben, amelyben azt a jogszabály előírta, illetve a kamatemelés mellett a díj vagy költség csökkent, az 5. § (5) és (6) bekezdését alkalmazni kell.
 
 (5) Az ÁSZF olyan egyoldalú módosítása, amellyel a pénzügyi intézmény az egyoldalú szerződésmódosításra irányuló semmis kikötést változtatja meg, nem válik a módosítást megelőzően kötött fogyasztói kölcsönszerződés részévé.
 
@@ -40,9 +40,9 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 5. § (1) Ha a szerződéses kikötések semmisége miatt a 3. és a 4. § szerinti elszámolást egyaránt el kell végezni, az árfolyamrésből származó és az egyoldalú szerződésmódosításból származó túlfizetés (a továbbiakban együtt: túlfizetés) elszámolását egyidejűleg és együttesen kell teljesíteni.
 
-(2) A fogyasztó követelését a fogyasztói kölcsönszerződés fennállásának időszakában a Magyar Nemzeti Bank elnökének e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: MNB rendelet) meghatározott módon úgy kell kiszámítani, mintha a 3. és 4. §-ban meghatározott túlfizetéseket a túlfizetés időpontjában előtörlesztésként teljesítették volna (a továbbiakban: fogyasztói követelés).
+(2) A fogyasztó követelését a fogyasztói kölcsönszerződés fennállásának időszakában a Magyar Nemzeti Bank elnökének e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: MNB rendelet) meghatározott módon úgy kell kiszámítani, mintha a 3. és 4. §-ban meghatározott túlfizetéseket a túlfizetés időpontjában – az esedékességnél későbbi időpontban történt túlfizetés esetén a következő esedékesség időpontjában – előtörlesztésként teljesítették volna (a továbbiakban: fogyasztói követelés).
 
-(3) A fogyasztói követelést – a (4) bekezdés kivételével – a polgári jog általános szabályainak megfelelően elsősorban a költségre, azután a kamatra és végül a tőketartozásra kell elszámolni. Ha a fogyasztói követelés a fogyasztó pénzügyi intézménnyel szemben esedékessé vált és lejárt tartozását meghaladja, azt az MNB rendeletében meghatározott módon és időponttal előtörlesztésként kell elszámolni.
+(3) A fogyasztói követelést – a (4) bekezdés kivételével – a polgári jog általános szabályainak megfelelően elsősorban a költségre, azután a kamatra és végül a tőketartozásra kell elszámolni. Ha a fogyasztói követelés a fogyasztó pénzügyi intézménnyel szemben esedékessé vált és lejárt tartozását meghaladja, azt az MNB rendeletében meghatározott módon és időponttal előtörlesztésként kell elszámolni. Az elszámolásra köteles pénzügyi intézmény az e bekezdésben foglalt elszámolási sorrendtől a fogyasztó javára egyoldalúan eltérhet.
 
 (4) Ha a fogyasztói kölcsönszerződés megszűnése a szerződésből eredő követelés teljesítésére irányuló kötelezettség fennmaradása nélkül következett be, a szerződés megszűnését követő tartozatlan fizetések elszámolására a jogalap nélküli gazdagodás szabályait kell alkalmazni, amelynek alapján azokat a jegybanki alapkamattal, devizában történt tartozatlan fizetés esetén pedig az adott devizára irányadó – az MNB rendeletében meghatározott – pénzpiaci kamattal megnövelt összegben kell megtéríteni.
 
@@ -51,6 +51,14 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 (6) Az (5) bekezdés szerinti kedvezménynek minősül minden olyan – szerződésmódosításon, a felek által, egymás közötti viszonyukban alkalmazott gyakorlaton, kötelező jogszabályi rendelkezésen vagy bírósági határozaton alapuló – vagyoni előny, illetve juttatás, amely abból származik, hogy a pénzügyi intézmény a fogyasztó fizetési kötelezettsége fennállása alatt tőkét, kamatot, illetve díjat engedett el, vagy kedvezményes árfolyamot alkalmazott, és ennek következtében a fogyasztó fizetési kötelezettsége a szerződésben eredetileg meghatározott kötelezettséghez képest csökkent. A fogyasztói követelésből levonható kedvezmények elszámolásának módját az MNB rendelet határozza meg.
 
 (7) Az elszámolás részét képezi az új törlesztőrészlet meghatározása.
+
+(8) A túlfizetés fogyasztói követelésként való elszámolása során
+
+- a) a fogyasztói kölcsönszerződésben meghatározott, a kölcsön folyósításával vagy a hitelbírálattal összefüggésben a fogyasztó által megfizetett egyszeri díjat vagy költséget,
+- b) a fogyasztói kölcsönszerződésben meghatározott, a törlesztési periódusokban a fogyasztó által rendszeresen megfizetett díjat vagy költséget,
+- c) előtörlesztés esetén a fogyasztó által megfizetett előtörlesztési díjat kell figyelembe venni.
+
+(9) Ha a fogyasztói kölcsönszerződés megszűnésére ugyanazon pénzügyi intézmény által biztosított hitelkiváltás eredményeként került sor, és a hitelkiváltás céljából kötött fogyasztói kölcsönszerződésből eredően a fogyasztónak a pénzügyi intézménnyel szemben tartozása áll fenn, a fogyasztói követelést a hitelkiváltás céljából kötött fogyasztói kölcsönszerződésből eredően fennálló hitelezői követelés terhére kell elszámolni.
 
 #### 5. Az elszámolással kapcsolatos kötelezettséget érintő egyéb szabályok
 
@@ -62,7 +70,9 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (4) A pénzügyi intézménynek akkor is el kell számolnia a fogyasztóval, ha a fogyasztó állítja és a pénzügyi intézmény nem vitatja, hogy a fogyasztó e törvényből eredő követelése nem évült el, vagy az el nem évülés tényét bíróság jogerős ítélete megállapította.
 
-(5) A fogyasztói követelés elszámolását az e törvényben és az MNB rendeletében meghatározott időpontokkal kell elvégezni.
+(5) A 2014. évi XXXVIII. törvény 1. § (1) bekezdése szerinti deviza alapú fogyasztói kölcsönszerződés és az 1. § (1a) bekezdése szerinti fogyasztói kölcsönszerződés esetén a fogyasztói követelés elszámolását 2015. február 1-i elszámolási fordulónappal kell elvégezni. A 2014. évi XXXVIII. törvény 1. § (1) bekezdése szerinti forint alapú fogyasztói kölcsönszerződés esetén a fogyasztói követelés elszámolását 2015. június 30-i elszámolási fordulónappal kell elvégezni.
+
+(5a) Ha a fogyasztói kölcsönszerződésben a fogyasztó személyében változás következett be, a pénzügyi intézményt az elszámolási kötelezettség az elszámolás időpontjában vele szerződéses viszonyban álló fogyasztóval szemben terheli.
 
 (6) A pénzügyi intézmény elszámolási kötelezettségét nem érinti, ha az elszámolás tárgyát képező fogyasztói kölcsönszerződésből eredő követelésekkel összefüggésben a bíróság jogerős ítéletet hozott, kivéve, ha a jogerős ítélet azt állapította meg, hogy a szerződés egésze érvénytelen, és azt a bíróság nem nyilvánította érvényessé vagy a határozathozatalig terjedő időre hatályossá.
 
@@ -72,17 +82,19 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (9) Ha a végelszámolás vagy a felszámolási eljárás alatt álló pénzügyi intézmény esetében az elszámoláshoz szükséges információk nem állnak teljes körűen rendelkezésre, az elszámolás során az MNB rendeletben meghatározott becslési módszertant kell alkalmazni.
 
-7. § (1) Ha az elszámolásra köteles pénzügyi intézmény a fogyasztóval szembeni követelését a szerződés megszűnését követően követeléskezelőre engedményezte, az elszámolásra köteles pénzügyi intézménynek az 5. § (2) bekezdése szerinti elszámolást mind a szerződés megszűnése időpontjával, mind pedig a követelés engedményezésének időpontjával el kell készítenie.
+7. § (1) Ha az elszámolásra köteles pénzügyi intézmény a fogyasztóval szembeni követelését a szerződés megszűnését követően követeléskezelőre engedményezte, az elszámolásra köteles pénzügyi intézménynek az 5. § (2) bekezdése szerinti elszámolást a követelés engedményezésének időpontjával kell elkészítenie.
 
-(2) Az elszámolásból eredő jogai érvényesítéséhez a fogyasztó igényelheti a követeléskezelőtől, hogy a követeléskezelő a fogyasztóval szemben fennálló követelésével az 5. § (3) bekezdése szerint – a követeléskezelő által a fogyasztónak nyújtott kedvezmények tekintetében az 5. § (5) és (6) bekezdésének értelemszerű alkalmazásával – számoljon el. Az elszámolás során az engedményezés időpontjától – az MNB rendeletében meghatározott módon – a követeléskezelő által alkalmazott kamattal megnövelt összeggel kell figyelembe venni az engedményezés időpontjában fennálló fogyasztói követelést.
+(2) Az elszámolásból eredő jogai érvényesítéséhez a fogyasztó a követeléskezelőtől igényelheti, hogy a követeléskezelő a fogyasztóval szemben fennálló követelésével az 5. § (3) bekezdése szerint – a követeléskezelő vagy a jogelődje által a fogyasztónak nyújtott kedvezmények tekintetében az 5. § (5) és (6) bekezdésének értelemszerű alkalmazásával – számoljon el. Az elszámolás során az engedményezés időpontjától – az MNB rendeletében meghatározott módon – a követeléskezelő által alkalmazott kamattal megnövelt összeggel kell figyelembe venni az engedményezés időpontjában fennálló fogyasztói követelést.
 
-(3) Ha a (2) bekezdés szerinti elszámolás eredményeként a követeléskezelő tartozik a fogyasztónak, annak kifizetésére a követeléskezelő köteles, azonban az így kifizetett összeg megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. A követeléskezelő a követelése összegének az engedményezett követelés vételárához képest bekövetkezett csökkenéséből az őt ért pénzügyi veszteség arányos megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől.
+(3) Ha a (2) bekezdés szerinti elszámolás eredményeként a követeléskezelő tartozik a fogyasztónak, annak kifizetésére a követeléskezelő köteles, azonban az így kifizetett összeg megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. A követeléskezelő a követelése összegének az engedményezett követelés vételárához képest bekövetkezett csökkenéséből az őt ért pénzügyi veszteség arányos megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. Ha a követeléskezelő az engedményezett követelést nem közvetlenül az elszámolásra köteles pénzügyi intézménytől szerezte, a (2) bekezdés szerinti elszámolásban valamennyi fél együttműködik.
 
 (4) E § rendelkezéseit kell alkalmazni abban az esetben is, ha a követeléskezelő követelése teljesítés eredményeképpen szűnt meg.
 
 8. § Az elszámolással kapcsolatos minden költség az elszámolásra köteles pénzügyi intézményt – a 7. § (2) bekezdésében foglalt szabályok alkalmazása esetén az ott meghatározottak tekintetében a követeléskezelőt – terheli. A pénzügyi intézmény az e törvényben meghatározott kötelezettségeinek teljesítéséhez kapcsolódóan külön költséget és díjat nem számolhat fel. A pénzügyi intézmény e törvényben meghatározott kötelezettségeinek teljesítése a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) szerinti egyoldalú szerződésmódosítás alapjául nem szolgálhat.
 
 9. § A fogyasztói kölcsönszerződésekből eredő követelés elévülésének a 2014. évi XXXVIII. törvény 1. § (7) bekezdése szerinti nyugvása az e törvény szerinti elszámolásnak a fogyasztóval való közlése napjáig, de legkésőbb 2015. december 31-ig tart.
+
+9/A. § A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvénytől eltérően az e törvény szerinti elszámolással összefüggésben a jelzálog-hitelintézet a vele összevont alapú felügyelet hatálya alá tartozó pénzügyi intézménytől megvásárolhatja a természetes személlyel szemben fennálló olyan követelést, mely követelés kötelezettjének a jelzálog-hitelintézetjelzáloghitelt nyújtott.
 
 #### 6. Az elszámolás eltérő szabályai a végtörlesztett fogyasztói kölcsönszerződés esetén
 
@@ -106,21 +118,25 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (2) A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény alapján az állam által megtérített mentesített követelésrész 50%-ával megegyező összeg az 5. § (6) bekezdés alkalmazásában kedvezménynek minősül.
 
+(3) Az 5. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyi intézmény a gyűjtőszámlahitelhez kapcsolódóan adott kedvezményt csak azt követően érvényesítheti, hogy a fogyasztói követelést a gyűjtőszámlahitel terhére az (1) bekezdés szerint már nem lehet elszámolni.
+
+#### 8/A. Az elszámolás eltérő szabályai az áthidaló kölcsönnel érintett fogyasztói kölcsönszerződés esetén
+
+12/A. § (1) A lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény alapján az áthidaló kölcsön terhére teljesített törlesztőrészletek tekintetében és azok megfizetésének időszaka alatt az 5. § (3) bekezdését úgy kell alkalmazni, hogy a fogyasztói követelést az esedékessé vált és lejárt tartozások elszámolását, gyűjtőszámlahitel esetén az ennek terhére történő elszámolását követően elsősorban az áthidaló kölcsön, ennek fennmaradó részét pedig azon devizakölcsön terhére kell elszámolni, amelyhez az áthidaló kölcsön kapcsolódik.
+
+(2) A devizában meghatározott fogyasztói követelésnek azt a részét, amely az áthidaló kölcsön terhére számolandó el, az MNB rendeletében meghatározott időpontban érvényes, Magyar Nemzeti Bank által közzétett hivatalos árfolyamon kell forintra átszámítani.
+
 #### 9. Az elszámolási kötelezettség teljesítésének határideje
 
-13. § (1) Ha a fogyasztói kölcsönszerződés vonatkozásában a pénzügyi intézmény nem kezdeményezte a 2014. évi XXXVIII. törvény 8. § (1) bekezdés a) pontja szerinti polgári peres eljárást, az elszámolást 2015. január 15. napja és 2015. január 29. napja között kell a fogyasztónak megküldenie.
+13. § (1) A deviza alapú (devizában nyilvántartott vagy devizában nyújtott és forintban törlesztett) hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés esetén a pénzügyi intézménynek az elszámolást 2015. március 1. napja és 2015. április 30. napja között kell a fogyasztó részére megküldenie. Ha a 2014. évi XXXVIII. törvény alapján indított polgári peres eljárás befejezésére 2015. március 1. napja után kerül sor, az elszámolás megküldésének véghatárideje a polgári peres eljárás befejezésétől számított hatvanadik nap.
 
-(2) Ha a fogyasztói kölcsönszerződés vonatkozásában a pénzügyi intézmény a 2014. évi XXXVIII. törvény 8. § (1) bekezdés a) pontja szerinti polgári peres eljárást kezdeményezett, az elszámolást 2015. február 1. napja és 2015. február 28. napja között kell a fogyasztónak megküldenie. Ha a polgári peres eljárás befejezésére 2014. december 31. napja után kerül sor, az elszámolás megküldésének véghatárideje a polgári peres eljárás befejezésétől számított hatvanadik nap.
+(2) A forint alapú, továbbá deviza alapúnak nem minősülő deviza hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés esetén a pénzügyi intézménynek az elszámolást 2015. augusztus 1. napja és 2015. szeptember 30. napja között kell a fogyasztó részére megküldenie. Ha a pénzügyi intézmény vagy a Felügyelet által e törvény vagy a 2014. évi XXXVIII. törvény alapján indított polgári peres eljárás befejezésére 2015. augusztus 1. napja után kerül sor, az elszámolás megküldésének véghatárideje a polgári peres eljárás befejezésétől számított hatvanadik nap.
 
-(3) Minden más esetben, ha sem a pénzügyi intézmény nem indított 2015. január 12. napjáig keresetet, sem pedig a felügyeleti és fogyasztóvédelmi jogkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) nem indított 2015. február 28. napjáig közérdekű keresetet, az elszámolást 2015. április 16. napja és 2015. április 30. napja között kell a fogyasztónak megküldeni.
+(3) A pénzügyi intézménynek a 10. § (3) bekezdésben meghatározott esetben 2015. november 30-áig kell megküldenie az elszámolást a fogyasztónak.
 
-(4) Ha a (3) bekezdésben említett esetben akár a pénzügyi intézmény, akár a Felügyelet keresetet indít, az elszámolást 2015. augusztus 15. napja és 2015. szeptember 30. napja között kell a fogyasztónak megküldeni. Ha bármelyik polgári peres eljárás befejezésére 2015. július 31. napja után kerül sor, az elszámolás megküldésének a véghatárideje a polgári peres eljárás befejezésétől számított hatvanadik nap.
+(4) A pénzügyi intézménynek a 11. § (2) bekezdésben meghatározott esetben 2016. február 28. napjáig kell az elszámolást a Nemzeti Eszközkezelőnek megküldenie.
 
-(5) A pénzügyi intézménynek a 10. § (3) bekezdésben meghatározott esetben 2015. november 30-áig kell megküldenie az elszámolást a fogyasztónak.
-
-(6) A pénzügyi intézménynek a 11. § (2) bekezdésben meghatározott esetben 2016. február 28. napjáig kell az elszámolást a Nemzeti Eszközkezelőnek megküldenie.
-
-(7) E § alkalmazásában a polgári peres eljárás befejezésének időpontja a bíróság eljárást befejező határozata jogerőre emelkedésének napja, ha felülvizsgálati kérelem előterjesztésére került sor, a felülvizsgálati eljárás során hozott, eljárást befejező határozat közlésének napja.
+(5) E § alkalmazásában a polgári peres eljárás befejezésének időpontja a bíróság eljárást befejező határozata jogerőre emelkedésének napja, ha felülvizsgálati kérelem előterjesztésére került sor, a felülvizsgálati eljárás során hozott, eljárást befejező határozat közlésének napja.
 
 14. § A követeléskezelő a 7. § (2) bekezdésben meghatározott elszámolást a fogyasztó erre irányuló igényének benyújtásától számított 30 napon belül köteles elvégezni.
 
@@ -134,7 +150,16 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) Ha a pénzügyi intézmény valamennyi érintett fogyasztó számára megküldte az elszámolást, ennek tényét 15 napon belül az internetes honlapján közzéteszi és azt egyidejűleg valamennyi bankfiókjában kifüggeszti. Ha a pénzügyi intézménynek a 13. § alapján eltérő időpontokban kell elszámolnia a fogyasztóval, a közzétételt a 13. §-ban meghatározott időpontok szerinti csoportosításban kell megtennie, azt követően, hogy az egyes csoportokban valamennyi elszámolás megtörtént vagy nem kell elszámolni. A közzététel részletes tartalmi és formai követelményeit az MNB rendeletben állapítja meg. Akkor is beáll a pénzügyi intézmény közzétételi kötelezettsége, ha a fogyasztó helyébe lépő örökös személye bizonytalan, ezért számára az elszámolás megküldésére nem került sor, de a többi érintett fogyasztó számára megküldésre került az elszámolás.
 
-17. § (1) Ha e rendelkezés hatálybalépése előtt a fogyasztói kölcsönszerződés teljesítésére irányuló kötelezettség megszűnt, és az elszámolás alapján a pénzügyi intézménynek fizetési kötelezettsége keletkezik a fogyasztó felé, a fogyasztónak be kell jelentenie azt a fizetési számlaszámot, amelyre az elszámolásban szereplő összeg utalását kéri vagy közölnie kell, hogy az összeget a bankfiókban történő készpénzfizetés útján veszi át; a pénzügyi intézménynek erről a fogyasztó részére tájékoztatást kell adnia.
+(4) Ha a pénzügyi intézmény bármely adós, kezes vagy zálogkötelezett részére az elszámolást nem köteles közvetlenül megküldeni, az adós, a kezes vagy a zálogkötelezett kérheti, hogy részére az elszámolás másolatát a pénzügyi intézmény tájékoztatásul küldje meg.
+
+17. § (1) Ha e rendelkezés hatálybalépése előtt a fogyasztói kölcsönszerződés teljesítésére irányuló kötelezettség megszűnt, és az elszámolás alapján a pénzügyi intézménynek fizetési kötelezettsége keletkezik a fogyasztó javára, a fogyasztónak be kell jelentenie azt a fizetési számlaszámot, amelyre az elszámolásban szereplő összeg utalását kéri vagy közölnie kell, hogy az összeget a bankfiókban történő készpénzfizetés útján veszi át. Ha a fogyasztó az elszámolásra köteles pénzügyi intézménynél vagy – ha a fogyasztói kölcsönszerződéssel összefüggésben a fogyasztó adatainak korábbi átadása alapján a pénzügyi intézmény által ismerten – a pénzügyi intézménnyel összevont alapú felügyelet hatálya alá tartozó pénzügyi intézménynél fizetési számlával rendelkezik, a javára fizetendő összeget e fizetési számlán kell jóváírni. Ha a fogyasztó az elszámolásra köteles pénzügyi intézménynél több fizetési számlával rendelkezik, úgy a pénzügyi intézmény a fizetendő összeget a fogyasztó számára legkedvezőbb kondíciókkal vezetett fizetési számlán köteles jóváírni.
+
+(1a) A pénzügyi intézménynek az (1) bekezdés szerinti
+
+- a) átutalás iránt a fizetési számlaszám bejelentésétől számított,
+- b) jóváírás iránt az elszámolás megküldésétől számított
+
+15 napon belül kell intézkednie.
 
 (2) Ha az elszámolás a fogyasztói kölcsönszerződésben, illetve a fogyasztó által bejelentett lakóhelyről „cím nem azonosítható”, „címzett ismeretlen”, „nem kereste”, „átvételt megtagadta”, „elköltözött”, „kézbesítés akadályozott” vagy „bejelentve: meghalt” jelzéssel érkezik vissza vagy a fogyasztó az (1) bekezdésben meghatározott bejelentést 30 napon belül nem teszi meg, a fogyasztót megillető összeget a pénzügyi intézmény elkülönített számlán – a polgári jog kötelmekre vonatkozó általános szabályai szerint elévülő követelésként – kezeli. A pénzügyi intézmény az elkülönített számlán történő kezeléshez kapcsolódóan kezelési költséget nem számíthat fel, és a fogyasztó kamatot nem igényelhet.
 
@@ -146,7 +171,7 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) A tudomásszerzés időpontja
 
-- a) ha „nem kereste” jelzéssel érkezik vissza: a kézbesítés második megkísérlését követő 5. munkanap,
+- a) ha nem kereste jelzéssel érkezik vissza: a kézbesítés megkísérlését követő 10. munkanap,
 - b) ha „átvételt megtagadta” jelzéssel érkezik vissza: a kézbesítés megkísérlésének napja,
 - c) ha „cím nem azonosítható”, „címzett ismeretlen”, „elköltözött”, „kézbesítés akadályozott” vagy „bejelentve: meghalt” jelzéssel érkezik vissza: a 16. § (3) bekezdés szerinti honlapon történő közzétételt követő harmincadik nap.
 
@@ -158,9 +183,11 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (2) Ha a 16. § (3) bekezdés szerinti honlapon történő közzétételre 2015. december 31. napját követő időpontban kerül sor, az (1) bekezdés szerinti panasz legkésőbb a honlapon történő közzétételt követő 60 napon belül terjeszthető elő.
 
-20. § A 18. és 19. § szerinti panasz előterjesztésére és annak elintézésére – a 21. § (1) bekezdésben foglalt eltéréssel – a Hpt. panaszkezelésre vonatkozó szabályait és a panaszkezelésre vonatkozó MNB rendelet szabályait kell alkalmazni.
+20. § A 18. § és 19. § szerinti panasz előterjesztésére és annak elintézésére – a 21. § (1) és (1a) bekezdésben foglalt eltérésekkel – a Hpt. panaszkezelésre vonatkozó rendelkezéseit és a panaszkezelésre vonatkozó MNB rendelet szabályait kell alkalmazni.
 
 21. § (1) A Hpt. 288. § (8) bekezdése nem alkalmazható; a panasz elutasítása esetén a fogyasztónak – ha a panaszban foglaltakat továbbra is fenntartja – a pénzügyi intézmény álláspontjának kézbesítésétől számított 30 napon belül a Pénzügyi Békéltető Testület eljárását kell kezdeményeznie. Ha a kérelem benyújtásában akadályozva volt, akkor az akadály megszűnésétől számított 30 napon belül, de legkésőbb a kézbesítéstől számított 6 hónapon belül kell az eljárást kezdeményezni. Erről a pénzügyi intézmény a válaszában tájékoztatja a fogyasztót, és megadja a Pénzügyi Békéltető Testület levelezési címét.
+
+(1a) A panaszt kizárólag írásban lehet előterjeszteni és azt a pénzügyi intézmény az annak beérkezését követő 60 napon belül köteles megválaszolni.
 
 (2) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB törvény) szerinti Pénzügyi Békéltető Testület eljárására vonatkozó szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
@@ -220,11 +247,11 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) A kérelmező kérelmében csak olyan indokot adhat elő kérelme alátámasztására, melyet már a Pénzügyi Békéltető Testület eljárásában is előadott.
 
-27. § (1) A polgári nemperes eljárás lefolytatására a fogyasztó lakóhelye szerint illetékes törvényszék székhelyén működő járásbíróság illetékes. Belföldi lakóhely hiányában az illetékességet a fogyasztó tartózkodási helye alapozza meg; ha a fogyasztó tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely irányadó, ha pedig ez nem állapítható meg vagy a fogyasztónak belföldön lakóhelye nem is volt, az illetékességet a pénzügyi intézmény székhelye alapítja meg.
+27. § (1) A polgári nemperes eljárás lefolytatására a fogyasztó lakóhelye szerint illetékes törvényszék székhelyén működő járásbíróság – a Fővárosi Törvényszék illetékességi területén a Pesti Központi Kerületi Bíróság – illetékes. Belföldi lakóhely hiányában az illetékességet a fogyasztó tartózkodási helye alapozza meg; ha a fogyasztó tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely irányadó, ha pedig ez nem állapítható meg vagy a fogyasztónak belföldön lakóhelye nem is volt, az illetékességet a pénzügyi intézmény székhelye alapítja meg.
 
 (2) A kérelmet a Pénzügyi Békéltető Testülethez kell benyújtani. A Pénzügyi Békéltető Testület a kérelmet az ügy irataival együtt, a kérelem beérkezésétől számított 8 napon belül a bírósághoz továbbítja.
 
-28. § (1) A polgári nemperes eljárásban a bíróság kizárólag azon iratok és adatok alapján dönt, amelyek a Pénzügyi Békéltető Testület eljárása során rendelkezésre álltak, az eljárásban egyéb bizonyításnak nincs helye.
+28. § (1) A polgári nemperes eljárásban a bíróság – ha az MNB ilyen segédprogramot jóváhagyott – az MNB által jóváhagyott ellenőrző segédprogram alkalmazásával, illetve kizárólag azon iratok és adatok alapján dönt, amelyek a Pénzügyi Békéltető Testület eljárása során rendelkezésre álltak. Az eljárásban egyéb bizonyításnak helye nincs.
 
 (2) A bírósági titkár első fokon önállóan, önálló aláírási joggal eljárhat, érdemi határozatot hozhat a polgári nemperes eljárásban.
 
@@ -290,19 +317,37 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 #### 16. A szerződés érvénytelenségének vagy a szerződés egyes rendelkezései érvénytelenségének (részleges érvénytelenség) megállapítása iránti perekre vonatkozó szabály alkalmazásának kizárása
 
-37. § (1) E törvény hatálya alá tartozó szerződések tekintetében a szerződés érvénytelenségének vagy a szerződés egyes rendelkezései érvénytelenségének (a továbbiakban: részleges érvénytelenség) megállapítását a bíróságtól a fél csak az érvénytelenség következményeinek alkalmazására is kiterjedően kérheti. Ennek hiányában a keresetlevél, illetve a kereset érdemben – eredménytelen hiánypótlási felhívást követően – nem bírálható el. Ha a fél kéri az érvénytelenség vagy a részleges érvénytelenség jogkövetkezményének levonását, meg kell jelölnie, hogy milyen jogkövetkezmény alkalmazását kéri. A jogkövetkezményre vonatkozóan a félnek határozott kérelmet kell előterjesztenie.
+37. § (1) E törvény hatálya alá tartozó szerződések tekintetében a szerződés érvénytelenségének vagy a szerződés egyes rendelkezései érvénytelenségének (a továbbiakban: részleges érvénytelenség) megállapítását – az érvénytelenség okától függetlenül – a bíróságtól a fél csak az érvénytelenség jogkövetkezményeinek – a szerződés érvényessé vagy a határozathozatalig terjedő időre történő hatályossá nyilvánításának – alkalmazására is kiterjedően kérheti. Ennek hiányában a keresetlevél, illetve a kereset érdemben – eredménytelen hiánypótlási felhívást követően – nem bírálható el. Ha a fél az érvénytelenség vagy a részleges érvénytelenség jogkövetkezményének levonását kéri, úgy azt is meg kell jelölnie, hogy a bíróság milyen jogkövetkezményt alkalmazzon. A jogkövetkezmény alkalmazására vonatkozóan a félnek a felek közötti elszámolásra kiterjedő és összegszerűen is megjelölt, határozott kérelmet kell előterjesztenie.
 
-(2) Az (1) bekezdésben foglaltakra figyelemmel a törvény hatálya alá tartozó szerződések tekintetében a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 239/A. § (1) bekezdése alapján, illetve a Polgári Törvénykönyvről szóló 2013. V. törvény 6:108. § (2) bekezdése alapján – ha annak e törvényben foglalt feltételei fennállnak – a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránt indult és folyamatban lévő eljárásokban a keresetlevelet idézés kibocsátása nélkül el kell utasítani vagy az eljárásokat meg kell szüntetni. Nincs helye a keresetlevél idézés kibocsátása nélküli elutasításának vagy az eljárás megszüntetésének, ha a fél a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti kereseti kérelme mellett az eljárásban más kereseti kérelmet is előterjesztett; ebben az esetben úgy kell tekinteni, hogy a megállapítás iránti kereseti kérelmet nem tartja fenn. E szerint kell eljárni a felfüggesztés megszűnését követően folytatott eljárásokban is.
+(2) Az (1) bekezdésben foglaltakra figyelemmel a törvény hatálya alá tartozó szerződések tekintetében a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 239/A. § (1) bekezdése alapján, illetve a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:108. § (2) bekezdése alapján – ha annak e törvényben foglalt feltételei fennállnak – a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránt indult és folyamatban lévő eljárásokban a keresetlevelet idézés kibocsátása nélkül el kell utasítani vagy az eljárásokat meg kell szüntetni. Nincs helye a keresetlevél idézés kibocsátása nélküli elutasításának vagy az eljárás megszüntetésének, ha a fél a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti kereseti kérelme mellett az eljárásban más kereseti kérelmet is előterjesztett; ebben az esetben úgy kell tekinteni, hogy a megállapítás iránti kereseti kérelmet nem tartja fenn. E szerint kell eljárni a felfüggesztés megszűnését követően folytatott eljárásokban is.
 
-(3) Ha a folyamatban lévő eljárásban a keresetlevél idézés kibocsátása nélküli elutasításának már nincs helye, az eljárást meg kell szüntetni, ha a fél a keresetét (viszontkeresetét) a bíróság erre irányuló hiánypótlási felhívásának kézbesítésétől számított 30 napon belül nem változtatja meg, és nem kéri az érvénytelen szerződés érvénytelensége vagy részleges érvénytelensége jogkövetkezményének levonását, továbbá nem jelöli meg, hogy milyen jogkövetkezmény alkalmazását kéri. Nincs helye az eljárás megszüntetésének, ha a fél a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti kereseti kérelme mellett az eljárásban más kereseti kérelmet is előterjesztett; ebben az esetben úgy kell tekinteni, hogy a fél a megállapítás iránti kereseti kérelmet nem tartja fenn.
+(3) Ha a folyamatban lévő eljárásban a keresetlevél idézés kibocsátása nélküli elutasításának már nincs helye, az eljárást meg kell szüntetni, ha a fél a keresetében (viszontkeresetében) a bíróság erre irányuló hiánypótlási felhívásának kézbesítésétől számított 30 napon belül nem kéri az érvénytelen szerződés érvénytelensége vagy részleges érvénytelensége jogkövetkezményének levonását, továbbá nem jelöli meg, hogy milyen jogkövetkezmény alkalmazását kéri. Nincs helye az eljárás megszüntetésének, ha a fél a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti kereseti kérelme mellett az eljárásban más kereseti kérelmet is előterjesztett; ebben az esetben úgy kell tekinteni, hogy a fél a megállapítás iránti kereseti kérelmet nem tartja fenn.
 
 #### 17. A felfüggesztett perekre vonatkozó szabályok
 
-38. § (1) A 2014. évi XXXVIII. törvény 16. § (1) bekezdése alapján külön törvényben meghatározott intézkedésig, de legkésőbb 2014. december 31. napjáig felfüggesztett eljárásokat a bíróság 2014. december 31. napjától külön törvényben meghatározott intézkedésig, de legkésőbb 2015. december 31. napjáig ismételten hivatalból felfüggeszti.
+38. § (1) A 2014. évi XXXVIII. törvény
 
-(2) E rendelkezés hatálybalépését követően a 2014. évi XXXVIII. törvény 16. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az eljárásokat a bíróság a külön törvényben meghatározott intézkedésig, de legkésőbb 2015. december 31. napjáig függeszti fel hivatalból.
+- a) 16. § (1) bekezdése alapján külön törvényben meghatározott intézkedésig, de legkésőbb 2014. december 31. napjáig,
+- b) 16. § (2) bekezdése alapján külön törvényben meghatározott intézkedésig, de legkésőbb 2015. december 31. napjáig
 
-39. § Ha a 2014. évi XXXVIII. törvény 16. §-a alapján felfüggesztett eljárásban a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti keresetet érvényesítenek az eljárást meg kell szüntetni, ha a fél a keresetét (viszontkeresetét) az eljárás folytatásáról szóló tájékoztatás és a hiánypótlásra szóló felhívás kézbesítésétől számított 30 napon belül nem változtatja meg, és nem kéri az érvénytelen szerződés érvénytelensége vagy részleges érvénytelensége jogkövetkezményének levonását, továbbá nem jelöli meg, hogy milyen jogkövetkezmény alkalmazását kéri. Nincs helye az eljárás megszüntetésének, ha a fél a szerződés érvénytelenségének vagy a szerződés egyes rendelkezései érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti kereseti kérelme mellett az eljárásban más kereseti kérelmet is előterjesztett; ebben az esetben úgy kell tekinteni, hogy a fél a megállapítás iránti kereseti kérelmet nem tartja fenn.
+felfüggesztett eljárásokban a pénzügyi intézmény és a fogyasztó közötti felülvizsgált elszámolás bejelentését követő harmincadik napot követően kell az eljárást folytatni, kivéve az (5) bekezdésben meghatározott esetet. A bejelentést a fogyasztó fél ellenfelének kell megtennie. Ha a fogyasztó a felperes, és a keresetlevél az ellenfelének még nem került kézbesítésre, a bejelentési kötelezettség a fogyasztót terheli.
+
+(2) Ha 2014. december 31-ig az eljárás folytatására az (1) bekezdés a) pontja alapján nem kerülhet sor, a felfüggesztés tartama e törvény erejénél fogva a felülvizsgált elszámolás bejelentéséig meghosszabbodik.
+
+(3) Ha 2015. december 31-ig az eljárás folytatására az (1) bekezdés b) pontja alapján nem kerülhet sor, a felfüggesztés tartama e törvény erejénél fogva a felülvizsgált elszámolás bejelentéséig meghosszabbodik.
+
+(4) A (2) és (3) bekezdésben meghatározott esetben a felfüggesztés időtartamának meghosszabbodásáról a feleket nem kell értesíteni, az eljárást a pénzügyi intézmény és a fogyasztó közötti felülvizsgált elszámolás bejelentését követő harmincadik napot követően kell folytatni, kivéve az (5) bekezdésben meghatározott esetet. A bejelentést a fogyasztó fél ellenfelének kell megtennie. Ha a fogyasztó a felperes, és a keresetlevél az ellenfelének még nem került kézbesítésre, a bejelentési kötelezettség a fogyasztót terheli.
+
+(5) Ha az (1), illetve a (4) bekezdés szerint folytatandó felfiggesztett eljárások tárgyát képező fogyasztói kölcsönszerződéssel kapcsolatosan végrehajtási eljárás is indult, és ennek a végrehajtási eljárásnak a folytatására a 41. § és 42. § alapján az (1) bekezdésben, illetve a (4) bekezdésben meghatározott időpontnál előbb sor kerül, akkor az eljárást a végrehajtási eljárás folytatása tényének bejelentését követő harmincadik napot követően folytatni kell. A végrehajtási eljárás folytatása tényét a fogyasztó fél ellenfelének kell bejelentenie, a fogyasztó bejelentheti. Ha a fogyasztó a felperes, és a keresetlevél az ellenfelének még nem került kézbesítésre, a bejelentési kötelezettség a fogyasztót terheli.
+
+(6) Felülvizsgált elszámolásnak minősül az elszámolás, ha
+
+- a) az e törvényben meghatározott időn belül a fogyasztó nem élt panasszal a pénzügyi intézmény felé az elszámolással szemben, vagy nem élt panasszal arra hivatkozással, hogy a pénzügyi intézmény nem számolt el vele,
+- b) az e törvényben meghatározott határidőn belül a fogyasztó nem kezdeményezte a Pénzügyi Békéltető Testület eljárását,
+- c) az e törvényben meghatározott határidőn belül a fogyasztó vagy a pénzügyi intézmény nem kezdeményezte a 23. § (1) bekezdése szerinti nemperes eljárást vagy a 23. § (2) bekezdése szerinti peres eljárást,
+- d) a fogyasztó vagy a pénzügyi intézmény által kezdeményezett 23. § (1) bekezdése szerinti nemperes eljárást vagy a 23. § (2) bekezdése szerinti peres eljárást befejező határozat jogerőre emelkedett.
+
+39. § Ha a 2014. évi XXXVIII. törvény 16. §-a alapján felfüggesztett eljárásban a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti keresetet érvényesítenek, a keresetlevelet idézés kibocsátása nélkül el kell utasítani – vagy ha a keresetlevél idézés kibocsátása nélküli elutasításának már nincs helye – az eljárást meg kell szüntetni, ha a fél a keresetében (viszontkeresetében) az eljárás folytatásáról szóló tájékoztatás és a hiánypótlásra szóló felhívás kézbesítésétől számított 30 napon belül a 37. § (1) bekezdésben részletezett feltételeknek megfelelő módon nem kéri az érvénytelen szerződés érvénytelensége vagy részleges érvénytelensége jogkövetkezményének alkalmazását. Nincs helye az eljárás megszüntetésének, ha a fél a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti kereseti kérelme mellett az eljárásban más kereseti kérelmet is előterjesztett; ebben az esetben úgy kell tekinteni, hogy a fél a megállapítás iránti kereseti kérelmet nem tartja fenn.
 
 40. § (1) Ha a peres felek – a 39. § szerinti per kivételével – legkésőbb az eljárás felfüggesztésének megszűnését követő első tárgyalási napon
 
@@ -321,7 +366,7 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 
 41. § (1) A 2014. évi XXXVIII. törvény 17. §-ában foglalt szabályokat az ott szabályozott végrehajtási eljárásokban a pénzügyi intézmény és a fogyasztó közötti elszámolás adós részére történő megküldésének bejelentését vagy a (3) vagy (4) bekezdés szerinti bejelentést követő harmincadik nap elteltét követően nem kell alkalmazni.
 
-(2) A végrehajtást kérőnek az elszámolás adós részére történő megküldését követő 30 napon belül kell az (1) bekezdés szerinti bejelentést a végrehajtónak – ha a végrehajtható okirat a végrehajtónak még nem került megküldésre a bejelentést a végrehajtást elrendelő bíróságnak, közjegyzőnek – megküldenie, valamint ahhoz mellékelnie kell az elszámolást is, egyúttal meg kell tennie azokat az intézkedéseket, melyeket a bírósági végrehajtásról szóló 1994. évi LIII. évi törvény a végrehajtást kérő részére előír.
+(2) A végrehajtást kérőnek az elszámolás adós részére történő megküldését követő 30 napon belül kell az (1) bekezdés szerinti bejelentést a végrehajtónak – ha a végrehajtható okirat a végrehajtónak még nem került megküldésre a bejelentést a végrehajtást elrendelő bíróságnak, közjegyzőnek – megküldenie, valamint ahhoz mellékelnie kell az elszámolást is, egyúttal meg kell tennie azokat az intézkedéseket, melyeket a bírósági végrehajtásról szóló 1994. évi LIII. törvény a végrehajtást kérő részére előír.
 
 (3) A (2) bekezdés szabályainak alkalmazásával azt is be kell jelenteni, ha a fogyasztói kölcsönszerződés tekintetében e törvény rendelkezései szerint nem kell elszámolni.
 
@@ -329,17 +374,23 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 
 (5) A bírósági végrehajtói díjszabásról szóló 14/1994. (IX. 8.) IM rendelet 16. § (3) bekezdése alkalmazásának az (1) bekezdés szerinti esetben nincs helye.
 
-(6) A végrehajtónak a 2014. évi XXXVIII. évi törvény 17. §-a alapján szünetelő ügyként nyilvántartandó ügyek intézését a (2) bekezdés szerinti bejelentés és melléklete végrehajtóhoz érkezésétől számított 60 napon belül kell megkezdenie.
+(6) A végrehajtónak a 2014. évi XXXVIII. törvény 17. §-a alapján szünetelő ügyként nyilvántartandó ügyek intézését a (2) bekezdés szerinti bejelentés és melléklete végrehajtóhoz érkezésétől számított 60 napon belül kell megkezdenie.
 
 (7) Ha a 2014. évi XXXVIII. törvény 17. §-ában szabályozott végrehajtási eljárásokban a 2014. évi XXXVIII. törvény 17. §-ában foglalt szabályokat az (1) bekezdés alapján már nem kell alkalmazni és az eljárásban az adós részére korábban részletfizetést engedélyeztek, az adósnak a még nem teljesített részleteket – ha kérte a 2014. évi XXXVIII. törvény 17. § (9) bekezdése szerint a 2014. évi XXXVIII. törvény 17. § (3) bekezdésének alkalmazását – a részletfizetés engedélyezésének szabályai szerinti időszakonként kell megfizetnie.
 
 (8) Ha a 2014. évi XXXVIII. törvény 17. §-ában szabályozott végrehajtási eljárásokban a 2014. évi XXXVIII. törvény 17. §-ában foglalt szabályokat az (1) bekezdés alapján már nem kell alkalmazni és az eljárásban az adóssal szemben korábban letiltást alkalmaztak – ha kérte a 2014. évi XXXVIII. törvény 17. § (9) bekezdése szerint a 2014. évi XXXVIII. törvény 17. § (3) bekezdésének alkalmazását –, a levonás folytatása iránt intézkedni kell.
 
-(9) Ha a végrehajtható okirat kiállítása még nem történt meg, és az elszámolás eredményeképpen a végrehajtást kérő követelése a már előterjesztett végrehajtható okirat kiállítása iránti kérelemtől eltér, a végrehajtást kérő köteles az elszámolás eredményének megfelelő tartalmú módosított végrehajtható okirat kiállítása iránti kérelmet – a végrehajtható okirat kiállítása iránti kérelemre vonatkozó szabályok szerint és kellő példányszámban – az elszámolás előterjesztésével egyidejűleg előterjeszteni; avagy ha az elszámolás eredményeképpen követelése már nem áll fenn, akkor a már előterjesztett végrehajtható okirat kiállítása iránti kérelmet köteles visszavonni. Ezek elmulasztása esetén a végrehajtást elrendelő bíróság, közjegyző a végrehajtható okirat kiállítása iránti kérelmet elutasítja. Ha a végrehajtható okirat kiállítása már megtörtént, de annak a végrehajtó részére való megküldésére még nem került sor, a végrehajtást elrendelő bíróság, közjegyző a végrehajtást kérő által előterjesztett elszámolást a végrehajtható okirat mellékleteként a végrehajtónak megküldi.
+(9) Ha az (1) bekezdés szerinti bejelentésnek a végrehajtást elrendelő bírósághoz, közjegyzőhöz való beérkezésekor a végrehajtható okirat kiállítása még nem történt meg, és az elszámolás eredményeképpen a végrehajtást kérő követelése a már előterjesztett végrehajtható okirat kiállítása iránti kérelemtől eltér, a végrehajtást kérő köteles az elszámolás eredményének megfelelő tartalmú módosított végrehajtható okirat kiállítása iránti kérelmet – a végrehajtható okirat kiállítása iránti kérelemre vonatkozó szabályok szerint és kellő példányszámban – az elszámolás előterjesztésével egyidejűleg előterjeszteni; avagy ha az elszámolás eredményeképpen követelése már nem áll fenn, akkor a már előterjesztett végrehajtható okirat kiállítása iránti kérelmet köteles visszavonni. Ezek elmulasztása esetén a végrehajtást elrendelő bíróság, közjegyző a végrehajtható okirat kiállítása iránti kérelmet elutasítja. Ha a végrehajtható okirat kiállítása már megtörtént, de annak a végrehajtó részére való megküldésére még nem került sor, a végrehajtást elrendelő bíróság, közjegyző a végrehajtást kérő által előterjesztett elszámolást a végrehajtható okirat mellékleteként a végrehajtónak megküldi.
 
 (10) Ha végrehajtási ügy beterjesztésre került a bírósághoz, a végrehajtó az (1) bekezdés szerinti bejelentésről tájékoztatja a bíróságot.
 
-(11) A 2014. évi XXXVIII. törvény 17. §-ában szabályozott végrehajtási eljárásokban legkésőbb 2016. december 31. napját követően a 2014. évi XXXVIII. törvény 17. §-ában foglalt szabályokat nem kell alkalmazni, azzal hogy ha eddig az időpontig a végrehajtást kérő nem teszi meg a (2)–(4) bekezdés szerinti bejelentést, a végrehajtás – az e bekezdésben foglalt kivétellel – a bírósági végrehajtásról szóló 1994. LIII. törvény (a továbbiakban: Vht.) 52. § c) pontja alapján szünetel. Ha az adós részére részletfizetést engedélyeztek vagy a letiltás előjegyzését a munkáltató (a járandóságot folyósító szerv) igazolta és más intézkedésre nincs lehetőség vagy nincs szükség, a részletfizetés, illetve a letiltás tekintetében szükséges eljárási cselekmények, intézkedések foganatosíthatók.
+(11) A 2014. évi XXXVIII. törvény 17. §-ában szabályozott végrehajtási eljárásokban legkésőbb 2016. december 31. napját követően a 2014. évi XXXVIII. törvény 17. §-ában foglalt szabályokat nem kell alkalmazni, azzal hogy ha eddig az időpontig a végrehajtást kérő nem teszi meg a (2)–(4) bekezdés szerinti bejelentést, a végrehajtás – az e bekezdésben foglalt kivétellel – a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 52. § c) pontja alapján szünetel. Ha az adós részére részletfizetést engedélyeztek vagy a letiltás előjegyzését a munkáltató (a járandóságot folyósító szerv) igazolta és más intézkedésre nincs lehetőség vagy nincs szükség, a részletfizetés, illetve a letiltás tekintetében szükséges eljárási cselekmények, intézkedések foganatosíthatók.
+
+(12) Ha az (1) bekezdés szerinti bejelentés megküldésekor a végrehajtás elrendelésére már sor került, a végrehajtó munkadíja az elszámolás alapján végrehajtandó főkövetelést, járulékot és költséget magában foglaló együttes összeghez igazodik, ha az így megállapított végrehajtási ügyérték alacsonyabb, mint a végrehajtható okiratban feltüntetett főkövetelést, járulékot és költséget magában foglaló együttes összeg. E bekezdés alkalmazása szempontjából elszámolásnak kell tekinteni azt is, ha a fogyasztónak a végrehajtást kérővel szemben olyan követelése áll fenn, melyet a végrehajtást kérőnek a 17. § (1) bekezdése alapján a fogyasztónak meg kell fizetnie és a végrehajtást kérő a fogyasztó e követelését a végrehajtással érintett követelésbe beszámítja; ha a végrehajtást kérő erről nyilatkozik.
+
+(13) A behajtási jutalék számítása szempontjából nem tekinthető behajtott összegnek az az összeg, amellyel a végrehajtást kérő a végrehajtandó követelést a (12) bekezdés szerinti elszámolással csökkentette.
+
+(14) Ha a végrehajtást kérő a végrehajtandó követelést a (12) bekezdés szerinti elszámolással csökkentette, annak az összegnek a tekintetében, amellyel a végrehajtandó követelés csökkent, a végrehajtót nem illeti meg a Vht. 34. § (5) bekezdésében szerint őt a végrehajtás foganatosításáért megillető összeg.
 
 42. § (1) A Vht. 303. §-ában meghatározott lakóingatlan-kiürítés foganatosítása – a Vht. 182/A. §-ában foglalt rendelkezések figyelembevételével – a pénzügyi intézmény és a fogyasztó közötti elszámolás adós részére történő megküldésének végrehajtó részére történő bejelentését vagy a (2) vagy a (3) bekezdés szerinti bejelentést követő harmincadik napon folytatható, a bejelentésre a 41. § (2) bekezdésének szabályait kell alkalmazni.
 

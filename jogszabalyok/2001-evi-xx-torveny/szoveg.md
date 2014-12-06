@@ -229,7 +229,7 @@ szerezhet.
 
 ### Titoktartás
 
-10/A. § (1) Az MFB Zrt. esetében – az ügyfél személyére, valamint az ügylet összegére vonatkozó adatok kivételével – banktitok minden olyan, az egyes ügyfelekről az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint az MFB Zrt. által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
+10/A. § (1) Az MFB Zrt. esetében – az ügyfél személyére, az ügylet összegére, valamint az arra jogosult pártoknak a működési feltételeiket szolgáló ingatlanok vásárlásához szükséges, külön törvényben szabályozott pénzkölcsön nyújtására vonatkozó szerződések, biztosítéki szerződések, továbbá a kapcsolódó végrehajtási eljárás iratai kivételével – banktitok minden olyan, az egyes ügyfelekről az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint az MFB Zrt. által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
 
 (2) Nem minősül banktitoknak az MFB Zrt. tulajdonában álló, illetőleg a rábízott vagyon körébe tartozó gazdasági társaságok tulajdonlásával, illetve tulajdonosi irányításával összefüggő az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely e társaságok személyére, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi kapcsolataira vonatkozik.
 
@@ -353,7 +353,7 @@ szerezhet.
   - f) a céltársaságnak cégalapítás vagy tőkeemelés végrehajtása útján korlátolt felelősségű társaságban vagy részvénytársaságban történő közvetlen részesedésszerzése finanszírozható, ha az a)–e) pontban foglaltakat közvetlenül a céltársaság részesedésszerzésével érintett korlátolt felelősségű társaság vagy részvénytársaság valósítja meg;
 - 2. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, továbbá a jogszabállyal létrehozott, gazdasági tevékenységet is folytató jogi személy.
 
-22. §
+22. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvénnyel megállapított 10/A. §-ban foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
 
 23. §
 
