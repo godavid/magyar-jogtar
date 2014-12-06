@@ -282,6 +282,8 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 
 18. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel módosított 2/A. § (1) bekezdését a 2012. április 1-jét követően mentesített követelésrészekre lehet alkalmazni.
 
+18/A. § Gyűjtőszámlahitelre vonatkozó új hitelkeretszerződés az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény hatálybalépésének napját követően nem kezdeményezhető.
+
 ### 1. melléklet a 2011. évi LXXV. törvényhez
 
 #### A megyékben és Budapesten negyedévenként alkalmazandó kényszerértékesítési kvóták
