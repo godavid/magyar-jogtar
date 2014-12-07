@@ -162,6 +162,4 @@ közül a fogyasztó számára kedvezőbb árfolyamot alkalmazza.
 
 22. §
 
-23. § Az árfolyamgát törvény a következő 18/A. §-sal egészül ki:
-
-„18/A. § Gyűjtőszámlahitelre vonatkozó új hitelkeretszerződés az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény hatálybalépésének napját követően nem kezdeményezhető.”
+23. §
