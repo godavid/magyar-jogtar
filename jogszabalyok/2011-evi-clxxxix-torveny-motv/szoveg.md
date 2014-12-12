@@ -370,7 +370,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - f) más települési önkormányzatnál képviselő;
 - g) más települési önkormányzatnál polgármester, alpolgármester;
 - h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület –, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
-- i) médiatartalom-szolgáltató természetes személy, továbbá jogi személy, valamint gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
+- i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 
 (2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
 
@@ -683,9 +683,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A polgármester e tisztségéről a képviselő-testülethez intézett írásbeli nyilatkozatával mondhat le, amelyet az alpolgármesternek, ennek hiányában a szervezeti és működési szabályzatban a képviselő-testület összehívására, vezetésére kijelölt képviselőnek adja át, részére juttatja el. A polgármester e tisztsége az általa meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában az írásbeli nyilatkozat átvételének napjával szűnik meg. A lemondás nem vonható vissza. Az írásbeli nyilatkozatot a képviselő-testület következő ülésén ismertetni kell.
 
-70. § (1) A polgármester sorozatos törvénysértő tevékenysége, mulasztása miatt a képviselő-testület – minősített többséggel hozott határozata alapján – keresetet nyújthat be a polgármester ellen a helyi önkormányzat székhelye szerint illetékes törvényszékhez a polgármester tisztségének megszüntetése érdekében. Egyidejűleg kérheti a polgármesternek e tisztségéből történő felfüggesztését is. A döntéshozatalban a polgármester nem vesz részt, de a határozathozatalnál a határozatképesség szempontjából jelenlévőnek kell tekinteni. A bíróság a keresetet soron kívül bírálja el.
+70. § (1) A polgármester sorozatos törvénysértő tevékenysége, mulasztása miatt a képviselő-testület – minősített többséggel hozott határozata alapján – keresetet nyújthat be a polgármester ellen a helyi önkormányzat székhelye szerint illetékes közigazgatási és munkaügyi bírósághoz a polgármester tisztségének megszüntetése érdekében. Egyidejűleg kérheti a polgármesternek e tisztségéből történő felfüggesztését is. A döntéshozatalban a polgármester nem vesz részt, de a határozathozatalnál a határozatképesség szempontjából jelenlévőnek kell tekinteni. A bíróság a keresetet soron kívül bírálja el.
 
-(2) A bírósági eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
+(2) A bírósági eljárás során a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
 
 70/A. § A fővárosi kerületi polgármester megbízatása megszűnik, ha fővárosi közgyűlési képviselői megbízatása megszűnik.
 
