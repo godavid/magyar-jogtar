@@ -166,6 +166,12 @@ terjed ki.
 
 (2) Ha a kormánytisztviselő az Mftvá. hatálybalépésekor kormány-főtanácsadó vagy kormánytanácsadó munkakört tölt be és az általa ellátott feladat olyan minisztériumhoz kerül, amelyben a Kttv. alapján kormány-főtanácsadói vagy kormánytanácsadói munkakör létesítésére nincs lehetőség, az Mftvá. hatálybalépése hónapjának utolsó napjáig ilyen munkakörben alkalmazható. Az új munkáltatói jogkör gyakorlója az ilyen kormánytisztviselőt az ezt követő nappal a Kttv. 125. § (7) bekezdése alapján egyoldalú, írásba foglalt döntésével az államigazgatási szervre vonatkozó szabályok szerint felajánlható másik munkakörbe helyezi át.
 
+19/I. § (1) A Kttv.-nek az egyes jogállási törvények módosításáról szóló 2014. évi LXXXV. törvénnyel megállapított 225/A–225/D. §-át, 225/H–225/K. §-át és a (2) bekezdésben foglalt eltérésekkel a 225/L. §-át a 2014. október 12-én, vagy 2014. október 12. és az egyes jogállási törvények módosításáról szóló 2014. évi LXXXV. törvény hatálybalépése közti időszakban létrejött jogviszonyokra is alkalmazni kell.
+
+(2) A Kttv. 225/L. §-át akként kell alkalmazni, hogy a Kttv. 156. §-át; 157. § (1) és (2) bekezdését, 157. § (3) bekezdés első mondatát és (4) bekezdését; 158. §-át; 159. § (1) bekezdését; 160. § (1) és (2), valamint (4) és (5) bekezdését; 164. §-át és 166. §-át 2015. január 1-jétől kell alkalmazni.
+
+(3) A Kttv.-nek az egyes jogállási törvények módosításáról szóló 2014. évi LXXXV. törvénnyel megállapított 225/E–225/G. §-át 2015. január 1-jétől kell alkalmazni.
+
 #### 2. A közszolgálati tisztviselőkről szóló törvényhez kapcsolódó egyes törvények módosítása
 
 #### 20–34. §
