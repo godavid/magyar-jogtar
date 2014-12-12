@@ -16,7 +16,8 @@ Az erős, de az indokoltnál nem nagyobb, a változásokhoz gyorsan és rugalmas
 - b) a kormányhivatal és a központi hivatal területi, helyi szerve, a megyei, fővárosi kormányhivatal, továbbá a Kormány által intézményfenntartásra kijelölt szerv,
 - c) a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelemi szerv központi és területi szervei (a továbbiakban a)–c) pont együtt: államigazgatási szerv) kormánytisztviselőjének és kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára, továbbá
 - d) a minisztérium közigazgatási államtitkárának és helyettes államtitkárának kormányzati szolgálati jogviszonyára, valamint
-- e) a helyi önkormányzat képviselő-testületének polgármesteri hivatala, közterület-felügyelete, a közös önkormányzati hivatala (a továbbiakban: képviselő-testület hivatala) köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára
+- e) a helyi önkormányzat képviselő-testületének polgármesteri hivatala, közterület-felügyelete, a közös önkormányzati hivatala (a továbbiakban: képviselő-testület hivatala) köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára,
+- f) a polgármesterre, alpolgármesterre a VII/A. Fejezet rendelkezései szerint
 
 terjed ki.
 
@@ -71,7 +72,9 @@ terjed ki.
 - 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés b) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
 - 17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek;
 - 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
-- 19. közszolgálati szabályzat: a közigazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szerv vezetőjének általános munkáltatói szabályozási hatáskörbe tartozó kérdésekben kiadott normatív utasítás;
+- 19. közszolgálati szabályzat:
+  - a) a közigazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szerv vezetőjének általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben kiadott normatív utasítás, vagy
+  - b) ha a közigazgatási szerv hivatali szervezetének vezetője közjogi szervezetszabályozó eszköz kiadására nem jogosult, az e törvényben meghatározott kérdésekben, valamint a hivatali szerv vezetőjének általános munkáltatói szabályozási hatáskörbe tartozó kérdésekben a hivatali szervezet vezetője által egyéb formában kiadott belső, normatív szabályzat;
 - 20. közszolgálati tisztviselő: a kormánytisztviselő, kormányzati ügykezelő, köztisztviselő, közszolgálati ügykezelő;
 - 20a. levonásmentes illetményrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész;
 - 21. Magyar Kormánytisztviselői Kar tagozata: a központi és a területi államigazgatásban foglalkoztatott kormánytisztviselőknek a Magyar Kormánytisztviselői Kar alapszabályában meghatározott résztestületei;
@@ -343,7 +346,7 @@ terjed ki.
 
 (5) A közszolgálati életpálya kidolgozásáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
 
-(6) A közszolgálati életpálya kidolgozásáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
@@ -1187,7 +1190,7 @@ Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a 
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.
 
-(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót a felmentés közlését megelőzően tájékoztatta.
+(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta.
 
 (4) Az (1) bekezdés c) pontja szerinti védelem a fizetés nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki a fizetés nélküli szabadságot utoljára igénybe vette.
 
@@ -1410,6 +1413,12 @@ alakul át.
 
 85. § (1) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó államigazgatási szerv illetékességi területén működik.
 
+(1a) A központi államigazgatási szerv és a fővárosi és megyei kormányhivatal kormánytisztviselője nem lehet
+
+- a) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
+- b) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
+- c) nemzetiségi önkormányzat képviselője.
+
 (2) A kormánytisztviselő további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a kormánytisztviselő munkaköri feladataival közvetlenül összefügg.
 
 (3) A kormánytisztviselő a (2) bekezdésben foglaltaktól eltérően a gyakorolható tevékenység, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélye alapján létesíthet, ha a munkavégzés időtartama részben azonos a kormánytisztviselő beosztás szerinti munkaidejével.
@@ -1522,7 +1531,7 @@ foglalkoztatott kormánytisztviselő számára osztható be.
 
 (5) A munkaszüneti napra vonatkozó beosztási szabályokat kell megfelelően alkalmazni, ha a munkaszüneti nap vasárnapra esik, továbbá a húsvét- és a pünkösdvasárnap tekintetében.
 
-(6) A foglalkoztatáspolitikáért felelős miniszter által évenként kiadott, az általános munkarendben foglalkoztatott munkavállalók munkaidő-beosztásának a munkaszüneti napok miatti változtatását szabályozó rendelet hatálya kiterjed a kormánytisztviselőkre.
+(6) A foglalkoztatáspolitikáért felelős miniszter által évenként kiadott, az általános munkarendben foglalkoztatott munkavállalók munkaidő-beosztásának a munkaszüneti napok miatti változtatását szabályozó rendeletet a kormánytisztviselőkre is alkalmazni kell.
 
 ### A munkaközi szünet és a pihenőidő
 
@@ -1783,7 +1792,7 @@ adja ki, ha az esedékesség éve eltelt.
 
 ### Szülési szabadság, fizetés nélküli szabadság
 
-110. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult.
+110. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
 (2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
 
@@ -2656,7 +2665,7 @@ terjed ki.
 - b) a résztvevő munkáltatójára vonatkozó adatait,
 - c) a továbbképzés teljesítéséhez szükséges adatokat.
 
-183/A. § (1) A Közigazgatási és Igazságügyi Hivatal az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek 6. mellékletben meghatározott adatait a kormánytisztviselők munkavégzésével összefüggésben belépési jogosultságot biztosító igazolványok kibocsátása, nyilvántartása és bevonása céljából kezeli.
+183/A. § (1) Az Igazságügyi Hivatal az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek 6. mellékletben meghatározott adatait a kormánytisztviselők munkavégzésével összefüggésben belépési jogosultságot biztosító igazolványok kibocsátása, nyilvántartása és bevonása céljából kezeli.
 
 (2) A 6. melléklet szerinti adatokat, az abban bekövetkező változásokat, valamint a kormányzati szolgálati jogviszony megszűnésére vagy a kormánytisztviselő tartós távollétére vonatkozó adatokat a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőt alkalmazó államigazgatási szerv hivatali szervezetének vezetője köteles a közszolgálati alapnyilvántartás adatai alapján továbbítani az (1) bekezdésben meghatározott adatkezelő részére.
 
@@ -2688,7 +2697,7 @@ terjed ki.
 
 (4) A (3) bekezdésben meghatározott adatfeldolgozást a személyügyi központ az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer keretén belül látja el.
 
-(5) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (4) bekezdésben meghatározott rendszerben tárolt adatokból.
+(5) A közigazgatási minőségpolitikáért és személyzetpolitikáért és a közszolgálati életpálya kidolgozásáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (4) bekezdésben meghatározott rendszerben tárolt adatokból.
 
 (6) A Kormány által meghatározott államigazgatási szervnél foglalkoztatottak közszolgálati alapnyilvántartására a minisztériumra vonatkozó szabályokat kell alkalmazni.
 
@@ -3002,7 +3011,10 @@ kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével s
 - f) a címadományozásra, a tanácsadói, főtanácsadói munkakörökre (125–128. §) vonatkozó rendelkezéseket,
 - g) vezetői kinevezésre (129. §) vonatkozó rendelkezéseket,
 - h) a teljesítményértékelésre, minősítésre (130. §) vonatkozó rendelkezéseket,
-- i) az illetményre vonatkozó szabályok közül a 131. § (2) és (3) bekezdését és a (7) bekezdését, a 132–142. §-t nem lehet alkalmazni.
+- i) az illetményre vonatkozó szabályok közül a 131. § (2) és (3) bekezdését és a (7) bekezdését, a 132–142. §-t,
+- j) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdését
+
+nem lehet alkalmazni.
 
 (4) A (3) bekezdésben foglaltaktól eltérően központi államigazgatási szervnél foglalkoztatott kormányzati ügykezelőre a 142. § azzal az eltéréssel alkalmazandó, hogy részére megállapítható munkaköri pótlék.
 
@@ -3219,7 +3231,109 @@ munkanapra emelkedik.
 
 (6) A helyettes államtitkár részére a közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter célprémiumot állapíthat meg.
 
-225. § A hivatalvesztést a fegyelmi tanács javaslatára a miniszter vagy mondja ki.
+225. § A hivatalvesztést a fegyelmi tanács javaslatára a miniszter mondja ki.
+
+### VII/A. Fejezet — A POLGÁRMESTER, ALPOLGÁRMESTER FOGLALKOZTATÁSI JOGVISZONYÁRA VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
+
+225/A. § (1) A főállású polgármester foglalkoztatási jogviszonya a képviselő-testület és a polgármester között – a (2) bekezdés b) pontja kivételével – választással létrejövő, sajátos közszolgálati jogviszony. A polgármester tekintetében a képviselő-testület gyakorolja a munkáltatói jogokat.
+
+(2) A főállású polgármester foglalkoztatási jogviszonya
+
+- a) a megválasztásával jön létre, ha főállású polgármesterként választották meg, vagy
+- b) a szervezeti és működési szabályzat módosításával jön létre, ha a képviselő-testület a társadalmi megbízatást – a polgármesterrel egyetértésben – főállásúra változtatja.
+
+225/B. § (1) A főállású polgármesteri foglalkoztatási jogviszonyban töltött időtartam közszolgálati, kormányzati szolgálati, valamint hivatásos szolgálati jogviszonyban töltött időnek és nyugdíjra jogosító szolgálati időnek számít.
+
+(2) A főállású polgármester foglalkoztatási jogviszonya
+
+- a) megszűnik a tisztségének megszűnésével, a tisztség megszűnése napján, továbbá
+- b) a szervezeti és működési szabályzat módosításával szűnik meg, ha a képviselő-testület a főállású foglalkoztatási jogviszonyt – a polgármesterrel egyetértésben – társadalmi megbízatásúra változtatja.
+
+225/C. § (1) A főállású polgármester évi huszonöt munkanap alapszabadságra és tizennégy munkanap pótszabadságra jogosult.
+
+(2) A polgármester előterjesztésére a képviselő-testület minden év február 28-ig jóváhagyja a polgármester szabadságának ütemezését. A szabadságot az ütemezésben foglaltaknak megfelelően kell kiadni, valamint igénybe venni. A polgármester a szabadság igénybevételéről a képviselő-testületet a következő ülésen tájékoztatja. A polgármester a szabadságot az ütemezéstől eltérően csak előre nem látható, rendkívüli esetben, vagy az igénybevételt megelőzően legkésőbb tizenöt nappal megtett előzetes bejelentést követően veheti igénybe.
+
+(3) Minden év január 31-ig a jegyző által vezetett nyilvántartás alapján meg kell állapítani a polgármester előző évben igénybe vett szabadságának mértékét, és a ki nem adott szabadságot a tárgyévi szabadsághoz hozzá kell számítani.
+
+(4) A polgármesternek a szabadságot az esedékesség évében, de legkésőbb a következő év március 31-ig kell igénybe venni vagy kiadni.
+
+(5) A foglalkoztatási jogviszonyban álló alpolgármester szabadságára az (1)–(4) bekezdésben foglaltak vonatkoznak azzal az eltéréssel, hogy a szabadság ütemezését a polgármester hagyja jóvá, és a szabadságot a polgármester adja ki.
+
+225/D. § (1) A polgármestert, ha e tisztségét legalább két évig betöltötte és foglalkoztatási jogviszonya a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 69. § (1) bekezdés a) vagy f) pontja alapján szűnt meg, végkielégítésként háromhavi illetményének megfelelő összegű juttatás illeti meg, amelyet a képviselő-testület további, legfeljebb háromhavi illetménynek megfelelő összeggel kiegészíthet. Ez a juttatás nem illeti meg a polgármestert, ha országgyűlési képviselői, alpolgármesteri vagy polgármesteri foglalkoztatási jogviszonyt létesít. Ha a polgármester a foglalkoztatási jogviszonya megszűnését követő három hónapon belül létesít országgyűlési képviselői, alpolgármesteri vagy polgármesteri foglalkoztatási jogviszonyt, akkor az e bekezdés szerinti juttatás időarányos részét vissza kell fizetnie, és a kiesett időtartam közszolgálati jogviszonyban töltött időnek számít.
+
+(2) Ha a főállású alpolgármestert a képviselő-testület az alakuló ülésén nem, de az azt követő három hónapon belül megválasztja főállású alpolgármesternek, akkor az (1) bekezdés szerinti juttatás időarányos részét vissza kell fizetnie, és a kiesett időtartam közszolgálati jogviszonyban töltött időnek számít.
+
+### Fegyelmi és kártérítési felelősség
+
+225/E. § (1) Fegyelmi vétséget követ el a polgármester, ha tisztségéből eredő kötelezettségét vétkesen megszegi.
+
+(2) A polgármesterrel szemben kiszabható fegyelmi büntetések:
+
+- a) megrovás vagy
+- b) a polgármester illetményének, tiszteletdíjának legfeljebb 20%-kal történő csökkentése.
+
+(3) Az illetmény, tiszteletdíj csökkentése egy évnél hosszabb időszakra nem vonatkozhat.
+
+225/F. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága, valamint a fővárosi és megyei kormányhivatal vezetője jogosult.
+
+(2) A fegyelmi eljárás során vizsgálatot kell tartani, amelynek lefolytatására a képviselő-testület tagjai közül háromtagú vizsgálóbizottságot kell megbízni. A száznál kevesebb lakosú községben a fegyelmi vizsgálatot a képviselő-testület folytatja le.
+
+(3) A vizsgálóbizottság a megbízását követő harminc napon belül köteles lefolytatni a vizsgálatot, ennek keretében meghallgatja a polgármestert. A vizsgálóbizottság a vizsgálat lezárását követő nyolc napon belül elkészíti a jelentését, és a vizsgálóbizottság elnöke soron kívül, a jelentés elkészítését követő tizenöt napon belüli időpontra – a jelentés egyidejű megküldésével – összehívja a képviselő-testület ülését. A képviselő-testület a jelentés alapján a vizsgálóbizottság elnöke által összehívott ülésen, de legkésőbb az azt követő nyolc napon belül érdemben dönt a polgármester fegyelmi ügyében. E napirend tárgyalásának levezetésére a képviselő-testület a tagjai sorából elnököt választ.
+
+(4) A polgármester tisztsége a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül – a felfüggesztés megszüntetése iránt – eljárást kezdeményezhet a közigazgatási és munkaügyi bíróságnál. A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fenntartásáról vagy megszüntetéséről. A bíróság határozata ellen külön fellebbezésnek nincs helye.
+
+225/G. § (1) Szándékos károkozás esetén a polgármester a teljes kárt köteles megtéríteni.
+
+(2) Gondatlan károkozás esetén a polgármester kéthavi illetménye vagy tiszteletdíja erejéig felel.
+
+(3) Négyhavi illetménye vagy tiszteletdíja erejéig felelős a polgármester, ha
+
+- a) a gazdálkodásra vonatkozó szabályok súlyos megsértésével okozott kárt,
+- b) az ellenőrzési kötelezettség elmulasztásával vagy hiányos teljesítésével okozott kárt,
+- c) hatósági intézkedés során a jogszabályok megsértésével okozott kárt, vagy
+- d) a kár olyan jogszabályba ütköző utasítása teljesítéséből keletkezett, amelynek következményeire az utasított előzőleg felhívta a figyelmét.
+
+### Egyéb rendelkezések
+
+225/H. § (1) A képviselő-testület határozatával jutalmat állapíthat meg a polgármesternek meghatározott időszakban végzett munkája értékelése alapján. A jutalom évi mértéke nem haladhatja meg a polgármestert megillető illetmény vagy tiszteletdíj hathavi összegét.
+
+(2) Ha a polgármesteri tisztség év közben keletkezik vagy szűnik meg, az (1) bekezdésben meghatározott jutalom időarányos része állapítható meg.
+
+225/I. § (1) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá.
+
+(2) A 225/D. § (1) bekezdése szerinti juttatás összege akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén az új polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, és a munkaköri átadás megtörtént. Vita esetén az érintett a közigazgatási és munkaügyi bírósághoz fordulhat.
+
+225/J. § (1) A képviselő-testület a polgármester foglalkoztatási jogviszonyával, fegyelmi és kártérítési felelősségének megállapításával kapcsolatos hatáskörét nem ruházhatja át.
+
+(2) Az alpolgármester tekintetében a polgármester gyakorolja az egyéb munkáltatói jogokat.
+
+(3) A jegyző kezeli a polgármester személyi anyagát, továbbá ellátja a foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat.
+
+225/K. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren az alpolgármestert, a megyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester-helyettest is érteni kell.
+
+(2) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási és munkaügyi bírósághoz fordulhat.
+
+(3) A polgármester a munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül, egyéb esetekben az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
+
+(4) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+
+(5) A társadalmi megbízatású polgármester nem jogosult jubileumi jutalomra, napidíjra, valamint az egyéb juttatásokra.
+
+(6) Ahol jogszabály munkaviszonyt említ, ott – eltérő rendelkezés hiányában – a foglalkoztatási jogviszonyt is érteni kell.
+
+(7) A polgármester illetménye, tiszteletdíja és egyéb juttatása közérdekű adat.
+
+225/L. § (1) A polgármesteri foglalkoztatási jogviszonyra megfelelően alkalmazni kell a 3. § (4) bekezdését, a 6. § 1., 10., 11., 16., 17., 18., 20a., 23., 25., 26., 31a. pontját; a 9. § (1)–(3) bekezdését; a 10–12 §-t; a 13. § (2) bekezdését; a 15. §-t; a 17. §-t; a 19. §-t; a 20. § (3) és (4) bekezdését; a 21-24. §-t; a 25. § (1) bekezdés első mondatát, (3) és (4), valamint (6) bekezdését; a 74. §-át; a 75. § (1) bekezdés a)–b) és f)–h) és k) pontját, (3) és (4) bekezdését; a 76. § (1) bekezdését; a 79. §-t; a 89. § (1) bekezdését; a 93. § (1) és (2) bekezdését; a 94. § (1) bekezdését; a 95. § (1) és (2), valamint (4) bekezdését; a 96. § (1) bekezdését; a 99. §-t; a 100. § (2) bekezdését; a 104. § (2), (6) és (7) bekezdését, a 106. § (1) és (2) bekezdését, a 107. §-t, a 109–112. §-t; a 113. § (1) és (2) bekezdését; a 114. §-t; a 131. § (1) bekezdését; a 132. §-t; a 141. § (1)–(9) bekezdését; a 144. § (3) bekezdés a) és b), valamint a d) pontját és (4) bekezdését; a 145. §-t; a 146. § (1) és (3)–(7) bekezdését; a 147–149/A. §-t; a 150–153/A. §-t; a 156. §-t; a 157. § (1) és (2) bekezdését, a (3) bekezdés első mondatát és (4) bekezdését; a 158. §-t; a 159. § (1) bekezdését; a 160. § (1) és (2), valamint (4) és (5) bekezdését; a 164. §-t, a 166–175. §-t; a 176. § (1) bekezdését; a 177. § (1) bekezdését; a 184. § (2) és (3) bekezdését; a 189. §-t; a 192. §-t; a 224. §-t; valamint a 237. §-t.
+
+(2) A polgármester foglalkoztatási jogviszonyára az alábbi rendelkezéseket a következő eltérésekkel kell alkalmazni:
+
+- a) a 18. § (1) bekezdést azzal, hogy a polgármester a munkavégzéssel összefüggő jognyilatkozatát csak személyesen teheti meg,
+- b) a 143. §-t azzal, hogy az (1) bekezdésben „az e törvény 131–142. §-a alapján” szövegrész nem alkalmazható,
+- c) a 158. §-t azzal, hogy a (2) bekezdés szerint a fegyelmi eljárást a képviselő-testület szünteti meg.
+
+(3) A felsőfokú iskolai végzettségű, foglalkoztatási jogviszonyban álló polgármester esetében a 118. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a polgármester – megválasztását követően legalább egy év foglalkoztatási jogviszonyban töltött idő után – közigazgatási alapvizsgát tehet.
+
+(4) A polgármester személyi alapnyilvántartása a 2. melléklet 1/A. pontjában, IV. pont 1. és 6–7. alpontjában, V. pont 1–2. és 8. alpontjában, VIII. pont 1. alpontjában, a IX. pont 1. alpontjában és a X. pont 1. alpontjában meghatározott adatokat tartalmazza.
 
 ## NEGYEDIK RÉSZ — KÖZSZOLGÁLATI JOGVISZONYBAN ÁLLÓK
 
@@ -3239,7 +3353,8 @@ munkanapra emelkedik.
 - b) a Magyar Kormánytisztviselői Karra vonatkozó rendelkezések (28–35. §),
 - c) a rendelkezési állományú katona továbbfoglalkoztatására vonatkozó rendelkezések (41/A–B. §)
 - d) a kormányzati érdekből történő kirendelés (55. §),
-- e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §) nem alkalmazható(k).
+- e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §),
+- f) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdés nem alkalmazható(k).
 
 (4) Az Országgyűlés Hivatala és az Országgyűlési Őrség szervezeti és működési szabályzata a 80. § (1)–(2) bekezdésben és a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
@@ -3282,6 +3397,14 @@ munkanapra emelkedik.
 231. § (1) A 83. § azzal az eltéréssel alkalmazandó, hogy a hivatásetikai alapelvek részletes tartalmát, valamint az etikai eljárás szabályait a képviselő-testület, illetve a 2. §-ban felsorolt szervek vezetője állapítja meg. Az etikai vétséget elkövető köztisztviselővel szemben kiszabható büntetés a figyelmeztetés vagy a megrovás.
 
 (2) A községi önkormányzat képviselő-testülete – ha jogszabály másként nem rendelkezik – a 84. § (1) bekezdésben foglalt tilalom alól – különösen indokolt esetben – felmentést adhat.
+
+(3) Polgármesteri hivatal vagy közös önkormányzati hivatal köztisztviselője nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja.
+
+(4) Az illetékes helyi önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője nem lehet
+
+- a) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
+- b) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
+- c) nemzetiségi önkormányzat képviselője.
 
 ### Munkaidő, igazgatási szünet
 
@@ -3607,7 +3730,7 @@ munkanapra emelkedik.
 
 (6) A (4) és (5) bekezdés alkalmazása során a jegyző, főjegyző illetménye csökkenhet is.
 
-(7) A kistérségi tárulás székhelytelepülésének jegyzője számára vezetői illetménypótlék állapítható meg, amelynek mértéke nem haladhatja meg az alapilletményének 40%-át.
+(7)
 
 ### Adatkezelés
 
@@ -3706,7 +3829,9 @@ vonatkozó részletes szabályokat;
 
 - a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó szervek foglalkoztatottjainak igazolványára vonatkozó szabályokat,
 - b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait
-- c) a büntetés-végrehajtási szervezetnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+- c) a büntetés-végrehajtási szervezetnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben
+
+rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványára vonatkozó szabályokat rendeletben állapítsa meg.
 
