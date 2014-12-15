@@ -240,7 +240,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 (3) A kereskedő és a közvetítő a hulladékot – ha törvény vagy kormányrendelet eltérően nem rendelkezik – csak kezelés céljából, a kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhatja át, illetve közvetítheti.
 
-(4) A kereskedő és a közvetítő – ha a hulladék a birtokába kerül – az átvett hulladékot a hulladékkezelőnek változatlan formában adja át.
+(4) A kereskedő és a közvetítő – ha a hulladék a birtokába kerül – az átvett hulladékot a hulladékkezelőnek változatlan, vagy legfeljebb előkezelt formában adja át.
 
 (5) Ha a kereskedőnek és a közvetítőnek a hulladék nem kerül a birtokába, a hulladék hulladékkezelőhöz történő eljuttatásáért ugyanúgy felel, mintha a hulladék a birtokába kerülne.
 
@@ -265,7 +265,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 (3) Ha a hasznosítási művelet elvégzéséhez a hulladék más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal való összekeverése szükséges, a hulladékkezelő a hasznosítandó hulladékot csak abban az esetben keverheti össze más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal, ha az összességében legjobb környezeti eredmény másképp nem biztosítható. Ilyen művelet csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezhető.
 
-(4) Hulladékégető műben vagy hulladék-együttégető műben hulladékégetés vagy hulladék-együttégetés akkor engedélyezhető, ha az égetés vagy együttégetés elektromos-, illetve hőenergia termelésre irányul vagy cement-, tégla-, illetve építőipari cserép- és kerámiagyártásra. Hulladékégető műben vagy hulladék-együttégető műben égetni vagy együttégetni csak olyan hulladékot lehet, amely anyagában nem hasznosítható. Veszélyes hulladék kizárólag veszélyes-hulladékégető műben égethető.
+(4) Hulladékégető műben vagy hulladék-együttégető műben hulladékégetés vagy hulladék-együttégetés akkor engedélyezhető, ha az égetés vagy együttégetés elektromos-, illetve hőenergia termelésre irányul vagy cement-, tégla-, illetve építőipari cserép- és kerámiagyártásra. Hulladékégető műben vagy hulladék-együttégető műben égetni vagy együttégetni csak olyan hulladékot lehet, amely anyagában nem hasznosítható.
 
 (5) A hasznosításra kerülő nem veszélyes hulladék a gyűjtést követően a hasznosítás megkezdéséig az előkezeléssel együtt összesen legfeljebb 1 évig tárolható.
 
@@ -650,6 +650,7 @@ kötheti.
 - d) a közszolgáltatói hulladékgazdálkodási tervet,
 - e) a lomtalanítással kapcsolatos adatokat, információkat, valamint
 - f) az alvállalkozóra vonatkozó közérdekű adatokat – ha a közszolgáltató alvállalkozót alkalmaz –
+- g) az általa megkötött hulladékgazdálkodási közszolgáltatási szerződést és annak módosítását
 
 az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáférhetővé teszi.
 
@@ -759,7 +760,7 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 
 #### 28. Nyilvántartás vezetése és adatszolgáltatás
 
-65. § (1) A hulladék termelője, birtokosa, gyűjtője, szállítója, kereskedője, közvetítője és kezelője, valamint a közszolgáltató (a továbbiakban együtt: nyilvántartásra kötelezett) a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott módon és tartalommal, a tevékenységével érintett hulladékról típus szerint a telephelyén nyilvántartást vezet.
+65. § (1) A hulladék termelője, kormányrendeletben meghatározott birtokosa, gyűjtője, szállítója, kereskedője, közvetítője és kezelője, valamint a közszolgáltató (a továbbiakban együtt: nyilvántartásra kötelezett) a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott módon és tartalommal, a tevékenységével érintett hulladékról típus szerint a telephelyén nyilvántartást vezet.
 
 (2) A hulladék gyűjtője, szállítója, kereskedője, közvetítője, kezelője az (1) bekezdésben meghatározott nyilvántartásban a hulladék eredetének nyomon követhetősége céljából, a természetes személytől átvett hulladék esetében
 
@@ -1013,7 +1014,7 @@ részére adhatók át.
 - c) a hulladékgazdálkodási tevékenységet végző telephelyének pontos címét, valamint
 - d) a hulladékgazdálkodási tevékenységgel érintett hulladék fajtáját, jellegét.
 
-(3) A környezetvédelmi hatóság a hulladékgazdálkodási engedéllyel rendelkezők (1) bekezdésben, valamint a nyilvántartásba vettek (2) bekezdésben meghatározott adatairól nyilvántartást vezet, és azokat – a személyes adatnak minősülő adatokat ide nem értve – honlapján ingyenesen és naprakész állapotban közzéteszi.
+(3) A környezetvédelmi hatóság a hulladékgazdálkodási engedéllyel rendelkezők (1) bekezdésben, valamint a nyilvántartásba vettek (2) bekezdésben meghatározott adatairól nyilvántartást vezet.
 
 (4) Az (1) bekezdés b), c), d) és f) pontja kapcsán vezetett nyilvántartás, valamint a (2) bekezdés szerinti nyilvántartás a (2) bekezdés b)–d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -1058,6 +1059,13 @@ részére adhatók át.
 (2) Az (1) bekezdésben meghatározott rendelkezés az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezés.
 
 (3) A fogyasztóvédelmi hatósági eljárásban a fogyasztónak igazolnia kell, hogy a fogyasztóvédelemmel kapcsolatos és az eljárás alapjául szolgáló panaszt az érintett közszolgáltató felé megtette.
+
+### 35a. Hulladékgazdálkodási információk publikus felületen történő közzététele
+
+83/A. § Az Országos Környezetvédelmi Információs Rendszer publikus felületén – a személyes adatok kivételével – közzé kell tenni
+
+- a) a 80. § (1) és (2) bekezdésében foglalt, a hulladékgazdálkodási engedélyben vagy a nyilvántartásban szereplő adatokat – a hulladékgazdálkodási tevékenységekre vonatkozó adatokat tevékenységfajtánként és hulladéktípusonként –,
+- b) a képződő és a kezelt hulladékok mennyiségére vonatkozó, a hulladékkal kapcsolatos adatszolgáltatásból származó összesített adatokat területi bontásban és térképi megjelenítéssel, külön feltüntetve a települési hulladék képződésére és kezelésére vonatkozó összesített adatokat.
 
 #### 36. A hulladékgazdálkodással kapcsolatos szabályok megsértésének jogkövetkezményei
 

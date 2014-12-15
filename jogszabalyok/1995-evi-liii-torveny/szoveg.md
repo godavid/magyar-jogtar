@@ -674,6 +674,10 @@ véleményezésre megküldi.
 
 50. § (1) A környezethasználó köteles a tevékenysége során okozott környezetterhelést, környezet-igénybevételt — jogszabályban meghatározott módon — mérni, vagy technológiai számítással alátámasztani, nyilvántartani, nyilvántartását a hatáskörrel és illetékességgel rendelkező hatóságok rendelkezésére bocsátani, illetőleg adatszolgáltatást teljesíteni.
 
+(1a) A környezethasználó az Információs Rendszerrel kapcsolatos adatszolgáltatási kötelezettségeit – ha kormányrendelet vagy miniszteri rendelet eltérően nem rendelkezik – a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai szerint teljesíti.
+
+(1b) Az (1a) bekezdés szerinti adatszolgáltatás rendjét meghatározó tájékoztatót, továbbá az adatszolgáltatás teljesítéséhez szükséges elektronikus űrlapokat az 51/A. § szerinti publikus felületen közzé kell tenni.
+
 (2) A külön jogszabályban meghatározott környezethasználók kötelesek az általuk végzett tevékenység környezeti hatását felmérni, arról rendszeresen környezeti jelentést készíteni és azt benyújtani a környezetvédelmi igazgatási szerv részére. A környezeti jelentésre vonatkozó részletes szabályokat külön jogszabály határozza meg.
 
 (3) A környezetvédelmi feladatokat ellátó önkormányzati és állami szervek — kormányrendeletben meghatározottak szerint — kötelesek az Információs Rendszer működtetéséhez szükséges és náluk keletkezett adatokat az Információs Rendszer rendelkezésére bocsátani.
@@ -683,6 +687,17 @@ véleményezésre megküldi.
 (2) A miniszter az adatgyűjtés alapján évente jelentést terjeszt a Kormány elé az ország környezeti állapotának alakulásáról.
 
 (3) A lakóhelyi környezet állapotának alakulásáról a települési önkormányzat szükség szerint, de legalább évente tájékoztatja a lakosságot.
+
+51/A. § (1) A környezeti információk nyilvánosság részére való széles körű rendelkezésre bocsátása céljából az Információs Rendszer interneten elérhető, nyilvános információs felülettel (a továbbiakban: publikus felület) rendelkezik. A publikus felület, illetve az itt tárolt adat bárki számára korlátozás- és térítésmentesen hozzáférhető, megismerhető.
+
+(2) A publikus felületen törvényben vagy kormányrendeletben meghatározott,
+
+- a) a környezet és annak elemei állapotával,
+- b) a környezet igénybevettségével, használatával, terhelésével, szennyezettségével, károsodásával,
+- c) a környezetre hatást gyakorló tevékenységekkel és létesítményekkel, és
+- d) a környezet- és természetvédelmi szempontból jelentős objektumokkal kapcsolatos, az Információs Rendszerbe tartozó vagy azokból származtatott környezeti információkat kell közzétenni.
+
+(3) A publikus felületen egyéb, az Információs Rendszer részét képező vagy azon kívül eső, a nyilvánosság tájékoztatása szempontjából releváns környezeti információk vagy más közérdekű adatok is közzé-, illetve elérhetővé tehetők.
 
 ### Környezeti adatok bejegyzése egyéb nyilvántartásokba
 
@@ -838,7 +853,11 @@ véleményezésre megküldi.
 - e) a leghatékonyabb megoldás, az elérhető legjobb technika alkalmazására vonatkozó követelmények érvényesítése;
 - f) a környezet védelmét és javítását, valamint helyreállítását szolgáló intézkedések, programok kidolgozása és végrehajtásának ellenőrzése.
 
-(2)
+(2) A környezetvédelmi hatóságnál – igazgatási jellegű szolgáltatásként – szakmai konzultáció kezdeményezhető. A szakmai konzultáció a környezetvédelmi előírásoknak való megfeleléssel, továbbá egyes tevékenységek, beruházások környezetvédelmi szempontú tervezésével kapcsolatos kérdésekre terjedhet ki.
+
+(3) Nem kezdeményezhető szakmai konzultáció a környezetvédelmi hatóság hatáskörébe tartozó közigazgatási hatósági eljárás vagy előzetes konzultáció alatt, az eljárás vagy előzetes konzultáció tárgyát képező kérdést illetően.
+
+(4) A szakmai konzultáció nem pótolhat közigazgatási hatósági eljárás során hozandó hatósági döntést vagy előzetes konzultáció során adott véleményt, továbbá a környezetvédelmi hatóság véleménye a hatósági eljárás vagy az előzetes konzultáció tekintetében nem rendelkezik kötőerővel. A konzultáció során adott vélemény nem mentesíti a konzultációt kezdeményezőt az e törvény szerinti felelősség alól.
 
 ### Adatkezelés
 
@@ -878,7 +897,9 @@ tarthatók nyilván.
 
 (6) Az adatkezelést végző szervek vezetői a természetes személyek személyes, valamint a jogi személyek üzleti titkot képező adatai védelméért való felelősségük körében kötelesek olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője a rá vonatkozó nyilvántartásba betekinthet, az iratokról másolatot, illetőleg a nyilvántartott adatairól felvilágosítást kérhet.
 
-64/B. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítő a minősítéssel kapcsolatos eljárásai során a minősítési osztály megalapozása, továbbá az ellenőrzések eredményes lefolytatása céljából jogosult az Információs Rendszer adataihoz való közvetlen hozzáférésre és azok kezelésére.
+64/B. § (1) A termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő és szervező állami koordináló szervezet (a továbbiakban: állami koordináló szerv) – az európai uniós hulladékgazdálkodási kötelezettségek teljesítésének elősegítése, a stratégiai tervezés, a hulladékgazdálkodás közhasznú feladatai hatékony ellátásának érdekében –, valamint a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítő (a továbbiakban: minősítő) – a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítéssel kapcsolatos eljárásai során a minősítési osztály megalapozása, az ellenőrzések eredményes lefolytatása céljából – jogosult az Információs Rendszer adataihoz való közvetlen hozzáférésre és azok kezelésére.
+
+(2) Az állami koordináló szerv, valamint a minősítő az Információs Rendszer számára közvetlenül elérhetővé teszi a feladatellátásával összefüggésben keletkezett, a hulladék útjának nyomon követésével, a hulladék kezelésével, valamint a hulladékkezelési közszolgáltatással kapcsolatos adatokat.
 
 ### A környezetvédelmi hatósági együttműködés
 
@@ -1389,7 +1410,7 @@ A KÖRNYEZETVÉDELEMBEN
 - 7. a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák körét, minősítésének általános szabályait;
 - 8. azokat a környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni;
 - 9. a hatásterület meghatározásának szabályait;
-- 10.
+- 10. a publikus felületen kötelezően közzéteendő adatköröket;
 - 11. a környezeti jelentés készítésére kötelezettek körét, valamint a környezeti jelentés készítésére vonatkozó részletes szabályokat;
 - 12. az egységes környezethasználati engedélyezési eljárás részletes szabályait;
 - 13. a környezetvédelmi vezetési és hitelesítési rendszerek működési, környezeti hitelesítési és nyilvántartási kereteit, feltételeit;
@@ -1400,24 +1421,34 @@ A KÖRNYEZETVÉDELEMBEN
 - 18. az előzetes vizsgálati eljárás és az előzetes konzultáció részletes szabályait;
 - 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait, 22. a környezetkárosodás megelőzésének és elhárításának rendjét, 23. a zaj és rezgés elleni védelem szabályait; 24. a levegő védelmével kapcsolatos szabályokat; 25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait; 26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat; 27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat; 28. a felszín alatti vizek védelmének szabályait; 29. a felszíni vizek minősége védelmének szabályait; 30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait; 31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket; 32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait; 33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait; 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket; 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait.
 
-(8) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben állapítsa meg
+(8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
-- a)
-- b) a termékdíj fizetési kötelezettség alá tartozó elhasználódott termékek visszagyűjtésére és megfelelő kezelésére vonatkozó előírásokat;
-- c) a környezetbarát, környezetkímélő megkülönböztetés feltételrendszerét;
-- d)
-- e) a felülvizsgálat dokumentációjának tartalmi követelményeit;
-- f)
-- g) a környezetvédelmi megbízott alkalmazási és képesítési feltételeit;
-- h) a hatósági nyilvántartás [66. § (2) bek.] vezetésének részletes szabályait.
-- i) a légszennyezettség mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint annak mérésére szolgáló mérőhálózat telepítésével, üzemeltetésével és működésével, továbbá a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével összefüggő szabályokat, valamint
-- j) a légszennyező anyagok terjedése, az időjárási tényezőknek a légszennyezettségre gyakorolt hatása, valamint a helyhez kötött légszennyező források kibocsátása mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint a helyhez kötött légszennyező források üzemeltetésének levegőtisztaság-védelmi követelményeivel kapcsolatos szabályokat,
-- k) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölését, valamint az ország területének a légszennyezettség alapján zónákba történő besorolását,
-- l)
-- m) a környezeti elemek – ide nem értve a vizeket – védelmére, a szennyező forrásokra, illetve a környezeti elemek terhelésének, szennyezettségének mérésére, ellenőrzésére, továbbá a környezetet veszélyeztető hatások elleni védelemre vonatkozó – törvényi vagy kormányrendeleti szintű szabályozást nem igénylő, más miniszter szabályozási felhatalmazásába nem utalt – részletes szakmai szabályokat,
-- n) az elérhető legjobb technika alkalmazására vonatkozó szabályokat;
-- o) a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák minősítésének részletes szabályait, valamint a minősítő hatóságok és intézmények kijelölésének szabályait, a minősítés rendjét;
-- p) a környezeti zaj mérséklésének feltételeit megteremtő stratégiai zajtérképek, valamint az erre épülő intézkedési tervek készítésének részletes szabályait.
+- a) a környezetbarát, környezetkímélő megkülönböztetés feltételrendszerét;
+- b) a hatósági nyilvántartás vezetésének részletes szabályait;
+- c) az elérhető legjobb technika alkalmazására vonatkozó szabályokat;
+- d) a környezetvédelmi megbízott alkalmazási és képesítési feltételeit;
+- e) a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák minősítésének részletes szabályait, valamint a minősítő hatóságok és intézmények kijelölésének szabályait, a minősítés rendjét.
+
+(8a) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben, rendeletben állapítsa meg
+
+- a) a légszennyezettség mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint annak mérésére szolgáló mérőhálózat telepítésével, üzemeltetésével és működésével, továbbá a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével összefüggő szabályokat;
+- b) a légszennyező anyagok terjedése, az időjárási tényezőknek a légszennyezettségre gyakorolt hatása, valamint a helyhez kötött légszennyező források kibocsátása mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint a helyhez kötött légszennyező források üzemeltetésének levegőtisztaság-védelmi követelményeivel kapcsolatos szabályokat;
+- c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölését, valamint az ország területének a légszennyezettség alapján zónákba történő besorolását.
+
+(8b) Felhatalmazást kap a miniszter, hogy a vízvédelemért felelős miniszterrel egyetértésben, rendeletben állapítsa meg
+
+- a) az Információs Rendszer alrendszereként működő, a felszín alatti víz és a földtani közeg környezetvédelmi nyilvántartási rendszeréhez kapcsolódó, adatszolgáltatással összefüggő szabályokat;
+- b) a kármentesítési tényfeltárással kapcsolatos részletes szabályokat.
+
+(8c) Felhatalmazást kap a miniszter, hogy – a vízvédelmet érintő kérdésben a vízvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a környezetvédelmi felülvizsgálat dokumentációjának tartalmi követelményeit.
+
+(8d) Felhatalmazást kap a miniszter, hogy a közlekedésért felelős miniszterrel egyetértésben, rendeletben állapítsa meg a környezeti zaj mérséklésének feltételeit megteremtő stratégiai zajtérképek, valamint az erre épülő intézkedési tervek készítésének részletes szabályait.
+
+(8e) Felhatalmazást kap a miniszter, hogy
+
+- a) a levegő és a zaj vonatkozásában az egészségügyért felelős miniszter egyetértésével kiadott,
+- b) a földtani közeg érintettsége esetén a vízvédelemért felelős miniszter egyetértésével kiadott,
+- c) az a) és b) pont alá nem tartozó esetekben önállóan kiadott rendeletben állapítsa meg a környezeti elemek – ide nem értve a vizeket – védelmére, a szennyező forrásokra, illetve a környezeti elemek terhelésének, szennyezettségének mérésére, ellenőrzésére, továbbá a környezetet veszélyeztető hatások elleni védelemre vonatkozó részletes szakmai szabályokat.
 
 (9) A közlekedésért felelős miniszter a mozgó légszennyező források légszennyezőanyag
 
@@ -1435,7 +1466,12 @@ kapcsolatos részletes szabályokat.
 
 (11) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy a vízgazdálkodásért, az agrárpolitikáért, az egészségügyért felelős miniszterrel, valamint a miniszterrel egyetértésben – az ivóvizek, ásvány- és gyógyvizek védelmére vonatkozó területek kivételével – a vízvédelmi szempontból kiemelt védelemben részesítendő felszíni vizeket és azok vízgyűjtő területeinek határait rendeletben állapítsa meg.
 
-(12) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben állapítsa meg a víz mint környezeti elem védelmére, a vizet szennyező forrásokra, illetve a víz terhelésének, szennyezettségének mérésére, ellenőrzésére, továbbá a vizet veszélyeztető hatások elleni védelemre vonatkozó – törvényi vagy kormányrendeleti szintű szabályozást nem igénylő, más miniszter szabályozási felhatalmazásába nem tartozó – részletes szakmai szabályokat.
+(12) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy
+
+- a) földtani közeg érintettsége esetén a miniszterrel egyetértésben,
+- b) halas vizek érintettsége esetén a halgazdálkodásért felelős miniszterrel egyetértésben,
+- c) ivóvíz érintettsége esetén az egészségügyért felelős miniszterrel egyetértésben,
+- d) az a)–c) pont alá nem tartozó esetekben önállóan kiadott rendeletben állapítsa meg a víz, mint környezeti elem védelmére, a vizet szennyező forrásokra, illetve a víz terhelésének, szennyezettségének mérésére, ellenőrzésére, továbbá a vizet veszélyeztető hatások elleni védelemre vonatkozó részletes szakmai szabályokat.
 
 (12a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy az egyedi szennyvízelhelyezés alkalmazási feltételeivel kapcsolatos szabályokat rendeletben állapítsa meg.
 
@@ -1451,9 +1487,13 @@ kapcsolatos részletes szabályokat.
 - a) a külön jogszabály szerinti nitrátérzékeny területeket a MePAR szerinti blokkok szintjén közzétegye, valamint
 - b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program részletes szabályait és az ezzel összefüggő adatszolgáltatás és nyilvántartás rendjét meghatározza.
 
-(15) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterek egyetértésével kiadott rendeletben határozza meg az igénybevételi, kibocsátási és szennyezettségi határértékeket, a vizekre vonatkozó határértékek kivételével.
+(15) Felhatalmazást kap a miniszter, hogy – a vizekre vonatkozó határértékek kivételével – az igénybevételi, kibocsátási és szennyezettségi határértékeket
 
-(15a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy az érdekelt miniszterek egyetértésével kiadott rendeletben határozza meg a vizekre vonatkozó igénybevételi, kibocsátási és szennyezettségi határértékeket.
+- a) levegő és zaj vonatkozásában az egészségügyért felelős miniszter egyetértésével kiadott,
+- b) földtani közeg vonatkozásában a vízvédelemért felelős miniszter egyetértésével kiadott,
+- c) az a) és b)pont alá nem tartozó esetekben önállóan kiadott rendeletben határozza meg.
+
+(15a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy a miniszterrel, az egészségügyért felelős miniszterrel, valamint talajvédelem érintettsége esetén a földügyért felelős miniszterrel egyetértésben kiadott rendeletben határozza meg a vizekre vonatkozó igénybevételi, kibocsátási és szennyezettségi határértékeket.
 
 (16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, továbbá a feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét.
 
