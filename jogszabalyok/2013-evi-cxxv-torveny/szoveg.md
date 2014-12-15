@@ -42,6 +42,8 @@ terjed ki.
 
 3. § (1) A hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezet (a továbbiakban: kérelmező) hulladékgazdálkodási tevékenységét – kérelemre – a szolgáltatás biztonsága és a szolgáltatás színvonala alapján az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: minősítő) minősíti és a kérelmezőt minősítési osztályba sorolja. A minősítő a minősítés során közigazgatási hatósági jogkörben jár el.
 
+(1a) A minősítőt a minősítési eljárásban a céginformáció beszerzése során a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti közigazgatási szervnek kell tekinteni.
+
 (2) A minősítő a kérelmezőt csak a kérelemben megjelölt minősítési osztályba sorolhatja.
 
 (3) Az e törvényben foglalt eljárásokban – az adatváltozás bejelentésére vonatkozó kérelem elbírálása kivételével – az ügyintézési határidő 90 nap.
@@ -185,7 +187,11 @@ olyan változás következik be, amely a kiállított minősítő okirat adatán
 
 #### 9. Bírság alkalmazása
 
-15. § A minősítő a kérelmezőt 50 000 forint összegű bírság megfizetésére kötelezi, ha a kérelmező a 11. § szerinti adatváltozásra vonatkozó bejelentési kötelezettségének határidőben nem tesz eleget.
+15. § (1) Ha a kérelmező a 11. § szerinti adatváltozásra vonatkozó bejelentési kötelezettségének határidőben nem tesz eleget, a minősítő a kérelmezőt 50 000 forint összegű bírság megfizetésére kötelezi, és határidő tűzésével felszólítja az adatváltozás bejelentésére.
+
+(2) Ha a kérelmező az (1) bekezdés szerinti felszólítás ellenére sem tesz eleget határidőben az adatváltozás bejelentésére vonatkozó kötelezettségének, a bírság ismételten kiszabható.
+
+15/A. § A minősítő által beszedett bírság, késedelmi kamat és késedelmi pótlék az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezet javára elszámolandó költségvetési bevételt képez.
 
 #### 10. A minősítő okirat visszavonása
 
@@ -249,6 +255,8 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 (4) A minősítő a (2) bekezdésben foglalt kötelezettségről, továbbá a (3) bekezdés szerinti jogkövetkezményről e törvény hatálybalépése előtt minősítés iránti kérelmet benyújtó ügyfelet e törvény hatálybalépésétől számított 5 napon belül tájékoztatja.
 
 (5) A folyamatban lévő eljárásokat e törvény rendelkezéseinek alkalmazásával kell lefolytatni, különös tekintettel az (1)–(4) bekezdésekben foglalt rendelkezésekre.
+
+22/A. § E törvénynek az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben egyes törvények módosításáról szóló 2014. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépése után indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
 23. § A törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
 
