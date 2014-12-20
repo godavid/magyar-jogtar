@@ -32,7 +32,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 - f) a vízitársulat,
 - g) az alapítvány, a közalapítvány, az egyesület, a köztestület (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), továbbá az egyházi jogi személy, a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
 - h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt is), továbbá a diákotthon,
-- i) európai területi együttműködési csoportosulás,
+- i) az európai területi társulás,
 - j) az egyéni cég,
 - k) az európai kutatási infrastruktúráért felelős konzorcium (ERIC).
 
@@ -433,7 +433,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (9) Az egyházi jogi személy vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
 
-(10) Az európai területi együttműködési csoportosulás, és a foglalkoztatói nyugdíjszolgáltató intézmény az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.
+(10) Az európai területi társulás, és a foglalkoztatói nyugdíjszolgáltató intézmény az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.
 
 (11) Abban az adóévben, amelyben az alapítvány, a közalapítvány, az egyesület, a köztestület az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül, a társasági adó alapja – az (1)–(10) bekezdéstől eltérően – az adózás előtti eredmény, módosítva a 7–8. §-ban, a 16. §-ban, a 18. §-ban és a 28. §-ban, valamint a VII. Fejezetben foglaltakkal.
 
@@ -1807,9 +1807,9 @@ A közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. �
 
 F)
 
-Európai területi együttműködési csoportosulás és foglalkoztatói nyugdíjszolgáltató kedvezményezett tevékenysége
+Európai területi társulás és foglalkoztatói nyugdíjszolgáltató kedvezményezett tevékenysége
 
-Az európai területi együttműködési csoportosulás és a foglalkoztatói nyugdíjszolgáltató intézmény 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+Az európai területi társulás és a foglalkoztatói nyugdíjszolgáltató intézmény 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
 1. az alapszabályban nevesített cél szerinti tevékenység, ideértve az e tevékenységhez kapott támogatást, juttatást is;
 
