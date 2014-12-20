@@ -35,7 +35,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény szerint alapított önkéntes kölcsönös biztosító pénztárt és az átalakulással létrejövő vegyes nyugdíjpénztárt,
 - i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint létrehozott a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapját,
 - j) a Munkavállalói Résztulajdonosi Programról szóló törvény szerint alapított Munkavállalói Résztulajdonosi Program szervezetet,
-- k) az európai területi együttműködési csoportosulásról szóló törvény szerint alapított európai területi társulást,
+- k)
 - l) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek Integrációs Szervezetét és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapját.
 - m) azt a szervezetet, amelynek e törvény szerinti nyilvántartásba vételét törvény elrendeli.
 
