@@ -179,38 +179,8 @@ Az Országgyűlés a gazdasági, társadalmi és területi kohézió megerősít
 
 #### 10. Módosító rendelkezések
 
-28. § A polgári perrendtartásról szóló 1952. évi III. törvény 396. §-ában az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.
-
-29. § Az illetékekről szóló 1990. évi XCIII. törvény
-
-- a) 33. § (2) bekezdés 36. pontjában az „európai területi együttműködési csoportosulásban” szövegrész helyébe az „európai területi társulásban” szöveg,
-- b) az 57. § (1) bekezdés e) pontjában és 102. § (1) bekezdés h) pontjában az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg
-
-lép.
-
-30. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.
-
-31. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 1. § (5a) bekezdés 3. pontjában az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.
-
-32. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény
-
-- a) 2. § (2) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(Belföldi illetőségű adózó a belföldi személyek közül)
-
-„i) az európai területi társulás,”
-
-- b) 9. § (10) bekezdésében és a 6. számú melléklet F) fejezetében az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép,
-- c) 6. számú melléklet F) fejezet címében az „Európai területi együttműködési csoportosulás” szövegrész helyébe az „Európai területi társulás” szöveg lép.
-
-33. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (2) bekezdésében az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.
-
-34. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 21. § 2. pontjában az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.
-
-35. § Az adózás rendjéről szóló 2003. évi XCII. törvény 31. § (5) bekezdésében az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.
+28–35. §
 
 #### 11. Hatályon kívül helyező rendelkezések
 
-36. § Hatályát veszti az európai területi együttműködési csoportosulásról szóló 2007. évi XCIX. törvény.
-
-37. § Hatályát veszti a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 4. § k) pontja.
+36–37. §
