@@ -218,7 +218,11 @@ történő jogtalan behatolás, vagy
 
 (2)
 
-(3) Nem évül el a XIII. és XIV. Fejezetben meghatározott, és az életfogytig tartó szabadságvesztéssel is büntethető bűncselekmények büntethetősége.
+(3) Nem évül el a büntethetősége
+
+- a) a XIII. és XIV. Fejezetben meghatározott bűncselekményeknek,
+- b) az életfogytig tartó szabadságvesztéssel is büntethető bűncselekményeknek, és
+- c) a XIX. Fejezetben meghatározott, ötévi szabadságvesztésnél súlyosabban büntetendő bűncselekményeknek, ha a bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét nem töltötte be.
 
 27. § Az elévülés kezdő napja
 
@@ -229,7 +233,7 @@ történő jogtalan behatolás, vagy
 
 28. § (1) Az elévülést félbeszakítja a bíróságnak, az ügyésznek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.
 
-(1a) Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti, vagy be nem töltötte volna.
+(1a) Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti vagy be nem töltötte volna.
 
 (2) Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban nem volt megállapítható, ismeretlen helyen tartózkodik, vagy kóros elmeállapotú lett.
 
