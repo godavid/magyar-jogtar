@@ -28,13 +28,15 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 
 (2) Ha az állam az (1) bekezdésben biztosított jogának gyakorlását koncessziós szerződéssel átengedi, úgy a dohánytermék kiskereskedelme kizárólag a koncessziós szerződés rendelkezései által biztosított jogosultság (a továbbiakban: dohánytermék-kiskereskedelmi jogosultság) alapján és dohánytermék-kiskereskedelmi engedély (a továbbiakban: engedély) birtokában végezhető.
 
+(3) Az állam – a (2) bekezdésben meghatározottakat, illetve az Európai Unió más tagállamaiban már szabadforgalomba bocsátott dohánytermékeknek kereskedelmi célú birtoklására vonatkozó külön jogszabályi rendelkezéseket nem érintve – előírhatja, hogy dohányterméket a dohánytermék-kiskereskedelmi jogosultság jogosultja csak az e törvényben meghatározott személytől vásárolhat.
+
 ### 2. CÍM — Értelmező rendelkezések
 
 3. § E törvény alkalmazásában
 
 - 1. dohánytermék(ek): cigaretta, szivar, szivarka, pipadohány és más fogyasztási dohány, vagy egyéb, külön jogszabály szerint dohányzásra szánt, dohány alapanyagú termék;
-- 2. dohányterméket kiegészítő termék: olyan áru, amely a dohánytermék fogyasztását közvetlen módon elősegíti, így különösen cigarettahüvely, cigarettapapír, gyújtóeszköz, pipa, dohánylevél-töltő;
-- 3. dohánytermékek kiskereskedelme (a továbbiakban: dohánytermék-kiskereskedelem): üzletszerű gazdasági tevékenység keretében dohánytermék forgalmazása, értékesítése és az ezzel közvetlenül összefüggő szolgáltatások nyújtása a fogyasztók részére; ide nem értve egyrészt a dohánytermék-nagykereskedők egymás közötti jogügyleteit, másrészt a dohánytermék-nagykereskedő, illetve a dohánytermék-kiskereskedő közötti szerződéses jogviszonyokat;
+- 2. dohányterméket kiegészítő termék: olyan áru, amely a dohánytermék fogyasztását közvetlen módon elősegíti, így különösen cigarettahüvely, cigarettapapír, gyújtóeszköz, pipa, dohánylevél-töltő, továbbá az ezen termék használatához, működtetéséhez kapcsolódó termék (alkatrész) is (különösen öngyújtó újratöltő, tűzkő, szivar- és cigarettapiszka);
+- 3. dohánytermékek kiskereskedelme (a továbbiakban: dohánytermék-kiskereskedelem): üzletszerű gazdasági tevékenység keretében dohánytermék forgalmazása, értékesítése és az ezzel közvetlenül összefüggő szolgáltatások nyújtása a fogyasztók részére az e törvényben meghatározott feltételek szerint;
 - 4. dohánytermék-kiskereskedő: az a jogosult, aki koncessziós szerződés alapján a dohánytermékek kiskereskedelmét e törvény rendelkezéseinek megfelelően végezheti;
 - 5. elkülönített hely: az üzletben fenntartott olyan, térben leválasztott helyiségrész, amely a dohányterméknek az üzletben kötött egyéb jogügyletektől elkülönített módon történő értékesítését teszi lehetővé úgy, hogy a dohánytermék az üzletben megforduló fiatalkorú számára sem a dohánytermék fogyasztó számára történő értékesítésekor, sem azt megelőzően, illetve azt követően ne legyen látható;
 - 6. fiatalkorú: minden természetes személy, aki a 18. életévét nem töltötte be;
@@ -54,7 +56,14 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;
 
 - 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
-- 10. dohánytermék-nagykereskedő(k): a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék adóraktár engedélyese (gyártója), a dohánytermék importálója, a bejegyzett kereskedő és a dohánytermék jövedéki engedélyes kereskedője.
+- 10. dohánytermék-nagykereskedő(k): a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék adóraktár engedélyese (gyártója), a dohánytermék importálója, a bejegyzett kereskedő és a dohánytermék jövedéki engedélyes kereskedője;
+- 11. dohány-kiskereskedelmi ellátó: az a személy, amelyet az állam – ha a dohánykiskereskedelem-ellátási tevékenységet maga látja el – a dohánykiskereskedelem-ellátási feladatok elvégzésének céljára gazdasági társaság formájában létrehozott, vagy amellyel – ha e tevékenységet nem maga látja el – e feladatok elvégzésére koncessziós szerződést kötött;
+- 12. dohánykiskereskedelem-ellátás: a dohánytermékek kiskereskedelme körében a dohány-kiskereskedelmi ellátó által végzett gazdasági (szervező) tevékenység, melynek keretében a tevékenység folytatója a dohánytermékeket – a dohánytermék-kiskereskedők folyamatos igénye, megrendelései, illetve az ellátás biztonsága megszervezésének szempontjaira figyelemmel – a dohánytermék-nagykereskedőktől megvásárolja (beszerzi), készleten tartja és raktározza, a dohánytermék-kiskereskedőknek értékesíti és részükre kiszállítja, valamint jogszabályban meghatározott feladatokat lát el;
+- 13. megbízható dohánykereskedő: az a személy, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+  - a) 2005. január 1. óta valamennyi, az állami adóhatóság által nyilvántartott, 500 000 Ft-ot meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
+  - b) 2005. január 1. óta egyik bankszámláján sem volt 500 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene 500 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárás,
+  - c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként húszmillió forint összeget meghaladó bírsággal sújtották volna,
+  - d) legalább 15 éven keresztül folytatott olyan, a dohánytermékek nagykereskedelmi értékesítésére irányuló tevékenységet, amelyhez engedéllyel rendelkezett, és amely engedély alapján a Jöt.-ben meghatározott alábbi személyek valamelyikének minősült dohánytermék vonatkozásában: da) adóraktár engedélyese (gyártó), db) importáló, dc) bejegyzett kereskedő, dd) jövedéki engedélyes kereskedő.
 
 ### II. Fejezet — A DOHÁNYTERMÉK-KISKERESKEDELEMMEL KAPCSOLATOS ALAPVETŐ ÁLLAMI FELADATOK
 
@@ -65,6 +74,10 @@ forgalmazható, és amely üzlethelyiség külső felületére tekintve dohányt
 (2) A dohánytermék-kiskereskedelem szervezésének előmozdítására, a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázat kiírásának, elbírálásának, a koncessziós szerződés megkötésének előkészítésére, valamint a megkötött koncessziós szerződés ellenőrzésére a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot (a továbbiakban: a részvénytársaság) alapít.
 
 (3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
+
+4/A. § (1) Ha a dohánykiskereskedelem-ellátási feladatokat az állam maga látja el, úgy a miniszter e feladatok ellátására 100%-os állami tulajdonban lévő zártkörűen működő részvénytársaságot alapít.
+
+(2) Ha a dohánykiskereskedelem-ellátási feladatokat az állam nem maga látja el, úgy e tevékenység ellátására a Ktv. rendelkezéseinek megfelelően koncessziós szerződést köt. A dohánykiskereskedelem-ellátási feladatokra vonatkozó koncessziós szerződést nyilvános pályázat eredményeként, vagy a Ktv. 10/D. §-a alapján kell megkötni úgy, hogy a dohánykiskereskedelem-ellátás az egész ország területén biztosított legyen. Koncessziós szerződés a nyilvános pályázat nyertesével, vagy olyan személlyel köthető, amelyik megbízható dohánykereskedőnek, illetve e személy legalább többségi tulajdonában álló gazdasági társaságnak minősül, és amelyik a Jöt.-ben meghatározott jövedéki engedéllyel rendelkezik.
 
 5. § Az állam nevében a dohánytermék-kiskereskedelem átengedéséről szóló pályázat kiírására, elbírálására, továbbá a koncessziós szerződés megkötésére a miniszter jogosult.
 
@@ -131,13 +144,45 @@ a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a rés
 
 (4) A (3) bekezdésben foglaltaktól eltérően, ha az állam a dohánytermék-kiskereskedelmi jogosultságot a részvénytársaság által feljogosított személy útján gyakorolja, és a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, úgy az új pályázat eredménytelenségének kihirdetését követő 12 hónapon belül kell legkésőbb új pályázatot kiírni.
 
-### 3. CÍM — A koncessziós szerződés alapján keletkező bevételek
+### 3. CÍM — A dohánykiskereskedelem-ellátási koncesszió nyilvános pályázata
 
-10/A. § (1) A koncessziós díjat a miniszter a részvénytársaság közreműködésével szedi be.
+10/A. § (1) A dohánykiskereskedelem-ellátási feladatok elvégzésére vonatkozó koncesszió nyilvános pályázatára a Ktv.-ben előírt szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A nyilvános pályázatot a miniszter írja ki.
+
+(3) A nyilvános pályázati felhívást legalább két országos napilapban, vagy a miniszter által vezetett minisztérium honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább 10 nappal megelőzően.
+
+(4) A pályázatok benyújtására nyitva álló időtartam nem lehet kevesebb húsz napnál.
+
+(5) A miniszter a beérkezett pályázatokat a pályázatok benyújtására előírt időtartam lejártát követő 30 napon belül köteles elbírálni.
+
+(6) A miniszter, illetve a miniszter által megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 15 napon belül.
+
+(7) A pályázatok elbírálásáról a miniszter a koncessziós szerződés megkötésétől számított 60 napon belül emlékeztetőt készít. Az emlékeztetőnek az alábbi lényeges körülményeket kell tartalmaznia:
+
+- a) a beérkezett pályázatok adatainak összefoglalását;
+- b) a legkedvezőbb pályázat elfogadásának részletes indokait;
+- c) a kikötött biztosítékok megfelelőségének értékelését.
+
+### 4. CÍM — A koncessziós szerződés alapján keletkező bevételek
+
+10/B. § (1) A koncessziós díjat a miniszter a részvénytársaság közreműködésével szedi be.
 
 (2) A miniszter a beszedett koncessziós díjak nettó összegét a kincstár által – a koncessziós díjak központi kezelésű előirányzatként történő elszámolása céljából – vezetett fizetési számlára, a koncessziós díjat terhelő általános forgalmi adót pedig az állami adóhatóságnak utalja át a tárgyhónapot követő hónap huszadik napjáig. A miniszter által vezetett minisztérium költségvetésében a beszedett koncessziós díjat és a kapcsolódó általános forgalmi adót bevételként, azoknak e bekezdés szerinti átutalását kiadásként nem lehet elszámolni.
 
 (3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által vezetett minisztérium bevételei, amelyeket a miniszter a feladatellátáshoz kapcsolódó tevékenységek indokolt költségeire fordít.
+
+### 5. CÍM — A részvénytársaság közreműködése az egészségvédelmet érintő feladatokban
+
+10/C. § A részvénytársaság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
+
+- a) médiakampány szervezése, lebonyolítása, szakmai támogatása,
+- b) közösségi megjelenés,
+- c) sportrendezvényeken történő megjelenés,
+- d) a leszokást elősegítő szervekkel, egészségügyi intézményekkel történő együttműködés és
+- e) egészségvédelmi programokban történő részvétel
+
+útján.
 
 ### III. Fejezet — A DOHÁNYTERMÉK-KISKERESKEDELEM FOLYTATÁSA
 
@@ -367,4 +412,4 @@ rendeletben állapítsa meg.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-29. § E törvény 2. § (1) bekezdése, 25. § (1)–(2) bekezdése az Alaptörvény 38. cikk (2) bekezdése alapján sarkalatosnak minősül.
+29. § E törvény 2. § (1) bekezdése, 4/A. §-a az Alaptörvény 38. cikk (2) bekezdése alapján sarkalatosnak minősül.

@@ -421,6 +421,11 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (5) Ha a szövetkezeti formában működő szövetkezeti hitelintézet alapszabálya a tag személyes közreműködése tekintetében további követelményt nem állapít meg, a tag vagyoni hozzájárulásának szolgáltatása egyben a tag személyes közreműködésének minősül.
 
+(6) Ha a szövetkezeti formában működő szövetkezeti hitelintézet a (4) bekezdés szerint szabályosan összehívott két, egymást követő közgyűlése (részközgyűlése) vagy küldöttgyűlése (a továbbiakban: közgyűlés) is határozatképtelen a mindkét közgyűlés napirendjén szereplő alapszabály-módosítás, a szövetkezeti formában működő szövetkezeti hitelintézet egyesülése, szétválása, gazdasági társasággá történő átalakulása tekintetében, akkor az utóbbi közgyűlés legfeljebb 3 napon belül megismételt közgyűlésén ezen kérdésekben a jelenlévők legalább kétharmadának szavazata elegendő, amennyiben az alábbi feltételek teljesültek:
+
+- a) a megismételt közgyűlésen az Integrációs Szervezet képviselője személyesen is részt vett, és
+- b) a megismételt közgyűlés helyét, idejét és napirendjét, illetve a tényt, hogy a jelenlévők legalább kétharmadának szavazatával döntés hozható, legalább egy országos napilapban és egy, a szövetkezeti formában működő szövetkezeti hitelintézet székhelye szerinti megyei napilapban legalább a megismételt közgyűlés előtt 3 nappal meghirdették.
+
 17/I. § A szövetkezeti formában működő szövetkezeti hitelintézet esetében a tagok létszámától függetlenül lehetőség van arra, hogy az alapszabály küldöttgyűlés működését írja elő.
 
 17/J. § (1) A szövetkezet formában működő szövetkezeti hitelintézetnek az alapszabályában
@@ -532,19 +537,19 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 17/R. § (1) A szövetkezeti formában működő szövetkezeti hitelintézet tagja, illetőleg annak örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezeti formában működő szövetkezeti hitelintézet saját tőkéjéből legfeljebb a részjegye összegére tarthat igényt.
 
-(2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, legfeljebb a megszűnést követő második éves beszámolót megállapító közgyűlés (küldöttgyűlés) napjától számított harmincadik napig az igazgatóság köteles meghosszabbítani a részjegy összegének visszafizetését, ha ennek következtében a szövetkezeti formában működő szövetkezeti hitelintézet saját tőkéje, illetőleg szavatoló tőkéje nem éri el a Hpt. 79. § (1) és (2) bekezdésében és a Hpt. 186. § (1) bekezdésében meghatározott tőkekövetelményt.
+(2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, az igazgatóság köteles elhalasztani a részjegy összegének visszafizetését, ha ennek következtében a szövetkezeti formában működő szövetkezeti hitelintézet szavatolótőkéje nem éri el a Hpt. 79. § (2) bekezdésében meghatározott, a kombinált tőkepuffer követelménnyel növelt tőkekövetelményt, vagy nem teljesíti a 17/C. § (1) bekezdése szerint az Integrációs Szervezet által egyedi alapon megállapított szavatolótőke-követelményt vagy a jogszabályban meghatározott likviditási követelményeket.
 
 (3) A (2) bekezdésben meghatározott esetben – két éven belül – a volt tag, illetőleg örököse (jogutódja) részére azt követően kell esedékessé válásuk sorrendjében a kifizetést teljesíteni, hogy ennek fedezete rendelkezésre áll.
 
 #### 8/H. Átalakulás
 
-17/S. § (1) Szövetkezeti hitelintézet átalakulása vagy cégformájának megváltoztatása a Takarékbank Zrt. igazgatóságának előzetes hozzájárulásához kötött. A Takarékbank Zrt. igazgatósága nem tagadhatja meg az előzetes hozzájárulást, ha az átalakulás vagy a cégforma megváltoztatása a szövetkezeti hitelintézet fizetőképességét, üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatoló tőke szint elérését nem veszélyezteti. A Takarékbank Zrt. igazgatósága megtagadja az előzetes hozzájárulást, ha az adott szövetkezeti hitelintézet 19. § (5) bekezdése szerinti vizsgálata még nem ért véget, illetve ha az véget ért, de az – illetve a 15. § (16) bekezdése szerinti vizsgálat – tőkepótlás szükségességét állapította meg és ez még nem került végrehajtásra, vagy a tervezett intézkedés a betétesek vagy az egyetemlegességben tag más szövetkezeti hitelintézetek érdekeit veszélyeztetheti.
+17/S. § (1) Szövetkezeti hitelintézet átalakulása, egyesülése vagy szétválása a Takarékbank Zrt. igazgatóságának előzetes hozzájárulásához kötött. A Takarékbank Zrt. igazgatósága nem tagadhatja meg az előzetes hozzájárulást, ha az átalakulás, az egyesülés vagy szétválás a szövetkezeti hitelintézet fizetőképességét, üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatolótőke-szint elérését nem veszélyezteti. A Takarékbank Zrt. igazgatósága megtagadja az előzetes hozzájárulást, ha az adott szövetkezeti hitelintézet 19. § (5) bekezdése szerinti vizsgálata még nem ért véget, illetve ha az véget ért, de az – vagy a 15. § (16) bekezdése szerinti vizsgálat – tőkepótlás szükségességét állapította meg és ez még nem került végrehajtásra, vagy a tervezett intézkedés a betétesek vagy az egyetemlegességben tag más szövetkezeti hitelintézetek érdekeit veszélyeztetheti.
 
-(2) Szövetkezeti hitelintézet átalakulása vagy cégformájának megváltoztatása esetén a lekötött tartalékba helyezett, fel nem osztható vagyont a jogutód lekötött tartalékába kell helyezni.
+(2) Szövetkezeti hitelintézet átalakulása, egyesülése vagy szétválása esetén a lekötött tartalékba helyezett, fel nem osztható vagyont a jogutód lekötött tartalékába kell helyezni.
 
 #### 8/I. Jogutód nélküli megszűnés
 
-17/T. § (1) Ha a Felügyelet a szövetkezeti hitelintézet működési engedélyét az e törvényben foglalt bármely esetben visszavonja, a visszavonásról szóló határozatban egyúttal kijelöli a felügyeleti biztost.
+17/T. § (1)
 
 (2)
 
@@ -554,7 +559,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (5) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 33. § (1) bekezdés a) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
 
-(6) A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47-66. §-ainak rendelkezései alkalmazandóak.
+(6) A szövetkezeti hitelintézet végelszámolására az Integrációs Szervezetből kilépni kívánó szövetkezeti hitelintézetre irányadó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a szövetkezeti hitelintézet legfőbb szerve által elhatározott végelszámoláshoz az Integrációs Szervezet igazgatóságának kifejezett előzetes hozzájáruló határozata szükséges. A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47–66. §-ának rendelkezéseit kell alkalmazni.
 
 #### 9. Záró, átmeneti és értelmező rendelkezések
 
@@ -680,13 +685,15 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 
 (15) Az MFB jelen törvény 20. § (1) bekezdés szerint meghatározott értékű vagyoni hozzájárulását – ide nem értve az MFB 4. § (2) bekezdés első fordulata szerint szolgáltatott 1 milliárd forintos összeget – a 2013. évi CLVI. törvényben meghatározott módon, illetve a 2012. évi CCIV. törvényben meghatározott módon és összegben kell az Integrációs Szervezet részére teljesíteni.
 
-#### 10. Hatálybalépés
+#### 10. Hatály, felhatalmazások
 
 21. § E törvény a kihirdetését követő napon lép hatályba. E törvény 15. § (2) bekezdése és 15. § (4) bekezdése 2013. szeptember 1-jén, a 15. § (9) bekezdése 2013. november 1-jén lép hatályba. E törvény 15. § (10) bekezdése 2016. július 1-jén, a 15. § (18) bekezdése 2014. január 1-jén lép hatályba. A törvény 14. § (1) bekezdés 2. mondata a jelen törvény hatályba lépését követő 45. napon – vagy ha ez munkaszüneti nap – akkor a következő munkanapon lép hatályba.
 
 21/A. § (1)
 
 (2) 2017. december 31-én hatályát veszíti a 14. § (3) bekezdése és a 14. § (4) bekezdés b) pontja.
+
+21/B. § Felhatalmazást kap a Kormány, hogy a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés c) pontjában kapott felhatalmazással összhangban az Integrációs Szervezet mint kötelező intézményvédelmi szervezet beszámolókészítési és könyvvezetési kötelezettségét és sajátosságait kormányrendeletben szabályozza.
 
 #### 11.
 

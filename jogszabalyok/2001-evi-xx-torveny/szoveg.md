@@ -55,16 +55,16 @@ a következő törvényt alkotja:
 - h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
 - i) pénzügyi szolgáltatás közvetítése.
 
-(3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – külön jogszabály, illetőleg az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból, illetőleg európai közösségi forrásokból finanszírozott operatív programokhoz kapcsolódó – elsődlegesen a közreműködő szervezetként végzett tevékenység eredményességét növelő – feladatokat láthat el, így különösen:
+(3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból finanszírozott operatív programokhoz kapcsolódó feladatokat láthat el, így különösen:
 
 - a) támogatott pályázatok kezelését;
 - b) döntés-előkészítést;
 - c) pénzügyi lebonyolítást;
 - d) monitoring végzését;
 - e) a forrásfelhasználás és a támogatott cél megvalósításának vizsgálatát;
-- f) európai közösségi források jogszabálysértő, nem rendeltetésszerű vagy szerződésellenes felhasználásából származó követelések érvényesítését, ide nem értve az adók módjára történő behajtást;
+- f) európai uniós források jogszabálysértő, nem rendeltetésszerű vagy szerződésellenes felhasználásából származó követelések érvényesítését, ide nem értve az adók módjára történő behajtást;
 - g) tanácsadást; valamint
-- h) egyéb, az a)–g) pontokban foglaltakhoz kapcsolódó kiegészítő szolgáltatásokat.
+- h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgáltatásokat.
 
 (4) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően befektetési alap által kibocsátott befektetési jegyet és kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet vásárolhat.
 
@@ -187,7 +187,7 @@ kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, közvetlenül vag
 8. § (1) Az 575/2013/EU rendelet 395. cikk (1) bekezdésében foglalt rendelkezéstől eltérően az MFB Zrt. által
 
 - a) a hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kétszáz százalékát,
-- b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem hitelintézet tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének harmincöt százalékát.
+- b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem hitelintézet tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének negyvenöt százalékát.
 
 (2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 110., 112. és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni.
 
@@ -202,7 +202,7 @@ kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, közvetlenül vag
 
 (4) Az MFB Zrt. egy gazdasági társaságban – a (3) bekezdés a)–e) pontjában meghatározott társaságok kivételével – közvetlenül, illetőleg közvetetten legfeljebb 50%–1 szavazat mértékű tulajdoni részesedéssel rendelkezhet.
 
-(5)
+(5) A (3) és a (4) bekezdésben foglaltakat az MFB Zrt. közvetett részesedésszerzése esetén csak akkor kell alkalmazni, ha a részesedést olyan gazdasági társaság szerzi meg, amelyben az MFB Zrt. tulajdoni részesedése alapján a szavazatok több mint 50%-ával rendelkezik.
 
 (6) A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
 
@@ -229,7 +229,7 @@ szerezhet.
 
 ### Titoktartás
 
-10/A. § (1) Az MFB Zrt. esetében – az ügyfél személyére, az ügylet összegére, valamint az arra jogosult pártoknak a működési feltételeiket szolgáló ingatlanok vásárlásához szükséges, külön törvényben szabályozott pénzkölcsön nyújtására vonatkozó szerződések, biztosítéki szerződések, továbbá a kapcsolódó végrehajtási eljárás iratai kivételével – banktitok minden olyan, az egyes ügyfelekről az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint az MFB Zrt. által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
+10/A. § (1) Az MFB Zrt. esetében – az ügyfél személyének, az ügylet összegének, valamint az arra jogosult pártoknak a működési feltételeiket szolgáló ingatlanok vásárlásához szükséges, külön törvényben szabályozott pénzkölcsön nyújtására vonatkozó szerződések, biztosítéki szerződések, továbbá a kapcsolódó végrehajtási eljárás iratai kivételével – banktitok minden olyan, az egyes ügyfelekről az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint az MFB Zrt. által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
 
 (2) Nem minősül banktitoknak az MFB Zrt. tulajdonában álló, illetőleg a rábízott vagyon körébe tartozó gazdasági társaságok tulajdonlásával, illetve tulajdonosi irányításával összefüggő az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely e társaságok személyére, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi kapcsolataira vonatkozik.
 
@@ -312,7 +312,10 @@ szerezhet.
 
 18. § (1) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjaira, alkalmazottaira a Ptk.-ban, a Hpt.-ben és a (2)–(6) bekezdésben meghatározott összeférhetetlenségi szabályokat kell alkalmazni.
 
-(2) Az MFB Zrt. alkalmazottai munkavégzésre irányuló egyéb és további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, valamint a (4) bekezdésben meghatározott esetek kivételével – nem létesíthetnek.
+(2) Az MFB Zrt. alkalmazottai munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, nevelőszülői foglalkoztatási jogviszony, valamint a (4) bekezdésben meghatározott esetek kivételével – nem létesíthetnek, kivéve ha
+
+- a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
+- b) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. – a 4. § (2) vagy (3) bekezdése szerint –kockázatot vállalt.
 
 (3) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjai, alkalmazottai pártban tisztséget nem viselhetnek, párt nevében vagy érdekében – az országgyűlési, illetve az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhatnak.
 
@@ -389,3 +392,4 @@ Az MFB Zrt. a 8. § (3) bekezdés b) pontja alapján a következő gazdálkodó 
 - 10. EHPSZ Első Hazai Pénzügyi Szolgáltatásfejlesztési Korlátolt Felelősségű Társaság
 - 11. Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság
 - 12. MFB Földgázkereskedő Zártkörűen Működő Részvénytársaság
+- 13. Fővárosi Gázművek Zártkörűen Működő Részvénytársaság
