@@ -1690,35 +1690,7 @@ köteles foglalkoztatni.
 - d) az adott választásra vonatkozó bármilyen jelentős korlátozást, és
 - e) a feltevések kiválasztásának felülvizsgálatára vonatkozó folyamatok leírását.
 
-### Saját kockázat- és szavatolótőke-értékelési rendszer
-
-91/Q. § (1) A kockázatkezelési rendszer részeként minden biztosító saját kockázat- és szavatolótőke-értékelési rendszert működtet.
-
-(2) A saját kockázat- és szavatolótőke-értékelés legalább a következőket tartalmazza:
-
-- a) a biztosító egyedi kockázati profiljának leírását; és
-- b) a biztosító vállalt kötelezettségeit és annak kockázatait is figyelembe vevő tőkehelyzet értékelését, amely figyelembe veszi a biztosító egyedi kockázati profilját, jóváhagyott kockázatvállalási határait és üzleti stratégiáját.
-
-(3) A kockázat- és szavatolótőke-értékelési rendszer részeként a biztosító legalább 3 éves üzleti tervet készít, amely kiegészül 8. számú melléklet szerint számított minimális szavatolótőke- szükségletnek való megfelelés bemutatásával a terv teljes időtartamára.
-
-(4) A (2) és (3) bekezdés alkalmazásában a biztosító olyan eljárásokat alkalmaz, amelyek arányosak az üzleti tevékenységében rejlő kockázatok jellegével, nagyságrendjével és összetettségével, és amelyek révén képes megfelelően észlelni és értékelni a számára rövid és hosszú távon felmerülő kockázatokat, illetve azon kockázatokat, amelyeknek ki van vagy ki lehet téve.
-
-(5) A saját kockázat- és szavatolótőke-értékelési rendszer működtetése során biztosítani kell
-
-- a) – a 121–127. § rendelkezéseit figyelembe véve a 8. számú mellékletben meghatározott tőkekövetelményeknek, és
-- b) a 117–120. §-ban meghatározott, biztosítástechnikai tartalékokkal kapcsolatos követelményeknek való megfelelést.
-
-(6) A biztosító kockázat- és szavatolótőke-értékelési rendszere az üzleti stratégia szerves része, amelyet stratégiai döntései során folyamatosan alkalmaz.
-
-(7) A biztosító (2) bekezdés szerinti saját kockázat- és szavatolótőke-értékelését, valamint a (3) bekezdés szerinti üzleti terv készítését és minimális szavatolótőke-szükségletnek való megfelelés bemutatását évente legalább egyszer, valamint a kockázati profil jelentős változását követően haladéktalanul elvégzi.
-
-(8) A biztosító tájékoztatja a Felügyeletet az éves beszámolóval egyidejűleg a saját kockázat- és szavatolótőke-értékelési rendszer értékelés eredményéről, és az értékelés során használt módszerekről.
-
-(9) A kockázati profil jelentős változását követően elvégzett saját kockázat- és szavatolótőke-értékelési rendszer értékelés eredményéről a biztosító 30 napon belül tájékoztatja a Felügyeletet.
-
-(10) A kockázat- és szavatolótőke-értékelési rendszer nem a biztosítóval szemben támasztott hatósági tőkekövetelmény kiszámítására szolgál. A minimális szavatolótőke-szükséglet számítására kizárólag a 8. számú mellékletnek megfelelően kerülhet sor.
-
-(11) Amennyiben a biztosító nem teljesíti a (3) bekezdés szerinti üzleti tervnek megfelelő minimális szavatolótőke-szükségletnek való megfelelést, a 131. és 131/A. § rendelkezései megfelelően alkalmazandóak.
+91/Q. §
 
 ### Az egyéb vezetőkkel kapcsolatos különös szabályok
 
@@ -1903,49 +1875,9 @@ a jogszabálysértés, az érdeksérelem, a hiba, illetve a hiányosság megszü
 
 (2) Ha a Felügyelet a termék terjesztését megtiltotta, döntését köteles a termék terjesztését megtiltó határozat meghozatalát követő 10 napon belül 2 országos napilapban közzétenni.
 
-### VI. Fejezet — A BIZTOSÍTÁSI SZERZŐDÉSEKRE ALKALMAZANDÓ JOG
+### VI. Fejezet
 
-### Közös szabályok
-
-102/A. § (1) E fejezet hatálya a tagállamokban felmerülő kockázatokra fedezetet nyújtó biztosítási szerződésekre terjed ki.
-
-(2) Az e fejezetben nem szabályozott kérdésekben a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet rendelkezéseit kell alkalmazni.
-
-102/B. § (1) A biztosítási szerződésre alkalmazni kell az eljáró bíróság államának feltétlen érvényesülést igénylő rendelkezéseit, tekintet nélkül a szerződésre egyébként irányadó jogra.
-
-(2) Ha a biztosítási szerződés több tagállamban felmerülő kockázatokra nyújt fedezetet, az (1) bekezdés alkalmazása során a szerződést úgy kell tekinteni, mint amelyik több – egyenként csak egy tagállamhoz kapcsolódó – szerződést tartalmaz.
-
-### Nem életbiztosítási szerződések
-
-102/C. § (1) A nem életbiztosítási szerződésre irányadó jogot – a 102/D–102/G. §-ban foglalt kivételekkel – a (2)–(6) bekezdésben foglaltak szerint kell megállapítani.
-
-(2) Ha a biztosított állandó lakóhelye (székhelye) a kötelezettségvállalás tagállamában van, a biztosítási szerződésre ennek a tagállamnak a joga az irányadó. Ha e tagállam joga lehetővé teszi, a felek más ország jogát is választhatják.
-
-(3) Ha a biztosított állandó lakóhelye (székhelye) nem a kötelezettségvállalás tagállamában van, a felek választhatnak, hogy a biztosítási szerződésre a kötelezettségvállalás tagállamának jogát alkalmazzák vagy annak az országnak a jogát, amelyben a biztosítottnak állandó lakóhelye (székhelye) van.
-
-(4) Ha a biztosított kereskedelmi vagy ipari tevékenységet folytat, illetve szellemi szabadfoglalkozású és a biztosítási szerződés ezekhez a tevékenységekhez kapcsolódó, több tagállamban felmerülő kockázatra nyújt fedezetet, a biztosítási szerződésre irányadó jog megválasztásának szabadsága kiterjed a kockázat felmerülésének helye szerinti tagállamok jogára, illetve annak az országnak a jogára, amelyben a biztosított állandó lakóhelye (székhelye) van.
-
-(5) Ha a (2) és (3) bekezdésben említett tagállamok joga a biztosítási szerződésre irányadó jog megválasztásában nagyobb szabadságot biztosít, a felek élhetnek ezzel a szabadsággal.
-
-(6) Ha a (2)–(4) bekezdésben említett biztosítási szerződés olyan kockázatokra nyújt fedezetet, ahol a biztosítási események a kockázat felmerülésének helyétől eltérő tagállamban következnek be, a felek a biztosítási szerződésre a biztosítási esemény bekövetkezésének helye szerinti tagállam jogát is választhatják.
-
-102/D. § A nagykockázatokra fedezetet nyújtó biztosítási szerződésre azt a jogot kell alkalmazni, amelyet a felek a szerződés megkötésekor vagy később választottak.
-
-102/E. § A 102/C. § (2) bekezdése és a 102/D. § alapján történt jogválasztás esetében, ha a jogválasztás időpontjában a biztosítási szerződés csak egy tagállamhoz kapcsolódik, alkalmazni kell e tagállam jogának azokat a rendelkezéseit, amelyektől a felek egyező akarattal sem térhetnek el.
-
-102/F. § (1) A jogválasztásnak a biztosítási szerződésből egyértelműen ki kell tűnnie. Ha az irányadó jog a biztosítási szerződésből nem állapítható meg egyértelműen, vagy jogválasztásra nem került sor, a biztosítási szerződésre a 102/C–102/E. §-ban említett országok közül annak a joga irányadó, amellyel a szerződés kapcsolata a legszorosabb.
-
-(2) Az (1) bekezdésben foglaltak ellenére, ha a biztosítási szerződés elkülöníthető része a 102/C–102/E. §-ban említett másik országgal szorosabb kapcsolatban van, a szerződésre kivételesen annak az országnak a joga irányadó.
-
-(3) Az ellenkező bizonyításáig úgy kell tekinteni, hogy a biztosítási szerződés kapcsolata a kötelezettségvállalás tagállamával a legszorosabb.
-
-102/G. § Biztosítási szerződéskötési kötelezettség esetében, ha a kockázat felmerülésének helye szerinti tagállam joga és a szerződéskötési kötelezettséget előíró tagállam joga nincs összhangban egymással, a szerződésre a szerződéskötési kötelezettséget előíró tagállam joga irányadó.
-
-### Életbiztosítási szerződések
-
-102/H. § (1) Az életbiztosítási szerződésre a kötelezettségvállalás tagállamának joga irányadó. Ha e tagállam joga lehetővé teszi, a felek más ország jogát is választhatják.
-
-(2) Ha a biztosított természetes személy és a szokásos tartózkodási helye más tagállamban van, mint amelynek állampolgára, a felek választhatják annak a tagállamnak a jogát is, amelynek a biztosított állampolgára.
+102/A–102/H. §
 
 ## NEGYEDIK RÉSZ — EGYES BIZTOSÍTÁSTÍPUSOK KÜLÖNÖS SZABÁLYAI
 
@@ -3493,6 +3425,18 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 (5) Járadékfizetési kötelezettségből adódó követelések esetében a biztosító egyösszegű – a matematikai tartalékok között kimutatott járadéktartalékok, vagy a (4) bekezdésben meghatározottak szerint e tartalékok fedezetét képező eszközök figyelembevételével – biztosításmatematikai eszközökkel meghatározott fizetést (megváltást) teljesít, vagy járadéktartalékok vagy e tartalékok fedezetét képező eszközök felhasználásával járadékbiztosítási szerződést köthet más biztosítóval a járadékfizetési kötelezettségből adódó követelések teljesítésére.
 
+226/E. § (1) A biztosító felszámolása esetén azok a hitelezők, amelyeknek a biztosítási szerződésből eredő követelését a biztosító viszontbiztosította, az adott viszontbiztosítási szerződés vagy szerződések vonatkozásában megszerzik a felszámolás alatt álló biztosító viszontbiztosítóval szembeni jogait a felszámoló által elismert hitelezői igényük erejéig.
+
+(2) Az (1) bekezdésben meghatározott hitelező jogszerzése a hitelezői igénye elismert követelésként történő visszaigazolásával következik be, ezt követően a viszontbiztosítóval szembeni jogok az (1) bekezdésben meghatározott hitelezőt és a biztosítót egyetemlegesen illetik meg.
+
+(3) Az (1) bekezdésben meghatározott hitelező a felszámoló által elismert hitelezői igénye erejéig – a viszontbiztosítási szerződés erre vonatkozó kikötésétől függetlenül – saját lakóhelye (székhelye) szerinti tagállamban is pert indíthat a viszontbiztosítóval szemben.
+
+(4) Ha a felszámolás alatt álló biztosító felszámolója kéri, az (1) bekezdésben meghatározott hitelező a biztosító igényét is köteles érvényesíteni a viszontbiztosítóval szemben, az igény érvényesítését azonban az ezzel kapcsolatos költségek felszámoló általi megelőlegezésétől teheti függővé.
+
+(5) A per eredményeként befolyt összegből először az (1) bekezdésben meghatározott – a viszontbiztosítóval szemben az adott pert megindító – hitelező igényét kell kielégíteni.
+
+(6) Ha a viszontbiztosítási szerződés alapján a viszontbiztosító teljesít, a felszámolás alatt álló biztosítóhoz befolyó összegek külön kezelendők és azok kizárólag az adott viszontbiztosítással fedezett biztosítási szerződések alapján fennálló kötelezettségek teljesítésére használhatók fel.
+
 ## TIZEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### Hatálybalépés
@@ -3614,7 +3558,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 231/D. § (1) E törvénynek az egyes biztosítási tárgyú törvények módosításáról szóló 2013. évi LXXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 132/A. §-át már megkötött biztosítási szerződésekre is alkalmazni kell. E szerződésekkel érintett ügyfelek részére a 10. számú melléklet A) pont 20. alpontja szerinti tájékoztatást a biztosító legkésőbb 2014. január 1-jét követő első, a 166. § (9) bekezdése szerinti tájékoztatással egyidejűleg teljesíti.
 
-(2) E törvénynek a Módtv.-vel megállapított 161/A. §-át már megkötött biztosítási szerződésekre is alkalmazni kell, feltéve, ha az e szerződésekkel érintett ügyfelek részére a biztosító által – e rendelkezés hatálybalépését megelőzően – küldött értesítés kézhezvételét követő 15 napon belül az ügyfél nem kifogásolja. A kifogás megküldése nem adhat alapot a szerződés felmondására.
+(2) E törvénynek a Módtv.-vel megállapított 161/A. §-át már megkötött biztosítási szerződésekre is alkalmazni kell, feltéve, ha az e szerződésekkel érintett ügyfelek részére a biztosító által küldött értesítés kézhezvételét követő 15 napon belül az ügyfél nem kifogásolja. A kifogás megküldése nem adhat alapot a szerződés felmondására.
 
 (3) A biztosító a Módtv.-vel megállapított 76–78. § és 91/A–91/U. § rendelkezéseinek 2014. július 1-jétől köteles megfelelni.
 
@@ -3631,6 +3575,8 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 (4) A tevékenységi engedéllyel rendelkező biztosítónak az e törvénynek – a Módosító tv. által megállapított – 126. § (1) bekezdésében, a 8. számú melléklet A) pont 7., 8., 28., 29. alpontjában, valamint C) pont 7., 8., 20., 21. alpontjában meghatározottaknak legkésőbb 2014. július 1-jétől kell megfelelni.
 
 231/F. § A 167/C. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 167/D. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
+
+231/G. § Az e törvénynek – a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény által megállapított – 226/E. §-át a már folyamatban lévő felszámolási eljárásokra is alkalmazni kell.
 
 ### Módosuló jogszabályok
 
