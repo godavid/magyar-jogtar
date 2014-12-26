@@ -779,9 +779,9 @@ rendeletben szabályozza.
 
 (8) A Balaton Kiemelt Üdülőkörzet Területrendezési Tervét legalább 10 évente felül kell vizsgálni.
 
-(9) A kiemelt üdülőkörzethez újonnan csatlakozó települések érvényes településrendezési eszközeit a csatlakozást követő 6 éven belül kell felülvizsgálni és módosítani.
+(9) A kiemelt üdülőkörzethez újonnan csatlakozó települések érvényes településrendezési eszközeit a csatlakozást követő 7 éven belül kell felülvizsgálni és módosítani.
 
-(10) A kiemelt üdülőkörzethez újonnan csatlakozó, településrendezési tervvel nem rendelkező települések településrendezési eszközeit a csatlakozást követő 6 éven belül kell elkészíteni.
+(10) A kiemelt üdülőkörzethez újonnan csatlakozó, településrendezési tervvel nem rendelkező települések településrendezési eszközeit a csatlakozást követő 7 éven belül kell elkészíteni.
 
 (11) A Kormány kidolgozza a Balatoni Kistelepülések Szennyvízkezelési Programját, amely biztosítja a kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációkba nem tartozó települései szennyvízkezelésének 2018. december 31-ig történő megvalósítását.
 
