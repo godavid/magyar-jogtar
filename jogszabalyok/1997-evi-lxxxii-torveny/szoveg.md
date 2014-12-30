@@ -366,10 +366,7 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 (11) A pénztár a függő tételként nyilvántartott tagdíjbefizetéseket és azok hozamait, valamint a visszalépő tagok 2011. május 31-ére mint fordulónapra vonatkozó piaci értékelés szerint számított követeléseinek értékét egy tételben, a tagok portfóliójában a fordulónapon meglévő eszközökben 2011. június 12-ig adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a visszalépő tagok portfólióján belüli eszközök arányának megfelelően kell átadni.
 
-(12) A pénztár
-
-- a) a visszalépő tagi kifizetések összegét 2011. július 20-ig,
-- b) a függő tételekből beazonosított, pénztártagot illető tagdíjbefizetések és ahhoz kapcsolódó hozamok összegét havonta, az adott hónapot követő hónap 8. napjáig igényli vissza a Nyugdíjreform és Adósságcsökkentő Alaptól.
+(12)
 
 (13) A pénztár 2011. május 31-én jogosult a visszalépő tag egyéni számláját 795 Ft-tal csökkenteni és azt a működési tartalék javára jóváírni. A pénztár a működési tartalék javára jóváírt összeget a 2011. május 30-án meglévő működési és likviditási tartalék kimerülését követően használhatja fel. A pénztár a fel nem használt összeget 2011. szeptember 15-ig átutalja a Nyugdíjreform és Adósságcsökkentő Alap pénzforgalmi számlájára.
 
@@ -391,6 +388,11 @@ kell alkalmazni.
 (19) A tagsági jogviszonyát megszüntető tag jogosult a követelésének részét képező egyéni számla-egyenleg tagdíjbefizetése alapján kiszámított, 4. § (2) bekezdésének zsj) pontjában meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére (visszalépő tagi kifizetés), vagy annak az önkéntes nyugdíjpénztárnál vezetett tagi számláján történő jóváírásra, vagy a társadalombiztosítási nyugdíjrendszerben történő nyilvántartásra. A tag a tagsági jogviszony megszűnésének napjától (2012. május 31.) kérheti a visszalépő tagi kifizetés átutalását. Amennyiben a tag tagsági jogviszonya megszüntetésének időpontjáig nem rendelkezik a visszalépő tagi kifizetésekről, azokat a társadalombiztosítási nyugdíjrendszerben kell nyilvántartani.
 
 (20) Az Mpt. 24. § (15) bekezdése alapján a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok esetében a visszalépő tagi kifizetések megállapításánál a hozamgarantált tőke összegét a 3. számú mellékletben szereplő képlet alkalmazásával kell számítani azzal, hogy 2012. április és május hónapokra a KSH által közzétett, 2012. márciusra vonatkozó inflációs rátát kell alkalmazni.
+
+(21) A társadalombiztosítási nyugdíjrendszerbe 2011. május 31. napjával, illetve 2012. május 31. napjával visszalépő tagok után a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alap részére függő tételként átadott és utóbb beazonosított, a pénztártagot illető tagdíjbefizetéseket és ahhoz kapcsolódó hozamok összegét
+
+- a) az átadó magánnyugdíjpénztárak (vagy jogutódjuk) havonta, az adott hónapot követő hónap 8. napjáig,
+- b) az átadó magánnyugdíjpénztár jogutód nélküli megszűnése esetén – a függő tételekből az átadó magánnyugdíjpénztár adatait kezelő szervezet által beazonosított, a pénztártagot illető tagdíjbefizetések és kapcsolódó hozamok összegének hitelt érdemlő igazolásával – a társadalombiztosítási nyugdíjrendszerbe visszalépett tag legkésőbb 2015. január 10-éig visszaigényelheti a Nyugdíjreform és Adósságcsökkentő Alaptól.
 
 24/A. § (1) Amennyiben a pénztártag a 23. § (1) bekezdésének g) pontja szerinti választási lehetőségével élve magánnyugdíjpénztári tagsági jogviszonyát meg kívánja szüntetni és az egyéni számlán felhalmozott összeget – bármely országban működő – időskori megélhetést szolgáló megtakarítási formába kívánja utalni, arról a pénztár részére a nyugdíjbiztosítási jogviszony megszűnését követő 90 napon belül írásban nyilatkozik. A nyilatkozatban meg kell jelölni a pénztártag által választott megtakarítási formát, valamint az ezt működtető intézmény címét és pénzforgalmi számlájának számát.
 
@@ -1694,7 +1696,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (7) A felszámolás alatt álló pénztár járadékos tagja számára az Alap a járadék teljes összegének folyósítását garantálja. Minden más esetben az Alap garanciája a felszámolás kezdő időpontjában, vagy a tag kérésére, a felszámolás kezdő időpontját megelőző üzleti évről készített éves beszámoló mérleg-fordulónapján, a tag követelésének összegéig áll fenn.
 
-(8) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) az egyes magánnyugdíjpénztárak társadalombiztosítási nyugdíjrendszerbe 2012. március 31-ig visszalépő és a vissza nem lépő magánnyugdíjpénztár tagjainak számáról 2012. november 30-áig értesíti a Pénztárak Garanciaalapját. A Pénztárak Garanciaalapja a PSZÁF értesítése alapján megállapítja a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozó garanciális kifizetésekre fordítható pénzeszközeinek összegét, és annak eszközfedezetét az értesítés kézhezvételét követő hónap utolsó napjáig a portfólión belüli eszközaránynak megfelelően adja át a Nyugdíjreform és Adósságcsökkentő Alapnak. A Pénztárak Garanciaalapja a Nyugdíjreform és Adósságcsökkentő Alapnak átadott, garanciális kifizetésekre fordítható pénzeszközeinek egy tagra jutó összegét az eszközátadást követő 15 napon belül közli a magánnyugdíjpénztárakkal.
+(8)
 
 90. § (1) Az a pénztár, amelynek fizetési kötelezettsége miatt az Alap – a 89. § (3) bekezdésének b) pontjában foglaltak kivételével – kifizetést teljesített, az Alap igazgatósága által meghatározott módon ennek összegét és az ezzel összefüggésben felmerült költségeket az Alap részére megtéríti és az Alap a Felügyeletnél hivatalból kezdeményezi a személyes felelősség megállapítását.
 
@@ -2150,7 +2152,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 123/C. § A pénztártagok jogosultak a választható portfoliós rendszer bevezetését megelőzően egy alkalommal kérni a pénztártól a 68/A. § (4) bekezdésétől eltérő portfolióba történő sorolásukat, amennyiben erre vonatkozó kérelmük a pénztárhoz a választható portfoliós rendszer bevezetését megelőző 30. napig beérkezett. A pénztár köteles a pénztártagokat fenti kérelmük alapján az általuk választott portfolióba átsorolni. A választható portfoliós rendszer 2007. január 1-jei bevezetése esetén a 2007. január 31-ig beérkezett kérelmeknek megfelelően kell a besorolást elvégezni. A választható portfoliós rendszer 2007. január 1-jét követő időponttól való bevezetése esetén a bevezetés időpontját úgy kell meghatározni, hogy a bevezetést megelőzően a pénztártagok által kért besorolásra meghatározott határidő teljesíthető legyen.
 
-124. § A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény 25. §-ával megállapított 119. § (3) bekezdés e) pontjában foglalt adatok nyilvántartását 2011. július 30-ig kell kialakítani.
+124. §
 
 125. §
 

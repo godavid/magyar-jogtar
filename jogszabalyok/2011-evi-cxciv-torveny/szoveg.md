@@ -176,6 +176,8 @@ mellékeli.
 
 (5) Az ÁKK Zrt. a feladatai ellátásához a Központi Elszámolóház és Értéktár Zrt.-nél értékpapír letéti- és értékpapírszámlát, a Magyar Nemzeti Banknál vagy hitelintézetnél devizaszámlát vezethet.
 
+#### 4/A. Az Államadósság Kezelő Központ feladatai
+
 13. § (1) A központi költségvetés költségvetési hiányának finanszírozása érdekében az államháztartásért felelős miniszter az ÁKK Zrt. útján
 
 - a) a központi költségvetésről szóló törvény felhatalmazása alapján szervezi az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terhére elszámolandó állampapír-kibocsátást, hitelfelvételt és adósság-átvállalást,
@@ -354,6 +356,8 @@ mellékeli.
 
 ### V. Fejezet — A KÖZTEHERVISELÉS ALAPVETŐ SZABÁLYAI
 
+#### 8/A. A közterhek
+
 28. § (1) Magyarországon minden természetes személy, jogi személy és más jogalany
 
 - a) adó, járulék, hozzájárulás, vagyonszerzési illeték, bírság, pótlék vagy más hasonló – az állam közvetlen ellenszolgáltatása nélküli – rendszeres vagy rendkívüli fizetési kötelezettség, továbbá
@@ -418,7 +422,27 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 #### 38. §
 
+38/A. § A 32–36. §-tól és a 38. §-tól csak különleges jogrend idején, az azt kiváltó körülmények okozta következmények enyhítéséhez szükséges mértékben vagy a nemzetgazdaság tartós és jelentős visszaesése esetén, a nemzetgazdasági egyensúly helyreállításához szükséges mértékben lehet eltérni.
+
+#### 8/B. A bírságfizetési kötelezettség
+
+38/B. § (1) Törvény jogellenes magatartással összefüggésben pénzügyi joghátránnyal járó jogkövetkezményt (a továbbiakban: bírságfizetési kötelezettség) állapíthat meg.
+
+(2) Bírságfizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a kedvezmények, mentességek körét és mértékét, a korlátlan enyhítés vagy a jogellenes magatartás csekély súlya miatt a kiszabás mellőzésének lehetőségét megállapítani kizárólag törvényben vagy törvény felhatalmazása alapján önkormányzati rendeletben lehet, kivéve ha az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérően rendelkezik.
+
+(3) Törvény felhatalmazása alapján a Kormány rendeletben állapíthatja meg a bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
+
+(4) A bírságfizetési kötelezettséget megállapító törvényben meg kell határozni, hogy a bevétel az államháztartás mely alrendszerének bevételét képezi.
+
+(5) A bírságfizetési kötelezettséget megállapító, fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó jogszabály kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
+
+(6) Jogszabály a hatálybalépését megelőző időszakra vonatkozóan nem növelheti a bírságfizetési kötelezettséget, nem bővítheti a bírságfizetésre kötelezettek körét, illetve nem szüntethet meg vagy korlátozhat kedvezményt, mentességet.
+
+(7) Az e §-tól való eltérésre a 38/A. §-t kell alkalmazni.
+
 39. § A 32–36. §, valamint a 38. § rendelkezéseitől csak különleges jogrend idején, az azt kiváltó körülmények okozta következmények enyhítéséhez szükséges mértékben, vagy a nemzetgazdaság tartós és jelentős visszaesése esetén, a nemzetgazdasági egyensúly helyreállításához szükséges mértékben lehet eltérni.
+
+#### 8/C. A Stabilitási Megtakarítási Számla
 
 39/A. § (1) Magyarország külföldi pénznemben fennálló adósságának csökkentése érdekében külön jogszabály szerinti Stabilitás Megtakarítási Számlára befizetett összeg tekintetében e § rendelkezéseit kell alkalmazni. A Stabilitás Megtakarítási Számlára, a számlavezető befektetési vállalkozás és a hitelintézet befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységére a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.), valamint e törvények felhatalmazása alapján kiadott jogszabályok rendelkezéseit az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglalt eltéréssel kell alkalmazni.
 
@@ -533,7 +557,8 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 - a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,
 - b) a kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletéhez történő miniszteri hozzájárulás részletes szabályait,
-- c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit.
+- c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit,
+- d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a jogalanyok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben – rendeletben a fizetési kötelezettség megállapítására és teljesítésére vonatkozó kötelezettség mellőzését és az ehhez kapcsolódó eljárási szabályokat meghatározhassa.
 
@@ -553,7 +578,9 @@ rendeletben állapítsa meg.
 
 (3) A 36. § 2013. január 1-jén lép hatályba.
 
-(4) A 4. § (2) bekezdése és a 38. § 2015. január 1-jén lép hatályba.
+(4) A 4. § (2) bekezdése 2015. január 1-jén lép hatályba.
+
+(5) A 38. § 2016. január 1-jén lép hatályba.
 
 #### 14. Átmeneti rendelkezések
 

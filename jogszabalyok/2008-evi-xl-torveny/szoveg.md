@@ -1370,9 +1370,9 @@ lehet igénybe venni.
 
 (1a) A földgázelosztó – profil alapú elszámolás esetén – köteles legalább 5 napos időtartam megjelölésével a felhasználó figyelmét felhívni a leolvasás várható idejéről a leolvasás előtti utolsó számlában, számla mellékletében vagy egyéb módon. Az (1) bekezdés szerinti leolvasás sikertelensége esetén a földgázelosztó köteles értesítést hagyni a felhasználó felhasználási helyen, – amennyiben rendelkezésre áll – a levélszekrényben. Az értesítésben a földgázelosztó felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem-megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább munkanapon 20 óráig lehetőséget biztosít –, a földgázelosztó elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontja tekintetében a földgázelosztó és a felhasználó köteles megegyezni.
 
-(1b) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását végző rendszerelemek zártságát, és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, valamint a számlázási információk észrevétlen módosítását. A számlázási rendszernek továbbá meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését. E bekezdés alkalmazásában számlázási rendszer alatt a szállítási rendszerüzemeltető és földgázelosztó számlázási rendszerén túl valamennyi földgáz-kereskedelmi és egyetemes szolgáltatási szerződésben részes engedélyes értendő.
+(1b) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását végző rendszerelemek zártságát, és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, valamint a számlázási információk észrevétlen módosítását. A számlázási rendszernek továbbá meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében az engedélyesnek adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését. E bekezdés alkalmazásában számlázási rendszer alatt a szállítási rendszerüzemeltető és földgázelosztó számlázási rendszerén túl valamennyi földgáz-kereskedelmi és egyetemes szolgáltatási szerződésben részes engedélyes számlázási rendszere értendő.
 
-(1c) Az (1b) bekezdésben meghatározott követelményeknek való megfelelést a tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható.
+(1c) Az (1b) bekezdésben meghatározott követelményeknek való megfelelést a tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható. A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.
 
 (1d)
 
@@ -1380,18 +1380,25 @@ lehet igénybe venni.
 
 (1f) A logikai védelmi intézkedések teljesítésének vizsgálata során a számlázási rendszer vizsgálatának a számlázó szoftveren túl a teljes, a számlázásban résztvevő rendszer technológiai vizsgálata szükséges, beleértve a számlázási folyamathoz szükséges összes releváns bemeneti adatot (pl. mérési, fogyasztási adatok) kezelő rendszerelemet. A vizsgálatnak ki kell terjednie a rendszerben alkalmazott számlázó szoftvertermék konkrét beállításainak, telepítésének és üzemeltetésének ellenőrzésére is.
 
-(1g) Amennyiben a számlázási rendszert üzemeltető szolgáltató komplex, sok-funkciós elektronikus információs rendszerének a számlázási rendszer integráns része, a számlák kiállításához közvetlenül nem tartozó rendszerelemek nem esnek a tanúsítás hatáskörébe.
+(1g) Amennyiben a számlázási rendszert üzemeltető engedélyes komplex, sok-funkciós elektronikus információs rendszerének a számlázási rendszer integráns része, a számlák kiállításához közvetlenül nem tartozó rendszerelemek nem esnek a tanúsítás hatáskörébe.
 
 (1h) A logikai védelmi intézkedések teljesítésének vizsgálata során a tanúsító szervezet figyelembe veheti a számlázási rendszer részét képező számlázó szoftver vagy komponenseinek meglévő termék tanúsítványait is. A logikai védelmi intézkedések számlázó szoftverre vonatkozó követelményeinek vizsgálata során a nyilvános, nemzetközi sérülékenységi adatbázissal nem rendelkező egyedi számlázó szoftverek esetén a vizsgálatnak ki kell terjednie a számlázó szoftver forráskódszintű elemzésére is.
 
 (1i) A tanúsító szervezetnek rendelkeznie kell:
 
 - a) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditált státuszt igazoló okirattal,
-- b) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan legalább 3 éve fennálló akkreditált státusszal,
+- b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.
 - c) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett legalább 3 referenciával, és
 - d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzettsége és két év igazolt tanúsítási gyakorlata van.
 
-(1j) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint szerepelnie kell a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Kormányrendelet szerinti, az Alkotmányvédelmi Hivatal által vezetett irányadó jegyzéken.
+(1j) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.
+
+(1k) Az (1b)–(1j) bekezdésnek nem megfelelő számlázási rendszerből
+
+- a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. február 28. után,
+- b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. június 30. után
+
+kiállított számla érvénytelen.
 
 (2) A szállítási rendszerüzemeltető és a földgázelosztó – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban vagy a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó – fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A mérési adatokat a földgázkereskedő – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett felhasználó számára külön díj rendeletben meghatározottak szerint köteles hozzáférhetővé tenni.
 
@@ -1503,7 +1510,7 @@ foglalt árat köteles megfizetni.
 
 (5) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozások indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával úgy kell meghatározni, hogy az érintett engedélyeseket rövid- és hosszútávon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
 
-(6)
+(6) A rendszerüzemeltetés díjából származó árbevételt a földgázszállítás indokolt költségei arányában kell megosztani. Ennek érdekében a szállítói rendszerüzemeltetői engedélyesek, illetve a földgázszállítói engedélyesek között kiegyenlítő fizetéseket kell végrehajtani.
 
 105/A. § (1) A rendszerüzemeltetők a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat, csatlakozási díjakat és áralkalmazási feltételeket kötelesek alkalmazni és honlapjukon közzétenni.
 
@@ -2423,7 +2430,8 @@ tartalmazza.
 
 - 1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
 - 2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait,
-- 3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát.
+- 3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát,
+- 4. a rendszerüzemeltetési díjból származó árbevétel földgázszállítói engedélyesek, illetve szállítási rendszerüzemeltető engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -2627,6 +2635,8 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (2) Ha az (1) bekezdés szerinti ajánlat nem kerül elfogadásra, a mobilgázzá átminősített párnagázt a földgáztárolói engedélyes az üzletszabályzatában meghatározott módon értékesítheti.
 
+141/H. § A 105. § (6) bekezdése szerinti kiegyenlítő fizetéseket első alkalommal a 2015. január 1-től 2015. június 30-áig tartó időszakra kell alkalmazni.
+
 142. § (1) Az okos mérési rendszerek bevezetése érdekében a rendszerüzemeltetők és a VET. szerinti hálózati engedélyesek okos mérésre vonatkozó mintaprojekteket folytathatnak. A mintaprojekt erre a célra létrehozott gazdasági társaság útján (a továbbiakban: projekttársaság) is végezhető akkor, ha a gazdasági társaságban külön-külön vagy együttesen a rendszerüzemeltetők, illetve a VET. szerinti hálózati engedélyesek többségi befolyással rendelkeznek. A (2)–(6) bekezdések előírásait a projekttársaság által végzett mintaprojektekre is alkalmazni kell.
 
 (2) A felhasználók az (1) bekezdés szerinti projektek végrehajtásában kötelesek együttműködni, a projekt műszaki előfeltételeit biztosító mérő felszerelését tűrni. Az együttműködés keretében a rendszerüzemeltető és a VET. szerinti hálózati engedélyes az érintett felhasználók részére a mintaprojektekről tájékoztatást nyújtanak.
@@ -2638,6 +2648,12 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 (5) A rendszerüzemeltető és a VET. szerinti hálózati engedélyes a mintaprojektet az okos mérésről szóló jogszabály alapján a Hivatal felügyeletével folytatja. A rendszerüzemeltető és a VET. szerinti hálózati engedélyes a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárását követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
 
 (6) A rendszerüzemeltető, a VET. szerinti hálózati engedélyes és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosultak a felhasználó, valamint a jogszabályban meghatározott fizető személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a földgázelosztó jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
+
+(7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
+
+- a) a jogkövetkezményekre való utalás mellett írásban felszólítja a projekttársaságot kötelezettségei betartására,
+- b) ismételten is kiszabható bírsággal sújthatja projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
+- c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.
 
 143. § (1) A szállítási rendszerirányító 2013. január 15-ig köteles az egyensúlyozó platform szabályzatát jóváhagyásra benyújtani a Hivatalhoz.
 

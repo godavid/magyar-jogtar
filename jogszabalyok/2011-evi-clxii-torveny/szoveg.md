@@ -1227,11 +1227,19 @@ kezdődik.
 
 (3) A bírák központi személyi nyilvántartásának feladatait az OBH látja el. A minisztériumba beosztott bíró adatait a minisztériumban kell nyilvántartani. A bíró személyi adatlapját a törvényszéken, az ítélőtáblán vagy a Kúrián is nyilván kell tartani.
 
-(4) A személyi nyilvántartás – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze.
+(4) A személyi nyilvántartás – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze. Nem jelenti a személyi nyilvántartás más nyilvántartási rendszerrel való összekapcsolását a személyi nyilvántartásból a központosított illetményszámfejtéshez szükséges adatoknak az e célra működtetett számítógépes programba való továbbítása.
 
 148. § (1) A bíró a róla készült személyi nyilvántartást bármikor megtekintheti, jogosult a nyilvántartott helytelen adatok helyesbítését és a jogellenesen nyilvántartott adatok törlését kérni, illetve a jogellenesen kért adat közlését megtagadni. A nyilvántartásba egyébként csak a munkáltatói jogokat gyakorló vezető, valamint – megbízása alapján – a vezetői döntéseket előkészítő és végrehajtó dolgozó tekinthet be.
 
-(2) A bírónak a személyi nyilvántartásban szereplő adatairól és az iratok tartalmáról – a bíró nevére, beosztására, szolgálati helyére, továbbá elektronikus aláírási jogosultságára vonatkozó adat kivételével – csak igazságügyi szerv részére lehet tájékoztatást adni, illetve a Szolgáltató részére az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az Eat. szerint szükséges mértékben adatot továbbítani.
+(2) A munkáltatói jogkör gyakorlója, illetve az OBH a bírónak a személyi nyilvántartásban szereplő adatai közül a bíró hozzájárulása nélkül, közérdekből adhat tájékoztatást a bíró nevéről, szolgálati helyéről és beosztásáról, valamint – ha törvény azt megengedi – egyéb adatairól.
+
+(3) A bírónak a személyi nyilvántartásban szereplő adatairól és az iratok tartalmáról
+
+- a) igazságügyi szerv részére,
+- b) törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére,
+- c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az Eat. szerint szükséges mértékben a Szolgáltató részére
+
+lehet adatot továbbítani.
 
 149. § A személyi nyilvántartást a bíró szolgálati viszonya megszűnését követően – a 100. § (4) bekezdésében meghatározott kivétellel – 50 évig kell őrizni.
 

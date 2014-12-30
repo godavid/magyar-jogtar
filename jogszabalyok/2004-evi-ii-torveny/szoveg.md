@@ -522,7 +522,7 @@ az időpontja.
 
 (2) A kísérleti filmek és az e törvényben nem szabályozott egyéb műfajok esetében az 1. mellékletnek a dokumentumfilm-alkotások és a tudományos ismeretterjesztő filmalkotások besorolására vonatkozó szempontjait azzal az eltéréssel kell alkalmazni, hogy ha a besorolandó filmalkotás által – a táblázat alapján értékelhető tényleges alkotói részvétel, illetve feltételek alapján – elérhető legmagasabb pontszám 100 pontnál kevesebb, a 2. § 7. pontja szerinti kategóriák valamelyikébe való besorolás feltétele, hogy az elérhető pontszámot 100%-nak tekintve az adott filmalkotás elérje a 2. § 7. pontjában meghatározott pontszámoknak megfelelő százalékot.
 
-(3) Az e § szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához, a filmelőállító cég esetében a filmalkotás költségvetéséből a magyar filmelőállítóra jutó hozzájáruláshoz, vagy ha ez a magasabb, a Magyarországon felmerülő közvetlen filmgyártási költségnek a filmalkotás költségvetésén belüli arányához kell igazítani.
+(3) Az e § szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre, a magyar hozzájárulás arányától függetlenül a legmagasabb elérhető pontszámot kell adni.
 
 ### 3. CÍM — Besorolási eljárások
 
@@ -625,7 +625,7 @@ az időpontja.
 
 25/B. § (1) A Hivatal folyamatosan ellenőrzi az „art” minősítéssel ellátott mozikat, hogy megfelelnek-e az „art” mozi minősítés jogszabályban előírt feltételeinek.
 
-(2) A moziüzemeltető az általa üzemeltetett „art” mozik, illetve mozitermek szerinti bontásban minden naptári negyedévet követő hó 20. napjáig köteles a Hivatalnak adatot szolgáltatni az ott vetített filmalkotás címéről, az 1. melléklet szerinti besorolási kategóriájáról, „art” besorolási kategóriájáról, a vetítés időpontjáról és helyszínéről, a nézőszámról és az árbevételről.
+(2) A moziüzemeltető az általa üzemeltetett „art” mozik, illetve mozitermek szerinti bontásban minden naptári negyedévet követő hó 20. napjáig köteles a Hivatalnak, a Hivatal által meghatározott módon adatot szolgáltatni az ott vetített filmalkotás címéről, az 1. melléklet szerinti besorolási kategóriájáról, „art” besorolási kategóriájáról, a vetítés időpontjáról és helyszínéről, a nézőszámról és az árbevételről.
 
 (3) A Hivatal a 19/H. § (3) bekezdése szerinti határozatával adatszolgáltatásra kötelezi a moziüzemeltetőt, ha a moziüzemeltető az (1) bekezdés szerinti kötelezettségének nem vagy nem megfelelően tesz eleget.
 
@@ -668,7 +668,7 @@ az időpontja.
 
 ### Filmalkotások besorolása a magyar részvételi arányok alapján
 
-26/B. § (1) A Hivatal – a filmelőállító vagy a filmgyártó vállalkozás kérelmére – a közvetlen támogatásra való jogosultság megállapítása érdekében azokat a filmalkotásokat, amelyek előállításához közvetlen támogatást igényelnek, a következő kategóriákba sorolja be:
+26/B. § (1) A Hivatal – a filmelőállító kérelmére – a közvetlen támogatásra való jogosultság megállapítása érdekében azokat a filmalkotásokat, amelyek előállításához közvetlen támogatást igényelnek, a következő kategóriákba sorolja be:
 
 - a) magyar filmalkotás,
 - b) magyar részvételű filmalkotás,
@@ -1018,7 +1018,7 @@ nem haladhatja meg.
 
 (2) A Hivatal e törvény szerinti eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait az Elnök rendeletben állapítja meg.
 
-(3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat a korhatárok, illetve az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a korábbi korhatár-megjelölések, illetve a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
+(3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
 
 (4) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Nemzeti Filmiroda KÖH által 2007. január 1-jével átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
 

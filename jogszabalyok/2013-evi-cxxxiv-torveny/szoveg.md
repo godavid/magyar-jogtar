@@ -51,7 +51,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (4) A (2) bekezdésben meghatározott eljárás során közérdekű szolgáltatóként kijelölhető az a közszolgáltató is, amely az adott településen a kijelölést megalapozó körülmény bekövetkezését megelőzően a kéményseprő-ipari közszolgáltatást biztosította.
 
-(5) Az átmeneti ellátásra irányuló kijelölés az új kéményseprő-ipari közszolgáltatási szerződés megkötéséig, de legfeljebb 9 hónapos időtartamra történhet. A kijelölés egy alkalommal, legfeljebb 3 hónappal meghosszabbítható.
+(5) Az átmeneti ellátásra irányuló kijelölés az új kéményseprő-ipari közszolgáltatási szerződés megkötéséig, de legfeljebb kilenc hónapos időtartamra történhet. A kijelölés ezt követően háromhavonként, legfeljebb egyéves időtartammal meghosszabbítható.
 
 (6) A (2) bekezdés szerint kijelölt közérdekű szolgáltató közfoglalkoztatottakkal is elláthatja feladatát. A közérdekű szolgáltató az önkormányzati kötelező feladat ellátásában történő közreműködés erejéig minősül közfoglalkoztatónak.
 
