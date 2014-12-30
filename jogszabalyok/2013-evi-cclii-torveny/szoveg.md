@@ -1376,7 +1376,7 @@ lép hatályba.
 
 #### 191. Hatálybalépés
 
-191. § (1) Ez a törvény – a (2)–(9) bekezdésben meghatározott kivétellel – 2014. január 1-jén lép hatályba, és 2015. december 31-én hatályát veszti.
+191. § (1) Ez a törvény – a (2)–(10) bekezdésben meghatározott kivétellel – 2014. január 1-jén lép hatályba, és 2016. január 2-án hatályát veszti.
 
 (2)
 
@@ -1394,9 +1394,11 @@ lép hatályba.
 
 (7) A 39. § (2) bekezdése 2014. december 31-én lép hatályba.
 
-(8) A 77. § (1) és (2) bekezdése, a 112. § (33) bekezdése, a 130. § (8) és (16) bekezdése és a 154. § (15) bekezdése 2015. január 1-jén lép hatályba.
+(8) A 112. § (33) bekezdése, a 130. § (8) és (16) bekezdése és a 154. § (15) bekezdése 2015. január 1-jén lép hatályba.
 
 (9) A 130. § (22) bekezdése 2015. január 2-án lép hatályba.
+
+(10) A 77. § (1) és (2) bekezdése 2016. január 1-jén lép hatályba.
 
 #### 192. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

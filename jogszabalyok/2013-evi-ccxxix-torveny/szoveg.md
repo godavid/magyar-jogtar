@@ -14,7 +14,13 @@ egyes törvények területrendezéssel összefüggő módosításáról
 
 3. § (1)
 
-(2)
+(2) Az OTrT. 2. §-a a következő 32a. és 32b. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„32a. tájképi egység: tájban előforduló és vizuálisan összetartozónak tekinthető természetes és antropogén tájelemek együttese, amely a látvány szempontjából meghatározott karakterrel jellemezhető,
+
+32b. tájképvédelmi szempontból kiemelten kezelendő terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti adottságok, rendszerek, valamint az emberi tevékenység kölcsönhatása, változása következtében kialakult olyan területek tartoznak, amelyek a táj látványa szempontjából sajátos és megkülönböztetett fontosságú, megőrzésre érdemes esztétikai jellemzőkkel bírnak,”
 
 4–17. §
 
@@ -25,7 +31,7 @@ egyes törvények területrendezéssel összefüggő módosításáról
 36. § Az OTrT.
 
 - a)–c)
-- d)
+- d) 3/5. számú melléklete helyébe a 3/5. melléklet,
 - e)
 
 lép.
@@ -33,20 +39,20 @@ lép.
 37. § Az OTrT.
 
 - a)–c)
-- d)
+- d) 12. § (1) bekezdés e) pontjában és 1/12. mellékletében foglalt táblázat 7. sorában az „országos jelentőségű tájképvédelmi” szövegrész helyébe a „tájképvédelmi szempontból kiemelten kezelendő”,
 - e)
 
 szöveg lép.
 
 38. § Hatályát veszti az OTrT.
 
-- a)
+- a) 2. § 22. pontja,
 - b)
-- c)
+- c) 12. § (2) bekezdés i) pontja,
 - d)–g)
-- h)
+- h) 21. §-a és az azt megelőző alcím,
 - i)–k)
-- l)
+- l) 1/12. mellékletében foglalt táblázat B:16 mezője,
 - m)
 
 #### 4. Záró rendelkezések

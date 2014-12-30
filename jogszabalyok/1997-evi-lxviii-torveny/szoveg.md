@@ -628,7 +628,7 @@ rendelkezéseit.
 
 ### A szabadság
 
-48. § (1) Az igazságügyi alkalmazottat minden szolgálati viszonyban töltött teljes naptári évben alapszabadságból és az (5) bekezdés szerinti pótszabadságból álló rendes szabadság illeti meg.
+48. § (1) Az igazságügyi alkalmazottat minden szolgálati viszonyban töltött teljes naptári évben alapszabadságból és az (5) és (5a) bekezdés szerinti pótszabadságból álló rendes szabadság illeti meg.
 
 (2) Az alapszabadság mértéke a bírósági titkárnál évi 28 munkanap, a fogalmazónál évi 27 munkanap, a bírósági ügyintézőnél évi 26 munkanap, egyébként évi 25 munkanap.
 
@@ -953,11 +953,13 @@ okozta.
 - h) az igazságügyi szolgálati viszony megszűnésének jogcíme és időpontja,
 - i) az elektronikus aláírási jogosultság és típusa.
 
-94. § (1) Az igazságügyi alkalmazott személyi nyilvántartása – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze.
+94. § (1) Az igazságügyi alkalmazottak személyi nyilvántartása – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze. Nem jelenti a személyi nyilvántartás más nyilvántartási rendszerrel való összekapcsolását a személyi nyilvántartásból a központosított illetményszámfejtéshez szükséges adatoknak az e célra működtetett számítógépes programba való továbbítása.
 
 (2) Az igazságügyi alkalmazott a róla készült személyi nyilvántartást bármikor megtekintheti, jogosult a nyilvántartott helytelen adatok helyesbítését és a jogellenesen nyilvántartott adatok törlését kérni, illetve a jogellenesen kért adat közlését megtagadni. A személyi nyilvántartásba egyébként csak az igazságügyi alkalmazott vezetői, illetve a vezetői döntéseket előkészítő és végrehajtó alkalmazottak tekinthetnek be.
 
 (2a) Az igazságügyi alkalmazotti szolgálati jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az igazságügyi alkalmazott személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – az igazságügyi alkalmazott hozzájárulásával adatfeldolgozó számára átadhatja.
+
+(2b) Az igazságügyi alkalmazottnak a személyi nyilvántartásban szereplő adatairól és a vele kapcsolatos iratok tartalmáról törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére lehet adatot továbbítani.
 
 (3) Az adatok közül az igazságügyi szerv megnevezése, az igazságügyi alkalmazott neve, munkakörének az elnevezése, valamint elektronikus aláírási jogosultsága és annak típusa közérdekből nyilvános adatnak minősül, bármely más adat – a (4) bekezdésben foglalt kivétellel – nem igazságügyi szerv részére csak a személyazonosításra alkalmatlan módon adható ki.
 
@@ -1298,7 +1300,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. § (1) bekezdését, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés b), c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
+124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. § (1) bekezdését, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. § (1)–(3) bekezdését, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés b), c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 

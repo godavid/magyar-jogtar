@@ -405,7 +405,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 27. § (1) Az átviteli rendszerirányító és a csatlakozás biztosítására jogosult elosztó hálózati engedélyes köteles a rendszerhasználói igény kielégítésének műszaki, gazdasági feltételeiről tájékoztatást adni, és a legkedvezőbb vételezési vagy betáplálási mód meghatározásában a rendszerhasználóval együttműködni.
 
-(2) A hálózati engedélyesek az átviteli és az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra a hálózat műszaki jellemzőire tekintettel megtagadhatják.
+(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg.
 
 (3) A hálózati engedélyesnek az átviteli vagy elosztó hálózathoz való csatlakozás megtagadásakor meg kell határoznia azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható, és a műszaki lehetőségek fennállása vagy megteremthetősége esetén köteles egy másik csatlakozási pontot kijelölni.
 
@@ -418,7 +418,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására.
 
-(5) A (4) bekezdés szerinti határozatnak megfelelő csatlakozás esetén a rendszerhasználó a Hivatal elnökének rendeletében megállapított mértékű csatlakozási díjat fizet
+(5) A rendszerhasználó a csatlakozás biztosítását megelőzően köteles a hálózati engedélyes részére megfizetni a Hivatal elnökének rendeletében megállapított mértékű csatlakozási díjat.
 
 28. § Az összekötő berendezéssel csatlakoztatott felhasználók ellátásának biztonsága érdekében az összekötő berendezés üzemeltetésére és az üzemzavar elhárítására az elosztó hálózati engedélyesek az összekötő berendezés üzemeltetőjének kezdeményezésére kötelesek az üzletszabályzatban meghatározott feltételek szerint szerződést kötni.
 
@@ -658,9 +658,9 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (3) A (2) bekezdésben meghatározott számla elektronikus és nyomtatott másolatának egyszeri kiadását a hálózati engedélyes és a villamosenergia-kereskedő külön díj fizetéséhez nem kötheti.
 
-(4) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását végző rendszerelemek zártságát, és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, valamint a számlázási információk észrevétlen módosítását. A számlázási rendszernek továbbá meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését. E bekezdés alkalmazásában számlázási rendszer alatt a hálózati engedélyes számlázási rendszerén túl valamennyi villamosenergia-vásárlási szerződésben részes engedélyes értendő.
+(4) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását végző rendszerelemek zártságát, és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, valamint a számlázási információk észrevétlen módosítását. A számlázási rendszernek továbbá meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében az engedélyesnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését. E bekezdés alkalmazásában számlázási rendszer alatt a hálózati engedélyes számlázási rendszerén túl valamennyi villamosenergia-vásárlási szerződésben részes engedélyes számlázási rendszere értendő.
 
-(5) A (4) bekezdésben meghatározott követelményeknek való megfelelést tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható.
+(5) A (4) bekezdésben meghatározott követelményeknek való megfelelést tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható. A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.
 
 (6)
 
@@ -668,18 +668,25 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (8) A logikai védelmi intézkedések teljesítésének vizsgálata során a számlázási rendszer vizsgálatának a számlázó szoftveren túl a teljes, a számlázásban részt vevő rendszer technológiai vizsgálata szükséges, beleértve a számlázási folyamathoz szükséges összes releváns bemeneti adatot (pl. mérési, fogyasztási adatok) kezelő rendszerelemet. A vizsgálatnak ki kell terjednie a rendszerben alkalmazott számlázó szoftvertermék konkrét beállításainak, telepítésének és üzemeltetésének ellenőrzésére is.
 
-(9) Amennyiben a számlázási rendszert üzemeltető szolgáltató komplex, sokfunkciós elektronikus információs rendszerének a számlázási rendszer integráns része, a számlák kiállításához közvetlenül nem tartozó rendszerelemek nem esnek a tanúsítás hatáskörébe.
+(9) Amennyiben a számlázási rendszert üzemeltető engedélyes komplex, sokfunkciós elektronikus információs rendszerének a számlázási rendszer integráns része, a számlák kiállításához közvetlenül nem tartozó rendszerelemek nem esnek a tanúsítás hatáskörébe.
 
 (10) A logikai védelmi intézkedések teljesítésének vizsgálata során a tanúsító szervezet figyelembe veheti a számlázási rendszer részét képező számlázó szoftver vagy komponenseinek meglévő terméktanúsítványait is. A logikai védelmi intézkedések számlázó szoftverre vonatkozó követelményeinek vizsgálata során a nyilvános, nemzetközi sérülékenységi adatbázissal nem rendelkező egyedi számlázó szoftverek esetén a vizsgálatnak ki kell terjednie a számlázó szoftver forráskódszintű elemzésére is.
 
 (11) A tanúsító szervezetnek rendelkeznie kell:
 
 - a) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditált státuszt igazoló okirattal,
-- b) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan legalább 3 éve fennálló akkreditált státusszal,
+- b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.
 - c) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett legalább 3 referenciával, és
 - d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzettsége és két év igazolt tanúsítási gyakorlata van.
 
-(12) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint szerepelnie kell a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Kormányrendelet szerinti, az Alkotmányvédelmi Hivatal által vezetett irányadó jegyzéken.
+(12) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.
+
+(13) A (4)–(12) bekezdésnek nem megfelelő számlázási rendszerből
+
+- a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. február 28. után,
+- b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. június 30. után
+
+kiállított számla érvénytelen.
 
 44. § Ha jogszabály vagy a hálózathasználati szerződés ettől eltérően nem rendelkezik a villamosenergia-kereskedő a szerződésben meghatározott időszakban, a hálózati engedélyes tulajdonában lévő hiteles fogyasztásmérő berendezés adatai alapján a 40. § (4) bekezdésében meghatározott leolvasási gyakorisággal egyezően számolja el az értékesített villamosenergia-mennyiséget. Az elszámolás során tájékoztatni kell a felhasználót az adott elszámolási időszakra vonatkozóan a fogyasztásmérő berendezés által tárolt kezdő és záró mérőállásról.
 
@@ -957,7 +964,22 @@ meghatározott szerződésszegés esetén.
 
 60. § (1) A hálózati engedélyes a hálózathasználati szerződés lényeges tartalmi elemeinek meghatározása során nem alkalmazhat megkülönböztető szerződéses feltételeket aszerint, hogy a felhasználó melyik villamosenergia-kereskedőtől vásárolja a villamos energiát.
 
-(2) A hálózati csatlakozási szerződésbe foglalt, a rendszerhasználó által megszerzett jogok a felhasználási hellyel együtt átruházhatók, vagy a hálózati engedélyes által visszavásárolhatók.
+(2) A hálózati csatlakozási szerződésbe foglalt, a rendszerhasználó által megszerzett jog (a továbbiakban e § alkalmazásában: rendelkezési jog)
+
+- a) a b) pont szerinti kivétellel, a felhasználási hellyel együtt ruházható át,
+- b) a hálózati engedélyes által visszavásárolható, vagy
+- c) a (2b) és (2c) bekezdés szerinti esetekben ingyenesen átszáll a hálózati engedélyesre.
+
+(2a) A rendszerhasználó rendelkezési jogát – a (2b) és a (2c) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
+
+(2b) Ha a termelő villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig nem veszi igénybe, és arról ez idő alatt a hálózati engedélyes irányába nem rendelkezik, akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll.
+
+(2c) Ha a felhasználó vagy az erőmű vételezési teljesítménye tekintetében a termelő a hálózati engedélyes irányába nem rendelkezik a rendelkezésre álló teljesítményéről és
+
+- a) a hálózathasználati szerződés felmondásának napjától számított öt évig az adott csatlakozási pont tekintetében nem köt új hálózathasználati szerződést, vagy
+- b) rendszerhasználatidíj-fizetési kötelezettség elmulasztása miatti kikapcsolása napjától számított öt évig nem rendezi a tartozását,
+
+akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll.
 
 (3) A hálózathasználati szerződésből eredő igények két év alatt évülnek el.
 
@@ -2509,7 +2531,7 @@ villamos energia képezi.
 - 3. jóváhagyja a villamosenergia-ellátási szabályzatokat, a szervezett villamosenergia-piaci szabályzatot, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
 - 4. ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, 714/2009/EK rendeletben, a Hivatal által kiadott határozatokban, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatokban meghatározott kötelezettségek betartását,
 - 5. javaslatot tesz a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokra,
-- 6. rendeletben határozza meg a rendszerhasználati és a csatlakozási díjakat, valamint az egyes díjak alkalmazásának feltételeit,
+- 6. rendeletben határozza meg a rendszerhasználati díjakat és alkalmazásuk szabályait, és a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, valamint a csatlakozási díjak mértékét és alkalmazásuk szabályait,
 - 7. előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
 - 8. javaslatot tesz az elosztó és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira, az ingyenesen biztosítandó szolgáltatások legszűkebb körére, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körére és díjaira,
 - 9. dönt a közcélúvá, ezen belül átviteli vagy elosztó hálózati elemmé történő minősítésről vagy átminősítésről,
@@ -2896,7 +2918,7 @@ rendeletben állapítsa meg.
 - 14.
 - 15. a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben a villamosenergia-kereskedő üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyek körét, a kedvezményes villamosenergia-árat, valamint a kedvezmény biztosításával összefüggő eljárási, elszámolási szabályokat és igazolási kötelezettségeket,
 - 16. a szélerőmű létesítésére irányuló pályázat kiíróját, kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait,
-- 17. a hálózathoz való csatlakozás lényeges feltételeit,
+- 17.
 - 18. az elsődleges energiaforrás választásának és felhasználásának az új termelő kapacitások engedélyezése során történő korlátozásának részletes szabályait,
 - 19.
   - a) a környezetvédelemért felelős miniszterrel együttműködve az erőművek által teljesítendő, az elsődleges energiaforrás típustól függően eltérő minimális energetikai hatásfok körülményeket,
@@ -3045,6 +3067,12 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (5) A hálózati engedélyes a mintaprojektet az okos mérésről szóló jogszabály alapján a Hivatal felügyeletével folytatja. A hálózati engedélyes a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárását követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
 
 (6) Az engedélyesek és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosultak a rendszerhasználó, valamint a jogszabályban meghatározott fizető személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben az elosztó jogai és kötelezettségei illetik meg, azzal, hogy a tevékenységét nem szervezheti ki.
+
+(7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
+
+- a) a jogkövetkezményekre való utalás mellett írásban felszólítja a projekttársaságot kötelezettségei betartására,
+- b) ismételten is kiszabható bírsággal sújthatja projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
+- c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.
 
 178. § (1)
 

@@ -1484,7 +1484,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (7) A Módtv.-vel beiktatott 83/B. §-t a Módtv. hatálybalépésekor folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell, amennyiben még nem került sor határozathozatalra.
 
-(8) A (2) bekezdést és a 83/C. §-t a Módtv. hatálybalépését megelőzően befejezett felszámolási eljárással érintett vagyontárgyra is alkalmazni kell.
+(8) A (2) bekezdést és a 83/C. §-t a Módtv. hatálybalépésekor folyamatban lévő, továbbá a Módtv. hatálybalépését megelőzően befejezett felszámolási eljárással érintett vagyontárgyra is alkalmazni kell.
 
 83/B. § (1) A felszámoló gazdasági társaságnál azokat a felszámolói tevékenységben személyesen közreműködő tagokat, munkavállalókat, vagy a társasággal kötött tartós polgári jogi szerződés alapján azokat a felszámolói tevékenységben közreműködő személyeket, akik 2010. július 1-jén megfeleltek a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény módosításáról szóló 2006. évi VI. törvény 20. § (4) bekezdése szerinti képesítési feltételeknek, a 27/A. § (3) bekezdése és a 27/C. § (4) bekezdés f) pontja szerinti szakképesítéssel rendelkezőnek kell tekinteni.
 

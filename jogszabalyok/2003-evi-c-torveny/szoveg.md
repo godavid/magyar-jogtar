@@ -2086,11 +2086,11 @@ köteles biztosítani.
 
 (3) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását végző rendszerelemek zártságát, és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, valamint a számlázási információk észrevétlen módosítását. A számlázási rendszernek továbbá meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
 
-(4) A (3) bekezdésben meghatározott követelményeknek való megfelelést a tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható.
+(4) A (3) bekezdésben meghatározott követelményeknek való megfelelést a tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható. A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.
 
 (5)
 
-(6) Az elektronikus hírközlési szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről az engedélyes az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
+(6) Az elektronikus hírközlési szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a szolgáltató az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
 
 (7) A logikai védelmi intézkedések teljesítésének vizsgálata során a számlázási rendszer vizsgálatának a számlázó szoftveren túl a teljes, a számlázásban részt vevő rendszer technológiai vizsgálata szükséges, beleértve a számlázási folyamathoz szükséges összes releváns bemeneti adatot (pl. mérési, fogyasztási adatok) kezelő rendszerelemet. A vizsgálatnak ki kell terjednie a rendszerben alkalmazott számlázó szoftver termék konkrét beállításainak, telepítésének és üzemeltetésének ellenőrzésére is.
 
@@ -2101,11 +2101,18 @@ köteles biztosítani.
 (10) A tanúsító szervezetnek rendelkeznie kell:
 
 - a) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditált státuszt igazoló okirattal,
-- b) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan legalább 3 éve fennálló akkreditált státusszal,
+- b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.
 - c) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett legalább 3 referenciával, és
 - d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzettsége és két év igazolt tanúsítási gyakorlata van.
 
-(11) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint szerepelnie kell a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Kormányrendelet szerinti, az Alkotmányvédelmi Hivatal által vezetett irányadó jegyzéken.
+(11) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.
+
+(12) A (3)–(11) bekezdésnek nem megfelelő számlázási rendszerből
+
+- a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó szolgáltatók esetében 2015. február 28. után,
+- b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó szolgáltatók esetében 2015. június 30. után
+
+kiállított számla érvénytelen.
 
 ### Felelősség az előfizetői szerződések teljesítéséért, az előfizetői szerződéssel kapcsolatos hatósági hatáskör időbeli kerete
 

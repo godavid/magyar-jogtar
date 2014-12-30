@@ -36,7 +36,7 @@ az Országos Területrendezési Tervről
   - c) a vízi létesítmények közül az országos és térségi jelentőségű csatornák, valamint az elsőrendű és másodrendű árvízvédelmi fővédvonal tartozik.
 - 20. az ország szerkezeti terve: az országos területfelhasználás rendszerét, a települések térbeli rendjét, az országos műszaki infrastruktúra-hálózatok és egyedi építmények térbeli rendjét, valamint ezek összefüggéseit az ország területrendezési tervében meghatározó terv,
 - 21. országos jelentőségű csatorna: olyan csatorna, amelyben az átvezethető vízmennyiség az 1 millió m3/évet meghaladja,
-- 22. országos jelentőségű tájképvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti vagy kulturális örökség adottságai alapján a kilátás-rálátás szempontjából védendő tájképpel, illetve tájképi elemmel rendelkező területek, valamint a védett történeti tájjá nyilvánított területek tartoznak,
+- 22.
 - 23. országos kerékpárút-törzshálózat: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott műszaki infrastruktúra-hálózat, amelybe az országos jelentőségű turisztikai célpontokat érintő, hálózatként kialakított kerékpáros útvonalak tartoznak,
 - 24. országos ökológiai hálózat: országos területrendezési tervben megállapított övezet, amelybe az országos jelentőségű természetes és természetközeli területek, valamint az azok között kapcsolatot teremtő ökológiai folyosók egységes, összefüggő rendszere tartozik, és amelynek részei a magterületek, az ökológiai folyosók és a pufferterületek,
 - 25. országos vízminőség-védelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervben alkalmazott övezet, amelybe a felszíni és felszín alatti vizek, az emberi fogyasztásra, használatra szánt vizek és a vízkivételi művek, továbbá a halak életfeltételeinek biztosítása érdekében kijelölt vizek megóvását szolgáló védelem alatt álló területek tartoznak,
@@ -47,6 +47,8 @@ az Országos Területrendezési Tervről
 - 30. szén-dioxid-szállítóvezeték: a szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték, beleértve a kapcsolódó nyomásfokozó állomásokat is,
 - 31. tanyás térség: ajánlott övezet, amelyet egyes kijelölt megyék területrendezési terve tartalmazhat,
 - 32. tájrehabilitációt igénylő terület: a megyei területrendezési tervekben ajánlott övezet, amelybe jelentős területi kiterjedésű, esetenként több települést érintő felhagyott ipari és bányászati üzemi területek, továbbá az ipari és bányászati tevékenység okozta tájsebek – zagytározók, meddőhányók, ipari hulladéklerakók – tartoznak,
+- 32a. tájképi egység: tájban előforduló és vizuálisan összetartozónak tekinthető természetes és antropogén tájelemek együttese, amely a látvány szempontjából meghatározott karakterrel jellemezhető,
+- 32b. tájképvédelmi szempontból kiemelten kezelendő terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti adottságok, rendszerek, valamint az emberi tevékenység kölcsönhatása, változása következtében kialakult olyan területek tartoznak, amelyek a táj látványa szempontjából sajátos és megkülönböztetett fontosságú, megőrzésre érdemes esztétikai jellemzőkkel bírnak,
 - 33. települési térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a település belterülete, valamint a belterületen kívüli beépített és beépítésre szánt területek tartoznak,
 - 34. térség: a területrendezés szempontjából megkülönböztetett területi egység, amelyre vonatkozóan a területrendezési terv előírásokat határoz meg,
 - 35. térségi övezet: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, sajátos jellemzőkkel rendelkező – a térségi területfelhasználási kategóriáktól függetlenül lehatárolt – területi egység, amelyben az e törvényben és a külön jogszabályokban meghatározott előírásokat kell alkalmazni,
@@ -192,7 +194,7 @@ az Országos Területrendezési Tervről
 - b) kiváló termőhelyi adottságú szántóterület,
 - c) jó termőhelyi adottságú szántóterület,
 - d) kiváló termőhelyi adottságú erdőterület,
-- e) országos jelentőségű tájképvédelmi terület,
+- e) tájképvédelmi szempontból kiemelten kezelendő terület,
 - f) világörökségi és világörökségi várományos terület,
 - g) országos vízminőség-védelmi terület,
 - h) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe,
@@ -208,7 +210,7 @@ az Országos Területrendezési Tervről
 - f) rendszeresen belvízjárta terület,
 - g) földtani veszélyforrás területe,
 - h) honvédelmi terület,
-- i) térségi jelentőségű tájképvédelmi terület.
+- i)
 
 (3) Ajánlott megyei övezetek:
 
@@ -261,17 +263,19 @@ az Országos Területrendezési Tervről
 
 (2) Az övezetben külszíni bányatelket megállapítani és bányászati tevékenységet engedélyezni a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet.
 
-### Országos jelentőségű tájképvédelmi terület övezete
+### Tájképvédelmi szempontból kiemelten kezelendő terület övezete
 
-14/A. § (1) Az országos jelentőségű tájképvédelmi terület övezetben csak olyan kiemelt térségi és megyei területfelhasználási kategória jelölhető ki, amely a kijelölés alapjául szolgáló tájképi értékek fennmaradását nem veszélyezteti.
+14/A. § (1) A tájképvédelmi szempontból kiemelten kezelendő terület övezete területét a kiemelt térségi és megyei területrendezési terv és annak alapján a településszerkezeti terv pontosítja.
 
-(2) Az övezetbe tartozó település településszerkezeti tervében csak olyan területfelhasználási egység jelölhető ki, továbbá helyi építési szabályzatában és szabályozási tervében csak olyan építési övezet és övezet hozható létre, amely a kijelölés alapjául szolgáló tájképi értékek fennmaradását nem veszélyezteti.
+(2) Az övezet (1) bekezdés szerint pontosított lehatárolása által érintett területre a kiemelt térség és a megye területrendezési tervének megalapozó munkarésze keretében meg kell határozni a tájjelleg helyi jellemzőit, valamint a település teljes közigazgatási területére készülő településrendezési eszköz megalapozó vizsgálata keretében meg kell határozni a tájjelleg megőrzendő elemeit, elemegyütteseit, valamint a tájképi egység és a természeti adottságokhoz igazodó hagyományos tájhasználat helyi jellemzőit.
 
-(3) Az építési övezetre vagy övezetre vonatkozóan meg kell határozni az ott elhelyezett építmények tájba illesztésére vonatkozó szabályokat, ennek ellenőrzéséhez a tájképet jelentősen megváltoztató építmények terveihez külön jogszabályban meghatározott látványtervet is kell készíteni.
+(3) Az övezet (1) bekezdés szerint pontosított lehatárolása által érintett területre a tájképi egység és a hagyományos tájhasználat fennmaradása érdekében a helyi építési szabályzatban meg kell határozni a területhasználatra és az építmények tájba illeszkedésére vonatkozó szabályokat.
 
-(4) Az övezetben bányászati tevékenységet a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet folytatni.
+(4) A helyi építési szabályzat az építmények tájba illeszkedésének bemutatására látványterv készítését írhatja elő és a készítésre vonatkozó követelményeket határozhat meg.
 
-(5) Az övezetben közművezetékeket és járulékos közműépítményeket tájba illesztett módon, a tájképvédelmi célok megvalósulását nem akadályozó műszaki megoldások alkalmazásával – beleértve a felszín alatti vonalvezetést is – kell elhelyezni.
+(5) Az övezetben bányászati tevékenységet a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet folytatni.
+
+(6) Az övezetben a közlekedési és energetikai infrastruktúra-hálózatokat, erőműveket és kiserőműveket a tájképi egység megőrzését és a hagyományos tájhasználat fennmaradását nem veszélyeztető műszaki megoldások alkalmazásával kell elhelyezni.
 
 ### Világörökségi és világörökségi várományos terület övezete
 
@@ -353,17 +357,7 @@ az Országos Területrendezési Tervről
 
 20. §
 
-### Térségi jelentőségű tájképvédelmi terület övezete
-
-21. § (1) A térségi jelentőségű tájképvédelmi terület övezetében csak olyan területfelhasználási egység jelölhető ki, amely a természeti adottságok és a kulturális örökség által meghatározott tájképi értékek fennmaradását nem veszélyezteti.
-
-(2) A térségi jelentőségű tájképvédelmi terület övezetébe tartozó település településszerkezeti tervében csak olyan területfelhasználási egység jelölhető ki, továbbá a helyi építési szabályzatában és szabályozási tervében csak olyan építési övezet és övezet hozható létre, ami a kijelölés alapjául szolgáló tájképi értékek fennmaradását nem veszélyezteti. Az építési övezetnek vagy övezetnek az építmények tájba illesztésére vonatkozó szabályokat is tartalmaznia kell, ennek ellenőrzéséhez a tájképet jelentősen megváltoztató építmények terveihez külön jogszabályban meghatározott látványtervet is kell készíteni.
-
-(3) Az övezetben bányászati tevékenységet a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet folytatni.
-
-(4) Az övezetben közművezetékeket és járulékos közműépítményeket tájba illesztett módon, a tájképvédelmi célok megvalósulását nem akadályozó műszaki megoldások alkalmazásával – beleértve a felszín alatti vonalvezetést is – kell elhelyezni.
-
-(5) A településszerkezeti tervben, a szabályozási tervben és a helyi építési szabályzatban ki kell jelölni a településkép-védelmi terület határát, amely a tájképi értéket képező kulturális örökség szempontjából kiemelten kezelendő területeket, az ökológiai hálózat területeit, az országos és a helyi védelem alatt álló természetvédelmi területeket, azok környezetét, valamint a település arculatát, karakterét meghatározó fontos területeket tartalmazza.
+21. §
 
 22. §
 
@@ -2069,7 +2063,7 @@ Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
 | 4. | c) Jó termőhelyi adottságú szántóterület |  |
 | 5. | d) Kiváló termőhelyi adottságú erdőterület |  |
 | 6. |  | d) Erdőtelepítésre javasolt terület |
-| 7. | e) Országos jelentőségű tájképvédelmi terület |  |
+| 7. | e) Tájképvédelmi szempontból kiemelten kezelendő terület |  |
 | 8. | f) Világörökségi és világörökségi várományos terület |  |
 | 9. | g) Országos vízminőség-védelmi terület |  |
 | 10. | h) Nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe |  |
@@ -2078,7 +2072,7 @@ Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
 | 13. |  | g) Földtani veszélyforrás területe |
 | 14. | i) Kiemelt fontosságú honvédelmi terület |  |
 | 15. |  | h) Honvédelmi terület |
-| 16. |  | i) Térségi jelentőségű tájképvédelmi terület |
+| 16. |  |  |
 | 17. |  | Megyei területrendezési terv |
 | 18. |  | a) tanyás térség |
 | 19. |  | b) tájrehabilitációt igénylő terület |
@@ -2106,6 +2100,8 @@ Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
 20030000000026_5
 
 ### 3/5. számú melléklet
+
+20030000000026_6
 
 ### 3/6. számú melléklet
 
