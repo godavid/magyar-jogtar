@@ -2372,9 +2372,11 @@ ellenőrzés.
 
 (3) A központi költségvetés a nem állami szerv által fenntartott intézmény köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, amelynek feltétele, hogy az intézmény a működési engedélyben foglaltaknak megfelelően végzi tevékenységét.
 
-(4) A költségvetési hozzájárulás összege fedezi a nevelési-oktatási intézmény és a pedagógiai szakszolgálat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetményét, munkabérét és ezek járulékait. A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit külön jogszabály állapítja meg. Nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a kormányhivatallal.
+(4) A központi költségvetés a 2. § (3) bekezdés b) pont ba) és bb) alpontja szerinti fenntartók számára az állami fenntartású nevelési-oktatási intézményben és pedagógiai szakszolgálati intézményben pedagógus munkakörben alkalmazottak elismert létszáma, valamint a nevelő-oktató munkát közvetlenül segítők jogszabály szerint finanszírozott létszáma alapján átlagbér alapú költségvetési hozzájárulást biztosít a köznevelési feladat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetménye, munkabére és ezek járulékai kifizetéséhez. A 2. § (3) bekezdés b) pont bc) és bd) alpontja szerinti fenntartók esetében a hozzájárulás mértékét a központi költségvetésről szóló törvény állapítja meg.
 
-(5)
+(5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
+
+(6) A nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a kormányhivatallal.
 
 89. § (1) Azon a településen, ahol legalább nyolc óvodáskorú vagy nyolc alsó tagozatos korú gyermek rendelkezik lakóhellyel és a demográfiai adatok alapján feltételezhető, hogy ez a létszám legalább három évig fennmarad, továbbá ha a szülők ezt igénylik, óvoda esetében a települési önkormányzat, alsó tagozat esetében a települési önkormányzat kezdeményezésére az állami intézményfenntartó központ a hivatal tájékoztatása mellett gondoskodik a feladat helyben történő ellátásáról.
 
@@ -2516,7 +2518,7 @@ egyetértésben gyakorolja.
 - s) az Országos szakértői névjegyzékbe és az Országos érettségi vizsgaelnöki névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 - t) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát,
 - u) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
-- v) 2014. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének százalékában meghatározott tanévenkénti mértékét
+- v) 2015. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a mindenkori költségvetési törvényben rögzített vetítési alap százalékában meghatározott tanévenkénti mértékét,
 - w) a pedagógiai szakszolgálati tevékenységek során alkalmazott integrált nyomonkövető rendszer létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét
 
 rendeletben állapítsa meg.
@@ -2617,11 +2619,11 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (20) A nevelési-oktatási intézményben és a pedagógiai szakszolgálati intézményben pedagógus-munkakörben foglalkoztatott, továbbá a 65. § (9) bekezdésében meghatározott alkalmazott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött időnek minősülő, továbbá a fizetési fokozat megállapításánál beszámítandó idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A munka törvénykönyve hatálya alá tartozó munkavállalók esetén a Pedagógus I. fokozatba történő besorolásnál a munkaviszonyban töltött időt kell alapul venni a közalkalmazottak jogállásáról szóló törvényben meghatározottak alapján.
 
-(20a) 2013. szeptember 1. és 2014. augusztus 31. között az illetményalap a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének
+(20a) 2015. január 1. és 2015. augusztus 31. között az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
 
-- a) 118,5 százaléka középfokú végzettség esetén,
-- b) 157,8 százaléka alapfokozat esetén,
-- c) 172,9 százaléka mesterfokozat esetén.
+- a) 118,9 százaléka középfokú végzettség esetén,
+- b) 163,3 százaléka alapfokozat esetén,
+- c) 179,6 százaléka mesterfokozat esetén.
 
 (20b) E törvény 64. § (5) bekezdésének és 97. § (20) bekezdésének alkalmazásakor a közalkalmazottak jogállásáról szóló törvény közoktatási, valamint köznevelési intézményekben történő végrehajtásáról rendelkező kormányrendelet várakozási idő csökkentésre vonatkozó rendelkezéseit is figyelembe kell venni. Ha a 2013. szeptember 1-jei hatályú besoroláskor a munkáltató a várakozási idő csökkentésre vonatkozó rendelkezésre tekintet nélkül állapította meg a fizetési kategóriát, a besorolást 2014. január 31-ig ennek figyelembevételével módosítani kell, az ebből eredő illetménykülönbözetet a 2014. januári illetménnyel egyidejűleg kell a pedagógus számára kifizetni.
 

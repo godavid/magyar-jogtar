@@ -1174,7 +1174,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A helyi önkormányzatok belső kontrollrendszere
 
-119. § (1) A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, kormányzati ellenőrzési szerv, a fejezetek ellenőrzési szervezetei, a Magyar Államkincstár, az ellenőrzési hatóság, az európai uniós támogatások irányító hatóságai és a közreműködő szervezetek képviselői is ellenőrizhetik.
+119. § (1) A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, kormányzati ellenőrzési szerv, a fejezetek ellenőrzési szervezetei, a kincstár, az ellenőrzési hatóság, az európai uniós támogatások irányító hatóságai és a közreműködő szervezetek képviselői is ellenőrizhetik.
 
 (2) A központi költségvetési, európai uniós vagy egyéb nemzetközi támogatásban részesülő önkormányzat vagy társulás köteles a támogatást nyújtó, a támogatás lebonyolításában részt vevő és a támogatást ellenőrző szervezetekkel együttműködni.
 
@@ -1235,7 +1235,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - c) összehangolja a helyi önkormányzatok működésével összefüggő településfejlesztés, gazdálkodás, valamint az egyes adatbázisokkal kapcsolatos kormányzati feladatok ellátását;
 - d) koordinálja a helyi önkormányzatok rendelkezésére bocsátott fejlesztési források felhasználására kiírt pályázatokat, továbbá a helyi önkormányzatok gazdálkodását érintő jogszabályi feltételek kialakítását;
 - e) közreműködik az önkormányzatok feladatfinanszírozási rendszeréhez szükséges, továbbá kormányzati döntéseket megalapozó önkormányzati adatok gyűjtésében, rendszerezésében;
-- f) jogosult az államháztartásért felelős miniszter útján a Magyar Államkincstár önkormányzatok gazdálkodását érintő helyszíni vizsgálata elrendelésére;
+- f) jogosult az államháztartásért felelős miniszter útján a kincstár önkormányzatok gazdálkodását érintő helyszíni vizsgálata elrendelésére;
 - g) jogosult az államháztartás információs rendszerének valamennyi, az államháztartás önkormányzati alrendszerére vonatkozó adatának megismerésére, rendszerezésére;
 - h) dönt a 85. § (10) bekezdésében foglalt jóváhagyás megadásáról.
 
@@ -1279,7 +1279,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - d) kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzat határozatának felülvizsgálatát;
 - e) kezdeményezheti a határozathozatali, feladat ellátási kötelezettségét nem teljesítő helyi önkormányzattal szemben bírósági eljárás megindítását, a határozathozatal pótlásának elrendelését;
 - f) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál az Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatását;
-- g) kezdeményezheti a Magyar Államkincstárnál a központi költségvetésből járó támogatás jogszabályban meghatározott részének visszatartását vagy megvonását;
+- g) kezdeményezheti a helyi önkormányzatnak a központi költségvetés terhére nyújtott támogatások felülvizsgálatát a 117. § (1) bekezdés a) pontja szerinti támogatás esetében a kincstárnál, a helyi önkormányzatnak nyújtott költségvetési támogatás esetében a támogatónál;
 - h) pert indíthat a sorozatos törvénysértést elkövető polgármester tisztségének megszüntetése iránt;
 - i) fegyelmi eljárást kezdeményezhet a helyi önkormányzat polgármestere ellen és a polgármesternél a jegyző ellen;
 - j) kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását az Állami Számvevőszéknél;

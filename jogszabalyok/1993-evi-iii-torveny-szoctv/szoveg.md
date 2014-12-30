@@ -3097,7 +3097,7 @@ kell elvégezni.
 
 formájában lehet létrehozni.
 
-(2) Bentlakásos intézményi ellátás 2014. december 31-éig működtethető lakóotthoni formában.
+(2)
 
 140/Q. § A 2012. december 31-ét megelőzően hatályos 58. § alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.
 
