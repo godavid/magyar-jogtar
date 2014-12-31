@@ -46,7 +46,12 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (3) Az egészségügyi államigazgatási szerv kémiai biztonsággal összefüggő tevékenysége körében ellátja a veszélyes anyagokkal és készítményekkel kapcsolatos külön jogszabály által előírt eljárás szerinti engedélyezési és ellenőrzési feladatokat, a veszélyes anyagok, veszélyes készítmények egészségügyi toxikológiai nyilvántartását és tájékoztató szolgálat működtetését.
 
-(4)
+(4) Az egészségügyi államigazgatási szerv munkaegészségügyi tevékenysége körében
+
+- a) kimunkálja az egészséget nem veszélyeztető munkavégzés (munkakörülmények) személyi és tárgyi feltételeit, a munkavégzésből származó megterhelések, munkakörnyezeti kóroki tényezők megengedhető mértékeit (a továbbiakban: munkahigiénés határértékek), továbbá a foglalkozással összefüggő megbetegedések, mérgezések, fokozott expozíciók megelőzésére vonatkozó előírásokat (a továbbiakban: munkaegészségügyi előírások);
+- b) szakhatóságként, illetve szakértőként közreműködik a munkaegészségügyi előírások ellenőrzésében és érvényesítésében, a munkahigiénés határértékek vizsgálatának elrendelésében, továbbá vizsgálja a munkahigiénés határértékek betartását;
+- c) kivizsgálja a foglalkozással összefüggő megbetegedéseket, mérgezéseket, fokozott expozíciós eseteket;
+- d) együttműködik a foglalkozás-egészségügyi szolgálattal az egészséges munkakörnyezet kialakításával, egészségkárosodások megelőzésével kapcsolatos feladatokban.
 
 (5) Az élelmezés- és táplálkozásegészségügy keretében az egészségügyi államigazgatási szerv
 
@@ -378,7 +383,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
-(7) Felhatalmazás kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekülteket befogadó állomásokra, valamint a Rendőrség átmeneti szállásaira vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
+(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekültügyi hatóság által fenntartott, a menekültügyi őrizet végrehajtására szolgáló intézményre, a befogadó állomásra és a közösségi szállásra, valamint a rendőrség által fenntartott, az idegenrendészeti eljárásban elrendelt őrizet végrehajtására szolgáló őrzött szállásra vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
 (8) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetés-végrehajtási szervek tevékenységével kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 

@@ -309,6 +309,10 @@ terheli.
 
 (10) Ha a Bizottság elnökének jelölt képviselő tekintetében áll fenn kockázati tényező, a jelölés érvényességéről az Országgyűlés elnöke dönt.
 
+### Az Országgyűlés Külügyi bizottsága tagjaira vonatkozó különös szabályok
+
+19/B. § A Külügyi bizottság tagjának csak az az országgyűlési képviselő választható meg, aki tekintetében elvégezték a 19. §-ban meghatározott eljárás szerinti nemzetbiztonsági ellenőrzést.
+
 ### A nemzetbiztonsági szolgálatok személyi állománya
 
 20. § (1) A nemzetbiztonsági szolgálatok személyi állománya kormánytisztviselőkből,hivatásos szolgálati viszonyban álló személyekből és közalkalmazottakból áll.
@@ -955,23 +959,17 @@ azt jóváhagyja.
 
 ### Átmeneti rendelkezések
 
-76/A. § (1) Ha a nemzetbiztonsági ellenőrzés alá eső személyre vonatkozóan a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőző öt éven belül „C” típusú ellenőrzés lefolytatása alapján biztonsági kockázati tényezőt nem tartalmazó szakvélemény került kibocsátásra, az egyes törvényeknek a nemzetbiztonsági ellenőrzés új szabályainak megállapítása érdekében szükséges módosításáról szóló 2013. évi LXXII. törvény (a továbbiakban: Módtv.) hatályba lépését követően a Módtv. szerinti nemzetbiztonsági ellenőrzés kezdeményezése a szakvélemény érvényességi idejéig, de legkésőbb 2014. december 31-ig mellőzhető. A 68. § (4) bekezdésében meghatározott folyamatos nemzetbiztonsági ellenőrzés e személyekre is kiterjed.
+76/A. § (1) Ha a nemzetbiztonsági ellenőrzés alá eső személyre vonatkozóan a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőző öt éven belül „A”, „B” vagy „C” típusú ellenőrzés lefolytatása alapján kockázatmentes biztonsági szakvélemény került kibocsátásra, az egyes törvényeknek a nemzetbiztonsági ellenőrzés új szabályainak megállapítása érdekében szükséges módosításáról szóló 2013. évi LXXII. törvény (a továbbiakban: Módtv.) hatálybalépését követően a nemzetbiztonsági ellenőrzés kezdeményezése a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 90. napig mellőzhető.
 
-(2) A Módtv. hatálybalépésekor nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló, a 74. § i) pontjában meghatározott személy nemzetbiztonsági ellenőrzését
+(2) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény, valamint egyes törvényeknek a nemzetbiztonsági ellenőrzéssel összefüggő módosításáról szóló 2014. évi CIX. törvény hatályba lépését megelőzően, az Nbtv. 76/A. § (1) bekezdésében és (2) bekezdés b) pontjában meghatározott, 2014. december 31-i határidőre tekintettel kezdeményezett nemzetbiztonsági ellenőrzést az Nbtv. 71/B. §-ban foglaltak szerint le kell folytatni, ha a nemzetbiztonsági ellenőrzés alá vont személy érvényes és kockázatmentes biztonsági szakvéleménye 2010. március 31-ig került kiállításra.
 
-- a) ha rá vonatkozóan „C” típusú ellenőrzés lefolytatása alapján került kiadásra biztonsági kockázati tényezőt nem tartalmazó szakvélemény; a szakvélemény érvényessége lejártakor,
-- b) egyéb esetben 2014. december 31-ig
-
-kell kezdeményezni.
-
-(3) A Módtv. hatályba lépésekor, a 74. § i) pontban meghatározott személyekkel kapcsolatosan folyamatban lévő,
-
-- a) „C” típusú ellenőrzés lefolytatására a nemzetbiztonsági ellenőrzés kezdeményezésekor hatályos rendelkezéseket,
-- b) „A” és „B” típusú ellenőrzés lefolytatására a 68–72/D. §-ban foglalt rendelkezéseket kell alkalmazni.
-
-(4) A Módtv. hatályba lépésekor, a 74. § i) pont hatálya alá nem tartozó személyekkel kapcsolatosan folyamatban lévő nemzetbiztonsági ellenőrzést haladéktalanul meg kell szüntetni.
+(3) Ha a (2) bekezdés szerint kezdeményezett nemzetbiztonsági ellenőrzés által érintett személy érvényes és kockázatmentes biztonsági szakvéleménye 2010. március 31-ét követően került kiállításra, a nemzetbiztonsági szolgálat főigazgatója a kezdeményezés kézhezvételétől számított 8 napon belül írásban megkeresi a kezdeményezőt, hogy 15 napon belül nyilatkozzon; a kezdeményezési kötelezettség megszűnésére tekintettel is fenntartja-e kezdeményezési szándékát. Ha a kezdeményező kezdeményezésétől eláll vagy a határidő belül nem nyilatkozik, a nemzetbiztonsági ellenőrzés elrendelése mellőzhető.
 
 76/B. § E törvénynek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvénynek és a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvénynek a nemzetbiztonsági tárgyú parlamenti ellenőrzés hatékonnyá tételéhez szükséges módosításáról szóló 2013. évi CCXXXIX. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit a Módtv2. hatálybalépésekor folyamatban lévő ténymegállapító vizsgálatokra is alkalmazni kell.
+
+76/C. § (1) E törvénynek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény, valamint egyes törvényeknek a nemzetbiztonsági ellenőrzéssel összefüggő módosításáról szóló 2014. évi CIX. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezéseit a Módtv3. hatálybalépését követően az Országgyűlés Külügyi bizottságába megválasztandó tagokra kell alkalmazni.
+
+(2) A Módtv3. hatálybalépésekor az Országgyűlés Külügyi bizottságában fennálló tagság esetén a nemzetbiztonsági ellenőrzést 2015. február 28-ig kezdeményezi az Országgyűlés elnöke.
 
 ### Felhatalmazó rendelkezések
 

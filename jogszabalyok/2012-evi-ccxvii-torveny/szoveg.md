@@ -25,8 +25,9 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - f) a kizárólag a szakszolgálati engedély megszerzése vagy repülőszemélyzet esetében a fokozat megszerzése érdekében végzett gyakorlórepülés, abban az esetben, ha ezt a repülési tervben szereplő megfelelő megjegyzés alátámasztja, és a repülés célja nem utas- vagy teherszállítás, illetve a légi jármű kiindulási helyre juttatása vagy további személyszállítási cél,
 - g) a kizárólag tudományos kutatás vagy akár a levegőben, akár a szárazföldön lévő légi járművek vagy berendezések ellenőrzése, tesztelése vagy hitelesítése céljából végzett repülés,
 - h) az 5700 kg-nál kisebb maximális felszálló tömegre hitelesített légi járművel végzett repülés,
-- i) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1008/2008/EK európai parlamenti és tanácsi rendelet) értelmében előírt közszolgáltatási kötelezettség keretében végrehajtott repülés az Európai Unió működéséről szóló szerződés 349. cikkében meghatározott legkülső régiók útjain vagy olyan utakon, amelyeken a felajánlott kapacitás nem haladja meg az évi 30 000 ülőhelyet, és
-- j) az olyan légiközlekedési tevékenység, amelynek során a kereskedelmi légiközlekedési üzemben tartó három egymást követő 4 hónapos időszakban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összes kibocsátása kevesebb 10 000 tonnánál, amelybe beleszámítandó az állam uralkodója és közvetlen családja, állam- és kormányfője, valamint minisztere hivatalos út alkalmával történő szállítása is.
+- i) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1008/2008/EK európai parlamenti és tanácsi rendelet) értelmében előírt közszolgáltatási kötelezettség keretében végrehajtott repülés az Európai Unió működéséről szóló szerződés 349. cikkében meghatározott legkülső régiók útjain vagy olyan utakon, amelyeken a felajánlott kapacitás nem haladja meg az évi 30 000 ülőhelyet,
+- j) az olyan légiközlekedési tevékenység, amelynek során a kereskedelmi légiközlekedési üzembentartó 3 egymást követő 4 hónapos időszakban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összes kibocsátása kevesebb 10 000 tonnánál, amelybe beleszámítandó az állam uralkodója és közvetlen családja, állam- és kormányfője, valamint minisztere hivatalos út alkalmával történő szállítása is, és
+- k) a harmadik kereskedési időszakban azok a repülések, amelyek e pont kivételével a szóban forgó tevékenység körébe tartoznának, és amelyeket olyan, nem kereskedelmi légi jármű üzembentartó teljesít, amely kevesebb, mint évi 1000 tonna összkibocsátással járó repüléseket hajt végre.
 
 (5) A 16. alcímben foglalt rendelkezések hatálya a 2009/406/EK európai parlamenti és tanácsi határozat I. mellékletében meghatározott kategóriákból származó szén-dioxid, metán, dinitrogén-oxid, fluorozott szénhidrogének, perfluor-szénhidrogének, kén-hexafluorid és nitrogén-trifluorid tonna széndioxid-egyenértékben kifejezett kibocsátására terjed ki, az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információknak a nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet alapján meghatározottak szerint, az (1) bekezdésben meghatározott üvegházhatású gázok kibocsátásának kivételével.
 
@@ -80,9 +81,15 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - 30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
 - 31. üzemeltető: a környezethasználat feltételeit megállapító engedély jogosultja,
 - 32. villamosenergia-termelő: olyan létesítmény, amely 2005. január 1-jén vagy azt követően harmadik fél számára történő értékesítésre szánt villamos energiát termelt, és amelyben az 1. mellékletben felsorolt tevékenységek közül kizárólag tüzelőanyagok égetését végzik,
-- 33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére,
+- 33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére a jegyzékkezelő felé,
 - 34. derogációs kérelem: a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikke alapján az Európai Bizottság által a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c. cikke szerinti beruházásokról szóló SA.34086 (2012/N). számú bizottsági határozattal, és a C(2012) 8675 bizottsági határozattal (a továbbiakban: Európai Bizottság határozatai) jóváhagyott magyar derogációs kérelem,
 - 35. derogációs kiosztás: a derogációs kérelem alapján, a jelen törvény 6/A. alcímének megfelelően történő, egyszeri kiosztás egyes magyarországi villamosenergia-termelők részére.
+- 36. kereskedelmi légiközlekedési üzembentartó: olyan légi jármű üzembentartó, amely díjazás ellenében menetrendszerűen vagy nem menetrendszerűen utasok, áru vagy postai küldemények szállítására irányuló légiközlekedési szolgáltatást nyújt a nagyközönség számára,
+- 37. készenléti- vagy tartalék üzemmód: az alkalmankénti vagy kizárólag speciális körülmények megléte esetén történő üzemeltetés céljából létrehozott létesítmény működési jellemzője,
+- 38. kezdeti (múltbeli) tevékenységi szint: a létesítményrésznek kiosztott mennyisége kiszámításához használt, a 2011/278/EU bizottsági határozat 9. cikkének vagy adott esetben a 18. cikkének megfelelően kiszámított tevékenységi szint,
+- 39. mérvadó létesítményrész: olyan létesítményrész, amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához,
+- 40. részleges működésbeszüntetés: ha egy mérvadó létesítményrész tevékenységi szintjét egy adott naptári évben a létesítményrésznek kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint legalább 50%-kal, vagy legalább 75%-kal vagy 90%-kal csökkenti,
+- 41. részleges működésbeszüntetést követő újraindítás: olyan jelentős változás, amikor a működését beszüntetett létesítményrész tevékenységi szintje ismét meghaladja az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerinti kezdeti tevékenységi szintjének 25%-át, illetve 50%-át kitevő küszöbértéket.
 
 #### 3. A kibocsátási engedély és a nyomonkövetési terv
 
@@ -107,6 +114,8 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - a) az engedély kiadásakor megállapított feltételek megváltoztak, az engedély módosítása iránt intézkedik, amelynek eredményeként ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki,
 - b) az engedély kiadásához szükséges valamely feltétel nem áll fenn, a kibocsátási engedélyt visszavonja,
 - c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fennáll, az engedélyt végzéssel hatályában fenntartja.
+
+(3a) A hatóság a kibocsátási engedélyben végrehajtott módosításról, illetve az engedély visszavonásáról tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter). A miniszter tájékoztatja a hatóságot minden olyan, az üzemeltetők és a légi jármű üzembentartók működésével kapcsolatos adatról, amely adatot közvetlenül a miniszterhez nyújtottak be, és az adat megismerése a hatóság e törvény és a végrehajtására kiadott kormányrendelet szerinti feladat- és hatáskörébe tartozik.
 
 (4) A kibocsátási engedély egyazon üzemeltető által egy – a társasági adóról és az osztalékadóról szóló törvény szerinti – telephelyen üzemeltetett egy vagy több létesítményre is vonatkozhat.
 
@@ -148,15 +157,15 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 10. § (1) A légi jármű üzembentartó az 1. melléklet XXII. pontja szerinti, az üzemeltető a kibocsátási engedély hatálya alá tartozó tevékenységből származó üvegházhatású gáz kibocsátását – a 601/2012/EU bizottsági rendelet, e törvény és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomon követési terv, a légi jármű üzembentartó, illetve az üzemeltető belső eljárásrendje szerint – nyomon követi, és a jelentési időszak (tárgyév) éves kibocsátását tartalmazó hitelesített kibocsátási jelentését a hatóság részére a tárgyévet követő év március 31-ig benyújtja.
 
-(2) Ha a légi jármű üzembentartó térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, az (1) bekezdésben foglaltakon túl a tonnakilométer-adatokat is nyomon követi a 601/2012/EU bizottsági rendelet, e törvény és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomon követési terv, valamint a légi jármű üzembentartó belső eljárásrendje szerint, és arról a hatóság részére – a (3) bekezdésben foglalt kivétellel – hitelesített jelentést tesz az ellenőrzési évet követő év március 31-ig.
+(2) Ha a légi jármű üzembentartó térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, az (1) bekezdésben foglaltakon túl a tonnakilométer-adatokat is nyomon követi a 601/2012/EU bizottsági rendelet, e törvény és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomon követési terv, valamint a légi jármű üzembentartó belső eljárásrendje szerint, és arról a hatóság részére – a (3) bekezdésben foglalt kivétellel – hitelesített tonnakilométer-adatokat tartalmazó jelentést tesz az ellenőrzési évet követő év március 31-ig.
 
 (3) Ha a légi jármű üzembentartó előre nem látható körülmények miatt, önhibáján kívül a (2) bekezdés szerinti hitelesített jelentését nem tudja a hatóság rendelkezésére bocsátani, a 601/2012/EU bizottsági rendelet 68. cikk (1) bekezdése szerinti rendelkezésre álló legpontosabb tonnakilométer-adatokat adja át a hatóság részére az ellenőrzési évet követő év március 31-ig, majd a 601/2012/EU bizottsági rendelet 68. cikk (3) bekezdése szerint biztosítja a benyújtott tonnakilométer-adatok hitelesítését és benyújtja hitelesített jelentését a hatóságnak.
 
-(4) A bezáró létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a bezárás évére vonatkozó hitelesített jelentést tenni. Ha a létesítmény bezárására az adott év február 28-ig kerül sor, a bezárás évére vonatkozó jelentéstétel és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
+(4) A bezáró létesítmény üzemeltetője a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerint köteles a bezárás évére vonatkozó hitelesített jelentést tenni. Ha a létesítmény bezárására az adott év február 15-ig kerül sor, a bezárás évére vonatkozó jelentéstétel és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 
-(5) Ha a légi jármű üzembentartó légiközlekedési tevékenysége megszűnik, vagy a tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, azt a bejelentés alapjául szolgáló esemény napjától számított 15 napon belül az államháztartásért felelős miniszternek (a továbbiakban: miniszter) és az energiapolitikáért felelős miniszternek és a hatóságnak bejelenti. A bejelentés tartalmazza a bejelentés alapjául szolgáló esemény időpontját és az annak igazolására alkalmas dokumentumot. A tevékenység megszűnésének vagy az 1. melléklet XXII. pontja alóli kikerülésnek napját követő 30 napon belül a légi jármű üzembentartója köteles a tevékenység megszűnésének, e törvény hatálya alóli kikerülésének évére vonatkozóan hitelesített jelentést benyújtani a hatóság részére. Ha a bejelentett eseményre az adott év február 28-ig kerül sor, a jelentés és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
+(5) Ha a légi jármű üzembentartó légiközlekedési tevékenysége megszűnik vagy a tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, azt a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerint bejelenti és hitelesített jelentést tesz. Ha a bejelentett eseményre az adott év február 15-ig kerül sor, a jelentés és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 
-11. § A 10. § (1) és (2) bekezdése szerinti kibocsátási jelentéseket és tonnakilométer-adatokat tartalmazó jelentéseket akkreditált hitelesítő szervezettel kell hitelesíttetni.
+#### 11. §
 
 #### 5. Az ÜHG-egység nyilvántartása, érvényessége, megszűnése
 
@@ -178,34 +187,42 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (2) Az egyes kereskedési időszak kezdete után négy hónappal az érvényességét vesztett, és a jelentési időszakokat követően vissza nem adott és nem törölt ÜHG-egység forgalmi jegyzékből történő törlése iránt a jegyzékkezelő intézkedik. A törléssel az ÜHG-egység megszűnik.
 
-(3) A (2) bekezdés szerint megszűnt ÜHG-egység helyett – a törléssel egyidejűleg – a kibocsátási egység jogosultjának forgalmi jegyzékben vezetett számláján a jegyzékkezelő a folyó időszakra érvényes ÜHG-egységet ír jóvá.
+(3) A (2) bekezdés szerint megszűnt ÜHG-egység helyett – a törléssel egyidejűleg – az ÜHG-egység jogosultjának forgalmi jegyzékben vezetett számláján a jegyzékkezelő a folyó időszakra érvényes ÜHG-egységet ír jóvá.
 
-14/A. § A miniszter a 12. § (2) bekezdésében, a 15. § (4) bekezdésében, a 15. § (5) bekezdés első mondatában, a 16. § (5) bekezdésében, a 18/A. § (3) bekezdésében, a 18/B. § (4) bekezdésében, a 18/F. § (1) bekezdésében, a 30. § (2) bekezdésében és a 38. § (1) bekezdésében meghatározott feladatait az energiapolitikáért felelős miniszterrel együttműködésben látja el.
+14/A. § A miniszter a 12. § (2) bekezdésében, a 30. § (2) bekezdésében és a 38. § (1) bekezdésében meghatározott feladatait az energiapolitikáért felelős miniszterrel együttműködésben látja el.
 
 #### 6. A kibocsátási egységek kiosztása
 
-15. § (1) A harmadik kereskedési időszakban a 2011/278/EU bizottsági határozat VI. mellékletében meghatározott referenciaértékek és kisegítő szabályok alapján kell elvégezni.
+15. § (1) A kibocsátási egységek kiosztását a harmadik kereskedési időszakban a 2011/278/EU bizottsági határozat VI. mellékletében meghatározott referenciaértékek és kisegítő szabályok alapján kell elvégezni.
 
-(2) A térítésmentesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egységmennyiség 100%-a azon létesítmények számára, amelyek a módosításokkal egységes szerkezetbe foglalt 2010/2/EU tanácsi határozat mellékletében felsorolt ágazatokba tartoznak.
+(2) A térítésmentesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egységmennyiség 100%-a azon létesítmények számára, amelyek a szén-dioxid-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listáját meghatározó, az Európai Unió kötelező jogi aktusában felsorolt ágazatokba tartoznak.
 
 (3) Az térítésmentesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egység-mennyiség 80%-a 2013-ra, majd lineárisan csökkenő mértékű éves kiosztás mellett 30%-a 2020-ra azon létesítmények esetében, amelyek nem tartoznak a (2) bekezdésben hivatkozott ágazatokba. Az alkalmazandó szorzótényezőket a 2011/278/EU bizottsági határozat szabályozza.
 
-(4) A létesítményeknek évente térítésmentesen kiosztható kibocsátásiegység-mennyiséget a Nemzeti Végrehajtási Intézkedés tartalmazza. A Nemzeti Végrehajtási Intézkedés tervezetét a miniszter készíti el és nyújtja be jóváhagyásra az Európai Bizottságnak. A Nemzeti Végrehajtási Intézkedést az Európai Bizottság jóváhagyását követően a Kormány határozatban teszi közzé.
+(4) A létesítményeknek évente térítésmentesen kiosztható kibocsátásiegység-mennyiséget a Nemzeti Végrehajtási Intézkedés tartalmazza. A Nemzeti Végrehajtási Intézkedés tervezetét a miniszter készíti el és nyújtja be jóváhagyásra az Európai Bizottságnak. A Nemzeti Végrehajtási Intézkedés közzétételéről az Európai Bizottság jóváhagyását követően a Kormány gondoskodik.
 
 (5) A Nemzeti Végrehajtási Intézkedés alapján a miniszter elkészíti a nemzeti kiosztási táblát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a miniszter minden év február 28-ig a jegyzékkezelő útján gondoskodik a kibocsátási egységeknek az üzemeltetők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
 
+(6) A térítésmentes kibocsátási-egység kiosztása több lépésben is végrehajtható.
+
+(7) A tárgyévi ingyenesen kiosztásra kerülő ÜHG-egységmennyiségeket a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
+
+(8) A szén-dioxid-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listájának módosulása esetén a miniszter a Kormány által az e törvény végrehajtására kiadott kormányrendeletben foglaltaknak megfelelően módosítja a Nemzeti Végrehajtási Intézkedést.
+
 16. § (1) Az új belépők az üzemszerű működés megkezdését követően egy éven belül a miniszterhez benyújtott kérelem alapján részesülhetnek térítésmentes kiosztásban. A határidő elmulasztása jogvesztő. Az üzemszerű működés megkezdése előtt keletkezett, független hitelesítő által hitelesített kibocsátás esetében további kibocsátási egység kiosztása a múltbeli kibocsátások alapján lehetséges. A kérelemhez ebben az esetben csatolni kell a hitelesítői jelentést.
 
-(2) A kérelmet a miniszter jóváhagyás céljából továbbítja az Európai Bizottságnak, majd az Európai Bizottság döntését követően és annak megfelelően a kérelmet jóváhagyja vagy elutasítja. Jóváhagyás esetén a miniszter a kereskedési időszak egyes éveire vonatkozóan megállapítja a létesítmény számára térítésmentesen kiosztható kibocsátási egységek mennyiségét és a jegyzékkezelő útján gondoskodik a kibocsátási egységek üzemeltető számláján történő jóváírásáról.
+(2) A kérelmet a miniszter jóváhagyás céljából továbbítja az Európai Bizottságnak. Az Európai Bizottság döntését érvényesítve a miniszter a kérelmet jóváhagyja vagy elutasítja. Jóváhagyás esetén a miniszter a kereskedési időszak egyes éveire vonatkozóan megállapítja a létesítmény számára térítésmentesen kiosztható kibocsátási egységek mennyiségét és a jegyzékkezelő útján gondoskodik a kibocsátási egységek üzemeltető számláján történő jóváírásáról.
 
 (3) Meglévő létesítmények esetében, ha a létesítmény kapacitását 2011. június 30. után
 
 - a) jelentősen bővítették, a bővítés tekintetében az üzemeltető kérelemre részesülhet térítésmentes kiosztásban,
 - b) jelentősen csökkentették, a csökkentésre tekintettel a kapacitáscsökkentés évét követő évtől csökken az térítésmentesen kiosztott kibocsátási egységek száma.
 
-(4) Ha egy létesítmény beszünteti működését, a működés beszüntetésének évét követő évtől nem részesülhet térítésmentes kibocsátási egységben. A 2011/278/EU bizottsági határozat 22. cikk (1) és (2) bekezdése szerint működését részlegesen beszüntető létesítmény számára történő kibocsátási-egység-kiosztást a 2011/278/EU bizottsági határozat szerint ki kell igazítani.
+(4) Ha egy létesítmény beszünteti működését, a működés beszüntetésének évét követő évtől nem részesülhet térítésmentes kibocsátási egységben. A jelentős kapacitáscsökkentésen, a részleges működésbeszüntetésen és a részleges működésbeszüntetést követő újraindításon átesett létesítmény számára történő kibocsátási egységkiosztást az e törvény végrehajtására kiadott kormányrendelet szerint ki kell igazítani.
 
-(5) A (2)–(4) bekezdés szerinti módosításokat követően a miniszter elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát és megküldi az Európai Bizottságnak. Az Európai Bizottság jóváhagyása esetén, a nemzeti kiosztási tábla módosítását a központi tisztviselő végzi el az európai egységes ügyleti jegyzőkönyvben.
+(5) A (2)–(4) bekezdés szerinti módosításokat követően a miniszter elkészíti a nemzeti kiosztási táblára vonatkozó javaslatát, és megküldi az Európai Bizottságnak. Az Európai Bizottság jóváhagyása esetén, a nemzeti kiosztási tábla bevitelét vagy módosítását a központi tisztviselő végzi el az európai uniós ügyleti jegyzőkönyvben.
+
+(6) A jelentős kapacitáscsökkentésen, részleges működésbeszüntetésen és a részleges működésbeszüntetést követő újraindításon átesett létesítményeknek a (4) bekezdés szerinti kibocsátási egységkiigazítás elvégzéséhez a miniszter részére benyújtandó adatszolgáltatást akkreditált hitelesítő szervezet által hitelesítve kell benyújtani a Kormány által az e törvény végrehajtására kiadott rendeletben foglaltaknak megfelelő határidőben és módon.
 
 17. § (1) Az érintett villamosenergia-termelők részére a derogációs kérelem alapján történő derogációs kiosztás kivételével nem részesülhetnek kiosztásban a villamosenergia-termelők, a szén-dioxid elkülönítését szolgáló létesítmények, a szén-dioxid szállítására szolgáló csővezetékek és a széndioxid-tárolóhelyek.
 
@@ -221,7 +238,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (2) A derogációs kiosztásban részt vevő villamosenergia-termelők körét és a részükre 2013-ban kiosztható kibocsátási egységek mennyiségét a derogációs kérelem alapján a Kormány rendeletben határozza meg.
 
-(3) A Kormány (2) bekezdés szerinti rendelete alapján a miniszter, a (6) bekezdésben foglaltakra figyelemmel, elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő, a (6) bekezdésben foglaltakra figyelemmel, a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
+(3) A Kormány (2) bekezdés szerinti rendelete alapján a miniszter a (6) bekezdésben foglaltakra figyelemmel elkészíti a nemzeti kiosztási táblára vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő a (6) bekezdésben foglaltakra figyelemmel a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
 
 (4) A derogációs kiosztásban részesülő villamosenergia-termelő a részére a (3) bekezdés szerint kiosztott kibocsátási egységek piaci értékét a hatóság 18/C. § (2) szerinti központi számlájára megfizeti. A piaci érték meghatározására vonatkozó szabályokat a Kormány rendeletben határozza meg. Az egyes villamosenergia-termelők fizetési kötelezettségének a mértékét a hatóság állapítja meg. A villamosenergia-termelők a fizetési kötelezettségüknek az adott villamosenergia-termelőre vonatkozó határozat jogerőre emelkedésétől számított 7 napon belül tesznek eleget.
 
@@ -277,19 +294,19 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 #### 7. A légiközlekedési kibocsátási egységek kiosztása a légi jármű üzembentartóknak
 
-19. § (1) A légiközlekedési kibocsátási egységek teljes mennyiségének az Európai Bizottság által meghatározott referenciaérték alapján kiszámított része térítés nélkül kerül kiosztásra a 20. § (1) bekezdés szerinti kérelmet benyújtó légi jármű üzembentartók részére.
+19. § (1) A légiközlekedési kibocsátási egységek teljes mennyiségének az Európai Bizottság által a 2011/638/EU bizottsági határozatban meghatározott referenciaérték alapján kiszámított része térítés nélkül kerül kiosztásra a 20. § (1) bekezdése szerinti kérelmet benyújtó légi jármű üzembentartók részére.
 
 (2) A légiközlekedési kibocsátási egységeknek az Európai Bizottság által meghatározott referenciaérték alapján kiszámított része a közösségi, egyes légi jármű üzembentartók részére fenntartott tartalékalapból kerül kiosztásra a légiközlekedési új belépők részére a 21. § (1) bekezdésében meghatározott kérelmek alapján.
 
 20. § (1) A légi jármű üzembentartó minden egyes kereskedési időszakra a miniszterhez benyújtott kérelemmel igényelheti a térítésmentesen kiosztható légiközlekedési kibocsátási egységek kiosztását. A kérelmet legalább 21 hónappal az érintett kereskedési időszak kezdetét megelőzően kell benyújtani. A kérelemhez mellékelni kell az ellenőrzési évre vonatkozó hitelesített tonnakilométer-adatokat tartalmazó jelentést.
 
-(2) A kérelmet a miniszter a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal, a légi közlekedésre vonatkozó Nemzeti Végrehajtási Intézkedés tervezeteként jóváhagyásra megküldi az Európai Bizottságnak. Az Európai Bizottság által elfogadott légiközlekedési Nemzeti Végrehajtási Intézkedést a Kormány határozatban közzéteszi.
+(2) A kérelmet a miniszter a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal, a légiközlekedésre vonatkozó Nemzeti Végrehajtási Intézkedés tervezeteként jóváhagyásra megküldi az Európai Bizottságnak. Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát vagy annak a 21. § (5) bekezdése szerinti módosítását a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
 
-(3) A miniszter az Európai Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül megállapítja a kérelmet benyújtó összes légi jármű üzembentartó részére az adott időszakra kiosztott légiközlekedési kibocsátási egységek teljes számát, és az egyes üzemben tartók számára az egyes évekre kiosztott légiközlekedési kibocsátási egységek számát. A kereskedési időszakra vonatkozó nemzeti légiközlekedési kiosztási tábla tervezetét a miniszter megküldi az Európai Bizottságnak jóváhagyásra. Amennyiben az Európai Bizottság elutasítja a nemzeti légiközlekedési kiosztási táblára vonatkozó javaslatot, a miniszter 3 hónapon belül új javaslatot nyújt be.
+(3) A kérelmet a miniszter a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal, a légiközlekedésre vonatkozó Nemzeti Végrehajtási Intézkedés tervezeteként jóváhagyásra megküldi az Európai Bizottságnak. Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát vagy annak a 21. § (5) bekezdése szerinti módosítását a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.A miniszter az Európai Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül megállapítja a kérelmet benyújtó összes légi jármű üzembentartó részére az adott időszakra kiosztott légiközlekedési kibocsátási egységek teljes számát, és az egyes üzemben tartók számára az egyes évekre kiosztott légiközlekedési kibocsátási egységek számát. A kereskedési időszakra vonatkozó nemzeti légiközlekedési kiosztási tábla tervezetét a miniszter megküldi az Európai Bizottságnak jóváhagyásra. Amennyiben az Európai Bizottság elutasítja a nemzeti légiközlekedési kiosztási táblára vonatkozó javaslatot, a miniszter 3 hónapon belül új javaslatot nyújt be.
 
 (4) A nemzeti légiközlekedési kiosztási tábla alapján a miniszter – a jegyzékkezelő útján – minden év február 28-ig gondoskodik az adott üzembentartó forgalmi jegyzékben vezetett számláján az adott évre kiosztott kibocsátási egységek jóváírásáról.
 
-21. § (1) A légiközlekedési új belépő az adott kereskedési időszakra a miniszterhez benyújtott kérelemmel igényelheti a térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását. A kérelmet a kereskedési időszak harmadik évének június 30. napjáig kell benyújtani. A kérelemhez csatolni kell az adott kereskedési időszak második naptári évére vonatkozó hitelesített tonnakilométer-adatokat tartalmazó jelentést és valamennyi, a térítésmentes kiosztásra való jogosultság feltételeinek való megfelelést igazoló dokumentumot.
+21. § (1) A légiközlekedési új belépő az adott kereskedési időszakra a miniszterhez benyújtott kérelemmel igényelheti a térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását. A kérelmet a kereskedési időszak harmadik évének június 30. napjáig kell benyújtani. A kérelemhez csatolni kell az adott kereskedési időszak második naptári évére vonatkozó hitelesített tonnakilométer-adatokat tartalmazó jelentést és valamennyi, a térítésmentes kiosztásra való jogosultság feltételeinek való megfelelést igazoló dokumentumot, valamint az e törvény végrehajtására kiadott kormányrendeletben meghatározottakat.
 
 (2) A kérelmeket a miniszter legkésőbb a kérelem tárgyát képező kereskedési időszak harmadik évének december 31. napjáig megküldi jóváhagyásra az Európai Bizottságnak.
 
@@ -297,17 +314,17 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (4) A légiközlekedési kibocsátási egységeknek az üzemeltető forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a jegyzékkezelő útján gondoskodik.
 
-(5) A miniszter – az Európai Bizottság (3) bekezdés szerinti döntését követően – elkészíti a nemzeti légiközlekedési kiosztási tábla módosítására vonatkozó javaslatot és jóváhagyásra megküldi az Európai Bizottságnak. Az Európai Bizottság jóváhagyása esetén a miniszter közzéteszi a módosított légiközlekedési kiosztási táblát.
+(5) A miniszter – az Európai Bizottság (3) bekezdés szerinti döntését követően – elkészíti a nemzeti légiközlekedési kiosztási tábla módosítására vonatkozó javaslatot és jóváhagyásra megküldi az Európai Bizottságnak. A légiközlekedési kibocsátási egységeknek a légi jármű üzembentartó forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a 20. § (4) bekezdésében meghatározottak szerint gondoskodik.
 
 (6) A légiközlekedési új belépő légi jármű üzembentartó részére térítésmentesen legfeljebb 1 000 000 légiközlekedési kibocsátási egység osztható ki.
 
-22. § (1) A légi jármű üzembentartó köteles azt a bejelentés alapjául szolgáló esemény napjától számított 15 napon belül a miniszternek és a hatóságnak bejelenteni, ha
+22. § (1) A légi jármű üzembentartó köteles azt a bejelentés alapjául szolgáló esemény napjától számított 45 napon belül a miniszternek és a hatóságnak bejelenteni, ha
 
 - a) a légi jármű üzembentartó több légi jármű üzembentartóra szétvált,
 - b) a továbbiakban a tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, vagy
 - c) több légi jármű üzembentartó egyesült.
 
-(2) A bejelentés tartalmazza a bejelentés alapjául szolgáló esemény bekövetkezésének időpontját és az annak igazolására alkalmas dokumentumokat. A miniszter a bejelentésről értesíti az Európai Bizottságot és a központi tisztviselőt.
+(2) A bejelentés tartalmazza a bejelentés alapjául szolgáló esemény bekövetkezésének időpontját és az annak igazolására alkalmas dokumentumokat. A hatóság a bejelentéstől számított 20 munkanapon belül írásban tájékoztatja a minisztert a bejelentés megtételéről. A miniszter a bejelentésről értesíti az Európai Bizottságot és a központi tisztviselőt.
 
 (3) A 10. § (5) bekezdése szerinti és amennyiben szükséges az (1) bekezdés szerinti bejelentést követően a miniszter elkészíti a nemzeti légiközlekedési kiosztási tábla módosítására vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság jóváhagyását követően a miniszter közzéteszi a módosított nemzeti légiközlekedési kiosztási táblát.
 
@@ -315,7 +332,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 #### 8. Az ÜHG-egységek visszaadása
 
-24. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni az állam részére. A visszaadott kibocsátási egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
+24. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni a Magyar Állam részére. A visszaadási kötelezettség teljesítéséhez az üzemeltető a más tagállam hatáskörrel rendelkező hatósága által kiadott kibocsátási egységet is felhasználhatja. A visszaadott kibocsátási egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
 
 (2) A légi jármű üzembentartó köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű ÜHG-egységet a tárgyévet követő év április 30-ig visszaadni az állam részére. A visszaadott ÜHG-egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
 
@@ -323,10 +340,12 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 - a) az üzemeltető és a légi jármű üzembentartó nem adott le hitelesített jelentést, vagy
 - b) a leadott hitelesítési jelentésben a hitelesítő szervezet azt állapítja meg, hogy
-  - ba) a kibocsátás nem a jogszabályoknak, illetve a kibocsátási engedélynek megfelelően történt, vagy
-  - bb) a nyomon követés nem felelt meg az előírásoknak, akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközlekedési kiosztási táblában szereplő adatok és a forgalmi jegyzékben szereplő adatok alapján – az üzemeltető vagy a légi jármű üzemeltető költségére bevont hitelesítő útján – a hatóság állapítja meg a tárgyévi kibocsátást, amelynek megfelelő mennyiségű kibocsátási egységet, légi jármű üzembentartó esetében ÜHG-egységet a hatóság felszólítására vissza kell adniuk az állam részére.
+  - ba) a kibocsátás nem a jogszabályoknak, valamint a kibocsátási engedélynek megfelelően történt, vagy
+  - bb) a nyomon követés nem felelt meg az előírásoknak,
 
-(4) A légiközlekedési kibocsátási egységeket kizárólag a légiközlekedési kibocsátási egységek visszaadásával kapcsolatos kötelezettségek teljesítésére lehet felhasználni. A légi jármű üzembentartó a visszaadási kötelezettség teljesítéséhez felhasználhat kibocsátási egységet.
+akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközlekedési kiosztási táblában szereplő adatok és a forgalmi jegyzékben szereplő adatok alapján – az üzemeltető vagy a légi jármű üzembentartó költségére bevont hitelesítő útján – a hatóság állapítja meg a tárgyévi kibocsátást, amelynek megfelelő mennyiségű kibocsátási egységet, légi jármű üzembentartó esetében ÜHG-egységet a hatóság felszólítására vissza kell adniuk az állam részére.
+
+(4) A légiközlekedési kibocsátási egységeket kizárólag a légiközlekedési kibocsátási egységek visszaadásával kapcsolatos kötelezettségek teljesítésére lehet felhasználni. A légi jármű üzembentartó a visszaadási kötelezettség teljesítéséhez felhasználhat kibocsátási egységet, továbbá a más tagállam hatáskörrel rendelkező hatósága által kiadott ÜHG-egységet is.
 
 (5) Nem vonatkozik a visszaadási kötelezettség az olyan hitelesített kibocsátásra, amelyet elkülönítettek, és a szén-dioxid geológiai tárolásáról szóló jogszabály szerinti tárolási engedéllyel rendelkező létesítménybe szállítottak állandó tárolás céljából.
 
@@ -362,15 +381,26 @@ fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében 
 
 28. § Az ÜHG egység mint forgalomképes vagyoni értékű jog az állami vagyonból történő kikerülést (térítésnélküli átadás, értékesítés) követően szabadon átruházható az EGT-megállapodásban részes államokban lakóhellyel rendelkező természetes személyek, székhellyel rendelkező jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, illetve olyan, harmadik állambeli természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, amelyek harmadik állama elismeri az ÜHG-egységeket.
 
-#### 10. A kibocsátáscsökkentési egység és az igazolt kibocsátás-csökkentési egység beszámítása a harmadik kereskedési időszakban
+#### 10. A kibocsátás-csökkentési egység és az igazolt kibocsátás-csökkentési egység felhasználása a harmadik kereskedési időszakban
 
-29. § (1) Az üzemeltető és a légi jármű üzembentartó a 2008–2012 közötti kereskedési időszakban a részükre engedélyezett, de fel nem használt, illetve a korábbi kereskedési időszakban be nem számított, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvényben (a továbbiakban: Éhvt.) meghatározott kibocsátás-csökkentési egység (a továbbiakban: ERU) és az igazolt kibocsátás-csökkentési egység (a továbbiakban: CER) 2013–2020 közötti időszakra érvényes kibocsátási egységre történő átváltását kérelmezhetik az energiapolitikáért felelős miniszternél. A kérelmet legkésőbb 2014. június 30-ig kell benyújtani. Az energiapolitikáért felelős miniszter 2015. március 31-ig gondoskodik az átváltásról és a kibocsátási egységeknek az üzemeltető, a légi jármű üzembentartó forgalmi jegyzékben vezetett számláján történő jóváírásáról.
+29. § (1) A 2013–2020 közötti kereskedési időszakban az üzemeltető és a légi jármű üzembentartó az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvényben (a továbbiakban: Éhvt.) meghatározott kibocsátás-csökkentési egységet (a továbbiakban: ERU) és az igazolt kibocsátás-csökkentési egységet (a továbbiakban: CER) (ERU és CER a továbbiakban együtt: nemzetközi jóváírási jogosultságok) felhasználhatja a (2)–(5) bekezdésben meghatározottak szerint.
 
-(2) Az üzemeltető a 2008–2020 közötti időszakban legfeljebb a számára a második kereskedési időszakra (2008–2012) – új belépők esetében a számára új belépőként történő kiosztást is figyelembe véve – engedélyezett mennyiség erejéig, vagy ha az magasabb, a számára a második kereskedési időszakban (2008–2012) térítésmentesen kiosztott kibocsátási egységek 11%-áig beszámíthat ERU és CER egységeket a visszaadási kötelezettsége teljesítéséhez.
+(2) Az üzemeltetők és légi jármű üzembentartók 2015. március 31-ig kérhetik a 2008 és 2012 közötti időszak során a közösségi rendszerben felhasználható projekttípusok tekintetében a 2012-ig elért kibocsátáscsökkentés alapján kiadott nemzetközi jóváírási jogosultságok ÜHG-egységre történő átváltását az alábbiak figyelembevételével, mindig a magasabb érték szerint:
 
-(3) A légi jármű üzembentartó a 2013–2020 közötti kereskedési időszakban a hitelesített kibocsátása 1,5%-ának megfelelő mennyiségig számíthat be ERU és CER egységeket a visszaadási kötelezettsége teljesítéséhez.
+- a) a 2008 és 2012 közötti időszakra vonatkozóan a részükre felhasználásra engedélyezett, de fel nem használt nemzetközi jóváírási jogosultságok erejéig, vagy
+- b) a 2008 és 2012 közötti időszakban a számukra kiosztott kibocsátási egység erejéig, amelynek aránya nem lehet magasabb 11%-nál.
 
-(4) Az (1) szerinti átváltás, valamint a (2) és (3) bekezdés szerinti beszámítás során nem használható fel olyan egység, amely nukleáris létesítményekkel kapcsolatban, földhasználat, a földhasználat megváltozása vagy az erdőgazdálkodási tevékenység eredményeire tekintettel került kiadásra, valamint amelyre uniós szinten elfogadott korlátozás vonatkozik.
+(3) Az üzemeltetők és légi jármű üzembentartók 2020. december 31-ig kérhetik a 2008-tól 2012-ig terjedő időszak során a közösségi rendszerben felhasználható projekttípusok tekintetében a 2013 előtt bejegyzett projektek esetében 2013-tól elérendő kibocsátáscsökkentés alapján kiadott nemzetközi jóváírási jogosultságok ÜHG-egységre történő átváltását:
+
+- a) a 2008 és 2012 közötti időszakra vonatkozóan a részükre felhasználásra engedélyezett, de fel nem használt nemzetközi jóváírási jogosultságok erejéig, vagy
+- b) a 2008 és 2012 közötti időszakban a számukra kiosztott kibocsátási egység erejéig, amelynek aránya nem lehet magasabb 11%-nál.
+
+(4) Az üzemeltetők és légi jármű üzembentartók a legkevésbé fejlett országokban 2013 után megkezdendő projektjeikben 2013-tól elért kibocsátáscsökkentés alapján kiadott CER-ek ÜHG-egységre történő átváltását a közösségi rendszerben a 2008-tól 2012-ig terjedő időszak során felhasználható projekttípusok vonatkozásában az alábbiakban meghatározott mennyiségek erejéig addig kérelmezhetik, ameddig a projektben érintett országok erre vonatkozó megállapodást nem ratifikálnak a Közösséggel, de legkésőbb 2020. december 31-ig:
+
+- a) a 2008 és 2012 közötti időszakra vonatkozóan a részükre felhasználásra engedélyezett, de fel nem használt nemzetközi jóváírási jogosultságok erejéig, vagy
+- b) a 2008 és 2012 közötti időszakban a számukra kiosztott kibocsátási egység erejéig, amelynek aránya nem lehet magasabb 11%-nál.
+
+(5) Az Európai Bizottság által ellenőrzött és jóváhagyott nemzetközi jóváírási jogosultságok (1)–(4) bekezdés szerinti felhasználására vonatkozó jogosultsági tábláját a nemzeti tisztviselő kezeli.
 
 #### 11. A forgalmi jegyzék
 
@@ -426,21 +456,23 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 (3) A hatóság a felügyeleti díjat elkülönítetten tartja nyilván és az ÜHG-egységek kereskedelmi rendszerének működtetésével kapcsolatos tevékenységének fedezetére fordítja.
 
-(4) A bezáró létesítmény üzemeltetője a létesítmény bezárásának bejelentésével egyidejűleg a bezárás évére megállapított felügyeleti díj teljes összegét megfizeti.
+(4) A bezáró létesítmény üzemeltetője a létesítmény bezárásának bejelentésétől számított 30 napon belül a bezárás évére megállapított felügyeleti díj teljes összegét megfizeti. Amennyiben a bezárás bejelentésének időpontjáig a tárgyévi térítésmentes kibocsátási egységek kiosztására nem kerül sor, a bezárás évére vonatkozó felügyeleti díj megfizetésének határideje a létesítmény részére történő kibocsátási egységkiosztás megtörténtét követő 30 nap.
 
 (5) Ha a légi jármű üzembentartója év közben beszünteti tevékenységét, vagy tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, ezen események bejelentésével egyidejűleg az e törvény hatálya alá tartozó tevékenység utolsó évére megállapított felügyeleti díj teljes összegét megfizeti.
 
-(6) Ha az üzemeltető vagy a légi jármű üzembentartó a felügyeleti díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot bocsát ki. A felügyeleti díjat esedékességétől a jegybanki alapkamat kétszeresének megfelelő mértékű késedelmi kamat terheli. A jogerős határozat alapján a hatóság a felügyeleti díj adók módjára történő behajtása érdekében soron kívül megkeresi az állami adóhatóságot. A felügyeleti díj és a késedelmi kamat megfizetéséig a hatóság kezdeményezésére a miniszter zároltatja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját. A számla zárolásának feloldására a miniszter akkor utasítja a jegyzékkezelőt, ha a hatóság értesíti a követelés beérkezéséről.
+(6) Ha az üzemeltető vagy a légi jármű üzembentartó a felügyeleti díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A felügyeleti díjat esedékességétől a jegybanki alapkamat kétszeresének megfelelő mértékű késedelmi pótlék terheli. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az állami adóhatóságot. A felügyeleti díj és a késedelmi pótlék megfizetéséig a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját, és arról tájékoztatást nyújt a miniszter részére. A számla zárolásának feloldását a jegyzékkezelő a követelés beérkezését követő 15 napon belül végzi el.
 
-#### 15. Nemzetközi jelentéstétel
+(7) A (6) bekezdés alapján jogerősen kiszabott és meg nem fizetett felügyeleti díj, és az emiatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+
+#### 15. Nemzetközi jelentéstétel az ÜHG-egység kereskedelmi rendszer működéséről
 
 36. § (1) A hatóság a miniszter útján évente jelentést nyújt be az Európai Bizottság számára az ÜHG-egység kereskedelmi rendszer működéséről.
 
-(2) A jelentés tartalmazza az ÜHG-egységek kiosztásával, a forgalmi jegyzék működésével, a nyomon követéssel és jelentéstétellel, a hitelesítéssel és akkreditálással kapcsolatos intézkedéseket, a rendszer működésének európai uniós és belső jogi aktusoknak való megfelelőségére vonatkozó kérdéseket, valamint az ÜHG-egységek adózási kérdéseinek összefoglalóját. A jelentést az Európai Bizottság által megküldött kérdőív vagy vázlat alapján kell elkészíteni.
+(2) A jelentés tartalmazza az ÜHG-egységek kiosztásával, a forgalmi jegyzék működésével, a nyomon követéssel és jelentéstétellel, a hitelesítéssel és akkreditálással kapcsolatos intézkedéseket, a rendszer működésének európai uniós jogi aktusoknak és a jogszabályoknak való megfelelőségére vonatkozó kérdéseket, valamint az ÜHG-egységek adózási kérdéseinek összefoglalóját. A jelentést az Európai Bizottság által megküldött kérdőív vagy vázlat alapján kell elkészíteni.
 
 (3) A jelentést a hatóság az Európai Bizottság által meghatározott határidő előtt legkésőbb 30 nappal megküldi a miniszternek.
 
-(4) A jelentést a miniszter a kézhezvételtől számított 30 napon belül továbbítja az Európai Bizottságnak.
+(4) A jelentést a miniszter az Európai Bizottság által meghatározott határidőig továbbítja az Európai Bizottságnak.
 
 #### 16. Részvétel az üvegházhatású gázok kibocsátásának 2020-ig tartó csökkentésére irányuló európai uniós erőfeszítésben
 
@@ -451,6 +483,8 @@ vonatkozó adatok környezeti információnak minősülnek.
 (3) Az (1) és (2) bekezdés szerinti kötelezettség teljesítése során az üvegházhatású gáz kibocsátások elszámolása évente, a Kormány rendeletében és az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információknak a nemzeti és uniós szintű bejelentésére szolgáló rendszerről szóló EU rendeletben meghatározott módon történik.
 
 (4) Az (1) és (2) bekezdés szerinti kötelezettség teljesítése során a 2009/406/EK európai parlamenti és tanácsi határozat 3. és 5. cikkében meghatározott rugalmas éves elszámolási szabályok vehetők igénybe.
+
+(5) Az Európai Unió 2030-as klíma- és energiapolitikai keretrendszerének végrehajtásáért, alap- és kompenzációs elemeinek szakmai kidolgozásáért és megvalósításáért az energiapolitikáért felelős miniszter felel.
 
 38. § (1) A 2009/406/EK európai parlamenti és tanácsi határozat 3. cikk (2) bekezdése és II. melléklete alapján Magyarország számára a 2013–2020 közötti időszakra vonatkozóan évenként maximálisan engedélyezett, a 37. § (1) bekezdése szerinti üvegházhatású gázkibocsátás az állam tulajdonában álló vagyoni értékű jogosultság (a továbbiakban: ESD-egység). Az ESD-egység feletti tulajdonosi jogokat a miniszter gyakorolja.
 
@@ -524,6 +558,18 @@ rendeletben állapítsa meg.
 
 (8) A (7) bekezdésben foglalt rendelkezés 2013-ban is alkalmazandó.
 
+41/A. § (1) A 2013. január 1-jétől kezdődő kereskedési időszakban a légi jármű üzembentartók a 2013. és 2014. év vonatkozásában együtt, a részükre ingyenesen kiosztásra került légiközlekedési kibocsátási egységek tekintetében a 10. § (1)–(2) bekezdésében foglalt jelentéstételi kötelezettségüket 2015. március 31-ig, a 24. § (2) bekezdésében foglalt visszaadási kötelezettségüket 2015. április 30-ig teljesítik.
+
+(2) Az EGT-megállapodásban részes államok területén kívül található repülőtérre irányuló vagy onnan kiinduló repülések 2013. január 1. és 2016. december 31. közötti kibocsátásai tekintetében a légi jármű üzembentartók mentesülnek a 10. § (1)–(2) bekezdésében, továbbá a 24. § (2) bekezdésében foglalt kötelezettségeik teljesítése alól.
+
+(3) A 2013. január 1. és 2016. december 31. közötti időszak vonatkozásában ingyenesen kiosztásra kerülő légiközlekedési kibocsátási egységek mennyiségének meghatározásánál a (2) bekezdés szerinti eltérést figyelembe kell venni.
+
+(4) A 2013. január 1. és 2016. december 31. közötti időszak vonatkozásában ingyenesen kiosztásra kerülő légiközlekedési egységek mennyiségét a miniszter a hatósággal együttműködésben ismételten meghatározza és a végleges egységmennyiségeket az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről a 421/2014/EU európai parlamenti és tanácsi rendeletben meghatározott időpontig.
+
+(5) A 20. § (4) bekezdésében foglaltakra tekintet nélkül, a 2013. és 2014. évben térítésmentesen kiosztandó légiközlekedési kibocsátási egységek mennyiségének megállapításáról, továbbá a fenti évekre kiosztott légiközlekedési kibocsátási egységeknek az üzembentartó forgalmi jegyzékben vezetett számláján történő jóváírásáról a miniszter együttesen, az Európai Bizottság vonatkozó határozatát követően legkésőbb 2015. április 30-ig gondoskodik az arra jogosult légi jármű üzembentartók esetében.
+
+(6) Amennyiben egy légi jármű üzembentartó összes éves kibocsátása kevesebb, mint 25 000 tonna szén-dioxid, és e kibocsátás meghatározása a 606/2010/EU bizottsági rendelet által jóváhagyott, az Eurocontrol által kifejlesztett eszközzel történt, úgy a légi jármű üzembentartó kibocsátását hitelesítettnek kell tekinteni.
+
 42. § (1) E törvény – a végrehajtására a 39. §-ban foglalt felhatalmazások alapján kiadott jogszabályokkal együtt –
 
 - a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek,
@@ -545,6 +591,8 @@ való megfelelést szolgálja.
 - g) a 2010/2/EU és a 2011/278/EU határozatnak a CO2-kibocsátás-áthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok tekintetében történő módosításáról szóló, 2012. augusztus 17-i 2012/498/EU bizottsági határozat
 - h) a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c. cikke szerinti beruházásokról szóló SA.34086 (2012/N). számú bizottsági határozat (HL C 43. 2013. 2. 15., 12–16.o.), és
 - i) a Magyarország által a 2003/87/EK parlamenti és tanácsi irányelv 10.c cikkének (5) bekezdése alapján benyújtott, a villamosenergia-termelés korszerűsítése céljából átmenetileg ingyenes kibocsátási egységek kiosztására vonatkozó kérelemről szóló, 2012. november 30-i C(2012) 8675 számú bizottsági határozat
+- j) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek egy egységes globális piacalapú intézkedés nemzetközi légi közlekedésből származó kibocsátásokra való alkalmazásáról rendelkező nemzetközi megállapodás 2020-ig történő végrehajtására tekintettel történő módosításáról szóló, 2014. április 16-i, 421/2014/EU európai parlamenti és tanácsi rendelet,
+- k) a nemzetközi jóváírási jogosultságoknak a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében történő meghatározásáról szóló, 2013. november 8-i 1123/2013/EU bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

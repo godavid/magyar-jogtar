@@ -375,9 +375,9 @@ alapján kell kiszámítania.
 
 ### Mezőgazdasági vízszolgáltatási díj
 
-15/F. § (1) Aki mezőgazdasági célú vízszolgáltatást vesz igénybe, a mezőgazdasági vízszolgáltató részére mezőgazdasági vízszolgáltatási díjat fizet.
+15/F. § (1) Aki mezőgazdasági vízszolgáltatást vesz igénybe, a szolgáltató részére mezőgazdasági vízszolgáltatási díjat fizet. Az állam az öntözési, rizstermelési és halgazdasági vízhasználat vízszolgáltatási díját kormányrendeletben meghatározottak szerint átvállalhatja.
 
-(2) A mezőgazdasági vízszolgáltatási díjat a mezőgazdasági vízszolgáltató határozza meg.
+(2)
 
 (3) A mezőgazdasági vízszolgáltatási díjat a rendelkezésre állást biztosító alapdíjból és a felhasznált vízmennyiséggel arányos díjból álló kéttényezős díjként, vízszolgáltatási idényre, időarányosan kell megállapítani.
 
@@ -442,6 +442,8 @@ alapján kell kiszámítania.
 - f) megteszi az árvíz és belvíz által okozott, valamint a védekezéssel kapcsolatban keletkezett károkkal összefüggésben keletkezett helyreállításhoz szükséges intézkedéseket.
 
 (8) A polgármester (főpolgármester) a közműves vízellátással összefüggő államigazgatási feladat- és hatáskörében — a képviselő-testület által jóváhagyott tervnek megfelelően — elrendeli a vízfogyasztás korlátozását.
+
+(9) A folyók mentén és az azokba torkolló vízfolyások, csatornák visszatöltésezett szakaszain az árvízvédelmi műveket, továbbá a folyók nagyvízi medrét vagy az árvízvédelmi műveket keresztező, vagy a nagyvízi mederben elhelyezkedő építményt, vezetéket vagy egyéb létesítményt a vízgazdálkodásért felelős miniszter által rendeletben megállapított mértékadó árvízszintek figyelembevételével kell megtervezni, méretezni és megvalósítani.
 
 18. § (1) Aki tevékenységével vagy mulasztásával a vizeket veszélyezteti vagy károsítja, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény szerinti felelősséggel tartozik, illetve a vízügyi hatóság által meghatározott intézkedések megtételére köteles.
 
@@ -873,7 +875,7 @@ rendeletben történő megállapítására.
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 - a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
-- b)
+- b) a folyók mértékadó árvízszintjeinek;
 - c) a vízgazdálkodás országos és területi rendjének;
 - d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
 - e) a mezőgazdasági vízszolgáltató művek üzemeltetésének
@@ -883,7 +885,7 @@ rendeletben történő megállapítására.
 - i) a fúrt kutakra vonatkozó vízjogi engedélyezési eljárás szabályainak;
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
-- l)
+- l) a vízkészletjárulék kiszámításának, a számításnál alkalmazandó szorzószámoknak és a befizetés rendjének;
 - m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 - n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
 - o)

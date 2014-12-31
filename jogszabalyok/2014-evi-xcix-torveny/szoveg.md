@@ -8,53 +8,7 @@ Magyarország 2015. évi központi költségvetésének megalapozásáról
 
 1–2. §
 
-3. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény III. Fejezete a 13. §-át megelőzően a következő alcímnek megfelelő címmel egészül ki:
-
-„4/A. Az Államadósság Kezelő Központ feladatai”
-
-4. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény V. Fejezete a 28. §-át megelőzően a következő alcímnek megfelelő címmel egészül ki:
-
-„8/A. A közterhek”
-
-5. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény a következő 38/A. §-sal egészül ki:
-
-„38/A. § A 32–36. §-tól és a 38. §-tól csak különleges jogrend idején, az azt kiváltó körülmények okozta következmények enyhítéséhez szükséges mértékben vagy a nemzetgazdaság tartós és jelentős visszaesése esetén, a nemzetgazdasági egyensúly helyreállításához szükséges mértékben lehet eltérni.”
-
-6. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény a következő alcímmel egészül ki:
-
-„8/B. A bírságfizetési kötelezettség
-
-38/B. § (1) Törvény jogellenes magatartással összefüggésben pénzügyi joghátránnyal járó jogkövetkezményt (a továbbiakban: bírságfizetési kötelezettség) állapíthat meg.
-
-(2) Bírságfizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a kedvezmények, mentességek körét és mértékét, a korlátlan enyhítés vagy a jogellenes magatartás csekély súlya miatt a kiszabás mellőzésének lehetőségét megállapítani kizárólag törvényben vagy törvény felhatalmazása alapján önkormányzati rendeletben lehet, kivéve ha az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérően rendelkezik.
-
-(3) Törvény felhatalmazása alapján a Kormány rendeletben állapíthatja meg a bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
-
-(4) A bírságfizetési kötelezettséget megállapító törvényben meg kell határozni, hogy a bevétel az államháztartás mely alrendszerének bevételét képezi.
-
-(5) A bírságfizetési kötelezettséget megállapító, fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó jogszabály kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
-
-(6) Jogszabály a hatálybalépését megelőző időszakra vonatkozóan nem növelheti a bírságfizetési kötelezettséget, nem bővítheti a bírságfizetésre kötelezettek körét, illetve nem szüntethet meg vagy korlátozhat kedvezményt, mentességet.
-
-(7) Az e §-tól való eltérésre a 38/A. §-t kell alkalmazni.”
-
-7. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény V. Fejezete a 39/A. §-át megelőzően a következő alcímnek megfelelő címmel egészül ki:
-
-„8/C. A Stabilitási Megtakarítási Számla”
-
-8. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 45. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait.”
-
-9. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 46. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A 4. § (2) bekezdése 2015. január 1-jén lép hatályba.”
-
-(2) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 46. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A 38. § 2016. január 1-jén lép hatályba.”
+3–9. §
 
 10–11. §
 
@@ -96,15 +50,7 @@ lép.
 
 58. § Az Alap megszűnésével összefüggésben az 56. §-ban meghatározott határnapot követően felmerülő költségek az ÁKK Zrt.-t terhelik.
 
-59. § (1) A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 24. §-a a következő (21) bekezdéssel egészül ki:
-
-„(21) A társadalombiztosítási nyugdíjrendszerbe 2011. május 31. napjával, illetve 2012. május 31. napjával visszalépő tagok után a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alap részére függő tételként átadott és utóbb beazonosított, a pénztártagot illető tagdíjbefizetéseket és ahhoz kapcsolódó hozamok összegét
-
-a) az átadó magánnyugdíjpénztárak (vagy jogutódjuk) havonta, az adott hónapot követő hónap 8. napjáig,
-
-b) az átadó magánnyugdíjpénztár jogutód nélküli megszűnése esetén – a függő tételekből az átadó magánnyugdíjpénztár adatait kezelő szervezet által beazonosított, a pénztártagot illető tagdíjbefizetések és kapcsolódó hozamok összegének hitelt érdemlő igazolásával – a társadalombiztosítási nyugdíjrendszerbe visszalépett tag
-
-legkésőbb 2015. január 10-éig visszaigényelheti a Nyugdíjreform és Adósságcsökkentő Alaptól.”
+59. § (1)
 
 (2)
 
@@ -112,9 +58,9 @@ legkésőbb 2015. január 10-éig visszaigényelheti a Nyugdíjreform és Adóss
 
 61. § Hatályát veszti
 
-- 1. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 24. § (12) bekezdése, 89. § (8) bekezdése és 124. §-a,
+- 1.
 - 2.
-- 3. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény, valamint a Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény módosításáról szóló 2012. évi LXIV. törvény.
+- 3.
 
 ### III. Fejezet — A SZOCIÁLIS ELLÁTÁSOK RENDSZERÉNEK ÁTALAKÍTÁSA
 
@@ -154,7 +100,7 @@ legkésőbb 2015. január 10-éig visszaigényelheti a Nyugdíjreform és Adóss
 
 (3)
 
-91. § (1) Hatályát veszti a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 140/P. § (2) bekezdése.
+91. § (1)
 
 (2)
 
@@ -210,14 +156,7 @@ legkésőbb 2015. január 10-éig visszaigényelheti a Nyugdíjreform és Adóss
 
 111–112. §
 
-113. § (1) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 119. § (1) bekezdésében a „Magyar Államkincstár” szövegrész helyébe a „kincstár” szöveg lép.
-
-(2) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
-
-- 1. 128. § f) pontjában a „Magyar Államkincstár” szövegrész helyébe a „kincstár” szöveg,
-- 2. 132. § (1) bekezdés g) pontjában a „Magyar Államkincstárnál a központi költségvetésből járó támogatás jogszabályban meghatározott részének visszatartását vagy megvonását” szövegrész helyébe a „helyi önkormányzatnak a központi költségvetés terhére nyújtott támogatások felülvizsgálatát a 117. § (1) bekezdés a) pontja szerinti támogatás esetében a kincstárnál, a helyi önkormányzatnak nyújtott költségvetési támogatás esetében a támogatónál” szöveg
-
-lép.
+113. §
 
 ### IV. Fejezet — EGYES ÁLLAMI VAGYONTÁRGYAK TULAJDONJOGÁNAK INGYENES ÁTRUHÁZÁSA
 
@@ -386,27 +325,9 @@ lép.
 
 155. §
 
-156. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pontja a következő 36. alponttal egészül ki:
+156. §
 
-(Felhatalmazást kap
-
-a Kormány, hogy)
-
-„36. a 33/A. § szerinti használati díj és pótdíj központi költségvetésbe történő befizetésének rendjét, részletes szabályait, továbbá az elszámolás számviteli szabályait;”
-
-(rendeletben állapítsa meg.)
-
-(2) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés m) pontja a következő mc) alponttal egészül ki:
-
-(Felhatalmazást kap
-
-a közlekedésért felelős miniszterrel egyetértésben)
-
-„mc) a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;”
-
-(rendeletben állapítsa meg.)
-
-157. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 5. alpontjában a „továbbá a járművek üzemeltetésének általános feltételeit” szövegrész helyébe az „ezen tevékenységek végzéséhez használható járművek üzemeltetésének általános feltételeit, továbbá az e járművek vezetőinek képzésére vonatkozó feltételeket” szöveg lép.
+157. § (1)
 
 (2)
 
@@ -435,7 +356,7 @@ a közlekedésért felelős miniszterrel egyetértésben)
 
 #### 22. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-183. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 83/A. § (8) bekezdésében a „Módtv. hatálybalépését megelőzően” szövegrész helyébe a „Módtv. hatálybalépésekor folyamatban lévő, továbbá a Módtv. hatálybalépését megelőzően” szöveg lép.
+183. §
 
 #### 23.
 
@@ -499,28 +420,17 @@ a közlekedésért felelős miniszterrel egyetértésben)
 
 #### 38. A Párizsi Békeszerződésről szóló 1947. évi XVIII. törvény 27. Cikke 2. pontjában foglaltak végrehajtásáról szóló 1997. évi X. törvény módosítása
 
-213. § A Párizsi Békeszerződésről szóló 1947. évi XVIII. törvény 27. Cikke 2. pontjában foglaltak végrehajtásáról szóló 1997. évi X. törvény 2. § (2) bekezdésében a „2006. május 9-ig” szövegrész helyébe a „2015. december 15-éig” szöveg lép.
+213. §
 
 #### 39. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
 214–215. §
 
-216. § (1) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 94. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az igazságügyi alkalmazottak személyi nyilvántartása – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze. Nem jelenti a személyi nyilvántartás más nyilvántartási rendszerrel való összekapcsolását a személyi nyilvántartásból a központosított illetményszámfejtéshez szükséges adatoknak az e célra működtetett számítógépes programba való továbbítása.”
-
-(2) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 94. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Az igazságügyi alkalmazottnak a személyi nyilvántartásban szereplő adatairól és a vele kapcsolatos iratok tartalmáról törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére lehet adatot továbbítani.”
+216. §
 
 217. §
 
-218. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény
-
-- 1. 48. § (1) bekezdésében az „(5)” szövegrész helyébe az „(5) és (5a)” szöveg,
-- 2. 124. § (1) bekezdésében a „118. §-át” szövegrész helyébe a „118. § (1)–(3) bekezdését” szöveg
-
-lép.
+218. §
 
 #### 40. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
@@ -578,7 +488,7 @@ lép.
 
 #### 50. A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény módosítása
 
-278. § Hatályát veszti a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 26. §-át megelőző alcímének címe és 26. §-a.
+278. §
 
 #### 51.
 
@@ -590,31 +500,7 @@ lép.
 
 #### 53. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-290. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény 142. § (4) bekezdése a következő mondattal egészül ki:
-
-„A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.”
-
-(2) Az elektronikus hírközlésről szóló 2003. évi C. törvény 142. § (10) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A tanúsító szervezetnek rendelkeznie kell:)
-
-„b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.”
-
-(3) Az elektronikus hírközlésről szóló 2003. évi C. törvény 142. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.”
-
-(4) Az elektronikus hírközlésről szóló 2003. évi C. törvény 142. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) A (3)–(11) bekezdésnek nem megfelelő számlázási rendszerből
-
-a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó szolgáltatók esetében 2015. február 28. után,
-
-b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó szolgáltatók esetében 2015. június 30. után
-
-kiállított számla érvénytelen.”
-
-(5) Az elektronikus hírközlésről szóló 2003. évi C. törvény 142. § (6) bekezdésében az „az engedélyes” szövegrész helyébe az „a szolgáltató” szöveg lép.
+290. §
 
 #### 54.
 
@@ -626,23 +512,11 @@ kiállított számla érvénytelen.”
 
 #### 56. A sportról szóló 2004. évi I. törvény módosítása
 
-293. § A sportról szóló 2004. évi I. törvény 19. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) A sportszövetség bírósági nyilvántartás szerint képviseletre jogosult vezető tisztségviselői nem minősülnek a Civil tv. 53/A. §-a alkalmazásában kötelezettnek.”
+293. §
 
 #### 57. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-294. § A mozgóképről szóló 2004. évi II. törvény 19/K. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az e § szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre, a magyar hozzájárulás arányától függetlenül a legmagasabb elérhető pontszámot kell adni.”
-
-295. § A mozgóképről szóló 2004. évi II. törvény 25/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A moziüzemeltető az általa üzemeltetett „art” mozik, illetve mozitermek szerinti bontásban minden naptári negyedévet követő hó 20. napjáig köteles a Hivatalnak, a Hivatal által meghatározott módon adatot szolgáltatni az ott vetített filmalkotás címéről, az 1. melléklet szerinti besorolási kategóriájáról, „art” besorolási kategóriájáról, a vetítés időpontjáról és helyszínéről, a nézőszámról és az árbevételről.”
-
-296. § (1) Hatályát veszti a mozgóképről szóló 2004. évi II. törvény 26/B. § (1) bekezdésében a „vagy a filmgyártó vállalkozás” szövegrész.
-
-(2) Hatályát veszti a mozgóképről szóló 2004. évi II. törvény 36. § (3) bekezdésében az „a korhatárok, illetve” szövegrész és a „korábbi korhatár-megjelölések, illetve a” szövegrész.
+294–296. §
 
 #### 58.
 
@@ -670,92 +544,18 @@ kiállított számla érvénytelen.”
 
 #### 64. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-307. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 27. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg.”
-
-(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 27. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A rendszerhasználó a csatlakozás biztosítását megelőzően köteles a hálózati engedélyes részére megfizetni a Hivatal elnökének rendeletében megállapított mértékű csatlakozási díjat.”
-
-308. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 43. § (5) bekezdése a következő mondattal egészül ki:
-
-„A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.”
-
-(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 43. § (11) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A tanúsító szervezetnek rendelkeznie kell:)
-
-„b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.”
-
-(3) A villamos energiáról szóló 2007. évi LXXXVI. törvény 43. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.”
-
-(4) A villamos energiáról szóló 2007. évi LXXXVI. törvény 43. §-a a következő (13) bekezdéssel egészül ki:
-
-„(13) A (4)–(12) bekezdésnek nem megfelelő számlázási rendszerből
-
-a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. február 28. után,
-
-b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. június 30. után
-
-kiállított számla érvénytelen.”
-
-309. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 60. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hálózati csatlakozási szerződésbe foglalt, a rendszerhasználó által megszerzett jog (a továbbiakban e § alkalmazásában: rendelkezési jog)
-
-a) a b) pont szerinti kivétellel, a felhasználási hellyel együtt ruházható át,
-
-b) a hálózati engedélyes által visszavásárolható, vagy
-
-c) a (2b) és (2c) bekezdés szerinti esetekben ingyenesen átszáll a hálózati engedélyesre.”
-
-(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 60. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
-
-„(2a) A rendszerhasználó rendelkezési jogát – a (2b) és a (2c) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
-
-(2b) Ha a termelő villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig nem veszi igénybe, és arról ez idő alatt a hálózati engedélyes irányába nem rendelkezik, akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll.
-
-(2c) Ha a felhasználó vagy az erőmű vételezési teljesítménye tekintetében a termelő a hálózati engedélyes irányába nem rendelkezik a rendelkezésre álló teljesítményéről és
-
-a) a hálózathasználati szerződés felmondásának napjától számított öt évig az adott csatlakozási pont tekintetében nem köt új hálózathasználati szerződést, vagy
-
-b) rendszerhasználatidíj-fizetési kötelezettség elmulasztása miatti kikapcsolása napjától számított öt évig nem rendezi a tartozását,
-
-akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll.”
-
-310. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 159. § (1) bekezdés 6. pontja helyébe a következő rendelkezés lép:
-
-(A Hivatal a villamosenergia-ellátással, a villamosenergia-ellátás biztonságának és a villamosenergia-piac hatékony működésének felügyeletével kapcsolatos feladatai körében:)
-
-„6. rendeletben határozza meg a rendszerhasználati díjakat és alkalmazásuk szabályait, és a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, valamint a csatlakozási díjak mértékét és alkalmazásuk szabályait,”
-
-311. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 177/A. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
-
-a) a jogkövetkezményekre való utalás mellett írásban felszólítja a projekttársaságot kötelezettségei betartására,
-
-b) ismételten is kiszabható bírsággal sújthatja projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
-
-c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.”
+307–311. §
 
 312. §
 
 313. § A villamos energiáról szóló 2007. évi LXXXVI. törvény
 
-- 1. 43. § (4) bekezdésében az „a szolgáltatónak” szövegrész helyébe az „az engedélyesnek” szöveg, az „engedélyes értendő” szövegrész helyébe az „engedélyes számlázási rendszere értendő” szöveg,
-- 2. 43. § (9) bekezdésében a „szolgáltató” szövegrész helyébe az „engedélyes” szöveg,
+- 1–2.
 - 3–5.
 
 lép.
 
-314. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény
-
-- 1. 170. § (2) bekezdés 17. pontja,
-- 2. 174. § (4) bekezdése.
+314. §
 
 #### 65.
 
@@ -763,64 +563,11 @@ lép.
 
 #### 66. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-316. § (1) A földgázellátásról szóló 2008. évi XL. törvény 100. § (1c) bekezdése a következő mondattal egészül ki:
-
-„A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.”
-
-(2) A földgázellátásról szóló 2008. évi XL. törvény 100. § (1i) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A tanúsító szervezetnek rendelkeznie kell:)
-
-„b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.”
-
-(3) A földgázellátásról szóló 2008. évi XL. törvény 100. § (1j) bekezdése helyébe a következő rendelkezés lép:
-
-„(1j) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.”
-
-(4) A földgázellátásról szóló 2008. évi XL. törvény 100. §-a a következő (1k) bekezdéssel egészül ki:
-
-„(1k) Az (1b)–(1j) bekezdésnek nem megfelelő számlázási rendszerből
-
-a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. február 28. után,
-
-b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó engedélyesek esetében 2015. június 30. után
-
-kiállított számla érvénytelen.”
-
-317. § A földgázellátásról szóló 2008. évi XL. törvény 105. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A rendszerüzemeltetés díjából származó árbevételt a földgázszállítás indokolt költségei arányában kell megosztani. Ennek érdekében a szállítói rendszerüzemeltetői engedélyesek, illetve a földgázszállítói engedélyesek között kiegyenlítő fizetéseket kell végrehajtani.”
-
-318. § A földgázellátásról szóló 2008. évi XL. törvény 133/A. §-a a következő 4. ponttal egészül ki:
-
-(Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg)
-
-„4. a rendszerüzemeltetési díjból származó árbevétel földgázszállítói engedélyesek, illetve szállítási rendszerüzemeltető engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét.”
-
-319. § A földgázellátásról szóló 2008. évi XL. törvény a következő 141/H. §-sal egészül ki:
-
-„141/H. § A 105. § (6) bekezdése szerinti kiegyenlítő fizetéseket első alkalommal a 2015. január 1-től 2015. június 30-áig tartó időszakra kell alkalmazni.”
-
-320. § A földgázellátásról szóló 2008. évi XL. törvény 142. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
-
-a) a jogkövetkezményekre való utalás mellett írásban felszólítja a projekttársaságot kötelezettségei betartására,
-
-b) ismételten is kiszabható bírsággal sújthatja projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
-
-c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.”
-
-321. § A földgázellátásról szóló 2008. évi XL. törvény
-
-- 1. 100. § (1b) bekezdésében az „a szolgáltatónak” szövegrész helyébe az „az engedélyesnek” szöveg, az „engedélyes értendő” szövegrész helyébe az „engedélyes számlázási rendszere értendő” szöveg,
-- 2. 100. § (1g) bekezdésében a „szolgáltató” szövegrész helyébe az „engedélyes” szöveg
-
-lép.
+316–321. §
 
 #### 67. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-322. § A minősített adat védelméről szóló 2009. évi CLV. törvény 40. § (3) és (4) bekezdésében a „2015.” szövegrész helyébe a „2016.” szöveg lép.
+322. §
 
 #### 68.
 
@@ -844,7 +591,7 @@ lép.
 
 #### 73. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosítása
 
-329. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 4. § (1) bekezdésében a „nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár” szövegrész helyébe a „nemzetpolitikáért felelős államtitkár” szöveg lép.
+329. §
 
 #### 74.
 
@@ -870,25 +617,7 @@ lép.
 
 342–343. §
 
-344. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 147. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A személyi nyilvántartás – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze. Nem jelenti a személyi nyilvántartás más nyilvántartási rendszerrel való összekapcsolását a személyi nyilvántartásból a központosított illetményszámfejtéshez szükséges adatoknak az e célra működtetett számítógépes programba való továbbítása.”
-
-345. § (1) A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 148. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A munkáltatói jogkör gyakorlója, illetve az OBH a bírónak a személyi nyilvántartásban szereplő adatai közül a bíró hozzájárulása nélkül, közérdekből adhat tájékoztatást a bíró nevéről, szolgálati helyéről és beosztásáról, valamint – ha törvény azt megengedi – egyéb adatairól.”
-
-(2) A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 148. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A bírónak a személyi nyilvántartásban szereplő adatairól és az iratok tartalmáról
-
-a) igazságügyi szerv részére,
-
-b) törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére,
-
-c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az Eat. szerint szükséges mértékben a Szolgáltató részére
-
-lehet adatot továbbítani.”
+344–345. §
 
 346–347. §
 
@@ -896,13 +625,7 @@ lehet adatot továbbítani.”
 
 348–350. §
 
-351. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 107. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A személyi nyilvántartás – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze. Nem jelenti a személyi nyilvántartás más nyilvántartási rendszerrel való összekapcsolását a személyi nyilvántartásból a központosított illetményszámfejtéshez szükséges adatoknak az e célra működtetett számítógépes programba való továbbítása.”
-
-352. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 108. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az ügyésznek a személyi nyilvántartásban szereplő adatairól és az iratok tartalmáról törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére lehet adatot továbbítani.”
+351–352. §
 
 353. §
 
@@ -937,43 +660,7 @@ lép.
 
 #### 85. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-371. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 65. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) Az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
-
-a) középfokú végzettség esetén százhúsz százaléka,
-
-b) alapfokozat esetén száznyolcvan százaléka,
-
-c) mesterfokozat esetén kétszáz százaléka.”
-
-372. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 88. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A központi költségvetés a 2. § (3) bekezdés b) pont ba) és bb) alpontja szerinti fenntartók számára az állami fenntartású nevelési-oktatási intézményben és pedagógiai szakszolgálati intézményben pedagógus munkakörben alkalmazottak elismert létszáma, valamint a nevelő-oktató munkát közvetlenül segítők jogszabály szerint finanszírozott létszáma alapján átlagbér alapú költségvetési hozzájárulást biztosít a köznevelési feladat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetménye, munkabére és ezek járulékai kifizetéséhez. A 2. § (3) bekezdés b) pont bc) és bd) alpontja szerinti fenntartók esetében a hozzájárulás mértékét a központi költségvetésről szóló törvény állapítja meg.”
-
-(2) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 88. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
-
-(6) A nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a kormányhivatallal.”
-
-373. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés v) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„v) 2015. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a mindenkori költségvetési törvényben rögzített vetítési alap százalékában meghatározott tanévenkénti mértékét,”
-
-(rendeletben állapítsa meg.)
-
-374. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 97. § (20a) bekezdése helyébe a következő rendelkezés lép:
-
-„(20a) 2015. január 1. és 2015. augusztus 31. között az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
-
-a) 118,9 százaléka középfokú végzettség esetén,
-
-b) 163,3 százaléka alapfokozat esetén,
-
-c) 179,6 százaléka mesterfokozat esetén.”
+371–374. §
 
 375. §
 
@@ -991,41 +678,7 @@ c) 179,6 százaléka mesterfokozat esetén.”
 
 #### 89. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-386. § (1) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 63. § (6) bekezdése a következő mondattal egészül ki:
-
-„A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.”
-
-(2) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 63. § (12) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A tanúsító szervezetnek rendelkeznie kell:)
-
-„b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.”
-
-(3) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 63. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-„(13) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.”
-
-(4) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 63. §-a a következő (14) bekezdéssel egészül ki:
-
-„(14) Az (5)–(13) bekezdésnek nem megfelelő számlázási rendszerből
-
-a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó víziközmű-szolgáltatók esetében 2015. február 28. után,
-
-b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó víziközmű-szolgáltatók esetében 2015. június 30. után
-
-kiállított számla érvénytelen.”
-
-387. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 79. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A víziközmű vagy víziközmű létrehozására irányuló beruházás, amely olyan gazdálkodó szervezet tulajdonában áll, amely felett – ide nem értve a munkavállalói résztulajdont – a tulajdoni részesedés egésze a nemzeti vagyonba tartozik, 2013. január 1-jén az ellátásért felelős tulajdonába kerül. A tulajdonjog e törvény erejénél fogva ingyenesen, víziközmű esetében a tulajdonjog tárgyát képező dologhoz vagy beruházáshoz kötődő jogokkal és az azzal járó vagy kapcsolatos terhekkel együttesen száll át.”
-
-388. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény
-
-- 1. 63. § (5) bekezdésében a „szolgáltatónak” szövegrész helyébe a „víziközmű-szolgáltatónak” szöveg,
-- 2. 63. § (8) bekezdésében az „az engedélyes” szövegrész helyébe az „a víziközmű-szolgáltató” szöveg,
-- 3. 63. § (10) bekezdésében a „szolgáltató” szövegrész helyébe a „víziközmű-szolgáltató” szöveg
-
-lép.
+386–388. §
 
 #### 90.
 
@@ -1049,7 +702,7 @@ lép.
 
 #### 95. A Magyarország 2013. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2012. évi CXCVI. törvény hatályon kívül helyezése
 
-410. § Hatályát veszti a Magyarország 2013. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2012. évi CXCVI. törvény.
+410. §
 
 #### 96.
 
@@ -1071,10 +724,7 @@ lép.
 
 418–421. §
 
-422. § (1) Hatályát veszti az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
-
-- 1. 24. § (1) bekezdésében a „valamint részletes feladatait és működési feltételeit” szövegrész,
-- 2. 28. § (2) bekezdés e) pontjában a „valamint a tanúsító szerv részletes feladatait és működési feltételeit rendeletben határozza meg;” szövegrész.
+422. § (1)
 
 (2)
 
@@ -1084,15 +734,11 @@ lép.
 
 #### 102. Az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló2013. évi CXXXIV. törvény módosítása
 
-428. § Az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 3/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az átmeneti ellátásra irányuló kijelölés az új kéményseprő-ipari közszolgáltatási szerződés megkötéséig, de legfeljebb kilenc hónapos időtartamra történhet. A kijelölés ezt követően háromhavonként, legfeljebb egyéves időtartammal meghosszabbítható.”
+428. §
 
 #### 103. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló2013. évi CXXXVIII. törvény módosítása
 
-429. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény 26. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az 1. §, a 4. §, az 5. §, a 10. §, a 11. § (3) bekezdése és a 24. § i) pontja 2016. január 1-jén lép hatályba.”
+429. §
 
 #### 104.
 
@@ -1100,19 +746,11 @@ lép.
 
 #### 105. Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény módosítása
 
-431. § (1) Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 191. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A 112. § (33) bekezdése, a 130. § (8) és (16) bekezdése és a 154. § (15) bekezdése 2015. január 1-jén lép hatályba.”
-
-(2) Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 191. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A 77. § (1) és (2) bekezdése 2016. január 1-jén lép hatályba.”
-
-432. § Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 191. § (1) bekezdésében a „(2)–(9)” szövegrész helyébe a „(2)–(10)” szöveg, a „2015. december 31-én” szövegrész helyébe a „2016. január 2-án” szöveg lép.
+431–432. §
 
 #### 106. Az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló2014. évi XXXV. törvény hatályon kívül helyezése
 
-433. § Hatályát veszti az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló 2014. évi XXXV. törvény.
+433. §
 
 #### 107. Az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény módosítása
 

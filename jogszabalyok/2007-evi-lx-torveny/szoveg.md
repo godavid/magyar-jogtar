@@ -13,7 +13,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - 1. Keretegyezmény: az 1995. évi LXXXII. törvénnyel kihirdetett ENSZ Éghajlatváltozási Keretegyezmény;
 - 2. Jegyzőkönyv: a 2007. évi IV. törvénnyel kihirdetett Kiotói Jegyzőkönyv;
 - 3. részes fél: a Keretegyezmény I. mellékletében felsorolt azon részes állam, amely a Jegyzőkönyvet megerősítette;
-- 4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6), és a nitrogén-trifluorid (NF3);
+- 4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluortartalmú üvegházhatású gázok, a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3);
 - 5. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz;
 - 6. nyelő: azon létesítmény, valamint maga a biomassza, amely valamilyen üvegházhatású gázt, aeroszol részecskét vagy azok képződését előidéző anyagot képes megkötni a légkörből;
 - 7. nemzetközi rugalmassági mechanizmusok: a részes felek által a Jegyzőkönyvben vállalt üvegházhatású gáz kibocsátás csökkentés elérését szolgáló kiegészítő eszközök, így különösen a nemzetközi együttműködéssel megvalósuló projekttevékenységek, és a nemzetközi kibocsátás-kereskedelem;
@@ -31,7 +31,8 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - 19. forgalmi jegyzék: a 389/2013/EU bizottsági rendelet 2. fejezet 4. cikke szerinti forgalmi jegyzék;
 - 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
 - 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
-- 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység.
+- 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység;
+- 23. klímavédelmi bírság: a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy hatósági határozat előírásainak megsértése esetére az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek végzése, valamint az ilyen fajta gázokkal működtetett berendezések és létesítmények üzemeltetése kapcsán.
 
 ### A Nemzeti Éghajlatváltozási Stratégia
 
@@ -86,7 +87,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
-(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. A miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
+(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. Az államháztartásért felelős miniszter a miniszterrel együttműködésben az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 
 (3) A kiotói egység csak az e törvény és külön jogszabály rendelkezéseinek megfelelően szerezhető meg, illetve ruházható át.
 
@@ -104,9 +105,9 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
 
-(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja az államháztartásért felelős minisztert és a kincstári vagyon kezeléséért felelős szervet.
+(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről és azok teljes mennyiségéről a forgalmi jegyzékbe való bejegyzésüket követő 21 napon belül az államháztartásért felelős miniszter tájékoztatja a minisztert és a kincstári vagyon kezeléséért felelős szervet.
 
-(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről, illetve törléséről a miniszter évente tájékoztatja az államháztartásért felelős minisztert és a kincstári vagyon kezeléséért felelős szervet.
+(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről és törléséről az államháztartásért felelős miniszter évente tájékoztatja a minisztert és a kincstári vagyon kezeléséért felelős szervet.
 
 10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
 
@@ -187,18 +188,29 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rendszer működésének, valamint a nyilvántartási rendszerrel kapcsolatos adatszolgáltatásnak a rendjét, a nyilvántartási rendszerhez szükséges adatok körét a személyes adatok kivételével;
 - h) a nyilvántartási rendszerrel kapcsolatos adatszolgáltatási, illetve előrejelzési kötelezettség megszegése esetén fizetendő bírság összegét;
 - i) az Európai Közösség kibocsátási egységkereskedelmi rendszerében részt vevő személyek tekintetében a nemzetközi kibocsátás-kereskedelemben való részvételi szabályokat;
-- j) az üvegházhatású gázok jelentős mértékű kibocsátásával, illetve elnyelés általi eltávolításával járó, a tevékenység megkezdése előtt a kibocsátás, illetve elnyelés előrejelzésre kötelezett tevékenységek körét.
+- j) az üvegházhatású gázok jelentős mértékű kibocsátásával, illetve elnyelés általi eltávolításával járó, a tevékenység megkezdése előtt a kibocsátás, illetve elnyelés előrejelzésre kötelezett tevékenységek körét;
+- k) a fluortartalmú üvegházhatású gázokat tartalmazó vagy azzal működtetett termékek, berendezések és létesítményekkel kapcsolatos tevékenységek végzéséhez szükséges képzési, képesítési és vizsgáztatási rendszer, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
+- l) a fluortartalmú üvegházhatású gázokkal végzett tevékenység esetében a vállalkozások, üzemeltetők és tulajdonosok regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségének, valamint az ezzel kapcsolatos felelősségi rendszereknek a részletes szabályait;
+- m) a fluortartalmú üvegházhatású gázok Magyarország területén való forgalomba hozatalára, export, import kereskedelmi tevékenységre, a forgalombahozatali mentességi kérelemre, a címkézésre vonatkozó szabályokat, valamint ezen tevékenységek esetében a regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségek, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
+- n) a fluortartalmú üvegházhatású gázokat tartalmazó termékek és berendezések szivárgásvizsgálatára, visszanyerésére, újrahasznosítására és regenerálására vonatkozó szabályokat, valamint ezen tevékenységek végzése esetében a regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségek, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
+- o) a klímavédelmi bírság mértékét;
+- p) a fluortartalmú üvegházhatású gázokkal végzett tevékenységek ellenőrzésével, felügyeletével és valamennyi hatósági feladat ellátásával kapcsolatban eljáró hatóság kijelölését.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
 - a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részletes feltételeit, a tevékenységre jogosító engedély kiadásának és a 13/C. § (2) bekezdése szerinti bejelentésnek a részletes szabályait, az együttes végrehajtás hitelesítő tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az együttes végrehajtás hitelesítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 - b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
-- c)
+- c) a klímavédelemért felelős hatósággal való elektronikus kapcsolattartás szabályait;
+- d) az elektronikus ügyintézésre, így különösen a díjakra, befizetésekre és elszámolásokra vonatkozó részletes szabályokat;
+- e) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis részét képező, 10/G. § szerinti nyilvántartás részére történő adatközlés formájának és módjának, tartalmának, kezelésének, üzemeltetésének és fenntartásának, felügyeletének, valamint az adatközlés és adatszolgáltatás rendjének részletes szabályait;
+- f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és használatának, az abban való regisztrációnak és nyilvántartásba vételnek a részletes szabályait.
 
 (7) Felhatalmazást kap a miniszter, hogy
 
 - a) az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésével kiadott rendeletben állapítsa meg,
 - b) az a) pontban meghatározott igazgatási szolgáltatási díj megfizetésének részletes szabályait rendeletben állapítsa meg.
+
+(8) Felhatalmazást kap a miniszter, hogy az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, rendszerére, a vállalkozások képesítési rendszerére, valamint a képesítések nyilvántartására vonatkozó részletes szabályokat az oktatásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 15. § (1) Az Áht. 108. § (1) bekezdése a következő h) ponttal egészül ki:
 
@@ -222,7 +234,13 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 „(13) A 108. § (1) bekezdés h) pontjában meghatározott vagyonelemek az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvényben meghatározott nemzetközi rugalmassági mechanizmusok keretében átruházhatók.”
 
-16. §
+16. § (1) A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások a 10/C. § (2) bekezdésében meghatározott regisztrációs kötelezettségüknek 2015. március 31-ig kötelesek eleget tenni.
+
+(2) 2015. január 31. napjáig az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendelet szerinti nyilvántartási, regisztrációs és jelentések kezelésével kapcsolatos feladatok elvégzésére kijelölt szervezeteknek a rendelkezésükre álló adatokat, adatbázist, valamint a környezetvédelemért felelős miniszternek az Országos Környezetvédelmi Információs Rendszerben a fluortartalmú üvegházhatású gázokkal kapcsolatban rendelkezésre álló valamennyi adatot át kell adni a miniszter részére.
+
+(3) Az egyes fluortartalmú üvegházhatású gázokról szóló, 2006. május 17-i 842/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 842/2006/EK rendelet) szerint a vállalkozások számára előírt jelentéstételi kötelezettséget a 2014. évre vonatkozóan a 842/2006/EK rendeletben előírtak szerint kell teljesíteni az Európai Bizottság és a klímavédelemért felelős hatóság részére.
+
+(4) Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény és az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény jogharmonizációs célú módosításáról szóló 2014. évi LXXXIX. törvény hatálybalépése előtt a 10. § (2) bekezdése szerint értékesítés céljából megkötött szerződések módosítása a miniszter kizárólagos hatáskörébe tartozik.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -238,5 +256,6 @@ való megfelelést szolgálja.
 
 - a) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet, és
 - b) az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet
+- c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

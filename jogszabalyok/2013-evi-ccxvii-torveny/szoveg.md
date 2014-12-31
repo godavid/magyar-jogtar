@@ -54,7 +54,7 @@ egyes kulturális tárgyú törvények módosításáról
 
 (3) A 16. § 2014. március 15. napján lép hatályba.
 
-(4) A 2. § (1) bekezdése 2017. január 1. napján lép hatályba.
+(4) A 2. § (1) bekezdése 2015. január 1. napján lép hatályba.
 
 38. § Ez a törvény az Európai Örökség címre vonatkozó európai uniós fellépés létrehozásáról szóló, 2011. november 16-i 1194/2011/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
