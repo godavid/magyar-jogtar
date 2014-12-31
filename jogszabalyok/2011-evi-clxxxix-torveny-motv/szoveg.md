@@ -469,7 +469,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - 13. az önkormányzati képviselői megbízatás megszűnéséről való döntés, ha a képviselő egy éven át nem vesz részt a képviselő-testület ülésén;
 - 14. a településfejlesztési eszközök és a településszerkezeti terv jóváhagyása;
 - 15. területszervezési kezdeményezés;
-- 16. amit törvény a képviselő-testület át nem ruházható hatáskörébe utal.
+- 16. a helyi önkormányzat tulajdonában álló nemzeti vagyon tulajdonjogának az állam vagy más helyi önkormányzat javára történő ingyenes átruházására, ilyen vagyon ingyenes átvételére vonatkozó döntés,
+- 17. amit törvény a képviselő-testület át nem ruházható hatáskörébe utal.
 
 ### A képviselő-testület működése
 
@@ -821,9 +822,20 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül állapodnak meg. A megállapodás az általános önkormányzati választásokat követő év január 1-jén lép hatályba.
 
-(3a) Amennyiben a (3) bekezdésben meghatározott határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására vagy ahhoz valamely település nem tud csatlakozni, akkor a kormányhivatal vezetője a határidő lejártát követő hónap első napjával kijelöli a közös önkormányzati hivatalhoz tartozó településeket. A kijelölést követő harminc napon belül kell megkötni a közös önkormányzati hivatalról szóló megállapodást. A kijelölés esetén is teljesülnie kell az (1)–(2a) bekezdésben meghatározott feltételeknek.
+(3a) Amennyiben a (3) bekezdésben meghatározott határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására vagy ahhoz valamely település nem csatlakozik, akkor a kormányhivatal vezetője a határidő lejártát követő hónap első napjával döntésével kijelöli a közös önkormányzati hivatalhoz tartozó településeket és egyúttal pótolja a közös önkormányzati hivatalról szóló megállapodást. A kormányhivatal vezetője a megállapodás létrehozásáról szóló döntésében az e §-ban foglaltakra figyelemmel rendelkezik a közös önkormányzati hivatal székhelytelepüléséről, a közös önkormányzati hivatal létszámáról, és a közös önkormányzati hivatal ügyfélfogadási rendjéről. A megállapodás pótlása esetén is teljesülnie kell az (1)–(2a) bekezdésben meghatározott feltételeknek.
 
-(3b) A kijelölésről szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a döntés közlésétől számított harminc napon belül bírósági felülvizsgálatot kezdeményezhet. A kijelölésről szóló döntés elleni keresetindításnak nincs halasztó hatálya a végrehajtásra.
+(3b) A kormányhivatal vezetőjének (3a) bekezdésben meghatározott döntése ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a döntés közlésétől számított harminc napon belül bírósági felülvizsgálatot kezdeményezhet. A döntés elleni keresetindításnak nincs halasztó hatálya a végrehajtásra.
+
+(3c) A közös önkormányzati hivatal létrehozásáról szóló megállapodást és a kormányhivatal vezetője által pótolt közös önkormányzati hivatali megállapodást az érintett önkormányzatok szabadon módosíthatják. A módosító megállapodást a közös önkormányzati hivatal jegyzője megküldi az illetékes kormányhivatal részére.
+
+(3d) A kormányhivatal a közigazgatási és munkaügyi bíróságtól a módosító megállapodás kézhezvételétől számított harminc napon belül kérheti a módosító megállapodás érvénytelenségének megállapítását, ha a módosítás a közös önkormányzati hivatal működését ellehetetleníti.
+
+(3e) A módosító megállapodás hatálybalépésének időpontja
+
+- a) a kormányhivatal (3d) bekezdésben meghatározott keresetindítási jogáról történő lemondását követő nap,
+- b) ha a kormányhivatal a számára a (3d) bekezdésben biztosított keresetindítási határidőben nem nyújt be keresetet, a keresetindítási határidő leteltét követő nap,
+- c) ha a közigazgatási és munkaügyi bíróság jogerős döntésével elutasítja a kormányhivatal keresetét, a döntés jogerőre emelkedésének napja, vagy
+- d) ha a módosító megállapodásban a megállapodás hatálybalépésének megjelölt időpontja az a)–c) pontokban meghatározott időpontoknál későbbi időpont, akkor a módosító megállapodásban megjelölt nap.
 
 (4) Abban az esetben, ha a közös önkormányzati hivatalt működtető települések egyike város, akkor a város a székhelytelepülés. Egyéb esetekben a székhelytelepülést a közös önkormányzati hivatalhoz tartozó önkormányzatok képviselő-testületei határozzák meg.
 
@@ -1060,7 +1072,15 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 107. § A helyi önkormányzatot – törvényben meghatározott eltérésekkel – megilletik mindazok a jogok és terhelik mindazok a kötelezettségek, amelyek a tulajdonost megilletik, terhelik. A tulajdonost megillető jogok gyakorlásáról a képviselő-testület rendelkezik.
 
-108. § A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.
+108. § (1) A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása csak e törvényben és a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.
+
+(2) A helyi önkormányzat tulajdonában álló nemzeti vagyon tulajdonjoga az állam vagy más helyi önkormányzat javára ingyenesen átadható, jogszabályban meghatározott közfeladat ellátásának elősegítése érdekében.
+
+(3) Az ingyenes vagyonátadás az önkormányzat kötelezően ellátandó feladatainak ellátását nem veszélyeztetheti. Nem adható át különösen az olyan vagyonelem, amely valamely kötelező önkormányzati feladat ellátásához, a nemzeti köznevelésről szóló törvényben meghatározott önkormányzati köznevelési feladathoz vagy ezek finanszírozási forrásának biztosításához, vagy az önkormányzati költségvetési bevételi előirányzatok teljesítéséhez szükséges.
+
+(4) A helyi önkormányzat képviselő-testületének nemzeti vagyon ingyenes átadására vonatkozó határozatában meg kell jelölni azt a jogszabályban meghatározott közfeladatot, amelynek ellátását az átadás elősegíti.
+
+(5) A helyi önkormányzatok közötti ingyenes vagyonátadás esetén a vagyont átvevő önkormányzat képviselő-testületének a nemzeti vagyon ingyenes átvételére vonatkozó határozatában meg kell jelölnie azt a jogszabályban meghatározott közfeladatot, amelynek ellátását az átadás elősegíti.
 
 108/A. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
 
@@ -1239,7 +1259,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - g) jogosult az államháztartás információs rendszerének valamennyi, az államháztartás önkormányzati alrendszerére vonatkozó adatának megismerésére, rendszerezésére;
 - h) dönt a 85. § (10) bekezdésében foglalt jóváhagyás megadásáról.
 
-129. § A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter:
+129. § A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter a helyi önkormányzatokért felelős miniszterrel egyetértésben:
 
 - a) irányítja a helyi önkormányzatok törvényességi felügyeletét;
 - b) kezdeményezi a Kormánynál az Alaptörvénnyel ellentétesen működő helyi képviselő-testület feloszlatására vonatkozó országgyűlési előterjesztés benyújtását;
@@ -1434,7 +1454,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - b) a helyi önkormányzat tulajdonába tartozó vagyonelemek nyilvántartásának szabályait;
 - c) a 23. § (4) bekezdésének 1. pontjában meghatározott, a fővárosi önkormányzat kezelésében lévő főútvonalak, közutak és közterületek kijelölését;
 - d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;
-- e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait.
+- e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait;
+- f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
@@ -1464,7 +1485,9 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § E törvény 1–83. §-ai, a 84. § (1)–(4) bekezdése, a 85–109. §-ai, a 125–144. §-ai, a 146. §, 146/A. §, a 148. §, a 153–154. §-ai, a 156. §-a, valamint a 158. § b) pontja az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősülnek.
+145. § (1) E törvény 1–83. §-ai, a 84. § (1)–(4) bekezdése, a 85–109. §-ai, a 125–144. §-ai, valamint a 146. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősülnek.
+
+(2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
 ### Átmeneti rendelkezések
 

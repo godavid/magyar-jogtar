@@ -1940,9 +1940,9 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 
 (2) Az akkreditációra való jelentkezés önkéntes.
 
-(3) Az akkreditáció alapjául szolgáló standardok az egészségügyi ellátás biztonságát támogatják, és az eredményességet elősegítő tevékenységek szabályozására vonatkoznak.
+(3) Az akkreditáció alapjául szolgáló, az egészségügyi ellátás biztonságát támogató és az eredményességet elősegítő tevékenységek szabályozására vonatkozó standardokat a miniszter hagyja jóvá.
 
-(4) Az akkreditációs felülvizsgálatot az egészségügyért felelős miniszter által kijelölt szerv végzi, amelynek eredményéről akkreditációs dokumentumot állít ki.
+(4) Az akkreditációs felülvizsgálatot a miniszter által kijelölt szerv végzi, a felülvizsgálat alapján az akkreditációs dokumentumot a miniszter adja ki.
 
 124/A. § (1) A tanúsítás az egészségügyi szolgáltató nemzetközi vagy magyar egészségügyi ellátási standardok szerinti minőségirányítási rendszerének nemzetközi szabvány alapján történő felülvizsgálata és elismerése.
 
