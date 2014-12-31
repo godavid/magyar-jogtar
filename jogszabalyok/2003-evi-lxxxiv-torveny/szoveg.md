@@ -183,7 +183,7 @@ kell sorolni.
 
 (5) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott egészségügyi szakdolgozó és egészségügyben dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint a 2. melléklet szerint számított összeg.
 
-(6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 41435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
+(6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) szerinti besorolási illetmény és havi 41435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
 (6a) A gyógyszerész, szakgyógyszerész munkakörben (a továbbiakban együtt: gyógyszerész munkakörben) foglalkoztatott egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 75 820 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
@@ -247,7 +247,7 @@ lehet megkötni.
 - b) az általuk vállalt többletmunka órakeretét a (4) bekezdés a) pontja szerinti bontásban,
 - c) a vállalt órakeret terhére ténylegesen elrendelt munkaidőt.
 
-(7) Az önként vállalt többletmunkáról vezetett nyilvántartást az egészségügyi szolgáltató az Eütv.-ben foglaltak szerint, a működési nyilvántartási adatok körében közli az egészségügyi államigazgatási szervvel. Az egészségügyi államigazgatási szerv az egészségügyi dolgozó egészséget nem veszélyeztető és biztonságos munkavégzéshez való jogával vagy az ellátottak biztonságával összefüggő okok alapján – különös tekintettel a több vagy többfajta jogviszonyban álló egészségügyi dolgozó 5. § (5) bekezdésben rögzített tevékenységvégzési korlátozására – a (8)–(9) bekezdésben foglaltak szerint megtilthatja vagy korlátozhatja az adott alkalmazott egészségügyi dolgozónak a munkaidőkeret átlagában a heti 48 órát meghaladó munkavégzését.
+(7) Az önként vállalt többletmunkáról vezetett nyilvántartást az egészségügyi szolgáltató az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (1) bekezdés e) pontja szerinti nyilvántartási adatok körében közli az egészségügyi államigazgatási szervvel. Az egészségügyi államigazgatási szerv az egészségügyi dolgozó egészséget nem veszélyeztető és biztonságos munkavégzéshez való jogával vagy az ellátottak biztonságával összefüggő okok alapján – különös tekintettel a több vagy többfajta jogviszonyban álló egészségügyi dolgozó 5. § (5) bekezdésben rögzített tevékenységvégzési korlátozására – a (8)–(9) bekezdésben foglaltak szerint megtilthatja vagy korlátozhatja az adott alkalmazott egészségügyi dolgozónak a munkaidőkeret átlagában a heti 48 órát meghaladó munkavégzését.
 
 (8) Az egészségügyi dolgozó heti 48 órát meghaladó munkavégzésének korlátozását vagy megtiltását
 

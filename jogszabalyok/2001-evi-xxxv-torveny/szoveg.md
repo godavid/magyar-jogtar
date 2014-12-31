@@ -78,7 +78,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2) Ha az elektronikusan aláírt elektronikus dokumentumon minősített elektronikus aláírás szerepel és az aláírás ellenőrzésének eredményéből más nem következik, vélelmezni kell, hogy a dokumentum tartalma az aláírás óta nem változott.
 
-(3) A fokozott biztonságú, illetve minősített elektronikus aláírással ellátott elektronikusan aláírt elektronikus dokumentum kinyomtatott változatához nem fűződnek az ugyanezen dokumentum elektronikus változatának bizonyító ereje tekintetében előírt szabályok.
+(3)
 
 (4) Amennyiben az elektronikus aláírási termék rendelkezik az informatikáért felelős miniszter (a továbbiakban: miniszter) által kijelölt, illetve a laboratóriumok, a tanúsító és ellenőrző szervezetek akkreditálásáról szóló 1995. évi XXIX. törvény szerinti szakmai akkreditáló bizottságok által akkreditált és tanúsításra jogosult szervezetek, illetőleg a 7. § (3) bekezdése szerinti tanúsító szervezet által kiadott igazolással, az ellenkező bizonyításáig vélelmezni kell, hogy az elektronikus aláírási termék biztonságos, továbbá megfelel az igazolásban megjelölt egyéb követelményeknek.
 
@@ -534,7 +534,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - a) azoknak a jogviszonyoknak a körét, melyekkel kapcsolatos államigazgatási eljárásokban mód van kizárólag elektronikusan aláírt elektronikus dokumentumok használatára;
 - b) az elektronikusan aláírt elektronikus dokumentumok és elektronikus aláírás alkalmazásával történő ügyintézés sajátos szabályait.
 
-(4) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a kormányzati elektronikus aláírás-rendszer megvalósítására és üzemeltetésére vonatkozó részletes követelményeket.
+(4)
 
 (5) Felhatalmazást kapnak a helyi önkormányzatok, hogy rendeletben szabályozzák azoknak a lakossági szolgáltatásoknak a körét, illetve azoknak az államigazgatási eljárásoknak a körét, amelyekben – az eljárásra irányadó magasabb szintű jogszabályban foglaltak figyelembevételével – illetékességi körükben lehetőséget adnak a kizárólag elektronikusan aláírt elektronikus dokumentumokkal történő ügyintézésre.
 

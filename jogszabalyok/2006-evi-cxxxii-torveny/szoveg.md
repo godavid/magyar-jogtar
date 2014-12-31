@@ -725,7 +725,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (4)
 
-(5) Az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásaihoz kapcsolódó ellátási területeknek 2014. december 31-éig nem kell megfelelniük a térséghatár figyelembevétele követelményének.
+(5) Az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásaihoz kapcsolódó ellátási területeknek 2015. december 31-éig nem kell megfelelniük a térséghatár figyelembevétele követelményének.
 
 (6)
 
