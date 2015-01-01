@@ -117,7 +117,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 6. § (1) A koncesszióköteles tevékenység folytatására a koncessziós szerződést aláírónak e törvény különös rendelkezéseiben meghatározott olyan gazdasági társaságot kell alapítania, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek, illetőleg a szavazatok többségével rendelkezik és kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
 
-(2)
+(2) A koncessziós díjat a koncessziós szerződés aláírója vagy az (1) bekezdés szerinti koncessziós társaság, illetve a koncesszióba adó hozzájárulásával harmadik fél teljesíti. A koncessziós társaság a koncessziós díj 35. § (3) bekezdés szerinti levonására a koncessziós díjnak a koncessziós társaság, a koncessziós szerződés aláírója, illetve a harmadik fél általi teljesítése esetén is jogosult.
 
 (3) A szerencsejátékokkal kapcsolatos koncessziós eljárásra – az e törvényben foglalt eltérésekkel – a Ktv. rendelkezéseit kell alkalmazni.
 
@@ -642,6 +642,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (5) A távszerencsejáték havi gyakorisággal teljesítendő játékadója a 37. § 2.1. pontja szerint meghatározott tiszta játékbevétel 15%-a.
 
+(6) A szerencsejáték-szervező a sorsolásos játékok, a fogadások és a távszerencsejátékok esetén a játékadó megállapításához, bevallásához és megfizetéséhez kiszámítja az (1)–(5) bekezdés szerinti játékadó összegét, majd a külön jogszabályokban előírt fizetési kötelezettségek teljesítése után fennmaradó, (1)–(5) bekezdés szerint fizetendő játékadók együttes összegéből jogosult levonni az általa megfizetett – a sportról szóló törvényben meghatározott – vagyoni értékű jog felhasználási szerződés szerinti ellenértékének időarányos összegét.
+
 ### Játékautomaták játékadója játékadója
 
 33. §
@@ -797,7 +799,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 37. §
 
 - 1. Tét: a szerencsejátékban részvételre jogosító pénzösszeg, vagy más vagyoni érték.
-- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel és sportfogadás esetén a jogszabályban előírt vagyoni értékű jogra vonatkozó felhasználási szerződés időarányos ellenértékével csökkentett összege, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2.
+- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel csökkentett összege, kivéve ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2.
 - 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 - 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
 - 5. Közérdekű cél: a szerencsejáték szervező tevékenységi körét meghaladó, saját, vagy alkalmazottai érdekein túli, közösségi érdekeket szolgáló cél. A közösségi érdek meghatározásához a közérdekű célként meghatározott tevékenység felügyeletét ellátó szerv egyetértése szükséges. Lóversenyfogadás esetében közérdekű célnak minősül a versenyló tenyésztés is.
@@ -851,7 +853,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - f)
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h)
-- i) a távszerencsejáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
+- i) a távszerencsejáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, a távszerencsejátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
 - j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával kapcsolatos részletes szabályokat rendeletben határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
 
 (3)

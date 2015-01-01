@@ -95,6 +95,8 @@ ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege e
 
 a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélkül kell folyósítani, és a (2) bekezdés szerinti csökkentést ennek megfelelően kell módosítani.
 
+(7) A (3) bekezdés c) pontja szerinti szerződés megkötéséről, megszűnéséről a szolgálati járandóság összegének pontos meghatározása érdekében a Honvédség központi személyügyi nyilvántartó szerve minden hónap 20. napjáig értesíti a nyugdíjfolyósító szervet. A szerződés megkötéséről szóló értesítés alapján a nyugdíjfolyósító szerv az önkéntes tartalékos katona részére megállapított és folyósított szolgálati járandóság összegét, és annak változását a szolgálati járandóság összegének pontos meghatározása érdekében közli a Honvédség katonai igazgatási és központi adatfeldolgozó szervével.
+
 6. § Aki korhatár előtti öregségi nyugdíj mellett 2012. január 1-je előtt a Tny. 22/A. §-a alapján nyugdíjnövelésre jogot szerzett, ezt a jogát korhatár előtti ellátás, illetve szolgálati járandóság esetén is érvényesítheti az öregségi nyugdíjra vonatkozó szabályok megfelelő alkalmazásával.
 
 #### 3. A korhatár előtti ellátás megállapítása
@@ -152,7 +154,7 @@ kell érteni.
 
 kell érteni.
 
-(3) Az 5. § (4) és (5) bekezdésében foglalt rendelkezéseket az ezen alcímben foglaltak alapján megállapított szolgálati járandóságra is alkalmazni kell.
+(3) Az 5. § (3) bekezdés c) pontjában, (4), (5) és (7) bekezdésében foglalt rendelkezéseket az ezen alcímben foglaltak alapján megállapított szolgálati járandóságra is alkalmazni kell.
 
 #### 5. A korhatár előtti ellátás és a szolgálati járandóság folyósításának szüneteltetése
 

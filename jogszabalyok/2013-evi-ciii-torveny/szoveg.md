@@ -80,7 +80,7 @@ egyes törvényeknek a távolléti díj számításával és a közpénzek szab�
 
 (16)–(18)
 
-15. § (1)
+15. § (1) Hatályát veszti a Gst. 10. § (2) bekezdés a) pontjában a „pályázat önrészének és az így megnyert” szövegrész.
 
 (2)
 

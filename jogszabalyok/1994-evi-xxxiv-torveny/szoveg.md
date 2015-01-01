@@ -537,7 +537,8 @@ igazolja.
 - c) akinek őrizetbe vételét, előzetes letartóztatását rendelték el, vagy akinek ideiglenes kényszergyógykezelését, illetőleg elmeállapotának megfigyelését rendelték el;
 - d) aki az őrizetbe vétel, az előzetes letartóztatás, az ideiglenes kiadatási letartóztatás, a kiadatási letartóztatás, az ideiglenes átadási letartóztatás, az átadási letartóztatás, az ideiglenes végrehajtási letartóztatás, a szabadságvesztés vagy az elzárás végrehajtása során megszökött, vagy a fogvatartás helyéről engedéllyel eltávozva oda nem tért vissza, a lakhelyelhagyási tilalom, a házi őrizet, valamint a távoltartás szabályait megszegte, illetőleg, aki az ideiglenes kényszergyógykezelés, az elmeállapotának megfigyelése, a kényszergyógykezelés vagy a javítóintézeti nevelés alól magát kivonta;
 - e) akinek előállítását külön törvényben meghatározott feltételek alapján elrendelik;
-- f) aki az ország területén jogellenesen tartózkodik.
+- f) aki az ország területén jogellenesen tartózkodik;
+- g) akinek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 38. § (5) bekezdése alapján büntetés-végrehajtási őrizetbe vétele szükséges.
 
 (2) A rendőr a hatóság vagy az illetékes szerv elé állíthatja azt,
 
@@ -608,6 +609,17 @@ igazolja.
 
 (2) A rendőrség azt a feltételes szabadságra bocsátott elítéltet, illetve a javítóintézetből ideiglenesen elbocsátottat, akit pártfogó felügyelet alá helyeztek, ha a pártfogolt a hatóság elől elrejtőzött vagy elrejtőzésétől alaposan tartani kell, 72 óra időtartamra őrizetbe veheti.
 
+(3) A közbiztonsági őrizetet rendőrségi fogdán kell végrehajtani. A rendőrség az őrizet (1) és (2) bekezdés szerinti határidejének lejártát nap, óra és perc megjelöléssel tartja nyilván.
+
+(4) A közbiztonsági őrizetbe vett személyt
+
+- a) a személyazonosságának megállapítását követően, továbbá
+- b) ha a személyazonosság megállapítására vagy a feltételes szabadság megszüntetésére az (1) és (2) bekezdés szerinti határidőn belül nem került sor, a határidő elteltével
+
+haladéktalanul szabadon kell bocsátani.
+
+(5) A közbiztonsági őrizetre a Bv. tv. őrizet végrehajtására vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a rendelkezési jogkör gyakorlója az őrizetet elrendelő rendőri szerv vezetője, továbbá az őrizetbe vett személy befogadásáról és szabadításáról az őrizetet elrendelő rendőri szervet, pártfogó felügyelet alatt álló személy esetében pedig a pártfogó felügyelőt vagy a büntetés-végrehajtási pártfogó felügyelőt is értesíteni kell.
+
 ### Intézkedés magánlakásban és közterületnek
 
 nem minősülő egyéb helyen
@@ -655,10 +667,14 @@ készítése
 
 (5b) A rendőrség a segélyhívások fogadásával összefüggésben, a segítségnyújtási kötelezettség teljesítése, a segélyhívás alapján szükséges intézkedések megtétele céljából a fogadott segélyhívásokról felvételt készíthet.
 
+(5c) A rendőrség az előállító egység előterében és a rendőrségi fogda területén – a zárka, a WC és a tisztálkodásra szolgáló helyiség kivételével – a fogvatartás rendjének biztosítása, bűncselekmények, szabálysértések és fegyelmi vétségek megelőzése, továbbá a fogvatartott életének, testi épségének megóvása céljából elektronikus formában kép, hang vagy kép és hang együttes felvételére, továbbítására és rögzítésére alkalmas elektronikus megfigyelési eszközt helyezhet el, amellyel felvételt készíthet.
+
+(5d) Ha a fogvatartott korábban öngyilkosságot kísérelt meg, a saját testi épsége elleni önkárosító cselekményt követett el, vagy a fogvatartással összefüggésben észlelt körülmények alapján megalapozottan feltehető, hogy a fogvatartott ilyen cselekményt fog elkövetni, ezért a fogvatartott életének, testi épségének megóvása érdekében viselkedésének folyamatos nyomon követése szükséges, a rendőrség az előállító helyiségben, valamint a rendőrségi fogda zárkájában kép vagy kép és hang továbbítására alkalmas, felvételt nem rögzítő megfigyelési eszközt helyezhet el.
+
 (6) Az
 
 - a) (1), (2) és (5) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, körözött személy vagy tárgy azonosítása vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
-- b) (5a) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+- b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 - c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
 használható fel.
@@ -667,7 +683,7 @@ használható fel.
 
 - a) az (1) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével,
 - b) a (2) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével,
-- c) az (5) és (5a) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,
+- c) az (5), (5a) és (5c) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,
 - d) az (5b) bekezdés alapján rögzített felvételt a rögzítést követő egy év elteltével
 
 törölni kell.
@@ -676,7 +692,7 @@ törölni kell.
 
 (9) Ha a felvétel felhasználására a (6) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
-42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5), (5a) és (5b) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5), (5a), (5b) és (5c) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
 
 (1a) A rendőrség a segélyhívást követő intézkedés lefolytatása céljából az intézkedés lefolytatására feladat- és hatáskörrel rendelkező egészségügyi szervet, hivatásos katasztrófavédelmi szervet a segélyhívásokkal kapcsolatban a rendőrség által kezelt adatok továbbításával értesíti.
 
@@ -1743,7 +1759,7 @@ bírálja el.
 
 - a) a rendőrség szerveinek illetékességi területét,
 - b) a rendőr képesítési és egyéb alkalmassági követelményeit, valamint az alkalmassági feltételek ellenőrzésének szabályait,
-- c) a rendőrségi fogdák rendjét,
+- c)
 - d)
 - e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét,
 - f) a rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetekkel történő együttműködésben,
@@ -1765,7 +1781,8 @@ bírálja el.
 - c) a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben jelölje ki azokat a vasútvonalakat és vízi utakat, amelyeken a menet közbeni ellenőrzés végezhető,
 - d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a határátlépés ellenőrzésének szabályait a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren,
 - e) az államháztartásért felelős miniszter és az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
-- f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényekkel összefüggő rendőrségi eljárás és a rendezvények biztosításával kapcsolatos rendőrségi feladatok végrehajtásának részletes szabályait.
+- f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényekkel összefüggő rendőrségi eljárás és a rendezvények biztosításával kapcsolatos rendőrségi feladatok végrehajtásának részletes szabályait,
+- g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét.
 
 (3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
 

@@ -44,54 +44,7 @@ az igazságügyi szolgáltatásokkal kapcsolatos egyes törvények módosítás�
 
 ### VIII. Fejezet — ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
-139. § (1) E törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2009. október 1. napján lép hatályba.
-
-(2) E törvény
-
-- a) 16. § (2) bekezdése,
-- b) 40–42. §-ai,
-- c) 43. § (1) bekezdése,
-- d) 45–46. §-ai,
-- e) 48. §-a,
-- f) 50. §-a,
-- g) 53. § (2) bekezdése,
-- h) 55. §-a,
-- i) 63. §-a,
-- j) 64. § (2) bekezdése,
-- k) 144. § (2) bekezdésének i) pontja
-
-2010. január 1. napján lép hatályba.
-
-(3) E törvény 22–23. §-ai 2010. július 1. napján lépnek hatályba.
-
-140. § (1) E törvény rendelkezéseit – a (2)–(7) bekezdésekben foglalt kivétellel – a hatálybalépését követően indult vagy megismételt eljárásokban kell alkalmazni.
-
-(2) E törvény
-
-- a) 1. §-át,
-- b) 6. §-át,
-- c) 8. §-ának (1) bekezdését,
-- d) 9. §-át,
-- e) 11–14. §-ait és
-- f) 144. § (1) bekezdésének k)–m) pontjait
-
-a hatálybalépését követően kezdeményezett etikai és törvényességi felügyeleti eljárásokban kell alkalmazni.
-
-(3) A 95. § rendelkezéseit azokban az ügyekben is alkalmazni kell, amelyekben a kérelem benyújtására e törvény hatálybalépését követően kerül sor.
-
-(4) Azokban az ügyekben, amelyekben a szakértői kirendelés szakértő általi kézhezvételére 2009. december 31-ig kerül sor, a Szaktv. 2009. szeptember 30. napjáig hatályos 17. §-át alkalmazni kell.
-
-(5) A 113. § rendelkezéseit a folyamatban lévő felülvizsgálatokra is alkalmazni kell. A felülvizsgálat lefolytatásának nem akadálya, ha az igazságügyi szakértő tagsága az igazságügyi szakértői kamarában szünetel vagy felfüggesztés alatt áll.
-
-(6) A Pp.-nek és a büntetőeljárásról szóló 1998. évi XIX. törvénynek (a továbbiakban: Be.) e törvény 85–87. §-ával és 143. § (6) bekezdésével, valamint 144. § (8) bekezdésének a) pontjával megállapított rendelkezéseit a hatálybalépéskor folyamatban lévő ügyekben is alkalmazni kell.
-
-(7) A Jst.-nek e törvény 65–67. §-ával, 69. §-ával, 71–76. §-ával és 79–84. §-ával megállapított rendelkezéseit a törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell, azzal, hogy a Jst.-nek a 2009. szeptember 30-áig hatályos 70. és 71. §-át mindaddig alkalmazni kell, amíg a közjegyző a jogi segítői névjegyzékben szerepel.
-
-141. § A jogi segítői névjegyzékben a hatálybalépés időpontjában szereplő közjegyzők szolgáltatási szerződése nem hosszabbítható meg.
-
-142. § (1) E törvény hatálybalépését megelőzően az igazságügyi szakértőkről szóló 2/1988. (V. 19.) IM rendelet alapján kiadott módszertani leveleket (a továbbiakban e §-ban: korábbi módszertani levél) a Magyar Igazságügyi Szakértői Kamara elnöksége (a továbbiakban e §-ban: elnökség) 2011. január 1-jéig felülvizsgálja. A felülvizsgálatra a Szaktv. 30/A–30/C. §-ait megfelelően alkalmazni kell.
-
-(2) Az elnökség a felülvizsgálat során a korábbi módszertani levelet változatlan tartalommal szakértői módszertani levélként fenntartja vagy visszavonja. Amennyiben a korábbi módszertani levél módosítása vagy kiegészítése szükséges, az elnökség a korábbi módszertani levelet visszavonja és új szakértői módszertani levelet ad ki.
+139–142. §
 
 143–144. §
 

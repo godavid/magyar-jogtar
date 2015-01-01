@@ -343,6 +343,8 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 (2) Rendkívüli halálesetekkel összefüggő halottszállításról külön jogszabály rendelkezik.
 
+(3) Holttestet temető, temetkezési emlékhely és hamvasztóüzem ingatlanán kívül halottszállító autóban március 1. és szeptember 30. között vagy 90 percnél hosszabb idejű szállítás esetében legfeljebb +18 °C-on lehet szállítani.
+
 36. § (1) Holttest, urna külföldre történő szállításához – ha nemzetközi szerződés másként nem rendelkezik – a rendeltetési hely szerinti ország hatóságának, valamint az elhalálozás helye szerint egészségügyi államigazgatási szervnek az engedélye szükséges.
 
 (2) Holttest külföldről Magyarországra való szállításához be kell szerezni a magyar külképviselet hatósági engedélyét, valamint az indító ország közegészségügyi hatóságának szállítási engedélyét, továbbá a befogadó temető, illetve temetkezési hely nyilatkozatát.

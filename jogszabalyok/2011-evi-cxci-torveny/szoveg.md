@@ -42,7 +42,7 @@ a Tbj. 5. §-a szerinti biztosított volt;
 
 (3) Az (1) bekezdés a) pontja szerinti biztosítási időbe be kell számítani
 
-- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
+- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
 - b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és megváltozott munkaképességű személyek ellátása folyósításának idejét.
 - c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték.
 
@@ -133,7 +133,7 @@ a Tbj. 5. §-a szerinti biztosított volt;
 
 - a) kérte,
 - b) ellátásának időtartama eltelt,
-- c) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt,
+- c) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
 - d) egészségi állapotában olyan tartós rosszabbodás következett be, amely a rehabilitációt lehetetlenné teszi,
 - e) egészségi állapotában olyan tartós javulás következett be, amely alapján már nem minősül megváltozott munkaképességű személynek,
 - f) az együttműködési, értesítési vagy a rehabilitációs tervben foglalt kötelezettségét neki felróható okból nem teljesíti,
@@ -168,7 +168,7 @@ a Tbj. 5. §-a szerinti biztosított volt;
 (2) A rokkantsági ellátást meg kell szüntetni, ha az ellátásban részesülő
 
 - a) kérte,
-- b) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt,
+- b) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
 - c) egészségi állapotában olyan tartós javulás következett be, amely alapján a jogosultsági feltételek már nem állnak fenn,
 - d) keresőtevékenységet folytat, és jövedelme 3 egymást követő hónapon keresztül meghaladja a minimálbér 150 százalékát,
 - e) foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor,
@@ -202,7 +202,7 @@ a megkereséstől számított tizenöt napon belül közli.
 
 (5) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – az egészségbiztosítási szerv
 
-- a) tizenöt napon belül közli a táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósításának időtartamára,
+- a) tizenöt napon belül közli a táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj folyósításának időtartamára,
 - b)
 
 vonatkozó adatokat.
@@ -338,19 +338,23 @@ vonatkozó adatokat kezelheti.
   - aa) rehabilitációs ellátásban vagy rehabilitációs járadékban részesül vagy
   - ab) önként kéri a nyilvántartásba vételét, továbbá
 - b) az akkreditált munkaadókról, valamint
-- c) az akkreditált munkaadók megváltozott munkaképességű munkavállalók számára felajánlott betöltetlen álláshelyeiről.
+- c) az akkreditált és egyéb munkaadók megváltozott munkaképességű munkavállalók számára felajánlott betöltetlen álláshelyeiről.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
 
 - a) az (1) bekezdés a) pontja szerinti megváltozott munkaképességű személy
   - aa) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét,
-  - ab) állampolgárságát, bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
-  - ac) lakó- és tartózkodási helyét, értesítési címét, telefonszámát, elektronikus levélcímét,
-  - ad) a komplex minősítés során megállapított körülményekre vonatkozó adatokat, ha a megváltozott munkaképességű személy rendelkezik komplex minősítéssel,
-  - ae) iskolai végzettségét, szakképzettségét, egyéb végzettségét, jártasságát,
-  - af) betöltött munkaköreit, tevékenységeit,
-  - ag) által megjelölt azon területeket, amelyek tekintetében a betöltetlen álláshelyekről értesítést kér;
-- b) az akkreditált munkaadó
+  - ab) nemét,
+  - ac) állampolgárságát, bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
+  - ad) lakó- és tartózkodási helyét, értesítési címét, telefonszámát, elektronikus levélcímét, írásbeli hozzájárulása esetén a közeli hozzátartozója nevét, telefonszámát, elektronikus levélcímét,
+  - ae) korábbi minősítések, illetve a komplex minősítés során megállapított körülményeire (rehabilitálhatóságára) vonatkozó adatokat, ha a megváltozott munkaképességű személy rendelkezik komplex minősítéssel,
+  - af) szociális helyzetére, ellátásaira és orvosi rehabilitációs szükségleteire vonatkozó adatokat,
+  - ag) iskolai végzettségére, szakképzettségére, egyéb végzettségére, jártasságára vonatkozó adatokat,
+  - ah) keresőtevékenységére, foglalkoztatására, munkahelyére, munkakörére, tevékenységeire vonatkozó adatokat,
+  - ai) munkavállalásának személyes és egyéb körülményeire vonatkozó adatokat,
+  - aj) részére nyújtott rehabilitációs szolgáltatásokra vonatkozó adatokat,
+  - ak) által megjelölt azon területeket, amelyek tekintetében a betöltetlen álláshelyekről értesítést kér;
+- b) az akkreditált és egyéb munkaadó
   - ba) nevét,
   - bb) székhelyét,
   - bc) telephelyét,
@@ -366,9 +370,9 @@ vonatkozó adatokat kezelheti.
 
 (3) Törölni kell az (1) bekezdés szerinti nyilvántartásból
 
-- a) az (1) bekezdés a) pont aa) alpontja alapján nyilvántartásba vett személy adatait az ellátás megszüntetését követően, amennyiben ezt kéri, de legkésőbb az ellátás megszüntetését követő 5 év elteltével,
+- a) az (1) bekezdés a) pont aa) alpontja alapján nyilvántartásba vett személy és közeli hozzátartozója adatait az ellátás megszüntetését követően, amennyiben ezt kéri, de legkésőbb az ellátás megszüntetését követő 5 év elteltével,
 - b) az akkreditált munkaadó adatait az akkreditált munkaadói minősége megszűnését követő 5 év elteltével,
-- c) a nyilvántartásba vételét önként kérő megváltozott munkaképességű személynek az adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
+- c) a nyilvántartásba vételét önként kérő megváltozott munkaképességű személynek, valamint a nem akkreditált munkaadónak az adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
 
 (4) Az állami foglalkoztatási szerv munkaerő-piaci szolgáltatások nyújtása céljából a (2) bekezdés c) pontjában meghatározott adatokat közvetlen hozzáféréssel átveheti.
 
@@ -402,7 +406,8 @@ kell figyelembe venni.
 - b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
 - c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavállalót, és
 - d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót,
-- e) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses katonát.
+- e) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses katonát,
+- f) a nevelőszülői foglalkoztatási jogviszonyban álló személyt annál a munkaadónál, aki őt nevelőszülőként foglalkoztatja.
 
 (3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint a rehabilitációs hozzájárulás szorzata.
 
@@ -671,6 +676,8 @@ kell figyelembe venni.
 - e) a rehabilitációs járadékban részesülő személyt is.
 
 38/A. § E törvénynek a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvénnyel megállapított 23. § (2) bekezdés e) pontját 2013. január 1-jétől kell alkalmazni.
+
+38/B. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 23. § (2) bekezdés f) pontját a 2014. évi adókötelezettség megállapítása során is alkalmazni kell.
 
 39. § (1) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

@@ -14,7 +14,7 @@ Az energiagazdálkodás és a környezetvédelem céljainak figyelembevételéve
 
 2. § E törvény alkalmazásában:
 
-- 1. átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer;
+- 1. ásványtani folyamat: a gazdasági tevékenységek statisztikai osztályozásáról szóló 1990. október 9-i 3037/90/EGK tanácsi rendelet DI 26 „egyéb nemfém ásványi termék gyártása” kód alá besorolt folyamat; 1/A. átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer;
 - 2. elektrolitikus folyamat: minden olyan folyamat, amelynél elektromos energia felhasználása mellett oxidáció és redukció megy végbe az elektrolitoldat és az elektródok érintkezési felületén;
 - 3. elosztó hálózat: a villamos energia elosztására és a felhasználói csatlakozási pontra való eljuttatás céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
 - 4. energia: a földgáz, a villamos energia és a szén;
@@ -63,19 +63,25 @@ Az energiagazdálkodás és a környezetvédelem céljainak figyelembevételéve
 
 (2) Az adó mértéke
 
-- a) villamos energiára megawattóránként 295 forint,
-- b) a földgázra gigajoule-onként 88,50 forint,
-- c) a szénre ezer kg-onként 2390 forint.
+- a) villamos energiára megawattóránként 310,50 forint,
+- b) a földgázra gigajoule-onként 93,50 forint,
+- c) a szénre ezer kg-onként 2516 forint.
 
-5. § Az adófizetési kötelezettség
+5. § (1) Az adófizetési kötelezettség
 
-- a) a 3. § (1) bekezdés b)–c) és h) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
+- a) a 3. § (1) bekezdés b) és c) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
 - b) a 3. § (1) bekezdés d) pontja esetében az adóbevallási időszak utolsó napján, az adóbevallási időszakban beszerzett energia mennyiségre,
 - c) a 3. § (1) bekezdés e) pontja esetében a vámjogi szabadforgalomba bocsátáskor, a vámjogi szabadforgalomba bocsátott mennyiségre,
-- d) a 3. § (1) bekezdés f)–g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre,
-- e) a 3. § (1) bekezdés i) pontja esetében a vásárláskor, a vásárolt szén mennyiségére
+- d) a 3. § (1) bekezdés f) és g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre,
+- e) a 3. § (1) bekezdés i) pontja esetében a vásárláskor, a vásárolt szén mennyiségére,
+- f) a 3. § (1) bekezdés h) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre, saját célra felhasznált energia esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre
 
 keletkezik.
+
+(2) A fizetendő adó megállapítására
+
+- a) az adófizetési kötelezettség keletkezésekor érvényes adómértéket kell alkalmazni,
+- b) az (1) bekezdés rendelkezésétől eltérően az általános forgalmi adóról szóló törvény 58. §-a szerinti ügyletnél az időszak első napján hatályos adómértéket kell alkalmazni.
 
 ### Adóvisszaigénylés
 
@@ -84,7 +90,7 @@ keletkezik.
 - a) az a személy, aki elosztó vagy átviteli hálózatra betáplált villamos energia előállításához használ fel energiát;
 - b) az erőművet vagy távhőtermelő létesítményt üzemeltető személy, aki energiát kapcsolt hő- és villamos energia előállítására használ fel;
 - c) az a távhőtermelő létesítményt üzemeltető személy (ideértve a külön rendelet szerint központi fűtést és melegvíz-szolgáltatást végző személyt is), aki lakosságnak szolgáltatott hő előállítására energiát használ fel;
-- d) az a személy, aki kémiai redukcióban, elektrolitikus és kohászati folyamatban energiát használ fel;
+- d) az a személy, aki kémiai redukcióban, ásványtani, elektrolitikus és kohászati folyamatban energiát használ fel;
 - e) az a személy, aki vegyipari alapanyagként használ fel földgázt;
 - f) az a személy, aki saját felhasználásra előállított villamos energia termelésére energiát használt fel;
 - g) az a személy, aki a párnagázkészlet feltöltésére vagy szinten tartására a föld alatti gáztárolóba, illetve a szállító- vagy elosztóvezeték feltöltése céljából a szállító- vagy elosztóvezetékbe földgázt tárol be;
@@ -95,7 +101,7 @@ keletkezik.
 
 - a) a vételárban megfizetett adót,
 - b) kivetéses adózás esetén a kivetett és megfizetett adót,
-- c) a 3. § (1) bekezdés c) és d) pontja szerint megállapított adó esetében a bevallott adót
+- c) a 3. § (1) bekezdés c), d) és h) pontja szerint megállapított adó esetében a bevallott adót
 
 igényelheti vissza vagy helyezheti levonásba.
 

@@ -97,13 +97,13 @@ terjed ki.
 
 (9) Az Előkészítő Bizottság által elkészített Ideiglenes Választási Szabályzat az MKK Területi Közgyűlés tisztségviselőinek és bizottságainak megválasztását követő 30. napon hatályát veszti.
 
-(10) Az MKK megalakulásával kapcsolatos költségeket a Közigazgatási és Igazságügyi Minisztérium fejezete tartalmazza.
+(10)
 
 #### 10. §
 
 #### 11. §
 
-12. § Ha a közigazgatási szervnél a munkaszerződéssel foglalkoztatottak aránya a Kttv. hatálybalépésekor meghaladja a Kttv. 8. § (4) bekezdésében meghatározott mértéket, új munkaszerződés nem köthető, illetve a meglévő szerződések a közigazgatásért és igazságügyért felelős miniszter engedélyével hosszabbíthatóak meg addig, amíg az ilyen szerződésekkel foglalkoztatottak aránya az engedélyezett létszám tíz százalékára nem csökken.
+12. § Ha a közigazgatási szervnél a munkaszerződéssel foglalkoztatottak aránya a Kttv. hatálybalépésekor meghaladja a Kttv. 8. § (4) bekezdésében meghatározott mértéket, új munkaszerződés nem köthető, illetve a meglévő szerződések a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter engedélyével hosszabbíthatóak meg addig, amíg az ilyen szerződésekkel foglalkoztatottak aránya az éves átlagos statisztikai állományi létszám tíz százalékára nem csökken.
 
 13. § Ha a 2012. február 29-én hatályos Ktv. szabályok szerint felmentési védelemnek minősülő ok 2012. február 29-éig keletkezik és a Kttv. hatálybalépését követően is fennáll, ezen ok fennállásáig a felmentési védelemre jogosító időhöz fűződő jogkövetkezmények tekintetében a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályait kell alkalmazni.
 

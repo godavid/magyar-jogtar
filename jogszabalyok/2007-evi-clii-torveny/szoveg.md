@@ -28,8 +28,8 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 - a) közigazgatási államtitkár, helyettes államtitkár,
 - b) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a honvédek jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
 - c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
-- d) vezetői megbízással rendelkező köztisztviselő,
-- e) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
+- d) vezetői munkakört betöltő köztisztviselő vagy kormánytisztviselő,
+- e) jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,
 - f) ügyész vagy
 - g) közjegyző,
 - h) bírósági végrehajtó.

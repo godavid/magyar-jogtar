@@ -268,7 +268,7 @@ jogszabályok előkészítésében.
 
 (2) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője az Állami Számvevőszéknél történő alkalmazásuk idején nem lehetnek tagjai az Országgyűlésnek, önkormányzati képviselő-testületnek, és nem tölthetnek be érdek-képviseleti szervezetnél vezető tisztséget.
 
-(3) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – más megbízást nem láthat el, más kereső foglalkozást nem folytathat, díjazást más tevékenységért nem fogadhat el.
+(3) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – más megbízást nem láthat el, más kereső foglalkozást nem folytathat, díjazást más tevékenységért nem fogadhat el.
 
 (4) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője nem lehetnek sem egymással, sem a Kormány, sem pedig az Országgyűlés számvevőszéki ügyekben illetékes bizottsága tisztségviselőjével vagy tagjával a közszolgálati tisztviselőkről szóló törvény szerinti hozzátartozók.
 

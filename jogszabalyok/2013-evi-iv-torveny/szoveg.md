@@ -6751,3 +6751,5 @@ Amennyiben bármiféle kétség lehetősége merülne fel azt illetően, hogy va
 - g) a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 62. ülésszakán elfogadott, a kereskedelmi hajók minimális követelményeiről szóló 147. számú Egyezmény, és az ahhoz kapcsolódó 1996. évi Jegyzőkönyv kihirdetéséről szóló 2005. évi CIII. törvény.
 
 (5) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter, a szociál- és nyugdíjpolitikáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter gondoskodik.
+
+(6) Felhatalmazást kap a Kormány, hogy a tengerész munkaközvetítői és munkaerő-kölcsönzési tevékenység folytatásának különös szabályait rendeletben határozza meg.

@@ -31,6 +31,8 @@ a védelmére.
 
 (5) Az alapvető jogok biztosa elősegíti az emberi jogok érvényesülését és védelmét. Ennek során társadalmi tudatformáló, felvilágosító tevékenységet végez és együttműködik azon szervezetekkel és nemzeti intézményekkel, amelyek célja az alapvető jogok védelmének előmozdítása.
 
+(6) Az alapvető jogok biztosa ellátja a 2011. évi CXLIII. törvénnyel kihirdetett, a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyve 3. cikke szerinti nemzeti megelőző mechanizmus feladatait.
+
 3. § (1) Az alapvető jogok biztosának a jövő nemzedékek érdekeinek védelmét ellátó helyettese figyelemmel kíséri a jövő nemzedékek érdekeinek érvényesülését, és
 
 - a) rendszeresen tájékoztatja az alapvető jogok biztosát, az érintett intézményeket és a nyilvánosságot a jövő nemzedékek érdekeinek érvényesülésével kapcsolatos tapasztalatairól,
@@ -103,7 +105,7 @@ a védelmére.
 
 8. § (1) Az alapvető jogok biztosának és helyettesének a megbízatása összeegyeztethetetlen minden más állami, önkormányzati, társadalmi és politikai tisztséggel vagy megbízatással.
 
-(2) Az alapvető jogok biztosa és helyettese más keresőtevékenységet nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, szerzői jogi védelem alá eső, valamint lektori és szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
+(2) Az alapvető jogok biztosa és helyettese más keresőtevékenységet nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, szerzői jogi védelem alá eső, lektori, szerkesztői tevékenységet és a nevelőszülői foglalkoztatási jogviszonyt kivéve – díjazást nem fogadhat el.
 
 (3) Az alapvető jogok biztosa és helyettese nem lehet gazdasági társaság vezető tisztségviselője, felügyelőbizottságának tagja, valamint gazdasági társaság személyes közreműködésre kötelezett tagja.
 
@@ -464,13 +466,42 @@ tevékenységét.
 
 (5) Az alapvető jogok biztosa a kivételes vizsgálat eredménye alapján a hatáskörrel rendelkező hatóság eljárását kezdeményezheti. A hatóság a kezdeményezés alapján az eljárást haladéktalanul megindítja.
 
+### III/A. Fejezet — AZ ALAPVETŐ JOGOK BIZTOSÁNAK ELJÁRÁSA ÉS INTÉZKEDÉSEI A NEMZETI MEGELŐZŐ MECHANIZMUS KERETÉBEN
+
+39/A. § Ha az alapvető jogok biztosa a 2011. évi CXLIII. törvénnyel kihirdetett, a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyve (a továbbiakban: Jegyzőkönyv) 3. cikke szerinti nemzeti megelőző mechanizmus (a továbbiakban: nemzeti megelőző mechanizmus) feladatainak teljesítése körében jár el, eljárására a III. fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+39/B. § (1) A nemzeti megelőző mechanizmus feladatainak teljesítése érdekében az alapvető jogok biztosa a Jegyzőkönyv 4. cikke szerinti fogvatartási helyen (a továbbiakban: fogvatartási hely) szabadságuktól megfosztott személyekkel való bánásmódot – a 18. § (1)–(7) bekezdésére tekintet nélkül – beadvány és felmerült visszásság hiányában is rendszeresen vizsgálja.
+
+(2) Az alapvető jogok biztosa a 21. § (1) bekezdésében foglaltak mellett a vizsgálata során adatokat, felvilágosítást és iratmásolatokat kérhet a vizsgált hatóságtól a fogvatartási helyek számáról és földrajzi helyéről, valamint a fogvatartási helyeken lévő, szabadságuktól megfosztott személyek számáról, a velük való bánásmódról és fogva tartásuk körülményeiről.
+
+(3) A helyszíni ellenőrzés során az alapvető jogok biztosa
+
+- a) a fogvatartási helyekre és a vizsgált hatóság egyéb helyiségeibe korlátozás nélkül beléphet,
+- b) a fogvatartási helyek számára és földrajzi helyére, valamint a fogvatartási helyeken lévő, szabadságuktól megfosztott személyek számára, a velük való bánásmódra és fogva tartásuk körülményeire vonatkozó összes iratba korlátozás nélkül betekinthet, azokról kivonatot és másolatot készíthet,
+- c) a vizsgált hatóság munkatársát és a szabadságától megfosztott személyt is beleértve bármely ott tartózkodó személyt meghallgathat.
+- d)
+
+(4) A (3) bekezdés c) és d) pontja szerinti meghallgatáson az alapvető jogok biztosán és a meghallgatott személyen kívül más csak akkor vehet részt, ha a részvételéhez az alapvető jogok biztosa hozzájárult.
+
+39/C. § A nemzeti megelőző mechanizmus feladatainak teljesítéséről az alapvető jogok biztosa évente átfogó jelentést készít, amelyet a Hivatal honlapján közzé kell tenni.
+
+39/D. § (1) A nemzeti megelőző mechanizmus feladatainak teljesítése körében az alapvető jogok biztosa személyesen és a nemzeti megelőző mechanizmus feladatainak teljesítésére általa felhatalmazott munkatársai útján is eljárhat. A 21., 22. és a 26. §, valamint a 27. § (1) bekezdése és a 39/B. § szerinti jogosultságok az alapvető jogok biztosának a felhatalmazása alapján eljáró munkatársait is megilletik, illetve a 25. § szerinti együttműködési kötelezettség velük szemben is fennáll.
+
+(2) Az alapvető jogok biztosának a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársa e feladatok teljesítése körében – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
+
+(3) Az alapvető jogok biztosának a nemzeti megelőző mechanizmus feladatainak teljesítésére – az Alapvető Jogok Biztosának Hivatala köztisztviselői közül, állandó jelleggel – legalább tizenegy munkatársát fel kell hatalmaznia. A felhatalmazott köztisztviselő munkatársak a szabadságuktól megfosztott személyekkel való bánásmódot érintő szakterületen kiemelkedő elméleti tudással vagy legalább ötéves szakmai gyakorlattal rendelkező, felsőfokú végzettségű szakértők lehetnek. A nemzeti megelőző mechanizmus feladatainak teljesítésében való közreműködésre az alapvető jogok biztosa a köztisztviselő munkatársak mellett eseti vagy állandó jelleggel más szakértőket is felhatalmazhat.
+
+(4) A nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott köztisztviselő munkatársak között kell lennie legalább egy, a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettes biztos által javasolt személynek, és legalább két-két jogász, orvos, illetve pszichológus végzettségű személynek. A felhatalmazott köztisztviselő munkatársak között az egyik nem képviselőinek a száma legfeljebb eggyel haladhatja meg a másik nem képviselőinek számát.
+
+39/E. § Az alapvető jogok biztosa részére és a nemzeti megelőző mechanizmus feladatainak teljesítésére általa felhatalmazott munkatársa részére történő információközlés miatt senkit sem érhet hátrány.
+
 ### IV. Fejezet — AZ ALAPVETŐ JOGOK BIZTOSÁNAK ÉVES BESZÁMOLÓJA
 
 40. § (1) Az alapvető jogok biztosa az éves beszámolót a tárgyévet követő év március 31-ig terjeszti az Országgyűlés elé.
 
 (2) Az alapvető jogok biztosa az éves beszámolóban
 
-- a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,
+- a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében, a 2. § (6) bekezdésében meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,
 - b) tájékoztat az általa tett kezdeményezések, ajánlások fogadtatásáról és eredményéről, valamint
 - c) az alapvető jogokkal kapcsolatos jogsértésekről készült statisztikai kimutatás alapján értékeli az alapvető jogok helyzetét.
 

@@ -33,11 +33,10 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 (4) Kormányhivatal
 
 - a) a Központi Statisztikai Hivatal,
-- b)
-- c)
-- d) az Országos Atomenergia Hivatal,
-- e) a Szellemi Tulajdon Nemzeti Hivatala.
-- f) a Nemzeti Adó- és Vámhivatal.
+- b) az Országos Atomenergia Hivatal,
+- c) a Szellemi Tulajdon Nemzeti Hivatala,
+- d) a Nemzeti Adó- és Vámhivatal,
+- e) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal.
 
 (5) Rendvédelmi szerv
 
@@ -122,9 +121,13 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (4) Az állami vezetők személyi anyagának nyilvántartását a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vezeti.
 
-(5) A Kormány tagja részére a köztársasági elnök; az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár részére a miniszterelnök igazolványt állít ki.
+(5)
 
 (6) Az állami vezető, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, valamint a kormányhivatal és a központi hivatal vezetője és helyettese a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra vonatkozó havi illetménye, valamint a miniszterelnöki megbízott havi vagy egyszeri díjazása nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+
+7/A. § (1) A miniszter részére a köztársasági elnök a közjogi tisztség betöltésének igazolása céljából igazolványt állít ki. Az igazolvány a Kormány tagja nevét, arcképmását és a betöltött közjogi tisztség megnevezését tartalmazza.
+
+(2) Az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár részére az állami vezetői tisztség betöltésének igazolása céljából a miniszterelnök igazolványt állít ki. Az igazolvány az állami vezető nevét, arcképmását és a betöltött állami vezetői tisztség megnevezését tartalmazza.
 
 ### A politikai vezetőkre vonatkozó közös szabályok
 
@@ -149,7 +152,8 @@ miatt szűnt meg.
 
 - a) országgyűlési képviselő legyen,
 - b) elkülönített állami pénzalappal való rendelkezésre jogosult és felhasználásért felelős testület tagja, elkülönített állami pénzalappal összefüggésben elvi, irányító és koordináló döntések meghozataláért felelős testület tagja vagy az elkülönített állami pénzalappal való rendelkezésre jogosult és felhasználásért felelős miniszter vagy testület részére döntés-előkészítő, véleményező tevékenységet végző testület tagja legyen, illetve
-- c) tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen.
+- c) tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen,
+- d) nevelőszülői foglalkoztatási jogviszonyt létesítsen.
 
 (3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelő bizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelő bizottságának tagjaira nem kell alkalmazni.
 
@@ -473,29 +477,24 @@ helyettesíti.
 
 38. § (1) A miniszter normatív utasítással kiemelt fontosságú feladat ellátására miniszteri biztost nevezhet ki.
 
-(2) Miniszteri biztossá
-
-- a) államtitkár, közigazgatási államtitkár vagy helyettes államtitkár az eredeti feladatkörével összefüggő, továbbá
-- b) az a) pont hatálya alá nem tartozó személy a miniszter feladatkörébe tartozó feladat ellátására nevezhető ki.
+(2) Miniszteri biztos a miniszter feladatkörébe tartozó feladat ellátására nevezhető ki.
 
 (3) A miniszteri biztos kinevezését megelőzően a javasolt személyről a miniszter tájékoztatja a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javaslattal szemben, a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki miniszteri biztossá.
 
 (4) A miniszteri biztos tevékenységét az őt kinevező miniszter irányítja.
 
-(5) A miniszteri biztos megbízatása meghatározott időre, de legfeljebb hat hónapra szól. A miniszteri biztos e megbízatása az államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik. A miniszteri biztos e megbízatása megszűnik az őt kinevező miniszter megbízatása megszűnésével.
+(5) A miniszteri biztos megbízatása meghatározott időre, de legfeljebb hat hónapra szól. A miniszteri biztos e megbízatása visszavonással vagy az őt kinevező miniszter hatáskörgyakorlása megszűnésével is megszűnik.
 
-(6) A (2) bekezdés a) pontja alapján kinevezett miniszteri biztos e tevékenységére tekintettel az (1) bekezdés szerinti normatív utasításban meghatározott, legfeljebb a (7) bekezdés szerinti illetménynek megfelelő összegű díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
+(6) A miniszteri biztos legfeljebb helyettes államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(7) A (2) bekezdés b) pontjában meghatározott miniszteri biztos helyettes államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
+(7) A miniszteri biztosra a 33. § (1) bekezdését alkalmazni kell.
 
-(8) A miniszteri biztosra a 33. § (1) bekezdését alkalmazni kell.
+(8) A miniszteri biztost tevékenységének ellátásában a miniszteri kabinetben működő titkárság segíti, amelyre a helyettes államtitkár titkárságának szabályai az irányadóak.
 
-(9) A miniszteri biztost tevékenységének ellátásában a miniszteri kabinetben működő titkárság segíti, amelyre a helyettes államtitkár titkárságának szabályai az irányadóak.
+(9) A miniszter az (1) bekezdés szerinti normatív utasításában
 
-(10) A miniszter az (1) bekezdés szerinti normatív utasításában
-
-- a) a (2) bekezdés b) pontjában meghatározott miniszteri biztos díjazását és juttatásait a (7) bekezdésben meghatározottnál alacsonyabb mértékben is megállapíthatja,
-- b) rendelkezhet úgy, hogy a miniszteri biztos tevékenységét a (9) bekezdés szerinti titkárság nem segíti.
+- a) a miniszteri biztos díjazását és juttatásait a (6) bekezdésben meghatározottnál alacsonyabb mértékben is megállapíthatja,
+- b) rendelkezhet úgy, hogy a miniszteri biztos tevékenységét a (8) bekezdés szerinti titkárság nem segíti.
 
 ### A miniszter javadalmazása
 
@@ -715,7 +714,7 @@ helyettesíti.
 
 (4) A közigazgatási államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét a közigazgatási államtitkár irányítja.
 
-(5) A helyettes államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja. A 65. § (2) bekezdése szerinti helyettes államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja.
+(5) A helyettes államtitkár titkárságát – ha törvény eltérően nem rendelkezik – főosztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja. A 65. § (2) bekezdése szerinti helyettes államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja.
 
 (6)
 
@@ -810,7 +809,7 @@ helyettesíti.
 
 (4b) Felhatalmazást kap a Kormány, hogy az 5/A. § szerinti átadás-átvétel eseteit, módját, időpontját és eljárási szabályait, valamint az átadás-átvétel felelősét rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a miniszterelnök, hogy az állami vezetői igazolvány formájával, kiadásával, tartalmával, felhasználásával és kezelésével kapcsolatos szabályokat rendeletben állapítsa meg.
+(5)
 
 ### Hatályba léptető rendelkezések
 

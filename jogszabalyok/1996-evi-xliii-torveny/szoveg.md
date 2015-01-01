@@ -1245,7 +1245,7 @@ távolléti díjnak megfelelő összeg.
 - a) sporttal vagy ismeretterjesztéssel összefüggő munkavégzésre irányuló egyéb jogviszony létesítését,
 - b) gazdasági társaságban – munkavégzésre irányuló egyéb jogviszonynak nem minősülő – személyes közreműködési kötelezettséggel járó tagsági, felügyelő bizottsági tagsági vagy a gazdasági társaságban vezető tisztségviselői viszony létesítését, továbbá a gazdasági társaságban vagyonával közvetlenül érdekeltté válását, ide nem értve a nem meghatározó arányú részvényt és kisebbségi üzletrésztulajdont.
 
-(4) Nem kell engedélyeztetni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenység folytatását.
+(4) Nem kell engedélyeztetni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység folytatását és a nevelőszülői foglalkoztatási jogviszony létesítését.
 
 (5) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés ellentétes a fegyveres szerv feladataival, vagy a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, illetve a fegyveres szerv tekintélyét veszélyezteti.
 
@@ -1567,7 +1567,7 @@ távolléti díjnak megfelelő összeg.
 
 (6) A (4) bekezdés szerinti időponttól az illetmény, valamint a szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha az arra való jogosultság a szolgálatteljesítési idő mértékével összefügg. A hivatásos állomány rész-szolgálatteljesítési időben foglalkoztatott tagjára a 49. §, az 50. §, a 87. § és a 88. § nem alkalmazható.
 
-(7) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a fegyveres szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek hároméves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 84. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
+(7) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a fegyveres szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő a hivatásos állomány tag esetén a gyermek ötéves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 84. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
 
 (8) Vezető beosztás betöltésére rész-szolgálatteljesítési idő nem engedélyezhető.
 
@@ -1663,7 +1663,7 @@ távolléti díjnak megfelelő összeg.
 
 (3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vér szerinti vagy örökbe fogadó apát kell érteni.
 
-(4) A pótszabadság tartamára járó távolléti díj kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.
+(4)
 
 92. § (1) A hivatásos állomány tagja a folyamatos és átlagon felüli fizikai, pszichikai igénybevételéből származó egészségkárosodás megelőzése, illetve a fizikai állóképességének megőrzése céljából a 90. § (2) vagy (3) bekezdése szerinti pótszabadságon felül külön pótszabadságra jogosult, amely
 
@@ -2697,7 +2697,7 @@ különbözetének megtérítése iránti igényt.
 
 192/A. § (1)
 
-(2) A nemzetbiztonsági szolgálatok tekintetében a nemzetbiztonsági szolgálatok főigazgatói határozzák meg, hogy a hivatásos állomány tagja melyik magánnyugdíjpénztárhoz csatlakozhat.
+(2) A nemzetbiztonsági szolgálatok tekintetében a nemzetbiztonsági szolgálatok főigazgatói határozzák meg, hogy a hivatásos állomány tagja melyik magánnyugdíjpénztárhoz, önkéntes nyugdíjpénztárhoz, önkéntes egészségpénztárhoz csatlakozhat.
 
 ### XV. Fejezet — KÉRELEM, PANASZ, SZOLGÁLATI JOGVITA
 
@@ -3724,7 +3724,7 @@ A pótlékok mértéke:
 - n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztviselői kártya alkalmazásának szabályait;
 - o) az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként részt vevő hivatásos állományú szolgálati viszonyára és sajátos jogállására vonatkozó rendelkezéseket;
 - p) a teljesítményértékelés kötelező elemeit és a teljesítményértékelés szintjeit, valamint a kötelező elemek alkalmazásához kapcsolódó eljárás részletes szabályait;
-- q) a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+- q) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
 (1a)
 

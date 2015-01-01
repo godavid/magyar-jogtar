@@ -945,7 +945,15 @@ kiállított számla érvénytelen.
 
 (2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és annak költségvetési intézményének, a helyi önkormányzatnak és annak költségvetési intézményének, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
 
-#### 70. §
+70. § (1) A víziközmű-fejlesztési hozzájárulás mértékét a Hivatal határozatban állapítja meg. A víziközmű-fejlesztési hozzájárulás megállapításakor rendelkezni kell arról, hogy a víziközmű-fejlesztési hozzájárulás mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
+
+(2) A víziközmű-fejlesztési hozzájárulást úgy kell meghatározni, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint vegye figyelembe a víziközmű-rendszerbe később bekötött felhasználók bekötésének hatásaiból származó előnyöket.
+
+(3) A víziközmű-fejlesztési hozzájárulás összegét a közműves ivóvízellátás, valamint a közműves szennyvízelvezetés és -tisztítás tekintetében külön-külön, tételesen kell megállapítani. A víziközmű-fejlesztési hozzájárulás a kiszámítására vonatkozó módszer előírásával is megállapítható.
+
+(4) A víziközmű-szolgáltatók kötelesek a Hivatal által megállapított áralkalmazási feltételeket alkalmazni. A felhasználók és a víziközmű-szolgáltatásba bekapcsolódni kívánók kötelesek a Hivatal által megállapított víziközmű-fejlesztési hozzájárulást megfizetni.
+
+(5) A víziközmű-fejlesztési hozzájárulás tekintetében a 66. §-ban foglalt rendelkezéseket kell alkalmazni azzal, hogy közüzemi szerződés alatt a 69. § (1) bekezdés szerinti szerződést kell érteni.
 
 71. § (1) A nem lakossági felhasználó az adott felhasználási helyen a víziközmű-fejlesztési hozzájárulás megfizetésével a megvásárolt közműfejlesztési kvóta erejéig jogosulttá válik a szolgáltatás igénybevételére.
 
@@ -986,7 +994,7 @@ kiállított számla érvénytelen.
 - 11. az üzletszabályzat kötelező tartalmi elemeit, benyújtásának formai követelményeit, valamint a jóváhagyás szempontjait;
 - 12.
 - 13. a számviteli szétválasztásra vonatkozó részletes szabályokat;
-- 14.
+- 14. a víziközmű-fejlesztési hozzájárulás meghatározásának alapelveit, szempontjait és a díjak elemeit;
 - 15. a víziközmű-szolgáltatás díjainak szerkezetét;
 - 16. a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
 - 17.
@@ -1113,7 +1121,7 @@ rendeletben állapítsa meg.
 
 86. § Ha 2014. január 1-jén a víziközmű-szolgáltatást végző a víziközműben tulajdoni hányaddal rendelkezik, a víziközmű tulajdonjogának 79. § szerinti átruházásig a saját víziközmű eszközeire vonatkozó felújítási és pótlási tervet a víziközmű-szolgáltatást végző készíti és nyújtja be a Hivatalhoz. A felújítási és pótlási tervet az ellátásért felelős részére a Hivatal jóváhagyó határozatával együtt, a határozat kézhezvételétől számított 8 napon belül tájékoztatásul meg kell küldeni.
 
-#### 87. §
+87. § A Hivatal a víziközmű-fejlesztési hozzájárulás mértékét első alkalommal 2015. november 30-ig állapítja meg.
 
 87/A. § (1) A 61/B. §-ban meghatározott nyilvántartás informatikai hátterét az adatkezelési szabályzattal együtt a Hivatal az egyes energetikai tárgyú törvények módosításáról szóló 2013. évi CCXXVII. törvény (a továbbiakban: Mód. törvény) hatálybalépését követő 90 napon belül kidolgozza.
 

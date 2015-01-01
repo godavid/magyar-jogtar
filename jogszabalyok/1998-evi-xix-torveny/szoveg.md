@@ -557,6 +557,8 @@ bírálja el.
 
 (3) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azt követően meghalt, helyébe egyenesági rokona, házastársa, élettársa vagy törvényes képviselője léphet, és gyakorolhatja a (2) bekezdésben meghatározott jogokat. Ha a sértett egyházi személy vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja volt, aki az olyan egyházi jogi személy vagy vallási tevékenységet végző szervezet belső szabálya szerint, amelyhez életében tartozott, egyházi rend vagy fogadalom okából házasságot nem köthetett, halála után – hozzátartozó vagy örökös hiányában – az egyenesági rokon jogai az egyházi jogi személy vagy vallási tevékenységet végző szervezet elöljáróját illetik meg.
 
+(4) Az élet, a testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmények (Btk. XV. Fejezet), valamint a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények (Btk. XIX. Fejezet) sértettje jogosult arra, hogy kérelmére értesítsék az előzetesen letartóztatott szabadon bocsátásáról vagy szökéséről, az elítélt véglegesen vagy feltételesen történő szabadon bocsátásáról és a szabadságvesztés végrehajtásának félbeszakításáról, továbbá szökéséről, valamint a javítóintézeti nevelés esetén a fiatalkorú végleges vagy ideiglenes elbocsátásáról, vagy a javítóintézet engedély nélküli elhagyásáról.
+
 ### A magánvádló
 
 52. § (1) Ha e törvény másképp nem rendelkezik, könnyű testi sértés, magántitok megsértése, levéltitok megsértése, rágalmazás, becsületsértés és kegyeletsértés esetén a vádat mint magánvádló a sértett képviseli, feltéve, hogy az elkövető magánindítványra büntethető.
@@ -656,6 +658,10 @@ bírálja el.
 61. § A közigazgatási hatóságok a hatáskörükbe tartozó módon kötelesek a bíróság, az ügyész és a nyomozó hatóság által foganatosított eljárási cselekményeknél közreműködni.
 
 62. § A bíróság, az ügyész és a nyomozó hatóság az eljárási cselekmény elvégzése előtt a cselekménnyel érintett személyt a jogairól tájékoztatja, és a kötelezettségeire figyelmezteti.
+
+62/A. § (1) Ha az érintett személy kihallgatásakor a tizennyolcadik életévét még nem haladta meg, a bíróság, az ügyész és a nyomozó hatóság a jogokról való tájékoztatást és a kötelezettségekre való figyelmeztetést az érintett személy számára érthető módon, a korára és érettségére figyelemmel fogalmazza meg.
+
+(2) Ha az érintett személy hallássérült, siketvak, vak, beszédképtelen vagy – beszámítási képességre tekintet nélkül – kóros elmeállapotú, a bíróság, az ügyész és a nyomozó hatóság a jogokról való tájékoztatást és a kötelezettségekre való figyelmeztetést az állapotára figyelemmel fogalmazza meg és a számára érthető módon közli.
 
 63. § (1) Az eljárásban részt vevő személyek személyes adatainak megismerésére és kezelésére a bíróság, az ügyész, a nyomozó hatóság, a szakértő, valamint a bíróság vagy az ügyész által megkeresett hatóság az e törvényben meghatározott feladatainak teljesítése érdekében jogosult. A terhelt bűnügyi nyilvántartás céljára szolgáló személyes adatainak körét és a személyes adatok kezelésének szabályait külön törvény állapítja meg.
 
@@ -960,7 +966,7 @@ bírálja el.
 
 (4) Az ügy iratainak pótlása mellőzhető, ha az elveszett vagy megsemmisült irat alapján hozott határozat az eljárást befejezte. Ebben az esetben csak a határozat hiteles kiadmányát (másolatát) kell beszerezni.
 
-71/B. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, pártfogó felügyelő, jogi segítő, nyomozó hatóság, közigazgatási hatóság, a kormányzati ellenőrzési szerv megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben és időtartamban – a bíróság, az ügyész, illetve a nyomozó hatóság a büntetőügy iratait vagy annak hiteles másolatát megküldi, illetve azokba betekintést engedélyez.
+71/B. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, pártfogó felügyelő, megelőző pártfogó felügyelő, jogi segítő, nyomozó hatóság, közigazgatási hatóság, kormányzati ellenőrzési szerv megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben és időtartamban – a bíróság, az ügyész, illetve a nyomozó hatóság a büntetőügy iratait vagy annak hiteles másolatát megküldi, illetve azokba betekintést engedélyez.
 
 (2) Törvénnyel kihirdetett nemzetközi szerződéssel vagy uniós jogi aktussal létrehozott szerv megkeresésére – a szerv ilyen jogforrásban meghatározott feladatainak ellátásához szükséges mértékben és időtartamban – a bíróság, az ügyész, a nyomozó hatóság vagy az Eurojust nemzeti tagja a büntetőügyről – indokolt esetben az érintettek személyes adatainak közlésével – felvilágosítást ad, a büntetőügy irataiba betekintést engedélyez, a büntetőügy iratairól hiteles másolatot ad át.
 
@@ -1152,7 +1158,7 @@ bírálja el.
 
 (3) A tizennyolcadik életévét meg nem haladott, valamint a (2) bekezdésben meghatározott tanú kihallgatásánál a tanú törvényes képviselője, támogatója és gondozója jelen lehet.
 
-(3a) A 85. § (3) bekezdésében meghatározott figyelmeztetéseket a tizennyolcadik életévét meg nem haladott tanú korára, érettségére figyelemmel, számára érthető módon kell megfogalmazni.
+(3a)
 
 (4) Ha a tanú és a törvényes képviselő vagy a gondozó, illetve a támogató vagy a tanú által megjelölt hozzátartozó között érdekellentét van, vagy a nyomozás érdekei miatt szükséges, a (2) és (3) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
 
@@ -1397,9 +1403,15 @@ bírálja el.
 
 (4) Ha a bíróság vagy az ügyész úgy rendelkezik, a pártfogó felügyelői véleményben ki kell térni arra, hogy a terhelt a kilátásba helyezett magatartási szabályok vagy kötelezettségek teljesítését vállalja-e és képes-e teljesíteni, valamint arra, hogy a sértett hozzájárul-e a részére adandó jóvátételhez.
 
+(4a) Az összefoglaló pártfogó felügyelői vélemény a (2) és (3) bekezdésben foglaltakon túl tartalmazza a fiatalkorúval szemben a gyámhatóság által elrendelt megelőző pártfogás végrehajtásának eredményére vonatkozó összefoglaló megállapításokat. Az összefoglaló pártfogó felügyelői véleményben a pártfogó felügyelő javaslatot tesz a terhelttel szemben egyedi magatartási szabály vagy kötelezettség elrendelésére és – a bíróság vagy az ügyész rendelkezése hiányában is – ki kell térnie arra, hogy a terhelt a kilátásba helyezett magatartási szabályok vagy kötelezettségek teljesítését vállalja-e és képes-e teljesíteni, valamint arra, hogy a sértett hozzájárul-e a részére adandó jóvátételhez.
+
+(4b) Az összefoglaló pártfogó felügyelői vélemény elkészítéséből nincs kizárva az a pártfogó felügyelő, aki a fiatalkorú megelőző pártfogását végzi vagy végezte.
+
 (5) A pártfogó köteles és jogosult mindazokat az adatokat megismerni, amelyek a pártfogó felügyelői vélemény elkészítéséhez szükségesek, e célból az ügy iratait megismerheti, a terhelttől, a sértettől, a tanúktól és az eljárásba bevont más személyektől felvilágosítást kérhet. Ha ez feladatának teljesítéséhez szükséges, az ügyésztől vagy a bíróságtól újabb adatokat, iratokat és felvilágosítást kérhet.
 
 (6) E törvénynek a szakértőre vonatkozó rendelkezései a pártfogó felügyelői véleményt készítő pártfogóra is irányadók azzal, hogy a 105. § (6) és (7) bekezdése, a 106–107. §, és a 111–113. § a pártfogóra nem alkalmazhatók.
+
+(7) Az összefoglaló pártfogó felügyelői vélemény elkészítésére, ha e törvény eltérően nem rendelkezik, a pártfogó felügyelői véleményre vonatkozó szabályokat kell alkalmazni.
 
 ### V. CÍM — A TÁRGYI BIZONYÍTÁSI ESZKÖZ ÉS AZ OKIRAT
 
@@ -1429,7 +1441,7 @@ bírálja el.
 
 (5) Ha a terhelt vallomást kíván tenni, a vallomástétel lehetőségét biztosítani kell.
 
-(6) A (2) és (4) bekezdésben meghatározott figyelmeztetéseket a fiatalkorú terhelt korára, érettségére figyelemmel, számára érthető módon kell megfogalmazni.
+(6)
 
 118. § (1) A terheltnek módot kell adni arra, hogy a vallomását összefüggően előadhassa, ezt követően kérdések intézhetők hozzá. Ha a terhelt vallomása a korábbi vallomásától eltér, ennek okát tisztázni kell.
 
@@ -2042,7 +2054,7 @@ vezet.
 
 (6) Az ügyész által kiszabott rendbírság átváltoztatásáról az ügyészség székhelye szerint illetékes nyomozási bíró az iratok alapján dönt.
 
-(7) Az (5) és a (6) bekezdés alapján a rendbírságot elzárásra átváltoztató határozat ellen nincs helye jogorvoslatnak. Az elzárás végrehajtására a szabálysértési jogszabályok irányadók azzal, hogy az elzárás végrehajtásának elhalasztása vagy félbeszakítása csak a megbírságolt személy kórházi gyógykezelésének szükségessége esetén és csak ezen időtartamig engedélyezhető. Az elzárást büntetés-végrehajtási intézetben kell végrehajtani.
+(7) Az (5) és a (6) bekezdés alapján a rendbírságot elzárásra átváltoztató határozat ellen nincs helye jogorvoslatnak.
 
 ### Az elővezetés
 
@@ -2297,6 +2309,8 @@ vezet.
 (2) A gyanúsítottal a kihallgatás elején közölni kell a gyanúsítás lényegét, az erre vonatkozó jogszabályok megjelölésével.
 
 (3) A gyanúsítottat figyelmeztetni kell arra, hogy védőt választhat, illetőleg védő kirendelését kérheti. Ha az eljárásban védő részvétele kötelező, a gyanúsított figyelmét arra is fel kell hívni, hogy ha három napon belül nem hatalmaz meg védőt, az ügyész, illetve a nyomozó hatóság rendel ki védőt. Ha a gyanúsított kijelenti, hogy nem kíván védőt megbízni, az ügyész, illetve a nyomozó hatóság nyomban védőt rendel ki.
+
+(3a) A gyanúsítottat tájékoztatni kell arról is, hogy ha jövedelmi és vagyoni viszonyai folytán a bűnügyi költséget előreláthatóan nem tudja megfizetni, és ezt a külön jogszabályban meghatározott módon igazolja, saját vagy védője kérelmére a bíróság, illetve az ügyész személyes költségmentességet engedélyezhet részére. A tájékoztatásnak ki kell terjednie arra is, hogy a személyes költségmentesség engedélyezése esetén a kirendelt védő díját és költségét az állam viseli.
 
 (4) A gyanúsított kihallgatásáról a nyomozó hatóság olyan időben köteles intézkedni, hogy a terhelt megfelelő időt és lehetőséget kapjon a védekezésre való felkészülésre [43. § (2) bek. c) pont].
 
@@ -2787,6 +2801,8 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (3) A határozatot az ülésen kihirdetés útján kell közölni. Ha a nyomozási bíró az iratok alapján döntött, a határozatot az írásba foglalást követően nyomban kézbesíteni kell. A 207. § (2) bekezdésének b) pontja és (3) bekezdése esetén a kézbesítésre a 70. § (1) bekezdésének d) pontja az irányadó.
 
+(4) Az előzetes letartóztatást elrendelő határozat (2)–(3) bekezdés szerinti közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell.
+
 ### Jogorvoslat
 
 215. § (1) A nyomozási bíró határozata ellen az jelenthet be fellebbezést, akivel a határozatot közölték. A kihirdetés útján közölt határozat elleni fellebbezést a kihirdetés után nyomban be kell jelenteni. Az a jogosult, aki a határozat kihirdetésén nem vett részt, a fellebbezését az üléstől számított három napon belül jelentheti be. A kézbesítés útján közölt határozat ellen a fellebbezést a jogosult a kézbesítéstől számított három napon belül jelentheti be.
@@ -2822,7 +2838,7 @@ ellen.
 - d) az ügyet közvetítői eljárásra utalhatja, illetve a vádemelés elhalasztásáról határozhat,
 - e) vádat emel, vagy határoz a vádemelés részbeni mellőzéséről.
 
-(2) Ha az ügyész a közvetítői eljárásra utalásról vagy a vádemelés elhalasztásáról való döntéshez pártfogó felügyelői vélemény beszerzését rendeli el, a pártfogó felügyelői vélemény elkészítésének ideje az (1) bekezdés szerinti határidőbe nem számít bele.
+(2) Ha az ügyész a közvetítői eljárásra utalásról vagy a vádemelés elhalasztásáról való döntéshez pártfogó felügyelői vélemény beszerzését rendeli el, vagy azt e törvény kötelezővé teszi, a pártfogó felügyelői vélemény elkészítésének ideje az (1) bekezdés szerinti határidőbe nem számít bele.
 
 (3) Az (1) bekezdésben megjelölt határidőt az ügyészség vezetője kivételes esetben harminc nappal meghosszabbíthatja. Nagy terjedelmű ügyben az ügyészség vezetőjének javaslatára a felettes ügyész kivételesen ennél hosszabb – legfeljebb kilencven napos – határidőt is engedélyezhet. A határidőt az (1) bekezdés a) pontjában szabályozott esetben a nyomozási cselekmény elvégzésétől kell számítani.
 
@@ -3188,7 +3204,7 @@ ellen.
 
 ### A tárgyalás rendjének fenntartása
 
-245. § (1) A tárgyalóterembe – a büntetés-végrehajtási testület és a rendőrség szolgálati feladatot ellátó tagjain kívül – fegyverrel vagy rendbontásra alkalmas eszközzel senki sem léphet be. A tárgyalásra idézett személy a fegyverét nem hozhatja be a tárgyalóterembe.
+245. § (1) A tárgyalóterembe – a büntetés-végrehajtási szervezet és a rendőrség szolgálati feladatot ellátó tagjain kívül – fegyverrel vagy rendbontásra alkalmas eszközzel senki sem léphet be. A tárgyalásra idézett személy a fegyverét nem hozhatja be a tárgyalóterembe.
 
 (2) Azt, aki a tárgyalás rendjét zavarja, a tanács elnöke rendre utasítja, ismételt vagy súlyos rendzavarás esetén a tárgyalásról kiutasíthatja, illetőleg kivezettetheti. A tanács elnöke ugyanígy jár el azzal szemben, aki a tárgyalás szabályszerű menetét zavarja.
 
@@ -3352,7 +3368,7 @@ ellen.
 
 (2) A kijavítást a határozatra és a kiadmányaira fel kell jegyezni. Ha a határozat kijavítását megelőzően a hibás kiadmányt már kézbesítették, a kijavító végzést azoknak kell kézbesíteni, akiknek a részére a bíróság a hibás kiadmányt megküldte.
 
-262. § (1) A határozatot azzal kell közölni, akire rendelkezése vonatkozik; a vádlottal közölt határozatot a védővel is, az ügydöntő határozatot a sértettel is közölni kell. A tárgyalás vezetése és rendjének fenntartása körében hozott határozat kivételével a határozatot közölni kell az ügyésszel, a pótmagánvádlóval, az ügy áttételéről, a bíróság kijelöléséről és az eljárás felfüggesztéséről hozott határozatot közölni kell a sértettel is.
+262. § (1) A határozatot azzal kell közölni, akire rendelkezése vonatkozik; a vádlottal közölt határozatot a védővel is, az ügydöntő határozatot a sértettel is közölni kell. Az ügydöntő határozat közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell. A tárgyalás vezetése és rendjének fenntartása körében hozott határozat kivételével a határozatot közölni kell az ügyésszel, a pótmagánvádlóval, az ügy áttételéről, a bíróság kijelöléséről és az eljárás felfüggesztéséről hozott határozatot közölni kell a sértettel is.
 
 (2) A határozatot a jelenlevőkkel szóban, egyébként kézbesítés útján kell közölni.
 
@@ -4018,6 +4034,8 @@ ellen.
 327. § (1) Ha az ügydöntő határozat a kihirdetéskor nem emelkedik jogerőre, a bíróság az előzetes letartóztatásról, a lakhelyelhagyási tilalomról, a házi őrizetről, a távoltartásról, az ideiglenes kényszergyógykezelésről nyomban határoz.
 
 (2) Az (1) bekezdés esetén az előzetes letartóztatás a 129. § (2) bekezdésének a), b) vagy d) pontjában meghatározott okokon kívül akkor is elrendelhető, ha az ítéletben kiszabott szabadságvesztés tartamára figyelemmel a vádlott szökésétől vagy elrejtőzésétől kell tartani.
+
+(2a) Az előzetes letartóztatás elrendelése esetén az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell.
 
 (3) A vádlott felmentése, próbára bocsátása, számára jóvátételi munka végzésének előírása, az eljárás megszüntetése esetén, vagy ha a bíróság nem szabott ki végrehajtandó vagy részben felfüggesztett szabadságvesztést, nem rendelt el javítóintézeti nevelést, illetve ha a felmentés esetén nem rendelt el kényszergyógykezelést, az előzetes letartóztatást, a lakhelyelhagyási tilalmat, a házi őrizetet, a távoltartást, illetve az ideiglenes kényszergyógykezelést megszünteti, és nyomban intézkedik a vádlott szabadlábra helyezéséről.
 
@@ -5125,11 +5143,19 @@ II. a terhelt javára:
 
 ### A bizonyítási eszközök
 
-453. § (1)
+453. § (1) A fiatalkorú életkorát közokirattal kell bizonyítani.
 
-(2) A fiatalkorú életkorát közokirattal kell bizonyítani. Be kell szerezni a környezettanulmányt, amely tartalmazza a fiatalkorúról a közoktatásról szóló törvény felhatalmazása alapján az intézmény által nyilvántartott és kezelt adatokat, vagy a munkahely által adott tájékoztatást. A környezettanulmányt a pártfogó felügyelő készíti el. A környezettanulmány elkészítéséhez a pártfogó a rendőrség közreműködését igénybe veheti.
+(2) A gyanúsított kihallgatását követően haladéktalanul be kell szerezni a környezettanulmányt, amely tartalmazza a fiatalkorúról a nemzeti köznevelésről szóló törvény felhatalmazása alapján a köznevelési intézmény által nyilvántartott és kezelt adatokat, vagy a munkahely által adott tájékoztatást is. A környezettanulmány részét képezi továbbá a fiatalkorú bűnmegelőzési szempontú kockázatértékelése.
 
-(3) A fiatalkorú terhelt vallomása poligráf alkalmazásával nem vizsgálható.
+(3) A környezettanulmányt a pártfogó felügyelő készíti el. A pártfogó felügyelő köteles és jogosult mindazokat az adatokat megismerni, amelyek a környezettanulmány elkészítéséhez szükségesek, e célból az ügy iratait megismerheti, a terhelttől, a sértettől, a tanúktól és az eljárásba bevont más személyektől, továbbá a gyámhatóságtól, a gyermekjóléti szolgálattól és a megelőző pártfogó felügyelőtől felvilágosítást kérhet. A környezettanulmány elkészítéséhez a pártfogó felügyelő a rendőrség közreműködését igénybe veheti.
+
+(4) Ha a gyámhatóság a nyomozó hatóságot arról értesíti, hogy a fiatalkorú védelembe vétele körében vele szemben megelőző pártfogás elrendelésére került sor, az adott ügyben eljáró nyomozó hatóság erről értesíti a fiatalkorúval szemben más büntetőeljárást folytató bíróságot, ügyészt vagy nyomozó hatóságot.
+
+(5) Ha a fiatalkorú védelembe vétele körében vele szemben megelőző pártfogás elrendelésére került sor, az ügyész összefoglaló pártfogó felügyelői vélemény beszerzését rendeli el. Összefoglaló pártfogó felügyelői vélemény beszerzését a vádirat benyújtása után a bíróság is elrendelheti.
+
+(6) Ha az összefoglaló pártfogó felügyelői vélemény beszerzése óta hosszabb idő eltelt, vagy ez a fiatalkorú személyisége és életviszonyait jellemző körülmények, illetve az ezekben bekövetkezett változások felderítése érdekében szükséges, a bíróság, illetve az ügyész a megelőző pártfogó felügyelőt tanúként kihallgathatja. Ha az összefoglaló pártfogó felügyelői véleményt a megelőző pártfogó készíti el, akkor a 110. § szerinti meghallgatására kerül sor.
+
+(7) A fiatalkorú terhelt vallomása poligráf alkalmazásával nem vizsgálható.
 
 ### Az előzetes letartóztatás
 
@@ -5421,7 +5447,13 @@ kell végrehajtani.
 
 ### A bűnügyi költség
 
-491. §
+### A szabálysértés elbírálása
+
+491. § (1) Ha a bíróság a tárgyalás eredményéhez képest úgy látja, hogy a vád tárgyává tett cselekmény szolgálati helyen, illetve szolgálattal összefüggésben elkövetett szabálysértés, és ezért a vádlottat felmenti, az ügy iratait – a szabálysértési elzárással is büntethető szabálysértés kivételével – a fegyelmi eljárás lefolytatása céljából megküldi a fegyelmi jogkör gyakorlójának.
+
+(2) Ha a katona szolgálati viszonya az iratoknak a fegyelmi jogkör gyakorlójának történt megküldése előtt megszűnt, a szabálysértést a bíróság bírálja el.
+
+(3) Az (1) és (2) bekezdés esetében a bíróság elkobzást rendelhet el, és a polgári jogi igényt érdemben elbírálhatja.
 
 ### A fiatalkorúakra vonatkozó rendelkezések alkalmazásának kizárása
 
@@ -6203,7 +6235,7 @@ erről a bíróság az ügyész indítványára, illetve hivatalból utólag hat
 
 (3) Annak közlése végett, hogy az elítélt az összbüntetési ítélet alapjául szolgáló szabadságvesztés büntetésekből mennyi időt töltött ki, a bíróság megkeresi a büntetés-végrehajtási intézetet, és ha a kapott tájékoztatás alapján indokolt, az alapítéletek szerinti szabadságvesztések végrehajtását félbeszakítja. Az összbüntetési ítéletnek az összbüntetésbe foglalt szabadságvesztések végrehajtásának félbeszakításáról szóló rendelkezése fellebbezésre tekintet nélkül végrehajtható.
 
-(4) Az összbüntetési eljárást a bíróság hivatalból vagy indítványra folytatja le. Az összbüntetési eljárás lefolytatását az elítélt, a védő vagy az ügyész indítványozhatja. Az összbüntetési eljárás lefolytatásához – kivéve, ha azt az elítélt indítványozta – az elítélt hozzájárulását minden esetben be kell szerezni. A bíróság az összbüntetésbe foglalást ítélettel, az erre irányuló indítvány elutasítását végzéssel mondja ki. Az ítéletben a bíróság az 556. és 557. §-ban foglaltakról is rendelkezhet.
+(4) Az összbüntetési eljárást a bíróság hivatalból vagy indítványra folytatja le. Az összbüntetési eljárás lefolytatását az elítélt, a védő vagy az ügyész indítványozhatja. Az összbüntetési eljárás lefolytatásához – kivéve ha azt az elítélt indítványozta – az elítélt hozzájárulását minden esetben be kell szerezni. Az elítélt az indítványát vagy a hozzájárulását az első fokú ítélet meghozataláig visszavonhatja, ebben az esetben a bíróság az eljárást megszünteti. A bíróság az összbüntetésbe foglalást ítélettel, az erre irányuló indítvány elutasítását végzéssel mondja ki. Az ítéletben a bíróság az 556. és 557. §-ban foglaltakról is rendelkezhet.
 
 (4a) Az ugyanazon jogosult által a korábbival azonos tartalommal ismételten előterjesztett vagy egyébként a korábbival azonos tartalommal ismételten előterjesztett indítvány elutasítására vonatkozó határozat hozatalát a bíróság mellőzheti.
 
@@ -6387,7 +6419,7 @@ I. a nyomozást azért szüntették meg, mert
 
 ### Általános rendelkezések
 
-590. § (1) A büntetések és az intézkedések végrehajtása, valamint a rendbírság, a rendbírság helyébe lépő elzárás és az államot illető bűnügyi költség behajtása végett az a bíróság intézkedik, amelynek eljárásában az végrehajthatóvá válik. Az ügyész által kiszabott rendbírság, megállapított bűnügyi költség, valamint a vádemelés elhalasztása során elrendelt pártfogó felügyelet, továbbá az ügyész által alkalmazott megrovás végrehajtása végett az ügyész intézkedik.
+590. § (1) A rendbírság, a rendbírság helyébe lépő elzárás és az államot illető bűnügyi költség behajtása végett az a bíróság intézkedik, amelynek eljárásában az végrehajthatóvá válik. Az ügyész által kiszabott rendbírság, megállapított bűnügyi költség végrehajtása végett az ügyész intézkedik.
 
 (2) Az (1) bekezdés szerinti intézkedéséket a tanács elnöke teszi meg.
 
@@ -6395,84 +6427,29 @@ I. a nyomozást azért szüntették meg, mert
 
 ### A szabadságvesztés végrehajtásának elhalasztása
 
-591. § (1) A tanács elnöke a szabadságvesztés végrehajtásának megkezdésére, ha a szabadságvesztés hátralévő része két évnél rövidebb, az elítélt kérelmére fontos okból, különösen az elítélt személyi vagy családi körülményeire való tekintettel, legfeljebb három hónapra halasztást engedélyezhet.
-
-(2) Ha az elítélt betegsége az elítélt életét közvetlenül veszélyezteti, a tanács elnöke
-
-- a) az (1) bekezdésben szabályozott tartamú halasztást meghaladó, határozott ideig tartó halasztást is engedélyezhet,
-- b) az (1) bekezdés alapján engedélyezett halasztást meghosszabbíthatja,
-- c) halasztást engedélyezhet a szabadságvesztés végrehajtás megkezdésére abban az esetben is, ha a szabadságvesztés hátralévő része két évnél hosszabb.
-
-(3) El kell halasztani – kérelem nélkül, hivatalból is – a szabadságvesztés végrehajtásának megkezdését annak a nőnek az esetében, aki
-
-- a) a tizenkettedik hetet meghaladó terhes, legfeljebb a szülés várható idejét követő hatodik hónap végéig,
-- b) hat hónaposnál fiatalabb gyermekét gondozza.
-
-(4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvosszakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását, és a Büntetés-végrehajtás Országos Parancsnoksága egészségügyi szolgálata vezetőjének – az elítélt egészségügyi állapotának büntetés-végrehajtás keretei között való kezelhetőségére vonatkozó – nyilatkozatát figyelembe véve határoz a kérelemről.
-
-(5)
-
-(6) Az (1)–(4) bekezdésben meghatározott feltételek esetén sincs helye az elhalasztásnak, ha az súlyosan veszélyeztetné a közbiztonságot vagy a közrendet, illetve ha az elítélt szökésétől vagy elrejtőzésétől kell tartani.
-
-(7) Ha a szabadságvesztés végrehajtásának elhalasztása iránti kérelmet olyan időben terjesztik elő, hogy annak elintézésére a végrehajtás megkezdésére kitűzött határnap előtt már nincs lehetőség, a tanács elnöke a kérelem elbírálását mellőzi és erről a kérelmezőt értesíti. Ha a szabadságvesztést már foganatba vették, a kérelmet a szabadságvesztés végrehajtásának esetleges félbeszakítás iránti intézkedés végett a büntetés-végrehajtási intézetnek megküldi.
+591. §
 
 ### Halasztás elzárás esetén
 
-591/A. § (1) A tanács elnöke az elzárás végrehajtásának megkezdésére az elítélt kérelmére fontos okból, különösen az elítélt személyi vagy családi körülményeire való tekintettel, legfeljebb három hónapra halasztást engedélyezhet.
-
-(2) Ha az elítélt betegsége az elítélt életét közvetlenül veszélyezteti, a tanács elnöke
-
-- a) az (1) bekezdésben szabályozott tartamú halasztást meghaladó, határozott ideig tartó halasztást is engedélyezhet,
-- b) az (1) bekezdés alapján engedélyezett halasztást meghosszabbíthatja.
-
-(3) El kell halasztani – kérelem nélkül, hivatalból is – az elzárás végrehajtásának megkezdését annak a nőnek az esetében, aki
-
-- a) a tizenkettedik hetet meghaladó terhes, legfeljebb a szülés várható idejét követő hatodik hónap végéig,
-- b) egyévesnél fiatalabb gyermekét gondozza.
-
-(4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvosszakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását, és a Büntetés-végrehajtás Országos Parancsnoksága egészségügyi szolgálata vezetőjének – az elítélt egészségügyi állapotának büntetés-végrehajtás keretei között való kezelhetőségére vonatkozó – nyilatkozatát figyelembe véve határoz a kérelemről.
-
-(5) Az (1)–(4) bekezdésben meghatározott feltételek esetén sincs helye az elhalasztásnak, ha az súlyosan veszélyeztetné a közbiztonságot vagy a közrendet, illetve ha az elítélt szökésétől vagy elrejtőzésétől kell tartani.
-
-(6) Ha az elzárás végrehajtásának elhalasztása iránti kérelmet olyan időben terjesztik elő, hogy annak elintézésére a végrehajtás megkezdésére kitűzött határnap előtt már nincs lehetőség, a tanács elnöke a kérelem elbírálását mellőzi és erről a kérelmezőt értesíti. Ha az elzárást már foganatba vették, a kérelmet az elzárás végrehajtásának esetleges félbeszakítás iránti intézkedés végett a büntetés-végrehajtási intézetnek megküldi.
+591/A. §
 
 ### Halasztás közérdekű munka esetén
 
-591/B. § (1) A tanács elnöke a közérdekű munka végrehajtásának megkezdésére az elítélt kérelmére fontos okból, különösen az elítélt személyi vagy családi körülményeire való tekintettel, legfeljebb három hónapra halasztást engedélyezhet.
-
-(2) Ha az elítélt betegsége az elítélt életét közvetlenül veszélyezteti, a tanács elnöke
-
-- a) az (1) bekezdésben szabályozott tartamú halasztást meghaladó, határozott ideig tartó halasztást is engedélyezhet,
-- b) az (1) bekezdés alapján engedélyezett halasztást meghosszabbíthatja.
-
-(3) El kell halasztani – kérelem nélkül, hivatalból is – a közérdekű munka végrehajtásának megkezdését annak a nőnek az esetében, aki
-
-- a) a tizenkettedik hetet meghaladó terhes, legfeljebb a szülés várható idejét követő tizenkettedik hónap végéig,
-- b) egy évesnél fiatalabb gyermekét gondozza.
-
-(4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvosszakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását.
-
-(5) Ha a közérdekű munka végrehajtásának elhalasztása iránti kérelmet olyan időben terjesztik elő, hogy annak elintézésére a végrehajtás megkezdésére kitűzött határnap előtt már nincs lehetőség, a tanács elnöke a kérelem elbírálását mellőzi és erről a kérelmezőt értesíti, és a kérelmet a közérdekű munka végrehajtásának esetleges félbeszakítás iránti intézkedés végett a büntetés-végrehajtási bírónak megküldi.
+591/B. §
 
 ### Halasztás és részletfizetés engedélyezése pénzbüntetés esetén
 
-592. § (1) Ha az elítélt valószínűsíti, hogy a pénzbüntetés azonnali vagy egy összegben való megfizetése magának vagy tartásra szoruló hozzátartozóinak a büntetés célján túlmenő jelentős anyagi nehézséget okozna, és megalapozottan feltehető, hogy az elítélt a meghosszabbított határidőben fizetési kötelezettségének pontosan eleget tesz, részére a bíróság legfeljebb három hónapi halasztást, illetőleg azt engedélyezheti, hogy a pénzbüntetést két éven belül, részletekben fizesse meg.
-
-(2) A pénzbüntetés megfizetésére adott halasztás fontos okból egy alkalommal, legfeljebb további három hónappal meghosszabbítható.
-
-(3) A részletfizetés olyan, havonta fizetendő összegben engedélyezhető, amely osztható a pénzbüntetés esetén az ítéletben megállapított napi tétel összegével.
-
-(4) A szabadságvesztésre átváltoztatás után a pénzbüntetés megfizetésére halasztás vagy részletfizetés nem engedélyezhető.
+592. §
 
 ### Halasztás és részletfizetés engedélyezése rendbírságés az államot illető bűnügyi költség esetén
 
-593. § (1) A tízezer forintot meghaladó rendbírság és az államot illető bűnügyi költség megfizetésére halasztás, illetőleg részletfizetés az 592. §-ban meghatározott feltételek mellett és keretek között, a bírósági végrehajtó által foganatosított foglalás után engedélyezhető, ha a foglalási jegyzőkönyvet a végrehajtó a bírósághoz beterjesztette.
+593. § (1) A tízezer forintot meghaladó rendbírság és az államot illető bűnügyi költség megfizetésére halasztás, illetőleg részletfizetés a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvényben (a továbbiakban: Bv. tv.) meghatározott feltételek mellett és keretek között, a bírósági végrehajtó által foganatosított foglalás után engedélyezhető, ha a foglalási jegyzőkönyvet a végrehajtó a bírósághoz beterjesztette.
 
 (2) Az (1) bekezdésben meghatározott összeghatár alatti rendbírság és bűnügyi költség megfizetésére kötelezés esetén a tanács elnöke foglalási cselekmény bevárása nélkül, a rendelkezésre álló adatok alapján legfeljebb két hónapi halasztást, illetőleg három hónapi részletfizetést engedélyezhet.
 
 ### Halasztás javítóintézeti nevelés esetén
 
-594. § A fiatalkorúval szemben jogerős ítéletben elrendelt javítóintézeti nevelés végrehajtását a tanács elnöke az 591. § (1) bekezdésében meghatározott feltételek mellett és keretek között elhalaszthatja.
+594. §
 
 ### A halasztás és a részletfizetés engedélyezésének eljárási szabályai
 
@@ -6482,34 +6459,18 @@ I. a nyomozást azért szüntették meg, mert
 
 (3) A terhelt később előterjesztett kérelmének elbírálására a különleges eljárások szabályait (XXIX. Fejezet) kell alkalmazni. A kérelemről bírósági titkár is határozhat.
 
-(4) A pénzbüntetés, a rendbírság és az államot illető bűnügyi költség tekintetében a halasztás, illetőleg a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye fellebbezésnek.
+(4) A rendbírság és az államot illető bűnügyi költség tekintetében a halasztás, illetőleg a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye fellebbezésnek.
 
-(5) A szabadságvesztés, az elzárás, a közérdekű munka és a javítóintézeti nevelés végrehajtásának elhalasztása tárgyában hozott határozat ellen az ügyész, az elítélt és a védő fellebbezhet. Ha a halasztást a (2) bekezdés alapján a másodfokú bíróság engedélyezte, a fellebbezés elbírálására a XIV. Fejezet IV. Címe megfelelően irányadó.
+(5)
 
-### Intézkedés a büntetés végrehajtásának biztosítására
-
-596. § (1) A bíróság a szabadlábon lévő terhelttel szemben az öt évi vagy ezt meghaladó, jogerősen kiszabott szabadságvesztés azonnali foganatba vételét rendelheti el. A bíróság a jogerősen kiszabott szabadságvesztés azonnali foganatba vételét rendeli el, ha azt a szabadlábon lévő terhelttel szemben bűnszervezetben elkövetett bűncselekmény miatt szabta ki.
-
-(2) Az (1) bekezdés esetén a bíróság a székhelyén működő büntetés-végrehajtási intézet parancsnokától rövid úton büntetés-végrehajtási őr kirendelését kéri, és az elítéltet az őrnek adja át. Ha a bíróság székhelyén nincs büntetés-végrehajtási intézet, vagy a büntetés-végrehajtási őr kirendelésének akadálya van, a bíróság az elítéltnek a büntetés-végrehajtási intézetbe kísérése végett rövid úton a rendőrséget keresi meg.
-
-(3) Ha a bíróság szabadságvesztést kiszabó határozatának jogerőre emelkedésekor a terhelt nincs előzetes letartóztatásban, és a bíróság a szabadságvesztés végrehajtásának azonnali foganatba vételét nem rendeli el, de a kiszabott szabadságvesztésre tekintettel vagy egyéb okból alaposan feltehető, hogy a szökésével vagy az elrejtőzésével a büntetés végrehajtása alól kivonná magát, az elítélttel szemben – a büntetés-végrehajtási intézetbe történő befogadásáig – a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés rendelhető el.
-
-(4) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedést el kell rendelni, ha a bíróság a két évet meghaladó szabadságvesztés végrehajtásának megkezdésére halasztást engedélyezett [591. § (2) bek. c) pont].
-
-(5) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedés elrendeléséről a bíróság határoz. Az intézkedés hatálya alatt álló elítélt a bíróság határozatában meghatározott területet, körzetet engedély nélkül nem hagyhatja el, a tartózkodási helyét, illetőleg a lakóhelyét nem változtathatja meg. A határozatban előírható, hogy a terhelt meghatározott időközönként a rendőrségen jelentkezzék.
-
-(6) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásainak megtartását a – lakhelyelhagyási tilalom megtartásának ellenőrzésére vonatkozó szabályok szerint – a rendőrség ellenőrzi. Ha a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásait az elítélt megszegte, a rendőrség haladéktalanul értesíti az intézkedést elrendelő bíróságot, és az elítéltet a bíróság határozatának meghozataláig – legfeljebb hat napig – őrizetbe veheti. A bíróság a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásainak megszegése esetén a szabadságvesztés azonnali foganatba vételét rendelheti el, és megteheti az 590. § (3) bekezdésében szabályozott intézkedéseket.
-
-(7) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedést meg kell szüntetni, ha a büntetés végrehajthatósága megszűnt.
-
-(8) Ha a bíróság a terhelttel szemben nem végrehajtandó szabadságvesztés mellett alkalmazott kiutasítást, és az ügydöntő határozat a kihirdetésekor jogerőre emelkedik, a bíróság a kiutasítás végrehajtása érdekében elrendeli a terheltnek az illetékes idegenrendészeti hatósághoz történő előállítását. Az előállítás végrehajtása érdekében a tanács elnöke a rendőrséget keresi meg.
+596. §
 
 ### Rendelkezés az elektronikus adat végleges hozzáférhetetlenné tételének a hozzáférés végleges megakadályozásával történő végrehajtásáról
 
 596/A. § (1) A bíróság hivatalból vagy az ügyész indítványára az elektronikus adat végleges hozzáférhetetlenné tételének végrehajtását az elektronikus adathoz való hozzáférés végleges megakadályozásával rendeli el, ha
 
 - a) a büntetőeljárás befejezésekor az elektronikus adathoz való hozzáférés ideiglenes megakadályozása volt elrendelve [158/D. § (1) bekezdés], és a hozzáférés megakadályozása továbbra is indokolt,
-- b) a tárhelyszolgáltató a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 91. § (3) bekezdése alapján kiszabott pénzbírság ellenére nem teljesíti a kötelezettséget,
+- b) a tárhelyszolgáltató a Bv. tv. 324. § (3) bekezdése alapján kiszabott pénzbírság ellenére nem teljesíti a kötelezettséget,
 - c) az elektronikus adat végleges hozzáférhetetlenné tételét gyermekpornográfia (Btk. 204. §) megvalósulása miatt rendelte el, és a tárhelyszolgáltató kötelezettségének nem tesz eleget, a pénzbírság kiszabására tekintet nélkül haladéktalanul,
 - d) az elektronikus adat végleges hozzáférhetetlenné tételére vonatkozóan a külföldi hatóság jogsegély iránti megkeresése a megkeresés kibocsátásától számított harminc napon belül nem vezetett eredményre.
 
@@ -6529,13 +6490,13 @@ I. a nyomozást azért szüntették meg, mert
 
 ### A kegyelmi kérelem
 
-597. § (1) Kegyelem iránti előterjesztést – hivatalból vagy kérelemre – a büntetőeljárás megszüntetésére a vádirat benyújtásáig a legfőbb ügyész, azt követően az igazságügyért felelős miniszter, a még végre nem hajtott büntetés, a próbára bocsátás, a jóvátételi munka és a javítóintézeti nevelés elengedésére vagy mérséklésére, illetve a büntetett előélethez fűződő hátrányok alóli mentesítésre az igazságügyért felelős miniszter tehet a köztársasági elnökhöz.
+597. § (1) Kegyelem iránti előterjesztést – hivatalból vagy kérelemre – a büntetőeljárás megszüntetésére a vádirat benyújtásáig a legfőbb ügyész, azt követően az igazságügyért felelős miniszter tehet a köztársasági elnökhöz.
 
-(2) Az (1) bekezdésben fel nem sorolt intézkedés mérséklése vagy elengedése, valamint a már végrehajtott büntetés vagy intézkedés utólagos elengedése iránt kegyelmi kérelem nem nyújtható be.
+(2)
 
 (3) Kegyelmi kérelmet a terhelt, a védő, a fiatalkorú törvényes képviselője, valamint a terhelt hozzátartozója nyújthat be.
 
-(4) A büntetőeljárás megszüntetése iránt kegyelmi kérelmet annál az ügyésznél, illetőleg bíróságnál kell benyújtani, amely előtt az eljárás folyik. A még végre nem hajtott büntetés, az (1) bekezdés szerinti intézkedés elengedése vagy mérséklése, illetőleg a büntetett előélethez fűződő hátrányok alóli mentesítés iránt a kegyelmi kérelmet az első fokon eljárt bíróságnál kell benyújtani.
+(4) A büntetőeljárás megszüntetése iránt kegyelmi kérelmet annál az ügyésznél, illetőleg bíróságnál kell benyújtani, amely előtt az eljárás folyik.
 
 (5) Az ügyész, illetőleg a bíróság a kegyelmi eljárás során a terheltnek a kegyelmi döntéshez szükséges személyes adatait beszerzi és kezeli.
 
@@ -6548,11 +6509,19 @@ I. a nyomozást azért szüntették meg, mert
 
 felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó hatálya.
 
-(2) A büntetés elengedése vagy mérséklése iránti kérelem, illetőleg előterjesztés esetén az igazságügyért felelős miniszter elrendelheti a büntetés, illetőleg az 597. § (1) bekezdése szerinti intézkedés végrehajtásának a köztársasági elnök döntéséig történő elhalasztását vagy félbeszakítását. Az igazságügyért felelős miniszter az előterjesztés előkészítése során – a büntetés végrehajtásának megkezdésére halasztó hatállyal – elrendelheti az elítéltnek a büntetés-végrehajtás központi kórházában történő szakorvosi vizsgálatát.
+(2) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a 71. § szerinti megkereséssel élhet további olyan adatok vagy iratok beszerzése érdekében, amelyekre a kegyelmi kérelem hivatkozik, vagy amelyek a kegyelmi eljárás lefolytatásához szükségesek. A megkeresésre ilyen esetben a 71. § (1)–(5) és (7) bekezdését kell megfelelően alkalmazni.
+
+(2a) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során törvényben meghatározott adatkörben adatokat igényelhet a következő nyilvántartásokból:
+
+- a) bűnügyi nyilvántartási rendszer,
+- b) szabálysértési nyilvántartási rendszer,
+- c) polgárok személyi adatainak és lakcímének nyilvántartása,
+- d) közúti közlekedési nyilvántartás,
+- e) központi idegenrendészeti nyilvántartás.
 
 (3) A legfőbb ügyész, illetőleg az igazságügyért felelős miniszter a kegyelmi kérelmet a köztársasági elnökhöz akkor is felterjeszti, ha a kegyelem gyakorlása iránt nem tesz előterjesztést.
 
-(4) A kegyelmi döntésről szóló határozatot a terheltnek és a kegyelmi kérelem előterjesztőjének az a bíróság, illetőleg ügyész kézbesíti, amely előtt az eljárás folyik. Ha a kegyelmi kérelmet a határozat jogerőre emelkedését követően terjesztették elő, a kegyelmi döntésről szóló határozatot az ügyben első fokon eljárt bíróság kézbesíti az elítéltnek, és a kegyelmi kérelem előterjesztőjének. Ha az elítélt a szabadságvesztését, illetve a javítóintézeti nevelését tölti, részére a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter közvetlenül a büntetés-végrehajtási intézet, illetve a javítóintézet útján kézbesíti, egyben értesíti az első fokon eljárt bíróságot.
+(4) A kegyelmi döntésről szóló határozatot a terheltnek és a kegyelmi kérelem előterjesztőjének az a bíróság, illetőleg ügyész kézbesíti, amely előtt az eljárás folyik.
 
 (5) A (4) bekezdés szerinti értesítés tartalmazza a kegyelmi határozat számát, a határozathozatal idejét, az igazságügyért felelős miniszter ellenjegyzésének keltét, a kegyelmi döntéssel érintett határozatokat hozó bíróság vagy ügyész megnevezését, az érintett határozatok számát és azok meghozatalának idejét, és a kegyelmi döntés tartalmát. Ha a köztársasági elnök kegyelmet gyakorolt, az értesítés tartalmazza a kegyelemhez fűződő jogkövetkezményekről szóló tájékoztatást is.
 
@@ -6642,7 +6611,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 - i) az óvadék letétele esetén a bírósági letét szabályait,
 - j) a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett más módon való rögzítésének szabályait, valamint a tárgyalás zártcélú távközlő hálózat útján történő megtartásának részletes szabályait,
-- l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
+- l) a fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
 - m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott,
 - n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - o) a bírósági ügyvitel szabályait,
@@ -6728,4 +6697,6 @@ az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az elj�
 
 (5) E törvény 195. § (1) bekezdése a büntetőeljárás során igénybe vehető tolmácsoláshoz és fordításhoz való jogról szóló, 2010. október 20-i 2010/64/EU európai parlamenti és tanácsi irányelv 2. cikk (5) bekezdésének és 3. cikk (5) bekezdésének való megfelelést szolgálja.
 
-(6) E törvény 169. § (1) bekezdése, 195. § (1) és (6) bekezdése, 207. § (2) bekezdés e) pontja a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelv 7. cikk (4) bekezdésének való megfelelést szolgálja.
+(6) E törvény a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(7) E törvény a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

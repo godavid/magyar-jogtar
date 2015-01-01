@@ -10,20 +10,32 @@ Az Országgyűlés az agrár- és élelmiszergazdaság, valamint a vidékfejlesz
 
 2. § E törvény alkalmazásában
 
-- a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, illetve székhellyel vagy telephellyel rendelkező agrárgazdasági tevékenységet folytató őstermelő vagy egyéni vállalkozó;
-- b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező
-  - ba) élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató,
-  - bb) a ba) pont szerinti feltételek hiányában agrárgazdasági tevékenységet főtevékenységként folytató,
+- a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, székhellyel vagy telephellyel rendelkező
+  - aa) őstermelő,
+  - ab) az agrárgazdasági tevékenységet folytató egyéni vállalkozó, továbbá
+  - ac) az aa) és ab) pont szerinti feltételek hiányában a földművesként nyilvántartott személy;
+- b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel, kereskedelmi képvi-selettel vagy fiókteleppel rendelkező
+  - ba) agrárgazdasági tevékenységet főtevékenységként folytató,
+  - bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató
+  - bc) a ba) és bb) pont szerinti feltételek hiányában mezőgazdasági termelőszervezetként nyilvántartott,
 
-Polgári Törvénykönyv szerinti vállalkozás;
+a polgári perrendtartásról szóló 1952. évi III. törvény 396. § szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
 
 - c) agrárkamara tagja: a kamarai tagjegyzékbe bejegyzett gazda, gazdálkodó szervezet;
-- d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek, a mezőgazdasági termelés, a mezőgazdasági termékek feldolgozása, a szőlő termelése, feldolgozása, az erdőgazdálkodás, a halgazdálkodás, a vadgazdálkodás, az élelmiszer feldolgozása, valamint az ezekhez kapcsolódó, közvetlen ipari, kereskedelmi, szolgáltató tevékenységek, amelyekre vonatkozóan közigazgatási szerv nyilvántartási kötelezettsége kiterjed;
+- d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
 - e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
 - f) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó;
 - g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
 - h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
 - i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg.
+
+2/A. § (1) E törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni, ha az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek, vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában szerepelnek.
+
+(2) Amennyiben a tevékenység folytatásának feltétele az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységeknek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, úgy a tevékenység folytatása kezdőnapjának a bejelentés napja minősül.
+
+(3) E törvény alkalmazásában az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek folytatása megszűnésének minősül, ha az érintett tevékenységet a közigazgatási nyilvántartási feladatokat ellátó szerv által az érintett személyről vezetett nyilvántartásból törlik vagy onnan kivezetésre kerül. Ebben az esetben az érintett tevékenység folytatása megszűnése időpontjának a nyilvántartásból való törlés vagy kivezetés hatályának időpontját kell tekinteni, amely azonban nem lehet korábbi annál a napnál, amikor a gazdálkodó szervezet vagy az egyéni vállalkozó a törlés iránti kérelmét benyújtotta.
+
+(4) Amennyiben az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenység folytatásának feltétele a tevékenység az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, a tevékenység folytatása megszűnésének az a nap minősül, amikor az érintett személy a tevékenység folytatásának megszüntetését az érintett közigazgatási szerv felé bejelenti.
 
 ### II. Fejezet — AZ AGRÁRKAMARA
 
@@ -45,46 +57,51 @@ Polgári Törvénykönyv szerinti vállalkozás;
 
 ### A kamarai tagsági viszony keletkezése
 
-5. § (1)
-
-(2) Kamarai tagság e törvény alapján:
+5. § (1) Kamarai tagság e törvény alapján:
 
 - a) őstermelő esetében az őstermelői igazolvány kiállításával;
 - b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység végzésére jogosító nyilvántartásba vételről szóló igazolás kiadásával;
-- c) bármely agrárgazdasági tevékenységet főtevékenységként folytató, egyéni vállalkozónak nem minősülő gazdálkodó szervezet esetében a cégbírósági bejegyzéssel
+- c) a 2. § b) pont ba) alpont szerint újonnan alapított gazdálkodó szervezet esetén a szervezet bírósági bejegyzésével, működő jogalany főtevékenységének agrárgazdasági tevékenységre történő kiterjesztése esetén az agrárgazdasági tevékenység folytatásának kezdőnapjával;
+- d) a 2. § b) pont bb) alpont szerinti gazdálkodó szervezet esetén az agrárgazdasági tevékenység folytatása és az élelmiszerlánc-felügyeleti információs rendszerben történő nyilvántartásba vétel együttes fennállásának napján;
+- e) az a)–d) pontban foglaltak szerinti feltételek hiányában földművesként vagy mezőgazdasági termelőszervezetként történő nyilvántartásba vétellel; valamint
+- f) az e törvényben szabályozott egyéb feltétel bekövetkezésével
 
 keletkezik.
 
-(2a) Közös őstermelői igazolvány kiváltása esetén az agrárkamara tagjaként azt a gazdát kell nyilvántartásba venni, akinek a nevére a közös őstermelői igazolványt kiállították.
+(2) Közös őstermelői igazolvány kiváltása esetén a kamara tagjaként azt a gazdát kell nyilvántartásba venni, akinek a nevére a közös őstermelői igazolványt kiállították.
 
-(2b) Amennyiben a gazda egyidejűleg őstermelőként és egyéni vállalkozóként is folytat agrárgazdasági tevékenységet, agrárkamarai tagsági viszonyát az általa tett nyilatkozat alapján csak az egyik jogviszonya alapulvételével kell megállapítani.
+(3) Azon őstermelő, aki tárgyévben hatályos, de nem érvényesített őstermelői igazolvánnyal rendelkezik, a tárgyév negyedik hónapjától agrárkamarai tagságából származó jogait kizárólag az őstermelői igazolvány érvényesítését követően gyakorolhatja.
 
-(2c) Amennyiben az egyéni vállalkozó agrárgazdasági tevékenységét szünetelteti, agrárkamarai tagsági viszonya az agrárgazdasági tevékenysége folytatása napján keletkezik.
+(4) Az azonos tárgyévben az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelői igazolványt vált ki, adja vissza őstermelői igazolványát és vált ki egyéni vállalkozói igazolványt, vagy egyéni vállalkozását egyéni céggé alakítja át.
 
-(3) Ha a (2) bekezdés c) pontja hatálya alá tartozó gazdálkodó szervezet az agrárgazdasági tevékenység körébe tartozó tevékenységét a cégbejegyzést megelőzően megkezdi, a cégbejegyzés kérelmezésével egyidejűleg köteles az agrárkamaránál bejelentkezni. Ebben az esetben az agrárkamara ideiglenesen nyilvántartásba veszi az érintett gazdálkodó szervezetet, amelyet az agrárkamarai tag jogai illetnek meg és kötelezettségei terhelnek.
+(5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony az őstermelői igazolvány hatálya miatt egyébként fennáll.
 
-(4) Ha a gazdálkodó szervezet az agrárkamaránál a (3) bekezdés alapján bejelentkezett, agrárkamarai tagsága a cégbejegyzéssel az agrárkamaránál történt bejelentkezésének időpontjára visszamenőleg jön létre.
+(6) Ha az (1) bekezdés c) és d) pontja hatálya alá tartozó gazdálkodó szervezet az agrárgazdasági tevékenység körébe tartozó tevékenységét a cégbejegyzést megelőzően megkezdi, a cégbejegyzés kérelmezésével egyidejűleg köteles az agrárkamaránál bejelentkezni. Ebben az esetben az agrárkamara ideiglenesen nyilvántartásba veszi az érintett gazdálkodó szervezetet, amelyet az agrárkamarai tag jogai illetnek meg és kötelezettségei terhelnek.
 
-(5) Az agrárkamara az alapszabályban meghatározott feltételekkel pártoló és tiszteletbeli tagságot létesíthet a gazdának vagy gazdálkodó szervezetnek nem minősülő személyek vagy szervezetek számára.
+(7) Ha a gazdálkodó szervezet az agrárkamaránál a (6) bekezdés alapján bejelentkezett, agrárkamarai tagsága a cégbejegyzéssel az agrárkamaránál történt bejelentkezésének időpontjára visszamenőleg jön létre.
 
-(6) Az (1) és (2) bekezdéstől eltérően nem keletkezik agrárkamarai tagság, ha az érintett személy vagy szervezet az (1), illetve (2) bekezdés szerinti időpontban tagja
+(8) Az agrárkamara a gazdának vagy gazdálkodó szervezetnek nem minősülő személyek vagy szervezetek számára az alapszabályban meghatározott feltételekkel pártoló és tiszteletbeli tagságot létesíthet.
+
+(9) Nem keletkezik agrárkamarai tagság, ha az érintett személy vagy szervezet tagja
 
 - a) a Magyar Állatorvosi Kamarának,
 - b) a Magyar Növényvédő Mérnöki és Növényorvosi Kamarának,
 - c) a Magyar Vadászkamarának vagy más vadászati szakmai szervezet országos vagy területi szervének, vagy
 - d) valamelyik hegyközségnek,
 
-és e tagságával összefüggő tevékenységén kívül más agrárgazdasági tevékenységet nem folytat.
+feltéve, ha az érintett személy vagy szervezet – ide nem értve az (1) bekezdés e) pontja szerinti személyt – a (10) bekezdésben foglaltakra figyelemmel meghatározott tevékenységen kívül más agrárgazdasági tevékenységet nem folytat.
 
-(6a) A (2) bekezdéstől eltérően nem keletkezik kamarai tagság, ha az érintett gazdálkodó szervezet a TEÁOR „7500 Állat-egészségügyi ellátás” tevékenységen kívül más agrárgazdasági tevékenységet tevékenységi körei között nem tüntet fel, illetve TEÁOR „7500 Állat-egészségügyi ellátás” tevékenységen kívül más agrárgazdasági tevékenységet sem folytat.
+(10) A (9) bekezdésben felsoroltak szerinti szervezet a kamara megkeresésére nyilatkozik arról, hogy az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek közül mely tevékenység tekinthető szervezetük vonatkozásában a törvény alapján kötelező tagságot megalapozó tevékenységnek.
 
-(6b) A (6) bekezdésben felsoroltak szerinti szervezet a kamara megkeresésére az érintett személy tagsági viszonya fennállásáról nyilatkozik.
+(11) A (9) bekezdésben említett gazdának vagy gazdálkodó szervezetnek a tárgyév azon időszakára vonatkozóan keletkezik agrárkamarai tagsága, amikor nem tagja a (9) bekezdésben meghatározott szervezeteknek, és az (1) bekezdés szerinti feltételek fennállnak. E rendelkezés alkalmazásánál figyelemmel kell lenni a (9) bekezdésben meghatározott szervezetben való tagság keletkezésére vonatkozó jogszabályban foglaltakra is.
 
-(7) Amennyiben
+(12) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 7. pont b) alpontja alapján földművesként nyilvántartásba vett személynek erre vonatkozó nyilatkozata alapján nem keletkezik agrárkamarai tagsága a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgazdasági termelőszervezet agrárkamarai tagságának tartama alatt, feltéve ha ezen időtartam alatt a legalább 25%-ban a tulajdonában álló mezőgazdasági termelőszervezet részére mező-, erdőgazdasági tevékenységet, illetve mező-, erdőgazdasági és az azokat kiegészítő tevékenységet személyes közreműködésként végzi.
 
-- a) a (6), valamint a (6a) bekezdés szerint érintett személy,
+(13) Amennyiben
+
+- a) a (9) bekezdésben foglaltak alapján érintett személy,
 - b) a nyilvántartásba vett szaktanácsadási szolgáltatást nyújtó szaktanácsadó,
-- c) közösségi-, illetve nemzeti forrásból finanszírozott agrár-, vidékfejlesztési-, illetőleg halászati támogatást igénybe vevő szervezet vagy személy, valamint
+- c) közösségi-, illetve nemzeti forrásból finanszírozott agrár-, vidékfejlesztési-, illetve halászati támogatást igénybe vevő szervezet vagy személy, valamint
 - d) az alapszabályban meghatározott feltételeknek megfelelő személy
 
 az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagságot, ugyanazok a jogok illetik, illetve kötelezettségek terhelik, mint akiknek kamarai tagsági viszonya a törvény alapján keletkezett.
@@ -95,21 +112,28 @@ az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagság
 
 - a) az őstermelő:
   - aa) meghal,
-  - ab) az őstermelői igazolványát visszaadja vagy annak érvényessége lejár;
+  - ab) az őstermelői igazolványát visszaadja,
+  - ac) az őstermelői igazolvány hatályának lejártát követő negyedik hónap utolsó napján;
 - b) az egyéni vállalkozó:
   - ba) meghal,
-  - bb) agrárgazdasági tevékenység körébe tartozó összes tevékenységét megszünteti;
-- c) az egyéni vállalkozónak nem minősülő egyéb gazdálkodó szervezet:
-  - ca) jogutód nélkül megszűnik,
-  - cb) az agrárgazdasági tevékenység körébe tartozó főtevékenységét megszünteti.
+  - bb) agrárgazdasági tevékenység körébe tartozó összes tevékenységét megszünteti,
+  - bc) egyéni céggé alakul át, feltéve, ha az egyéni cég agrárgazdasági tevékenységet nem folytat;
+- c) az a) és b) pont hatálya alá nem tartozó személyt a földművesekről vezetett nyilvántartásból törlik;
+- d) gazdálkodó szervezet:
+  - da) jogutód nélkül megszűnik,
+  - db) a 2. § b) pont ba) alpontja szerinti esetben az agrárgazdasági tevékenység körébe tartozó főtevékenységét megszünteti,
+  - dc) a 2. § b) pont bb) alpontja szerinti esetben az élelmiszerlánc-felügyeleti információs rendszerből kivezetésre kerül, valamennyi agrárgazdasági tevékenység folytatását megszünteti,
+  - dd) a db) és a dc) alpont hatálya alá nem tartozó gazdálkodó szervezetet a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból való törléssel.
 
-(2) Az (1) bekezdés b) pont bb) alpontja, valamint c) pont cb) alpontja szerinti esetben az agrárkamarai tagság az agrárkamarához történt bejelentésben megjelölt időpontban szűnik meg, amely időpont nem lehet korábbi az agrárgazdasági tevékenység körébe tartozó tevékenység megszüntetésénél.
+(2) Amennyiben az (1) bekezdés a) pont ac) alpontja szerinti őstermelő a tárgyévet követő negyedik hónap lejártát követően nem vált ki őstermelői igazolványt, és a tárgyévet követően más jogcímen sem lesz az agrárkamara tagja, mentesül a tárgyévet követő négy hónap kamarai tagság alapján fizetendő tagdíj megfizetése, valamint bevallási és adatszolgáltatási kötelezettség teljesítése alól.
 
-(3) Az agrárkamarai tagsági viszony megszűnésével a volt kamarai tagot a kamara törli a tagokról vezetett nyilvántartásból.
+(3) Az agrárkamarai tagsági viszony megszűnésével – a (4) és (5) bekezdésben foglaltakra is figyelemmel – az agrárkamara a volt agrárkamarai tagot törli a tag jegyzékből.
 
-(4) Az önkéntesen vállalt agrárkamarai tagság az agrárkamara alapszabályában meghatározottak szerint szűnik meg.
+(4) Az őstermelői igazolvánnyal és egyéni vállalkozói igazolvánnyal is rendelkező agrárkamarai tag tagsági viszonya kizárólag abban az esetben szűnik meg, ha a tagsági viszony megszűnésének mind az őstermelőkre, mind az egyéni vállalkozókra vonatkozó feltételei együttesen állnak fenn.
 
-(5) Ha az agrárkamara tagja számára az 5. § (6) bekezdésének a)–d) pontjában meghatározott szervezetben való tagságot – tevékenység végzésének feltételeként – törvény kötelezővé teszi, az agrárkamarai tagság – a tagnak az agrárkamara irányába tett ellenkező tartalmú írásbeli nyilatkozata hiányában – az 5. § (6) bekezdésének a)–d) pontjában meghatározott szervezetben való tagsági jogviszonya létrejöttének napjával megszűnik, ha e szervezeti tagságával összefüggő tevékenységén kívül más agrárgazdasági tevékenységet nem folytat.
+(5) Az önkéntesen vállalt agrárkamarai tagság az agrárkamara alapszabályában meghatározottak szerint szűnik meg.
+
+(6) Ha az agrárkamara tagja számára az 5. § (9) bekezdésében meghatározott szervezetben való tagságot – tevékenység végzésének feltételeként – törvény kötelezővé teszi, az agrárkamarai tagság – a tagnak az agrárkamara irányába tett ellenkező tartalmú írásbeli nyilatkozata hiányában – az 5. § (9) bekezdésében meghatározott szervezetben való tagsági jogviszonya létrejöttének napjával – figyelemmel az 5. § (9) bekezdésében meghatározott szervezetben való tagság keletkezésének a vonatkozó jogszabályban rögzített szabályaira – megszűnik, ha e szervezeti tagságával összefüggő tevékenységén kívül a 2/A. §-ban foglaltak szerint más agrárgazdasági tevékenységet nem folytat.
 
 ### Az agrárkamara tagjegyzéke
 
@@ -124,18 +148,24 @@ nyilvántartást vezet.
 
 - a) gazda esetében
   - aa) a nevét,
-  - ab) a lakcímét, elektronikus levelezési címét,
-  - ac) a születési helyét és idejét,
-  - ad) az anyja nevét,
-  - ae) adóazonosító jelét és az egyéni vállalkozói nyilvántartási számát,
-  - af) az őstermelői igazolványa számát, annak érvényét,
-  - ag) a családi gazdálkodói nyilvántartási számát,
-  - ah) egyéni cég esetén a cégnevét, székhelyét, elektronikus levelezési címét, telephelyét és fióktelepét, cégjegyzékszámát, adószámát, törvényes képviselője nevét és lakcímét,
-  - ai) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
-  - aj) a kamarai nyilvántartási számát,
-  - ak) az általa folytatott agrárgazdasági tevékenység körét,
-  - al) a bankszámla számát,
-  - am) a tagsági viszony kezdetét;
+  - ab) a lakcímét,
+  - ac) értesítési címét,
+  - ad) elektronikus levelezési címét,
+  - ae) a születési helyét és idejét,
+  - af) az anyja nevét,
+  - ag) adóazonosító jelét, adószámát,
+  - ah) az egyéni vállalkozói nyilvántartási számát,
+  - ai) az őstermelői igazolványa számát, annak hatályossági időtartamát,
+  - aj) a családi gazdálkodói nyilvántartási számát,
+  - ak) közös őstermelői igazolványban szereplő családtagjainak aa), ab), ac), ae), af) ag), al), am), as) alpontok szerinti adatait,
+  - al) egyéni cég esetén a cégnevét, székhelyét, elektronikus levelezési címét, telephelyét és fióktelepét, cégjegyzékszámát, adószámát, törvényes képviselője nevét és lakcímét,
+  - am) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
+  - an) az agrárkamarai nyilvántartási számát,
+  - ao) az általa folytatott agrárgazdasági tevékenységek körét,
+  - ap) a bankszámla számát,
+  - aq) a tagsági viszony kezdetét,
+  - ar) élelmiszerlánc-felügyeleti szerv által nyilvántartott FELÍR azonosítót,
+  - as) személyi azonosítóját;
 - b) gazdálkodó szervezet esetében:
   - ba) a cégnevét,
   - bb) a székhelyét, telephelyét, fióktelephelyét, elektronikus levelezési címét,
@@ -144,10 +174,12 @@ nyilvántartást vezet.
   - be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét,
   - bf) a statisztikai azonosítóját,
   - bg) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
-  - bh) a kamarai nyilvántartási számát,
-  - bi) az általa folytatott agrárgazdasági tevékenység körét,
+  - bh) az agrárkamarai nyilvántartási számát,
+  - bi) az általa folytatott agrárgazdasági tevékenységek körét,
   - bj) a bankszámla számát,
-  - bk) a tagsági viszony kezdetét.
+  - bk) a tagsági viszony kezdetét,
+  - bl) élelmiszerlánc-felügyeleti szerv által nyilvántartott FELÍR azonosítót,
+  - bm) értesítési címét;
 
 (3) A gazdaságszerkezeti nyilvántartás tartalmazza a tag által
 
@@ -159,19 +191,19 @@ nyilvántartást vezet.
 
 vonatkozó adatokat.
 
-(4) A kamara a törvény alapján jogosult a tagra vonatkozó, a (2) bekezdés aa)–ag) és ba)–be) pontjai, valamint a (3) bekezdésben foglaltak szerinti adatok kezelésére.
+(4) Az agrárkamara a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban szereplő, tagra vonatkozó adatokat kezeli.
 
-(5) A tag a (2) bekezdés szerinti adatokról a tagsági viszony létesítésével egyidejűleg, változás esetén pedig a változást követő harminc napon belül köteles nyilatkozni.
+(5) A tag a (2) bekezdés szerinti adatokról – a (2) bekezdés a) pont an) és aq) alpontja, valamint a b) pont bh) és bk) alpontja kivételével – a tagsági viszony létrejöttét – változás esetén a változást – követő harminc napon belül köteles nyilatkozni.
 
-(6) A kamara a (2) bekezdés aa)–ag) pontjaiban meghatározott adatokat a Központi Statisztikai Hivatal és az élelmiszerlánc felügyeleti szerv részére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb február 15-ig átadja.
+(6) Az agrárkamara a (2) bekezdés aa)–ah) pontjaiban meghatározott adatokat az élelmiszerlánc felügyeleti szerv részére annak kérelmére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb április 15-ig átadja. Az agrárkamara a Központi Statisztikai Hivatal számára statisztikai célból a (2) bekezdésében foglalt tagjegy-zékéhez hozzáférést biztosít, vagy kérelmére egyedi azonosításra alkalmas módon adatot ad át.
 
 (7) A tag által a (3) bekezdésben foglaltak szerint szolgáltatandó adatok körét – a tevékenység jellegétől függően – a küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.
 
 7/A. § (1) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás adatállománya a kamara kizárólagos tulajdona, azon más személy részére kizárólagos rendelkezési jog nem engedhető, továbbá a kamarának az informatikai rendszerben tárolt adatokhoz való hozzáférési joga, valamint ezen adatoknak a kamara részére elektronikus úton való átadása korlátozására, feltételhez kötésére megállapodás nem köthető.
 
-(2) A kamara a tagról a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban rögzített adatokat a tagsági viszony megszűnését követően akkor kezelheti, ha a tagnak a tagsági viszony megszűnésének időpontjában tagdíjhátraléka marad fenn. Ebben az esetben a kamara az adatokat a tagdíjhátralék kiegyenlítéséig vagy behajtásáig, de legfeljebb öt évig kezelheti.
+(2)
 
-(3) A kamara köteles a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban szereplő adatok fogadására és kezelésére alkalmas nyilvántartási rendszert működtetni.
+(3)
 
 (4) A kamara az általa kezelt adatokat kizárólag
 
@@ -198,9 +230,64 @@ használhatja fel.
 
 (8) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás nem nyilvános. Harmadik személy – a tagra vonatkozó adatok tekintetében – csak az érintett tag hozzájárulásával vagy törvényi felhatalmazás alapján erre feljogosított személy tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
+7/B. § (1) Az agrárkamara az üzleti forgalom biztonságának, a gazdaság fejlesztésének előmozdítása, valamint az etikus üzleti magatartás vizsgálata érdekében a gazdálkodó szervezetek gazdasági tevékenységére jellemző, nyilvánosan elérhető nyilvántartásból származó információkat tartalmazó adatbázist működtethet.
+
+(2) Az (1) bekezdés szerinti adatbázis tartalmazza, hogy:
+
+- a) a gazdálkodó szervezet
+  - aa) köztartozásmentes adózónak minősül-e,
+  - ab) kiemelt adózónak minősül-e,
+  - ac) minősített ajánlattevőnek minősül-e,
+  - ad) a békéltető testületi eljárásra és egyezség hiányában az ilyen eljárásban hozott határozatra vonatkozóan általános alávetési nyilatkozatot tett-e,
+  - ae) a fogyasztóvédelmi hatóság pozitív listának minősülő nyilvántartásában szerepel-e;
+- b) a gazdálkodó szervezet
+  - ba) csődeljárás, felszámolás eljárás, végelszámolás alatt áll-e, továbbá annak kezdő időpontját és befejezését,
+  - bb) ellen végrehajtási eljárás folyamatban van-e, továbbá a végrehajtás elrendelését és megszüntetését;
+- c) a gazdálkodó szervezet
+  - ca) az adószám alkalmazásának felfüggesztése hatálya alatt áll-e,
+  - cb) adószámát az állami adóhatóság törölte,
+  - cc) terhére az állami adhatóság az előző negyedév során jogerőre emelkedett határozatban 100 millió forintot meghaladó összegű adóhiányt állapított meg,
+  - cd) 180 napon keresztül folyamatosan fennálló, az állami adóhatóságnál nyilvántartott túlfizetéssel csökkentett adótartozása összességében számítva a 100 millió forintot meghaladja;
+- d) a gazdálkodó szervezetet a közbeszerzési eljárásban való részvételtől a Közbeszerzési Döntőbizottság jogerősen eltiltotta;
+- e) a gazdálkodó szervezettel szemben jogerősen megállapították a rendezett munkaügyi kapcsolatok megsértését;
+- f) a gazdálkodó szervezetet jogerősen jelentős összegre elmarasztalták
+  - fa) versenyfelügyeleti eljárásban,
+  - fb) a fogyasztóvédelmi hatóság eljárásában;
+- g) a gazdálkodó szervezet a békéltető testület eljárásában a tanács ajánlásának nem tett eleget.
+
+(3) Az adatbázis tartalmazza a gazdálkodó szervezet nettó árbevételére vonatkozó, valamint a gazdasági teljesítményét jellemző egyéb, nyilvánosan elérhető adatokat.
+
+(4) A (2) bekezdés f) pontja alkalmazásában jelentős összegűnek tekintendő bírság mértékét az agrárkamara és az érintett hatóságok közötti, az agrárkamara honlapján is közzétett megállapodás tartalmazza.
+
+(5) Az adatbázisban szereplő adatok valóságtartalmával összefüggő, az agrárkamara előtt benyújtott kifogás elbírálására az a hatóság köteles amely e § szerinti adatokat szolgáltatta. Ebben az esetben az adatbázisban fel kell tüntetni, hogy az adat, tény valóságtartalmával összefüggésben az érintett gazdálkodó szervezet kifogást emelt. Az érintett hatóság a kifogással kapcsolatos döntését a kifogást tevővel, és az agrárkamarával egyidejűleg közli. Az agrárkamara az érintett szerv döntésének megfelelően módosítja az adatbázist, továbbá törli a kifogás tényére vonatkozó bejegyzést.
+
+(6) Az adatátadás végrehajtásával kapcsolatos részletes feltételeket az agrárkamara és az adatszolgáltató közötti megállapodás tartalmazza.
+
 8. § (1) Az ingatlanügyi hatóság a tárgyév július 31. napjáig köteles szolgáltatni a kamara részére a kamara tagjának használatában a tárgyév június 9. napján álló összes földterület művelési ágára és nagyságára vonatkozó adatokat.
 
-(2) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles szolgáltatni a kamara részére gazdának minősülő kamarai tag esetében az őstermelői, illetve egyéni vállalkozói tevékenységéből származó tárgyévi bevételének, gazdálkodó szervezet kamarai tag esetében pedig a tárgyévi nettó árbevételének adatát.
+(2) Az állami adóhatóság a tárgyévet követő év szeptember 1. napjáig köteles adatot szolgáltatni az agrárkamara részére
+
+- a) a tárgyévben adóbevallást készítő őstermelő nevéről, adóazonosító jeléről, valamint őstermelői tevékenységéből származó bevételéről,
+- b) a bevallásában az 1. melléklet szerinti agrárgazdasági tevékenységet feltüntető egyéni vállalkozó, egyéni cég nevéről, adóazonosító jeléről, valamint a vállalkozói tevékenységből származó tárgyévi, a kapott támogatást nem tartalmazó bevételéről,
+- c) a bevallásában a 2. melléklet szerinti agrárgazdasági tevékenységet folytató gazdálkodó szervezet agrárkamarai tag esetében a tárgyévi nettó árbevételéről,
+- d) a mezőgazdasági termelőszervezetként nyilvántartásba vett jogalany tárgyévi nettó árbevételéről.
+
+(2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról.
+
+(2b) Az állami adóhatóság a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) 24. § (4a) bekezdése szerinti értesülésével és a Ctv. 24. § (4b) bekezdése szerinti értesítésével egyidejűleg értesíti az agrárkamarát a cég agrárgazdasági tevékenységnek minősülő fő- és további tevékenységi köreiről és az azokat érintő változásokról. Az értesítésben az adóhatóság megjelöli a tevékenységi kör megváltozására vonatkozó bejelentés megtételének napját.
+
+(2c) Az élelmiszerlánc-felügyeleti szerv az agrárkamara számára az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti információs rendszerhez folyamatos hozzáférést biztosít.
+
+(2d) Az ingatlanügyi hatóság az adatbázis üzemeltetőjével kötött megállapodásban foglaltak szerint az adat keletkezésével, illetve a változás átvezetésével egyidejűleg köteles adatot szolgáltatni az agrárkamara részére
+
+- a) a földműves
+  - aa) természetes személyazonosító adatairól,
+  - ab) lakcíméről,
+  - ac) személyi azonosítójáról,
+- b) a mezőgazdasági termelőszervezet
+  - ba) megnevezéséről,
+  - bb) – a Ctv. hatálya alá tartozása esetében – cégjegyzékszámáról,
+  - bc) székhelyéről (telephelyéről, fióktelepéről).
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa kezelt adatok közül a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni a kamara részére a tárgyévben a központi költségvetésből, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA), az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA), továbbá az Európai Halászati Alapból (a továbbiakban: EHA) – ideértve ezen pénzügyi alapok helyébe lépő közösségi pénzügyi forrásokat is – finanszírozott támogatásban részesülő kamarai tagra vonatkozóan a következő adattartalommal:
 
@@ -214,7 +301,9 @@ használhatja fel.
   - ec) a támogatás alapjául szolgáló jogosultság típusa és mértéke,
 - f) az EMVA-ból és az EHA-ból finanszírozott, beruházási jellegű intézkedések esetében továbbá a beruházás megvalósulási helyének települése.
 
-(4) Az élelmiszerlánc-felügyeleti szerv havi rendszerességgel köteles adatot szolgáltatni a kamara részére a felügyeleti információs rendszerben nyilvántartott kamarai tag 7. § (2) bekezdés aa)–ag) pontjaiban, valamint ba)–be) pontjaiban meghatározott adatát, illetve az abban bekövetkezett változást.
+(4) Az 5. § (9) bekezdése szerinti szervezetek az egyéni vállalkozók nyilvántartását vezető szerv, az állami és önkormányzati adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv, az agrárkár-enyhítési szerv, az élelmiszerlánc-felügyeleti szerv, a fogyasztóvédelmi hatóság, az ingatlanügyi hatóság, a munkaügyi hatóság, a kereskedelmi hatóság, a Gazdasági Versenyhivatal és a mezőgazdasági igazgatási szerv az e törvényben meghatározott agrárkamarai nyilvántartások vezetéséhez szükséges, e törvényben meghatározott adatokat, továbbá az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat átadja az agrárkamara számára.
+
+(4a) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat az e törvényben meghatározott agrárkamarai nyilvántartás vezetéséhez és az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat tovább feldolgozásra alkalmas módon, elektronikus úton, díj- és térítésmentesen – a cégnyilvántartás elektronikus hálózata használatával az átadónál felmerülő költség megtérítésével – és a szükséges időben átadja az agrárkamara számára. Az adatszolgáltatás lebonyolításának részletes szabályait a kamara és a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat közti megállapodásban kell meghatározni.
 
 (5) Az (1)–(4) bekezdésben meghatározott adatszolgáltatást díj- és térítésmentesen, tovább-feldolgozásra alkalmas módon elektronikusan kell végrehajtani.
 
@@ -260,9 +349,11 @@ használhatja fel.
 
 (4) A döntés meghozatalánál és a jogkövetkezmény alkalmazásánál figyelemmel kell lenni a kötelességszegés súlyára, a tag gazdasági helyzetére és az ügy összes körülményére. Az agrárkamara elnöke a tag kérelme alapján, a tag gazdasági helyzetére figyelemmel a határozat végrehajtása alól egy alkalommal felmentést adhat.
 
-11. § (1) Az éves tagdíj mértékét és fizetésének módját az alapszabály határozza meg. A tagdíj mértékét a tagok gazdasági súlya és a tag által folytatott agrárgazdasági tevékenység egyéb tevékenységhez viszonyított arányára is figyelemmel, sávosan kell meghatározni oly módon, hogy annak összege az egymillió forintot nem haladhatja meg.
+11. § (1) Az éves tagdíj mértékét, fizetésének módját és feltételeit az alapszabály határozza meg. A tagdíj mértékét a tagok gazdasági súlyára figyelemmel, sávosan kell meghatározni oly módon, hogy annak összege az egymillió forintot nem haladhatja meg. Az alapszabály a tagdíjfizetés alapját vagy mértékét csökkentő kedvezményeket állapíthat meg.
 
 (2) A meg nem fizetett kamarai tagdíj köztartozás. A tagdíj meg nem fizetése esetén azt az állami adóhatóság adók módjára hajtja be.
+
+(3) Az 5. § (4) bekezdése szerinti esetben a tagdíjfizetés alapja a tag őstermelői és egyéni vállalkozói tevékenységéből származó nettó árbevételeinek egybeszámított összege.
 
 ### IV. Fejezet — AZ AGRÁRKAMARA FELADATAI
 
@@ -270,9 +361,13 @@ használhatja fel.
 
 (2) Az agrárkamara részére közfeladat abban az esetben állapítható meg, ha a közfeladat ellátásához szükséges pénzügyi forrás biztosított.
 
+(2a) Az agrárkamara törvényben vagy kormányrendeletben meghatározottak szerinti egyes közfeladatai ellátásának részletes feltételeiről a Kormány által kijelölt szervvel megállapodást köt. A megállapodásnak tartalmaznia kell az agrárkamara által ellátandó közfeladat megnevezését, a közfeladat ellátás jogalapját, valamint a költségvetési támogatásnak az elvégzendő feladatokkal arányban álló összegét. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha az agrárkamara külön megállapodás alapján, díjazás ellenében lát el egyes feladatokat.
+
 (3) Az agrárkamarát az általa ellátott közfeladat ellátásáért támogatás vagy díjazás illeti meg.
 
-(4) Az agrárkamara a miniszter által rendeletben meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve együttműködői feladatokat lát el.
+(3a) Az agrárkamara által ellátott közfeladat finanszírozása az ellátott feladattal arányos pénzügyi fedezet részben vagy egészben történő, az e törvényben foglaltaknak megfelelő biztosításával valósul meg. A pénzügyi fedezetet elsődlegesen az államháztartás működési rendjére vonatkozó szabályok szerint a központi költségvetésből nyújtott támogatásból, ennek hiánya esetén – ha a közfeladat jellege alapján egyébként igazgatási szolgáltatási díj állapítható meg – az agrárkamara részére fizetendő igazgatási szolgáltatási díjból kell biztosítani. Az agrárkamara által ellátandó közfeladat költségvetési támogatással, vagy igazgatási szolgáltatási díjjal nem fedezett részének finanszírozásáról való döntés az országos küldöttgyűlés kizárólagos hatáskörébe tartozik.
+
+(4) Az agrárkamara a jogszabályban meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve, együttműködői feladatokat lát el.
 
 (5) Az agrárkamara a földről szóló törvényben meghatározottak szerint eljár a közös tulajdonban álló föld használati rendjének hatósági úton történő megállapítására irányuló eljárásban.
 
@@ -325,13 +420,24 @@ használhatja fel.
 
 (7) Az agrárkamara külön jogszabályban meghatározott egyes igazgatási feladatait a falugazdász hálózat útján látja el.
 
-14/A. §
+(8) Az őstermelők nyilvántartásba vételével, az igazolvány kiállításával, érvényesítésével és visszaadásával kapcsolatos hatósági feladatokat – kormányrendeletben meghatározottak szerint – az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazda-ságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére. Az őstermelői igazolvány visszavonásáról – az agrárkamara egyidejű értesítése mellett – a kormány által rendeletben meghatározott szerv határoz.
 
-15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
+#### 14/A. §
 
-15/A. § (1) Az agrárkamara által az őstermelők részére megállapított tagdíj magában foglalja az őstermelői igazolvány kiállításának és érvényesítésének a díját.
+15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért, valamint az agrár-, vidékfejlesztésért felelős miniszter és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
 
-(2) Az agrárkamara az őstermelői igazolvány kiadását, érvényesítését az agrárkamara tagját terhelő tagdíj megfizetéséhez, illetve az adatszolgáltatási kötelezettség teljesítéséhez köti.
+15/A. § Az őstermelői igazolvány kiállítása és érvényesítése – kivéve az elveszett, megsemmisült, vagy megrongálódott igazolvány pótlását – tárgyi díj- és illetékmentes eljárás.
+
+15/B. § Az agrárkamara ellátja:
+
+- a) a mezőgazdasági, vidékfejlesztési szaktanácsadói engedély kiadásával,
+- b) a mezőgazdasági, vidékfejlesztési szaktanácsadói névjegyzék vezetésével,
+- c) a mezőgazdasági szaktanácsadók képzésének, továbbképzésének és vizsgáztatásának ellenőrzésével,
+- d) a támogatott szaktanácsadói tevékenység szervezésével, koordinálásával,
+- e) a mezőgazdasági, vidékfejlesztési szaktanácsadási tevékenységet segítő informatikai rendszer működtetésével,
+- f) az Európai Unió tagállamainak mezőgazdasági szaktanácsadó szervezeteivel való kapcsolat létesítésével, fenntartásával, valamint a nemzetközi fórumokon a magyar mezőgazdasági, vidékfejlesztési szaktanácsadás képviseletével
+
+összefüggő feladatokat.
 
 #### 2. Az agrárkamara szolgáltatási közfeladatai
 
@@ -339,7 +445,7 @@ használhatja fel.
 
 - a) országos szaktanácsadói hálózatot működtet;
 - b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
-- c) a szakképzésről szóló törvényben és végrehajtási rendeletében foglaltak szerint ellátja a tanulószerződés és hallgatói szerződés szervezésével kapcsolatos feladatokat, a gyakorlati képzőhelyek ellenőrzését, felügyeletét, segíti a szakképzés képzési és beiskolázási szerkezetének, a hiány-szakképesítések körének meghatározását, a fiatalok pályaválasztását, pályaorientációját, továbbá szervezi és végzi a mesterképzést és mestervizsgáztatást.
+- c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladatait, szervezi és végzi a mesterképzést és a mestervizsgáztatást.
 
 (2) A kamara tagjai részére térítésmentes alapszolgáltatásként
 
@@ -363,6 +469,8 @@ használhatja fel.
 
 (8) A kamara jogszabályban meghatározott esetekben nyilvántartást vezet, továbbá az agrárgazdaság területén szükséges igazolásokat, bizonyítványokat és okmányokat állít ki, illetve hitelesít.
 
+(9) Az agrárkamara részt vesz a közösségi forrásból is támogatott tanácsadási, tájékoztatási feladatok ellátásában.
+
 16/A. § Az agrárkamara kiállítja a mezőgazdasági termékek és élelmiszerek vonatkozásában a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló, 1993. július 2-i 2454/93/EGK bizottsági rendelet 48. cikke szerinti származási bizonyítványt.
 
 ### V. Fejezet — AZ AGRÁRKAMARA ÖNKORMÁNYZATA
@@ -381,7 +489,7 @@ használhatja fel.
 - d) más gazdasági-, szakmai kamarákkal, hegyközségekkel és az országos gazdasági érdek-képviseleti szervezetekkel való együttműködés módját és részletes szabályait;
 - e) az e törvényben meghatározottakon túl a tagok jogait és kötelezettségeit;
 - f) a választási névjegyzék és a tagjegyzék vezetésének részletes szabályait,
-- g) a kamarai tagdíj fizetésének módját,
+- g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, feltételeit,
 - h) a küldöttválasztás részletes szabályait;
 - i) a küldöttgyűlésébe történő delegálás részletes szabályait;
 - j) a kamarai osztályok számát, termékkörét, összehívásának módját és határozathozataluk rendjét;
@@ -407,7 +515,7 @@ használhatja fel.
 - a) az agrárkamara alapszabályának, etikai szabályzatának és a fegyelmi eljárás szabályainak, továbbá más önkormányzati szabályzatának megalkotása és módosítása;
 - b) az agrárkamarán belüli szervezeti egységek létrehozására, azok feladatkörére vonatkozó szabályok elfogadása;
 - c) az agrárkamara más szervezetekhez való kapcsolódása és működési rendjének meghatározása;
-- d) a részben vagy egészben agrárkamarai tulajdonban lévő gazdasági vállalkozások beszámolójának, mérlegének és üzleti tervének elfogadása;
+- d)
 - e) a választott tisztségviselők díjazásának jóváhagyása;
 - f) az Agrárkamarai Választottbíróság választottbíráinak megválasztása;
 - g) az éves saját bevételt meghaladó kölcsön felvételéről való döntéshozatal;
@@ -463,7 +571,7 @@ használhatja fel.
 
 ### Az elnök, az alelnökök
 
-23. § (1) Az agrárkamarát az elnök önállóan képviseli. Jogkörét az alapszabályban meghatározott módon, valamint esetenként és az ügyek meghatározott csoportjaira nézve az alelnökre, főigazgatóra, igazgatóra írásban átruházhatja.
+23. § (1) Az agrárkamarát az elnök önállóan képviseli. Az elnök a képviseleti jogát a 23. § (2) bekezdés szerinti alelnökre, az agrárkamara megyei szervezetének elnökére, az agrárkamara alkalmazásában álló személyre írásban átruházhatja. Az elnök a főigazgató akadályoztatása esetén, valamint ha a főigazgató tisztség nincs betöltve, a főigazgatói jogkörök gyakorlását magához vonhatja, illetve e jogkör gyakorlását az elnök általános helyettesítésével kapcsolatos feladatok ellátásáért felelős alelnökre, a főigazgató helyettesítésére az agrárkamara szervezeti és működési szabályzata alapján feljogosított személyre ruházhatja át.
 
 (2) Az agrárkamara küldöttgyűlése négy alelnököt választ, akik közül 1-1 fő felelős:
 
@@ -506,7 +614,7 @@ használhatja fel.
 
 ### A főigazgató és a kamara ügyintéző szervezete
 
-27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének, az igazgató az agrárkamara megyei (fővárosi) ügyintéző szervezetének vezetője, az agrárkamarával munkaviszonyban állnak. Főigazgató és igazgató csak az lehet, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető. A főigazgató kinevezését megelőzően annak személyéről a miniszter véleményét ki kell kérni.
+27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének, az igazgató az agrárkamara megyei (fővárosi) ügyintéző szervezetének vezetője, akik az agrárkamarával munkaviszonyban állnak. A főigazgatót az elnök irányítja. Főigazgató és igazgató csak az lehet, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető. A főigazgató kinevezését megelőzően annak személyéről az agrárpolitikáért, az agrár-vidékfejlesztésért felelős miniszter véleményt nyilvánít.
 
 (2) A főigazgató az agrárkamara megyei szervezete elnökével történt előzetes egyeztetés alapján gyakorolja az igazgatók és az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat.
 
@@ -582,9 +690,9 @@ használhatja fel.
 
 (2) Az országos, illetve a megyei küldöttet, a testületi szervek tagját, valamint az agrárkamara elnökét, alelnökeit és más választott tisztségviselőjét az őket megválasztó szerv visszahívhatja. A visszahívás feltételeit és eljárási szabályait az alapszabály határozza meg.
 
-37. § (1) Ha e törvény eltérően nem rendelkezik, országos-, illetve megyei küldöttnek az választható, aki
+37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve megyei küldöttnek az választható, aki
 
-- a) nagykorú;
+- a) nagykorú, és
 - b) az agrárkamara tagja vagy gazdálkodó szervezet tag esetén annak törvényes képviselője.
 
 (2) Nem választható országos, illetve megyei küldöttnek, aki
@@ -616,14 +724,14 @@ használhatja fel.
 - b)
 - c) az agrárkamara szolgáltatásaiért fizetett díjakból;
 - d) az agrárkamara által alapított gazdasági társaság tevékenységéből származó bevételből;
-- e) a költségvetési törvényben megállapított támogatásból;
+- e) központi költségvetésből származó bevételekből;
 - f) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is.
 
 (2) Az agrárkamara alanyi adó- és illetékmentességet élvez.
 
-(3) Az (1) bekezdés e) pontjában megállapított, az agrárkamara közfeladatainak ellátásához kapcsolódó költségvetési támogatást a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
+(3) Az agrárkamara közfeladatai ellátásához kapcsolódó költségvetési támogatást az érintett közfeladat szakmai irányításáért, felügyeletéért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
 
-(4) A költségvetési támogatás felhasználásáról az agrárkamara évente beszámol a miniszternek.
+(4) Az agrárkamara a 12. § (2a) bekezdésben meghatározott megállapodásban foglaltak szerint számol be a részére nyújtott támogatás vagy díjazás felhasználásáról.
 
 (5) A Kormány döntésével a kamara részére közhasznú feladatai ellátásához szükséges állami ingatlan tulajdonjoga ingyenesen átruházható, továbbá ingatlan tulajdonjogának vagy használatának megszerzéséhez támogatás nyújtható.
 
@@ -633,7 +741,7 @@ használhatja fel.
 
 42. § (1) Az agrárkamara a (2) bekezdésben foglalt kivétellel üzletszerűen – nyereség és vagyonszerzés céljából – termelő, kereskedelmi vagy szolgáltató tevékenységet nem folytathat, gazdasági társaságnak nem lehet tagja és ilyen társaságban nem szerezhet részesedést.
 
-(2) Az agrárkamara – gazdasági tevékenységet is igénylő közfeladatainak ellátása érdekében – 100%-os tulajdonában álló gazdasági társaságot alapíthat, a gazdasági tevékenység során elért adózott eredményét azonban kizárólag csak az agrárkamara feladatkörébe tartozó célokra fordíthatja.
+(2) Az agrárkamara – gazdasági tevékenységet is igénylő közfeladatainak ellátása érdekében – gazdasági társaságot alapíthat, továbbá részesedést szerezhet gazdasági társaságban azzal, hogy az érintett gazdasági társaságban az agrárkamarát megillető adózott eredményt kizárólag az agrárkamara feladatkörébe tartozó célokra fordíthatja.
 
 (3) Az agrárkamara közfeladatainak ellátása érdekében csak olyan gazdasági társaságnak lehet tagja, illetve olyan társaságban szerezhet részesedést, amelyben felelőssége vagyoni hozzájárulásának mértékét nem haladja meg.
 
@@ -641,7 +749,7 @@ használhatja fel.
 
 ### IX. Fejezet — AZ AGRÁRKAMARA ÁLLAMI FELÜGYELETE ÉS ÖNKORMÁNYZATI HATÁROZATAINAK BÍRÓSÁGI FELÜLVIZSGÁLATA
 
-43. § (1) Az agrárkamara felett az ügyészség az – e törvényben foglalt kivételekkel – az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol. Az ellenőrzés nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+43. § (1) Az agrárkamara felett az ügyészség – az e törvényben foglalt kivételekkel – az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol. Az ellenőrzés nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
 
 (2) Az ügyészség ellenőrzi, hogy az agrárkamara
 
@@ -656,7 +764,7 @@ használhatja fel.
 
 (4) A felügyelőbiztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az agrárkamara országos küldöttgyűlését. Amennyiben a bíróság az elnök vagy az elnökség működését függesztette fel, a felügyelőbiztos a halaszthatatlan ügyekben intézkedik az elnök, illetve az elnökség jogkörében.
 
-44. § (1) Az agrárkamara tagja a sérelmesnek vélt határozat közzétételét követő harminc napon belül kérheti a bíróságtól az agrárkamara valamely testületi szerve vagy tisztségviselője által a kamarai önkormányzati jogkörben, illetve közfeladat ellátási hatáskörben hozott határozatának felülvizsgálatát, amely e törvény rendelkezéseibe, más jogszabályba, az alapszabályba vagy más önkormányzati szabályzatába ütközik.
+44. § (1) Az agrárkamara tagja – a (6) bekezdésben foglalt eset kivételével – a határozat közzétételét követő harminc napon belül kérheti a bíróságtól az agrárkamara valamely testületi szerve vagy tisztségviselője által kamarai önkormányzati jogkörben hozott, e törvény rendelkezéseibe, más jogszabályba, az alapszabályba vagy más önkormányzati szabályzatába ütköző határozatának felülvizsgálatát.
 
 (2) Perindítás előtt a tag köteles a jogsértést az ellenőrző bizottságnak bejelenteni.
 
@@ -665,6 +773,8 @@ használhatja fel.
 (4) A pert a tagnak az ellenőrző bizottság állásfoglalásától, vagy a (3) bekezdés szerinti határidő eredménytelen elteltétől számított harminc napon belül kell megindítania. A perindításnak nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
 
 (5) A (4) bekezdésben megállapított határidő elmulasztása esetén igazolásnak nincs helye. A bíróság eljárására egyebekben a polgári perrendtartásról szóló törvény szabályait kell alkalmazni.
+
+(6) Az (1)–(3) bekezdéstől eltérően, ha az agrárkamara tagja szerint az általa fizetendő tagdíjat és más pénzügyi kötelezettséget megállapító határozat e törvény rendelkezéseibe, más jogszabályba, az alapszabályba vagy más önkormányzati szabályzatba ütközik, az alapszabályban meghatározottak szerinti határidőben és módon jogorvoslattal élhet. A jogorvoslat kérdésében eljáró szerv 90 napon belül jár el. A tag a jogorvoslati kérelem elbírálásáról szóló döntés közlésétől, vagy a döntésre nyitva álló határidő eredménytelen elteltétől számított harminc napon belül bírósághoz fordulhat. A határidő elmulasztása ellen igazolásnak nincs helye. Egyebekben a (4) és (5) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 ### X. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -773,7 +883,7 @@ használhatja fel.
 
 51. § A Magyar Agrárkamara mellett működő Állandó Választottbíróság előtti folyamatban levő eljárásokat e törvény hatálybalépése nem érinti.
 
-52. §
+#### 52. §
 
 53. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
@@ -792,265 +902,65 @@ használhatja fel.
 
 (2) E törvénynek a Mód. tv. 15–16. §-ában foglalt rendelkezések alapján az agrárgazdasági tevékenységet folytató gazda, gazdálkodó szervezet tagsági viszonya e törvény alapján 2014. január 1. napjával keletkezik.
 
+57. § Az agrárkamarával munkavállalói, megbízási, tisztségviselői jogviszonyban állók tekintetében a saját tulajdonú jármű, saját tulajdonú személygépkocsi alatt kell érteni a munkavégzéshez, munkába járáshoz használt más személy tulajdonában álló, de az érintett személy által jogszerűen használt járművet. E rendelkezést a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2014. évi CX. törvény (a továbbiakban: 2014. évi CX. törvény) hatálybalépése napjáig elszámolt kiadásokra is alkalmazni kell.
+
+58. § (1) E törvénynek a 2014. évi CX. törvény 8. §-ával megállapított 11. § (1) bekezdésében foglalt rendelkezését a 2014. évi CX. törvény hatálybalépésekor folyamatban levő kamarai tagdíj megállapításával összefüggő eljárásban is alkalmazni kell.
+
+(2) E törvénynek a 2014. évi CX. törvénnyel megállapított 44. § (1) és (6) bekezdését a 2014. évi CX. törvény hatálybalépését követően hozott határozatok esetében kell alkalmazni.
+
+(3) A 2014. évi CX. törvény hatálybalépésének napján földművesként vagy mezőgazdasági termelőszervezetként nyilvántartott személyek 2015. január 1-ével válnak az agrárkamara tagjává.
+
 ### 1. melléklet a 2012. évi CXXVI. törvényhez
 
-| Az agrárkamara tagjai az önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) alapján: |  |
+Az agrárkamara tagjai az önálló vállalkozók tevékenységi jegyzéke ( ÖVTJ) alapján:
+
+| 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások [kivéve 016302 koszorú-, és virágkötés nem saját termelésű növényből (nem művirágból)] |
 | --- | --- |
-| 011101 | Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése m.n.s. |
-| 011102 | Máktermesztés |
-| 011103 | Brikett, pellet gyártása gabonafélékből |
-| 011201 | Rizstermesztés |
-| 011301 | Zöldségféle, dinnye, gyökér-, gumósnövény termesztése m.n.s. |
-| 011401 | Cukornádtermesztés |
-| 011402 | Brikett, pellet gyártása cukornádból |
-| 011501 | Dohánytermesztés |
-| 011601 | Rostnövénytermesztés m.n.s. |
-| 011602 | Kendertermesztés |
-| 011901 | Egyéb, nem évelő növény termesztése m.n.s. |
-| 011902 | Dísznövény- és virágtermesztés |
-| 011903 | Koszorú- és virágkötés saját termesztésű növényből (nem művirágból) |
-| 011905 | Brikett, pellet gyártása egyéb nem évelő növényből |
-| 012101 | Szőlőtermesztés |
-| 012201 | Trópusi gyümölcs termesztése |
-| 012301 | Citrusfélék termesztése |
-| 012401 | Almatermésű, csonthéjas termesztése |
-| 012501 | Egyéb gyümölcs, héjastermésű termesztése |
-| 012601 | Olajtartalmú gyümölcs termesztése |
-| 012701 | Italgyártási növény termesztése |
-| 012801 | Fűszer-, aromanövény termesztése m.n.s. |
-| 012802 | Gyógynövénytermesztés |
-| 012803 | Gyógyszeralapanyag-termesztés |
-| 012901 | Egyéb évelő növény termesztése m.n.s. |
-| 012902 | Nádgazdasági és fűztelepi tevékenység |
-| 012903 | Karácsonyfa termesztése |
-| 012904 | Brikett, pellet gyártása egyéb évelő növényből |
-| 013001 | Zöldség-szaporítóanyag termesztése m.n.s. |
-| 013002 | Dísznövényszaporítóanyag-termesztés |
-| 013003 | Gyümölcs-, szőlő-, díszfaiskola |
-| 013004 | Egyéb kertészeti szaporítóanyag termesztése |
-| 014101 | Tejhasznú szarvasmarha, bivaly tenyésztése |
-| 014201 | Egyéb szarvasmarha tenyésztése |
-| 014301 | Ló, lóféle tenyésztése |
-| 014501 | Juh, kecske tenyésztése |
-| 014601 | Sertéstenyésztés |
-| 014701 | Baromfitenyésztés |
-| 014901 | Egyéb állat tenyésztése m.n.s. |
-| 014902 | Méhészet |
-| 014903 | Hobbiállat tenyésztése |
-| 014904 | Egyéb állati termékek termelése |
-| 014905 | Nyúl tenyésztése |
-| 015001 | Vegyes gazdálkodás (növénytermesztés állattenyésztéssel, egyik részaránya sem éri el a 66%-ot) |
-| 016101 | Növénytermesztési szolgáltatás géppel m.n.s. |
-| 016102 | Növénytermesztési szolgáltatás kézi erővel |
-| 016103 | Mezőgazdasági kártevőirtás |
-| 016201 | Állattenyésztési szolgáltatás |
-| 016301 | Betakarítást követő szolgáltatás m.n.s. |
-| 016401 | Vetési célú magfeldolgozás |
-| 017001 | Vadgazdálkodási szolgáltatás |
-| 021001 | Erdészeti, egyéb erdőgazdálkodási tevékenység |
-| 022001 | Fakitermelés saját jogon |
-| 022002 | Brikett, pellet gyártása fahulladékból |
-| 022003 | Faszéntermelés az erdőben (hagyományos módszerrel előállítva) |
-| 023001 | Erdőgazdálkodói haszonvételek gyakorlása (vadon termő egyéb erdei termék gyűjtése) |
-| 023002 | Éti csiga gyűjtése |
-| 024001 | Erdészeti szolgáltatás m.n.s. |
-| 024002 | Erdészeti bérmunka |
-| 024003 | Kézi és gépi fakitermelés bérmunkában |
-| 031201 | Édesvízi halászat |
-| 032201 | Édesvízi halgazdálkodás |
-| 101101 | Húsfeldolgozás, -tartósítás m.n.s. |
-| 101102 | Vágóállatok vágása |
-| 101201 | Baromfihús feldolgozása, tartósítása m.n.s. |
-| 101202 | Baromfikopasztás |
-| 101301 | Húskészítmény gyártása |
-| 101302 | Baromfihús-készítmény gyártása |
-| 101303 | Hús-, baromfihús-készítmény gyártástól elkülönült füstölése |
-| 101304 | Húskonzervek gyártása |
-| 102001 | Halfeldolgozás, -tartósítás |
-| 103101 | Burgonyafeldolgozás, -tartósítás (nem saját termelésű alapanyagból) |
-| 103102 | Burgonyafeldolgozás, -tartósítás (saját termelésű alapanyagból) |
-| 103201 | Gyümölcs-, zöldséglé gyártása (nem saját termelésű alapanyagból) m.n.s. |
-| 103202 | Zöldséglé gyártása (saját termelésű alapanyagból) |
-| 103203 | Szőlőlé gyártása (saját termelésű alapanyagból) |
-| 103204 | Gyümölcslé gyártása (saját termelésű alapanyagból) |
-| 103901 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás m.n.s. |
-| 103902 | Savanyúságkészítés (nem saját termelésű alapanyagból) |
-| 103903 | Savanyúságkészítés (saját termelésű alapanyagból) |
-| 103910 | Egyéb zöldségfeldolgozás, -tartósítás (saját termelésű alapanyagból) |
-| 104101 | Olaj gyártása (nem saját termelésű alapanyagból) |
-| 104102 | Olaj gyártása (saját termelésű alapanyagból) |
-| 104201 | Margarin gyártása (nem saját termelésű alapanyagból) m.n.s. |
-| 104202 | Margarin gyártása (saját termelésű alapanyagból) |
-| 105101 | Tejtermék készítése (nem saját termelésű alapanyagból) m.n.s. |
-| 105102 | Tejtermék készítés (saját termelésű tehéntejből) |
-| 105103 | Tejtermék készítés (saját termelésű juh-, kecsketejből) |
-| 105201 | Jégkrém gyártása |
-| 106101 | Malomipari termék gyártása m.n.s. |
-| 106102 | Gabonafélék bérdarálása |
-| 106201 | Keményítő, keményítőtermék gyártása |
-| 107101 | Kenyér, péksütemény és egyéb pékáru gyártása m.n.s. |
-| 107201 | Egyéb tartósított lisztes készítmény és sütemény gyártása m.n.s. |
-| 107202 | Keksz- és ostyagyártás |
-| 107203 | Mézeskalács-készítés |
-| 107301 | Tésztafélék gyártása |
-| 108101 | Cukorgyártás |
-| 108201 | Édesség gyártása m.n.s. |
-| 108202 | Cukorkakészítés |
-| 108203 | Csokoládé és csokoládékészítmények gyártása |
-| 108204 | Kakaó és kakaókészítmények gyártása |
-| 108301 | Tea, kávé feldolgozása |
-| 108401 | Fűszer, ételízesítő gyártása m.n.s. |
-| 108402 | Paprika darálása, mesterséges szárítása |
-| 108501 | Készétel gyártása |
-| 108601 | Homogenizált, diétás étel gyártása |
-| 108901 | M.n.s. egyéb élelmiszer gyártása |
-| 109101 | Haszonállat-eledel gyártása |
-| 109201 | Hobbiállat-eledel gyártása |
-| 110101 | Desztillált szeszes ital gyártása m.n.s. |
-| 110102 | Pálinka készítése (nem saját termelésű alapanyagból) |
-| 110103 | Etilalkohol gyártása |
-| 110104 | Pálinka készítése (saját termelésű alapanyagból) |
-| 110201 | Bortermelés (nem saját termelésű alapanyagból) m.n.s. |
-| 110202 | Pezsgőtermelés |
-| 110203 | Szőlőmust-, bortermelés (saját termelésű alapanyagból) |
-| 110301 | Gyümölcsbor termelése (nem saját termelésű alapanyagból) m.n.s. |
-| 110302 | Gyümölcsbortermelés (saját termelésű alapanyagból) |
-| 110401 | Egyéb nem desztillált, erjesztett ital gyártása |
-| 110501 | Sörgyártás |
-| 110601 | Malátagyártás |
-| 110701 | Ásványvíz és forrásvíz palackozása |
-| 110702 | Szikvízkészítés |
-| 110703 | Alkoholmentes (üdítő)ital gyártása |
-| 120001 | Dohánytermék gyártása |
-| 201501 | Műtrágya, nitrogénvegyület gyártása |
-| 201502 | Virágföld előállítása |
-| 212002 | Gyógynövény-feldolgozás |
-| 461101 | Mezőgazdasági termék ügynöki nagykereskedelme |
-| 462101 | Gabona-, vetőmag-, takarmány- és egyéb növényiszaporítóanyag-nagykereskedelem |
-| 462102 | Feldolgozatlan dohány nagykereskedelme |
-| 462103 | Mezőgazdasági növény, gyógynövény, egyéb m.n.s. mezőgazdasági nyersanyag felvásárlása |
-| 462104 | Feldolgozatlan dohány külkereskedelem |
-| 462105 | Gabona, vetőmag, takarmány külkereskedelem |
-| 462201 | Dísznövény-nagykereskedelem |
-| 462202 | Dísznövény-külkereskedelem |
-| 462301 | Élőállat nagykereskedelme m.n.s. |
-| 462302 | Mezőgazdasági állatfelvásárlás |
-| 462303 | Élőállat-külkereskedelem |
-| 466101 | Mezőgazdasági gép, berendezés nagykereskedelme m.n.s. |
-| 467503 | Növényvédőszer-nagykereskedelem |
+| 02 | Erdőgazdálkodás |
+| 03 | Halászat, halgazdálkodás |
+| 10 | Élelmiszergyártás |
+| 11 | Italgyártás |
+| 12 | Dohánytermék gyártása |
+| 2015 | Műtrágya, nitrogénvegyület gyártása |
+| 2020 | Mezőgazdasági vegyi termék gyártása |
+| 2120 | Gyógyszerkészítmény gyártásból a gyógynövény feldolgozás |
+| 3821 | Nem veszélyes hulladék kezelése, ártalmatlanítása szakágazatból: komposztálás |
+| 4611 | Mezőgazdasági termék ügynöki nagykereskedelme |
+| 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
+| 463 | Élelmiszer, ital, dohányáru nagykereskedelme |
+| 4661 | Mezőgazdasági gép, berendezés nagykereskedelme |
+| 467503 | Növényvédőszer nagykereskedelem |
 | 467504 | Műtrágya nagykereskedelem |
 | 749005 | Mezőgazdasági, vadgazdálkodási, erdőgazdálkodási szakmai tervezés, szakértés |
+| 749013 | Falugazdász tevékenység |
+| 749031 | Haszonállatok törzskönyvezése |
 | 749040 | Gombaszakértés |
+| 749049 | Igazságügyi szakértés mezőgazdasági, erdő- és vadgazdálkodási, élelmiszeripari területen |
+| 7731 | Mezőgazdasági gép kölcsönzése |
 | 773903 | Gazdasági haszonállatok kölcsönzése |
-| 910401 | Növény-, állatkert, természetvédelmi terület működtetése |
-| 463101 | Zöldség-gyümölcs nagykereskedelem m.n.s. |
-| 463102 | Zöldség-gyümölcs külkereskedelem |
-| 463201 | Hús, húskészítmény nagykereskedelme m.n.s. |
-| 463202 | Hús, húskészítmény külkereskedelme |
-| 463301 | Tejtermék, tojás, zsiradék nagykereskedelme m.n.s. |
-| 463302 | Tejtermék, tojás, zsiradék külkereskedelme |
-| 463501 | Dohányáru nagykereskedelem |
-| 463502 | Dohányáru külkereskedelem |
-| 461101 | Mezőgazdasági termék ügynöki nagykereskedelme |
-| 462101 | Gabona-, vetőmag-, takarmány- és egyéb növényiszaporítóanyag-nagykereskedelem |
-| 462102 | Feldolgozatlan dohány nagykereskedelme |
-| 462201 | Dísznövény-nagykereskedelem |
-| 462301 | Élőállat nagykereskedelme m.n.s. |
-| 466101 | Mezőgazdasági gép, berendezés nagykereskedelme m.n.s. |
-| 463101 | Zöldség-gyümölcs nagykereskedelem m.n.s. |
-| 463201 | Hús, húskészítmény nagykereskedelme m.n.s. |
-| 463202 | Hús, húskészítmény külkereskedelme |
-| 463301 | Tejtermék, tojás, zsiradék nagykereskedelme m.n.s. |
-| 463501 | Dohányáru nagykereskedelem |
+| 881003 | Falugondnoki és tanyagondnoki szolgáltatás |
 
 ### 2. melléklet a 2012. évi CXXVI. törvényhez
 
-| Az agrárkamara tagjai a tevékenységek egységes ágazati osztályozás rendjének (TEÁOR) jegyzéke alapján: |  |
+Az agrárkamara tagjai a tevékenységek egységes ágazati osztályozás rendjének (TEÁOR) jegyzéke alapján:
+
+| 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 | --- | --- |
-| 0111 | Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése |
-| 0112 | Rizstermesztés |
-| 0113 | Zöldségféle, dinnye, gyökér-, gumósnövény termesztése |
-| 0114 | Cukornádtermesztés |
-| 0115 | Dohánytermesztés |
-| 0116 | Rostnövénytermesztés |
-| 0119 | Egyéb, nem évelő növény termesztése |
-| 0121 | Szőlőtermesztés |
-| 0122 | Trópusi gyümölcs termesztése |
-| 0123 | Citrusféle termesztése |
-| 0124 | Almatermésű csonthéjas termesztése |
-| 0125 | Egyéb gyümölcs, héjastermésű termesztése |
-| 0126 | Olajtartalmú gyümölcs termesztése |
-| 0127 | Italgyártási növény termesztése |
-| 0128 | Fűszer-, aroma-, narkotikus-, gyógynövény termesztése |
-| 0129 | Egyéb évelő növény termesztése |
-| 0130 | Növényi szaporítóanyag termesztése |
-| 0141 | Tejhasznú szarvasmarha tenyésztése |
-| 0142 | Egyéb szarvasmarha tenyésztése |
-| 0143 | Ló, lóféle tenyésztése |
-| 0145 | Juh, kecske tenyésztése |
-| 0146 | Sertéstenyésztés |
-| 0147 | Baromfitenyésztés |
-| 0149 | Egyéb állat tenyésztése |
-| 0150 | Vegyes gazdálkodás |
-| 0161 | Növénytermesztési szolgáltatás |
-| 0162 | Állattenyésztési szolgáltatás |
-| 0163 | Betakarítást követő szolgáltatás |
-| 0164 | Vetési célú magfeldolgozás |
-| 0170 | Vadgazdálkodás, vadgazdálkodási szolgáltatás |
-| 0210 | Erdészeti, egyéb erdőgazdálkodási tevékenység |
-| 0220 | Fakitermelés |
-| 0230 | Vadon termő egyéb erdei termék gyűjtése |
-| 0240 | Erdészeti szolgáltatás |
-| 0311 | Tengeri halászat |
-| 0312 | Édesvízi halászat |
-| 0321 | Tengerihal-gazdálkodás |
-| 0322 | Édesvízihal-gazdálkodás |
-| 1011 | Húsfeldolgozás, -tartósítás |
-| 1012 | Baromfihús feldolgozása, tartósítása |
-| 1013 | Hús-, baromfihús-készítmény gyártása |
-| 1020 | Halfeldolgozás, -tartósítás |
-| 1031 | Burgonyafeldolgozás, -tartósítás |
-| 1032 | Gyümölcs-, zöldséglé gyártása |
-| 1039 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás |
-| 1041 | Olaj gyártása |
-| 1042 | Margarin gyártása |
-| 1051 | Tejtermék gyártása |
-| 1052 | Jégkrém gyártása |
-| 1061 | Malomipari termék gyártása |
-| 1062 | Keményítő, keményítőtermék gyártása |
-| 1071 | Kenyér; friss pékáru gyártása |
-| 1072 | Tartósított lisztes áru gyártása |
-| 1073 | Tésztafélék gyártása |
-| 1081 | Cukorgyártás |
-| 1082 | Édesség gyártása |
-| 1083 | Tea, kávé feldolgozása |
-| 1084 | Fűszer, ételízesítő gyártása |
-| 1085 | Készétel gyártása |
-| 1086 | Homogenizált, diétás étel gyártása |
-| 1089 | M.n.s. egyéb élelmiszer gyártása |
-| 1091 | Haszonállat-eledel gyártása |
-| 1092 | Hobbiállat-eledel gyártása |
-| 1101 | Desztillált szeszes ital gyártása |
-| 1102 | Szőlőbor termelése |
-| 1103 | Gyümölcsbor termelése |
-| 1104 | Egyéb nem desztillált, erjesztett ital gyártása |
-| 1105 | Sörgyártás |
-| 1106 | Malátagyártás |
-| 1107 | Üdítőital, ásványvíz gyártása |
-| 1200 | Dohánytermék gyártása |
+| 02 | Erdőgazdálkodás |
+| 03 | Halászat, halgazdálkodás |
+| 10 | Élelmiszer gyártás |
+| 11 | Italgyártás |
+| 12 | Dohánytermék gyártása |
 | 2015 | Műtrágya, nitrogénvegyület gyártása |
 | 2020 | Mezőgazdasági vegyi termék gyártása |
+| 2120 | Gyógyszerkészítmény gyártásából: a gyógynövény feldolgozása |
+| 3821 | Nem veszélyes hulladék kezelése, ártalmatlanítása szakágazatból: komposztálás |
 | 4611 | Mezőgazdasági termék ügynöki nagykereskedelme |
-| 4621 | Gabona, dohány, vetőmag, takarmány nagykereskedelme |
-| 4622 | Dísznövény nagykereskedelme |
-| 4623 | Élőállat nagykereskedelme |
+| 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
+| 463 | Élelmiszer, ital, dohányáru nagykereskedelme |
 | 4661 | Mezőgazdasági gép, berendezés nagykereskedelme |
-| 8130 | Zöldterület-kezelés |
-| 9104 | Növény-, állatkert, természetvédelmi terület működtetése |
-| 4631 | Zöldség-gyümölcs nagykereskedelem |
-| 4632 | Hús, húskészítmény nagykereskedelem |
-| 4633 | Tejtermék, tojás, zsiradék nagykereskedelem |
-| 4635 | Dohányáru nagykereskedelem |
-| 4675 | Vegyiáru-nagykereskedelemből műtrágya és egyéb agrokémiai termékek nagykereskedelme |
-| 7490 | Mezőgazdasági, vadgazdálkodási, erdőgazdálkodási szakmai tervezés, szakértés |
-| 7739 | Gazdasági haszonállatok kölcsönzése |
+| 4675 | Vegyiáru-nagykereskedelemből: a műtrágya és egyéb agrokémiai termékek nagykereskedelme |
+| 7490 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenységből mezőgazdasági: a erdőgazdasági, vadgazdálkodási tanácsadás, haszonállatok törzskönyvezése, falugazdász tevékenység, gombaszakértés, igazságügyi szakértés mezőgazdasági, erdő- és vadgazdálkodási, élelmiszeripari területen |
+| 7731 | Mezőgazdasági gép kölcsönzése |
+| 7739 | Egyéb gép, tárgyi eszköz kölcsönzéséből: gazdasági haszonállatok kölcsönzése |
+| 8810 | Idősek, fogyatékosok szociális ellátása bentlakás nélkül szakágazatból: a falugondnoki és tanyagondnoki szolgáltatás |

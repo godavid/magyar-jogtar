@@ -143,7 +143,7 @@ irányul.
 
 (12)–(13)
 
-(14) Az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítésben államilag támogatott iskolai rendszerű szakképzés kizárólag az agrárpolitikáért felelős miniszter által alapított és fenntartott szakképző iskolában, vagy nem állami fenntartó esetén – az agrárpolitikáért felelős miniszter egyetértésével kötött – szakképzési megállapodás alapján folyhat.
+(14) Az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítésben államilag támogatott iskolai rendszerű szakképzés kizárólag az agrárpolitikáért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszeriparért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a földügyért felelős miniszter, a halgazdálkodásért felelős miniszter, az ingatlan-nyilvántartásért felelős miniszter, a környezetvédelemért felelős miniszter, a természetvédelemért felelős miniszter, a térképészetért felelős miniszter vagy a vadgazdálkodásért felelős miniszter által alapított és fenntartott szakképző iskolában folyhat.
 
 (15) A szakképző iskola (14) bekezdés szerinti fenntartója szakképzési feladatait egyetlen szakképző iskola fenntartásával látja el, kivéve, ha a szakképző iskolai tanulói létszám az adott fenntartó esetében meghaladja a tízezret. Ebben az esetben az állami fenntartó több szakképző iskola fenntartásával is elláthatja a szakképzési feladatokat úgy, hogy valamennyi szakképző iskola tanulói létszáma az ötezer főt meghaladja. A létszám számítására a (3) bekezdés rendelkezéseit kell alkalmazni.
 
@@ -698,7 +698,7 @@ kezeli.
   - ab) alapítvány, egyesület, egyházi jogi személy,
   - ac) ab) alpontban meghatározottak fenntartásában működő intézmény, továbbá
 - b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő,
-- c) az agrárpolitikáért felelős miniszter az általa fenntartott szakképző iskola tanulója tekintetében, amennyiben a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében – az 5. § (14) bekezdése szerinti szakképesítésre történő felkészítés keretében – vesz részt gyakorlati képzésen.
+- c) az 5. § (14) bekezdése szerinti miniszter az általa fenntartott szakképző iskola tanulója tekintetében, amennyiben a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében – az 5. § (14) bekezdése szerinti szakképesítésre történő felkészítés keretében – vesz részt gyakorlati képzésen.
 
 (3) A nyilvántartást a tanuló gyakorlati képzését vállaló kérelmező telephelye szerinti területileg illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
 
@@ -1427,7 +1427,7 @@ kezeli.
 
 (8) A (3) bekezdés a) pontja szerinti azonos térségi integrált szakképző központ tagja lehet egy vagy több állami fenntartó és egy vagy több állami fenntartónak az 5. § (1)–(4) bekezdése szerint, a fővárosban és Pest megyében működő legalább kettő szakképző iskolája.
 
-(9) Az 5. § (1)–(3) bekezdése szerinti feltételek teljesítéséhez szükséges döntést a szakképző iskola fenntartója 2015. május 31-ig hozza meg azzal, hogy a döntés alapján a szakképző iskola legkésőbb 2015. szeptember 1-jétől kizárólag az 5. § (1)–(3) bekezdése szerint működhet.
+(9) Az 5. § (1)–(3) bekezdése szerinti feltételek teljesítéséhez szükséges döntést a szakképző iskola fenntartója 2015. július 31-éig hozza meg azzal, hogy a döntés alapján a szakképző iskola legkésőbb 2015. szeptember 1-jétől kizárólag az 5. § (1)–(3) bekezdése szerint működhet.
 
 (10) Az e törvény hatálybalépése előtti napot megelőzően az Szt. 2. § (5)–(6) bekezdése szerint megalakult térségi integrált szakképző központ 2013. augusztus 31-ig az Szt. e törvény hatálybalépése előtti napon hatályos 2. § (5)–(6) bekezdése és a Kt. e törvény hatálybalépése napján hatályos 89/B. §-a szerint működhet tovább, de 2013. szeptember 1-jét követően csak abban az esetben minősül térségi integrált szakképző központnak,
 
@@ -1503,7 +1503,7 @@ kezeli.
 
 (3) Az 5. § (14) bekezdésében meghatározottak megvalósításához szükséges intézmény-átadást legkésőbb 2013. augusztus 1-jei hatállyal végre kell hajtani az agrárpolitikáért felelős miniszter és az oktatásért felelős miniszter által – a szakképzésért és felnőttképzésért felelős miniszter egyetértésével – 2013. március 31-ig megkötött megállapodás szerint, az abban rögzített szakképző iskolákat és feladatellátási helyeket érintően, a 2013. május 31-ig – az e bekezdés szerinti megállapodás végrehajtására – meghozott fenntartói döntések figyelembevételével. Az agrárpolitikáért felelős miniszter a fenntartásában lévő szakképző iskolákat fenntartja és működteti az átadás napjától. Az állami intézményfenntartó központ a megállapodás szerint az agrárpolitikáért felelős miniszternek átadásra kerülő szakképző iskolák feladatellátását szolgáló vagyont – legalább a 2013. január 1-jei állapot szerint – maradéktalanul rendelkezésre bocsátja az átadás napjától.
 
-(4) Az állami intézményfenntartó központ dönt a szükséges átszervezésekről, ha olyan szakképző iskolának az agrárpolitikáért felelős miniszter fenntartásába való átadásáról születik a (3) bekezdés szerinti megállapodásban döntés, amely a nemzeti köznevelésről szóló törvény 7. § (5) bekezdése alapján meghatározott szakképesítésekre való felkészítésen kívül más feladatokat is ellát. Az agrárpolitikáért felelős miniszternek átadásra kerülő szakképző iskola az állami intézményfenntartó központ döntése szerint kifutó rendszerben elláthat a nemzeti köznevelésről szóló törvény 7. § (5) bekezdésében foglalt szakképesítésekre való felkészítésen kívül más szakképzési feladatot is.
+(4) Az állami intézményfenntartó központ dönt a szükséges átszervezésekről, ha olyan szakképző iskolának az 5. § (14) bekezdése szerinti miniszter fenntartásába való átadásáról születik a (3) bekezdés szerinti megállapodásban döntés, amely a nemzeti köznevelésről szóló törvény 7. § (5) bekezdése alapján meghatározott szakképesítésekre való felkészítésen kívül más feladatokat is ellát. Az 5. § (14) bekezdése szerinti miniszternek átadásra kerülő szakképző iskola az állami intézményfenntartó központ döntése szerint kifutó rendszerben elláthat a nemzeti köznevelésről szóló törvény 7. § (5) bekezdésében foglalt szakképesítésekre való felkészítésen kívül más szakképzési feladatot is.
 
 (5) A 2015/2016. tanév előtt megkezdett képzés kifutó rendszerben befejezhető anélkül, hogy alkalmazni kellene a szakképző iskolára az 5. § (1)–(4) bekezdéséből következő intézményátszervezési kötelezettséget, ha az állami intézményfenntartó központnak a 92. § (9) bekezdésében foglalt határidőig meghozott döntése alapján a szakképző iskolában kifutó rendszerben a 2015/2016. tanévtől megszűnik a szakképzés vagy a szakképző iskola a 2015/2016. tanévtől felmenő rendszerben kizárólag a művészeti szakmacsoportba tartozó szakképzési feladatokat lát el.
 
@@ -1518,6 +1518,10 @@ kezeli.
 (10) Ha az Szt. 2. § (6) bekezdése szerint vagy a Kt. 89/B. § (13) bekezdése szerint létrejött gazdasági társaság az uniós támogatás kedvezményezettje és legalább egy tulajdonosa olyan önkormányzat, amely 2012. december 31-ig szakképző iskola fenntartója volt, úgy – eltérő megállapodás hiányában – 2013. január 1-jét követően is a gazdasági társaság a 92. § (6) bekezdése szerint kijelölt jogi személy. Ebben az esetben az állami intézményfenntartó központ köteles együttműködni a fenntartási kötelezettség teljesítése érdekében az e bekezdés szerinti gazdasági társasággal és a térségi integrált szakképző központ tagjaival, azonban az uniós támogatásban részesült projekt fenntartási kötelezettségével összefüggésben költségviselésre nem kötelezhető. Az állami intézményfenntartó nem szerez tulajdonrészt a gazdasági társaságban, azonban ingyenes használati jog illeti meg a (8) bekezdésben foglaltak szerint.
 
 (11) A szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket a szakképzési megállapodás megkötése nélkül is befejezheti, a szakképzési megállapodás megkötése, tartalma vagy annak hiánya a szakképző iskolai fenntartónak a 2013/2014-es tanévben vagy ezt követően indított szakmai képzéseivel kapcsolatos jogosultságaira vonatkozik.
+
+92/B. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 5/A. § (1) bekezdésében meghatározottak megvalósításához szükséges szakképzési feladat- és intézményátadást 2015. július 1-jei hatállyal kell végrehajtani. Az átadásra kerülő szakképzési feladatot szolgáló humán erőforrást, ingatlant, ingóságot és vagyoni értékű jogot a szakképzésért és felnőttképzésért felelős miniszternek az állami intézményfenntartó központ a kezelésében lévő eszköz esetén átadja, a használatában lévő eszköz esetén rendelkezésére bocsátja az átadás napjától, legalább a 2015. január 1-jei állapot szerint.
+
+(2) Az állami intézményfenntartó központ által fenntartott intézmény esetében az oktatásért felelős miniszter a nemzeti köznevelésről szóló 2011. évi CXC. törvény 84. § (7) bekezdése szerinti, szakképzési feladatellátást érintő döntést kizárólag a szakképzésért és felnőttképzésért felelős miniszter egyetértésével hozhat.
 
 #### 56. Az Európai Unióra vonatkozó és nemzetközi vonatkozású rendelkezések
 

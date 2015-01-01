@@ -29,7 +29,7 @@ Stt.3. § (1) E törvényben meghatározott statisztikai tevékenység ellátás
 - d) a Legfőbb Ügyészség;
 - e) a Magyar Nemzeti Bank;
 - f) a Gazdasági Versenyhivatal;
-- g) az Országos Műszaki Fejlesztési Bizottság;
+- g) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal;
 - h) a Magyar Energetikai és Közmű-szabályozási Hivatal;
 - i) az agrárpolitikáért felelős miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet.
 
@@ -229,13 +229,16 @@ Stt.8/A. § (1) A jogi személynek, valamint a gazdasági tevékenységet folyta
 
 - a) egyéni vállalkozói tevékenység esetében a tevékenység megkezdéséről szóló bejelentés az illetékes hatósághoz történő benyújtásával;
 - b) ha üzletszerű gazdasági tevékenységet csak a cégbejegyzés iránti kérelem benyújtását követően folytathat, az illetékes cégbírósághoz intézett cégbejegyzés iránti kérelem benyújtásával;
-- c) az a)–b) pont alá nem tartozó esetben az állami adóhatóságnál történő bejelentkezési kötelezettség teljesítésével egyidejűleg a statisztikai számjel megállapítása céljára rendszeresített adatgyűjtési nyomtatvány kitöltésével.
+- c) – a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásában szereplő szervezet – a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásába történő bejegyzése iránti kérelem, illetve változásbejegyzési kérelem benyújtásával,
+- d) az a)–c) pont alá nem tartozó esetben az állami adó- és vámhatóságnál történő bejelentkezési kötelezettség teljesítésével egyidejűleg a statisztikai számjel megállapítása céljára rendszeresített adatgyűjtési nyomtatvány kitöltésével.
 
-(3) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság, illetve a cégbíróság az erre a célra szolgáló számítógépes rendszer útján közli a KSH-val a statisztikai számjel megállapításához szükséges, az egyéni vállalkozói tevékenység bejelentése, illetve a cégbejegyzés érdekében kitöltött nyomtatványon rendelkezésre álló adatok közül az érintett nevét (cégnevét), valamint címét (székhelyét) és ezen túlmenően a főtevékenységét is.
+(3) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság, a cégbíróság, illetve a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bíróság az erre a célra szolgáló számítógépes rendszer útján közli a KSH-val a statisztikai számjel megállapításához szükséges, az egyéni vállalkozói tevékenység bejelentése, a cégbejegyzés, illetve a civil és egyéb cégnek nem minősülő szervezetek bejegyzése érdekében kitöltött nyomtatványon rendelkezésre álló adatok közül az érintett nevét (cégnevét), valamint címét (székhelyét) és ezen túlmenően a főtevékenységét is.
 
-(4) A KSH a (3) bekezdésben meghatározott adatok alapján, az erre a célra szolgáló számítógépes rendszer útján haladéktalanul közli a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal), a cégbírósággal, valamint az állami adóhatósággal a (2) bekezdés a) és b) pontjában meghatározottak statisztikai számjelét, illetve az ok megjelölésével értesíti a megkereső szervezetet a statisztikai számjel megállapításának megtagadásáról. A (2) bekezdés c) pontjában meghatározottak statisztikai számjelükről – kérésükre – írásban kapnak értesítést.
+(4) A KSH a (3) bekezdésben meghatározott adatok alapján, az erre a célra szolgáló számítógépes rendszer útján haladéktalanul közli a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal), a cégbírósággal, a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bírósággal, valamint az állami adóhatósággal a (2) bekezdés a)–c) pontjában meghatározottak statisztikai számjelét, illetve az ok megjelölésével értesíti a megkereső szervezetet a statisztikai számjel megállapításának megtagadásáról. A (2) bekezdés d) pontjában meghatározottak statisztikai számjelükről – kérésükre – írásban kapnak értesítést.
 
-(5) A statisztikai számjel megállapításához szükséges adatokban bekövetkezett változást – amennyiben azt a járási hivatalhoz, illetve a cégbírósághoz nem kell bejelenteni – és a főtevékenység változását az érintettek az adat változását követő 15 napon belül kötelesek közölni a KSH-val.
+(5) A statisztikai számjel megállapításához szükséges adatokban bekövetkezett változást – amennyiben azt a járási hivatalhoz, a cégbírósághoz, illetve a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bírósággal nem kell bejelenteni – és a főtevékenység változását az érintettek az adat változását követő 15 napon belül kötelesek közölni a KSH-val.
+
+(6) Azoknak a szervezeteknek, amelyeknek nincs bírósági, cégbírósági, egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatósági, adóhatósági bejelentési kötelezettségük, közvetlenül a KSH-nak kell bejelenteniük az e célra rendszeresített adatgyűjtési nyomtatvány kitöltésével a statisztikai regiszter 6. § (2) szerinti és a statisztikai számjel megállapításához szükséges adatokat és az azokban bekövetkezett változást a változást követő 15 napon belül.
 
 Stt.9. § (1) Az adatszolgáltatásra kötelezett az előírt adatokat a valóságnak megfelelő tartalommal, megszabott határidőben és meghatározott módon, térítésmentesen köteles szolgáltatni.
 
@@ -257,7 +260,7 @@ Stt.9/B. § (1) A megyei, fővárosi kormányhivatal az adatgyűjtést végrehaj
 - d) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvántartás vezetését elmulasztja,
 - e) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
 
-(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a)–b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
+(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 100 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a) és b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 
 Vhr.7. § (1) A helyi önkormányzatot terhelő adatszolgáltatás teljesítéséért a jegyző (főjegyző, körjegyző) a felelős.
 
@@ -474,6 +477,8 @@ Stt.26. § (1) Ez a törvény 1993. május 15-én lép hatályba.
 
 - a) a kötelező statisztikai fogalmakat, módszereket, osztályozásokat, névjegyzékeket és számjeleket rendeletben szabályozza, és
 - b) rendeletében statisztikai közleményt hatályon kívül helyezzen.
+
+Stt.26/A. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 9/B. § (2) bekezdést a 2015. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 ### Az Európai Unió jogának való megfelelés
 

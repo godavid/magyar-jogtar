@@ -647,7 +647,9 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 „Isten engem úgy segéljen!”
 
-(4) A Honvédség hadrendje szerinti szervezeteknél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható.
+(4) A Honvédségnél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható.
+
+(5) Május 21-e a Magyar Honvédelem Napja, a Honvédség személyi állományára kiterjedően munkaszüneti nap.
 
 #### 26. A Honvédség tartalékos állománya
 
@@ -741,6 +743,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 (7) A Honvéd Vezérkar csoportfőnökségekre és adminisztratív feladatot ellátó szervezeti egységre tagozódik. A csoportfőnökségek a minisztériumi főosztályokkal azonos jogállású szervek. A csoportfőnökségek osztályokra tagozódnak.
 
 (8) A Honvéd Vezérkar csoportfőnökségeit a csoportfőnök vezeti, akinek munkáját a Honvéd Vezérkar főnöke irányítja. A Honvéd Vezérkar csoportfőnökségeinek osztályait közvetlenül a csoportfőnök, vagy olyan csoportfőnök-helyettes vagy osztályvezető vezeti, akinek tevékenységét a csoportfőnök irányítja.
+
+46/A. § A honvédelemért felelős miniszter által vezetett minisztériumban működő helyettes államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja.
 
 #### 30. A katonai szervezetek irányítása és vezetése
 
@@ -996,11 +1000,11 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (6) A személyi állomány, a csapatok és a járművek megkülönböztetésére jelzéseket kell alkalmazni. Ezek a katonai egyenruha, a katonai rendfokozati jelzés, a csapatkarjelzés és csapatjelvény, a Honvédség meghatározott közúti, légi és vízi járműveinek jelzései, valamint az összefoglaló honvéd elnevezés.
 
-(7) A tényleges állomány tagjai szolgálati beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése engedélyezhető az önkéntes tartalékosnak a rendelkezésre állása időszakában és a rendvédelmi szerv tagjának, ha a Honvédség érdekében végez tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
+(7) A tényleges állomány tagjai szolgálati beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése miniszteri rendeletben meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. Állami vezető műveleti területen egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
 
 (7a) Az arra jogosult az öltözködésre vonatkozó szabályok betartásával kizárólag a Honvédségnél rendszeresített egyenruhát viselhet. Miniszteri rendeletben meghatározott esetekben az egyenruha viselése megtiltható, előzetes írásbeli engedélyhez köthető, megvonható, valamint egészségi okból korlátozható.
 
-(8) A Honvédség tényleges állományú tagjának rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. A honvéd tisztjelöltek és a honvéd altiszt-jelöltek egyenruhájukon rendfokozat helyett évfolyamjelzést viselnek. Az önkéntes tartalékos a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a tényleges állomány tagja, a rendvédelmi szervek állománya, valamint – a rá vonatkozó korlátozásokkal – e szervezetek nyugállományú tagja és az önkéntes tartalékos jogosult. Az arra jogosult a rendfokozatát vagy az évfolyamjelzését neve feltüntetése után használja.
+(8) A Honvédség tényleges állományú tagjának rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. A honvéd tisztjelöltek és a honvéd altiszt-jelöltek egyenruhájukon rendfokozat helyett évfolyamjelzést viselnek. Az önkéntes tartalékos a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a tényleges állomány tagja, a rendvédelmi szervek állománya, valamint – a rá vonatkozó korlátozásokkal – e szervezetek nyugállományú tagja és az önkéntes tartalékos jogosult. Amennyiben a szolgálaton kívüli állomány tagjának egyenruha viselete engedélyezett, legutolsó rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. Az arra jogosult a rendfokozatát vagy az évfolyamjelzését neve feltüntetése után használja. A rendfokozatát az önkéntes tartalékos az önkéntes tartalékos állományra, a nyugállomány tagja a nyugállományra, a szolgálaton kívüli állomány tagja a szolgálaton kívüli állományra utaló megjelöléssel használhatja. A név és a rendfokozat között a képzettségére utaló jelző nem használható.
 
 (9) A csapatkarjelzés a Honvédség tényleges állományú tagja karjelzés szerinti katonai szervezethez való tartozásának és korábbi katonai szervezetének megkülönböztető jele.
 
@@ -1184,7 +1188,7 @@ rendelheti el.
 
 76. § (1) A termelési, ellátási és szolgáltatási kötelezettségek biztosítása érdekében az igénybevételi hatóság a gazdasági tevékenységet folytató szolgáltatásra kötelezettek részére szerződéskötési kötelezettséget írhat elő. A szerződéskötési kötelezettség hatálya alá tartozó termékek és szolgáltatások körét rendelet határozza meg.
 
-(2) Rendeletben az államháztartásra vonatkozó szabályoktól eltérő rendelkezések állapíthatók meg. Rendelet alapján a költségvetési fejezetek között átcsoportosítás hajtható végre, egyes kiadási előirányzatok felfüggeszthetők, a költségvetési törvényben nem szereplő kiadások teljesíthetők, és rendkívüli fizetési kötelezettség írható elő, az adók és illetékek mértéke módosítható, a mentességek megszüntethetők.
+(2) Rendeletben az államháztartásra vonatkozó szabályoktól eltérő rendelkezések állapíthatók meg. Rendelet alapján a költségvetési fejezetek között előirányzat-átcsoportosítás hajtható végre, egyes kiadási előirányzatok teljesítése felfüggeszthető, a központi költségvetésről szóló törvényben nem szereplő kiadások teljesíthetők, rendkívüli fizetési kötelezettség írható elő, új bírságnem állapítható meg, valamint a fizetési kötelezettségek és a bírságok mértéke módosítható, a mentességek, kedvezményezek köre megszüntethető.
 
 (3) Elrendelhető a deviza és valuta kötelező vételre felajánlása. A deviza és valuta kiutalása, átutalása vagy felhasználása engedélyhez köthető, illetve ideiglenesen felfüggeszthető, a mentességek megszüntethetők.
 
@@ -1309,7 +1313,8 @@ rendelheti el.
 - n) a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei megállapításának szakmai szabályait,
 - o) a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és használatukra vonatkozó szabályokat,
 - p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait,
-- q) a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait.
+- q) a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait,
+- r) az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárás rendjét.
 
 (2a) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 
@@ -1328,7 +1333,7 @@ rendelheti el.
 
 83. § E törvény
 
-- a) I–V. Fejezete a 38. § (7) és (8) bekezdése kivételével, VII–IX. Fejezete, 48. alcíme, 49. alcíme, 52. alcíme és 1. melléklete az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
+- a) I–V. Fejezete a 38. § (7) és (8) bekezdése kivételével, VII–IX. Fejezete a 46/A. § kivételével, 48. alcíme, 49. alcíme, 52. alcíme és 1. melléklete az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
 - b) 42/A. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése
 
 alapján sarkalatosnak minősül.

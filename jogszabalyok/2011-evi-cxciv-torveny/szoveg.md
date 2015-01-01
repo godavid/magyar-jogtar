@@ -10,7 +10,7 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 - a) fejlesztés: olyan – alapvetően felhalmozási kiadásokban megtestesülő – tevékenység, amely új, vagy a korábbinál műszaki, technikai szempontból korszerűbb tárgyi eszközök létrehozására, vagy meglevő tárgyi eszközök műszaki, technikai paramétereinek javítására irányul,
 - b) kormányzati szektorba sorolt egyéb szervezet: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 2. § (1) bekezdés l) pontja szerinti szervezet,
-- c) likvid hitel: a naptári éven belül lejáró futamidejű hitel.
+- c)
 
 ### II. Fejezet — AZ ÁLLAMADÓSSÁG CSÖKKENTÉSE
 
@@ -23,7 +23,7 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 (2) Az államháztartás központi alrendszerének adóssága az államháztartás központi alrendszerébe tartozó jogi személyek által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
 
-(3) Az államháztartás önkormányzati alrendszerének adóssága a helyi önkormányzatok, a nemzetiségi önkormányzatok, a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanácsok, a többcélú kistérségi társulások és az egyéb, jogi személyiséggel rendelkező társulások (a továbbiakban együtt: önkormányzat) által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
+(3) Az államháztartás önkormányzati alrendszerének adóssága a helyi önkormányzatok, a nemzetiségi önkormányzatok, a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanácsok, az önkormányzati társulások (a továbbiakban együtt: önkormányzat) által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
 
 (4) A kormányzati szektorba sorolt egyéb szervezetek adóssága az általuk, saját nevükben vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
 
@@ -41,9 +41,9 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 #### 2. Az adósságcsökkentés
 
-4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás központi alrendszerének, az államháztartás önkormányzati alrendszerének és a kormányzati szektorba sorolt egyéb szervezetek adósságának a költségvetési év utolsó napjára – az Alaptörvény 36. cikk (4) és (5) bekezdésének megfelelően – tervezett értékét.
+4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás adósságának a költségvetési év utolsó napjára – az Alaptörvény 36. cikk (4) és (5) bekezdésének megfelelően – tervezett értékét.
 
-(2)
+(2) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy annak alapján az államadósság megelőző évhez (a továbbiakban: viszonyítási év) viszonyított növekedési üteme ne haladja meg a központi költségvetésről szóló törvényben meghatározott, a költségvetési évre várható infláció és bruttó hazai termék reál növekedési üteme felének a különbségét.
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 
@@ -60,7 +60,7 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 olyan irányban tér el a központi költségvetésről szóló törvényben meghatározott adatoktól, amely az államadósság-mutató növekedését eredményezné.
 
-(2) Ha a nemzetgazdaság az Alaptörvény 36. cikk (6) bekezdése szerinti tartós és jelentős visszaesése a költségvetési év során következik be, a központi költségvetésről szóló törvény módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott értékek teljesítési kötelezettségének felfüggesztésére irányul.
+(2) Ha a nemzetgazdaság az Alaptörvény 36. cikk (6) bekezdése szerinti tartós és jelentős visszaesése a költségvetési év során következik be, a központi költségvetésről szóló törvény módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott érték teljesítési kötelezettségének felfüggesztésére irányul.
 
 6. § (1) Az államadósság-mutató számításakor a külföldi pénznemben fennálló adósságot keletkeztető ügyleteket azonos, a központi költségvetésről szóló törvényben meghatározott árfolyamon kell figyelembe venni.
 
@@ -74,78 +74,90 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 8/A. § Mindaddig, amíg az államadósság a bruttó hazai termék felét meghaladja, ha az államot terhelő olyan mértékű közvetlen kiadás keletkezik, amelynek teljesítésére a központi költségvetésről szóló törvényben megállapított, a Kormány irányítása alá tartozó fejezetekben rendelkezésre álló előirányzatok nem elegendők, a Kormány jogosult az Áht.-ban foglalt egyes intézkedések megtételére, vagy javaslatot tehet az ilyen kiadások teljesítéséhez szükséges, a 28. § szerinti fizetési kötelezettség törvényben történő megállapítására.
 
-9. § (1) A kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletet érvényesen az államháztartásért felelős miniszter előzetes hozzájárulásával köthet. E rendelkezést nem kell alkalmazni a likvid hitel igénybevételére, valamint az olyan adósságot keletkeztető ügyletre, amelyben valamennyi fél az államháztartás valamely alrendszerébe tartozó jogi személy, illetve kormányzati szektorba sorolt egyéb szervezet.
+9. § (1) A kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletet érvényesen az államháztartásért felelős miniszter előzetes hozzájárulásával köthet. E rendelkezést nem kell alkalmazni a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet igénybevételére, valamint az olyan adósságot keletkeztető ügyletre, amelyben valamennyi fél az államháztartás valamely alrendszerébe tartozó jogi személy, illetve kormányzati szektorba sorolt egyéb szervezet.
 
 (2) Az államháztartásért felelős miniszter a hozzájárulást abban az esetben adja meg, ha
 
-- a) annak megadása – az engedélyt kérőtől függően – a kormányzati szektorba sorolt egyéb szervezetek adósságának a központi költségvetésről szóló törvényben előírt mértéke teljesítését nem veszélyezteti,
+- a) annak megadása – az engedélyt kérőtől függően – az államháztartás adósságának a központi költségvetésről szóló törvényben előírt mértéke teljesítését nem veszélyezteti,
 - b) az adósságot keletkeztető ügylet a kormányzati szektorba sorolt egyéb szervezet jogszabályban meghatározott kötelező feladata ellátásához szükséges fejlesztéshez vagy működési költséghez szükséges, és
 - c) a hitel felhasználásával megvalósítandó fejlesztés esetében a fejlesztés kiadásainak megtérülése valószínűsíti a hitel visszafizetését, és a hitel felhasználásának átfogó közgazdasági elemzése a hitel visszafizetése szempontjából megnyugtató eredményre vezet.
 
-10. § (1) A (2) bekezdésben foglaltak és a jogszabályon alapuló, kötelező kezesség-, illetve garanciavállalás kivételével az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat az Áht. szerinti önkormányzati kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.
+10. § (1) Az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat a Polgári Törvénykönyv szerinti kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.
 
-(1a) Települési önkormányzat adósságot keletkeztető ügyletet – a (2) bekezdés szerinti kormányzati engedély nélkül megköthető ügyletek és a (10) bekezdés szerinti adósságmegújító ügylet kivételével – csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló 1990. évi C. törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette.
+(2) Települési önkormányzat adósságot keletkeztető ügyletet csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette. E rendelkezést nem kell alkalmazni a települési önkormányzat olyan adósságot keletkeztető ügyletére, amelyhez nincs szükség a Kormány hozzájárulására, illetve amelynek célja meglévő adósság visszafizetése, ha annak összege megegyezik az adósságot keletkeztető ügylet összegével.
 
-(2) Nincs szükség a Kormány hozzájárulására
+(3) Nincs szükség a Kormány hozzájárulására az önkormányzat
 
-- a) a (7a) bekezdés szerinti ügyletek kivételével a központi költségvetésből nyújtott, európai uniós vagy más nemzetközi szervezettől az önkormányzat által megnyert pályázat önrészének és az így megnyert támogatás előfinanszírozásának biztosítására szolgáló,
-- b) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozó,
-- c) a likvid hitelre vonatkozó,
-- d) a (7a) bekezdés szerinti ügyletek kivételével, a fővárosi önkormányzat és megyei jogú város önkormányzata esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át meg nem haladó, de legfeljebb 10 millió forint összegű fejlesztési célú adósságot keletkeztető ügylet megkötéséhez, továbbá
-- e) a d) pont szerinti önkormányzat-kategóriákba tartozó önkormányzatok ott leírtak szerinti értékhatárokat meg nem haladó összegű, továbbá az a)–b) pont szerinti, valamint bármely jogi személy által megkötött c) pont szerinti ügyletekhez nyújtott, Áht. szerinti önkormányzati kezesség- és garanciavállalásaihoz.
+- a) jogszabályon alapuló, kötelező kezesség-, illetve garanciavállalásához,
+- b) naptári éven belül lejáró adósságot keletkeztető ügyletéhez,
+- c) olyan adósságot keletkeztető ügylete megkötéséhez, amely
+  - ca) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által megnyert támogatás előfinanszírozásának biztosítására szolgál,
+  - cb) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozik,
+  - cc) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – fejlesztési célt szolgál és nem haladja meg a fővárosi önkormányzat és megyei jogú város önkormányzata esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át, de legfeljebb a 10 millió forintot,
+- d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont ca)–cc) alpontja szerinti, bármely jogi személy által megkötött ügylethez kapcsolódik.
 
-(2a) A (2) bekezdés d) pontjának alkalmazásakor az ugyanazon fejlesztési cél megvalósítását szolgáló fejlesztésekhez kapcsolódó ügyletek értékét egybe kell számítani.
+(4) Az ugyanazon
 
-(2b) A (2) bekezdés e) pontjának alkalmazásakor az ugyanazon adósnak nyújtott kezesség- és garanciavállalások értékét egybe kell számítani.
+- a) fejlesztési cél megvalósítását szolgáló fejlesztésekhez kapcsolódó ügyletek értékét a (3) bekezdés c) pont cc) alpontjának alkalmazásakor,
+- b) adósnak nyújtott kezesség- és garanciavállalások értékét a (3) bekezdés d) pontjának alkalmazásakor
 
-(3) Az önkormányzat 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladja meg az önkormányzat adott évi saját bevételeinek 50%-át.
+egybe kell számítani.
 
-(4) Az önkormányzat működési célra a (4a) és (4b) bekezdés szerinti ügyletek kivételével csak likvid hitelt vehet fel.
+(5) Az önkormányzat adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladhatja meg az önkormányzat adott évi saját bevételeinek 50%-át.
 
-(4a) Az önkormányzat a 2012. december 31-e előtt kötött eredeti, illetve ennek megújítását szolgáló, működési célú ügyleteit egyszeri alkalommal, a Kormány előzetes hozzájárulásával, naptári éven túli futamidejű, új adósságmegújító ügylettel vagy ügyletekkel kiválthatja vagy szerződésmódosítással naptári éven túli futamidejű ügyletté alakíthatja. Ezen ügyletek együttes összege nem lehet nagyobb, mint az eredeti ügyletekből 2012. december 31-én fennálló adósság, és ezek hitelkerete nem lehet újra lehívható (rulírozó) jellegű. A Kormány az előzetes hozzájárulást abban az esetben adja meg, ha teljesül a (3) bekezdés szerinti feltétel. Kivételes vagy az önkormányzat működőképességét veszélyeztető esetben a Kormány a (3) bekezdésben foglalt rendelkezések alkalmazásától eltekinthet.
+(6) Az (5) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítható be a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettség összege.
 
-(4b) Az önkormányzat jogerős és végrehajtható bírósági határozatban foglalt fizetési kötelezettségének teljesítésére a Kormány előzetes hozzájárulásával éven túli futamidejű működési célú hitelt vehet fel. A Kormány az ehhez szükséges előzetes hozzájárulást a (10) bekezdésben meghatározott feltételek teljesülése esetén adja meg.
+(7) Az önkormányzat – uniós jogi aktusból következő vagy nemzetközi szervezettel szemben vállalt kötelezettségből eredő fejlesztés kivételével – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja az (5) bekezdés szerinti mértéket.
 
-(5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
+(8) Az önkormányzati társulás adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban részt vevő önkormányzatok kezességvállalása biztosítja.
 
-(6)
+10/A. § (1) Az önkormányzat működési célra – e törvény eltérő rendelkezése hiányában – csak naptári éven belül lejáró adósságot keletkeztető ügyletet köthet.
 
-(7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez – kivéve a likvid, az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs és a (10) bekezdés szerinti adósságmegújító hiteleket – kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja.
+(2) Az önkormányzat a Kormány előzetes hozzájárulásával jogerős és végrehajtható bírósági határozatban foglalt fizetési kötelezettségének teljesítésére éven túli futamidejű működési célú hitelt vehet fel. A Kormány az ehhez szükséges előzetes hozzájárulást a 10. § (5) bekezdésében meghatározott feltételek teljesülése esetén adja meg.
 
-(7a) Az önkormányzat (7) bekezdés szerinti adatszolgáltatási kötelezettséggel terhelt, de a (7) bekezdés szerinti adatszolgáltatásában nem szereplő vagy az ott feltüntetettnél nagyobb értékű adósságkeletkeztetéssel járó ügylete esetén is szükséges a Kormány előzetes hozzájárulása az ügylet megkötéséhez.
+(3) Az önkormányzat az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre naptári éven túli, működési célú ügyletet köthet.
 
-(8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járulhat hozzá:
+(4) Az önkormányzat fejlesztésnek nem minősülő, a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által megnyert pályázat önrészének és az így megnyert támogatás előfinanszírozásának biztosítására szolgáló, naptári éven túli működési célú ügyletet köthet.
 
-- a) az adósságot keletkeztető ügylet – a (7) bekezdés szerinti adatszolgáltatást is figyelembe véve – az államháztartás önkormányzati alrendszere adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
+10/B. § (1) Az önkormányzat adósságot keletkeztető ügyletéhez – e törvény eltérő rendelkezése hiányában – a Kormány a következő feltételek együttes fennállása esetén járul hozzá:
+
+- a) az adósságot keletkeztető ügylet az államháztartás adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
 - b) az adósságot keletkeztető ügylet az önkormányzat törvényben meghatározott feladatának ellátásához szükséges kapacitás létrehozását eredményezi, azzal, hogy a működési kiadások folyamatos teljesítése biztosított, és
-- c) ha teljesül az (1a) és a (3) bekezdés szerinti feltétel.
+- c) teljesül a 10. § (2) és (5) bekezdése szerinti feltétel.
 
-(8a) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha teljesül a (3) bekezdés szerinti feltétel, azzal, hogy e feltétel alkalmazása során az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségét kell érteni.
+(2) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel, azzal, hogy e feltétel alkalmazása során az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségét kell érteni.
 
-(8b) A Kormány a (8), (8a) és (10) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi.
+(3) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a 10. § (5) bekezdésében meghatározott feltétel alkalmazásától eltekinthet.
 
-(9) Az önkormányzat az (1) bekezdés szerinti hozzájárulás iránti kérelméhez
+(4) A Kormány az egyes ügyletekhez részben is hozzájárulhat vagy azokat elutasíthatja. A Kormány a több fejlesztési cél megvalósítását szolgáló ügyletek esetében a fejlesztési célok vizsgálata alapján fejlesztési célonként hozhat döntést. A Kormány a fejlesztési cél figyelembevételével dönthet úgy is, hogy az annak teljesülését szolgáló ügylethez az önkormányzat által tervezettnél alacsonyabb összegben járul hozzá.
+
+(5) A Kormány az (1)–(3) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi.
+
+10/C. § (1) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez – kivéve az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs és a 10/B. § (3) bekezdése szerinti adósságmegújító ügyleteket, valamint a naptári éven belül lejáró futamidejű adósságot keletkezető ügyleteket – kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja.
+
+(2) Az önkormányzat a hozzájárulás iránti kérelméhez
 
 - a) hitel felvételének szándéka esetén a hitelt folyósító pénzügyi szolgáltató és az önkormányzat közötti hitelszerződés tervezetét,
-- b) kötvény nyilvános kibocsátásának szándéka esetén a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvény hatálybalépése előtt a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
+- b) kötvény nyilvános kibocsátásának szándéka esetén a Magyar Nemzeti Bank, illetve az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvény hatálybalépése előtt a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
 - c) kötvény zártkörű kibocsátásának szándéka esetén a befektető és az önkormányzat közötti, a kötvény lejegyzéséről vagy megvásárlásáról szóló megállapodás tervezetét,
 - d) kezesség-, illetve garanciavállalás esetén a kezesi szerződés, illetve a garanciaszerződés és a kezességgel, illetve garanciával biztosított ügyletről szóló szerződés tervezetét és az adósnak az ügylet futamidejének végéig tartó időszakra vonatkozó pénzügyi információit,
 - e) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó dokumentumokat
 
 mellékeli.
 
-(10) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, abban az esetben járul hozzá, amennyiben teljesül a (3) bekezdés szerinti feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a (3) bekezdésben foglalt rendelkezések alkalmazásától eltekinthet.
-
-(11) A (3) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítandó bele a likvid hitelből, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből, és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettségek összege.
-
-(12) Az önkormányzat – az Európai Unió kötelező jogi aktusából következő vagy nemzetközi szervezet felé vállalt kötelezettségből eredő fejlesztést kivéve – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja a (3) bekezdés szerinti mértéket.
-
-(13) A megkötött adósságot keletkeztető ügyletekre, valamint a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
+10/D. § (1) A megkötött adósságot keletkeztető ügyletekre, valamint a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
 
 - a) a szerződésmódosítást követően előálló kondíciók mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
 - b) a módosított szerződés az eredetihez képest hosszabb futamidejű vagy nagyobb ügyletértékű, vagy az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, vagy a kezesség, illetve garancia összege nő.
 
-(14) A szerződésmódosításra vonatkozó, a (13) bekezdés szerinti ügyletekre a (10) bekezdés szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.
+(2) A szerződésmódosításra vonatkozó, az (1) bekezdés szerinti ügyletekre a 10/B. § (3) bekezdése szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.
+
+10/E. § (1) A 100%-os önkormányzati tulajdonban álló olyan gazdasági társaság, amely nem minősül a kormányzati szektorba sorolt egyéb szervezetnek, adósságot keletkeztető ügyletét – a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet kivételével – az önkormányzat olyan adósságot keletkeztető ügyletének kell tekinteni, amely a 10. § (1) bekezdése szerint a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az adott gazdasági társaságban legnagyobb tulajdoni részesedéssel vagy hányaddal rendelkező önkormányzat nyújtja be. Egyenlő tulajdoni részesedés vagy hányad esetén a kérelmet az érintett önkormányzatok megállapodása szerinti önkormányzat nyújtja be.
+
+(2) A Kormány a hozzájárulást abban az esetben adja meg, ha az adósságot keletkeztető ügylet visszafizetése
+
+- a) fejlesztési célú ügylet esetében – különösen a megvalósított fejlesztésből származó bevételek révén – biztosított,
+- b) működési célú ügylet esetében a gazdasági társaságot tulajdonoló önkormányzat támogatása nélkül biztosított.
 
 ### III. Fejezet — AZ ÁLLAMADÓSSÁG KEZELŐ KÖZPONT
 
@@ -201,12 +213,12 @@ mellékeli.
 - a) jogszabály felhatalmazása alapján állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok forgalomba hozatalát szervezheti, ezzel kapcsolatos tanácsadási feladatokat láthat el,
 - b) a (2) bekezdésben meghatározott mértékű díj ellenében közreműködhet az állam, az önkormányzat, valamint ezek többségi tulajdonában álló gazdálkodó szervezete hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
 - c) közreműködhet az Országos Betétbiztosítási Alap és a Szanálási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjainak kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
-- d) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek kezelésében és értékesítésében,
+- d)
 - e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
 
 (5) Az ÁKK Zrt. (1) bekezdés szerinti tevékenysége körében az állam által kibocsátott, vagy állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 6. § a)-d), h), i), j) és k) pontjában meghatározott pénzügyi eszközök tekintetében a Bszt. 5. § (1) bekezdésében meghatározott befektetési szolgáltatási tevékenységet, valamint a Bszt. 5. § (2) bekezdés a), b), d), g) és h) pontjában meghatározott befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást végezhet.
 
-(6) Az ÁKK Zrt. (1) bekezdés, (4) bekezdés d) pontja és az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett (5) bekezdés szerinti tevékenysége államadósság-kezelésnek minősül. Az ÁKK Zrt. államadósság-kezelésen kívüli befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a Bszt. rendelkezéseit kell alkalmazni.
+(6) Az ÁKK Zrt. (1) bekezdés, és az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett (5) bekezdés szerinti tevékenysége államadósság-kezelésnek minősül. Az ÁKK Zrt. államadósság-kezelésen kívüli befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a Bszt. rendelkezéseit kell alkalmazni.
 
 14. § (1) Az állam átmenetileg szabad pénzeszközeinek kezeléséről az államháztartásért felelős miniszter az ÁKK Zrt. útján gondoskodik. E feladatkörében az ÁKK Zrt. jogosult a 13. § (1) bekezdése szerinti műveletek végzésére. Az e tevékenységből származó kamatokat a központi költségvetés javára kell elszámolni.
 
@@ -238,7 +250,7 @@ mellékeli.
 
 (4) A Tanács elnöke az elődje megbízatásának megszűnésekor, illetve ha elődje megbízatásának megszűnését követően nevezték ki, a kinevezésével lép hivatalba.
 
-(5) A Tanács elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, az oktatói, a művészeti, a lektori, a szerzői jogi védelem alá eső, továbbá a lektori és szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
+(5) A Tanács elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, szerzői jogi védelem alá eső és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el.
 
 (6) A Tanács elnöke feladatai ellátásáért illetményre és más juttatásokra jogosult. A Tanács elnökének a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra megállapított havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese. Egyebekben a Tanács elnöke a minisztert megillető juttatásokra jogosult.
 
@@ -294,7 +306,7 @@ mellékeli.
 - b) összehívja a Tanács ülését és javaslatot tesz annak napirendjére,
 - c) képviseli a Tanácsot.
 
-#### 6. A Költségvetési Tanács feladata, hatásköre, működésének szabályai
+#### 6. A Költségvetési Tanács feladatai
 
 23. § (1) A Tanács
 
@@ -322,7 +334,7 @@ mellékeli.
 
 (5) Az Országgyűlésnek benyújtott központi költségvetésről szóló törvényjavaslatra a Tanács észrevételt tehet.
 
-#### 7. A Tanács eljárása az államadósság mértékének vizsgálatában
+#### 7. A Költségvetési Tanács eljárása az államadósság mértékének vizsgálatában
 
 25. § (1) A központi költségvetésről szóló törvényjavaslat tárgyalása során a Tanács az Országgyűlés elnökének a házszabályi rendelkezésekben meghatározottak szerinti tájékoztatása alapján vizsgálja a központi költségvetésről szóló törvényjavaslat az Alaptörvény 36. cikk (4) és (5) bekezdésének (a továbbiakban: államadósság-szabály) való megfelelését.
 
@@ -354,14 +366,14 @@ mellékeli.
 
 (5) A Tanács döntését – az akadályoztatás esetét kivéve – a Tanács valamennyi tagja aláírja. A döntések nyilvánosak, azokat az Országgyűlés honlapján közzé kell tenni.
 
-### V. Fejezet — A KÖZTEHERVISELÉS ALAPVETŐ SZABÁLYAI
+### V. Fejezet — A KÖZTEHERVISELÉS ALAPVETŐ SZABÁLYAI, A PÉNZÜGYI JOGHÁTRÁNNYAL JÁRÓ JOGKÖVETKEZMÉNYRE ÉS A STABILITÁSI MEGTAKARÍTÁSI SZÁMLÁRA VONATKOZÓ SZABÁLYOK
 
 #### 8/A. A közterhek
 
 28. § (1) Magyarországon minden természetes személy, jogi személy és más jogalany
 
-- a) adó, járulék, hozzájárulás, vagyonszerzési illeték, bírság, pótlék vagy más hasonló – az állam közvetlen ellenszolgáltatása nélküli – rendszeres vagy rendkívüli fizetési kötelezettség, továbbá
-- b) az állami közhatalom birtokában nyújtható szolgáltatásért, eljárásért fizetendő eljárási és felügyeleti illeték, igazgatási szolgáltatási díj, pótdíj
+- a) adó, járulék, hozzájárulás, vagyonszerzési illeték, pótlék vagy más hasonló – az állam közvetlen ellenszolgáltatása nélküli – rendszeres vagy rendkívüli fizetési kötelezettség, továbbá
+- b) az állami közhatalom birtokában nyújtható szolgáltatásért, eljárásért fizetendő felügyeleti díj, eljárási és felügyeleti illeték, igazgatási szolgáltatási díj, pótdíj
 
 [az a) és b) pont a továbbiakban együtt: fizetési kötelezettség] teljesítésével járul hozzá a közös szükségletek fedezetéhez.
 
@@ -383,7 +395,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 29. § (1) Fizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmények, mentességek körét és mértékét megállapítani kizárólag törvényben, vagy törvény felhatalmazása alapján önkormányzati rendeletben lehet, kivéve ha az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérően rendelkezik.
 
-(2) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – a Kormány rendeletben állapíthatja meg a bírság, pótlék mértékét. Igazgatási szolgáltatási díjat, pótdíjat – törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet felhatalmazása alapján – a miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapíthat meg.
+(2) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – a Kormány rendeletben állapíthatja meg a pótlék mértékét. Igazgatási szolgáltatási díjat, pótdíjat – törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet felhatalmazása alapján – a miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapíthat meg.
 
 (3) Törvény felhatalmazása alapján a Magyar Nemzeti Bank elnöke, a Nemzeti Média- és Hírközlési Hatóság elnöke és a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke rendeletben igazgatási szolgáltatási díjat, pótdíjat állapíthat meg.
 
@@ -440,11 +452,11 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 (7) Az e §-tól való eltérésre a 38/A. §-t kell alkalmazni.
 
-39. § A 32–36. §, valamint a 38. § rendelkezéseitől csak különleges jogrend idején, az azt kiváltó körülmények okozta következmények enyhítéséhez szükséges mértékben, vagy a nemzetgazdaság tartós és jelentős visszaesése esetén, a nemzetgazdasági egyensúly helyreállításához szükséges mértékben lehet eltérni.
+#### 39. §
 
 #### 8/C. A Stabilitási Megtakarítási Számla
 
-39/A. § (1) Magyarország külföldi pénznemben fennálló adósságának csökkentése érdekében külön jogszabály szerinti Stabilitás Megtakarítási Számlára befizetett összeg tekintetében e § rendelkezéseit kell alkalmazni. A Stabilitás Megtakarítási Számlára, a számlavezető befektetési vállalkozás és a hitelintézet befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységére a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.), valamint e törvények felhatalmazása alapján kiadott jogszabályok rendelkezéseit az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglalt eltéréssel kell alkalmazni.
+39/A. § (1) Magyarország külföldi pénznemben fennálló adósságának csökkentése érdekében a Stabilitás Megtakarítási Számlára befizetett összeg tekintetében e § rendelkezéseit kell alkalmazni. A Stabilitás Megtakarítási Számlára, a számlavezető befektetési vállalkozás és a hitelintézet befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységére a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.), valamint e törvények felhatalmazása alapján kiadott jogszabályok rendelkezéseit az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglalt eltéréssel kell alkalmazni.
 
 (2) A Stabilitás Megtakarítási Számla befektetési tevékenységet végző hitelintézet által vezetett számla, amely stabilitás megtakarítási értékpapírszámlából és stabilitás megtakarítási pénzszámlából áll.
 
@@ -479,9 +491,9 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 (6) A számlatulajdonos halála esetére írásban egy vagy több kedvezményezettet jelölhet. Kedvezményezett jelölése esetén a Stabilitás Megtakarítási Számla nem képezi a hagyaték részét. Ha a Stabilitás Megtakarítási Számláról kifizetés a kedvezményezett vagy örökös részére történik, a kedvezményezettet, illetve örököst az e § szerinti adófizetési kötelezettség tekintetében számlatulajdonosnak, a számlatulajdonos befizetését a kedvezményezett, illetve örökös befizetésének kell tekinteni. A Stabilitás Megtakarítási Számláról a kedvezményezettnek, örökösnek teljesített kifizetést e § szerinti adófizetési kötelezettségen felül más fizetési kötelezettség nem terheli.
 
-39/C. § (1) A Stabilitás Megtakarítási Számlát vezető hitelintézet a számlatulajdonos befizetéséről, valamint a részére a Stabilitás Megtakarítási Számláról teljesített kifizetésről külön jogszabályban meghatározott tartalommal igazolást állít ki és ad át a számlatulajdonos részére.
+39/C. § (1) A Stabilitás Megtakarítási Számlát vezető hitelintézet a számlatulajdonos befizetéséről, valamint a részére a Stabilitás Megtakarítási Számláról teljesített kifizetésről jogszabályban meghatározott tartalommal igazolást állít ki és ad át a számlatulajdonos részére.
 
-(2) A Stabilitás Megtakarítási Számlát vezető hitelintézet a Stabilitás Megtakarítási Számla megnyitásáról, az arra történt befizetésről – a számlatulajdonos azonosítása nélkül – külön jogszabály szerint adatot szolgáltat az állami adóhatóság részére.
+(2) A Stabilitás Megtakarítási Számlát vezető hitelintézet a Stabilitás Megtakarítási Számla megnyitásáról, az arra történt befizetésről – a számlatulajdonos azonosítása nélkül – jogszabályban meghatározottak szerint adatot szolgáltat az állami adóhatóság részére.
 
 ### VI. Fejezet — A NYUGDÍJRENDSZER ALAPVETŐ SZABÁLYAI
 
@@ -555,7 +567,7 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 45. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-- a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,
+- a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (5) bekezdésében meghatározott saját bevételek körét,
 - b) a kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletéhez történő miniszteri hozzájárulás részletes szabályait,
 - c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit,
 - d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait.
@@ -572,7 +584,7 @@ rendeletben állapítsa meg.
 
 #### 13. Hatályba léptető rendelkezések
 
-46. § (1) E törvény – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+46. § (1) E törvény – a (2)–(5) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1–3. §, a 4. § (1) és (3) bekezdése, az 5–35. §, a 37. §, a 39–45. §, a 47. §, az 53. §, az 54. § 2012. január 1-jén lép hatályba.
 
@@ -582,27 +594,15 @@ rendeletben állapítsa meg.
 
 (5) A 38. § 2016. január 1-jén lép hatályba.
 
-#### 14. Átmeneti rendelkezések
+#### 14.
 
-47. § (1) A Költségvetési Tanács – a takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvény 9. § (1) bekezdése alapján a köztársasági elnök által kinevezett – tagjának megbízatását e törvény hatálybalépése nem érinti.
-
-(2) A 4. § (1) és (3) bekezdését első alkalommal a 2013. évi központi költségvetésről szóló törvény előkészítése során kell alkalmazni.
-
-(3) A 9. és 10. §-t a 2012. január 1-je után megkötött ügyletekre kell alkalmazni.
-
-(4) A 2012. évben az 5. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a központi költségvetésről szóló törvény módosítására irányuló törvényjavaslatot a Kormány abban az esetben köteles az Országgyűlés elé terjeszteni, ha a 2011. év utolsó napján fennálló államadósság-mutatóhoz képest a 2012. év utolsó napján várható államadósság-mutató az 5. § (3) bekezdése alapján végzett felülvizsgálat alapján nem csökkenne.
-
-(5) A 2012. évben a 9. § (2) bekezdés a) pontját és a 10. § (8) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a hozzájárulás feltétele, hogy az adósságot keletkeztető ügylet a (4) bekezdésben foglalt feltétel teljesítését ne veszélyeztesse.
-
-(6) A 4. § (2) bekezdésének hatálybalépéséig a központi költségvetésről szóló törvényt úgy kell megalkotni, hogy annak alapján az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-i 479/2009/EK tanácsi rendelet szerint számított hiány-mutató értéke nem lehet nagyobb, mint a bruttó hazai termék 3%-a.
-
-(7) E törvény rendelkezéseit a 2012. január 1-jét követően kihirdetett jogszabályok esetében kell alkalmazni.
+#### 47. §
 
 #### 48. §
 
 #### 49. §
 
-50. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: 2013. évi CIII. tv.) megállapított 28/A. § (1) és (2) bekezdését a 2013. március 14-e és 16-a közötti időszakban bekövetkezett szélsőséges időjárási körülmények során a mentéshez ellenérték nélkül nyújtott segítségre, továbbá a 2013. évi CIII. tv. hatálybalépését megelőzően, 2013. évben kihirdetett veszélyhelyzetre is alkalmazni kell azzal, hogy a 2013. évi CIII. tv. hatálybalépését megelőzően folytatott 28/A. § szerinti tevékenységvégzés esetén a bejelentési kötelezettséget a 2013. évi CIII. tv. hatálybalépésétől számított 60 napon belül kell teljesíteni.
+#### 50. §
 
 #### 51. §
 
@@ -610,7 +610,7 @@ rendeletben állapítsa meg.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-53. § E törvény 6. alcíme, 7. alcíme és 8. alcíme az Alaptörvény 44. cikk (5) bekezdése, V. és VI. Fejezete az Alaptörvény 40. cikke alapján sarkalatosnak minősül.
+53. § E törvény 6. alcíme, 7. alcíme és 8. alcíme az Alaptörvény 44. cikk (5) bekezdése, 8/A. alcíme és VI. Fejezete az Alaptörvény 40. cikke alapján sarkalatosnak minősül.
 
 #### 16. Hatályon kívül helyező rendelkezések
 

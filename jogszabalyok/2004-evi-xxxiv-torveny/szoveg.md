@@ -176,7 +176,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 (3) Tanácskozási joggal vesznek részt a VT munkájában:
 
-- a) a Kutatási és Technológiai Innovációs Tanács elnöke, a kutatás-fejlesztésért és technológiai innovációért felelős szerv vezetője, a sportigazgatási szerv vezetője, a Magyar Bankszövetség elnöke, a Magyar Hitelgarancia Egyesülés igazgatója vagy a helyettesítésére meghatalmazott személy,
+- a) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke, a sportigazgatási szerv vezetője, a Magyar Bankszövetség elnöke, a Magyar Hitelgarancia Egyesülés igazgatója vagy a helyettesítésére meghatalmazott személy,
 - b) az Országos Érdekegyeztető Tanács Munkavállalói Oldalának 2 képviselője,
 - c) a miniszter által kijelölt vállalkozásfejlesztési szervezetek vezetői vagy a helyettesítésükre meghatalmazott személy,
 - d) a miniszter névre szóló felkérése alapján létrehozott szakmai tanácsadó testület tagjai,

@@ -20,7 +20,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 2. § E törvény hatálya kiterjed
 
 - a) a közfeladatot ellátó szervek irattári anyagára;
-- b) a tartós állami tulajdonú társasági részesedéssel működő gazdasági társaságok irattári anyagára;
+- b) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott gazdasági társaságok irattári anyagára;
 - c) a közlevéltárakban őrzött levéltári anyagra;
 - d) a nyilvános magánlevéltárakban őrzött levéltári anyagra;
 - e) az a)—d) pont hatálya alá nem tartozó szervek és természetes személyek tulajdonában lévő maradandó értékű iratra.
@@ -72,7 +72,12 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 8. § A levéltári anyag védelmének ágazati irányítását a kultúráért felelős miniszter látja el. Ágazati irányító hatáskörében
 
 - a)
-- b) rendeletben szabályozza a köziratok kezelésének levéltári felügyeletével kapcsolatos, továbbá a közlevéltárak és a nyilvános magánlevéltárak anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő szakmai követelményeket, valamint a levéltári anyagban végezhető selejtezés rendjét, és a szakfelügyelők közreműködésével ellenőrzi a szakmai követelmények érvényesítését;
+- b) szabályozza
+  - ba) a levéltári állomány gyarapításával és a levéltári gyűjtőmunkával kapcsolatos feladatokat, a maradandó értékű irattári és levéltári anyag illetékességből történő átvételét, az iratok cseréjét és letéti megőrzését,
+  - bb) a levéltári anyag őrzésének és tárolásának követelményeit, a levéltári raktárak használati rendjével és az állományvédelemmel kapcsolatos követelményeket, az iratok levéltári feldolgozására, a levéltári anyag rendszerezésére, rendezésére vonatkozó előírásokat, a levéltári anyag selejtezésének, nyilvántartásának, leírásának és a segédletek készítésének követelményeit,
+  - bc) a levéltári anyag használatának szabályait, a levéltári kutatás, tájékoztatás és kölcsönzés, valamint az ezzel összefüggő nyilvántartások vezetésének követelményeit, a hitelesített iratmásolat külföldre történő továbbítását,
+  - bd) a levéltárakról vezetett nyilvántartás és a közlevéltárak által vezetett nyilvántartás adatkörét, meghatározza a nyilvántartás vezetésének szabályait, valamint az iratkezelés szabályozásában, ellenőrzésében és az iratselejtezés ellenőrzésében való részvétel kapcsán jelentkező közlevéltári feladatokat, valamint
+  - be) a levéltári módszertani ajánlások közreadásával összefüggő, továbbá a levéltári szakmai tevékenységhez kapcsolódó tervezési és beszámolási feladatokat;
 - c) irányítja és felügyeli a Magyar Nemzeti Levéltárat;
 - d) dönt a hatáskörébe utalt egyedi ügyekben.
 
@@ -128,7 +133,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (5) Az önkormányzati hivatal számára a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
 
-(6) A jogi személyiséggel rendelkező önkormányzati társulás, az önkormányzatok többcélú kistérségi társulása (a továbbiakban együtt: önkormányzati társulások) a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
+(6) Az önkormányzati társulás a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
 
 (7) A Magyar Nemzeti Levéltár, az illetékes közlevéltár és a kultúráért felelős miniszter egyetértési joga az irattári tételek kialakításával és a nem selejtezhető irattári tételek kijelölésével, továbbá a nem selejtezhető iratok levéltári használatát befolyásoló előírásokkal összefüggő kérdésekre terjed ki.
 
@@ -172,7 +177,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - b) jogszabály alapján átveszi, gyűjti, valamint ingyenes letétként megőrzi a maradandó értékű magániratot;
 - c) az átvett és a gyűjtött levéltári anyagot nyilvántartja, szakszerűen kezeli, biztonságosan megőrzi, és az őrizetében lévő levéltári anyagot — annak szükség szerinti átselejtezésével, rendezésével, valamint a tudományos igényű áttekintést biztosító segédletek készítése és közzététele útján — feldolgozza, s az anyag használatát lehetővé teszi;
 - d) az őrizetében lévő levéltári anyagról hiteles másolatot vagy tartalmi kivonatot ad ki;
-- e) a levéltári anyag védelme érdekében ellenőrzi a közfeladatot ellátó szervek, valamint a tartós állami tulajdonú társasági részesedéssel működő gazdasági társaságok irattári selejtezését és iratkezelésének rendjét;
+- e) a levéltári anyag védelme érdekében ellenőrzi a közfeladatot ellátó szervek, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott gazdasági társaságok irattári selejtezését és iratkezelésének rendjét;
 - f) megrongált vagy pusztulásnak indult levéltári anyagának konzerválásáról és restaurálásáról gondoskodik, ezekről és a különösen jelentős levéltári anyagáról biztonsági másolatot készít vagy készíttet, és annak egy példányát – ha jogszabály másként nem rendelkezik – a Magyar Nemzeti Levéltárnak átadja;
 - g) levéltár- és történettudományi kutatásokat végez a levéltári munka fejlesztése és a levéltári anyag felhasználásának elősegítése céljából, s közzéteszi a kutatás eredményeit, illetve a tudományos munkamegosztás keretében részt vállal az általa őrzött iratanyag publikálásában;
 - h) a levéltári anyag oktatási, közművelődési célú felhasználását, valamint a levéltári tevékenység megismertetését kiadványokkal és egyéb módon elősegíti;
@@ -205,10 +210,10 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (5) A Budapest Főváros Önkormányzata által fenntartott levéltár
 
-- a) stratégiai terve, éves szakmai feladatainak meghatározása,
+- a)
 - b) munkatervének, beszámolójának elfogadása,
-- c) költségvetésének feladatalapú tervezése, és
-- d) fejlesztési és beruházási feladatainak meghatározása
+- c)
+- d)
 
 során a kultúráért felelős miniszter véleményezési jogot gyakorol.
 
@@ -257,7 +262,7 @@ levéltári anyaga, valamint minden olyan levéltári anyag, amely nem tartozik 
 
 ### Állami szaklevéltárak
 
-19. § (1) Állami szaklevéltár a Hadtörténeti Levéltár, a Földügyi és Távérzékelési Levéltár, a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
+19. § (1) Állami szaklevéltár a Hadtörténelmi Levéltár, a Földügyi és Távérzékelési Levéltár, a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 
@@ -383,7 +388,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (2) A közlevéltárnak az (1) bekezdés szerinti megállapodással átadott iratok kutathatóságát az ajándékozó vagy a letétbe adó meghatározott időtartamra korlátozhatja.
 
-(3) A tartós állami tulajdonú társasági részesedéssel működő gazdasági társaságok kötelesek iratkezelésüket az illetékes közlevéltárral egyetértésben szabályozni, irattári anyagukat a szabályzatban foglaltak szerint kezelni, a helyszíni tájékozódást — az üzemi és az üzleti titkok védelmének biztosítása mellett — a közlevéltár számára megengedni, nem selejtezhető irataikat — ha azok feladataik ellátásához már nem szükségesek — részére átadni. Ezen szervek közlevéltárba adott irataik kutathatóságát illetően a (2) bekezdésben foglaltak szerint rendelkezhetnek.
+(3) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott gazdasági társaságok kötelesek iratkezelésüket az illetékes közlevéltárral egyetértésben szabályozni, irattári anyagukat a szabályzatban foglaltak szerint kezelni, a helyszíni tájékozódást — az üzemi és az üzleti titkok védelmének biztosítása mellett — a közlevéltár számára megengedni, nem selejtezhető irataikat — ha azok feladataik ellátásához már nem szükségesek — részére átadni. Ezen szervek közlevéltárba adott irataik kutathatóságát illetően a (2) bekezdésben foglaltak szerint rendelkezhetnek.
 
 33. § (1) A kulturális örökségvédelmi hatóság (a továbbiakban: hatóság), a kulturális örökség védelméről szóló törvény alapján – a (2) bekezdésben felsorolt kivételekkel – védett levéltári anyaggá nyilváníthatja a nem levéltárban, muzeális intézményben és könyvtárban őrzött, 50 évnél régebben keletkezett maradandó értékű magániratokat, továbbá a keletkezés idejétől függetlenül:
 
@@ -456,11 +461,13 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 35/A. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közfeladatot ellátó szervek iratkezelésének általános követelményeit, valamint a központi államigazgatási szervek, az önkormányzati hivatal és az önkormányzati társulások iratkezelési szabályzatai végrehajtásának ellenőrzési rendjét.
 
-(2) Felhatalmazást kap a köziratok kezelésének szakmai irányításáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, valamint a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben és az elektronikus iratok levéltárba adásával, tárolásával kapcsolatban támasztott követelményeket.
+(2) Felhatalmazást kap a köziratok kezelésének szakmai irányításáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, valamint a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben támasztott követelményeket.
 
 (3) A (2) bekezdésben foglalt felhatalmazás alapján kiadandó rendeletet a bíróságok és az Országos Bírósági Hivatal elnöke, az ügyészségek, a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az ügyvédi kamara, az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hiteles szakfordítók, tolmácsok, a jogi segítségnyújtást, kárpótlást, áldozatsegítést, valamint büntető ügyekben közvetítői tevékenységet végző szervek és személyek tekintetében az igazságügyért felelős miniszterrel egyetértésben kell kiadni.
 
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a levéltári szakfelügyelet és a levéltári szakmai testületek működését.
+
+(5) Felhatalmazást kap a kultúráért felelős miniszter, hogy az elektronikus formában tárolt iratok levéltári átvételének eljárásrendjét és műszaki követelményeit az e-közigazgatásért felelős miniszterrel és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 35/B. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverek megfelelőségét tanúsító szervezeteket kijelölő hatóságot.
 
@@ -475,7 +482,13 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 rendeletben állapítsa meg.
 
-36. § Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a köziratok kezelésének levéltári felügyeletével kapcsolatos, továbbá a közlevéltárak és a nyilvános magánlevéltárak anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő szakmai követelményeket, valamint a levéltári anyagban végezhető selejtezés rendjét.
+36. § Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza
+
+- a) a levéltári állomány gyarapításával és a levéltári gyűjtőmunkával kapcsolatos feladatokat, a maradandó értékű irattári és levéltári anyag illetékességből történő átvételét, az iratok cseréjét és letéti megőrzését,
+- b) a levéltári anyag őrzésének és tárolásának követelményeit, a levéltári raktárak használati rendjével és az állományvédelemmel kapcsolatos követelményeket, az iratok levéltári feldolgozására, a levéltári anyag rendszerezésére, rendezésére vonatkozó előírásokat, a levéltári anyag selejtezésének, nyilvántartásának, leírásának és a segédletek készítésének követelményeit,
+- c) a levéltári anyag használatának szabályait, a levéltári kutatás, tájékoztatás és kölcsönzés, valamint az ezzel összefüggő nyilvántartások vezetésének követelményeit, a hitelesített iratmásolat külföldre történő továbbítását,
+- d) a levéltárakról vezetett nyilvántartás és a közlevéltárak által vezetett nyilvántartás adatkörét, meghatározza a nyilvántartás vezetésének szabályait, valamint az iratkezelés szabályozásában, ellenőrzésében és az iratselejtezés ellenőrzésében való részvétel kapcsán jelentkező közlevéltári feladatokat, valamint
+- e) a levéltári módszertani ajánlások közreadásával összefüggő, továbbá a levéltári szakmai tevékenységhez kapcsolódó tervezési és beszámolási feladatokat.
 
 37. § (1) A 2012. január 1. napjával állami tulajdonba került, a Magyar Nemzeti Levéltár tagintézményeinek elhelyezéséül szolgáló ingatlanok, ingatlanrészek térítésmentesen a Magyar Nemzeti Levéltár vagyonkezelésébe kerülnek. A vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötendő vagyonkezelési szerződésben foglaltak az irányadók.
 

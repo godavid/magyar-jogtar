@@ -37,87 +37,21 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 ### I. Fejezet — A PÁLYAKEZDŐ FIATALOK, VALAMINT A GYERMEK GONDOZÁSÁT, ILLETVE CSALÁDTAG ÁPOLÁSÁT KÖVETŐEN, TOVÁBBÁ A GYERMEK GONDOZÁSA MELLETT MUNKÁT KERESŐK ÉS A TARTÓSAN ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
-2. § Kedvezmény illeti meg a munkaadót a munkaerőpiactól tartósan távollévő, e törvény 1. §-a (2) bekezdésének 1. pontjában meghatározott személynek e törvény 3–4. §-a szerint történő foglalkoztatása esetén.
+2. §
 
-### Pályakezdő fiatal foglalkoztatásának kedvezménye
+3. §
 
-3. § (1) A munkaadót a pályakezdő fiatal foglalkoztatásának időtartamára a START-kártya érvényességi idején belül illeti meg a 4/A. §-ban meghatározott kedvezmény, függetlenül a foglalkoztatás időtartamától, határozatlan vagy határozott idejű jellegétől.
-
-(2)
-
-(3) A (2) bekezdés c) pontjában a foglalkoztatásra irányuló jogviszony első ízben történő létesítésének megítélése szempontjából figyelmen kívül kell hagyni a tanulói és a hallgatói jogviszony mellett fennálló, illetve az iskolai szünet időtartama alatt létesített foglalkoztatásra irányuló jogviszonyokat, továbbá a tanulói és a hallgatói jogviszony megszűnése után alkalmi munkavállalói könyvvel, valamint 2010. április 1-jét követően az egyszerűsített foglalkoztatás körébe tartozó alkalmi munkára létesített jogviszonyt.
-
-(4) START-kártya kiváltására egy alkalommal van lehetőség, ide nem értve a START-kártya elvesztése és megsemmisülése miatti új igénylését, valamint megrongálódása miatti cseréjét.
-
-(5) A pályakezdő fiatal foglalkoztatására tekintettel kedvezményt e törvény szerint érvényesítő munkáltató a kedvezménnyel érintett foglalkoztatás időtartama alatt köteles a START-kártyát megőrizni, és a foglalkoztatásra irányuló jogviszony megszűnésekor a pályakezdő fiatal részére visszaszolgáltatni.
-
-### Gyermekgondozási segély, gyermekgondozási díj, gyermeknevelési támogatás, valamint ápolási díj folyósításának megszűnését követő foglalkoztatás, a gyermekgondozási segély folyósítása melletti foglalkoztatás, valamint a tartósan álláskeresők foglalkoztatásának kedvezménye
-
-4. § (1) 2011. december 31-éig az 1. § (2) bekezdése 1. pontjának b)–c) alpontjában meghatározott személy – az 1. § (2) bekezdése 1. pontjának c) alpontjában szereplő személyek vonatkozásában a 6. §-ban meghatározott kivétellel – az Art. szerinti START PLUSZ kártya kiváltására jogosult.
-
-(2) A munkaadót az 1. § (2) bekezdése 1. pontjának b)–c) alpontjaiban meghatározott személy foglalkoztatásának időtartamára a START PLUSZ kártya érvényességi idején belül illeti meg az 5. §-ban meghatározott kedvezmény abban az esetben is, ha a foglalkoztatás időtartama azt meghaladja.
-
-(3) A START PLUSZ kártya a gyermekgondozási segély, a gyermekgondozási díj, a gyermeknevelési támogatás, valamint az ápolási díj folyósításának megszűnését követő foglalkoztatáshoz – e törvényben meghatározott feltételek fennállása esetén – annyiszor váltható ki, ahányszor különböző személyekre tekintettel az ellátás megállapítására sor került.
-
-(4) A gyermekgondozási segély melletti foglalkoztatáshoz igénybe vett START PLUSZ kártya érvényességi idejének lejártát követően a gyermekgondozási segély folyósításának megszűnését követő foglalkoztatáshoz újabb START PLUSZ kártya nem váltható ki.
-
-(5) Ha a START PLUSZ kártya érvényességi ideje alatt újabb gyermek születik, a következő kártya kiváltására a legfiatalabb gyermekre tekintettel kerülhet sor.
-
-(6) Az 1. § (2) bekezdése 1. pontjának b)–c) alpontjában meghatározott személy az öregségi nyugdíjjogosultság megszerzéséig jogosult START PLUSZ kártya kiváltására. Ebben az esetben a START PLUSZ kártya – törvényben meghatározott feltételek fennállása esetén – több alkalommal is kiváltható.
-
-(7) A START PLUSZ kártyával rendelkező személyt foglalkoztató és e törvény szerint kedvezményt érvényesítő munkáltató a kedvezménnyel érintett foglalkoztatás időtartama alatt köteles a START PLUSZ kártyát megőrizni és a foglalkoztatásra irányuló jogviszony megszűnésekor a kártya tulajdonosa részére átadni.
+4. §
 
 ### I/A. Fejezet — A KEDVEZMÉNYRE VONATKOZÓ RÉSZLETES SZABÁLYOK
 
-### A pályakezdő fiatal foglalkoztatásához kapcsolódó kedvezmény szabályai
+4/A. §
 
-4/A. § (1) Az érvényes START-kártyával rendelkező személy foglalkoztatása után a munkaadót a szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg legfeljebb 2014. december 31-ig a következők szerint:
-
-- a) alap- és középfokú végzettséggel rendelkező vagy végzettséggel nem rendelkező pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START-kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér másfélszeresének tizenhét százalékával a foglalkoztatás első évében, illetve hét százalékával a foglalkoztatás második évében, továbbá
-- b) felsőfokú végzettségű pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START-kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének tizenhét százalékával a foglalkoztatás első kilenc hónapjában, illetve hét százalékával a foglalkoztatás azt követő három hónapjában.
-
-(2) A munkaadó által az (1) bekezdés alapján befizetett összeget az állami adóhatóság a költségvetési törvényben meghatározott arányban utalja át Nemzeti Foglalkoztatási Alap, a Nyugdíjbiztosítási Alap, illetve az Egészségbiztosítási Alap javára.
-
-(3) Az (1) bekezdésben meghatározott kedvezmény a munkaadót abban az esetben illeti meg, ha a pályakezdő a munkába lépést megelőző napon rendelkezik START-kártyával vagy azt helyettesítő igazolással.
-
-(4) Az (1) bekezdésben említett részkedvezményként érvényesített összeget meg kell téríteni az Egészségbiztosítási Alap és a Nyugdíjbiztosítási Alap számára. A különbözet fedezetét a Nemzeti Foglalkoztatási Alap költségvetésének „Aktív támogatások” cím, „Szociális hozzájárulási adókedvezmény megtérítése” alcíme tartalmazza.
-
-### Gyermekgondozási segély, gyermekgondozási díj, gyermeknevelési támogatás, valamint ápolási díj folyósításának megszűnését követő foglalkoztatás, a gyermekgondozási segély folyósítása melletti foglalkoztatás, valamint a tartósan álláskeresők foglalkoztatása kedvezményének szabályai
-
-5. § (1) Az érvényes START PLUSZ kártyával rendelkező személy foglalkoztatása után a munkaadót – a 6. §-ban meghatározott kivétellel – szociális hozzájárulási adóból igénybe vehető részkedvezmény legfeljebb 2013. december 31-ig a következők szerint illeti meg:
-
-a részkedvezmény egyenlő az érvényes START PLUSZ kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének tizenhét százalékával a foglalkoztatás első évében, illetve hét százalékával a foglalkoztatás második évében.
-
-(2) A munkaadó az (1) bekezdésben meghatározott kedvezményre abban az esetben jogosult, ha a foglalkoztatás időtartama a harminc napot meghaladja és a munkaidő legalább a napi négy órát eléri.
-
-(3) Ha a START PLUSZ kártya érvényességének időtartama két évnél rövidebb, az érvényességi időtartam első tizenkét hónapjára az (1) bekezdésben a foglalkoztatás első évében meghatározott részkedvezmény vehető igénybe.
-
-(4) A START PLUSZ kártyával rendelkező személyt foglalkoztatóra a 4/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-(5) A munkaadó által az (1) bekezdés alapján befizetett összeget az állami adóhatóság a költségvetési törvényben meghatározott arányban utalja át a Munkaerőpiaci Alap, a Nyugdíjbiztosítási Alap, illetve az Egészségbiztosítási Alap javára.
-
-(6) Az (1) bekezdésben említett részkedvezményként érvényesített összeget meg kell téríteni az Egészségbiztosítási Alap és a Nyugdíjbiztosítási Alap számára. A különbözet fedezetét a Nemzeti Foglalkoztatási Alap költségvetése, valamint az Európai Szociális Alap forrásai biztosítják.
+5. §
 
 ### II. Fejezet — A MUNKAERŐPIACON HALMOZOTTAN HÁTRÁNYOS HELYZETBEN LÉVŐ ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
-6. § (1) 2011. december 31-éig az Art. szerinti START EXTRA kártya kiváltására jogosult
-
-- a) a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőzően legalább 3 hónapig álláskeresőként nyilvántartott személy, ha ötvenedik életévét betöltötte, vagy életkorra való tekintet nélkül legfeljebb alapfokú iskolai végzettséggel rendelkezik, vagy
-- b) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső.
-
-(2) A munkaadót az (1) bekezdésben meghatározott személy foglalkoztatásának időtartamára a START EXTRA kártya érvényességi idején belül illeti meg a 7. §-ban meghatározott kedvezmény abban az esetben is, ha a foglalkoztatás időtartama azt meghaladja.
-
-(3) Ha a START-kártya, valamint a START PLUSZ kártya tulajdonosa a kártya érvényességi idején belül START EXTRA kártyára válik jogosulttá, kérelmére az érvényességi időtartamból hátralévő időre START EXTRA kártyát kell részére biztosítani.
-
-(4) A START EXTRA kártya kiváltására a 4. § (6) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-(5) A START EXTRA kártyával rendelkező személyt foglalkoztató munkáltatóra a 4. § (7) bekezdésében, valamint a 4/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-7. § (1) Legfeljebb 2013. december 31-ig az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása után a munkaadót a következők szerint illeti meg a szociális hozzájárulási adóból igénybe vehető részkedvezmény:
-
-a részkedvezmény egyenlő az érvényes START EXTRA kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének huszonhét százalékával a foglalkoztatás első évében, illetve tizenhét százalékával a foglalkoztatás második évében.
-
-(2) A START EXTRA kártyával rendelkező személy foglalkoztatásához kapcsolódó, a szociális hozzájárulási adóból igénybe vehető részkedvezmény érvényesítésére, a kedvezmény megtérítésére, valamint a munkaadó által befizetett szociális hozzájárulási adó, illetve részkedvezmény elszámolására az 5. § (3)–(6) bekezdésében foglaltakat megfelelően alkalmazni kell.
+6–7. §
 
 7/A. § (1) 2012. december 31-éig az Art. szerinti START BÓNUSZ kártya kiváltására jogosult
 
@@ -150,7 +84,7 @@ III. fejezet
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
-8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt terhességi-gyermekágyi segélyben, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
+8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt csecsemőgondozási díjban, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
 
 a) a gyermekgondozási szabadságról visszatérő munkavállaló és emellett
 
@@ -339,6 +273,10 @@ ad ki.
 (3) A 8/B. §-ban meghatározott járulékkedvezmény a 2010. december 31-ét követően gyermekgondozási szabadságról visszatérő munkavállalók esetén alkalmazható.
 
 (4) Ha a Kttv. 1. § a)–d) pontja szerinti szerv az ösztöndíjas foglalkoztatottal 2012. július 1-jét megelőzően létesített ösztöndíjas foglalkoztatatási jogviszonyt, az ösztöndíjas foglalkoztatási jogviszonyra e törvény 2012. június 30-án hatályos, az ösztöndíjas foglalkoztatásra vonatkozó rendelkezéseit kell a jogviszony fennállásáig alkalmazni.
+
+17/B. § 2015. január 1-jét követően az ezt megelőző időszakra utólag kifizetett, juttatott jövedelem tekintetében – amennyiben a törvényi feltételek fennálltak – a 2–7/A. §-ban meghatározott kedvezmények érvényesíthetőek.
+
+17/C. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
 
 ### 1. számú melléklet a 2004. évi CXXIII. törvényhez
 

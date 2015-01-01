@@ -37,6 +37,8 @@ az ingatlan-nyilvántartásról
 
 (3) Az ingatlan-nyilvántartásba bejegyzett jogosultak személyazonosító és lakcímadatai tekintetében a személy- és lakcímnyilvántartás adatai az irányadóak.
 
+(3a) Az ingatlanok címadatát az ingatlan-nyilvántartás az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben (a továbbiakban: Interop. tv.) meghatározott központi címregiszterből (a továbbiakban: KCR) történő automatikus adatátvétel útján származtatott adatként tartalmazza.
+
 (4) Az állami ingatlan-nyilvántartási térképi adatbázis – az ellenkező bizonyításáig – hitelesen tanúsítja a földmérési és térképészeti tevékenységről szóló törvény rendelkezései szerint meghatározott állami alapadat-tartalmat.
 
 (5) Az állami ingatlan-nyilvántartási térképi adatbázisban rögzített földrészletről, továbbá az ott rögzített egyéb önálló ingatlanról – a (6) bekezdés kivételével – az ellenkező bizonyításáig vélelmezni kell, hogy az fennáll, határvonalainak ábrázolása helyes és teljes.
@@ -128,7 +130,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 14. § Az ingatlan-nyilvántartás az ingatlan következő adatait tartalmazza:
 
-- a) a település nevét, az ingatlan fekvését (belterület, külterület megjelölése), a belterületen lévő ingatlannál az utca (tér, krt. stb.) nevét és a házszámot, a helyrajzi számát és területnagyságát,
+- a) a település nevét, az ingatlan fekvését (belterület, külterület megjelölése), a KCR-ből automatikus adatátvétel útján átvett címadatokat a helyrajzi számát és területnagyságát,
 - b) művelési ágát és a művelés alól kivett terület elnevezését,
 - c) minőségi osztályát, kataszteri tisztajövedelmét,
 - d) ingatlan-nyilvántartási szempontból szükséges egyéb adatát.
@@ -183,7 +185,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 13. az ingatlan-nyilvántartási eljárás felfüggesztése,
 - 14. jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
 - 15. bírósági ítéleten alapuló tulajdoni korlátozás,
-- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség,
+- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség, továbbá a kulturális örökség védelméről szóló törvényben meghatározott örökségvédelmi hatósági kötelezés ténye.
 - 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló 17.1. elidegenítési és terhelési tilalom, 17.2. elidegenítési tilalom, 17.3. a rendelkezési jogot korlátozó egyéb tilalom,
 - 18. az e törvényben meghatározott 18.1. perek, 18.2. büntetőeljárás megindítása,
 - 19. árverés vagy nyilvános pályázat kitűzése,
@@ -267,13 +269,47 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 ### Az eljárás fogalma
 
-25. § (1) Az ingatlan-nyilvántartási eljárás az ingatlannal kapcsolatos jogok bejegyzésére és tények feljegyzésére, módosítására, illetve törlésére, valamint az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változások átvezetésére irányuló közigazgatási hatósági eljárás.
+25. § (1) Az ingatlan-nyilvántartási eljárás az ingatlannal kapcsolatos jogok bejegyzésére és tények feljegyzésére, módosítására, illetve törlésére, valamint az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban (ide nem értve az ingatlancímét) bekövetkezett változások átvezetésére irányuló közigazgatási hatósági eljárás.
 
 (2) Az ingatlan-nyilvántartási eljárásban ügyfél az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akit (amelyet) az ingatlan-nyilvántartásba jogosultként bejegyeztek, illetve aki (amely) a bejegyzés folytán jogosulttá, illetve kötelezetté válna, a feljegyzés rá nézve előnyt vagy terhet jelentene, továbbá az ingatlan-nyilvántartási eljárás bejegyzett joga vagy a javára, illetve terhére feljegyzett tény megváltozását vagy törlését eredményezné. Az ingatlan-nyilvántartási eljárásban ügyfél az eljárást kezdeményező hatóság, valamint az adatváltozást bejelentő személy is.
 
 (3) Az ingatlan-nyilvántartási eljárásban az elektronikus kapcsolattartás, valamint az elektronikus ügyintézés – az e törvényben meghatározott kivételekkel – kizárt.
 
 (4) Az a beadvány, amelyhez melléklet nem tartozik, a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott elektronikus űrlap alkalmazásával elektronikus úton is benyújtható.
+
+### A központi címregiszterből történő adatátvétel és a címképző szerv értesítésének szabályai
+
+25/A. § (1) E törvény rendelkezéseit a KCR-ből történő automatikus adatátvétel esetében, valamint a címképző szerv értesítése tekintetében ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti adatátvétel esetén az ingatlanügyi hatóság nem folytat le ingatlan-nyilvántartási közigazgatási hatósági eljárást.
+
+(3) Az ingatlan címét érintő adatváltozás iránti bejelentést, megkeresést széljegyzés nélkül haladéktalanul érdemi vizsgálat nélkül el kell utasítani, és a bejelentőt, megkeresőt tájékoztatni kell a címképzésre jogosult szervről. A kérelemhez csatolt okiratokat, ha azok más eljárás lefolytatásához nem szükségesek, a kérelmező, megkereső részére vissza kell küldeni.
+
+(4) Az ingatlan címadata a KCR-ből történő automatikus adatátvétel (e törvény alkalmazásában a továbbiakban: címadatátvétel) útján válik az ingatlan-nyilvántartás részévé.
+
+25/B. § (1) Az ingatlanügyi hatóság az alábbi változások átvezetéséről rendelkező, a címkoordinátákat és az ingatlan-nyilvántartási azonosító kódot is tartalmazó határozatának a megküldésével tájékoztatja a címképző szervet:
+
+- a) a telekalakítás (ideértve a kisajátítási eljárásban történt változást is),
+- b) az épület feltüntetése és törlése,
+- c) az épület önálló ingatlanná alakítása,
+- d) a társas- és szövetkezeti házalapítás, ezzel kapcsolatos módosítás és megszüntetés.
+
+(2) Az ingatlan-nyilvántartásban létrejövő új földrészletek és egyéb önálló ingatlanok megnyitásra kerülő tulajdoni lapján, ha rendelkezésre áll
+
+- a) telekmegosztás esetén a telekalakítás előtti címadatot,
+- b) telekösszevonás esetén a telekalakítással érintett földrészletek címadatának közös elemeit,
+- c) a 19. § (3) bekezdése szerinti esetben a törzslap címadatát „címképzés alatt” megjegyzéssel kell feltüntetni.
+
+(3) A tulajdoni lapot a címképző szerv (1) bekezdés szerinti tájékoztatásával egyidejűleg – függetlenül attól, hogy a címképzésre sor kerül-e – a (2) bekezdés szerinti megjegyzéssel kell ellátni abban az esetben is, ha a meglévő címadat hiányában annak feltüntetésére nincs lehetőség.
+
+(4) A „címképzés alatt” megjegyzés
+
+- a) a címképzési eljárást követő címadatátvétellel egyidejűleg, vagy
+- b) címképzési eljárás hiányában a címképző szerv által a címadatátvétellel azonos módon elküldött adatok alapján
+
+automatikusan kerül törlésre az érintett ingatlan tulajdoni lapjáról.
+
+(5) Az ingatlanügyi hatóság a címképző szerv részére az (1) bekezdés szerinti tájékoztatását elektronikus formában is teljesítheti.
 
 ### Az eljárás megindítása
 
@@ -319,7 +355,7 @@ azon változásokat, amelyeket eljárása során észlel.
 
 (5) Nincs szükség külön bejelentésre, ha a (3) és (4) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
-(6) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, belterületi határának, továbbá a közterület nevének módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.
+(6) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, illetve belterületi határának módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.
 
 (7) Az ingatlanügyi hatóság a lakcímre is kiterjedő adatfelhasználás esetén az ingatlan-nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha az ingatlan-nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az ingatlan-nyilvántartáson hivatalból átvezeti.
 
@@ -700,7 +736,7 @@ kell csatolnia.
 
 (3) Az ingatlan-nyilvántartási iratok kézbesítésére egyébként a hivatalos iratok kézbesítésének egyszerűsítéséről, illetőleg a postai tevékenységről szóló jogszabály az irányadó.
 
-(4) A határozatot az ingatlan közigazgatási címének közterület-név változás miatt történő átvezetése iránti eljárásban a megkereső részére a (3) bekezdésben foglaltak szerint, az 52. § (1) és (2) bekezdés szerinti jogosultak részére hirdetményi úton kell kézbesíteni.
+(4)
 
 53. § (1) A tulajdonjog, valamint az illetékfizetési kötelezettséggel járó más vagyoni értékű jogok bejegyzéséről szóló határozatot illetékkiszabás céljából meg kell küldeni az állami adóhatóságnak. A bejegyzési határozathoz mellékelni kell az illetékkiszabáshoz szükséges egyéb olyan iratokat is, amelyek az ingatlanügyi hatóság rendelkezésére állnak.
 
@@ -1100,3 +1136,13 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 (5) A jogi személy, valamint az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró jogi személyiséggel nem rendelkező szervezet javára bejegyzett és a Fétv. 108. § (1) bekezdése alapján megszűnt haszonélvezeti jogot az ingatlanügyi hatóság legkésőbb 2014. december 31. napjáig hivatalból köteles törölni az ingatlan-nyilvántartásból.
 
 (6) Nincs helye fellebbezésnek, ha a haszonélvezeti jog törlésére a (3) bekezdés szerint megtett nyilatkozat vagy az (5) bekezdés alapján kerül sor.
+
+95. § (1) A központi címregiszter létrehozásával összefüggő, valamint egyes igazgatási tárgyú törvények módosításáról szóló 2014. évi XCIII. törvénnyel (a továbbiakban: KCR tv.) megállapított címadatátvétel megtörténtéig az ingatlan-nyilvántartás az ingatlan-nyilvántartási adatbázisban már meglévő címadatokat, a címadatrögzítés, illetve címadatváltozás alapjául szolgáló okiratnak megfelelően tartalmazza.
+
+(2) A címadatátvétel útján történő adatváltozást követően az adott ingatlan címadatában bekövetkezett korábbi változás ingatlan-nyilvántartási átvezetése alapjául szolgáló okiratban szereplő címadatot figyelmen kívül kell hagyni.
+
+(3) A címadatátvétellel még nem érintett címek esetében az ingatlan-nyilvántartás tartalmazza a „felülvizsgálat alatt” megjegyzést, melyet a tulajdoni lapon az ingatlan címadata mellett kell megjeleníteni. A megjegyzés az ingatlan-nyilvántartási adatok irányadó jellegét nem érinti.
+
+(4) Az ingatlan címadatát érintő, 2015. január 1. napján folyamatban lévő, valamint a megismételt eljárásokat e törvénynek a KCR tv.-vel megállapított rendelkezései szerint kell lefolytatni.
+
+(5) Az ingatlan-nyilvántartásba címadatátvétel útján bekerült címadatnak az állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetéséről 2015. január 1. és 2015. május 31. között az ingatlanügyi hatóság hivatalból gondoskodik.

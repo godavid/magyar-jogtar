@@ -415,7 +415,7 @@ eredmény adható.
 (7) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a közalkalmazottat
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig
+- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő közalkalmazott esetén a gyermek ötéves koráig
 
 köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
 
@@ -854,7 +854,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (4) A felsőoktatási intézményben – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 115. § (12) bekezdésében az intézményi társaságokkal kapcsolatosan előírt korlátozás megtartása mellett – a magasabb vezető és a vezető megbízásával nem összeférhetetlen a gazdasági társaságban betöltött igazgatósági, felügyelőbizottsági tagság.
 
-(5) A (2) bekezdés b) pontjától eltérően a kutatás-fejlesztésről és a technológiai innovációról szóló törvény szerinti költségvetési kutatóhely által foglalkoztatott közalkalmazott a hasznosító vállalkozásnak – a munkáltató előzetes írásbeli hozzájárulásával – tagja vagy vezető tisztségviselője lehet, illetve azzal munkavégzésre irányuló további jogviszonyt létesíthet.
+(5) A (2) bekezdés b) pontjától eltérően a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti költségvetési kutatóhely által foglalkoztatott közalkalmazott a hasznosító vállalkozásnak – a munkáltató előzetes írásbeli hozzájárulásával – tagja vagy vezető tisztségviselője lehet, illetve azzal munkavégzésre irányuló további jogviszonyt létesíthet.
 
 41/A. §
 
@@ -897,6 +897,8 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 44/A. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaszerződés teljesítésére vonatkozó rendelkezései (VIII. fejezet) közül az 57. § nem alkalmazható.
 
 (2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó munkáltatónál végez munkát.
+
+(3) Az Mt. 53. § (2) bekezdésétől a Magyar Honvédségnél foglalkoztatott közalkalmazottak tekintetében a felek írásbeli megállapodás alapján eltérhetnek.
 
 45–51. §
 
@@ -945,7 +947,7 @@ alapszabadság illeti meg.
 
 (6) A jogszabályban meghatározott egészségkárosító kockázatok között munkahelyen eltöltött napi munkaidőtől függetlenül az (5) bekezdésben meghatározott pótszabadság megilleti azt a közalkalmazottat is, akit rendszeresen kettős egészségkárosító kockázatnak kitett munkakörben foglalkoztatnak, feltéve, hogy az egyik kockázat nem ionizáló sugárzással függ össze.
 
-57/A. §
+57/A. § Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
 57/B. § (1)
 
@@ -957,11 +959,13 @@ alapszabadság illeti meg.
 
 (3) A munkakör és a beosztás [57. § (2) bekezdése] alapján járó pótszabadság közül a magasabb mértékű pótszabadság jár.
 
-58/A. § A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
+58/A. § (1) A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
+
+(2) A munkáltató – ha a kutatónak a kutatás-fejlesztési munka eredménye hasznosításában érdekelt vállalkozásnál történő munkavégzéséhez e törvény szerint előzetesen hozzájárult – a kutatóval kötött megállapodás alapján a kutató számára a megállapodásban meghatározott időtartamra fizetés nélküli szabadságot engedélyez.
 
 59. § (1) A közalkalmazotti jogviszony tekintetében
 
-- a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, a 116–117. §, a 119. § (2) bekezdés, a 123. § (6) bekezdés és a 135. § (4)–(6) bekezdés nem alkalmazható;
+- a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. Fejezet) közül a 92. § (4) bekezdése, a 116–117. §, a 118. § (4) bekezdése, a 119. § (2) bekezdése, a 123. § (6) bekezdése és a 135. § (4)–(6) bekezdése nem alkalmazható;
 - b) jogszabály vagy kollektív szerződés – ágazati, szakmai sajátosságokra tekintettel – az Mt. 86. § (3) bekezdés a) pontjától a közalkalmazott javára eltérhet.
 
 (2) A közalkalmazotti jogviszony tekintetében
@@ -978,6 +982,8 @@ alapszabadság illeti meg.
 
 - a) az 57. § (1) bekezdés szerinti, a fizetési fokozat alapján, és
 - b) az 57. § (2) bekezdés szerinti, a magasabb vezetői vagy vezetői megbízás alapján megállapított pótszabadságot az esedékesség évét követő év végéig adja ki.
+
+(5) A közalkalmazotti jogviszony tekintetében az Mt. 298. § (7) bekezdése nem alkalmazható.
 
 ### V. Fejezet — A közalkalmazottakelőmeneteli és illetményrendszere
 
@@ -1313,7 +1319,8 @@ megfelelő összeg illeti meg.
 
 - a) a KOMT-ban történt egyeztetést követően a reprezentativitás feltételei igazolásának rendjét,
 - b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a személyügyi központ internetes oldalán való közzétételére vonatkozó részletes szabályokat,
-- c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat.
+- c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat,
+- d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
@@ -1483,7 +1490,7 @@ is érteni kell.
 - c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban töltött időt,
 - d) a szolgálati jogviszony időtartamát, továbbá
 - e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
-- f) a hivatásos nevelő szülői jogviszonyban,
+- f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 - g) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, a Ktjv., valamint a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 - h) az állami vezetői szolgálati jogviszonyban
 

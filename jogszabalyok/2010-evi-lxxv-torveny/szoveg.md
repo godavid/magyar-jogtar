@@ -105,7 +105,7 @@ a munkáltató közterhet nem fizet.
 
 9. § (1) E törvény alkalmazásában a 7. § (2) bekezdésében említett foglalkoztatásból származó jövedelemnek a kifizetett (nettó) munkabér száz százalékát kell tekinteni.
 
-(2) A 7. § (2) bekezdésében említett foglalkoztatásból származó bevételből – figyelemmel a (4) bekezdés rendelkezésére – a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, kivéve, ha az egyszerűsített foglalkoztatásból származó bevétele meghaladja az e foglalkoztatás naptári napjai száma és az adóév első napján hatályos kötelező legkisebb munkabér napibérként meghatározott összegének szorzatát (e szorzat a továbbiakban: mentesített keretösszeg).
+(2) A 7. § (2) bekezdésében említett foglalkoztatásból származó bevételből a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, feltéve hogy az egyszerűsített foglalkoztatásból származó bevétele nem haladja meg az egyszerűsített foglalkoztatás naptári napjainak száma és az adóév első napján hatályos kötelező legkisebb munkabér (minimálbér) vagy – ha részére alapbérként, illetve teljesítménybérként legalább a garantált bérminimum 87 százaléka jár – a garantált bérminimum napibérként meghatározott összegének szorzatát (e szorzat a továbbiakban: mentesített keretösszeg).
 
 (3) Amennyiben a természetes személynek a személyi jövedelemadó-bevallási kötelezettségét teljesítenie kell, jövedelemként az (1) bekezdés szerinti összegnek a mentesített keretösszeget meghaladó részét kell figyelembe venni.
 
@@ -197,7 +197,7 @@ rendeletben szabályozza.
 
 16/A. § Az egyes foglalkoztatási tárgyú törvényeknek a Magyary Egyszerűsítési Programmal összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCXVI. törvény 16. §-ával megállapított 9. § (2)–(4) bekezdése az egyszerűsített foglalkoztatásból 2012. évben megszerzett jövedelem személyi jövedelemadó-kötelezettségének megállapítása során is alkalmazható, ha az a természetes személy számára kedvezőbb.
 
-#### 17. §
+17. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 9. § (2) bekezdése az egyszerűsített foglalkoztatásból 2014. évben megszerzett jövedelem személyi jövedelemadó-kötelezettségének megállapítása során is alkalmazható, ha az a természetes személy számára kedvezőbb.
 
 #### 18. §
 

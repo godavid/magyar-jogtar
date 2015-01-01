@@ -67,7 +67,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 ### A tőkeemelés és befolyásszerzés szabályai
 
-8. § (1) Az 5. § (1) bekezdésének b) pontjában meghatározott intézkedések meghozatalára a Felügyelet Felügyeleti Tanácsának elnöke és az MNB elnöke együttes javaslata alapján, az e törvényben meghatározottak szerint a hitelintézet kérelmére vagy egyetértésével kerülhet sor.
+8. § (1) Az 5. § (1) bekezdés b) pontjában meghatározott intézkedések meghozatalára az MNB elnöke javaslata alapján, az e törvényben meghatározottak szerint a hitelintézet kérelmére vagy egyetértésével kerülhet sor.
 
 (2) A hitelintézet kérelmére vagy egyetértésével megvalósuló intézkedés során
 

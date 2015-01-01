@@ -31,6 +31,10 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - 12. metil-xantin: a koffein (1,3,7-trimetil-xantin), a teobromin (3,7-dimetil-xantin), a teofillin (1,3-dimetil-xantin).
 - 13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
 - 14. szörp: A Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, víz- és kivonatalapú, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból vagy cukorszirupból, ízesítő és adalékanyagok hozzáadásával állítottak elő.
+- 15. adalékanyag: a Magyar Élelmiszerkönyv szerinti adalékanyag és aroma, ide nem értve a színezőanyagként használt karamellt,
+- 16. gyógynövény: az a növény, melynek valamely szervét, gyökerét, levelét, virágját, termését vagy bármely más részét a benne lévő hatóanyaga miatt a gyógyászatban alkalmazzák,
+- 17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
+- 18. gyümölcspárlat: a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK rendelet) II. számú melléklete 6. vagy 9. kategóriája szerint készített, EK rendelet szerinti szeszes ital.
 
 #### 2. Az adókötelezettség
 
@@ -48,12 +52,18 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 (a továbbiakban: energiaital);
 
-- c) a 1704, 1905, 2105 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, továbbá az 1806 VTSZ szám alá tartozó termék a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 40 gramm cukor/100 gramm mennyiséget és kakaótartalma 40 gramm/100 gramm terméknél alacsonyabb (a továbbiakban együtt: előrecsomagolt cukrozott készítmény);
+- c) a hozzáadott cukrot tartalmazó
+  - ca) 1704, 1905, 2105 VTSZ szám alá tartozó termék, ha cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, ide nem értve azt a terméket, amely legalább 20 gramm méz/100 gramm mennyiséget tartalmaz, feltéve, hogy cukortartalma nem haladja meg a 40 gramm cukor/100 gramm mennyiséget,
+  - cb) 1806 VTSZ szám alá tartozó termék a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 40 gramm cukor/100 gramm mennyiséget és kakaótartalma 40 gramm/100 gramm terméknél alacsonyabb
+
+[a ca) és cb) alpont a továbbiakban együtt: előrecsomagolt cukrozott készítmény];
+
 - d) a c) pont hatálya alá nem tartozó 1905, 2005 20 20, 2008 VTSZ szám alá tartozó, gabona, burgonya vagy olajos magvak felhasználásával készült, sütött, extrudált vagy pörkölt, ízesített és azonnali fogyasztásra alkalmas termék, ha sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget, ide nem értve a kenyeret és a Magyar Élelmiszerkönyv szerinti, legfeljebb 2 gramm só/100 gramm sótartalmú sütőipari terméket (a továbbiakban: sós snack);
 - e) a 2103, 2104 VTSZ szám alá tartozó – gyermektápszernek, fogyasztásra kész levesnek vagy mártásnak nem minősülő – termék, ha sótartalma meghaladja az 5 gramm só/100 gramm mennyiséget (a továbbiakban: ételízesítő), kivéve a mustár, a ketchup és az olyan, nem szárított, aprított vagy pépesített, sózott ételízesítő zöldség készítményt, amelynek sótartalma nem haladja meg a 15 gramm só/100 gramm mennyiséget;
 - f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott cukrot tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: ízesített sör);
 - g) a 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt tartalmaz, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
-- h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).
+- h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz);
+- i) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő ital, ide nem értve a gyümölcspárlatot, a Jöt. 68. § (1) bekezdése hatálya alá tartozó italokat, továbbá az adalékanyagot nem tartalmazó, legalább hét különböző gyógynövény felhasználásával előállított italokat (a továbbiakban: alkoholos ital).
 
 3. § (1) Adókötelezettség terheli az adóköteles termék:
 
@@ -87,7 +97,14 @@ személy, szervezet.
 - d) sós snack esetében 250 forint/kilogramm,
 - e) ételízesítő esetében 250 forint/kilogramm,
 - f) ízesített sör és alkoholos frissítő esetében 20 forint/liter,
-- g) gyümölcsíz esetén 500 forint/kilogramm.
+- g) gyümölcsíz esetén 500 forint/kilogramm,
+- h) alkoholos ital esetében, ha annak alkoholtartalma
+  - ha) 1,2 térfogatszázaléknál nagyobb, de az 5 térfogatszázalékot nem haladja meg 20 forint/liter,
+  - hb) 5 térfogatszázaléknál nagyobb, de a 15 térfogatszázalékot nem haladja meg 100 forint/liter,
+  - hc) 15 térfogatszázaléknál nagyobb, de a 25 térfogatszázalékot nem haladja meg 300 forint/liter,
+  - hd) 25 térfogatszázaléknál nagyobb, de a 35 térfogatszázalékot nem haladja meg 500 forint/liter,
+  - he) 35 térfogatszázaléknál nagyobb, de a 45 térfogatszázalékot nem haladja meg 700 forint/liter,
+  - hf) 45 térfogatszázaléknál nagyobb 900 forint/liter.
 
 #### 6. Mentesség az adó alól
 
@@ -150,6 +167,10 @@ adóköteles termék mennyisége termékenkénti bontásban.
 (3) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.
 
 (4) Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2012. évi XVIII. törvény 43. §-ával megállapított 2. § h) pontját 2012. január 1-jétől kell alkalmazni.
+
+(5) Ha az alkoholos ital első belföldi teljesítési helyű értékesítése 2014-ben, a Jöt. szerinti szabad forgalomba bocsátása pedig 2014. december 31-ét követően valósul meg, akkor – a 3. § (1) bekezdés a) pontjában foglaltaktól eltérően – az adókötelezettség az alkoholos ital Jöt. szerinti szabad forgalomba bocsátását terheli. Az adó alanya – a 4. § a) pontjában foglaltaktól eltérően – az alkoholos ital Jöt. szerinti szabad forgalomba bocsátója.
+
+(6) Az (5) bekezdés szerinti adókötelezettség utáni adót – a 8. § (1) bekezdésében foglaltaktól eltérően – az alkoholos ital szabad forgalomba bocsátásának napját magában foglaló, 10. § (2) bekezdése vagy a 10. § (3) bekezdése szerinti bevallási időszakra kell megállapítani és a 10. § (2) bekezdése vagy a 10. § (3) bekezdése szerint bevallani.
 
 11. § A népegészségügyi termékadóból és a baleseti adóból származó bevétel az Egészségbiztosítási Alap bevételét képezi.
 

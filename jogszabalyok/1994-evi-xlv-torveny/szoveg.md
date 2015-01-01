@@ -147,7 +147,7 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 ### Hadiözvegyi járadék
 
-13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 75%-a.
+13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 112,5%-a.
 
 (2) Ha a hadiözvegy a hadigondozotti pénzellátáson kívül (hadiözvegyi járadék) nem rendelkezik egyéb jövedelemmel, akkor pénzellátását a 11. § (3) bekezdésében meghatározott módon növelni kell.
 
@@ -236,7 +236,7 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 (2) A természetbeni ellátások és kedvezmények (17., 18., 22. és 24. §) költségeként az ezen szolgáltatások igénybevételéért az azokra vonatkozó szabályok alapján az igénybe vevő személy részére egyébként megállapítható térítés számolható el.
 
-(3) A hadigondozás költségeinek kezelésére a Kormány közalapítványt hoz létre. A közalapítvány céljára rendelt vagyon a központi költségvetésből a hadigondozás finanszírozására elkülönített összeg.
+(3) A hadigondozás költségeinek kezelésére a Kormány közalapítványt hoz létre. A közalapítvány céljára rendelt vagyon a központi költségvetésből a közalapítvány céljainak finanszírozására elkülönített összeg.
 
 (4) A Közalapítvány a hadigondozással kapcsolatos költségeket és kiadásokat az Egészségbiztosítási Alapnak, Nyugdíjbiztosítási Alapnak állami, önkormányzati intézményeknek, illetőleg a szolgáltatást nyújtónak – külön megállapodás szerint – havonta megtéríti.
 

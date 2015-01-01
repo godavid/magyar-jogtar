@@ -84,7 +84,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (4) A háznagyot mentelmi jog illeti meg. A mentelmi jogra a képviselők mentelmi jogára vonatkozó szabályokat kell alkalmazni.
 
-(5) A háznagy – a képviselői megbízatás kivételével – más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
+(5) A háznagy – a képviselői megbízatás kivételével – más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el.
 
 (6) A képviselői megbízatással rendelkező háznagy javadalmazása megegyezik az alelnök javadalmazásával.
 
@@ -591,6 +591,32 @@ használható.
 
 (3) Az Országgyűlés által választott közjogi tisztségviselők esetében a kialakított véleményt az országgyűlési bizottság előadója az Országgyűlés ülésén ismerteti. A többi jelöltről a véleményt az országgyűlési bizottság elnöke a házelnöknek küldi meg, aki azt a javaslattételi és a kinevezési jogkör gyakorlójához eljuttatja.
 
+44/A. § (1) A házelnök
+
+- 1. a köztársasági elnök,
+- 2. a miniszterelnök,
+- 3. az Alkotmánybíróság elnöke és tagja,
+- 4. a Kúria elnöke,
+- 5. a legfőbb ügyész,
+- 6. az Országos Bírósági Hivatal elnöke,
+- 7. az alapvető jogok biztosa és helyettesei,
+- 8. az Állami Számvevőszék elnöke,
+- 9. a Nemzeti Választási Bizottság elnöke és tagja,
+- 10. a Nemzeti Emlékezet Bizottságának elnöke és tagjai,
+- 11. a Médiatanács elnöke és tagja,
+- 12. a Független Rendészeti Panasztestület elnöke és tagja,
+- 13. a Közszolgálati Közalapítvány kuratóriumának elnöke, tagja,
+- 14. a Közbeszerzési Hatóság elnöke, alelnöke, tagja,
+- 15. a Gazdasági Versenyhivatal elnöke, elnökhelyettese,
+- 16. az Egyenlő Bánásmód Hatóság elnöke, elnökhelyettese,
+- 17. a Nemzeti Adatvédelmi és Információszabadság Hatósága elnöke, elnökhelyettese,
+- 18. a Magyar Nemzeti Bank elnöke, alelnöke,
+- 19. a Nemzeti Média- és Hírközlési Hatóság elnöke,
+- 20. a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke és elnökhelyettese,
+- 21. a Nemzeti Választási Iroda elnöke, elnökhelyettese részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
+
+(2) A házelnök részére a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság elnöke állít ki közjogi tisztségviselői igazolványt.
+
 #### 18. A tárgyalási rend fenntartása, a fegyelmi jogkör
 
 45. § Az Országgyűlés ülése zavartalan lefolytatásának biztosítása az ülést vezető elnök feladata, ennek érdekében az ülést vezető elnök, illetve – az ülést vezető elnök vagy a Házbizottság javaslatára – az Országgyűlés a 46–51/A. §-ban meghatározott intézkedéseket alkalmazhatja.
@@ -1020,7 +1046,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 30. Összeférhetetlenség
 
-80. § (1) A képviselői megbízatás – a (2) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más kereső foglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
+80. § (1) A képviselői megbízatás – a (2) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 
 (2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 

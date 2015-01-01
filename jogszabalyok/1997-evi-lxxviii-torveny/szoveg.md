@@ -1123,25 +1123,9 @@ első fokú végzés ellen.
 
 53/D. §
 
-### III/A. Fejezet — EGYES KERESKEDELMI ÉPÍTMÉNYEK LÉTESÍTÉSÉRŐL
+### III/A. Fejezet
 
-53/E. § E Fejezet alkalmazásában:
-
-Kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti üzlet és bevásárlóközpont.
-
-53/F. § (1) 300 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény nem létesíthető – ideértve a kereskedelmi építmény kialakítása érdekében az építmény engedélyköteles átalakítását is –, vagy ezt meghaladó méretre nem bővíthető.
-
-(2) Az (1) bekezdésben foglalt tilalom alól a kereskedelemért, a környezetvédelemért és a vidékfejlesztésért felelős miniszterek részvételével működtetett Bizottság véleményének kikérésével a kereskedelemért felelős miniszter felmentést adhat.
-
-(3) A (2) bekezdés szerinti felmentés iránti kérelmet a kereskedelemért felelős miniszterhez kell benyújtani. Az (1) bekezdés szerinti kereskedelmi építményre összevont telepítési eljárást, építési engedélyezési eljárást, összevont engedélyezési eljárást a (2) bekezdésben foglalt miniszteri felmentéssel rendelkező kérelmező indíthat.
-
-(4) A (2) bekezdés szerinti Bizottság a felmentésre irányuló kérelemről történő vélemény kialakítása során, valamint a kereskedelemért felelős miniszter a felmentésről való döntés meghozatala során a fenntartható kereskedelem követelményeit vizsgálja, különösen az alábbi szempontok szerint:
-
-- a) a tervezett építmény vidékre és a környezet védelmére gyakorolt hatása, különösen a települést és annak vonzáskörzetét illetően,
-- b) az érintett település és annak vonzáskörzetéhez tartozó települések népességének kereskedelmi ellátottsága,
-- c) helyi és egyéb piaci lehetőségek.
-
-53/G. § Az e Fejezet szerinti eljárás a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hatósági eljárásnak minősül.
+53/E–53/G. §
 
 ### IV. Fejezet — AZ ÉPÍTETT KÖRNYEZET FENNTARTÁSA, HASZNÁLATA ÉS ÉRTÉKEINEK VÉDELME
 
@@ -1358,16 +1342,11 @@ tartalmazza.
 
 E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybalépésétől kezdődően a korábbi rendezési tervek alapján fennálló, a tulajdonosi érdekeket sértő övezeti előírások változásával, az egyedi határozattal elrendelt, továbbá az egyedi határozattal el nem rendelt tilalmakkal kapcsolatban.
 
-(3) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 53/E–53/G. §-át az olyan építési engedélyezési eljárásban is alkalmazni kell, amelyeknél a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépésekor az építési engedélyt az eljáró hatóság még nem adta ki, vagy –bejelentéshez kötött építési tevékenység esetén – a bejelentést még nem vette nyilvántartásba. Az ilyen eljárásban a 35. § (3) bekezdése nem alkalmazható. A kereskedelmi építményre kiadott, a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépése időpontjában hatályos elvi építési engedély hatálya 2015. december 31-ig meghosszabbodik.
+(3)
 
 (3a) E törvénynek az egyes törvények fogyasztóvédelmi célú módosításáról szóló 2013. évi CLXXXIII. törvénnyel megállapított 53/F. § (1) bekezdését az olyan építési engedélyezési eljárásban is alkalmazni kell, amelynél az egyes törvények fogyasztóvédelmi célú módosításáról szóló 2013. évi CLXXXIII. törvény 16. §-ának hatálybalépésekor az építési engedélyt az eljáró hatóság még nem adta ki.
 
-(4) Aki a felvonó vagy mozgólépcső (mozgójárda) létesítésére, üzembe helyezésére, rendeltetésszerű használatára, alkalmasságának ellenőriztetésére, biztonságtechnikai felülvizsgálatára vonatkozó kötelességét megszegi, azt a Magyar Kereskedelmi Engedélyezési Hivatal, mint műszaki biztonsági hatóság
-
-- a) természetes személy esetén 300 000 forintig,
-- b) jogi személy vagy jogi személyiség nélküli szervezet esetén 500 000 forintig
-
-terjedő közigazgatási bírsággal sújtja.
+(4)
 
 (5) 2013. január 1-től az elsőfokú építésügyi hatósági feladat- és hatáskör önkormányzati társulás útján nem látható el.
 
@@ -1398,6 +1377,12 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 (12) Amennyiben a keretövezet változtatása szükséges, és a (10) bekezdésben foglalt eset nem áll fenn, a fővárosi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervet módosíthatja.
 
 (13) A bíróság az 58. § (13) bekezdése szerinti kötelezettségét 2013. december 31-éig papír alapon is teljesítheti. Az adatkezelő gondoskodik a papír alapú ítéletek Nyilvántartásba történő elektronikus feltöltéséről.
+
+60/A. § Hatályát veszti a III/A. Fejezet, a 60. § (3) és (4) bekezdése, valamint a 62. § (1a) bekezdése.
+
+60/B. § Az 57/D. § (1) bekezdésében meghatározott Bizottságot 2015. január 15-ig létre kell hozni. A miniszter 2015. január 8-ig felkéri a Bizottság tagjait kijelölni jogosult minisztereket, hogy jelöljenek tagokat a Bizottságba.
+
+60/C. § A kereskedelemről szóló 2005. évi CLXIV. törvény szerinti üzlet és bevásárlóközpont építésére vonatkozó, 2015. január 1-jét követően benyújtott építésügyi hatósági engedély iránti kérelmekre e törvénynek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek az egyes kereskedelmi építmények engedélyezése fenntarthatósági szempontjainak érvényesítése érdekében történő módosításáról szóló 2014. évi CXIII. törvénnyel megállapított rendelkezéseit kell alkalmazni azzal, hogy a 2015. január 1. és 2015. január 31. között benyújtott építésügyi hatósági engedély iránti kérelmek esetében az ügyintézési határidő 2015. február 1-jén kezdődik, a kérelmek elbírálását ezen a napon kell elkezdeni.
 
 61. § (1) Ahol jogszabály
 
@@ -1444,13 +1429,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 rendelettel állapítsa meg.
 
-(1a) Felhatalmazást kap a Kormány, hogy
-
-- a) a 300 m2-nél nagyobb alapterületű kereskedelmi építményekre a fenntartható kereskedelemmel összefüggő építésügyi és környezetvédelmi, valamint kereskedelmi követelményeket,
-- b) az 53/F. § (2) bekezdésében meghatározott Bizottság összetételét és működését, továbbá
-- c) az 53/F. § (3) bekezdése szerinti felmentés iránti eljárás sajátos szabályait
-
-rendeletben állapítsa meg.
+(1a)
 
 (1b) Felhatalmazást kap a Kormány arra, hogy az építmények építészeti-műszaki tervezése során végezhető feladatok körét, valamint az építészeti-műszaki tervezési tevékenység ellátásáért felszámítható tervezési díj tartalmát rendeletben állapítsa meg.
 

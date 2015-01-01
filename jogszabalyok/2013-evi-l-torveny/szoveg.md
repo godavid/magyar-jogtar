@@ -112,7 +112,7 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 
 (2) A 2. § (2) bekezdés c) pontjában megjelölt elektronikus információs rendszerek – az (1) bekezdésben meghatározott kivétellel – az Európai Unió tagállamai területén üzemeltethetőek.
 
-(3) A 2. § (1) bekezdés a)–k) pontjában megjelölt szervek által kezelt adatok elektronikus információs rendszerei az elektronikus információs rendszerek biztonságának felügyeletét ellátó szervezeti egység (a továbbiakban: hatóság) engedélyével vagy nemzetközi szerződés alapján az Európai Unió tagállamainak területén belül üzemeltetett elektronikus információs rendszerekben is kezelhetőek.
+(3) A 2. § (1) bekezdés a)–k) pontjában megjelölt szervek által kezelt adatok elektronikus információs rendszerei az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság (a továbbiakban: hatóság) engedélyével vagy nemzetközi szerződés alapján az Európai Unió tagállamainak területén belül üzemeltetett elektronikus információs rendszerekben is kezelhetőek.
 
 (4) A törvény hatálya alá tartozó elektronikus információs rendszert működtető, nem Magyarországon bejegyzett vállalkozásnak Magyarország területén működő képviselőt kell kijelölnie, aki az e törvényben foglaltak végrehajtásáért a szervezet vezetőjére vonatkozó szabályok szerint felel.
 
@@ -181,7 +181,7 @@ szintű.
 
 (2) Ha a vizsgálat alapján meghatározott biztonsági szint alacsonyabb, mint az adott szervezetre a 9. § (2) bekezdésében előírt biztonsági szint, akkor a szervezetnek a vizsgálatot követő 90 napon belül cselekvési tervet kell készítenie a számára előírt biztonsági szint elérésére.
 
-(3) Ha a biztonsági szint a vizsgálat alapján az 1. szintet nem éri el, akkor az 1. szint eléréséhez szükséges intézkedéseket az (1) bekezdésben meghatározott szempontok szerint lefolytatott vizsgálatot követő egy éven belül meg kell valósítani.
+(3) Ha a biztonsági szint a vizsgálat alapján az 1. szintet nem éri el, az 1. szint eléréséhez szükséges intézkedéseket az (1) bekezdésben meghatározott szempontok szerint lefolytatott vizsgálatot követő két éven belül meg kell valósítani.
 
 (4) A 9. § (2) bekezdésében előírt biztonsági szint teljesítése során a szervezetnek lehetősége van az előírt biztonsági szint fokozatos elérésére. Ennek keretében a magasabb biztonsági szint elérésére – minden egyes szintet érintően, a következő magasabb szintre lépéshez – két év áll rendelkezésére.
 
@@ -262,7 +262,7 @@ a hatóság részére.
 
 #### 7. Az elektronikus információs rendszerek biztonságának felügyelete
 
-14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonságának felügyeletét – a 2. § (3) és (4) bekezdésben meghatározott kivétellel – az informatikáért felelős miniszter látja el a hatóság útján, amely az informatikáért felelős miniszter által vezetett minisztérium szervezeti keretében önálló feladatkörrel és hatósági jogkörrel rendelkező szervezeti egység.
+14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonságának felügyeletét – a 2. § (3) és (4) bekezdésében meghatározott kivétellel – a Kormány által kijelölt hatóság látja el.
 
 (2) A hatóság feladata:
 
@@ -283,7 +283,7 @@ a hatóság részére.
 
 (3) A hatóság (2) bekezdés a), b) és e) pontjában meghatározott feladatának ellátása során a Nemzeti Biztonsági Felügyelet szakhatóságként jár el.
 
-(4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az informatikáért felelős miniszter az e-közigazgatásért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
+(4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az e-közigazgatásért felelős miniszter az informatikáért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
 
 15. § (1) A hatóság nyilvántartja és kezeli
 
@@ -326,13 +326,13 @@ a hatóság részére.
 
 #### 8. Információbiztonsági felügyelő
 
-17. § (1) Az információbiztonsági felügyelőt a hatóság javaslatára az informatikáért felelős miniszter a 16. § (3) bekezdése szerinti esetben rendelheti ki.
+17. § (1) Az információbiztonsági felügyelőt a hatóság javaslatára az e-közigazgatásért felelős miniszter a 16. § (3) bekezdése szerinti esetben rendelheti ki.
 
 (2) Az információbiztonsági felügyelő a fenyegetés elhárításához szükséges védelmi intézkedések eredményes megtétele érdekében a Kormány által rendeletben meghatározott intézkedéseket, eljárásokat javasolhat, a szervezet intézkedései tekintetében kifogással élhet. Az információbiztonsági felügyelő pénzügyi kötelezettségvállalásra nem jogosult.
 
-(3) Az információbiztonsági felügyelő határozott időtartamra szóló kirendeléséről és a kirendelés visszavonásáról az informatikáért felelős miniszter gondoskodik. Az információbiztonsági felügyelő tevékenységének szakmai irányítását az informatikáért felelős miniszter látja el.
+(3) Az információbiztonsági felügyelő határozott időtartamra szóló kirendeléséről és a kirendelés visszavonásáról az e-közigazgatásért felelős miniszter gondoskodik. Az információbiztonsági felügyelő tevékenységének szakmai irányítását az e-közigazgatásért felelős miniszter látja el.
 
-(4) Az információbiztonsági felügyelő az informatikáért felelős miniszter által vezetett minisztérium kormánytisztviselője, akinek a kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(4) Az információbiztonsági felügyelő az e-közigazgatásért felelős miniszter által vezetett minisztérium kormánytisztviselője, akinek a kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
 (5) Információbiztonsági felügyelőnek az a személy nevezhető ki, aki rendelkezik a feladatellátáshoz szükséges felsőfokú végzettséggel és szakképzettséggel, valamint legalább 3 év vezetői gyakorlattal.
 
@@ -428,11 +428,13 @@ a hatóság részére.
 - e) a kormányzati eseménykezelő központ és az ágazati eseménykezelő központok feladat- és hatáskörét, és
 - f) a 21. § szerinti Tanács, Fórum és a kiberbiztonsági ágazati munkacsoportok létrehozásával, működtetésével kapcsolatos szabályokat, feladat- és hatáskörüket.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
+
 (2) Felhatalmazást kap
 
 - a) az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel és a minősített adatok védelmének szakmai felügyeletéért felelős miniszterrel egyetértésben meghatározza az 5. § és 6. §-ban előírt technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre vonatkozó követelményeket, továbbá a 7–8. § szerinti biztonsági osztályba sorolás és a szervezetek 9–10. § szerinti biztonsági szintbe sorolásának követelményeit,
-- b) a közigazgatás-fejlesztésért felelős miniszter, hogy az informatikáért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
-- c) az informatikáért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének, a biztonsági események jelentésének és közzétételének rendjét rendeletben határozza meg.
+- b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
+- c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének, a biztonsági események jelentésének és közzétételének rendjét rendeletben határozza meg.
 
 (3) Felhatalmazást kap
 
@@ -459,6 +461,26 @@ hogy az elektronikus információs rendszer biztonságának felügyeletével és
 (3) A szervezet a 15. § (1) bekezdés a) és c) pontjában foglalt adatokat az e törvény hatálybalépésétől számított 60 napon belül, a 15. § (1) bekezdés d) pontjában foglalt szabályzatot az e törvény hatálybalépésétől számított 90 napon belül nyilvántartásba vétel céljából köteles bejelenteni a hatóságnak.
 
 (4) A törvény hatálybalépésekor az elektronikus információs rendszer biztonságáért felelős személy feladatait ellátó személyeknek a 13. § (8) bekezdésben előírt képzési követelményeknek a hatálybalépést követő öt éven belül kell eleget tenniük.
+
+(5) A 2. § (1) bekezdése alá tartozó, 2014. július 1-jét követően jogelőd nélkül létrejött szervezet esetében
+
+- a) a 9. § szerinti biztonsági szintbe sorolást a létesítést megalapozó döntés hatálybalépésétől számított egy éven belül kell elvégezni;
+- b) a (3) bekezdés szerinti adatközlésre megállapított határidőket a létesítést megalapozó döntés hatálybalépésétől kell alkalmazni.
+
+(6) A 2. § (2) bekezdése alapján a törvény hatálya alá 2014. július 1-jét követően kerülő szervezetek tekintetében
+
+- a) a 2. § (2) bekezdés a) pontja szerinti adatkezelési tevékenység feltétele, hogy az adatkezelést végző az adatkezelési tevékenység megkezdése előtt a törvény 7. § szerinti biztonsági osztályba sorolási, továbbá a (3) bekezdés szerinti bejelentési kötelezettségének eleget tegyen;
+- b) a 2. § (2) bekezdés b) pontja esetében a (3) bekezdés szerinti határidőket az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől kell számítani, a 7. § szerinti biztonsági osztályba sorolást az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépését követő három hónapon belül kell elvégezni;
+- c) a 2. § (2) bekezdés c) pontja esetében a (3) bekezdés szerinti határidőket a létfontosságú információs rendszerelemmé kijelölő határozat jogerőre emelkedésétől kell számítani, a 7. § szerinti biztonsági osztályba sorolást a kijelölő határozat jogerőre emelkedését számított egy éven belül kell elvégezni.
+
+(7) A (4) szerinti kötelezettség teljesítésére megállapított határidőt a 2014. július 1-jét követően a törvény hatálya alá kerülő szervezetek esetében
+
+- a) a 2. § (1) bekezdés tekintetében a szervezet létesítését megalapozó döntés hatálybalépésétől;
+- b) a 2. § (2) bekezdés a) pont tekintetében az adatkezelés megkezdésétől;
+- c) a 2. § (2) bekezdés b) pont tekintetében az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől;
+- d) a 2. § (2) bekezdés c) pont tekintetében a létfontosságú információs rendszerelemmé kijelölő határozat jogerőre emelkedésétől
+
+kell számítani.
 
 #### 16. Módosító rendelkezések
 

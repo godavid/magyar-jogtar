@@ -154,7 +154,13 @@ lép.
 
 #### 29. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-76. §
+76. § (1) A hagyatéki eljárásról szóló 2010. XXXVIII. törvény (a továbbiakban: Hetv.) 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A közjegyző a hagyatéki eljárás iratait cégbíróság, közigazgatási szerv vagy más hatóság részére a Pp.-ben meghatározottak szerint, elektronikus úton kézbesíti, a megkeresett cégbíróság, közigazgatási szerv vagy más hatóság pedig a Pp.-ben meghatározottak szerint, elektronikus úton válaszol a megkeresésre. E rendelkezést az ingatlanügyi hatóság eljárásával kapcsolatosan nem kell alkalmazni.”
+
+(2) A Hetv. 11. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A hagyatéki eljárásban érdekelt a hagyatéki ügy megjelölésével elektronikus beadványában kérheti, hogy a részére szóló iratok a Pp.-ben meghatározottak szerint, elektronikus úton kerüljenek kézbesítésre.”
 
 77. §
 
@@ -188,19 +194,47 @@ lép.
 
 92. § (1)
 
-(2)
+(2) A Cnytv. 5. § (3) bekezdése a következő c) ponttal egészül ki:
+
+[Az e törvényben szabályozott polgári nemperes eljárásokban az eljárás szünetel, ha]
+
+„c) az elektronikus útra kötelezett vagy elektronikus utat választó kérelmező nem biztosítja – külön jogszabályban meghatározott módon – azt, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok elektronikus úton kézbesíthetőek legyenek.”
 
 93. §
 
-94–95. §
+94. § A Cnytv. 20. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A szervezet valamely szervezeti egységének jogi személlyé nyilvánítása esetén a nyilvántartásba vétel iránti kérelemnek tartalmaznia kell a következőket is:]
+
+„b) a jogi személy szervezeti egység ügyintéző és képviseleti szervének nevét, és a jogi személy szervezeti egység képviselőjének nevét és anyja születési nevét.”
+
+95. § A Cnytv. 20. §-a a következő (5)–(7) bekezdéssel egészül ki:
+
+„(5) A kérelemnek – ha az a szervezet adószámának, illetve statisztikai számjelének megállapítása, illetve beszerzése iránti kérelmet is tartalmaz – az (1) bekezdésben meghatározottakon kívül tartalmaznia kell:
+
+a) a szervezet képviselőjének adóazonosító számát,
+
+b) az általános forgalmi adó alanyának az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti, az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozatát,
+
+c) a szervezet kiegészítő jellegű gazdasági főtevékenységét és ténylegesen végzett tevékenységi köreit azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével,
+
+d) a szervezet gazdálkodási formáját (GFO kód szerint).
+
+(6) A kérelemnek – ha a kérelem a szervezet jogi személy szervezeti egysége adószámának, illetve statisztikai számjelének megállapítása, illetve beszerzése iránti kérelmet is tartalmaz – tartalmaznia kell az (5) bekezdésben meghatározott adatokat, azzal, hogy a kérelemnek a szervezet képviselőjének adóazonosító száma helyett a jogi személy szervezeti egység képviselőjének adóazonosító számát kell tartalmaznia.
+
+(7) A bíróság – adószám, illetve statisztikai számjel megállapítása, illetve beszerzése iránti kérelem esetén – az informatikai rendszer útján adja át az állami adó- és vámhatóság, illetve a Központi Statisztikai Hivatal részére az (1), illetve a (3) bekezdésben meghatározott, az adószám, illetve a statisztikai számjel megállapítása, illetve beszerzése érdekében szükséges adatokat. Továbbá a bíróság átadja a szervezet nyilvántartási számát is, ha a kérelem a szervezet jogi személy szervezeti egysége adószámának, statisztikai számjelének beszerzésére irányul.”
 
 96–100. §
 
-101. §
+101. § A Cnytv. a 18. alcímet megelőzően a következő 43/A. §-sal egészül ki:
+
+„43/A. § A bíróság a szervezetet akkor törölheti a nyilvántartásból, ha az állami adó- és vámhatóság arról tájékoztatja, hogy a szervezetnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez és a szervezet a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban. Szftv.) 6/C. § szerinti elszámolásra nem kötelezett, illetve az elszámolási kötelezettségének eleget tett. Ha a tájékoztatás szerint az állami adó- és vámhatóság a szervezetnél eljárást folytat, ellenőrzést vagy végrehajtást kezdeményez, vagy az Szftv. 6/C. § szerinti elszámolásra kötelezett, amely elszámolási kötelezettségének nem tett eleget, a szervezet csak az adóhatósági eljárások jogerős befejezéséről szóló, végelszámolás esetén pedig ezen felül a köztartozást érintően nemlegesnek minősülő, továbbá a Szftv. 6/C. § szerinti elszámolásról szóló tájékoztatást követően törölhető a nyilvántartásból.”
 
 102–104. §
 
-105. §
+105. § A Cnytv. 63. §-ának nyitó szövegrésze helyébe a következő rendelkezés lép:
+
+„Az egyesület nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell az egyesület képviselőjének anyja születési nevét és a vezető tisztségviselői megbízás időtartamát is. Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:”
 
 106. §
 
@@ -315,10 +349,12 @@ d) az a)–c) pont alá nem tartozó esetben az állami adó- és vámhatóságn
 - a)
 - b)
 - c)
-- d)–e)
+- d)
+- e) 43/A. §-ában a „vámhatóság arról tájékoztatja” szövegrész helyébe a „vámhatóság elektronikus úton arról tájékoztatja” szöveg, a „tájékoztatást követően” szövegrész helyébe a „elektronikus tájékoztatást követően” szöveg,
 - f)
 - g)
-- h)–i)
+- h)
+- i)
 
 lép.
 

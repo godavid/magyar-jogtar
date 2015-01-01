@@ -104,10 +104,12 @@ benyújtásával a hatáskörrel és illetékességgel rendelkező szervnél elj
 
 - a) az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA),
 - b) az Európai Mezőgazdasági Garancia Alap (a továbbiakban: EMGA),
-- c) az Európai Halászati Alap (a továbbiakban: EHA) keretében, valamint
+- c) az Európai Halászati Alap (a továbbiakban: EHA), továbbá az Európai Tengerügyi és Halászati Alap (a továbbiakban: ETHA) keretében, valamint
 - d) a tagállami hatáskörben
 
 hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek hatáskörébe tartozó eljárására.
+
+(1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a III. Fejezet, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a) és (2) bekezdése, a 81. § (3) bekezdés b)–d) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
 
 (2) E törvény végrehajtásáért az EMVA vagy az EHA terhére nyújtott támogatás tekintetében az agrár-vidékfejlesztésért felelős miniszter, az EMGA terhére nyújtott támogatás tekintetében az agrárpolitikáért felelős miniszter felel, amelynek keretében:
 
@@ -176,7 +178,7 @@ gyakorolja.
 - c) gondoskodik az egyes intézkedésekhez kapcsolódó monitoringrendszer működéséhez és az ellenőrzési feladatok végrehajtásához szükséges ágazati információs rendszereknek más információs rendszerekkel való összehangolásáról;
 - d) közleményt ad ki a forrás kimerüléséről.
 
-(2) Az agrárpolitikáért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), valamint g) és h) pontjai szerinti irányítási jogköröket gyakorolja.
+(2) Az agrárpolitikáért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 
 (3)
 
@@ -202,7 +204,7 @@ gyakorolja.
 - g) felel a partnerség elvének közösségi jogszabályok szerinti érvényesüléséért;
 - h) működteti a monitoringrendszert, valamint átveszi és kezeli az 1698/2005/EK rendeletben, valamint az 1198/2006/EK rendeletben foglalt adatszolgáltatási, jelentéstételi és értékelési kötelezettségek teljesítésére, a mezőgazdasági és vidékfejlesztési támogatási szerv által gyűjtött és összesített, az integrált igazgatási és ellenőrzési rendszerben nyilvántartott monitoringadatokat.
 
-(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a Ksztv. 2. § (1) bekezdés c), g) és h) pontja szerinti irányítási jogköröket gyakorolja.
+(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az Áht. 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 
 (3)
 
@@ -1279,12 +1281,14 @@ rendeletben állapítsa meg.
 
 (1a) Felhatalmazást kap a Kormány, hogy az Európai Unió jogi aktusa vagy e törvény alapján átruházható feladatok körét rendeletben állapítsa meg, továbbá hogy a 11. § (10) bekezdése szerinti esetben az igazoló szervet, az igazoló hatóságot, az ellenőrző hatóságot, az átruházott feladatot ellátó szervezetet, a közreműködő szervezetet, az együttműködő szervezetet és a nemzeti vidéki hálózat titkárságát rendeletben jelölje ki.
 
+(1b) Felhatalmazást kap a Kormány, hogy az EMVA, az EHA és az ETHA tekintetében rendeletben állapítsa meg a III. Fejezet végrehajtásával kapcsolatos részletes szabályokat.
+
 (2) Felhatalmazást kap a Kormány, hogy a mezőgazdasági és vidékfejlesztési támogatási szervet rendeletben kijelölje.
 
 (3) Felhatalmazást kap az agrár-vidékfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben
 
 - a) az e törvény hatálya alá tartozó, az EMVA-ból és az EHA-ból támogatott intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
-- b) az EMVA-ból és az EHA-ból támogatott intézkedések igénybevétele vonatkozásában az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
+- b) az EMVA-ból, az EHA-ból és az ETHA-ból támogatott intézkedések igénybevétele vonatkozásában az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
 - c) a helyi akciócsoportok elismerési rendjének részletes szabályait és a helyi akciócsoportokat,
 - d) a nemzeti vidéki hálózat felállításával kapcsolatos részletes szabályokat,
 - e) az EMVA-ból és az EHA-ból támogatott intézkedések esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoring-indikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,

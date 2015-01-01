@@ -587,7 +587,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 458. § (1) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó, a mezőgazdasági őstermelő az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a ónapnak azt a napját, amelyre a tagja, illetőleg maga az egyéni vállalkozó, a mezőgazdasági őstermelő
 
-- a) táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban részesül;
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül;
 - b) gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozási segély, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, illetőleg az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja.
 
 (2) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó, a mezőgazdasági őstermelő az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, illetőleg maga az egyéni vállalkozó, a mezőgazdasági őstermelő
@@ -601,7 +601,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (5) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, a nem eva adóalany egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(4) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja, illetőleg az egyéni vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban áll, vagy közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. Az egyidejűleg fennálló több munkaviszony esetében az egyes munkaviszonyokban előírt munkaidőt a heti legalább 36 órás foglalkoztatás megállapításánál össze kell adni.
 
-(6) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(5) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja más kifizetővel is az adóalap megállapításának különös szabályai hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszonyban áll, vagy egyéni vállalkozóként az adóalap megállapításának különös szabályai hatálya alatt áll, feltéve, hogy a másik kifizető e napot a taggal fennálló jogviszonya alapján őt terhelő adó, illetve az egyéni vállalkozó e napot a saját maga után fizetendő adó alapjának megállapításkor számításba veszi.
+(6) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(5) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja kifizetővel is az adóalap megállapításának különös szabályai hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszonyban áll, vagy egyéni vállalkozóként az adóalap megállapításának különös szabályai hatálya alatt áll, feltéve, hogy a kifizető e napot a taggal fennálló jogviszonya alapján őt terhelő adó, illetve az egyéni vállalkozó e napot a saját maga után fizetendő adó alapjának megállapításkor számításba veszi.
 
 (7) Az (5)–(6) bekezdésben foglaltak alkalmazásának feltétele, hogy a kifizető részére a természetes személy nyilatkozatot tesz a legalább heti 36 órás foglalkoztatással járó munkaviszonya fennállásáról, tanulmányai folytatásáról, illetőleg a más kifizetővel fennálló, az adóalap megállapításának különös szabályai hatálya alá tartozó jogviszonyáról. A természetes személy az olyan változásról, amely az (5)–(6) bekezdésben foglalt rendelkezések alkalmazását érinti, haladéktalanul újabb nyilatkozatot tesz a kifizető részére. A nyilatkozat tartalmazza a természetes személy természetes személyazonosító adatait, valamint adóazonosító jelét, ennek hiányában a személyazonosító okmánya típusának megjelölését és számát, valamint lakcímét. Az újabb nyilatkozat megtételének elmulasztása miatt keletkezett adóhiány és jogkövetkezményei megtérítését a kifizető a nyilatkozatot elmulasztó természetes személytől igényelheti. Ha az újabb nyilatkozat megtételének elmulasztása miatt keletkezett adóhiányt a kifizetőtől nem lehet behajtani, az adóhiány és jogkövetkezményei megfizetésére az állami adóhatóság a nyilatkozatot elmulasztó természetes személyt határozattal kötelezheti.
 
@@ -613,10 +613,11 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (2) A fizetendő adó megállapításánál a számított adót – e törvény külön rendelkezése alapján akár a számított adót meghaladó mértékben – a következő adókedvezmények csökkentik:
 
-- a) a munkabérek értékének megőrzését célzó adókedvezmény;
+- a) a szabad vállalkozási zónákban működő vállalkozások adókedvezménye;
 - b) a Karrier Híd Program megvalósítását célzó adókedvezmény;
 - c) a munkaerő-piaci szempontból kedvezőtlen helyzetű társadalmi csoportok és a munkaerő-piacról tartósan távollévők foglalkoztatása, munkaerő-piaci versenyképességük kiegyenlítése, valamint a pályakezdő fiatalok gyakorlati munkatapasztalat-szerzésének megkönnyítése céljából más törvényben meghatározott, annak rendelkezése szerint az adóból érvényesíthető adókedvezmény;
-- d) a szakképzettséget nem igénylő munkakörökhöz kapcsolódó adókedvezmény.
+- d) a szakképzettséget nem igénylő munkakörökhöz kapcsolódó adókedvezmény;
+- e) a kutatók foglalkoztatása után járó adókedvezmény.
 
 ### Adókedvezmények
 
@@ -750,8 +751,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (5) E § alkalmazásában
 
-- a) kutatóhely: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény (a továbbiakban: Innovációs tv.) 4. § 4. a) pontja szerinti kutatóhely,
-- b) kutató, fejlesztő: az Innovációs tv. 4. § 4. d) pontja szerinti kutató, fejlesztő.
+- a) kutatóhely: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény (a továbbiakban: Innovációs tv.) szerinti kutatóhely,
+- b) kutató, fejlesztő: az Innovációs tv. szerinti kutató, fejlesztő.
 
 ### A foglalkoztatott munkavállalók után érvényesíthető adókedvezmény korlátozása
 
@@ -765,7 +766,15 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (4) A szociális hozzájárulási adóból törvény alapján érvényesíthető kedvezmény kiszámításánál a munkavállalót a munkaviszonyára tekintettel megillető (bruttó) munkabért a számviteli törvényben foglaltak alkalmazásával kell meghatározni.
 
-(5) Részmunkaidős foglalkoztatás esetén a 461. §-ban, 462/B–462/E. §-ban meghatározott kedvezmény legfeljebb 100 ezer forintnak, a 462/F. §-ban meghatározott kedvezmény legfeljebb 500 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után illeti meg a munkáltatót. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+(5) Részmunkaidős foglalkoztatás esetén
+
+- a) a 461. §-ban, 462/B. §-ban, 462/C. §-ban és a 462/E. §-ban meghatározott kedvezmény legfeljebb 100 ezer forintnak,
+- b) a 462/F. § (2) bekezdés a) pontjában meghatározott kedvezmény legfeljebb 500 ezer forintnak,
+- c) a 462/F. § (2) bekezdés b) pontjában meghatározott kedvezmény legfeljebb 200 ezer forintnak
+
+a részmunkaidő és a teljes munkaidő arányában csökkentett része után illeti meg a munkáltatót. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+
+463/A. § A 461. §-ban és a 462/B–462/D. §-ban meghatározott kedvezményeket a költségvetési szerv kifizető nem érvényesítheti.
 
 ### Eljárási szabályok
 
@@ -833,17 +842,17 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 
 (3) Az Európai Unió kötelező jogi aktusának vagy a nemzetközi szerződésnek a rendelkezését kell alkalmazni, amennyiben az adóra kiterjedő hatályú jogi aktus, illetőleg nemzetközi szerződés e fejezettől eltérő rendelkezést tartalmaz.
 
-465/A. § (1) A 462/A. § alapján nyújtott támogatások csekély összegű támogatásnak minősülnek, amelyeket kizárólag az Európai Közösséget létrehozó Szerződés 87. és 88. cikkelyének a csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379/5. 2006.12.28.) (a továbbiakban: 1998/2006/EK bizottsági rendelet) szabályai alapján lehet nyújtani.
+465/A. § (1) A 462/A. § alapján nyújtott támogatások csekély összegű támogatásnak minősülnek, amelyeket kizárólag az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) szabályai alapján lehet nyújtani.
 
-(2) A 462/A. § alapján nem nyújtható csekély összegű (de minimis) támogatás az 1998/2006/EK bizottsági rendelet 1. cikkében meghatározottakra.
+(2) A 462/A. § alapján nem nyújtható csekély összegű (de minimis) támogatás az 1407/2013/EU bizottsági rendelet 1. cikkében meghatározottakra.
 
-(3) A csekély összegű támogatás odaítélésének feltétele, hogy a kedvezményezett nyilatkozik arról, hogy az előző három pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak, közúti szállítási ágazatban a 100 000 eurónak megfelelő forint összeget.
+(3) A csekély összegű támogatás odaítélésének feltétele, hogy a kedvezményezett nyilatkozik arról, hogy az előző három pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak, közúti szállítási ágazatban a 100 000 eurónak megfelelő forintösszeget.
 
-(4) Az 1998/2006/EK bizottsági rendelet 3. cikk 1. pontja szerinti kötelezettséget, a támogatást nyújtó köteles teljesíteni.
+(4) Az 1407/2013/EU bizottsági rendelet 6. cikk 1. pontja szerinti kötelezettséget, a támogatást nyújtó köteles teljesíteni.
 
-(5) Azonos elszámolható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a Bizottság 800/2008/EK általános csoportmentességi rendeletében vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
+(5) Azonos elszámolható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendeletben (a továbbiakban: 651/2014/EU bizottsági rendelet) vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
 
-465/B. § E törvény 462/E. §-a a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL L 214., 2008. 08. 09., 3–47. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
+465/B. § E törvény 462/E. §-a a 651/2014/EU bizottsági rendelet hatálya alá tartozó regionális beruházási támogatási programnak minősül.
 
 ### Értelmező rendelkezések
 
@@ -862,7 +871,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
   - d) a bírósági jogviszony,
   - e) az igazságügyi alkalmazotti szolgálati viszony,
   - f) az ügyészségi szolgálati jogviszony,
-  - g) a hivatásos nevelőszülői jogviszony,
+  - g) a nevelőszülői foglalkoztatási jogviszony,
   - h) az ösztöndíjas foglalkoztatási jogviszony,
   - i) a közfoglalkoztatási jogviszony,
   - j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
@@ -893,6 +902,8 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 467/B. § Ha a kifizető a 2013. július 1-jét megelőző adó-megállapítási időszakban a szabad vállalkozási zónákban működő vállalkozások adókedvezményét érvényesítette, az adókedvezményt a 462/E. § 2013. június 30-án hatályos rendelkezései alapján – választás szerint – továbbra is alkalmazhatja.
 
 467/C. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 464/D. § és 466. § 9. pontja visszamenőlegesen 2013. augusztus 29-étől alkalmazható.
+
+467/D. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
 
 ### X. Fejezet — KULTURÁLIS ADÓ
 

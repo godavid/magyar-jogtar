@@ -250,7 +250,7 @@ lajstromban tartja nyilván.
 
 18/A. § Amennyiben a biztosítási igazolás hiánya miatt a hajózási hatóság a külföldi lobogójú hajó üzemeltetésének korlátozásáról vagy megtiltásáról dönt, köteles erről az Európai Bizottságot, a többi EGT-államot és a hajó lobogója szerint illetékes állam hatóságát értesíteni.
 
-19. § (1) Az üzemben tartó a nyilvántartásba vételre kötelezett úszólétesítményt az üzembe helyezését megelőzően, továbbá üzemeltetése során, meghatározott időszakonként köteles az üzemképesség megállapítása céljából – az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló miniszteri rendeletekben megállapított feltételek szerint – a hajózási hatóságnak bemutatni.
+19. § (1) Az üzemben tartó a nyilvántartásba vételre kötelezett úszólétesítményt az üzembe helyezését megelőzően, továbbá üzemeltetése során, meghatározott időszakonként köteles az üzemképesség megállapítása céljából – a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendeletben [a továbbiakban: 13/2001. (IV. 10.) KöViM rendelet] megállapított feltételek szerint – a hajózási hatóságnak bemutatni.
 
 (2) Az üzemben tartónak a nyilvántartásba vételre kötelezett úszólétesítmény üzemképességének újbóli megállapítását kell a hajózási hatóságtól kérnie, ha az úszólétesítményben az üzemképességet érintő változás (sérülés, meghibásodás, illetve annak kijavítása) történt.
 
@@ -301,6 +301,23 @@ lajstromban tartja nyilván.
 (3) A hajózási hatóság által kiadott képesítő okmánnyal rendelkező személy nem végezheti a képesítő okmányban megnevezett képesítésnek megfelelő tevékenységet, ha büntetett előéletű, vagy ha hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatálya alatt áll.
 
 (4) A hajózási hatóság az általa kiadott hajózási képesítő okmányokról közhiteles hatósági nyilvántartást vezet.
+
+(5) A hajózási hatóság statisztikai célra az Európai Bizottság számára évente személyazonosításra alkalmatlan módon elektronikus úton átadja a tárgyévet megelőző év december 31-éig nyilvántartásába vett tengerész képesítő okmányok következő adatait:
+
+- a) a tengerész születési dátuma,
+- b) a tengerész állampolgársága,
+- c) a tengerész neme,
+- d) a képesítő okmány bejegyzett száma,
+- e) a képesítő okmány kiadását igazoló érvényesítési száma,
+- f) szolgálati minőség,
+- g) a kiállítás dátuma vagy az újraérvényesítés legutóbbi dátuma,
+- h) a lejárat dátuma,
+- i) a képesítő okmányok státusa,
+- j) korlátozások,
+- k) elismert képesítések esetén
+  - ka) az eredeti képesítő okmányt kiadó ország megnevezése,
+  - kb) az eredeti képesítő okmány száma,
+  - kc) az elismerést igazoló érvényesítés száma.
 
 26/A. § (1) A képesítéshez kötött szolgálat gyakorlását megelőzően a képesítő okmány kiadása céljából a kérelmező
 
@@ -560,11 +577,63 @@ kezeli.
 - b) a (4) bekezdés b) pontjában meghatározott esetben a vizsga letételéig,
 - c) a (4) bekezdés c) pontjában meghatározott esetben az engedély visszavonásáig vagy hatályának lejártáig kezeli.
 
+(6) A hajózási hatóság a tengerészek jogszerű foglalkoztatásának biztosítása érdekében a tengerész munkaközvetítői és munkaerő-kölcsönzési tevékenység feltételeiről szóló kormányrendeletben meghatározottak szerint a tengerész munkaközvetítőkről és a tengerész kölcsönbeadókról nyilvántartást vezet, amely a következő adatokat tartalmazza:
+
+- a) a nyilvántartásba vételt tartalmazó határozat száma és kelte;
+- b) a tengerész munkaközvetítők és a tengerész kölcsönbeadók szervezeti formája, székhelye, telephelye, a képviseletre jogosult természetes személy természetes személyazonosító adatai;
+- c) az állami foglalkoztatási szervnek a tengerész munkaközvetítő és a tengerész kölcsönbeadó nyilvántartásba vételéről rendelkező határozatának száma és kelte;
+- d) a tengerész munkaközvetítő és a tengerész kölcsönbeadó Tengerészeti Munkaügyi Egyezménynek való megfelelését igazoló, a hajózási hatóság által kiadott bizonyítvány száma;
+- e) a tengerész munkaközvetítő és a tengerész kölcsönbeadó hajózási hatóság nyilvántartásából való törlésére, tevékenységének felfüggesztésére vonatkozó adatok.
+
+(6a) A tengerész munkaközvetítők és a tengerész kölcsönbeadók nyilvántartása a természetes személyazonosító adatok kivételével közhiteles nyilvántartásnak minősül, amelyet a hajózási hatóság honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
+
+(6b) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat a tengerész munkaközvetítő vagy a tengerész kölcsönbeadó nyilvántartásból való törlését követő két évig kezeli.
+
 ### VII/A. Fejezet — Hajózásbiztonsági vagy közbiztonsági érdeket érintő adat kezelése
 
 48/B. § (1) A 2. § (1) bekezdésének f) pontjában meghatározott folyami információs szolgáltatás alkalmazása során hajózásbiztonsági és forgalomkönnyítési célokból rögzített adatok kezelésére, valamint a külföldi folyami információs szolgálatokkal folytatott adatcserére a folyami információs szolgáltatási központot működtető hajózási hatóság, illetve az általa a központ technikai üzemeltetésével megbízott szervezet jogosult.
 
 (2) A folyami információs szolgáltatások alkalmazása során rögzített adatok forrását bármilyen felhasználás esetében fel kell tüntetni.
+
+48/C. § (1) Abból a célból, hogy ellenőrizhetővé váljon, hogy az EGT-állam lobogója alatt közlekedő úszólétesítmények csak egy európai hajóazonosító számot használnak, a hajózási hatóság a Bizottság elektronikus hajóadatbázisába a következő adatokat rögzíti:
+
+- 1. a hajózási hatóság által kibocsátott egységes európai hajóazonosító szám;
+- 2. a 13/2001. (IV. 10.) KöViM rendelet 2. melléklet 1.02. cikk 1. és 2. pontjában meghatározott hajó
+  - a) neve,
+  - b) 13/2001. (IV. 10.) KöViM rendelet 2. melléklet I. Rész 1. fejezete 1.01 cikk szerint meghatározott fajtája,
+  - c) legnagyobb hossza (m), beleértve a kormányberendezést, a propulziós művet, a gépészeti és egyéb szerkezeteket,
+  - d) szélessége (a hajótest legnagyobb szélessége a külhéj külső éléig mérve, beleértve az összes állandó szerkezeteket méterben),
+  - e) merülése (T) (a hajótest legalsó pontja – a gerinc és a rögzített szerelvények figyelembevétele nélkül – és a legnagyobb merülési vonal között mért függőleges távolság méterben);
+- 3. annak az okmánynak a megnevezése, amelyben az egységes európai hajóazonosító szám és a 2. pontban lévő adatok szerepelnek (közösségi bizonyítvány);
+- 4. áruszállító hajók esetén, azok hordképessége;
+- 5. nem áruszállító hajók esetén a hajó vízbe merült térfogata (m3);
+- 6. tulajdonos neve;
+- 7. az okmányt kiállító hatóság;
+- 8. a közösségi belvízi hajóbizonyítvány száma;
+- 9. a közösségi bizonyítvány érvényességének lejárata;
+- 10. az adatbázis összeállítója;
+- 11. a nemzeti azonosítószám;
+- 12. a hajó – a folyami információs szolgáltatások szakmai és működtetési szabályairól szóló 45/2011. (VIII. 25.) NFM rendelet 2. § 1. pontja szerinti – AIS-készülékben rögzített típusa;
+- 13. annak jelölése, hogy a hajótest egy- vagy kettős héjazatú (ADN szerint);
+- 14. oldalmagasság (m), a hajótest legalsó pontja vagy a gerinc és a fedélzet legalsó pontja között a hajó oldalán mért legrövidebb függőleges távolság;
+- 15. tengeri hajóknál
+  - a) bruttó űrtartalom;
+  - b) a Nemzetközi Tengerészeti Szervezettől származó azonosító szám (IMO-szám);
+  - c) hívójel;
+- 16. a nemzetközi rádióállomás-azonosító MMSI-szám (AIS-készülék felhasználójának mozgószolgálati azonosító száma);
+- 17. a hajófedélzeti kommunikációs berendezés egyedi azonosító kódja, az ATIS-kód;
+- 18. az egyéb bizonyítványok típusa, száma, kiállító hatósága és lejárati időpontja.
+
+(2) Az adatokat az EGT-államok egységes európai hajóazonosító számot kiadó hatóságai
+
+- a) a biztonságos víziközlekedés,
+- b) a hajóazonosító szám bejegyzése,
+- c) hajóokmányok kiállítása, érvényességi idejének megállapítása, pótlása, ellenőrzése, adatainak módosítása, továbbá az
+- d) üzemképesség vizsgálatára irányuló szemlék lefolytatása
+
+érdekében kezelhetik.
+
+(3) A hajózási hatóság harmadik állam vagy nemzetközi szervezet számára személyes adatot a (2) bekezdésben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvény külföldre történő adattovábbítás szabályai alapján adhat át.
 
 ### VIII. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY IDEIGLENES IGÉNYBEVÉTELE
 
@@ -1068,6 +1137,9 @@ rendeletben történő megállapítására.
 - g) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk.
 - h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével;
 - i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt;
-- i) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló, 2009. április 23-i 2009/20/EK európai parlamenti és tanácsi irányelvnek a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt.
+- i)
+- j) az Európai Parlament és a Tanács (2009. április 23.) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló 2009/20/EK irányelve a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt,
+- k) az Európai Parlament és a Tanács (2012. november 21.) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló 2012/35/EU irányelve a hajózási képesítésekről és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletekkel együtt,
+- l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013/49/EU irányelve.
 
 91–93. §
