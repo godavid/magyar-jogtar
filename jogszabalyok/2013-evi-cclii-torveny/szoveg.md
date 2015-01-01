@@ -624,7 +624,9 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 (32)
 
-(33)
+(33) A Ctv. 72/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A cég a törvényességi felügyeleti eljárásban kérelmét kizárólag elektronikus úton nyújthatja be.”
 
 (34)–(42)
 
@@ -728,11 +730,15 @@ lép.
 
 130. § (1)–(7)
 
-(8)
+(8) A Cnytv. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét), anyja születési nevét is.”
 
 (9)–(15)
 
-(16)
+(16) A Cnytv. 58/B. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Az alapítványok egyesülésének vagy szétválásának bejegyzésére akkor kerülhet sor, ha az állami adó- és vámhatóság – a bírósági elektronikus értesítést követő öt munkanapon belül – elektronikus úton arról tájékoztatja a bíróságot, hogy az átalakulással érintett alapítványnál az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás nincs folyamatban, vagy az állami adó- és vámhatóság ilyen adóigazgatási eljárást nem kezdeményez. Ha az állami adó- és vámhatóság tájékoztatása szerint az alapítványnál ilyen eljárás van folyamatban, vagy az állami adó- és vámhatóság ilyen eljárást kezdeményez, az átalakulás az adóigazgatási eljárás jogerős befejezéséről szóló elektronikus tájékoztatást követően, ennek hiányában az átalakulás bejegyzése iránti kérelem elbírálására nyitva álló határidő kezdetétől számított kilencvenedik napon jegyezhető be.”
 
 (17)
 
@@ -888,7 +894,13 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 154. § (1)–(14)
 
-(15)
+(15) A Bit. 161/A. § (5) bekezdése a következő b) és c) ponttal egészül ki:
+
+[A megkereső biztosító az 1. számú melléklet A) rész 10., 11., 12., és 13. pontjában meghatározott ágazatokhoz tartozó szerződés megkötésével vagy teljesítésével kapcsolatban a károsult személy előzetes hozzájárulása esetén az alábbi adatokat kérheti:]
+
+„b) a személyi sérülés miatt kárigényt vagy személyiségi jogsérelem miatt sérelemdíj iránti igényt érvényesítő személy adatfelvételkori, a szerződéses kockázattal kapcsolatos egészségi állapotára vonatkozó adatokat; és
+
+c) a károsodott vagyontárgyat vagy a személyi sérülés miatt kárigényt, vagy személyiségi jogsérelem miatt sérelemdíj iránti igényt érvényesítő személyt érintő korábbi – az e bekezdésben meghatározott ágazathoz tartozó szerződéssel kapcsolatos – biztosítási eseményekre vonatkozó adatokat.”
 
 (16)–(20)
 

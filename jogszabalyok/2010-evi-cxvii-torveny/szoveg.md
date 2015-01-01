@@ -149,7 +149,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 (4) A mezőgazdasági igazgatási szerv az általa e törvény alapján nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
-11/A. § (1) A Nemzeti Adó- és Vámhivatal a bioüzemanyag előállítására alkalmas létesítmények adóraktári engedélyezésével, valamint adóraktári engedélyének megszűnésével kapcsolatos eljárásában összegyűjti az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek az Európai Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló, 2010. június 24-i 617/2010/EU, Euratom európai tanácsi rendelet 5. cikk (3) bekezdése szerinti jelentéstételhez szükséges adatokat.
+11/A. § (1) A Nemzeti Adó- és Vámhivatal a bioüzemanyag előállítására alkalmas létesítmények adóraktári engedélyezésével, valamint adóraktári engedélyének megszűnésével kapcsolatos eljárásában összegyűjti az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 256/2014/EU, európai parlamenti és a tanácsi rendelet 5. cikk (3) bekezdése szerinti jelentéstételhez szükséges adatokat.
 
 (2) A Nemzeti Adó- és Vámhivatal az (1) bekezdés szerint összegyűjtött adatokat a Magyar Energetikai és Közmű-szabályozási Hivatal részére továbbítja.
 
@@ -214,7 +214,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 - h) 2003/30/EK irányelv 4. cikk (1) bekezdésének,
 - i) a 2009/28/EK irányelv 14. cikk (1) bekezdésének való megfelelést szolgálja.
 
-15/A. § E törvény 11/A. §-a az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek az Európai Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló 2010. június 24-i, 617/2010/EU, Euratom európai tanácsi rendelet 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
+15/A. § E törvény 11/A. §-a a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU európai parlamenti és tanácsi rendelet 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 16. §
 

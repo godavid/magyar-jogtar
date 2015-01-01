@@ -25,6 +25,8 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (5) A befizetett adó egy-egy százalékáról csak teljes egészében lehet rendelkezni.
 
+(6) Az adózó a rendelkező nyilatkozaton rendelkezhet úgy, hogy nevét és postai, illetve elektronikus levelezési címét a 4. § (1) bekezdése szerinti kedvezményezettel közöljék.
+
 2. § (1) Ha a magánszemély a befizetett adójának legalább egyik egy százalékáról rendelkezett, és rendelkezésének teljesítése megtörtént, a teljesítés szerinti összeg kizárólag abban az esetben módosítható, ha a módosítás vagy módosítások által a teljesítés szerinti összeg kedvezményezettenként legalább ötezer forinttal növekszik, és a rendelkező nyilatkozat évét követő év július 31. napjáig
 
 - a) az adóhatósági ellenőrzés során hozott – az adó összegének növekedéséről szóló – jogerős határozat alapján esedékessé vált adótöbbletet a magánszemély megfizette, vagy
@@ -51,7 +53,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet végez, továbbá alapszabálya, alapító okirata szerint megfelel a Civil tv. 34. § (1) bekezdés d) pontja szerinti feltételnek;
 
 - b) a Magyar Tudományos Akadémia;
-- c) az Országos Tudományos Kutatási Alapprogramok (OTKA);
+- c)
 - d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény: 1. Magyar Állami Operaház, 2. Magyar Országos Levéltár, 3. Országos Széchényi Könyvtár, 4. Magyar Nemzeti Filmarchívum, 5. Neumann János Multimédia Központ és Digitális Könyvtár;
 - e) az országos szakmúzeumok;
 - f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetésből egyedi támogatásban részesült és nem tartozik az előző kategóriákba;
@@ -63,11 +65,11 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 (2a)
 
-(3) Ha az (1) bekezdés szerinti kedvezményezett az (5) bekezdésben megjelölt határidőben nem igazolja a kedvezményezetti feltételek fennállását, nem jogosult a felajánlott összegre. Az utalás akkor teljesíthető, ha a kedvezményezett késedelmét igazolási kérelemmel kimenti, vagy kivételes méltányosságot érdemlő körülmények fennállása esetén. Kivételes méltányosságot érdemel különösen, ha a rendelkezett összeg átutalásának meghiúsulása a kedvezményezett alapvető céljának elérését súlyosan veszélyezteti. A kivételes méltányosság gyakorlása esetén a 6. § (1) bekezdése szerinti átutalást – legkésőbb a rendelkező nyilatkozat éve utolsó napját követő egy éven belül – az adóhatóság akkor teljesítheti, ha ezt megelőzően a kedvezményezett az (5) bekezdés szerinti igazolási kötelezettségének eleget tett.
+(3)
 
 (4) A jogutódlással megszűnt kedvezményezett javára felajánlott adóösszegek – a 4. § (1) bekezdésében előírt követelmények teljesítése esetén – a kedvezményezett jogutódját illetik meg. A jogutód nélkül megszűnt kedvezményezett javára felajánlott adóösszegek az (1) bekezdés h) pontja szerinti kedvezményezettet illetik meg.
 
-(5) Az adóhatóság a magánszemélyek saját érdekkörébe tartozóan érvényes rendelkező nyilatkozatai alapján minden év szeptember 1-éig felhívja az (1) bekezdés szerinti kedvezményezettet az (1) bekezdésben meghatározottak 30 napon belüli igazolására. A felhívást a kedvezményezett levelezési címére, ennek hiányában székhelyére kell megküldeni. A határidő elmulasztása esetén a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az igazolási kérelemre vonatkozó rendelkezéseit kell alkalmazni.
+(5)
 
 (6) A magánszemély rendelkező nyilatkozatában felajánlásra kerülő összegre igényt tartó szervezetnek az adóhatóságnál kell előzetesen – elektronikus úton – regisztrálnia és igazolnia a kedvezményezetté válás 4. § (1) bekezdésében foglalt feltételeit, valamint bejelenteni a kiutaláshoz szükséges adatokat. A regisztrációs kérelem benyújtásának határideje a rendelkező évet megelőző év szeptember 30-a, amely határidő jogvesztő. A szervezet a nyilvántartásba vételt követő évben válik kedvezményezetté, a regisztráció visszavonásig érvényes.
 
@@ -114,7 +116,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 - b) két rendelkező nyilatkozat esetén mindkét kedvezményezett a 4. §-ban vagy a 4/A. §-ban említettek körébe tartozik,
 - c) a rendelkező nyilatkozat nem tartalmaz adószámot, illetve technikai számot, vagy az téves, illetve olvashatatlan, kivéve, ha a 4/A. §-ban meghatározott kedvezményezett a rendelkező nyilatkozatból enélkül is egyértelműen azonosítható,
 - d) a rendelkező nyilatkozat vagy a boríték, illetve annak továbbítása nem felel meg az 5. § (1)–(5) bekezdésének,
-- e) az arra kötelezett kedvezményezett a 4. § (1) bekezdése szerinti feltételek meglétét a 4. § (5) bekezdése szerinti eljárásban nem igazolja.
+- e) az arra kötelezett kedvezményezett a 4. § (1) bekezdése szerinti feltételek meglétét a 4. § (6) bekezdése szerinti eljárásban nem igazolja.
 
 (2) Ha az adóhatóság megállapítja a rendelkező nyilatkozatban foglalt rendelkezésnek – a magánszemély saját érdekkörébe tartozó – érvénytelenségét, erről a magánszemélyt a rendelkező nyilatkozat évének november 30-áig elektronikus úton, ügyfélkapu hiányában postai úton értesíti. Ha az adóhatóság a rendelkező nyilatkozat évének november 30-áig nem állapítja meg a rendelkező magánszemély saját érdekkörébe tartozó érvénytelenségét, és az általa megjelölt kedvezményezett a 6/A. § (3) bekezdése alapján az adóhatóság honlapján közzétett tájékoztatóban szerepel, a rendelkezést teljesíti.
 
@@ -142,13 +144,13 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 (3) Az adóhatóság csak
 
 - a) a rendelkező nyilatkozattal összefüggésben indított peres eljárás esetén annak befejezéséig az abban eljáró személynek, és
-- b) a 2. § (1) bekezdésében meghatározott többlet kiutalásakor, a 2. § (3) bekezdésében, az 5/A. § (5) bekezdésében, valamint a 6/A. § (5) bekezdésében meghatározott eljárás során engedélyezheti az egymástól az (1) és (2) bekezdés szerint elkülönített adatok kódjel alapján történő összekapcsolását.
+- b) a 2. § (1) bekezdésében meghatározott többlet kiutalásakor, a 2. § (3) bekezdésében, 6/A. § (6) bekezdésében, az 5/A. § (5) bekezdésében, valamint a 6/A. § (5) bekezdésében meghatározott eljárás során engedélyezheti az egymástól az (1) és (2) bekezdés szerint elkülönített adatok kódjel alapján történő összekapcsolását.
 
 (4) Az adóhatóság őrzési kötelezettsége a rendelkező nyilatkozat évét követő évtől számított ötödik év végéig – ezt meghaladóan a rendelkező nyilatkozattal összefüggésben ezen időpontig indított peres eljárás esetén annak jogerős befejezéséig – áll fenn. E határidő elteltét követően az adóhatóság a borítékokat és a rendelkező nyilatkozatokat, illetve az elektronikus űrlap adatait, továbbá az adatbázisa rendelkező nyilatkozatokkal kapcsolatos adatait megsemmisíti oly módon, hogy helyreállításuk többé ne legyen lehetséges.
 
 #### 5. A támogatás átutalásának szabályai
 
-6. § (1) Az adóhatóság a 3. §-ban meghatározott összeget a 4. § (1) bekezdésében meghatározott kedvezményezett részére a 4. § (1) bekezdésben foglalt feltételek igazolására vonatkozó nyilatkozat benyújtásától számított 30 napon belül, de legkésőbb a rendelkező nyilatkozat évének december 15. napjáig utalja át, figyelemmel a 4. § (5) bekezdésére és e § (2) bekezdésére is.
+6. § (1) Az adóhatóság a 3. §-ban meghatározott összeget a 4. § (1) bekezdésében meghatározott kedvezményezett részére legkésőbb a rendelkező nyilatkozat évének szeptember 30. napjáig utalja át, figyelemmel a (2) bekezdésre is.
 
 (2) Ha az adóbevallás, az egyszerűsített bevallás, az adónyilatkozat vagy a munkáltatói adómegállapítás az átutaláshoz szükséges adatfeldolgozásra alkalmatlan, az utalást akkor kell teljesíteni, ha
 
@@ -174,6 +176,8 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 (4) Az adóhatóság biztosítja a (3) bekezdésben meghatározott adatokat tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére az általa működtetett információs portálon történő közzététel, adatfeldolgozás és rendszerezés céljából.
 
 (5) A kedvezményezettet kérelmére az adóhatóság térítésmentesen tájékoztatja a javára rendelkező – az adatszolgáltatás időpontjában – érvényes és érvénytelen, valamint el nem bírált nyilatkozatot tevők számáról, régiónkénti, megyénkénti, korcsoportonkénti megoszlásáról, az érvénytelenséget okozó – az 5/A. § (1) bekezdés a)–d) pontjának megfelelően részletezett – okokról és azok arányáról.
+
+(6) Az állami adóhatóság a 6. § (1) bekezdés szerinti határidőt követő 30 napon belül egy alkalommal elektronikus úton tájékoztatja az 1. § (6) bekezdése szerinti adatokról azokat a 4. § (1) bekezdése szerinti kedvezményezetteket, akik elektronikus úton szeptember 30-áig benyújtott nyilatkozatuk alapján igényt tartanak ezen adatszolgáltatásra. A tájékoztatás a magánszemély adott rendelkező évi érvényes nyilatkozata alapján történik. A kedvezményezett az ily módon rendelkezésre álló adatokat kizárólag a közhasznú tevékenységével kapcsolatban a magánszeméllyel történő kapcsolatfelvételre, tájékoztatás nyújtására használhatja fel, és az adatokat kizárólag az adatszolgáltatást követő 5 évig kezelheti.
 
 6/B. § (1) Az adóhatóság a rendelkező nyilatkozat évét követő időszakban a jogvitákat lezáró határozatok, valamint a 6. § (2) bekezdése és a 2. § (1) bekezdése alapján a 4/A. § (1) bekezdésében meghatározott kedvezményezetteket megillető összegről az egyházakkal való kapcsolattartás koordinációjáért felelős minisztert és az adópolitikáért felelős minisztert a rendelkező nyilatkozat évének augusztus 31-i tájékoztatójához kapcsolt pótlistán értesíti.
 
@@ -215,7 +219,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 (6)
 
-(7) A 4. §-ban említett kedvezményezettnek átutalt összeg olyan költségvetési támogatásnak minősül, amelynek az e törvény szerinti igénylését és a közcélú tevékenységeknek megfelelő felhasználását az adóhatóság az Art. megfelelő szabályai alkalmazásával jogosult ellenőrizni. Amennyiben az adóhatóság – szükség esetén a külön jogszabály alapján hatáskörrel rendelkező illetékes szerv állásfoglalásának figyelembevételével – megállapítja az igénylés jogszabályba ütköző voltát, vagy a közcélú tevékenységnek nem megfelelő felhasználást, erről határozatot hoz, amelyben rendelkezik az összegnek az Art. előírása szerinti elévülési időn belüli visszafizetéséről.
+(7) A 4. § szerinti kedvezményezettnek átutalt összeg olyan költségvetési támogatásnak minősül, amelynek az e törvény szerinti, közcélú tevékenységeknek megfelelő felhasználását, a kedvezményezetti feltételek fennállását az adóhatóság az Art. megfelelő szabályai alkalmazásával jogosult ellenőrizni. Amennyiben az adóhatóság – szükség esetén a külön jogszabály alapján hatáskörrel rendelkező illetékes szerv állásfoglalásának figyelembevételével – megállapítja, hogy a kedvezményezetti feltételek nem álltak fenn, valamint a közcélú tevékenységnek nem megfelelő felhasználást, erről határozatot hoz, amelyben rendelkezik az összegnek az Art. előírása szerinti elévülési időn belüli visszafizetéséről.
 
 (8) A felhasználás abban az esetben tekinthető – a közcélú tevékenység szempontjából – megfelelőnek, amennyiben a költségvetési támogatást
 
@@ -234,7 +238,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 - c) postaköltség, telefon- és internetszolgáltatás alapdíja,
 - d) – költségvetési szervek esetében – személyi és dologi juttatások.
 
-(11) Abban az esetben, ha a kedvezményezett a 4. § (1) bekezdése szerinti feltételek meglétét a 4. § (5) bekezdése szerinti eljárásban nem igazolja, erről az adóhatóság fellebbezéssel meg nem támadható határozatot hoz, amelyet a kedvezményezett kérelmére a közigazgatási és munkaügyi bíróság nemperes eljárásban 15 napon belül a feltételek fennállásának megállapítása esetén megsemmisíthet vagy megváltoztathat. Az eljárásra a Pp. szabályait kell alkalmazni.
+(11) Abban az esetben, ha a kedvezményezett a 4. § (1) bekezdése szerinti feltételek meglétét a 4. § (6) bekezdése szerinti eljárásban nem igazolja, erről az adóhatóság fellebbezéssel meg nem támadható határozatot hoz, amelyet a kedvezményezett kérelmére a közigazgatási és munkaügyi bíróság nemperes eljárásban 15 napon belül a feltételek fennállásának megállapítása esetén megsemmisíthet vagy megváltoztathat. Az eljárásra a Pp. szabályait kell alkalmazni.
 
 (12) A rendelkező nyilatkozattal kapcsolatos ügyben az Art. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. A kedvezményezett az e törvényben foglalt kötelezettségeinek megsértése esetén az Art. 172. § (1) bekezdése szerinti mulasztási bírsággal sújtható.
 

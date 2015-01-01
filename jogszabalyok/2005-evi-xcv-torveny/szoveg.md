@@ -57,7 +57,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 34. farmakovigilancia-rendszer: a farmakovigilanciai feladatok ellátásához alkalmazott rendszer, amely a forgalomba hozatali engedéllyel rendelkező gyógyszerek biztonságosságának figyelemmel kísérésére és előny/kockázat viszonyában bekövetkező változás felismerésére szolgál,
 - 35. farmakovigilanciarendszer-törzsdokumentáció: a forgalombahozatali engedély jogosultja által egy vagy több forgalomba hozatali engedéllyel rendelkező gyógyszer tekintetében alkalmazott farmakovigilancia-rendszer részletes leírása,
 - 36. koordinációs csoport: az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv 27. cikkében említett testület,
-- 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékein szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
+- 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékein szereplő anyagok, és erre tekintettel azt az egészségügyért felelős miniszter rendeletében ilyen anyaggá minősítette.
 - 38. hatóanyag: gyógyszer gyártására szánt bármely anyag vagy azok keveréke, amely a gyártás során azon készítmény aktív összetevőjévé válik, amelyet farmakológiai, immunológiai vagy metabolikus hatás kiváltására szánnak valamely élettani funkció fenntartása, helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében;
 - 39. segédanyag: a gyógyszernek a hatóanyagtól és a csomagolóanyagtól eltérő bármely összetevője;
 - 40. gyógyszerközvetítés: a gyógyszer-nagykereskedelem kivételével a gyógyszerek értékesítésével vagy beszerzésével kapcsolatos bármely tevékenység, amely nem jár a gyógyszer fizikai kezelésével, és amely valamely másik jogi vagy természetes személy nevében folytatott és független tárgyalás formájában valósul meg;
@@ -361,7 +361,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 15/B. § (1) Valamely anyag vagy vegyületcsoport az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat 4. cikk (1) bekezdése szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
 
-(2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat a Kormány rendeletében határozza meg.
+(2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat az egészségügyért felelős miniszter rendeletében állapítja meg.
 
 (3) Az (1) bekezdés szerinti előzetes szakmai értékelés során azt kell vizsgálni, hogy az értesítésben megjelölt anyaggal vagy vegyületcsoporttal kapcsolatban a magyar hatóságok, szakértői intézmények előtt nem ismert olyan adat,
 
@@ -376,7 +376,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (3) Ha a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló kockázatot jelenthet, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének jegyzékein szereplő anyagok, akkor törölni kell az új pszichoaktív anyagok jegyzékéről és kormányrendeletben meghatározott más jegyzékre kell helyezni.
 
-(4) Amennyiben az 1 éven belüli, az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat szerinti kockázatértékelés lezárásához a szakértői szerv megállapításai szerint nem áll rendelkezésre elegendő adat, az új pszichoaktív anyag minősítése további 1 évre meghosszabbítható.
+(4) Ha az 1 éven belüli, az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló, 2005. május 10-i 2005/387/IB tanácsi határozat szerinti kockázatértékelés lezárásához a szakértői szerv megállapításai szerint nem áll rendelkezésre elegendő adat, az új pszichoaktív anyag minősítése meghosszabbítható azzal, hogy a kockázatértékelést kétévente el kell végezni mindaddig, amíg a kockázatok kizárásához vagy alátámasztásához elegendő adat nem áll rendelkezésre.
 
 15/D. § (1) A gyógyszerészeti államigazgatási szerv a forgalomba hozatalra engedélyezett kábítószert és pszichotrop anyagot tartalmazó gyógyszerek teljes köréről közhiteles hatósági nyilvántartást vezet.
 
@@ -403,7 +403,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (1a) Az (1) bekezdés szerinti forgalmazás felfüggesztésének vagy megszüntetésének indokait a forgalomba hozatali engedély jogosultja ismerteti a gyógyszerészeti államigazgatási szervvel, melynek keretében nyilatkozni kell arról, hogy a forgalmazás felfüggesztésére vagy megszüntetésére a 18. § (5) bekezdés a)–e) pontjában említett okból van-e szükség.
 
-(2) Ha a forgalomba hozatali engedély jogosultja Magyarországon a gyógyszerrel a folyamatos ellátást nem tudja biztosítani és a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátásról szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 21. § (4) bekezdésében foglalt gyógyszerhiány esete áll fenn vagy az előreláthatólag bekövetkezik, a forgalomba hozatali engedély jogosultja ezt a tényt, valamint ennek időtartamát, az ezen idő alatt is elérhető mennyiség nagyságrendjét a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel haladéktalanul tudatni köteles.
+(2) Ha a forgalomba hozatali engedély jogosultja Magyarországon a gyógyszerrel a folyamatos ellátást nem tudja biztosítani, a készítményt átmenetileg vagy tartósan nem tudja vagy nem kívánja forgalmazni, ezt a tényt, valamint ennek időtartamát, az ezen idő alatt is elérhető mennyiség nagyságrendjét a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és közfinanszírozásban részesülő gyógyszer esetén az egészségbiztosítási szervvel haladéktalanul tudatni köteles.
 
 (3) A gyógyszer-nagykereskedelmi engedély jogosultja köteles azon gyógyszereket beszerezni és forgalmazni, amelyek forgalmazására nagykereskedelmi tevékenységi engedélyt kapott.
 
@@ -413,9 +413,9 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (5a) A forgalomba hozatali engedély jogosultjának biztosítania kell, hogy a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedők együttesen az egészségügyért felelős miniszter rendeletében meghatározott hatóanyagú gyógyszerekből az ott meghatározott mennyiségű készlettel folyamatosan rendelkezzenek. Az érintett hatóanyagok köre a gyógyszerészeti államigazgatási szerv javaslata alapján kerül meghatározásra.
 
-(6) Az (2) bekezdés szerinti gyógyszerhiányra vonatkozó bejelentést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi és erről az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjét és az egészségbiztosítási szervet értesíti.
+(6) A (2) bekezdés szerinti bejelentést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi és erről – közfinanszírozásban részesülő gyógyszer esetén – az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjét értesíti.
 
-(7) Az (2) bekezdés szerinti gyógyszerhiány esetében a forgalomba hozatali engedély jogosultja és a gyógyszer-nagykereskedő a gyógyszerhiány kezelése érdekében az egészségügyért felelős miniszter rendeletében foglaltak szerint köteles együttműködni az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjével, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel.
+(7) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátásról, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 21. § (4) bekezdésében foglalt esetben a forgalomba hozatali engedély jogosultja és a gyógyszer-nagykereskedő a gyógyszerhiány kezelése érdekében az egészségügyért felelős miniszter rendeletében foglaltak szerint köteles együttműködni az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjével, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel.
 
 (8) Amennyiben a gyógyszerészeti államigazgatási szerv arról kap értesítést, hogy a magyarországi lakossági ellátásra szánt gyógyszer kivitele olyan mértékű, hogy az fenyegeti az adott gyógyszerrel történő ellátás folyamatos biztosítását, a gyógyszerészeti államigazgatási szerv a gyógyszer nagykereskedelmi tevékenység körében végzett kivitelét az ellátásbiztonság garantálásához szükséges – legfeljebb egyéves – időtartamra megtiltja, amennyiben megállapítja, hogy az adott gyógyszer kivitele gyógyszerellátási zavart idézhet elő.
 
@@ -535,7 +535,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
-(2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
+(2) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
 
@@ -555,7 +555,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (8) A lakossági gyógyszerellátásban résztvevők hatósági ellenőrzéséről egyebekben külön jogszabály rendelkezik.
 
-(9) A gyógyszerészeti államigazgatási szerv a (3) és (4) bekezdés szerinti
+(9) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv a (3) és (4) bekezdés szerinti
 
 - a) egymillió forintot meghaladó összegű pénzbírságot megállapító, vagy
 - b) ismételt jogszabálysértés esetén az egymillió forintot meg nem haladó összegű pénzbírságot megállapító
@@ -573,11 +573,32 @@ jogerős határozatát a (10) bekezdésben meghatározott tartalommal teszi köz
 - g) a döntés rendelkező részét, valamint
 - h) a döntéssel szembeni jogorvoslati eljárás tényét.
 
-(11) A gyógyszerészeti államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
+(11) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
 
 - a) a jogorvoslattal érintett döntésre vonatkozó (10) bekezdés szerinti információkat,
 - b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
 - c) a közzététel napját.
+
+### Elektronikus adat ideiglenes hozzáférhetetlenné tétele
+
+20/A. § (1) A gyógyszerészeti államigazgatási szerv határozatával elrendeli az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (ezen alcím alkalmazásában a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele vagy közzététele hamis vagy nem engedélyezett gyógyszer elérhetővé tételével összefügg.
+
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a gyógyszerészeti államigazgatási szerv határozata az elektronikus adat ideiglenes eltávolításával rendeli el.
+
+(3) A gyógyszerészeti államigazgatási szerv (1) és (2) bekezdés szerinti határozatának kötelezettje az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott szolgáltató és közvetítő szolgáltató (e paragrafus alkalmazásában a továbbiakban együtt: szolgáltató). A kötelezett a határozat vele történő közlését követő egy munkanapon belül köteles az elektronikus adat ideiglenes eltávolítására.
+
+(4) A gyógyszerészeti államigazgatási szerv 100 ezer forinttól 1 millió forintig terjedő bírsággal sújthatja azt a szolgáltatót, amely a (3) bekezdés szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
+
+(5) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni. A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv számlájára kell befizetni.
+
+(6) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 90 nap elteltével megszűnik.
+
+(7) Az ideiglenes hozzáférhetetlenné tételt a gyógyszerészeti államigazgatási szerv annak megszűnése előtt megszünteti, ha
+
+- a) az elrendelés oka megszűnt, vagy
+- b) a gyógyszerészeti államigazgatási szerv egészségügyi termék hamisítása tárgyában tett feljelentése alapján indult büntetőeljárásban a bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelte, vagy a bíróság jogerős ügydöntő határozatában elektronikus adat végleges hozzáférhetetlenné tételét rendelte el.
+
+(8) A gyógyszerészeti államigazgatási szerv a jogkövető magatartás elősegítése és a betegek tájékoztatása érdekében honlapján, az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését és megjelölését.
 
 ### A vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért való felelősség és személyiségi jogsértésért való helytállási kötelezettség
 
@@ -610,6 +631,8 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az adott hatóanyaghoz kapcsolódó kockázatok miatt szükségesnek tartja, a bejelentés kézhezvételét követő 15 napon belül értesíti a kérelmezőt arról, hogy ellenőrzést kíván lefolytatni, és a tevékenység nem kezdhető meg addig, amíg azt a gyógyszerészeti államigazgatási szerv nem engedélyezi.
 
 (4) Amennyiben a gyógyszerészeti államigazgatási szerv a (3) bekezdésben foglalt határidőn belül nem jelzi az ellenőrzés szükségességét vagy az ellenőrzést követően a tevékenység végzését engedélyezi, a (2) bekezdés szerint bejelentett adatokat rögzíti az Európai Gyógyszerügynökség által működtetett uniós adatbázisban. Amennyiben a gyógyszerészeti államigazgatási szerv e § alapján ellenőrzést folytat le, az ellenőrzésre vonatkozó értesítéstől számított 60 napon belül döntést hoz arról, hogy engedélyezi-e az (1) bekezdésben említett tevékenység megkezdését.
+
+(5) A (4) bekezdés szerint rögzített adatok kérelemre történő módosítása esetén a (2)–(4) bekezdés szerint kell eljárni.
 
 ### Gyógyszerközvetítés
 
@@ -680,6 +703,8 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (2b) A Gyftv. 21. § (1c) bekezdése szerinti esetben a forgalomba hozatali engedély jogosultja köteles az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díj, fenntartási díj megfizetésére.
 
+(2c) Ha a kérelmező a gyógyszer forgalomba hozatali engedély kiadása iránti kérelem benyújtásával egyidejűleg jelzi, hogy a forgalomba hozatali engedély kiadását követően az egészségbiztosítási szervtől kedvezményezetti státusz megítélését fogja kérni, úgy – ha az egészségbiztosítási szerv a kedvezményezetti státuszt megítéli – a gyógyszerészeti államigazgatási szerv visszatéríti a forgalomba hozatali engedély jogosultjának az általa befizetett igazgatási szolgáltatási díjat.
+
 (3) A díjat az 1. számú melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
 
 (4) Az 1. számú melléklet szerinti díj megállapításánál az alábbiakat kell figyelembe venni:
@@ -736,7 +761,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 - c) a gyógyszerellátás hatósági ellenőrzése során az e törvényben foglalt kötelezettségek megszegése esetén a hatóságok által kiszabható bírság mértékét, illetve összegét
 - d) a gyógyszerészeti államigazgatási szerv vagy szervek kijelölését
 - e) az új pszichoaktív anyagokkal összefüggésben
-  - ea) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
+  - ea)
   - eb) az új pszichoaktív anyaggá minősítés, valamint az új pszichoaktív anyag kockázatértékelésének részletes eljárási szabályait,
   - ec) az értesítés alapján az előzetes szakmai értékelést végző szakértői szerv kijelölését,
   - ed) az új pszichoaktív anyaggal végezhető tevékenységek részletes feltételeit, az e tevékenységre jogosító engedély iránti kérelem benyújtásának szabályait és az engedély kiadásának rendjét, továbbá
@@ -768,7 +793,8 @@ rendeletben szabályozza.
 - t) a farmakovigilanciával kapcsolatos szabályokat,
 - u) a gyógyszerhiány kezelése és megelőzése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat
 - v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
-- w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait
+- w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
+- x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat
 
 rendeletben szabályozza.
 

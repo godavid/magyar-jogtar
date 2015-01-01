@@ -402,6 +402,8 @@ követő napon.
 
 (2) Nem lehet az ajánlatban közölt áron megvásárolni a felajánlott földrészletet, ha az ajánlati ár a helyben kialakult piaci árat meghaladja.
 
+(3) Az (1) bekezdés szerinti ingyenes felajánlás esetén a földrészlet tulajdonjogának átruházása nem utasítható vissza.
+
 24/A. § Kisajátítást pótló adásvétel esetében az NFA legfeljebb a földrészlet piaci értékének 150%-áig terjedő összegben vállalhatja a vételár megfizetését.
 
 25. § A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján az államot megillető elővásárlási jogot az ott meghatározott módon az NFA gyakorolja.

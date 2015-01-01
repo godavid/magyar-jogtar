@@ -330,7 +330,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 (5) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg a kiszabható bírság legmagasabb mértékét.
 
-(6) A bírság összege a mezőgazdasági igazgatási szervet illeti meg.
+(6)
 
 ### VIII. Fejezet — A FÖLDHASZNÁLATTAL KAPCSOLATOS RENDELKEZÉSEK
 
@@ -1166,7 +1166,9 @@ rendeletben állapítsa meg.
 
 142. § (1)–(3)
 
-(4)
+(4) Az Nfatv. 24. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az (1) bekezdés szerinti ingyenes felajánlás esetén a földrészlet tulajdonjogának átruházása nem utasítható vissza.”
 
 (5)–(8)
 

@@ -368,7 +368,7 @@ a következő törvényt alkotja:
 
 ### A választójog
 
-53. § (1) A választáson választó, aki a nemzetiségi névjegyzékben szerepel. A nemzetiségi névjegyzékbe kérelmére fel kell venni azt, aki
+53. § (1) A választáson választó, aki a nemzetiségi névjegyzékben szerepel. A nemzetiségi névjegyzékbe kérelmére fel kell venni azt a magyar állampolgárt, aki
 
 - a) a helyi önkormányzati képviselők és polgármesterek választásán szavazati joggal rendelkezik,
 - b) az e törvényben meghatározott nemzetiséghez tartozik, és
@@ -566,7 +566,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (4) Ha a nemzetiségi önkormányzat jogainak gyakorlásához a helyi önkormányzatnak vagy szervének döntése szükséges, a nemzetiségi önkormányzat erre irányuló kezdeményezését a döntésre jogosult köteles a következő ülésén napirendre tűzni, valamint a kezdeményezés benyújtásától számított harminc, testületi döntés esetén hatvan napon belül döntést hozni.
 
-80. § (1) A helyi önkormányzat a helyi nemzetiségi önkormányzat részére – annak székhelyén – biztosítja az önkormányzati működés személyi és tárgyi feltételeit, továbbá gondoskodik a működéssel kapcsolatos végrehajtási feladatok ellátásáról. Az önkormányzati működés feltételei és az ezzel kapcsolatos végrehajtási feladatok:
+80. § (1) A települési önkormányzat hivatala, illetve az a hivatal, amelyik a helyi nemzetiségi önkormányzat székhelye szerinti helyi önkormányzat önkormányzati hivatali feladatát ellátja a helyi nemzetiségi önkormányzat részére biztosítja az önkormányzati működés személyi és tárgyi feltételeit, továbbá gondoskodik a működéssel kapcsolatos végrehajtási feladatok ellátásáról. Az önkormányzati működés feltételei és az ezzel kapcsolatos végrehajtási feladatok:
 
 - a) a helyi nemzetiségi önkormányzat részére havonta igény szerint, de legalább tizenhat órában, az önkormányzati feladat ellátásához szükséges tárgyi, technikai eszközökkel felszerelt helyiség ingyenes használata, a helyiséghez, továbbá a helyiség infrastruktúrájához kapcsolódó rezsiköltségek és fenntartási költségek viselése;
 - b) a helyi nemzetiségi önkormányzat működéséhez (a testületi, tisztségviselői, képviselői feladatok ellátásához) szükséges tárgyi és személyi feltételek biztosítása;
@@ -576,7 +576,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - f) a jelnyelv és a speciális kommunikációs rendszer használatának biztosítása, és
 - g) az a)–f) pontban meghatározott feladatellátáshoz kapcsolódó költségek viselése a helyi nemzetiségi önkormányzat tagja és tisztségviselője telefonhasználata költségeinek kivételével.
 
-(2) Az (1) bekezdés szerinti kötelezettségének teljesítése érdekében a helyi önkormányzat harminc napon belül biztosítja a rendeltetésszerű helyiséghasználatot, valamint a helyiséghasználatra, a további feltételek biztosítására és a feladatok ellátására vonatkozóan megállapodást köt a helyi nemzetiségi önkormányzattal. A megállapodást minden év január 31. napjáig, általános vagy időközi választás esetén az alakuló ülést követő harminc napon belül felül kell vizsgálni. A helyi önkormányzat és a nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti a megállapodás szerinti működési feltételeket, a megállapodás megkötését, módosítását követő harminc napon belül.
+(2) Az (1) bekezdés szerinti kötelezettségének teljesítése érdekében a helyi önkormányzat harminc napon belül biztosítja a rendeltetésszerű helyiséghasználatot. A települési önkormányzat a települési nemzetiségi önkormányzattal, a területi önkormányzat a területi nemzetiségi önkormányzattal a helyiséghasználatra, a további feltételek biztosítására és a feladatok ellátására vonatkozóan megállapodást köt. A megállapodást minden év január 31. napjáig, általános vagy időközi választás esetén az alakuló ülést követő harminc napon belül felül kell vizsgálni. A helyi önkormányzat és a nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti a megállapodás szerinti működési feltételeket, a megállapodás megkötését, módosítását követő harminc napon belül.
 
 (3) A (2) bekezdés szerinti megállapodásban rögzíteni kell
 
@@ -857,7 +857,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (10) A települési nemzetiségi önkormányzati képviselői, elnökhelyettesi, elnöki megbízatással nem összeférhetetlen egy területi nemzetiségi önkormányzati képviselő-testületi elnöki (elnökhelyettesi, képviselői) vagy az országos nemzetiségi önkormányzati képviselő-testületi, közgyűlési elnöki (elnökhelyettesi, képviselői) megbízatás.
 
-(11) Az országos nemzetiségi önkormányzat főállású elnöke, elnökhelyettese tudományos, oktatói, lektori, szerkesztői, művészeti és jogi oltalom alá eső szellemi tevékenység kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, és e tevékenységet nem végezheti gazdasági társaság személyesen közreműködő tagjaként, egyéb tevékenységéért díjazást nem fogadhat el.
+(11) Az országos nemzetiségi önkormányzat főállású elnöke, elnökhelyettese tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, és e tevékenységet nem végezheti gazdasági társaság személyesen közreműködő tagjaként, egyéb tevékenységéért díjazást nem fogadhat el.
 
 ### A méltatlanság
 
@@ -1108,7 +1108,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) A feladatfinanszírozási rendszer keretében a központi költségvetésből nyújtott működési költségvetési és feladatalapú költségvetési támogatást a nemzetiségi önkormányzat kizárólag nemzetiségi közfeladatai ellátására használhatja fel.
 
-(3) A feladatfinanszírozás részletes szabályait a Kormány rendeletében állapítja meg.
+(3)
 
 129. § A nemzetiségi önkormányzatok a nemzetiségi oktatási és kulturális önigazgatás, a nemzetiségi kulturális autonómia körében kiírt állami és európai uniós pályázatokon a helyi önkormányzatokkal azonos feltételek mellett vehetnek részt.
 
@@ -1124,7 +1124,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 133. § A nemzetiségi önkormányzat önálló pénzforgalmi számlát vezet. A nemzetiségi önkormányzat az önálló fizetési számla nyitása során a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXV. törvény 18. §-a szerinti feltételeket teljesíti azzal, hogy létrejöttének, illetve a nyilvántartásba vételére vonatkozó okmánynak az illetékes választási bizottság igazolása, továbbá az alakuló ülés jegyzőkönyve minősül.
 
-134. § Amennyiben a nemzetiségi önkormányzat adott költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel és zárszámadással, illetve nem tesz eleget beszámolási kötelezettségének, úgy a költségvetés és zárszámadás elfogadásának, illetve a beszámoló elkészítésének határidejét követő hónaptól az állami támogatások folyósítása felfüggesztésre kerül. A felfüggesztés megszüntetésére és a támogatás folyósítására a mulasztás megszüntetését követő hónaptól kerül sor.
+134. § Ha a nemzetiségi önkormányzat a költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel, nem fogadja el a költségvetési évet megelőző évre vonatkozó zárszámadását vagy államháztartási beszámolási kötelezettségének nem tesz eleget, a részére járó egyes támogatások folyósítása az államháztartásról szóló törvényben meghatározottak szerint felfüggesztésre kerül.
 
 ### A gazdálkodás és az állami támogatások felhasználásának ellenőrzése
 
@@ -1177,22 +1177,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 143. § (1) A nemzetiségi önkormányzat a feladatainak hatékonyabb ellátására szabadon társulhat más nemzetiségi önkormányzattal, illetve helyi önkormányzattal. A társulás feltételeit megállapodásban kell rögzíteni.
 
-(2) Társulás az e törvényben foglaltakon kívül a helyi önkormányzatok társulásairól és együttműködéséről szóló törvényben meghatározott módon is létrehozható.
+(2) A társulásra az e törvényben nem szabályozott kérdésekben a Magyarország helyi önkormányzatairól szóló törvénynek a helyi önkormányzatok társulásaira vonatkozó szabályait kell alkalmazni.
 
 (3) A társulás nem sértheti az abban részt vevők önkormányzati jogait.
 
-(4) A társult önkormányzatok között a társulások működése során felmerülő vitás kérdésben a bíróság dönt. A társuló önkormányzatok megállapodhatnak abban, hogy a vitás kérdésben bármelyik önkormányzat kérheti a megállapodásban megjelölt önkormányzati érdekszövetség vagy érdekszövetségek által felkért tagokból álló egyeztető bizottság állásfoglalását, továbbá, hogy a kereset benyújtása előtt a társulásban résztvevő bármely önkormányzat kérheti az egyeztető bizottság állásfoglalását.
-
-### Intézményi társulás
-
-144. § (1) Az érdekelt nemzetiségi önkormányzatok megállapodhatnak két vagy több községet, várost és községet ellátó egy vagy több nemzetiségi intézmény közös alapításában, fenntartásában és fejlesztésében.
-
-(2) A megállapodásban meg kell határozni:
-
-- a) a közös intézmény tevékenységi és ellátási körét,
-- b) az egyes nemzetiségi önkormányzatok pénzügyi hozzájárulásának arányát,
-- c) az intézmény fenntartásával kapcsolatos jogokat és kötelezettségeket, valamint ezek gyakorlásának a módját,
-- d) a megállapodás felmondásának feltételeit.
+#### 144. §
 
 ### Társult nemzetiségi önkormányzati testület
 
@@ -1223,9 +1212,9 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - c) az országos nemzetiségi önkormányzatok fenntartásában lévő intézmények és média támogatását, és
 - d) a nemzetiségpolitikai tevékenység támogatását szolgáló előirányzatok évközi módosítása.
 
-(3) Ha az 1. mellékletben felsoroltakon kívül további nemzetiség kíván bizonyságot tenni arról, hogy megfelel a feltételeknek, legalább ezer, magát e nemzetiséghez tartozónak valló, a helyi önkormányzati képviselők és polgármesterek választásán szavazati joggal rendelkező választópolgár kezdeményezheti a nemzetiség Magyarországon honos népcsoporttá nyilvánítását. Az eljárás során a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvénynek az országos népszavazás kezdeményezésére vonatkozó rendelkezéseit kell alkalmazni, a (4) és (5) bekezdésben foglalt eltéréssel.
+(3) Ha az 1. mellékletben felsoroltakon kívül további nemzetiség kíván bizonyságot tenni arról, hogy megfelel a feltételeknek, legalább ezer, magát e nemzetiséghez tartozónak valló, a helyi önkormányzati képviselők és polgármesterek választásán szavazati joggal rendelkező magyar állampolgár választópolgár kezdeményezheti a nemzetiség Magyarországon honos népcsoporttá nyilvánítását. Az eljárás során a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvénynek az országos népszavazás kezdeményezésére vonatkozó rendelkezéseit kell alkalmazni, a (4) és (5) bekezdésben foglalt eltéréssel.
 
-(4) A kezdeményezés szervezője az a választópolgár lehet, aki a helyi önkormányzati képviselők és polgármesterek választásán választható.
+(4) A kezdeményezés szervezője az a magyar állampolgár választópolgár lehet, aki a helyi önkormányzati képviselők és polgármesterek választásán választható.
 
 (5) A Nemzeti Választási Bizottság az eljárása során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását a törvényi feltételek fennállásáról.
 
@@ -1255,7 +1244,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - b) a központi költségvetésről szóló törvényben meghatározott címen és feltételekkel a nemzetiségi önkormányzatok és nemzetiségi szervezetek részére pénzügyi támogatást nyújt, nyújthat,
 - c) a központi költségvetésről szóló törvényben a helyi önkormányzatok által felhasználható központosított előirányzatokból a nemzetiségi önkormányzatok részére – a helyi önkormányzatokéval megegyező feltételekkel és rendben – a nemzetiségpolitikáért felelős miniszter koordinálásával támogatást nyújt, nyújthat.
 
-153. § (1) Ahol e törvény eltérően nem rendelkezik, a nemzetiségi önkormányzatokra és az átalakult nemzetiségi önkormányzatokra alkalmazni kell a helyi önkormányzatokra, és a helyi önkormányzati társulásokra vonatkozó jogszabályokat, az adósságrendezésre vonatkozó rendelkezések kivételével.
+153. § (1) Ahol e törvény eltérően nem rendelkezik, a nemzetiségi önkormányzatokra és az átalakult nemzetiségi önkormányzatokra alkalmazni kell a helyi önkormányzatokra vonatkozó jogszabályokat, az adósságrendezésre vonatkozó rendelkezések kivételével.
 
 (2) Ahol e törvény eltérően nem rendelkezik, a nemzetiségi önkormányzatok és a nemzetiségi települési önkormányzatok tisztségviselőinek jogállására, tiszteletdíjára, juttatásaira és a költség-átalányára a polgármesteri tisztség ellátására vonatkozó törvényi rendelkezések alkalmazandóak.
 
@@ -1279,8 +1268,8 @@ Isten engem úgy segéljen!”
 
 156. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-- a) a nemzetiségi önkormányzatoknak, intézményeiknek és egyéb nemzetiségi szervezeteknek a központi költségvetésből nyújtott támogatások feltételrendszerét és elszámolásnak rendjét;
-- b) a 128.§ szerinti feladatfinanszírozás részletes szabályait;
+- a)
+- b)
 - c) a nemzetiségek vonatkozásában ellátandó helyi közszolgálat képesítési előírásait.
 
 (2) Felhatalmazást kap a nemzetiségpolitikáért felelős miniszter, hogy rendeletben szabályozza a nemzetiségi köznevelésben, közoktatásban részt vevő tanulók számára nyújtható ösztöndíj mértékét, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének szabályait.
@@ -1325,15 +1314,13 @@ Isten engem úgy segéljen!”
 
 (7) A 133. § szerinti rendelkezések 2012. évben azzal az eltéréssel alkalmazandóak, hogy a központi költségvetésről szóló törvény Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója fejezetéből a helyi nemzetiségi önkormányzatot megillető támogatást a 2011. december 30-án hatályos szabályok szerint kell folyósítani. A helyi önkormányzat a költségvetési támogatás helyi nemzetiségi önkormányzatot megillető, a nettósítás során csökkentett összegét a fizetési számláján történő jóváírástól számított öt munkanapon belül továbbutalja a helyi nemzetiségi önkormányzat fizetési számlájára.
 
-160. § (1)
+160. § (1) A nemzetiségi önkormányzati képviselők 2015. január 1-jét megelőzően kitűzött választását e törvénynek a 2015. január 1-jét megelőzően hatályos 53. § (1) bekezdése szerint kell végrehajtani.
 
-(2)–(3)
+(2) A nemzetiségi önkormányzati képviselők 2015. január 1-jét megelőzően kitűzött választásán mandátumot szerzett nem magyar állampolgár választópolgárok mandátuma a nemzetiségi névjegyzékből magyar állampolgárságuk hiányára tekintettel történt törlése következtében nem szűnik meg.
 
-(4)
+161. § (1) 2015. január 1-jét megelőzően a Nemzeti Választási Bizottsághoz benyújtott, 148. § (3) bekezdése szerinti kezdeményezést, a magát a nemzetiséghez tartozónak valló, a helyi önkormányzati képviselők és polgármesterek választásán szavazati joggal rendelkező választópolgár támogathat aláírásával.
 
-(5)
-
-#### 161. §
+(2) 2015. január 1-jét megelőzően a Nemzeti Választási Bizottsághoz benyújtott, 148. § (3) bekezdése szerinti kezdeményezés szervezője az a választópolgár lehet, aki a helyi önkormányzati képviselők és polgármesterek választásán választható.
 
 162. § (1)
 

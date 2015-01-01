@@ -25,7 +25,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (3) A törzshivatal, a szakigazgatási szervek és a járási hivatalok egy költségvetési szervet képeznek.
 
-4. § (1) A fővárosi és megyei kormányhivatal alapító okiratát a miniszterelnök adja ki.
+4. § (1)
 
 (2) A fővárosi és megyei kormányhivatal szervezeti és működési szabályzatát a miniszter, a Kormány által rendeletben kijelölt, szakigazgatási szerveket irányító miniszter véleményének kikérésével normatív utasításban adja ki.
 
@@ -39,15 +39,15 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 6. § (1) A fővárosi és megyei kormányhivatalt az ebben az alcímben meghatározott eltérésekkel a Kormány a miniszter útján irányítja.
 
-(2) A fővárosi és megyei kormányhivatal tekintetében – a kormányhivatal alapítása, a kormánymegbízott kinevezése és felmentése kivételével – a Ksztv. 2. § (1) bekezdés a), b) és d) pontjában meghatározott, valamint a hatékonysági és a pénzügyi ellenőrzési hatásköröket a miniszter gyakorolja.
+(2) A fővárosi és megyei kormányhivatal tekintetében – a kormányhivatal alapítása, a kormánymegbízott kinevezése és felmentése kivételével – az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § a)–d) pontjában meghatározott, valamint a szakszerűségi, a hatékonysági és a pénzügyi ellenőrzési hatásköröket a miniszter gyakorolja.
 
-(3) Kormányrendelet a törzshivatal irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben a Ksztv. 2. § (1) bekezdés e)–g) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatáskörök közül egyeseket vagy ezek mindegyikét valamely, a Kormány által rendeletben meghatározott központi államigazgatási szerv vezetője gyakorolja.
+(3) Kormányrendelet a törzshivatal irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatáskörök közül egyeseket vagy ezek mindegyikét valamely, a Kormány által rendeletben meghatározott központi államigazgatási szerv vezetője gyakorolja.
 
-(4) A szakigazgatási szerv tekintetében a Ksztv. 2. § (1) bekezdés e)–g) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket a Kormány által rendeletben meghatározott központi államigazgatási szerv vezetője (a továbbiakban: szakmai irányító szerv vezetője) gyakorolja.
+(4) A szakigazgatási szerv tekintetében az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket a Kormány által rendeletben meghatározott központi államigazgatási szerv vezetője (a továbbiakban: szakmai irányító szerv vezetője) gyakorolja.
 
 7. § (1) A kormánymegbízott a szakigazgatási szerv vezetőjének kinevezésére és felmentésére vonatkozó hatáskörét a szakmai irányító szerv vezetőjének egyetértésével gyakorolja.
 
-(2) Kormányrendelet a szakigazgatási szerv tekintetében rendelkezhet úgy, hogy a Ksztv. 2. § (1) bekezdés h) és i) pontja szerinti hatásköröket a miniszter, valamint a szakmai irányító szerv vezetője is gyakorolhatja.
+(2) Kormányrendelet a szakigazgatási szerv tekintetében rendelkezhet úgy, hogy az Áht. 9. § i) pontja szerinti hatásköröket a miniszter, valamint a szakmai irányító szerv vezetője is gyakorolhatja.
 
 (3) A miniszter a szakmai irányító szerv vezetőjének közreműködésével a fővárosi és megyei kormányhivatal bármely tevékenysége tekintetében törvényességi és szakszerűségi ellenőrzést folytathat le.
 
@@ -108,7 +108,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 11. § (1) A kormánymegbízott további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
-(2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen.
+(2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet végezzen és nevelőszülői foglalkoztatási jogviszonyt létesítsen.
 
 (3) A kormánymegbízott illetményét a miniszter – legfeljebb az illetményalap 28-szorosában – állapítja meg. A kormánymegbízott – amennyiben kormányrendelet másként nem rendelkezik – helyettes államtitkárt megillető juttatásokra jogosult.
 
@@ -222,7 +222,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 - d) ha az országgyűlési képviselők választásán már nem választható,
 - e) összeférhetetlenségének megállapításával.
 
-(5) A hivatalvezető további munkavégzésre irányuló jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
+(5) A hivatalvezető további munkavégzésre irányuló jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (6) A hivatalvezető illetményét a kormánymegbízott javaslatára a miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 18-szorosában állapítja meg. A hivatalvezetőre a törvényben nem szabályozott kérdésekben a Kttv.-ben a főosztályvezetőre vonatkozó rendelkezéseket kell alkalmazni.
 

@@ -115,7 +115,7 @@ A törvény személyi hatálya a törvényben meghatározott szövetkezeti hitel
 
 5. § Az e törvény hatályba lépését követő 90. napon megszűnik az OTIVA, a HBA és a TAKIVA, jogutódjuk az Integrációs Szervezet a 16. § rendelkezéseiben foglaltak szerint.
 
-5/A. § Az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvény (a továbbiakban: Módtv.) hatálybalépését követő 90. napon megszűnik a REPIVA, jogutódja az Integrációs Szervezet a 16. §-ban meghatározottak szerint.
+#### 5/A. §
 
 #### 5. Az Integrációs Szervezet szervezete
 
@@ -171,9 +171,17 @@ A törvény személyi hatálya a törvényben meghatározott szövetkezeti hitel
 
 (6) Az Integrációs Szervezet a csatlakozási kérelmekről illetve a kizárási kezdeményezésekről azok benyújtását követő 15 napon belül dönt.
 
-(7) Az Integrációs Szervezetből az Integrációs Szervezet alapszabályának megfelelően lehet kilépni. Az Integrációs Szervezetből kilépett szövetkezeti hitelintézetnek úgy kell – alapítási illetve működési – engedélyért fordulnia a Felügyelethez az Integrációs Szervezetből történő kilépésének az Integrációs Szervezetnek történt bejelentését követő 8 napon belül, mint ha a pénzügyi intézményt újonnan alapítanák. Amennyiben a kilépésnek az Integrációs Szervezethez történt bejelentését vagy az Integrációs Szervezetből történő kizárást követő 8 napon belül az Integrációs Szervezetből kilépett vagy kizárt szövetkezeti hitelintézet nem nyújt be működési engedély kiadása iránti kérelmet a Felügyelethez vagy nem kap működési engedélyt mindösszesen a kilépés Integrációs Szervezetnek történő bejelentésétől, illetve az Integrációs Szervezetből történő kizárás napjától számított 120 nap alatt, akkor a Felügyelet visszavonja a működési engedélyét, és az ilyen szövetkezeti hitelintézetre a 17. § rendelkezéseit kell alkalmazni.
+(7) Az Integrációs Szervezetből az Integrációs Szervezet alapszabályának megfelelően lehet kilépni. Az Integrációs Szervezetből kilépni kívánó szövetkezeti hitelintézetnek úgy kell – alapítási, illetve működési – engedélyért fordulnia a Felügyelethez az Integrációs Szervezetből történő kilépési szándék Integrációs Szervezet részére történő bejelentését megelőzően legalább 60 nappal, mintha a pénzügyi intézményt újonnan alapítanák.
+
+(7a) A Felügyelet visszavonja a szövetkezeti hitelintézet – ide nem értve a szanálás alatt álló szövetkezeti hitelintézet – működési engedélyét ha
+
+- a) a szövetkezeti hitelintézet igazgatósága a szövetkezeti hitelintézet Integrációs Szervezetből történő kizárását követő 3 munkanapon belül nem nyújt be működési engedély kiadása iránti kérelmet a Felügyelethez,
+- b) a (9) bekezdésben írt dokumentumok megvizsgálása alapján a Felügyelet megállapítja, hogy a szövetkezeti hitelintézet fizetésképtelen, a szövetkezeti hitelintézet fizetésképtelensége fenyeget vagy a folyamatos működése az engedély kiadásáig veszélybe kerülhet, vagy
+- c) az a) pont szerinti kérelmet határidőben benyújtotta és azt a Felügyelet elutasította vagy a kizárt szövetkezeti hitelintézet nem kap működési engedélyt a Felügyelettől az Integrációs Szervezetből történő kizárás napjától számított legfeljebb 120 nap alatt.
 
 (8) Az Integrációs Szervezetből történő kizárás vagy kilépés esetén megszűnik a kizárt vagy kilépő tag vonatkozásában az Integrációs Szervezet tagjainak egyetemleges felelőssége a tag által a kizárás vagy kilépés hatálybalépésének a napjától vállalt kötelezettségekre. Az Integrációs Szervezetből kizárt vagy kilépő tag az Integrációs Szervezetben fennálló tagság megszűnésének időpontjáig keletkezett kötelezettségekért az Integrációs Szervezeti tagsága megszűnése időpontjától számított további 730 napig felel. A kizárt vagy kilépő tag Felügyelethez benyújtott engedélykérelme kapcsán a Felügyelet a tőkekövetelmények fennállásának teljesítése körében 730 napig nem veheti figyelembe a kizárt vagy kilépő tagnak az Integrációs szervezeti tagság tagsági viszony keletkezésekor fennállt saját tőke értékét.
+
+(9) Az Integrációs Szervezet igazgatóságának szövetkezeti hitelintézet Integrációs Szervezetből történő kizárására vonatkozó döntését, az arra vonatkozó előterjesztést és annak mellékleteit az Integrációs Szervezet Igazgatósága e kérdést tárgyaló ülését követően haladéktalanul megküldi a Felügyelet részére. Az előterjesztés mellékleteként csatolni kell a szövetkezeti hitelintézet azonnali és folyamatos fizetőképessége és pénzügyi helyzete tárgyában elkészített független könyvvizsgálói jelentést. A fizetőképesség és a pénzügyi helyzet vizsgálatának ki kell terjednie arra, hogy a hitelintézet esetében fennáll-e a veszélye annak, hogy nem tud eleget tenni kötelezettségeinek.
 
 ### II. Fejezet
 
@@ -299,17 +307,17 @@ A törvény személyi hatálya a törvényben meghatározott szövetkezeti hitel
 
 #### 8. Az OTIVA, a REPIVA, a HBA és a TAKIVA jogutódlása, állományátvétel
 
-16. § (1) Az OTIVA, a HBA és a TAKIVA gazdálkodásának ellenőrzésére és tevékenységének átadásával illetve a jogutódlás kérdéseinek kezelésével kapcsolatban a jelen törvény rendelkezéseinek a végrehajtásával kapcsolatban kormánybiztos jár el.
+16. § (1) Az OTIVA, a HBA, a REPIVA és a TAKIVA gazdálkodásának ellenőrzésére és tevékenységének átadásával illetve a jogutódlás kérdéseinek kezelésével kapcsolatban a jelen törvény rendelkezéseinek a végrehajtásával kapcsolatban kormánybiztos jár el.
 
-(2) Az OTIVA, a HBA és a TAKIVA az e törvény hatályba lépését követő 8. munkanap végéig köteles valamennyi szervezeti illetve szerződéses és vagyoni viszonyaikra vonatkozó adatot elektronikus állomány és fizikai dokumentum formájában is eljuttatni a kormánybiztos és az Integrációs Szervezet igazgatósága részére, oly módon, hogy abban a tevékenység átvétele szempontjából fontos adatok világosan és elkülöníthetően szerepeljenek. Az OTIVA, a HBA és a TAKIVA intézkedésre jogosult munkavállalói, vezető tisztségviselői egyetemlegesen felelnek a jelen bekezdésben leírtak megszegéséért, valamint az abból fakadó kárért.
+(2) Az OTIVA, a HBA, a REPIVA és a TAKIVA az e törvény hatályba lépését követő 8. munkanap végéig köteles valamennyi szervezeti illetve szerződéses és vagyoni viszonyaikra vonatkozó adatot elektronikus állomány és fizikai dokumentum formájában is eljuttatni a kormánybiztos és az Integrációs Szervezet igazgatósága részére, oly módon, hogy abban a tevékenység átvétele szempontjából fontos adatok világosan és elkülöníthetően szerepeljenek. Az OTIVA, a HBA, a REPIVA és a TAKIVA intézkedésre jogosult munkavállalói, vezető tisztségviselői egyetemlegesen felelnek a jelen bekezdésben leírtak megszegéséért, valamint az abból fakadó kárért.
 
 (3) Az 5. § szerinti általános jogutódlás nem vonatkozik arra a szerződésre vagy szerződésekre, amely vagy amelyek vonatkozásában a kormánybiztos így dönt. A kormánybiztos azon szerződések vonatkozásában dönthet úgy, hogy azok vonatkozásában ne legyen jogutódlás, amelyek nem szükségesek a jogutód ésszerű gazdálkodásához vagy azért, mert feltételeik nem piaciak, vagy azért, mert az Integrációs Szervezet már rendelkezik ilyen eszközzel vagy szolgáltatással.
 
-(4) A kormánybiztos az OTIVA, a HBA és a TAKIVA által a (2) bekezdés szerint rendelkezésre bocsátott adatok alapján haladéktalanul megvizsgálja, hogy szükség van-e az adott jog illetve kötelezettség az Integrációs Szervezetre történő átszállására a szövetkezeti hitelintézetek illetve az Integrációs Szervezet hatékony működéséhez. A kormánybiztos az e törvény hatálybalépését követő 60. nap végéig a (3) bekezdés szerinti szempontrendszer alapján meghatározza, hogy mely jogok és kötelezettségek nem szállnak át a jogutódra, és erről az érintett másik feleket is tájékoztatja. Azon szerződésekre, amelyek a (2) bekezdésben foglalt kötelezettség megszegésével a (2) bekezdésben írt határidőn túl kerültek az Integrációs Szervezet részére átadásra, a kormánybiztos az ezen szerződések neki történt átadását követő 60. nap végéig jogosult meghatározni, hogy mely jogok és kötelezettségek nem szállnak át a jogutódra, és erről az érintett másik feleket is tájékoztatja.
+(4) A kormánybiztos az OTIVA, a HBA, a REPIVA és a TAKIVA által a (2) bekezdés szerint rendelkezésre bocsátott adatok alapján haladéktalanul megvizsgálja, hogy szükség van-e az adott jog illetve kötelezettség az Integrációs Szervezetre történő átszállására a szövetkezeti hitelintézetek illetve az Integrációs Szervezet hatékony működéséhez. A kormánybiztos az e törvény hatálybalépését követő 60. nap végéig a (3) bekezdés szerinti szempontrendszer alapján meghatározza, hogy mely jogok és kötelezettségek nem szállnak át a jogutódra, és erről az érintett másik feleket is tájékoztatja. Azon szerződésekre, amelyek a (2) bekezdésben foglalt kötelezettség megszegésével a (2) bekezdésben írt határidőn túl kerültek az Integrációs Szervezet részére átadásra, a kormánybiztos az ezen szerződések neki történt átadását követő 60. nap végéig jogosult meghatározni, hogy mely jogok és kötelezettségek nem szállnak át a jogutódra, és erről az érintett másik feleket is tájékoztatja.
 
-(5) Az OTIVA, a HBA és a TAKIVA jogutódlással nem érintett szerződéseit a kormánybiztos – ha az érintett szerződés rövidebb felmondási időről nem rendelkezik – e törvény hatályba lépését követő 90. napra jogosult felmondani. A fel nem mondott szerződések vonatkozásában jogutódlás következik be. A felmondási idő végéig teljesített szolgáltatások ellenértékét az Integrációs Szervezet téríti meg a megszűnt szerződések jogosultjainak. A kormánybiztos döntése ellen – abban a körben, hogy a kormánybiztos a (3) bekezdés szerinti mérlegelési szempontokat betartotta-e – kártérítési igénnyel értékhatártól függően a Pesti Központi Kerületi Bírósághoz vagy a Fővárosi Törvényszékhez lehet fordulni. A kártérítési igényért az Integrációs Szervezet áll helyt.
+(5) Az OTIVA, a HBA, a REPIVA és a TAKIVA jogutódlással nem érintett szerződéseit a kormánybiztos – ha az érintett szerződés rövidebb felmondási időről nem rendelkezik – e törvény hatályba lépését követő 90. napra jogosult felmondani. A fel nem mondott szerződések vonatkozásában jogutódlás következik be. A felmondási idő végéig teljesített szolgáltatások ellenértékét az Integrációs Szervezet téríti meg a megszűnt szerződések jogosultjainak. A kormánybiztos döntése ellen – abban a körben, hogy a kormánybiztos a (3) bekezdés szerinti mérlegelési szempontokat betartotta-e – kártérítési igénnyel értékhatártól függően a Pesti Központi Kerületi Bírósághoz vagy a Fővárosi Törvényszékhez lehet fordulni. A kártérítési igényért az Integrációs Szervezet áll helyt.
 
-(5a) Az (1)–(5) bekezdést a REPIVA tekintetében is alkalmazni kell azzal, hogy a kormánybiztos alatt az Integrációs Szervezet igazgatóságát kell érteni. A REPIVA tekintetében az (1)–(5) bekezdésben meghatározott, e törvény hatálybalépésétől kezdődő határidők kezdő napja a Módtv. hatálybalépésének napja.
+(5a)
 
 (6) Az 5. §-ban foglaltakra tekintettel a Fővárosi Törvényszék az OTIVA-t, REPIVA-t, HBA–t és TAKIVA-t az e törvény szerinti megszűnésüket követő 120 napon belül törli a civil szervezetek nyilvántartásából. Az eljárást az Integrációs Szervezet kezdeményezheti.
 
@@ -321,11 +329,7 @@ A törvény személyi hatálya a törvényben meghatározott szövetkezeti hitel
 
 (4) A működési engedély visszavonásáról szóló felügyeleti határozat kézhezvételét követő 3. munkanap végéig a szövetkezeti hitelintézet köteles a betéteseinek személyes adatait, a betétek összegét és egyéb jellemzőit elektronikus állomány és fizikai dokumentum formájában is eljuttatni a Felügyelet és a Takarékbank Zrt. részére.
 
-(5) A szövetkezeti hitelintézethez a Felügyelet – a szövetkezeti hitelintézet működési engedélyét visszavonó határozattal egyidejűleg – felügyeleti biztost jelöl ki. A szövetkezeti hitelintézethez kirendelt felügyeleti biztos a Hpt. 196. § szerinti jogkörében eljárva a szövetkezeti hitelintézet által a (4) bekezdés szerint rendelkezésre bocsátott adatok alapján haladéktalanul megvizsgálja a szövetkezeti hitelintézet betétállományának átvétele szempontjából fontos alábbi adatokat:
-
-- a) a szövetkezeti hitelintézet jegybankképes értékpapír-állománya;
-- b) a szövetkezeti hitelintézet a felügyeleti biztos által a Takarékbank Zrt. hitelminősítési szabályzata alapján jónak minősített hitelállománya;
-- c)
+(5) A szövetkezeti hitelintézethez a Felügyelet – a szövetkezeti hitelintézet kizárásáról történő értesítés kézhezvételét követően haladéktalanul – felügyeleti biztost jelöl ki a 11. § (7a) bekezdés a), illetve c) pontjában írt határidők végéig.
 
 (6)–(7)
 
@@ -343,7 +347,7 @@ A törvény személyi hatálya a törvényben meghatározott szövetkezeti hitel
 
 #### 8/C. Tőkekövetelmények
 
-17/C. § (1) Szövetkezeti formában működő szövetkezeti hitelintézet legalább háromszázmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
+17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
 
 (2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet jogosult – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyeletet előzetesen értesítve az alábbi kivételes intézkedésekkel élni:
 
@@ -553,7 +557,9 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (2)
 
-(3) A felügyeleti biztos a kijelölését követő 10 napon belül felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak van-e helye, és a javaslatát haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
+(3) A felügyeleti biztos a kijelölését követő 3 munkanapon belül a 11. § (9) bekezdésében foglalt könyvvizsgálói jelentés figyelembevételével felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak lenne-e helye, és megállapítását haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
+
+(3a) A Felügyelet a működési engedély visszavonásával egyidejűleg dönt a szövetkezeti hitelintézet végelszámolásáról vagy felszámolásának kezdeményezéséről.
 
 (4) A Felügyelet a szövetkezeti hitelintézet jogutód nélküli megszűnésének kezdeményezésére vonatkozó határozatát a felügyeleti biztos javaslata alapján, a Hpt. 47-66. §-ának rendelkezései szerint hozza meg.
 
@@ -595,7 +601,7 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 
 (6) Nem jogosult „C” típusú elsőbbségi részvényre és nem csatlakozhat az Integrációs Szervezethez a Takarékbank Zrt. azon részvényese, amely a 12. § (2) bekezdésben meghatározottakon túl a jelen törvény hatálybalépésekor a Takarékbank Zrt. részvényese.
 
-(7) Amennyiben a Felügyelet a szövetkezeti hitelintézet működési engedélyét bármely okból visszavonja, akkor a Felügyelet egyidejűleg kezdeményezi a a Hpt. 48. §-a szerint a szövetkezeti hitelintézet végelszámolását vagy a Hpt. 51. §-a szerint a felszámolását és a Hpt. 189. § (1) bekezdés e) pontja alapján a Hpt. 184. § (3) bekezdés szerinti feltételek teljesülése nélkül is felügyeleti biztost rendel ki. Ebben az esetben a Takarékbank Zrt. köteles az érintett szövetkezeti hitelintézet betéteseinek védelmében a betétállományokat 60 napon belül e törvény 17. §-a rendelkezései szerint átvenni.
+(7)
 
 (8) Az Integrációs Szervezet – szabályzatában meghatározottak szerint – a szövetkezeti hitelintézetek egyes csoportjai (pl. hitelszövetkezet, takarékszövetkezet, zártkörűen működő részvénytársaság, nyilvánosan működő részvénytársaság, szakosított hitelintézet, nagy vagy kis tulajdonosi létszámmal működő intézmények) számára a formájukból, tevékenységükből adódó működési jellegzetességeik által indokolt esetben átmenetileg vagy véglegesen az e törvényből fakadó egyes kötelezettségek vagy azok csoportjának a teljesítése alól felmentést adhat, és ezen belül különösen mentesítheti a szövetkezeti hitelintézetet a 15. § (9) és (19) bekezdése, a 17/K. § (1) bekezdése, a 17/Q. § (3) bekezdése és a 19. § (2) bekezdése szerinti kötelezettség teljesítése alól.
 
@@ -652,7 +658,7 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 - e) tagi kölcsön jogcímén fennálló követelés,
 - f) az alárendelt kölcsön vagy kötvény alapján fennálló követelés.
 
-(4) Az 1. § (4) bekezdésében szereplő egyetemleges felelősség alapján az adóson kívül az Alaptól, a többi szövetkezeti hitelintézettől, az Integrációs Szervezettől illetve a Takarékbank Zrt.-től lehet az egész követelést követelni. Az adóson kívül az Alaptól akkor lehet követelni az adós fenti tartozását, ha az adós jogerős ítéletben megállapított vagy nem vitatott tartozását az esedékességtől számított további 30 napon belül sem teljesíti. Az egyetemlegesség alapján fizetendő összegért az Alap 60 napon belül köteles az adós helyett a fenti határidőt követően helytállni. Az egyetemlegesség alapján fizetendő összegért az Alapot követően a többi szövetkezeti hitelintézet, az Integrációs Szervezet, illetve a Takarékbank Zrt. áll helyt.
+(4) Az 1. § (4) bekezdése szerinti egyetemleges felelősség alapján az adóson kívül az Alaptól, az Integrációs Szervezettől, a többi szövetkezeti hitelintézettől, illetve a Takarékbank Zrt.-től lehet az egész követelést követelni. Az adóson kívül az Alaptól akkor lehet követelni az adós tartozását, ha az adós jogerős ítéletben megállapított vagy nem vitatott tartozását az esedékességtől számított további 30 napon belül sem teljesíti. Az egyetemlegesség alapján fizetendő összegért az Alap 60 napon belül köteles az adós helyett az e bekezdésben meghatározott határidőt követően helyt állni. Az egyetemlegesség alapján fizetendő összegért az Alapot követően – az alábbi sorrendben – az Integrációs Szervezet, a többi szövetkezeti hitelintézet, illetve a Takarékbank Zrt. áll helyt, ha a sorrendben megelőző helyen álló személyek a követelésért nem álltak helyt és fizetésképtelenségüket jogerős bírósági ítélet mondta ki.
 
 (5) Az 1.§ (4) bekezdésében szereplő egyetemlegességre alapozott követelés érvényesítését úgy kell megkezdeni, hogy
 

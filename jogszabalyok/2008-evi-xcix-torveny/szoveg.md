@@ -478,7 +478,7 @@ részére.
 
 32. § A munkáltató négyhavi munkaidőkeretet is előírhat az Mt. 92. §-a szerinti napi munkaidő tartamának alapulvételével.
 
-33. § A foglalkoztatott munkaidejét nem érintő munkavégzésre irányuló további jogviszony létesítését – a tudományos, oktatói, lektori, szerkesztői, valamint a szerzői jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – a foglalkoztatott köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni, aki a további jogviszony létesítését megtilthatja, ha az előadó-művészeti szervezet üzemszerű működését veszélyezteti.
+33. § A foglalkoztatott munkaidejét nem érintő munkavégzésre irányuló további jogviszony létesítését – a tudományos, oktatói, lektori, szerkesztői, a szerzői jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és a közérdekű önkéntes tevékenység kivételével – a foglalkoztatott köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni, aki a további jogviszony létesítését megtilthatja, ha az előadó-művészeti szervezet üzemszerű működését veszélyezteti.
 
 34. § A magántáncos és a tánckari tag munkakörben foglalkoztatott közalkalmazott kétévenként eggyel magasabb, a Kjt. szerinti fizetési fokozatba lép.
 

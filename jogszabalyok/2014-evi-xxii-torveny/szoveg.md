@@ -20,7 +20,7 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 - 7. reklám:
   - a) a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Reklámtv.) szerinti gazdasági reklám,
   - b) az Mttv. szerinti kereskedelmi közlemény,
-- 8. reklám közzététele: a Reklámtv. szerinti közzététel,
+- 8. reklám közzététele: a Reklámtv. szerinti közzététel, függetlenül attól, hogy a reklám közzétételére irányuló szerződés meghatározza-e a reklám megjelenésének a helyét, az idejét vagy a módját,
 - 9. sajtótermék: az Mttv. szerinti sajtótermék,
 - 10. saját célú reklám: a reklám közzétevő saját termékére, árujára, szolgáltatására, tevékenységére, nevére, megjelenésére vonatkozó reklám,
 - 11. reklámértékesítő ügynökség: az adóalannyal az Szt. szerinti kapcsolt félnek minősülő, olyan személy, szervezet, amely az adóalannyal fennálló szerződéses jogviszony alapján jogosult arra, hogy az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződést kössön.
@@ -37,9 +37,28 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 
 reklám közzététele.
 
-(2) Adóköteles a reklám közzétételének megrendelése, kivéve, ha a 3. § (1) bekezdés szerinti személy a reklám közzétételének megrendelője számára a 3. § (3) bekezdés szerinti nyilatkozatot megtette.
+(2) Adóköteles a reklám közzétételének megrendelése, kivéve, ha
 
-3. § (1) Az adó alanya
+- a) a reklám közzétételének megrendelője rendelkezik a 3. § (1) bekezdés szerinti adóalany 3. § (3) bekezdés szerinti nyilatkozatával,
+- b) a reklám közzétételének megrendelője
+  - ba) a 3. § (1) bekezdés szerinti adóalanytól a 3. § (3) bekezdés szerinti nyilatkozat kiadását kérte, és ezt a tényt hitelt érdemlően igazolni tudja és
+  - bb) a ba) pont szerint kért nyilatkozatot a reklám közzétételéről szóló számla, számviteli bizonylat kézhezvételétől számított 10 munkanapon belül nem kapta meg és
+  - bc) a ba) szerinti tényt, a közzétevő személyét, és a közzététel ellenértékét az állami adóhatósághoz bejelentette,
+- c) a 3. § (1) bekezdés szerinti adóalany a reklám-közzététel megrendelésének időpontjában szerepel az állami adóhatóság honlapján közzétett, a 7/A. § szerinti nyilvántartásban.
+
+(3) Nem adóköteles a reklám (1) bekezdés szerinti közzététele, ha azt a sportról szóló törvény szerinti
+
+- a) országos sportági szakszövetség vagy országos sportági szövetség (e § alkalmazásában a továbbiakban együtt: sportszövetség)
+  - aa) a nemzeti válogatott keret működtetésével,
+  - ab) az utánpótlás-nevelési feladatainak ellátásával,
+  - ac) az amatőr versenyrendszer működtetésével, vagy
+- b) sportszövetség tagszervezeteként működő sportszervezet, sportiskola vagy utánpótlás-nevelés fejlesztését végző alapítvány
+  - ba) az utánpótlás-nevelési feladatainak ellátásával vagy
+  - bb) az amatőr versenyrendszerben való részvétellel
+
+összefüggésben végzi.
+
+3. § (1) Az adó alanya – illetőségétől függetlenül –
 
 - a) az Mttv. szerint Magyarországon letelepedettnek minősülő médiatartalom-szolgáltató,
 - b) az a) pont alá nem tartozó, olyan médiaszolgáltató, amely napi műsoridejének legalább felében magyar nyelvű médiatartalmat tesz Magyarország területén elérhetővé,
@@ -47,9 +66,11 @@ reklám közzététele.
 - d) a szabadtéri reklámhordozót, valamint a reklám elhelyezésére szolgáló bármely járművet, nyomtatott anyagot, ingatlant reklám céljára hasznosító személy vagy szervezet,
 - e) az interneten közzétett reklám esetén a reklám közzétevője.
 
-(2) A 2. § (2) bekezdés szerinti adókötelezettség esetén az adó alanya a reklám közzétételének megrendelője, ide nem értve az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemélyt.
+(2) A 2. § (2) bekezdés szerinti adókötelezettség esetén az adó alanya – illetőségétől függetlenül – a reklám közzétételének megrendelője, ide nem értve az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemélyt.
 
 (3) Az (1) bekezdés szerinti adóalanynak a reklám közzétételének ellenértékéről szóló számlán vagy számviteli bizonylaton vagy más okiraton (így különösen a reklám közzétételére vonatkozó szerződésben) nyilatkoznia kell arról, hogy az adókötelezettség őt terheli és az adóbevallási, adófizetési kötelezettségének eleget tesz, vagy arról a tényről, hogy az adóévben, reklám közzététele után adófizetési kötelezettség nem terheli. Amennyiben az (1) bekezdés szerinti személy, szervezet a nyilatkozattételi kötelezettségének nem tesz eleget, akkor a (2) bekezdés szerinti adóalany havonta, a reklám közzétételéről szóló számla, számviteli bizonylat kézhezvételét követő hónap 20. napjáig köteles az általa megrendelt reklám-közzététel utáni adót összesítve bevallani és megfizetni. A (2) bekezdés szerinti adóalanynak nem kell alkalmaznia az adókötelezettség teljesítése során a 7. § (1)–(8) bekezdésében és a 9. §-ban foglaltakat.
+
+(4) Az (1) bekezdés szerinti adóalanynak a (3) bekezdés szerinti nyilatkozattételi kötelezettsége nem áll fenn, ha a megrendelés időpontjában szerepel a 7/A. § szerint közzétett nyilvántartásban.
 
 #### 3. Az adó alapja
 
@@ -71,9 +92,11 @@ reklám közzététele.
 
 – az adóalap 15 milliárd forintot meghaladó, de 20 milliárd forintot meg nem haladó része után 30%,
 
-– az adóalap 20 milliárd forintot meghaladó része után 40%.
+– az adóalap 20 milliárd forintot meghaladó része után 50%.
 
 (2) Az adó mértéke a 4. § (2) bekezdés szerinti adóalap esetén az adóalap 20%-a.
+
+(3) Ha az adóév 12 hónapnál rövidebb, a fizetendő adó összege az adóévi 4. § (1) bekezdés szerinti adóalapnak az adóév naptári napjai alapján 12 hónapos időszakra számított összegéből az (1) bekezdés szerinti adómértékkel megállapított adóösszeg adóév naptári napjaival arányos része.
 
 #### 5. Kapcsolt vállalkozás adó- és adóelőlegfizetési kötelezettségének megállapítása
 
@@ -83,7 +106,9 @@ reklám közzététele.
 
 (3) Az (1)–(2) bekezdés szerinti számítások végrehajtása érdekében az egymással kapcsolt vállalkozási viszonyban álló adóalanyok kötelesek együttműködni. A számítások dokumentálását (ideértve az elkészítést és a megőrzést is) az egymással kapcsolt vállalkozási viszonyban álló adóalanyok mindegyike köteles elvégezni. A számítások dokumentációját az adóhatóság kérésére be kell mutatni.
 
-(4) Az (1)–(3) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.
+(4) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, az (1)–(2) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – a 4. § (1) bekezdése szerint megállapított adóalapot kell figyelembe venni.
+
+(5) Az (1)–(4) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.
 
 #### 6. Eljárási rendelkezések
 
@@ -96,7 +121,7 @@ reklám közzététele.
 - a) ha az adóalany adóévet megelőző adóéve 12 hónap, akkor az adóévet megelőző adóévben folytatott adóköteles tevékenységből származó adóalap alapulvételével az 5. § szerint számított összeg,
 - b) ha az adóalany adóévet megelőző adóéve 12 hónapnál rövidebb, akkor az adóévet megelőző adóévben folytatott adóköteles tevékenységből származó adóalap 12 hónapra számított összegének alapulvételével az 5. § szerint számított összeg,
 - c) az adóköteles tevékenységet az adóévben jogelőd nélkül kezdő adóalany esetében az adóévre várható adó összege,
-- d) átalakulással létrejött adóalany esetén a jogelőd által az adóévben az átalakulás napjáig elért, adóköteles tevékenységből származó adóalap alapulvételével, az 5. § szerinti adómértékkel számított összeg olyan aránya, amilyen arányban az átalakulással létrejött adóalany (ide értve kiválás esetén a fennmaradó társaságot is) a jogelőd vagyonából részesült.
+- d) átalakulással, egyesüléssel, szétválással létrejött adóalany esetén a jogelőd által az adóévben az átalakulás, egyesülés, szétválás napjáig elért, adóköteles tevékenységből származó adóalap alapulvételével, az 5. § szerinti adómértékkel számított összeg olyan aránya, amilyen arányban az átalakulással, egyesüléssel, szétválással létrejött adóalany (ideértve kiválás esetén a fennmaradó társaságot is) a jogelőd vagyonából részesült.
 
 (4) Az adóalany az adófizetési kötelezettségét a bevallás benyújtására előírt határnapig, az adóelőleg-fizetési kötelezettségét a (3) bekezdés a)–b) pontja szerinti esetben két egyenlő részletben, az adóév hetedik hónapjának 20. napjáig és tizedik hónapjának 20. napjáig, a (3) bekezdés c)–d) pontja szerinti esetben két egyenlő részletben a tevékenység megkezdését követő 15 napon belül és az adóév utolsó hónapjának 20. napjáig teljesíti.
 
@@ -146,5 +171,13 @@ reklám közzététele.
 (3) Az adóalany a 2014. évi adóelőlegét – a 7. § (2) bekezdésében foglaltaktól eltérően – 2014. augusztus 20-áig köteles megállapítani és bevallani, továbbá két egyenlő részletben, 2014. augusztus 20-áig és 2014. november 20-ig köteles megfizetni.
 
 (4) A 2. § szerinti tevékenységét 2014. évben kezdő adóalany esetében, továbbá annak a naptári évtől eltérő üzleti évet választó adóalanynak az esetében, akinek nincs 2014. augusztus 20-áig beszámolóval lezárt utolsó üzleti éve, a 2014. évi adóelőleg összege a 2014. adóévre, illetve a beszámolóval le nem zárt üzleti évre várható adó összegének az e törvény hatályba lépésétől számított időszak naptári napjaival arányos része.
+
+(5) A naptári évtől eltérő üzleti évet választó, 2015. január 1-jét megelőzően létrejött adóalany esetén a 2014. évben kezdődő üzleti éve 2015. január 1-jétől az üzleti éve utolsó napjáig tartó időszakra (a továbbiakban: átmeneti adóév) eső adójának összege az adóalany átmeneti adóévben elért 4. § (1) bekezdés szerinti adóalap alapulvételével az 5. § (1) és (3) bekezdés szerint számított összeg.
+
+(6) Az átmeneti adóévre jutó adóelőleg összege az (5) bekezdés szerinti adóalany 2014. évi, 2. § szerinti tevékenységéből származó nettó árbevétele, saját célú reklám közzétételével összefüggő közvetlen költsége, a 2. § (1) szerinti tevékenység esetén reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó 2014. évi nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak 2014. évben járó ellenértéknek a különbözete alapulvételével az 5. § (1) és (3) bekezdés szerint számított összeg.
+
+(7) Az (5) bekezdés szerinti adóalany az átmeneti adóév adóelőlegét – a 7. § (2) bekezdésében foglaltaktól eltérően – 2015. január 15-ig köteles megállapítani és bevallani, továbbá két egyenlő részletben, 2015. január 15-ig és az átmeneti adóév utolsó napjáig köteles megfizetni.
+
+(8) Az (5)–(7) bekezdésben foglaltakat nem kell alkalmazni annak az adóalanynak, amely 2014. augusztus 15. és 2014. december 31. között jött létre és alakulásától kezdődően naptári évtől eltérő üzleti évet választott.
 
 10. § Az adóalany csökkentheti a 2014. évben kezdődő adóév adóalapját – legfeljebb annak erejéig – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 17. § (1) bekezdése vagy az Szja tv. 49/B. § (7) bekezdése szerinti elhatárolt veszteség 50%-ával, feltéve, hogy a 2013. évben kezdődő üzleti évben az adóalany adózás előtti eredményének összege nulla vagy negatív.

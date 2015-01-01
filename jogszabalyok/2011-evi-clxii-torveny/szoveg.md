@@ -327,6 +327,8 @@ meghatározott esetben.
 
 (2) Az OBH elnöke több bíróságot érintő központi igazgatási feladat összehangolt végrehajtása érdekében a bíró hozzájárulásával és a bíró felett munkáltatói jogkört gyakorló bírósági elnök egyetértésével külön feladattal bízhatja meg a bírót.
 
+29/A. § A Kúria elnöke által törvényben meghatározottak szerint eseti jelleggel létrehozott Kegyelmi Bizottság tagjává kijelölt bíró e feladatát az ítélkezési vagy igazgatási munkája mellett látja el.
+
 #### 16. A bíró kijelölése
 
 30. § (1) A közigazgatási és munkaügyi ügyekben eljáró bírákat a törvényszék bírái tekintetében a törvényszék elnökének javaslatára az OBH elnöke jelöli ki.
@@ -429,7 +431,7 @@ elnökének véleményét.
 
 (2) A bíró nem lehet országgyűlési, európai parlamenti vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezető.
 
-40. § (1) A bíró a tisztsége ellátásán kívül csak tudományos és oktatói, edzői, versenybírói, játékvezetői, művészi, szerzői jogi védelemben részesülő, továbbá lektori és szerkesztői, valamint műszaki alkotó munkát végezhet kereső tevékenységként, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti ennek látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését.
+40. § (1) A bíró a tisztsége ellátásán kívül csak tudományos, oktatói, edzői, versenybírói, játékvezetői, művészi, szerzői jogi védelemben részesülő, lektori és szerkesztői, valamint műszaki alkotó munkát végezhet kereső tevékenységként és nevelőszülői foglalkoztatási jogviszonyban állhat, de ezzel nem veszélyeztetheti függetlenségét, pártatlanságát és nem keltheti ennek látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését.
 
 (2) A bíró nem lehet gazdasági társaság, kooperációs társaság, szövetkezet vezető tisztségviselője vagy személyes közreműködésre kötelezett tagja, gazdasági társaság, kooperációs társaság, szövetkezet felügyelő bizottságának tagja, gazdasági társaság, kooperációs társaság korlátlanul felelős tagja, valamint egyéni cég tagja, továbbá gazdasági-vállalkozási tevékenységet is végző civil szervezet vezető tisztségviselője.
 
@@ -520,9 +522,7 @@ hatályos.
 (7) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a bírót
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig
-
-köteles foglalkoztatni. Ezt követően a bíró munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
+- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő bíró esetén a gyermek ötéves koráig köteles foglalkoztatni. Ezt követően a bíró munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
 50. § A 49. § nem alkalmazható a bírósági vezetőre.
 
@@ -560,6 +560,8 @@ történő rendelkezésre állás.
 (2) A bírót az 50. életéve betöltésének évétől – a fizetési fokozatától függetlenül – évi 40 munkanap alapszabadság illeti meg.
 
 (3) A bírósági vezetők évi 5 munkanap pótszabadságra jogosultak. Az évi alapszabadság és a vezetői pótszabadság együttes mértéke a 40 munkanapot nem haladhatja meg.
+
+(3a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
 (4) A szabadság kiadásának az időpontját – a bíró előzetes meghallgatása után – a munkáltatói jogkör gyakorlója határozza meg. A szabadságok kiadására a bíróságokon szabadságolási tervet kell készíteni.
 
@@ -1408,15 +1410,15 @@ jogosult.
 
 177. § (1) A vezetői pótlék összegének a megállapítása szempontjából a kiemelt járásbíróság elnöke és elnökhelyettese a törvényszék elnökével és elnökhelyettesével, csoportvezetője a nagyobb járásbíróság elnökével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül.
 
-(2) A vezetői pótlékra való jogosultság szempontjából kiemelt járásbíróságnak minősül az a járásbíróság, ahol a bírák engedélyezett létszáma az 50 főt meghaladja, nagyobb járásbíróságnak minősül a törvényszék székhelyén működő járásbíróság, továbbá az a bíróság, ahol a bírák engedélyezett létszáma a 8 főt meghaladja.
+(2) A vezetői pótlékra való jogosultság szempontjából kiemelt járásbíróságnak minősül az a járásbíróság, ahol a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja, nagyobb járásbíróságnak minősül a törvényszék székhelyén működő járásbíróság, továbbá az a bíróság, ahol a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja.
 
 178. § (1) A vezetői pótlék összegének a megállapítása szempontjából annak a közigazgatási és munkaügyi bíróságnak az elnöke és elnökhelyettese, ahol
 
-- a) a bírák engedélyezett létszáma az 50 főt meghaladja a törvényszék elnökével és elnökhelyettesével,
-- b) a bírák engedélyezett létszáma a 8 főt meghaladja a nagyobb járásbíróság elnökével és elnökhelyettesével,
-- c) ahol a bírák engedélyezett létszáma a 8 főt nem haladja meg, a kisebb járásbíróság elnökével és elnökhelyettesével azonos beosztásúnak minősül.
+- a) a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja a törvényszék elnökével és elnökhelyettesével,
+- b) a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja a nagyobb járásbíróság elnökével és elnökhelyettesével,
+- c) ahol a bírák éves átlagos statisztikai állományi létszáma a 8 főt nem haladja meg, a kisebb járásbíróság elnökével és elnökhelyettesével azonos beosztásúnak minősül.
 
-(2) Ha a közigazgatási és munkaügyi bíróságon a bírák engedélyezett létszáma az 50 főt meghaladja, akkor a közigazgatási és munkaügyi bíróság csoportvezetője a nagyobb járásbíróság elnökével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül. Ha a közigazgatási és munkaügyi bíróságon a bírák engedélyezett létszáma a 8 főt meghaladja, akkor csoportok felállítása esetén a csoportvezető és a csoportvezető-helyettes a nagyobb járásbíróság csoportvezetőjével, illetve a nagyobb járásbíróság csoportvezető-helyettesével azonos beosztásúnak minősül.
+(2) Ha a közigazgatási és munkaügyi bíróságon a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja, akkor a közigazgatási és munkaügyi bíróság csoportvezetője a nagyobb járásbíróság elnökével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül. Ha a közigazgatási és munkaügyi bíróságon a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja, akkor csoportok felállítása esetén a csoportvezető és a csoportvezető-helyettes a nagyobb járásbíróság csoportvezetőjével, illetve a nagyobb járásbíróság csoportvezető-helyettesével azonos beosztásúnak minősül.
 
 (3) A vezetői pótlék összegének a megállapítása szempontjából a közigazgatási és munkaügyi regionális kollégiumvezető a törvényszék kollégiumvezetőjével, a közigazgatási és munkaügyi regionális kollégiumvezető helyettese a törvényszék kollégiumvezető-helyettesével azonos beosztásúnak minősül.
 
@@ -1827,7 +1829,7 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
+222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. § (1)–(3) bekezdését, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
@@ -1842,6 +1844,8 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 224. § A köztársasági elnöknek az e törvénnyel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
 
 225. § (1) Felhatalmazást kap a Kormány, hogy a tartós külszolgálatot ellátó bírónak az e törvény szerinti javadalmazásán kívüli egyéb juttatásait – az OBH elnöke véleményének kikérésével – rendeletben állapítsa meg.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 

@@ -444,7 +444,7 @@ számított öt éven belül vonható vissza.
 
 39. § A vizsgáló a Gazdasági Versenyhivatal feladat- és hatáskörében eljáró, ágazati vizsgálatban, bejelentéssel, panasszal összefüggő eljárásban, továbbá versenyfelügyeleti eljárásban vizsgálatot végző, illetve az eljárás eredményessége érdekében abban közreműködő köztisztviselő. A vizsgálói munkaköröket a Gazdasági Versenyhivatal szervezeti és működési szabályzata határozza meg.
 
-40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet (összeférhetetlenség).
+40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (összeférhetetlenség).
 
 (2)–(3)
 
@@ -536,7 +536,9 @@ besorolást kap.
 
 (2) A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állók teljesítményértékelésének és minősítésének rendjére, eljárására és szintjeire, a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a pályáztatás rendjére, annak szervezésére és lebonyolítására vonatkozó részletes szabályokat a Gazdasági Versenyhivatal közszolgálati szabályzata határozza meg.
 
-(3) A Gazdasági Versenyhivatal elnöke határozza meg a Gazdasági Versenyhivatalnál foglalkoztatott közszolgálati tisztviselők részére adható egyéb juttatásokra, a céljuttatásra és kutatási megállapodásra vonatkozó részletes szabályokat.
+(3) A Gazdasági Versenyhivatal elnöke határozza meg a Gazdasági Versenyhivatalnál foglalkoztatott közszolgálati tisztviselők részére adható egyéb juttatásokra, a céljuttatásra és kutatási megállapodásra vonatkozó részletes szabályokat, ideértve az ilyen juttatásoknak a jogszabály szerinti illetmények eredeti előirányzatához viszonyított arányát.
+
+(4) A Gazdasági Versenyhivatal nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
 
 43/B. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, valamint a Gazdasági Versenyhivatallal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott személy – a jogszabályban előírt adatszolgáltatást, illetve megismerhetővé tételt kivéve – e jogviszony fennállása alatt és annak megszűnését követően is köteles a Gazdasági Versenyhivatal tevékenységével, feladatának ellátásával kapcsolatban tudomására jutott korlátozottan megismerhető adatot, továbbá minden egyéb nem nyilvános adatot megőrizni, az ilyen adatot jogosulatlanul nem teheti közzé, nem hasznosíthatja, és nem hozhatja harmadik fél tudomására.
 

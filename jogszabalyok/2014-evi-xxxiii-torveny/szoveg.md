@@ -16,13 +16,121 @@ az egyes pénzügyi tárgyú törvények módosításáról
 
 #### 3. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-9–18. §
+9. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) a következő 45/A. §-sal egészül ki:
+
+„45/A. § (1) A következő, nem adóalany részére nyújtott szolgáltatások esetében a teljesítés helye az a hely, ahol ezzel összefüggésben a szolgáltatást igénybevevő nem adóalany letelepedett, letelepedés hiányában pedig, ahol lakóhelye vagy szokásos tartózkodási helye van:
+
+a) telekommunikációs szolgáltatások;
+
+b) rádiós és audiovizuális médiaszolgáltatások;
+
+c) elektronikus úton nyújtott szolgáltatások.
+
+(2) E § alkalmazásában elektronikus úton nyújtott szolgáltatás különösen:
+
+a) elektronikus tárhely rendelkezésre bocsátása, honlap tárolása és üzemeltetése, valamint számítástechnikai eszköz és program távkarbantartása,
+
+b) szoftver rendelkezésre bocsátása és frissítése,
+
+c) kép, szöveg és egyéb információ rendelkezésre bocsátása, valamint adatbázis elérhetővé tétele,
+
+d) zene, film és játék – ideértve a szerencsejátékot is – rendelkezésre bocsátása, valamint politikai, kulturális, művészeti, tudományos, sport- és szórakoztatási célú médiaszolgáltatás, illetőleg ilyen célú események közvetítése, sugárzása,
+
+e) távoktatás,
+
+feltéve, hogy a szolgáltatás nyújtása és igénybevétele globális információs hálózaton keresztül történik. A szolgáltatás nyújtója és igénybevevője közötti, ilyen hálózaton keresztüli kapcsolat felvétele és tartása – ideértve az ajánlat tételét és elfogadását is – azonban önmagában még nem elektronikus úton nyújtott szolgáltatás.”
+
+10. § Az Áfa tv. 86. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
+
+(Mentes az adó alól:)
+
+„i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is, valamint a szerencsejáték szervezésére vonatkozó tevékenység gyakorlása jogának az állam által koncessziós szerződéssel történő átengedése;”
+
+11. § Az Áfa tv. 142. § (1) bekezdése a következő j) ponttal egészül ki:
+
+[Az adót a termék beszerzője, szolgáltatás igénybevevője fizeti:]
+
+„j) a 6/B. számú mellékletben felsorolt termék értékesítése esetén, amennyiben az nem tartozik a XVI. Fejezet szerinti különös rendelkezések hatálya alá.”
+
+12. § Az Áfa tv. XIX. Fejezetének címe helyébe a következő fejezetcím lép:
+
+„TELEKOMMUNIKÁCIÓS, RÁDIÓS ÉS AUDIOVIZUÁLIS MÉDIASZOLGÁLTATÁSOKKAL, VALAMINT ELEKTRONIKUS ÚTON NYÚJTOTT SZOLGÁLTATÁSOKKAL KAPCSOLATOS KÜLÖNÖS SZABÁLYOK”
+
+13. § Az Áfa tv. XIX. Fejezete a 252. §-t megelőzően a következő alfejezetcímmel egészül ki:
+
+„1. alfejezet
+
+A Közösség területén nem letelepedett adóalanyra vonatkozó különös szabályok”
+
+14. § Az Áfa tv. 252. § (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az az adóalany, aki (amely) nem telepedett le gazdasági céllal a Közösség területén, gazdasági célú letelepedés hiányában pedig nem rendelkezik lakóhellyel vagy szokásos tartózkodási hellyel a Közösség területén, és a Közösség területén a 45/A. § szerinti szolgáltatásokon kívül nem teljesít más olyan termékértékesítést, szolgáltatásnyújtást, termék Közösségen belüli beszerzését, amely után a Közösség bármely tagállamának joga szerint adót kell fizetnie, a szolgáltatásnyújtás Közösség területén történő megkezdését megelőzően kérelmezheti, hogy őt az állami adóhatóság ilyen minőségében nyilvántartásba vegye.
+
+(2) Az állami adóhatóság a kérelmet elutasítja, ha az adóalanyt a Közösség valamely más tagállamában ilyen minőségében már nyilvántartásba vették, vagy erre irányuló kérelmét a Közösség valamely más tagállamában már benyújtotta és annak elbírálása jogerősen még nem zárult le.”
+
+15. § Az Áfa tv. 253. §-a a következő (3)–(4) bekezdéssel egészül ki:
+
+„(3) Az az adóalany, aki (amely) a 45/A. § szerinti szolgáltatás nyújtása utáni adófizetési kötelezettségét azon tagállami szabályozás alapján teljesíti, amely tartalmában megfelel a Héa-irányelv 358–369. cikkében foglaltaknak, az előzetesen felszámított adót a XVIII. fejezet rendelkezései szerint jogosult visszatéríttetni.
+
+(4) A (3) bekezdés szerinti jogát az adóalany az elismert harmadik államban letelepedett adóalanyra vonatkozó szabályok szerint érvényesítheti, azzal, hogy esetében
+
+a) a 244. § helyett a (3) bekezdés alkalmazandó;
+
+b) az e fejezet szerinti jogállását nem kell igazolni.”
+
+16. § Az Áfa tv. a 253. §-t követően a következő alfejezetekkel egészül ki:
+
+„2. alfejezet
+
+Belföldön letelepedett adóalanyra vonatkozó különös szabályok
+
+253/A. § (1) Az az adóalany, aki (amely) a 45/A. § szerinti szolgáltatást teljesít a Közösség olyan tagállamában, ahol nem rendelkezik gazdasági célú letelepedéssel, kérelmezheti, hogy őt az állami adóhatóság ilyen minőségében nyilvántartásba vegye, feltéve, hogy gazdasági tevékenységének székhelye belföldön van, vagy gazdasági tevékenységének székhelye a Közösség területén kívül van, azonban belföldön rendelkezik állandó telephellyel.
+
+(2) Az állami adóhatóság a kérelmet elutasítja, ha az adóalany gazdasági tevékenységének székhelye a Közösség területén kívül van és őt a Közösség valamely más tagállamában ilyen minőségében már nyilvántartásba vették, vagy erre irányuló kérelmét a Közösség más tagállamában már benyújtotta és annak elbírálása jogerősen még nem zárult le.
+
+(3) Abban az esetben, ha az adóalany gazdasági tevékenységének székhelye a Közösség területén kívül van, azonban a Közösség legalább két tagállamában is rendelkezik állandó telephellyel, az adóalany választhat, hogy melyik állandó telephelye szerinti tagállamban kéri az (1) bekezdés szerinti minőségében történő nyilvántartásba vételét.
+
+(4) Abban az esetben, ha az adóalanyt a (3) bekezdés szerinti választása alapján az állami adóhatóság ilyen minőségében nyilvántartásba vette, az adóalanyt ezen döntése a választása évét követő második naptári év végéig köti.
+
+3. alfejezet
+
+A Közösség területén letelepedett adóalanyra vonatkozó különös szabályok
+
+253/B. § (1) Az az adóalany,
+
+a) akinek (amelynek) gazdasági célú letelepedési helye, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye nem belföldön, hanem a Közösség valamely más tagállamában van, és
+
+b) akit (amelyet) belföldön adóalanyként nem vettek nyilvántartásba és egyébként belföldön adóalanyként történő nyilvántartásba vételre nem kötelezett, és
+
+c) aki (amely) belföldön a 45/A. § szerinti szolgáltatást nyújt oly módon, hogy adófizetési kötelezettségét a gazdasági célú letelepedése, ennek hiányában lakóhelye, vagy szokásos tartózkodási helye szerinti tagállamban teljesíti azon tagállami szabályozás alapján, amely tartalmában megfelel a Héa-irányelv 369a–369k. cikkében foglaltaknak,
+
+az előzetesen felszámított adó levonására nem jogosult, megilleti azonban annak a XVIII. fejezet rendelkezései szerinti visszatéríttetése.
+
+(2) Az (1) bekezdés szerinti jogát az adóalany azzal érvényesítheti, hogy esetében a 244. § helyett az (1) bekezdés alkalmazandó.”
+
+17. § Az Áfa tv. a következő 288–289. §-sal egészül ki:
+
+„288. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvénnyel (a továbbiakban: Mód4 törvény) megállapított 45/A. §-t azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2015. január 1. napjára esik vagy azt követi.
+
+(2) Amennyiben a Mód4 törvénnyel megállapított 45/A. § hatálya alá tartozó szolgáltatások nyújtásához fizetett előleg jóváírásának, kézhezvételének időpontja 2015. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót a 2015. január 1. napját megelőzően hatályos szolgáltatás teljesítési helyére vonatkozó szabályok alapján kell megállapítani.
+
+(3) A Mód4 törvénnyel megállapított 45/A. § hatálya alá tartozó olyan szolgáltatás nyújtása esetén, amelynek teljesítési időpontja 2015. január 1. napjára esik vagy azt követi, és amelyre tekintettel a (2) bekezdés szerint előleg fizetésére került sor, az ügylet teljesítési időpontjában a szolgáltatásnyújtó adófizetési kötelezettsége az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
+289. § (1) A Mód4 törvénnyel megállapított 142. § (1) bekezdés j) pontját – a (2)–(3) bekezdésben meghatározott eltéréssel – azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2015. január 1. napjára esik vagy azt követi.
+
+(2) A Mód4 törvénnyel megállapított 6/B. mellékletben felsorolt termékek értékesítése esetén, ha a teljesítés időpontja 2015. január 1. napjára esik vagy azt követi, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2015. január 1. napját megelőzően kellene megállapítani, a Mód4 törvénnyel megállapított 142. § (1) bekezdés j) pontja nem alkalmazandó.
+
+(3) Amennyiben a Mód4 törvénnyel megállapított 142. § (1) bekezdés j) pontja hatálya alá tartozó termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2015. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a termék beszerzőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.”
+
+18. § Az Áfa tv. a 3. melléklet szerinti 6/B. számú melléklettel egészül ki.
 
 19. § Hatályát veszti az Áfa tv.
 
-- a)–c)
+- a) 46. § (2) bekezdés i)–k) pontja,
+- b) 46. § (5) bekezdése,
+- c) 47–48. §-a,
 - d)–e)
-- f)
+- f) 259. § 17. pontja,
 - g)
 
 ### III. Fejezet — ILLETÉKEK
@@ -37,7 +145,11 @@ az egyes pénzügyi tárgyú törvények módosításáról
 
 21–22. §
 
-23. §
+23. § Az Art. 31/A. §-a a következő (3)–(4) bekezdéssel egészül ki:
+
+„(3) Az általános forgalmi adó alanya az adómegállapítási időszakról benyújtott általános forgalmiadó-bevallásában nyilatkozik az adómegállapítási időszakban teljesített, az Áfa tv. 142. § (1) bekezdés j) pontja alá tartozó termékértékesítése tekintetében a vevő adószámáról, a termékértékesítés teljesítésének napjáról, valamint – az Áfa tv. 6/B. számú mellékletében meghatározott vámtarifaszám szerinti bontásban – az értékesített termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
+
+(4) Az általános forgalmi adó alanya az adómegállapítási időszakról benyújtott általános forgalmiadó-bevallásában azon, az Áfa tv. 142. § (1) bekezdés j) pontja alá tartozó termékbeszerzése tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének napjáról, valamint – az Áfa tv. 6/B. számú mellékletében meghatározott vámtarifaszám szerinti bontásban – a beszerzett termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.”
 
 24–26. §
 
@@ -222,11 +334,36 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 #### 9. Jogharmonizációs záradék
 
-44. §
+44. § E törvény a következő jogi aktusoknak történő megfelelést szolgálja:
+
+- a) a Tanács 2008/8/EK irányelve (2008. február 12.) a 2006/112/EK irányelvnek a szolgáltatásnyújtás teljesítési helye tekintetében történő módosításról;
+- b) a Tanács 2013/43/EU irányelve (2013. július 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózás bizonyos, csalásra alkalmas termékek és szolgáltatások értékesítésére vonatkozó fakultatív és ideiglenes alkalmazása tekintetében történő módosításáról.
 
 ### 1–2. melléklet a 2014. évi XXXIII. törvényhez
 
 ### 3. melléklet a 2014. évi XXXIII. törvényhez
+
+„6/B. számú melléklet a 2007. évi CXXVII. törvényhez
+
+A 142. § (1) bekezdés j) pontjának alkalmazása alá tartozó termékek
+
+| Sorszám | Megnevezés | Vtsz. |
+| --- | --- | --- |
+| 1. | Síkhengerelt, legalább 600 mm szélességű termék vasból vagy ötvözetlen acélból, melegen hengerelve, plattírozás, lemezelés vagy bevonás nélkül | 7208 |
+| 2. | Síkhengerelt, legalább 600 mm szélességű termék vasból vagy ötvözetlen acélból, hidegen hengerelve (hidegen tömörítve), plattírozás, lemezelés vagy bevonás nélkül | 7209 |
+| 3. | Síkhengerelt, legalább 600 mm szélességű termék vasból vagy ötvözetlen acélból, plattírozva, lemezelve vagy bevonva | 7210 |
+| 4. | Síkhengerelt, kevesebb mint 600 mm szélességű termék vasból vagy ötvözetlen acélból, plattírozás, lemezelés vagy bevonás nélkül | 7211 |
+| 5. | Síkhengerelt, kevesebb mint 600 mm szélességű termék vasból vagy ötvözetlen acélból, plattírozva, lemezelve vagy bevonva | 7212 |
+| 6. | Melegen hengerelt rúd vasból vagy ötvözetlen acélból, szabálytalanul felgöngyölt tekercsben | 7213 |
+| 7. | Más rúd vasból vagy ötvözetlen acélból, kovácsolva, melegen hengerelve, melegen húzva vagy extrudálva, hengerlés után csavarva is | 7214 |
+| 8. | Más rúd vasból vagy ötvözetlen acélból | 7215 |
+| 9. | Szögvas, idomvas és szelvény vasból vagy nem ötvözött acélból | 7216 |
+| 10. | Huzal vasból vagy ötvözetlen acélból | 7217 |
+| 11. | Varrat nélküli cső és üreges profil vasból vagy nem ötvözött acélból (az öntöttvas cső kivételével) | 7304-ből |
+| 12. | Más cső és üreges profil vasból vagy nem ötvözött acélból (pl. nyitva vagy hegesztve, szegecselve vagy hasonlóan zárva) | 7306-ból |
+| 13 | Rács, sodronyfonat és kerítésfonat a keresztezéseknél hegesztve, legalább 3 mm keresztmetszetű huzalból és lyukmérete legalább 100 cm2 | 7314 20 |
+
+”
 
 ### 4. melléklet a 2014. évi XXXIII. törvényhez
 

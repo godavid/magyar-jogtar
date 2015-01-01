@@ -216,6 +216,7 @@ kezeli.
 | 14 | egészségügyi tartalékok és vérkészletek |
 | 15 | magas biztonsági szintű biológiai laboratóriumok |
 | 16 | egészségbiztosítás informatikai rendszere |
+| 16a | gyógyszer-nagykereskedelem |
 | 17 | Pénzügy | pénzeszközök, pénzügyi eszközök kereskedési, elszámolási, fizetési és teljesítést végző infrastruktúrái és rendszerei |
 | 18 | bank- és hitelintézeti biztonság |
 | 19 | készpénzellátás |

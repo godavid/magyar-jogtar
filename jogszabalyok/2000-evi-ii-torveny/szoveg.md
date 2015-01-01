@@ -43,10 +43,12 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát – a praxisjogot megszerezni kívánó orvost is megjelölve – az azt elidegeníteni kívánó személy bejelenti az adott praxisjoggal érintett települési önkormányzatnak.
 
-(2) Amennyiben az (1) bekezdés szerinti önkormányzat
+(2) Ha az (1) bekezdés szerinti önkormányzat – a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv véleményének kikérését követően –
 
 - a) a praxisjogot megszerezni kívánó orvossal – a praxisjog megszerzése esetén – az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kíván kötni, erről a felek előszerződést kötnek,
-- b) nem kíván a praxisjogot megszerezni kívánó orvossal az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kötni, erről nyilatkoznia kell.
+- b) nem kíván a praxisjogot megszerezni kívánó orvossal az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kötni, erről az (1) bekezdés szerinti bejelentés napjától számított 45 napon belül nyilatkoznia kell.
+
+(2a) Ha az (1) bekezdés szerinti önkormányzat a (2) bekezdés b) pontja szerinti határidőben nem nyilatkozik, úgy kell tekinteni, hogy a praxisjogot megszerezni kívánó háziorvossal az adott körzetben a 2/B. §-a szerinti feladat-ellátási szerződést meg kívánja kötni. Ebben az esetben az (1) bekezdés szerinti bejelentés napjától számított 90 napon belül az adott körzetre vonatkozóan a 2/B. § szerinti feladat-ellátási szerződést az (1) bekezdés szerinti önkormányzat és a praxisjogot megszerezni kívánó orvos megköti.
 
 (3) Praxisjog folytatása esetén vélelmezni kell, hogy az (1) bekezdés szerinti önkormányzat a praxisjogot folytató háziorvossal az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kíván kötni.
 
@@ -78,14 +80,18 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (7) A közalkalmazotti jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – a közalkalmazotti jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
 
+(8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
+
 2/C. § A kormányrendeletben meghatározott praxiskezelő
 
-- a) nyilvántartást vezet a praxisjogokról és a tartósan betöltetlen körzetekről,
+- a) nyilvántartást vezet
+  - aa) a praxisjogokról,
+  - ab) a tartósan betöltetlen háziorvosi körzetekről,
 - b) regisztrálja a praxisjogra vonatkozó adásvételeket, ebben a körben nyilvántartja az eladó és a vevő nevét és pecsétszámát, valamint a praxisjog és az adásvétel azonosítására szolgáló adatokat, továbbá közzéteszi és hirdeti a megvásárolható praxisjogokat.
 
-2/D. § (1) A 2/C. § a) pontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása, a praxisjogot engedélyező határozatot kiadó hatóság megnevezése, az engedély száma és kelte tekintetében közhiteles hatósági nyilvántartásnak minősül.
+2/D. § (1) A 2/C. § a) pont aa) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása, a praxisjogot engedélyező határozatot kiadó vagy a praxisjogot hatósági bizonyítványban igazoló hatóság megnevezése, az engedély vagy a hatósági bizonyítvány száma és kelte tekintetében, a 2/C. § a) pont ab) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása és tartósan betöltetlenné válása időpontjának tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2) A 2/C. § a) pontja szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+(2) A 2/C. § a) pontja szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a praxiskezelő kizárólag okirati bizonyítékot, valamint az ügyfél írásbeli nyilatkozatát használhatja fel.
 
 3. § (1) Ez a törvény a kihirdetését követő 15. napon lép hatályba.
 
@@ -100,6 +106,8 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 (4) A működtetési jognak a (2) vagy a (3) bekezdés alapján a törvény erejénél fogva történő megszerzése és az ezt tanúsító hatósági bizonyítvány kiállítása illetékmentes. E rendelkezés nem vonatkozik a működtetési jog további ingyenes, illetve ellenérték fejében történő megszerzésére.
 
 (5) A területi ellátási kötelezettséggel működő háziorvosok működtetési joga 2012. január 1-jével praxisjognak minősül, amely jog arra a körzetre terjed ki, ahol a háziorvos 2012. január 1-jén területi ellátási kötelezettséggel háziorvosi ellátást nyújt, ideértve a munkavégzésben akadályozott, működtetési joggal rendelkező orvost is.
+
+(5a) A praxisjogot a törvény erejénél fogva megszerző háziorvos kérelmére az egészségügyi államigazgatási szerv a praxisjog meglétét hatósági bizonyítvánnyal igazolja.
 
 (6) Azok a működtetési joggal rendelkező háziorvosok, akik 2012. január 1-jén nem rendelkeznek területi ellátási kötelezettséggel (a továbbiakban: működtetési joggal rendelkező háziorvos), tartósan betöltetlen körzetben működtetési joguk alapján területi ellátási kötelezettséget vállalhatnak 2015. december 31-éig. A tartósan betöltetlen körzetek betöltésénél a működtetési joggal rendelkező háziorvosok előnyt élveznek. A működtetési joggal rendelkező háziorvos működtetési joga a tartósan betöltetlen körzet betöltésével – illetékmentesen – praxisjognak minősül. Azon működtetési joggal rendelkező háziorvos működtetési joga, aki 2015. december 31-éig nem tölt be tartósan betöltetlen háziorvosi körzetet, 2015. december 31-i hatállyal megszűnik.
 

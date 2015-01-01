@@ -65,7 +65,8 @@ az ügyvédekről
 - e) az országgyűlési, európai parlamenti, helyi önkormányzati képviselői és a nemzetiségi szószólói jogviszony,
 - f) a munkaviszony nélküli igazgatósági és felügyelőbizottsági tagság,
 - g) a kuratóriumi tagság és tisztségviselés,
-- h) az önkéntes tartalékos szolgálati viszony.
+- h) az önkéntes tartalékos szolgálati viszony,
+- i) a nevelőszülői foglalkoztatási jogviszony.
 
 (3) Az ügyvéd az összeférhetetlenségi okot a bekövetkezésétől számított 15 napon belül köteles az ügyvédi kamarának bejelenteni.
 
@@ -1067,7 +1068,7 @@ kell a névjegyzékből törölni.
 
 85. § (1) Az alkalmazott ügyvédek névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-- a) a 13. § (3) bekezdés a)–c) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek megfelel, és
+- a) a 13. § (3) bekezdés a)–c) és g) pontjában írt feltételeknek megfelel, és
 - b) ügyvéddel, ügyvédi irodával ügyvédi tevékenység végzésére munkaviszonyt létesített.
 
 (2) Az alkalmazott ügyvéd nem kamarai tag.
@@ -1092,7 +1093,7 @@ kell a névjegyzékből törölni.
 
 88. § (1) Az alkalmazott ügyvédek névjegyzékéből törölni kell azt,
 
-- a) aki a 13. § (3) bekezdés a)–c) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
+- a) aki a 13. § (3) bekezdés a)–c) és g) pontjában írt feltételeknek nem felel meg,
 - b) akinek a munkaviszonya megszűnt és a munkaviszony megszűnésétől számított három hónapon belül más ügyvéddel, ügyvédi irodával nem létesített alkalmazott ügyvédi munkaviszonyt,
 - c) akivel szemben az alkalmazott ügyvédek névjegyzékéből való törlés fegyelmi büntetést szabtak ki,
 - d) aki meghalt,
@@ -1307,7 +1308,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 91. § (1) A külföldi jogi tanácsadók névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-- a) a 13. § (3) bekezdés e) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában foglalt feltételeknek megfelel,
+- a) a 13. § (3) bekezdés e) és g) pontjában foglalt feltételeknek megfelel,
 - b) a 90. § (1) és (2) bekezdésében megjelölt együttműködési szerződést kötött,
 - c) igazolta, hogy külföldön ügyvédi tevékenység végzésére jogosult,
 - d) igazolta, hogy a külföldi ügyvédi bejegyzésének helye szerinti országban jó hírnévnek örvend, és nem áll büntető- vagy fegyelmi eljárás hatálya alatt,
@@ -1365,7 +1366,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 96. § (1) Az ügyvédjelöltek névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-- a) a 13. § (3) bekezdés a), b) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában meghatározott feltételeknek megfelel,
+- a) a 13. § (3) bekezdés a), b) és g) pontjában meghatározott feltételeknek megfelel,
 - b) munkaviszonyt létesített ügyvédjelölt foglalkoztatására jogosult ügyvéddel vagy olyan ügyvédi irodával, amelynek ilyen ügyvéd tagja van.
 
 (2) Az ügyvédjelölt nem kamarai tag.
@@ -1404,7 +1405,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 99. § (1) Az ügyvédjelöltek névjegyékéből törölni kell azt,
 
-- a) aki a 13. § (3) bekezdés a), b) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
+- a) aki a 13. § (3) bekezdés a), b) és g) pontjában írt feltételeknek nem felel meg,
 - b) akinek a munkaviszonya megszűnt vagy az őt foglalkoztató ügyvédnek a 96/A. § szerinti jogosultságát törölték, és a munkaviszony (jogosultság) megszűnésétől (törlésétől) számított három hónapon belül a 96. § (1) bekezdés b) pontja szerinti ügyvéddel, ügyvédi irodával nem létesített ügyvédjelölti munkaviszonyt,
 - c) akivel szemben az ügyvédjelöltek névjegyzékéből való törlés fegyelmi büntetést szabtak ki,
 - d) aki a jogi szakvizsgát letette, legkésőbb a vizsga letételétől számított 3 hónap eltelte után,

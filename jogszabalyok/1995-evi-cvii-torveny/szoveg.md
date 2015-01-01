@@ -71,7 +71,7 @@ a büntetés-végrehajtási szervezetről
 - b) felügyeli, ellenőrzi és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak nevelésével, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával, valamint a szabadságvesztésből szabadultak utógondozásával, az utógondozás keretében végzett börtönpártfogolási tevékenységgel, pártfogó felügyelői vélemény elkészítésével, valamint a feltételes szabadság tartamára törvény alapján fennálló vagy elrendelt pártfogó felügyelet végrehajtásával kapcsolatos tevékenységet;
 - c) bv. szervezet költségvetésének keretei között biztosítja a bv. szervek feladatainak ellátásához szükséges feltételeket;
 - d) a fogvatartottak foglalkoztatását végző gazdasági társaságok (a továbbiakban: gazdasági társaságok) és a fogvatartottak foglalkoztatására létrehozott költségvetési szervek működésével kapcsolatban ellátja a miniszter által meghatározott büntetés-végrehajtási feladatokat;
-- e) végzi a honvédelemmel, a polgári és katasztrófavédelmi tevékenységgel, a munkavédelemmel és a tűzvédelemmel kapcsolatos központi feladatokat;
+- e) végzi a honvédelemmel, a polgári és katasztrófavédelmi tevékenységgel, a munkavédelemmel, környezetvédelemmel, energetikai tevékenységgel, elektronikus információbiztonsággal és a tűzvédelemmel kapcsolatos központi feladatokat;
 - f) együttműködik a büntetések és az intézkedések végrehajtásában közreműködő, illetve a végrehajtást segítő állami szervekkel és egyesületekkel, vallási közösségekkel, alapítványokkal és személyekkel, továbbá az érintett nemzetközi szervezetekkel;
 - g) ellátja a szervezeti és működési szabályzatban meghatározott egyéb feladatokat.
 
@@ -132,7 +132,7 @@ a büntetés-végrehajtási szervezetről
 
 (5) Az intézkedés során kerülni kell a sérülés okozását, az emberi élet kioltását. Az intézkedésnél megsérült személy részére — amint az lehetséges — segítséget kell nyújtani, gondoskodni kell az orvosi ellátásáról, kórházi elhelyezés esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló személy értesítéséről.
 
-(6) A személyi állomány egyenruha viselésére kötelezett tagját az intézkedése során az egyenruhája és az igazolványa, egyenruha viselésére nem kötelezett tagját az igazolványa igazolja.
+(6) A személyi állomány egyenruha viselésére kötelezett tagját az intézkedése során az egyenruhája és az azon elhelyezett azonosítószáma, a nem egyenruhában szolgálatot teljesítő tagját a szolgálati igazolványa igazolja.
 
 (7) Ha az intézkedések a személyi állomány vagy a fogvatartottak életének és testi épségének a megvédésére, a fogvatartás törvényes biztosítására, a fogolyszökés megakadályozására nem elegendők, a bv. szerv köteles más rendvédelmi szerv közreműködését kérni.
 
@@ -142,13 +142,13 @@ a büntetés-végrehajtási szervezetről
 
 ### Együttműködési, tájékoztatási és segítségnyújtási kötelezettség
 
-13. § (1) A bv. szervezet a jogszabályok keretei között együttműködik a fogvatartás körülményeinek a figyelemmel kísérésére, a szabadulás után a társadalomba való beilleszkedés elősegítésére, a karitatív tevékenység végzésére, továbbá az egyéb büntetés-végrehajtási feladatok segítésére alakult börtönmissziókkal és egyesületekkel, az ilyen tevékenységet ellátó vallási közösségekkel, alapítványokkal és személyekkel. Ha az ilyen szervezetek vagy személy a bv. szervezet rendjére és biztonságára vonatkozó jogszabályokat, vagy a bv. szervezettel kötött megállapodásban foglaltakat megszegik, a bv. szervezet az együttműködést megszüntetheti.
+13. § (1) A bv. szervezet a jogszabályok keretei között együttműködik a fogvatartás körülményeinek a figyelemmel kísérésére, a szabadulás után a társadalomba való beilleszkedés elősegítésére, a karitatív tevékenység végzésére, továbbá az egyéb büntetés-végrehajtási feladatok segítésére alakult börtönmissziókkal és egyesületekkel, az ilyen tevékenységet ellátó vallási közösségekkel, alapítványokkal, oktatási intézményekkel és személyekkel. Ha az ilyen szervezetek vagy személy a bv. szervezet rendjére és biztonságára vonatkozó jogszabályokat, vagy a bv. szervezettel kötött megállapodásban foglaltakat megszegik, a bv. szervezet az együttműködést megszüntetheti.
 
 (2) Intézet alapítása előtt ki kell kérni az érintett települési önkormányzat, Budapesten az illetékes önkormányzat képviselő-testületének a véleményét. Ugyancsak ki kell kérni e testületek véleményét az intézet jellegének a megváltoztatásáról, a lakosságot érintő egyéb lényeges intézkedésekről pedig e szerveket előzetesen tájékoztatni kell.
 
 (3) A bv. szervezet a közrend és a közbiztonság, az élet- és vagyonbiztonság súlyos sérelme vagy annak közvetlen veszélye esetén, az intézkedésre jogosult rendvédelmi szerv kérésére — a büntetés-végrehajtás biztonságának a veszélyeztetése nélkül — segítséget nyújt a közrendvédelmi feladatok ellátásához. A segítség nyújtására kizárólag a bv. szervezet és az intézkedésre jogosult szerv közötti megállapodás alapján, az abban foglaltak szerint kerülhet sor.
 
-(4) A személyi állomány tagja a szolgálati (munkaköri) feladatának ellátása során — az illetékes hatóság intézkedéséig — a bíró, az ügyész, illetve az eljárásban közreműködő más hivatalos személy részére, az e személyek életét, testi épségét, személyes szabadságát sértő vagy közvetlenül veszélyeztető cselekmények megakadályozása érdekében — feladata végrehajtásának a veszélyeztetése nélkül — köteles a szükséges segítséget megadni. A szolgálati feladat végrehajtásának elsődlegessége mellett a segítségnyújtás szükségességéről a konkrét körülmények értékelésével a személyi állomány jelenlévő tagja dönt.
+(4)
 
 ### Belépés a bv. szerv területére
 
@@ -178,13 +178,17 @@ a büntetés-végrehajtási szervezetről
 
 15. § (1) A bv. szervezet hivatásos szolgálati jogviszonyban álló tagja feladatának jogszerű teljesítése során — amennyiben más intézkedés nem vezet eredményre —, az e törvényben meghatározott kényszerítő eszközök alkalmazására jogosult és köteles.
 
+(1a) Az e törvényben meghatározott kényszerítő eszközök közül csak azok, addig és olyan mértékben alkalmazhatók, amelyek az intézkedés eredményességéhez szükségesek.
+
 (2) Ha a rendszeresített kényszerítő eszköz nem áll rendelkezésre vagy a használatára nincs lehetőség, más eszköz is igénybe vehető, amennyiben a helyettesített eszköz alkalmazásának a feltételei fennállnak, és az alkalmas az intézkedéssel elérni kívánt cél megvalósítására.
 
 (3) Kényszerítő eszközzel ellátni csak az alkalmazásra kiképzett személyt lehet.
 
-16. § (1) A kényszerítő eszköz alkalmazására az érintettet — ha az eset körülményei lehetővé teszik — előzetesen figyelmeztetni kell.
+16. § (1) A kényszerítő eszköz alkalmazására az érintettet – ha az eset körülményei lehetővé teszik – előzetesen figyelmeztetni kell. A figyelmeztetésnek, valamint a kényszerítő eszköz készenlétbe helyezésének csak akkor van helye, ha az e törvényben meghatározott alkalmazási feltételek fennállnak.
 
 (2) Kényszerítő eszköz nem alkalmazható a magatehetetlen személlyel szemben — továbbá a testi kényszer és a bilincs kivételével — a terhes nővel és a gyermekkorú személlyel szemben, ha e körülményekről az intézkedőnek tudomása van, vagy azok számára nyilvánvalóan felismerhetők.
+
+(2a) Az intézkedésnek passzívan ellenszegülő személlyel szemben csak testi kényszer alkalmazható.
 
 (3) Csak korlátozott testi kényszer (megfogás, lefogás) alkalmazható a kényszergyógykezelttel, az ideiglenes kényszergyógykezelttel és a kóros elmeállapotúvá vált fogvatartottal szemben.
 
@@ -192,11 +196,13 @@ a büntetés-végrehajtási szervezetről
 
 (5) A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul jelenteni kell.
 
-(6) A kényszerítő eszköz alkalmazásának a jogszerűségét a bv. szerv parancsnoka köteles megvizsgálni, majd álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt a bv. szerv parancsnokának az utasítására alkalmazták, annak jogszerűségéről az országos parancsnok foglal állást.
+(6) A kényszerítő eszköz alkalmazásának a jogszerűségét a bv. szerv parancsnoka köteles megvizsgálni, majd álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt a bv. szerv parancsnoka alkalmazta, vagy azt az utasítására alkalmazták, annak jogszerűségéről az országos parancsnok foglal állást.
 
 (7) A jogszerűtlennek minősített kényszerítő eszköz használatáról az ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
 
 (8) Ha a kényszerítő eszközt kényszergyógykezelttel vagy ideiglenes kényszergyógykezelttel szemben alkalmazták, a 16. § (6) bekezdés szerint kialakított állásfoglalásról az érintett személyen kívül értesíteni kell a betegjogi képviselőt, a beteg törvényes vagy meghatalmazott képviselőjét és a törvényességi felügyeletet ellátó ügyészt is.
+
+16/A. § A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul szóban, a szolgálat befejezése után két órán belül írásban is jelenteni kell.
 
 17. § (1) Kényszerítő eszköz fogvatartottal szemben akkor alkalmazható, ha
 
@@ -214,6 +220,8 @@ a büntetés-végrehajtási szervezetről
 
 (3) Az intézkedéssel érintett személynek, továbbá ha az intézkedést kényszergyógykezelttel, ideiglenes kényszergyógykezelttel szemben alkalmazták, a betegjogi képviselőnek, a beteg törvényes vagy meghatalmazott képviselőjének – függetlenül a 16. § (6) bekezdése szerinti állásfoglalástól – joga van az intézkedéssel kapcsolatban feljelentést, keresetet, bejelentést vagy panaszt tenni az illetékes hatóságnál vagy szervnél.
 
+17/A. § A kényszerítő eszközök alkalmazása szempontjából a bv. szerv elleni támadásnak vagy rongálásnak minősül az olyan magatartás, amely a területén lévő vagy az üzemeltetését (működését) biztosító létesítmények, tárgyak, berendezések, járművek, egyéb eszközök megszerzésére, használhatatlanná tételére, megrongálására vagy megsemmisítésére irányul.
+
 ### Az egyes kényszerítő eszközök
 
 ### Testi kényszer
@@ -222,7 +230,9 @@ a büntetés-végrehajtási szervezetről
 
 ### Bilincs
 
-19. § Bilincs alkalmazható a fogvatartott támadásának, szökésének, engedély nélküli eltávozásának és önkárosításának a megakadályozására, továbbá az intézkedéssel szembeni ellenszegülés megtörésére.
+19. § (1) Bilincs alkalmazható a fogvatartott támadásának, szökésének, engedély nélküli eltávozásának és önkárosításának a megakadályozására, továbbá bármely személy jogszerű intézkedéssel szembeni ellenszegülésének megtörésére.
+
+(2) A bilincs használatára és a bilincselés módjára az elítélt mozgását korlátozó eszközök alkalmazására vonatkozó szabályokat kell megfelelően alkalmazni.
 
 ### Könnygáz, elektromos sokkoló eszköz, gumibot
 
@@ -230,6 +240,13 @@ a büntetés-végrehajtási szervezetről
 
 - a) az életet, a testi épséget, a személyi szabadságot, illetve a vagyonbiztonságot közvetlenül sértő vagy veszélyeztető támadás elhárítására;
 - b) az intézkedéssel szembeni aktív ellenszegülés megtörésére.
+
+### Traumatikus és irritáló lőszer
+
+20/A. § A bv. szervezetnél rendszeresített speciális, nem élet kioltására tervezett traumatikus lőszerrel, valamint irritáló töltetű lőszerrel leadott lövés alkalmazható
+
+- a) az életet, a testi épséget közvetlenül sértő vagy veszélyeztető támadás elhárítására;
+- b) a fogvatartott szökésének megakadályozására, megszökése esetén elfogására.
 
 ### Szolgálati kutya
 
@@ -244,16 +261,18 @@ a büntetés-végrehajtási szervezetről
 
 alkalmazható.
 
+(4) Kényszerítő eszközként csak az arra kiképzett szolgálati kutyát lehet alkalmazni.
+
 ### Lőfegyverhasználat
 
 22. § (1) Lőfegyverhasználat a hivatásos állomány tagjának saját elhatározásából, vagy az arra jogosult elöljáró utasítására történhet. Kötelékben való fellépés esetén lőfegyver csak az elöljáró utasítására használható.
 
-(2) Lőfegyverhasználatnak csak a szándékos, személyre leadott lövés minősül. Nem minősül lőfegyverhasználatnak a figyelmeztető lövés, továbbá a tömegoszlatás, rendfenntartás céljából alkalmazott riasztólövés.
+(2) Lőfegyverhasználatnak csak a szándékos, személyre leadott lövés minősül. Nem minősül lőfegyverhasználatnak a figyelmeztető lövés, továbbá a tömegoszlatás, rendfenntartás céljából alkalmazott riasztólövés, valamint a speciális, nem élet kioltására tervezett traumatikus lőszerrel, irritáló töltetű lőszerrel leadott lövés.
 
 (3) Ha más kényszerítő eszköz alkalmazása nem vezet eredményre, lőfegyver használható
 
 - a) az élet elleni közvetlen fenyegetés vagy támadás elhárítására;
-- b) a testi épséget vagy a személyi szabadságot súlyosan veszélyeztető közvetlen támadás elhárítására;
+- b) a testi épséget súlyosan veszélyeztető közvetlen támadás elhárítására;
 - c) a terrorcselekmény, a jármű hatalomba kerítése vagy a közveszély okozása bűncselekmény megakadályozására vagy megszakítására;
 - d) bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének a megakadályozására;
 - e) lőfegyver, illetőleg robbanóanyag jogosulatlan, erőszakos megszerzésére irányuló cselekmény megakadályozására;
@@ -261,11 +280,19 @@ alkalmazható.
 - g)–h)
 - i) a fogvatartott erőszakos kiszabadításának a megakadályozására;
 - j) azzal szemben, aki a nála lévő fegyvert, vagy más, az életre és testi épségre veszélyes eszközt felszólításra nem teszi le, és magatartása annak ember elleni közvetlen használatának szándékára utal;
-- k) az intézkedő saját élete, testi épsége, illetve személyes szabadsága ellen intézett támadás elhárítására.
+- k)
 
-(4)
+(4) A hivatásos állomány tagja csak a bv. szervezetnél rendszeresített lőfegyvert és lőszert használhatja.
 
 (5) A lőfegyverhasználatról a bv. szerv parancsnoka az illetékes ügyészt haladéktalanul tájékoztatja.
+
+(6) A lőfegyver használata után gondoskodni kell a helyszín biztosításáról.
+
+(7) A bv. szerv területén belül a fogvatartottak elhelyezésére, munkáltatására és egyéb tartózkodására szolgáló helyiségbe vagy területre lőfegyvert bevinni tilos.
+
+(8) A (7) bekezdésben meghatározott tilalom nem vonatkozik a rendkívüli esemény felszámolása érdekében alkalmazott lőfegyverekre, valamint a 20/A. §-ban meghatározott, nem élet kioltására tervezett, speciális lőszerek alkalmazása során használt lőfegyverekre.
+
+(9) A bv. szerv területére a bv. szervezet kezelésében lévő lőfegyveren kívül más lőfegyvert – a védett személyek biztosítását ellátó, valamint a rendkívüli esemény felszámolásában közreműködő más fegyveres szerv hivatásos állományú tagja által viselt fegyvert kivéve – bevinni tilos, azt az erre kijelölt tároló helyre le kell adni, nyilvántartásba vételéről és biztonságos tárolásáról gondoskodni kell.
 
 23. § (1) Nincs helye lőfegyverhasználatnak
 
@@ -335,20 +362,30 @@ alkalmazható.
 
 - a) a fogvatartott személyazonosító adataira, Társadalombiztosítási Azonosító Jelére és fényképére;
 - b) lakcímére;
-- c) a választójoggal nem rendelkező fogvatartott személyi azonosítójára;
+- c) a fogvatartott személyi azonosítójára;
 - d) a végrehajtás során a büntetés-végrehajtás e törvényben meghatározott feladatai ellátásához és a fogvatartott jogainak a gyakorlásához szükséges adatokra, iratokra;
 - e) a büntetőeljárásban, illetve a fogvatartottal kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, államigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a bv. szervezet részére meg kell küldeni.
 
 (3) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-28/A. § A büntetés-végrehajtási szervezet, illetőleg a végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
+28/A. § (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
 
 - a) családi és utónevére,
 - b) lakcímére (székhelyére),
-- c) telefonszámára és
-- d) kapcsolattartói minőségére.
+- c) telefonszámára,
+- d) kapcsolattartói minőségére, és
+- e) születési helyére és idejére.
 
-28/B. § (1) A bíróság értesítése alapján a fogvatartó bv. szerv nyilvántartja a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény XIX. Fejezet] sértettjének az elítélt szabadulásáról történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
+(2) A bv. szervezet nyilvántartja a hivatalos minőségben kapcsolatot tartó személy
+
+- a) családi és utónevét,
+- b) születési helyét és idejét vagy hivatása gyakorlására való jogosultságot igazoló igazolványa vagy szolgálati igazolványa számát,
+- c) lakcímét vagy székhelyét,
+- d) telefonszámát,
+- e) kapcsolattartói minőségét, és
+- f) a hivatalos kapcsolatot megalapozó, azt igazoló okmány megnevezését és számát.
+
+28/B. § (1) A bíróság értesítése alapján a fogva tartó bv. szerv nyilvántartja az élet, testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XV. Fejezet], valamint a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény (Btk. XIX. Fejezet) sértettjének az elítélt szabadulásáról történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 
 (2) Az (1) bekezdés alapján a következő személyes adatokat kell nyilvántartani:
 
@@ -427,7 +464,7 @@ a kiadásait kell érteni.
 
 - a) a bv. intézetek alapítását (kijelölését) és megszüntetését;
 - b) a bv. szervezet szolgálati szabályzatát;
-- c)
+- c) a Központi Kivizsgáló és Módszertani Intézet szervezetére és működésére vonatkozó részletes szabályokat;
 - d) a bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait;
 - e)
 - f) a bv. szervezet munkaügyi ellenőrzésére vonatkozó eltérő rendelkezéseket;

@@ -282,9 +282,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (2) Az Akadémia költségvetésében a kiadási és a bevételi előirányzatok főösszegének évközi csökkentésére az Országgyűlés jogosult, kivéve az államháztartásról szóló 2011. évi CXCV. törvény 40. § (4) bekezdésében meghatározott intézkedéseket.
 
-(3) Az Akadémia fejezet költségvetése külön előirányzaton tartalmazza az Országos Tudományos Kutatási Alapprogramok (továbbiakban: OTKA) és az OTKA Iroda költségvetését is.
-
-(4) Az OTKA működését az Országos Tudományos Kutatási Alapprogramokról szóló 1997. évi CXXXVI. törvény szabályozza. Az OTKA költségvetését sem az Akadémia köztestületi költségvetési szervek (a továbbiakban: akadémiai költségvetési szervek), sem a központi akadémiai feladatok (fejezeti kezelésű előirányzatok) céljaira nem lehet sem az éves tervezéskor, sem év közben átcsoportosítani, kivéve a pályázatokkal kapcsolatos fejezeten belüli előirányzat-módosításokat.
+(3)–(4)
 
 (5) Az Akadémia fejezet költségvetése külön előirányzatot tartalmaz a magyar tudományos közösségnek nemzetközi szervezetekkel szemben vállalt kötelezettségeire.
 

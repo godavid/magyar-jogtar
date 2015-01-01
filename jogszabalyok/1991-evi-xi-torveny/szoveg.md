@@ -38,13 +38,17 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 - a) A kémiai és biológiai légszennyezettség (immisszió) egészségügyi határértékeinek kimunkálásában való közreműködés, a kémiai és biológiai légszennyezettség rendszeres közegészségügyi értékelése, valamint a zárt terek légszennyezettségi határértékeinek kimunkálása és a zárt terek légszennyezettségének közegészségügyi vizsgálata;
 - b) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelmények, valamint az ivóvíz és fürdésre használt vizek higiénés határértékeinek kimunkálása, az ivóvíz, ásvány- és gyógyvizek, palackozott vizek minőségének, a közegészségügyi követelmények betartásának, illetve érvényesülésének a rendszeres ellenőrzése;
-- c) a talajjal, a szilárd és folyékony települési hulladékokkal, egyéb szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása, érvényesülésének ellenőrzése;
+- c) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása, érvényesülésének ellenőrzése;
 - d) a belső terekben érvényesülő zaj és rezgés határértékek kimunkálása és ellenőrzése, illetőleg a környezeti immissziós zaj és rezgés határértékek kimunkálásában és ellenőrzésében való közreműködés;
-- e) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása és érvényesítése.
+- e) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása és érvényesítése;
+- f) klíma-egészségügyi intézkedések megtétele, a hőségriasztás országos rendszerének működtetése,
+- g) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek kimunkálása, érvényesülésének ellenőrzése,
+- h) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok kimunkálása, érvényesülésének ellenőrzése,
+- i) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások kimunkálása, érvényesülésének ellenőrzése.
 
 (2) Az egészségügyi államigazgatási szerv sugáregészségügyi tevékenysége keretében kimunkálja, ellenőrzi és érvényesíti a sugárzó anyagokkal, a sugárzást kibocsátó berendezésekkel, a nem ionizáló sugárzással, valamint az elektromos és mágneses erőterekkel kapcsolatos munkahelyi és környezeti sugárvédelmi normákat, közegészségügyi követelményeket.
 
-(3) Az egészségügyi államigazgatási szerv kémiai biztonsággal összefüggő tevékenysége körében ellátja a veszélyes anyagokkal és készítményekkel kapcsolatos külön jogszabály által előírt eljárás szerinti engedélyezési és ellenőrzési feladatokat, a veszélyes anyagok, veszélyes készítmények egészségügyi toxikológiai nyilvántartását és tájékoztató szolgálat működtetését.
+(3) Az egészségügyi államigazgatási szerv kémiai biztonsággal összefüggő tevékenysége körében ellátja a veszélyes anyagokkal és keverékekkel kapcsolatos külön jogszabály által előírt eljárás szerinti engedélyezési és ellenőrzési feladatokat, a veszélyes anyagok, veszélyes keverékek egészségügyi toxikológiai nyilvántartását és tájékoztató szolgálat működtetését.
 
 (4) Az egészségügyi államigazgatási szerv munkaegészségügyi tevékenysége körében
 
@@ -55,7 +59,9 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (5) Az élelmezés- és táplálkozásegészségügy keretében az egészségügyi államigazgatási szerv
 
-- a) kimutatja a kozmetikai készítményekben, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai illetve biológiai egészségkárosító anyagokat, kimunkálja az ezekre vonatkozó közegészségügyi határértékeket és követelményeket, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során;
+- a) a kozmetikai termékekkel kapcsolatos feladatkörében
+  - aa) kimutatja a kozmetikai termékekben, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai és biológiai egészségkárosító anyagokat, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során, hatáskörében ellátja a kozmetikai termékek és azok gyártásának, forgalmazásának hatósági ellenőrzését,
+  - ab) kidolgozza az aa) alpont szerinti körbe tartozó közegészségügyi követelményeket, jogszabály alapján ellátja az Európai Unió közvetlenül alkalmazandó jogi aktusa szerinti egyes eljárásokban a tagállami feladatokat, kijelölés alapján szakmai kapcsolatot tart az Európai Unió kozmetikai termékek szakterületen illetékes szerveivel, kijelölt nemzeti hatóságként kezeli a súlyos nemkívánatos hatások bejelentését, ellenőrzi a Magyarországon elhelyezett termékinformációs dokumentációt, valamint kozmetikai toxikológiai központot működtet,
 - b) táplálkozás-egészségügy szakterületen
   - ba) vizsgálatokat végez a lakosság táplálkozási helyzetére, tápláltsági állapotára, a táplálkozás és az egészségi állapot közötti összefüggésekre vonatkozóan,
   - bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi vizsgálatokat végez, különös tekintettel a vendéglátás – ezen belül kiemelten a munkahelyeken, az egészségügyi intézményekben, a nevelési-oktatási intézményekben, továbbá a szociális ellátás, a gyermekjóléti és gyermekvédelmi szolgáltatás keretében bármely formában nyújtott étkeztetés – területén a szolgáltatott élelmiszerekre, ételekre, étrendre vonatkozóan, tápanyagszámítással és biokémiai elemzéssel, valamint a nevelési-oktatási intézményekben eladásra szánt élelmiszerek tápanyag-beviteli értékének megfelelősége tekintetében,
@@ -122,7 +128,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - c) szakmai javaslatot tesz egészségügyi intézmények létesítése, fejlesztése, megszüntetése kérdésében a tulajdonos, illetőleg a finanszírozó számára;
 - d) véleményezi az egészségügyi intézmények szervezetével és feladatával kapcsolatos módosító elképzeléseket;
 - e) engedélyezi – ha jogszabály másként nem rendelkezik – az egészségügyi szolgáltató tevékenységének végzését, ellenőrzi a tevékenységet, valamint nyilvántartást vezet az egészségügyi szolgáltatókról, az egészségügyi szolgáltatók szervezeti egységeiről, az általuk végezhető, engedélyezett szakmákról, valamint az egy szakmán belül végezhető egyes tevékenységekről, az egészségügyi szolgáltatás nyújtására jogosító működési engedélyekről, valamint az egészségügyi szolgáltatók nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatairól;
-- f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét, ideértve a gyógyszertári ügyeletet és készenlétet is ;
+- f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét;
 - g) ellátja a gyógyhelyek, gyógyfürdő intézmények és a természetes gyógytényezők vonatkozásában a külön jogszabályban meghatározott feladatokat;
 - h) ellátja a gyógyszerellátással és a fokozottan ellenőrzött szerekkel, illetve kábítószer-prekurzorokkal kapcsolatos szakfelügyeletet, ennek keretében biztosítja, hogy a forgalomból kivont gyógyszerkészítmények ne kerüljenek további felhasználásra;
 - i) kijelöli azokat a gyógyszertárakat és egészségügyi intézményeket, amelyek az egészségügyért felelős miniszter által meghatározott gyógyszereket és immunbiológiai készítményeket kötelesek készletükben tartani;
@@ -132,7 +138,8 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - m) közvetlenül intézkedik súlyos, tömeges, illetőleg ismétlődő egészségkárosodás előfordulása, vagy annak gyanúja esetén a kiváltó okok megszüntetése, illetőleg az esemény megelőzése érdekében;
 - n) tanácskozási joggal — részt vehet az önkormányzati testületi üléseken; — részt vesz az egészségügyi vonatkozású kérdéseket tárgyaló önkormányzati testületi üléseken és az egészségügyi intézményeket felügyelő testületek ülésein;
 - o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyógyszerellátással kapcsolatos hatósági feladatokat;
-- p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el.
+- p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el;
+- q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszertári ügyeletet és készenlétet.
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
@@ -213,18 +220,24 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (6) Az egészségügyi államigazgatási szervnek a bejelentés alapján egészségügyi szolgáltatóként közhiteles nyilvántartásba vételre irányuló, kérelemre lefolytatott eljárásáért vagy igazgatási szolgáltatásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
-7. § (1) Az ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák alkalmazására kiadott engedélyekről az egészségügyi államigazgatási szerv nyilvántartást vezet.
+7. § (1) Az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek bejelentéséről és a víz kezelésére alkalmazni kívánt technológiák ivóvíz-biztonsági engedélyéről az egészségügyi államigazgatási szerv nyilvántartást vezet.
 
-(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
+(2) Az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek vonatkozásában az (1) bekezdés szerinti nyilvántartás tartalmazza:
 
-- a) az alkalmazási engedély számát,
-- b) az engedélyes nevét,
-- c) az engedélyezett termék, technológia megjelölését, valamint
-- d) az alkalmazási engedélyben megadott alkalmazási feltételeket.
+- a) a bejelentés nyilvántartási számát,
+- b) a forgalmazó, illetve a gyártó nevét,
+- c) a termék, anyag nevét, valamint
+- d) a termék, anyag rendeltetését.
 
-(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), c) és d) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) Az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a víz kezelésére alkalmazni kívánt technológiák vonatkozásában az (1) bekezdés szerinti nyilvántartás tartalmazza:
 
-(4) Az (1) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
+- a) az ivóvíz-biztonsági engedély számát,
+- b) az engedélyes nevét, valamint
+- c) az engedélyezett technológia megjelölését.
+
+(4) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), c) és d) pontja, valamint a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(5) Az (1) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
 
 8–9. §
 
@@ -236,9 +249,9 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (3) Az ellenőrzésről jegyzőkönyvet kell készíteni, amelynek a ténymegállapításokon kívül tartalmaznia kell a felelős személy ezekre vonatkozó nyilatkozatát is.
 
-(4) Ha az ellenőrzésen a felelős személy nem volt jelen, a jegyzőkönyv másolati példányát meg kell küldeni részére azzal, hogy nyilatkozatát a kézbesítéstől számított tizenöt napon belül megteheti.
+(4) Ha az ellenőrzésen a felelős személy nem volt jelen, a jegyzőkönyv másolati példányát meg kell küldeni részére azzal, hogy nyilatkozatát a kézbesítéstől számított nyolc napon belül megteheti.
 
-(5) Az egészségügyi államigazgatási szerv jogosult az ellenőrzéshez szükséges vizsgálatokat elvégezni, illetve külön jogszabályban meghatározottak szerint elvégeztetni.
+(5) Az egészségügyi államigazgatási szerv jogosult az ellenőrzéshez szükséges vizsgálatokat elvégezni vagy jogszabályban meghatározottak szerint elvégeztetni. Az ellenőrzéshez szükséges vizsgálatokhoz az egészségügyi államigazgatási szerv jogosult térítésmentesen mintát venni.
 
 (6) Az egészségügyi államigazgatási szerv a hatósági ellenőrzés során próbavásárlást – ideértve az interneten történő vásárlást is – végezhet.
 
@@ -314,14 +327,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (6) Az egészségügyi bírság összegét az eset összes körülményeire, így különösen a kötelezettségszegés (hiányosság, mulasztás) súlyára, az okozott sérelemmel érintettek körére, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértőnek való felróhatóság mértékére tekintettel kell meghatározni.
 
-(7) Az egészségügyi bírság kiszabása mellőzendő, ha az egészségügyi államigazgatási szerv a jogsértőt a fokozatosság elvének érvényesítése érdekében, az adott tényállással összefüggő magatartása miatt első alkalommal, írásban figyelmezteti a jogszabályok betartására, vagy bírság kiszabása nélkül tiltja el a jogsértéstől, illetve kötelezi a jogszerű állapot helyreállítására.
-
-(8) A (7) bekezdésben foglaltaktól eltérően az egészségügyi államigazgatási szerv az egészségügyi bírság kiszabását nem mellőzheti, ha
-
-- a) az egészségügyi államigazgatási szervnek a jogsértést megállapító jogerős határozatában előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követően a kötelezett ismételten megsértett valamely, a bírság kiszabására okot adó jogszabályi rendelkezést, illetve jogellenes állapotot fenntartott, vagy
-- b) a jogsértés a lakosság széles körének egészségét sérti vagy veszélyezteti.
-
-(9) A kiszabott bírságot az eljáró hatóság kérelemre mérsékelheti vagy elengedheti, ha az a fizetésre kötelezett számára méltánytalanul súlyos hátrányt jelent, amennyiben vele szemben a bírság kiszabását megelőző 2 éven belül egészségügyi bírság kiszabására nem került sor.
+(7)–(9)
 
 (10) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
@@ -339,7 +345,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 14. § Az egészségügyi államigazgatási szervnek
 
-- a) a környezet- és település-egészségügy – ideértve különösen a vizekkel, az ivó-, gyógy- és ásványvizekkel, a gyógy- és közfürdőkkel, valamint a természetes fürdőhelyekkel kapcsolatos feladatokat –,
+- a) a környezet- és település-egészségügy – ideértve különösen a vizekkel, az ivó-, gyógy- és ásványvizekkel, a gyógy- és közfürdőkkel, valamint a természetes fürdőhelyekkel és természetes fürdővizekkel kapcsolatos feladatokat –,
 - b) az élelmezés- és táplálkozás-egészségügy,
 - c) a kozmetikai termékek,
 - d) a gyógytényezők, a fürdő- és klímagyógyintézetek, a gyógyhelyek,
@@ -367,6 +373,12 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 (3) A Ket. 114. § (2) bekezdésében foglaltaktól eltérően, a Ket. 114. § (1) bekezdése szerinti eljárás lefolytatására az egészségügyi államigazgatási szerv a döntés közlésétől számított három éven belül jogosult.
 
 (4) Az egészségügyi államigazgatási szerv döntése a Ket. 139. § (1) bekezdése alapján külföldön is végrehajtható.
+
+(5) A Ket. 33. § (1) bekezdésében foglaltaktól eltérően az ügyintézési határidő harminc nap az alábbi eljárásokban:
+
+- a) gyógyhellyé nyilvánítás engedélyezése,
+- b) természetes ásványvíz elnevezésének engedélyezése,
+- c) gyógyvíz természetes gyógyhatásra utaló elnevezésének engedélyezése.
 
 14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.
 
@@ -419,7 +431,12 @@ rendeletben határozza meg.
   - ea) gyártására,
   - eb) mikrobiológiai tisztasági követelményeire,
   - ec) használata során felmerülő nemkívánatos hatásokat értékelő méregellenőrző központ feladataira, valamint a méregellenőrző központnak megtett bejelentésekkel kapcsolatos követelményekre,
-  - ed) piacfelügyeleti ellenőrzésére kijelölt szervek feladatkörének megosztására
+  - ed) piacfelügyeleti ellenőrzésére kijelölt szervek feladatkörének megosztására,
+- f) a használatimelegvíz-ellátásra vonatkozó közegészségügyi követelményeket,
+- g) a használati meleg vízzel érintkező anyagok, technológiák vonatkozásában
+  - ga) a minőségi követelményeket,
+  - gb) az engedélyezési eljárás részletes szabályait,
+  - gc) a nyilvántartás vezetésének részletes szabályait.
 
 vonatkozó szabályokat.
 
@@ -429,12 +446,16 @@ vonatkozó szabályokat.
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján megtett bejelentésekre tekintettel 2014. december 31-ig gondoskodik
 
-- a) az Eütv. 108/A. § (2) bekezdésében meghatározott feltételeknek megfelelő és az (1) bekezdés szerinti bejelentésben feltüntetett közreműködő működési engedélyének visszavonásáról, vagy – ha az egészségügyi szolgáltató működési engedélye nem kizárólag közreműködésre szól – a működési engedély közreműködésre irányuló tartalmának hatályon kívül helyezésével a működési engedély hivatalból történő módosításáról,
+- a) az Eütv. 108/A. § (2) bekezdésében meghatározott feltételeknek megfelelő és az (1) bekezdés szerinti bejelentést tevő közreműködő működési engedélyének visszavonásáról, vagy – ha az egészségügyi szolgáltató működési engedélye nem kizárólag közreműködésre szól – a működési engedély közreműködésre irányuló tartalmának hatályon kívül helyezésével a működési engedély hivatalból történő módosításáról,
 - b) a közreműködőnek vagy a szabadfoglalkozású jogviszonyban álló személynek vagy szervezetnek a 6/A. § (1) bekezdés szerinti nyilvántartásba vételéről,
 - c) az (1) bekezdés szerinti bejelentésben nem szereplő – az Eütv. 108/A. § (2) bekezdése szerinti – közreműködő működési engedélyének visszavonásáról.
 
 (3) Az (1) és (2) bekezdésben foglaltaktól eltérően, ha a közreműködőt igénybe vevő vagy szabadfoglalkozású jogviszonyban álló személyt vagy szervezetet foglalkoztató egészségügyi szolgáltató működési engedélyének módosítására kérelemre, az (1) bekezdés szerinti időpontot megelőzően kerül sor, az (1) és (2) bekezdés szerinti bejelentést és intézkedéseket – a működési engedély módosításával érintett szervezeti egység vonatkozásában – a működési engedély módosításával egyidejűleg el kell végezni.
 
 15/B. § A Módtv.-vel megállapított 6. § (4) bekezdés e) pontja szerinti adatokat az egészségügyi szolgáltatóknak első alkalommal 2014. július 1-jéig kell bejelenteni az egészségügyi államigazgatási szerv részére.
+
+15/C. § (1) A 2013. december 1-jét megelőzően az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák alkalmazására kiadott engedélyekről az egészségügyi államigazgatási szerv az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig vezet nyilvántartást.
+
+(2) A 7. § (2) bekezdés a) pontja szerinti nyilvántartási számon, illetve a 7. § (3) bekezdés a) pontja szerinti ivóvíz-biztonsági engedély számán az (1) bekezdés alapján az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig az alkalmazási engedély számát is érteni kell.
 
 16. § Ez a törvény a HOSPEEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló keretmegállapodás végrehajtásáról szóló 2010. május 10-i 2010/32/EU tanácsi irányelv melléklete 3. szakasz 4. pontjának való megfelelést szolgálja.

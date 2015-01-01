@@ -55,7 +55,9 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
   - sf) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 259. §-ába ütköző közveszélyokozás bűntette, 261. §-ába ütköző terrorcselekmény bűntette, 262. §-ába ütköző légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette, 263/A. §-ának (1) és (3) bekezdésébe ütköző visszaélés lőfegyverrel vagy lőszerrel bűntette, 263/B. §-ába ütköző visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, 264. §-ába ütköző visszaélés radioaktív anyaggal bűntette, 264/C. §-ába ütköző visszaélés nemzetközi szerződés által tiltott fegyverrel bűntette, 270/A. § (3) bekezdésébe ütköző közveszéllyel fenyegetés bűntette, 274. § (1) bekezdésébe ütköző közokirat-hamisítás bűntette, 282–282/B. §-ába ütköző visszaélés kábítószerrel, 283/B. §-ába ütköző visszaélés új pszichoaktív anyaggal, illetve a kábítószer-kereskedelem (Btk. 176–177. §), a kábítószer birtoklása (Btk. 178–179. §), a kóros szenvedélykeltés (Btk. 181. §), a kábítószer készítésének elősegítése (Btk. 182. §), az új pszichoaktív anyaggal visszaélés (Btk. 184. §), a radioaktív anyaggal visszaélés [Btk. 250. § (1)–(4) bekezdés], a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása [Btk. 322. § (1)–(4) bekezdés], a lőfegyverrel vagy lőszerrel visszaélés [Btk. 325. § (1) és (3) bekezdés], a nemzetközi szerződés által tiltott fegyverrel visszaélés [Btk. 326. § (1)–(6) bekezdés], a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a közveszéllyel fenyegetés [Btk. 338. § (2) bekezdés], a közokirat-hamisítás [Btk. 342. § (1) bekezdés],
   - sg) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 303–303/A. §-ába ütköző pénzmosás bűntette, 304. §-ába ütköző pénzhamisítás bűntette és 304/A. §-ába ütköző pénzhamisítás elősegítésének vétsége, illetve a pénzhamisítás (Btk. 389. §), a pénzhamisítás elősegítése (Btk. 390. §), a pénzmosás (Btk. 399–400. §);
 - t) felderítés alá vont személy: akivel szemben az együttműködő szervek a szervezett bűnözéssel összefüggő bűncselekmény gyanúja miatt felderítő tevékenységet végeznek;
-- u) együttműködő szerv: a 4/A. § (3) bekezdésében meghatározott szerv.
+- u) együttműködő szerv: a 4/A. § (3) bekezdésében meghatározott szerv;
+- v) utasadat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
+- x) utasadat szolgáltatója: a v) pontban meghatározott adatot a terrorizmus és a szervezett bűnözés megelőzésének, megszakításának, felderítésének elősegítése céljából törvény szerint átadó személyszállítást végző légifuvarozó.
 
 ### I/A. Fejezet — A SZERVEZETT BŰNÖZÉS ELLENI KOORDINÁCIÓ
 
@@ -67,7 +69,8 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 - d) megvizsgálja, hogy a beérkezett adatra vonatkozóan más együttműködő szervtől nem érkezett-e információs igény, és amennyiben a jogszabályi feltételek fennállnak, az igénylő szerveknek az adatot továbbítja,
 - e) az együttműködő szervek részéről érkezett adatokat – azok elemzését, értékelését követően – a hatáskörrel és illetékességgel rendelkező együttműködő szerveknek küldi meg, az elvégzett elemző-értékelő tevékenység eredményeként – szükség szerint – felderítési cselekményre, nyomozási cselekményre, intézkedésre tesz javaslatot,
 - f) figyelemmel kíséri, hogy a beérkezett adathoz kapcsolható, azt kiegészítő vagy azzal összefüggő adat nem áll-e rendelkezésre, ennek észlelése esetén az érintett együttműködő szerveket az adatok összefüggéseiről értesíti,
-- g) a szervezett bűnözésben szerepet játszó bűnözői csoportok alakulásának és megszűnésének, egymáshoz való viszonyának figyelemmel kísérésével, jogellenesen szerzett javaik legalizálását szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez.
+- g) a szervezett bűnözésben szerepet játszó bűnözői csoportok alakulásának és megszűnésének, egymáshoz való viszonyának figyelemmel kísérésével, jogellenesen szerzett javaik legalizálását szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez,
+- h) ellátja az utasadat-információs egység feladatait.
 
 (2) A szervezett bűnözés elleni koordinációs központ a szervezett bűnözés elleni stratégiai döntések meghozatalának elősegítése céljából
 
@@ -79,7 +82,7 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 - a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
 - b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 - c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
-- d) a Vám- és Pénzügyőrség,
+- d) a Nemzeti Adó- és Vámhivatal,
 - e) az Alkotmányvédelmi Hivatal,
 - f) az Információs Hivatal,
 - g) a Nemzetbiztonsági Szakszolgálat,
@@ -131,11 +134,13 @@ szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 
 (3) Az együttműködő szerv kérésére – e törvény, valamint az adatigénylőre vonatkozó törvény keretei között – a szervezett bűnözés elleni koordinációs központ adatot szolgáltat.
 
+(4) A szervezett bűnözés elleni koordinációs központ az (1)–(3) bekezdés szerint továbbított adatok vonatkozásában az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adattovábbítási nyilvántartást vezet, amelyben lévő adatokat tíz évig köteles megőrizni.
+
 4/G. § (1) Az átvett adatok jogszerű kezeléséért az átvevő szerv tartozik felelősséggel.
 
 (2) A szervezett bűnözés elleni koordinációs központ által kezelt adatot haladéktalanul törölni kell, ha
 
-- a) a törvény 4/C. §ának (3) bekezdésében meghatározott adatkezelési idő letelt,
+- a) a 4/C. § (3) bekezdésében és 4/I. § (6) bekezdésében meghatározott adatkezelési idő letelt,
 - b) bíróság vagy a Nemzeti Adatvédelmi és Információszabadság Hatóság az adat törlését elrendelte,
 - c) az adat kezelése szükségtelen vagy jogellenes.
 
@@ -144,6 +149,39 @@ szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 4/H. § (1) A szervezett bűnözés elleni koordinációs központ személyi állományából adatvédelmi felelőst kell kijelölni.
 
 (2) A szervezett bűnözés elleni koordinációs központ vezetője feladat- és hatáskörében minősítésre jogosult.
+
+### Utasadattal összefüggő adatkezelés
+
+4/I. § (1) A szervezett bűnözés elleni koordinációs központ a 4/A. § (1) bekezdés h) pontjában meghatározott feladatkörében az utasadat szolgáltatójától átveszi és kezeli az utasadatokat. Az utasadatok átvételének és kezelésének a célja a szervezett bűnözéssel összefüggő bűncselekmények felderítésének és nyomozásának, illetve a nemzetbiztonságot veszélyeztető törekvések és tevékenységek elhárításának az elősegítése.
+
+(2) Az utasadat szolgáltatója a szervezett bűnözés elleni koordinációs központ által meghatározott elektronikus formátumban és módon adja át az utas-adatot.
+
+(3) A szervezett bűnözés elleni koordinációs központ a 4/A. § (1) bekezdés h) pontjában meghatározott feladatkörében
+
+- a) az utasadat szolgáltatója által szolgáltatott utasadatokat összeveti a 4/B. § (1) bekezdése, valamint a 4/C. § (1) bekezdése alapján általa kezelt adatokkal,
+- b) az utasadatok tekintetében szervezett bűnözéssel összefüggő bűncselekményekre, illetve a nemzetbiztonságot veszélyeztető törekvésekre és tevékenységekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
+- c) az átvett utasadatokról nyilvántartást vezet.
+
+(4) A szervezett bűnözés elleni koordinációs központ a (3) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől személyes adatokat vehet át.
+
+(5) Ha a szervezett bűnözés elleni koordinációs központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének lehetséges gyanúját vagy a nemzetbiztonságot veszélyeztető lehetséges kockázatot állapít meg, a szervezett bűnözéssel összefüggő bűncselekmény felderítésére, nyomozására vagy a nemzetbiztonságot veszélyeztető törekvés, tevékenység elhárítására hatáskörrel rendelkező szervet az utasadat átadásával egyidejűleg értesíti.
+
+(6) A szervezett bűnözés elleni koordinációs központ az átvett utasadatot a szervezett bűnözés elleni koordinációs központhoz érkezést követő öt évig kezeli.
+
+(7) Az utasadat szolgáltatója által szolgáltatott utasadatot a szervezett bűnözés elleni koordinációs központhoz érkezést követő 30 nap elteltével személyazonosításra alkalmatlanná kell tenni. A személyazonosításra való újbóli alkalmassá tételt kizárólag a szervezett bűnözés elleni koordinációs központ vezetője rendelheti el, abban az esetben, ha a nemzetbiztonságot vagy az ország függetlenségét súlyosan veszélyeztető esemény, illetve ötévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett bűntett elkövetésére vagy ilyen bűntett előkészületére utaló gyanú ezt szükségessé teszi.
+
+(8) A szervezett bűnözés elleni koordinációs központ a (7) bekezdés szerinti egyedi engedély alapján ismét személyazonosításra alkalmassá tett adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
+
+- a) a személyazonosításra való újbóli alkalmassá tétel rövid indokolását,
+- b) a személyazonosításra való újbóli alkalmassá tétel időpontját,
+- c) az érintett adatok körét és
+- d) azt, hogy mely szerv kérésére került sor a személyazonosításra való újbóli alkalmassá tételre.
+
+(9) A (8) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett utas-adatokkal azonos ideig kell megőrizni, az utasadatokkal egyidejűleg törölni kell.
+
+(10) A szervezett bűnözés elleni koordinációs központ az Európai Unió tagállamai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére bűnüldözési vagy nemzetbiztonsági célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben és időtartamban továbbíthatja az általa kezelt utasadatot vagy vehet át utasadatokat.
+
+(11) A szervezett bűnözés elleni koordinációs központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át utasadatot. A szervezett bűnözés elleni koordinációs központ harmadik ország részére bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben és időtartamban továbbíthatja az általa kezelt utasadatot, feltéve hogy a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
 
 ### KÜLÖNÖS RENDELKEZÉSEK
 

@@ -13,7 +13,7 @@ az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítá
 - e) számított szociális hozzájárulási adó: a számítás alapjául szolgáló összegnek a szociális hozzájárulási adó törvényi mértéke és az adó Nyugdíjbiztosítási Alapot megillető része alapján kiszámított hányada,
 - f) túlélő hozzátartozó: az a személy, aki az elhunyt uniós tisztviselő után az SR. alapján nyugdíjbiztosítási átutalásra vagy visszautalásra jogosult,
 - g) uniós intézmény: az Európai Unió azon intézménye, amelynek uniós tisztviselője nyugdíjbiztosítási átutalásra vagy visszautalásra az SR. alapján jogosult,
-- h) uniós intézmény által levont járulék: az uniós tisztviselő jövedelméből az uniós intézmény által az SR. alapján öregségi nyugdíj céljából levont összeg és az uniós tisztviselő javára az uniós intézmény által az SR. alapján öregségi nyugdíj céljából befizetett összeg,
+- h)
 - i) uniós tisztviselő: az a személy, aki az SR.-ben foglaltak szerint uniós intézménnyel fennálló vagy korábban fennállt jogviszonya alapján nyugdíjbiztosítási átutalásra vagy visszautalásra jogosult.
 
 #### 2. Nyugdíjbiztosítási átutalás
@@ -32,7 +32,7 @@ az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítá
 
 a nyugdíjbiztosítási átutalással érintett időre nem jogosult.
 
-3. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegének meghatározása során – az (5) bekezdésben nem említett esetben – meg kell állapítani a figyelembevételre kerülő szolgálati időt és keresetet, jövedelmet. Ennek során a társadalombiztosítási nyugellátásra irányadó szabályokat kell megfelelően alkalmazni azzal, hogy
+3. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegének meghatározása során – az (5) bekezdésben nem említett esetben – a nyugdíjbiztosítási átutalásra jogosító jogviszony létrejöttének napját megelőző napig terjedő időre meg kell állapítani a figyelembevételre kerülő szolgálati időt és keresetet, jövedelmet. Ennek során a társadalombiztosítási nyugellátásra irányadó szabályokat kell megfelelően alkalmazni azzal, hogy
 
 - a) szolgálati időként és keresetként, jövedelemként nem vehető figyelembe az az idő, illetve kereset, jövedelem, amely után nyugdíjjárulék-fizetési kötelezettség nem állt fenn, és
 - b) a figyelembevételre kerülő szolgálati idő teljes tartamára a járulékfizetés alapjául szolgáló keresetet, jövedelmet kell figyelembe venni, a 2013. január 1-jét megelőző időszakra legfeljebb a járulékfizetési felső határnak megfelelő összegig.
@@ -58,27 +58,31 @@ a nyugdíjbiztosítási átutalással érintett időre nem jogosult.
 
 #### 3. Nyugdíjbiztosítási visszautalás
 
-6. § (1) A nyugdíjbiztosítási visszautalás során szolgálati időként – a (2) bekezdésben nem említett esetben – az uniós intézmény által igazolt szolgálati időt kell figyelembe venni. Ha az uniós tisztviselő ugyanarra a napra a magyar nyugdíjrendszerben is szerzett szolgálati időt, az adott nap legfeljebb egy nap szolgálati időként vehető figyelembe. Ha az adott évben az uniós intézmény által levont járuléknak az uniós intézmény által igazolt szolgálati időre számított havi összege nem éri el az adott év január 1-jén érvényes kötelező legkisebb munkabérre számított, magánnyugdíj-pénztári tagsággal nem rendelkezők számára előírt nyugdíjjárulék (a továbbiakban: nyugdíjjárulék) és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes összegét, szolgálati időként csak az uniós intézmény által igazolt szolgálati idő arányos része vehető figyelembe.
+6. § (1) A nyugdíjbiztosítási visszautalás során szolgálati időként – a (2) bekezdésben nem említett esetben – az uniós intézmény által igazolt szolgálati időt kell figyelembe venni. Ha az uniós tisztviselő ugyanarra a napra a magyar nyugdíjrendszerben is szerzett szolgálati időt, az adott nap legfeljebb egy nap szolgálati időként vehető figyelembe. Ha az így megállapított szolgálati idővel érintett valamely naptári évben a beszámított jövedelem havi összege nem éri el az adott év január 1-jén érvényes kötelező legkisebb munkabér összegét, szolgálati időként csak az uniós intézmény által igazolt szolgálati idő arányos része vehető figyelembe.
 
 (2) Ha az uniós tisztviselő korábban nyugdíjbiztosítási átutalással élt, az ezzel érintett időszakra a szolgálati időt úgy kell meghatározni, mintha a nyugdíjbiztosítási átutalásra nem került volna sor.
 
-(3) A nyugdíjbiztosítási visszautalás során az uniós tisztviselőnek az Európai Unió másik tagállamának (a továbbiakban: másik tagállam) nyugdíjrendszerében szerzett, az SR. szerinti nyugdíjrendszerbe átadott jogait az uniós intézmény által az átadáskor az SR. alapján nyugdíjszerzőként elismert szolgálati idővel azonos mennyiségű szolgálati időként, az átadás napját közvetlenül megelőző időszakra – a magyar nyugdíjrendszerből történt nyugdíjbiztosítási átutalással érintett időszak kivételével – kell figyelembe venni.
+(3) A nyugdíjbiztosítási visszautalás során az uniós tisztviselőnek az Európai Unió másik tagállamának (a továbbiakban: másik tagállam) nyugdíjrendszerében szerzett, az SR. szerinti nyugdíjrendszerbe átadott jogait az uniós intézmény által az átadáskor az SR. alapján nyugdíjszerzőként elismert szolgálati idővel azonos szolgálati időként, az átadás napját közvetlenül megelőző időszakra – a magyar nyugdíjrendszerből történt nyugdíjbiztosítási átutalással érintett időszak kivételével – kell figyelembe venni.
 
-7. § (1) A beszámított jövedelmet – a (2) bekezdésben nem említett esetben – úgy kell kiszámítani, hogy az uniós intézmény által levont járulék összegét el kell osztani a nyugdíjjárulék és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes mértékével.
+7. § (1) A beszámított jövedelmet – a (2) bekezdésben nem említett esetben – a nyugdíjbiztosítási visszautalás összege alapján, az 1. mellékletben foglaltak szerint kell meghatározni.
 
 (1a) Az (1) bekezdés szerint a 2013. január 1-jét megelőző időszakra meghatározott beszámított jövedelem nem haladhatja meg a járulékfizetési felső határ összegét. Ha az uniós tisztviselő a 2013. január 1-jét megelőző időszak ugyanazon napjára a magyar nyugdíjrendszerben is szerzett szolgálati időt, a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
 
 (2) Ha az uniós tisztviselő korábban nyugdíjbiztosítási átutalással élt, az ezzel érintett időszakra a beszámított jövedelmet úgy kell meghatározni, mintha a nyugdíjbiztosítási átutalásra nem került volna sor.
 
-(3) A másik tagállam nyugdíjrendszerében szerzett jogosultság ellenértékeként átadott összeget a 6. § (3) bekezdése szerinti szolgálati idő egyes napjaira egyenlően kell elosztani. Az így elosztott értékek azonos naptári évhez tartozó összegét meg kell szorozni a másik tagállamból történt átadás évéhez tartozó valorizációs szorzószámmal, majd el kell osztani az ahhoz a naptári évhez tartozó valorizációs szorzószámmal, amely naptári évhez az elosztott érték tartozik. Az így kiszámított összeget kell az (1) bekezdés alkalmazása során az uniós intézmény által az adott naptári évben levont járuléknak tekinteni. A kiszámítás során a nyugdíjbiztosítási visszautalás évében alkalmazandó valorizációs szorzószámokat kell figyelembe venni.
+(3)
 
-8. § (1) A nyugdíjbiztosítási visszautalás során a Nyugdíjbiztosítási Alapot
+8. § (1) A nyugdíjbiztosítási visszautalás során annak összegéből a Nyugdíjbiztosítási Alapot
 
-- a) a korábban nyugdíjbiztosítási átutalással nem érintett időre az uniós intézmény által levont járulék, illetve a másik tagállamból az SR. szerinti nyugdíjrendszerbe átadott összeg, de a 2013. január 1-jét megelőző időszakra legfeljebb a járulékfizetési felső határra számított nyugdíjjárulék és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes összegének,
-- b) a korábban nyugdíjbiztosítási átutalással érintett időre a nyugdíjbiztosítási átutalás összegének, és
-- c) az a) és b) pont szerinti összeg – az SR. szerinti nyugdíjrendszer által biztosított – hozamának
+- a) a korábban nyugdíjbiztosítási átutalással nem érintett időre az uniós intézmény által, illetve a másik tagállamból az SR. szerinti nyugdíjrendszerbe átadott összeg, a 2013. január 1-jét megelőző időszak egyes éveire
+  - aa) a beszámított jövedelemre jutó nyugdíjjárulék, és
+  - ab) az 1. melléklet alapján, de a járulékfizetési felső határ figyelmen kívül hagyásával számított éves jövedelemösszegre jutó nyugdíjbiztosítási járulék és számított szociális hozzájárulási adó
 
-együttes összege illeti meg. Ha az uniós tisztviselő a 2013. január 1-jét megelőző időszak ugyanazon napjára a magyar nyugdíjrendszerben is szerzett szolgálati időt, az a) pont alkalmazása során a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
+együttes, a visszautalás évében érvényes valorizációs szorzószámokkal növelt összege, és
+
+- b) a korábban nyugdíjbiztosítási átutalással érintett időre a nyugdíjbiztosítási átutalás összegének a visszautalás évében hatályos, az átutalás évéhez tartozó valorizációs szorzószámmal növelt összege
+
+illeti meg. Ha az uniós tisztviselő a 2013. január 1-jét megelőző időszak ugyanazon napjára a magyar nyugdíjrendszerben is szerzett szolgálati időt, az a) pont alkalmazása során a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
 
 (2) Ha a nyugdíjbiztosítási visszautalás összege magasabb, mint a Nyugdíjbiztosítási Alapot megillető összeg, a fennmaradó összeg az uniós tisztviselőt, illetve túlélő hozzátartozóját illeti meg, és választása szerint önkéntes kölcsönös nyugdíjpénztárban vezetett egyéni számlájára, foglalkoztatói nyugdíjszolgáltató intézménybe tagi kiegészítéseként vagy a nyugdíj-előtakarékossági számlájára kell átutalni.
 
@@ -93,7 +97,7 @@ együttes összege illeti meg. Ha az uniós tisztviselő a 2013. január 1-jét 
 10. § (1) A nyugdíjbiztosítási átutalás és visszautalás során a nyugdíjbiztosítási igazgatási szerv – a nyugdíjbiztosítási átutalással és visszautalással kapcsolatos feladatainak teljesítése céljából – kezelheti
 
 - a) az uniós tisztviselő és túlélő hozzátartozójának természetes személyazonosító adatait, valamint a lakóhelyére, tartózkodási helyére vonatkozó adatokat,
-- b) az uniós tisztviselő munkavégzésre irányuló jogviszonyaira, jövedelemmel, díjazással járó keresőtevékenységeire és egyéb nyugdíjjárulék-fizetéssel fedezett jogviszonyaira, foglalkoztatójára, szolgálati idejére, keresetére, jövedelmére, valamint a levont és befizetett járulékokra – ideértve az uniós intézmény által levont járulékot is – és ennek hozamaira vonatkozó adatokat,
+- b) az uniós tisztviselő munkavégzésre irányuló jogviszonyaira, jövedelemmel, díjazással járó keresőtevékenységeire és egyéb, nyugdíjjárulék-fizetéssel fedezett jogviszonyaira, foglalkoztatójára, szolgálati idejére, keresetére, jövedelmére, a levont és befizetett járulékokra vonatkozó adatokat, valamint az uniós intézmény által a jogviszonyra és a visszautalt összegre vonatkozóan átadott adatokat,
 - c) nyugdíjbiztosítási átutalás esetén az uniós tisztviselő magánnyugdíj-pénztári tagságára és magánnyugdíj-pénztári egyenlegére, valamint a túlélő hozzátartozó magánnyugdíj-pénztári tagságára vonatkozó adatokat,
 - d) az uniós tisztviselő és túlélő hozzátartozója közötti, a kérelem alapját jelentő hozzátartozói viszonyra vonatkozó adatokat,
 - e) a nyugdíjbiztosítási átutalás, illetve visszautalás összegére vonatkozó adatokat,
@@ -202,6 +206,30 @@ rendeletben állapítsa meg.
 #### 40–42. §
 
 ### 1. melléklet a 2012. évi CXII. törvényhez
+
+#### A beszámított jövedelem meghatározása
+
+A beszámított jövedelem egyes naptári évekre jutó összegét a következő képlet szerint kell meghatározni:
+
+ahol:
+
+BJi: az i. naptári évben beszámított jövedelem összege;
+
+ni: az i. naptári évben a 6. § (1) és (3) bekezdése alapján figyelembe vett szolgálati idő (az i. naptári évben beszámított jövedelem összegéhez tartozó napok száma);
+
+VÖ: a korábban nyugdíjbiztosítási átutalással nem érintett időre az uniós intézmény által, illetve másik tagállamból az SR. szerinti nyugdíjrendszerbe átadott összeg;
+
+t1: a beszámított jövedelem meghatározásakor figyelembevételre kerülő legkorábbi naptári év;
+
+tm: a beszámított jövedelem meghatározásakor figyelembevételre kerülő legkésőbbi naptári év;
+
+e: t1 és tm naptári évek közötti azon naptári évek, amelyekben beszámított jövedelmet kell figyelembe venni, beleértve t1 és tm naptári éveket is;
+
+αe: az e. naptári évben a 8. § (1) bekezdés a) pont aa) alpontja és ab) alpontja szerinti járulékok és adók együttes százalékos mértéke;
+
+ne: az e. naptári évben a 6. § (1) és (3) bekezdése alapján figyelembe vett szolgálati idő (az e. naptári évben beszámított jövedelem összegéhez tartozó napok száma);
+
+νi: a nyugdíjbiztosítási visszautalás naptári évében hatályos nyugdíj-megállapítási szabályok szerint az i. évben megszerzett jövedelemhez tartozó valorizációs szorzószám értéke.
 
 ### 2. melléklet a 2012. évi CXII. törvényhez
 

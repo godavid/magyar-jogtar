@@ -236,7 +236,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - c) a nyomozó hatóságok, a hatáskörükbe tartozó bűncselekmények nyomozásával összefüggő feladatok ellátása érdekében,
 - d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 - e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
-- f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége céljából.
+- f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából,
+- g) a közlekedési hatóság törvényben meghatározott ellenőrzési tevékenysége céljából.
 
 (5) Az (4) bekezdésben felsoroltakon kívül az elektronikus ellenőrző rendszerből adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít az elektronikus díjellenőrző rendszer adatainak megismerésére.
 
@@ -326,7 +327,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 ### V. Fejezet — ADATKEZELÉS
 
-26. § (1) A felügyeleti szerv a felügyeleti jogkörében eljárva jogosult a díjfizetési kötelezettséggel érintett gépjárműveknek a díjfizetési kötelezettséggel kapcsolatos alábbi jellemzőit, valamint az úthasználók, üzembentartók, és a szerződött díjfizetők alábbi személyes adatait kezelni a díjszedés hatékony lebonyolítása érdekében, a díj, illetve a bírság megfizetésére irányuló követelés elévüléséig:
+26. § (1) A felügyeleti szerv a felügyeleti jogkörében eljárva jogosult a díjfizetési kötelezettséggel érintett gépjárműveknek a díjfizetési kötelezettséggel, valamint az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatási kötelezettséggel kapcsolatos alábbi jellemzőit, valamint az úthasználók, üzemben tartók, és a szerződött díjfizetők alábbi személyes adatait kezelni a díjszedés hatékony lebonyolítása érdekében a díj, illetve a bírság megfizetésére irányuló követelés elévüléséig:
 
 - a) a természetes személy úthasználó, üzembentartó, és szerződött díjfizető nevét, lakóhelyét, anyja nevét, születési helyét és idejét, elektronikus levélcímét, telefonszámát, fizetési számla számát, valamint a személyazonosításra szolgáló okmány adatait,
 - b) jogi személy úthasználó, üzembentartó, és szerződött díjfizető nevét, székhelyét, cégjegyzékszámát vagy az azt bejegyző hatóság által kiadott más hasonló azonosítóját, továbbá elektronikus levélcímét, telefonszámát, fizetési számla számát,
@@ -338,10 +339,11 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - h) a nyilvántartott fedélzeti eszközök azonosító adatait,
 - i) a gépjárműről és annak hatósági jelzéséről készített képfelvételt,
 - j) az útdíjköteles elemi útszakaszok viszonylati jegy alapján történő használata esetén az útvonalat, az annak megtételéhez engedélyezett időszakot, valamint a bizonylatszámot.
+- k) a gépjármű vagy gépjárműszerelvény össztömegét, tengelyterhelését, valamint méretét.
 
 (2) Az útdíjszolgáltató a 6. § (5) bekezdésében, valamint a 7. §-ban meghatározott feladatai ellátása érdekében az (1) bekezdésben meghatározott adatokat – az (1) bekezdés i) pontjában foglalt adatok kivételével – jogosult kezelni a díj megfizetésére irányuló követelés elévüléséig.
 
-(3) Az útdíjszedő a 6. § (4) bekezdésében és a 17. §-ban meghatározott feladatai ellátása érdekében az (1) bekezdésben meghatározott adatok közül a c)–j) pontokban felsorolt adatokat jogosult kezelni a díj megfizetésére irányuló követelés elévüléséig.
+(3) Az útdíjszedő a 6. § (4) bekezdésében és a 17. §-ban meghatározott feladatai ellátása, valamint az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az (1) bekezdés c)–k) pontjában meghatározott adatokat jogosult kezelni az adat keletkezését követő 7 évig.
 
 (4) A Rendőrség jogosult az útdíj-fizetési kötelezettség alól mentes gépjárműveknek a mentességgel kapcsolatos alábbi jellemzőit, valamint az útdíj-fizetésre kötelezettek alábbi személyes adatait kezelni azok külön hozzájárulása nélkül is az útdíjszedés, valamint az útdíj-fizetési kötelezettség teljesítésének ellenőrzése érdekében, az útdíj, illetve a kiszabott bírság behajtása érdekében, az ezekre irányuló követelések elévüléséig:
 
@@ -401,6 +403,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
 - e) rendeletben jelölje ki a tanúsító szervet,
 - f) rendeletben határozza meg az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők-, és a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját.
+
+28/A. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy az úttestbe épített áthajtásos tömegmérő pontok működtetésének részletszabályait rendeletben határozza meg.
 
 #### 15. Hatálybalépés
 

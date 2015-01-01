@@ -12,7 +12,7 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
   - a) amelyet a rendőrség – polgári jogi jogviszony keretében – a fenyegetett helyzetben lévő személlyel megkötött megállapodás szerint végez, és
   - b) amelynek során különleges intézkedések alkalmazása (16. §), illetve – az érintett társadalmi beilleszkedésének elősegítése érdekében – mentális, szociális, gazdasági, humán és jogi támogatás nyújtása szükséges;
 - 2. megállapodás: a rendőrség és a fenyegetett helyzetben lévő személy által – polgári jogi jogviszony keretében – megkötött, a Védelmi Programba való felvételről, az abban való együttműködésről, a Védelmi Programban résztvevők jogairól és kötelezettségeiről szóló megállapodás;
-- 3. személyi védelem: a rendőrségnek, a vám- és pénzügyőrségnek, valamint a büntetés-végrehajtási szervezetnek a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtási szabályairól szóló külön jogszabály (a továbbiakban: a személyi védelemről szóló jogszabály) szerint folytatott intézkedése;
+- 3. személyi védelem: a rendőrségnek, a Nemzeti Adó- és Vámhivatalnak, valamint a büntetés-végrehajtási szervnek a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtási szabályairól szóló külön jogszabály (a továbbiakban: a személyi védelemről szóló jogszabály) szerint folytatott intézkedése;
 - 4. büntetőeljárásban résztvevő: a terhelt, a védő, a sértett, az egyéb érdekeltek, a sértett és az egyéb érdekeltek képviselői, a tanú, a tanú ügyvédje, a szakértő, szaktanácsadó, a tolmács, a hatósági tanú;
 - 5. nyomozó szerv: a büntetőeljárásról szóló törvényben meghatározott nyomozó hatóság nyomozást folytató szerve;
 - 6. védelmet ellátó szerv: a Védelmi Program keretében igénybe vehető intézkedések ellátására jogosult szerv;
@@ -81,7 +81,7 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 
 9. § (1) A Program előkészítéséért és végrehajtásáért a rendőrség szervezetén belül létrehozott Szolgálat felelős.
 
-(2) A Szolgálat a büntetés-végrehajtási intézetben fogvatartott érintett esetében a Programot a büntetés-végrehajtási szervezettel együttműködve hajtja végre.
+(2) A Szolgálat a büntetés-végrehajtási intézetben fogvatartott érintett esetében a Programot a büntetés-végrehajtási szervvel együttműködve hajtja végre.
 
 10. § A Szolgálat a Program keretében a 16. § (1) bekezdésében foglalt különleges óvintézkedések indokoltságáról és – ha feltételei fennállnak – alkalmazásáról önállóan dönt, illetve azokat önállóan kezdeményezi.
 
@@ -321,7 +321,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 nyilvántartást vezet.
 
-(2) A bíróság, az ügyészség, a Vám- és Pénzügyőrség, a büntetés-végrehajtási szervek és a nemzetbiztonsági szolgálatok a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
+(2) A bíróság, az ügyészség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
 
 (3) A Szolgálat adatközlése nem sértheti a védelem érdekeit. Az érintett védelme érdekében az átadott adat felhasználására vonatkozóan a Szolgálat korlátokat határozhat meg.
 

@@ -47,14 +47,15 @@ kerül sor,
 (4) Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
 
 - a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
-- b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
+- b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
 
 (4a) Az álláskeresőt három hónap időtartamra ki kell zárni a közfoglalkoztatásból, ha
 
 - a) a tanköteles gyermekének mulasztása miatt
   - aa)
   - ab) e szabálysértés elkövetéséért három hónapon belül jogerősen elmarasztalták, vagy
-- b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti.
+- b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti, vagy
+- c) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerint megfelelő munkahelyet nem fogadja el.
 
 (4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szerv járási szerve (a továbbiakban: járási foglalkoztatási szerv) részére.
 
@@ -83,6 +84,8 @@ kerül sor,
 (3a) A közfoglalkoztató köteles a közfoglalkoztatott részére fizetés nélküli szabadságot engedélyezni, ha a közfoglalkoztatott a közfoglalkoztatási jogviszony időtartama alatt, az 1. § (3) bekezdése hatálya alá nem tartozó munkáltatónál, legalább 3 nap, legfeljebb 90 nap időtartamú határozott idejű munkaviszonyt létesít. A fizetés nélküli szabadság engedélyezésének feltétele, hogy a közfoglalkoztatott a határozott idejű munkaviszonyról szóló munkaszerződést a közfoglalkoztatónak a fizetés nélküli szabadság megkezdése előtt legalább 5 munkanappal bemutatja. Ez a rendelkezés nem alkalmazható, ha a közfoglalkoztató a közfoglalkoztatott számára közfoglalkoztatási jogviszony keretében a munkavégzéshez kapcsolódóan a képzés lehetőségét is biztosítja.
 
 (3b) A közfoglalkoztatott számára várandóssága idejére egészségi állapotának megfelelő munkakört kell felajánlani, ha a munkaköri alkalmasságára vonatkozó orvosi vélemény alapján a munkakörében nem foglalkoztatható.
+
+(3c) A közfoglalkoztatott mentesül a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól az Flt. szerinti munkaviszony – ide nem értve a közfoglalkoztatási jogviszonyt – létesítése céljából történő állásinterjún való részvételhez szükséges időtartamra. A közfoglalkoztatottat az igazolt távollét tartamára az állásidő szabályai szerint illeti meg díjazás.
 
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 

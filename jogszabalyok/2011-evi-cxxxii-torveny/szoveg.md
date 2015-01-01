@@ -266,6 +266,22 @@ kezeli.
 
 (4) A hallgató a (2) bekezdés a) és b) pontja alapján csak akkor bocsátható el, ha más intézménybe vagy az Egyetemen belül más szakra, illetve szakirányra nem irányítható át, vagy ha az átirányítást a hallgató nem vállalta. Az átirányítási kötelezettségre nem hivatkozhat a hallgató, ha a (2) bekezdés b) pontja szerinti körülményváltozás neki felróható. A rendészeti képzésben részt vevő hallgató átirányításához mind a korábbi, mind az új szaknak, illetve szakiránynak megfelelő állományviszony szerinti rendvédelmi szerv hozzájárulása szükséges.
 
+33/A. § (1) A honvédtiszti alap- és mesterképzésben a honvédelemért felelős miniszter és az érintett ország védelmi minisztere által kötött képzési együttműködési megállapodás alapján külföldi hallgató is részt vehet. A külföldi hallgató nem áll honvéd tisztjelölti jogviszonyban, rá a 21/A–25. §-t, a 30–32. §-t nem kell alkalmazni.
+
+(2) A honvédtiszti alap- és mesterképzésben részt vevő külföldi hallgató hallgatói jogviszonya a beiratkozás napjával kezdődik és az oklevél, illetve bizonyítvány átadásának vagy a tanulmányai végleges megszakításának napjával szűnik meg.
+
+(3) Az (1) bekezdés szerinti megállapodásban meg kell határozni a külföldi hallgató képzésben való részvételének feltételeit, valamint a külföldi hallgató jogait és kötelezettségeit, így különösen
+
+- a) a szállás, étkezés, egészségügyi ellátás rendjét, valamint egyéb, a külföldi hallgató részére nyújtandó járandóságokat,
+- b) a felek kártérítési kötelezettségét,
+- c) a fegyelmi eljárásnál követendő szabályokat,
+- d) a képzési költségeket, a fizetendő tandíjat,
+- e) a minősített adat védelmét,
+- f) a tanulmányok megszakításával, a tanulmányi időszak (szemeszter) megismétlésével kapcsolatos kérdéseket, és
+- g) a megszerzett oklevél elismerésének, illetve honosításának módját, figyelembe véve az érvényes két- és többoldalú megállapodásokat.
+
+(4) A honvédelemért felelős miniszter által vezetett minisztérium tájékoztatja a küldő védelmi minisztériumot arról, hogy a Magyarországon honvédtiszti alap- és mesterképzésben részt vevő külföldi állampolgárok a magyar joghatóság alá tartoznak, valamint ismertetést nyújt a vonatkozó jogszabályokról és idegenrendészeti előírásokról.
+
 34. § (1) A hallgatói önkormányzat véleményezési jogot gyakorol a szervezeti és működési szabályzat elfogadásakor és módosításakor, az alábbi körben:
 
 - a) tanulmányi és vizsgaszabályzat,
@@ -347,7 +363,7 @@ kezeli.
 
 - a) a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
 - b) az Egyetemre történő felvétel különös feltételeit, valamint
-- c) a külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait,
+- c) a 33/A. § hatálya alá nem tartozó külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait,
 - d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Egyetemen rendészeti képzésben résztvevő hallgatók ruházati ellátási normáit és az ellátás rendjét rendeletben határozza meg.

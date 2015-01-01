@@ -1534,7 +1534,8 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - l) a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
 - m) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére;
 - n) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
-- o) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti.
+- o) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti;
+- p) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap és a Duna Médiaszolgáltató Zártkörűen Működő Nonprofit Részvénytársaság által a médiatartalmak elkészítéséhez szükséges technikai eszközök és szolgáltatások beszerzésére.
 
 ### Az alkalmazandó eljárási szabályok
 
@@ -1640,7 +1641,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 - a) a szerződésnek védett munkahely vagy szociális foglalkoztatási engedéllyel rendelkező szervezet bevonásával történő teljesítése;
 - b) álláskeresők, valamint munkanélküliek vagy fogvatartottak foglalkoztatása;
-- c) gyermekgondozási segélyben, valamint gyermeknevelési támogatásban részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, terhességi-gyermekágyi segélyben és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
+- c) gyermekgondozási segélyben, valamint gyermeknevelési támogatásban részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
 - d) az egyenlő bánásmód követelményének biztosítása érdekében teendő intézkedések előírása.
 
 (4) Az ajánlatkérő köteles szerződéses feltételként előírni, hogy
@@ -1892,22 +1893,25 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 - a) a Közbeszerzési Hatóság elnöke;
 - b) az Állami Számvevőszék;
-- c) a Kormány által kijelölt belső ellenőrzési szerv;
+- c) a kormányzati ellenőrzési szerv;
 - d) a helyi önkormányzatok törvényességi felügyeletéért felelős szerv;
 - e) a Magyar Államkincstár;
 - f) az alapvető jogok biztosa;
 - g) a közbeszerzéshez támogatást nyújtó, illetve a támogatás felhasználásában jogszabály alapján közreműködő szervezet;
 - h) a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 - i) a Gazdasági Versenyhivatal;
-- j) a kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv;
+- j) az európai támogatásokat auditáló szerv;
 - k) az állami vagyon felügyeletéért felelős miniszter;
 - l) az ügyész;
 - m) a közbeszerzésekért felelős miniszter.
 
-(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását
+(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, de
 
-- a) az (1) bekezdés a), d)–i), k) és m) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetve – a közbeszerzési eljárás mellőzése estén – három éven belül,
-- b) az (1) bekezdés b), c), j) és l) pontja szerinti szervezet a jogsértés tudomásra jutásától számított harminc napon belül, de legfeljebb a jogsértés megtörténtétől számított három éven belül, közbeszerzési eljárás mellőzésével történő beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított három éven belül kezdeményezheti.
+- a) legkésőbb a jogsértés megtörténtétől számított három éven belül,
+- b) közbeszerzési eljárás mellőzésével történt beszerzés esetén az a) ponttól eltérően a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől számított legfeljebb öt éven belül,
+- c) a támogatásból megvalósuló beszerzés esetén az a) és b) ponttól eltérően az adott támogatás folyósítására és felhasználására vonatkozó külön jogszabályban előírt iratmegőrzési kötelezettség időtartamán belül, de legalább a jogsértés megtörténtétől – közbeszerzési eljárás mellőzésével történt beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől – számított öt éven belül
+
+kezdeményezheti.
 
 (3) A Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni a 138. § (1) bekezdésének a)–d) és g) pontjában szereplő adatokat és javaslatot lehet tenni az e) és f) pontjában foglaltakra. A kezdeményező irathoz csatolni kell a jogsértéssel érintett beszerzéssel (közbeszerzéssel) kapcsolatban rendelkezésre álló iratok másolatát.
 
@@ -2438,7 +2442,7 @@ rendelkezik.
 
 (3) A (2) bekezdésben meghatározott szakvizsga előírásra a Kttv.-ben meghatározott határidőket megfelelően alkalmazni kell.
 
-(4) A közbeszerzési biztos – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – más megbízást nem fogadhat el, más keresőfoglalkozást nem folytathat, nem lehet gazdasági társaságban személyes közreműködésre kötelezett tag, vezető tisztségviselő, felügyelőbizottsági tag.
+(4) A közbeszerzési biztos – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – más megbízást nem fogadhat el, más keresőfoglalkozást nem folytathat, nem lehet gazdasági társaságban személyes közreműködésre kötelezett tag, vezető tisztségviselő, felügyelőbizottsági tag.
 
 (5) Nem lehet közbeszerzési biztos, aki
 
@@ -2501,6 +2505,8 @@ az Ükt. hatálybalépése után megkezdett közbeszerzési eljárásokra kell a
 (9) E törvénynek a Mód3. tv.-nyel megállapított 56. § (1) bekezdés g) pontja szerinti kizáró ok alkalmazásakor csak a Mód3. tv. hatálybalépését követően indult hatósági ügyekben feltárt jogsértések vehetőek figyelembe. A hatóságok az 56. § (1) bekezdés g) pontjában foglalt jogsértést elkövető gazdasági szereplőkre vonatkozó, külön jogszabályban megállapított közzétételi kötelezettségüknek a Mód3. tv. hatálybalépését követően indult hatósági ügyekben feltárt jogsértések esetén a Kbt. 2013. július 1-je előtt hatályos szabályaival összhangban korábban közzétett adatoktól elkülönítetten tesznek eleget.
 
 (10) E törvénynek a Mód3. tv.-nyel megállapított 3. §-át, 128. § (5) bekezdését, 129. § (4) bekezdését, 130. § (2)–(4) bekezdését abban az esetben kell alkalmazni, ha a szerződés, az átalakulás, egyesülés vagy szétválás a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény (a továbbiakban: Ptké.) értelmében a Ptk. hatálya alá tartozik. Amennyiben a Ptké. értelmében a közbeszerzési eljárás eredményeként megkötött szerződésre a Ptk. szabályait kell alkalmazni, de a közbeszerzési eljárás a Mód3. tv. hatálybalépését megelőzően kezdődött meg, amennyiben a módosult rendelkezés a (8) bekezdés szerint az adott közbeszerzési eljárásban még nem alkalmazandó, az e törvényben a szerződésre vonatkozó, az 1959. évi IV. törvény hivatkozott rendelkezései helyett a Ptk. rendelkezéseit kell megfelelően alkalmazni. A Ptk. 6:7. §-a nem alkalmazandó a közbeszerzési eljárásban a Mód3. tv. hatálybalépése előtt tett jognyilatkozatokra. Amennyiben a Ptké. értelmében a közbeszerzési eljárás eredményeként megkötött szerződésre a Ptk. szabályait kell alkalmazni, de a közbeszerzési eljárás 2013. december 31-ét megelőzően kezdődött meg és az eljárás szabályai szerint a szerződés feltételeinek változtatására már nincs lehetőség, a felek módosíthatják szerződésüket – kizárólag az ahhoz szükséges mértékben, amennyiben azt a Ptk. szabályainak alkalmazása megkívánja.
+
+(11) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 140. § (2) bekezdését azon jogorvoslati eljárások kezdeményezésére kell alkalmazni, amelyek esetében a jogsértés 2015. január 1-jét követően jutott a kezdeményező tudomására.
 
 ### Felhatalmazás
 

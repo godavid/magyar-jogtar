@@ -152,7 +152,7 @@ jön létre.
 
 vonatkozik.
 
-(6) Nem kell tagi hozzájárulást fizetni a földgáz biztonsági készletezés céljára vásárolt földgáz után.
+(6) Nem kell tagi hozzájárulást fizetni a földgáz biztonsági készletezés céljára beszerzett földgáz után.
 
 (7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 

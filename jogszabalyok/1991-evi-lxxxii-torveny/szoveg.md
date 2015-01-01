@@ -98,7 +98,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Adókedvezmény
 
-8. § (1) 20%-os kedvezmény illeti meg azon autóbuszt, tehergépjárművet – a nyergesvontató kivételével, amely után 30 %-os kedvezmény jár -, amely a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet (e § alkalmazásában KöHÉM rendelet) 5. számú melléklete II. alpontja szerinti „5”, „6”, „7” vagy „8” környezetvédelmi osztály-jelzéssel (kóddal) ellátott.
+8. § (1) 20%-os kedvezmény illeti meg azon autóbuszt, tehergépjárművet – a nyergesvontató kivételével, amely után 30 %-os kedvezmény jár -, amely a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: KöHÉM rendelet) 5. számú melléklete II. alpontja szerinti „5”, „6”, „7” vagy „8” környezetvédelmi osztály-jelzéssel (kóddal) ellátott.
 
 (2) 30%-os kedvezmény illeti meg azon autóbuszt, tehergépjárművet – a nyergesvontató kivételével, amely után 50 %-os kedvezmény jár -, amely a KöHÉM rendelet 5. számú melléklete II. alpontja szerint legalább „9”, „10”, „11”, „12” környezetvédelmi osztály-jelzéssel (kóddal) ellátott.
 
@@ -199,9 +199,13 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó alanya
 
-17/B. § (1) Az adó alanya a személygépkocsi hatósági nyilvántartás szerinti tulajdonosa. Több tulajdonos esetén a tulajdonostársak tulajdoni hányadaik arányában adóalanyok. Pénzügyi lízingbe vagy tartós bérletbe adott, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya a pénzügyi lízingbe vevő, tartós bérletbe vevő.
+17/B. § (1) Az adó alanya a – (2)–(4) bekezdésben foglaltak kivételével – személygépkocsi hatósági nyilvántartás szerinti tulajdonosa. Több tulajdonos esetén a tulajdonostársak tulajdoni hányadaik arányában adóalanyok.
 
-(2) A hatósági nyilvántartásban nem szereplő személygépkocsi esetén az adó alanya az a személy vagy szervezet, aki vagy amely a személygépkocsi után költséget számol el.
+(2) Pénzügyi lízingbe vagy tartós bérletbe adott, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya a pénzügyi lízingbe vevő, tartós bérletbe vevő.
+
+(3) A magyar állam tulajdonában álló, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya az a személy vagy szervezet, amely a személygépkocsi vagyonkezelői jogával rendelkezik. Amennyiben a személygépkocsi kapcsán a vagyonkezelői jog mellett használati jog is fennáll, az adó alanya a használati jog jogosítottja.
+
+(4) Hatósági nyilvántartásban nem szereplő személygépkocsi esetén az adó alanya az a személy vagy szervezet, aki vagy amely a személygépkocsi után költséget számol el.
 
 ### Az adókötelezettség keletkezése, megszűnése
 
@@ -232,7 +236,8 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - d) amely kizárólag halottszállításra szolgál,
 - e) amelyet a betegségmegelőző vagy gyógyító céllal, szociális céllal, az egészségkárosodott, hátrányos helyzetűek segítésére létrehozott alapítvány, közalapítvány, egyesület, köztestület, valamint a megváltozott munkaképességű dolgozók foglalkoztatásáról és szociális ellátásáról szóló jogszabályban meghatározott célszervezet kizárólag súlyosan fogyatékos magánszemély(ek) rendszeres szállítására üzemeltet, ha működési szabályzatából, gazdálkodásából – az összes körülmény figyelembevételével – egyértelműen megállapítható, hogy az üzemeltetés ténylegesen az említett cél érdekében történik,
 - f) amelyet kizárólag az egészségbiztosítási szerv által – az egészségügy társadalombiztosítási finanszírozásának egyes kérdéseiről szóló jogszabály alapján – finanszírozott háziorvosi, házi gyermekorvosi tevékenység ellátása érdekében, valamint az egészségügyi államigazgatási szerv törvény alapján kizárólag betegségmegelőző, gyógyító, egészségkárosodást csökkentő közegészségügyi, járványügyi és egészségvédelmi alapfeladatának ellátása érdekében üzemeltetnek,
-- g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet.
+- g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet,
+- h) amely törvényes öröklés eredményeként a magyar állam tulajdonában áll, azon hónap utolsó napjáig, melyben a személygépkocsi vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
 
 ### Az adó mértéke
 
@@ -254,9 +259,9 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 17/G. § (1) Az adót az adó alanya önadózással állapítja meg.
 
-(2) Az adózó adómegállapítási, adóbevallási és adófizetési kötelezettségét negyedévenként, a negyedévet követő hónap 20. napjáig teljesíti. A bevallást az állami adóhatósághoz kell benyújtani.
+(2) Az adózó adómegállapítási, adóbevallási és adófizetési kötelezettségét – a (3) bekezdésben foglalt kivétellel – negyedévenként, a negyedévet követő hónap 20. napjáig teljesíti. A bevallást az állami adóhatósághoz, az általa rendszeresített nyomtatványon kell benyújtani.
 
-(3) Az adóból származó bevétel a központi költségvetés bevétele.
+(3) Az öröklés útján megszerzett személygépkocsi után az adómegállapítási, adóbevallási és adófizetési kötelezettséget a hagyatékátadó végzés jogerőre emelkedésének negyedévét követő hónap 20. napjáig kell teljesíteni. A 17/D. § szerint mentes személygépkocsi adóját nem kell megállapítani, arról nem kell bevallást adni.
 
 #### V.
 
@@ -274,10 +279,10 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 6. autóbusz: személyszállítás céljára készült, elektromos felsővezetékhez nem kötött gépjármű, amelyben a vezető ülésével együtt kilencnél több állandó ülőhely van,
 - 7. motorkerékpár: olyan gépjármű, amelynek két vagy három kereke van és a tervezési legnagyobb sebessége 45 km/óránál nagyobb, továbbá olyan négykerekű gépjármű, amelynek saját tömege legfeljebb 550 kg és motorteljesítménye nem haladja meg a 15 kilowattot,
 - 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
-- 9. használt gépjármű az, amely a gyártóüzem által történt kibocsátást követően közúti forgalomban részt vett,
+- 9.
 - 10. költségvetési szerv az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 - 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
-- 12. súlyos mozgáskorlátozott az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeinek rendszeréről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
+- 12. súlyos mozgáskorlátozott az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeiről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
 - 13. segédmotoros kerékpár: olyan két-, három- vagy négykerekű jármű, amelyet 50 cm3-t meg nem haladó lökettérfogatú belső égésű motor vagy legfeljebb 4 kW teljesítményű egyéb motor hajt, tervezési végsebessége 45 km/óránál nem nagyobb és saját tömege legfeljebb 350 kg,
 - 14. muzeális jellegű az a gépjármű, amelyet legalább 30 éve gyártottak, használata kizárólag a jellegével összefüggő célból történik, továbbá az eredeti műszaki jellemzőit nem változtatták meg, vagy annak megfelelően helyreállították. A jármű muzeális jellegének megállapítására és igazolására az 5/1990. (IV. 12.) KöHÉM rendeletben foglaltak az irányadók,
 - 15. személytaxi: a külön jogszabály szerinti személytaxi-szolgáltatás vagy a személygépkocsis személyszállító szolgáltatás végzésére jogosult vállalkozás személygépkocsija, amely a hatóság által kiadott taxiengedéllyel és meghatározott színű rendszámtáblával ellátott,
@@ -294,8 +299,9 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 26. lassú jármű és a lassú jármű pótkocsija: a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet alapján speciális rendszámtáblával – fehér alapon (3–3) piros betű- és számjellel, Y kezdő betűjellel – és igazolólappal ellátott jármű, amely a sík úton önerejéből (vagy vontatója által) 25 km/óra sebességnél gyorsabban haladni nem képes,
 - 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 - 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
-- 29. környezetvédelmi osztály-jelzés: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló, 2012. augusztus 15-én hatályos 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: KöHÉM rendelet) 5. számú melléklet II. alpontja szerinti környezetvédelmi osztály jelzés (kód). Ha a KöHÉM rendelet szerinti osztály jelzés nem ismert, akkor azt a személygépkocsi légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl. forgalmi engedély, típus-bizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztály-jelzése: ”6”. Ha a személygépkocsi osztályjelzése a KöHÉM rendelet 2012. augusztus 15-ét követő módosítása miatt „15”-nél nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztály-jelzés „15”.
-- 30. tartós bérletbe adott személygépkocsi: az a személygépkocsi, amelyet egy éven túli időszakra vagy határozatlan időre adtak bérbe, feltéve, hogy a bérbe vevő üzembentartói jogát a hatósági nyilvántartásba bejegyezték.
+- 29. környezetvédelmi osztályjelzés: a KöHÉM rendelet 2014. augusztus 15-én hatályos 5. számú melléklet II. alpontja szerinti környezetvédelmi osztályjelzés. Ha a KöHÉM rendelet szerinti osztályjelzés nem ismert, akkor azt a személygépkocsi, tehergépjármű, autóbusz légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl.: forgalmi engedély, típusbizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztályjelzése: „6”. Ha a személygépkocsi, tehergépjármű, autóbusz osztályjelzése a KöHÉM rendelet 2014. augusztus 15-ét követő módosítása miatt „16”-nál nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztályjelzés „16” ,
+- 30. tartós bérletbe adott személygépkocsi: az a személygépkocsi, amelyet egy éven túli időszakra vagy határozatlan időre adtak bérbe, feltéve, hogy a bérbe vevő üzembentartói jogát a hatósági nyilvántartásba bejegyezték,
+- 31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing.
 
 ### Átmeneti és vegyes rendelkezések
 

@@ -8,7 +8,7 @@ Az Országgyűlés annak érdekében, hogy a hulladékgazdálkodási közszolgá
 
 1. § E törvény hatálya
 
-- a) az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaságra,
+- a) a környezetvédelmi hatóságra (a továbbiakban: minősítő),
 - b) a minősítést kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezetre,
 - c) a minősítés és a minősítés módosításának eljárási szabályaira,
 - d) az osztályba sorolás szempontrendszerére,
@@ -78,7 +78,7 @@ terjed ki.
 
 - a) a hulladékgazdálkodási közszolgáltatási engedély alapját képező, a környezetvédelmi hatóság által kiadott hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
 - b) a közszolgáltatási területre vonatkozó hatályos hulladékgazdálkodási közszolgáltatási engedélyt,
-- c) a közszolgáltatói hulladékgazdálkodási tervet, valamint
+- c)
 - d) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
 
 (4) A kérelmezőnek a (3) bekezdésben meghatározottak mellett – a kérelmezett minősítési osztálynak megfelelően – az 1–4. mellékletben meghatározott minősítési feltétel- és követelményrendszer szerint a következő dokumentumok másolatát is be kell nyújtania:
@@ -272,23 +272,47 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 28. § (1)
 
-(2)
+(2) A Ht. 12. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a közszolgáltatónak vagy a hulladékkezelőnek átadja.”
 
 29–34. §
 
 35. § (1)–(2)
 
-(3)
+(3) A Ht. 35. §-a helyébe a következő rendelkezés lép:
+
+„35. § (1) A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
+
+a) a hulladékgazdálkodási közszolgáltatás tartalmát, a közszolgáltatási terület határait;
+
+b) a közszolgáltató tagjai, illetve az alvállalkozó által végzett hulladékgazdálkodási tevékenységet, továbbá a tagoknak, illetve az alvállalkozónak a közszolgáltatás egészéhez viszonyított arányát, ha a közszolgáltatást a közszolgáltató több tagja, illetve alvállalkozó végzi;
+
+c) a hulladékgazdálkodási közszolgáltatás ellátásának rendjét és módját, a közszolgáltató és az ingatlanhasználó ezzel összefüggő jogait és kötelezettségeit, valamint a hulladékgazdálkodási közszolgáltatási szerződés egyes tartalmi elemeit;
+
+d) a hulladékgazdálkodási közszolgáltatás igénybevételének miniszteri rendeletben nem szabályozott módját és feltételeit;
+
+e) az ingatlanhasználót terhelő, miniszteri rendeletben nem szabályozott díjfizetési kötelezettséget, megfizetésének rendjét, az esetleges kedvezmények, továbbá az ingatlanhasználó részéről történő szüneteltetés eseteit;
+
+f) az üdülőingatlanokra vonatkozó sajátos szabályokat;
+
+g) a hulladékgazdálkodási közszolgáltatással összefüggő személyes adatok (a természetes személyazonosító adatok, valamint a lakcím) kezelésére vonatkozó rendelkezéseket.
+
+(2) A települési önkormányzat gondoskodik az elkülönített hulladékgyűjtési rendszer helyi feltételeinek megszervezéséről.”
 
 36. §
 
 37. § (1)
 
-(2)
+(2) A Ht. 39. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ingatlanhasználó az érintett ingatlan területén képződő települési hulladékot elkülönítetten gyűjti, és azt – a (2) és (3) bekezdésben foglalt kivétellel – a közszolgáltatónak rendszeres időközönként átadja.”
 
 (3)
 
-(4)
+(4) A Ht. 39. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Önkormányzati rendelet a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározottakon túl az ingatlanhasználót kötelezheti a települési hulladék további anyagfajta vagy hulladéktípus szerinti elkülönített gyűjtésére.”
 
 (5)
 

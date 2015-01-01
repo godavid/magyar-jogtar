@@ -124,7 +124,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 (2) Az ítélőtáblát az elnök vezeti.
 
-(3) Az ítélőtábla jogi személy.
+(3) Az ítélőtábla jogi személy. Az ítélőtábla gazdasági szervezettel rendelkezik.
 
 (4) Az ítélőtáblán tanácsok, büntető, valamint polgári kollégiumok működnek.
 

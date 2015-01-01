@@ -890,6 +890,8 @@ kell megfelelően alkalmazni.
 
 (5) A befektetési tevékenység folytatása során kiemelt figyelmet kell fordítani a portfólió megfelelő diverzifikáltságára, a helyesen alkalmazott kockázatmenedzsmentre, a kötelezettségek lejárati szerkezetéből adódó tényezőkre, a likviditási szükségletek biztosítására. A közvetett befektetési instrumentumok alkalmazása során biztosítani kell, hogy a tagokat vagy a foglalkoztatót közvetetten terhelő befektetési költségek mértéke – a közvetlen befektetésekhez kapcsolódó költségekhez mérten – indokolt legyen.
 
+(5a) A Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének jellegét, körét és összetettségét figyelembe véve értékeli a kockázatmenedzsment során alkalmazott hitelminősítési eljárások megfelelőségét, ideértve a 1060/2009/EK Európai Parlamenti és Tanácsi rendelet 3. cikk (1) bekezdés b) pontjában meghatározott hitelminősítő intézetek által kiadott hitelminősítések befektetési politikában meghatározott szerepét.
+
 (6) A foglalkoztatói nyugdíjszolgáltató intézmény befektetéseit az egyes eszközcsoportokon belül kibocsátónként is meg kell osztani.
 
 (7) A befektetési szabályoknak foglalkoztatói nyugdíjszolgáltató intézményenként kell megfelelni.
@@ -1345,4 +1347,5 @@ vonatkozó részletes szabályokat.
 - b) a Tanács 98/49/EK irányelve (1998. június 29.) a Közösségen belül mozgó munkavállalók és önálló vállalkozók kiegészítő nyugdíjra való jogosultságának védelméről;
 - c) az Európai Parlament és Tanács 2006/54/EK irányelve (2006. július 5.) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról,
 - d) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
-- e) a Tanács 2004. december 13-án kelt 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról.
+- e) a Tanács 2004. december 13-án kelt 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
+- f) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelvnek, az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek és az alternatív befektetésialap-kezelőkről szóló 2011/61/EU irányelvnek a hitelminősítések túlzott figyelembevétele tekintetében történő módosításáról.

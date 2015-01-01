@@ -21,7 +21,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - e) a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásának (a továbbiakban: nyilvántartás) vezetése és
 - f) a nyilvántartás adatairól – a törvényben meghatározott módon – tájékoztatás nyújtása.
 
-#### 3. §
+3. § Az e törvényben szabályozott polgári nemperes eljárásokban a bíróság az Országos Bírósági Hivatal (a továbbiakban: OBH) által működtetett, a bíróságok, valamint a felek és az eljárásban részt vevő egyéb személyek részére rendelkezésre álló, az interneten elérhető országosan egységes számítástechnikai rendszere (a továbbiakban: informatikai rendszer) használatával, gépi adatfeldolgozással jár el.
 
 4. § A bíróság tartja nyilván
 
@@ -48,7 +48,8 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 (3) Az e törvényben szabályozott polgári nemperes eljárásokban az eljárás szünetel, ha
 
 - a) a kérelmező nem biztosítja, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok kézbesíthetőek legyenek,
-- b) a belföldi idézési címmel és belföldi idézésű című képviselővel sem rendelkező kérelmező a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető.
+- b) a belföldi idézési címmel és belföldi idézésű című képviselővel sem rendelkező kérelmező a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető,
+- c) az elektronikus útra kötelezett vagy elektronikus utat választó kérelmező nem biztosítja – külön jogszabályban meghatározott módon – azt, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok elektronikus úton kézbesíthetőek legyenek.
 
 (4) Az eljárás szünetelésről és az eljárás szünetelés okán történő megszűnésről nem kell végzést hozni.
 
@@ -60,11 +61,83 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 6. § A beadványokat egy példányban – ha jogszabály a beadványra űrlapot rendszeresít – űrlapon kell benyújtani.
 
-#### 7–14. §
+7. § (1) A beadványokat elektronikus úton történő eljárás esetén kizárólag űrlapon lehet a bíróság részére, az OBH útján benyújtani.
+
+(2)
+
+(3)
+
+(4) Az elektronikus úton benyújtott beadványokhoz – jogszabályban meghatározott módon – csatolható melléklet.
+
+8. § (1) Az e törvényben szabályozott polgári nemperes eljárások során
+
+- a) a magánnyugdíjpénztár,
+- b) az önkéntes kölcsönös biztosító pénztár,
+- c) a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja,
+- d) a köztestület,
+- e) a kölcsönös biztosító egyesület,
+- f) a hegyközség,
+- g) a párt,
+- h) az országos sportági szakszövetség és
+- i) a szövetség
+
+a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés irányadó e szervezetek nyilvántartásba vétele iránti kérelme benyújtására is.
+
+(2) A beadvány – az (1) bekezdésben foglalton túl – kizárólag elektronikus úton terjeszthető elő, ha
+
+- a) a kérelmező jogi képviselővel jár el vagy
+- b) a kérelmező az egyszerűsített nyilvántartásba vételi (változásbejegyzési) eljárás lefolytatását kéri.
+
+(3) A közhasznú szervezetté minősítés iránti kérelmet kizárólag elektronikus úton lehet előterjeszteni, s az eljárásban a kérelmező a beadványokat kizárólag elektronikus úton terjesztheti elő. A közhasznú szervezet a beadványokat kizárólag elektronikus úton terjesztheti elő.
+
+(4) Az elektronikus eljárásra kötelezett kérelmező az Ectv.-ben meghatározott beszámolót és a közhasznúsági mellékletét (a továbbiakban együtt: beszámoló) elektronikus úton küldi meg a bíróság részére.
+
+9. § (1) A jogi képviselő feladata az általa készített okiratok mellett a kérelem mellékletét képező, nem általa készített okiratok elektronikus okirati formába történő átalakítása. A jogi képviselő az eredetileg nem elektronikus formában készült okiratok megőrzéséről az ügyvédekről szóló törvényben szabályozott módon gondoskodik.
+
+(2) Az elektronikus útra kötelezett – ha nem jogi képviselővel jár el – és az elektronikus eljárást választó kérelmező köteles gondoskodni a beadvány mellékleteit képező papír alapú okiratok elektronizálásáról és a papír alapú okiratok őrzéséről.
+
+(3) Az elektronikus útra kötelezett – ha nem jogi képviselővel jár el – és az elektronikus eljárást választó kérelmező, illetve a jogi képviselő köteles a papír alapú okiratot a bíróság felhívására bemutatni az elektronikus okirattal való egyezőség megállapítása érdekében, ha e tekintetben a bíróságnak alapos kétsége merül fel. Az országos ügyvédi levéltárban elhelyezett okiratok bemutatásáról a Magyar Ügyvédi Kamara gondoskodik.
+
+(4) A beadványt és annak elektronikus okirati formába átalakított mellékleteit az elektronikus útra kötelezett – ha nem jogi képviselővel jár el – és az elektronikus eljárást választó kérelmezőnek, illetve a jogi képviselőnek kell külön jogszabályban meghatározott módon, az informatikai rendszeren keresztül a bíróságnak megküldenie. A kérelem benyújtására vonatkozó határidők számítása szempontjából a beadvány informatikai rendszerbe érkezésének időpontja irányadó.
+
+(5) A hatóságok, pénzforgalmi szolgáltatók vagy más szervek által kiadott – törvény eltérő rendelkezésének hiányában – minősített elektronikus aláírással ellátott elektronikus dokumentum közvetlenül csatolható a kérelemhez.
+
+(6) E § alkalmazásában az okirat akkor tekintendő elektronikus okirati formába átalakítottnak, ha az okirat elektronikus másolatának képe megegyezik a papír alapú okiratéval.
+
+10. § Azt, hogy a beadvány elektronikus benyújtására szolgáló, e törvényben és külön jogszabályban meghatározott módokat és technikai eszközöket jogszerűen alkalmazzák, vélelmezni kell.
+
+11. § (1) Az elektronikus útra nem kötelezett kérelmező beadványát választása szerint elektronikus úton is benyújthatja, ebben az esetben az eljárás folyamán – az eljárás jogerős befejezéséig – a bírósággal a kapcsolatot elektronikus úton kell tartania.
+
+(2) Ha az elektronikus útra nem kötelezett kérelmező eljárására az elektronikus utat választotta, utóbb, a beadvány papír alapú benyújtásával egyidejűleg kérheti a bíróságtól a papír alapú eljárásra való áttérés engedélyezését. A kérelmezőnek a kérelemben valószínűsítenie kell, hogy körülményeiben olyan változás következett be, amely miatt az elektronikus úton történő eljárás a továbbiakban számára aránytalan megterhelést jelentene. A papír alapú eljárásra való áttérés engedélyezése esetén erről külön végzést hozni nem kell, az áttérés iránti kérelem elutasításáról a bíróság végzéssel határoz, a végzés ellen fellebbezésnek nincs helye.
+
+(3) A papír alapú eljárásra való áttérés iránti kérelem elutasítása esetén azonos okból ismételten áttérés iránti kérelmet nem lehet benyújtani, az ennek ellenére benyújtott áttérés iránti kérelmet a bíróság érdemi vizsgálat nélkül elutasítja.
+
+(4) Ha a bíróság az áttérés iránti kérelmet elutasítja, felhívja a kérelmezőt, hogy a papír alapon megküldött beadványt szabályszerűen elektronikus úton nyújtsa be. Ha a kérelmező e felhívásnak nem tesz eleget, a bíróság a kérelmet elutasítja. A bíróság a felhívást, az áttérés iránti kérelem elutasítását és a kérelem elutasítását papír alapon közli a kérelmezővel.
+
+12. § Ha az elektronikus útra nem kötelezett kérelmező az eljárás folyamatban léte alatt kíván az elektronikus útra áttérni, beadványát elektronikus úton kell benyújtania, és a továbbiakban a bírósággal a kapcsolatot elektronikus úton kell tartania.
+
+13. § Elektronikus úton történő beadás esetén a beadvány benyújtásáról annak benyújtója az informatikai rendszer útján automatikusan visszaigazolást kap.
+
+14. § (1) A bíróság – jogszabályban meghatározott módon – rögzíti az informatikai rendszerben
+
+- a) a papír alapú űrlap e törvényben és külön jogszabályban meghatározott adatait,
+- b) a papír alapú űrlapot,
+- c) a papír alapú űrlaphoz csatolt mellékleteteket és
+- d) az elektronikus beadványt és mellékleteit.
+
+(2) A papír alapú iratok – 9. § (6) bekezdésben meghatározott módon történő – elektronizálására a bíróságnak öt munkanap áll rendelkezésére. Az iratok elektronizálásához szükséges időt – legfeljebb azonban öt munkanapot – az ügyintézési határidő számítása szempontjából figyelmen kívül kell hagyni.
 
 #### 5. Kézbesítés
 
-#### 15–16. §
+15. § (1) Az elektronikus útra kötelezett kérelmező és az elektronikus utat választó kérelmező részére a bíróság az iratokat a Pp.-ben meghatározottak szerint, elektronikus úton kézbesíti.
+
+(2) Az (1) bekezdés szerint kézbesített irat megőrzi közokirati minőségét.
+
+(3) Az elektronikus útra kötelezett kérelmező és az elektronikus utat választó kérelmező részére a másodfokú bíróság végzését az elsőfokú bíróság kézbesíti az (1) és (2) bekezdés szabályainak alkalmazásával.
+
+16. § (1) A bíróság az ügyész részére elektronikus úton küldi meg az iratokat.
+
+(2) A bíróság az állami adóhatósággal és a Központi Statisztikai Hivatallal a kapcsolatot az informatikai rendszer alkalmazásával elektronikus úton tartja.
 
 17. § (1) Ha a belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező kérelmező a szervezet nyilvántartásba vételére irányuló kérelem benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető, a bíróság felhívja, hogy a felhívás kézhezvételétől számított harminc napon belül a kézbesítési megbízott nevét és címét jelentse be, és – szükség szerint – egyidejűleg a kézbesítési megbízottal kötött és teljes bizonyítóerejű magánokiratba vagy közokiratba foglalt megbízási szerződését nyújtsa be. A felhívás a (2) bekezdésben írt jogkövetkezményekre való tájékoztatást tartalmaz.
 
@@ -89,7 +162,11 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 #### 6. Egyéb általános szabályok
 
-#### 19. §
+19. § (1) Ha e törvény vagy az igazságügyért felelős miniszter rendelete másként nem rendelkezik, a bíróság a határozatait és más iratait az informatikai rendszer alkalmazásával is előállíthatja.
+
+(2) E törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletek alapján a bíróság által az informatikai rendszer útján előállított jegyzőkönyv (igazolás), határozat (értesítés), és az ezekről kiállított papír alapú másolat (kiadmány) közokirat. Ugyanilyen bizonyító erővel bizonyítja a kérelmezők beadványairól, valamint a kézbesítési bizonyítványról (tértivevényről) a bíróság vagy az informatikai rendszer által készített másolat, illetve ezen iratokról a rendszerbe bevitt adatok, valamint ezen adatok alapján készített okirat azt, hogy annak tartalma az eredeti okiratéval megegyezik.
+
+(3) A bíróság által az informatikai rendszer alkalmazásával előállított vagy az informatikai rendszer útján automatizáltan előállított irat a Pp. 195. §-a szerinti elektronikus közokirat.
 
 ### II. Fejezet — A KÉRELMEK TARTALMI ELEMEI
 
@@ -114,9 +191,20 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 (3) A szervezet valamely szervezeti egységének jogi személlyé nyilvánítása esetén a nyilvántartásba vétel iránti kérelemnek tartalmaznia kell a következőket is:
 
 - a) a jogi személy szervezeti egység nevét, székhelyét és
-- b) a jogi személy szervezeti egység ügyintéző és képviseleti szervének nevét.
+- b) a jogi személy szervezeti egység ügyintéző és képviseleti szervének nevét, és a jogi személy szervezeti egység képviselőjének nevét és anyja születési nevét.
 
 (4) A kérelmező erre irányuló kérelme esetén a kérelemnek tartalmaznia kell a szervezet rövidített vagy magyar nyelvű elnevezésének megfelelő idegen nyelvű elnevezését is.
+
+(5) A kérelemnek – ha az a szervezet adószámának, illetve statisztikai számjelének megállapítása, illetve beszerzése iránti kérelmet is tartalmaz – az (1) bekezdésben meghatározottakon kívül tartalmaznia kell:
+
+- a) a szervezet képviselőjének adóazonosító számát,
+- b) az általános forgalmi adó alanyának az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti, az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozatát,
+- c) a szervezet kiegészítő jellegű gazdasági főtevékenységét és ténylegesen végzett tevékenységi köreit azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével,
+- d) a szervezet gazdálkodási formáját (GFO kód szerint).
+
+(6) A kérelemnek – ha a kérelem a szervezet jogi személy szervezeti egysége adószámának, illetve statisztikai számjelének megállapítása, illetve beszerzése iránti kérelmet is tartalmaz – tartalmaznia kell az (5) bekezdésben meghatározott adatokat, azzal, hogy a kérelemnek a szervezet képviselőjének adóazonosító száma helyett a jogi személy szervezeti egység képviselőjének adóazonosító számát kell tartalmaznia.
+
+(7) A bíróság – adószám, illetve statisztikai számjel megállapítása, illetve beszerzése iránti kérelem esetén – az informatikai rendszer útján adja át az állami adó- és vámhatóság, illetve a Központi Statisztikai Hivatal részére az (1), illetve a (3) bekezdésben meghatározott, az adószám, illetve a statisztikai számjel megállapítása, illetve beszerzése érdekében szükséges adatokat. Továbbá a bíróság átadja a szervezet nyilvántartási számát is, ha a kérelem a szervezet jogi személy szervezeti egysége adószámának, statisztikai számjelének beszerzésére irányul.
 
 21. § (1) A kérelemhez csatolni kell
 
@@ -213,7 +301,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 - a) az eljárásra a bíróság joghatósága törvény, európai uniós jogszabály vagy nemzetközi egyezmény rendelkezése alapján kizárt,
 - b) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat vagy a kérelemhez a meghatalmazást nem csatolták vagy
-- c)
+- c) a jogi képviselővel rendelkező kérelmező vagy az elektronikus eljárásra kötelezett kérelmező kérelmét nem elektronikus úton terjesztette elő,
 - d) a kérelmezőnek nincs perbeli jogképessége,
 - e) a szervezet alapításában olyan alapító vesz részt, aki a szervezet alapításában törvény alapján nem vehet részt vagy
 - f) a kérelmet nem a jogszabályban arra feljogosított személy nyújtja be.
@@ -246,7 +334,17 @@ sem.
 
 #### 13. Az egyszerűsített nyilvántartásba vételi eljárás
 
-#### 34. §
+34. § (1) Ha az egyesület [4. § a) pont] vagy az alapítvány nyilvántartásba vétele iránti kérelemhez (változásbejegyzési kérelemhez) a jogszabályban meghatározott mintaokirat alapján készült létesítő okiratot csatolnak, a nyilvántartásba vételi kérelemhez csatolt nyomtatványon ezt a körülményt fel kell tüntetni.
+
+(2) Az (1) bekezdés szerinti kérelemhez kizárólag a jogszabályban meghatározott mintaokirat szerinti mellékleteket lehet csatolni.
+
+(3) Ha a mintaokirat kiegészítésére vagy bármely rendelkezésének elhagyására kerül sor – ideértve azt az esetet is, ha elhagyásra kerül a mintaokirat jellegre történő utalás – a bíróság a kérelmet érdemi vizsgálat nélkül elutasítja.
+
+(4) A nyilvántartásba vételi kérelem elbírálásáról a bíróság a kérelem érkezését követő tizenöt napon belül határoz. A bíróság e határidőn belül intézkedik a nyilvántartásba vételt elrendelő, illetőleg a nyilvántartásba vételi kérelmet elutasító végzés kérelmező és ügyész részére történő kézbesítése iránt.
+
+(5) A bíróság az egyszerűsített nyilvántartásba vétel iránti kérelmet akkor is elutasítja, ha hiánypótlási felhívás kibocsátásának vagy áttételnek lenne helye.
+
+(6) Ha e § másképp nem rendelkezik az egyszerűsített nyilvántartásba vétel során e törvény rendelkezéseit megfelelően alkalmazni kell.
 
 #### 14. A szervezet neve, elnevezése
 
@@ -293,13 +391,47 @@ sem.
 
 39. § (1) A beszámolót – ha a szervezet külön törvény rendelkezése alapján a beszámoló letétbe helyezésére köteles – az OBH részére kell megküldeni.
 
-(2)–(7)
+(2) Az elektronikus úton küldött beszámoló közzétételére az országos névjegyzékben, napi feltöltéssel kerül sor. A papír alapon megküldött beszámoló elektronizálására és az országos névjegyzékbe történő feltöltésére az OBH-nak húsz munkanap áll rendelkezésére.
 
-#### 40. §
+(3) Ha a beszámolót elektronikus úton küldték meg a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével az informatikai rendszer útján elektronikus igazolást kell küldeni.
+
+(4) A beszámoló megküldésére vonatkozó határidők tekintetében az OBH-hoz történő – elektronikus úton történő megküldés esetén az informatikai szempontból szabályszerű – érkezés időpontja irányadó. A beszámoló akkor tekinthető informatikai szempontból szabályszerűnek, ha a beszámolóhoz a jogszabályban előírt mellékleteket csatolták és a mellékletek tartalma, formátuma informatikailag értelmezhető.
+
+(5) A közzétett beszámoló – az informatikai rendszer útján – az országos névjegyzékben a szervezet nevének vagy nyilvántartási számának megadásával, keresőprogram segítségével is megismerhető.
+
+(6) A beszámolót és – papír alapú megküldés esetén – a beszámoló elektronikus másolatát is az OBH őrzi. Az elektronikus úton megküldött beszámolót úgy kell megőrizni, hogy az kizárja az utólagos módosítás lehetőségét, folyamatosan biztosított legyen az ahhoz való hozzáférés, valamint az elektronikus okirat értelmezhetősége (olvashatósága). Az elektronikus okiratot védeni kell a jogosulatlan hozzáférés, módosítás, törlés vagy megsemmisítés ellen is.
+
+(7) A bíróság az informatikai rendszer útján ellenőrzi a beszámoló megküldésének tényét és időpontját.
+
+40. § (1) Ha a szervezet a beszámolót elektronikus úton küldi meg az OBH részére, ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának.
+
+(2) A beszámolónak az OBH részére történő megküldésével a szervezet letétbe helyezési és közzétételi kötelezettségének is eleget tesz.
+
+(3) A számviteli törvény és az Ectv. szerinti beszámoló elektronikus okiratként történő elkészítése nem jogosít a beszámoló összeállítását (formáját, szerkezetét, tagolását) illetően a számviteli törvényben és az Ectv.-ben előírt rendelkezésektől való eltérésre.
+
+(4) A beszámolót a szervezetnek az adózás rendjéről szóló 2003. évi XCII. törvény 7. §-ának (2) bekezdése szerinti képviselője küldi meg a bíróság részére.
+
+(5) Ha a szervezet a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott, úgy a (4) bekezdés szerinti személy egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben a (4) bekezdés szerinti személy a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és amennyiben a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a bíróság, illetve a törvényességi ellenőrzést folytató ügyészség felhívására bemutatni.
+
+(6) A beszámolóhoz kötelező könyvvizsgálat esetén mellékelni kell – a független könyvvizsgálói jelentést is. E törvény beszámolóra vonatkozó előírásait a könyvvizsgálói jelentésre is megfelelően alkalmazni kell.
+
+(7) A bíróság a beszámolót az országos névjegyzékben – az informatikai rendszer útján – közzéteszi.
 
 #### 16. A szervezet adószáma és statisztikai számjelének nyilvántartásban történő rögzítése
 
-#### 41. §
+41. § (1) Ha a nyilvántartásba vételi kérelem a szervezet, illetve a jogi személy szervezeti egység adószámának és statisztikai számjelének megállapítása, illetve beszerzése iránti kérelmet is tartalmaz, úgy a bíróság az adószám, illetve statisztikai számjel megállapításához szükséges adatokat, nyilatkozatokat a nyilvántartásba vételről szóló határozat jogerőre emelkedése megállapításának napját követő öt munkanapon belül az informatikai rendszer alkalmazásával továbbítja az állami adó- és vámhatósághoz. Az állami adó- és vámhatóság az adószám kiadását követően a kérelmet továbbítja a Központi Statisztikai Hivatalhoz, egyúttal átadja részére a szervezet adószámát is. Az állami adó- és vámhatóság és a Központi Statisztikai Hivatal a kérelem hozzájuk érkezésének napján a létrehozott adószámról és a statisztikai számjelről tájékoztatást küld a bíróság részére. Ugyanígy kell eljárni abban az esetben, ha változásbejegyzési eljárás keretében kérik az adószám, statisztikai számjel megállapítását, illetve beszerzését, azzal az eltéréssel, hogy a kérelmet a bíróság – az informatikai rendszer útján – a kérelem hozzá érkezésétől számított öt munkanapon belül továbbítja az állami adó- és vámhatósághoz.
+
+(2) Ha a változásbejegyzési kérelem a szervezet vagy a szervezet jogi személy szervezeti egysége új képviselőjének nyilvántartásba vételére irányul és a szervezet vagy szervezet jogi személy szervezeti egysége adószámmal és statisztikai számjellel rendelkezik, a változásbejegyzési eljárás keretében be kell jelenteni az új képviselő adóazonosító számát.
+
+(3) Az (1) bekezdéstől eltérően az állami adó- és vámhatóság az adószámot harminc napon belül állapítja meg, és az adószámot és a kérelmet harminc napon belül továbbítja a Központi Statisztikai Hivatal részére, ha a szervezet az adószám, illetve a statisztikai számjel megállapítása, illetve beszerzése iránti kérelmét papír alapon nyújtja be a bíróságnak. Az állami adó- és vámhatóság és a Központi Statisztikai Hivatal az adószámról és a statisztikai számjelről azok létrehozása napján tájékoztatást küld a bíróság részére.
+
+(4) A bíróság a szervezet adószámát és statisztikai számjelét az állami adó- és vámhatóság, illetve a Központi Statisztikai Hivatal tájékoztatása alapján hivatalból, elektronikus úton jegyzi be a nyilvántartásba, az adat bejegyzéséről nem kell végzést hozni.
+
+(5) A bíróság az állami adó- és vámhatóság elektronikus értesítése alapján, hivatalból jegyzi be a szervezet adószáma, közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
+
+(6) Az állami adó- és vámhatóság az általa elrendelt végrehajtás nyilvántartásba bejegyzendő adatait, illetve a végrehajtás megszűnésére vonatkozó adatait – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak szerint, elektronikus úton – közli a bírósággal.
+
+(7) Ha a szervezet vagy a szervezet jogi személy szervezeti egysége adószámmal rendelkezik, változásbejegyzési kérelem benyújtásával kell bejelenteni az adószám törlése iránti kérelmet. A bíróság az adószám törlése iránti kérelmet öt munkanapon belül továbbítja az állami adó- és vámhatóság részére. Az állami adó- és vámhatóság a kérelem alapján – az informatikai rendszer útján – tájékoztatást ad arról, hogy az adószám törlés alatt van. A nyilvántartásba az állami adó- és vámhatóság tájékoztatása alapján a bíróság az adószám mellett a nyilvántartásban feltünteti a „megszűnt” toldatot, az adat bejegyzéséről nem kell végzést hozni. Az állami adó- és vámhatóság az adószám törléséről az adószám törlése napján, elektronikus úton tájékoztatja a bíróságot és a Központi Statisztikai Hivatalt, a bíróság az állami adó- és vámhatóság tájékoztatása alapján az adószámot és a statisztikai számjelet a nyilvántartásból haladéktalanul törli, az adószám és a statisztikai számjel törléséről nem kell végzést hozni.
 
 #### 17. A nyilvántartásból való törlésére irányuló eljárás általános szabályai
 
@@ -316,6 +448,8 @@ sem.
 (2) Ha a bíróság a szervezetet feloszlatja, megszünteti vagy a szervezet megszűnését megállapítja, a feloszlatásról, megszüntetésről vagy a megszűnés megállapításáról szóló jogerős ítéletet megküldi a nyilvántartást vezető bíróságnak.
 
 (3) A (1) bekezdés b) pontjában meghatározott esetben a bíróság a szervezetet – kivéve, ha a szervezetre irányadó jogszabály másképp rendelkezik – a kényszer-végelszámolási eljárás vagy a felszámolási eljárás lefolytatását követően törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
+
+43/A. § A bíróság a szervezetet akkor törölheti a nyilvántartásból, ha az állami adó- és vámhatóság elektronikus úton arról tájékoztatja, hogy a szervezetnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez és a szervezet a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban. Szftv.) 6/C. § szerinti elszámolásra nem kötelezett, illetve az elszámolási kötelezettségének eleget tett. Ha a tájékoztatás szerint az állami adó- és vámhatóság a szervezetnél eljárást folytat, ellenőrzést vagy végrehajtást kezdeményez, vagy az Szftv. 6/C. § szerinti elszámolásra kötelezett, amely elszámolási kötelezettségének nem tett eleget, a szervezet csak az adóhatósági eljárások jogerős befejezéséről szóló, végelszámolás esetén pedig ezen felül a köztartozást érintően nemlegesnek minősülő, továbbá a Szftv. 6/C. § szerinti elszámolásról szóló elektronikus tájékoztatást követően törölhető a nyilvántartásból.
 
 #### 17/A. A bíróság feladatai a szervezet végelszámolása során
 
@@ -360,21 +494,21 @@ is.
 - a) az Ectv.-ben foglalt követelmények teljesítése a letétbe helyezett beszámolókból megállapítható és
 - b) a létesítő okirat tartalmazza az Ectv.-ben előírt rendelkezéseket.
 
-(5) A kérelemhez csatolni kell a vezető tisztségviselő nyilatkozatát arról, hogy nem esik az Ectv.-ben meghatározott kizáró ok alá és a korábbi két év beszámolóját.
+(5) A kérelemhez csatolni kell a vezető tisztségviselő nyilatkozatát arról, hogy nem esik az Ectv.-ben meghatározott kizáró ok alá.
 
 (6) Ha a szervezet úgy nyilatkozik, hogy a bírósághoz korábban benyújtott létesítő okirat nem tartalmazza az Ectv.-ben előírt rendelkezéseket, a kérelemhez csatolni kell a létesítő okirat módosítását, illetve egységes szerkezetbe foglalt szövegét. A kérelemhez a belső szabályzatot is csatolni kell, ha törvény alapján a szervezet szabályzatot készített.
 
-(7)
+(7) Ha a kérelmező a korábbi két év beszámolóját papír alapon küldte meg az OBH részére, azok elektronikus űrlapként elkészített másolatát – a bíróság felhívására – meg kell küldeni a bíróság részére. A bíróság akkor hívhatja fel a szervezetet a korábbi két év beszámolója elektronikus űrlapként elkészített másolatának megküldésére, ha a papír alapon megküldött beszámolók OBH által készített elektronikus másolatai az automatizált döntéshozatalra nem használhatóak fel.
 
 (8) Ha a kérelemhez a (6) bekezdés alapján létesítő okiratot csatolnak, a bíróság a változásbejegyzési kérelemről és a közhasznú jogállás nyilvántartásba vételéről egy eljárásban dönt.
 
-(9) A (8) bekezdés kivételével a bíróság a beszámolók, és a bírósághoz korábban benyújtott létesítő okirat alapján dönt a szervezet közhasznúvá minősítéséről, ebben az esetben az eljárás során hiánypótlási felhívás kibocsátásának nincs helye.
+(9) A (7) és (8) bekezdés kivételével a bíróság a letétbe helyezett beszámolók – informatikai rendszer útján történő automatizált vizsgálatával –, és a bírósághoz korábban benyújtott létesítő okirat alapján dönt a szervezet közhasznúvá minősítéséről, ebben az esetben az eljárás során hiánypótlási felhívás kibocsátásának nincs helye.
 
 44/A. § (1) 2015. december 31-éig a bíróság a közhasznú szervezet letétbe helyezett beszámolóját a letétbe helyezést követő hatvan napon belül megvizsgálja; ha a beszámoló alapján azt állapítja meg, hogy a szervezet a közhasznúvá minősítés feltételeinek nem felel meg, a szervezet közhasznú minősítésének megszüntetéséről és az erre vonatkozó adat nyilvántartásból való törléséről határoz.
 
 (2) 2015. december 31-éig a cégbíróság, és ha a nyilvántartásba vételre nem bíróság jogosult, az erre jogosult szervezet az (1) bekezdés és a 44. § rendelkezései szerint jár el – az eljárására irányadó szabályok szerint – az általa nyilvántartott szervezet közhasznúvá minősítése és a közhasznú jogállás nyilvántartásba történő bejegyzésére, illetve a közhasznú minősítés megszüntetése és a közhasznú jogállás nyilvántartásból való törlésére irányuló eljárás során.
 
-45. § (1)
+45. § (1) A bíróság a közhasznú szervezet letétbe helyezett beszámolóját a letétbe helyezést követő hatvan napon belül – az informatikai rendszer alkalmazásával, automatizált módon – megvizsgálja. Ha a beszámoló alapján azt állapítja meg, hogy a szervezet a közhasznúvá minősítés feltételeinek nem felel meg, a szervezet közhasznú minősítésének megszüntetéséről és az erre vonatkozó adat nyilvántartásból való törléséről határoz.
 
 (2) A cégbíróság és ha a nyilvántartásba vételre nem bíróság jogosult, az erre jogosult szervezet az (1) bekezdés és a 44. § rendelkezései szerint jár el – az eljárására irányadó szabályok szerint – az általa nyilvántartott szervezet közhasznúvá minősítése és a közhasznú jogállás nyilvántartásba történő bejegyzésére, illetve a közhasznú minősítés megszüntetése és a közhasznú jogállás nyilvántartásból való törlésére irányuló eljárás során.
 
@@ -382,11 +516,11 @@ is.
 
 46. § (1) Ha e § másképp nem rendelkezik a törvény elsőfokú eljárásra vonatkozó rendelkezéseit a másodfokú eljárásban is megfelelően alkalmazni kell.
 
-(2)
+(2) A nem az ügy érdemében hozott fellebbezhető végzések elleni fellebbezést és az ahhoz csatolt mellékleteket az elektronikus útra kötelezett és az elektronikus utat választó kérelmezőnek elektronikus úton kell a bíróság részére megküldenie.
 
 (3)–(4)
 
-(5)
+(5) Az ügyész a fellebbezést elektronikus úton küldi meg a bíróság részére.
 
 (6) A másodfokú bíróság a fellebbezésről a felterjesztéstől számított hatvan napon belül dönt. Ha a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság elnöke felhívja a bírói tanács elnökét, hogy soron kívül, nyolc napon belül tegye meg a szükséges intézkedéseket a fellebbezés elbírálása érdekében. A bíró a kérelem elbírálását követően a bíróság elnökének beszámol arról, hogy mi volt az indoka annak, hogy döntési kötelezettségének határidőn belül nem tett eleget.
 
@@ -398,7 +532,7 @@ is.
 
 #### 21. Az alapítvány nyilvántartásba vételére irányuló kérelem tartalmi elemei
 
-48. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét) is.
+48. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét), anyja születési nevét is.
 
 (2) Az alapítvány nyilvántartásba vétele iránti kérelemben nyilatkozni kell a következőkről is:
 
@@ -535,6 +669,8 @@ is.
 
 (6) Az alapítvány egyesülésének vagy szétválásának bejegyzése iránti kérelmet a bíróság akkor is elutasítja, ha az egyesülés vagy szétválás az egyesülő vagy szétváló alapítvány alapítványi vagyonának csorbításával vagy alapítványi céljának veszélyeztetésével jár.
 
+(7) Az alapítványok egyesülésének vagy szétválásának bejegyzésére akkor kerülhet sor, ha az állami adó- és vámhatóság – a bírósági elektronikus értesítést követő öt munkanapon belül – elektronikus úton arról tájékoztatja a bíróságot, hogy az átalakulással érintett alapítványnál az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás nincs folyamatban, vagy az állami adó- és vámhatóság ilyen adóigazgatási eljárást nem kezdeményez. Ha az állami adó- és vámhatóság tájékoztatása szerint az alapítványnál ilyen eljárás van folyamatban, vagy az állami adó- és vámhatóság ilyen eljárást kezdeményez, az átalakulás az adóigazgatási eljárás jogerős befejezéséről szóló elektronikus tájékoztatást követően, ennek hiányában az átalakulás bejegyzése iránti kérelem elbírálására nyitva álló határidő kezdetétől számított kilencvenedik napon jegyezhető be.
+
 #### 29. Az alapítvány megszűnésének megállapítására irányuló polgári nemperes eljárás
 
 59. § (1) Az alapítvány megszűnésének megállapítására irányuló kérelem vagy indítvány esetén a kérelemhez csatolni kell a kérelmet vagy az indítványt alátámasztó okiratokat.
@@ -579,7 +715,7 @@ is.
 
 #### 33. Az egyesület nyilvántartásba vétele iránti kérelem tartalmi elemei
 
-63. § Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:
+63. § Az egyesület nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell az egyesület képviselőjének anyja születési nevét és a vezető tisztségviselői megbízás időtartamát is. Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:
 
 - a) ha alakuló ülés tartására került sor, az egyesület alakuló ülésének jegyzőkönyvét és jelenléti ívét, valamint az alapító tagok nevével, lakóhelyével (székhelyével) és aláírásával ellátott, az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket, vagy
 - b) ha alakuló ülés tartására nem került sor, az alapító tagoknak az alapszabályt elfogadó egybehangzó akaratnyilatkozatát tartalmazó okiratot és az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket és
@@ -617,33 +753,121 @@ is.
 
 71. § (1) Ha az egyházakkal való kapcsolattartásért felelős miniszter arról értesíti a bíróságot, hogy az Országgyűlés a vallási tevékenységet végző szervezetet egyházként ismerte el, a bíróság a vallási tevékenységet végző szervezetet a bírósági nyilvántartásból törli.
 
-(2) Ha a cégbíróság a nyilvántartásba vételről szóló jogerős végzés megküldésével, arról értesíti a bíróságot, hogy a kölcsönös biztosító egyesületet külön törvény alapján részvénytársaságként vette nyilvántartásba, a bíróság a kölcsönös biztosító egyesületet hivatalból törli a nyilvántartásból, a törlésről végzést hozni nem kell.
+(2) Ha a cégbíróság a nyilvántartásba vételről szóló jogerős végzés elektronikus úton történő megküldésével, arról értesíti a bíróságot, hogy a kölcsönös biztosító egyesületet külön törvény alapján részvénytársaságként vette nyilvántartásba, a bíróság a kölcsönös biztosító egyesületet hivatalból törli a nyilvántartásból, a törlésről végzést hozni nem kell.
 
 ### V. Fejezet — AZ INFORMATIKAI RENDSZER ÉS ALKALMAZÁSAI
 
 #### 37. Az informatikai rendszer
 
-#### 72–78. §
+72. § (1) Az informatikai rendszer a következő főbb alkalmazásokból épül fel:
+
+- a) a civil és egyéb cégnek nem minősülő szervezetek nyilvántartása: az e törvény szerint nyilvántartásba vett szervezetek törvényszéki nyilvántartása,
+- b) országos névjegyzék: a törvényszéki nyilvántartások adatainak egységes, az interneten, azonosítás nélkül elérhető, országosan egységes gyűjteménye,
+- c) a kérelmek fogadását biztosító alkalmazás: az e törvény szerinti iratok elektronikus úton történő fogadását szolgáló alkalmazás,
+- d) ügyviteli alkalmazás: a bíróságon belüli ügyintézés szervezett rendjét biztosító alkalmazás,
+- e) iratkezelési alkalmazás: a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény szerinti iratkezelési feladatok teljesítését és a bírósági ügyvitelnek megfelelő iratkezelési feladatok teljesítését és a biztosító alkalmazás,
+- f) kapcsolattartó alkalmazás: a bíróság és más hatóság közötti informatikai kapcsolatot biztosító alkalmazás,
+- g) a beszámolót kezelő alkalmazás.
+
+(2) Az informatikai rendszert úgy kell kialakítani, hogy annak működése során az elektronikus aláírási technológia alkalmazható legyen.
+
+(3) Az informatikai rendszert kialakítása során országosan egységes adatbázis alkalmazásával kell biztosítani a törvényszéki nyilvántartások vezetését.
+
+73. § (1) Az informatikai rendszer – a (3) bekezdésben meghatározott kivétellel – azonosítást követően vehető igénybe. Szerep alapú jogosultságkezelés (jogosultságkezelő rendszer és mechanizmus) útján kell biztosítani, hogy a felhasználó az informatikai rendszer azon alkalmazásaihoz és olyan módon férjen hozzá, ahogy azt az OBH által készített jogosultságkezelési szabályzat előírja.
+
+(2) Az e törvényben szabályozott polgári nemperes eljárásokban a kifejezetten emberi közreműködést nem igénylő, e törvény szerinti eljárási cselekmények – ha azok megtételének törvényi feltételei fennállnak – az informatikai rendszer útján az eljáró bíróság nevében automatizáltan is végezhetőek.
+
+(3) Az informatikai rendszer országos névjegyzék alkalmazása azonosítás nélkül megtekinthető.
+
+74. § (1) Az informatikai rendszerben kell tárolni
+
+- a) az elektronikus úton érkezett beadványokat és azok mellékleteit,
+- b) a papír alapon érkezett beadványok és mellékleteik elektronikus másolatait, továbbá az űrlapok adattartamát,
+- c) a bíróság által hozott végzéseket és
+- d) az eljárás során érkezett vagy keletkezett egyéb iratokat, illetve – ha azok papír alapon érkeznek – azok elektronikus másolatait.
+
+(2) Az eljárás befejezését követően az informatikai rendszerben tárolt adatokat biztonságos – az adatok sértetlenségét, hozzáférhetőségét biztosító – módon kell megőrizni (elmenteni, illetve tárolni).
+
+(3) Az OBH feladata annak biztosítása, hogy a (2) bekezdésben meghatározott módon megőrzött adatok folyamatosan hozzáférhetőek legyenek, az olvashatóságukhoz szükséges technológia hozzáférhető legyen. Az OBH feladata olyan informatikai környezet kialakítása, amely a (2) bekezdésben meghatározott módon megőrzött adatok hozzáférhetővé válását legfeljebb öt munkanapon belül biztosítja. Ha az eljárás lefolytatásához a (2) bekezdésben meghatározott módon megőrzött adatokhoz való hozzáférés szükséges, az ügyintézési határidőt az adatok hozzáférhetővé válását követően kell számítani.
+
+(4) A papír alapon érkezett irat elektronikus másolata akkor megfelelő, ha az okirat elektronikus másolatának képe megegyezik a papír alapú okiratéval.
+
+75. § A nyilvántartást vezető bíróság a Pp. 124. § (4) bekezdésének a) pontját azzal az eltéréssel alkalmazza, hogy ha az irat beszerzése másik nyilvántartást vezető bíróságtól szükséges, a szervezetre vonatkozó iratokat az informatikai rendszer útján szerzi be, ha azok az informatikai rendszerben elérhetőek.
+
+76. § (1) Az informatikai rendszer alkalmazásával naplót kell készíteni
+
+- a) a rendszer üzemben tartási idejéről,
+- b) a felhasználók adatbevitelének és adatrögzítésének tényéről az adatbevitel, illetve adatrögzítés időpontjának, valamint az azt végző személy nevének megjelölésével,
+- c) a rendszer által automatikusan elvégzett eljárási cselekményekről, az eljárási cselekmény és annak időpontjának feltüntetésével,
+- d) az üzemzavar terjedelméről és időtartamáról,
+- e) a nyilvános és a nem nyilvános iratokba történő iratbetekintés iránti kérelem vagy megkeresés teljesítéséről az iratokba betekintő nevének és címének, időpontjának, az érintett iratnak, valamint az iratbetekintést biztosító személy nevének, – nem nyilvános iratok esetén – az iratbetekintés jogalapjának feltüntetésével,
+- f) a naplóból történt adatszolgáltatásról a szolgáltatott adatok körének, az adatigénylő nevének és címének, az adatigénylésben feltüntetett adatigénylési jogalapnak, az adatszolgáltatás időpontjának, valamint az adatszolgáltatást végző azonosító adatainak feltüntetésével.
+
+(2) A napló adatait meg kell őrizni és biztosítani kell, hogy a napló adatok folyamatosan hozzáférhetőek és olvashatóak legyenek, továbbá biztosítani kell az adatok megismeréséhez szükséges technikai eszközöket.
+
+(3) A napló adatairól megkeresésre annak a feladatkörében eljáró bíróságnak, ügyészségnek, nyomozóhatóságnak, nemzetbiztonsági szolgálatnak továbbítható adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ha annak technikai feltételei fennállnak, az adatigénylő részére az adatokat elektronikus úton, automatizáltan is meg lehet küldeni.
+
+77. § Az informatikai rendszer működésében keletkezett üzemzavarról és annak megszűnéséről a bíróságot elektronikus levélben, az üzemzavar idején szolgáltatást igénybe venni kívánó kérelmezőt pedig a szolgáltatás igénybevételének megkísérlésekor elektronikus üzenetben kell, az informatikai rendszer útján értesíti. Az informatikai rendszerben keletkezett üzemzavarról, valamint annak megszűnéséről az erre szolgáló, azonosítás nélkül elérhető internetes felületen is tájékoztatást kell adni.
+
+78. § (1) A törvény által meghatározott határidőbe nem számít bele az a nap, amely során legalább négy órán át fennálló, az informatikai rendszerben felmerült üzemzavar akadályozta az informatikai rendszer működését.
+
+(2) E törvény alkalmazása során üzemzavarnak kell tekinteni az informatikai rendszerben végzett olyan karbantartásokat, tervezett leállításokat is, melyek az informatikai rendszer szolgáltatásainak igénybevételét korlátozzák vagy megakadályozzák. Az üzemzavar számítása szempontjából az informatikai rendszer részének kell tekinteni azokat a kormányzati informatikai szolgáltatásokat, amelyek szükségesek az informatikai rendszer ügyfelek általi elérhetőségéhez.
 
 #### 79–80. §
 
-#### 81–82. §
+81. § (1) Az OBH felelős az informatikai rendszernek e törvényben és külön jogszabályban meghatározott informatikai biztonsági és szervezet szervezési követelményeinek teljesítéséért.
+
+(2) Az informatikai rendszer útján kell biztosítani az informatikai rendszerben kezelt adatok védelmét a jogosulatlan hozzáféréstől, módosítástól, törléstől vagy megsemmisüléstől.
+
+(3) Az informatikai rendszert úgy kell kialakítani, hogy biztosított legyen a rendszer zártsága és hibamentességének ellenőrizhetősége.
+
+(4) Az informatikai rendszer útján kell biztosítani, hogy az adott ügyben keletkezett és az informatikai rendszerben kezelt adatokat csak az ismerhesse meg, akinek az eljárás irataiba való betekintést törvény biztosítja.
+
+(5) Az informatikai rendszert úgy kell kialakítani, hogy az alkalmas legyen a szervezet adatai mellett a beszámoló közvetlen elérését biztosítani.
+
+82. § Az informatikai rendszer útján kell biztosítani, hogy a bíróság számára fenntartott műveletek elvégzése az ügyben eljáró személy azonosítását követően váljon lehetővé. A beadványok rögzítését – azonosítást követően – a bíróság által ezzel a feladattal megbízott bírósági ügyintéző, tisztviselő, írnok is végezheti. Ahol e törvény adatrögzítési kötelezettséget ír elő, ott a bírón az adatrögzítésre feljogosított bírósági ügyintézőt, tisztviselőt és írnokot is érteni kell.
 
 #### 38. A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása
 
-#### 83. §
+83. § (1) A nyilvántartás a (2) bekezdésben meghatározott elkülönült nyilvántartásokra tagozódik. A nyilvántartásába történő adatbejegyzésre az informatikai rendszer útján, automatizáltan vagy egyedi bírói utasításra kerülhet sor.
+
+(2) A nyilvántartás az alábbi bontásban épül fel:
+
+- a) egyesület,
+- b) köztestület,
+- c) alapítvány,
+- d) magánnyugdíjpénztár, önkéntes kölcsön biztosító pénztár, vegyes pénztár,
+- e) a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja,
+- f) Munkavállalói Résztulajdonosi Program szervezet,
+- g) európai területi társulás,
+- h) országos sportági szakszövetség és
+- i) egyéb szervezet.
+
+(3) Ha külön törvény alapján valamely szervezet nyilvántartásba vétele a Fővárosi Törvényszék kizárólagos illetékességébe tartozik, a törvényszéki nyilvántartást úgy kell kialakítani, hogy a szervezet csak a Fővárosi Törvényszék törvényszéki nyilvántartásába legyen felvehető.
 
 #### 39. Az országos névjegyzék
 
-#### 84. §
+84. § (1) Az országos névjegyzék a törvényszéki nyilvántartások adatainak közhiteles gyűjteménye, amelynek felépítése – az (5) és (6) bekezdésben foglalt kivétellel – megegyezik a nyilvántartás felépítésével.
+
+(2) Az országos névjegyzék az OBH által működtetett internetes felületen azonosítás nélkül elérhető. Az országos névjegyzék adatai a honlapon keresőprogram segítségével is megismerhetőek. A nyilvántartást úgy kell kialakítani, hogy a nem részletezett, illetve az egyéb adatként bejegyzendő adatok kereshetősége az országos névjegyzékben keresőszavakkal biztosítható legyen, az OBH a nyilvántartás nem részletezett, illetve egyéb adatainak egységes bejegyzése érdekében a nyilvántartásban kódtárakat rendszeresít. Kódtárat kell rendszeresíteni különösen a 83. § (1) bekezdés i) pontjában, a 94. § (1) bekezdés e) pontjában és a 95. § a) pont ai) alpontjában meghatározott adatok kezelésére.
+
+(3) Az informatikai rendszer útján kell biztosítani, hogy a törvényszéki nyilvántartások adatai az országos névjegyzékben automatizáltan – egyidejű frissítéssel – megjelenjenek.
+
+(4) Az országos névjegyzék – kivéve az üzemszerű karbantartás idejét – folyamatos elérhetőségét biztosítani kell.
+
+(5) Az országos névjegyzék nem tartalmazza a nyilvántartásnak a szervezet, illetve a jogi személy szervezeti egység képviselőjének, továbbá az alapítvány kuratórium tagjainak, a kurátornak lakóhelyére, anyja születési nevére vonatkozó adatát, az a 87. §-ban foglalt módon ismerhető meg.
+
+(6) Az országos névjegyzék a szervezet, jogi személyiséggel rendelkező szervezeti egység beszámolóját, közhasznúsági mellékletét is tartalmazza.
 
 ### VI. Fejezet — A BÍRÓSÁGI ELJÁRÁS NYILVÁNOSSÁGA
 
 #### 40. Az OBH feladata, a bírósági iratok megtekintése, másolatok
 
-#### 85. §
+85. § (1) Az OBH e törvényben szabályozott módon hozzájárul a nyilvántartás nyilvánosságára vonatkozó követelmények megvalósításához.
 
-86. § (1) A nyilvántartás közhiteles.
+(2) Az OBH működteti az informatikai rendszert.
+
+86. § (1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása és az országos névjegyzék közhiteles.
 
 (2) A nyilvántartás fennálló, illetve törölt adatai nyilvánosak, azok az országos névjegyzék útján az interneten azonosítás nélkül megtekinthetőek.
 
@@ -651,18 +875,18 @@ is.
 
 (4) Az egyesület szerve ülésének jelenléti íve, valamint az egyesület tagjairól készült nyilvántartás nem nyilvános.
 
-(5)
+(5) A szervezet nem nyilvános, az informatikai rendszerben tárolt iratairól külön törvény alapján, elektronikus úton teljesített adatszolgáltatás esetében, az adatszolgáltatás jogcímét, időpontját és az adatkérő személyét azonosítható módon rögzíteni kell. A rögzített adatokat az informatikai rendszer útján kell megőrizni.
 
 87. § (1) A szervezetek nyilvános – a bíróságon rendelkezésre álló – iratai a nyilvántartást vezető bíróságnál tekinthetőek meg.
 
 (2) A nyilvántartást vezető bíróság a szervezetek nyilvános iratainak megtekintését
 
-- a)
+- a) az elektronikus iratként rendelkezésre álló iratok esetében a bíróság által az erre kijelölt helyiségben az informatikai rendszer alkalmazásával, elektronikus úton,
 - b) a papír alapon rendelkezésre álló iratok esetében papír alapon
 
 biztosítja.
 
-(3)
+(3) A (2) bekezdés a) pontjában meghatározott iratbetekintés esetében biztosítani kell, hogy a kérelmező kizárólag az igényelt és az e törvény által meghatározott körben férjen hozzá az adatokhoz és azt, hogy az informatikai rendszerben tárolt adatot semmilyen módon ne változtathassa meg.
 
 88. § (1) A szervezet és a szervezet jogi személy szervezeti egységének képviselője – alapítvány esetén az alapító is – a szervezet nyilvántartásban szereplő adatairól másolat, kivonat vagy bizonyítvány kiadását kérheti. A másolat a nyilvántartás valamennyi fennálló és törölt adatát, a kivonat a nyilvántartás fennálló adatait, a bizonyítvány pedig – a kérelemtől függően – a nyilvántartás egyes fennálló vagy törölt adatait hitelesen tanúsítja, illetve azt, hogy valamely meghatározott bejegyzés a nyilvántartásban nem szerepel(t). A másolatot, a kivonatot vagy bizonyítványt jogszabályban meghatározott módon kell elkészíteni.
 
@@ -672,7 +896,7 @@ biztosítja.
 
 (4) Másolat, kivonat és bizonyítvány a nyilvántartást vezető bíróságtól kérhető, a kérelem teljesítéséről határozatot hozni nem kell.
 
-(5)
+(5) A kérelmező a bíróságtól az elektronikus közokiratról jogszabályban meghatározott módon papír alapú másolatot kérhet. Az elektronikus közokiratról jogszabályban meghatározott módon készített papír alapú másolat közokirat.
 
 (6) A szervezet adatairól – kizárólag írásban – kivonatot kérhet
 
@@ -690,7 +914,7 @@ is.
 
 #### 41. A bíróság adatszolgáltatási kötelezettsége
 
-#### 89. §
+89. § A bíróság a szervezet bejegyzéséről, a nyilvántartásban átvezetett változásokról, illetve a szervezet törléséről értesíti az állami adóhatóságot, valamint a Központi Statisztikai Hivatalt. Az értesítést, illetve az adatszolgáltatást a bíróság – az informatikai rendszer útján – elektronikus úton teljesíti.
 
 ### VII. Fejezet — A CIVIL ÉS EGYÉB CÉGNEK NEM MINŐSÜLŐ SZERVEZETEK NYILVÁNTARTÁSÁNAK ADATTARTALMA
 
@@ -700,7 +924,104 @@ is.
 
 #### 43. A civil és egyéb cégnek nem minősülő szervezetek nyilvántartásának tartalma
 
-#### 91–96. §
+91. § (1) A nyilvántartás valamennyi szervezet esetében tartalmazza:
+
+- a) a szervezet nyilvántartási számát,
+- b) a szervezet nyilvántartásba vételéről (változásbejegyzéséről) szóló határozat számát, jogerőre emelkedésének napját,
+- c) a létesítő okirat keltét,
+- d) a szervezet nevét,
+- e) a szervezet székhelyét,
+- f) a szervezet képviselőjének nevét, lakóhelyét,
+- g) a képviselet terjedelmét és módját,
+- h)–i)
+- j) a szervezet típusát.
+
+(2) A nyilvántartási szám jogszabályban meghatározott módon a nyilvántartást vezető törvényszék kétjegyű kódját, a szervezettípus kétjegyű kódját és a szervezet egyedi hétjegyű azonosítóját tartalmazza.
+
+(3) A bíróság a szervezetre vonatkozó adatot oly módon törli a nyilvántartásból, hogy a szervezetre vonatkozó adat a törlésre történő utalás mellett a nyilvántartásban látható maradjon, és a nyilvántartásból az adat törlésének oka és időpontja megállapítható legyen.
+
+92. § (1) A nyilvántartás szükség szerint valamennyi szervezet esetében tartalmazza:
+
+- a) a létesítő okirat módosításának időpontját,
+- b) a szervezet rövidített nevét,
+- c) a szervezet magyar nyelvű elnevezésének megfelelő idegen nyelvű elnevezését,
+- d) meghatározott időtartamra alapított szervezet esetén a meghatározott idő lejártának napját,
+- e) a szervezet adószámát, valamint statisztikai számjelét, továbbá ha a szervezet adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+- f) a szervezet közösségi adószámát, továbbá ha a szervezet közösségi adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+- g) a közhasznú jogállás megszerzése esetén a közhasznú jogállás megszerzéséről, módosításáról, törléséről szóló végzés jogerőre emelkedésének napját,
+- h) a szervezet szervezeti egysége jogi személlyé nyilvánítása esetén, a jogi személy szervezeti egység
+  - ha) nevét,
+  - hb) székhelyét,
+  - hc) ügyintéző és képviseleti szervének nevét,
+  - hd) képviselőjének nevét, anyja születési nevét,
+  - he) – ha azzal rendelkezik – adószámát, valamint statisztikai számjelét, továbbá ha adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+  - hf) – ha azzal rendelkezik – közösségi adószámát, továbbá ha a közösségi adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+- i) – ha a szervezet átalakulással (egyesüléssel vagy szétválással) jön létre – a jogutód szervezet esetén a jogelőd, a jogelőd szervezet esetében a jogutód szervezet nyilvántartási számát,
+- j) a szervezet célját,
+- k) a szervezet célja szerinti besorolását,
+- l) – kijavítás [(5) bekezdés] esetén – az adat kijavításának időpontját,
+- m) a vezető tisztségviselői megbízás időtartamát,
+- n) a 18. § szerinti kérelem esetén a szervezet volt vezető tisztségviselőjének megbízatásáról való lemondásának hatályossá válását, a határozat számát, jogerőre emelkedésének napját,
+- o) a szervezet törlésének tényét, a határozat számát és jogerőre emelkedésének napját,
+- p) a szervezet külön törvényben meghatározott adatait.
+
+(2) A bíróság az adóhatóság elektronikus úton megküldött értesítése alapján, hivatalból jegyzi be a szervezet adószáma, közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
+
+(3) A bíróság a peres eljárást lefolytató bíróság által megküldött jogerős ítélet alapján, hivatalból jegyzi be a szervezet adataiban bekövetkezett változásokat, továbbá a határozat jogerőre emelkedésének napját.
+
+(4) Ha a szervezet – alapítvány esetében a képviselő – a bíróság részére olyan, a pénzforgalmi szolgáltató által kiállított igazolást nyújt be, amely tartalmazza a szervezet pénzforgalmi számláját, valamint az azt vezető pénzforgalmi szolgáltató nevét és székhelyét, a bíróság a szervezet pénzforgalmi számláját, valamint az azt vezető pénzforgalmi szolgáltató nevét és székhelyét – változásbejegyzési eljárás lefolytatása nélkül – hivatalból bejegyzi a nyilvántartásba. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnéséről szóló igazolás benyújtása esetén is.
+
+(5) A (2)–(4) bekezdésben meghatározott esetben az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
+
+(6) Az (5) bekezdés szerint kell eljárni akkor is, ha a nyilvántartásba bejegyzett adat eltér a bejegyzés alapjául szolgáló végzés tartalmától.
+
+93. § (1) A nyilvántartásban a hitelezők védelme érdekében valamennyi szervezet esetében fel kell tüntetni, a következő adatokat is:
+
+- a) a csődeljárás kezdő időpontját és befejezését,
+- b) a felszámolás kezdő időpontját és befejezését,
+- c) a végelszámolás kezdő időpontját és befejezését,
+- d) a szervezet megszűntnek nyilvánítását, továbbá, ha a szervezet megszűntnek nyilvánítására büntetőügyben eljáró bíróság döntése alapján került sor, a bíróság megnevezését, valamint a határozat számát és jogerőre emelkedésének időpontját,
+- e) a megszüntetési eljárás kezdő időpontját és befejezését,
+- f) az egyszerűsített törlési eljárás megindítását, megszüntetését, és befejezését,
+- g) a szervezet elleni végrehajtás – ideértve a biztosítási intézkedést is – elrendelését és megszüntetését,
+- h) ha a jogi személy ellen olyan eljárás van folyamatban, amelyben büntetőjogi intézkedés alkalmazásának lehet helye, a nyomozás elrendelését, megszüntetését, annak megállapítását, hogy intézkedés alkalmazásának a feltételei nem állnak fenn, az eljárás befejezését, valamint az eljáró hatóság megnevezését, a határozat számát és keltét, továbbá, ha a bíróság a jogi személlyel szemben büntetőjogi intézkedésként tevékenységének korlátozását rendelte el, a határozat jogerőre emelkedésének napját, a korlátozás időtartamát és azt, hogy a korlátozás a jogi személy mely tevékenységére vagy jogosítványára terjed ki,
+- i) ha a szervezetet a bíróság megszünteti, vagy megállapítja, hogy a szervezet megszűnt, a határozat számát, jogerőre emelkedésének napját.
+
+(2) Az (1) bekezdés a) és b) pontjában meghatározott adatokat, valamint a szervezet neve (rövidített neve) mellett a „felszámolás alatt” („f. a.”) toldat bejegyzését (amennyiben a felszámolási eljárást végelszámolás előzte meg, az arra utaló toldat törlését), a képviselet módja változásának bejegyzését, a korábbi képviseletre jogosultak törlését, a felszámolóra, illetve a felszámolóbiztosra vonatkozó adatokat (név, székhely, lakóhely) a csődeljárást, illetve a felszámolási eljárást lefolytató bíróság végzése alapján hivatalból kell rögzíteni a nyilvántartásban, a csődeljárást, illetve a felszámolást elrendelő jogerős végzés közzétételével egyidejűleg. Ha a felszámolási eljárás a szervezet megszűnésével befejeződik, e végzés jogerőre emelkedésének megállapítását követő öt munkanapon belül a szervezetet törölni kell a nyilvántartásból.
+
+(3) Az (1) bekezdés i) pontjában meghatározott adatokat, valamint a szervezet neve (rövidített neve) mellett a „megszűnt” vagy a „megszüntetve” toldatot, az eljárást lefolytató bíróság határozata alapján, hivatalból kell rögzíteni a nyilvántartásban.
+
+94. § (1) A nyilvántartás alapítvány esetén a 91. §-ban foglaltakon túlmenően tartalmazza a következő adatokat is:
+
+- a) az alapítvány típusát,
+- b) az alapítványi vagyon felhasználási módját és mértékét,
+- c) az arra való utalást, hogy alapítványhoz lehet-e csatlakozni (nyílt vagy zárt alapítvány),
+- d) – kuratórium esetében – a kuratórium tagjainak nevét, lakóhelyét és anyja születési nevét
+- e) – kurátor esetében – a kurátor nevét, illetve megnevezését, valamint lakóhelyét (székhelyét), anyja születési nevét,
+- f) – szükség szerint – az alapítvány képviselőjének anyja születési nevét,
+- g) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, valamint ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját.
+
+(2) A nyilvántartás az alapítvány esetén szükség szerint a 92. §-ban foglaltakon túlmenően tartalmazza az állami alapító által alapított alapítvány, és állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány esetében a kuratóriumba az állami alapító részéről jelölt tag vagy tagok nevét is, vagy azt a tényt, hogy a kurátort az állami alapító jelölte ki.
+
+(3) A nyilvántartás alapítványok egyesítése esetén tartalmazza a tovább működő alapítvány esetén annak az alapítványnak a nevét és nyilvántartási számát, amely az alapítványhoz egyesítésre került, a megszűnt alapítvány esetén pedig annak az alapítványnak a nevét és nyilvántartási számát kell bejegyezni a nyilvántartásba, amelyhez a megszűnt alapítvány egyesítésre került.
+
+95. § A nyilvántartás egyesület esetén a 91. §-ban foglaltakon túlmenően tartalmazza a következő adatokat is:
+
+- a) az egyesület formáját
+  - aa) egyesület,
+  - ab) párt,
+  - ac) sportegyesület,
+  - ad) vallási tevékenységet végző szervezet,
+  - ae) nemzetiségi egyesület,
+  - af) szakszervezet,
+  - ag) szövetség,
+  - ah) polgárőrszervezet és
+  - ai) egyéb, törvényben meghatározott egyesületi forma,
+- b) az egyesület képviselőjének anyja születési nevét,
+- c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát,
+- d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját.
+
+96. § A nyilvántartás szövetség esetén a 92. §-ban foglaltakon túlmenően szükség szerint tartalmazza az ahhoz utóbb csatlakozó szervezetek nevét, székhelyét, nyilvántartási számát is.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -709,11 +1030,11 @@ is.
 97. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) az e törvényben szabályozott eljárásokban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
-- b)
+- b) az egyszerűsített nyilvántartásba vételi eljárás esetében a kérelemhez csatolandó létesítő okirat minta adatait és az ahhoz csatolandó mellékletek adatait, valamint az űrlapok közzétételének módját,
 - c) az e törvényben szabályozott eljárásokban érvényesülő ügyviteli szabályokat,
-- d)
+- d) az informatikai rendszer szervezeti-szervezési és módszertani követelményeit,
 - e)
-- f)
+- f) a nyilvántartási szám képzésének módját,
 - g) a szervezet célja szerinti besorolását,
 - h) az e törvényben szabályozott eljárásokban érvényesülő iratkezelési szabályokat rendeletben állapítsa meg.
 
@@ -743,28 +1064,11 @@ is.
 
 (4) A Törvény hatálybalépését megelőzően bejegyzett azon alapítványok esetében, amelyeknek székhelyében a közterület neve a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvénynek a Törvénnyel megállapított 14. §-a miatt módosul, az alapítók e változást követően, az alapítvány nyilvántartásban szereplő adatainak első változásakor, de legkésőbb 2014. január 1-jéig kötelesek az alapítvány székhelye ennek megfelelő módosítására.
 
-100. § (1) Az OBH vezeti az interneten azonosítás nélkül elérhető országos névjegyzéket.
+#### 100. §
 
-(2) A bíróság a szervezet nyilvántartásba vétele, illetőleg megváltozott nevének bejegyzése előtt – szükség esetén – megkeresi az OBH-t annak közlésére, hogy az országos névjegyzékben nem szerepel-e azonos vagy hasonló néven bejegyzett szervezet.
+101. § E törvény közhasznú szervezetekre vonatkozó 8. § (3) bekezdését a törvény hatálybalépését követően közhasznú minősítést szerzett szervezet esetében kell alkalmazni.
 
-(3) Az országos névjegyzék összeállítása érdekében a bíróság – a szervezet nyilvántartásba vétele, a nyilvántartott adataiban bekövetkezett változás, továbbá a szervezet megszűnése esetén határozata jogerőre emelkedésének megállapítását követő három munkanapon belül – határozatának megfelelően elektronikus úton az OBH-t értesíti az eljárt bíróság nevéről, határozata számáról és a határozat jogerőre emelkedése napjáról, a szervezet nevéről, székhelyéről, célja szerinti besorolásáról, képviselője nevéről és lakóhelyéről, illetőleg ezen adatok megváltozásáról, valamint a szervezet megszűnéséről.
-
-(4) Ha a szervezet nyilvántartásba vétele, a nyilvántartott adataiban bekövetkezett változás, továbbá a szervezet megszűnése kérdésében másodfokú eljárás lefolytatására került sor, az országos névjegyzék számára történő – (3) bekezdés szerinti – számítógépes adatszolgáltatás ebben az esetben is az első fokon eljárt bíróság feladata. A másodfokon eljárt bíróság a jogerős határozatának meghozatalát követően gondoskodik az iratok visszajuttatásáról az elsőfokú bírósághoz.
-
-(5) Az országos névjegyzék tartalmazza
-
-- a) a 99. § (1) bekezdés a), d)–g), i) és k) pontjában meghatározott adatokat,
-- b) az eljáró bíróság nevét,
-- c) a szervezet típusát,
-- d) a szervezet beszámolóját,
-- e) a végelszámolást, felszámolási eljárást, csődeljárást elrendelő végzést és
-- f) a szervezettel szembeni felszámolási eljárásra, csődeljárásra, kényszer-végelszámolási eljárásra, végelszámolásra vonatkozó adatot.
-
-(6) Az országos névjegyzék arra való figyelmeztetést tartalmaz, hogy a névjegyzék nem közhiteles.
-
-#### 101. §
-
-#### 102. §
+102. § Ha az e törvény hatálybalépése előtt nyilvántartásba vett szervezet esetében változásbejegyzési kérelmet nyújtanak be – és a kérelmet nem kell érdemi vizsgálat nélkül elutasítani vagy nem az ügy áttételének van helye –, a bíróság a szervezetre vonatkozó a változásbejegyzési kérelem elbírálásához szükséges iratokat elektronizálja, és az iratok elektronikus másolatát az informatikai rendszerben tárolja. A bíróság számára az iratok elektronizálásra nyitva álló határidő öt munkanap, amelyet a határidők számítása szempontjából figyelmen kívül kell hagyni.
 
 103. § Azokra a köztestületekre vonatkozó adatokat, melyeket e törvény hatályba lépését követően – külön törvény alapján – a bíróság nem tart nyilván törölni kell a nyilvántartásból, a köztestület nyilvántartásból való törléséről nem kell végzést hozni.
 
@@ -782,17 +1086,85 @@ is.
 
 106. § Az OBH legkésőbb 2014. december 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.
 
-#### 107–108. §
+107. § (1) A nyilvántartás adatainak informatikai rendszerbe migrálása az OBH feladta, melyhez a törvényszék segítséget nyújt.
+
+(2) A migrálás során kell biztosítani azt, hogy a nyilvántartásba vett szervezetek e törvény szerinti nyilvántartási számot kapjanak. A szervezetet az új nyilvántartási számról nem kell értesíteni.
+
+(3) A bíróság feladata – a migrálást követően –, hogy az e törvény alapján nyilvántartásba vett szervezet nyilvántartásban (99. §) nem szereplő, a bíróságnál rendelkezésre álló adatait a nyilvántartásba bevigye.
+
+108. § (1) 2015. január 1. napján az állami adó- és vámhatóság és a Központi Statisztikai Hivatal a nyilvántartásában szereplő szervezetek elnevezésének, székhelyének, képviselője nevének, bírósági nyilvántartási számának és adószámának, illetve statisztikai számjelének feltüntetésével az informatikai rendszer útján adatot szolgáltat a bíróság részére. A bíróság az állami adó- és vámhatóság, illetve a Központi Statisztikai Hivatal tájékoztatása alapján az adószámot, statisztikai számjelet hivatalból, végzés meghozatala nélkül, elektronikus úton jegyzi be a nyilvántartásba.
+
+(2) A bíróság az (1) bekezdés szerinti adatszolgáltatást követően az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdésében meghatározott adatok közül az állami adó- és vámhatóság részére az informatikai rendszer útján elektronikus úton átadja azon szervezeteknek az általa nyilvántartott adatait, amely szervezetekről az állami adó- és vámhatóság az (1) bekezdés szerint adatot szolgáltatott a részére.
 
 #### 47. Módosuló jogszabályok
 
 #### 109–110. §
 
-#### 111. §
+111. § (1) A statisztikáról szóló 1993. évi XLVI. törvény 8/A. § (2) bekezdése a következő új c) ponttal egészül ki, egyidejűleg a jelenlegi c) pont jelölése d) pontra változik és a helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdés szerinti szervezetek a statisztikai számjel megállapítása céljából történő bejelentkezésnek az alábbiak szerint tesznek eleget:]
+
+„c) – a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásában szereplő szervezet – a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásába történő bejegyzése iránti kérelem, illetve változásbejegyzési kérelem benyújtásával,
+
+d) az a)–c) pont alá nem tartozó esetben az állami adó- és vámhatóságnál történő bejelentkezési kötelezettség teljesítésével”
+
+[egyidejűleg a statisztikai számjel megállapítása céljára rendszeresített adatgyűjtési nyomtatvány kitöltésével]
+
+(2) A statisztikáról szóló 1993. évi XLVI. törvény 8/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság, a cégbíróság, illetve a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bíróság az erre a célra szolgáló számítógépes rendszer útján közli a KSH-val a statisztikai számjel megállapításához szükséges, az egyéni vállalkozói tevékenység bejelentése, a cégbejegyzés, illetve a civil és egyéb cégnek nem minősülő szervezetek bejegyzése érdekében kitöltött nyomtatványon rendelkezésre álló adatok közül az érintett nevét (cégnevét), valamint címét (székhelyét) és ezen túlmenően a főtevékenységét is.”
+
+(3) A statisztikáról szóló 1993. évi XLVI. törvény 8/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A KSH a (3) bekezdésben meghatározott adatok alapján, az erre a célra szolgáló számítógépes rendszer útján haladéktalanul közli a körzetközponti jegyzővel, a cégbírósággal, a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bírósággal, valamint az állami adóhatósággal a (2) bekezdés a)–c) pontjában meghatározottak statisztikai számjelét, illetve az ok megjelölésével értesíti a megkereső szervezetet a statisztikai számjel megállapításának megtagadásáról. A (2) bekezdés d) pontjában meghatározottak statisztikai számjelükről – kérésükre – írásban kapnak értesítést.”
+
+(4) A statisztikáról szóló 1993. évi XLVI. törvény 8/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A statisztikai számjel megállapításához szükséges adatokban bekövetkezett változást – amennyiben azt a körzetközponti jegyzőhöz, a cégbírósághoz, illetve a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bírósággal nem kell bejelenteni – és a főtevékenység változását az érintettek az adat változását követő 15 napon belül kötelesek közölni a KSH-val.”
+
+(5) A statisztikáról szóló 1993. évi XLVI. törvény 8/A. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Azoknak a szervezeteknek, amelyeknek nincs bírósági, cégbírósági, egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatósági, adóhatósági bejelentési kötelezettségük, közvetlenül a KSH-nak kell bejelenteniük az e célra rendszeresített adatgyűjtési nyomtatvány kitöltésével a statisztikai regiszter 6. § (2) szerinti és a statisztikai számjel megállapításához szükséges adatokat és az azokban bekövetkezett változást a változást követő 15 napon belül.”
 
 #### 112–116. §
 
-#### 117. §
+117. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdése a következő q) ponttal egészül ki:
+
+[Az állami adóhatósághoz be kell jelenteni az adózó:]
+
+„q) alapítvány, egyesület esetében a bírósági nyilvántartási számát, a főtevékenységet és a ténylegesen végzett tevékenységet.”
+
+(2) Az adózás rendjéről szóló 2003. évi XCII. törvény 17. § (2) bekezdése helyébe az alábbi szöveg lép:
+
+„(2) A cégbíróság, a körzetközponti jegyző, valamint alapítvány, egyesület esetében a bíróság az erre a célra szolgáló számítógépes rendszer útján közli az állami adóhatósággal azokat a 16. § (3) bekezdésében felsorolt adatokat, amelyek a cégbejegyzés, alapítvány, egyesület nyilvántartásba vétele során, valamint a vállalkozói igazolvány kiállítása iránt kitöltött nyomtatványon rendelkezésre állnak, ideértve a 16. § (3) bekezdésének j) és k) pontjában megjelölt nyilatkozat, valamint az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adóhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék- vagy egyéni vállalkozói nyilvántartási száma, valamint alapítvány, egyesület esetében azok bírósági nyilvántartási száma, illetve a 22. § (1) bekezdés szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, alapítvány, egyesület esetében a bírósággal, valamint a körzetközponti jegyzővel az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adóhatóság az adószám megállapításának megtagadásáról szóló jogerős határozat egy példányának megküldésével értesíti a cégbíróságot, alapítvány, egyesület esetében a bíróságot, valamint a körzetközponti jegyzőt.”
+
+(3) Az adózás rendjéről szóló 2003. évi XCII. törvény 17. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az alapítvány, egyesület a bejelentkezés napjától számított 15 napon belül a 16. § (3) bekezdésében felsorolt adatok közül az állami adóhatósághoz írásban bejelenti a (3) bekezdés a), c) és f) pontja szerinti adatait.”
+
+(4) Az adózás rendjéről szóló 2003. évi XCII. törvény 17. §-a a következő (15) bekezdéssel egészül ki:
+
+„(15) Az állami adóhatóság az e célra fenntartott számítógépes rendszeren keresztül értesíti alapítvány, egyesület esetében az adószám megállapításáról az alapítvány, egyesület adatainak közlésével a nyilvántartásba vételt elrendelő bíróságot.”
+
+(5) Az adózás rendjéről szóló 2003. évi XCII. törvény 23. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adózónak az adókötelezettségét érintő olyan változást – a megváltozott természetes személyazonosító adatok, lakcím és a 22. § (2) bekezdésében foglaltak kivételével –, amelyről a cégbíróság, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság, alapítvány, egyesület esetében a bíróság külön jogszabály alapján az adóhatóságot nem köteles értesíteni, annak bekövetkezésétől számított 15 napon belül az előírt nyomtatványon közvetlenül az állami adó- és vámhatóságnak, illetve az önkormányzati adóhatóságnak kell bejelentenie.
+
+(2) Az adókötelezettséget érintő változás különösen a 16. § (3) bekezdésében és 22/C. §-ában felsorolt adatok változása, továbbá a cégbejegyzésre nem kötelezett adózó végelszámolása kezdetének és befejezésének időpontja, cégbejegyzésre nem kötelezett jogi személy, egyéb szervezet végelszámolás nélküli megszűnése esetén a jogutód nélküli megszűnésről szóló döntés, az egyszerűsített végelszámolás megindulásáról, valamint annak megszüntetéséről és a cég működésének továbbfolytatásáról a Cégközlönyben megjelentetett közlemény adatai, az adóköteles tevékenység vagy a jogi személy, egyéb szervezet megszűnése is. A cég, az alapítvány, az egyesület létesítő okiratában nem szereplő, de ténylegesen végzett tevékenység esetén a tevékenység megkezdését, illetve a bejelentett vagy bejelenteni elmulasztott tevékenység megszűnését követő 15 napon belül tesz bejelentést.”
+
+(6) Az adózás rendjéről szóló 2003. évi XCII. törvény 23. § (5) és (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha a 17. § (1) bekezdésének a)–b) pontjában említett adózó, és az alapítvány, egyesület adataiban bekövetkezett változás az adózó adószámának megváltozását eredményezi, az állami adóhatóság a megváltozott adószámról az adózóval egyidejűleg értesíti a cégbíróságot, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóságot és az egyéni vállalkozók nyilvántartását vezető szervet valamint alapítvány, egyesület esetében a bíróságot.
+
+(6) A 17. § (1) bekezdés a)–b) pontjában említett adózó a cégbírósághoz, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatósághoz, az alapítvány, egyesület a bírósághoz teljesített bejelentéssel tesz eleget az állami adóhatósághoz teljesítendő változásbejelentési kötelezettségének azon adókötelezettséget érintő adatai tekintetében, amelyeknek változásáról a cégbíróság, az egyéni vállalkozók nyilvántartását vezető szerv, alapítvány, egyesület esetében a bíróság külön jogszabály alapján az állami adóhatóságot értesíti. A 17. § (1) bekezdés b) pontjában említett adózó, valamint az alapítvány, egyesület a főtevékenység változását a változást követő 15 napon belül az állami adóhatósághoz jelenti be az 1893/2006/EK rendelet szerint.”
+
+(7) Az adózás rendjéről szóló 2003. évi XCII. törvény 53. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak alapítvány, egyesület esetében a 16. § (3) bekezdés szerinti adata, a bírósági nyilvántartás nyilvános adata, valamint az alapítvány, egyesület bírósági nyilvántartásának üzemeltetőjétől kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.”
+
+(8) Az adózás rendjéről szóló 2003. évi XCII. törvény 128/A. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Ha a cégbíróság az állami adóhatóságot külföldi vállalkozás belföldi fióktelepe megszüntetés iránti kérelme benyújtásának tényéről, illetve bármely cég elleni törvényességi felügyeleti eljárása során a megszüntetési eljárás megindításának tényéről, illetőleg arról értesíti, hogy felszámolásra, végelszámolásra az adott cégformára tekintettel nem kerülhet sor, az állami adóhatóság – a vámhatóságtól beszerzett adatok alapján is – elektronikus úton haladéktalanul tájékoztatja a cégbíróságot arról, hogy az érintett adózónál adóhatósági eljárás van-e folyamatban, illetve arról, hogy az értesítés alapján ellenőrzést, végrehajtást kezdeményez-e. Amennyiben a cégbírósági értesítés alapján az állami adó- és vámhatóság az adózónál ellenőrzést kezdeményez, úgy azt a végelszámolás esetén lefolytatandó ellenőrzés szabályai szerint folytatja le, és az értesítéstől számított 60 napon belül fejezi be. Ez esetben a hatósági eljárásra e § rendelkezései irányadók, azonban új eljárásra utasításnak nincs helye. E bekezdés rendelkezéseit az alapítvány, egyesület hivatalból történő megszüntetése esetén is alkalmazni kell.”
 
 #### 118–120. §
 
@@ -896,10 +1268,28 @@ d) a kedvezmény igénybevevője legkésőbb az ellenőrzés megállapításair�
 
 (4)
 
-(5)–(9)
+(5) E törvény 44. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A kérelemhez csatolni kell a vezető tisztségviselő nyilatkozatát arról, hogy nem esik az Ectv.-ben meghatározott kizáró ok alá.”
+
+(6) E törvény 44. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A (7) és (8) bekezdés kivételével a bíróság a letétbe helyezett beszámolók – informatikai rendszer útján történő automatizált vizsgálatával –, és a bírósághoz korábban benyújtott létesítő okirat alapján dönt a szervezet közhasznúvá minősítéséről, ebben az esetben az eljárás során hiánypótlási felhívás kibocsátásának nincs helye.”
+
+(7) E törvény 58. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha a (4) vagy (5) bekezdés alapján megszüntetett alapítványt (alapítványokat) nem az eljáró bíróság vette nyilvántartásba, a bíróság jogerős határozatát az informatikai rendszer alkalmazásával megküldi a megszűnt alapítványt nyilvántartásba vevő bíróság számára is. A nyilvántartást vezető bíróság a megszűnt alapítványt (alapítványokat), elektronikus úton, hivatalból törli a nyilvántartásból, a törlésről nem kell végzést hozni.”
+
+(8) E törvény 71. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a cégbíróság a nyilvántartásba vételről szóló jogerős végzés elektronikus úton történő megküldésével, arról értesíti a bíróságot, hogy a kölcsönös biztosító egyesületet külön törvény alapján részvénytársaságként vette nyilvántartásba, a bíróság a kölcsönös biztosító egyesületet hivatalból törli a nyilvántartásból, a törlésről végzést hozni nem kell.”
+
+(9) E törvény 86. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása és az országos névjegyzék közhiteles.”
 
 #### 48. Hatályukat vesztő rendelkezések
 
 125. § (1)
 
-(2)
+(2) Hatályát veszti e törvény 100. §-a.

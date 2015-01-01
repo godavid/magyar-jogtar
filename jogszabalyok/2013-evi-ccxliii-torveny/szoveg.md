@@ -67,7 +67,8 @@ az egyes igazságügyi, jogállási és belügyi tárgyú törvények módosít�
 (24) Hatályát veszti az Iasz.
 
 - a)
-- b)–c)
+- b) 2/A. § (3) bekezdés b) pontja, valamint
+- c) 134/B. § (2) bekezdése.
 
 #### 8. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 

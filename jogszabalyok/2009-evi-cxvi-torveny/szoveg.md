@@ -118,7 +118,7 @@ az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. tör
 
 (16) Az Szja tv. 1. számú mellékletének e törvénnyel módosított 7.7. pontját a donornak 2009-ben kifizetett díj, költségtérítés, e törvénnyel megállapított 8.39. pontját a kifizető által 2009-ben biztosított védőoltások adókötelezettségének megállapítására is alkalmazni lehet.
 
-(17) A 2006. szeptember 1-jétől 2009. december 31-éig megkötött élet- és nyugdíjbiztosítási szerződés alapján nyújtott biztosítási szolgáltatás címén megszerzett bevételből a 2010. január 1-jét megelőzően felhalmozott díjtartalék terhére kivont bevételre a magánszemély választhatja az Szja tv. 2009. december 31-én hatályos rendelkezéseinek alkalmazását.
+(17)
 
 145. § (1) E törvénynek a Tao.-t módosító rendelkezéseit – a (2)–(4) bekezdésben foglaltak kivételével – első ízben a 2010. adóévi adókötelezettségre kell alkalmazni.
 

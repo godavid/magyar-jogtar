@@ -709,6 +709,10 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 
 (4) A nemzetbiztonsági szolgálatok hivatásos állományú tagjának e jogviszonyával összefüggő külszolgálata alapján kifizetett jövedelemből az adott évi adótábla legmagasabb adókulcsa alkalmazásával kell az adót levonni és befizetni az adóhatóságnak. A magánszemélynek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetőleg a magánszemély részére igazolást kiadnia.
 
+(5) A nemzetbiztonsági szolgálatok titkosszolgálati tevékenységéhez, valamint a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához közvetlenül kötődő, e célra beszerzett és használt vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a nemzetbiztonsági szolgálatok gyakorolják.
+
+(6) A nemzetbiztonsági szolgálatok titkosszolgálati tevékenységéhez, valamint a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához közvetlenül kötődő vagyon értékesítésből származó bevétel a nemzetbiztonsági szolgálatok speciális bevétele, amelyet az e tevékenységhez szükséges ingatlan és egyéb eszközök vételére, felújítására, felszerelésére, illetve bővítésére használhatnak fel.
+
 64. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – a fedésül szolgáló intézmény típusára vonatkozó jogszabályok előírásai szerint – fedőintézményt hozhatnak létre és tarthatnak fenn. Fedőintézményként költségvetési szerv nem hozható létre.
 
 (2) A fedőintézmény létrehozása és fenntartása a nemzetbiztonsági szolgálatok költségvetéséből történik. Az ehhez szükséges kiadások speciális működési kiadásnak minősülnek.

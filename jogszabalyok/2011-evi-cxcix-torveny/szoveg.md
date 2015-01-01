@@ -54,7 +54,7 @@ terjed ki.
 - 1. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, áthelyezés, fegyelmi és kártérítési eljárás, valamint sérelemdíj megfizetésére irányuló eljárás megindítása, fegyelmi büntetés, kártérítés, sérelemdíj, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
 - 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
-- 4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), közalkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony és a közérdekű önkéntes tevékenység végzésére irányuló jogviszony;
+- 4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), közalkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony és a közérdekű önkéntes tevékenység végzésére irányuló jogviszony;
 - 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 6. éjszakai munkát végző közszolgálati tisztviselő: aki várhatóan az éves munkaidejének legalább egynegyedében éjszakai munkát végez;
 - 7. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a közszolgálati tisztviselő munkaköréhez kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
@@ -84,7 +84,7 @@ terjed ki.
 - 25. munkanap: a naptári nap vagy a munkáltató által meghatározott megszakítás nélküli huszonnégy óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;
 - 26. napi munkaidő: a felek vagy a törvény által meghatározott teljes napi munkaidő vagy részmunkaidő;
 - 27. pályakezdő kormánytisztviselő, köztisztviselő: az, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzését követően egy éven belül első foglalkoztatási jogviszonyként kormányzati szolgálati, illetve közszolgálati jogviszonyt létesít;
-- 28. pártfogó felügyelő: aki pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, szervezi és ellenőrzi a közérdekű munka végrehajtását, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait;
+- 28. pártfogó felügyelő: aki pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, gondoskodik a közérdekű munka végrehajtásáról, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait;
 - 29. szakmai vezető: a minisztériumban kinevezett közigazgatási államtitkár, valamint helyettes államtitkár;
 - 30. szakszervezet: munkavállalói érdek-képviseleti szerv. A közszolgálati tisztviselők minden olyan szervezete, amelynek elsődleges célja a közszolgálati tisztviselők kormányzati szolgálati, illetve közszolgálati jogviszonyával kapcsolatos érdekeinek előmozdítása és megvédése;
 - 31. személyügyi központ: e törvény szerinti kormányzati személyügyi igazgatási feladatokat ellátó szerv;
@@ -119,7 +119,7 @@ terjed ki.
 - c) a feladat a megbízott, vállalkozó saját anyagainak, illetve eszközeinek felhasználásával teljesíthető, és
 - d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási szerv székhelyén, telephelyén legyen, azt a megbízott, illetve a vállalkozó maga választhatja meg, illetve az a feladat ellátásához igazítható.
 
-(4) A közigazgatási szervnél a tárgyévben a munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az engedélyezett létszám tíz százalékát. E mérték alól a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben mentesítést adhat.
+(4) A közigazgatási szervnél a tárgyévben a munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát. E mérték alól a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben mentesítést adhat.
 
 (5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
 
@@ -856,7 +856,7 @@ kell érteni.
 (5) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a kormánytisztviselőt
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
+- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő kormánytisztviselő esetén a gyermek ötéves koráig köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
 
 (6) Az (1)–(5) bekezdés nem alkalmazható a vezetői munkakört betöltő kormánytisztviselő tekintetében.
 
@@ -933,7 +933,7 @@ kell érteni.
 
 ### Tartós külszolgálat
 
-54/A. § (1) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – a hivatali szervezet vezetőjének döntése alapján kihelyezhető külképviseleten teljesített közszolgálatra (a továbbiakban: tartós külszolgálat). A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
+54/A. § (1) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – a munkáltatói jogok gyakorlójának döntése alapján – a munkakörébe tartozó feladatai alapján kizárólag európai uniós kérdésekért felelős diplomata esetében az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével –, kihelyezhető külképviseleten teljesített közszolgálatra (a továbbiakban: tartós külszolgálat). A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
 
 (2) A kormánytisztviselő tartós külszolgálatra hozzájárulásával helyezhető ki.
 
@@ -944,6 +944,20 @@ kell érteni.
 54/B. § (1) Ha a tartós külszolgálat megszűnése esetén a kormánytisztviselő kormányzati szolgálati jogviszonya nem szűnt meg, a kormánytisztviselő a kihelyező szerv vagy a kihelyező szerv irányítása vagy felügyelete alá tartozó központi költségvetési szerv állományába – annak vezetője egyetértésével – is visszahelyezhető.
 
 (2) Az (1) bekezdés szerinti esetben a 48. § (4)–(6) bekezdését alkalmazni kell.
+
+54/C. § (1) Az 54/A. §-tól eltérően Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: Állandó Képviselet) tartós külszolgálatra az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – helyezhető ki diplomataként, szakdiplomataként. E személyeket a munkáltatói jogok gyakorlója helyezi ki az Állandó Képviseletre tartós külszolgálatra.
+
+(2) Az Állandó Képviseletre nem diplomataként, szakdiplomataként való kihelyezésre az 54/A. § rendelkezései az irányadók.
+
+(3) A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
+
+(4) A kormánytisztviselő tartós külszolgálatra a hozzájárulásával helyezhető ki.
+
+(5) Nem kell a kormánytisztviselő beleegyezése a kinevezés módosításához, ha a munkakör megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja.
+
+(6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt napon belül a kormánytisztviselő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, nyilatkozatát lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából a munkakör megváltoztatása előtti illetményt kell figyelembe venni.
+
+(7) Az Állandó Képviseletre diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.
 
 ### Kormányzati érdekből történő kirendelés
 
@@ -1409,7 +1423,7 @@ alakul át.
 
 84. § (1) Nem létesíthető kormányzati szolgálati jogviszony, ha a kormánytisztviselő ezáltal hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
-(2) A külpolitikáért felelős miniszter a külszolgálati hálózat tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól – különösen indokolt esetben – felmentést adhat.
+(2) A külpolitikáért felelős miniszter a külszolgálati hálózat tekintetében, illetve az európai uniós ügyek koordinációjáért felelős miniszter az Állandó Képviselet tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól különösen indokolt esetben felmentést adhat.
 
 85. § (1) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó államigazgatási szerv illetékességi területén működik.
 
@@ -1419,7 +1433,7 @@ alakul át.
 - b) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
 - c) nemzetiségi önkormányzat képviselője.
 
-(2) A kormánytisztviselő további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a kormánytisztviselő munkaköri feladataival közvetlenül összefügg.
+(2) A kormánytisztviselő további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a kormánytisztviselő munkaköri feladataival közvetlenül összefügg.
 
 (3) A kormánytisztviselő a (2) bekezdésben foglaltaktól eltérően a gyakorolható tevékenység, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélye alapján létesíthet, ha a munkavégzés időtartama részben azonos a kormánytisztviselő beosztás szerinti munkaidejével.
 
@@ -2066,7 +2080,7 @@ kell megállapítani.
 - 6. a Nemzeti Földalapkezelő Szervezetnél,
 - 7. – a területi szervezeti egységei kivételével – a mezőgazdasági és vidékfejlesztési támogatási szervnél,
 - 8. a földmérési és térinformatikai államigazgatási szervnél,
-- 9. az államháztartásért felelős miniszter irányítása alatt álló, egyes európai uniós támogatások ellenőrzését végző központi hivatalnál,
+- 9. az államháztartásért felelős miniszter irányítása alatt álló, egyes európai támogatásokat auditáló szervnél,
 - 10. az egészségügyért felelős miniszter irányítása alatt álló, egyes egészségügyi intézményekkel kapcsolatos fenntartói, továbbá egészségszervezési, minőségügyi, egyes hatósági és továbbképzéssel kapcsolatos feladatokat együttesen ellátó központi hivatalnál,
 - 11. a külgazdasági tevékenységet irányító központi hivatalnál,
 - 12. jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél,
@@ -2151,7 +2165,7 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 - a) komplex felsőfokú (C1) nyelvvizsga esetében az illetményalap 50%-a, a szóbeli vagy írásbeli nyelvvizsga esetében 25-25%-a;
 - b) komplex középfokú (B2) nyelvvizsga esetében az illetményalap 30%-a, a szóbeli vagy írásbeli nyelvvizsga esetében 15-15%-a.
 
-(6) A (4) és (5) bekezdéstől eltérően az angol, francia és német nyelvek tekintetében a pótlék alanyi jogon jár, amelynek mértéke nyelvvizsgánként
+(6) A (4) és (5) bekezdéstől eltérően az angol, francia, német, arab, kínai és orosz nyelvek tekintetében a pótlék alanyi jogon jár, amelynek mértéke nyelvvizsgánként
 
 - a) komplex felsőfokú (C1) nyelvvizsga esetében az illetményalap 100%-a,
 - b) komplex középfokú (B2) nyelvvizsga esetében az illetményalap 60%-a,
@@ -2261,7 +2275,7 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 - b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 - c) a hivatásos szolgálati jogviszony időtartamát, továbbá
 - d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
-- e) a hivatásos nevelő szülői jogviszonyban,
+- e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 - f) az e törvény, a Ktv., Ktjv., illetőleg a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 - g) az állami vezetői szolgálati jogviszonyban töltött időt kell figyelembe venni.
 
@@ -2609,7 +2623,8 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 2. mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
 - k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter és a fővárosi, megyei kormányhivatal kormánytisztviselője feladatkörében,
-- l) a feladatai ellátásához szükséges mértékig adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra vonatkozó adatok tekintetében, valamint az államigazgatási szervek kormánytisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatos feladatai ellátásához a személyügyi központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, személyügyi központnál alkalmazásban álló személy.
+- l) a feladatai ellátásához szükséges mértékig adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra vonatkozó adatok tekintetében, valamint az államigazgatási szervek kormánytisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatos feladatai ellátásához a személyügyi központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, személyügyi központnál alkalmazásban álló személy,
+- m) az európai támogatásokat auditáló szerv.
 
 (2) A kormánytisztviselő jogosult a róla nyilvántartott helytelen adat helyesbítését, a jogellenesen nyilvántartott adat törlését kérni, a jogellenesen kért adat közlését megtagadni. Az adatkezelő köteles a helytelen adatot haladéktalanul helyesbíteni, illetve törölni.
 
@@ -2687,7 +2702,7 @@ terjed ki.
 
 (4) A személyi anyagot – kivéve, amelyet a (3) bekezdés alapján átadtak – a jogviszony megszűnésétől számított ötven évig meg kell őrizni.
 
-### A minisztériumokban és foglalkoztatottak jogviszonyával összefüggő adatkezelés egyes szabályai, a közszolgálati nyilvántartás
+### A minisztériumokban foglalkoztatottak jogviszonyával összefüggő adatkezelés egyes szabályai, a közszolgálati nyilvántartás
 
 185. § (1) A minisztériumokban és foglalkoztatottakra a 176–184. §-ban foglalt rendelkezéseket a 185–188. §-ban foglalt eltérésekkel kell megfelelően alkalmazni.
 
@@ -2960,7 +2975,7 @@ kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével s
 
 (5) A (2)–(4) bekezdésekben meghatározott munkakörök száma nem haladhatja meg az államigazgatási szervnél foglalkoztatott kormánytisztviselők létszámának 8%-át. Az (1)–(3) bekezdésekben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében kell feltüntetni.
 
-(6) A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére szól.
+(6) A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter vagy az államtitkár hatáskörgyakorlása idejére szól.
 
 (7) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a 40. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A politikai főtanácsadó, politikai tanácsadó a kormánytisztviselőkre vonatkozó szabályok szerint közigazgatási alap- és szakvizsgát tehet. A vizsgák költségei a politikai főtanácsadót, politikai tanácsadót terhelik, mely költségeket a közigazgatási szerv átvállalhatja.
 
@@ -3436,9 +3451,9 @@ munkanapra emelkedik.
 
 ### Illetménykiegészítés
 
-234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
+234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a középiskolai végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a középiskolai végzettségű köztisztviselő esetében az alapilletményének 35%-a.
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
@@ -3820,7 +3835,7 @@ vonatkozó részletes szabályokat;
   - a) a közigazgatási alap- és szakvizsgával, valamint az ügykezelői alapvizsgával összefüggésben a vizsgaszervező kijelölését,
   - b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint e vizsgák alóli mentesítésre vonatkozó részletes szabályokat,
   - c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat;
-- 18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+- 18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat;
 - 19. a közszolgálati tisztviselők tekintetében a garantált bérminimum összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – megállapítsa.
 
 (2) Az államigazgatási szerv a kormánytisztviselő önkéntes kiegészítő nyugdíjpénztári tagságához egyéb juttatásként támogatást nyújthat. A központi költségvetés támogatásának részletes szabályait a Kormány határozza meg.
@@ -3835,7 +3850,9 @@ rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványára vonatkozó szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az Állandó Képviseleten teljesített tartós külszolgálat kivételével – rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+
+(4a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az Állandó Képviseleten teljesített tartós külszolgálat tekintetében rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -4075,7 +4092,7 @@ A kormánytisztviselőI.
 
 3. születési ideje
 
-4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma, e-mail cím
+4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma, e-mail címe
 
 II.
 

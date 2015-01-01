@@ -626,16 +626,7 @@ részt vehet.
 
 #### 29/B. §
 
-29/C. § (1) A 11/A. §
-
-- a) (4) és (5) bekezdésében meghatározott egészségügyi dolgozót az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel (a továbbiakban: Módtv4.) megállapított 1. és 2. melléklet alkalmazásával,
-- b) (6) és (6a) bekezdésében meghatározott egészségügyi dolgozót a Módtv4. által megállapított 11/A. § (6) és (6a) bekezdésében meghatározott összeg alkalmazásával 2013. szeptember 1. napjával át kell sorolni, munkaszerződését vagy – a Hjt. hatálya alá tartozók esetében a Hjt. 122. § (5) bekezdésében foglaltak alapján – illetménymegállapítási parancsát (határozatát) módosítani kell (a továbbiakban együtt: átsorolás), azzal, hogy 2013. július 1. és 2013. augusztus 31. között az a) és b) pont szerinti egészségügyi dolgozók e törvény 2013. június 30. napján hatályos rendelkezései szerint jogosultak a folyamatos illetmény- vagy bérnövelésre.
-
-(2) Az (1) bekezdés szerinti átsorolás során az egészségügyi dolgozót a 2013. június 30. napján hatályos rendelkezések alapján megillető alapbér, garantált illetmény, valamint rendszeres pótlék vagy pótlékok együttes összegét legalább a 29/B. § (4) és (5) bekezdésében, a 4. mellékletben vagy az 5. mellékletben meghatározott összeggel meg kell emelni.
-
-(3) A 11/A. § és a 29/B. § szerinti illetmény- vagy bérnövelést az adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat a Kormány rendelete alapján megillető kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében nem kell figyelembe venni.
-
-(4) A 11/A. § és a 29/B. § szerinti bérnövelés az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 460. §-a szerinti elvárt béremelésként, részkedvezményalap részeként az ott meghatározott adókedvezmény szempontjából nem vehető figyelembe.
+#### 29/C. §
 
 30. § Az egészségügyi szolgáltató a 11/A. § és a 29/B. § szerint meghatározott illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendeletben meghatározottak szerint, ott meghatározott összegű – működési célú, támogatásértékű bevételként – támogatásban részesül.
 
@@ -646,20 +637,11 @@ részt vehet.
 
 kell érteni.
 
-32. § A 13. § (1) bekezdés végrehajtásakor a Módtv. hatálybalépését követő hónapra vonatkozó munkaidő-beosztást annak kezdetétől számított 15 nappal megelőzően is lehet közölni.
+#### 32. §
 
-33. § (1) Annál a munkáltatónál, ahol a munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló törvény alapján az Mt. XI. fejezetét – 2012. június 30-át megelőzően kezdődött munkaidőkeretre vagy közölt munkaidő-beosztásra tekintettel – nem kell alkalmazni, e munkaidőkeret vagy közölt munkaidő-beosztás tartama alatt, de legfeljebb 2012. december 31-éig e törvény 2012. június 30-án hatályos 12. §-át, 13. §-át és 13/A. § (2) bekezdését kell a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénynek a munkaidőre és a pihenőidőre vonatkozó rendelkezéseivel együtt alkalmazni.
+#### 33. §
 
-(2) A 2012. június 30-án hatályos 12. § (6) bekezdése és 13. § (2) bekezdése alapján 2012. június 30-ig megkötött megállapodások a felek eltérő rendelkezése hiányában
-
-- a) 2012. augusztus 1-jén a törvény erejénél fogva megszűnnek,
-- b) az a) pontban foglaltaktól eltérően az (1) bekezdés szerinti esetben az (1) bekezdésben meghatározott időtartamig hatályban maradnak, azzal, hogy e megállapodások felmondására a 2012. június 30-án hatályos 14/A. § (2) bekezdését kell alkalmazni.
-
-(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel (a továbbiakban: Módtv2.) módosított 29. § (18) bekezdését 2012. január 1-jétől kell alkalmazni.
-
-(4) A Módtv2.-vel módosított 14/D. § szerinti, a Módtv2. hatálybalépésekor fennálló jogviszonyt a Módtv2. hatálybalépését követő 30 napon belül be kell jelenteni a fenntartónak. A fenntartó a jogviszony jóváhagyása tárgyában a bejelentéstől számított 60 napon belül dönt.
-
-34. § Az egészségügyet érintő egyes törvényeknek az egészségügyi szakellátási felelősséggel kapcsolatos, valamint egyes közszférában foglalkoztatott egészségügyi dolgozók foglalkoztatási helyzetével összefüggő módosításáról szóló 2013. évi XL. törvénnyel (a továbbiakban: Módtv3.) megállapított 16/A–16/D. § hatálya alá tartozó munkáltató a Módtv3. hatálybalépését követő 15 napon belül, írásban tájékoztatja az érintett foglalkoztatottakat a jövedelemkiegészítés juttathatóságának lehetőségéről.
+#### 34. §
 
 ### 1. melléklet a 2003. évi LXXXIV. törvényhez
 

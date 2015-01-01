@@ -6,7 +6,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### Általános rendelkezések
 
-1. § (1) A 4. §-ban meghatározott személy járadék fizetésére, a 4/A. §-ban meghatározott személy különadó fizetésére kötelezett.
+1. § (1) A 4. §-ban meghatározott személy járadék fizetésére, a 4/A. §-ban, 4/B. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
 
 (2) A járadékból és a különadóból származó bevétel a központi költségvetést illeti meg.
 
@@ -30,21 +30,21 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (4) A hitelintézet a járadékelőleget negyedévente, a negyedévet követő hónap 12-éig, az utolsó negyedévi adóelőleget az adóév utolsó hónapjának 20. napjáig fizeti meg az adott negyedévben kamat és kamatjellegű bevétel címén elszámolt összeg után.
 
-(5) A pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: Gyűjtőszámlahitel tv.) 2/A. § (1) bekezdése alapján az állam által 2014-re megtérített összeg 50%-ával megegyező összegű járadékot állapít meg és fizet a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrész után. A pénzügyi intézmény a járadékot negyedévente, az államot a negyedévre terhelő megtérítési kötelezettség teljesítésére jogszabályban előírt határidőt követő hó utolsó napjáig állapítja meg, vallja be és fizeti meg. Az állam által a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrészre és az államnak a rögzített árfolyam alkalmazási időszaka alatt felmerült, a legmagasabb árfolyamot meghaladó törlesztési kötelezettségére tekintettel a gyűjtőszámlahitelek és az azok alapjául szolgáló devizakölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
+(5) A pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: Gyűjtőszámlahitel tv.) 2/A. § (1) bekezdése alapján az állam által 2015-re megtérített összeg 50%-ával megegyező összegű járadékot állapít meg és fizet a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrész után. A pénzügyi intézmény a járadékot negyedévente, az államot a negyedévre terhelő megtérítési kötelezettség teljesítésére jogszabályban előírt határidőt követő hó utolsó napjáig állapítja meg, vallja be és fizeti meg. Az állam által a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrészre és az államnak a rögzített árfolyam alkalmazási időszaka alatt felmerült, a legmagasabb árfolyamot meghaladó törlesztési kötelezettségére tekintettel a gyűjtőszámlahitelek és az azok alapjául szolgáló devizakölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
 
 (5a) A pénzügyi intézmény által az (5) bekezdés alapján az elszámolás napját megelőzően megfizetett járadék összegét nem érinti a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvény szerinti elszámolás.
 
-(6) A Gyűjtőszámlahitel tv. 2/A. §-a alapján az állam által az üzleti évre (az adóévre) megtérített összeget a pénzügyi intézménynél az üzleti év (ár)bevétele alapulvétele alapján fizetendő adó és más hasonló fizetési kötelezettség megállapításánál figyelmen kívül kell hagyni, továbbá a Gyűjtőszámlahitel tv. 2/A. § (2) bekezdése alapján az állam által 2014-re megtérített összeg mentes az (1)–(4) bekezdésben meghatározott járadék alól.
+(6) A Gyűjtőszámlahitel tv. 2/A. §-a alapján az állam által az üzleti évre (az adóévre) megtérített összeget a pénzügyi intézménynél az üzleti év (ár)bevétele alapulvétele alapján fizetendő adó és más hasonló fizetési kötelezettség megállapításánál figyelmen kívül kell hagyni, továbbá a Gyűjtőszámlahitel tv. 2/A. § (2) bekezdése alapján az állam által 2015-re megtérített összeg mentes az (1)–(4) bekezdésben meghatározott járadék alól.
 
 (7) Az állam által a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet alapján nyújtott támogatásra, továbbá az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet alapján nyújtott támogatásra tekintettel a támogatással érintett kölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
 
 ### Pénzügyi szervezetek különadója
 
-4/A. § (1) A pénzügyi szervezet 2014-ben különadó megállapítására, bevallására és fizetésére kötelezett.
+4/A. § (1) A pénzügyi szervezet 2015-ben különadó megállapítására, bevallására és fizetésére kötelezett.
 
-(2) A pénzügyi szervezet a különadót 2014. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(2) A pénzügyi szervezet a különadót 2015. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A 2010–2013. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2014. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
+(3) A 2010–2014. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2015. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
@@ -55,7 +55,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
   - b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
   - c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
   - d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél a 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
-  - e) befektetési alapkezelőnél az általa kezelt alapok 2009. december 31-i nettó eszközértékének, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon 2009. december 31-i értékének együttes összege.
+  - e)
 
 (5)
 
@@ -68,7 +68,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
   - cb) befektetési vállalkozásnál 5,6 százalék,
   - cc) tőzsdénél 5,6 százalék,
   - cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
-  - ce) befektetési alapkezelőnél 0,028 százalék.
+  - ce)
 
 (7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(37) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
@@ -80,7 +80,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 - a) a hitelintézet az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított módosított mérlegfőösszeget tartalmazó kimutatást,
 - b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
-- c) a befektetési alapkezelő az adóalap meghatározásakor számításba vett, általa kezelt alapok megnevezését és nettó eszközértékét, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon értékének összegét,
+- c)
 - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
 - e)
 
@@ -166,7 +166,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### A hitelintézetek különadója
 
-4/B. § (1) A hitelintézet a 2014-ben kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
+4/B. § (1) A hitelintézet a 2015-ben kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
 
 (2) A különadó alapja az üzleti év (adóév) adózás előtti eredménye, növelve az annak terhére a pénzügyi szervezetek különadója címén fizetett (fizetendő) összegének megfelelően ráfordításként elszámolt összegével.
 
@@ -183,6 +183,33 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 ### Hitelintézeti hozzájárulás
 
 4/C. §
+
+### A forgalmazó és a befektetési alap különadója
+
+4/D. § (1) Adóköteles a Magyarországon székhellyel vagy fiókteleppel rendelkező
+
+- a) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) szerinti forgalmazó által Magyarországon forgalmazott és ügyfelei részére vezetett értékpapír számlákon általa nyilvántartott külföldi kollektív befektetési értékpapír,
+- b) befektetési alapkezelő által kezelt és Magyarországon bejegyzett befektetési alap befektetési jegye.
+
+(2) Az adó alanya:
+
+- a) az (1) bekezdés a) pontja szerinti esetben a forgalmazó,
+- b) az (1) bekezdés b) pontja szerinti esetben a befektetési alap.
+
+(3) Az adó alapja
+
+- a) az (1) bekezdés a) pontja szerinti külföldi kollektív befektetési értékpapír esetén az (1) bekezdés a) pontja szerinti forgalmazó által ügyfelei részére vezetett értékpapír számlákon nyilvántartott külföldi kollektív befektetési értékpapírok forintban kifejezett – a vásárolt értékpapírok napi nettó eszközértékén számított, negyedévben összesített érték és a negyedév naptári napjai hányadosaként számított – értéke, ide nem értve a kollektív befektetési forma tulajdonában lévő, ezen számlákon nyilvántartott értékpapírok forintban kifejezett fentiek szerint számított értékét;
+- b) a befektetési alapkezelő által kezelt alapok befektetési jegyeinek a negyedév naptári napjain nyilvántartott nettó eszközértékén számított negyedévben összesített érték és a negyedév naptári napjai hányadosaként számított értéke, ide nem értve a kollektív befektetési forma tulajdonában lévő, ezen számlákon nyilvántartott értékpapírok forintban kifejezett fentiek szerinti értékét.
+
+(4) Az adó éves mértéke az adóalap 0,05 százaléka.
+
+(5) A (3) bekezdés a) pontja szerinti adóalap esetében a fizetendő adót a forgalmazó állapítja meg, vallja be és fizeti meg (önadózás).
+
+(6) A (3) bekezdés b) pontja szerinti adóalap esetében a fizetendő adót a befektetési alapkezelő állapítja meg, szedi be, vallja be és – a megállapított beszedett és beszedni elmulasztott adót – fizeti meg (adóbeszedés).
+
+(7) A forgalmazó, illetve a befektetési alapkezelő a különadó-kötelezettséget negyedévente, az éves adómérték egy negyedét figyelembe véve, a negyedévet követő hónap 20. napjáig állapítja meg, és az állami adóhatóság által rendszeresített nyomtatványon vallja be és fizeti meg.
+
+(8) Amennyiben a külföldi kollektív befektetési értékpapírokat a befektetési alapkezelő forgalmazza és ehhez kapcsolódóan értékpapírszámla vezetést is végez, akkor a (2) bekezdés a) pontja szerint adóalany, és e tevékenysége körében megfelelően alkalmaznia kell az (1)–(5) bekezdés rendelkezéseit.
 
 ### Vegyes rendelkezések
 
@@ -216,13 +243,13 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 - 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 - 4. hitelintézet: a Hpt. szerinti hitelintézet;
 - 5–6.
-- 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő, befektetési alapkezelő;
+- 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
 - 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;
 - 9. befektetési vállalkozás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) szerinti befektetési vállalkozás;
 - 10. tőzsde: a tőkepiacról szóló törvény (a továbbiakban: Tpt.) szerinti tőzsde;
 - 11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
-- 12. kockázati tőkealap-kezelő: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti kockázati tőkealap-kezelő;
-- 13. befektetési alapkezelő: a Tpt. szerinti befektetési alapkezelő;
+- 12. kockázati tőkealap-kezelő: Kbftv. szerinti kockázati tőkealap-kezelő;
+- 13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő;
 - 14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege (a mérlegfőösszeg), csökkentve
   - a) a bankközi hitelből eredő, belföldön székhellyel rendelkező adóssal szemben, vagy belföldön fiókteleppel rendelkező adóssal szemben e fióktelep útján fennálló követeléssel,
   - b) a belföldön székhellyel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott, valamint a belföldön fiókteleppel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által e fióktelep útján kibocsátott, hitelviszonyt megtestesítő értékpapírral,
@@ -239,7 +266,9 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
   - m) ha a j) pont szerinti nyilatkozat az eszközök értékét devizában tartalmazza, akkor ennek átszámítása az adóalany által a mérlegfőösszeg meghatározott árfolyamnak megfelelően történik,
   - n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz kapcsolódó minden jogkövetkezmény az adóalanyt terheli;
 - 15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege;
-- 16–18.
+- 16. értékpapírszámla: a Tpt. szerinti értékpapírszámla;
+- 17. kollektív befektetési értékpapír: a Kbftv. szerinti kollektív befektetési értékpapír;
+- 18.
 - 19. korrigált nettó árbevétel:
   - a) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei csökkentve a befektetési szolgáltatási tevékenység ráfordításaival;
   - b) tőzsdénél: a tőzsdei tevékenység bevételei növelve az egyéb bevételekkel;
@@ -274,4 +303,6 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (4) A pénzügyi intézmény a (3) bekezdés szerint meghatározott összeget késedelmi pótlékkal növelten köteles megfizetni, ha a 2012. december 31-én fennálló – 2011. december 31-ei árfolyamon meghatározott – kkv-hitelállomány összege kisebb, mint a 2011. december 31-én fennálló kkv-hitelállomány és a (2) bekezdés szerint meghatározott összeg együttes összege.
 
-11. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 4/C. §-a 2014. december 31-én hatályát veszti.
+11. §
+
+12. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 4/D. §-át első alkalommal a 2015. évi adókötelezettségre kell alkalmazni.

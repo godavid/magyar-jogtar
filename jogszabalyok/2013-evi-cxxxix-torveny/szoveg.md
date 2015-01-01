@@ -199,9 +199,9 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 #### 9. A Pénzügyi Stabilitási Tanács
 
-13. § (1) A Pénzügyi Stabilitási Tanács hatáskörébe tartozik a Monetáris Tanács által meghatározott stratégiai keretek között a 4. § (5) és (7)–(9) bekezdésében meghatározott feladatokkal kapcsolatos döntéshozatal.
+13. § (1) Az MNB hatáskörébe tartozó ügyek közül a Monetáris Tanács által meghatározott stratégiai keretek között a Pénzügyi Stabilitási Tanács – mint az MNB-nek a 8. § b) pontja szerinti szerve, az MNB nevében – jár el a 4. § (5) és (7)–(9) bekezdésében meghatározott feladatokkal kapcsolatos eljárásokban.
 
-(2) A Pénzügyi Stabilitási Tanács az (1) bekezdés szerinti hatáskörében
+(2) A Pénzügyi Stabilitási Tanács az (1) bekezdésben foglaltak szerint
 
 - a) a pénzügyi közvetítőrendszer egészének stabilitása érdekében folyamatosan figyelemmel kíséri a pénzügyi közvetítőrendszer egészének, illetve a pénzügyi piacoknak a stabilitását,
 - b) számba veszi a pénzügyi közvetítőrendszer egészét veszélyeztető kockázati tényezőket,
@@ -210,10 +210,11 @@ A Monetáris Tanács hatáskörébe tartozik:
 - e) megtárgyalja a pénzügyi közvetítőrendszer egészét érintő stratégiai, szabályozási, kockázati, kérdéseket és szükség esetén állást foglal,
 - f) a pénzügyi közvetítőrendszer egészének stabilitását fenyegető helyzetben értékeli a rendszerkockázatokat, dönt az azok csökkentése vagy megszüntetése érdekében szükséges intézkedésekről,
 - g) szükség szerint napirendre tűzi az Európai Rendszerkockázati Testületnek a pénzügyi közvetítőrendszer egészének szempontjából releváns ajánlásait, állásfoglalásait, kockázati figyelmeztetéseit,
-- h) szükség szerint megtárgyalja az Európai Felügyeleti Hatóságok által kiadott ajánlásokat, határozatokat, ideértve az európai pénzügyi rendszer stabilitásának komoly veszélyeztetettsége esetén a nemzeti felügyeleti hatóságoknak címzett, egyedi intézkedések megtételére felszólító határozatokat is, valamint állást foglalt az azokból származó feladatokról,
+- h) szükség szerint megtárgyalja az Európai Felügyeleti Hatóságok által kiadott ajánlásokat, határozatokat, ideértve az európai pénzügyi rendszer stabilitásának komoly veszélyeztetettsége esetén a nemzeti felügyeleti hatóságoknak címzett, egyedi intézkedések megtételére felszólító határozatokat is, valamint állást foglal az azokból származó feladatokról,
 - i) az MNB jogalkalmazási gyakorlatának alapjait ismertető, a 39. §-ban meghatározott törvények hatálya alá tartozó személyekre és szervezetekre nézve kötelező erővel nem rendelkező ajánlást ad ki,
-- j) évente meghatározza az MNB ellenőrzési tevékenységének kiemelt célterületeit és
-- k) döntést hoz a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek, valamint tevékenységek feletti 4. § (9) bekezdése szerinti felügyelet gyakorlásával kapcsolatos hatósági eljárásokban.
+- j) évente meghatározza az MNB ellenőrzési tevékenységének kiemelt célterületeit,
+- k) döntést hoz a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek, valamint tevékenységek feletti 4. § (9) bekezdése szerinti felügyelet gyakorlásával kapcsolatos hatósági eljárásokban és
+- l) döntést hoz a 4. § (8) bekezdés szerinti, külön törvényben meghatározott szanálási feladatkör gyakorlásával kapcsolatos hatósági eljárásokban.
 
 (3) A Pénzügyi Stabilitási Tanács döntéseiről rendszeresen beszámol a Monetáris Tanácsnak.
 
@@ -235,7 +236,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 (10) A Pénzügyi Stabilitási Tanács ügyrendjét maga határozza meg.
 
-(11) A Pénzügyi Stabilitási Tanács az ügyrendjében meghatározottak szerint a (2) bekezdés k) pontjában meghatározott döntések tekintetében – egyes döntések vonatkozásában vagy teljes körűen – a kiadmányozási jogot az MNB által alkalmazott vezetői megbízatással rendelkező személyre ruházhatja át.
+(11) A Pénzügyi Stabilitási Tanács az ügyrendjében meghatározottak szerint a (2) bekezdés k) és l) pontjában meghatározott döntések – ide nem értve a külön törvényben meghatározott szanálást elrendelő, valamint szanálási intézkedést alkalmazó határozatot – tekintetében, egyes döntések vonatkozásában vagy teljeskörűen, a kiadmányozási jogot az MNB által alkalmazott vezetői megbízatással rendelkező személyre ruházhatja át.
 
 (12) A Pénzügyi Stabilitási Tanács álláspontját az elnök vagy az erre a Pénzügyi Stabilitási Tanács által felhatalmazott tagja jogosult nyilvánosságra hozni.
 
@@ -382,6 +383,8 @@ feladatokat.
 
 (4) Az MNB 4. § (5) bekezdés szerinti feladatkörében eljárva ellátja a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) végrehajtásából eredő feladatokat.
 
+28/A. § Az MNB 4. § (5) bekezdés szerinti feladatkörében eljárva az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 909/2014/EU rendelet) 2. cikk (1) bekezdés 18. pontja szerinti érintett hatóságként ellátja a 909/2014/EU rendelet végrehajtásából eredő feladatokat.
+
 29. § Az euroátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló 2012. március 14-i 260/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: a 260/2012/EU európai parlamenti és tanácsi rendelet) 10. cikke szerinti illetékes hatóságként az MNB látja el a 260/2012/EU európai parlamenti és tanácsi rendelet végrehajtásából eredő feladatokat.
 
 #### 18. Jegybanki információs rendszer
@@ -508,13 +511,19 @@ vonatkozó szabályokat állapít meg.
 
 (3) Ha az MNB 3% vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § (1) bekezdés a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (1) bekezdésében és a Bszt. 110/G. § (1) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
 
-(4) Ha a (3) bekezdéstől eltérően az MNB 3% feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB által előzetesen megküldött tervezetet véleménnyel ellátva megküldi az Európai Bizottságnak, amely kettő hónapon belül véleményt küld az MNB-nek.
+(4) Ha az MNB a Hpt. 92. § (1) bekezdés b) pontja és a Bszt. 110/G. § (1) bekezdés b) pontja szerinti kitettségre 3 százalék feletti vagy a Hpt. 92. § (1) bekezdés a) és c) pontja és a Bszt. 110/G. § (1) bekezdés a) és c) pontja szerinti kitettségre 5 százalék feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB tervezetét véleménnyel ellátva megküldi az Európai Bizottságnak, amely kettő hónapon belül véleményt küld az MNB-nek.
 
-(5) Ha a (4) bekezdésben rögzített véleményében az Európai Bizottság ellenzi az MNB által tervezett, a (4) bekezdésben meghatározott mértékű tőkepufferráta bevezetését, akkor az MNB köteles az Európai Bizottság véleményében meghatározottaknak megfelelően eljárni.
+(5) Ha az MNB a Hpt. 92. § (1) bekezdés a) és c) pont és a Bszt. 110/G. § (1) bekezdés a) és c) pont szerinti kitettségre 3 és 5 százalék közötti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor az MNB előzetesen megküldi a tervezetét véleménnyel ellátva az Európai Bizottságnak azzal, hogy a rendszerkockázati pufferrátát e bekezdés szerint csak az Európai Bizottság előzetes véleményének kézhezvételét követően vezetheti be.
 
-(6) Az MNB elismerheti a másik EGT-államban megállapított rendszerkockázati tőkepufferrátát, mérlegelve a 141/A. § (1) bekezdés a) pontja alapján kapott információkat, és előírhatja a Magyarországon székhellyel rendelkező hitelintézetek és befektetési vállalkozások számára annak alkalmazását az adott EGT-államban lévő kitettségeik tekintetében.
+(6) Ha a (4) bekezdésben rögzített véleményében az Európai Bizottság ellenzi az MNB által tervezett, a (4) bekezdésben meghatározott mértékű tőkepufferráta bevezetését, akkor az MNB köteles az Európai Bizottság véleményében meghatározottaknak megfelelően eljárni.
 
-(7) Az MNB kérheti az Európai Rendszerkockázati Testületet, hogy adjon ki ajánlást egy vagy több EGT-állam vonatkozásában az MNB által meghatározott rendszerkockázati tőkepuffer elismerésének érdekében.
+(7) Ha az (5) bekezdésben rögzített véleményében az Európai Bizottság ellenzi az MNB által tervezett, az (5) bekezdésben meghatározott mértékű tőkepufferráta bevezetését, akkor az MNB az ellenvélemény figyelembe vétele nélkül bevezetheti a tervezetében meghatározott mértékben a rendszerkockázati tőkepufferrátát azzal, hogy a vélemény figyelembe nem vételét részletesen indokolja az Európai Bizottság számára.
+
+(8) Az (5) bekezdésben meghatározott esetben, amennyiben másik EGT-államban székhellyel rendelkező anyavállalat hitelintézet leányvállalata érintett, a MNB az Európai Bizottsággal egyidejűleg az ügyben érintett többi illetékes felügyeleti hatóságot is értesíti, egyeztet velük. Ha a többi érintett illetékes felügyeleti hatóság és az MNB nem ért egyet az Európai Bizottságnak megküldött javaslat tekintetében, vagy a javaslatnak az Európai Bizottság felé megküldését követő egy hónapon belül az Európai Rendszerkockázati Testület a rendszerkockázati tőkepuffer alkalmazását illetően ellenvéleményt fejez ki, akkor az MNB az Európai Bankhatósággal egyeztetést kezdeményez, amely egyeztetés során az Európai Bankhatóság részéről rögzítésre kerülő vélemény az MNB-re nézve nem kötelező.
+
+(9) Az MNB elismerheti a másik EGT-államban megállapított rendszerkockázati tőkepufferrátát mérlegelve a 141/A. § (1) bekezdés a) pontja alapján kapott információkat, és előírhatja a Magyarországon székhellyel rendelkező hitelintézetek és befektetési vállalkozások számára annak alkalmazását az adott EGT-államban lévő kitettségeik tekintetében.
+
+(10) Az MNB kérheti az Európai Rendszerkockázati Testületet, hogy adjon ki ajánlást egy vagy több EGT-állam vonatkozásában az MNB által meghatározott rendszerkockázati tőkepuffer elismerésének érdekében.
 
 #### 24. A rendszerkockázat kezelésével kapcsolatos további feladatok
 
@@ -581,6 +590,10 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (13) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló, 2013. május 15-i 447/2013/EU bizottsági végrehajtási rendelet végrehajtását.
 
 (14) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló, 2013. május 15-i 448/2013/EU bizottsági végrehajtási rendelet végrehajtását.
+
+(15) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a 2011/61/EU európai parlamenti és tanácsi irányelvnek a mentességek, az általános működési feltételek, a letétkezelők, a tőkeáttétel, az átláthatóság és a felügyelet tekintetében történő kiegészítéséről szóló, 2012. december 19-i 231/2013/EU bizottsági felhatalmazáson alapuló rendelet végrehajtásából eredő feladatokat.
+
+(16) Az MNB – a 28/A. §-ban meghatározottak mellett – a 4. § (9) bekezdésében meghatározott feladatkörében a 909/2014/EU rendelet 2. cikk (1) bekezdés 17. pontja szerinti illetékes hatóságként látja el a 909/2014/EU rendelet végrehajtásához kapcsolódó feladatokat.
 
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
@@ -1015,18 +1028,18 @@ végez.
 
 #### 28. A felügyeleti biztos
 
-79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l) és n) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
+79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l), m) és n) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
 
-(2) Felügyeleti biztosként kizárólag a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság (a továbbiakban: nonprofit gazdasági társaság) rendelhető ki, amely a tevékenységének végzése során a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek által nyújtott szolgáltatásokat igénybevevők, illetve a fogyasztók érdekeit védve jár el.
+(2) Felügyeleti biztosként kizárólag az MNB 4. § (9) bekezdésben meghatározott feladatkört ellátó munkavállalója vagy a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság (a továbbiakban: nonprofit gazdasági társaság) jelölése alapján a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy rendelhető ki. A felügyeleti biztosi feladatokat az MNB munkavállalója és a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy együttesen is elláthatja.
 
-(3) A nonprofit gazdasági társaság azt a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személyt (a továbbiakban: kijelölt felügyeleti biztos) jelöli ki a felügyeleti biztos feladatainak ellátására, aki
+(3) Felügyeleti biztosként az rendelhető ki, aki
 
-- a) büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a felügyeleti biztosi feladat ellátását nem teszi lehetővé,
-- b) szakirányú felsőfokú végzettséggel és legalább négyéves,
+- a) büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a felügyeleti biztosi feladat ellátását nem teszi lehetővé és
+- b) szakirányú felsőfokú képzettséggel és legalább négyéves,
   - ba) a 39. § (1) bekezdés a) pontjában foglalt törvényben meghatározott pénztárnál,
   - bb) a 39. § (1) bekezdés c) pontjában foglalt törvényben meghatározott hitelintézetnél vagy pénzügyi vállalkozásnál,
   - bc) a 39. § (1) bekezdés f) pontjában foglalt törvényben meghatározott pénztárnál,
-  - bd) a 39. § (1) bekezdés h) és m) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál,
+  - bd) a 39. § (1) bekezdés h) és m) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál, központi szerződő félnél,
   - be) a 39. § (1) bekezdés i) pontjában foglalt törvényben meghatározott biztosítónál,
   - bf) a 39. § (1) bekezdés k) pontjában foglalt törvényben meghatározott foglalkoztatói nyugdíjszolgáltató intézménynél,
   - bg) a 39. § (1) bekezdés l) pontjában foglalt törvényben meghatározott befektetési vállalkozásnál,
@@ -1034,26 +1047,28 @@ végez.
 
 szerzett vezetői gyakorlattal rendelkezik.
 
-(4) A (3) bekezdés b) pontjának alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi végzettséget igazoló egyetemi diplomával, főiskolai oklevéllel, könyvvizsgálói vagy olyan felsőfokú képesítéssel – ideértve a posztgraduális képesítést is – rendelkezik, amely szükséges ahhoz, hogy a 39. § (1) bekezdés a), c), f), h), i), k), l) és n) pontjában meghatározott törvények által szabályozott szervezetekben ügyvezetőnek, illetve vezető állású személynek legyen kinevezhető, megválasztható.
+(4) A (3) bekezdés b) pontjának alkalmazásában szakirányú felsőfokú képzettséggel rendelkező személynek minősül, aki főiskolai vagy egyetemi szintű közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi szakképzettséggel, könyvvizsgálói vagy olyan felsőfokú szakképesítéssel rendelkezik, amely szükséges ahhoz, hogy a 39. § (1) bekezdés a), c), f), h), i), k), l), m) és n) pontjában meghatározott törvények által szabályozott szervezetekben ügyvezetőnek, illetve vezető állású személynek legyen kinevezhető, megválasztható.
 
-(5) Felügyeleti biztosnak nem lehet kijelölni azt, illetve e minőségében nem járhat el az,
+(5) Felügyeleti biztosnak nem lehet kirendelni azt, illetve e minőségében nem járhat el az,
 
-- a) aki saját maga vagy közeli hozzátartozója a 39. § (1) bekezdés a), c), f), h), i), k), l) és n) pontjában meghatározott törvények által szabályozott, a felügyeleti biztosi tevékenységgel érintett szervezetekben a kijelölés időpontjában vagy a kijelölést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szervezettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
+- a) aki saját maga vagy közeli hozzátartozója a 39. § (1) bekezdés a), c), f), h), i), k), l), m) és n) pontjában meghatározott törvények által szabályozott, a felügyeleti biztosi tevékenységgel érintett szervezetekben a kirendelés időpontjában vagy a kirendelést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szervezettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
 - b) akitől a felügyeleti biztos feladatainak részrehajlásmentes megítélése és tárgyilagos elintézése egyéb okból nem várható el (elfogultság).
 
-(6) Az (5) bekezdésben meghatározott bármely körülményről a felügyeleti biztos a kijelöléskor, ha az (5) bekezdésben meghatározott körülmény a kijelölés után merül fel, a körülmény felmerülését követően azonnal köteles tájékoztatni a nonprofit gazdasági társaság vezetőjét. Ebben az esetben másik felügyeleti biztos kijelölésére kerül sor.
+(6) Az (5) bekezdésben meghatározott bármely körülményről a felügyeleti biztos a kirendeléskor, ha az (5) bekezdésben meghatározott körülmény a kirendelés után merül fel, a körülmény felmerülését követően azonnal köteles tájékoztatni a kijelölőjét. Ebben az esetben másik felügyeleti biztos kirendelésére kerül sor.
 
-(7) A kijelölt felügyeleti biztos által e minőségében okozott kárért a károsulttal szemben a nonprofit gazdasági társaság felelős. A nonprofit gazdasági társaságnak rendelkeznie kell megfelelő vagyoni biztosítékkal a kártérítési kötelezettségek megtérítése fedezetének biztosítására.
+(7) Az MNB munkavállalójaként kirendelt felügyeleti biztos által e minőségében okozott kárért az MNB, a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló felügyeleti biztos felügyeleti biztosi minőségében okozott kárért a nonprofit gazdasági társaság a felelős.
 
-(8) A kijelölt felügyeleti biztos a nonprofit gazdasági társaságnak okozott károkért a munkavállalók, illetve a munkavégzésre irányuló egyéb jogviszonyban állók kártérítési felelősségére vonatkozó szabályok szerint felelős azzal, hogy gondatlan károkozás esetén a kártérítés mértéke a kijelölt felügyeleti biztos hathavi illetményét nem haladhatja meg. Szándékos károkozás esetén a kártérítés mértéke a kijelölt felügyeleti biztos hathavi illetményét meghaladhatja.
+(8) A kirendelt felügyeleti biztos az MNB-nek, illetve a nonprofit gazdasági társaságnak okozott károkért a munkavállalók, illetve a munkavégzésre irányuló egyéb jogviszonyban állók kártérítési felelősségére vonatkozó szabályok szerint felelős azzal, hogy gondatlan károkozás esetén a kártérítés mértéke a kijelölt felügyeleti biztos hathavi illetményét nem haladhatja meg.
 
-(9) A nonprofit gazdasági társaság a kijelölt felügyeleti biztos nevét és székhelyét – bejegyzés és közzététel végett – bejelenti a cégbíróságnak.
+(9) A nonprofit gazdasági társaságnak rendelkeznie kell megfelelő vagyoni biztosítékkal a kártérítési kötelezettségek megtérítése fedezetének biztosítására.
 
-(10) A felügyeleti biztosi feladatok ellátására kijelölendő személy a kijelölést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a felügyeleti biztosi feladat ellátását nem teszi lehetővé. Indokolt esetben – akár önállóan, akár az MNB kezdeményezésére – a munkáltatói jogkör gyakorlója írásban felszólíthatja a kijelölt felügyeleti biztost, hogy a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül menthető ok miatt nem lehetséges, az ezt akadályozó ok megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely felügyeleti biztosi feladat ellátását nem teszi lehetővé.
+(10) Az MNB a kirendelt felügyeleti biztost – bejegyzés és közzététel végett – bejelenti a cégbíróságnak.
 
-80. § (1) A nonprofit gazdasági társaság a kijelöléskor, illetve a felügyeleti biztosi tevékenységének folytatása során is – a lefolytatandó vagy folyamatban lévő eljárás összes körülményének mérlegelése alapján – dönthet úgy, hogy több személyt jelöl ki a felügyeleti biztosi tevékenység ellátására. A nonprofit gazdasági társaságnak lehetősége van arra is, hogy a már kijelölt személyek számát csökkentse, ha ez a lefolytatandó vagy folyamatban lévő eljárás összes körülményének mérlegelése alapján indokolt.
+(11) A felügyeleti biztosi feladatok ellátására kirendelő személy a kirendelést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a felügyeleti biztosi feladat ellátását nem teszi lehetővé.
 
-(2) Hitelintézethez történő felügyeleti biztos kirendelése esetén a nonprofit gazdasági társaság a hitelintézethez egyidejűleg legalább két személyt jelöl ki a felügyeleti biztosi tevékenység ellátására.
+80. § (1) A felügyeleti biztos kirendelésekor a 4. § (9) bekezdésében meghatározott feladatkörében eljáró MNB határozatban megállapítja a kirendelt felügyeleti biztos szerepét, feladatait, amelyet a kirendelés időtartama alatt az MNB bármikor határozatban módosíthat. Az MNB munkavállalójaként kirendelt felügyeleti biztos a 4. § (9) bekezdésben meghatározott feladatkörében eljáró MNB által utasítható.
+
+(2) A kirendelt felügyeleti biztos az érintett szervezet pénzügyi helyzetéről és a kirendelésének időtartama alatt végzett tevékenységéről szóló, a 4. § (9) bekezdésben meghatározott feladatkörében eljáró MNB által meghatározott időszakra vagy a kirendelés teljes idejére vonatkozó jelentést készít.
 
 #### 29. Fogyasztóvédelmi ellenőrzési eljárás
 
@@ -1315,7 +1330,7 @@ terjedhet.
 
 (4) A békéltető testületi tag munkaviszonyának megszűntetéséhez a Békéltető Testület elnökének jóváhagyása szükséges.
 
-98. § (1) A Pénzügyi Békéltető Testület háromtagú tanácsban (a továbbiakban: tanács) jár el.
+98. § (1) A Pénzügyi Békéltető Testület háromtagú tanácsban (a továbbiakban: tanács) jár el, kivéve az ötvenezer forintot meg nem haladó összegre vonatkozó vagy egyszerű megítélésű fogyasztói kérelmeket jelentő, valamint méltányossági kérelmet tartalmazó ügyeket, amelyeknél egy testületi tag is eljárhat. Ahol e törvény eljáró tanácsot vagy annak elnökét említi, azon az egyedül eljáró testületi tagot is érteni kell.
 
 (2) A tanács tagjainak kijelölésére a Pénzügyi Békéltető Testület működési rendjében meghatározottak szerint kerül sor.
 
@@ -1457,6 +1472,8 @@ terjedhet.
 
 (5) A tanács az eljárást az annak megindulását követő kilencven napon belül befejezi, indokolt esetben ezt a határidőt a Pénzügyi Békéltető Testület elnöke legfeljebb harminc nappal meghosszabbíthatja.
 
+(6) A Pénzügyi Békéltető Testület évente két alkalommal, július, illetve augusztus, valamint december hónapban 8–15 munkanap eljárási szünetet tart, amely időtartam az eljárási határidőkbe nem számítható be. Az eljárási szünet pontos idejét a Pénzügyi Békéltető Testület elnöke évente határozza meg és a Pénzügyi Békéltető Testület honlapján közzéteszi.
+
 113. § Egyezség hiányában a tanács az ügy érdemében
 
 - a) kötelezést tartalmazó határozatot hoz, ha a kérelem megalapozott, és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet általános alávetési nyilatkozatában, kereskedelmi kommunikációjában közölt vagy az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig tett nyilatkozatában a Pénzügyi Békéltető Testület döntését magára nézve kötelezőként elismerte, vagy
@@ -1518,7 +1535,7 @@ terjedhet.
 
 122. § Ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet megsérti a pénzügyi fogyasztói jogvita rendezésére vonatkozó rendelkezéseket, vele szemben az MNB e törvény szerinti intézkedést alkalmazhat.
 
-123. § A Pénzügyi Békéltető Testület eljárására vonatkozó, a törvény keretei között kialakított részletes szabályokat a Pénzügyi Békéltető Testület működési rendje tartalmazza.
+123. § A Pénzügyi Békéltető Testület döntéseihez az adott ügyben független, jogi egyetemi diplomával és szakvizsgával rendelkező jogász vagy közgazdasági egyetemi diplomával rendelkező közgazdász állásfoglalását szerezheti be, az eljárására vonatkozó részletes szabályokat az e törvény keretei között kialakított működési rendje tartalmazza.
 
 #### 33. A Pénzügyi Békéltető Testület eljárása határon átnyúló pénzügyi fogyasztói jogvita esetén
 
@@ -1746,7 +1763,7 @@ terjedhet.
 - c) mindazon vállalkozások csoportszintű kockázatelemzésén alapuló felügyeleti felülvizsgálati programok kialakítását, amelyekre az összevont alapú felügyelet együttesen kiterjed;
 - d) a felügyeleti munka hatékonyságának növelését;
 - e) a tagállamok esetleges eltérő szabályozására is figyelemmel, a prudenciális követelmények következetes alkalmazását mindazon vállalkozások tekintetében, amelyekre az összevont alapú felügyelet együttesen kiterjed;
-- f) a Hpt. 96/C. § (11) bekezdése szerinti együttműködést.
+- f) a Hpt. 176. § (4) bekezdése szerinti együttműködést.
 
 (3) A felügyeleti kollégium az MNB és a többi érintett tagállam hatáskörrel rendelkező pénzügyi felügyeleti hatóságainak konzultációját követően, az MNB által kidolgozott írásbeli megállapodás alapján jön létre és működik. Az MNB a felügyeleti kollégiumban való részvételre az érintett EU-szintű hitelintézeti anyavállalat, EU-szintű befektetési vállalkozás anyavállalat, EU-szintű biztosítói anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatát felügyelő hatóságokat, az érintett – külön törvényben meghatározott – rendszerszinten jelentős fióktelepeket felügyelő hatáskörrel rendelkező hatóságokat, szükség szerint az érintett központi bankokat és az összevont alapú vagy pénzügyi konglomerátum szintű kiegészítő felügyeléshez kapcsolódóan adott esetben a harmadik érintett ország hatáskörrel rendelkező hatóságait kérheti fel.
 
@@ -1876,7 +1893,7 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 
 (6) A Monetáris Tanács tagja, valamint az MNB alkalmazottja a 152. §-ban, az (1)–(5) bekezdésben, a 154–156. §-ban meghatározott összeférhetetlenségre vonatkozó szabályoktól eltérően – bejelentési kötelezettség nélkül – létesíthet és tarthat fenn az MNB többségi tulajdonában álló gazdasági társaságnál – a munkaviszony kivételével – igazgatósági vagy felügyelőbizottsági tagsági viszonyt, valamint az MNB által létrehozott alapítvány kezelőszervében, kuratóriumában, felügyelőbizottságában – a munkaviszony kivételével – tagsági viszonyt.
 
-154. § (1) Az MNB-nek a 9. § hatálya alá nem tartozó alkalmazottja munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt csak az MNB elnökének előzetes engedélyével létesíthet vagy tarthat fenn, kivéve a tudományos, oktatási, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet, amelyet köteles bejelenteni.
+154. § (1) Az MNB-nek a 9. § hatálya alá nem tartozó alkalmazottja munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt csak az MNB elnökének előzetes engedélyével létesíthet vagy tarthat fenn, kivéve a tudományos, oktatási, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszonyt, amelyet köteles bejelenteni.
 
 (2) Az MNB-nek a 152. és a 153. § hatálya alá nem tartozó alkalmazottja
 
@@ -1910,7 +1927,7 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 
 (4) A Monetáris Tanács 9. § (4) bekezdésének c) pontja szerinti tagja bejelentési kötelezettség mellett létesíthet olyan további munkaviszonyt vagy munkavégzésre irányuló további jogviszonyt, amely nem eredményez összeférhetetlenséget a monetáris tanácsi tagságával.
 
-(5) A Monetáris Tanács tagja létesíthetnek tudományos, oktatási, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet jelentő munkavégzésre irányuló egyéb jogviszonyt, amelyet annak létesítése előtt kötelesek bejelenteni.
+(5) A Monetáris Tanács tagjai létesíthetnek tudományos, oktatási, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet jelentő munkavégzésre irányuló egyéb jogviszonyt és nevelőszülői foglalkoztatási jogviszonyt, amelyet annak létesítése előtt kötelesek bejelenteni.
 
 (6) A Monetáris Tanács 9. § (4) bekezdés a) és b) pontja szerinti tagja a 152. §-ban és az (5) bekezdésben foglalt bejelentési, és nyilatkozattételi kötelezettségének a köztársasági elnöknél, a Monetáris Tanács 9. § (4) bekezdés c) pontja szerinti tagja a 152. §-ban, valamint a (4) és (5) bekezdésben foglalt bejelentési és nyilatkozattételi kötelezettségének az Országgyűlés elnökénél tesz eleget.
 
@@ -2335,9 +2352,14 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 (2) Az (1) bekezdésben meghatározott részesedés megszerzésének a napja a Kbftv. hatálybalépésének a napja.
 
+183/E. § A Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvény és az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló törvény hatálya alá tartozó ügyekben
+
+- a) a Pénzügyi Békéltető Testület a 106. § (3) bekezdésétől eltérően hetvenöt napon belüli meghallgatási időpontot tűz ki a felek számára,
+- b) a szolgáltató a 108. § (2) bekezdésben részletezett tartalmú válasziratát az értesítés részére történt kézbesítéstől számított tizenöt napon belül küldi meg a Pénzügyi Békéltető Testület részére.
+
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 
-184. § Az 1–14. §, 16–21. §, 23. § (1), (2) és (10) bekezdése, 24. § (1), (2), (4) és (5) bekezdése, 26–32. §-a, 33. § (1) bekezdése, 34. §, 35. § (1) bekezdése, 36. §, 39. § (1) és (2) bekezdése, 42. §, 44. §, 96–101. §, 167–169. §, a 176. §, a 178. § (8) és (9) bekezdése és a 183. § (1) és (5) bekezdése az Alaptörvény 41. cikk (1), (4) és (5) bekezdése, valamint 42. cikke alapján sarkalatosnak minősül.
+184. § Az 1–14. §, a 16–21. §, a 23. § (1), (2) és (10) bekezdése, a 24. § (1), (2), (4) és (5) bekezdése, a 26–28. §-a, a 29–32. §-a, a 33. § (1) bekezdése, a 34. §, a 35. § (1) bekezdése, a 36. §, a 39. § (1) és (2) bekezdése, a 42. §, a 44. §, a 96–101. §, a 167–169. §, a 176. §, a 178. § (8) és (9) bekezdése és a 183. § (1) és (5) bekezdése az Alaptörvény 41. cikk (1), (4) és (5) bekezdése, valamint 42. cikke alapján sarkalatosnak minősül.
 
 #### 56. Az Európai Unió jogának való megfelelés
 
@@ -2386,7 +2408,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 - d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
 - e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése és 25a. cikke,
-- f) (8) bekezdése a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelete
+- f) (8) bekezdése a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelete,
+- g) (16) bekezdése a 909/2014/EU rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

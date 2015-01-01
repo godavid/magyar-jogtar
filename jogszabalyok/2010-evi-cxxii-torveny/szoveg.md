@@ -169,7 +169,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 kapcsolatos feladatokat.
 
-(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését és nyomozását, valamint nem nyomozóhatósági jogkörében eljárva ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
+(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését, megszakítását és nyomozását, valamint nem nyomozóhatósági jogkörében eljárva ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 
@@ -212,6 +212,13 @@ kapcsolatos feladatokat.
 - b) pénzügyőrökre a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.),
 - c) munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
+15/A. § (1) Az e törvény hatálya alá tartozók személyiségi jogainak kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal, munkaviszonnyal összefüggő megsértése esetén jogkövetkezményként a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.)
+
+- a) 2:51. § (1) bekezdését, 2:52. § (1) bekezdését kell alkalmazni, továbbá
+- b) 2:52. § (2) és (3) bekezdését, valamint 2:53. §-át azzal az eltéréssel kell alkalmazni, hogy e rendelkezések alkalmazásakor e törvény kártérítési felelősségre vonatkozó szabályai az irányadók azzal, hogy a sérelemdíjra való jogosultsághoz a jogsértés tényén kívül további hátrány bekövetkeztének bizonyítása nem szükséges.
+
+(2) Ha a foglalkoztatott jogviszonya megszűnik, a munkáltató a foglalkoztatott, illetve a foglalkoztatott a munkáltató sérelemdíj megfizetésére kötelezése érdekében közvetlenül bírósághoz fordulhat.
+
 16. § A NAV teljes személyi állománya tekintetében a NAV által bevezetett – a NAV elnöke által meghatározott – teljesítményértékelési rendszert kell alkalmazni.
 
 16/A. § (1) A munkáltatói jogkör gyakorlójának (a továbbiakban: pályázatot kiíró) döntése alapján meghatározott munkakör betöltése, illetve vezetői munkakör betöltése pályázat alapján is történhet. A megpályáztatott munkakörre kinevezni csak olyan személyt lehet, aki a pályázaton részt vett és a pályázati feltételeknek megfelelt.
@@ -222,7 +229,7 @@ kapcsolatos feladatokat.
 
 (4) A kormánytisztviselői állásra meghirdetett pályázatot kiíró szerv a pályázati kiírást az egységes hozzáférést biztosító informatikai rendszeren keresztül elektronikus úton megküldi a kormányzati személyügyi igazgatási feladatokat ellátó szerv részére, amely azt közzéteszi. A közzététel napjától a pályázatot kiíró szerv a pályázati kiírást egyéb módon is közzéteheti.
 
-(5) A pályázati eljárás lefolytatásának részletes szabályait a NAV foglalkoztatási szabályzata határozza meg.
+(5) A pályázati eljárás lefolytatásának részletes szabályait a NAV foglalkoztatási szabályzata (a továbbiakban: foglalkoztatási szabályzat) határozza meg.
 
 ### A kormányzati és a hivatásos szolgálati jogviszonnyal kapcsolatos jognyilatkozatok
 
@@ -313,19 +320,27 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (3) A semmis megállapodás érvénytelen, kivéve, ha ahhoz a rendelkezést megállapító jogszabály más jogkövetkezményt fűz. A semmisségre az érdekelt határidő nélkül hivatkozhat, a megállapodás semmisségét a bíróság hivatalból észleli.
 
-16/I. § (1) A megállapodás megtámadható, ha a fél annak megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy a tévedését a másik fél okozta vagy azt felismerhette, vagy ha mindkét fél ugyanabban a téves feltevésben volt. Jogi kérdésben való tévedés címén a megállapodást akkor lehet megtámadni, ha a tévedés lényeges volt és a NAV-nak az adott szakterülettel munkakörénél fogva foglalkozó, jogi végzettségű kormánytisztviselője, pénzügyőre a feleknek együttesen adott a jogszabályok tartalmára nézve nyilvánvalóan téves tájékoztatást.
+16/I. § (1) A megállapodás megtámadható, ha a fél annak megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy a tévedését a másik fél okozta vagy azt felismerhette, vagy ha a felek a megállapodás megkötésekor lényeges tényben vagy körülményben ugyanabban a téves feltevésben voltak, vagy ha a megállapodás megkötésére a felet megtévesztéssel vagy jogellenes fenyegetéssel vették rá.
 
-(2) Megtámadható a megállapodás akkor is, ha annak megtételére a felet jogellenes fenyegetéssel vagy kényszerítéssel vették rá.
+(2) Az (1) bekezdés alkalmazásában lényeges tényre vagy körülményre vonatkozik a tévedés, illetve téves feltevés akkor, ha annak ismeretében a fél nem vagy más tartalommal kötötte volna meg a megállapodást.
 
-(3) A megállapodást az támadhatja meg, aki tévedésben, téves feltevésben volt, illetve akit a jognyilatkozat megtételére jogellenes fenyegetéssel, kényszerítéssel vettek rá.
+(3) A megállapodást megtámadhatja, aki a megállapodás megkötésekor tévedésben vagy téves feltevésben volt.
 
-(4) A megtámadás határideje 30 nap, amely a tévedés felismerésétől, vagy jogellenes fenyegetés, kényszerítés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy 6 hónap elteltével a megtámadás joga nem gyakorolható.
+(3a) A megtévesztés hatására kötött megállapodást megtámadhatja, akit a másik fél szándékos magatartásával tévedésbe ejt vagy tévedésben tart.
+
+(3b) A megállapodást megtámadhatja, akit a másik fél jogellenes fenyegetéssel vett rá a megállapodás megkötésére.
+
+(3c) A (3a) és (3b) bekezdésben foglalt szabályokat kell alkalmazni, ha a megtévesztés vagy jogellenes fenyegetés harmadik személy részéről történt és erről a másik fél tudott vagy tudnia kellett.
+
+(4) A megtámadás határideje 30 nap, amely a tévedés, megtévesztés, téves feltevés felismerésétől, vagy jogellenes fenyegetés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy 6 hónap elteltével a megtámadás joga nem gyakorolható.
 
 (5) A megtámadásra irányuló jognyilatkozatot a (4) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
 
 (6) A megtámadás eredménytelen, ha a másik fél annak közlésétől számított 15 napon belül nem válaszol, vagy azt nem fogadja el.
 
 (7) A sikeresen megtámadott megállapodás érvénytelen.
+
+(8) A fél titkos fenntartása vagy rejtett indoka a megállapodás érvényességét nem érinti.
 
 16/J. § (1) Az érvénytelen megállapodás alapján létrejött jogviszonyból származó jogokat és kötelezettségeket úgy kell tekinteni, mintha azok érvényes megállapodás alapján állnának fenn. Az érvénytelen megállapodás alapján létrejött jogviszonyt – ha e törvény, vagy a Kttv., illetve a Hszt. eltérően nem rendelkezik – a munkáltató köteles haladéktalanul, azonnali hatállyal megszüntetni, feltéve, hogy az érvénytelenség okát a felek a közérdek sérelme nélkül rövid időn belül nem hárítják el.
 
@@ -345,7 +360,11 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (2) A bűncselekménnyel okozott kár megtérítésére irányuló igény 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
+(2a) A bűncselekménnyel okozott személyiségi jogi sérelem miatt fizetendő sérelemdíj iránti igény 5 év, ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+
 (3) A kártérítés – e törvény eltérő rendelkezése hiányában – a károsodás bekövetkeztekor nyomban esedékes.
+
+(3a) A sérelemdíj – e törvény eltérő rendelkezése hiányában – a személyiségi jogi sérelem bekövetkezésekor nyomban esedékes.
 
 (4) Az igény elévülése az igény érvényesítésének esedékessé válásától kezdődik. Az igény elévülését hivatalból kell figyelembe venni.
 
@@ -375,9 +394,11 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 ### Eltérés a Hszt.-től
 
-17. § (1) E törvény alkalmazása során a Hszt. 2. § a)–b), e)–f), h), j), m) s) és v) pontja, 3. § (4)–(5) bekezdése, 4. § (4)–(5) bekezdése, 7–13. §-a, 36. § (2)–(3) bekezdése, 39. § (2) bekezdése, 40. §-a, 44. § (1) bekezdés i) pontja, 45–47/A. §-a, 48. §-a, 49. § (1)–(3) bekezdése, 50. §-a, 51/A. § (3) bekezdés, 56. § (1) bekezdés e) pontja, 56. § (2) bekezdés c) pontja, 56. § (5) bekezdése, 62. §-a, 65. §-a, 66. §-a, 71–72/A. §-a, 72/C. §-a, 73. §-a, 74. §-a, 75/B. §-a, 76–83. §-a, 87–92. §-a, 95–103. §-a, 104–106. §-a, a 107. §-a a beosztásból való felfüggesztés tekintetében, illetve a 107. § (1) bekezdés utolsó mondata, 110–111. §-a, 113–115/A. §-a, 116/A–116/C. §-a, 117/A. §-a, 118. § (1)–(3) bekezdése, (5) bekezdés a) pontja és (6) bekezdése, 119–149. §-a, 149/C. § (3)–(4) bekezdése, 150–178. §-a, 180. § (3)–(5) bekezdése, 194. § (2) bekezdés első mondata, 195–197. §-a, 203/A–203/C. §-a, 210–210/A. §-a, 245/H. §-a, 245/R. §-a, 342. § (1) bekezdés e) és p) pontja, (2) bekezdése és (7) bekezdése, és az 1., 2., 6., 6/A., 6/B. számú mellékletei nem alkalmazhatóak. A pénzügyőrt megillető pótszabadság tekintetében a Hszt. 326. § (1) bekezdése, valamint a 328. § (4) bekezdése nem alkalmazható.
+17. § (1) E törvény alkalmazása során a Hszt. 2. § a)–b), e)–f), h), j), m) és v) pontja, 3. § (4)–(5) bekezdése, 4. § (4)–(5) bekezdése, 7–13. §-a, 36. § (2)–(3) bekezdése, 39. § (2) bekezdése, 40. §-a, 44. § (1) bekezdés i) pontja, 45–47/A. §-a, 48. §-a, 49. §-a, 50. §-a, 51/A. § (3) bekezdés, 56. § (1) bekezdés e) pontja, 56. § (2) bekezdés c) pontja, 56. § (5) bekezdése, 62. §-a, 65. §-a, 66. §-a, 71–72/A. §-a, 72/C. §-a, 73. §-a, 74. §-a, 75/B. §-a, 76–83. §-a, 87–92. §-a, 95–103. §-a, 104–106. §-a, a 107. §-a a beosztásból való felfüggesztés tekintetében, illetve a 107. § (1) bekezdés utolsó mondata, 110–111. §-a, 113–115/A. §-a, 116/A–116/C. §-a, 117/A. §-a, 118. § (1)–(3) bekezdése, (5) bekezdés a) pontja és (6) bekezdése, 119–149. §-a, 149/C. § (3)–(4) bekezdése, 150–178/A. §-a, 180. § (3)–(5) bekezdése, 194. § (2) bekezdés első mondata, 195–197. §-a, 203/A–203/C. §-a, 210–210/A. §-a, 245/H. §-a, 245/R. §-a, 342. § (1) bekezdés e) és p) pontja, (2) bekezdése és (7) bekezdése, és az 1., 2., 6., 6/A., 6/B. számú mellékletei nem alkalmazhatóak. A pénzügyőrt megillető pótszabadság tekintetében a Hszt. 326. § (1) bekezdése, valamint a 328. § (4) bekezdése nem alkalmazható.
 
 (2) A kijelölt miniszter rendeletben határozza meg azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be (hivatásos munkakör). A NAV-nál egyéb munkakörök ellátására pénzügyőr kizárólag egyedi elnöki engedély alapján, kivételesen indokolt esetben foglalkoztatható. A munkakör szolgálati jellegének megszűnése az abban a munkakörben foglalkoztatott pénzügyőr e munkakörben való további foglalkoztatását,, hivatásos szolgálati jogviszonyát és előmenetelét nem érinti.
+
+(2a) A Hszt. 49/H. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőrt – tábornok kivételével – a NAV elnöke vezényli a külföldi szolgálati tevékenység időtartamára.
 
 (3) A Hszt. 93. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezés azon pénzügyőr tekintetében alkalmazandó, akit az állásából felfüggesztettek.
 
@@ -385,11 +406,11 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (5) A Hszt. 336. §-át azzal az eltéréssel kell alkalmazni, hogy a Hszt. 44. § (1) bekezdés k) pontja szerinti esetben e törvény 17/E. § (2) bekezdését kell alkalmazni.
 
-17/A. § (1) A NAV hivatásos állományába felvett személy részére az alapfokú szaktanfolyam elvégzése kötelező a felvétel, illetve a tiszti, főtiszti kinevezés napjától számított 2 éven belül. A tiszti vagy főtiszti állománycsoportba tartozók részére a középfokú szaktanfolyam elvégzése is kötelező a felvétel, illetve a tiszti, főtiszti kinevezés napjától számított 3 éven belül. Ha a pénzügyőr az alapfokú, illetve a középfokú szaktanfolyamot a munkáltató kötelezése ellenére önhibájából a meghatározott idő alatt nem kezdte meg, vagy önhibájából nem fejezte be, illetve a vizsgát nem tette le, a hivatásos szolgálati jogviszonya megszűnik.
+17/A. § (1) A NAV hivatásos állományába felvett személy részére az alapfokú szaktanfolyam elvégzése kötelező a felvétel napjától számított 2 éven belül. A tiszti vagy főtiszti állománycsoportba tartozók részére a középfokú szaktanfolyam elvégzése is kötelező a felvétel, illetve a tiszti, főtiszti kinevezés napjától számított 3 éven belül. Ha a pénzügyőr az alapfokú, illetve a középfokú szaktanfolyamot a munkáltató kötelezése ellenére önhibájából a meghatározott idő alatt nem kezdte meg, vagy önhibájából nem fejezte be, illetve a vizsgát nem tette le, a hivatásos szolgálati jogviszonya megszűnik. Az alap- és középfokú szaktanfolyami végzettség megszerzésére nyitva álló határidőbe nem számít bele a 30 napot meghaladó illetmény nélküli szabadság vagy keresőképtelenség, továbbá a 30 napot meghaladó kiküldetés időtartama.
 
 (1a) A kijelölt miniszter rendeletben határozza meg azokat a szakképzettségeket, amelyeket az alap- és középfokú szaktanfolyami végzettséggel egyenértékűnek kell tekinteni, valamint azon munkaköröket, amelyek tekintetében a szaktanfolyam elvégzésének kötelezettsége nem áll fenn.
 
-(2) A hivatásos állományba való felvétellel egyidejűleg a befejezett tanulmányainak megfelelően a hivatásos állomány pályakezdő tagját hadnaggyá, zászlóssá vagy őrmesterré kell kinevezni. A tanulmányait a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán vám- és jövedékigazgatási vagy pénzügyi nyomozó szakirányon kitűnő minősítésű diplomával végzett pályakezdőt eggyel magasabb rendfokozatba kell kinevezni.
+(2) A hivatásos állományba való felvétellel egyidejűleg a befejezett tanulmányainak megfelelően a hivatásos állomány pályakezdő tagját hadnaggyá, zászlóssá vagy őrmesterré kell kinevezni. A tanulmányait a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán vám- és jövedékigazgatási vagy pénzügyi nyomozó szakirányon kiváló vagy annak megfelelő minősítésű oklevéllel végzett pályakezdő – a kinevezésre jogosult döntése esetén – eggyel magasabb rendfokozatba is kinevezhető, amennyiben az érintettnek a tanulmányai során elért tanulmányi eredménye a foglalkoztatási szabályzatban meghatározott szempontoknak megfelel.
 
 (3) A NAV hivatásos állományába legalább középiskolai végzettségű személy vehető fel.
 
@@ -413,17 +434,17 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (4) NAV-on belüli vezénylés esetén a vezénylés időtartama alatt a munkáltatói jogkört a vezénylés helye szerinti szerv munkáltatói jogkör gyakorlója gyakorolja azzal, hogy a hivatásos szolgálati jogviszony megszüntetésére, módosítására, a 25. § szerinti illetményeltérítésre, valamint – amennyiben az nem a kijelölt miniszter hatáskörébe tartozik – a méltatlansági eljárás megindítására és lefolytatására az eredeti munkáltatói jogkör gyakorlója jogosult, továbbá a vezénylés helye szerinti munkáltatói jogkör gyakorlója a fegyelmi jogkört csak az e törvény szerinti korlátozással, a kártérítési jogkört csak az e törvény szerinti esetben gyakorolja.
 
-(5) A pénzügyi nyomozói munkakörbe tartozó szolgálati feladat teljesítésére 30 napot meghaladóan vezényelt pénzügyőr a vezénylés időtartama alatt a pénzügyi nyomozói munkakörre a vezénylés helye szerint irányadó illetményre jogosult, kivéve ha az kevesebb az eredeti illetményénél. A nem pénzügyi nyomozói munkakörbe tartozó szolgálati feladat teljesítésére 30 napot meghaladóan vezényelt pénzügyi nyomozó a vezénylés időtartama alatt az ellátott szolgálati feladat szerinti munkakörre irányadó illetményre jogosult.
+(5) A pénzügyi nyomozói munkakörbe tartozó szolgálati feladat teljesítésére 30 napot meghaladóan vezényelt pénzügyőr a vezénylés időtartama alatt a pénzügyi nyomozói munkakörre a vezénylés helye szerint irányadó, a besorolási fokozatának megfelelő illetményre jogosult, kivéve, ha az kevesebb az eredeti illetményénél. A nem pénzügyi nyomozói munkakörbe tartozó szolgálati feladat teljesítésére 30 napot meghaladóan vezényelt pénzügyi nyomozó a vezénylés időtartama alatt a vezénylés helye és az ellátott munkakör szerint irányadó, a besorolási fokozatának megfelelő illetményre jogosult.
 
 (6) NAV-on belüli vezénylés esetén a vezénylés időtartamára járó illetményt és egyéb járandóságot az a szerv biztosítja, amelytől a vezénylés történt.
 
 17/E. § (1) A Hszt. 44. § (3)–(3a) bekezdését a NAV hivatásos állománya tekintetében azzal az eltéréssel kell alkalmazni, hogy a Hszt. 44. § (1) bekezdés c)–h) pontja szerinti rendelkezési állomány megszűnésekor a pénzügyőr részére a NAV valamely szervénél a végzettségének megfelelő munkakört kell felajánlani. Amennyiben a pénzügyőr végzettségének megfelelő felajánlható munkakör nincs, illetve a felajánlott munkakört nem fogadja el, – a hivatásos állomány Hszt. 44. § (1) bekezdés k) pontjában meghatározott tagja kivételével – az érintett hivatásos szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
-(2) A Hszt. 44. § (4) bekezdését a NAV hivatásos állománya tekintetében azzal az eltéréssel kell alkalmazni, hogy a Hszt. 44. § (1) bekezdés k) pontja szerinti rendelkezési állomány időtartama alatt a pénzügyőr részére az (1) bekezdésben meghatározott munkakört kell felajánlani. Amennyiben a pénzügyőrnek a Hszt. 44. § (1) bekezdés k) pontja szerinti rendelkezési állomány ideje alatt nincs ilyen felajánlható munkakör, vagy a pénzügyőr a felajánlott munkakört nem fogadja el, a szolgálati viszonyát a rendelkezési állomány megszűnésekor felmentéssel meg kell szüntetni.
+(2) A Hszt. 44. § (4) bekezdését a NAV hivatásos állománya tekintetében azzal az eltéréssel kell alkalmazni, hogy a Hszt. 44. § (1) bekezdés k) pontja szerinti rendelkezési állomány időtartama alatt a pénzügyőr részére az (1) bekezdésben meghatározott munkakört kell felajánlani. Amennyiben a pénzügyőrnek a Hszt. 44. § (1) bekezdés k) pontja szerinti rendelkezési állomány ideje alatt nincs ilyen felajánlható munkakör, vagy a pénzügyőr a felajánlott munkakört nem fogadja el, a hivatásos szolgálati jogviszonyát a rendelkezési állomány megszűnésekor felmentéssel meg kell szüntetni.
 
 (3) A Hszt. 49/A. § (2) bekezdését a NAV hivatásos állománya tekintetében azzal az eltéréssel kell alkalmazni, hogy a Hszt. 44. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezés esetén a pénzügyőrt a 20. §-nak megfelelően kell besorolni és részére a besorolásnak megfelelő, pótlékok nélküli illetményt kell folyósítani.
 
-(4) Amennyiben a pénzügyőr hivatásos jogviszonya a Hszt. 51/A. §-a alapján szünetelt, a szünetelés megszűnését követően részére a NAV valamely szervénél a végzettségének megfelelő munkakört kell felajánlani. Amennyiben nincs a pénzügyőr végzettségének megfelelő felajánlható munkakör, illetve a felajánlott munkakört nem fogadja el – a Hszt. 58. §-ában meghatározott felmentési védelem esetén a felmentési védelem megszűnését követően –, az érintett hivatásos szolgálati jogviszonyát felmentéssel meg kell szüntetni.
+(4) Amennyiben a pénzügyőr hivatásos szolgálati jogviszonya a Hszt. 51/A. §-a alapján szünetelt, a szünetelés megszűnését követően részére a NAV valamely szervénél a végzettségének megfelelő munkakört kell felajánlani. Amennyiben nincs a pénzügyőr végzettségének megfelelő felajánlható munkakör, illetve a felajánlott munkakört nem fogadja el – a Hszt. 58. §-ában meghatározott felmentési védelem esetén a felmentési védelem megszűnését követően –, az érintett hivatásos szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 (5) Akinek a hivatásos szolgálati jogviszonyát a (4) bekezdés alapján felmentéssel meg kellene szüntetni, de felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig rendelkezési állományba kell helyezni. Ilyen esetben a pénzügyőrt a 20. §-nak megfelelően kell besorolni és részére a besorolásnak megfelelő, pótlékok nélküli illetményt kell folyósítani.
 
@@ -446,15 +467,15 @@ rendelkezéseit kell megfelelően alkalmazni. A vizsgáló személyére vonatkoz
 
 (4) A Hszt. 149/C. § (2) bekezdés szerinti döntéssel szemben önálló jogorvoslatnak nincs helye, a pénzügyőr az annak végrehajtásáról rendelkező határozatot a közléstől számított 30 napon belül bíróság előtt keresettel támadhatja meg.
 
-17/G. § (1) Nincs helye szolgálati panasznak/panasznak a hivatásos szolgálati jogviszony megszüntetésére vonatkozó, a jogviszony egyoldalú módosításáról szóló munkáltatói intézkedéssel, a minősítés és a teljesítményértékelés megállapításaival, az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítással szemben, a megállapodás eredménytelen megtámadása miatt, továbbá a fegyelmi ügyben hozott határozattal, a pénzügyőr kártérítési felelősségét megállapító határozattal, a kártérítési ügyben önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel, a fizetési felszólítással, illetve a 34/E. §-on alapuló állásból felfüggesztést elrendelő határozattal szemben.
+17/G. § (1) Nincs helye szolgálati panasznak/panasznak a hivatásos szolgálati jogviszony megszüntetésére vonatkozó, a jogviszony egyoldalú módosításáról szóló munkáltatói intézkedéssel, a minősítés és a teljesítményértékelés megállapításaival, az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítással szemben, a megállapodás eredménytelen megtámadása miatt, továbbá a fegyelmi ügyben hozott határozattal, a pénzügyőr kártérítési felelősségét megállapító határozattal, a kártérítési ügyben önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel, a fizetési felszólítással, a sérelemdíj megfizetése ügyében hozott határozattal, illetve a 34/E. §-on alapuló állásból felfüggesztést elrendelő határozattal szemben.
 
-(2) Nincs helye szolgálati panasznak a munkáltatói kártérítési felelősség tárgyában adott munkáltatói nyilatkozat és az azon alapuló intézkedés ellen.
+(2) Nincs helye szolgálati panasznak a munkáltatói kártérítési felelősség, illetve a munkáltató által fizetendő sérelemdíj tárgyában adott munkáltatói nyilatkozat és az azon alapuló intézkedés, illetve a nyilatkozat elmulasztása ellen.
 
 17/H. § (1) A Hszt. 56. § (1) bekezdés c) pontja alkalmazása során a legalább azonos szintű beosztás alatt a pénzügyőr végzettségének megfelelő munkakört kell érteni.
 
 (2) A Hszt. 75. § (4)–(5) bekezdését a NAV hivatásos állománya tekintetében azzal az eltéréssel kell alkalmazni, hogy ha a pénzügyőr az előírt egészségi, pszichikai és fizikai alkalmassági követelményeknek nem felel meg, úgy a Hszt. 75. § (4) bekezdés szerinti ismételt ellenőrzés mellőzésével a 17/C. § szerint kell eljárni.
 
-(3)
+(3) A Hszt. 36. § (4)–(5) bekezdését azzal az eltéréssel kell alkalmazni, hogy az ott említett fegyelmi fenyítéseken a rendfokozatban való visszavetés, a hivatásos szolgálati jogviszony megszüntetése, illetve a lefokozás fenyítést kell érteni.
 
 (4)
 
@@ -472,11 +493,18 @@ rendelkezéseit kell megfelelően alkalmazni. A vizsgáló személyére vonatkoz
 
 ### Eltérés a Kttv.-től
 
-18. § (1) E törvény alkalmazása során a Kttv. 14–25. §-a, 45. § (1) bekezdése, 48. §-a, 52. §-a, 54. §-a, 63. § (2) bekezdés d) pontja, 68. § (4) bekezdés második mondata, 80–82. §-a, 84–87. §-a, 96–98. §-a, 100–108. §-a, 110–117. §-a, 118. § (1)–(2) és (11) bekezdése, 119–121. §-a, 123. §-a, 126–143. §-a, 145–149. §-a, 150. § (1)–(2) és (4) bekezdése, 151. §-a, 152. § (1)–(3) és (7) bekezdése, 153. §-a, 154. § (1) bekezdése, 155–175. §-a, 190. §-a, 192–194. §-a, 207. § (6) bekezdése, 208. § (2) bekezdése, 209. §-a, 259. § (1) bekezdés 4. és 5. pontja, 6. pont a)–b), d) és f) alpontja, 7. pontja, 10. pont c) alpontja, 11. pontja, 17. pont c) alpontja, (5) bekezdés b) és c) pontja és 1. melléklete nem alkalmazható.
+18. § (1) E törvény alkalmazása során a Kttv. 6. § 20a. pontja, 11. § (4)–(6) bekezdése, 14–25. §-a, 41/A–41/B. §-a,, 45. § (1) bekezdése, 48. §-a, 52. §-a, 54. §-a, 63. § (2) bekezdés d) pontja, 68. § (4) bekezdés második mondata, 80–82. §-a, 84–87. §-a, 96–98. §-a, 100–108. §-a, 110–117. §-a, 118. § (1)–(2) és (11) bekezdése, 119–121. §-a, 123. §-a, 126–143. §-a, 145–149/A. §-a, 150. § (1)–(2) és (4) bekezdése, 151. §-a, 152. § (1)–(3) és (7) bekezdése, 153. §-a, 154. § (1) bekezdése, 155–175. §-a, 190. §-a, 192–194. §-a, 207. § (6) bekezdése, 208. § (2) bekezdése, 209. §-a, 259. § (1) bekezdés 4. és 5. pontja, 6. pont a)–b), d) és f) alpontja, 7. pontja, 10. pont c) alpontja, 11. pontja, 17. pont c) alpontja, (5) bekezdés b) és c) pontja és 1. melléklete nem alkalmazható.
 
 (2) A Kttv. 50. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a teljes munkaidőben foglalkoztatott kormánytisztviselő írásbeli kérelmére a munkáltató akkor köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a kormánytisztviselő a kérelem benyújtásakor a 32/U. § (1) bekezdésében foglalt illetmény nélküli szabadságot vesz igénybe.
 
 (3) A Kttv. 79. § g) pontját azzal az eltéréssel kell alkalmazni, hogy a kormánytisztviselő a 32/Z. §, valamint a 33. § szerinti képzésben való részvételhez szükséges időre mentesül a rendelkezésre állási, illetve munkavégzési kötelezettségének teljesítése alól.
+
+(4) A Kttv.-ben meghatározottakon túl határozott időre létesíthető kormányzati szolgálati jogviszony
+
+- a) nem hivatásos munkakört betöltő tartósan távol levő pénzügyőr helyettesítése céljából,
+- b) hivatásos munkakört betöltő tartósan távol levő pénzügyőr nem szolgálati jellegű munkaköri feladatainak ellátására.
+
+(5) Munkaszüneti napon rendes munkaidőben történő munkavégzésre kötelezett kormánytisztviselőt a teljesített munkavégzés időtartama kétszeresének megfelelő mértékű szabadidő illeti meg. A szabadidőt a munkaszüneti napon rendes munkaidőben történő munkavégzés teljesítését követően legkésőbb harminc napon belül kell kiadni, ha ez nem lehetséges, meg kell váltani. A megváltás mértéke a kormánytisztviselő kifizetéskori illetményének a szabadidőre járó arányos összege.
 
 18/A. § (1) A munkáltatói jogkör gyakorlója a kijelölt miniszter rendeletében meghatározott szempontok figyelembevételével a kormányzati szolgálati jogviszony létesítését pszichikai alkalmassághoz kötheti.
 
@@ -493,7 +521,7 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 (5) A pszichikai alkalmassági vizsgálat rendjét a kijelölt miniszter rendeletben határozza meg.
 
-(6) A pszichikai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi dokumentációját kizárólag az alkalmasság megállapításában részt vevő pszichológus, a vizsgálat lefolytatásában részt vevő asszisztens, valamint orvosi bizottság kezelheti, illetve kizárólag részére továbbítható.
+(6) A pszichikai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi dokumentációját kizárólag az alkalmasság megállapításában részt vevő pszichológus, a vizsgálat lefolytatásában részt vevő asszisztens, az alkalmassági vizsgálatot végző szerv vezetője, valamint orvosi bizottság kezelheti, illetve kizárólag részére továbbítható.
 
 (7) A munkáltatói jogkör gyakorlója és a személyügyi igazgatási feladatokat ellátó szervezeti egység részére kizárólag a pszichikai alkalmassági vizsgálat minősítése továbbítható a kormányzati szolgálati jogviszony létesítése, illetve fenntartása feltételeinek megállapítása érdekében.
 
@@ -512,15 +540,15 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 - g) a kormánytisztviselő, illetve az ügykezelő tekintetében a kinevezési okirat szerinti szervezeti egység megváltoztatása esetén, amennyiben a munkáltató személye nem változik, és amennyiben a munkavégzési hely legfeljebb a település területén belül változik meg,
 - h) törvényben meghatározott esetekben.
 
-(3) A pénzügyőr a szolgálat érdekében azonos, vagy a képzettségének és végzettségének megfelelő más munkakör ellátására beleegyezése nélkül áthelyezhető a NAV más szervéhez. A kinevezés módosításától számított öt éven belül – a létszámcsökkentés és az átszervezés indokát kivéve – e rendelkezés alkalmazásának nincs helye.
+(3) A pénzügyőr a szolgálat érdekében azonos, vagy a végzettségének megfelelő más munkakör ellátására beleegyezése nélkül áthelyezhető a NAV más szervéhez. A kinevezés módosításától számított öt éven belül – a létszámcsökkentés és az átszervezés indokát kivéve – e rendelkezés alkalmazásának nincs helye.
 
-(4) A (2) bekezdés c) és e)–f) pontjában meghatározott okból a kormánytisztviselő, az ügykezelő kinevezését abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az új munkavégzési hely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát, illetve tíz éven aluli gyermeket nevelő kormánytisztviselő, ügykezelő esetében a másfél órát nem haladja meg.
+(4) A (2) bekezdés c) és e)–g) pontjában meghatározott okból a kormánytisztviselő, az ügykezelő kinevezését abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az új munkavégzési hely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát, illetve tíz éven aluli gyermeket nevelő kormánytisztviselő, ügykezelő esetében a másfél órát nem haladja meg.
 
-(5) A (2) bekezdés d)–f) pontjában meghatározott okból a kinevezést, illetve a hivatásos szolgálati jogviszonyt abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az új munkakör megfelel az érintett iskolai végzettségének, szakképzettségének vagy szakképesítésének, szakmai tapasztalatának.
+(5) A (2) bekezdés d)–g) pontjában meghatározott okból a kinevezést, illetve a hivatásos szolgálati jogviszonyt abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az új munkakör megfelel az érintett iskolai végzettségének, szakképzettségének vagy szakképesítésének, szakmai tapasztalatának.
 
-(6) A (2) bekezdés c)–f) pontjában, valamint a (3) bekezdésben meghatározott okból a kinevezést, illetve a hivatásos szolgálati jogviszonyt abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az érintettre nézve – különösen besorolására, egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
+(6) A (2) bekezdés c)–g) pontjában, valamint a (3) bekezdésben meghatározott okból a kinevezést, illetve a hivatásos szolgálati jogviszonyt abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az érintettre nézve – különösen besorolására, egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
 
-(7) A (2) bekezdés c)–f) pontjában és a (3) bekezdésben meghatározott okból történő kinevezés módosításról, illetve hivatásos szolgálati jogviszony módosításról szóló okirat közlésétől számított 5 munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés, illetve a hivatásos szolgálati jogviszony módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
+(7) A (2) bekezdés c)–g) pontjában és a (3) bekezdésben meghatározott okból történő kinevezés módosításról, illetve hivatásos szolgálati jogviszony módosításról szóló okirat közlésétől számított 5 munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés, illetve a hivatásos szolgálati jogviszony módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
 
 (8) A (6)–(7) bekezdés vezetőre nem alkalmazható.
 
@@ -534,7 +562,7 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 (4) A kiküldetésben lévő kormánytisztviselőnek, pénzügyőrnek, ügykezelőnek az élelmezésével kapcsolatos többletköltségei fedezetére a kiküldetés tartamára élelmezési költségtérítés (napidíj) jár.
 
-(5) A napidíj mértéke az illetményalap egy munkanapra eső összegének 25%-a. A napidíj átalányként is elszámolható, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő havonta, rendszeresen kiküldetésben végez munkát. Az átalányt a napidíj és a havi átlagban kiküldetésben töltött naptári napok figyelembevételével kell meghatározni.
+(5) A napidíj mértéke a költségvetési törvényben meghatározott, kormánytisztviselőkre vonatkozó illetményalap (a továbbiakban: illetményalap) 1 munkanapra eső összegének 25%-a. A napidíj átalányként is elszámolható, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő havonta, rendszeresen kiküldetésben végez munkát. Az átalányt a napidíj és a havi átlagban kiküldetésben töltött naptári napok figyelembevételével kell meghatározni.
 
 (6) A napidíj kiszámításánál havonta huszonegy munkanapot lehet figyelembe venni és annak összegét tíz forintra felkerekítve kell megállapítani. Nem számolható el napidíj, ha a kiküldetésben töltött idő a négy órát nem éri el. A napidíj fele számolható el, ha a kiküldetésben töltött idő a nyolc órát nem éri el.
 
@@ -552,9 +580,9 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 (2) Átirányítás esetén az érintettet helyettesítési díj illeti meg, kivéve, ha az (1) bekezdésben meghatározott feladatot eredeti munkaköre helyett látja el.
 
-(3) Amennyiben az érintett eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan pénzügyi nyomozói munkakört lát el, az átirányítás idejére a pénzügyi nyomozói munkakörre irányadó illetményre jogosult, kivéve ha az kevesebb az eredeti illetményénél. Amennyiben a pénzügyi nyomozó eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan nem pénzügyi nyomozói munkakört lát el, az átirányítás idejére az ellátott munkakörre irányadó illetményre jogosult.
+(3) Amennyiben az érintett az eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan pénzügyi nyomozói munkakört lát el, az átirányítás idejére a besorolási fokozatának megfelelő pénzügyi nyomozói munkakörre irányadó illetményre jogosult, kivéve, ha az kevesebb az eredeti illetményénél. Amennyiben a pénzügyi nyomozó eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan nem pénzügyi nyomozói munkakört lát el, az átirányítás idejére az ellátott munkakör szerint irányadó, a besorolási fokozatának megfelelő illetményre jogosult.
 
-(4) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő, pénzügyőr, ügykezelő illetményének 10–50%-áig terjedhet. A helyettesítési díj mértékét a munkáltatói jogkör gyakorlója állapítja meg a NAV foglalkoztatási szabályzatában meghatározottak figyelembevételével. A helyettesítési díj a helyettesítés első napjától jár.
+(4) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő, pénzügyőr, ügykezelő illetményének 10–50%-áig terjedhet. A helyettesítési díj mértékét a munkáltatói jogkör gyakorlója állapítja meg a foglalkoztatási szabályzatban meghatározottak figyelembevételével. A helyettesítési díj a helyettesítés első napjától jár.
 
 (5) Nem jár helyettesítési díj, ha
 
@@ -573,11 +601,11 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 19/A. § (1) Vezetői kinevezést csak felsőfokú iskolai végzettségű, jogi vagy közigazgatási szakvizsgával, vagy a szakvizsga alól adott, a Közigazgatási Továbbképzési Kollégium teljes körű mentesítésével rendelkező kormánytisztviselő kaphat.
 
-(2) Az (1) bekezdéstől eltérően, ha a vezetői kinevezéskor a kormánytisztviselő nem rendelkezik jogi vagy közigazgatási szakvizsgával, azt a kinevezéstől számított két éven belül le kell tennie. Ha szakvizsga-kötelezettségét e határidőn belül a kormánytisztviselő számára felróható okból elmulasztja, a kormánytisztviselőt a kinevezés módosításával a végzettségének megfelelő nem vezetői munkakörbe kell helyezni, ha ilyen munkakör nem biztosítható, a kormánytisztviselő kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni. A közigazgatási szakvizsga letételére nyitva álló határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság vagy keresőképtelenség, továbbá a harminc napot meghaladó kiküldetés időtartama.
+(2) Az (1) bekezdéstől eltérően, ha a vezetői kinevezéskor a kormánytisztviselő nem rendelkezik jogi vagy közigazgatási szakvizsgával, azt a kinevezéstől számított két éven belül le kell tennie. Ha szakvizsga-kötelezettségét e határidőn belül a kormánytisztviselő számára felróható okból elmulasztja, a kormánytisztviselőt a kinevezés módosításával a végzettségének megfelelő nem vezetői munkakörbe kell helyezni, ha ilyen munkakör nem biztosítható, a kormánytisztviselő kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni. A közigazgatási szakvizsga letételére nyitva álló határidőbe nem számít bele a harminc napot meghaladó illetmény nélküli szabadság vagy keresőképtelenség, továbbá a harminc napot meghaladó kiküldetés időtartama.
 
 19/B. § (1) Vezetői kinevezést csak szakirányú felsőfokú iskolai végzettségű, legalább középfokú szaktanfolyamot végzett pénzügyőr kaphat.
 
-(2) Az (1) bekezdéstől eltérően, ha a vezetői kinevezéskor a pénzügyőr nem rendelkezik középfokú szaktanfolyami végzettséggel, azt a kinevezéstől számított két éven belül le kell tennie. Ha a középfokú szaktanfolyamot e határidőn belül a pénzügyőr számára felróható okból nem végzi el, a pénzügyőrt a kinevezés módosításával a végzettségének megfelelő nem vezetői munkakörbe kell helyezni, ha ilyen munkakör nem biztosítható, a pénzügyőr hivatásos szolgálati jogviszonyát felmentéssel meg kell szüntetni. A középfokú szaktanfolyami végzettség megszerzésére nyitva álló határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság vagy keresőképtelenség, továbbá a harminc napot meghaladó kiküldetés időtartama.
+(2) Az (1) bekezdéstől eltérően, ha a vezetői kinevezéskor a pénzügyőr nem rendelkezik középfokú szaktanfolyami végzettséggel, azt a kinevezéstől számított két éven belül le kell tennie. Ha a középfokú szaktanfolyamot e határidőn belül a pénzügyőr számára felróható okból nem végzi el, a pénzügyőrt a kinevezés módosításával a végzettségének megfelelő nem vezetői munkakörbe kell helyezni, ha ilyen munkakör nem biztosítható, a pénzügyőr hivatásos szolgálati jogviszonyát felmentéssel meg kell szüntetni. A középfokú szaktanfolyami végzettség megszerzésére nyitva álló határidőbe nem számít bele a harminc napot meghaladó illetmény nélküli szabadság vagy keresőképtelenség, továbbá a harminc napot meghaladó kiküldetés időtartama.
 
 19/C. § (1) Törvény eltérő rendelkezése hiányában a vezetői kinevezés határozatlan időre szól.
 
@@ -602,11 +630,11 @@ kell megállapítani.
 
 19/F. § A kormánytisztviselő, illetve a pénzügyőr az e törvényben foglaltak szerint a jogviszonyban töltött ideje alapján, valamint a pénzügyőr a 20/C. §-ban foglaltak szerint a rendfokozatban jogosult az előmenetelre.
 
-19/G. § A kormánytisztviselőt, illetve a pénzügyőrt az e törvényben foglaltak szerint iskolai végzettségének és a 20/A. § (1) bekezdése szerinti jogviszonyban eltöltött idejének megfelelően kell besorolni.
+19/G. § A kormánytisztviselőt, illetve a pénzügyőrt a munkaköre betöltéséhez szükséges iskolai végzettségének és a 20/A. § (1) bekezdése szerinti jogviszonyban eltöltött idejének megfelelően kell besorolni.
 
 20. § (1) A pályakezdő kormánytisztviselő és pénzügyőr gyakornoki besorolást kap.
 
-(2) A munkakör betöltéséhez szükséges szakirányú felsőfokú iskolai végzettségű kormánytisztviselő és pénzügyőr
+(2) A felsőfokú iskolai végzettséget igénylő munkakört betöltő, szakirányú felsőfokú iskolai végzettséggel rendelkező kormánytisztviselő és pénzügyőr
 
 - a) egy év jogviszonyban töltött idő után fogalmazó,
 - b) három év jogviszonyban töltött idő után tanácsos,
@@ -614,7 +642,7 @@ kell megállapítani.
 - d) tizenhat év jogviszonyban töltött idő után főtanácsos,
 - e) huszonöt év jogviszonyban töltött idő után vezető-főtanácsos, besorolást kap.
 
-(3) A középiskolai végzettségű kormánytisztviselő és pénzügyőr
+(3) A felsőfokú iskolai végzettséget nem igénylő munkakört betöltő kormánytisztviselő és pénzügyőr
 
 - a) két év jogviszonyban töltött idő után előadó,
 - b) tizenkét év jogviszonyban töltött idő után főelőadó,
@@ -622,7 +650,7 @@ kell megállapítani.
 
 (4) A kormánytisztviselő és a pénzügyőr – a jogviszony időtartamától függetlenül – magasabb besorolási fokozatba, fizetési fokozatba sorolható, amennyiben "kiválóan megfelelt" minősítést kap, és kimagasló munkát végez.
 
-(5) Azt a kormánytisztviselőt, illetve pénzügyőrt, aki jogász, igazgatásszervező, okleveles közgazdász szakképzettséget, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, valamint azt aki egyébként jeles minősítésű oklevéllel rendelkezik, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
+(5) Azt a pályakezdő kormánytisztviselőt, illetve pénzügyőrt, aki jogász, igazgatásszervező, okleveles közgazdász szakképzettséget, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
 
 (6) Az (1) bekezdéstől eltérően azt a pályakezdő kormánytisztviselőt, illetve pénzügyőrt, aki bizonyítványát, oklevelét kiváló vagy annak megfelelő minősítéssel szerezte meg, a fogalmazó besorolási fokozat 2-es fizetési fokozatába, illetve előadó besorolási fokozat 2-es fizetési fokozatába kell sorolni.
 
@@ -630,7 +658,7 @@ kell megállapítani.
 
 (8) Az alapfokú, illetve a középfokú szaktanfolyamot kiváló eredménnyel elvégzett pénzügyőr – állománycsoportján belül – eggyel magasabb rendfokozatba előléptethető.
 
-20/A. § (1) A 20. § (1)–(3) bekezdése szerinti besorolásnál a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, ügyészségi, kedvezményes szorzó nélkül számított hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a Kttv. 47. §-ában meghatározott ösztöndíjas jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a 14 éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
+20/A. § (1) A 20. § (1)–(3) bekezdése szerinti besorolásnál a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, ügyészségi, kedvezményes szorzó nélkül számított hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a Kttv. 47. §-ában meghatározott ösztöndíjas jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a 14 éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett illetmény nélküli szabadság teljes időtartamát figyelembe kell venni.
 
 (2) Az (1) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
 
@@ -692,9 +720,9 @@ kell megállapítani.
 - a) általános teljes napi munkaidő esetén: 174 órával,
 - b) általánostól eltérő teljes napi vagy részmunkaidő esetén: 174 óra időarányos részével.
 
-(5) A munkakör betöltéséhez szükséges szakirányú felsőfokú iskolai végzettségű kormánytisztviselőt, valamint pénzügyőrt az I., a középiskolai végzettségű kormánytisztviselőt, valamint pénzügyőrt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.
+(5) A felsőfokú iskolai végzettséget igénylő munkakört betöltő, szakirányú felsőfokú iskolai végzettséggel rendelkező kormánytisztviselőt, valamint pénzügyőrt az I., a felsőfokú iskolai végzettséget nem igénylő munkakört betöltő kormánytisztviselőt, valamint pénzügyőrt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.
 
-21. § (1) Az egyes osztályok emelkedő számú fizetési fokozataihoz növekvő szorzószámok tartoznak. A szorzószám és a kormánytisztviselői illetményalap (a továbbiakban: illetményalap) szorzata határozza meg az egyes osztályok különböző fokozataihoz tartozó alapilletményt.
+21. § (1) Az egyes osztályok emelkedő számú fizetési fokozataihoz növekvő szorzószámok tartoznak. A szorzószám és az illetményalap szorzata határozza meg az egyes osztályok különböző fokozataihoz tartozó alapilletményt.
 
 (2) A besorolási osztályokat és a fizetési fokozatokat az 1. számú melléklet, a pénzügyi nyomozó I. és pénzügyi nyomozó II. munkakört betöltők tekintetében az 1/A. számú melléklet tartalmazza.
 
@@ -791,7 +819,7 @@ kell megállapítani.
 
 27. § Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő, illetve a pénzügyőr illetményét újra meg kell állapítani.
 
-28. § (1) A kormánytisztviselőt, pénzügyőrt, ügykezelőt az e törvény alapján megillető illetmény kifizetése az érintett által választott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
+28. § (1) A kormánytisztviselőt, pénzügyőrt, ügykezelőt az e törvény alapján megillető illetmény kifizetése az érintett által választott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik. A kormánytisztviselő, a pénzügyőr, az ügykezelő egyidejűleg csak egy fizetési számlát jelölhet meg választott fizetési számlaként, illetve csak egy kézbesítési címre kérheti az illetmény kifizetését.
 
 (2) A fizetési számlához kapcsolódóan a kormánytisztviselő, a pénzügyőr és az ügykezelő részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
 
@@ -803,9 +831,9 @@ kell megállapítani.
 
 (5) Az illetményt a tárgyhónapot követő ötödik napig (bérfizetési nap) ki kell fizetni.
 
-(6) Az illetmény bankszámlára utalással történő kifizetése esetén a munkáltatónak úgy kell eljárnia, hogy az érintett az illetményével a bérfizetési napon rendelkezhessen.
+(6) Az illetmény bankszámlára utalással történő kifizetése esetén a munkáltatónak úgy kell eljárnia, hogy az érintett az illetményével a bérfizetési napon rendelkezhessen, készpénzkifizetés kézbesítése útján történő kifizetése esetén pedig úgy kell eljárnia, hogy legkésőbb ugyanezen napon megtörténjen a készpénz feladása.
 
-(7) Az illetményt a kormánytisztviselőnek, pénzügyőrnek, ügykezelőnek kell kifizetni, kivéve, ha erre mást felhatalmaz, illetőleg bírósági vagy más hatósági határozat ebben korlátozza.
+(7) Az illetményt a kormánytisztviselőnek, pénzügyőrnek, ügykezelőnek kell kifizetni, kivéve, ha erre mást felhatalmaz, illetőleg bírósági vagy más hatósági határozat ebben korlátozza. A kormánytisztviselő, a pénzügyőr, az ügykezelő elhalálozása esetén az illetményt a jogerős hagyatékátadó végzésben vagy öröklési bizonyítványban megjelölt örökös (örökösök) részére kell kifizetni.
 
 (8) Ha a bérfizetési nap heti pihenőnapra (heti pihenőidőre) vagy munkaszüneti napra esik, az illetmény bankszámlára utalással történő kifizetése esetén a munkáltatónak úgy kell eljárnia, hogy az érintett az illetményével legkésőbb az ezt megelőző munkanapon rendelkezhessen, készpénzkifizetés kézbesítése útján történő kifizetése esetén pedig úgy kell eljárnia, hogy legkésőbb ugyanezen napon megtörténjen a készpénz feladása.
 
@@ -819,7 +847,7 @@ kell megállapítani.
 
 28/C. § A kormánytisztviselő, pénzügyőr, ügykezelő részére az illetményéről részletes írásbeli elszámolást kell adni. Az elszámolásnak olyannak kell lennie, hogy az érintett a kifizetés (és egyes elemeinek) jogcímét, a kiszámítás helyességét, valamint a levonások jogcímét és összegét ellenőrizni tudja.
 
-28/D. § (1) Az illetményből való levonásnak – a levonásmentes illetményrészig – jogszabály, végrehajtható határozat alapján van helye.
+28/D. § (1) Az illetményből való levonásnak – a levonásmentes illetményrészig – jogszabály, végrehajtható határozat alapján van helye. A levonásmentes illetményrész a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész.
 
 (2) A munkáltató a követelését az érintett hozzájárulása alapján, illetve, ha az előlegnyújtásból ered – a levonásmentes illetményrészig – az illetményből levonhatja.
 
@@ -835,11 +863,15 @@ kell megállapítani.
 
 (8) A kormánytisztviselő, pénzügyőr, ügykezelő az illetményére vonatkozó igényéről – az egyezséget kivéve – előre nem mondhat le.
 
-(9) A levonásmentes illetményrész nem engedményezhető.
+(9) Engedményezésnek pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető.
+
+(10) Tartozásátvállalásnak pénzkövetelés esetén van helye. Munkáltatói tartozást a kormánytisztviselő, pénzügyőr, ügykezelő nem vállalhat át.
+
+(11) A kormánytisztviselő és a munkáltató, a pénzügyőr és a munkáltató, illetve az ügykezelő és a munkáltató megállapodása alapján pénztartozás után kamat köthető ki, feltéve, hogy annak mértéke nem haladja meg a Ptk. 6:47. §-a szerinti mértéket.
 
 28/E. § A 28–28/D. §-t a munkavállalók munkabére tekintetében is megfelelően alkalmazni kell.
 
-28/F. § A 28/C. §, a 28/D. § (5)–(6) és (8)–(9) bekezdése alkalmazásában illetmény alatt, illetve a 28/E. § alkalmazásában munkabér alatt az egyéb járandóságot is, a 28. § (1)–(2) bekezdése, a 28/B. §, valamint a 28/D. § (1)–(3) bekezdése alkalmazásában illetmény alatt a pénzben kifizetendő egyéb járandóságot is érteni kell.
+28/F. § A 28/C. §, a 28/D. § (5) és (8)–(9) bekezdése alkalmazásában illetmény alatt, illetve a 28/E. § alkalmazásában munkabér alatt az egyéb járandóságot is, a 28. § (1), (2a) és (7) bekezdése, a 28/B. §, valamint a 28/D. § (1)–(3) és (6) bekezdése alkalmazásában illetmény alatt a pénzben kifizetendő egyéb járandóságot is érteni kell.
 
 29. § (1)–(3)
 
@@ -864,14 +896,14 @@ kell megállapítani.
 - c) 35 év kormányzati szolgálati jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő esetén 5 havi,
 - d) 40 és ezt követő minden 5 év kormányzati szolgálati jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő esetén 7 havi illetménynek megfelelő összeg.
 
-(3) A kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony megszűnése, és ezzel egyidejűleg a kormánytisztviselő nyugdíjba vonulása, illetve a pénzügyőr nyugdíjazása esetén ki kell fizetni:
+(3) A kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony megszűnése, és ezzel egyidejűleg a kormánytisztviselő, pénzügyőr nyugdíjba vonulása, illetve elhalálozása esetén ki kell fizetni:
 
-- a) a nyugdíjazás évében esedékessé váló jubileumi jutalmat,
+- a) a nyugdíjazás, illetve az elhalálozás évében esedékessé váló jubileumi jutalmat,
 - b) a 30 év kormányzati szolgálati jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 1 év vagy ennél kevesebb van hátra,
 - c) a 35 év kormányzati szolgálati jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 2 év vagy ennél kevesebb van hátra,
 - d) a 40 év és az ezt követő minden 5 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 3 év vagy ennél kevesebb van hátra.
 
-(3a) Ha a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony a kormánytisztviselő, illetve a pénzügyőr halála miatt szűnt meg, a (3) bekezdés alkalmazása alapján járó jubileumi jutalmat özvegyének (élettársának), ennek hiányában az örökösnek kell kifizetni.
+(3a)
 
 (3b) A kormánytisztviselő, illetve a pénzügyőr nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta.
 
@@ -879,7 +911,7 @@ kell megállapítani.
 
 ### Szakmai címek
 
-31/A. § (1) A NAV elnöke szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező kormánytisztviselőnek és pénzügyőrnek. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát a NAV foglalkoztatási szabályzatában kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg a NAV felsőfokú iskolai végzettségű kormánytisztviselői és pénzügyőri létszámának 15%-át.
+31/A. § (1) A NAV elnöke szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező kormánytisztviselőnek és pénzügyőrnek. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát a foglalkoztatási szabályzatban kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg a NAV felsőfokú iskolai végzettségű kormánytisztviselői és pénzügyőri létszámának 15%-át.
 
 (2) Szakmai tanácsadói cím annak az I. besorolási osztályba tartozó, legalább ötéves szakmai gyakorlattal és – kormánytisztviselő esetén – közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek, illetve pénzügyőrnek; szakmai főtanácsadói cím annak az I. besorolási osztályba tartozó, legalább tíz éves szakmai gyakorlattal és – kormánytisztviselő esetén – közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek, illetve pénzügyőrnek adományozható, aki "kiválóan megfelelt" minősítésű.
 
@@ -954,8 +986,8 @@ kell megállapítani.
 
 (6) Amennyiben az érintett
 
-- a) kormányzati szolgálati jogviszonya a Kttv. 42. § (8) bekezdése, 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
-- b) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi, pszichikai vagy fizikai állapota miatti megszűnés kivételével –, b), e) vagy g) pontja, az 59. § (1) bekezdés b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
+- a) kormányzati szolgálati jogviszonya a Kttv. 39. § (4) bekezdése, 42. § (8) bekezdése, 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
+- b) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi, pszichikai vagy fizikai állapota miatti megszűnés kivételével –, b), e) vagy g) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
 
 (6a) Amennyiben a kormányzati szolgálati jogviszony a Kttv. 60. § (2) bekezdés a) pontja, a hivatásos szolgálati jogviszony a Hszt. 53. § a) pontja alapján szűnik meg, a (6) bekezdés szerinti kezességvállalási díjat nem kell megfizetni, ha a munkáltató és a kormánytisztviselő, a munkáltató és a pénzügyőr, vagy a munkáltató és az ügykezelő erről írásban megállapodnak.
 
@@ -1100,8 +1132,8 @@ kell megállapítani.
 (4) Ügykezelő és munkavállaló esetében a pótszabadság mértéke évente:
 
 - a) 2–10 éves jogviszony esetén 2 munkanap,
-- b) 11–20 éves jogviszonytól 3 munkanap,
-- c) 21–30 éves jogviszonytól 4 munkanap,
+- b) 11–20 éves jogviszony esetén 3 munkanap,
+- c) 21–30 éves jogviszony esetén 4 munkanap,
 - d) 30 éves jogviszony felett 5 munkanap.
 
 (4a) A (4) bekezdés alkalmazásában az ügykezelő és a munkavállaló jogviszonyát a 20/A. §-ban foglaltak szerint kell megállapítani.
@@ -1180,7 +1212,7 @@ pótszabadság illeti meg.
 
 (3) Annak a kormánytisztviselőnek, pénzügyőrnek, ügykezelőnek, akinek a munkaidő-beosztása nem biztosít hetenként két pihenőnapot, úgy kell számítani a szabadságát, hogy azonos naptári időszakra (hétre) mentesüljön a munkavégzés alól, mint az ötnapos munkahéttel dolgozók.
 
-32/Q. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő részére, ha a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya év közben kezdődött vagy szűnt meg, az alap- és a 32/K. § szerinti pótszabadság arányos része jár.
+32/Q. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő részére, ha a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya év közben kezdődött vagy szűnt meg, az alap- és a 32/K–32/M. § szerinti pótszabadság arányos része jár.
 
 (2) A fél napot elérő töredéknap egész munkanapnak számít.
 
@@ -1198,7 +1230,7 @@ pótszabadság illeti meg.
 
 (6) A gyermek ápolása, illetve gondozása céljára kapott illetmény nélküli szabadság megszűnését követően, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő a gyermek ápolása, gondozása miatt kapott illetmény nélküli szabadság első 6 hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
 
-(7) Ha a kormánytisztviselő, a pénzügyőr, az ügykezelő a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami a NAV-nál töltött időre megilletné, a különbözetre kifizetett illetményt köteles visszafizetni.
+(7) Ha a kormánytisztviselő, a pénzügyőr, az ügykezelő a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami a NAV-nál töltött időre megilletné, a kormánytisztviselő, az ügykezelő a különbözetre kifizetett illetményt, illetve a pénzügyőr a különbözetre kifizetett távolléti díjat köteles visszafizetni.
 
 (8) Nem követelhető vissza a túlfizetés, ha a kormányzati szolgálati jogviszony, hivatásos szolgálati jogviszony a kormánytisztviselő, a pénzügyőr, az ügykezelő nyugdíjasnak minősülése, vagy halála miatt szűnt meg.
 
@@ -1206,7 +1238,7 @@ pótszabadság illeti meg.
 
 ### Szülési szabadság
 
-32/S. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult.
+32/S. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
 (2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
 
@@ -1230,7 +1262,7 @@ pótszabadság illeti meg.
 
 (3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vér szerinti vagy örökbe fogadó apát kell érteni.
 
-(4) A pótszabadság tartamára járó illetmény kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.
+(4)
 
 ### Illetmény nélküli szabadság
 
@@ -1278,6 +1310,8 @@ pótszabadság illeti meg.
 
 (2) A kormánytisztviselőt és a pénzügyőrt – a reá irányadó öregségi nyugdíjkorhatárt megelőző öt év kivételével – legalább ötévente, valamint minden magasabb besorolási fokozatba sorolása előtt a szakmai teljesítmények, az azt befolyásoló ismeretek, képességek, személyiségjegyek értékelése alapján – kiválóan megfelelt, megfelelt, kevésbé felelt meg, illetve nem felelt meg fokozatba – minősíteni kell, továbbá a kormánytisztviselőt, illetve a pénzügyőrt írásbeli kérelmére akkor is minősíteni kell, ha az utolsó minősítése óta két év már eltelt és az érintett már legalább egy éve a minősítő irányítása alatt dolgozott. A minősítés kötelező elemeit a 11. számú melléklet tartalmazza, de a minősítő az adott munkakörhöz kapcsolódó követelményekhez igazodó további szempontokat is értékelhet a minősítés során.
 
+(2a) Az ötévente esedékes minősítésre akkor kerülhet sor, ha az érintett már legalább 6 hónapja a minősítő irányítása alatt dolgozik. Ennek hiányában a minősítést el kell halasztani addig, amíg az érintett már 6 hónapja a minősítő irányítása alatt dolgozik.
+
 (3) A minősítés során figyelembe kell venni a legutolsó minősítés óta készült teljesítményértékeléseket, azok együttes eredményétől eltérni csak indokolt esetben lehet. Minősíteni az első teljesítményértékeléstől számított egy évet követően lehet, kivéve, ha a minősítésre magasabb besorolási fokozatba sorolás miatt, illetve a (4) bekezdésben előírtak miatt van szükség.
 
 (4) A kormánytisztviselőt és a pénzügyőrt soron kívül minősíteni kell, ha teljesítményértékelése alapján az állapítható meg, hogy feladatait nem, vagy nagyon csekély mértékben, illetve nagyon alacsony színvonalon teljesítette.
@@ -1290,7 +1324,7 @@ pótszabadság illeti meg.
 
 (8) A minősítettel a minősítést ismertetni kell, aki arra írásban észrevételt tehet. A megismerés és a minősítés egy példánya átvételének tényét a kormánytisztviselő, illetve a pénzügyőr a minősítésen aláírásával igazolja.
 
-(9) A minősítés alapján szakértői, illetve vezetői utánpótlás adatbázisba helyezhető a kormánytisztviselő.
+(9)
 
 (10) A teljesítményértékelés, minősítés hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítése iránt a kormánytisztviselő, illetve a pénzügyőr bírósághoz fordulhat.
 
@@ -1306,7 +1340,7 @@ pótszabadság illeti meg.
 
 - a) a továbbképzést önhibájából elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy
   - aa) kormányzati szolgálati jogviszonya a Kttv. 39. § (4) bekezdése, 60. § (1) bekezdés i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a) pontja, 118. § (5) bekezdése, 122. § (2) bekezdése, 210. § (1) bekezdése, illetve e törvény 33/F. § (1) bekezdése alapján,
-  - ab) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, 56. § (2) bekezdés b), e) vagy g) pontja vagy az 59. § (1) bekezdésének b) és f) pontja, illetve e törvény 33/F. § (1) bekezdése alapján a továbbképzés befejezésétől számított 2 éven belül, vagy a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony NAV-val történt létesítésétől számított 6 éven belül megszűnik. A 4 évet meghaladó NAV-val fennálló jogviszony esetén a költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
+  - ab) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, 56. § (2) bekezdés b), e) vagy g) pontja vagy az 59. § (1) bekezdésének f) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján a továbbképzés befejezésétől számított 2 éven belül, vagy a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony NAV-val történt létesítésétől számított 6 éven belül megszűnik. A 4 évet meghaladó NAV-val fennálló jogviszony esetén a költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
 
 (5) A (4) bekezdés alapján a kormánytisztviselő, a pénzügyőr, az ügykezelő köteles megtéríteni a munkáltató által előírt
 
@@ -1362,27 +1396,32 @@ költségeit.
 33/B. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő a NAV adott központi, középfokú, illetve alsó fokú szervénél
 
 - a) nem tölthet be olyan munkakört, amelyben a hozzátartozójával az adott szerven belül irányítási (felügyeleti), szolgálati elöljárói-alárendelti viszonyba, ellenőrzési vagy elszámolási kapcsolatba kerülne;
-- b) nem láthat el olyan feladatot, amelynek révén olyan gazdálkodó szervezettel kerül elszámolási viszonyba, amelyben a hozzátartozójának a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti többségi befolyása van, vagy a hozzátartozó az elszámolási viszonyra befolyással bíró tisztséget (munkakört) lát el.
+- b) nem láthat el olyan feladatot, amelynek révén olyan gazdálkodó szervezettel kerül elszámolási viszonyba, amelyben a hozzátartozójának a Ptk. szerinti többségi befolyása van, vagy a hozzátartozó az elszámolási viszonyra befolyással bíró tisztséget (munkakört) lát el.
 
 (2) A kormánytisztviselő, a pénzügyőr, az ügykezelő nem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, amely hivatalához, illetve a hivatásos szolgálathoz méltatlan, vagy amely a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő pártatlan, befolyástól mentes tevékenységét, illetve a NAV tekintélyét veszélyeztetné.
 
 (3) A kormánytisztviselő, az ügykezelő pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve a helyi önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat, a pénzügyőr tekintetében a Hszt. 18. § (2) bekezdés az irányadó.
 
-(4) A kormánytisztviselő, a pénzügyőr, az ügykezelő nem lehet – törvényben meghatározott egyéb megbízatásokon túl – helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely a NAV őt alkalmazó szerve szervezetszerű működési területén működik.
+(4) A kormánytisztviselő, a pénzügyőr nem lehet
 
-(5) Amennyiben a munkáltató szervezetszerű működési területe az ország egész területére kiterjed, a kormánytisztviselő, a pénzügyőr, az ügykezelő annál az önkormányzatnál nem lehet – törvényben meghatározott egyéb megbízatásokon túl – helyi önkormányzati, nemzetiségi önkormányzati képviselő, amely a munkavégzési, illetve szolgálatteljesítési helye szerinti régió közigazgatási határain belül van.
+- a) helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja,
+- b) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
+- c) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
+- d) nemzetiségi önkormányzat képviselője.
 
-(6) Az informatikai intézet és a humánerőforrás-fejlesztési feladatokat ellátó intézet esetében a kormánytisztviselő, a pénzügyőr, az ügykezelő annál az önkormányzatnál nem lehet – törvényben meghatározott egyéb megbízatásokon túl – helyi önkormányzati, nemzetiségi önkormányzati képviselő, amely a munkavégzési, illetve szolgálatteljesítési helye szerinti régió közigazgatási határain belül van.
+(5)–(6)
 
 (7) A pénzügyőr a Hszt. 59. § (1) bekezdés c) pontjában meghatározott tisztséget nem tölthet be.
 
-33/C. § (1) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével a kormánytisztviselő, a pénzügyőr, az ügykezelő munkavégzésre irányuló további jogviszonyt [20/A. § (1) bekezdés], illetve munkavégzésre irányuló egyéb jogviszonyt [20/A. § (3) bekezdése, ideértve a (2a) bekezdés a) és c)–h) pontját is], valamint a gazdasági társaságokról szóló törvény szerinti üzletvezetési, cégvezetői, képviseleti tevékenységet – ide nem értve a vezető tisztségviselői tevékenységet –, továbbá mezőgazdasági őstermelői tevékenységet csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat.
+(8) Nem keletkeztet összeférhetetlenséget a Magyar Kormánytisztviselői Karban, a Magyar Rendvédelmi Kar NAV Tagozatában, illetve a munkavállalói érdek-képviseleti szervben betöltött tisztség.
+
+33/C. § (1) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével a kormánytisztviselő, a pénzügyőr, az ügykezelő munkavégzésre irányuló további jogviszonyt [20/A. § (1) bekezdés], illetve munkavégzésre irányuló egyéb jogviszonyt [20/A. § (3) bekezdése, ideértve a (2a) bekezdés a) és c)–h) pontját is], valamint gazdasági társaságnál cégvezetői, képviseleti tevékenységet – ide nem értve a vezető tisztségviselői tevékenységet –, továbbá mezőgazdasági őstermelői tevékenységet csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat.
 
 (2) Vezetői munkakört betöltő kormánytisztviselő, pénzügyőr – a (2a) és a (3) bekezdés kivételével – további, illetve egyéb jogviszonyt csak az (1) bekezdés szerinti gyakorolható tevékenységre vonatkozóan létesíthet, továbbá az (1) bekezdésben külön említett engedélyköteles tevékenységet nem végezhet, illetve arra irányuló jogviszonyt nem létesíthet.
 
 (2a) Vezetői munkakört betöltő kormánytisztviselő, illetve pénzügyőr a munkáltatói jogkör gyakorlójának az előzetes engedélye alapján
 
-- a) viselhet egyesületben, érdekképviseleti szervezetben, valamint szövetkezetben tisztséget,
+- a) viselhet egyesületben, a 33/B. § (8) bekezdésben említett szervezetek kivételével érdek-képviseleti szervezetben, valamint szövetkezetben tisztséget,
 - b) folytathat közérdekű önkéntes tevékenységet,
 - c) lehet alapítvány, közalapítvány kezelő szervezetének tagja, illetve elnöke,
 - d) elláthat edzői, versenybírói, játékvezetői tevékenységet,
@@ -1399,7 +1438,7 @@ költségeit.
 
 (6) Az (1)–(5) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a felmentési idő során a munkavégzési kötelezettség alól, a szolgálati kötelezettség teljesítése alól mentesített kormánytisztviselővel, pénzügyőrrel, illetve ügykezelővel szemben.
 
-33/D. § (1) A 33/C. § alkalmazása során nem engedélyezhető a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő részére a 33/C. § szerinti engedélyköteles jogviszony létesítése, illetve tevékenység folytatása, ha
+33/D. § (1) A 33/C. § alkalmazása során nem engedélyezhető a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő részére a 33/C. § szerinti engedélyköteles jogviszony létesítése, illetve tevékenység folytatása, különösen ha
 
 - a) az a 33/B. § (2) bekezdésébe ütközik,
 - b) az a NAV-ra vonatkozó, jogszabályban meghatározott feladatokhoz kapcsolódik, illetve azokkal ellentétes vagy azok végrehajtását veszélyezteti, akadályozza,
@@ -1420,7 +1459,7 @@ költségeit.
 
 (4) Az engedélyhez kötött jogviszony megszűnését vagy lényeges, utóbb bekövetkező változását a 33/C. § szerinti engedélyezőhöz írásban, pénzügyőr esetében szolgálati úton haladéktalanul be kell jelenteni.
 
-(5) A kérelem kötelező minimális tartalmi elemeit, továbbá az összeférhetetlenséggel kapcsolatos iratok kezelésének szabályait a NAV foglalkoztatási szabályzata határozza meg.
+(5) A kérelem kötelező minimális tartalmi elemeit, továbbá az összeférhetetlenséggel kapcsolatos iratok kezelésének szabályait a foglalkoztatási szabályzat határozza meg.
 
 33/F. § (1) A kormánytisztviselő, a pénzügyőr, illetve az ügykezelő köteles a munkáltatói jogkör gyakorlójának haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merült fel, illetve ha kormányzati szolgálati jogviszonyának, hivatásos szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe került. A munkáltatói jogkör gyakorlója írásban köteles felszólítani a kormánytisztviselőt, a pénzügyőrt, illetve az ügykezelőt az összeférhetetlenség megszüntetésére. Ha a munkáltatói jogkör gyakorlója – a kormánytisztviselő, a pénzügyőr, az ügykezelő bejelentésének hiánya ellenére – tudomást szerez arról, hogy a kormánytisztviselővel, a pénzügyőrrel, az ügykezelővel szemben összeférhetetlenségi ok áll fenn, ugyancsak köteles felszólítani az érintettet az összeférhetetlenség megszüntetésére. Amennyiben a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő az összeférhetetlenséget a felszólítás közlésétől számított 30 napon belül nem szüntette meg, kormányzati szolgálati jogviszonya, hivatásos szolgálati jogviszonya megszűnik.
 
@@ -1432,30 +1471,36 @@ költségeit.
 
 ### A fegyelmi felelősség általános szabályai
 
-33/G. § (1) Fegyelmi vétséget követ el a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő, ha kormányzati szolgálati jogviszonyából, hivatásos szolgálati jogviszonyából eredő kötelezettségét vétkesen megszegi. A fegyelmi vétséget elkövető kormánytisztviselőt, pénzügyőrt, ügykezelőt – a 33/P. § (5)–(8) bekezdés szerinti eset kivételével – fegyelmi eljárás keretében felelősségre kell vonni.
+33/G. § (1) Fegyelmi vétséget követ el a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő, ha a kormányzati, illetve hivatásos szolgálati tevékenysége során a kormányzati szolgálati jogviszonyából, hivatásos szolgálati jogviszonyából eredő kötelezettségét vétkesen megszegi. A fegyelmi vétséget elkövető kormánytisztviselőt, pénzügyőrt, ügykezelőt – a 33/P. § (5)–(8) bekezdés szerinti eset kivételével – fegyelmi eljárás keretében felelősségre kell vonni.
 
 (2) A fegyelmi vétséget elkövető kormánytisztviselővel, ügykezelővel szemben fegyelmi büntetés, pénzügyőrrel szemben fenyítés (a továbbiakban: fegyelmi büntetés) alkalmazható.
 
+(2a) A fegyelmi büntetést különösen a fegyelmi vétség tárgyi súlyának, a fegyelemre gyakorolt hatásának, az elkövető vétkességének, a személyi körülményeinek, valamint a munkájában a fegyelmi vétség elkövetése előtt tanúsított magatartásának mérlegelésével kell kiszabni.
+
+(2b) A (4)–(5) bekezdés kivételével ugyanazon fegyelmi vétségért több fegyelmi büntetés nem szabható ki, illetve ha több fegyelmi vétséget egy eljárásban bírálnak el, csak egy fegyelmi büntetés szabható ki.
+
 (3) A fegyelmi vétséget elkövetővel szemben kiszabható fegyelmi büntetések:
 
-- a) megrovás;
-- b) a besorolásban való előmeneteli rendszerben a várakozási idő legfeljebb 2 évvel való meghosszabbítása;
-- c) kizárólag pénzügyőr esetében a soron következő rendfokozatba való előléptetés várakozási idejének 6 hónaptól 2 évig terjedő meghosszabbítása;
-- d) visszavetés egy fizetési fokozattal 2 évre;
-- e) személyi illetménnyel rendelkező esetében a személyi illetmény visszavonása;
-- f) kizárólag pénzügyőr esetében eggyel alacsonyabb rendfokozatba 6 hónaptól 2 évig történő visszavetés;
-- g) címtől való megfosztás;
-- h) vezetői munkakörből nem vezetői munkakörbe helyezés;
-- i) kizárólag kormánytisztviselő, illetve ügykezelő esetében hivatalvesztés;
-- j) kizárólag pénzügyőr esetében a hivatásos szolgálati jogviszony megszüntetése;
-- k) kizárólag pénzügyőr esetében lefokozás.
+- a) megrovás,
+- b) a besorolásban való előmeneteli rendszerben a várakozási idő legfeljebb 2 évvel való meghosszabbítása,
+- c) kizárólag pénzügyőr esetében a soron következő rendfokozatba való előléptetés várakozási idejének 6 hónaptól 2 évig terjedő meghosszabbítása,
+- d) visszavetés egy fizetési fokozattal 2 évre,
+- e) személyi illetménnyel rendelkező esetében a személyi illetmény visszavonása,
+- f) kizárólag pénzügyőr esetében eggyel alacsonyabb rendfokozatba 6 hónaptól 2 évig történő visszavetés,
+- g) címtől való megfosztás,
+- h) egy besorolási fokozattal való visszavetés annak legmagasabb fizetési fokozatába 2 évtől 5 évig terjedő időre,
+- i) egy besorolási fokozattal való visszavetés annak legalacsonyabb fizetési fokozatába 2 évtől 5 évig terjedő időre,
+- j) vezetői munkakörből nem vezetői munkakörbe helyezés,
+- k) kizárólag kormánytisztviselő, illetve ügykezelő esetében hivatalvesztés,
+- l) kizárólag pénzügyőr esetében a hivatásos szolgálati jogviszony megszüntetése,
+- m) kizárólag pénzügyőr esetében lefokozás.
 
 (4) Nem vezetői munkakört betöltő kormánytisztviselő, pénzügyőr esetén a (3) bekezdés g) pont szerinti fegyelmi büntetés mellett
 
 - a) ha a címtől való megfosztás a 31/B. § szerinti címet érinti, a d) pont szerinti fegyelmi büntetés, illetve
-- b) személyi illetménnyel rendelkező esetében az e) pont szerinti fegyelmi büntetés is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de az i)–k) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
+- b) személyi illetménnyel rendelkező esetében az e) pont szerinti fegyelmi büntetés is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de a k)–m) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
 
-(5) Vezető esetén a (3) bekezdés h) pont szerinti fegyelmi büntetés mellett a g) pont szerinti fegyelmi büntetés is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de az i)–k) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
+(5) Vezető esetén a (3) bekezdés j) pont szerinti fegyelmi büntetés mellett a g) pont szerinti fegyelmi büntetés is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de a k)–m) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
 
 (6) A lefokozás következménye a hivatásos szolgálati jogviszony megszüntetése is.
 
@@ -1467,6 +1512,13 @@ költségeit.
 - b) a 2 év letelte után a 20. § szerinti besorolás alapján kell megállapítani.
 
 (8) A személyi illetmény visszavonása fegyelmi büntetéssel sújtott új illetményét a 20. §-a szerinti besorolás alapján – a 21. §-ra figyelemmel – kell megállapítani.
+
+(8a) A visszavetés egy besorolási fokozattal fegyelmi büntetéssel sújtottnak az új illetményét
+
+- a) a (3) bekezdés h) pont esetén a visszavetett besorolási fokozat legmagasabb, a (3) bekezdés i) pont esetén a visszavetett besorolási fokozat legalacsonyabb fizetési fokozatában
+  - aa) a 20. § szerinti besorolás alapján kell megállapítani, illetve
+  - ab) ha az alapilletménye a fegyelmi büntetés jogerőre emelkedésekor a 25. § alapján megemelt volt, az aa) pontnak megfelelően, az eltérítés nélkül, ha a 25. § alapján csökkentett volt, az aa) pontnak megfelelően, de a tárgyév még hátralévő részére az eltérítéssel kell megállapítani;
+- b) a visszavetés időtartamának letelte után a 20. § szerinti besorolás alapján kell megállapítani.
 
 (9) Amennyiben a legenyhébb fegyelmi büntetés kiszabása is indokolatlan, a fegyelmi vétség megállapítása mellett a fegyelmi büntetés mellőzhető [33/Q. § (1) bekezdés, 33/Y. § (3) bekezdés b) pont, 34/A. § (4) bekezdés] az eljárás valamennyi szakaszában.
 
@@ -1487,11 +1539,11 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 (2) A kormánytisztviselő, a pénzügyőr, illetve az ügykezelő a fegyelmi büntetés hatálya alatt áll a fegyelmi határozat jogerőre emelkedésétől a fegyelmi büntetés végrehajtásáig továbbá az a)–f) pont szerinti ideig, illetve ha a fegyelmi büntetést a fegyelmi határozat jogerőre emelkedése előtt végrehajtották [34/D. § (2), illetve (4) bekezdés], a végrehajtástól az a)–f) pont szerinti ideig:
 
 - a) a 33/G. § (3) bekezdés b)–c) pontjában meghatározott büntetésnél a várakozási idő meghosszabbításának ideje alatt;
-- b) a 33/G. § (3) bekezdés d) és f) pontjában meghatározott büntetésnél a visszavetés időtartamának elteltéig;
-- c) a 33/G. § (3) bekezdés e) és g)–h) pontjában meghatározott büntetésnél 2 évig;
-- d) a 33/G. § (4)–(5) bekezdésben meghatározott büntetésnél 2 évig;
-- e) a 33/G. § (3) bekezdés i) pontjában meghatározott büntetésnél 3 évig;
-- f) a 33/G. § (3) bekezdés j)–k) pontjában meghatározott büntetésnél 5 évig.
+- b) a 33/G. § (3) bekezdés d), f) és h)–i) pontjában meghatározott büntetésnél a visszavetés időtartamának elteltéig;
+- c) a 33/G. § (3) bekezdés e), g) és j) pontjában meghatározott büntetésnél 2 évig;
+- d) a 33/G. § (4) és (5) bekezdésben meghatározott büntetésnél 2 évig;
+- e) a 33/G. § (3) bekezdés k) pontjában meghatározott büntetésnél 3 évig;
+- f) a 33/G. § (3) bekezdés l)–m) pontjában meghatározott büntetésnél 5 évig.
 
 (3) Ha a kormányzati szolgálati jogviszony hivatalvesztés miatt szűnt meg, a volt kormánytisztviselő, ügykezelő államigazgatási szervnél három évig nem alkalmazható.
 
@@ -1505,7 +1557,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (4) Ha a fegyelmi jogkör gyakorlója a munkáltatói jogkör gyakorlója, de a fegyelmi vétség elkövetőjét a fegyelmi eljárás megindítását követően a NAV szervei között áthelyezik, az adott ügyben a fegyelmi jogkör gyakorlója továbbra is az a személy, aki a fegyelmi eljárás megindításának időpontjában a munkáltatói jogkör gyakorlója volt.
 
-(5) A vezénylés tartama alatt a vezényelt pénzügyőr felett a vezénylés helye szerinti munkáltatói jogkör gyakorlója gyakorolja a fegyelmi jogkört, de a vezetése alatt álló fegyelmi tanács csak a 33/G. § (3) bekezdés a) pontja szerinti fegyelmi büntetést szabhat ki. Ha a fegyelmi tanács szerint ennél súlyosabb fegyelmi büntetés lenne indokolt, a fegyelmi ügyet 8 napon belül át kell tenni az eredeti munkáltatói jogkör gyakorlójához, aki – újabb fegyelmi tanács felállítása nélkül – 15 napon belül dönt az ügyben, vagy ha az álláspontja szerint olyan fegyelmi büntetés válik szükségessé, ami a hatáskörét meghaladja, 15 napon belül a NAV elnökéhez terjeszti fel az ügyet, aki – újabb fegyelmi tanács felállítása nélkül – a felterjesztéstől számított 30 napon belül dönt az ügyben. Ilyen esetben akkor is az eredeti munkáltatói jogkör gyakorlója, illetve a NAV elnöke dönt az ügyben, ha álláspontja szerint nem a javasolt fegyelmi büntetés indokolt.
+(5) A vezénylés tartama alatt a vezényelt pénzügyőr felett a vezénylés helye szerinti munkáltatói jogkör gyakorlója gyakorolja a fegyelmi jogkört, de ő, illetve a vezetése alatt álló fegyelmi tanács csak a 33/G. § (3) bekezdés a) pontja szerinti fegyelmi büntetést szabhat ki. Ha a fegyelmi tanács szerint ennél súlyosabb fegyelmi büntetés lenne indokolt, a fegyelmi ügyet 8 napon belül át kell tenni az eredeti munkáltatói jogkör gyakorlójához, aki – újabb fegyelmi tanács felállítása nélkül – 15 napon belül dönt az ügyben akkor is, ha álláspontja szerint nem a javasolt fegyelmi büntetés indokolt, vagy ha az álláspontja szerint olyan fegyelmi büntetés válik szükségessé, ami a hatáskörét meghaladja, 15 napon belül a NAV elnökéhez terjeszti fel az ügyet, aki a 33/K. § (5) bekezdésének megfelelően jár el.
 
 (6) A rendelkezési állományba tartozó pénzügyőrrel szemben a fegyelmi jogkör gyakorlója
 
@@ -1514,21 +1566,23 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
   - ab) egyéb esetben a NAV elnöke;
 - b) ha a rendelkezési állományba helyezés a Hszt. 44. § (1) bekezdés b)–c), e)–h) vagy j)–k) pontja alapján történt, a NAV elnöke;
 - c) a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán vám- és jövedékigazgatási vagy pénzügyi nyomozó szakirányon szolgálatot teljesítő oktatói állomány tekintetében a NAV elnöke;
-- d) a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán vám- és jövedékigazgatási vagy pénzügyi nyomozó szakirány nappali tagozatán tanulmányokat folytató kettős jogállású hallgatók tekintetében a Vám- és Pénzügyőri Tanszék tanszékvezetője, de a vezetése alatt álló fegyelmi tanács csak a 33/G. § (3) bekezdés a) pontja szerinti fegyelmi büntetést szabhatja ki. Ha a fegyelmi tanács szerint ennél súlyosabb fegyelmi büntetés lenne indokolt, a fegyelmi jogkör gyakorlója a NAV elnöke. Ilyen esetben a fegyelmi ügyet 8 napon belül fel kell terjeszteni a NAV elnökéhez, aki – újabb fegyelmi tanács felállítása nélkül – 30 napon belül dönt az ügyben. Ilyen esetben akkor is a NAV elnöke dönt az ügyben, ha álláspontja szerint nem a javasolt fegyelmi büntetés indokolt.
+- d) a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán vám- és jövedékigazgatási vagy pénzügyi nyomozó szakirány nappali tagozatán tanulmányokat folytató kettős jogállású hallgatók tekintetében a Vám- és Pénzügyőri Tanszék tanszékvezetője, de ő, illetve a vezetése alatt álló fegyelmi tanács csak a 33/G. § (3) bekezdés a) pontja szerinti fegyelmi büntetést szabhatja ki. Ha a fegyelmi tanács szerint ennél súlyosabb fegyelmi büntetés lenne indokolt, a fegyelmi jogkör gyakorlója a NAV elnöke. Ilyen esetben a fegyelmi ügyet 8 napon belül fel kell terjeszteni a NAV elnökéhez, aki – újabb fegyelmi tanács felállítása nélkül – 30 napon belül dönt az ügyben. Ilyen esetben akkor is a NAV elnöke dönt az ügyben, ha álláspontja szerint nem a javasolt fegyelmi büntetés indokolt.
 
-(7) Ha a fegyelmi vétséget többen együttesen valósították meg, és az érintettek fegyelmi jogkör gyakorlója nem ugyanaz a vezető, a fegyelmi jogkör gyakorlója az, akinek a fegyelmi jogköre valamennyi elkövetőre kiterjed. A fegyelmi jogkör gyakorlója ilyen esetben a 33/L. § (1)–(2) bekezdésének megfelelő alkalmazásával jár el.
+(7) Ha a fegyelmi vétséget többen követték el, és az érintettek fegyelmi jogkör gyakorlója nem ugyanaz a vezető, a fegyelmi jogkör gyakorlója az, akinek a fegyelmi jogköre valamennyi elkövetőre kiterjed. A fegyelmi jogkör gyakorlója ilyen esetben a 33/L. § (1)–(2) bekezdésének megfelelő alkalmazásával jár el.
 
-33/K. § (1) A 33/J. §-tól eltérően tábornok esetében a fegyelmi jogkör gyakorlója a NAV elnöke, de a vezetése alatt álló fegyelmi tanács rendfokozatot vagy szolgálati viszonyt érintő fegyelmi büntetést nem szabhat ki.
+33/K. § (1) A 33/J. §-tól eltérően tábornok esetében a fegyelmi jogkör gyakorlója a NAV elnöke, de a vezetése alatt álló fegyelmi tanács rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetést nem szabhat ki.
 
-(2) Tábornok esetében rendfokozatot vagy szolgálati viszonyt érintő fegyelmi büntetés kiszabására az (1) bekezdés szerinti fegyelmi tanács javaslatot tesz a kijelölt miniszternek.
+(2) Tábornok esetében rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés kiszabására az (1) bekezdés szerinti fegyelmi tanács javaslatot tesz a kijelölt miniszternek.
 
-(3) A (2) bekezdés szerinti javaslat alapján a kijelölt miniszter tesz javaslatot a Köztársasági Elnöknek rendfokozatot vagy szolgálati viszonyt érintő fegyelmi büntetés kiszabására.
+(3) A (2) bekezdés szerinti javaslat alapján a kijelölt miniszter tesz javaslatot a Köztársasági Elnöknek rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés kiszabására.
 
 (3a) Ha a kijelölt miniszter a javaslattal egyetért, a Hszt. 36. § (5)–(7) bekezdését kell alkalmazni.
 
 (4) Ha a kijelölt miniszter szerint egyik javasolt fegyelmi büntetés sem indokolt, az ügyet visszaküldi az (1) bekezdés szerinti fegyelmi tanács vezetőjének az eljárás folytatására, vagy – újabb fegyelmi tanács felállítása nélkül – 30 napon belül maga dönt az ügyben.
 
-(5) Főtiszt, tiszt esetében rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés kiszabására – a 33/J. § alapján eljáró vagy a 33/L. § (1) bekezdése esetén a főigazgató vezetésével eljáró fegyelmi tanács javaslatára – a NAV elnöke jogosult. Ha a NAV elnöke szerint egyik javasolt fegyelmi büntetés sem indokolt, az ügyet visszaküldi a fegyelmi tanács vezetőjének az eljárás folytatására, vagy – újabb fegyelmi tanács felállítása nélkül – 30 napon belül maga dönt az ügyben.
+(5) Főtiszt, tiszt esetében rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés kiszabására – ide nem értve, ha a fegyelmi tanács a NAV elnökének vezetésével jár el – a 33/J. § alapján eljáró vagy a 33/L. § (1) bekezdése esetén a főigazgató vezetésével eljáró fegyelmi tanács javaslatára, illetve a 33/J. § (5) bekezdés szerinti esetben az eredeti munkáltatói jogkör gyakorló javaslatára, a NAV elnöke jogosult. Ha a NAV elnöke szerint a javasolt fegyelmi büntetés nem indokolt, a (6) bekezdés szerinti eset kivételével az ügyet visszaküldi a felterjesztőnek az eljárás folytatására, vagy – újabb fegyelmi tanács felállítása nélkül – 30 napon belül maga dönt az ügyben.
+
+(6) Ha az (5) bekezdés szerinti esetben a felterjesztő a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Vám- és Pénzügyőri Tanszék tanszékvezetője vezetésével eljáró fegyelmi tanács, a NAV elnöke a 33/J. § (6) bekezdés d) pontjának megfelelően jár el.
 
 33/L. § (1) A főigazgató a Főigazgatóság felügyelete, irányítása alatt álló alsóbb fokú szervek állományába tartozó bármely kormánytisztviselő, pénzügyőr, ügykezelő fegyelmi ügyében magához vonhatja a fegyelmi jogkör gyakorlását, amennyiben az nem ütközik a 33/J. § (7) bekezdés, illetve a 33/K. § (1) bekezdés előírásaiba.
 
@@ -1593,6 +1647,8 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (8) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani. A visszatartott illetményt a visszatartás időpontjától számított, Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a méltatlanság nem állapítható meg. A kifizetést az erről szóló döntés közlését követő 15 napon belül kell teljesíteni.
 
+(8a) A 33/U. § (7) bekezdését azzal szemben is alkalmazni kell, aki az (5) bekezdés szerinti eljárásban állásból felfüggesztés hatálya alatt áll.
+
 (9) Amennyiben a méltatlanság nem állapítható meg, de a munkáltatói jogkör gyakorlója a fegyelmi eljárás lefolytatását indokoltnak tartja, a méltatlansági eljárás befejezését követő 15 napon belül fegyelmi eljárást indíthat.
 
 33/Q. § (1) A fegyelmi vétséget elkövető személyes meghallgatása alapján a fegyelmi jogkör gyakorlója – amennyiben a tényállás megítélése egyszerű és a kötelezettségszegést az érintett a meghallgatásakor elismeri – fegyelmi eljárás megindítása, illetve vizsgálóbiztos kijelölése nélkül (egyszerűsített eljárásban) megrovás fegyelmi büntetést is kiszabhat, illetve – a fegyelmi vétség megállapítása mellett – a fegyelmi büntetést mellőzheti is, ha a legenyhébb fegyelmi büntetés kiszabása is indokolatlan.
@@ -1611,9 +1667,11 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (3) Nem lehet képviselő, akit az ügyben tanúként vagy szakértőként hallgatnak meg, nem lehet jogi képviselő a NAV-nál alkalmazásban álló személy, nem lehet az (1) bekezdésben említett egyéb képviselő a fegyelmi eljárás alá vont felettese.
 
+(4) Ha az eljárás alá vont egyidejűleg több képviselővel jár el, az eljárás alá vontat a képviselők bármelyike képviselheti. Ha a képviselők nyilatkozatai vagy cselekményei egymástól eltérnek, ezt úgy kell elbírálni, mintha magának az eljárás alá vontnak a nyilatkozatai vagy cselekményei lennének eltérőek.
+
 ### A vizsgálat, a póteljárás, a tárgyalás nélkül alkalmazható fegyelmi büntetés
 
-33/T. § (1) A vizsgálat a fegyelmi eljárás első szakasza, amelynek lefolytatására a fegyelmi jogkör gyakorlója az eljárás megindításától számított 3 munkanapon belül írásban vizsgálóbiztost jelöl ki. A vizsgálóbiztos személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a vizsgálóbiztos pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
+33/T. § (1) A vizsgálat a fegyelmi eljárás első szakasza, amelynek lefolytatására a fegyelmi jogkör gyakorlója az eljárás megindításától számított 3 munkanapon belül írásban vizsgálóbiztost jelöl ki. A vizsgálóbiztos személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a vizsgálóbiztos nem vezetői munkakört betöltő pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
 
 (2) Vizsgálóbiztosként
 
@@ -1638,7 +1696,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 33/U. § (1) A fegyelmi jogkör gyakorlója a fegyelmi eljárás alá vont kormánytisztviselőt, pénzügyőrt, ügykezelőt
 
 - a) legfeljebb a fegyelmi határozat kihirdetéséig, illetve ha az eljárás alá vont és – ha a fegyelmi eljárás tárgyalási szakaszában képviselővel járt el – képviselője a tárgyaláson nem jelent meg, a fegyelmi határozat közléséig (16/G. §),
-- b) azokban az esetekben, amelyekben a törvény szerint nem a fegyelmi tanács hozza meg az érdemi döntést, legfeljebb a fegyelmi határozat közléséig az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását gátolná vagy a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja. A hivatalvesztés, a hivatásos szolgálati jogviszony megszüntetése, a lefokozás fegyelmi büntetéssel – az erről szóló határozat végrehajtásáig – a felfüggesztés együtt jár; erről a fegyelmi határozatban rendelkezni kell.
+- b) azokban az esetekben, amelyekben a törvény szerint nem a fegyelmi tanács hozza meg az érdemi döntést, legfeljebb a fegyelmi határozat közléséig az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását gátolná vagy a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja. A hivatalvesztés, a hivatásos szolgálati jogviszony megszüntetése, a lefokozás fegyelmi büntetéssel – az erről szóló határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig – a felfüggesztés együtt jár; erről a fegyelmi határozatban rendelkezni kell.
 
 (2) Haladéktalanul meg kell szüntetni a felfüggesztést, ha annak indoka már nem áll fenn.
 
@@ -1651,6 +1709,8 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 (6) A teljes illetményt vissza kell tartani a hivatalvesztést, a hivatásos szolgálati jogviszony megszüntetését, a lefokozást kimondó fegyelmi határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig.
 
 (7) Aki az állásából felfüggesztés hatálya alatt áll, a felfüggesztés napjától hatósági jogkörét, vezetői, szolgálati elöljárói/felettesi jogait nem gyakorolhatja, szolgálati igazolványát, emellett a pénzügyőr a szolgálati jelvényét és fegyverét beszolgáltatni köteles, továbbá a munkavégzési helyére, szolgálatteljesítési helyére csak a munkáltatói jogkör gyakorlójának előzetes engedélyével léphet be.
+
+(8) Ha az eljárás alá vont képviselővel, vagy jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, az (1) és a (6) bekezdés alkalmazásában a közlés időpontja tekintetében az eljárás alá vonttal, illetve képviselőjével, képviselőivel való közlés időpontjai közül a legkorábbi közlés időpontja az irányadó.
 
 33/V. § (1) A vizsgálóbiztos a kijelölésétől számított 15 napon belül köteles a vizsgálatot lefolytatni, a tényállást tisztázni.
 
@@ -1684,13 +1744,13 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (9) A fegyelmi eljárás során a tanú kérheti a személyi adatai zártan kezelését. E jogosultságáról már a meghallgatására vonatkozó értesítésben tájékoztatni kell a tanút.
 
-(9a) A NAV állományába nem tartozó tanú esetében a személyi adatok zárt kezelését a vizsgálóbiztos írásban elrendeli.
+(9a) A NAV állományába nem tartozó tanú kérésére a személyi adatok zárt kezelését a vizsgálóbiztos írásban elrendeli.
 
 (9b) A NAV állományába tartozó tanú esetében a vizsgálóbiztos erre irányuló indokolt kérelem esetén rendeli el a tanú személyi adatainak zártan kezelését, ha a tanú a kérelmében valószínűsíti, hogy őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. Ha a vizsgálóbiztos a kérelemnek nem ad helyt, a tanú a döntés közlését követő 3 munkanapon belül kifogást terjeszthet elő. A kifogás tárgyában a fegyelmi jogkör gyakorlója 3 munkanapon belül dönt.
 
 (9c) A (9a)–(9b) bekezdés szerinti döntés kizárólag a kérelmezővel közölhető. Amennyiben az eljárás során sor került a tanú személyi adatai zártan kezelésének elrendelésére, az eljárás alá vontat és képviselőjét a vizsgálóbiztos kizárólag arról a tényről értesíti, hogy az eljárásban részt vesz olyan tanú, akinek a személyi adatai zártan való kezelése került elrendelésre.
 
-(9d) A tanú személyi adatai zárt kezelésének elrendelésétől kezdve a fegyelmi eljárás alá vont és képviselője a tanú személyi adatait nem tartalmazó iratokba tekinthet be, illetve részükre csak a tanú személyi adatait nem tartalmazó másolat vagy kivonat adható.
+(9d) A tanú személyi adatai zárt kezelésének elrendelésétől kezdve a fegyelmi eljárás alá vont és képviselője, illetve a szakértő a tanú személyi adatait nem tartalmazó iratokba tekinthet be, illetve részükre csak a tanú személyi adatait nem tartalmazó másolat vagy kivonat adható.
 
 (10) A tanú meghallgatásán nem lehet jelen az eljárás alá vont és képviselője, továbbá az eljárás egyéb résztvevője, ha elrendelték a tanú személyi adatainak zárt kezelését.
 
@@ -1708,10 +1768,10 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (3) Amennyiben az eljárás alá vont a kötelezettségszegést a vizsgálat során elismerte és lemondott a tárgyalásról, továbbá a tényállás megítélése egyszerű, a fegyelmi jogkör gyakorlója a vizsgálóbiztos előterjesztésétől számított 8 napon belül meghozott határozattal, tárgyalás nélkül
 
-- a) a 33/G. § (3) bekezdés a)–h) pontjai, illetve a 33/G. § (4) bekezdés vagy a 33/G. § (5) bekezdés szerinti fegyelmi büntetést is kiszabhat, illetve
+- a) a 33/G. § (3) bekezdés a)–j) pontjai, illetve a 33/G. § (4) bekezdés vagy a 33/G. § (5) bekezdés szerinti fegyelmi büntetést is kiszabhat, illetve
 - b) a fegyelmi vétség megállapítása mellett a fegyelmi büntetés kiszabását mellőzheti, ha a legenyhébb fegyelmi büntetés is indokolatlan.
 
-(3a) A határozatot az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás során, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani.
+(3a) A határozatot az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás során, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani. Ha az eljárás alá vont jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.
 
 (4) A (3) bekezdés nem alkalmazható, ha a 33/J. § (5) bekezdés, 33/J. § (6) bekezdés d) pontja, illetve a 33/K. §-a alapján az adott fegyelmi büntetést a fegyelmi jogkör gyakorlójának vezetésével eljáró fegyelmi tanács sem szabhatná ki. Ilyen esetben a fegyelmi tanács tagjait ki kell jelölni és a tárgyalásra vonatkozó szabályokat alkalmazni kell.
 
@@ -1727,7 +1787,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (3) A fegyelmi tanács elnöke – a 33/Y. § (3) bekezdés szerinti esetet kivéve – a vizsgálóbiztos előterjesztésétől számított 3 munkanapon belül írásban kijelöli a tanács tagjait.
 
-(4) A fegyelmi tanács tagjainak személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a fegyelmi tanács tagja pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
+(4) A fegyelmi tanács tagjainak személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a fegyelmi tanács tagja nem vezetői munkakört betöltő pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
 
 (5) Nem vezetői munkakört betöltő eljárás alá vont esetén a fegyelmi tanács tagjainak kijelölése során a 33/T. § (2)–(4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
@@ -1760,13 +1820,11 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 34/A. § (1) A fegyelmi tanács – kivéve, ha a fegyelmi eljárás felfüggesztésre került – az első tárgyalástól számított legkésőbb 30 napon belül, zárt ülésen, szótöbbséggel határoz. Nem hoz érdemi döntést a fegyelmi tanács a zárt ülésén a 34/C. § (1) bekezdés szerinti esetben.
 
-(2) A fegyelmi büntetést különösen a fegyelmi vétség tárgyi súlyának, a fegyelemre gyakorolt hatásának, az elkövető vétkességének, a személyi körülményeinek, valamint a munkájában a fegyelmi vétség elkövetése előtt tanúsított magatartásának mérlegelésével kell kiszabni.
-
-(3) A 33/G. § (4) bekezdés, illetve a 33/G. § (5) bekezdés kivételével ugyanazon fegyelmi vétségért több fegyelmi büntetés nem szabható ki, illetve ha több fegyelemi vétséget egy eljárásban bírálnak el, csak egy fegyelmi büntetés szabható ki.
+(2)–(3)
 
 (4) A fegyelmi vétséget megállapító határozatot kell hozni, de nem kell a határozatban fegyelmi büntetést kiszabni, ha a körülményekre tekintettel a legenyhébb fegyelmi büntetés kiszabása is indokolatlan.
 
-(5) A fegyelmi tanács a döntését a tárgyaláson az eljárás alá vont, illetve képviselője előtt – rövid indokolással – kihirdeti. A fegyelmi tanács a kihirdetést követő 8 napon belül a döntést megindokolt határozatba foglalja. A határozatot és a tárgyalási jegyzőkönyvet – kivéve a zárt ülésen elhangzottakról szóló részt –, az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás tárgyalási szakaszában, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani.
+(5) A fegyelmi tanács a döntését a tárgyaláson az eljárás alá vont, illetve képviselője előtt – rövid indokolással – kihirdeti. A fegyelmi tanács a döntést a kihirdetést, vagy ha a kihirdetés az eljárás alá vont és képviselője távolléte miatt nem volt lehetséges, a döntés meghozatalát követő 8 napon belül megindokolt határozatba foglalja. A határozatot és a tárgyalási jegyzőkönyvet – kivéve a zárt ülésen elhangzottakról szóló részt – az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás tárgyalási szakaszában, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlése időpontjától kell számítani. Ha az eljárás alá vont jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.
 
 34/B. § (1) Meg kell szüntetni a fegyelmi eljárást, ha
 
@@ -1780,7 +1838,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (2) Az (1) bekezdés a) pontja szerinti esetben a teljes fegyelmi eljárás során a fegyelmi jogkör gyakorlója, az (1) bekezdés b)–g) pont szerinti esetekben a fegyelmi tanács eljárást megszüntető határozatot hoz.
 
-34/C. § (1) Ha a fegyelmi tanács zárt ülésen szótöbbséggel olyan fegyelmi büntetést tart indokoltnak, melynek kiszabására a törvény szerint nem jogosult, érdemi döntés helyett a hatáskörét meghaladó fegyelmi büntetésre vonatkozó, a 34/A. § (2)–(3) bekezdés figyelembevételével kialakított javaslat előterjesztéséről dönt.
+34/C. § (1) Ha a fegyelmi tanács zárt ülésen szótöbbséggel olyan fegyelmi büntetést tart indokoltnak, melynek kiszabására a törvény szerint nem jogosult, érdemi döntés helyett a hatáskörét meghaladó fegyelmi büntetésre vonatkozó, a 33/G. § (2a)–(2b) bekezdés figyelembevételével kialakított javaslat előterjesztéséről dönt.
 
 (2) A fegyelmi tanács a tárgyaláson az eljárás alá vont személyt, illetve képviselőjét – rövid indoklással – arról tájékoztatja, hogy mivel a hatáskörét meghaladó fegyelmi büntetést tart indokoltnak, ezért az ügy iratait döntéshozatalra a (3) bekezdés szerinti, hatáskörrel rendelkező vezetőnek (illetve a kijelölt miniszternek) küldi meg.
 
@@ -1788,9 +1846,9 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (4) A hatáskörrel rendelkező vezető a 33/J. § (5) bekezdésnek, illetve a 33/J. § (6) bekezdés d) pontnak, a 33/K. § (5) bekezdésnek megfelelően, a kijelölt miniszter a 33/K. § (3)–(4) bekezdésnek megfelelően jár el.
 
-(5) A kijelölt miniszter által hozott 33/K. § (4) bekezdés szerinti érdemi döntést a NAV elnöke, a jelen § (4) bekezdése szerinti egyéb esetben az érdemi döntést meghozó vezető kézbesíti az eljárás alá vont és a képviselője részére. A kézbesítés joghatályára a 34/A. § (5) bekezdés az irányadó. Az érdemi döntést tájékoztatásul meg kell küldeni az ügyben eljárt fegyelmi tanács vezetőjének is.
+(5) A kijelölt miniszter által hozott 33/K. § (4) bekezdés szerinti érdemi döntést a NAV elnöke, a jelen § (4) bekezdése szerinti egyéb esetben az érdemi döntést meghozó vezető kézbesíti az eljárás alá vont és a képviselője részére. A kézbesítés joghatályára a 34/A. § (5) bekezdés az irányadó. Az érdemi döntést tájékoztatásul meg kell küldeni az ügyben eljárt fegyelmi tanács vezetőjének, illetve ha a 33/J. § (5) bekezdés szerinti esetben a NAV elnöke hozta meg az érdemi döntést, úgy az eredeti munkáltatói jogkör gyakorlójának is.
 
-(6) Ha a kijelölt miniszter a 33/K. § (4) bekezdésnek megfelelően, illetve a NAV elnöke a 33/K. § (5) bekezdésének megfelelően az ügyet az eljárás folytatására visszaküldi a fegyelmi tanácsnak, a fegyelmi tanács 15 napon belül újabb tárgyalást tart, és a 34/A–34/B. § megfelelő alkalmazásával érdemi döntést hoz az ügyben, de a törvény szerint a hatáskörét meghaladó fegyelmi büntetést ez esetben sem szabhat ki.
+(6) Ha a kijelölt miniszter a 33/K. § (4) bekezdésének megfelelően, illetve a NAV elnöke a 33/K. § (5) bekezdésének megfelelően az ügyet az eljárás folytatására visszaküldi a fegyelmi tanácsnak, illetve a 33/J. § (5) bekezdés szerinti esetben az eredeti munkáltatói jogkör gyakorlójának, az eredeti munkáltatói jogkör gyakorlója 15 napon belül érdemi döntést hoz az ügyben, illetve a fegyelmi tanács 15 napon belül újabb tárgyalás keretében hoz érdemi döntést az ügyben, de az eredeti munkáltatói jogkör gyakorlója, illetve a fegyelmi tanács ez esetben sem szabhat ki a törvény szerint a hatáskörét meghaladó fegyelmi büntetést.
 
 ### A fegyelmi büntetés végrehajtása
 
@@ -1802,11 +1860,13 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (2) A fegyelmi határozat a jogerőre emelkedéséig – a (4)–(5) bekezdés kivételével – nem végrehajtható. Ha azonban a kormánytisztviselő, a pénzügyőr, az ügykezelő a határozat jogerőre emelkedése előtt a kormányzati szolgálati jogviszonyát, hivatásos szolgálati jogviszonyát megszünteti, a határozat azonnal végrehajthatóvá válik.
 
-(3) Ha a kormányzati szolgálati jogviszony, hivatásos szolgálati jogviszony a 33/G. § (3) bekezdés b)–h) pontjában, illetve 33/G. § (4) vagy (5) bekezdésben meghatározott jogerősen kiszabott fegyelmi büntetés végrehajtása előtt vagy annak végrehajtása közben megszűnik, a büntetést vagy annak hátralévő időtartamát államigazgatási szervnél, illetve fegyveres szervnél kell végrehajtani, feltéve, hogy a kormánytisztviselő, a pénzügyőr, az ügykezelő a büntetés végrehajthatóságától számított 3 éven belül ismételten kormányzati szolgálati jogviszonyt, illetve hivatásos szolgálati jogviszonyt létesít.
+(3) Ha a kormányzati szolgálati jogviszony, hivatásos szolgálati jogviszony a 33/G. § (3) bekezdés b)–j) pontjában, illetve 33/G. § (4) vagy (5) bekezdésben meghatározott jogerősen kiszabott fegyelmi büntetés végrehajtása előtt vagy annak végrehajtása közben megszűnik, a büntetést vagy annak hátralévő időtartamát államigazgatási szervnél, illetve fegyveres szervnél kell végrehajtani, feltéve, hogy a kormánytisztviselő, a pénzügyőr, az ügykezelő a büntetés végrehajthatóságától számított 3 éven belül ismételten kormányzati szolgálati jogviszonyt, illetve hivatásos szolgálati jogviszonyt létesít.
 
 (4) A hivatalvesztés, a hivatásos szolgálati jogviszony megszüntetése, illetve a lefokozás fegyelmi büntetést a fegyelmi határozatnak az eljárás alá vont személlyel, illetve ha képviselővel járt el, a képviselővel való szabályszerű közlést követő 15 napon belül végre kell hajtani.
 
-(5) A 33/N. § (3) bekezdés szerinti megtérítési kötelezettség, illetve a 33/U. § (5) bekezdés szerinti, a visszatartott összeg kifizetésére vonatkozó kötelezettség szempontjából a fegyelmi határozatot az eljárás alá vont személlyel, illetve ha képviselővel járt el, a képviselővel való szabályszerű közlés napjával kell jogerősnek tekinteni.
+(5) A 33/N. § (3) bekezdés szerinti, NAV-ot terhelő megtérítési kötelezettség, illetve a 33/U. § (5) bekezdés szerinti, a visszatartott összeg kifizetésére vonatkozó kötelezettség szempontjából a fegyelmi határozatot az eljárás alá vont személlyel, illetve ha képviselővel járt el, a képviselővel való szabályszerű közlés napjával kell jogerősnek tekinteni.
+
+(6) Ha az eljárás alá vont jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a (4)–(5) bekezdés alkalmazásában a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.
 
 ### Eljárás a kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal össze nem függő bűncselekmény esetén
 
@@ -1818,7 +1878,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (4) Amennyiben a rendelkezésre álló adatok az érintett méltatlanná válásának a megállapítását megalapozzák, a kormánytisztviselő, az ügykezelő Kttv. 63. § (2) bekezdés a) pontja szerinti méltatlanná válását, a pénzügyőr Hszt. 56. § (2) bekezdés e) pontja szerinti méltatlanná válását a büntetőeljárás jogerős befejezése előtt is meg lehet állapítani.
 
-(5) A (4) bekezdés szerinti esetben a 33/P. § (7)–(8) bekezdés alkalmazásának helye van.
+(5) A (4) bekezdés szerinti esetben a 33/P. § (7)–(8a) bekezdés alkalmazásának helye van.
 
 ### Kártérítési felelősség
 
@@ -1886,7 +1946,11 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (3) Amennyiben a kárt többen szándékosan okozták, egyetemleges kötelezésnek van helye.
 
-34/J. § (1) A kárért felelős a munkáltató vagyoni és nem vagyoni kárát köteles megtéríteni. Kártérítés címén a károkozó körülmény folytán a munkáltató vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a munkáltatót ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+34/J. § (1) Kártérítés címén a károkozó foglalkoztatott – a 34/F. § figyelembevételével – köteles megtéríteni
+
+- a) a munkáltató vagyonában beállott értékcsökkenést,
+- b) az elmaradt vagyoni előnyt, és
+- c) a munkáltatót ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
 
 (2) A kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
 
@@ -1912,7 +1976,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (4) Ha a munkáltatói jogkör gyakorlója a tényállás további tisztázását tartja indokoltnak, úgy kártérítési póteljárást rendel el, amiről a vizsgálóbiztost és a károkozót értesíti. A vizsgálóbiztos a kártérítési póteljárás során a vizsgálatra vonatkozó szabályok szerint jár el, és az annak befejezését követő 3 munkanapon belül a kártérítési póteljárás során keletkezett iratokat és a kiegészítő jelentését köteles megküldeni a munkáltatói jogkör gyakorlójának és a károkozónak. Kártérítési póteljárás esetén a határozat meghozatalára nyitva álló határidő 30 nappal meghosszabbodik.
 
-(5) A leltárhiányért fennálló felelősség megállapítására a (2) bekezdésben foglaltak azzal az eltéréssel irányadók, hogy a felelősséget a leltárfelvétel befejezését követő 60 napon belül el kell bírálni. Büntetőeljárás esetén e határidő a nyomozóhatóság, illetve a bíróság jogerős határozatáról való, NAV általi tudomásszerzést követő nappal kezdődik. A határidő eltelte után a leltárhiányért a 34/H. § (2) bekezdés szerinti okirat alapján felelőst kártérítésre nem lehet kötelezni.
+(5) A leltárhiányért fennálló felelősség megállapítására a (2)–(4) bekezdésben foglaltak azzal az eltéréssel irányadók, hogy a felelősséget a leltárfelvétel befejezését követő 60 napon belül el kell bírálni. Büntetőeljárás esetén e határidő a nyomozóhatóság, illetve a bíróság jogerős határozatáról való, NAV általi tudomásszerzést követő nappal kezdődik. A határidő eltelte után a leltárhiányért a 34/H. § (2) bekezdés szerinti okirat alapján felelőst kártérítésre nem lehet kötelezni.
 
 (6) A (2)–(5) bekezdéstől eltérően, ha a foglalkoztatott kormányzati szolgálati jogviszonya, hivatásos szolgálati jogviszonya, munkaviszonya megszűnik vagy megszüntetésre kerül, a munkáltató a kártérítési felelősség megállapítása érdekében közvetlenül bírósághoz fordulhat. A leltárhiányért fennálló felelősség megállapítása érdekében ilyenkor az (5) bekezdésben meghatározott határidőn belül lehet bírósághoz fordulni.
 
@@ -1944,7 +2008,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (8) Amennyiben a foglalkoztatott az esedékes részletet 15 napot meghaladóan sem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben, a nem teljesített részlet esedékességétől számított, Ptk. szerinti kamattal növelten esedékessé válik, illetve a munkáltató a követelését a 28/D. § szerinti levonás útján érvényesítheti. Ugyanígy kell eljárni, ha a foglalkoztatott a fizetési halasztásra engedélyezett határidőt követően 15 napot meghaladóan sem teljesít. Erre a határozat rendelkező részében fel kell hívni a foglalkozatott figyelmét.
 
-34/M. § A foglalkoztatott kártérítési felelősségének megállapítására, illetve – a 34/L. §-tól eltérően – a kártérítés alóli mentesítésre, továbbá fizetési könnyítés engedélyezésére egymillió forintot meghaladó kár esetén a NAV elnöke jogosult. Egyebekben a 34/L. § rendelkezései az irányadók.
+34/M. § A foglalkoztatott kártérítési felelősségének megállapítására, illetve – a 34/L. §-tól eltérően – a kártérítés alóli mentesítésre, továbbá fizetési könnyítés engedélyezésére egymillió forintot meghaladó kár esetén a NAV elnöke jogosult. Egyebekben a 34/F–34/L. § rendelkezései az irányadók.
 
 ### A munkáltató kártérítési felelőssége
 
@@ -1962,7 +2026,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 - a) azt a kárt, amellyel kapcsolatban a munkáltató bizonyítja, hogy bekövetkezése a károkozás idején nem volt előre látható,
 - b) a kárnak azt a részét, amelyet a károsult vétkes magatartása idézett elő, vagy amely abból származott, hogy a károsult a kárenyhítési kötelezettségének nem tett eleget.
 
-(5) A foglalkoztatottnak kell bizonyítania, hogy a károkozás a kormányzati szolgálati jogviszonyával, hivatásos szolgálati jogviszonyával, munkaviszonyával okozati összefüggésben következett be.
+(5) A foglalkoztatottnak kell bizonyítania a kár bekövetkeztét és mértékét, valamint azt, hogy a károkozás a kormányzati szolgálati jogviszonyával, hivatásos szolgálati jogviszonyával, munkaviszonyával okozati összefüggésben következett be.
 
 (6) A kár megtérítésére a 34/J. § (1)–(2) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.
 
@@ -1976,9 +2040,9 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (2) A kormányzati szolgálati jogviszonyon, hivatásos szolgálati jogviszonyon, munkaviszonyon kívül elmaradt jövedelemként a sérelem folytán elmaradt egyéb rendszeres, jogszerűen megszerzett jövedelmet kell megtéríteni.
 
-(3) Meg kell téríteni a dologi kárt, továbbá azt a kárt is, amelyet a foglalkoztatott a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el, valamint a foglalkoztatott nem vagyoni kárát, továbbá a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit.
+(3) Meg kell téríteni a dologi kárt, továbbá azt a kárt is, amelyet a foglalkoztatott a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el, továbbá a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit.
 
-(4) Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén kapott összeget.
+(4) Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén juttatható összeget.
 
 (5) A természetbeni juttatások értékét, valamint a dologi kár összegét a kártérítés megállapításakor érvényes fogyasztói ár alapján kell meghatározni.
 
@@ -2021,6 +2085,8 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (3) Munkáltatók egyetemleges felelőssége esetén a munkáltatók haladéktalanul tájékoztatják egymást a károkozásról, annak mértékéről, körülményeiről és a kártérítési igénnyel kapcsolatos álláspontjukról.
 
+(4) A foglalkoztatott írásban bejelentett sérelemdíj iránti igényére a munkáltató 15 napon belül – indokai közlése mellett – írásban nyilatkozik.
+
 34/U. § (1) Az elévülés (16/K. §) szempontjából önállónak kell tekinteni
 
 - a) az illetmény és a táppénz,
@@ -2051,9 +2117,9 @@ a munkáltató kártérítési felelősségének közös szabályai
 
 ### A bírósági eljárás
 
-34/W. § (1) A kormánytisztviselő, az ügykezelő a kormányzati szolgálati jogviszonyból származó igényének érvényesítése érdekében, ha e törvény eltérően nem rendelkezik – a (4) bekezdés a)–i) pontjaiban és (6) bekezdésben meghatározott esetek kivételével az igény érvényesítésére vonatkozó elévülési időn belül – közvetlenül bírósághoz fordulhat.
+34/W. § (1) A kormánytisztviselő, az ügykezelő a kormányzati szolgálati jogviszonyból származó igényének érvényesítése érdekében, ha e törvény eltérően nem rendelkezik – a (4) bekezdés a)–j) pontjaiban és (6) bekezdésben meghatározott esetek kivételével az igény érvényesítésére vonatkozó elévülési időn belül – közvetlenül bírósághoz fordulhat.
 
-(2) A pénzügyőr a hivatásos szolgálati jogviszonyából származó igényének érvényesítése érdekében a (4) bekezdés a)–i) pontjaiban, az (5) és a (6) bekezdésben meghatározott esetekben közvetlenül, a (4) bekezdés j)–k) pontjaiban meghatározott esetekben az ott meghatározott döntést követően bírósághoz fordulhat.
+(2) A pénzügyőr a hivatásos szolgálati jogviszonyából származó igényének érvényesítése érdekében a (4) bekezdés a)–j) pontjaiban, az (5) és a (6) bekezdésben meghatározott esetekben közvetlenül, a (4) bekezdés k)–l) pontjaiban meghatározott esetekben az ott meghatározott döntést követően bírósághoz fordulhat.
 
 (3) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő, a pénzügyőr, az ügykezelő bírósághoz akkor fordulhat, ha e törvény vagy a Kttv., illetve a Hszt. megengedi.
 
@@ -2068,25 +2134,25 @@ a munkáltató kártérítési felelősségének közös szabályai
 - g) a kártérítési ügyben hozott határozattal;
 - h) a kártérítési felelősséget megállapító határozattal vagy önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel;
 - i) a 33/P. § (7) bekezdésén és a 34/E. §-on alapuló állásból való felfüggesztéssel kapcsolatos ügyekben, továbbá
-- j) ha a pénzügyőr szolgálati panaszát elutasították;
-- k) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter hozta. A kijelölt miniszter fegyelmi ügyben hozott határozata az f) pont alapján támadható meg a bíróságnál.
+- j) a sérelemdíj megfizetése ügyében hozott határozattal kapcsolatos ügyekben, továbbá
+- k) ha a pénzügyőr szolgálati panaszát elutasították;
+- l) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter hozta. A kijelölt miniszter fegyelmi ügyben hozott határozata az f) pont alapján támadható meg a bíróságnál.
 
-(5) A munkáltatói kártérítési felelősség tárgyában a pénzügyőr kártérítési igényére adott munkáltatói nyilatkozat és az azon alapuló intézkedés ellen, illetve a nyilatkozat elmulasztása esetén a kártérítési igény érvényesítése érdekében a pénzügyőr az igény érvényesítésére vonatkozó elévülési időn belül közvetlenül a bírósághoz fordulhat.
+(5) A munkáltatói kártérítési felelősség tárgyában a pénzügyőr kártérítési igényére adott, illetve a pénzügyőr sérelemdíj igényére adott munkáltatói nyilatkozat és az azon alapuló intézkedés ellen, továbbá a nyilatkozat elmulasztása esetén a kártérítési igény, illetve a sérelemdíj érvényesítése érdekében a pénzügyőr az igény érvényesítésére vonatkozó elévülési időn belül közvetlenül a bírósághoz fordulhat.
 
 (6) Megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától [16/I. § (6) bekezdés] számított 30 napon belül lehet előterjeszteni.
 
 (7) A munkavállaló a határozat közlésétől számított 30 napon belül fordulhat keresettel a bírósághoz
 
 - a) a kártérítési ügyben hozott határozattal, illetve
-- b) a kártérítési felelősséget megállapító határozattal vagy önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel
-
-szemben.
+- b) a kártérítési felelősséget megállapító határozattal vagy önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel szemben
+- c) a sérelemdíj megfizetése ügyében hozott határozattal kapcsolatos ügyben.
 
 (8) A kormánytisztviselőnek, a pénzügyőrnek, az ügykezelőnek, a munkavállalónak a pert akkor is a munkáltató ellen kell megindítania, ha a keresettel megtámadott döntést nem a munkáltatói jogkör gyakorlója hozta.
 
 (9) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
 
-(10) A (4) bekezdés b)–g) és j)–k) pontjaiban foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre, ide nem értve
+(10) A (4) bekezdés b)–g) és j)–l) pontjában foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre, ide nem értve
 
 - a) a 34/D. § (2) bekezdés utolsó mondata, és a (4)–(5) bekezdése szerinti esetet,
 - b) a (4) bekezdés b) pontja szerinti esetet akkor,
@@ -2094,7 +2160,7 @@ szemben.
   - bb) ha a kinevezés, illetve a hivatásos szolgálati jogviszony egyoldalú módosítása a 18/B. § (3) bekezdésén vagy a 19/D. § (1) bekezdésén alapul,
 - c) a (4) bekezdés d) pontja szerinti esetben a megtámadott teljesítményértékelésen alapuló, 25. § szerinti eltérítést; ha a teljesítményértékelés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy az eltérítésre nem kerülhetett volna sor, a különbözetet az eltérítés időpontjától számítva, a Ptk. szerinti kamattal növelt összegben 15 napon belül ki kell fizetni.
 
-(11) A (7) bekezdés a) pontjában foglalt esetben a sérelmezett határozat a bíróság jogerős döntéséig nem hajtható végre.
+(11) A (7) bekezdés a) és c) pontjában foglalt esetben a sérelmezett határozat a bíróság jogerős döntéséig nem hajtható végre.
 
 (12) Az érdekképviseleti szerv, valamint a munkáltató az e törvényből, vagy a Kttv.-ből, illetve a Hszt.-ből származó igényét – a munkáltató esetében kivéve, ha e törvény, vagy a Kttv. illetve a Hszt. eltérően rendelkezik – bíróság előtt érvényesítheti.
 
@@ -2174,8 +2240,11 @@ szemben.
 - f) a tanulmányi célú mentesítésre,
 - g) a fegyelmi és a kártérítési felelősségre,
 - h) a kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal össze nem függő bűncselekménnyel kapcsolatos eljárás keretében való állásból való felfüggesztésre
+- i) a jogviszony jogellenes megszüntetésére
 
 vonatkozó rendelkezések alkalmazásában.
+
+(9) A (8) bekezdés alkalmazásában rendszeres pótlék alatt a vezetői pótlékot, továbbá amennyiben megállapításának feltételei egyébként fennállnak, az idegennyelv-tudási pótlékot és a veszélyességi pótlékot kell érteni.
 
 ### III. Fejezet — A NEMZETI ADÓ- ÉS VÁMHIVATAL HIVATÁSOS ÁLLOMÁNYÚ TAGJÁNAK INTÉZKEDÉSI
 
@@ -2185,40 +2254,229 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### Általános rendelkezések
 
-35. § A NAV-nak a határátkelőhelyeken végzett feladatait ellátó, a bűnüldözési, bűnmegelőzési, felderítési és nyomozási, a szabálysértési, a vám- és jövedéki ellenőrzési, mélységi ellenőrzési, az őrzésvédelmi, a hatósági, a végrehajtási eljárási feladatai ellátását végző, valamint mindezen tevékenységek irányítását, felügyeletét és ellenőrzését ellátó pénzügyőrök rendvédelmi tevékenységet folytatnak, egyenruha és szolgálati fegyver viselésére jogosultak.
+35. § (1) A NAV-nak a határátkelőhelyeken végzett feladatait ellátó, a bűnüldözési, bűnmegelőzési, felderítési és nyomozási, a szabálysértési, a vám- és jövedéki ellenőrzési, mélységi ellenőrzési, az őrzésvédelmi, a hatósági, a végrehajtási eljárási feladatai ellátását végző, valamint mindezen tevékenységek irányítását, felügyeletét és ellenőrzését ellátó pénzügyőrök rendvédelmi tevékenységet folytatnak, egyenruha és szolgálati fegyver viselésére jogosultak.
 
-35/A. § (1) A pénzügyőrt intézkedése, kényszerítő eszközök alkalmazása során az egyenruhája és az azonosító jelvénye vagy a szolgálati igazolványa igazolja. Ha a pénzügyőr nem visel egyenruhát, az intézkedés, kényszerítő eszköz alkalmazása megkezdése előtt köteles pénzügyőri mivoltát szóban közölni, és – ha az intézkedés eredményét nem veszélyezteti – magát a szolgálati igazolvánnyal igazolni.
+(2) A pénzügyőr az (1) bekezdés szerinti feladatának (e fejezet alkalmazásában a továbbiakban: szolgálati feladat) teljesítése során – a vámhatóság, illetve a NAV nyomozó hatóságának feladatait meghatározó jogszabályokban meghatározott intézkedéseken, eljárásokon túl – jogosult a 36–37/B. §-ban meghatározott pénzügyőri intézkedéseket (e fejezet alkalmazásában a továbbiakban: intézkedés) foganatosítani, illetve kényszerítő eszközöket alkalmazni.
 
-(2) Az e fejezet szerinti intézkedések, illetve kényszerítő eszközök alkalmazását követően a pénzügyőr köteles az intézkedés alá vont személyt tájékoztatni az e törvény szerinti panasz lehetőségéről.
+(3) Az e fejezet szerinti intézkedés célja a pénzügyőr szolgálati feladatai végrehajtásának elősegítése. Az e fejezet szerinti intézkedés a szolgálati feladat ellátása során és – a törvény eltérő rendelkezésének hiányában – azzal összefüggésben gyakorolható.
 
-(3) A pénzügyőr intézkedéseinek az érintett személy köteles magát alávetni, és a pénzügyőr utasításának engedelmeskedni. Az intézkedés során annak jogszerűsége nem vonható kétségbe, kivéve, ha a jogszerűtlenség mérlegelés nélkül, kétséget kizáróan megállapítható.
+(4) A kényszerítő eszközök alkalmazásának célja az e fejezet szerinti jogszerű intézkedés biztosítása.
 
-### Intézkedések
+35/A. § (1) A pénzügyőrt az intézkedés során
 
-36. § (1) A pénzügyőr a 35. §-ban meghatározott feladatának teljesítése során jogosult:
+- a) az egyenruhája és az azon elhelyezett azonosító száma, vagy
+- b) ha nem visel egyenruhát, szolgálati igazolványa és szolgálati jelvénye
 
-- a) a szolgálati feladatok végrehajtása érdekében személyeket Magyarország területén belül igazoltatni,
-- b) ellenőrizni a szállítás alatt levő áruk, jövedéki termékek biztosítására alkalmazott zárakat és jeleket, valamint a közösségi és a harmadik országból érkező áruk vámeljárás alá vonásának megtörténtét; ellenőrizni a dohánytermékek kiskereskedelmét; megvizsgálhatja és igazoltathatja a szállítás alatt lévő jövedéki termékek, adótárgyak, áruk származását, továbbá megvizsgálhatja, hogy az ellenőrzés alá vont áru tulajdonosának van-e az állami adó- és vámhatóság felé meg nem fizetett, végrehajtható adó- vagy vámtartozása, illetve végrehajtás alá vont adó módjára behajtandó köztartozása, e célból közutakon személyeket, járműveket – a közúti közlekedés rendjéről szóló jogszabályban meghatározott jelzések alkalmazásával – megállíthat, a vasúti és autóbusz-pályaudvarokon, hajóállomásokon, repülőtereken tartózkodó, illetve vasúton, hajón, személyszállító közforgalmú gépjárművön szállított utasok csomagjait a szállítóeszközön tartózkodás ideje alatt, menet közben vagy az állomásokon megvizsgálhatja,
-- c) a vámterületre jogosulatlanul bevitt vagy a vámfelügyelet alól elvont áru, illetve adózatlan jövedéki termék, engedély nélkül tárolt fémkereskedelmi engedélyköteles anyag, engedély nélkül folytatott dohánytermék-kiskereskedelmi tevékenység felderítése érdekében – a NAV illetékes vámszerve vezetőjének, illetve eljáró kirendeltsége operatív vezetését ellátó vezetője hatósági döntése alapján – belépni és ellenőrzést folytatni olyan helyiségben, ahol azonosított és ellenőrzött forrásból származó adatok alapján valószínűsíthetően a vámjogszabályok megsértésével árut, illetve a jövedéki jogszabályok előírásait megszegve jövedéki terméket tartanak, tárolnak, illetve állítanak elő, vagy fémkereskedelmi engedélyköteles anyagot engedély nélkül tárolnak, illetve engedély nélkül dohánytermék-kiskereskedelmi tevékenységet folytatnak. A helyiségbe való belépést és az ott folytatott ellenőrzést két hatósági tanú jelenlétében, az ellenőrzött személy kíméletével, lehetőleg nappal kell végrehajtani. Az intézkedésről jegyzőkönyvet kell felvenni, amelyben rögzíteni kell az intézkedés során megállapított tényeket, illetve a hatósági tanúk azonosításához szükséges adatokat,
-- d) a vám- és jövedéki jogszabályok és a NAV vámszerveinek feladatait meghatározó egyéb jogszabályok megsértésének észlelése, gyanúja esetén a jogsértés megszüntetése, mértékének felderítése és a bizonyítékok biztosítása érdekében a szükséges intézkedéseket megtenni; e célból – az adott eljárásra vonatkozó jogszabályoknak megfelelően – a jogszabálysértés elkövetésével érintett személyt és tanúkat meghallgathatja, a bizonyítékul szolgáló vagy elkobzás alá eső dolgokat visszatarthatja, illetve lefoglalhatja. Ez a jogosultság és kötelezettség a szolgálaton kívül levő pénzügyőrre is vonatkozik akkor, ha az esetnél szolgálatban levő pénzügyőr nincs jelen, vagy ha a szolgálatban levő pénzügyőrt az intézkedésben segíteni kell, feltéve, hogy az intézkedés szükségességének időpontjában a szolgálaton kívül lévő pénzügyőr intézkedésre alkalmas állapotban van,
-- e) a vám- és jövedéki jogszabályok és a NAV vámszerveinek feladatát meghatározó egyéb jogszabályok megsértésének észlelése, gyanúja esetén elrendelni az ellenőrzés tárgyát képező áru hivatalos helyre történő azonnali beszállítását, amennyiben az ellenőrzés biztonságos és eredményes lefolytatásához az ellenőrzés helyszínén a feltételek nem adottak, illetve az ellenőrzés végrehajtása mások személyi és/vagy vagyonbiztonságát veszélyezteti. Az áru birtokosa köteles az elrendelésnek eleget tenni, és amennyiben vele szemben az eljárás során jogsértés elkövetésének gyanúja nem merül fel, kérheti igazolt költségeinek megtérítését,
-- f) bűncselekmény gyanúja esetén halaszthatatlan nyomozási cselekményként lefoglalás foganatosítására és a hatáskörrel és illetékességgel rendelkező nyomozó hatóság felé a szükséges intézkedések megtételére; amennyiben az intézkedő pénzügyőr pénzügyi nyomozó, a rá vonatkozó szabályok szerint jár el. A NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény gyanúja esetén ez a jogosultság és kötelezettség a szolgálaton kívül levő pénzügyőrre is vonatkozik akkor, ha az esetnél szolgálatban levő pénzügyőr nincs jelen, vagy ha a szolgálatban levő pénzügyőrt az intézkedésben segíteni kell, feltéve, hogy az intézkedés szükségességének időpontjában a szolgálaton kívül lévő pénzügyőr intézkedésre alkalmas állapotban van,
-- g) bűncselekmény vagy szabálysértés elkövetésén tetten ért, illetve annak elkövetésével megalapozottan gyanúsítható személyt, valamint azt a személyt, akinek őrizetbe vételét rendelték el, további intézkedés megtétele, illetve eljárási cselekmény foganatosítása céljából elfogni és a hatáskörrel és illetékességgel rendelkező hatósághoz előállítani. Az előállítás csak a céljának eléréséhez szükséges ideig tarthat, de a nyolc órát nem haladhatja meg. Ezt az időtartamot a NAV előállítást foganatosító vámszervének, illetve nyomozó szervének vezetője, illetve az előállítást foganatosító kirendeltség operatív vezetését ellátó vezető egy alkalommal, négy órával meghosszabbíthatja. Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani,
-- h) ön- és közveszély okozására alkalmas tárgy vagy tárgyi bizonyíték előtalálása érdekében – előzetes figyelmeztetés után – átvizsgálni azon személy ruházatát, akivel szemben személyi szabadságot korlátozó intézkedést foganatosítanak; az átvizsgálást – halaszthatatlan eset kivételével – az intézkedés alá vonttal azonos nemű személy végezheti; az intézkedés nem történhet szeméremsértő módon,
-- i) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözött személyek nyilvántartásában szereplő, a körözés alapján előállítandó személyt, az intézkedés helye szerint illetékes rendőrkapitányságon előállítani,
-- j) a végrehajtás alá vonható ingó vagyontárgyak lefoglalására.
+igazolja.
 
-(1a) Az (1) bekezdés i) pontja szerint előállított személy átszállításáról, az intézkedést elrendelő vagy az intézkedésben megjelölt hatóság elé állításáról az előállítást elrendelő hatóság gondoskodik. Az előállítás csak a céljának eléréséhez szükséges ideig tarthat, de a nyolc órát nem haladhatja meg. Ezt az időtartamot indokolt esetben a NAV előállítást foganatosító szervének vezetője egy alkalommal, négy órával meghosszabbíthatja. Az előállítás időtartamát a pénzügyőr intézkedésének kezdetétől kell számítani. Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani.
+(2) A pénzügyőr az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles az intézkedés tényét és célját szóban közölni. Az e fejezetben foglalt intézkedések, illetve kényszerítő eszközök alkalmazását követően a pénzügyőr köteles az intézkedés alá vont személyt tájékoztatni az e törvény szerinti panasz lehetőségéről és előterjesztésére nyitva álló határidőről, továbbá kérésre köteles a nevét, rendfokozatát és azonosító számát közölni, illetve a szolgálati igazolványát és szolgálati jelvényét bemutatni.
 
-(2) Amennyiben gyanú merül fel arra, hogy az ellenőrzés alá vont személy testében, testüregében kábítószert vagy kábítószernek minősülő anyagot szállít, a pénzügyőr jogosult az ilyen személy beleegyezésével vizeletvétel és orvosi vizsgálat elrendelésére. A beleegyezés megtagadása esetén a NAV illetékes vámszervének vezetője, illetve eljáró kirendeltsége operatív vezetését ellátó vezetője felhatalmazó kérelmet terjeszt elő az illetékes ügyészséghez. Ilyen esetben a vizeletvétel és az orvosi vizsgálat csak az ügyész felhatalmazásával rendelhető el. A feltartóztatás és az orvosi vizsgálat időtartama a nyolc órát nem haladhatja meg.
+(3) Ha a pénzügyőr nem visel egyenruhát, az intézkedés megkezdése előtt köteles pénzügyőri mivoltát szóban közölni, és – ha az intézkedés eredményét nem veszélyezteti – magát a szolgálati igazolvánnyal és a szolgálati jelvénnyel igazolni. Ha a pénzügyőr szolgálati igazolványának és szolgálati jelvényének felmutatása az intézkedés megkezdése előtt veszélyeztetné az intézkedés eredményességét, úgy azt az intézkedés befejezésekor köteles felmutatni. Egyebekben a (2) bekezdésben foglaltak irányadók.
 
-(3) A 36. § (1) bekezdés h) pontban meghatározott intézkedés alkalmazása miatt a 39. § (5)–(6) bekezdés szerinti panasznak van helye. A panasz előterjesztésére az jogosult, akinek az intézkedés jogát vagy jogos érdekét sértette.
+35/B. § (1) A pénzügyőr köteles a törvény rendelkezésének megfelelően, részrehajlás nélkül intézkedni.
 
-(4) A 36. § (2) bekezdésben meghatározott intézkedés alkalmazása ellen csak amiatt van helye a 39. § (5)–(6) bekezdés szerinti panasznak, ha az érintett beleegyezése megtagadása ellenére ügyészi felhatalmazás nélkül rendelték el a vizeletvételt és az orvosi vizsgálatot, illetve akkor, ha a feltartóztatás és az orvosi vizsgálat időtartama a nyolc órát meghaladta.
+(2) Az intézkedés nem okozhat olyan hátrányt, amely nyilvánvalóan nem áll arányban az intézkedés törvényes céljával.
 
-(5) A 39. § (5)–(6) bekezdés szerinti panasznak nincs halasztó hatálya.
+(3) Több lehetséges és alkalmas intézkedés, illetve kényszerítő eszköz közül azt kell választani, amely az eredményesség biztosítása mellett az intézkedéssel érintettre a legkisebb korlátozással, sérüléssel vagy károkozással jár.
 
-37. § A NAV a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény, valamint a vonatkozó nemzetközi szerződések és az Európai Unió jogi aktusai alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel.
+(4) Ha a pénzügyőrt az intézkedés megtételében, kényszerítő eszköz alkalmazásában tárgy, élő állat akadályozza, azt eltávolíthatja, vagy az akadályt más módon elháríthatja; az ezzel okozott kárért a NAV-nak az intézkedés alapjául szolgáló cselekményben vétlen károsultat kártalanítania kell.
+
+35/C. § (1) A jogszabályi előírások végrehajtását szolgáló intézkedésnek – ha törvény vagy nemzetközi megállapodás másként nem rendelkezik – mindenki köteles magát alávetni, és a pénzügyőr utasításának engedelmeskedni. Az intézkedés során annak jogszerűsége nem vonható kétségbe, kivéve, ha a jogszerűtlenség mérlegelés nélkül, kétséget kizáróan megállapítható.
+
+(2) A pénzügyőr jogszerű intézkedésének való ellenszegülés esetén az e törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazhatók.
+
+35/D. § (1) A pénzügyőr kényszerítő eszközt csak a törvényben meghatározott feltételek fennállása esetén, az arányosság elvének figyelemben tartásával alkalmazhat úgy, hogy az nem okozhat aránytalan sérelmet az intézkedés alá vontnak. Nincs helye a kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört, és az intézkedés eredményessége enélkül is biztosítható.
+
+(2) A NAV-nál alkalmazható kényszerítő eszköz rendszeresítésének szabályait, továbbá a NAV-nál rendszeresíthető kényszerítő eszközök típusát, fajtáját a kijelölt miniszter – a rendészetért felelős miniszterrel egyetértésben – rendeletben állapítja meg. A NAV-nál csak olyan kényszerítő eszköz rendszeresíthető, amelynek szabályszerű használata a törvényes intézkedés céljának elérésére alkalmas, megfelel a vonatkozó élet-, egészség- és balesetvédelmi előírásoknak.
+
+35/E. § (1) Az intézkedés során és a kényszerítő eszköz alkalmazása esetén lehetőleg kerülni kell a sérülés okozását, az emberi élet kioltását. Az intézkedés során, illetve kényszerítő eszköz alkalmazása folytán megsérült személy részére – amint ez lehetséges – segítséget kell nyújtani, szükség esetén a pénzügyőr gondoskodik arról, hogy a sérültet orvos elláthassa, kórházi elhelyezése esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló személy erről értesüljön.
+
+(2) A pénzügyőr nem alkalmazhat kínzást, kényszervallatást, kegyetlen, embertelen vagy megalázó bánásmódot, az erre vonatkozó utasítást köteles megtagadni. A pénzügyőr az ilyen magatartás tanúsítójával szemben, annak megakadályozása érdekében, a munkakörére, a rendfokozatára, a személyére tekintet nélkül köteles fellépni.
+
+35/F. § (1) Akinek az e fejezetben – a 36/J. §, 36/M. §, a 37/A–37/B. § kivételével – meghatározott intézkedés vagy kényszerítő eszköz alkalmazása (jelen § alkalmazásában az intézkedés és a kényszerítő eszköz a továbbiakban együtt: intézkedés) jogát vagy jogos érdekét sértette – a 36/C. § (3) bekezdés, a 36/F. § (3) bekezdés, a 36/G. § (3) bekezdés és a 36/L. § (4) bekezdés szerinti eltéréssel és a 36/N. § (4) bekezdés szerinti korlátozással –, panasszal fordulhat a NAV intézkedést foganatosító vámszervéhez, illetve nyomozó szervéhez. A panasznak nincs halasztó hatálya.
+
+(2) Az intézkedést foganatosító szerv vezetője a panaszt közigazgatási hatósági eljárásban bírálja el. Az eljárás során a jelen §-ban nem szabályozott kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+(3) A panaszt az intézkedést követő 8 napon belül az intézkedést foganatosító vámszervnél, illetve nyomozó szervnél lehet előterjeszteni.
+
+(4) A panaszt a beérkezéstől számított 15 napon belül az intézkedést foganatosító vámszerv vezetője, illetve nyomozó szerv vezetője indokolással ellátott határozattal bírálja el, amely ellen a közléstől számított 8 napon belül a határozatot hozó vámszervnél, illetve nyomozó szervnél benyújtandó, de az elbírálásra jogosult felettes szervhez címzett fellebbezéssel lehet élni.
+
+(5) A fellebbezést az ügy összes iratával a fellebbezési határidő leteltétől számított 8 napon belül kell felterjeszteni, kivéve, ha a panaszt elbíráló határozatot hozó vámszerv, illetve nyomozó szerv a határozatát visszavonja, vagy a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
+
+(6) A felettes szerv a fellebbezés beérkezésétől számított 15 napon belül, indokolással ellátott határozatában az elsőfokú határozatot helybenhagyja, megváltoztatja vagy megsemmisíti. Ha az érdemi határozat meghozatalához nincs elég adat, vagy a tényállás további tisztázása szükséges, a felettes szerv maga intézkedik a tényállás kiegészítése iránt, vagy a határozat megsemmisítése mellett az elsőfokú határozatot hozó vámszervet, illetve nyomozó szervet új eljárásra utasíthatja.
+
+(7) A felettes szerv határozatát írásban, a panaszt elbíráló határozatot hozó vámszerv, illetve nyomozó szerv útján kell közölni a fellebbezővel.
+
+(8) A felettes szerv határozata közigazgatási határozat, amelynek bírósági felülvizsgálatát – a közigazgatási határozatok bírósági felülvizsgálatára vonatkozó szabályok szerint – kérheti az, aki az (1) bekezdés szerint panasz előterjesztésére jogosult.
+
+35/G. § E fejezet alkalmazásában magánlakásnak a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület minősül.
+
+### Felvilágosításkérés
+
+36. § A pénzügyőr a szolgálati feladatának ellátása során bárkihez kérdést intézhet, felvilágosítást kérhet, ha alaposan feltehető, hogy a megkérdezett olyan közlést tehet, amely a szolgálati feladatok teljesítéséhez szükséges. A felvilágosítás kérésének idejére a kérdezett személy feltartóztatható. Akitől a pénzügyőr felvilágosítást kér – ha jogszabály másként nem rendelkezik – az általa ismert tényekkel, adatokkal kapcsolatos válaszadást nem tagadhatja meg.
+
+### Igazoltatás
+
+36/A. § (1) A pénzügyőr igazoltathatja azt, akinek a személyazonosságát a szolgálati feladatok végrehajtása érdekében kell megállapítani. Az igazoltatás során a pénzügyőr
+
+- a) az igazoltatott személy személyazonosító adatainak igazolására,
+- b) az igazoltatott személyt lakcímének, tartózkodási helyének – az igazoltatott választása szerint – a lakcímet igazoló hatósági igazolvánnyal vagy más alkalmas dokumentummal történő igazolására, vagy a lakcímre, tartózkodási helyre vonatkozó nyilatkozattételre
+
+kérheti fel.
+
+(2) Az igazoltatott köteles a személyazonosító adatait hitelt érdemlően igazolni. A személyazonosságot – a személyazonosító igazolványon túl – minden olyan hatósági igazolvány igazolja, amely tartalmazza a személyazonosításhoz szükséges adatokat. Az igazoltatott kizárólag ezen okmányok egyikének bemutatására kötelezhető. A pénzügyőr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
+
+(3) Ha további intézkedéshez, eljáráshoz szükséges vagy egyéb körülmények ezt indokolják, az igazoltatás során rögzíteni kell az igazoltatott személyazonosító adatait, az igazolvány sorozatát és számát, az igazoltatás helyét, idejét és okát, valamint – kivéve az (1) bekezdés b) pontjában meghatározott nyilatkozattételre vonatkozó felkérés teljesítése megtagadásának esetét – az igazoltatott személy lakóhelyét, tartózkodási helyét.
+
+(4) A személyazonosság igazolásának megtagadása esetén az igazoltatott a személyazonosság megállapítása céljából feltartóztatható, a személyazonosság megállapításának sikertelensége esetén a rendőrséghez, magyar állampolgársággal nem rendelkező külföldi személy esetében az idegenrendészeti hatósághoz előállítható.
+
+(5) Az igazoltatás vagy a személyazonosság megállapításának sikertelensége esetén az előállítás csak a személyazonosság megállapításához szükséges ideig tarthat.
+
+(6) E § alkalmazásában személyazonosító adaton az érintett személy nevét, születési helyét, születési idejét és anyja születési családi és utónevét kell érteni.
+
+### Ruházat, csomag és jármű átvizsgálása
+
+36/B. § (1) Akivel szemben személyi szabadságot korlátozó intézkedést foganatosítanak – ideértve a 36/D. § (7) bekezdés szerinti esetet is –, annak ruházatát, járművét a pénzügyőr a támadásra vagy az önveszély okozására alkalmas tárgy, illetve tárgyi bizonyíték előtalálása végett, előzetes figyelmeztetés után átvizsgálhatja.
+
+(2) A pénzügyőr a 36/A. § szerinti igazoltatás során az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása vagy bűncselekmény elkövetésének gyanúja szükségessé teszi.
+
+(3) A pénzügyőr a (2) bekezdésen alapuló átvizsgálást abban az esetben is alkalmazhatja, ha az átvizsgálást nem a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésének gyanúja teszi szükségessé.
+
+(4) A ruházat átvizsgálását – halaszthatatlan eset kivételével – az intézkedés alá vonttal azonos nemű személy végezheti. Az intézkedés nem történhet szeméremsértő módon.
+
+(5) Az (1)–(4) bekezdés alkalmazásában ruházat: az intézkedéssel érintett személy testén viselt, illetve az intézkedés helyszínén nála lévő vagy a közvetlen felügyelete alatt, illetve rendelkezésére álló ruházat, csomag és tárgy.
+
+(6) A jármű átvizsgálása során a pénzügyőr póráz és szájkosár nélküli szolgálati keresőkutyát is alkalmazhat. A vizsgálat során a keresőkutya alkalmazására azt követően kerülhet sor, amikor a jármű vezetője és az utasok a járművet elhagyták.
+
+36/C. § (1) A pénzügyőr a szolgálati feladatok ellátása céljából
+
+- a) a vám- és jövedéki jogszabályok, továbbá a NAV vámszerveinek feladatát meghatározó egyéb jogszabályok megsértésének felderítése érdekében átvizsgálhatja a 36/J. § alapján megállított járművet,
+- b) átvizsgálhatja a vasúti és autóbusz-pályaudvarokon, hajóállomásokon, repülőtereken tartózkodó, illetve vasúton, hajón, személyszállító közforgalmú gépjárművön szállított utasok csomagjait a szállítóeszközön tartózkodás ideje alatt, menet közben vagy az állomásokon.
+
+(2) Az (1) bekezdés a) pontja szerinti vizsgálat során a pénzügyőr póráz és szájkosár nélküli szolgálati keresőkutyát, az (1) bekezdés b) pont szerinti vizsgálat során pórázon vezetve szájkosár nélküli szolgálati keresőkutyát is alkalmazhat. Az (1) bekezdés a) pont szerinti vizsgálat során a keresőkutya alkalmazására azt követően kerülhet sor, miután a jármű vezetője és az utasok a járművet elhagyták.
+
+(3) A NAV vámszerve hatáskörébe tartozó szabálysértés esetén a pénzügyőr ruházat, csomag és jármű átvizsgálást a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény (a továbbiakban: Szabs. tv.) szerint alkalmazhat. Az átvizsgálás ellen a Szabs. tv. szerinti panasznak van helye.
+
+### Elfogás és előállítás
+
+36/D. § (1) A pénzügyőr a további intézkedés megtétele céljából elfogja és a hatáskörrel és illetékességgel rendelkező hatóság elé állítja azt,
+
+- a) akit szándékos bűncselekmény elkövetésén tetten értek,
+- b) aki ellen elfogatóparancsot, nemzetközi elfogatóparancsot, illetve európai elfogatóparancsot adtak ki,
+- c) akinek őrizetbe vételét rendelték el,
+- d) aki az őrizetbe vétel végrehajtása során megszökött.
+
+(2) A pénzügyőr a hatáskörrel és illetékességgel rendelkező hatóság elé állíthatja azt,
+
+- a) aki a pénzügyőri felszólításra nem tudja a személyazonosságát hitelt érdemlően igazolni, vagy annak igazolását megtagadja,
+- b) aki a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével gyanúsítható.
+
+(3) A pénzügyőr jogosult a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözött személyek nyilvántartásában szereplő, a körözés alapján előállítandó személyt az intézkedés helye szerint illetékes rendőrkapitányságra előállítani. Az előállított személy átszállításáról, az intézkedést elrendelő vagy az intézkedésben megjelölt hatóság elé állításáról az előállítást elrendelő hatóság gondoskodik.
+
+(4) Az előállítással a személyi szabadság csak a szükséges ideig, de legfeljebb 8 órán át korlátozható. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a NAV előállítást foganatosító vámszervének, illetve nyomozó szervének vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát az intézkedés kezdetétől kell számítani.
+
+(5) Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani.
+
+(6) Nemzetközi szerződés rendelkezése alapján elfogott, illetve előállított külföldi személy személyi szabadsága legfeljebb az abban meghatározott időtartamig korlátozható.
+
+(7) Az (1) és (3) bekezdésen alapuló elfogást, előállítást a pénzügyőr abban az esetben is alkalmazhatja, ha a szolgálati feladata végrehajtása során észleli, hogy az elfogás, előállítás feltételei olyan személlyel szemben állnak fenn, akivel szemben az elfogás, előállítás nem a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény miatt szükséges.
+
+(8) Ha az elfogást követően az előállítás a NAV nyomozó hatósága elé történik, a NAV nyomozó hatóságának kell biztosítania azt a lehetőséget, hogy az előállított egy hozzátartozóját vagy más személyt értesítsen, feltéve, hogy ez nem veszélyezteti az intézkedés célját. Ha az előállított nincs abban a helyzetben, hogy e jogával élhessen, az értesítési kötelezettség a NAV nyomozó hatóságát terheli. Ha az előállított fiatalkorú vagy gondnokság alá helyezett, haladéktalanul értesíteni kell törvényes képviselőjét vagy gondnokát. Ha az elfogást követően az előállítás a rendőrséghez történik, a rendőrség a rá vonatkozó szabályok szerint jár el.
+
+### Intézkedés magánlakásban és közterületnek nem minősülő egyéb helyen
+
+36/E. § (1) A pénzügyőr magánlakásba bebocsátás vagy hatósági döntés nélkül nem léphet be, illetve nem hatolhat be, kivéve
+
+- a) a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésének megakadályozása, megszakítása vagy a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény miatt indult büntetőeljárás terheltjének elfogása és előállítása céljából;
+- b) a Be.-n, illetve a Szabs. tv.-en alapuló, a NAV hatáskörébe tartozó esetekben az elővezetés végrehajtása érdekében;
+- c) ha az előállítás e törvényben meghatározott egyéb okból szükséges.
+
+(2) Az (1) bekezdés b) pontja alkalmazásában pénzügyőr alatt a Be.-n alapuló elővezetés végrehajtása körébe a NAV nyomozó hatósága állományában álló, a 34/Y. § (1a) bekezdés a) pontja szerinti pénzügyi nyomozót, a Szabs. tv.-en alapuló elővezetés végrehajtása körében a NAV vámszerve állományában álló pénzügyőrt kell érteni.
+
+(3) A NAV kormányrendeletben meghatározott szerve állományába tartozó pénzügyőr az (1) bekezdés a) pontjában meghatározott intézkedés foganatosítására – a hatáskörrel rendelkező nyomozó hatóság felkérése alapján – más nyomozó hatóság hatáskörébe tartozó bűncselekmény esetén is jogosult.
+
+36/F. § (1) A pénzügyőr a NAV illetékes vámszerve vezetőjének hatósági döntése alapján – a jogsértés felderítése és a hatáskörébe tartozó eljárások lefolytatása érdekében – beléphet, illetve az ott tartózkodók akarata ellenére behatolhat olyan magánlakásba, ahol azonosított és ellenőrzött forrásból származó adatok alapján valószínűsíthetően a vámhatóság hatáskörébe tartozó jogsértő tevékenységet folytatnak.
+
+(2) A belépést (behatolást) és a magánlakásban folytatott eljárást az érintett személy kíméletével, lehetőleg 6 és 20 óra között kell végrehajtani, továbbá az intézkedésről jegyzőkönyvet kell felvenni.
+
+(3) Ha a jelen §-on alapuló intézkedést a vámhatóság hatáskörébe tartozó egyéb hatósági eljárás követi, a magánlakásba való belépés (behatolás) ellen panasznak nincs helye, az, és az intézkedés során tanúsított pénzügyőri tevékenység az adott hatósági eljárásban biztosított, az ügy érdemét érintő jogorvoslati kérelemben támadható.
+
+36/G. § (1) A pénzügyőr a 36/E. § és 36/F. § (1) bekezdés szerinti esetben és célból – jogszabály eltérő rendelkezése hiányában – magánlakásnak nem minősülő egyéb helyre, helyiségbe is beléphet, illetve – az ott tartózkodók akarata ellenére, továbbá a birtokos távollétében is – behatolhat.
+
+(2) Ha a pénzügyőr a magánlakásnak nem minősülő egyéb helyre, illetve helyiségbe a 36/F. § (1) bekezdés szerinti esetben és célból lép be vagy hatol be, az intézkedésről jegyzőkönyvet kell felvenni, ha pedig a birtokos távollétében hatol be, az intézkedésnél két hatósági tanúnak is jelen kell lennie.
+
+(3) Ha a magánlakásnak nem minősülő egyéb helyre, helyiségbe való belépésre, illetve behatolásra a 36/F. § (1) bekezdés szerinti esetben és célból került sor, és az intézkedést a vámhatóság hatáskörébe tartozó egyéb hatósági eljárás követi, a belépés, behatolás ellen panasznak nincs helye, az, és az intézkedés során tanúsított pénzügyőri tevékenység az adott hatósági eljárásban biztosított, az ügy érdemét érintő jogorvoslati kérelemben támadható.
+
+36/H. § (1) A 36/E. §-on vagy a 36/G. §-on alapuló, a birtokos távollétében történt behatolást követően a NAV köteles a birtokost tájékoztatni, és a vagyonvédelem érdekében szükséges intézkedést megtenni.
+
+(2) A 36/E–36/G. §-on alapuló magánlakásban, illetve egyéb helyen, helyiségben való tartózkodás csak a feladat végrehajtásához szükséges ideig tarthat.
+
+### A helyszín biztosítása
+
+36/I. § (1) A pénzügyőr a szolgálati feladata ellátása során jogosult megtiltani, illetve megakadályozni, hogy bűncselekmény, szabálysértés helyszínét megváltoztassák.
+
+(2) Az (1) bekezdést a pénzügyőr abban az esetben is alkalmazhatja, ha a szolgálati feladata végrehajtása során észleli, hogy nem a NAV nyomozó hatósága hatáskörébe tartozó bűncselekményt, illetve nem a NAV vámszerve hatáskörébe tartozó szabálysértést követtek el, továbbá akkor is, ha baleset helyszínének biztosítása szükséges. E bekezdés alkalmazásakor a helyszín biztosítására a pénzügyőr a rendőrség megérkezéséig jogosult.
+
+### Egyéb pénzügyőri intézkedések
+
+36/J. § A pénzügyőr a szolgálati feladatok ellátása céljából közutakon, közforgalom számára megnyitott területen személyeket, járműveket – a közúti közlekedés rendjéről szóló jogszabályban meghatározott jelzések alkalmazásával – megállíthat.
+
+36/K. § (1) A pénzügyőr a vám- és jövedéki jogszabályok, továbbá a NAV vámszerveinek feladatát meghatározó egyéb jogszabályok megsértésének észlelése, gyanúja esetén elrendelheti az ellenőrzés tárgyát képező áru hivatalos helyre történő azonnali beszállítását, amennyiben az ellenőrzés biztonságos és eredményes lefolytatásához az ellenőrzés helyszínén a feltételek nem adottak, vagy az ellenőrzés végrehajtása mások személyi, illetve vagyonbiztonságát veszélyezteti.
+
+(2) Az áru birtokosa köteles az elrendelésnek eleget tenni, és amennyiben vele szemben az eljárás során jogsértést nem állapítanak meg, kérheti igazolt költségeinek megtérítését.
+
+36/L. § (1) Bűncselekmény gyanúja esetén a pénzügyőr jogosult halaszthatatlan nyomozási cselekményként lefoglalás foganatosítására és a hatáskörrel és illetékességgel rendelkező nyomozó hatóság felé a szükséges intézkedések megtételére.
+
+(2) A (1) bekezdést a pénzügyőr abban az esetben is alkalmazhatja, ha a szolgálati feladata végrehajtása során nem a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény gyanúját észleli.
+
+(3) A NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény gyanúja esetén az (1) bekezdés szerinti jogosultság és kötelezettség a szolgálaton kívül levő pénzügyőrre is vonatkozik akkor, ha a szolgálatban levő pénzügyőrt az intézkedésben segíteni kell, feltéve, hogy az intézkedés szükségességének időpontjában a szolgálaton kívül lévő pénzügyőr intézkedésre alkalmas állapotban van.
+
+(4) A NAV vámszerve hatáskörébe tartozó szabálysértés esetén a pénzügyőr lefoglalást a Szabs. tv. szerint alkalmazhat. A lefoglalás ellen a Szabs. tv. szerinti panasznak van helye.
+
+36/M. § (1) A pénzügyőr eljárása során megvizsgálhatja, hogy az ellenőrzés alá vont áru tulajdonosának van-e az állami adó- és vámhatóság felé meg nem fizetett, végrehajtható adó- vagy vámtartozása, illetve végrehajtás alá vont adó módjára behajtandó köztartozása, továbbá e vizsgálat eredményeként jogosult a végrehajtás alá vonható ingó vagyontárgyak lefoglalására.
+
+(2) Az (1) bekezdés szerinti foglalás ellen az Art. szerinti végrehajtási kifogásnak van helye, amelyet az áru tulajdonosának székhelye szerint illetékes adóztatási szervhez kell benyújtani.
+
+(3) Ingófoglalás céljából, továbbá – ha azt jogszabály lehetővé teszi – a végrehajtásban való pénzügyőri közreműködés céljából a pénzügyőr magánlakásba, és magánlakásnak nem minősülő egyéb helyre beléphet.
+
+36/N. § (1) Ha gyanú merül fel arra, hogy az ellenőrzés alá vont személy testében, testüregében kábítószert vagy kábítószernek minősülő anyagot szállít, a pénzügyőr jogosult az ilyen személy beleegyezésével vizeletvétel és orvosi vizsgálat elrendelésére.
+
+(2) A beleegyezés megtagadása esetén a NAV illetékes vámszervének vezetője felhatalmazó kérelmet terjeszt elő az illetékes ügyészséghez. Ilyen esetben a vizeletvétel és az orvosi vizsgálat csak az ügyész felhatalmazásával rendelhető el.
+
+(3) A feltartóztatás és az orvosi vizsgálat időtartama a 8 órát nem haladhatja meg.
+
+(4) Az intézkedés alkalmazása ellen csak amiatt van helye a 35/F. § szerinti panasznak, ha az érintett beleegyezése megtagadása ellenére ügyészi felhatalmazás nélkül rendelték el a vizeletvételt és az orvosi vizsgálatot, illetve akkor, ha a feltartóztatás és az orvosi vizsgálat időtartama a 8 órát meghaladta.
+
+### Képfelvétel, hangfelvétel, kép- és hangfelvétel készítése
+
+36/O. § (1) A pénzügyőr az intézkedéssel, illetve az ellátott szolgálati feladattal összefüggésben az intézkedéssel érintett személyről, a környezetéről, továbbá az intézkedés, illetve az ellátott szolgálati feladat szempontjából lényeges körülményről, tárgyról képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készíthet.
+
+(2) A jelen § alkalmazásában intézkedés alatt az e fejezet szerinti intézkedéseken és kényszerítő eszközök alkalmazásán túl a vámhatóság feladatait meghatározó jogszabályok szerinti intézkedéseket, helyszíni eljárásokat is érteni kell.
+
+(3) Az (1) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat kizárólag
+
+- a) a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés, továbbá a vámhatóság feladatait meghatározó jogszabályok vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, vagy
+- b) körözött személy vagy tárgy azonosítása céljából, vagy
+- c) az intézkedés, illetve kényszerítő eszköz alkalmazása jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
+- d) az érintett személy jogainak gyakorlása érdekében
+
+használható fel.
+
+(4) Ha a (3) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség, az (1) bekezdés alapján rögzített felvételt a rögzítést követő 30 nap elteltével törölni kell.
+
+(5) Ha a felvétel felhasználására a (3) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
+
+36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóságok, a szabálysértési hatóságok, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a rendőrség terrorizmust elhárító szerve, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+
+(2) A NAV a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
+
+(3) Az, akinek jogát vagy jogos érdekét a felvétel rögzítése érinti, a 36/O. § (3) bekezdésében megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb cél érdekében kérheti, hogy az adatot annak kezelője az adat továbbításáig, de legfeljebb 30 napig ne törölje.
+
+(4) A (3) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított, a 36/O. § (4) bekezdésében meghatározottak szerinti 30 napon belül, a jog vagy jogos érdek valószínűsítésével van lehetőség.
+
+(5) Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre, a rögzített felvételt haladéktalanul törölni kell.
+
+#### 37. §
 
 ### Rejtett ellenőrzés elrendelése
 
@@ -2231,7 +2489,7 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
 
-37/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során a 36. § (1) bekezdésében meghatározott intézkedéseket foganatosíthatja.
+37/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során a 36/A–36/H. §-ban, illetve a 36/N. §-ban meghatározott intézkedéseket foganatosíthatja.
 
 (2) A pénzügyőr a rejtett ellenőrzésre történő utalás és a rejtett ellenőrzés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtására sor kerül.
 
@@ -2248,27 +2506,23 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### Közös szabályok a kényszerítő eszközökre
 
-38. § (1) A pénzügyőr e törvényben meghatározott jogszerű intézkedése elleni tettleges ellenszegülés megtörésére törvényben meghatározott intézkedést tehet, és kényszerítő eszközt alkalmazhat.
+38. § (1)
 
 (2)
 
-(3) A kényszerítő eszközök közül azt kell alkalmazni, amely az eredmény biztosítása mellett az érintett személyre a legkisebb személyi korlátozással, sérüléssel vagy károkozással jár.
-
-(4) A kényszerítő eszköz alkalmazásánál úgy kell eljárni, hogy a testi sérülés, az emberi élet kioltása elkerülhető legyen. Az intézkedés következtében megsérült személy részére – amint az lehetséges – segítséget kell nyújtani. A pénzügyőr gondoskodik arról, hogy a sérültet orvos elláthassa, és kórházi elhelyezése esetén a hozzátartozó erről értesüljön.
+(3)–(4)
 
 (5) A kényszerítő eszköz alkalmazása előtt az ellenszegülőt – ha a körülmények ezt lehetővé teszik – fel kell szólítani az ellenszegülés megszüntetésére, és figyelmeztetni kell arra, hogy kényszerítő eszköz alkalmazására kerül sor.
 
-39. § (1) Testi kényszer kivételével kényszerítő eszköz nem alkalmazható – a jogos védelem esetét kivéve – a láthatóan terhes nővel és a gyermekkorúval szemben.
+39. § (1) Testi kényszer és bilincs kivételével kényszerítő eszköz nem alkalmazható – a jogos védelem esetét kivéve – a láthatóan terhes nővel és a gyermekkorúval szemben.
 
 (2) A kényszerítő eszköz alkalmazásáról a pénzügyőr a szolgálati elöljárójának jelentést tesz.
 
 (3) A pénzügyőr kényszerítő eszközt saját elhatározásából vagy utasításra használhat.
 
-(4) A 40. §–50. §-okban meghatározott kényszerítő eszközök alkalmazása miatt panasznak, mint jogorvoslatnak van helye. A panasz előterjesztésére az jogosult, akinek az intézkedés jogát vagy jogos érdekét sértette.
+(4) Ha a rendszeresített kényszerítő eszköz nem áll rendelkezésre, vagy a használatára nincs lehetőség, a pénzügyőr a bilincs, a rendőrbot vagy az útzár helyett más eszközt is igénybe vehet, ha a helyettesített eszköz alkalmazásának törvényi feltételei fennállnak és az igénybe vett eszköz az elérni kívánt törvényes cél megvalósítására alkalmas.
 
-(5) A panaszt az intézkedést követő 8 napon belül az intézkedést foganatosító vámszervnél (kirendeltségnél), illetve nyomozó szervnél lehet előterjeszteni. A panaszt a beérkezéstől számított 15 napon belül az intézkedést foganatosító vámszerv vezetője (az intézkedést foganatosító kirendeltség operatív vezetését ellátó vezetője), illetve nyomozó szerv vezetője indokolással ellátott határozattal bírálja el, amely ellen a közléstől számított 8 napon belül a határozatot hozó vámszervnél (kirendeltségnél), illetve nyomozó szervnél benyújtandó, de az elbírálásra jogosult felettes szervhez címzett fellebbezéssel lehet élni. A fellebbezést az ügy összes iratával a fellebbezési határidő leteltétől számított nyolc napon belül kell felterjeszteni, kivéve, ha a panaszt elbíráló határozatot hozó vámszerv (kirendeltség), illetve nyomozó szerv a határozatát visszavonja, vagy a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
-
-(6) A felettes szerv a fellebbezés beérkezésétől számított 15 napon belül, indokolással ellátott határozatában az elsőfokú határozatot helybenhagyja, megváltoztatja vagy megsemmisíti. Ha az érdemi határozat hozatalához nincs elég adat, vagy a tényállás további tisztázása szükséges, a felettes szerv maga intézkedik a tényállás kiegészítése iránt, vagy a határozat megsemmisítése mellett az elsőfokú határozatot hozó vámszervet (kirendeltséget), illetve nyomozó szervet új eljárásra utasíthatja. A felettes szerv határozatát írásban, a panaszt elbíráló határozatot hozó vámszerv (kirendeltség), illetve nyomozó szerv útján kell közölni a fellebbezővel. A felettes szerv határozata közigazgatási határozat, amelynek bírósági felülvizsgálatát – a közigazgatási határozatok bírósági felülvizsgálatára vonatkozó szabályok szerint – kérheti az, aki a (4) bekezdés szerint panasz előterjesztésére jogosult.
+(5)–(6)
 
 ### Testi kényszer
 
@@ -2276,61 +2530,83 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 (2) A testi kényszer alkalmazása során a pénzügyőr felhasználhatja az önvédelmi fogásokat is.
 
-### Vegyi eszközök, elektromos sokkoló eszköz, rendőrbot, illetve más eszköz alkalmazása
-
-41. § (1) A pénzügyőr a szolgálatban kényszerítő eszközként rendszeresített vegyi vagy elektromos sokkoló eszközt, rendőrbotot, ezek hiányában más e célra alkalmas eszközt alkalmazhat:
-
-- a) a saját testi épségét, illetve az őrzésére bízott vagyon biztonságát közvetlenül veszélyeztető támadás elhárítására,
-- b) a jogszerű intézkedésével szembeni ellenszegülés megtörésére.
-
-(2) A pénzügyőr által alkalmazható vegyi, elektromos sokkoló eszköz rendszeresítéséről a kijelölt miniszter a rendészetért felelős miniszterrel egyetértésben rendelkezik.
-
-### Szolgálati kutya alkalmazása
-
-42. § (1) A pénzügyőr szájkosárral ellátott szolgálati kutyát – pórázon vagy anélkül – kényszerítő eszközként alkalmazhat, ha a testi kényszer alkalmazásának feltételei fennállnak.
-
-(2) A pénzügyőr szájkosár nélküli szolgálati kutyát pórázon vezetve alkalmazhat az intézkedése elleni tettleges ellenállás leküzdéséhez.
-
-(3) A pénzügyőr szájkosár és póráz nélküli szolgálati kutyát alkalmazhat a személye ellen intézett támadás vagy az életét, testi épségét közvetlenül fenyegető magatartás elhárítására.
-
-### Útzár telepítése, megállásra kényszerítés
-
-43. § (1) A pénzügyőr a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény felderítése, megakadályozása céljából, illetve az elkövetésével megalapozottan gyanúsítható személy, valamint a bűncselekmény elkövetőjének elfogására útzár telepítését kérheti az illetékes rendőrhatóságtól.
-
-(2) A NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható személy, illetve a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetőjének elfogása érdekében – ha járművel menekül – a pénzügyőr mások személyét és biztonságát nem veszélyeztetve a járművet követheti és megállásra kényszerítheti.
-
 ### Bilincs alkalmazása
 
-44. § (1) A pénzügyőr bilincset alkalmazhat a személyi szabadságában korlátozni kívánt vagy korlátozott személy:
+41. § (1) A pénzügyőr bilincset alkalmazhat a személyi szabadságában korlátozni kívánt vagy korlátozott személy:
 
 - a) támadásának megakadályozására,
-- b) tettleges ellenszegülésének megtörésére,
+- b) ellenszegülésének megtörésére,
 - c) szökésének megakadályozására,
 - d) önkárosításának megakadályozására.
 
 (2) A bilincs használata alkalmával kerülni kell a testi sérülés és egészségromlás okozását. A bilincs használatáról készült jelentésben utalni kell arra, hogy a bilincs alkalmazására milyen okból került sor, és a bilincselés következtében történt-e sérülés. Ha a megbilincseltet más hatóságnak átadják, a jelentés egy példányát e hatóságnak meg kell küldeni.
 
+### Vegyi eszköz, sokkoló eszköz, rendőrbot, illetve más eszköz alkalmazása
+
+42. § (1) A pénzügyőr a szolgálatban kényszerítő eszközként rendszeresített vegyi eszközt, sokkoló eszközt, illetve rendőrbotot alkalmazhat:
+
+- a) a mások vagy a saját életét, testi épségét, illetve az őrzésére bízott vagyon biztonságát közvetlenül veszélyeztető támadás elhárítására,
+- b) a jogszerű intézkedéssel szembeni ellenszegülés megtörésére.
+
+(2) A pénzügyőr rendszeresített pirotechnikai eszközt alkalmazhat a mások vagy saját élete, testi épsége közvetlen veszélyeztetésének elhárítására, illetve a szándékos bűncselekmény elkövetésén tetten ért személy elfogása alkalmával, vagy ha a lőfegyverhasználat feltételei fennállnak.
+
+### Szolgálati kutya alkalmazása
+
+43. § (1) A pénzügyőr szájkosárral ellátott szolgálati kutyát – pórázon vagy anélkül – kényszerítő eszközként alkalmazhat, ha a testi kényszer alkalmazásának feltételei fennállnak.
+
+(2) A pénzügyőr szájkosár nélküli szolgálati kutyát pórázon vezetve alkalmazhat az intézkedés elleni tevőleges ellenállás leküzdéséhez.
+
+(3) A pénzügyőr szájkosár és póráz nélküli szolgálati kutyát alkalmazhat
+
+- a) súlyos sérüléssel fenyegető támadás elhárítására,
+- b) a NAV nyomozó hatósága hatáskörébe tartozó, súlyos bűncselekmény elkövetésével megalapozottan gyanúsítható személy elfogására,
+- c) a személye ellen intézett támadás vagy az életét, testi épségét közvetlenül fenyegető magatartás elhárítására.
+
+(4) A (3) bekezdés b) pontjának alkalmazásában súlyos bűncselekmény az a NAV nyomozóhatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi vagy ennél súlyosabb szabadságvesztéssel fenyeget.
+
+### Útzár telepítése, megállásra kényszerítés
+
+44. § (1) A NAV – autópálya és autóút kivételével – közút vagy közforgalom elől el nem zárt magánút forgalmának korlátozását vagy lezárását rendelheti el a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható személy, valamint a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetőjének elfogására, ennek során – a közlekedés biztonságát is figyelembe véve, külön jogszabályban meghatározott feltételekkel – útzárat telepíthet.
+
+(2) Útzár alkalmazása során a NAV járművek áthaladását torlaszszerűen vagy más módon lassító, megakadályozó építményt, technikai berendezést vagy ezek hiányában bármilyen eszközt telepíthet, amellyel az intézkedés foganatosítása elől járművel menekülő személyek feltartóztatása, elfogása elérhető.
+
+(3) A NAV az (1) bekezdésben meghatározott célból autópályán és autóúton útzár telepítését az illetékes rendőrhatóságtól kérheti.
+
+(4) A NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható személy, illetve a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetőjének elfogása érdekében – ha járművel menekül – a pénzügyőr mások személyét és biztonságát nem veszélyeztetve a járművet követheti és – a NAV-nál rendszeresített technikai eszköz felhasználásával is – megállásra kényszerítheti.
+
 ### Lőfegyverhasználat
 
-45. § (1) A pénzügyőrt a lőfegyver-használati jog az e törvényben meghatározottak szerint illeti meg.
+45. § (1) A pénzügyőrt a lőfegyver-használati jog – a jogos védelem és a végszükség esetein kívül – az e törvényben meghatározottak szerint illeti meg.
 
-(2) Ha e törvény szerint a lőfegyverhasználat feltétele fennáll, a pénzügyőr lőfegyverként elsősorban a rendszeresített szolgálati fegyvert, ennek hiányában más tárgyat is fegyverként használhat.
+(2) Ha e törvény szerint a lőfegyverhasználat feltétele fennáll, a pénzügyőr bármely dolgot fegyverként használhat. A lőfegyver használatára vonatkozó szabályokat ebben az esetben is értelemszerűen alkalmazni kell.
 
-(3) A pénzügyőr szolgálati fegyverének rendszeresítésére a kijelölt miniszter a rendészetért felelős miniszterrel egyetértésben rendelkezik.
+(3)
 
 (4) Lőfegyverhasználatnak csak a szándékosan, személyre leadott lövés minősül. Nem lőfegyverhasználat a véletlenül bekövetkezett, állatra, tárgyra leadott vagy a figyelmeztető lövés.
 
 (5) A pénzügyőr a lőfegyverét saját elhatározásából vagy utasításra használja.
 
-(6) Tilos a szolgálati fegyvert elővenni, bárkire ráfogni, tüzelési készenlétbe helyezni, vagy valakivel szemben a fegyverhasználatot kilátásba helyezni, ha a lőfegyverhasználatnak az e törvényben meghatározott feltételei nem valósultak meg.
+(6) Tilos a szolgálati fegyvert elővenni, bárkire ráfogni, tüzelési készenlétbe helyezni vagy valakivel szemben a fegyverhasználatot kilátásba helyezni, ha a lőfegyverhasználatnak az e törvényben meghatározott feltételei nem valósultak meg, kivéve
+
+- a) NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható személy elfogásakor,
+- b) a 36/E. § (3) bekezdés szerinti esetben.
 
 (7) A jogosulatlan lőfegyverhasználat büntetőjogi és fegyelmi eljárást von maga után.
 
-46. § A pénzügyőr – szolgálatának jogszerű teljesítése közben – lőfegyverhasználatra jogosult:
+46. § (1) A pénzügyőr – szolgálatának jogszerű teljesítése közben – lőfegyverhasználatra jogosult:
 
 - a) az élet elleni közvetlen fenyegetés vagy támadás elhárítására,
-- b) a testi épséget súlyosan veszélyeztető közvetlen támadás elhárítására, valamint
-- c) a Be. által a NAV nyomozóhatósági hatáskörébe utalt bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének megakadályozására.
+- b) a testi épséget súlyosan veszélyeztető közvetlen támadás elhárítására,
+- c) a Be. által a NAV nyomozóhatósági hatáskörébe utalt bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének megakadályozására,
+- d) lőfegyver, illetve robbanóanyag jogosulatlan, erőszakos megszerzésére irányuló cselekmény megakadályozására,
+- e) az emberi élet kioltását szándékosan elkövető elfogására, szökésének megakadályozására,
+- f) azzal szemben, aki a nála lévő fegyver vagy élet kioltására alkalmas más eszköz letételére irányuló pénzügyőri felszólításnak nem tesz eleget, és magatartása a fegyver vagy a más, az élet kioltására alkalmas eszköz ember elleni közvetlen felhasználására utal,
+- g) a NAV által elfogott, bűncselekmény elkövetése miatt őrizetbe vett, vagy bírói döntés alapján fogva tartott személy erőszakos kiszabadításának megakadályozására, az azt megkísérlővel szemben,
+- h) a saját élete, testi épsége, személyes szabadsága ellen intézett támadás elhárítására.
+
+(2) Nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján más állam területén szolgálatot ellátó pénzügyőr nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott esetekben és módon használhat lőfegyvert.
+
+(3) Pénzügyi nyomozói vagy vámhatósági feladatokat ellátó külföldi szerv tagja Magyarország területén a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusa alapján meghatározott esetben és módon használhat lőfegyvert.
 
 47. § Nincs helye lőfegyverhasználatnak, ha
 
@@ -2339,7 +2615,7 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 48. § (1) A lőfegyverhasználatot a következő sorrendben meg kell előznie:
 
-- a) felhívásnak, hogy a személy a támadással hagyjon fel,
+- a) felhívásnak, hogy a felhívott az intézkedésnek engedelmeskedjen,
 - b) más kényszerítő eszköz alkalmazásának,
 - c) figyelmeztetésnek, hogy lőfegyverhasználat következik,
 - d) figyelmeztető lövésnek.
@@ -2360,7 +2636,7 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### Általános rendelkezések
 
-51. § (1) A NAV bűnügyi főigazgatósága és a bűnügyi főigazgatóság középfokú szervei (a továbbiakban: felhatalmazott szervek) a Be. által a NAV nyomozóhatósági hatáskörébe utalt bűncselekmény elkövetésének megelőzésére, megakadályozására, felderítésére, megszakítására, az elkövető kilétének megállapítására, elfogására, tartózkodási helyének megállapítására, bizonyítékok megszerzésére, valamint a büntetőeljárásban résztvevők és az eljárást folytató hatóság tagjainak, az igazságszolgáltatással együttműködő személyek védelme érdekében – e törvény keretei között – titokban információt gyűjthetnek.
+51. § (1) A NAV bűnügyi főigazgatósága és a bűnügyi főigazgatóság középfokú szervei (a továbbiakban: felhatalmazott szervek) – e törvény keretei között – a Be. által a NAV nyomozóhatósági hatáskörébe utalt bűncselekmény elkövetésének megelőzésére, megakadályozására, felderítésére, megszakítására, az elkövető kilétének megállapítására, elfogására, tartózkodási helyének megállapítására, bizonyítékok megszerzésére, büntetőeljárás alól magát kivonni kívánó terhelt büntetőeljárásban történő részvételének biztosítására, továbbá a büntetőeljárásban részt vevők és az eljárást folytató hatóság tagjainak, a fedett nyomozók és fedőintézmények, a titkosan együttműködő személyek védelme, valamint a titkosan együttműködő személyek bevonása, ellenőrzése érdekében titokban információt gyűjthetnek. A titkosan együttműködő személyek bevonása, ellenőrzése céljából bírói engedélyhez nem kötött titkos információgyűjtés végezhető.
 
 (2) Az (1) bekezdés alapján tett intézkedések, az abban érintett természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek adatai nem hozhatók nyilvánosságra.
 
@@ -2398,9 +2674,9 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 (6) Rendvédelmi szerv és nemzetbiztonsági szolgálat fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
 
-(7) A felhatalmazott szervek az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvi nyilvántartásban, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhetnek el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
+(7) A felhatalmazott szervek az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvben, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhetnek el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
 
-(8) Az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére az 57. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+(8) Az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére, valamint személyiségi jogsértés esetén a sérelemdíj érvényesítésére az 57. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 ### Leplezett figyelés elrendelése
 
@@ -2422,9 +2698,9 @@ kilátásba helyezése
 
 57. § (1) A felhatalmazott szervek az ügyész hozzájárulásával a Be. 175. §-ának (1) bekezdése alapján a feljelentés elutasításának, vagy a Be. 192. §-ának (1) bekezdése alapján a nyomozás megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhatnak meg a bűncselekmény elkövetőjével, ha a megállapodással elérhető bűnüldözési célhoz fűződő érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
 
-(2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a Be. 175. §-ának (3)–(4) bekezdése alapján a NAV az elkövető által a sértettnek okozott kárt megtéríti, az ehhez szükséges fedőokiratot elkészítheti, illetve titoktartási megállapodás megkötését kezdeményezheti.
+(2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a Be. 175. §-ának (3)–(4) bekezdése alapján a NAV az elkövető által a sértettnek okozott kárt megtéríti, illetve személyiségi jogsértés esetén a sérelemdíjat megfizeti, az ehhez szükséges fedőokiratot elkészítheti, illetve titoktartási megállapodás megkötését kezdeményezheti.
 
-(3) Nem köthető a Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján megállapodás azzal a személlyel, aki olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta.
+(3) Nem köthető a Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján megállapodás azzal a személlyel, aki más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
 
 ### A feljelentés elutasítása vagy a nyomozás megszüntetése
 
@@ -2432,9 +2708,9 @@ a fedett nyomozóval szemben
 
 58. § (1) Bűncselekmény megalapozott gyanúja esetén az ügyész a Be. 175. §-ának (2) bekezdése alapján a feljelentést határozattal elutasítja, vagy a Be. 192. §-ának (2) bekezdése alapján a nyomozást megszünteti, ha az 53. § (1) bekezdésének f) pontja szerint a fedett nyomozó által a szolgálati feladata teljesítése közben elkövetett bűncselekmény bűnüldözési érdeket szolgál, és az jelentősen meghaladja az állam büntetőjogi igényének érvényesítéséhez fűződő érdeket.
 
-(2) A Be. 175. §-ának (3) és (4) bekezdése alapján a fedett nyomozó által a sértettnek okozott kár megtérítésére, az ehhez szükséges fedőokirat elkészítésére, illetve a titoktartási megállapodás megkötésének kezdeményezésére az 57. § (2) bekezdésében írt rendelkezést kell alkalmazni.
+(2) A Be. 175. §-ának (3) és (4) bekezdése alapján a fedett nyomozó által a sértettnek okozott kár megtérítésére, illetve a személyiségi jogsértésért járó sérelemdíj megfizetésére, az ehhez szükséges fedőokirat elkészítésére, illetve a titoktartási megállapodás megkötésének kezdeményezésére az 57. § (2) bekezdésében írt rendelkezést kell alkalmazni.
 
-(3) A Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján az (1) bekezdésben foglaltak nem alkalmazhatók, ha a fedett nyomozó olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta.
+(3) A Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján az (1) bekezdésben foglaltak nem alkalmazhatók, ha a fedett nyomozó más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
 
 ### Adatkérés
 
@@ -2555,7 +2831,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 (2) A NAV nyomozó hatósága a bűnüldözési feladatok ellátásához más adatkezelési rendszerekből – törvényben meghatározott esetekben és módon – adatokat vehet át. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
 
-71. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok ellátásához – a NAV saját nyilvántartásain túl – különösen az alábbi forrásokból gyűjt személyes, illetve egyéb adatokat:
+71. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok, illetve a 77. § szerinti feladatok ellátásához – a NAV saját nyilvántartásain túl – különösen az alábbi forrásokból gyűjt személyes, illetve egyéb adatokat:
 
 - a) állampolgár bejelentése, kérelme, valamint feljelentés, panasz,
 - b) DNS- és ujjnyomat minta elemzése,
@@ -2565,7 +2841,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 - f) a jogszerűen, nyilvánosságra hozatal céljából készített és nyilvánosságra hozott adatállományban, név- és címjegyzékben – így különösen telefonkönyv, szaknévsor, statisztikai névjegyzék – szereplő adat,
 - g) a természetes személy, jogi személy és egyéb szervezet által saját magáról – például írott vagy elektronikus sajtóban, internetes oldalakon – nyilvánosságra hozott, bárki által hozzáférhető adat.
 
-(2) A NAV nyomozó hatósága a bűnüldözési feladatok ellátása érdekében térítés nélkül kérhet adatokat az alábbi nyilvántartásokból:
+(2) A NAV nyomozó hatósága a bűnüldözési feladatok, illetve a 77. § szerinti feladatok ellátása érdekében térítés nélkül kérhet adatokat az alábbi nyilvántartásokból:
 
 - 1. a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - 2. a személyi igazolvány nyilvántartásból,
@@ -2685,7 +2961,8 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - e) a külpolitikáért felelős miniszter által irányított minisztérium illetékes szerve,
 - f) a honvédelmi igazgatás illetékes szerve,
 - g) a NAV-nak az adóztatási szerve és vámszerve az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
-- h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv.
+- h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
+- i) a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából.
 
 (3) Az adatszolgáltatást kérő szervek felelősek a (2) bekezdés alapján átvett adatoknak e törvény szerinti kezeléséért. Az ilyen adatfelhasználást kötelesek kimutatni, illetve nyilvántartani.
 
@@ -2754,9 +3031,9 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 82. § Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:
 
-- a)
+- a) a NAV személyi állományának képzését szolgáló továbbképzési rendszer szabályait,
 - b) a váminformációs rendszerrel kapcsolatos részletszabályokat,
-- c) a rendészetért felelős miniszterrel egyetértésben a kényszerítő eszközök alkalmazásának részletes eljárási szabályait,
+- c) a rendészetért felelős miniszterrel egyetértésben az e törvény szerinti pénzügyőri intézkedések és a kényszerítő eszközök alkalmazásának részletes eljárási szabályait,
 - d) a rendészetért felelős miniszterrel egyetértésben a NAV-nál alkalmazásra kerülő kényszerítő eszközök rendszeresítésére vonatkozó eljárási szabályokat és a NAV-nál rendszeresíthető kényszerítő eszközök típusait és fajtáit,
 - e) a rendészetért felelős miniszterrel egyetértésben az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályait,
 - f) a kormányzati szolgálati jogviszony létesítése pszichikai alkalmassághoz kötésének szempontjait, a kormánytisztviselők, ügykezelők tekintetében az egészségi, pszichikai alkalmasság követelményeit, az egészségi, pszichikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervek, szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
@@ -2764,14 +3041,14 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 82/A. § (1) Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:
 
-- a) azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be;
+- a) azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be, továbbá azokat a munkaköröket, amelyek betöltéséhez a pénzügyőrnek rendészeti szakvizsgával kell rendelkeznie;
 - b)
 - c) a pénzügyőröket megillető ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, a tervezett viselési (használati) időt és annak módosítását, az egyenruha, a rendfokozati jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
 - d) a pénzügyőrök tekintetében az egészségi, pszichikai és fizikai alkalmasság követelményeit, az egészségi, pszichikai és fizikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervek, szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai és fizikai alkalmassági követelményeknek való meg nem feleléssel, valamint a szolgálati lőfegyver ideiglenes bevonásának szabályait;
 - e) a pénzügyőrök tekintetében az egészségügyi szabadság, a szolgálatmentesség, valamint a csökkentett napi szolgálati idő megállapításának, engedélyezésének és kiadásának szabályait;
 - f) a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete keretében az egészségügyi alapellátás igénybevételének módját és az igénybevevők körét;
 - g) a pénzügyőrök részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével összefüggő szabályokat;
-- h) azokat a végzettségeket, amelyeket az alap- és középfokú szaktanfolyami végzettséggel egyenértékűnek kell tekinteni.
+- h) azokat a végzettségeket, amelyeket az alap- és középfokú szaktanfolyami végzettséggel egyenértékűnek kell tekinteni, valamint azon munkaköröket, amelyek tekintetében a szaktanfolyam elvégzésének kötelezettsége nem áll fenn.
 
 (2) Felhatalmazást kap a kijelölt miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg azon fertőző betegségek körét, amelyek esetében – egyes szolgálati feladatokhoz kapcsolódóan – védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.
 
@@ -2976,11 +3253,22 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (12b) Amennyiben az érintett illetménye a (12a) bekezdés alapján került megállapításra, és vezetői munkakörből nem vezetői munkakörbe, pénzügyi nyomozói munkakörből nem pénzügyi nyomozói munkakörbe kerül kinevezésre, illetve a 31/A. § alapján adományozott címe visszavonásra kerül, illetményét a 20. § szerinti besorolása alapján kell megállapítani, továbbá részére a (12a) bekezdés szerinti munkáltatói intézkedést megelőzően nyilvántartott illetménykülönbözet összegét is meg kell állapítani – szükség szerint az (1) bekezdés b) pontja szerinti korrekcióval – és jelen § alapján nyilván kell tartani.
 
+(12c) A (12a) bekezdéstől eltérően, amennyiben az érintett vezetői munkakörbe, pénzügyi nyomozói munkakörbe történő kinevezését, II. besorolási osztályból I. besorolási osztályba történő átsorolását, illetve a 31/A. § szerinti címadományozást megelőzően megállapított illetménye (jelen bekezdés alkalmazásában a továbbiakban: megelőző illetmény) meghaladja a (12a) bekezdés alapján megállapítható illetményét (jelen bekezdés alkalmazásában a továbbaikban: megállapított illetmény), úgy a megelőző illetménynek a megállapított illetményt meghaladó részét külön illetményelemként, mint illetménykülönbözet kell nyilvántartani. Az így megállapított illetménykülönbözetre egyebekben jelen § rendelkezéseit megfelelően alkalmazni kell.
+
 (13) A jelen § alapján megtett munkáltatói intézkedéshez nem kell a kormánytisztviselő, illetve a pénzügyőr beleegyezése.
+
+98/P. § Az a 2015. január 1-jén a NAV állományába tartozó pénzügyőr, aki
+
+- a) a Vám- és Pénzügyőrség állományából került a NAV állományába, és
+- b) olyan munkakört tölt be, amelynek betöltéséhez a pénzügyőrnek rendészeti szakvizsgával kell rendelkeznie, és
+- c) a középfokú szaktanfolyamot elvégezte, vagy annak elvégzése alól jogszabály alapján mentesült, és
+- d) legalább 3 évet töltött vezetői munkakörben, illetve vezetői beosztásban,
+
+mentesül a rendészeti szakvizsga megszerzésének kötelezettsége alól.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-98/P. § E törvény IV. fejezete az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+98/Q. § E törvény IV. fejezete az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -3199,28 +3487,28 @@ Vezetői illetménypótlék táblázata
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  | A jogkör gyakorlója |  |
-| 2 | Sorszám | A hatáskör területe | Munkáltatói jogkör megnevezése | a kijelölt miniszter | NAV elnöke |
+| 1 | Sorszám | A hatáskör területe | Munkáltatói jogkör megnevezése | A jogkör gyakorlója |  |
+| 2 | a kijelölt miniszter | NAV elnöke |
 | 3 | 1. | Hivatásos szolgálati jogviszonnyal kapcsolatos intézkedések | Hivatásos állományba vétel |  |  |
-| 4 | tábornokra vonatkozó javaslat előterjesztése a Köztársasági Elnökhöz | X |  |
+| 4 | tábornokra vonatkozó javaslat előterjesztése a köztársasági elnökhöz | X |  |
 | 5 | főtiszt, tiszt esetében |  | X |
 | 6 | Hivatásos szolgálati jogviszony megszüntetése |  |  |
-| 7 | tábornokra vonatkozó javaslat előterjesztése a Köztársasági Elnökhöz | X |  |
+| 7 | tábornokra vonatkozó javaslat előterjesztése a köztársasági elnökhöz | X |  |
 | 8 | főtiszt, tiszt esetében |  | X |
 | 9 | Hivatásos szolgálati jogviszony szüneteltetése |  |  |
 | 10 | tábornok esetében | X | X |
 | 11 | főtiszt, tiszt, zászlós, tiszthelyettes esetében |  | X |
 | 12 | Hivatásos állományba visszavétel |  |  |
-| 13 | tábornokra vonatkozó javaslat előterjesztése a Köztársasági Elnökhöz | X |  |
+| 13 | tábornokra vonatkozó javaslat előterjesztése a köztársasági elnökhöz | X |  |
 | 14 | főtiszt, tiszt, zászlós, tiszthelyettes esetében |  | X |
 | 15 | 2. | Rendfokozatot érintő döntések | Első tiszti kinevezés |  | X |
 | 16 | Magasabb rendfokozatba történő kinevezés, előléptetés |  |  |
-| 17 | tábornoki kinevezés előterjesztése a Köztársasági Elnökhöz | X |  |
+| 17 | tábornoki kinevezés előterjesztése a köztársasági elnökhöz | X |  |
 | 18 | ezredesi előléptetés |  | X |
 | 19 | főtiszt, tiszt soron kívüli előléptetése | X | X |
 | 20 | 3. | Hivatásos szolgálati jogviszonnyal kapcsolatos egyéb döntések | Tábornok más fegyveres szervhez történő áthelyezése | X |  |
 | 21 | Főtiszt, tiszt, zászlós, tiszthelyettes más fegyveres szervhez történő áthelyezése |  | X |
-| 22 | 4. | Fegyelmi hatáskörök | Tábornok rendfokozatát vagy szolgálati viszonyát érintő fegyelmi büntetés kiszabására vonatkozó javaslat előterjesztése a Köztársasági Elnökhöz | X |  |
+| 22 | 4. | Fegyelmi hatáskörök | Tábornok esetében rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, illetve lefokozás fegyelmi büntetés kiszabására vonatkozó javaslat előterjesztése a köztársasági elnökhöz | X |  |
 | 23 | Rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, illetve lefokozás fegyelmi büntetés kiszabása főtiszt, tiszt esetében |  | X |
 | 24 | Fegyelmi eljárás lefolytatása, egyéb fegyelmi büntetések kiszabása |  |  |
 | 25 | tábornok esetében |  | A NAV elnöke, illetve az általa vezetett fegyelmi tanács |

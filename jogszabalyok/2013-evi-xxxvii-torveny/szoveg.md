@@ -20,7 +20,7 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 - 1. adómegállapítási jogsegély: az 5. § (1) bekezdésben meghatározott adókkal kapcsolatos tagállami jogszabályok végrehajtása szempontjából előreláthatólag releváns információk cseréje céljából folytatott közigazgatási együttműködés az Európai Unió tagállamainak hatáskörrel rendelkező hatóságai között;
 - 2. behajtási jogsegély: az információkérés, a kézbesítés, a behajtás és a biztosítási intézkedés iránti megkereséssel kapcsolatos, 22–41. §-ban szabályozott eljárás;
-- 3. kettős adóztatás elkerüléséről szóló egyezmény: Magyarország és más állam között a kettős adóztatás elkerülése tárgyában létrejött, jogszabályban kihirdetett nemzetközi szerződés;
+- 3. nemzetközi adóegyezmény: Magyarország által a kettős adóztatás elkerülése tárgyában más állammal kötött, továbbá két- vagy többoldalú adóügyi információcserét, valamint adóügyi együttműködést szabályozó, jogszabályban kihirdetett nemzetközi szerződés;
 - 4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény;
 - 5. FATCA Megállapodás: a 2014. évi XIX. törvénnyel kihirdetett, a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás;
 - 6. Hatóságközi Megállapodás: a FATCA Megállapodás 3. cikk 6. pontja szerinti megállapodás.
@@ -35,7 +35,7 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 (3) E törvény II. Fejezete alkalmazásában
 
 - 1. bevált gyakorlatok és tapasztalatok megosztása iránti eljárás: az Európai Bizottság és az Európai Unió tagállamai hatáskörrel rendelkező hatóságainak együttműködése az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU irányelv 15. cikke szerint;
-- 2. formanyomtatvány: az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által elfogadott formanyomtatvány;
+- 2. formanyomtatvány, egységes számítógépes formátum: az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 20. cikk (4) bekezdése, illetve a 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által elfogadott formanyomtatvány, egységes számítógépes formátum;
 - 3. információcsere iránti megkeresés esetén alkalmazott formanyomtatvány: olyan formanyomtatvány, amely legalább a következő információkat tartalmazza:
   - a) az eljárással érintett személy (ügyfél) személyazonossága megállapításához szükséges adat,
   - b) az információkérés adózási, adóztatási céljának megjelölése.
@@ -47,17 +47,21 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
 - 6. illetékes tisztviselő: olyan tisztviselő, aki kijelölés alapján az adómegállapítási jogsegély keretében közvetlen információcsere teljesítésére, fogadására jogosult. Az adómegállapítási jogsegélyben részt vevő tisztviselők e tevékenységükkel összefüggésben illetékes tisztviselőnek minősülnek;
 - 7. kapcsolattartó szerv: a központi kapcsolattartó irodán kívül kijelölt olyan szerv, szervezeti egység, amely kijelölés alapján az adómegállapítási jogsegély keretében közvetlen információcsere teljesítésére, fogadására jogosult. Kapcsolattartó szervként egyidejűleg több szerv, szervezeti egység is kijelölhető;
 - 8. központi kapcsolattartó iroda: az adómegállapítási jogsegély területén elsődlegesen felelős szerv, szervezeti egység, amely ellátja az Európai Unió más tagállamával és az Európai Bizottsággal való kapcsolattartási feladatokat. A központi kapcsolattartó iroda ellátja az egyidejű ellenőrzések koordinációjával kapcsolatos feladatokat és a kijelölt illetékes tisztviselőkről nyilvántartást vezet. Egyidejűleg kizárólag egy központi kapcsolattartó iroda jelölhető ki;
-- 9. megkeresett hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatos megkeresést, spontán információcserét fogadja;
+- 9. megkeresett hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatos megkeresést, spontán, valamint automatikus információcserét fogadja;
 - 10. megkeresésre történő információcsere: egy adott esetben a megkereső hatóság megkeresett hatósághoz intézett megkeresésén alapuló információcsere;
-- 11. megkereső hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatban megkeresést, spontán információcserét teljesít;
+- 11. megkereső hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatban megkeresést, spontán, valamint automatikus információcserét teljesít;
 - 12. spontán információcsere: az információ bármely időpontban történő, előzetes megkeresés nélküli nem rendszeres közlése az Európai Unió más tagállamának hatáskörrel rendelkező hatóságával;
+- 12a. automatikus információcsere: meghatározott információ előre meghatározott időszakonként történő, előzetes megkeresés nélküli rendszeres közlése az Európai Unió más tagállamának hatáskörrel rendelkező hatóságával;
 - 13. statisztikai adatok jegyzéke: az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által meghatározott formában, tartalommal és eljárásrendben teljesítendő statisztikai jellegű tájékoztatási kötelezettség;
 - 14. személy:
   - a) a természetes személy,
   - b) a jogi személy,
   - c) a magyar jogszabályok alkalmazásában, valamint ha a más tagállam jogszabálya úgy rendelkezik, a jogi személyiség nélküli jogképes személyegyesülés (társulás),
   - d) egyéb, bármely jellegű és formájú, jogi személyiséggel rendelkező vagy nem rendelkező jogi konstrukció, amely olyan eszközöket birtokol vagy kezel, amelyekre – az eszközökből származó jövedelmet is ideértve – az 5. § (1) bekezdés szerinti adókat kivetik, vagy
-  - e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tartozó adózó.
+  - e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tartozó adózó;
+- 15. életbiztosítás: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 3. § 92. pontjában meghatározott személybiztosítás;
+- 16. nyugdíj: az Szja tv. 3. § 23. pontjában meghatározott jövedelem (ide nem értve a 23. pont c) alpontja szerinti nyugdíjszolgáltatást);
+- 17. ingatlan hasznosításából származó jövedelem: az ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelem (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelem).
 
 (4) E törvény III. Fejezete alkalmazásában
 
@@ -139,6 +143,8 @@ kapcsolatos eljárásban.
 (6) Az (1)–(5) bekezdés szerinti határidő a 13. § (3) bekezdés szerinti esetben a megkeresés, egyéb nyilatkozat magyar központi kapcsolattartó iroda részére történő továbbítása napját követő napon kezdődik.
 
 9. § A magyar megkeresett hatóság a spontán információcsere keretében szerzett információ beérkezését az információ beérkezését követő 7 munkanapon belül – ha lehetséges, elektronikus úton – visszaigazolja az információt küldő hatáskörrel rendelkező hatóság részére.
+
+9/A. § A magyar megkeresett hatóság az automatikus információcsere keretében szerzett információt nyilvántartásba veszi és annak felhasználásáról az érintett tagállam hatáskörrel rendelkező hatósága részére évente egy alkalommal visszajelzést küld az általuk kétoldalúan meghatározott gyakorlati intézkedéseknek megfelelően.
 
 #### 5. Az adómegállapítási jogsegély egyéb formái
 
@@ -239,6 +245,8 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (4) Az adómegállapítási jogsegély keretében küldött megkeresés és egyéb nyilatkozat, valamint az előbbiekhez mellékelt okirat bármely, a megkereső hatóság és a megkeresett hatóság megállapodása szerinti nyelven továbbítható. A megkeresett hatóság indokolt kérelmére a megkereséshez a megkeresett hatóság tagállamának valamely hivatalos nyelvén készített fordítást kell mellékelni.
 
+(5) Az automatikus információcsere keretében továbbított információt egységes számítógépes formátum használatával kell továbbítani.
+
 17. § (1) A magyar megkeresett hatóság az adómegállapítási jogsegéllyel összefüggésben – a szakértői költség megtérítési igénye kivételével – költségek megtérítése iránti igényt a megkereső hatósággal szemben nem érvényesít.
 
 (2) A magyar megkeresett hatóság, illetve magyar megkereső hatóság az adómegállapítási jogsegéllyel összefüggésben az Európai Unió más tagállama hatáskörrel rendelkező hatósága költségek megtérítése iránti igényét – a szakértői költség megtérítési igénye kivételével – nem teljesíti.
@@ -261,6 +269,16 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (3) Az (1)–(2) bekezdésben foglaltakon kívül a magyar megkereső hatóság előzetes megkeresés nélküli információcserét abban az esetben teljesíthet, ha álláspontja szerint az információ az Európai Unió érintett tagállama hatáskörrel rendelkező hatósága részére hasznos lehet.
 
+19/A. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében, a 2014. január 1-jétől kezdődő adómegállapítási időszakokat illetően, legkésőbb az információ rendelkezésre állásának adóévét követő év június 30-ig közli más tagállam hatáskörrel rendelkező hatóságával a (2) bekezdésben meghatározott jövedelem- és tőkekategóriákra vonatkozóan az Európai Unió más tagállamában illetőséggel rendelkező adózóról a nyilvántartása alapján rendelkezésére álló információkat.
+
+(2) Az (1) bekezdés szerinti jövedelem- és tőkekategóriák a következők:
+
+- a) a munkaviszonyból származó jövedelem,
+- b) a vezető tisztségviselő tiszteletdíja,
+- c) életbiztosítási szerződésből származó jövedelem (kivéve az információcserével kapcsolatos egyéb uniós jogi aktus hatálya alá tartozó életbiztosítási szerződésből származó jövedelem),
+- d) nyugdíj,
+- e) ingatlan hasznosításából származó jövedelem.
+
 #### 8. Tájékoztatási kötelezettség
 
 20. § (1) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot
@@ -276,9 +294,13 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (3) A magyar központi kapcsolattartó iroda
 
-- a) megküldi az Európai Bizottság részére az adómegállapítási jogsegéllyel kapcsolatos statisztikai adatok jegyzékét,
+- a) megküldi az Európai Bizottság részére az adómegállapítási jogsegéllyel kapcsolatos statisztikai adatok jegyzékét, ideértve az automatikus információcsere forgalmára, annak költségeire és az automatikus információcsere éves értékelésére vonatkozó adatokat,
 - b) tájékoztathatja az Európai Bizottságot az olyan releváns információkról, amelyek az adócsalás és az adóelkerülés elleni küzdelem érdekében az adómegállapítási jogsegély hatékonyságának értékeléséhez szükségesek,
 - c) tájékoztathatja az Európai Bizottságot és az Európai Unió tagállamainak hatáskörrel rendelkező hatóságait az adómegállapítási jogsegéllyel kapcsolatos tapasztalatokról, gyakorlatról a bevált tapasztalatok és gyakorlatok megosztása iránti eljárásban.
+
+(4) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–e) pontjában rögzített jövedelemtípusait érintő két- vagy többoldalú nemzetközi megállapodásokról, továbbá a jövedelemtípusok körét érintő változásokról.
+
+(5) A magyar központi kapcsolattartó iroda tájékoztathatja a más tagállam hatáskörrel rendelkező hatóságát, amennyiben az (1) bekezdésben felsorolt jövedelemtípusok tekintetében, vagy egy meghatározott küszöbérték alatt nem kíván információkat kapni. A magyar központi kapcsolattartó iroda erről az értesítésről tájékoztatja az Európai Bizottságot.
 
 #### 9. Információcsere harmadik államokkal
 
@@ -412,7 +434,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 33. § (1) A magyar megkeresett hatóság a 22–32. § szerinti megkeresést elutasítja, ha
 
-- a) a megkeresés olyan követelésre vonatkozik, amelynek a megkereső tagállam joga szerinti esedékességi napja és a megkeresés beérkezésének napja között több mint öt naptári év telt el, vagy
+- a) a megkeresés olyan követelésre vonatkozik, amelynek a megkereső tagállam joga szerinti esedékességi napja és a megkeresés – ismételt megkeresés esetén az eredeti megkeresés – beérkezésének napja között több mint öt naptári év telt el, vagy
 - b) a (3) és (4) bekezdésben foglalt esetekben a követelés esedékességének a megkeresés tagállambeli időpontjától számított több mint tíz naptári év eltelt, vagy
 - c) a követelés behajtása – az adós személy helyzete miatt – Magyarországon komoly gazdasági nehézséget okozna, feltéve, hogy a magyar jogszabályok szerint hasonló követelésre ez a behajtást kizáró ok külön jogszabály alapján alkalmazható lenne.
 
@@ -527,9 +549,9 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 (8) Ha a Választottbírósági Egyezmény 6. vagy 7. cikke szerinti eljárás alapján a határozat (végzés) megváltoztatása vagy megsemmisítése, illetve ezzel azonos hatású intézkedés várható, az állami adóhatóság az adós kérelmére, a felettes szerve rendelkezésére vagy az illetékes hatóság értesítése alapján a határozat (végzés) végrehajtását felfüggeszti.
 
-### V. Fejezet — A KETTŐS ADÓZTATÁS ELKERÜLÉSÉRŐL SZÓLÓ EGYEZMÉNYEKHEZ KAPCSOLÓDÓ EGYES ELJÁRÁSI SZABÁLYOK
+### V. Fejezet — NEMZETKÖZI ADÓEGYEZMÉNYEKHEZ KAPCSOLÓDÓ EGYES ELJÁRÁSI SZABÁLYOK
 
-43. § (1) A kettős adóztatás elkerüléséről szóló egyezmények szerinti együttműködés során a magyar illetékes hatóság, valamint az illetékes hatóság feladatait jogszabályi vagy egyéb kijelölés alapján ellátó hatóság (a továbbiakban együtt: illetékes hatóság) által közölt, továbbított vagy szerzett információ adótitoknak minősül.
+43. § (1) A nemzetközi adóegyezmények szerinti együttműködés során a magyar illetékes hatóság, valamint az illetékes hatóság feladatait jogszabályi vagy egyéb kijelölés alapján ellátó hatóság (a továbbiakban együtt: illetékes hatóság) által közölt, továbbított vagy szerzett információ adótitoknak minősül.
 
 (2) Az illetékes hatóság az együttműködési kötelezettség teljesítéséhez szükséges információ megszerzése érdekében saját hatáskörben vagy belföldi jogsegély (megkeresés) keretében megtesz minden olyan intézkedést, amelyet hasonló belföldi jogsegély (megkeresés) teljesítése érdekében végrehajtana.
 
@@ -594,6 +616,10 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 (3) A 39. § (6) bekezdés szerinti rendelkezést a magyar megkereső hatóság által az e törvény hatálybalépését követően kezdeményezett behajtás iránti megkeresésekkel kapcsolatos eljárásokban kell alkalmazni.
 
 45/A. § A 43/A. § hatálybalépésekor Jelentő Magyar Pénzügyi Intézménynek vagy Nem Jelentő Magyar Pénzügyi Intézménynek minősülő szervezet a 43/A. § szerinti bejelentési vagy adatszolgáltatási kötelezettségét a 43/A. § hatálybalépését követő 45. napig teljesíti az állami adóhatósághoz.
+
+45/B. § (1) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel (a továbbiakban: 2014. évi LXXIV. törvény) megállapított 20. § (3) bekezdés a) pontjában az automatikus információcsere forgalmára, annak költségeire és az automatikus információcsere éves értékelésére vonatkozó adatokat a magyar központi kapcsolattartó iroda először 2016. június 30-ig küldi meg az Európai Bizottságnak.
+
+(2) A 2014. évi LXXIV. törvénnyel megállapított 19/A. §-a szerinti információcsere alapjául szolgáló rendelkezésre álló jövedelemkategóriákról a magyar központi kapcsolattartó iroda a 19/A. § hatálybalépésétől számított 30 napon belül értesíti az Európai Bizottságot.
 
 #### 17. Az Európai Unió jogának való megfelelés
 

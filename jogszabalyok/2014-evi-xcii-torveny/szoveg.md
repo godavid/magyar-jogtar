@@ -4,19 +4,43 @@ egyes törvényeknek a közpénzek szabályozásával összefüggő módosítás
 
 #### 1. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-1. §
+1. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 32. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A szerencsejáték-szervező a sorsolásos játékok, a fogadások és a távszerencsejátékok esetén a játékadó megállapításához, bevallásához és megfizetéséhez kiszámítja az (1)–(5) bekezdés szerinti játékadó összegét, majd a külön jogszabályokban előírt fizetési kötelezettségek teljesítése után fennmaradó, (1)–(5) bekezdés szerint fizetendő játékadók együttes összegéből jogosult levonni az általa megfizetett – a sportról szóló törvényben meghatározott – vagyoni értékű jog felhasználási szerződés szerinti ellenértékének időarányos összegét.”
+
+(2) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 37. § 2.1. pontja helyébe a következő rendelkezés lép:
+
+„2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel csökkentett összege, kivéve ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik.”
 
 #### 2. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-2. §
+2. § Az adózás rendjéről szóló 2003. évi XCII. törvény 22/E. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) Mentes az (1)–(5) bekezdés szerinti kötelezettség alól
+
+a) az adózó, ha az általa feladott vagy részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó nem kockázatos termékek tömege a 2500 kg-ot vagy az adó nélküli értéke a 2 millió forintot nem haladja meg,
+
+b) az adózó, ha az általa feladott vagy részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó
+
+ba) kockázatos élelmiszer tömege a 200 kg-ot vagy az adó nélküli ellenértéke a 250 000 forintot,
+
+bb) egyéb kockázatos termék tömege az 500 kg-ot vagy az adó nélküli ellenértéke az 1 millió forintot
+
+nem haladja meg.”
 
 3–4. §
 
-5. §
+5. § Az adózás rendjéről szóló 2003. évi XCII. törvény 178. §-a a következő 51. ponttal egészül ki:
+
+(E törvény és – ha törvény másként nem rendelkezik – az adóról szóló jogszabályok alkalmazásában)
+
+„51. Átvevő: a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzése vagy belföldi értékesítése esetén, ha nem a címzett veszi át a terméket, vagy a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzéstől eltérő egyéb célból történő behozatala esetén a terméket a kirakodási (átvételi) helyen átvevő személy.”
 
 #### 3. A sportról szóló 2004. évi I. törvény módosítása
 
-6. §
+6. § A sportról szóló 2004. évi I. törvény 22. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.”
 
 #### 4. Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény módosítása
 

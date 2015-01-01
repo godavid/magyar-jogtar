@@ -97,7 +97,7 @@ kéri.
 
 (9) A (7) és (8) bekezdés rendelkezéseit a lakásszövetkezet esetén is megfelelően alkalmazni kell.
 
-(9a) Az ingatlan közigazgatási címének közterület-név változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja közterületenként 2 600 forint.
+(9a)
 
 (10) Az ingatlan-nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
 
@@ -142,7 +142,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
   - la) a Magyar Állam javára történő lakásvásárlással megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás,
   - lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
   - lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
-- m) az ingatlan közigazgatási címének közterületnév-változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja, ha az eljárás megindítására a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14. § (2) bekezdésébe foglalt tilalomba ütközés miatti közterületnév-változás miatt kerül sor;
+- m)
 - n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
 - o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
 - p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése.

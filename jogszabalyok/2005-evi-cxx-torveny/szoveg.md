@@ -188,12 +188,12 @@ Színházi cipész
 
 (4) A (2) bekezdésben említett összeghatár
 
-- a) évi 25 millió forint, feltéve, hogy a magánszemély (1) bekezdés a) pontjában említett jövedelme az adóévben eléri az év első napján érvényes havi minimálbér 12-szeresét,
-- b) az a) pontban meghatározott feltétel hiányában az évi 25 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
-- c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 25 millió forint,
+- a) évi 60 millió forint, feltéve, hogy a magánszemély (1) bekezdés a) pontjában említett jövedelme az adóévben eléri az év első napján érvényes havi minimálbér 12-szeresét,
+- b) az a) pontban meghatározott feltétel hiányában az évi 60 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
+- c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 60 millió forint,
 - d) az a)–b) pontokban említett összeghatár helyett
-  - da) évi 100 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
-  - db) évi 50 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya) azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
+  - da) évi 125 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
+  - db) évi 125 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya) azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
 (5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
 

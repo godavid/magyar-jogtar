@@ -116,6 +116,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (16) Értesítési cím bejelentése: az értesítési cím nyilvántartásba vételének első alkalommal történő igénylése, a bejelentett értesítési cím megújítása, megváltoztatásának vagy törlésének kérése.
 
+(17) Központi címregiszter: az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben meghatározott nyilvántartás.
+
 ### II. Fejezet — A nyilvántartás szervezete, hatásköri és illetékességi szabályai
 
 6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző), fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, a fővárosi és megyei kormányhivatal és a nyilvántartást kezelő központi szerv (a továbbiakban: központi szerv) látja el.
@@ -182,7 +184,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - a) a személyazonosító igazolvány adatlapokat és fényképeket, a lakcímbejelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat, valamint az értesítésicím-bejelentőlapot;
 - b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgároknak a nyilvántartással kapcsolatos bejelentéseit, illetőleg nyilatkozatait tartalmazó iratokat;
 - c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, az abból való törléssel, adatszolgáltatási korlátozással, adatváltozással, adathelyesbítéssel kapcsolatos alapiratokat, az anyakönyvi alapiratok kivételével;
-- d) a területszervezési, közigazgatás-szervezési, címváltozási iratokat.
+- d) a 2015. január 1. napját megelőzően keletkezett területszervezési, közigazgatás-szervezési, címváltozási iratokat.
 
 (4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját, továbbá a magyar állampolgárság megszűnésének tényét és időpontját lehet átvezetni.
 
@@ -257,8 +259,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) az idegenrendészeti hatóság és a menekültügyi hatóság által továbbított, a nyilvántartásba vételhez szükséges adatok;
 - e) a konzuli szolgálat konzuli tisztviselőjének az értesítése;
 - f)
-- g) a területszervezési intézkedést kihirdető jogszabály;
-- h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés (az illetékes önkormányzat hatáskörébe tartozó területszervezési, közterület-elnevezési és házszámváltozási döntésekről);
+- g) a címek tekintetében a központi címregiszterből automatikus adatátvétel;
+- h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés a g) pontba nem tartozó, de a címnyilvántartás részét képező adatok vonatkozásában;
 - i) a polgár értesítési címének bejelentése;
 - j) a polgár adatai letiltására vagy helyesbítésére vonatkozó kérelme;
 - k) a jegyző, a járási hivatal, a fővárosi és megyei kormányhivatal, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
@@ -412,7 +414,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 - e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
-- g)
+- g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
 - h) a Központi Statisztikai Hivatal a statisztikáról szóló 1993. évi XLVI. törvényben meghatározott feladatai ellátásához;
 - i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
 - j) az egyes fontos tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvény 5. §-ában meghatározott bizottság, az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
@@ -423,7 +425,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
 - p) a gondnokoltak nyilvántartásában és az előzetes jognyilatkozatok nyilvántartásában szereplő természetes személyek adatainak egyeztetése céljából az Országos Bírósági Hivatal elnöke;
 - q) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben,
-- r) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével a hallgatói hitelrendszert működtető szervezet a hallgatói hitel folyósításával, visszafizetésével és a célzott kamattámogatás igényléséhez szükséges igazolások kiadásával összefüggő feladatai ellátásához;
+- r) az út- és úthasználati díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
 - t) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-felügyeleti információs rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához.
 
@@ -445,7 +447,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - b) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv a nyilvántartás vezetéséhez;
 - c) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére adatszolgáltatásra kötelezett szerv, adatszolgáltatási feladatai teljesítéséhez.
 
-24. § (1) A bíróság, az ügyészség és a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, a nyomozó hatóságok, valamint a rendőrség bűnüldözési tevékenységük ellátásához, a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi tervezéshez, továbbá az állampolgársági ügyekért felelős miniszter, az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához, az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont], továbbá a szabálysértési hatóság a szabálysértési eljárás, a rendőrség az előkészítő eljárás lefolytatásához a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m) és p) pont] igénylésére jogosultak.
+24. § (1) A bíróság, az ügyészség és a nemzetbiztonsági szolgálatok a feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén, – a nyomozó hatóságok, valamint a rendőrség bűnüldözési tevékenységük ellátásához, a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi tervezéshez, a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzéséhez, az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához, illetve az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont], továbbá a szabálysértési hatóság a szabálysértési eljárás, a rendőrség a szabálysértési eljárásról szóló törvény szerinti előkészítő eljárás lefolytatásához, valamint a Büntetés-végrehajtás Országos Parancsnoksága, a javítóintézet és a pártfogó felügyelői szolgálat a büntetés vagy intézkedés végrehajtásának biztosítása érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m) és p) pont] igénylésére jogosultak.
 
 (2) A személyazonosításra alkalmas hatósági igazolvány kiadási eljárásban – személyazonosítás céljára – az eljáró hatóság jogosult a polgár arcképmásának és saját kezű aláírásának megismerésére, illetőleg igénylésére.
 
@@ -566,7 +568,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 ### Címnyilvántartás
 
-28/A. § (1) A nyilvántartás szervei a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezelik a települési önkormányzatok jegyzői által megállapított és nyilvántartásba vett települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (továbbiakban: címnyilvántartás).
+28/A. § (1) A nyilvántartás központi szerve a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezeli a települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (a továbbiakban: címnyilvántartás).
 
 (2) A címnyilvántartás tartalmazza
 
@@ -575,7 +577,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - c) a postai irányítószámot;
 - d) a közterület nevét és jellegét;
 - e) a ház számát, ezen belül az épület, lépcsőház, szint, emelet és ajtó számát, illetve megjelölését;
-- f) az ingatlan helyrajzi számát;
+- f) az ingatlan elhelyezkedését leíró címkoordinátát, valamint a 2015. január 1. napját megelőzően keletkezett címek esetén a helyrajzi számot;
 - g) az ingatlan jellegét, technikai azonosítóját;
 - h) a szállásadó nyilatkozatát a lakcímbejelentéshez történő hozzájárulásának módjáról;
 - i) a szállásadó nyilatkozattételének időpontját;
@@ -593,13 +595,15 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (6) A járási hivatal a szállásadó nyilatkozattételi jogosultságának fennállását az ingatlan-nyilvántartásba történő betekintéssel ellenőrzi.
 
-(7) A jegyző állapítja meg az illetékességi területén lévő települési címeket.
+(7) A (2) bekezdés a)–f) pontjában meghatározott címelemek a központi címregiszterből történő, folyamatos, automatikus adatátvétel útján a nyilvántartás részévé válnak.
 
-(8) A címmegállapítást a jegyző a közterület elnevezéséről, valamint a települések szétválásáról és egyesüléséről, továbbá a területátcsatolásról hozott helyi önkormányzati képviselő-testületi határozat és a telekalakítási eljárás lefolytatására hatáskörrel rendelkező ingatlanügyi hatóság vagy építésügyi hatóság ezen eljárásában hozott határozata alapján végzi.
+(8) A (2) bekezdés g) pontjában foglalt adatok címnyilvántartásba vételéről a jegyző gondoskodik.
+
+(9) A (2) bekezdés h)–n) pontjában foglalt adatok tekintetében a nyilvántartásba vételről a járási hivatal gondoskodik.
 
 28/B. § (1) A nyilvántartás szervei az igényelt adatok körét megjelölő kérelmező részére a felhasználás céljának és jogalapjának igazolása nélkül adatszolgáltatást teljesítenek a címnyilvántartás 28/A. § (2) bekezdés a)–f) pontjában meghatározott adatairól.
 
-(2) A bíróság és a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, valamint a nyomozó hatóságok és az ügyészség a bűncselekmények megelőzése, felderítése és büntetőeljárás lefolytatása céljából a címnyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+(2) A bíróság és a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, valamint a nyomozó hatóságok és az ügyészség a bűncselekmények megelőzése, felderítése és büntetőeljárás lefolytatása, valamint a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából a címnyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (3) A szabad mozgás és tartózkodás jogával rendelkező személy első, a Magyarország területén lévő lakóhelyének bejelentése során az eljáró hatóság a címnyilvántartásban közvetlen hozzáférés útján ellenőrzi a bejelentett címet, valamint a szállásadó lakcímbejelentéshez történő hozzájárulásának módjáról tett nyilatkozatát.
 

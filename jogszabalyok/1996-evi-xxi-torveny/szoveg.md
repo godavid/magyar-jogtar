@@ -233,7 +233,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
   - bc) monitoring bizottság vagy más döntéshozó szerv útján közreműködik a területi operatív programok irányításában, megvalósításuk végrehajtásában,
   - bd) figyelemmel kíséri az operatív programok megyében vagy a fővárosban jelentkező feladatainak megvalósítását, beleértve a megyehatáron átnyúló és más nemzetközi programok végrehajtását a megyei jogú városok önkormányzata és a fővárosi kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével,
   - be) más megyei önkormányzatokkal és az államigazgatási szervekkel közösen, monitoring bizottság vagy más döntéshozó szerv útján közreműködik a határon átnyúló nemzetközi fejlesztési programok irányításában, részt vesz azok lebonyolításában, végrehajtásában,
-  - bf) dönt a Kutatási és Innovációs Alap felett rendelkezési jogot gyakorló miniszternek a Kutatási és Innovációs Alap megyei önkormányzat hatáskörébe utalt pénzeszközeinek felhasználásáról,
+  - bf) dönt a Nemzeti Kutatási, Fejlesztési és Innovációs Alapból a megyei önkormányzat hatáskörébe utalt pénzeszközök felhasználásáról,
   - bg) a megye gazdaságának és foglalkoztatásának fellendítése érdekében gazdaságfejlesztési, befektetés ösztönző tevékenységet lát el, aminek elősegítése érdekében külön szervezetet hozhat létre vagy megállapodás alapján más szervezettel működhet együtt;
 - c) a területfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében:
   - ca) összehangolja illetékességi területén az államigazgatási szervek, a települési vagy kerületi önkormányzatok, a megyei jogú város önkormányzata, a gazdasági és civil szervezetek fejlesztési elképzeléseit,

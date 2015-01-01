@@ -76,7 +76,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 36a. közszolgáltatási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül az ingatlanhasználók részére az adott hulladékgazdálkodási közszolgáltatást ugyanaz a közszolgáltató végzi;
 - 37. közszolgáltató: az a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező és a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint minősített nonprofit gazdasági társaság, amely a települési önkormányzattal kötött hulladékgazdálkodási közszolgáltatási szerződés alapján hulladékgazdálkodási közszolgáltatást lát el;
 - 38. közvetítő: olyan gazdálkodó szervezet – az egyéni vállalkozót, valamint az egyéni céget ide nem értve –, amely más nevében szervezi a hulladék hasznosítását vagy ártalmatlanítását, ideértve azt az esetet is, amikor a közvetítő nem lesz a hulladék tényleges birtokosa;
-- 38a. közvetítő szervezet: olyan nonprofit gazdasági társaságként működő közvetítő – az Országos Hulladékgazdálkodási Ügynökséget kivéve –, amely a hulladék hasznosítását vagy ártalmatlanítását nyilvántartásba vétel alapján szervezi;
+- 38a. közvetítő szervezet: olyan nonprofit gazdasági társaságként működő közvetítő – a környezetvédelmi termékdíjról szóló törvény szerinti, a termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő, valamint az egyes gyűjtési és hasznosítási célok elérését szolgáló szervezetet kivéve –, amely a hulladék hasznosítását vagy ártalmatlanítását nyilvántartásba vétel alapján szervezi;
 - 39. lomhulladék: az ingatlanhasználótól a közszolgáltató által a lomtalanítás során átvett olyan háztartási hulladék, amely a közszolgáltatás keretében rendszeresített gyűjtőedény méreteit meghaladja;
 - 40. megelőzés: az anyag vagy termék hulladékká válását megelőzően hozott olyan intézkedés, amely csökkenti
   - a) a hulladék mennyiségét, többek között a termékek újrahasználata vagy a termékek élettartamának meghosszabbítása révén,
@@ -230,7 +230,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 (4) A hulladékbirtokos a hulladékot a kezelésre történő elszállítás érdekében – amennyire az műszaki, környezetvédelmi és gazdasági szempontból megvalósítható – az ingatlanon, telephelyen elkülönítetten gyűjti. Az elkülönítetten gyűjtött hulladékot más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal összekeverni nem lehet.
 
-(5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta – így különösen a papír, fém, műanyag, üveg, biológiailag lebomló – vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a közszolgáltatónak vagy hulladékkezelőnek átadja.
+(5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a közszolgáltatónak vagy a hulladékkezelőnek átadja.
 
 #### 10. A hulladék kereskedelme, közvetítése, szállítása
 
@@ -434,9 +434,9 @@ kötheti.
 
 (2) A települési önkormányzat hulladékgazdálkodási közszolgáltatás ellátására csak 1 hulladékgazdálkodási közszolgáltatási szerződést köthet.
 
-(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal rendelkező gazdasági szereplővel köthet.
+(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak hulladékgazdálkodási közszolgáltatási engedéllyel, valamint minősítő okirattal rendelkező gazdasági szereplővel köthet.
 
-(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – a települési önkormányzatot és a magyar államot (a továbbiakban: állam) kivéve – valamennyien rendelkeznek hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal.
+(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a hulladékgazdálkodási közszolgáltatási engedéllyel, valamint minősítő okirattal nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – a települési önkormányzatot és a magyar államot (a továbbiakban: állam) kivéve – valamennyien rendelkeznek hulladékgazdálkodási közszolgáltatási engedéllyel, valamint minősítő okirattal.
 
 (5) A hulladékgazdálkodási közszolgáltatási szerződésnek legalább az alábbiakat kell tartalmaznia:
 
@@ -451,17 +451,19 @@ kötheti.
 
 (8) A hulladékgazdálkodási közszolgáltatás teljesítése törvényben vagy kormányrendeletben meghatározott esetekben szüneteltethető vagy korlátozható, valamint az ingatlanhasználó kérésére önkormányzati rendeletben meghatározott esetekben szüneteltethető.
 
-(9) A lakosság tájékoztatása érdekében a hulladékgazdálkodási közszolgáltatási szerződés közzétételéről az OHÜ a honlapján, a települési önkormányzat a helyben szokásos módon gondoskodik.
+(9) A lakosság tájékoztatása érdekében a hulladékgazdálkodási közszolgáltatási szerződést az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni. A települési önkormányzat a közszolgáltatási szerződés közzétételről a helyben szokásos módon gondoskodik.
 
-35. § A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
+35. § (1) A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
 
 - a) a hulladékgazdálkodási közszolgáltatás tartalmát, a közszolgáltatási terület határait;
-- b) a közszolgáltató tagjai, illetve az alvállalkozó által végzett hulladékgazdálkodási tevékenységet, továbbá a tagoknak, illetve az alvállalkozónak a hulladékgazdálkodási közszolgáltatás egészéhez viszonyított arányát, ha a hulladékgazdálkodási közszolgáltatást a közszolgáltató több tagja, illetve alvállalkozó végzi;
+- b) a közszolgáltató tagjai, illetve az alvállalkozó által végzett hulladékgazdálkodási tevékenységet, továbbá a tagoknak, illetve az alvállalkozónak a közszolgáltatás egészéhez viszonyított arányát, ha a közszolgáltatást a közszolgáltató több tagja, illetve alvállalkozó végzi;
 - c) a hulladékgazdálkodási közszolgáltatás ellátásának rendjét és módját, a közszolgáltató és az ingatlanhasználó ezzel összefüggő jogait és kötelezettségeit, valamint a hulladékgazdálkodási közszolgáltatási szerződés egyes tartalmi elemeit;
 - d) a hulladékgazdálkodási közszolgáltatás igénybevételének miniszteri rendeletben nem szabályozott módját és feltételeit;
-- e) az ingatlanhasználót terhelő, miniszteri rendeletben nem szabályozott díjfizetési kötelezettséget, megfizetésének rendjét, az esetleges kedvezmények, továbbá a hulladékgazdálkodási közszolgáltatás ingatlanhasználó kérésére történő szüneteltetésének eseteit;
-- f) az üdülőingatlanok esetében végzett hulladékgazdálkodási közszolgáltatásra vonatkozó részletes szabályokat;
+- e) az ingatlanhasználót terhelő, miniszteri rendeletben nem szabályozott díjfizetési kötelezettséget, megfizetésének rendjét, az esetleges kedvezmények, továbbá az ingatlanhasználó részéről történő szüneteltetés eseteit;
+- f) az üdülőingatlanokra vonatkozó sajátos szabályokat;
 - g) a hulladékgazdálkodási közszolgáltatással összefüggő személyes adatok (a természetes személyazonosító adatok, valamint a lakcím) kezelésére vonatkozó rendelkezéseket.
+
+(2) A települési önkormányzat gondoskodik az elkülönített hulladékgyűjtési rendszer helyi feltételeinek megszervezéséről.
 
 36. § (1) A települési önkormányzatok hulladékgazdálkodási feladataik ellátása érdekében egymással társulhatnak. A társulás tartalmát és feltételeit a helyi önkormányzatok társulásaira vonatkozó jogszabályok keretei között társulási megállapodásban állapítják meg.
 
@@ -474,7 +476,7 @@ kötheti.
 - a) a hulladékgazdálkodási közszolgáltatás ellátása során a környezet védelmére vonatkozó jogszabályok vagy a rá vonatkozó hatósági döntés előírásait súlyosan megsértette, és ennek tényét a bíróság vagy a hatóság jogerősen megállapította,
 - b) a szerződésben megállapított kötelezettségét neki felróható módon súlyosan megsértette.
 
-(1a) A hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat felmondja, ha a közszolgáltató nem rendelkezik érvényes hulladékgazdálkodási közszolgáltatási engedéllyel vagy az OHÜ által kiállított minősítő okirattal.
+(1a) A hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat felmondja, ha a közszolgáltató nem rendelkezik érvényes hulladékgazdálkodási közszolgáltatási engedéllyel vagy minősítő okirattal.
 
 (2) A felmondási idő legfeljebb 6 hónap. A felmondási idő alatt a közszolgáltató a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
 
@@ -496,7 +498,7 @@ kötheti.
 
 (3) A gazdálkodó szervezet ingatlanhasználó a közszolgáltató felhívására a közhiteles nyilvántartás szerinti nevét, székhelyének, telephelyének címét, adószámát, a természetes személy ingatlanhasználó a személyes adatai közül a családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét megadja.
 
-39. § (1) Az ingatlanhasználó az érintett ingatlan területén képződő települési hulladékot gyűjti, és azt – a (2) és (3) bekezdésben foglalt kivétellel – a közszolgáltatónak rendszeres időközönként átadja.
+39. § (1) Az ingatlanhasználó az érintett ingatlan területén képződő települési hulladékot elkülönítetten gyűjti, és azt – a (2) és (3) bekezdésben foglalt kivétellel – a közszolgáltatónak rendszeres időközönként átadja.
 
 (2) A természetes személy ingatlanhasználó a települési hulladék részét képező elkülönítetten gyűjtött hulladékot – kormányrendeletben, miniszteri rendeletben vagy a települési önkormányzat (Budapesten a fővárosi önkormányzat) rendeletében meghatározott feltételek szerint – hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy a közszolgáltatás körébe tartozó hulladékot kezelő hulladékkezelő létesítménybe szállíthatja, és ott a jogosultnak átadhatja vagy gyűjtőedényben elhelyezheti. E jogot a természetes személy ingatlanhasználó csak úgy gyakorolhatja, ha a hulladékgazdálkodási közszolgáltatási díjat a közszolgáltató részére megfizette.
 
@@ -504,7 +506,7 @@ kötheti.
 
 (4) Ha az ingatlanhasználó a zöldhulladék komposztálásáról saját maga nem gondoskodik, a zöldhulladékot elkülönítetten gyűjti, és a közszolgáltatónak úgy adja át, hogy a zöldhulladék komposztálhatósága, illetve lebontása biztosítható legyen.
 
-(5) Önkormányzati rendelet az ingatlanhasználót kötelezheti a települési hulladék meghatározott anyagfajta – így különösen a papír, fém, műanyag, építési-bontási, illetve üveg – vagy hulladéktípusok szerinti elkülönített gyűjtésére.
+(5) Önkormányzati rendelet a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározottakon túl az ingatlanhasználót kötelezheti a települési hulladék további anyagfajta vagy hulladéktípus szerinti elkülönített gyűjtésére.
 
 40. § (1) A gyűjtőedénybe helyezett települési hulladék – a 43. § (1) bekezdésében meghatározott kivétellel – a hulladéktermelő tulajdonát képezi addig, amíg az a közszolgáltató birtokába kerül.
 
@@ -520,7 +522,7 @@ kötheti.
 
 (3) A közszolgáltató a hulladékgazdálkodási közszolgáltatási szerződésben meghatározott, továbbá a (2) bekezdés szerinti célok elérése érdekében a hulladékgazdálkodási közszolgáltatás ellátására – a közbeszerzési eljárás lefolytatása esetén a közbeszerzésekről szóló törvény előírásainak megfelelően – alvállalkozót vehet igénybe.
 
-(4) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult közszolgáltató külön kormányrendeletben meghatározott összegben környezetvédelmi biztosítást köt vagy céltartalékot képez, és ennek tényét a környezetvédelmi hatóságnak, valamint az OHÜ-nek igazolja.
+(4) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult közszolgáltató külön kormányrendeletben meghatározott összegben környezetvédelmi biztosítást köt vagy céltartalékot képez, és ennek tényét a környezetvédelmi hatóságnak igazolja.
 
 42. § (1) A hulladékgazdálkodási közszolgáltatás keretében a közszolgáltató:
 
@@ -542,6 +544,14 @@ kötheti.
 
 (2) A lomtalanítás során közterületre helyezett hulladék a közszolgáltató tulajdonát képezi.
 
+(3) Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy
+
+- a) legalább a települési papír-, üveg-, műanyag, fém- és zöldhulladék elkülönített gyűjtése biztosított legyen;
+- b) a házhoz menő gyűjtés minél több fajtájú és jellegű települési hulladék esetében biztosított legyen;
+- c) a lomhulladék átvételének, összegyűjtésének és elszállításának megszervezése biztosított legyen;
+- d) a települési hulladék hulladékgyűjtő szigeten történő elhelyezése csak kiegészítő megoldásként, elsősorban olyan sűrűn lakott településrészeken legyen alkalmazható, ahol az elkülönítetten gyűjtött háztartási hulladék házhoz menő gyűjtése és elszállítása nem biztosítható;
+- e) a hulladékgyűjtő udvarban a lehető legtöbb típusú, fajtájú és jellegű települési hulladék átvételéről tudjon gondoskodni.
+
 44. § (1) A közszolgáltató évente legalább 1 alkalommal gondoskodik a lomtalanítás megszervezéséről és a lomtalanítás során a közszolgáltatónak átadott vagy közterületre helyezett lomhulladék átvételéről, összegyűjtéséről, elszállításáról.
 
 (2) A közszolgáltató törekszik arra, hogy az elkülönített hulladékgyűjtési rendszert több hulladékáramra kialakítsa, és azt, valamint a lomtalanítást házhoz menő gyűjtésként szervezze meg.
@@ -555,7 +565,7 @@ kötheti.
 - a) a települési önkormányzat a hulladékgazdálkodási közszolgáltatási szerződésben meghatározott kötelezettségét – a közszolgáltató felszólítása ellenére – súlyosan megsérti, és ezzel a közszolgáltatónak kárt okoz, vagy akadályozza a hulladékgazdálkodási közszolgáltatás teljesítését; vagy
 - b) a hulladékgazdálkodási közszolgáltatási szerződés megkötését követően hatályba lépett jogszabály a hulladékgazdálkodási közszolgáltatási szerződés tartalmi elemeit úgy változtatja meg, hogy az a közszolgáltatónak a hulladékgazdálkodási közszolgáltatás szerződésszerű teljesítése körébe tartozó lényeges és jogos érdekeit jelentős mértékben sérti.
 
-(3) A hulladékgazdálkodási közszolgáltatási szerződés megszűnése vagy megszüntetése esetén, továbbá ha a közszolgáltató nem rendelkezik hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal, a közszolgáltató az új közszolgáltató kiválasztásáig, de legfeljebb 6 hónapig a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
+(3) A hulladékgazdálkodási közszolgáltatási szerződés megszűnése vagy megszüntetése esetén, továbbá ha a közszolgáltató nem rendelkezik hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal, a közszolgáltató az új közszolgáltató kiválasztásáig, de legfeljebb 6 hónapig a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
 
 (4) Ha a hulladékgazdálkodási szerződést a közszolgáltató felmondja, a települési önkormányzat haladéktalanul gondoskodik az új közszolgáltató kiválasztásáról.
 
@@ -578,7 +588,7 @@ kötheti.
 
 47/A. § (1) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
 
-(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a miniszter részére minden év szeptember 30-ig megküldi.
+(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint küldi meg a miniszter részére.
 
 (3) A hulladékgazdálkodási közszolgáltatási díjat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy 45 napon belül tegye meg javaslatát.
 
@@ -644,10 +654,10 @@ kötheti.
 
 (2) A közszolgáltató az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
 
-- a) az OHÜ által kiállított minősítő okiratot,
+- a) a minősítő okiratot,
 - b) az alkalmazott hulladékgazdálkodási közszolgáltatási díjakat,
 - c) a közszolgáltatási területre vonatkozó adatokat,
-- d) a közszolgáltatói hulladékgazdálkodási tervet,
+- d)
 - e) a lomtalanítással kapcsolatos adatokat, információkat, valamint
 - f) az alvállalkozóra vonatkozó közérdekű adatokat – ha a közszolgáltató alvállalkozót alkalmaz –
 - g) az általa megkötött hulladékgazdálkodási közszolgáltatási szerződést és annak módosítását
@@ -791,7 +801,7 @@ tarthatja nyilván.
 
 #### 29. Hulladéklerakási járulék
 
-68. § (1) A hulladéklerakó üzemeltetője, illetve a (2) bekezdésben meghatározott ártalmatlanítási művelet végzője (a továbbiakban együtt: járulékfizetésre kötelezett) a hulladéklerakás csökkentése, valamint az e törvényben meghatározott hasznosítási arányok teljesítése érdekében hulladéklerakási járulékot fizet. A hulladéklerakási járulék nem áthárítható.
+68. § (1) A hulladéklerakó üzemeltetője, illetve a (2) bekezdésben meghatározott ártalmatlanítási művelet végzője (a továbbiakban együtt: járulékfizetésre kötelezett) a hulladéklerakás csökkentése, valamint az e törvényben meghatározott hasznosítási arányok teljesítése érdekében hulladéklerakási járulékot fizet. A hulladéklerakási járulék adók módjára behajtandó köztartozás. A hulladéklerakási járulék nem áthárítható.
 
 (2) A hulladéklerakási járulékot a 2. mellékletben meghatározott D1, D2, D3, D4, D5 és D12 kóddal ellátott ártalmatlanítási művelet után kell befizetni az 5. mellékletben meghatározott hulladékfajta, -jelleg, illetve -típus esetében és számítási mód szerint. A hulladéklerakási járulék megfizetésének kötelezettsége az 5. mellékletben meghatározott hulladék lerakásával keletkezik.
 
@@ -822,6 +832,8 @@ vonatkozó adatokat.
 (3) A járulékfizetésre kötelezett által megfizetett összeget – ha az összes tartozásnál kisebb – sorrendben (ezen belül nemenként a legrégebbi tartozástól kezdve) az adóbírságra, a mulasztási bírságra, azt követően a késedelmi pótlékra, végül a hulladéklerakási járulék tartozásra kell elszámolni.
 
 (4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon környezetvédelmi hatóságot kell érteni.
+
+(4a) A környezetvédelmi hatóság megkeresésére a hulladéklerakási járulék adók módjára való behajtása érdekében az adóhatóság jár el.
 
 (5) A járulékfizetésre kötelezettnek nem kell hulladéklerakási járulékot fizetni, ha
 
@@ -897,9 +909,9 @@ részére adhatók át.
 
 #### 31. Az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program
 
-73. § (1) Az OHÜ a hulladékgazdálkodás stratégiai célkitűzéseinek, az e törvényben megállapított célok elérésének, továbbá az alapvető hulladékgazdálkodási elvek érvényesítésének érdekében elkészíti az Országos Hulladékgazdálkodási Tervet (a továbbiakban: OHT), és annak részeként az Országos Megelőzési Programot (a továbbiakban: OMP).
+73. § (1) A környezetvédelmi igazgatási szerv a hulladékgazdálkodás stratégiai célkitűzéseinek, az e törvényben megállapított célok elérésének, továbbá az alapvető hulladékgazdálkodási elvek érvényesítésének érdekében elkészíti az Országos Hulladékgazdálkodási Tervet (a továbbiakban: OHT), és annak részeként az Országos Megelőzési Programot (a továbbiakban: OMP).
 
-(2) Az OHT és az OMP kidolgozásakor az OHÜ, a környezetvédelmi hatóság, valamint a helyi önkormányzatok – szükség esetén – együttműködnek az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
+(2) Az OHT és az OMP kidolgozásakor a környezetvédelmi igazgatási szerv, a környezetvédelmi hatóság, valamint a helyi önkormányzatok – szükség esetén – együttműködnek az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
 
 (3) Az OHT-t és az OMP-t a környezetvédelemért felelős miniszter terjeszti a Kormány elé.
 
@@ -907,7 +919,7 @@ részére adhatók át.
 
 #### 32. A területi hulladékgazdálkodási tervek és a területi megelőzési programok
 
-74. § (1) Az OHÜ a hulladékgazdálkodási tervekre és a megelőzési programokra vonatkozó részletes szabályokról szóló kormányrendeletben megjelölt területre területi hulladékgazdálkodási tervet, és annak részeként területi megelőzési programot készít.
+74. § (1) A környezetvédelmi igazgatási szerv a hulladékgazdálkodási tervekre és a megelőzési programokra vonatkozó részletes szabályokról szóló kormányrendeletben megjelölt területre területi hulladékgazdálkodási tervet, és annak részeként területi megelőzési programot készít.
 
 (2) A területi hulladékgazdálkodási terveket és a területi megelőzési programokat a környezetvédelemért felelős miniszter hagyja jóvá.
 
@@ -915,13 +927,13 @@ részére adhatók át.
 
 75. § (1) Az OHT-t, az OMP-t, valamint a területi hulladékgazdálkodási terveket és a területi megelőzési programokat – a tervezési területre vonatkozó környezetvédelmi programokban, a területfejlesztési koncepciókban és programokban, a településfejlesztési koncepcióban és integrált településfejlesztési stratégiában, valamint terület- és településrendezési tervekben foglaltakkal összhangban – 7 évre kell elkészíteni.
 
-(2) Az OHÜ az OHT, az OMP, valamint a területi hulladékgazdálkodási tervek és a területi megelőzési programok készítésébe a tervezési területen működő helyi önkormányzatokat, érdek-képviseleti és környezetvédelmi civil szervezeteket, továbbá a területen illetékességgel rendelkező hatóságokat, valamint környezetvédelmi igazgatási szerveket bevonja.
+(2) A környezetvédelmi igazgatási szerv az OHT, az OMP, valamint a területi hulladékgazdálkodási tervek és a területi megelőzési programok készítésébe a tervezési területen működő helyi önkormányzatokat, érdek-képviseleti és környezetvédelmi civil szervezeteket, továbbá a területen illetékességgel rendelkező hatóságokat, valamint környezetvédelmi igazgatási szerveket bevonja.
 
 (3) Az OHT, az OMP, valamint a területi hulladékgazdálkodási tervek és a területi megelőzési programok kidolgozását, egyeztetését, elfogadását a hulladékgazdálkodási tervekre és a megelőzési programokra vonatkozó részletes szabályokról szóló kormányrendelet szerint kell elvégezni.
 
-(4) Az OHÜ az OHT-t, az OMP-t, valamint a területi hulladékgazdálkodási terveket és a területi megelőzési programokat a tervezési időszak negyedik évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a környezetvédelemért felelős miniszter elé terjeszti.
+(4) A környezetvédelmi igazgatási szerv az OHT-t, az OMP-t, valamint a területi hulladékgazdálkodási terveket és a területi megelőzési programokat a tervezési időszak negyedik évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a környezetvédelemért felelős miniszter elé terjeszti.
 
-(5) A beszámolóban az OHÜ bemutatja a tervezési területen képződő hulladék mennyiségére, a hulladékgazdálkodás helyzetére, a hulladékkezelő létesítmények állapotára, a kezelési kapacitásokra, a kezelés végzésére és az ezek környezeti hatásaira vonatkozó információkat, valamint ezek alapján ismerteti a tervezett intézkedések előrehaladását, az OHT és az OMP, valamint a területi hulladékgazdálkodási tervek és a területi megelőzési programok esetleges módosításának szükségességét.
+(5) A beszámolóban a környezetvédelmi igazgatási szerv bemutatja a tervezési területen képződő hulladék mennyiségére, a hulladékgazdálkodás helyzetére, a hulladékkezelő létesítmények állapotára, a kezelési kapacitásokra, a kezelés végzésére és az ezek környezeti hatásaira vonatkozó információkat, valamint ezek alapján ismerteti a tervezett intézkedések előrehaladását, az OHT és az OMP, valamint a területi hulladékgazdálkodási tervek és a területi megelőzési programok esetleges módosításának szükségességét.
 
 76. § (1) Az OHT-nek, valamint a területi hulladékgazdálkodási terveknek legalább az alábbiakat kell tartalmazniuk:
 
@@ -966,15 +978,9 @@ részére adhatók át.
 
 (3) Az OHT-ben, az OMP-ben, valamint a területi hulladékgazdálkodási tervekben és a területi megelőzési programokban foglaltakat a gazdaságpolitikai döntések kialakítása, továbbá a nemzetgazdaság bármely ágában megvalósuló állami tervezés és végrehajtási tevékenység, valamint a hatósági döntések meghozatala során lehetőség szerint érvényre kell juttatni.
 
-#### 34. A közszolgáltatói hulladékgazdálkodási terv
+#### 34.
 
-78. § (1) A hulladékgazdálkodási tervekben és a megelőzési programokban foglalt, valamint az e törvényben meghatározott megelőzési, hasznosítási és ártalmatlanítási célkitűzések megvalósíthatóságának biztosítása érdekében a közszolgáltató – legalább 3 évente – közszolgáltatói hulladékgazdálkodási tervet készít.
-
-(2) A közszolgáltató a közszolgáltatói hulladékgazdálkodási tervben bemutatja, hogy a közszolgáltatási területen a közszolgáltatás körébe tartozó hulladék átvételével, gyűjtésével, elszállításával és kezelésével, valamint az e törvényben meghatározott – hasznosításra, illetve ártalmatlanításra vonatkozó – célkitűzésekkel kapcsolatban milyen intézkedéseket tervez megtenni, azokat milyen módon, illetve eszközökkel kívánja végrehajtani.
-
-(3) A közszolgáltató a közszolgáltatói hulladékgazdálkodási tervet jóváhagyásra a környezetvédelmi hatóságnak megküldi.
-
-(4) A közszolgáltatói hulladékgazdálkodási tervet a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben előírt tartalommal kell elkészíteni.
+#### 78. §
 
 ### X. Fejezet — A HULLADÉKGAZDÁLKODÁSSAL KAPCSOLATOS EGYES HATÓSÁGI TEVÉKENYSÉGEK
 
@@ -1154,7 +1160,7 @@ jogsértés esetén nem mérsékelhető.
 
 88. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-- 1. a közszolgáltató hulladékgazdálkodási tevékenységét, a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint a közszolgáltatói hulladékgazdálkodási terv tartalmi követelményeit;
+- 1. a közszolgáltató hulladékgazdálkodási tevékenységét, a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit;
 - 2. a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladék képződésének megelőzésével, és a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit, valamint a Hulladékminősítő Bizottságra vonatkozó részletes szabályokat;
 - 4. a hulladékgazdálkodási tevékenységek nyilvántartásba vételével, engedélyezésével kapcsolatos előírásokat, valamint az engedélyek és a nyilvántartás tartalmi követelményeit;
@@ -1209,8 +1215,9 @@ jogsértés esetén nem mérsékelhető.
 - b) a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter, hogy
   - ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
   - bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
-  - bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
+  - bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
   - bd)
+  - be) a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének időpontjára, rendjére, módjára, tartalmára vonatkozó részletes szabályokat,
 
 rendeletben állapítsa meg.
 
@@ -1237,13 +1244,11 @@ rendeletben állapítsa meg.
 
 (3) A törvény hatálybalépésekor működő gazdálkodó szervezet, amely mellékterméket állít elő, vagy tevékenysége során melléktermék képződik, és az előállított vagy képződött anyagot, tárgyat melléktermékként használja fel, tárolja vagy forgalmazza, a melléktermék 8. § szerinti feltételeknek való megfeleléséről a melléktermék képződését vagy előállítását követő 6 hónapon belül tájékoztatja a környezetvédelmi hatóságot.
 
-(4) A törvény hatálybalépésekor működő hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezet a hulladékgazdálkodási közszolgáltatási engedélyt e törvény hatálybalépését követő 6 hónapon belül beszerzi.
-
-(5) Ha a törvény hatálybalépésekor működő hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezet hulladékgazdálkodási közszolgáltatási engedéllyel a (4) bekezdésben meghatározott határidőn belül nem rendelkezik, a települési önkormányzat a (4) bekezdésben meghatározott határidőt követő 30 napon belül a hulladékgazdálkodási közszolgáltatási szerződést 6 hónapos határidővel felmondja. A települési önkormányzat e kötelezettségét a fővárosi és megyei kormányhivatal törvényességi felügyeleti eljárás keretében vizsgálja.
+(4)–(5)
 
 (6)–(7)
 
-(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2014. július 1-ig megköti. Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és az OHÜ által kiállított minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.
+(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2014. július 1-ig megköti. Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.
 
 (9)
 
@@ -1251,7 +1256,7 @@ rendeletben állapítsa meg.
 
 (11) A 2. § (1) bekezdés 37. pontja szerinti közszolgáltatón kívül 2013. december 31-ig közszolgáltatónak kell tekinteni azt a hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezetet is, amely 2012. december 31-én hulladékgazdálkodási közszolgáltatást látott el, és azóta e tevékenységét folyamatosan végzi.
 
-91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét 2013. július 1-jétől 2014. december 31-éig az e §-ban foglalt eltérésekkel kell megállapítani.
+91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét a 88. § (3) bekezdés b) pont bb) alpontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig az e §-ban meghatározott eltérésekkel kell megállapítani.
 
 (2) A természetes személy ingatlanhasználó részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. április 14. napján alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegének 90 százalékát.
 
@@ -1295,7 +1300,7 @@ közszolgáltatási díjat kell tekinteni.
 
 (12)
 
-(13) A Hivatal a 47/A. § (2) bekezdése szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
+(13)
 
 91/A. § (1) Ha a hulladékgazdálkodási közszolgáltató az általa nyújtott közszolgáltatást közbeiktatott személy vagy szerződéses kapcsolati lánc (a továbbiakban együtt: közvetített szolgáltatás) útján juttatja el a természetes személy ingatlanhasználó, illetve jogszabály alapján vele egy díjkategóriába tartozó személy (a továbbiakban együtt: rezsicsökkentésre jogosult) részére, legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja.
 
@@ -1559,16 +1564,14 @@ i = hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jelleg
 
 - 2. A hulladék fajtánkénti egységára:
 
-3K63468M_1
-
-|  | Hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jellege, típusa (i) | Hulladéklerakási járulékfizetéssel érintett hulladék egységára évenként (Ft/tonna) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | 2013 | 2014 | 2015 | 2016* |
-|  | 1. települési hulladék, ideértve az előkezelt települési hulladékot is | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
-|  | 2. építési-bontási hulladék | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
-|  | 3. veszélyes hulladék | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
-|  | 4. települési szennyvíziszap | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
-|  | 5. a hulladékból előállított termék gyártása során képződött és tovább hasznosítható maradék hulladék | 2000 Ft | 4000 Ft | 6000 Ft | 8000 Ft |
-|  | 6. a hulladékból előállított termék gyártása során képződött és tovább nem hasznosítható maradék hulladék | 1500 Ft | 3000 Ft | 4500 Ft | 6000 Ft |
+|  | A | B |
+| --- | --- | --- |
+| 1 | Hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jellege, típusa | Hulladéklerakási járulékfizetéssel érintett hulladék egységára évenként (Ft/tonna) |
+| 2 | települési hulladék, ideértve az előkezelt települési hulladékot is | 6000 Ft |
+| 3 | építési-bontási hulladék | 6000 Ft |
+| 4 | veszélyes hulladék | 6000 Ft |
+| 5 | települési szennyvíziszap | 6000 Ft |
+| 6 | a hulladékból előállított termék gyártása során képződött és tovább hasznosítható maradék hulladék | 4000 Ft |
+| 7 | a hulladékból előállított termék gyártása során képződött és tovább nem hasznosítható maradék hulladék | 3000 Ft |
 
 * 2017. január 1-jétől a 2016. évre meghatározott hulladéklerakási járulékot kell megfizetni.

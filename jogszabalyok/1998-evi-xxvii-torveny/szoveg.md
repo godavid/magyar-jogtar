@@ -83,7 +83,7 @@ terjed ki.
 - c) a természetvédelemért felelős miniszter a környezetvédelem és a természetvédelem területéről egy-egy,
 - d) az egészségügyért felelős miniszter az egészségügy területéről egy,
 - e) az oktatásért felelős miniszter az oktatás területéről egy,
-- f) a kutatás-fejlesztésért és technológiai innovációért felelős miniszter egy,
+- f) Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke egy,
 - g) a környezetvédelmi céllal bejegyzett civil szervezetek közösen négy,
 - h) az egészségvédelmi és a fogyasztóvédelmi céllal bejegyzett civil szervezetek közösen egy-egy
 
@@ -93,11 +93,11 @@ képviselőt küldenek.
 
 (4) Nem lehetnek a Géntechnológiai Bizottság tagjai a minisztériumokkal kormányzati szolgálati jogviszonyban lévő személyek. A Géntechnológiai Bizottság tagjai géntechnológiai tevékenységben anyagilag sem közvetlenül, sem közvetve nem lehetnek érdekeltek. A tagok a Géntechnológiai Bizottság munkájában való részvétel előtt összeférhetetlenségi nyilatkozatot tesznek, amely a géntechnológiai hatóság honlapján közzétételre kerül.
 
-(5) A Géntechnológiai Bizottság ülésein a Bizottság meghívására tanácskozási joggal részt vehet a hasznosító is. A Bizottság működési feltételeiről a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel együttesen – a szakterületükön véleményezett ügyekkel arányosan – az agrárpolitikáért felelős miniszter gondoskodik, aki felkéri a tagokat a Bizottság működésében való részvételre.
+(5) A Géntechnológiai Bizottság ülésein a Bizottság meghívására tanácskozási joggal részt vehet a hasznosító is. A Bizottság működési feltételeiről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével, valamint az egészségügyért felelős miniszterrel együttesen – a szakterületükön véleményezett ügyekkel arányosan – az agrárpolitikáért felelős miniszter gondoskodik, aki felkéri a tagokat a Bizottság működésében való részvételre.
 
 (6) A Géntechnológiai Bizottság a tagjai közül titkos szavazással, egyszerű szótöbbséggel elnököt választ. Az elnök megbízatása két évre szól. A Bizottság munkáját a tagok közül választott titkár segíti. Az elnöki és a titkári tisztségek betöltésének időtartama nem haladhatja meg a négy évet.
 
-(7) A Géntechnológiai Bizottság szervezetére és működésére vonatkozó egyéb szabályokat e törvény felhatalmazása alapján kiadott jogszabály állapítja meg.
+(7) A Géntechnológiai Bizottság szervezetére és működésére vonatkozó egyéb szabályokat e törvény felhatalmazása alapján kiadott jogszabály állapítja meg. A jogszabály előkészítése során a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal véleményét ki kell kérni.
 
 ### Az engedélyezés általános szabályai
 
@@ -145,7 +145,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 – a természetes változása következtében kialakuló új hatást.
 
-(5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok elvégzésének költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit a szakterületüknek megfelelően a természetvédelemért, a kutatás-fejlesztésért és technológiai innovációért, az egészségügyért, valamint az oktatásért felelős miniszter által vezetett minisztérium költségvetési előirányzataiban kell biztosítani.
+(5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok elvégzésének költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit a szakterületüknek megfelelően a természetvédelemért, az egészségügyért, valamint az oktatásért felelős miniszter által vezetett minisztérium, továbbá a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal költségvetési előirányzataiban kell biztosítani.
 
 (6) A Géntechnológiai Bizottság a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.
 
@@ -556,7 +556,7 @@ esetén.
 
 (9) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben megállapítsa a védzáradéki eljárás alá vont termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek listáját és meghatározza a védzáradéki eljárás időtartamára szükséges biztonsági intézkedéseket.
 
-(10) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel, az oktatásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait.
+(10) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az oktatásért felelős miniszter és az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait.
 
 35. §
 

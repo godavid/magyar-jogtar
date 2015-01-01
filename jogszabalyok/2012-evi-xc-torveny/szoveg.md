@@ -83,7 +83,8 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 
 - a) az égéstermék-elvezető ellenőrzését, szükség szerinti tisztítását,
 - b) az égéstermék-elvezető műszaki felülvizsgálatát,
-- c)–d)
+- c) a tüzelőberendezés biztonságos működéséhez szükséges levegő utánpótlásának ellenőrzését, figyelembe véve a levegő utánpótlást befolyásoló műszaki berendezések, beavatkozások hatását is, valamint
+- d) az égéstermék paramétereinek ellenőrzését,
 - e) a vonatkozó műszaki követelményeknek megfelelő szén-monoxid érzékelő felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzését.
 
 (2) A közszolgáltató a közszolgáltatás keretében elvégzi az ingatlan tulajdonosa által megrendelt égéstermék-elvezetővel kapcsolatos kötelező műszaki vizsgálatokat. Az időlegesen használt ingatlanok esetében az ingatlan tulajdonosának megrendelésére időszakonként kell elvégezni az (1) bekezdés a)–e) pontjában foglaltakat.

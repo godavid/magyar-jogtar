@@ -74,7 +74,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 (2)
 
-(3)
+(3) Hatályát veszti a Gyvt. 15. § (7) bekezdés a) pontjában a „családgondozó, utógondozó,” szövegrész.
 
 #### 2. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 

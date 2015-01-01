@@ -157,7 +157,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 7. § (1) A mozgóképszakmai célok támogatása
 
 - a) a központi költségvetésből nyújtott költségvetési támogatás és a helyi önkormányzat, nemzetiségi önkormányzat által, saját költségvetéséből nyújtott támogatás (a továbbiakban együtt: közvetlen támogatás) és
-- b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben (a továbbiakban: Tao. tv.) meghatározott adókedvezményre tekintettel biztosított, valamint a Tao. tv.-ben meghatározott kiegészítő támogatásból származó forrásból nyújtott támogatás (a továbbiakban: közvetett támogatás)
+- b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben (a továbbiakban: Tao. tv.) meghatározott adókedvezményre, vagy rendelkezés alapján felajánlott adóra tekintettel biztosított, valamint a Tao. tv-ben meghatározott kiegészítő támogatásból származó forrásból nyújtott támogatás (a továbbiakban: közvetett támogatás)
 
 útján valósul meg.
 
@@ -430,7 +430,7 @@ az időpontja.
 
 (3) A Hatóság az ügyfelet, az eljárás egyéb résztvevőit, valamint azok megbízottait, alkalmazottait, illetve az ügyféllel és az eljárás egyéb résztvevőivel egyéb jogviszonyban állókat adatszolgáltatásra, illetve szóban vagy írásban adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására kötelezheti.
 
-(4) A Hatóság különösen indokolt esetben, ha egyéb bizonyítási eszköztől a tényállás tisztázása nem remélhető, a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E bekezdés szerinti végzés ellen az adatszolgáltatásra, bizonyítási eszközök átadására kötelezett a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Bíróság végzése ellen további jogorvoslatnak helye nincs.
+(4) A Hatóság különösen indokolt esetben, ha egyéb bizonyítási eszköztől a tényállás tisztázása nem remélhető, a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E bekezdés szerinti végzés ellen az adatszolgáltatásra, bizonyítási eszközök átadására kötelezett a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
 
 (5) Amennyiben a tényállás tisztázása azt szükségessé teszi, a Hatóság az ügyfelet nyilatkozattételre kötelezheti, e kötelezettség elmulasztása vagy nem megfelelő teljesítése esetében alkalmazható, 19/F. § szerinti jogkövetkezményekre történő figyelmeztetés mellett.
 
@@ -806,8 +806,8 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 - a) a filmalkotás végleges, az előkészítést, a forgatást és az utómunkálatokat is magában foglaló gyártási tervét,
 - b) megrendelésre készülő filmalkotás esetében a gyártásban részt vevő magyar vállalkozás és a külföldi filmelőállító (megrendelő) közötti szerződést, koprodukciós, vagy nemzetközi koprodukciós vagy egyéb nemzetközi koprodukciós filmalkotás esetében a koprodukciós szerződést,
 - c) nem megrendelésre készülő filmalkotás esetében a közvetlen filmgyártási költségek fedezetét igazoló okiratokat és a filmalkotás teljes költségvetését,
-- d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és a közvetett támogatás forrását biztosító szervezet által ellenjegyezve), pénzügyi tervét és finanszírozási tervét, és
-- e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás kiállítását.
+- d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és támogató által ellenjegyezve), pénzügyi tervét és finanszírozási tervét, és
+- e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás vagy a költségellenőrzésre irányuló eljárást lezáró határozat kiállítását.
 
 (3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hivatal a kérelmeket egy eljárás keretében bírálja el.
 
@@ -842,7 +842,7 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 
 ### A támogatási igazolás
 
-31/C. § (1) A Hivatal a 19. § (1) bekezdés f) pontja alapján a filmelőállítónak, illetve a filmgyártó vállalkozásnak a kérelmére költségellenőrzési eljárásban ellenőrzi a filmelőállító, illetve a filmgyártó vállalkozás által a filmalkotás tekintetében közvetlen filmgyártási költségként elszámolni kívánt költségeket, és határozatban állapítja meg a közvetlen filmgyártási költséget és a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító közvetett támogatás összegét.
+31/C. § (1) A Hivatal a 19. § (1) bekezdés f) pontja alapján a filmelőállítónak, illetve a filmgyártó vállalkozásnak a kérelmére költségellenőrzési eljárásban ellenőrzi a filmelőállító, illetve a filmgyártó vállalkozás által a filmalkotás tekintetében közvetlen filmgyártási költségként elszámolni kívánt költségeket, és határozatban állapítja meg a közvetlen filmgyártási költséget és a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító, valamint a Tao. tv. 24/A. § (3) bekezdés a) pontja szerint felajánlható közvetett támogatás összegét.
 
 (2) Az (1) bekezdés szerinti kérelemhez csatolni kell
 
@@ -852,11 +852,15 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 
 (2a) A filmelőállító vagy filmgyártó vállalkozás jogosult a költségellenőrzési eljárásra irányuló kérelmét naptári hónapok szerinti vagy naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják.
 
+(2b) A (2a) bekezdésben foglaltak alkalmazása esetén a költségellenőrzési eljárásban hozott határozatban szereplő összeg legfeljebb a költségellenőrzést lezáró határozat kiadásáig felmerült közvetlen filmgyártási költség 25%-áig terjedhet.
+
 (3) A Hivatal
 
 - a) a filmelőállító, illetve a filmgyártó vállalkozás önálló vagy együttes,
-- b) – a 31/D. § (7) bekezdésében foglalt esetben – az MNF, vagy
-- c) – ha az (1) bekezdés szerinti határozat jogerőre emelkedett és a filmelőállító, illetve a filmgyártó vállalkozás vagy az MNF azt nem kérte – a közvetett támogatás forrását biztosító szervezet kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki.
+- b) – a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító támogatás esetében – az MNF, vagy
+- c) – ha az (1) bekezdés szerinti határozat jogerőre emelkedett és a filmelőállító, illetve a filmgyártó vállalkozás vagy az MNF azt nem kérte – a közvetett támogatás forrását a Tao. tv. 22. § (3) bekezdése, illetve a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján – az MNF részére történő felajánlás kivételével – biztosító szervezet
+
+kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az MNF részére történő felajánlás formájában biztosítja, a Hivatal a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hivatal a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki. A Tao. tv. 24/A. § (16) bekezdés a) pontja szerinti igazolás kiállítására irányuló kérelemhez csatolni kell a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás közötti támogatási megállapodást.
 
 (4) A támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója nyilatkozatban vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében. A feltüntetés módját a társadalompolitika összehangolásáért felelős miniszter határozza meg.
 
@@ -871,27 +875,29 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 - a) a közvetett támogatás forrását biztosító szervezet megnevezését, székhelyét és adószámát,
 - b) a filmalkotás címét és nyilvántartási számát,
 - c) a kérelemben feltüntetett időszakot és a közvetlen filmgyártás költségeinek erre az időszakra eső összegét
-- d) a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító közvetett támogatás összegét.
+- d) a Tao. tv. 22. § (3) bekezdése és a Tao. tv. 24/A. § (3) bekezdés a) pontja szerinti adókedvezményre jogosító közvetett támogatás összegét.
 
 (7) Az MNF kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
 
-(8) Megrendelésre készülő filmalkotás esetén a filmgyártó vállalkozás kérelme alapján – ide nem értve a (7) bekezdés szerinti kérelem alapján kiadott támogatási igazolásokat – a támogatási igazoláson a filmelőállító is feltüntethető.
+(8) Megrendelésre készülő filmalkotás esetén a filmgyártó vállalkozás kérelme alapján – ide nem értve a (7) bekezdés szerinti kérelem alapján kiadott támogatási igazolásokat – a támogatási igazoláson és a költségellenőrzési eljárásban hozott határozatban a filmelőállító is feltüntethető.
 
-(9) A Hivatal a kiadott támogatási igazolásokkal összefüggésben birtokába került okiratokat az igazolás kiadásának évét követő tíz évig őrzi meg.
+(9) A Hivatal a kiadott támogatási igazolásokkal és a költségellenőrzési eljárásban hozott határozatokkal összefüggésben birtokába került okiratokat az igazolás kiadásának évét követő tíz évig őrzi meg.
 
-31/D. § (1) A Hivatal a támogatási igazolást – a (2) bekezdésben és a 31/C. § (3) bekezdés b) pontjában meghatározott kivétellel – a filmalkotás gyártásának lezárását követően, a filmalkotás közvetlen filmgyártási költségeinek egészére vonatkozóan adja ki. A filmalkotásra vonatkozó támogatási igazolás kiállításának feltétele, hogy a Hivatal jogerős hatósági határozatában megállapítsa a filmalkotás után járó közvetett támogatás igénybevételére vonatkozó jogosultságot.
+(10) A Hivatal a támogatási igazolással vagy a költségellenőrzési eljárással összefüggő döntését a filmelőállítón, illetve a filmgyártó vállalkozáson kívül szükséges esetben közli az állami adóhatósággal is. A Hivatal továbbá tájékoztatja az adóhatóságot a MNF letéti számlájára a Tao. tv. 22. § (3) bekezdése alapján befolyt közvetett támogatások összegéről.
+
+31/D. § (1) A Hivatal a támogatási igazolást, valamint a költségellenőrzési eljárást lezáró határozatot – a (2) bekezdésben és a 31/C. § (2a) és (3) bekezdés b) pontjában meghatározott kivétellel – a filmalkotás gyártásának lezárását követően, a filmalkotás közvetlen filmgyártási költségeinek egészére vonatkozóan adja ki. A filmalkotásra vonatkozó támogatási igazolás, valamint a költségellenőrzési eljárást lezáró határozat kiállításának feltétele, hogy a Hivatal jogerős hatósági határozatában megállapítsa a filmalkotás után járó közvetett támogatás igénybevételére vonatkozó jogosultságot.
 
 (2) A filmelőállító vagy filmgyártó vállalkozás jogosult a támogatási igazolás kiadására vonatkozó kérelmét naptári hónapok szerinti vagy naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják.
 
 (3) A (2) bekezdésben foglaltak alkalmazása esetén az egy-egy igazolásban szereplő összeg – ugyanazon filmhez a közvetett támogatás forrását biztosító több szervezet részére történő igazolás kiadása esetén az együttes összeg – legfeljebb az igazolás kiadásáig felmerült közvetlen filmgyártási költség 25%-áig terjedhet.
 
-(4) A 12. § (10) bekezdése szerinti arány teljesülése céljából a Hivatal a (2) bekezdés szerinti esetekben, a filmelőállító, illetve a filmgyártó vállalkozás kérelmére az utolsó pénzügyileg elszámolt időszak után záró elszámolást készít, amelyben figyelembe veszi az elszámolt költségek egészére tekintettel a 12. § (10) bekezdésében foglalt arányok érvényesíthetőségét, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekcióját, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költséget.
+(4) A 12. § (10) bekezdése szerinti arány teljesülése céljából a Hivatal a (2) bekezdés szerinti esetekben, a filmelőállító, illetve a filmgyártó vállalkozás kérelmére az utolsó pénzügyileg elszámolt időszak után záró elszámolást készít, amelyben figyelembe veszi az elszámolt költségek egészére tekintettel a 12. § (10) bekezdésében foglalt arányok érvényesíthetőségét, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekcióját, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költséget, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 25%-os mértékig történő kiegészítését, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek.
 
-(5) A Hivatal a támogatási igazolás kiadásakor ellenőrzi a 13. §-ban meghatározott támogatási arányok betartását, és azok túllépése esetén a jogellenesen kifizetett támogatási többletet a támogatási igazolásban meghatározott összegből levonja.
+(5) A Hivatal a támogatási igazolás vagy a költségellenőrzési eljárást lezáró határozat kiadásakor ellenőrzi a 13. §-ban meghatározott támogatási arányok betartását, és azok túllépése esetén a jogellenesen kifizetett támogatási többletet a támogatási igazolásban vagy a költségellenőrzési eljárásban hozott határozatban meghatározott összegből levonja.
 
-(6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, továbbá a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége érdekében. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
+(6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat vagy a költségellenőrzési eljárásokat lezáró határozatokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 25%-os mértékig történő kiegészítése érdekében, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-(7) A közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján a közvetett támogatás forrását a letéti számlára utalja. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
+(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget, mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
 
 - a) a 2013. évben a 9700,0 millió forintot,
 - b) a 2014. évben a 7000,0 millió forintot,
@@ -945,7 +951,7 @@ nem haladhatja meg.
 
 (6) A Hivatal indokolt esetben a hatósági ellenőrzést kiterjesztheti a közbenső szerződő felekre, illetve alvállalkozókra, valamint érintett jogviszonyaikra annak érdekében, hogy a hatósági ellenőrzés hatálya alá a szolgáltatás tényleges teljesítője is bevonható legyen.
 
-31/G. § (1) Az MNF által nyújtott támogatások esetén az MNF ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az MNF az Elnök rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az MNF haladéktalanul megküldi a Hivatal részére. A Hivatalt a 31/C. § (1) bekezdésében foglalt támogatási igazolás tárgyában hozott hatósági döntésének MNF által vizsgált részében az MNF által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.
+31/G. § (1) Az MNF által nyújtott támogatások esetén az MNF ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az MNF az Elnök rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az MNF haladéktalanul megküldi a Hivatal részére. A Hivatalt a 31/C. § (1) bekezdésében foglalt támogatási igazolás, valamint költségellenőrzési eljárás tárgyában hozott hatósági döntésének MNF által vizsgált részében az MNF által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.
 
 (2) Amennyiben a jegyzőkönyv tartalma nem felel meg a jogszabályokban foglalt feltételeknek, a Hivatal határidő tűzésével a jegyzőkönyv jogszabályoknak való megfelelőségét biztosító módosítására hívja fel az MNF-et. Ha a jegyzőkönyv a felhívás ellenére sem felel meg a jogszabályi rendelkezéseknek, a Hivatal a jegyzőkönyvet és annak tartalmát hatósági eljárásában és hatósági döntésében figyelmen kívül hagyja.
 
@@ -953,7 +959,7 @@ nem haladhatja meg.
 
 (4) A (1)–(3) bekezdésben foglaltakat kell alkalmazni, ha a közvetlen támogatást nyújtó – e rendelkezés alkalmazásában ideértve az MTVA-t is – az Elnök rendelete szerinti jegyzőkönyvet állít ki.
 
-31/H. § A támogatási jogosultság kiadása esetén a Hivatal az e tárgyban folytatott hatósági eljárást lezáró határozat jogerőre emelkedését követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal a támogatási igazolás kiállítására irányuló eljárást lezáró jogerős hatósági határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait.
+31/H. § A támogatási jogosultság kiadása esetén a Hivatal az e tárgyban folytatott hatósági eljárást lezáró határozat jogerőre emelkedését követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal a támogatási igazolás kiállítására vagy a költségellenőrzésre irányuló eljárást lezáró jogerős hatósági határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait.
 
 ### 6. CÍM — A Hivatal egyéb feladatai
 

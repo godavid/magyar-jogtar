@@ -938,7 +938,8 @@ vásárolhat villamos energiát.
 
 - a) a védendő fogyasztók szerződéseinek kivételével – a polgári jog szerinti szerződésszegés esetén;
 - b) a védendő fogyasztók külön jogszabályban meghatározott szerződésszegése esetén;
-- c) ha a vele szerződéses viszonyban álló felhasználó a villamosenergia-vételezését a felhasználási helyen megszüntette.
+- c) ha a vele szerződéses viszonyban álló felhasználó a villamosenergia-vételezését a felhasználási helyen megszüntette;
+- d) ha a rendszerhasználó nem rendelkezik érvényes villamosenergia-vásárlási szerződéssel.
 
 (4) A hálózati engedélyes részéről szerződésszegésnek minősül különösen, ha
 
@@ -2432,11 +2433,11 @@ finanszírozásához szükséges pénzügyi forrásokat.
 
 villamos energia képezi.
 
-(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,17 Ft/kWh.
+(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,21 Ft/kWh.
 
-(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,20 Ft/kWh.
+(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,13 Ft/kWh.
 
-(4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 1,71 Ft/kWh.
+(4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 2,08 Ft/kWh.
 
 (5) A 147. § (1) bekezdése szerinti pénzeszközök mértékét a következő évre várható finanszírozási igény és az elkülönített számla várható tárgyévi egyenlege alapján kell megállapítani.
 
@@ -3224,7 +3225,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 - b) 16. § p) pontja az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet,
 - c) az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i, 713/2009/EK európai parlamenti és tanácsi rendelet, és
 - d) 170. § (1) bekezdés 26. pontja
-  - da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló 2010. június 24-i, 617/2010/EU, Euratom európai tanácsi rendelet és
+  - da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU rendelet,
   - db) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről szóló 617/2010/EU, Euratom tanácsi rendelet végrehajtásáról szóló 2010. szeptember 21-i, 833/2010/EU, Euratom európai bizottsági rendelet,
 - e) a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet
 

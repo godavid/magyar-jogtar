@@ -49,7 +49,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - b) elismert tartozását az esedékességet követő 60 napon belül nem fizette ki;
 - c) jogerős és végrehajtható bírósági (hatósági) határozatban foglalt fizetési kötelezettségét nem teljesítette;
 - d) fizetési kötelezettségét a korábban lefolytatott adósságrendezési eljárásban kötött egyezség ellenére nem teljesítette;
-- e) az államháztartás más alrendszereivel szemben fennálló köztartozását az államháztartásról szóló 2011. évi CXCV. törvény 83. § (4) bekezdése szerinti felhatalmazáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti;
+- e)
 - f) más helyi önkormányzattal szemben fennálló tartozását – ideértve a külön jogszabály szerint létrehozott társulás keretében vállalt fizetési kötelezettségének nem teljesítését is – az önkormányzattal kötött vagy társulási megállapodáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti.
 
 5. § (1) A polgármester (a főpolgármester), megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) a 4. § (2) bekezdésének a)–d) pontjaiban foglalt helyzet fennállásáról – ha ilyet korábban a képviselő-testület létrehozott – a pénzügyi bizottságot haladéktalanul tájékoztatja, és a képviselő-testületet, illetve a közgyűlést (a továbbiakban együtt: képviselő-testület) 8 napon belül összehívja. A képviselő-testület a fizetési kötelezettségek rendezésére határozatot hoz, vagy felhatalmazza a polgármestert az adósságrendezési eljárás azonnali kezdeményezésére.

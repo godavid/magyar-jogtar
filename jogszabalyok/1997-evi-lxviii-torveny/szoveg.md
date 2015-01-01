@@ -42,7 +42,7 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 (3) A rendőrség szakértői szervére nem kell alkalmazni
 
 - a) a 35/A. §, valamint
-- b) a 93–94. §
+- b)
 
 rendelkezéseit.
 
@@ -429,7 +429,7 @@ rendelkezéseit.
 
 - a) nem folytathat a beosztásával összeegyeztethetetlen, illetve olyan tevékenységet, amely a pártatlan, befolyásolástól mentes munkavégzését veszélyeztetné,
 - b) pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, illetve az önkormányzati választásokon jelöltként való részvételét kivéve – közszereplést nem vállalhat,
-- c) kereső foglalkozást – a munkaidejét nem érintő tudományos, oktatói, művészeti, lektori, szerkesztői, sport-, valamint a jogi oltalom alá eső szellemi tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának az előzetes engedélyével végezhet.
+- c) kereső foglalkozást – a munkaidejét nem érintő tudományos, oktatói, művészeti, lektori, szerkesztői, sport-, a jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével végezhet.
 
 (3) Az igazságügyi szakértő igazságügyi szolgálati viszonyával az is összeférhetetlen, ha egyéni vállalkozóként, vagy gazdasági társaság vezető tisztségviselőjeként, felügyelő bizottságának a tagjaként, illetve személyes közreműködésre kötelezett tagjaként a szakértői feladataival összefüggő tevékenységet végez.
 
@@ -444,7 +444,7 @@ rendelkezéseit.
 
 ### Bejelentési kötelezettség
 
-37/A. § Az igazságügyi alkalmazott köteles bejelenteni a munkáltatói jogkör gyakorlójának a tudományos, oktatói, művészeti, lektori, szerkesztői, sport-, valamint a jogi oltalom alá eső szellemi tevékenységét.
+37/A. § Az igazságügyi alkalmazott köteles bejelenteni a munkáltatói jogkör gyakorlójának a tudományos, oktatói, művészeti, lektori, szerkesztői, sport-, a jogi oltalom alá eső szellemi tevékenységét és a nevelőszülői foglalkoztatási jogviszony létesítését.
 
 ### Igazolási kötelezettség
 
@@ -518,7 +518,7 @@ rendelkezéseit.
 
 (2) A kijelölt titkár nem lehet országgyűlési vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, valamint a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó állami vezető.
 
-(3) A kijelölt titkár a tisztsége ellátásán kívül csak tudományos, művészi, irodalmi, oktató- és műszaki alkotó munkát végezhet kereső tevékenységként, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti annak látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését. A kijelölt titkár e tevékenységek gyakorlásának megkezdését köteles a munkáltatónak előzetesen bejelenteni.
+(3) A kijelölt titkár a tisztsége ellátásán kívül csak tudományos, művészi, irodalmi, oktató- és műszaki alkotó munkát végezhet kereső tevékenységként és nevelőszülői foglalkoztatási jogviszonyban állhat, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti annak látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését. A kijelölt titkár e tevékenységek gyakorlásának megkezdését köteles a munkáltatónak előzetesen bejelenteni.
 
 (4) A kijelölt titkár nem lehet gazdasági társaság vagy szövetkezet vezető tisztségviselője, felügyelő bizottságának tagja, továbbá gazdasági társaság személyes közreműködésre kötelezett vagy korlátlanul felelős tagja.
 
@@ -592,7 +592,7 @@ rendelkezéseit.
 (6) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató az igazságügyi alkalmazottat
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig köteles foglalkoztatni. Ezt követően az igazságügyi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
+- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermek ötéves koráig köteles foglalkoztatni. Ezt követően az igazságügyi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
 (7) Az (1)–(6) bekezdés nem alkalmazható a vezetőre.
 
@@ -637,6 +637,8 @@ rendelkezéseit.
 (4) A fizikai alkalmazott alapszabadsága a kinevezéstől számított 3 évenként további egy-egy munkanappal – legfeljebb 10 munkanappal – növekedik. A kinevezés előtti időt a 100. § (3) bekezdésében és (4) bekezdésének c) pontjában foglalt rendelkezés megfelelő alkalmazásával lehet figyelembe venni.
 
 (5) A (2)–(4) bekezdések alapján járó szabadságon felül a magasabb beosztású vezetőt évente 5, a többi vezető beosztású igazságügyi alkalmazottat 3 munkanap pótszabadság illeti meg.
+
+(5a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig, öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
 (6) A (2)–(5) bekezdésekben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a fizikai alkalmazott a (4) bekezdésben meghatározott időt elérte, illetve amely évben magasabb vezetői vagy vezetői beosztás ellátására kapott megbízást.
 
@@ -1357,16 +1359,15 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 134/B. § (1) A 32. § (2) bekezdésében foglalt rendelkezést a rendőrség szakértői szerve esetében a 2014. március 1-jén vagy azt követően létrejött megbízásokra kell alkalmazni.
 
-(2) A rendőrség szakértői szerve 2014. december 31-ig
-
-- a) megteszi a 93. és 94. §-ban foglalt rendelkezések alkalmazása érdekében szükséges intézkedéseket, valamint
-- b) az igazságügyi alkalmazottairól a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 83/B–83/D. §-ában meghatározott nyilvántartást vezeti.
+(2)
 
 134/C. § A rendőrség szakértői szervének igazságügyi alkalmazottját megillető egyes illetményelemek együttes összege nem lehet alacsonyabb az őt 2014. március 1-jét megelőzően megillető egyes illetményelemek együttes összegénél.
 
 135. § (1) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerveket rendeletben határozza meg.
 
 (2) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerv esetében meghatározza a beosztási pótlék megállapítására jogosító szervezeti egységeket.
+
+(2a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy
 

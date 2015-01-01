@@ -323,7 +323,13 @@ o) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi
 
 ### Az egészségügyi hozzájárulásról szóló1996. évi LXXXVIII. törvény módosítása
 
-44-47. §
+44. §
+
+45. §
+
+46. §
+
+47. §
 
 ### A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló1996. évi XX. törvény módosítása
 
@@ -443,10 +449,10 @@ nem haladja meg, és nem rendelkezik vagyonnal.
 
 - a) a társadalombiztosítás ellátásaira jogosultak, valamint az ellátások fedezete, a társadalombiztosítási nyilvántartások, továbbá az adatszolgáltatási és járulékfizetési kötelezettség teljesítése, valamint ezen szabályok ellenőrzése és az előírt kötelezettségek elmulasztásának vonatkozásában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvényt,
 - b) a társadalombiztosítási nyugellátás vonatkozásában, ideértve az öregségi, rokkantsági és a baleseti rokkantsági nyugdíjat, valamint a hozzátartozói nyugellátásokat, a nyugdíjak évenkénti emelését, a nyugellátási iránti igény érvényesítését, az ezekkel összefüggő felelősségi szabályokat, a nyilvántartási és adatszolgáltatási kötelezettséget, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényt,
-- c) az egészségbiztosítási ellátások – ideértve az egészségügyi szolgáltatásokat és a pénzbeli ellátásokat, ezen belül a terhességi-gyermekágyi segélyt, a táppénzt; továbbá a baleseti ellátásokat, ezen belül a baleseti egészségügyi szolgáltatást, a baleseti táppénzt és a baleseti járadékot – vonatkozásában a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény, valamint
+- c) az egészségbiztosítási ellátások – ideértve az egészségügyi szolgáltatásokat és a pénzbeli ellátásokat, ezen belül a csecsemőgondozási díjat, a táppénzt; továbbá a baleseti ellátásokat, ezen belül a baleseti egészségügyi szolgáltatást, a baleseti táppénzt és a baleseti járadékot – vonatkozásában a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény, valamint
 - d) az a)–c) pontokban említett törvények felhatalmazása alapján kiadott szabályokat kell érteni.
 
-63. §
+63. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
 
 ### 1. számú melléklet az 1997. évi CLIII. törvényhez
 

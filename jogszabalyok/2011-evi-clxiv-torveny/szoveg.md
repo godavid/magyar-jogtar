@@ -625,7 +625,7 @@ véleményét a pályázóról.
 
 (2) Összeférhetetlenség miatt meg kell szüntetni a legfőbb ügyész, a legfőbb ügyész helyettes ügyészségi szolgálati jogviszonyát, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
 
-45. § (1) Az ügyész a tisztsége ellátásán kívül nem folytathat kereső tevékenységet, kivéve tudományos és oktatói (edzői, versenybírói, játékvezetői), művészi, szerzői jogi védelemben részesülő, továbbá lektori és szerkesztői, műszaki alkotó munkát, feltéve, hogy ezzel nem veszélyezteti függetlenségét és pártatlanságát, valamint nem akadályozza hivatali kötelezettségei teljesítését.
+45. § (1) Az ügyész a tisztsége ellátásán kívül nem folytathat kereső tevékenységet, kivéve a tudományos és oktatói (edzői, versenybírói, játékvezetői), művészi, szerzői jogi védelemben részesülő, továbbá a lektori és szerkesztői, műszaki alkotó munkát és a nevelőszülői foglalkoztatási jogviszony létesítését, feltéve, hogy ezzel nem veszélyezteti függetlenségét és pártatlanságát, valamint nem akadályozza hivatali kötelezettségei teljesítését.
 
 (2) Az ügyész nem lehet gazdasági társaság, kooperációs társaság, szövetkezet vezető tisztségviselője vagy személyes közreműködésre kötelezett tagja, gazdasági társaság, kooperációs társaság, szövetkezet felügyelő bizottságának tagja, továbbá gazdasági társaság, kooperációs társaság korlátlanul felelős tagja, valamint egyéni cég tagja.
 
@@ -775,7 +775,7 @@ hatályos.
 (7) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató az ügyészt
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig
+- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő ügyész esetén a gyermek ötéves koráig
 
 köteles foglalkoztatni. Ezt követően az ügyész munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
@@ -899,9 +899,9 @@ cím jár.
 
 (2) A vezetői pótlékot – a 2. mellékletben meghatározottak szerint – az illetményalap százalékában kell megállapítani.
 
-(3) A vezetői pótlékra való jogosultság szempontjából az a nagyobb főügyészség, ahol – az alárendelt járási ügyészségekkel együtt – az ügyészek engedélyezett létszáma a kilencven főt meghaladja.
+(3) A vezetői pótlékra való jogosultság szempontjából az a nagyobb főügyészség, ahol december 31-én a helyettesítésre kinevezettek kivételével az ügyészségi alkalmazottak alárendelt járási ügyészségekkel együtt számított, a munkaügyi statisztikában meghatározott munkajogi állományi létszáma a részmunkaidő teljes munkaidőre átszámításával (a továbbiakban: foglalkoztatottak létszáma) a százhetven főt meghaladja.
 
-(4) A vezetői pótlékra való jogosultság szempontjából kiemelt járási ügyészségnek minősül az a járási ügyészség, ahol az ügyészek engedélyezett létszáma a húsz főt meghaladja, nagyobb járási ügyészségnek tekintendő az a járási ügyészség, ahol az ügyészek engedélyezett létszáma az öt főt meghaladja.
+(4) A vezetői pótlékra való jogosultság szempontjából kiemelt járási ügyészségnek minősül az a járási ügyészség, ahol december 31-én a foglalkoztatottak létszáma a harmincöt főt meghaladja, nagyobb járási ügyészségnek minősül az a járási ügyészség, ahol december 31-én a foglalkoztatottak létszáma a nyolc főt meghaladja.
 
 (5) A vezetői pótlék csak egy jogcímen, a magasabb vezetői tisztség után jár.
 
@@ -1066,7 +1066,9 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 (3) A magasabb vezető állású és a vezető állású ügyész évi öt munkanap pótszabadságra jogosult. Az alapszabadság és a vezetői pótszabadság együttes mértéke évente a negyven munkanapot nem haladhatja meg.
 
-(4) Az ügyészt az (1)–(3) bekezdésben meghatározott szabadságon felül megilleti a Munka Törvénykönyvében meghatározott pótszabadság is.
+(3a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+
+(4) Az ügyészt az (1)–(3a) bekezdésben meghatározott szabadságon felül megilleti a munka törvénykönyvéről szóló törvényben meghatározott pótszabadság is.
 
 (5) Az ügyésznek az (1)–(4) bekezdésben meghatározott szabadság időtartamára a Munka Törvénykönyve szabályai szerinti díjazás jár.
 
@@ -1643,7 +1645,7 @@ cím adományozható.
 
 (3) A Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak részére rendszeresített rendfokozatokat e törvény 7. melléklete tartalmazza.
 
-152. § (1) A legfőbb ügyész részére az Országgyűlés elnöke, a legfőbb ügyész helyettes részére pedig a köztársasági elnök igazolványt állít ki.
+152. § (1) A legfőbb ügyész helyettes részére a köztársasági elnök igazolványt állít ki.
 
 (2) A volt legfőbb ügyész és legfőbb ügyész helyettes – ha ügyészségi szolgálati viszonya már nem áll fenn és legfőbb ügyészi vagy legfőbb ügyész helyettesi megbízatása a 22. § (1) bekezdésének a)–d) pontjában, illetve a 24. § (1) bekezdésének a)–c) pontjában említett okból szűnt meg – jogosult a megbízatására utaló elnevezést a „volt” megjelöléssel, nyugdíjasként pedig a „nyugalmazott” megjelöléssel használni.
 
@@ -1749,6 +1751,8 @@ kell érteni.
 158. § (1) Ez a törvény 2012. január 1. napján lép hatályba.
 
 (2)
+
+158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
 159. § (1) E törvény I. Fejezete, III–XIII. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 161–165/J. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 

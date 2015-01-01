@@ -78,7 +78,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 - d) egészségügyi hatóság: az Eütv. 3. § h) pontjában meghatározott hatóság;
 - e) egészségügyi szolgáltató: az Eütv. 3. § f) pontjában meghatározott szolgáltatók;
 - f) minőségi tanúsítványok kiadására jogosult intézmény: az orvostechnikai eszközökről szóló jogszabályban meghatározottak szerinti kijelölt szervezet;
-- g) gyógyszer és gyógyászati segédeszköz árának támogatása: 1. az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló jogszabályban meghatározott, hatóság által engedélyezett, lakosság számára közvetlenül forgalmazott humán gyógyszerek (beleértve a homeopátiás gyógyszereket és az immunológiai készítményeket is) árának támogatása; 2. az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló jogszabályban meghatározott egyedi gyógyszerbeszerzés keretében alkalmazásra kerülő gyógyszerek és immunológiai készítmények árának támogatása; 3. orvosi vényen rendelt egyedi összetételű (magisztrális) gyógyszerkészítmények árának támogatása; 4. a hatályos Magyar Gyógyszerkönyvben és a hatályos Formulae Normalesben meghatározott, közvetlen lakossági felhasználásra alkalmas gyógyszeranyagok árának támogatása; 5. az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabályban meghatározott tápszerek megvásárlásának támogatása; 6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek, és az Országos Élelmezés- és Táplálkozástudományi Intézet által nyilvántartásba vett, gluténmentes speciális élelmiszerek megvásárlásának támogatása; 7. társadalombiztosítási támogatással rendelhető, illetve kölcsönözhető gyógyászati segédeszközökről, a támogatás összegéről és mértékéről szóló jogszabályban meghatározott gyógyászati segédeszközök megvásárlásának, kölcsönzésének támogatása, a társadalombiztosítás által nem finanszírozott részre, vagy e támogatás igénybevétele nélküli megvásárlásának, valamint javításának támogatása; 8. közvetlen lakossági felhasználásra alkalmas, minőségi tanúsítványok kiadására jogosult intézmény által kiadott tanúsítvánnyal rendelkező, illetve CE jelöléssel ellátott, az orvostechnikai eszközökről szóló jogszabályban meghatározottak szerinti orvostechnikai eszköz megvásárlásának támogatása; 9. egészségügyi hatóság által engedélyezett csecsemő- és betegápolási cikkek megvásárlásának támogatása; 10. gyógyvizek és gyógyiszap megvásárlásának támogatása; 11. Az Országos Gyógyszerészeti Intézet által kiadott engedélyszámmal és forgalomba hozatali engedéllyel rendelkező, gyógyszernek nem minősülő gyógyhatású termékek; 12. az 1–11. pontokban felsorolt termékek házhoz szállítása;
+- g) gyógyszer és gyógyászati segédeszköz árának támogatása: 1. az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló jogszabályban meghatározott, hatóság által engedélyezett, lakosság számára közvetlenül forgalmazott humán gyógyszerek (beleértve a homeopátiás gyógyszereket és az immunológiai készítményeket is) árának támogatása; 2. az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló jogszabályban meghatározott egyedi gyógyszerbeszerzés keretében alkalmazásra kerülő gyógyszerek és immunológiai készítmények árának támogatása; 3. orvosi vényen rendelt egyedi összetételű (magisztrális) gyógyszerkészítmények árának támogatása; 4. a hatályos Magyar Gyógyszerkönyvben és a hatályos Formulae Normalesben meghatározott, közvetlen lakossági felhasználásra alkalmas gyógyszeranyagok árának támogatása; 5. az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabályban meghatározott tápszerek megvásárlásának támogatása; 6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek, és az egészségügyi államigazgatási szerv által nyilvántartásba vett, gluténmentes speciális élelmiszerek megvásárlásának támogatása; 7. társadalombiztosítási támogatással rendelhető, illetve kölcsönözhető gyógyászati segédeszközökről, a támogatás összegéről és mértékéről szóló jogszabályban meghatározott gyógyászati segédeszközök megvásárlásának, kölcsönzésének támogatása, a társadalombiztosítás által nem finanszírozott részre, vagy e támogatás igénybevétele nélküli megvásárlásának, valamint javításának támogatása; 8. közvetlen lakossági felhasználásra alkalmas, minőségi tanúsítványok kiadására jogosult intézmény által kiadott tanúsítvánnyal rendelkező, illetve CE jelöléssel ellátott, az orvostechnikai eszközökről szóló jogszabályban meghatározottak szerinti orvostechnikai eszköz megvásárlásának támogatása; 9. egészségügyi hatóság által engedélyezett csecsemő- és betegápolási cikkek megvásárlásának támogatása; 10. gyógyvizek és gyógyiszap megvásárlásának támogatása; 11. Az egészségügyi államigazgatási szerv által kiadott engedélyszámmal és forgalomba hozatali engedéllyel rendelkező, gyógyszernek nem minősülő gyógyhatású termékek; 12. az 1–11. pontokban felsorolt termékek házhoz szállítása;
 - h) fogyatékos személy: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § a) pontjában meghatározott személy.
 
 (7) E törvény alkalmazásában önsegélyező pénztárnál:
@@ -1244,7 +1244,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 50/B. § (1) Az önsegélyező pénztár kiegészítő önsegélyező szolgáltatásként a következő szolgáltatásokat nyújthatja:
 
-- a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a várandósság ideje alatt a magzat 91 napos korától megszületéséig, a gyermek megszületése, örökbefogadása, valamint a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
+- a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a várandósság ideje alatt a magzat 91 napos korától megszületéséig, a gyermek megszületése, örökbefogadása, valamint a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozási segély és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
 - b) munkanélküliségi ellátások, melyeket a pénztár azon személyek részére nyújthatja, akiknek jövedelemszerző tevékenysége megszűnt és nyugellátásra nem jogosultak;
 - c) tűz- és elemi károkhoz kapcsolódó segélyek, melyeket a pénztár a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben meghatározott tűz- és elemi károk bekövetkezte esetén nyújthat;
 - d) betegséghez, egészségi állapothoz kapcsolódó segélyek, melyek a pénztártag kieső jövedelmének teljes vagy részbeni pótlásaként a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 44. §-ában meghatározott keresőképtelenség, valamint a külön jogszabályban meghatározottak szerinti megváltozott munkaképesség, illetve egészségkárosodás miatt keresettel nem rendelkező személyek részére nyújthatók;
@@ -1271,7 +1271,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 - a) az 50/B. § (1) bekezdésének a) pontjában meghatározott ellátások közül
   - aa) a magzat (orvos által igazolt) fogantatásának 91. napjától megszületéséig nyújtható szolgáltatás, a várandóssággal összefüggő orvosi ellátás igazolt költségének támogatására, valamint a magzat 91. napos korától a megszületéséig nyújtható, a gyermek megszületése, illetve örökbefogadása esetén nyújtható egyszeri, egyösszegű támogatás;
-  - ab) a terhességi-gyermekágyi segély, a gyermekgondozási díj kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
+  - ab) a csecsemőgondozási díj, a gyermekgondozási díj kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
   - ac) a gyermekgondozási segély és a gyermeknevelési támogatás összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 - b) az 50/B. § (1) bekezdésének b) pontjában meghatározott ellátások közül a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskeresési járadék, álláskeresési segély összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 - c) az 50/B. § (1) bekezdésének d) pontjában meghatározott ellátások közül
@@ -1327,7 +1327,7 @@ nyújthat.
 
 ### Az egészségpénztárak által nyújtható kiegészítő egészségbiztosítási szolgáltatások köre
 
-51/B. § (1) Az egészségpénztár kiegészítő egészségbiztosítási szolgáltatásként a következő, az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) által nem, vagy csak részben finanszírozott szolgáltatásokat nyújthatja:
+51/B. § (1) Az egészségpénztár kiegészítő egészségbiztosítási szolgáltatásként a következő, az egészségbiztosítási szerv által nem, vagy csak részben finanszírozott szolgáltatásokat nyújthatja:
 
 - a) egészségügyi szolgáltatás, mely a társadalombiztosítási ellátás keretében igénybe vehető egészségügyi szolgáltatások kiegészítése, vagy helyettesítése az egészségügyi szolgáltatónál megkötött szerződés alapján;
 - b)
@@ -1340,7 +1340,7 @@ nyújthat.
 - i) a gyógyszer és gyógyászati segédeszköz árának támogatása;
 - j) pénzbeli kiegészítő egészségbiztosítási szolgáltatások, amely a pénztártag kieső jövedelemének teljes vagy részbeni pótlásaként az Ebtv. 44. §-a szerinti keresőképtelenség esetén, valamint a megváltozott munkaképesség miatt keresettel nem rendelkező személyek részére nyújthatók;
 - k) hátramaradottak segélyezése: a pénztártag halála esetén;
-- l) OÉTI által nyilvántartásba vett, gluténmentes speciális élelmiszerek vásárlásának támogatása.
+- l) az egészségügyi államigazgatási szerv által nyilvántartásba vett, gluténmentes speciális élelmiszerek vásárlásának támogatása.
 - m) szolgáltatást finanszírozó egészségbiztosítások (betegség biztosítások) díjának fizetése.
 - n)
 
@@ -1377,7 +1377,7 @@ nyújthat.
 
 (4) A személyes egészségterv alapján indokolt, az egészség megőrzését és a megbetegedések megelőzését elősegítő – az orvosi javaslat alapján – igénybe vehető szolgáltatások közül az 51/B. § (1) bekezdésének d) pontjában felsorolt szolgáltatások prevenciós szolgáltatásnak minősülnek.
 
-(5) Prevenciós szolgáltatásnak minősülnek az elkerülhető megbetegedések korai felismerésére irányuló, az 51/B. § (1) bekezdésének a) pontjában foglaltaknak megfelelő orvosi javaslatra igénybe vett szűrővizsgálatok, ideértve az OEP által nem finanszírozott, működési engedéllyel rendelkező szakorvos által végzett szűrést, így különösen
+(5) Prevenciós szolgáltatásnak minősülnek az elkerülhető megbetegedések korai felismerésére irányuló, az 51/B. § (1) bekezdésének a) pontjában foglaltaknak megfelelő orvosi javaslatra igénybe vett szűrővizsgálatok, ideértve az egészségbiztosítási szerv által nem finanszírozott, működési engedéllyel rendelkező szakorvos által végzett szűrést, így különösen
 
 - a) méhnyakrákszűrés;
 - b) emlőrákszűrés;
@@ -1713,6 +1713,8 @@ nyújthat.
 (9) Az e törvény 2011. december 31-én hatályos 51/B. § (1) bekezdés e), l), m) és n) pontjaiban és az 51/C. § b) és d) pontjaiban említett, 2012. január 1-je előtt igénybe vett szolgáltatások számlái az önkéntes egészségpénztárban 2012. június 30-ig az e törvény 2011. december 31-én hatályos rendelkezései szerint elszámolhatók. E szolgáltatások adókötelezettségére az Szja tv. és az Eho tv. 2011. december 31-én hatályos rendelkezéseit kell értelemszerűen alkalmazni.
 
 (10) Azon pénztártagok nyugdíjszolgáltatásra való jogosultságának elbírásakor, akik részére 2012. január 1-jét megelőző kezdő nappal rokkantsági vagy baleseti rokkantsági nyugdíjat állapítottak meg, a szolgáltatás igénylésének időpontjától függetlenül a 2011. december 31-én hatályos szabályokat kell alkalmazni.
+
+81/A. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
 
 ### Az Európai Unió jogának való megfelelés
 

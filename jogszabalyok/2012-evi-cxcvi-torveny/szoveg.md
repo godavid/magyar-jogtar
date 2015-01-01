@@ -94,6 +94,8 @@ a Magyarország 2013. évi központi költségvetését megalapozó egyes törv�
 
 27. § Az Áht. e törvény 28. §-ával megállapított 44. § (2) bekezdésének alkalmazásához szükséges törvények módosításáról külön törvény rendelkezik.
 
-28. §
+28. § Az Áht. 44. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kincstár központosított illetményszámfejtést működtet, és ellátja az ehhez kapcsolódó kifizetőhelyi feladatokat. A központosított illetményszámfejtés rendszere keretében történő illetményszámfejtés és -kifizetés kötelező az államháztartás központi alrendszerébe tartozó költségvetési szervek, a helyi önkormányzatok, a nemzetiségi önkormányzatok, ezek társulásai, valamint a helyi önkormányzatok, a nemzetiségi önkormányzatok, és ezek társulásai által irányított költségvetési szervek számára. A kincstárral kötött megállapodás alapján a központi illetményszámfejtéshez más szervezetek is csatlakozhatnak.”
 
 ### 1. melléklet a 2012. évi CXCVI. törvényhez

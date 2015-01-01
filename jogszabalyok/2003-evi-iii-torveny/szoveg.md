@@ -109,7 +109,7 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 
 8. § (1) A Levéltár kezeli a 2. § (2)–(3) bekezdésében meghatározott adatokat tartalmazó iratok kivételével az e törvény hatálya alá tartozó iratokat. A Levéltár a Történeti Hivatal jogutódja.
 
-(2) A Levéltár önálló, teljes gazdálkodási jogkörű költségvetési szerv, az Országgyűlés költségvetési fejezetén belül önálló cím.
+(2) A Levéltár központi költségvetési szerv, amely az Országgyűlés költségvetési fejezetén belül önálló címet alkot. A Levéltár gazdasági szervezettel rendelkezik.
 
 (3) A Levéltár
 

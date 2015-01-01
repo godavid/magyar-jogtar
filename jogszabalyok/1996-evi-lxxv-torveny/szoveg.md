@@ -299,10 +299,13 @@ is érteni kell.
 
 (5) Felhatalmazást kap a Kormány, hogy a munkaügyi hatóságot vagy hatóságokat rendeletben jelölje ki, valamint a hatóság vagy hatóságok eljárására vonatkozó részletes szabályokat rendeletben határozza meg.
 
+(5a) Felhatalmazást kap a Kormány, hogy a büntetés-végrehajtási intézetekben fogvatartottak tekintetében rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját.
+
 (6) Felhatalmazást kap
 
 - a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, illetve ideiglenes építési munkahelynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter,
-- b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál.
+- b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál,
+- c) a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkaügyi ellenőrzés eljárási szabályait, valamint a 3. § és 6. § alkalmazásának eltérő szabályait.
 
 9/A. §
 

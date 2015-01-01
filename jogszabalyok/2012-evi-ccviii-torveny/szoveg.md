@@ -270,9 +270,9 @@ egyes törvényeknek a központi költségvetésről szóló törvény megalapoz
 
 - a)
 - b)
-- c)
+- c) a Vtv. 87/A. §-a,
 - d)
-- e)
+- e) az Sztv. 51. § (9) bekezdése,
 - f)
 
 #### 48. Az Európai Unió jogának való megfelelés

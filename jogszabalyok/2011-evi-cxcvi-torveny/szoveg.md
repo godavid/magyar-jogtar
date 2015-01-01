@@ -39,7 +39,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - 4. hasznosítás: a tulajdonosi joggyakorló vagy a nemzeti vagyon használója által a nemzeti vagyon birtoklásának, használatának, hasznok szedése jogának bármely – a tulajdonjog átruházását nem eredményező – jogcímen történő átengedése, ide nem értve a vagyonkezelésbe adást, valamint a haszonélvezeti jog alapítását;
 - 5. kincstári vagyon: a kizárólagos állami tulajdonba tartozó vagyon, valamint a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó, továbbá a korlátozottan forgalomképes állami vagyon;
 - 6. korlátozottan forgalomképes vagyon: az 1. § (2) bekezdés a) pontja hatálya alá és nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba nem tartozó azon nemzeti vagyon, amelyről törvényben, illetve – a helyi önkormányzat tulajdonában álló vagyon esetében – törvényben vagy a helyi önkormányzat rendeletében meghatározott feltételek szerint lehet rendelkezni;
-- 7. közfeladat: jogszabályban meghatározott állami vagy önkormányzati feladat, amit az arra kötelezett közérdekből, jogszabályban meghatározott követelményeknek és feltételeknek megfelelve végez, ideértve a lakosság közszolgáltatásokkal való ellátását, továbbá az állam nemzetközi szerződésekben vállalt kötelezettségeiből adódó közérdekű feladatokat, valamint e feladatok ellátásához szükséges infrastruktúra biztosítását is;
+- 7.
 - 8. közvetett tulajdon, illetve közvetett befolyás: a tőkepiacról szóló törvényben meghatározott fogalom;
 - 9. meghatározó befolyás: az a kapcsolat, amelynek révén természetes személy, vagy jogi személy egy jogi személynek tagja vagy részvényese, és
   - a) jogosult e jogi személy vezető tisztségviselői vagy felügyelőbizottsága tagjai többségének megválasztására és visszahívására, vagy
@@ -151,7 +151,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 
 #### 4. A vagyongazdálkodás alapelvei
 
-7. § (1) A nemzeti vagyon alapvető rendeltetése a közfeladat ellátásának biztosítása. A nemzeti vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
+7. § (1) A nemzeti vagyon alapvető rendeltetése a közfeladat ellátásának biztosítása, ideértve a lakosság közszolgáltatásokkal való ellátását és e feladatok ellátásához szükséges infrastruktúra biztosítását. A nemzeti vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
 
 (2) A nemzeti vagyongazdálkodás feladata a nemzeti vagyon rendeltetésének megfelelő, az állam, az önkormányzat mindenkori teherbíró képességéhez igazodó, elsődlegesen a közfeladatok ellátásához és a mindenkori társadalmi szükségletek kielégítéséhez szükséges, egységes elveken alapuló, átlátható, hatékony és költségtakarékos működtetése, értékének megőrzése, állagának védelme, értéknövelő használata, hasznosítása, gyarapítása, továbbá az állam vagy a helyi önkormányzat feladatának ellátása szempontjából feleslegessé váló vagyontárgyak elidegenítése.
 
@@ -259,7 +259,7 @@ jóváhagyó határozata szükséges.
 
 (12) A nemzeti vagyon hasznosítására vonatkozó szerződést a hasznosításba adó kártalanítás nélkül és azonnali hatállyal felmondhatja, ha a nemzeti vagyon hasznosításában részt vevő bármely – a hasznosítóval közvetlen vagy közvetett módon jogviszonyban álló harmadik fél – szervezet a nemzeti vagyon hasznosítására vonatkozó szerződés megkötését követően beállott körülmény folytán már nem minősül átlátható szervezetnek. A 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet tulajdonosi szerkezetében a 3. § (1) bekezdés 1. pontjától eltérő változást a nemzeti vagyon hasznosítására a hasznosítóval közvetlenül megkötött szerződésben a hasznosításba adót megillető, valamint a (11) bekezdés c) pontjában meghatározott személyekkel kötött szerződésekben a hasznosításba adóval közvetlen jogviszonyban álló személyt megillető rendkívüli felmondási okként rögzíteni kell.
 
-(13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása céljából, a közfeladat ellátásához szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe.
+(13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása, a lakosság közszolgáltatásokkal való ellátása, valamint e feladatok ellátásához szükséges infrastruktúra biztosítása céljából az ahhoz szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe.
 
 (14) Nemzeti vagyonba tartozó állami tulajdonú ingatlant használó központi költségvetési szerv – a (15) bekezdésben meghatározott eseteket kivéve – a rábízott állami tulajdonú ingatlant vagy ingatlanrészt nem hasznosíthatja, az ingatlanra vagy annak bármely részére vonatkozóan a használatot bármely címen átengedő szerződést nem köthet, továbbá a rábízott állami tulajdonú ingatlanon beruházást, felújítási tevékenységet nem végezhet, és nem végeztethet.
 

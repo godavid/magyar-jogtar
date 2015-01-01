@@ -34,7 +34,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
   - g) a bírák jogállásáról és javadalmazásáról szóló törvény hatálya alá tartozó foglalkoztatott,
   - h) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó alkalmazott,
   - i) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény hatálya alá tartozó foglalkoztatott,
-  - j) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/G. §-a szerinti hivatásos nevelőszülő,
+  - j) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/A. § (1) bekezdése szerinti nevelőszülői foglalkoztatási jogviszonyban álló személy,
   - k) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló törvény hatálya alá tartozó főállású polgármester,
   - l) az állam többségi befolyása alatt álló gazdasági társaságnál munkavégzésre irányuló jogviszonyban foglalkoztatott személy.
 - 8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdése szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;

@@ -36,7 +36,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 5. § (1) E törvény hatálya kiterjed:
 
 - a) a muzeális intézményekre, fenntartóikra és foglalkoztatottaikra, a kulturális örökség muzeális intézményekben őrzött elemeire, valamint a muzeális intézmény szolgáltatásait igénybe vevőkre, továbbá a kulturális örökséggel foglalkozó egyéb szervezetekre, kép- és hangarchívumokra,
-- b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvtárakra, azok fenntartóira, alkalmazottaira és a sajtótermékek kötelespéldányainak szolgáltatóira,
+- b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvtárakra, azok fenntartóira, alkalmazottaira és a kiadványok kötelespéldányainak szolgáltatóira,
 - c) a közművelődési tevékenység megvalósulásában résztvevőkre, a közösségi színterek, közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.
 
 (2) A könyvtári dokumentumok védelmével és nyilvántartásával kapcsolatosan e törvény hatálya kiterjed azokra a nem nyilvános könyvtárakra is, amelyeknek állománya a nemzeti és egyetemes kulturális örökség része.
@@ -164,6 +164,8 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (2) A muzeális intézmény az alapleltárában szereplő kulturális javakat külön jogszabályban meghatározottak szerint írásbeli szerződés alapján cserélheti el a gyűjtőkörébe tartozó más kulturális javakkal.
 
+(3) A muzeális intézmény alapleltárában szereplő kulturális javak selejtezéséhez a miniszter engedélye szükséges.
+
 38/A. § (1) A muzeális intézmény vagy fenntartója a kulturális javakat határozott időre szóló, írásbeli szerződés alapján adhatja vagy veheti kölcsön (a továbbiakban: kölcsönzés).
 
 (2) A kulturális javak kölcsönzéséről szóló szerződésnek (a továbbiakban: kölcsönzési szerződés) tartalmaznia kell
@@ -174,9 +176,13 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (3) A kölcsönzési szerződéshez mellékelni kell a kölcsönzött kulturális javak leltári számmal ellátott jegyzékét, a kölcsönbe adás időpontjában fennálló fizikai állapotot dokumentáló szakleírással és képi ábrázolással együtt.
 
-(4) A kölcsönzési szerződésben kölcsönzési díj és pénzügyi biztosíték köthető ki. A miniszter állami tulajdonú kulturális javak muzeális intézmények közötti kölcsönzése esetén a kölcsönvevő indokolt kérelmére, a nemzeti kulturális érdekre figyelemmel mentesítést adhat a kölcsönzési díj és a pénzügyi biztosíték megfizetése alól.
+(4) A kölcsönzési szerződésben kölcsönzési díj és pénzügyi biztosíték köthető ki. A muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönzése esetén, a (7) bekezdésben meghatározott kivétellel a kölcsönzött kulturális javak értékéhez igazodó pénzügyi biztosítékot kell kikötni.
 
-(5) muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönzéséhez a miniszter hozzájárulása szükséges. A hozzájárulás megadása során a miniszter vizsgálja a kölcsönzéshez fűződő nemzeti kulturális érdek, valamint a (2) és (3) bekezdésben rögzített feltételek meglétét.
+(5) A miniszter állami tulajdonú kulturális javak muzeális intézmények közötti kölcsönzése esetén a kölcsönvevő indokolt kérelmére, nemzeti kulturális érdekre figyelemmel mentesítést adhat a kölcsönzési díj és a pénzügyi biztosíték megfizetése alól, kivéve a (6) bekezdésben meghatározott kölcsönzés esetét.
+
+(6) A muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönzéséhez a miniszter hozzájárulása szükséges. A hozzájárulás megadása során a miniszter vizsgálja a kölcsönzéshez fűződő nemzeti kulturális érdek, valamint a (2)–(4) bekezdésben rögzített feltételek meglétét.
+
+(7) Nem köteles pénzügyi biztosíték kikötésére a Hadtörténeti Intézet és Múzeum, ha a nyilvántartásában szereplő kulturális javakat a Magyar Honvédség szervezete részére adja kölcsön.
 
 38/B. § A miniszter a nemzeti kulturális érdekre figyelemmel és a széles körű hozzáférés céljait szem előtt tartva határozott időre kijelölheti a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyét.
 
@@ -306,12 +312,12 @@ a miniszter előzetesen véleményezi. Ha a miniszter a fenntartó erre irányul
 (2) A megyei hatókörű városi múzeum – a 37/A. §-ban és a 42. § (2) bekezdésében foglalt feladatokon túlmenően – állami feladatai keretében:
 
 - a) vagyonkezelője a tevékenység ellátásához szükséges állami vagyonnak,
-- b) területileg illetékes múzeumként gyűjtőterületére kiterjedően
-  - ba) végzi a kormányrendeletben meghatározott régészeti szaktevékenységeket,
-  - bb) vezeti a régészeti lelőhelyek szakmai nyilvántartását, és annak alapján adatokat szolgáltat a régészeti lelőhelyekről,
-  - bc) a régészeti feltárás esetén kívül előkerült régészeti leletet vagy lelőhelyet a kulturális örökségvédelmi hatóságnak haladéktalanul bejelenti,
-  - bd) részt vesz a régészeti emlékek és a műemlékek vissza nem építhető vagy a helyszínen meg nem őrizhető töredékei és tartozékai muzeális intézményben történő elhelyezésében,
-  - be) szakértőként részt vesz a régészetileg védett területek ellenőrzésében,
+- b) gyűjtőterületére kiterjedően
+  - ba) végzi a jogszabályban meghatározott régészeti szaktevékenységeket,
+  - bb) szakmai nyilvántartása alapján jogszabályban meghatározottak szerint adatokat szolgáltat a régészeti lelőhelyekről,
+  - bc) a régészeti feltárás esetén kívül előkerült régészeti leletet vagy lelőhelyet a kulturális örökség védelméről szóló törvényben meghatározott intézménynek haladéktalanul bejelenti,
+  - bd) jogszabályban meghatározottak szerint részt vesz a régészeti feltárás során előkerült régészeti leletek, továbbá a régészeti emlékek és a műemlékek vissza nem építhető vagy a helyszínen meg nem őrizhető töredékei és tartozékai elhelyezésében,
+  - be) jogszabályban meghatározottak szerint részt vesz a védetté nyilvánított területek ellenőrzésében,
   - bf) gyűjtőkörében szakmai tanácsadást folytat a muzeális intézmények szakmai együttműködése, munkájuk összehangolása, valamint az egyéb kulturális javak védelme érdekében,
   - bg) részt vesz a szellemi kulturális örökség védelmével kapcsolatos helyi tevékenységek koordinálásában és szakmai támogatásában,
   - bh) muzeológiai, múzeumpedagógiai, képzési és restaurálási szakmai-módszertani központként működik.
@@ -333,6 +339,16 @@ közigazgatási területére terjed ki.
 (3) A területi múzeum vezetőjének megbízásához és annak visszavonásához a miniszter véleményét előzetesen ki kell kérni.
 
 (4) A területi múzeum gyűjtőterületére kiterjedően – a megyei hatókörű városi múzeummal kötött megállapodás alapján – elláthatja a megyei hatókörű városi múzeum 45/A. § (2) bekezdés bf), bg), bh) pontjaiban foglalt feladatait, vagy azok egy részét.
+
+(5) A területi múzeum állam, helyi önkormányzat fenntartásában, vagy az állam vagy helyi önkormányzat 100%-os tulajdonában álló gazdasági társaság fenntartásában működik.
+
+(6) A régészeti gyűjtőkörrel rendelkező területi múzeum a gyűjtőterületére kiterjedően
+
+- a) végzi a jogszabályban meghatározott régészeti szaktevékenységeket,
+- b) szakmai nyilvántartása alapján jogszabályban meghatározottak szerint adatokat szolgáltat a régészeti lelőhelyekről,
+- c) a régészeti feltárás esetén kívül előkerült régészeti leletet vagy lelőhelyet a kulturális örökség védelméről szóló törvényben meghatározott intézménynek haladéktalanul bejelenti,
+- d) jogszabályban meghatározottak szerint részt vesz a régészeti feltárás során előkerült régészeti leletek, továbbá a régészeti emlékek és a műemlékek vissza nem építhető vagy a helyszínen meg nem őrizhető töredékei és tartozékai elhelyezésében,
+- e) jogszabályban meghatározottak szerint részt vesz a régészetileg védett területek ellenőrzésében.
 
 ### Tematikus múzeumok
 
@@ -357,25 +373,29 @@ közigazgatási területére terjed ki.
 
 ### Múzeumi letét
 
-49. § (1) A múzeum a gyűjtőkörébe tartozó kulturális javakat határozott idejű letétként megőrzésre átveheti. Az erre vonatkozó szerződést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. A letétre a Polgári Törvénykönyv rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+49. § (1) A múzeum a gyűjtőkörébe tartozó kulturális javakat legfeljebb 5 évre szóló határozott idejű letétként megőrzésre átveheti. Az erre vonatkozó szerződést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. A letétre a Polgári Törvénykönyv rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A letéti szerződés tartalmazza
 
 - a) a letét időtartamát,
-- b) a letétbe helyezett kulturális javak – egyértelmű azonosításra alkalmas – képi és szöveges listáját, az átvétel időpontjában fennálló, részletes szakmai állapotdokumentációjával együtt,
-- c) a letétbe helyezett kulturális javakra vonatkozó állományvédelmi követelményeket, beleértve a klimatikus viszonyokat, a csomagolás, a szállítás és az őrzés feltételeit,
-- d) a letétbe helyezett kulturális javak sérülése esetén követendő eljárást, valamint
+- b) a letett kulturális javak – egyértelmű azonosításra alkalmas – képi és szöveges listáját, az átvétel időpontjában fennálló, részletes szakmai állapotdokumentációjával együtt,
+- c) a letett kulturális javakra vonatkozó állományvédelmi követelményeket, beleértve a klimatikus viszonyokat, a csomagolás, a szállítás és az őrzés feltételeit,
+- d) a letett kulturális javak sérülése esetén követendő eljárást, valamint
 - e) a múzeum által vállalt vagyonbiztonsági feltételeket.
 
 (3) A múzeum a letét megőrzéséért díjat köthet ki.
 
 (4) A letéti szerződést – a letéti szerződés eltérő rendelkezése hiányában – a letevő akkor mondhatja fel, ha az nem sérti a múzeum közművelődési vagy tudományos tevékenységét.
 
-(5) A múzeum a letét időtartama alatt a letétbe helyezett kulturális javakat – a letét tényére történő utalással – tudományos szempontból feldolgozhatja, kutathatja, kiállíthatja és publikálhatja.
+(5) A múzeum a letét időtartama alatt a letett kulturális javakat – a letét tényére történő utalással – tudományos szempontból feldolgozhatja, kutathatja és kiállíthatja.
 
-(6) A letétbe helyezett kulturális javak más őrizetébe adásához, továbbá külső kutatói hozzáférésének biztosításához a letevő hozzájárulására van szükség.
+(6) A letett kulturális javak más őrizetébe adásához, továbbá külső kutatói hozzáférésének biztosításához a letevő hozzájárulására van szükség.
 
-(7) A letétbe helyezett kulturális javak visszaadásakor részletes szakmai állapotdokumentációt kell készíteni.
+(7) A letett kulturális javak visszaadásakor részletes szakmai állapotdokumentációt kell készíteni.
+
+49/A. § (1) A muzeális intézmény az alapleltárában szereplő kulturális javakat csak akkor adhatja letétbe, ha az a kulturális javak biztonságos őrzése érdekében szükséges.
+
+(2) A letétbe adásra a 49. § előírásait kell alkalmazni azzal, hogy amennyiben a letéteményes nem muzeális intézmény vagy a letétbe helyezésre külföldön kerül sor, ahhoz a miniszter engedélye szükséges.
 
 ### VI. Fejezet — A muzeális intézmények fenntartása, irányítása
 
@@ -440,7 +460,7 @@ közigazgatási területére terjed ki.
 54. § (1) A nyilvános könyvtár alapkövetelményei:
 
 - a) mindenki által használható és megközelíthető,
-- b) könyvtári szakembert alkalmaz,
+- b) vezetője felsőfokú szakirányú végzettséggel rendelkezik és könyvtári szakembert alkalmaz,
 - c) rendelkezik kizárólagosan könyvtári szolgáltatások céljaira alkalmas helyiséggel,
 - d) rendszeresen, a felhasználók többsége számára megfelelő időpontban tart nyitva,
 - e) helyben nyújtott alapszolgáltatásai ingyenesek,
@@ -523,6 +543,8 @@ közigazgatási területére terjed ki.
 
 (2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, törvényben, illetve kormányrendeletben meghatározott módon.
 
+(2a) Kormányrendelet a kötelespéldányok számát a (2) bekezdésben meghatározottnál kisebb számban is megállapíthatja, valamint meghatározhatja a kötelespéldány-szolgáltatás teljesítése alóli mentességek eseteit.
+
 (3) Az országos dokumentumellátási rendszerről szóló jogszabályban meghatározott könyvtár vezetőjének kinevezése előtt a miniszter véleményét kell kérni.
 
 (4) A miniszter kialakítja a nemzeti kulturális örökség részét képező kép- és hangrögzítés országos nyilvántartási rendszerét.
@@ -536,7 +558,7 @@ közigazgatási területére terjed ki.
 60. § (1) A nyilvános könyvtári ellátás rendszerének működtetését és fejlesztését segítő központi szolgáltatások:
 
 - a) az országos könyvtári informatikai hálózat fejlesztése és tartalmi feltöltése,
-- b) a Magyarországon keletkezett sajtótermékek kötelespéldány-szolgáltatáson alapuló teljes körű gyűjtése, egyéb, Magyarországon keletkezett dokumentumok, valamint a külföldi hungarikumok gyűjtése, továbbá mindezek megőrzése bibliográfiai számbavétele és rendelkezésre bocsátása, továbbá a kötelespéldányok elosztása,
+- b) a Magyarországon keletkezett kiadványok kötelespéldány-szolgáltatáson alapuló teljes körű gyűjtése, egyéb, Magyarországon keletkezett dokumentumok, valamint a külföldi hungarikumok gyűjtése, továbbá mindezek megőrzése bibliográfiai számbavétele és rendelkezésre bocsátása, továbbá a kötelespéldányok elosztása,
 - c) az országos dokumentumellátási rendszer működtetése,
 - d) a határon túli magyarok könyvtári ellátásának segítése,
 - e) a hazai nemzetiségek könyvtári ellátásának segítése,
@@ -568,9 +590,9 @@ közigazgatási területére terjed ki.
 
 (4) Az 55. §-ban foglaltakon túl a nemzeti könyvtár alapfeladatai:
 
-- a) a Magyarországon keletkezett sajtótermékek kötelespéldány-szolgáltatásra alapozott gyűjtése, megőrzése, szétosztása,
+- a) a Magyarországon keletkezett kiadványok kötelespéldány-szolgáltatásra alapozott gyűjtése, megőrzése, szétosztása,
 - b) a külföldön megjelent hungarikumok teljességre törekvő gyűjtése, feltárása, megőrzése,
-- c) a sajtóterméknek nem minősülő hungarikumok gyűjtése, feltárása, megőrzése,
+- c) a kiadványnak nem minősülő hungarikumok gyűjtése, feltárása, megőrzése,
 - d) a nemzeti bibliográfia készítése,
 - e) gyűjteményének archiválása és védelme,
 - f) gyűjteményének elsősorban helybenhasználat útján történő rendelkezésre bocsátása,
@@ -1003,7 +1025,9 @@ kapcsolatos szakmai mutatók alapján készíti el.
 
 (3) A 37/A. §-ban és a 42. §-ban foglaltakat a miniszter 2013. április 1-jétől ellenőrzi a szakfelügyelet útján.
 
-(4)–(7)
+(4) Az egyes kulturális tárgyú törvények módosításáról szóló 2013. évi CCXVII. törvénnyel megállapított 54. § (1) bekezdés b) pontjában előírt felsőfokú szakirányú végzettség követelményét 2017. január 1-jétől kell alkalmazni.
+
+(5)–(7)
 
 99. §
 
@@ -1021,7 +1045,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - h) az Országos Könyvtári Kuratórium jogállását, összetételét és működését,
 - i) a közgyűjtemények finanszírozását és központi támogatását,
 - j) a bérpótlék mértékét és az arra jogosultak körét,
-- k) a sajtótermékek kötelespéldányainak szolgáltatását és hasznosítását,
+- k) a kiadványok kötelespéldányainak szolgáltatására kötelezettek körét, a kötelespéldány-szolgáltatással összefüggő jelentés szabályait, az e törvényben előírt kötelespéldány-szám szolgáltatása alóli kivételeket, a kötelespéldány-szolgáltatás módját és határidejét, a kötelespéldányra jogosult szervezetek körét, a kötelespéldányok szétosztásának módját, a kötelespéldányok megőrzésének és használatának szabályait, valamint a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítése esetén követendő eljárást,
 - l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét,
 - m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött olyan kulturális javak visszaadásának rendjét, amelyek állami tulajdonba tartozása minden kétséget kizáró módon nem igazolható.
 
@@ -1033,15 +1057,15 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - b) a múzeum, valamint az országos szakkönyvtár és a megyei könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 - c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
 - d) a muzeális intézmények működési engedélyeivel kapcsolatos kérdéseket,
-- e) a védetté nyilvánított kulturális javak, valamint a régészeti lelőhelyek nyilvántartását,
-- f) a muzeális intézmények nyilvántartási szabályzatát,
+- e)
+- f) a muzeális intézményekben őrzött kulturális javak papíralapú és elektronikus nyilvántartásának szabályait, valamint az elektronikus nyilvántartásra történő átállás feltételeit és eljárásrendjét,
 - g) a muzeális intézmények tevékenységével összefüggő szakmai követelményeket,
-- h) a múzeumi letét létrejöttére, a letéti szerződés tartalmi elemeire és felmondására, valamint a letéti díj megállapítására vonatkozó részletes szabályokat,
+- h) a múzeumi letét létrejöttére, a letéti szerződés tartalmi elemeire és megszűnésére, a letett kulturális javak kezelésére, valamint a letéti díj és a letéttel összefüggő költségek megállapítására vonatkozó részletes szabályokat,
 - i) a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 - j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
 - k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cseréjére és kölcsönzésére, valamint a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére vonatkozó részletes szabályokat,
-- l) a muzeális intézményekre, a könyvtárakra és a közművelődési intézményekre vonatkozó szakfelügyelet rendjét,
-- m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés és a szervezett képzés rendszerét,
+- l) a muzeális intézményekre, továbbá a könyvtárakra vonatkozó szakfelügyelet rendjét,
+- m) a különböző típusú könyvtárak működését, szakmai követelményeit,
 - n) a Könyvtárellátási Szolgáltató Rendszer működését,
 - o) a könyvtárak szervezeti és működési szabályzatának kötelező tartalmát,
 - p) a könyvtári dokumentumellátást,
@@ -1054,7 +1078,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
 - x) – törvényben meghatározott kivétellel – az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatait, a kiemelt feladatok ellátásának rendjét, valamint a kiemelt feladatok végrehajtásával összefüggésben a muzeális intézmények és a nyilvános könyvtárak kötelezettségeit,
 - y) a muzeális intézmény nyilvántartásában szereplő kulturális javak revíziójára és selejtezésére vonatkozó részletes szabályokat.
-- z)
+- z) a közművelődési feladatellátás szakfelügyelete szervezésének rendjét, a szakfelügyelet éves munkaprogramjával kapcsolatos előírásokat, a szakfelügyelet típusait, a szakfelügyelet által ellátott feladatokat, a szakfelügyelőt és a szakfelügyelet során vizsgált közművelődési feladatellátót illető jogokat és az őket terhelő kötelezettségeket, a szakfelügyelői és vezető szakfelügyelői megbízás feltételeit, a szakfelügyelők összeférhetetlenségének szabályait.
 
 (4)
 

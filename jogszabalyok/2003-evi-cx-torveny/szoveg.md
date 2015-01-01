@@ -32,7 +32,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
   - a) az adó különös szabályok szerinti megállapítása alá tartozó gépjárművel azonos gyártmányú, típusú, változatú és kivitelű gépjármű, amelyet az adó különös szabályok szerinti megállapítása alá tartozó gépjármű forgalomba helyezésének időszakában új állapotban vezettek be a belföldi piacra, vagy
   - b) azonos gépjármű vagy arra vonatkozó adatok hiányában az adó különös szabályok szerinti megállapítása alá tartozó gépjárműhöz az a) pontban felsorolt ismérveket tekintve hasonló gépjármű.
 - 14. elektronikus eljárás: a vámhatóság által üzemeltetett informatikai rendszeren vagy a központi elektronikus szolgáltató rendszeren (ügyfélkapun) keresztül kezdeményezett, az adó megállapítására irányuló elsőfokú adóigazgatási eljárás.
-- 15. gépjárműflotta-üzemeltető: az az Európai Gazdasági Térségben székhellyel rendelkező, gépjármű-bérbeadással foglalkozó személy, szervezet, amely tárgyév január 1-jén legalább 100 darab, külföldi hatósági jelzéssel ellátott személygépkocsi tulajdonosa, üzembentartója és a bérbeadást megelőző utolsó lezárt üzleti éve árbevételének legalább 75% -a gépjármű bérbeadásból, lízingbeadásból származik.
+- 15. gépjárműflotta-üzemeltető: az az Európai Gazdasági Térségben székhellyel rendelkező, gépjármű-bérbeadással foglalkozó személy, szervezet, amely tárgyév január 1-jén legalább 50 darab, külföldi hatósági jelzéssel ellátott személygépkocsi tulajdonosa, üzembentartója és a bérbeadást megelőző utolsó lezárt üzleti éve árbevételének legalább 75% -a gépjármű bérbeadásból, lízingbeadásból származik.
 
 ### Adókötelezettség
 
@@ -60,7 +60,7 @@ feltéve, hogy annak közvetlen következményeként a gépjárművet forgalomba
 
 (5) Közös tulajdon esetén a tulajdonostársak tulajdoni hányaduk arányában minősülnek adóalanyoknak. Az adó megfizetéséért a tulajdonostársak egyetemlegesen felelnek.
 
-(6) Ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye külföldön van, az adó alanya köteles az adókötelezettség teljesítése érdekében belföldön lakóhellyel vagy székhellyel rendelkező üzembentartót, vagy az Art.-ban meghatározott pénzügyi képviselőt meghatalmazni (a továbbiakban: képviselő). A képviselő az adókötelezettség teljesítéséért az adóalannyal egyetemlegesen felelős.
+(6) Ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye Közösség területén kívül van, az adó alanya köteles az adókötelezettség teljesítése érdekében belföldön lakóhellyel vagy székhellyel rendelkező üzembentartót, vagy az Art.-ban meghatározott pénzügyi képviselőt meghatalmazni (a továbbiakban: képviselő). A képviselő az adókötelezettség teljesítéséért az adóalannyal egyetemlegesen felelős.
 
 ### Adóelőleg fizetésére kötelezett személy
 
@@ -229,7 +229,7 @@ kell igazolni.
 
 16/A. § (1) A gépjárműflotta-üzemeltetőt a belföldi illetőségű személynek, szervezetnek – 1 napon túli időtartamra – bérbe adott személygépkocsija után a Melléklet szerinti adófizetési kötelezettség terheli.
 
-(2) Az adózó azt, hogy gépjárműflotta-üzemeltetőnek minősül a tulajdonában álló vagy üzembentartói jogával érintett személygépkocsi honossága szerint illetékes járműnyilvántartó, cégnyilvántartó hatóság és az árbevétel megoszlására vonatkozóan könyvvizsgáló által kiadott hiteles magyar fordítású igazolás bemutatásával tanúsítja.
+(2) Az adózó azt, hogy gépjárműflotta-üzemeltetőnek minősül a tulajdonában álló vagy üzembentartói jogával érintett személygépkocsik és az árbevétel megoszlására vonatkozóan könyvvizsgáló által kiadott hiteles magyar fordítású igazolás bemutatásával tanúsítja.
 
 (3) Az adózó a (2) bekezdés szerinti feltételek teljesülését adókötelezettségének adóévi első ízben való keletkezését követő, míg a személygépkocsi bérbeadási szerződését – annak megkötésétől számított – 15 napon belül nyújtja be a vámhatósághoz. Az adót a vámhatóság a bérleti szerződés benyújtását követő 3 munkanapon belül határozattal állapítja meg a gépjárműflotta-üzemeltető terhére.
 

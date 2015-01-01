@@ -356,6 +356,8 @@ szabható ki.
 
 (3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
 
+(3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.
+
 (4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
 (5) A (2) bekezdés f) pontja alapján végzett közigazgatási hatósági feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
