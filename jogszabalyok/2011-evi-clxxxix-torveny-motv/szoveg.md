@@ -122,7 +122,19 @@ képes ellátni.
 
 (3) Ha a helyi önkormányzat döntése során kétség merül fel a tekintetben, hogy a közterület neve megfelel-e a (2) bekezdésnek, arról beszerzi a Magyar Tudományos Akadémia állásfoglalását.
 
-14/A. § Azonos településen – a fővárosban azonos kerületen – belül eltérő nevű, azonos név esetén eltérő jellegű közterületek lehetnek.
+14/A. § (1) Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen az épített környezet alakításáról és védelméről szóló törvény szerinti épület található.
+
+(2) Közterület elnevezéseként nem alkalmazható
+
+- a) ugyanazon településen vagy a fővárosban ugyanazon a kerületen belül azonos jellegű közterületre alkalmazandó azonos,
+- b) kormányrendeletben meghatározottak szerint a közterületek megkülönböztetését lehetővé tevő szabályokkal való ellentét miatt összetéveszthető, vagy
+- c) kormányrendeletben meghatározottak szerint a közterületek elnevezésére vonatkozó technikai feltételekkel ellentétes
+
+elnevezés.
+
+(3) Közterület élő személyről nem nevezhető el.
+
+(4) Települések egyesítése, területrész átadása, a kerület határainak megváltoztatása után szükség esetén átnevezéssel kell gondoskodni arról, hogy az új település közterületnevei megfeleljenek a (2) és (3) bekezdésben meghatározott követelményeknek.
 
 15. § A helyi önkormányzat feladat- és hatásköreinek ellátása során – törvényben meghatározott módon és mértékben – biztosítja a közfoglalkoztatási jogviszonyban lévő személy feladatellátásba történő bevonását.
 
@@ -361,7 +373,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 36. § (1) Az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja nem folytathat olyan tevékenységet, amely a feladatainak ellátásához szükséges közbizalmat megingathatja, továbbá nem lehet
 
 - a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
-  - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet lát el;
+  - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el, illetve nevelőszülői foglalkoztatási jogviszonyban áll;
   - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
 - c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
@@ -382,11 +394,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) Az önkormányzati képviselő összeférhetetlenségének megállapítását bárki kezdeményezheti a polgármesternél, melyet az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottságnak haladéktalanul továbbítani kell kivizsgálásra. Ismételt kezdeményezés esetén, amennyiben az új tényt vagy körülményt nem tartalmaz, az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottság külön vizsgálat nélkül lezárja az ügyet, ebben az esetben a (2) bekezdés szerinti határozathozatalra sem kerül sor.
 
-(4) Az önkormányzati képviselő az összeférhetetlenségét, a tisztsége megszűnését megállapító képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított nyolc napon belül a törvényszéktől.
+(4) Az önkormányzati képviselő az összeférhetetlenségét, a tisztsége megszűnését megállapító képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított nyolc napon belül a közigazgatási és munkaügyi bíróságtól.
 
-(5) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság az önkormányzati képviselőt, a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
+(5) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – a polgári perrendtartásról szóló törvény a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit megfelelően alkalmazva nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság az önkormányzati képviselőt, a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
 
-(6) A kormányhivatal a törvényszéknél kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására az (5) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, valamint a kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+(6) A kormányhivatal a közigazgatási és munkaügyi bíróságnál kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására az (5) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, valamint a kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
 
 (7) Az önkormányzati képviselő tisztsége a képviselő-testület összeférhetetlenséget megállapító határozata – ha az ellen a rendelkezésre álló határidő alatt jogorvoslat iránti kérelemmel nem éltek – meghozatalának napján, jogorvoslati kérelem előterjesztése esetén a jogerős bírósági döntés napján szűnik meg.
 
@@ -714,7 +726,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 72. § (1) A 3000 fő és az az alatti lakosságszámú település polgármesterének, valamint a 3000 fő feletti település társadalmi megbízatású polgármesterének összeférhetetlenségére a 36. §-t kell alkalmazni.
 
-(2) A 3000 fő feletti lakosságszámú település főállású polgármestere tudományos, oktatói, lektori, szerkesztői, művészeti és jogi oltalom alá eső szellemi tevékenység kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
+(2) Az 1500 fő feletti lakosságszámú település főállású polgármestere – a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más keresőfoglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
 
 (3)
 
@@ -1303,36 +1315,38 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - h) pert indíthat a sorozatos törvénysértést elkövető polgármester tisztségének megszüntetése iránt;
 - i) fegyelmi eljárást kezdeményezhet a helyi önkormányzat polgármestere ellen és a polgármesternél a jegyző ellen;
 - j) kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását az Állami Számvevőszéknél;
-- k) szakmai segítséget nyújt a helyi önkormányzatnak a feladat- és hatáskörébe tartozó ügyben;
+- k)
 - l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra vagy a társulásra az e törvényben meghatározott esetekben.
 
 (2) A kormányhivatal törvényességi felügyeleti eljárásának célja a helyi önkormányzat képviselő-testülete, bizottsága, részönkormányzata, polgármestere, főpolgármestere, megyei közgyűlés elnöke, társulása, jegyzője (a továbbiakban: érintett) működése jogszerűségének biztosítása.
 
-(3) A kormányhivatal törvényességi felügyeleti eljárásában vizsgálja a helyi önkormányzat:
+(3) A kormányhivatal törvényességi felügyeleti eljárásában vizsgálja az érintett
 
-- a) szervezetének, működésének, döntéshozatali eljárásának jogszerűségét;
-- b) döntéseinek (rendelet, határozat) jogszerűségét;
-- c) törvényen alapuló jogalkotási, továbbá jogszabályon alapuló döntési és feladat-ellátási (közszolgáltatási) kötelezettségének teljesítését.
+- a) működésének, döntéshozatali eljárásának jogszerűségét;
+- b) döntéseinek jogszerűségét;
+- c) jogalkotási, továbbá jogszabályon alapuló döntési és feladatellátási kötelezettségének teljesítését.
 
-(4) Nem terjed ki a kormányhivatal törvényességi felügyeleti eljárása – az (5) bekezdésben foglalt kivétellel – azokra a helyi önkormányzat és szervei által hozott határozatokra:
+(4) Nem terjed ki a kormányhivatal törvényességi felügyeleti eljárása – az (5) bekezdésben foglalt kivétellel – az érintett által hozott azon döntésekre,
 
-- a) amelyek alapján munkaügyi vitának vagy közszolgálati jogviszonyból származó vitának vagy
-- b) jogszabályban meghatározott bírósági vagy közigazgatási hatósági eljárásnak van helye,
-- c) amelyet a képviselő-testület mérlegelési jogkörében hozott, a mérlegelési jogkörben hozott döntések esetében a kormányhivatal kizárólag a döntéshozatali eljárás jogszerűségét vizsgálhatja.
+- a) amelyek alapján munkaügyi vitának vagy közszolgálati jogviszonyból származó vitának,
+- b) jogszabályban meghatározott bírósági vagy közigazgatási hatósági eljárásnak van helye, vagy
+- c) amelyeket a képviselő-testület mérlegelési jogkörében hozott.
 
-(5) A kormányhivatal törvényességi felügyeleti eljárása kiterjed a (4) bekezdésben felsorolt határozatokra is a (3) bekezdés a) pontjában meghatározott körben, továbbá a (4) bekezdés a) pontja esetében, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.
+(5) A (4) bekezdés c) pontjától eltérően a kormányhivatal törvényességi felügyeleti eljárása kiterjed a mérlegelési jogkörben hozott döntésekre is a döntéshozatali eljárás jogszerűségének vizsgálata körében.
 
-### A kormányhivatal információkérési és javaslattételi joga
+### A kormányhivatal információkérési, javaslattételi joga és a szakmai segítségnyújtás
 
 133. § (1) A kormányhivatal a helyi önkormányzat feladat- és hatáskörébe tartozóan az érintettől információt, adatot kérhet, konzultációt kezdeményezhet, amelyeknek az érintett a megadott határidőn belül köteles eleget tenni.
 
-(2) A kormányhivatal javaslattal élhet a helyi önkormányzat működésére, szervezetére, döntéshozatali eljárására vonatkozóan. A javaslatot a helyi önkormányzat képviselő-testülete köteles megtárgyalni és arról döntést hozni. A javaslat elutasításának indokát a helyi önkormányzat köteles a kormányhivatallal ismertetni.
+(2) A kormányhivatal javaslattal élhet az érintett működésére, szervezetére, döntéshozatali eljárására vonatkozóan. A javaslatot a helyi önkormányzat képviselő-testülete, illetve a társulási tanács köteles megtárgyalni és arról döntést hozni. A javaslat elutasításának indokát a helyi önkormányzat, illetve a társulási tanács köteles a kormányhivatallal ismertetni.
+
+(3) A kormányhivatal szakmai segítséget nyújt az érintett részére az általa alkalmazandó jogszabályok tartalmával összefüggésben az érintett jogszerű működése céljából.
 
 ### A törvényességi felhívás
 
 134. § (1) Ha a kormányhivatal jogszabálysértést észlel, a törvényességi felügyelet körében legalább harminc napos határidő tűzésével felhívja az érintettet annak megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedéséről vagy egyet nem értéséről a kormányhivatalt írásban tájékoztatni.
 
-(2) A megadott határidő eredménytelen leteltét követően a kormányhivatal a törvényességi felügyeleti eljárás egyéb eszközeinek alkalmazásáról mérlegelési jogkörben dönt.
+(2) A törvényességi felhívás eredménytelensége esetén a kormányhivatal a törvényességi felügyeleti eljárás egyéb eszközeinek alkalmazásáról mérlegelési jogkörben dönt.
 
 ### A képviselő-testület és a társulási tanács ülésének összehívása
 
@@ -1344,7 +1358,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 136. § (1) Ha a kormányhivatal az önkormányzati rendeletet az Alaptörvénnyel ellentétesnek találja, – a törvényességi felügyelet 132. § (1) bekezdés a) és b) pontjában meghatározott eszközeinek eredménytelen alkalmazását követően – az önkormányzati rendelet alkotmánybírósági felülvizsgálatának Kormány általi kezdeményezése iránti javaslatát az Alkotmánybíróságról szóló törvényben meghatározott formai és tartalmi követelményeknek megfelelő indítvány tervezetének megküldésével terjeszti elő a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternél. A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter a javaslat megvizsgálását követően – a feltételek fennállása esetén – kezdeményezi a Kormánynál az önkormányzati rendelet Alaptörvénnyel való összhangja felülvizsgálatának indítványozását. A kormányhivatal az indítvány tervezetét a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek történő megküldésével egyidejűleg megküldi az érintett helyi önkormányzatnak is.
 
-(2) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül kezdeményezheti a Kúriánál az önkormányzati rendelet jogszabállyal való összhangjának felülvizsgálatát. A bírósági eljárás megindításával egyidejűleg az indítványt a kormányhivatal megküldi az érintett helyi önkormányzatnak.
+(2) A kormányhivatal kezdeményezheti a Kúriánál az önkormányzati rendelet jogszabállyal való összhangjának felülvizsgálatát. A bírósági eljárás megindításával egyidejűleg az indítványt a kormányhivatal megküldi az érintett helyi önkormányzatnak.
 
 (3) Az önkormányzati rendelet felülvizsgálatára irányuló bírósági indítvány tartalmazza:
 
@@ -1381,7 +1395,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 139. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzati határozat felülvizsgálatát.
 
-(2) Ha a jogszabálysértő önkormányzati határozat végrehajtása a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna, a közigazgatási és munkaügyi bíróság a határozat végrehajtását felfüggeszti.
+(2) A közigazgatási és munkaügyi bíróság a jogszabálysértő önkormányzati határozat végrehajtását felfüggesztheti.
 
 ### Önkormányzati határozathozatali és feladat-ellátási kötelezettség elmulasztása
 
@@ -1401,7 +1415,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (5) Ha a helyi önkormányzat a közigazgatási és munkaügyi bíróság által megadott határidőn belül nem tesz eleget határozathozatali kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál a mulasztás kormányhivatal által történő pótlásának az elrendelését az önkormányzat költségére.
 
-(6) A kormányhivatal kezdeményezésére a közigazgatási és munkaügyi bíróság soron kívüli eljárás keretében pótolja a kormányhivatal vezetője által kijelölt közös önkormányzati hivatalhoz tartozó települések közös önkormányzati hivatalának létrehozására vonatkozó megállapodását.
+(6)
 
 ### Törvényességi felügyeleti bírság megállapítása
 
@@ -1409,13 +1423,13 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 - a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv megküldési kötelezettségének;
 - b) ha az érintett határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
-- c) ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
+- c) ha bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
 - d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást;
 - e) ha az érintett ugyanazon jogszabályi kötelezettségét ismételten megsérti, azonban az ismételten megsértett jogszabályi kötelezettség súlya nem indokolja más törvényességi felügyeleti eszköz alkalmazását.
 
 (2) A törvényességi felügyeleti bírság legkisebb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap, legmagasabb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap tízszerese.
 
-(3) A törvényességi felügyeleti bírság ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
+(3) A törvényességi felügyeleti bírság a törvényességi felügyeleti eljárás során többször, vagy ugyanazon kötelezettség ismételt megszegése esetén ismételten is kiszabható. Ugyanazon kötelezettség ismételt megszegésének tekintendő a jogszabálysértő állapot folyamatos fenntartása is.
 
 (4) A törvényességi felügyeleti bírság kiszabásánál a kormányhivatal figyelembe veszi:
 
@@ -1455,7 +1469,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - c) a 23. § (4) bekezdésének 1. pontjában meghatározott, a fővárosi önkormányzat kezelésében lévő főútvonalak, közutak és közterületek kijelölését;
 - d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;
 - e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait;
-- f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat.
+- f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat;
+- g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
@@ -1495,7 +1510,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (3) A 11. § (2) bekezdés b) pontja, 90. § (2) bekezdése, 98. § (8) és (11) bekezdése alkalmazása során a költségvetési törvényben meghatározott lakosságszám az irányadó, egyéb esetekben a helyi önkormányzati képviselők és polgármesterek választásáról szóló törvényben meghatározott lakosságszámot és időpontot kell figyelembe venni.
 
-#### 146/A. §
+146/A. § E törvénynek a központi címregiszter létrehozásával összefüggő, valamint egyes igazgatási tárgyú törvények módosításáról szóló 2014. évi XCIII. törvénnyel megállapított 14/A. § (2)–(4) bekezdésében foglaltakat a 2015. január 1-jét követően elnevezett közterületek esetében kell alkalmazni.
 
 #### 146/B. §
 

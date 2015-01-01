@@ -214,6 +214,8 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 
 11/A. § A cégbíróság és a céginformációs szolgálat a cégnyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
+11/B. § Az e törvény szerint a cégeljárásban fizetendő közzétételi költségtérítés, a számviteli beszámoló közzétételéért és a céginformációért fizetendő költségtérítés együttesen – a cégeljárás, az e törvény szerinti nemperes eljárások és szolgáltatások során az elektronikus eljárást és ügyintézést támogató rendszer üzemeltetésével és fejlesztésével, az adatok feldolgozásával, továbbá a Cégközlöny szerkesztésével, kiadásával összefüggésben felmerült szükséges és igazolt költségek levonását követően – a központi költségvetés bevételét képezi.
+
 ### 2. CÍM — A papír alapú, valamint az elektronikus
 
 és az elektronikus okirattá alakított cégiratok megismerése
@@ -255,7 +257,7 @@ megismerhetők.
 
 (2) Az (1) bekezdésben nem említett céginformációért, valamint ha a kérelmező a céginformációt közokirat formájában kéri, a kérelmező a céginformációs szolgálat tevékenységének igénybevételéért – a szolgáltatás költségeivel összhangban álló – költségtérítést köteles fizetni.
 
-(2a) A céginformációért fizetendő költségtérítés – a szükséges és igazolt költségek levonását követően – a központi költségvetés bevételét képezi.
+(2a)
 
 (3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett kért céginformációt – az (1) bekezdésben nem említett cégadatokra és a (3a) bekezdésben foglaltakra is kiterjedően – ingyenesen bocsátja rendelkezésre. Esetükben – ha törvény eltérően nem rendelkezik – sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez.
 
@@ -297,7 +299,7 @@ megismerhetők.
 
 (8) A beszámoló közzétételére a céginformációs szolgálat honlapján, napi feltöltéssel kerül sor.
 
-(9) A közzétételi költségtérítést külön jogszabályban meghatározott módon kell megfizetni az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára. A közzétételi költségtérítés – az informatikai rendszer üzemeltetésével és a jogszabályváltozásokkal összefüggő fejlesztésével kapcsolatban felmerült szükséges költségek levonását követően – a központi költségvetés központosított bevételének minősül. A közzétételi költségtérítés befizetését a céginformációs szolgálat ellenőrzi. Ha a közzétételi költségtérítés befizetése nem vagy nem megfelelő összegben történt meg, erről a céginformációs szolgálat 30 napon belül értesíti az állami adóhatóságot. Ebben az esetben a céget úgy kell tekinteni, mint amely a letétbe helyezési és a közzétételi kötelezettségnek nem tett eleget.
+(9) A közzétételi költségtérítést külön jogszabályban meghatározott módon kell megfizetni az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára. A közzétételi költségtérítés befizetését a céginformációs szolgálat ellenőrzi. Ha a közzétételi költségtérítés befizetése nem történt meg, vagy a befizetési igazolás nem megfelelően került az elektronikus űrlaphoz csatolásra, a céginformációs szolgálat haladéktalanul elektronikus értesítést küld a beszámolót benyújtó személy részére. Ebben az esetben a céget úgy kell tekinteni, mint amely a letétbe helyezési és a közzétételi kötelezettségnek nem tett eleget.
 
 19. § (1) A kormányzati portál a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével elektronikus igazolást küld a beszámolót benyújtó személynek. A beszámoló megküldésére vonatkozó határidők tekintetében a céginformációs szolgálathoz történő – az informatikai szempontból szabályszerű – érkezés időpontja irányadó.
 
@@ -1148,7 +1150,7 @@ megállapítása iránti per
 
 (2) A törvényességi felügyeleti eljárás iránti elektronikus kérelmet, illetve a törvényességi felügyeleti eljárás során benyújtandó egyéb beadványt, valamint azok mellékleteit (a továbbiakban e § alkalmazásában együttesen: kérelem) a céginformációs szolgálathoz kell megküldeni. A kérelem a kormányzati portálon keresztül is benyújtható. A kérelemhez elektronikus űrlapot kell mellékelni. A kérelem és az űrlap informatikai feltételeire – a (4) bekezdésben foglalt kivétellel – a cégbejegyzési eljárásban benyújtható okiratokra vonatkozó szabályokat kell alkalmazni.
 
-(3) Ha a kérelmező cég, kérelmét kizárólag elektronikus úton nyújthatja be.
+(3) A cég a törvényességi felügyeleti eljárásban kérelmét kizárólag elektronikus úton nyújthatja be.
 
 (4) A (3) bekezdés szerinti cég, továbbá az elektronikus kapcsolattartást vállaló, a 77. § (1) bekezdés c) pontja szerinti, cégnek nem minősülő kérelmező a kérelmét legalább fokozott biztonságú elektronikus aláírással és minősített időbélyegzővel ellátva köteles benyújtani. Az elektronikus kapcsolattartásról a papír alapú kapcsolattartásra történő áttérést csak a 77. § (1) bekezdés c) pontja szerinti, cégnek nem minősülő kérelmező kezdeményezheti.
 

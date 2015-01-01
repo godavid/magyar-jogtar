@@ -367,7 +367,7 @@ végezhet.
 
 (6) A szövetkezeti formában működő szövetkezeti hitelintézet a 3. § (1) és (2) bekezdésében, valamint a 7. § (3) bekezdésében megjelölt tevékenységet, illetve kiegészítő tevékenységet végezhet.
 
-(7) A szövetkezeti hitelintézetekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat külön törvény állapítja meg.
+(7) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez csatlakozott hitelintézetekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat a Szhitv. állapítja meg.
 
 (8) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
 
@@ -421,7 +421,7 @@ végez (a továbbiakban együtt: független közvetítő).
 
 #### 8. Szervezeti szabályok
 
-11. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként vagy részvénytársaságként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként működhet.
+11. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként, illetőleg – banknak vagy szakosított hitelintézetnek minősülő – részvénytársaságként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként működhet.
 
 (2) A pénzügyi intézményre a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
 
@@ -450,7 +450,7 @@ induló tőkével alapítható.
 
 (5) Harmadik országbeli hitelintézet fióktelepe – ha törvény másként nem rendelkezik – legalább kétmilliárd forint dotációs tőkével alapítható.
 
-(6) Fióktelep formájában működő pénzügyi intézmény esetében az induló tőke alatt a dotációs tőke értendő.
+(6)
 
 (7) Pénzügyi holding társaság legalább kettőmilliárd forint induló tőkével alapítható.
 
@@ -635,7 +635,7 @@ induló tőkével alapítható.
 - k) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot,
 - l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 114. §-ban meghatározott egyedi helyreállítási tervét,
 - m) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
-- n) szövetkezeti hitelintézet esetében a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez benyújtott, csatlakozásról szóló nyilatkozatot, valamint
+- n) szövetkezeti hitelintézet esetében a Szhitv.-ben meghatározott Integrációs Szervezethez benyújtott, csatlakozásról szóló nyilatkozatot,
 - o) harmadik országbeli hitelintézet fióktelepe esetén, ha az a Felügyelet e törvény szerinti engedélye alapján nem csatlakozik az OBA-hoz,
   - oa) az ügyfelek – biztosított betéti formákról történő – magyar nyelvű tájékoztatására vonatkozó kötelezettségvállalását,
   - ob) a harmadik országbeli hitelintézetnek a betétesek Magyarországon történő kártalanítására vonatkozó kötelezettségvállalását, és
@@ -971,7 +971,7 @@ induló tőkével alapítható.
 
 (4) A Felügyelet a végelszámolást elrendelő határozatában kijelöli a végelszámolót, és meghatározza a végelszámolás kezdő időpontját, amely nem lehet korábbi, mint a határozat kelte.
 
-(5) A Felügyelet a végelszámolást elrendelő határozat meghozatalával egyidejűleg, ha a végelszámolás kezdő időpontja későbbi, mint a határozat kelte és korábban ez nem történt meg, akkor felügyeleti biztost rendelhet ki, akinek megbízatása a végelszámoló tevékenységének megkezdéséig tart, és a végelszámolás kezdő időpontjáig teljes körű kifizetési tilalmat rendelhet el.
+(5) A Felügyelet a végelszámolást elrendelő határozat meghozatalával egyidejűleg, ha a végelszámolás kezdő időpontja későbbi, mint a határozat kelte és korábban ez nem történt meg, akkor a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testülete teljes jogkörét átvevő felügyeleti biztost rendelhet ki, akinek megbízatása a végelszámoló tevékenységének megkezdéséig tart, és a végelszámolás kezdő időpontjáig teljes körű kifizetési tilalmat rendelhet el.
 
 (6) A végelszámolási eljárás befejezésének feltétele annak igazolása, hogy a jogosult számára ki nem fizetett betétek állomány-átruházása megtörtént.
 
@@ -1020,7 +1020,7 @@ fizetésképtelenségének vizsgálata nélkül köteles elrendelni.
 
 (2) A felszámolási eljárás megindítása iránti kérelem benyújtásához nem szükséges a Cstv. 23. § (1) bekezdésben meghatározott előzetes egyetértés.
 
-55. § (1) Ha a Felügyelet már a felszámolási eljárás iránti kérelem benyújtását megelőzően felügyeleti biztost rendelt ki, a megbízatása a felszámolás kezdő időpontjáig tart.
+55. § (1) Ha a Felügyelet már a felszámolási eljárás iránti kérelem benyújtását megelőzően a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének teljes jogkörét átvevő felügyeleti biztost rendelt ki, a felügyeleti biztos megbízatása a felszámolás kezdő időpontjáig tart.
 
 (2) A Felügyelet a felszámolási kérelem benyújtásától a felszámolást elrendelő végzés Cégközlönyben történő megjelenéséig teljes körű kifizetési tilalmat rendelhet el.
 
@@ -1032,10 +1032,13 @@ fizetésképtelenségének vizsgálata nélkül köteles elrendelni.
 
 57. § (1) Hitelintézet felszámolása során
 
-- a) az OBA által biztosított, valamint az 1993. június 30-át megelőzően – állami garanciával (helytállással) biztosított – betételhelyezésből eredő követeléseket a Cstv. 57. § (1) bekezdés c) pontját követő és a d) pontját megelőző kielégítési csoportba,
-- b) az a) pontba nem tartozó betételhelyezésből eredő követeléseket a Cstv. (1) bekezdés d) pontjába
+- a) az OBA által biztosított betétek kártalanítási kötelezettség alá tartozó betétrészeit, valamint az 1993. június 30-át megelőzően – állami garanciával (helytállással) biztosított – betételhelyezésből eredő követeléseket a Cstv. 57. § (1) bekezdés c) pontját követő és a d) pontját megelőző kielégítési csoportba,
+- b) a természetes személy, valamint a mikro-, kis- és középvállalkozás OBA által biztosított, kártalanítási kötelezettséget meghaladó betétrészből eredő követeléseket az a) pontot követő és a Cstv. 57. § (1) bekezdés d) pontját megelőző kielégítési csoportba,
+- c) az a) és b) pontba nem tartozó betételhelyezésből eredő követeléseket a Cstv. 57. § (1) bekezdés d) pontjába
 
 szükséges sorolni azzal, hogy e követelések a követelések arányában kerülnek kielégítésre.
+
+(1a) Az OBA hitelintézettel szembeni követeléseit – az (1) bekezdés a) pontjában meghatározott eltéréssel – a hitelintézet felszámolásakor a Cstv. 57. § (1) bekezdés e) pontjába szükséges sorolni azzal, hogy e követelések a követelések arányában kerülnek kielégítésre.
 
 (2) Hitelintézet felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
 
@@ -1328,9 +1331,7 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 
 - a) az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelmény,
 - b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény, valamint
-- c) a 86–96. § szerinti kombinált pufferkövetelmény
-
-összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb jegyzett tőke értékénél.
+- c) összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb jegyzett tőke értékénél.
 
 (3) A hitelintézet a forrásgyűjtését és eszközkihelyezését likviditása folyamatos fenntartása mellett végzi.
 
@@ -1628,11 +1629,11 @@ vonatkozó információkat.
 
 (2) A hitelintézet legalább évente felülvizsgálja az (1) bekezdés szerinti stratégiáját és eljárását annak érdekében, hogy azok összhangban legyenek a tevékenysége jellegével, nagyságrendjével és összetettségével.
 
-(3) EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság és EU-szintű vegyes pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendeletben meghatározott vállalkozások vonatkozásában összevont alapon felel meg.
+(3) A magyarországi székhelyű tagállami hitelintézet anyavállalat, tagállami pénzügyi holding társaság és vegyes pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendelet vonatkozásában összevont alapon felel meg.
 
-(4) Ha egy hitelintézet ellenőrző befolyás alatt áll vagy egy vállalkozás ezen hitelintézetben részesedési viszonnyal rendelkezik és a hitelintézet maga vagy a hitelintézet pénzügyi holding társaság anyavállalata vagy vegyes pénzügyi holding társaság anyavállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy harmadik országban székhellyel rendelkező hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban, befektetési alapkezelőben vagy járulékos vállalkozásban, akkor a hitelintézet az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendeletben meghatározott vállalkozások vonatkozásában összevont alapon is megfelel.
+(4) Ha egy hitelintézet ellenőrző befolyás alatt áll vagy egy vállalkozás ezen hitelintézetben részesedési viszonnyal rendelkezik és a hitelintézet maga vagy a hitelintézet pénzügyi holding társaság anyavállalata vagy vegyes pénzügyi holding társaság anyavállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy harmadik országban székhellyel rendelkező hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban, befektetési alapkezelőben vagy járulékos vállalkozásban, akkor a hitelintézet az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendeletben meghatározott vállalkozások vonatkozásában összevont alapon felel meg.
 
-(5) A tőkemegfelelés belső értékelési eljárására vonatkozó rendelkezéseket a központi szervhez tartósan kapcsolt hitelintézet a központi szervével együttesen teljesíti.
+(5) A tőkemegfelelés belső értékelési eljárására vonatkozó rendelkezéseket a központi szervhez tartósan kapcsolt hitelintézet az 575/2013/EU rendelet 10. cikkével összhangban teljesíti.
 
 #### 47. A kockázatvállalás korlátozása, ügyleti szabályok
 
@@ -1654,7 +1655,7 @@ vonatkozó információkat.
 
 100. § (1) A hitelintézet nem vállalhat kockázatot olyan ügyletért, amelynek célja, hogy az ügyfél a hitelintézet vagy a hitelintézettel szoros kapcsolatban álló vállalkozás által kibocsátott tagsági jogot megtestesítő értékpapírt, valamint szövetkezeti részesedést vásároljon.
 
-(2) Ha a hitelintézet olyan vállalkozás által kibocsátott értékpapír vagy olyan vállalkozás üzletrészének megszerzéséhez nyújt kölcsönt, amellyel szemben már kockázatot vállalt, akkor az ügyféllel szembeni kockázatvállalásnál figyelembe veszi az ilyen módon jelentkező közvetett kockázatvállalást is.
+(2)
 
 #### 49. Ingatlanbefektetések korlátozása
 
@@ -1704,6 +1705,26 @@ ha azt az egyéb befektetésektől elkülönítve tartja nyilván, és elkülön
 (2) A hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás haladéktalanul tájékoztatja a Felügyeletet, ha a 103. § szerinti feltételek már nem állnak fenn.
 
 105. § A Felügyelet a 104. § (1) bekezdése szerinti határozatát visszavonhatja, ha a pénzügyi vállalkozás a Felügyelet intézkedésében, kivételes intézkedésében foglalt határidőn belül nem tesz eleget a 103. §-ban rögzített követelményeknek.
+
+#### 51/A. Harmadik országbeli hitelintézet magyarországi fióktelepének mentesítése egyes prudenciális követelmények alól
+
+105/A. § (1) A harmadik országbeli hitelintézet magyarországi fióktelepét kérelmére a Felügyelet határozatban mentesítheti az 575/2013/EU rendelet Harmadik, Negyedik, Ötödik és Hetedik Részében meghatározott követelmények teljesítése alól, ha
+
+- a) a fióktelep legalább öt éve létesült, vagy a fióktelepet létesítő harmadik országbeli hitelintézet legalább öt éve rendelkezik magyarországi székhelyű hitelintézetben ellenőrző befolyással,
+- b) a kérelem benyújtását megelőző öt évben a Felügyelet nem alkalmazott a fiókteleppel, illetve a fióktelepet létesítő harmadik országbeli hitelintézet ellenőrző befolyása alatt álló hitelintézettel szemben kivételes intézkedést,
+- c) az Fkt. 11. § (1) bekezdésében foglaltakon túl a harmadik országbeli hitelintézet olyan visszavonhatatlan kötelezettségvállalásról szóló nyilatkozatot tesz, amelyben vállalja, hogy mindenkor fenntartja a fióktelep likviditását,
+- d) a harmadik országbeli hitelintézet és a fióktelep rendelkezik a végzendő tevékenység jellegének megfelelő, a kockázatvállalások megalapozottságát, áttekinthetőségét, a kockázatok felmérését és csökkentését, a kockázatok hatékony és eredményes kezelését biztosító belső szabályzatokkal és eljárásokkal,
+- e) a fióktelep nem jogosult fogyasztóktól betétet gyűjteni,
+- f) a harmadik országbeli hitelintézet biztosítja a székhelye szerinti prudenciális előírásoknak történő megfelelést és
+- g) a fióktelep tevékenysége nem veszélyezteti a pénzügyi közvetítőrendszer stabilitását.
+
+(2) A Felügyelet az (1) bekezdés szerinti határozatát visszavonja, ha
+
+- a) a fióktelep már nem felel meg az (1) bekezdés szerinti feltételeknek,
+- b) a fiókteleppel vagy a fióktelepet létesítő harmadik országbeli hitelintézet ellenőrző befolyása alatt álló hitelintézettel szemben kivételes intézkedést alkalmazott,
+- c) a fióktelep nem felel meg az eszközei és forrásai, valamint mérlegen kívüli tételei közötti denominációs összhangról rendelkező MNB elnökének rendeletében foglalt követelménynek,
+- d) a fióktelep engedély nélküli tevékenységet végez, vagy
+- e) a fióktelep vagy a fióktelepet létesítő harmadik országbeli hitelintézet fizetőképessége veszélybe kerül.
 
 #### 52. Belső hitel
 
@@ -1938,7 +1959,7 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (4) A hitelintézet a javadalmazási politikára vonatkozó szabályokat összevont alapon minden olyan vállalkozás tekintetében alkalmazza, amelyekre az összevont alapú felügyelet a hitelintézettel együttesen kiterjed.
 
-(5) A javadalmazási politika elveit a felügyeleti jogkörrel rendelkező vezető testület fogadja el, hajtja végre és vizsgálja felül, az irányítási jogkörrel rendelkező vezető testület felel annak ellenőrzéséért, és a javadalmazási politika végrehajtását legalább évente a hitelintézet belső ellenőrzése is ellenőrzi.
+(5) A javadalmazási politika elveit a felügyeleti jogkörrel rendelkező vezető testület fogadja el és vizsgálja felül, az irányítási jogkörrel rendelkező vezető testület felel annak végrehajtásáért, amelyet legalább évente a hitelintézet belső ellenőrzése is ellenőriz.
 
 (6) A mérlegfőösszeg tekintetében legalább öt százalék piaci részesedéssel rendelkező hitelintézetek javadalmazási bizottságot állítanak fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a hitelintézetben érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével.
 
@@ -1966,7 +1987,7 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (5) A hitelintézet igazolja a Felügyelet felé, hogy a javasolt magasabb alapjavadalmazás-teljesítményjavadalmazás arány nem ütközik a hitelintézet e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban, és az 575/2013/EU rendeletben meghatározott követelményekkel.
 
-(6) A hitelintézet a teljesítményjavadalmazás legfeljebb 25 százaléka esetében egy legalább ötéves időszakra kiterjesztett kifizetéskor az összeg meghatározására a Felügyelet rendeletében foglalt diszkontrátát alkalmazza.
+(6) A hitelintézet az (1) és (2) bekezdés alkalmazásakor a teljesítmény-javadalmazás legfeljebb 25 százalékáig diszkontált értéken veszi figyelembe a (11) bekezdésben meghatározott instrumentumokban nyújtott, legalább öt éves halasztási időszakkal juttatott teljesítmény-javadalmazási eszközöket.
 
 (7) Az (1) és a (2) bekezdésben rögzített korlátozásokat figyelembe véve az alapjavadalmazás és a teljesítményjavadalmazás aránya kiegyensúlyozott. Ezen belül az alapjavadalmazás olyan mértékű, hogy rugalmas javadalmazási politika érvényesüljön, és lehetőség legyen arra, hogy adott esetben a teljes javadalmazás kizárólag alapjavadalmazásból álljon.
 
@@ -2864,7 +2885,7 @@ a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rend
 - b) a 108. § (5) bekezdés b) pontja szerinti koncentrációs kockázat kezelésére,
 - c) az elismert hitelezési kockázat-mérséklési módszerek használatával kapcsolatos – a 108. § (5) bekezdés a) pontja szerinti – kockázat kezelésére szolgáló eljárások és szabályzatok megbízhatóságára, megfelelőségére és alkalmazási módjára,
 - d) a hitelintézet likviditási kockázatokkal szembeni kitettségének mértékére, e kockázatoknak a hitelintézet általi mérésére és kezelésére, ideértve az alternatív forgatókönyvek elemzését, a kockázatcsökkentő eszközök alkalmazását, a likviditási többlettartalékok mértékét, összetételét és minőségét, valamint a vészhelyzeti terveket,
-- e) a hitelportfólió-megoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
+- e) a kockázatmegoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
 - f) a piaci kockázattal kapcsolatos tőkekövetelményhez belső modell módszert használó hitelintézet által végrehajtott stressz-teszt eredményekre,
 - g) a kitettséggel szemben felmerülő országkockázatból eredő pótlólagos tőkekövetelményre,
 - h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
@@ -3194,13 +3215,17 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - b) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását, vagy
 - c) a szövetkezeti hitelintézet vezető tisztségviselőjének megbízatása a szövetkezeti hitelintézetek integrációjáról és az egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 15. § (4) bekezdés a) pontja alapján a Takarékbank Zrt. által felfüggesztésre kerül; illetve amennyiben a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 19. § (3), (7) vagy (13) bekezdése alapján visszavonja.
 
-195. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig hozott döntésekért a hitelintézet igazgatósági tagjának a gazdasági társaságokra, illetve a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
+195. § (1) Ha a felügyeleti biztos részben veszi át a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének jogkörét, a kirendeléséről rendelkező határozatban a Felügyelet meghatározza a pénzügyi intézménynél betöltött szerepét, feladatait és hatáskörét.
 
-(2) Ha nincs lehetőség a hitelintézet ügyeinek átvételére, a felügyeleti biztos közjegyző vagy rendőrség közreműködését veheti igénybe.
+(2) A pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének teljes jogkörét átvevő felügyeleti biztos kirendelésére kizárólag akkor kerülhet sor, ha a pénzügyi intézmény helyzete jelentősen megromlik vagy súlyosan megsérti a prudens működésre vonatkozó jogszabályi előírásokat és a Felügyelet nem látja biztosítottnak, hogy a pénzügyi intézmény működésének irányítása az irányítási jogkört részben átvevő felügyeleti biztos kirendelésével vagy a vezető testület leváltását követően egy új vezető testület útján megoldott lehet.
 
-196. § (1) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
+(3) A (2) bekezdés szerinti felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig hozott döntésekért a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testülete tagjának a gazdasági társaságokra, illetve a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
 
-(2) Az (1) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
+196. § (1) Az irányítási jogkörrel rendelkező vezető testület teljes jogkörét átvevő felügyeleti biztos kirendelésének ideje alatt az irányítási jogkörrel rendelkező vezető testület tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az irányítási jogkörrel rendelkező vezető testület tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
+
+(2) Az irányítási jogkört részben átvevő felügyeleti biztos kirendelése esetén az irányítási jogkörrel rendelkező vezető testület jogkörét csak annyiban gyakorolhatja, amennyiben az adott jogkört a felügyeleti biztost kirendelő határozat nem utalja a felügyeleti biztos jogkörébe.
+
+(3) Az (1) és (2) bekezdéstől eltérően az irányítási vagy a felügyeleti jogkörrel rendelkező vezető testület tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
 
 197. § (1) Ha a Felügyelet a 185. § (2) bekezdés c) pont cf) alpontja, a 48. § (5) bekezdése és az 55. § (2) bekezdése szerinti intézkedését a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való döntés közlését követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerhez közvetlenül csatlakozó résztvevő esetében a javára benyújtott fizetési megbízásnak a fizetési rendszer általi elszámolását, teljesítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.
 
@@ -3354,7 +3379,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 összege.
 
-(6) A pénzügyi vállalkozás által fizetendő változó díj éves mértéke a pénzügyi vállalkozás éves beszámolója szerinti mérlegfőösszeg 0,2 ezreléke azzal, hogy a kizárólag csoportfinanszírozást végző pénzügyi vállalkozás esetén a változó éves díj éves mértéke legfeljebb egymillió forint.
+(6) A pénzügyi vállalkozás valamint a 105/A. § alapján mentesített harmadik országbeli hitelintézet magyarországi fióktelepe által fizetendő változó díj éves mértéke a pénzügyi vállalkozás éves beszámolója szerinti mérlegfőösszeg 0,2 ezreléke azzal, hogy a kizárólag csoportfinanszírozást végző pénzügyi vállalkozás esetén a változó éves díj éves mértéke legfeljebb egymillió forint.
 
 (7) Ha a másik EGT-államában székhellyel rendelkező hitelintézet magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke
 
@@ -3976,7 +4001,7 @@ rendelkezhet.
 
 (2) A 3. § (2) bekezdés a) és c) pontjában meghatározott kiegészítő pénzügyi szolgáltatásokat végző jogi személy könyvvezetésére és könyvvizsgálatára a 258-264. § rendelkezéseit nem kell alkalmazni.
 
-(3) Magyarországon fiókteleppel rendelkező harmadik országbeli pénzügyi intézmény a saját joga alapján elkészített és könyvvizsgálóval hitelesített mérlegének és eredménykimutatásának hivatalos magyar nyelvű fordítását a jóváhagyását követő harminc napon belül két országos napilapban köteles közzétenni.
+(3) Magyarországon fiókteleppel rendelkező harmadik országbeli pénzügyi intézmény a saját joga alapján elkészített és könyvvizsgálóval hitelesített mérlegének és eredménykimutatásának hivatalos magyar nyelvű fordítását a jóváhagyását követő harminc napon belül a fióktelep honlapján közzéteszi.
 
 #### 114. Könyvvizsgálat
 
@@ -4377,7 +4402,14 @@ vonatkozó részletes szabályokat.
 - e) 479. cikk (4) bekezdésének megfelelően azon tőkeelemek átmeneti figyelembe vételi lehetőségére vonatkozó százalékos arányokat, amelyek a 2013. december 31-ig hatályos jogszabályok alapján figyelembe vehetőek voltak az összevont alapú elsődleges alapvető tőke számítás során, de az 575/2013/EU rendelet hatályos követelményeinek már nem felelnek meg,
 - f) 480. cikk (3) bekezdésének megfelelően a kisebbségi részesedések, a kiegészítő alapvető tőkébe beszámítható tőkeelemek, illetve a járulékos tőkébe beszámítható tőkeelemek összevont alapú szavatolótőkében való figyelembevételi lehetőségére vonatkozó arányokat,
 - g) 481. cikk (5) bekezdésének megfelelően az elsődleges alapvető tőkeelemekre, az alapvető tőkeelemekre, a járulékos tőkeelemekre és a szavatolótőke-elemekre a 2013. december 31-ig hatályos jogszabályok által előírt, de az 575/2013/EU rendeletben nem szereplő szűrők és levonások átmeneti alkalmazására vonatkozó százalékos arányokat,
-- h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembe vehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembe vételére vonatkozó százalékos arányokat.
+- h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembe vehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembe vételére vonatkozó százalékos arányokat,
+- i) 89. cikk (3) bekezdésének megfelelően azt, hogy a hitelintézeteknek a pénzügyi ágazaton kívüli befolyásoló részesedés vonatkozásában az 575/2013/EU rendelet 89. cikk (3) bekezdés a) vagy b) pontjában meghatározott követelményeknek kell megfelelniük,
+- j) 178. cikk (1) bekezdés b) pontjának megfelelően azon időtartamot, amelyen túl az ügyfél nemteljesítését megtörténtnek kell tekinteni,
+- k) 178. cikk (2) bekezdés d) pontjának megfelelően azt a határértéket, amely alapján a hitelkötelezettség-teljesítési késedelem jelentősnek minősül,
+- l) 327. cikk (2) bekezdésének megfelelően az átváltható értékpapír és az annak alapjául szolgáló eszköz kiegyenlítő pozíciója közötti nettósítás alkalmazhatóságának feltételéül szolgáló módszert,
+- m) 395. cikk (1) bekezdésének megfelelően a 150 millió eurónál alacsonyabb nagykockázat-vállalási határérték alkalmazását,
+- n) 400. cikk (2) bekezdésének megfelelően a nagykockázat-vállalási korlát alól mentesített kitettségek körét,
+- o) 416. cikk (5) bekezdésének megfelelően a magas és rendkívül magas likviditású és hitelminőségű eszközök körét.
 
 (5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
 
@@ -4490,6 +4522,8 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 304. § A Szantv. 161. § (9) bekezdésével megállapított 114. §-ban foglalt helyreállítási tervet valamint csoportszintű helyreállítási tervet a Szantv. hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő hitelintézet irányítási jogkörrel rendelkező vezető testülete első alkalommal legkésőbb 2014. december 31-ig köteles a Felügyeletnek benyújtani.
 
 304/A. § A 288/A. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 288/B. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
+
+304/B. § A hitelintézet 2015. március 31-éig tájékoztatja a közösségi betéttel és a hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapírral rendelkező betéteseket a betétbiztosítás tekintetében 2015. július 3-án hatályba lépő változásokról.
 
 #### 131. Az Európai Unió jogának való megfelelés
 

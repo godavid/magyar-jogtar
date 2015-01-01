@@ -20,7 +20,7 @@ a közúti közlekedésről
 
 (3) Magyarország területén külföldi hatósági jelzéssel ellátott járművekre , azok üzembentartójára és vezetőjére a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben jogszabály, nemzetközi szerződés, egyezmény vagy megállapodás másként nem rendelkezik.
 
-(4) A Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat, valamint a rendvédelmi szervek
+(4) A Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek
 
 - a) tagjaira,
 - b) üzemben tartott járműveire, és azok forgalomba helyezésére, valamint időszakos vizsgálatára, továbbá
@@ -869,6 +869,21 @@ gyártóval szemben 100 000 forinttól 1 000 000 forintig terjedő bírság szab
 
 (3) Az (1) bekezdésben meghatározott rendelkezések megtartását a közlekedési hatóság ellenőrzi.
 
+22/B. § (1) A közlekedési hatóság a 44. § (2) bekezdésben foglalt ellenőrzési jogosultság igazolása érdekében a közlekedési hatósági közúti ellenőrökről névjegyzéket vezet (a továbbiakban: közúti ellenőri névjegyzék). A közúti ellenőri névjegyzék tartalmazza a közúti ellenőr
+
+- a) azonosítóját,
+- b) nevét,
+- c) születési helyét és idejét,
+- d) anyja nevét,
+- e) igazolványképét,
+- f) igazolványának számát.
+
+(2) Az (1) bekezdés b)–d) pontjaiban meghatározott adatokban bekövetkezett változásokat a közúti ellenőr a változás bekövetkezésétől számított 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
+
+(3) A közúti ellenőri névjegyzék az (1) bekezdés a), b) és f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(4) A közlekedési hatóság az (1) bekezdés szerinti adatokat a közúti ellenőr ellenőrzési jogosultságának megszűnésének évét követő ötödik naptári év végéig kezeli.
+
 23. § (1) Jármű – a (3) bekezdésben meghatározott vizsgálatot követően – abban az esetben helyezhető forgalomba, ha a tulajdonos igazolja a tulajdonjog megszerzését, a külön jogszabályban meghatározott regisztrációs adót megfizették és a járműre gépjármű-felelősségbiztosítási szerződést kötöttek.
 
 (2) A jármű forgalomba helyezése a hatósági jelzés és engedély kiadásával és az országos járműnyilvántartásba bejegyezésével valósul meg.
@@ -1080,7 +1095,7 @@ nem terjednek ki.
 - a) az eltűrhető forgalomnagyság határértéke nem teljesül, vagy
 - b) a jogszabályban foglalt egyéb előírás (pl. előírt környezeti határérték) az útépítést követően nem teljesül.
 
-(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként az Állami Autópálya Kezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁAK Zrt.) jár el.
+(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) jár el.
 
 29/A. § (1) A közlekedési hatóság az engedély nélküli vagy az engedélytől eltérő útépítés, útmegszüntetés, elbontás esetén, illetve az engedély nélküli forgalomba helyezés esetén az építtetőt határozattal bírság megfizetésére kötelezheti.
 
@@ -1147,7 +1162,7 @@ terjedhet.
 
 (3) Ha az (1) bekezdésben megjelölt utak forgalmi jellege (az út jelentősége, forgalmi terhelése és a forgalom összetétele) megváltozik, a 29. §, illetve a 46/A. § szerint hatáskörrel rendelkező közlekedési hatóság országos közút esetén a vagyonkezelő, helyi közút és magánút esetén a tulajdonos kérelmére a vonatkozó elfogadott terület-, illetve településrendezési eszközök szükség szerinti módosítását követően az országos közút helyi közúttá vagy magánúttá, a helyi közút országos közúttá vagy magánúttá, a magánút helyi közúttá vagy országos közúttá minősítéséről határozatot hoz. Az utak tulajdonosai ezt követően az utak tulajdonjogának egymás javára – helyi és országos közutak esetén térítés nélkül – történő átadásáról a változások ingatlan-nyilvántartáson való átvezetésére alkalmas megállapodást kötnek. Amennyiben a közlekedési hatóság állami tulajdonú ingatlanon megépített utat helyi közúttá vagy önkormányzati tulajdonú ingatlanon megépített utat országos közúttá minősít, az érintett ingatlan tulajdonosa a közút tulajdonjogát országos közút esetén az államnak, helyi közút esetén az önkormányzatnak az egymás közötti – ingatlan-nyilvántartáson való átvezetésére alkalmas – megállapodással köteles átadni.
 
-(4) A 8. § (1) bekezdés h) pontjában, a 11. § (2) bekezdésében, a 34. § (1) bekezdésében, valamint más jogszabályban meghatározott, az országos közúthálózat üzemeltetésére, fenntartására és fejlesztésére, a díjpolitika megalapozására, valamint a használati díj- és pótdíjszedésre, a pótdíj behajtására és a díj ellenőrzésre vonatkozó állami feladatok pénzügyi forrásait a költségvetési törvényben a 33. § (5) bekezdésében meghatározott szerv költségvetésében kell megállapítani.
+(4) A 8. § (1) bekezdés a) pontja 3. alpontjában, a 11. § (2) bekezdésében, a 34. § (1) bekezdésében, valamint más jogszabályban meghatározott, az országos közúthálózat üzemeltetésére, fenntartására és fejlesztésére, a díjpolitika megalapozására, valamint a használati díj- és pótdíjszedésre, a pótdíj behajtására és a díj ellenőrzésére vonatkozó állami feladatok pénzügyi forrásait a központi költségvetésről szóló törvényben kell megállapítani.
 
 (5) Az összközlekedési fejlesztési tervek, az ezekhez kapcsolódó stratégiák, megvalósíthatósági tanulmányok, forgalmi tanulmányok, döntés-előkészítő tanulmányok elkészítésével kapcsolatos egyes feladatokat, valamint a közlekedési infrastruktúra fejlesztése során a műszaki megvalósítás szakmai koordinációját, illetve a források felhasználásának műszaki ellenőrzését ellátó mérnök munkájának koordinációs feladatait a 33. § (5) bekezdésében meghatározott szerv látja el a miniszter által rendeletben meghatározott szabályok szerint.
 
@@ -1181,13 +1196,22 @@ terjedhet.
 
 (3)
 
-(4) Az útdíjakból származó bevételt a közlekedési hálózat egésze fejlesztésének lehetővé tételére, a közlekedési szektor javára és a teljes közlekedési rendszer javítására kell felhasználni.
+(4)
 
-(4a) A használati díjból származó bevétel a (4) és (5) bekezdésben foglaltakat megelőzően a 33/B. § (7) bekezdésében meghatározott díjszedő által a használati díj és az útdíj kezelésére alkalmas díjszedési és díjellenőrzési rendszer bevezetésének előkészítésével, a rendszer kiépítésével, működtetésével, finanszírozásával, a díjszedési és díjellenőrzési feladatok ellátásával kapcsolatos költségekre használandó fel.
+(4a)
 
-(5) A használati díjakból származó bevétel a 32. § (4)–(5) bekezdésében meghatározott célokra, valamint a közlekedési infrastruktúra fejlesztésében állami feladatokat ellátó NIF Zrt. más forrásból meg nem térülő működési költségeinek fedezetét biztosító, továbbá a 29. § (1) bekezdése szerinti építtetői feladatok ellátása körében az országos közutak felújítását és fejlesztését szolgáló projektek megvalósítását biztosító támogatás nyújtására használható fel, ezen bevétel a 33. § (5) bekezdése szerinti szerv költségvetésének részét képezi.
+(5) A használati díjakból származó bevétel a 32. § (4) és (5) bekezdésében meghatározott célokra, valamint a közlekedési infrastruktúra fejlesztésében állami feladatokat ellátó NIF Zrt. más forrásból meg nem térülő működési költségeinek fedezetét biztosító, továbbá a 29. § (1) bekezdése szerinti építtetői feladatok ellátása körében az országos közutak felújítását és fejlesztését szolgáló projektek megvalósítását biztosító támogatás nyújtására használható fel.
 
-(6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését az ÁAK Zrt. látja el. Ennek végrehajtása érdekében a KKK szerződést köt az ÁAK Zrt.-vel.
+(5a) A használati díjból származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezet javára számolandó el mint költségvetési bevétel.
+
+(5b) A használati díjból származó bevételt
+
+- a) nettó díjak összege,
+- b) általános forgalmi adó
+
+jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
+
+(6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését a NÚSZ Zrt. látja el. Ennek végrehajtása érdekében a KKK szerződést köt a NÚSZ Zrt.-vel.
 
 33/B. § (1) A használati díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, valamint megfizetésének elmaradása esetén a pótdíj mértékét, a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
 
@@ -1205,7 +1229,7 @@ terjedhet.
 
 (7)
 
-(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelő, valamint az ÁAK Zrt. jogosult.
+(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelő, valamint a NÚSZ Zrt. jogosult.
 
 (9)
 
@@ -1217,13 +1241,15 @@ terjedhet.
   - ca) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított, a 20. § (7a) bekezdésében meghatározott mértékű szabályszegés esetén az eljárásra hatáskörrel rendelkező hatóság kiérkezéséig – de legfeljebb két óra időtartamra – a járművet visszatartani,
   - cb) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított szabályszegés esetén – ha az eljárás lefolytatására hatáskörrel rendelkező szerv intézkedésére nem került sor – a közigazgatási bírság kiszabása érdekében a bizonyítékok megküldésével együtt értesíteni az illetékes hatóságot,
 - d) a díjköteles útszakasz azonnali elhagyását elrendelni,
-- e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyv átadásával az úthasználót a pótdíj megfizetésére kötelezni.
+- e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyvnek az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet részére történő átadásával az úthasználót a pótdíj megfizetésére kötelezni.
 
 (2) Az (1) bekezdésben meghatározott intézkedésekről jegyzőkönyv, az úthasználó személyazonosító okmányairól és a gépjármű azonosító okmányairól másolat készítésére kizárólag jogsértés megállapítása esetén kerül sor.
 
 (3) Az (1) bekezdés a)–b) és d)–e) pont szerinti intézkedések megtételére, valamint ezen tevékenységhez kapcsolódóan a 33/B. § (4) bekezdés szerinti adatkezelésre a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve is jogosult.
 
 (4) Az (1) bekezdésben meghatározott feladatok ellátása során az ellenőrzésre jogosult szervezet közvetlenül adathozzáféréssel átveheti a gépjármű-nyilvántartásból a jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat, valamint az arra vonatkozó adatot, hogy ellenőrzés alá vont jármű a díjköteles útszakaszok térítésmentes használatára jogosultak nyilvántartásában szerepel.
+
+(5) A Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából – egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel vagy megkeresés útján – jogosult átvenni a gépjármű-nyilvántartásból a jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat, az arra vonatkozó adatot, hogy ellenőrzés alá vont jármű a díjköteles útszakaszok térítésmentes használatára jogosultak nyilvántartásában szerepel, valamint a közút kezelője vagy az általa megbízott közreműködő, továbbá a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti ellenőrzésére jogosult hatóság, valamint a külön jogszabály szerinti útdíjszedő által kezelt, a jármű tömegére, tengelyterhelésére, valamint méretére vonatkozó adatokat a mérés időpontjával, helyszínével és a jármű forgalmi rendszámával együtt. Az állami adó- és vámhatóság a feladatai ellátásához átvett adatokat 7 évig kezelheti.
 
 34. § (1) A közút kezelője – az országos és a helyi közutak kezeléséről szóló jogszabályok szerint eljárva – köteles gondoskodni arról, hogy a közút a biztonságos közlekedésre alkalmas, közvetlen környezete esztétikus és kulturált legyen.
 
@@ -1333,7 +1359,7 @@ a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak e
 
 (7) A közlekedési hatóság a külön engedély alapján üzemeltetett, valamint a nem közúti közlekedési szolgáltatást végző járművek esetében az (1) bekezdés c)–e) pontjában megjelölt ellenőrzéseket a jármű telephelyén is végezheti, az f) pontban meghatározott járműfenntartó tevékenységet csak telephelyen ellenőrizheti.
 
-(8)
+(8) A közlekedési hatóság a törvényben meghatározott ellenőrzési feladatai ellátásához a Kormány rendeletében meghatározott módon jogosult átvenni a más ellenőrzésre jogosult hatóság által végzett közúti ellenőrzések során keletkezett, valamint a külön jogszabály szerinti útdíjszedő, a közút kezelője vagy az általa megbízott közreműködő által kezelt, a jármű tömegére, tengelyterhelésére, valamint méretére vonatkozó adatokat a mérés időpontjával, helyszínével és a jármű forgalmi rendszámával együtt.
 
 ### A gépjárművezetőkre vonatkozó
 

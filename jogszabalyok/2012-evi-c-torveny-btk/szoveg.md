@@ -910,7 +910,7 @@ nem haladhatja meg.
 
 90. § (1) Erőszakos többszörös visszaesővel szemben a 33. § (4) bekezdése nem alkalmazható.
 
-(2) Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.
+(2) Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni.
 
 (3) Az erőszakos többszörös visszaesővel szemben a büntetés
 
@@ -961,6 +961,8 @@ házi őrizetben töltött idő felel meg.
 
 (2) Ha az (1) bekezdés alkalmazásával megállapítandó végrehajtási fokozat az elítélt számára méltánytalan hátrányt jelentene, eggyel enyhébb fokozat állapítható meg.
 
+(3) Ha a feltételes szabadságra bocsátás lehetősége nem kizárt, annak legkorábbi időpontját a legszigorúbb rendelkezés alapján kell meghatározni. Nem bocsátható feltételes szabadságra az elítélt az összbüntetésből, ha bármelyik szabadságvesztés esetén a feltételes szabadságra bocsátás lehetősége kizárt.
+
 96. § (1) Ha a foglalkozástól eltiltást, a járművezetéstől eltiltást, a kitiltást, a sportrendezvények látogatásától való eltiltást vagy a kiutasítást szabadságvesztés mellett szabták ki, és a szabadságvesztés büntetéseket összbüntetésbe foglalták, akkor több, azonos tartalmú foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás közül azt kell végrehajtani, amelyik az elítéltre hátrányosabb.
 
 (2) A közügyektől eltiltás mellékbüntetés nem foglalható összbüntetésbe. Több közügyektől eltiltás mellékbüntetés közül azt kell végrehajtani, amelyik a leghosszabb tartamú.
@@ -971,7 +973,7 @@ házi őrizetben töltött idő felel meg.
 
 97. § (1) A büntetőjogi felelősség megállapításához, büntetés kiszabásához vagy intézkedés alkalmazásához fűződő hátrányos jogkövetkezményt törvény állapíthat meg.
 
-(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben.
+(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 1998. évi XIX. törvény 178/A. § (2) bekezdése szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.
 
 ### A mentesítés hatálya
 
@@ -5262,23 +5264,24 @@ követik el.
 
 ### Információs rendszer vagy adat megsértése
 
-423. § (1) Aki
+423. § (1) Aki információs rendszerbe az információs rendszer védelmét biztosító technikai intézkedés megsértésével vagy kijátszásával jogosulatlanul belép, vagy a belépési jogosultsága kereteit túllépve vagy azt megsértve bent marad, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-- a) információs rendszerbe az információs rendszer védelmét biztosító technikai intézkedés megsértésével vagy kijátszásával jogosulatlanul belép, vagy a belépési jogosultsága kereteit túllépve vagy azt megsértve bent marad,
-- b) az információs rendszer működését jogosulatlanul vagy jogosultsága kereteit megsértve akadályozza, vagy
-- c) információs rendszerben lévő adatot jogosulatlanul vagy jogosultsága kereteit megsértve megváltoztat, töröl vagy hozzáférhetetlenné tesz,
+(2) Aki
 
-vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+- a) az információs rendszer működését jogosulatlanul vagy jogosultsága kereteit megsértve akadályozza, vagy
+- b) információs rendszerben lévő adatot jogosulatlanul vagy jogosultsága kereteit megsértve megváltoztat, töröl vagy hozzáférhetetlenné tesz,
 
-(2) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdés b)–c) pontjában meghatározott bűncselekmény jelentős számú információs rendszert érint.
+bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt közérdekű üzem ellen követik el.
+(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény jelentős számú információs rendszert érint.
 
-(4) E § alkalmazásában adat: információs rendszerben tárolt, kezelt, feldolgozott vagy továbbított tények, információk vagy fogalmak minden olyan formában való megjelenése, amely információs rendszer általi feldolgozásra alkalmas, ideértve azon programot is, amely valamely funkciónak az információs rendszer által való végrehajtását biztosítja.
+(4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt közérdekű üzem ellen követik el.
+
+(5) E § alkalmazásában adat: információs rendszerben tárolt, kezelt, feldolgozott vagy továbbított tények, információk vagy fogalmak minden olyan formában való megjelenése, amely információs rendszer általi feldolgozásra alkalmas, ideértve azon programot is, amely valamely funkciónak az információs rendszer által való végrehajtását biztosítja.
 
 ### Információs rendszer védelmét biztosító technikai intézkedés kijátszása
 
-424. § (1) Aki a 375. vagy a 423. §-ban meghatározott bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő
+424. § (1) Aki a 375. §-ban, a 422. § (1) bekezdés d) pontjában vagy a 423. §-ban meghatározott bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő
 
 - a) jelszót vagy számítástechnikai programot készít, átad, hozzáférhetővé tesz, megszerez, vagy forgalomba hoz, illetve
 - b) jelszó vagy számítástechnikai program készítésére vonatkozó gazdasági, műszaki, szervezési ismereteit más rendelkezésére bocsátja,
@@ -5878,7 +5881,7 @@ követik el.
 - c) 209. és 356. §-a az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
 - d) 241–243. és 249. §-a a környezet büntetőjog általi védelméről szóló, 2008. november 19-i 2008/99/EK európai parlamenti és tanácsi irányelvnek,
 - e) 290–291. §-a a magánszektorban tapasztalható korrupció elleni küzdelemről szóló, 2003. július 22-i 2003/568/EK tanácsi kerethatározatnak,
-- f) 375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokról szóló, 2005. február 24-i 2005/222/IB tanácsi kerethatározatnak,
+- f) 375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek,
 - g) 389. §-a az euró bevezetésével kapcsolatos pénzhamisítás elleni, büntetőjogi és egyéb szankciókkal megvalósuló védelem megerősítésről szóló, 2000. május 29-i 2000/383/IB tanácsi kerethatározat 3–6. cikkének,
 - h) 392–394. §-a a nem készpénzes fizetőeszközökkel összefüggő csalás és hamisítás elleni küzdelemről szóló, 2001. május 28-i 2001/413/IB tanácsi kerethatározat 2., 4. és 6. cikkének,
 - i) 399–400. §-a a pénzügyi rendszereknek a pénzmosás, valamint terrorizmus finanszírozása céljára való felhasználásának megelőzéséről szóló, 2005. október 26-i 2005/60/EK európai parlamenti és tanácsi irányelvnek

@@ -86,6 +86,7 @@ a következő törvényt alkotja:
   - b) nem rendelkezik az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső államban fekvő föld tulajdonjogával,
   - c) e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel rendelkezik, és
   - d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő mezőgazdasági termelőként nyilvántartásba vételre kerül;
+- 22a. rekreációs célú földszerzés: a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár által a települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) tulajdonában álló és határozattal ilyen célú megszerzésre kijelölt, legfeljebb 1 hektár területnagyságú föld megszerzése abból a célból, hogy a szerző fél a földet a saját, valamint az együttélő családtagjai szükségleteit meg nem haladó mértékben használja és szedje annak hasznait;
 - 23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével közvetve érintkezik;
 - 24. tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára, ide nem értve a belföldi természetes személyt;
 - 25. tanya: a település külterületén fekvő, legfeljebb 1 hektár nagyságú olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terméktárolás céljára létesített lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik, vagy az olyan földrészlet, amely az ingatlan-nyilvántartásban tanyaként szerepel;
@@ -126,6 +127,8 @@ a következő törvényt alkotja:
 
 (3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár a tulajdonjogot átruházó személy közeli hozzátartozója.
 
+(3a) A (2) bekezdést nem kell alkalmazni a rekreációs célú földszerzés esetén.
+
 (4) A (2) bekezdésben meghatározott tulajdonszerzési jogosultság mértékének megállapításánál a területnagyság mértékébe a földdel azonos helyrajzi számon nyilvántartott művelés alól kivett terület (alrészlet) területnagyságát is be kell számítani.
 
 11. § (1) A 10. §-ban foglaltaktól eltérően, a föld tulajdonjogát – a Nemzeti Földalapról szóló törvényben meghatározott földbirtok-politikai irányelvek érvényesítése, valamint közfoglalkozás, illetve más közérdekű cél megvalósítása érdekében – az állam, valamint a (2) bekezdésben meghatározott jogi személy is megszerezheti a (2) bekezdésben meghatározott esetekben és feltételekkel.
@@ -134,7 +137,7 @@ a következő törvényt alkotja:
 
 - a) a bevett egyház vagy annak belső egyházi jogi személye tartási, életjáradéki, gondozási, ajándékozási szerződés alapján, valamint végintézkedéssel,
 - b) jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvényben foglalt korlátozásokkal és időtartamra,
-- c) a föld fekvése szerint illetékes települési önkormányzat a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) közfoglalkoztatás és településfejlesztés céljára
+- c) a föld fekvése szerint illetékes települési önkormányzat közfoglalkoztatás és szociális földprogram és településfejlesztés céljára
 
 szerezheti meg.
 
@@ -187,7 +190,7 @@ javára engedi át;
 
 #### 5. A földtulajdon, illetve a birtokban tartható összes föld megengedett mértéke
 
-16. § (1) A földműves, valamint a 10. § (3) bekezdésében meghatározott személy a föld tulajdonjogát – a már tulajdonában és a haszonélvezetében lévő föld területnagyságának a beszámításával – 300 hektár mértékig szerezheti meg (földszerzési maximum).
+16. § (1) A földműves, valamint a 10. § (3) és (3a) bekezdésben meghatározott módon szerző személy a föld tulajdonjogát – a már tulajdonában és a haszonélvezetében lévő föld területnagyságának a beszámításával – 300 hektár mértékig szerezheti meg (földszerzési maximum).
 
 (2) A földműves, valamint mezőgazdasági termelőszervezet – a (3) bekezdésben meghatározott esetek kivételével – a föld birtokát – a már birtokában lévő föld területnagyságának a beszámításával – legfeljebb 1200 hektár mértékig szerezheti meg (birtokmaximum).
 
@@ -243,12 +246,13 @@ javára engedi át;
 
 (5) Több föld egybefoglalt vételáron történő eladására akkor kerülhet sor, ha azok egymással szomszédosak, vagy egy mezőgazdasági üzemközponthoz tartoznak.
 
-20. § E törvény szerinti elővásárlási jog nem áll fenn
+20. § Elővásárlási jog nem áll fenn
 
 - a) a közeli hozzátartozók közötti adás-vétel,
 - b) a tulajdonostársak közötti, a közös tulajdon megszüntetését eredményező adás-vétel,
 - c) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vétel,
-- d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel
+- d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel,
+- e) rekreációs célú földszerzés
 
 esetén.
 
@@ -435,7 +439,9 @@ belül döntést hoz.
 
 #### 10. Általános szabályok
 
-38. § (1) A föld tulajdonosa, haszonélvezeti jog fennállása esetén a haszonélvező (e fejezetben a továbbiakban együtt: használatba adó) a föld használatát, hasznosítását az e törvényben meghatározott természetes személy, valamint jogi személy javára haszonbérlet, feles bérlet, részesművelés, illetve szívességi földhasználat jogcímén engedheti át az e törvényben meghatározott módon és mértékben.
+38. § (1) A föld tulajdonosa, haszonélvezeti jog fennállása esetén a haszonélvező (e fejezetben a továbbiakban együtt: használatba adó) a föld használatát, hasznosítását az e törvényben meghatározott természetes személy, valamint jogi személy javára haszonbérlet, feles bérlet, részesművelés, illetve szívességi földhasználat, továbbá az (1a) bekezdésben meghatározott rekreációs célú földhasználat jogcímén engedheti át az e törvényben meghatározott módon és mértékben.
+
+(1a) A rekreációs célú földhasználati szerződés a települési önkormányzat, mint használatba adó, valamint a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár, illetve mezőgazdasági termelőszervezetnek nem minősülő civil szervezet, mint használó között létrejött olyan szerződés, melynek alapján a használó a települési önkormányzat tulajdonában álló, legfeljebb 1 hektár területnagyságú földet a saját, illetve az együttélő családtagjai szükségleteit meg nem haladó mértékben használja, és szedi annak hasznait. A rekreációs célú földhasználati szerződés határozott időtartamra, legalább 1 gazdasági évre, és legfeljebb 5 évre köthető meg. Ha a rekreációs célú földhasználati szerződés alapján a használó a földhasználatért ellenszolgáltatással tartozik, a szerződés megszűnésére a haszonbérleti szerződés megszűnésére vonatkozó rendelkezéseket kell alkalmazni.
 
 (2) A haszonbérletre e törvény rendelkezései mellett a Polgári Törvénykönyv (a továbbiakban: Ptk.), valamint a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény haszonbérletre vonatkozó szabályait is alkalmazni kell. E törvény rendelkezéseit nem kell alkalmazni, ha a haszonbérlő öröklés jogcímén lépett a jogelődje helyébe.
 
@@ -449,7 +455,7 @@ belül döntést hoz.
 
 #### 11. A földhasználati jogosultság megszerzése, illetve annak tilalma, és a megengedett mértéke
 
-40. § (1) A 38. § (1) bekezdésében meghatározott jogcímeken alapuló földhasználat jogát (e fejezetben a továbbiakban együtt: földhasználati jogosultság) – a (2)–(5) bekezdésben meghatározott esetek kivételével – földműves és mezőgazdasági termelőszervezet szerezheti meg.
+40. § (1) A 38. § (1) bekezdésében meghatározott jogcímeken alapuló földhasználat jogát (e fejezetben a továbbiakban együtt: földhasználati jogosultság) – a (2)–(5) bekezdésben meghatározott esetek, továbbá a rekreációs célú földhasználati szerződés kivételével – földműves és mezőgazdasági termelőszervezet szerezheti meg.
 
 (2) Az erdőbirtokossági társulat a tagjai tulajdonában és haszonélvezetében álló erdőnek minősülő föld földhasználati jogosultságát megszerezheti.
 

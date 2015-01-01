@@ -195,7 +195,7 @@ gyermek mulasztott.
 
 ### Gyermekgondozási segély
 
-20. § (1) Gyermekgondozási segélyre jogosult a szülő – ideértve a kiskorú szülőt a 11. § (4) bekezdésében meghatározott esetben –, a gyám a saját háztartásában nevelt
+20. § (1) Gyermekgondozási segélyre jogosult a szülő – ideértve a kiskorú szülőt a 11. § (4) bekezdésében meghatározott esetben –, a nevelőszülői foglalkoztatási jogviszony keretében nem vér szerinti gyermeket nevelő gyám kivételével a gyám a saját háztartásában nevelt
 
 - a) gyermek 3. életévének betöltéséig,
 - b) ikergyermekek esetén a tankötelessé válás évének végéig,
@@ -266,7 +266,7 @@ gyermek mulasztott.
 
 - a) az Szt. 4. §-a (1) bekezdésének i) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, ide nem értve
   - aa) a gyermekgondozási támogatást, valamint a gyermekgondozási támogatás folyósítása mellett végzett kereső tevékenység után járó táppénzt, baleseti táppénzt, továbbá az Szt. 43. §-a szerinti kiemelt ápolási díjnak vagy az Szt. 43/A. §-a szerinti emelt összegű ápolási díjnak az Szt. 44. § (2) bekezdése szerinti összegét,
-  - ab) a gyermekgondozási segélyre való jogosultság esetében a társadalombiztosítási nyugellátást, a társadalombiztosítási nyugellátásról szóló törvény szerint társadalombiztosítási nyugellátással egy tekintet alá eső ellátást, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátást, az egyházi jogi személy által folyósított egyházi, felekezeti nyugdíjat, a korhatár előtti ellátást, a szolgálati járandóságot, a balettművészeti életjáradékot, az átmeneti bányászjáradékot, a terhességi-gyermekágyi segélyt valamint a gyermekgondozási díjat, továbbá a rehabilitációs járadékot, rokkantsági járadékot, a megváltozott munkaképességű személyek ellátásait, a bányászok egészségkárosodási járadékát;
+  - ab) a gyermekgondozási segélyre való jogosultság esetében a társadalombiztosítási nyugellátást, a társadalombiztosítási nyugellátásról szóló törvény szerint társadalombiztosítási nyugellátással egy tekintet alá eső ellátást, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátást, az egyházi jogi személy által folyósított egyházi, felekezeti nyugdíjat, a korhatár előtti ellátást, a szolgálati járandóságot, a balettművészeti életjáradékot, az átmeneti bányászjáradékot, a nem ugyanazon gyermek után folyósított csecsemőgondozási díjat valamint a gyermekgondozási díjat, továbbá a rehabilitációs járadékot, rokkantsági járadékot, a megváltozott munkaképességű személyek ellátásait, a bányászok egészségkárosodási járadékát;
 - b) olyan gyermek után igényli a támogatást, akit a Gyvt. alapján ideiglenes hatállyal elhelyeztek, átmeneti vagy tartós nevelésbe vettek, továbbá az Szt. alapján 30 napot meghaladóan szociális intézményben helyeztek el;
 - c)
 - d) előzetes letartóztatásban van, illetve szabadságvesztés büntetését tölti.
@@ -281,13 +281,13 @@ gyermek mulasztott.
 
 29. § (1) Anyasági támogatásra jogosult a szülést követően
 
-- a) az a nő, aki terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – terhesgondozáson vett részt;
+- a) az a nő, aki terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – várandósgondozáson vett részt;
 - b) az örökbefogadó szülő, ha a szülést követő hat hónapon belül az örökbefogadást jogerősen engedélyezték;
 - c) a gyám, ha a gyermek a születését követően hat hónapon belül – jogerős határozat alapján – a gondozásába kerül.
 
 (2) Az anyasági támogatás az (1) bekezdés a) pontja szerinti jogosultat akkor is megilleti, ha a gyermek halva született.
 
-(3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyarország területén jogszerűen tartózkodó nőre, aki a terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – Magyarország területén terhesgondozáson vett részt.
+(3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyarország területén jogszerűen tartózkodó nőre, aki a terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – Magyarország területén várandósgondozáson vett részt.
 
 30. § Amennyiben az anyasági támogatásra jogosult nő a támogatás felvételét megelőzően meghal, úgy az anyasági támogatást az anyával egy háztartásban élt apának kell kifizetni, ezen személy hiányában annak a személynek, aki a gyermek gondozását ellátja.
 
@@ -334,9 +334,9 @@ gyermek mulasztott.
 
 36. §
 
-36/A. § (1) A közoktatási intézményben tanulmányokat folytatók tanulói jogviszonyának létesítéséről, fennállásáról és megszűnésének várható időpontjáról a név és a TAJ-szám közlésével az oktatási hivatal évente október 15-éig adatot szolgáltat a kincstár részére. Az adatok átadásának módjáról az oktatási hivatal és a kincstár megállapodást köt.
+36/A. § (1) A köznevelési intézményben tanulmányokat folytatók tanulói jogviszonyának létesítéséről, fennállásáról és megszűnéséről a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv adatot szolgáltat a kincstár részére. Az adatok átadásának módjáról az oktatási hivatal és a kincstár megállapodást köt.
 
-(2) Külön jogszabály szerint kell igazolni a tanulmányok közoktatási intézményben történő folytatását
+(2) Külön jogszabály szerint kell igazolni a tanulmányok köznevelési intézményben történő folytatását
 
 - a) ha az ellátás iránti igényt családtámogatási kifizetőhely bírálja el,
 - b) a kincstár hiánypótlásra való felszólítása alapján, a családi pótlékban részesülő, azonban az (1) bekezdés szerinti adatszolgáltatásban nem szereplő gyermek, illetve személy esetében.
@@ -345,7 +345,7 @@ gyermek mulasztott.
 
 (2) Az ellátás folyósításáról az igényelbíráló szerv gondoskodik.
 
-(3) Az ellátást – a (4) bekezdésben szabályozott eltéréssel – utólag, a tárgyhónapot követő hónap 10. napjáig, fizetési számlára utalás esetében 3. napjáig kell folyósítani.
+(3) Az ellátást – a (4) bekezdésben szabályozott eltéréssel – utólag, a tárgyhónapot követő hónap 10. napjáig, fizetési számlára utalás esetében 3. napjáig kell folyósítani. A folyósított és át nem vett ellátás ismételt folyósítását az igényelbíráló szerv a jogosult kérelme alapján, – ha a folyósítás sikertelensége a jogosult érdekkörében fennálló okra vezethető vissza – az ellátás ismételt folyósításával kapcsolatos költségek legfeljebb jogszabályban meghatározott mértékének ellátásból történő levonásával teljesíti.
 
 (4) Az anyasági támogatás iránti kérelmet az igényelbíráló szerv a kérelem megérkezését követő naptól számított nyolc napon belül elbírálja, a jogosultság megállapítása esetén a támogatást fizetési számlára vagy kifizetési utalványon kiutalja.
 
@@ -357,7 +357,7 @@ gyermek mulasztott.
 
 (8) Ha az iskoláztatási támogatás szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
 
-(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésének hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a kincstárnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
+(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésben megjelölt hónapra, ennek hiányában a kezdeményezés hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a kincstárnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
 
 38. § (1) Ha a kérelem elbírálása után megállapítást nyer, hogy a kérelmet jogszabálysértő módon elutasították, vagy alacsonyabb összegű ellátást állapítottak meg, illetőleg folyósítottak, úgy a jogszabálysértés megállapításától visszafelé számított három éven belül járó összeget ki kell fizetni.
 

@@ -594,7 +594,7 @@ foglalkoztatás lehetőségéről.
 
 (2) A munkavállaló munkaszerződés módosítására irányuló ajánlatára a munkáltató tizenöt napon belül írásban nyilatkozik.
 
-(3) A munkáltató a munkavállaló ajánlatára a gyermek hároméves koráig köteles a munkaszerződést a napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.
+(3) A munkáltató a munkavállaló ajánlatára a gyermek hároméves koráig – három vagy több gyermeket nevelő munkavállaló esetén a gyermek ötéves koráig – köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.
 
 #### 35. Eltérő megállapodás
 
@@ -1291,7 +1291,7 @@ rendelhető el.
 - b) a szabadság,
 - c) a szülési szabadság,
 - d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §) első hat hónapjának,
-- e) a naptári évenként harminc napot meg nem haladó keresőképtelenség,
+- e) a keresőképtelenség,
 - f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
 - g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–k) pontban meghatározott
 
@@ -2119,7 +2119,7 @@ foglaltak nem alkalmazhatók.
 
 #### 90. A köztulajdonban álló munkáltatóval fennálló munkaviszony
 
-204. § (1) Köztulajdonban álló munkáltató a közalapítvány, valamint az a gazdasági társaság, amelyben az állam, helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, többcélú kistérségi társulás, fejlesztési tanács, kisebbségi önkormányzat, kisebbségi önkormányzat jogi személyiségű társulása, költségvetési szerv vagy közalapítvány külön-külön vagy együttesen számítva többségi befolyással rendelkezik.
+204. § (1) Köztulajdonban álló munkáltató a közalapítvány, valamint az a gazdasági társaság, amelyben az állam, helyi önkormányzat, nemzetiségi önkormányzat, önkormányzati társulás, térségi fejlesztési tanács, költségvetési szerv vagy közalapítvány külön-külön vagy együttesen számítva többségi befolyással rendelkezik.
 
 (2) Többségi befolyás az a kapcsolat, amelynek alapján a befolyással rendelkező jogi személyben a szavazatok több mint ötven százalékával – közvetlenül vagy a jogi személyben szavazati joggal rendelkező más jogi személy (köztes vállalkozás) szavazati jogán keresztül – rendelkezik. A közvetett módon való rendelkezés meghatározása során a jogi személyben szavazati joggal rendelkező más jogi személyt (köztes vállalkozást) megillető szavazati hányadot meg kell szorozni a befolyással rendelkezőnek a köztes vállalkozásban, illetve vállalkozásokban fennálló szavazati hányadával. Ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni. Amennyiben a befolyással rendelkező több közvetett tulajdonnal is rendelkezik az adott jogi személyben a nem többségi közvetett befolyás mértéke nem adódik hozzá a másik nem többségi közvetett befolyás mértékéhez.
 
@@ -2160,7 +2160,7 @@ meghatározott szabályaitól nem térhet el.
 (2) A vezető munkaszerződése
 
 - a) az 55. § (1) bekezdés b), c) és e) pontjában,
-- b) a 65. § (3) bekezdés a) és b) pontjában,
+- b) 65. § (3) bekezdés a), b) és e) pontjában,
 - c) a 113. § (3) bekezdésében,
 - d) a 127. §-ban, valamint
 - e) a (3) bekezdésben
@@ -3104,7 +3104,10 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
   - hc) a gyám,
   - hd) a nevelőszülő és a helyettes szülő,
 - i) gyermekét egyedül nevelő munkavállaló: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
-- j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész.
+- j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész,
+- k) három vagy több gyermeket nevelő munkavállaló: aki, a családok támogatásáról szóló törvény szerint szülőként legalább három gyermekre tekintettel
+  - ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesül, vagy
+  - kb) gyermeknevelési támogatásban részesült vagy részesül.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
 

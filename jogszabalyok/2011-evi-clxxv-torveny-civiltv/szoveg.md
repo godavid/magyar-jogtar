@@ -57,7 +57,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 - 16. közcélú tevékenység: személyek csoportja által, valamely a csoportnál tágabb közösség érdekében – más, e közösségbe nem tartozó személyek érdekeinek sérelme nélkül – végzett tevékenység.
 - 17. közeli hozzátartozó: a Ptk.-ban pontjában meghatározott közeli hozzátartozó, valamint az élettárs;
 - 18. közérdekű kötelezettségvállalás: a Ptk. 6:589–6:592. §-ában meghatározott kötelezettségvállalás;
-- 19. közfeladat: jogszabályban meghatározott állami vagy önkormányzati feladat, amit a feladat címzettje közérdekből, haszonszerzési cél nélkül, jogszabályban meghatározott követelményeknek és feltételeknek megfelelve végez, ideértve a lakosság közszolgáltatásokkal való ellátását, valamint e feladatok ellátásához szükséges infrastruktúra biztosítását is;
+- 19.
 - 20. közhasznú tevékenység: minden olyan tevékenység, amely a létesítő okiratban megjelölt közfeladat teljesítését közvetlenül vagy közvetve szolgálja, ezzel hozzájárulva a társadalom és az egyén közös szükségleteinek kielégítéséhez;
 - 21. közszolgáltatási szerződés: valamely közfeladat – vagy annak egy része – ellátására a szerv nevében történő ellátására kötött írásbeli szerződés. Nem minősül közszolgáltatási szerződésnek azon közszolgáltatással kapcsolatban kötött szerződés, amelynek nyújtása jogszabályban meghatározott feltételeken alapuló engedélyhez van kötve;
 - 22. közvetlen politikai tevékenység: párt érdekében végzett politikai tevékenység, az országgyűlési képviselői választáson történő jelöltállítás, a megyei, fővárosi önkormányzat képviselő-testületébe történő jelöltállítás, az Európai Parlament tagjának történő jelölés, a megyei jogú város képviselő–testületébe történő jelöltállítás, valamint a polgármester jelölése; nem minősül közvetlen politikai tevékenységnek a külön törvényben meghatározott nemzetiségi szervezet által a helyi, illetve nemzetiségi önkormányzati képviselői választáson történő jelöltállítás valamint a polgármester jelölése.
@@ -472,15 +472,15 @@ kell érteni.
 
 13. § (1) A civil szervezetet – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezései szerint eljárva – a törvényszék veszi nyilvántartásba.
 
-(2)
+(2) Ha a civil szervezet elektronikus úton benyújtott, nyilvántartásba vétele iránti kérelméhez külön jogszabály szerinti létesítő okirat minta alapján készült létesítő okiratot csatolnak, a bíróság a kérelmet az érkezését követő tizenöt napon belül elbírálja.
 
-(3)
+(3) A civil szervezet nyilvántartásban szereplő adatai országosan egységes, elektronikus, bárki számára ingyenesen hozzáférhető közhiteles nyilvántartásban elérhetők.
 
 #### 6. Civil Információs Portál
 
 14. § (1) A társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter (továbbiakban: miniszter) a civil szervezetekkel kapcsolatos nyilvános, közérdekből nyilvános információk gyűjtése, rendszerezése és közzététele, illetve ezzel összefüggésben a kérelemre történő adatszolgáltatás biztosítása céljából akadálymentes honlapot működtet (továbbiakban: Civil Információs Portál).
 
-(2)
+(2) A 13. § (3) bekezdésben meghatározott közhiteles nyilvántartást működtető szerv biztosítja annak lehetőségét, hogy a közhiteles nyilvántartás adatai közötti keresést a Civil Információs Portálon keresztül is lehessen kezdeményezni, továbbá a keresési eredmény adatait megjeleníteni.
 
 (3) A Civil Információs Portál felé elektronikus úton adatbázis formájában a Civil Információs Portálon e célra kialakított felületen keresztül szolgáltatja
 
@@ -812,7 +812,7 @@ vonatkozó szabályokat.
 
 53/A. § (1) Jelentős költségvetési támogatásnak minősül, ha valamely szervezet a szakmai monitoring rendszer adatai alapján, az államháztartás központi alrendszeréből kapott 19. § (1) bekezdés c) pontja szerinti költségvetési támogatásai (egybeszámított támogatás) összesen meghaladják valamely költségvetési év vonatkozásában az ötvenmillió forintot.
 
-(2) A jelentős költségvetési támogatásban részesülő civil szervezet nyilvántartás szerint képviseletre jogosult vezető tisztségviselőjét (a továbbiakban: kötelezett) – az (1) bekezdés szerinti feltétel teljesülését követően a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról szóló tájékoztató megküldésével a miniszter harmincnapos határidővel felhívja vagyonnyilatkozat tételére.
+(2) Ha törvény eltérően nem rendelkezik, a jelentős költségvetési támogatásban részesülő civil szervezet nyilvántartás szerint képviseletre jogosult vezető tisztségviselőjét (a továbbiakban: kötelezett) – az (1) bekezdés szerinti feltétel teljesülését követően a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról szóló tájékoztató megküldésével a miniszter harmincnapos határidővel felhívja vagyonnyilatkozat tételére.
 
 (3) Nem kell a kötelezettnek vagyonnyilatkozatot tennie, ha
 
@@ -890,7 +890,8 @@ vonatkozó szabályokat.
 - h) civil szervezetek pályázati önrészeinek támogatása;
 - i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
 - j) civil érdek-képviseleti tevékenység támogatása;
-- k) az Alap működtetésével kapcsolatos költségek fedezete.
+- k) az Alap működtetésével kapcsolatos költségek fedezete;
+- l) civil információs centrumok működésének támogatása.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
@@ -907,7 +908,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (4) Az (1) bekezdés c) pontja szerinti támogatás magyarországi és határon túli civil szervezet számára együttesen is nyújtható.
 
-57. § (1) Az Alap terhére csak az 56. § (1) bekezdés b) vagy h) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti támogatás csak visszatérítendő formában nyújtható.
+57. § (1) Az Alap terhére csak az 56. § (1) bekezdés b), h) vagy l) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti esetben az 56. § (1) bekezdés b) vagy h) pontja szerinti támogatás csak visszatérítendő formában nyújtható.
 
 (2) A visszatérítési kötelezettség alá eső költségvetési támogatás az Art. szerinti adók módjára behajtandó köztartozásnak minősül.
 
@@ -929,7 +930,14 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (3) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető – az előző évek kötelezettségvállalásainak fedezeteként – a kiadási és bevételi előirányzat egyidejű módosításával.
 
-(4) Az Alapra vonatkozóan zárolási vagy maradványtartási kötelezettség nem írható elő.
+(4)
+
+(5) Az (1) bekezdés d) pontja szerinti összeg megegyezik az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek felajánlható és az Szftv. alapján adózói rendelkezéseknek megfelelően az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összeg különbségével.
+
+(6) Az adóhatóság minden év február 1-jéig adatot szolgáltat a miniszter, valamint az államháztartásért felelős miniszter számára az (5) bekezdésben foglaltak teljesítése céljából
+
+- a) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek potenciálisan felajánlható összegről,
+- b) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összegről.
 
 #### 19. A kedvezményezettek
 
@@ -1128,7 +1136,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 rendeletben szabályozza.
 
-(3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának a központi költségvetéssel történő, a 10/D. § (2) bekezdés szerinti elszámolásának, valamint a központi költségvetésből a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.
+(3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának a központi költségvetéssel történő, a 9/J. § (5) bekezdése szerinti elszámolásának, valamint a központi költségvetésből a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.
 
 #### 24. Hatálybalépés
 

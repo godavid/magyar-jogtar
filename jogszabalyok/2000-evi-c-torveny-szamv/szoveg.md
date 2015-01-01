@@ -72,7 +72,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 (3) E törvény alkalmazásában
 
 - 1. ellenőrzés: a jóváhagyásra jogosult testület által elfogadott beszámolóval lezárt üzleti év(ek) adatainak – a gazdálkodó, illetve az adóhatóság általi – utólagos ellenőrzése az önellenőrzés, illetve az adóhatósági ellenőrzés keretében;
-- 2. ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, az eredményt, a saját tőkét érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak;
+- 2. ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, az eredményt, a saját tőkét érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak. Ilyen hibának és hibahatásnak minősül a szerződésmódosítással, a számviteli bizonylatok módosításával dokumentált, beszámolóval lezárt üzleti évet, éveket érintő gazdasági események könyvviteli elszámolásban rögzítendő jellemzőinek utólagos módosítása is;
 - 3. jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes (előjeltől független) összege meghaladja a számviteli politikában meghatározott értékhatárt. Minden esetben jelentős összegű a hiba, ha a hiba feltárásának évében az ellenőrzések során – ugyanazon évet érintően – megállapított hibák, hibahatások eredményt, saját tőkét növelő-csökkentő értékének együttes (előjeltől független) összege meghaladja az ellenőrzött üzleti év mérlegfőösszegének 2 százalékát, illetve ha a mérlegfőösszeg 2 százaléka nem haladja meg az 1 millió forintot, akkor az 1 millió forintot;
 - 4. nem jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes (előjeltől független) összege nem haladja meg a jelentős összegű hiba 3. pont szerinti értékhatárát;
 - 5.
@@ -80,7 +80,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 (4) E törvény alkalmazásában
 
 - 1. közvetített szolgáltatás: a gazdálkodó által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás; közvetített szolgáltatásnál a gazdálkodó vevője és nyújtója is a szolgáltatásnak, a gazdálkodó a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy a gazdálkodó nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható;
-- 2. alapkutatás: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvényben (a továbbiakban: Innovációs tv.) meghatározott alapkutatás;
+- 2. alapkutatás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben (a továbbiakban: Innovációs tv.) meghatározott alapkutatás;
 - 3. alkalmazott kutatás: az Innovációs tv.-ben meghatározott alkalmazott kutatás;
 - 4. kísérleti fejlesztés: az Innovációs tv.-ben meghatározott kísérleti fejlesztés;
 - 5. hasznos élettartam: az az időszak, amely alatt az amortizálható eszközt a gazdálkodó időarányosan vagy teljesítményarányosan az eredmény terhére elszámolja;
@@ -149,7 +149,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - a) valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben legalább az egyik fél hitelintézet, és amelyben a penzió átvevője kötelezi magát, hogy a pénzügyi eszközöket egy meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja, továbbá a penzióba adó szerződéses kikötésekkel a pénzügyi eszközök feletti ellenőrzési jogokat (rendelkezési jog az eszköz tovább értékesítéséről, fedezetként való felhasználásáról, kölcsönbeadásáról, valamint a hasznok szedésére vonatkozó jog) fenntartja. A valódi penziós ügylet kölcsönügyletként kerül elszámolásra, az ügylet tárgyát képező eszköz a penzióba adó könyveiben marad, az eladási és a visszavásárlási ár különbözete kamatnak minősül.
   - b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben a felek megállapodásától függően, a penzió átvevője saját döntése (jogosultsága) alapján egy előre rögzített időpontban (időpontig), vagy az általa megállapított későbbi időpontban vagy egy, a későbbiekben bekövetkező feltétel beállta esetén, annak időpontjában az eladási áron, vagy a felek által meghatározott más áron visszaadja, a penzióba adó pedig visszaveszi a penzió tárgyát. Nem valódi penziós ügyletnek minősül az is, ha a penzió átvevője kötelezi magát, hogy a penzió tárgyát egy előre meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja és a penzióba adó a penzió tárgya feletti ellenőrzési jogokat szerződéses kitételekkel nem tartja fenn. A nem valódi penziós ügylet a pénzügyi eszközök adásvételére vonatkozó általános szabályok szerint kerül elszámolásra.
 - 12. elektronikus pénz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
-- 13. pénzügyi lízing: a Polgári Törvénykönyv szerinti pénzügyi lízingszerződés alapján létrejött ügylet;
+- 13. pénzügyi lízing: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi lízingszerződés alapján létrejött ügylet, ideértve azt is, ha az az anyavállalat és a leányvállalata között jött létre;
 - 14. függő kötelezettség: az olyan – általában – harmadik személlyel szemben vállalt kötelezettség, amely a mérleg fordulónapján fennáll, de mérlegtételkénti szerepeltetése jövőbeni eseménytől függ. A függő kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó függő kötelezettségek. A pénzeszközre vonatkozó függő kötelezettségek közé tartoznak különösen: a kezességvállalási, a garanciavállalási, a váltókezesi kötelezettség, az opciós ügyletekkel, a nem valódi penziós ügyletekkel, a le nem zárt peres ügyekkel kapcsolatban várható kötelezettségek. Az egyéb eszközre vonatkozó kötelezettségek közé tartoznak különösen a fedezetként, biztosítékként, óvadékként felajánlott (szolgáló) vagyontárgyak és az opciós ügylet miatti egyéb eszköz átadására vonatkozó kötelezettségek;
 - 15. biztos (jövőbeni) kötelezettség: az olyan visszavonhatatlan kötelezettség, amely a mérleg fordulónapján már fennáll, de a szerződés teljesítése még nem történt meg, ezért mérlegtételként nem szerepeltethető. A biztos (jövőbeni) kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó biztos (jövőbeni) kötelezettségek. Idetartoznak különösen: a határidős adásvételi ügyletek, a swap ügyletek határidős része miatti pénzeszköz vagy egyéb eszköz átadására vonatkozó kötelezettségek. Nem tartoznak ide az üzleti tevékenységgel kapcsolatos, folyamatosan felmerülő költségek;
 - 16. mérlegen kívüli tétel: olyan, szerződés alapján fennálló mérlegen kívüli [függő vagy biztos (jövőbeni)] kötelezettség, illetve követelés, amely pénzeszköz vagy egyéb eszköz átadására, illetve átvételére vonatkozik, a mérleg fordulónapján már fennáll, de mérlegtételkénti szerepeltetése egy jövőbeni esemény bekövetkezésétől vagy a szerződés teljesítésétől függ;
@@ -448,6 +448,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 az előző és a tárgyévi üzleti évben külön-külön több mint 25%-ban az adott devizában merülnek fel. [A feltételek fennállásának megállapításánál az a), illetve a b) pontban felsorolt tételek együttes összegét kell külön-külön figyelembe venni. A b) pont szerinti tételeknél a mérlegen kívüli tételeket figyelmen kívül kell hagyni.] Devizában felmerült tételként lehet figyelembe venni a devizaalapú tételeket is.
 
+(5a) Amennyiben a vállalkozó az éves beszámolót a (3)–(5) bekezdés szerint a létesítő okiratban rögzített devizában készíti el, az e törvényben egyes rendelkezések alkalmazásának feltételeként forintban meghatározott értékhatárokat a Magyar Nemzeti Bank által az adott időpontra vonatkozóan közzétett, hivatalos devizaárfolyamon történő átszámítással kell figyelembe venni.
+
 (6) Az éves beszámoló részét képező mérleget, eredménykimutatást és kiegészítő mellékletet a hely és a kelet feltüntetésével a vállalkozó képviseletére jogosult személy köteles aláírni.
 
 ### Közbenső mérleg
@@ -490,7 +492,7 @@ az előző és a tárgyévi üzleti évben külön-külön több mint 25%-ban az
 
 (4) Az eszközöket rendeltetésük, használatuk alapján kell a befektetett eszközök vagy a forgóeszközök közé sorolni.
 
-(5) Amennyiben az eszközök használata, rendeltetése a (4) bekezdés szerinti besorolást követően megváltozik, mert az eszköz a tevékenységet, a működést tartósan már nem szolgálja vagy fordítva, akkor azok besorolását meg kell változtatni; a befektetett eszközt át kell sorolni a forgóeszközök közé vagy fordítva.
+(5) Amennyiben egy adott eszköz használata, rendeltetése a (4) bekezdés szerinti besorolást követően megváltozik, mert az eszköz a tevékenységet, a működést tartósan már nem szolgálja vagy fordítva, akkor annak besorolását meg kell változtatni; az eszközt – legkésőbb a mérlegkészítés időszakában, a mérlegfordulónapra vonatkozóan – át kell sorolni a befektetett eszközök közül a forgóeszközök közé vagy fordítva, a forgóeszközök közül a befektetett eszközök közé.
 
 24. § (1) Befektetett eszközként olyan eszközt szabad kimutatni, amelynek az a rendeltetése, hogy a tevékenységet, a működést tartósan, legalább egy éven túl szolgálja.
 
@@ -685,7 +687,7 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 - a) az előző üzleti év mérleg szerinti eredményét (nyereségét), ideértve az ellenőrzés előző üzleti év(ek) mérleg szerinti eredményét növelő módosítását (nyereségét) is,
 - b) a jegyzett tőke leszállítását az eredménytartalékkal szemben,
 - c) a veszteség miatti negatív eredménytartalék ellentételezésére felhasznált tőketartalékot, lekötött tartalékot,
-- d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással egyidejűleg,
+- d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 - e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
 - f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét.
 
@@ -695,7 +697,7 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 - b) a jegyzett tőke emelését a rendelkezésre álló szabad eredménytartalékból,
 - c) az eredménytartalék lekötött tartalékba átvezetett összegét,
 - d) az üzleti év végén a tárgyévi adózott eredmény kiegészítéseként osztalékra, részesedésre, kamatozó részvény kamatára, továbbá az eredménytartalékot terhelő adóra igénybe vett összeget,
-- e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással egyidejűleg,
+- e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 - f) a tőkekivonással megvalósított jegyzett tőke leszállításához kapcsolódó – a jegyzett tőke leszállításával arányos – eredménytartalék-kivonás összegét,
 - g) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékkal szemben átadott pénzeszközök, eszközök értékét, ide értve a gazdasági társaság, szövetkezet tagsági jogviszony megszűnésének időpontjában fennálló vagyonának a megszűnt tagsági jogviszonyra jutó része a jegyzett tőke, a tőketartalék és az eredménytartalék arányos részét meghaladó összegét is.
 
@@ -706,6 +708,8 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 (5) Az ellenőrzés során a mérlegkészítés időpontjáig megállapított – az előző üzleti év(ek)re vonatkozó – jelentős összegű hibák elkülönítetten kimutatott eredményre gyakorolt hatásának összegét (mérleg szerinti eredményét) az eredménytartalékot növelő-csökkentő tételként a hiba megállapításának üzleti évében kell elszámolni.
 
 (6) Az adózott eredmény kiegészítéséhez a szabad eredménytartalék csak akkor vehető igénybe, ha az igénybevétel után a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összege meghaladja a jegyzett tőke összegét.
+
+(7) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – pótbefizetés teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell az eredménytartalékot csökkenteni.
 
 38. § (1) A lekötött tartalék a tőketartalékból, illetve az eredménytartalékból lekötött összegeket és a kapott pótbefizetés összegét foglalja magában.
 
@@ -726,7 +730,7 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 - f) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség fedezetére – az arra illetékes testület által megszavazott, de még nem teljesített – fizetendő pótbefizetés összegét,
 - g) más jogszabály szerint vagy a vállalkozó saját elhatározása alapján lekötött – kötelezettségek fedezetét jelentő vagy saját céljait szolgáló – tartalékot.
 
-(4) Lekötött tartalékként kell kimutatni a gazdasági társaságnál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással egyidejűleg történik.
+(4) Lekötött tartalékként kell kimutatni a gazdasági társaságnál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással, az eszközmozgással egyidejűleg történik.
 
 (5) A (3) bekezdés szerinti lekötést az eredménytartalékkal szemben el kell számolni akkor is, ha a lekötött tartalék növekedése miatt az eredménytartaléknak negatív egyenlege lesz, vagy negatív egyenlege nő.
 
@@ -737,6 +741,8 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 (8) A (7) bekezdés szerint elkülönített lekötött tartalékot csak a jogszabályban meghatározott módon lehet megszüntetni: veszteségrendezésre – az erről szóló döntés időpontjával – az eredménytartalék negatív összegét csökkentő tételként, illetve tőkeemelésre – a tőkeemelés cégjegyzékbe történt bejegyzése időpontjával – a jegyzett tőkét növelő tételként.
 
 (9) A lekötött tartalék növekedéseként, illetve csökkenéseként kell kimutatni a pénzmozgással, illetve az eszközmozgással egyidejűleg a külön jogszabály alapján a lekötött tartalékkal szemben átvett, illetve átadott pénzeszközök, egyéb eszközök értékét. A külön jogszabály alapján átvett lekötött tartalék feloldását – a külön jogszabály eltérő rendelkezése hiányában – az eredménytartalékkal szemben kell elszámolni.
+
+(10) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
 
 39. § (1) Értékelési tartalékként, és azon belül elkülönítetten kell kimutatni
 
@@ -784,11 +790,13 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 - a) a kezelt vagyon előző üzleti évi mérleg szerinti eredményét (veszteségét), ide értve az ellenőrzés előző üzleti év(ek) mérleg szerinti eredményét csökkentő módosítását (veszteségét) is;
 - b) a tartalék lekötött tartalékba átvezetett összegét;
-- c) a bizalmi vagyonkezelés során teljesített hozamkifizetés összegét.
+- c) a bizalmi vagyonkezelés során, az üzleti év végén a tárgyévi adózott eredmény kiegészítéseként hozamkifizetésre igénybe vett összeget.
 
 (5) A tartalékból kell lekötni, és a lekötött tartalékba átvezetni a 38. § (3) bekezdés c), d), g) pontja szerinti összegeket. A lekötött tartalék feloldását a tartalékkal szemben kell elszámolni.
 
 (6) Értékelési tartalékként a 39. § (1) bekezdése szerinti összegeket lehet kimutatni.
+
+(6a) A mérleg szerinti eredmény a hozamkifizetésre igénybe vett tartalékkal növelt, a jóváhagyott hozamkifizetéssel csökkentett tárgyévi adózott eredmény, egyezően az eredménykimutatásban ilyen címen kimutatott összeggel.
 
 (7) Bizalmi vagyonkezelés során a tárgyévi adózott eredményből, illetve a tartalékkal kiegészített tárgyévi adózott eredményből akkor teljesíthető hozamkifizetés, ha a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összege a hozamkifizetés után sem csökken az induló tőke összege alá.
 
@@ -967,6 +975,8 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (9) A kezelt vagyonra szóló tartós követelés bekerülési értéke a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti, együttes értéke.
 
+(10) Pótbefizetésként, illetve a pótbefizetés visszafizetéseként kapott eszköz bekerülési (beszerzési) értéke az eszköz pótbefizetésről, illetve a pótbefizetés visszafizetésről hozott közgyűlési, alapítói, taggyűlési határozatban meghatározott értéke.
+
 51. § (1) Az eszköz bekerülési (előállítási) értékének részét képezik azok a költségek, amelyek
 
 - a) az eszköz (termék) előállítása, üzembe helyezése, bővítése, rendeltetésének megváltoztatása, átalakítása, eredeti állagának helyreállítása során közvetlenül felmerültek,
@@ -1050,7 +1060,7 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (10) A kezelt vagyonra szóló tartós követelésre értékvesztést kell elszámolni annak könyv szerinti értéke és piaci értéke közötti veszteségjellegű különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
 
-(11) A (10) bekezdés szerinti értékvesztés, illetve annak visszaírása során a piaci érték meghatározásakor a kezelt vagyon üzleti év mérlegfordulónapjára kimutatott induló tőkéjének, tartalékának és mérleg szerinti eredményének együttes összegét kell figyelembe venni.
+(11) A (10) bekezdés szerinti értékvesztés, illetve annak visszaírása során a piaci érték meghatározásakor a kezelt vagyon üzleti év mérlegfordulónapjára kimutatott saját tőkéjének összegét kell figyelembe venni.
 
 55. § (1) A vevő, az adós minősítése alapján az üzleti év mérlegfordulónapján fennálló és a mérlegkészítés időpontjáig pénzügyileg nem rendezett követelésnél (ideértve a hitelintézetekkel, pénzügyi vállalkozásokkal szembeni követeléseket, a kölcsönként, az előlegként adott összegeket, továbbá a bevételek aktív időbeli elhatárolása között lévő követelésjellegű tételeket is) értékvesztést kell elszámolni – a mérlegkészítés időpontjában rendelkezésre álló információk alapján – a követelés könyv szerinti értéke és a követelés várhatóan megtérülő összege közötti – veszteségjellegű – különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
 
@@ -1274,7 +1284,7 @@ elszámolva.
 
 60. § (1) A valutapénztárba bekerülő valutakészletet, a devizaszámlára kerülő devizát, a külföldi pénzértékre szóló követelést, befektetett pénzügyi eszközt, értékpapírt, illetve kötelezettséget a bekerülés napjára, illetve a szerződés szerinti teljesítés napjára vonatkozó – a (4)–(6) bekezdés szerinti – devizaárfolyamon átszámított forintértéken kell a könyvviteli nyilvántartásba felvenni, kivéve a forintért vásárolt valutát, devizát, amelyet a fizetett összegben kell felvenni, és amelynél a ténylegesen fizetett forint alapján kell a nyilvántartásba vételi árfolyamot meghatározni.
 
-(2) A mérlegben a valutapénztárban lévő valutakészletet, a devizaszámlán lévő devizát, továbbá a külföldi pénzértékre szóló – az 54–55. § szerint minősített – minden követelést, befektetett pénzügyi eszközt, értékpapírt, illetve kötelezettséget az üzleti év mérlegfordulónapjára vonatkozó – a (4)–(6) bekezdés szerinti – devizaárfolyamon átszámított forintértéken kell kimutatni.
+(2) A mérlegben a valutapénztárban lévő valutakészletet, a devizaszámlán lévő devizát, továbbá a külföldi pénzértékre szóló – az 54–55. § szerint minősített – minden követelést, ideértve a követelés jellegű aktív időbeli elhatárolásokat is, befektetett pénzügyi eszközt, értékpapírt, illetve kötelezettséget, ideértve a kötelezettség jellegű passzív időbeli elhatárolásokat is, az üzleti év mérlegfordulónapjára vonatkozó – a (4)–(6) bekezdés szerinti – devizaárfolyamon átszámított forintértéken kell kimutatni.
 
 (3) A valutapénztárban lévő valutakészletnek, a devizaszámlán lévő devizának, továbbá a külföldi pénzértékre szóló követelésnek, befektetett pénzügyi eszköznek, értékpapírnak, illetve kötelezettségnek az üzleti év mérlegfordulónapjára vonatkozó (2) bekezdés szerinti értékelése előtti könyv szerinti értéke és az értékeléskori forintértéke közötti különbözetet [a (8) bekezdés, valamint a 47. § (4) bekezdésének c) pontja szerint figyelembe veendő árfolyamkülönbözet kivételével]:
 
@@ -1440,7 +1450,8 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 - a) a kötelezettségek teljesítésére, a csereszerződés keretében átadott vásárolt és saját termelésű készletek, nyújtott szolgáltatások – általános forgalmi adót nem tartalmazó – számlázott, megállapodás, csereszerződés szerinti értékét a készlet átadás-átvétel, a szolgáltatásnyújtás időpontjában;
 - b) az értékesített göngyöleg betétdíjas árának számla, nyugta szerinti – általános forgalmi adót nem tartalmazó – értékét;
 - c) a gazdasági társaságnál a jegyzett tőkének tőkekivonással történő leszállításakor a bevont részvények, üzletrészek, egyéb társasági részesedések ellenében átadott vásárolt és saját termelésű készletek – általános forgalmi adót nem tartalmazó – számlázott, a létesítő okiratban, annak módosításában, illetve az arra jogosult testület határozatában rögzített értékének összegét,
-- d) a befektetett eszközök használati, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket.
+- d) a befektetett eszközök használati, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket,
+- e) az általános forgalmi adóról szóló törvény szerinti üzletág átruházásakor az üzletág átruházásáért kapott, az átadott eszközök – átadott kötelezettségek értékével csökkentett – piaci értékét meghaladó ellenértéket.
 
 73. § (1) Az értékesítés nettó árbevétele nem tartalmazhatja az értékesítésről kiállított számlában, nyugtában – a konkrét vásárolt és saját termelésű készlethez, szolgáltatásnyújtáshoz kapcsolódóan – adott engedmény összegét.
 
@@ -1460,7 +1471,7 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 
 (2) Exportértékesítés árbevételeként kell elszámolni a vásárolt és saját termelésű készlet külkereskedelmi termékforgalomban külföldi vevőnek történő értékesítésének, továbbá a külföldi igénybe vevő részére végzett szolgáltatásnyújtásnak a 75. § szerint meghatározott értékét, függetlenül attól, hogy azt devizában, valutában, forintban, termék- vagy szolgáltatásimporttal egyenlítik ki.
 
-(3) Az exportértékesítés árbevételét csökkenti a magyar határállomás és a külföldi rendeltetési hely közötti útszakaszra jutó – devizában, valutában vagy forintban számlázott, illetve fizetett – szállítási és rakodási-raktározási költség a számlázott, fizetett forintösszegben, a valutának, illetve a devizának a teljesítés napjára vonatkozó – a 60. § (4)–(6) bekezdése szerinti – devizaárfolyamon átszámított forintértékén.
+(3)
 
 75. § (1) Az értékesítés 72. § (2) bekezdésének a) pontja szerinti árbevételének ellenértéke kiegyenlíthető számlajóváírással forintban vagy devizában, készpénzben forintban vagy jogszabályi előírás alapján valutában, az értékesítés devizában meghatározott ellenértékével azonos értékű importáruval, importszolgáltatással.
 
@@ -1487,7 +1498,7 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 (2) Az egyéb bevételek között kell elszámolni:
 
 - a) a káreseményekkel kapcsolatosan kapott bevételeket,
-- b) a kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések összegét,
+- b) a kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések, sérelemdíjak összegét,
 - c) a behajthatatlannak minősített – és az előző üzleti év(ek)ben hitelezési veszteségként leírt – követelésekre kapott összeget,
 - d) a költségek (a ráfordítások) ellentételezésére – visszafizetési kötelezettség nélkül – belföldi vagy külföldi gazdálkodótól, illetve természetes személytől, valamint államközi szerződés vagy egyéb szerződés alapján külföldi szervezettől kapott támogatás, juttatás összegét,
 - e) a termékpálya-szabályozáshoz kapcsolódó, terméktanácsok által fizetett termékpálya-szabályozás összegét,
@@ -1514,7 +1525,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 
 (6) Egyéb bevételt csökkentő tételként kell elszámolni a (3) bekezdés e) pontja szerint értékesített és a szerződés szerinti feltételek teljesítésének későbbi meghiúsulása miatt visszavett, a két időpont között használt eszköz – 73. § (2) bekezdés d) pontja szabályai szerinti – visszavételkori értékét.
 
-(7) Egyéb bevételként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott (járó) engedmény szerződés szerinti összegét.
+(7) Egyéb bevételként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott (járó) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében kapott (járó) engedmény – fizetendő általános forgalmi adóval csökkentett – összegét is.
 
 78. § (1) Az anyagjellegű ráfordítások között kell kimutatni a vásárolt és felhasznált anyagok értékét, az igénybe vett (vásárolt) szolgáltatások – le nem vonható általános forgalmi adót is magában foglaló – értékét, az egyéb szolgáltatások értékét, az eladott áruk beszerzési értékét és az eladott (közvetített) szolgáltatások értékét.
 
@@ -1552,7 +1563,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 (2) Az egyéb ráfordítások között kell elszámolni:
 
 - a) az üzleti év mérlegfordulónapja előtt bekövetkezett, a mérlegkészítés időpontjáig ismertté vált káreseményekkel kapcsolatos – a le nem vonható általános forgalmi adót is magában foglaló – kifizetéseket, elszámolt, fizetendő összegeket;
-- b) a fizetett, illetve a mérlegkészítés időpontjáig ismertté vált, elszámolt, fizetendő, a mérlegfordulónap előtti időszakhoz kapcsolódó bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések összegét;
+- b) a fizetett, illetve a mérlegkészítés időpontjáig ismertté vált, elszámolt, fizetendő, a mérlegfordulónap előtti időszakhoz kapcsolódó bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések, sérelemdíjak összegét;
 - c) a költségek (a ráfordítások) ellentételezésére – visszafizetési kötelezettség nélkül – belföldi vagy külföldi gazdálkodónak – az üzleti évhez kapcsolódóan – adott támogatás, juttatás összegét;
 - d) a termékpálya-szabályozáshoz kapcsolódó, terméktanácsok javára teljesített – az üzleti évhez kapcsolódó – befizetések összegét;
 - e) az államháztartás egyes alrendszereivel (a központi kormányzat, az elkülönített állami pénzalapok, a helyi önkormányzatok, a társadalombiztosítás költségvetéseivel), az Európai Unió különböző pénzügyi alapjaival (pénzügyi forrásaival) elszámolt – a bekerülési érték részét nem képező, illetve a költségek között el nem számolható – adók, díjak, illetékek, hozzájárulások tárgyévre bevallott, fizetett, illetve fizetendő összegét;
@@ -1577,7 +1588,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 - b) a kereskedelmi áruk veszteségjellegű leltárértékelési különbözetének összegét;
 - c)
 
-(5) Egyéb ráfordításként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott (fizetendő) engedmény szerződés szerinti összegét.
+(5) Egyéb ráfordításként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott (fizetendő) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében adott (fizetendő) engedmény – levonható általános forgalmi adóval csökkentett – összegét is.
 
 82. § (1) Az értékesítés közvetlen költségei között kell kimutatni az értékesített saját termelésű készletek és teljesített szolgáltatások közvetlen önköltségét, az eladott áruk beszerzési értékét, az eladott (közvetített) szolgáltatások értékét.
 

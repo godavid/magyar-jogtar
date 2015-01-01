@@ -216,7 +216,7 @@ jogosult folytatni.
 
 (8) Nem ruházhatók át a (3) bekezdés a–g) és hb) valamint hd), hf) pontjában meghatározott jogkörök
 
-13. § (1) A felsőoktatási intézmény első számú felelős vezetője és képviselője a rektor, aki eljár és dönt mindazokban az ügyekben, amelyeket jogszabály, a szervezeti és működési szabályzat, a kollektív szerződés nem utal más személy vagy testület hatáskörébe. Az állami felsőoktatási intézmény rektora a kancellár döntésével vagy intézkedésével szemben, illetve intézkedésének elmulasztása esetén a fenntartóhoz intézett kifogással élhet.
+13. § (1) A felsőoktatási intézmény első számú felelős vezetője és képviselője a rektor, aki eljár és dönt mindazokban az ügyekben, amelyeket jogszabály, a szervezeti és működési szabályzat, a kollektív szerződés nem utal más személy vagy testület hatáskörébe. A 13/A. § (2) bekezdés a)–f) pontjában meghatározott feladatai tekintetében a kancellár a felsőoktatási intézmény vezetőjeként jár el. Az állami felsőoktatási intézmény rektora a kancellár döntésével vagy intézkedésével szemben, illetve intézkedésének elmulasztása esetén a fenntartóhoz intézett kifogással élhet.
 
 (2) Állami felsőoktatási intézményben a rektor a felsőoktatási intézmény alaptevékenységnek megfelelő működéséért felelős, ennek keretében gyakorolja az oktatói, kutatói, illetve tanári munkakörben foglalkoztatottak felett a munkáltatói jogokat, valamint a 25. § (3) bekezdése szerinti megbízási jogviszonnyal kapcsolatos, a megbízót megillető jogosultságokat. Az oktatói, kutatói, illetve tanári munkakörben foglalkoztatottak, a megbízási jogviszonyban állók tekintetében illetmény, illetve egyéb jogviszonyra tekintettel történő juttatás megállapítására a rektor a kancellár egyetértésével jogosult.
 
@@ -237,7 +237,7 @@ jogosult folytatni.
 - c) a felsőoktatási intézmény rendelkezésére álló források felhasználásával gondoskodik annak feltételeiről, hogy a felsőoktatási intézmény gazdálkodása az alapfeladatok ellátását biztosítsa,
 - d) gyakorolja az intézmények részvételével működő gazdasági társaságokban és gazdálkodó szervezetekben a tulajdonosi jogokat,
 - e) a 13. § (2) bekezdésében meghatározott kivétellel munkáltatói jogot gyakorol a felsőoktatási intézményben foglalkoztatott alkalmazottak felett, gondoskodik a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról,
-- f) gondoskodik a gazdasági vezetői feladatok ellátásáról,
+- f) gondoskodik a gazdasági vezetői feladatok ellátásáról, megbízza a gazdasági vezetőt, visszavonja a gazdasági vezető megbízását,
 - g) feladatai ellátása során a rektor tekintetében fennálló együttműködési kötelezettségének köteles eleget tenni.
 
 (3) Kancellári megbízást az kaphat, illetve a kancellári megbízás azzal tartható fenn, aki
@@ -678,7 +678,7 @@ címet adományozhat.
 41. § (1) A Kormány
 
 - a) hátrányos helyzetű hallgatói csoport,
-- b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, terhességi-gyermekágyi segélyben, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
+- b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
 - c) fogyatékossággal élő jelentkezők csoportjához tartozók,
 - d) nemzetiséghez tartozó jelentkezők csoportjához tartozók
 
@@ -981,7 +981,7 @@ finanszírozásához járul hozzá.
 
 48/L. § A hazai munkaviszony időtartamába beleszámít
 
-- a) a terhességi-gyermekágyi segély, a gyermekgondozási segély és a gyermekgondozási díj folyósításának időtartama,
+- a) a csecsemőgondozási díj, a gyermekgondozási segély és a gyermekgondozási díj folyósításának időtartama,
 - b) az az időszak, amely alatt a volt magyar állami (rész)ösztöndíjas hallgató részére álláskeresési járadékot folyósítottak.
 
 48/M. § (1) A volt magyar állami (rész)ösztöndíjas hallgatónak nem kell teljesítenie a 48/A. § a) pontjában meghatározott feltételt, illetve a 48/A. § c) pont alapján fennálló még nem teljesített kötelezettséget, ha három gyermeket szül.
@@ -1728,7 +1728,7 @@ nyújtott támogatás.
 
 (2) Az ösztöndíj odaítélésének, feltételeinek rendjét a Kormány határozza meg.
 
-(3) Gyakorlatigényes szaknak minősül a Kormány által a többciklusú képzés rendjét, a képzés indításának eljárását meghatározó jogszabályban megjelölt – képzési és kimeneti követelményei alapján legalább hat hétig tartó szakmai gyakorlatot is tartalmazó – szak.
+(3) Gyakorlatigényes szaknak minősül a jogszabályban meghatározott képzési és kimeneti követelményei alapján legalább hat hétig tartó szakmai gyakorlatot is tartalmazó szak.
 
 85/A. § (1) A 84. § (2) bekezdés a) pontja szerinti hallgatói juttatások éves összegét:
 
@@ -1801,7 +1801,7 @@ a felsőoktatási intézménynek a 85/A. § szerint nyújtott költségvetési f
 
 88. § (1) Az állami felsőoktatási intézményi által alapított gazdasági társaság alapítására, részesedésszerzésre, működésére, illetve a vezető tisztségviselőjének felelősségére az állami részesedéssel működő gazdasági társaságra vonatkozó szabályokat kell alkalmazni.
 
-(2) Ha a felsőoktatási intézmény szellemi alkotás jogosultja, azt nem pénzbeli hozzájárulásként intézményi társaság tulajdonába adhatja, a szellemi alkotás üzleti célú hasznosítása céljából hasznosító vállalkozást hozhat létre. A szellemi alkotás hasznosítására létrehozott, illetve működtetett intézményi társaságra egyebekben a kutatás-fejlesztésről és a technológiai innovációról szóló törvényt kell alkalmazni.
+(2) Ha a felsőoktatási intézmény szellemi alkotás jogosultja, azt nem pénzbeli hozzájárulásként intézményi társaság tulajdonába adhatja, a szellemi alkotás üzleti célú hasznosítása céljából hasznosító vállalkozást hozhat létre. A szellemi alkotás hasznosítására létrehozott, illetve működtetett intézményi társaságra egyebekben a tudományos kutatásról, fejlesztésről és innovációról szóló törvényt kell alkalmazni.
 
 #### 55. A felújítás, beruházás sajátos szabályai
 
@@ -2251,7 +2251,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 - 1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott tudományok főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
 - 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
-- 3. a felsőoktatási intézmény, valamint az egyházi fenntartó vagy alapítvány által fenntartott diákotthonok minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét és díját, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
+- 3. a felsőoktatási intézmény, valamint a diákotthon minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
 - 4. a képesítési keretet, a doktori képzés szabályait,
   - a) az alap- és mesterképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá azokat a szakokat, amelyekben külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzést kell szervezni,
   - b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
@@ -2261,7 +2261,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 - 8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a nyelvi követelményeket, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
 - 9. a felvételi eljárás azon feltételeit, amelyek
   - a) hátrányos helyzetű hallgatói (jelentkezői) csoport,
-  - b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, terhességi-gyermekágyi segélyben, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
+  - b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
   - c) fogyatékossággal élő jelentkezők csoportjához tartozók,
   - d) nemzetiséghez tartozó jelentkezők csoportjához tartozók
 
@@ -2572,7 +2572,7 @@ kell érteni.
 | 43. |  | II/B. Nem állami főiskolák |  |
 | 44. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
 | 45. |  |  | Adventista Teológiai Főiskola, Pécel |
-| 46. |  |  | Általános Vállalkozási Főiskola, Budapest |
+| 46. |  |  |  |
 | 47. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
 | 48. |  |  | Baptista Teológiai Akadémia, Budapest |
 | 49. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
@@ -3025,7 +3025,7 @@ c) hazai munkaviszony(ok) létesítésére és időtartamára vonatkozó adatai,
 
 d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra vonatkozó adatai,
 
-e) terhességi-gyermekágyi segély folyósításának időtartamára vonatkozó adatai,
+e) csecsemőgondozási díj folyósításának időtartamára vonatkozó adatai,
 
 f) gyermekgondozási segély folyósításának időtartamára vonatkozó adatai,
 
@@ -3083,7 +3083,7 @@ b) a munkaügyi központok és kirendeltségeik a (volt) magyar állami ösztön
 
 c) a kincstár a gyermekgondozási segélynek a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 
-d) az egészségbiztosítási szerv a terhességi-gyermekágyi segélynek és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
+d) az egészségbiztosítási szerv a csecsemőgondozási díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 
 e) a felsőoktatási információs rendszer működéséért felelős szerv a (volt) magyar állami ösztöndíjas hallgató természetes személyazonosító adataira, adóazonosító jelére, társadalombiztosítási azonosító jelére, elektronikus levelezési címére, felsőoktatási képzésére, a hallgatói jogviszonyára, a jelentkező természetes személyazonosító adataira, felsőoktatási képzésére, lakcímére,
 

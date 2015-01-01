@@ -102,7 +102,7 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 10. § Nincs helye szabálysértési elzárásnak, ha az eljárás alá vont személy
 
 - a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg-ellátásban részesül,
-- b) a várandósság negyedik hónapját elérő nő,
+- b) a várandósság tizenkettedik hetét elérő nő,
 - c) tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő,
 - d) fogyatékos, vagy folyamatos ápolást, felügyeletet, gondozást igénylő hozzátartozójáról egyedül gondoskodik.
 
@@ -770,6 +770,8 @@ jelöli ki.
 
 73. § (1) A rendőrség szabálysértési elzárással is büntethető szabálysértés esetén a tetten ért eljárás alá vont személyt gyorsított bírósági eljárás lefolytatása céljából őrizetbe veheti. A tettenérésre vonatkozó szabályokat kell alkalmazni akkor is, ha a szabálysértés helyszínéről elmenekült elkövetőt a rendőrség az elkövetéstől számított negyvennyolc órán belül elfogja.
 
+(1a) A szabálysértési őrizetet rendőrségi fogdán kell végrehajtani. Az őrizetbe vett eljárás alá vont személy a szabálysértési eljárás során őt megillető jogokat korlátozás nélkül gyakorolhatja.
+
 (2) A szabálysértési őrizet a bíróság érdemi végzésének meghozataláig, de – e törvény eltérő rendelkezése hiányában – legfeljebb hetvenkét óráig tart. Az eljárás alá vont személyt nyomban szabadon kell bocsátani, ha a szabálysértési őrizet tartama alatt a bíróság a gyorsított eljárást nem folytatta le vagy nem szabott ki szabálysértési elzárást.
 
 (3) Ha a szabálysértési elzárást kiszabó végzés nem emelkedett jogerőre és alappal feltehető, hogy az eljárás alá vont személy szabadlábon újabb, szabálysértési elzárással is büntethető szabálysértést követne el, a bíróság a szabálysértési őrizet tartamát a másodfokú végzés meghozataláig indokolt határozattal meghosszabbíthatja.
@@ -783,6 +785,31 @@ jelöli ki.
 (7) A katona szabálysértési őrizetbe vételéről a parancsnokát is értesíteni kell.
 
 (8) A tulajdon elleni szabálysértés elkövetésén tetten ért személyt bárki visszatarthatja, köteles azonban őt a rendőrségnek haladéktalanul átadni.
+
+(9) Az a rendőrségi fogda, ahol az őrizetet végrehajtják, az őrizet határidejének lejártát nap, óra és perc megjelöléssel nyilvántartja.
+
+(10) A magyar nyelv nem tudása miatt a szabálysértési őrizetest a fogvatartás során nem érheti hátrány. A szabálysértési őrizetes a rendőrségi fogdában mind szóban, mind írásban anyanyelvét, nemzetiségi nyelvét, vagy – ha a magyar nyelvet nem ismeri – az általa ismert más nyelvet használhatja.
+
+(11) Az őrizetet elrendelő szerv a szabálysértési őrizetes részére írásban, egyszerűen, közérthető módon, a fogvatartott anyanyelvén, nemzetiségi nyelven, vagy az általa ismert más nyelven tájékoztatást ad
+
+- a) a szabálysértési eljárás során az őt megillető védelemhez való jogról,
+- b) a szabálysértési eljárás folytatásának alapjául szolgáló cselekmény lényegének, valamint ezek változásának a megismeréséhez való jogáról,
+- c) az anyanyelvhasználat jogáról,
+- d) a vallomástétel megtagadásának jogáról,
+- e) az ellene folyamatban lévő szabálysértési ügy irataiba való betekintési jogról,
+- f) a konzuli hatóságok, továbbá a szabálysértési őrizetes által megjelölt hozzátartozó vagy az általa megjelölt más személy értesítéséhez való jogról, valamint
+- g) a szabálysértési őrizetnek az elrendeléséről szóló határozat szerinti, illetve törvényben meghatározott lehetséges végső tartamáról, a szabálysértési őrizet meghosszabbításáról, a szabálysértési őrizet elrendelését és a meghosszabbítását tartalmazó határozatokkal szembeni jogorvoslatról.
+
+(12) Ha az őrizetbe vett eljárás alá vont személy hallássérült, siketvak, vak, beszédképtelen vagy – beszámítási képességre tekintet nélkül – kóros elmeállapotú, a (11) bekezdés szerinti tájékoztatást az állapotára figyelemmel kell megadni.
+
+(13) Az őrizetbe vett eljárás alá vont személyt, ha
+
+- a) az őrizet tartama alatt a bíróság a gyorsított eljárást nem folytatta le, az őrizet tartamának elteltével,
+- b) a bíróság a gyorsított eljárás eredményeként nem szabott ki szabálysértési elzárást, a bírósági határozat átadását követően helyben
+
+haladéktalanul szabadítani kell. A szabadításról az őrizetet elrendelő rendőrséget, az ügydöntő határozatot hozó járásbíróságot, továbbá katona esetén a parancsnokát értesíteni kell.
+
+(14) A szabálysértési őrizet e törvényben nem szabályozott kérdéseire a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvénynek az őrizet végrehajtására vonatkozó szabályait kell alkalmazni azzal, hogy a rendelkezési jogkör gyakorlója az őrizetet elrendelő szerv vezetője.
 
 #### 61. Ruházat, csomag és jármű átvizsgálása
 
@@ -1770,6 +1797,8 @@ téríti meg.
 
 (6) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti az erre hatáskörrel rendelkező szervnél.
 
+(6a) Elzárással is sújtható szabálysértés elkövetése miatt eljárás alá vont fiatalkorú, vagy elzárással is sújtható szabálysértési tényállást megvalósított gyermekkorú esetében a szabálysértési hatóság a fiatalkorú, illetve gyermekkorú védelembe vételét kezdeményezi az erre hatáskörrel rendelkező szervnél.
+
 (7) Fiatalkorúval szemben a 102. § (1) bekezdése, valamint a 118. § (1) bekezdése szerinti eljárás alapján csak intézkedés alkalmazható.
 
 (8) A tizennegyedik életévét be nem töltött, valamint fiatalkorú személyt törvényes képviselőjének jelenlétében és csak akkor lehet szembesíteni, ha a szembesítés benne nem kelt félelmet.
@@ -1813,7 +1842,9 @@ téríti meg.
 
 #### 104. A szabálysértési elzárás végrehajtása
 
-139. § (1) A szabálysértési elzárást a büntetések és az intézkedések végrehajtásáról szóló jogszabályban meghatározottak szerinti büntetés-végrehajtási intézetben kell végrehajtani.
+139. § (1) A szabálysértési elzárást – az (1a) bekezdésben meghatározott kivétellel – büntetés-végrehajtási intézetben kell végrehajtani.
+
+(1a) A szabálysértési elzárást a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában kell végrehajtani, ha az elkövető a rendőrség őrizetében van, és a 9. § (3) bekezdése szerinti beszámítást követően az elzárás hátralevő tartama a két napot nem haladja meg. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani.
 
 (2)
 
@@ -2120,7 +2151,7 @@ vehető nyilvántartásba.
 - b) a szabálysértési hatóság a (2) bekezdés b)-f), i) és n) pontok esetén,
 - c) a (2) bekezdés j) pontja esetén a szabálysértési szabályozásért felelős miniszter,
 - d) a (2) bekezdés k) pontja esetén az engedélyező szerv,
-- e) a (2) bekezdés l) pontja esetén a büntetés-végrehajtási intézet,
+- e) a (2) bekezdés l) pontja esetén a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén az előkészítő eljárást lefolytató szerv,
 - f) a (2) bekezdés o) pontja esetén az a szerv vagy személy, amelyik vagy aki a helyszíni bírságot kiszabta,
 - g) a (2) bekezdés g), h) és m) pontja esetén az állami foglalkoztatási szerv.
 
@@ -2218,7 +2249,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, valamint a büntetés-végrehajtási szerv az e törvényben foglalt feladataik ellátása céljából,
 - e) a nyomozó hatóság, az ügyészség és a bíróság büntetőeljárás lefolytatása céljából,
 - f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából, valamint
-- g)
+- g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából.
 
 (1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2a) bekezdése szerint kezelt adatokat.
 
@@ -3239,7 +3270,7 @@ szabálysértést követ el.
 
 250. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) kijelölje a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézeteket,
+- a)
 - b) kijelölje a szabálysértési nyilvántartási rendszer tekintetében az adatkezelői feladatokat ellátó szervet,
 - c) meghatározza a XXVII. és a XXVIII. Fejezetben foglalt egyes szabálysértések esetén a pénzbírság, illetve a helyszíni bírság kötelező mértékét.
 
@@ -3249,7 +3280,7 @@ szabálysértést követ el.
 - b) a szabálysértési nyilvántartások részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének,
 - c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének, valamint a szabálysértési nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjének,
 - d) az adópolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
-- e) a büntetés-végrehajtásért felelős miniszter egyetértésével és a legfőbb ügyész véleményének kikérésével a szabálysértési elzárás végrehajtásának
+- e)
 - f) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének,
 - g) az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelésének és értékesítésének,
 - h) a szabálysértési statisztikai adatgyűjtés, adatfeldolgozás és adatszolgáltatás,
@@ -3301,6 +3332,8 @@ részletes szabályait rendeletben szabályozza.
 253. § (1) E törvény 67. §-a és 91. §-a a büntetőeljárás során igénybe vehető tolmácsoláshoz és fordításhoz való jogról szóló, 2010. október 20-i 2010/64/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) E törvény 238/C. §-a a szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) E törvény 73. § (10)–(12) bekezdése a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 208. Hatályon kívül helyező rendelkezések
 
