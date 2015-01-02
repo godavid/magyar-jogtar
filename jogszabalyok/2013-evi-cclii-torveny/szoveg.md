@@ -624,9 +624,7 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 (32)
 
-(33) A Ctv. 72/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A cég a törvényességi felügyeleti eljárásban kérelmét kizárólag elektronikus úton nyújthatja be.”
+(33)
 
 (34)–(42)
 
@@ -730,15 +728,11 @@ lép.
 
 130. § (1)–(7)
 
-(8) A Cnytv. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét), anyja születési nevét is.”
+(8)
 
 (9)–(15)
 
-(16) A Cnytv. 58/B. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az alapítványok egyesülésének vagy szétválásának bejegyzésére akkor kerülhet sor, ha az állami adó- és vámhatóság – a bírósági elektronikus értesítést követő öt munkanapon belül – elektronikus úton arról tájékoztatja a bíróságot, hogy az átalakulással érintett alapítványnál az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás nincs folyamatban, vagy az állami adó- és vámhatóság ilyen adóigazgatási eljárást nem kezdeményez. Ha az állami adó- és vámhatóság tájékoztatása szerint az alapítványnál ilyen eljárás van folyamatban, vagy az állami adó- és vámhatóság ilyen eljárást kezdeményez, az átalakulás az adóigazgatási eljárás jogerős befejezéséről szóló elektronikus tájékoztatást követően, ennek hiányában az átalakulás bejegyzése iránti kérelem elbírálására nyitva álló határidő kezdetétől számított kilencvenedik napon jegyezhető be.”
+(16)
 
 (17)
 
@@ -746,7 +740,9 @@ lép.
 
 (19)–(21)
 
-(22)
+(22) A Cnytv. 99. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) 2015. január 2. napjától az ezt megelőzően bejegyzett, nemzetiségi egyesület a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti, hogy az egyesület formája nemzetiségi egyesület, ha alapszabályában rögzített célja a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény szerinti, konkrétan megjelölt nemzetiség képviselete és alapszabálya szerint az adott nemzetiség érdekvédelmét, érdekképviseletét látja el vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet lát el. A bíróság a bejelentés alapján az egyesület formáját akkor jegyzi be a nyilvántartásba, ha az alapszabály szerint az egyesület nemzetiségi egyesület. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni azzal, hogy a kijavításról nem kell végzést hozni.”
 
 (23)
 
@@ -894,13 +890,7 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 154. § (1)–(14)
 
-(15) A Bit. 161/A. § (5) bekezdése a következő b) és c) ponttal egészül ki:
-
-[A megkereső biztosító az 1. számú melléklet A) rész 10., 11., 12., és 13. pontjában meghatározott ágazatokhoz tartozó szerződés megkötésével vagy teljesítésével kapcsolatban a károsult személy előzetes hozzájárulása esetén az alábbi adatokat kérheti:]
-
-„b) a személyi sérülés miatt kárigényt vagy személyiségi jogsérelem miatt sérelemdíj iránti igényt érvényesítő személy adatfelvételkori, a szerződéses kockázattal kapcsolatos egészségi állapotára vonatkozó adatokat; és
-
-c) a károsodott vagyontárgyat vagy a személyi sérülés miatt kárigényt, vagy személyiségi jogsérelem miatt sérelemdíj iránti igényt érvényesítő személyt érintő korábbi – az e bekezdésben meghatározott ágazathoz tartozó szerződéssel kapcsolatos – biztosítási eseményekre vonatkozó adatokat.”
+(15)
 
 (16)–(20)
 

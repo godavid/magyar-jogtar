@@ -8,43 +8,7 @@ a központi címregiszter létrehozásával összefüggő, valamint egyes igazga
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-2. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 5. §-a a következő (17) bekezdéssel egészül ki:
-
-„(17) Központi címregiszter: az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben meghatározott nyilvántartás.”
-
-3. § Az Nytv. 9. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:)
-
-„d) a 2015. január 1. napját megelőzően keletkezett területszervezési, közigazgatás-szervezési, címváltozási iratokat.”
-
-4. § Az Nytv. 14. § g) és h) pontja helyébe a következő rendelkezések lépnek:
-
-(A nyilvántartás szervei az általuk kezelt adatokat az alábbi forrásból gyűjtik:)
-
-„g) a címek tekintetében a központi címregiszterből automatikus adatátvétel;
-
-h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés a g) pontba nem tartozó, de a címnyilvántartás részét képező adatok vonatkozásában;”
-
-5. § (1) Az Nytv. 28/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nyilvántartás központi szerve a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezeli a települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (a továbbiakban: címnyilvántartás).”
-
-(2) Az Nytv. 28/A. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(A címnyilvántartás tartalmazza)
-
-„f) az ingatlan elhelyezkedését leíró címkoordinátát, valamint a 2015. január 1. napját megelőzően keletkezett címek esetén a helyrajzi számot;”
-
-(3) Az Nytv. 28/A. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(7) A (2) bekezdés a)–f) pontjában meghatározott címelemek a központi címregiszterből történő, folyamatos, automatikus adatátvétel útján a nyilvántartás részévé válnak.
-
-(8) A (2) bekezdés g) pontjában foglalt adatok címnyilvántartásba vételéről a jegyző gondoskodik.”
-
-(4) Az Nytv. 28/A. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A (2) bekezdés h)–n) pontjában foglalt adatok tekintetében a nyilvántartásba vételről a járási hivatal gondoskodik.”
+2–5. §
 
 #### 3. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
@@ -52,84 +16,17 @@ h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés
 
 #### 4. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-10. § Hatályát veszti az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény
-
-- a) 32/A. § (9a) bekezdése és
-- b) 32/C. § (1) bekezdés m) pontja.
+10. §
 
 #### 5. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-11. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 5. §-a a következő (3a) bekezdéssel egészül ki:
+11. §
 
-„(3a) Az ingatlanok címadatát az ingatlan-nyilvántartás az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben (a továbbiakban: Interop. tv.) meghatározott központi címregiszterből (a továbbiakban: KCR) történő automatikus adatátvétel útján származtatott adatként tartalmazza.”
-
-12. § (1) Az Inytv. IV. fejezete a következő alcímmel egészül ki:
-
-„A központi címregiszterből történő adatátvétel és a címképző szerv értesítésének szabályai
-
-25/A. § (1) E törvény rendelkezéseit a KCR-ből történő automatikus adatátvétel esetében, valamint a címképző szerv értesítése tekintetében ezen alcímben foglalt eltérésekkel kell alkalmazni.
-
-(2) Az (1) bekezdés szerinti adatátvétel esetén az ingatlanügyi hatóság nem folytat le ingatlan-nyilvántartási közigazgatási hatósági eljárást.
-
-(3) Az ingatlan címét érintő adatváltozás iránti bejelentést, megkeresést széljegyzés nélkül haladéktalanul érdemi vizsgálat nélkül el kell utasítani, és a bejelentőt, megkeresőt tájékoztatni kell a címképzésre jogosult szervről. A kérelemhez csatolt okiratokat, ha azok más eljárás lefolytatásához nem szükségesek, a kérelmező, megkereső részére vissza kell küldeni.
-
-(4) Az ingatlan címadata a KCR-ből történő automatikus adatátvétel (e törvény alkalmazásában a továbbiakban: címadatátvétel) útján válik az ingatlan-nyilvántartás részévé.
-
-25/B. § (1) Az ingatlanügyi hatóság az alábbi változások átvezetéséről rendelkező, a címkoordinátákat és az ingatlan-nyilvántartási azonosító kódot is tartalmazó határozatának a megküldésével tájékoztatja a címképző szervet:
-
-a) a telekalakítás (ideértve a kisajátítási eljárásban történt változást is),
-
-b) az épület feltüntetése és törlése,
-
-c) az épület önálló ingatlanná alakítása,
-
-d) a társas- és szövetkezeti házalapítás, ezzel kapcsolatos módosítás és megszüntetés.
-
-(2) Az ingatlan-nyilvántartásban létrejövő új földrészletek és egyéb önálló ingatlanok megnyitásra kerülő tulajdoni lapján, ha rendelkezésre áll
-
-a) telekmegosztás esetén a telekalakítás előtti címadatot,
-
-b) telekösszevonás esetén a telekalakítással érintett földrészletek címadatának közös elemeit,
-
-c) a 19. § (3) bekezdése szerinti esetben a törzslap címadatát
-
-„címképzés alatt” megjegyzéssel kell feltüntetni.
-
-(3) A tulajdoni lapot a címképző szerv (1) bekezdés szerinti tájékoztatásával egyidejűleg – függetlenül attól, hogy a címképzésre sor kerül-e – a (2) bekezdés szerinti megjegyzéssel kell ellátni abban az esetben is, ha a meglévő címadat hiányában annak feltüntetésére nincs lehetőség.
-
-(4) A „címképzés alatt” megjegyzés
-
-a) a címképzési eljárást követő címadatátvétellel egyidejűleg, vagy
-
-b) címképzési eljárás hiányában a címképző szerv által a címadatátvétellel azonos módon elküldött adatok alapján
-
-automatikusan kerül törlésre az érintett ingatlan tulajdoni lapjáról.
-
-(5) Az ingatlanügyi hatóság a címképző szerv részére az (1) bekezdés szerinti tájékoztatását elektronikus formában is teljesítheti.”
+12. § (1)
 
 (2)
 
-13. § Az Inytv. a következő 95. §-sal egészül ki:
-
-„95. § (1) A központi címregiszter létrehozásával összefüggő, valamint egyes igazgatási tárgyú törvények módosításáról szóló 2014. évi XCIII. törvénnyel (a továbbiakban: KCR tv.) megállapított címadatátvétel megtörténtéig az ingatlan-nyilvántartás az ingatlan-nyilvántartási adatbázisban már meglévő címadatokat, a címadatrögzítés, illetve címadatváltozás alapjául szolgáló okiratnak megfelelően tartalmazza.
-
-(2) A címadatátvétel útján történő adatváltozást követően az adott ingatlan címadatában bekövetkezett korábbi változás ingatlan-nyilvántartási átvezetése alapjául szolgáló okiratban szereplő címadatot figyelmen kívül kell hagyni.
-
-(3) A címadatátvétellel még nem érintett címek esetében az ingatlan-nyilvántartás tartalmazza a „felülvizsgálat alatt” megjegyzést, melyet a tulajdoni lapon az ingatlan címadata mellett kell megjeleníteni. A megjegyzés az ingatlan-nyilvántartási adatok irányadó jellegét nem érinti.
-
-(4) Az ingatlan címadatát érintő, 2015. január 1. napján folyamatban lévő, valamint a megismételt eljárásokat e törvénynek a KCR tv.-vel megállapított rendelkezései szerint kell lefolytatni.
-
-(5) Az ingatlan-nyilvántartásba címadatátvétel útján bekerült címadatnak az állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetéséről 2015. január 1. és 2015. május 31. között az ingatlanügyi hatóság hivatalból gondoskodik.”
-
-14. § Az Inytv.
-
-- a) 14. § a) pontjában az „a belterületen lévő ingatlannál az utca (tér, krt. stb.) nevét és a házszámot,” szövegrész helyébe az „a KCR-ből automatikus adatátvétel útján átvett címadatokat”,
-- b) 25. § (1) bekezdésében az „adataiban” szövegrész helyébe az „adataiban (ide nem értve az ingatlan címét)”,
-- c) 27. § (6) bekezdésében a „belterületi határának, továbbá a közterület nevének” szövegrész helyébe az „illetve belterületi határának”
-
-szöveg lép.
-
-15. § Hatályát veszti az Inytv. 52/A. § (4) bekezdése.
+13–15. §
 
 #### 6. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
@@ -149,23 +46,7 @@ szöveg lép.
 
 #### 10. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-26. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 14/A. §-a helyébe a következő rendelkezés lép:
-
-„14/A. § (1) Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen az épített környezet alakításáról és védelméről szóló törvény szerinti épület található.
-
-(2) Közterület elnevezéseként nem alkalmazható
-
-a) ugyanazon településen vagy a fővárosban ugyanazon a kerületen belül azonos jellegű közterületre alkalmazandó azonos,
-
-b) kormányrendeletben meghatározottak szerint a közterületek megkülönböztetését lehetővé tevő szabályokkal való ellentét miatt összetéveszthető, vagy
-
-c) kormányrendeletben meghatározottak szerint a közterületek elnevezésére vonatkozó technikai feltételekkel ellentétes
-
-elnevezés.
-
-(3) Közterület élő személyről nem nevezhető el.
-
-(4) Települések egyesítése, területrész átadása, a kerület határainak megváltoztatása után szükség esetén átnevezéssel kell gondoskodni arról, hogy az új település közterületnevei megfeleljenek a (2) és (3) bekezdésben meghatározott követelményeknek.”
+26. §
 
 27. §
 
@@ -173,74 +54,21 @@ elnevezés.
 
 29–31. §
 
-32. § A Mötv. 132. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A kormányhivatal törvényességi felügyeleti eljárásában vizsgálja az érintett
-
-a) működésének, döntéshozatali eljárásának jogszerűségét;
-
-b) döntéseinek jogszerűségét;
-
-c) jogalkotási, továbbá jogszabályon alapuló döntési és feladatellátási kötelezettségének teljesítését.
-
-(4) Nem terjed ki a kormányhivatal törvényességi felügyeleti eljárása – az (5) bekezdésben foglalt kivétellel – az érintett által hozott azon döntésekre,
-
-a) amelyek alapján munkaügyi vitának vagy közszolgálati jogviszonyból származó vitának,
-
-b) jogszabályban meghatározott bírósági vagy közigazgatási hatósági eljárásnak van helye, vagy
-
-c) amelyeket a képviselő-testület mérlegelési jogkörében hozott.
-
-(5) A (4) bekezdés c) pontjától eltérően a kormányhivatal törvényességi felügyeleti eljárása kiterjed a mérlegelési jogkörben hozott döntésekre is a döntéshozatali eljárás jogszerűségének vizsgálata körében.”
-
-33. § (1) A Mötv. 133. §-t megelőző alcím helyébe a következő alcím lép:
-
-„A kormányhivatal információkérési, javaslattételi joga és a szakmai segítségnyújtás”
-
-(2) A Mötv. 133. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A kormányhivatal szakmai segítséget nyújt az érintett részére az általa alkalmazandó jogszabályok tartalmával összefüggésben az érintett jogszerű működése céljából.”
-
-34. § A Mötv. 139. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A közigazgatási és munkaügyi bíróság a jogszabálysértő önkormányzati határozat végrehajtását felfüggesztheti.”
-
-35. § A Mötv. 141. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A törvényességi felügyeleti bírság a törvényességi felügyeleti eljárás során többször, vagy ugyanazon kötelezettség ismételt megszegése esetén ismételten is kiszabható. Ugyanazon kötelezettség ismételt megszegésének tekintendő a jogszabálysértő állapot folyamatos fenntartása is.”
+32–35. §
 
 36. § (1)
 
-(2) A Mötv. 143. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:)
-
-„g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket.”
+(2)
 
 37. §
 
-38. § A Mötv. a következő 146/A. §-sal egészül ki:
+38. §
 
-„146/A. § E törvénynek a központi címregiszter létrehozásával összefüggő, valamint egyes igazgatási tárgyú törvények módosításáról szóló 2014. évi XCIII. törvénnyel megállapított 14/A. § (2)–(4) bekezdésében foglaltakat a 2015. január 1-jét követően elnevezett közterületek esetében kell alkalmazni.”
-
-39. § (1) A Mötv.
-
-- a) 37. § (4) bekezdésében a „törvényszéktől” szövegrész helyébe a „közigazgatási és munkaügyi bíróságtól” szöveg,
-- b) 37. § (5) bekezdésében a „nemperes eljárásban,” szövegrész helyébe az „a polgári perrendtartásról szóló törvény a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit megfelelően alkalmazva nemperes eljárásban,” szöveg,
-- c) 37. § (6) bekezdésében a „törvényszéknél” szövegrész helyébe a „közigazgatási és munkaügyi bíróságnál” szöveg,
-- d) „133. § (2) bekezdésében az „a helyi önkormányzat működésére” szövegrész helyébe az „az érintett működésére” szöveg, a „képviselő-testülete” szövegrész helyébe a „képviselő-testülete, illetve a társulási tanács” szöveg, az „önkormányzat köteles” szövegrész helyébe az „önkormányzat, illetve a társulási tanács köteles” szöveg,
-- e) 134. § (2) bekezdésében a „megadott határidő eredménytelen leteltét követően” szövegrész helyébe a „törvényességi felhívás eredménytelensége esetén” szöveg
-
-lép.
+39. § (1)
 
 (2)
 
-40. § Hatályát veszti a Mötv.
-
-- a) 132. § (1) bekezdés k) pontja,
-- b) 136. § (2) bekezdésében az „a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül” szövegrész,
-- c) 140. § (6) bekezdése,
-- d) 141. § (1) bekezdés c) pontjában az „a közigazgatási és munkaügyi” szövegrész.
+40. §
 
 #### 11. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
@@ -248,23 +76,7 @@ lép.
 
 #### 12. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló2013. évi L. törvény módosítása
 
-42. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonságának felügyeletét – a 2. § (3) és (4) bekezdésében meghatározott kivétellel – a Kormány által kijelölt hatóság látja el.”
-
-43. § Az Ibtv. 24. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.”
-
-44. § (1) Az Ibtv. 3. § (3) bekezdésében a „szervezeti egység” szövegrész helyébe a „hatóság” szöveg lép.
-
-(2) Az Ibtv. 14. § (4) bekezdésében, 17. § (1) és (4) bekezdésében és 24. § (2) bekezdés c) pontjában az „az informatikáért felelős” szövegrész helyébe az „az e-közigazgatásért felelős” szöveg lép.
-
-(3) Az Ibtv. 17. § (3) bekezdésében az „az informatikáért felelős” szövegrészek helyébe az „az e-közigazgatásért felelős” szöveg lép.
-
-(4) Az Ibtv. 14. § (4) bekezdésében az „az e-közigazgatásért felelős” szövegrész helyébe az „az informatikáért felelős” szöveg lép.
-
-(5) Az Ibtv. 24. § (2) bekezdés b) pontjában az „az informatikáért felelős miniszterrel egyetértésben” szövegrész helyébe az „az e-közigazgatásért felelős miniszterrel egyetértésben” szöveg lép.
+42–44. §
 
 #### 13. Az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló2013. évi CCXX. törvény módosítása
 

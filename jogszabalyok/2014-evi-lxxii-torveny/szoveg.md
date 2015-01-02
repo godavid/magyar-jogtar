@@ -4,1033 +4,126 @@ a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálys
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-1. § Az illetékekről szóló 1990. évi XCIII. törvény
-
-- a) 54. § (2) bekezdésében a „kegyelmi” szövegrész helyébe a „kegyelmi kérelem”,
-- b) 54. § (3) bekezdésében a „Vagyoni jellegű joghátrány elengedése” szövegrész helyébe az „A bűnügyi költség és a rendbírság elengedése”,
-- c) 57. § (2) bekezdés c) pontjában az „az elítélt” szövegrész helyébe az „a terhelt, a törvényes képviselője”
-
-szöveg lép.
+1. §
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-2. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: 1992. évi LXVI. törvény) 21. §-a a következő g) ponttal egészül ki:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
-
-„g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;”
-
-3. § Az 1992. évi LXVI. törvény 24. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bíróság, az ügyészség és a nemzetbiztonsági szolgálatok a feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén, – a nyomozó hatóságok, valamint a rendőrség bűnüldözési tevékenységük ellátásához, a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi tervezéshez, a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzéséhez, az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához, illetve az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont], továbbá a szabálysértési hatóság a szabálysértési eljárás, a rendőrség a szabálysértési eljárásról szóló törvény szerinti előkészítő eljárás lefolytatásához, valamint a Büntetés-végrehajtás Országos Parancsnoksága, a javítóintézet és a pártfogó felügyelői szolgálat a büntetés vagy intézkedés végrehajtásának biztosítása érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m) és p) pont] igénylésére jogosultak.”
+2–3. §
 
 #### 3. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-4. § (1) A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 88. § (2) bekezdése a következő e) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot.”
-
-(2) Az Mvt. 88. §-a a következő (5b) bekezdéssel egészül ki:
-
-„(5b) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében az e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.”
-
-(3) Az Mvt. 87. § 9. pontjában az „az előzetesen letartóztatottként vagy elítéltként végzett munka” szövegrész helyébe az „az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka” szöveg lép.
+4. §
 
 #### 4. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-5. § A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 33. § (1) bekezdése a következő g) ponttal egészül ki:
+5. §
 
-(A rendőr a további intézkedés megtétele céljából elfogja és az illetékes hatóság elé állítja azt,)
-
-„g) akinek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 38. § (5) bekezdése alapján büntetés-végrehajtási őrizetbe vétele szükséges.”
-
-6. § (1) Az Rtv. 38. §-a a következő (3)–(5) bekezdéssel egészül ki:
-
-„(3) A közbiztonsági őrizetet rendőrségi fogdán kell végrehajtani. A rendőrség az őrizet (1) és (2) bekezdés szerinti határidejének lejártát nap, óra és perc megjelöléssel tartja nyilván.
-
-(4) A közbiztonsági őrizetbe vett személyt
-
-a) a személyazonosságának megállapítását követően, továbbá
-
-b) ha a személyazonosság megállapítására vagy a feltételes szabadság megszüntetésére az (1) és (2) bekezdés szerinti határidőn belül nem került sor, a határidő elteltével
-
-haladéktalanul szabadon kell bocsátani.
-
-(5) A közbiztonsági őrizetre a Bv. tv. őrizet végrehajtására vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a rendelkezési jogkör gyakorlója az őrizetet elrendelő rendőri szerv vezetője, továbbá az őrizetbe vett személy befogadásáról és szabadításáról az őrizetet elrendelő rendőri szervet, pártfogó felügyelet alatt álló személy esetében pedig a pártfogó felügyelőt vagy a büntetés-végrehajtási pártfogó felügyelőt is értesíteni kell.”
+6. § (1)
 
 (2)
 
-7. § (1) Az Rtv. 42. §-a a következő (5c) és (5d) bekezdéssel egészül ki:
-
-„(5c) A rendőrség az előállító egység előterében és a rendőrségi fogda területén – a zárka, a WC és a tisztálkodásra szolgáló helyiség kivételével – a fogvatartás rendjének biztosítása, bűncselekmények, szabálysértések és fegyelmi vétségek megelőzése, továbbá a fogvatartott életének, testi épségének megóvása céljából elektronikus formában kép, hang vagy kép és hang együttes felvételére, továbbítására és rögzítésére alkalmas elektronikus megfigyelési eszközt helyezhet el, amellyel felvételt készíthet.
-
-(5d) Ha a fogvatartott korábban öngyilkosságot kísérelt meg, a saját testi épsége elleni önkárosító cselekményt követett el, vagy a fogvatartással összefüggésben észlelt körülmények alapján megalapozottan feltehető, hogy a fogvatartott ilyen cselekményt fog elkövetni, ezért a fogvatartott életének, testi épségének megóvása érdekében viselkedésének folyamatos nyomon követése szükséges, a rendőrség az előállító helyiségben, valamint a rendőrségi fogda zárkájában kép vagy kép és hang továbbítására alkalmas, felvételt nem rögzítő megfigyelési eszközt helyezhet el.”
-
-(2) Az Rtv. 42. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az)
-
-„b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében”
-
-(használható fel.)
-
-(3) Az Rtv. 42. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Ha a (6) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség,]
-
-„c) az (5), (5a) és (5c) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,”
-
-(törölni kell.)
-
-8. § Az Rtv. 42/A. § (1) bekezdésében az „(5a) és (5b) bekezdése” szövegrész helyébe az „(5a), (5b) és (5c) bekezdése” szöveg lép.
+7–8. §
 
 9. §
 
-10. § Az Rtv. 101. § (2) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét.”
-
-11. § Hatályát veszti az Rtv. 101. § (1) bekezdés c) pontja.
+10–11. §
 
 #### 5. A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény módosítása
 
-12. § A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény (a továbbiakban: Bv. Sztv.) 11. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A személyi állomány egyenruha viselésére kötelezett tagját az intézkedése során az egyenruhája és az azon elhelyezett azonosítószáma, a nem egyenruhában szolgálatot teljesítő tagját a szolgálati igazolványa igazolja.”
-
-13. § A Bv. Sztv. 15. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az e törvényben meghatározott kényszerítő eszközök közül csak azok, addig és olyan mértékben alkalmazhatók, amelyek az intézkedés eredményességéhez szükségesek.”
-
-14. § (1) A Bv. Sztv. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kényszerítő eszköz alkalmazására az érintettet – ha az eset körülményei lehetővé teszik – előzetesen figyelmeztetni kell. A figyelmeztetésnek, valamint a kényszerítő eszköz készenlétbe helyezésének csak akkor van helye, ha az e törvényben meghatározott alkalmazási feltételek fennállnak.”
-
-(2) A Bv. Sztv. 16. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az intézkedésnek passzívan ellenszegülő személlyel szemben csak testi kényszer alkalmazható.”
-
-15. § A Bv. Sztv. a következő 16/A. §-sal egészül ki:
-
-„16/A. § A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul szóban, a szolgálat befejezése után két órán belül írásban is jelenteni kell.”
-
-16. § A Bv. Sztv. „A kényszerítő eszközök alkalmazásának közös szabályai” alcíme a következő 17/A. §-sal egészül ki:
-
-„17/A. § A kényszerítő eszközök alkalmazása szempontjából a bv. szerv elleni támadásnak vagy rongálásnak minősül az olyan magatartás, amely a területén lévő vagy az üzemeltetését (működését) biztosító létesítmények, tárgyak, berendezések, járművek, egyéb eszközök megszerzésére, használhatatlanná tételére, megrongálására vagy megsemmisítésére irányul.”
-
-17. § A Bv. Sztv. 19. §-a helyébe a következő rendelkezés lép:
-
-„19. § (1) Bilincs alkalmazható a fogvatartott támadásának, szökésének, engedély nélküli eltávozásának és önkárosításának a megakadályozására, továbbá bármely személy jogszerű intézkedéssel szembeni ellenszegülésének megtörésére.
-
-(2) A bilincs használatára és a bilincselés módjára az elítélt mozgását korlátozó eszközök alkalmazására vonatkozó szabályokat kell megfelelően alkalmazni.”
-
-18. § A Bv. Sztv. a következő alcímmel és 20/A. §-sal egészül ki:
-
-„Traumatikus és irritáló lőszer
-
-20/A. § A bv. szervezetnél rendszeresített speciális, nem élet kioltására tervezett traumatikus lőszerrel, valamint irritáló töltetű lőszerrel leadott lövés alkalmazható
-
-a) az életet, a testi épséget közvetlenül sértő vagy veszélyeztető támadás elhárítására;
-
-b) a fogvatartott szökésének megakadályozására, megszökése esetén elfogására.”
-
-19. § A Bv. Sztv. 21. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Kényszerítő eszközként csak az arra kiképzett szolgálati kutyát lehet alkalmazni.”
-
-20. § (1) A Bv. Sztv. 22. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Lőfegyverhasználatnak csak a szándékos, személyre leadott lövés minősül. Nem minősül lőfegyverhasználatnak a figyelmeztető lövés, továbbá a tömegoszlatás, rendfenntartás céljából alkalmazott riasztólövés, valamint a speciális, nem élet kioltására tervezett traumatikus lőszerrel, irritáló töltetű lőszerrel leadott lövés.”
-
-(2) A Bv. Sztv. 22. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A hivatásos állomány tagja csak a bv. szervezetnél rendszeresített lőfegyvert és lőszert használhatja.”
-
-(3) A Bv. Sztv. 22. §-a a következő (6)–(9) bekezdéssel egészül ki:
-
-„(6) A lőfegyver használata után gondoskodni kell a helyszín biztosításáról.
-
-(7) A bv. szerv területén belül a fogvatartottak elhelyezésére, munkáltatására és egyéb tartózkodására szolgáló helyiségbe vagy területre lőfegyvert bevinni tilos.
-
-(8) A (7) bekezdésben meghatározott tilalom nem vonatkozik a rendkívüli esemény felszámolása érdekében alkalmazott lőfegyverekre, valamint a 20/A. §-ban meghatározott, nem élet kioltására tervezett, speciális lőszerek alkalmazása során használt lőfegyverekre.
-
-(9) A bv. szerv területére a bv. szervezet kezelésében lévő lőfegyveren kívül más lőfegyvert – a védett személyek biztosítását ellátó, valamint a rendkívüli esemény felszámolásában közreműködő más fegyveres szerv hivatásos állományú tagja által viselt fegyvert kivéve – bevinni tilos, azt az erre kijelölt tároló helyre le kell adni, nyilvántartásba vételéről és biztonságos tárolásáról gondoskodni kell.”
-
-21. § A Bv. Sztv. 28/A. §-a helyébe a következő rendelkezés lép:
-
-„28/A. (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
-
-a) családi és utónevére,
-
-b) lakcímére (székhelyére),
-
-c) telefonszámára,
-
-d) kapcsolattartói minőségére, és
-
-e) születési helyére és idejére.
-
-(2) A bv. szervezet nyilvántartja a hivatalos minőségben kapcsolatot tartó személy
-
-a) családi és utónevét,
-
-b) születési helyét és idejét vagy hivatása gyakorlására való jogosultságot igazoló igazolványa vagy szolgálati igazolványa számát,
-
-c) lakcímét vagy székhelyét,
-
-d) telefonszámát,
-
-e) kapcsolattartói minőségét, és
-
-f) a hivatalos kapcsolatot megalapozó, azt igazoló okmány megnevezését és számát.”
-
-22. § A Bv. Sztv. 28/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bíróság értesítése alapján a fogva tartó bv. szerv nyilvántartja az élet, testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XV. Fejezet], valamint a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény (Btk. XIX. Fejezet) sértettjének az elítélt szabadulásáról történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.”
-
-23. § A Bv. Sztv. 35. § (2) bekezdése a következő c) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg)
-
-„c) a Központi Kivizsgáló és Módszertani Intézet szervezetére és működésére vonatkozó részletes szabályokat;”
-
-24. § (1) A Bv. Sztv.
-
-- a) 5. § e) pontjában a „munkavédelemmel és” szövegrész helyébe a „munkavédelemmel, környezetvédelemmel, energetikai tevékenységgel, elektronikus információbiztonsággal és”,
-- b) 13. § (1) bekezdésében az „alapítványokkal és személyekkel” szövegrész helyébe az „alapítványokkal, oktatási intézményekkel és személyekkel”,
-- c) 16. § (6) bekezdésében a „parancsnokának az” szövegrész helyébe a „parancsnoka alkalmazta, vagy azt az”
-
-szöveg lép.
-
-(2) Hatályát veszti a Bv. Sztv.
-
-- a) 13. § (4) bekezdése,
-- b) 22. § (3) bekezdés b) pontjában a „vagy a személyi szabadságot” szövegrész,
-- c) 22. § (3) bekezdés k) pontja,
-- d) 28. § (2) bekezdés c) pontjában a „választójoggal nem rendelkező” szövegrész.
+12–24. §
 
 #### 6. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
 
-25. § (1) A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény (a továbbiakban: Met.) 9. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Felhatalmazást kap a Kormány, hogy a büntetés-végrehajtási intézetekben fogvatartottak tekintetében rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját.”
-
-(2) A Met. 9. § (6) bekezdése a következő c) ponttal egészül ki:
-
-(Felhatalmazást kap)
-
-„c) a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkaügyi ellenőrzés eljárási szabályait, valamint a 3. § és 6. § alkalmazásának eltérő szabályait.”
+25. §
 
 #### 7. Az ügyvédekről szóló 1998. évi XI. törvény módosítása
 
-26. § Hatályát veszti az ügyvédekről szóló 1998. évi XI. törvény 85. § (1) bekezdés a) pontjában, 88. § (1) bekezdés a) pontjában, 91. § (1) bekezdés a) pontjában, 96. § (1) bekezdés a) pontjában és 99. § (1) bekezdés a) pontjában a „ , valamint a 13. § (4) bekezdés b) és c) pontjában” szövegrész.
+26. §
 
 #### 8. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-27. § A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 51. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az élet, a testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmények (Btk. XV. Fejezet), valamint a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények (Btk. XIX. Fejezet) sértettje jogosult arra, hogy kérelmére értesítsék az előzetesen letartóztatott szabadon bocsátásáról vagy szökéséről, az elítélt véglegesen vagy feltételesen történő szabadon bocsátásáról és a szabadságvesztés végrehajtásának félbeszakításáról, továbbá szökéséről, valamint a javítóintézeti nevelés esetén a fiatalkorú végleges vagy ideiglenes elbocsátásáról, vagy a javítóintézet engedély nélküli elhagyásáról.”
-
-28. § A Be. a következő 62/A. §-sal egészül ki:
-
-„62/A. § (1) Ha az érintett személy kihallgatásakor a tizennyolcadik életévét még nem haladta meg, a bíróság, az ügyész és a nyomozó hatóság a jogokról való tájékoztatást és a kötelezettségekre való figyelmeztetést az érintett személy számára érthető módon, a korára és érettségére figyelemmel fogalmazza meg.
-
-(2) Ha az érintett személy hallássérült, siketvak, vak, beszédképtelen vagy – beszámítási képességre tekintet nélkül – kóros elmeállapotú, a bíróság, az ügyész és a nyomozó hatóság a jogokról való tájékoztatást és a kötelezettségekre való figyelmeztetést az állapotára figyelemmel fogalmazza meg és a számára érthető módon közli.”
-
-29. § A Be. 179. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A gyanúsítottat tájékoztatni kell arról is, hogy ha jövedelmi és vagyoni viszonyai folytán a bűnügyi költséget előreláthatóan nem tudja megfizetni, és ezt a külön jogszabályban meghatározott módon igazolja, saját vagy védője kérelmére a bíróság, illetve az ügyész személyes költségmentességet engedélyezhet részére. A tájékoztatásnak ki kell terjednie arra is, hogy a személyes költségmentesség engedélyezése esetén a kirendelt védő díját és költségét az állam viseli.”
-
-30. § A Be. 214. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az előzetes letartóztatást elrendelő határozat (2)–(3) bekezdés szerinti közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell.”
-
-31. § A Be. 262. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A határozatot azzal kell közölni, akire rendelkezése vonatkozik; a vádlottal közölt határozatot a védővel is, az ügydöntő határozatot a sértettel is közölni kell. Az ügydöntő határozat közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell. A tárgyalás vezetése és rendjének fenntartása körében hozott határozat kivételével a határozatot közölni kell az ügyésszel, a pótmagánvádlóval, az ügy áttételéről, a bíróság kijelöléséről és az eljárás felfüggesztéséről hozott határozatot közölni kell a sértettel is.”
-
-32. § A Be. 327. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az előzetes letartóztatás elrendelése esetén az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell.”
-
-33. § A Be. XXII. Fejezete a következő alcímmel és 491. §-sal egészül ki:
-
-„A szabálysértés elbírálása
-
-491. § (1) Ha a bíróság a tárgyalás eredményéhez képest úgy látja, hogy a vád tárgyává tett cselekmény szolgálati helyen, illetve szolgálattal összefüggésben elkövetett szabálysértés, és ezért a vádlottat felmenti, az ügy iratait – a szabálysértési elzárással is büntethető szabálysértés kivételével – a fegyelmi eljárás lefolytatása céljából megküldi a fegyelmi jogkör gyakorlójának.
-
-(2) Ha a katona szolgálati viszonya az iratoknak a fegyelmi jogkör gyakorlójának történt megküldése előtt megszűnt, a szabálysértést a bíróság bírálja el.
-
-(3) Az (1) és (2) bekezdés esetében a bíróság elkobzást rendelhet el, és a polgári jogi igényt érdemben elbírálhatja.”
-
-34. § A Be. 574. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az összbüntetési eljárást a bíróság hivatalból vagy indítványra folytatja le. Az összbüntetési eljárás lefolytatását az elítélt, a védő vagy az ügyész indítványozhatja. Az összbüntetési eljárás lefolytatásához – kivéve ha azt az elítélt indítványozta – az elítélt hozzájárulását minden esetben be kell szerezni. Az elítélt az indítványát vagy a hozzájárulását az első fokú ítélet meghozataláig visszavonhatja, ebben az esetben a bíróság az eljárást megszünteti. A bíróság az összbüntetésbe foglalást ítélettel, az erre irányuló indítvány elutasítását végzéssel mondja ki. Az ítéletben a bíróság az 556. és 557. §-ban foglaltakról is rendelkezhet.”
-
-35. § A Be. 590. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A rendbírság, a rendbírság helyébe lépő elzárás és az államot illető bűnügyi költség behajtása végett az a bíróság intézkedik, amelynek eljárásában az végrehajthatóvá válik. Az ügyész által kiszabott rendbírság, megállapított bűnügyi költség végrehajtása végett az ügyész intézkedik.”
-
-36. § A Be. 598. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a 71. § szerinti megkereséssel élhet további olyan adatok vagy iratok beszerzése érdekében, amelyekre a kegyelmi kérelem hivatkozik, vagy amelyek a kegyelmi eljárás lefolytatásához szükségesek. A megkeresésre ilyen esetben a 71. § (1)–(5) és (7) bekezdését kell megfelelően alkalmazni.”
-
-37. § A Be. 598. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során törvényben meghatározott adatkörben adatokat igényelhet a következő nyilvántartásokból:
-
-a) bűnügyi nyilvántartási rendszer,
-
-b) szabálysértési nyilvántartási rendszer,
-
-c) polgárok személyi adatainak és lakcímének nyilvántartása,
-
-d) közúti közlekedési nyilvántartás,
-
-e) központi idegenrendészeti nyilvántartás.”
-
-38. § (1) A Be. 608. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) E törvény a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-(2) A Be. 608. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) E törvény a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-39. § (1) A Be. 245. § (1) bekezdésében a „büntetés-végrehajtási testület” szövegrész helyébe a „büntetés-végrehajtási szervezet” szöveg lép.
-
-(2) A Be. 593. § (1) bekezdésében az „az 592. §-ban” szövegrész helyébe az „a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvényben (a továbbiakban: Bv. tv.)” szöveg lép.
-
-(3) A Be. 596. § (4) bekezdésében az „[591. § (2) bek. c) pont]” szövegrész helyébe a „[Bv. tv. 39. § (2) bek. c) pont]” szöveg lép.
-
-(4) A Be. 596/A. § (1) bekezdés b) pontjában a „büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 91. § (3) bekezdése” szövegrész helyébe a „Bv. tv. 324. § (3) bekezdése” szöveg lép.
-
-(5) A Be. 604. § (2) bekezdés l) pontjában a „büntetőügyekben” szövegrész helyébe a „fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben” szöveg lép.
-
-40. § Hatályát veszti a Be.
-
-- a) 86. § (3a) bekezdése,
-- b) 117. § (6) bekezdése,
-- c) 161. § (7) bekezdésében az „Az elzárás végrehajtására a szabálysértési jogszabályok irányadók azzal, hogy az elzárás végrehajtásának elhalasztása vagy félbeszakítása csak a megbírságolt személy kórházi gyógykezelésének szükségessége esetén és csak ezen időtartamig engedélyezhető. Az elzárást büntetés-végrehajtási intézetben kell végrehajtani.” szövegrész,
-- d) 591. §-a,
-- e) 591/A. §-a,
-- f) 591/B. §-a,
-- g) 592. §-a,
-- h) 594. §-a,
-- i) 595. § (4) bekezdésében a „pénzbüntetés, a” szövegrész,
-- j) 595. § (5) bekezdése,
-- k) 596. §-a és az azt megelőző alcím,
-- l) 597. § (1) bekezdésében „ , a még végre nem hajtott büntetés, a próbára bocsátás, a jóvátételi munka és a javítóintézeti nevelés elengedésére vagy mérséklésére, illetve a büntetett előélethez fűződő hátrányok alóli mentesítésre az igazságügyért felelős miniszter” szövegrész,
-- m) 597. § (2) bekezdése,
-- n) 597. § (4) bekezdésében az „A még végre nem hajtott büntetés, az (1) bekezdés szerinti intézkedés elengedése vagy mérséklése, illetőleg a büntetett előélethez fűződő hátrányok alóli mentesítés iránt a kegyelmi kérelmet az első fokon eljárt bíróságnál kell benyújtani.” szövegrész, és
-- o) 598. § (4) bekezdésében a „Ha a kegyelmi kérelmet a határozat jogerőre emelkedését követően terjesztették elő, a kegyelmi döntésről szóló határozatot az ügyben első fokon eljárt bíróság kézbesíti az elítéltnek, és a kegyelmi kérelem előterjesztőjének. Ha az elítélt a szabadságvesztését, illetve a javítóintézeti nevelését tölti, részére a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter közvetlenül a büntetés-végrehajtási intézet, illetve a javítóintézet útján kézbesíti, egyben értesíti az első fokon eljárt bíróságot.” szövegrész.
+27–40. §
 
 #### 9. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-41. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdése a következő g) ponttal egészül ki:
-
-[A nyilvántartásból igényelheti(k):]
-
-„g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 8. § (1) bekezdés a) pont aa) és ab) alpontjában és b) pont ba), bc) és bd) alpontjában meghatározott adatokat;”
+41. §
 
 #### 10. A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény módosítása
 
-42. § A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény
-
-- a) 1. § 3. pontjában a „vám- és pénzügyőrségnek” szövegrész helyébe a „Nemzeti Adó- és Vámhivatalnak”, a „büntetés-végrehajtási szervezetnek” szövegrész helyébe a „büntetés-végrehajtási szervnek”,
-- b) 9. § (2) bekezdésében a „büntetés-végrehajtási szervezettel” szövegrész helyébe a „büntetés-végrehajtási szervvel”,
-- c) 38. § (2) bekezdésében a „Vám- és Pénzügyőrség” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal”, a „büntetés-végrehajtási szervek” szövegrész helyébe a „büntetés-végrehajtási szerv”
-
-szöveg lép.
+42. §
 
 #### 11. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-43. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 81. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Az eljáró hatóság a kegyelmi eljárás során a legfőbb ügyész, illetve az igazságügyért felelős miniszter részére a 75. § (1) bekezdés d) és e) pontjában foglalt résznyilvántartásokból szolgáltathat adatot.”
+43. §
 
 #### 12. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-44. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 106. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 102. § (1) bekezdés a), c) és d) pontja, valamint a 104. § (1) bekezdése szerinti résznyilvántartásokból igényelhet adatokat.”
-
-45. § A Harmtv. 106. § (2) bekezdésében az „Az (1)” szövegrész helyébe az „Az (1)–(1b)” szöveg lép.
+44–45. §
 
 #### 13. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-46. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) 5. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha a bűnügyi nyilvántartó szerv EGT-állam, harmadik ország vagy nemzetközi szervezet tájékoztatása alapján arról értesül, hogy a személyiadat- és lakcímnyilvántartás hatálya alá nem tartozó érintett személyazonosító adatai a személyazonosító adatok és fényképek nyilvántartásában szereplő adatoktól eltérnek, akkor a személyazonosító adatok változását haladéktalanul átvezeti a személyazonosító adatok és fényképek nyilvántartásában.”
-
-47. § A Bnytv. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bűncselekmény miatt jogerősen végrehajtandó szabadságvesztés büntetésre ítélt személy arcképmását az elítéltet befogadó büntetés-végrehajtási intézet az érintett befogadását követően megküldi a bűnügyi nyilvántartó szervnek.”
+46–47. §
 
 48. §
 
-49. § A Bnytv. 11. § (2) bekezdés a)–d) pontja helyébe a következő rendelkezések lépnek:
-
-(A büntetés-végrehajtási adatok közül a bűntettesek nyilvántartása tartalmazza)
-
-„a) a szabadságvesztés vagy az elzárás előjegyzett kezdő napját, a befogadás napját, illetve a szabadságvesztés vagy az elzárás végrehajtása megkezdésének napját, a szabadságvesztés vagy az elzárás kitöltésének előjegyzett utolsó napját, a szabadságvesztés vagy az elzárás kitöltésének utolsó napját,
-
-b) a feltételes szabadságra bocsátás legkorábbi időpontját vagy azt a tényt, hogy a feltételes szabadságra bocsátás kizárt, a feltételes szabadság kezdőnapját és leteltének napját, a feltételes szabadság megszüntetésének tényét, napját és az eljárt bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, a pártfogó felügyelet időtartamát,
-
-c) a büntetés félbeszakítása esetén az engedélyező megnevezését, határozatának számát és keltét, a félbeszakítás kezdő napját, a félbeszakítás leteltének napját, a félbeszakítás meghosszabbítása esetén a meghosszabbítás leteltének napját, a jogellenesen büntetés-végrehajtási intézeten kívül töltött időtartam kezdőnapját és leteltének napját, a büntetés végrehajtása megszakításának kezdő és folytatásának kezdő napját,
-
-d) a szabadon bocsátás és a büntetés-végrehajtási intézetből történő tényleges és végleges távozás napját,”
-
-50. § (1) A Bnytv. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A személyazonosító adatokat, a 11. § (1) bekezdés c)–g) és k) pontjában meghatározott adatokat, valamint azt a tényt, hogy a feltételes szabadságra bocsátás kizárt, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a korábban engedélyezett feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.”
-
-(2) A Bnytv. 12. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
-
-(4) A 11. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint ha a bíróság a bűnügyi nyilvántartó szervvel korábban nem közölte, a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.”
-
-51. § A Bnytv. 15. § d) és e) pontja helyébe a következő rendelkezések lépnek:
-
-(A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában annak az adatait kell nyilvántartani,)
-
-„d) akivel szemben a bíróság megrovás, próbára bocsátás, jóvátételi munka vagy kényszergyógykezelés intézkedést, illetve akivel szemben a bíróság terheltként elkobzás, vagyonelkobzás vagy elektronikus adat végleges hozzáférhetetlenné tétele intézkedést alkalmazott, valamint
-
-e) akit az ügyész megrovásban részesített.”
-
-52. § A Bnytv. 16. § (2) bekezdés a)–d) pontja helyébe a következő rendelkezések lépnek:
-
-(A büntetés-végrehajtási adatok közül a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza)
-
-„a) a szabadságvesztés vagy az elzárás előjegyzett kezdő napját, a befogadás napját, illetve a szabadságvesztés vagy az elzárás végrehajtása megkezdésének napját, a szabadságvesztés vagy az elzárás kitöltésének előjegyzett utolsó napját, a szabadságvesztés vagy az elzárás kitöltésének utolsó napját,
-
-b) a feltételes szabadságra bocsátás legkorábbi időpontját vagy azt a tényt, hogy a feltételes szabadságra bocsátás kizárt, a feltételes szabadság kezdőnapját és leteltének napját, a feltételes szabadság megszüntetésének tényét, napját és az eljárt bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, a pártfogó felügyelet időtartamát,
-
-c) a büntetés félbeszakítása esetén az engedélyező megnevezését, határozatának számát és keltét, a félbeszakítás kezdő napját, a félbeszakítás leteltének napját, a félbeszakítás meghosszabbítása esetén a meghosszabbítás leteltének napját, a jogellenesen büntetés-végrehajtási intézeten kívül töltött időtartam kezdőnapját és leteltének napját, a büntetés végrehajtása megszakításának kezdő és folytatásának kezdő napját,
-
-d) a szabadon bocsátás és a büntetés-végrehajtási intézetből történő tényleges és végleges távozás napját,”
-
-53. § (1) A Bnytv. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A személyazonosító adatokat, a 16. § (1) bekezdés c) pontjában meghatározott adatokat, továbbá azt a tényt, hogy a feltételes szabadságra bocsátás kizárt, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a korábban engedélyezett feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.”
-
-(2) A Bnytv. 17. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(4) A 16. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
-
-(5) A 16. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint ha a bíróság a bűnügyi nyilvántartó szervvel korábban nem közölte, a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.”
+49–53. §
 
 54–55. §
 
-56. § (1) A Bnytv. 30/C. § b) pontja helyébe a következő rendelkezés lép:
-
-(A külföldre utazási korlátozás hatálya alatt állók nyilvántartása tartalmazza)
-
-„b) az elrendelt kényszerintézkedés és egyéb korlátozás tényét, időtartamát, illetve megszűnése vagy megszüntetése tényét; valamint az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi döntés szerinti új időtartamot; továbbá abban az esetben, ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az átadási letartóztatás vagy az ideiglenes átadási letartóztatás azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás tényét és időpontját,”
-
-(2) A Bnytv. 30/C. § g) pontja helyébe a következő rendelkezés lép:
-
-(A külföldre utazási korlátozás hatálya alatt állók nyilvántartása tartalmazza)
-
-„g) a 30/B. § f) pontjában meghatározott esetben az egyéb korlátozás tényét, időtartamát, az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi döntés szerinti új időtartamot, illetve megszüntetése tényét,”
-
-(3) A Bnytv. 30/C. § i) pont ia) alpontja helyébe a következő rendelkezés lép:
-
-[A külföldre utazási korlátozás hatálya alatt állók nyilvántartása tartalmazza
-
-i) a határozattal és a határozatot hozó bírósággal kapcsolatban:]
-
-„ia) a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról határozatot hozó, valamint az egyéb korlátozás elrendeléséről és az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi határozatot hozó bíróság megnevezését, határozatának számát és keltét,”
-
-(4) A Bnytv. 30/C. § i) pont id) alpontja helyébe a következő rendelkezés lép:
-
-[A külföldre utazási korlátozás hatálya alatt állók nyilvántartása tartalmazza
-
-i) a határozattal és a határozatot hozó bírósággal kapcsolatban:]
-
-„id) a 30/B. § f) pontjában meghatározott esetben az egyéb korlátozás elrendeléséről és az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi határozatot hozó bíróság megnevezését, határozatának számát és keltét,”
-
-57. § A Bnytv. 30/D. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az átadási letartóztatás vagy az ideiglenes átadási letartóztatás azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a Nemzetközi Bűnügyi Együttműködési Központ közli a bűnügyi nyilvántartó szervvel.”
-
-58. § A Bnytv. 33/A. §-a helyébe a következő rendelkezés lép:
-
-„33/A. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a tagállami ítéletek nyilvántartása adatainak módosításakor vagy javításakor, valamint a kérelemre történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal.
-
-(2) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján az anyakönyvi ügyekért felelős miniszter által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartás hatálya alá nem tartozó személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
-
-(3) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul átvezeti a személyazonosító adatokban bekövetkezett változást.
-
-(4) A (2) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokat haladéktalanul törli, ha az érintett adatait a tagállami ítéletek nyilvántartásában nem kezeli.
-
-(5) Ha az elítélt személy személyazonossága az Európai Unió más tagállamának kijelölt központi hatósága által a bűnügyi nyilvántartó szerv részére megküldött személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, a bűnügyi nyilvántartó szerv – ha az Európai Unió más tagállamának kijelölt központi hatósága erre vonatkozóan küldött adatot –
-
-a) a 33. § (2) bekezdés a) pontjában meghatározott adatok alapján a személyiadat- és lakcímnyilvántartás központi szerve által továbbított, az érintett szüleinek nevére,
-
-b) a 33. § (2) bekezdés d) pontjában meghatározott adatok alapján a személyiadat- és lakcímnyilvántartás központi szerve, a közúti közlekedési nyilvántartást kezelő nyilvántartó, vagy a központi útiokmány-nyilvántartást kezelő központi adatkezelő szerv által továbbított, az érintett személyazonosító okmánya típusára és számára
-
-vonatkozó adatokkal való összehasonlítás útján állapítja meg az elítélt személy személyazonosságát.
-
-(6) Ha az elítélt személy személyazonossága az (1)–(5) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, és az Európai Unió más tagállamának kijelölt központi hatósága a 33. § (2) bekezdés e) pontjában meghatározott adatot a bűnügyi nyilvántartó szerv részére megküldte, a bűnügyi nyilvántartó szerv ezeket az adatokat megküldi a szakértői nyilvántartó szerv részére a 38. § b) vagy c) pont szerinti daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomatokkal való összehasonlítás céljából.
-
-(7) Ha az elítélt személy személyazonossága az (1)–(6) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, a bűnügyi nyilvántartó szerv az Európai Unió más tagállamának kijelölt központi hatósága által megküldött, egy személyhez kétséget kizáróan nem kapcsolható adatokról adattovábbítást nem teljesíthet.”
-
-59. § A Bnytv. 68. § (2) bekezdés e)–k) pontja helyébe a következő rendelkezések lépnek, és a bekezdés a következő l) ponttal egészül ki:
-
-(A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:)
-
-„e) a rendészeti feladatokat ellátó személyek és a személy- és vagyonvédelmi tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
-
-ea) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
-
-eb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
-
-f) a légi közlekedés biztonságának ellenőrzése céljából
-
-fa) a 11. § (1) bekezdés c) pont ca), cb) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
-
-fb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
-
-fc) a 23. § c), f) és g) pontjában meghatározott adatok;
-
-g) külön törvényben meghatározott nukleáris létesítményben, továbbá a nukleáris létesítmény hatósági ellenőrzésével, a létesítmény tervezésével, építésével, üzemeltetésével, átalakításával, a nukleáris berendezések karbantartásával, a nukleáris anyag felhasználásával, tárolásával, szállításával és a szállítmányok kísérésével összefüggő munkakörökben történő foglalkoztatás közbiztonsági feltételeinek ellenőrzésére irányuló eljárás során
-
-ga) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában meghatározott adatok,
-
-gb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i) pontjában meghatározott adatok, valamint
-
-gc) a 23. § c), f) és g) pontjában meghatározott adatok;
-
-h) a fegyveres biztonsági őr tevékenységének ellátását kizáró közbiztonsági feltételek ellenőrzése céljából
-
-ha) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), h), i) pontjában meghatározott adatok,
-
-hb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i) pontjában meghatározott adatok, valamint
-
-hc) a 23. § c), f) és g) pontjában meghatározott adatok;
-
-i) a külföldiek idegenrendészeti ellenőrzése céljából
-
-ia) a 11. § (1) bekezdés c), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
-
-ib) a 16. § (1) bekezdés c), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
-
-ic) a 23. § c), f) és g) pontjában meghatározott adatok;
-
-j) a szakszolgálati engedély kiadására irányuló eljárásban szakhatósági jogkörben eljárva, valamint a repülőtér zárt területére való belépés ellenőrzésekor a közbiztonsági feltételek vizsgálata céljából
-
-ja) a 11. § (1) bekezdés c) pont ca), cb) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
-
-jb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
-
-jc) a 23. § c), f) és g) pontjában meghatározott adatok;
-
-k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok;
-
-l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.”
+56–59. §
 
 60–62. §
 
-63. § A Bnytv. 72. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen szóban vagy ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton kell előterjeszteni.”
-
-64. § A Bnytv. 72. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A kérelmező elektronikus azonosítását követően és az információ megőrzését biztosító módon történő hangrögzítés mellett, a kérelem telefonon is előterjeszthető.”
-
-65. § A Bnytv. 73. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Ha a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban – a személyes úton előterjesztett kérelemre indult eljárás kivételével – megállapítja, hogy a kérelem nem tartalmazza a 72. § (2) bekezdésében foglaltakat, a kérelmezőt tizenöt napos határidő tűzésével a hiány pótlására hívja fel.”
+63–65. §
 
 66. §
 
-67. § A Bnytv. 83. § (1) bekezdésének nyitó szövegrésze helyébe a következő rendelkezés lép:
-
-„(1) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a bűncselekmények felderítése, a büntetőeljárás lefolytatása, valamint bűnügyi jogsegélykérelem teljesítése céljából a nyomozó hatóság vagy az ügyészség, a bűnügyi jogsegélykérelem teljesítése céljából a bíróság, továbbá bűnügyi jogsegélykérelem teljesítése, valamint a bűnüldöző szervek nemzetközi együttműködése keretében végzett információcsere céljából a rendőrség és a Nemzeti Adó- és Vámhivatal bűnmegelőzési és bűnüldözési feladatot ellátó szervei (a továbbiakban: bűnüldözési feladatot ellátó szerv) részére”
-
-68. § A Bnytv. 84. §-át megelőző alcím helyébe a következő alcím lép:
-
-„Adatátvétel és adattovábbítás kezdeményezésére jogosultak”
-
-69. § A Bnytv. 85. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A szakértői nyilvántartó szerv a nyomozó hatóság, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot, valamint DNS-profilt automatikus találati adathozzáférés útján összehasonlítja az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal, valamint DNS-profilokkal. Egyedi ügyben kizárólag bűnmegelőzési célból a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatnak az automatikus találati adathozzáférés útján történő összehasonlítását kérheti a bűnüldözési feladatot ellátó szerv is.”
-
-70. § A Bnytv. VIII. Fejezete a következő alcímmel és 86/A–86/D. §-sal egészül ki:
-
-„Az automatikus találati adathozzáférés során elért találatot követő eljárás
-
-86/A. § (1) Ha a szakértői nyilvántartó szerv a 85. § (2) bekezdése alapján szakrendszeri azonosító kódot küldött az együttműködő tagállam nemzeti kapcsolattartó pontja részére, és az együttműködő tagállam ezt követően a bűnügyi jogsegély, vagy a bűnüldöző szervek nemzetközi együttműködése keretében kérelemmel fordult a magyar szervekhez a szakrendszeri azonosító kódhoz tartozó további személyes adatok továbbítása érdekében, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság megkeresi a szakértői nyilvántartó szervet a megkapott szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok továbbítása érdekében.
-
-(2) A szakértői nyilvántartó szerv a 68. § (10) bekezdése alapján közvetlen hozzáféréssel történő adatátvétellel átveszi a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásából a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatokat. Az átvett személyazonosító adatokat haladéktalanul megküldi az személyazonosító adatok továbbítását kérő Nemzetközi Bűnügyi Együttműködési Központnak, ügyészségnek vagy bíróságnak.
-
-(3) A Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság a (2) bekezdés alapján átvett személyazonosító adatokat a bűnügyi jogsegélyre, vagy a bűnüldöző szervek nemzetközi együttműködésére vonatkozó törvények alapján továbbítja az együttműködő tagállamnak.
-
-(4) Ha az együttműködő tagállam a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.
-
-86/B. § (1) Ha a szakértői nyilvántartó szerv a 85. § (5) bekezdése alapján szakrendszeri azonosító kódot küldött az összehasonlítást kérő bűnüldözési feladatot ellátó szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
-
-(2) Ha ez a bűnmegelőzés vagy a büntetőeljárás lefolytatása céljából szükséges, a személyazonosító adatok birtokában az összehasonlítást kérő bűnüldözési feladatot ellátó szerv, a nyomozó hatóság, az ügyészség vagy a bíróság az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
-
-86/C. § (1) Ha a szakértői nyilvántartó szerv a 85. § (8) bekezdése alapján szakrendszeri azonosító kódot küldött valamely nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
-
-(2) A személyazonosító adatok birtokában az a nyomozó hatóság, ügyészség vagy bíróság, amelynek eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradvány rögzítésére sor került, az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
-
-86/D. § (1) Ha a szakértői nyilvántartó szerv a 86. § (2) bekezdése alapján szakrendszeri azonosító kódot küldött a Megállapodás alapján kijelölt nemzeti kapcsolattartó pont részére, és az Amerikai Egyesült Államok hatáskörrel rendelkező szerve ezt követően a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében kérelemmel fordult a magyar szervekhez a szakrendszeri azonosító kódhoz tartozó további személyes adatok továbbítása érdekében, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság megkeresi a szakértői nyilvántartó szervet a megkapott szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok továbbítása érdekében.
-
-(2) A szakértői nyilvántartó szerv a 68. § (10) bekezdése alapján közvetlen hozzáféréssel történő adatátvétellel átveszi a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásából a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatokat. Az átvett személyazonosító adatokat haladéktalanul megküldi az személyazonosító adatok továbbítását kérő Nemzetközi Bűnügyi Együttműködési Központnak, ügyészségnek vagy bíróságnak.
-
-(3) A Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság a (2) bekezdés alapján átvett személyazonosító adatokat a bűnügyi jogsegélyre vagy a bűnüldöző szervek nemzetközi együttműködésére vonatkozó törvények alapján továbbítja az együttműködő tagállamnak.
-
-(4) Ha az Amerikai Egyesült Államok hatáskörrel rendelkező szerve a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.”
-
-71. § A Bnytv. 96. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben)
-
-„c) állapítsa meg a 86/A–86/D. §-ban meghatározott adattovábbítási eljárások során alkalmazott formanyomtatványokat.”
+67–71. §
 
 72. § A Bnytv.
 
 - 1.
-- 2. 11. § (2) bekezdés e) pontjában és a 16. § (2) bekezdés k) pontjában az „e büntetések” szövegrész helyébe az „a járművezetéstől eltiltás”,
+- 2.
 - 3.
-- 4. 30/C. § l) pontjában a „hogy az elítélt” szövegrész helyébe a „hogy a terhelt vagy az elítélt”,
+- 4.
 - 5.
-- 6. 30/D. § (3) bekezdésében a „megszüntetését a határozatot” szövegrész helyébe a „megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot”,
-- 7. 30/D. § (6) bekezdésében az „az azzal kapcsolatos adatokat az” szövegrész helyébe az „az egyéb korlátozással kapcsolatos adatokat, valamint a személyazonosító adatokat az”,
-- 8. 33. § (2) bekezdés d) pontjában az „érintett személyi” szövegrész helyébe az „érintett külföldi személyi”,
-- 9. 37. § f) pontjában a „(3) bekezdésében” szövegrész helyébe a „(6) bekezdésében”,
-- 10. 68. § (1) bekezdés a) pontjában a „végrehajtása céljából” szövegrész helyébe a „végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából”,
-- 11. 68. § (1) bekezdés b) pontjában a „végrehajtása” szövegrész helyébe a „végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából”,
+- 6–11.
 - 12.
-- 13. 68. § (2) bekezdés d) pontjában a „személy- és vagyonvédelmi” szövegrész helyébe a „vagyonvédelmi rendszert tervező és szerelő tevékenység”,
-- 14. 68. § (2) bekezdés d) pont da) alpontjában a „cb), e)” szövegrész helyébe a „cb), cf) alpontjában, e)” szöveg,
-- 15. 68. § (2) bekezdés d) pont db) alpontjában a „cb), f), g), i) pontjában” szövegrész helyébe a „cb), cf) alpontjában, f), g), i), k) pontjában”,
-- 16. 68. § (4) bekezdés a) pontjában az „az igazságügyért felelős miniszter a kegyelmi kérelem felterjesztésének előkészítése” szövegrész helyébe az „a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás”,
+- 13–16.
 - 17–18.
-- 19. 68. § (10) bekezdésében az „adattovábbítás teljesítése” szövegrész helyébe az „adattovábbítás és automatikus találati adathozzáférést követő adattovábbítás teljesítése”,
-- 20. 78. § (1) bekezdésében és a 78. § (2) bekezdés b) pontjában a „g) pontja” szövegrész helyébe az „e) pontja”,
-- 21. 82. § (5) bekezdés c) pontjában a „(3) bekezdésében” szövegrész helyébe a „(6) bekezdésében”,
-- 22. 84. § nyitó szövegrészében az „igényelhet” szövegrész helyébe az „igényelhet, valamint – ha erre e törvény alapján jogosult – közvetlen hozzáféréssel adatot vehet át”,
-- 23. 84. § b) pontjában az „együttműködésről” szövegrészek helyébe az „együttműködéséről”, a „feljogosított magyar bűnüldöző szerv” szövegrész helyébe a „feljogosított magyar bűnüldözési feladatot ellátó szerv”, a „törvényben, továbbá” szövegrész helyébe a „törvényben, az Európai Unió kötelező jogi aktusában, továbbá”,
-- 24. 85. § (5) bekezdésében az „a nyomozó hatóságot” szövegrész helyébe az „a bűnüldözési feladatot ellátó szervet, nyomozó hatóságot”, a „kódot” szövegrész helyébe a „kódot, valamint az érintett együttműködő tagállam megjelölését”,
-- 25. 85. § (6) bekezdésében az „a nyomozó hatósággal” szövegrész helyébe az „a bűnüldözési feladatot ellátó szervvel, nyomozó hatósággal”,
-- 26. 85. § (8) bekezdésében a „tényéről, valamint az” szövegrész helyébe a „tényéről, az”, a „kódról” szövegrész helyébe a „kódról, valamint az érintett együttműködő tagállamról”,
+- 19–26.
 - 27–28.
-- 29. 96. § (3) bekezdésében „a közigazgatás-fejlesztésért” szövegrész helyébe az „az igazságügyért”,
-- 30. 96. § (4) bekezdésében „a közigazgatás-fejlesztésért” szövegrész helyébe az „az igazságügyért”
+- 29–30.
 
 szöveg lép.
 
 73. § Hatályát veszti a Bnytv.
 
 - 1.
-- 2. 15. § f) és g) pontja,
+- 2.
 - 3–4.
 - 5.
 - 6.
 
 #### 14. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-74. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 96. § (1) bekezdésében a „büntetés-végrehajtási intézmény” szövegrész helyébe a „büntetés-végrehajtási intézet” szöveg lép.
+74. §
 
 #### 15. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-75. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 6. § 28. pontjában a „szervezi és ellenőrzi a közérdekű munka végrehajtását” szövegrész helyébe a „gondoskodik a közérdekű munka végrehajtásáról” szöveg lép.
+75. §
 
 #### 16. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-76. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 10. § b) pontja helyébe a következő rendelkezés lép:
-
-(Nincs helye szabálysértési elzárásnak, ha az eljárás alá vont személy)
-
-„b) a várandósság tizenkettedik hetét elérő nő,”
-
-77. § (1) A Szabs. tv. 73. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A szabálysértési őrizetet rendőrségi fogdán kell végrehajtani. Az őrizetbe vett eljárás alá vont személy a szabálysértési eljárás során őt megillető jogokat korlátozás nélkül gyakorolhatja.”
-
-(2) A Szabs. tv. 73. §-a a következő (9)–(14) bekezdéssel egészül ki:
-
-„(9) Az a rendőrségi fogda, ahol az őrizetet végrehajtják, az őrizet határidejének lejártát nap, óra és perc megjelöléssel nyilvántartja.
-
-(10) A magyar nyelv nem tudása miatt a szabálysértési őrizetest a fogvatartás során nem érheti hátrány. A szabálysértési őrizetes a rendőrségi fogdában mind szóban, mind írásban anyanyelvét, nemzetiségi nyelvét, vagy – ha a magyar nyelvet nem ismeri – az általa ismert más nyelvet használhatja.
-
-(11) Az őrizetet elrendelő szerv a szabálysértési őrizetes részére írásban, egyszerűen, közérthető módon, a fogvatartott anyanyelvén, nemzetiségi nyelven, vagy az általa ismert más nyelven tájékoztatást ad
-
-a) a szabálysértési eljárás során az őt megillető védelemhez való jogról,
-
-b) a szabálysértési eljárás folytatásának alapjául szolgáló cselekmény lényegének, valamint ezek változásának a megismeréséhez való jogáról,
-
-c) az anyanyelvhasználat jogáról,
-
-d) a vallomástétel megtagadásának jogáról,
-
-e) az ellene folyamatban lévő szabálysértési ügy irataiba való betekintési jogról,
-
-f) a konzuli hatóságok, továbbá a szabálysértési őrizetes által megjelölt hozzátartozó vagy az általa megjelölt más személy értesítéséhez való jogról, valamint
-
-g) a szabálysértési őrizetnek az elrendeléséről szóló határozat szerinti, illetve törvényben meghatározott lehetséges végső tartamáról, a szabálysértési őrizet meghosszabbításáról, a szabálysértési őrizet elrendelését és a meghosszabbítását tartalmazó határozatokkal szembeni jogorvoslatról.
-
-(12) Ha az őrizetbe vett eljárás alá vont személy hallássérült, siketvak, vak, beszédképtelen vagy – beszámítási képességre tekintet nélkül – kóros elmeállapotú, a (11) bekezdés szerinti tájékoztatást az állapotára figyelemmel kell megadni.
-
-(13) Az őrizetbe vett eljárás alá vont személyt, ha
-
-a) az őrizet tartama alatt a bíróság a gyorsított eljárást nem folytatta le, az őrizet tartamának elteltével,
-
-b) a bíróság a gyorsított eljárás eredményeként nem szabott ki szabálysértési elzárást, a bírósági határozat átadását követően helyben
-
-haladéktalanul szabadítani kell. A szabadításról az őrizetet elrendelő rendőrséget, az ügydöntő határozatot hozó járásbíróságot, továbbá katona esetén a parancsnokát értesíteni kell.
-
-(14) A szabálysértési őrizet e törvényben nem szabályozott kérdéseire a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvénynek az őrizet végrehajtására vonatkozó szabályait kell alkalmazni azzal, hogy a rendelkezési jogkör gyakorlója az őrizetet elrendelő szerv vezetője.”
-
-78. § (1) A Szabs. tv. 139. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szabálysértési elzárást – az (1a) bekezdésben meghatározott kivétellel – büntetés-végrehajtási intézetben kell végrehajtani.”
-
-(2) A Szabs. tv. 139. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A szabálysértési elzárást a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában kell végrehajtani, ha az elkövető a rendőrség őrizetében van, és a 9. § (3) bekezdése szerinti beszámítást követően az elzárás hátralevő tartama a két napot nem haladja meg. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani.”
-
-79. § A Szabs. tv. 153. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-[A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában a (2) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon rögzíti:]
-
-„e) a (2) bekezdés l) pontja esetén a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén az előkészítő eljárást lefolytató szerv,”
-
-80. § A Szabs. tv. 157. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(A személyazonosító adatok nyilvántartásából és a szabálysértési nyilvántartásokból törvényben meghatározott feladataik ellátása céljából közvetlen hozzáféréssel a szabálysértési nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni)
-
-„g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából.”
-
-81. § A Szabs. tv. 253. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvény 73. § (10)–(12) bekezdése a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-82. § Hatályát veszti a Szabs. tv. 250. § (1) bekezdés a) pontja és 250. § (2) bekezdés e) pontja.
+76–82. §
 
 #### 17. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-83. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 90. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni.”
-
-84. § A Btk. 95. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha a feltételes szabadságra bocsátás lehetősége nem kizárt, annak legkorábbi időpontját a legszigorúbb rendelkezés alapján kell meghatározni. Nem bocsátható feltételes szabadságra az elítélt az összbüntetésből, ha bármelyik szabadságvesztés esetén a feltételes szabadságra bocsátás lehetősége kizárt.”
-
-85. § A Btk. 97. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 1998. évi XIX. törvény 178/A. § (2) bekezdése szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.”
-
-86. § A Btk. 423. §-a helyébe a következő rendelkezés lép:
-
-„423. § (1) Aki információs rendszerbe az információs rendszer védelmét biztosító technikai intézkedés megsértésével vagy kijátszásával jogosulatlanul belép, vagy a belépési jogosultsága kereteit túllépve vagy azt megsértve bent marad, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Aki
-
-a) az információs rendszer működését jogosulatlanul vagy jogosultsága kereteit megsértve akadályozza, vagy
-
-b) információs rendszerben lévő adatot jogosulatlanul vagy jogosultsága kereteit megsértve megváltoztat, töröl vagy hozzáférhetetlenné tesz,
-
-bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény jelentős számú információs rendszert érint.
-
-(4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt közérdekű üzem ellen követik el.
-
-(5) E § alkalmazásában adat: információs rendszerben tárolt, kezelt, feldolgozott vagy továbbított tények, információk vagy fogalmak minden olyan formában való megjelenése, amely információs rendszer általi feldolgozásra alkalmas, ideértve azon programot is, amely valamely funkciónak az információs rendszer által való végrehajtását biztosítja.”
-
-87. § A Btk. 465. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(E törvény)
-
-„f) 375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek,”
-
-(való megfelelést szolgálja.)
-
-88. § A Btk. 424. § (1) bekezdésében az „a 375. vagy a 423. §-ban” szövegrész helyébe „a 375. §-ban, a 422. § (1) bekezdés d) pontjában vagy a 423. §-ban” szöveg lép.
+83–88. §
 
 #### 18. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény módosítása
 
-89. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: EU tv.) a következő XI/A. Fejezettel egészül ki:
-
-„XI/A. FEJEZET
-
-AZ EURÓPAI VÉDELMI HATÁROZAT VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
-
-55/A. Értelmező rendelkezések
-
-163/A. § E Fejezet alkalmazásában:
-
-a) védett személy: az európai védelmi határozatban vagy az európai védelmi határozat kibocsátása iránti kérelemben megjelölt, védendő személy,
-
-b) veszélyeztető személy: az európai védelmi határozatban megjelölt azon személy, akivel szemben a tagállami hatóság a 163/B. § (2) bekezdésében foglalt kötelezettséget vagy tilalmat előírta,
-
-c) harmadik tagállam: a védett személy által lakóhelyként, tartózkodási helyként megjelölt, az európai védelmi határozatot végrehajtó tagállamtól eltérő azon tagállam, amelybe a távoltartásról hozott határozat az V. Fejezet szerinti felügyeleti intézkedést elrendelő tagállami határozatként vagy a magatartási szabályt előíró határozat a IX. Fejezet szerinti alternatív szankciót kiszabó tagállami határozatként továbbításra kerül.
-
-55/B. Az európai védelmi határozat fogadása
-
-163/B. § (1) A bíróság elismeri egy tagállami hatóság által kibocsátott európai védelmi határozatot, ha annak alapja a tagállami hatóság által
-
-a) büntetőeljárásban hozott távoltartásról rendelkező határozat vagy
-
-b) felfüggesztett szabadságvesztésről, feltételes szabadságra bocsátásról, próbára bocsátásról, jóvátételi jellegű munkáról rendelkező határozat,
-
-amelyben a tagállami hatóság egy vagy több, a (2) bekezdésben meghatározott, a veszélyeztető személyre előírt, a védett személy védelmét biztosító kötelezettséget vagy tilalmat fogalmaz meg, és gondoskodik annak végrehajtásáról.
-
-(2) A tagállami hatóság az (1) bekezdésben megjelölt határozatában a következő tilalmakat vagy kötelezettségeket fogalmazhatja meg:
-
-a) arra vonatkozó tilalom, hogy a veszélyeztető személy belépjen bizonyos helyekre, helységekbe vagy meghatározott területekre, ahol a védett személy tartózkodik vagy amelyeket látogat,
-
-b) arra vonatkozó tilalom vagy szabályozás, hogy a veszélyeztető személy a védett személlyel bármely formában érintkezzen, ideértve a telefonon, elektronikus vagy hagyományos levélben, telefaxon vagy egyéb eszközök révén történő érintkezést is,
-
-c) arra vonatkozó tilalom vagy szabályozás, hogy a veszélyeztető személy előre meghatározott távolságon belül megközelítse a védett személyt.
-
-(3) Ha a (2) bekezdésben megfogalmazott egy vagy több kötelezettséget vagy tilalmat a tagállami hatóság vádemelés elhalasztásáról rendelkező határozatában állapítja meg, az e határozat alapján kibocsátott európai védelmi határozatot az ügyész elismeri és gondoskodik annak végrehajtásáról.
-
-(4) A bíróság
-
-a) az (1) bekezdés a) pontja esetében távoltartást,
-
-b) az (1) bekezdés b) pontja esetében a feltételes szabadság tartamára, a próbára bocsátás vagy a szabadságvesztés felfüggesztésének próbaidejére, vagy a jóvátételi munka előírása mellett elrendelt pártfogó felügyelet keretében előírt magatartási szabályt
-
-rendel el, vagy határoz meg.
-
-(5) Az ügyész a (3) bekezdés esetében a vádemelés elhalasztásának tartamára elrendelt pártfogó felügyelet keretében előírt magatartási szabályt határoz meg.
-
-163/C. § (1) Az európai védelmi határozat elismerésének és végrehajtásának feltétele, hogy a tagállami hatóság a 16. számú melléklet szerinti formanyomtatványt (európai védelmi határozatot) magyar nyelven a bíróságnak vagy az ügyésznek megküldte, és a védett személy lakóhelye vagy tartózkodási helye Magyarországon van, vagy a védett személy Magyarországon kíván lakni vagy tartózkodni.
-
-(2) Az európai védelmi határozat elismeréséről és végrehajtásáról a 163/B. § (1) bekezdésében foglalt esetben a védett személy lakóhelye vagy tartózkodási helye szerint illetékes törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik. Ha a védett személy Magyarországon lakóhellyel vagy tartózkodási hellyel még nem rendelkezik, de a 163/B. § (1) bekezdése szerinti európai védelmi határozat Magyarország által történő elismerését és végrehajtását azért kéri, mert Magyarország területén kíván lakni vagy tartózkodni, akkor az európai védelmi határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság dönt.
-
-(3) Az európai védelmi határozat elismeréséről és végrehajtásáról a 163/B. § (3) bekezdésében foglalt esetben a védett személy lakóhelye vagy tartózkodási helye szerint illetékes törvényszék székhelyén működő járásbíróság mellett működő ügyész, Budapesten a Budai Központi Kerületi Bíróság mellett működő ügyész intézkedik. Ha a védett személy Magyarországon lakóhellyel vagy tartózkodási hellyel még nem rendelkezik, de a 163/B. § (3) bekezdése szerinti európai védelmi határozat Magyarország által történő elismerését és végrehajtását azért kéri, mert Magyarország területén kíván lakni vagy tartózkodni, akkor az európai védelmi határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság mellett működő ügyész dönt.
-
-(4) Ha a védett személy az európai védelmi határozat kibocsátása iránti kérelmét a bírósághoz vagy az ügyészhez nyújtja be, a bíróság vagy az ügyész azt haladéktalanul továbbítja az abban foglalt védelmi intézkedést meghozó tagállami hatósághoz, amely dönt az európai védelmi határozat kibocsátásáról.
-
-(5) Ha az európai védelmi határozat nem postai úton érkezett, a bíróság vagy az ügyész kérheti a tagállami hatóságot, hogy az európai védelmi határozat eredeti példányát küldje meg számára.
-
-(6) Ha a bírósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja a hatáskörrel rendelkező illetékes bírósághoz, és erről a tagállami hatóságot írásban tájékoztatja.
-
-(7) Ha az ügyészhez valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja a hatáskörrel rendelkező illetékes ügyészhez, és erről a tagállami hatóságot írásban tájékoztatja.
-
-55/C. Döntés az európai védelmi határozat elismeréséről és végrehajtásáról
-
-163/D. § (1) A bíróság vagy az ügyész az európai védelmi határozat kézhezvétele után haladéktalanul – figyelembe véve az eset egyedi körülményeit, az ügy sürgősségét, a védett személy Magyarországra történő érkezésének várható időpontját, a védett személyt érintő kockázat mértékét – dönt az európai védelmi határozat elismeréséről és végrehajtásáról vagy annak megtagadásáról.
-
-(2) Ha az (1) bekezdésben foglalt döntés haladéktalanul nem hozható meg, a bíróság vagy az ügyész a késedelem okainak megjelölése mellett erről haladéktalanul tájékoztatja a tagállami hatóságot, és megjelöli a döntéshez szükséges időtartamot.
-
-(3) A bíróság vagy az ügyész az európai védelmi határozat elismeréséről és végrehajtásáról indokolt határozatot hoz, és erről a veszélyeztető személyt, a védett személyt és a tagállami hatóságot haladéktalanul tájékoztatja. A bíróság vagy az ügyész határozatában tájékoztatást nyújt arról is, hogy a magyar jog szerint a távoltartás szabályainak vagy a magatartási szabályoknak a megszegése milyen következményeket vonhat maga után. A bíróság által hozott határozat ellen fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el. Az ügyész által hozott határozat ellen panasznak van helye, amelyet a felettes ügyész bírál el.
-
-(4) A védett személy kérheti személyi adatainak zártan kezelését, kivéve azokat az adatokat, amelyek az európai védelmi határozat végrehajtásához elengedhetetlenül szükségesek.
-
-(5) Ha az európai védelmi határozat hiányos vagy pontatlan, és emiatt az elismerésről és végrehajtásról vagy annak megtagadásáról döntés nem hozható, a bíróság vagy az ügyész erről írásban haladéktalanul tájékoztatja a tagállami hatóságot, és a hiánypótlásra, kijavításra ésszerű határidőt tűz.
-
-55/D. Az elismerés és végrehajtás megtagadása
-
-163/E. § (1) A bíróság vagy az ügyész az európai védelmi határozat elismerését és végrehajtását megtagadja, ha
-
-a) az európai védelmi határozat hiányos vagy pontatlan, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el vagy a kiegészített, javított európai védelmi határozat elismerése, végrehajtása továbbra sem lehetséges;
-
-b) az európai védelmi határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
-
-c) a 163/B. § (2) bekezdésében foglaltak nem teljesülnek;
-
-d) az európai védelmi határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki;
-
-e) a veszélyeztető személy közjogi tisztség betöltésén vagy nemzetközi jogon alapuló mentességet élvez, és a mentelmi jogát vagy a diplomáciai mentességet nem függesztették fel;
-
-f) az európai védelmi határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a magyar törvény szerint a büntethetőség vagy a kiszabott büntetés vagy elrendelt intézkedés elévült;
-
-g) Magyarországon vagy egy tagállamban a veszélyeztető személy ellen az európai védelmi határozat kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján az előírt magatartási szabályt vagy távoltartást, illetve az ennek megfelelő szankciót már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős határozatot hozó tagállam joga szerint az nem hajtható végre;
-
-h) a veszélyeztető személyt egy harmadik államban az európai védelmi határozat alapjául szolgáló cselekmény miatt már jogerősen elítélték, feltéve hogy az előírt magatartási szabályt vagy távoltartást, illetve az ennek megfelelő szankciót már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős határozatot hozó állam joga szerint az nem hajtható végre, vagy a veszélyeztető személyt egy harmadik államban az európai védelmi határozat alapjául szolgáló cselekmény miatt jogerősen felmentették;
-
-i) a veszélyeztető személy a magyar szabályok szerint gyermekkor miatt nem büntethető;
-
-j) az európai védelmi határozat alapjául szolgáló bűncselekményt egészben vagy jelentős részben Magyarország területén követték el.
-
-(2) A bíróság vagy az ügyész az európai védelmi határozat elismerését és végrehajtását nem tagadhatja meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
-
-(3) Az európai védelmi határozat elismerésének és végrehajtásának megtagadásáról a bíróság vagy az ügyész indokolt határozatot hoz, amelyet a tagállami hatóság a veszélyeztető személy és a védett személy részére haladéktalanul megküld. A határozat ellen jogorvoslatnak helye nincs.
-
-55/E. Az európai védelmi határozat átalakítása
-
-163/F. § (1) Az európai védelmi határozat elismerése esetén a bíróság a határozatában a 163/B. § (4) bekezdése, az ügyész a 163/B. § (5) bekezdése szerint állapítja meg a távoltartást vagy a magatartási szabályt, és ennek megfelelően rendelkezik a végrehajtásról úgy, hogy az a lehető legnagyobb mértékben megfeleljen annak a távoltartásnak vagy magatartási szabálynak, amelyet az európai védelmi határozat tartalmaz.
-
-(2) Ha a 163/B. § (1) bekezdésében foglalt esetben
-
-a) a tagállami hatóság úgy függesztette fel a szabadságvesztés végrehajtását, hogy annak a Btk. szerint nincs helye,
-
-b) a tagállami hatóság a veszélyeztető személlyel szemben úgy alkalmazott próbára bocsátást, hogy annak a Btk. szerint nincs helye,
-
-c) a tagállami hatóság a szabadságvesztésre ítélt veszélyeztető személyt úgy bocsátotta feltételes szabadságra, hogy annak a Btk. szerint nincs helye,
-
-d) a tagállami hatóság úgy rendelte el a jóvátételi jellegű munka elvégzését, hogy annak a Btk. szerint nincs helye,
-
-a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást, feltételes szabadságra bocsátást, jóvátételi jellegű munkát is felfüggesztett szabadságvesztésként, próbára bocsátásként, feltételes szabadságra bocsátásként, jóvátételi munkaként ismeri el úgy, mintha a szabadságvesztés végrehajtásának felfüggesztése, a próbára bocsátás, a feltételes szabadságra bocsátás, a jóvátételi munka előírása a Btk. rendelkezései szerint történt volna.
-
-(3) Ha a 163/B. § (3) bekezdésében foglalt esetben a tagállami hatóság a vádemelés elhalasztásáról úgy döntött, hogy annak a Be. szerint nincs helye, az ügyész az ilyen vádemelés elhalasztásáról hozott határozatot is úgy ismeri el, mintha a vádemelés elhalasztása a Be. rendelkezései szerint történt volna.
-
-(4) Ha a távoltartás vagy a magatartási szabály európai védelmi határozatban megjelölt időtartama meghaladja a Be. vagy a Btk. szerint megállapítható leghosszabb időtartamot, akkor a bíróság vagy az ügyész a távoltartás vagy a magatartási szabály időtartamát a Be. vagy a Btk. szerint meghatározható leghosszabb időtartamban állapítja meg.
-
-(5) Ha a távoltartás vagy a magatartási szabály európai védelmi határozatban megjelölt időtartama nem éri el a Be. vagy a Btk. szerint megállapítható legrövidebb időtartamot, akkor a bíróság vagy az ügyész a távoltartás vagy a magatartási szabály időtartamát az európai védelmi határozatban megjelölt időtartamban állapítja meg.
-
-(6) A bíróság vagy az ügyész a távoltartás vagy a magatartási szabály időtartamát – a (4) és (5) bekezdés figyelembevételével – az európai védelmi határozatban foglalt időegységek alapján határozza meg.
-
-55/F. Az európai védelmi határozat végrehajtása és megsértése
-
-163/G. § (1) Az európai védelmi határozatban foglalt távoltartást vagy magatartási szabályt a bíróság vagy az ügyész – a (2) és (3) bekezdésben foglalt kivételekkel – a magyar jog szerint hajtja végre, ideértve a feltételes szabadság megszüntetésére, a próbára bocsátás megszüntetésére és büntetés kiszabására, a felfüggesztett szabadságvesztés végrehajtására, az előírt magatartási szabályok módosítására és a jóvátételi munka előírása esetén a büntetés kiszabására vonatkozó szabályokat. Az e bekezdésben foglalt határozatok meghozataláról a bíróság vagy az ügyész haladéktalanul értesíti a tagállami hatóságot.
-
-(2) Ha az ügyész a vádemelés elhalasztásának tartamára elrendelt pártfogó felügyelet keretében előírt magatartási szabályt határozott meg, és a magatartási szabály súlyos megszegése miatt a veszélyeztető személlyel szemben a magyar szabályok szerint vádemelés lenne indokolt, erről az ügyész haladéktalanul tájékoztatja a tagállami hatóságot, de vádat nem emel.
-
-(3) Ha a bíróság távoltartást rendelt el, és a veszélyeztető személy a távoltartás szabályait szándékosan megszegte, és ezt utólag nem menti ki, a bíróság a veszélyeztető személyt rendbírsággal sújthatja, de előzetes letartóztatását nem rendelheti el. A távoltartás szabályainak megszegéséről a bíróság a tagállami hatóságot haladéktalanul tájékoztatja.
-
-(4) Ha az európai védelmi határozatban foglalt távoltartásról hozott határozat az V. Fejezet szerinti felügyeleti intézkedést elrendelő tagállami határozatként vagy a magatartási szabály előírásáról hozott határozat a IX. Fejezet szerinti alternatív szankciót kiszabó tagállami határozatként továbbításra került egy harmadik tagállamnak, az (1) és (3) bekezdésben foglalt határozatok meghozataláról a bíróság haladéktalanul értesíti e harmadik tagállam illetékes hatóságát is.
-
-(5) A bíróság vagy az ügyész az európai védelmi határozat megsértéséről a 17. számú mellékletben szereplő formanyomtatványon értesíti az (1)–(4) bekezdésben említett tagállami hatóságokat. A formanyomtatványt az európai védelmi határozatot kibocsátó tagállam, illetve a (4) bekezdésben foglalt esetben a harmadik tagállam hivatalos nyelvére vagy hivatalos nyelveinek egyikére vagy a tagállam által megjelölt nyelvre le kell fordítani.
-
-55/G. Az európai védelmi határozat módosítása
-
-163/H. § Ha a tagállami hatóság az európai védelmi határozatot módosítja, és erről a bíróságot vagy az ügyészt tájékoztatja, a bíróság vagy az ügyész a határozatában foglalt távoltartást vagy magatartási szabályt úgy módosítja, hogy az a lehető legnagyobb mértékben megfeleljen annak a távoltartásnak vagy magatartási szabálynak, amelyet a módosított európai védelmi határozat tartalmaz, vagy a módosított európai védelmi határozat elismerését és végrehajtását a 163/E. § (1) bekezdés a) vagy c) pontja alapján megtagadja.
-
-55/H. Az európai védelmi határozat végrehajtásának megszüntetése
-
-163/I. § (1) Az európai védelmi határozat végrehajtását a bíróság vagy az ügyész haladéktalanul megszünteti, ha
-
-a) a tagállami hatóság az európai védelmi határozat visszavonásáról értesíti a bíróságot vagy az ügyészt;
-
-b) a védett személy a végrehajtás megkezdése után Magyarország területén nem található, és a felkutatására tett intézkedések nem vezettek eredményre, vagy a védett személy lakóhellyel, illetve tartózkodási hellyel Magyarországon már nem rendelkezik;
-
-c) az elrendelt távoltartás vagy előírt magatartási szabály magyar jog szerinti maximális időtartama letelt;
-
-d) a 163/H. §-ban foglalt esetben, ha a módosított európai védelmi határozat elismerését és végrehajtását a bíróság vagy az ügyész megtagadja;
-
-e) az európai védelmi határozatban foglalt távoltartásról hozott határozat az V. Fejezet szerinti felügyeleti intézkedést elrendelő tagállami határozatként vagy a magatartási szabály előírásáról hozott határozat a IX. Fejezet szerinti alternatív szankciót kiszabó tagállami határozatként, az európai védelmi határozat elismerését követően Magyarországnak továbbításra került.
-
-(2) A végrehajtás megszüntetéséről a bíróság vagy az ügyész haladéktalanul értesíti a tagállami hatóságot, a veszélyeztető személyt és a védett személyt. Az (1) bekezdés c) pontja esetében, a végrehajtás megszüntetése előtt a bíróság vagy az ügyész tájékoztatást kérhet a tagállami hatóságtól arról, hogy az európai védelmi határozatban előírt védelemre szükség van-e még.
-
-(3) Ha a távoltartás vagy a magatartási szabály európai védelmi határozatban foglalt időtartama eltelt, az európai védelmi határozat végrehajtásának befejezéséről a bíróság vagy az ügyész a tagállami hatóságot, a veszélyeztető személyt és a védett személyt haladéktalanul értesíti.
-
-163/J. § Ha az európai védelmi határozat eredményes végrehajtása érdekében szükséges, a bíróság vagy az ügyész és a tagállami hatóság, valamint adott esetben a harmadik tagállam hatósága egyeztetést folytat egymással.
-
-163/K. § Az európai védelmi határozat elismerése és végrehajtása során felmerülő költségek – a kizárólag az európai védelmi határozatot kibocsátó tagállam területén felmerülő költségek kivételével – bűnügyi költségnek minősülnek, amelyet a magyar állam visel.
-
-55/I. Az európai védelmi határozat kibocsátásának feltételei
-
-163/L. § (1) Ha a bíróság
-
-a) a szabadságvesztés végrehajtását felfüggesztette, próbára bocsátást alkalmazott, a szabadságvesztésre ítéltet feltételes szabadságra bocsátotta, jóvátételi munka végzését írta elő, és a próbaidőre, a feltételes szabadság tartamára vagy a jóvátételi munka mellett pártfogó felügyeletet rendelt el, és a következő, egy vagy több magatartási szabályt állapította meg:
-
-aa) a terhelt a védett személytől, illetve annak lakásától, munkahelyétől vagy attól a nevelési-oktatási intézménytől, ahová a védett személy jár, továbbá a védett személy által rendszeresen látogatott helytől tartsa távol magát,
-
-ab) arra vonatkozó tilalom vagy szabályozás, hogy a terhelt a védett személlyel bármilyen módon kapcsolatba lépjen,
-
-ac) arra vonatkozó tilalom vagy szabályozás, hogy a terhelt a védett személyt meghatározott távolságon belül megközelítse,
-
-b) távoltartást rendelt el,
-
-akkor e magatartási szabályoknak vagy a távoltartásnak valamely tagállam által történő elismerése és végrehajtása érdekében a bíróság a védett személy érdekében és írásbeli kérelmére – figyelembe véve, hogy a védett személy milyen időtartamban kíván a másik tagállamban tartózkodni, és tekintettel a védelem szükségességének mértékére – a 16. számú melléklet szerinti európai védelmi határozatot bocsáthat ki, feltéve hogy a védett személy lakóhelye vagy tartózkodási helye másik tagállam területén van, vagy a védett személy másik tagállamban kíván lakni vagy tartózkodni.
-
-(2) Ha az ügyész a vádemelés elhalasztása mellett pártfogó felügyeletet rendelt el, és az (1) bekezdés a) pont aa)–ac) alpontjában foglalt egy vagy több magatartási szabályt állapított meg, akkor e magatartási szabályoknak valamely tagállam által történő elismerése és végrehajtása érdekében az ügyész a védett személy érdekében és írásbeli kérelmére – figyelembe véve, hogy a védett személy milyen időtartamban kíván a másik tagállamban tartózkodni, és tekintettel a védelem szükségességének mértékére – a 16. számú melléklet szerinti európai védelmi határozatot bocsáthat ki, feltéve hogy a védett személy lakóhelye vagy tartózkodási helye másik tagállam területén van, vagy a védett személy másik tagállamban kíván lakni vagy tartózkodni.
-
-(3) A bíróság vagy az ügyész írásban tájékoztatja a védett személyt arról a lehetőségről, hogy az (1) és (2) bekezdésben foglalt feltételek teljesülése esetén európai védelmi határozat kibocsátását kérheti.
-
-(4) A védett személy kérelmét, vagy arra vonatkozó nyilatkozatát, hogy vissza kíván térni a lakóhelye vagy tartózkodási helye szerinti tagállamba, illetve, hogy másik tagállamban kíván lakni vagy tartózkodni, a bíróság vagy az ügyész jegyzőkönyvbe foglalja.
-
-163/M. § (1) A védett személy az európai védelmi határozat kibocsátása iránti kérelmet – választása szerint – a bíróságnál vagy az ügyésznél, vagy annak a tagállamnak az illetékes hatóságánál nyújthatja be, amelynek területén lakni vagy tartózkodni kíván, vagy amelynek területén a lakóhelye vagy tartózkodási helye van.
-
-(2) Az európai védelmi határozat kibocsátása iránti kérelmet a cselekvőképtelen, korlátozottan cselekvőképes kiskorú vagy cselekvőképességében részlegesen korlátozott nagykorú védett személy esetében a törvényes képviselő, eseti gyám, eseti gondnok nyújthatja be, egyébként meghatalmazott ügyvéd, nagykorú hozzátartozó vagy pártfogó ügyvéd is benyújthatja.
-
-(3) Ha a védett személy vagy a (2) bekezdésben megjelölt valamely személy az európai védelmi határozat kibocsátása iránti kérelmet az (1) bekezdés alapján a bíróságnál vagy az ügyésznél nyújtotta be, akkor a bíróság vagy az ügyész haladéktalanul dönt az európai védelmi határozat kibocsátásáról vagy a kérelem elutasításáról.
-
-(4) Ha a védett személy vagy a (2) bekezdésben megjelölt valamely személy az európai védelmi határozat kibocsátása iránti kérelmet az (1) bekezdés alapján annak a tagállamnak az illetékes hatóságánál nyújtotta be, amelynek területén lakni vagy tartózkodni kíván, vagy amelynek területén a lakóhelye vagy tartózkodási helye van, akkor a bíróság vagy az ügyész azután dönt haladéktalanul az európai védelmi határozat kibocsátásáról vagy a kérelem elutasításáról, hogy a tagállami hatóság a kérelmet a bíróságnak vagy az ügyésznek továbbította.
-
-(5) A bíróság vagy az ügyész az európai védelmi határozat kibocsátása vagy a kérelem elutasítása tárgyában haladéktalanul indokolt határozatot hoz, amelyet a védett személynek és a (2) bekezdésben megjelölt személynek, valamint a terheltnek haladéktalanul megküld. A határozat ellen jogorvoslatnak helye nincs.
-
-55/J. Az európai védelmi határozat kibocsátása és továbbítása
-
-163/N. § (1) Ha a bíróság vagy az ügyész európai védelmi határozatot bocsát ki, kitölti a 16. számú melléklet szerinti formanyomtatványt.
-
-(2) A bíróság vagy az ügyész haladéktalanul gondoskodik az európai védelmi határozat lefordításáról annak a tagállamnak a hivatalos nyelvére vagy hivatalos nyelveinek egyikére vagy azon tagállam által megjelölt nyelvre, amelynek területén a védett személy lakni vagy tartózkodni kíván, vagy amelynek területén lakóhelye vagy tartózkodási helye van.
-
-(3) A bíróság vagy az ügyész a lefordított európai védelmi határozatot a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára posta, telefax vagy számítástechnikai rendszer útján haladéktalanul megküldi. A számítástechnikai rendszer útján továbbított európai védelmi határozatot minősített elektronikus aláírással kell ellátni. Ha a bíróság vagy az ügyész az európai védelmi határozatot nem postai úton küldte meg, akkor kérelemre a lefordított európai védelmi határozat eredeti példányát megküldi a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára. Az európai védelmi határozatot egyidejűleg csak egy tagállamba lehet továbbítani.
-
-(4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban az európai védelmi határozat elismerésére és végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain vagy az Eurojust nemzeti tagján keresztül kell beszerezni.
-
-55/K. Az európai védelmi határozat módosítása vagy visszavonása
-
-163/O. § Ha a magyar szabályok szerint
-
-a) a távoltartás elrendelt időtartama letelt,
-
-b) a távoltartásról rendelkező határozat módosítása vagy a távoltartás megszüntetése indokolt,
-
-c) a terhelt előzetes letartóztatásának elrendelése szükséges,
-
-d) az előírt magatartási szabályok módosítása indokolt,
-
-e) a feltételes szabadság megszüntetése indokolt,
-
-f) a próbára bocsátás megszüntetése és büntetés kiszabása indokolt,
-
-g) a felfüggesztett szabadságvesztést végre kell hajtani,
-
-h) jóvátételi munka előírása esetén büntetés kiszabása indokolt,
-
-i) a pártfogó felügyelet megszüntetése indokolt,
-
-j) a pártfogó felügyelet tartama letelt, vagy
-
-k) vádat kell emelni,
-
-a bíróság vagy az ügyész az európai védelmi határozatot megfelelően módosítja vagy visszavonja, és erről a tagállami hatóságot, a terheltet és a védett személyt haladéktalanul tájékoztatja.
-
-163/P. § (1) Ha a távoltartásról rendelkező határozatot, mint felügyeleti intézkedést elrendelő határozatot a bíróság a védett személy által megjelölt tagállamba vagy attól eltérő harmadik tagállamba továbbította, vagy az európai védelmi határozat kibocsátását követően továbbítja e tagállamok valamelyikének, erre az esetre – ideértve a felügyeleti intézkedés megsértését is – a 87–92. § alkalmazandó.
-
-(2) Ha a magatartási szabályokat tartalmazó jogerős ítéletet a bíróság a védett személy által megjelölt tagállamba vagy attól eltérő harmadik tagállamba továbbította, vagy az európai védelmi határozat kibocsátását követően továbbítja e tagállamok valamelyikének, erre az esetre – ideértve a magatartási szabályok megsértését is – a 145–147. § alkalmazandó.
-
-(3) Ha a (2) bekezdésben foglalt esetben az ott megjelölt tagállam hatósága az európai védelmi határozatban foglalt magatartási szabályokat érintő további határozatokat hozott, és erről a bíróságot tájékoztatta, a bíróság – ha az szükséges – az európai védelmi határozatot megfelelően módosítja vagy visszavonja, és erről az európai védelmi határozatot végrehajtó tagállami hatóságot haladéktalanul tájékoztatja.
-
-163/Q. § Ha
-
-a) a bíróság vagy az ügyész az európai védelmi határozatot a 163/O. § szerint visszavonta, és erről a tagállami hatóságot értesítette,
-
-b) a bíróság vagy az ügyész az európai védelmi határozatot a 163/O. § szerint módosította, és erről a tagállami hatóságot értesítette, azonban a tagállami hatóság a módosított európai védelmi határozat elismerését és végrehajtását a 163/E. § (1) bekezdésének a) vagy c) pontja alapján megtagadta,
-
-c) a védett személy a végrehajtás megkezdése után a tagállam területén nem található és a felkutatására tett intézkedések nem vezettek eredményre, vagy lakóhellyel, illetve tartózkodási hellyel a tagállamban már nem rendelkezik,
-
-d) az elrendelt távoltartásnak vagy az előírt magatartási szabálynak a tagállam joga szerinti maximális időtartama letelt,
-
-e) az európai védelmi határozatban foglalt távoltartásról hozott határozat az V. Fejezet szerinti felügyeleti intézkedést elrendelő tagállami határozatként vagy a magatartási szabály előírásáról hozott határozat a IX. Fejezet szerinti alternatív szankciót kiszabó tagállami határozatként a védett személy által megjelölt tagállamnak továbbításra került, feltéve hogy e tagállam az európai védelmi határozatot már elismerte,
-
-és a tagállami hatóság az európai védelmi határozat végrehajtását ez alapján megszüntette, a továbbiakban a bíróság vagy az ügyész a távoltartás vagy a magatartási szabály végrehajtását a magyar szabályok szerint folytatja, feltéve hogy a védett személy Magyarország területére visszatért.
-
-163/R. § Ha az európai védelmi határozat végrehajtása érdekében elfogadott intézkedéseknek a tagállam nemzeti joga alapján megállapítható maximális időtartamának lejárta előtt a tagállami hatóság tájékoztatást kér a bíróságtól vagy az ügyésztől, hogy az európai védelmi határozatban előírt védelemre szükség van-e még, a bíróság vagy az ügyész a választ haladéktalanul megküldi a tagállami hatóságnak.
-
-163/S. § Ha az európai védelmi határozat eredményes végrehajtása érdekében szükséges, a bíróság vagy az ügyész, a tagállami hatóság és adott esetben a harmadik tagállam hatósága egyeztetést folytat egymással.”
-
-(2) Az EU tv. 179. § 19. és 20. pontja helyébe a következő rendelkezések lépnek, és a 179. § a következő 21. ponttal egészül ki:
-
-(Ez a törvény)
-
-„19. a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló, 2009. október 23-i 2009/829/IB tanácsi kerethatározatnak,
-
-20. a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló, 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak,
-
-21. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-(3) Az EU tv. az 1. és 2. melléklet szerinti 16. és 17. számú melléklettel egészül ki.
+89. §
 
 #### 19. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
@@ -1038,7 +131,7 @@ e) az európai védelmi határozatban foglalt távoltartásról hozott határoza
 
 #### 20. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-91. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 26. § (2) bekezdésében a „büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 6/A. §-a” szövegrész helyébe a „büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 19. §-a” szöveg lép.
+91. §
 
 #### 21. A nemzeti utasadat-információs rendszer létrehozása érdekében szükséges, valamint a rendőrséget érintő és egyes további törvények módosításáról szóló 2013. évi CXCVIII. törvény módosítása
 
@@ -1995,9 +1088,7 @@ c) a szabálysértési elzárás végrehajtásának részletes szabályait a sza
 
 #### 23. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-163. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 15. alcíme a következő 29/A. §-sal egészül ki:
-
-„29/A. § A Kúria elnöke által törvényben meghatározottak szerint eseti jelleggel létrehozott Kegyelmi Bizottság tagjává kijelölt bíró e feladatát az ítélkezési vagy igazgatási munkája mellett látja el.”
+163. §
 
 #### 24. Záró rendelkezések
 
@@ -2023,184 +1114,4 @@ c) a szabálysértési elzárás végrehajtásának részletes szabályait a sza
 
 166. § Az 5–8. §, a 10. §, a 11. § az Alaptörvény 46. cikk (6) bekezdése, a 163. § az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-### 1. melléklet a 2014. évi LXXII. törvényhez
-
-„16. számú melléklet a 2012. évi CLXXX. törvényhez
-
-Európai védelmi határozat
-
-| Kibocsátó állam: |
-| --- |
-| Végrehajtó állam: |
-| a) A védett személyre vonatkozó adatok: |
-| Családi név: |
-| Utónév (utónevek): |
-| Leánykori név vagy előző név (ha van ilyen): |
-| Nem: |
-| Állampolgárság: |
-| Személyazonosító jel vagy társadalombiztosítási azonosító jel (ha van ilyen): |
-| Születési ideje: |
-| Születési helye: |
-| Lakcímek/tartózkodási helyek: |
-| – a kibocsátó államban: |
-| – a végrehajtó államban: |
-| – máshol: |
-| A személy által értett nyelv(ek) (ha ismert): |
-| Részesült-e a védett személy ingyenes jogsegélyben a kibocsátó államban (ha ez az információ további vizsgálatok nélkül rendelkezésre áll)? |
-| □ Igen. |
-| □ Nem. |
-| □ Nem ismert. |
-| Ha a védett személy kiskorú vagy cselekvőképtelen, a gyámjára vagy képviselőjére vonatkozó adatok: |
-| Családi név: |
-| Utónév (utónevek): |
-| Leánykori név vagy korábbi név (ha van): |
-| Nem: |
-| Állampolgárság: |
-| Iroda/cím: |
-| b) A védett személy úgy döntött, hogy a végrehajtó államba teszi át lakóhelyét, vagy már ott lakik, vagy úgy döntött, hogy a végrehajtó államban kíván tartózkodni, vagy már ott tartózkodik. |
-| Azon időpont, amelytől kezdődően a védett személy a végrehajtó államban kíván lakni vagy tartózkodni (amennyiben ismert ez az időpont): |
-| A tartózkodás időszaka (időszakai) (amennyiben ismertek): |
-| c) A védelmi intézkedés végrehajtásának érdekében bocsátottak-e műszaki eszközöket a védett személy vagy a veszélyeztető személy rendelkezésére? |
-| □ Igen. Kérem, ismertesse röviden a használt eszközöket: |
-| □ Nem. |
-| d) Az európai védelmi határozatot kibocsátó illetékes hatóság: |
-| Hivatalos megnevezés: |
-| Teljes cím: |
-| Telefonszám: (országhívószám) (körzetszám) (szám) |
-| Faxszám: (országhívószám) (körzetszám) (szám) |
-| A kapcsolattartó személy(ek) adatai: |
-| Családi név: |
-| Utónév (utónevek): |
-| Munkakör (beosztás/rang): |
-| Telefonszám: (országhívószám) (körzetszám) (szám) |
-| Faxszám: (országhívószám) (körzetszám) (szám) |
-| E-mail cím (ha van): |
-| A kapcsolattartás során használható nyelvek: |
-| e) Az európai védelmi határozat kibocsátásának alapjául szolgáló védelmi intézkedés azonosítása: |
-| A védelmi intézkedés elfogadásának napja (dátum: ÉÉÉÉ-HH-NN): |
-| A védelmi intézkedés jogerőre emelkedésének napja (dátum: ÉÉÉÉ-HH-NN): |
-| A védelmi intézkedés hivatkozási száma (ha rendelkezésre áll): |
-| A védelmi intézkedést elfogadó hatóság: |
-| f) Azon tények összefoglalása és azon körülmények – ideértve adott esetben a bűncselekmény jogi minősítését is – leírása, amelyek a fenti e) pontban említett védelmi intézkedés elfogadásához vezettek: |
-| g) A védelmi intézkedés által a veszélyeztető személlyel szemben előírt tilalomra (tilalmakra) vagy korlátozásra (korlátozásokra) vonatkozó információk: |
-| – A tilalom (tilalmak) vagy korlátozás (korlátozások) jellege: (több választ is meg lehet jelölni): |
-| □ tilalom arra vonatkozóan, hogy az érintett személy belépjen bizonyos helyekre, helységekbe vagy meghatározott területekre, amelyeken a védett személy tartózkodik vagy amelyeket látogat, |
-| – ha ezt a választ jelölte meg, kérjük, adja meg pontosan, mely helyekre, helységekbe vagy meghatározott |
-| területekre nem léphet be a veszélyeztető személy: |
-| □ a védett személlyel való, bármilyen formában történő érintkezés tilalma vagy szabályozása, beleértve a telefonon, elektronikus vagy hagyományos levélben, telefaxon vagy egyéb eszközök révén történő érintkezést is, |
-| – ha ezt a választ jelölte meg, kérjük, adjon meg minden lényeges részletet: |
-| □ tilalom vagy szabályozás arra vonatkozóan, hogy az érintett személy előre meghatározott távolságon belül megközelítse a védett személyt, |
-| – ha ezt a választ jelölte meg, kérjük, adja meg pontosan azt a távolságot, amelyet a veszélyeztető személynek |
-| meg kell tartania a védett személytől: |
-| – kérjük, adja meg azt az időtartamot, amíg a veszélyeztető személyt a fent említett tilalom (tilalmak) vagy korlátozás (korlátozások) terheli (terhelik): |
-| – a tilalom vagy korlátozás megsértése esetén kiszabható (esetleges) szankció: |
-| h) Azon veszélyeztető személyre vonatkozó adatok, akivel szemben az e) pontban említett tilalmat (tilalmakat) vagy korlátozást (korlátozásokat) kiszabták: |
-| Családi név: |
-| Utónév (utónevek): |
-| Leánykori név vagy előző név (ha van ilyen): |
-| Felvett nevek (ha vannak): |
-| Nem: |
-| Állampolgárság: |
-| Személyazonosító jel vagy társadalombiztosítási azonosító jel (ha van ilyen): |
-| Születési ideje: |
-| Születési helye: |
-| Lakcímek/tartózkodási helyek: |
-| – a kibocsátó államban: |
-| – a végrehajtó államban: |
-| – máshol: |
-| A személy által értett nyelv(ek) (ha ismert): |
-| Adja meg az alábbi adatokat, ha azok rendelkezésre állnak: |
-| – Az érintett személy személyazonossági okmányának (okmányainak) típusa és száma (személyazonosító igazolvány, útlevél): |
-| Részesült-e a veszélyeztető személy ingyenes jogsegélyben a kibocsátó államban (ha ezen információ további |
-| vizsgálatok nélkül rendelkezésre áll)? |
-| □ lgen. |
-| □ Nem. |
-| □ Nem ismert. |
-| i) Egyéb körülmények, amelyek befolyásolhatják a védett személy esetleges veszélyeztetettségének értékelését (nem kötelező kitölteni): |
-| j) Egyéb hasznos információk (például – amennyiben szükséges és rendelkezésre áll – információ más olyan államokról, amelyekben korábban védelmi intézkedést fogadtak el ugyanerre a személyre vonatkozóan): |
-| k) Kérjük, egészítse ki: |
-| □ a 2008/947/IB kerethatározat 2. cikke szerinti ítéletet már továbbították egy másik tagállamnak |
-| – Ha ezt a választ jelölte meg, kérjük adja meg azon illetékes hatóság elérhetőségét, amelynek az ítéletet továbbították: |
-| □ a 2009/829/IB kerethatározat 4. cikke szerinti, felügyeleti intézkedéseket elrendelő határozatot már továbbították egy másik tagállamnak |
-| – Ha ezt a választ jelölte meg, kérjük, adja meg azon illetékes hatóság elérhetőségét, amelynek a felügyeleti intézkedéseket elrendelő határozatot továbbították: |
-| Az európai védelmi határozatot kibocsátó hatóságnak, illetve képviselőjének a határozat tartalmának hitelességét megerősítő aláírása: |
-| Megnevezése: |
-| Munkakör (beosztás/rang): |
-| Dátum: |
-| Hivatkozási szám (ha van ilyen): |
-| (adott esetben) Hivatalos pecsét: |
-
-”
-
-### 2. melléklet a 2014. évi LXXII. törvényhez
-
-„17. számú melléklet a 2012. évi CLXXX. törvényhez
-
-Értesítés az európai védelmi határozat alapján elfogadott intézkedés megsértéséről
-
-| a) A veszélyeztető személy személyazonossági adatai: |
-| --- |
-| Családi név: |
-| Utónév (utónevek): |
-| Leánykori név vagy előző név (ha van ilyen): |
-| Felvett nevek (ha vannak): |
-| Nem: |
-| Állampolgárság: |
-| Személyazonosító jel vagy társadalombiztosítási azonosító jel (ha van ilyen): |
-| Születési ideje: |
-| Születési helye: |
-| Címe: |
-| A személy által értett nyelv(ek) (ha ismert): |
-| b) A védett személy személyazonossági adatai: |
-| Családi név: |
-| Utónév (utónevek): |
-| Leánykori név vagy előző név (ha van ilyen): |
-| Nem: |
-| Állampolgárság: |
-| Születési ideje: |
-| Születési helye: |
-| Címe: |
-| A személy által értett nyelv(ek) (ha ismert): |
-| c) Az európai védelmi határozatra vonatkozó adatok: |
-| A határozat kibocsátásának időpontja: |
-| Hivatkozási szám (ha van ilyen): |
-| A határozatot kiállító hatóság: |
-| Hivatalos megnevezés: |
-| Címe: |
-| d) Az európai védelmi határozattal összhangban a végrehajtó államban esetlegesen hozott védelmi intézkedés végrehajtásáért felelős hatóság adatai: |
-| A hatóság hivatalos megnevezése: |
-| A kapcsolattartó személy neve: |
-| Munkakör (beosztás/rang): |
-| Cím: |
-| Telefonszám: (országhívószám) (körzetszám) (szám) |
-| Faxszám: (országhívószám) (körzetszám) (szám) |
-| Email cím: |
-| A kapcsolattartás során használható nyelvek: |
-| e) Az európai védelmi határozat elismerését követően a végrehajtó állam illetékes hatósága által előírt tilalom (tilalmak) vagy korlátozás (korlátozások) megsértése, illetve bármely egyéb olyan ténymegállapítás, amely további határozat meghozatalát eredményezheti: |
-| Az alábbi tilalom (tilalmak) vagy korlátozás (korlátozások) megsértésére került sor (több választ is megjelölhet): |
-| □ tilalom arra vonatkozóan, hogy az érintett személy belépjen bizonyos helyekre, helységekbe vagy meghatározott területekre, amelyeken a védett személy tartózkodik vagy amelyeket látogat, |
-| □ a védett személlyel való, bármilyen formában történő érintkezés tilalma vagy szabályozása, beleértve a telefonon, elektronikus vagy hagyományos levélben, telefaxon vagy egyéb eszközök révén történő érintkezést is, |
-| □ tilalom vagy szabályozás arra vonatkozóan, hogy az érintett személy előre meghatározott távolságon belül megközelítse a védett személyt, |
-| □ az európai védelmi határozat elismerését követően a végrehajtó állam illetékes hatóságai által hozott bármely más, az európai védelmi határozat alapján elfogadott védelmi intézkedésnek megfelelő intézkedés |
-| A fentiek megsértésének ismertetése (hely, időpont és sajátos körülmények): |
-| A 11. cikk (2) bekezdésének megfelelően: |
-| – az intézkedés megsértésének következményeként a végrehajtó államban hozott intézkedések: |
-| – az intézkedés megsértésének lehetséges jogi következménye a végrehajtó államban: |
-| Egyéb olyan ténymegállapítások, amelyek további határozat meghozatalát eredményezhetik |
-| A ténymegállapítások leírása: |
-| f) Azon személy adatai, akihez az intézkedés megsértésével kapcsolatos további információk szükségessége esetén kell fordulni: |
-| Családi név: |
-| Utónév (utónevek): |
-| Cím: |
-| Telefonszám: (országhívószám) (körzetszám) (szám) |
-| Faxszám: (országhívószám) (körzetszám) (szám) |
-| E-mail cím: |
-| A kapcsolattartás során használható nyelvek: |
-| A formanyomtatványt kiállító hatóságnak, illetve képviselőjének a formanyomtatvány tartalmának hitelességét |
-| megerősítő aláírása: |
-| Név: |
-| Munkakör (beosztás/rang): |
-| Dátum: |
-| Hivatalos pecsét (ha van): |
-
-”
+### 1–2. melléklet a 2014. évi LXXII. törvényhez

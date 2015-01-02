@@ -1378,7 +1378,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 (13) A bíróság az 58. § (13) bekezdése szerinti kötelezettségét 2013. december 31-éig papír alapon is teljesítheti. Az adatkezelő gondoskodik a papír alapú ítéletek Nyilvántartásba történő elektronikus feltöltéséről.
 
-60/A. § Hatályát veszti a III/A. Fejezet, a 60. § (3) és (4) bekezdése, valamint a 62. § (1a) bekezdése.
+60/A. §
 
 60/B. § Az 57/D. § (1) bekezdésében meghatározott Bizottságot 2015. január 15-ig létre kell hozni. A miniszter 2015. január 8-ig felkéri a Bizottság tagjait kijelölni jogosult minisztereket, hogy jelöljenek tagokat a Bizottságba.
 

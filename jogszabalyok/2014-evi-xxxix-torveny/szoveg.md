@@ -70,7 +70,7 @@ egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és 
 
 73–77. §
 
-78. § A Ht. 5. melléklete a 2. melléklet szerint módosul.
+78. §
 
 79. §
 
@@ -82,9 +82,7 @@ egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és 
 
 81–102. §
 
-103. § Az Szhitv. 20/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az 1. § (4) bekezdése szerinti egyetemleges felelősség alapján az adóson kívül az Alaptól, az Integrációs Szervezettől, a többi szövetkezeti hitelintézettől, illetve a Takarékbank Zrt.-től lehet az egész követelést követelni. Az adóson kívül az Alaptól akkor lehet követelni az adós tartozását, ha az adós jogerős ítéletben megállapított vagy nem vitatott tartozását az esedékességtől számított további 30 napon belül sem teljesíti. Az egyetemlegesség alapján fizetendő összegért az Alap 60 napon belül köteles az adós helyett az e bekezdésben meghatározott határidőt követően helyt állni. Az egyetemlegesség alapján fizetendő összegért az Alapot követően – az alábbi sorrendben – az Integrációs Szervezet, a többi szövetkezeti hitelintézet, illetve a Takarékbank Zrt. áll helyt, ha a sorrendben megelőző helyen álló személyek a követelésért nem álltak helyt és fizetésképtelenségüket jogerős bírósági ítélet mondta ki.”
+103. §
 
 104–105. §
 
@@ -121,19 +119,3 @@ egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és 
 ### 1. melléklet a 2014. évi XXXIX. törvényhez
 
 ### 2. melléklet a 2014. évi XXXIX. törvényhez
-
-A Ht. 5. melléklet 2. pontja helyébe a következő rendelkezés lép:
-
-„2. A hulladék fajtánkénti egységára:
-
-|  | A | B |
-| --- | --- | --- |
-| 1 | Hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jellege, típusa | Hulladéklerakási járulékfizetéssel érintett hulladék egységára évenként (Ft/tonna) |
-| 2 | települési hulladék, ideértve az előkezelt települési hulladékot is | 6000 Ft |
-| 3 | építési-bontási hulladék | 6000 Ft |
-| 4 | veszélyes hulladék | 6000 Ft |
-| 5 | települési szennyvíziszap | 6000 Ft |
-| 6 | a hulladékból előállított termék gyártása során képződött és tovább hasznosítható maradék hulladék | 4000 Ft |
-| 7 | a hulladékból előállított termék gyártása során képződött és tovább nem hasznosítható maradék hulladék | 3000 Ft |
-
-”

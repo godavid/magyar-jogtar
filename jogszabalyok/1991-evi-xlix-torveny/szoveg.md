@@ -126,6 +126,8 @@ nem gyakorolhatja, követeléseinek a zálogtárgyból (az óvadék tárgyából
 
 (5) 2015. január 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
 
+(5a) Az (5) bekezdés szerint elektronikus kapcsolattartásra köteles fél az eljárási illetéket, a kifogás tételes illetékét és a közzétételi költségtérítést elektronikus úton fizeti meg, a kérelem benyújtását megelőzően. Az illeték- és közzétételi költségtérítés-fizetési kötelezettség teljesítésének módját és az azzal összefüggő tájékoztatást az Országos Bírósági Hivatal a honlapján 2014. december 17-éig közzéteszi. A változtatásokra vonatkozó tájékoztatást azok bevezetése előtt legalább 8 nappal közzé kell tenni.
+
 (6) Az e törvényben szabályozott nemperes eljárásokban – a (7) bekezdésben foglalt kivétellel – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
 (7) Bíró hozza meg a következő határozatokat és jár el a következő eljárási cselekményeknél:
@@ -212,7 +214,7 @@ nem gyakorolhatja, követeléseinek a zálogtárgyból (az óvadék tárgyából
 - d) az adós vezetőjének nyilatkozatát arról, hogy a c) pont szerinti beszámoló vagy közbenső mérleg elfogadása óta az adós vagyoni helyzetében milyen lényeges változások történtek,
 - e) ha az adós a Ptk. szerinti elismert vagy tényleges vállalatcsoport tagja, az ezzel összefüggő szerződéseket,
 - f) az adós hitelezőinek névsorát, az adós tartozásainak felsorolását, azok esedékességét, valamint azt, hogy az adós mely hitelezői követeléseket ismer el és melyeket vitat, melyek a biztosított [12. § (3) bekezdés] és a nem biztosított hitelezői igények, az adós által vállalt, a számvitelről szóló törvény szerinti függő kötelezettségek, továbbá az adóssal szemben fennálló függő követelések ismertetését,
-- g) a csődeljárás elrendeléséről és a fizetési haladékról szóló közzététel költségtérítésének befizetését igazoló okiratot,
+- g) az illeték, továbbá a csődeljárás elrendeléséről és a fizetési haladékról szóló közzététel költségtérítésének megfizetésére vonatkozó elektronikus igazolást,
 - h) az adós vezetőjének nyilatkozatát arról, hogy az adós mely pénzforgalmi szolgáltatónál vezet pénzforgalmi számlát, a számlaszámok megnevezésével, továbbá hogy mely befektetési szolgáltatónál rendelkezik értékpapírszámlával,
 - i) az adós vezetőjének kötelezettségvállaló nyilatkozatát arról, hogy a csődeljárás iránti kérelem benyújtásával egyidejűleg értesíti a pénzforgalmi szolgáltató számlavezetőket a csődeljárás iránti kérelem benyújtásáról oly módon, hogy a számlavezetők erről az ideiglenes fizetési haladék 9. § (1) bekezdés szerinti közzétételét megelőző munkanapon 15 óráig hitelt érdemlő módon tudomást szerezzenek, továbbá hogy nem kezdeményez olyan fizetési műveletet vagy átutalást, amely a fizetési haladék célját meghiúsítaná, valamint nem tesz más olyan intézkedést sem, amellyel valamely hitelezőt előnyös helyzetbe hozna a többi hitelezőhöz képest,
 - j) az adós vagyoni helyzetét bemutató, az adós vezetője által aláírt, külön jogszabály szerinti adatokat tartalmazó adatlapot.
@@ -261,7 +263,7 @@ nem gyakorolhatja, követeléseinek a zálogtárgyból (az óvadék tárgyából
 - a) az adós nevét, székhelyét, cégjegyzékszámát, adószámát,
 - b) a bíróság által kirendelt vagyonfelügyelő nevét, székhelyét,
 - c) a bíróság nevét és az ügy számát,
-- d) a csődeljárás kezdő időpontját,
+- d) utalást arra, hogy a csődeljárás kezdő időpontja a végzés Cégközlöny honlapján történő közzétételének napja,
 - e) azt, hogy a végzés közzétételétől az adóst fizetési moratórium illeti meg a vele szemben a fizetési haladék kezdő időpontját megelőzően, vagy az azt követően esedékessé váló pénzkövetelések vonatkozásában,
 - f) a hitelezőknek szóló felhívást arra, hogy fennálló követeléseiket a csődeljárás elrendeléséről szóló végzés közzétételétől számított 30 napon belül – a csődeljárás kezdő időpontját követően keletkező követeléseiket pedig 8 munkanapon belül – jelentsék be az adósnak és a vagyonfelügyelőnek, a követelés nyilvántartásba vételéért fizetendő díjat ezzel egyidejűleg fizessék be a vagyonfelügyelő 12. § (1) bekezdés szerint közzétett pénzforgalmi bankszámlájára,
 - g) utalást a követelésbejelentési határidő elmulasztásának jogkövetkezményeire.
@@ -556,7 +558,8 @@ folytatható le.
 - e) az adós ellen az Európai Unió más tagállamában a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján fizetésképtelenségi főeljárás indult és a kérelem szintén főeljárás megindítására irányul;
 - f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (2c) bekezdés szerinti tartalmi elemeket.
 - g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el;
-- h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül.
+- h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül;
+- i) a 6. § (5) bekezdése értelmében elektronikus kapcsolattartásra köteles kérelmező az eljárási illeték és a közzétételi költségtérítés megfizetésére vonatkozó elektronikus igazolást nem csatolta.
 
 (2) Ha az Európai Unió más tagállamában a bíróság határozatának meghozatalát megelőzően a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján főeljárást indítottak, a bíróság az ugyanazon adós ellen Magyarországon megindított főeljárást területi eljárássá alakítja át, feltéve, hogy az adós Magyarországon telephellyel rendelkezik. A bíróság erről a főeljárást megindító bíróságot tájékoztatja.
 
@@ -747,7 +750,7 @@ kapcsolatos kiadások fedezetére.
 - b) az adós nevét, székhelyét, cégjegyzékszámát, adószámát, azon gazdálkodó szervezetek nevét, székhelyét, nyilvántartási számát, amelyben az adós kizárólagos vagy többségi befolyással rendelkezik, ha pedig az eljárás közzétételét megelőző két éven belül jogutódlás következett be, a jogelőd nevét, székhelyét, nyilvántartási számát és adószámát is fel kell tüntetni;
 - c) a felszámolási eljárás megindítására irányuló kérelem benyújtásának időpontját,
 - d) azt, ha a felszámolási eljárást csődeljárás előzte meg;
-- e) a felszámolás kezdő időpontját (a felszámolást elrendelő jogerős végzés közzétételének napját);
+- e) utalást arra, hogy a felszámolás kezdő időpontja a felszámolást elrendelő jogerős végzés Cégközlöny honlapján történő közzétételének napja,
 - f) a hitelezőknek [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be;
 - g) a felszámoló nevét, székhelyét, adószámát, valamint a felszámolóbiztos nevét, lakóhelyét vagy a személyi adat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét;
 - h) a 46. § (7) bekezdésében meghatározott elkülönített számla számát;
@@ -926,7 +929,7 @@ kapcsolatos kiadások fedezetére.
 - a) a felszámolási zárómérleget,
 - b) a felszámoló nyilatkozatát arról, hogy az adós tartozásainak (ideértve annak kamatait is) és a felszámolás költségeinek megfizetése megtörtént, a felszámoló díjának fedezete rendelkezésre áll,
 - c) a vitatott követeléssel rendelkező hitelező, továbbá a felszámoló nyilatkozatát arról, hogy adós az (1) bekezdés szerinti biztosítékot nyújtotta, továbbá
-- d) a felszámolás megszüntetéséről szóló végzés közzétételéért fizetendő költségtérítés megfizetését igazoló okiratot.
+- d) a felszámolási eljárás megszüntetéséről szóló végzés közzétételéért fizetendő költségtérítés megfizetésére vonatkozó elektronikus igazolást.
 
 (3) A bíróság a (2) bekezdés szerinti kérelmet és mellékleteit megküldi az állami és az önkormányzati adóhatóságnak. Ha az adóhatóságtól 30 napon belül észrevétel nem érkezett, a bíróság végzésben elrendeli a felszámolási eljárás megszüntetését, és az erről szóló jogerős végzés kivonatának a Cégközlönyben történő közzétételét. A végzésben a bíróság a felszámoló díjának megfizetésére az adóst kötelezi. A díj összege az adós felszámolási zárómérlegében szereplő eszközök könyv szerinti értékének 2%-a, de legalább 200 000 forint, amely az általános forgalmi adó összegét nem tartalmazza. A díjat a bíróság – a felszámoló által elvégzett tevékenység, az adott eljárás munkaterhe, időtartama figyelembevételével – ennél alacsonyabb mértékben is meghatározhatja.
 
