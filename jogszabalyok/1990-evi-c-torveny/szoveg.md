@@ -30,7 +30,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (4) A települési adóval kapcsolatos eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az önkormányzat települési adót önadózással megállapítandó adóként is bevezethet.
 
-(5) A települési adóból származó bevétel az azt megállapító önkormányzat bevétele.
+(5) A települési adóból származó bevétel az azt megállapító önkormányzat bevétele, amelyet fejlesztési célra és a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használhat fel.
 
 2. § Az önkormányzat adómegállapítási joga az e törvényben meghatározott adóalanyokra és adótárgyakra terjed ki.
 
