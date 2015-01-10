@@ -114,6 +114,12 @@ a bírósági végrehajtásról
 - a) a tartásdíjhátralék az adós rosszhiszemű magatartására vezethető vissza, vagy
 - b) annak érvényesítését alapos okból mulasztotta el.
 
+14/A. § (1) Ha a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1215/2012/EU rendelet) 53. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat olyan intézkedést vagy rendelkezést tartalmaz, amely nem ismert a magyar jogban, a végrehajtás elrendelésére a 16. § n) pontja alapján illetékességgel rendelkező bíróság végzésével az intézkedést vagy rendelkezést az 1215/2012/EU rendelet 54. cikkében foglaltaknak megfelelően hozzáigazítja az azonos joghatást kiváltó, valamint hasonló célokat és érdekeket követő intézkedéshez vagy rendelkezéshez.
+
+(2) Az (1) bekezdés szerint meghozott végzés ellen a végrehajtást kérő és az adós fellebbezéssel élhet.
+
+(3) Ha az (1) bekezdés szerinti eljárás lefolytatása szükséges, a bíróság a végzés jogerőre emelkedését követően állítja ki a végrehajtási lapot.
+
 ### Végrehajtási lap
 
 15. § (1) Az első fokon eljárt bíróság végrehajtási lapot állít˙ki
@@ -138,7 +144,8 @@ a bírósági végrehajtásról
 - j) a 861/2007/EK rendelet szerint kis értékű követelések európai eljárásában hozott ítélet alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti járásbíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság igazságügyi szakértői díj megfizetéséről szóló határozata alapján.
 - l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság.
+- m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság,
+- n) az 1215/2012/EU rendelet 53. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 17. § (1) Tartásdíj behajtása érdekében a végrehajtási lapot a jövőben lejáró tartásdíjrészletekre nézve is ki lehet állítani. Ilyenkor csak a végrehajtási eljárás befejezéséig lejárt tartásdíjrészleteknek megfelelő összeget lehet behajtani és a végrehajtást kérőnek kifizetni.
 
@@ -195,7 +202,8 @@ a bírósági végrehajtásról
 
 - a) a 44/2001/EK tanácsi rendelet szerinti közokiratot az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - b) a 2201/2003/EK tanácsi rendelet szerinti közokiratot a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- c) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá nem tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- c) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá nem tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- d) az 1215/2012/EU rendelet 58. cikke szerinti közokiratot és 59. cikke szerinti perbeli egyezséget az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 (2) Végrehajtási záradékkal látja el
 
@@ -286,14 +294,16 @@ a bírósági végrehajtásról
 - c) a 805/2004/EK rendelet I. és II. melléklete, valamint IV. és V. melléklete szerinti tanúsítványt,
 - d) a 861/2007/EK rendelet IV. melléklete szerinti tanúsítványt,
 - e) a 4/2009/EK tanácsi rendelet I. és II. melléklete szerinti kivonatot,
-- f) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény V. melléklete szerinti igazolást.
+- f) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény V. melléklete szerinti igazolást,
+- g) az 1215/2012/EU rendelet 53. cikke szerinti tanúsítványt az 1215/2012/EU rendelet I. mellékletében közzétett formanyomtatvány felhasználásával.
 
 (2) A közokiratot kiállító hatóság székhelye szerint illetékes járásbíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
 - a) a 44/2001/EK tanácsi rendelet VI. melléklete szerinti tanúsítványt,
 - b) a 805/2004/EK rendelet I–V. melléklete szerinti tanúsítványt,
 - c) a 4/2009/EK tanácsi rendelet III. és IV. melléklete szerinti kivonatot,
-- d) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény VI. melléklete szerinti igazolást.
+- d) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény VI. melléklete szerinti igazolást,
+- e) az 1215/2012/EU rendelet 60. cikke szerinti tanúsítványt az 1215/2012/EU rendelet II. mellékletében közzétett formanyomtatvány felhasználásával.
 
 (3) A 2201/2003/EK tanácsi rendelet III. és IV. melléklete szerinti, a láthatási jogokra és a gyermek visszavitelét elrendelő határozatokra vonatkozó igazolást az első fokon eljárt bíróság állítja ki:
 
@@ -302,7 +312,7 @@ a bírósági végrehajtásról
 
 (4) Az 1896/2006/EK rendelet VII. melléklete szerinti formanyomtatványt az európai fizetési meghagyást kibocsátó közjegyző állítja ki.
 
-(5) Az (1) bekezdés a), b) és e) pontja szerinti, valamint a (2) bekezdés a) és c) pontja szerinti tanúsítvány, igazolás és kivonat több alkalommal is kiállítható.
+(5) Az (1) bekezdés a), b), e) és g) pontja szerinti, valamint a (2) bekezdés a), c) és e) pontja szerinti tanúsítvány, igazolás és kivonat több alkalommal is kiállítható.
 
 (6) A bíróság a (3) bekezdés szerinti igazolást kérelemre kijavítja; a kijavításról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
 
@@ -457,11 +467,11 @@ a bírósági végrehajtásról
 
 35/D. § (1) Az elektronikus kapcsolattartás igénylése iránti, legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel ellátott, elektronikus iratba foglalt kérelmet és annak jogszabályban meghatározott mellékleteit a kézbesítési rendszer felhasználói szabályzatának elfogadása mellett bárki előterjeszthet a végrehajtónál. A végrehajtó a kérelem teljesítéseként rögzíti a kézbesítési rendszerben az elektronikus kapcsolattartásra jogosult fél:
 
-- a) természetes személyazonosító adatait, lakóhelyét, személyazonosítás céljából bemutatott okmányának típusát és számát, valamint törvényes képviselőjének nevét, lakóhelyét és személyazonosítás céljából mellékelt okmányának típusát, számát; szervezet esetében elnevezését, székhelyét, a nyilvántartását vezető hatóság elnevezését, nyilvántartási számát, valamint a képviselőjének nevét, lakóhelyét és személyazonosítás céljából mellékelt okmányának típusát, számát;
+- a) természetes személyazonosító adatait, lakóhelyét, személyazonosító okmányának típusát és számát, valamint törvényes képviselőjének nevét, lakóhelyét és személyazonosító okmányának típusát, számát; szervezet esetében elnevezését, székhelyét, a nyilvántartását vezető hatóság elnevezését, nyilvántartási számát, valamint a képviselőjének nevét, lakóhelyét és személyazonosító okmányának típusát, számát;
 - b) kézbesítési rendszer használatához szükséges felhasználói nevét és jelszavát;
 - c) kézbesítési rendszer által küldött értesítések fogadására szolgáló elektronikus levelezési címét.
 
-(2) A végrehajtó a kérelem teljesítése előtt a 47/A. § szerint ellenőrzi a személyazonosság és a lakóhely igazolására mellékelt okirat érvényességét és adatainak valódiságát. Ha a fél nem szolgáltatja az (1) bekezdésben meghatározott adatokat és az azok igazolására szolgáló iratokat, vagy a személyazonosságával kapcsolatban kétség merül fel, a végrehajtó a kérelem teljesítését megtagadja.
+(2) A végrehajtó a kérelem teljesítése előtt a 47/A. § szerint ellenőrzi a személyazonosság és a lakóhely igazolására szolgáló személyazonosító okmány száma alapján annak érvényességét és adatainak valódiságát. Ha a fél nem szolgáltatja az (1) bekezdésben meghatározott adatokat, vagy a személyazonosságával kapcsolatban kétség merül fel, a végrehajtó a kérelem teljesítését megtagadja.
 
 (3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább az elektronikus aláírásról szóló törvény szerinti fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegzővel, továbbá titkosító és hitelesítési tanúsítvánnyal.
 
@@ -497,7 +507,7 @@ a bírósági végrehajtásról
 
 (3) Amennyiben a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az (1) bekezdésben meghatározott iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, az iratot hirdetmény útján kell kézbesíteni. A Pp. 102. § (2) és (5)–(7) bekezdéseit megfelelően alkalmazni kell.
 
-(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet és a 4/2009/EK tanácsi rendelet szerinti határozat végrehajtására indult eljárásban.
+(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, és az 1215/2012/EU rendelet szerinti határozat végrehajtására indult eljárásban.
 
 37/C. § (1) A végrehajtó a végrehajtás foganatosítása során keletkezett iratokat – ha a kézbesítési rendszer használata e törvény szerint kötelező – a kézbesítési rendszer igénybevételével elektronikus úton kézbesíti.
 
@@ -702,7 +712,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 (7) Önkényesen elfoglalt lakás kiürítése során, vagy ha a kötelezett a Pp. 217. §-ának (5) bekezdése szerinti kedvezményben részesült, a kötelezett kérelmére felfüggesztésnek helye nincs.
 
-(8) A végrehajtást foganatosító bíróság dönt az adósnak a 805/2004/EK rendelet 23. cikke, az 1896/2006/EK rendelet 23. cikke, a 861/2007/EK rendelet 23. cikke, valamint 4/2009/EK tanácsi rendelet 21. cikk (3) bekezdése szerinti kérelméről. A bíróság a 805/2004/EK rendelet 23. cikkének a) pontja, az 1896/2006/EK rendelet 23. cikkének a) pontja, valamint a 861/2007/EK rendelet 23. cikkének a) pontja szerinti kérelemnek a végrehajtás felfüggesztésével ad helyt.
+(8) A végrehajtást foganatosító bíróság dönt az adósnak a 805/2004/EK rendelet 23. cikke, az 1896/2006/EK rendelet 23. cikke, a 861/2007/EK rendelet 23. cikke, a 4/2009/EK tanácsi rendelet 21. cikk (3) bekezdése, valamint az 1215/2012/EU rendelet 44. cikke szerinti kérelméről. A bíróság a 805/2004/EK rendelet 23. cikk a) pontja, az 1896/2006/EK rendelet 23. cikk a) pontja, a 861/2007/EK rendelet 23. cikk a) pontja, valamint az 1215/2012/EU rendelet 44. cikke szerinti kérelemnek a végrehajtás felfüggesztésével ad helyt.
 
 49. § (1) Ha a végrehajtható okirat vagy a végrehajtó intézkedése ellen jogorvoslattal éltek, a jogorvoslatot elbíráló bíróság a végrehajtást felfüggesztheti.
 
@@ -2338,7 +2348,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (2) A biztosítási intézkedést az a bíróság rendeli el, amely a határozat alapján — a megfelelő feltételek esetén — a végrehajtási lap kiállítására jogosult lenne.
 
-(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a követelés olyan bírósági határozaton alapul, amelyet a 44/2001/EK tanácsi rendelet vagy a 4/2009/EK tanácsi rendelet alapján Magyarországon el kell ismerni. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
+(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a követelés olyan bírósági határozaton alapul, amelyet a 44/2001/EK tanácsi rendelet, a 4/2009/EK tanácsi rendelet vagy az 1215/2012/EU rendelet alapján Magyarországon el kell ismerni. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
 
 (4) A bíróság a biztosítási intézkedést – 400 millió forintot meg nem haladó összegben – az (1) bekezdés alapján elrendeli, ha a követelés a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben hozott ítéletnek a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére kötelező részén alapul, amely ítélet a Teljesítésigazolási Szakértői Szerv szakvéleményében meghatározott összeget (részben vagy egészben) mint pénzbeli marasztalást tartalmazza.
 
@@ -2350,7 +2360,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (2) A biztosítási intézkedést az a bíróság rendeli el, amelynél a kereseti kérelmet benyújtották. A biztosítási intézkedés elrendelése iránti kérelem tárgyában szükség esetén meghallgatást kell tartani.
 
-(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a 44/2001/EK tanácsi rendelet vagy a 4/2009/EK tanácsi rendelet szerinti ügyben a kereseti kérelmet az Európai Unió másik tagállamának bíróságához nyújtották be. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
+(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a 44/2001/EK tanácsi rendelet, a 4/2009/EK tanácsi rendelet vagy az 1215/2012/EU rendelet szerinti ügyben a kereseti kérelmet az Európai Unió másik tagállamának bíróságához nyújtották be. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
 
 (4) A (2) bekezdésben meghatározott bíróság biztosítási intézkedést rendel el – 400 millió forintot meg nem haladó összegben – az olyan követelés érdekében, amely iránt belföldi bíróságnál a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított pert indítottak, illetve viszontkeresetet érvényesítettek, és a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére vonatkozó követelés a Teljesítésigazolási Szakértői Szerv szakvéleményén alapul.
 
@@ -2680,7 +2690,7 @@ az adós vagyontárgyait a pénzkövetelés végrehajtásának szabályai szerin
 
 - a) a 805/2004/EK rendelet 21. cikke alapján a végrehajtás visszautasításának,
 - b) az 1896/2006/EK rendelet 22. cikkének (1) bekezdése vagy a 861/2007/EK rendelet 22. cikkének (1) bekezdése alapján a végrehajtás elutasításának vagy
-- c) a 4/2009/EK tanácsi rendelet 21. cikke (2) bekezdésének második albekezdése alapján a végrehajtás megtagadásának
+- c) a 4/2009/EK tanácsi rendelet 21. cikk (2) bekezdésének második albekezdése, vagy az 1215/2012/EU rendelet 46. cikke alapján a végrehajtás megtagadásának
 
 feltételei fennállnak.
 
@@ -4266,6 +4276,7 @@ való megfelelést szolgálja.
 - d) 16. §-ának h) pontja, 31/C. §-a és 210/B. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
 - e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
 - f) 23/B. §-ának (1) bekezdése, 31/C. §-a, 37/B. §-a, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése és 210/A. §-a a polgári és kereskedelmi ügyekben a joghatóságról, valamint a bírósági határozatok végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet,
-- g) 16. §-ának l) pontja, 23/B. §-a, 31/C. §-a, 37/B. § (4) bekezdése, 48. §-ának (8) bekezdése, 164. §-ának (2) bekezdése, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése, 210/A. §-a és 211. §-ának (3) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet [14. cikk, 16–18. cikk, 21. cikk, 26–27. cikk, 36. cikk, 41. cikk (2) bekezdés, 43. cikk, 48. cikk (3) bekezdés, 61. cikk]
+- g) 16. §-ának l) pontja, 23/B. §-a, 31/C. §-a, 37/B. § (4) bekezdése, 48. §-ának (8) bekezdése, 164. §-ának (2) bekezdése, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése, 210/A. §-a és 211. §-ának (3) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet [14. cikk, 16–18. cikk, 21. cikk, 26–27. cikk, 36. cikk, 41. cikk (2) bekezdés, 43. cikk, 48. cikk (3) bekezdés, 61. cikk],
+- h) 14/A. §-a, 16. § n) pontja, 23/B. § (1) bekezdés d) pontja, 31/C. § (1) bekezdés g) pontja, 31/C. § (2) bekezdés e) pontja, 31/C. § (5) bekezdése, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, és 211. § (3) bekezdés c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
