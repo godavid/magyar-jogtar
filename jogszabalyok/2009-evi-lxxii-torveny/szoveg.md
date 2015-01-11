@@ -15,6 +15,8 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 
 (3) Bántalmazó az a cselekvőképes hozzátartozó, aki a hozzátartozók közötti erőszakot megvalósítja, vagy akire tekintettel a hozzátartozók közötti erőszakot más megvalósítja, feltéve, hogy ezzel a bántalmazó egyetért.
 
+(3a) Az Európai Unió valamely tagállamában elrendelt védelmi intézkedésnek a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 606/2013/EU rendelet) alapján Magyarországon történő elismerése és végrehajtása iránti eljárásban a (2) bekezdésben foglalt bántalmazotton a 606/2013/EU rendelet szerinti védett személyt, a (3) bekezdés szerinti bántalmazón a 606/2013/EU rendelet szerinti veszélyeztető személyt is érteni kell.
+
 (4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott kiskorút.
 
 (5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk.-ban meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt élettársat, a bejegyzett élettársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.
@@ -88,7 +90,7 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 
 (5) Ugyanazon bántalmazóval szemben ugyanaz a bántalmazott csak akkor kérheti újból ideiglenes megelőző távoltartás, illetve megelőző távoltartás elrendelését, ha elrendelésük e törvényben meghatározott feltételei ismételten megvalósulnak.
 
-(6) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat meghozatalakor a rendőrség, illetve a bíróság tájékoztatja a bántalmazót a lakóhelyén és környékén igénybe vehető éjszakai szállást nyújtó intézmények helyéről, címéről és az igénybevétel feltételeiről.
+(6) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat meghozatalakor a rendőrség, illetve a bíróság tájékoztatja a bántalmazót a lakóhelyén és környékén igénybe vehető éjszakai szállást nyújtó intézmények helyéről, címéről és az igénybevétel feltételeiről, valamint a bántalmazottat a 606/2013/EU rendelet szerinti tanúsítvány kiállításának lehetőségéről és feltételeiről.
 
 (7) Az ideiglenes megelőző távoltartás, illetve a megelőző távoltartás a hatályát veszti, ha a bántalmazó ellen indított büntetőeljárásban a bíróság távoltartást rendel el.
 
@@ -109,11 +111,15 @@ alapján rendelheti el.
 
 (4) Az ideiglenes megelőző távoltartást a (3) bekezdésben foglalt esetben a rendőrség 72 órára rendeli el.
 
+(5) A rendőrség a bántalmazott kérelmére a 606/2013/EU rendelet 5. cikke szerinti tanúsítványt (a továbbiakban: védelmi tanúsítvány) állít ki.
+
 ### Az elintézési határidő
 
 7. § (1) A rendőrség az ideiglenes megelőző távoltartó határozatot haladéktalanul, a helyszínen köteles meghozni. Ha a rendőrség az eljárása során a bántalmazóval szemben az előállítás rendőri intézkedést alkalmazza, a rendőrség a határozatot legkésőbb az előállítás időtartamának lejártáig hozza meg.
 
-(2) A rendőrség az ideiglenes megelőző távoltartás elrendelésével egyidejűleg az ideiglenes megelőző távoltartó határozat egyidejű megküldésével, az arra illetékes járásbíróságnál kezdeményezi a megelőző távoltartás elrendelését.
+(1a) A rendőrség a védelmi tanúsítványt helyszíni intézkedés esetén a helyszínen, vagy ha annak feltételei nem adottak, a helyszíni eljárás időpontjától számított legkésőbb 12 órán belül állítja ki. Ha a rendőrség az eljárása során a bántalmazóval szemben az előállítás rendőri intézkedést alkalmazza, a rendőrség a védelmi tanúsítványt az ideiglenes megelőző távoltartásról szóló határozat meghozatalával egyidejűleg állítja ki.
+
+(2) A rendőrség az ideiglenes megelőző távoltartás elrendelésével egyidejűleg az ideiglenes megelőző távoltartó határozat, illetve a védelmi tanúsítvány egyidejű megküldésével, az arra illetékes járásbíróságnál kezdeményezi a megelőző távoltartás elrendelését.
 
 ### Az ideiglenes megelőző távoltartó határozat
 
@@ -130,11 +136,13 @@ alapján rendelheti el.
 - g) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozat a bántalmazó más jogszabály vagy szerződés szerinti kötelezettség alapján fennálló tartási, valamint a bántalmazottal közösen használt ingatlan fenntartására vonatkozó kötelezettségeit nem érinti,
 - h) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozatban előírt kötelezettségek megszegése szabálysértést valósít meg.
 
-### Az ideiglenes megelőző távoltartó határozat közlése
+### Az ideiglenes megelőző távoltartó határozat és a védelmi tanúsítvány közlése
 
 9. § (1) Az ideiglenes megelőző távoltartást elrendelő határozatot a bántalmazóval és a bántalmazottal közölni kell, és azt részükre át kell adni, illetőleg a lehető legrövidebb úton kézbesíteni kell. Megjelölt cím hiányában a határozat a rendőrségen átvehető.
 
 (2) Ha a bántalmazó a határozatot a rendőrségen nem veszi át, a határozatot a meghozatalát követő harmadik napon közöltnek kell tekinteni. E határidő elmulasztása ellen a Ket.-ben meghatározottak szerint igazolásnak van helye.
+
+(2a) A rendőrség a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést az (1) és (2) bekezdésben foglaltak szerint közli.
 
 (3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt állandó lakóhelye szerinti gyámhatóságnak is megküldi.
 
@@ -146,7 +154,7 @@ alapján rendelheti el.
 
 ### Felvilágosítás
 
-11. § A rendőrség a Ket. 5. §-ának (2) bekezdésében írt rendelkezésen túl az eljárás megindításakor köteles a bántalmazott részére felvilágosítást adni az áldozatsegítő, a szociális és jogi segítségnyújtó szervekről, szervezetekről és intézményekről, valamint a civil segítő szervezetekről, továbbá a rendelkezésre álló pénzbeli segítségnyújtási lehetőségekről.
+11. § A rendőrség a Ket. 5. §-ának (2) bekezdésében írt rendelkezésen túl az eljárás megindításakor köteles a bántalmazott részére felvilágosítást adni az áldozatsegítő, a szociális és jogi segítségnyújtó szervekről, szervezetekről és intézményekről, a civil segítő szervezetekről, valamint a rendelkezésre álló pénzbeli segítségnyújtási lehetőségekről, továbbá a bántalmazott kérelmére segítséget nyújtani a védelmi tanúsítvány más tagállamban történő felhasználásával összefüggésben.
 
 ### Az ideiglenes megelőző távoltartó határozat bírósági felülvizsgálata
 
@@ -161,6 +169,17 @@ alapján rendelheti el.
 (5) A bíróság a közigazgatási határozatot megváltoztathatja.
 
 (6) Amennyiben a bíróság tudomást szerez arról, hogy ugyanazon hozzátartozók közötti erőszak miatt ideiglenes megelőző távoltartó határozat bírói felülvizsgálatára irányuló nemperes eljárás és a megelőző távoltartás elrendelésére irányuló nemperes eljárás is folyamatban van, ezen eljárásokat a megelőző távoltartás elrendelésére irányuló nemperes eljárást folytató bíróságon kell egyesíteni.
+
+(7) Ha a bántalmazott részére a rendőrség az ideiglenes megelőző távoltartásról szóló határozata alapján védelmi tanúsítványt állított ki, a bántalmazott, vagy a bántalmazó erre irányuló kérelmére
+
+- a) a védelmi tanúsítvány saját hatáskörben való kijavítása, kiegészítése vagy visszavonása esetén ennek tényéről,
+- b) a (3) bekezdésben foglalt esetben a végrehajtás felfüggesztésének tényéről,
+- c) az (5) bekezdésben foglalt esetben az ideiglenes megelőző távoltartás megváltozásáról,
+- d) a 16. § (4) és (5) bekezdésében meghatározott esetben az ideiglenes megelőző távoltartás hatályának megszűnéséről
+
+a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
+
+(8) A (7) bekezdés szerinti tanúsítványt szóban előterjesztett kérelem esetén azonnal, írásbeli kérelem esetén a kérelem beérkezésétől számított 12 órán belül kell kiállítani.
 
 ### Megelőző távoltartás
 
@@ -185,8 +204,10 @@ alapján rendelheti el.
 - a) az eljárás lefolytatására irányuló kérelmet,
 - b) a kérelem előterjesztésének indokait,
 - c) a rövid tényállást és az előzményeket,
-- d) a kérelmező nevét, lakóhelyét, valamint
+- d) a kérelmező nevét, lakóhelyét,
 - e) a bántalmazó azonosítására és elérhetőségére vonatkozó, rendelkezésére álló adatokat.
+
+(3a) Ha a bántalmazott védelmi tanúsítvány kiállítását is kéri, a (3) bekezdés szerinti kérelemben erről nyilatkozni kell.
 
 (4) A kérelmet írásban lehet előterjeszteni, vagy az illetékes bíróságon jegyzőkönyvbe lehet mondani.
 
@@ -212,7 +233,11 @@ alapján rendelheti el.
 
 (2a) A bíróság határozata előzetesen végrehajtható. A bíróság határozatában arra is figyelmezteti a bántalmazót, hogy a távoltartó határozat szabályainak megszegése elzárással is büntethető szabálysértést valósít meg.
 
+(2b) A megelőző távoltartás elrendelésével egyidejűleg – a bántalmazott erre irányuló kérelmére – a bíróság védelmi tanúsítványt állít ki.
+
 (3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén faxon vagy elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
+
+(3a) A bíróság a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést a (3) bekezdésben foglaltak szerint közli.
 
 (4) A rendőrség által elrendelt ideiglenes megelőző távoltartás hatálya a bíróság által elrendelt megelőző távoltartás hatályának beálltával megszűnik.
 
@@ -226,7 +251,43 @@ alapján rendelheti el.
 
 (9) A másodfokú bíróság a fellebbezést az iratok alapján 3 munkanapon belül bírálja el. Az elsőfokú határozat hatályon kívül helyezésének a Pp. 252. § (2) és (3) bekezdése alapján nincs helye. A másodfokú bíróság határozatát a rendőrség útján közli a felekkel.
 
+(10) Ha a bántalmazott részére az elsőfokú bíróság a megelőző távoltartás elrendelése mellett védelmi tanúsítványt állított ki, a bántalmazott, illetve a bántalmazó erre irányuló kérelmére
+
+- a) a védelmi tanúsítvány saját hatáskörben való kijavítása, kiegészítése vagy visszavonása esetén ennek tényéről,
+- b) ha a fellebbezés folytán a másodfokú bíróság a megelőző távoltartást elrendelő határozatot megváltoztatta vagy hatályon kívül helyezte, ennek tényéről
+
+a védelmi tanúsítványt kiállító elsőfokú bíróság a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
+
 17. § Ha polgári perben ideiglenes megelőző távoltartásra okot adó körülményt észlel a bíróság, az e tényre vonatkozó adatokat – soron kívül – közli a rendőrséggel.
+
+### A más tagállamban elrendelt védelmi intézkedés alapján előterjesztett megkeresésekkel kapcsolatos eljárás
+
+17/A. § (1) A más tagállamban elrendelt védelmi intézkedésnek a 606/2013/EU rendelet 4. cikke alapján Magyarországon kezdeményezett elismerésére és végrehajtására a megelőző távoltartás szabályait kell megfelelően alkalmazni az e §-ban foglalt eltérésekkel azzal, hogy kérelemnek a rendelet 4. cikke szerinti megkeresést (a továbbiakban e § alkalmazásában: megkeresés) kell tekinteni.
+
+(2) A megkeresést a bíróság megvizsgálja és 3 munkanapon belül
+
+- a) hiánypótlásra hívja fel a bántalmazottat, ha a megkeresés nem felel meg a 606/2013/EU rendeletben előírtaknak,
+- b) a megkeresés alapjául szolgáló védelmi intézkedésnek a 606/2013/EU rendelet 11. cikke szerinti megváltoztatásával megelőző távoltartást rendel el,
+- c) a megkeresés alapjául szolgáló védelmi intézkedés tartalmával egyezően megelőző távoltartást rendel el, vagy
+- d) a megkeresést a bántalmazó erre irányuló kérelmére a 606/2013/EU rendelet 13. cikkének (1) bekezdése alapján elutasítja.
+
+(3) Ha a bántalmazott a (2) bekezdés a) pontjában foglalt felhívásnak nem tesz eleget, a bíróság a megkeresést elutasítja. Az elutasított megkeresés ismételten előterjeszthető.
+
+(4) A bíróság a (2) bekezdés a) és c) pontjában foglalt esetben nem, a (2) bekezdés b) és d) pontjában foglalt esetben csak szükség szerint kísérli meg a felek személyes meghallgatását.
+
+(5) A bíróság a megelőző távoltartást a megkeresés alapjául szolgáló védelmi intézkedésben meghatározott időre, de legfeljebb 12 hónapra rendeli el.
+
+(6) A bántalmazott és a bántalmazó a bíróság (2) bekezdés d) pontja és (3) bekezdése szerinti döntésével, valamint a (2) bekezdés b) pontja szerinti határozatának a megkeresés alapjául szolgáló védelmi intézkedést megváltoztató részével szemben fellebbezéssel élhet.
+
+17/B. § (1) A 606/2013/EU rendelet 14. cikkének (2) bekezdése szerinti tanúsítványt (a továbbiakban e § alkalmazásában: tanúsítvány) a tanúsítvány alapjául szolgáló védelmi intézkedés alapján a 17/A. § (2) bekezdés b) vagy c) pontja szerinti megelőző távoltartást elrendelő bírósághoz kell benyújtani.
+
+(2) A bíróság a tanúsítvány benyújtását követő 3 munkanapon belül a megelőző távoltartást
+
+- a) elrendelő határozatát megváltoztatja, ha a tanúsítvány értelmében a megelőző távoltartás alapjául szolgáló védelmi intézkedést vagy annak végrehajtását az eredeti eljárás helye szerinti tagállamban módosították,
+- b) felfüggeszti, ha a tanúsítvány értelmében a megelőző távoltartás alapjául szolgáló védelmi intézkedést vagy annak végrehajtását az eredeti eljárás helye szerinti tagállamban felfüggesztették, vagy
+- c) elrendelő határozatát hatályon kívül helyezi, ha a tanúsítvány értelmében a megelőző távoltartás alapjául szolgáló védelmi intézkedést vagy az annak alapján a 606/2013/EU rendelet 5. cikke szerint kiállított tanúsítványt az eredeti eljárás helye szerinti tagállamban visszavonták.
+
+(3) A bíróság (2) bekezdésben foglalt döntésével szemben fellebbezésnek nincs helye.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -235,6 +296,8 @@ alapján rendelheti el.
 18. § (1) Felhatalmazást kap a kormány, hogy rendeletben kijelölje a családvédelmi koordinációért felelős szervet.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait rendeletben állapítsa meg.
+
+18/A. § E törvény 1. § (3a) bekezdése, 6. § (5) bekezdése, 7. § (1a) bekezdése, 9. § (2a) bekezdése, 12. § (7) és (8) bekezdése, 14. § (3a) bekezdése, 16. § (2b), (3a) és (10) bekezdése, valamint 17/A. és 17/B. §-a a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosuló jogszabályok
 
