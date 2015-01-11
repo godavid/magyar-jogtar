@@ -960,7 +960,8 @@ esetében.
 - s) az áldozatsegítés tárgyában hozott közigazgatási döntés bírósági felülvizsgálata,
 - t) a belföldi végrehajthatóság megállapítása iránti eljárás a 44/2001/EK tanácsi rendelet, a 2201/2003/EK tanácsi rendelet és a 4/2009/EK tanácsi rendelet alapján,
 - u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás,
-- v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos kérelem központi hatósághoz történő továbbítása iránti eljárás.
+- v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos kérelem központi hatósághoz történő továbbítása iránti eljárás,
+- z) a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 6. § (5) bekezdése, 12. § (7) bekezdése, 16. § (2b) bekezdése és 16. § (10) bekezdése szerinti tanúsítvány kiállítása, valamint 17/A–17/B. §-a szerinti bírósági eljárás.
 
 (2) Illetékmentes a büntető ügyekben:
 
@@ -1577,6 +1578,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) Az 57. § (1) bekezdés u) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezést állapít meg.
+
+(4) Az 57. § (1) bekezdés z) pontja a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet
 
