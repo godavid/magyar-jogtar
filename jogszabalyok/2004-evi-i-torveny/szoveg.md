@@ -382,6 +382,10 @@ szabható ki.
 
 (5) A szakszövetség szabályzataiban köteles a környezet- és természetvédelmi, valamint a közbiztonsági követelményeket, amennyiben pedig a sporttevékenységben állatok is részt vesznek, az állatok védelméről és kiméletéről szóló 1998. évi XXVIII. törvényben foglalt előírásokat is érvényesíteni.
 
+(6) A küzdősportok és a kontakt harcművészeti ágak szakszövetségei kötelesek a 18 év alatti sportolók egészségének és testi épségének védelme érdekében a sportrendezvény-szervezés feltételeit és a versenyrendszerben vagy a szakszövetség versenynaptárában egyébként szereplő versenyen vagy szervezett edzésen alkalmazandó sport-, illetve védőfelszerelések, továbbá a 18 éven aluliak versenyein kötelező orvosi jelenlét követelményét és annak részletes szabályait versenyszabályzatban rögzíteni.
+
+(7) A versenyen, mérkőzésen jelen lévő, a szakszövetség képviseletében – a versenyszabályzatban foglaltak alapján – eljáró sportszakember megtiltja annak a sportolónak a küzdősportok és a kontakt harcművészeti ágak versenyrendszerében vagy a szakszövetség versenynaptárában egyébként szereplő versenyen való részvételét, aki nem tesz eleget a szakszövetség versenyszabályzatának a (6) bekezdésben előírt sport-, illetve védőfelszerelések használatára vonatkozó szabályainak.
+
 24. § (1) A szakszövetség szervezeti felépítésére a Civil tv. és a Polgári Törvénykönyv előírásait a következő eltérésekkel kell alkalmazni:
 
 - a) a szakszövetség legfelsőbb szerve a tagok képviselőiből álló közgyűlés, a szakszövetség alapszabályának rendelkezése alapján a közgyűlés hatáskörét küldöttgyűlés is gyakorolhatja, a küldöttek számát és a küldöttválasztás módját az alapszabályban kell megállapítani;
@@ -963,7 +967,8 @@ felelős szakmai tagozatok működnek.
 - g) az a sportszövetség, amely az e törvényben és a sport területén képesítéshez kötött tevékenységek jegyzékéről rendelkező kormányrendeletben meghatározott, képzéssel, szakképzéssel, továbbképzéssel összefüggő kötelezettségeinek nem tesz eleget,
 - h) az a sportszövetség, amely nem rendelkezik a sportágára vonatkozóan stratégiai fejlesztési koncepcióval,
 - i) az a szervezet, amely a sportpolitikáért felelős miniszter által a látvány-csapatsport támogatását biztosító szabályokról szóló kormányrendeletben meghatározottak szerinti támogatásból kizárás hatálya alatt áll,
-- j) az a sportszövetség, amelyik az (5) bekezdés szerinti kötelezettségét határidőre nem teljesíti.
+- j) az a sportszövetség, amelyik az (5) bekezdés szerinti kötelezettségét határidőre nem teljesíti,
+- k) az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott szabályzatokkal.
 
 (3) A támogatást nyújtó a támogatási szerződéstől köteles elállni, ha a támogatott szervezet:
 
@@ -1131,6 +1136,13 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 (3) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó versenyrendszer működtetése esetén a labdarúgás sportág tekintetében a szakszövetség, a sportági szövetség, valamint a versenyrendszerben részt vevő sportszervezet szakirányú képesítéssel rendelkező biztonsági felelőst köteles alkalmazni.
 
 (4) Kizárólag a szakszövetség, vagy az országos sportági szövetség előzetes írásbeli hozzájárulásával tartható olyan sportrendezvény, amelynek résztvevői a versenyzés során fokozott veszéllyel járó tevékenységet folytatnak (veszélyes üzem). A szakszövetség, vagy az országos sportági szövetség a hozzájárulását nem tagadhatja meg, ha a sportrendezvény lebonyolítása a sportág hazai és nemzetközi versenyszabályzatában, valamint egyéb szabályzataiban meghatározott biztonsági előírásoknak megfelel, és megtartása a sportág versenyrendszerének (bajnokság) működtetését nem veszélyezteti.
+
+(5) 14. életévét be nem töltött személy részvételével küzdősportban, valamint kontakt harcművészeti ágakban nem szervezhető szabadidős jellegű sportrendezvénynek minősülő, nem sportszövetségi versenyrendszerben vagy nem a sportszövetség versenynaptárában egyébként szereplő versenyen, mérkőzés keretében, az ellenfél közvetlen fizikai legyőzésére irányuló olyan mozgásforma, amely során a küzdő felek egymás testének vagy a testnek a szabadidős tevékenység során használt tárggyal való ütközése eredményeként kialakuló sérülésveszély fokozottan fennáll. 14. életévét betöltött, de 18. életévét be nem töltött személy részvételével akkor szervezhető küzdősportban, valamint kontakt harcművészeti ágakban szabadidős jellegű sportrendezvénynek minősülő, nem sportszövetségi versenyrendszerben vagy nem a sportszövetség versenynaptárában egyébként szereplő versenyen, mérkőzés keretében, az ellenfél közvetlen fizikai legyőzésére irányuló olyan mozgásforma, amely során a küzdő felek egymás testének vagy a testnek a szabadidős tevékenység során használt tárggyal való ütközése eredményeként kialakuló sérülésveszély fokozottan fennáll, ha a fokozott sérülésveszély megelőzésére alkalmas sport-, illetve védőfelszerelések használata, valamint törvényes képviselőjének írásos hozzájárulása a részvételhez biztosított.
+
+(6) E rendelkezés alkalmazásában
+
+- a) küzdősportnak minősül az a sporttevékenység, valamint
+- b) kontakt harcművészeti ágnak minősül az a harcművészeti ág, amelyben a testnek test elleni, vagy a testnek a sporttevékenység során használt tárgy elleni, fizikai erőkifejtéssel járó tevékenysége a sportág szabályai szerint a győzelem elérésének eszköze, és amelynek közvetlen célja a másik személy fizikai legyőzése.
 
 ### A szervező felelőssége
 
@@ -1457,7 +1469,7 @@ adatokat továbbítja.
 - i) közterület: a mindenki számára korlátozás nélkül igénybe vehető terület, út, utca, tér,
 - j) nyilvános hely: az olyan épület, építmény vagy a közterületnek sportrendezvény megtartása céljából lezárt része, ahová a sportrendezvény szervezője által meghatározott feltételek mellett bárki bemehet vagy ott tartózkodhat,
 - k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és a főiskolai-egyetemi sport területén: a szervezet közhasznúnak minősül, és legalább 7 megyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
-- l) speciális világjátékok: a Paralimpia, a Speciális Olimpia, a Siketlimpia és a Szervátültetettek Világjátékai,
+- l)
 - m) sportiskola: az a köznevelési intézmény, jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány, amely az alábbiak szerint utánpótlás-nevelési feladatokat lát el vagy közreműködik azok ellátásában:
   - ma) köznevelési típusú sportiskola: az a köznevelésről szóló törvény hatálya alá tartozó, évfolyamos vagy korcsoportos sportági képzést biztosító köznevelési intézmény, amely a helyi pedagógiai programját – az országos sportági szakszövetség, illetve országos sportági szövetség vagy fogyatékosok országos sportszövetségének szakmai javaslata alapján, az országos sportági szakszövetség, az országos sportági szövetség, vagy a fogyatékosok országos sportszövetsége és a köznevelési típusú sportiskola közötti együttműködési megállapodásban foglaltakra is figyelemmel – sportiskolai kerettanterv alapján készíti el, és biztosítja a testnevelés tantárgy emelt szintű oktatását, valamint a helyi pedagógiai programja összeállítása során figyelemmel van a sportolók felkészítési és versenyeztetési tevékenységére, továbbá a sportági programok megvalósításával kapcsolatos felkészítéssel és versenyeztetéssel összefüggő feladatait jogi személy nonprofit gazdasági társasággal, sportegyesülettel, sportvállalkozással vagy utánpótlás-nevelés fejlesztését végző alapítvánnyal fennálló együttműködési megállapodás alapján végzi,
   - mb) egyesületi jellegű sportiskola: az a korcsoportos sportági képzést biztosító jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány (utánpótlás akadémia), amely köznevelési intézménnyel, a MOB-bal, országos sportági szakszövetséggel, országos sportági szövetséggel, vagy fogyatékosok országos sportszövetségével kötött együttműködési megállapodás alapján vesz részt az utánpótlás-nevelési feladatok ellátásban, sportolók magas szintű felkészítésében és versenyeztetésében, vagy közreműködik az utánpótlás-nevelési feladat-ellátás feltételeinek biztosításában.
@@ -1489,6 +1501,8 @@ adatokat továbbítja.
 78/A. § (1) A sportról szóló 2004. évi I. törvény módosításáról szóló 2011. évi LIV. törvény (a továbbiakban: módosító törvény) 2. §-ával megállapított 62. § (1) bekezdése szerinti javaslattétel szabályait első alkalommal a módosító törvény hatálybalépését követően, a Nemzet Sportolói létszáma 12 fő alá csökkenése esetén kell alkalmazni.
 
 (2)
+
+78/B. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 23. § (6) bekezdése szerinti rendelkezések versenyszabályzatban rögzítésére az országos sportági szakszövetség és az országos sportági szövetség a rendelkezés hatálybalépésétől számított 45 napon belül köteles.
 
 ### Felhatalmazó rendelkezések
 
