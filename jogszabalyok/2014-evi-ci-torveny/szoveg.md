@@ -22,7 +22,35 @@ a szociális igazgatásról és szociális ellátásokról szóló 1993. évi II
 
 #### 3. A sportról szóló 2004. évi I. törvény módosítása
 
-55–59. §
+55. § A sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 23. §-a a következő (6) és (7) bekezdésekkel egészül ki:
+
+„(6) A küzdősportok és a kontakt harcművészeti ágak szakszövetségei kötelesek a 18 év alatti sportolók egészségének és testi épségének védelme érdekében a sportrendezvény-szervezés feltételeit és a versenyrendszerben vagy a szakszövetség versenynaptárában egyébként szereplő versenyen vagy szervezett edzésen alkalmazandó sport-, illetve védőfelszerelések, továbbá a 18 éven aluliak versenyein kötelező orvosi jelenlét követelményét és annak részletes szabályait versenyszabályzatban rögzíteni.
+
+(7) A versenyen, mérkőzésen jelen lévő, a szakszövetség képviseletében – a versenyszabályzatban foglaltak alapján – eljáró sportszakember megtiltja annak a sportolónak a küzdősportok és a kontakt harcművészeti ágak versenyrendszerében vagy a szakszövetség versenynaptárában egyébként szereplő versenyen való részvételét, aki nem tesz eleget a szakszövetség versenyszabályzatának a (6) bekezdésben előírt sport-, illetve védőfelszerelések használatára vonatkozó szabályainak.”
+
+56. § Az Stv. 57. § (2) bekezdése a következő k) ponttal egészül ki:
+
+(Nem kaphat állami sportcélú támogatást:)
+
+„k) az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott szabályzatokkal.”
+
+57. § Az Stv. 65. §-a a következő (5) és (6) bekezdésekkel egészül ki:
+
+„(5) 14. életévét be nem töltött személy részvételével küzdősportban, valamint kontakt harcművészeti ágakban nem szervezhető szabadidős jellegű sportrendezvénynek minősülő, nem sportszövetségi versenyrendszerben vagy nem a sportszövetség versenynaptárában egyébként szereplő versenyen, mérkőzés keretében, az ellenfél közvetlen fizikai legyőzésére irányuló olyan mozgásforma, amely során a küzdő felek egymás testének vagy a testnek a szabadidős tevékenység során használt tárggyal való ütközése eredményeként kialakuló sérülésveszély fokozottan fennáll. 14. életévét betöltött, de 18. életévét be nem töltött személy részvételével akkor szervezhető küzdősportban, valamint kontakt harcművészeti ágakban szabadidős jellegű sportrendezvénynek minősülő, nem sportszövetségi versenyrendszerben vagy nem a sportszövetség versenynaptárában egyébként szereplő versenyen, mérkőzés keretében, az ellenfél közvetlen fizikai legyőzésére irányuló olyan mozgásforma, amely során a küzdő felek egymás testének vagy a testnek a szabadidős tevékenység során használt tárggyal való ütközése eredményeként kialakuló sérülésveszély fokozottan fennáll, ha a fokozott sérülésveszély megelőzésére alkalmas sport-, illetve védőfelszerelések használata, valamint törvényes képviselőjének írásos hozzájárulása a részvételhez biztosított.
+
+(6) E rendelkezés alkalmazásában
+
+a) küzdősportnak minősül az a sporttevékenység, valamint
+
+b) kontakt harcművészeti ágnak minősül az a harcművészeti ág,
+
+amelyben a testnek test elleni, vagy a testnek a sporttevékenység során használt tárgy elleni, fizikai erőkifejtéssel járó tevékenysége a sportág szabályai szerint a győzelem elérésének eszköze, és amelynek közvetlen célja a másik személy fizikai legyőzése.”
+
+58. § Az Stv. Hatályba léptető és átmeneti rendelkezések alcíme a következő 78/B. §-sal egészül ki:
+
+„78/B. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 23. § (6) bekezdése szerinti rendelkezések versenyszabályzatban rögzítésére az országos sportági szakszövetség és az országos sportági szövetség a rendelkezés hatálybalépésétől számított 45 napon belül köteles.”
+
+59. § Hatályát veszti az Stv. 77. § l) pontja.
 
 #### 4. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
