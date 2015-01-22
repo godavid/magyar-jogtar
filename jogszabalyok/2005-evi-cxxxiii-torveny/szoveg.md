@@ -443,7 +443,7 @@ meg kell semmisíteni.
 - k) kezdeményezi szabványok kiadását;
 - l) valamennyi személy- és vagyonőr tekintetében elbírálja az e törvény 26–29. §-aiban meghatározott jogosultságok gyakorlásával szemben benyújtott, az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott panaszt,
 - m) tagjai támogatására – a kamara önkormányzati szabályzataiban meghatározott szabályok szerint – segélyalapot hoz létre és használ fel;
-- n) kormányrendeletben meghatározott eljárásrendben részt vesz a rendészetért felelős miniszternek a minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésében.
+- n) kormányrendeletben meghatározott eljárásrendben részt vesz a Kormány minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésében.
 - o)
 
 (2) Az (1) bekezdés g) pontja szerinti névjegyzékből és nyilvántartásból adattovábbításra irányuló kérelmet teljesíteni nem lehet.
@@ -816,9 +816,9 @@ meg kell semmisíteni.
 - a) 1. § (2) bekezdés b)–d) pontjában meghatározott, valamint
 - b) 1. § (2) bekezdés b)–d) pontjában meghatározott tevékenységek szervezésével és irányításával összefüggő
 
-tevékenységre (a továbbiakban együtt: vagyonvédelmi szolgáltatási tevékenység) irányuló közbeszerzési eljárásban a rezsióradíj mértéke a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 71. §-a szerint önállóan értékelésre kerül, aránytalanul alacsony árajánlatnak minősül, és köteles az ajánlatkérő a Kbt. 69. §-a szerint indokolást kérni, ha az ajánlattevő által alkalmazott rezsióradíj alacsonyabb a rendészetért felelős miniszter rendeletében megállapított minimális vagyonvédelmi szolgáltatási rezsióradíj mértékénél.
+tevékenységre (a továbbiakban együtt: vagyonvédelmi szolgáltatási tevékenység) irányuló közbeszerzési eljárásban a rezsióradíj mértéke a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 71. §-a szerint önállóan értékelésre kerül, aránytalanul alacsony árajánlatnak minősül, és köteles az ajánlatkérő a Kbt. 69. §-a szerint indokolást kérni, ha az ajánlattevő által alkalmazott rezsióradíj alacsonyabb a Kormány rendeletében megállapított minimális vagyonvédelmi szolgáltatási rezsióradíj mértékénél.
 
-(2) Az (1) bekezdésen kívüli esetekben az ajánlatkérő a Kbt. 69. § (1) bekezdése szerinti indokolás kérése keretében köteles arra vonatkozóan is tájékoztatást kérni, hogy az aránytalanul alacsony árat benyújtó ajánlattevő ajánlatában milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes költségeket milyen összeggel és módon vett figyelembe. Az ajánlatkérő az ajánlattevő által nyújtott indokolás gazdasági ésszerűséggel való összeegyeztethetőségének vizsgálata során figyelembe veszi a rendészetért felelős miniszter rendeletében megállapított minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, és ha az ajánlatban alkalmazott rezsióradíj annál alacsonyabb, különös figyelemmel vizsgálja a Kbt. 69. § (6) bekezdése szerinti körülmény fennállását.
+(2) Az (1) bekezdésen kívüli esetekben az ajánlatkérő a Kbt. 69. § (1) bekezdése szerinti indokolás kérése keretében köteles arra vonatkozóan is tájékoztatást kérni, hogy az aránytalanul alacsony árat benyújtó ajánlattevő ajánlatában milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes költségeket milyen összeggel és módon vett figyelembe. Az ajánlatkérő az ajánlattevő által nyújtott indokolás gazdasági ésszerűséggel való összeegyeztethetőségének vizsgálata során figyelembe veszi a Kormány rendeletében megállapított minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, és ha az ajánlatban alkalmazott rezsióradíj annál alacsonyabb, különös figyelemmel vizsgálja a Kbt. 69. § (6) bekezdése szerinti körülmény fennállását.
 
 ### VII. Fejezet — VEGYES ÉS ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -860,9 +860,14 @@ lépnek hatályba.
 
 (3)
 
-76. § Felhatalmazást kap a Kormány arra, hogy a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés esetén alkalmazandó minimális vagyonvédelmi szolgáltatási rezsióradíj elemeit, a rendészetért felelős miniszternek a minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésére vonatkozó eljárás szabályait rendelettel állapítsa meg.
+76. § Felhatalmazást kap a Kormány arra, hogy
 
-77. § Felhatalmazást kap a rendészetért felelős miniszter arra, hogy a tárgyévre vonatkozó minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét rendelettel állapítsa meg.
+- a) a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés esetén alkalmazandó minimális vagyonvédelmi szolgáltatási rezsióradíj elemeit,
+- b) a tárgyévre vonatkozó minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, valamint ezen szabályozás előkészítésére vonatkozó eljárás szabályait,
+
+rendelettel állapítsa meg.
+
+77. §
 
 78. § Felhatalmazást kap a rendészetért felelős miniszter, hogy
 

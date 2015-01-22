@@ -30,11 +30,51 @@ a központi címregiszter létrehozásával összefüggő, valamint egyes igazga
 
 #### 6. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-16–19. §
+16. § (1) A közterület-felügyeletről szóló 1999. évi LXIII. törvény (a továbbiakban: Kftv.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A települési önkormányzat
+
+a) a közterületi rend és tisztaság védelméről, a tömegközlekedési eszközök használati rendjének fenntartásáról, az önkormányzati vagyon védelméről közterület-felügyelet vagy közterület-felügyelő útján,
+
+b) a várakozási közszolgáltatás nyújtásáról közterület-felügyelet vagy közterület-felügyelő útján is
+
+gondoskodhat.”
+
+(2) A Kftv. 1. § (4) bekezdése a következő i) ponttal egészül ki:
+
+(A felügyelet feladata:)
+
+„i) a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületen a közúti járművel történő várakozási közszolgáltatás (a továbbiakban: parkolás) biztosítása, valamint a parkolásért járó ellenérték megfizetésének ellenőrzése és a fizetés elmaradása esetére előírt jogkövetkezmények alkalmazása.”
+
+17. § A Kftv. 10. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek esetében a felügyelet vagy felügyelő a díjfizetési kötelezettség teljesítésének ellenőrzésére, a díj- és pótdíjkövetelés érvényesítésére a jármű rendszámát, a természetes személy üzemben tartó nevét, születési idejét és lakcímét, a nem természetes személy üzemben tartó megnevezését és székhelyének, telephelyének címét, a kedvezményre jogosító okirat sorszámát
+
+a) a díj megfizetése esetén az ellenőrzésig,
+
+b) a díjfizetés elmulasztása esetén a díj- és pótdíjfizetési felszólítás megküldése céljából a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 15/D. § (1) bekezdés szerinti jogvesztő határidő eredménytelen elteltének időpontjáig, a várakozási díj- és pótdíjfizetési kötelezettség nem teljesítése esetén a Kkt. 15/D. § (3) bekezdése szerinti eljárás céljából az eljárás jogerős befejezéséig
+
+kezelheti.”
+
+18. § A Kftv. 15. §-a helyébe a következő rendelkezés lép:
+
+„15. § A felügyelő – az 1. § (4) bekezdés i) pontjában meghatározott feladata kivételével – a jogszabályban meghatározott feladatai teljesítése során vagy egyéb jogszerű intézkedés céljából az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedéseket és kényszerítő eszközöket alkalmazhatja.”
+
+19. § A Kftv. 17/A. §-ában a „közúti közlekedésről szóló 1988. évi I. törvényben (a továbbiakban: Kkt.)” szövegrész helyébe a „Kkt.-ban” szöveg lép.
 
 #### 7. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-20–21. §
+20. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Knytv.) 19. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+
+[A nyilvántartásból igényelheti(k):]
+
+„h) a közterület-felügyelet
+
+ha) közúti közlekedéssel összefüggő feladati ellátása céljából a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat,
+
+hb) a várakozásidíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében megjelölt adatokat;”
+
+21. § A Knytv. 19. § (1) bekezdés e) pont eb) alpontjában és n) pontjában a „8/A. §” szövegrész helyébe „8/A. § (1) bekezdés” szöveg lép.
 
 #### 8. Az elektronikus aláírásról szóló 2001. évi XXXV. törvény módosítása
 
@@ -42,7 +82,24 @@ a központi címregiszter létrehozásával összefüggő, valamint egyes igazga
 
 #### 9. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló2005. évi CXXXIII. törvény módosítása
 
-23–25. §
+23. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: Szvmt.) 76. §-a helyébe a következő rendelkezés lép:
+
+„76. § Felhatalmazást kap a Kormány arra, hogy
+
+a) a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés esetén alkalmazandó minimális vagyonvédelmi szolgáltatási rezsióradíj elemeit,
+
+b) a tárgyévre vonatkozó minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, valamint ezen szabályozás előkészítésére vonatkozó eljárás szabályait,
+
+rendelettel állapítsa meg.”
+
+24. § Az Szvmt.
+
+- a) 38. § (1) bekezdés n) pontjában a „rendészetért felelős miniszternek a” szövegrész helyébe a „Kormány”,
+- b) 72/B. § (1) és (2) bekezdésében a „rendészetért felelős miniszter” szövegrész helyébe a „Kormány”
+
+szöveg lép.
+
+25. § Hatályát veszti az Szvmt. 77. §-a.
 
 #### 10. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
@@ -50,7 +107,21 @@ a központi címregiszter létrehozásával összefüggő, valamint egyes igazga
 
 27. §
 
-28. §
+28. § A Mötv. 16/A. §-a helyébe a következő rendelkezés lép:
+
+„16/A. § A helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozási (parkolási) közszolgáltatást
+
+a) a helyi önkormányzat,
+
+b) kizárólag e közszolgáltatási feladat ellátására alapított költségvetési szerv,
+
+c) 100%-os önkormányzati tulajdonban álló gazdasági társaság, továbbá e gazdasági társaság 100%-os tulajdonában álló gazdasági társaság,
+
+d) önkormányzati társulás, vagy
+
+e) a közterület-felügyelet
+
+láthatja el külön törvényben szabályozottak szerint.”
 
 29–31. §
 
@@ -72,7 +143,9 @@ a központi címregiszter létrehozásával összefüggő, valamint egyes igazga
 
 #### 11. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-41. §
+41. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 4. §-a a következő (7) bekezdéssel egészül ki.
+
+„(7) A segédfelügyelő önállóan jogosult a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek esetében a díjfizetési kötelezettség teljesítésének ellenőrzésére, a díj- és pótdíjkövetelés érvényesítésére.”
 
 #### 12. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló2013. évi L. törvény módosítása
 
