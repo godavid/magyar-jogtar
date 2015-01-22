@@ -77,6 +77,8 @@ kell érteni.
 
 (6) A segédfelügyelő kizárólag önvédelmi célból vegyi eszközt, rendőrbotot és szolgálati kutyát tarthat magánál, valamint önvédelmi célból testi kényszert alkalmazhat.
 
+(7) A segédfelügyelő önállóan jogosult a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek esetében a díjfizetési kötelezettség teljesítésének ellenőrzésére, a díj- és pótdíjkövetelés érvényesítésére.
+
 #### 4. Alkalmazási feltételek
 
 5. § (1) A rendészeti feladatokat ellátó személy, valamint személy- és vagyonőr az a magyar állampolgár – személy- és vagyonőr, hegyőr, mezőőr esetében a szabad mozgás és tartózkodás jogával rendelkező személy is – lehet, aki a tizennyolcadik életévét betöltötte, cselekvőképes, a feladata ellátásához e törvényben és jogszabályban előírt képesítési feltételekkel rendelkezik.

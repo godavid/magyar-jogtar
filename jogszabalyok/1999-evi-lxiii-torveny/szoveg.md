@@ -6,7 +6,10 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 ### I. Fejezet — A közterület-felügyelet jogállása, szervezete és feladata
 
-1. § (1) A közterületi rend és tisztaság védelméről, a tömegközlekedési eszközök használati rendjének fenntartásáról, az önkormányzati vagyon védelméről a települési önkormányzat közterület-felügyelet, illetőleg közterület-felügyelő útján gondoskodhat.
+1. § (1) A települési önkormányzat
+
+- a) a közterületi rend és tisztaság védelméről, a tömegközlekedési eszközök használati rendjének fenntartásáról, az önkormányzati vagyon védelméről közterület-felügyelet vagy közterület-felügyelő útján,
+- b) a várakozási közszolgáltatás nyújtásáról közterület-felügyelet vagy közterület-felügyelő útján is gondoskodhat.
 
 (2) Közterület-felügyeletet a községi, a városi képviselő-testület, a megyei jogú városi közgyűlés, a fővárosban – a helyi önkormányzatokról szóló törvény keretei között – a fővárosi kerületi képviselő-testület és a közgyűlés (a továbbiakban együtt: képviselő-testület) hozhat létre a polgármesteri (főpolgármesteri) hivatal belső szervezeti egységeként, önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként. Közterület-felügyeletet több önkormányzat társulásos formában is működtethet.
 
@@ -23,7 +26,8 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 - e) közreműködés az önkormányzati vagyon védelmében;
 - f) közreműködés a köztisztaságra vonatkozó jogszabályok végrehajtásának ellenőrzésében;
 - g) közreműködés állategészségügyi és ebrendészeti feladatok ellátásában;
-- h) a mozgásában korlátozott személy parkolási igazolvány jogszerű használatának és birtoklásának az ellenőrzése.
+- h) a mozgásában korlátozott személy parkolási igazolvány jogszerű használatának és birtoklásának az ellenőrzése;
+- i) a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületen a közúti járművel történő várakozási közszolgáltatás (a továbbiakban: parkolás) biztosítása, valamint a parkolásért járó ellenérték megfizetésének ellenőrzése és a fizetés elmaradása esetére előírt jogkövetkezmények alkalmazása.
 
 (5) A feladatkörében eljáró felügyelő hivatalos személy. A felügyelő az e törvényben meghatározott feladatkörében eljárva jogosult és köteles a közterületen ellenőrizni a jogszabályban előírt kötelezettségek megtartását, jogszabálysértés esetén eljárást kezdeményezni vagy az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedést megtenni. A felügyelőnek az e törvényben meghatározott tevékenység folytatására, valamint az intézkedésére való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja.
 
@@ -118,6 +122,11 @@ haladéktalanul törli.
 
 (2) A felügyelet jogosult az elszállított, a kerékbilinccsel rögzített, valamint a feltartóztatott jármű tulajdonosának (üzemben tartójának) megállapítása céljából a közúti közlekedési nyilvántartásról szóló törvényben meghatározott adatot – térítés nélkül – átvenni az országos járműnyilvántartásból. Az ilyen módon szerzett adatokat az eredeti céltól eltérően a felügyelet nem használhatja fel.
 
+(3) A helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek esetében a felügyelet vagy felügyelő a díjfizetési kötelezettség teljesítésének ellenőrzésére, a díj- és pótdíjkövetelés érvényesítésére a jármű rendszámát, a természetes személy üzemben tartó nevét, születési idejét és lakcímét, a nem természetes személy üzemben tartó megnevezését és székhelyének, telephelyének címét, a kedvezményre jogosító okirat sorszámát
+
+- a) a díj megfizetése esetén az ellenőrzésig,
+- b) a díjfizetés elmulasztása esetén a díj- és pótdíjfizetési felszólítás megküldése céljából a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 15/D. § (1) bekezdés szerinti jogvesztő határidő eredménytelen elteltének időpontjáig, a várakozási díj- és pótdíjfizetési kötelezettség nem teljesítése esetén a Kkt. 15/D. § (3) bekezdése szerinti eljárás céljából az eljárás jogerős befejezéséig kezelheti.
+
 11. § Az igazoltatás során rögzített, valamint a 10. § (2) bekezdésben meghatározott személyes adatok az adatfelvételt, valamint az adatátvételt követő öt napig kezelhetők.
 
 12. § A felügyelet feladatkörébe tartozó szabálysértési és közigazgatási hatósági eljárásokkal összefüggő személyes adatok kezelésére a külön törvények rendelkezései az irányadók.
@@ -130,13 +139,13 @@ haladéktalanul törli.
 
 14. § A felügyelő felvilágosítást kérhet attól, akiről alaposan feltehető, hogy a felügyelői feladat ellátásához érdemi tájékoztatást tud adni.
 
-15. § A felügyelő a jogszabályban meghatározott feladatai teljesítése során vagy egyéb jogszerű intézkedés céljából az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedéseket és kényszerítő eszközöket alkalmazhatja.
+15. § A felügyelő – az 1. § (4) bekezdés i) pontjában meghatározott feladata kivételével – a jogszabályban meghatározott feladatai teljesítése során vagy egyéb jogszerű intézkedés céljából az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedéseket és kényszerítő eszközöket alkalmazhatja.
 
 16. §
 
 17. § A felügyelő a szabálysértés elkövetőjét – a cselekmény súlyától függően – jogosult a jogszabályban meghatározott esetekben helyszíni bírsággal sújtani.
 
-17/A. § A felügyelő a feladatkörébe tartozó, a közúti közlekedésről szóló 1988. évi I. törvényben (a továbbiakban: Kkt.) meghatározott közlekedési szabályszegés esetén jogosult a Kkt. 20. § (4a) és a (4b) bekezdésében meghatározott közigazgatási bírságot alkalmazni.
+17/A. § A felügyelő a feladatkörébe tartozó, a Kkt.-ban meghatározott közlekedési szabályszegés esetén jogosult a Kkt. 20. § (4a) és a (4b) bekezdésében meghatározott közigazgatási bírságot alkalmazni.
 
 18. §
 
