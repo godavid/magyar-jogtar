@@ -12,11 +12,49 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 
 2–4. §
 
-5. §
+5. § Az Ehi. 13/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az egészségügyi államigazgatási szerv a hatáskörében eljárva megállapítja, hogy
+
+a) az ivóvíz minőségére, a gyógy- és ásványvizek egészségkárosítás nélküli fogyaszthatóságára, felhasználására, forgalomba hozatalára,
+
+b) a gyógy- és közfürdők, valamint a természetes fürdőhelyek üzemeltetésére, működtetésére,
+
+c) a gyógytényezőkre, gyógyhelyekre, fürdő- és klímagyógyintézetekre,
+
+d) a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére,
+
+e) a kozmetikai termékek gyártására, egészségkárosítás nélküli alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
+
+f) a 4. § (5) bekezdés b) és d) pontja szerinti szakterületen az élelmezés- és táplálkozás-egészségügyi követelményekre,
+
+g) az atomenergia alkalmazási körébe tartozó anyagok felhasználására, berendezések, létesítmények üzemeltetésére,
+
+h) a fertőző betegségek és járványok megelőzése vagy a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
+
+i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre,
+
+j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére,
+
+k) a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
+
+l) az építmények tervezésének, létesítésének és üzemeltetésének közegészségügyi és egészségvédelmi követelményeire,
+
+m) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak megelőzésére irányuló szakmai szabályokra,
+
+n) a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre
+
+vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.”
 
 6. § (1)
 
-(2)
+(2) Az Ehi. a következő 14/D. §-sal egészül ki:
+
+„14/D. § (1) A kijelölt természetes fürdőhely üzemeltetője éves felügyeleti díjat fizet tárgyév június 30-ig.
+
+(2) A felügyeleti díj az egészségügyi államigazgatási szerv bevétele, amit a természetes fürdővíz minőség-ellenőrzését szolgáló mintavételi ütemtervhez tartozó mintavételek és laboratóriumi vizsgálatok elvégzésére használhat fel.
+
+(3) A felügyeleti díj mértéke nyolcvanezer forint.”
 
 7. § (1)
 
@@ -58,7 +96,9 @@ szöveg lép.
 
 63. § (1)
 
-(2)
+(2) Az Eütv. 124. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az akkreditációs felülvizsgálati eljárásért a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.”
 
 64. §
 
@@ -66,7 +106,17 @@ szöveg lép.
 
 67. § (1)–(4)
 
-(5)
+(5) Az Eütv. 247. § (5) bekezdés c) pontja a következő cj) alponttal egészül ki:
+
+(Felhatalmazást kap
+
+a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint)
+
+„cj) az akkreditációs felülvizsgálatért”
+
+(fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+rendeletben állapítsa meg.)
 
 68–69. §
 
@@ -92,7 +142,7 @@ szöveg lép.
 
 85–91. §
 
-92. §
+92. § A Gytv. 1. számú melléklete a 2. melléklet szerint módosul.
 
 93–94. §
 
@@ -172,5 +222,54 @@ szöveg lép.
 ### 1. melléklet a 2014. évi CXI. törvényhez
 
 ### 2. melléklet a 2014. évi CXI. törvényhez
+
+1. A Gytv. 1. számú melléklete a „III.I.4.” megjelölésű sort követően a következő sorral egészül ki:
+
+|  |  | (Összeg) |
+| --- | --- | --- |
+
+| „III.I.5. | Gyógyszerközvetítői tevékenység regisztrációjának módosítása | 9 000” |
+| --- | --- | --- |
+
+2. A Gytv. 1. számú melléklet „III.Q.2.” sora helyébe a következő sorok lépnek:
+
+|  |  | (Összeg) |
+| --- | --- | --- |
+
+| „III.Q.2. | Gyógyszerhatóanyag-gyártási tevékenység nyilvántartásba vétele 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |
+| --- | --- | --- |
+| III.Q.2.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése | 225 000 |
+| III.Q.2.2. | Gyártott hatóanyagonként és telephelyenként | 90 000” |
+
+3. A Gytv. 1. számú melléklet „III.Q.3.” sora helyébe a következő sorok lépnek:
+
+|  |  | (Összeg) |
+| --- | --- | --- |
+
+| „III.Q.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |
+| --- | --- | --- |
+| III.Q.3.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése | 225 000 |
+| III.Q.3.2. | Gyártott hatóanyagonként és telephelyenként | 90 000” |
+
+4. A Gytv. 1. számú melléklet „III.Q.4.” sora helyébe a következő sorok lépnek:
+
+|  |  | (Összeg) |
+| --- | --- | --- |
+
+| „III.Q.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |
+| --- | --- | --- |
+| III.Q.4.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése | 225 000 |
+| III.Q.4.2. | Gyártott hatóanyagonként és telephelyenként | 90 000” |
+
+5. A Gytv. 1. számú melléklete a „III.Q.4.” megjelölésű sort követően a következő sorokkal egészül ki:
+
+|  |  | (Összeg) |
+| --- | --- | --- |
+
+| „III.Q.5. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként | 90 000 |
+| --- | --- | --- |
+| III.Q.6. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként | 15 000 |
+| III.R. | Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP megfelelőség igazolása céljából (telephelyenként) | 450 000 |
+| III.S. | Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről illetve a belföldi forgalomba hozatal céljára behozni kívánt gyógyszer engedélyéről | 22 500” |
 
 ### 3. melléklet a 2014. évi CXI. törvényhez

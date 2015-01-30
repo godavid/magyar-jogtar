@@ -298,10 +298,15 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - e) a kozmetikai termékek gyártására, egészségkárosítás nélküli alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
 - f) a 4. § (5) bekezdés b) és d) pontja szerinti szakterületen az élelmezés- és táplálkozás-egészségügyi követelményekre,
 - g) az atomenergia alkalmazási körébe tartozó anyagok felhasználására, berendezések, létesítmények üzemeltetésére,
-- h) a fertőző betegségek és járványok megelőzése, illetve a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
+- h) a fertőző betegségek és járványok megelőzése vagy a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
 - i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre,
 - j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére,
-- k) a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
+- k) a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
+- l) az építmények tervezésének, létesítésének és üzemeltetésének közegészségügyi és egészségvédelmi követelményeire,
+- m) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak megelőzésére irányuló szakmai szabályokra,
+- n) a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre
+
+vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 
 (1a) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv megállapítja, hogy az előírt, felé teljesítendő bejelentési, adatszolgáltatási kötelezettségre, továbbá az előírt nyilvántartási kötelezettségre vonatkozó jogszabályi rendelkezéseket megsértették.
 
@@ -381,6 +386,12 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - c) gyógyvíz természetes gyógyhatásra utaló elnevezésének engedélyezése.
 
 14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.
+
+14/D. § (1) A kijelölt természetes fürdőhely üzemeltetője éves felügyeleti díjat fizet tárgyév június 30-ig.
+
+(2) A felügyeleti díj az egészségügyi államigazgatási szerv bevétele, amit a természetes fürdővíz minőség-ellenőrzését szolgáló mintavételi ütemtervhez tartozó mintavételek és laboratóriumi vizsgálatok elvégzésére használhat fel.
+
+(3) A felügyeleti díj mértéke nyolcvanezer forint.
 
 15. § (1) Ez a törvény a kihirdetése napján lép hatályba.
 

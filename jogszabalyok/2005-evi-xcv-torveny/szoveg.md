@@ -1033,6 +1033,7 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 | III.I.2. |  | Gyógyszer-nagykereskedelmi engedély kiadása |  |  |  |  |  | 90 000 |
 | III.I.3. |  | Gyógyszer-nagykereskedelmi engedély módosítása |  |  |  |  |  | 90 000 |
 | III.I.4. |  | Gyógyszerközvetítői tevékenység regisztrációja |  |  |  |  |  | 90 000 |
+| III.I.5. |  | Gyógyszerközvetítői tevékenység regisztrációjának módosítása |  |  |  |  |  | 9 000 |
 | III.J. | Vizsgálati készítmények biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylat kiadás |  |  |  |  |  |  | 382 500 |
 | III.K. | Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylat kiadása, készítményenként és bizonylatonként |  |  |  |  |  |  | 22 500 |
 | III.L. | Szakértői tevékenység végzése, szaktanácsadás, konzultáció óradíja |  |  |  |  |  |  | 8 000 |
@@ -1051,6 +1052,16 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 | III.P.2. | A forgalomba hozatali engedély meghosszabbítása |  |  |  |  |  |  | 90 000 |
 | III.Q. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja |  |  |  |  |  |  |  |
 | III.Q.1. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára |  |  |  |  |  |  | 90 000 |
-| III.Q.2. | Gyógyszerhatóanyag-gyártási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  | 675 000 |
-| III.Q.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  | 675 000 |
-| III.Q.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  | 225 000 |
+| III.Q.2. | Gyógyszerhatóanyag-gyártási tevékenység nyilvántartásba vétele 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |
+| III.Q.2.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  | 225 000 |
+| III.Q.2.2. | Gyártott hatóanyagonként és telephelyenként |  |  |  |  |  |  | 90 000 |
+| III.Q.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |
+| III.Q.3.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  | 225 000 |
+| III.Q.3.2. | Gyártott hatóanyagonként és telephelyenként |  |  |  |  |  |  | 90 000 |
+| III.Q.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |
+| III.Q.4.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  | 225 000 |
+| III.Q.4.2. | Gyártott hatóanyagonként és telephelyenként |  |  |  |  |  |  | 90 000 |
+| III.Q.5. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként |  |  |  |  |  |  | 90 000 |
+| III.Q.6. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként |  |  |  |  |  |  | 15 000 |
+| III.R. | Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP megfelelőség igazolása céljából (telephelyenként) |  |  |  |  |  |  | 450 000 |
+| III.S. | Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről illetve a belföldi forgalomba hozatal céljára behozni kívánt gyógyszer engedélyéről |  |  |  |  |  |  | 22 500 |
