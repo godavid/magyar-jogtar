@@ -1970,6 +1970,8 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 
 (4) Az akkreditációs felülvizsgálatot a miniszter által kijelölt szerv végzi, a felülvizsgálat alapján az akkreditációs dokumentumot a miniszter adja ki.
 
+(5) Az akkreditációs felülvizsgálati eljárásért a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
 124/A. § (1) A tanúsítás az egészségügyi szolgáltató nemzetközi vagy magyar egészségügyi ellátási standardok szerinti minőségirányítási rendszerének nemzetközi szabvány alapján történő felülvizsgálata és elismerése.
 
 (2) Az egészségügyi szolgáltatók a tanúsítást az általuk önkéntesen teljesített, az ellátás szabályozottságának, a minőségirányítási rendszer megfelelőségének elismerése érdekében kérelmezhetik.
@@ -3816,7 +3818,7 @@ rendeletben állapítsa meg.
   - cg) az egészségfejlesztési programok akkreditációjáért,
   - ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
   - ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
-  - cj)
+  - cj) az akkreditációs felülvizsgálatért
   - ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
 
 fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
