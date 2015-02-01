@@ -4075,34 +4075,11 @@ rendelkezhet.
 
 #### 115. Általános rendelkezések
 
-265. § (1) A pénzügyi intézmény – a (2) bekezdésben meghatározott kivétellel – fogyasztónak nem nyújthat olyan kölcsönt, amelynek a teljes hiteldíj mutatója meghaladja a jegybanki alapkamat 24 százalékponttal növelt mértékét.
-
-(2) Hitelkártya-szerződéshez vagy fizetési számlához kapcsolódó, vagy a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához, szolgáltatások igénybevételéhez nyújtott kölcsönre, valamint a kézizálog fedezete mellett nyújtott kölcsönre vonatkozó teljes hiteldíj mutató nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét.
-
-(3) E § alkalmazásában az érintett naptári félévet megelőző hónap első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
+#### 265. §
 
 #### 266. §
 
-267. § (1) Ha pénzügyi intézmény devizában nyilvántartott vagy devizában nyújtott és forintban törlesztett (a továbbiakban: deviza alapú) jelzáloghitel-szerződést vagy lakáscélú pénzügyi lízingszerződést kötött, akkor
-
-- a) a kölcsön folyósításakor a kölcsön,
-- b) a havonta esedékessé váló törlesztőrészlet, valamint
-- c) a devizában megállapított bármilyen költség, díj vagy jutalék
-
-forintban meghatározott összegének kiszámítása – ha a pénzügyi intézmény nem határoz meg saját deviza-középárfolyamot – a jegybanki feladatkörében eljáró MNB által megállapított és közzétett, hivatalos devizaárfolyam alapján történik.
-
-(2) Ha a pénzügyi intézmény meghatároz saját deviza-középárfolyamot, akkor az (1) bekezdés a)–c) pontjában felsoroltak forintban meghatározott összegének kiszámítása a pénzügyi intézmény választása szerint
-
-- a) a pénzügyi intézmény által megállapított és közzétett, saját deviza-középárfolyama vagy
-- b) az MNB által megállapított és közzétett hivatalos devizaárfolyam
-
-alapján történik.
-
-(3) A pénzügyi intézmény az (1) bekezdésben foglaltak alapján elvégzett átváltással és számítással összefüggésben külön költséget, díjat vagy jutalékot nem számíthat fel.
-
-(4) Az (1)–(3) bekezdés rendelkezéseit kell alkalmazni arra az esetre is, ha a törlesztőrészlet fizetése nem havi rendszerességgel történik, valamint ha a fogyasztó fennálló tartozásának egy részét vagy a teljes összegét előtörleszti.
-
-(5) E § rendelkezéseit nem kell alkalmazni arra az esetre, ha a törlesztőrészlet fizetésére devizában kerül sor.
+#### 267. §
 
 #### 116. A kereskedelmi kommunikációra vonatkozó különös rendelkezések
 
@@ -4127,13 +4104,7 @@ alapján történik.
 
 (3) A pénzügyi intézmény – ha törvény ettől eltérően nem rendelkezik – a szerződés megkötése előtt az ügyfelet arról tájékoztatja, ha a szerződéssel kapcsolatos jogvita esetén nem a magyar jog alkalmazását, illetve nem magyar bíróság kizárólagos joghatóságát kötik ki.
 
-(4) Fogyasztónak minősülő ügyféllel kötendő, devizahitel nyújtására irányuló szerződés esetén a pénzügyi intézmény feltárja a szerződéses ügyletben az ügyfelet érintő kockázatot, amelynek tudomásulvételét az ügyfél aláírásával igazolja.
-
-(5) A (4) bekezdésben meghatározott kockázatfeltáró nyilatkozat tartalmazza a devizahitel nyújtására irányuló szerződés esetén az árfolyamkockázat ismertetését, valamint annak hatását a törlesztőrészletre.
-
-(6) A pénzügyi intézmény legkésőbb a szerződés megkötése előtt, de minden esetben a szolgáltatás nyújtásának megkezdése előtt kellő időben, világos és egyértelmű módon az ügyfelet tájékoztatja arról, ha a megkötendő szerződéssel érintett tevékenységére vonatkozóan – a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 2. § i) pontjában meghatározott – magatartási kódexnek vetette alá magát, megadva egyben a magatartási kódex ingyenes elérhetőségét.
-
-(7) Ha a pénzügyi intézmény honlapot működtet, akkor azon folyamatosan, bárki számára ingyenesen és korlátozásmentesen elérhetővé teszi a (6) bekezdés szerinti magatartási kódexet a rendelkezésre álló nyelvi változatokban.
+(4)–(7)
 
 #### 118. A betétesek tájékoztatása
 
@@ -4201,28 +4172,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (3) A pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződésben egyértelműen meg kell határozni a kamatot, díjat és minden egyéb költséget vagy feltételt, ideértve a késedelmes teljesítés jogkövetkezményeit és a szerződést biztosító mellékkötelezettségek érvényesítésének módját, következményeit is.
 
-(4) Fogyasztóval kötött kölcsönszerződésben vagy pénzügyi lízingszerződésben az ügyfél számára kedvezőtlenül kizárólag a kamatot, díjat vagy költséget lehet egyoldalúan módosítani. Egyéb feltétel, ideértve az egyoldalú módosításra okot adó körülmények felsorolását is, egyoldalúan nem módosítható az ügyfél számára kedvezőtlenül. Az egyoldalú módosítás jogát a hitelező akkor jogosult gyakorolni, ha a módosításra okot adó objektív körülmények tételes meghatározását a szerződés tartalmazza, valamint a hitelező árazási elveit írásban rögzítette.
-
-(5) Az árazási elveknek tartalmazniuk kell legalább a következőket:
-
-- a) valamely kamat, díj vagy költség módosítása a szerződésekben foglalt és az adott kamat, díj vagy költség mértékére ténylegesen hatást gyakorló ok alapján történhet;
-- b) ha valamely feltétel változása a kamat-, díj- vagy költségelem csökkentését teszi indokolttá, azt is érvényesíteni kell;
-- c) az adott kamat-, díj- vagy költségelemre kihatással bíró ok-okozati feltételeket együttesen, tényleges hatásuk arányában kell figyelembe venni;
-- d) díjat vagy költséget évente legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékében lehet emelni.
-
-(6) Az árazási elvek megfelelőségét, valamint az árazási elvek alkalmazásának gyakorlatát a Felügyelet ellenőrzi. Az ellenőrzés során a Felügyelet figyelembe veszi a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény hatálya alá tartozó, a Felügyelet által is elfogadott magatartási kódex rendelkezéseit.
-
-(7) A fogyasztóval kötött deviza alapú hitel- vagy kölcsön-szerződések esetében a pénzügyi intézmény kizárólag azokat a költségeket és díjakat számíthatja fel devizában, amelyek az adott szerződés teljesítésének és fenntartásának érdekében a devizaforrás megszerzésével közvetlenül kapcsolatban állnak, ideértve a kamat jellegű kezelési költséget és a deviza alapú hitel- vagy kölcsöntartozás mindenkori összegéhez igazodó hitelfedezeti biztosítási szolgáltatással kapcsolatos költséget, ha a hitelintézetet terhelő biztosítási díj is deviza alapú. Nem számolható fel a fogyasztó számára devizában a szerződéskötéssel, a levelezéssel, a kimutatások és igazolások előállításával, az ügyfelek látogatásával, a hitel monitoringgal, a felmondással, a fedezet értékbecslésével és cseréjével, a szerződés módosításával, a nem a deviza alapú hitel- vagy kölcsöntartozás mindenkori összegéhez igazodó hitelfedezeti biztosítási szolgáltatással, továbbá a hitelszerződés ügyintézésével és a kapcsolódó hitelszámla lezárásával kapcsolatos díj és költség.
-
-(8) A (4) bekezdésben meghatározott szerződések esetén kamatot, díjat vagy költséget érintő, egyoldalú, az ügyfél számára kedvezőtlen módosítást – referencia-kamatlábhoz kötött kamatnál a referencia-kamatláb változásából eredő kamatváltozás, valamint az állami kamattámogatással nyújtott lakáskölcsön kivételével – a módosítás hatálybalépését megelőzően legalább hatvan nappal hirdetményben közzé kell tenni. A módosításról és a módosítást követően várhatóan fizetendő törlesztő részletről – referencia-kamatlábhoz kötött kamatnál a referencia-kamatláb változásából eredő kamatváltozás, valamint az állami kamattámogatással nyújtott lakáskölcsön kivételével – az érintett ügyfeleket postai úton vagy más, a szerződésben meghatározott tartós adathordozón értesíteni kell. A módosítással kapcsolatos tájékoztatást elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
-
-(9) A (8) bekezdésben meghatározott közvetlen értesítés feladási időpontjának legalább 60 nappal meg kell előznie a módosítás hatálybalépését.
-
-(10) Állami kamattámogatással nyújtott lakáskölcsön esetén kamatot, díjat vagy költséget érintő, egyoldalú, az ügyfél számára kedvezőtlen módosítást a módosítás hatálybalépését megelőzően legalább 15 nappal hirdetményben közzé kell tenni, elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikusan is elérhetővé kell tenni.
-
-(11) A (4) bekezdésben meghatározott szerződéseknél a kamat, díj vagy költség ügyfél számára kedvezőtlen egyoldalú módosítása esetén – referencia-kamatlábhoz kötött kamat esetén a referencia-kamatláb változásából eredő kamatváltozás kivételével – az ügyfél a módosítás hatálybalépése előtt – a (12) bekezdésben meghatározott kivétellel – jogosult a szerződés díjmentes felmondására.
-
-(12) Jelzáloglevéllel finanszírozott kölcsönszerződés esetén – ideértve a jelzálog-hitelintézet által refinanszírozott kölcsönszerződést is a tényleges refinanszírozást követően –, a kamat, díj vagy költség ügyfél számára kedvezőtlen egyoldalú módosítása miatt az ügyfelet megillető felmondáskor a hitelintézet jogosult a lejárat előtti visszafizetéssel járó költségeit érvényesíteni. A kölcsönszerződésnek tartalmaznia kell, hogy a kölcsön jelzáloglevéllel finanszírozott vagy jelzáloglevéllel kívánják refinanszíroztatni, továbbá ennek jogkövetkezményeit. Jelzálog-hitelintézet által refinanszírozott kölcsönszerződés esetén az ügyfelet legkésőbb a refinanszírozás bekövetkezését követő 30 napon belül feladott értesítővel kell tájékoztatni a refinanszírozás megvalósulásáról.
+(4)–(12)
 
 (13) A (4) bekezdésben nem szabályozott szerződések esetén kamatot, díjat vagy egyéb szerződési feltételt csak akkor lehet egyoldalúan, az ügyfél számára kedvezőtlenül módosítani, ha a szerződés ezt a pénzügyi intézmény számára – külön pontban – egyértelműen meghatározott feltételek, illetve körülmények esetére lehetővé teszi. A szerződés kamatot, díjat érintő – az ügyfél számára kedvezőtlen – módosítását a módosítás hatálybalépését tizenöt nappal megelőzően, hirdetményben közzé kell tenni, elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
 
@@ -4232,35 +4182,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (16) A pénzügyi intézmény az ügyfél számára nem kedvezőtlenül egyoldalúan módosíthatja az ügyféllel kötött szerződés feltételeit.
 
-280. § (1) Jelzáloghitel-szerződésre a 279. § (4)–(6), (8)–(9) és (11) bekezdésétől eltérően a (2)–(10) bekezdésben foglaltakat kell alkalmazni.
-
-(2) Jelzáloghitel-szerződés esetén a pénzügyi intézmény a fogyasztó szerződésszerű teljesítése esetén nem számíthat fel a kamaton felül rendszeresen fizetendő kamat jellegű díjat vagy költséget, és a szerződés megkötésekor nem kínálhat korlátozott időtartamra kedvezményes kamatot.
-
-(3) A jelzáloghitel-szerződés megkötésekor a pénzügyi intézménynek – ha jogszabály másként nem rendelkezik – a kamat változását az alábbi módszerek egyikével kell meghatároznia:
-
-- a) referencia-kamatlábhoz kötve, vagy
-- b) a kamat mértéke a kölcsönszerződésben meghatározott 3 éves, 5 éves vagy 10 éves kamatperiódusok alatt rögzített.
-
-(4) A kamaton felül nem rendszeresen fizetendő egyéb díjat, költséget a pénzügyi intézmény már megkötött szerződések vonatkozásában évente legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékében emelheti.
-
-(5) A (3) bekezdés a) pontjában meghatározott esetben a fogyasztó által fizetendő kamat és a referenciakamat különbségét (a felárat) a pénzügyi intézmény egyoldalúan a fogyasztó számára kedvezőtlenül kizárólag akkor módosíthatja, ha
-
-- a) a fogyasztó egy havi törlesztőrészlettel negyvenöt napot meghaladó fizetési késedelembe esik vagy
-- b) a fogyasztó a fedezetül szolgáló ingatlanra kötött, a pénzügyi intézményre engedményezett, illetve a pénzügyi intézmény zálogjogával terhelt vagyonbiztosítást a pénzügyi szolgáltató postai úton vagy más, a szerződésben meghatározott közvetlen módon történő értesítése ellenére legalább 2 hónapon keresztül nem fizeti.
-
-(6) Az (5) bekezdésben meghatározott feltételek változásának felárra gyakorolt hatását a pénzügyi intézmény belső szabályzatában rögzíti.
-
-(7) A (3) bekezdés a) pontjában meghatározott esetben a referencia-kamatláb
-
-- a) forinthitelnél a 3 havi, a 6 havi vagy a 12 havi BUBOR, vagy a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározottak szerint az Államadósság Kezelő Központ Zrt. által havi rendszerességgel közzétett 3 éves vagy 5 éves állampapír átlaghozam,
-- b) euróhitelnél és euró alapú hitelnél a 3 havi, a 6 havi vagy a 12 havi EURIBOR,
-- c) svájci frank hitelnél és svájci frank alapú hitelnél a 3 havi, a 6 havi vagy a 12 havi CHF LIBOR.
-
-(8) Referencia-kamatlábhoz kötött jelzáloghitel-szerződés esetén a kamat mértékét a választott referencia-kamatláb futamidejének megfelelő időközönként kell a fordulónapot megelőző hónap utolsó munkanapja előtt 2 nappal érvényes referencia-kamatlábhoz igazítani.
-
-(9) A (3) bekezdés b) pontjában meghatározott kamatozás esetén az új kamatperiódusokban alkalmazott kamat mértékét annak hatálybalépését megelőzően legalább 90 nappal hirdetményben közzé kell tenni. A módosításról és a módosítást követően várhatóan fizetendő törlesztőrészletről az érintett ügyfeleket postai úton vagy más, a szerződésben meghatározott közvetlen módon értesíteni kell. A közvetlen értesítés elküldésének legalább 90 nappal meg kell előznie a módosítás hatálybalépését. A módosítással kapcsolatos tájékoztatást elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikusan is elérhetővé kell tenni.
-
-(10) A (3) bekezdés b) pontjában meghatározott kamatozás esetén az új kamatperiódus kezdetét megelőző 90 nap alatt – a 279. § (12) bekezdésben meghatározott kivétellel – az ügyfél jogosult a szerződés díjmentes felmondására. Az ügyfél felmondása hatályát veszti, ha a kamatperiódus végéig a felmondással érintett szerződésből eredő tartozás teljes összegét a hitelező részére nem fizeti meg.
+#### 280. §
 
 281. § (1) A hitelintézet csak akkor köthet betétszerződést (szolgáltathat ki betétokiratot) vagy bocsáthat ki hitelviszonyt megtestesítő értékpapírt, ha a szerződés tartalmazza a 213. § (1) bekezdésében és a 213. § (2) bekezdés c) pontjában foglalt rendelkezésekre történő figyelemfelhívást.
 
@@ -4272,15 +4194,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 122. A szerződés felmondására vonatkozó rendelkezések
 
-283. § (1) A fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés felmondását megelőzően a pénzügyi intézmény a fogyasztónak, valamint a szerződésben kezesként részt vevő személynek, továbbá – ha a zálogfedezetet nem a hitelfelvevő nyújtja – a zálogkötelezettnek küldött írásbeli fizetési felszólításban felhívja a fogyasztó, valamint a kezes, illetve a zálogkötelezett figyelmét a teljes fennálló és a lejárt tartozás összegére, a fizetendő kamat és késedelmi kamat mértékére, valamint a nemfizetés esetén növekvő kamatteherre és a tartozás rendezésének elmaradása esetén a várható jogkövetkezményekre.
-
-(2) A fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés felmondását a pénzügyi intézmény a fogyasztónak és a kezesnek megküldi. A felmondás megküldésének igazolása a pénzügyi intézményt terheli.
-
-(3) Jelzáloghitel-szerződés felmondását megelőzően a pénzügyi intézmény az (1) bekezdésben meghatározott írásbeli fizetési felszólítással egyidejűleg, az (1) bekezdésben meghatározott tájékoztatás mellett bemutatja a szerződés megkötésétől kezdődően az egyes évekre összesítve – a fogyasztó külön kérése esetén havi bontásban – a fogyasztó által teljesített törlesztő részletek, a visszafizetett tőkeösszeg, az elszámolt kamat, késedelmi kamat és egyéb költségek, továbbá a tőkésített kamat és a fennálló tartozás alakulását.
-
-284. § (1) A fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződés vagy pénzügyi lízingszerződés esetében a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt a felmondás napját megelőző napon érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel.
-
-(2) Ha a fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződés vagy pénzügyi lízingszerződés deviza alapú, és a szerződés a szerződés felmondása bekövetkezésekor a fennálló tartozás összegének forintban történő meghatározását írja elő, az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt, a felmondás napján érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel.
+#### 283–284. §
 
 #### 123. Elektronikus pénz kibocsátása és visszaváltása
 

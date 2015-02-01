@@ -808,9 +808,9 @@ dönt.
 
 (5) A bíróság, illetve a Hatóság határozata nem érinti a minősítőnek a nemzeti minősített adat felülvizsgálatára vonatkozó, a minősített adat védelméről szóló törvény szerinti kötelezettségét.
 
-(6) A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzését elvégezték.
+(6) A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
-(7) A per során a bírón, a felperesen és az alperesen kívüli személyek a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
+(7) A per során a bírón, a felperesen és az alperesen kívüli személyek a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
 
 #### 34. A Hatóság által indítható per
 

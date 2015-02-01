@@ -1112,8 +1112,8 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 - d) a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó és állami tulajdonban álló, valamint az olyan gazdasági társaságok – ide nem értve a Magyar Nemzeti Bankot – ellenőrzésére, amelyekben az állam többségi befolyással rendelkezik,
 - e) azon alapítványok, közalapítványok ellenőrzésére, amelyek felett az alapítói jogokat a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja, vagy az államháztartás központi alrendszeréből támogatásban részesülnek,
 - f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,
-- g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése alapján a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alapnak átadott portfóliókkal kapcsolatos gazdálkodás jogszerűségének ellenőrzése céljából az Mpt. hatálya alá tartozó magánnyugdíjpénztárak és szervezetek portfólióátadást megelőző működésének, gazdálkodásának – beleértve az általuk közvetlenül vagy közvetve kezelt portfóliót képező eszközöket is – ellenőrzésére,
-- h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
+- g)
+- h) az a)–f) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
 - i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére, és
 - j) működési célú költségvetési támogatás nyújtása esetén a kedvezményezett működésének és gazdálkodásának ellenőrzésére.
 
@@ -1311,7 +1311,7 @@ kezeli.
 - d) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 - e) az MNV Zrt.,
 - f) a Diákhitel Központ Zrt.,
-- g) a Nyugdíjreform és Adósságcsökkentő Alap,
+- g)
 - h) a Nemzeti Eszközkezelő Zrt.,
 - i) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
 - j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik, és
