@@ -1976,7 +1976,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 192/A. § (1) A perben bizonyítékként nem használható fel a minősített adatot tartalmazó okirat (az okirat ilyen titkot tartalmazó része), melynek a fél általi megismeréséhez a minősítő nem járult hozzá.
 
-(2) Az (1) bekezdés nem alkalmazható, ha a pert a megismerési kérelem megtagadása miatt indították, vagy a per tárgyát annak eldöntése képezi, hogy az okirat tartalma minősített adatnak minősül-e. Az ilyen perben a felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
+(2) Az (1) bekezdés nem alkalmazható, ha a pert a megismerési kérelem megtagadása miatt indították, vagy a per tárgyát annak eldöntése képezi, hogy az okirat tartalma minősített adatnak minősül-e. Az ilyen perben a felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
 
 193. § Olyan tényállásra vonatkozóan, amely okirattal bizonyítható, a bíróság az egyéb bizonyítást mellőzheti.
 

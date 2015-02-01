@@ -192,7 +192,7 @@ minősítési szintű.
 
 (2) A minősített adathoz – az e törvényben meghatározott kivételekkel – kizárólag személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező jogosult felhasználó a felhasználói engedélyben meghatározott rendelkezési jogosultságokkal férhet hozzá.
 
-(3) A személyi biztonsági tanúsítvány kiadásához az érintett – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel. A személyi biztonsági tanúsítvány a kiállításától számított 5 évig érvényes.
+(3) A személyi biztonsági tanúsítvány kiadásához az érintett – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel. A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított 5 évig érvényes.
 
 (4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
 
@@ -220,7 +220,7 @@ biztonsági feltételeket.
 
 (2) A megismerési engedély kiadásáról az érintett kérelmére a minősítő 15 napon belül határoz. A megismerési engedély kiadását a minősítő megtagadja, ha az adat megismerése a minősítés alapjául szolgáló közérdek sérelméhez vezet. A megismerési engedély megtagadását a minősítőnek indokolnia kell.
 
-(3) A megismerési engedély megtagadása esetén az érintett a határozat kézhezvételét követő 15 napon belül a Fővárosi Közigazgatási és Munkaügyi Bírósághoz fordulhat. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
+(3) A megismerési engedély megtagadása esetén az érintett a határozat kézhezvételét követő 15 napon belül a Fővárosi Közigazgatási és Munkaügyi Bírósághoz fordulhat. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
 
 12. § (1) A minősített adat kezelője az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján az érintettet megillető tájékoztatást megtagadhatja, ha a minősítés alapjául szolgáló közérdeket az érintettnek a személyes adatainak kezelésére vonatkozó tájékoztatása veszélyeztetné.
 
@@ -388,7 +388,7 @@ vonatkozó feltételek.
   - ab) állampolgársága,
   - ac) úti okmányának okmányazonosítója,
   - ad) minősített adat felhasználásához kötődő munkahelye, beosztása és feladatköre,
-  - ae) nemzetbiztonsági ellenőrzése során kitöltött biztonsági kérdő ívben és a nemzetbiztonsági ellenőrzést végző szerv hozzájárulásában foglalt adatai,
+  - ae) nemzetbiztonsági ellenőrzése során kitöltött biztonsági kérdőívben és a biztonsági szakvéleményben foglalt adatai,
 - b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi ideje és szintje.
 
 (2) Az (1) bekezdésben meghatározott adatokat a Nemzeti Biztonsági Felügyelet az érintett személy részére kiadott utolsó személyi biztonsági tanúsítvány érvényességi idejének lejártát vagy visszavonását követően a minősített adattal visszaélés bűncselekményére a büntető törvénykönyvben meghatározott büntetési tétel felső határának megfelelő ideig kezeli.

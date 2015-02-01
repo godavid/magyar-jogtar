@@ -63,9 +63,9 @@ a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási sz
 
 (6) A (2) bekezdés aa)–ad), ba)–bb), cb)–cc), ce)–cf) és da) alpontjában meghatározott tájékoztatás helyett a pénzforgalmi szolgáltatásról szóló 2009. évi LXXXV. törvény 8–10. §-ában és 29–31. §-ában előírt tájékoztatást kell megadni, ha pénzforgalmi szolgáltatás nyújtására kerül sor.
 
-(7) A (2)–(3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-ban és 7. §-ban előírt tájékoztatást kell megadni, ha fogyasztónak nyújtott hitel nyújtására kerül sor.
+(7) A (2)–(3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 5–7. §-a szerinti tájékoztatást kell megadni, ha fogyasztónak nyújtott hitel nyújtására kerül sor.
 
-(8) A (2) és (3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (8) bekezdésében előírt tájékoztatást kell megadni, ha fizetési számlához kapcsolódó hitelkeret nyújtására kerül sor.
+(8) A (2) és (3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (6) bekezdése szerinti tájékoztatást kell megadni, ha fizetési számlához kapcsolódó hitelkeret nyújtására kerül sor.
 
 (9) Amennyiben az egymást követő ügyletek, illetve az azonos jellegű elkülönült műveletek, amelyek időbeli kapcsolatban állnak egymással, az 1. § (2) bekezdésétől eltérően, alapmegállapodás nélkül ugyanazon felek között kerülnek végrehajtásra, az (1)–(8) bekezdések rendelkezéseit kizárólag az első ügyletre vagy műveletre kell alkalmazni. Ha egy évnél hosszabb ideig nem kerül sor ügylet vagy azonos jellegű művelet teljesítésére, az ezt követő ügyletet vagy műveletet új ügyletnek, illetve egy újabb műveletsor első műveletének kell tekinteni, és arra az (1)–(7) bekezdések rendelkezéseit ismét alkalmazni kell.
 
@@ -81,9 +81,9 @@ a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási sz
 - f) a 6. §-ban szabályozott elállási (felmondási) jogról, illetve annak fenn nem állásáról; az elállási (felmondási) jog gyakorlásának feltételeiről, módjáról és jogkövetkezményeiről, ideértve a 8. §-ban foglaltakat; továbbá arról a címről (elektronikus levelezési címről, telefaxszámról), amelyre a fogyasztónak elállási (felmondási) nyilatkozatát küldenie kell,
 - g) arról, hogy a fogyasztó kérése esetén további tájékoztatást kap, illetve ezen további tájékoztatás jellegéről.
 
-(3) A (2) bekezdés b) pontjában meghatározott tájékoztatás fogyasztónak nyújtott hitel nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-a (3) bekezdésének 4–7. pontjában, 9. pontjában és 6. §-a (4) bekezdésében foglalt adatokat, a hitel teljes összegét és a teljes hiteldíj mutatót egy reprezantatív példával tartalmazza.
+(3) A (2) bekezdés b) pontjában meghatározott tájékoztatás fogyasztónak nyújtott hitel nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (1) bekezdés 4–7. pontjában, 9. pontjában és 6. § (2) bekezdésében foglalt adatokat, a hitel teljes összegét és a teljes hiteldíj mutatót egy reprezentatív példával tartalmazza.
 
-(4) A (2) bekezdés b) pontjában meghatározott tájékoztatás fizetési számlához kapcsolódó hitelkeret nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-a (3) bekezdésének 4., 7. és 8. pontja, továbbá 6. § (8) bekezdésének c) pontjában foglalt adatokat tartalmazza, ha fogyasztó a fizetési számlához kapcsolódó hitelkeret azonnali rendelkezésre bocsátását kéri.
+(4) A (2) bekezdés b) pontjában meghatározott tájékoztatás fizetési számlához kapcsolódó hitelkeret nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (1) bekezdés 4., 7. és 8. pontjában, továbbá 6. § (6) bekezdés c) pontjában foglalt adatokat tartalmazza, ha fogyasztó a fizetési számlához kapcsolódó hitelkeret azonnali rendelkezésre bocsátását kéri.
 
 5. § (1) A szolgáltató köteles a fogyasztó részére a fogyasztó szerződéskötésre irányuló jognyilatkozatát megelőzően – tekintettel a szolgáltatás és a távközlő eszköz jellegére – kellő időben a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésre vonatkozó szerződési feltételeket és a 3. § (2) és (4) bekezdésében foglaltakat papíron vagy más, a fogyasztó számára hozzáférhető tartós adathordozón rendelkezésre bocsátani.
 

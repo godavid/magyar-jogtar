@@ -51,7 +51,7 @@ egyetértésével nevezi ki.
 
 (4) A Teljesítésigazolási Szakértői Szerv tagjaira, szervezetére, működésére, eljárására, díjazására, tagjainak képesítésére és jogosultságára, a feladatellátás feltételeire, a szakértői vélemény és kivonatának tartalmára, valamint elkészítésére vonatkozó megbízás elfogadása iránti kérelemre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
-(5) A közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 9. § (1) bekezdés a) vagy b) pontja szerinti minősített beszerzési eljárás vagy védelmi beszerzési eljárás eredményeként megkötött szerződés teljesítésével kapcsolatos ügyekben eljáró Teljesítésigazolási Szakértői Szerv szakértői tanács tagjainak a minősített vagy a védelmi beszerzési eljárásnak megfelelő szintű nemzetbiztonsági ellenőrzéssel kell rendelkezniük.
+(5) A közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 9. § (1) bekezdés a) vagy b) pontja szerinti minősített beszerzési eljárás vagy védelmi beszerzési eljárás eredményeként megkötött szerződés teljesítésével kapcsolatos ügyekben eljáró Teljesítésigazolási Szakértői Szerv szakértői tanács tagjainak nemzetbiztonsági ellenőrzéssel kell rendelkezniük.
 
 #### 4. A szakértői tanács
 

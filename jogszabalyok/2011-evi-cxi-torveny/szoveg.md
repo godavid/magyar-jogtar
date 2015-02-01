@@ -454,6 +454,14 @@ tevékenységét.
 
 38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó munkakörben és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
 
+#### 11/B. Nemzetbiztonsági ellenőrzés felülvizsgálati eljárásának vizsgálata
+
+38/E. § (1) Az alapvető jogok biztosa a nemzetbiztonsági szolgálatokról szóló törvényben meghatározottak szerint vizsgálja a nemzetbiztonsági ellenőrzés felülvizsgálati eljárása elrendelését és lefolytatását az alapvető jogokkal összefüggő visszásság megállapítása érdekében.
+
+(2) Az alapvető jogok biztosának e címben rögzített eljárására a 23. § (2) bekezdésében rögzített korlátozások nem terjednek ki, ha az irat megismerése az eljárás eredményes lefolytatása érdekében elengedhetetlenül szükséges.
+
+(3) A Hivatal nemzetbiztonsági ellenőrzés felülvizsgálati eljárásával összefüggő feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó munkakörben és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
+
 #### 12. Kivételes vizsgálat
 
 39. § (1) Ha a beadvány alapján feltehető, hogy – a 18. § (3) bekezdésben megjelölt szervek kivételével – a hatóságnak nem minősülő szervezet tevékenysége vagy mulasztása természetes személyek nagyobb csoportjának alapvető jogait súlyosan sérti, az alapvető jogok biztosa kivételesen eljárhat (a továbbiakban: kivételes vizsgálat).

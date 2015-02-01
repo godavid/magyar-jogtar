@@ -589,12 +589,11 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 - d) aki tudomásul veszi, hogy szolgálati viszonya fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – törvényben meghatározott szerveknél és módon – ellenőrizhetik (a továbbiakban: megbízhatósági vizsgálat),
 - e)
 
-(2) Az (1) bekezdésben írt feltételeknek megfelelő olyan személlyel, aki tervezett beosztása alapján külön törvény szerint nemzetbiztonsági ellenőrzés alá eső személynek minősül, hivatásos szolgálati viszony akkor létesíthető, ha a nemzetbiztonsági ellenőrzést végző szerv a hivatásos szolgálati viszony létesítéséhez
+(2) Az (1) bekezdésben írt feltételeknek megfelelő olyan személlyel, akinek tervezett beosztása nemzetbiztonsági ellenőrzés alá eső beosztásnak minősül, szolgálati viszony nem létesíthető, ha a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek nem felel meg, kivéve, ha a külön törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését jóváhagyta.
 
-- a) hozzájárult vagy
-- b) a hozzájárulást megtagadta, de a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati viszony létesítését jóváhagyta.
+(2a) Ha a hivatásos állományba jelentkezővel szemben a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését a külön törvény szerint arra feljogosított személy nem hagyta jóvá, a fegyveres szerv a hivatásos állományba jelentkező részére más, nemzetbiztonsági ellenőrzés alá nem eső beosztást ajánlhat fel. Felajánlható beosztás hiányában, vagy ha a hivatásos állományba jelentkező a felajánlott beosztást nem fogadja el, szolgálati viszony nem létesíthető.
 
-(3) A (2) bekezdésben meghatározott esetben a nemzetbiztonsági ellenőrzéssel egyidejűleg a kifogástalan életvitel ellenőrzésére nem kerül sor.
+(3) A (2) bekezdésben meghatározott esetben a nemzetbiztonsági ellenőrzéssel egyidejűleg a kifogástalan életvitel ellenőrzésére nem kerül sor. A (2a) bekezdésben meghatározott esetben a kifogástalan életvitel ellenőrzés lefolytatására intézkedni kell és szolgálati viszony a hivatásos állományba jelentkezővel csak abban az esetben létesíthető, ha a jelentkező életvitele a lefolytatott ellenőrzés alapján nem kifogásolható.
 
 (4) A szolgálati viszony létesítéséhez szükséges, az (1) bekezdésben meghatározott adatokat és tényeket a jelentkezőnek igazolnia kell.
 
@@ -629,7 +628,10 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 
 37/B. § (1) A hivatásos állományba jelentkező életvitelét a hivatásos állományba vétel előtt, a rendvédelmi oktatási intézmény ösztöndíjas hallgatójának, valamint tanulójának életvitelét a hallgatói, tanulói jogviszony létesítése előtt, továbbá a hivatásos állomány tagja és az ösztöndíjas hallgató, valamint a tanuló életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati viszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
 
-(1a) A jelentkező, valamint a hivatásos állomány tagja életvitelének ellenőrzésére nem kerül sor, ha a jelentkező a tervezett beosztása, illetve a hivatásos állomány tagja a beosztása alapján külön törvény szerint nemzetbiztonsági ellenőrzés alá eső személynek minősül.
+(1a) A jelentkező, valamint a hivatásos állomány tagja életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett beosztása, illetve a hivatásos állomány tagjának beosztása nemzetbiztonsági ellenőrzés alá eső beosztásnak minősül. Ha a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot állapítottak meg
+
+- a) a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső beosztást betöltő tagjával szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a külön törvény szerint arra feljogosított személy nem hagyta jóvá, a hivatásos állomány tagja életvitelének soron kívüli ellenőrzésére,
+- b) a hivatásos állományba jelentkezővel szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését a külön törvény szerint arra feljogosított személy nem hagyta jóvá, de a fegyveres szerv a jelentkező részére más, nemzetbiztonsági ellenőrzés alá nem eső beosztás felajánlását tervezi, a kifogástalan életvitel ellenőrzés lefolytatására intézkedni kell.
 
 (2) Hivatásos szolgálati viszony a 37. § (1) bekezdésében meghatározott feltételeken túl akkor létesíthető, vagy az 56. § (6) és (6a) bekezdésében meghatározottakra figyelemmel tartható fenn, ha a hivatásos állomány tagja vagy a hivatásos állományba jelentkező
 
@@ -756,7 +758,8 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 - h) az MRK elnöke, az elnöki megbízatás megszűnéséig;
 - i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 75/B. § (5) és (7) bekezdés szerinti beosztás felajánlására nincs lehetőség;
 - j) akinek a részére a más szervhez vezénylés megszüntetését követően a 49/C. § (5) bekezdése szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig;
-- k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg kellene szüntetni, de a felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig.
+- k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg kellene szüntetni, de a felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig;
+- l) akit a beosztásából a nemzetbiztonsági ellenőrzés során megállapított nemzetbiztonsági kockázat miatt fel kellett menteni, de a 47/B. § (2) bekezdés szerinti beosztás felajánlására nincs lehetőség, a 47/B. § (2) bekezdésében foglaltaknak megfelelő beosztás felajánlásáig, de legfeljebb 1 évig.
 
 (2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 49/B–49/G. § rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
@@ -766,7 +769,7 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 
 (4) Az (1) bekezdés k) pontja szerinti rendelkezési állomány időtartama alatt a hivatásos állomány tagja részére a (3) bekezdésben meghatározott szolgálati beosztást kell biztosítani vagy felajánlani. Amennyiben a hivatásos állomány tagjának az (1) bekezdés k) pontja szerinti rendelkezési állomány ideje alatt ilyen beosztás nem biztosítható, vagy a hivatásos állomány tagja a felajánlott beosztást nem fogadja el, a szolgálati viszonyát felmentéssel meg kell szüntetni.
 
-(5) Az (1) bekezdés b), e) és f) pontja alá tartozó hivatásos állomány tagjának szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró köteles gondoskodni.
+(5) Az (1) bekezdés b), e), f) és l) pontja alá tartozó hivatásos állomány tagjának szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró köteles gondoskodni.
 
 ### Nyugdíj előtti rendelkezési állomány
 
@@ -834,6 +837,20 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 
 (2) A hivatásos állomány tagja a részére felajánlott hivatásos szolgálati beosztás, illetve nem hivatásos munkakör elfogadásáról, vagy elutasításáról a felajánlástól számított 5 munkanapon belül köteles írásban nyilatkozni. A nyilatkozat elmulasztását úgy kell tekintetni, mintha a felajánlott hivatásos szolgálati beosztást, illetve nem hivatásos munkakört elutasította volna.
 
+47/B. § (1) Ha a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső beosztást betöltő tagjával szemben a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot állapítottak meg és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a külön törvény szerint arra feljogosított személy nem hagyta jóvá, a hivatásos állomány tagját a nemzetbiztonsági ellenőrzés alá eső beosztásból azonnali hatállyal fel kell menteni.
+
+(2) A beosztásból történő felmentéssel egyidejűleg a hivatásos állomány tagja részére a fegyveres szervnek az állományilletékes parancsnok irányítása alá tartozó valamely szervezeti egységénél – feltéve, hogy felajánlható beosztással rendelkezik – másik, képzettségének, végzettségének megfelelő, de nemzetbiztonsági ellenőrzés alá nem eső beosztást kell felajánlani. A felajánlott beosztás a korábbi beosztással azonos vagy annak megfelelő beosztás, vagy a korábbi beosztásnál alacsonyabb beosztás is lehet.
+
+(3) A felajánlott beosztás elfogadásáról vagy elutasításáról a hivatásos állomány tagja a felajánlástól számított 5 munkanapon belül írásban nyilatkozik. Ha a hivatásos állomány tagja a beosztás elfogadása vonatkozásában 5 munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott beosztást elutasította volna.
+
+(4) Ha a nemzetbiztonsági ellenőrzés alá eső beosztás alóli felmentéssel egyidejűleg a (2) bekezdés szerinti beosztás nem biztosítható, úgy az érintett beleegyezésével a beosztásba helyezéséig, de legfeljebb 1 évig rendelkezési állományba kell helyezni. Ez esetben a szolgálati hely és szolgálati tevékenység meghatározásáról az állományilletékes parancsnok köteles gondoskodni.
+
+(5) A (4) bekezdés szerinti rendelkezési állomány ideje alatt részére a beosztásból történő felmentését megelőző – a korábbi beosztás tényleges betöltéséhez kötődő pótlékok nélküli, valamint vezetői beosztás esetén a vezetői pótlékkal csökkentett – illetményt kell folyósítani.
+
+(6) Ha a hivatásos állomány tagja a részére a (2) bekezdés szerint vagy a (4) bekezdés szerinti rendelkezési állomány ideje alatt felajánlott azonos besorolású vagy alacsonyabb beosztást elfogadja, akkor az új beosztásának megfelelően kell besorolni és illetményét megállapítani.
+
+(7) Ha a hivatásos állomány tagja a nemzetbiztonsági ellenőrzés alá eső beosztás alóli felmentést követően vagy a (4) bekezdés szerinti rendelkezési állomány ideje alatt felajánlott, a (2) bekezdésben meghatározott feltételeknek megfelelő beosztást nem fogadja el, szolgálati viszonyát az 56. § (2) bekezdés g) pontja alapján felmentéssel meg kell szüntetni.
+
 ### Alacsonyabb beosztásba helyezés
 
 48. § (1) A hivatásos állomány tagja alacsonyabb beosztásba helyezhető:
@@ -841,9 +858,12 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 - a) létszámcsökkentés vagy átszervezés miatt;
 - b) a saját kérelmére;
 - c) ha minősítése alapján az általa betöltött szolgálati beosztásra előírt követelményeknek nem felel meg;
-- d) fegyelmi fenyítésként.
+- d) fegyelmi fenyítésként;
+- e) ha a nemzetbiztonsági ellenőrzése alapján megállapított nemzetbiztonsági kockázat miatt a nemzetbiztonsági ellenőrzés alá eső beosztásából fel kellett menteni.
 
 (2) Az alacsonyabb szolgálati beosztásba helyezéshez az (1) bekezdés c) és d) pontja esetén a hivatásos állomány tagjának beleegyezése nem szükséges.
+
+(2a) Az (1) bekezdés e) pontja esetén a 47/B. §-ban foglalt rendelkezéseket kell alkalmazni.
 
 (3) A hivatásos állomány tagját alacsonyabb beosztásba kell helyezni, ha a részére a beosztás betöltéséhez előírt szakvizsga vagy képzési követelménynek határidőben nem tett eleget.
 
@@ -1045,7 +1065,9 @@ A szünetelés időtartama jelöltségének nyilvántartásba vételétől a vá
 - d) megsérti a 18. § (2) bekezdés rendelkezéseit;
 - e) a hivatásos szolgálatra méltatlanná vált, mert olyan cselekményt követett el, amely a fegyveres szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a fegyveres szerv a szolgálati viszonyát fenntartsa,
 - f) a 44. § (3a) vagy (4) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő beosztás nem biztosítható,
-- g) a nemzetbiztonsági ellenőrzést végző szerv a szolgálati viszony létrehozására vonatkozó hozzájárulását visszavonta és a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati viszony fenntartását nem hagyta jóvá.
+- g) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a külön törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, és
+  - ga) a hivatásos állomány tagja a részére az eredeti beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt a 47/B. §-ban foglaltak szerint felajánlott beosztást nem fogadta el, vagy
+  - gb) a rendelkezési állomány ideje úgy telik el, hogy részére a 47/B. §-ban foglaltaknak megfelelő, felajánlható szolgálati beosztás nem volt.
 
 (3)
 
@@ -1084,7 +1106,7 @@ meghosszabbodik.
 
 (4) Ha a hivatásos állomány tagjának felmentésére kerül sor, felmentési idő nélkül kell megszüntetni a szolgálati viszonyát
 
-- a) a nemzetbiztonsági okból beosztásának ellátására alkalmatlanná vált,
+- a) a nemzetbiztonsági szempontból alkalmatlanná vált,
 - b) az 56. § (2) bekezdés b) pontjában meghatározott okból hivatásos szolgálatra alkalmatlanná vált,
 - c) az 56. § (2) bekezdés d) pontjában meghatározott,
 - d) az 56. § (2) bekezdés e) pontjában meghatározott okból a hivatásos szolgálatra méltatlanná vált
@@ -3253,13 +3275,15 @@ különbözetének megtérítése iránti igényt.
 
 (2) A 66/A–66/D. §-ban az országos parancsnokság részére meghatározott feladatokat és hatásköröket az Országgyűlési Őrség személyügyi szerve teljesíti és gyakorolja.
 
+276/J. § A 47/B. § alkalmazása helyett az Országgyűlési Őrség hivatásos állományú tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a külön törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta.
+
 ### XXI. Fejezet — A POLGÁRI NEMZETBIZTONSÁGI SZOLGÁLATOK HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ SZABÁLYOK
 
 277. § A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjaira e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 ### A szolgálati jogviszony jellege
 
-278. § A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja fontos és bizalmas munkakört betöltő személynek minősül; a nemzetbiztonsági szolgálatokról szóló törvényben foglalt különös követelmények a szolgálati viszony jellegét meghatározó sajátos szolgálati követelménynek minősülnek.
+278. § A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja nemzetbiztonsági ellenőrzés alá eső beosztást betöltő személynek minősül; a nemzetbiztonsági szolgálatokról szóló törvényben foglalt különös követelmények a szolgálati viszony jellegét meghatározó sajátos szolgálati követelménynek minősülnek.
 
 ### Az alapvető állampolgári jogok érvényesülése
 
@@ -3319,6 +3343,10 @@ különbözetének megtérítése iránti igényt.
 ### Vezénylés
 
 287. § A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagját külföldi szolgálatra – a miniszter jóváhagyásával – a munkáltatói jogkört gyakorló elöljárója vezényli.
+
+### Felmentés
+
+287/A. § A 47/B. § alkalmazása helyett a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a külön törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta.
 
 ### A szolgálati viszony tartalma
 
