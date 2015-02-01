@@ -216,7 +216,7 @@ hívja össze.
 
 (5) A katonai ügyész kinevezéséhez a honvédelemért felelős miniszter egyetértése szükséges. A katonai ügyészt erre a tisztségre kell kinevezni. A katonai ügyészt a honvédelemért felelős miniszter – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai ügyész szolgálatát az ügyészségi szolgálati viszonya megszűnéséig az ügyészi szervezetben teljesíti.
 
-(6) Fontos és bizalmas munkakörre ügyészségi szolgálati viszony azzal a személlyel létesíthető, aki külön törvényben előírt módon hozzájárul nemzetbiztonsági ellenőrzéséhez. A hozzájáruláshoz a külön törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell.
+(6) Nemzetbiztonsági ellenőrzés alá eső munkakörre ügyészségi szolgálati viszony azzal a személlyel létesíthető, aki külön törvényben előírt módon hozzájárul nemzetbiztonsági ellenőrzéséhez. A hozzájáruláshoz a külön törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell.
 
 12. § (1) A legfőbb ügyész jogkörébe tartozó ügyészi kinevezés előtt a pályázónak részt kell vennie az ügyészi pályára való alkalmasságának vizsgálatán (a továbbiakban: pályaalkalmassági vizsgálat).
 
@@ -1404,7 +1404,7 @@ ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel, t
 
 ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel és legalább alapfokú végzettséggel rendelkezik.
 
-(4) Fontos és bizalmas ügyészségi munkakört csak magyar állampolgár tölthet be.
+(4) Nemzetbiztonsági ellenőrzés alá eső ügyészségi munkakört csak magyar állampolgár tölthet be.
 
 (5) Nem nevezhető ki tisztviselőnek, írnoknak, fizikai alkalmazottnak az a személy, aki
 
@@ -2064,9 +2064,9 @@ Az állami készfizető kezességvállalással összefüggő adatok
 
 IX.
 
-– nemzetbiztonsági ellenőrzési kötelezettsége, szintje,
+– nemzetbiztonsági ellenőrzési kötelezettsége,
 
-– utolsó nemzetbiztonsági ellenőrzésének időpontja és szintje.
+– utolsó nemzetbiztonsági ellenőrzésének időpontja.
 
 X.
 

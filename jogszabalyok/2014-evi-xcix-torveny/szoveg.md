@@ -19,7 +19,7 @@ Magyarország 2015. évi központi költségvetésének megalapozásáról
 54. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
 - 1–45.
-- 46.
+- 46. 63. § (1) bekezdés h) pontjában az „a)–g)” szövegrész helyébe az „a)–f)” szöveg,
 - 47–52.
 - 53.
 - 54–66.
@@ -31,9 +31,9 @@ lép.
 (2) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
 
 - 1–10.
-- 11.
+- 11. 63. § (1) bekezdés g) pontja,
 - 12–13.
-- 14.
+- 14. 79. § (2) bekezdés g) pontja,
 - 15–24.
 
 ### II. Fejezet — A NYUGDÍJREFORM ÉS ADÓSSÁGCSÖKKENTŐ ALAP MEGSZÜNTETÉSE
@@ -54,12 +54,22 @@ lép.
 
 (2)
 
-60. §
+60. § Az állami vagyonról szóló 2007. évi CVI. törvény a következő 69/B. §-sal egészül ki:
+
+„69/B. § (1) A Nyugdíjreform és Adósságcsökkentő Alap által az állam tulajdonába térítésmentesen átadott eszközök felett a tulajdonosi jogokat az MNV Zrt. gyakorolja.
+
+(2) Az MNV Zrt. az átadott vagy az azok helyébe lépő eszközöket elkülönítetten köteles nyilvántartani.
+
+(3) Az átadott vagy – a vagyongazdálkodási tevékenység eredményeként bármely típusú tranzakcióval – az azok helyébe lépő eszközök MNV Zrt. általi értékesítéséből, hasznosításából, hozamából származó bevételt az államadósság csökkentésére kell fordítani. E cél megvalósulása érdekében az Államadósság Kezelő Központ Zrt. az értékesítési, hozam- vagy más hasznosítási bevétellel egyező összegű államadósság-csökkentési műveletet hajt végre.
+
+(4) A (3) bekezdés szerinti bevételt képező pénzeszközök költségvetési bevételként nem számolhatók el, azok az államháztartásról szóló törvény szerinti finanszírozási bevételnek minősülnek.
+
+(5) Az MNV Zrt. a (3) bekezdés szerinti bevételek összegéről, azok beérkezését követő hónap 15. napjáig írásos tájékoztatást küld az Államadósság Kezelő Központ Zrt. részére.”
 
 61. § Hatályát veszti
 
 - 1.
-- 2.
+- 2. a Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény,
 - 3.
 
 ### III. Fejezet — A SZOCIÁLIS ELLÁTÁSOK RENDSZERÉNEK ÁTALAKÍTÁSA

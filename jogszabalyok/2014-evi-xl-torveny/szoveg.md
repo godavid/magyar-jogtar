@@ -429,7 +429,7 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 - a) az elszámolás módszertanának részletes szabályait és annak képleteit,
 - b) a fogyasztói követelésből levonható kedvezmények elszámolásának szabályait, módját és annak képleteit,
 - c) az elszámolás részletes tartalmi és formai követelményeit,
-- d) az elszámolási fordulónapokat,
+- d)
 - e) a pénzügyi teljesítésre vonatkozó teljesítési határidőket,
 - f) a végelszámolás és a felszámolási eljárás alatt álló pénzügyi intézmény esetében az elszámolás során az MNB rendeletben meghatározott becslési módszertant,
 - g) az elszámolással kapcsolatos honlapon való közzététel tartalmi és formai követelményeit, és

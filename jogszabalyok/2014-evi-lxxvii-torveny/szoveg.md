@@ -54,9 +54,23 @@ is érteni kell.
 
 #### 3. A fogyasztói kölcsönszerződések módosulásának közös szabályai
 
-3. §
+3. § (1) A fogyasztói kölcsönszerződés az e törvényben meghatározottak szerint a törvény erejénél fogva módosul.
 
-4. § (1)
+(2) A pénzügyi intézmény köteles a fogyasztói kölcsönszerződés és az ahhoz kapcsolódó biztosítéki szerződés, jelzálogszerződés, önálló zálogjogi szerződés (a továbbiakban e § alkalmazásában együtt: jelzálogszerződés) e törvény szerint módosuló rendelkezéseinek szövegét elkészíteni.
+
+(3) A szerződés módosulásának napja
+
+- a) – a b) és c) pontban foglalt kivétellel – a fogyasztói kölcsönszerződés módosuló rendelkezései szövegének a fogyasztó által történő kézhezvételét követő nap,
+- b) deviza vagy a devizaalapú fogyasztói jelzálogkölcsön-szerződés esetén – ha a fogyasztó nem él a 12. § (1) bekezdésében meghatározott lehetőséggel – a fogyasztói kölcsönszerződés módosuló rendelkezései szövegének a fogyasztó által történő kézhezvételét követő harmincegyedik nap,
+- c) deviza vagy a devizaalapú fogyasztói jelzálogkölcsön-szerződés esetén – ha a pénzügyi intézmény arról értesíti a fogyasztót, hogy nem felel meg a 12. § (3) bekezdésében foglalt feltételek egyikének sem – a 12. § (4) bekezdésében meghatározott értesítés kézhezvételét követő nap.
+
+(4) A szerződés módosulásának hatálya a fordulónapra visszamenően áll be.
+
+(5) A fogyasztói kölcsönszerződés biztosítására szolgáló zálogjog és kezesség fennmarad, a szerződés e törvényben foglalt módosulásához a kezes, ideértve az állami kezest is, és – ha a fogyasztói kölcsönszerződés kötelezettje és a zálogkötelezett eltérő személy – a zálogkötelezett hozzájárulása nem szükséges, de e módosulás folytán helyzetük nem válhat terhesebbé.
+
+(6) Ha az e törvény szerint módosuló fogyasztói kölcsönszerződés refinanszírozására a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény szerint önálló zálogjog adásvételével vagy refinanszírozási jelzáloghitel nyújtásával került sor, akkor – a fogyasztói kölcsönszerződés e törvény szerint módosult feltételeinek megfelelően, e törvény erejénél fogva – módosul a refinanszírozásra vonatkozó jogviszony is. A refinanszírozás forintösszege a 10. § alapján forintra átváltott tartozás összegéhez igazodik. A refinanszírozás szerződéses feltételei a pénzügyi intézmény által a jelzálog-hitelintézet részére erről küldött írásbeli értesítés alapján, a fordulónapra visszamenő hatállyal módosulnak.
+
+4. § (1) A módosult fogyasztói kölcsönszerződést nem kell közjegyzői okiratba foglalni, a korábbi közjegyzői okirat a szerződés módosult tartalmának keretei között érvényes.
 
 (2) A fogyasztói kölcsönszerződés e törvény szerinti módosulása, illetve a 15. § (1) bekezdésében meghatározott tartozás e törvény szerinti forintra váltása nem akadályozza azt, hogy az okiratot készítő közjegyző
 
@@ -76,15 +90,125 @@ végrehajtási záradékkal lássa el. A közjegyzői okirat végrehajtási zár
 
 (7) Ha a fogyasztói kölcsönszerződés fedezetéül alapított, ingatlant terhelő jelzálogjog devizaneme eltér az e törvény erejénél fogva módosult tartalmú fogyasztói kölcsönszerződés devizanemétől, akkor a bejegyzett jelzálogjog összegének forintban meghatározandó összege megállapítása során a 10. §-ban meghatározott árfolyam alkalmazandó.
 
-5–9. §
+5. § (1) A pénzügyi intézmény a fogyasztói kölcsönszerződés módosuló rendelkezéseinek szövegét – az elszámolási törvény szerinti elszámolás közlésével együtt, az elszámolási törvény 16. § (1) bekezdésében meghatározott címre – küldi meg tértivevényes levélben.
+
+(2) Az (1) bekezdésben foglaltakhoz mellékelni kell
+
+- a) a szerződésmódosulás lényegi elemeiről készített, a Magyar Nemzeti Bank (a továbbiakban: MNB) elnökének rendeletében meghatározott összefoglalót,
+- b) a fordulónaptól hátralévő futamidőben esedékes törlesztőrészleteket tartalmazó törlesztési táblázatot,
+- c) a 13. §-ban foglalt felmondási jogra vonatkozó figyelemfelhívást,
+- d) a 12. §-ban foglalt kezdeményezés lehetőségére vonatkozó figyelemfelhívást és ehhez
+  - da) a jövedelemarányos törlesztőrészlet és a hitelfedezeti arányok szabályozásáról szóló jogszabály szerinti jövedelemarányos törlesztőrészlet mutató (a továbbiakban: JTM) számításához szükséges, a fogyasztó részéről csatolandó iratok jegyzékét,
+  - db) a 12. § (3) bekezdés c) és d) pontjában foglalt feltételek fennállására történő figyelemfelhívást, valamint
+  - dc) az árfolyamgáttal érintett fogyasztói kölcsönszerződések esetén a 12. § (3) bekezdésében meghatározott írásos nyilatkozat megtételére vonatkozó figyelemfelhívást.
+
+6. § (1) A fogyasztónak az e törvény szerinti szerződésmódosulás alapján fizetendő törlesztőrészletet első alkalommal az elszámolási törvény 13. § (1) és (2) bekezdésében meghatározott, az elszámolás megküldésére nyitva álló határidő utolsó napját követő hónapban kell teljesítenie.
+
+(2) Az (1) bekezdésben meghatározott időpontig fizetett és a fordulónaptól fizetendő törlesztőrészletek közötti különbség összegének számára ismertté válását követően a pénzügyi intézmény
+
+- a) ha a fogyasztó fizetési számlájának számát ismeri, a különbözet összegét haladéktalanul átutalja a fogyasztó fizetési számlájára, és a törlesztőrészlet-változásról szóló soron következő értesítésben erről a fogyasztót tájékoztatja,
+- b) ha a fogyasztó fizetési számlájának számát nem ismeri, akkor a fogyasztót haladéktalanul tájékoztatja arról, hogy fizetési számlája számának bejelentését követően a különbözet összegét fizetési számlájára átutalja, és arról, hogy ilyen bejelentés hiányában a különbözetet a fogyasztó a pénzügyi intézménynél készpénzben veheti fel.
+
+7. § (1) Az e törvény szerint módosuló fogyasztói kölcsönszerződések esetén a kamatperiódusok – referencia-kamatlábhoz kötött kamat esetén a kamatfelár-periódusok – időtartama, ha a fordulónaptól számított hátralévő futamidő meghaladja
+
+- a) a 16 évet, akkor öt év,
+- b) a 9 évet, de legfeljebb 16 év, akkor négy év,
+- c) a 3 évet, de legfeljebb 9 év, akkor három év.
+
+(2) Az e § hatálybalépését követő első új kamatperiódus, kamatfelár-periódus kezdőnapja a 2015. május 1. és 2016. április 30. közötti időtartamban az eredeti fogyasztói kölcsönszerződésben meghatározott ügyleti év fordulónapjának hónapjával és naptári napjával megegyező hónap, nap.
+
+(3) Ha a kamatperiódus, kamatfelár-periódus kezdőnapja az év adott hónapjában hiányzik, akkor a kamatperiódus, kamatfelár-periódus kezdőnapja a hónap utolsó napja.
+
+(4) Az utolsó kamatperiódus, kamatfelár-periódus időtartama az (1) bekezdésben meghatározott időtartamnál rövidebb is lehet.
+
+8. § (1) Az e törvény szerint módosuló fogyasztói kölcsönszerződés fordulónapot követő módosítására – ha e törvény eltérően nem rendelkezik – az Fhtv. rendelkezéseit kell alkalmazni.
+
+(2) Ha az e törvény szerint módosuló fogyasztói kölcsönszerződés kamata
+
+- a) a kamatperiódusok alatt rögzített kamat, akkor a kamat,
+- b) referencia-kamatlábhoz kötött kamat, akkor a kamatfelár
+
+mértékének Fhtv. szerinti, a fogyasztó hátrányára történő módosítására első ízben csak az e § hatálybalépését követő második kamatperiódus kezdőnapjával kerülhet sor.
+
+9. § (1) Az a díj, jutalék és költség, amely e § hatálybalépése előtt érvényesen került a fogyasztói kölcsönszerződésben megállapításra, a szerződés része marad.
+
+(2) A tételesen meghatározott díjat, jutalékot és költséget a pénzügyi intézmény jogosult évente egy alkalommal, április 1-jei hatállyal – első alkalommal 2016. április 1. napjával –, legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékével megemelni.
+
+(3) Az e törvény szerinti szerződésmódosulással összefüggésben a pénzügyi intézmény a fogyasztóval szemben díjat, költséget, jutalékot nem számíthat fel.
 
 #### 4. Deviza és devizaalapú fogyasztói jelzálogkölcsön-szerződések
 
-10–13. §
+10. § A deviza vagy devizaalapú fogyasztói jelzálogkölcsön-szerződés tekintetében jogosult pénzügyi intézmény az elszámolási törvény szerinti elszámolási kötelezettsége teljesítésének határidejéig köteles a deviza vagy devizaalapú fogyasztói jelzálogkölcsön-szerződés alapján fennálló vagy az abból eredő teljes, az elszámolási törvény alapján teljesített elszámolás alapján megállapított tartozást – ideértve a devizában felszámított kamatot, díjat, jutalékot és költséget is – a fordulónappal az adott devizanem
+
+- a) 2014. június 16. napja és 2014. november 7. napja közötti időszakban az MNB által hivatalosan jegyzett devizaárfolyamainak átlaga vagy
+- b) 2014. november 7. napján az MNB által hivatalosan jegyzett devizaárfolyama
+
+közül a fogyasztó számára kedvezőbb devizaárfolyamon forintkövetelésre átváltani (a továbbiakban: forintra átváltás).
+
+11. § (1) A deviza vagy devizaalapú fogyasztói jelzálogkölcsön-szerződés módosulásakor forintra átváltás esetén a pénzügyi intézmény csak referencia-kamatlábhoz kötött kamatot alkalmazhat.
+
+(2) Az alkalmazható referencia-kamatláb a három hónapos BUBOR.
+
+(3) A referencia-kamatláb második kamatperiódusának első napja
+
+- a) ha az első új kamatfelárperiódus kezdete 2015. május 1. napja és 2015. augusztus 1. napja közé esik, ez a nap,
+- b) minden más esetben a 2015. április 30-át követő azon hónap azon napja, amely az első új kamatfelár-periódus kezdő napjából háromhónapos visszaszámítással határozható meg.
+
+(4) A kamatfelár az eredeti kamatfelár, azzal, hogy
+
+- a) nem lehet kevesebb, mint 1 százalék, és
+- b) nem haladhatja meg
+  - ba) lakáscélú fogyasztói jelzálog kölcsönszerződés esetén a 4,5 százalékot vagy
+  - bb) nem lakás célú fogyasztói jelzálog kölcsönszerződés esetén a 6,5 százalékot.
+
+(5) Ha a fogyasztói jelzálogkölcsön-szerződés százalékban meghatározott eredeti induló kezelési költséget is tartalmaz, a (4) bekezdés b) pontjában meghatározott kamatfelárak mértékét az eredeti induló kezelési költség százalékpontjával csökkentett mértékben kell figyelembe venni.
+
+(6) Az e törvény szerinti szerződésmódosulással megállapított induló kamat nem haladhatja meg az eredetileg számítható kamatot, kivéve, ha ez a kamat alacsonyabb, mint az e § alapján meghatározható legkisebb induló kamat.
+
+12. § (1) A fogyasztó a fogyasztói jelzálogkölcsön-szerződés módosuló rendelkezéseinek kézhezvételét követő harminc napon belül a pénzügyi intézménynél írásban – az MNB elnökének rendeletében meghatározott tartalommal és formában – kezdeményezheti a 10. §-ban meghatározott forintra átváltás és a 11. §-ban meghatározott kamatszabályok alkalmazásának mellőzését.
+
+(2) Az (1) bekezdésben meghatározott kezdeményezésre adóstársak esetén az adóstársak együttes, egybehangzó nyilatkozatával van mód.
+
+(3) A fogyasztó az (1) bekezdés szerinti lehetőséggel akkor élhet, ha
+
+- a) igazolja, hogy a várható törlesztőrészletet meghaladó összegű rendszeres jövedelme van az MNB által hivatalos árfolyamként jegyzett devizanemben – amely jövedelem adóstársak esetében összesítve értendő –, vagy
+- b) a JTM alapján jogosult lenne az adott devizaalapú kölcsönt felvenni, valamint mellékeli az ennek igazolásához szükséges, a pénzügyi intézmény által az 5. § (2) bekezdés d) pont da) alpontja alapján megjelölt iratokat, vagy
+- c) a fogyasztói jelzálogkölcsön-szerződés hátralévő futamideje legkésőbb 2020. december 31. napján lejár, vagy
+- d) az e törvény alapján a forintra átváltás esetén számítható induló kamat meghaladja a (7) bekezdés alapján eredetileg számítható kamatot, kamatfelárat,
+
+és árfolyamgáttal érintett fogyasztói kölcsönszerződés esetén a fogyasztó a pénzügyi intézménynek írásban nyilatkozik annak tudomásulvételéről, hogy a pénzügyi intézmény a fordulónaptól kezdődően nem biztosítja az általa alkalmazott törlesztési árfolyam és az árfolyamgát törvényben meghatározott rögzített árfolyam közötti különbség forintösszegét az árfolyamgát törvény szerinti gyűjtőszámlahitelből történő folyósítással.
+
+(4) A pénzügyi intézmény a (3) bekezdésben foglalt feltételek fennállását az (1) bekezdés szerinti kezdeményezés kézhezvételétől számított harminc napon belül bírálja el, és erről tértivevényes levélben haladéktalanul értesíti a fogyasztót.
+
+(5) Ha a fogyasztó megfelel valamely, a (3) bekezdésben foglalt feltételnek, a pénzügyi intézmény a deviza, valamint devizaalapú fogyasztói jelzálogkölcsön-szerződés módosuló rendelkezéseit és az 5. § (2) bekezdés a) és b) pontjában foglalt, a módosuló deviza, valamint devizaalapú fogyasztói jelzálogkölcsön-szerződésre vonatkozó mellékleteket az elbírálástól számított hatvan napon belül megküldi részére.
+
+(6) Ha a fogyasztó megfelel valamely, a (3) bekezdésben foglalt feltételnek, a deviza vagy devizaalapú fogyasztói jelzálogkölcsön-szerződés havonta esedékessé váló törlesztőrészletének, valamint a devizában megállapított bármilyen költség, díj vagy jutalék forintban meghatározott összegének megállapítása a fordulónaptól az Fhtv. 21/B. § (1) és (2) bekezdésében meghatározott devizaárfolyam alapján történik.
+
+(7) Ha a fogyasztó megfelel valamely, a (3) bekezdésben foglalt feltételnek és az eredeti deviza, valamint devizaalapú fogyasztói jelzálogkölcsön-szerződés kamata
+
+- a) kamatperiódusok alatt rögzített, a deviza, valamint devizaalapú fogyasztói jelzálogkölcsön-szerződés fordulónaptól alkalmazható induló kamata nem haladhatja meg az eredetileg számítható kamatot;
+- b) referencia-kamatlábhoz kötött kamat, a fordulónaptól alkalmazható induló kamatfelár nem haladhatja meg az eredetileg számítható kamatfelárat.
+
+(8) Ha a fogyasztó nem felel meg a (3) bekezdésben foglalt egyik feltételnek sem, a fogyasztói jelzálogkölcsön-szerződés a 10. és 11. §-ban foglalt feltételeknek megfelelően módosul.
+
+13. § (1) Ha a deviza vagy devizaalapú fogyasztói jelzálogkölcsön-szerződés e törvény szerint forintalapú fogyasztói jelzálogkölcsön-szerződésre módosul, a fogyasztó a módosulást követő 60 napon belül a fogyasztói jelzálogkölcsön-szerződést felmondhatja.
+
+(2) Az (1) bekezdés szerinti felmondás esetén a fogyasztónak a felmondást követő 90 napon belül meg kell fizetnie a pénzügyi intézmény részére a felmondott szerződés alapján fennálló valamennyi tartozását.
+
+(3) Ha a fogyasztó a (2) bekezdés szerinti fizetési kötelezettség teljesítése érdekében a pénzügyi intézménnyel vagy másik pénzügyi intézménnyel új fogyasztói jelzálogkölcsön-szerződést köt,
+
+- a) a fizetési kötelezettség teljesítésével összefüggésben a felmondással érintett pénzügyi intézmény a fogyasztó terhére semmilyen díjat, költséget, jutalékot nem számíthat fel,
+- b) az új fogyasztói jelzálogkölcsön-szerződés biztosítékául szolgáló jelzálogjog – az új fogyasztói jelzálogkölcsön-szerződésből legfeljebb a (2) bekezdésben meghatározott fizetési kötelezettség teljesítésére fordított összeg erejéig – az eredeti fogyasztói jelzálogkölcsön-szerződés alapján bejegyzett jelzálogjog ranghelyén áll fenn, és
+- c) az új fogyasztói jelzálogkölcsön-szerződésnek nem kell megfelelnie a jövedelemarányos törlesztőrészlet és a hitelfedezeti arányok szabályozásáról szóló jogszabályban foglalt feltételeknek, ha
+  - ca) az új fogyasztói jelzálogkölcsön-szerződés forintalapú,
+  - cb) az új fogyasztói jelzálogkölcsön-szerződés hitelcélja megegyezik az eredeti fogyasztói jelzálogkölcsön-szerződés hitelcéljával, és
+  - cc) az új fogyasztói jelzálogkölcsön-szerződés kölcsönösszege nem haladja meg a (2) bekezdés szerinti fizetési kötelezettség összegét.
+
+(4) A közvetítő a (2) bekezdés szerinti tartozás egészben vagy részben történő teljesítése érdekében nyújtott forintalapú fogyasztói kölcsönre vonatkozó pénzügyi szolgáltatás közvetítéséért díjazást nem jogosult érvényesíteni megbízójával szemben.
 
 #### 5. A forintalapú fogyasztói kölcsönszerződések és a nem jelzálog fedezete mellett nyújtott deviza és devizaalapú fogyasztói kölcsönszerződések
 
-14. §
+14. § A forintalapú fogyasztói kölcsönszerződés és a nem jelzálog fedezete mellett nyújtott deviza és devizaalapú fogyasztói kölcsönszerződés esetében a fordulónaptól alkalmazható induló kamat, kamatfelár nem haladhatja meg az eredetileg számítható kamatot, kamatfelárat.
 
 #### 6. Egyes tartozások forintban meghatározott követelésre váltása
 
@@ -126,7 +250,9 @@ az elszámolási törvény 11. alcímében foglalt szabályok szerint – a (2) 
 
 (3) Az árfolyamgáttal érintett fogyasztói kölcsönszerződés esetében, ha az elszámolási törvény 12. §-ában meghatározott elszámolást követően forintban kifejezett gyűjtőszámlahitel-tartozás marad fenn, a gyűjtőszámla hitelkeret-szerződésekre és a gyűjtőszámlahitelre az e törvény hatálybalépését megelőző napon hatályos szabályokat kell alkalmazni azzal, hogy a fordulónaptól a gyűjtőszámlahitel – az árfolyamgát törvényben meghatározott, a gyűjtőszámlahitel terhére felszámolható kamat kivételével – nem növekedhet.
 
-(4)–(5)
+(4) A pénzügyi intézménynek a (2) bekezdésben meghatározott fogyasztói kölcsönszerződés esetében a fordulónaptól hátralévő futamidőt úgy kell megállapítania, hogy az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapot követően esedékes törlesztőrészletek nem haladhatják meg az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapban esedékes törlesztőrészlet 115 százalékát, vagy ha ez a mérték nem biztosítható, akkor a fogyasztó számára legkedvezőbb mértékű törlesztőrészletet.
+
+(5) A (4) bekezdésben meghatározott futamidő-számítás részletes szabályait a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletben határozza meg.
 
 (6) A fogyasztó a (2) bekezdésben meghatározott fogyasztói kölcsönszerződések esetében – az árfolyamgát törvényben meghatározott rögzített árfolyam alkalmazási időszak kezdő időpontjától számított hatvanadik hónapig – bármikor kezdeményezheti a fogyasztói kölcsönszerződés olyan módosítását, amely alapján a (2) bekezdésben meghatározott időszak alatt is az ott meghatározott törlesztőrészletnél magasabb törlesztőrészletet fizet. A felek a kezdeményezés kézhezvételét követő harminc nap utáni első törlesztőrészlet esedékességétől a szerződést a kezdeményezésnek megfelelően módosítják.
 
@@ -152,7 +278,7 @@ tartalmi és formai követelményeit.
 
 közül a fogyasztó számára kedvezőbb árfolyamot alkalmazza.
 
-(2)
+(2) Ha a fogyasztó megfelel valamelyik, a 12. § (3) bekezdésében foglalt feltételnek, akkor az (1) bekezdésben meghatározott árfolyam és a módosult szerződés szerint alkalmazható árfolyam eltéréséből eredő különbséget a pénzügyi intézmény a fogyasztóval legkésőbb a szerződés módosulásától számított 30 napon belül, a legközelebb esedékes törlesztőrészlet terhére vagy javára számolja el.
 
 (3) A forintalapúra módosult deviza vagy devizaalapú fogyasztói jelzálogkölcsön-szerződések esetében a pénzügyi intézmény az e törvény és az elszámolási törvény szerinti elszámolásokat az ügyféllel szemben 2015. február 1-jei nappal teljesíti azzal, hogy az elszámolások hatásait az ügyfélre vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2015. március 31-ig vezeti át, illetve rögzíti.
 
@@ -160,6 +286,10 @@ közül a fogyasztó számára kedvezőbb árfolyamot alkalmazza.
 
 (5) Az árfolyamgáttal érintett fogyasztói kölcsönszerződések esetében az árfolyamgát törvény szerinti gyűjtőszámlahitelből történő folyósításkor 2015. januárjában az (1) bekezdésben meghatározott árfolyamot kell a pénzügyi intézmény által alkalmazott törlesztési árfolyamnak tekinteni.
 
-22. §
+22. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/C. § (1) bekezdése a következő q) ponttal egészül ki:
+
+(Tárgyánál fogva díjmentes:)
+
+„q) az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: 2014. évi LXXVII. törvény) 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződést biztosító jelzálogjog ingatlan-nyilvántartási bejegyzése, illetve a 2014. évi LXXVII. törvény 13. § (1) bekezdése alapján felmondott fogyasztói jelzálogkölcsön szerződést biztosító jelzálogjog törlése.”
 
 23. §

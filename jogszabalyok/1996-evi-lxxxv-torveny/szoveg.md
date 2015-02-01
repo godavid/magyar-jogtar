@@ -145,7 +145,8 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - m)
 - n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
 - o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
-- p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése.
+- p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése,
+- q) az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: 2014. évi LXXVII. törvény) 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződést biztosító jelzálogjog ingatlan-nyilvántartási bejegyzése, illetve a 2014. évi LXXVII. törvény 13. § (1) bekezdése alapján felmondott fogyasztói jelzálogkölcsön szerződést biztosító jelzálogjog törlése.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
 

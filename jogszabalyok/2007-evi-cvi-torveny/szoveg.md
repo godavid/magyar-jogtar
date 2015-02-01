@@ -815,6 +815,16 @@ lép.
 
 (5) Az MNV Zrt. – annak érdekében, hogy a jogügylet számviteli elszámolása a gazdasági társaság vagyonában ne eredményezzen vagyonvesztést – jogosult a gazdasági társaság visszapótlási kötelezettségét elengedni, a visszapótlási kötelezettségből származó követelést a gazdasági társasság javára nem pénzbeli hozzájárulásként rendelkezésre bocsátani vagy az elszámolásról egyéb módon rendelkezni. A jogügylet és az annak végrehajtására irányuló eljárások (így különösen az ingatlan-nyilvántartási bejegyzés, telekalakítás, más célú hasznosítási eljárás) adó-, illeték-, díj-, valamint járulékmentesek és nem minősülnek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alapján termékértékesítésnek, illetve szolgáltatásnyújtásnak, a megállapodás esetleges egyéb költségei az MNV Zrt.-vel szerződő gazdasági társaságot terhelik.
 
+69/B. § (1) A Nyugdíjreform és Adósságcsökkentő Alap által az állam tulajdonába térítésmentesen átadott eszközök felett a tulajdonosi jogokat az MNV Zrt. gyakorolja.
+
+(2) Az MNV Zrt. az átadott vagy az azok helyébe lépő eszközöket elkülönítetten köteles nyilvántartani.
+
+(3) Az átadott vagy – a vagyongazdálkodási tevékenység eredményeként bármely típusú tranzakcióval – az azok helyébe lépő eszközök MNV Zrt. általi értékesítéséből, hasznosításából, hozamából származó bevételt az államadósság csökkentésére kell fordítani. E cél megvalósulása érdekében az Államadósság Kezelő Központ Zrt. az értékesítési, hozam- vagy más hasznosítási bevétellel egyező összegű államadósság-csökkentési műveletet hajt végre.
+
+(4) A (3) bekezdés szerinti bevételt képező pénzeszközök költségvetési bevételként nem számolhatók el, azok az államháztartásról szóló törvény szerinti finanszírozási bevételnek minősülnek.
+
+(5) Az MNV Zrt. a (3) bekezdés szerinti bevételek összegéről, azok beérkezését követő hónap 15. napjáig írásos tájékoztatást küld az Államadósság Kezelő Központ Zrt. részére.
+
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek minősülnek.
 
 (2) E törvény alkalmazásában gazdálkodó szervezet a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.

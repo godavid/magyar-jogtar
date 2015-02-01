@@ -203,6 +203,8 @@ kell érteni.
 
 (9) A KHR-t kezelő pénzügyi vállalkozás a (6)–(7) bekezdés szerinti tájékoztatási kötelezettségét – ha a nyilvántartott személy ezt kéri – elektronikus adatközlés útján is teljesítheti.
 
+(10) Az e törvény által előírt írásbeli tájékoztatásoknak a referenciaadat-szolgáltató a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 279. § (2) bekezdésének megfelelően azonosított elektronikus úton is eleget tehet utólag igazolható módon. Az írásbeli nyilatkozatokat a fogyasztó – a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:7. § (3) bekezdésének megfelelően – azonosított elektronikus úton is megteheti. A (4) bekezdés vonatkozásában a fogyasztó a szerződés azonosított elektronikus úton történő megküldésekor elektronikus módon igazolja, hogy a részére az (1) bekezdés alapján nyújtott tájékoztatást tudomásul vette. Ebben az esetben a fogyasztó külön aláírására igazolásként nincs szükség.
+
 16. § (1) A nyilvántartott személy kifogást emelhet referenciaadatainak a KHR-t kezelő pénzügyi vállalkozás részére történt átadása, azoknak a KHR-t kezelő pénzügyi vállalkozás által történő kezelése ellen, és kérheti a referenciaadat-helyesbítését, illetve törlését.
 
 (2) A nyilvántartott személy az (1) bekezdésben foglalt kifogást
