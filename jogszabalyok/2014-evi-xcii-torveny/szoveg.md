@@ -10,13 +10,7 @@ egyes törvényeknek a közpénzek szabályozásával összefüggő módosítás
 
 2. §
 
-3. § Az adózás rendjéről szóló 2003. évi XCII. törvény 172. § (19a) bekezdése helyébe a következő rendelkezés lép:
-
-„(19a) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó a fuvarozott termék vagy annak egy része tekintetében nem tett eleget a 22/E. § (1)–(4) bekezdése szerinti kötelezettségének, illetve a bejelentési kötelezettségét hibásan, valótlan adattartalommal vagy hiányosan teljesíti, úgy a termék vagy annak be nem jelentett része igazolatlan eredetűnek minősül, és az állami adó- és vámhatóság az adózó terhére az igazolatlan eredetű áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.”
-
-4. § Az adózás rendjéről szóló 2003. évi XCII. törvény 173. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha az adóhatóság a magánszemély vagy más adózó terhére egyéni vállalkozói tevékenység bejelentéséhez, cégbejegyzéshez kötött tevékenység vagy adóköteles tevékenység adószám hiányában történő végzése miatt mulasztási bírságot szab ki, a bejelentés vagy cégbejegyzés nélkül folytatott tevékenység eszközét, termék-előállítás esetén annak eredményét, az árukészletet – a romlandó áruk és az élő állatok kivételével – a kiszabott bírság összegének mértékéig, annak biztosítékaként lefoglalhatja, és erről a bírságot kiszabó határozatban rendelkezik. A lefoglalást az adóhatóság két hatósági tanú jelenlétében végzi, és arról jegyzőkönyvet vesz fel, a lefoglalt ingóságot zár alá veszi vagy az adózó költségére elszállíttatja és megőrzi. Ha az állami adó- és vámhatóság a 22/E. § (1)–(4) bekezdése szerinti kötelezettség elmulasztása, hibásan, valótlan adattartalommal vagy hiányosan történő teljesítése miatt mulasztási bírságot szab ki, a fuvarozott terméket – a romlandó áruk és az élő állatok kivételével – a kiszabott bírság összegének mértékéig, annak biztosítékaként lefoglalhatja, és erről a bírságot kiszabó határozatban rendelkezik. A lefoglalásról az állami adó- és vámhatóság jegyzőkönyvet vesz fel, a lefoglalt ingóságot zár alá veheti vagy az adózó költségére elszállíttatja és megőrzi. A 22/E. § (1)–(4) bekezdése szerinti kötelezettség elmulasztása, hibásan, valótlan adattartalommal vagy hiányosan történő teljesítése miatt az állami adó- és vámhatóság a mulasztási bírság kiszabásáról hozott határozatát a jelen lévő adózóval vagy annak képviselőjével, meghatalmazottjával, alkalmazottjával közli, és a határozat a közlés időpontjától kezdve fellebbezésre tekintet nélkül végrehajtható.”
+3–4. §
 
 5. §
 
