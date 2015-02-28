@@ -3701,7 +3701,7 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 
 (31) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a pénztárgép éves felülvizsgálatához kapcsolódó valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait.
 
-(32) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER működésével kapcsolatos részletszabályokat, különösen az EKAER szám megállapításának rendjét, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel, a kockázati biztosíték mértékének folyamatos meghatározásával kapcsolatos szabályokat rendeletben határozza meg.
+(32) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER hatálya alá tartozó termékértékesítést, termékbeszerzést és egyéb célú termékmozgatást, az EKAER működésével kapcsolatos szabályokat, az EKAER hatálya alóli mentesülés eseteit, valamint a kockázati biztosítékkal kapcsolatos szabályokat, különösen az EKAER szám megállapításának rendjét, a személyes adatok kivételével a bejelentendő adatok körét, a bejelentésre kötelezettek körét, a bejelentési kötelezettség teljesítése alóli egyedi mentesítés szabályait, az EKAER elektronikus felületén történő bejelentéssel, változás-bejelentéssel kapcsolatos szabályokat rendeletben határozza meg.
 
 (33) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott rendeletben határozza meg az EKAER működésével összefüggésben a kockázatos termékek körét.
 
@@ -4292,15 +4292,15 @@ is alkalmazni kell.
 
 (6) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény által megállapított 8. számú melléklet 1/C. alpontját 2015. január 1-jével kezdődő adómegállapítási időszakokra benyújtandó összesítő nyilatkozatok esetében kell először alkalmazni.
 
-(7) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény által megállapított 22/E. § és a 11. számú melléklet I–III. alcímei szerinti bejelentési kötelezettségeket első alkalommal a 2015. január 1-jén és azt követően megkezdett fuvarozások tekintetében kell teljesíteni.
-
-(8) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 11. számú melléklet IV. alcím 3. pontja szerinti biztosítékot első alkalommal 2015. január 31-éig kell nyújtani, az eddig az időpontig az EKAER-be rögzített adatok alapján. A biztosíték összegének meghatározása során az annak alapjául szolgáló időszakot 2015. január 1-jétől az első biztosítékadási kötelezettséggel érintett bejelentés időpontjáig kell számolni. Ha az első biztosítékadási kötelezettséggel érintett bejelentésre 2015. március 1-jét követően kerül sor, a biztosíték összegének alapjául szolgáló időszakot a 11. melléklet IV. alcím 3. pontja alapján kell meghatározni.
-
-(9) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény által megállapított 172. § (19a) bekezdését, 173. § (1) bekezdését 2015. február 1-jétől kell alkalmazni.
+(7)–(9)
 
 206. § A 2015. január 1-jét megelőző időszakra teljesítendő bejelentési, adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési, bizonylatkiállítási, adatszolgáltatási és adólevonási kötelezettségre a 2014. december 31-én hatályos 31. § (2) bekezdés 6. és 13. pontját kell alkalmazni.
 
 207. § A 2014. december 31-én hatályos 24/F. § (6) bekezdés d) pontját a 2014. december 31-én hatályos 24/F. § (6) bekezdés c) pontja szerinti határozatok tekintetében 2014. december 31-ét követően is alkalmazni kell.
+
+208. § (1) Az EKAER rendszerében kockázati biztosítékot első alkalommal 2015. március 11-től kell nyújtani.
+
+(2) E törvény 172. § (19a) bekezdését és 173. § (1) bekezdését 2015. március 1-jétől kell alkalmazni.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
