@@ -56,7 +56,7 @@ is érteni kell.
 
 3. § (1) A fogyasztói kölcsönszerződés az e törvényben meghatározottak szerint a törvény erejénél fogva módosul.
 
-(2) A pénzügyi intézmény köteles a fogyasztói kölcsönszerződés és az ahhoz kapcsolódó biztosítéki szerződés, jelzálogszerződés, önálló zálogjogi szerződés (a továbbiakban e § alkalmazásában együtt: jelzálogszerződés) e törvény szerint módosuló rendelkezéseinek szövegét elkészíteni.
+(2) A pénzügyi intézmény köteles a fogyasztói kölcsönszerződés és az ahhoz kapcsolódó biztosítéki szerződés, jelzálogszerződés, önálló zálogjogi szerződés e törvény szerint módosuló rendelkezéseinek szövegét elkészíteni.
 
 (3) A szerződés módosulásának napja
 
@@ -100,7 +100,8 @@ végrehajtási záradékkal lássa el. A közjegyzői okirat végrehajtási zár
 - d) a 12. §-ban foglalt kezdeményezés lehetőségére vonatkozó figyelemfelhívást és ehhez
   - da) a jövedelemarányos törlesztőrészlet és a hitelfedezeti arányok szabályozásáról szóló jogszabály szerinti jövedelemarányos törlesztőrészlet mutató (a továbbiakban: JTM) számításához szükséges, a fogyasztó részéről csatolandó iratok jegyzékét,
   - db) a 12. § (3) bekezdés c) és d) pontjában foglalt feltételek fennállására történő figyelemfelhívást, valamint
-  - dc) az árfolyamgáttal érintett fogyasztói kölcsönszerződések esetén a 12. § (3) bekezdésében meghatározott írásos nyilatkozat megtételére vonatkozó figyelemfelhívást.
+  - dc) az árfolyamgáttal érintett fogyasztói kölcsönszerződések esetén a 12. § (3) bekezdésében meghatározott írásos nyilatkozat megtételére vonatkozó figyelemfelhívást,
+- e) a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: Khrtv.) 15. § (6) bekezdése szerinti tájékoztatást.
 
 6. § (1) A fogyasztónak az e törvény szerinti szerződésmódosulás alapján fizetendő törlesztőrészletet első alkalommal az elszámolási törvény 13. § (1) és (2) bekezdésében meghatározott, az elszámolás megküldésére nyitva álló határidő utolsó napját követő hónapban kell teljesítenie.
 
@@ -115,7 +116,7 @@ végrehajtási záradékkal lássa el. A közjegyzői okirat végrehajtási zár
 - b) a 9 évet, de legfeljebb 16 év, akkor négy év,
 - c) a 3 évet, de legfeljebb 9 év, akkor három év.
 
-(2) Az e § hatálybalépését követő első új kamatperiódus, kamatfelár-periódus kezdőnapja a 2015. május 1. és 2016. április 30. közötti időtartamban az eredeti fogyasztói kölcsönszerződésben meghatározott ügyleti év fordulónapjának hónapjával és naptári napjával megegyező hónap, nap.
+(2) Az e § hatálybalépését követő első új kamatperiódus, kamatfelár-periódus kezdőnapja a deviza vagy devizaalapú kölcsönszerződés esetén 2015. május 1. és 2016. április 30., forintalapú kölcsönszerződés esetén 2015. október 1. és 2016. szeptember 30. közötti időtartamban az eredeti fogyasztói kölcsönszerződésben meghatározott ügyleti év fordulónapjának hónapjával és naptári napjával megegyező hónap, nap.
 
 (3) Ha a kamatperiódus, kamatfelár-periódus kezdőnapja az év adott hónapjában hiányzik, akkor a kamatperiódus, kamatfelár-periódus kezdőnapja a hónap utolsó napja.
 
@@ -132,7 +133,7 @@ mértékének Fhtv. szerinti, a fogyasztó hátrányára történő módosítás
 
 9. § (1) Az a díj, jutalék és költség, amely e § hatálybalépése előtt érvényesen került a fogyasztói kölcsönszerződésben megállapításra, a szerződés része marad.
 
-(2) A tételesen meghatározott díjat, jutalékot és költséget a pénzügyi intézmény jogosult évente egy alkalommal, április 1-jei hatállyal – első alkalommal 2016. április 1. napjával –, legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékével megemelni.
+(2) A tételesen meghatározott díjat, jutalékot és minden egyéb, százalékosan meghatározott, az Fhtv. 17/E. §-a szerinti költségnek nem minősülő fizetési kötelezettséget a pénzügyi intézmény jogosult évente egy alkalommal, április 1-jei hatállyal – első alkalommal 2016. április 1. napjával –, legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékével megemelni.
 
 (3) Az e törvény szerinti szerződésmódosulással összefüggésben a pénzügyi intézmény a fogyasztóval szemben díjat, költséget, jutalékot nem számíthat fel.
 
@@ -151,8 +152,8 @@ közül a fogyasztó számára kedvezőbb devizaárfolyamon forintkövetelésre 
 
 (3) A referencia-kamatláb második kamatperiódusának első napja
 
-- a) ha az első új kamatfelárperiódus kezdete 2015. május 1. napja és 2015. augusztus 1. napja közé esik, ez a nap,
-- b) minden más esetben a 2015. április 30-át követő azon hónap azon napja, amely az első új kamatfelár-periódus kezdő napjából háromhónapos visszaszámítással határozható meg.
+- a) ha az első új referencia-kamatláb periódus kezdete 2015. május 1. napja és 2015. augusztus 1. napja közé esik, ez a nap,
+- b) minden más esetben a 2015. április 30-át követő azon hónap azon napja, amely az első új referencia-kamatláb periódus kezdő napjából háromhónapos visszaszámítással határozható meg.
 
 (4) A kamatfelár az eredeti kamatfelár, azzal, hogy
 
@@ -221,6 +222,8 @@ közül a fogyasztó számára kedvezőbb devizaárfolyamon forintban meghatáro
 
 (2) A pénzügyi intézmény az (1) bekezdésben meghatározott átváltásról és a tartozás annak megfelelően forintban fennálló összegéről – a (3) bekezdésben meghatározott lehetőségre történő figyelemfelhívás mellett – a fogyasztót az elszámolási törvény szerinti elszámolás közlésével együtt tértivevényes levélben tájékoztatja.
 
+(2a) Ha az elszámolási törvény 6. § (3) bekezdése által érintett fogyasztó e rendelkezés hatálybalépéséig nem kezdeményezte a pénzügyi intézménynél az elszámolás teljesítését, akkor e fogyasztó vonatkozásában a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a pénzügyi intézmény a tájékoztatást az elszámolás közlésétől függetlenül, 2015. április 30. napjáig küldi meg a fogyasztó részére.
+
 (3) Ha a fogyasztó a (2) bekezdésben meghatározott tájékoztatás kézhezvételét követő 30 napon belül a pénzügyi intézménynél írásban kezdeményezi, a pénzügyi intézmény köteles a forintra átváltott követelést az (1) bekezdésben meghatározott árfolyamon az eredeti devizanemben meghatározott követelésre visszaváltani.
 
 #### 7. Felülvizsgálat
@@ -246,11 +249,11 @@ az elszámolási törvény 11. alcímében foglalt szabályok szerint – a (2) 
 
 18. § (1) A fogyasztói kölcsönszerződésre vonatkozó e törvényben meghatározott szabályokat, valamint az árfolyamgát törvénynek a devizakölcsön törlesztési árfolyamának rögzítésére és a gyűjtőszámla hitelkeret-szerződésre, valamint a gyűjtőszámlahitelre vonatkozó szabályait az ezen alcím szerinti eltérésekkel kell alkalmazni.
 
-(2) Az árfolyamgáttal és az e törvény alapján a forintra átváltással egyaránt érintett fogyasztói kölcsönszerződés esetében a 2015. február hónapban esedékes törlesztőrészlettől kezdve az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapban esedékes törlesztőrészletig, a törlesztőrészlet – az e törvény alapján számítható kamatváltozásból eredő törlesztőrészlet-növekedés kivételével – nem haladhatja meg a 2015. januárjában esedékes törlesztőrészletet.
+(2) Az árfolyamgáttal és az e törvény alapján a forintra átváltással egyaránt érintett fogyasztói kölcsönszerződés esetében a 2015. február hónapban esedékes törlesztőrészlettől kezdve az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapban esedékes törlesztőrészletig, a törlesztőrészlet – az e törvény alapján számítható kamatváltozásból eredő törlesztőrészlet-növekedés, valamint az életbiztosítási vagy lakás-előtakarékossági szerződéssel kombinált fogyasztói kölcsönszerződés esetén a szerződésből eredő törlesztőrészlet-növekedés kivételével – nem haladhatja meg a 2015. januárjában esedékes törlesztőrészletet.
 
 (3) Az árfolyamgáttal érintett fogyasztói kölcsönszerződés esetében, ha az elszámolási törvény 12. §-ában meghatározott elszámolást követően forintban kifejezett gyűjtőszámlahitel-tartozás marad fenn, a gyűjtőszámla hitelkeret-szerződésekre és a gyűjtőszámlahitelre az e törvény hatálybalépését megelőző napon hatályos szabályokat kell alkalmazni azzal, hogy a fordulónaptól a gyűjtőszámlahitel – az árfolyamgát törvényben meghatározott, a gyűjtőszámlahitel terhére felszámolható kamat kivételével – nem növekedhet.
 
-(4) A pénzügyi intézménynek a (2) bekezdésben meghatározott fogyasztói kölcsönszerződés esetében a fordulónaptól hátralévő futamidőt úgy kell megállapítania, hogy az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapot követően esedékes törlesztőrészletek nem haladhatják meg az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapban esedékes törlesztőrészlet 115 százalékát, vagy ha ez a mérték nem biztosítható, akkor a fogyasztó számára legkedvezőbb mértékű törlesztőrészletet.
+(4) A pénzügyi intézménynek a (2) bekezdésben meghatározott fogyasztói kölcsönszerződés hátralévő futamidejét úgy kell megállapítania, hogy az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapot követően esedékes törlesztőrészletek nem haladhatják meg az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapban esedékes törlesztőrészlet 115 százalékát, vagy ha ez a mérték nem biztosítható, akkor a fogyasztó számára legkedvezőbb mértékű törlesztőrészletet.
 
 (5) A (4) bekezdésben meghatározott futamidő-számítás részletes szabályait a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletben határozza meg.
 
@@ -286,6 +289,6 @@ közül a fogyasztó számára kedvezőbb árfolyamot alkalmazza.
 
 (5) Az árfolyamgáttal érintett fogyasztói kölcsönszerződések esetében az árfolyamgát törvény szerinti gyűjtőszámlahitelből történő folyósításkor 2015. januárjában az (1) bekezdésben meghatározott árfolyamot kell a pénzügyi intézmény által alkalmazott törlesztési árfolyamnak tekinteni.
 
-22. §
+22. § A Khrtv. 15. § (6) bekezdésében foglalt, e törvénnyel összefüggő adatszolgáltatási kötelezettségének a referenciaadat-szolgáltató akként tesz eleget, hogy a természetes személyt az adatátadás megtörténtéről az 5. § (1) bekezdésében foglalt szerződésmódosulással egyidejűleg értesíti.
 
 23. §
