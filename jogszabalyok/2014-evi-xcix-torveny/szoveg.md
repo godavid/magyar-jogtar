@@ -21,7 +21,7 @@ Magyarország 2015. évi központi költségvetésének megalapozásáról
 - 1–45.
 - 46.
 - 47–52.
-- 53.
+- 53. 83. § (1) bekezdésében a „továbbá” szövegrész helyébe az „a közfoglalkoztatáshoz nyújtott támogatásnak – a jogszabály alapján előlegként folyósított támogatás kivételével – a közfoglalkoztatási bér és annak közterhei megfizetésére szolgáló részét és” szöveg,
 - 54–66.
 
 lép.
@@ -70,33 +70,232 @@ lép.
 
 63. §
 
-64–66. §
+64. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4/A. §-a helyébe a következő rendelkezés lép:
+
+„4/A. § (1) Az e törvényben meghatározott szociális feladat- és hatásköröket
+
+a) a helyi önkormányzat képviselő-testülete,
+
+b) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
+
+c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), vagy
+
+d) a szociális hatóság
+
+gyakorolja [az a)–d) pontokban foglaltak a továbbiakban együtt: szociális hatáskört gyakorló szerv].
+
+(2) A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében az e törvényben
+
+a) a helyi önkormányzat képviselő-testülete számára meghatározott feladat- és hatásköröket a fővárosi önkormányzat közgyűlése,
+
+b) a jegyző számára meghatározott feladat- és hatásköröket a fővárosi főjegyző
+
+gyakorolja.”
+
+65. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 18. § l) pontja helyébe a következő rendelkezés lép:
+
+(A jegyző a települési önkormányzat és a jegyző feladat- és hatáskörébe tartozó szociális tartozó szociális ellátásokra való jogosultság megállapítása, az ellátások biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza)
+
+„l) a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
+
+la) a támogatott szolgáltatást szolgáltatási vagy közszolgáltatási szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
+
+lb) a lakáscélú kölcsönszerződés adósának és adóstársának a kölcsönt nyújtó pénzintézet általi azonosításához szükséges adatot.”
+
+66. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 18/A. §-a a következő k) ponttal egészül ki:
+
+(A járási hivatal a feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza)
+
+„k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó törvényben foglalt adatokat.”
 
 67. §
 
-68–74. §
+68. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 19. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
+
+(3) A 18/B. § szerinti országos nyilvántartást vezető hatóság az aktív korúak ellátására jogosultak tekintetében az aktív korúak ellátására jogosult személynek a 18/A. § a), b), d) és e) pontjában meghatározott adatairól az állami foglalkoztatási szervet – annak az Flt. 57/B. §-ában meghatározott nyilvántartási és adatszolgáltatási feladatai teljesítésének elősegítésére – folyamatos elektronikus adatkapcsolat keretében tájékoztatja.
+
+(4) A jegyző – a képviselő-testületnek a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatás érvényesítésével kapcsolatos feladata teljesítése céljából – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott módon átadja a 18. § l) pont la) alpontja szerinti szolgáltató részére a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatásra jogosult személy 18. § a) pont aa) és ab) alpontjában, d) és e) pontjában, valamint a 18. § l) pont la) alpontjában foglalt adatait.”
+
+69. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 24. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A képviselő-testület a 18. § l) pont la) alpontjában foglaltak körében adatot kérhet a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatással támogatott szolgáltatást szolgáltatási vagy közszolgáltatási szerződés alapján nyújtó szolgáltatótól.”
+
+70. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Szociális rászorultság esetén a jogosult számára
+
+a) a járási hivatal – az e törvényben meghatározott feltételek szerint –
+
+aa) időskorúak járadékát,
+
+ab) foglalkoztatást helyettesítő támogatást,
+
+ac) egészségkárosodási és gyermekfelügyeleti támogatást,
+
+ad) a 41. § (1) bekezdése szerinti ápolási díjat, a 43. § szerinti ápolási díjat (a továbbiakban: kiemelt ápolási díj), a 43/A. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: emelt összegű ápolási díj);
+
+b) a képviselő-testület – az e törvényben és a települési önkormányzat rendeletében meghatározott feltételek szerint – települési támogatást
+
+állapít meg (a továbbiakban együtt: szociális rászorultságtól függő pénzbeli ellátások).”
+
+(2) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 25. §-a a következő (14) bekezdéssel egészül ki:
+
+„(14) A jogosultnak a hatóság illetékességét érintő lakcímváltozása esetén a (3) bekezdés a) pontja szerinti ellátásokra való jogosultságot a lakcímváltozás hónapjának utolsó napjával meg kell szüntetni.”
+
+71. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 32/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az aktív korúak ellátására való jogosultságnak a nyugdíjkorhatár betöltésére tekintettel történő megszüntetése esetén a járási hivatal a döntés jogerőre emelkedését követően haladéktalanul, hivatalból eljárást indít az időskorúak járadékára való jogosultság megállapítása iránt. A jogosultság megállapítása esetén annak kezdő napja az aktív korúak ellátására való jogosultság megszűnését követő nap.”
+
+72. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 37. §-a helyébe a következő rendelkezés lép:
+
+„37. § (1) Az az aktív korúak ellátására jogosult személy, aki az ellátásra való jogosultság kezdő napján
+
+a) egészségkárosodott személynek minősül, vagy
+
+b) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, csecsemőgondozási díjban – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben nem tudják biztosítani,
+
+egészségkárosodási és gyermekfelügyeleti támogatásra jogosult.
+
+(2) Ha az (1) bekezdés szerinti valamely feltétel az aktív korúak ellátására való jogosultság megállapítását követően következik be, a jogosult részére az egészségkárosodási és gyermekfelügyeleti támogatást a feltétel bekövetkezésének időpontját követő hónap első napjától kell megállapítani.
+
+(3) Ha az (1) bekezdés a) vagy b) pontja szerinti valamely feltétel megszűnik, a feltétel megszűnését követő hónap első napjától a 35. § (1) bekezdése szerinti ellátást kell megállapítani és a 35. § (3) bekezdése szerinti kötelezettséget kell előírni. A feltétel megszűnésének hónapjára – ha az aktív korúak ellátására való jogosultság továbbra is fennáll – egészségkárosodási és gyermekfelügyeleti támogatás jár.
+
+(4) Az egészségkárosodási és gyermekfelügyeleti támogatás havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, az egészségkárosodási és gyermekfelügyeleti támogatás összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 92%-ának szorzatával.”
+
+73. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 37/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 36. § (1) bekezdés a) és c) pontja szerinti esetben az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása szünetel.”
+
+74. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 37/C. §-a helyébe a következő rendelkezés lép:
+
+„37/C. § (1) A hajléktalan személy részére megállapított aktív korúak ellátására való jogosultságról rendelkező határozatot közölni kell a kijelölt kerületi hivatallal.
+
+(2) A kijelölt kerületi hivatal az aktív korúak ellátására jogosult hajléktalanokról a 18/A. §-ban szabályozott nyilvántartást vezeti és gondoskodik a foglalkoztatást helyettesítő támogatásnak vagy az egészségkárosodási és gyermekfelügyeleti támogatásnak a hajléktalan személy által meghatározott, határozatban foglalt címre történő folyósításáról.
+
+(3) Ha a hajléktalan személy a (2) bekezdés szerint folyósított ellátást három hónapos időtartamon keresztül nem veszi át, a kijelölt kerületi hivatal szünetelteti a folyósítást és az erről szóló végzését közli az ellátást megállapító járási hivatallal, amely dönt az ellátás fenntartásáról, illetve megszüntetéséről.
+
+(4) Ha ugyanazon hajléktalan személy részére két vagy több járási hivatal döntése szerint egyidejűleg kellene a (2) bekezdés szerinti ellátást folyósítani, csak az utóbb megállapított ellátás folyósítható. Ilyen esetben a kijelölt járási hivatal közli az ellátásra való jogosultságot korábban megállapító járási hivatallal az általa megállapított ellátás folyósításának megszüntetéséről szóló határozatát.
+
+(5) A foglalkoztatást helyettesítő támogatásra jogosult hajléktalan személy együttműködési kötelezettsége az ellátást megállapító járási hivatal székhelye szerint illetékes állami foglalkoztatási szervvel áll fenn.”
 
 75–78. §
 
-79. § (1)
+79. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 44. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ápolási díj havi összege a központi költségvetésről szóló törvényben meghatározott alapösszeg
+
+a) 100%-a a 41. § (1) bekezdésében meghatározott esetben,
+
+b) 180%-a a kiemelt ápolási díj esetében,
+
+c) 150%-a az emelt összegű ápolási díj esetében.”
 
 (2)
 
-80–83. §
+80. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 45. §-a és az azt megelőző alcím helyébe a következő rendelkezés lép:
+
+„Települési támogatás
+
+45. § (1) A képviselő-testület az e törvény rendelkezései alapján nyújtott pénzbeli és természetbeni ellátások kiegészítéseként, önkormányzati rendeletben meghatározott feltételek alapján települési támogatást nyújt. Települési támogatás keretében nyújtható támogatás különösen
+
+a) a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez,
+
+b) a 18. életévét betöltött tartósan beteg hozzátartozójának az ápolását, gondozását végző személy részére,
+
+c) a gyógyszerkiadások viseléséhez,
+
+d) a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek részére.
+
+(2) Más jogszabály alkalmazásában az (1) bekezdés a) pontja szerinti célra nyújtott települési támogatást lakásfenntartási támogatásnak kell tekinteni.
+
+(3) A képviselő-testület a létfenntartást veszélyeztető rendkívüli élethelyzetbe került, valamint az időszakosan vagy tartósan létfenntartási gonddal küzdő személyek részére rendkívüli települési támogatást köteles nyújtani.
+
+(4) Rendkívüli települési támogatásban elsősorban azokat a személyeket indokolt részesíteni, akik önmaguk, illetve családjuk létfenntartásáról más módon nem tudnak gondoskodni vagy alkalmanként jelentkező többletkiadások – így különösen betegséghez, halálesethez, elemi kár elhárításához, a válsághelyzetben lévő várandós anya gyermekének megtartásához, iskoláztatáshoz, a gyermek fogadásának előkészítéséhez, a nevelésbe vett gyermek családjával való kapcsolattartásához, a gyermek családba való visszakerülésének elősegítéséhez kapcsolódó kiadások – vagy a gyermek hátrányos helyzete miatt anyagi segítségre szorulnak.
+
+(5) A rendkívüli települési támogatás kérelemre és hivatalból – különösen nevelési-oktatási intézmény, gyámhatóság vagy más családvédelemmel foglalkozó intézmény, illetve természetes személy vagy a gyermekek érdekeinek védelmét ellátó társadalmi szervezet kezdeményezésére – is megállapítható.
+
+(6) Ha a fővárosi önkormányzat és a kerületi önkormányzat nem állapodik meg ettől eltérően, a fővárosban a hajléktalanok számára nyújtott rendkívüli települési támogatás megállapítása a fővárosi önkormányzat feladata.
+
+(7) A települési önkormányzat rendeletében a havi rendszerességgel nyújtott települési támogatás – ide nem értve az (1) bekezdés d) pontja szerinti célra nyújtott támogatást – havi összegét úgy kell szabályozni, hogy az nem haladhatja meg az öregségi nyugdíj mindenkori legkisebb összegét.”
+
+81. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 47. §-a helyébe a következő rendelkezés lép:
+
+„47. § (1) Természetbeni szociális ellátásként a járási hivatal
+
+a) az 50. § (1) bekezdése szerinti alanyi közgyógyellátást, illetve az 50. § (2) bekezdése szerinti normatív közgyógyellátást, és
+
+b) egészségügyi szolgáltatásra való jogosultságot
+
+állapít meg.
+
+(2) A 32–32/A. §-t az e Fejezet szerinti ellátásokra – az 55/D. §-ban meghatározott kivétellel – alkalmazni kell.”
+
+82. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50. § (4) és (4a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal dönt. Az alanyi közgyógyellátásra való jogosultságot két évre, a normatív közgyógyellátásra való jogosultságot egy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben meghatározott kivétellel – a jogosultságot megállapító határozat meghozatalát követő 15. nap.
+
+(4a) A közgyógyellátásra való jogosultság ugyanazon időszakra vonatkozóan csak egy jogcímen állapítható meg.”
+
+(2) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha a normatív közgyógyellátás iránti kérelmet jogerősen elutasították, és az újabb kérelem benyújtásáig
+
+a) a gyógykezelést szolgáló terápiában, illetőleg a gyógyszerek térítési díjában nem következett be olyan változás, amelynek következtében a havi rendszeres gyógyító ellátás költsége megnőtt, és
+
+b) a kérelmező jövedelme nem változott,
+
+a járási hivatal a kérelmet érdemi vizsgálat nélkül elutasítja.”
+
+83. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A háziorvos igazolását a járási hivatal öt napon belül továbbítja az egészségbiztosítási szervnek. A normatív közgyógyellátás megállapítását kérelmező személy esetében az igazolást a járási hivatal csak akkor továbbítja, ha a kérelmező megfelel az előírt jövedelmi feltételeknek.”
 
 84. §
 
-85. §
+85. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 124. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, az egészségkárosodási és gyermekfelügyeleti támogatás, valamint az ápolási díj teljes összegét a központi költségvetés biztosítja.”
 
 86. §
 
-87. §
+87. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (4) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza)
+
+„g) a települési támogatás keretében nyújtott ellátások jogosultsági feltételeit, valamint az ellátások megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályait.”
 
 88–89. §
 
 90. § (1)
 
-(2)
+(2) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
+
+- 1. 4. § (1) bekezdés i) pontjában a „rendszeres szociális segély” szövegrész helyébe a „rendszeres szociális segély és az egészségkárosodási és gyermekfelügyeleti támogatás” szöveg, a „terhességi-gyermekágyi segély” szövegrész helyébe a „csecsemőgondozási díj” szöveg,
+- 2. 4. § (1a) bekezdés 1. pontjában az „önkormányzati segély” szövegrész helyébe az „önkormányzati segély, rendkívüli települési támogatás” szöveg,
+- 3. 7. § (1) bekezdésében az „önkormányzati segélyt” szövegrész helyébe a „rendkívüli települési támogatást” szöveg,
+- 4. 7. § (2) bekezdésében az „a kifizetett önkormányzati segély” szövegrész helyébe az „az (1) bekezdés alapján kifizetett rendkívüli települési támogatás” szöveg,
+- 5. 10. § (6) bekezdésében az „az önkormányzat, annak jegyzője vagy a járási hivatal hivatalos tudomása” szövegrész helyébe az „a települési önkormányzat vagy a járási hivatal a hivatalos tudomása” szöveg,
+- 6. 17. § (5) bekezdésében a „helyi önkormányzat képviselő-testülete” szövegrész helyébe a „képviselő-testület” szöveg,
+- 7. 18. § nyitó szövegrészében a „települési önkormányzat és a jegyző” szövegrész helyébe a „települési önkormányzat képviselő-testületének” szöveg,
+- 8. 18. § a) pontjában az „e törvény rendelkezései” szövegrész helyébe az „e törvény rendelkezései, illetve a települési önkormányzat rendelete” szöveg,
+- 9. 18/A. § f) pontjában az „egy főre” szövegrész helyébe az „egy főre vagy egy fogyasztási egységre” szöveg,
+- 10. 25. § (4) bekezdésében az „a rendszeres szociális segélyre” szövegrész helyébe az „az egészségkárosodási és gyermekfelügyeleti támogatásra” szöveg,
+- 11. 25. § (13) bekezdésében az „a rendszeres szociális segély” szövegrész helyébe az „az egészségkárosodási és gyermekfelügyeleti támogatás” szöveg,
+- 12. 26. §-ában a „települési önkormányzat képviselő-testülete” szövegrész helyébe a „képviselő-testület” szöveg,
+- 13. 33. § (1) bekezdésében, 34. § (4) bekezdésében a „jegyző” szövegrész helyébe a „járási hivatal” szöveg,
+- 14. 33. § (6) bekezdésében az „a rendszeres szociális segély” szövegrész helyébe az „az egészségkárosodási és gyermekfelügyeleti támogatás” szöveg,
+- 15. 33. § (7) bekezdésében a „jegyzőnek” szövegrész helyébe a „járási hivatalnak” szöveg,
+- 16. 34. § (1) bekezdés g) pontjában a „közoktatási, illetőleg” szövegrész helyébe a „köznevelési, vagy” szöveg,
+- 17. 37/B. § (1a) bekezdésében az „a rendszeres szociális segélyre” szövegrész helyébe az „az egészségkárosodási és gyermekfelügyeleti támogatásra” szöveg, az „a rendszeres szociális segély” szövegrész helyébe az „az egészségkárosodási és gyermekfelügyeleti támogatás” szöveg,
+- 18. 43/C. §-ában a „kiemelt ápolási díj, az emelt összegű ápolási díj, valamint a méltányossági ápolási díj” szövegrész helyébe a „kiemelt ápolási díj és az emelt összegű ápolási díj” szöveg,
+- 19. 48. § (1) bekezdésében a „polgármestere önkormányzati hatáskörben” szövegrész helyébe a „képviselő-testülete” szöveg,
+- 20. 50. § (1) bekezdés b) pontjában az „a rendszeres szociális segélyben részesülő” szövegrész helyébe az „az aktív korúak ellátására jogosult” szöveg,
+- 21. 50. § (2) bekezdésében az „egyedül élő” szövegrész helyébe az „egyedülélő” szöveg,
+- 22. 132. § (1) bekezdés y) pontjában a „32/D. § (1) bekezdése” szövegrész helyébe a „32/D. § (1) bekezdése és 37/C. § (1) bekezdése” szöveg
+
+lép.
 
 (3)
 
@@ -104,19 +303,48 @@ lép.
 
 (2)
 
-(3)
+(3) Hatályát veszti a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
+
+- 1. 17. § (4) bekezdésében az „a jegyző, illetve” szövegrész,
+- 2. 17. § (6) bekezdésében a „jegyző vagy a” szövegrész,
+- 3. 18. § h), i) és k) pontja,
+- 4. 25. § (12) bekezdés c) pontja,
+- 5. 32. § (1) bekezdés a) pontjában az „a jegyző vagy” szövegrész,
+- 6. 34. § (2) bekezdés e) pontjában a „ , vagy a 37/B. § (2) bekezdése alapján a rendszeres szociális segélyre” szövegrész,
+- 7. 37/A. §-a,
+- 8. 37/B. § (2) bekezdése,
+- 9. 38. §-át megelőző alcímének címe, 38. §-a és 39. §-a,
+- 10. 43/B. §-a,
+- 11. 50. § (3) bekezdése,
+- 12. 50/A. § (6) bekezdésében a „települési önkormányzat képviselő-testületének, illetve” szövegrész,
+- 13. 50/A. § (10) bekezdésében a „települési önkormányzat képviselő-testülete, illetve a” szövegrész,
+- 14. 50/B. § (1) bekezdésében a „vagy a méltányossági” szövegrész,
+- 15. 50/C. § (3) bekezdés h) pontjában a „ , méltányossági” szövegrész,
+- 16. 50/D. §-ában a „települési önkormányzat képviselő-testületénél, illetve” szövegrész,
+- 17. 52. § (1) bekezdésében a „jegyző, illetve a” szövegrész és az „a 18., illetve” szövegrész,
+- 18. 52. § (2) bekezdésében a „jegyző, illetve a” szövegrész,
+- 19. 53. §-a,
+- 20. 55. §-át megelőző alcímének címe és 55–55/C. §-a,
+- 21. 124. § (4) bekezdése,
+- 22. 125. § c) pontja,
+- 23. 132. § (4) bekezdés b), c), e) és f) pontja.
 
 #### 4. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-92. §
+92. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény
+
+- 1. 68. §-ában a „terhességi-gyermekágyi segélyből” szövegrész helyébe a „csecsemőgondozási díjból” szöveg,
+- 2. 74. § b) pontjában az „ideértve a meghatározott célra kapott segélyt is” szövegrész helyébe az „ideértve a meghatározott célra kapott segélyt is, a rendkívüli települési támogatás” szöveg
+
+lép.
 
 #### 5. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-93. §
+93. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 115/P. § (2) bekezdésében a „rendszeres szociális segélyt kap” szövegrész helyébe az „aktív korúak ellátására jogosult” szöveg lép.
 
 #### 6. A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény módosítása
 
-94. §
+94. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 1. melléklet 20. pontjában a „foglalkoztatást helyettesítő támogatás, rendszeres szociális segély” szövegrész helyébe az „aktív korúak ellátása, rendkívüli települési támogatás” szöveg lép.
 
 95. § (1)
 
@@ -142,7 +370,7 @@ lép.
 
 108. § (1)
 
-(2)
+(2) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 34. § (8) bekezdésében „az Szt. szerinti önkormányzati segély” szövegrész helyébe a „rendkívüli települési támogatás” szöveg lép.
 
 (3)
 
@@ -150,11 +378,37 @@ lép.
 
 #### 8. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló2005. évi CXXXV. törvény módosítása
 
-110. §
+110. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 6. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(Jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő az az áldozat, aki)
+
+„d) számára egészségügyi szolgáltatás igénybevétele céljából a szociális rászorultságot megállapították,”
 
 #### 9. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-111–112. §
+111. § (1) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 8. pontja helyébe a következő rendelkezés lép:
+
+(A helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó helyi önkormányzati feladatok különösen:)
+
+„8. gyermekjóléti szolgáltatások és ellátások;”
+
+(2) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdése a következő 8a. ponttal egészül ki:
+
+(A helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó helyi önkormányzati feladatok különösen:)
+
+„8a. szociális szolgáltatások és ellátások, amelyek keretében települési támogatás állapítható meg;”
+
+112. § (1) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 23. § (5) bekezdés 11. pontja helyébe a következő rendelkezés lép:
+
+(A kerületi önkormányzat feladata különösen:)
+
+„11. gyermekjóléti szolgáltatások és ellátások;”
+
+(2) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 23. § (5) bekezdése a következő 11a. ponttal egészül ki:
+
+(A kerületi önkormányzat feladata különösen:)
+
+„11a. szociális szolgáltatások és ellátások, amelyek keretében települési támogatás állapítható meg;”
 
 113. §
 

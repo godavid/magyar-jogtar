@@ -816,7 +816,7 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
 
 (7) Az örökbefogadhatónak nyilvánítás szempontjából nem tekinthető rendszeres kapcsolattartásnak a levélírás, a telefonhívás, a csomagküldés és a gyámhatóság határozatában szabályozottól jelentősen eltérő évenkénti egy-két látogatás.
 
-(8) A kapcsolattartással összefüggő, a gyermek számára a bentlakásos gyermekintézményben, a befogadó szülőnél biztosított teljes körű ellátás által nem fedezett költségeket a kapcsolattartásra jogosult viseli. A települési önkormányzat az Szt. szerinti önkormányzati segély formájában nyújthat segítséget a kapcsolattartásra jogosult számára a kapcsolattartással összefüggő költségek viseléséhez, különösen az utazási költségekhez, illetve a kapcsolattartásra jogosult otthonában történő kapcsolattartás esetén a gyermek ellátásának költségeihez. A területi gyermekvédelmi szakszolgálat a kapcsolattartást szabályozó jogszabályokban meghatározottak szerint nyújt segítséget és támogatást a kapcsolattartás megvalósításához.
+(8) A kapcsolattartással összefüggő, a gyermek számára a bentlakásos gyermekintézményben, a befogadó szülőnél biztosított teljes körű ellátás által nem fedezett költségeket a kapcsolattartásra jogosult viseli. A települési önkormányzat rendkívüli települési támogatás formájában nyújthat segítséget a kapcsolattartásra jogosult számára a kapcsolattartással összefüggő költségek viseléséhez, különösen az utazási költségekhez, illetve a kapcsolattartásra jogosult otthonában történő kapcsolattartás esetén a gyermek ellátásának költségeihez. A területi gyermekvédelmi szakszolgálat a kapcsolattartást szabályozó jogszabályokban meghatározottak szerint nyújt segítséget és támogatást a kapcsolattartás megvalósításához.
 
 ### Érdekvédelem
 

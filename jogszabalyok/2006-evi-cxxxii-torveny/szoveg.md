@@ -114,9 +114,9 @@ a feladatról – a (12) bekezdésben foglaltak figyelembevételével – a 4. h
 
 (4) Az átvett feladattal összefüggésben állami tulajdonba kerülő ingatlan tekintetében a tulajdonjog bejegyzésére a Kormány által kijelölt szerv kérelmére, az átadás-átvételről a Kormány rendeletében meghatározott módon elkészített jegyzőkönyv alapján díj- és illetékmentes eljárás keretében kerül sor.
 
-(5) Az (1) bekezdés alapján állami tulajdonba került vagyon tekintetében az átvétel időpontjától a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.
+(5) Az (1) bekezdés alapján állami tulajdonba került vagyon tekintetében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.
 
-(6) A GYEMSZI az (5) bekezdés szerinti intézkedései során az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint jár el azzal, hogy a (4) bekezdés szerinti ingatlan-nyilvántartási bejegyzést követően – a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 3. § (3)–(3a) bekezdésében meghatározott kivétellel – önállóan jogosult a tulajdonosi joggyakorlásába tartozó vagyontárgy elidegenítésére, vagyonkezelésbe adására, illetve egyéb módon történő hasznosítására.
+(6) Az ÁEEK az (5) bekezdés szerinti intézkedései során az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint jár el azzal, hogy a (4) bekezdés szerinti ingatlan-nyilvántartási bejegyzést követően – a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 3. § (3)–(3a) bekezdésében meghatározott kivétellel – önállóan jogosult a tulajdonosi joggyakorlásába tartozó vagyontárgy elidegenítésére, vagyonkezelésbe adására, illetve egyéb módon történő hasznosítására.
 
 1/C. § (1) Az egészségügyi intézményt az állam az egészségügyi intézmény kötelezettségvállalásai alapján keletkezett fizetési kötelezettségekkel együtt veszi át.
 

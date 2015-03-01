@@ -14,7 +14,7 @@ Az Országgyűlés az egészségügyi ellátás folyamatos és biztonságos ell�
 
 (2) A társaságnak az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 41. § (4) bekezdése szerinti ügyleteiből és a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből származó valamennyi joga és kötelezettsége a feladat átvételének időpontjában e törvény erejénél fogva az államra száll.
 
-(3) A feladat átvételének időpontjától az államot a (2) bekezdés szerinti ügyletek tekintetében a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) képviseli.
+(3) Az államot a (2) bekezdés szerinti ügyletek tekintetében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) képviseli.
 
 4. § (1) A feladat átvételének időpontjában a társaság tulajdonában álló vagyon e törvény erejénél fogva ingyenesen az államra száll.
 
@@ -24,7 +24,7 @@ Az Országgyűlés az egészségügyi ellátás folyamatos és biztonságos ell�
 
 (4) Az (1) bekezdésben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel.
 
-(5) A feladat átvételének időpontjától az állam tulajdonába kerülő vagyon tekintetében a tulajdonosi jogokat a GYEMSZI gyakorolja.
+(5) Az e törvény szerint az állam tulajdonába került vagyon tekintetében a tulajdonosi jogokat az ÁEEK gyakorolja.
 
 (6) A társaság által kezelt nyilvántartások a feladat átvételének időpontjában a befogadó intézmény kezelésébe kerülnek.
 
@@ -69,7 +69,7 @@ Az Országgyűlés az egészségügyi ellátás folyamatos és biztonságos ell�
 
 (2) A társaság e törvény alapján történő megszűnésére a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) végelszámolásra vonatkozó szabályait, valamint a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Csődtv.) felszámolási eljárásra vonatkozó szabályait nem kell alkalmazni. E törvény hatálybalépését követően a társasággal szemben felszámolási, illetve csődeljárás nem indítható.
 
-(3) A GYEMSZI e törvény hatálybalépését követő 5 napon belül egy alkalommal a Cégközlönyben felhívást tesz közzé. A felhívás közzététele közzétételi költségtérítés megfizetése nélkül történik. A felhívásban tájékoztatást kell adni arról, hogy a társaság megszűnésére e törvény rendelkezései alapján kerül sor, továbbá meg kell jelölni a 3. § (1) és (2) bekezdése szerinti jogutódot és az állam képviseletét a 3. § (3) bekezdés alapján ellátó szervet. A felhívásnak tartalmaznia kell, hogy a még le nem járt követelések megtérítését a hitelező nem követelheti, az e törvény szerinti feladatátvételre hivatkozással a szerződést nem mondhatja fel.
+(3)
 
 (4) A cégbíróság a társaságot a feladat átvételének időpontját követő 5 munkanapon belül jogutód feltüntetése nélkül hivatalból törli a cégjegyzékből.
 
@@ -110,7 +110,7 @@ Az Országgyűlés az egészségügyi ellátás folyamatos és biztonságos ell�
 
 8. § (1) A társaság vezető állású munkavállalói közül az intézményvezetőnek (vezérigazgatónak, ügyvezetőnek, főigazgatónak), az orvos igazgatónak (orvos vezetőnek), az ápolási igazgatónak és a gazdasági vezetőnek – az 1. melléklet 22., 23., 25–29. sorában szereplő társaság kivételével – a vezetői munkakörét, megbízatását a feladat átvétele nem érinti, részükre a kinevezési, megbízási jogkör gyakorlója – társaságnál vezetőként eltöltött idő figyelembevételével – határozott idejű, de legfeljebb 5 évre szóló magasabb vezetői megbízást ad, vagy – ha jogszabály azt előírja –, a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezéseinek alkalmazásával munkaviszonyt létesít. Az 1. melléklet 22., 23., 25–29. sorában szereplő társaság vezető állású munkavállalói részére a kinevezési, megbízási jogkör gyakorlója magasabb vezetői megbízást adhat.
 
-(2) A feladat átadásáról-átvételéről jegyzőkönyv készül, amelyet a társaságnak az átadással járó feladatok ellátására kijelölt vezető tisztségviselője (a továbbiakban: kijelölt vezető tisztségviselő), valamint a GYEMSZI képviselője ír alá. A kijelölt vezető tisztségviselő a jegyzőkönyv aláírásával teljes körű felelősséget vállal az általa tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért és érdemi vizsgálatra alkalmas voltáért.
+(2)
 
 (3) A kijelölt vezető tisztségviselő felel azért a kárért, amely abból keletkezik, hogy a vagyonátadással, az iratátadással összefüggő kötelezettségeit nem vagy nem teljeskörűen teljesítette, vagy valótlan tartalmú nyilatkozatot tett.
 
