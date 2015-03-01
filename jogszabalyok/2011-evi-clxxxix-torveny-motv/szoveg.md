@@ -96,7 +96,8 @@ képes ellátni.
 - 5. környezet-egészségügy (köztisztaság, települési környezet tisztaságának biztosítása, rovar- és rágcsálóirtás);
 - 6. óvodai ellátás;
 - 7. kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; a helyi közművelődési tevékenység támogatása;
-- 8. szociális, gyermekjóléti szolgáltatások és ellátások;
+- 8. gyermekjóléti szolgáltatások és ellátások;
+- 8a. szociális szolgáltatások és ellátások, amelyek keretében települési támogatás állapítható meg;
 - 9. lakás- és helyiséggazdálkodás;
 - 10. a területén hajléktalanná vált személyek ellátásának és rehabilitációjának, valamint a hajléktalanná válás megelőzésének biztosítása;
 - 11. helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás;
@@ -264,7 +265,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - 8. ipari és kereskedelmi tevékenységgel kapcsolatos szabályozási jogkörök;
 - 9. egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások;
 - 10. óvodai ellátás;
-- 11. szociális, gyermekjóléti szolgáltatások és ellátások;
+- 11. gyermekjóléti szolgáltatások és ellátások;
+- 11a. szociális szolgáltatások és ellátások, amelyek keretében települési támogatás állapítható meg;
 - 12. a területén hajléktalanná vált személyek ellátásának és rehabilitációjának, valamint a hajléktalanná válás megelőzésének biztosítása;
 - 13. a helyi közművelődési tevékenység támogatása, a kulturális örökség helyi védelme;
 - 14. saját tulajdonú lakás- és helyiséggazdálkodás;

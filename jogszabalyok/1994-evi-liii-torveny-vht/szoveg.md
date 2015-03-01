@@ -932,7 +932,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 ### Levonás egészségbiztosítási pénzbeli ellátásból
 
-68. § A baleseti járadékból, a baleseti táppénzből, a táppénzből, a gyermekgondozási díjból, valamint a terhességi-gyermekágyi segélyből legfeljebb 33%-ot lehet levonni az alábbi követelések fejében:
+68. § A baleseti járadékból, a baleseti táppénzből, a táppénzből, a gyermekgondozási díjból, valamint a csecsemőgondozási díjból legfeljebb 33%-ot lehet levonni az alábbi követelések fejében:
 
 - a) gyermektartásdíj,
 - b) jogalap nélkül felvett egészségbiztosítási ellátás.
@@ -976,7 +976,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 74. § Mentes a letiltás alól
 
 - a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
-- b) az átmeneti segély, az önkormányzati segély, ideértve a meghatározott célra kapott segélyt is, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
+- b) az átmeneti segély, az önkormányzati segély, ideértve a meghatározott célra kapott segélyt is, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
 - c) anyasági támogatás,
 - d) a rokkantsági járadék és a vakok személyi járadéka,
 - e) az egészségkárosodásra tekintettel járó keresetkiegészítés, az átmeneti keresetkiegészítés, a jövedelemkiegészítés, az átmeneti jövedelemkiegészítés, a bányászok egészségkárosodási járadéka,
@@ -2894,25 +2894,25 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 230. § (1) A végrehajtási szervezet feletti általános felügyeletet a miniszter látja el.
 
-(2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének kamarai vizsgálatát kezdeményezheti.
+(2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének vizsgálatát kezdeményezheti.
 
-(3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a kamara feladata.
+(3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése az Igazságügyi Hivatal feladata.
 
-(4) A kamara a végrehajtó működésének ellenőrzését az igazságügyért felelős miniszter rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében az igazságügyért felelős miniszter rendeletében meghatározott időszakonként minden végrehajtó tevékenységének átfogó vizsgálatát el kell végezni. A kamara elnöke indokolt esetben írásbeli, az elrendelésének okát is tartalmazó határozattal hivatalból elrendelheti a végrehajtó tevékenységének vizsgálatát; a miniszter megkeresésére a vizsgálatot el kell rendelni.
+(4) Az Igazságügyi Hivatal a végrehajtó működésének ellenőrzését a Kormány rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Kormány rendeletében meghatározott időszakonként minden végrehajtó tevékenységének el kell végezni.
 
 (5) A törvényszéki végrehajtókkal kapcsolatban a (2)–(4) bekezdésben említett feladatokat a törvényszék elnöke látja el azzal, hogy a végrehajtó tevékenységének vizsgálatát az általa kijelölt bíró, bírósági titkár és végrehajtási ügyintéző is végezheti.
 
 (6) A végrehajtói tevékenység vizsgálatának eredményéről a minisztert – a törvényszéki végrehajtókra vonatkozóan az Országos Bírósági Hivatal elnökét is – tájékoztatni kell.
 
-230/A. § (1) A kamara elnöke a végrehajtó vizsgálatának elrendelésével egyidejűleg kijelöli a vizsgálatot végző személyeket.
+230/A. § (1)
 
-(2) A vizsgálatot végző személy a vizsgálat lefolytatása érdekében a végrehajtó irodájába beléphet, végrehajtói működésével kapcsolatos iratait, nyilvántartásait, pénzügyi bizonylatait megtekintheti, azokról másolatot készíthet, végrehajtó által lefolytatott eljárási cselekményen részt vehet, a kamara nyilvántartásaiból adatot igényelhet és felhívhatja a végrehajtót a vizsgálat tárgyára vonatkozó adatszolgáltatására, tájékoztatás adására.
+(2) A végrehajtó vizsgálatát végző személy a vizsgálat lefolytatása érdekében a végrehajtó irodájába beléphet, végrehajtói működésével kapcsolatos iratait, nyilvántartásait, pénzügyi bizonylatait megtekintheti, azokról másolatot készíthet, végrehajtó által lefolytatott eljárási cselekményen részt vehet, a kamara nyilvántartásaiból adatot igényelhet és felhívhatja a végrehajtót a vizsgálat tárgyára vonatkozó adatszolgáltatására, tájékoztatás adására.
 
 (3) A végrehajtó köteles a vizsgálatot végző személy felhívásának eleget tenni, a vizsgálat elvégzése érdekében valamennyi rendelkezésére álló adatot, iratot rendelkezésére bocsátani, a helyszíni vizsgálat lefolytatását lehetővé tenni, irodájába a belépést és az iratokba, nyilvántartásokba, pénzügyi bizonylatokba a betekintést biztosítani; ha e kötelezettségének nem tesz eleget, a helyszíni vizsgálaton nem jelenik meg vagy nem nyilatkozik, ez a vizsgálat lefolytatását nem gátolja.
 
 (4) A végrehajtó-helyettes és végrehajtójelölt vizsgálata során megfelelően alkalmazni kell az (1)–(3) bekezdésben foglaltakat azzal, hogy a (3) bekezdésben meghatározott kötelezettség a vizsgált személyt alkalmazó végrehajtót is terheli.
 
-(5) A vizsgálat eredményéről jegyzőkönyvet kell készíteni, amelyet a kamara elnökének és a miniszternek is meg kell küldeni. A miniszter végrehajtó vizsgálata esetében a vizsgálati jegyzőkönyv beérkezését követő 60 napon belül a 239. § (4a) bekezdése szerint jár el vagy fegyelmi feljelentést tesz a végrehajtóval szemben, ha pedig ezen intézkedések megtétele nem szükséges, az iratokat visszaküldi a kamara részére.
+(5)
 
 (6) A miniszter által vezetett minisztérium képviselője jogosult a végrehajtó vizsgálatán részt venni, a vizsgálat tárgyát képező adatokat megismerni.
 
@@ -2932,8 +2932,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 - a) tájékoztatást nyújt a sajtó, a rádió és a televízió részére a végrehajtási ügyekről,
 - b) elrendelheti a végrehajtó összeférhetetlenségének ellenőrzését, és a kamara által lefolytatott ellenőrzés eredményétől függően az összeférhetetlenség fennállását bejelenti a miniszter felé,
 - c) elrendelheti a 226/A. §-ban foglaltak betartásának ellenőrzését,
-- d) elrendelheti a végrehajtók vizsgálatát, és a vizsgálat elrendelése esetén kijelölheti a vizsgálatot végző személyeket (230/A. §),
-- e) a vizsgálati jegyzőkönyv alapján javaslatot tehet a miniszternek a végrehajtói szolgálat megszűnésének megállapítására vagy fegyelmi feljelentés tételére, vagy a kamara elnökének fegyelemi feljelentés tételére,
+- d)–e)
 - f) dönt a tartós helyettes kirendeléséről, valamint a tartós helyettesi kirendelés megszüntetéséről,
 - g) engedélyezi a végrehajtók közös irodájának létesítését és a végrehajtói iroda alapítását,
 - h) iránymutatás kiadását kezdeményezheti,
@@ -2945,8 +2944,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (5) A miniszteri biztos felügyeli
 
-- a) a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek szakmai felügyeletének ellátását [250. § (2) bekezdés h) pont],
-- b) a panaszügyek kezelését [250. § (2) bekezdés i) pont],
+- a)–b)
 - c) a kamara ügyintézési és ügyviteli tevékenységét [253/B. § (3) bekezdés].
 
 (6) A miniszteri biztos a tevékenységéről havonta beszámol a miniszternek.
@@ -3078,7 +3076,7 @@ esetén van lehetőség.
 
 (4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
 
-(4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a 230/A. § alapján lefolytatott átfogó vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
+(4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtói vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
 
 (5) Ha a kamara a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni. Összeférhetetlenség esetén a kamara írásban felszólítja a végrehajtót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén jelenti be a miniszternek az összeférhetetlenség fennállását.
 
@@ -3275,7 +3273,7 @@ esetén van lehetőség.
 - e) a végrehajtói szolgálat megszűnésével kapcsolatos körülményekről tájékoztatja a minisztert,
 - f) engedélyezi a végrehajtók közös irodájának létesítését és a végrehajtói iroda alapítását, nyilvántartást vezet a végrehajtói irodákról,
 - g) ellenőrzi a végrehajtó hivatali helyiségét, felelősségbiztosítását, a biztosíték összegének befizetését, bélyegzőlenyomatát, a letéti és elszámolási számla megnyitásáról szóló szerződést,
-- h) ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét és pénzkezelését ellenőrizni, a végrehajtó iratait és nyilvántartásait megvizsgálni, magatartását ellenőrizni, a tényállás megállapítása céljából a végrehajtás során történt adatigénylésről vezetett adatszolgáltatási, adattovábbítási nyilvántartásokból adatot igényelni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni,
+- h)
 - i) intézi a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyeket, a bíróság hatáskörébe tartozó ügyek kivételével,
 - j) igazolja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek gyakorlatát,
 - k) szervezi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek képzését és továbbképzését; lebonyolítja a végrehajtó-jelölti kézbesítési vizsgát,
@@ -3296,12 +3294,12 @@ esetén van lehetőség.
 - f) működteti az elektronikus árverési rendszert,
 - g) működteti a végrehajtási ügyek végrehajtók közötti elosztására és a végrehajtható okiratok, valamint a kézbesítendő okiratok végrehajtóknak történő megküldésére szolgáló informatikai alkalmazást.
 
-(4) A kamara a tagjaira kötelező iránymutatást adhat ki különösen a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek
+(4) A kamara a tagjaira kötelező iránymutatást adhat ki különösen a panaszügyek intézéséről, továbbá a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek
 
 - a) képzéséről és továbbképzéséről,
 - b) magatartási szabályairól,
 - c) statisztikai adatszolgáltatásáról,
-- d) működésének vizsgálatáról és a panaszügyek intézéséről.
+- d)
 
 (5) A kamara működésével felmerülő kiadásokat elsősorban a végrehajtók által fizetett kamarai hozzájárulás (tagdíj), a kamara tevékenységével kapcsolatos gazdasági tevékenységből származó bevétel, az általános költségátalány összege fedezi.
 
@@ -3685,6 +3683,14 @@ kérhetnek adatszolgáltatást.
 
 (7) A kamarai hatósági eljárásban az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton írásban kapcsolatot tartani.
 
+### Az Igazságügyi Hivatal
+
+254/I. § Az Igazságügyi Hivatal
+
+- a) ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét és pénzkezelését ellenőrizni, a végrehajtó iratait és nyilvántartásait megvizsgálni, magatartását ellenőrizni, a tényállás megállapítása céljából a végrehajtás során történt adatigénylésről vezetett adatszolgáltatási, adattovábbítási nyilvántartásokból adatot igényelni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni,
+- b) felügyeli a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyek intézését, a bíróság hatáskörébe tartozó ügyek kivételével,
+- c) fegyelmi eljárást kezdeményez.
+
 ### XX. Fejezet — A TÖRVÉNYSZÉKI VÉGREHAJTÓ
 
 ### A törvényszéki végrehajtó feladata
@@ -3917,7 +3923,7 @@ kérhetnek adatszolgáltatást.
 
 ### A fegyelmi eljárás megindítása
 
-278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, a törvényszék elnöke vagy a kamara elnöke feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
+278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, az Igazságügyi Hivatal főigazgatója, a törvényszék elnöke vagy a kamara elnöke feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
 
 (2) A fegyelmi tanács a feljelentésnek a fegyelmi bíróság elnökéhez való érkezésétől számított 30 napon belül határozattal dönt arról, hogy a fegyelmi eljárást megindítja-e.
 
@@ -4227,7 +4233,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 307. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a 7. § (3) bekezdésének b) pontjában megjelölt összegek végrehajtás alá vonásának részletes szabályait,
-- b) a végrehajtói kézbesítés részletes eljárási szabályait.
+- b) a végrehajtói kézbesítés részletes eljárási szabályait,
+- c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
@@ -4246,7 +4253,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - m) a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
 - n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint ezek megfizetésének módját,
 - o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
-- p) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének, magatartásának ellenőrzésére irányuló kamarai vizsgálatok lefolytatására, a vizsgálat területeire és szempontjaira, valamint a fegyelmi eljárás során a vizsgálóbiztos által végzett fegyelmi vizsgálatok lefolytatására vonatkozó részletes szabályokat,
+- p)
 - q) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
 
 308. §
