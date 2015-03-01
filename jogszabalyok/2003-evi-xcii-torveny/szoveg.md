@@ -596,72 +596,23 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 ### A termékek közúti fuvarozásával kapcsolatos bejelentési kötelezettség
 
-22/E. § (1) Útdíjköteles gépjárművel végzett, közúti fuvarozással járó
+22/E. § (1) Útdíjköteles gépjárművel végzett, közúti fuvarozással járó, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott termékértékesítést, termékbeszerzést, egyéb célú termékmozgatást kizárólag érvényes Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (a továbbiakban: EKAER) számmal rendelkező adózó folytathat.
 
-- a) az Európai Unió más tagállamából Magyarország területére irányuló termékbeszerzést vagy egyéb célú behozatalt,
-- b) Magyarország területéről az Európai Unió más tagállamába irányuló termékértékesítést vagy egyéb célú kivitelt,
-- c) belföldi forgalomban nem végfelhasználó részére történő első adóköteles termékértékesítést
+(2) Az (1) bekezdést alkalmazni kell az e törvény végrehajtására kiadott miniszteri rendelet által kockázatosnak minősített termékre vonatkozóan, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott esetben akkor is, ha a terméket olyan gépjárművel fuvarozzák, amely nem útdíjköteles.
 
-(a továbbiakban együtt: közúti fuvarozással járó tevékenység) kizárólag érvényes Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (a továbbiakban: EKAER) számmal rendelkező adózó folytathat.
+(3) Az adózó a (2) bekezdés szerinti esetben, valamint akkor, ha az (1) bekezdés szerinti tevékenységét e törvény végrehajtására kiadott miniszteri rendelet által kockázatosnak minősített termékkel végzi, e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerinti esetekben kockázati biztosítékot köteles nyújtani.
 
-(2) A közúti fuvarozással járó tevékenységet folytatni kívánó adózó az EKAER szám megállapítása érdekében köteles az állami adó- és vámhatósághoz a 11. számú melléklet szerinti adattartalommal bejelentést tenni.
+(4) Az (1)–(2) bekezdés szerinti tevékenység folytatása esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott módon az EKAER szám megállapítása érdekében az állami adó- és vámhatóságnál be kell jelenteni a címzett adatait (név, adóazonosító szám), a feladó adatait (név, adóazonosító szám) és az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott egyéb adatokat.
 
-(3) A közúti fuvarozással járó tevékenységet folytatni kívánó adózót bejelentése alapján az állami adó- és vámhatóság nyilvántartásba veszi és a bejelentés alapján EKAER számot állapít meg a számára.
+(5) Az adózó (4) bekezdés szerinti bejelentése alapján az állami adó- és vámhatóság a bejelentett adatokat nyilvántartásba veszi és szerepelteti az EKAER-ben, valamint a bejelentés alapján EKAER számot állapít meg az adózó számára. Az állami adó- és vámhatóság azon, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott adózók számára is megállapítja az EKAER számot, akik nem tartoznak a (4) bekezdés hatálya alá, azonban az ott meghatározott adatokat ugyanúgy bejelentik az állami adó- és vámhatóságnak, mintha a (4) bekezdés hatálya alá tartoznának.
 
-(4) Az (1)–(3) bekezdés szabályait alkalmazni kell a kockázatos élelmiszerek esetében akkor is, ha a terméket olyan gépjárművel fuvarozzák, amely nem útdíjköteles, és egy fuvarozás keretében ugyanazon címzett részére fuvarozott termékek tömege a 200 kg-ot vagy az adó nélküli ellenértéke a 250 000 forintot meghaladja, illetve egyéb kockázatos termékek esetében, ha a terméket olyan gépjárművel fuvarozzák, amely nem útdíjköteles, és egy fuvarozás keretében ugyanazon címzett részére fuvarozott termékek tömege az 500 kg-ot vagy az adó nélküli ellenértéke az 1 millió forintot meghaladja.
+(6) Az (1)–(5) bekezdésben meghatározott kötelezettséggel és az az alóli mentesüléssel kapcsolatos szabályokat e törvény végrehajtására kiadott miniszteri rendelet határozza meg.
 
-(5) Amennyiben az adózó az (1) bekezdés a) és c) alpontja szerinti tevékenységét kockázatos termékekkel végzi, továbbá amennyiben a (4) bekezdés szerinti közúti fuvarozással járó tevékenységet folytat – a bérmunka céljára történő közúti fuvarozással járó tevékenység kivételével – kockázati biztosítékot köteles nyújtani.
+(7) Az adózó, vagy annak törvényes képviselője vagy állandó meghatalmazottja az EKAER elektronikus felület eléréséhez az ügyfélkapun keresztül felhasználónevet és jelszót igényel. A (4)–(5) bekezdés szerinti bejelentést az adózó vagy az a személy teljesítheti, aki részére az adózó vagy annak törvényes képviselője vagy állandó meghatalmazottja az EKAER elektronikus felületén a bejelentés megtételéhez szükséges felhasználónevet és ahhoz kapcsolódó jelszót igényelt.
 
-(6) Mentes az (1)–(5) bekezdés szerinti kötelezettség alól
+(8) A (7) bekezdés szerinti, az EKAER elektronikus felületen történő bejelentéshez szükséges felhasználónévvel és jelszóval rendelkező személyek által teljesített valamennyi bejelentés az adózó nevében tett jognyilatkozatnak minősül.
 
-- a) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti rendvédelmi szerv és az Országgyűlési Őrség gépjárműve,
-- b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erők és a Magyarországon felállított nemzetközi katonai parancsnokságok hivatali vagy szolgálati gépjárműve, valamint az egyéb szervezetek nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárműve,
-- c) a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításában részt vevő gépjármű,
-- d) a nemzetközi szerződés, nemzetközi egyezmény (NATO, Schengheni megállapodás) és viszonosság körébe tartozó jármű,
-- e) a nem kereskedelmi jellegű (térítés nélküli) humanitárius segélyszállítmányokat szállító gépjármű,
-- f) a kizárólag a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szerinti alkoholterméket, sört, bort, pezsgőt, köztes alkoholterméket, dohánygyártmányt, szárított dohányt, ellenőrzött ásványolajterméket, bioetanolt, biodízelt, E85-öt vagy ezek közül többet szállító gépjármű.
-
-(6a) Mentes az (1)–(5) bekezdés szerinti kötelezettség alól
-
-- a) az adózó, ha az általa feladott vagy részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó nem kockázatos termékek tömege a 2500 kg-ot vagy az adó nélküli értéke a 2 millió forintot nem haladja meg,
-- b) az adózó, ha az általa feladott vagy részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó
-  - ba) kockázatos élelmiszer tömege a 200 kg-ot vagy az adó nélküli ellenértéke a 250 000 forintot,
-  - bb) egyéb kockázatos termék tömege az 500 kg-ot vagy az adó nélküli ellenértéke az 1 millió forintot
-
-nem haladja meg.
-
-(7) Az (1) és (4) bekezdések szerinti tevékenységgel kapcsolatos bejelentési kötelezettségre és az (5) bekezdés szerinti kockázati biztosítékra vonatkozó részletes szabályokat a 11. számú melléklet tartalmazza.
-
-(8) Az állami adó- és vámhatóság az adózó bejelentése alapján az alábbi adatokat veszi nyilvántartásba és szerepelteti az EKAER-ben:
-
-- a) EKAER szám,
-- b) feladó adatai (név, adóazonosító szám),
-- c) felrakodás címe,
-- d) címzett adatai (név, adóazonosító szám),
-- e) kirakodás (átvétel) címe,
-- f) kockázatos termék belföldre irányuló közúti fuvarozása esetén a kirakodási címen található ingatlant az adott jogügylet kapcsán jogszerűen használó vállalkozás adatai (név, adóazonosító szám), amennyiben e vállalkozás nem azonos a címzettel,
-- g)
-- h) az EKAER számhoz tartozó termék(ek):
-  - ha) általános megnevezése,
-  - hb) a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87 EGK tanácsi rendelet I. számú mellékletének (a Kombinált Nómenklatúrának) a bejelentéskor hatályos szövege szerinti vámtarifaszám (4 számjegyig, kockázatos termék esetén 8 számjegyig),
-  - hc) az egyes termékmegnevezésekhez (tételekhez) tartozó bruttó tömeg kg-ban,
-  - hd) veszélyes termék fuvarozása esetén a veszélyességi bárca száma,
-  - he) a termék könnyebb beazonosítása érdekében az adott termék adózónál használt cikkszáma, amennyiben ez az adat rendelkezésre áll,
-- i) a termék közúti fuvarozásának indoka, ami lehet:
-  - ia) termékértékesítés,
-  - ib) termékbeszerzés,
-  - ic) bérmunka,
-  - id) egyéb cél,
-- j) amennyiben a termék közúti fuvarozásának indoka termékbeszerzés vagy termékértékesítés, az egyes termékmegnevezésekhez (tételekhez) tartozó adó nélküli ellenérték, egyéb célú közúti fuvarozás esetén az egyes termékmegnevezésekhez (tételekhez) tartozó adó nélküli beszerzési ár vagy az ahhoz hasonló termék adó nélküli beszerzési ára, ilyen ár hiányában pedig az adó nélküli előállítási érték.
-- k) a termék közúti fuvarozásához használt gépjármű forgalmi rendszáma,
-- l) az Európai Unió más tagállamából Magyarország területére irányuló fuvarozás, valamint belföldi feladási címről belföldi rakodási címre történő fuvarozás esetén a termék fuvarozására használt gépjármű kirakodási (átvételi) helyre érkezésének időpontja,
-- m) a Magyarország területéről az Európai Unió más tagállamába irányuló fuvarozás esetén, a termék fuvarozására használt gépjárműre történő felrakodás megkezdésének időpontja.
-
-(9) Az adózó (törvényes képviselője, állandó meghatalmazottja) az EKAER elektronikus felület eléréséhez az ügyfélkapun keresztül felhasználónevet és jelszót igényel. A (2) bekezdés szerinti bejelentést az adózó vagy az a személy teljesítheti, akinek részére az adózó vagy törvényes képviselője, állandó meghatalmazottja az EKAER elektronikus felületén a bejelentés megtételéhez szükséges felhasználónevet és ahhoz kapcsolódó jelszót igényelt.
-
-(10) A (9) bekezdés szerinti, az EKAER elektronikus felületen történő bejelentéshez szükséges felhasználónévvel és jelszóval rendelkező személyek által teljesített valamennyi bejelentés az adózó nevében tett jognyilatkozatnak minősül.
-
-(11) A (9) bekezdés szerinti, adózó nevében eljáró személyek addig az időpontig teljesíthetnek bejelentést, amíg az adózó (törvényes képviselője, állandó meghatalmazottja) az EKAER elektronikus felületén vissza nem vonja az erre vonatkozó jogosultságukat.
+(9) A (7) bekezdés szerinti, adózó nevében eljáró személyek addig az időpontig teljesíthetnek bejelentést, amíg az adózó, vagy annak törvényes képviselője vagy állandó meghatalmazottja az EKAER elektronikus felületén vissza nem vonja az erre vonatkozó jogosultságukat.
 
 ### A változás bejelentése
 
@@ -3547,7 +3498,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (19) Ha az adózó igazolatlan eredetű árut forgalmaz, terhére az adóhatóság az áru forgalmi értékének 40%-áig terjedő, de legalább magánszemély adózó esetében 200 ezer forintig, más adózó esetében 500 ezer forintig terjedő mulasztási bírságot szabhat ki.
 
-(19a) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó a fuvarozott termék vagy annak egy része tekintetében nem tett eleget a 22/E. § (1)–(4) bekezdése szerinti kötelezettségnek, illetve a bejelentési kötelezettségét hibásan, valótlan adattartalommal vagy hiányosan teljesíti, úgy a termék vagy annak be nem jelentett része igazolatlan eredetűnek minősül, és az állami adó- és vámhatóság az adózó terhére az igazolatlan eredetű áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.
+(19a) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó a fuvarozott termék vagy annak egy része tekintetében nem tett eleget a 22/E. § (1)–(2) és (4) bekezdése szerinti kötelezettségnek, illetve a bejelentési kötelezettségét hibásan, valótlan adattartalommal vagy hiányosan teljesíti, úgy a termék vagy annak be nem jelentett része igazolatlan eredetűnek minősül, és az állami adó- és vámhatóság az adózó terhére az igazolatlan eredetű áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.
 
 (20) Ha a magánszemély adózó a 31. § (4) bekezdése szerinti, a személyi jövedelemadó bevallás késedelmes benyújtására vonatkozó bejelentést tesz, a bevallási késedelem miatt mulasztási bírság a bevallás naptári éve november 20. napjáig nem szabható ki, kivéve, ha az adózó bevallását november 20-a előtt nyújtja be és késedelmét igazoltan nem menti ki.
 
@@ -3575,7 +3526,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 ### Intézkedések
 
-173. § (1) Ha az adóhatóság a magánszemély vagy más adózó terhére egyéni vállalkozói tevékenység bejelentéséhez, cégbejegyzéshez kötött tevékenység vagy adóköteles tevékenység adószám hiányában történő végzése miatt mulasztási bírságot szab ki, a bejelentés vagy cégbejegyzés nélkül folytatott tevékenység eszközét, termék-előállítás esetén annak eredményét, az árukészletet – a romlandó áruk és az élő állatok kivételével – a kiszabott bírság összegének mértékéig, annak biztosítékaként lefoglalhatja, és erről a bírságot kiszabó határozatban rendelkezik. A lefoglalást az adóhatóság két hatósági tanú jelenlétében végzi, és arról jegyzőkönyvet vesz fel, a lefoglalt ingóságot zár alá veszi vagy az adózó költségére elszállíttatja és megőrzi. Ha az állami adó- és vámhatóság a 22/E. § (1)–(4) bekezdése szerinti kötelezettség elmulasztása, hibásan, valótlan adattartalommal vagy hiányosan történő teljesítése miatt mulasztási bírságot szab ki, a fuvarozott terméket – a romlandó áruk és az élő állatok kivételével – a kiszabott bírság összegének mértékéig, annak biztosítékaként lefoglalhatja, és erről a bírságot kiszabó határozatban rendelkezik. A lefoglalásról az állami adó- és vámhatóság jegyzőkönyvet vesz fel, a lefoglalt ingóságot zár alá veheti vagy az adózó költségére elszállíttatja és megőrzi. A 22/E. § (1)–(4) bekezdése szerinti kötelezettség elmulasztása, hibásan, valótlan adattartalommal vagy hiányosan történő teljesítése miatt az állami adó- és vámhatóság a mulasztási bírság kiszabásáról hozott határozatát a jelen lévő adózóval vagy annak képviselőjével, meghatalmazottjával, alkalmazottjával közli, és a határozat a közlés időpontjától kezdve fellebbezésre tekintet nélkül végrehajtható.
+173. § (1) Ha az adóhatóság a magánszemély vagy más adózó terhére egyéni vállalkozói tevékenység bejelentéséhez, cégbejegyzéshez kötött tevékenység vagy adóköteles tevékenység adószám hiányában történő végzése miatt mulasztási bírságot szab ki, a bejelentés vagy cégbejegyzés nélkül folytatott tevékenység eszközét, termék-előállítás esetén annak eredményét, az árukészletet – a romlandó áruk és az élő állatok kivételével – a kiszabott bírság összegének mértékéig, annak biztosítékaként lefoglalhatja, és erről a bírságot kiszabó határozatban rendelkezik. A lefoglalást az adóhatóság két hatósági tanú jelenlétében végzi, és arról jegyzőkönyvet vesz fel, a lefoglalt ingóságot zár alá veszi vagy az adózó költségére elszállíttatja és megőrzi. Ha az állami adó- és vámhatóság a 22/E. § (1)–(2) és (4) bekezdése szerinti kötelezettség elmulasztása, hibásan, valótlan adattartalommal vagy hiányosan történő teljesítése miatt mulasztási bírságot szab ki, a fuvarozott terméket – a romlandó áruk és az élő állatok kivételével – a kiszabott bírság összegének mértékéig, annak biztosítékaként lefoglalhatja, és erről a bírságot kiszabó határozatban rendelkezik. A lefoglalásról az állami adó- és vámhatóság jegyzőkönyvet vesz fel, a lefoglalt ingóságot zár alá veheti vagy az adózó költségére elszállíttatja és megőrzi. A 22/E. § (1)–(2) és (4) bekezdése szerinti kötelezettség elmulasztása, hibásan, valótlan adattartalommal vagy hiányosan történő teljesítése miatt az állami adó- és vámhatóság a mulasztási bírság kiszabásáról hozott határozatát a jelen lévő adózóval vagy annak képviselőjével, meghatalmazottjával, alkalmazottjával közli, és a határozat a közlés időpontjától kezdve fellebbezésre tekintet nélkül végrehajtható.
 
 (2) Az adóhatóság a biztosítékként lefoglalt ingóságokat a végrehajtásra vonatkozó szabályok szerint értékesíti, ha az adózó a bírságot az esedékességtől számított 15 napon belül nem fizette meg.
 
@@ -3997,7 +3948,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 33. kritikus feltételek: a szokásos piaci ár megállapításával összefüggésben rögzített, a szokásos piaci ár megbízhatósága szempontjából jelentőséggel bíró, a jövőre vonatkozó – pénzügyi, számviteli, gazdasági, jogi, működési – előfeltevések, számítások, küszöbértékek, jellemzők, amelyek nem teljesülése esetén, annak napjától a határozat nem alkalmazható. A kritikus feltételeket a konkrét ügy sajátosságaihoz mérten kell megállapítani.
 - 34. kereskedelmi kapcsolat: a termékbeszerzés és értékesítés – ideértve az általános forgalmi adóról szóló törvény szerinti adómentes termékimportot megalapozó Közösségen belüli adómentes termékértékesítést is –, valamint a szolgáltatásnyújtás és -igénybevétel.
 - 35. tényleges üzletvezetés helye: a kettős adózás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a társasági és az osztalékadóról szóló törvény alkalmazásában tényleges üzletvezetési hely, üzletvezetés helye.
-- 36. kutatás-fejlesztési tevékenység: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben meghatározott kutatás-fejlesztés, 38. 39. 40. kezelt vagyon: a Polgári Törvénykönyv szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon. 41. Következő időszakra átvihető követelés különbözete: az Áfa tv. 153/A. § (2) bekezdés a) pontja alapján a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként bevallott és az adóhatóság által utólag, a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként megállapított, az adófolyószámlát nem érintő összeg különbözete. 42. EKAER szám: az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER) által a termék közúti fuvarozásának bejelentését követően automatikusan képzett azonosító szám, amely egy adott termék egységet azonosít. 43. Kockázatos termék: a külön jogszabály által kockázatosnak minősített élelmiszerek és egyéb termékek. 44. Végfelhasználó: a terméket személyes szükséglet kielégítését meg nem haladó mennyiségben magánszükséglete kielégítésére való felhasználás céljából vásárló természetes személy. 45. Címzett: a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzését vagy belföldi beszerzését megvalósító általános forgalmi adó alanya. 46. Feladó: a terméknek Magyarország területéről az Európai Unió más tagállamába irányuló, vagy első belföldi adóköteles – nem közvetlenül végfelhasználó részére történő – értékesítését megvalósító általános forgalmi adó alanya, valamint az általános forgalmi adó mentesség érvényesítése érdekében a belföldön nyilvántartásba nem vett adózó helyett eljáró közvetett vámjogi képviselő, adóraktár üzemeltetője. 47. Felrakodó: a közúti fuvarozásához használt gépjárműre a termék felrakodását végző személy. 48. Útdíjköteles gépjármű: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjköteles gépjármű. 49. Gépjármű: az útdíjköteles gépjármű és az annál kisebb össztömegű gépjármű, ideértve tehergépkocsit, vontatót – nyerges vontatót is –, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból álló járműszerelvényt. 50. Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER): az állami adó- és vámhatóság által működtetett elektronikus rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja. 51. Átvevő: a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzése vagy belföldi értékesítése esetén, ha nem a címzett veszi át a terméket, vagy a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzéstől eltérő egyéb célból történő behozatala esetén a terméket a kirakodási (átvételi) helyen átvevő személy.
+- 36. kutatás-fejlesztési tevékenység: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben meghatározott kutatás-fejlesztés, 38. 39. 40. kezelt vagyon: a Polgári Törvénykönyv szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon. 41. Következő időszakra átvihető követelés különbözete: az Áfa tv. 153/A. § (2) bekezdés a) pontja alapján a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként bevallott és az adóhatóság által utólag, a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként megállapított, az adófolyószámlát nem érintő összeg különbözete. 42. EKAER szám: az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER) által a termék közúti fuvarozásának bejelentését követően automatikusan képzett azonosító szám, amely egy adott termék egységet azonosít. 43–47. 48. Útdíjköteles gépjármű: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjköteles gépjármű. 49. Gépjármű: az útdíjköteles gépjármű és az annál kisebb össztömegű gépjármű, ideértve tehergépkocsit, vontatót – nyerges vontatót is –, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból álló járműszerelvényt. 50. Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER): az állami adó- és vámhatóság által működtetett elektronikus rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja. 51.
 
 ### Az eljárás költségei
 
@@ -4301,6 +4252,10 @@ is alkalmazni kell.
 208. § (1) Az EKAER rendszerében kockázati biztosítékot első alkalommal 2015. március 11-től kell nyújtani.
 
 (2) E törvény 172. § (19a) bekezdését és 173. § (1) bekezdését 2015. március 1-jétől kell alkalmazni.
+
+209. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvénynek az Elektronikus Közúti Áruforgalom Ellenőrző Rendszerrel összefüggő módosításáról szóló 2015. évi I. törvénnyel megállapított 22/E. § szerinti bejelentési kötelezettségeket első alkalommal a 2015. március 1-jén és azt követően megkezdett fuvarozások tekintetében kell teljesíteni.
+
+(2) E törvénynek a 2015. február 28-án hatályos 22/E. §-át, 178. § 43–47. és 51. pontját, valamint 11. számú mellékletét a 2015. március 1-jét megelőzően az állami adó- és vámhatóság által megállapított EKAER számok tekintetében is alkalmazni kell.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
@@ -5507,95 +5462,3 @@ Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó kül
 5.2.5. Az adózó e törvény 44. §-ában megállapított nyilvántartás-vezetési kötelezettségének oly módon tesz eleget, hogy a teljesítési hely szerinti tagállam adóhatósága által végzett ellenőrzést is lehetővé tegye. Az adózó a nyilvántartást felhívásra elektronikus úton is rendelkezésre bocsátja. A nyilvántartást a távolról is nyújtható szolgáltatás általános forgalmi adóról szóló törvény szerinti teljesítési időpontját magában foglaló naptári év utolsó napjától számított 10 évig kell megőrizni.
 
 ### 11. számú melléklet a 2003. évi XCII. törvényhez
-
-A közúti fuvarozással járó tevékenység folytatásával kapcsolatos kötelezettségek részletes szabályai
-
-I. Az EURÓPAI UNIÓ MÁS TAGÁLLAMÁBAN TALÁLHATÓ FELADÁSI CÍMRŐL MAGYARORSZÁG TERÜLETÉN TALÁLHATÓ ÁTVÉTELI CÍMRE TÖRTÉNŐ KÖZÚTI FUVAROZÁS ESETÉN BEJELENTÉSRE KÖTELEZETTEK, VALAMINT A BEJELENTENDŐ ADATOK KÖRE
-
-1. Az Európai Unió más tagállamában található feladási címről belföldi átvételi címre, Közösségen belüli termékbeszerzési célú közúti fuvarozás esetén a 22/E. § (8) bekezdés b)–j) pontjában meghatározott adatokat az EKAER szám megállapítása érdekében a címzett jelenti be az állami adó- és vámhatósághoz az EKAER elektronikus felületén legkésőbb a termék fuvarozásának megkezdéséig. A 22/E. § (8) bekezdés k) pontja szerinti adatot az EKAER elektronikus felületén, az EKAER szám igénylésekor vagy azt követően, de legkésőbb a termék fuvarozásának megkezdéséig a címzettnek kell bejelentenie. A 22/E. § (8) bekezdés l) pontja szerinti adatot a címzett jelenti be a terméket szállító gépjármű kirakodási (átvételi) címre érkezésekor, de legkésőbb a terméket szállító gépjármű kirakodási (átvételi) címre érkezését követő munkanapon. Ha nem a címzett veszi át a terméket, a 22/E. § (8) bekezdés l) pontja szerinti adatot a terméket átvevő jelenti be a szállító gépjármű kirakodási (átvételi) címre érkezésekor, de legkésőbb a terméket szállító gépjármű kirakodási (átvételi) címre érkezését követő munkanapon.
-
-2. Az Európai Unió más tagállamában található feladási címről belföldi átvételi címre, Közösségen belüli termékbeszerzéstől eltérő egyéb célból történő közúti fuvarozás esetén, a 22/E. § (8) bekezdés b)–j) pontjában meghatározott adatokat az EKAER szám megállapítása érdekében a terméket átvevő jelenti be az állami adó- és vámhatósághoz az EKAER elektronikus felületén legkésőbb a termék fuvarozásának megkezdéséig. A 22/E. § (8) bekezdés k) pontja szerinti adatot az EKAER elektronikus felületén, az EKAER szám igénylésekor vagy azt követően, de legkésőbb a termék fuvarozásának megkezdéséig kell bejelenteni. A 22/E. § (8) bekezdés l) pontja szerinti adatot a terméket átvevő jelenti be a szállító gépjármű kirakodási (átvételi) címre érkezésekor, de legkésőbb a terméket szállító gépjármű kirakodási (átvételi) címre érkezését követő munkanapon.
-
-3. Az 1. és 2. pont szerinti bejelentés alapján képzett EKAER számot a bejelentésre kötelezett a termék fuvarozásának megkezdése előtt a fuvarozást végző vagy azt szervező rendelkezésére bocsátja.
-
-4. A bejelentésre kötelezett a termék szállító gépjárműre történő felrakodását követően a termék kirakodási (átvételi) helyre érkezésének bejelentéséig a módosítás indokának megadásával módosíthatja az EKAER elektronikus felületén a 22/E. § (8) bekezdés h) pont hc) alpontja és j) és k) pontja szerinti adatokat. A módosítást az arra okot adó körülmény bekövetkezését követően haladéktalanul be kell jelenteni. Az állami adó- és vámhatóság által lefolytatott ellenőrzés során az EKAER szám alatt az aktuális valós adatoknak kell szerepelniük, ezért a bejelentésre kötelezett tartozik felelősséggel.
-
-5. Az EKAER szám a megállapításától számított 15 napig érvényes, a 22/E. § (8) bekezdés l) pontja szerinti adat bejelentése ezen időtartamon belül lehetséges. A 15 napos határidő lejártát követően az EKAER szám érvényét veszti.
-
-II. MAGYARORSZÁG TERÜLETÉN TALÁLHATÓ FELADÁSI CÍMRŐL AZ EURÓPAI UNIÓ MÁS TAGÁLLAMÁBAN TALÁLHATÓ ÁTVÉTELI CÍMRE TÖRTÉNŐ KÖZÚTI FUVAROZÁS ESETÉN BEJELENTÉSRE KÖTELEZETTEK, VALAMINT A BEJELENTENDŐ ADATOK KÖRE
-
-1. Belföldi feladási címről az Európai Unió más tagállamában található átvételi címre, Közösségen belüli értékesítés céljából történő közúti fuvarozás esetén, a 22/E. § (8) bekezdés b)–e) és h)–j) pontjában meghatározott adatokat az EKAER szám megállapítása érdekében a feladó jelenti be az állami adó- és vámhatósághoz az EKAER elektronikus felületén legkésőbb a termék gépjárműre történő felrakodásának megkezdéséig. A 22/E. § (8) bekezdés k) pontja szerinti adatot az EKAER elektronikus felületén, az EKAER szám igénylésekor vagy azt követően, de legkésőbb a termék gépjárműre történő felrakodásának megkezdéséig a feladónak kell bejelentenie. A 22/E. § (8) bekezdés m) pontja szerinti adatot a feladó jelenti be a termék gépjárműre történő felrakodásának megkezdésekor. Ha a termék felrakodását nem a feladó végzi, a 22/E. § (8) bekezdés m) pontja szerinti adatot a terméket felrakodó jelenti be a termék gépjárműre történő felrakodásának megkezdésekor.
-
-2. Belföldi feladási címről az Európai Unió más tagállamában található átvételi címre, Közösségen belüli értékesítéstől eltérő egyéb célból történő közúti fuvarozás esetén, a 22/E. § (8) bekezdés b)–e) és h)–j) pontjában meghatározott adatokat az EKAER szám megállapítása érdekében a terméket felrakodó jelenti be az állami adó- és vámhatósághoz az EKAER elektronikus felületén, legkésőbb a termék gépjárműre történő felrakodásának megkezdéséig. A 22/E. § (8) bekezdés k) pontja szerinti adatot az EKAER elektronikus felületén, az EKAER szám igénylésekor vagy azt követően, de legkésőbb a termék gépjárműre történő felrakodásának megkezdéséig a felrakodónak kell bejelentenie. A 22/E. § (8) bekezdés m) pontja szerinti adatot a felrakodó jelenti be a termék gépjárműre történő felrakodásának megkezdésekor.
-
-3. Az 1. és 2. pont szerinti bejelentés alapján képzett EKAER számot a bejelentésre kötelezett a termék gépjárműre történő felrakodásának megkezdése előtt a fuvarozást végző vagy azt szervező rendelkezésére bocsátja.
-
-4. A bejelentésre kötelezett a módosítás indokának megadásával az EKAER elektronikus felületén a 22/E. § (8) bekezdés h) pont hc) alpontjában, j) pontjában, k) pontjában szereplő adatot az EKAER szám érvényességi idején belül módosíthatja. A módosítást az arra okot adó körülmény bekövetkezését követően haladéktalanul be kell jelenteni. Az állami adó- és vámhatóság által lefolytatott ellenőrzés során az EKAER szám alatt az aktuális valós adatoknak kell szerepelniük, ezért a bejelentésre kötelezett tartozik felelősséggel.
-
-5. Az EKAER szám a megállapításától számított 15 napig érvényes, a 22/E. § (8) bekezdés m) pontja szerinti adat bejelentése ezen időtartamon belül lehetséges. A 15 napos határidő lejártát követően az EKAER szám érvényét veszti.
-
-III. BELFÖLDI FELADÁSI CÍMRŐL BELFÖLDI ÁTVÉTELI CÍMRE TÖRTÉNŐ KÖZÚTI FUVAROZÁS ESETÉN BEJELENTÉSRE KÖTELEZETTEK, VALAMINT A BEJELENTENDŐ ADATOK KÖRE
-
-1. Belföldi feladási címről belföldi átvételi címre történő közúti fuvarozással járó, első belföldi adóköteles – nem közvetlenül végfelhasználó részére történő – termékértékesítés esetén, a 22/E. § (8) bekezdés b)–j) pontjában meghatározott adatokat az EKAER szám megállapítása érdekében a feladó jelenti be az állami adó- és vámhatósághoz az EKAER elektronikus felületén, legkésőbb a termék gépjárműre történő felrakodásának megkezdéséig. A 22/E. § (8) bekezdés k) pontja szerinti adatot az EKAER elektronikus felületén, az EKAER szám igénylésekor vagy azt követően, de legkésőbb a termék gépjárműre történő felrakodásának megkezdéséig a feladónak kell bejelentenie. A 22/E. § (8) bekezdés l) pontja szerinti adatot a címzett (átvevő) vagy a feladó jelenti be a szállító gépjármű kirakodási (átvételi) címre érkezésekor, de legkésőbb a terméket szállító gépjármű kirakodási (átvételi) címre érkezését követő munkanapon.
-
-2. Az 1. pont szerinti bejelentés alapján képzett EKAER számot a bejelentésre kötelezett a termék gépjárműre történő felrakodásának megkezdése előtt a fuvarozást végző vagy azt szervező rendelkezésére bocsátja.
-
-3. A bejelentésre kötelezett a módosítás indokának megadásával az EKAER elektronikus felületén a 22/E. § (8) bekezdés h) pont hc) alpontjában és j) és k) pontjában szereplő adatot a termék kirakodási (átvételi) helyre érkezésének bejelentéséig módosíthatja. A módosítást az arra okot adó körülmény bekövetkezését követően haladéktalanul be kell jelenteni. Az állami adó- és vámhatóság által lefolytatott ellenőrzés során az EKAER szám alatt az aktuális valós adatoknak kell szerepelniük, ezért a bejelentésre kötelezett tartozik felelősséggel.
-
-4. Az EKAER szám a megállapításától számított 15 napig érvényes, a 22/E. § (8) bekezdés l) pontja szerinti adat bejelentése ezen időtartamon belül lehetséges. A 15 napos határidő lejártát követően az EKAER szám érvényét veszti.
-
-IV. AZ EKAER-HEZ KAPCSOLÓDÓ BEJELENTÉS SZABÁLYAI KOCKÁZATOS TERMÉKEK ESETÉN, ÉS A KOCKÁZATI BIZTOSÍTÉKRA VONATKOZÓ SZABÁLYOK
-
-1. Kockázatos termékkel végzett közúti fuvarozással járó tevékenység esetén EKAER számot az állami adó- és vámhatóság csak azon adózó számára állapít meg, aki vagy amely
-
-a) a kockázatos élelmiszerek tekintetében
-
-aa) az élelmiszer-előállítással és -forgalmazással kapcsolatos adatszolgáltatásról és nyomon követhetőségéről szóló VM rendelet (a továbbiakban: VM rendelet) előírásai szerint a tevékenységét első magyarországi tárolási helyet üzemeltető élelmiszer-vállalkozóként – ideértve a bértárolási tevékenységet is – bejelentette,
-
-ab) az első magyarországi tárolási helyet üzemeltető élelmiszer-vállalkozóként a VM rendelet előírásai szerint az első magyarországi tárolási hely bejelentésének eleget tett, és
-
-ac) ezen alcím szerinti biztosítékadási kötelezettségét teljesítette,
-
-b) a külön jogszabályban meghatározott egyéb kockázatos termékek tekintetében ezen alcím szerinti biztosítékadási kötelezettségét teljesítette.
-
-2. Kockázati biztosítékot belföldi kirakodási (átvételi) címre irányuló közúti fuvarozás esetén a Közösségen belüli beszerzést (ideértve a saját tulajdonú termék más tagállamból Magyarországra történő behozatalát is), illetve az első belföldi adóköteles – nem közvetlen végfelhasználó részére történő – termékértékesítést megvalósító adózó köteles nyújtani.
-
-3. A biztosíték mértékének folyamatosan el kell érnie az I. és III. alcím szerinti bejelentés időpontjában a bejelentést megelőző 60 napban (ideértve a bejelentés napját is) teljesített bejelentések során megállapított és átvételi címre érkezés, vagy a felrakodás megkezdésének bejelentésével már rendelkező EKAER számokhoz tartozó kockázatos termékek, valamint a már megállapított és még érvényes EKAER számokhoz tartozó kockázatos termékek együttes adó nélküli értékének 15 százalékát. Az adózó – szükség esetén, a folyamatosan megállapított kockázatos termék érték adatok alapján – kiegészíti a biztosítékot a fentiek szerinti mértékre. Az az adózó, aki korábban biztosítékadási kötelezettséggel járó tevékenységet nem végzett, első biztosítékadási kötelezettséggel járó tevékenysége bejelentésekor a bejelentéssel érintett kockázatos termékek adó nélküli értékének 15 százalékát köteles biztosítékként nyújtani. Az első biztosítékadási kötelezettséggel járó bejelentéstől számított 60. napig teljesítendő biztosítékadási kötelezettség során a biztosíték összegét ki kell egészíteni az adott bejelentéssel érintett kockázatos termékek adó nélküli értékének 15 százalékával.
-
-4. Ha az adózó a 2. pont alapján több jogcímen is kötelezett biztosíték nyújtására, kizárólag a 3. pont szerint számított, magasabb összegű biztosíték nyújtására köteles.
-
-5. Az állami adóhatóság az I. és III. alcím szerinti bejelentések megtételére szolgáló elektronikus felületen a biztosítékadásra kötelezett adózó számára lehetővé teszi a biztosíték összege változásának folyamatos nyomon követését.
-
-6. Az állami adó- és vámhatóság nem állapít meg újabb EKAER számot az adózó részére, ha megállapítható, hogy a biztosíték nem nyújt fedezetet az újabb bejelentéssel érintett termékek adó nélküli értékének 15 százalékára.
-
-7. A biztosíték összege teljesíthető
-
-a) elkülönített letéti számlára történő befizetéssel,
-
-b) pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás által vállalt, az állami adóhatóság által nyilvántartásba vett garancia útján.
-
-8. Mentesül a biztosítékadási kötelezettség alól az az adózó, aki
-
-a) az állami adóhatóság által vezetett minősített adózói adatbázisban szerepel, vagy
-
-b) legalább két éve működik és szerepel az állami adóhatóság által vezetett köztartozásmentes adózói adatbázisban, valamint az I. és III. alcím szerinti bejelentés időpontjában nem áll adószám felfüggesztés hatálya alatt.
-
-9. A mentesség feltételeinek fennállását az állami adóhatóság folyamatosan vizsgálja. Ha a mentesség feltételei már nem állnak fenn, úgy az adózó az EKAER szám megállapítása érdekében a 3–4. pont szerint köteles eljárni.
-
-10. A biztosíték nyújtását követően az állami adóhatóság minden hónap végét megelőző 5 napon belül felülvizsgálja, hogy a biztosítékot nyújtó adózó rendelkezik-e az állami adóhatóságnál nyilvántartott, nettó módon számított adótartozással. Tartozás fennállása esetén a biztosíték összegét az állami adóhatóság a tartozásra elszámolhatja. Ha a rendelkezésre álló biztosíték összege az adózót terhelő tartozás mindegyikére nem nyújt fedezetet, azt az állami adóhatóság először a magánszemély jövedelemadó előlegére, a levont jövedelemadóra vagy a kifizető által a magánszemélytől levont járulékokra esedékesség sorrendjében, azonos esedékesség esetén a tartozások arányában számolja el. Az ezt követően fennmaradó összeget először az egyéb adótartozásokra kell elszámolni azok esedékességének sorrendjében, azonos esedékesség esetén a tartozások arányában. A biztosíték elszámolásával a jóváírás napján a tartozás megfizetettnek minősül. Az így csökkentett vagy teljes mértékben felhasznált biztosíték összegéről az adózó az elektronikus tárhelyére értesítést kap, ezt követően a biztosítékot a 3. pont szerinti mértékre ismételten ki kell egészíteni a jövőbeni ügyletekhez kapcsolódó EKAER számok megállapítása érdekében.
-
-11. A biztosíték összegének visszautalása iránt az állami adóhatóság intézkedik, illetve a garanciavállalás felmondásához hozzájárulását a pénzintézet részére továbbítja,
-
-a) a cégnyilvántartásban szereplő adózó cégnyilvántartásból való törlése esetén a cég volt tulajdonosai által előterjesztett kérelem alapján,
-
-b) az egyéni vállalkozó vállalkozási tevékenysége megszüntetése esetén a magánszemély kérelme alapján,
-
-c) a kockázatos termék vonatkozásában a 22/E. § (1) és (4) bekezdésében meghatározott tevékenység megszüntetése esetén az adózó kérelme alapján, amely kérelemben nyilatkozni kell arról, hogy a kérelem beérkezését megelőző hatvan napban ilyen tevékenységet az adózó nem folytatott,
-
-d) ha az adózó a biztosíték nyújtását követően megfelel a 8. pont szerinti mentességi feltételek valamelyikének, az adózó kérelme alapján.
-
-12. A biztosíték összegének csökkentése iránt az adózó kérelmet terjeszthet elő. A biztosíték összege abban az esetben csökkenthető, ha a rendelkezésre álló biztosíték 60 napon keresztül folyamatosan meghaladja a biztosítékra előírt, 3. pont szerinti mértéket. Ebben az esetben a biztosíték összege a 3. pontban meghatározott mértékre csökkenthető.
-
-13. A 11. és 12. pont szerinti kérelem beérkezését követően az igény jogosságát az állami adóhatóság megvizsgálja. A biztosíték vagy a biztosíték egy része visszautalásának, a garanciavállalás felmondásához, módosításához való hozzájárulás kiadásának határideje a kérelem beérkezését követő 30 nap. Az állami adóhatóság a visszatartási jogát az adózó általa nyilvántartott köztartozása tekintetében gyakorolhatja, illetve a nyilvántartott köztartozást a garanciaszerződés keretében érvényesítheti.
-
-14. A biztosíték összegét a 167. § (1) bekezdése szerinti nettó pótlékszámítás során nem kell figyelembe venni.
