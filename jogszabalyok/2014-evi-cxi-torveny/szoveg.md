@@ -117,15 +117,13 @@ szöveg lép.
 
 116. §
 
-117. § Az Eftv. 1/B. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az (1) bekezdés alapján állami tulajdonba került vagyon tekintetében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.”
+117. §
 
 118. §
 
 119. § Az Eftv.
 
-- a) 1/B. § (6) bekezdésében az „A GYEMSZI” szövegrész helyébe az „Az ÁEEK”,
+- a)
 - b)–f)
 - g)
 
@@ -141,44 +139,11 @@ szöveg lép.
 
 123–126. §
 
-127. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 3. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 13. §-a, illetve az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 1/B. §-a alapján az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) tulajdonosi joggyakorlásába tartozó egészségügyi intézményekhez tartozó ingatlanok esetében a tulajdonosi jogokat a miniszter az egészségügyért felelős miniszterrel, az NFA és az ÁEEK útján a (3) bekezdés a)–c) pontjában meghatározott módon gyakorolja.”
-
-128. § A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: 2012. évi XXXVIII. törvény) 13. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A magyar államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) jogosult
-
-a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény), továbbá az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján állami tulajdonba került, állami egészségügyi feladatellátást szolgáló vagyon,
-
-b) e törvény alapján állami tulajdonba kerülő, az állami egészségügyi feladatellátást szolgáló vagyon és
-
-c) e törvény 4. mellékletében felsorolt országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.”
-
-129. § A 2012. évi XXXVIII. törvény
-
-- a) 13. § (1a) bekezdésében az „a GYEMSZI” szövegrész helyébe az „az ÁEEK”,
-- b) 13. § (2) és (3a) bekezdésében az „A GYEMSZI” szövegrész helyébe az „Az ÁEEK”,
-- c) 15/B. §-ában
-  - ca) a „GYEMSZI” szövegrészek helyébe az „ÁEEK”,
-  - cb) az „a GYEMSZI” szövegrészek helyébe az „az ÁEEK”
-
-szöveg lép.
+127–129. §
 
 130. §
 
-131. § A fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény (a továbbiakban: 2013. évi XXV. törvény) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az államot a (2) bekezdés szerinti ügyletek tekintetében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) képviseli.”
-
-132. § A 2013. évi XXV. törvény 4. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az e törvény szerint az állam tulajdonába került vagyon tekintetében a tulajdonosi jogokat az ÁEEK gyakorolja.”
-
-133. § Hatályát veszti a 2013. évi XXV. törvény
-
-- a) 6. § (3) bekezdése,
-- b) 8. § (2) bekezdése.
+131–133. §
 
 134–135. §
 
