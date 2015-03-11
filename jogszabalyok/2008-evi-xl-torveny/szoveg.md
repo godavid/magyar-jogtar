@@ -2439,6 +2439,10 @@ tartalmazza.
 
 134/A. § A 133. § (1) bekezdésnek a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény 7. §-ával megállapított 3. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a Hivatal által a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény hatálybalépését megelőzően utoljára jóváhagyott árakat kell alkalmazni.
 
+134/B. § (1) A földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2015. évi V. törvény (a továbbiakban: Mód. 6. törvény) hatálybalépését megelőzően a szállítási rendszerüzemeltetőhöz, valamint a földgázelosztóhoz beadott éves kapacitásigényeket és az ezen kapacitásigények alapján lefolytatott eljárások eredményét érvénytelennek kell tekinteni.
+
+(2) A rendszerhasználónak a földgáztároló szabad kapacitásait tárolói éves időtartamra legkésőbb 2015. március 31-ig kell lekötni.
+
 135. § (1)
 
 (2) A Hivatal az e törvény 55. §–61. §-ai szerint elvégzett piacelemzési és piacszabályozási eljárásokban hozott határozatokat követő második évben, de legkésőbb 2011. december 31-ig elemzést készít a földgázpiac helyzetéről, különös tekintettel a lefolytatott piacszabályozási eljárásokra, az eljárások eredményére és a kiszabott kötelezettségekre, valamint azoknak a piaci versenyre gyakorolt hatására. A Hivatal a lefolytatott vizsgálat eredményeit jelentésében összefoglalva megküldi a Kormány számára, amely alapján a Kormány megvizsgálja a földgázpiacon a hatékony verseny megteremtéséhez szükséges további jogalkotási feladatokat.
@@ -2655,13 +2659,9 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 - b) ismételten is kiszabható bírsággal sújthatja projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
 - c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.
 
-143. § (1) A szállítási rendszerirányító 2013. január 15-ig köteles az egyensúlyozó platform szabályzatát jóváhagyásra benyújtani a Hivatalhoz.
+143. § (1) A szállítási rendszerüzemeltető a kapacitáslekötési platform szabályzatát a Mód. 6. törvény hatálybalépését követő napon köteles benyújtani jóváhagyásra a Hivatalhoz. A szabályzat tervezetét a szállítási rendszerüzemeltető köteles honlapján tájékoztató jelleggel közzétenni.
 
-(2) Az egyensúlyozó platform (1) bekezdés szerint benyújtott szabályzatának jóváhagyására irányuló eljárásban az ügyintézési határidő 30 nap.
-
-(3) A napi földgáz és kapacitáskereskedelmi piac az egyensúlyozó platform szabályzatának jóváhagyását követő napon megszűnik.
-
-(4) A napi földgáz és kapacitáskereskedelmi piacon 2013. január 1-jén tagsággal rendelkezők a napi földgáz és kapacitáskereskedelmi piac megszűnését követő 45 napig jogosultak a szervezett földgázpiacon ügyleteket kötni.
+(2) A Hivatal az Üzemi és Kereskedelmi Szabályzat Mód. 6. törvény miatt szükséges módosítását a 110. § (4) bekezdésének rendelkezéseitől eltérően hivatalból végzi.
 
 143/A. § (1)–(2)
 

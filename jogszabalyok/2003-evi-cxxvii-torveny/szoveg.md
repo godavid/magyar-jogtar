@@ -2698,7 +2698,7 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 
 (2) A jövedéki engedélyre jogosult az a személy,
 
-- a) aki – az (5) és (8)–(11) bekezdésben foglalt eltéréssel – az ásványolajtermékek esetében 600 millió Ft, dohánygyártmányok esetében 22 millió Ft, az egyéb jövedéki termékek esetében 150 millió Ft jövedéki biztosítékot nyújt,
+- a) aki – az (5) és (8)–(11) bekezdésben meghatározott eltéréssel – az ásványolajtermékek esetében 600 millió Ft, dohánygyártmányok esetében 22 millió Ft, az egyéb jövedéki termékek esetében 20 millió Ft jövedéki biztosítékot nyújt,
 - b) aki könyvvezetési kötelezettségének a kettős könyvvezetés szabályai, illetve az egyéni vállalkozó és az Szja törvény szerinti mezőgazdasági őstermelő esetében az Szja törvény rendelkezései szerint tesz eleget, és olyan nyilvántartási, bizonylati rendszert alkalmaz, hogy annak alapján a forgalmazott jövedéki termék mennyiségi számbavétele ellenőrizhető,
 - c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 - d) akinek a vámhatóság, az adóhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn.
@@ -2751,7 +2751,7 @@ jövedéki biztosítékot nyújtania.
 
 (12) Az országos közforgalmú vasút üzemeltetője mentesül a (4) bekezdés a) pontjában előírt feltétel teljesítése alól, ha a gázolajat kizárólag a vasúti pályához kötött járművek, munkagépek vasúti szállítási főtevékenységhez közvetlenül kapcsolódó üzemeltetése céljára értékesíti.
 
-(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5) és (11) bekezdésének rendelkezéseit is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki vagy mulasztási bírság tartozás esetén – külön végzés nélkül – jogosult, illetve – a 26/A. § (6) bekezdése szerinti esetben – a 38. § (12) bekezdését kell alkalmazni.
+(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5), (9) és (11) bekezdését is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki vagy mulasztási bírság tartozás esetén – végzés nélkül – jogosult, illetve – a 26/A. § (6) bekezdése szerinti esetben – a 38. § (12) bekezdését kell alkalmazni.
 
 (14) A jövedéki engedély megszűnik, ha
 
@@ -3418,6 +3418,12 @@ határozatban állapítja meg az adót.
 128/L. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 104. § (2) bekezdés a) pontja alapján meghatározott jövedéki biztosítékot 2015. február 1-ig kell az ott meghatározott mértékre kiegészíteni a jövedéki biztosítékot nyújtónak, erre vonatkozó külön felhívás nélkül.
 
 (2) A 7. § 43. pontja szerinti pénzügyi biztosítékot nyújtó gazdálkodó tevékenységét a jövedéki biztosíték megemeléséről szóló vámhatósági döntés meghozataláig, de legkésőbb 2015. április 30-ig jogszerűen végezheti feltéve, hogy a jövedéki biztosíték megemelésének pénzintézetnél való kezdeményezéséről szóló iratot 2015. február 1. előtt a vámhatóságnak bemutatja.
+
+(3) Ásványolajtermékek és dohánygyártmányok kivételével a jövedéki termék esetében a jövedéki biztosítékra az egyes törvényeknek a jövedéki biztosíték mértékével összefüggő módosításáról szóló 2015. évi IV. törvénnyel (a továbbiakban: Módtv2.) megállapított 104. § (2) bekezdés a) pontját 2015. január 1-jétől kell alkalmazni, azzal, hogy ezen jövedéki termékek tekintetében a jövedéki biztosítékot nem kell az (1) bekezdés szerint kiegészíteni, és a (2) bekezdéstől eltérően a pénzügyi biztosítékot nyújtó a gazdálkodó tevékenységét abban az esetben is végezheti, ha a (2) bekezdés szerinti irat bemutatására 2015. február 1-jéig nem került sor.
+
+(4) Ha a vámhatóság az ásványolajtermékek és dohánygyártmányok kivételével a jövedéki termékre vonatkozó jövedéki engedélyt a 2015. január 1-jén hatályos 104. § (2) bekezdés a) pontja szerinti jövedéki biztosítéknyújtási kötelezettség teljesítésének elmulasztása miatt 2015. február 1. és a Módtv2. hatálybalépése között visszavonta, e határozatát és az ezzel összefüggésben kiszabott jövedéki bírságot megállapító határozatát a Módtv2. hatálybalépésétől számított 30 napon belül hivatalból visszavonja, illetve a Módtv2. hatálybalépésekor folyamatban lévő ilyen eljárást megszünteti, feltéve, hogy a Módtv2.-vel megállapított 104. § (2) bekezdés a) pontjának megfelelő összegű jövedéki biztosíték rendelkezésre áll.
+
+(5) Ásványolajtermékek és dohánygyártmányok kivételével a jövedéki termék esetén a jövedéki biztosítéknak a Módtv2.-vel megállapított 104. § (2) bekezdés a) pontjára tekintettel történő csökkentésével összefüggő vámhatósági eljárásra a 38. § (9) bekezdését kell alkalmazni.
 
 128/M. § (1) Ha e törvény eltérően nem rendelkezik, mindazon dohánygyártmányokat, amelyeket legkésőbb 2014. december 31. napján éjfélig – az akkor hatályos szabályoknak megfelelően – szabadforgalomba bocsátottak, a kiskereskedelmi forgalomban időbeli korlátozás nélkül értékesíteni lehet.
 
