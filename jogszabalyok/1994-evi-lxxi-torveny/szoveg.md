@@ -26,7 +26,7 @@ a választottbíráskodásról
 
 (2) Választottbírósági eljárás az (1) bekezdés a) pontjában foglalt feltétel hiányában is kiköthető, ha azt törvény megengedi.
 
-4. § Nincs helye – sem magyarországi, sem Magyarországon kívüli választottbírósági hellyel (székhellyel) rendelkező eseti vagy állandó – választottbírósági eljárásnak a Polgári perrendtartás (a továbbiakban: Pp.) XV–XXIII. fejezetében szabályozott eljárásokban, valamint olyan ügyben, amelyben a jogvita tárgya a nemzeti vagyonról szóló 2011. évi CXCVI. törvény hatálya alá tartozó Magyarország határa által körbezárt területen lévő nemzeti vagyon, illetve azzal kapcsolatos bármely jog, igény, követelés, továbbá olyan ügyekben, amelyekben törvény a jogvita választottbírósági eljárás keretében történő rendezését kizárja.
+4. § Nincs helye választottbírósági eljárásnak a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XV–XXIII., és XXV. fejezetében szabályozott eljárásokban, továbbá olyan ügyekben, amelyekben törvény a jogvita választottbírósági eljárás keretében történő rendezését kizárja.
 
 5. § (1) A választottbírósági szerződés a felek megállapodása, amely szerint meghatározott, akár szerződéses, akár szerződésen kívüli jogviszonyukból keletkezett vagy keletkező vitájukat választottbíróság elé terjesztik.
 

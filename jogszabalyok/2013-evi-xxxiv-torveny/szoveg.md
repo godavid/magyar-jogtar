@@ -10,6 +10,8 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 (3) A Teljesítésigazolási Szakértői Szerv eljárása a Magyarországon történő építési beruházásokra terjed ki.
 
+(3a) Nem terjed ki e törvény hatálya a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény hatálya alá tartozó építési beruházásokra.
+
 (4) E törvény alkalmazásában
 
 - a) szerződést biztosító mellékkötelezettség a bankgarancia, zálogjog és kezesség,
