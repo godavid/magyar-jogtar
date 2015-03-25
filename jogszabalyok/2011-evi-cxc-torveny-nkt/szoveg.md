@@ -2062,7 +2062,17 @@ dönt.
 
 (3) A működtető feladata a köznevelési közfeladat-ellátáshoz kapcsolódó helyiségek – ide nem értve a kiszolgáló helyiségeket – bútorzata, a nevelőmunkát segítő eszközök és taneszközök kivételével a köznevelési intézmények működéséhez szükséges eszközök és felszerelések, valamint anyagok, áruk, szolgáltatások megrendelése, átadás-átvétele, raktározása, készletek pótlása. A működtető feladata továbbá a köznevelési intézmény alapító okiratában foglalt feladat ellátásához jogszabály szerint szükséges technikai berendezések működtetése, javítása, karbantartása, cseréje és a tulajdonában lévő taneszközök, egyéb eszközök és felszerelések karbantartása.
 
-(4) A települési önkormányzat a helyi önkormányzati képviselők választását követő év március 31. napjáig nyújthat be kérelmet, ha a következő tanévtől a működtetést az államtól képes átvállalni vagy a működtetést nem képes vállalni.
+(4) Az a települési önkormányzat, amelynek illetékességi területén a települési önkormányzat tulajdonában lévő épületben működik az állami intézményfenntartó központ fenntartásában lévő köznevelési intézmény, a helyi önkormányzati képviselők választását követő év június 15. napjáig – külön jogszabályban meghatározott eljárás keretében – nyújtja be a nyilatkozatát arról, hogy a működtetői feladatokat a helyi önkormányzati képviselők választását követő év szeptember 1-jétől el kívánja látni vagy a működtetői feladatokat nem vállalja, továbbá, ha a működtetési kötelezettséget
+
+- a) nem tudja vállalni, kérelmet a működtetési kötelezettség alóli felmentésre a 3000 főt meghaladó lakosságszámú települési önkormányzat esetében,
+- b) vállalni tudja, kérelmet a működtetésről való gondoskodás vállalására vonatkozóan 3000 főt meg nem haladó lakosságszámú települési önkormányzat esetén.
+
+A határidő elmulasztása jogvesztő.
+
+(4a) A (4) bekezdésben meghatározott nyilatkozat hiányában a helyi önkormányzati képviselők választását követő év szeptember 1-jétől
+
+- a) a 3000 főt meghaladó lakosságszámú települési önkormányzat a 74. § (4) bekezdése szerinti köznevelési intézmények működtetésére köteles,
+- b) a 3000 főt meg nem haladó lakosságszámú települési önkormányzat esetében a működtetői feladatok ellátásáról az állami intézményfenntartó központ gondoskodik.
 
 (5) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény feladatainak ellátását szolgáló, települési önkormányzati tulajdonú ingatlan és ingó vagyonra vonatkozóan az állami intézményfenntartó központot
 
