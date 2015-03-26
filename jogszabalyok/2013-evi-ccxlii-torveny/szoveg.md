@@ -6,6 +6,14 @@ Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budap
 
 1. § (1) A Budapest XIV. kerület 29732/1 helyrajzi számú ingatlannak (a továbbiakban: városligeti ingatlan) az államot, Budapest Főváros Önkormányzatát és Budapest Főváros XIV. Kerület Zugló Önkormányzatát megillető tulajdoni hányada e törvény erejénél fogva mint közfeladat ellátásához szükséges terület ingyenesen, az e törvény hatálybalépésétől számított 99 éves időtartamra az állam 100%-os tulajdonában álló Városliget Ingatlanfejlesztő Zrt. (a továbbiakban: vagyonkezelő) vagyonkezelésébe kerül. A városligeti ingatlanon fennálló építményekre e törvény hatálybalépését megelőzően az ingatlan-nyilvántartásba bejegyzett egyéb vagyonkezelői jogok, illetve Budapest Főváros Önkormányzata forgalomszervezési, közútkezelési és közösségi közlekedési infrastruktúra fenntartási, továbbá településtisztasági és hulladékgazdálkodási feladatkörei változatlanul fennmaradnak. A vagyonkezelői jog nem terjed ki a Budapest XIV. kerület, Dózsa György úr 37. szám alatti ingatlan (Műcsarnok) és hozzá tartozó földterületre, a Széchenyi Gyógyfürdő és Uszoda, valamint a Városligeti Műjégpálya épületére, továbbá a műszaki infrastruktúra sajátos építményeire.
 
+(1a) A Városliget megújításához és fejlesztéséhez kapcsolódó beruházások megvalósítása érdekében
+
+- a) a Budapest XIII. kerület, 28056 helyrajzi számú ingatlan 21667/38899 hányada,
+- b) a Komárom 802 és Komárom 803 helyrajzi számú ingatlanok, valamint
+- c) a városligeti ingatlanon lévő Magyar Műszaki és Közlekedési Múzeum épülete (a Magyar Műszaki és Közlekedési Múzeum javára bejegyzett vagyonkezelői joghoz kapcsolódó ingatlanrész)
+
+a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosításáról szóló 2015. évi XIV. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a vagyonkezelő vagyonkezelésébe kerülnek az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelők vagyonkezelői jogának egyidejű megszűnésével.
+
 (2) A vagyonkezelő vagyonkezelői joga tekintetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 11. § (8) bekezdés c) és e) pontja, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 109. § (6) bekezdése nem alkalmazandó.
 
 (3) A vagyonkezelőben az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét a kultúráért felelős miniszter gyakorolja.
@@ -22,9 +30,14 @@ Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budap
 
 (2) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a városligeti ingatlanon – e törvény hatálybalépésekor – fennálló építményeknek a vagyonkezelő általi átalakítása, bővítése, felújítása, korszerűsítése (a továbbiakban együtt: építési tevékenység) esetén az építési tevékenységgel érintett építményrész az egész ingatlan értékéből az épített részre eső érték arányában az állam tulajdonába kerül.
 
-(3) A vagyonkezelő mint építtető (a továbbiakban: építtető) az (1) és (2) bekezdésben meghatározott beruházások tekintetében a feladatait az állam nevében és javára eljárva látja el. A beruházások közérdekű célú fejlesztésnek minősülnek.
+(3) A vagyonkezelő mint építtető (a továbbiakban: építtető)
 
-(4) Az építtető a városligeti ingatlan fejlesztésével összefüggő beruházások vonatkozásában különösen az alábbi feladatokat látja el:
+- a) az (1) és (2) bekezdésben meghatározott beruházások, valamint
+- b) az 1. § (1a) bekezdésében megjelölt ingatlanokhoz kapcsolódó beruházások
+
+tekintetében a feladatait az állam nevében és javára eljárva látja el. A beruházások közérdekű célú fejlesztésnek minősülnek.
+
+(4) Az építtető a (3) bekezdésben megjelölt beruházások vonatkozásában különösen az alábbi feladatokat látja el:
 
 - a) teljes körűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, tanulmányokat;
 - b) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban;
@@ -38,7 +51,9 @@ Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budap
 
 (5) Az építési tevékenység megvalósítása céljából az építtető által kezdeményezett hatósági eljárásokban a jogszabályban előírt ingatlantulajdonosi hozzájárulás az építtetőn kívüli jogalanytól történő beszerzése nem szükséges.
 
-(6) Az (1) és (2) bekezdés szerinti beruházások – a számvitelről szóló törvény szerinti – megvalósuláskor a Magyar Nemzeti Vagyonkezelő Zrt. nyilvántartásába kerülnek aktiválásra, a beruházásnak az építtető nyilvántartásaiból – az elszámolásra kapott forrásokkal szemben – történő kivezetésével egyidejűleg.
+(6) A (3) bekezdésben megjelölt befejezett beruházások – a számvitelről szóló törvény szerinti – megvalósuláskor a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság nyilvántartásába kerülnek felvételre a vagyonkezelő adatközlése alapján.
+
+(6a) A (3) bekezdésben megjelölt beruházások befejezését követően létrejövő új építmények e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatlanok ingyenesen a vagyonkezelő vagyonkezelésébe kerülnek az 1. § (1) bekezdésében meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig. Az ingatlanügyi hatóság a vagyonkezelő vagyonkezelői jogát a vagyonkezelő kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba a beruházás – számvitelről szóló törvény szerinti – megvalósulását követően. Az ingatlanügyi hatóság eljárása díjmentes.
 
 (7) Az (1) bekezdés alapján felépített építményekre mint önálló ingatlanokra, illetve a (2) bekezdés szerinti építési tevékenység esetén az ingatlan tekintetében – a (2) bekezdésben meghatározott tulajdoni arányban – az államot illető tulajdonjogot az ingatlanügyi hatóság az építtető kérelmére, a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány alapján, e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárása díjmentes, arra az Inytv. 8. §-át nem kell alkalmazni.
 
@@ -46,7 +61,7 @@ Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budap
 
 5. § (1) A 3. § (1) bekezdése szerint felépített és önálló ingatlanként az állam tulajdonába kerülő építmény rendeltetésszerű használatához szükséges földrészletre az államot az építmény fennállásáig ingyenes földhasználati jog illeti meg.
 
-(2) Az állam az építmény tulajdonosaként e törvényen alapuló földhasználati jogánál fogva jogosult a földrészlet használatára és hasznai szedésére, valamint köteles viselni az annak fenntartásával járó terheket.
+(2) Az állam az építmény tulajdonosaként e törvényen alapuló földhasználati jogánál fogva jogosult a földrészlet használatára és hasznai szedésére, valamint a használat arányában köteles viselni az annak fenntartásával járó terheket.
 
 (3) Az ingatlanügyi hatóság az (1) bekezdés szerinti földhasználati jogot az építtető – a földhasználati jognak a földrészlet természetben vagy területmértékben meghatározott mértékét tartalmazó – kérelmére e törvény alapján bejegyzi az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárása díjmentes, arra az Inytv. 8. §-át nem kell alkalmazni.
 
