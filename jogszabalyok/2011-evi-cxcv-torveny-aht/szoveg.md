@@ -219,11 +219,13 @@ látja el.
 
 - a) központi költségvetési szerv esetén az Országgyűlés, a Kormány vagy a miniszter,
 - b) helyi önkormányzati költségvetési szerv esetén a helyi önkormányzat – a közös önkormányzati hivatal esetén a Mötv.-ben foglaltak szerint az érintett helyi önkormányzatok –, a helyi önkormányzatok társulása, a térségi fejlesztési tanács, az átalakult nemzetiségi önkormányzat,
-- c) helyi nemzetiségi önkormányzati költségvetési szerv esetén a helyi nemzetiségi önkormányzat vagy a helyi nemzetiségi önkormányzatok társulása,
-- d) országos nemzetiségi önkormányzati költségvetési szerv esetén az országos nemzetiségi önkormányzat vagy az országos nemzetiségi önkormányzatok társulása, és
-- e) köztestületi költségvetési szerv esetén a köztestület (az a)–e) pont a továbbiakban együtt: alapító szerv).
+- c) nemzetiségi önkormányzati költségvetési szerv esetén a nemzetiségi önkormányzat vagy a nemzetiségi önkormányzatok társulása,
+- d) köztestületi költségvetési szerv esetén a köztestület
+- e)
 
-(2) Költségvetési szervet a miniszter más miniszterrel, az (1) bekezdés b)–d) pontjában megjelölt szerv más ugyanilyen szervvel közösen is alapíthat.
+(az a)–d) pont a továbbiakban együtt: alapító szerv).
+
+(2) Költségvetési szervet a miniszter más miniszterrel, az (1) bekezdés b) és c) pontjában megjelölt szerv más ugyanilyen szervvel közösen is alapíthat.
 
 (3) Költségvetési szerv alapítása történhet oly módon is, hogy a költségvetési szervből kiválás történik, amely alapján a költségvetési szerv az alapító okirat módosítását követően tovább működik, ezzel egyidejűleg pedig az alapításra vonatkozó szabályok szerint egy új költségvetési szerv jön létre.
 
@@ -287,7 +289,12 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (4) A költségvetési szerv – a (4a) és (4b) bekezdésben meghatározott kivétellel – gazdasági szervezettel rendelkezik. A gazdasági szervezetet a Kormány rendeletében meghatározott képesítéssel rendelkező gazdasági vezető irányítja.
 
-(4a) A gazdasági szervezet feladatait, ha a költségvetési szerv éves átlagos statisztikai állományi létszáma a 100 főt nem éri el, az irányító szerv, az államháztartás önkormányzati alrendszerében az önkormányzati hivatal vagy – az irányító szerv döntése alapján – az irányító szerv irányítása alá tartozó más költségvetési szerv látja el. E rendelkezést nem kell alkalmazni az irányító szervre, az önkormányzati hivatalra, az alaptevékenységként költségvetési szerv gazdálkodási feladatainak ellátására létrehozott költségvetési szervre és az olyan költségvetési szervre, amely törvény, kormányrendelet alapján vagy az állam nemzetközi kötelezettségére tekintettel gazdasági szervezettel rendelkezik.
+(4a) A gazdasági szervezet feladatait, ha a költségvetési szerv éves átlagos statisztikai állományi létszáma a 100 főt nem éri el,
+
+- a) az irányító szerv, az államháztartás önkormányzati alrendszerében az önkormányzati hivatal vagy
+- b) az irányító szerv döntése alapján az irányító szerv irányítása alá tartozó, gazdasági szervezettel rendelkező más költségvetési szerv
+
+látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatározott eltéréssel – az irányító szervre, az önkormányzati hivatalra, az országos nemzetiségi önkormányzat hivatalára, a nemzetiségi önkormányzati költségvetési szervre, az alaptevékenységként költségvetési szerv gazdálkodási feladatainak ellátására létrehozott költségvetési szervre és az olyan költségvetési szervre, amely törvény, kormányrendelet alapján vagy az állam nemzetközi kötelezettségére tekintettel gazdasági szervezettel rendelkezik.
 
 (4b) Az irányító szerv döntése alapján a (4a) bekezdést a 100 fő éves átlagos statisztikai állományi létszámot elérő költségvetési szervre is alkalmazni kell.
 
