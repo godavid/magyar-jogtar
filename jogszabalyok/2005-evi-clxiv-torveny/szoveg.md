@@ -124,6 +124,10 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 6. § (1) Az üzlet nyitvatartási idejét a vásárlási szokások, a foglalkoztatottak és a lakókörnyezet érdekeinek figyelembevételével – a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény és a felhatalmazása alapján kiadott jogszabályok, valamint e törvény keretei között – a kereskedő állapítja meg.
 
+(1a) Az az üzlet, amely kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytat, a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény rendelkezéseinek alkalmazása során kiskereskedelmi tevékenységet folytató üzletnek minősül.
+
+(1b) Az az üzemanyagtöltő állomás területén működő üzlet, amely nem értékesít üzemanyagot, a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény rendelkezéseinek alkalmazása során kiskereskedelmi tevékenységet folytató üzletnek minősül.
+
 (2) A kereskedő köteles
 
 - a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve az abban bekövetkező változást az azt megelőző nyolc napon belül a kereskedelmi hatóságnak bejelenteni;
