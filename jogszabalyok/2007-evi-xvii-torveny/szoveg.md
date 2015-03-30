@@ -42,7 +42,7 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 
 - a) beruházás: az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. §-a (1) bekezdésének a) pontjában megfogalmazott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés. A társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 - b) egyéb szervezet: a szakcsoport, valamint a jogi személyiséggel nem rendelkező szervezet;
-- c) illetékes hatóság: az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló 885/2006/EK bizottsági rendelet (2006. június 21.) 1. cikkének (2) bekezdése alapján az agrárpolitikáért felelős miniszter;
+- c) illetékes hatóság: az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló 885/2006/EK bizottsági rendelet (2006. június 21.) 1. cikkének (2) bekezdése, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, az ellenőrzési szabályok, a biztosítékok és az átláthatóság tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló 908/2014/EU bizottsági végrehajtási rendelet (2014. augusztus 6.) 1. cikk (1) bekezdése alapján az agrárpolitikáért felelős miniszter;
 - d) irányító hatóság: az agrár-vidékfejlesztésért felelős miniszter mint
   - da) a 2007–2013 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet (2005. szeptember 20.) 75. cikke és az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés a) pontja,
   - db) a 2014–2020 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1305/2013/EU európai parlamenti és tanácsi rendelet (2013. december 17.) 65. cikk (2) bekezdése és az Európai Halászati Alappal összefüggésben a 2014–2020 programozási időszakra vonatkozó közösségi jogi aktus
@@ -109,7 +109,7 @@ benyújtásával a hatáskörrel és illetékességgel rendelkező szervnél elj
 
 hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek hatáskörébe tartozó eljárására.
 
-(1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a III. Fejezet, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a) és (2) bekezdése, a 81. § (3) bekezdés b)–d) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
+(1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a 9. § c) pontja, a III. Fejezet, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a) és (2) bekezdése, a 81. § (3) bekezdés b)–d) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
 
 (2) E törvény végrehajtásáért az EMVA vagy az EHA terhére nyújtott támogatás tekintetében az agrár-vidékfejlesztésért felelős miniszter, az EMGA terhére nyújtott támogatás tekintetében az agrárpolitikáért felelős miniszter felel, amelynek keretében:
 
@@ -175,7 +175,7 @@ gyakorolja.
 
 - a) felelős a kifizető ügynökség akkreditációjáért, e feladatkörében – a közösségi jogi aktusokban foglaltak szerint – jogosult az akkreditáció megadására, illetve szükség esetén annak megvonására;
 - b) folyamatosan figyelemmel kíséri a kifizető ügynökségnél az akkreditációs feltételek teljesítését;
-- c) gondoskodik az egyes intézkedésekhez kapcsolódó monitoringrendszer működéséhez és az ellenőrzési feladatok végrehajtásához szükséges ágazati információs rendszereknek más információs rendszerekkel való összehangolásáról;
+- c)
 - d) közleményt ad ki a forrás kimerüléséről.
 
 (2) Az agrárpolitikáért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
@@ -397,33 +397,46 @@ feladatok ellátásáért.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése céljából adatokat kell átadni:
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése, továbbá az ügyfelek azonosítása céljából adatokat kell átadni:
 
-- a) a vámhatóság által kezelt vámadatbázisból,
-- b) a nemzeti külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
-- c) a szőlőültetvény-kataszterből,
-- d) az Egységes Nyilvántartási és Azonosítási Rendszerből (ENAR),
-- e) az Országos Erdőállomány Adattárból,
-- f) a védett és védelemre tervezett természeti területek nyilvántartásából,
-- g) az Országos Támogatási Monitoring Rendszer nyilvántartásából,
-- h) a külön jogszabály szerint elismert ökológiai termelést ellenőrző szervezet által vezetett, az ökológiai gazdálkodással összefüggő nyilvántartásból,
-- i) a vetőmag-nyilvántartási rendszerből,
-- j) a személyek azonosítására a személyiadat- és lakcímnyilvántartásból,
-- k) a cégnyilvántartásból,
-- l) az ingatlan-nyilvántartásból,
-- m) a földhasználati nyilvántartásból,
-- n) az Országos Halászati Adattárból,
-- o) a munkaügyi és munkavédelmi hatóság adatbázisából,
-- p) az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
-- q) az I. és II. Nemzeti Fejlesztési Tervhez kapcsolódó információs rendszerekből,
-- r) az adóhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEÁOR' 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
-- s) a Tenyészet Információs Rendszerből,
-- t) a Baromfi Információs Rendszerből,
-- u) az Országos Állat-egészségügyi Információs Rendszerből,
-- v) a hatáskörrel rendelkező hatóság nyilvántartási rendszereiből,
-- w) az Országos Nyugdíjbiztosítási Főigazgatóság adattárából az ügyfelek sajátjogú nyugellátásáról,
-- x) az egyéni vállalkozók nyilvántartásából,
-- y) a vámhatóság által kezelt jövedéki adatbázisból,
+- 1. a vámhatóság által kezelt vámadatbázisból,
+- 2. a nemzeti külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
+- 3. a szőlőültetvény-kataszterből,
+- 4. az Egységes Nyilvántartási és Azonosítási Rendszerből (ENAR),
+- 5. az Országos Erdőállomány Adattárból,
+- 6. a védett és védelemre tervezett természeti területek nyilvántartásából,
+- 7. az Országos Támogatási Monitoring Rendszer nyilvántartásából,
+- 8. a külön jogszabály szerint elismert ökológiai termelést ellenőrző szervezet által vezetett, az ökológiai gazdálkodással összefüggő nyilvántartásból,
+- 9. a vetőmag-nyilvántartási rendszerből,
+- 10. a személyek azonosítására a személyiadat- és lakcímnyilvántartásból,
+- 11. a cégnyilvántartásból,
+- 12. az ingatlan-nyilvántartásból,
+- 13. a földhasználati nyilvántartásból,
+- 14. az Országos Halászati Adattárból,
+- 15. a munkaügyi és munkavédelmi hatóság adatbázisából,
+- 16. az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
+- 17. az Új Széchenyi Tervhez kapcsolódó információs rendszerekből,
+- 18. az adóhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEAOR' 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
+- 19. a Tenyészet Információs Rendszerből,
+- 20. a Baromfi Információs Rendszerből,
+- 21. az Országos Állat-egészségügyi Információs Rendszerből,
+- 22. a hatáskörrel rendelkező hatóság nyilvántartási rendszereiből,
+- 23. az Országos Nyugdíjbiztosítási Főigazgatóság adattárából az ügyfelek sajátjogú nyugellátásáról,
+- 24. az egyéni vállalkozók nyilvántartásából,
+- 25. a vámhatóság által kezelt jövedéki adatbázisból,
+- 26. a repülőterek üzemeltetőiről, valamint az engedélyköteles vagy bejelentéshez kötött vasúti szolgáltatás végzőiről vezetett nyilvántartásból,
+- 27. a Magyar Energetikai és Közműszabályozási Hivatal által a víziközmű-szolgáltatókról vezetett nyilvántartásból,
+- 28. a rendezett munkaügyi kapcsolati adatokat tartalmazó adatbázisokból,
+- 29. az építésügyért felelős miniszter által működtetett az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerből,
+- 30. a családi gazdálkodókról vezetett nyilvántartásból,
+- 31. az Országos Állattenyésztési Adatbázisból,
+- 32. a Nemzeti Génbank Adatbázisból,
+- 33. a köznevelés információs rendszerből,
+- 34. az engedélyezett létesítmények nyilvántartási rendszeréből,
+- 35. az elektronikus közúti áruforgalmi ellenőrző rendszerből,
+- 36. az országos névjegyzékből.
+
+(3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a személyiadat- és lakcímnyilvántartásból a (3) bekezdésben meghatározott feladata ellátása céljából az ügyfél-nyilvántartási rendszerben nyilvántartott természetes személy ügyfél természetes személyazonosító adatai, állampolgársága, lakóhelyének címe, elhalálozására vonatkozó adata igénylésére jogosult, amely adatokat természetes személyazonosító adattal, a lakóhely címével, illetve kapcsolati kód alkalmazásával igényelheti.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
 
@@ -653,6 +666,8 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (6) A kérelem benyújtására vagy beérkezésére nyitva álló, illetve eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – kivéve, ha az intézkedésben való részvétel részletes feltételeit meghatározó jogszabály ezt kifejezetten lehetővé teszi – igazolásnak helye nincs.
 
+(6a) A (6) bekezdéstől eltérően az EMVA és az EHA terhére nyújtott támogatások esetében a kérelem benyújtására vagy beérkezésére nyitva álló, illetve eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – a 43/A. § és a 41. § (6) bekezdésében foglaltak sérelme nélkül – igazolásnak van helye, amely a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 66. § (4) bekezdésétől eltérően 2015. augusztus 31-ig nyújtható be.
+
 (7) A kérelem, illetve a pályázat benyújtása, valamint a vonatkozó jogszabályokban, illetve a pályázati felhívásban rögzített feltételek teljesítése az intézkedésben való részvételre nem jelent alanyi jogosultságot, arról csak a rendelkezésre álló jogosultsági keretekre tekintettel hozható döntés.
 
 (8) Az intézkedésekben való részvétel során az ügyfélnek kell a jogosultsági feltételek meglétét hitelt érdemlően bizonyítania. Az ügyfelet terheli továbbá a kérelemmel, illetve a pályázattal összefüggésben tett bármilyen nyilatkozatával, állításával, valamint mezőgazdasági és vidékfejlesztési támogatási szerv által megállapított ténnyel szemben a bizonyítási kötelezettség.
@@ -661,7 +676,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### A kérelem befogadása
 
-39. § (1) Egyes, az EMVA-ból finanszírozott jogszabályban, illetve pályázati felhívást tartalmazó közleményben meghatározott intézkedések esetében a kérelem benyújtását követően a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy a kérelem rendelkezik-e az értékelési eljárás lefolytatásához szükséges, jogszabályban, illetve pályázati felhívást tartalmazó közleményben előírt valamennyi tartalmi és formai kellékkel, és ezáltal rangsorba állítható-e (a továbbiakban: befogadás).
+39. § (1) Egyes, az EMVA-ból vagy nemzeti forrásból finanszírozott, jogszabályban, illetve pályázati felhívást tartalmazó közleményben meghatározott intézkedések esetében a kérelem benyújtását követően a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy a kérelem rendelkezik-e az értékelési eljárás lefolytatásához szükséges, jogszabályban, illetve pályázati felhívást tartalmazó közleményben előírt valamennyi tartalmi és formai kellékkel, és ezáltal rangsorba állítható-e (a továbbiakban: befogadás).
 
 (2) Az (1) bekezdésben foglaltak szerinti kérelem befogadásáról a mezőgazdasági és vidékfejlesztési támogatási szerv a befogadási nyilatkozat megküldésével értesíti az ügyfelet. A kérelem befogadása nem értékelhető úgy, hogy a támogatási feltételeket az ügyfél teljesítette.
 
@@ -676,6 +691,8 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő két hónapon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
 
 (2) Jogszabály eltérő rendelkezése hiányában hiánypótlási, nyilatkozattételre való felhívás azonos tárgyban ismételten nem bocsátható ki.
+
+(2a) A (2) bekezdéstől eltérően az EMVA és az EHA terhére nyújtott támogatások esetében hiánypótlási vagy nyilatkozattételre való felhívás azonos tárgyban egyszer ismételten kibocsátható. E törvény felhatalmazása alapján kiadott miniszteri rendeletben e rendelkezéstől eltérni nem lehet.
 
 (3) Az intézkedések igénybevételének részletes szabályait tartalmazó jogszabály meghatározhatja azon adatok, dokumentumok körét, amelyek a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolhatók.
 
@@ -874,6 +891,8 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (12) A mezőgazdasági és vidékfejlesztési támogatási szerv vezetője az ügyintézési határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb az eljárásra nyitva álló időtartammal meghosszabbíthatja.
 
+55/A. § Az ügyfélkapun keresztül elektronikus úton kézbesített irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Amennyiben az irat átvétele öt napon belül nem kerül visszaigazolásra, a mezőgazdasági és vidékfejlesztési támogatási szerv az iratot ismételten megküldi az ügyfél értesítési tárhelyére. Ebben az esetben az elektronikus úton kézbesített hatósági irat vonatkozásában a kézbesítési vélelem az iratnak az értesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon áll be.
+
 56. § (1) Fellebbezés benyújtásának nincs helye, amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv
 
 - a) a döntését az Európai Bizottság döntése vagy határozata alapján hozta meg,
@@ -958,12 +977,9 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 57/A. § (1) A jogorvoslati eljárás során a törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(1a) A mezőgazdasági és vidékfejlesztési támogatási szervnek
+(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv döntései ellen irányuló fellebbezést – az (1b) bekezdésben foglaltak kivételével – kormányrendeletben meghatározottak szerint az agrárpolitikáért felelős miniszter bírálja el.
 
-- a) az EMVA-val és az EHA-val kapcsolatos döntése ellen irányuló fellebbezést az agrár-vidékfejlesztésért felelős miniszter,
-- b) az EMGA-val kapcsolatos döntése ellen irányuló fellebbezést az agrárpolitikáért felelős miniszter
-
-bírálja el.
+(1b) A mezőgazdasági és vidékfejlesztési támogatási szervnek az EMVA-ból és az EHA-ból finanszírozott intézkedésekkel kapcsolatos döntése ellen irányuló fellebbezést kormányrendeletben meghatározottak szerint az agrár-vidékfejlesztésért felelős miniszter bírálja el.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv döntése ellen benyújtott fellebbezésben pontosan meg kell jelölni azt a döntést, amely ellen a fellebbezés irányul, azaz fel kell tüntetni az ügyszámot, meg kell jelölni az ügyfél (és képviselője) nevét, lakóhelyét, székhelyét és azt az intézkedést, amely ellen a fellebbezés irányul. A fellebbezésben meg kell jelölni azt is, hogy a fellebbezést benyújtó személy a vitatott döntés megváltoztatását mennyiben és milyen okból kívánja.
 
@@ -972,6 +988,8 @@ bírálja el.
 (4) A fellebbezés elbírálására jogosult hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő két hónapon belül hozza meg, amelyet a jogorvoslati kérelem elbírálója indokolt esetben, egy alkalommal ugyanezen időtartalommal meghosszabbíthat.
 
 (5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a fellebbezés elbírálására jogosult hatóság csak abban az esetben veheti figyelembe, ha az ügyfél igazolni tudja, valamint az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott.
+
+(5a) Az (5) bekezdést az EMVA és az EHA terhére nyújtott támogatások tekintetében nem kell alkalmazni.
 
 (6) A fellebbezési eljárás során eljárási, valamint mulasztási bírság is kiszabható.
 
@@ -985,7 +1003,7 @@ bírálja el.
 
 60. § (1) Az ügyfelet megillető támogatást – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet terhelő, az intézkedésekkel összefüggő tartozás összegéig visszatartja és ezzel a tartozás megfizetettnek minősül. Ha az igénybe vehető támogatás összege az ügyfelet terhelő tartozások mindegyikére nem nyújt fedezetet, azt az esedékesség sorrendjében kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 
-(2) Az ügyfél egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az állami adóhatóság az általa nyilvántartott tartozás fennállásáról és összegéről a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból a mindenkori központi költségvetési törvény vagy az Áht. szabályai szerint a mezőgazdasági és vidékfejlesztési támogatási szerv visszatartja, és átutalja az állami adóhatóságnak. A visszatartott támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül.
+(2) Az ügyfél egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az állami adóhatóság az általa nyilvántartott tartozás fennállásáról és összegéről a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból, továbbá a tagállami hatáskörben, központi költségvetésből nyújtott mezőgazdasági, halászati, erdészeti, vadgazdálkodási és vidékfejlesztési támogatásból a mindenkori központi költségvetési törvény vagy az Áht. szabályai szerint a mezőgazdasági és vidékfejlesztési támogatási szerv visszatartja, és átutalja az állami adóhatóságnak. A visszatartott támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül.
 
 (3) Ha az igénybe vehető támogatás összege az állami adóhatóság által a (2) bekezdés alapján szolgáltatott, az ügyfelet terhelő tartozások mindegyikére nem nyújt fedezetet, azt a tartozások arányában kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 
@@ -1181,23 +1199,25 @@ bírálja el.
 
 ### Nem teljesítési bírság
 
-73/A. § (1) A közvetlen támogatási rendszer keretében közösségi jogi aktus felhatalmazása alapján egyes, jogszabályban meghatározott szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél kötelezettségvállalása, hogy a jogszabályban meghatározottak szerinti mértékben élőmunka-ráfordítást biztosítson, továbbá az előírt elismert tevékenységből származó árbevételi, képzési és beruházási kötelezettségét teljesítse.
+73/A. § (1) A közvetlen támogatási rendszer keretében közösségi jogi aktus felhatalmazása vagy 2015-től kezdődően ezen támogatási konstrukciót felváltó nemzeti támogatás alapján egyes, jogszabályban meghatározott szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél jogszabályban meghatározottak szerinti mértékű élőmunka-ráfordítás biztosítását, továbbá az előírt elismert tevékenységből származó árbevételi, képzési és beruházási kötelezettség teljesítését tartalmazó kötelezettségvállalása.
 
-(2) Az (1) bekezdésben vállalt kötelezettség megszegése esetén az ügyfelet – a (6)–(7) bekezdésében foglaltakra is figyelemmel – a mulasztással arányos, euróban megállapított nem teljesítési bírsággal kell sújtani. Az átváltásra a közösségi forrásból nyújtandó támogatásra vonatkozó szabályokat kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben vállalt kötelezettség megszegése esetén az ügyfelet – a (7) bekezdésben foglaltakra is figyelemmel – a mulasztással arányos, euróban megállapított nem teljesítési bírsággal kell sújtani. Jogszabály eltérő rendelkezése hiányában az átváltásra a közösségi forrásból nyújtandó közvetlen támogatásokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(3) A jogszabályban meghatározott élőmunka-ráfordítás nem vagy hiányos teljesítése esetén, a bírság mértékének megállapításánál jogszabályban meghatározottak szerint munkaóránként és támogatási évenként legfeljebb 4,5 eurónak megfelelő forintösszeg vehető figyelembe.
+(3) A jogszabályban meghatározott élőmunka-ráfordítás nem vagy hiányos teljesítése esetén a bírság mértékének megállapításánál jogszabályban meghatározottak szerint munkaóránként és támogatási évenként legfeljebb 4,5 eurónak, az (1) bekezdésben hivatkozott nemzeti támogatás esetében pedig legfeljebb 3 eurónak megfelelő forintösszeg vehető figyelembe.
 
-(4) A jogszabályban meghatározott elismert tevékenységből származó árbevétel nem vagy hiányos teljesítése esetén, a bírság mértékének megállapításánál jogszabályban meghatározottak szerint az árbevétel nem teljesített 300 forintos egységértékei esetében támogatási évenként legfeljebb 4 eurónak megfelelő forintösszeg vehető figyelembe.
+(4) A jogszabályban meghatározott elismert tevékenységből származó árbevétel nem vagy hiányos teljesítése esetén, a bírság mértékének megállapításánál jogszabályban meghatározottak szerint az árbevétel nem teljesített 300 forintos egységértékei esetében támogatási évenként legfeljebb 4 eurónak, az (1) bekezdésben hivatkozott nemzeti támogatás esetében pedig legfeljebb 3 eurónak megfelelő forintösszeg vehető figyelembe.
 
 (5) Az állattenyésztéshez kapcsolódó intézkedések esetében a jogszabályban meghatározott élőmunka-ráfordítás, beruházási kötelezettség, illetőleg képzési kötelezettség nem vagy hiányos teljesítése esetén jogszabályban meghatározottak szerint a támogatás alapjául szolgáló állategységenként évenként legfeljebb 100 eurónak megfelelő forintösszeg vehető figyelembe.
 
 (6)
 
-(7) A nem teljesítési bírság mértéke hivatalból vagy kérelemre a jogszabályban meghatározottak szerint mérsékelhető, illetőleg kiszabása mellőzhető, ha az ügyfél mulasztását elháríthatatlan külső ok idézte elő és e körülmény fennállását a jogszabályban meghatározottak szerint igazolta.
+(7) A nem teljesítési bírság mértéke hivatalból vagy kérelemre a jogszabályban meghatározottak szerint mérsékelhető, vagy kiszabása mellőzhető, ha az ügyfél mulasztását elháríthatatlan külső ok idézte elő és e körülmény fennállását a jogszabályban meghatározottak szerint igazolta, illetve ha az adott gazdasági évben nem jogosult dohány termeléstől elválasztott átmeneti nemzeti támogatás igénylésére.
 
 (8) A nem teljesítési bírság megállapítása nem érinti a késedelmi pótlékfizetési kötelezettséget.
 
 (9) Az (1) bekezdésben vállalt kötelezettségek ismételt megszegése esetén a bírság mértékének megállapításánál jogszabályban meghatározottak szerint a (3)–(5) bekezdésekben szereplő összegek legfeljebb kétszerese vehető figyelembe.
+
+(10) A (3) bekezdésben foglalt élőmunka-ráfordítás jogszabályban meghatározott feltételek teljesülése esetén termelési költségeket csökkentő gépesítéssel legfeljebb 50 százalékkal mérsékelhető.
 
 ### VII. Fejezet — AZ ELJÁRÁS KÖLTSÉGEI
 
@@ -1250,6 +1270,24 @@ kapcsolatos eljárások.
 ### A Nemzeti Diverzifikációs Programra vonatkozó külön szabályok
 
 79/A. § Az EMGA-ból támogatott Nemzeti Diverzifikációs Program keretében az intézkedéseket az e törvényben az EMVA-ból vagy az EHA-ból finanszírozott intézkedésekre vonatkozó szabályok szerinti eltéréssel kell végrehajtani.
+
+### Ökológiai jelentőségű területre vonatkozó különös rendelkezések
+
+79/B. § (1) Ökológiai jelentőségű területként vehető figyelembe az e törvény végrehajtására kiadott rendeletben meghatározott, a közvetlen területalapú támogatás vonatkozásában nem támogatható területen elhelyezkedő, Helyes Mezőgazdasági és Környezeti Állapot szerint nem védett tájelem (a továbbiakban: tájelem), amely közvetlenül határos azzal a szántóterülettel, amely vonatkozásában az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatást igényeltek, és a tájelem tulajdonosa vagy vagyonkezelője e törvény végrehajtására kiadott rendeletben meghatározott időpontig – a mezőgazdasági és vidékfejlesztési támogatási szervnél – nem kérte, hogy az adott tájelem ökológiai jelentőségű területként ne legyen elismerhető.
+
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a tárgyév augusztus 31. napjáig honlapján közzéteszi az (1) bekezdés alapján figyelembe vehető azon ökológiai jelentőségű területek helyrajzi számát, amelyeket ökológiai jelentőségű területként ténylegesen bejelentettek az egységes kérelemben.
+
+(3) A (2) bekezdés szerinti ökológiai jelentőségű terület tulajdonosa vagy vagyonkezelője kérheti a mezőgazdasági és vidékfejlesztési támogatási szervtől az adott ökológiai jelentőségű területet bejelentő ügyfél 28. § (2) bekezdés szerinti adatait.
+
+(4) Az ökológiai jelentőségű területre tekintettel támogatásban részesülő ügyfél köteles az ökológiai jelentőségű terület tulajdonosának vagy vagyonkezelőjének erre irányuló felhívása esetén a támogatás időtartama alatt az adott ökológiai jelentőségű területen
+
+- a) elvégezni a parlagfű és más veszélyes gyomok elleni védekezést a jogszabályban foglaltaknak megfelelően,
+- b) elszállítani a szilárd hulladékot, és
+- c) elvégezni a rágcsálók és egyéb állati kártevők elleni védekezést.
+
+79/C. § (1) Az ingatlan tulajdoni lapján jogi jellegként az állandó legelő vagy állandó gyep jelleget fel kell tüntetni. A jogi jelleg feljegyzése érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresi az ingatlanügyi hatóságot.
+
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv az állandó legelők vagy állandó gyepek kiterjedésének változásairól évente megkereséssel adatot szolgáltat az ingatlanügyi hatóságnak, az állandó legelő vagy állandó gyep jogi jelleg ingatlan-nyilvántartásba történő feljegyzése, illetve törlése céljából.
 
 ### IX. Fejezet — HATÁLYBA LÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 
@@ -1305,7 +1343,7 @@ rendeletben állapítsa meg.
 - d) az elháríthatatlan külső ok (vis maior) a (3) bekezdés b) pontja alá nem tartozó bejelentésével és igazolásával kapcsolatos részletes szabályokat,
 - e) az EMGA-ból támogatott Nemzeti Diverzifikációs Program intézkedései esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoring-indikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,
 - f) a (3) bekezdés f) pontja alá nem tartozó pályázati eljárás részletes szabályait,
-- g) a MePAR és az ügyfél-blokk kapcsolat nyilvántartásának részletes szabályait,
+- g) a MePAR és az ügyfél-blokk kapcsolat nyilvántartásának részletes szabályait, a MePAR üzemeltetésének részletes szabályait, a MePAR-ban kezelt adattartalmat, az adatszolgáltatás, adatfelhasználás és adatkezelés rendjének részletes szabályait,
 - h) az intervenciós raktárregiszter létrehozásával, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes szabályokat,
 - i) a VINGIS-hez kapcsolódó adatszolgáltatás részletes szabályait,
 - j) a szakrendszerek kialakításának részletes szabályait,
@@ -1334,27 +1372,29 @@ rendeletben állapítsa meg.
 - d) a Tanács 1605/2002/EK EURATOM rendelete (2002. június 25.) az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről;
 - e) a Tanács 1782/2003/EK rendelete (2003. szeptember 29.) a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról, továbbá a 2019/93/EGK, 1452/2001/EK, 1453/2001/EK, 1454/2001/EK, 1868/94/EK, 1251/1999/EK, 1254/1999/EK, 1673/2000/EK, 2358/71/EGK és a 2529/2001/EK rendeletek módosításáról;
 - f) a Tanács 1788/2003/EK rendelete (2003. szeptember 29.) a tej, és tejtermék ágazatban illeték megállapításáról;
-- g) a Tanács 1290/2005/EK rendelete (2005. június 21.) a közös agrárpolitika finanszírozásáról;
-- h) a Tanács 1698/2005/EK rendelete (2005. szeptember 20.) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról;
-- i) a Tanács 1198/2006/EK rendelete (2006. július 27.) az Európai Halászati Alapról;
+- g) az Európai Parlament és a Tanács 1306/2013/EU rendelete (2013. december 17.) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről;
+- h) az Európai Parlament és a Tanács 1305/2013/EU rendelete (2013. december 17.) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről;
+- i) az Európai Parlament és a Tanács 508/2014/EU rendelete (2014. május 15.) az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről;
 - j) a Bizottság 800/1999/EK rendelete (1999. április 15.) a mezőgazdasági termékek után járó export visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról;
 - k) a Bizottság 794/2004/EK rendelete (2004. április 21.) az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló 659/1999/EK tanácsi rendelet végrehajtásáról;
 - l) a Bizottság 795/2004/EK rendelete (2004. április 21.) a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról szóló 1782/2003/EK tanácsi rendeletben meghatározott egységes támogatási rendszer végrehajtására vonatkozó részletes szabályok megállapításáról;
 - m) a Bizottság 796/2004/EK rendelete (2004. április 21.) a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról szóló 2003. szeptember 29-i 1782/2003/EK tanácsi rendelet által előírt kölcsönös megfeleltetés, moduláció, valamint integrált igazgatási és ellenőrzési rendszer végrehajtására vonatkozó részletes szabályok megállapításáról;
 - n) a Bizottság 1973/2004/EK rendelete (2004. október 29.) az 1782/2003/EK tanácsi rendelet IV. és IVa. címeiben meghatározott támogatási rendszereket, továbbá pihentetett terület alapanyag-termelésre való használatát illetően ugyanezen rendelet alkalmazásának részletes szabályozásáról;
-- o) a Bizottság 1535/2007/EK rendelete (2007. december 20.) az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról;
+- o) a Bizottság 1408/2013/EU rendelete (2013. december 18.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról;
 - p) a Bizottság 885/2006/EK rendelete (2006. június 21.) az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról;
 - q) a Bizottság 1320/2006/EK rendelete (2006. szeptember 5.) az 1698/2005/EK rendeletben előírt vidékfejlesztési támogatásra történő átmenet szabályainak megállapításáról;
 - r) a Bizottság 1974/2006/EK rendelete (2006. december 15.) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról;
 - s) a Bizottság 1848/2006/EK rendelete (2006. december 14.) a közös agrárpolitika finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, továbbá egy információs rendszer e téren történő létrehozásáról, valamint az 595/91/EGK tanácsi rendelet hatályon kívül helyezéséről;
 - t) a Bizottság 1975/2006/EK rendelete (2006. december 7.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról;
-- u) a Bizottság 875/2007/EK rendelete (2007. július 24.) az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról;
-- v) a Bizottság 1998/2006/EK rendelete (2006. december 15.) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról;
-- w) a Bizottság 1857/2006/EK rendelete (2006. december 15.) a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról;
+- u) a Bizottság 717/2014/EU rendelete (2014. június 27.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról;
+- v) a Bizottság 1407/2013/EU rendelete (2013. december 18.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról;
+- w) a Bizottság 702/2014/EU rendelete (2014. június 25.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról;
 - x) a Bizottság 736/2008/EK rendelete (2008. július 22.) a Szerződés 87. és 88. cikkének a halászati termékek előállításával, feldolgozásával és forgalmazásával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról;
-- y) a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról.
-- z) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet;
-- zs) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet.
+- y) a Bizottság 651/2014/EU rendelete (2014. június 17.) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról;
+- z) az Európai Parlament és a Tanács 1307/2013/EU rendelete (2013. december 17.) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről;
+- zs) a Bizottság felhatalmazáson alapuló 640/2014/EU rendelete (2014. március 11.) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről.
+
+84/A. § E törvény 79/B. §-a a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 85. § (1) E törvénynek a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosításáról szóló 2010. évi CLXII. törvénnyel (a továbbiakban: módosító törvény) megállapított 26/A. §-át, 31. § (1) bekezdését, 50. § (4) bekezdését, 57. §-át, 60. §-át, 61. § (1) bekezdését, 69. §-át, 73. § (2) bekezdését, 74. § d) pontját, valamint 76. § (3) bekezdését a módosító törvény hatálybalépésekor folyamatban levő ügyekben és eljárásokban is alkalmazni kell.
 
@@ -1367,3 +1407,5 @@ rendeletben állapítsa meg.
 86. § E törvénynek az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a folyamatban levő ügyekben és eljárásokban is kell alkalmazni azzal, hogy a Módtv. hatálybalépése előtt megállapított regisztrációs számok és technikai azonosítók ügyfél-azonosító számnak minősülnek, továbbá a regisztrált ügyfelek kérelemre nyilvántartásba vett, a technikai azonosítóval rendelkező ügyfelek nyilvántartásba vett ügyfeleknek minősülnek.
 
 87. § E törvény 44. § (4)–(7) bekezdésének az egyes agrártárgyú törvények módosításáról szóló 2013. évi CCXLVI. törvénnyel megállapított rendelkezéseit először a 2014. évben beadott egységes kérelmekre induló eljárásokban kell alkalmazni.
+
+88. § Az egyes agrártámogatási tárgyú törvények módosításáról szóló 2015. évi XII. törvénnyel [a továbbiakban: 2015. évi XII. törvény] megállapított 38. § (6a) bekezdését, 41. § (2a) bekezdését, valamint 57/A. § (5a) bekezdését a 2015. évi XII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
