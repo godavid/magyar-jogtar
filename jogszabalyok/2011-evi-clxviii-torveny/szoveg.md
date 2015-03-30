@@ -17,7 +17,7 @@ Az Országgyűlés a mezőgazdasági termelést érintő időjárási és más t
 - 4. belvízkár: a kockázatviselés helyén termesztett növényekben a belvíz miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 - 5. biztosító: az a szervezet, amely a hatályos magyar jogi szabályozás, illetve valamely hatályos tagállami szabályozás szerint biztosítási és azzal közvetlenül összefüggő tevékenységre jogosult;
 - 6. egységes kérelem: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszer részét képező uniós jogi aktusban meghatározottak szerinti közvetlen támogatás kifizetése iránti kérelem;
-- 7. elemi káresemény: üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, téli fagykár vagy viharkár;
+- 7. elemi káresemény: üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, őszi fagykár, téli fagykár vagy viharkár;
 - 8.
 - 9. felhőszakadás: azon időjárási jelenség, amelynek során a kockázatviselés helyén lehullott csapadék húsz perc alatt mért átlagos intenzitása elérte vagy meghaladta a 0,75 mm/perc értéket, vagy a lehullott csapadék mennyisége huszonnégy óra alatt elérte vagy meghaladta a negyvenöt mm-t;
 - 10. felhőszakadáskár: a kockázatviselés helyén termesztett növényekben a felhőszakadás miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
@@ -32,11 +32,12 @@ Az Országgyűlés a mezőgazdasági termelést érintő időjárási és más t
 - 18. mezőgazdasági árvíz: a folyók vagy vízfolyások védművekkel határolt területéről nem emberi beavatkozás miatt kilépő víz;
 - 19. mezőgazdasági árvízkár: a kockázatviselés helyén termesztett növényben a mezőgazdasági árvíz miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 - 20. mezőgazdasági biztosítás: a lábon álló növénykultúrára, továbbá a gazdasági céllal tartott, illetve tenyésztett haszonállatra kötött vagyonbiztosítás;
-- 21. mezőgazdasági káresemény: a mezőgazdasági termelő használatában lévő termőföldön a káreseménnyel érintett területen a termesztett növénykultúra 30%-ot meghaladó mértékű várható hozamcsökkenését okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, téli fagykár vagy viharkár;
+- 21. mezőgazdasági káresemény: a mezőgazdasági termelő használatában lévő termőföldön a káreseménnyel érintett területen a termesztett növénykultúra 30%-ot meghaladó mértékű várható hozamcsökkenését okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, őszi fagykár, téli fagykár vagy viharkár;
 - 22. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
 - 23. mezőgazdasági termelő: az egységes kérelmet benyújtó, a mezőgazdasági és vidékfejlesztési támogatási szerv által kérelemre nyilvántartásba vett ügyfél;
 - 24. mezőgazdasági termény termeltetése: a mezőgazdasági termény termelőjével kötött olyan megállapodás, amely keretében a mezőgazdasági termény termelője a mezőgazdasági termény megtermelését segítő szolgáltatást vesz igénybe, és az így megtermelt mezőgazdasági terményt a szolgáltatás nyújtója saját felhasználás vagy továbbértékesítés céljára átveszi;
-- 25.
+- 25. őszi fagy: a kockázatviselés helyén az őszi időszakban a talajszinttől számított két méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
+- 25a. őszi fagykár: az őszi fagy miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 - 26. referenciahozam: a referencia-időszak hozamának – ideértve szükség esetén az átlaghozamot is – számtani átlaga;
 - 27. referenciahozam-érték: a referenciahozam alapján számított átlagtermésnek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott referenciaáron számított értéke;
 - 28. referencia-időszak: a tárgyévet megelőző ötéves időszakból a legmagasabb és a legalacsonyabb hozammal rendelkező kettő év elhagyásával képzett három év;
@@ -140,7 +141,7 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 - a) a termőföld az egységes kérelem benyújtásakor, a mezőgazdasági káresemény bekövetkezésekor és a kárenyhítő juttatás iránti kérelem benyújtásakor is a használatában volt,
 - b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az erre a célra létrehozott elektronikus felületen bejelentette,
 - c) elemi káreseményt szenvedett el,
-- d) 30%-ot meghaladó mértékű üzemi szintű hozamérték-csökkenést szenvedett el,
+- d) 15%-ot meghaladó mértékű üzemi szintű hozamérték-csökkenést szenvedett el,
 - e) az agrárkár-megállapító szerv az elemi káresemény tényét, valamint a d) pontban foglaltakat a 14. § (2) bekezdése szerinti döntéssel igazolta,
 - f) a kárenyhítő juttatás megállapítása iránti kérelmet tárgyév november 30-áig az erre a célra létrehozott elektronikus felületen benyújtotta,
 - g) a kárenyhítési hozzájárulást a 10. § (2) és (3) bekezdésében foglaltak alapján határidőben és maradéktalanul megfizette, és
@@ -156,13 +157,13 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 
 (5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelemben, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referenciahozam-értékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző káreseményre kiterjedő hatályú mezőgazdasági biztosítást.
 
-12. § (1) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő legfeljebb a hozamérték-csökkenésnek a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatásnak a természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség által okozott veszteségek ellentételezésére nyújtott támogatásról szóló 1.2.1.2. alfejezet (346) pontjában meghatározott 80%-os mértéke szerinti kárenyhítő juttatásra jogosult, amely mértékbe bele kell számítani az ugyanazon elszámolható költségek tekintetében megállapított, bármely egyéb – állami vagy uniós társfinanszírozású – támogatást és a kárenyhítő juttatás iránti kérelemben szereplő káresemény után a biztosító által kifizetett kártérítési összeget is.
+12. § (1) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő legfeljebb a hozamérték-csökkenésnek a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatásnak a természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség által okozott veszteségek ellentételezésére nyújtott támogatásról szóló 1.2.1.2. alfejezet (362) pontjában meghatározott 80%-os mértéke szerinti kárenyhítő juttatásra jogosult, amely mértékbe bele kell számítani az ugyanazon elszámolható költségek tekintetében megállapított, bármely egyéb – állami vagy uniós társfinanszírozású – támogatást és a kárenyhítő juttatás iránti kérelemben szereplő káresemény után a biztosító által kifizetett kártérítési összeget is.
 
 (2) A kárenyhítő juttatás (1) bekezdés szerinti összegének megállapítása során a termelő hozamérték-csökkenését az elemi káresemény bekövetkeztéből adódóan fel nem merült költség értékével mérsékelni kell.
 
 (3) Amennyiben a mezőgazdasági kockázatkezelési pénzeszköz tárgyévre vonatkozóan rendelkezésre álló összege a 11. § (2) és (5) bekezdésére is figyelemmel nem fedezi a tárgyévre vonatkozóan megállapított összes kárenyhítő juttatás összegét, úgy a kárenyhítő juttatás mértékét az adott évben valamennyi kárenyhítő juttatás igénybevételére jogosult termelőnél arányosan csökkenteni kell.
 
-(4) A tárgyévi kárenyhítő juttatás összegének meghatározásánál a tárgyévet megelőző év november 1-jétől a tárgyév október 31-ig bekövetkezett, és e törvény alapján igazolt aszálykárt, belvízkárt, felhőszakadáskárt, jégesőkárt, tavaszi fagykárt, téli fagykárt, valamint viharkárt kell figyelembe venni.
+(4) A tárgyévi kárenyhítő juttatás összegének meghatározásánál a tárgyévet megelőző év november 1-től a tárgyév október 31-ig bekövetkezett, és e törvény alapján igazolt aszálykárt, belvízkárt, felhőszakadáskárt, jégesőkárt, tavaszi fagykárt, őszi fagykárt, téli fagykárt vagy viharkárt kell figyelembe venni.
 
 (5) A mezőgazdasági árvízkár utáni kárenyhítő juttatás kifizetése
 
@@ -264,7 +265,7 @@ a következő évi forrásból kell biztosítani.
 
 kezelése, nyilvánossága
 
-17. § (1) A biztosító a mezőgazdasági biztosítási szerződés megkötését követő harminc napon belül, de legkésőbb a tárgyév augusztus 31-ig köteles átadni az agrárkár-enyhítési szerv részére az e törvény végrehajtására szolgáló, a mezőgazdasági biztosítás díjához nyújtott támogatás igénybevételének feltételeiről szóló miniszteri rendelet alapján (a továbbiakban: díjtámogatott konstrukció) kötött mezőgazdasági biztosítási szerződés adatai közül:
+17. § (1) A biztosító a mezőgazdasági biztosítási szerződés megkötését követő harminc napon belül, de legkésőbb a tárgyév szeptember 30-ig köteles átadni az agrárkár-enyhítési szerv részére az e törvény végrehajtására szolgáló, a mezőgazdasági biztosítás díjához nyújtott támogatás igénybevételének feltételeiről szóló miniszteri rendelet alapján (a továbbiakban: díjtámogatott konstrukció) kötött mezőgazdasági biztosítási szerződés adatai közül:
 
 - a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
 - b) a mezőgazdasági biztosítási szerződés azonosítására (kötvényszám, módozat, biztosítási esemény),
@@ -302,6 +303,8 @@ vonatkozó adatokat.
 (5) A (4) bekezdés szerinti adatokat az agrárgazdasági elemzésekkel foglalkozó intézmény kizárólag statisztikai, gazdaságelemzési, valamint rendszerfejlesztési célra használhatja fel.
 
 18. § (1) Az agrárkár-enyhítési szerv a kárbejelentéssel, a kárenyhítési hozzájárulás-fizetési kötelezettség teljesítésével, a kárenyhítő juttatás megállapításával, valamint a mezőgazdasági biztosítás díjához nyújtott támogatás nyújtásával, ellenőrzésével összefüggő feladatai ellátásához mezőgazdasági kockázatkezelési adatbázist működtet.
+
+(1a) A mezőgazdasági kockázatkezelési adatbázis állami tulajdonban van, amely felett a tulajdonosi jogokat a miniszter gyakorolja.
 
 (2) A mezőgazdasági kockázatkezelési adatbázis tartalmazza:
 
@@ -393,7 +396,8 @@ amelynek összegéről – a Magyar Agrár-, Élelmiszergazdasági és Vidékfej
 - i) természeti esemény miatt egyes mezőgazdasági terményekben keletkezett károk enyhítése érdekében igénybe vehető támogatás igénybevételének részletes szabályait,
 - j) a kárenyhítési hozzájárulás megfizetésének részletes szabályait,
 - k) a kárenyhítő juttatások kifizetési terve elkészítésének határidejét,
-- l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat
+- l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat,
+- m) az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek fedezetére szolgáló pénzforrás felhasználásának részletszabályait
 
 rendeletben állapítsa meg.
 
@@ -412,8 +416,12 @@ rendeletben állapítsa meg.
 - a) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. január 19-i 73/2009/EK tanácsi rendelet 70. cikke,
 - b) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról szóló 73/2009/EK tanácsi rendelet III. címében előírt egységes támogatási rendszer végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2009. október 29-i 1120/2009/EK bizottsági rendelet,
 - c) a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatás a természeti katasztrófák által a mezőgazdasági ágazatban okozott károk helyreállításához nyújtott támogatásról szóló 1.2.1.1. és a természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség által okozott veszteségek ellentételezésére nyújtott támogatásról szóló 1.2.1.2. alfejezetei, és
-- d) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet termény-, állat- és növénybiztosításról szóló 37. cikke
+- d) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet termény-, állat- és növénybiztosításról szóló 37. cikke,
+- e) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 1305/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről, valamint átmeneti rendelkezések bevezetéséről szóló, 2014. március 11-i 807/2014/EU bizottsági rendelet, és
+- f) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1305/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak megállapításáról szóló, 2014. július 17-i 808/2014/EU bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-#### 28–31. §
+28. § A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény és az ahhoz kapcsolódó egyes törvények módosításáról szóló 2014. évi LV. törvénnyel megállapított 11. § (1) bekezdés b) és f) pontja szerinti jogosultsági feltételekhez kapcsolódó elektronikus eljárásokat a 2015. kárenyhítési évtől kezdődően kell alkalmazni.
+
+#### 29–31. §
