@@ -166,6 +166,8 @@ eljárásban.
 
 (4) A hulladékgazdálkodási közszolgáltatási tevékenység minősítésével kapcsolatos eljárásban törvény az ügyfélkörre vonatkozóan e törvény rendelkezéseitől eltérő szabályokat állapíthat meg.
 
+(5) Amennyiben a 44. § (1) bekezdése szerinti szakkérdést a hatóságként eljáró fővárosi és megyei kormányhivatal vizsgálja, a szakkérdés vizsgálatával kapcsolatban kormányrendelet e törvény rendelkezéseitől eltérő szabályokat állapíthat meg, ennek során elrendelheti e törvény szakhatósági eljárásra vonatkozó egyes szabályainak megfelelő alkalmazását.
+
 ### Ügyfél
 
 15. § (1) Ügyfél az a természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, akinek jogát vagy jogos érdekét az ügy érinti, akit hatósági ellenőrzés alá vontak, illetve akire nézve a hatósági nyilvántartás adatot tartalmaz.
@@ -568,7 +570,7 @@ számított nyolc napon belül értesíteni kell.
 - e) az eljárás folytatására okot adó körülmény már nem áll fenn,
 - f) az ügyfél a kérelmére indult eljárásban a képviselő visszautasítása esetén a hatóság felhívása ellenére nem gondoskodik a képviselet-ellátásra alkalmas személy meghatalmazásáról vagy nem jár el személyesen, kivéve, ha az eljárás hivatalból is megindítható, és a hatóság az eljárást hivatalból folytatja, vagy ha az eljárásban több kérelmező vesz részt, és ők személyesen járnak el vagy képviselőjüket a hatóság nem utasította vissza,
 - g) jogszabályváltozás miatt az ügy elbírálása a továbbiakban már nem hatósági hatáskörbe tartozik,
-- h) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni és az ügyfél a fizetési kötelezettségének a hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget és költségmentességben sem részesül,
+- h) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni, vagy a hatóság az ügyfelet eljárási költség előlegezésére kötelezi, és az ügyfél a fizetési kötelezettségének a hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget és költségmentességben sem részesül,
 - i) hivatalbóli eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekménytől sem várható eredmény,
 - j) a hivatalbóli eljárás jogsértést nem tárt fel,
 - k) hivatalbóli eljárás folyamán észleli, hogy az eljárás lefolytatására már az eljárás megindításakor sem volt joghatósága vagy hatásköre, és áttételnek nincs helye.
@@ -618,7 +620,7 @@ számított nyolc napon belül értesíteni kell.
 - f) a 70. § (1) bekezdésében szabályozott eljárás időtartama,
 - g) a hatóság működését legalább egy teljes napra ellehetetlenítő üzemzavar vagy más elháríthatatlan esemény időtartama,
 - h) a kérelem, a döntés és egyéb irat fordításához szükséges idő,
-- i)
+- i) a kérelmező ügyfelet az eljárási költség előlegezésére kötelező döntés közlésére irányuló intézkedéstől az annak teljesítéséig terjedő idő,
 - j) a szakértői vélemény elkészítésének időtartama,
 - k) a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama.
 
@@ -2460,6 +2462,7 @@ teljesíti.
 - 12. a végrehajtási költség és a végrehajtási költségátalány,
 - 13. az eljárásban közreműködő rendőrségnél felmerült költség,
 - 14. a helyszíni szemlével, valamint a szakértői tevékenységgel jogszerűen okozott kárért járó kártalanítás összege,
+- 14a. a tényállás tisztázásához szükséges, az eljáró hatóság által végzett műszeres (laboratóriumi vagy más speciális eszköz használatát igénylő) vizsgálat azon költsége, amelyet az eljárásért fizetendő illeték vagy igazgatási szolgáltatási díj nem tartalmaz,
 - 15. jogszabályban meghatározott, az 1–14. pont alá nem tartozó eljárási költség.
 
 ### Az eljárási költségre vonatkozó általános szabályok

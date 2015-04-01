@@ -194,7 +194,7 @@ teljesíti;
 - a) a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) adóztatási szerve, mint állami adóhatóság,
 - b) a NAV vámszerve, mint vámhatóság (az állami adóhatóság és a vámhatóság a továbbiakban együtt: állami adó- és vámhatóság),
 - c) az önkormányzat jegyzője (a továbbiakban: önkormányzati adóhatóság),
-- d) e törvény vonatkozásában a fővárosi és megyei kormányhivatal, ha az önkormányzati adóhatóság felettes szerveként jár el.
+- d) e törvény vonatkozásában a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), ha az önkormányzati adóhatóság felettes szerveként jár el.
 
 (2) Az adóhatóság feladatkörében nyilvántartja az adózókat és azokat az adózónak nem minősülő személyeket, akiknek, amelyeknek jogát, kötelezettségét e törvény vagy adót, költségvetési támogatást megállapító törvény írja elő, az adót, a költségvetési támogatást, adó-visszatérítést, adó-visszaigénylést – ha törvény előírja – megállapítja, az adót, az adók módjára behajtandó köztartozást beszedi, végrehajtja, az adókötelezettségek teljesítését ellenőrzi, a költségvetési támogatást, az adó-visszaigénylést, az adó-visszatérítést kiutalja, és vezeti az adózók adószámláját.
 
@@ -213,7 +213,7 @@ teljesíti;
 - b) felügyeli az önkormányzati adóhatóság hatáskörébe tartozó adóztatás törvényességét, ellenőrzi az önkormányzati adóhatóságok irányítását, a törvények és más jogszabályok végrehajtását,
 - c) előterjeszti a kormányhoz az önkormányzati adóigazgatás szervezeti rendszerére vonatkozó jogszabályok tervezetét, indítványozza a szervezeti változtatásokat, koordinálja a szervezeti rendszer egyes elemeinek együttműködését, kezdeményezi az ezekre vonatkozó jogszabályok megalkotását,
 - d) a törvényesség és szakszerűség ellenőrzése érdekében az önkormányzati adóhatóságok vezetőitől jelentéseket, beszámolókat, adatszolgáltatást, továbbá – amennyiben az jogszabályban meghatározott feladata ellátásához szükséges – bármely adózó ügyéről tájékoztatást kérhet,
-- e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
+- e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a kormányhivatal jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
 
 (2) Az adópolitikáért felelős miniszter az (1) bekezdés b) pontjában meghatározott hatáskörét nem ruházhatja át.
 
@@ -1689,7 +1689,7 @@ szükséges,
 
 (5) A lakáscélú állami támogatások igénylésével összefüggésben a számlák valódiságát, valamint ezzel kapcsolatosan a támogatások igénybevételének jogszerűségét – a hitelintézet megkeresése alapján – az állami adóhatóság ellenőrzi.
 
-(6) A lakáscélú állami támogatásokkal összefüggő – (4) bekezdésben meghatározottakon kívül eső – állami követeléseket a kincstár érvényesíti. A kincstár – ezzel összefüggő – közigazgatási hatósági eljárás keretében hozott jogerős határozatában szereplő követelés köztartozásnak minősül, amit az állami adóhatóság adók módjára hajt be.
+(6) A lakáscélú állami támogatásokkal összefüggő – (5) bekezdésben meghatározottakon kívül eső – állami követeléseket a kormányhivatal érvényesíti. A közigazgatási hatósági eljárás keretében hozott jogerős határozatban szereplő követelés köztartozásnak minősül, amit az állami adóhatóság adók módjára hajt be.
 
 73. § Az állami adóhatóság illetékessége tekintetében a külön jogszabályban foglalt rendelkezések az irányadók.
 

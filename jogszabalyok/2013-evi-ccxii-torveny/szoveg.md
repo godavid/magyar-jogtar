@@ -661,9 +661,7 @@ terjedő időtartam.
 
 (4) Ha a (2) bekezdésben meghatározott esetben az előhaszonbérletre jogosult nem tett eleget a hiánypótlásra való felhívásnak és az erre megállapított határidő meghosszabbítását sem kérte, a mulasztó jogosultat úgy kell tekinteni, mint aki az előhaszonbérleti jogát nem gyakorolja. Erre a mulasztó jogosultat a hiánypótlási felhívásban figyelmeztetni kell.
 
-82. § (1) A Földforgalmi törvény szerinti erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetében az erdészeti hatóság a Földforgalmi törvény 51. § (5) bekezdésében meghatározott szakhatósági állásfoglalását a mezőgazdasági igazgatási szerv megkeresésének beérkezését követő 8 napon belül adja ki. Az erdészeti hatóság a haszonbérlőnek, illetve az elfogadó jognyilatkozatot tevő előhaszonbérlőnek, valamint más földhasználónak az erdőgazdálkodói alkalmasságát állapítja meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek szerint.
-
-(2) Az erdészeti hatóság előzetes szakhatósági állásfoglalást adhat ki, amely a kiállításától számított 90 napig használható fel.
+#### 82. §
 
 83. § A földhasználati szerződés jóváhagyása esetén a mezőgazdasági igazgatási szerv a szerződés két eredeti példányát látja el jóváhagyó záradékkal és azt a szerző fél részére a jóváhagyását tartalmazó határozatával egyidejűleg küldi meg.
 

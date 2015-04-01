@@ -114,9 +114,9 @@ a Tbj. 5. §-a szerinti biztosított volt;
 - a) megfelelő munkahelyen történő munkavégzésre való felkészítéséhez szükséges szolgáltatásokat és
 - b) megfelelő munkahelyen történő elhelyezkedése érdekében a rehabilitációs célú munkaközvetítést.
 
-(2) A rehabilitációs hatóság biztosítja a rehabilitációs szolgáltatásokhoz, a közfoglalkoztatási lehetőségekhez való hozzáférést, ennek érdekében szükség szerint megállapodást köt a szolgáltatókkal, és együttműködik az állami foglalkoztatási szervvel.
+(2) A rehabilitációs hatóság biztosítja a rehabilitációs szolgáltatásokhoz, a közfoglalkoztatási lehetőségekhez való hozzáférést, ennek érdekében szükség szerint megállapodást köt a szolgáltatókkal.
 
-(3) A rehabilitációs hatóság a rehabilitációs célú munkaközvetítés érdekében együttműködik az állami foglalkoztatási szervvel, a munkáltatókkal, munkaközvetítést végző, illetve a megváltozott munkaképességű személyek rehabilitációjával foglalkozó szervezetekkel, és a bejelentett munkaerő-igény alapján biztosítja a megfelelő munkavégző képességgel rendelkező, ellátásban részesülő személy és a munkáltató kapcsolatfelvételét, szükség szerint közvetít az ellátásban részesülő személy és a munkáltató között.
+(3) A rehabilitációs hatóság a rehabilitációs célú munkaközvetítés érdekében együttműködik a munkáltatókkal, munkaközvetítést végző, illetve a megváltozott munkaképességű személyek rehabilitációjával foglalkozó szervezetekkel, és a bejelentett munkaerő-igény alapján biztosítja a megfelelő munkavégző képességgel rendelkező, ellátásban részesülő személy és a munkáltató kapcsolatfelvételét, szükség szerint közvetít az ellátásban részesülő személy és a munkáltató között.
 
 9. § (1) A rehabilitációs pénzbeli ellátás havi összege annak a rehabilitációs ellátásban részesülő személynek,
 
@@ -189,29 +189,18 @@ a Tbj. 5. §-a szerinti biztosított volt;
 
 (2) A megváltozott munkaképességű személyek ellátásaival kapcsolatos e törvényben meghatározott eljárás – ideértve a tartozás elengedésére, mérséklésére és a részletfizetés engedélyezésére irányuló eljárást is – költség- és illetékmentes.
 
-(3) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából –
+(3) Az állami adóhatóság az ellátás megállapítása céljából a rehabilitációs hatóság megkeresésére a megkereséstől számított 15 napon belül közli
 
-- a) a kérelem benyújtását megelőző öt éven belüli időszakban a biztosításban töltött napok számát
-  - aa) a 2010. január 1-jét megelőző időszakra vonatkozóan a nyilvántartásában szereplő adatok alapján a nyugdíjbiztosítási igazgatási szerv,
-  - ab) a 2009. december 31-ét követő időszakra az állami adóhatóság;
-- b) a havi átlagjövedelem meghatározásához a 2010. december 31-ét követő időszakra vonatkozó, az Art. 31. § (2) bekezdésében meghatározott bevallásban bevallott pénzbeli egészségbiztosítási járulék alapot képező havi jövedelmi adatokat az állami adóhatóság
+- a) a 2009. december 31-ét követő időszakra vonatkozóan a biztosításban töltött napok számát,
+- b) a 2010. december 31-ét követő időszakra vonatkozóan – a havi átlagjövedelem meghatározása érdekében – az adózás rendjéről szóló törvény 31. § (2) bekezdésében meghatározott bevallásban bevallott pénzbeli egészségbiztosítási járulék alapot képező havi jövedelmi adatokat.
 
-a megkereséstől számított tizenöt napon belül közli.
-
-(4) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – a nyugdíjbiztosítási igazgatási szerv tizenöt napon belül közli a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai folyósításának időtartamára vonatkozó adatokat.
-
-(5) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – az egészségbiztosítási szerv
-
-- a) tizenöt napon belül közli a táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj folyósításának időtartamára,
-- b)
-
-vonatkozó adatokat.
+(4)–(5)
 
 15. § (1) A rehabilitációs hatóság komplex minősítés keretében megvizsgálja a kérelmező egészségi állapotának százalékos mértékét, a rehabilitálhatóságot, és a megváltozott munkaképességű személy rehabilitálhatósága esetén rehabilitációs javaslatot készít.
 
 (2) A rehabilitációs javaslatban meg kell állapítani a rehabilitáció lehetséges irányát, a rehabilitációs szükségleteket, továbbá a rehabilitációhoz szükséges időtartamot. A rehabilitációs hatóság a rehabilitáció lehetséges irányaként meghatározza azokat a foglalkozásokat, foglalkozási alcsoportokat, foglalkozási csoportokat, amelyek ellátására az érintett személy alkalmas, vagy a rehabilitációs szolgáltatások igénybevételét követően – a rehabilitációs hatóság által meghatározott feltételek fennállása esetén – alkalmas lehet. A foglalkozások, foglalkozási alcsoportok, foglalkozási csoportok meghatározása a Foglalkozások Egységes Osztályozási Rendszerének figyelembevételével történik.
 
-(3) Amennyiben a rehabilitációs hatóság más szerv eljárásában komplex minősítés során szakhatósági állásfoglalást adott az (1)–(2) bekezdésben foglaltakról, a szakhatósági állásfoglalás időbeli hatálya alatt a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban nem kell ismételt komplex minősítést lefolytatni.
+(3) Ha a rehabilitációs hatóság az (1) és (2) bekezdésben foglaltakról komplex minősítést végzett, a szakhatósági állásfoglalás, hatósági bizonyítvány, komplex minősítés időbeli hatálya alatt a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban nem kell ismételt komplex minősítést végezni.
 
 16. § A kérelmező a rehabilitációs hatóság vizsgálatán történő személyes megjelenésre kötelezhető. Ha a kérelmező a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, az eljárást meg kell szüntetni.
 
@@ -307,7 +296,7 @@ vonatkozó adatokat kezelheti.
 
 (2) A megváltozott munkaképességű személyek ellátásai folyósításának és a megszüntetési ok fennállásának vizsgálata céljából az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény 31. § (2) bekezdése szerinti bevallás alapján az ellátásban részesülő jövedelmére vonatkozó adatokat havonta, a bevallásra előírt határidőt követő hónap utolsó napjáig továbbítja a rehabilitációs hatósághoz. A rehabilitációs hatóság az adóazonosító jelet az e bekezdés, valamint a 14. § (3) bekezdés szerinti adatok átvételével összefüggésben használhatja.
 
-(3) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a munkaügyi hatóság, az állami foglalkoztatási szerv, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a kincstár, a gyámügyi feladatokat ellátó szerv, az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény feladatai ellátása érdekében az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
+(3) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a munkaügyi hatóság, az állami foglalkoztatási szerv, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a családtámogatási ellátásokat megállapító szerv, a gyámügyi feladatokat ellátó szerv, az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény feladatai ellátása érdekében az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (4) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
@@ -374,7 +363,7 @@ vonatkozó adatokat kezelheti.
 - b) az akkreditált munkaadó adatait az akkreditált munkaadói minősége megszűnését követő 5 év elteltével,
 - c) a nyilvántartásba vételét önként kérő megváltozott munkaképességű személynek, valamint a nem akkreditált munkaadónak az adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
 
-(4) Az állami foglalkoztatási szerv munkaerő-piaci szolgáltatások nyújtása céljából a (2) bekezdés c) pontjában meghatározott adatokat közvetlen hozzáféréssel átveheti.
+(4)
 
 (5) Az akkreditált munkaadó az Flt. 8. § (6) bekezdés b) pontjában meghatározott – a megváltozott munkaképességű személyek foglalkoztatására irányuló – munkaerőigény bejelentésével kapcsolatos kötelezettségét a rehabilitációs hatóság felé teljesíti.
 
@@ -385,7 +374,7 @@ vonatkozó adatokat kezelheti.
 22. § A 23–24. § alkalmazásában megváltozott munkaképességű személynek kell tekinteni azt a személyt,
 
 - a) aki a 2. § (1) bekezdése alapján megváltozott munkaképességűnek minősül,
-- b) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás időbeli hatálya alatt,
+- b) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány, minősítés időbeli hatálya alatt,
 - c) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű, az erről szóló szakvélemény időbeli hatálya alatt, vagy
 - d) aki fogyatékossági támogatásban vagy vakok személyi járadékában részesül
 
@@ -502,7 +491,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 28. § (1) Felhatalmazást kap a Kormány arra, hogy
 
 - a) a megváltozott munkaképességű személyek ellátásai megállapításával, folyósításával, szüneteltetésével, felülvizsgálatával, megszüntetésével, továbbá a jogosulatlanul felvett ellátás visszafizetésével és a megtérítéssel kapcsolatos eljárási szabályokat,
-- b) a komplex minősítésre vonatkozó részletes eljárási szabályokat,
+- b) a rehabilitációs hatóság által végzett komplex minősítésre, rehabilitációs és orvosszakértői feladatok ellátására vonatkozó részletes eljárási szabályokat,
 - c) a rehabilitációs szolgáltatásokra, a rehabilitációval kapcsolatos eljárási szabályokra, az együttműködésre, továbbá a rehabilitációs tervre vonatkozó szabályokat,
 - d) a megváltozott munkaképességű személyeket foglalkoztató munkaadók akkreditációjának és ellenőrzésének szabályait,
 - e) a megváltozott munkaképességű személyek foglalkoztatásához nyújtható bér- és költségtámogatás feltételeit, mértékét, a támogatás megállapításával, folyósításával, nyilvántartásával, megszüntetésével, visszakövetelésével és ellenőrzésével kapcsolatos szabályokat, valamint az európai uniós források felhasználásával nyújtható foglalkoztatást elősegítő támogatások szabályait,
@@ -656,7 +645,7 @@ kell figyelembe venni.
 
 36. § A 2011. december 31-én mezőgazdasági szövetkezeti tag munkaképtelenségi, növelt összegű munkaképtelenségi járadékában, munkaképtelenség címén megállapított özvegyi, növelt összegű özvegyi járadékban, a Magyar Alkotóművészeti Közalapítvány által megállapított rendszeres rokkantsági segélyben részesülő személy a továbbiakban is jogosult az ellátásra.
 
-37. § (1) A 15. § (3) bekezdését a 2012. január 1-jét követően kiadott szakhatósági állásfoglalásokra kell alkalmazni.
+37. § (1) A 15. § (3) bekezdését a 2012. január 1-jét követően kiadott szakhatósági állásfoglalásokra, hatósági bizonyítványokra, komplex minősítésekre kell alkalmazni.
 
 (2) A 25. §-t 2013. január 1-jétől kell alkalmazni. A 2013. január 1-je előtt folytatott foglalkoztatás tekintetében a megváltozott munkaképességű munkavállalókat foglalkoztató munkaadók akkreditációjával, ellenőrzésével, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokkal, azok visszakövetelésével kapcsolatban az Flt. 2011. december 30-án hatályos rendelkezéseit kell alkalmazni.
 

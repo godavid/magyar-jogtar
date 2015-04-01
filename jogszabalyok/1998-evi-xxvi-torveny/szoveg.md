@@ -234,23 +234,21 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### Hatásköri, eljárási szabályok
 
-23/B. § (1) A fogyatékossági támogatás megállapítására irányuló eljárás kérelemre indul. A fogyatékossági támogatás megállapítása a kincstár hatáskörébe tartozik.
+23/B. § (1) A fogyatékossági támogatás megállapítására irányuló eljárás kérelemre indul. A fogyatékossági támogatás megállapítása a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
 
-(2) A 23. § (2) bekezdésében meghatározott személy vonatkozásában a fogyatékossági támogatás megállapítása a kincstár hatáskörébe tartozik.
+(2) A 23. § (2) bekezdésében meghatározott személy vonatkozásában a fogyatékossági támogatás megállapítása a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
 
 (3)
 
 (4) Ha a fogyatékossági támogatásra irányuló kérelmet azért utasították el, mert a kérelmező ügyfél nem súlyosan fogyatékos, az elutasító határozat jogerőre emelkedését követő egy éven belül előterjesztett újabb fogyatékossági támogatás megállapítására irányuló kérelemre a bizonyítási eljárást csak abban az esetben kell lefolytatni, ha az orvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként – a jogszabályváltozás esetét kivéve – a kérelmet érdemi vizsgálat nélkül el kell utasítani.
 
-23/C. § (1) A súlyosan fogyatékos állapot megállapításának kérdésében az orvosszakértői szerv szakhatóságként jár el.
-
-(2) A súlyosan fogyatékos állapot fennállását – ha a szakhatósági állásfoglalás eltérően nem rendelkezik – öt évenként az orvosszakértői szerv felülvizsgálja.
+23/C. § A fővárosi és megyei kormányhivatal az eljárásában a súlyosan fogyatékos állapotot szakkérdésként vizsgálja.
 
 23/D. § (1)
 
 (2)
 
-(3) A fogyatékossági támogatásban részesülő, illetve annak gondnoka a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról 15 napon belül köteles értesíteni a kincstárat.
+(3) A fogyatékossági támogatásban részesülő, illetve annak gondnoka a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról 15 napon belül köteles értesíteni a fővárosi és megyei kormányhivatalt.
 
 (4) Ha a támogatásra vonatkozó igényt jogerősen megállapítják, az ellátás a kérelem benyújtásától esedékes.
 
@@ -258,7 +256,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### A fogyatékossági támogatás folyósítása, finanszírozása, a jogalap nélkül felvett ellátás visszafizetése
 
-23/E. § (1) A fogyatékossági támogatást a kincstár folyósítja.
+23/E. § (1) A fogyatékossági támogatást a fővárosi és megyei kormányhivatal folyósítja.
 
 (2) A bentlakásos intézményben lakó súlyosan fogyatékos cselekvőképtelen személy ellátását az intézmény vezetőjének kell folyósítani. Az intézmény vezetője a jogosult személy fogyatékossági támogatását az intézmény költségvetésétől elkülönítetten kezeli és biztosítja a személyre szóló felhasználást.
 
@@ -273,17 +271,17 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (6) Az (5) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett fogyatékossági támogatást attól lehet visszakövetelni, akinek az ellátás felvétele felróható, feltéve, hogy az ellátás megszűnésétől számított kevesebb mint három év telt el.
 
-(7) Ha a fogyatékossági támogatást jogalap nélkül igénybe vett személy igazolja, hogy tartozásának azonnali vagy egyösszegben való megfizetése családi, jövedelmi, vagyoni és szociális körülményeire való tekintettel magának vagy a tartásra szoruló hozzátartozónak aránytalanul súlyos anyagi megterhelést jelentene, részére a kincstár legfeljebb tizenkét hónapi halasztást engedélyezhet, illetőleg azt, hogy a tartozást harminchat hónapon belül részletekben fizesse meg.
+(7) Ha a fogyatékossági támogatást jogalap nélkül igénybe vett személy igazolja, hogy tartozásának azonnali vagy egyösszegben való megfizetése családi, jövedelmi, vagyoni és szociális körülményeire való tekintettel magának vagy a tartásra szoruló hozzátartozónak aránytalanul súlyos anyagi megterhelést jelentene, részére a fővárosi és megyei kormányhivatal legfeljebb tizenkét hónapi halasztást engedélyezhet, illetőleg azt, hogy a tartozást harminchat hónapon belül részletekben fizesse meg.
 
 (8) Aki a jogosult halála esetén a kiutalt fogyatékossági támogatást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre határozatban kötelezték.
 
-(9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a kincstár a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a kincstárnak átadja. A kincstár a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.
+(9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a fővárosi és megyei kormányhivatal a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a fővárosi és megyei kormányhivatalnak átadja. A fővárosi és megyei kormányhivatal a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.
 
 (10) A jogerősen megállapított és nem teljesített visszafizetési kötelezettség alapján a jogalap nélkül felvett fogyatékossági támogatás és annak kamatai – a (9) bekezdésben meghatározott kivétellel – köztartozásnak minősül, és adók módjára kell behajtani.
 
 ### A nyilvántartásra, adatvédelemre vonatkozó rendelkezések
 
-23/F. § (1) A kincstár a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+23/F. § (1) A fővárosi és megyei kormányhivatal, valamint a fogyatékossági támogatás ügyében másodfokon eljáró hatóság (a továbbiakban együtt: nyilvántartást vezető szerv) a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a jogosult természetes személyazonosító adatait;
 - b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült vagy hontalan jogállását;
@@ -295,15 +293,15 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (1a) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés e) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2) A kincstár a nyilvántartásból adatot törvény alapján adatkezelésre jogosult szervnek – a felhasználás céljának és jogalapjának egyidejű megjelölésével – jogszabályban meghatározott módon szolgáltathat.
+(2) A nyilvántartást vezető szerv a nyilvántartásból adatot törvény alapján adatkezelésre jogosult szervnek – a felhasználás céljának és jogalapjának egyidejű megjelölésével – jogszabályban meghatározott módon szolgáltathat.
 
 (3) A nyilvántartásból a fogyatékossági támogatásra való jogosultság megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat.
 
-(4) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
+(4) A nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
 
-(4a) A kincstár a fogyatékossági támogatással kapcsolatos eljárása során a fogyatékossági támogatást igénylő vagy fogyatékossági támogatásra jogosult személyre vonatkozóan – a fogyatékossági támogatásra való jogosultság elbírálása, illetve a jogosultság fennállásának ellenőrzése céljából – az (1) bekezdés c) pontja szerinti adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől és az (1) bekezdés g) pontja szerinti adatot kérhet az Egészségbiztosítási Alap kezeléséért felelős szervtől.
+(4a) A nyilvántartást vezető szerv a fogyatékossági támogatással kapcsolatos eljárása során a fogyatékossági támogatást igénylő vagy fogyatékossági támogatásra jogosult személyre vonatkozóan – a fogyatékossági támogatásra való jogosultság elbírálása, illetve a jogosultság fennállásának ellenőrzése céljából – az (1) bekezdés c) pontja szerinti adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől és az (1) bekezdés g) pontja szerinti adatot kérhet az Egészségbiztosítási Alap kezeléséért felelős szervtől.
 
-(5) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a kincstár által e törvény szerint kezelt személyes és különleges adatokat.
+(5) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyilvántartást vezető szerv által e törvény szerint kezelt személyes és különleges adatokat.
 
 ### VI. Fejezet — ORSZÁGOS FOGYATÉKOSÜGYI TANÁCS
 

@@ -410,6 +410,6 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2a) 2012. december 29-e előtt indult olyan eljárást, amelyben az ingatlanügyi hatóság a keretmérést elvégezte, illetve jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
 
-(3) A (2) bekezdés a) pontja szerinti eljárás megelőlegezett költségét a kérelmező 2013. december 31-éig igényelheti vissza a mezőgazdasági szakigazgatási szervtől az ingatlanügyi hatóság által kiállított számla és a megelőlegezett költségek megfizetéséről kiállított számviteli bizonylat alapján.
+(3)
 
 19. § E törvénynek a járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvénnyel megállapított 12/G. § (2) bekezdését, 9/C. § (9) bekezdését, 9/E. §-át a folyamatban lévő ügyekben is alkalmazni kell. Folyamatban lévő ügynek minősül az is, ha a mezőgazdasági igazgatási szerv a 9/C. § (1)–(4) bekezdése alapján sorsolást folytatott le, és a sorsolási jegyzőkönyvet megküldte az ingatlanügyi hatóságnak.

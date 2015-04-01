@@ -16,7 +16,17 @@ a villamos energiával, valamint a földgázellátással összefüggésben egyes
 
 4. §
 
-5. § (1)
+5. § (1) A VET. 114/E. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Hivatal ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet
+
+a) 3. cikk (4) bekezdés b) pontja szerinti jelentéstételi,
+
+b) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vételi, és
+
+c) 15. cikke szerinti értesítési kötelezettség
+
+teljesítését.”
 
 (2)–(3)
 
@@ -24,7 +34,7 @@ a villamos energiával, valamint a földgázellátással összefüggésben egyes
 
 14. § (1)
 
-(2)
+(2) A VET. 114/B. § (1) bekezdésében az „és 15.” szövegrész helyébe a „ , 9. és 15.” szöveg lép.
 
 (3)
 
@@ -42,7 +52,17 @@ a villamos energiával, valamint a földgázellátással összefüggésben egyes
 
 18. §
 
-19. § (1)
+19. § (1) A GET. 61/F. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Hivatal ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet
+
+a) 3. cikk (4) bekezdés b) pontja szerinti jelentéstételi kötelezettség,
+
+b) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vétel, és
+
+c) 15. cikke szerinti értesítési kötelezettség
+
+teljesítését.”
 
 (2)–(3)
 
@@ -58,7 +78,7 @@ a villamos energiával, valamint a földgázellátással összefüggésben egyes
 
 (2)
 
-(3)
+(3) A GET. 61/C. § (1) bekezdésében az „és 15.” szövegrész helyébe a „ , 9. és 15.” szöveg lép.
 
 (4)
 

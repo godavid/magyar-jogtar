@@ -14,7 +14,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 
 (2) A törvény meghatározza az (1) bekezdésben megjelölt célok elérése érdekében a gyermekek alapvető jogait és e jogok érvényesítésének garanciáit, a gyermekek védelmének rendszerét, alapvető szabályait.
 
-2. § (1) A gyermekek védelmét ellátó helyi önkormányzatok, gyámhivatalok, bíróságok, rendőrség, ügyészség, pártfogó felügyelői szolgálat, más szervezetek és személyek e törvény alkalmazása során a gyermek mindenek felett álló érdekét figyelembe véve, törvényben elismert jogait biztosítva járnak el.
+2. § (1) A gyermekek védelmét ellátó helyi önkormányzatok, gyámhatóság, bíróságok, rendőrség, ügyészség, pártfogó felügyelői szolgálat, más szervezetek és személyek e törvény alkalmazása során a gyermek mindenek felett álló érdekét figyelembe véve, törvényben elismert jogait biztosítva járnak el.
 
 (2) Az (1) bekezdésben foglaltak szerint eljáró szervezetek és személyek tevékenységük során együttműködnek a családdal és – jogszabályban meghatározottak szerint – elősegítik a gyermek családban történő nevelkedését.
 
@@ -60,7 +60,7 @@ betöltötte, azonban a 18. – javítóintézetben történő nevelése esetén
 - h) gyermeki jogok: az Alaptörvényben, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
 - i) ellátás: a jogszabályban meghatározott pénzbeli, természetbeni, valamint személyes gondoskodást nyújtó alapellátás és szakellátás, továbbá a javítóintézeti ellátás,
 - j) természetbeni ellátás: olyan támogatás, amellyel a gyermeket alapvető szükségleteinek kielégítésében az állam (önkormányzat) anyagi javak biztosításával, szolgáltatások kifizetésével és nyújtásával segíti,
-- k) gyámhatóság: a fővárosi és megyei kormányhivatal szakigazgatási szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szakigazgatási szerve, a települési önkormányzat jegyzője, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző,
+- k) gyámhatóság: a fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a települési önkormányzat jegyzője, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző,
 - l) gyámügy: a jogszabály által a gyámhatóság feladat- és hatáskörébe utalt ügyek köre,
 - m) gyermekvédelmi gondoskodás: az e törvényben meghatározottak szerint elrendelt hatósági intézkedésen alapuló ellátás és védelem,
 - n) veszélyeztetettség: olyan – a gyermek vagy más személy által tanúsított – magatartás, mulasztás vagy körülmény következtében kialakult állapot, amely a gyermek testi, értelmi, érzelmi vagy erkölcsi fejlődését gátolja vagy akadályozza,
@@ -1892,7 +1892,7 @@ szakmai szempontjait és módszereit.
 
 (6) A védelembe vétel nem érinti a szülő felügyeleti jogát.
 
-68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
+68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
 
 (2) A gyámhatóság az iskoláztatási támogatás szüneteltetésének szükségességét
 
@@ -1902,9 +1902,9 @@ szakmai szempontjait és módszereit.
 (3) A gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként, ha a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban ötnél több kötelező tanórai foglalkozást igazolatlanul
 
 - a) mulasztott, megállapítja, hogy az iskoláztatási támogatás szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
-- b) nem mulasztott, kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését.
+- b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetésének megszüntetését.
 
-(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
+(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
 
 (5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.
 
@@ -2600,7 +2600,7 @@ látja el.
 
 (7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b)–f) pontjában foglaltak miatt került sor és a megszüntető határozat jogerőre emelkedésétől számítva egy év még nem telt el.
 
-(8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles a munkaügyi központtal együttműködni.
+(8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles az állami foglalkoztatási szervvel együttműködni.
 
 (9) Megszűnik az utógondozói ellátás, ha a fiatal felnőtt
 
@@ -2670,7 +2670,7 @@ köteles működtetni.
 
 (6) A települési önkormányzat és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekjóléti és gyermekvédelmi feladatainak ellátásáról minden év május 31-éig – a külön jogszabályban meghatározott tartalommal – átfogó értékelést készít. Az értékelést – települési önkormányzat esetén a képviselő-testület általi megtárgyalást követően – meg kell küldeni a gyámhatóságnak. A gyámhatóság az értékelés kézhezvételétől számított harminc napon belül javaslattal élhet a települési önkormányzat, illetve az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv felé, amely hatvan napon belül érdemben megvizsgálja a gyámhatóság javaslatait és állásfoglalásáról, intézkedéséről tájékoztatja.
 
-(7) A jogszabályban meghatározott szakmai, módszertani feladatokat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
+(7) A jogszabályban meghatározott szakmai, módszertani feladatokat a Kormány rendeletében kijelölt szerv látja el.
 
 (8) A miniszter – az egyházi fenntartó kérelmére – a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki (a továbbiakban: kijelölt egyházi módszertani intézmény) az egyházi fenntartású nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
 
@@ -3439,13 +3439,13 @@ vonatkozó adatokat kezelhet.
 
 (3)
 
-(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, valamint a rendszeres gyermekvédelmi kedvezményre jogosult személyről és gondozó családjáról.
+(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, a gyermektartásdíj megelőlegezésről és az otthonteremtési támogatásról (a továbbiakban együtt: pénzbeli és természetbeni ellátás), valamint a pénzbeli és természetbeni ellátásra jogosult személyről és – az otthonteremtési támogatás kivételével – a pénzbeli és természetbeni ellátásra jogosult személy gondozó családjáról.
 
 (4) A nyilvántartás eszköze lehet minden olyan adattároló eszköz vagy módszer, amely biztosítja a 134. § (3) bekezdése szerinti védelmet.
 
 138. § (1) A gyámhatóság a hatáskörébe tartozó ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait, valamint társadalombiztosítási azonosító jelét,
+- a) a gyermek, a fiatal felnőtt, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait, valamint társadalombiztosítási azonosító jelét,
 - b) a 4. § (1) bekezdés b) pontja szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot,
 - c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat,
 - d) az ellátással kapcsolatos döntéseket, pénzbeli és természetbeni ellátás esetén a pénzbeli és természetbeni ellátás megnevezését, jogcímét, összegét és az ellátás megállapítására, megváltoztatására, megszüntetésére vonatkozó adatokat, a megszüntetés jogcímét, valamint az ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját,
@@ -3454,7 +3454,7 @@ vonatkozó adatokat kezelhet.
 
 (1a) Az (1) bekezdés szerinti – a 140. § (1) bekezdés a) pontjába tartozó ellátások tekintetében vezetett – nyilvántartás az (1) bekezdés d) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(1b) A rendszeres gyermekvédelmi kedvezményre való jogosultsággal összefüggő, az (1) bekezdés szerinti adatokat a gyámhatóság rögzíti az Szt. 18/B. § szerinti országos nyilvántartásba. Az országos nyilvántartásba való adatrögzítéskor meg kell adni az eljáró hatóság megnevezését, címét, az ügy számát és az elbírálási azonosítóját. A rendszeres gyermekvédelmi kedvezményre való jogosultsággal összefüggő, az (1) bekezdés szerinti adatok tekintetében a gyámhatóság a nyilvántartás-vezetési kötelezettségét kizárólag az Szt. 18/B. § szerinti országos nyilvántartásba való adatrögzítéssel is teljesítheti.
+(1b) A pénzbeli és természetbeni ellátásra való jogosultsággal összefüggő, az (1) bekezdés szerinti adatokat a gyámhatóság rögzíti az Szt. 18/B. § szerinti országos nyilvántartásba. Az országos nyilvántartásba való adatrögzítéskor meg kell adni az eljáró hatóság megnevezését, címét, az ügy számát és az elbírálási azonosítóját. A pénzbeli és természetbeni ellátásra való jogosultsággal összefüggő, az (1) bekezdés szerinti adatok tekintetében a gyámhatóság a nyilvántartás-vezetési kötelezettségét kizárólag az Szt. 18/B. § szerinti országos nyilvántartásba való adatrögzítéssel is teljesítheti.
 
 (1c) A hatóság a folyamatban lévő eljárás során figyelembe vett, a nyilvántartásban nem szereplő személyt az ugyanazon eljárásban figyelembevett, a nyilvántartásban szereplő személyhez kapcsolva rögzíti a nyilvántartásban.
 
@@ -3527,7 +3527,7 @@ vonatkozó adatokat kezelhet.
 
 140. § (1) A gyámhatóság nyilvántartást vezet
 
-- a) az általa megállapított és folyósított pénzbeli ellátásokról,
+- a) az általa megállapított és folyósított pénzbeli és természetbeni ellátásokról,
 - b) az ideiglenes hatállyal elhelyezett, valamint a nevelésbe vett gyermekekről, a gyámság és gondnokság alatt állókról a 139. § (1) bekezdésében meghatározott adattartalommal,
 - c) az a) és b) pontban megjelölt személyek, valamint a gyermekek minden olyan vagyonáról, amely nem tartozik a szülő kezelésébe, amelyet a gyámhatóság rendszeres felügyelete alá vont, vagy amelyet a gyámhatósághoz beszolgáltattak,
 - d) a vagyonnal rendelkező gyermekről a bekövetkező nagykorúsága szerint.

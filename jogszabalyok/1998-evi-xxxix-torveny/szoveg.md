@@ -19,7 +19,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (2)
 
-(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv – a fővárosi és megyei kormányhivatalok szakigazgatási szerveiként működő társadalombiztosítási igazgatási szervek kivételével – társadalombiztosítási költségvetési szervek, amelyek költségvetését a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
+(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv és az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv központi költségvetési szervek, amelyek költségvetését – a fővárosi és megyei kormányhivatalok kivételével – a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
 
 3. § Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat a Kormány az 1. § (2) bekezdés szerinti személyek útján gyakorolja azzal, hogy az alapokhoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorlók az alapokat kezelő szervek vezetői.
 

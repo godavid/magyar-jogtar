@@ -1319,7 +1319,7 @@ tartalmazza.
 
 - a) az adatkezelő, az adatfeldolgozó, és az érintettek a saját személyes adataikat korlátozás nélkül,
 - b) a jogszabályban meghatározott adatfelelősök a feladat ellátásához szükséges tartalommal korlátozottan,
-- c) a települési önkormányzat, az állami főépítész, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
+- c) a települési önkormányzat, a fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
 - d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.
 
 (3) A miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
@@ -1478,7 +1478,7 @@ rendeletben állapítsa meg.
 
 - 1. a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
 - 2. az építésügyi hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
-- 3. az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető igazgatási szolgáltatási díj mértékét, annak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
+- 3. az építésügyi hatóságot szakkérdés vizsgálatáért megillető eljárási költségek körét, mértékét, annak beszedésével, kezelésével, nyilvántartásával kapcsolatos részletes szabályokat.
 
 (4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 

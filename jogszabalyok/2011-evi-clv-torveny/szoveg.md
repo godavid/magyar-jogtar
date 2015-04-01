@@ -94,7 +94,7 @@ folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését köv
 - d) a hozzájárulásra kötelezett saját munkavállalói számára a felnőttképzésről szóló törvényben meghatározott felnőttképzési szerződés és a munka törvénykönyvéről szóló törvény szerinti tanulmányi szerződés vagy a tanulmányok folytatására történő munkáltatói kötelezés alapján megszervezett szakmai vagy nyelvi képzés – ide nem értve a hatósági jellegű képzéseket – jogszabályban meghatározott költségeivel,
 - e) a d) pont szerinti teljesítés esetén a bruttó kötelezettség csökkenthető az 5. § ab) pontja szerinti gyakorlati képzésre a 8. § (1) bekezdése alapján számított csökkentő tétel, de legfeljebb a bruttó kötelezettség 16,5 százaléka mértékéig, feltéve, hogy a hozzájárulásra kötelezett
   - ea) az 5. § ab) pontja szerint, havonta legalább 45 fő tanulószerződéses tanuló gyakorlati képzésével teljesíti részben a hozzájárulási kötelezettségét, és
-  - eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást a fővárosi, megyei kormányhivatal munkaügyi központ szakigazgatási szervéhez a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.
+  - eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást a fővárosi és megyei kormányhivatalhoz a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.
 
 6. § Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségének nem, részben vagy időszakosan tesz eleget az 5. § szerinti gyakorlati képzés szervezésével, valamint az 5. § d) pontja szerinti saját munkavállalói részére szervezett képzéssel, a bruttó kötelezettségét vagy a 9. § (1) bekezdés c) pontja szerinti nettó kötelezettségét az állami adóhatóságnál vezetett számlára történő befizetéssel teljesíti.
 
@@ -269,7 +269,7 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 
 (3) Az alaprész kiadási előirányzatának 0,3%-a felhasználható az állami szakképzési és felnőttképzési szervnek az alaprészből nyújtott támogatások ellenőrzésével összefüggő, az alaprészből nyújtható szakképzési célú támogatások szabályairól szóló miniszteri rendeletben meghatározott feladatai ellátására.
 
-(4) Az alaprész kiadási előirányzatának 0,2%-a felhasználható a fővárosi és megyei kormányhivatal munkaügyi központ szakigazgatási szervnek a saját munkavállalók költségeinek elszámolásával kapcsolatos ellenőrzési feladatai ellátására.
+(4) Az alaprész kiadási előirányzatának 0,2%-a felhasználható a fővárosi és megyei kormányhivatalnak a saját munkavállalók költségeinek elszámolásával kapcsolatos ellenőrzési feladatai ellátására.
 
 (5) Az alaprész kiadási előirányzatának 0,3%-a felhasználható az állami szakképzési és felnőttképzési szervnek az akkreditált felnőttképzést folytató intézmények támogatott képzésének indításáról szóló bejelentésén alapuló ellenőrzési feladatok ellátására.
 
@@ -358,7 +358,7 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 - a) a gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezett a hozzájárulási kötelezettségét az állami szakképzési és felnőttképzési szerv felé,
 - b) a gyakorlati képzést nem szervező hozzájárulásra kötelezett a hozzájárulási kötelezettségét az állami adóhatóság felé 2012. február 25-ig benyújtandó soron kívüli bevallásban teljesíti.
 
-(4) A 2011. évben kezdődő üzleti év esetén, ha a (2) bekezdés a) pontjában meghatározott időszakban a hozzájárulásra kötelezett a kötelezettségét részben a saját munkavállalói számára a felnőttképzésről szóló 2001. évi CI. törvény 20. §-ában meghatározott felnőttképzési szerződés és a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény szerinti tanulmányi szerződés, vagy a tanulmányok folytatására történő munkáltatói kötelezés alapján megszervezett képzés külön jogszabályban meghatározott költségei elszámolásával teljesíti, 2012. február 25-ig a jogszabályban előírt adatszolgáltatási kötelezettségét is teljesítenie kell a fővárosi, megyei kormányhivatal munkaügyi központja részére.
+(4)
 
 (5) A szakképzésért és felnőttképzésért felelős miniszter a 12. § szerinti keretösszegeket a (2)–(4) bekezdésre, valamint a 32. § (1) bekezdésében foglaltakra figyelemmel tervezi.
 

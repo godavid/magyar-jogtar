@@ -17,23 +17,31 @@ Annak érdekében, hogy az Európai Unió támogatásából finanszírozott proj
 - g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó,
 - h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
 
-nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági engedélyezési ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
+nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
+
+(1a) A kisajátításról szóló törvény hatálya alá tartozó kisajátítási eljárás nem nyilvánítható kiemelt jelentőségű üggyé.
 
 (2) A kiemelt jelentőségű ügyekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló jogszabály és az ügyfajtára vonatkozó különös hatósági eljárási szabályok rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-### A hatósági eljárás szabályai
+### A kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok
 
-2. § (1) Kiemelt jelentőségű ügyben első fokon
+1/A. § (1) Kiemelt jelentőségű ügyben első fokon
 
-- a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az ügyfajtára vonatkozó különös eljárási szabályok szerint a fellebbezés elbírálására jogosult hatóság,
-- b) szakhatóságként a Kormány által rendeletben kijelölt hatóság, ennek hiányában az ügyfajtára vonatkozó különös eljárási szabályok szerint a másodfokú eljárásban szakhatóságként kijelölt hatóság jár el.
+- a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként jár el,
+- b) szakhatóságként a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú szakhatóságként jár el.
 
 (2) Kiemelt jelentőségű ügyben a fellebbezés elbírálására jogosult
 
-- a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság,
-- b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság.
+- a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként jár el,
+- b) szakhatóságként a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú szakhatóságként jár el.
 
 (3) Ha a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény vagy az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító törvény kizárja a fellebbezést vagy másodfokú szakhatóság közreműködését, akkor a kiemelt jelentőségű üggyé nyilvánító kormányrendeletben nem kell a fellebbezés elbírálására jogosult hatóságot vagy másodfokú szakhatóságot kijelölni.
+
+### A hatósági eljárás szabályai
+
+2. § (1) A kiemelt jelentőségű ügyben eljáró hatóság az általa meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli.
+
+(2) Az (1) bekezdés szerinti hirdetményi úton történő közlés esetén, ha a döntés az ügyfél számára kötelezettséget állapít meg, vagy alapvető jogát vonja el vagy korlátozza, a kiemelt jelentőségű ügyben a hatóság az ismert ügyfelet a döntés szövegéről – a hirdetmény kifüggesztésével egyidejűleg – az ügyfél tekintetében az adott ügyfajtára vonatkozó külön jogszabály szerint alkalmazható egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei ilyen esetben is a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja – a kiemelt jelentőségű üggyé nyilvánító kormányrendelet eltérő rendelkezése hiányában – a hirdetmény kifüggesztését követő 5. nap.
 
 ### A kiemelt jelentőségű ügy koordinációja
 
@@ -53,7 +61,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 ### Ügyintézési határidő a kiemelt jelentőségű ügyben
 
-3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – az (5) bekezdésben meghatározott, valamint az általános építésügyi hatósági engedélyezési eljárásra vonatkozó ügyintézési határidő kivételével – legfeljebb két hónap lehet.
+3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – az (5) bekezdésben meghatározott, valamint az általános építésügyi hatósági engedélyezési eljárásra vonatkozó ügyintézési határidő kivételével – legfeljebb negyvenkét nap lehet.
 
 (2)
 
@@ -68,7 +76,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 - d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
 
-(6) A hatóság vezetője indokolt esetben az ügyintézési határidőt legfeljebb tizenöt nappal meghosszabbíthatja.
+(6) A hatóság vezetője indokolt esetben az ügyintézési határidőt egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
 
 4. §
 
@@ -76,7 +84,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 4/B. §
 
-5. § (1) Kiemelt jelentőségű ügy engedélyezési eljárásában a szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap, amelyet a szakhatóság vezetője indokolt esetben egy alkalommal legfeljebb nyolc nappal meghosszabbíthat.
+5. § (1) Kiemelt jelentőségű ügyben a szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap, amelyet a szakhatóság vezetője indokolt esetben egy alkalommal legfeljebb nyolc nappal meghosszabbíthat.
 
 (2)
 
@@ -86,7 +94,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (3)
 
-6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb harminc napon belül el kell bírálni.
+6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb huszonegy napon belül el kell bírálni.
 
 6/B. § (1) A kiemelt jelentőségű ügyben indult eljárást – az ügyfajtára irányadó különös eljárási szabályok szerint fizetendő illeték vagy díj helyett – a Kormány kormányrendeletben meghatározott mértékű, az eljáró hatóság és – szakhatóság közreműködése esetén – a szakhatóság bevételét képező igazgatási szolgáltatási díj megfizetéséhez kötheti.
 

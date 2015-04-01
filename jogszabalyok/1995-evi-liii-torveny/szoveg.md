@@ -927,6 +927,10 @@ tarthatók nyilván.
 
 (6) Ha jogszabály a környezethasználattal összefüggő elvi engedélyezési eljárás lefolytatását írja elő, akkor az ügyfél kérelme alapján az elvi engedélyezési eljárás – külön eljárás lefolytatása nélkül – az (1) bekezdés a), illetve b) pontja szerinti eljárás keretében is lefolytatható.
 
+66/A. § (1) A környezethasználattal járó tevékenység engedélyezésére irányuló hatósági eljárásban a környezetvédelmi szempontok érvényesülését szakhatósági közreműködés keretében vagy szakkérdésként kell vizsgálni.
+
+(2) A hatóság a tervezett tevékenység elvégzéséhez nem járulhat hozzá, ha az környezeti elemet veszélyeztetne vagy károsítana.
+
 ### Előzetes vizsgálati eljárás, előzetes konzultáció
 
 67. § (1) Előzetes vizsgálatot kell lefolytatni, ha a tervezett tevékenység a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, továbbá ha az előzetes vizsgálatot törvény írja elő.
@@ -1162,6 +1166,8 @@ közös szabályai
 
 92. § (1) Környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységet az végezhet, akinek tevékenységét a (2) bekezdésben meghatározott hatóság engedélyezte. Ha jogszabály környezetvédelmi, természetvédelmi és tájvédelmi szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki rendelkezik a (2) bekezdés szerinti engedéllyel.
 
+(1a) Az (1) bekezdésben foglalt rendelkezést nem kell alkalmazni, ha a környezetvédelmi, természetvédelmi és tájvédelmi szakkérdést a környezetvédelmi és természetvédelmi hatóság más hatóság eljárásában – jogszabály alapján – szakértőként vizsgálja.
+
 (2) Az (1) bekezdés szerinti szakértői tevékenység folytatására jogosító engedélyt
 
 - a) természetvédelmi és tájvédelmi szakértői tevékenység esetében a környezetvédelmi hatóság,
@@ -1202,7 +1208,9 @@ adja ki.
 
 96. § A védett természeti területek természetvédelmi kezeléséért felelős szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
 
-96/A. § A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi, illetve az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
+96/A. § (1) A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi és az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
+
+(2) A nem környezetvédelmi és természetvédelmi hatósági eljárásban a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatban felmerülő költségek egyéb eljárási költségnek minősülnek.
 
 ### Felügyeleti díj
 
@@ -1419,7 +1427,7 @@ A KÖRNYEZETVÉDELEMBEN
 - 16. a környezeti értékelés tartalmi követelményeit és a környezeti vizsgálat lefolytatásának szabályait, valamint a környezet védelméért felelős szervek körét és feladatait, továbbá szabályozza a környezeti vizsgálat hatálya alá tartozó tervek és programok körét;
 - 17. a nyilvánosság környezeti információkhoz való hozzáférésének rendjét és a környezeti alapnyilvántartás rendjét;
 - 18. az előzetes vizsgálati eljárás és az előzetes konzultáció részletes szabályait;
-- 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait, 22. a környezetkárosodás megelőzésének és elhárításának rendjét, 23. a zaj és rezgés elleni védelem szabályait; 24. a levegő védelmével kapcsolatos szabályokat; 25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait; 26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat; 27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat; 28. a felszín alatti vizek védelmének szabályait; 29. a felszíni vizek minősége védelmének szabályait; 30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait; 31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket; 32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait; 33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait; 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket; 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait.
+- 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait, 21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségeket; 22. a környezetkárosodás megelőzésének és elhárításának rendjét, 23. a zaj és rezgés elleni védelem szabályait; 24. a levegő védelmével kapcsolatos szabályokat; 25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait; 26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat; 27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat; 28. a felszín alatti vizek védelmének szabályait; 29. a felszíni vizek minősége védelmének szabályait; 30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait; 31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket; 32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait; 33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait; 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket; 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait; 36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
@@ -1497,7 +1505,19 @@ kapcsolatos részletes szabályokat.
 
 (16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, továbbá a feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét.
 
-110/A. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a környezetvédelmi, a vízvédelmi hatóságot, valamint a környezetvédelmi igazgatási szervet.
+110/A. § Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) jelölje ki
+  - aa) a környezetvédelmi hatóságot,
+  - ab) a vízvédelmi hatóságot,
+  - ac) a környezetvédelmi igazgatási szervet,
+  - ad) a vízvédelmi igazgatási szervet,
+  - ae) a környezetvédelmi és természetvédelmi hatósági eljárásban szakértőként kirendelhető szerveket, továbbá
+- b) határozza meg
+  - ba) a környezetvédelmi és vízvédelmi eljárások során vizsgálandó,
+  - bb) a hatósági eljárásokban vizsgálandó környezetvédelmi és vízvédelmi
+
+szakkérdéseket.
 
 111. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

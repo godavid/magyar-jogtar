@@ -617,7 +617,7 @@ vonatkozó információ.
 
 26/C. § (1) Ha a bányászati munkák végzése során a művelésre engedélyezett bányatelek területén a bányabezárási műszaki üzemi terv benyújtása előtt olyan természeti, környezeti, műemléki vagy régészeti érték válik ismertté, amely más módon nem védhető meg, az érintett hatóság határozata alapján – amelyben rendelkezni kell a bányavállalkozó kártalanításáról is – a bányafelügyelet a bányatelket hivatalból csökkentheti.
 
-(2) A bányatelek területének az (1) bekezdés alapján hivatalból történt csökkentése miatt a bányavállalkozót megillető kártalanításra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni. A kártalanítási összeget az (1) bekezdés szerinti érintett hatóság köteles megfizetni – kivéve ha az érzékenységi és terhelhetőségi vizsgálat során vagy a bányafelügyelet hatósági eljárásában szakhatósági állásfoglalásában jelezte a természeti, környezeti, műemléki vagy régészeti érték meglétét, vagy annak korábbi tényadatokra, geológiai adottságokra alapozott valószínűsíthetőségét – az általa hozott határozat jogerőssé és végrehajthatóvá válásától számított 30 napon belül.
+(2) A bányatelek területének az (1) bekezdés alapján hivatalból történt csökkentése miatt a bányavállalkozót megillető kártalanításra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni. A kártalanítási összeget az (1) bekezdés szerinti érintett hatóság köteles megfizetni – kivéve ha az érzékenységi és terhelhetőségi vizsgálat alkalmával vagy a bányafelügyelet hatósági eljárásában a természeti, környezeti, műemléki vagy régészeti érték meglétét, vagy annak korábbi tényadatokra, geológiai adottságokra alapozott valószínűsíthetőségét a szakkérdés vizsgálata során jelezte – az általa hozott határozat jogerőssé és végrehajthatóvá válásától számított 30 napon belül.
 
 (3) Ha a már megállapított bányatelek területét a bányabezárási műszaki üzemi terv benyújtása előtt kivett hellyé nyilvánítják, az ebből eredő károkért a bányavállalkozót kártalanítás illeti meg. A kivett hellyé nyilvánításról szóló határozatban a kártalanításról is rendelkezni kell. A kártalanítási összeget a kivett hellyé nyilvánító határozat jogerőssé és végrehajthatóvá válásától számított 30 napon belül kell megfizetni.
 
@@ -962,7 +962,7 @@ gyakorolja.
 - c) a bányafelügyelet hatósági felügyeleti jogkörébe tartozó nyomástartó berendezés vagy tároló-tartály üzemeltetésére vonatkozó biztonsági szabályokat megszegi, vagy a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések hatósági felügyeletéről szóló rendeletben előírt bejelentési kötelezettségét nem teljesíti,
 - d) a földgáz, a kőolaj, a kőolajtermék, valamint az egyéb gáz és gáztermék vezetéken történő szállítására, elosztására, tárolására vagy az ehhez szükséges létesítmények biztonsági övezetére vonatkozó, jogszabályban vagy hatósági határozatban előírtakat megszegi,
 - e) a bányatelekkel kapcsolatos rendelkezéseket vagy a bányabiztonsági szabályzatok előírásait megszegi, vagy
-- f) a földtani kutatási munka megkezdését vagy befejezését a bányakapitányságnak nem jelenti be,
+- f) a földtani kutatási munka megkezdését vagy befejezését a bányafelügyeletnek nem jelenti be,
 - g) e törvény hatálya alá tartozó tevékenységek végzése során a villamos berendezés és készülék, a villamos fogyasztó berendezés létesítésére és üzemben tartására vonatkozó biztonsági előírást megszegi,
 - h) a bányafelügyelet hatáskörébe tartozó polgári robbantási tevékenységre vonatkozó biztonsági szabályokat vagy a hatósági határozatban előírtakat megszegi.
 
@@ -1289,7 +1289,7 @@ gyakorolja.
 
 (9b) A bányafelügyelet eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
-(9c) A felügyeleti díj – legfeljebb a tárgyévre megállapított fizetési kötelezettség mértékéig – csökken a fizetésre kötelezett által a bányafelügyelet eljárásaiért a tárgyévben megfizetett igazgatási szolgáltatási díjak összegével.
+(9c) Az igazgatási szolgáltatási díjat – legfeljebb a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – a felügyeleti díj fedezi.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 
@@ -1317,7 +1317,7 @@ gyakorolja.
 
 (8) Ha az eljárás jelentős számú ügyfelet érint – az eljárás megindításáról szóló értesítés, valamint az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a bányafelügyelet az ügyféllel hirdetményi úton tart kapcsolatot.
 
-(9) A bányafelügyelet eljárásaiban szakhatóságként kijelölt hatóság az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére – a földvédelmi szakhatósági eljárás kivételével – előzetes szakhatósági állásfoglalást ad ki, amely a kiadásától számított egy évig használható fel.
+(9) A bányafelügyelet eljárásaiban szakhatóságként kijelölt hatóság az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a kiadásától számított egy évig használható fel.
 
 43/B. § (1) A bányatelek megállapítására indított eljárás során az ügyintézés határideje három hónap, a kutatás engedélyezésére vonatkozó eljárás ügyintézési határideje húsz nap.
 
@@ -1479,7 +1479,7 @@ bányahatósági felügyelete
 - e) a kitermelt ásványi nyersanyag felhasználásának helyét,
 - f) az anyagnyerő helyről kitermelhető ásványi nyersanyag mennyiségét m3-ben,
 - g) a tevékenységet végző megnevezését, székhelyét,
-- h) az engedélyező bányakapitányság megnevezését.
+- h) az engedélyező bányászati hatáskörében eljáró illetékes kormányhivatal megnevezését.
 
 47/D. § (1) Az anyagnyerő hely engedélyesének a 28. §-ban foglaltak szerint bányaüzemi felelős műszaki vezetőt és helyettest kell megbíznia.
 
@@ -1732,7 +1732,7 @@ rendeletben történő megállapítására.
 
 (3) Felhatalmazást kap
 
-- a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 43. § (9) bekezdésében megállapított felügyeleti díj fizetésének részletes szabályait, valamint az igazgatási szolgáltatási díjak körét, mértékét és a díjak beszedésének, kezelésének, nyilvántartásának szabályait rendeletben állapítsa meg,
+- a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének, megosztásának és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak alá nem tartozó eljárási költségek körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
 - b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (4)

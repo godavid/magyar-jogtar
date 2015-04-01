@@ -955,6 +955,36 @@ tegyen újabb előterjesztést.
 
 (5) Az ügyész indítványának elutasítása esetén a bűnügyi költséget az állam viseli.
 
+### A reintegrációs őrizet elrendelése és megszüntetése, valamint a reintegrációs őrizetben lévő elítélt feltételes szabadságra bocsátására vonatkozó eljárás különleges szabályai
+
+61/A. § (1) A reintegrációs őrizet elrendelésére a bv. intézet tesz előterjesztést a büntetés-végrehajtási bírónak.
+
+(2) A reintegrációs őrizet elrendelését a szabadságvesztés végrehajtása alatt egy alkalommal az elítélt vagy védője is kezdeményezheti. A kérelmet a bv. intézet – értékelő véleményével és javaslatával – tizenöt napon belül továbbítja a büntetés-végrehajtási bíróhoz.
+
+(3) A reintegrációs őrizet elrendelése esetén a büntetés-végrehajtási bíró jelöli ki az elítélt tartózkodási helyéül szolgáló lakást. A végzésben meghatározza, hogy a kijelölt lakás és a hozzá tartozó bekerített hely milyen – elsősorban a mindennapi élet szokásos szükségleteinek biztosítását szolgáló, munkavégzési vagy gyógykezelési – célból és milyen időtartamban hagyható el.
+
+(4) A reintegrációs őrizet elrendelése iránti előterjesztés tárgyában a büntetés-végrehajtási bíró az iratok alapján is meghozhatja a döntést; az elítélt vagy a védő által benyújtott kérelem tárgyában – az (5) bekezdésben meghatározott esetek kivételével – meghallgatást tart.
+
+(5) A büntetés-végrehajtási bíró a kérelmet érdemi vizsgálat nélkül az iratok alapján elutasítja, ha a reintegrációs őrizet elrendelését e törvény kizárja.
+
+(6) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró a reintegrációs őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz.
+
+(7) A reintegrációs őrizet elrendelésével kapcsolatos eljárás bűnügyi költségét az állam viseli.
+
+61/B. § (1) Ha a reintegrációs őrizet alatt az elítélt feltételes szabadságra bocsátásáról kell dönteni, és a bv. intézet az előterjesztésben a feltételes szabadságra bocsátás engedélyezésére tesz javaslatot, a büntetés-végrehajtási bíró az elítélt meghallgatását mellőzheti.
+
+(2) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de a bv. intézet a feltételes szabadságra bocsátás esedékességének napjáig arról értesíti, hogy az elítélt a reintegrációs őrizet magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegte, az elektronikus távfelügyeleti eszközt megrongálta vagy használhatatlanná tette, a büntetés-végrehajtási bíró a feltételes szabadságra bocsátást újból megvizsgálja, és ennek alapján a végzését hatályon kívül helyezheti.
+
+(3) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását mellőzte, megteszi a szükséges intézkedéseket a szabadságvesztés fennmaradó részének a letöltése érdekében.
+
+(4) A büntetés-végrehajtási bíró eljárására egyebekben az 57–59. §-t kell alkalmazni.
+
+61/C. § (1) A reintegrációs őrizet megszüntetéséről a büntetés-végrehajtási bíró a bv. intézet előterjesztésére soron kívül, az iratok alapján határoz.
+
+(2) Ha az elítélt ismeretlen helyre távozik, a büntetés-végrehajtási bíró a reintegrációs őrizet megszüntetéséről szóló határozat meghozatalával egyidejűleg elfogatóparancsot bocsát ki.
+
+61/D. § E cím alkalmazásával – ideértve a feltételes szabadságra bocsátásról az elítélt meghallgatásának mellőzésével – lefolytatott eljárásokban a 61/A. § (5) és (6) bekezdésében foglalt kivétellel bírósági titkár nem járhat el.
+
 ### Az elzárás végrehajthatósága megszűnésének megállapítása
 
 62. § (1) A büntetés-végrehajtási bíró hivatalból, vagy a bv. intézet előterjesztése alapján, a 278. §-ban meghatározott ok fennállása esetén az iratok alapján megállapítja az elzárás végrehajthatósága megszűnését. Az eljárásnak az elítélt kérelmére is helye van.
@@ -1153,7 +1183,8 @@ tegyen újabb előterjesztést.
 - a) a Be. szerinti őrizet,
 - b) ha az előzetes letartóztatást, a szabálysértési elzárást rendőrségi fogdában hajtják végre, az előzetes letartóztatás, a szabálysértési elzárás,
 - c) a pártfogó felügyelet,
-- d) az elítélt vagy az egyéb jogcímen fogvatartott más ügyben történő előállítása, szállítása
+- d) az elítélt vagy az egyéb jogcímen fogvatartott más ügyben történő előállítása, szállítása,
+- e) a reintegrációs őrizet
 
 végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 
@@ -1346,9 +1377,10 @@ alapján fogadja be.
 - l) a pszichoszociális részlegen történő elhelyezés vagy annak megszüntetése,
 - m) a drogprevenciós részlegen történő elhelyezés vagy annak megszüntetése,
 - n) az alacsony biztonsági kockázatú részlegen történő elhelyezés vagy annak megszüntetése,
-- o) jogszabályban meghatározott egyéb feladat.
+- o) reintegrációs őrizet elrendelésére javaslattétel,
+- p) jogszabályban meghatározott egyéb feladat.
 
-(2) A BFB az (1) bekezdés b), d), f)–h), j) és l) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
+(2) A BFB az (1) bekezdés b), d), f)–h), j), l) és o) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
 
 (3) Az elítéltet a bv. intézet parancsnoka és a BFB döntéseivel szemben e törvényben meghatározott jogorvoslati jog illeti meg. Jogorvoslatnak a határozat, illetve a döntés végrehajtására nincs halasztó hatálya.
 
@@ -1894,7 +1926,7 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (5) Az elítélt által e törvény alapján megtérítendő költségeket és az általa igénybe vett jogszabályban meghatározott többletszolgáltatások díjait és költségeit a (4) bekezdés szerinti levonásokat követően kell levonni.
 
-(6) Az elítélt nem kötelezhető a tartási költségek megfizetésére a feltételes szabadságra bocsátás, a büntetés félbeszakítás és a bv. intézet huszonnégy órát meghaladó elhagyása esetén.
+(6) Az elítélt nem kötelezhető a tartási költségek megfizetésére a reintegrációs őrizet, feltételes szabadságra bocsátás, a büntetés félbeszakítás és a bv. intézet huszonnégy órát meghaladó elhagyása esetén.
 
 135. § (1) Az elítélt köteles a fogva tartó bv. intézet tisztántartását, karbantartását és ellátását szolgáló munkában díjazás nélkül részt venni.
 
@@ -2503,6 +2535,62 @@ kell megkezdeni.
 
 (6) A programelemek megvalósításának eredményességét a bv. intézet ellenőrzi és értékeli. Az értékelés alapját a büntetés-végrehajtási pártfogó felügyelőnek a befogadó környezettel történő együttműködés és ellenőrzés során beszerzett adatok képezik.
 
+### A reintegrációs őrizet
+
+187/A. § (1) Ha a szabadságvesztés céljának megvalósulása ilyen módon is biztosítható, a feltételes szabadságra bocsátás esedékessége, illetve ennek kizárása vagy kizártsága esetén a szabadulás várható időpontja előtt legfeljebb hat hónappal reintegrációs őrizetbe helyezhető az az elítélt
+
+- a) akit első alkalommal ítéltek végrehajtandó szabadságvesztésre,
+- b) akit nem a Btk. 459. § (1) bekezdés 26. pontjában meghatározott személy elleni erőszakos bűncselekmény miatt ítéltek el,
+- c) aki öt évet meg nem haladó tartamú szabadságvesztését fogház- vagy börtönfokozatban tölti, és
+- d) aki a reintegrációs őrizetbe helyezést vállalja.
+
+(2) A reintegrációs őrizet alkalmazása iránt, továbbá az elítélt kérelme esetén a bv. intézet előterjesztést tesz a büntetés-végrehajtási bírónak.
+
+(3) A reintegrációs őrizet az elítélt szabadságának teljes elvonását megszünteti, de mozgási szabadságát és a tartózkodási helye szabad megválasztásának jogát korlátozza.
+
+(4) Reintegrációs őrizet elrendelése esetén a büntetés-végrehajtási bíró által kijelölt lakást és az ahhoz tartozó bekerített helyet az elítélt csak az elrendelő határozatában meghatározott célból, különösen
+
+- a) a mindennapi élet szokásos szükségleteinek biztosítása,
+- b) munkavégzés,
+- c) oktatásban, képzésben való részvétel vagy
+- d) gyógykezelés céljából,
+
+az ott meghatározott időben és az úti cél meghatározása mellett hagyhatja el.
+
+(5) A reintegrációs őrizet az elektronikus távfelügyeleti eszközök alkalmazása mellett biztosítható.
+
+187/B. § (1) A bv. intézet az előterjesztés megalapozása érdekében, továbbá a kérelem véleményezésével egyidejűleg megkeresi a büntetés-végrehajtási pártfogó felügyelőt, környezettanulmány és javaslat elkészítése és a büntetés-végrehajtási bírónak történő megküldése céljából.
+
+(2) A környezettanulmány kiterjed különösen az elítélt
+
+- a) családi körülményeire,
+- b) lakáskörülményeire;
+- c) vagyoni, jövedelmi viszonyaira,
+- d) munkavállalási lehetőségeire.
+
+(3) Ha a reintegrációs őrizet helye nem az elítélt saját tulajdonában álló lakóingatlan, úgy a tulajdonos előzetes, írásbeli befogadó nyilatkozata szükséges.
+
+187/C. § Az elítélt nem helyezhető reintegrációs őrizetbe, ha
+
+- a) az elítélttel szemben további szabadságvesztést kell végrehajtani,
+- b) az elítélttel szemben folyamatban lévő büntetőügyben elrendelt előzetes letartóztatását a szabadságvesztés végrehajtásának idejére megszakították,
+- c) a fogvatartása során engedélyezett reintegrációs őrizetet az elítéltnek felróható okból megszüntették,
+- d) az egy évet meg nem haladó tartamú szabadságvesztésből legalább három, egy évet meghaladó tartamú szabadságvesztésből legalább hat hónapot nem töltött le,
+- e) a megjelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlan.
+
+187/D. § (1) A reintegrációs őrizetben töltött tartam a szabadságvesztésbe beleszámít.
+
+(2) A reintegrációs őrizetre vonatkozó szabályok megtartását a büntetés-végrehajtási szervezet az általános rendőrségi feladatok ellátására létrehozott szervvel együttműködve ellenőrzi. A bv. intézet jogosult a reintegrációs őrizet szabályainak megtartására vonatkozó adatok megismerésére.
+
+187/E. § (1) A bv. szerv vezetője a reintegrációs őrizet megszüntetéséről haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónál, ha annak tartama alatt
+
+- a) végrehajtandó szabadságvesztésről, új büntető ügyről érkezik értesítés,
+- b) az elítélt a magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegi, az elektronikus távfelügyeleti eszközt megrongálja vagy használhatatlanná teszi.
+
+(2) Az elfogott elítéltet az általános rendőrségi feladatok ellátására létrehozott szerv a legközelebbi bv. intézetbe előállítja.
+
+(3) A reintegrációs őrizet alkalmazásának megszüntetését kimondó határozatban megjelölt időpont és a bv. intézetbe történő előállítás napja között eltelt idő a szabadságvesztésbe nem számít bele.
+
 ### Feltételes szabadságra bocsátás
 
 188. § (1) A szabadságvesztésre ítélt feltételes szabadságra bocsátható, ha
@@ -2587,6 +2675,11 @@ kell megkezdeni.
 (3) Az (1) bekezdés szerinti szempontoknak megfelelő értékelést a bv. intézet személyzete, valamint a fiatalkorú oktatásáért felelős reintegrációs szakember végzi.
 
 200. § Ha a bv. intézet nem áll szerződéses kapcsolatban általános iskolával, a bv. intézet illetékességi területébe tartozó iskola a bv. intézettel kötött együttműködési megállapodás alapján biztosítja az alapfokú képzést, magántanulói jogviszony keretében.
+
+200/A. § A 187/A. § (1) bekezdésében meghatározottakon túl a fiatalkorú reintegrációs őrizetének alkalmazási feltétele:
+
+- a) a szabadságvesztés végrehajtása alatt legalább egy alkalommal családi terápián vagy családi konzultáción való részvétel,
+- b) a törvényes képviselő hozzájárulása az elektronikus távfelügyeleti eszköz telepítéséhez, és fogadónyilatkozat megtétele a lakhatás tekintetében, valamint nyilatkozata a fogvatartott kíséréséről.
 
 201. § (1) A fiatalkorú a törvényes képviselőjének beleegyezése vagy utólagos jóváhagyása nélkül is önállóan tehet panaszt, kérelmet, vagy nyilatkozhat a fogvatartásával kapcsolatban felmerülő ügyekben.
 

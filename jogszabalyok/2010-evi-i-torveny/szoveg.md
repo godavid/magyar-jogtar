@@ -157,6 +157,8 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (3) A fővárosi és megyei kormányhivatal a 4. § (5) és (6) bekezdésében meghatározott döntésével szemben benyújtott fellebbezést a központi anyakönyvi szerv bírálja el.
 
+13/A. § A hazai anyakönyvezési eljárásban fellebbezésnek helye nincs.
+
 ### Okirat és személyes nyilatkozat
 
 14. § (1) Az anyakönyvi eljárásban a bejegyzendő adatokat, illetve a házasság megkötésének, valamint a bejegyzett élettársi kapcsolat létesítésének törvényes feltételeit közokirattal vagy teljes bizonyító erejű magánokirattal kell bizonyítani.
@@ -1390,6 +1392,8 @@ részletes szabályait rendeletben állapítsa meg.
 99. § A bejegyzett élettársi kapcsolat az e törvény hatálybalépését követő, de 2014. november 1-jét megelőző létesítése esetén az 59/A. § (2a) bekezdésétől eltérően a megkeresett anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a papír alapú anyakönyv házassági anyakönyvi bejegyzése adatainak az elektronikus anyakönyvbe történő bejegyzéséről a megkereséstől számított százhúsz napon belül gondoskodik, és erről értesíti a megkeresőt.
 
 100. § Az 59/A. § (1) és (2) bekezdését az e törvény hatálybalépését követően benyújtott névváltoztatási kérelemre kell alkalmazni.
+
+101. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel módosított rendelkezéseit a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvény hatálybalépése előtt indult, folyamatban lévő hazai anyakönyvezési ügyekben is alkalmazni kell.
 
 ### 1. melléklet a 2010. évi I. törvényhez
 

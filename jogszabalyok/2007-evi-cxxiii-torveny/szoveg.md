@@ -48,11 +48,11 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 - a) honvédelem céljából, ha az ingatlan kisajátítása a honvédelemről szóló törvényben meghatározott honvédelmi érdekből szükséges;
 - b) nemzetközi szerződés alapján megvalósuló területcsere céljából, ha a másik ország részére szükséges területátadás más módon nem lehetséges;
-- c) a 2. § d) pontja szerinti célból, valamint terület- és településrendezés céljából, ha a kérelemben megjelölt építmény, fejlesztési cél (a továbbiakban: cél) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szerepel, a cél megvalósítása az érintett ingatlanok tulajdonosai részéről (a beruházás jellege, anyagi terhei vagy a létesítmény megvalósítójának jogszabályi kijelölése miatt) nem várható el, továbbá a cél rendeltetése, jellege miatt – a környező építmények, ingatlanok rendeltetésszerű használatának biztosítására vagy jellegére is figyelemmel – a célt az adott ingatlanon szükséges megvalósítani, vagy más ingatlanon való megvalósítása a tulajdonban nagyobb sérelemmel járna;
+- c) a 2. § d) pontja szerinti célból, valamint terület- és településrendezés céljából, ha a kérelemben megjelölt építmény, fejlesztési cél (a továbbiakban: cél) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szerepel, a cél megvalósítása az érintett ingatlanok tulajdonosai részéről (a beruházás jellege, anyagi terhei vagy a létesítmény megvalósítójának jogszabályi kijelölése miatt) nem várható el, továbbá a cél rendeltetése, jellege miatt – a környező építmények, ingatlanok rendeltetésszerű használatának biztosítására vagy jellegére is figyelemmel – a célt az adott ingatlanon szükséges megvalósítani, vagy más ingatlanon való megvalósítása a tulajdonban nagyobb sérelemmel járna;
 - d) közlekedési infrastruktúra fejlesztése keretében közút, vasút, repülőtér, híd, alagút, hajózási létesítmény létesítése, fejlesztése céljából, ha
   - da) gyorsforgalmi közúthálózatnak jogszabállyal megállapított nyomvonalon való megépítése, vagy országos közút építése érdekében szükséges,
   - db) a felszíni vagy felszín alatti vasút létesítési joga alapján történő igénybevétel (létesítés, üzemeltetés) a létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza,
-  - dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
+  - dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
   - dd) híd vagy alagút építése, fejlesztése érdekében, amennyiben arra – országos közút építése, fenntartása, fejlesztése, üzemeltetése érdekében – közlekedésbiztonsági, vagy közlekedéspolitikai szempontok alapján kerül sor,
   - de) közforgalmú kikötő, úszóműves kikötőhely, komp- és révátkelőhely, valamint más hajózási létesítmény, továbbá a víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelek elhelyezése a parti ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza;
 - e) energiatermelés céljából, ha
@@ -91,7 +91,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna;
 - m) környezetvédelem céljából, ha
   - ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása,
-  - mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
+  - mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
   - mc) hulladékkezelő létesítmény rekultivációja,
   - md) sűrűn beépített nagyvárosias lakóterület levegőszennyezettségének és zajterhelésének csökkentése céljából zöldterület kialakítása
 
@@ -196,7 +196,9 @@ kell figyelembe venni.
 10. § (1) Nem jár kártalanítás
 
 - a) az ingatlanra feljegyzett tények megszűnéséért;
-- b) az olyan épületért, amelynél az építést vagy fennmaradást engedélyező határozat a későbbi lebontás esetére a kártalanítást kizárta, illetőleg amelynek a tulajdonos költségére való lebontását az építésügyi hatóság elrendelte.
+- b) az olyan épületért,
+  - ba) amelynél az építést, a használatbevételt vagy fennmaradást engedélyező jogerős határozat a későbbi lebontás esetére a kártalanítást kizárta,
+  - bb) amelynek a lebontását az építésügyi vagy az építésfelügyeleti hatóság jogerős döntéssel elrendelte.
 
 (2)
 

@@ -20,11 +20,19 @@ a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálys
 
 6. § (1)
 
-(2)
+(2) Az Rtv. 39. § (1) bekezdése a következő k) ponttal egészül ki:
+
+(A rendőr magánlakásba bebocsátás vagy hatósági határozat nélkül nem léphet be, illetve nem hatolhat be, kivéve)
+
+„k) a Bv. tv.-ben meghatározott, az elítélt mozgását nyomon követő elektronikus távfelügyeleti eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.”
 
 7–8. §
 
-9. §
+9. § Az Rtv. 91/K. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A rendőrség a határforgalom ellenőrzése során, az államhatáron átlépő harmadik ország állampolgárai által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait összeveti az alábbi nyilvántartások adataival:)
+
+„c) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása,”
 
 10–11. §
 
@@ -64,11 +72,39 @@ a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálys
 
 46–47. §
 
-48. §
+48. § A Bnytv. 7. § d) pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában bűnügyi nyilvántartások:)
+
+„d) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása.”
 
 49–53. §
 
-54–55. §
+54. § A Bnytv. 23. § h)–k) pontja helyébe a következő rendelkezések lépnek, és a 23. § a következő l) ponttal egészül ki:
+
+(A büntetőeljárás hatálya alatt állók nyilvántartása tartalmazza)
+
+„h) az előzetes letartóztatás, a lakhelyelhagyási tilalom, a házi őrizet, a távoltartás, az ideiglenes kényszergyógykezelés elrendelésének tényét, valamint azt a tényt, hogy az előzetes letartóztatás óvadék letétele miatt szűnt meg, a kényszerintézkedés időtartamát, megszűnése vagy megszüntetése tényét, a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, megszüntetéséről határozatot hozó bíróság megnevezését, határozatának számát és keltét, a kényszerintézkedés megszüntetéséről határozatot hozó ügyészség megnevezését, határozatának számát és keltét;
+
+i) a büntetőügy iktatószámát;
+
+j) a büntetőügyek egyesítésének, elkülönítésének, áttételének tényét, az erről szóló határozat számát és keltét;
+
+k) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
+
+l) a szakrendszeri azonosító kódot.”
+
+55. § (1) A Bnytv. 24. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) A személyazonosító adatokat, valamint a 23. § c), h) és i) pontjában meghatározott adatokat a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, valamint megszüntetéséről határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
+
+(5) Ha a kényszerintézkedést az ügyészség szünteti meg, a személyazonosító adatokat, a 23. § c) és i) pontjában meghatározott adatokat, valamint a kényszerintézkedés megszüntetése tényét az erről határozatot hozó ügyészség közli a bűnügyi nyilvántartó szervvel.”
+
+(2) A Bnytv. 24. §-a a következő (6) és (7) bekezdéssel egészül ki:
+
+„(6) A 23. § j) pontjában meghatározott adatokat a büntetőügyek egyesítéséről, elkülönítéséről vagy áttételéről határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a bűnügyi nyilvántartó szervvel.
+
+(7) A büntetőeljárás jogerős befejezésének időpontját a bíróság, a nyomozás megszüntetésének időpontját a határozatot hozó nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel.”
 
 56–59. §
 
@@ -76,21 +112,24 @@ a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálys
 
 63–65. §
 
-66. §
+66. § A Bnytv. 80. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül a mellékletben meghatározott formanyomtatványon vagy elektronikus úton adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.”
 
 67–71. §
 
 72. § A Bnytv.
 
-- 1.
+- 1. 7. § c) pontjában a „nyilvántartása,” szövegrész helyébe a „nyilvántartása, és”,
 - 2.
-- 3.
+- 3. 24. § (1) bekezdésében a „h) pontjában” szövegrész helyébe az „i) pontjában”,
 - 4.
-- 5.
+- 5. 30/D. § (1) bekezdés a) pontjában és a 30/D. § (7) bekezdés a) pontjában a „kényszerintézkedés hatálya” szövegrész helyébe a „büntetőeljárás hatálya”,
 - 6–11.
-- 12.
+- 12. 68. § (2) bekezdés c) pontjában a „28. § b) és c)” szövegrész helyébe a „23. § c) és h)”,
 - 13–16.
-- 17–18.
+- 17. 68. § (5) bekezdés c) pontjában a „23. § c), f) és g)” szövegrész helyébe a „23. § c), f), g) és h)”, a „meghatározott adatok, valamint” szövegrész helyébe a „meghatározott adatok.”,
+- 18. 68. § (11) bekezdés c) pontjában a „23. § c), f) és g)” szövegrész helyébe a „23. § c), f), g) és h)”, a „meghatározott adatok,” szövegrész helyébe a „meghatározott adatok.”,
 - 19–26.
 - 27–28.
 - 29–30.
@@ -99,11 +138,12 @@ szöveg lép.
 
 73. § Hatályát veszti a Bnytv.
 
-- 1.
+- 1. 7. § e) pontja,
 - 2.
-- 3–4.
+- 3. 26–30. §-a és az azt megelőző alcíme,
+- 4. 68. § (5) bekezdés d) pontja és a 68. § (11) bekezdés d) pontja,
 - 5.
-- 6.
+- 6. 84. § c) pontjában „a kényszerintézkedés hatálya alatt állók nyilvántartásába,” szövegrész.
 
 #### 14. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
@@ -127,7 +167,7 @@ szöveg lép.
 
 #### 19. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-90. §
+90. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 16. § g) pontjában a „nyilvántartásában, a kényszerintézkedés hatálya alatt állók nyilvántartásában, a” szövegrész helyébe a „nyilvántartásában, a” szöveg lép.
 
 #### 20. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
@@ -519,7 +559,37 @@ a) a meghallgatás időpontjáról a bv. intézetet és az ügyészt, a védőt,
 
 b) ha az elítélt szabadlábon van, az elítéltet a meghallgatásra idézi.”
 
-113. §
+113. § A Bv. tv. a 61. §-t követően a következő alcímmel, valamint 61/A–61/D. §-sal egészül ki:
+
+„A reintegrációs őrizet elrendelése és megszüntetése, valamint a reintegrációs őrizetben lévő elítélt feltételes szabadságra bocsátására vonatkozó eljárás különleges szabályai
+
+61/A. § (1) A reintegrációs őrizet elrendelésére a bv. intézet tesz előterjesztést a büntetés-végrehajtási bírónak.
+
+(2) A reintegrációs őrizet elrendelését a szabadságvesztés végrehajtása alatt egy alkalommal az elítélt vagy védője is kezdeményezheti. A kérelmet a bv. intézet – értékelő véleményével és javaslatával – tizenöt napon belül továbbítja a büntetés-végrehajtási bíróhoz.
+
+(3) A reintegrációs őrizet elrendelése esetén a büntetés-végrehajtási bíró jelöli ki az elítélt tartózkodási helyéül szolgáló lakást. A végzésben meghatározza, hogy a kijelölt lakás és a hozzá tartozó bekerített hely milyen – elsősorban a mindennapi élet szokásos szükségleteinek biztosítását szolgáló, munkavégzési vagy gyógykezelési – célból és milyen időtartamban hagyható el.
+
+(4) A reintegrációs őrizet elrendelése iránti előterjesztés tárgyában a büntetés-végrehajtási bíró az iratok alapján is meghozhatja a döntést; az elítélt vagy a védő által benyújtott kérelem tárgyában – az (5) bekezdésben meghatározott esetek kivételével – meghallgatást tart.
+
+(5) A büntetés-végrehajtási bíró a kérelmet érdemi vizsgálat nélkül az iratok alapján elutasítja, ha a reintegrációs őrizet elrendelését e törvény kizárja.
+
+(6) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró a reintegrációs őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz.
+
+(7) A reintegrációs őrizet elrendelésével kapcsolatos eljárás bűnügyi költségét az állam viseli.
+
+61/B. § (1) Ha a reintegrációs őrizet alatt az elítélt feltételes szabadságra bocsátásáról kell dönteni, és a bv. intézet az előterjesztésben a feltételes szabadságra bocsátás engedélyezésére tesz javaslatot, a büntetés-végrehajtási bíró az elítélt meghallgatását mellőzheti.
+
+(2) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de a bv. intézet a feltételes szabadságra bocsátás esedékességének napjáig arról értesíti, hogy az elítélt a reintegrációs őrizet magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegte, az elektronikus távfelügyeleti eszközt megrongálta vagy használhatatlanná tette, a büntetés-végrehajtási bíró a feltételes szabadságra bocsátást újból megvizsgálja, és ennek alapján a végzését hatályon kívül helyezheti.
+
+(3) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását mellőzte, megteszi a szükséges intézkedéseket a szabadságvesztés fennmaradó részének a letöltése érdekében.
+
+(4) A büntetés-végrehajtási bíró eljárására egyebekben az 57–59. §-t kell alkalmazni.
+
+61/C. § (1) A reintegrációs őrizet megszüntetéséről a büntetés-végrehajtási bíró a bv. intézet előterjesztésére soron kívül, az iratok alapján határoz.
+
+(2) Ha az elítélt ismeretlen helyre távozik, a büntetés-végrehajtási bíró a reintegrációs őrizet megszüntetéséről szóló határozat meghozatalával egyidejűleg elfogatóparancsot bocsát ki.
+
+61/D. § E cím alkalmazásával – ideértve a feltételes szabadságra bocsátásról az elítélt meghallgatásának mellőzésével – lefolytatott eljárásokban a 61/A. § (5) és (6) bekezdésében foglalt kivétellel bírósági titkár nem járhat el.”
 
 114. § A Bv. tv. a következő alcímmel és 68/A. §-sal kiegészülve lép hatályba:
 
@@ -561,7 +631,13 @@ g) a közérdekű munkára ítélt társadalombiztosítási azonosító jelére,
 
 (végrehajtásához szükséges adatokat ismerheti meg és kezelheti.)
 
-(2)
+(2) A Bv. tv. 78. § (1) bekezdése a következő e) ponttal egészül ki:
+
+[A rendőrség a 76. § (2) bekezdésében meghatározott adatok közül]
+
+„e) a reintegrációs őrizet”
+
+(végrehajtásához szükséges adatokat ismerheti meg és kezelheti.)
 
 118. § A Bv. tv. 80. § (1) bekezdése a következő szöveggel lép hatályba:
 
@@ -631,7 +707,21 @@ d) a telítettséget.
 
 (3) A KKMI-ben eltöltött időszak kockázatértékelési összefoglaló jelentéssel zárul, amely tartalmazza az elítélt befogadásakor mért általános – visszaesési és fogvatartási – kockázatát, meghatározza a kockázat csökkentéséhez szükséges egészségügyi, pszichológiai, biztonsági és reintegrációs feladatokat, amelyet a bv. intézetnek a reintegrációs tevékenysége során figyelembe kell vennie. Az elítéltet tájékoztatni kell a kockázatértékelési összefoglaló jelentés tartalmáról, valamint a javasolt visszaesési és fogvatartási kockázatot csökkentő reintegrációs programok igénybevételéről.”
 
-124. §
+124. § A Bv. tv. 93. § (3) és (4) bekezdése a következő szöveggel lép hatályba:
+
+„(3) A bv. intézeti szakterületi véleményezést megelőzően az (1) bekezdésben foglaltak szerint kell eljárni a feltételes szabadságra és reintegrációs őrizetre bocsátáshoz készítendő előterjesztés megalapozása érdekében azzal, hogy a vizsgálatot az előterjesztés benyújtásának esedékességét megelőző két hónapon belül meg kell kezdeni.
+
+(4) Nem kell elvégezni annak az elítéltnek a záró kockázatértékelését,
+
+a) aki nem tartozik a 92. § (2) bekezdés alá,
+
+b) aki az anya-gyermek részlegen van elhelyezve,
+
+c) aki a társadalmi kötődés programban vesz részt,
+
+d) aki a reintegrációs őrizetben van, vagy
+
+e) akinél a fogva tartó bv. intézet ezt nem javasolja.”
 
 125. § (1) A Bv. tv. 95. § (2) és (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -685,7 +775,13 @@ o) jogszabályban meghatározott egyéb feladat.
 
 (2) A BFB az (1) bekezdés b), d), f)–h), j) és l) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.”
 
-(2)
+(2) A Bv. tv. 96. § (1) bekezdés o) pontja helyébe a következő rendelkezés lép és a Bv. tv. 96. § (1) bekezdése a következő p) ponttal egészül ki:
+
+(A BFB elítéltekkel kapcsolatos feladatai:)
+
+„o) reintegrációs őrizet elrendelésére javaslattétel,
+
+p) jogszabályban meghatározott egyéb feladat.”
 
 (3)
 
@@ -737,7 +833,9 @@ f) az elítélt életfogytig tartó szabadságvesztés büntetést tölt, amelyb
 
 „(1a) A szabadságvesztés félbeszakítását az engedélyező megszüntetheti, ha az elítélttel szemben olyan újabb szabadságvesztés végrehajtásáról érkezik értesítőlap, amely a végrehajtás sorrendjére nincs kihatással.”
 
-132. §
+132. § A Bv. tv. 134. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az elítélt nem kötelezhető a tartási költségek megfizetésére a reintegrációs őrizet, feltételes szabadságra bocsátás, a büntetés félbeszakítás és a bv. intézet huszonnégy órát meghaladó elhagyása esetén.”
 
 133. § A Bv. tv. 143. §-a a következő (6) bekezdéssel kiegészülve lép hatályba:
 
@@ -779,7 +877,85 @@ b) felfüggesztheti, ha az elítélttel szemben újabb büntetőeljárás indul.
 
 „(6) A programelemek megvalósításának eredményességét a bv. intézet ellenőrzi és értékeli. Az értékelés alapját a büntetés-végrehajtási pártfogó felügyelőnek a befogadó környezettel történő együttműködés és ellenőrzés során beszerzett adatok képezik.”
 
-140–141. §
+140. § A Bv. tv. a 187. §-t követően a következő alcímmel és 187/A–187/E. §-okkal egészül ki:
+
+„A reintegrációs őrizet
+
+187/A. § (1) Ha a szabadságvesztés céljának megvalósulása ilyen módon is biztosítható, a feltételes szabadságra bocsátás esedékessége, illetve ennek kizárása vagy kizártsága esetén a szabadulás várható időpontja előtt legfeljebb hat hónappal reintegrációs őrizetbe helyezhető az az elítélt
+
+a) akit első alkalommal ítéltek végrehajtandó szabadságvesztésre,
+
+b) akit nem a Btk. 459. § (1) bekezdés 26. pontjában meghatározott személy elleni erőszakos bűncselekmény miatt ítéltek el,
+
+c) aki öt évet meg nem haladó tartamú szabadságvesztését fogház- vagy börtönfokozatban tölti, és
+
+d) aki a reintegrációs őrizetbe helyezést vállalja.
+
+(2) A reintegrációs őrizet alkalmazása iránt, továbbá az elítélt kérelme esetén a bv. intézet előterjesztést tesz a büntetés-végrehajtási bírónak.
+
+(3) A reintegrációs őrizet az elítélt szabadságának teljes elvonását megszünteti, de mozgási szabadságát és a tartózkodási helye szabad megválasztásának jogát korlátozza.
+
+(4) Reintegrációs őrizet elrendelése esetén a büntetés-végrehajtási bíró által kijelölt lakást és az ahhoz tartozó bekerített helyet az elítélt csak az elrendelő határozatában meghatározott célból, különösen
+
+a) a mindennapi élet szokásos szükségleteinek biztosítása,
+
+b) munkavégzés,
+
+c) oktatásban, képzésben való részvétel vagy
+
+d) gyógykezelés céljából,
+
+az ott meghatározott időben és az úti cél meghatározása mellett hagyhatja el.
+
+(5) A reintegrációs őrizet az elektronikus távfelügyeleti eszközök alkalmazása mellett biztosítható.
+
+187/B. § (1) A bv. intézet az előterjesztés megalapozása érdekében, továbbá a kérelem véleményezésével egyidejűleg megkeresi a büntetés-végrehajtási pártfogó felügyelőt, környezettanulmány és javaslat elkészítése és a büntetés-végrehajtási bírónak történő megküldése céljából.
+
+(2) A környezettanulmány kiterjed különösen az elítélt
+
+a) családi körülményeire,
+
+b) lakáskörülményeire;
+
+c) vagyoni, jövedelmi viszonyaira,
+
+d) munkavállalási lehetőségeire.
+
+(3) Ha a reintegrációs őrizet helye nem az elítélt saját tulajdonában álló lakóingatlan, úgy a tulajdonos előzetes, írásbeli befogadó nyilatkozata szükséges.
+
+187/C. § Az elítélt nem helyezhető reintegrációs őrizetbe, ha
+
+a) az elítélttel szemben további szabadságvesztést kell végrehajtani,
+
+b) az elítélttel szemben folyamatban lévő büntetőügyben elrendelt előzetes letartóztatását a szabadságvesztés végrehajtásának idejére megszakították,
+
+c) a fogvatartása során engedélyezett reintegrációs őrizetet az elítéltnek felróható okból megszüntették,
+
+d) az egy évet meg nem haladó tartamú szabadságvesztésből legalább három, egy évet meghaladó tartamú szabadságvesztésből legalább hat hónapot nem töltött le,
+
+e) a megjelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlan.
+
+187/D. § (1) A reintegrációs őrizetben töltött tartam a szabadságvesztésbe beleszámít.
+
+(2) A reintegrációs őrizetre vonatkozó szabályok megtartását a büntetés-végrehajtási szervezet az általános rendőrségi feladatok ellátására létrehozott szervvel együttműködve ellenőrzi. A bv. intézet jogosult a reintegrációs őrizet szabályainak megtartására vonatkozó adatok megismerésére.
+
+187/E. § (1) A bv. szerv vezetője a reintegrációs őrizet megszüntetéséről haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónál, ha annak tartama alatt
+
+a) végrehajtandó szabadságvesztésről, új büntető ügyről érkezik értesítés,
+
+b) az elítélt a magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegi, az elektronikus távfelügyeleti eszközt megrongálja vagy használhatatlanná teszi.
+
+(2) Az elfogott elítéltet az általános rendőrségi feladatok ellátására létrehozott szerv a legközelebbi bv. intézetbe előállítja.
+
+(3) A reintegrációs őrizet alkalmazásának megszüntetését kimondó határozatban megjelölt időpont és a bv. intézetbe történő előállítás napja között eltelt idő a szabadságvesztésbe nem számít bele.”
+
+141. § A Bv. tv. a következő 200/A. §-sal egészül ki:
+
+„200/A. § A 187/A. § (1) bekezdésében meghatározottakon túl a fiatalkorú reintegrációs őrizetének alkalmazási feltétele:
+
+a) a szabadságvesztés végrehajtása alatt legalább egy alkalommal családi terápián vagy családi konzultáción való részvétel,
+
+b) a törvényes képviselő hozzájárulása az elektronikus távfelügyeleti eszköz telepítéséhez, és fogadónyilatkozat megtétele a lakhatás tekintetében, valamint nyilatkozata a fogvatartott kíséréséről.”
 
 142. § A Bv. tv. 270. §-a és az azt megelőző alcím a következő szöveggel lép hatályba:
 
@@ -1007,7 +1183,7 @@ c) a szabálysértési elzárás végrehajtásának részletes szabályait a sza
 
 (14) A Bv. tv. 95. § (5) bekezdése az „A fogvatartott” szövegrész helyett az „Az elítélt” szöveggel lép hatályba.
 
-(15)
+(15) A Bv. tv. 96. § (2) bekezdésében a „b), d), f)–h), j) és l) pontjában” szövegrész helyébe a „b), d), f)–h), j), l) és o) pontjában” szöveg lép.
 
 (16) A Bv. tv. 99. § (5) bekezdése a „szakmai képzésben,” szövegrész helyett a „szakmai képzésben, reintegrációs programon,” szöveggel lép hatályba.
 

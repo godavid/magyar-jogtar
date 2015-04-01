@@ -2115,11 +2115,11 @@ kell megállapítani.
 
 (3) A 134. § (3) bekezdésében felsorolt szervnél, amennyiben a szervezet legalább tízezer főt foglalkoztat – ide nem értve a szerv vezetőjét – négy vezetői szint létesíthető. A szerv vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – főosztályvezetői, szervezeti egységének vezetője főosztályvezetői vagy főosztályvezető-helyettesi, vagy osztályvezetői alapilletményre jogosult. A szerv vezetője és helyettese a 30%-os vezetői illetménypótlékra jogosult.
 
-136. § (1) Testület által vezetett szerv esetében a testület elnökének és tagjainak az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnyolcszorosát nem haladhatja meg. A megyei, fővárosi kormányhivatal főigazgatójának és igazgatójának az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy a főigazgató esetében az illetmény az illetményalap huszonhatszorosát, igazgató esetében az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
+136. § (1) Testület által vezetett szerv esetében a testület elnökének és tagjainak az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnyolcszorosát nem haladhatja meg.
 
 (2) A Kormány által intézményfenntartásra kijelölt szerv vezetőjének az illetményét a kinevezési jogkör gyakorlója – a kormánymegbízott javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonhatszorosát nem haladhatja meg. A Kormány által intézményfenntartásra kijelölt szerv vezető-helyettesének az illetményét a kinevezési jogkör gyakorlója – az intézményfenntartásra kijelölt szerv vezetőjének a javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
 
-(3) A regionális államigazgatási szerv, valamint a megyei, fővárosi kormányhivatal szakigazgatási szerve
+(3) A regionális államigazgatási szerv
 
 - a) vezetőjének illetményét az államigazgatási szervet közvetlenül irányító vagy felügyelő miniszter, ennek hiányában a kinevezési jogkör gyakorlója – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter egyetértésével – legfeljebb az illetményalap huszonkétszeresében,
 - b) vezető-helyettesének illetményét a munkáltatói jogkör gyakorlója legfeljebb az illetményalap tizenhétszeresében,

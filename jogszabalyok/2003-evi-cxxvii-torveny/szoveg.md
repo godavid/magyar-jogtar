@@ -2491,10 +2491,10 @@ kell tekinteni.
 
 (2) Az adó mértéke
 
-- a) a cigarettára 12 500 forint ezer darabonként és a kiskereskedelmi eladási ár 31 százaléka, de legalább 24 920 forint ezer darabonként,
+- a) a cigarettára 15 700 forint ezer darabonként és a kiskereskedelmi eladási ár 25 százaléka, de legalább 28 000 forint ezer darabonként,
 - b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka,
-- c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 12 460 forint kilogrammonként,
-- d) az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 12 460 forint kilogrammonként.
+- c) a finomra vágott fogyasztási dohányra 14 000 forint kilogrammonként,
+- d) az egyéb fogyasztási dohányra 14 000 forint kilogrammonként.
 
 (3) A jövedéki adó megállapítása szempontjából a cigaretta darabszámát kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter, és így tovább.
 

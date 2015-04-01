@@ -909,6 +909,10 @@ kulturális javakat.
 - c) az e törvényben meghatározott tudományos feladatok elvégzésében történő közreműködést; valamint
 - d) egyéb, hatáskörébe utalt feladatokat.
 
+62/A. § (1) A kulturális örökségvédelmet érintő hatósági eljárásban az örökségvédelmi szempontok érvényesülését szakhatósági eljárás keretében vagy szakkérdésként kell vizsgálni.
+
+(2) A hatóság a tervezett tevékenység vagy beavatkozás elvégzéséhez nem járulhat hozzá, ha a tervezett beavatkozás a védett kulturális örökségi elemet veszélyezteti.
+
 63. § (1) A nyilvántartott műemléki értéken, a műemléken végzett építési tevékenységek esetén az építésügyi hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
 
 (2)
@@ -1223,7 +1227,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 93. § (1) Felhatalmazást kap a Kormány, hogy rendeletben:
 
 - a) szabályozza az örökségvédelmi bírsággal, a műemlékek kategóriába sorolásával kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
-- b) jelölje ki az e törvényben meghatározott feladatok tekintetében hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket, és állapítsa meg az azok eljárására és szolgáltatásaira vonatkozó szabályokat, beleértve a hatóságok eljárásaiban vizsgálandó szempontokat, az eljárások alóli mentesség feltételeit;
+- b) jelölje ki az e törvényben meghatározott feladatok tekintetében hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket, és állapítsa meg az azok eljárására és szolgáltatásaira vonatkozó szabályokat, beleértve a hatóságok eljárásaiban vizsgálandó kulturális örökségvédelmi szempontokat és szakkérdéseket, a szakkérdések vizsgálatára a kormányhivatalhoz örökségvédelmi érdekből történő kirendelés szabályait, valamint az eljárások alóli mentesség feltételeit;
 - c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
 - d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályokat;
 - e) szabályozza a Bizottság és a NÖRI emlékhelyekkel kapcsolatos feladatait;
