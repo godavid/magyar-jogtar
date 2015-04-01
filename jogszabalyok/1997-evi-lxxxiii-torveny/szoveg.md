@@ -387,13 +387,13 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (6) A biztosított jogosult a kezelőorvosánál mindazon vizsgálatok kezdeményezésére és – a kezelőorvos javaslata alapján – elvégeztetésére, amelyek a várakozás sorrendjét befolyásoló egészségi állapotváltozás megállapításához szükségesek.
 
-(7) Az országos várólista-nyilvántartást vezető szerv, illetve a térségi betegútszervezésért felelős szerv kezdeményezésére az egészségügyi államigazgatási szerv köteles megvizsgálni, hogy az egészségügyi szolgáltató megfelel-e a működési engedély kiadásának feltételéül külön jogszabályban meghatározott szakmai minimumfeltételeknek, amennyiben a várólista hossza szakember, gép, műszer, orvostechnikai eszköz hiánya miatt aránytalanul eltér az országos átlagtól.
+(7) Az országos várólista-nyilvántartást vezető szerv kezdeményezésére az egészségügyi államigazgatási szerv köteles megvizsgálni, hogy az egészségügyi szolgáltató megfelel-e a működési engedély kiadásának feltételéül külön jogszabályban meghatározott szakmai minimumfeltételeknek, amennyiben a várólista hossza szakember, gép, műszer, orvostechnikai eszköz hiánya miatt aránytalanul eltér az országos átlagtól.
 
-(7a) Az egészségügyi államigazgatási szerv a (7) bekezdés szerinti vizsgálat eredményéről 15 napon belül tájékoztatja az országos várólista-nyilvántartást vezető szervet, illetve a térségi betegútszervezésért felelős szervet.
+(7a) Az egészségügyi államigazgatási szerv a (7) bekezdés szerinti vizsgálat eredményéről 15 napon belül tájékoztatja az országos várólista-nyilvántartást vezető szervet.
 
-(7b) Amennyiben a várólisták hossza egyes ellátások esetében aránytalanul eltér egymástól, az országos várólista-nyilvántartást vezető szerv, illetve a térségi betegútszervezésért felelős szerv kezdeményezheti az egészségügyi államigazgatási szervnél az érintett egészségügyi szolgáltató kapacitásainak és ellátási területének a külön törvény szerinti módosítását.
+(7b) Amennyiben a várólisták hossza egyes ellátások esetében aránytalanul eltér egymástól, az országos várólista-nyilvántartást vezető szerv kezdeményezheti az egészségügyi államigazgatási szervnél az érintett egészségügyi szolgáltató kapacitásainak és ellátási területének a külön törvény szerinti módosítását.
 
-(7c) Az országos várólista-nyilvántartást vezető szerv havonta tájékoztatja a térségi betegútszervezésért felelős szervet az intézményi várólistát vezető szolgáltatók köréről, szolgáltatónkénti bontásban az intézményi várólista alapján igénybe vehető ellátások köréről, a tervezett várakozási időről és a várólistán a tárgyhónapot megelőző hónap utolsó napján lévő betegek számáról.
+(7c)
 
 (8) A biztosítottat a várólistáról vagy betegfogadási listáról törölni kell, ha egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi.
 
@@ -1207,7 +1207,7 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (3) A keresőképtelenség a vizsgálatra jelentkezés időpontjától eltérően, legfeljebb öt napra visszamenőleg is igazolható.
 
-(3a) Ha az orvosi dokumentáció alapján indokoltnak tartja, az ellenőrző (fő)orvos – a (3) bekezdésben foglaltaktól eltérően – 30 napra visszamenőleg igazolhatja a keresőképtelenséget.
+(3a)
 
 (4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is igazolhatja.
 
@@ -1249,9 +1249,9 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 - e) a saját jogú nyugdíj folyósításának időtartamára.
 - f) a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti bányászjáradék folyósításának az idejére, ide nem értve a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék, illetve az átmeneti bányászjáradék mellett végzett munka alapján járó táppénzt.
 
-(3) A táppénz folyósítását meg kell szüntetni, ha a jogosult az elrendelt orvosi vizsgálaton elfogadható ok nélkül nem jelent meg, vagy a keresőképesség elbírálását külön jogszabályban foglaltak szerint ellenőrző (fő)orvos vizsgálatához nem járult hozzá. Az ellenőrző (fő)orvos – a kezelő orvos jelenlétében – a keresőképességet a jogosult tartózkodási helyén is ellenőrizheti. A táppénz folyósítását akkor is meg kell szüntetni, ha a táppénzre jogosult a keresőképességét elbíráló orvos utasításait nyilvánvalóan nem tartja be, illetőleg a gyógyulását tudatosan késlelteti.
+(3) A táppénz folyósítását meg kell szüntetni, ha a jogosult az elrendelt orvosi vizsgálaton elfogadható ok nélkül nem jelent meg, vagy a keresőképesség elbírálásának ellenőrzése során a szakértő, illetve a felülvéleményező főorvos általi vizsgálatához nem járult hozzá. A szakértő, illetve a felülvéleményező főorvos – a kezelő orvos jelenlétében – a keresőképességet a jogosult tartózkodási helyén is ellenőrizheti. A táppénz folyósítását akkor is meg kell szüntetni, ha a táppénzre jogosult a keresőképességét elbíráló orvos utasításait nyilvánvalóan nem tartja be, illetve a gyógyulását tudatosan késlelteti.
 
-(4) Az ellenőrző (fő)orvos – a kezelő orvos jelenlétében – a keresőképtelenség fennállását a biztosított tartózkodási helyén is ellenőrizheti.
+(4)
 
 48. § (1) Ha a biztosítási idő a táppénzre való jogosultság kezdő napját megelőzően a 48/A. § (1) bekezdése szerint folyamatos, a táppénz alapját a táppénzre jogosultság kezdőnapját közvetlenül megelőző naptári év első napjától a jogosultság kezdő napját közvetlenül megelőző harmadik hónap utolsó napjáig terjedő időszakban az időszak utolsó napjához időben legközelebb eső 180 naptári napra jutó jövedelem alapján kell megállapítani. A folyamatos biztosítási idő megszakítása esetén a táppénz alapjaként a megszakítást megelőző jövedelmet nem lehet figyelembe venni.
 
@@ -1498,7 +1498,7 @@ bírálja el és utólag folyósítja.
 
 (2) Az üzemi baleset jogerős megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, vasutas dolgozók esetén a vasutas egészségbiztosítási szerv a rendelkezésre álló nyilvántartás, az üzemi baleset megállapításáról szóló határozat, valamint a kezelőorvos igazolása alapján téríti meg.
 
-(3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a baleseti táppénz meghosszabbítása esetén az orvosszakértői szervet szakértőként kell igénybe venni.
+(3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 (3a) Ha a baleseti táppénzre irányuló kérelem azért nem bírálható el, mert a baleset üzemiségére vonatkozóan még nem született döntés, a kérelem elbírálására vonatkozó ügyintézési határidő kezdő napja a baleset üzemisége tárgyában hozott érdemi döntés jogerőre emelkedését követő nap.
 
@@ -1574,9 +1574,9 @@ bírálja el és utólag folyósítja.
 
 (3) A jogalap nélkül felvett pénzbeli ellátás és baleseti táppénz visszafizetésére kötelező határozatot az a szerv hozza, amely az ellátást folyósította. A 66. §-on alapuló megtérítésre kötelező fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza. Ez utóbb említett igazgatási szerv rendelkezik hatáskörrel a visszafizetésre kötelező határozat meghozatalára is, ha a visszafizetési kötelezettség mellett a foglalkoztató vagy egyéb szerv (személy) megtérítési kötelezettsége is megállapítható.
 
-(4) A 67. §-on alapuló, fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza.
+(4) A 67. és 68. §-on alapuló, fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza.
 
-(5) A 68. §-on alapuló fizetési meghagyást és a 68/B. §-on alapuló határozatot az egészségbiztosító hozza.
+(5) A 68/B. §-on alapuló határozatot az egészségbiztosító hozza.
 
 (6) A 66–68/B. §-on és a 80. § (6) bekezdésén alapuló követelés és az érvényesítéséhez kapcsolódó járulékos költség adók módjára behajtandó köztartozásnak minősül.
 
@@ -1629,7 +1629,7 @@ bírálja el és utólag folyósítja.
 
 ### X. Fejezet — NYILVÁNTARTÁSI ÉS ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG
 
-79. § (1) Az egészségbiztosító – ideértve a társadalombiztosítási feladatokat külön jogszabály vagy megállapodás alapján ellátó munkáltatókat és egyéb szerveket – természetes személyről adatokat az egészségbiztosítás pénzbeli ellátásai, illetőleg a társadalombiztosítási feladatot ellátó szervek hatáskörébe utalt más ellátások megállapítása, folyósítása és ellenőrzése céljából TAJ-számon, társadalombiztosítási folyószámlaszámon, illetőleg nyugdíjfolyósítási törzsszámon tarthat nyilván.
+79. § (1) Az egészségbiztosító – ideértve a társadalombiztosítási feladatokat külön jogszabály vagy megállapodás alapján ellátó munkáltatókat és egyéb szerveket – természetes személyről adatokat az egészségbiztosítás pénzbeli ellátásai, illetőleg a társadalombiztosítási feladatot ellátó szervek hatáskörébe utalt más ellátások megállapítása, folyósítása és ellenőrzése, valamint a kifizetett ellátások visszafizetése, megtérítése céljából TAJ-számon, társadalombiztosítási folyószámlaszámon, illetőleg nyugdíjfolyósítási törzsszámon tarthat nyilván.
 
 (2) Az (1) bekezdésben meghatározott célra az alábbi személyes adatok tarthatók nyilván:
 
@@ -1650,7 +1650,7 @@ bírálja el és utólag folyósítja.
 
 (2) Az egészségügyi szolgáltató az (1) bekezdésében meghatározott adatok kezelését, az egészségbiztosító felé történő továbbítását a külön jogszabályban és a szerződésében előírt formában és módon teljesíti.
 
-(3) Az egészségbiztosító a pénzbeli ellátásokkal kapcsolatos kimutatások készítése céljából kezelheti a gyermekgondozási segélyre vonatkozó – a Magyar Államkincstár által szolgáltatott – alábbi adatokat:
+(3) Az egészségbiztosító a pénzbeli ellátásokkal kapcsolatos kimutatások készítése céljából kezelheti a gyermekgondozási segélyre vonatkozó – az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatokat ellátó szerv, szervezet által szolgáltatott – alábbi adatokat:
 
 - a) az ellátást igénybevevő TAJ száma,
 - b) azon gyermek TAJ száma, aki után az ellátás igénybevételére sor kerül vagy került, és
@@ -1801,7 +1801,7 @@ meghatározására.
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) határozza meg az országos várólista nyilvántartás, valamint a térségi várólistáknak a korábbi intézményi várólisták alapján történő létrehozásának szabályait,
-- b) jelölje ki a térségi betegút-szervezésért felelős szervet,
+- b)
 - c) jelölje ki az országos várólista nyilvántartást vezető szervet,
 - d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzési listával kapcsolatos jelentés szabályait.
 

@@ -508,11 +508,13 @@ időtartamával.
 
 (3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább huszonegy nappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.
 
-36/A. § A munkaadó – az alkalmi foglalkoztatásnak minősülő munkaviszony esetét kivéve – a munkaviszony megszűnése, illetve megszüntetése esetén, az utolsó munkában töltött napon köteles a munkanélküli igazolólapot a munkavállalónak átadni. Az igazoló lap kiállítására, valamint annak tartalmára vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+36/A. § (1) A munkaadó – az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszűnése, illetve megszüntetése esetén, az utolsó munkában töltött napon köteles a munkanélküli igazolólapot a munkavállalónak átadni.
+
+(2) A munkaadó – ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállása alatt álláskeresési járadék iránt kérelmet nyújt be – a nevelőszülői foglalkoztatási jogviszonyról igazolólapot állít ki, és azt a nevelőszülőnek átadja.
 
 36/B. § (1) Az állami adóhatóság az ellátásra való jogosultság igazolása céljából kérelemre igazolást ad ki az egyéni és társas vállalkozó, valamint a Tbj. 56/A. §-a szerinti járulékfizetés esetén a külföldi vállalkozás által foglalkoztatott természetes személy részére a munkaerő-piaci járulék alapjáról és a járulék befizetéséről, megjelölve a járulékfizetési kötelezettség alól mentes időszakokat is.
 
-(2) A 30. § (1) bekezdés d) pontjában meghatározott feltétel teljesülését az állami foglalkoztatási szerv megkeresésére a nyugdíjbiztosítási igazgatási szerv igazolja. Az igazolás kiadásához a nyugdíjbiztosítási igazgatóság egyeztetési eljárást nem folytat le.
+(2) A 30. § (1) bekezdés d) pontjában meghatározott feltétel teljesülését az állami foglalkoztatási szerv megkeresésére a nyugdíjbiztosítási igazgatási szerv igazolja. Az igazolás kiadásához a nyugdíjbiztosítási igazgatási szerv egyeztetési eljárást nem folytat le.
 
 ### Visszafizetési és megtérítési kötelezettség
 
@@ -750,11 +752,13 @@ időtartamával.
 
 47. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben jelölje ki az állami foglalkoztatási szervet. Az állami foglalkoztatási szervek feladataira, egymás közötti kapcsolatára vonatkozó szabályokat a Kormány rendeletben határozza meg.
 
-(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg az állami foglalkoztatási szervek illetékességi területét, valamint a közigazgatásfejlesztésért felelős miniszter egyetértésével a járási hivatal munkaügyi szakigazgatási szervének székhelyét.
+(2) Felhatalmazást kap a Kormány, hogy a járási hivatal mint állami foglalkoztatási szerv – általános szabályoktól eltérő – illetékességi területét rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy a Foglalkoztatási és Közfoglalkoztatási Adatbázis vezetésére, az abban nyilvántartásba veendő adatok szolgáltatására és a nyilvántartásból történő adatigénylés rendjére vonatkozó részletes eljárási szabályokat rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg az állami foglalkoztatási szerv által álláskeresőként nyilvántartott személyek létszáma megállapítására, valamint közzétételének módjára vonatkozó részletes szabályokat.
+
+(5) Felhatalmazás kap a foglalkoztatáspolitikáért felelős miniszter, hogy a 36/A. § szerinti igazolólap kiállítására, valamint annak tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
 
 48. § Annak a személynek az esetében, akinek a települési önkormányzat közfoglalkoztatást ajánlott fel, a foglalkozás-egészségügyi vizsgálat térítési díját az állami foglalkoztatási szerv téríti meg – a 39. § (12) bekezdés d) pontjában meghatározott előirányzatból – a vizsgálatot végző szerv részére.
 
@@ -836,7 +840,7 @@ időtartamával.
 (10b) A közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a munkahely – a 25. § (2) bekezdés d) pontjában foglaltakon kívül – akkor is megfelelő, ha a munkavégzés helye és a közfoglalkoztatott lakóhelye között naponta történő oda- és visszautazás ideje tömegközlekedési eszközzel
 
 - a) a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi álláskereső esetében a két órát meghaladja, és a munkavégzés helyére és onnan a közfoglalkoztatott lakóhelyére történő térítésmentes szállításról, vagy
-- b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-es távolságon belül az illetékes és megyei kormányhivatal népegészségügyi szakigazgatási szerve által kiadott engedélynek megfelelő térítésmentes elhelyezésről, tisztálkodási és étkezési lehetőségről a foglalkoztató gondoskodik.
+- b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-es távolságon belül a népegészségügyi feladatkörében eljáró illetékes fővárosi és megyei kormányhivatal által kiadott engedélynek megfelelő térítésmentes elhelyezésről, tisztálkodási és étkezési lehetőségről a foglalkoztató gondoskodik.
 
 (10c) Ha a közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a napi pihenő idő eltöltésére a lakóhelytől különböző településen kerül sor, az álláskereső csak abban az esetben köteles a felajánlott munkahelyet elfogadni, ha az családi körülményeire (különösen kiskorú gyermek gondozása, közeli hozzátartozó ápolása stb.) tekintettel hátrányos következményekkel nem jár. Ebben a kérdésben a lakóhelye szerinti települési önkormányzat jegyzőjének nyilatkozata az irányadó.
 
@@ -865,7 +869,7 @@ együttműködik.
 
 (14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
-- a) a munkaügyi központ által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
+- a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
 - b) rövid, 90 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
 - c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 - d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
@@ -930,7 +934,7 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 56/A. § (1) Rendbírságot köteles fizetni
 
 - a) az a munkaadó, munkavállaló, egyéb szerv, illetőleg személy, aki e törvényben, valamint a felhatalmazása alapján hozott jogszabályban, az Mt. 74. §-ában és 215. § (1) bekezdésében, továbbá közigazgatási határozatban, hatósági szerződésben meghatározott bejelentési [kivéve a 8. § (6) bekezdés b) pontjában, valamint a 36. § (1) bekezdésében meghatározott kötelezettséget], nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat;
-- b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget, valamint a munkavállalók felé fennálló munkabértartozással összefüggésben a munkaügyi központ részére a valóságnak nem megfelelő adatot szolgáltat.
+- b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget, valamint a munkavállalók felé fennálló munkabértartozással összefüggésben az állami foglalkozatási szerv részére a valóságnak nem megfelelő adatot szolgáltat.
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
 
@@ -1002,7 +1006,7 @@ szerinti adatok igénylésére jogosult.
   - c) a munkaerőpiaci helyzetükkel összefüggő, következő adatokat: ca) munkaerőpiaci képzésben történő részvétel, cb) munkaerőpiaci programban történő részvétel, cc) bértámogatással létesített munkaviszony keretében történő foglalkoztatás, cd) közfoglalkoztatásban való részvétel, ce) munkaviszony – támogatás nélkül történő – létesítése, cf) állami foglalkoztatási szerv szolgáltatásainak igénybevétele, cg) egyszerűsített foglalkoztatásban történő részvétel,
   - d) az álláskeresőként történő nyilvántartással összefüggő következő adatokat: da) a nyilvántartásba vétel időpontja, db) a nyilvántartásból történő törlés, illetve a nyilvántartás szünetelésének időpontja és indoka;
 - 2. a közfoglalkoztatottak tekintetében
-  - a) a közfoglalkoztatottra vonatkozó adatok körében aa) az adatbázisba való felvétel időpontját, ab) a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, állampolgárságát (hontalan státuszát), bevándorolt, letelepedett vagy menekült, oltalmazott, menedékes, befogadotti, szabad mozgás és tartózkodás jogával rendelkező státuszát, valamint önkéntes adatszolgáltatás alapján telefonszámát, e-mail címét, ac) legmagasabb iskolai végzettségét, szakképzettségét, ad) foglalkozás-egészségügyi alkalmassága mértékét, és ez alapján esetleg kizárt munkakört, ae) eddig betöltött munkaköreit, af) a munkaügyi központtal történő együttműködésére vonatkozó adatokat, ag) a (4) bekezdés alapján megállapított prioritási szintjét, ah) a rehabilitációs ellátásban részesülő személy által betölthető munkakörök leírását (FEOR kód),
+  - a) a közfoglalkoztatottra vonatkozó adatok körében aa) az adatbázisba való felvétel időpontját, ab) a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, állampolgárságát (hontalan státuszát), bevándorolt, letelepedett vagy menekült, oltalmazott, menedékes, befogadotti, szabad mozgás és tartózkodás jogával rendelkező státuszát, valamint önkéntes adatszolgáltatás alapján telefonszámát, e-mail címét, ac) legmagasabb iskolai végzettségét, szakképzettségét, ad) foglalkozás-egészségügyi alkalmassága mértékét, és ez alapján esetleg kizárt munkakört, ae) eddig betöltött munkaköreit, af) az állami foglalkoztatási szervvel történő együttműködésére vonatkozó adatokat, ag) a (4) bekezdés alapján megállapított prioritási szintjét, ah) a rehabilitációs ellátásban részesülő személy által betölthető munkakörök leírását (FEOR kód),
   - b) a közfoglalkoztatási jogviszonyra vonatkozó adatok körében ba) a közfoglalkoztatás jellegét, azaz hogy 1. tényleges közfoglalkoztatott-e
 - 2. képzésben vesz-e részt
 - 3. foglakoztatást helyettesítő támogatásban részesül-e,
@@ -1154,7 +1158,7 @@ szükséges hozzáférést.
 - c) a munkaviszonynak a munkaadó részéről felmondással történő megszüntetésén a közszolgálati és a közalkalmazotti jogviszonynak felmentéssel történő megszüntetését is érteni kell;
 - d) munkaviszony létesítéséhez szükséges feltételekkel az a személy rendelkezik, aki az Mt. alapján munkaviszonyt létesíthet.
 
-(7) Ahol jogszabály munkaügyi szakigazgatási szervet, munka- vagy munkaerőközvetítő szervet, munkaügyi szolgáltató irodát említ, ezen az állami foglalkoztatási szervet kell érteni.
+(7)
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 

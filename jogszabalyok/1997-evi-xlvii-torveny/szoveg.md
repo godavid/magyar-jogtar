@@ -50,7 +50,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - d) hatásvizsgálati célú anonimizálás és tudományos kutatás,
 - e) az egészségügyi adatot kezelő szerv vagy személy hatósági vagy törvényességi ellenőrzését, szakmai vagy törvényességi felügyeletét végző szervezetek munkájának elősegítése, ha az ellenőrzés célja más módon nem érhető el, valamint az egészségügyi ellátásokat finanszírozó szervezetek feladatainak ellátása,
 - f) a társadalombiztosítási, illetve szociális ellátások megállapítása, amennyiben az az egészségi állapot alapján történik,
-- g) az egészségügyi ellátásokra jogosultak részére a kötelező egészségbiztosítás terhére igénybe vehető szolgáltatások rendelésének és nyújtásának, valamint a gazdaságos gyógyszer-, gyógyászati segédeszköz- és gyógyászati ellátás rendelési szabályai betartásának a vizsgálata, továbbá a külön jogszabály szerinti szerződés alapján a jogosultak részére nyújtott ellátások finanszírozása, illetve az ártámogatás elszámolása.
+- g) az egészségügyi ellátásokra jogosultak részére a kötelező egészségbiztosítás terhére igénybe vehető szolgáltatások rendelésének és nyújtásának, valamint a gazdaságos gyógyszer-, gyógyászati segédeszköz- és gyógyászati ellátás rendelési szabályai betartásának a vizsgálata, továbbá a külön jogszabály szerinti szerződés alapján a jogosultak részére nyújtott ellátások finanszírozása, illetve az ártámogatás elszámolása, valamint a társadalombiztosítási ellátások megállapítása, kifizetése és a kifizetett ellátások visszafizetése, megtérítése érdekében,
 - h) bűnüldözés, továbbá a rendőrségről szóló 1994. évi XXXIV. törvényben meghatározott feladatok ellátására kapott felhatalmazás körében bűnmegelőzés,
 - i) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása, az abban kapott felhatalmazás körében,
 - j) közigazgatási hatósági eljárás,
@@ -403,13 +403,13 @@ van szükség, és
 
 22/C–22/D. §
 
-### Az orvosszakértői, rehabilitációs,illetve szociális szakértői szerv, rehabilitációs hatóság adatkezelése
+### Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, a rehabilitációs hatóság, valamint egyes szociális ellátások megállapítása céljából eljáró szerv adatkezelése
 
-22/E. § (1) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, továbbá az igazságügyi szakértő részére az egészségbiztosítási szerv abban az esetben továbbít a (3) bekezdésben meghatározott egészségügyi és személyazonosító adatokat, amennyiben arra az érintettnek járó társadalombiztosítási vagy szociális ellátásra, kedvezményre való jogosultsága egészségi állapota alapján történő megállapításához, illetve ellenőrzéséhez szükséges tevékenységének, szakértői tevékenységének ellátása céljából van szükség. Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, az igazságügyi szakértő az egészségbiztosítási szervnél rendelkezésre nem álló, a (3) bekezdés szerinti adatok továbbítása érdekében megkeresheti a kezelőorvost. A megkeresésére és a kezelőorvos adatátadási kötelezettségére a 23. § (1) és (2) bekezdésében foglaltakat értelemszerűen alkalmazni kell.
+22/E. § (1) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a szociális feladatkörében eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal), továbbá az igazságügyi szakértő részére az egészségbiztosítási szerv abban az esetben továbbít a (3) bekezdésben meghatározott egészségügyi és személyazonosító adatokat, amennyiben arra az érintettnek járó társadalombiztosítási vagy szociális ellátásra, kedvezményre való jogosultsága egészségi állapota alapján történő megállapításához, illetve ellenőrzéséhez szükséges tevékenységének, szakértői tevékenységének ellátása céljából van szükség. Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a járási hivatal, az igazságügyi szakértő az egészségbiztosítási szervnél rendelkezésre nem álló, a (3) bekezdés szerinti adatok továbbítása érdekében megkeresheti a kezelőorvost. A megkeresésére és a kezelőorvos adatátadási kötelezettségére a 23. § (1) és (2) bekezdésében foglaltakat értelemszerűen alkalmazni kell.
 
-(2) Az egészségügyi és személyazonosító adatokat kizárólag az orvosszakértői, rehabilitációs, illetve szociális szakértői szervnek, rehabilitációs hatóságnak a szakértői tevékenység elvégzésével megbízott dolgozója kezelheti.
+(2) Az egészségügyi és személyazonosító adatokat kizárólag az orvosszakértői, rehabilitációs, illetve szociális szakértői szervnek, rehabilitációs hatóságnak, járási hivatalnak a szakértői tevékenység elvégzésével, a szakkérdés elbírálásával megbízott dolgozója kezelheti.
 
-(3) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, az igazságügyi szakértő a 4. § (2) bekezdésének f) pontjában vagy a tevékenységére vonatkozó törvényben meghatározott célból kezelheti
+(3) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a járási hivatal, az igazságügyi szakértő a 4. § (2) bekezdésének f) pontjában vagy a tevékenységére vonatkozó törvényben meghatározott célból kezelheti
 
 - a) az egészségügyi szolgáltató, az egészségügyi szolgáltatást igénybe vevő, a beutaló (a szolgáltatást rendelő) orvos azonosítását szolgáló – külön jogszabály szerinti – adatokat,
 - b) az a) pontban foglaltakon túl az egészségügyi szolgáltatást igénybe vevő TAJ-számát,
@@ -417,7 +417,7 @@ van szükség, és
 
 amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenység, szakértői tevékenység végzésével összefüggésben vannak.
 
-(4) A (3) bekezdés szerinti adatokat az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság az adatkezelés megkezdésétől számított 5 évig kezeli. Amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság az adatokat az ügy jogerős befejezésének időpontjáig öt éven túl is kezelheti. Ezt követően az adatokat meg kell semmisíteni.
+(4) A (3) bekezdés szerinti adatokat az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a járási hivatal az adatkezelés megkezdésétől számított 5 évig kezeli. Amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a járási hivatal az adatokat az ügy jogerős befejezésének időpontjáig öt éven túl is kezelheti. Ezt követően az adatokat meg kell semmisíteni.
 
 (5) Az igazságügyi szakértő a (3) bekezdés szerinti adatokat az igazságügyi szakértői tevékenységről szóló törvényben meghatározott szabályok szerint kezeli.
 

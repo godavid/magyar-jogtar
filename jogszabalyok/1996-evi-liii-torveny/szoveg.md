@@ -475,7 +475,11 @@ található.
 
 (4) A kezelési terv meghatározhatja a védett természeti területen folytatandó tevékenységnek azokat a feltételeit, amelyek teljesítése a 38. § (1) bekezdésében meghatározott engedély beszerzése alól mentesít.
 
-39. § (1) Védett természeti területre közvetlen kihatással lévő vagy azt közvetlenül érintő más hatósági eljárás során a természetvédelmi hatóság – kivéve, ha a tevékenység környezeti hatásvizsgálat- vagy egységes környezethasználati engedélyköteles – szakhatóságként működik közre:
+38/A. § (1) A védett természeti területre közvetlen kihatással lévő vagy azt közvetlenül érintő eljárásokban a természetvédelmi szempontok érvényesülését szakhatósági eljárás keretében vagy szakkérdésként kell vizsgálni.
+
+(2) A hatóság a tervezett tevékenység elvégzéséhez nem járulhat hozzá, ha az (1) bekezdés szerinti vizsgálat alapján az természeti értéket vagy védett természeti területet veszélyeztetne vagy károsítana.
+
+39. § (1) Védett természeti területre közvetlen kihatással lévő vagy azt közvetlenül érintő hatósági eljárás során a természetvédelmi hatóság – kivéve, ha a tevékenység környezeti hatásvizsgálat- vagy egységes környezethasználati engedélyköteles –, ha a szakhatósági közreműködés törvényben meghatározott eljárási feltételei fennállnak, szakhatóságként működik közre:
 
 - a) földrészlet megosztása, alakjának, terjedelmének megváltoztatása;
 - b) telekalakítás, építés, létesítés és használatbavétel;
@@ -1068,7 +1072,8 @@ természetvédelmi bírságot köteles fizetni.
 - 9. a természeti érték állagára, állapotára veszélyt jelentő tevékenységek, továbbá a védett területre, Natura 2000 területre veszélyes anyagok körét, valamint a biztosíték formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, továbbá a biztosítás szabályait;
 - 10. az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő- és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a veszélyeztetése, károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét;
 - 11. a természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját;
-- 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését.
+- 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
+- 13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 

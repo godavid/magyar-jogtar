@@ -186,13 +186,13 @@ kérheti.
 (5) A (4) bekezdés b) pontja szerinti jogosultság igazolására alkalmas, az államháztartásért felelős miniszter rendeletében meghatározott formában és tartalommal kiállított okiratot
 
 - a) a (2) bekezdés a) pontja szerinti támogatáshoz kapcsolódóan a szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek a számlavezető írásbeli megkeresése alapján a naptári évet követő év január 15-éig a számlavezetőhöz,
-- b) a (2) bekezdés b) pontja szerinti támogatáshoz kapcsolódóan a gyámhivatal a naptári évet követő év február 15-éig a kiutalóhoz
+- b) a (2) bekezdés b) pontja szerinti támogatáshoz kapcsolódóan a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a naptári évet követő év február 15-éig a kiutalóhoz
 
 juttatja el.
 
 (6) A (3)–(4) bekezdésben meghatározott határidő(k) felróható elmulasztása esetén a számlavezető, illetőleg a kiutaló a támogatás összege után napi 3,5 ezrelék késedelmi kamatot fizet a Start-számla javára.
 
-(7) A kiutaló a gyámhivatal adatszolgáltatásában szereplőket – a nyilvántartása alapján – a Start-számla jellege (Start-számla vagy kincstári letéti Start-számla) alapján elkülönítetten tartja nyilván. A kiutaló a Start-számlával rendelkezők esetében a (2) bekezdés b) pontja szerinti támogatásra jogosultak (3) bekezdés szerinti adatait a naptári évet követő év február 25-éig elektronikusan megküldi a számlavezető részére.
+(7) A kiutaló a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala adatszolgáltatásában szereplőket – a nyilvántartása alapján – a Start-számla jellege (Start-számla vagy kincstári letéti Start-számla) alapján elkülönítetten tartja nyilván. A kiutaló a Start-számlával rendelkezők esetében a (2) bekezdés b) pontja szerinti támogatásra jogosultak (3) bekezdés szerinti adatait a naptári évet követő év február 25-éig elektronikusan megküldi a számlavezető részére.
 
 ### A kincstári letéti Start-számlán nyilvántartott, illetőleg a Start-számla követelés kezelése
 

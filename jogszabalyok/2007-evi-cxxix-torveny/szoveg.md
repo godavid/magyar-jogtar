@@ -38,6 +38,7 @@ a termőföld védelméről
 - 3. első igénybevétel: a termőföld más célú hasznosítása érdekében végzett első munkafolyamat, illetve fizikai beavatkozás;
 - 4. földminősítési mintatér: az a terület, amely egy adott – a településen, illetőleg a becslőjárásban előforduló – művelési ágú és minőségi osztályú termőföld jellemző tulajdonságainak, a termelés feltételeinek és természeti adottságainak szemléltetésére szolgál;
 - 5. földvédelmi eljárás: az ingatlanügyi hatóság által, ügydöntő hatóságként vagy szakhatóságként lefolytatott olyan hatósági eljárás, amely a termőföld mennyiségi védelmének érvényre juttatására, illetve a termőföld más célú hasznosításának engedélyezésére irányul;
+- 5a. földvédelmi szakkérdés vizsgálata: a termőföld mennyiségi védelmére vonatkozó jogszabályi előírásoknak való megfelelés vizsgálata bármely hatósági eljárásban;
 - 6. havária: olyan káresemény, amely elemi csapás, vagy ipari szerencsétlenség következtében, a katasztrófavédelmi, a vízügyi, illetve a környezetvédelmi szervek valamelyikének azonnali intézkedését igényli, és amelynek hatására a termőföld mezőgazdasági hasznosításra alkalmatlanná válik;
 - 7. humuszos termőréteg: a talaj felső, biológiailag aktív, szerves anyagot tartalmazó rétege;
 - 8. igénybevevő: a termőföldet – engedéllyel vagy engedély nélkül – más célra hasznosító magánszemély, jogi személy, jogi személyiséggel nem rendelkező más szervezet, illetve ezek jogutódja;
@@ -125,7 +126,7 @@ a termőföld védelméről
 
 (7) Az igénybevevő a (6) bekezdés szerinti határozatban előírtaknak megfelelően köteles a területet újrahasznosítani. Az igénybevevő az újrahasznosítást – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
-(8) Az újrahasznosításról a (7) bekezdésben meghatározott bejelentéstől számított 15 napon belül, bejelentés hiányában legkésőbb a (6) bekezdés szerinti határozatban meghatározott határidő elteltét követő 30 napon belül az ingatlanügyi hatóság a talajvédelmi hatósággal közös helyszíni ellenőrzés során győződik meg.
+(8) Az újrahasznosításról a (7) bekezdésben meghatározott bejelentéstől számított 15 napon belül, bejelentés hiányában legkésőbb a (6) bekezdés szerinti határozatban meghatározott határidő elteltét követő 30 napon belül az ingatlanügyi hatóság helyszíni ellenőrzés során győződik meg.
 
 (9) Ha a helyszíni ellenőrzés során megállapításra kerül, hogy a terület újrahasznosítása a (6) bekezdés szerinti határozatban előírtak szerint valósult meg, az ingatlanügyi hatóság az újrahasznosítást határozattal elfogadja, amelyben megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát.
 
@@ -137,7 +138,7 @@ a termőföld védelméről
 
 6/A. § (1) Ha az ingatlanügyi hatóság hivatalból vagy más eljárás kapcsán észleli, hogy az igénybevevő az újrahasznosítást előzetes bejelentés hiányában, illetve a bejelentésnek az ingatlanügyi hatóság általi jóváhagyása nélkül valósította meg, az ingatlanügyi hatóság – az újrahasznosításról való tudomásszerzést követő 15 napon belül – határidő megjelölésével felhívja az igénybevevőt, hogy az újhasznosítással érintett földrészletre vonatkozóan dokumentálja az újrahasznosítás megvalósítása érdekében elvégzett munkafolyamatokat, az újrahasznosítással kialakult új terepviszonyokat, valamint csatolja az újrahasznosított terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból nyomtatott olyan méretarányú térképmásolatot, amelynek tartama áttekinthető és tartalmazza a méretarány tényezőt.
 
-(2) Az (1) bekezdésben meghatározott dokumentumok benyújtásától számított 30 napon belül az ingatlanügyi hatóság a talajvédelmi hatósággal közös helyszíni ellenőrzést tart.
+(2) Az (1) bekezdésben meghatározott dokumentumok benyújtásától számított 30 napon belül az ingatlanügyi hatóság helyszíni ellenőrzést tart.
 
 (3) Az ingatlanügyi hatóság földvédelmi bírság kiszabása mellett dönt az újrahasznosítás elfogadásáról és megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát, vagy ennek hiányában a 6. § (10) bekezdésében meghatározottak szerint a további munkák előírásáról dönt.
 
@@ -162,17 +163,19 @@ a termőföld védelméről
 
 (1a) A földvédelmi eljárás ügyintézési határideje 30 nap.
 
-(2) Az ingatlanügyi hatóság a földvédelmi eljárás során minden esetben helyszíni szemle alapján dönt. A helyszíni szemlén részt vevő szakhatóságok az állásfoglalásukat a helyszíni szemléről felvett jegyzőkönyvbe is foglalhatják.
+(2) Az ingatlanügyi hatóság a földvédelmi eljárás, illetve a földvédelmi szakkérdés vizsgálata során minden esetben helyszíni szemle alapján dönt. A helyszíni szemlén részt vevő szakhatóságok az állásfoglalásukat a helyszíni szemléről felvett jegyzőkönyvbe is foglalhatják.
 
-(3) A hivatalból indult, illetőleg folytatott földvédelmi eljárás során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek. E bekezdés szerinti határidőre meg nem fizetett egyéb eljárási költség adók módjára behajtandó köztartozás.
+(3) A hivatalból indult, illetőleg folytatott földvédelmi eljárás, illetve a földvédelmi szakkérdés vizsgálata során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek. E bekezdés szerinti határidőre meg nem fizetett egyéb eljárási költség adók módjára behajtandó köztartozás.
 
-8. § (1) Ha más hatóságok engedélyezési eljárásaiban az ingatlanügyi hatóság szakhatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatni, hogy az engedélyezési eljárás alá eső tevékenység végzése, létesítmény elhelyezése, jogosultság gyakorlása lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen.
+8. § (1) Ha az ingatlanügyi hatóság földvédelmi szakkérdést vizsgál vagy más hatóságok engedélyezési eljárásaiban földvédelmi szakhatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatni, hogy az engedélyezési eljárás alá eső tevékenység végzése, létesítmény elhelyezése, jogosultság gyakorlása lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen.
 
-(2) A szakhatósági állásfoglalás kialakítása során figyelemmel kell lenni továbbá arra, hogy a szakhatósági eljárás tárgyát képező földrészletekkel szomszédos termőföldek megfelelő mezőgazdasági hasznosítását a tervezett tevékenység, létesítmény ne akadályozza.
+(2) A szakhatósági állásfoglalás kialakítása, illetve a földvédelmi szakkérdés vizsgálata során figyelemmel kell lenni továbbá arra, hogy a szakhatósági eljárás tárgyát képező földrészletekkel szomszédos termőföldek megfelelő mezőgazdasági hasznosítását a tervezett tevékenység, létesítmény ne akadályozza.
 
 (3) A szakhatósági hozzájárulást meg kell tagadni, ha az engedélyezés iránti kérelem átlagosnál jobb minőségű termőföldet érint, azonban a tervezett tevékenység végzésére, létesítmény elhelyezésére, jogosultság gyakorlására hasonló körülmények és feltételek esetén átlagos minőségű vagy átlagosnál gyengébb minőségű termőföldeken is sor kerülhet. A külfejtéses bányászati tevékenységgel összefüggő hatósági eljárásban való szakhatósági közreműködés esetén akkor is meg kell tagadni a szakhatósági hozzájárulást, ha a homok, kavics vagy agyag ásványi nyersanyag kutatására vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmet vagy a bányatelek megállapítása iránti kérelmet olyan településen fekvő termőföldre nyújtották be, amelynek külterületén lévő földrészletek összterületének több mint 25%-ára a bányatelek jogi jelleg be van jegyezve az ingatlan-nyilvántartásban.
 
 (4) Az ingatlanügyi hatóság előzetes szakhatósági állásfoglalást nem ad ki.
+
+8/A. § Földvédelmi szakkérdés vizsgálata során a 8. § (1)–(3) bekezdésében foglaltakat alkalmazni kell.
 
 ### A termőföld (időleges, illetőleg végleges) más célú hasznosítására vonatkozó közös szabályok
 
@@ -260,7 +263,7 @@ a termőföld védelméről
 
 (4) Az engedély jogosultja az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
-(5) Az eredeti állapot helyreállítását az ingatlanügyi hatóság a talajvédelmi hatósággal közös helyszíni ellenőrzéssel állapítja meg.
+(5) Az eredeti állapot helyreállítását – a (4) bekezdés szerinti bejelentést követő 15 napon belül – az ingatlanügyi hatóság helyszíni ellenőrzéssel állapítja meg.
 
 (6) Ha a helyszíni ellenőrzés során megállapításra kerül, hogy az eredeti állapot helyreállására a (2) bekezdés szerinti határozatban előírtak szerint került sor, az ingatlanügyi hatóság az eredeti állapot helyreállítását határozattal elfogadja, ezzel egyidejűleg rendelkezik a fizetendő földvédelmi járulékról és – ha e törvény úgy rendelkezik – a bírság megfizetéséről.
 
@@ -288,7 +291,7 @@ a termőföld védelméről
 
 (5) Ha a (4) bekezdés a) pontja szerinti iratok valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, elegendő a korábbi benyújtásra, és a korábbi ügy ügyiratszámára való hivatkozással arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratokban szereplő adatok a bejelentés időpontjáig nem változtak meg.
 
-(6) Az ingatlanügyi hatóság a bejelentésben foglaltakat megvizsgálja. Ha a vizsgálat eredményeként megállapítja, hogy a más célú hasznosítás engedélyköteles lett volna, megindítja az engedély nélküli más célú hasznosítás esetére irányadó eljárást.
+(6) Az ingatlanügyi hatóság a bejelentésben foglaltakat megvizsgálja. Ha a vizsgálat eredményeként megállapítja, hogy a bejelentés megfelel az (1)–(5) bekezdésben foglaltaknak, a bejelentés elfogadásáról értesíti a bejelentőt. Ha a vizsgálat eredményeként azt állapítja meg, hogy más célú hasznosítás engedélyköteles lett volna, megindítja az engedély nélküli más célú hasznosítás esetére irányadó eljárást.
 
 (7) Az igénybevevő – a (3) bekezdés d) pontjában meghatározott eset kivételével – az eredeti állapot helyreállítását, annak elvégzését követő 8 napon belül köteles az ingatlanügyi hatóságnak bejelenteni.
 
@@ -297,7 +300,7 @@ a termőföld védelméről
 - a) a (7) bekezdés szerinti bejelentésben megjelölt időpontot,
 - b) a (3) bekezdés d) pontjában meghatározott esetben a bejelentés beérkezését
 
-követő 15 napon belül a talajvédelmi hatósággal közös helyszíni szemle lefolytatásával ellenőrzi.
+követő 15 napon belül helyszíni szemle lefolytatásával ellenőrzi.
 
 (9) Ha az ingatlanügyi hatóság a helyszíni ellenőrzés során megállapítja, hogy
 
@@ -316,7 +319,7 @@ követő 15 napon belül a talajvédelmi hatósággal közös helyszíni szemle 
 
 esetében.
 
-14/C. § (1) Az ingatlanügyi hatóság a haváriával közvetlenül érintett termőföldön – a katasztrófavédelmi szervnek, a környezetvédelmi hatóságnak, illetve a vízügyi hatóságnak az élet, illetve anyagi javak mentésére, valamint a védekezésre irányuló intézkedéseinek befejezésétől számított 15 napon belül – helyszíni szemlét tart. Az ingatlanügyi hatóság a helyszíni szemle alapján határidő megjelölésével elrendeli a haváriával közvetlenül érintett terület eredeti állapotának helyreállítását vagy kivételesen az újrahasznosítását. A haváriával érintett terület újrahasznosítását akkor lehet elrendelni, ha az ingatlanügyi hatóság a helyszíni szemle, valamint a rendelkezésére álló információk alapján megállapítja, hogy a termőföld eredeti állapotába való helyreállítása lehetetlen.
+14/C. § (1) Az ingatlanügyi hatóság a haváriával közvetlenül érintett termőföldön – az élet, illetve anyagi javak mentésére, valamint a védekezésre irányuló intézkedések befejezésétől számított 15 napon belül – helyszíni szemlét tart. Az ingatlanügyi hatóság a helyszíni szemle alapján határidő megjelölésével elrendeli a haváriával közvetlenül érintett terület eredeti állapotának helyreállítását vagy kivételesen az újrahasznosítását. A haváriával érintett terület újrahasznosítását akkor lehet elrendelni, ha az ingatlanügyi hatóság a helyszíni szemle, valamint a rendelkezésére álló információk alapján megállapítja, hogy a termőföld eredeti állapotába való helyreállítása lehetetlen.
 
 (2) A termőföld eredeti állapota helyreállításának elrendelése esetén a termőföld időleges más célú hasznosításának engedélyezésére vonatkozó szabályokat kell alkalmazni azzal, hogy földvédelmi járulék kiszabásának nincs helye. A terület újrahasznosításának elrendelése esetén a 6/A. § (1)–(3) bekezdésében foglaltakat kell alkalmazni azzal, hogy földvédelmi bírság kiszabásának nincs helye.
 
@@ -375,7 +378,7 @@ esetében.
 
 (4) A (3) bekezdésben foglalt feltétel fennállása esetén sem engedélyezhető a termőföld végleges más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.
 
-(5) Ha a végleges más célú hasznosítással érintett területet a jogosult a bányafelügyelet jogerős határozata alapján úgy állítja helyre, hogy ennek eredményeként a végleges más célú hasznosítással érintett terület egésze vagy annak egy része e törvény szerinti újrahasznosítása valósul meg, a jogosult köteles az újrahasznosítást az ingatlanügyi hatóságnak bejelenteni.
+(5) Ha a végleges más célú hasznosítással érintett területet a jogosult a cél-kitermelőhely megszüntetése esetére irányadó szabályok alapján kiadott jogerős határozat előírásainak megfelelően úgy állítja helyre, hogy ennek eredményeként a végleges más célú hasznosítással érintett terület egésze vagy annak egy része e törvény szerinti újrahasznosítása valósul meg, a jogosult köteles az újrahasznosítást az ingatlanügyi hatóságnak bejelenteni.
 
 (6) Az újrahasznosítás bejelentése esetén az eljárásra a 6/A. § (1)–(3) bekezdésében foglaltakat kell alkalmazni azzal, hogy a 6/A. § (3) bekezdése szerinti fölvédelmi bírság kiszabásának nincs helye.
 
@@ -420,7 +423,7 @@ esetében.
 
 (2) Az igénybevevő az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
-(3) A bejelentés alapján az ingatlanügyi hatóság a talajvédelmi hatóság bevonásával helyszíni szemlét tart.
+(3) A bejelentés alapján az ingatlanügyi hatóság helyszíni szemlét tart.
 
 (4) Az ingatlanügyi hatóság az eredeti állapot helyreállításának elfogadása esetén földvédelmi bírság és a termőföld más célú hasznosításáért járó földvédelmi járulék megfizetésére kötelezi az igénybevevőt. Az eredeti állapot helyreállításának el nem fogadása esetén újabb határidő megjelölésével a helyreállítás érdekében szükséges további munkák elvégzését írja elő.
 
@@ -437,36 +440,7 @@ esetében.
 
 (3) Az (1) bekezdésben foglaltak fennállása esetén az ingatlanügyi hatóság – a termőföld más célú hasznosításához való hozzájárulás megadására irányuló eljárás lefolytatása nélkül – az eredeti állapot helyreállítására kötelező határozatának hatályon kívül helyezése mellett az engedély nélkül igénybevett termőföld más célú hasznosításának folytatásához hozzájárul, valamint rendelkezik a fizetendő földvédelmi járulékról és bírságról.
 
-### A földvédelmi és az újrahasznosítási eljárás igazgatási szolgáltatási díja
-
-18. § (1) Az első fokon kérelemre, illetve bejelentésre induló földvédelmi eljárásért – ideértve az ingatlanügyi hatóságnak a külön jogszabály szerinti, a termőföld mennyiségi védelmének érvényre juttatásával kapcsolatos szakhatósági közreműködését is –, valamint a földvédelmi eljárásban igénybe vehető valamennyi jogorvoslati eljárásért a (2) bekezdésben foglaltak alapján, a (3) bekezdésben meghatározott összegű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
-
-(2) A díj mértéke – a (4) bekezdésben meghatározott eset kivételével – az eljárás tárgyát képező földrészletek darabszáma alapján, a (3) bekezdésben meghatározott összegű, de legfeljebb 120 000 Ft.
-
-(3) A díj összege
-
-- a) 1 földrészlet esetén 30 000 Ft,
-- b) 2–5 földrészlet esetén az első földrészlet után fizetendő 30 000 Ft, és a további földrészletek után egyenként további 7000 Ft,
-- c) 6–25 földrészlet esetén az első 5 földrészlet után fizetendő 58 000 Ft, és a további földrészletek után egyenként további 2000 Ft,
-- d) 26 vagy annál több földrészlet esetén az első 25 földrészlet után fizetendő 98 000 Ft, és a további földrészletek után egyenként további 1000 Ft.
-
-(4) A 13/A. §-ban foglalt jogorvoslati eljárásban a díj mértéke a határozatban szereplő földrészletek közül a fellebbezéssel érintett földrészletek darabszáma alapján számított, a (3) bekezdésben meghatározott összegű.
-
-(5) Az első fokon bejelentésre indult újrahasznosítási eljárásért, valamint az újrahasznosítási eljárásban igénybe vehető valamennyi jogorvoslati eljárásért a (2) bekezdésben meghatározott módon, a (3) bekezdésben meghatározott összegű díjat kell fizetni.
-
-19. § (1) A díjat a földvédelmi eljárás lefolytatását kérelmezőnek, illetve bejelentőnek – ideértve azon eljárás kérelmezőjét is, mely eljárásban az ingatlanügyi hatóság szakhatóságként működik közre – kell megfizetnie.
-
-(2) A díjfizetési kötelezettség – ideértve a jogorvoslati eljárást is – kizárólag az ingatlanügyi hatóságnál a kérelem, illetve a bejelentés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető. A díjnak az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, illetve a bejelentés előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot.
-
-(3) A díj megfizetésének elmulasztása esetén az ingatlanügyi hatóság a kérelem, illetve a bejelentés benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni és igazolni annak megfizetését.
-
-(4)
-
-20. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a felügyeleti szerv vagy a bíróság által felülvizsgált határozat az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
-
-(2) Ha a kérelem, illetve a bejelentés, valamint a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
-
-(3) A visszatérítést a többletbefizetés megállapítását követően hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
+18–20. §
 
 ### A FÖLDVÉDELMI JÁRULÉK ÉS BÍRSÁG
 
@@ -1055,8 +1029,9 @@ ellehetetleníti.
 (3) Felhatalmazást kap a földügyért felelős miniszter, hogy
 
 - a) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben, valamint
-- b) a földvédelmi hatósági eljárás és a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+- b) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 - c) a gyümölcs termőhelyi kataszteri eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben,
+- d) a földvédelmi eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 
 kiadott rendeletben határozza meg.
 

@@ -635,7 +635,8 @@ nem minősülő egyéb helyen
 - g) a büntetőeljárásról szóló törvényben meghatározott, a terhelt mozgását nyomon követő technikai eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.
 - h) a szabálysértést felszólítás ellenére folytató személy előállítása céljából;
 - i) személy- és létesítménybiztosítási intézkedés [46. § (1) bekezdés c) pont] végrehajtására;
-- j) ha az előállítás a törvényben meghatározott egyéb okból szükséges.
+- j) ha az előállítás a törvényben meghatározott egyéb okból szükséges;
+- k) a Bv. tv.-ben meghatározott, az elítélt mozgását nyomon követő elektronikus távfelügyeleti eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.
 
 (2) A végrehajtási eljárásban a rendőr kirendelésének törvényességéért a végrehajtást elrendelő szerv vezetője a felelős.
 
@@ -1535,7 +1536,7 @@ részére.
 
 - a) beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
 - b) körözési nyilvántartási rendszer,
-- c) kényszerintézkedés hatálya alatt állók nyilvántartása,
+- c) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása,
 - d) útiokmány-nyilvántartás,
 - e) személyiadat- és lakcímnyilvántartás,
 - f) személyazonosító igazolványokra vonatkozó nyilvántartás,

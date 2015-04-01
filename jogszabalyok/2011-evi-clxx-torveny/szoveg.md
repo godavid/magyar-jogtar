@@ -330,7 +330,7 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 - a) nem áll végelszámolás alatt, vonatkozásában csődeljárás elrendeléséről szóló bírósági végzést nem tettek közzé vagy ellene felszámolási eljárást jogerősen nem rendeltek el,
 - b) nem áll a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény alapján a bíróság jogerős ítéletében megállapított szankció hatálya alatt és erre irányuló eljárás sem folyik ellene,
-- c) tulajdonjoga az életjáradékra jogosultaktól megvásárolt valamennyi ingatlanra a földhivatali nyilvántartásban szabályszerűen bejegyzésre került, és
+- c) tulajdonjoga az életjáradékra jogosultaktól megvásárolt valamennyi ingatlanra az ingatlan-nyilvántartásban szabályszerűen bejegyzésre került, és
 - d) az életjáradék nyújtójának piaci értékét független, nemzetközileg elismert könyvvizsgáló értékelő meghatározta, és a vételár ezt az értéket nem haladja meg.
 
 (2)

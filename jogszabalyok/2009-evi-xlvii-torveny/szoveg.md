@@ -112,9 +112,9 @@ azonosítása.
 
 - a) a bűntettesek nyilvántartása,
 - b) a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása,
-- c) a büntetőeljárás hatálya alatt állók nyilvántartása,
-- d) a kényszerintézkedés hatálya alatt állók nyilvántartása és,
-- e) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása.
+- c) a büntetőeljárás hatálya alatt állók nyilvántartása, és
+- d) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása.
+- e)
 
 8. § (1) A 7. §-ban meghatározott nyilvántartások egymással nem kapcsolhatók össze.
 
@@ -352,20 +352,25 @@ számított három évig kell nyilvántartani.
 - e) a vádemelés időpontját, a vád tárgyává tett bűncselekmény megnevezését, az 1978. évi IV. törvény vagy a Btk. szerinti minősítését, a vádirat számát és keltét;
 - f) vádemelés elhalasztása esetén az elhalasztás tényét, okát, időtartamát, az erről szóló határozat számát és keltét;
 - g) a nyomozás vagy az eljárás felfüggesztése esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét, valamint a nyomozás vagy az eljárás továbbfolytatásának időpontját;
-- h) a büntetőügy iktatószámát;
-- i) a büntetőügyek egyesítésének, elkülönítésének, áttételének tényét,
-- j) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
-- k) a szakrendszeri azonosító kódot.
+- h) az előzetes letartóztatás, a lakhelyelhagyási tilalom, a házi őrizet, a távoltartás, az ideiglenes kényszergyógykezelés elrendelésének tényét, valamint azt a tényt, hogy az előzetes letartóztatás óvadék letétele miatt szűnt meg, a kényszerintézkedés időtartamát, megszűnése vagy megszüntetése tényét, a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, megszüntetéséről határozatot hozó bíróság megnevezését, határozatának számát és keltét, a kényszerintézkedés megszüntetéséről határozatot hozó ügyészség megnevezését, határozatának számát és keltét;
+- i) a büntetőügy iktatószámát;
+- j) a büntetőügyek egyesítésének, elkülönítésének, áttételének tényét, az erről szóló határozat számát és keltét;
+- k) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
+- l) a szakrendszeri azonosító kódot.
 
-24. § (1) A személyazonosító adatokat, valamint a 23. § c)–e) és h) pontjában meghatározott adatokat az a nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel, amelyik az érintettel szemben eljár.
+24. § (1) A személyazonosító adatokat, valamint a 23. § c)–e) és i) pontjában meghatározott adatokat az a nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel, amelyik az érintettel szemben eljár.
 
 (2) A 23. § f) pontjában meghatározott adatokat a határozatot hozó ügyészség közli a bűnügyi nyilvántartó szervvel.
 
 (3) A 23. § g) pontjában meghatározott adatokat a nyomozás felfüggesztése esetén a határozatot hozó nyomozó hatóság, ügyészség, az eljárás felfüggesztése esetén a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
-(4) A 23. § i) pontjában meghatározott adatokat a büntetőügyek egyesítéséről, elkülönítéséről vagy áttételéről határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a bűnügyi nyilvántartó szervvel.
+(4) A személyazonosító adatokat, valamint a 23. § c), h) és i) pontjában meghatározott adatokat a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, valamint megszüntetéséről határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
-(5) A büntetőeljárás jogerős befejezésének időpontját a bíróság, a nyomozás megszüntetésének időpontját a határozatot hozó nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel.
+(5) Ha a kényszerintézkedést az ügyészség szünteti meg, a személyazonosító adatokat, a 23. § c) és i) pontjában meghatározott adatokat, valamint a kényszerintézkedés megszüntetése tényét az erről határozatot hozó ügyészség közli a bűnügyi nyilvántartó szervvel.
+
+(6) A 23. § j) pontjában meghatározott adatokat a büntetőügyek egyesítéséről, elkülönítéséről vagy áttételéről határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a bűnügyi nyilvántartó szervvel.
+
+(7) A büntetőeljárás jogerős befejezésének időpontját a bíróság, a nyomozás megszüntetésének időpontját a határozatot hozó nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel.
 
 25. § A büntetőeljárás hatálya alatt állók nyilvántartásába felvett adatokat
 
@@ -375,27 +380,7 @@ számított három évig kell nyilvántartani.
 
 kell nyilvántartani.
 
-### A kényszerintézkedés hatálya alatt állók nyilvántartása
-
-26. § A kényszerintézkedés hatálya alatt állók nyilvántartásában szereplő adatok kezelésének célja az érintett, továbbá mások jogainak és biztonságának védelme, a büntetőeljárások gyors és hatékony lefolytatásának elősegítése.
-
-27. § A kényszerintézkedés hatálya alatt állók nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet, távoltartást, ideiglenes kényszergyógykezelést rendeltek el, továbbá akinek előzetes letartóztatása óvadék letétele miatt szűnt meg.
-
-28. § A kényszerintézkedés hatálya alatt állók nyilvántartása tartalmazza
-
-- a) a kapcsolati kódot;
-- b) az elrendelt kényszerintézkedést, annak időtartamát, megszűnése tényét;
-- c) az elrendelő határozat szerinti bűncselekmény
-  - ca) megnevezését,
-  - cb) 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
-  - cc) elkövetésének helyét, idejét;
-- d) a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról határozatot hozó bíróság megnevezését, határozatának számát és keltét.
-
-29. § (1) A személyazonosító adatokat, valamint a 28. § b)–d) pontjában meghatározott adatokat – a (2) bekezdésben meghatározott kivétellel – a kényszerintézkedés elrendeléséről, valamint meghosszabbításáról határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
-
-(2) A kényszerintézkedés megszüntetését a határozatot hozó bíróság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
-
-30. § A kényszerintézkedés hatálya alatt állók nyilvántartásába felvett adatokat a kényszerintézkedés megszűnéséig vagy megszüntetéséig kell nyilvántartani.
+#### 26–30. §
 
 ### A külföldre utazási korlátozás hatálya alatt állók nyilvántartása
 
@@ -433,7 +418,7 @@ kell nyilvántartani.
 
 30/D. § (1) A személyazonosító adatokat, valamint a 30/C. § b), c), d), e), f), h) pontjában, i) pont ia)–ic) alpontjában és l) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely e törvény rendelkezései szerint
 
-- a) kényszerintézkedés elrendelése esetén a kényszerintézkedés hatálya alatt állók nyilvántartásába,
+- a) kényszerintézkedés elrendelése esetén a büntetőeljárás hatálya alatt állók nyilvántartásába,
 - b) szabadságvesztés büntetés kiszabása esetén a bűntettesek nyilvántartásába,
 - c) kényszergyógykezelés vagy javítóintézeti nevelés elrendelése esetén a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába
 
@@ -453,7 +438,7 @@ teljesítendő adatközlésre köteles.
 
 (7) A bűnügyi nyilvántartó szerv a külföldre utazási korlátozás hatálya alatt állók nyilvántartásába az adatokat
 
-- a) kényszerintézkedés esetén a kényszerintézkedés hatálya alatt állók nyilvántartásába,
+- a) kényszerintézkedés esetén a büntetőeljárás hatálya alatt állók nyilvántartásába,
 - b) szabadságvesztés büntetés esetén a bűntettesek nyilvántartásába,
 - c) kényszergyógykezelés és javítóintézeti nevelés esetén a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába
 
@@ -497,11 +482,11 @@ kell nyilvántartani, és – amennyiben ilyen adattovábbítást kell teljesít
 
 33/A. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a tagállami ítéletek nyilvántartása adatainak módosításakor vagy javításakor, valamint a kérelemre történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal.
 
-(2) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján az anyakönyvi ügyekért felelős miniszter által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartás hatálya alá nem tartozó személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
+(2) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a központi anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartás hatálya alá nem tartozó személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
 
 (3) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul átvezeti a személyazonosító adatokban bekövetkezett változást.
 
-(4) A (2) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokat haladéktalanul törli, ha az érintett adatait a tagállami ítéletek nyilvántartásában nem kezeli.
+(4) A (2) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a központi anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett adatait a tagállami ítéletek nyilvántartásában nem kezeli.
 
 (5) Ha az elítélt személy személyazonossága az Európai Unió más tagállamának kijelölt központi hatósága által a bűnügyi nyilvántartó szerv részére megküldött személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, a bűnügyi nyilvántartó szerv – ha az Európai Unió más tagállamának kijelölt központi hatósága erre vonatkozóan küldött adatot –
 
@@ -794,7 +779,7 @@ miatt indítottak büntetőeljárást.
 - b) a közúti közlekedésrendészeti feladatai ellátása során a gépjárművezetéstől eltiltás hatálya alatt állás ellenőrzése céljából
   - ba) a 11. § (1) bekezdés c), e), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
   - bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
-- c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 28. § b) és c) pontjában meghatározott adatok;
+- c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok;
 - d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
   - da) a 11. § (1) bekezdés ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - db) a 16. § (1) bekezdés ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
@@ -839,8 +824,8 @@ miatt indítottak büntetőeljárást.
 
 - a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
 - b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
-- c) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
-- d) a 28. § b) és c) pontjában meghatározott adatok.
+- c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
+- d)
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -874,8 +859,8 @@ miatt indítottak büntetőeljárást.
 
 - a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 - b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
-- c) a 23. § c), f) és g) pontjában meghatározott adatok,
-- d) a 28. § b) és c) pontjában meghatározott adatok.
+- c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
+- d)
 
 ### Az adatigénylés alapján történő adattovábbítás követelményei
 
@@ -1051,7 +1036,7 @@ MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
 
 ### Kérelemre történő adattovábbítás az Európai Unió más tagállamának, valamint harmadik országnak
 
-80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül a mellékletben meghatározott formanyomtatványon adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a kényszerintézkedés hatálya alatt állók nyilvántartásának, valamint a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
+80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül a mellékletben meghatározott formanyomtatványon vagy elektronikus úton adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
 
 (1a) Ha az (1) bekezdés szerinti adattovábbítási kérelem teljesítéséhez a kérelemben foglaltakon túl további adat szükséges, a bűnügyi nyilvántartó szerv a kérelem kézhezvételét követően haladéktalanul további tájékoztatást kér az adattovábbítási kérelmet benyújtó, az Európai Unió más tagállama kijelölt központi hatóságától.
 
@@ -1125,7 +1110,7 @@ továbbítja.
 
 - a) a nemzetközi bűnügyi jogsegélyről szóló törvény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján a bűnügyi jogsegély teljesítésére felhatalmazott magyar hatóság törvénnyel kihirdetett nemzetközi szerződésen vagy az Európai Unió kötelező jogi aktusán alapuló bűnügyi jogsegélykérelem teljesítése céljából a törvényben, valamint a nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott adatkörben,
 - b) a Nemzetközi Bűnügyi Együttműködési Központ, valamint a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény alapján közvetlen információcserére feljogosított magyar bűnüldözési feladatot ellátó szerv a bűnüldöző szervek nemzetközi együttműködésének tárgyában létrehozott, törvénnyel kihirdetett nemzetközi szerződés alapján, valamint az Európai Unió kötelező jogi aktusain alapuló információcsere teljesítése céljából a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, az Európai Unió kötelező jogi aktusában, továbbá a nemzetközi szerződésben meghatározott adatkörben,
-- c) a SIRENE Iroda a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény szerinti kiegészítő információk beszerzése és továbbítása céljából a bűntettesek nyilvántartásába, a büntetőeljárás hatálya alatt állók nyilvántartásába, a kényszerintézkedés hatálya alatt állók nyilvántartásába, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett adatokból.
+- c) a SIRENE Iroda a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény szerinti kiegészítő információk beszerzése és továbbítása céljából a bűntettesek nyilvántartásába, a büntetőeljárás hatálya alatt állók nyilvántartásába, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett adatokból.
 
 ### Automatikus találati adathozzáférés
 

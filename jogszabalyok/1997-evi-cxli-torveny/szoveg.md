@@ -703,7 +703,7 @@ kell csatolnia.
 - e) a földrészlet tulajdonosának, ha egyéb önálló ingatlan tulajdonjogát ruházták át,
 - f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezetnek és mindazoknak, akiknek jogát az új bejegyzés érinti, kivéve ha az ingatlanügyi hatóság hatósági határozat alapján vagy a bíróság megkeresésére a 17. § (1) bekezdés 1–10. pontjában meghatározott tényt jegyezte be az ingatlan-nyilvántartásba,
 - g) telekalakítás esetén az építésügyi hatóság részére,
-- h) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Fftv.) meghatározott külföldi jogi vagy természetes személy által az Fftv. hatálya alá nem tartozó ingatlannak a megszerzése esetén az illetékes megyei (fővárosi) kormányhivatalnak,
+- h) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Fftv.) meghatározott külföldi jogi vagy természetes személy által az Fftv. hatálya alá nem tartozó ingatlannak a megszerzése esetén az illetékes fővárosi és megyei kormányhivatalnak,
 - i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 - j) ha az érdekelt kiskorú vagy gondnokság alatt áll, a gyámhatóságnak,
 - k) felszámolás vagy végelszámolás alatt álló jogosult esetében a felszámolónak, illetve a végelszámolónak,
@@ -732,7 +732,7 @@ kell csatolnia.
 
 52/A. § (1) Kézbesítettnek kell tekinteni a határozatot a kézbesítési címre, ennek hiányában az ingatlan-nyilvántartásban vagy a bejegyzés alapjául szolgáló okiratban megjelölt lakcímre történő postai kézbesítés második megkísérlésének, illetőleg a második figyelmeztetés postafiókba (postaládába) helyezésének napját követő ötödik munkanapon.
 
-(2) Az az adott ügyben érintett ügyfél, akinek jogi érdeke fűződik a földhivatali határozat kézbesítéséhez, saját költségére kérheti a határozatot tartalmazó irat végrehajtói kézbesítését az ingatlan tulajdonosa (érintett tulajdonosa) és annak a részére, akinek bejegyzett joga keletkezett, módosult vagy megszűnt. A végrehajtói kézbesítés eredményéről a kézbesítést kérő és a földhivatal kap értesítést. Ha a végrehajtói kézbesítés során a címzett az irat másolatát átvette, tizenöt napon belül kezdeményezheti a kézbesítési vélelem megdöntését.
+(2) Az az adott ügyben érintett ügyfél, akinek jogi érdeke fűződik a az ingatlanügyi hatóság által hozott határozat kézbesítéséhez, saját költségére kérheti a határozatot tartalmazó irat végrehajtói kézbesítését az ingatlan tulajdonosa (érintett tulajdonosa) és annak a részére, akinek bejegyzett joga keletkezett, módosult vagy megszűnt. A végrehajtói kézbesítés eredményéről a kézbesítést kérő és az ingatlanügyi hatóság kap értesítést. Ha a végrehajtói kézbesítés során a címzett az irat másolatát átvette, tizenöt napon belül kezdeményezheti a kézbesítési vélelem megdöntését.
 
 (3) Az ingatlan-nyilvántartási iratok kézbesítésére egyébként a hivatalos iratok kézbesítésének egyszerűsítéséről, illetőleg a postai tevékenységről szóló jogszabály az irányadó.
 
@@ -1082,7 +1082,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (3) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a számítógépes adatbázisból lekérdezés útján szolgáltatható ingatlan-nyilvántartási adatok szolgáltatására, az adatszolgáltatás igazgatási szolgáltatási díjának mértékére és kezelésére, megfizetésének módjára, valamint az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatlakozásra és a számítógépes hálózaton keresztül történő adatszolgáltatásra vonatkozó részletes szabályokat.
 
-(3a) Felhatalmazást kap a miniszter, hogy a részadat-szolgáltatás igénybevételére jogosultak körére, díjának mértékére, valamint annak az ingatlanügyi hatóságok és a földmérési és térinformatikai államigazgatási szerv közötti megosztására, a díjfizetés és a díj visszatérítésének módjára vonatkozó szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(3a) Felhatalmazást kap a miniszter, hogy a részadat-szolgáltatás igénybevételére jogosultak körére, díjának mértékére, valamint annak az ingatlanügyi hatóságok és a földmérési és térinformatikai államigazgatási szerv közötti megosztására, a díjfizetés és a díj visszatérítésének módjára vonatkozó szabályokat a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 (3b)
 
