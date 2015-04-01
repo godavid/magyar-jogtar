@@ -2294,7 +2294,7 @@ költségének fedezetét.
 (3) A Tanács tagja
 
 - a) az adott térség megyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
-- b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy képviselője, valamint ezen túlmenően a térségben működő népegészségügyi szakigazgatási szervek egy közös képviselője,
+- b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy népegészségügyi feladatokért felelős képviselője,
 - c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 - d) a térségben található járásokban levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
 - e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
@@ -3377,10 +3377,10 @@ megítéléséhez szükséges.
 (4) Különleges jogrenden kívüli eseményt
 
 - a) ha a (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet
-  - aa) egy megye területét érinti – a megyei vagy fővárosi tisztifőorvos javaslatára a megyei vagy fővárosi védelmi bizottság elnöke,
+  - aa) egy megye területét érinti – az egészségügyi államigazgatási szerv javaslatára a megyei vagy fővárosi védelmi bizottság elnöke,
   - ab) több megyét érint, az országos tisztifőorvos javaslatára a miniszter,
 - b) ha a (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet
-  - ba) egy megye területét érinti – az országos tisztifőorvos egyetértésével a megyei vagy fővárosi tisztifőorvos,
+  - ba) egy megye területét érinti – az országos tisztifőorvos egyetértésével az egészségügyi államigazgatási szerv,
   - bb) több megyét érint, az országos tisztifőorvos javaslatára a miniszter
 
 minősíthet egészségügyi válsághelyzetnek.
@@ -3391,7 +3391,7 @@ minősíthet egészségügyi válsághelyzetnek.
 
 (2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendelésére a megyei tisztifőorvos rendelkezése alapján az egészségügyi szolgáltató vezetője, ez utóbbi hiányában a megyei tisztifőorvos jogosult. Több megye érintettsége esetén a kirendeléseket az országos tisztifőorvos koordinálja.
+(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendelésére az egészségügyi államigazgatási szerv rendelkezése alapján az egészségügyi szolgáltató vezetője, ez utóbbi hiányában az egészségügyi államigazgatási szerv jogosult. Több megye érintettsége esetén a kirendeléseket az országos tisztifőorvos koordinálja.
 
 (4) Ha az egészségügyi válsághelyzet több megyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
@@ -3437,7 +3437,7 @@ minősíthet egészségügyi válsághelyzetnek.
 (2) Az egészségügyi válsághelyzet kezeléséhez szükséges feladatok helyi szintű összehangolt koordinálását és irányítását
 
 - a) a 228. § (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén a megyei, fővárosi védelmi bizottság,
-- b) a 228. § (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén a megyei tisztifőorvos
+- b) a 228. § (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén az egészségügyi államigazgatási szerv
 
 látja el.
 

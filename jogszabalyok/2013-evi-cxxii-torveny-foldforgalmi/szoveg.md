@@ -599,9 +599,9 @@ az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudo
 - a) kizárólag határidőn túl érkezett a jegyzőhöz elfogadó jognyilatkozat, vagy
 - b) a határidőn belül beérkezett valamennyi elfogadó jognyilatkozat hiányos, vagy valótlan tartalmú, és ezáltal egyik sem felel meg az (1) bekezdés c) pontjában foglaltaknak.
 
-(5) Az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén a (3) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a rendelkezésére álló okiratok, és az általa készített jegyzék másolatának megküldésével haladéktalanul megkeresi az erdészeti hatóságot a szakhatósági állásfoglalásának beszerzése céljából. Az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek fennállását vizsgálja.
+(5) Az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén a (3) és (4) bekezdésben meghatározott esetben az eljáró hatóság vizsgálja az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek fennállását.
 
-(6) Ha a (4) bekezdésben foglalt esetek valamelyike áll fenn, az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén az (5) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a mezőgazdasági igazgatási szerv jegyzék nélkül keresi meg az erdészeti hatóságot.
+(6)
 
 52. § (1) A mezőgazdasági igazgatási szerv az e fejezetben meghatározott vizsgálatát köteles azonos szempontok szerint, a jegyzékben szereplő összes előhaszonbérletre jogosult, és a haszonbérleti szerződés szerinti haszonbérlő vonatkozásában elvégezni.
 
@@ -621,7 +621,7 @@ az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudo
   - db) olyan jogi helyzetet nyer, amelynek révén a jövőben az előhaszonbérleti jogát visszaélésszerűen gyakorolhatja, vagy
   - dc) birtokában álló föld jogellenes más célú hasznosítása, vagy a hasznosítási kötelezettség megsértése miatt az ingatlanügyi hatóság – a haszonbérleti szerződés közlését megelőző 5 éven belül – jogerősen földvédelmi bírságot szabott ki;
 - e) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak)nak, illetve a soron következő előhaszonbérletre jogosult(ak)nak, vagy a haszonbérleti szerződés szerinti haszonbérlőnek jogerősen megállapított földhasználati díjtartozása áll fenn;
-- f) az erdőnek minősülő föld haszonbérbe adásához az erdészeti hatóság nem járul hozzá.
+- f) az erdőnek minősülő föld haszonbérbe adása esetén a szerződés nem felel meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételeknek.
 
 (2) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv megtagadhatja a haszonbérleti szerződés jóváhagyását, különösen, ha
 
@@ -774,7 +774,7 @@ ténylegesen és igazoltan felmerülő költségek megtérítése a kötelezette
 
 (4) A 6. és 7. §, a 9–15. §, a 16. § (1) és (4) bekezdése, a 17. §, és a 23–37. § 2014. május 1-jén lép hatályba.
 
-70. § (1) E törvény hatálybalépése előtt megkötött és a földhasználati nyilvántartásba történő bejegyzés végett, az illetékes földhivatalhoz benyújtott haszonbérleti, feles bérleti, részesművelési, szívességi földhasználati szerződések módosítására – a (2) bekezdés szerinti kivétellel – e törvény hatálybalépését megelőző napon hatályos rendelkezéseket kell alkalmazni.
+70. § (1) E törvény hatálybalépése előtt megkötött és a földhasználati nyilvántartásba történő bejegyzés végett, az illetékes járási (fővárosi kerületi) hivatalhoz benyújtott haszonbérleti, feles bérleti, részesművelési, szívességi földhasználati szerződések módosítására – a (2) bekezdés szerinti kivétellel – e törvény hatálybalépését megelőző napon hatályos rendelkezéseket kell alkalmazni.
 
 (2) E törvény hatálybalépése előtt megkötött haszonbérleti, feles bérleti, részesművelési, szívességi földhasználati szerződések módosítására e törvény rendelkezéseit kell alkalmazni, ha a szerződés módosítása a fölhasználati jogosultság időtartamának meghosszabbítására, illetve ha a módosítás a haszonbér mértékének a csökkentésére irányul. E törvény hatálybalépése előtt megkötött haszonkölcsön szerződés időtartamának meghosszabbítása semmis. E törvény hatálybalépésekor fennálló, határozatlan időre vagy határozott időtartamra kötött haszonkölcsön-szerződés 2014. december 31-ével megszűnik.
 

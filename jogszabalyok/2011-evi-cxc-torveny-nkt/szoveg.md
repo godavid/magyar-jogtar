@@ -392,7 +392,7 @@ nyújtható.
 
 (4) A pedagógiai-szakmai szolgáltatások az oktatásért felelős miniszter szakmai irányítása mellett láthatók el. Az oktatásért felelős miniszter által kijelölt intézmény szervezi a nemzetiségi óvodai nevelést, iskolai nevelés-oktatást, kollégiumi nevelést segítő pedagógiai-szakmai szolgáltatásokat, továbbá azokat, amelyek helyi szinten nem szervezhetők meg hatékonyan vagy az ágazati irányítás feladatait segítik.
 
-(5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézmény nyújtja. Az állami fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézménytől veszi igénybe, amely a pedagógiai-szakmai szolgáltatási feladatok ellátásába bevonhatja a (3) bekezdés c) pontjában meghatározott jogi személyeket.
+(5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: hivatal) biztosítja. Az állami fenntartású nevelési-oktatási intézmény, pedagógiai szakszolgálati intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veszi igénybe. Az önkormányzati fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veheti igénybe a hivatal költségvetésében erre a célra szolgáló keret erejéig. A hivatal a pedagógiai-szakmai szolgáltatások ellátásába bevonhat egyes állami intézményfenntartó központ által fenntartott köznevelési intézményeket, a (3) bekezdés c) pontjában meghatározott jogi személyeket, továbbá pedagógusképzést folytató felsőoktatási intézményt.
 
 (5a) Az egyházi és magán köznevelési intézmény a pedagógiai-szakmai szolgáltatást térítésmentesen veheti igénybe olyan pedagógiai-szakmai szolgáltatást nyújtó köznevelési intézménytől, amelynek fenntartója az oktatásért felelős miniszterrel e célból köznevelési szerződést kötött.
 
@@ -2086,6 +2086,13 @@ mindaddig, amíg a köznevelési közfeladat állami intézményfenntartó közp
 (7) A lakóhely, ennek hiányában a tartózkodási hely szerint illetékes települési önkormányzat megtéríti a kötelező felvételt biztosító óvodába való utazás költségeit, továbbá szükség esetén gondoskodik kísérő személyről a gyermek részére, ha az óvoda a településen kívül található, és az óvodába való utaztatást az önkormányzat nem biztosítja. A kötelező felvételt biztosító iskolába való utaztatásról a fenntartó gondoskodik.
 
 76/A. § A Központ együttműködik a települési önkormányzattal a helyi közösségi és kulturális élet feltételeinek biztosítása érdekében oly módon, hogy a használatában vagy vagyonkezelésében lévő önkormányzati tulajdonú ingatlan használatát tanítási időn kívül és a pedagógiai programban, továbbá egyéb jogszabályban meghatározott feladatok végrehajtásának veszélyeztetése nélkül külön megállapodás alapján biztosítja a tulajdonos települési önkormányzat számára.
+
+76/B. § Az állami köznevelési közfeladat ellátásához a hivatalt az általa ellátott pedagógiai-szakmai szolgáltatási feladatok biztosítását szolgáló helyi önkormányzati tulajdonú
+
+- a) önálló ingatlanra és ingó vagyonra vonatkozóan ingyenes vagyonkezelői jog,
+- b) ingatlanrészre és ingó vagyonra vonatkozóan ingyenes használati jog
+
+illeti meg.
 
 #### 45. Az ágazati irányítás, az oktatásért felelős miniszter és a Kormány szabályozási feladatai
 

@@ -56,7 +56,7 @@ amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatároz
 - d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Eb.),
 - e) a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.),
 - f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.),
-- g) a rendszeres gyermekvédelmi kedvezményre jogosultakról a 18/B. § alapján vezetett országos nyilvántartás vezetésével összefüggő rendelkezések kivételével a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), és
+- g) a 18/B. § alapján vezetett országos nyilvántartás vezetésével összefüggő rendelkezések kivételével a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), és
 - h) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
 
 hatálya alá tartozó ellátásokra.
@@ -203,9 +203,9 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (7) A szociális hatáskört gyakorló szervek megkeresésére az állami adóhatóság tizenöt napon belül köteles közölni a szociális ellátást igénylő, valamint – írásbeli felhatalmazás alapján – az egy főre jutó havi jövedelem kiszámításánál figyelembe veendő személy személyi jövedelemadójának alapját.
 
-(8) Ha a 3. § (3) bekezdése szerinti személy esetében a szociális ellátásra való jogosultság elbírálásához az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam, illetve olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, hatáskörrel és illetékességgel rendelkező hatóságának igazolása szükséges, akkor közvetítő szervként a kincstár jár el. A kincstár közvetítői eljárásához a megkereső szervnek meg kell adnia a megkeresendő külföldi hatóság nevét, postacímét, és a pontos kérdést, amelyre választ kíván kapni.
+(8) Ha a 3. § (3) bekezdése szerinti személy esetében a szociális ellátásra való jogosultság elbírálásához az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam, illetve olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, hatáskörrel és illetékességgel rendelkező hatóságának igazolása szükséges, akkor közvetítő szervként a Kormány által kijelölt szerv jár el. A Kormány által kijelölt szerv közvetítői eljárásához a megkereső szervnek meg kell adnia a megkeresendő külföldi hatóság nevét, postacímét, és a pontos kérdést, amelyre választ kíván kapni.
 
-(9) A szociális hatáskört gyakorló szervek megkeresésére a kincstár három hónapon belül köteles a (8) bekezdés szerinti eljárást lefolytatni.
+(9) A szociális hatáskört gyakorló szervek megkeresésére a Kormány által kijelölt szerv három hónapon belül köteles a (8) bekezdés szerinti eljárást lefolytatni.
 
 11. § (1) A szociális hatáskört gyakorló szerv határozatának bírósági felülvizsgálatára vonatkozó eljárás során ideiglenes intézkedésnek van helye. A bíróság a fél kérelmére ideiglenes intézkedésként rendelkezhet
 
@@ -313,17 +313,19 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 18/B. § (1) A Kormány által kijelölt szerv az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
 
-- a) az időskorúak járadékáról, az aktív korúak ellátásáról, a lakásfenntartási támogatásról, az ápolási díjról, a közgyógyellátásról és a Gyvt. szerinti rendszeres gyermekvédelmi kedvezményről, valamint
-- b) az a) pont szerinti ellátásra jogosult, illetve az ellátás megállapítása során e törvény és a rendszeres gyermekvédelmi kedvezmény tekintetében a Gyvt. rendelkezései alapján figyelembe vett személyekről.
+- a) az időskorúak járadékáról, az aktív korúak ellátásáról, az ápolási díjról, a közgyógyellátásról, az egészségügyi szolgáltatásra való jogosultságról és a települési támogatásról,
+- b) a Gyvt. szerinti rendszeres gyermekvédelmi kedvezményről, gyermektartásdíj megelőlegezésről és otthonteremtési támogatásról (a továbbiakban együtt: gyermekvédelmi ellátások),
+- c) az a) és b) pont szerinti ellátásra jogosult személyekről, és
+- d) az a) és b) pont szerinti ellátás megállapítása során e törvény, illetve a Gyvt. rendelkezései alapján figyelembe vett személyekről.
 
 (2) Az országos nyilvántartás tartalmazza
 
-- a) az eljáró hatóság – ideértve a Gyvt. szerinti rendszeres gyermekvédelmi kedvezmény megállapítása során eljáró hatóságot is – megnevezését, címét, valamint az ügy számát és elbírálási azonosítóját,
+- a) az eljáró hatóság – ideértve a gyermekvédelmi ellátások megállapítása során eljáró hatóságot is – megnevezését, címét, valamint az ügy számát és elbírálási azonosítóját,
 - b) a 18. § szerinti adatokat,
 - c) a 18/A. § szerinti adatokat,
-- d) a rendszeres gyermekvédelmi kedvezmény tekintetében a Gyvt. 138. § (1) bekezdése szerinti adatokat.
+- d) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdése szerinti adatokat.
 
-(3) Az országos nyilvántartásba az adatokat az egyes ellátásokkal összefüggésben döntést hozó jegyző vagy a járási hivatal rögzíti. A jegyző rögzíti a települési önkormányzat hatáskörébe tartozó ellátásokkal összefüggő azon adatokat, amelyeket érintően a 18. § szerinti nyilvántartás vezetésének kötelezettsége őt terheli.
+(3) Az országos nyilvántartásba az adatokat a jegyző, a járási hivatal, valamint a járási hivatal gyermekvédelmi és gyámügyi feladatokat ellátó szakigazgatási szerve rögzíti. A jegyző rögzíti a települési önkormányzat hatáskörébe tartozó ellátásokkal összefüggő azon adatokat, amelyeket érintően a 18. § szerinti nyilvántartás vezetésének kötelezettsége őt terheli.
 
 (4) A hatóság a folyamatban lévő eljárás során figyelembe vett, a nyilvántartásban nem szereplő személyt az ugyanazon eljárásban figyelembevett, a nyilvántartásban szereplő személyhez kapcsolva rögzíti a nyilvántartásban.
 
@@ -577,6 +579,8 @@ feltéve, hogy saját maga és családjának megélhetése más módon nem bizto
 
 (1a) Az aktív korúak ellátása tekintetében – ha e törvény eltérően nem rendelkezik – nem minősül keresőtevékenységnek, ha a kérelmező, illetve a jogosult közfoglalkoztatásban, egyszerűsített foglalkoztatásban vesz részt vagy háztartási munkát végez.
 
+(1b) Az (1) bekezdés a) pontja szerinti esetben az egészségkárosodott személy egészségkárosodásának mértékét, az egészségkárosodás felülvizsgálatának szükségességét, valamint a felülvizsgálat szükségessége esetén annak időpontját az eljáró hatóság szakkérdésként megvizsgálja.
+
 (2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs. Az aktív korúak ellátása tekintetében fogyasztási egység a családtagoknak a családon belüli fogyasztási szerkezetet kifejező arányszáma, ahol
 
 - a) az első nagykorú családtag arányszáma 1,0, azzal, hogy a gyermekét egyedülállóként nevelő szülő arányszáma 0,2-vel növekszik,
@@ -602,7 +606,7 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 (6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy az egészségkárosodási és gyermekfelügyeleti támogatás feltételeinek felel meg.
 
-(7) A települési önkormányzat rendeletében az aktív korúak ellátására való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a járási hivatalnak – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.
+(7)
 
 34. § (1) Nem állapítható meg az aktív korúak ellátására való jogosultság annak a személynek, aki
 
@@ -651,8 +655,8 @@ a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
 
 - a) aki az állami foglalkoztatási szervvel való együttműködés keretében számára felajánlott, az Flt. 54. § (10a)–(10c) bekezdésében foglaltak szerinti munkalehetőséget nem fogadja el, vagy a közfoglalkoztatásra irányuló jogviszonyát jogellenesen megszünteti, továbbá, akinek a közfoglalkoztatásra irányuló jogviszonyát a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény 78. §-a szerint azonnali hatályú felmondással szüntette meg;
 - b) akit az állami foglalkoztatási szerv – neki felróható okból – törölt az álláskeresők nyilvántartásából;
-- c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának megállapításáról szóló határozatban foglalt határidőig nem kérelmezi az álláskeresőként történő nyilvántartásba vételét;
-- d) aki a 33. § (7) bekezdés szerinti feltételeknek – a felszólítás ellenére – nem tesz eleget; vagy
+- c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának megállapításáról szóló határozatban foglalt határidőig nem kérelmezi az álláskeresőként történő nyilvántartásba vételét; vagy
+- d)
 - e) aki a foglalkoztatást helyettesítő támogatásra való jogosultságának a 25. § (4) bekezdés b) pontja szerinti éves felülvizsgálata során, a felülvizsgálat időpontját megelőző egy évben a foglalkoztatást helyettesítő támogatásra való jogosultságának fennállása alatt legalább 30 nap időtartamban
   - ea) közfoglalkoztatásban nem vett részt, vagy
   - eb) kereső tevékenységet – ideértve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát is – nem folytatott, vagy
@@ -678,7 +682,7 @@ a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
 
 37/B. § (1) A 36. § (1) bekezdés a) és c) pontja szerinti esetben az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása szünetel.
 
-(1a) Amennyiben az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult személy a lakókörnyezete rendben tartására vonatkozó, a 33. § (7) bekezdése szerinti feltételeknek – a felszólítás ellenére – nem tesz eleget, az egészségkárosodási és gyermekfelügyeleti támogatás összegének folyósítását egy hónapra fel kell függeszteni.
+(1a)
 
 (2)
 
@@ -763,7 +767,7 @@ személy gondozását, ápolását végzi.
 
 43. § A járási hivatal – kérelemre – kiemelt ápolási díjra való jogosultságot állapít meg annak a személynek, aki
 
-- a) a rehabilitációs hatóság komplex minősítése alapján a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 3. § (2) bekezdés b) pont bd) alpontja szerinti minősítési kategóriába sorolt hozzátartozójának gondozását, ápolását végzi, vagy
+- a) komplex minősítés alapján a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 3. § (2) bekezdés b) pont bd) alpontja szerinti minősítési kategóriába sorolt hozzátartozójának gondozását, ápolását végzi, vagy
 - b) olyan hozzátartozójának gondozását, ápolását végzi, aki után a magasabb összegű családi pótlékot miniszteri rendeletben meghatározott súlyosságú betegségre vagy fogyatékosságra tekintettel folyósítják.
 
 43/A. § (1) A járási hivatal a fokozott ápolást igénylő súlyosan fogyatékos személy gondozását, ápolását végző, de a kiemelt ápolási díjra való jogosultság feltételeinek meg nem felelő személy kérelmére emelt összegű ápolási díjat állapít meg.
@@ -816,6 +820,8 @@ feltéve, hogy esetében az a)–e) pontokban foglaltak közül legalább három
 - d) a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek részére.
 
 (2) Más jogszabály alkalmazásában az (1) bekezdés a) pontja szerinti célra nyújtott települési támogatást lakásfenntartási támogatásnak kell tekinteni.
+
+(2a) A 18. életévét betöltött tartósan beteg hozzátartozójának ápolását, gondozását végző személy részére megállapított települési támogatás a társadalombiztosítási tárgyú jogszabályok alkalmazásában ápolási díjnak minősül, ha az ellátás önkormányzati rendeletben szabályozott havi összege eléri az ápolási díj központi költségvetésről szóló törvényben meghatározott alapösszegének a 80%-át.
 
 (3) A képviselő-testület a létfenntartást veszélyeztető rendkívüli élethelyzetbe került, valamint az időszakosan vagy tartósan létfenntartási gonddal küzdő személyek részére rendkívüli települési támogatást köteles nyújtani.
 
@@ -891,7 +897,7 @@ tevődik össze.
   - ge) öregségi nyugdíjban részesül, és a nyugdíjra való jogosultságának megállapítását megelőző napon a ga) vagy gb) alpont hatálya alá tartozott;
 - h) az aki, vagy aki után szülője vagy eltartója magasabb összegű családi pótlékban részesül.
 
-(2) Normatív jogcímen jogosult közgyógyellátásra az a személy, akinek esetében a havi rendszeres gyógyító ellátásnak az egészségbiztosítási szerv által elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) az öregségi nyugdíj mindenkori legkisebb összegének a 10%-át meghaladja, feltéve hogy a családjában az egy főre jutó havi jövedelem nem éri el az öregségi nyugdíj mindenkori legkisebb összegét, egyedülélő esetén 150%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. §-ának b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.
+(2) Normatív jogcímen jogosult közgyógyellátásra az a személy, akinek esetében a havi rendszeres gyógyító ellátásnak az 50/A. § (4) bekezdése szerint elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) az öregségi nyugdíj mindenkori legkisebb összegének a 10%-át meghaladja, feltéve hogy a családjában az egy főre jutó havi jövedelem nem éri el az öregségi nyugdíj mindenkori legkisebb összegét, egyedülélő esetén 150%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. §-ának b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.
 
 (3)
 
@@ -914,23 +920,28 @@ a járási hivatal a kérelmet érdemi vizsgálat nélkül elutasítja.
 
 (3) Az igazolás tartalmazza a kérelmező természetes személyazonosító adatait, lakóhelyét és tartózkodási helyét, Társadalombiztosítási Azonosító Jelét, a tartósan fennálló betegségének a betegségek nemzetközi osztályozása szerinti kódját (a továbbiakban: BNO kód). Az igazolás tartalmazza továbbá az alkalmazandó terápiához szükséges gyógyító ellátások megnevezését, mennyiségét, gyógyszerek esetében a gyógyszer megnevezését és a külön jogszabályban meghatározott azonosító adatait, a gyógyszer formáját, mennyiségét, valamint a kívánt terápiás hatás eléréséhez szükséges napi mennyiségét és az adagolást. A csak szakorvos által vagy csak szakorvosi javaslatra rendelhető gyógyszereket az igazoláson a szakorvos nevének, pecsétszámának feltüntetésével külön meg kell jelölni. A szakorvos – a kérelmező igénye esetén – az általa rendelt havi rendszeres gyógyító ellátásokról a háziorvost tájékoztatja.
 
-(4) A háziorvos igazolását a járási hivatal öt napon belül továbbítja az egészségbiztosítási szervnek. A normatív közgyógyellátás megállapítását kérelmező személy esetében az igazolást a járási hivatal csak akkor továbbítja, ha a kérelmező megfelel az előírt jövedelmi feltételeknek.
+(4) A járási hivatal szakkérdésként megvizsgálja az igazolásban feltüntetett havi rendszeres gyógyító ellátás iránti szükséglet szakmai megalapozottságát és a rendszeres gyógyító ellátások havi költségét.
 
-(5) Az egészségbiztosítási szerv megvizsgálja az igazolásban feltüntetett havi rendszeres gyógyító ellátás iránti szükséglet szakmai megalapozottságát. Ha az igazolásban feltüntetett gyógyító ellátás iránti szükségletet az egészségbiztosítási szerv nem tartja megalapozottnak, a szakhatósági állásfoglalást megelőzően adategyeztetés céljából megkeresi az igazolást kiállító háziorvost.
+(5) A (4) bekezdés szerinti szakkérdés vizsgálatának normatív közgyógyellátás megállapítását kérelmező személy esetében akkor van helye, ha a kérelmező megfelel az előírt jövedelmi feltételeknek.
 
-(6) Az egészségbiztosítási szerv az általa elismert gyógyító ellátási szükséglet alapján szakhatósági állásfoglalást ad a járási hivatalnak a rendszeres gyógyító ellátások havi költségéről. A 49. § (2) bekezdésének b)–c) pontja szerinti esetben a közfinanszírozás alapjául elfogadott ár figyelembevételével számított térítési díjat kell alapul venni.
+(6) Ha az igazolásban feltüntetett gyógyító ellátás iránti szükségletet a járási hivatal nem tartja megalapozottnak, adategyeztetés céljából megkeresi az igazolást kiállító háziorvost.
 
-(7) A szakhatósági állásfoglalásban külön meg kell jelölni az egyéni gyógyszerkeret alapjául szolgáló gyógyszer térítési díjának – ideértve a külön jogszabály szerint kiemelt, indikációhoz kötött támogatásban részesített gyógyszerért dobozonként fizetendő díjat – összegét (a továbbiakban: gyógyszerköltség). A gyógyszerköltség meghatározásánál a kérelmező krónikus betegségéhez igazodó, egyhavi mennyiségre számolva legalacsonyabb költségű, külön jogszabályban meghatározott szakmai szabályok szerint elsőként választandó, legalacsonyabb napi terápiás költséggel alkalmazott készítményeket kell alapul venni. A gyógyszerköltség megállapítása során legfeljebb havi 6000 forintig vehetők figyelembe a nem csak szakorvos által, illetve nem csak szakorvosi javaslatra rendelhető gyógyszerek. Ha a kérelmező havi gyógyszerköltsége a 6000 forintot meghaladja, a 6000 forint feletti összeg a szakhatósági állásfoglalásban a csak szakorvos által, illetve csak szakorvosi javaslat alapján rendelhető gyógyszerek figyelembevételével, az egészségbiztosítási szerv vezetőjének döntése alapján állapítható meg.
+(7) A rendszeres gyógyító ellátások havi költségének megállapítása során
+
+- a) a 49. § (2) bekezdés b) és c) pontja szerinti esetben a közfinanszírozás alapjául elfogadott ár figyelembevételével számított térítési díjat kell alapul venni,
+- b) külön meg kell jelölni az egyéni gyógyszerkeret alapjául szolgáló gyógyszer térítési díjának – ideértve a külön jogszabály szerint kiemelt, indikációhoz kötött támogatásban részesített gyógyszerért dobozonként fizetendő díjat – összegét (a továbbiakban: gyógyszerköltség).
+
+(7a) A gyógyszerköltség meghatározásánál a kérelmező krónikus betegségéhez igazodó, egyhavi mennyiségre számolva legalacsonyabb költségű, külön jogszabályban meghatározott szakmai szabályok szerint elsőként választandó, legalacsonyabb napi terápiás költséggel alkalmazott készítményeket kell alapul venni. A gyógyszerköltség megállapítása során legfeljebb havi 6000 forintig vehetők figyelembe a nem csak szakorvos által, illetve nem csak szakorvosi javaslatra rendelhető gyógyszerek. Ha a kérelmező havi gyógyszerköltsége a 6000 forintot meghaladja, a 6000 forint feletti összeg a csak szakorvos által, illetve csak szakorvosi javaslat alapján rendelhető gyógyszerek figyelembevételével állapítható meg.
 
 (8) Az egyéni gyógyszerkeret összege a jogosult egyéni havi rendszeres gyógyszerköltsége, de 2006. évben legfeljebb havi 12 000 Ft lehet. A 2006. évet követően az egyéni gyógyszerkeret legmagasabb havi összegét az éves központi költségvetésről szóló törvény határozza meg. Amennyiben az egyéni rendszeres gyógyszerköltség a havi 1000 Ft-ot nem éri el, egyéni gyógyszerkeret nem kerül megállapításra.
 
 (9) Az eseti keret éves összege 2006. évben 6000 Ft. A 2006. évet követően az eseti keret összegét az éves központi költségvetésről szóló törvény határozza meg. Amennyiben a közgyógyellátásra jogosult személy részére egyéni gyógyszerkeret nem kerül megállapításra, a gyógyszerkeret megegyezik az eseti kerettel.
 
-(10) A járási hivatal nyolc napon belül dönt
+(10) A járási hivatal dönt
 
 - a) a közgyógyellátásra való jogosultságról,
 - b) a közgyógyellátásra való jogosultság kezdő időpontjáról,
-- c) a jogosult gyógyszerkeretéről, külön megjelölve – a (6) bekezdés szerinti szakhatósági állásfoglalás alapján – az egyéni gyógyszerkeret összegét.
+- c) a jogosult gyógyszerkeretéről, külön megjelölve az egyéni gyógyszerkeret összegét.
 
 (11) Az alanyi közgyógyellátásra jogosult esetében – amennyiben rendszeres gyógyszerköltség hiányában egyéni gyógyszerkeret megállapítását nem igényli – az eljárásra a (2)–(8) bekezdést nem kell alkalmazni.
 
@@ -938,7 +949,7 @@ a járási hivatal a kérelmet érdemi vizsgálat nélkül elutasítja.
 
 (13) Az igazolvánnyal rendelkező személy a gyógyszerkerete erejéig kiváltott, külön jogszabály szerint kiemelt, indikációhoz kötött támogatásban részesített gyógyszerért dobozonként fizetendő díjat a gyógyszerkerete terhére fizeti meg.
 
-50/B. § (1) Az egyéni gyógyszerkeret és az eseti keret a jogosultság időtartamára kerül megállapításra. A normatív közgyógyellátásra való jogosultságot és a gyógyszerkeretet 18 hónapnál nem régebben kiadott szakhatósági állásfoglalás alapján lehet megállapítani.
+50/B. § (1) Az egyéni gyógyszerkeret és az eseti keret a jogosultság időtartamára kerül megállapításra. A normatív közgyógyellátásra való jogosultságot és a gyógyszerkeretet 18 hónapnál nem régebben kiadott szakhatósági állásfoglalás alapján is meg lehet állapítani.
 
 (2) Amennyiben az ellátásban részesülő személy egészségi állapotában, a gyógykezelését szolgáló terápiában, illetőleg a keret megállapításakor figyelembe vett gyógyszerek térítési díjában olyan változás következik be, amelynek következtében havi rendszeres kiadása a gyógyszerkeret megállapításakor figyelembe vett gyógyszerköltséghez képest ténylegesen legalább 1000 forinttal megváltozik, az ellátásban részesülő személy kérelmére lehetőség van az egyéni gyógyszerkeret év közbeni felülvizsgálatára.
 
@@ -2853,7 +2864,7 @@ kaphatnak.
 
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 
-- a) az aktív korúak ellátására jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
+- a)
 - b)–c)
 - d) az étkeztetés jogosultsági feltételeinek részletes szabályait,
 - e)–f)
@@ -2909,7 +2920,7 @@ kaphatnak.
 
 134/E. § A települési önkormányzat képviselő-testülete a települési támogatás megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét legkésőbb 2015. február 28-áig megalkotja.
 
-135. §
+135. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel megállapított 45. § (2a) bekezdését a 2015. február 28-án hatályos 43/B. § alapján 2015. március 1-jét megelőző kezdő időponttal megállapított és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjra is alkalmazni kell.
 
 136. § (1)–(2)
 

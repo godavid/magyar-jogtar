@@ -849,7 +849,7 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 (1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén az államháztartásért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter, egyéb gazdasági társaság esetén az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
 
-(2) Az (1) bekezdés a) és b) pontja szerinti tulajdonosi joggyakorló az állam tulajdonában és tulajdonosi joggyakorlása alatt álló gazdasági társaságnak az állam nevében tőkeemelést és támogatást – kivéve a szakmai feladatok ellátásához nyújtott támogatást – az állami vagyon felügyeletéért felelős miniszter, a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén a kormányzati tevékenység összehangolásáért felelős miniszter előzetes jóváhagyásával nyújthat. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős írásos véleményének ismeretében kell dönteni.
+(2) Az (1) bekezdés szerinti tulajdonosi joggyakorló az állam tulajdonában és tulajdonosi joggyakorlása alatt álló gazdasági társaságnak az állam nevében tőkeemelést és támogatást – kivéve a szakmai feladatok ellátásához nyújtott támogatást – az állami vagyon felügyeletéért felelős miniszter, a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén a kormányzati tevékenység összehangolásáért felelős miniszter előzetes jóváhagyásával nyújthat. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős írásos véleményének ismeretében kell dönteni.
 
 (3) Az állami vagyonnal való gazdálkodás során a tulajdonosi joggyakorló saját nyilvántartásaiban nem számolhatja el az állam nevében végzett műveletek hatását.
 
@@ -897,7 +897,7 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 #### 33. Befizetési kötelezettség
 
-47. § (1) Az irányító szerv az irányítása alá tartozó költségvetési szerv költségvetési bevételei után befizetési kötelezettséget írhat elő. A Kormány irányítása alá tartozó fejezetet irányító szerv a befizetett összeget az államháztartásért felelős miniszter egyetértésével használhatja fel.
+47. § (1) A Kormány az irányítása vagy felügyelete alá tartozó költségvetési szerv szabad előirányzatai, az irányító szerv az irányítása alá tartozó költségvetési szerv költségvetési bevételei után befizetési kötelezettséget írhat elő. A Kormány irányítása alá tartozó fejezetet irányító szerv a befizetett összeget az államháztartásért felelős miniszter egyetértésével használhatja fel.
 
 (2) Ha törvény eltérően nem rendelkezik, a központi költségvetésről szóló törvény a kormányhivatal részére a költségvetési bevételei után a központi költségvetésbe történő befizetési kötelezettséget írhat elő. A befizetendő összeg nem haladhatja meg a kormányhivatal költségvetési bevételeinek 50%-át.
 
@@ -980,7 +980,7 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 (2) A költségvetési támogatások jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, továbbá a költségvetési támogatás visszavonása, a támogatási szerződéstől történő elállás vagy annak felmondása esetén a kedvezményezett a jogosulatlanul igénybe vett költségvetési támogatás összegét a Kormány rendeletében meghatározott ügyleti kamattal, késedelem esetén késedelmi kamattal növelt mértékben köteles visszafizetni. Az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezettet kamatfizetési kötelezettség nem terheli.
 
-(3) Nemteljesítés esetén a visszafizetési kötelezettség érvényesítése elsősorban a biztosíték érvényesítésével történik. Ennek eredménytelensége esetén a visszafizetendő összeget és annak kamatait az állami adóhatóság a támogató megkeresésére adók módjára hajtja be. Ha a nem természetes személy kedvezményezett jogszabály alapján mentesül a biztosíték nyújtása alól és a jogosulatlanul igénybe vett költségvetési támogatással összefüggésben keletkező visszafizetési kötelezettségét a támogató által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, a támogató kezdeményezése alapján az állami adóhatóság a kedvezményezett és a kedvezményezettben többségi befolyással rendelkező szervezet adószámát törli.
+(3) Nemteljesítés esetén a visszafizetési kötelezettség érvényesítése elsősorban a biztosíték érvényesítésével történik. Ennek eredménytelensége esetén a visszafizetendő összeget és annak kamatait az állami adóhatóság a támogató megkeresésére adók módjára, a 14. § (3) bekezdése szerinti fejezetből nyújtott költségvetési támogatás esetén a 60/A. § (2) bekezdésében meghatározott módon hajtja be. Ha a nem természetes személy kedvezményezett jogszabály alapján mentesül a biztosíték nyújtása alól és a jogosulatlanul igénybe vett költségvetési támogatással összefüggésben keletkező visszafizetési kötelezettségét a támogató által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, a támogató kezdeményezése alapján az állami adóhatóság a kedvezményezett és a kedvezményezettben többségi befolyással rendelkező szervezet adószámát törli.
 
 #### 37. A költségvetési támogatás felhasználásának ellenőrzése
 
@@ -1415,7 +1415,7 @@ kezeli.
 
 (3) A megyei önkormányzat önkormányzati hivatala és a térségi fejlesztési tanács költségvetési szervként működő munkaszervezete kivételével az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv fizetési számláját az irányító szerv által az (1) bekezdés szerint választott számlavezető vezeti.
 
-(4) A helyi önkormányzat hitelfelvétele, kötvénykibocsátása fedezetéül az önkormányzati törzsvagyon, a helyi önkormányzat általános működésének és ágazati feladatainak támogatása és a költségvetési támogatás nem használható fel.
+(4) A helyi önkormányzat hitelfelvétele, kötvénykibocsátása fedezetéül az önkormányzati törzsvagyon, a helyi önkormányzat általános működésének és ágazati feladatainak támogatása és a költségvetési támogatás nem használható fel. Ez az előírás nem vonatkozik a naptári éven belül lejáró, Gst. szerinti adósságot keletkeztető ügyletre, amelynek fedezetéül a helyi önkormányzatok általános működésének és ágazati feladatainak támogatása felhasználható.
 
 #### 58. A pénzeszközök felhasználása
 
@@ -1648,40 +1648,7 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 #### 69. Kincstári adatkezelés
 
-106. § (1) A kincstár az általa folyósított családtámogatási és fogyatékossági ellátásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai során az ellátások, támogatások jogszabályban megállapított feltételeinek ellenőrzése céljából egységes szociális nyilvántartást vezet. A kincstár az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg, kivéve, ha e korlátozás alól az államháztartásért felelős miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
-
-(2) A kincstár az egységes szociális nyilvántartás vezetése során jogosult a következő adatok kezelésére:
-
-- a) a családtámogatási ellátásban részesülő személy, valamint ha az ellátást más személyre tekintettel állapítják meg, úgy e személy neve, születési helye és ideje, anyja neve, lakóhelye, a társadalombiztosítási azonosító jele, az ellátás jogcíme és összege,
-- b) a fogyatékossági ellátásban részesülő személy neve, születési helye és ideje, anyja neve, lakóhelye, a társadalombiztosítási azonosító jele, az ellátás jogcíme és összege, és
-- c) a lakáscélú támogatásokkal kapcsolatban a (3) bekezdésben foglalt adatok.
-
-(2a) A (2) bekezdés a) pontja szerinti családtámogatási ellátás jogcíme és összege adatkör, valamint a (2) bekezdés b) pontja szerinti a fogyatékossági ellátás jogcíme és összege adatkör tekintetében az egységes szociális nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A nyilvántartás közhitelesen tanúsítja továbbá a családtámogatási ellátásra, valamint a fogyatékossági támogatásra jogosult személyét.
-
-(3) A lakáscélú támogatást nyújtó hitelintézet a támogatott személy és – ha a támogatás megállapításának a támogatottnak más személlyel való együttköltözése a feltétele – az együttköltöző személy természetes személyazonosító adatait, adóazonosító jelét, valamint a támogatási szerződésben vállalt kötelezettségekre vonatkozó adatokat a támogatási szerződés keltétől, szerződésmódosítás keltétől, illetve a támogatási szerződés megszűnésétől számított harminc napon belül a kincstár számára átadja. A kincstár az átadott adatokat a lakáscélú támogatás szabályszerű igénybevételének és felhasználásának ellenőrzése céljából a támogatásra vonatkozó visszakövetelési jog vagy a támogatással megszerzett ingatlanon az állami igényt biztosító jelzálogjog, elidegenítési és terhelési tilalom fennállásáig jogosult kezelni.
-
-(4) A (2) bekezdés a)–c) pontjában meghatározott adatokat a kincstár a nyújtott támogatások visszakövetelésére vonatkozó igény elévüléséig kezeli.
-
-(5) Az egységes szociális nyilvántartásból
-
-- a) a települési önkormányzat jegyzője az általa megállapított támogatások feltételeinek meghatározása érdekében szükséges adatokat,
-- b) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
-- c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) gyámhivatala a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint a hatáskörébe tartozó pénzbeli ellátások feltételeinek meghatározása érdekében, valamint az iskoláztatási támogatás szüneteltetésével kapcsolatos feladatainak ellátásához szükséges adatokat,
-- d) a fővárosi és megyei kormányhivatal szociális és gyámhivatala az a)–c) pontok szerinti eljárásban hozott döntés elleni, a hatáskörébe tartozó jogorvoslati eljárás lefolytatásához, valamint az a)–c) pontok szerinti ügyekkel összefüggő felügyeleti eljárás lefolytatásához szükséges adatokat,
-- e) a Diákhitel Központ Zrt. a célzott kamattámogatás megállapításához a gyermekgondozási segélyre vonatkozó adatokat
-- f) a települési önkormányzat képviselő-testülete a szociális igazgatásról és szociális ellátásokról szóló törvény szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat
-
-közvetlen lekérdezéssel díjmentesen elérheti.
-
-(6) A kincstár – az ellátás jogcímének és összegének kivételével – a (2) bekezdés a) és b) pontjában meghatározott adatok pontosságának ellenőrzése érdekében adategyeztetést folytathat az egészségbiztosítási szervvel. Az adategyeztetés módjáról a kincstár és az egészségbiztosítási szerv megállapodást köt.
-
-(7) Az állami adóhatóság a kincstár által folyósított ellátások és támogatások megállapítása és ellenőrzése céljából a kincstár részére teljesített adatszolgáltatása keretében törvényben meghatározott személyes adatok mellett feltünteti a támogatásban részesülő személy adóazonosító jelét is. A kincstár a jogosulatlan támogatások, ellátások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatja az állami adóhatóságot, ha a jogosulatlanul igénybe vett támogatás visszakövetelésére vagy behajtására az állami adóhatóság jogosult. Az adatok átadásának módjáról a kincstár és az állami adóhatóság megállapodást köt.
-
-(8) A kincstár a közoktatási, szociális, valamint gyermekvédelmi és gyermekjóléti célból a helyi önkormányzatoknak, helyi nemzetiségi önkormányzatoknak biztosított támogatások, továbbá a nem állami intézmény fenntartójának biztosított normatív és egyéb hozzájárulások jogszabályban megállapított feltételeinek ellenőrzése céljából jogosult a fenntartók és a fenntartott intézmények ellátotti körébe tartozók neve, születési helye és ideje, anyja neve, lakóhelye, tanulói azonosítója, pedagógus azonosítója, társadalombiztosítási azonosító jele, továbbá az ellátás jogcíme és összege adatainak kezelésére. A kincstár ezen személyes adatokat a támogatással való elszámolási határidejének lejártát követő öt évig, vagy – ha az későbbi – a jogerős közigazgatási határozat ellen benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
-
-(9) A kincstár a (8) bekezdésben meghatározott intézményfenntartók, intézmények részére a normatív és egyéb hozzájárulások, támogatások igénybevételét megalapozó adatok nyilvántartásához elektronikus rendszert biztosít.
-
-(10) A (2), (8) és (9) bekezdésben meghatározott adatokat nyilvántartó rendszerek a kincstárnak a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működésének és ágazati feladatai támogatásai, továbbá a nem állami intézmény fenntartójának biztosított normatív és egyéb hozzájárulások megállapításával, folyósításával, felülvizsgálatával és ellenőrzésével kapcsolatos feladatai ellátása érdekében összekapcsolhatók.
+106. § A kincstár a közoktatási, szociális, valamint gyermekvédelmi és gyermekjóléti célból a helyi önkormányzatoknak, helyi nemzetiségi önkormányzatoknak biztosított támogatások, továbbá a nem állami intézmény fenntartójának biztosított normatív és egyéb hozzájárulások jogszabályban megállapított feltételeinek ellenőrzése céljából jogosult a fenntartók és a fenntartott intézmények ellátotti körébe tartozók neve, születési helye és ideje, anyja neve, lakóhelye, tanulói azonosítója, pedagógus azonosítója, társadalombiztosítási azonosító jele, továbbá az ellátás jogcíme és összege adatainak kezelésére. A kincstár ezen személyes adatokat a támogatással való elszámolási határidejének lejártát követő öt évig, vagy – ha az későbbi – a jogerős közigazgatási határozat ellen benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
 
 106/A. § (1) A kincstár a központosított illetményszámfejtés keretében jogosult a munkabér, az illetmény, a tiszteletdíj, a költségtérítés, egyéb pénzbeli juttatás és a megállapodás alapján biztosítottnak minősülő személy juttatásának számfejtése, kifizetése és annak ellenőrzése céljából az érintett
 
@@ -1698,6 +1665,12 @@ kezelésére.
 (3) Ha a központi költségvetésről szóló törvény alapján a szociális, gyermekjóléti és gyermekvédelmi közfeladatot ellátó intézmény nem állami fenntartója részére olyan támogatás nyújtására kerül sor, amelynek alapján munkabér, illetmény, tiszteletdíj, költségtérítés vagy egyéb pénzbeli juttatás kifizetése történik, annak kifizetése és ellenőrzése céljából a kincstár jogosult annak az érintettnek az (1) bekezdésében meghatározott adatait a (2) bekezdésben meghatározott időtartamban kezelni, akire tekintettel a nem állami intézmény fenntartójának a költségvetési támogatás kifizetésre kerül.
 
 106/B. § A kincstár a belföldi gépjárművek után beszedett adó törvény alapján a központi költségvetést megillető hányadának a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
+
+106/C. § (1) A lakáscélú állami támogatást nyújtó hitelintézet a támogatási szerződés megkötésének, módosításának, illetve megszűnésének időpontjától számított harminc napon belül továbbítja a lakáscélú állami támogatásban részesülő személy és – ha a támogatás megállapításának a támogatottnak más személlyel való együttköltözése a feltétele – az együttköltöző személy természetes személyazonosító adatait, adóazonosító jelét és a támogatási szerződésben vállalt kötelezettségekre vonatkozó adatokat a kincstár részére. A kincstár a lakáscélú állami támogatást nyújtó hitelintézet által továbbított adatokról nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti adatokat a kincstár és a fővárosi és megyei kormányhivatal a lakáscélú állami támogatás szabályszerű igénybevételének és felhasználásának ellenőrzése céljából a támogatásra vonatkozó visszakövetelési jog vagy a támogatással megszerzett ingatlanon az állami igényt biztosító jelzálogjog, illetve elidegenítési és terhelési tilalom fennállásáig jogosult kezelni.
+
+(3) Az állami adóhatóság a lakáscélú állami támogatások megállapítása és ellenőrzése céljából a fővárosi és megyei kormányhivatal, illetve a kincstár részére teljesített adatszolgáltatása keretében törvényben meghatározott személyes adatok mellett feltünteti a lakáscélú állami támogatásban részesülő személy adóazonosító jelét is. A fővárosi és megyei kormányhivatal, illetve a kincstár a jogosulatlan támogatások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatja az állami adóhatóságot, ha a jogosulatlanul igénybe vett támogatás visszakövetelésére vagy behajtására az állami adóhatóság jogosult.
 
 #### 70. Adatszolgáltatási kötelezettségek
 
@@ -1810,7 +1783,7 @@ részletes szabályait, ideértve az a) és b) ponttal összefüggésben az eur�
 
 rendeletben szabályozza.
 
-(4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben megállapítsa a rendezett munkaügyi kapcsolatok feltételeit, a feltételek igazolásának módját és általános eljárási szabályait.
+(4)
 
 (5) Felhatalmazást kap a Kormány tagja, hogy – ha azt törvény, kormányrendelet vagy a Kormány egyedi határozata nem állapítja meg, az államháztartás központi alrendszerébe tartozó költségvetési szervek kiadási előirányzata és a társadalombiztosítás pénzügyi alapjai előirányzatai kivételével – az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az általa irányított fejezetbe sorolt
 
@@ -1884,7 +1857,7 @@ rendeletben szabályozza.
 
 (23) A helyi önkormányzat, a helyi nemzetiségi önkormányzat 2011. évben igénybevett hozzájárulásai, támogatásai elszámolásának felülvizsgálatára az e törvény 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-(24) A helyi önkormányzat, helyi nemzetiségi önkormányzat 2012. évben igénybe vett hozzájárulásai, támogatásai elszámolásának felülvizsgálatára e törvény 2013. január 1-jén hatályos rendelkezéseit kell alkalmazni azzal, hogy a felülvizsgálat a helyi önkormányzat, helyi nemzetiségi önkormányzat általános működésének és ágazati feladatainak támogatásai helyett a normatív hozzájárulásaira, támogatásaira, illetve a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatásra terjed ki.
+(24) A helyi önkormányzat, helyi nemzetiségi önkormányzat 2012. évben igénybe vett hozzájárulásai, támogatásai elszámolásának felülvizsgálatára e törvény 2013. január 1-jén hatályos rendelkezéseit kell alkalmazni azzal, hogy a felülvizsgálat a helyi önkormányzat, helyi nemzetiségi önkormányzat általános működésének és ágazati feladatainak támogatásai helyett a normatív hozzájárulásaira, támogatásaira, illetve a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatásra terjed ki. A helyi önkormányzat által 2013. évben a 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és felülvizsgálatára e törvény 2014. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 (25) A helyi nemzetiségi önkormányzat által 2013. évben a 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és kincstári felülvizsgálatára e törvény 2013. december 31-én hatályos 57/A. §-ában, 57/B. §-ában, 60. §-ában, 83. § (4)–(6) bekezdésében, 106. § (10) bekezdésében foglaltakat kell alkalmazni.
 
@@ -1892,7 +1865,7 @@ rendeletben szabályozza.
 
 (27) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 10. § (4a) bekezdésének a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor a törzskönyvi nyilvántartásban szereplő költségvetési szerv legkésőbb 2015. április 1-jén kell, hogy megfeleljen.
 
-(28) A honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek kincstár útján történő központosított illetményszámfejtése 2015. április 1-jétől valósul meg. E határnapot megelőzően a honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek a központosított illetményszámfejtéshez a kincstárral kötött megállapodás alapján csatlakozhatnak.
+(28) A honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek kincstár útján történő központosított illetményszámfejtése 2016. január 1-jétől valósul meg. E határnapot megelőzően a honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek a központosított illetményszámfejtéshez a kincstárral kötött megállapodás alapján csatlakozhatnak.
 
 (29) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 105. § (4) bekezdésének a költségvetési szerv által megkötött szerződés érvénytelenségére vonatkozó rendelkezését a 2015. február 28-át követően megkötött szerződések tekintetében kell alkalmazni. Az irányító szerv e határidőt megelőzően köteles gondoskodni a költségvetési szerv alapító okiratának a törzskönyvi nyilvántartásba elmulasztott bejegyzésének pótlásáról.
 

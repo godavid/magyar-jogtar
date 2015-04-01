@@ -1461,7 +1461,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 - b) ha a cég valamely vagyontárgya országos közhiteles vagy közérdekből vezetett nyilvántartásban szerepel, e nyilvántartást vezető szervezetet,
 - c)
 - d) a területileg illetékes állami munkaerő-piaci szervezetet,
-- e) az illetékes környezetvédelmi felügyelőséget arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
+- e) a környezetvédelmi és természetvédelmi hatóságot arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
 - f) a cég pénzforgalmi számláit vezető valamennyi pénzforgalmi szolgáltatót,
 - g) a cég vagyoni részvételével működő jogalanyok vezető tisztségviselőit, illetve a cég részvételével működő egyesületeket, alapítványokat,
 - h) a cég által vagy ellen indított és folyamatban lévő hatósági és bírósági eljárásokban az eljáró hatóságot vagy bíróságot.
