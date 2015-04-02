@@ -22,12 +22,12 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 2. § E törvény alkalmazásában
 
-- a) fegyveres szerv: a rendvédelmi szervek (a rendőrség, a büntetés-végrehajtási szervezet, a katasztrófavédelem, az önkormányzati tűzoltóság), a Nemzeti Adó- és Vámhivatal, és a nemzetbiztonsági szolgálat,
+- a) fegyveres szerv: a rendvédelmi szervek (a rendőrség, a büntetés-végrehajtási szervezet, a katasztrófavédelem), a Nemzeti Adó- és Vámhivatal, és a nemzetbiztonsági szolgálat,
 - b)
 - c) kettős jogállású hallgató: a rendvédelmi felsőoktatási intézménybe felvett, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) szerinti hivatásos állomány tagja, aki államilag támogatott képzésben folytat tanulmányokat,
 - d)
 - e)
-- f) ösztöndíjas hallgató: a rendvédelmi felsőoktatási intézménybe felvételt nyert nappali tagozatos személy, aki valamely fegyveres szervvel kötött ösztöndíjszerződés alapján végzi a tanulmányait,
+- f) ösztöndíjas hallgató: a rendvédelmi felsőoktatási intézménybe felvételt nyert nappali tagozatos személy, aki valamely fegyveres szervvel vagy a Bevándorlási és Állampolgársági Hivatallal (a továbbiakban együtt: szerződő szerv) kötött ösztöndíjszerződés alapján végzi a tanulmányait,
 - g) polgári hallgató: az a hallgató, aki nem tartozik a c), vagy f) pont hatálya alá,
 - h)
 - i)
@@ -79,9 +79,9 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 ### Ösztöndíjas hallgató
 
-24. § (1) Az ösztöndíjas hallgató juttatásait külön jogszabály és az ösztöndíjszerződés tartalmazza. Az ösztöndíjszerződést a fegyveres szerv és a hallgató közös megegyezéssel módosíthatja. Nem minősül módosításnak a hallgató juttatásainak jogszabály szerinti emelése.
+24. § (1) Az ösztöndíjas hallgató juttatásait külön jogszabály és az ösztöndíjszerződés tartalmazza. Az ösztöndíjszerződést a szerződő szerv és a hallgató közös megegyezéssel módosíthatja. Nem minősül módosításnak a hallgató juttatásainak jogszabály szerinti emelése.
 
-(2) Az ösztöndíjas hallgató az ösztöndíjszerződésben azt vállalja, hogy tanulmányai befejezése után meghatározott ideig az ösztöndíjszerződést kötő fegyveres szervnél hivatásos szolgálatot, kormánytisztviselői, köztisztviselői vagy közalkalmazotti jogviszonyt teljesít, a fegyveres szerv pedig a hallgató képzettségének és végzettségének megfelelő beosztásban munkát biztosít számára.
+(2) Az ösztöndíjas hallgató az ösztöndíjszerződésben azt vállalja, hogy tanulmányai befejezése után meghatározott ideig az ösztöndíjszerződést kötő szerződő szervnél hivatásos szolgálatot, kormánytisztviselői, köztisztviselői vagy közalkalmazotti jogviszonyt teljesít, a szerződő szerv pedig a hallgató képzettségének és végzettségének megfelelő beosztásban munkát biztosít számára.
 
 25. §
 
@@ -98,19 +98,19 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 - a)
 - b) az ösztöndíjszerződés közös megegyezéssel történő megszüntetésével,
 - c) az ösztöndíjszerződés hallgató által történő felbontásával, az erre vonatkozó nyilatkozat benyújtását követő 8. napon,
-- d) a fegyveres szerv által az ösztöndíjas hallgató részére megküldött, az ösztöndíjszerződés egyoldalú felbontásáról szóló értesítés kézhezvételét követő 8. napon.
+- d) a szerződő szerv által az ösztöndíjas hallgató részére megküldött, az ösztöndíjszerződés egyoldalú felbontásáról szóló értesítés kézhezvételét követő 8. napon.
 
-(2) Az ösztöndíjszerződést a hallgató és a fegyveres szerv közös megegyezéssel bármikor, bármelyik fél kezdeményezésére megszüntetheti. A közös megegyezést írásba kell foglalni, amelyben rögzíteni kell a feleknek a megszüntetett ösztöndíjszerződésből eredő, egymás iránti jogait és kötelezettségeit.
+(2) Az ösztöndíjszerződést a hallgató és a szerződő szerv közös megegyezéssel bármikor, bármelyik fél kezdeményezésére megszüntetheti. A közös megegyezést írásba kell foglalni, amelyben rögzíteni kell a feleknek a megszüntetett ösztöndíjszerződésből eredő, egymás iránti jogait és kötelezettségeit.
 
-(3) A fegyveres szerv egyoldalúan akkor bonthatja fel az ösztöndíjszerződést, ha
+(3) A szerződő szerv egyoldalúan akkor bonthatja fel az ösztöndíjszerződést, ha
 
-- a) az Országgyűlés vagy a kormány döntése alapján a fegyveres szerv állományát érintő létszámcsökkentést kell végrehajtani, vagy átszervezés miatt a hallgatót a képzettségének és végzettségének megfelelő kezdő beosztásba nem lehet helyezni, és a hallgatónak más intézménybe vagy az intézményen belül más szakra történő átirányítására nincs lehetőség, illetőleg ha az átirányítást a hallgató nem vállalta;
+- a) az Országgyűlés vagy a kormány döntése alapján a szerződő szerv állományát érintő létszámcsökkentést kell végrehajtani, vagy átszervezés miatt a hallgatót a képzettségének és végzettségének megfelelő kezdő beosztásba nem lehet helyezni, és a hallgatónak más intézménybe vagy az intézményen belül más szakra történő átirányítására nincs lehetőség, illetőleg ha az átirányítást a hallgató nem vállalta;
 - b) a hallgató a szerződésben vállalt valamely kötelezettségét neki felróható okból nem teljesítette;
 - c)
 
 (4) Ha az ösztöndíjas hallgatói jogviszony az (1) bekezdés b)–d) pontja alapján szűnt meg, a hallgató tanulmányait azon a szakon, amelyre felvételt nyert, polgári hallgatóként államilag támogatott képzésben folytathatja, feltéve, hogy az adott szakon folyik civil képzés. Ennek hiányában a hallgatói jogviszonyát meg kell szüntetni. A hallgató más szakra akkor helyezhető át, ha az ösztöndíjszerződése nem a hallgató érdekkörében felmerült ok miatt szűnt meg.
 
-(5) Ha az ösztöndíjas hallgatói viszony a hallgató érdekkörében felmerült okból szűnik meg, az ösztöndíjszerződésben vagy a (2) bekezdés szerinti megegyezésben meghatározott költségeket a hallgató megtéríteni köteles. E törvény alkalmazásában az egészségi ok a fegyveres szerv érdekkörében felmerült oknak minősül.
+(5) Ha az ösztöndíjas hallgatói viszony a hallgató érdekkörében felmerült okból szűnik meg, az ösztöndíjszerződésben vagy a (2) bekezdés szerinti megegyezésben meghatározott költségeket a hallgató megtéríteni köteles. E törvény alkalmazásában az egészségi ok a szerződő szerv érdekkörében felmerült oknak minősül.
 
 ### Kettős jogállású hallgató
 
