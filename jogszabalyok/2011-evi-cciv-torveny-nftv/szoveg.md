@@ -885,7 +885,8 @@ finanszírozásához járul hozzá.
 
 - a) a megkezdett félévet, ha betegség, szülés vagy más, a hallgatónak fel nem róható ok miatt nem sikerült befejezni a félévet,
 - b) a támogatási idő terhére teljesített félévet, ha megszűnt a felsőoktatási intézmény anélkül, hogy a hallgató a tanulmányait be tudta volna fejezni, feltéve, hogy tanulmányait nem tudta másik felsőoktatási intézményben folytatni,
-- c) azt a félévet sem, amelyet tanulmányai folytatásánál a felsőoktatási intézmény a megszűnt intézményben befejezett félévekből nem ismert el.
+- c) azt a félévet sem, amelyet tanulmányai folytatásánál a felsőoktatási intézmény a megszűnt intézményben befejezett félévekből nem ismert el,
+- d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: a Nemzeti Közszolgálati Egyetemről szóló törvény) 21/A. § (1) bekezdés a) és b) pontjában meghatározott jogviszonyban álló hallgató a Nemzeti Közszolgálati Egyetem képzésén vett igénybe.
 
 (7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 
