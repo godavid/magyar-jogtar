@@ -66,33 +66,13 @@ lép.
 
 #### 3. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-62. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 3. § (6) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(E törvény hatálya nem terjed ki)
-
-„g) a 18/B. § alapján vezetett országos nyilvántartás vezetésével összefüggő rendelkezések kivételével a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), és”
-
-(hatálya alá tartozó ellátásokra.)
+62. §
 
 63. §
 
 64–66. §
 
-67. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 18/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kormány által kijelölt szerv az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
-
-a) az időskorúak járadékáról, az aktív korúak ellátásáról, az ápolási díjról, a közgyógyellátásról, az egészségügyi szolgáltatásra való jogosultságról és a települési támogatásról,
-
-b) a Gyvt. szerinti rendszeres gyermekvédelmi kedvezményről, gyermektartásdíj megelőlegezésről és otthonteremtési támogatásról (a továbbiakban együtt: gyermekvédelmi ellátások),
-
-c) az a) és b) pont szerinti ellátásra jogosult személyekről, és
-
-d) az a) és b) pont szerinti ellátás megállapítása során e törvény, illetve a Gyvt. rendelkezései alapján figyelembe vett személyekről.”
-
-(2) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 18/B. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az országos nyilvántartásba az adatokat a jegyző, a járási hivatal, valamint a járási hivatal gyermekvédelmi és gyámügyi feladatokat ellátó szakigazgatási szerve rögzíti. A jegyző rögzíti a települési önkormányzat hatáskörébe tartozó ellátásokkal összefüggő azon adatokat, amelyeket érintően a 18. § szerinti nyilvántartás vezetésének kötelezettsége őt terheli.”
+67. §
 
 68–74. §
 
@@ -118,12 +98,7 @@ d) az a) és b) pont szerinti ellátás megállapítása során e törvény, ill
 
 (2)
 
-(3) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
-
-- 1. 18/B. § (2) bekezdés a) pontjában a „Gyvt. szerinti rendszeres gyermekvédelmi kedvezmény” szövegrész helyébe a „gyermekvédelmi ellátások” szöveg,
-- 2. 18/B. § (2) bekezdés d) pontjában a „rendszeres gyermekvédelmi kedvezmény” szövegrész helyébe a „gyermekvédelmi ellátások” szöveg
-
-lép.
+(3)
 
 91. § (1)
 
@@ -155,9 +130,7 @@ lép.
 
 100. §
 
-101. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 137. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, a gyermektartásdíj megelőlegezésről és az otthonteremtési támogatásról (a továbbiakban együtt: pénzbeli és természetbeni ellátás), valamint a pénzbeli és természetbeni ellátásra jogosult személyről és – az otthonteremtési támogatás kivételével – a pénzbeli és természetbeni ellátásra jogosult személy gondozó családjáról.”
+101. §
 
 102–103. §
 
@@ -171,13 +144,7 @@ lép.
 
 (2)
 
-(3) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
-
-- 1. 138. § (1) bekezdés a) pontjában az „a gyermek, a szülő” szövegrész helyébe az „a gyermek, a fiatal felnőtt, a szülő” szöveg,
-- 2. 138. § (1b) bekezdésében a „rendszeres gyermekvédelmi kedvezményre” szövegrészek helyébe a „pénzbeli és természetbeni ellátásra” szöveg,
-- 3. 140. § (1) bekezdés a) pontjában a „pénzbeli ellátásokról” szövegrész helyébe a „pénzbeli és természetbeni ellátásokról” szöveg
-
-lép.
+(3)
 
 109. §
 
@@ -472,7 +439,7 @@ lép.
 221. § (1) Hatályát veszti a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény
 
 - 1.
-- 2. 34. § (15) bekezdésében az „A járulékokat a Köztársasági Elnöki Hivatal fizeti meg és vallja be, továbbá teljesíti a biztosítotti bejelentést.” szövegrész,
+- 2.
 - 3.
 
 (2)
@@ -509,7 +476,11 @@ lép.
 
 #### 47.
 
-262–270. §
+262–267. §
+
+268. §
+
+269–270. §
 
 #### 48. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
