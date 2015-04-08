@@ -2486,9 +2486,15 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 ### Bűnügyi zárlat
 
-202. § (1) Ha a büntetőeljárásról szóló törvény szerint a büntetőügyben eljáró bíróság, ügyész, nyomozó hatóság a terhelt egész vagyonának vagy egyes vagyontárgyainak a zár alá vételét rendelte el (a továbbiakban: bűnügyi zárlat), ennek elvégzése a végrehajtó hatáskörébe tartozik.
+202. § (1) Ha a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) szerint a büntetőügyben eljáró bíróság, ügyész, nyomozó hatóság a terhelt egész vagyonának vagy egyes vagyontárgyainak a zár alá vételét rendelte el (a továbbiakban: bűnügyi zárlat), ennek elvégzése a végrehajtó hatáskörébe tartozik.
 
 (2) A bűnügyi zárlatra a zárlatnak a szabályait, a pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt biztosító bűnügyi zárlatra pedig a pénzkövetelés biztosításának a szabályait kell megfelelően alkalmazni.
+
+202/A. § (1) Ha a bűnügyi zárlatot a Be. 159/A. §-a alapján rendelték el, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdés a), c), f), h), i), k), l), m) és n) pontja szerinti törvényekben meghatározott felszámolói feladatokat ellátó szervezetet, egyéb vállalkozások esetében a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 66. § (2) bekezdése szerinti állami felszámoló szervezetet a zár alá vételt elrendelő határozatban zárgondnokként ki kell jelölni.
+
+(2) Az (1) bekezdés szerinti zárgondnok a bűnügyi zárlat foganatosítása során a külön kormányrendeletben meghatározottak szerint köteles a vagyon megőrzéséről a rendes gazdálkodás szabályai szerint gondoskodni.
+
+(3) A bűnügyi zárlat elrendelésétől a bűnügyi zárlattal érintett jogi személyek tulajdonosai és vezető tisztségviselői nem hozhatnak a bűnügyi zárlat foganatosításával és céljával ellentétes döntéseket.
 
 203. § (1) A végrehajtó a bűnügyi zárlatot az elrendelő határozat kézhezvétele után haladéktalanul foganatosítja.
 
@@ -4228,13 +4234,16 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 306/E. § E törvénynek az egyes igazságügyi és magánjogi tárgyú törvények módosításáról szóló 2014. évi LXXIII. törvénnyel (a továbbiakban: Módtv.2) megállapított 34/A. § (1) és (2) bekezdését e rendelkezések hatálybalépését követően indult végrehajtási eljárásban kell alkalmazni, ideértve azt a végrehajtási eljárást is, amelyben a díjjegyzék megküldése a Módtv.2 hatálybalépésének napjáig a végrehajtást kérő részére még nem történt meg.
 
+306/F. § E törvénynek a brókerbotrányok áldozatainak kártérítését szolgáló vagyon biztonságba helyezéséről szóló 2015. évi XXXI. törvénnyel megállapított 202/A. §-ában foglaltakat az ötvenmillió forintot meghaladó értékre elkövetett, az ötvenmillió forintot meghaladó kárt okozó, vagy az ötvenmillió forintot meghaladó vagyoni hátrányt okozó bűncselekmény – ideértve azt is, ha a bűnhalmazatban lévő bűncselekmények vonatkozásában az érték, a kár és a vagyoni hátrány együttes összege a bűnhalmazat egészét tekintve az ötvenmillió forintot meghaladja – miatt indult, a törvény hatályba lépésekor folyamatban lévő büntetőeljárásban elrendelt zár alá vétel alapján indult végrehajtási ügyekben is alkalmazni kell. Ezekben az ügyekben a brókerbotrányok áldozatainak kártérítését szolgáló vagyon biztonságba helyezéséről szóló 2015. évi XXXI. törvény hatályba lépésétől számított 8 napon belül a zár alá vételt elrendelő bíróság, ügyészség vagy nyomozó hatóság köteles a 202/A. § (1) bekezdése szerinti zárgondnokot kijelölni és a kijelölésről a zárgondnokot, valamint a bűnügyi zárlat alá vont személyt vagy szervezetet értesíteni.
+
 ### Felhatalmazás
 
 307. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a 7. § (3) bekezdésének b) pontjában megjelölt összegek végrehajtás alá vonásának részletes szabályait,
 - b) a végrehajtói kézbesítés részletes eljárási szabályait,
-- c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat.
+- c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat,
+- d) a 202/A. § szerint kirendelt zárgondnok vagyonmegőrzési feladatait és eljárása szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
