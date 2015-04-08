@@ -97,7 +97,9 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 érdekében szükséges;
 
-- n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül;
+- n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése érdekében, ha
+  - na) a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül,
+  - nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európa-bajnokság vagy világbajnokság megrendezése céljából történik;
 - o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében.
 
 (2) Nem kell alkalmazni
