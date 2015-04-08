@@ -389,7 +389,7 @@ jogosult.
 
 (3) Kormányrendelet a Kormány irányítása alá tartozó szervek vezetői, a szervek szervezeti egységei vezetőinek tevékenysége, valamint egyes helyettes államtitkárok tevékenysége tekintetében a kormánybiztost irányítási jogkörrel ruházhatja fel.
 
-(4) A kormánybiztos tevékenységét a miniszterelnök irányítja.
+(4) A kormánybiztos tevékenységét a miniszterelnök, illetve a Kormány által határozatban kijelölt miniszter irányítja. Az irányító személye a kormánybiztos által ellátandó egyes feladatok tekintetében eltérő lehet.
 
 (5) A kormánybiztos megbízatása meghatározott időre, de legfeljebb két évre szól. A kormánybiztos e megbízatása a miniszteri, államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik. A kormánybiztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével.
 
@@ -399,7 +399,7 @@ jogosult.
 
 (8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
-(8a) A (8) bekezdéstől eltérően a kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben a kinevezése szerinti minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+(8a) A (8) bekezdéstől eltérően a kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben a kinevezése szerinti minisztériumban, miniszter irányítása alatt, illetve ha a kormánybiztos tevékenységét – a feladattól függően – a miniszterelnök és a miniszter is irányítja, az irányítást ellátó miniszter irányítása alatt álló minisztériumban működő titkárság segíti, amelyre mindkét esetben az államtitkár titkárságának szabályai az irányadóak.
 
 (9) A Kormány az (1) bekezdés szerinti normatív határozatában
 
