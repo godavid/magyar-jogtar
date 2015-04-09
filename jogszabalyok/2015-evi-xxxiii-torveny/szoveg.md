@@ -106,23 +106,7 @@ rendelettel állapítsa meg.
 
 (2) Az e törvény hatálybalépésekor a beruházással összefüggő folyamatban lévő közigazgatási hatósági eljárásokban, valamint a polgári peres és nem peres eljárásokban a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságot a Nemzeti Sportközpontok jogutódjának kell tekinteni. A jogutódlás tényét az érintett eljárásokban a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság bejelenti.
 
-18. § A kisajátításról szóló 2007. évi CXXIII. törvény 4. § (1) bekezdés n) pontja helyébe a következő rendelkezés lép:
-
-(A 2. § szerinti közérdekű célokra az alábbi esetekben lehetséges kisajátítás:)
-
-„n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése érdekében, ha
-
-na) a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül,
-
-nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európa-bajnokság vagy világbajnokság megrendezése céljából történik;”
-
-19. § (1) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban Ksztv.) 31. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A kormánybiztos tevékenységét a miniszterelnök, illetve a Kormány által határozatban kijelölt miniszter irányítja. Az irányító személye a kormánybiztos által ellátandó egyes feladatok tekintetében eltérő lehet.”
-
-(2) A Ksztv. 31. § (8a) bekezdése helyébe a következő rendelkezés lép:
-
-„(8a) A (8) bekezdéstől eltérően a kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben a kinevezése szerinti minisztériumban, miniszter irányítása alatt, illetve ha a kormánybiztos tevékenységét – a feladattól függően – a miniszterelnök és a miniszter is irányítja, az irányítást ellátó miniszter irányítása alatt álló minisztériumban működő titkárság segíti, amelyre mindkét esetben az államtitkár titkárságának szabályai az irányadóak.”
+18–19. §
 
 ### 1. melléklet a 2015. évi XXXIII. törvényhez
 
