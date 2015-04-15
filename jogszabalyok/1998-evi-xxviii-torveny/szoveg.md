@@ -171,11 +171,13 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 - b) közepesen veszélyes állatfajok,
 - c) elővigyázatosságot igénylő állatfajok.
 
-21. § (1) A különösen veszélyes állatfaj egyedét – kivéve ha e törvény végrehajtására kiadott rendelet eltérően rendelkezik – kizárólag állatkertben szabad tartani. A különösen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, másik állatkertbe történő át- vagy kihelyezésére, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak. Amennyiben lehetséges, az állatot egyedi azonosítóval kell ellátni, amelynek módjáról az engedélyben kell rendelkezni.
+21. § (1) A különösen veszélyes állatfaj egyedét – kivéve ha e törvény végrehajtására kiadott rendelet eltérően rendelkezik – kizárólag állatkertben szabad tartani. A különösen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, másik állatkertbe történő át- vagy kihelyezésére, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
 
-(2) A közepesen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, megvételére, felügyeletének átengedésére, eladásra való felkínálására, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha a tartás, szaporítás, elidegenítés, felügyelet átengedése, eladásra való felkínálás, országba történő behozatal, illetve bemutatás a környezet nyugalmát és biztonságát nem sérti vagy veszélyezteti, és az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak. Amennyiben lehetséges, az állatot egyedi azonosítóval kell ellátni, amelynek módjáról az engedélyben kell rendelkezni.
+(2) A közepesen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, megvételére, felügyeletének átengedésére, eladásra való felkínálására, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha a tartás, szaporítás, elidegenítés, felügyelet átengedése, eladásra való felkínálás, országba történő behozatal, illetve bemutatás a környezet nyugalmát és biztonságát nem sérti vagy veszélyezteti, és az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
 
-(3) Az elővigyázatosságot igénylő állatfaj egyedének tartását, szaporítását, elidegenítését, tartásának átengedését, országba történő behozatalát a természetvédelmi hatóságnak be kell jelenteni. Az elővigyázatosságot igénylő állatfaj egyede akkor tartható, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak. Amennyiben lehetséges, az állatot egyedi azonosítóval kell ellátni.
+(3) Az elővigyázatosságot igénylő állatfaj egyedének tartását, szaporítását, elidegenítését, tartásának átengedését, országba történő behozatalát a természetvédelmi hatóságnak be kell jelenteni. Az elővigyázatosságot igénylő állatfaj egyede akkor tartható, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
+
+(3a) Az (1)–(3) bekezdés hatálya alá tartozó hüllőket, madarakat és emlősöket egyedi azonosítóval kell ellátni.
 
 (4) A veszélyes állat tartási helyéül szolgáló ingatlanon, ingatlanrészen a veszélyre felhívó, jól látható tartós jelzést kell elhelyezni, az állat fajának feltüntetésével.
 
@@ -193,7 +195,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (8) A természetvédelmi hatóság nyilvántartása alapján a természetvédelemért felelős miniszter országos adatbázist működtet.
 
-(9) A veszélyes állatok tartásának, szaporításának, elidegenítésének, eladásra való felkínálásának, országba történő behozatalának, illetve bemutatásának, valamint egyedi azonosításának szabályait e törvény végrehajtására kiadott rendelet állapítja meg.
+(9)
 
 22. § (1) A veszélyes állat eltűnését a veszélyes állat tartója haladéktalanul köteles bejelenteni a természetvédelmi hatóságnak. Különösen és közepesen veszélyes állatfaj egyedének eltűnésekor a rendőrséget is értesíteni kell.
 
@@ -632,9 +634,14 @@ rendeletben állapítsa meg.
 (4) Felhatalmazást kap
 
 - a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter), hogy a mezőgazdasági haszonállatok tartásának részletes szabályait;
-- b) a miniszter, hogy a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
+- b) a miniszter, hogy
+  - ba) a veszélyes állatok körét, egyedi azonosításának szabályait,
+  - bb) a különösen veszélyes állatfaj egyede tartásának, szaporításának, elidegenítésének, másik állatkertbe történő át- vagy kihelyezésének, országba történő behozatalának, országból történő kivitelének, és bemutatásának részletes szabályait,
+  - bc) a közepesen veszélyes állatfaj egyede tartásának, szaporításának, elidegenítésének, megvételének, felügyelete átengedésének, eladásra való felkínálásának, országba történő behozatalának, országból történő kivitelének, és bemutatásának részletes szabályait,
+  - bd) az elővigyázatosságot igénylő állatfaj egyede tartásának, szaporításának, elidegenítésének, tartása átengedésének, országba történő behozatalának részletes szabályait,
+  - be) a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit,
 - c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
-- d)
+- d) a miniszter, hogy az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 - e) a miniszter, hogy az élő állat nyereményjáték díjaként történő felhasználásának részletes szabályait,
 - f) a miniszter, hogy az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait,
 - g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét,
