@@ -2144,7 +2144,7 @@ megfelelő címpótlékot kell folyósítani.
 
 (2) Fegyelmi eljárás keretében kell elbírálni a hivatásos állomány tagjának azt a szabálysértését – a szabálysértési elzárással is büntethető szabálysértés kivételével –, amelyet szolgálati helyen vagy a szolgálattal összefüggésben követett el.
 
-(3) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 485/A. §-ában meghatározott esetben a büntető jogszabályok alkalmazása szempontjából katonának [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 127. § (1) bekezdés, illetve az 1978. évi IV. törvény 122. § (1) bekezdés] tekintendő hivatásos állomány tagjának katonai vétségét fegyelmi eljárásban kell elbírálni. Amennyiben a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész határozata ellen nem jelentettek be panaszt, – a Be. 485/A. §-a szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
+(3) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 485/A. §-ában meghatározott esetben a büntető jogszabályok alkalmazása szempontjából katonának [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 127. § (1) bekezdés, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 122. § (1) bekezdés] tekintendő hivatásos állomány tagjának katonai vétségét fegyelmi eljárásban kell elbírálni. Amennyiben a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész határozata ellen nem jelentettek be panaszt, – a Be. 485/A. §-a szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
 
 120. § (1) A fenyítés célja a szolgálati rend és fegyelem védelme, az elkövetőnek és másoknak a fegyelemsértéstől való visszatartása.
 
@@ -2408,6 +2408,18 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 (2) A fenyítés hatálya alól a 147. § (2) bekezdés a) és b) pontjában meghatározott időtartam eltelte előtt – kivételesen – akkor van helye mentesítésnek, ha a megfenyített személy a fenyítés után átlagon felüli teljesítményt nyújtott, és példamutató magatartást tanúsított.
 
 ### Eljárás a szolgálattal össze nem függő bűncselekmény esetén
+
+148/A. § (1) A hivatásos állomány tagja a munkáltatói jogkört gyakorló elöljárója részére köteles írásban bejelenteni azt a tényt, ha vele szemben közvádra üldözendő bűntett megalapozott gyanúját közölték.
+
+(2) A hivatásos állomány tagja a megalapozott gyanú közlését követő tizenöt napon belül köteles az (1) bekezdés szerinti kötelezettségének eleget tenni, e határidő elmulasztása esetén a hivatásos állomány tagja igazolással élhet.
+
+(3) Igazolásnak nincs helye akkor, ha a büntetőeljárásról a munkáltató tudomást szerzett, kivéve ha tájékoztatási kötelezettségének önhibáján kívül nem tud eleget tenni, ez esetben a (2) bekezdésben foglalt határidőt az akadály elhárultát követő naptól kell számítani.
+
+(4) Fegyelemsértésnek minősül, ha a hivatásos állomány tagja az (1) bekezdés szerinti bejelentési kötelezettségét elmulasztja, mulasztása miatt igazolással nem élt, és a munkáltatói jogkört gyakorló elöljárója tudomására jut, hogy a hivatásos állomány tagja ellen büntetőeljárás indult és a megalapozott gyanú közlése is megtörtént.
+
+148/B. § (1) Ha a munkáltatói jogkört gyakorló elöljáró a Be. 63/A. § (2a) bekezdése alapján tájékoztatást kap arról, hogy a hivatásos állomány tagjával szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint a 148/A. § (1) bekezdése szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
+
+(2) A munkáltatói jogkört gyakorló elöljáró a 148/A. § (1) bekezdése szerinti bejelentés során tudomására jutott személyes adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
 
 149. § (1) Ha a hivatásos állomány tagjával szemben a szolgálati viszonyból eredő kötelezettségeivel össze nem függő bűncselekmény miatt büntetőeljárás indul, a szolgálati beosztásából – a 107. § (1) bekezdése alkalmazásával – az eljárás befejezéséig felfüggeszthető.
 
@@ -3703,7 +3715,7 @@ A pótlékok mértéke:
 
 337. § A 245/I. §-ban meghatározott kiegészítő juttatásnak a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított szabályait 2014. január 1-jétől kell alkalmazni.
 
-338. §
+338. § E törvénynek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított rendelkezéseit a hivatásos állomány tagjával az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében kell alkalmazni.
 
 339–340. §
 

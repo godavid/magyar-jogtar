@@ -2189,6 +2189,18 @@ tart. A szolgálati beosztásból való felfüggesztést haladéktalanul meg kel
 
 #### 92. A büntetőeljáráshoz kapcsolódó rendelkezések
 
+160/A. § (1) Az állomány tagja a munkáltatói jogkört gyakorló részére köteles írásban bejelenteni azt a tényt, ha vele szemben közvádra üldözendő bűntett megalapozott gyanúját közölték.
+
+(2) Az állomány tagja a megalapozott gyanú közlését követő tizenöt napon belül köteles az (1) bekezdés szerinti kötelezettségének eleget tenni, e határidő elmulasztása esetén az állomány tagja igazolással élhet.
+
+(3) Igazolásnak nincs helye akkor, ha a büntetőeljárásról a munkáltató tudomást szerzett, kivéve ha az állomány tagja a tájékoztatási kötelezettségének önhibáján kívül nem tud eleget tenni, ez esetben az (1) bekezdésben foglalt határidőt az akadály elhárultát követő naptól kell számítani.
+
+(4) Fegyelmi vétségnek minősül, ha az állomány tagja az (1) bekezdés szerinti bejelentési kötelezettségét elmulasztja, mulasztása miatt igazolással nem élt, és a munkáltatói jogkört gyakorló tudomására jut, hogy az állomány tagja ellen büntetőeljárás indult és a megalapozott gyanú közlése is megtörtént.
+
+160/B. § (1) Ha a munkáltatói jogkört gyakorló a büntetőeljárásról szóló törvény 63/A. § (2a) bekezdése alapján tájékoztatást kap arról, hogy az állomány tagjával szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint a 160/A. § (1) bekezdése szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
+
+(2) A munkáltatói jogkört gyakorló a 160/A. § (1) bekezdése szerinti bejelentés során tudomására jutott személyes adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
+
 161. § (1) A munkáltatói jogkört gyakorló az állomány tagját szolgálati beosztásából határozattal felfüggeszti, ha az állomány tagja ellen büntetőeljárás indul, és a terhére rótt bűncselekmény a Honvédség tekintélyét, működésébe vetett közbizalmat súlyosan sérti vagy veszélyezteti, vagy a szolgálattól való távol tartása indokolt.
 
 (2) A szolgálati beosztásból történő felfüggesztés legfeljebb az első fokú határozat kihirdetéséig, a Btk. 135. §-a szerinti katonai büntetés kiszabása esetén az eljárás jogerős befejezéséig tart.
@@ -3177,6 +3189,8 @@ különbözetének megtérítése iránti igényt.
 247/A. § A 140/A. §-ban meghatározott kiegészítő juttatásnak a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított szabályait 2014. január 1-jétől kell alkalmazni.
 
 247/B. § A 2015. január 1. és 2017. december 31. közötti időszakban a honvéd tisztjelöltek első beosztásba helyezése érdekében miniszteri rendeletben meghatározott munkakörcsaládokba tartozó beosztásokban szolgálatot teljesítő főhadnagyok a kötelező várakozási idő letelte előtt két évvel magasabb beosztásba kinevezhetők.
+
+247/C. § E törvénynek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított rendelkezéseit az állomány tagjával az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében kell alkalmazni.
 
 #### 142. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

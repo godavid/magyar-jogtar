@@ -80,9 +80,11 @@ funkcionális feladat: az igazgatási funkciók szerinti munkamegosztás alapjá
 
 (2) Az (1) bekezdés nem alkalmazható a települési önkormányzat részéről jogellenesen megállapított illetményre. Jogellenesen megállapított illetmény esetében a fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő illetményét a Kttv. kormánytisztviselőkre vonatkozó rendelkezése alapján történő besorolás szerint, a Kttv. rendelkezéseinek megfelelően kell megállapítani.
 
-(3) A fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő az (1) bekezdésben meghatározott illetményre – ide nem értve a fegyelmi büntetés miatti illetménycsökkentést – az életpályamodellhez kapcsolódó illetményrendszer bevezetéséről szóló külön törvény hatálybalépéséig jogosult, kivéve, ha a Kttv. alapján a besorolása szerinti illetménye – e törvény hatálybalépését követően bekövetkező ok miatt – meghaladja az (1) bekezdés szerinti illetmény összegét.
+(3) A fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő az (1) bekezdésben meghatározott illetményre – ide nem értve a fegyelmi büntetés miatti illetménycsökkentést – az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése hónapjának utolsó napjáig jogosult, kivéve, ha a Kttv. alapján a besorolása szerinti illetménye – az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépését követően bekövetkező ok miatt – meghaladja az (1) bekezdés szerinti illetmény összegét.
 
 (4) Az (1) bekezdésben meghatározott köztisztviselők esetében a Kttv. 72. § (5) bekezdéséből az „és illetményét meg kell állapítani” szövegrész nem alkalmazható.
+
+(5) A kormánytisztviselő illetményét az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépését követő hónap első napjától a Kttv. kormánytisztviselőkre vonatkozó rendelkezése alapján történő besorolás szerint, a Kttv. rendelkezéseinek megfelelően kell megállapítani.
 
 7/B. § (1) Amennyiben a megállapodás megkötését követően a megállapodásban szereplő köztisztviselők, munkavállalók személyében, illetve illetményében változás következik be 2012. november 30-át követően, a 2012. december havi, 2013. januárban esedékes illetmények, munkabérek és egyéb járandóságok, valamint azok közterhei fedezetének utólagos elszámolása és pénzügyi rendezése az érintett települési önkormányzat és a fővárosi és megyei kormányhivatal között közvetlenül történik.
 

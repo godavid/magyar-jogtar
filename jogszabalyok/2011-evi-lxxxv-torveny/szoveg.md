@@ -75,7 +75,7 @@ meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelha
 - 16. hasznosítás: a termékdíjköteles termékből képződő hulladéknak a Ht. szerinti hasznosítása;
 - 17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;
 - 18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék előállítható, feldolgozható, újbóli felhasználásra előkészíthető és készletezhető;
-- 18a. irodai papír: információ hordozására alkalmas író, nyomtató vagy fénymásoló papír, amely további megmunkálás nélkül alkalmas írásra, nyomtatásra vagy fénymásolásra;
+- 18a. irodai papír: információ hordozására alkalmas író, nyomtató vagy fénymásoló papír, amely további megmunkálás nélkül alkalmas írásra, nyomtatásra vagy fénymásolásra, továbbá az iratok, dokumentumok, folyóiratok vagy hasonló termékek tartására, rendezésére szolgáló, papírból készült iratrendező, dosszié, iratborító, levélrendező és irattartó mappa;
 - 19. kereskedelmi csomagolás: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2010. január 1-jén hatályos I. melléklete szerinti
   - a) 2009 vámtarifaszámú gyümölcslé (beleértve a szőlőmustot is) és zöldséglé, nem erjesztve, hozzáadott alkoholtartalom nélkül, cukor vagy más édesítőanyag hozzáadásával is,
   - b) 2106 90 20, 2106 90 30, 2106 90 51, 2106 90 55, 2106 90 59 vámtarifaszámú ízesített vagy színezett cukorszirup,
@@ -907,7 +907,7 @@ a termékdíjköteles terméket lefoglalja.
 
 #### 27. A termékdíjakkal kapcsolatos állami feladatok finanszírozása
 
-37. § (1) Az állami hulladékgazdálkodást közvetítő szervezet a hulladékgazdálkodási feladatainak elvégzéséhez költségvetési támogatást kap az e célra szolgáló fejezeti kezelésű előirányzatból. A hulladékgazdálkodási feladatokra az állami hulladékgazdálkodást közvetítő szervezet által kifizetett összegek az államháztartásról szóló 2011. évi CXCV. törvény 41. § (2) bekezdésétől eltérően költségvetési támogatásként nyújthatók.
+37. § (1) Az állami hulladékgazdálkodást közvetítő szervezet a hulladékgazdálkodási feladatainak elvégzéséhez elkülönített számlára költségvetési támogatást kap az e célra szolgáló fejezeti kezelésű előirányzatból. A hulladékgazdálkodási feladatokra az állami hulladékgazdálkodást közvetítő szervezet által kifizetett összegek az államháztartásról szóló 2011. évi CXCV. törvény 41. § (2) bekezdésétől eltérően költségvetési támogatásként nyújthatók.
 
 (2) A befizetett, behajtott környezetvédelmi termékdíj összegének 5%-a, de legfeljebb 3 milliárd forint a Nemzeti Adó- és Vámhivatalnak a termékdíjköteles termékekkel kapcsolatos feladatok ellátásához szükséges működési költségeinek a fedezetére szolgál.
 
@@ -1142,9 +1142,9 @@ f) elektromos, elektronikai berendezések
 | 14. | Elektromotor és elektromos generátor [az áramfejlesztő egység (aggregát) kivételével] | 8501* |
 | 15. | Elektromos áramfejlesztő egység (aggregát) és forgó áramátalakító | 8502* |
 | 16. | Elektromos transzformátor, statikus áramátalakító (pl. egyenirányító) és induktor | 8504* |
-| 17. | Elektromágnes; állandó mágnes és olyan áru, amely mágnesezés után állandó mágnessé válik | 8505* |
+| 17. | Elektromágnes; állandó mágnes és olyan áru, amely mágnesezés után állandó mágnessé válik | ex. 8505* |
 | 18. | Elektromos gyújtó- vagy indítókészülék szikragyújtású vagy kompressziós gyújtású, belső égésű motorhoz (pl. gyújtómágnes, mágnesdinamó, gyújtótekercs, gyújtógyertya és izzófej, indítómotor); generátor (pl. dinamó, alternátor) és az ilyen motorhoz használt árammegszakító | 8511* |
-| 19. | Napozóágyak, napozólámpák és hasonló, napozáshoz használt felszerelések: ultraibolya A sugarat felhasználó fénycsővel, más, napozóágyak, -lámpák, hasonló felszerelések napozáshoz | 8543 70 51 8543 70 55 |
+| 19. | Napozóágyak, napozólámpák és hasonló, napozáshoz használt felszerelések: ultraibolya A sugarat felhasználó fénycsővel, más, napozóágyak, -lámpák, hasonló felszerelések napozáshoz | 8543 70 51, 8543 70 55, 8543 70 59 |
 | 20. | Kisgépek, az alkatrészek kivételével |  |
 | 21. | Mérleg (az 50 mg vagy ennél nagyobb érzékenységű mérleg kivételével) | ex. 8423* |
 | 22. | Kötőgép, hurkológép | ex. 8447* |
@@ -1153,7 +1153,7 @@ f) elektromos, elektronikai berendezések
 | 25. | Elektromechanikus háztartási készülék, beépített elektromotorral, a 8508 alá tartozó porszívók kivételével | 8509* |
 | 26. | Villanyborotva, -hajnyíró gép és szőreltávolító készülék | 8510 |
 | 27. | Elektromos jelzőkészülék, ablaktörlő, jegesedés gátló és páramentesítő készülék gépjárműhez | ex. 8512 |
-| 28. | Elektromos átfolyásos vízmelegítő és merülőforraló; helyiségek fűtésére szolgáló, elektromos lég- és talajmelegítő készülék; elektrotermikus fodrászati készülék (pl. hajszárító, sütővas, sütővas-melegítő) és kézszárító készülék; villanyvasaló; más elektrotermikus háztartási készülék; elektromos fűtőellenállás a 8545 vtsz. alá tartozó kivételével | ex. 8516 10 |
+| 28. | Elektromos átfolyásos vízmelegítő és merülőforraló; helyiségek fűtésére szolgáló, elektromos lég- és talajmelegítő készülék; elektrotermikus fodrászati készülék (pl. hajszárító, sütővas, sütővas-melegítő) és kézszárító készülék; villanyvasaló; más elektrotermikus háztartási készülék; elektromos fűtőellenállás a 8545 vtsz. alá tartozó kivételével | ex. 8516* |
 | 29. | Legfeljebb 1000 V feszültségű elektromos áramkör összekapcsolására vagy védelmére, vagy elektromos áramkörbe vagy azon belüli összekapcsolásra szolgáló készülék, (például kapcsolók, relék, olvadóbiztosítékok, túlfeszültség-csökkentők, dugaszok, foglalatok, lámpafoglalatok és más csatlakozók, csatlakozódobozok) optikai szálakhoz, optikai szálból álló nyalábokhoz vagy kábelekhez való csatlakozók | 8536 |
 | 30. | Szerelt piezoelektromos kristály | 8541 60 00 |
 | 31. | Elektromos vibrációs masszírozó készülék | 9019 10 10 |
@@ -1196,7 +1196,7 @@ f) elektromos, elektronikai berendezések
 | 68. | Állóképvetítő, a mozgó fényképészeti gép kivételével; fényképészeti nagyító és kicsinyítő (a mozgó fényképészeti kivételével) | ex. 9008* |
 | 69. | Hangszer, amelyben a hangot elektromos úton keltik vagy erősítik (pl. orgona, gitár, tangóharmonika) | ex. 9207 |
 | 70. | Elektromos, elektronikus barkácsgépek, szerszámok, kivéve a nagyméretű, helyhez kötött ipari szerszámok, az alkatrészek kivételével |  |
-| 71. | Elektromos talaj-előkészítésre vagy megmunkálásra szolgáló gép | 8432* |
+| 71. | Elektromos talaj-előkészítésre vagy megmunkálásra szolgáló gép | ex. 8432* |
 | 72. | Elektromos fűkaszáló gép | 8433 11 10* |
 | 73. | Fémipari eszterga | ex. 8458* |
 | 74. | Anyagleválasztással működő fémipari gép | ex. 8459* |
@@ -1215,10 +1215,10 @@ f) elektromos, elektronikai berendezések
 | 87. | Szórakozóhelyi felszerelés, asztali vagy társasjáték, beleértve a tivoli játékot, a biliárdok, különféle típusú játékkaszinó-asztalt és az automata tekepálya-felszerelést is | ex. 9504* |
 | 88. | Ellenőrző és vezérlő eszközök, az alkatrészek kivételével |  |
 | 89. | Elektromosan működő akusztikus vagy vizuális jelzőberendezés (pl. csengő, sziréna, jelzőtábla, betörést vagy tüzet jelző riasztókészülék), a 8512 vagy a 8530 alá tartozó kivételével | 8531* |
-| 90. | Ellenőrző és vezérlő eszközök (pl. vezérlőpultok) | ex. 8537 10* |
+| 90. | Elektromos vezérlésre vagy az elektromosság elosztására szolgáló készülék | ex. 8537 10* |
 | 91. | Fajsúlymérő és hasonló folyadékban úszó mérőműszer, hőmérő, pirométer, barométer, higrométer és pszichométer, regisztrálóval is, és mindezek egymással kombinálva is | ex. 9025* |
 | 92. | Folyadék vagy gáz áramlásának, szintjének, nyomásának vagy más változó jellemzőinek mérésére vagy ellenőrzésére szolgáló eszköz, műszer és készülék | ex. 9026* |
-| 93. | Háztartási vagy laboratóriumi mérő és szabályozó elektromos, elektronikus készülékek, berendezések | ex. 9027* |
+| 93. | Laboratóriumi mérő vagy ellenőrző elektromos, elektronikus készülékek, berendezések | ex. 9027* |
 | 94. | Gáz-, folyadék- vagy áram fogyasztásának vagy előállításának mérésére szolgáló készülék, ezek hitelesítésére szolgáló mérőeszköz is | ex. 9028* |
 | 95. | Fordulatszámláló, termékszámláló, taxióra, kilométer-számláló, lépésszámláló és hasonló készülék; sebességmérő és tachométer; stroboszkóp | ex. 9029* |
 | 96. | Automata szabályozó- vagy ellenőrző műszer és készülék | ex. 9032* |
