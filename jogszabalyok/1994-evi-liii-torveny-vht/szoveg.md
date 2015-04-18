@@ -2931,7 +2931,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 - c) megismerheti a kamara és szervei által kezelt valamennyi adatot,
 - d) megtekintheti a kamara és szervei bármely iratát,
 - e) beléphet a kamara és szervei által használt bármely helyiségbe,
-- f) elrendelheti a kamara gazdálkodásának és informatikai rendszereinek vizsgálatát.
+- f) elrendelheti a kamara gazdálkodásának és informatikai rendszereinek vizsgálatát,
+- g) rendkívüli közgyűlést hívhat össze.
 
 (3) A miniszteri biztos a kinevezésében foglaltaktól függően
 
@@ -3381,9 +3382,9 @@ esetén van lehetőség.
 
 (4) A kamara a munkájának elősegítésére további tisztségeket és bizottságokat hozhat létre, hivatalt tarthat fenn, és ügyintézőket alkalmazhat.
 
-252. § (1) A kamara elnöke a közgyűlést szükség szerint, de évente legalább egyszer a napirend közlésével összehívja. Ha a kamarai tagok egyötöde az ok és a cél megjelölésével írásban kérte, az elnök köteles a közgyűlést egy hónapon belüli időpontra összehívni.
+252. § (1) A kamara elnöke a közgyűlést szükség szerint, de évente legalább egyszer a napirend közlésével összehívja. Ha a kamarai tagok egyötöde az ok és a cél megjelölésével azt írásban kéri, az elnök köteles a közgyűlést egy hónapon belüli időpontra összehívni. A miniszteri biztos az ok és a cél megjelölésével egy hónapon belüli időpontra rendkívüli közgyűlést hívhat össze.
 
-(2) A közgyűlés akkor határozatképes, ha azon az elnökség 4 tagja és a kamara végrehajtó tagjainak több mint a fele jelen van. Határozatképtelenség esetén a taggyűlést újra össze kell hívni, a megismételt taggyűlés – ha azon az elnökség 4 tagja jelen van – a résztvevők számára tekintet nélkül határozatképes. A két taggyűlés között több mint egy hétnek kell eltelnie.
+(2) A közgyűlés akkor határozatképes, ha azon a kamara végrehajtó tagjainak több mint a fele jelen van. Határozatképtelenség esetén a taggyűlést újra össze kell hívni, a megismételt taggyűlés a résztvevők számára tekintet nélkül határozatképes. A két taggyűlés között több mint egy hétnek kell eltelnie.
 
 (3) Ha a közgyűlés határozatképes, az előzetes napirendben nem szereplő kérdést is a napirendjére tűzhet.
 
@@ -3391,11 +3392,17 @@ esetén van lehetőség.
 
 (5) A közgyűlés kizárólagos hatáskörébe tartozik a szervezeti és működési szabályzat elfogadása és módosítása, valamint a kamara szerveibe a tagok megválasztása.
 
-(6) A tisztségviselők választása titkos szavazással történik, megbízatásuk 4 évre szól és újraválaszthatók.
+(6) A tisztségviselők választása titkos szavazással történik, megbízatásuk 4 évre szól, legfeljebb egyszer választhatók újra.
+
+(7) A megválasztott tisztségviselő a megbízatást visszautasíthatja.
+
+(8) A szavazatszámláló testület tagjait a közgyűlés választja meg. A jelöltállítással összefüggő adminisztratív feladatokat a kamara által létrehozott hivatali szervezet látja el.
+
+(9) A közgyűlés a tisztségviselőket bármikor indokolás nélkül visszahívhatja. Ha a visszahívásról megismételt közgyűlésen kell dönteni, a közgyűlés döntését a jelenlévő tagok számára tekintet nélkül hozza meg.
 
 253. § (1) A választmányt szükség esetén, de évente legalább egyszer a kamara elnöke vagy ügyvezető alelnöke hívja össze a napirend közlésével.
 
-(2) A választmány akkor határozatképes, ha ülésén az elnökség legalább 4 tagja, valamint a választmány tagjainak több mint a fele jelen van, a döntéshozatal módjára a 252. § (3) és (4) bekezdése irányadó.
+(2) A választmány akkor határozatképes, ha ülésén a választmány tagjainak több mint a fele jelen van, a döntéshozatal módjára a 252. § (3) és (4) bekezdése irányadó.
 
 (3) A választmány elfogadja a kamara éves költségvetését, az annak végrehajtásáról szóló beszámolót, valamint a kamarai iránymutatásokat, és jogosult dönteni minden olyan kérdésben, amely nem tartozik a közgyűlés vagy az elnökség kizárólagos hatáskörébe.
 
@@ -4235,6 +4242,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 306/E. § E törvénynek az egyes igazságügyi és magánjogi tárgyú törvények módosításáról szóló 2014. évi LXXIII. törvénnyel (a továbbiakban: Módtv.2) megállapított 34/A. § (1) és (2) bekezdését e rendelkezések hatálybalépését követően indult végrehajtási eljárásban kell alkalmazni, ideértve azt a végrehajtási eljárást is, amelyben a díjjegyzék megküldése a Módtv.2 hatálybalépésének napjáig a végrehajtást kérő részére még nem történt meg.
 
 306/F. § E törvénynek a brókerbotrányok áldozatainak kártérítését szolgáló vagyon biztonságba helyezéséről szóló 2015. évi XXXI. törvénnyel megállapított 202/A. §-ában foglaltakat az ötvenmillió forintot meghaladó értékre elkövetett, az ötvenmillió forintot meghaladó kárt okozó, vagy az ötvenmillió forintot meghaladó vagyoni hátrányt okozó bűncselekmény – ideértve azt is, ha a bűnhalmazatban lévő bűncselekmények vonatkozásában az érték, a kár és a vagyoni hátrány együttes összege a bűnhalmazat egészét tekintve az ötvenmillió forintot meghaladja – miatt indult, a törvény hatályba lépésekor folyamatban lévő büntetőeljárásban elrendelt zár alá vétel alapján indult végrehajtási ügyekben is alkalmazni kell. Ezekben az ügyekben a brókerbotrányok áldozatainak kártérítését szolgáló vagyon biztonságba helyezéséről szóló 2015. évi XXXI. törvény hatályba lépésétől számított 8 napon belül a zár alá vételt elrendelő bíróság, ügyészség vagy nyomozó hatóság köteles a 202/A. § (1) bekezdése szerinti zárgondnokot kijelölni és a kijelölésről a zárgondnokot, valamint a bűnügyi zárlat alá vont személyt vagy szervezetet értesíteni.
+
+306/F. § E törvénynek a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2015. évi XL. törvénnyel (a továbbiakban: Módtv.3.) megállapított rendelkezéseit a Módtv.3. hatálybalépését követő kamarai szervi ülések összehívása és lebonyolítása, valamint a kamara szerveinek megválasztása során – a szervezeti és működési szabályzat Módtv.3.-nak megfelelő módosítása hiányában is – alkalmazni kell.
 
 ### Felhatalmazás
 
