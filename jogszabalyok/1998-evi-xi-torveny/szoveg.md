@@ -356,8 +356,6 @@ az ügyvédekről
 
 (4) Az ügyvéd megbízást nem vállalhat el abban az ügyben, amelyben korábban bíróként, ügyészként, közjegyzőként, közjegyzőhelyettesként vagy nyomozó hatóság tagjaként eljárt.
 
-25/A. §
-
 ### A meghatalmazás
 
 26. § (1) Az ügyvédnek adott meghatalmazás csak akkor érvényes, ha írásba foglalták. A meghatalmazást a megbízónak vagy a jogi segítségnyújtás körében a támogatás jogosultjának (e § alkalmazásában továbbiakban együtt: megbízó) és az ügyvédnek saját kezűleg alá kell írnia.
@@ -482,9 +480,41 @@ megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvánta
 
 fogadhat el.
 
-(2) Készpénz és értéktárgy letétként való átvételét az ügyvéd írásban, letéti szerződésben köteles rögzíteni.
+(2) A vagyontárgy és pénz letétként való átvételére vonatkozó jogügyletet az ügyvéd írásban, a Magyar Ügyvédi Kamara szabályzatában meghatározott tartalmi elemeket is magában foglaló letéti szerződésben köteles rögzíteni.
 
-(3) Az ügyvéd az átvett készpénzt és értéktárgyat kizárólag letétként kezelheti, azt nem hasznosíthatja, és nem fogadhat el olyan megbízást, amely a letét felhasználására hatalmazza fel.
+(3) Az ügyvéd az átvett pénzt és vagyontárgyat kizárólag letétként kezelheti, azt nem hasznosíthatja, és nem fogadhat el olyan megbízást, amely a letét felhasználására hatalmazza fel.
+
+30/A. § (1) A területi ügyvédi kamara a pénzletétek biztonsága, valamint a letétkezelésre vonatkozó szabályok hatékony ellenőrzése érdekében a pénzletétekről elektronikus nyilvántartást (a továbbiakban: letéti nyilvántartás) vezet.
+
+(2) A letéti nyilvántartás
+
+- a) az átvett letét összegét,
+- b) a letét típusát,
+- c) a letéteményes ügyvéd nevét, kamarai azonosító számát,
+- d) a letéti szerződés megkötésének dátumát,
+- e) a letét összegét is érintő letéti szerződés módosítás esetén ennek tényét és a letét megváltozott összegét,
+- f) a letéti szerződés megszűnésének dátumát, valamint
+- g) a letét letéti nyilvántartás szerinti azonosító számát
+
+tartalmazza.
+
+(3) A letéti nyilvántartás a (2) bekezdés szerinti adatokat a letéti szerződés megszűnését követő 10 évig tartalmazza. Ezt követően a területi kamara gondoskodik az adatok törléséről.
+
+(4) Az ügyvéd a letét átvételével egyidejűleg köteles a letéti szerződés (2) bekezdés a)–d) pontjában megjelölt adatait a letéti nyilvántartásban rögzíteni és a rögzítés tényét igazoló – a (2) bekezdésben meghatározott adatokat tartalmazó – iratot a letevőnek átadni. Ha a pénzletétet átutalással fizetik meg, a letét letéti nyilvántartásban történő rögzítésére az ügyvéd a letéti számlán történő jóváírását követő napon köteles.
+
+(5) A letét adatainak a letéti nyilvántartásban való rögzítése a területi kamara által erre a célra biztosított elektronikus felületen keresztül hivatalos elektronikus aláírással és időbélyeggel ellátott nyilatkozat megtételével történik. A területi ügyvédi kamara gondoskodik arról, hogy a nyilatkozat megtételére szolgáló informatikai alkalmazás az ügyvédek számára – az üzemszerű karbantartás idejét leszámítva – folyamatosan elérhető legyen.
+
+(6) Az ügyvéd a letét összegének változását és a letét megszűnését a letéti nyilvántartásban haladéktalanul, de legkésőbb három munkanapon belül rögzíteni köteles.
+
+(7) A letéti nyilvántartásból
+
+- a) a letevő saját letétje ellenőrzése céljából a nevét, címét, letevői minőségét és a (2) bekezdés a)–d), valamint g) pontjában szereplő adatokat tartalmazó nyilatkozattal a letét adatait,
+- b) a fegyelmi eljárást lefolytató, illetve a letétkezelés szabályainak megtartását ellenőrző kamarai szerv a fegyelmi eljárás eredményes lefolytatása, az ügyvéd által kezelt letétek kezelésére vonatkozó szabályok megtartásának ellenőrzése érdekében az eljárás alá vont ügyvéd által kezelt letétek adatait,
+- c) a letéteményes ügyvéd az általa kezelt letétek adatait
+
+megismerheti.
+
+(8) A területi kamara a letéti nyilvántartásból a letét típusáról és összegéről statisztikai adatgyűjtés céljából adatot szolgáltat a Magyar Ügyvédi Kamara részére.
 
 ### V. Fejezet — AZ ÜGYVÉD KIRENDELÉSE
 
@@ -1514,7 +1544,8 @@ szerint illetékes kamaránál kell előterjeszteni.
 - e) összeférhetetlenségi eljárást kezdeményezhet,
 - f) fegyelmi büntetésnek nem minősülő figyelmeztetést alkalmazhat,
 - g) irányítja a területi kamara ügyintézői szervezetének működését, az alkalmazottak felett munkáltatói jogot gyakorol,
-- h) elvégzi a közgyűlés és az alapszabály által meghatározott egyéb feladatokat.
+- h) elrendeli az ügyvédi letét kezelésére vonatkozó szabályok megtartásának ellenőrzését és első fokon határoz az ellenőrzés eredményéről,
+- i) elvégzi a közgyűlés és az alapszabály által meghatározott egyéb feladatokat.
 
 (2) A területi kamara elnökének határozata ellen a közlésétől számított tizenöt napon belül a területi elnökséghez fellebbezhet a területi kamarának az a tagja, akit a határozat érint.
 
@@ -1616,7 +1647,8 @@ szerint illetékes kamaránál kell előterjeszteni.
 - m) ügyvédi kitüntető címet és jelvényt adományoz,
 - n) meghatározza a kamarai választások időszakát,
 - o) másodfokon határoz a pénzmosás és terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzését szolgáló vizsgálat befejezéséről,
-- p) elvégzi a teljes ülés és az Alapszabály által meghatározott egyéb feladatokat.
+- p) másodfokon határoz az ügyvéd letét kezelésére vonatkozó szabályok megtartása ellenőrzésének eredményéről,
+- q) elvégzi a teljes ülés és az Alapszabály által meghatározott egyéb feladatokat.
 
 (3) Az elnökség határozata elleni jogorvoslatra a 104. § (4) bekezdését kell alkalmazni azzal, hogy a keresetet a területi kamara nyújthatja be. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.
 
@@ -1714,7 +1746,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 (2) A tisztségviselő visszahívását az őt megválasztó szerv tagjainak egyharmada kezdeményezheti.
 
-### XVI. Fejezet — A PÉNZMOSÁS ÉS A TERRORIZMUS FINANSZÍROZÁSA MEGELŐZÉSÉNEK ÉS MEGAKADÁLYOZÁSÁNAK ELLENŐRZÉSE
+### XVI. Fejezet — A PÉNZMOSÁS ÉS A TERRORIZMUS FINANSZÍROZÁSA MEGELŐZÉSÉNEK ÉS MEGAKADÁLYOZÁSÁNAK, AZ ÜGYVÉDI LETÉTEK KEZELÉSÉNEK ELLENŐRZÉSE
 
 120/A. § (1) A területi ügyvédi kamara (e §-ban a továbbiakban: kamara) e § szerint ellenőrzi az ügyvédnek
 
@@ -1748,6 +1780,24 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (10) Az ügyvéd köteles a vizsgálat lefolytatását elősegíteni, a kamara felhívásaiban, határozataiban foglaltakat teljesíteni, a helyszíni vizsgálat lefolytatását lehetővé tenni.
 
 (11) A kamara, a vizsgálóbiztos és a Magyar Ügyvédi Kamara az ellenőrzés során jogosult az ügyvédi titok körébe tartozó adat megismerésére; az ellenőrzésben részt vevő kamarai tagok és alkalmazottak titoktartási kötelezettségére az ügyvéd titoktartási kötelezettségére vonatkozó szabályok megfelelően alkalmazandók.
+
+120/B. § (1) A területi kamara az ügyvéd letét kezelésére vonatkozó, jogszabályban, valamint a Magyar Ügyvédi Kamara szabályzatában foglalt kötelezettségeinek megtartását ellenőrizni jogosult.
+
+(2) Az ellenőrzésre szolgáló vizsgálatot a területi kamara elnöke indítja meg, a vizsgálat befejezéséről a területi kamara elnöke határoz. Az ügyvéd a területi kamara elnöke által hozott határozat ellen a Magyar Ügyvédi Kamara elnökségéhez fellebbezhet.
+
+(3) Az ügyvédi letét kezelésére vonatkozó szabályok megtartásának ellenőrzése során a 120/A. §-ban foglaltakat kell értelemszerűen alkalmazni azzal, hogy
+
+- a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény helyett a letét kezelésére vonatkozó jogszabályt,
+- b) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglaltak végrehajtására az ügyvédi iroda által vagy a Magyar Ügyvédi Kamara által készített szabályzat helyett az ügyvédi iroda vagy a Magyar Ügyvédi Kamarának a letét kezelésére vonatkozó szabályzatát, valamint
+- c) kamara elnöksége helyett a területi kamara elnökét
+
+kell érteni.
+
+(4) A területi kamara, a Magyar Ügyvédi Kamara, valamint a vizsgálóbiztos a 120/A. § (11) bekezdésében foglaltakon túl jogosult az ügyvéd letétkezelésre használt számláját vezető bank nevét, a bankszámla-számát, -egyenlegét, valamint az ellenőrzés időpontjától számított 10 évre visszamenőleg a forgalmát megismerni.
+
+(5) Az ügyvéd a (4) bekezdésben megjelölt szervek felhívására köteles közölni az ott meghatározott, valamint a letéttel kapcsolatos egyéb adatokat.
+
+(6) Ha a vizsgálat eredményeként az ügyvéd letétkezelési tevékenységével összefüggésben bűncselekmény elkövetésére utaló adat merült fel, a területi kamara elnöke feljelentést tesz az eljárás lefolytatására hatáskörrel rendelkező szervnél.
 
 ### XVII. Fejezet — A TÖRVÉNYESSÉGI FELÜGYELET
 
