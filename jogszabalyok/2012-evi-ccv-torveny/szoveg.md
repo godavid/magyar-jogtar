@@ -509,6 +509,8 @@ vezényelhető.
 
 (2) Az azonos vagy az alacsonyabb beosztásba áthelyezés kérelemre is történhet.
 
+(2a) A miniszter az állomány ezredes, tábornok rendfokozattal rendszeresített, vezetői beosztást betöltő tagját beosztásából indokolás nélkül rendelkezési állományba helyezheti.
+
 (3) Az alacsonyabb beosztásba áthelyezéshez az állomány tagjának beleegyezése szükséges.
 
 (4) A magasabb beosztásba kinevezés, az azonos beosztásba áthelyezés, a rendelkezési állományba áthelyezés, a vezénylés, a megbízás és a maximális várakozási idő meghosszabbítása során az állomány tagja kérheti különös méltánylást érdemlő egyéni érdekének figyelembe vételét.
@@ -550,9 +552,10 @@ vezényelhető.
 - q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára,
 - r) a hivatásos állomány legalább százados vagy legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 - s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
-- t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány).
+- t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
+- u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes, tábornok rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.
 
-(2) Az (1) bekezdés j) pontja szerinti rendelkezési állományba helyezett személyt az ok megszűnését követően megfelelő szolgálati beosztásban kell továbbfoglalkoztatni.
+(2) Meg kell szüntetni az (1) bekezdés f)–i), k)–m), p) és u) pontja szerinti rendelkezési állományt, ha az állomány tagjának megfelelő szolgálati beosztásba helyezésére nincs lehetőség.
 
 (3) Az állomány (1) bekezdés q) pontja alá tartozó tagjának szolgálati feladatait a Honvédség egészségügyi szervezetének vezetője határozza meg.
 
@@ -603,7 +606,7 @@ tart.
 
 49. § (1) Az állomány tagja eredeti szolgálati beosztásában való meghagyása mellett megfelelő szolgálati feladat végrehajtására vezényelhető.
 
-(2) A munkáltatói jogkört gyakorló az állomány 46. § (1) bekezdés f), h), i), k), l), és p)–r) pontja alá tartozó tagját megfelelő szolgálati feladat ellátására vezényli. A vezénylés időtartama a 46. § (1) bekezdés r) pontja esetén nem haladhatja meg a rendelkezési állomány időtartamának felét.
+(2) A munkáltatói jogkört gyakorló az állomány 46. § (1) bekezdés f), h), i), k), l), és p)–r) és u) pontja alá tartozó tagját megfelelő szolgálati feladat ellátására vezényli. A vezénylés időtartama a 46. § (1) bekezdés r) pontja esetén nem haladhatja meg a rendelkezési állomány időtartamának felét.
 
 (3) A más helységbe történő vezénylések együttes időtartama 3 évenként a 6 hónapot nem haladhatja meg. A vezénylés befejezésétől számított 6 hónapon belül újabb vezénylésre nem kerülhet sor. E bekezdés szerinti korlátozásoktól az állomány tagjának kérelmére el lehet térni.
 
@@ -1629,7 +1632,7 @@ munkanap pótszabadság jár. A pótszabadság fogyatékos gyermekenként 2 munk
 - c) a szerződéses pályakezdő beosztási illetményét a tervezett beosztásának megfelelően, honvédelmi pótlékát a közkatonákra vonatkozóan kell megállapítani,
 - d) a közkatonát a II. besorolási osztály I. besorolási kategória szerint kell besorolni,
 - e) az állomány 46. § (1) bekezdés a) vagy c) pontja alá tartozó tagja beosztási illetményét a Honvédségnél létrehozott állománytáblában vagy munkaköri jegyzékben részére meghatározott beosztás alapján kell megállapítani,
-- f) az állomány 46. § (1) bekezdés f)–i), k)–m), p)–s) pontja alá tartozó tagja beosztási illetményét a (6) bekezdés szerinti beosztási szint figyelembevételével kell megállapítani.
+- f) az állomány 46. § (1) bekezdés f)–i), k)–m), p)–s) és u) pontja alá tartozó tagja beosztási illetményét a (6) bekezdés szerinti beosztási szint figyelembevételével kell megállapítani.
 
 (3) Az (1) bekezdéstől eltérően, miniszteri rendeletben meghatározottak szerint a honvédségi szervezetek részére megállapított személyi juttatások előirányzatán belül a munkáltatói jogkört gyakorló – a szolgálati beosztással járó feladatok kiemelkedő teljesítése elismeréseként – az állomány tagját a 122. § (4) bekezdése szerinti beosztási illetmény összegénél 30%-ig terjedően magasabb összegben is besorolhatja. Az eltérítés a tárgyév december 31-éig terjedő időszakra állapítható meg.
 
@@ -1662,7 +1665,7 @@ teljesít szolgálatot. A szerződéses pályakezdő a tervezett beosztása szer
 - b) az (1) bekezdés a) pontja alá tartozó felsőfokú végzettséggel nem rendelkezők esetén a beosztási illetmény 15%-a,
 - c) az (1) bekezdés b) és c) pontja alá tartozó felsőfokú végzettséggel nem rendelkezők esetén a beosztási illetmény 10%-a.
 
-(3) Az állomány 46. § (1) bekezdés g)–i), k), m), p), r), és s) pontja alá tartozó tagjának illetménykiegészítését a rendelkezési állományba helyezését megelőző mérték szerint kell megállapítani.
+(3) Az állomány 46. § (1) bekezdés g)–i), k), m), p), r), és s) és u) pontja alá tartozó tagjának illetménykiegészítését a rendelkezési állományba helyezését megelőző mérték szerint kell megállapítani.
 
 (4) Országos illetékességgel rendelkező vagy működési körű honvédségi szervezetnél szolgálatot teljesítő állomány illetménykiegészítését a miniszter rendeletben az (1) bekezdés b) és c) pontja szerinti vezetési szinttől eltérően, eggyel magasabb besorolásnak megfelelően állapíthatja meg. Az illetménykiegészítés mértékére a miniszter által meghatározott vezetési szintnek megfelelően a (2) bekezdést kell alkalmazni.
 
@@ -3192,6 +3195,8 @@ különbözetének megtérítése iránti igényt.
 
 247/C. § E törvénynek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított rendelkezéseit az állomány tagjával az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében kell alkalmazni.
 
+247/C. § A 2015. június 30-án hatályos 55. § szerinti, 2015. június 30-án folyamatban lévő megbízások e törvény erejénél fogva 2015. június 30-ával megszűnnek. A megbízás megszűnéséről az állomány tagját értesíteni kell.
+
 #### 142. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 248. § (1) E törvény 259. § (1)–(3), (7)–(11) bekezdése és a 272. §-a az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése alapján sarkalatosnak minősül.
@@ -3316,6 +3321,7 @@ való megfelelést szolgálja.
 | 1.2. Előterjesztés a köztársasági elnökhöz tábornok szolgálati viszonya megszűnésének megállapítására |
 | 1.3. Előterjesztés a köztársasági elnökhöz tábornok szolgálaton kívüli állományba vételére és annak megszüntetésére |
 | 1.4. Előterjesztés a köztársasági elnökhöz tábornok hivatásos állományba visszavételére |
+| 1.5. Tábornok esetén a 60. § (3) bekezdése szerinti megegyezés és a 69. § (1) bekezdése szerinti megállapodás megkötése. |
 | 2. Rendfokozatra vonatkozó döntések | 2.1. Előterjesztés a köztársasági elnökhöz első tábornoki rendfokozatba történő kinevezésre, ideértve a határozott időre szóló és a kötelező várakozási idő letelte előtti kinevezést is |
 | 2.2. Előterjesztés a köztársasági elnökhöz tábornok magasabb tábornoki rendfokozatba történő előléptetésére, ideértve a határozott időre szóló előléptetést is |
 | 2.3. Tábornok esetén határozott időre eggyel alacsonyabb rendfokozat megállapítása |
@@ -3333,7 +3339,7 @@ való megfelelést szolgálja.
 | 5.3. Kinevezés katonai attasé beosztásba |
 | 5.4. Tábornok esetén az együttalkalmazási tilalom alóli mentesítés |
 | 5.5. Tábornok szolgálati beosztásból történő felfüggesztése |
-| 5.6. Tábornok rendelkezési állományba helyezése |
+| 5.6. Tábornok rendelkezési állományba helyezése, valamint a 43. § (2a) bekezdése szerinti rendelkezési állományba helyezés |
 | 5.7. Tábornok hazai vezénylése, és annak megszüntetése a képzésre vezénylés kivételével |
 | 5.8. Tábornok megbízása |
 | 5.9. Tábornok illetmény nélküli szabadságának engedélyezése |
