@@ -69,6 +69,8 @@ kéri.
 
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
 
+(7) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a részadat-szolgáltatás során átadott adatok felhasználására jogszerűtlenül, nem a törvényben vagy kormányrendeletben meghatározott céllal került sor, vagy azok harmadik személy részére továbbításra kerültek, az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
+
 31/A. § Papír alapú tulajdonilap-másolat szolgáltatás esetén a közigazgatási hatósági eljárásban a személyes költségmentesség megállapításáról szóló kormányrendelet szerinti személyes költségmentesség kizárólag abban az esetben engedélyezhető, ha a kérelmező az ingatlan-nyilvántartásban bejegyzett jogosultként, kötelezettként szerepel vagy írásban igazolja, hogy a kiállított másolat joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
 
 32. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a tulajdonilap-másolat kiállítása iránti kérelmet elutasító döntés az ügyfél hátrányára jogszabálysértőnek bizonyult.
@@ -146,9 +148,22 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
 - o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
 - p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése,
-- q) az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: 2014. évi LXXVII. törvény) 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződést biztosító jelzálogjog ingatlan-nyilvántartási bejegyzése, illetve a 2014. évi LXXVII. törvény 13. § (1) bekezdése alapján felmondott fogyasztói jelzálogkölcsön szerződést biztosító jelzálogjog törlése.
+- q) az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: 2014. évi LXXVII. törvény) 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződést biztosító jelzálogjog ingatlan-nyilvántartási bejegyzése, illetve a 2014. évi LXXVII. törvény 13. § (1) bekezdése alapján felmondott fogyasztói jelzálogkölcsön szerződést biztosító jelzálogjog törlése,
+- r) a természetvédelmi jogi jellegek:
+  - ra) a helyi jelentőségű védett természeti terület,
+  - rb) az országos jelentőségű védett természeti terület,
+  - rc) a törvény erejénél fogva védett forrás, láp, barlang, víznyelő, szikes tó, kunhalom, földvár,
+  - rd) a természeti terület,
+  - re) a Natura 2000 terület,
+  - rf) az ökológiai folyosó, valamint
+  - rg) a barlang felszíni védőövezete tényének ingatlan-nyilvántartási feljegyzése iránti eljárás,
+- s) az állandó legelő vagy állandó gyep jogi jelleg feljegyzése,
+- t) a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg feljegyzése,
+- u) az Inytv. 89/A. §-a szerinti zártkerti ingatlan művelés alóli kivonására irányuló eljárás.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
+
+(3) Az (1) bekezdés szerinti díjmentességek tekintetében a jogok bejegyzése, tények feljegyzése alatt azok törlését, illetve módosítását is érteni kell.
 
 32/D. § Ha az ingatlanügyi hatóságnál ugyanazon ingatlanra vonatkozóan a kérelmező többféle, egymástól különböző típusú jog vagy tény keletkezésének, módosulásának vagy megszüntetésének a bejegyzését, feljegyzését, vagy a bejegyzett ilyen jog vagy feljegyzett ilyen tény törlését egy eljárásban kéri, a díjat csak egyszer, a legmagasabb díjtételnek megfelelő összegben kell megfizetni.
 

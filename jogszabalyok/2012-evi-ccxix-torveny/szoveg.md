@@ -46,6 +46,10 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 (6) A beolvadással kapcsolatos bírósági nyilvántartásba történő bejegyzést az átvevő hegyközségnek kell kezdeményeznie.
 
+(7) Az ingatlan tulajdoni lapján jogi jellegként a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleget fel kell tüntetni. A jogi jelleg feljegyzése érdekében a termőhelyi katasztert vezető szerv jogerős határozattal megkeresi az ingatlanügyi hatóságot.
+
+(8) A termőhelyi katasztert vezető szerv dönt a borszőlő termőhelyi kataszterbe történő sorolás megszüntetéséről, ha annak feltételei már nem állnak fenn. A termőhelyi katasztert vezető szerv a jogerős határozatot megküldi az ingatlanügyi hatóságnak a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.
+
 #### 5. A közgyűlés
 
 6. § (1) A hegyközség legfelsőbb önkormányzati testülete a közgyűlés, amely a tagok összességéből áll.
@@ -230,9 +234,9 @@ kezeli.
 
 20. § (1) Származási bizonyítványt minden hegyközségi tag, térítésmentesen kap, ha eleget tett a hegyközségi járulék megfizetésére vonatkozó, illetve az adatszolgáltatási kötelezettségének.
 
-(2) A szőlő termőhelyi kataszterében nyilvántartott szomszédos föld eladása vagy haszonbérbe adása esetén elővásárlási, illetve előhaszonbérleti jog illeti meg a hegyközségi tagot, ha ezen jogának érvényesítését megelőző 24 hónapban folyamatos hegyközségi tagsággal rendelkezett. Szomszédos földnek minősül a közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos szőlő termőhelyi kataszterében nyilvántartott föld. A hegyközségi tagot az elővásárlási jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott elővásárlásra jogosultak sorrendjében a földet használó földművest követően, a helyben lakó szomszéd földművest megelőzően illeti meg. A hegyközségi tagot az előhaszonbérleti jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott előhaszonbérletre jogosultak sorrendjében a volt haszonbérlőt követően, a helyben lakó szomszéd földművest megelőzően illeti meg.
+(2) A szőlő termőhelyi kataszterében nyilvántartott szomszédos föld eladása vagy haszonbérbe adása esetén elővásárlási, illetve előhaszonbérleti jog illeti meg a hegyközségi tagot, ha ezen jogának érvényesítését megelőző 24 hónapban folyamatos hegyközségi tagsággal rendelkezett. Szomszédos földnek minősül a közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos szőlő termőhelyi kataszterében nyilvántartott föld. A hegyközségi tagot az elővásárlási jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott elővásárlásra jogosultak sorrendjében a földet használó földművest követően, a helyben lakó szomszéd földművest megelőzően illeti meg. A hegyközségi tagot az előhaszonbérleti jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott előhaszonbérletre jogosultak sorrendjében a volt haszonbérlőt, illetve a földműves tulajdonostársat követően, a helyben lakó szomszéd földművest megelőzően illeti meg.
 
-(3) A hegybíró kérelemre, illetve megkeresésre igazolást állít ki arról, hogy az elővásárlási és az előhaszonbérleti jog gyakorlására az arra jogosult által került sor.
+(3) A hegybíró kérelemre, illetve megkeresésre igazolást állít ki arról, hogy az elővásárlási, illetve az előhaszonbérleti jog gyakorlásával érintett föld a szőlő termőhelyi, illetve ültetvény kataszterében nyilvántartott terület, valamint az elővásárlási, illetve az előhaszonbérleti jog gyakorlására jogosult, illetve e jogát gyakorolni kívánó személy ezen jog érvényesítését megelőző 24 hónapban folyamatos hegyközségi tagsággal rendelkezik.
 
 21. § A tag kötelezettsége, hogy
 
@@ -405,7 +409,7 @@ kapcsolatos feladatok ellátása.
 
 (3) Ha a hegybíró a működési területén belüli hegyközségi tagnál irányítási jogviszonyban, munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, ezen tag ügyeiben, valamint saját és közvetlen hozzátartozói ügyeiben nem járhat el. Az ezen ügyekkel kapcsolatos közigazgatási feladatok ellátására a Hegyközségek Nemzeti Tanácsának főtitkára jelöli ki az illetékes hegybírót.
 
-(4) A (2) bekezdés d) pontjában meghatározott feladatok ellátásához a hegybírónak az ingatlan-nyilvántartáshoz való hozzáférést térítésmentesen, valamint az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését díjmentesen kell biztosítani.
+(4) A (2) bekezdés d) pontjában meghatározott feladatok ellátásához a hegybírónak az ingatlan-nyilvántartáshoz, valamint a földhasználati nyilvántartáshoz való hozzáférést térítésmentesen, valamint az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését díjmentesen kell biztosítani.
 
 (5) A közgyűlés, illetve a választmány döntése alapján az elnök a 7. § (1) bekezdésének cb) és d) pontja, valamint a 22. § (1) bekezdése szerinti elnöki feladatok ellátásával külön megállapodással megbízhatja a hegybírót.
 
@@ -550,9 +554,9 @@ kell fedezni.
 
 (5) A nem borvidéki településen működő szőlészeti, illetve borászati termelőnek az általa művelt szőlőültetvény területe alapján, valamint a feldolgozott bormennyiség alapján a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a működése helye szerint illetékes hegyközség részére.
 
-(6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál. A fizetendő hegyközségi járulék összegéből le kell vonni a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara részére tagdíj jogcímen az adott évre vonatkozóan fizetendő összeget.
+(6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál.
 
-(7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott bormennyiség után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a feldolgozás helye szerint illetékes hegyközség részére.
+(7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott borászati termék mennyisége után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a feldolgozás helye szerint illetékes hegyközség részére.
 
 (8) A (7) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál. A fizetendő hegyközségi járulék összegéből le kell vonni azt az összeget, amelyet az Európai Gazdasági Térség valamely szerződő államában ilyen jogcímen a behozatalt megelőzően kötelező jelleggel megfizettek, feltéve, hogy azt nem igényelték vissza.
 
