@@ -6,42 +6,29 @@ a honvédek jogállásáról szóló 2012. évi CCV. törvény, valamint az azza
 
 1–7. §
 
-8. § A Hjt. 43. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A miniszter az állomány ezredes, tábornok rendfokozattal rendszeresített, vezetői beosztást betöltő tagját beosztásából indokolás nélkül rendelkezési állományba helyezheti.”
+8. §
 
 9. § (1)
 
-(2) A Hjt. 46. § (1) bekezdése a következő u) ponttal egészül ki:
-
-(A Honvédség rendelkezési állományába tartozik,)
-
-„u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes, tábornok rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.”
-
-(3) A Hjt. 46. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Meg kell szüntetni az (1) bekezdés f)–i), k)–m), p) és u) pontja szerinti rendelkezési állományt, ha az állomány tagjának megfelelő szolgálati beosztásba helyezésére nincs lehetőség.”
+(2)–(3)
 
 10–46. §
 
-47. § (1) A Hjt. 141. alcíme a következő 247/C. §-sal egészül ki:
-
-„247/C. § A 2015. június 30-án hatályos 55. § szerinti, 2015. június 30-án folyamatban lévő megbízások e törvény erejénél fogva 2015. június 30-ával megszűnnek. A megbízás megszűnéséről az állomány tagját értesíteni kell.”
+47. § (1)
 
 (2)
 
 48. § A Hjt.
 
 - 1–6.
-- 7. 49. § (2) bekezdésében a „p)–r)” szövegrész helyébe a „p)–r) és u)”,
+- 7.
 - 8–26.
-- 27. 123. § (2) bekezdés f) pontjában a „p)-s)” szövegrész helyébe a „p)–s) és u)”,
-- 28. 124. § (3) bekezdésében az „s)” szövegrész helyébe az „s) és u)”,
+- 27–28.
 - 29–52.
 
 szöveg lép.
 
-49. § (1) A Hjt. 2. melléklete az 1. melléklet szerint módosul.
+49. § (1)
 
 (2)–(4)
 
@@ -60,23 +47,6 @@ szöveg lép.
 55. § Az 53. § (1) és (2) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2015. évi XLIII. törvényhez
-
-1. A Hjt. 2. mellékletében foglalt táblázat B oszlopa az 1.4. alpont alatt a következő 1.5. alponttal egészül ki:
-
-| (A. A hatáskör területe | B. A munkáltatói jogkör megnevezése |
-| --- | --- |
-| 1. Szolgálati viszony |  |
-| megszüntetése, visszavétel) |
-
-„1.5. Tábornok esetén a 60. § (3) bekezdése szerinti megegyezés és a 69. § (1) bekezdése szerinti megállapodás megkötése.”
-
-2. A Hjt. 2. mellékletében foglalt táblázat B oszlopának 5.6. alpontja helyébe a következő rendelkezés lép:
-
-| (A. A hatáskör területe | B. A munkáltatói jogkör megnevezése |
-| --- | --- |
-| 5. Szolgálati beosztással kapcsolatos döntések) |  |
-
-„5.6. Tábornok rendelkezési állományba helyezése, valamint a 43. § (2a) bekezdése szerinti rendelkezési állományba helyezés”
 
 ### 2. melléklet a 2015. évi XLIII. törvényhez
 
