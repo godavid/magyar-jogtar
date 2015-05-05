@@ -90,7 +90,20 @@ látja el.
 - a) a veszélyes áruk belvízi szállítására történő előkészítésének, valamint a belvízi úton beérkezett veszélyes áruk továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése,
 - b) a veszélyes áruk kikötők területén végzett átrakásának, tárolásának ellenőrzése.
 
-6. § A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – látja el.
+6. § (1) A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – látja el.
+
+(2) A hajózási egészségi alkalmasság vizsgálatának felügyeletét az egészségügyi államigazgatási szervvel együttműködve a hajózási hatóság látja el.
+
+(3) A tengerészek egészségi alkalmasságának vizsgálatára vonatkozó nemzetközi követelmények érvényesítése, továbbá a hajózási képesítésekkel rendelkezők egészségi alkalmasságának biztosítása érdekében a hajózási hatóság az egészségi alkalmasság vizsgálatát – a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletben meghatározottak szerint – végző orvosokról nyilvántartást vezet, amely a következő adatokat tartalmazza:
+
+- a) a nyilvántartásba-vételt tartalmazó határozat száma és kelte;
+- b) az orvos természetes személyazonosító adatai, egészségügyi tevékenység során használt neve, levelezési címe, telefonszáma;
+- c) az orvos működési nyilvántartási száma;
+- d) annak megjelölése, hogy az orvos belvízi vagy tengeri hajós szolgálatot ellátó személy egészségi alkalmasságának vizsgálatára jogosult.
+
+(4) Az egészségi alkalmasság vizsgálatát végző orvosok nyilvántartása közhiteles nyilvántartásnak minősül, amelyet – az orvos nevét nem érintő természetes személyazonosító adatok kivételével – a hajózási hatóság a honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
+
+(5) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat az orvos nyilvántartásból való törlését követő két évig kezeli.
 
 ### Szakértői tevékenység
 
@@ -463,7 +476,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 ### VI. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉNEK MUNKAIDEJE
 
-42. § Az úszólétesítmény személyzetének munka- és pihenőidejére a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+42. § Az úszólétesítmény személyzetének munka- és pihenőidejére a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben, az STCW Egyezményben és a Tengerészeti Munkaügyi Egyezményben meghatározott eltérésekkel kell alkalmazni.
 
 43. § (1) A belvízi személyszállítási és árufuvarozási tevékenységet végző úszólétesítmény, a tengeri kereskedelmi hajó, a tengeri halászhajó, valamint a tengeren ásványi készletek kitermelésével összefüggő hajózási tevékenységet folytató úszólétesítmény személyzete tekintetében kollektív szerződés az Mt. munkaközi szünetre, a napi pihenőidőre, a heti pihenőnapra vagy pihenőidőre, a vasárnapi és a munkaszüneti napon történő munkavégzésre, valamint a rendkívüli munkavégzés éves mértékére vonatkozó rendelkezéseitől eltérhet, ezen túlmenően legfeljebb egy éves vagy legfeljebb ötvenkét heti munkaidőkeretet állapíthat meg.
 
@@ -477,7 +490,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 - b) bármely hét napos időszak vonatkozásában legalább hetvenhét óra pihenőidőt biztosítani kell, amelybe a napi és a heti pihenőidő számít be;
 - c) a napi pihenőidőt nem lehet kettőnél több részre osztani, ezek közül az egyiknek legalább hat óra tartamúnak kell lennie, továbbá a pihenőidő megszakításának időtartama a tizennégy órát nem haladhatja meg.
 
-(2) Az (1) bekezdésben meghatározott rendelkezésektől kollektív szerződés eltérhet, ha a munkavállaló évi rendes szabadságán túlmenően legalább évente egy hónap egybefüggő fizetett szabadságot biztosít. Ebben az esetben kollektív szerződés a napi pihenőidő minimális mértékét nyolc órában, a napi és a heti pihenőidő együttes mértékét legalább hatvanöt órában állapíthatja meg.
+(2) Az (1) bekezdésben meghatározott rendelkezésektől kollektív szerződés eltérhet, ha a munkavállaló évi rendes szabadságán túlmenően legalább évente egy hónap egybefüggő fizetett szabadságot biztosít. Ebben az esetben kollektív szerződés a napi pihenőidő minimális mértékét nyolc órában, a napi és a heti pihenőidő együttes mértékét legalább hetven órában állapíthatja meg.
 
 (3) Az (1)–(2) bekezdés alkalmazásában napi pihenőidőnek minősül a napi munka befejezése és a másnapi munkakezdés közötti időtartam, továbbá a munkaidő-beosztás alapján az egy napon belüli, két munkával töltött időszak közötti időtartam is, amennyiben annak hossza az egy órát eléri.
 
@@ -1026,9 +1039,11 @@ kezeli.
 - 31. őrszolgálat: tengeri hajón a parancsnoki hídon, a fedélzeten, illetve a géptérben, menetben vagy kikötőben teljesített szolgálat;
 - 32. révhajó, révcsónak: csak személyeket szállító komp;
 - 33. révkalauz: a hajó vezetőjét a hajó vezetésében segítő, kellő helyismerettel és képesítéssel rendelkező személy;
+- 33a. STCW Egyezmény: a 2012. évi XIX. törvénnyel kihirdetett, a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi manilai módosításaival egységes szerkezetbe foglalt szövege;
 - 34. személyhajó: a hajózási hatóság által 12 főnél több utas rendeltetésszerű szállítására alkalmasnak nyilvánított hajó;
 - 35. szükségkikötő: az úszólétesítményeknek a víziút használata során bekövetkezett szükséghelyzet (pl. rendkívüli vízállás, jégzajlás) miatti átmeneti tartózkodására kijelölt víz-, illetőleg partterület;
 - 36. tartályhajó: a hajótestben kialakított vagy a hajón rögzített tartályokban folyékony rakomány továbbítására alkalmassá nyilvánított hajó;
+- 36a. Tengerészeti Munkaügyi Egyezmény: a 2013. évi IV. törvénnyel kihirdetett a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 94. ülésszakán elfogadott 2006. évi Tengerészeti Munkaügyi Egyezmény;
 - 37. úszómunkagép: a vízimunka végzésére alkalmas úszólétesítmény, amely rendeltetésénél fogva nem végez árufuvarozást, illetőleg személyszállítást;
 - 38. úszólétesítmény: víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés;
 - 39. úszómű: helyváltoztatásra nem szolgáló, önálló meghajtással nem rendelkező, vízen munkát nem végző úszólétesítmény;
