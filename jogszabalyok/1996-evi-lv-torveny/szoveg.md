@@ -533,7 +533,9 @@ kell biztosítani.
 
 42. § (1) A körzeti vadgazdálkodási terv az e törvényben foglalt célok megvalósítását szolgáló tíz évre szóló hosszú távú vadgazdálkodási előírás.
 
-(2)–(3)
+(2) Az e törvény hatálybalépését követően első alkalommal jóváhagyott körzeti vadgazdálkodási terv 2016. február 29-ig szóló hosszú távú vadgazdálkodási előírás.
+
+(3)
 
 43. § (1) A körzeti vadgazdálkodási terv az adott térségre vonatkozóan tartalmazza:
 
@@ -621,7 +623,7 @@ kell biztosítani.
 
 (3) A vadászati hatóság az (2) bekezdésben foglaltak alól – így különösen, ha a vadászterület természeti adottságai ezt indokolják – felmentést adhat.
 
-(4) A vadászati hatóság, amennyiben a vad és élőhelyének szakszerű védelme ezt különösen indokolttá teszi, felsőfokú végzettségű hivatásos vadász igénybevételét is előírhatja, míg tízezer hektárt meghaladó vagy különleges rendeltetésű vadászterület esetén felsőfokú végzettségű hivatásos vadász igénybevétele kötelező.
+(4) A vadászati hatóság, amennyiben a vad és élőhelyének szakszerű védelme ezt különösen indokolttá teszi, felsőfokú végzettségű hivatásos vadász igénybevételét is előírhatja.
 
 (5) Hivatásos vadász igénybevételének minősül, ha a jogosult megfelelő képesítéssel rendelkezik, és a kamaránál hivatásos vadászként nyilvántartásba vették.
 
@@ -919,7 +921,9 @@ fényszóróval történő éjszakai vadászatát.
 
 ### A vadászható állat által okozott kár
 
-75/A. § A jogosult a vadászható állat által okozott kárért való felelősség Polgári Törvénykönyvben foglalt szabályai alapján köteles a mezőgazdálkodáson és erdőgazdálkodáson kívül másnak okozott kárt megtéríteni.
+75/A. § (1) A jogosult a vadászható állat által okozott kárért való felelősség Polgári Törvénykönyvben foglalt szabályai alapján köteles a mezőgazdálkodáson és erdőgazdálkodáson kívül másnak okozott kárt megtéríteni azzal, hogy a vadászatra jogosult ellenőrzési körén kívül eső oknak a vadászati jog gyakorlásán és a vadgazdálkodási tevékenység folytatásán kívül eső okot kell tekinteni.
+
+(2) A vadászható állat által okozott kárért való (1) bekezdés szerinti felelősség és a fokozott veszéllyel járó tevékenységért való felelősség találkozása esetén a Polgári Törvénykönyvnek a veszélyes üzemek találkozására vonatkozó szabályait kell alkalmazni.
 
 ### A vadászati kár
 

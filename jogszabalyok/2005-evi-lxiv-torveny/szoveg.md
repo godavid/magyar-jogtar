@@ -162,6 +162,8 @@ a Budapesti Agglomeráció Területrendezési Tervéről
 
 (2) A BATrTMód. hatálybalépése előtt elfogadott településrendezési eszközöket a főváros és az e törvény hatálya alá tartozó egyéb települések esetében 2015. december 31-ig összhangba kell hozni e törvénnyel.
 
+(3) Az olyan beépítésre szánt területet, amelyet az elfogadott településrendezési eszköz a BATrTMód. hatálybalépése előtt már beépítésre szánt területnek nyilvánított, továbbra is ilyen területnek kell tekinteni, kivéve ha ez a terület az OTrT 2. mellékletét képező Országos Szerkezeti Terv és az OTrT 1/1-11. melléklete által kijelölt országos jelentőségű műszaki infrastruktúra-hálózatok vagy egyedi építmények, vagy e törvény 2. számú (térképi) mellékletében meghatározott Szerkezeti Terv szerinti térségi műszaki infrastruktúra-hálózatok vagy egyedi építmények területére esik.
+
 ### 1/1. számú melléklet a 2005. évi LXIV. törvényhez
 
 A Budapesti Agglomeráció területéhez tartozó települések
