@@ -250,15 +250,15 @@ az általa kitermelt ásványi nyersanyag és geotermikus energia, illetve föld
 
 - a) a termelési műszaki üzemi terv alapján 2008. január 1. előtt üzemszerűen termelésbe állított szénhidrogén mezőkön kitermelt kőolaj és földgáz esetében – a b), d) és e) pontban foglalt kivétellel – 16%-a
 - b) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkön kitermelt földgáz esetében
-  - ba) J %-a, ahol
+  - ba) J%-a, ahol
 
-J: a bányajáradék százalékos mértéke,
+J: a bányajáradék százalékos mértéke;
 
-P: hatósági áron értékesített földgáz esetén az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló külön jogszabályban megállapított hatósági ár, szabadáras értékesítés esetén az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, illetve jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára,
+P: az egyetemes szolgáltatásra jogosult felhasználók ellátása érdekében értékesített földgáz esetén az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló jogszabályban megállapított hatósági ár; szabadáras értékesítés esetén a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló miniszteri rendeletben elismert földgáz aktuális ár tárgyévet megelőző, éves, USA-dollárban kifejezett átlagának és az MNB hivatalos napi árfolyamainak átlagának szorzata;
 
-A: a hazai kitermelésű földgáz elismert értéke 2003-ban,
+A: a hazai kitermelésű földgáz elismert értéke 2003-ban;
 
-k: korrekciós tényező, melynek értéke 2003-ban 1, és az ezt követő években évenként 0,24-gyel növekszik
+k: korrekciós tényező, melynek értéke 2003-ban 1, és az ezt követő években évenként 0,24-gyel növekszik;
 
 bb) 12%-a, amennyiben a bányajáradék ba) pont szerint számított mértéke a 12%-ot nem éri el;
 
@@ -270,7 +270,7 @@ cb) 20%-a, ha a szénhidrogén mezőből éves szinten a kitermelt földgáz men
 
 cc) 30%-a, ha a szénhidrogén mezőből éves szinten a kitermelt földgáz mennyisége 500 millió m3-t meghalad, kőolaj esetében 200 kt-t meghalad;
 
-d) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz, a nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén, valamint a szén-dioxid gáz esetében 12%-a;
+d) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz, valamint a szén-dioxid gáz esetében 12%-a;
 
 e) a magas inertgáz tartalmú földgáz esetében 8%-a;
 
@@ -278,7 +278,9 @@ f) az energiahordozók kivételével a külfejtéssel termelt nemfémes ásvány
 
 g) kőszenek mélyműveléses bányászata esetén 0%-a;
 
-h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.
+h) egyéb szilárd ásványi nyersanyagok esetében 2%-a;
+
+i) a nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén esetében 2%-a.
 
 (3a) A bányajáradék mértéke
 
@@ -696,7 +698,12 @@ foglaltakat kell alkalmazni.
 
 ### Létesítési előírások
 
-31. § (1) A bányafelügyelet engedélye szükséges az 1. § (1) bekezdés a)–m) pontjában meghatározott tevékenységek gyakorlásához szükséges építmények, létesítmények és berendezések, továbbá a cseppfolyós propán-, butángázok és ezek elegyei töltő és tároló létesítményeinek és elosztóvezetékeinek, valamint egyes nyomástartó berendezések (a továbbiakban együtt: sajátos építmények) építéséhez, használatbavételéhez, javításához, átalakításához, bontásához és felhagyásához.
+31. § (1) A bányafelügyelet engedélye szükséges
+
+- a) az 1. § (1) bekezdés a)–m) pontjában meghatározott tevékenységek gyakorlásához szükséges építmények, létesítmények és berendezések, továbbá a cseppfolyós propán-, butángázok és ezek elegyei töltő és tároló létesítményeinek és elosztóvezetékeinek építéséhez, használatbavételéhez, javításához, átalakításához, bontásához és felhagyásához, valamint
+- b) egyes nyomástartó berendezések építéséhez, használatbavételéhez, javításához, átalakításához
+
+[a továbbiakban az a)–b) pont szerinti építmények együttesen: sajátos építmény].
 
 (2) A bányafelügyelet azzal az építtetővel szemben, aki vagy amely
 
@@ -706,7 +713,7 @@ foglaltakat kell alkalmazni.
 - d) sajátos építményt vagy annak részét a településrendezési eszközök és az általános érvényű kötelező építésügyi előírások és biztonsági szabályzatok megszegésével létesít, vagy
 - e) építési engedélyhez kötött sajátos építményt használatbavételi engedély nélkül használ [a továbbiakban az a)–e) pont együttesen: szabálytalan építési tevékenység], bírságot szab ki, továbbá az építtetőt az a)–d) pontok esetében eltiltja a tevékenység folytatásától, az e) pont esetében eltiltja a használattól.
 
-(3) Ha a sajátos építményt a (2) bekezdés a) vagy b) pontja szerint létesítették, a bányafelügyelet arra fennmaradási engedélyt adhat, ha a szabályossá tétel feltételei fennállnak vagy megteremthetők. Ha a sajátos építményt a (2) bekezdés c) vagy d) pontja alapján létesítették, a bányafelügyelet elrendeli a sajátos építmény bontását.
+(3) Ha a sajátos építményt a (2) bekezdés a), b) vagy c) pontja szerint létesítették, a bányafelügyelet arra fennmaradási engedélyt adhat, ha a szabályossá tétel feltételei fennállnak vagy megteremthetők. Ha a sajátos építményt a (2) bekezdés d) pontja alapján létesítették, a bányafelügyelet elrendeli a sajátos építmény bontását.
 
 (4) Nem lehet a (2) bekezdés a) és b) pontjában meghatározott esetekben bírságot kiszabni, ha a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított építési engedélyt megsemmisítették, vagy azt a bíróság hatályon kívül helyezte.
 
@@ -1679,7 +1686,7 @@ bányahatósági felügyelete
 - 12. az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározására,
 - 13. az ásványvagyon-gazdálkodás részletes követelményeire,
 - 14. a vízgazdálkodásról szóló törvény rendelkezéseinek figyelembevételével a bányászat befejezését követően fennmaradó vagy keletkező, a felszín alatti vízkészletet érintő tóval kapcsolatos jogokra és kötelezettségekre,
-- 15. az állami földtani feladatokat ellátó szerv vagy szervek és a bányafelügyelet vagy bányafelügyeletek kijelölésére,
+- 15. az állami földtani feladatokat ellátó szerv vagy szervek és a bányafelügyelet vagy bányafelügyeletek kijelölésére, valamint a felügyeleti díj megosztására,
 - 16. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
 - 17. a 26/A. § (7) bekezdése szerinti pályázat tartalmi követelményeire,
 - 18. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
@@ -1718,7 +1725,7 @@ bányahatósági felügyelete
 - e) a bányászati hűségjutalomra vonatkozó szabályoknak,
 - f) a polgári robbantási tevékenység műszaki-biztonsági követelményeit tartalmazó szabályzatnak,
 - g) a bányászok erkölcsi és anyagi megbecsülésére, így különösen a szakmai utánpótlásra, a hagyományőrzésre és az egyéb sajátos juttatásokra vonatkozó rendelkezéseknek, a juttatások körének, jogosultjainak és mértékének, valamint
-- h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefüggésben a súlyos üzemzavar körének,
+- h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefüggésben a súlyos üzemzavar körének és az arról szóló jelentéstételi kötelezettségnek,
 - i) az Európai Unió irányelveiben előírt, az ásványi nyersanyagkutatásról, feltárásról és termelésről szóló, valamint az ásványvagyon-gazdálkodással, továbbá a bányászati tevékenység során keletkező hulladékkal kapcsolatos jelentés elkészítésének, az Európai Bizottsághoz történő továbbítás és a közzététel rendjének,
 - j) az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 - k) a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgák tematikájára és rendjére vonatkozó szabályok,
@@ -1732,7 +1739,7 @@ rendeletben történő megállapítására.
 
 (3) Felhatalmazást kap
 
-- a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének, megosztásának és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak alá nem tartozó eljárási költségek körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
+- a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak és a jogszabályban meghatározható egyéb eljárási költségek körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
 - b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (4)

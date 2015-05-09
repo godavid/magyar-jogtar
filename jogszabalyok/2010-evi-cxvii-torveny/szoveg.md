@@ -216,6 +216,8 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 15/A. § E törvény 11/A. §-a a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU európai parlamenti és tanácsi rendelet 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
+15/B. § E törvény 11/A. §-a a 256/2014/EU európai parlamenti és tanácsi rendelet 3. és 5. cikke szerinti adatközlés formájáról és egyéb technikai részleteiről, valamint a 2386/96/EK és a 833/2010/EU, Euratom bizottsági rendelet hatályon kívül helyezéséről szóló 2014. október 16-i, 1113/2014/EU európai bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
 16. §
 
 17. §

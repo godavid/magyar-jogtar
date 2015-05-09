@@ -89,7 +89,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
   - c) a kizárólag a közvilágítás villamos energia ellátását szolgáló vezetékrendszer;
   - d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztosító vezérlő rendszer. Több célú vezérlési rendszer esetén azonban annak csak kizárólag a közvilágítás célját szolgáló része;
 - 41. Közvilágítási elosztó hálózat: az elosztó hálózat részének nem minősülő, az elosztó tulajdonában lévő, a közvilágítás villamos energia ellátását biztosító kapcsolható, illetve szabályozható hálózat;
-- 42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet; ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;
+- 42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet; ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;
 - 42a. Leágazási pont: az átviteli vagy az elosztó hálózat azon pontja, amelyen keresztül a csatlakozóberendezés részét képező csatlakozó vezeték e hálózathoz kapcsolódik;
 - 43. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás;
 - 44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
@@ -545,6 +545,8 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 (8) A Hivatal a rendszerhasználó kérelmére felülvizsgálja, hogy a megtagadás (1) és (2) bekezdésben meghatározott feltételei fennálltak-e. Amennyiben a Hivatal a megtagadás feltételeinek hiányát állapítja meg, az érintett hálózati engedélyest határozatban kötelezi az átviteli vagy elosztó hálózathoz való hozzáférés biztosítására.
 
+36/A. § Magyarország államhatárát kizárólag az átviteli hálózat részét képező vezeték keresztezheti.
+
 ### Mentesítés a hozzáférési szabályok alkalmazása alól
 
 37. § (1) A beruházó új rendszerösszekötő vezeték létesítése esetén a 36. §-ban meghatározott szabályok alkalmazása alól való mentesítés érdekében kérelmet nyújthat be a Hivatalhoz. A Hivatal a mentességet a 714/2009/EK rendelet 17. cikkében foglalt feltételek fennállása esetén határozott időre az új rendszerösszekötő vezeték egészére vagy annak egy részére engedélyezheti.
@@ -743,6 +745,10 @@ kiállított számla érvénytelen.
 
 (4) Az elosztó az (1) és (3) bekezdés szerinti kezdeményezésnek legkésőbb annak kézhezvételét követő munkanapon köteles eleget tenni.
 
+(5) Az egyetemes szolgáltatásra nem jogosult felhasználó kikapcsolásának és visszakapcsolásának kezdeményezésére vonatkozó szabályokat a villamosenergia-kereskedő üzletszabályzata tartalmazza.
+
+(6) A kikapcsolás felhasználónak felróható elmaradásából vagy késedelméből eredő villamosenergia-fogyasztás, valamint -rendszerhasználat ellenértékét a kikapcsolásig a felhasználó köteles megfizetni.
+
 ### Kereskedőváltás
 
 47/B. § (1) Ha a felhasználó villamosenergia-kereskedőt kíván váltani, annak lebonyolítását az érintett engedélyesek térítésmentesen végzik, és azzal összefüggésben az érintett villamosenergia-kereskedő és hálózati engedélyes a felhasználónak díjat nem számíthat fel. A kereskedőváltás lebonyolítása céljából a felhasználó megbízása alapján az a villamosenergia-kereskedő is eljárhat, akivel a felhasználó villamosenergia-vásárlási szerződést köt.
@@ -786,7 +792,7 @@ kiállított számla érvénytelen.
 
 50/A. § (1) Az egyetemes szolgáltató által működtetett ügyfélszolgálatokra a fogyasztóvédelmi törvényben foglalt rendelkezéseket az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) Az egyetemes szolgáltató az ügyfélszolgálatok fenntartása tekintetében – a 47. § (2)–(5) bekezdésében foglaltakon felül – köteles a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben felsorolt járásonként legalább egy ügyfélszolgálatot működtetni. A főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok típusát, minimális számát a Vhr., az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és az egyetemes szolgáltató üzletszabályzata tartalmazza. Az egyetemes szolgáltató e kötelezettségének olyan, az ügyfélforgalom számára nyitva álló helyiségben is eleget tehet, amelyet más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tart fenn.
+(2) Az egyetemes szolgáltató az ügyfélszolgálatok fenntartása tekintetében – a 47. § (2)–(5) bekezdésében foglaltakon felül – köteles a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben felsorolt járásonként legalább egy ügyfélszolgálatot működtetni. Ha a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben felsorolt járásnak csak egy része tartozik az egyetemes szolgáltató működési területéhez, úgy az egyetemes szolgáltató jogosult a Vhr.-ben meghatározottak szerint az ügyfélszolgálatot összevontan kezelni. A főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok típusát, minimális számát a Vhr., az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és az egyetemes szolgáltató üzletszabályzata tartalmazza. Az egyetemes szolgáltató e kötelezettségének olyan, az ügyfélforgalom számára nyitva álló helyiségben is eleget tehet, amelyet más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tart fenn.
 
 50/B. § Az egyetemes szolgáltató az 5000 főt meghaladó lakosságú, az egyetemes szolgáltató által fenntartott ügyfélszolgálattal nem rendelkező településen köteles munkanapokon az ügyfélforgalom számára nyitva álló helyiségben a panaszfelvétel lehetőségét, továbbá tájékoztató anyagok, formanyomtatványok, valamint az üzletszabályzat elérhetőségét biztosítani. Az egyetemes szolgáltató e kötelezettségének olyan, az ügyfélforgalom számára nyitva álló helyiségben is eleget tehet, amelyet más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tart fenn.
 
@@ -961,7 +967,7 @@ meghatározott szerződésszegés esetén.
 
 (7) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 3 hónapon belül általuk tervezett változtatásokat is.
 
-(8)
+(8) A hálózathasználati szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékével és alkalmazásukkal kapcsolatos rendelkezéseket a Hivatal elnöke rendeletben határozza meg.
 
 60. § (1) A hálózati engedélyes a hálózathasználati szerződés lényeges tartalmi elemeinek meghatározása során nem alkalmazhat megkülönböztető szerződéses feltételeket aszerint, hogy a felhasználó melyik villamosenergia-kereskedőtől vásárolja a villamos energiát.
 
@@ -1031,6 +1037,8 @@ akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati 
 (7) A felek a villamosenergia-vásárlási szerződés teljesítése során kötelesek egymást minden lényeges körülményről megfelelő időben és módon tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 3 hónapon belül általa tervezett változtatásokat is.
 
 (8) A villamosenergia-vásárlási szerződésre – amennyiben a jelen törvény és a termékfelelősségre vonatkozó külön törvény eltérő rendelkezést nem tartalmaz – a Ptk. rendelkezései irányadók. A szavatossági igények körében a bizonyítás az engedélyest terheli.
+
+62/A. § Az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékével és alkalmazásukkal kapcsolatos rendelkezéseket a Hivatal elnöke rendeletben határozza meg.
 
 63. § (1) A villamosenergia-kereskedő a felhasználóval történő közös megegyezés esetén, az egyetemes szolgáltató a felhasználó igénye esetén köteles a felhasználó hálózati csatlakozási, hálózathasználati és villamosenergia-vásárlási szerződéseinek megbízottként történő, összevont kezelésére.
 
@@ -2275,7 +2283,7 @@ ELJÁRÁSOK
 
 (2) A villamosenergia-rendszer használatáért fizetendő díjakat az e törvény és a felhatalmazása alapján kiadott miniszteri rendelet keretei között a Hivatal elnöke rendeletben állapítja meg. A villamosenergia-kereskedő által a felhasználónak értékesített villamos energia eladási árát a felek megállapodása, vagy a villamosenergia-kereskedő üzletszabályzata tartalmazza, az egyetemes szolgáltatás keretében értékesített villamos energia árát a miniszter rendeletben állapítja meg.
 
-(3) Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő a 63. § (1) bekezdésének megfelelően megbízottként kezeli, és a villamosenergia-rendszer használatáért fizetendő díjat a villamosenergia-kereskedő érvényesíti a felhasználó felé, akkor a villamosenergia-kereskedő köteles a villamosenergia-vásárlási szerződéshez kapcsolódó díjtételt külön és a villamosenergia-rendszer használatáért fizetendő díjakat a számlán egyértelműen – egyetemes szolgáltató esetén az egyetemes szolgáltatók által alkalmazható számlaképről szóló miniszteri rendeletben meghatározottak szerint – legalább két összevont tételben külön feltüntetni.
+(3) Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő a 63. § (1) bekezdésének megfelelően megbízottként kezeli, és a villamosenergia-rendszer használatáért fizetendő díjat a villamosenergia-kereskedő érvényesíti a felhasználó felé, akkor a villamosenergia-kereskedő köteles a villamosenergia-vásárlási szerződéshez kapcsolódó díjtételt külön és a villamosenergia-rendszer használatáért fizetendő díjakat a számlán egyértelműen – egyetemes szolgáltatás esetén az egységes közszolgáltatói számlaképről szóló törvényben meghatározottak szerint – legalább két összevont tételben külön feltüntetni.
 
 (4) E törvény szerinti engedélyes és a magánvezeték engedélyese a pénzforgalmi számlájának vezetésével kapcsolatos, a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény szerint pénzügyi tranzakciós illeték fizetésére kötelezett által tranzakciós illetékkel összefüggésben felszámított díjat (a továbbiakban: tranzakciós díj) nem háríthatja át a vele szerződésben állóra. Ebből következően a tranzakciós díj az engedélyes, a magánvezeték engedélyese által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki, azt az engedélyes, a magánvezeték engedélyese önállóan viseli.
 
@@ -2363,7 +2371,7 @@ ELJÁRÁSOK
 
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(6)
+(6) A villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben nyújtott kedvezményes árú villamosenergia-ellátás szabályozásában bekövetkező változást az ellátási körülmények megváltozásának kell tekinteni.
 
 143/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
@@ -2578,7 +2586,8 @@ villamos energia képezi.
 
 - 1. ellenőrzi a csatlakozással, a hálózathoz való hozzáféréssel, illetve a rendszer megfelelő minőségben való rendelkezésre állásával kapcsolatos felhasználói igények hálózati engedélyes általi kielégítését, ellenőrzi a felhasználók által a közcélú hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását, bírságot szab ki,
 - 2. dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve az 57. § (1) bekezdése szerinti lakossági fogyasztói panaszokat, és
-- 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról.
+- 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról,
+- 4. elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
 
 (6) A Hivatal az adatszolgáltatással és adatvédelemmel kapcsolatos feladatai körében:
 
@@ -2809,7 +2818,9 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 
-(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.
+(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében – a (18) bekezdés szerinti eltéréssel – a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.
+
+(18) A Hivatal az 57. § (4a) és (5) bekezdése szerinti panaszokról a Ket. szerinti hatósági eljárásban hoz döntést.
 
 #### 168/A. §
 
@@ -2819,15 +2830,20 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 
 (2) Az Energetikai Állandó Választottbíróság hatáskörére, eljárására a választottbíráskodásról szóló 1994. évi LXXI. törvény (a továbbiakban: Vbt.) rendelkezéseit a (3)–(6) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
-(3) Az Energetikai Állandó Választottbíróság eljárásának van helye az e törvény szerinti engedélyköteles tevékenységet folytató engedélyesek közötti, e törvény hatálya alá tartozó tevékenységekre vonatkozó jogszabályban, vagy az alapján kötött szerződésben foglalt jogokkal és kötelezettségekkel kapcsolatos jogvitában, ha a felek a választottbírósági eljárást választottbírósági szerződésben kikötötték és az eljárás tárgyáról szabadon rendelkezhetnek.
+(3) A felek erre irányuló megállapodása esetén az Energetikai Állandó Választottbíróság eljárásának van helye hazai és nemzetközi ügyekben, ha legalább a felek egyike
+
+- a) e törvény, a Get. vagy a Tszt. szerinti engedélyköteles tevékenységet folytató engedélyes, vagy
+- b) Magyarországon engedélykötelesnek minősülő energetikai tevékenységet folytató külföldi székhelyű gazdasági társaság.
+
+(3a) Az Energetikai Állandó Választottbíróság eljárásának nincs helye, ha a felek egyike a Ptk. szerint fogyasztónak minősülő személy.
 
 (4) Az Energetikai Állandó Választottbíróság eljárásának e § szerinti kikötése nem érinti a jelen törvény hatálybalépése előtt megkötött egyedi szerződésben a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság hatáskörének kikötésére vonatkozó esetleges előírás érvényességét. Az ilyen kikötések alapján a jogvita választottbírósági rendezésére továbbra is – a felek eltérő rendelkezése hiányában – a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróságnak van hatásköre.
 
-(5) Az Energetikai Állandó Választottbíróság választottbírói testületének tagjait a Hivatal elnöke jelöli ki meghatározott időre. Nem lehet az Energetikai Állandó Választottbíróság választottbírói testületének tagja a Hivatal elnöke, illetve a Hivatal egyéb alkalmazottja.
+(5) Az Energetikai Állandó Választottbíróság választottbírói testületének tagjait a Hivatal elnöke jelöli ki meghatározott időre. Nem lehet az Energetikai Állandó Választottbíróság választottbírói testületének tagja a Hivatal elnöke, illetve a Hivatal egyéb alkalmazottja. A feleknek egyesbíró esetén az egyesbírót, eljáró tanács esetén legalább a tanács elnökét a választottbírói testület tagjai közül kell kijelölniük.
 
 (6) Az Energetikai Állandó Választottbíróság jogi személy. Székhelye Budapest.
 
-(7) Az Energetikai Állandó Választottbíróság jogi személyiségét alapító okiratának a Hivatalos Értesítőben történő közzététele napjával nyeri el. A közzétételt a miniszter rendeli el az Energetikai Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az alapító okiratot.
+(7) Az Energetikai Állandó Választottbíróság jogi személyiségét alapító okiratának a Hivatalos Értesítőben történő közzététele napjával nyeri el. A közzétételt a Hivatal elnöke rendeli el az Energetikai Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az alapító okiratot.
 
 (8) Az Energetikai Állandó Választottbíróság egyeztető eljárás lefolytatására is jogosult a közvetítői tevékenységről szóló 2002. évi LV. törvény szabályainak megfelelően.
 
@@ -2851,6 +2867,14 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 (12) Az elnökség az Energetikai Állandó Választottbíróság általános irányító szerve. Az elnökség kijelölésének és működésének szabályait az alapító okirat és az Energetikai Állandó Választottbíróság szabályzatai tartalmazzák.
 
 (13) Az Energetikai Állandó Választottbíróságot harmadik személlyel szemben, bíróság és hatóságok előtt az elnökség tagjai, illetve az általuk arra felhatalmazott személyek képviselik az Energetikai Állandó Választottbíróság szabályzataiban meghatározott módon.
+
+(14) Az Energetikai Állandó Választottbíróság szabályzatait az alapító okirata szerint maga állapítja meg.
+
+(15) Az Energetikai Állandó Választottbíróság eszközei nem vonhatók el, azok kizárólag a tevékenysége gyakorlásával kapcsolatban használhatóak fel.
+
+(16) Az Energetikai Állandó Választottbíróság tevékenysége a választottbíráskodás és annak szervezése, ideértve az ezzel kapcsolatos tudományos, oktatási és tájékoztatási tevékenységet, valamint szervezetének működtetését is. Az Energetikai Állandó Választottbíróság vállalkozói tevékenységet nem végezhet.
+
+(17) Az Energetikai Állandó Választottbíróság szabad pénzeszközét kizárólag bankbetétben tarthatja vagy állampapírba fektetheti be.
 
 ### XX. Fejezet — FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -2954,7 +2978,9 @@ rendeletben állapítsa meg.
 
 - 1. a rendszerhasználati díjakat és alkalmazásuk szabályait,
 - 2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, valamint a csatlakozási díjak mértékét és alkalmazásuk szabályait,
-- 3. az elosztók közötti kiegyenlítő fizetések mértékét.
+- 3. az elosztók közötti kiegyenlítő fizetések mértékét,
+- 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket;
+- 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
 
 ### XXI. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -3175,6 +3201,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 178/Q. § A szervezett villamosenergia-piaci engedélyes az e törvénynek a villamos energiával, valamint a földgázellátással összefüggésben egyes törvények módosításáról szóló 2013. évi CXLV. törvény 3. §-ával megállapított 114/D. § (1) bekezdése, valamint 17. §-ával megállapított, a Get. 61/E. § (1) bekezdése szerinti szabályzatot 2013. október 1-jéig küldi meg a Hivatal részére jóváhagyásra.
 
+178/R. § E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi LIII. törvénnyel megállapított 168. § (18) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
+
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
 179. § (1) E törvény – a (2)–(3) bekezdésben foglalt eltéréssel – 2007. október 15-én lép hatályba.
@@ -3232,7 +3260,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 - c) az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i, 713/2009/EK európai parlamenti és tanácsi rendelet, és
 - d) 170. § (1) bekezdés 26. pontja
   - da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU rendelet,
-  - db) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről szóló 617/2010/EU, Euratom tanácsi rendelet végrehajtásáról szóló 2010. szeptember 21-i, 833/2010/EU, Euratom európai bizottsági rendelet,
+  - db) a 256/2014/EU európai parlamenti és tanácsi rendelet 3. és 5. cikke szerinti adatközlés formájáról és egyéb technikai részleteiről, valamint a 2386/96/EK és a 833/2010/EU, Euratom bizottsági rendelet hatályon kívül helyezéséről szóló 2014. október 16-i, 1113/2014/EU európai bizottsági végrehajtási rendelet
 - e) a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.

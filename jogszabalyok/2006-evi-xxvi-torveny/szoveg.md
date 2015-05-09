@@ -62,6 +62,16 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 (10) A földgáz biztonsági készlethez szabad hozzáféréssel kizárólag csak a jogszabályban meghatározottak és csak a jogszabályban meghatározott feltételek fennállása esetén és idején rendelkeznek.
 
+4/A. § (1) Földgázkereskedő lehetetlenülése esetén az érintett felhasználók földgázellátását a végső menedékes földgázkereskedő kijelöléséig a biztonsági földgázkészletből kell biztosítani.
+
+(2) A földgázkereskedő lehetetlenülése esetén a Hivatal a földgázkereskedő engedélyét felfüggesztő határozatát az érintett földgázkereskedő és rendszerüzemeltetők mellett, egyidejűleg a Szövetséggel is közli. A Szövetség a határozat közlésének időpontjától a végső menedékes földgázkereskedő kijelölésének időpontjáig köteles a biztonsági földgázkészletből a szükséges földgázmennyiséget a szállítási rendszerüzemeltető rendelkezésére bocsátani az érintett felhasználók folyamatos földgázellátásának biztosítása érdekében.
+
+(3) A kijelölt végső menedékes földgázkereskedő a határozat közlésének időpontjától a kijelölés időpontjáig felhasznált biztonsági készlet mennyiségének ellenértékét, valamint a szállítással és kitárolással kapcsolatos költségeket köteles megfizetni a Szövetség részére a kijelölés időpontjától számított 90 napon belül a szállítási rendszerüzemeltető által kiállított jegyzőkönyv alapján.
+
+(4) Az érintett felhasználók a felfüggesztő határozat közlésének időpontja és a végső menedékes földgázkereskedő kijelölésének időpontja közötti fogyasztásukat a kijelölést követően a kijelölt végső menedékes kereskedővel kötelesek elszámolni és annak ellenértékét számára kötelesek megtéríteni.
+
+(5) A biztonsági készletnek a földgázkereskedő lehetetlenülése esetén történő felhasználására vonatkozó részletes szabályokat – különösen a felhasználásra kerülő biztonsági készlet árának megállapítására vonatkozó előírásokat – a végső menedékes szolgáltatásról szóló kormányrendelet tartalmazza.
+
 ### A biztonsági készlet felhasználása
 
 5. § (1) A miniszter a földgáz biztonsági készlet felhasználását – a földgázellátásról szóló törvény szerint a földgázellátási válsághelyzet esetére létrehozott bizottság kezdeményezésére – a földgázellátási válsághelyzet kihirdetése esetén rendeletben engedélyezi.
@@ -205,6 +215,8 @@ vonatkozik.
 12/A. § E törvénynek a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 4. § (7) bekezdését 2013. július 1-jétől kell alkalmazni.
 
 13. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készlet felhasználására, a felhasználásra vonatkozó döntés előkészítésére, az előkészítésben közreműködő szervezetek vagy testületek jogaira és kötelezettségeire vonatkozó részletes szabályokat.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készletnek a földgázkereskedő ellehetetlenülése esetén történő felhasználására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy földgázellátási válsághelyzet fennállása esetén az 5. § (1) bekezdés alapján rendeletben engedélyezze a földgáz biztonsági készlet felhasználását, és határozza meg a felhasználás engedélyezésének okát és célját, a felhasználásra engedélyezett földgáz mennyiségét, a felhasznált készletek visszapótlásának rendjét, valamint a felhasználásra engedélyezett földgáz árát és az áralkalmazás feltételeit.
 
