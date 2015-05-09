@@ -33,8 +33,8 @@ a következő törvényt alkotja:
 - 11. a szálláshelyen végzett kereskedelmi tevékenységre;
 - 12. a kereskedelmet kiszolgáló szolgáltató tevékenységre;
 - 13. a vendéglátásra;
-- 14. a világörökségi területen található üzletekre, valamint
-- 15. a kulturális tevékenységet és a fürdő szolgáltatást kiszolgáló kereskedelmi tevékenységre.
+- 14. a kulturális tevékenységet és a fürdő szolgáltatást kiszolgáló kereskedelmi tevékenységre, valamint
+- 15. az automatából történő értékesítésre.
 
 (3) Az e törvényben vagy a felhatalmazása alapján kiadott kormányrendeletben nem szabályozott kérdésekben a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 6. §-át kell alkalmazni.
 
@@ -62,16 +62,16 @@ a következő törvényt alkotja:
 
 #### 3. A vasárnapi munkavégzés tilalmáról
 
-3. § Üzlet – törvényben vagy az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott kivételekkel –
+3. § Az üzlet – törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott kivételekkel –
 
-- a) kiskereskedelmi napokon 6 óra és 22 óra között tarthat nyitva,
+- a) kiskereskedelmi napokon 4 óra 30 perc és 22 óra között tarthat nyitva,
 - b) vasárnap és munkaszüneti napokon zárva tart.
 
 4. § (1) A 3. §-tól eltérően az üzletek
 
-- a) adventi vasárnapokon 6 óra és 22 óra,
-- b) december 24-én és december 31-én 6 óra és 12 óra, továbbá
-- c) minden naptári év tetszőlegesen megjelölt egy vasárnapján 6 óra és 22 óra
+- a) adventi vasárnapokon 4 óra 30 perc és 22 óra,
+- b) december 24-én és december 31-én 4 óra 30 perc és 12 óra, továbbá
+- c) minden naptári év tetszőlegesen megjelölt egy vasárnapján 4 óra 30 perc és 22 óra
 
 között nyitva tarthatnak.
 
@@ -83,14 +83,9 @@ között nyitva tarthatnak.
 
 #### 4. Különös rendelkezések az üzletek egyes csoportjaira nézve
 
-5. § (1) A 3. §-ban foglaltaktól eltérően, a kizárólag pékárut és tejterméket értékesítő üzlet
+5. § (1) A 3. §-ban foglaltaktól eltérően a kizárólag pékárut, illetve tejterméket értékesítő üzlet vasárnap és munkaszüneti napokon 4 óra 30 perc és 12 óra között nyitva tarthat.
 
-- a) kiskereskedelmi napokon 5 óra és 22 óra,
-- b) vasárnap és munkaszüneti napokon 5 óra és 12 óra
-
-között nyitva tarthat.
-
-(2) A 3. §-ban foglaltaktól eltérően az újságot árusító üzlet, valamint a virágot árusító üzlet vasárnap és munkaszüneti napokon 6 óra és 12 óra között nyitva tarthat.
+(2) A 3. §-ban foglaltaktól eltérően az újságot árusító üzlet, valamint a virágot árusító üzlet vasárnap és munkaszüneti napokon 4 óra 30 perc és 12 óra között nyitva tarthat.
 
 (3) A 3. §-ban foglaltaktól eltérően a sportlétesítményekben üzemelő üzletek vasárnap és munkaszüneti napokon a sportrendezvények ideje alatt nyitva tarthatnak.
 

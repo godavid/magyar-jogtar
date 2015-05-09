@@ -2,7 +2,7 @@
 
 a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
-Az Országgyűlés a behozott kőolaj és kőolajtermékek biztonsági készletezésének versenysemleges szabályozásán, a tagi hozzájárulás mértékének megalapozott számításához szükséges belföldi fogyasztás ellenőrzésén, a szabad forgalomba bocsátott, behozott és felhasznált kőolajtermékek megjelölésén és ellenőrzésén, valamint a biztonsági készletek kőolajellátási válsághelyzetben történő rendelkezésre állásának biztosításán keresztül, Magyarország folyamatos és biztonságos energiaellátása, valamint a kőolajtermékek forgalmazásához kapcsolódó adók beszedése hatékonyságának növelése érdekében az európai uniós jogi követelményekre figyelemmel a következő törvényt alkotja:
+Az Országgyűlés a behozott kőolaj és kőolajtermékek biztonsági készletezésének versenysemleges szabályozásán, a tagi hozzájárulás mértékének megalapozott számításához szükséges belföldi fogyasztás ellenőrzésén, valamint a biztonsági készletek kőolajellátási válsághelyzetben történő rendelkezésre állásának biztosításán keresztül, Magyarország folyamatos és biztonságos energiaellátása, valamint a kőolajtermékek forgalmazásához kapcsolódó adók beszedése hatékonyságának növelése érdekében az európai uniós jogi követelményekre figyelemmel a következő törvényt alkotja:
 
 #### 1. Értelmező rendelkezések
 
@@ -117,15 +117,13 @@ figyelembevételével kell számítani.
 
 12. § (1) A Szövetség – mint központi készletező szervezet – feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése.
 
-(2) A Szövetség feladata továbbá, hogy a 3.§ (1) bekezdése szerinti biztonsági kőolajkészlet, illetve a tagi hozzájárulás mértékének megalapozott számítása, valamint a kőolajtermékek forgalmazásához kapcsolódó adók beszedése hatékonyságának növelése érdekében olyan ellenőrző és jelölő rendszert működtessen, amely folyamatosan lehetővé teszi a szabad forgalomba bocsátott, behozott és felhasznált, a (3) bekezdésben megjelölt kőolajtermékek megfigyelését.
-
-(3) A Szövetség a (2) bekezdés szerinti feladat teljesítése érdekében a 2710 11 41, 2710 11 45, 2710 11 49, 2710 19 41, 2710 19 45, 2710 19 49 vámtarifa szám alatt nyilvántartott termékeket ellenőrző jelölő anyaggal látja el.
+(2)–(3)
 
 (3a)
 
-(4) A (2) és (3) bekezdésben meghatározott tevékenység ellátása érdekében a (3) bekezdés szerinti kőolajtermékeket előállító, szabad forgalomba bocsátó, behozó vagy importáló köteles együttműködni a jelölést és ellenőrzést végző Szövetséggel.
+(4)
 
-13. § (1) A Szövetség jogi személy, működését saját bevételeiből fedezi, a bevételeket a készletezési költségek fedezésére, kőolaj-, kőolajtermék-tároló vásárlására, létesítésére, fejlesztésére, a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére, a jelölési és az ellenőrzési költségek fedezésére, a Szövetség működésére, valamint az Fbkt.-ban meghatározott feladatai teljesítésére fordíthatja. A Szövetség nem alanya a társasági adónak.
+13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket a készletezési költségek fedezésére, kőolaj-, kőolajtermék-tároló vásárlására, létesítésére, fejlesztésére, a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére, a Szövetség működésére, valamint az Fbkt.-ban meghatározott feladatai teljesítésére fordíthatja. A Szövetség nem alanya a társasági adónak. A Szövetség a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény szerinti egyéb szervezetnek minősül.
 
 (2) A Szövetség szervezete kőolaj- és kőolajtermék készletezési szekcióból (a továbbiakban: kőolaj szekció), valamint földgáz-készletezési szekcióból (a továbbiakban: földgáz szekció) áll.
 
@@ -152,7 +150,7 @@ figyelembevételével kell számítani.
   - ha) a készlet azonosításának, számbavételének módszereit, nyilvántartásának rendjét,
   - hb) a készletállomány összetételére vonatkozó termékszerkezet-összetételi arányok, valamint a mennyiségi és minőségi paraméterek meghatározásának módját,
   - hc) a készlet vagy annak része tulajdonjoga megállapíthatóságának és bírósági végrehajtás alóli mentességének biztosítása érdekében alkalmazandó jelölés módját,
-- i) a kőolaj- és kőolajtermék készletek minőségének megőrzése céljából történő kőolaj és kőolajtermék cserélésének gyakoriságát, módját és rendszerét, a normatív veszteségre és annak pótlására vonatkozó előírásokat, továbbá a földgázkészletezés minőségellenőrzésére vonatkozó eljárását,
+- i) a kőolaj- és kőolajtermék-készletek minőségének megőrzése céljából történő kőolaj és kőolajtermék cserélésének gyakoriságát, módját és rendszerét, a normatív veszteségre vonatkozó előírásokat,
 - j) a tag és a Szövetség közötti elektronikus kapcsolattartás szabályait, valamint az üzemszüneti rendelkezéseket,
 - k) a földgázkészletezés rendszerének részletes szabályait,
 - l) a Szövetség adatszolgáltatási kötelezettségét,
@@ -260,7 +258,7 @@ figyelembevételével kell számítani.
 - c) határoz a Szövetség azon ügyeiben, amelyek más szerv hatáskörébe nem tartoznak,
 - d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését és annak végrehajtásáról szóló beszámolót,
 - e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget,
-- f) a 12.§ (2) és (3) bekezdésében meghatározott feladat ellátására olyan, Magyarországon bejegyzett gazdasági társasággal köthet szerződést, amellyel a miniszter, az államháztartásért felelős miniszter és a MEKH igazgatótanácsi tagjai közül legalább három egyetért.
+- f)
 
 #### 8. A Szövetség gazdálkodása
 
@@ -277,15 +275,12 @@ figyelembevételével kell számítani.
 (3) A Szövetség éves költségvetésében megtervezi:
 
 - a) a biztonsági kőolaj- és földgázkészletezés,
-- b) a 12. § (2) és (3) bekezdésében meghatározott feladat ellátásának, valamint
+- b)
 - c) a működésének várható ráfordításait.
 
 (4) A Szövetség a tagi hozzájárulásból eredő bevételét oly módon tervezi meg, hogy az – figyelembe véve a Szövetség egyéb jogcímen (nem a tagi hozzájárulásból származó) tervezett bevételeit – fedezze a (3) bekezdésben meghatározott, várható ráfordításokat.
 
-(5) A Szövetség az éves költségvetés alapján meghatározza a termékcsoportonkénti egységnyi tagi hozzájárulás mértékét, amelynek számítása a következők figyelembevételével történik:
-
-- a) a tagi hozzájárulás termékcsoportonkénti egységnyi mértékének a 12. § (2) és (3) bekezdésében meghatározott feladat ellátásához szükséges része nem lehet kevesebb, mint a NAV által, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 82. § (2) bekezdésében foglaltak szerint közzétett, a költségvetés közgyűlés általi elfogadása évének első hat hónapjára alkalmazható havi üzemanyagár átlagának 1%-a;
-- b) amennyiben a tagi hozzájárulás termékcsoportonkénti egységnyi mértékének az a) pont alapján számított részéből, tervezett bevétel több mint amennyi a 12. § (2) és (3) bekezdésében meghatározott feladatának ellátásához szükséges, a többlet figyelembe veendő a tagi hozzájárulás termékcsoportonkénti egységnyi mértékének végleges meghatározásánál.
+(5) A Szövetség az éves költségvetés alapján meghatározza a termékcsoportonkénti egységnyi tagi hozzájárulás mértékét.
 
 (6) A termékcsoportonkénti tagi hozzájárulás mértékét a miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
 
@@ -369,9 +364,9 @@ figyelembevételével kell számítani.
 
 (7)
 
-(8) Az (1) bekezdés szerinti nyilatkozatot a tag a Szövetséghez elektronikus úton nyújtja be.
+(8) Az (1) bekezdés szerinti nyilatkozatot a tag a Szövetséghez elektronikus úton, illetve üzemszünet esetén az alapszabályban rögzített eljárásrendnek megfelelően nyújtja be.
 
-(9) A Szövetség a (8) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi a Nemzeti Adó- és Vámhivatalnak (a továbbiakban: NAV), amely az adatok helytállósága esetén a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére.
+(9) A Szövetség a (1) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi az illetékes adóhatóságnak, amely a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére. Üzemszünet esetén az illetékes adóhatóság elektronikus záradékolására az üzemszünet lezárását követően kerül sor.
 
 (9a) A NAV a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
@@ -409,7 +404,7 @@ a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, besz
 - a) szakértőt küld a Bizottság mellett működő szakértői csoportba,
 - b) értesíti a Bizottságot a foganatosított intézkedésekről.
 
-46. § (1) A Szövetség az általa megbízott ellenőrök (a továbbiakban: ellenőr) útján ellenőrzi a tagoknál a 42. § szerint közölt adatok valódiságát, illetve a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétét, valamint azt, hogy tagjai e törvénynek és az Fbkt. rendelkezéseinek megfelelően járnak-e el.
+46. § (1) A Szövetség az általa megbízott ellenőrök (a továbbiakban: ellenőr) útján ellenőrzi a tagoknál a 42. § szerint közölt adatok valódiságát, valamint azt, hogy tagjai e törvénynek és az Fbkt. rendelkezéseinek megfelelően járnak-e el.
 
 (2) Az ellenőr jogosult a tag üzemi ingatlanába, üzlethelyiségébe belépni, ott az (1) bekezdésben meghatározott ellenőrzési tevékenység tárgyával kapcsolatos okiratokba betekinteni, vizsgálatot folytatni és felvilágosítást kérni.
 
@@ -450,7 +445,7 @@ a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, besz
 
 rendeletben állapítsa meg.
 
-49/A. § Felhatalmazást kap a miniszter, hogy a kőolajtermékek ellenőrzéséhez és jelöléséhez szükséges rendszer működésének részletszabályait, valamint az ellenőrző jelölő anyag jellemzőit rendeletben állapítsa meg.
+49/A. §
 
 50. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő hónap első napján lép hatályba.
 
@@ -460,9 +455,9 @@ rendeletben állapítsa meg.
 
 (2) E törvény hatálybalépése az igazgatóság, az igazgatótanács és a felügyeleti bizottság tagjainak tagsági viszonyát nem érinti.
 
-52. § A 12. § (2) és (3) bekezdésében meghatározott feladat ellátásához szükséges ellenőrző és jelölő rendszert a Szövetségnek 2015. július 1-jéig kell kialakítania.
+52. §
 
-52/A. § Az egyes adótörvények és azokkal összefüggő más törvények módosításáról szóló 2014. évi XXV. törvény (a továbbiakban: Módtv.) hatályba lépését megelőző napon hatályos 12. § (3a) bekezdését a Módtv. hatályba lépésekor folyamatban lévő ügyekben sem kell alkalmazni.
+52/A. §
 
 53. § (1) E törvény 54. § (2) bekezdése a tengeri balesetek és események kivizsgálására szolgáló, a 2009/18/EK európai parlamenti és tanácsi rendelet 5. cikkének (4) bekezdése szerint kidolgozott közös módszertan elfogadásáról szóló, 2011. december 9-i 1286/2011/EU bizottsági rendelet végrehajtását szolgálja.
 
@@ -575,7 +570,7 @@ E pont alkalmazásában „nemzetközi tartályhajón szállított mennyiség”
   - b) amely csővezetékben, vasúti tartálykocsiban, tengerjáró hajók tartályaiban, tengeren hajózó tartályhajók tartályaiban, üzemanyagtöltő állomások tartályaiban van;
   - c) amely kiskereskedők és végfelhasználók által fenntartott készleteket alkot;
   - d) amely katonai szervezet tulajdonában van, valamint katonai szervezet részére fenntartott;
-  - e) amelynek a kőolajtermék-gyártás vagy kőolaj esetén a készletre vétel dátumától számított életkora meghaladja a hat évet;
+  - e) amelynek a kőolajtermék-gyártás dátumától számított életkora meghaladja a hat évet;
   - f) amelyet lefoglaltak, vagy végrehajtás alá vontak.
 
 ### 3. melléklet a 2013. évi XXIII. törvényhez

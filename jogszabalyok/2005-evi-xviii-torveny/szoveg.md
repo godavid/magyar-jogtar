@@ -78,7 +78,8 @@ rendelkezéseivel összhangban kell alkalmazni.
 - c) jóváhagyja az engedélyezési hatáskörébe tartozó engedélyes átalakulását, valamint az engedélyesekben történő befolyásszerzés, illetőleg a jegyzett tőke értékének változását;
 - d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat;
 - e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatokat; és
-- f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) a 4. § (3) bekezdés szerinti ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról.
+- f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) a 4. § (3) bekezdés szerinti ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról;
+- g) elvégzi a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
 
 (2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
@@ -770,7 +771,7 @@ meghatározott szerződésszegést követi el.
 
 (5) Az engedélyes, illetve az értékesítő köteles a Hivatalnak minden olyan tájékoztatást és adatot megadni, amely a Hivatal árelőkészítő tevékenységéhez szükséges. Az engedélyes, illetve az értékesítő a Hivatal által megjelölt, 15 napnál nem rövidebb határidőn belül adja meg tájékoztatását, illetve szolgáltat adatokat. Az értékesítő az adatszolgáltatással egyidejűleg legalább a távhőárra és a távhőmennyiségre vonatkozó adatokat az érintett távhőszolgáltató részére is megküldi.
 
-(6) A miniszter rendeletben szabályozhatja az engedélyes, illetve az értékesítő által a Hivatal részére teljesítendő tájékoztatás és adatszolgáltatás rendjét.
+(6)
 
 (7) Ha az engedélyes, értékesítő és a képviselőtestület az (5)–(6) bekezdésben foglalt határidőn belül nem nyújt tájékoztatást, szolgáltat adatot vagy foglal állást, a Hivatal a tájékoztatás, adatszolgáltatás, állásfoglalás hiányában is javaslatot tehet a miniszter részére.
 
@@ -835,7 +836,7 @@ meghatározott szerződésszegést követi el.
 - c) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 - d) az államháztartásért felelős miniszterrel egyetértésben meghatározza az 57. § (3) bekezdése szerinti szempontokat,
 - e) állapíthatja meg az 57. § (3) bekezdése szerinti távhőszolgáltatási csatlakozási díj megállapítása érdekében kötelezően benyújtandó adatok körét;
-- f) állapíthatja meg az engedélyes, az értékesítő, az egyedi szerződés alapján termelő, valamint a külön kezelt intézmény által a Hivatal részére teljesítendő adatszolgáltatásra vonatkozó szabályokat;
+- f)
 - g) állapítja meg a távhőszolgáltatási támogatás mértékét és az előkészítése módszertanára vonatkozó szabályokat, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat,
 - h) állapítja meg az engedélyesek nyereségének korlátozására és megosztására vonatkozó részletes szabályokat,
 - i) állapítja meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
@@ -843,6 +844,8 @@ meghatározott szerződésszegést követi el.
 (3) Az önkormányzat képviselő-testülete rendeletben szabályozza a 6. § (2)–(4) bekezdésében, a 45. § (6) bekezdésében és az 52. § (2) bekezdésében meghatározott, hatáskörébe utalt feladatokat.
 
 (4) A központi költségvetési szervek vagyonkezelésében lévő létesítményből történő távhőtermelés és távhőszolgáltatás egyes kérdéseit, beleértve a berendezések fenntartását és üzemeltetését, valamint a felhasználók biztonságos ellátását – e törvény előírásainak figyelembevételével – az irányítást ellátó miniszter szabályozhatja.
+
+(5) A Hivatal elnöke rendeletben állapítja meg az engedélyes és az értékesítő által rendszeres és rendkívüli adatszolgáltatás keretében szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét.
 
 61. § (1) E törvény – a (2) bekezdésben foglaltak kivételével – 2005. július 1-jén lép hatályba.
 
