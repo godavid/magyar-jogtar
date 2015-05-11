@@ -215,6 +215,8 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevék
 
 (4) A klímavédelemért felelős hatóság az F-Gáz ügyfélazonosítóval rendelkező ügyfelek számára biztosítja az elektronikus kapcsolattartást és ügyintézést, amelynek részletes szabályait miniszteri rendelet állapítja meg.
 
+(5) Az adatbázisban tárolt, F-Gáz ügyfélazonosítóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell.
+
 10/H. § (1) Aki tevékenységével vagy mulasztásával a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy hatósági határozat előírásait megsérti, vagy a tevékenységet nyilvántartásba vétel nélkül vagy attól eltérően végzi, azt a klímavédelemért felelős hatóság klímavédelmi bírság megfizetésére kötelezi.
 
 (2) A klímavédelmi bírság kiszabására irányuló eljárásban az ügyintézési határidő 21 nap.
@@ -318,16 +320,15 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevék
 - a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részletes feltételeit, a tevékenységre jogosító engedély kiadásának és a 13/C. § (2) bekezdése szerinti bejelentésnek a részletes szabályait, az együttes végrehajtás hitelesítő tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az együttes végrehajtás hitelesítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 - b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
 - c) a klímavédelemért felelős hatósággal való elektronikus kapcsolattartás szabályait;
-- d) az elektronikus ügyintézésre, így különösen a díjakra, befizetésekre és elszámolásokra vonatkozó részletes szabályokat;
+- d) a klímavédelmi felügyeleti díj megfizetésének részletes szabályait;
 - e) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis részét képező, 10/G. § szerinti nyilvántartás részére történő adatközlés formájának és módjának, tartalmának, kezelésének, üzemeltetésének és fenntartásának, felügyeletének, valamint az adatközlés és adatszolgáltatás rendjének részletes szabályait;
-- f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és használatának, az abban való regisztrációnak és nyilvántartásba vételnek a részletes szabályait.
+- f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és használatának, az abban való regisztrációnak és nyilvántartásba vételnek a részletes szabályait;
+- g) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, a vállalkozások képesítési rendszerére, a képesítések nyilvántartására, az igazolás kiadására, az ahhoz fűződő formai és tartalmi követelmények meghatározásának rendjére vonatkozó részletes szabályokat;
+- h) a 10/B. § (2) bekezdése szerinti képzési, képesítési és vizsgáztatási díj mértékét és megfizetésének részletes szabályait.
 
-(7) Felhatalmazást kap a miniszter, hogy
+(7) Felhatalmazást kap a miniszter, hogy az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
-- a) az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésével kiadott rendeletben állapítsa meg,
-- b) az a) pontban meghatározott igazgatási szolgáltatási díj megfizetésének részletes szabályait rendeletben állapítsa meg.
-
-(8) Felhatalmazást kap a miniszter, hogy az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, rendszerére, a vállalkozások képesítési rendszerére, valamint a képesítések nyilvántartására vonatkozó részletes szabályokat az oktatásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(8)
 
 15. § (1) Az Áht. 108. § (1) bekezdése a következő h) ponttal egészül ki:
 
@@ -351,7 +352,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevék
 
 „(13) A 108. § (1) bekezdés h) pontjában meghatározott vagyonelemek az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvényben meghatározott nemzetközi rugalmassági mechanizmusok keretében átruházhatók.”
 
-16. § (1) A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások a 10/C. § (2) bekezdésében meghatározott regisztrációs kötelezettségüknek 2015. március 31-ig kötelesek eleget tenni.
+16. § (1) A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások a 10/C. § (2) bekezdésében meghatározott regisztrációs kötelezettségüknek 2015. március 31-ig kötelesek eleget tenni. E kötelezettség megsértése esetén a klímavédelemért felelős hatóság nem alkalmazhatja a 10/H. § szerinti rendelkezéseket, ha a kötelezett 2015. június 1-jéig eleget tesz a 10/C. § (2) bekezdésében foglaltaknak.
 
 (2) 2015. január 31. napjáig az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendelet szerinti nyilvántartási, regisztrációs és jelentések kezelésével kapcsolatos feladatok elvégzésére kijelölt szervezeteknek a rendelkezésükre álló adatokat, adatbázist, valamint a környezetvédelemért felelős miniszternek az Országos Környezetvédelmi Információs Rendszerben a fluortartalmú üvegházhatású gázokkal kapcsolatban rendelkezésre álló valamennyi adatot át kell adni a miniszter részére.
 
@@ -373,6 +374,6 @@ való megfelelést szolgálja.
 
 - a) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet, és
 - b) az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet
-- c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014 európai parlamenti és tanácsi rendelet
+- c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
