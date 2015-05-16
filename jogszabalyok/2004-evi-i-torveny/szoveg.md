@@ -334,7 +334,8 @@ szabható ki.
 - f) képviselni a sportág érdekeit az állami szervek, a MOB és annak szakmai tagozatai, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
 - g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
 - h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról,
-- i) a 23. § (1) bekezdés d) pontja szerinti szabályzatában meghatározottak alapján ellenőrizni az adott sportág versenyrendszerében szervezett, vagy versenynaptárában egyébként szereplő sportrendezvények biztonságos lebonyolítását.
+- i) a 23. § (1) bekezdés d) pontja szerinti szabályzatában meghatározottak alapján ellenőrizni az adott sportág versenyrendszerében szervezett, vagy versenynaptárában egyébként szereplő sportrendezvények biztonságos lebonyolítását,
+- j) nyertes pályázat esetén a kiemelt nemzetközi sportrendezvények magyarországi megrendezésével összefüggő állami feladatok ellátásában való közreműködés.
 
 (2) A szakszövetség ellátja az alapszabályában, a sportága nemzetközi szövetségének szabályzataiban, illetve a jogszabályokban meghatározott feladatokat. Ennek keretében különösen:
 
@@ -1446,7 +1447,7 @@ adatokat továbbítja.
 
 ### X/A. Fejezet — EGYES FŐVÁROSI ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK VAGYONKEZELŐINEK KIJELÖLÉSÉRŐL
 
-76/B. § (1) A fővárosi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése érdekében az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben felsorolt állami tulajdonú sportcélú ingatlanok vagyonkezelőjeként az 1. mellékletben felsorolt jogi személyeket jelöli ki.
+76/B. § (1) A fővárosi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése érdekében az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
 
 (2) Az (1) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
 
@@ -1551,10 +1552,11 @@ adatokat továbbítja.
 | 5 | Budapest, 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 6 | Budapest, 74333 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
 | 7 | Budapest, 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 8 | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073; Erzsébet krt. 24. I. emelet) |
-| 9 | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073; Erzsébet krt. 24. I. emelet) |
+| 8 | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
+| 9 | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
 | 10 | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 11 | Budapest, 29834/3 | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
-| 12 | Budapest, 29834/10 | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
-| 13 | Budapest, 29834/1 | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
-| 14 | Budapest, 29834/3. | Budapesti Vasutas Sport Club – Zugló KH Egyesület (székhely: 1142 Budapest, Szőnyi út 2.) |
+| 11 | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 12 | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 13 | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 14 | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 15 | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
