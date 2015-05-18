@@ -241,6 +241,10 @@ az elszámolási törvény 11. alcímében foglalt szabályok szerint – a (2) 
 
 (4) Ahol az elszámolási törvény 11. alcíme elszámolást említ, azon az 5. § (1) és (2) bekezdésében, a 12. § (5) bekezdésében és a 15. § (2) bekezdésében meghatározott dokumentumokat is érteni kell azzal, hogy a fogyasztó annak megállapítását is kérheti, hogy azokat a pénzügyi intézménynek e törvény szerint meg kellett volna küldenie.
 
+#### 7/A. Fogyasztóvédelmi ellenőrzési eljárás
+
+16/A. § Az MNB a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB törvény) szerinti – hivatalból megindítható – fogyasztóvédelmi ellenőrzési eljárás keretében vizsgálja, hogy a pénzügyi intézmények az e törvényben és az e törvény végrehajtására kiadott jogszabályokban foglaltaknak megfelelően jártak-e el. Az MNB a fogyasztóvédelmi ellenőrzés során az MNB törvény 81–89/B. §-ában foglalt rendelkezések megfelelő alkalmazásával jár el.
+
 #### 8. Kézbesítési szabályok
 
 17. § Ha e törvény tértivevényes levélben történő értesítést ír elő, akkor a kézhezvétel napja az elszámolási törvény szerinti kézbesítési szabályok alapján megállapítható nap azzal az eltéréssel, hogy ha „cím nem azonosítható”, „címzett ismeretlen”, „elköltözött”, „kézbesítés akadályozott” vagy „bejelentve: meghalt” jelzéssel érkezik vissza, a visszakézbesítés napja.
@@ -253,11 +257,11 @@ az elszámolási törvény 11. alcímében foglalt szabályok szerint – a (2) 
 
 (3) Az árfolyamgáttal érintett fogyasztói kölcsönszerződés esetében, ha az elszámolási törvény 12. §-ában meghatározott elszámolást követően forintban kifejezett gyűjtőszámlahitel-tartozás marad fenn, a gyűjtőszámla hitelkeret-szerződésekre és a gyűjtőszámlahitelre az e törvény hatálybalépését megelőző napon hatályos szabályokat kell alkalmazni azzal, hogy a fordulónaptól a gyűjtőszámlahitel – az árfolyamgát törvényben meghatározott, a gyűjtőszámlahitel terhére felszámolható kamat kivételével – nem növekedhet.
 
-(4) A pénzügyi intézménynek a (2) bekezdésben meghatározott fogyasztói kölcsönszerződés hátralévő futamidejét úgy kell megállapítania, hogy az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapot követően esedékes törlesztőrészletek nem haladhatják meg az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapban esedékes törlesztőrészlet 115 százalékát, vagy ha ez a mérték nem biztosítható, akkor a fogyasztó számára legkedvezőbb mértékű törlesztőrészletet.
+(4) A pénzügyi intézménynek a (2) bekezdésben meghatározott fogyasztói kölcsönszerződés hátralévő futamidejét úgy kell megállapítania, hogy az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapot követően esedékes törlesztőrészletek nem haladhatják meg az árfolyamgát törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapban esedékes törlesztőrészlet 115 százalékát, vagy ha ez a mérték nem biztosítható, akkor a fogyasztó számára legkedvezőbb mértékű törlesztőrészletet. A fogyasztói kölcsönszerződés módosulása során a 4. § szerint kell eljárni.
 
 (5) A (4) bekezdésben meghatározott futamidő-számítás részletes szabályait a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletben határozza meg.
 
-(6) A fogyasztó a (2) bekezdésben meghatározott fogyasztói kölcsönszerződések esetében – az árfolyamgát törvényben meghatározott rögzített árfolyam alkalmazási időszak kezdő időpontjától számított hatvanadik hónapig – bármikor kezdeményezheti a fogyasztói kölcsönszerződés olyan módosítását, amely alapján a (2) bekezdésben meghatározott időszak alatt is az ott meghatározott törlesztőrészletnél magasabb törlesztőrészletet fizet. A felek a kezdeményezés kézhezvételét követő harminc nap utáni első törlesztőrészlet esedékességétől a szerződést a kezdeményezésnek megfelelően módosítják.
+(6) A fogyasztó a (2) bekezdésben meghatározott fogyasztói kölcsönszerződések esetében – az árfolyamgát törvényben meghatározott rögzített árfolyam alkalmazási időszak kezdő időpontjától számított hatvanadik hónapig – bármikor kezdeményezheti a fogyasztói kölcsönszerződés olyan módosítását, amely alapján a (2) bekezdésben meghatározott időszak alatt is az ott meghatározott törlesztőrészletnél magasabb törlesztőrészletet fizet. A felek a kezdeményezés kézhezvételét követő harminc nap utáni első törlesztőrészlet esedékességétől a szerződést a kezdeményezésnek megfelelően módosítják. A szerződés módosítása során a 4. § szerint kell eljárni, valamint a szerződés módosítását követően a (4) bekezdésben foglaltakat nem kell alkalmazni.
 
 #### 10. Záró rendelkezések
 
@@ -269,6 +273,8 @@ az elszámolási törvény 11. alcímében foglalt szabályok szerint – a (2) 
 tartalmi és formai követelményeit.
 
 (2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben állapítsa meg a 18. § (4) bekezdésében meghatározott futamidő-számítás részletes szabályait.
+
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a 7. alcím szerinti polgári nemperes eljárásban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, valamint az űrlapok közzétételének módját.
 
 20. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 

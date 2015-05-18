@@ -82,6 +82,10 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (9) Ha a végelszámolás vagy a felszámolási eljárás alatt álló pénzügyi intézmény esetében az elszámoláshoz szükséges információk nem állnak teljes körűen rendelkezésre, az elszámolás során az MNB rendeletben meghatározott becslési módszertant kell alkalmazni.
 
+(10) Ha az elszámolásra köteles, végelszámolás vagy felszámolási eljárás alatt nem álló pénzügyi intézménynek az elszámoláshoz szükséges információk nem állnak teljeskörűen rendelkezésére, és ezt igazolni tudja a Felügyelet felé, akkor az érintett fogyasztói kölcsönszerződés vonatkozásában jogosult a Felügyelet által jóváhagyott becslési módszertan szerint eljárni.
+
+(11) A Magyar Nemzeti Bank fogyasztóvédelmi eljárás keretében ellenőrzi, hogy a végelszámolás vagy a felszámolási eljárás alatt nem álló pénzügyi intézmény a (10) bekezdésben foglalt feltételek fennállása esetén megfelelően alkalmazza-e a becslési módszertant.
+
 7. § (1) Ha az elszámolásra köteles pénzügyi intézmény a fogyasztóval szembeni követelését a szerződés megszűnését követően követeléskezelőre engedményezte, az elszámolásra köteles pénzügyi intézménynek az 5. § (2) bekezdése szerinti elszámolást a követelés engedményezésének időpontjával kell elkészítenie.
 
 (2) Az elszámolásból eredő jogai érvényesítéséhez a fogyasztó a követeléskezelőtől igényelheti, hogy a követeléskezelő a fogyasztóval szemben fennálló követelésével az 5. § (3) bekezdése szerint – a követeléskezelő vagy a jogelődje által a fogyasztónak nyújtott kedvezmények tekintetében az 5. § (5) és (6) bekezdésének értelemszerű alkalmazásával – számoljon el. Az elszámolás során az engedményezés időpontjától – az MNB rendeletében meghatározott módon – a követeléskezelő által alkalmazott kamattal megnövelt összeggel kell figyelembe venni az engedményezés időpontjában fennálló fogyasztói követelést.
@@ -150,7 +154,11 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) Ha a pénzügyi intézmény valamennyi érintett fogyasztó számára megküldte az elszámolást, ennek tényét 15 napon belül az internetes honlapján közzéteszi és azt egyidejűleg valamennyi bankfiókjában kifüggeszti. Ha a pénzügyi intézménynek a 13. § alapján eltérő időpontokban kell elszámolnia a fogyasztóval, a közzétételt a 13. §-ban meghatározott időpontok szerinti csoportosításban kell megtennie, azt követően, hogy az egyes csoportokban valamennyi elszámolás megtörtént vagy nem kell elszámolni. A közzététel részletes tartalmi és formai követelményeit az MNB rendeletben állapítja meg. Akkor is beáll a pénzügyi intézmény közzétételi kötelezettsége, ha a fogyasztó helyébe lépő örökös személye bizonytalan, ezért számára az elszámolás megküldésére nem került sor, de a többi érintett fogyasztó számára megküldésre került az elszámolás.
 
-(4) Ha a pénzügyi intézmény bármely adós, kezes vagy zálogkötelezett részére az elszámolást nem köteles közvetlenül megküldeni, az adós, a kezes vagy a zálogkötelezett kérheti, hogy részére az elszámolás másolatát a pénzügyi intézmény tájékoztatásul küldje meg.
+(4) Ha a pénzügyi intézmény bármely adós, kezes vagy zálogkötelezett részére az elszámolást nem köteles közvetlenül megküldeni, az adós, a kezes vagy a zálogkötelezett kérheti, hogy részére az elszámolás másolatát a pénzügyi intézmény tájékoztatásul küldje meg. Ha a másolatra jogosult személy jogosult az elszámolás vitatására és a pénzügyi intézmény nem készített elszámolást, az elszámolás vitatására jogosult a fogyasztóra irányadó szabályok szerint követelheti elszámolás készítését. Az a másolatra jogosult személy jogosult az elszámolás vitatására, aki az elszámoláson címzettként nem szerepelt, de a szerződésben hitelfelvevőként vagy lízingbevevőként (kötelezettként) szerződő fél. Az elszámolást a másolatra jogosult személy vonatkozásában is abban az időpontban kell kézbesítettnek tekinteni, amely időpontban az az elszámoláson címzettként megjelölt számára kézbesítettnek tekintendő.
+
+(5) Ha a másolatra jogosult személy jogosult az elszámolás vitatására, a másolat megküldése iránti igény bejelentése a másolatra jogosult tekintetében nem módosítja a panasz benyújtásának a 18. § (1) bekezdésében meghatározott határidejét. Ha a másolatra jogosult az elszámolást vitatja, a pénzügyi intézmény, a Pénzügyi Békéltető Testület és a bíróság előtti eljárás során a másolatra jogosult esetében a fogyasztóra vonatkozó szabályokat kell alkalmazni.
+
+(6) A másolatra jogosult személy a másolat iránti kérelmét legkésőbb a 16. § (3) bekezdés szerinti honlapon történő közzétételt követő 30 napon belül terjesztheti elő.
 
 17. § (1) Ha e rendelkezés hatálybalépése előtt a fogyasztói kölcsönszerződés teljesítésére irányuló kötelezettség megszűnt, és az elszámolás alapján a pénzügyi intézménynek fizetési kötelezettsége keletkezik a fogyasztó javára, a fogyasztónak be kell jelentenie azt a fizetési számlaszámot, amelyre az elszámolásban szereplő összeg utalását kéri vagy közölnie kell, hogy az összeget a bankfiókban történő készpénzfizetés útján veszi át. Ha a fogyasztó az elszámolásra köteles pénzügyi intézménynél vagy – ha a fogyasztói kölcsönszerződéssel összefüggésben a fogyasztó adatainak korábbi átadása alapján a pénzügyi intézmény által ismerten – a pénzügyi intézménnyel összevont alapú felügyelet hatálya alá tartozó pénzügyi intézménynél fizetési számlával rendelkezik, a javára fizetendő összeget e fizetési számlán kell jóváírni. Ha a fogyasztó az elszámolásra köteles pénzügyi intézménynél több fizetési számlával rendelkezik, úgy a pénzügyi intézmény a fizetendő összeget a fogyasztó számára legkedvezőbb kondíciókkal vezetett fizetési számlán köteles jóváírni.
 
@@ -185,7 +193,22 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (2) Ha a 16. § (3) bekezdés szerinti honlapon történő közzétételre 2015. december 31. napját követő időpontban kerül sor, az (1) bekezdés szerinti panasz legkésőbb a honlapon történő közzétételt követő 60 napon belül terjeszthető elő.
 
-20. § A 18. § és 19. § szerinti panasz előterjesztésére és annak elintézésére – a 21. § (1) és (1a) bekezdésben foglalt eltérésekkel – a Hpt. panaszkezelésre vonatkozó rendelkezéseit és a panaszkezelésre vonatkozó MNB rendelet szabályait kell alkalmazni.
+20. § A 18. § és 19. § szerinti panasz előterjesztésére és annak elintézésére – a 21. § (1) és (1a) bekezdésében foglalt eltérésekkel – a Hpt. panaszkezelésre vonatkozó rendelkezéseit és a panaszkezelésre vonatkozó MNB rendelet szabályait kell alkalmazni.
+
+(2) Ha az elszámolás vitatására jogosult olyan elszámolás miatt nyújt be panaszt a pénzügyi intézményhez, amely miatt a pénzügyi intézmény panaszeljárása már folyamatban van, akkor a pénzügyi intézménynek a panaszokat együtt kell elintéznie. A panasz elintézésére nyitva álló határidőt a később érkezett panasz beérkezésétől kell számítani.
+
+(3) Ha az elszámolás vitatására jogosult olyan elszámolás miatt nyújt be panaszt a pénzügyi intézményhez, amely miatt a Pénzügyi Békéltető Testület vagy a bíróság eljárása már folyamatban van, a pénzügyi intézménynek erről legkésőbb 8 napon belül tájékoztatnia kell a Pénzügyi Békéltető Testületet vagy a bíróságot.
+
+(4) A pénzügyi intézménynek a (3) bekezdés szerinti esetben arról is tájékoztatnia kell a Pénzügyi Békéltető Testületet vagy a bíróságot, ha
+
+- a) a panasz alapján új elszámolást készített vagy
+- b) a panaszt elutasította.
+
+(5) A (4) bekezdés b) pontja szerinti esetben a pénzügyi intézménynek arról is tájékoztatnia kell a Pénzügyi Békéltető Testületet, hogy álláspontjának kézbesítése mikor történt meg.
+
+(6) Az elszámolás nem vitatható olyan okból, amelyet a Pénzügyi Békéltető Testület vagy a bíróság már jogerősen elbírált.
+
+(7) Ha az elszámolás vitatására jogosult ugyanazon okból nyújt be panaszt, amely okból már más az adott elszámolást vitatta, a pénzügyi intézménynek álláspontja közlésekor elegendő korábbi álláspontjáról, ha pedig a panaszt orvosolta, akkor – az új elszámolás másolatának egyidejű megküldésével – erről az elszámolás vitatására jogosult részére tájékoztatást adnia. Ha az elszámolást olyan okból vitatják, amelyet a bíróság már jogerősen elbírált, a pénzügyi intézménynek erről is tájékoztatást kell adnia.
 
 21. § (1) A Hpt. 288. § (8) bekezdése nem alkalmazható; a panasz elutasítása esetén a fogyasztónak – ha a panaszban foglaltakat továbbra is fenntartja – a pénzügyi intézmény álláspontjának kézbesítésétől számított 30 napon belül a Pénzügyi Békéltető Testület eljárását kell kezdeményeznie. Ha a kérelem benyújtásában akadályozva volt, akkor az akadály megszűnésétől számított 30 napon belül, de legkésőbb a kézbesítéstől számított 6 hónapon belül kell az eljárást kezdeményezni. Erről a pénzügyi intézmény a válaszában tájékoztatja a fogyasztót, és megadja a Pénzügyi Békéltető Testület levelezési címét.
 
@@ -209,35 +232,54 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 és ahhoz mellékelni kell az állítást alátámasztó iratokat.
 
-22. § (1) A Pénzügyi Békéltető Testület a 21. § (3) bekezdés szerinti kérelmet háromtagú tanácsban eljárva, az eljárás írásbeli lefolytatásával bírálja el, azzal hogy bármelyik fél kérelmére meghallgatást kell tartani; erről a feleket értesíti és felhívja a feleket, hogy ha kérik meghallgatás tartását, azt 8 napon belül írásban jelentsék be. A tanács egyezséget jóváhagyó vagy kötelezést tartalmazó határozattal dönt, vagy a kérelmet elutasítja és az eljárást megszünteti.
+22. § (1) A Pénzügyi Békéltető Testület a 21. § (3) bekezdése szerinti kérelmet háromtagú tanácsban eljárva, az eljárás írásbeli lefolytatásával bírálja el azzal, hogy ha megítélése szerint az ügy körülményei indokolják, meghallgatást tarthat. A tanács egyezséget jóváhagyó vagy kötelezést tartalmazó határozattal dönt, vagy a kérelmet elutasítja és az eljárást megszünteti. A tanács a kérelmet elutasítja és az eljárást megszünteti abban az esetben is, ha a kérelem nem alkalmas az érdemi elbírálásra.
 
-(2) Az eljáró tanács a meghallgatás kitűzött időpontjáról a feleket kellő időben – de legalább a meghallgatást 8 nappal megelőzően – előzetesen írásban értesíti és a kérelem másolatát a pénzügyi intézménynek egyidejűleg megküldi. Az eljáró tanács az értesítésben a pénzügyi intézményt felszólítja, hogy 15 napon belül válasziratban nyilatkozzon a fogyasztó igényének jogosságáról és elektronikus adathordozón a Pénzügyi Békéltető Testület által megadott formátumban küldje meg a fogyasztóval közölt elszámolást, továbbá az annak alapjául szolgáló adatokat. Az eljáró tanács felhívja a pénzügyi intézményt arra is, hogy válasziratát közvetlenül a fogyasztónak is küldje meg és egyezségi ajánlat esetén azt közölje. Ha a felek között a meghallgatást megelőzően egyezség születik, az egyezség tényéről a pénzügyi intézmény az eljáró tanácsot értesíti, és az aláírt egyezséget 8 napon belül megküldi. Az írásbeli egyezség kézhezvételét követően a tanács az egyezséget jóváhagyja, ha az megfelel a jogszabályoknak.
+(1a) A 20. § (3) bekezdése szerinti esetben a Pénzügyi Békéltető Testület az eljárását felfüggeszti. A felfüggesztés időtartama az eljárás határidejébe nem számít bele. Az eljárás folytatásának akkor van helye, ha
+
+- a) a pénzügyi intézmény a panaszt elutasítja és a pénzügyi intézmény álláspontjának kézbesítésétől számított 30 napon belül az elszámolás vitatására jogosult nem kezdeményezi a Pénzügyi Békéltető Testület eljárását és a kézbesítéstől számított 40 nap eltelt vagy
+- b) a pénzügyi intézmény panaszeljárásával szemben az elszámolás vitatására jogosult a Pénzügyi Békéltető Testület eljárását kezdeményezi.
+
+(1b) Ha a Pénzügyi Békéltető Testület az eljárását az (1a) bekezdés b) pontja alapján folytatja, a Pénzügyi Békéltető Testület a kérelmeket együtt bírálja el.
+
+(1c) A Pénzügyi Békéltető Testület az eljárását megszünteti, ha a pénzügyi intézmény – az új elszámolás megküldésével – azt jelenti be, hogy panasz alapján új elszámolást készített. A Pénzügyi Békéltető Testületnek az eljárást megszüntető döntésében tájékoztatnia kell a kérelmezőt arról, hogy az új elszámolással szemben a pénzügyi intézménynél panaszt nyújthat be.
+
+(2) Az eljáró tanács a pénzügyi intézményt értesíti a kérelem benyújtásáról és egyidejűleg a kérelem másolatát megküldi a pénzügyi intézménynek. Az eljáró tanács az értesítésben a pénzügyi intézményt felszólítja, hogy 15 napon belül válasziratban nyilatkozzon a fogyasztó igényének jogosságáról és elektronikus adathordozón a Pénzügyi Békéltető Testület által megadott módon és formátumban küldje meg a fogyasztóval közölt elszámolást, továbbá az annak alapjául szolgáló adatokat. Az eljáró tanács felhívja a pénzügyi intézményt arra is, hogy válasziratát közvetlenül a fogyasztónak is küldje meg és egyezségi ajánlat esetén azt legkésőbb az értesítésben foglalt határidőre közölje. Ha a felek között egyezség születik, az egyezség tényéről a pénzügyi intézmény az eljáró tanácsot értesíti, és az aláírt egyezséget 8 napon belül megküldi. Az írásbeli egyezség kézhezvételét követően a tanács az egyezséget jóváhagyja, ha az megfelel a jogszabályoknak.
+
+(2a) Ha az eljáró tanács meghallgatást tart, a meghallgatás kitűzött időpontjáról a (2) bekezdésben meghatározott válaszirat beérkezését követően a feleket kellő időben, de legalább a meghallgatást 8 nappal megelőzően írásban értesíti.
 
 (3) A kérelmező és a pénzügyi szolgáltató hatásköri kifogást a Pénzügyi Békéltető Testület eljárásával kapcsolatban sem a válasziratában, sem a meghallgatáson nem terjeszthet elő.
 
 (4) A Pénzügyi Békéltető Testület kötelezést tartalmazó határozata az érintett pénzügyi intézményt akkor is kötelezi, ha sem általános, sem egyedi alávetést nem tett.
 
-23. § (1) Az MNB törvény 116. § (1) bekezdése alkalmazásának nincs helye, a fogyasztó vagy a pénzügyi intézmény a Pénzügyi Békéltető Testület eljárását követően nemperes eljárásban a 24–29. §-ban foglaltak szerint a döntés megváltoztatását kérheti.
+(5) Ha az elszámolás vitatására jogosult ugyanazon okból benyújtott panasz alapján kéri a Pénzügyi Békéltető Testület eljárását, amely okból már más az adott elszámolást vitatta és amely tekintetében
+
+- a) a Pénzügyi Békéltető Testület olyan döntést hozott, amely miatt határidőben nem kezdeményezték a bíróság eljárását vagy
+- b) a bíróság határozatot hozott, a Pénzügyi Békéltető Testületnek elegendő ennek tényére utalnia a panasz elutasításakor.
+
+23. § (1) Az MNB törvény 116. § (1) bekezdése alkalmazásának nincs helye, a fogyasztó vagy a pénzügyi intézmény a Pénzügyi Békéltető Testület eljárását követően nemperes eljárásban a 24–29. §-ban foglaltak szerint a döntés hatályon kívül helyezését kérheti.
 
 (2) Az MNB törvény 116. § (2) bekezdését alkalmazni kell, azzal hogy az MNB törvény 116. § (3) bekezdésében foglaltak mellett a fogyasztó vagy a pénzügyi intézmény a kötelezést tartalmazó határozat hatályon kívül helyezését akkor is kérheti, ha az eljárás nem felelt meg e törvény rendelkezéseinek. A perben perújításnak nincs helye.
 
 24. § A nemperes eljárásra – ha a 25–29. § másként nem rendelkezik – a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel kell megfelelően alkalmazni.
 
-25. § (1) A fogyasztó mint kérelmező az elszámolást készítő pénzügyi intézmény mint kérelmezett ellen, a Pénzügyi Békéltető Testület eljárását követően, a Pénzügyi Békéltető Testület eljárást megszüntető döntésének vagy a 21. § (3) bekezdés a) pontja szerinti kérelem alapján a helyes elszámolást megállapító határozatának a fogyasztó részére történő kézbesítését követő 30 napon belül a Pénzügyi Békéltető Testület eljárást megszüntető döntésének vagy a helyes elszámolást megállapító határozatának megváltoztatása iránt polgári nemperes eljárást kezdeményezhet. Ha a fogyasztó a kérelem előterjesztésében akadályozva van, akkor az akadály megszűnésétől számított 30 napon belül, de legkésőbb 2016. október 31. napjáig kell a kérelmet előterjesztenie.
+25. § (1) A fogyasztó mint kérelmező az elszámolást készítő pénzügyi intézmény mint kérelmezett ellen, a Pénzügyi Békéltető Testület eljárását követően, a Pénzügyi Békéltető Testület eljárást megszüntető döntésének vagy a 21. § (3) bekezdés a) pontja szerinti kérelem alapján a helyes elszámolást megállapító határozatának a fogyasztó részére történő kézbesítését követő 30 napon belül a Pénzügyi Békéltető Testület eljárást megszüntető döntésének vagy a helyes elszámolást megállapító határozatának hatályon kívül helyezése iránt polgári nemperes eljárást kezdeményezhet. Ha a fogyasztó a kérelem előterjesztésében akadályozva van, akkor az akadály megszűnésétől számított 30 napon belül, de legkésőbb 2016. október 31. napjáig kell a kérelmet előterjesztenie.
 
-(2) A kérelmező a kérelmében kérheti, hogy a bíróság a kérelmet elutasító és az eljárást megszüntető döntést változtassa meg és határozatában állapítsa meg, hogy
+(2) A kérelmező a kérelmet elutasító és az eljárást megszüntető döntéssel szemben benyújtott kérelmében kérheti, hogy a bíróság határozatában állapítsa meg, hogy
 
-- a) az elszámolás a kérelmező által megjelölt helytelen adatot, illetve számítási hibát tartalmazza, és állapítsa meg a helyes elszámolást, továbbá kötelezze a pénzügyi intézményt annak végrehajtására vagy
-- b) a panasz nem volt elkésett és így a panasz elutasításának nem volt helye, ezért a pénzügyi intézmény a panaszeljárás keretében a panasszal érdemben köteles foglalkozni és a panaszeljárást az arra irányadó szabályok szerint lefolytatni vagy
-- c) a pénzügyi intézménynek a kérelmezővel szemben az elszámolási kötelezettsége a 2014. évi XXXVIII. törvény, illetve e törvény szerint fennáll és kötelezze a kérelmezettet az elszámolásra.
+- a) a pénzügyi intézmény elszámolása, illetve a Pénzügyi Békéltető Testület döntése jogszabályt sért, a Pénzügyi Békéltető Testület jogszabálysértő határozatát helyezze hatályon kívül és kötelezze a pénzügyi intézményt új elszámolás készítésére,
+- b) a panasz nem volt elkésett és így a panasz elutasításának nem volt helye, ezért a pénzügyi intézmény a panaszeljárás keretében a panasszal érdemben köteles foglalkozni és a panaszeljárást az arra irányadó szabályok szerint lefolytatni,
+- c) a pénzügyi intézménynek a kérelmezővel szemben az elszámolási kötelezettsége a 2014. évi XXXVIII. törvény, illetve e törvény szerint fennáll és kötelezze a kérelmezettet az elszámolásra vagy
+- d) – ha a Pénzügyi Békéltető Testület a fogyasztó kérelmét nem a kérelem megalapozatlansága miatt utasította el és szüntette meg az eljárást – a Pénzügyi Békéltető Testület döntése jogszabályt sért, azt helyezze hatályon kívül és kötelezze a Pénzügyi Békéltető Testületet új eljárás lefolytatására.
 
-(3) Ha a Pénzügyi Békéltető Testület határozatában a fogyasztó kérelmétől eltérően állapítja meg a helyes elszámolást, a kérelmező a kérelmében kérheti, hogy a bíróság a Pénzügyi Békéltető Testület helyes elszámolást megállapító határozatát változtassa meg és határozatában állapítsa meg, hogy a Pénzügyi Békéltető Testület elszámolása helytelen adatot, illetve számítási hibát tartalmaz és állapítsa meg a helyes elszámolást, továbbá kötelezze a pénzügyi intézményt annak végrehajtására.
+(3) Ha a Pénzügyi Békéltető Testület határozatában a fogyasztó kérelmétől eltérően állapítja meg a helyes elszámolást, a kérelmező kérheti, hogy a bíróság állapítsa meg, hogy a Pénzügyi Békéltető Testület határozata jogszabályt sért, azt helyezze hatályon kívül és kötelezze a Pénzügyi Békéltető Testületet új eljárás lefolytatására.
 
-(4) A kérelmező a (2) bekezdés a) pontja és (3) bekezdés szerinti kérelmében kizárólag olyan helytelen adat, illetve számítási hiba megállapítását kérheti, melyre hivatkozással a Pénzügyi Békéltető Testület eljárását is kérte, és abban kizárólag olyan indokot jelölhet meg, melyre hivatkozással a Pénzügyi Békéltető Testület eljárását is kérte.
+(4) A kérelmező a (2) bekezdés a) pontja és – ha a kérelmező a fogyasztó – a (3) bekezdés szerinti kérelmében kizárólag olyan helytelen adatra, illetve számítási hibára alapítva kérheti annak megállapítását, hogy a Pénzügyi Békéltető Testület eljárása jogszabályt sért, amelyre hivatkozással a Pénzügyi Békéltető Testület eljárását is kérte. Ha a kérelmező pénzügyi intézmény, a (3) bekezdés szerinti kérelmét kizárólag olyan tényekre alapíthatja, amelyekkel kimutatja, hogy a Pénzügyi Békéltető Testület határozata jogszabályt sért.
 
 (5) A kérelmező a (2) bekezdés b) pontja szerinti kérelmében kizárólag olyan indokot adhat elő annak alátámasztására, hogy a panasz miért nem volt elkésett, melyre hivatkozással a Pénzügyi Békéltető Testület eljárását is kérte.
 
 (6) A kérelmező a (2) bekezdés c) pontja szerinti kérelmében kizárólag olyan indokot adhat elő annak alátámasztására, hogy a pénzügyi intézménynek vele szemben az elszámolási kötelezettsége a 2014. évi XXXVIII. törvény, illetve e törvény szerint miért áll fenn, melyre hivatkozással a Pénzügyi Békéltető Testület eljárását is kérte.
+
+(7) A kérelmező a (2) bekezdés d) pontja szerinti kérelmében kizárólag olyan indokot adhat elő annak alátámasztására, hogy a panasz elutasításának miért nem volt helye, amelyekkel kimutatja, hogy a Pénzügyi Békéltető Testület döntése jogszabályt sért.
 
 26. § (1) Az elszámolást készítő pénzügyi intézmény, mint kérelmező a fogyasztó, mint kérelmezett ellen – a Pénzügyi Békéltető Testület határozatának kérelmező részére történő kézbesítését követő – 30 napon belül polgári nemperes eljárást kezdeményezhet a Pénzügyi Békéltető Testület határozatának megváltoztatása iránt.
 
@@ -249,21 +291,36 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) A kérelmező kérelmében csak olyan indokot adhat elő kérelme alátámasztására, melyet már a Pénzügyi Békéltető Testület eljárásában is előadott.
 
-27. § (1) A polgári nemperes eljárás lefolytatására a fogyasztó lakóhelye szerint illetékes törvényszék székhelyén működő járásbíróság – a Fővárosi Törvényszék illetékességi területén a Pesti Központi Kerületi Bíróság – illetékes. Belföldi lakóhely hiányában az illetékességet a fogyasztó tartózkodási helye alapozza meg; ha a fogyasztó tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely irányadó, ha pedig ez nem állapítható meg vagy a fogyasztónak belföldön lakóhelye nem is volt, az illetékességet a pénzügyi intézmény székhelye alapítja meg.
+27. § (1) A polgári nemperes eljárás lefolytatására a fogyasztó lakóhelye szerint illetékes törvényszék székhelyén működő járásbíróság – a Fővárosi Törvényszék illetékességi területén a Pesti Központi Kerületi Bíróság – illetékes. Belföldi lakóhely hiányában az illetékességet a fogyasztó tartózkodási helye alapozza meg; ha a fogyasztó tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely irányadó, ha pedig ez nem állapítható meg vagy a fogyasztónak belföldön lakóhelye nem is volt, az illetékességet a pénzügyi intézmény székhelye alapítja meg. A (3) bekezdés d) pontja szerinti nemperes eljárás lefolytatására az a bíróság illetékes, amelyik előtt a felfüggesztett eljárás folyamatban van.
 
-(2) A kérelmet a Pénzügyi Békéltető Testülethez kell benyújtani. A Pénzügyi Békéltető Testület a kérelmet az ügy irataival együtt, a kérelem beérkezésétől számított 8 napon belül a bírósághoz továbbítja.
+(2) A kérelmet a Pénzügyi Békéltető Testülethez kell benyújtani. A Pénzügyi Békéltető Testület a kérelmet az ügy irataival együtt, a kérelem beérkezésétől számított 8 napon belül a bírósághoz továbbítja. A kérelmezőnek és a kérelmezettnek a beadványt – ha jogszabály a beadványra űrlapot rendszeresít – űrlapon kell benyújtania.
 
-28. § (1) A polgári nemperes eljárásban a bíróság – ha az MNB ilyen segédprogramot jóváhagyott – az MNB által jóváhagyott ellenőrző segédprogram alkalmazásával, illetve kizárólag azon iratok és adatok alapján dönt, amelyek a Pénzügyi Békéltető Testület eljárása során rendelkezésre álltak. Az eljárásban egyéb bizonyításnak helye nincs.
+(3) A 20. § (3) bekezdése szerinti esetben a bíróság az eljárást felfüggeszti. A felfüggesztett eljárást folytatni kell, ha
+
+- a) a pénzügyi intézmény a panaszt elutasítja és a pénzügyi intézmény álláspontjának kézbesítésétől számított 30 napon belül az elszámolás vitatására jogosult nem kezdeményezi a Pénzügyi Békéltető Testület eljárását,
+- b) a Pénzügyi Békéltető Testület bejelenti, hogy a felek – a kérelmezővel együtt – egyezséget kötöttek,
+- c) a pénzügyi intézmény panaszeljárásával szemben az elszámolás vitatására jogosult a Pénzügyi Békéltető Testület eljárását kezdeményezi, és a Pénzügyi Békéltető Testület kérelmet elutasító és az eljárást megszüntető döntésével szemben a kérelmező 30 napon belül nem kérelmezte polgári nemperes eljárás lefolytatását vagy
+- d) a pénzügyi intézmény panaszeljárásával szemben az elszámolás vitatására jogosult a Pénzügyi Békéltető Testület eljárását kezdeményezte, és a Pénzügyi Békéltető Testület kérelmet elutasító és az eljárást megszüntető döntésével szemben a kérelmező polgári nemperes eljárás lefolytatását kérelmezte.
+
+(4) Az eljárás felfüggesztésére a Pp. 155. §-ában foglaltakat megfelelően alkalmazni kell azzal, hogy a felfüggesztést elrendelő bírósági határozat ellen fellebbezésnek nincs helye.
+
+(5) A bíróságnak a felfüggesztett eljárást meg kell szüntetnie, ha a Pénzügyi Békéltető Testület megállapította a helyes elszámolást és kötelezte a pénzügyi intézményt annak végrehajtására, és a pénzügyi intézmény a Pénzügyi Békéltető Testület határozata ellen nem kezdeményezte polgári nemperes eljárás lefolytatását. A bíróságnak az eljárást megszüntető végzésében tájékoztatnia kell a kérelmezőt arról, hogy az új elszámolással szemben a pénzügyi intézménynél panaszt nyújthat be.
+
+(6) Ha a bíróságnak a felfüggesztett tárgyalást a (3) bekezdés d) pontja alapján kell folytatnia, a bíróság a kérelmeket egyesíti.
+
+28. § (1) A polgári nemperes eljárásban a bíróság kizárólag azon iratok és adatok alapján dönt, amelyek a Pénzügyi Békéltető Testület eljárása során rendelkezésre álltak. Az eljárásban egyéb bizonyításnak helye nincs.
 
 (2) A bírósági titkár első fokon önállóan, önálló aláírási joggal eljárhat, érdemi határozatot hozhat a polgári nemperes eljárásban.
 
-(3) A bíróság bármelyik fél kérelmére meghallgatást tart.
+(3) A bíróság – ha a döntéshez szükséges – a feleket meghallgathatja.
 
 (4) A polgári nemperes eljárásban szünetelésnek, felfüggesztésnek nincs helye.
 
 (5) A polgári nemperes eljárásban nincs helye felülvizsgálatnak és perújításnak.
 
 (6) A kérelem benyújtásának a Pénzügyi Békéltető Testület határozata végrehajtására halasztó hatálya van.
+
+(7) A 22. § (5) bekezdése szerinti esetben a bíróságnak elegendő azt vizsgálnia, hogy a kérelmező olyan okból benyújtott panasz alapján kéri-e a bíróság eljárását, amely okból már más az adott elszámolást vitatta, és amelyet a Pénzügyi Békéltető Testület vagy a bíróság már jogerősen elbírált.
 
 29. § A Pénzügyi Békéltető Testület előtti eljárásban és a 23. § (1) bekezdése alapján lefolytatott nemperes eljárásban hozott jogerős, az elszámolás tárgyában született határozat más polgári eljárásban nem vitatható.
 
@@ -284,6 +341,8 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 #### 14. Ellenőrzési eljárás
 
 32. § (1) A Felügyelet az MNB törvény szerinti – hivatalból megindítható – ellenőrzési eljárás keretében vizsgálja, hogy a pénzügyi intézmények a 2014. évi XXXVIII. törvényben és e törvényben, valamint az MNB rendeletben foglaltaknak megfelelően jártak-e el.
+
+(1a) A Felügyelet ellenőrzési eljárásának alapjául szolgál különösen a pénzügyi intézmény által a fogyasztók nagy számát érintően folytatott olyan gyakorlat, amely – a kölcsönszerződés vagy a pénzügyi lízingszerződés fogyasztói jellegének el nem ismerésével, azok eltérő minősítésével vagy ilyen jellegére vonatkozó megváltozott álláspontjának kinyilvánításával – az elszámolási kötelezettség teljesítésének elhárítására, illetve az elszámolás iránti igények benyújtásának megakadályozására irányul.
 
 (2) A 2014. évi XXXVIII. törvényben, az e törvényben és az MNB rendeletben meghatározott, a pénzügyi intézménynek a fogyasztóval szemben tanúsítandó magatartására vonatkozó kötelezettségek az MNB törvény 81–89/B. §-a tekintetében fogyasztóvédelmi rendelkezéseknek minősülnek.
 
@@ -494,6 +553,8 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 
 (4) A Vht. 303. §-ában meghatározott lakóingatlan-kiürítés foganatosítása – a Vht. 182/A. §-ában foglalt rendelkezések figyelembevételével – legkésőbb 2016. december 31. napját követően folytatható.
 
+42/A. § A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló végrehajtási eljárások tekintetében, ha a 41. §-ban és a 42. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 41. §-ban és 42. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.
+
 #### 19. A zálogtárgyak bírósági végrehajtáson kívüli értékesítését szabályozó kormányrendelet szabályainak alkalmazása
 
 43. § (1) A 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárásban a 2014. évi XXXVIII. törvény 18. §-ában foglalt szabályokat a pénzügyi intézmény és a fogyasztó közötti elszámolás adós részére történő megküldését követő harmincadik napot követően nem kell alkalmazni.
@@ -503,6 +564,8 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 (3) A 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárásban a 2014. évi XXXVIII. törvény 18. §-ában foglalt szabályokat annak megállapítását követő harmincadik napot követően nem kell alkalmazni, hogy a követeléskezelőnél a fogyasztó nem kérte a 7. § (2) bekezdése szerinti elszámolást a 16. § (3) bekezdése szerinti honlapon való közzétételt követő harminc napon belül.
 
 (4) A 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárásban az ott meghatározott szabályokat legkésőbb 2016. december 31. napját követően nem kell alkalmazni.
+
+43/A. § A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló, a 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárások tekintetében, ha a 43. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 43. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.
 
 #### 20. Az elszámolással kapcsolatos számviteli szabályok
 
@@ -529,11 +592,17 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 - g) az elszámolással kapcsolatos honlapon való közzététel tartalmi és formai követelményeit, és
 - h) az elszámoláshoz és az elszámolással kapcsolatos igényérvényesítéshez szükséges egyéb részletes szabályokat.
 
+46/A. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy az e törvényben szabályozott polgári nemperes eljárásban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, valamint az űrlapok közzétételének módját rendeletben határozza meg.
+
 47. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – 2014. október 15. napján lép hatályba.
 
 (2) E törvény 1–45. §-a és 48–51. §-a 2014. november 1. napján lép hatályba.
 
-#### 48–51. §
+48. § (1) E törvénynek a banki elszámolás során tapasztalt visszaélések elleni fellépéshez szükséges törvények módosításáról szóló 2015. évi LII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) Ha a Módtv. hatályba lépésekor a 18. § (1) bekezdése szerinti határidő már megkezdődött vagy eltelt, az elszámoláson címzettként nem szerepelt elszámolás vitatására jogosult személy esetében a 18. § (1) bekezdése szerinti 30 napos határidőt a Módtv. hatályba lépésétől kell számítani.
+
+#### 49–51. §
 
 #### 52. §
 
