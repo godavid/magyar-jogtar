@@ -47,12 +47,12 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - 20. Polgári védelem: olyan össztársadalmi feladat-, eszköz- és intézkedési rendszer, amelynek célja katasztrófa, illetve fegyveres összeütközés esetén a lakosság életének megóvása, az életben maradás feltételeinek biztosítása, valamint a lakosság felkészítése azok hatásainak leküzdése és a túlélés feltételeinek megteremtése érdekében.
 - 21. Polgári védelmi szervezet: az a szervezet, amely önkéntes és köteles személyi állománya útján az e törvényben meghatározott, valamint fegyveres összeütközés idején végrehajtandó polgári védelmi feladatokat lát el.
 - 22. Súlyos káresemény elhárítási terv: küszöbérték alatti üzem üzemeltetői okmánya, amely tartalmazza az üzem veszélyeztető hatásainak elemzését, valamint a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését, elhárítását és hatásainak csökkentését szolgáló intézkedések végrehajtásának rendjét, feltételeit.
-- 23. Üzemeltető: bármely természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely veszélyes anyagokkal foglalkozó üzemet, veszélyes anyagokkal foglalkozó létesítményt vagy küszöbérték alatti üzemet működtet, vagy alapszabály, alapító okirat, illetve szerződés alapján döntő befolyást gyakorol a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működésére.
+- 23. Üzemeltető: bármely természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely veszélyes anyagokkal foglalkozó üzemet, létesítményt vagy küszöbérték alatti üzemet működtet, irányít, vagy alapszabály, alapító okirat, illetve szerződés alapján meghatározó gazdasági vagy döntéshozatali befolyással rendelkezik a veszélyes anyagokkal foglalkozó üzem, létesítmény, küszöbérték alatti üzem műszaki üzemeltetése felett.
 - 24. Veszély: valamely veszélyes anyag természetes tulajdonsága vagy olyan körülmény, amely káros hatással lehet az emberi egészségre vagy a környezetre.
 - 25. Veszélyelhárítási terv: katasztrófaveszély, valamint katasztrófa időszakában végrehajtandó katasztrófavédelmi feladatokat tartalmazó, központi, területi (fővárosi), települési (a fővárosban kerületi) és munkahelyi okmányrendszer.
-- 26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, amely mint nyersanyag, termék, melléktermék, maradék, köztes termék vagy hulladék van jelen, beleértve azokat az anyagokat is, amelyekről feltételezhető, hogy egy baleset bekövetkezésekor létrejöhetnek.
-- 27. Veszélyes anyagokkal foglalkozó létesítmény: olyan, a veszélyes anyagokkal foglalkozó üzem területén lévő technológiai vagy termelésszervezési okokból elkülönülő területrész, ahol egy vagy több berendezésben (technológiai rendszerben) veszélyes anyagok előállítása, felhasználása, szállítása vagy tárolása történik. Magában foglal minden olyan felszerelést, szerkezetet, csővezetéket, gépi berendezést, eszközt, iparvágányt, kikötőt, a létesítményt szolgáló rakpartot, kikötőgátat, raktárt vagy hasonló – úszó vagy egyéb – felépítményt, amely a létesítmény működéséhez szükséges.
-- 28. Veszélyes anyagokkal foglalkozó üzem: egy adott üzemeltető irányítása alatt álló azon terület egésze, ahol egy vagy több veszélyes anyagokkal foglalkozó létesítményben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a törvény végrehajtására kiadott jogszabályban meghatározott küszöbértéket elérő mennyiségben (tekintet nélkül az üzem tevékenységének ipari, mezőgazdasági vagy egyéb besorolására).
+- 26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, akár nyersanyag, termék, melléktermék, maradék, köztes termék, vagy hulladék formájában.
+- 27. Veszélyes anyagokkal foglalkozó létesítmény: olyan, a veszélyes anyagokkal foglalkozó üzem területén lévő – föld alatti vagy föld feletti – technológiai vagy termelésszervezési okokból elkülönülő műszaki egység, ahol egy vagy több berendezésben (technológiai rendszerben) veszélyes anyagok előállítása, felhasználása, szállítása vagy tárolása történik, magában foglal minden olyan felszerelést, szerkezetet, csővezetéket, gépi berendezést, eszközt, iparvágányt, kikötőt, a létesítményt szolgáló rakpartot, kikötőgátat, raktárt vagy hasonló – úszó vagy egyéb – felépítményt, amely a létesítmény működéséhez szükséges.
+- 28. Veszélyes anyagokkal foglalkozó üzem: egy adott üzemeltető irányítása alatt álló azon terület egésze, ahol egy vagy több veszélyes anyagokkal foglalkozó létesítményben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a törvény végrehajtására kiadott jogszabályban meghatározott küszöbértéket elérő mennyiségben, és ennek alapján alsó vagy felső küszöbértékűnek minősül.
 - 29. Veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó, veszélyes anyagokkal kapcsolatos üzemzavar, amely a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működése során befolyásolhatatlan folyamatként megy végbe, és amely az üzemen belül vagy azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet.
 - 30. Veszélyes anyagokkal kapcsolatos üzemzavar: veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely azonnali beavatkozást igényel és az alábbi következmények egyikével jár:
   - a) veszélyes anyaggal kapcsolatos tűz,
@@ -62,6 +62,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
   - e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben,
   - f) veszélyes anyagokkal foglalkozó létesítmény leállítása.
 - 31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
+- 31a. Veszélyes anyagok jelenléte: veszélyes anyagok tényleges vagy várható jelenléte a veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben, valamint azoknak az anyagoknak a jelenléte, amelyekről reálisan feltételezhető, hogy akkor keletkezhetnek, amikor a folyamatok – beleértve a tároló tevékenységet is – az üzemen belül bármely létesítményből kikerülnek az ellenőrzés alól, amennyiben e veszélyes anyagok mennyisége eléri vagy meghaladja az e törvény végrehajtását szolgáló kormányrendeletben meghatározott alsó küszöbérték negyedét.
 - 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 - 33. Védendő adat: az üzemeltető által meghatározott üzleti titok és az üzem külső támadás elleni biztonságára vonatkozó lényeges adat.
 
@@ -75,9 +76,11 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 - a) az atomenergiáról szóló 1996. évi CXVI. törvény 1. § (1) bekezdésében az atomenergia alkalmazásával összefüggésben meghatározott tevékenységekre, jogosultságokra és kötelezettségekre,
 - b) a veszélyes anyagoknak a veszélyes anyagokkal foglalkozó üzemen és küszöbérték alatti üzemen kívüli közúti, vasúti, légi vagy vízi szállítására,
-- c) ásványi nyersanyagok feltárásával, kitermelésével és feldolgozásával kapcsolatos föld alatti, külszíni vagy fúrólyukas bányászati tevékenységekre, kivéve az ásványi nyersanyagok vegyi vagy termikus feldolgozását, tárolását, ha annak során a külön jogszabályban meghatározott küszöbértéket elérő mennyiségű veszélyes anyag jelen van,
-- d) a hulladéklerakókra, kivéve az ásványi nyersanyagok kitermeléséből származó hulladékok, meddők feldolgozására szolgáló létesítményeket (beleértve a derítő- és ülepítőmedencét is), ahol a külön jogszabályban meghatározott küszöbértéket elérő mennyiségű veszélyes anyag van jelen, különösen abban az esetben, ha a tevékenység a hulladékok vegyi és termikus feldolgozásával jár együtt,
+- c) az ásványi anyagok bányákban és kőbányákban – többek között fúrólyukakon át – történő kinyerésére, azaz feltárására, kitermelésére és feldolgozására,
+- d) a hulladéklerakó telepre, ideértve a föld alatti hulladéktárolást is,
 - e) a katonai létesítményekre, berendezésekre vagy tárolókra.
+
+(3a) A Kat. IV. fejezetének hatálya kiterjed a szárazföldi föld alatti, természetes rétegekben, víztartó rétegekben, sóüregekben és használaton kívüli bányákban végzett gáztárolásra, a vegyi és termikus feldolgozási műveletekre és a veszélyes anyagokkal végzett ilyen műveletekkel kapcsolatos tárolásra, valamint a működő meddő ártalmatlanítására szolgáló létesítményekre, a veszélyes anyagokat tartalmazó derítő-, illetve ülepítőmedencét is beleértve.
 
 (4) Ez a törvény nem érinti a Magyar Honvédség vezetési-irányítási rendszerére, valamint a katonai függelmi viszonyokra vonatkozó jogszabályi rendelkezéseket.
 
@@ -388,13 +391,14 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (1a) A településszerkezeti terv módosításának költségeit az üzemeltető viseli. Az e törvény IV. fejezete alapján kiadott hatósági döntés nem tartalmazza a településszerkezeti terv módosításának költségét, viselésének módját.
 
-(2) Az üzemeltető az iparbiztonsági hatóság számára köteles haladéktalanul bejelenteni a veszélyes anyagokkal foglalkozó üzem, veszélyes anyagokkal foglalkozó létesítmény, küszöbérték alatti üzem bezárását.
+(2) Az üzemeltető az iparbiztonsági hatóság számára köteles haladéktalanul bejelenteni a veszélyes anyagokkal foglalkozó üzem, veszélyes anyagokkal foglalkozó létesítmény, küszöbérték alatti üzem ideiglenes leállítását, végleges bezárását.
 
 (3) Az üzemeltető köteles az e törvény végrehajtását szolgáló kormányrendeletben meghatározott felülvizsgálati eljárást kezdeményezni az iparbiztonsági hatóságnál
 
 - a) a veszélyes tevékenység ismételt folytatása,
 - b) a működő veszélyes anyagokkal foglalkozó üzem, a veszélyes anyagokkal foglalkozó létesítmény, küszöbérték alatti üzem, a tárolóberendezés vagy a technológiai eljárás, vagy a védekezés belső (létesítményi) rendszerének a biztonságra hátrányosan kiható jelentős változtatása,
-- c) az alkalmazott veszélyes anyagok mennyiségének jelentős növekedése, illetve a veszélyes anyag jellegének vagy fizikai tulajdonságának jelentős változása
+- c) a jelen lévő veszélyes anyagok mennyiségének jelentős növekedése vagy csökkenése; a veszélyes anyag jellegének vagy fizikai tulajdonságának, vagy felhasználási folyamatának jelentős változása,
+- d) az üzem besorolásának megváltozása
 
 esetén.
 
@@ -408,7 +412,7 @@ esetén.
 
 (4) A biztonsági elemzést és jelentést, működő veszélyes anyagokkal foglalkozó üzem esetén a külön jogszabályban meghatározott esetekben, de legalább ötévenként az üzemeltető felülvizsgálja, és szükség szerint módosítja. A felülvizsgálat eredményét, illetve a módosított biztonsági elemzést vagy jelentést az iparbiztonsági hatóság részére megküldi. Az iparbiztonsági hatóság a megküldött biztonsági elemzés vagy jelentés alapján dönt az engedély meghosszabbításáról, illetve annak feltételeiről.
 
-29. § Az iparbiztonsági hatóság a hozzá benyújtott biztonsági jelentés vagy biztonsági elemzés vizsgálata alapján állapítja meg a dominóhatásban érintett veszélyes anyagokkal foglalkozó üzemek körét. Az iparbiztonsági hatóság a dominóhatásban érintett üzemek irányába intézkedik a veszélyes anyagokkal foglalkozó üzemek veszélyes anyagokkal kapcsolatos súlyos baleset-megelőzési célkitűzéseinek, biztonsági irányítási rendszerének, belső védelmi terveinek összehangolására a biztonsági jelentés vagy biztonsági elemzés soron kívüli felülvizsgálatának kezdeményezésével. Az iparbiztonsági hatóság az intézkedéseiről tájékoztatja a külső védelmi tervek és a lakossági tájékoztatók elkészítésében érintetteket.
+29. § Az iparbiztonsági hatóság a hozzá benyújtott biztonsági jelentés vagy biztonsági elemzés vizsgálata, illetve a hatósági ellenőrzésen tapasztaltak alapján állapítja meg a dominóhatásban érintett veszélyes anyagokkal foglalkozó üzemek körét. Az iparbiztonsági hatóság a dominóhatásban érintett üzemek irányába intézkedik a veszélyes anyagokkal foglalkozó üzemek veszélyes anyagokkal kapcsolatos súlyos baleset-megelőzési célkitűzéseinek, biztonsági irányítási rendszerének, belső védelmi terveinek összehangolására a biztonsági jelentés vagy biztonsági elemzés soron kívüli felülvizsgálatának kezdeményezésével. Az iparbiztonsági hatóság az intézkedéseiről tájékoztatja a külső védelmi tervek és a lakossági tájékoztatók elkészítésében érintetteket.
 
 30. § (1) Az iparbiztonsági hatóság a biztonsági jelentés vagy biztonsági elemzés megküldésével értesíti a veszélyeztetett települések polgármestereit, a veszélyeztetett fővárosi kerületek polgármestereit (a továbbiakban együtt: a veszélyeztetett települések polgármesterei), valamint a fővárosban a főpolgármestert az új veszélyes anyagokkal foglalkozó üzem építésével vagy a már működő veszélyes anyagokkal foglalkozó üzem jelentős változtatásával kapcsolatos engedélyezési eljárás megindításáról.
 
@@ -471,7 +475,7 @@ esetén.
 
 (9) A katasztrófavédelmi bírság a központi költségvetés központosított bevételét képezi.
 
-36. § Az iparbiztonsági hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében a külön jogszabályban meghatározott gyakorisággal hatósági ellenőrzést tart.
+36. § Az iparbiztonsági hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek és üzemzavarok megelőzése, kivizsgálása, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében az e törvény végrehajtását szolgáló kormányrendeletben meghatározott gyakorisággal hatósági ellenőrzést tart.
 
 37. § Az üzemeltető köteles:
 
@@ -1108,7 +1112,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 #### 41. Az Európai Unió jogának való megfelelés
 
-87. § E törvény 3. §-ának 1–4., 11., 13–14., 22–24., 26–33. pontjai és IV. fejezete a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyeinek ellenőrzéséről szóló, 1996. december 9-i 96/82/EK tanácsi irányelvnek, valamint az azt módosító, 2003/105/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+87. § E törvény 3. §-ának 1–4., 11., 13., 23–24., 26–33. pontja, 4. § (3)–(3a) bekezdése, és IV. fejezete a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről, valamint a 96/82/EK tanácsi irányelv módosításáról és későbbi hatályon kívül helyezéséről szóló, 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 42. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
