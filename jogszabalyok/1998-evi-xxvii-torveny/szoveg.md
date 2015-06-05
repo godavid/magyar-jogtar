@@ -197,13 +197,31 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 ### A forgalomba hozatal különös szabályai
 
-11/A. § (1) Géntechnológiával módosított szervezetnek vagy szervezetek kombinációjának akár termékként, akár termékekben az Európai Gazdasági Térség területén első alkalommal történő forgalomba hozatala engedélyköteles, ezt követően az Európai Gazdasági Térség területén – a 11/B. §-ban foglalt kivétellel – szabadon forgalomba hozható.
+11/A. § (1) Kizárólag az Európai Unióban forgalomba hozatali engedéllyel rendelkező géntechnológiával módosított termék hozható forgalomba.
 
-(2)
+(2) Géntechnológiával módosított termék forgalomba hozatalának engedélyezésére vagy a forgalomba hozatali engedély megújítására vonatkozó eljárás (a továbbiakban együtt: forgalomba hozatali engedélyezési eljárás) során a géntechnológiai hatóság az e törvény felhatalmazása alapján kiadott jogszabályban foglaltak szerint az Európai Bizottsághoz fordulhat annak érdekében, hogy a forgalomba hozatali engedély hatálya a termesztés tekintetében Magyarországra vagy annak egy részére ne terjedjen ki (a továbbiakban: engedély területi korlátozására vonatkozó kérés).
 
-(3) Az élelmiszerként vagy takarmányként felhasználható géntechnológiával módosított szervezetek, a géntechnológiával módosított szervezetet tartalmazó vagy abból álló, illetve abból előállított élelmiszerek és takarmányok forgalomba hozatalának engedélyezésére az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusának rendelkezéseit kell alkalmazni.
+(3) Amennyiben a kérelmező megerősíti, hogy a forgalomba hozatali engedély hatályát továbbra is ki kívánja terjeszteni Magyarország területére, vagy a géntechnológiai hatóság nem nyújtott be az engedély területi korlátozására vonatkozó kérést, és a (4) vagy (5) bekezdésben foglalt indokokra tekintettel szükséges az engedély területi korlátozása, a géntechnológiai hatóság a forgalomba hozatali engedélyezési eljárás lezárását megelőzően az e törvény felhatalmazása alapján kiadott jogszabályban foglaltak szerint értesíti az Európai Bizottságot, hogy a géntechnológiával módosított szervezet, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának termesztését meg kívánja tiltani.
 
-(4) A géntechnológiai, illetve az ellenőrzésre jogosult hatóság az (1) bekezdés szerinti forgalomba hozatali engedéllyel rendelkező géntechnológiával módosított szervezetek tekintetében ellenőrzi az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában foglalt nyomon követhetőségre vonatkozó előírásoknak a forgalomba hozatal során történő betartását.
+(4) A géntechnológiával módosított szervezet, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának magyarországi vagy annak egy részére kiterjedő termesztése a következő indokok alapján tiltható meg:
+
+- a) környezetpolitikai célok,
+- b) városi és vidéki területrendezés,
+- c) földhasználat,
+- d) társadalmi-gazdasági hatások,
+- e) a géntechnológiával módosított szervezetek más termékekben való előfordulásának elkerülése,
+- f) agrárpolitikai célok,
+- g) közrend.
+
+(5) A (4) bekezdésben felsorolt indokoktól eltérő okból a termesztési tilalom akkor vezethető be, ha az a természeti erőforrások, a termőföld, az erdők és a vízkészlet, a biológiai sokféleség, különösen a honos növény- és állatfajok védelme érdekében szükséges és arányos a tilalom alapjául szolgáló, elérni kívánt céllal.
+
+(6) A (4) bekezdés g) pontjában meghatározott indokra csak más indokkal együttesen lehet hivatkozni. A (4) bekezdés a) pontjában foglalt indok csak az engedélyezési eljárás során értékelt környezeti kockázatoktól eltérő szempontokon alapulhat.
+
+(7) Az agrárpolitikáért felelős miniszter a géntechnológiával módosított szervezet, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának magyarországi vagy annak egy részére kiterjedő termesztését – az Európai Bizottság (3) bekezdés szerinti értesítését követő 75 napos várakozási idő leteltét követően, de legkorábban a forgalomba hozatali engedély hatálybalépésének napján – rendeletben tiltja meg. Az agrárpolitikáért felelős miniszter a rendeletben a termesztési tilalommal érintett géntechnológiával módosított szervezet, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának tárolásával, szállításával, forgalmazásával kapcsolatban speciális előírásokat vagy a termesztési tilalom betartásához szükséges egyéb biztonsági intézkedéseket állapíthat meg.
+
+(8) A termesztési tilalom alá vont géntechnológiával módosított szervezet szaporítóanyagként kiskereskedelmi forgalomba nem hozható.
+
+(9) Az élelmiszerként vagy takarmányként felhasználható géntechnológiával módosított szervezetek, a géntechnológiával módosított szervezetet tartalmazó vagy abból álló, illetve abból előállított élelmiszerek és takarmányok forgalomba hozatalának engedélyezésére az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusának rendelkezéseit kell alkalmazni.
 
 ### Védzáradéki eljárás
 
@@ -236,7 +254,12 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (4) A géntechnológiával módosított állatfajták fajtaelismerési eljárásának feltétele, hogy a fajtaelismerést kérő a forgalomba hozatali engedélyt az állatfajták fajtaelismerését végző hatósághoz benyújtotta.
 
-(5) Ha a géntechnológiával módosított szervezet forgalomba hozatalát a 11/B. § (2) bekezdése alapján korlátozták vagy megtiltották, az állami elismerésről, illetve a fajtaelismerésről szóló határozat nem adható ki.
+(5) Az állami elismerésről, illetve a fajtaelismerésről szóló határozat nem adható ki, ha
+
+- a) a géntechnológiával módosított szervezet, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának
+  - aa) magyarországi termesztésére a géntechnológiával módosított termék forgalomba hozatali engedélyének hatálya nem terjed ki,
+  - ab) magyarországi termesztését a 11/A. § (7) bekezdése alapján az agrárpolitikáért felelős miniszter megtiltotta, vagy
+- b) a géntechnológiával módosított szervezet forgalomba hozatalát a 11/B. § (2) bekezdése alapján korlátozták vagy megtiltották.
 
 ### Csomagolás jelölése
 
@@ -258,7 +281,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 ### Szállítás
 
-15. § (1) Az Európai Gazdasági Térség területén a 11/A. § (1) bekezdése szerint szabadon forgalmazható géntechnológiával módosított szervezetek és az azokból előállított vagy azokat tartalmazó termékek Magyarországról az Európai Gazdasági Térség tagországaiba, valamint az Európai Gazdasági Térség tagországaiból Magyarországra külön engedély nélkül szállíthatók.
+15. § (1) Az Európai Gazdasági Térség területén a 11/A. § (1) bekezdése szerinti forgalomba hozatali engedéllyel rendelkező géntechnológiával módosított szervezetek és az azokból előállított vagy azokat tartalmazó termékek Magyarországról az Európai Gazdasági Térség tagországaiba, valamint az Európai Gazdasági Térség tagországaiból Magyarországra külön engedély nélkül szállíthatók.
 
 (2) A forgalomba hozatali engedéllyel nem rendelkező géntechnológiával módosított szervezetek és az azokból előállított termékek Magyarországról az Európai Gazdasági Térség tagországaiba, valamint az Európai Gazdasági Térség tagországaiból Magyarországra külön engedéllyel szállíthatók. A szállítási engedély iránti kérelmeket a géntechnológiai hatósághoz a küldemény magyarországi címzettjének vagy feladójának kell benyújtania.
 
@@ -338,6 +361,8 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 - a) a termesztési engedély iránti kérelem beérkezését írásban visszaigazolja a kérelmezőnek, és egyidejűleg országos adatbázisban nyilvánosságra hozza a beérkezett kérelem tartalmát (kérelmező neve, növényfaj, -fajta, terület, MEPAR azonosító és helyrajzi szám),
 - b)–c)
 
+(5a) Amennyiben a termesztési engedély iránti kérelmet a 11/A. § (7) bekezdése szerinti várakozási idő alatt nyújtja be a kérelmező, a termesztési hatóság az engedélyezési eljárást a várakozási idő tartamára felfüggeszti.
+
 (6) A termesztési hatóság a kérelem megérkezését követő 40 napon belül előzetes állásfoglalást bocsát ki a géntechnológiával módosított növények termesztése során biztosítandó pufferzóna méretéről és a termesztés egyéb feltételeiről. Az előzetes állásfoglalás nem jogosít a termesztés megkezdésére.
 
 (7) A géntechnológiával módosított növények és a hagyományos módon, valamint az ökológiai gazdálkodással termesztett növények közötti pufferzóna e törvény felhatalmazása alapján kiadott jogszabályban meghatározott minimális méreténél a termesztési hatóság speciális esetben nagyobb távolságot is megállapíthat, a helyi természeti, földrajzi és egyéb, a termesztést befolyásoló adottságok alapján. A termesztési hatóság a pufferzóna e törvény felhatalmazása alapján kiadott jogszabályban meghatározott minimális méreténél nagyobb távolságot megállapíthat továbbá akkor is, ha a védett, fokozottan védett és érzékeny természeti területek, a NATURA 2000 területek, valamint a génbanki területek és a géntechnológiával módosított növények termőterületének határvonala között a távolság kisebb, mint a pufferzóna minimális méretének kétszerese. A termesztési hatóság által meghatározott pufferzóna mérete nem haladhatja meg a minimális méret kétszeresét.
@@ -412,16 +437,16 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (2) Az ellenőrzésre jogosult hatóság az (1) bekezdésben foglaltakon túlmenően az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő intézkedéseket hozhatja:
 
-- a) az engedéllyel nem rendelkező, védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét megtilthatja;
-- b) elrendelheti az engedéllyel nem rendelkező, védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék forgalomból való kivonását, megsemmisítését;
-- c) az engedéllyel nem rendelkező, védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezetből álló vagy ezt tartalmazó növényfajta vonatkozásában termelési, betakarítási tilalmat rendelhet el,
+- a) az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét megtilthatja;
+- b) elrendelheti az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék forgalomból való kivonását, megsemmisítését;
+- c) az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezetből álló vagy ezt tartalmazó növényfajta vonatkozásában termelési, betakarítási tilalmat rendelhet el,
 - d) elrendelheti az engedéllyel nem rendelkező géntechnológiával módosított állat vizsgálatát, elkülönítését vagy leölését;
 - e) a határállomásokon végzett ellenőrzése során elrendelheti az e törvény végrehajtására kiadott jogszabály szerinti, illetve az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglalt intézkedéseket.
 
 (3) Az ellenőrzésre jogosult hatóság géntechnológiai bírság megfizetését írja elő
 
 - a) az (1) bekezdés a) és b) pontjában foglaltak,
-- b) a 11/B. § (3) bekezdése szerinti rendeletben meghatározott tilalom, korlátozás megszegése, vagy
+- b) a 11/A. § (7) bekezdése vagy 11/B. § (3) bekezdése szerinti rendeletben meghatározott tilalom, korlátozás megszegése, vagy
 - c) a III. Fejezetben foglalt előírások megsértése
 
 esetén.
@@ -558,13 +583,17 @@ esetén.
 
 (10) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az oktatásért felelős miniszter és az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait.
 
+(11) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a termesztési tilalommal érintett géntechnológiával módosított szervezetek, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának körét és a termesztési tilalom elrendelése alapján szükséges tárolási, szállítási, forgalmazási vagy egyéb biztonsági intézkedésekre vonatkozó előírásokat.
+
 35. §
 
 ### Átmeneti rendelkezések
 
 36. § Felhatalmazást kap az agrárpolitikáért felelős miniszter arra, hogy a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény módosításáról szóló 2012. évi LXXIV. törvény (a továbbiakban: Módtv.) hatálybalépésekor folyamatban lévő védzáradéki eljárással érintett termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek listáját és az ezekkel kapcsolatban elrendelt, a Módtv. által megállapított 11/B. § (3) bekezdés b) pontja szerinti biztonsági intézkedéseket rendeletben megállapítsa.
 
-37. §
+37. § (1) A géntechnológiai hatóság a 2015. április 2-a előtt benyújtott, a forgalomba hozatal engedélyezésére vagy a forgalomba hozatali engedély megújítására vonatkozó, még el nem bírált kérelem, valamint a már engedélyezett géntechnológiával módosított termék esetén 2015. október 3-ig kezdeményezi az engedélyezési eljárást lefolytató tagállami hatóságnál vagy az Európai Bizottságnál a kérelem vagy az engedély termesztés tekintetében történő, Magyarország területére vagy annak egy részére kiterjedő korlátozását.
+
+(2) Amennyiben a kérelmező megerősíti, hogy a forgalomba hozatali engedély hatályát továbbra is ki kívánja terjeszteni Magyarország területére, vagy a géntechnológiai hatóság nem nyújtott be az engedély területi korlátozására vonatkozó kérést, a 11/A. § (3)–(7) bekezdésében foglaltak szerint tiltható meg a géntechnológiával módosított szervezet, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának magyarországi vagy annak egy részére kiterjedő termesztése.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -572,7 +601,8 @@ esetén.
 
 - a) a géntechnológiával módosított szervezetek környezetbe történő szándékos kibocsátásáról és a 90/220/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2001. március 12-i 2001/18/EK európai parlamenti és tanácsi irányelvnek,
 - b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
-- c) a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló, 2009. május 6-i 2009/41/EK európai parlamenti és tanácsi irányelvnek
+- c) a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló, 2009. május 6-i 2009/41/EK európai parlamenti és tanácsi irányelvnek,
+- d) a 2001/18/EK irányelvnek a tagállamok számára a géntechnológiával módosított szervezetek (GMO-k) területükön történő termesztésének korlátozására, illetve megtiltására biztosított lehetőség tekintetében történő módosításáról szóló, 2015. március 11-i 2015/412/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
