@@ -330,7 +330,7 @@ esetén.
 
 - a) ha a helyi földbizottság
   - aa) állásfoglalása alapján egyik elővásárlásra jogosulttal és az adás-vételi szerződés szerinti vevővel sem támogatja az adás-vételi szerződés jóváhagyását,
-  - ab) a 26. §-ban foglalt felhívás ellenére nem adja ki az állásfoglalását;
+  - ab)
 - b) a (2) bekezdésben meghatározott esetekben.
 
 (2) A mezőgazdasági igazgatási szervnek – az adás-vételi szerződés jóváhagyását támogató helyi földbizottsági állásfoglalás ellenére – meg kell tagadnia az adás-vételi szerződés jóváhagyását, ha
@@ -760,7 +760,7 @@ ténylegesen és igazoltan felmerülő költségek megtérítése a kötelezette
 
 (4) A földbizottság tagja a saját vagy hozzátartozója ügyével összefüggő eljárásban nem vehet részt.
 
-(5) A helyi földbizottság állásfoglalása ellen kifogás terjeszthető elő a települési önkormányzat képviselő-testületénél. A képviselő-testület döntése ellen további jogorvoslatnak, panasznak, felszólalásnak nincs helye.
+(5) A helyi földbizottság állásfoglalása ellen kifogás terjeszthető elő a települési önkormányzat képviselő-testületénél.
 
 (6) A helyi földbizottság tagjainak megválasztása érdekében – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – a települési önkormányzat jegyzője összehívja a helyi gazdálkodói közösség közgyűlését.
 
