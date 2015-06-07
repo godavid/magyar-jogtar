@@ -511,7 +511,7 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 (6) A hálózathoz való hozzáférés részletes műszaki és egyéb szabályairól, valamint a rendelkezésre álló szabad hálózati kapacitások közzétételének rendjéről a villamosenergia-ellátási szabályzatok rendelkeznek, a 714/2009/EK rendelet 8. cikk (6) és (7) bekezdésében meghatározott szabályzatok műszaki követelményrendszerére figyelemmel.
 
-36. § (1) Az átviteli rendszerirányító az átviteli és az átviteli hálózat üzemét befolyásoló elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül, a külön jogszabályban meghatározott feltételek szerint tagadhatja meg, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, szüneteltetheti. A korlátozásra, csökkentésre vagy szüneteltetésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
+36. § (1) Az átviteli rendszerirányító az átviteli és az elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül, a külön jogszabályban meghatározott feltételek szerint tagadhatja meg, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, szüneteltetheti. A korlátozásra, csökkentésre vagy szüneteltetésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
 
 - a) rendkívüli hálózati állapotok,
 - b) az élet- és vagyonbiztonság veszélyeztetése,
@@ -519,7 +519,7 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 - d) az együttműködő villamosenergia-rendszer, illetve a villamosenergia-rendszer üzemzavara,
 - e) a rendszerszintű szolgáltatások biztosításának vagy a rendszer szabályozhatóságának veszélybe kerülése,
 - f) a határon keresztül szállított villamos energia beszállításra olyan létesítményekből kerül sor, amelyek üzemeltetése a Magyarország területén tartózkodó személyekre, vagyontárgyaikra, a természetre vagy a környezetre közvetett vagy közvetlen veszéllyel jár, illetve járhat,
-- g) a villamos energia beszállítása a megújuló energiaforrások, a hulladékból nyert energia, illetve a kapcsolt villamos energia termelését vagy felhasználását hátrányosan érinti,
+- g) a villamos energia beszállítása a megújuló energiaforrások, a hulladékból nyert energia, illetve a nagy hatásfokú kapcsolt villamos energia termelését vagy felhasználását hátrányosan érinti,
 - h) más módon el nem végezhető karbantartási és felújítási munkák, valamint kapcsolások érdekében.
 
 (2) Az elosztó hálózati engedélyes a külön jogszabályban meghatározott feltételek szerint az átviteli hálózat üzemét nem befolyásoló elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül a külön jogszabályban meghatározott feltételek szerint megtagadhatja, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, vagy szüneteltetheti. A megtagadásra, korlátozásra, csökkentésre, és szünetelésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
@@ -2324,6 +2324,8 @@ ELJÁRÁSOK
 
 (6) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozás indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával a (2) bekezdés szerinti miniszteri rendelettel összhangban úgy kell meghatározni, hogy az érintett engedélyeseket rövid és hosszú távon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
 
+(7) A rendszerhasználati díjaknak tükrözniük kell a hálózatokon a fogyasztásbefolyásolás és a kereslet oldali válaszintézkedések, valamint az elosztott termelés és egyéb energiahatékonysági intézkedések útján elért költségmegtakarítást, beleértve a hálózati beruházások költségének csökkentésén és a hálózat optimálisabb működésén keresztül elért megtakarításokat is.
+
 142/A. § (1) A rendszerhasználati díjak szabályozása négyéves árszabályozási ciklusok keretében, az árszabályozási cikluson belül időszakonkénti ármegállapítással történik. A Hivatal az árszabályozási ciklus indulását megelőzően költség-felülvizsgálatot végez. Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter a 142. § (2) bekezdés szerinti rendeletben állapítja meg.
 
 (2) Az elosztási díjból és a közvilágítási elosztási díjból származó árbevételt az elosztók között az indokolt költségek arányában kell megosztani. Ennek érdekében az engedélyesek között szükség esetén a rendszerhasználati díjakkal együtt meghatározott kiegyenlítő fizetéseket kell végrehajtani. A kiegyenlítő fizetések mértékét a Hivatal elnöke a rendszerhasználati díjakról kiadott rendeletében állapítja meg.
@@ -3251,7 +3253,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (3) A 3. § 4. pontja, a 3. § 13a. pontja, a 3. § 45b. pontja és a 3. § 47. pontja, valamint a 6/A. §, a 7/A. §, a 12. § (1) bekezdése, a 170. § (1) bekezdés 24. pontja, a 170. § (2) bekezdés 9. és 10. pontja a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 2. cikk e), j), k) pontjának, 4. cikk (1) bekezdésének, 13. cikk (2) és (6) bekezdésének, 14. cikk (1), (2), (5) és (6) bekezdésének, valamint 15. cikkének való megfelelést szolgálja.
 
-(3a) A 3. § 13a. pontja, a 6/A. §, a 170. § (1) bekezdése az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikk (10) bekezdésének való megfelelést szolgálja.
+(3a) Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének, 14. cikk (10) bekezdésének és 15. cikkének való megfelelést szolgálja.
 
 (4) Ez a törvény
 

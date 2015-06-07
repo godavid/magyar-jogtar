@@ -17,7 +17,7 @@ Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvén
 - e) a Központi Ifjúsági Alapprogram pénzmaradványai, ezek korábbi tőkekihelyezéséből származó összegei, valamint a javára teljesített visszafizetések;
 - f) egyéb bevételi források.
 
-(2) Az (1) bekezdés b) pontjában meghatározott követelés adók módjára behajtandó köztartozásnak minősül.
+(2)
 
 (3) Az Alapprogram bevétele és év végi pénzmaradványa nem vonható el.
 
@@ -25,7 +25,7 @@ Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvén
 
 (2)
 
-(3) Az Alapprogramból kiírt pályázatok elbírálásáról, a támogatás odaítéléséről az erre a célra létrehozott testület javaslatára a miniszter dönt.
+(3) Az Alapprogram éves felhasználásának irányairól és arányairól, a pályázatok elbírálásáról, valamint az egyedi támogatási igény alapján a támogatás odaítéléséről az erre a célra létrehozott testület javaslatára a miniszter dönt.
 
 (4)
 
@@ -60,11 +60,7 @@ Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvén
 - e) gondoskodik az ifjúság társadalmi helyzetének változásait követő ifjúsági információs rendszer működtetéséről, az ifjúság helyzetéről szóló elemzések és jelentések elkészítéséről és ezek nyilvánosságra hozataláról;
 - f) a Kormány nevében ellátja a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben foglaltak végrehajtásának összehangolásával és ellenőrzésével kapcsolatos feladatokat.
 
-7/B. § (1) A miniszter az ifjúsági korosztályok öntevékenységének támogatása, a települési és területi önkormányzatok ifjúsági munkájának ösztönzése és segítése érdekében Ifjúsági Irodákat (a továbbiakban: Iroda) működtet.
-
-(2) A miniszter az Irodák útján tanácsadási, képzési és információs szolgáltatást nyújt az Irodák illetékességi területén működő ifjúsági szervezeteknek, valamint az ifjúságnak segítséget nyújtó szervezeteknek, intézményeknek.
-
-(3) A miniszter az Irodák útján ösztönzi és támogatja az ifjúság számára kiírt pályázatokon a (2) bekezdésben megjelölt szervezetek és intézmények részvételét, továbbá segítséget nyújt az Irodák infrastrukturális eszközei használatának biztosításával a szervezetek és intézmények ifjúsági programjainak megvalósulásához
+7/B. §
 
 ## IV. RÉSZ — Vegyes rendelkezések
 

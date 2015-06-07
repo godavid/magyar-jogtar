@@ -102,7 +102,8 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - q) alapszintű és emelt szintű tanácsadás a KKV-k részére,
 - r) a környezetvédelmi hatású fejlesztések elősegítése,
 - s) a szellemi tulajdon védelmének elősegítése, a szellemi tulajdon védelme tudatosságának fejlesztése,
-- t) a piaci információkhoz való hozzájutás esélyegyenlőségének biztosítása.
+- t) a piaci információkhoz való hozzájutás esélyegyenlőségének biztosítása,
+- u) energiahatékonysági hatású fejlesztések elősegítése.
 
 8. § (1) A célelőirányzatból támogatás a következő formákban nyújtható:
 
@@ -221,6 +222,8 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 – a Bizottság 96/280/EK ajánlása a mikro-, kis- és középvállalkozások meghatározásáról,
 
 – a Bizottság 2003/361/EK ajánlása a mikro-, kis- és középvállalkozások meghatározásáról.
+
+(8) A 7. § (2) bekezdés u) pontja az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (2) bekezdésének való megfelelést szolgálja.
 
 21. § (1) Felhatalmazást kap a Kormány, hogy a támogatásokkal, a vállalkozói hitelekkel, a közbeszerzésekkel, a KKV szektor helyzetével, gazdálkodásával összefüggő, összesített adatokra vonatkozó adatszolgáltatás körét és rendjét rendeletben állapítsa meg és rendeletben jelölje ki a Vállalkozásfejlesztési Tanácsba képviselőt delegáló minisztereket.
 
