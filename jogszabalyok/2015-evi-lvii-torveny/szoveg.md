@@ -562,38 +562,12 @@ kell elérni.
 
 #### 30. Módosító rendelkezések
 
-50. § (1) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 7. § (2) bekezdése a következő u) ponttal egészül ki:
-
-(Támogatásban részesíthetők azok a programok, amelyek célja többek között:)
-
-„u) energiahatékonysági hatású fejlesztések elősegítése.”
-
-(2) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 20. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A 7. § (2) bekezdés u) pontja az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (2) bekezdésének való megfelelést szolgálja.”
-
-51. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény a következő 62. §-sal egészül ki:
-
-„62. § Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének való megfelelést szolgálja.”
-
-52. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 142. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A rendszerhasználati díjaknak tükrözniük kell a hálózatokon a fogyasztásbefolyásolás és a kereslet oldali válaszintézkedések, valamint az elosztott termelés és egyéb energiahatékonysági intézkedések útján elért költségmegtakarítást, beleértve a hálózati beruházások költségének csökkentésén és a hálózat optimálisabb működésén keresztül elért megtakarításokat is.”
-
-(2) A Vet. 184. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének, 14. cikk (10) bekezdésének és 15. cikkének való megfelelést szolgálja.”
-
-53. § A földgázellátásról szóló 2008. évi XL. törvény 159. § (1) bekezdése a következő b) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„b) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikke.”
+50–53. §
 
 54. § (1)
 
-(2) A Vet. 36. § (1) bekezdés g) pontjában a „kapcsolt villamos energia” szövegrész helyébe a „nagy hatásfokú kapcsolt villamos energia” szöveg lép.
+(2)
 
 #### 31. Hatályon kívül helyező rendelkezések
 
-55. § Hatályát veszti a Vet. 36. § (1) bekezdésében az „átviteli hálózat üzemét befolyásoló” szövegrész.
+55. §
