@@ -10,7 +10,7 @@ A nemzetgazdaság és a munkaerőpiac követelményeihez, a társadalmi folyamat
 
 1. § A szakképzés költségeihez való hozzájárulást (a továbbiakban: szakképzési hozzájárulás) e törvény szerint kell teljesíteni. A szakképzési hozzájárulás célja
 
-- a) a szakképzésről szóló törvény hatálya alá tartozó azon iskolai rendszerű képzések támogatása, amelyek állami fenntartású szakképző intézményben vagy szakképzési megállapodás alapján kerülnek megszervezésre,
+- a) a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) hatálya alá tartozó azon iskolai rendszerű képzések támogatása, amelyek állami fenntartású szakképző intézményben vagy szakképzési megállapodás alapján kerülnek megszervezésre,
 - b)
 - c) a nemzeti felsőoktatási rendszerről szóló törvényben meghatározott, az államilag támogatott létszám tekintetében a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlat támogatása (a továbbiakban: gyakorlatigényes alapképzési szak),
 - d)
@@ -83,8 +83,8 @@ a foglalkoztatás első két évében, a d) pont szerinti esetben a foglalkoztat
 
 5. § A szakképzési hozzájárulás teljesíthető
 
-- a) a szakképzésről szóló törvényben foglaltak szerint azon iskolai rendszerű képzések esetében, amelyek állami fenntartású szakképző intézményben vagy szakképzési megállapodás alapján kerülnek megszervezésre
-  - aa) a szakközépiskola vagy szakiskola (a továbbiakban együtt: szakképző iskola) és a hozzájárulásra kötelezett között létrejött együttműködési megállapodás alapján, az iskolai rendszerű szakképzésben a nappali rendszerű oktatásban és a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, vagy
+- a) a szakképzésről szóló törvényben foglaltak szerint azon iskolai rendszerű képzések esetében, amelyek állami fenntartású szakképző iskolában vagy szakképzési megállapodás alapján, költségvetési hozzájárulással nem állami szakképző iskolában kerülnek megszervezésre
+  - aa) a szakképzésről szóló törvényben meghatározott szakképző iskola (a továbbiakban: szakképző iskola) és a hozzájárulásra kötelezett között létrejött együttműködési megállapodás alapján, az iskolai rendszerű szakképzésben a nappali rendszerű oktatásban és a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, vagy
   - ab) a szakképző iskola tanulója és a hozzájárulásra kötelezett között létrejött tanulószerződés alapján
 
 folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését követő összefüggő szakmai gyakorlatot is – szervezésével,
@@ -94,7 +94,7 @@ folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését köv
 - d) a hozzájárulásra kötelezett saját munkavállalói számára a felnőttképzésről szóló törvényben meghatározott felnőttképzési szerződés és a munka törvénykönyvéről szóló törvény szerinti tanulmányi szerződés vagy a tanulmányok folytatására történő munkáltatói kötelezés alapján megszervezett szakmai vagy nyelvi képzés – ide nem értve a hatósági jellegű képzéseket – jogszabályban meghatározott költségeivel,
 - e) a d) pont szerinti teljesítés esetén a bruttó kötelezettség csökkenthető az 5. § ab) pontja szerinti gyakorlati képzésre a 8. § (1) bekezdése alapján számított csökkentő tétel, de legfeljebb a bruttó kötelezettség 16,5 százaléka mértékéig, feltéve, hogy a hozzájárulásra kötelezett
   - ea) az 5. § ab) pontja szerint, havonta legalább 45 fő tanulószerződéses tanuló gyakorlati képzésével teljesíti részben a hozzájárulási kötelezettségét, és
-  - eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást a fővárosi és megyei kormányhivatalhoz a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.
+  - eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást az állami szakképzési és felnőttképzési szervhez a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.
 
 6. § Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségének nem, részben vagy időszakosan tesz eleget az 5. § szerinti gyakorlati képzés szervezésével, valamint az 5. § d) pontja szerinti saját munkavállalói részére szervezett képzéssel, a bruttó kötelezettségét vagy a 9. § (1) bekezdés c) pontja szerinti nettó kötelezettségét az állami adóhatóságnál vezetett számlára történő befizetéssel teljesíti.
 
@@ -136,7 +136,7 @@ folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését köv
   - ae) cégjegyzékszámát vagy nyilvántartási számát,
   - af) kamarai nyilvántartási számát,
 - b) a hozzájárulásra kötelezettnél azon gyakorlati képzésben részesülő tanulószerződéses tanulók szakképesítésenkénti, évfolyamonkénti létszámát, akiket másik gyakorlati képzést szervezőhöz, teljesítési megbízotthoz átirányítanak,
-- c) a szakképző iskola szakmai programjában szereplő gyakorlati képzés időtartamát, a hozzájárulásra kötelezettnél a tanulószerződés keretében végzett gyakorlati képzés időtartamát, valamint az átirányítás időtartamát, annak arányát tanévenként,
+- c) az adott szakképesítésre kiadott szakképzési kerettantervben szereplő gyakorlati képzés időtartamát, a hozzájárulásra kötelezettnél a tanulószerződés keretében végzett gyakorlati képzés időtartamát, valamint az átirányítás időtartamát, annak arányát tanévenként,
 - d) a gyakorlati képzés tárgyi feltételrendszerének leírását, e feltételek biztosítását az együttműködési megállapodást kötő felek részéről,
 - e) az együttműködési megállapodást kötő feleknek a gyakorlati képzés végrehajtásával kapcsolatos jogait és kötelezettségeit,
 - f) a gyakorlati képzésre átirányított tanulókat a szakképzésről szóló törvény szerint megillető természetbeni juttatások biztosításának a rendjét, a tanuló felelősségbiztosításának a költségviselőjét,
@@ -153,7 +153,7 @@ folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését köv
 
 - a) a szakképzési hozzájárulás alapját és az éves bruttó kötelezettségét,
 - b) a 8. § (1) bekezdése szerinti csökkentő tétel és az 5. § e) pontja szerinti levonás éves összegét,
-- c) az éves bruttó kötelezettség és a b) pont szerinti összeg különbözeteként megállapított éves nettó kötelezettségét maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyévet követő év január 12. napjáig az állami adóhatóságnak.
+- c) az éves bruttó kötelezettség és a b) pont szerinti összeg különbözeteként megállapított éves nettó kötelezettségét maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyévet követő év január 12. napjáig az állami adóhatóságnak, vagy igényli vissza a 8. § (2) bekezdése szerint figyelembe vehető összeget.
 
 (2) A hozzájárulásra kötelezett az év 1–11. hónapjára vonatkozóan havonta szakképzési hozzájárulási előleget fizet.
 
@@ -163,7 +163,7 @@ folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését köv
 
 (5) A befizetett előleg és az éves nettó kötelezettség különbözetét a tárgyévet követő év január 12. napjáig kell befizetni vagy a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
-(6) A kettős könyvvitelt vezető, eltérő üzleti éves egészségügyi szolgáltató vagy a közhasznú nonprofit társaság a fizetendő szakképzési hozzájárulás alapjának a 2. § (5) bekezdés b) pontja, valamint e) pontja szerinti meghatározásához szükséges, az üzleti évet követő év ötödik hónap utolsó napjáig az árbevétele összetételének alakulásában bekövetkezett – az (1) bekezdés szerinti éves bevallásában figyelembe nem vett – változása esetén a szakképzési hozzájárulás különbözetét az üzleti évet követő év ötödik hónap utolsó napjáig a társasági adóról készítendő bevallásában vallja be, fizeti meg vagy igényli vissza.
+(6) A kettős könyvvitelt vezető, egészségügyi szolgáltató vagy a közhasznú nonprofit társaság a fizetendő szakképzési hozzájárulás alapjának a 2. § (5) bekezdés b) pontja, valamint e) pontja szerinti meghatározásához szükséges, az üzleti évet követő év ötödik hónap utolsó napjáig az árbevétele összetételének alakulásában bekövetkezett – az (1) bekezdés szerinti éves bevallásában figyelembe nem vett – változása esetén a szakképzési hozzájárulás különbözetét az üzleti évet követő év ötödik hónap utolsó napjáig a társasági adóról készítendő bevallásában vallja be, fizeti meg vagy igényli vissza.
 
 (7) A hozzájárulásra kötelezett a visszajáró összeg kiutalását vagy átvezetését legkorábban a bevallás esedékességének napjától kezdeményezheti.
 
@@ -179,101 +179,110 @@ folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését köv
 
 ### III. Fejezet — A KÉPZÉS, VALAMINT A KÉPZÉSI RENDSZER FEJLESZTÉSÉNEK TÁMOGATÁSA
 
-12. § A Nemzeti Foglalkoztatási Alap képzési alaprészének (a továbbiakban: alaprész) éves költségvetési törvényben meghatározott „Szakképzési és felnőttképzési támogatások” elnevezésű eredeti kiadási előirányzata tartalmazza:
+12. § A Nemzeti Foglalkoztatási Alap képzési alaprészének (a továbbiakban: alaprész) a központi költségvetésről szóló törvényben a szakképzési és felnőttképzési támogatásokhoz kapcsolódóan meghatározott előirányzata tartalmazza
 
-- a) a szakképzésért és felnőttképzésért felelős miniszter döntésén alapuló,
-  - aa) a 14. § szerinti támogatásra,
-  - ab) a szakképzéssel, illetve a felnőttképzéssel összefüggő, központi program teljesítésére szolgáló keretösszeget,
-- b) a hozzájárulásra nem kötelezett, a szakképzésről szóló törvény szerint tanulószerződés kötésére jogosult egyéb szerv, szervezet normatív támogatását szolgáló keretösszeget,
-- c) a szakiskola szakképzési évfolyamán, az első szakképesítésre felkészítő, nappali rendszerű iskolai oktatásban részt vevő, tanulói jogviszonyban lévő, hiány-szakképesítést tanulókat megillető – a szakiskolai tanulmányi ösztöndíjról szóló kormányrendeletben meghatározott – szakiskolai tanulmányi ösztöndíj és az ezzel összefüggésben felmerült költségek támogatására a költségvetési évre megállapított keretösszeget,
-- d) a költségvetési törvény által előírt európai uniós társfinanszírozási kötelezettség keretében a szakképzési és felnőttképzési intézkedésekre biztosított keretösszeget,
-- e) a decentralizált keretösszeget, amely az a)–d) pont levonását követően fennmaradó összeg 75%-a,
-- f) a központi keretösszeget, amely az a)–e) pont levonását követően fennmaradó összeg.
+- a) a szakképzésért és felnőttképzésért felelős miniszter döntésén alapuló, a 14. § szerinti támogatásra szolgáló keretösszeget,
+- b) a költségvetési törvény által előírt európai uniós társfinanszírozási kötelezettség keretében a szakképzési és felnőttképzési intézkedésekre biztosított keretösszeget,
+- c) a 16. § szerinti ösztöndíj és az ezzel összefüggésben felmerült költségek támogatására a költségvetési évre megállapított keretösszeget,
+- d) a decentralizált keretösszeget,
+- e) a szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
+- f) a szakképesítésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
+- g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenységének támogatására szolgáló keretösszeget,
+- h) a központi keretösszeget,
+- i) a 19/A. § (2) bekezdés b) pontja és (3) bekezdése szerinti feladatokra elkülönített keretösszeget,
+- j) a hozzájárulásra nem kötelezett, a szakképzésről szóló törvény szerint tanulószerződés kötésére jogosult egyéb szerv, szervezet normatív támogatását szolgáló keretösszeget.
 
 13. § (1) Az alaprész feletti rendelkezési jogot a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.
 
-(2) A szakképzésért és felnőttképzésért felelős miniszter – a 12. § a) pontjában szereplő támogatási döntések figyelembevételével – meghatározza a 12. § szerinti keretösszegek mértékét.
+(2) A 12. § szerinti keretösszegek mértékét a szakképzésért és felnőttképzésért felelős miniszter határozza meg.
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter – a (2) bekezdésben foglaltakon túl –
 
-- a) dönt – a 18. § (1) bekezdés c) pontjában foglaltak figyelembevételével – az alaprész központi keretének elosztásáról, szakképzési és – miniszteri rendeletben meghatározott – felnőttképzési célú felhasználásáról, a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, a központi és decentralizált keret terhére nyújtandó támogatásokról,
+- a) dönt a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, valamint a 12. § a), d), g) és h) pontjában meghatározott keret terhére nyújtandó támogatásokról,
 - b) felelős az alaprész
   - ba) pénzeszközei nyilvántartásáért, felhasználásának jogszerűségéért és ellenőrzéséért,
   - bb) bevételei beszedésének elrendeléséért,
   - bc) követeléseinek behajtásáért, a pénzügyi garanciák érvényesítéséért,
-- c) határoz az alaprész felhasználására vonatkozó döntések nyilvánosságra hozatalának módjáról,
+- c)
 - d) kezdeményezi az alaprész pénzeszközeinek felhasználásával kapcsolatos szakértői vizsgálatokat,
 - e) ellátja az alaprésszel kapcsolatos, külön törvényben meghatározott egyéb feladatokat.
 
-14. § A szakképzésért és felnőttképzésért felelős miniszter döntése alapján – erre irányuló kérelem esetén –
+14. § A szakképzésért és felnőttképzésért felelős miniszter döntése alapján – erre irányuló kérelem esetén – a 2. § (1) bekezdés a)–c) pontjában és (2) bekezdésében meghatározott szakképzési hozzájárulásra kötelezett részére
 
-- a) képzési célú támogatás nyújtható a legalább 50 fő részére munkahelyet teremtő, Magyarország területén székhellyel, fiókteleppel rendelkező befektető jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság számára,
-- b) támogatás nyújtható a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 1. mellékletében meghatározott vállalkozások körébe nem tartozó hozzájárulásra kötelezett részére olyan tanműhely létesítéséhez, amelyben a hozzájárulásra kötelezett az iskolai rendszerű szakképzés keretében az 5. § a) pont ab) alpontjában meghatározottak szerint gyakorlati képzés folytatását tervezi,
-- c) támogatás nyújtható a hozzájárulásra kötelezett saját tulajdonában álló tanműhelyében az 5. § a) pont ab) alpontjában meghatározottak szerint folytatott gyakorlati képzés tárgyi feltételeinek fejlesztésére irányuló beruházáshoz, valamint a vagyoni értékű jogok közé sorolható szoftver felhasználási jogának a megszerzéséhez, és a szellemi jogvédelem alatt álló szoftvertermék beszerzéséhez.
+- a) képzési támogatás nyújtható, ha legalább 50 fő részére munkahelyet teremt,
+- b) támogatás nyújtható saját tulajdonában álló olyan tanműhely létesítéséhez, amelyben az iskolai rendszerű szakképzés keretében az 5. § a) pont ab) alpontjában meghatározottak szerint gyakorlati képzés folytatását tervezi,
+- c) támogatás nyújtható tanműhelyben az 5. § a) pont ab) alpontjában meghatározottak szerint folytatott gyakorlati képzés tárgyi feltételeinek fejlesztésére irányuló beruházáshoz, valamint a vagyoni értékű jogok közé sorolható szoftverfelhasználási jogának a megszerzéséhez, és a szellemi jogvédelem alatt álló szoftvertermék beszerzéséhez.
 
-15. § Az alaprész pénzeszközeiből támogatás nyújtható a szakképzésről szóló törvényben meghatározott tanulószerződés kötésére jogosult egyéb szerv, szervezet részére, az általa kötött tanulószerződés alapján, az általa folytatott gyakorlati képzésre a 12. § b) pontjában meghatározott keretösszeg mértékéig.
+15. § Az alaprész pénzeszközeiből támogatás nyújtható a szakképzésről szóló törvényben meghatározott tanulószerződés kötésére jogosult egyéb szerv, szervezet részére, az általa kötött tanulószerződés alapján, az általa folytatott gyakorlati képzésre a 12. § j) pontjában meghatározott keretösszeg mértékéig.
 
 16. § Az állam az alaprész pénzeszközeiből a szakiskola szakképzési évfolyamán, az első szakképesítésre felkészítő, nappali rendszerű iskolai oktatásban részt vevő, tanulói jogviszonyban lévő, hiány-szakképesítést tanulók részére szakiskolai tanulmányi ösztöndíj biztosításával a 12. § c) pontja szerint rendelkezésre álló költségvetési évre megállapított keretösszeg mértékéig támogatást nyújthat. A szakiskolai tanulmányi ösztöndíj folyósításával összefüggő feladatokat az iskola látja el.
 
-17. § A 12. § e) pontja szerinti decentralizált keret
+17. § A 12. § d) pontja szerinti decentralizált keretből beruházási célú támogatás nyújtható
 
-- a)
-- b) 50%-a a 19. § (1)–(3) bekezdése szerinti célokra,
-- c) 50%-a a 19. § (2) bekezdése a)–c) pontja szerint beruházási célú támogatásra jogosultnál az iskolai tanműhelyben folyó gyakorlati képzés működtetési költségeire, valamint a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztés, továbbá az elméleti, gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzésének támogatására használható fel.
+- a) az iskolai rendszerű képzéssel összefüggésben
+  - aa) a szakképzésről szóló törvényben meghatározott szakképzési megállapodással rendelkező szakképzést folytató intézményben, vagy
+  - ab) a felsőoktatási intézményben a gyakorlatigényes alapképzési szak keretében
 
-18. § (1) Az alaprész központi kerete
+folytatott, szakképesítést vagy szakképzettséget és végzettséget nyújtó képzés tárgyi feltételeinek a fejlesztésére,
 
-- a) a 19. §-ban meghatározott szakképzési célokra,
-- b) a felnőttképzésről szóló törvényben meghatározott iskolarendszeren kívüli felnőttképzési célokra, valamint
-- c) az oktatásért felelős miniszter szakképzéssel összefüggő, a (2) bekezdésben meghatározott feladatai ellátásához – az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által évente megkötött külön megállapodás alapján – szükséges forrás biztosítására, illetve támogatás nyújtására,
-- d) a 19/A. § (2)–(4) bekezdésében meghatározott feladatok finanszírozására használható fel.
+- b) az a) pontban meghatározott iskolai rendszerű képzéssel összefüggésben vagyoni értékű jogok közé sorolható szoftverfelhasználási jog megszerzésére, illetve szellemi termékek közé sorolható szellemi jogvédelemben részesülő szoftvertermék beszerzésére.
 
-(2) Az oktatásért felelős miniszter (1) bekezdés c) pontja szerinti feladatai:
+18. § Az alaprész központi kerete
 
-- a) a köznevelésről szóló törvényben szabályozott pályaorientáció, a szakiskolai és szakközépiskolai általános műveltséget megalapozó oktatás kerettanterveinek kialakítása és fejlesztése, valamint ezen feladatok ellátásához kapcsolódó kutatási, monitoringtevékenység,
-- b) a középfokú beiskolázás központi írásbeli felvételi vizsgájának előkészítéséhez, szervezéséhez kapcsolódó, valamint a szakképző iskolákat érintő hatósági ellenőrzéssel kapcsolatos fejlesztési feladatok ellátása,
-- c) a szakképző iskolai tanulói létszámarány alapján az alapkészségek teljes körű mérése,
-- d) a szakképző iskolákra vonatkozó adatfeldolgozás tekintetében a közoktatási információs rendszer fejlesztése.
+- a) a 19. §-ban meghatározott szakképzési és felnőttképzési célokra, valamint
+- b) a felnőttképzésről szóló törvényben meghatározott iskolarendszeren kívüli felnőttképzési célokra
 
-19. § (1) Az alaprész központi keretéből az iskolai rendszerű képzéssel összefüggésben támogatható a hozzájárulásra kötelezettnél az 5. § a) pont ab) alpontjában foglaltak szerint folyó gyakorlati képzés azon tanulók esetében, akiknek a (2) bekezdés a)–c) pontja szerinti intézményben folyik az elméleti képzése.
+használható fel.
 
-(2) Az alaprész központi keretéből az iskolai rendszerű képzéssel összefüggésben – az (1) bekezdésben foglaltakon túl – támogatható
+19. § (1)–(3)
 
-- a) az állami fenntartású szakképző intézményben,
-- b) a szakképzésről szóló törvényben meghatározott szakképzési megállapodással rendelkező szakképzést folytató intézményben,
-- c) az állami fenntartású speciális szakiskolában és készségfejlesztő speciális szakiskolában,
-- d) a szakképző iskola fenntartójával kötött megállapodás alapján az iskolai rendszerű gyakorlati képzésben részt vevő állami felnőttképzési intézménynél,
-- e) a felsőoktatási intézményben a gyakorlatigényes alapképzési szak keretében
+(4) A (10) és (17) bekezdés, valamint a 17. § szerinti támogatás odaítélése nyilvános pályázat alapján történik.
 
-folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújtó képzés tárgyi feltételeinek a fejlesztésére irányuló beruházás.
-
-(3) Az alaprész központi keretéből az iskolai rendszerű képzéssel összefüggésben támogatás nyújtható vagyoni értékű jogok közé sorolható szoftver felhasználási jog megszerzésére, illetve szellemi termékek közé sorolható szellemi jogvédelemben részesülő szoftvertermék beszerzésére is [az (1)–(3) bekezdésben foglaltak a továbbiakban együtt: beruházási célú támogatás].
-
-(4) Az (1)–(3) és a (10) bekezdés, valamint a 17. § szerinti támogatás odaítélése nyilvános pályázat alapján történik.
-
-(5) Az alaprész központi keretéből támogatás nyújtható a szakképesítésért felelős miniszter által a szakképzésről szóló törvény alapján működtetett kutató és fejlesztő-szolgáltató intézetnek a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztéshez és központi programok kidolgozásához, valamint az általa szervezett szakmai elméleti és gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzéséhez, az országos szakmai tanulmányi versenyek szervezéséhez. Az intézet a szakképzés fejlesztése érdekében nyilvános pályázatot írhat ki.
+(5) Az alaprész központi keretéből támogatás nyújtható az állami szakképzési és felnőttképzési szervnek és a szakképesítésért felelős miniszter által a szakképzésről szóló törvény alapján működtetett fejlesztő-szolgáltató intézetnek a szakképzés korszerűsítéséhez szükséges tananyag- és taneszközfejlesztéshez és központi programok kidolgozásához, valamint az általa szervezett szakmai elméleti és gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzéséhez, az országos szakmai tanulmányi versenyek szervezéséhez.
 
 (6) Az alaprész központi keretéből beruházási célú támogatás nyújtható az állami szakképzési és felnőttképzési szervnek.
 
 (7) Az alaprész központi keretéből támogatás nyújtható a gazdasági kamaráknak – a gazdasági kamaráknak nyújtott támogatási kereten belül, a gazdasági kamarák szakképzési feladatellátásában megállapodás alapján együttműködő országos gazdasági érdek-képviseleti szervezeteknek – a gazdasági kamarákról szóló törvényekben, valamint a szakképzésről szóló törvényben meghatározott feladataik, továbbá a szakképesítésért felelős miniszterrel kötött megállapodásban foglalt szakképzési feladatok ellátására.
 
-(8) Az (5)–(7) bekezdés alapján kapott támogatásokat egyéb bevételként kell elszámolni.
+(8) Az (5)–(7) és a (9)–(17) bekezdés alapján kapott támogatásokat egyéb bevételként kell elszámolni.
 
-(9) Az alaprész központi keretéből – kérelemre – támogatás nyújtható az országos gazdasági érdekképviseletek, a szakképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképzésfejlesztéssel összefüggő feladataik ellátásához, valamint – nyilvános pályázat útján – országos szakmai tanulmányi versenyek szervezéséhez.
+(9) Az alaprész központi keretéből – kérelemre – támogatás nyújtható az állami szakképzési és felnőttképzési szerv, az országos gazdasági érdekképviseletek, a szakképzés és felnőttképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképzés és felnőttképzés fejlesztéssel összefüggő feladataik ellátásához, valamint – pályázat útján – országos szakmai tanulmányi versenyek szervezéséhez.
 
-(10) Az alaprész központi keretéből támogatható az (1)–(3) bekezdés szerint beruházási célú támogatásra jogosultnál a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztés, továbbá az elméleti, gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzése.
+(10) Az alaprész központi keretéből támogatható a 17. § szerinti beruházási célú támogatásra jogosultnál a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztés, továbbá az elméleti, gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzése.
+
+(11) Az alaprész központi keretéből támogatás nyújtható az állami szakképzési és felnőttképzési szerv, a szakképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképző intézményben tanulók lemorzsolódásának csökkentését, illetve a lemorzsolódott tanulók képzésbe történő visszavezetését célzó programok megvalósításához.
+
+(12) Az alaprész központi keretéből támogatás nyújtható szakképzési és felnőttképzési kutatási, fejlesztési célú tevékenységre az állami szakképzési és felnőttképzési szerv részére.
+
+(13) Az alaprész központi keretéből támogatás nyújtható szakképzési, illetve felnőttképzési célú uniós finanszírozású program előfinanszírozására az állami szakképzési és felnőttképzési szerv részére.
+
+(14) Az alaprész központi keretéből támogatás nyújtható a Kormány döntésén alapuló szakképzéssel, illetve felnőttképzéssel összefüggő központi program megvalósításához.
+
+(15) Az alaprész központi keretéből támogatható
+
+- a) a pályaorientáció, a szakképző iskolai általános műveltséget megalapozó oktatás kerettanterveinek kialakítása és fejlesztése,
+- b) a szakképző iskolai beiskolázás központi írásbeli felvételi vizsgájának előkészítéséhez, szervezéséhez kapcsolódó, valamint a szakképző iskolákat érintő hatósági ellenőrzéssel kapcsolatos fejlesztési feladatok ellátása,
+- c) a szakképző iskolai tanulói létszámarány alapján az alapkészségek teljes körű mérése,
+- d) a szakképző iskolákra vonatkozó adatfeldolgozás tekintetében az információs rendszer fejlesztése.
+
+(16) Az oktatásért felelős miniszternek a (15) bekezdésben meghatározott feladatai ellátásához szükséges forrás biztosítására az oktatásért felelős miniszter és a szakképzésért felelős miniszter évente külön megállapodást köthet.
+
+(17) Az alaprész központi keretéből támogatás nyújtható a szomszédos államokban élő magyarokról szóló törvény szerinti szomszédos államban működő, magyar nyelvű szakképző iskolában folytatott képzésnek az állami szakképzési és felnőttképzési szerv koordinációjával megvalósuló fejlesztésére.
 
 19/A. § (1) A pályázati eljárás alapján nyújtható támogatások esetén a pályáztatás lebonyolítását az állami szakképzési és felnőttképzési szerv végzi.
 
-(2) Az állami szakképzési és felnőttképzési szervet a pályázati eljárás keretében nyújtott támogatások esetén a pályáztatás lebonyolításával összefüggő feladatok ellátásáért a pályázati támogatási keretösszeg 1%-a illeti meg.
+(2) Az állami szakképzési és felnőttképzési szervet
 
-(3) Az alaprész kiadási előirányzatának 0,3%-a felhasználható az állami szakképzési és felnőttképzési szervnek az alaprészből nyújtott támogatások ellenőrzésével összefüggő, az alaprészből nyújtható szakképzési célú támogatások szabályairól szóló miniszteri rendeletben meghatározott feladatai ellátására.
+- a) a pályázati eljárás keretében nyújtott támogatások esetén a pályáztatás lebonyolításával összefüggő feladatai ellátására a pályázati támogatási keretösszegből a keretösszeg 1%-a illeti meg,
+- b) az alaprész eredeti költségvetési kiadási előirányzatának
+  - ba) 0,3%-a illeti meg az alaprészből nyújtható szakképzési és felnőttképzési célú támogatások jogszabályban meghatározott ellenőrzési feladatai ellátására,
+  - bb) 0,2%-a illeti meg a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályairól szóló miniszteri rendeletben meghatározott feladatai ellátására,
+  - bc) 0,6%-a illeti meg az engedéllyel rendelkező felnőttképzést folytató intézmények felnőttképzési törvény alapján megvalósított képzéseinek ellenőrzésével összefüggő feladatai ellátására,
+  - bd) 0,5%-a illeti meg a Nemzeti Szakképzési és Felnőttképzési Tanács működtetési, valamint a szakképzési és felnőttképzési szaklapok szerkesztésével és kiadásával összefüggő feladatai ellátására.
 
-(4) Az alaprész kiadási előirányzatának 0,2%-a felhasználható a fővárosi és megyei kormányhivatalnak a saját munkavállalók költségeinek elszámolásával kapcsolatos ellenőrzési feladatai ellátására.
+(3) A WorldSkills és EuroSkills versenyeken érmet szerző magyar versenyzőket – az eredmények elismeréseként, miniszteri rendeletben meghatározottak szerint – díjazás illeti meg.
 
-(5) Az alaprész kiadási előirányzatának 0,3%-a felhasználható az állami szakképzési és felnőttképzési szervnek az akkreditált felnőttképzést folytató intézmények támogatott képzésének indításáról szóló bejelentésén alapuló ellenőrzési feladatok ellátására.
-
-(6) Az alaprész kiadási előirányzatának 0,5%-a felhasználható az állami szakképzési és felnőttképzési szervnek a Nemzeti Szakképzési és Felnőttképzési Tanács működtetési, valamint az állami szakképzési és felnőttképzési szerv által megjelentetett szakképzési és felnőttképzési szaklapok szerkesztésével és kiadásával összefüggő feladatai ellátására.
+(4)–(6)
 
 20. § (1) Az alaprészből nyújtott támogatások részletes feltételeiről – ha jogszabály másként nem rendelkezik – szerződésben kell megállapodni. A szerződést – a (2) bekezdésben meghatározott kivétellel, az alaprész kezelésére vonatkozó eljárásrendben meghatározottak szerint – az állami szakképzési és felnőttképzési szerv köti meg.
 
@@ -286,17 +295,17 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
   - ab) székhelyét,
   - ac) adószámát,
   - ad) statisztikai számjelét,
-  - ae) cégjegyzékszámát, egyéni vállalkozó esetén nyilvántartási számát, önkormányzat vagy önkormányzati társulás esetén törzskönyvi nyilvántartási számát, szakképző iskola, valamint felsőoktatási intézmény esetében az intézmény OM azonosítóját,
+  - ae) cégjegyzékszámát, egyéni vállalkozó esetén nyilvántartási számát, szakképző iskola, valamint felsőoktatási intézmény esetében az intézmény OM azonosítóját,
 - b) a támogatásban részesülő állami adóhatóságnál bejelentett pénzforgalmi számlaszámát (a fenntartó elszámolási számlájához kapcsolódó alszámlaszámot) és a számlavezető pénzforgalmi szolgáltató megnevezését, ahova a támogatás összege átutalható,
 - c) a támogatás célját, a felhasználás részletes leírását,
-- d) a támogatás összegét, folyósításának módját és ütemezését,
+- d)
 - e) a támogatásban részesülőnek a támogatott programhoz rendelkezésre álló, elkülönített saját és egyéb pénzeszköz összegét,
-- f) a beruházás, illetve a program megkezdésének és befejezésének tervezett időpontját, valamint a támogatás felhasználásáról történő szakmai és pénzügyi elszámolás módját és időpontját,
+- f)
 - g) a beruházási célú támogatásoknál a fejlesztéssel közvetlenül érintett tanulói, illetve hallgatói létszámot,
 - h) a szerződésszegés, illetve a támogatás nem rendeltetésszerű felhasználásának jogkövetkezményeit,
-- i) a beruházási célú támogatásoknál a jelzálogjog megszűnésének feltételeit,
-- j) azon körülményeket, amelyek fennállása esetén a támogatást nyújtó a szerződéstől való elállás jogát gyakorolja,
-- k) mindazt, amit az államháztartás működési rendjéről szóló kormányrendelet előír.
+- i) a beruházási célú támogatásoknál, ha biztosítékként jelzálog alapítása előírt, a jelzálogjog megszűnésének feltételeit,
+- j)
+- k) mindazt, amit az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet előír.
 
 (4) Az alaprészből nyújtott támogatások felhasználásának ellenőrzését az állami szakképzési és felnőttképzési szerv, a szakképzésért és felnőttképzésért felelős miniszter által vezetett minisztérium, valamint a jogszabályokban meghatározott egyéb szervek végzik.
 
@@ -308,9 +317,9 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 
 (3) Tárgyéven túli fizetési kötelezettséget a szakképzésért és felnőttképzésért felelős miniszter az alaprész 40 százaléka mértékéig vállalhat.
 
-22. § (1) A hozzájárulásra kötelezett az alaprészből a 14. § b) és c) pontja szerint a szakképzésért és felnőttképzésért felelős miniszter egyedi döntésén alapuló támogatást, valamint a 19. § (1)–(3) bekezdése alapján pályázat útján kapott beruházási célú támogatást a tőketartalékba helyezi, majd azt lekötött tartalékként mutatja ki. A lekötött tartalékba helyezés időtartamáról a támogatási szerződésben kell rendelkezni.
+22. § (1) A hozzájárulásra kötelezett az alaprészből a 14. § b) és c) pontja szerint a szakképzésért és felnőttképzésért felelős miniszter egyedi döntésén alapuló beruházási célú támogatást a tőketartalékba helyezi, majd azt lekötött tartalékként mutatja ki. A lekötött tartalékba helyezés időtartamáról a támogatási szerződésben kell rendelkezni.
 
-(2) Az alaprészből kapott beruházási célú támogatásból vásárolt és a támogatással létrehozott ingatlanra legalább tízéves időtartamra jelzálogjogot, valamint elidegenítési és terhelési tilalmat kell bejegyezni a támogatást nyújtó szerv javára a támogatás mértékéig. A jelzálogjog megszűnésének feltételeiről a támogatási szerződésben kell rendelkezni.
+(2)
 
 (3) Ha a támogatásban részesülő a támogatást nem a támogatási szerződésben meghatározott célra fordítja, vagy a kapott támogatásból beszerzett eszközt, illetve megvalósított létesítményt nem a támogatási szerződésben meghatározott rendeltetésének megfelelően használja, továbbá a beszerzett eszköz a támogatási szerződésben meghatározott idő előtt kikerül a kedvezményezett birtokából, illetve a létesítményt megszünteti, a kapott összeget visszafizetendő kölcsönként kell kezelni, és azt a támogatás folyósításától a mindenkori jegybanki alapkamat kétszeresével növelt összegben a Nemzeti Foglalkoztatási Alap Magyar Államkincstárnál vezetett számlájára az alaprész javára vissza kell fizetni. A visszafizetett támogatás összegével a tőketartalékot – a lekötött tartalék megszüntetése után – csökkenteni kell.
 
@@ -324,13 +333,14 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 - b) a szakiskolai tanulmányi ösztöndíjjal, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésével, valamint az ösztöndíjban részesülő és tanulási nehézségekkel küzdő tanulók felzárkóztató oktatását végző tanárok díjazásával kapcsolatos szabályokat,
 - c)
 
-(2) Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – az államháztartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, az oktatásért felelős miniszter és a szakképesítésért felelős miniszter véleményének kikérésével – rendeletben állapítsa meg
+(2) Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – az államháztartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg
 
-- a) az alaprészből nyújtott támogatásokkal összefüggésben – a 14. §-ban meghatározott támogatások kivételével – a támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
+- a) az alaprészből a 12. § d), h), i) és j) pontja szerinti célra nyújtott támogatásokkal összefüggésben a támogatás és díjazás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
 - b) az alaprészből felnőttképzési célra nyújtott támogatások részletes szabályait,
 - c) a 31. § (2) bekezdése szerinti adatszolgáltatás részletes szabályait,
 - d) a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályait,
-- e) az alaprészből a 14. § alapján nyújtott támogatások mértékére, feltételeire, folyósítására, elszámolására és ellenőrzésére vonatkozó szabályokat.
+- e) az alaprészből a 14. § alapján nyújtott támogatások mértékére, feltételeire, folyósítására, elszámolására és ellenőrzésére vonatkozó szabályokat,
+- f) az alaprészből a 12. § g) pontja szerinti célra nyújtott támogatás részletes szabályait.
 
 #### 8. Hatályba léptető rendelkezések
 
@@ -360,7 +370,7 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 
 (4)
 
-(5) A szakképzésért és felnőttképzésért felelős miniszter a 12. § szerinti keretösszegeket a (2)–(4) bekezdésre, valamint a 32. § (1) bekezdésében foglaltakra figyelemmel tervezi.
+(5)
 
 (6) A hozzájárulási kötelezettséget a 2012. évre vonatkozóan 2013. február 25-ig benyújtandó bevallásban kell teljesíteni, a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
@@ -375,6 +385,8 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 (2) Amennyiben az (1) bekezdés szerinti gyakorlati képzést szolgáló létesítmény eredeti rendeltetésének megfelelően tovább nem működtethető, a létesítmény szükségessé váló elidegenítése esetén elővásárlási jog illeti az érintett szakképző iskola fenntartóját, feltéve, hogy a létesítményt szakképző iskolai tanulók gyakorlati képzésére kívánja továbbműködtetni. Amennyiben a szakképző iskola fenntartója elővásárlási jogával nem él, akkor az azt a hozzájárulásra kötelezettet illeti meg, aki a legelőnyösebb vételi ajánlatot teszi, feltéve, hogy a létesítményt szakképző iskolai tanulók gyakorlati képzésére kívánja továbbműködtetni. A vételi ajánlatok elbírálásáról a szakképzésért és felnőttképzésért felelős miniszter dönt. Ha az elővásárlási jog jogosultjai e jogukkal nem élnek, akkor az ingatlan vételárából a 22. § (3) bekezdésében meghatározottak szerint az ingatlanhoz nyújtott támogatást vissza kell fizetni.
 
 28/A. § Az alaprész és jogelődjei központi keretéből, valamint az alaprész decentralizált keretéből nyújtott támogatásból, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 2011. december 31-én hatályos rendelkezései szerint fogadott fejlesztési támogatásból megvalósuló fejlesztések esetén a támogatott a tárgyi eszközt köteles elkülönítetten nyilvántartani és 5 évig – ingatlan esetén 10 évig – költségvetési hozzájárulással támogatott gyakorlati képzés céljaira használni.
+
+28/B. § Az alaprészből a szakképzésről szóló törvény 2014. december 31-én hatályos 43. § (2) bekezdés c) pontja alapján tanulószerződés megkötésére jogosult szervezet által 2014. augusztus 31-éig megkötött tanulószerződésekre a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésről szóló 2013. évi LXXVII. törvény és az azokkal összefüggő tárgyú törvények módosításáról szóló 2015. évi LXVI. törvény hatálybalépését megelőző napon hatályos 15. § szerint nyújtható támogatás a tanulószerződések megszűnéséig.
 
 29. § Ha a hozzájárulásra kötelezett az általa e törvény hatálybalépése előtt megkötött tanulószerződést vagy hallgatói szerződést az abban foglalt határidő lejárta előtt, e törvény hatálybalépését követően jogellenesen felmondja, a szerződés felmondását követő 15 napon belül köteles a szakképzési hozzájárulási kötelezettsége terhére a szerződés alapján annak felmondásáig
 
