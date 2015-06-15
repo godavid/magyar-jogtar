@@ -290,17 +290,7 @@ tagozat,
 
 14. § (1) A Köznevelési Hídprogramok segítséget nyújtanak a tanulónak a középfokú nevelés-oktatásba, szakképzésbe való bekapcsolódáshoz, vagy a munkába álláshoz, valamint az önálló életkezdéshez szükséges ismeretek megszerzéséhez a komplex, tanulmányi, szociális, kulturális, képességbeli és személyiségfejlesztését támogató pedagógiai tevékenységgel.
 
-(2) Az a tanköteles korú tanuló, aki alapfokú iskolai végzettséggel rendelkezik, de középfokú iskolába nem nyert felvételt, tanulmányait az általános iskola kezdeményezésére a Híd I. programban folytatja. A Híd I. programban szervezett nevelés-oktatás az egyéni képességekre és szükségletekre épülő differenciált fejlődési utak biztosításával pótolja a továbbtanuláshoz szükséges, de hiányzó alapvető ismereteket, kompetenciákat. A Híd I. programban szervezett nevelés-oktatás felkészíti a tanulókat az egyéni képességeikhez igazodó tanulási módszerek elsajátítására, illetve pályaorientációs tevékenység keretében megismerteti a tanulókat a munkaerőpiacra történő belépéshez szükséges ismeretekkel. A Híd I. program keretében a tanuló középfokú iskolába történő felvételi vizsgát tesz. A program végén a tanulmányi követelmények teljesítéséről a szervező iskola tanúsítványt állít ki. A Híd I. programot úgy kell megszervezni, hogy az érintett tanulók számára – igény esetén – biztosítható legyen a kollégiumi elhelyezés.
-
-(3) Ha a tanköteles tanuló alapfokú iskolai végzettséggel nem rendelkezik, de legalább hat általános iskolai évfolyamot sikeresen elvégzett, azt a tanévet követően, amelyben tizenötödik életévét betölti, az általános iskola kezdeményezi felvételét a Híd II. programba. E határidő egy évvel meghosszabbítható abban az esetben, ha a tanuló az általános iskola első évfolyamán a tanulmányait a hetedik életévében kezdte meg, továbbá ha a tanulmányi követelményeket azért nem tudták teljesíteni, mert a tanuló tartós gyógykezelés alatt állt vagy tanulmányait külföldön folytatta. A Híd II. programban nyújtott nevelés-oktatás tanulásra motivál, fejleszti a jogszabályban meghatározott egyes szakmák sikeres elsajátításához szükséges készségeket, szakmacsoporton belüli pályaorientációs feladatokat lát el, részszakképesítés megszerzésére készít fel. A Híd II. program záróvizsgával, ennek részeként komplex szakmai vizsgával zárul. A Híd II. program elvégzéséről a szervező iskola alapfokú végzettséget igazoló tanúsítványt, sikeres komplex szakmai vizsgáról pedig részszakképesítést igazoló szakmai bizonyítványt állít ki. A tanuló a Híd II. program keretében elsajátítja azokat az ismereteket, amelyek a szakképzés megkezdéséhez szükségesek, továbbá megszerzi a szakképzésbe történő bekapcsolódáshoz szükséges elméleti és gyakorlati tudáselemeket. A tanuló a Híd II. program sikeres befejezése után a szakiskolai szakképzési évfolyamon, évfolyamokon készülhet fel a szakmai vizsga letételére.
-
-(4) A Köznevelési Hídprogramok keretében a tanulók komplex fejlesztését szolgáló tevékenységek, foglalkozások és programok a délelőtti és délutáni időszakban arányosan elosztva kerülnek megszervezésre. A Köznevelési Hídprogramokban az érintett tanulók egyéni képességeihez igazodó pedagógiai tevékenységrendszer megvalósításában résztvevő pedagógusok illetmény-kiegészítésre jogosultak abban az esetben, ha az adott tanévben a pedagógiai tevékenységükkel érintett tanulóik legalább hetven százaléka eredményes középfokú írásbeli felvételi vizsgát tesz, vagy Híd II. program esetében a második évfolyamba lépett.
-
-(5) A Köznevelési Hídprogramok keretein belül szervezhető olyan osztály is, amely az Országos Képzési Jegyzékről szóló kormányrendeletben meghatározott szakképesítések körében folytatott szakiskolai képzés megkezdésére készíti fel azokat a tanulókat, akik általános iskolai tanulmányaikat a tankötelezettségük végéig nem tudták teljesíteni és hat általános iskolai évfolyamnál kevesebbet fejeztek be sikeresen.
-
-(6) A Köznevelési Hídprogramok nevelési-oktatási programjait az oktatásért felelős miniszter rendeletben adja ki, amely magában foglalja a csoportszervezési elveket, a fejlesztés eszközrendszerét, a tanulók, illetve az alkalmazott pedagógiai tevékenység mérésére-értékelésére, ellenőrzésére vonatkozó keretszabályokat is.
-
-(7) Köznevelési Hídprogramok szakiskolában – az oktatásért felelős miniszter rendeletében meghatározott módon – szervezhetők. A programokban közreműködő intézményeket az állami intézményfenntartó központ jelöli ki.
+(2)–(7)
 
 #### 13. A gyógypedagógiai nevelési-oktatási intézmény, konduktív pedagógiai intézmény
 
@@ -475,7 +465,7 @@ nyújtható.
 
 (5a) A hivatal és a kormányhivatal által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa)–ac) alpontja, valamint b)–e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(6) Ha a köznevelési intézmény székhelye megváltozik, a (2) bekezdésben foglaltak szerint újra nyilvántartásba kell venni, feltéve hogy a kormányhivatal illetékessége is megváltozik. Az ismételt nyilvántartásba vétel a köznevelési intézmény létrejöttének időpontját nem érinti.
+(6)
 
 (7) A nyilvántartásba vételről szóló jogerős határozat alapján az önálló költségvetéssel rendelkező köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
 
@@ -502,7 +492,7 @@ nyújtható.
 
 (11) Szakmai jogszabálysértés, ha az intézmény működése – az intézmény által ellátott feladatoktól függően – az Óvodai nevelés országos alapprogramja a Nat, az adott intézményre érvényes kerettanterv, vagy e törvény felhatalmazása alapján készített és jóváhagyott más nevelési, oktatási program, az érettségi vizsgaszabályzat, az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály, a Kollégiumi nevelés országos alapprogramja, a nemzetiség óvodai nevelésének irányelve, a nemzetiség iskolai oktatásának irányelve, a Két tanítási nyelvű iskolai oktatás irányelve, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve, az Alapfokú művészetoktatás követelményei és tantervi programja rendelkezéseit sérti.
 
-(12) A kormányhivatal a köznevelési intézmény törléséről értesíti a költségvetési hozzájárulást folyósító szervet.
+(12)
 
 22. § (1) A köznevelési intézménynek a feladatai ellátásához szükséges feltételekkel rendelkeznie kell. A köznevelési intézmény akkor rendelkezik a feladatai ellátásához szükséges feltételekkel, ha
 
@@ -548,9 +538,7 @@ rendelkezik.
 
 (10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény akkor rendelkezik állandó saját székhellyel, telephellyel, ha a fenntartója igazolja, hogy a feladatai ellátásához szükséges jogszabályban meghatározott helyiségek feletti rendelkezési jog a nevelési-oktatási intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított. Ha a nevelési-oktatási intézmény székhelye, telephelye másik nevelési-oktatási intézmény által is használt ingatlanban található, az engedélyezési eljárásban vizsgálni kell azt is, hogy az épületben biztosítható-e valamennyi nevelési-oktatási intézmény zavartalan működése, az alapító okiratában megjelölt maximális gyermek-, tanulói létszám fogadása, a nevelőtestületek működése.
 
-(11) Ha a nevelési-oktatási intézménynek a székhelyén kívül telephelye is van, a telephelyre az e §-ban foglaltak szerint kell engedélyt kérni. A telephely szerint illetékes kormányhivatalnak a telephelyen működő tagintézmény tekintetében le kell folytatnia az e §-ban meghatározott eljárást, és gyakorolja a fenntartó valamint az intézmény működésének törvényességi és hatósági ellenőrzésével kapcsolatos hatásköröket, azzal az eltéréssel, hogy a nyilvántartásból történő törlésről – megkeresésre – a székhely szerinti kormányhivatal intézkedik.
-
-(12) Ha a köznevelési intézmény tevékenysége vagy székhelye megváltozik, a működési engedélyt a fenntartónak a változás tekintetében ismételten be kell szereznie.
+(11)–(12)
 
 #### 20. A köznevelési intézmény működésének rendje
 
@@ -570,7 +558,7 @@ rendelkezik.
 
 (5) A nevelési-oktatási intézménynek gondoskodnia kell a rábízott gyermekek, tanulók felügyeletéről, a nevelés és oktatás egészséges és biztonságos feltételeinek megteremtéséről, a gyermekek, tanulók rendszeres egészségügyi vizsgálatának megszervezéséről, ennek keretében különösen, hogy az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenként legalább egyszer fogászati, szemészeti és általános szűrővizsgálaton vegyen részt.
 
-(6) A nevelési-oktatási intézmény, a pedagógiai szakszolgálati intézmény – a jogszabályban meghatározottak szerint – kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
+(6)
 
 (7) Az óvodai csoportok, iskolai osztályok, kollégiumi csoportok minimális, maximális és átlaglétszámát a 4. melléklet határozza meg. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszám a nevelési év, illetőleg a tanítási év indításánál a fenntartó engedélyével legfeljebb húsz százalékkal átléphető, továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt. A minimális létszámtól csak akkor lehet eltérni, ha azt az óvodai, tanulói jogviszony nevelési, tanítási év közben történő megszűnése indokolja, továbbá szakképző iskolában akkor is, ha a képzés során tanulói jogviszony korábbi tanítási évben történő megszűnése miatt az érintett osztály, csoport létszáma a minimális létszám alá csökkent, és átszervezéssel – a tanulóra háruló aránytalan teher nélkül – nem alakítható ki a minimális létszámot elérő létszámú osztály, csoport.
 
@@ -582,7 +570,7 @@ rendelkezik.
 
 (2) Az iskola pedagógiai programjának részeként, ha e törvény másként nem rendelkezik, a miniszter által kiadott kerettanterveket kiegészítve helyi tantervet készít. A helyi tanterv megnevezi az oktatásért felelős miniszter által kiadott kerettantervek közül választottat és rendelkezik a kerettantervben meghatározott, a kötelező és nem kötelező tanórai foglalkozások időkerete legfeljebb tíz százalékának felhasználásáról. A kollégium az érdekelt iskola pedagógiai programját figyelembe véve készíti el a pedagógiai programját.
 
-(3) Amennyiben az általános iskola egész napos iskolaként működik, pedagógiai programjának része valamely, az oktatásért felelős miniszter által kiadott, vagy saját maga által kidolgozott és e törvényben meghatározottak szerint jóváhagyott nevelési-oktatási program.
+(3)
 
 (4) A többcélú intézmény egységes, valamennyi nevelési-oktatási feladatot átfogó pedagógiai programot, ennek keretein belül az egyes feladatok ellátásához óvodai pedagógiai programot, iskolai helyi tantervet, kollégiumi pedagógiai programot használ. Az általános művelődési központban működő nevelési-oktatási intézmények pedagógiai programja része a nem köznevelési feladatot ellátó intézményegység tevékenységét is meghatározó pedagógiai-művelődési programnak. A pedagógiai-művelődési program biztosítja a köznevelési és a nem köznevelési közfeladatok egységes elvek szerinti megvalósítását.
 
@@ -674,17 +662,7 @@ rendkívüli szünetet rendel el.
 
 (4) A köznevelési szerződés keretei között a nevelés és oktatás a gyermekek, tanulók számára térítésmentessé válik, továbbá a gyermekek, tanulók felvételére alkalmazni kell azokat a szabályokat, amelyek az állami, települési önkormányzati nevelési-oktatási intézményekre vonatkoznak, és nem lehet alkalmazni a (2) bekezdés c) pontjában foglaltakat.
 
-(5) A köznevelési szerződés az alábbiakat tartalmazza:
-
-- a) a köznevelési alapfeladatokat,
-- b) a felvehető, ellátandó gyermekek, tanulók számát,
-- c) az óvodai nevelési feladatokban, a tankötelezettség teljesítésével és az iskolai neveléssel-oktatással, a pedagógiai szakszolgálatok ellátásával összefüggő feladatokban való részvételt,
-- d) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, azokat a szolgáltatásokat, amelyek a megállapodás alapján a gyermekek, tanulók, szülők részére térítésmentessé válnak, továbbá amelyeket térítési díjért vehetnek igénybe.
-- e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásban történő részvétel keretében ingyenesen nyújtott szolgáltatásokat és az ellátási körzetet.
-
-(6) A köznevelési szerződés érvényességi ideje legalább egy, legfeljebb öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
-
-(7) Az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartóival kötött köznevelési szerződés megkötéséhez ki kell kérni az intézmény székhelye, telephelye szerint illetékes kormányhivatal, települési önkormányzat, nemzetiségi nevelés, nevelés-oktatás esetében az érintett országos nemzetiségi önkormányzat véleményét.
+(5)–(7)
 
 32. § (1) Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási tevékenységet végző szervezet tartja fenn:
 
@@ -1194,9 +1172,9 @@ dönt.
 
 (3) A települési önkormányzat közzéteszi az óvoda felvételi körzetét, valamint az óvoda nyitva tartásának rendjét. Az óvoda köteles felvenni, átvenni azt a gyermeket, aki életvitelszerűen az óvoda körzetében lakik (a továbbiakban: kötelező felvételt biztosító óvoda).
 
-(3a) A (3) bekezdés alkalmazásában életvitelszerű ott lakásnak minősül, ha a gyermek a kötelező felvételt biztosító óvoda körzetében található ingatlant otthonául használja és az ilyen ingatlan a polgárok személyi adatainak és lakcímének nyilvántartásában a gyermek lakóhelyeként vagy tartózkodási helyeként az óvodai beiratkozás első határnapját megelőző három hónapnál régebb óta szerepel. Amennyiben ez nem teljesül, vagy azok ellenére bármely körülmény alapján arra lehet következtetni, hogy a gyermek a nyilvántartásban szereplő lakhelyén vagy tartózkodási helyén nem életvitelszerűen lakik, úgy az óvodavezető, illetve a (2) bekezdés szerinti esetben az óvodavezető vagy a fenntartó által szervezett bizottság jogosult felszólítani az óvodába jelentkező gyermek szülőjét, hogy az életvitelszerű körzetben lakás tényét akként igazolja, hogy a felszólítás kézhez vételétől számított 15 napon belül bemutatja a területileg illetékes védőnőtől származó, a védőnői ellátás igénybevételét igazoló nyilatkozatot.
+(3a)
 
-(3b) Amennyiben az óvodavezető, illetve az általa vagy a fenntartó által szervezett bizottság felszólítás ellenére a szülő a védőnői nyilatkozatot nem mutatja be, úgy az óvodavezető, illetve az általa vagy a fenntartó által szervezett bizottság jogosult az életvitelszerűen körzetben lakást családlátogatás kezdeményezésével ellenőrizni. Amennyiben az óvodavezető, az általa, illetve a fenntartó által szervezett bizottság által javasolt legalább három időpont közül a gyermek szülője vagy törvényes képviselője egy alkalommal sem teszi lehetővé a családlátogatást, úgy vélelmezni kell, hogy a gyermek nem életvitelszerűen lakik a kötelező felvételt biztosító óvoda körzetében, és ennek alapján az óvodai felvétel megtagadható.
+(3b)
 
 (4) Az óvodába felvett gyermekek csoportba való beosztásáról a szülők és az óvodapedagógusok véleményének kikérése mellett az óvodavezető dönt.
 
@@ -1374,19 +1352,15 @@ dönt.
 
 fegyelmi büntetés szabható ki.
 
-(8) Nem indítható fegyelmi eljárás, ha a kötelezettségszegés óta három hónap már eltelt. Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult, és az nem végződött felmentéssel (az indítvány elutasításával), a határidőt a jogerős határozat közlésétől kell számítani.
-
-(9) A fegyelmi büntetés megállapításánál a tanuló életkorát, értelmi fejlettségét, az elkövetett cselekmény súlyát figyelembe kell venni. A fegyelmi büntetést a nevelőtestület hozza. Az iskolai, kollégiumi diákönkormányzat véleményét a fegyelmi eljárás során be kell szerezni.
-
-(10) A fegyelmi eljárás megindításáról – az indok megjelölésével – a tanulót és a kiskorú tanuló szülőjét értesíteni kell. A fegyelmi eljárás során a tanulót meg kell hallgatni, és biztosítani kell, hogy álláspontját, védekezését előadja. Ha a meghallgatáskor a tanuló vitatja a terhére rótt kötelességszegést, vagy a tényállás tisztázása egyébként indokolja, tárgyalást kell tartani. A tárgyalásra a tanulót és a kiskorú tanuló szülőjét meg kell hívni. Kiskorú tanuló esetén a fegyelmi eljárásba a szülőt minden esetben be kell vonni. A fegyelmi eljárásban a tanulót és a szülőt meghatalmazott is képviselheti.
+(8)–(10)
 
 (11) A tanulóval szemben ugyanazért a kötelességszegésért csak egy fegyelmi büntetés állapítható meg. Ha a kötelességszegés miatt az iskolában és a kollégiumban is helye lenne fegyelmi büntetés megállapításának, a nevelési-oktatási intézmények eltérő megállapodásának hiányában a fegyelmi büntetést abban a nevelési-oktatási intézményben lehet megállapítani, amelyikben az eljárás előbb indult.
 
-(12) A gyakorlati képzés keretében elkövetett kötelességszegésért a fegyelmi eljárást az iskolában kell lefolytatni.
+(12)
 
 (13) Végrehajtani csak jogerős fegyelmi határozatot lehet. Ha a végrehajtás elmaradása a többi tanuló jogait súlyosan sértené vagy más elháríthatatlan kárral, veszéllyel járna, az elsőfokú határozat a fellebbezésre tekintet nélkül végrehajtható.
 
-(14) A fegyelmi eljárás lefolytatásának alapvető szabályait jogszabály állapítja meg.
+(14)
 
 59. § (1) Ha a tanuló tanulmányi kötelezettségeinek teljesítésével összefüggésben a nevelési-oktatási intézménynek vagy a gyakorlati képzés szervezőjének jogellenesen kárt okoz, a Ptk. szabályai szerint kell helytállnia.
 
@@ -1542,11 +1516,11 @@ fegyelmi büntetés szabható ki.
 
 (2) A Kar tagja az a pedagógus, aki az (1) bekezdésben meghatározott köznevelési intézményben pedagógus-munkakörben történő foglalkoztatásra szóló kinevezést kapott.
 
-(3) A Kar stratégiai partneri megállapodást köthet más fenntartó intézményeiben dolgozó pedagógusok hasonló feladatokat ellátó szervezeteivel.
+(3)
 
 (4) Az állami intézményfenntartó központ köteles a Kar területi szervei működéséhez a megyeközponti és fővárosi tankerület székhelyén működő köznevelési intézményben a működéshez szükséges megfelelő hely biztosításáról gondoskodni.
 
-(5) A Kar az e törvényben és a Kar alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint tagozatokat alakíthat, amelyek ellátják az Alapszabályban meghatározott vagy az Országos Küldöttgyűlés által átruházott feladatokat.
+(5)
 
 (6) A Kar az Országos Küldöttgyűlés által elfogadott Alapszabályát köteles az elfogadástól számított 30 napon belül az oktatásért felelős miniszternek tájékoztatásul megküldeni.
 
@@ -1575,18 +1549,7 @@ fegyelmi büntetés szabható ki.
 
 (3) Az Országos Küldöttgyűlést szükség szerint, de évente legalább egy alkalommal össze kell hívni. Az Országos Küldöttgyűlés kötelező összehívásának más eseteit, továbbá a működés rendjét az Alapszabály állapítja meg.
 
-(4) Az Országos Küldöttgyűlés határozatképes, ha a küldöttek több mint fele jelen van. Határozatképtelenség esetén változatlan napirenddel, legalább három nap elteltével újabb ülést kell tartani, amely a megjelentek számától függetlenül határozatképes.
-
-(5) Az Országos Küldöttgyűlés határozatait a szavazásra jogosult jelenlévők többségének egyetértő szavazatával hozza. Az Alapszabály és az Etikai Kódex elfogadásához és módosításához, a tisztségviselők visszahívásához, továbbá az Alapszabályban meghatározott esetben a döntéshez a szavazásra jogosult jelenlévők kétharmadának egyetértő szavazata szükséges.
-
-(6) Az Országos Küldöttgyűlés ülésein tanácskozási joggal részt vehetnek:
-
-- a) a Kar Országos Elnökségének (a továbbiakban: Elnökség) tagjai,
-- b) a Kar Országos Etikai Bizottságának tagjai,
-- c) a Kar Országos Felügyelő Bizottságának (a továbbiakban: Felügyelő Bizottság) tagjai,
-- d) az oktatásért felelős miniszter vagy képviselője,
-- e) a főtitkár,
-- f) a 63/A. § (3) bekezdésében foglalt stratégiai partneri megállapodást kötött más szervezetek egy-egy képviselője.
+(4)–(6)
 
 63/D. § (1) Az Országos Küldöttgyűlés kizárólagos hatásköre:
 
@@ -1608,7 +1571,7 @@ fegyelmi büntetés szabható ki.
 - b) az elnökhelyettes,
 - c) az Alapszabályban meghatározottak szerint további minimum hét, maximum kilenc elnökségi tag.
 
-(3) Az Elnökség ülésén részt vesz a főtitkár, továbbá tanácskozási joggal részt vehet az Országos Etikai Bizottság és a Felügyelő Bizottság elnöke. Az Alapszabály további meghívottakról rendelkezhet.
+(3)
 
 (4) A tisztségviselőket az Országos Küldöttgyűlés választja titkos szavazással, ötéves időtartamra. Azonos tisztségre a Kar tagja legfeljebb két egymást követő alkalommal, illetve két teljes ciklusra választható meg. Amennyiben az Elnökség tagjának megbízatása időközben megszűnik, helyére az Országos Küldöttgyűlés – az ötéves időtartamból hátralévő időre – új tagot választ.
 
@@ -1626,46 +1589,21 @@ fegyelmi büntetés szabható ki.
 
 (7) Az Elnökség és tagjainak feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
-(8) Az Elnökség szükség szerint, de legalább kéthavonta egy, évente hat alkalommal ülésezik. Az Alapszabály rendelkezhet az Elnökség gyakoribb összehívásáról, valamint meghatározhatja az Elnökség kötelező összehívásának további eseteit is.
-
-(9) Az Elnökség szükség szerint, de legalább minden elnökségi ülést követő két héten belül tájékoztatja a területi szervek választott küldötteit tevékenységéről.
+(8)–(9)
 
 (10) Az Elnökség és a Felügyelő Bizottság tagjai a munkájukért tiszteletdíjban részesülnek. Az Országos Etikai Bizottság és a Területi Etikai Bizottságok tagjainak eseti jelleggel felmerült, igazolt költségeit a Kar megtéríti. A tiszteletdíj mértékéről és a költségek elismerésének módjáról az Alapszabály rendelkezik.
 
 63/F. § (1) Az Országos Etikai Bizottság és a Felügyelő Bizottság tagjait és elnökét az Országos Küldöttgyűlés választja titkos szavazással, ötéves időtartamra. Az Országos Etikai Bizottság és a Felügyelő Bizottság feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait, a tagok számát az Alapszabály határozza meg.
 
-(2) Az országos képviseleti és ügyintéző szervek, valamint azok tisztségviselői tevékenységének segítésére, valamint a különböző kamarai feladatok összehangolására Központi Iroda működik az Elnökség irányításával.
+(2)
 
 (3) A Központi Iroda vezetését pályázat útján kiválasztott főtitkár látja el. A pályázatokról az Elnökség dönt, a főtitkár felett a munkáltatói jogokat az elnök gyakorolja.
 
-(4) Főtitkár közigazgatási alapvizsgával vagy azzal egyenértékűnek elismert képesítéssel rendelkező személy lehet. Ettől eltérően főtitkári feladatokkal olyan felsőfokú iskolai végzettséggel rendelkező személy is megbízható, aki vállalja, hogy a munkaszerződés aláírásától számított egy éven belül leteszi a közigazgatási alapvizsgát vagy megszerzi a közigazgatási alapvizsga alóli mentesítést.
+(4)
 
 (5) A Központi Iroda munkaviszonyban foglalkoztatott munkavállalói felett a munkáltatói jogokat a főtitkár gyakorolja. A Központi Iroda és a főtitkár feladat- és hatáskörét, működésük rendjét az Alapszabály határozza meg.
 
-(6) A Kar az e törvényben, illetve az Alapszabályban meghatározott feladatok érvényesítése érdekében és feltételek teljesülése esetén szakmai tagozatokat működtet.
-
-(7) A Kar szakmai tagozatai:
-
-- 1. óvodai,
-- 2. magyar nyelv és irodalom,
-- 3. nemzetiségi,
-- 4. idegen nyelvek,
-- 5. matematika,
-- 6. ember és társadalom,
-- 7. ember és természet,
-- 8. földünk, környezetünk,
-- 9. művészetek,
-- 10. informatika,
-- 11. életvitel és gyakorlati ismeretek,
-- 12. testnevelés és sport,
-- 13. kollégiumi,
-- 14. szakképzési,
-- 15. fejlesztő- és gyógypedagógusi,
-- 16. intézményvezetői.
-
-(8) Az Alapszabály további szakmai tagozatok létrehozataláról rendelkezhet.
-
-(9) A (7) bekezdés 2–12. pontjaiban meghatározott tagozatokon belül tanári és tanítói altagozatok jöhetnek létre.
+(6)–(9)
 
 (10) A Kar jogszabályokban, valamint az e törvényben meghatározott módon feladatok érvényesítése érdekében szakmai döntés-előkészítő, véleményező, javaslattevő országos szakértői bizottságot hozhat létre, melynek feladatait, működési feltételeit az Alapszabály határozza meg.
 
@@ -1975,13 +1913,7 @@ dönt.
 
 71. § (1) A nevelési-oktatási intézményben legalább öt pedagógus hozhat létre szakmai munkaközösséget. Egy nevelési-oktatási intézményben legfeljebb tíz szakmai munkaközösség hozható létre. A szakmai munkaközösség részt vesz a nevelési-oktatási intézmény szakmai munkájának irányításában, tervezésében, szervezésében és ellenőrzésében, összegző véleménye figyelembe vehető a pedagógusok minősítési eljárásában.
 
-(2) A szakmai munkaközösség tagja és vezetője a belső értékelésben és ellenőrzésben akkor is részt vehet, ha köznevelési szakértőként nem járhat el. A szakmai munkaközösség – az SZMSZ-ben meghatározottak szerint – gondoskodik a pedagógus-munkakörben foglalkoztatottak nevelő-oktató munkájának szakmai segítéséről. A nevelési-oktatási intézmény SZMSZ-e a szakmai munkaközösség részére további feladatokat állapíthat meg.
-
-(3) A szakmai munkaközösség feladatainak ellátására a pedagógusok kezdeményezésére intézmények közötti munkaközösség is létrehozható.
-
-(4) Az óvodában, iskolában, kollégiumban az azonos feladatok ellátására egy szakmai munkaközösség hozható létre. Külön szakmai munkaközösség működhet a tagintézményben.
-
-(5) A szakmai munkaközösséget munkaközösség-vezető irányítja, akit a munkaközösség véleményének kikérésével az intézményvezető bíz meg legfeljebb öt évre.
+(2)–(5)
 
 #### 42. A szülő kötelességei és jogai
 
@@ -2143,13 +2075,7 @@ illeti meg.
 
 (3) Az oktatásért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
 
-(4) Az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segítheti a mindennapos testnevelés feladatainak végrehajtását, a sportiskolák megalakulását és működését.
-
-(5) Az oktatásért felelős miniszter, a környezetvédelemért felelős miniszter közös programok kiadásával, pályázatok kiírásával segíti a környezeti nevelés, oktatás feladatainak végrehajtását és az Erdei Iskola Program, Erdei Óvoda Program, Zöld Óvoda Program, Ökoiskola Program megvalósulását.
-
-(6) Az oktatásért felelős miniszter, a kultúráért felelős miniszter közös programok kiadásával, pályázatok kiírásával segíti a közgyűjtemények nevelési-oktatási feladatainak végrehajtását.
-
-(7) Az oktatásért felelős miniszter, a honvédelemért felelős miniszter közös programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó honvédelmi nevelési feladatok végrehajtását.
+(4)–(7)
 
 (8) Az oktatásért felelős miniszter háromévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
 
@@ -2384,15 +2310,7 @@ ellenőrzés.
 - a) az ellenőrzést a nemzetiség nyelvét beszélő szakértő vezetheti, ha nincs ilyen szakértő, a vizsgálatot nemzetiség nyelvét beszélő pedagógus bevonásával kell végezni,
 - b) a pedagógiai-szakmai ellenőrzésről értesíteni kell az országos nemzetiségi önkormányzatot, amely a szakmai ellenőrzésben részt vehet olyan szakirányú felsőfokú végzettséggel és szakterületén szerzett tízéves gyakorlattal rendelkező delegáltjával, aki szakterületének elismert képviselője.
 
-(4) A pedagógiai-szakmai ellenőrzés megkezdése előtt legalább hét nappal az ellenőrzés vezetőjének egyeztetnie kell a köznevelési intézmény vezetőjével és azzal, aki az ellenőrzést kezdeményezte, a pedagógiai-szakmai ellenőrzés időtartamát, formáját, módszereit, az ellenőrzés időpontját, továbbá, hogy az érdekeltek milyen módon nyilváníthatnak véleményt az ellenőrzés megállapításairól. Az oktatásért felelős miniszter által szervezett pedagógiai-szakmai ellenőrzés megkezdése előtt legalább hét nappal értesíteni kell a köznevelési intézmény fenntartóját, tájékoztatva arról, hogy a szakmai ellenőrzés lefolytatásánál jelen lehet.
-
-(5) A pedagógiai-szakmai ellenőrzés megállapításait megkapja az, akit az ellenőrzés érintett, továbbá az, akinek a kezdeményezésére az ellenőrzés indult, valamint a fenntartó. Ha az ellenőrzés nemzetiségi feladatot ellátó köznevelési intézményben folyik, a szakmai ellenőrzés megállapításait meg kell küldeni az érdekelt települési nemzetiségi önkormányzatnak, valamint az országos nemzetiségi önkormányzatnak.
-
-(6) A pedagógiai-szakmai ellenőrzés megállapításait a személyiségvédelemre vonatkozó jogszabályok megtartásával kell az érintett nevelési-oktatási intézmény honlapján, annak hiányában a helyben szokásos módon, továbbá az ellenőrzést indító honlapján nyilvánosságra hozni.
-
-(7) A köznevelési intézményben folyó törvényességi ellenőrzésnél a (4)–(5) bekezdésben foglaltakat alkalmazni kell azzal az eltéréssel, hogy az előzetes egyeztetésre vonatkozó rendelkezéseket nem kell megtartani, ha az az ellenőrzés eredményességét veszélyezteti.
-
-(8) A köznevelési intézményben szakmai ellenőrzést végző személynek és a törvényességi ellenőrzést végző személynek, szervezetnek nincs döntési, intézkedési jogköre.
+(4)–(8)
 
 87. § (1) Az oktatásért felelős miniszter működteti az országos pedagógiai-szakmai ellenőrzés rendszerét. Ennek keretei között a köznevelési intézményben folyamatos pedagógiai-szakmai ellenőrzést szervez, amely intézményenként ötévente ismétlődő, értékeléssel záruló vizsgálat. Szakképző intézmények pedagógiai-szakmai ellenőrzésébe szükséges bevonni a szakképesítésekért felelős miniszterek által kijelölendő intézményeket.
 
@@ -2400,7 +2318,7 @@ ellenőrzés.
 
 (3) Az országos pedagógiai-szakmai ellenőrzés célja a pedagógusok munkájának külső, egységes kritériumok szerinti ellenőrzése és értékelése a minőség javítása érdekében. Az ellenőrzés kiterjed fenntartótól függetlenül minden köznevelési intézményre.
 
-(4) Az országos pedagógiai-szakmai ellenőrzés különösen az óra- és foglalkozáslátogatás, a megfigyelés, az interjú és a pedagógiai dokumentumok vizsgálata módszereit alkalmazza. Az intézmény ellenőrzését legalább három, a jogszabályi feltételek szerint kijelölt köznevelési szakértőből álló csoport végzi. A szakértői csoport intézkedésre nem jogosult, megállapításait, javaslatát jegyzőkönyvben rögzíti.
+(4)
 
 (5) Az országos pedagógiai-szakmai ellenőrzésben az a köznevelési szakértő vehet részt, aki a külön jogszabályban előírt továbbképzés követelményeit teljesítette. Az intézmény ellenőrzésében részt vevő szakértő kijelöléséhez a fenntartó egyetértése szükséges.
 
@@ -2613,10 +2531,7 @@ rendeletben állapítsa meg.
 
 (7) Ahol jogszabály az óvodai nevelésben részt vevő, a tanulói jogviszonyban, kollégiumi tagsági viszonyban álló fogyatékos gyermek részére kedvezményt, juttatást, jogosultságot, kötelezettséget állapít meg, a fogyatékos gyermek, tanuló fogalom alatt a sajátos nevelési igényű gyermeket, tanulót kell érteni.
 
-(8) Ha a nevelési-oktatási intézmény alapító okiratában, működési engedélyében, nyilvántartásba vételi határozatában az intézmény alaptevékenységei között
-
-- a) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető, vagy vissza nem vezethető tartós és súlyos rendellenességével küzdő gyermekek, tanulók ellátása,
-- b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos, vagy súlyos rendellenességével küzdő gyermekek, tanulók ellátása szerepel, azon 2013. január 1-ig az egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzdő gyermekek, tanulók ellátását is érteni kell.
+(8)
 
 (9) Ha a sajátos nevelési igényű gyermek, tanuló szakértői véleményében a sajátos nevelési igényt
 
