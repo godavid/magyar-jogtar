@@ -64,7 +64,7 @@ rendelkezéseit.
 
 (1a) A Kúrián és az OBH-ban foglalkoztatott főtanácsadó szakirányú felsőfokú végzettséggel rendelkező tisztviselő.
 
-(2) A bírósági ügyintéző felsőfokú iskolai végzettséggel rendelkező tisztviselő, aki a bíró feladatkörében eljárva – a bíró irányítása és felügyelete mellett – önálló felelősséggel intézi a jogszabály által hatáskörébe utalt feladatokat.
+(2) A bírósági ügyintéző olyan felsőfokú iskolai végzettséggel rendelkező tisztviselő, aki a bíró feladatkörében eljárva, a bíró – vagy azon feladatok esetében, amelyekben a bírósági titkár önállóan, önálló aláírási joggal jogosult eljárni, a bírósági titkár – irányítása és felügyelete mellett, önálló felelősséggel intézi a jogszabály által hatáskörébe utalt feladatokat.
 
 (3) A bírósági jegyzőkönyvvezető és a cégszerkesztő tisztviselői kinevezésre akkor jogosult, ha a középiskolai érettségin túl a munkakörére meghatározott további képesítéssel és az e munkakörökben szerzett legalább három év szakmai gyakorlattal is rendelkezik.
 
@@ -156,7 +156,7 @@ rendelkezéseit.
 
 (4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
-(5) Az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+(5) A bírósági fogalmazó, a bírósági titkár, az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
 
 (6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 
@@ -267,7 +267,7 @@ rendelkezéseit.
 
 22. § (1) Az igazságügyi alkalmazott szolgálati viszonya felmentéssel akkor szüntethető meg, ha
 
-- a) nyugdíjasnak minősül vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételekkel legkésőbb a felmentési idő utolsó napján rendelkező igazságügyi alkalmazott ezt kéri,
+- a) nyugdíjasnak minősül,
 - b) munkakörének az ellátására alkalmatlan,
 - c) a 18. § (1) bekezdése szerinti esetekben a részére felajánlott megfelelő új munkakört nem fogadta el, vagy ilyen munkakört a részére nem lehetett felajánlani.
 
@@ -283,6 +283,8 @@ rendelkezéseit.
 (3) Ha az alkalmatlanság egészségügyi ok következménye, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
 
 (4) Ha az egészségügyi alkalmatlanságra okot adó körülmény felmerülése esetén az igazságügyi alkalmazott a munkáltató által elrendelt orvosi vizsgálaton nem vesz részt, ezt úgy kell tekinteni, hogy alkalmatlanságát nem vitatja.
+
+(5) Az igazságügyi alkalmazott szolgálati viszonyát felmentéssel meg kell szüntetni, ha azt a nyugdíjasnak minősülő, vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő igazságügyi alkalmazott kéri.
 
 23. § (1) A munkáltatónak a felmentést meg kell indokolnia. Az indoklásból a felmentés okának világosan ki kell tűnnie. A felmentés indokának a valóságát és okszerűségét a munkáltatónak kell bizonyítania.
 
@@ -553,6 +555,31 @@ rendelkezéseit.
 (5) Az OBH elnöke a bírósági titkár hivatali beosztását megszüntetheti, a bírósági titkár kérelmére megszünteti.
 
 (6) A bírósági titkár a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, amitől a felek közös megegyezéssel eltérhetnek.
+
+42/B. § (1) A bírósági titkárt az OBH elnöke a miniszter által vezetett minisztériumba (a továbbiakban: minisztérium) a jogszabályok előkészítésében történő részvétel, kegyelmi ügyek intézése vagy egyéb igazságügyi munkatapasztalatot igénylő feladat ellátása céljából beoszthatja. A beosztáshoz a bírósági titkár hozzájárulása szükséges.
+
+(2) A minisztériumba beosztott bírósági titkár tekintetében – a fegyelmi eljárás elrendelésének és lefolytatásának, valamint az igazságügyi alkalmazotti szolgálati jogviszony megszüntetésének kivételével – a munkáltatói jogkört a miniszter gyakorolja.
+
+(3) A minisztériumba beosztott bírósági titkár köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
+
+(4) A minisztériumi beosztás megszűnését követően a bírósági titkárt a minisztériumi beosztást megelőző szolgálati helyére kell beosztani.
+
+(5) Az OBH elnöke a bírósági titkár minisztériumi beosztását megszünteti:
+
+- a) a bírósági titkár kérelmére,
+- b) az igazságügyért felelős miniszter indítványára.
+
+(6) A bírósági titkár a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, amitől a felek közös megegyezéssel eltérhetnek.
+
+42/C. § (1) A minisztériumba beosztott bírósági titkár hivatali munkáját a miniszter a kormánytisztviselőkre irányadó szabályok szerint értékeli.
+
+(2) A minisztériumba beosztott bírósági titkár tekintetében az 55–76. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a minisztériumba beosztott bírósági tikár ellen a miniszter kezdeményezheti a fegyelmi eljárás megindítását.
+
+(3) A minisztériumba beosztott bírósági titkár adatait a minisztériumban kell nyilvántartani.
+
+(4) A minisztériumba beosztott bírósági titkár tekintetében a 95–123. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a beosztási pótlék mértéke az illetményalap 5–10 százaléka.
+
+42/D. § Az OBH elnöke több bíróságot érintő központi igazgatási feladat összehangolt végrehajtása érdekében az igazságügyi alkalmazott hozzájárulásával és az igazságügyi alkalmazott felett munkáltatói jogkört gyakorló bírósági elnök egyetértésével külön feladattal bízhatja meg az igazságügyi alkalmazottat.
 
 43. § Az igazságügyi alkalmazottat nem terheli munkavégzési kötelezettség
 

@@ -178,7 +178,7 @@ meghatározott esetben.
 
 - a) a szakmai értékelés tekintetében
   - aa) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye,
-  - ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírósági titkári joggyakorlati idő OBH elnöke általi értékelése,
+  - ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírói, bírósági titkári joggyakorlati idő, valamint a központi igazgatási feladatokban történő közreműködés OBH elnöke általi értékelése, továbbá a jogszabályok előkészítésére vonatkozó átfogó ismeretek megszerzése érdekében az igazságügyért felelős miniszter által vezetett minisztériumban eltöltött bírói, bírósági titkári joggyakorlati idő miniszter általi értékelése,
   - ac) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az Országos Bírói Tanács (a továbbiakban: OBT) tagja mellett eltöltött bírósági titkári joggyakorlati idő OBT tag általi értékelése,
   - ad) nem bírósági joggyakorlattal rendelkező pályázó esetén a korábbi munkáltató értékelése,
 - b) a jogi szakvizsga letételét követő gyakorlati vagy szolgálati idő tartama,
@@ -237,7 +237,7 @@ meghatározott esetben.
   - bd) a pályázat kiírását követően bekövetkezett munkaszervezést, munkaterhelést vagy költségvetést érintő változások igazgatási szempontból indokolatlanná teszik az álláshely betöltését,
   - be) a pályázat kiírását követően olyan körülmény merült fel, amelynek eredményeként az álláshelyet a törvény alapján pályázat kiírása nélkül (8. §) szükséges betölteni.
 
-(2) Ha a pályázat eredménytelen, új pályázatot kell kiírni.
+(2) Az (1) bekezdés a) pontjában és b) pont ba)–bc) alpontjában megjelölt érvénytelenségi okok esetén új pályázatot kell kiírni.
 
 #### 11. A pályázók értesítése és a pályázat eredményével szembeni jogorvoslat
 

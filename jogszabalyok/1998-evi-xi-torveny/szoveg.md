@@ -28,7 +28,7 @@ az ügyvédekről
 - b) büntetőügyben védelmet lát el,
 - c) jogi tanácsot ad,
 - d) szerződést, beadványt, más iratot készít,
-- e) az a)–d) pontban felsoroltakkal összefüggésben pénz és értéktárgy letéti kezelését végzi.
+- e) az a)–d) pontban felsoroltakkal összefüggésben pénz és vagyontárgy letéti kezelését végzi.
 
 (2) Az (1) bekezdésben felsoroltak ellenérték fejében történő rendszeres ellátására – ha törvény másképpen nem rendelkezik – kizárólag ügyvéd jogosult.
 
@@ -96,7 +96,7 @@ az ügyvédekről
 
 (2) Az ügyvéd az ügyvédi tevékenysége körében okozott kár megtérítésére, sérelemdíj megfizetésére köteles felelősségbiztosítási szerződést kötni és azt ügyvédi tevékenysége alatt fenntartani.
 
-(3) Az ügyvéd felróhatóság hiányában is felelősséggel tartozik a visszaszolgáltatási vagy elszámolási kötelezettséggel átvett pénzért és értéktárgyért. Mentesül a felelősség alól, ha bizonyítja, hogy a hiányt elháríthatatlan külső ok idézte elő.
+(3) Az ügyvéd felróhatóság hiányában is felelősséggel tartozik a visszaszolgáltatási vagy elszámolási kötelezettséggel átvett pénzért és vagyontárgyért. Mentesül a felelősség alól, ha bizonyítja, hogy a hiányt elháríthatatlan külső ok idézte elő.
 
 ### Névhasználat
 
@@ -452,7 +452,7 @@ megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvánta
 
 ### Beszámítás
 
-28. § (1) Az ügyvéd köteles a megbízó részére átvett pénzről vagy egyéb értékről a megbízót haladéktalanul értesíteni.
+28. § (1) Az ügyvéd köteles a megbízó részére átvett pénzről vagy vagyontárgyról a megbízót haladéktalanul értesíteni.
 
 (2) Az ügyvéd az átvett pénzből beszámítással kielégítheti a megbízójával szemben megbízási díj és költségtérítés címén fennálló követelését. Az ügyvéd a beszámítási jog gyakorlásáról a megbízót írásban köteles értesíteni.
 
@@ -888,13 +888,13 @@ megismerheti.
 - c) csődeljárás esetén az eljáró bíróság nevét, a bíróság által kirendelt vagyonfelügyelő nevét, hivatali levelezési címét,
 - d) felszámolási eljárás esetén a bíróság által kirendelt felszámoló, továbbá a felszámoló által kijelölt felszámolóbiztos nevét, hivatali levelezési címét, a területi kamara által kijelölt irodagondnok nevét, hivatali levelezési címét.
 
-(8) Az ügyvédi iroda köteles számviteli beszámolóját annak közzététele céljából a területi kamara szabályzatában meghatározott módon az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig megküldeni a területi kamara részére.
+(8)
 
-(9) Ha a területi kamara szabályzata elektronikus benyújtásról rendelkezik, a számviteli beszámoló elektronikus okiratként történő elkészítése nem jogosít a beszámoló összeállítását (formáját, szerkezetét, tagolását) illetően a számvitelről szóló törvényben előírt rendelkezésektől való eltérésre.
+(9)
 
-(10) Ha az ügyvédi iroda a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott és a beszámolót a területi kamara szabályzatának megfelelően elektronikus úton küldi meg a területi kamarának, akkor a benyújtó személy a benyújtással egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben a benyújtó a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és ha a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a területi kamara felhívására bemutatni.
+(10)
 
-(11) A beszámolóhoz mellékelni kell az adózott eredmény felhasználására vonatkozó határozatot, valamint kötelező könyvvizsgálat esetén a független könyvvizsgálói jelentést is.
+(11)
 
 ### Felelősség az iroda kötelezettségéért
 
@@ -1722,7 +1722,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - f) a bíróság által kirendelt vagyonfelügyelő vagy felszámoló nevéről, hivatali levelezési címéről,
 - g) az ügyvédi iroda névjegyzékből való törlésének időpontjáról.
 
-(9) A területi kamara az ügyvédi irodának a (3) bekezdés a)–f) pontjában, valamint a (8) bekezdés d)–g) pontjában foglalt adatait, valamint a közzététel céljából részére megküldött számviteli beszámolóját a honlapján közzéteszi. A területi kamara a honlapján a közzététel céljából megküldött beszámolókat haladéktalanul és ingyenesen megismerhetővé teszi és biztosítja, hogy azok a honlapon az ügyvédi iroda nevének megadásával, keresőprogram segítségével is megismerhetőek legyenek. A beszámolót, illetve annak elektronikus másolatát a területi kamara őrzi. A beszámolót úgy kell megőrizni, hogy az kizárja az utólagos módosítás lehetőségét, folyamatosan biztosított legyen az ahhoz való hozzáférés, valamint az elektronikus okirat értelmezhetősége (olvashatósága). Az elektronikus okiratot védeni kell a jogosulatlan hozzáférés, módosítás, törlés vagy megsemmisítés ellen is. A területi kamara a számviteli beszámoló megküldésének és közzétételének szabályait szabályzatban határozza meg.
+(9) A területi kamara az ügyvédi irodának a (3) bekezdés a)–f) pontjában, valamint a (8) bekezdés d)–g) pontjában foglalt adatait a honlapján közzéteszi.
 
 (10) A Magyar Ügyvédi Kamara az (1), (2) és (3) bekezdésben felsorolt adatokról központi nyilvántartást vezet.
 
