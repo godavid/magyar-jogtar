@@ -1056,7 +1056,7 @@ végzés ellen.
 119. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) hagyatéki ügyben az azonos illetékességi területen működő közjegyzők közötti ügyelosztási rendet,
-- b) a hagyatéki leltár nyomtatványának adattartalmát és a nyomtatvány közzétételének módját,
+- b) a hagyatéki leltár nyomtatványának, valamint a hagyatéki eljárási igazolás adattartalmát és a nyomtatvány közzétételének módját,
 - c) a hagyatéki eljárás során közjegyzői letétbe vehető vagyontárgyakat és a letétkezelés szabályait,
 - d) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárásban elrendelt biztosítási intézkedés foganatosításával kapcsolatban felszámítható készkiadásokat, munkadíjakat, valamint költségeket, továbbá ezek megelőlegezésének és megfizetésének módját,
 - e) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárásban kirendelt zár-, ügygondnok, eseti gyám és eseti gondnok díját, felszámítható költségeit, valamint ezek megfizetésének módját,

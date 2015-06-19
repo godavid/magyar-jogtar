@@ -384,17 +384,12 @@ részére.
 
 ### 6. CÍM — A támogatási rendszer központi költségvetési forrásai
 
-24. § (1) A központi költségvetésről szóló törvény meghatározza a nyilvántartott színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok elosztható támogatásának keretösszegeit. A központi költségvetésről szóló törvény
-
-- a) nemzeti előadó-művészeti szervezeteket megillető művészeti támogatás és működési támogatás összegét az előadó-művészeti szervezetekre,
-- b) a kiemelt előadó-művészeti szervezetek
-  - ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartóra vagy azzal közszolgáltatási szerződést kötött önkormányzatra,
-  - bb) művészeti támogatásának összegét az egyes előadó-művészeti szervezetekre is lebontva határozza meg.
+24. § (1) A központi költségvetésről szóló törvény meghatározza a nyilvántartott színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok elosztható támogatásának keretösszegeit.
 
 (2) A (3) és (4) bekezdésben meghatározott kivétellel a központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
 
-- a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
-- b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
+- a) a minősített színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
+- b) a minősített zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
 
 (3) A minisztérium költségvetési fejezetében kell biztosítani:
 

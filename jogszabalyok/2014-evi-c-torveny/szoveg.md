@@ -10,9 +10,9 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2015. évi
 
-- a) bevételi főösszegét 16 312 873,0 millió forintban,
-- b) kiadási főösszegét 17 190 277,1 millió forintban,
-- c) hiányát 877 404,1 millió forintban
+- a) bevételi főösszegét 16 359 724,5 millió forintban,
+- b) kiadási főösszegét 17 252 128,6 millió forintban,
+- c) hiányát 892 404,1 millió forintban
 
 állapítja meg.
 
@@ -43,7 +43,8 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 - b) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 21. § (1) bekezdésében meghatározott számvevői illetményalap változása miatti személyi juttatás és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó növekményének kifizetésére,
 - c) a központi költségvetési szerveknél a feladatok változásával, a szervezetek, szervezetrendszerek korszerűsítésével, a feladatellátás ésszerűsítésével megvalósuló, kiadás- és költségvetési támogatás-megtakarítást eredményező létszámcsökkentések személyi juttatások és munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéseire,
 - d) az Alkotmánybíróság új tagjának megválasztásánál jelentkező többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére,
-- e) a fegyveres és rendvédelmi életpálya rendszerek bevezetéséhez kapcsolódó többlet személyi juttatások, valamint az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
+- e) a fegyveres és rendvédelmi életpálya rendszerek bevezetéséhez kapcsolódó többlet személyi juttatások, valamint az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére,
+- f) a Bíróságok és az Ügyészség esetében jogszabály-módosítás következtében jelentkező többlet személyi juttatások és az azokhoz kapcsolódó, munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
 
 (3) A Kormány a XI. Miniszterelnökség fejezet, 34. cím, 2. Különféle kifizetések alcím előirányzatából a IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai címre, – a 3. mellékletben szereplő I. pont 2. alpont szerinti Helyi szervezési intézkedésekhez kapcsolódó többletkiadások támogatása jogcímen – átcsoportosíthat, ha a helyi önkormányzati létszámleépítések miatt e jogcímen rendelkezésre álló előirányzat már felhasználásra került.
 
@@ -82,7 +83,7 @@ képezi.
 
 (8) A Kormány irányítása alá tartozó központi költségvetési szerv feladatellátására feleslegessé nyilvánított, értékesítésre kijelölt, a Magyar Nemzeti Vagyonkezelő Zrt. rábízott állami vagyonába tartozó állami tulajdonú ingatlanok értékesítéséből származó – a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben elszámolandó – bevételek államháztartásért felelős miniszter által jóváhagyott összege a 2015. évben a központi költségvetési szerv költségvetését tartalmazó költségvetési fejezet által finanszírozható felhalmozási kiadások teljesítésére használhatók fel. Az államháztartásért felelős miniszter ennek érdekében – legfeljebb a 2015. évben pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzat létrehozatalát és meglévő kiadási előirányzat növelését engedélyezheti e költségvetési fejezetben.
 
-(9) A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet tulajdonosi joggyakorlása alá tartozó ingatlanok (8) bekezdés szerinti értékesítése esetén a befolyó bevételeket, továbbá a tulajdonosi joggyakorlása alá tartozó vagyonnal kapcsolatos egyéb bevételeket a XX. Emberi Erőforrások Minisztériuma fejezet, 28. cím, 1. alcím, 1. A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoport előirányzaton belül kell elszámolni. E bevételek államháztartásért felelős miniszter által jóváhagyott összege a 2015. évben a XX. Emberi Erőforrások Minisztériuma fejezetből finanszírozható felhalmozási kiadások teljesítésére használható fel a (8) bekezdésben meghatározott módon.
+(9) Az Állami Egészségügyi Ellátó Központ tulajdonosi joggyakorlása alá tartozó ingatlanok (8) bekezdés szerinti értékesítése esetén a befolyó bevételeket, továbbá a tulajdonosi joggyakorlása alá tartozó vagyonnal kapcsolatos egyéb bevételeket a XX. Emberi Erőforrások Minisztériuma fejezet, 28. cím, 1. alcím, 1. Az Állami Egészségügyi Ellátó Központ tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoport előirányzaton belül kell elszámolni. E bevételek államháztartásért felelős miniszter által jóváhagyott összege a 2015. évben a XX. Emberi Erőforrások Minisztériuma fejezetből finanszírozható felhalmozási kiadások teljesítésére használható fel a (8) bekezdésben meghatározott módon.
 
 (10) A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. cím, 2. alcím, 4. jogcímcsoport, 2. A Magyar Nemzeti Filmalap Zrt. támogatása jogcím előirányzat tartalmazza a mozgóképről szóló 2004. évi II. törvény 9/A. § (2) bekezdése szerinti kiadást, mely előirányzat a hatoslottó szerencsejáték játékadója pénzforgalmilag teljesült összege 100%-ának mértékéig az államháztartásért felelős miniszter engedélyével túlléphető. A túllépés mértékének számítása során az előirányzat összegének megállapításakor nem vehető figyelembe az előirányzat javára év közben a Kormány döntésével biztosított többlet.
 
@@ -217,10 +218,10 @@ csökkentésére.
 
 19. § (1) Az önkormányzati és az állami feladatellátásban év közben bekövetkező változásokkal összefüggő, a Kormány irányítása alá tartozó fejezetek között előirányzat-átcsoportosításra
 
-- a) az államháztartás központi alrendszerébe tartozó szervek egymás közötti, illetve e szervek és a helyi önkormányzatok közötti feladat-, és intézmény átadás-átvétel esetén a Kormány jogosult,
+- a) az államháztartás központi alrendszerébe tartozó szervek és a helyi önkormányzatok közötti feladat-, és intézmény átadás-átvétel esetén a Kormány jogosult,
 - b) a helyi önkormányzatok és a helyi önkormányzati körön kívüli közszolgáltatók – így különösen az egyházi jogi személy, a civil szervezet, az alapítvány, a közalapítvány, a nemzetiségi önkormányzat, a gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó – közötti, a 2. melléklet szerint támogatott feladat átadás-átvétele esetén az államháztartásért felelős miniszter előzetes egyetértésével az érintett fejezetet irányító szervek jogosultak.
 
-(2) Az (1) bekezdés b) pontja szerinti eset kivételével a IX. Helyi önkormányzatok támogatásai fejezet kiadási előirányzatai terhére, illetve javára történő előirányzat-átcsoportosításra, valamint e fejezet címrendjének és a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány egyedi határozatban jogosult.
+(2) Az (1) bekezdés b) pontja és a 37. § szerinti esetek kivételével a IX. Helyi önkormányzatok támogatásai fejezet kiadási előirányzatai terhére, illetve javára történő előirányzat-átcsoportosításra, valamint e fejezet címrendjének és a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány egyedi határozatban jogosult.
 
 (3) A XI. Miniszterelnökség fejezet, 33. Országvédelmi Alap cím előirányzatot 2015. szeptember 30-át megelőzően nem lehet felhasználni. A Kormány határozatban dönt e kiadási előirányzat felhasználásáról, ha az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-ei 479/2009/EK tanácsi rendelet szerinti, 2015. szeptember 30-áig benyújtandó jelentésben szereplő, 2015. évre várható hiány (a továbbiakban: EDP-hiány) – a felhasználni kívánt tartalékösszeg figyelembevételével – nem haladja meg a GDP 2,4%-át.
 
@@ -242,7 +243,7 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 20. § (1) Az államháztartásért felelős miniszter a 4. § (2) bekezdése szerinti előirányzatból más fejezetre, címre, alcímre, jogcímcsoportra, jogcímre, előirányzat-csoportra, kiemelt előirányzatra – felmérés alapján – átcsoportosíthat.
 
-(2) A 10. mellékletben a Kormány irányítása alá tartozó fejezet előirányzatai terhére új kötelezettséget vállalni az államháztartásért felelős miniszter előzetes egyetértésével lehet. A 10. mellékletben a Kormány irányítása alá nem tartozó fejezet előirányzatai esetében új kötelezettség vállalásának feltétele, hogy a kötelezettségvállalásra jogosult előzetesen kikérje az államháztartásért felelős miniszter véleményét. Az államháztartásért felelős miniszter a kötelezettségvállalásra jogosult kérésére az egyetértést az érintett negyedévben esedékes új kötelezettségvállalások mindegyikére általánosan is, a véleményt pedig az előirányzat teljes összegére vagy annak meghatározott részére vonatkozóan is megadhatja. Az egyetértés és a vélemény megadása során figyelemmel kell lenni az állami vagyon értékesítéséből és hasznosításából származó, a 10. mellékletben szereplő bevételek éven belüli időbeli teljesülésére.
+(2) A 10. mellékletben a Kormány irányítása alá tartozó fejezet előirányzatai terhére új kötelezettséget vállalni az államháztartásért felelős miniszter előzetes egyetértésével lehet. A 10. mellékletben a Kormány irányítása alá nem tartozó fejezet előirányzatai esetében új kötelezettség vállalásának feltétele, hogy a kötelezettségvállalásra jogosult előzetesen kikérje az államháztartásért felelős miniszter véleményét. Az államháztartásért felelős miniszter a kötelezettségvállalásra jogosult kérésére az egyetértést az érintett negyedévben esedékes új kötelezettségvállalások mindegyikére általánosan is, a véleményt pedig az előirányzat teljes összegére vagy annak meghatározott részére vonatkozóan is megadhatja. Az egyetértés és a vélemény megadása során figyelemmel kell lenni a 19. § (4) bekezdés a)–c) pontjában foglalt folyamatok és mutatószámok alakulására, ezen belül az állami vagyon értékesítéséből és hasznosításából származó, a 10. mellékletben szereplő bevételek éven belüli időbeli teljesülésére.
 
 (3) Az államháztartásért felelős miniszter a XVI. Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal igazgatása cím, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzatát legfeljebb 6250,0 millió forinttal, a 2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatát legfeljebb 1687,5 millió forinttal negyedévente megemelheti, ha az általa a negyedévet megelőzően meghatározott adónemek vonatkozásában teljesülnek az általa ezzel egyidőben meghatározott negyedéves bevételi tervek.
 
@@ -340,7 +341,7 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 35. § (1) A szociális hozzájárulási adó 2015-ben megfizetett összegének 85,46%-a az Ny. Alapot, 14,54%-a az E. Alapot illeti meg. A szociális hozzájárulási adó megfizetett összegéből az Ny. Alapot és az E. Alapot megillető részt a Nemzeti Adó- és Vámhivatal állapítja meg és naponta utalja át a jogosult számlájára.
 
-(2) Az államháztartásért felelős miniszter minden negyedévet követő hónap 15. napjáig – az utolsó negyedévben december 20-áig – a XX. Emberi Erőforrások Minisztériuma fejezet, 18. Klebelsberg Intézményfenntartó Központ cím kiadási és támogatási előirányzatát megemeli a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcímre érkezett befizetések összegével.
+(2) Az államháztartásért felelős miniszter minden negyedévet követő hónap 15. napjáig – az utolsó negyedévben december 20-áig – megemeli az állami intézményfenntartási feladatot ellátó szerv költségvetési kiadási és támogatási előirányzatát a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcímre érkezett befizetések összegével.
 
 (3) Ha az E. Alap tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után az E. Alap pénzforgalmi egyenlege többletet mutat, a kincstár intézkedik a többlet összegének visszautalásáról, amely a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 35. cím, 2. alcím, 9. Kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti támogatást csökkenti.
 
@@ -409,14 +410,14 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 42. § (1) Az Országgyűlés a köznevelési közfeladat ellátására
 
-- a) átlagbéralapú támogatást állapít meg a nevelési-oktatási, valamint pedagógiai szakszolgálati intézményt fenntartó nemzetiségi önkormányzat, az egyházi és magán köznevelési intézmény fenntartója részére az általuk fenntartott nevelési-oktatási intézményben, továbbá pedagógiai szakszolgálati intézményben pedagógus és – a b) pont kivételével – nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után a 8. melléklet I. pontja, az óvoda, egységes óvoda-bölcsőde esetében a 2. melléklet II. pont 1. alpontja szerint,
+- a) átlagbéralapú támogatást állapít meg a nevelési-oktatási, valamint pedagógiai szakszolgálati intézményt fenntartó nemzetiségi önkormányzat, az egyházi és magán köznevelési intézmény fenntartója részére az általuk fenntartott nevelési-oktatási intézményben, továbbá pedagógiai szakszolgálati intézményben pedagógus és – a b) pont kivételével – nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után a 8. melléklet I. pontja, az óvoda, egységes óvoda-bölcsőde esetében a 2. melléklet II. pont 1. és 5. alpontja szerint,
 - b) átlagbér alapú támogatást állapít meg a pedagógus-munkakörben foglalkoztatottak után a Magyarország területén külföldi állam vagy nemzetközi szervezet oktatási programja szerint az oktatásért felelős miniszter engedélye alapján működő nevelési-oktatási intézmény Magyarországon nyilvántartásba vett fenntartója számára a 8. melléklet I. pontja szerint, az óvoda esetében a 2. melléklet II. pont 1. alpontja szerint,
 - c) működési támogatást állapít meg a nemzetiségi önkormányzat vagy az egyházi jogi személy által fenntartott nevelési-oktatási intézményekben és pedagógiai szakszolgálati intézményekben ellátott, gyógypedagógiai tanácsadásban, korai fejlesztésben, oktatásban és gondozásban, valamint a fejlesztő nevelésben részt vevő gyermekekre, tanulókra tekintettel a nemzetiségi önkormányzat és a bevett egyház részére a 8. melléklet II. pontja szerint,
 - d) tankönyvtámogatást állapít meg a köznevelési intézményt fenntartó nemzetiségi önkormányzat, továbbá az egyházi és magán köznevelési intézmény fenntartója részére a 8. melléklet III. pontja szerint,
 - e) a hit- és erkölcstan oktatáshoz kapcsolódóan
   - ea) tankönyvtámogatást és
   - eb) átlagbéralapú támogatást állapít meg a bevett egyház által az állami iskolában szervezett oktatáshoz a 8. melléklet IV. pontja szerint,
-- f) a gyermek-, tanulói étkeztetéshez az óvodai, egységes óvoda-bölcsődei, általános iskolai, középfokú iskolai, kollégiumi étkeztetés támogatására a köznevelési intézményt fenntartó nemzetiségi önkormányzat, továbbá az egyházi és magán köznevelési intézmény fenntartója részére az általa biztosított gyermek-, tanulóétkeztetéshez a 2. melléklet III. pont 5. alpont a) alpontjában meghatározott támogatással azonos összegű és azonos feltételek mellett nyújtott támogatást állapít meg.
+- f) a gyermek-, tanulói étkeztetéshez az óvodai, egységes óvoda-bölcsődei, általános iskolai, középfokú iskolai, kollégiumi étkeztetés támogatására a köznevelési intézményt fenntartó nemzetiségi önkormányzat, továbbá az egyházi és magán köznevelési intézmény fenntartója részére az általa biztosított gyermek-, tanulóétkeztetéshez a 2. melléklet III. pont 5. alpont a) alpontjában meghatározott támogatással azonos összegű és azonos feltételek mellett nyújtott támogatást, továbbá a 8. melléklet IV/A. pontja szerinti kiegészítő támogatást állapít meg.
 
 (2) Az oktatásért felelős miniszter a kislétszámú csoportokban szervezhető hit- és erkölcstan oktatáshoz az általa vezetett minisztérium költségvetési fejezetébe tartozó előirányzat terhére további támogatást nyújthat.
 
@@ -561,6 +562,10 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 59. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap a 2015. évben 38 650 forint.
 
+(1a) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 159. §-a szerinti rendvédelmi illetményalap 2015. július 1-jétől 38 650 forint.
+
+(1b) A honvédek jogállásáról szóló 2012. évi CCV. törvény 2. § 12a. pontja szerinti honvédelmi illetményalap 2015. július 1-jétől 38 650 forint.
+
 (2) A költségvetési szervek által foglalkoztatottak éves cafetéria-juttatásának kerete, illetve cafetéria-juttatást nem nyújtó költségvetési szervek esetében az egy foglalkoztatottnak éves szinten – az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvényre is figyelemmel, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában és (3) bekezdésében meghatározott juttatások – az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterheket is magában foglaló együttes összege a 2015. évben nem haladhatja meg a bruttó 200 000 forintot.
 
 (3) A fizetési számlához kapcsolódóan törvény alapján az egy foglalkoztatottnak havonta adható bankszámla-hozzájárulás mértéke a 2015. évben legfeljebb 1000 forint.
@@ -691,6 +696,8 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 (2) Az Országgyűlés jóváhagyja, hogy a Nemzeti Munkaügyi Hivatalnak a már megszűnt Oktatásért Közalapítványhoz kapcsolódó, a Nemzeti Foglalkoztatási Alap jogelődjének, a Munkaerőpiaci Alap képzési alaprész terhére nyújtott követelése törlésre kerüljön.
 
+(3) Az állam legkésőbb 2015. június 30-ai hatállyal ellenérték nélkül átvállalja a Budapesti Közlekedési Zártkörűen Működő Részvénytársaság (a továbbiakban: BKV Zrt.) legfeljebb 52 290,0 millió forint tőkeösszegű, a Gst. 3. § (1) bekezdés a) pontja szerinti adósságelemeinek az átvállalás időpontjában fennálló összegét és azok járulékait. Az átvállalás nem érinti az átvállalásra kerülő adósságelemek alapján fennálló, fizetési jogokon és kötelezettségeken kívüli egyéb jogokat és kötelezettségeket. A BKV Zrt.-t e tartozásátvállalás tekintetében nem terheli illetékkötelezettség. Az államot az átvállalás során az államháztartásért felelős miniszter képviseli. Az államháztartásért felelős miniszter az Államadósság Kezelő Központ Zrt. útján az e bekezdés szerinti adósság átvállalásáról legkésőbb 2015. június 30-áig megállapodást köt az átvállalással érintett BKV Zrt.-vel és annak hitelezőivel.
+
 75. § Az Országgyűlés elengedi a Budapest Főváros Önkormányzatának az állammal szemben fennálló, a Magyar Köztársaság 2013. évi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklete IX. Helyi önkormányzatok támogatásai fejezet, 29. Pannon Park projekt előkészítése címen kapott támogatás jogtalan igénybevételéhez kapcsolódó igénybevételi és késedelmi kamatfizetési kötelezettségét.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
@@ -711,9 +718,11 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 77. § Ez a törvény 2015. január 1-jén lép hatályba, és 2018. december 31-én hatályát veszti.
 
+78. § A 2. melléklet Kiegészítő szabályok 5. pont i) alpontjának a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény módosításáról szóló 2015. évi LXXIII. törvény 10. § m) és n) pontjával és 2. melléklet 3. pontjával megállapított rendelkezéseit 2015. január 1-jétől kell alkalmazni.
+
 ### 1. melléklet a 2014. évi C. törvényhez
 
-4K25605.pdf
+5K08015M.pdf
 
 ### 2. melléklet a 2014. évi C. törvényhez
 
@@ -779,7 +788,7 @@ FAJLAGOS ÖSSZEG: 22 300 forint/hektár
 
 A támogatás a települési önkormányzatokat a zöldterületek, és az azokhoz kapcsolódó építmények kialakításához és fenntartásához kapcsolódóan a belterület nagysága alapján illeti meg. Budapest Főváros Önkormányzata e jogcímen 550 millió forint támogatásra jogosult.
 
-A belterületre vonatkozóan a Földmérési és Távérzékelési Intézet által a Magyar Közigazgatási Határadatbázisban (a továbbiakban: FÖMI határadatbázis) nyilvántartott 2013. december 31-ei állapotnak megfelelő adatokat kell figyelembe venni.
+A belterületre vonatkozóan a Földmérési és Távérzékelési Intézet által az ingatlan-nyilvántartási adatbázisból (a továbbiakban: FÖMI adatbázis) rendelkezésre bocsátott, 2014. augusztus 31-én hatályos területi összesítőben szereplő adatokat kell figyelembe venni.
 
 bb) Közvilágítás fenntartásának támogatása
 
@@ -1046,7 +1055,7 @@ Vk1; Vk2 = vezetői órakedvezmény miatti pedagógus többletlétszám a 2014/2
 
 Op1; Op2 = a Nkt. 61. § (3) bekezdése alapján az intézmény alapító okirata szerint 500 fő férőhelyet elérő vagy azt meghaladó intézményeknél kötelezően alkalmazandó óvodapszichológusok létszáma a 2014/2015., illetve a 2015/2016. nevelési évben (egy tizedesre kerekítve).
 
-A támogatás igénylése szempontjából az óvodapedagógusok nevelő munkáját közvetlenül segítők száma a Nkt. 2. melléklete, valamint a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető – a Kjt. alapján foglalkoztatott – létszám, de legfeljebb
+A támogatás igénylése szempontjából az óvodapedagógusok nevelő munkáját közvetlenül segítők száma – beleértve a pedagógus szakképzettséggel rendelkező óvodapedagógusok nevelő munkáját segítőket is – az Nkt. 2. melléklete, valamint a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető – a Kjt. alapján foglalkoztatott – létszám, de legfeljebb
 
 - 2015. év első 8 hónapjában a ténylegesen foglalkoztatott segítők átlagos száma,
 
@@ -1074,15 +1083,17 @@ Ts1 = S1 * ÁBs * 8/12
 
 Tp2 = Psz2 * ÁBp * 4/12
 
-Ts2 = S2 * ÁBs * 4/12
+Ts2 = S2*ÁBs*4/12+S3*ÁBp*4/12
 
 ahol:
 
-Tp1;Tp2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok átlagbér alapú támogatása,
+Tp1; Tp2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok átlagbér alapú támogatása,
 
 Ts1, Ts2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok nevelő munkáját közvetlenül segítők átlagbér alapú támogatása,
 
 S1; S2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok nevelő munkáját közvetlenül segítők b) alpont szerinti száma,
+
+S3= a 2015/2016. nevelési évben a pedagógus szakképzettséggel rendelkező, az óvodapedagógusok nevelő munkáját közvetlenül segítők száma.
 
 ÁBp = óvodapedagógus átlagbér elismert összege,
 
@@ -1122,18 +1133,18 @@ A központi költségvetés hozzájárulást biztosít a települési önkormán
 
 5. Kiegészítő támogatás az óvodapedagógusok minősítéséből adódó többletkiadásokhoz
 
-| ELŐIRÁNYZAT: | 2 360,4 millió forint |
-| --- | --- |
+| ELŐIRÁNYZAT: | 2 360,4 millió forint |  |
+| --- | --- | --- |
+|  |  |  |
+| ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK |  |  |
+| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 352 000 forint/fő/11 hónap |
+| - MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 1 286 000 forint/fő/11 hónap |
+|  |  |  |
+| MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK |  |  |
+| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 386 000 forint/fő/11 hónap |
+| - MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 1 415 000 forint/fő/11 hónap |
 
-| ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK |  |
-| --- | --- |
-| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: | 352 000 forint/fő/11 hónap |
-| - MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: | 1 286 000 forint/fő/11 hónap |
-| MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK |  |
-| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: | 386 000 forint/fő/11 hónap |
-| - MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: | 1 415 000 forint/fő/11 hónap |
-
-A központi költségvetés kiegészítő támogatást biztosít a Nkt. 64.§-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során a Pedagógus II. vagy Mesterpedagógus fokozatot elért óvodapedagógusok béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2015. január 1-jén foglalkoztatott, 2014. december 31-éig minősítést elnyert pedagógusok száma alapján illeti meg. A minősítést elnyert pedagógusok fenntartónkénti adatait a Köznevelési Információs Rendszer adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert pedagógusok számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
+A központi költségvetés kiegészítő támogatást biztosít az Nkt. 64.§-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során a Pedagógus II. vagy Mesterpedagógus fokozatot elért óvodapedagógusok béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2014. december 31-éig minősítést szerzett, 2015. január 1-je és 2015. december 31-e között ténylegesen foglalkoztatott pedagógusok időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg. A minősítést szerzett pedagógusok fenntartónkénti adatait a Köznevelési Információs Rendszer adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert pedagógusok számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
 
 A támogatás folyósítása január hónaptól havonta egyenlő részletekben, az Ávr.-ben meghatározott időpontokban történik.
 
@@ -1475,7 +1486,7 @@ Az intézmény-üzemeltetési támogatás önkormányzatonkénti meghatározás�
 
 5. Gyermekétkeztetés támogatása
 
-| ELŐIRÁNYZAT: | 58 000,0 millió forint |
+| ELŐIRÁNYZAT: | 61 080,0 millió forint |
 | --- | --- |
 
 A települési önkormányzatokat kötött felhasználású támogatás illeti meg az általuk a bölcsődében, a fogyatékos személyek nappali intézményében elhelyezett gyermekek számára biztosított, továbbá az óvodai, iskolai, kollégiumi és externátusi gyermekétkeztetés egyes kiadásaihoz.
@@ -1563,7 +1574,7 @@ A gyermekétkeztetés üzemeltetési támogatásának összege nem haladhatja me
 
 A gyermekétkeztetés üzemeltetési támogatásának megállapításához szükséges adatszolgáltatás rendjét a Kiegészítő szabályok 2.a) alpontja, tartalmát az államháztartásért felelős miniszter által kiadott útmutató rögzíti, amelyet az elszámolás során is figyelembe kell venni.
 
-A gyermekétkeztetés üzemeltetési támogatásának önkormányzatonkénti meghatározásáról és annak összegéről – az önkormányzati adatszolgáltatás alapján, a települések típusát és az egy lakosra jutó adóerő-képességét is figyelembe véve – a miniszterek 2015. január 5-éig döntenek. A Kiegészítő szabályok 2.b) alpontja szerinti májusi adatszolgáltatás alapján a miniszterek döntésüket módosíthatják.
+A gyermekétkeztetés üzemeltetési támogatásának önkormányzatonkénti meghatározásáról és annak összegéről – az önkormányzati adatszolgáltatás alapján, a települések típusát és az egy lakosra jutó adóerő-képességét is figyelembe véve – a miniszterek 2015. január 5-éig döntenek. A Kiegészítő szabályok 2.b) alpontja szerinti májusi és októberi adatszolgáltatás alapján a miniszterek döntésüket módosíthatják.
 
 6. Szociális ágazati pótlék
 
@@ -1943,7 +1954,7 @@ A települési önkormányzatot a következő sorrend szerint az e melléklet I.
 
 Amennyiben a település közös hivatal székhelye, a rá irányadó %-os támogatáscsökkentés a 3-12. kategóriákban 10 százalékponttal kisebb.
 
-A számított bevétel számítása során az iparűzési adóalap a fővárosi és a kerületi önkormányzatok között a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló 2006. évi CXXXIII. törvény 3. §-a, illetve a törvény melléklete szerint kerül megosztásra. Az adóerő-képesség figyelembe vételére vonatkozó szabályokat a Kiegészítő szabályok 1.c) alpontja tartalmazza. Budapest Főváros lakosságszámaként az egy főre jutó adóerő-képesség számításakor a fővárosi kerületek együttes lakosságszámát kell figyelembe venni.
+A számított bevétel számítása során az iparűzési adóalap a fővárosi és a kerületi önkormányzatok között a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló 2006. évi CXXXIII. törvény 2014. december 31-én hatályos 3. §-a, illetve a törvény melléklete szerint kerül megosztásra. Az adóerő-képesség figyelembe vételére vonatkozó szabályokat a Kiegészítő szabályok 1.c) alpontja tartalmazza. Budapest Főváros lakosságszámaként az egy főre jutó adóerő-képesség számításakor a fővárosi kerületek együttes lakosságszámát kell figyelembe venni.
 
 Kiegészítő szabályok:
 
@@ -1984,8 +1995,8 @@ b) Támogatások évközi módosítása
 
 | No. | Adatszolgáltatás időpontja | Támogatás jogcíme | Adatszolgáltatás alapja | Finanszírozás kezdő hónapja |
 | --- | --- | --- | --- | --- |
-| 1. | 2015. május 15. | I.2., II.1., II.2., II.3., III.3., III.4., III.5. | a nem közművel összegyűjtött háztartási szennyvíz becsült évi mennyisége (m3) módosítható; az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint a szociális jogcímek esetében a becsült éves ellátotti adatok módosíthatók; a III.4. és III.5. jogcímnél a becsült éves ellátotti adatok, és az üzemeltetési támogatás megállapításához a 2015. évi feladatellátás becsült adatai módosíthatók | I.2. esetében 2015. szeptember; II.1., II.2., II.3., III.3., III.4.a) és III.5.a) esetében 2015. július; III.4.b) és III.5.b) esetében 2015. augusztus |
-| 2. | 2015. október 1. | I.2., II.1., II.2., II.3., III.3., III.4.a), III.5.a) | a nem közművel összegyűjtött háztartási szennyvíz becsült évi mennyisége (m3) módosítható; az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális és gyermekétkeztetési jogcímek esetében a becsült éves ellátotti adatok módosíthatók | 2015. december |
+| 1. | 2015. május 15. | I.2., II.1., II.2., II.3., II.5., III.3., III.4., III.5. | a nem közművel összegyűjtött háztartási szennyvíz becsült évi mennyisége (m3) módosítható; az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint a szociális jogcímek esetében a becsült éves ellátotti adatok módosíthatók; a III.4. és III.5. jogcímnél a becsült éves ellátotti adatok, és az üzemeltetési támogatás megállapításához a 2015. évi feladatellátás becsült adatai módosíthatók | I.2. esetében 2015. szeptember; II.1., II.2., II.3., II. 5., III.3., III.4.a) és III.5.a) esetében 2015. július; III.4.b) és III.5.b) esetében 2015. augusztus |
+| 2. | 2015. október 1. | I.2., II.1., II.2., II.3., II.5., III.3., III.4.a), III.5. | a nem közművel összegyűjtött háztartási szennyvíz becsült évi mennyisége (m3) módosítható; az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális és gyermekétkeztetési jogcímek esetében a becsült éves ellátotti adatok, és az üzemeltetési támogatás megállapításához a 2015. évi feladatellátás becsült adatai módosíthatók | 2015. december |
 
 c) A települési önkormányzatok egymás közötti, illetve települési önkormányzaton kívüli (a továbbiakban: körön kívüli) szervezetnek történő feladat-, illetve intézmény átadás-átvétele
 
@@ -2083,7 +2094,7 @@ d) Az I.1. pont szerinti támogatás, valamint a 2014. évi költségvetési tö
 
 e) Amennyiben az OSAP I.1.bb)-bd) alpont szerinti támogatást megalapozó adatok magasabbak, mint az ezen időpont szerinti tényleges adatok, úgy az OSAP adatszolgáltatás – 2015. június 30-áig történő – javítása alapján az I.1. bb)-bd) alpontokhoz kapcsolódó támogatásokban történő változások finanszírozása augusztus hónaptól történik.
 
-f) Az I.1.b) alpont szerinti támogatások megállapításakor a kiválással érintett önkormányzatnak a FÖMI határadatbázis I.1.ba) alpont szerinti és az OSAP I.1.bb)-bd) alpont szerinti adatait lakosságarányosan meg kell osztani a 2014. évben megalakult önkormányzattal.
+f) Az I.1.b) alpont szerinti támogatások megállapításakor a kiválással érintett önkormányzatnak a FÖMI adatbázis I.1.ba) alpont szerinti és az OSAP I.1.bb)-bd) alpont szerinti adatait lakosságarányosan meg kell osztani a 2014. évben megalakult önkormányzattal.
 
 g) Az I.1.e) alpont szerinti támogatás megállapításakor a kiválással érintett önkormányzat 2013. évi idegenforgalmi adóbevételének tényadatát lakosságarányosan meg kell osztani a 2014. évben megalakult önkormányzattal.
 
@@ -2139,7 +2150,7 @@ b) A Nkt. szerint létrehozott óvoda-bölcsőde többcélú intézmény esetéb
 
 c) A II. pont szerinti támogatásokra vonatkozó felhasználási szabályok
 
-A II.1.-II.3. és II.5. pontok szerinti támogatások kizárólag a támogatással érintett óvodaintézmények működési és felhalmozási kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A támogatás szempontjából kizárólag a „Óvodai nevelés, ellátás szakmai feladatai”, a „Sajátos nevelési igényű gyermekek óvodai nevelésének, ellátásának szakmai feladatai”, a „Nemzetiségi óvodai nevelés, ellátás szakmai feladatai”, az „Óvodai nevelés, ellátás működtetési feladatai”, valamint a „Gyermekétkeztetés” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
+A II.1.-II.3. és II.5. pontok szerinti támogatások kizárólag a támogatással érintett óvodaintézmények működési és felhalmozási kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A támogatás szempontjából kizárólag a „Óvodai nevelés, ellátás szakmai feladatai”, a „Sajátos nevelési igényű gyermekek óvodai nevelésének, ellátásának szakmai feladatai”, a „Nemzetiségi óvodai nevelés, ellátás szakmai feladatai”, az „Óvodai nevelés, ellátás működtetési feladatai”, valamint a „Gyermekétkeztetés köznevelési intézményben” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 5. A III. pont szerinti támogatásra vonatkozó speciális kiegészítő szabályok
 
@@ -2185,7 +2196,7 @@ Amennyiben a III.3. és III.4. pontok szerinti szolgáltatás, intézmény nem e
 
 i) A szociális, gyermekjóléti és gyermekvédelmi szolgáltatások egyidejű igénybevételére vonatkozó szabályok:
 
-ia) Ha az ellátott ugyanazon a napon több szolgáltatótól, intézménytől, hálózattól, illetve székhelytől, telephelytől (a továbbiakban együtt: engedélyes) is ugyanabban – a III.3. b)-d) és f)-k) pontjai szerint támogatott és a Szoctv. 20/C. § (2) bekezdésének és a Gyvt. 139. § (3) bekezdésének hatálya alá nem tartozó (e melléklet alkalmazása során a továbbiakban: adatszolgáltatási kötelezettséggel járó és támogatott) – a szociális vagy gyermekjóléti szolgáltatásban részesül, a támogatás szempontjából az adott napon ellátottként csak annál az engedélyesnél vehető figyelembe, amelyik az ellátottról előbb teljesítette a g) alpont szerinti időszakos jelentést.
+ia) Ha az ellátott ugyanazon a napon több szolgáltatótól, intézménytől, hálózattól, illetve székhelytől, telephelytől (a továbbiakban együtt: engedélyes) is ugyanabban – a III. pont 3. alpont c), d) és f)–k) pontja szerint támogatott és a Szoctv. 20/C. § (2) bekezdésének és a Gyvt. 139. § (3) bekezdésének hatálya alá nem tartozó (e melléklet alkalmazása során a továbbiakban: adatszolgáltatási kötelezettséggel járó és támogatott) – a szociális vagy gyermekjóléti szolgáltatásban részesül, a támogatás szempontjából az adott napon ellátottként csak annál az engedélyesnél vehető figyelembe, amelyik az ellátottról előbb teljesítette a g) alpont szerinti időszakos jelentést.
 
 ib) Az ia) alpont szerinti rendelkezést kell alkalmazni akkor is, ha az ellátott ugyanazon a napon több, adatszolgáltatási kötelezettséggel járó és támogatott gyermekek átmeneti gondozásába tartozó ellátásban részesül.
 
@@ -2207,7 +2218,7 @@ is részesül.
 
 ie) Házi segítségnyújtás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen nappali ellátásban is részesül.
 
-if) Adatszolgáltatási kötelezettséggel járó és támogatott szociális alapszolgáltatás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen adatszolgáltatási kötelezettséggel járó és támogatott gyermekjóléti alapellátásban, gyermekvédelmi szakellátásban vagy szociális szakosított ellátásban is részesül, az ig) alpontban foglalt kivételekkel.
+if) Adatszolgáltatási kötelezettséggel járó és támogatott szociális alapszolgáltatás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen adatszolgáltatási kötelezettséggel járó és támogatott gyermekjóléti alapellátásban, gyermekvédelmi szakellátásban vagy szociális szakosított ellátásban is részesül, az ig) alpontban és az io)–is) alpontban meghatározott kivételekkel.
 
 ig) Hajléktalan személyek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon éjjeli menedékhelyen vagy hajléktalan személyek átmeneti szállásán bentlakásos szociális intézményi ellátásban is részesül.
 
@@ -2224,6 +2235,16 @@ il) Adatszolgáltatási kötelezettséggel járó és támogatott gyermekjólét
 im) Bölcsődei ellátás és családi napközi ellátás esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon otthont nyújtó ellátásban is részesül.
 
 in) Ugyanarra a napra ugyanazon ellátott a támogatás szempontjából nem vehető figyelembe több, adatszolgáltatási kötelezettséggel járó és támogatott szociális szakosított ellátás esetén.
+
+io) Szociális étkeztetés esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon éjjeli menedékhelyen vagy hajléktalan személyek átmeneti szállásán bentlakásos szociális intézményi ellátásban vagy családok átmeneti otthonában átmeneti gondozásban is részesül.
+
+ip) Időskorúak nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
+
+iq) Fogyatékos személyek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon fogyatékos személyek rehabilitációs célú lakóotthonában vagy éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
+
+ir) Pszichiátriai betegek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon pszichiátriai betegek rehabilitációs célú lakóotthonában vagy éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
+
+is) Szenvedélybetegek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon szenvedélybetegek rehabilitációs célú lakóotthonában vagy éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
 
 j) A III.3.ja) alpont esetében
 
@@ -2270,9 +2291,9 @@ ob) a III.2. pont szerinti támogatás a III.1. pontban szereplő ellátások ö
 
 oc) a III.3.a)-k) alpontok között átcsoportosítás hajtható végre. A támogatás szempontjából kizárólag a „Családsegítés”, a „Gyermekjóléti szolgáltatások”, a „Szociális étkeztetés”, a „Házi segítségnyújtás”, a „Falugondnoki, tanyagondnoki szolgáltatás”, az „Idősek, demens betegek nappali ellátása”, a „Fogyatékossággal élők nappali ellátása”, a „Pszichiátriai betegek nappali ellátása”, a „Szenvedélybetegek nappali ellátása”, a „Hajléktalanok nappali ellátása”, a „Gyermekek napközbeni ellátása”, a „Hajléktalanok átmeneti ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
-od) a III.4. pont szerinti támogatás a támogatással érintett intézmények szakmai dolgozóinak béreire, valamint a III.4.b) alpont szerinti útmutatóban szereplő működési és felújítási kiadásokra fordítható, azzal, hogy a III.4.a) és III.4.b) alpontok között átcsoportosítás hajtható végre. E támogatást az önkormányzat a családok átmeneti otthonából év közben kikerülők otthontalanságának megszüntetéséhez is felhasználhatja. A támogatás szempontjából kizárólag a „Gyermekek átmeneti ellátása”, az „Időskorúak, demens betegek tartós bentlakásos ellátása”, „Hajléktalanok tartós bentlakásos ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
+od) a III.4. pont szerinti támogatás a támogatással érintett intézmények működési és felhalmozási kiadásaira fordítható, azzal, hogy a III.4.a) és III.4.b) alpontok között átcsoportosítás hajtható végre. E támogatást az önkormányzat a családok átmeneti otthonából év közben kikerülők otthontalanságának megszüntetéséhez is felhasználhatja. A támogatás szempontjából kizárólag a „Gyermekek átmeneti ellátása”, az „Időskorúak, demens betegek átmeneti ellátása”, az „Időskorúak, demens betegek tartós bentlakásos ellátása”, „Hajléktalanok tartós bentlakásos ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
-oe) a III.5. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre, ideértve a felhalmozási jellegű kiadásokat is) számolható el, azzal, hogy a III.5.a) és III.5.b) alpontok szerinti támogatások egymás között átcsoportosíthatók. A támogatás szempontjából kizárólag a „Gyermekétkeztetés” kormányzati funkción elszámolt kiadások vehetők figyelembe.
+oe) a III.5. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre, ideértve a felhalmozási jellegű kiadásokat is) számolható el, azzal, hogy a III.5.a) és III.5.b) alpontok szerinti támogatások egymás között átcsoportosíthatók. A támogatás szempontjából kizárólag a „Gyermekétkeztetés köznevelési intézményben” és a „Gyermekétkeztetés bölcsődében, fogyatékosok nappali intézményében” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 of) a III.6. pont szerinti támogatást a települési önkormányzat kizárólag a 2015. évi január-december hónapokban kifizetendő ágazati pótlékra és annak közterheire használhatja fel.
 
@@ -2559,7 +2580,7 @@ Magyarország európai uniós derogációs kötelezettségének határidőben t�
 
 A támogatásról a helyi önkormányzatokért felelős miniszter dönt. A döntés a fejlesztés teljes időszakára - előre ütemezetten - történik.
 
-A nagy költségigényű ivóvíz- és szennyvízberuházásokra előleg nyújtható, melynek felhasználási határideje a tárgyévet követő év december 31-e.
+Az ivóvízminőség-javításra, szennyvízelvezetésre és hulladékgazdálkodásra irányuló beruházásokra előleg nyújtható, melynek felhasználási határideje a tárgyévet követő év december 31-e.
 
 A vissza nem térítendő támogatás folyósítására a pályázóval kötött támogatási szerződésben foglaltak szerint teljesítésarányosan kerül sor.
 
@@ -2739,9 +2760,42 @@ A támogatással létrehozott ingatlanvagyon a beruházás megvalósításától
 
 A támogatásról tárcaközi bizottság javaslata alapján az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
 
+10. Adósságkonszolidációban nem részesült települési önkormányzatok fejlesztéseinek támogatása
+
+| Előirányzat: |  |  | 9700,0 millió forint |
+| --- | --- | --- | --- |
+
+Az előirányzatból a 2012. évi költségvetési törvény 76/C. §-a szerinti, a 2013. évi költségvetési törvény 72–74/A. §-a és a 2014. évi költségvetési törvény 67-68. §-a szerinti önkormányzati adósságátvállalásban részt nem vett vagy törlesztési célú támogatásban nem részesült települési önkormányzat pályázati úton támogatást igényelhet a tulajdonában lévő
+
+a) a település belterületén út, híd vagy járda építésére, felújítására, karbantartására,
+
+b) vízrendezési és csapadékelvezetési rendszer kiépítésére, felújítására,
+
+c) köztemető felújítására, ravatalozó építésére, illetve felújítására, temetőközlekedési utak építésére, felújítására,
+
+d) olyan épület felújítására, fejlesztésére, energetikai korszerűsítésére, amely
+
+da) igazgatási tevékenységet,
+
+db) óvodai nevelést,
+
+dc) kulturális tevékenységet vagy
+
+dd) szociális vagy egészségügyi feladatellátást
+
+szolgál,
+
+e) településrendezési tervek készítésére, valamint
+
+f) munkahelyteremtési programok megvalósítására.
+
+A támogatással létrehozott ingatlanvagyon a beruházás megvalósításától számított tíz évig nem idegeníthető el.
+
+A támogatásról tárcaközi bizottság javaslata alapján a helyi önkormányzatokért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
+
 III. Önkormányzati fejezeti tartalék
 
-| Előirányzat: | 38 173,7 millió forint |
+| Előirányzat: | 32 173,7 millió forint |
 | --- | --- |
 
 1. Az önkormányzati fejezeti tartalék előirányzatot növeli
@@ -2750,7 +2804,7 @@ a) az intézményátadásból felszabaduló olyan összeg, amely nem illeti meg 
 
 b) a költségvetési évet megelőző évi elszámolás alapján a helyi önkormányzatok által költségvetési évben visszafizetett támogatások összege,
 
-c) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
+c) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok, helyi nemzetiségi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
 
 d) a helyi önkormányzatok által költségvetési évben megfizetett igénybevételi, kiegészítő és késedelmi kamat összege,
 
@@ -2764,7 +2818,7 @@ f) a helyi önkormányzatok által az államháztartásról szóló törvény 83
 
 a) a támogatások költségvetési évet megelőző évi elszámolása alapján a helyi önkormányzatok részéről a költségvetési évben keletkező pótigény összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
+b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat, helyi nemzetiségi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
 
 c) az államháztartásról szóló jogszabályok alapján költségvetési évben a helyi önkormányzatokat megillető igénybevételi, késedelmi és kiegészítő kamat összege,
 
@@ -2806,7 +2860,7 @@ A támogatások felhasználásának részletes szabályairól az érintett önko
 
 - az a) pont szerinti támogatás esetében a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter a helyi önkormányzatokért felelős miniszterrel egyetértésben,
 
-- a b)-e) pontok szerinti támogatások esetében a helyi önkormányzatokért felelős miniszter,
+- a b–e) pontok szerinti támogatások esetében a helyi önkormányzatokért felelős miniszter,
 
 - az f) pont szerinti támogatás esetében a turizmusért felelős miniszter a helyi önkormányzatokért felelős miniszterrel egyetértésben,
 
@@ -2818,9 +2872,9 @@ A támogatások felhasználásának részletes szabályairól az érintett önko
 
 köt támogatási szerződést.
 
-A támogatás 50%-ának (a továbbiakban: előleg) folyósítása – a g)-i) pontok kivételével – a szerződéskötést követő 30 napon belül történik. A további részletek 2015. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleggel legkésőbb 2015. november 30-áig elszámol. A további részletek folyósítására ez esetben a szerződésben rögzítettek szerint, de legkésőbb 2015. december 31-éig kerülhet sor. A támogatások felhasználási határideje – ideértve az előleget is – 2016. december 31.
+A támogatás 50%-ának (a továbbiakban: előleg) folyósítása – a g–i) pontok kivételével – a szerződéskötést követő 30 napon belül történik. A további részletek 2015. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb 2015. november 30-áig elszámol. A további részletek folyósítására ez esetben a szerződésben rögzítettek szerint, de legkésőbb 2015. december 31-éig kerülhet sor. A támogatás felhasználási határideje – ideértve a 2015. november 30-áig el nem számolt előleget is – 2016. december 31.
 
-A g)-i) pontok szerinti támogatások teljes összegének folyósítása a szerződéskötést követő 30 napon belül történik, felhasználási határideje 2015. december 31.
+A g)–i) pontok szerinti támogatások teljes összegének folyósítása a szerződéskötést követő 30 napon belül történik, felhasználási határideje 2015. december 31.
 
 6. A tartalék előirányzat szolgál a tartósan fizetésképtelen helyzetbe került helyi önkormányzatok adósságrendezésére irányuló hitelfelvétel visszterhes kamattámogatására, és a pénzügyi gondnok díjára.
 
@@ -2845,7 +2899,7 @@ Kiegészítő szabályok:
 
 a) az I.1. pont szerinti jogcím esetében a vízgazdálkodásért felelős miniszter az államháztartásért felelős miniszter és a szociálpolitikáért felelős miniszter egyetértésével,
 
-b) az I.2. és I.9. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter egyetértésével,
+b) az I. 2., I. 9. és II. 10. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter egyetértésével,
 
 c) az I.3. pont szerinti jogcím esetében a gyermekek és az ifjúság védelméért felelős miniszter a helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter egyetértésével,
 
@@ -2985,6 +3039,7 @@ A központi alrendszer azon előirányzatai, melyek teljesülése módosítás n
 | 98 |  |  |  | Jogerősen megállapított kártérítések célelőirányzata (3. cím, 4. alcím) |
 | 99 |  |  | XI. MINISZTERELNÖKSÉG fejezetben |  |
 | 100 |  |  |  | Fővárosi és megyei kormányhivatalok peres ügyei (30. cím, 5. alcím) |
+| 100a |  |  |  | Az Erste Bank Hungary Zrt. tulajdonosi részesedésének megszerzése (35. cím, 2. alcím, 1. jogcímcsoport, 4. jogcím) |
 | 101 |  |  | XII. FÖLDMŰVELÉSÜGYI MINISZTÉRIUM fejezetben |  |
 | 102 |  |  |  | Peres ügyek (20. cím, 13. alcím) |
 | 103 |  |  | XIII. HONVÉDELMI MINISZTÉRIUM fejezetben |  |
@@ -3208,9 +3263,9 @@ am) köznevelési intézményben működő utazó gyógypedagógusi hálózatra 
 
 pótlólagosan elismert összeg a 2015/2016. tanítási évre 40 800 forint/számított létszám/3 hónap.
 
-b) A nevelő-oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 2 190 700 forint/számított létszám/év.
+b) A nevelő-oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 2 190 700 forint/számított létszám/év. 2015. szeptember 1-jétől a pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottakat az a) pont szerint kell figyelembe venni.
 
-c) Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók köznevelési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, valamint a nevelő-oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege a 2015/2016. tanítási évre – 2015. szeptember 1-jétől – az a) és b) alpontban meghatározottak 30%-a a köznevelést alapfeladatként végző, a társasági adóról és osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot –, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó vállalkozó esetén.
+c) Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók köznevelési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, valamint a nevelő-oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege a 2015/2016. tanítási évre – 2015. szeptember 1-jétől – az a) b) és d) alpontban meghatározottak 30%-a a köznevelést alapfeladatként végző, a társasági adóról és osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot –, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó vállalkozó esetén.
 
 d) A minősítő vizsga és a minősítési eljárás keretében elnyert minősítés alapján a tárgyév első napján az Nkt. 64. § (4) bekezdés c) vagy d) pontja szerinti fokozatba besorolt, 2015. január 1-jén – 2015/2016-os tanévben 2015. október 1-jén – pedagógus-munkakörben foglalkoztatott pedagógusoknak az elnyert minősítéssel járó bérnövekmény és az ahhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó elismert összege
 
@@ -3393,6 +3448,12 @@ b) október-december hónapokra 344 000 forint/hónap,
 
 amely a főiskolai végzettségű Pedagógus I. kategóriába sorolt pedagógus bruttó átlagbérének és járulékának megfelelő összeg.
 
+IV/A. KIEGÉSZÍTŐ TÁMOGATÁS AZ ÓVODAI ELLÁTÁSBAN RÉSZESÜLŐ GYERMEKEK INGYENES ÉTKEZTETÉSÉHEZ
+
+A 42. § (1) bekezdés f) pontjában meghatározott fenntartót 2015. szeptember 1-jétől kiegészítő támogatás illeti meg az általa étkeztetett, óvodai ellátásban részesülő, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 151. § (5) bekezdés a) pontja szerint a gyermekétkeztetést ingyenesen igénybe vevő gyermekek után.
+
+A kiegészítő támogatás fajlagos összege 9 400 forint/fő/4 hónap, ami havonta egyenlő részletekben kerül folyósításra.
+
 V. KIEGÉSZÍTŐ SZABÁLYOK
 
 1. Az átlagbér alapú támogatás a személyi juttatások és az azokhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbér alapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakiskolák, szakközépiskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
@@ -3453,19 +3514,23 @@ b) Az átlagbér alapú támogatás, a működési támogatás és az e törvén
 
 ba) az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézményekben és pedagógiai szakszolgálati intézményekben kimutatott – a gyermek- és tanulóétkeztetést is figyelembe vevő – éves összesített működési és felújítási kiadást, valamint a fenntartók működtetéssel és intézményfenntartással kapcsolatos kiadásait csökkenteni kell
 
-baa) az Áht. 6. § (3) bekezdés b) és c) pontja szerinti, továbbá a közszolgáltatás ellátása során nyújtott ellenérték, az általános forgalmi adóból származó állami és települési önkormányzati, a köznevelési ágazatban realizált bevételekkel és
+baa) az Áht. 6. § (3) bekezdés b)–d) pontja szerinti állami és települési önkormányzati, a köznevelési ágazatban realizált bevételekkel és
 
 bab) az olyan költségvetési támogatás összegével, amelyhez a nemzetiségi önkormányzat és az egyházi jogi személy az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézménnyel, pedagógiai szakszolgálati intézménnyel azonos feltételek mellett hozzájuthat és
 
 bb) a ba) alpontban meghatározott számítás eredményének – az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézménybe vagy pedagógiai szakszolgálati intézménybe járó – egy gyermekre, tanulóra jutó összegéből az a) alpont szerinti elszámolást is figyelembe véve le kell vonni a kifizetett támogatások egy gyermekre, tanulóra jutó együttes összegét.
 
-17. Óvoda, egységes-óvoda esetén alkalmazni kell az I. pont 3. alpont c) alpontjában, valamint a Kiegészítő szabályok 2-3., 6-7., 12., 15-16. alpontban foglaltakat.
+17. Óvoda, egységes óvoda-bölcsőde esetén alkalmazni kell az I. pont 3. alpont c) alpontjában, valamint a Kiegészítő szabályok 2-3., 6-7., 12., 15-16. alpontban foglaltakat.
 
 18. A gyógypedagógiai nevelési-oktatási intézmény óvodája esetén az óvodás gyermekek létszámának meghatározásakor alkalmazni kell a 2. melléklet II. pont 1. alpont a) alpontjában leírtakat.
 
 19. Az I. pont 3. alpont d) alpont szerinti támogatás megállapításához az alkalmazottak és az óraadók személyes adatait tartalmazó köznevelés információs rendszere (KIR) személyi nyilvántartásának 2014. december 31-ei állapota szerint a KIR működtetéséért és adatkezeléséért felelős szerv 2015. január 6-ig megküldi a Magyar Államkincstár részére fenntartó székhelye szerinti megyei bontásban a minősítési eljárásban eredményesen végzett pedagógus oktatási azonosítóját, a minősítési eljárás eredménye szerinti fokozatát, végzettségét, köznevelési intézménye nevét, címét, OM azonosítóját, az intézményfenntartó nevét, típusát, székhelyének címét.
 
 A Magyar Államkincstár fenntartó székhelye szerinti illetékes igazgatósága a 42. § (1) bekezdés a) vagy b) pontja szerint támogatásban részesülő fenntartók számára havi ütemezésben – jogszabályban meghatározott fenntartói változásjelentéssel érintett utalásig e törvény alapján – folyósítja a támogatást, első alkalommal február 7-ig.
+
+20. Az I. pont 3. alpont d) pontja szerinti támogatás megállapításánál – a pedagógusok minősítési eljárása eredményeképpen – a magasabb fizetési fokozatba besorolt pedagógus létszámot közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatottak teljes munkaidőre átszámított létszáma szerint kell figyelembe venni.
+
+21. 2015. augusztus 31-ig az I. pont 3. alpont b) pontjában szereplő számított létszámon a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 4. mellékletében meghatározott finanszírozott létszámot kell érteni. A 2015. szeptember 1-jétől a pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak számított létszámán azok teljes munkaidőre átszámított létszámát kell érteni, továbbá az I. pont 3. alpont a) és b) pontja szerinti támogatásban elismert létszámának együttes összege egyezik meg a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 4. mellékletében meghatározott finanszírozott létszámmal. Ha a pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő foglalkoztatottnak a munkaköre több köznevelési alapfeladat ellátásához is kapcsolódik, az I. pont 3. alpont a) pontjának alpontjai közül azon a jogcímen kell figyelembe venni, ahol a legmagasabb az intézményben nevelt, oktatott gyermekek, tanulók létszáma.
 
 ### 9. melléklet a 2014. évi C. törvényhez
 
@@ -3663,17 +3728,19 @@ IV. Szociális ágazati pótlék
 
 A központi költségvetés támogatást biztosít a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet (a továbbiakban: Kjtvhr.) 15/A. §-a szerinti, 2015. január-december hónapokban kifizetendő ágazati pótlékhoz és annak közterheihez, ha a fenntartó
 
-a) a 43. § (1) bekezdés a)-c) pontja szerint támogatásban részesül, vagy
+a) a 43. § (1) bekezdés a)–c) pontja szerint támogatásban részesül, vagy
 
-b) a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló kormányrendelet alapján támogatásban részesül és érvényes támogatási szerződéssel rendelkezik arra az időszakra, amelyre támogatást igényel.
+b) a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló kormányrendelet alapján támogatásban részesül és érvényes támogatási szerződéssel rendelkezik arra az időszakra, amelyre támogatást igényel, vagy
+
+c) családsegítő szolgáltatás és/vagy gyermekjóléti szolgáltatás ellátására valamely települési önkormányzattal érvényes – a Szoctv. 120–122. §-a, illetve a Gyvt. 97. §-a szerinti – ellátási szerződéssel rendelkezik. A fenntartó a támogatásra 2015-ben az ellátási szerződés érvényességének időtartama alatt, 2015. január 1-jéig visszamenőleg fizetendő szociális ágazati pótlékra jogosult.
 
 A támogatás éves összegének meghatározása
 
-T= Plsz * Kjtvhr. 5 számú melléklete szerinti pótlék összege fizetési fokozatonként és fizetési osztályonként *1,27, de legfeljebb a kifizetett ágazati pótlék és annak a szociális hozzájárulási adója, ahol
+T= Plsz * Kjtvhr. 5. számú melléklete szerinti pótlék összege fizetési fokozatonként és fizetési osztályonként *12*1,27, de legfeljebb a kifizetett ágazati pótlék és annak a szociális hozzájárulási adója, ahol
 
 Plsz= az ágazati pótlékra jogosult foglalkoztatottak száma, amely a támogatás igénylésekor az ágazati pótlékra jogosult foglalkoztatottak éves becsült átlaglétszáma fizetési fokozatonként és fizetési osztályonként; a támogatás elszámolásakor a foglalkoztatottak éves tényleges átlaglétszáma fizetési fokozatonként és fizetési osztályonként.
 
-Az ágazati pótlék igénylésére, elszámolására és ellenőrzésére az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásáról szóló 489/2013. (XII. 18.) Korm. rendelet 1-5. §-át, 10. § (3) bekezdését, 11. §-át és 14-26. §-át kell alkalmazni.
+Az ágazati pótlék igénylésére, elszámolására és ellenőrzésére az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásáról szóló 489/2013. (XII. 18.) Korm. rendelet 1–5. §-át, 10. § (3) bekezdését, 11. §-át és 14–26. §-át kell alkalmazni.
 
 Kiegészítő rendelkezések:
 
@@ -3689,7 +3756,7 @@ Kiegészítő rendelkezések:
 
 6. Támogatási kérelem a tárgyév végéig az igénylési határidő elmulasztása esetén is benyújtható.
 
-7. A kincstár azon nem állami fenntartóknak, melyek részére a szociális, gyermekjóléti és gyermekvédelmi ágazati pótlék kifizetéséhez kapcsolódó támogatásról szóló 34/2014. (II. 18.) Korm. rendelet alapján 2014. december hónapban támogatást folyósít – külön igénylés nélkül –, azzal azonos összegű támogatási előleget biztosít havonta 2015. január és február hónapban. A folyósított előleg és a fenntartót ténylegesen megillető támogatás különbözetének rendezésére a március hónapban folyósítandó támogatás utalásával egyidejűleg kerül sor. A különbözet után kamat nem számítható fel.
+7. A kincstár azon nem állami fenntartóknak, melyek részére a szociális, gyermekjóléti és gyermekvédelmi ágazati pótlék kifizetéséhez kapcsolódó támogatásról szóló 34/2014. (II. 18.) Korm. rendelet alapján 2014. december hónapban támogatást folyósít - külön igénylés nélkül -, azzal azonos összegű támogatási előleget biztosít havonta 2015. január és február hónapban. A folyósított előleg és a fenntartót ténylegesen megillető támogatás különbözetének rendezésére a március hónapban folyósítandó támogatás utalásával egyidejűleg kerül sor. A különbözet után kamat nem számítható fel.
 
 8. A kincstár a támogatási kérelemről
 
@@ -3698,6 +3765,12 @@ a) a 7. pont szerint előlegre jogosult fenntartók esetében, ha kérelmüket h
 b) egyéb esetekben 21 napon belül
 
 dönt.
+
+V. A BÖLCSŐDEI ELLÁTÁSBAN RÉSZESÜLŐ GYERMEKEK INGYENES ÉTKEZTETÉSE
+
+A 43. § (1) bekezdésében meghatározott fenntartót 2015. szeptember 1-jétől kiegészítő támogatás illeti meg az általa étkeztetett, bölcsődei ellátásban részesülő, a Gyvt. 151. § (5) bekezdés a) pontja szerint a gyermekétkeztetést ingyenesen igénybe vevő gyermekek után.
+
+A kiegészítő támogatás fajlagos összege 9 400 forint/fő/4 hónap, ami havonta egyenlő részletekben kerül folyósításra.
 
 ### 10. melléklet a 2014. évi C. törvényhez
 

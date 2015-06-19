@@ -9,8 +9,10 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 1. § E törvény alkalmazásában
 
 - a) fejlesztés: olyan – alapvetően felhalmozási kiadásokban megtestesülő – tevékenység, amely új, vagy a korábbinál műszaki, technikai szempontból korszerűbb tárgyi eszközök létrehozására, vagy meglevő tárgyi eszközök műszaki, technikai paramétereinek javítására irányul,
-- b) kormányzati szektorba sorolt egyéb szervezet: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 2. § (1) bekezdés l) pontja szerinti szervezet,
-- c)
+- b) kormányzati szektorba sorolt egyéb szervezet: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 1. § 12. pontja szerinti szervezet,
+- c) kormányzati szektor egyenlege: az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló 2009. május 25-i 479/2009/EK tanácsi rendelet alapján számított egyenleg,
+- d) középtávú költségvetési cél: a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló 1997. július 7-i 1466/97/EK tanácsi rendelet szerint készített aktuális konvergencia programban meghatározott célérték, ami összhangban van a stabilitási és növekedési paktum követelményeivel,
+- e) strukturális egyenleg: a kormányzati szektor gazdaság ciklikus hatásaitól és egyedi tételektől megtisztított egyenlege.
 
 ### II. Fejezet — AZ ÁLLAMADÓSSÁG CSÖKKENTÉSE
 
@@ -37,13 +39,24 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 - f) a szerződésben kapott, legalább háromszázhatvanöt nap időtartamú halasztott fizetés, részletfizetés, és a még ki nem fizetett ellenérték,
 - g) hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
 
-(2) Az (1) bekezdés szerinti adósságot keletkeztető ügyletként nem kell figyelembe venni a költségvetési év első hat hónapjában lejáró adósság előző költségvetési évben történő előfinanszírozását, amelynek összege nem haladja meg a költségvetési év első hat hónapja során várható törlesztések összegét.
+(2)
 
 #### 2. Az adósságcsökkentés
 
-4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás adósságának a költségvetési év utolsó napjára – az Alaptörvény 36. cikk (4) és (5) bekezdésének megfelelően – tervezett értékét.
+3/A. § (1) A központi költségvetés tervezése során a kormányzati szektor egyenlegét az Alaptörvénnyel és az Európai Unió jogával összhangban, e törvény rendelkezéseinek megfelelően kell meghatározni.
 
-(2) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy annak alapján az államadósság megelőző évhez (a továbbiakban: viszonyítási év) viszonyított növekedési üteme ne haladja meg a központi költségvetésről szóló törvényben meghatározott, a költségvetési évre várható infláció és bruttó hazai termék reál növekedési üteme felének a különbségét.
+(2) A kormányzati szektor egyenlegét úgy kell meghatározni, hogy
+
+- a) összhangban legyen a középtávú költségvetési cél elérésével, és
+- b) annak hiánya ne haladja meg a bruttó hazai termék 2. § (1) bekezdés b) pontja szerint számított mértékének 3%-át.
+
+(3) Az Alaptörvényből és az Európai Unió jogából következő egyenleg számítási módját, – különös tekintettel a strukturális egyenleg számítására – és az ahhoz szükséges paramétereket az államháztartásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
+
+4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás adósságának a költségvetési év utolsó napjára tervezett értékét.
+
+(2) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme egyaránt meghaladja a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy annak alapján az államadósság megelőző évhez (a továbbiakban: viszonyítási év) viszonyított növekedési üteme ne haladja meg a központi költségvetésről szóló törvényben meghatározott, a költségvetési évre várható infláció és bruttó hazai termék reál növekedési üteme felének a különbségét.
+
+(2a) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme közül legalább az egyik nem haladja meg a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése legalább 0,1 százalékpontot érjen el.
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 
@@ -60,13 +73,24 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 olyan irányban tér el a központi költségvetésről szóló törvényben meghatározott adatoktól, amely az államadósság-mutató növekedését eredményezné.
 
-(2) Ha a nemzetgazdaság az Alaptörvény 36. cikk (6) bekezdése szerinti tartós és jelentős visszaesése a költségvetési év során következik be, a központi költségvetésről szóló törvény módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott érték teljesítési kötelezettségének felfüggesztésére irányul.
+(2)
+
+5/A. § (1) A Kormány évente legalább két alkalommal, az aktuális és a következő három évre vonatkozóan makrogazdasági és költségvetési előrejelzést készít, és azt, valamint annak módszertanát nyilvánosságra hozza. A 3/A. §-ban és az Áht. 29. §-a szerinti középtávú tervezésnek az így készült legfrissebb előrejelzésen kell alapulnia.
+
+(2) Az (1) bekezdés szerinti makrogazdasági és költségvetési előrejelzést a Kormány a zárszámadáshoz kapcsolódóan értékeli. Ha az értékelés alapján a tényleges makrogazdasági és költségvetési folyamatok az (1) bekezdés szerinti előrejelzéstől négy egymást követő évben lényegesen eltérnek, a makrogazdasági és költségvetési előrejelzést alátámasztó módszereket, felvetéseket és vonatkozó paramétereket felül kell vizsgálni, és azt közzé kell tenni.
+
+(3) Az előrejelzések, a felülvizsgálat részletszabályait és a közzététel módját a Kormány rendeletben határozza meg.
 
 6. § (1) Az államadósság-mutató számításakor a külföldi pénznemben fennálló adósságot keletkeztető ügyleteket azonos, a központi költségvetésről szóló törvényben meghatározott árfolyamon kell figyelembe venni.
 
-(2) A 44. § (1) bekezdés b) pontja szerinti kölcsönnyújtás, illetve annak visszafizetése miatt kialakuló többletfinanszírozási igény, illetve finanszírozási igény csökkenés következtében történő államadósságmutató-változást nem kell figyelembe venni az államadósság-mutató számításakor.
+(2) A központi költségvetésről szóló törvényben az államadósság-mutató számításakor nem kell figyelembe venni
 
-7. § Az Alaptörvény 36. cikk (6) bekezdésében foglalt nemzetgazdaság tartós és jelentős visszaeséseként kell értelmezni minden olyan esetet, amikor az éves bruttó hazai termék reál értéke csökken.
+- a) az államadósság olyan növekedését, amely az európai uniós források utólagos visszatérítésének időigényéből, az Európai Unió költségvetésének esetleges likviditáshiányából vagy bármely egyéb olyan okból keletkezik, amely miatt a felmerült kiadásra jutó európai uniós támogatás nem kerül elszámolásra a központi költségvetésben,
+- b) a 44. § (1) bekezdés b) pontja szerinti kölcsönnyújtás, illetve annak visszafizetése miatt kialakuló többletfinanszírozási igényből, illetve finanszírozási igény csökkenésből következő adósságváltozást.
+
+7. § (1) Az Alaptörvény 36. cikk (6) bekezdésében foglalt nemzetgazdaság tartós és jelentős visszaeséseként kell értelmezni minden olyan esetet, amikor az éves bruttó hazai termék reál értéke csökken.
+
+(2) Az (1) bekezdésben meghatározott esetben a 3/A. § (2) bekezdés b) pontját és a 4. § (2a) bekezdését nem kell alkalmazni. Ha az (1) bekezdés szerinti eset a költségvetési év során következik be, a központi költségvetésről szóló törvény 5. § (1) bekezdése szerinti módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott érték teljesítési kötelezettségének felfüggesztésére irányul.
 
 #### 3. Az államadósság keletkezését és növekedését korlátozó szabályok
 
@@ -225,6 +249,12 @@ mellékeli.
 (2) Az államadósság-kezeléssel kapcsolatos polgári jogi jogviszonyban az államot az államháztartásért felelős miniszter képviseli, ezt a képviseleti jogát az államháztartásért felelős miniszter az ÁKK Zrt. útján is gyakorolhatja vagy írásban az ÁKK Zrt.-re átruházhatja.
 
 (3) Az ÁKK Zrt. által az államadósság-kezelés körében megkötött ügylet az állam javára, illetve terhére megkötött ügyletnek minősül.
+
+14/A. § (1) Az államháztartás központi alrendszerének finanszírozásával és adósságának kezelésével kapcsolatos, a 13. § (1) bekezdés b) pontjában meghatározott adat megismerése iránti igényt központi pénzügyi érdekből az adat keletkezésétől számított 2 évig el kell utasítani, ha az adat megismerése Magyarország pénzügyi érdekeit vagy az államháztartás finanszírozásának, illetve adóssága kezelésének külső befolyástól mentes ellátását veszélyezteti. Az e bekezdés szerinti igény teljesíthetőségéről Magyarország pénzügyi érdekeit és az államháztartás finanszírozásának, illetve adóssága kezelésének külső befolyástól mentes ellátásához fűződő érdeket mérlegelve az államháztartásért felelős miniszter dönt.
+
+(2) Az (1) bekezdésben meghatározott korlátozás nem terjed ki a 13. § (1) bekezdés h) pontja szerinti tájékoztatásra, valamint az éves finanszírozási tervről, illetve annak egyes részeiről és a finanszírozási stratégiáról az ÁKK Zrt. által nyilvánosságra hozott tájékoztatásra.
+
+(3) A központi költségvetés tervezése során keletkező adat – ide nem értve az Áht. 22. § (3)–(5) bekezdése szerinti adatokat – megismerése iránti igényt központi pénzügyi érdekből a központi költségvetésről szóló törvény tervezetének Kormány általi elfogadását követően az elfogadástól számított 10 évig el kell utasítani, ha az adat megismerése Magyarország pénzügyi érdekeit vagy az államháztartás finanszírozásának, illetve adóssága kezelésének külső befolyástól mentes ellátását veszélyezteti. Az e bekezdés szerinti igény teljesíthetőségéről az államháztartásért felelős miniszter a megtagadást megalapozó központi pénzügyi érdek mérlegelésével dönt.
 
 ### IV. Fejezet — A KÖLTSÉGVETÉSI TANÁCS
 
@@ -570,7 +600,8 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 - a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (5) bekezdésében meghatározott saját bevételek körét,
 - b) a kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletéhez történő miniszteri hozzájárulás részletes szabályait,
 - c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit,
-- d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait.
+- d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait,
+- e) a 3/A. § szerinti feladatok végrehajtásának, valamint a makrogazdasági és költségvetési előrejelzések részletes szabályait és azok közzétételének módját.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a jogalanyok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben – rendeletben a fizetési kötelezettség megállapítására és teljesítésére vonatkozó kötelezettség mellőzését és az ehhez kapcsolódó eljárási szabályokat meghatározhassa.
 
@@ -592,7 +623,7 @@ rendeletben állapítsa meg.
 
 (4) A 4. § (2) bekezdése 2015. január 1-jén lép hatályba.
 
-(5) A 38. § 2016. január 1-jén lép hatályba.
+(5) A 38. § 2020. január 1-jén lép hatályba.
 
 #### 14.
 
@@ -615,3 +646,7 @@ rendeletben állapítsa meg.
 #### 16. Hatályon kívül helyező rendelkezések
 
 #### 54. §
+
+#### 16. Az Európai Unió jogának való megfelelés
+
+54. § Az 1. § d)–e) pontja, a 3/A. § és az 5/A. § a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.

@@ -636,11 +636,11 @@ helyettesíti.
 
 ### A minisztérium szervezete
 
-60. § (1) A minisztérium szervezetét e törvény keretei között a minisztérium szervezeti és működési szabályzata határozza meg.
+60. § (1)
 
-(2) A szervezeti és működési szabályzatot, illetve annak módosítását a miniszter – a miniszterelnök és a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban adja ki.
+(2) A minisztérium szervezeti és működési szabályzatát, illetve annak módosítását e törvény keretei között a miniszter – a miniszterelnök és a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban adja ki.
 
-(3) A szervezeti és működési szabályzatot a minisztérium honlapján a módosításokkal egységes szerkezetben közzé kell tenni.
+(3)
 
 (4) A minisztérium létszámkeretét – az egyes állami vezetők és a kabinetfőnökök irányítása alá tartozó szervezeti egységek együttes létszáma szerinti bontásban – a szervezeti és működési szabályzat határozza meg.
 
@@ -733,13 +733,13 @@ helyettesíti.
 
 (3) A kormányhivatal törvényben meghatározott feladatkörében nem utasítható.
 
-(4) A kormányhivatal – ha törvény eltérően nem rendelkezik – fejezeti jogosítványokkal felhatalmazott költségvetési szerv, amelynek költségvetése a felügyeletét ellátó miniszter által vezetett minisztérium költségvetési fejezetén belül önálló címet képez.
+(4)
 
 (5) A kormányhivatal tevékenységéről – a (2) bekezdés b) pontjában meghatározottak szerint – beszámol a Kormánynak, valamint tájékoztatja az Országgyűlés feladatkörében érintett bizottságát. A tájékoztatást a kormányhivatal honlapján közzé kell tenni.
 
-71. § (1) A kormányhivatal szervezetét a kormányhivatal szervezeti és működési szabályzata határozza meg, amelyet a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
+71. § (1) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
 
-(2) A szervezeti és működési szabályzatot a kormányhivatal honlapján a módosításokkal egységes szerkezetben közzé kell tenni.
+(2)
 
 (3) A kormányhivatal területi szervekkel akkor rendelkezik, ha erre a kormányhivatalt létrehozó törvény kifejezetten lehetőséget ad.
 
@@ -767,11 +767,11 @@ helyettesíti.
 
 72. § (1) A központi hivatal kormányrendelet által létrehozott, miniszter irányítása alatt működő központi államigazgatási szerv.
 
-(2) A központi hivatal – ha jogszabály eltérően nem rendelkezik – az azt irányító miniszter által vezetett minisztérium költségvetési fejezetén belül önálló címet képez.
+(2)
 
-73. § (1) A központi hivatal szervezetét a központi hivatal szervezeti és működési szabályzata határozza meg, amelyet a központi hivatalt irányító miniszter normatív utasításban ad ki.
+73. § (1) A központi hivatal szervezeti és működési szabályzatát a központi hivatalt irányító miniszter normatív utasításban ad ki.
 
-(2) A szervezeti és működési szabályzatot a központi hivatal vagy az azt irányító miniszter által vezetett minisztérium honlapján a módosításokkal egységes szerkezetben közzé kell tenni.
+(2)
 
 (3) A központi hivatal területi szervekkel akkor rendelkezik, ha erre a központi hivatalt létrehozó kormányrendelet kifejezetten lehetőséget ad.
 

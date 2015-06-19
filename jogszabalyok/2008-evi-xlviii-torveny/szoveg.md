@@ -225,7 +225,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 (2) A 3. § a) pontja, az 5. § (4) bekezdése, a 19. §, a 23. § (5) bekezdése, valamint a 42. § 2009. március 1-jén lép hatályba.
 
-40. §
+40. § A Magyarország 2016. évi központi költségvetésének megalapozásáról szóló 2015. évi LXXII. törvény (a továbbiakban: Módtv.) hatálybalépésekor fennálló szerződéseket legkésőbb 2015. szeptember 30-áig kell az e törvénynek a Módtv.-nyel megállapított rendelkezései szerint módosítani.
 
 41–42. §
 
