@@ -46,7 +46,7 @@ A közbiztonság és a közrend megteremtése és fenntartása az állam alapvet
 4. § (1) A polgárőr egyesület a 3. § (1) bekezdésében meghatározott alapfeladatokat akkor kezdheti meg, valamint végezheti, ha
 
 - a) a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal írásbeli együttműködési megállapodást kötött, valamint
-- b) az Országos Polgárőr Szövetség tagja.
+- b) az Országos Polgárőr Szövetség és a területi polgárőr szövetség tagja.
 
 (2) A polgárőr egyesület a 3. § (2) bekezdés a) pontjában meghatározott, a katasztrófák elleni védekezéssel összefüggő kiegészítő feladat ellátását akkor kezdheti meg, valamint végezheti, ha rendelkezik a hivatásos katasztrófavédelmi szerv illetékes területi szervének előzetes írásbeli egyetértésével.
 
@@ -101,22 +101,30 @@ is kiterjedhet.
 
 #### 3. A területi polgárőr szövetség
 
-7. § (1) Területi polgárőr szövetségnek minősül a polgárőr egyesületek olyan szövetsége, amelyet a megyében (fővárosban) székhellyel rendelkező polgárőr egyesületek hoznak létre és az e törvényben meghatározott feladatokat látja el.
+7. § (1) Területi polgárőr szövetségnek minősül a polgárőr egyesületek olyan szövetsége, amelyet azonos megyében (fővárosban) székhellyel rendelkező polgárőr egyesületek alkotnak, az e törvényben meghatározott feladatokat látja el és az Országos Polgárőr Szövetség tagja. Megyénként, illetve a főváros területén kizárólag egy területi polgárőr szövetség működhet.
 
-(2) A területi polgárőr szövetség a 8. § (4) bekezdés szerint akkor kérheti felvételét az Országos Polgárőr Szövetségbe, ha a székhelye szerint illetékes megyei (fővárosi) rendőr-főkapitánysággal megkötött együttműködési megállapodással rendelkezik.
+(2) A területi polgárőr szövetség a 8. § (4b) bekezdése szerint akkor kérheti felvételét az Országos Polgárőr Szövetségbe, ha a székhelye szerint illetékes megyei (fővárosi) rendőr-főkapitánysággal megkötött együttműködési megállapodással rendelkezik.
 
-(3) A területi polgárőr szövetség működési területe kiterjedhet a székhelye szerinti
+(3) A területi polgárőr szövetség működési területe
 
-- a) megye (főváros) közigazgatási területére, valamint
-- b) megyével (fővárossal) közvetlenül határos közigazgatási egységek földrajzi területére is.
+- a) a székhelyének helyt adó megye, vagy
+- b) a fővárosban működő területi polgárőr szövetség esetében Budapest
 
-(4) A területi polgárőr szövetség tagja a (3) bekezdés szerinti közigazgatási területen működő polgárőr egyesület lehet.
+közigazgatási területére terjed ki.
 
-(5) A területi polgárőr szövetség
+(4) A területi polgárőr szövetség tagja a működési területén működő polgárőr egyesület lehet.
+
+(5) A polgárőr egyesület felvétele a területi polgárőr szövetségbe nem tagadható meg, ha a polgárőr egyesület magára nézve kötelezőnek elfogadja a területi polgárőr szövetség alapszabályát. A tagfelvételi kérelem vonatkozásában annak beérkezését követő 30 napon belül a területi polgárőr szövetség dönt.
+
+(6) A területi polgárőr szövetség
 
 - a) képviseli tagjai közös érdekeit a területi állami szervek, a megyei (fővárosi) önkormányzatok, valamint más civil szervezetek előtt,
 - b) összehangolja tagjai tevékenységét,
-- c) együttműködik a működési területén illetékes állami szervekkel, megyei (fővárosi) önkormányzatokkal, valamint a megyei (fővárosi) rendőr-főkapitánysággal a polgárőri szolgálat ellátása feltételeinek fejlesztése érdekében.
+- c) együttműködik a működési területén illetékes állami szervekkel, megyei (fővárosi) önkormányzatokkal, valamint a megyei (fővárosi) rendőr-főkapitánysággal a polgárőri szolgálat ellátása feltételeinek fejlesztése érdekében,
+- d) előzetesen véleményezi a polgárőr egyesület által a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal megkötendő együttműködési megállapodást,
+- e) a működési területén működő polgárőr egyesület Országos Polgárőr Szövetségbe való felvételre irányuló kérelmét befogadja, majd felvételi javaslatával ellátva továbbítja,
+- f) elfogadja a területi polgárőr szövetség éves költségvetését, valamint a költségvetés végrehajtásáról szóló beszámolót, valamint
+- g) elbírálja a működési támogatásra vonatkozó kérelmet.
 
 #### 4. Az Országos Polgárőr Szövetség
 
@@ -126,26 +134,41 @@ is kiterjedhet.
 
 (3) Az Országos Polgárőr Szövetség az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével együttműködési megállapodást köt.
 
-(4) A polgárőr szervezet felvétele az Országos Polgárőr Szövetségbe nem tagadható meg, ha a polgárőr szervezet magára nézve kötelezőnek elfogadja az Országos Polgárőr Szövetség alapszabályát. A tagfelvételi kérelem vonatkozásában annak beérkezését követő 30 napon belül az Országos Polgárőr Szövetség dönt.
+(4) A polgárőr egyesület felvétele az Országos Polgárőr Szövetségbe nem tagadható meg, ha
 
-(5) Az Országos Polgárőr Szövetség legfelsőbb szerve a tagok képviselőiből álló közgyűlés.
+- a) az Országos Polgárőr Szövetség alapszabályát magára nézve kötelezőnek fogadja el, és
+- b) a területi polgárőr szövetség tagja.
 
-(6) A közgyűlés kizárólagos hatáskörébe tartozik:
+(4a) A polgárőr egyesület a 7. § (4) bekezdésében meghatározott területi polgárőr szövetség útján kezdeményezheti felvételét az Országos Polgárőr Szövetségbe. A tagfelvételi kérelmet a területi polgárőr szövetség a javaslatával együtt annak beérkezését követő 30 napon belül felterjeszti az Országos Polgárőr Szövetség részére. A tagfelvételi kérelemről annak beérkezését követő 30 napon belül az Országos Polgárőr Szövetség dönt.
+
+(4b) A területi polgárőr szövetség felvétele az Országos Polgárőr Szövetségbe nem tagadható meg, ha a területi polgárőr szövetség magára nézve kötelezőnek fogadja el az Országos Polgárőr Szövetség alapszabályát. A tagfelvételi kérelemről annak beérkezését követő 30 napon belül az Országos Polgárőr Szövetség dönt.
+
+(5) Az Országos Polgárőr Szövetség legfelsőbb szerve az öt évre választott, a polgárőr egyesületek és a területi polgárőr szövetségek képviselőiből álló küldöttgyűlés. Az Országos Polgárőr Szövetség alapszabálya határozza meg a küldöttgyűlés működését, valamint a küldöttek választásának módját.
+
+(6) A küldöttgyűlés kizárólagos hatáskörébe tartozik:
 
 - a) az alapszabály megállapítása és módosítása,
 - b) ügyintéző és a képviseleti, valamint a felügyelő szerv tagjainak megválasztása és visszahívása,
 - c) az etikai bizottság elnökének és tagjainak megválasztása és visszahívása,
 - d) az előző évre vonatkozó szakmai és pénzügyi beszámoló valamint a tárgyévi pénzügyi és szakmai terv elfogadása,
-- e) minden olyan kérdés, amelyet az alapszabály a közgyűlés kizárólagos hatáskörébe utal.
+- e) minden olyan kérdés, amelyet az alapszabály a küldöttgyűlés kizárólagos hatáskörébe utal.
 
-(7) Az Országos Polgárőr Szövetség gazdálkodását az ellenőrző testület mellett a közgyűlés által választott könyvvizsgáló is ellenőrzi. Az ellenőrző testület, valamint a könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a számvitelről szóló törvény szerinti beszámolóról nem dönthet.
+(6a) A küldöttgyűlést az alapszabályban meghatározott időközönként, de legalább évente egyszer össze kell hívni. A küldöttgyűlést akkor is össze kell hívni, ha azt legalább a küldöttek egyötöde – az ok és a cél megjelölésével – írásban kéri.
 
-(8) Az Országos Polgárőr Szövetség működésének részletes szabályait e törvény, valamint az egyéb jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
+(6b) A küldöttgyűlést – ha az alapszabály eltérően nem rendelkezik – az Országos Polgárőr Szövetség elnöke hívja össze.
+
+(6c) A küldöttgyűlés akkor határozatképes, ha a küldöttek több mint a fele jelen van. A határozatképesség hiánya miatt megismételt és eltérő napon tartott küldöttgyűlés az eredeti napirenden szereplő ügyekben a jelen levő küldöttek számától függetlenül határozatképes.
+
+(6d) A küldöttgyűlés határozatait szótöbbséggel hozza. Az alapszabály valamely döntés meghozatala vonatkozásában nagyobb arányú többségi döntés feltételét is előírhatja.
+
+(7) Az Országos Polgárőr Szövetség gazdálkodását az ellenőrző testület mellett a küldöttgyűlés által választott könyvvizsgáló is ellenőrzi. Az ellenőrző testület, valamint a könyvvizsgáló írásbeli jelentése hiányában a küldöttgyűlés a számvitelről szóló törvény szerinti beszámolóról nem dönthet.
+
+(8) Az Országos Polgárőr Szövetség működésének részletes szabályait e törvény, valamint az egyéb jogszabályok rendelkezéseinek figyelembevételével a küldöttgyűlés által elfogadott alapszabály határozza meg.
 
 9. § (1) Az Országos Polgárőr Szövetség közigazgatási hatósági feladatként
 
 - a)
-- b) nyilvántartást vezet a kiadott polgárőr igazolványokról, a kiadásuk alapjául szolgáló, a 10. § (3) bekezdésében meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a polgárőr szolgálat ellátására jogosultakról, az igazolvány visszavonásáról, bevonásáról,
+- b) nyilvántartást vezet a kiadott polgárőr igazolványokról és ifjú polgárőr igazolványokról, a kiadásuk alapjául szolgáló, a 10. § (3) bekezdésében és a 9/A. § (1) bekezdésében meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a polgárőr szolgálat ellátására jogosultakról, a polgárőr igazolvány és az ifjú polgárőr igazolvány visszavonásáról, bevonásáról,
 - c) dönt a szolgálati és etikai szabályokat megszegő polgárőrökkel szemben benyújtott panaszról,
 - d) az országos baleset-megelőzési bizottság tagjaként közvetlenül is részt vesz a baleset-megelőzésben.
 
@@ -159,13 +182,42 @@ is kiterjedhet.
 - f) véleményt nyilvánít az e törvény hatálya alá tartozó tevékenységeket érintő jogszabályokról, kezdeményezheti jogszabályok kiadását,
 - g) az információs önrendelkezési jogról és az információszabadságról szóló törvény adatvédelmi szabályai megtartásával a nyilvántartásában szereplő adatokról – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat, valamint
 - h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezetekkel,
-- i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja.
+- i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja, az ifjú polgárőröket a 9/A. § (2) bekezdésében meghatározott feladatok ellátására jogosító ifjú polgárőr igazolvánnyal ellátja.
 
 (3) Az Országos Polgárőr Szövetség működési, elhelyezési feltételeit az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött együttműködési megállapodásban meghatározott módon az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve vagy a megyei (fővárosi) rendőr-főkapitányság biztosíthatja.
 
 (4) Az Országos Polgárőr Szövetség felkérésére az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve gondoskodik a polgárőrök képzésében, szakmai ismereteinek bővítésében való rendőrségi közreműködésről.
 
-### III. Fejezet — A POLGÁRŐRI SZOLGÁLAT ELLÁTÁSÁNAK, VALAMINT A POLGÁRŐR IGAZOLVÁNY KIBOCSÁTÁSÁNAKÉS A NYILVÁNTARTÁS SZABÁLYAI
+#### 4/A. Ifjú polgárőr
+
+9/A. § (1) A polgárőr egyesület a (2) bekezdésben meghatározott kiegészítő feladatának ellátásában a polgárőr egyesület
+
+- a) a Polgári Törvénykönyv 2:11. §-a szerinti személy,
+- b) e tevékenység végzéséhez írásbeli törvényes képviselői hozzájárulással bíró,
+- c) alapfokú iskolai végzettséggel rendelkező és
+- d) büntetlen előéletű
+
+tagja (a továbbiakban: ifjú polgárőr) is közreműködhet.
+
+(2) Az ifjú polgárőr – a polgárőr e törvényben meghatározott feladatai ellátását segítendő – közreműködik
+
+- a) a polgárőr feladatkörét érintően az állampolgárok tájékoztatásában,
+- b) a polgárőr tevékenységgel kapcsolatos jegyzőkönyvek és más iratok előkészítésében,
+- c) a katasztrófákra való felkészülésben, a katasztrófák elleni védekezésben és helyreállításban, valamint a polgári védelmi szervezetek tevékenységében,
+- d) dolog ideiglenes elvétele esetén az elvett dolog őrzésében és szállításában,
+- e) a baleset-megelőzési, az áldozatvédelmi, a közlekedésbiztonsági, állat-, környezet- és természetvédelmi tevékenység támogatásában, a lakosság és az önkormányzatok közötti kapcsolat erősítésében,
+- f) az otthonában élő fogyatékos személy védelmében, a polgárok és javaik védelmében, az állami és önkormányzati vagyon megóvásában,
+- g) a polgárőr egyesület feladataival összefüggő oktatási, kulturális, ismeretterjesztő tevékenységben.
+
+(3) Az ifjú polgárőr a (2) bekezdésben meghatározott feladatait kizárólag polgárőrrel együtt, ifjú polgárőr igazolvány birtokában láthatja el.
+
+(4) Az ifjú polgárőr a (2) bekezdésben meghatározott feladatai ellátása során „ifjú polgárőr” felirattal ellátott láthatósági mellényt visel.
+
+(5) Az ifjú polgárőrre – ha e törvény eltérően nem rendelkezik – a IV. fejezet előírásai irányadóak.
+
+### III. Fejezet — A POLGÁRŐRI SZOLGÁLAT ELLÁTÁSÁNAK, VALAMINT A POLGÁRŐR IGAZOLVÁNY, TOVÁBBÁ AZ IFJÚ POLGÁRŐR IGAZOLVÁNY KIBOCSÁTÁSÁNAK
+
+ÉS A NYILVÁNTARTÁS SZABÁLYAI
 
 #### 5. A polgárőri szolgálat ellátásának feltételei
 
@@ -183,13 +235,13 @@ személy lehet, aki nyilatkozatával önként vállalja a polgárőri szolgálat
 
 (4) Erdőterületen történő lovas járőrszolgálatot csak az Országos Polgárőr Szövetség szervezésében lefolytatott oktatást eredményesen elvégző polgárőr láthat el.
 
-#### 6. A polgárőr igazolvány kibocsátása és a nyilvántartás
+#### 6. A polgárőr igazolvány, továbbá az ifjú polgárőr igazolvány kibocsátása és a nyilvántartás
 
-11. § (1) A polgárőr a 3. § (1) és (2) bekezdésben meghatározott alap- és kiegészítő feladatokat kizárólag polgárőr igazolvány birtokában láthatja el. A polgárőr igazolvány formátumát a rendészetért felelős miniszter állapítja meg.
+11. § (1) A polgárőr a 3. § (1) és (2) bekezdésében meghatározott alap- és kiegészítő feladatokat kizárólag polgárőr igazolvány birtokában láthatja el. A polgárőr és az ifjú polgárőr igazolvány formátumát a rendészetért felelős miniszter rendeletben állapítja meg.
 
-(2) A polgárőr igazolvány kiadását a polgárőr egyesületbe történő belépését követően a polgárőr egyesület az Országos Polgárőr Szövetségtől kérelmezi a tagja számára. A kérelemhez mellékelni kell a polgárőr által önkéntesen rendelkezésre bocsátott természetes személyazonosító adatokat, a lakcímét igazoló hatósági igazolvány másolatát, továbbá a 10. § (3) bekezdés b) és c) pontjában meghatározott feltételek megállapításához szükséges, a polgárőr által a Polgári Törvénykönyv szerint tett jognyilatkozatot.
+(2) A polgárőr igazolvány, illetve az ifjú polgárőr igazolvány kiadását a polgárőr egyesületbe történő belépését követően a polgárőr egyesület az Országos Polgárőr Szövetségtől kérelmezi a tagja számára. A kérelemhez mellékelni kell a tag által önkéntesen rendelkezésre bocsátott természetes személyazonosító adatokat, a lakcímét igazoló hatósági igazolvány másolatát, továbbá a 10. § (3) bekezdés b) és c) pontjában meghatározott feltételek megállapításához szükséges, a polgárőr által a Polgári Törvénykönyv szerint tett jognyilatkozatot, illetve a 9/A. § (1) bekezdés b) pontjában meghatározott feltétel megállapításához szükséges, az ifjú polgárőr által a Polgári Törvénykönyv szerint tett jognyilatkozatot.
 
-(3) Az Országos Polgárőr Szövetség a polgárőr igazolványt a kiállítására irányuló kérelem beérkezését követő 30 napon belül adja ki.
+(3) Az Országos Polgárőr Szövetség a polgárőr igazolványt, illetve az ifjú polgárőr igazolványt a kiállítására irányuló kérelem beérkezését követő 30 napon belül adja ki.
 
 (4) Az Országos Polgárőr Szövetség által kibocsátott polgárőr igazolvány tartalmazza
 
@@ -202,13 +254,24 @@ személy lehet, aki nyilatkozatával önként vállalja a polgárőri szolgálat
 - d) a polgárőr igazolvány egyedi azonosítóját, valamint
 - e) a 10. § (3) bekezdésében foglaltaknak megfelelő polgárőr esetén, hogy közterületi járőr- és figyelőszolgálat, valamint jelzőőri tevékenység ellátására jogosult.
 
-(5) A polgárőr igazolvány visszavonásig érvényes.
+(4a) Az Országos Polgárőr Szövetség által kibocsátott ifjú polgárőr igazolvány tartalmazza
 
-(6) Az Országos Polgárőr Szövetség a (2) bekezdésben meghatározottakon kívül ellenőrizheti a 10. § (3) bekezdés b) és c) pontjában meghatározott feltételek fennállását, amelynek elősegítése érdekében a polgárőr – az Országos Polgárőr Szövetség felszólítására – köteles új, 30 napnál nem régebbi hatósági bizonyítványt benyújtani.
+- a) az ifjú polgárőr
+  - aa) családi és utónevét,
+  - ab) fényképét,
+  - ac) azonosító számát,
+- b) a polgárőr egyesület nevét és székhelyének megjelölését,
+- c) az Országos Polgárőr Szövetség mint kibocsátó megnevezését,
+- d) az ifjú polgárőr igazolvány egyedi azonosítóját, valamint
+- e) az „ifjú polgárőr” feliratot.
+
+(5) A polgárőr igazolvány visszavonásig érvényes. Az ifjú polgárőr igazolvány visszavonásig, de legfeljebb az ifjú polgárőr 18. életévének betöltéséig érvényes.
+
+(6) Az Országos Polgárőr Szövetség a (2) bekezdésben meghatározottakon kívül ellenőrizheti a 10. § (3) bekezdés b) és c) pontjában, illetve a 9/A. § (1) bekezdés b) pontjában meghatározott feltételek fennállását, amelynek elősegítése érdekében a polgárőr, illetve az ifjú polgárőr – az Országos Polgárőr Szövetség felszólítására – köteles új, 30 napnál nem régebbi hatósági bizonyítványt benyújtani.
 
 (7) Az Országos Polgárőr Szövetség a (6) bekezdés alapján kezelt adatokat az eljárás befejezését követő napon törli.
 
-(8) A polgárőr a polgárőr igazolvány adataiban vagy a kiadásának feltételeiben bekövetkezett változást – az adatok megváltozása esetén új polgárőr igazolvány kiadása, a kiadás feltételeiben bekövetkezett változás esetén a polgárőr igazolvány visszavonása céljából – 8 napon belül a polgárőr egyesület útján köteles bejelenteni az Országos Polgárőr Szövetség részére.
+(8) A polgárőr, illetve az ifjú polgárőr a polgárőr igazolvány, illetve az ifjú polgárőr igazolvány adataiban vagy a kiadásának feltételeiben bekövetkezett változást – az adatok megváltozása esetén új polgárőr igazolvány, illetve ifjú polgárőr igazolvány kiadása, a kiadás feltételeiben bekövetkezett változás esetén a polgárőr igazolvány, illetve az ifjú polgárőr igazolvány visszavonása céljából – 8 napon belül a polgárőr egyesület útján köteles bejelenteni az Országos Polgárőr Szövetség részére.
 
 12. § (1) Az Országos Polgárőr Szövetség a polgárőr igazolványt 8 napon belül visszavonja, ha
 
@@ -217,22 +280,30 @@ személy lehet, aki nyilatkozatával önként vállalja a polgárőri szolgálat
 - c) a polgárőr egyesület kezdeményezésére, ha a polgárőr nem kíván a továbbiakban polgárőri szolgálatot folytatni, vagy
 - d) a polgárőr egyesület jelzésére, ha a polgárőr egyesületi tagsága megszűnt.
 
-(2) Az (1) bekezdés b) pontja szerinti esetben történő visszavonás tartama a polgárőri szolgálat ellátására vonatkozó szolgálati és etikai szabályok megsértése miatt a polgárőri szolgálat ellátásától való eltiltás időtartama, de legfeljebb 6 hónap, szabálysértés elkövetése esetén 1 év, bűncselekmény elkövetése esetén 5 év. A visszavonás kezdőnapja a polgárőr jogsértő tevékenységét megállapító határozat jogerőre emelkedésének napja. A visszavonás időtartamának leteltét követően a polgárőr a 11. § (2) bekezdés szerint kezdeményezheti az Országos Polgárőr Szövetségnél a polgárőr igazolvány újbóli kiadását.
+(2) Az (1) bekezdés b) pontja szerinti esetben történő visszavonás tartama a polgárőri szolgálat ellátására vonatkozó szolgálati és etikai szabályok megsértése miatt a polgárőri szolgálat ellátásától való eltiltás időtartama, de legfeljebb 1 év, szabálysértés elkövetése esetén 2 év, bűncselekmény elkövetése esetén 5 év. A visszavonás kezdőnapja a polgárőr jogsértő tevékenységét megállapító határozat jogerőre emelkedésének napja. A visszavonás időtartamának leteltét követően a polgárőr a 11. § (2) bekezdés szerint kezdeményezheti az Országos Polgárőr Szövetségnél a polgárőr igazolvány újbóli kiadását.
+
+(2a) Az Országos Polgárőr Szövetség az ifjú polgárőr igazolványt visszavonja
+
+- a) ha megállapítja, hogy kiadásának feltételei nem állnak fenn,
+- b) a polgárőr egyesület kezdeményezésére, ha az ifjú polgárőr nem kíván a polgárőr egyesület tevékenységében közreműködni, vagy
+- c) a polgárőr egyesület jelzésére, ha az ifjú polgárőr egyesületi tagsága megszűnt.
 
 (3) Az Országos Polgárőr Szövetség a polgárőr igazolványt 8 napon belül bevonja
 
 - a) a 3. § (1) bekezdésben meghatározott alapfeladat ellátásától vagy a polgárőri szolgálat ellátásától való eltiltás időtartamára, ha a polgárőrrel szemben az Országos Polgárőr Szövetség etikai bizottsága a 25. § (1) bekezdés b) vagy c) pontjában meghatározott intézkedést alkalmazta, valamint
 - b) a szabálysértési vagy a büntetőeljárás jogerős befejezéséig, ha a polgárőrrel szemben szabálysértési vagy büntetőeljárás indult és a polgárőr igazolvány bevonását az eljáró hatóság előzetesen indokoltnak tartotta.
 
-(4) A polgárőr köteles a polgárőr egyesületnek haladéktalanul jelezni, ha vele szemben szabálysértési vagy büntetőeljárás indult. A polgárőr egyesület e tényről haladéktalanul tájékoztatja az Országos Polgárőr Szövetséget, amely beszerzi az eljáró hatóság nyilatkozatát arra vonatkozóan, hogy az eljárás jogerős befejezéséig indokoltnak tartja-e a polgárőr igazolványának bevonását.
+(3a) Az Országos Polgárőr Szövetség az ifjú polgárőr igazolványt 8 napon belül bevonja a szabálysértési vagy a büntetőeljárás jogerős befejezéséig, ha az ifjú polgárőrrel szemben szabálysértési vagy büntetőeljárás indult és az ifjú polgárőr igazolvány bevonását az eljáró hatóság előzetesen indokoltnak tartotta.
 
-(5) Az Országos Polgárőr Szövetség a honlapján közzéteszi az érvényes, a bevont és a visszavont polgárőr igazolványok egyedi azonosítóját, valamint a polgárőr egyesület működési területének megjelölését, amelynek tagja az igazolvány birtokosa.
+(4) A polgárőr, illetve az ifjú polgárőr köteles a polgárőr egyesületnek haladéktalanul jelezni, ha vele szemben szabálysértési vagy büntetőeljárás indult. A polgárőr egyesület e tényről haladéktalanul tájékoztatja az Országos Polgárőr Szövetséget, amely beszerzi az eljáró hatóság nyilatkozatát arra vonatkozóan, hogy az eljárás jogerős befejezéséig indokoltnak tartja-e a polgárőr, illetve az ifjú polgárőr igazolványának bevonását.
 
-13. § (1) Az Országos Polgárőr Szövetség a polgárőr igazolványok kibocsátásával és visszavonásával kapcsolatos feladatok ellátása céljából nyilvántartást vezet, amely
+(5) Az Országos Polgárőr Szövetség a honlapján közzéteszi az érvényes, a bevont és a visszavont polgárőr igazolványok, illetve az ifjú polgárőr igazolványok egyedi azonosítóját, valamint a polgárőr egyesület működési területének megjelölését, amelynek tagja a polgárőr igazolvány, illetve az ifjú polgárőr igazolvány birtokosa.
 
-- a) a polgárőr természetes személyazonosító adatait és lakcímét, a 10. § (3) bekezdés b) és c) pontjában meghatározott feltételek igazolásához szükséges iratokat,
-- b) a kiadott polgárőr igazolványok egyedi azonosítóját, továbbá
-- c) a visszavont polgárőr igazolványokra, valamint a visszavonás jogalapjára és időtartamára vonatkozó adatokat
+13. § (1) Az Országos Polgárőr Szövetség a polgárőr igazolványok, illetve az ifjú polgárőr igazolványok kibocsátásával és visszavonásával kapcsolatos feladatok ellátása céljából nyilvántartást vezet, amely
+
+- a) a polgárőr vagy az ifjú polgárőr természetes személyazonosító adatait és lakcímét, a 10. § (3) bekezdés b) és c) pontjában vagy a 9/A. § (1) bekezdés b) pontjában meghatározott feltételek igazolásához szükséges iratokat,
+- b) a kiadott polgárőr igazolványok vagy ifjú polgárőr igazolványok egyedi azonosítóját, továbbá
+- c) a visszavont polgárőr igazolványokra vagy ifjú polgárőr igazolványokra, valamint a visszavonás jogalapjára és időtartamára vonatkozó adatokat
 
 tartalmazza.
 
@@ -240,7 +311,7 @@ tartalmazza.
 
 (2) Az Országos Polgárőr Szövetség a 26. §-ban meghatározott rendelkezések végrehajtásának elősegítése érdekében nyilvántartást vezet, amely a 26. § szerinti támogatás felhasználásával kapcsolatos adatokat tartalmazza.
 
-(3) A polgárőr egyesületi tagságának megszűnése vagy a polgárőr igazolvány visszavonása esetén az (1) bekezdésben meghatározott adatokat 2 év elteltével kell törölni.
+(3) A polgárőr, illetve az ifjú polgárőr egyesületi tagságának megszűnése vagy a polgárőr igazolvány, illetve az ifjú polgárőr igazolvány visszavonása esetén az (1) bekezdésben meghatározott adatokat 2 év elteltével kell törölni.
 
 (4) Az (1) és (2) bekezdés szerinti adat – az (5) bekezdésben meghatározott kivétellel – kizárólag statisztikai célú gyűjtésre továbbítható.
 
@@ -266,7 +337,7 @@ tartalmazza.
 
 - a) a területileg illetékes polgárőr egyesülettel közösen látja el tevékenységét,
 - b) arra a polgárőr egyesület a 6. § (1) bekezdésben meghatározott szervekkel együttműködési megállapodást kötött,
-- c) a polgárőr egyesületet, vagy a területi szövetséget a megyei (fővárosi) rendőr-főkapitányság felkéri a megye (főváros) közigazgatási területén való tevékenységellátásra,
+- c) a polgárőr egyesületet, vagy a területi polgárőr szövetséget a megyei (fővárosi) rendőr-főkapitányság felkéri a megye (főváros) közigazgatási területén való tevékenységellátásra,
 - d) a polgárőr egyesület az érintett önkormányzattal írásban erre irányuló együttműködési megállapodást kötött, vagy
 - e) a polgárőr egyesület a – 3. § (2) bekezdés j) pontjában meghatározott feladat ellátására – közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást kötött.
 
@@ -286,7 +357,7 @@ tartalmazza.
 
 (7) A 3. § (2) bekezdés j) pontja szerinti kiegészítő feladata ellátása során a polgárőr köteles magánál tartani a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozás által kiállított igazolást.
 
-16. § (1) A polgárőr a polgárőri szolgálat ellátása során a rendőrségnél rendszeresített hatóanyag-tartalmú és töltőanyag tömegű vegyi eszközt tarthat magánál, amelyet kizárólag jogos védelmi helyzetben használhat. A használata esetén kerülni kell a sérülés okozását.
+16. § (1) A polgárőr – ide nem értve az ifjú polgárőrt – a polgárőri szolgálat ellátása során a rendőrségnél rendszeresített hatóanyag-tartalmú és töltőanyag tömegű vegyi eszközt tarthat magánál, amelyet kizárólag jogos védelmi helyzetben használhat. A használata esetén kerülni kell a sérülés okozását.
 
 (2) A polgárőr a vegyi eszköz használata nyomán megsérült személynek köteles segítséget nyújtani, szükség esetén pedig gondoskodni arról, hogy a sérültet orvos elláthassa.
 
@@ -377,8 +448,9 @@ tartalmazza.
 25. § (1) A polgárőr szolgálati és etikai szabályszegése esetében alkalmazható intézkedések:
 
 - a) írásbeli figyelmeztetés,
-- b) a 3. § (1) bekezdésben meghatározott alapfeladat ellátásától való – legfeljebb 6 hónapig terjedő – eltiltás, vagy
-- c) a polgárőri szolgálat ellátásától való – legfeljebb 6 hónapig terjedő – eltiltás.
+- b) a 3. § (1) bekezdésében meghatározott alapfeladat ellátásától való – legfeljebb 1 évig terjedő – eltiltás,
+- c) a polgárőri szolgálat ellátásától való – legfeljebb 1 évig terjedő – eltiltás, vagy
+- d) a polgárőr egyesületben való tagság megszüntetésére vonatkozó javaslattétel a polgárőr egyesület részére.
 
 (2) Az Országos Polgárőr Szövetség
 
@@ -424,7 +496,7 @@ rögzíti.
 - c) a polgárőrök formaruhával történő ellátásának szabályait,
 - d) a polgárőr igazolvány formátumát,
 - e) a formaruha és a fényvisszaverő mellény jellemzőit,
-- f)
+- f) az ifjú polgárőr igazolvány formátumát,
 - g) – az államháztartásért felelős miniszterrel egyetértésben – az éves költségvetési törvényben meghatározott összegű támogatás elosztásának a részletes szabályait.
 
 #### 9. Hatályba léptető rendelkezések
@@ -445,10 +517,16 @@ rögzíti.
 
 (6) A köztestületté átalakult Országos Polgárőr Szövetséget a Fővárosi Törvényszék, mint társadalmi szervezetet nyilvántartásából törli.
 
+31. § A polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény módosításáról szóló 2015. évi LVIII. törvény (a továbbiakban: Módtv.) hatálybalépésének napján bejegyzett vagy bejegyzés alatt álló, valamint a 32. § (1) bekezdésében meghatározott területi polgárőr szövetségben tagsággal nem rendelkező polgárőr egyesületek 2015. július 1-jéig kötelesek a 32. § (1) bekezdésben meghatározott területi polgárőr szövetségbe történő felvételüket kérni.
+
 #### 11. Módosító rendelkezések
 
-31. §
+#### 31. §
 
 #### 12. Hatályon kívül helyező rendelkezések
 
-32. §
+32. § (1) A Módtv. hatálybalépésekor egyazon megye (főváros) területén található székhellyel működő legnagyobb taglétszámmal rendelkező területi polgárőr szövetségnek a Módtv. hatálybalépését követő 60. napig kell kérnie a 7. § (2) bekezdése szerinti felvételét az Országos Polgárőr Szövetségbe.
+
+(2) Az (1) bekezdés szerinti kérelmet előterjesztő területi polgárőr szövetség Országos Polgárőr Szövetségbe történő felvétele nem tagadható meg, ha megalakulása és működése a kérelem előterjesztésének időpontjában megfelel az e törvényben, valamint az irányadó jogszabályokban előírt követelményeknek.
+
+(3) Ha az (1) bekezdésben meghatározott területi polgárőr szövetséghez nem csatlakoznak az egyazon megye (főváros) területén található területi polgárőr szövetségek, 2015. július 1-jével az e törvény szerinti tevékenységet nem folytathatják, területi polgárőr szövetségként nem működhetnek.
