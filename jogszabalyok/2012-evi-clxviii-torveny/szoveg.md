@@ -19,7 +19,7 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 
 #### 3. Az adókötelezettség keletkezése, megszűnése, változása
 
-3. § (1) Az adókötelezettség közművezeték létesítése esetén a közművezeték tényleges használatbavételét követő év első napján keletkezik.
+3. § (1) Az adókötelezettség közművezeték létesítése esetén a közművezeték tényleges használatbavételét követő hatodik év első napján keletkezik.
 
 (2) Az adókötelezettséget érintő változást (így különösen a közművezeték nyomvonalhosszának változását) a változást követő év első napjától kell figyelembe venni.
 
@@ -62,7 +62,7 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 
 kell megfizetni.
 
-11. §
+11. § Ha a meglévő hírközlési vezetékhálózaton olyan hálózatfejlesztést hajtanak végre, amely a hálózat előfizetői szakaszán lehetővé teszi a legalább 100 Mbps sebességű adatkapcsolati hozzáférést, akkor a vezetékhálózat hálózatfejlesztéssel érintett szakaszának használatbavételét követő öt évben az adó alapja a hálózatfejlesztéssel érintett szakasz méterben kifejezett hosszával csökkenthető.
 
 #### 8. Eljárási rendelkezések
 
@@ -76,6 +76,13 @@ kell megfizetni.
 
 (5) E törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezései az irányadók.
 
-#### 9. Hatályba léptető rendelkezés
+#### 9. Záró rendelkezések
 
 13. § E törvény 2013. január 1-jén lép hatályba.
+
+14. § E törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított
+
+- a) 3. § (1) bekezdését annak hatálybalépését követően használatba vett közművezetékre,
+- b) 11. §-át annak hatálybalépését követően hálózatfejlesztéssel érintett hírközlési vezetékszakaszra
+
+kell alkalmazni.
