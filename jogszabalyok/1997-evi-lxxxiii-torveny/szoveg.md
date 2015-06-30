@@ -236,6 +236,8 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 (2) A biztosított – külön jogszabályban foglaltak szerint – jogosult egészségügyi beavatkozást követő rekonstrukcióra, továbbá funkciózavart okozó veleszületett vagy szerzett testi rendellenességek korrekciójára a 13–14. §-ban foglaltak szerint.
 
+(3) A biztosított a rehabilitációs medicina körébe tartozó ellátásokra a rehabilitációs ellátási programok szerint jogosult.
+
 ### Betegszállítás, mentés
 
 17. § (1) A biztosított – beutalás szerinti intézményben végzendő – orvosi vizsgálata vagy gyógykezelése, illetve egészségügyi intézményből tartózkodási helyére történő elbocsátása céljából jogosult betegszállításra,
@@ -317,9 +319,9 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 #### 18/A. §
 
-19. § (1) Az egészségügyi ellátás keretében a biztosított a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által az adott ellátásra meghatározott finanszírozási eljárási rend, valamint a vizsgálati és terápiás eljárási rend szerinti szolgáltatásokra jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárási rendben, valamint a vizsgálati és terápiás eljárási rendben foglaltaktól eltérhet.
+19. § (1) Az egészségügyi ellátás keretében a biztosított a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által az adott ellátásra meghatározott finanszírozási eljárásrend, vizsgálati és terápiás eljárási rend, valamint rehabilitációs ellátási program szerinti szolgáltatásokra jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárásrendben, a vizsgálati és terápiás eljárási rendben, valamint a rehabilitációs ellátási programokban foglaltaktól eltérhet.
 
-(2) Amennyiben az adott ellátás tekintetében az egészségbiztosításért felelős miniszter nem határoz meg finanszírozási, illetőleg vizsgálati és terápiás eljárási rendet, a biztosított a kezelőorvos által gyógyító céllal rendelt, a szolgáltatónál rendelkezésre álló mindazon finanszírozott vizsgálati és terápiás ellátásra jogosult, amely egészségi állapotának lehetséges mértékű helyreállításához szükséges.
+(2) Amennyiben az adott ellátás tekintetében az egészségbiztosításért felelős miniszter nem határoz meg finanszírozási eljárásrendet, vizsgálati és terápiás eljárási rendet vagy rehabilitációs ellátási programot, a biztosított a kezelőorvos által gyógyító céllal rendelt, a szolgáltatónál rendelkezésre álló mindazon finanszírozott vizsgálati és terápiás ellátásra jogosult, amely egészségi állapotának lehetséges mértékű helyreállításához szükséges.
 
 (3) Az egészségügyi szolgáltatás igénybevétele során a biztosított a finanszírozott egészségügyi szolgáltató munkarendje alapján beosztott orvos helyett másik orvost igényelhet, amennyiben azt a biztosított egészségi állapota által indokolt ellátás szakmai tartalma és az ellátás sürgőssége nem zárja ki, azzal, hogy ezt a szabályt az egészségügyi szolgáltatónál nem munkaviszonyban, illetve közalkalmazotti jogviszonyban foglalkoztatott orvos választására is alkalmazni kell.
 
@@ -862,7 +864,7 @@ igazolja.
 (2) A finanszírozott egészségügyi szolgáltató megtéríti az elszámolt ellátás finanszírozási összegét, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató
 
 - a) vagy a beutalásra jogosult orvosa nem a hatályos jogszabályoknak vagy szakmai előírásoknak megfelelően járt el az egészségügyi szolgáltatások rendelésénél,
-- b) a miniszteri rendeletben kihirdetett finanszírozási eljárásrendeknek, ennek hiányában az érvényes szakmai protokolloknak vagy mindezek hiányában az Eütv. 119. § (3) bekezdésében foglalt szakmai előírásoknak (a továbbiakban együtt: orvosszakmai előírások) nem megfelelően nyújtott ellátást számolt el, vagy
+- b) a miniszteri rendeletben kihirdetett finanszírozási eljárásrendeknek, rehabilitációs ellátási programoknak, ennek hiányában az érvényes vizsgálati és terápiás eljárási rendeknek vagy mindezek hiányában az Eütv. 119. § (3) bekezdésében foglalt szakmai előírásoknak (a továbbiakban együtt: orvosszakmai előírások) nem megfelelően nyújtott ellátást számolt el, vagy
 - c) más forrásból megtérülő ellátást számolt el.
 
 (3) A finanszírozott egészségügyi szolgáltató megtéríti a kifizetett finanszírozási többletet, ha az egészségbiztosító az ellenőrzése során megállapítja, hogy egy ellátást több vagy magasabb összegű finanszírozásra jogosító jogcímen számolt el.

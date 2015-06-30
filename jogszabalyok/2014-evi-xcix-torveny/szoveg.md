@@ -726,7 +726,15 @@ lép.
 
 #### 100. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
 
-418–421. §
+418. §
+
+419. §
+
+420. § (1)
+
+(2)
+
+421. §
 
 422. § (1)
 
@@ -879,11 +887,11 @@ lép hatályba.
 
 (7) A 62. §, a 67. §, a 90. § (3) bekezdése, a 101. §, a 108. § (3) bekezdése és 221. § (1) bekezdés 2. pontja 2015. április 1-jén lép hatályba.
 
-(8) A 117. §, a 132. § (1) bekezdése, a 133. §, a 134. §, a 135. § 2–4., 6. és 9–13. pontja, a 136. § (1) bekezdés 1., 4. és 5. pontja, a 136. § (2) bekezdés 3. pontja, a 137. § (2) bekezdése, a 138. §–148. §, a 149. § (1) bekezdése és (2) bekezdés 1., 2. és 4–6. pontja, a 150. §, a 155. §, a 157. § (3) bekezdése, a 158. § (1) bekezdése és (2) bekezdés 2. pontja, a 47. alcím, az 55. alcím, a 365. §–367. §, a 369. §, 370. § 1. pontja, a 375. §, a 418. §–421. § és a 422. § (2) bekezdése 2015. július 1-jén lép hatályba.
+(8) A 117. §, a 132. § (1) bekezdése, a 133. §, a 134. §, a 135. § 2–4., 6. és 9–13. pontja, a 136. § (1) bekezdés 1., 4. és 5. pontja, a 136. § (2) bekezdés 3. pontja, a 137. § (2) bekezdése, a 138. §–148. §, a 149. § (1) bekezdése és (2) bekezdés 1., 2. és 4–6. pontja, a 150. §, az 55. alcím, a 365. §–367. §, a 369. §, 370. § 1. pontja, a 375. §, a 419. § és a 420. § (1) bekezdése 2015. július 1-jén lép hatályba.
 
 (9) A 95. § (1) bekezdése, 99. §, a 104. §, a 107. §, a 109. §, a 259. §, a 260. §, a 261. § (2) bekezdése 2015. szeptember 1-jén lép hatályba.
 
-(10) A 151. § 1. és 2. pontja, a 258. § és az 54. alcím 2016. január 1-jén lép hatályba.
+(10) A 151. § 1. és 2. pontja, a 155. §, a 157. § (3) bekezdése, a 158. § (1) bekezdése és (2) bekezdés 2. pontja, a 258. §, a 47. alcím, az 54. alcím, a 418. §, a 420. § (2) bekezdése, a 421. § és a 422. § (2) bekezdése 2016. január 1-jén lép hatályba.
 
 #### 110. Átmeneti rendelkezések
 

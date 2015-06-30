@@ -233,6 +233,8 @@ szerezhet.
 
 (2) Nem minősül banktitoknak az MFB Zrt. tulajdonában álló, illetőleg a rábízott vagyon körébe tartozó gazdasági társaságok tulajdonlásával, illetve tulajdonosi irányításával összefüggő az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely e társaságok személyére, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi kapcsolataira vonatkozik.
 
+(3) Nem minősül banktitoknak a QUAESTOR Pénzügyi Tanácsadó Zártkörűen Működő Részvénytársaság, továbbá a közvetlen vagy közvetett részesedésével működő gazdasági társaságok 3. § (2) bekezdése szerinti ügyleteire vonatkozó szerződés, biztosítéki szerződés, az ügyletekhez kapcsolódó igényérvényesítési eljárások irata, valamint a döntés-előkészítés és a döntéshozatal során keletkezett irat és adat.
+
 10/B. § A Hpt. 159. §-a, 161. §-a és a Ptk. 2:47. § (1) bekezdése szerinti titoktartási kötelezettség nem terjed ki – a Hpt. 159. § (3) bekezdésében és 161. § (2) bekezdésében meghatározottakon túlmenően – az MFB Zrt. és a Szövetkezeti Hitelintézetek Integrációs Szervezete (a továbbiakban: Integrációs Szervezet) által a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium részére, illetve az 1. és 2. mellékletben meghatározott gazdálkodó szervezetek által, valamint az Integrációs Szervezet tagjai által az MFB Zrt. részére adott adatszolgáltatásra.
 
 ### V. Fejezet — AZ MFB ZRT. FELÜGYELETE
@@ -358,7 +360,7 @@ szerezhet.
 
 22. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvénnyel megállapított 10/A. §-ban foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
 
-23. §
+23. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvénnyel megállapított 10/A. § (3) bekezdésben foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
 
 ### VIII. Fejezet
 
