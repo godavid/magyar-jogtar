@@ -156,10 +156,10 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (5) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsiból, vontatóból, pótkocsiból és autóbuszból
 
-- a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) és f) pontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
-- b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) és f) pontja szerinti székhely, telephely címként olyan települési cím bejegyzését is kérheti, amelyet a külön jogszabály szerint tárolási helyül a közlekedési hatóságnak bejelentett, és a bejelentés megtörténtét a közlekedési hatóság igazolása tanúsítja, feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
+- a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
+- b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja székhely, telephely címként olyan települési cím bejegyzését is kérheti, amelyet a külön jogszabály szerint tárolási helyül a közlekedési hatóságnak bejelentett, és a bejelentés megtörténtét a közlekedési hatóság igazolása tanúsítja, feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
 
-(6) Az (1) bekezdés b) és f) pontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
+(6) Az (1) bekezdés b) pontja és d) pont db) alpontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
 
 (7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -279,7 +279,7 @@ igényelhető.
 
 18. § (1) Az érintett személy megtilthatja, korlátozhatja személyes adatainak szolgáltatását, kivéve, ha az adatszolgáltatás törvényen, nemzetközi szerződésen vagy nemzetközi kötelezettségvállaláson alapul.
 
-(2) Az érintett személy adatainak szolgáltatását korlátozó vagy tiltó nyilatkozatát, illetve annak visszavonását személyesen vagy meghatalmazott képviselője útján írásban teheti meg, valamint a kormányzati portálon keresztül elektronikusan is előterjesztheti.
+(2) Az érintett személy adatainak szolgáltatását korlátozó vagy tiltó nyilatkozatát, illetve annak visszavonását személyesen vagy meghatalmazott képviselője útján írásban teheti meg, valamint elektronikusan is előterjesztheti.
 
 (3) Az érintett személyt az adatfelvétel, illetve az adatváltozás bejelentését követően indult hatósági eljárás során a hatóság tájékoztatja az (1) bekezdésben foglalt jogosultságáról, és írásban nyilatkoztatja a jogosultság gyakorlásáról.
 
@@ -304,7 +304,7 @@ igényelhető.
 - k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 - l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
 - m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
-- n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a helyi önkormányzatokról szóló 1990. évi LXV. törvény 9. § (5) bekezdésben meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjaiban, továbbá a (3) bekezdésében megjelölt adatokat.
+- n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjaiban, továbbá a (3) bekezdésében megjelölt adatokat.
 - o) a Központi Statisztikai Hivatal törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat;
 - p) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1)–(1a) bekezdésében, (2) bekezdés a)–b), d)–e) pontjában, (3) bekezdésében foglalt adatokat;
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése szerinti adatokat;
@@ -329,7 +329,7 @@ igényelhető.
 
 21. § A nyilvántartásból adatot igényelhet magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kérelmező):
 
-- a) jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) és ah) alpontjában, a 8/A. § b)–c), e), i) pontjában meghatározott adatok kivételével;
+- a) jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) alpontjában, a 8/A. § b)–c), e), i) pontjában meghatározott adatok kivételével;
 - b) tudományos kutatás céljából természetes személyazonosító és járműazonosító adatok kivételével;
 - c) közvélemény-kutatás és piackutatás céljára a jármű műszaki adataiból időbeli és területi bontásban;
 - d) közvetlen üzletszerzés céljára a jármű műszaki adataiból időbeli és területi bontásban.
