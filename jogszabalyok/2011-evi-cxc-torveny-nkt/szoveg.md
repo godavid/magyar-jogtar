@@ -195,7 +195,7 @@ tagozat,
 
 (4) Az oktatásért felelős miniszter az (1)–(3) bekezdésben meghatározottakon kívül más köznevelési intézményt is alapíthat, alapítását engedélyezheti, ha az megfelel e törvény, valamint a szakképzésről szóló törvény előírásainak. Engedélyezheti sajátos pedagógiai program alapján nevelő és oktató általános iskola, középfokú iskola továbbá olyan középiskola alapítását, amelynek nem célja, hogy a tanulót felkészítse az érettségi vizsgára. A kérelemhez mellékelni kell a köznevelési intézmény alapításához jogszabályban meghatározott dokumentumokat, tevékenységével, óvoda és iskola esetén az átadni kívánt ismeretekkel kapcsolatos programot. Az engedéllyel kapcsolatos többletköltségeket a fenntartónak kell viselnie.
 
-(5) Köznevelési alapfeladatot – a 19. § (3) bekezdés a) és c) pontjában foglalt kivétellel – csak az (1) bekezdésben felsorolt köznevelési intézmény láthat el. A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) hozzájárulását ki kell kérni.
+(5) Köznevelési alapfeladatot – a 19. § (3) bekezdés a) és c) pontjában foglalt kivétellel – csak az (1) bekezdésben felsorolt köznevelési intézmény láthat el.
 
 (6) Az (1) bekezdés b)–e) és g) pontjában felsorolt iskola – külön jogszabályban meghatározottak szerint – elláthatja a sportiskola feladatait is.
 
@@ -738,7 +738,7 @@ rendkívüli szünetet rendel el.
 (4) Ha a nevelési-oktatási intézményt a honvédelemért, valamint a rendvédelemért felelős miniszter tartja fenn,
 
 - a) a szakközépiskola és a szakiskola a 12–13. §-ban foglaltaktól eltérő számú évfolyammal működhet,
-- b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, a honvédelemért felelős miniszter fenntartása esetén katonai szabályok és tevékenység, a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
+- b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, a honvédelemért felelős miniszter fenntartása esetén katonai szabályok és tevékenység, a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
 - c) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők és a tanulók számára – a fenntartás függvényében – a Magyar Honvédségben érvényesülő, vagy a Hszt.-ben előírt viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, ezek megsértése miatt fegyelmi eljárás kezdeményezhető, továbbá a jogellenesen okozott kár megtérítésére sajátos szabályokat írhat elő,
 - d) a nevelő-oktató munka pedagógus munkakörben szolgálati viszonyban is ellátható,
 - e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást,
@@ -868,6 +868,7 @@ is nyilvántartja.
 - f) a számla kiállításához szükséges adatai a tankönyvforgalmazókhoz,
 - g) az állami vizsgája alapján kiadott bizonyítványainak adatai a bizonyítványokat nyilvántartó szervezetnek a bizonyítványok nyilvántartása céljából, továbbá a nyilvántartó szervezettől a felsőfokú felvételi kérelmeket nyilvántartó szervezethez,
 - h) a Magyar Honvédség központi személyügyi szerve részére a honvédelemért felelős miniszter által fenntartott köznevelési intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a (4) bekezdés d) és e) pontja szerinti adat,
+- i) a szakképzésről szóló törvény 46. § (1a) bekezdésében meghatározott igazolás kiállítása és a tanulószerződés megkötésének elősegítése céljából a szakképzésről szóló törvény 87. §-ában meghatározott adat a területileg illetékes gazdasági kamara részére
 
 továbbítható.
 
@@ -1925,7 +1926,7 @@ dönt.
 
 (2) A szülő gyermeke adottságainak, képességeinek, érdeklődésének megfelelően, saját vallási, világnézeti meggyőződésére, nemzetiségi hovatartozására tekintettel szabadon választhat óvodát, iskolát, kollégiumot. A gyermek – ha nem cselekvőképtelen – tizennegyedik életévének betöltésétől a szülő ezt a jogát gyermekével közösen gyakorolhatja.
 
-(3) A halmozottan hátrányos helyzetű gyermek szülőjét megilleti az a jog, hogy gyermeke óvodába járatásához – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint – anyagi támogatást kapjon.
+(3)
 
 (4) A szülő joga, hogy gyermeke neveléséhez igénybe vegye a pedagógiai szakszolgálat intézményét. A szülő kötelessége, hogy gyermekével megjelenjen a nevelési tanácsadáson, továbbá biztosítsa gyermekének az iskolapszichológusi, óvodapszichológusi vizsgálaton és a fejlesztő foglalkozásokon való részvételét, ha a tanulóval foglalkozó pedagógusok kezdeményezésére a nevelőtestület erre javaslatot tesz. Ha az e bekezdésében foglalt kötelezettségének a szülő nem tesz eleget, a kormányhivatal kötelezi a szülőt kötelezettségének betartására.
 

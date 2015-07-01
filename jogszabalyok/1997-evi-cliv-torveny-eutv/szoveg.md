@@ -492,7 +492,7 @@ nyilatkozatára is alkalmazni kell.
 - a) a betegjogi képviselői munkakör betöltésére benyújtott pályázat elbírálásáig,
 - b) a betegjogi képviselő megbízatása megszűnéséig kezeli.
 
-32. § (1)
+32. § (1) A betegjogi képviselő a betegjogi képviselői feladatainak ellátásával összefüggő tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
 
 (2) A betegjogi képviselő nem állhat azzal az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban, amely az általa képviselendő betegek részére egészségügyi szolgáltatást nyújt.
 
@@ -837,7 +837,7 @@ kötelező védőoltás elrendelésének van helye.
 - a) a védőoltásban részesítés a beteg egészségi állapota miatt nem lehetséges, vagy a védőoltás a beteg egészségét vagy meglévő betegségét várhatóan károsan befolyásolná, és
 - b) az a) pont szerinti körülmény változása belátható időn belül nem várható.
 
-(3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó orvosi szakvéleményt.
+(3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó, a kezelőorvos által adott szakvéleményt.
 
 (4) A (3) bekezdés szerinti eljárás alatt – annak jogerős befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás jogerős befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
 
@@ -1405,6 +1405,8 @@ terjedhet.
 
 (3) Az egészségügyi szolgáltató az (1) bekezdés szerinti adatokat az egészségbiztosítási szerv által működtetett informatikai felület alkalmazásával, a (2) bekezdés szerinti adatfelvitellel egyidejűleg, elektronikusan továbbítja – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározottak szerint működtetett – Központi Implantátumregiszter részére.
 
+(4) Az (1) bekezdés szerinti nyilvántartás vezetésével és a Központi Implantátumregiszterbe történő adattovábbítással kapcsolatos ellenőrzési feladatokat az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.
+
 ### Gyógyszerellátás
 
 102. § Az egészségügyi ellátás része a gyógyszerellátás, amelynek célja – a külön törvényben foglaltak szerint – biztosítani a gyógyító és megelőző tevékenységhez a gyógyszerek hivatalos jegyzékében szereplő megfelelő minőségű, biztonságos, hatásos és költséghatékony gyógyszereket.
@@ -1820,20 +1822,20 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 - b) a szakképzésben részt vevő szakirányát,
 - c) az elméleti képzésért felelős egészségügyi felsőoktatási intézmény megnevezését,
 - d) a szakképzés gyakorlati részének teljesítésére vonatkozó adatokat,
-- e) a munkáltató nevét, címét, adószámát és bankszámla számát,
+- e) a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a munkavégzés helyeként meghatározott egészségügyi szolgáltató nevét, címét, adószámát és bankszámlaszámát, vagy – ha nem a szakorvosképzésért felelős egészségügyi államigazgatási szerv a munkáltató – a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató nevét, címét, adószámát és bankszámlaszámát,
 - f) a Rezidens Támogatási Programban történő részvétel tényét.
 
 (5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet.
 
 (5b) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt, a szakképzésben részt vevő személyek természetes személyazonosító adatainak kivételével közhiteles hatósági nyilvántartásnak minősül.
 
-(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
+(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a munkavégzés helyeként meghatározott egészségügyi szolgáltató, vagy – ha nem szakorvosképzésért felelős egészségügyi államigazgatási szerv a munkáltató – a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató és az egészségügyi felsőoktatási intézmény által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az
 
 - a) (5) bekezdés a) pontjában foglalt adatok közül a természetes személyazonosító adatokban bekövetkezett változást a jelölt,
 - b) (5) bekezdés b) és c) pontjai szerinti adatokban bekövetkezett változást a felsőoktatási intézmény és
-- c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a munkáltató a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
+- c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a munkavégzés helyeként meghatározott egészségügyi szolgáltató, vagy – ha nem szakorvosképzésért felelős egészségügyi államigazgatási szerv a munkáltató – a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 
 (8) A (4) bekezdés szerinti nyilvántartás adatainak kötelező megőrzési ideje a támogatott szakképesítés megszerzésétől számított 10 év.
 
@@ -1846,6 +1848,8 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 (3) A továbbképzési időszak alatt a továbbképzésre kötelezettnek a külön jogszabályban meghatározott elméleti és gyakorlati továbbképzési formákban kell részt vennie. Az elméleti és gyakorlati feltételek teljesítésének mérése pontozással történik.
 
 (4) Mentesül a továbbképzési kötelezettség alól a 75. életévét betöltött egészségügyi dolgozó.
+
+(5) Mentesül a továbbképzési kötelezettség teljesítése alól az az orvos, aki első szakorvosi szakképesítése megszerzésére irányuló képzésben vesz részt.
 
 116/C. § (1) A 116/B. § (1) bekezdésében meghatározott személyek – általuk elektronikus úton megtekinthető formában – továbbképzési kötelezettségük teljesítéséhez szükséges, megszerzett továbbképzési pontjait, illetve a továbbképzési kötelezettség alóli mentességet külön jogszabályban meghatározott szerv, a külön jogszabályban meghatározott formában folyamatosan, elektronikusan nyilvántartja.
 
@@ -1890,7 +1894,7 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
   - ab) születési helyét és idejét,
   - ac) orvosi, fogorvosi pecsétjének számát,
   - ad) gyógyszerészi alap-nyilvántartási számát,
-- b) annak az egészségügyi szolgáltatónak a megnevezését, címét, amelynél a képzés ideje alatt – a képzésbe kapcsolódás feltételeként – a képzésben részt vevő személy meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll,
+- b) annak az egészségügyi szolgáltatónak vagy szolgáltatóknak a megnevezését, címét, amelynél a képzésben részt vevő személy a képzését teljesítette,
 - c) a képzésbe lépéshez szükséges szakképzettséget igazoló oklevél számát, kiállításának a helyét, idejét és az oklevelet kiállító intézmény megnevezését,
 - d) a megszerzett szakvizsga-bizonyítvány megnevezését, számát, eredményét,
 - e) az egészségügyi szakmai tevékenység végzésére jogosító okirat másolatát.
@@ -2137,7 +2141,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 ### Egyes egészségügyi dolgozók szervezett érdekvédelme
 
-140/A. § (1) A központi gyakornokokat, illetve rezidenseket foglalkoztató egészségügyi szolgáltatónál – az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló központi gyakornokok, illetve rezidensek részvételével – helyi érdekképviseleti szerv hozható létre, amely előzetes véleményt nyilvánít a központi gyakornokokat, illetve rezidenseket érintő döntéseket megelőzően.
+140/A. § (1) Az egészségügyi felsőfokú szakirányú szakképzésben résztvevőket foglalkoztató vagy a rezidens képzésben képzőhelyként bevont egészségügyi szolgáltatónál – az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló, vagy az egészségügyi szolgáltatónál képzési idejüket töltő szakorvos-, szakfogorvos-, szakgyógyszerész- és szakpszichológus-jelöltek (a továbbiakban: szakorvosjelöltek) részvételével – helyi érdekképviseleti szerv hozható létre, amely előzetes véleményt nyilvánít a szakorvosjelöltek képzését érintő döntéseket megelőzően, valamint részt vesz a képzéssel összefüggésben a minőségbiztosítási feladatok ellátásában.
 
 (2) Az (1) bekezdés szerint létrehozott helyi érdekképviseleti szervek országos érdekképviseleti szervet hozhatnak létre.
 
@@ -2875,8 +2879,8 @@ személynél végezhető el.
 188. § E fejezet alkalmazásában
 
 - a) pszichiátriai intézet: minden olyan egészségügyi szolgáltatást vagy azt is nyújtó ellátóhely, amely pszichiátriai betegek pszichiátriai betegségükből eredő ellátását, továbbá felügyeletét, gondozását napi 24 órán át biztosítja, függetlenül az intézmény által nyújtott egyéb szolgáltatásoktól, fenntartójától és elnevezésétől, ideértve a külön jogszabály szerinti közösségi pszichiátriai ellátást nyújtó intézetet is. A 189–195. § tekintetében pszichiátriai intézetnek minősül a pszichiátriai betegek járóbeteg-szakellátását végző pszichiátriai intézmény, a pszichiátriai betegek otthona, valamint rehabilitációs intézete, ideértve az átmeneti intézményt is. A pszichiátriai betegek otthonára és rehabilitációs intézetére vonatkozó eltérő szabályokat külön jogszabály állapítja meg. Külön jogszabály tartalmazza a büntetőeljárás során elrendelt kényszergyógykezelést, ideiglenes kényszergyógykezelést és elmemegfigyelést végző szervre vonatkozó eltérő szabályokat;
-- b) veszélyeztető magatartás: a beteg – pszichés állapotának zavara következtében – saját vagy mások életére, testi épségére, egészségére jelentős veszélyt jelenthet és a megbetegedés jellegére tekintettel a sürgős intézeti gyógykezelésbe vétel nem indokolt;
-- c) közvetlen veszélyeztető magatartás: a beteg – pszichés állapotának akut zavara következtében – saját vagy mások életére, testi épségére, egészségére közvetlen és súlyos veszélyt jelent;
+- b) veszélyeztető magatartás: a beteg – mentális zavara következtében – saját vagy mások életére, testi épségére, egészségére jelentős veszélyt jelenthet, és a kezelés hiánya állapotának további romlását eredményezné, amely a 196. § c) pontja szerinti gyógykezeléssel hárítható el, de a megbetegedés jellegére tekintettel a sürgős intézeti gyógykezelésbe vétel nem indokolt;
+- c) közvetlen veszélyeztető magatartás: a beteg – akut mentális zavara következtében – saját vagy mások életére, testi épségére, egészségére közvetlen és súlyos veszélyt jelent, és az azonnali kezelés hiánya állapotának további romlását eredményezné, amely a 196. § b) pontja szerinti azonnali intézeti gyógykezeléssel hárítható el;
 - d) pszichiátriai beteg: az a beteg, akinél a kezelőorvos a Betegségek Nemzetközi Osztályozása X. Revíziója szerinti Mentális és Viselkedészavar (F00-F99), illetve szándékos önártalom (X60-X84) diagnózisát állítja fel.
 
 ### 1. CÍM — Pszichiátriai betegek jogaira vonatkozókülönös szabályok
@@ -2948,7 +2952,7 @@ van helye.
 
 (6) A pszichiátriai intézet vezetője az (5) bekezdés a) pontja szerinti kérelmet haladéktalanul továbbítja a bíróságnak, az (5) bekezdés b) pontja szerinti esetben pedig a felvételről haladéktalanul értesíti a bíróságot.
 
-(7) A bíróság az értesítés beérkezésétől számított 72 órán belül megvizsgálja, hogy az önkéntes gyógykezelés feltételei fennállnak-e. A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost, valamint beszerzi független – a beteg gyógykezelésében részt nem vevő – igazságügyi elmeorvos szakértő véleményét.
+(7) A bíróság az értesítés beérkezésétől számított 72 órán belül megvizsgálja, hogy az önkéntes gyógykezelés feltételei fennállnak-e. A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost, valamint beszerzi független, a beteg gyógykezelésében részt nem vevő igazságügyi elmeorvos szakértő véleményét, aki szakvéleményét írásban vagy legkésőbb a meghallgatáson szóban terjeszti elő.
 
 (8) A (6)–(7) bekezdésekben meghatározott eljárás során, amennyiben a gyógykezelés nem indokolt, a bíróság elrendeli a beteg elbocsátását. Ebben az esetben a beteget a bíróság jogerős határozatának közlésétől számított 24 órán belül el kell bocsátani az intézetből. Az önkéntes gyógykezelés alapjául szolgáló beleegyező nyilatkozat, illetve kérelem érvénytelensége esetén – amennyiben annak az e törvényben meghatározott feltételei fennállnak – a bíróság elrendeli a beteg kötelező intézeti gyógykezelését.
 
@@ -2974,7 +2978,9 @@ van helye.
 
 (5) A bíróság a sürgősséggel felvett beteg esetében akkor rendeli el a kötelező gyógykezelést, ha a beteg veszélyeztető magatartást tanúsít és fennáll az intézeti gyógykezelés szükségessége.
 
-(6) A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost, valamint beszerzi egy független – a beteg gyógykezelésében részt nem vevő – igazságügyi elmeorvos-szakértő véleményét.
+(6) A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost.
+
+(6a) A bíróság az értesítés kézhezvételét követően haladéktalanul kirendel egy független, a beteg gyógykezelésében részt nem vevő igazságügyi elmeorvos szakértőt, aki szakvéleményét írásban vagy legkésőbb a (6) bekezdés szerinti meghallgatáson szóban terjeszti elő.
 
 (7) A bírósági eljárást a sürgősséggel felvett betegnél akkor is le kell folytatni, ha a beteg a határozat meghozataláig beleegyezését adta az intézeti gyógykezeléshez.
 
@@ -3008,11 +3014,11 @@ van helye.
 
 ### Közös eljárási szabályok
 
-201. § (1) A bíróság az e fejezetben szabályozott eljárások során nemperes eljárásban jár el. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a Polgári perrendtartásról szóló 1952. évi III. törvény szabályait kell megfelelően alkalmazni.
+201. § (1) A bíróság az e fejezetben szabályozott eljárások során nemperes eljárásban jár el. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló 1952. évi III. törvényt kell megfelelően alkalmazni. A 196–200. §-ok szerinti eljárásokban kijelölt bírósági titkár is eljárhat.
 
 (2) Az e fejezetben szabályozott nemperes eljárások tárgyi költségmentesek.
 
-(3) A kötelező pszichiátriai gyógykezelés elrendelésére irányuló eljárásra a beteg lakóhelye vagy tartózkodási helye szerinti járásbíróság illetékes. A pszichiátriai intézeti gyógykezelés felülvizsgálatára vonatkozó eljárásban a pszichiátriai intézet székhelye szerinti járásbíróság illetékes.
+(3) A kötelező pszichiátriai gyógykezelés elrendelésére irányuló eljárásra a beteg lakóhelye vagy tartózkodási helye szerinti járásbíróság illetékes. Ha a beteg az eljárás kezdeményezésekor a pszichiátriai intézetben tartózkodik, a kötelező pszichiátriai gyógykezelés elrendelésére a pszichiátriai intézet székhelye szerinti járásbíróság illetékes. A pszichiátriai intézeti gyógykezelés felülvizsgálatára irányuló eljárásra a pszichiátriai intézet székhelye szerinti járásbíróság illetékes.
 
 (4) A bírósági eljárásban biztosítani kell a beteg megfelelő képviseletét. A beteg képviseletére a beteg vagy törvényes képviselője meghatalmazása alapján a betegjogi képviselő is jogosult. Ha a betegnek az eljárás során nincs törvényes vagy meghatalmazott képviselője, részére a bíróság ügygondnokot rendel ki.
 
@@ -3021,6 +3027,15 @@ van helye.
 (6) A meghallgatást szükség esetén a bíróság hivatalos helyiségén kívül is meg lehet tartani.
 
 (7) A meghallgatás során az igazságügyi elmeorvos-szakértő arra vonatkozóan is nyilatkozik, hogy a beteg ügyeinek vitelére képes-e.
+
+(7a) A bírósági meghallgatásról készült jegyzőkönyvben fel kell tüntetni:
+
+- a) a gyógykezelést kezdeményező képviselőjének nyilatkozatát,
+- b) a beteget képviselő ügygondnok álláspontját,
+- c) a betegnek feltett kérdéseket és válaszokat, amennyiben a beteg állapota erre lehetőséget biztosít,
+- d) a beteg által önállóan előadottak összefoglalását,
+- e) a szóban előterjesztett szakvélemény teljes tartalmát, illetve az írásban előterjesztett szakvélemény ismertetésének megtörténtét, valamint
+- f) a meghallgatáson tett észrevételeket.
 
 (8) Az eljárás során hozott határozat ellen a közléstől számított 8 napon belül lehet fellebbezni.
 
@@ -3395,6 +3410,8 @@ minősíthet egészségügyi válsághelyzetnek.
 
 (4) Ha az egészségügyi válsághelyzet több megyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
+(5) A miniszter javaslatára a Kormány meghatározza az egészségügyi válsághelyzet felszámolása érdekében igénybe vehető erőket, eszközöket és szervezeteket.
+
 230. § (1) Az egészségügyi válsághelyzeti ellátás biztosítása és finanszírozása állami feladat.
 
 (2) Az egészségügyi válsághelyzeti biztosításának állami kötelezettsége magába foglalja az erre történő felkészülési tevékenység, valamint a tényleges működés megszervezését és lebonyolítását.
@@ -3418,13 +3435,16 @@ minősíthet egészségügyi válsághelyzetnek.
 - d) a betegek egészségügyi ellátására,
 - e) időszakosan működő gyógyintézetek működtetésére,
 - f) pótlólagos kapacitások és készletek bevonására,
-- g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére.
+- g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére,
+- h) az egészségügyi válsághelyzet felszámolásához szükséges intézkedések meghozatalára.
 
 (5) Az egészségügyi válsághelyzeti ellátásban részt vevő egészségügyi szolgáltatóknak az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.
 
 231. § (1) Az egészségügyi válsághelyzeti ellátáshoz szükséges, az egészségügyi szolgáltatók, valamint az együttműködő szervezetek készleteit meghaladó eszközöket és anyagokat az Állami Egészségügyi Tartalékból kell biztosítani.
 
 (2) Egészségügyi válsághelyzet idején a Kormány gondoskodik az Állami Egészségügyi Tartalék folyamatos pótlásának költségvetési fedezetéről, amelyhez szükséges forrásokról utólag el kell számolni. Ez esetben az eszközök és anyagok beszerzése nem tartozik a közbeszerzésekre vonatkozó rendelkezések hatálya alá.
+
+(3) Egészségügyi válsághelyzet esetén a szükségessé váló készletek beszerzéséről az Állami Egészségügyi Tartalék kezelője gondoskodik.
 
 232. § (1) A miniszter köteles gondoskodni arról, hogy a kizárólag az egészségügyi válsághelyzet idején hatályba léptethető egészségügyi jogszabályok kihirdetésre alkalmas állapotban rendelkezésre álljanak.
 
@@ -3544,21 +3564,7 @@ elnevezés használatát engedélyezték.
 
 (4) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-### Természetes fürdővizekhez kapcsolódó engedély
-
-242/A. § (1) Természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenység végzéséhez a minőségellenőrzésért felelős egészségügyi államigazgatási szerv engedélye szükséges. Az eljáró hatóság az engedély megadásával egyidejűleg hivatalból nyilvántartásba veszi a szolgáltatót.
-
-(1a) Az (1) bekezdés szerinti nyilvántartás az (1b) bekezdés a) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
-
-(1b) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
-
-- a) az engedély számát,
-- b) az engedélyes nevét, valamint
-- c) az engedély tárgyát.
-
-(1c) Az (1) bekezdés szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
-
-(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő mintavételi és laboratóriumi vizsgálati tevékenységének folytatására irányuló szándékát köteles a minőségellenőrzésért felelős egészségügyi államigazgatási szervnek bejelenteni.
+242/A. §
 
 ### XVII. Fejezet — NEMZETKÖZI RENDELKEZÉSEK
 
@@ -3666,7 +3672,7 @@ rendeletben kijelölje.
 - b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra és a bejelentés alapján történő egészségügyi szolgáltatás érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat,
 - c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevékenységre jogosító engedély kérelmezésének és kiadásának szabályait, valamint a bejelentés alapján végezhető egészségügyi tevékenységekre vonatkozó bejelentés megtételére, valamint – személyes adatokat nem tartalmazó – kötelező adattartalmára, továbbá a bejelentett személyek nyilvántartásba vételére vonatkozó rendelkezéseket
 - d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
-- e) az egészségügyi válsághelyzeti ellátásra vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti ellátásra való felkészülésre, az egyes egészségügyi válsághelyzetek kezelésére vonatkozó részletes szabályokat
+- e) az egészségügyi válsághelyzeti ellátásra vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet kihirdetésére, megszüntetésére,, az egyes egészségügyi válsághelyzetek kezelésére vonatkozó részletes szabályokat
 - f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 - g) az ellátást nyújtó orvos megválasztására vonatkozó szabályokat,
 - h) a nem-konvencionális eljárásokra vonatkozó szabályokat
@@ -3790,7 +3796,7 @@ rendeletben állapítsa meg.
   - hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
   - hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
 - i) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
-- j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv elkészítését és az elkészítésben való közreműködést is – fizetendő térítés díj mértékét és a megfizetésre vonatkozó rendelkezéseket,
+- j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 - k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
 - l) a háziorvos, házi gyermekorvos választásának, a jelentkezésnek, a jelentkezés elutasításának, az átjelentkezésnek, valamint az ezzel kapcsolatos vitás kérdések rendezésének a részletes szabályait,
 - m) a sugárszennyezett vagy arra gyanús személy egészségügyi ellátásának, valamint a sugárszennyezett személy elkülönítésének részletes szabályait,
@@ -3818,7 +3824,7 @@ rendeletben állapítsa meg.
   - cg) az egészségfejlesztési programok akkreditációjáért,
   - ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
   - ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
-  - cj) az akkreditációs felülvizsgálatért
+  - cj)
   - ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
 
 fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,

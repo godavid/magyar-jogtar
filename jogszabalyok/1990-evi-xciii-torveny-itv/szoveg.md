@@ -698,7 +698,7 @@ származik.
 - 26. közigazgatási hatóságnál nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése;
 - 27. a külkereskedelmi áruforgalomban áru kivitelének, átvitelének engedélyezésére irányuló eljárás;
 - 28. a jogi segítségnyújtás engedélyezésére irányuló eljárás;
-- 29. a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés,
+- 29. a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés,
 - 30. az adóhatóság által az adózó adószámlájának egyenlegéről készített értesítés tárgyában hozott határozat elleni jogorvoslati eljárás,
 - 31. az egyenlő bánásmód követelményének megsértésével kapcsolatban indított eljárás,
 - 32. őstermelői igazolvány cseréje, ha arra az őstermelői igazolványban szereplő helységnév, utcanév, illetve házszám állami vagy önkormányzati döntés alapján történő változása, illetve az őstermelő lakóhelyének más megye illetékességi területéhez való csatolása miatt kerül sor,

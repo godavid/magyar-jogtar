@@ -2856,6 +2856,8 @@ szabálysértést követ el.
 
 (3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a Nemzeti Adó- és Vámhivatal vámszerve is szabhat ki helyszíni bírságot.
 
+(3a) A vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdésben meghatározott cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el.
+
 (4) E § alkalmazásában
 
 - a) biztosíték alatt a vámtartozás, illetve a nem közösségi adók és díjak megfizetésének – vámjogszabályok által meghatározott formában történő – biztosítását,
@@ -3066,6 +3068,8 @@ ha ezzel a légi közlekedés biztonságát nem veszélyezteti, szabálysértés
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
 
+(3) Az áru értékének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdésben meghatározott cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el.
+
 #### 186. Árdrágítás
 
 232. § Aki áruért a hatósági árnál vagy a rá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, szabálysértést követ el.
@@ -3096,11 +3100,11 @@ szabálysértést követ el.
 
 #### 190. Rossz minőségű termék forgalomba hozatala
 
-236. § (1) Aki rossz minőségű terméket jó minőségű termékként értékesít, használatba ad, illetve forgalomba hoz, feltéve, hogy a termék értéke a százezer forintot nem haladja meg, szabálysértést követ el.
+236. § (1) Aki rossz minőségű terméket jó minőségű termékként értékesít, használatba ad, illetve forgalomba hoz, feltéve hogy a termék értéke a százezer forintot nem haladja meg, szabálysértést követ el.
 
-(1a) Az (1) bekezdés alkalmazásában rossz minőségű a termék, ha a jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, ilyen előírás hiányában akkor, ha a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.
+(2) A termék értékének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdésben meghatározott cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el.
 
-(2)
+(3) Az (1) bekezdés alkalmazásában rossz minőségű a termék, ha a jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, ilyen előírás hiányában akkor, ha a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.
 
 #### 191. Vásárlók megkárosítása
 
@@ -3127,6 +3131,8 @@ szabálysértést követ el.
 
 (3) Nem valósítja meg az (1) bekezdés a) pontja szerinti szabálysértést, aki másnak vagy másoknak a szerzői jogról szóló törvény alapján fennálló szerzői vagy ahhoz kapcsolódó jogát vagy jogait többszörözéssel vagy lehívásra történő hozzáférhetővé tétellel sérti meg, feltéve, hogy a cselekmény jövedelemszerzés célját közvetve sem szolgálja.
 
+(4) Az üreshordozó díj, illetve reprográfiai díj összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdés b) pontjában meghatározott cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el.
+
 #### 192/B. Iparjogvédelmi jogok megsértése
 
 238/B. § (1) Aki a jogosultnak törvény, törvénnyel kihirdetett nemzetközi szerződés vagy európai uniós jogi aktus alapján fennálló szabadalmi oltalom, növényfajta-oltalom, kiegészítő oltalmi tanúsítvány, védjegyoltalom, földrajziárujelző-oltalom, formatervezésiminta-oltalom, használatiminta-oltalom, topográfiaoltalom alapján fennálló jogát
@@ -3137,6 +3143,8 @@ szabálysértést követ el.
 megsérti, és ezzel százezer forintot meg nem haladó vagyoni hátrányt okoz, szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
+
+(3) A vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdésben meghatározott cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el.
 
 238/C. § A szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti esetekben a 238/A. §-ban és a 238/B. §-ban meghatározott szabálysértés miatt szabálysértési eljárásnak csak magánindítványra van helye.
 

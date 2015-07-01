@@ -591,12 +591,19 @@ a termék importjának teljesítési helye a Közösség azon tagállama, ahol a
 
 (2) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja az egy naptári hónapot, az (1) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik a naptári hónap utolsó napján is, feltéve, hogy a termékértékesítésre a 89. § alkalmazandó.
 
-(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik
+(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) bekezdéstől és az 58/A. §-tól függetlenül – időarányos részteljesítésként – teljesítés történik
 
 - a) a naptári év utolsó napján is, feltéve, hogy az adót a 140. § a) pontja szerint a szolgáltatás igénybevevője fizeti, vagy
 - b) egyéb, a (2) bekezdés és az a) pont alá nem tartozó esetekben pedig a tizenkettedik hónap utolsó napján is.
 
 (4) E § nem alkalmazható a termék 10. § a) pontja szerinti értékesítésére.
+
+58/A. § (1) Az 58. § (1) bekezdésében foglaltaktól eltérően, ha a felek a könyvviteli, könyvvizsgálati, adótanácsadási szolgáltatásról időszakonkénti elszámolásban vagy fizetésben állapodnak meg, vagy a szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, teljesítés az elszámolással vagy fizetéssel érintett időszak utolsó napja.
+
+(2) Az (1) bekezdéstől eltérően teljesítés
+
+- a) a számla vagy a nyugta kibocsátásának időpontja, amennyiben az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége és a számla vagy a nyugta kibocsátása az elszámolással vagy fizetéssel érintett időszak utolsó napját megelőzi,
+- b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége, de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő harmincadik nap, amennyiben az ellenérték megtérítésének esedékessége az elszámolással vagy fizetéssel érintett időszak utolsó napját követő időpontra esik.
 
 59. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha a teljesítést megelőzően ellenértékbe beszámítható vagyoni előnyt juttatnak (a továbbiakban: előleg), a fizetendő adót pénz vagy készpénz-helyettesítő fizetési eszköz formájában juttatott előleg esetében annak jóváírásakor, kézhezvételekor, egyéb esetben annak megszerzésekor kell megállapítani.
 
@@ -3045,10 +3052,11 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
   - a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
   - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak. 7/A. halottszállító személygépkocsi: az olyan személygépkocsi, amelyet a közúti járművek műszaki megvizsgálásáról szóló rendelet szerinti halottszállító kocsiként tüntetnek fel a járműnyilvántartásban.
 - 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz; 8/A. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása és felhasználása új, módosított vagy javított termékek, eljárások vagy szolgáltatások terveinek és szabályainak létrehozása vagy megtervezése céljából;
-- 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani; 9/A. közcélú adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, az oktatási intézmény részére az alapító okiratában meghatározott tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve hogy
-  - a) az ügyletre vonatkozó okirat, egyéb körülmény valós tartalma alapján nem állapítható meg, hogy az nem vagy csak látszólag szolgálja a közhasznú, a közérdekű, az oktatási intézmény esetében az alapító okiratában meghatározott, továbbá az egyházi jogi személy esetében törvényben meghatározott tevékenységét,
+- 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani;
+- 9/a. közcélú adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve hogy
+  - a) az ügyletre vonatkozó okirat, egyéb körülmény valós tartalma alapján nem állapítható meg, hogy az nem vagy csak látszólag szolgálja a közhasznú, a közérdekű, továbbá az egyházi jogi személy esetében törvényben meghatározott tevékenységét,
   - b) az nem jelent vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás, és
-  - c) az adományozó rendelkezik a közhasznú szervezet, az oktatási intézmény, illetve az egyházi jogi személy által kiállított olyan igazolással, amely tartalmazza az adományozó és az adományozott nevét, székhelyét vagy állandó lakóhelyét, adószámát, adószám hiányában egyedi azonosítására szolgáló jelét és a támogatott célt;
+  - c) az adományozó rendelkezik a közhasznú szervezet, illetve az egyházi jogi személy által kiállított olyan igazolással, amely tartalmazza az adományozó és az adományozott nevét, székhelyét vagy állandó lakóhelyét, adószámát, adószám hiányában egyedi azonosítására szolgáló jelét és a támogatott célt;
 - 10. külföldi utas: az a természetes személy, aki Közösség egyetlen tagállamának sem állampolgára, és nem jogosult a Közösség egyetlen tagállamában sem állandó tartózkodásra, továbbá az, aki a Közösség valamely tagállamának állampolgára ugyan, de lakóhelye a Közösség területén kívül van;
 - 11. lakóhely: tartós ottlakásra szolgáló hely, amellyel a természetes személy személyes és gazdasági kapcsolatai a legszorosabbak (létérdekek központja), kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
 - 12. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan. Nem minősül lakóingatlannak a lakás rendeltetésszerű használatához nem szükséges helyiség még akkor sem, ha az a lakóépülettel egybeépült, így különösen: a garázs, a műhely, az üzlet, a gazdasági épület;
@@ -3369,6 +3377,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 (3) Amennyiben a Mód5 törvénnyel módosított 142. § (1) bekezdés c) pontja hatálya alá tartozó, építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz nem kötött szolgáltatásnyújtáshoz fizetett előleg jóváírásának, kézhezvételének időpontja 2015. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a szolgáltatás igénybevevőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
 
 295. § A 3. számú melléklet I. részének a Mód5 törvénnyel megállapított 25-48. pontjait azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2015. január 1-jére vagy azt követő napra esik.
+
+296. § E törvénynek a Mód5 törvénnyel megállapított 58/A. §-át az olyan 2015. június 30-át követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amely tekintetében a fizetés esedékessége 2015. június 30-át követő időpont.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
