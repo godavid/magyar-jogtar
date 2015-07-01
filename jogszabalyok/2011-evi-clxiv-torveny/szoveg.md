@@ -206,7 +206,7 @@ hívja össze.
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
-- g) akit ügyészként, bíróként, kormánytisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, fegyveres szerv hivatásos állományú tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazónként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- g) akit ügyészként, bíróként, kormánytisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazónként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
 (4a) Nem nevezhető ki ügyésznek az a személy,
@@ -1352,6 +1352,8 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (3a) A Legfőbb Ügyészségen dolgozó alügyészt az illetményalap tíz–tizenöt százalékának megfelelő beosztási pótlék illeti meg. A pótlék alapilletmény jellegű.
 
+(3b) Az ügyészségi fogalmazó és az alügyész az illetményalap tíz százalékának megfelelő összegű munkaköri pótlékra jogosult. Az alügyész beosztási és munkaköri pótléka összesen nem lehet több a Legfőbb Ügyészségen az illetményalap tizenöt százalékánál.
+
 (4) Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után az alügyésznek „főtanácsos” cím adományozható.
 
 (5) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. A címpótlék alapilletmény jellegű.
@@ -1639,7 +1641,7 @@ cím adományozható.
 
 ### XVI. Fejezet — AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONYRA VONATKOZÓ EGYÉB RENDELKEZÉSEK
 
-151. § (1) Az e törvényben nem szabályozott kérdésekben a Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak szolgálati viszonyára a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell, azzal az eltéréssel, hogy kizárólag e törvény alapján jogosultak javadalmazásra, azonban a tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők jogosultak a honvédelmi pótlékra.
+151. § (1) Az e törvényben nem szabályozott kérdésekben a Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak szolgálati viszonyára a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell, azzal az eltéréssel, hogy kizárólag e törvény alapján jogosultak javadalmazásra, azonban a tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők a honvédelmi illetményalapnak megfelelő összegű honvédelmi szolgálati díjra jogosultak.
 
 (2) A katonai ügyésznek és más hivatásos állományba tartozó ügyészségi alkalmazottnak a Magyar Honvédséggel fennálló szolgálati viszonya – a lemondása kivételével – akkor szüntethető meg, illetve a törvény erejénél fogva a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha ügyészségi szolgálati viszonya megszűnik.
 
@@ -1754,7 +1756,7 @@ kell érteni.
 
 158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-159. § (1) E törvény I. Fejezete, III–XIII. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 161–165/J. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 161–165/K. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
@@ -1895,6 +1897,8 @@ kerülhet sor.
 (6) Aki az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépése előtt betöltötte vagy az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépését követő 6 hónapon belül betölti a 165/C. § a) pontjában meghatározott korhatárt, az (1) bekezdés szerinti nyilatkozat alapján az ügyészi tisztségbe nem helyezhető vissza, részére az (5) bekezdésben meghatározottak szerint átalány-kártérítés megfizetése iránt intézkedik a legfőbb ügyész. Az ügyész ezt meghaladó vagyoni kárát bíróság előtt érvényesítheti.
 
 (7) Az e § alapján ismételten kinevezésre kerülő ügyész esetében a legfőbb ügyész megvizsgálja a kinevezési feltételeknek való megfelelést is. A kinevezésre kerülő ügyész mentesül a 12. §-ban foglalt kötelezettség alól. Ha a kinevezésre az ügyészi szolgálati viszony megszűnését követő 3 hónapon belül kerül sor, a kinevezésre kerülő személy mentesül a 11. § (4) bekezdés a)–f) pontjában foglaltak igazolására vonatkozó kötelezettség alól.
+
+165/K. § A 2015. július 1-jén állományban lévő tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők esetében a honvédek jogállásáról szóló 2012. évi CCV. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2015. évi XLIII. törvénnyel módosított 151. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az őket megillető honvédelmi szolgálati díj összege nem lehet alacsonyabb az őket 2015. június 30-án megillető honvédelmi pótlék összegénél.
 
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

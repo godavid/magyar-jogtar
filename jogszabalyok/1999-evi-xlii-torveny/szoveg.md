@@ -196,7 +196,7 @@ hozható meg.
 
 (3) Azok a cigaretta dohánytermékek, amelyek nem felelnek meg az e törvény 6. § (1)–(2) bekezdésében és a külön jogszabályban meghatározott rendelkezéseknek nem gyárthatóak és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 1997. évi CIII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba és e rendelkezés hatálybalépésétől számított egy évet követően nem hozhatók forgalomba.
 
-(4) Felhatalmazást kapnak az érintett miniszterek, hogy az irányításuk, illetve felügyeletük alá tartozó fegyveres szervek tekintetében a dohányzásra, a dohányzóhelyek kijelölésére, illetve a dohánytermékek forgalmazására vonatkozó részletes, az e törvénnyel összhangban lévő szabályokat rendeletben meghatározzák.
+(4) Felhatalmazást kapnak az érintett miniszterek, hogy az irányításuk, illetve felügyeletük alá tartozó, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében a dohányzásra, a dohányzóhelyek kijelölésére, illetve a dohánytermékek forgalmazására vonatkozó részletes, az e törvénnyel összhangban lévő szabályokat rendeletben meghatározzák.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

@@ -862,7 +862,7 @@ miatt indítottak büntetőeljárást.
 - c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 - d)
 
-### Az adatigénylés alapján történő adattovábbítás követelményei
+### Az adatigénylés alapján, valamint a közvetlen hozzáféréssel történő adattovábbítás általános követelményei
 
 69. § (1) A bűnügyi nyilvántartó szerv adatigénylés alapján kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot a bűnügyi nyilvántartási rendszerből, amely adatigénylő tekintetében törvény
 
@@ -882,9 +882,13 @@ előírja.
   - af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, valamint
 - b) az adatigénylő pontos megnevezését és címét.
 
-### Az adatigénylés alapján,
+(3) Az adatigénylők kérelmüket elektronikus úton, egyedi informatikai alkalmazás igénybevételével (a továbbiakban: elektronikus úton előterjesztett adatigénylés) is előterjeszthetik.
 
-valamint a közvetlen hozzáférés útján történő adattovábbítás biztosításának általános követelményei
+(4) Elektronikus úton előterjesztett adatigénylés alapján csak az a személy vehet át adatokat, akinek az adatigénylő erre felhatalmazást adott.
+
+(5) A (4) bekezdésben meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról az adatigénylő – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti a bűnügyi nyilvántartó szervet.
+
+(6) Az elektronikus úton előterjesztett adatigénylésre az adatokat a bűnügyi nyilvántartó szerv elektronikus úton továbbítja.
 
 70. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerből
 
@@ -896,6 +900,38 @@ valamint a közvetlen hozzáférés útján történő adattovábbítás biztos�
 (3) A (2) bekezdésben meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról a közvetlen hozzáférésre jogosult szerv – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti a bűnügyi nyilvántartó szervet.
 
 (4) Az adatigénylésre történő adattovábbítási eljárást meg kell szüntetni, ha az adatigénylés az (1) bekezdés a) pontjában meghatározott feltételnek nem felel meg.
+
+### A bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartása
+
+70/A. § (1) A bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartásának célja a bűnügyi nyilvántartó szerv, elektronikus úton adatközlést teljesítő szerv, a közvetlen hozzáférés útján történő adattovábbításra jogosult szerv, valamint az elektronikus úton előterjesztett adatigénylésre jogosult szerv hozzáféréshez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
+
+(2) A bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartása tartalmazza a bűnügyi nyilvántartó szerv, az elektronikus adatközlést teljesítő szerv, a közvetlen hozzáférés útján történő adattovábbításra jogosult szerv, valamint az elektronikus úton adatigénylésre jogosult szerv
+
+- a) megnevezését,
+- b) levelezési címét,
+- c) telefonszámát,
+- d) telefaxszámát,
+- e) elektronikus levélcímét,
+- f) hozzáférési jogosultságának típusát, megadásának és visszavonásának tényét és időpontját,
+- g) a szerv által adott felhatalmazás jogosultjának
+  - ga) születési családi és utónevét,
+  - gb) személyi azonosítóját,
+  - gc) beosztását,
+  - gd) szervezeti egységét,
+  - ge) jogosultságának terjedelmét, megadásának és visszavonásának tényét és időpontját,
+  - gf) egyedi azonosítóját.
+
+(3) A bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét közvetlen adathozzáféréssel történő adatátvétellel jogosult átvenni:
+
+- a) az adatkezelés jogszerűségének ellenőrzése céljából
+  - aa) a bűnügyi nyilvántartó szerv irányításáért felelős szerv,
+  - ab) a szakértői nyilvántartó szerv irányításáért felelős szerv,
+  - ac) a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
+  - ad) a törvényességi felügyelet gyakorlása során a legfőbb ügyész;
+- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság;
+- c) törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
+
+(4) A bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatokat a jogosultság törlésétől számított öt évig kell kezelni.
 
 ### A hatósági erkölcsi bizonyítvány
 
@@ -1110,7 +1146,7 @@ továbbítja.
 
 - a) a nemzetközi bűnügyi jogsegélyről szóló törvény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján a bűnügyi jogsegély teljesítésére felhatalmazott magyar hatóság törvénnyel kihirdetett nemzetközi szerződésen vagy az Európai Unió kötelező jogi aktusán alapuló bűnügyi jogsegélykérelem teljesítése céljából a törvényben, valamint a nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott adatkörben,
 - b) a Nemzetközi Bűnügyi Együttműködési Központ, valamint a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény alapján közvetlen információcserére feljogosított magyar bűnüldözési feladatot ellátó szerv a bűnüldöző szervek nemzetközi együttműködésének tárgyában létrehozott, törvénnyel kihirdetett nemzetközi szerződés alapján, valamint az Európai Unió kötelező jogi aktusain alapuló információcsere teljesítése céljából a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, az Európai Unió kötelező jogi aktusában, továbbá a nemzetközi szerződésben meghatározott adatkörben,
-- c) a SIRENE Iroda a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény szerinti kiegészítő információk beszerzése és továbbítása céljából a bűntettesek nyilvántartásába, a büntetőeljárás hatálya alatt állók nyilvántartásába, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett adatokból.
+- c) a SIRENE Iroda a Schengeni Információs Rendszer második generációja keretében történő információcseréről szóló törvény szerinti kiegészítő információk beszerzése és továbbítása céljából a bűntettesek nyilvántartásába, a büntetőeljárás hatálya alatt állók nyilvántartásába, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett adatokból.
 
 ### Automatikus találati adathozzáférés
 
@@ -1123,11 +1159,24 @@ továbbítja.
 
 (3) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil nem egyezik meg az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállam nemzeti kapcsolattartó pontjával ezt a tényt automatikusan közli.
 
-(4) A szakértői nyilvántartó szerv a nyomozó hatóság, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot, valamint DNS-profilt automatikus találati adathozzáférés útján összehasonlítja az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal, valamint DNS-profilokkal. Egyedi ügyben kizárólag bűnmegelőzési célból a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatnak az automatikus találati adathozzáférés útján történő összehasonlítását kérheti a bűnüldözési feladatot ellátó szerv is.
+(4) A szakértői nyilvántartó szerv a nyomozó hatóság, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben büntetőeljárás lefolytatása céljából
 
-(5) Ha az ujj- és tenyérnyomat vagy DNS-profil (4) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomattal vagy DNS-profillal, az egyezés tényéről a szakértői nyilvántartó szerv haladéktalanul értesíti azt a bűnüldözési feladatot ellátó szervet, nyomozó hatóságot, ügyészséget vagy bíróságot, amely az összehasonlítást elrendelte. Az értesítés tartalmazza az együttműködő tagállamának nyilvántartásaiban kezelt ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot, valamint az érintett együttműködő tagállam megjelölését.
+- a) a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot,
+- b) a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett DNS-profilt, vagy
+- c) a 82. § (4) bekezdés a) pontja alapján megküldött mintát
 
-(6) Ha a (4) bekezdés szerinti összehasonlítás eredményeként a szakértői nyilvántartó szerv azt állapítja meg, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomattal vagy DNS-profillal azonos ujj- és tenyérnyomat vagy DNS-profil nem található, ennek tényét haladéktalanul közli azzal a bűnüldözési feladatot ellátó szervvel, nyomozó hatósággal, ügyészséggel vagy bírósággal, amely az összehasonlítást elrendelte.
+automatikus találati adathozzáférés útján összehasonlítja az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal, valamint DNS-profilokkal.
+
+(4a) A szakértői nyilvántartó szerv egyedi ügyben kizárólag bűncselekmények megelőzése vagy felderítése céljából
+
+- a) a nyomozó hatóság vagy az ügyészség rendelkezésére a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot vagy a 82. § (4) bekezdés a) pontja alapján megküldött ujj- és tenyérnyomatot,
+- b) a bűnüldözési feladatot ellátó szerv rendelkezésére a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot, illetve a 82. § (4) bekezdés c) vagy f) pontja alapján megküldött ujj- és tenyérnyomatot
+
+automatikus találati adathozzáférés útján összehasonlítja az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal.
+
+(5) Ha az ujj- és tenyérnyomat vagy DNS-profil (4) vagy (4a) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomattal vagy DNS-profillal, az egyezés tényéről a szakértői nyilvántartó szerv haladéktalanul értesíti azt a bűnüldözési feladatot ellátó szervet, nyomozó hatóságot, ügyészséget vagy bíróságot, amely az összehasonlítást elrendelte. Az értesítés tartalmazza az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot, valamint az érintett együttműködő tagállam megjelölését.
+
+(6) Ha a (4) vagy (4a) bekezdés szerinti összehasonlítás eredményeként a szakértői nyilvántartó szerv azt állapítja meg, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomattal vagy DNS-profillal azonos ujj- és tenyérnyomat vagy DNS-profil nem található, ennek tényét haladéktalanul közli azzal a bűnüldözési feladatot ellátó szervvel, nyomozó hatósággal, ügyészséggel vagy bírósággal, amely az összehasonlítást elrendelte.
 
 (7) A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból meghatározott DNS-profilt a szakértői nyilvántartó szerv az együttműködő tagállammal egyeztetett időpontban automatizált módon összehasonlítja e tagállam nyilvántartásában kezelt DNS-profilokkal.
 
@@ -1180,7 +1229,7 @@ továbbítja.
 
 88. § (1) Ha a bűnügyi nyilvántartó szerv vagy a szakértői nyilvántartó szerv megállapítja, hogy a nyilvántartott adatok helytelenek vagy pontatlanok, az adatokat helyesbíti.
 
-(2) A bűnügyi nyilvántartó szerv a személyes adatok kezelésére vonatkozó törvényi rendelkezések betartásának ellenőrzésére vonatkozó jogkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az e törvény hatálya alá tartozó nyilvántartások feletti törvényességi felügyeleti jogkörében eljáró ügyész részére a nyilvántartásokba való betekintést biztosítja.
+(2) A bűnügyi nyilvántartó szerv a személyes adatok kezelésére vonatkozó törvényi rendelkezések betartásának ellenőrzésére vonatkozó jogkörében eljáró NAIH, valamint az e törvény hatálya alá tartozó nyilvántartások feletti törvényességi felügyeleti jogkörében eljáró ügyész részére a nyilvántartásokba való betekintést biztosítja.
 
 (3) A (2) bekezdés szerinti betekintés tényéről, valamint a betekintés eredményeként tett megállapításokról jegyzőkönyvet kell felvenni.
 
@@ -1206,7 +1255,7 @@ továbbítja.
 
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a bűnügyi nyilvántartó szerv irányításáért felelős szerv vagy a szakértői nyilvántartó szerv irányításáért felelős szerv,
 - b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából a legfőbb ügyész,
-- c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
+- c) a NAIH,
 - d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
@@ -1222,9 +1271,9 @@ továbbítja.
 - f) az automatikus találati adathozzáféréssel érintett adatokat,
 - g) az automatikus találati adathozzáférés eredményét.
 
-(2) Az (1) bekezdésben meghatározott adatokat a szakértői nyilvántartó szerv a keletkezésüktől számított két évig kezeli, és azokat a Nemzeti Adatvédelmi és Információszabadság Hatósággal – kérésére – haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított négy héten belül közli.
+(2) Az (1) bekezdésben meghatározott adatokat a szakértői nyilvántartó szerv a keletkezésüktől számított két évig kezeli, és azokat a NAIH-hal – kérésére – haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított négy héten belül közli.
 
-(3) A Nemzeti Adatvédelmi és Információszabadság Hatóság az (1) bekezdésben meghatározott nyilvántartással összefüggő ellenőrzése eredményét 18 hónapig megőrzi, ezen időtartam lejártát követően haladéktalanul törli.
+(3) A NAIH az (1) bekezdésben meghatározott nyilvántartással összefüggő ellenőrzése eredményét 18 hónapig megőrzi, ezen időtartam lejártát követően haladéktalanul törli.
 
 ### X. Fejezet — MINTAVÉTEL RENDJE
 

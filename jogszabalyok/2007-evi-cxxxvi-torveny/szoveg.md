@@ -101,7 +101,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - b) az országgyűlési képviselő és a nemzetiségi szószóló,
 - c) az alkotmánybíróság és olyan bírói testület tagja, amelynek ítélete ellen fellebbezésnek helye nincs,
 - d) a számvevőszék elnöke, a számvevőszék testületének tagja, a központi bank legfőbb döntéshozó szervének tagja,
-- e) a nagykövet, az ügyvivő és a fegyveres szervek hivatásos állományú főtiszti rendfokozatú, tábornoki beosztású és tábornoki rendfokozatú tagjai,
+- e) a nagykövet, az ügyvivő és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti, a hivatásos állomány tábornoki, főtiszti vagy tiszti rendfokozati állománycsoportba tartozó tagjai,
 - f) a többségi állami tulajdonú vállalkozás ügyviteli, igazgatási vagy felügyelő testületének tagja.
 
 (3) Az (1) bekezdés alkalmazásában közeli hozzátartozó a Ptk. szerinti közeli hozzátartozó, továbbá az élettárs.

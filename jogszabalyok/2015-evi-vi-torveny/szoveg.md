@@ -137,7 +137,7 @@ egyes közigazgatási tárgyú törvények módosításáról
 (3) Az Áht.
 
 - a)–c)
-- d)
+- d) 98. §-ában a „lakásépítési támogatással” szövegrész helyébe a „családok otthonteremtési kedvezményével” szöveg,
 - e)–f)
 
 lép.

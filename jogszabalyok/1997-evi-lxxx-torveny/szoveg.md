@@ -989,7 +989,7 @@ Tbj. 58. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben szabályoz
 - d) a biztosítottak és az egészségügyi szolgáltatásra jogosultak nyilvántartását és bejelentését.
 - e) a 23. § szerinti elszámolás feltételeit, valamint a 18. § (3) bekezdésében, a 26. § (3)–(5) bekezdésében meghatározott járulékfizetés rendjét és az adatszolgáltatás módját;
 - f) a 46. § (1) bekezdése szerinti nyilvántartás részletes szabályait;
-- g) a fegyveres szervek tagjainak a táppénz, gyermekápolási táppénz, baleseti táppénz helyett az egészségügyi szabadság idejére kifizetett illetmény elszámolásának részletes szabályait,
+- g) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjainak, valamint a Magyar Honvédség és a katonai nemzetbiztonsági szolgálat hivatásos és szerződéses állományú tagjainak a táppénz, gyermekápolási táppénz, baleseti táppénz helyett az egészségügyi szabadság idejére kifizetett illetmény elszámolásának részletes szabályait,
 - h)
 - i) a szabad mozgás és tartózkodás jogával rendelkező személy biztosítási jogviszonyával, járulékfizetésével, valamint adatszolgáltatásával összefüggő rendelkezéseket,
 - j) a 26. § (5) bekezdésében meghatározott kedvezményezetti kör évenkénti tájékoztatásának részletes szabályait, valamint a központi költségvetés által teljesítendő járulékfizetés összege kiszámításának módszerét,

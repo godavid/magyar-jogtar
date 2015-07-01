@@ -1947,7 +1947,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (3) Az e fejezet alapján lefolytatott eljárások nem érintik az e törvény szerinti engedély megszegésével, illetve az e törvény szerinti engedélyköteles tevékenység engedély nélküli végzésével kapcsolatos egyéb eljárásokat.
 
-114/B. § (1) A Hivatal a 114/E. § szerinti ellenőrzési eljárás és a 114/F–114/H. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 9. és 15. cikke szerinti kötelezettség teljesítését.
+114/B. § (1) A Hivatal a 114/E. § szerinti ellenőrzési eljárás és a 114/F–114/H. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 8–9. és 15. cikke szerinti kötelezettség teljesítését.
 
 (2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
@@ -1999,14 +1999,18 @@ tartalmazza.
 114/E. § (1) A Hivatal ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet
 
 - a) 3. cikk (4) bekezdés b) pontja szerinti jelentéstételi,
-- b) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vételi, és
-- c) 15. cikke szerinti értesítési kötelezettség
+- b) 8. cikk (1)–(4) bekezdése szerinti, nagykereskedelmi energiapiacokon megvalósuló ügyletekre vonatkozó jelentéstételi kötelezettség,
+- c) 8. cikk (5) bekezdése szerinti információ-szolgáltatási kötelezettség,
+- d) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vétel, és
+- e) 15. cikke szerinti értesítési kötelezettség
 
 teljesítését.
 
 (2) Ha a Hivatal az ellenőrzési eljárás hatálya alá tartozó előírás megsértését a 114/F–114/H. § szerinti nagykereskedelmi piacfelügyeleti eljárása során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre az ellenőrzési eljárás szabályai irányadóak.
 
 (3) Ha a piaci szereplő az ellenőrzési eljárás hatálya alá tartozó kötelezettségét a bírság kiszabása ellenére továbbra sem teljesíti, a bírság ismételten kiszabható. Bírság ismételt kiszabása esetén a 114/C. § (2) bekezdése alkalmazandó.
+
+(4) A piaci szereplő vagy a nevében eljáró, az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (4) bekezdés b)–f) pontja szerinti személy vagy hatóság az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdésében foglalt, a nagykereskedelmi energiapiacokon megvalósuló ügyletekkel kapcsolatos információkat a Hivatal részére is megküldi.
 
 ### A nagykereskedelmi piacfelügyeleti eljárás
 

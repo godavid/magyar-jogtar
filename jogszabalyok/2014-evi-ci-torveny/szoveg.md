@@ -10,13 +10,35 @@ a szociális igazgatásról és szociális ellátásokról szóló 1993. évi II
 
 20–34. §
 
-35. §
+35. § A Gyvt. 54. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(Nevelőszülő az a személy lehet, aki)
+
+„f) a képesítési előírások körében
+
+fa) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítéssel rendelkezik, vagy
+
+fb) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés „Befogadott gyermek ellátásának alapfeladatai” követelménymodul záróvizsgáját sikeresen letette, vagy a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyamot eredményesen elvégezte és mindkét esetben vállalja, hogy a nevelőszülői foglalkoztatási jogviszonya keretében a gondozásába kerülő első gyermek, fiatal felnőtt elhelyezésétől számított két éven belül
+
+1. az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítést megszerzi, vagy
+
+2. a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott, a nevelőszülők számára szervezett központi oktatási programot eredményesen elvégzi.”
 
 36–48. §
 
 49. § (1)–(2)
 
-(3)–(4)
+(3) A Gyvt. 151. § (5) bekezdése a következő e) ponttal egészül ki:
+
+{Gyermekétkeztetés esetén}
+
+„e) azon nevelésbe vett gyermek után, aki bölcsődés, óvodás vagy tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, valamint azon utógondozói ellátásban részesülő fiatal felnőtt után, aki tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, az intézményi térítési díj 100%-át”
+
+{kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: normatív kedvezmény].}
+
+(4) A Gyvt. 151. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben ideiglenes hatállyal elhelyezett gyermek és a tanulói jogviszonyban nem álló, illetve nem nappali rendszerű iskolai oktatásban részt vevő utógondozói ellátásban részesülő fiatal felnőtt után nem vehető igénybe a normatív kedvezmény.”
 
 50–54. §
 
@@ -150,7 +172,23 @@ a szociális igazgatásról és szociális ellátásokról szóló 1993. évi II
 
 #### 34. A nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény módosítása
 
-101. §
+101. § A nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés a) pontjában az Nkt. szerinti felmenő rendszerben bevezetésre kerülő ingyenes iskolai tankönyvellátással nem érintett iskolai évfolyamokon, továbbá az (1) bekezdés b) pontja tekintetében az iskolai tankönyvrendelésnek biztosítania kell, hogy – az iskolától történő tankönyvkölcsönzés, napköziben, tanulószobában elhelyezett tankönyvek igénybevétele, használt tankönyvek biztosítása, illetve tankönyvek megvásárlásához nyújtott pénzbeli támogatás útján – a nappali rendszerű iskolai oktatásban részt vevő minden olyan tanuló részére, aki
+
+a) tartósan beteg,
+
+b) a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd,
+
+c) három vagy több kiskorú, illetve eltartott gyermeket nevelő családban él,
+
+d) nagykorú és saját jogán iskoláztatási támogatásra jogosult,
+
+e) rendszeres gyermekvédelmi kedvezményben részesül, vagy
+
+f) a gyermekvédelmi gondoskodás keretében nevelésbe vett vagy utógondozói ellátásban részesül
+
+a tankönyvek ingyenesen álljanak rendelkezésre (a továbbiakban: normatív kedvezmény). A nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben ideiglenes hatállyal elhelyezett tanuló után nem vehető igénybe a normatív kedvezmény.”
 
 #### 35. Egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló2013. évi CCXLV. törvény módosítása
 

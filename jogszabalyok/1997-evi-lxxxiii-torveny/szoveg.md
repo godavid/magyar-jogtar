@@ -34,7 +34,7 @@ terjed ki.
 
 5. § Az egészségbiztosító tájékoztatja a biztosítottat jogairól és kötelezettségeiről, segítséget nyújt igénye érvényesítéséhez.
 
-5/A. § Az utazási költségtérítéssel, a külföldön történő gyógykezeléssel összefüggő eljárásokkal, a méltányosságból igénybe vehető egészségügyi szolgáltatásokkal, a méltányosságból igénybe vehető pénzbeli ellátásokkal (ideértve az egyszeri segélyt is) kapcsolatos ügyekben, valamint a Tbj. 13. §-a alapján indult eljárásokban az elektronikus kapcsolattartás kizárt, kivéve ez utóbbi esetben az európai egészségbiztosítási kártyával és az alkalmazandó jogszabályok meghatározásával kapcsolatos eljárásokat.
+5/A. § Az utazási költségtérítéssel, a külföldön történő gyógykezeléssel összefüggő eljárásokkal, a méltányosságból igénybe vehető egészségügyi szolgáltatásokkal – ide nem értve a 26. § (1) bekezdés c)–e) pontja, (2a) és (2b) bekezdése szerinti szolgáltatásokat –, a méltányosságból igénybe vehető pénzbeli ellátásokkal (ideértve az egyszeri segélyt is) kapcsolatos ügyekben, valamint a Tbj. 13. §-a alapján indult eljárásokban az elektronikus kapcsolattartás kizárt, kivéve ez utóbbi esetben az európai egészségbiztosítási kártyával és az alkalmazandó jogszabályok meghatározásával kapcsolatos eljárásokat.
 
 ### Fogalommeghatározások
 
@@ -52,7 +52,7 @@ terjed ki.
 - f) helyi utazás: a település közigazgatási határán belül történő utazás,
 - g) gyógyászati ellátás: az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló rendeletben meghatározott ellátás,
 - h) közeli hozzátartozó: a házastárs, az élettárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér,
-- i) közös háztartás: a Tbj. 4. §-ának x) pontjában foglaltak szerinti szállás-, lakó- és tartózkodási hely,
+- i) közös háztartás: az egy lakóingatlanban életvitelszerűen együtt lakó természetes személyek közössége,
 - j) központi várólista: a külön jogszabályban meghatározott nagyköltségű ellátások igénybevételére váró betegek jegyzéke, továbbá a szerv, illetve vérsejtképző őssejt átültetésére váró betegek listája (transzplantációs várólista);
 - k) intézményi várólista: az adott fekvőbeteg ellátó intézményben a betegellátás sorrendjét meghatározó jegyzék, amely – a központi várólista alapján igénybe vehető ellátások kivételével – az egészségügyi ellátások meghatározott sorrend szerinti elvégzése érdekében, továbbá tartós kapacitáshiány esetén kerül kialakításra [a j) és k) pont a továbbiakban együtt: várólista],
 - l) egészségbiztosító: az egészségbiztosítási szerv,
@@ -80,12 +80,12 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 5/C. § (1) E törvény alkalmazásában
 
-- a) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, pénzbeli egészségbiztosítási járulékalapot képező jövedelem;
+- a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, pénzbeli egészségbiztosítási járulékalapot képező jövedelem;
 - b) szerződés szerinti havi jövedelem:
-  - ba) betegszabadságra jogosultak esetén a távolléti díj, illetve az illetmény egy hónapra járó összege,
-  - bb) egészségügyi szabadságra jogosultak esetében az egészségügyi szabadság idejére járó távolléti díj,
+  - ba) betegszabadságra jogosultak esetén az ellátásra való jogosultság kezdő napjának hónapjára számított távolléti díj, illetve az illetmény egy hónapra járó összege,
+  - bb) egészségügyi szabadságra jogosultak esetében az ellátásra való jogosultság kezdő napjának hónapjára számított, egészségügyi szabadság idejére járó távolléti díj,
   - bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér másfélszerese,
-  - bd) a Tbj. 5. § (1) bekezdés g) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén a jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
+  - bd) a Tbj. 5. § (1) bekezdés g) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
   - be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér;
 - c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, a gyermekgondozási díj és a táppénz;
 - d) kereset: a Tbj. 5. §-ában meghatározott jogviszonyban személyes munkavégzésért járó pénzbeli egészségbiztosítási járulékalapot képező jövedelem.
@@ -384,7 +384,7 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 (5) A transzplantációs várólistára való felvételre jogosult:
 
 - a) a Tbj. 5. §-a szerinti biztosított,
-- b) a Tbj. 16. §-ának (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy,
+- b) a Tbj. 16. § (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy, ide nem értve a Tbj. 16. § (1) bekezdés p) pontja alapján egészségügyi szolgáltatásra jogosultakat,
 - c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét az uniós rendeletek, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
 
 (6) A biztosított jogosult a kezelőorvosánál mindazon vizsgálatok kezdeményezésére és – a kezelőorvos javaslata alapján – elvégeztetésére, amelyek a várakozás sorrendjét befolyásoló egészségi állapotváltozás megállapításához szükségesek.
@@ -492,7 +492,7 @@ megfelelően kell eljárni.
 
 - a) 18 éves életkor alatt fogszabályozó készülékre;
 - b)
-- c) a rágóképesség helyreállítása érdekében jogszabályban meghatározott típusú fogpótlásra;
+- c) a rágóképesség helyreállítása érdekében miniszteri rendeletben meghatározott típusú fogpótlásra;
 - d)–e)
 - f)
 - g)
@@ -531,7 +531,7 @@ megfelelően kell eljárni.
 
 (4) A 24. § (4) bekezdésében foglalt magasabb színvonalú elhelyezés tekintetében a szolgáltató ápolási naponkénti díjat állapít meg.
 
-(5) A részleges térítési díjat a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet állapítja meg a 23. § a), c), i) és k) pontjában és a 23/A. § c) pontjában foglalt ellátások tekintetében.
+(5) A részleges térítési díjat a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet állapítja meg a 23. § a), c) és k) pontjában, valamint a 23/A. § c) pontjában foglalt ellátások tekintetében.
 
 (6)
 
@@ -550,6 +550,8 @@ egészségügyi szolgáltatások
 (2) Az egészségbiztosító méltányosságból a gyógyászati segédeszközök árához a külön jogszabályban foglaltaktól eltérő gyakorisággal támogatást nyújthat.
 
 (2a) Az egészségbiztosító méltányosságból – az egészségügyért felelős miniszter rendeletében meghatározott eszközök esetében – a támogatással rendelhető gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat.
+
+(2b) Az egészségbiztosító méltányosságból – az egészségügyért felelős miniszter rendeletében meghatározott eszközök esetében – gyógyászati segédeszköz kölcsönzési díjához támogatást nyújthat.
 
 (3) A méltányossági jogkör gyakorlása nem terjed ki
 
@@ -1071,6 +1073,10 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (4) Ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a csecsemőgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni azzal, hogy a naptári napi alap a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét nem haladhatja meg.
 
+(4a) Ha a gyermek gyermekgondozási díj vagy gyermekgondozási segély igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2)–(4) bekezdés alapján számított csecsemőgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
+
+(4b) A (4a) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
+
 (5) A csecsemőgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 
 (6) Ugyanazon személy részére ugyanazon gyermeke jogán benyújtott csecsemőgondozási díj iránti kérelmet ismételten elbírálni nem lehet, a csecsemőgondozási díjat az (5) bekezdés szerinti határozatban megállapított összegben kell tovább folyósítani.
@@ -1133,19 +1139,30 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (3) A gyermekgondozási díj az (1) bekezdés g) pontja szerinti esetben legfeljebb a 42/B. § (1) bekezdésében meghatározott időpontig, az (1) bekezdés h) pontja szerinti esetben pedig legfeljebb a 42/B. § (1a) bekezdésében meghatározott időpontig jár.
 
-42/D. § (1) A gyermekgondozási díj összege a naptári napi alap 70%-a, de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
+42/D. § (1) A gyermekgondozási díj összege
 
-(2) A gyermekgondozási díj alapjául szolgáló jövedelemből a naptári napi alapot a 48. § (1)–(5) és (8) bekezdése szerint kell megállapítani azzal, hogy ha az ellátásra jogosult megfelel a 42/E. § (1) bekezdés b) pontja szerinti feltételeknek, az ellátás összege nem lehet kevesebb a 42/E. § (5) bekezdésében meghatározott összegnél.
+- a) a (2) és (3) bekezdés szerinti esetben a naptári napi alap 70%-a,
+- b) a (4) bekezdés szerinti esetben a naptári napi jövedelem 70%-a,
 
-(3) A 48. § (1), (2), (3) és (5) bekezdése alapján maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
-(4) A gyermekgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
+(2) A gyermekgondozási díj naptári napi alapját a 48. § (1)–(3) bekezdésében foglaltak szerint kell megállapítani azzal, hogy ha az ellátásra jogosult megfelel a 42/E. § (1) bekezdés b) pontja szerinti feltételeknek, az ellátás összege nem lehet kevesebb a 42/E. § (5) bekezdésében meghatározott összegnél.
 
-(5) Ugyanazon személy részére ugyanazon gyermeke jogán benyújtott gyermekgondozási díj iránti kérelmet ismételten elbírálni nem lehet, a gyermekgondozási díjat a (4) bekezdés szerinti határozatban megállapított összegben kell tovább folyósítani.
+(3) Ha a naptári napi alap nem állapítható meg a (2) bekezdésben foglaltak szerint, akkor a naptári napi alap a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni.
 
-(6) Ha a biztosított egyidejűleg fennálló több jogviszony alapján jogosult gyermekgondozási díjra, a jogviszonyonként megállapított díjak összegét egybe kell számítani, az ellátás összege egybeszámítás esetén sem haladhatja meg az (1) bekezdésben megállapított legmagasabb összeget.
+(4) A (2) bekezdés alapján maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
 
-(7) Ha a biztosított több gyermek után jogosult egyidejűleg gyermekgondozási díjra, úgy az (1) bekezdés szerinti maximális összeget gyermekenként kell megállapítani.
+(5) Ha a gyermek gyermekgondozási díj vagy gyermekgondozási segély igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2) és (3) bekezdés alapján számított gyermekgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
+
+(6) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított csecsemőgondozási díj alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
+
+(7) A gyermekgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
+
+(8) Ugyanazon személy részére ugyanazon gyermeke jogán benyújtott gyermekgondozási díj iránti kérelmet ismételten elbírálni nem lehet, a gyermekgondozási díjat a (7) bekezdés szerinti határozatban megállapított összegben kell tovább folyósítani.
+
+(9) Ha a biztosított egyidejűleg fennálló több jogviszony alapján jogosult gyermekgondozási díjra, a jogviszonyonként megállapított díjak összegét egybe kell számítani. Az ellátás összege egybeszámítás esetén sem haladhatja meg az (1) bekezdésben megállapított legmagasabb összeget. Amennyiben az ellátás egybeszámított összege meghaladná az (1) bekezdésben megállapított legmagasabb összeget, a gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+
+(10) Ha a biztosított több gyermek után jogosult egyidejűleg gyermekgondozási díjra, úgy az (1) bekezdés szerinti maximális összeget gyermekenként kell megállapítani.
 
 42/E. § (1) A 42/A. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult az a szülő nő is, aki az alábbi feltételek mindegyikének megfelel:
 
@@ -1269,7 +1286,7 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (7) A táppénz összege a 48/A. § (1) bekezdése szerint folyamatos, legalább kétévi biztosítási idő esetében a táppénz alapjának 60%-a, ennél rövidebb biztosítási idő esetében, a fekvőbeteg-gyógyintézeti ellátás tartama alatt, valamint a 44. § d) pontjában meghatározott esetben 50%-a azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét.
 
-(8) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló foglalkoztatónál elért jövedelem figyelembevételével került megállapításra.
+(8) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
 
 48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a csecsemőgondozási díj, a gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – és a gyermekgondozási segély folyósításának az ideje.
 
@@ -1310,7 +1327,10 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (2) A társadalombiztosítási ellátás igénybevétele során bekövetkezett balesetek közül üzeminek az számít, amely a biztosítottat keresőképtelenségének vagy rokkantságának, továbbá az egészségkárosodás mértékének, rehabilitálhatóságának az elbírálása céljából elrendelt, illetőleg a keresőképessé váláshoz szükséges egyéb vizsgálaton vagy kezelésen történt megjelenésével összefüggésben érte.
 
-(3) Foglalkozási betegség az a betegség, amely a biztosított foglalkozásának a különös veszélye folytán keletkezett.
+(3) Foglalkozási betegség a munkavégzés, a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás, amely
+
+- a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafolyamat során előforduló fizikai, kémiai, biológiai, pszichoszociális és ergonómiai kóroki tényezőkre vezethető vissza, illetve
+- b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye.
 
 (4) Ha e törvény eltérően nem rendelkezik, üzemi baleseten a foglalkozási betegséget, üzemi baleseti sérültön a foglalkozási betegségben megbetegedettet is érteni kell.
 
@@ -1326,7 +1346,7 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 53. § (1) Nem üzemi baleset az a baleset, amely
 
-- a) kizárólag a sérült ittassága miatt, vagy
+- a) részben vagy egészben a balesetet szenvedett biztosított alkohol vagy kábítószer általi – igazolt – befolyásoltsága miatt következett be,
 - b) munkahelyi feladatokhoz nem tartozó engedély nélkül végzett munka, engedély nélküli járműhasználat, munkahelyi rendbontás során, vagy
 - c) a lakásról (szállásról) munkába, illetőleg a munkából lakásra (szállásra) menet közben indokolatlanul nem a legrövidebb útvonalon közlekedve, vagy az utazás indokolatlan megszakítása során történt.
 
@@ -1502,7 +1522,7 @@ bírálja el és utólag folyósítja.
 
 (3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-(3a) Ha a baleseti táppénzre irányuló kérelem azért nem bírálható el, mert a baleset üzemiségére vonatkozóan még nem született döntés, a kérelem elbírálására vonatkozó ügyintézési határidő kezdő napja a baleset üzemisége tárgyában hozott érdemi döntés jogerőre emelkedését követő nap.
+(3a) Ha a baleseti táppénzre irányuló kérelem azért nem bírálható el, mert a baleset üzemiségére vonatkozóan még nem született döntés, a kérelem elbírálására vonatkozó ügyintézési határidő kezdő napja a baleset üzemisége tárgyában hozott döntés jogerőre emelkedését követő nap.
 
 (4) A baleseti járadék iránti igényt a nyugdíj-megállapító szervnél kell bejelenteni.
 
@@ -1678,7 +1698,7 @@ bírálja el és utólag folyósítja.
 
 81. § (1) Az egészségbiztosító szak- és pénzügyi ellenőrzése kiterjed az egészségbiztosítás pénzbeli, illetőleg baleseti ellátásaival összefüggő nyilvántartási és adatszolgáltatási kötelezettség teljesítésére, a társadalombiztosítási feladatokat ellátó szervek hatáskörébe tartozó ellátásoknak és szolgáltatásoknak a jogosultak részére történő megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására. Az ehhez szükséges nyilvántartásokat, egészségügyi szolgáltatói jelentéseket, könyvelési és egyéb okmányokat, illetőleg adatokat rendelkezésre kell bocsátani.
 
-(2) Az egészségbiztosító ellenőrzési eljárása során kérheti annak igazolását, hogy a pénzbeli egészségbiztosítási járulékalapot képező jövedelem bevallására kötelezett ezen kötelezettségének eleget tett. Ha az ellenőrzés során megállapítást nyer, hogy a bevallásra kötelezett nem teljesítette bevallási kötelezettségét, az egészségbiztosító felhívja a bevallásra kötelezettet, hogy 10 napon belül mulasztását pótolja, annak elmaradása esetén értesíti az állami adóhatóságot.
+(2) Az egészségbiztosító a pénzbeli ellátás és a baleseti táppénz iránti kérelem elbírálása, valamint ellenőrzési eljárása során kérheti annak igazolását, hogy a pénzbeli egészségbiztosítási járulékalapot képező jövedelem bevallására kötelezett ezen kötelezettségének eleget tett. Ha a kérelem elbírálása vagy az ellenőrzés során megállapítást nyer, hogy a bevallásra kötelezett nem teljesítette bevallási kötelezettségét, az egészségbiztosító felhívja a bevallásra kötelezettet, hogy 10 napon belül mulasztását pótolja, annak elmaradása esetén értesíti az állami adóhatóságot.
 
 81/A. § Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcsere körébe tartozó, az egészségbiztosító által e törvény szerint kezelt személyes és különleges adatokat.
 
@@ -1874,7 +1894,8 @@ meghatározására.
 - h) a társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét,
 - i) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat,
 - j) a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembeveendő rezsi óradíj összegét,
-- k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját.
+- k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját,
+- l) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz kölcsönzési díjához támogatást nyújthat.
 
 (7)
 

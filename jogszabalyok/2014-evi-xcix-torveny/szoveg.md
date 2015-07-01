@@ -192,7 +192,7 @@ lép.
 
 116. § A 114. § és 115. § szerinti nemzeti vagyon tulajdonjogának átruházására a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4)–(10) bekezdését nem kell alkalmazni.
 
-117. §
+117. § Hatályát veszti az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény.
 
 #### 11. Egyes állami tulajdonú ingatlanok ingyenes tulajdonába adása közfeladatot ellátó szervezetek részére
 
@@ -260,34 +260,61 @@ lép.
 
 #### 15. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-132. § (1)
+132. § (1) A hulladékról szóló 2012. évi CLXXXV. törvény 34. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítési engedéllyel (a továbbiakban: minősítési engedély) rendelkező gazdasági szereplővel köthet.
+
+(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a minősítési engedéllyel nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – az államot és a települési önkormányzatot kivéve – valamennyien rendelkeznek minősítési engedéllyel.”
 
 (2)
 
-133–134. §
+133. § A hulladékról szóló 2012. évi CLXXXV. törvény 53. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A közszolgáltató az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően)
+
+„a) a minősítési engedélyt,”
+
+(az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáférhetővé teszi.)
+
+134. § (1) A hulladékról szóló 2012. évi CLXXXV. törvény 90. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal, vagy – a 34. § (3) bekezdésben és a (9) bekezdésben foglaltakra tekintettel – 2015. június 30-át követően kiadott minősítési engedéllyel rendelkezik, valamint a települési önkormányzattal az e törvény hatálybalépését követően és minősítési okirat birtokában hulladékgazdálkodási közszolgáltatási szerződést kötött.”
+
+(2) A hulladékról szóló 2012. évi CLXXXV. törvény 90. §-a a következő (9) és (9a) bekezdéssel egészül ki:
+
+„(9) Hulladékgazdálkodási közszolgáltatási engedély 2015. június 30-át követően nem adható ki. Az e törvény alapján kiadott hulladékgazdálkodási közszolgáltatási engedély az abban meghatározott ideig, de legkésőbb 2015. december 31-ig hatályos.
+
+(9a) Ha a környezetvédelmi hatóság 2015. június 30-át követően, de a (9) bekezdésben meghatározott hatályvesztést megelőzően minősítési engedélyt ad ki a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező közszolgáltató részére, a hulladékgazdálkodási közszolgáltatási engedélyt a minősítési engedély kiadásával egyidejűleg visszavonja.”
 
 135. § A hulladékról szóló 2012. évi CLXXXV. törvény
 
 - 1.
-- 2–4.
+- 2. 37. § (1a) bekezdésében az „érvényes hulladékgazdálkodási közszolgáltatási engedéllyel vagy minősítő okirattal” szövegrész helyébe a „minősítési engedéllyel” szöveg,
+- 3. 42. § (2) bekezdésében a „hulladékgazdálkodási közszolgáltatási engedéllyel” szövegrész helyébe a „minősítési engedéllyel” szöveg,
+- 4. 45. § (3) bekezdésében a „hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal” szövegrész helyébe a „minősítési engedéllyel” szöveg,
 - 5.
-- 6.
+- 6. 62. § (2) bekezdésében az „a környezetvédelmi hatóság által kiadott hulladékgazdálkodási közszolgáltatási engedély” szövegrész helyébe a „minősítési engedély” szöveg,
 - 7–8.
-- 9–13.
+- 9. 79. § (7) bekezdésében a „hulladékgazdálkodási, illetve hulladékgazdálkodási közszolgáltatási engedély” szövegrész helyébe a „hulladékgazdálkodási engedély, illetve minősítési engedély” szöveg,
+- 10. 81. § (1) bekezdésében a „hulladékgazdálkodási közszolgáltatási engedélyt” szövegrész helyébe a „minősítési engedélyt” szöveg,
+- 11. 84. § (1) bekezdés a) pontjában a „hulladékgazdálkodási közszolgáltatási” szövegrész helyébe a „minősítési” szöveg,
+- 12. 84. § (2) bekezdésében a „hulladékgazdálkodási közszolgáltatási” szövegrész helyébe a „minősítési” szöveg,
+- 13. 85. § (1) bekezdésében a „hulladékgazdálkodási közszolgáltatási” szövegrész helyébe a „minősítési” szöveg
 
 lép.
 
 136. § (1) Hatályát veszti a hulladékról szóló 2012. évi CLXXXV. törvény
 
-- 1.
+- 1. 2. § (1) bekezdés 37. pontjában a „hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező és a” szövegrész,
 - 2–3.
-- 4–5.
+- 4. 62. § (3) bekezdésében az „a hulladékgazdálkodási közszolgáltatási engedély,” szövegrész,
+- 5. 79. § (4) bekezdésében az „a hulladékgazdálkodási közszolgáltatási engedélyt” szövegrész,
 - 6.
 
 (2) Hatályát veszti a hulladékról szóló 2012. évi CLXXXV. törvény
 
 - 1–2.
-- 3.
+- 3. 81. § (2)–(5) bekezdése,
 - 4.
 
 (3)
@@ -296,21 +323,142 @@ lép.
 
 137. § (1)
 
-(2)
+(2) A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 1. §-a helyébe a következő rendelkezés lép:
 
-138–148. §
+„1. § E törvény hatálya
 
-149. § (1)
+a) a környezetvédelmi hatóságra (a továbbiakban: minősítő),
+
+b) a hulladékgazdálkodási közszolgáltatási tevékenységet végző vagy végezni kívánó, minősítést kérelmező gazdálkodó szervezetre (a továbbiakban: kérelmező),
+
+c) a minősítés és a minősítés módosításának anyagi és eljárási szabályaira,
+
+d) az osztályba sorolás szempontrendszerére,
+
+e) az ügyfél jogaira és kötelezettségeire,
+
+f) a minősítési engedély időbeli hatályának meghosszabbítására, valamintg) a minősítési feltételeknek való megfelelés és a korábban vállalt környezetirányítási célok és programok megvalósításának ellenőrzésére
+
+terjed ki.”
+
+138. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 2. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:)
+
+„3. hulladékgazdálkodási közszolgáltatás minősítése: kérelemre induló közigazgatási hatósági eljárás, amelynek során a minősítő a végzett vagy végezni kívánt hulladékgazdálkodási közszolgáltatási tevékenységet az e törvényben foglalt követelmények alapján, a minősítési osztály meghatározását is magába foglalóan engedélyezi;”
+
+139. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kérelmező hulladékgazdálkodási közszolgáltatási tevékenységét a minősítő a szolgáltatás biztonsága és a szolgáltatás színvonala alapján minősítési osztályba sorolja, továbbá előírja a hulladékgazdálkodási közszolgáltatási tevékenység végzésével összefüggő feltételeket.”
+
+140. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 4. § (2) bekezdése a következő j)–l) ponttal egészül ki:
+
+(A kérelem tartalma:)
+
+„j) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék fajtája, típusa, jellege, mennyisége (tonnában kifejezve), összetétele,
+
+k) a közszolgáltatási terület megnevezése, kiterjedése, valamint
+
+l) nyilatkozat arról, hogy a kérelmező a Ht. 61. § (4) bekezdésében meghatározott esetben a közterületen elhagyott, jogellenesen elhelyezett hulladék elszállítását és kezelését vállalja.”
+
+141. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 8. §-a a helyébe a következő rendelkezés lép:
+
+„8. § (1) A minősítő a minősítési eljárás alapján dönt a hulladékgazdálkodási közszolgáltatási tevékenység minősítési engedélyének kiadásáról. A minősítési engedélyben a minősítő meghatározza a hulladékgazdálkodási közszolgáltatási tevékenység végzésének feltételeit, továbbá elvégzi a tevékenység (3) bekezdés szerinti minősítési osztályba sorolását.
+
+(2) A minősítési engedély – a Ket.-ben foglalt követelményeken felül – legalább a következőket tartalmazza:
+
+a) a kérelmező azonosító adatai (név, székhely, cégjegyzékszám, adószám, KÜJ-szám és KTJ-szám, statisztikai számjel),
+
+b) az engedélyezett közszolgáltatási tevékenység megnevezése,
+
+c) a közszolgáltatással érintett terület megnevezése,
+
+d) a közszolgáltatási tevékenység végzésének időtartama,
+
+e) a bevezetendő biztonsági és elővigyázatossági intézkedésekre vonatkozó követelmények,
+
+f) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék fajtája, típusa, jellege, mennyisége, összetétele,
+
+g) közszolgáltató hulladékgazdálkodási engedélyének vagy engedélyeinek száma.
+
+(3) A minősítő a hulladékgazdálkodási közszolgáltatási tevékenységet annak szolgáltatásbiztonsági funkciója szerint kategóriába, valamint szakmai funkcionalitása szerint fokozatba sorolja. A minősítő a kategória és a fokozat együttes alkalmazásával sorolja a kérelmezőt osztályba az 1–4. mellékletben meghatározottak szerint.”
+
+142. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 9. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A minősítési engedély időbeli hatálya – a (4) bekezdésben meghatározott kivétellel – az engedély jogerőre emelkedésétől számított 36. hónap utolsó napjáig tart.”
+
+143. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés a) pont szerinti esetben a minősítő megvizsgálja a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést, és kiadja az új minősítési engedélyt.”
+
+144. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A minősítési engedély módosítása esetén a minősítő új minősítési engedélyt ad ki, és a módosítással érintett korábbi minősítési engedélyt visszavonja.”
+
+145. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 19. §-a helyébe a következő rendelkezés lép:
+
+„19. § (1) A minősítő a kiállított minősítési engedélyekről nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
+
+a) a minősítési engedély számát,
+
+b) a kérelmező nevét, székhelyét, cégjegyzékszámát, adószámát,
+
+c) a minősítési engedélyben megjelölt minősítési osztályt,
+
+d) a minősítési engedély időbeli hatályát.
+
+(3) A minősítési engedélyeket, továbbá a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni.”
+
+146. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 22. §-a helyébe a következő rendelkezés lép:
+
+„22. § Minősítő okirat 2015. június 30-át követően nem adható ki. Az e törvény alapján kiadott minősítő okirat az abban meghatározott ideig, de legkésőbb 2015. december 31-ig hatályos.”
+
+147. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény a következő 22/A. §-sal egészül ki:
+
+„22/A. § (1) Ha a környezetvédelmi hatóság 2015. június 30-át követően, de a 22. §-ban meghatározott hatályvesztést megelőzően minősítési engedélyt ad ki a minősítő okirattal rendelkező kérelmező részére, a minősítő okiratot a minősítési engedély kiadásával egyidejűleg visszavonja.
+
+(2) Az e törvény hatálybalépésétől 2016. július 1-jéig terjedő időszakban a minősítő okirat vagy minősítési engedély időbeli hatálya az okirat vagy engedély kiállításától számított 12. hónap utolsó napjáig tart.”
+
+148. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény
+
+- 1. 4. § (2) bekezdés d) pontjában, 7. alcímének címében, 13. § (3) bekezdésében, 10. alcímének címében, 17. § (3) bekezdésében a „minősítő okirat” szövegrész helyébe a „minősítési engedély” szöveg,
+- 2. 9. § (4) bekezdésében, 10. §-ában, 13. § (1) és (2) bekezdésében, 14. § (2) bekezdés b) pontjában a „minősítő okirat” szövegrészek helyébe a „minősítési engedély” szöveg,
+- 3. 11. § (1) bekezdésében a „kiállított minősítő okirat” helyébe a „kiadott minősítési engedély” szöveg,
+- 4. 12. § (1) bekezdésében a „kiállított minősítő okiratban” szövegrész helyébe a „kiadott minősítési engedélyben” szöveg,
+- 5. 12. § (2) bekezdésében a „minősítő okiratában” szövegrész helyébe a „minősítési engedélyében” szöveg,
+- 6. 13. § (2) bekezdésében az „időpontok” szövegrész helyébe az „időpont” szöveg,
+- 7. 14. § (1) bekezdésében a „minősítő okirat kiállításának” szövegrész helyébe a „minősítési engedély kiadásának” szöveg,
+- 8. 14. § (2) bekezdés a) pontjában a „hulladékgazdálkodási közszolgáltatási engedélyében a hulladékgazdálkodási közszolgáltatási tevékenységére kiható változás” szövegrész helyébe a „hulladékgazdálkodási közszolgáltatási tevékenységében olyan változás” szöveg,
+- 9. 16. § (1) és (2) bekezdésében a „minősítő okiratot” szövegrész helyébe a „minősítési engedélyt” szöveg,
+- 10. 1. mellékletébe foglalt táblázat A:1., B:1. és C:1. mezőjében az „A kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezik.” szövegrész helyébe az „A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik.” szöveg
+
+lép.
+
+149. § (1) Hatályát veszti a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény
+
+- 1. 2. § (1) bekezdés 7. pontjában a „kérelmező hulladékgazdálkodási közszolgáltatási engedélyében megnevezett,” szövegrész,
+- 2. 4. § (3) bekezdés a) pontjában a „hulladékgazdálkodási közszolgáltatási engedély alapját képező, a környezetvédelmi hatóság által kiadott” szövegrész,
+- 3. 7. § (3) bekezdésében az „a kérelmezett minősítési osztályhoz rendelt követelményrendszer keretei között” szövegrész.
 
 (2) Hatályát veszti a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény
 
-- 1–2.
+- 1. 4. § (2) bekezdés g) pontja,
+- 2. 4. § (3) bekezdés b) pontja,
 - 3.
-- 4–6.
+- 4. 9. § (1) és (2) bekezdése,
+- 5. 12. alcíme,
+- 6. 6. melléklete.
 
 #### 17. Az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló2013. évi CXXXIV. törvény módosítása
 
-150. §
+150. § Az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény
+
+- 1. 1. § (3) bekezdésében és 1. § (9) bekezdés a) pontjában a „hulladékgazdálkodási közszolgáltatási engedéllyel” szövegrész helyébe a „hulladékgazdálkodási közszolgáltatási engedéllyel vagy minősítési engedéllyel” szöveg,
+- 2. 1. § (8) bekezdésében a „hulladékgazdálkodási közszolgáltatási engedélyében” szövegrész helyébe a „hulladékgazdálkodási közszolgáltatási engedélyében vagy minősítési engedélyében” szöveg
+
+lép.
 
 151. § Hatályát veszti az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény
 
@@ -510,9 +658,15 @@ lép.
 
 291. §
 
-#### 55.
+#### 55. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
-292. §
+292. § A társasházakról szóló 2003. évi CXXXIII. törvény 65. §-a helyébe a következő rendelkezés lép:
+
+„65. § Felhatalmazást kap a Kormány, hogy
+
+1. az ingatlanvállalkozás-felügyeleti hatóságot rendeletben kijelölje,
+
+2. a jegyző társasházak feletti törvényességi felügyelete eljárási szabályait rendeletben állapítsa meg.”
 
 #### 56. A sportról szóló 2004. évi I. törvény módosítása
 
@@ -649,15 +803,25 @@ lép.
 
 364. §
 
-365–367. §
+365–366. §
+
+367. § (1) A szakképzésről szóló 2011. évi CLXXXVII. törvény 46. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A gazdasági kamara feladata a tanulószerződés megkötésének elősegítése. Ha megfelelő képzőhely biztosított és így köthető tanulószerződés, a tanuló gyakorlati képzése a szakiskola 9. évfolyamának összefüggő gyakorlatától kezdődően, kizárólag ennek keretében szervezhető meg.”
+
+(2) A szakképzésről szóló 2011. évi CLXXXVII. törvény 46. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha a gazdasági kamara igazolást ad ki az iskola számára arról, hogy részéről nem biztosított a megfelelő képzőhely, akkor a szakképző iskola gondoskodik a tanuló gyakorlati képzéséről.”
 
 368. §
 
-369. §
+369. § A szakképzésről szóló 2011. évi CLXXXVII. törvény a következő 92/C. §-sal egészül ki:
+
+„92/C. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 46. § (1) és (1a) bekezdését a 2015. július 1-je előtt szakiskolai tanulmányait megkezdett tanulóra is alkalmazni kell.”
 
 370. § A szakképzésről szóló 2011. évi CLXXXVII. törvény
 
-- 1.
+- 1. 5. § (14) bekezdésében a „kizárólag” szövegrész helyébe az „– a (17) bekezdésben meghatározott kivétellel – kizárólag” szöveg,
 - 2–4.
 
 lép.
@@ -666,7 +830,9 @@ lép.
 
 371–374. §
 
-375. §
+375. § (1) Hatályát veszti a nemzeti köznevelésről szóló 2011. évi CXC. törvény 7. § (5) bekezdésében az „A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) hozzájárulását ki kell kérni.” szövegrész.
+
+(2) Hatályát veszti a nemzeti köznevelésről szóló 2011. évi CXC. törvény 72. § (3) bekezdése.
 
 #### 86. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
@@ -728,9 +894,17 @@ lép.
 
 418. §
 
-419. §
+419. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 9. § (1) bekezdése a következő j) ponttal egészül ki:
 
-420. § (1)
+(Az útdíjfizetési és bevallási kötelezettség nem terheli:)
+
+„j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja.”
+
+420. § (1) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 17. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[Az útdíjszedő az útdíjellenőrzési feladatokat ellátó általános rendőrségi feladatokat ellátó szerv (a továbbiakban: Rendőrség) útdíjellenőrzési tevékenységének támogatása érdekében:]
+
+„b) az a) pont szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, valamint az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,”
 
 (2)
 

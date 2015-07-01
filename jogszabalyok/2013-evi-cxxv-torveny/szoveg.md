@@ -9,13 +9,11 @@ Az Országgyűlés annak érdekében, hogy a hulladékgazdálkodási közszolgá
 1. § E törvény hatálya
 
 - a) a környezetvédelmi hatóságra (a továbbiakban: minősítő),
-- b) a minősítést kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezetre,
-- c) a minősítés és a minősítés módosításának eljárási szabályaira,
+- b) a hulladékgazdálkodási közszolgáltatási tevékenységet végző vagy végezni kívánó, minősítést kérelmező gazdálkodó szervezetre (a továbbiakban: kérelmező),
+- c) a minősítés és a minősítés módosításának anyagi és eljárási szabályaira,
 - d) az osztályba sorolás szempontrendszerére,
 - e) az ügyfél jogaira és kötelezettségeire,
-- f) a minősítő okirat hatályának meghosszabbítására,
-- g) a minősítési feltételeknek való megfelelés és a korábban vállalt környezetirányítási célok és programok megvalósításának ellenőrzésére, valamint
-- h) a hulladékgazdálkodási közszolgáltatás minősítésével kapcsolatos jogorvoslatra
+- f) a minősítési engedély időbeli hatályának meghosszabbítására, valamintg) a minősítési feltételeknek való megfelelés és a korábban vállalt környezetirányítási célok és programok megvalósításának ellenőrzésére
 
 terjed ki.
 
@@ -25,11 +23,11 @@ terjed ki.
 
 - 1. állami vagy önkormányzati tulajdon: az állam, a települési önkormányzat vagy a települési önkormányzatok társulásának tulajdona, valamint az olyan gazdálkodó szervezet tulajdona, amelyben az állam, a települési önkormányzat vagy a települési önkormányzatok társulása a szavazatok többségével tulajdoni hányada alapján közvetlenül vagy közvetve rendelkezik, és a társaság tulajdonosaként jogosult arra, hogy a vezető tisztségviselők és a felügyelőbizottság tagjainak többségét megválassza, visszahívja;
 - 2. gyűjtőedény: a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) szerinti szabványos gyűjtőedény, kivéve a hulladékgyűjtő zsákot, valamint az elkülönített hulladékgyűjtés céljából üzemeltetett eszközt, berendezést;
-- 3. hulladékgazdálkodási közszolgáltatás minősítése: kérelemre induló, a minősítő által lefolytatott közigazgatási hatósági eljárás, amelynek során a minősítő a kérelmező hulladékgazdálkodási közszolgáltatási engedélyében meghatározott tevékenységét vizsgálja, és a kérelmezőt minősítési osztályba sorolja;
+- 3. hulladékgazdálkodási közszolgáltatás minősítése: kérelemre induló közigazgatási hatósági eljárás, amelynek során a minősítő a végzett vagy végezni kívánt hulladékgazdálkodási közszolgáltatási tevékenységet az e törvényben foglalt követelmények alapján, a minősítési osztály meghatározását is magába foglalóan engedélyezi;
 - 4. hulladékkezelő létesítmény: a hulladékgazdálkodási közszolgáltatásba bevont hulladékhasznosító és hulladékártalmatlanító létesítmény;
 - 5. környezetirányítási cél: a minősítést kérelmező által, a környezeti teljesítményének javítása érdekében kitűzött, műszaki és szolgáltatási színvonaljavítással megvalósuló, mérhető, dokumentált célrendszer;
 - 6. környezetirányítási program: a környezetirányítási cél elérése érdekében tervezett intézkedéseket és annak ütemezését bemutató részletes terv;
-- 7. közszolgáltatási terület: a kérelmező hulladékgazdálkodási közszolgáltatási engedélyében megnevezett, hulladékgazdálkodási közszolgáltatással érintett terület;
+- 7. közszolgáltatási terület: a hulladékgazdálkodási közszolgáltatással érintett terület;
 - 8. minősítési fokozat: a hulladékgazdálkodási közszolgáltatási tevékenység szolgáltatási színvonalának szintjét tükröző fokozat;
 - 9. minősítési kategória: a hulladékgazdálkodási közszolgáltatási tevékenység szolgáltatásbiztonsági szintjét tükröző kategória;
 - 10. minősítési osztály: a hulladékgazdálkodási közszolgáltatási tevékenység minőségét tükröző, a minősítési kategória és a minősítési fokozat együttes alkalmazásával meghatározott osztály.
@@ -40,7 +38,7 @@ terjed ki.
 
 #### 3. A minősítés általános szabályai
 
-3. § (1) A hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezet (a továbbiakban: kérelmező) hulladékgazdálkodási tevékenységét – kérelemre – a szolgáltatás biztonsága és a szolgáltatás színvonala alapján az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: minősítő) minősíti és a kérelmezőt minősítési osztályba sorolja. A minősítő a minősítés során közigazgatási hatósági jogkörben jár el.
+3. § (1) A kérelmező hulladékgazdálkodási közszolgáltatási tevékenységét a minősítő a szolgáltatás biztonsága és a szolgáltatás színvonala alapján minősítési osztályba sorolja, továbbá előírja a hulladékgazdálkodási közszolgáltatási tevékenység végzésével összefüggő feltételeket.
 
 (1a) A minősítőt a minősítési eljárásban a céginformáció beszerzése során a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti közigazgatási szervnek kell tekinteni.
 
@@ -67,17 +65,20 @@ terjed ki.
 - a) a kérelmező neve, székhelye, cégjegyzékszáma, környezetvédelmi ügyfél jele, környezetvédelmi területi jele, statisztikai számjele, pénzforgalmi számlaszáma,
 - b) a kérelmező telephelyének, fióktelepének címe,
 - c) a kérelmező kijelölt kapcsolattartójának neve,
-- d) a kérelem típusa (új kérelem, módosítási kérelem, minősítő okirat hatályának meghosszabbítása iránti kérelem, adatváltozás bejelentése),
+- d) a kérelem típusa (új kérelem, módosítási kérelem, minősítési engedély hatályának meghosszabbítása iránti kérelem, adatváltozás bejelentése),
 - e) a kérelmezett minősítési osztály,
 - f) a kérelmező hulladékgazdálkodási engedélyének száma, időbeli hatálya, az engedélyező hatóság,
-- g) a kérelmező hulladékgazdálkodási közszolgáltatási engedélyének száma, időbeli hatálya,
+- g)
 - h) a kérelmező által végzett hulladékgazdálkodási tevékenységek, valamint
-- i) a kérelmező által a hulladékgazdálkodási közszolgáltatás keretében üzemeltetett hulladékkezelő létesítmények felsorolása.
+- i) a kérelmező által a hulladékgazdálkodási közszolgáltatás keretében üzemeltetett hulladékkezelő létesítmények felsorolása,
+- j) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék fajtája, típusa, jellege, mennyisége (tonnában kifejezve), összetétele,
+- k) a közszolgáltatási terület megnevezése, kiterjedése, valamint
+- l) nyilatkozat arról, hogy a kérelmező a Ht. 61. § (4) bekezdésében meghatározott esetben a közterületen elhagyott, jogellenesen elhelyezett hulladék elszállítását és kezelését vállalja.
 
 (3) A kérelemhez csatolni kell
 
-- a) a hulladékgazdálkodási közszolgáltatási engedély alapját képező, a környezetvédelmi hatóság által kiadott hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
-- b) a közszolgáltatási területre vonatkozó hatályos hulladékgazdálkodási közszolgáltatási engedélyt,
+- a) a hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
+- b)
 - c)
 - d) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
 
@@ -127,22 +128,29 @@ terjed ki.
 
 (2) A kérelem 6. § (2) bekezdésébe ütköző megváltoztatása esetén a minősítő a kérelmet érdemi vizsgálat nélkül elutasítja vagy az eljárást megszünteti.
 
-(3) Ha a minősítés iránti kérelem megfelel az (1) bekezdésben foglaltaknak, a minősítő a kérelmet érdemben vizsgálja a kérelmezett minősítési osztályhoz rendelt követelményrendszer keretei között.
+(3) Ha a minősítés iránti kérelem megfelel az (1) bekezdésben foglaltaknak, a minősítő a kérelmet érdemben vizsgálja.
 
-8. § A minősítő a hulladékgazdálkodási közszolgáltatási tevékenységet annak szolgáltatásbiztonsági funkciója szerint kategóriába, valamint szakmai funkcionalitása szerint fokozatba sorolja. A minősítő a kategória és a fokozat együttes alkalmazásával a kérelmezőt osztályba sorolja az 1–4. mellékletben meghatározottak szerint.
+8. § (1) A minősítő a minősítési eljárás alapján dönt a hulladékgazdálkodási közszolgáltatási tevékenység minősítési engedélyének kiadásáról. A minősítési engedélyben a minősítő meghatározza a hulladékgazdálkodási közszolgáltatási tevékenység végzésének feltételeit, továbbá elvégzi a tevékenység (3) bekezdés szerinti minősítési osztályba sorolását.
 
-9. § (1) A minősítő a minősítési eljárás lefolytatását követően a kérelemnek helyt adó határozatát a 6. melléklet szerinti minősítő okirattal (a továbbiakban: minősítő okirat) adja ki.
+(2) A minősítési engedély – a Ket.-ben foglalt követelményeken felül – legalább a következőket tartalmazza:
 
-(2) A kérelemnek helyt adó döntés esetén a minősítő a költségek megállapításáról és viseléséről külön végzésben dönt.
+- a) a kérelmező azonosító adatai (név, székhely, cégjegyzékszám, adószám, KÜJ-szám és KTJ-szám, statisztikai számjel),
+- b) az engedélyezett közszolgáltatási tevékenység megnevezése,
+- c) a közszolgáltatással érintett terület megnevezése,
+- d) a közszolgáltatási tevékenység végzésének időtartama,
+- e) a bevezetendő biztonsági és elővigyázatossági intézkedésekre vonatkozó követelmények,
+- f) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék fajtája, típusa, jellege, mennyisége, összetétele,
+- g) közszolgáltató hulladékgazdálkodási engedélyének vagy engedélyeinek száma.
 
-(3) A minősítő okirat időbeli hatálya – a (4) bekezdésben meghatározott kivétellel
+(3) A minősítő a hulladékgazdálkodási közszolgáltatási tevékenységet annak szolgáltatásbiztonsági funkciója szerint kategóriába, valamint szakmai funkcionalitása szerint fokozatba sorolja. A minősítő a kategória és a fokozat együttes alkalmazásával sorolja a kérelmezőt osztályba az 1–4. mellékletben meghatározottak szerint.
 
-- a) az okirat kiállításától számított 36. hónap utolsó napjáig tart, vagy
-- b) megegyezik a hulladékgazdálkodási közszolgáltatási engedély időbeli hatályával, ha a minősítő okirat alapjául szolgáló hulladékgazdálkodási közszolgáltatási engedély időbeli hatálya az a) pont szerinti időbeli hatálynál rövidebb.
+9. § (1)–(2)
 
-(4) A 11. § (1) bekezdésében meghatározott esetben az új minősítő okirat időbeli hatálya megegyezik az eredeti minősítő okirat időbeli hatályával.
+(3) A minősítési engedély időbeli hatálya – a (4) bekezdésben meghatározott kivétellel – az engedély jogerőre emelkedésétől számított 36. hónap utolsó napjáig tart.
 
-10. § A minősítő okirat kiállításának alapjául szolgáló feltételeknek a minősítő okirat időbeli hatálya alatt a kérelmezőnek folyamatosan meg kell felelnie. A kérelmező a környezetirányítási célok teljesítésének érdekében vállalt intézkedéseket a környezetirányítási programban foglaltaknak megfelelően végrehajtja.
+(4) A 11. § (1) bekezdésében meghatározott esetben az új minősítési engedély időbeli hatálya megegyezik az eredeti minősítési engedély időbeli hatályával.
+
+10. § A minősítési engedély kiállításának alapjául szolgáló feltételeknek a minősítési engedély időbeli hatálya alatt a kérelmezőnek folyamatosan meg kell felelnie. A kérelmező a környezetirányítási célok teljesítésének érdekében vállalt intézkedéseket a környezetirányítási programban foglaltaknak megfelelően végrehajtja.
 
 #### 5. Adatváltozás bejelentése
 
@@ -151,36 +159,36 @@ terjed ki.
 - a) személyében, vagy
 - b) hulladékgazdálkodási tevékenységét nem érintő adataiban
 
-olyan változás következik be, amely a kiállított minősítő okirat adatának megváltoztatását igényli, a kérelmező a változás bekövetkezésétől számított 15 napon belül adatváltoztatási kérelmet nyújt be. A kérelemhez csatolni kell az adatváltozást igazoló okiratot. A minősítő a kérelemről 30 napon belül dönt.
+olyan változás következik be, amely a kiadott minősítési engedély adatának megváltoztatását igényli, a kérelmező a változás bekövetkezésétől számított 15 napon belül adatváltoztatási kérelmet nyújt be. A kérelemhez csatolni kell az adatváltozást igazoló okiratot. A minősítő a kérelemről 30 napon belül dönt.
 
-(2) Az (1) bekezdés a) pont szerinti esetben a minősítő megvizsgálja a minősítő okirat kiállításának alapjául szolgáló feltételeknek való megfelelést, és kiállítja az új minősítő okiratot.
+(2) Az (1) bekezdés a) pont szerinti esetben a minősítő megvizsgálja a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést, és kiadja az új minősítési engedélyt.
 
 (3) Ha a kérelmező hulladékgazdálkodási tevékenységét érintő adataiban olyan változás következik be, amely a minősítési osztályba sorolását nem érinti, a kérelmező e tényt a változás bekövetkezésétől számított 15 napon belül bejelenti.
 
 #### 6. Új minősítési osztály kérelmezése
 
-12. § (1) Ha a kérelmező részére kiállított minősítő okiratban meghatározott minősítési osztályhoz tartozó minősítési kategóriánál vagy fokozatnál magasabb kategóriába vagy fokozatba sorolásra van lehetőség, a kérelmező az új kategóriának vagy fokozatnak megfelelő minősítési osztályba sorolás iránt módosítási kérelmet nyújthat be.
+12. § (1) Ha a kérelmező részére kiadott minősítési engedélyben meghatározott minősítési osztályhoz tartozó minősítési kategóriánál vagy fokozatnál magasabb kategóriába vagy fokozatba sorolásra van lehetőség, a kérelmező az új kategóriának vagy fokozatnak megfelelő minősítési osztályba sorolás iránt módosítási kérelmet nyújthat be.
 
-(2) Ha a kérelmező tevékenységében olyan változás következik be, amely alapján a kérelmező a minősítő okiratában foglalt minősítési osztály feltételeinek, követelményeinek már nem felel meg, a kérelmező – a változások bekövetkezésétől számított 15 napon belül – ezt a tényt a minősítőnek bejelenti. A bejelentéssel egyidejűleg a kérelmező a változásoknak megfelelő minősítési osztályba sorolást tartalmazó módosítási kérelmet nyújt be.
+(2) Ha a kérelmező tevékenységében olyan változás következik be, amely alapján a kérelmező a minősítési engedélyében foglalt minősítési osztály feltételeinek, követelményeinek már nem felel meg, a kérelmező – a változások bekövetkezésétől számított 15 napon belül – ezt a tényt a minősítőnek bejelenti. A bejelentéssel egyidejűleg a kérelmező a változásoknak megfelelő minősítési osztályba sorolást tartalmazó módosítási kérelmet nyújt be.
 
-#### 7. A minősítő okirat hatályának meghosszabbítása
+#### 7. A minősítési engedély hatályának meghosszabbítása
 
-13. § (1) A kérelmező a minősítő okirat hatályának lejárta előtt legkésőbb 90 nappal benyújtott kérelmével kezdeményezheti a minősítő okirat hatályának meghosszabbítását. A minősítő okirat hatályának meghosszabbításáról szóló határozat jogerőre emelkedéséig a kérelmező a hatályos – korábbi – minősítő okirat alapján végezheti a tevékenységét.
+13. § (1) A kérelmező a minősítési engedély hatályának lejárta előtt legkésőbb 90 nappal benyújtott kérelmével kezdeményezheti a minősítési engedély hatályának meghosszabbítását. A minősítési engedély hatályának meghosszabbításáról szóló határozat jogerőre emelkedéséig a kérelmező a hatályos – korábbi – minősítési engedély alapján végezheti a tevékenységét.
 
-(2) Ha a minősítő a minősítő okirat hatályának meghosszabbítása iránti eljárásban megállapítja, hogy a minősítő okirat kiállításának alapjául szolgáló feltételeknek a kérelmező megfelel, a környezetirányítási programban foglaltakat megfelelően végrehajtja, a 9. § (3) bekezdésében meghatározott időpontok figyelembevételével meghosszabbítja a minősítő okirat hatályát.
+(2) Ha a minősítő a minősítési engedély hatályának meghosszabbítása iránti eljárásban megállapítja, hogy a minősítési engedély kiállításának alapjául szolgáló feltételeknek a kérelmező megfelel, a környezetirányítási programban foglaltakat megfelelően végrehajtja, a 9. § (3) bekezdésében meghatározott időpont figyelembevételével meghosszabbítja a minősítési engedély hatályát.
 
-(3) Ha a minősítő az (1) bekezdés szerinti eljárás során megállapítja, hogy a minősítő okirat kiállításának alapjául szolgáló feltételeknek a kérelmező nem felel meg, vagy a környezetirányítási programban foglaltakat nem vagy nem megfelelően hajtja végre, 15 napos határidő tűzésével végzésben felhívja a kérelmezőt a minősítési osztály módosításának kezdeményezésére.
+(3) Ha a minősítő az (1) bekezdés szerinti eljárás során megállapítja, hogy a minősítési engedély kiállításának alapjául szolgáló feltételeknek a kérelmező nem felel meg, vagy a környezetirányítási programban foglaltakat nem vagy nem megfelelően hajtja végre, 15 napos határidő tűzésével végzésben felhívja a kérelmezőt a minősítési osztály módosításának kezdeményezésére.
 
 (4) Ha a kérelmező a kérelem benyújtására vonatkozó (1) bekezdésben foglalt határidőt elmulasztja, minősítését és osztályba sorolását új kérelem benyújtásával kezdeményezheti.
 
 #### 8. Ellenőrzés
 
-14. § (1) A minősítő a minősítő okirat kiállításának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását ellenőrzi.
+14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását ellenőrzi.
 
 (2) Ha a minősítő az ellenőrzés alapján megállapítja, hogy a kérelmező
 
-- a) hulladékgazdálkodási közszolgáltatási engedélyében a hulladékgazdálkodási közszolgáltatási tevékenységére kiható változás következett be, amelynek bejelentéséről az előírt eljárás szerint nem gondoskodott,
-- b) a minősítő okirat kiállításának alapjául szolgáló feltételeknek nem felel meg és a minősítő okirat módosítása iránt a 12. § (2) bekezdése szerinti határidőben nem nyújtott be kérelmet,
+- a) hulladékgazdálkodási közszolgáltatási tevékenységében olyan változás következett be, amelynek bejelentéséről az előírt eljárás szerint nem gondoskodott,
+- b) a minősítési engedély kiállításának alapjául szolgáló feltételeknek nem felel meg és a minősítési engedély módosítása iránt a 12. § (2) bekezdése szerinti határidőben nem nyújtott be kérelmet,
 - c) a környezetirányítási programban foglaltakat nem vagy nem megfelelően hajtja végre,
 
 15 napos határidő tűzésével felhívja a kérelmezőt a minősítési osztály módosítására irányuló kérelem benyújtására.
@@ -193,46 +201,41 @@ olyan változás következik be, amely a kiállított minősítő okirat adatán
 
 15/A. § A minősítő által beszedett bírság, késedelmi kamat és késedelmi pótlék az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezet javára elszámolandó költségvetési bevételt képez.
 
-#### 10. A minősítő okirat visszavonása
+#### 10. A minősítési engedély visszavonása
 
-16. § (1) A minősítő a minősítő okiratot visszavonja, ha a kérelmező
+16. § (1) A minősítő a minősítési engedélyt visszavonja, ha a kérelmező
 
 - a) a 13. § (3) bekezdésében vagy
 - b) a 14. § (2) bekezdésében
 
 foglalt felhívásnak határidőn belül nem tesz eleget.
 
-(2) A minősítő a minősítő okiratot akkor is visszavonja, ha a minősítés megadásához előírt feltételek már nem állnak fenn.
+(2) A minősítő a minősítési engedélyt akkor is visszavonja, ha a minősítés megadásához előírt feltételek már nem állnak fenn.
 
 #### 11. Egyéb eljárási szabályok
 
 17. § (1) A 11. § (1) és (2) bekezdésében és a 12–16. §-ban foglalt eljárásokra a minősítési eljárásra vonatkozó szabályokat kell alkalmazni.
 
-(2) A minősítő okirat módosítása esetén a minősítő új minősítő okiratot állít ki, és a módosítással érintett korábbi minősítő okiratot visszavonja.
+(2) A minősítési engedély módosítása esetén a minősítő új minősítési engedélyt ad ki, és a módosítással érintett korábbi minősítési engedélyt visszavonja.
 
-(3) A módosításra irányuló eljárás alatt a kérelmező a tevékenységét a korábbi minősítő okirat alapján jogosult folytatni.
+(3) A módosításra irányuló eljárás alatt a kérelmező a tevékenységét a korábbi minősítési engedély alapján jogosult folytatni.
 
-#### 12. Jogorvoslat
+#### 12.
 
-18. § (1) A minősítő e törvény szerinti döntései ellen fellebbezésnek és újrafelvételi eljárásnak helye nincs.
-
-(2) A hulladékgazdálkodási közszolgáltatási tevékenység minősítésével kapcsolatos eljárásban a minősítő felügyeleti szerve a környezetvédelemért felelős miniszter.
-
-(3) A kérelmező a minősítés tárgyában hozott határozatok, továbbá önállóan támadható végzések bírósági felülvizsgálatát a közigazgatási ügyekben eljáró bíróságtól kérheti.
+18. §
 
 #### 13. Nyilvántartás, közzététel
 
-19. § (1) A minősítő a kiállított minősítő okiratokról naprakész nyilvántartást (a továbbiakban: minősítő okiratok jegyzéke) vezet.
+19. § (1) A minősítő a kiállított minősítési engedélyekről nyilvántartást vezet.
 
-(2) A minősítő okiratok jegyzéke tartalmazza
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
-- a) a minősítő okirat sorszámát,
-- b) a minősített gazdálkodó szervezet nevét, székhelyét, cégjegyzékszámát, adószámát,
-- c) a hulladékgazdálkodási közszolgáltatási engedély számát,
-- d) a minősítő okiratban megjelölt minősítési osztályt,
-- e) a minősítő okirat időbeli hatályát.
+- a) a minősítési engedély számát,
+- b) a kérelmező nevét, székhelyét, cégjegyzékszámát, adószámát,
+- c) a minősítési engedélyben megjelölt minősítési osztályt,
+- d) a minősítési engedély időbeli hatályát.
 
-(3) A minősítő a kiállított minősítő okiratokat, a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat a honlapján közzéteszi.
+(3) A minősítési engedélyeket, továbbá a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni.
 
 #### 14. Záró rendelkezések
 
@@ -246,17 +249,13 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 (4) A 28. § (2) bekezdése, a 35. § (3) bekezdése, a 37. § (2) és (4) bekezdése, 38. § (2) bekezdése, valamint a 42. § (3) bekezdése 2015. január 1-jén lép hatályba.
 
-22. § (1) Az e törvény hatálybalépésétől 2016. július 1-jéig terjedő időszakban a minősítő okirat időbeli hatálya – a (4) bekezdésben meghatározott kivétellel – az okirat kiállításától számított 12. hónap utolsó napjáig tart.
-
-(2) Az e törvény hatálybalépése előtt benyújtott minősítés iránti kérelem esetén a kérelmezőnek – ha kérelmét fenntartja – e törvény hatálybalépésétől számított 15 napon belül kérelmét ki kell egészítenie a 4. §-ban foglaltaknak megfelelően, a 4. § (3) bekezdés d) pontjában foglaltak kivételével.
-
-(3) A 3. § (3) bekezdése szerinti ügyintézési határidő a kérelem kiegészítésének beérkezésével újra indul. A 15 napos határidő elmulasztása esetén a kérelmet visszavontnak kell tekinteni.
-
-(4) A minősítő a (2) bekezdésben foglalt kötelezettségről, továbbá a (3) bekezdés szerinti jogkövetkezményről e törvény hatálybalépése előtt minősítés iránti kérelmet benyújtó ügyfelet e törvény hatálybalépésétől számított 5 napon belül tájékoztatja.
-
-(5) A folyamatban lévő eljárásokat e törvény rendelkezéseinek alkalmazásával kell lefolytatni, különös tekintettel az (1)–(4) bekezdésekben foglalt rendelkezésekre.
+22. § Minősítő okirat 2015. június 30-át követően nem adható ki. Az e törvény alapján kiadott minősítő okirat az abban meghatározott ideig, de legkésőbb 2015. december 31-ig hatályos.
 
 22/A. § E törvénynek az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben egyes törvények módosításáról szóló 2014. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépése után indult ügyekben és megismételt eljárásokban kell alkalmazni.
+
+22/A. § (1) Ha a környezetvédelmi hatóság 2015. június 30-át követően, de a 22. §-ban meghatározott hatályvesztést megelőzően minősítési engedélyt ad ki a minősítő okirattal rendelkező kérelmező részére, a minősítő okiratot a minősítési engedély kiadásával egyidejűleg visszavonja.
+
+(2) Az e törvény hatálybalépésétől 2016. július 1-jéig terjedő időszakban a minősítő okirat vagy minősítési engedély időbeli hatálya az okirat vagy engedély kiállításától számított 12. hónap utolsó napjáig tart.
 
 23. § A törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
 
@@ -347,7 +346,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 |  | „A” minősítési kategória | „B” minősítési kategória | „C” minősítési kategória |
 | --- | --- | --- | --- |
 |  | A/I. | B/I. | C/I. |
-| I.minősítési fokozat | A kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezik. | 1. A kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezik. | 1. A kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezik. |
+| I.minősítési fokozat | A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik. | 1. A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik. | 1. A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik. |
 |  | 2. A kérelmező a hulladékgazdálkodási közszolgáltatás ellátásához szükséges szállítóeszközökkel (gépjárművekkel) rendelkezik, amelyek az alábbi tulajdoni kategóriáknak felelnek meg:a) a kérelmező tulajdonában vannak,b) állami vagy önkormányzati tulajdonban vannak, vagyc) a kérelmező tulajdonában és állami vagy önkormányzati tulajdonban vannak. | 2. A kérelmező a hulladékgazdálkodási közszolgáltatás ellátásához szükségesa) szállítóeszközökkel (gépjárművekkel), továbbáb) az e törvény szerinti hulladékkezelő létesítménnyelrendelkezik, amely eszközök és létesítmények teljes mértékben megfelelnek a B/I. minősítési osztály 2. pont a)–c) alpontja szerinti tulajdoni kategóriáknak. |
 |  | A/II. | B/II. | C/II. |
 | II.minősítési fokozat | A kérelmező az A/I. minősítési osztályhoz szükséges követelmények teljesítésén felül:a) rendelkezikaa) az Európai Unió vagy Svájc területén kiadott akkreditációval rendelkező tanúsító szervezet által kiállított érvényes ISO 9001-es és ISO 14001-es tanúsítvánnyal;ab) az ISO 14001 szerinti tanúsítvánnyal egyenértékű környezetvédelmi vezetési és hitelesítési rendszerben (EMAS) részt vevő szervezetek nyilvántartásáról szóló kormányrendeletnek megfelelően nyilvántartott környezetvédelmi és tanúsítási (EMAS) rendszerrel;b) a 4. melléklet szerintba) a hulladékgazdálkodási közszolgáltatás ellátása érdekében igénybe vett hulladékszállító és hulladékkezelő alvállalkozóit az ISO 9001 és 14001 szerinti irányítási rendszerek, vagy a Közösség környezetvédelmi vezetési és hitelesítési rendszerének (EMAS) bevezetésére és működtetésére, valamint azok akkreditált tanúsító szervezettel történő tanúsíttatására ösztönzi;bb) ügyfelei elégedettségét és környezeti tudatosságát javítja;c) az 5. melléklet szerintca) a kérelem benyújtását megelőző 12 hónapon belül meghozott jogerős határozatban megállapított környezetveszélyeztetés vagy környezetkárosítás miatt kiszabott környezetvédelmi bírságfizetési kötelezettsége nem keletkezett, továbbácb) a kérelem benyújtásától számított 12 hónapnál régebben meghozott jogerős határozatban környezetveszélyeztetés vagy környezetkárosítás miatt megállapított környezetvédelmi bírságfizetési kötelezettségének eleget tett, és a jogszabálysértéssel kapcsolatos egyéb kötelezettségeit teljesítette. | A kérelmező a B/I. és az A/II. minősítési osztályhoz szükséges követelmények együttes teljesítésén felül:a) legalább a 2. mellékletben a B/II. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;b) a 2. mellékletben a B/II. minősítési osztályhoz előírt 5 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. | A kérelmező a C/I. és B/II. minősítési osztályokhoz szükséges követelmények együttes teljesítésén felül:a) rendelkezik a C/I. minősítési osztály 2. pont b) alpontja szerinti hulladékkezelő létesítmények közül legalább egy B/I. minősítési osztály 2. pont a)–c) alpontja szerinti tulajdoni kategóriáknak megfelelő települési szilárd hulladéklerakóval;b) legalább a 2. mellékletben a C/II. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;c) a 2. mellékletben a C/II. minősítési osztályhoz előírt 4 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. |
@@ -420,52 +419,6 @@ Dátum:...................................................
 | --- |
 
 ### 6. melléklet a 2013. évi CXXV. törvényhez
-
-|  |
-| --- |
-
-Országos Hulladékgazdálkodási Ügynökség Nonprofit Kft.
-
-Az okirat sorszáma:
-
-Ügyintéző:
-
-HULLADÉKGAZDÁLKODÁSI KÖZSZOLGÁLTATÁS
-
-MINŐSÍTŐ OKIRATA
-
-A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény alapján benyújtott minősítési kérelemre
-
-(cégnév)
-
-Székhely:
-
-Cégjegyzékszám:
-
-KÜJ-szám:
-
-KTJ-szám:
-
-Hulladékgazdálkodási közszolgáltatási engedély száma:
-
-(a továbbiakban: Kérelmező)
-
-közszolgáltatási tevékenységének minősítését elvégeztem és a lefolytatott eljárás alapján a Kérelmezőt
-
-(…)
-
-minősítési osztályba sorolom.
-
-A jelen minősítés (…)-ig hatályos. Döntésem a közléssel válik jogerőssé. A Kérelmező az eljárás lefolytatásáért fizetendő igazgatási szolgáltatási díjat megfizette.
-
-A minősítő okirat kiadmányozásával egyidejűleg intézkedtem az okirat Minősítő Okiratok Jegyzékébe történő bevezetéséről és a minősítő okirat közzétételéről.
-
-Kelt.: Budapest, 20(…) (…)
-
-P. H.
-
-| (hatáskör gyakorlója) nevében és megbízásából: (döntés kiadmányozója) |
-| --- |
 
 ### 7. melléklet a 2013. évi CXXV. törvényhez
 

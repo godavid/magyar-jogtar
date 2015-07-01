@@ -144,7 +144,15 @@ lép.
 
 110. §
 
-111. §
+111. § Az Áfa tv. a következő 58/A. §-sal egészül ki:
+
+„58/A. § (1) Az 58. § (1) bekezdésében foglaltaktól eltérően, ha a felek a könyvviteli, könyvvizsgálati, adótanácsadási szolgáltatásról időszakonkénti elszámolásban vagy fizetésben állapodnak meg, vagy a szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, teljesítés az elszámolással vagy fizetéssel érintett időszak utolsó napja.
+
+(2) Az (1) bekezdéstől eltérően teljesítés
+
+a) a számla vagy a nyugta kibocsátásának időpontja, amennyiben az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége és a számla vagy a nyugta kibocsátása az elszámolással vagy fizetéssel érintett időszak utolsó napját megelőzi,
+
+b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége, de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő harmincadik nap, amennyiben az ellenérték megtérítésének esedékessége az elszámolással vagy fizetéssel érintett időszak utolsó napját követő időpontra esik.”
 
 112. §
 
@@ -160,7 +168,9 @@ lép.
 
 129–132. §
 
-133. §
+133. § Az Áfa tv. a következő 296. §-sal egészül ki:
+
+„296. § E törvénynek a Mód5 törvénnyel megállapított 58/A. §-át az olyan 2015. június 30-át követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amely tekintetében a fizetés esedékessége 2015. június 30-át követő időpont.”
 
 134. §
 
@@ -171,7 +181,7 @@ lép.
 
 136. § Az Áfa tv.
 
-- 1.
+- 1. 58. § (3) bekezdésében az „az (1) bekezdéstől” szövegrész helyébe az „az (1) bekezdéstől és az 58/A. §-tól” szöveg;
 - 2.
 - 3.
 - 4–6.
@@ -282,14 +292,18 @@ lép.
 
 254. § (1)
 
-(2)
+(2) A Vtv. 82. § (3) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza:)
+
+„a) a vámmentességekre vonatkozó közösségi vámjogszabályok végrehajtásának részletes szabályait,”
 
 255. §
 
 256. § Hatályát veszti a Vtv.
 
 - 1–3.
-- 4.
+- 4. 82. § (3) bekezdés b) pontja.
 
 #### 24. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 

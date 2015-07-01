@@ -115,7 +115,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 (4a) A (4) bekezdés szerinti időtartam leteltét követően sem lehet nukleáris és más radioaktív anyag, valamint nukleáris létesítmény őrzését, őrségének irányítását ellátó fegyveres biztonsági őr az, akit a (4) bekezdésben meghatározottak szerint elítéltek.
 
-(5) A jogviszony létesítésekor az alkalmassági feltételeket az érintett igazolja. Ennek során köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenység vagy fegyveres szerv hivatásos állományú tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt. A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.
+(5) A jogviszony létesítésekor az alkalmassági feltételeket az érintett igazolja. Ennek során köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenység vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt. A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.
 
 (6) Az ellenőrzés során a közbiztonsági feltételek biztosítása céljából a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel a (3)–(5) bekezdésben meghatározott feltételekre vonatkozó adatokat átvenni és kezelni.
 

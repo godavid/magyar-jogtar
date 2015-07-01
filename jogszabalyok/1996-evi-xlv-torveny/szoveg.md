@@ -22,9 +22,9 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 2. § E törvény alkalmazásában
 
-- a) fegyveres szerv: a rendvédelmi szervek (a rendőrség, a büntetés-végrehajtási szervezet, a katasztrófavédelem), a Nemzeti Adó- és Vámhivatal, és a nemzetbiztonsági szolgálat,
+- a) fegyveres szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó rendvédelmi feladatokat ellátó szerv,
 - b)
-- c) kettős jogállású hallgató: a rendvédelmi felsőoktatási intézménybe felvett, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) szerinti hivatásos állomány tagja, aki államilag támogatott képzésben folytat tanulmányokat,
+- c) kettős jogállású hallgató: a rendvédelmi felsőoktatási intézménybe felvett, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti hivatásos állomány tagja, aki államilag támogatott képzésben folytat tanulmányokat,
 - d)
 - e)
 - f) ösztöndíjas hallgató: a rendvédelmi felsőoktatási intézménybe felvételt nyert nappali tagozatos személy, aki valamely fegyveres szervvel vagy a Bevándorlási és Állampolgársági Hivatallal (a továbbiakban együtt: szerződő szerv) kötött ösztöndíjszerződés alapján végzi a tanulmányait,
@@ -40,7 +40,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 7. § (1) A hivatásos állomány tagja az oktatói munkakör ellátásának megszűnése esetén a kinevezési okmány szerinti fegyveres szervhez kerül vissza.
 
-(2) A hivatásos állomány tagját a kinevezési parancs szerinti fegyveres szervnél rendfokozatának, végzettségének és képzettségének megfelelő beosztásba vagy jogosultsága estén szolgálati nyugállományba kell helyezni, ha
+(2) A hivatásos állomány tagját a kinevezési parancs szerinti fegyveres szervnél rendfokozatának, végzettségének és képzettségének megfelelő beosztásba kell helyezni, ha
 
 - a) az oktatói, tudományos kutatói munkakörben való alkalmazás megszüntetése a hivatásos állomány tagjának nem róható fel, vagy
 - b)
@@ -51,13 +51,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 8. §
 
-9. § (1) A hivatásos állomány tagját az egyetemi docenssé vagy főiskolai tanárrá történő kinevezéskor a soron következő rendfokozatba – alezredesig –, a minimális várakozási idő elteltével elő kell léptetni.
-
-(2) A hivatásos állomány tagját az egyetemi tanárrá történő kinevezéskor a soron következő rendfokozatba – ezredesig –, a minimális várakozási idő elteltével elő kell léptetni.
-
-(3)
-
-(4)
+9. §
 
 10. §
 

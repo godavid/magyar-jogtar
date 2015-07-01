@@ -46,20 +46,27 @@ a büntetés-végrehajtási szervezetről
 
 (3) A miniszter a bv. szervezet részére egyedi utasítást az országos parancsnok útján adhat.
 
-4. § (1) Az országos parancsnok a jogszabályok, a közjogi szervezetszabályozó eszközök, és a miniszter törvényben meghatározott jogkörében hozott döntéseinek keretei között vezeti a bv. szervezetet. Az országos parancsnok a bv. szervezet személyi állományának szolgálati elöljárója, illetve felettese.
+4. § (1) Az országos parancsnok a jogszabályok, a közjogi szervezetszabályozó eszközök és a miniszter törvényben meghatározott jogkörében hozott döntéseinek keretei között vezeti a bv. szervezetet. Az országos parancsnok a bv. szervezet személyi állományának szolgálati elöljárója, illetve felettese.
 
 (2) Az országos parancsnok
 
-- a) gondoskodik a bv. szervezet törvényes működéséről;
-- b) előterjesztést, javaslatot tesz a miniszter részére;
-- c)
-- d) meghatározott tevékenység vagy feladat végrehajtására, illetve a hivatásos állomány tagjaira vonatkozóan — egyedi döntésként — parancsot ad;
-- e) gondoskodik a bv. szervezet költségvetésében foglaltak megtartásáról;
-- f) jogszabályban meghatározottak szerint munkáltatói jogkört gyakorol;
-- g) jóváhagyja a büntetés-végrehajtási intézetek és intézmények szervezeti és működési szabályzatát;
-- h) meghatározza a bv. szervezetnél rendszeresített kényszerítő eszközök, fegyverzeti, egyenruházati, hír- és biztonsági rendszerek, illetve az egyéb technikai eszközök típusát és készletnormáit.
+- a) gondoskodik a bv. szervezet törvényes működéséről,
+- b) előterjesztést, javaslatot tesz a miniszter részére,
+- c) meghatározott tevékenység vagy feladat végrehajtására, illetve a hivatásos állomány tagjaira vonatkozóan – egyedi döntésként – parancsot ad,
+- d) jogszabályban meghatározottak szerint munkáltatói jogkört gyakorol,
+- e) meghatározza a bv. szervezetnél rendszeresített kényszerítő eszközök, fegyverzeti, egyenruházati, hír- és biztonsági rendszerek, illetve az egyéb technikai eszközök típusát és készletnormáit.
 
-(3) Az országos parancsnok törvény, illetve a miniszter eltérő rendelkezése hiányában képviseli a bv. szervezetet.
+(3) Az Országos Parancsnokság középirányító szervként
+
+- a) jóváhagyja a büntetés-végrehajtási intézetek és intézmények szervezeti és működési szabályzatát,
+- b) törvény eltérő rendelkezése hiányában gyakorolja a büntetés-végrehajtási intézetek és intézmények gazdasági vezetője tekintetében a kinevezés, felmentés, megbízás vagy megbízás visszavonásának jogkörét,
+- c) közreműködik a fejezetet irányító szervvel a büntetés-végrehajtási intézeteknek és intézményeknek a bevételi és kiadási előirányzatokkal való gazdálkodása rendszeres figyelemmel kísérésében, gondoskodik a bv. szervezet költségvetésében foglaltak megtartásáról,
+- d) jogszabályban meghatározott esetekben gyakorolja a büntetés-végrehajtási intézetek és intézmények döntéseinek előzetes egyetértése vagy utólagos jóváhagyása jogkörét,
+- e) egyedi utasítást adhat feladat elvégzésére vagy mulasztás pótlására a büntetés-végrehajtási intézetek és intézmények részére,
+- f) a büntetés-végrehajtási intézeteket és intézményeket jelentéstételre vagy beszámolóra kötelezheti,
+- g) kezeli a büntetés-végrehajtási intézetek és intézmények kezelésében lévő közérdekű adatokat és közérdekből nyilvános adatokat, valamint a b)–f) pont szerinti irányítási jogkörök gyakorlásához szükséges, törvényben meghatározott személyes adatokat.
+
+(4) A bv. szervezetet – törvény, illetve a miniszter eltérő rendelkezése hiányában – az országos parancsnok képviseli.
 
 ### II. Fejezet — A bv. szervek, a bv. szervezet személyi állománya
 
@@ -292,7 +299,7 @@ alkalmazható.
 
 (8) A (7) bekezdésben meghatározott tilalom nem vonatkozik a rendkívüli esemény felszámolása érdekében alkalmazott lőfegyverekre, valamint a 20/A. §-ban meghatározott, nem élet kioltására tervezett, speciális lőszerek alkalmazása során használt lőfegyverekre.
 
-(9) A bv. szerv területére a bv. szervezet kezelésében lévő lőfegyveren kívül más lőfegyvert – a védett személyek biztosítását ellátó, valamint a rendkívüli esemény felszámolásában közreműködő más fegyveres szerv hivatásos állományú tagja által viselt fegyvert kivéve – bevinni tilos, azt az erre kijelölt tároló helyre le kell adni, nyilvántartásba vételéről és biztonságos tárolásáról gondoskodni kell.
+(9) A bv. szerv területére a bv. szervezet kezelésében lévő lőfegyveren kívül más lőfegyvert – a védett személyek biztosítását ellátó, valamint a rendkívüli esemény felszámolásában közreműködő más, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja által viselt fegyvert kivéve – bevinni tilos, azt az erre kijelölt tároló helyre le kell adni, nyilvántartásba vételéről és biztonságos tárolásáról gondoskodni kell.
 
 23. § (1) Nincs helye lőfegyverhasználatnak
 
@@ -462,7 +469,7 @@ a kiadásait kell érteni.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
-- a) a bv. intézetek alapítását (kijelölését) és megszüntetését;
+- a)
 - b) a bv. szervezet szolgálati szabályzatát;
 - c) a Központi Kivizsgáló és Módszertani Intézet szervezetére és működésére vonatkozó részletes szabályokat;
 - d) a bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait;

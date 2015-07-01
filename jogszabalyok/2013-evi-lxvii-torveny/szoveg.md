@@ -146,7 +146,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - f) a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításában részt vevő gépjárművek üzemeltetőit, ezen feladatok ellátása során, továbbá az önkéntes tűzoltó egyesületek, az önkormányzati és létesítményi tűzoltóságok, valamint az önkéntes vagy köteles polgári védelmi egységek tagjait az elrendelt gyakorlat során igénybe vett gépjárművek után,
 - g) a közlekedési hatóságot az általa üzemben tartott, közlekedési hatósági feladat teljesítése érdekében igénybe vett gépjárművek után,
 - h) a nemzetközi szerződés, nemzetközi egyezmény (NATO, Schengheni Megállapodás) és viszonosság körébe tartozó járművek,
-- i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során.
+- i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során,
+- j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja.
 
 (2) Nem kell díjat fizetni a közút lezárásának vagy forgalma korlátozásának, elterelésének időtartama alatt azon az egyébként útdíjköteles elemi útszakaszon, amelyet a közút lezárására, vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
 
@@ -222,7 +223,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 17. § (1) Az útdíjszedő az útdíjellenőrzési feladatokat ellátó általános rendőrségi feladatokat ellátó szerv (a továbbiakban: Rendőrség) útdíjellenőrzési tevékenységének támogatása érdekében:
 
 - a) az adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával,
-- b) az a) pont szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal,
+- b) az a) pont szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, valamint az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,
 - c) a b) pont szerinti összevetés alapján összeállított adatállományt – kivéve a jogosult úthasználatra vonatkozó adatokat – átadja az útdíjellenőrzésre jogosult hatóság számára.
 
 (2) A Rendőrség az (1) bekezdés c) pontja szerinti adatokat összeveti az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak adataival, majd az összevetés eredményeként előállított, a vélelmezett szabályszegések esetében hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.

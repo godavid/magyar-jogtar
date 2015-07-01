@@ -6,7 +6,11 @@ egyes felsőoktatási tárgyú törvények módosításáról
 
 1. §
 
-2. §
+2. § Az NKE tv. a következő 9/A. §-sal egészül ki:
+
+„9/A. § (1) Az FT – az oktatási hivatal véleményének figyelembevételével – kezdeményezheti a közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás körébe tartozó képzések indításával és a doktori iskola létesítésével kapcsolatos ügyekben, hogy az általa javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő szervezet kerüljön felkérésre szakértői vélemény elkészítésére. Ebben az esetben az oktatási hivatal az Nftv. 67. § (3) bekezdés c) és e) pontja szerinti eljárásokban a Magyar Felsőoktatási Akkreditációs Bizottság helyett – az Nftv. 67. § (4) bekezdésében meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be, azzal, hogy az azonos tárgy, vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott, szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
+
+(2) Az (1) bekezdésben meghatározott eljárás költségei az Egyetemet terhelik.”
 
 3–8. §
 

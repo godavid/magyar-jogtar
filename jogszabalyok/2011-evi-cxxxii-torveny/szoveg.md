@@ -70,6 +70,10 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 (3) Az FT ügyviteli és döntés-előkészítő feladatait az FT ügyvivő irányításával az FT hivatala látja el.
 
+9/A. § (1) Az FT – az oktatási hivatal véleményének figyelembevételével – kezdeményezheti a közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás körébe tartozó képzések indításával és a doktori iskola létesítésével kapcsolatos ügyekben, hogy az általa javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő szervezet kerüljön felkérésre szakértői vélemény elkészítésére. Ebben az esetben az oktatási hivatal az Nftv. 67. § (3) bekezdés c) és e) pontja szerinti eljárásokban a Magyar Felsőoktatási Akkreditációs Bizottság helyett – az Nftv. 67. § (4) bekezdésében meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be, azzal, hogy az azonos tárgy, vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott, szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
+
+(2) Az (1) bekezdésben meghatározott eljárás költségei az Egyetemet terhelik.
+
 ### III. Fejezet — AZ EGYETEM SZENÁTUSA
 
 10. § (1) A szenátus az alapító okiratban és az FT határozataiban foglaltaknak megfelelően határozza meg az Egyetem képzési és kutatási feladatait, továbbá ellenőrzi azok végrehajtását.
@@ -95,7 +99,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 13. § (1) Az Egyetemen munkakört, vezetői beosztást
 
 - a) közalkalmazott,
-- b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
 - c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
 - d) közszolgálati tisztviselő
 

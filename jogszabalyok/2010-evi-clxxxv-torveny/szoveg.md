@@ -1267,7 +1267,13 @@ közönségarányát.
 
 (8) Kétség esetén a meghatározó műsorterjesztő köteles bizonyítani, hogy esetében a (7) bekezdés szerinti feltételek nem állnak fenn.
 
-74. § (1) A közszolgálati médiaszolgáltatók összesen négy lineáris audiovizuális médiaszolgáltatását és három lineáris rádiós médiaszolgáltatását a műsorterjesztő – a műsorszórással megvalósított műsorterjesztés kivételével – díjmentesen köteles továbbítani. A műsorterjesztő e médiaszolgáltatásokhoz való hozzáférésért a hozzáférés biztosításához kapcsolódó, a hozzáférés költségeit meghaladó mértékű többletdíjat az előfizetőtől nem kérhet. A közszolgálati médiaszolgáltató nem követelhet e médiaszolgáltatásai terjesztéséért a műsorterjesztőtől ellenszolgáltatást.
+74. § (1) A közszolgálati médiaszolgáltató összesen négy lineáris audiovizuális médiaszolgáltatását és három lineáris rádiós médiaszolgáltatását a műsorterjesztő – a műsorszórással megvalósított műsorterjesztés kivételével – díjmentesen köteles továbbítani. A műsorterjesztő e médiaszolgáltatásokhoz való hozzáférésért a hozzáférés biztosításához kapcsolódó, a hozzáférés költségeit meghaladó mértékű többletdíjat az előfizetőtől nem kérhet. A közszolgálati médiaszolgáltató nem követelhet e médiaszolgáltatásai terjesztéséért a műsorterjesztőtől ellenszolgáltatást.
+
+(1a) A 73. § (2) bekezdésében meghatározott, digitális átviteli rendszert üzemeltető műsorterjesztő az (1) bekezdésben meghatározott lineáris audiovizuális médiaszolgáltatásokon túl köteles a közszolgálati médiaszolgáltató további két lineáris audiovizuális médiaszolgáltatását is továbbítani, az (1) bekezdésben meghatározott feltételek szerint.
+
+(1b) A 73. § (2) bekezdésében meghatározott azon műsorterjesztő, amely egy adott átviteli rendszeren HD minőségben is továbbít audiovizuális médiaszolgáltatást, köteles azon az átviteli rendszeren a közszolgálati médiaszolgáltató (1) és az (1a) bekezdés szerinti audiovizuális médiaszolgáltatásait, az (1) bekezdésben meghatározott feltételekkel, HD minőségben továbbítani.
+
+(1c) A 73. § (2) bekezdésében meghatározott műsorterjesztő köteles a 74. § (1)–(1c) bekezdésben meghatározott audiovizuális médiaszolgáltatásokat alapbeállításként a csatornasorrend első helyeire tenni.
 
 (2) A továbbítási kötelezettség keretébe tartozó, az (1) bekezdésben meghatározott közszolgálati médiaszolgáltatásokat a műsorterjesztő alapszolgáltatásként úgy köteles továbbítani, hogy azok – az analóg műsorterjesztési hálózatok kivételével – elkülöníthető előfizetői szolgáltatásként is igénybe vehetők legyenek az előfizetők számára. Ezen előfizetői szolgáltatási csomag igénybevételéért a hozzáférés biztosításához kapcsolódó, a hozzáférés költségeit meghaladó mértékű többletdíjat a műsorterjesztő az előfizetőtől nem kérhet. Az analóg műsorterjesztési hálózatok esetében a továbbítási kötelezettség keretébe tartozó közszolgálati médiaszolgáltatásokat valamennyi programcsomagban elérhetővé kell tenni az előfizetők számára.
 
@@ -1427,7 +1433,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 ### Általános szabályok
 
-84. § (1) A közszolgálati média- és hírszolgáltatás biztosítására, függetlenségének védelmére az Országgyűlés létrehozza a Közszolgálati Közalapítványt (a továbbiakban: Közalapítvány). A Közalapítvány a Magyar Televízió Zártkörűen Működő Nonprofit Részvénytársaság, a Duna Televízió Zártkörűen Működő Nonprofit Részvénytársaság, a Magyar Rádió Zártkörűen Működő Nonprofit Részvénytársaság, valamint a Magyar Távirati Iroda Zártkörűen Működő Nonprofit Részvénytársaság (a továbbiakban együtt: közszolgálati médiaszolgáltatók) tulajdonosa.
+84. § (1) A közszolgálati média- és hírszolgáltatás biztosítására, függetlenségének védelmére az Országgyűlés létrehozza a Közszolgálati Közalapítványt (a továbbiakban: Közalapítvány). A Közalapítvány a Duna Médiaszolgáltató Zártkörűen Működő Nonprofit Részvénytársaság (a továbbiakban: közszolgálati médiaszolgáltató) tulajdonosa.
 
 (2) A Közalapítvány induló vagyonát az Országgyűlés országgyűlési határozatban állapítja meg.
 
@@ -1485,9 +1491,9 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 88. § (1) A Kuratórium elnökére és tagjaira a Hatóság elnökére, elnökhelyettesére, főigazgatójára és főigazgató-helyettesére vonatkozó, a 118. § (1)–(2) bekezdésben foglalt összeférhetetlenségi, illetve a 118. § (3) bekezdésben foglalt szabályokat megfelelően alkalmazni kell.
 
-(2) A Kuratórium elnöke és tagjai a Közalapítvánnyal nem állhatnak munkaviszonyban, és semmilyen jogcímen nem fogadhatnak el díjazást az általuk felügyelt közszolgálati médiaszolgáltatóktól.
+(2) A Kuratórium elnöke és tagjai a Közalapítvánnyal nem állhatnak munkaviszonyban, és semmilyen jogcímen nem fogadhatnak el díjazást a közszolgálati médiaszolgáltatótól.
 
-(3) A Kuratórium elnöke és tagjai a megbízatásuk megszűnését követő egy éven belül nem létesíthetnek munkavégzésre irányuló jogviszonyt közszolgálati médiaszolgáltatóval.
+(3) A Kuratórium elnöke és tagjai a megbízatásuk megszűnését követő egy éven belül nem létesíthetnek munkavégzésre irányuló jogviszonyt a közszolgálati médiaszolgáltatóval.
 
 (4) Ha a Kuratórium elnöke vagy tagja a 89. § (4) bekezdésben meghatározott felhívásra igazolási kötelezettségének önhibájából nem tesz eleget, illetve ha a Kuratórium elnökével vagy tagjával szemben összeférhetetlenségi ok merül fel és az ok keletkezésétől, illetve az összeférhetetlenséget megállapító ülés időpontjától számított harminc napon belül az összeférhetetlenségi ok megszüntetése nem történik meg, a Kuratórium teljes ülése határozatban megállapítja, hogy az elnök vagy a tag kuratóriumi tagsága megszűnt. A Kuratórium elnöke, illetőleg tagja az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkörét nem gyakorolhatja.
 
@@ -1516,41 +1522,41 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 90. § (1) A Kuratórium:
 
-- a) ellenőrzi a közszolgálati médiaszolgáltatás céljainak a közszolgálati médiaszolgáltatók tevékenysége általi megvalósulását,
-- b) amennyiben valamely közszolgálati médiaszolgáltató megítélése szerint a közszolgálati médiaszolgáltatás céljainak elérését súlyosan sértő vagy veszélyeztető magatartást tanúsít, a Médiatanács eljárását kezdeményezheti,
+- a) ellenőrzi a közszolgálati médiaszolgáltatás céljainak a közszolgálati médiaszolgáltató tevékenysége általi megvalósulását,
+- b) amennyiben a közszolgálati médiaszolgáltató megítélése szerint a közszolgálati médiaszolgáltatás céljainak elérését súlyosan sértő vagy veszélyeztető magatartást tanúsít, a Médiatanács eljárását kezdeményezheti,
 - c) védelmezi a közszolgálati médiaszolgáltató függetlenségét,
-- d) megállapítja és módosítja a közszolgálati médiaszolgáltatók alapító okiratát, gondoskodik annak a Magyar Közlönyben történő közzétételéről,
-- e) megválasztja a közszolgálati médiaszolgáltatók vezérigazgatóit, megállapítja munkaszerződésük feltételeit és díjazásukat,
-- f) megszüntetheti a közszolgálati médiaszolgáltatók vezérigazgatóinak munkaviszonyát,
-- g) megválasztja a közszolgálati médiaszolgáltatók közös felügyelő bizottságának elnökét és tagjait, illetve visszahívhatja azokat,
-- h) megbízza a közszolgálati médiaszolgáltatók könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó szabályai szerint, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
+- d) megállapítja és módosítja a közszolgálati médiaszolgáltató alapító okiratát, gondoskodik annak a Magyar Közlönyben történő közzétételéről,
+- e) megválasztja a közszolgálati médiaszolgáltató vezérigazgatóját, megállapítja munkaszerződése feltételeit és díjazását,
+- f) megszüntetheti a közszolgálati médiaszolgáltató vezérigazgatójának munkaviszonyát,
+- g) megválasztja a közszolgálati médiaszolgáltató felügyelő bizottságának elnökét és tagjait, illetve visszahívhatja azokat,
+- h) megbízza a közszolgálati médiaszolgáltató könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó szabályai szerint, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
 - i) elfogadja a Közalapítvány éves gazdálkodási tervét és megállapítja mérlegét,
-- j) a közszolgálati médiaszolgáltatók vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezései alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
+- j) a közszolgálati médiaszolgáltató vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezései alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
 - k) a Közalapítvány kezelőjeként gazdálkodik a Közalapítvány vagyonával,
-- l) felemelheti a közszolgálati médiaszolgáltatók alaptőkéjét, illetve leszállíthatja azt a Közalapítvány alapító okiratában szabályozottak szerint,
-- m) jóváhagyja a közszolgálati médiaszolgáltatók éves gazdálkodási és pénzügyi terveinek elveit és fő összegeit,
-- n) jóváhagyja a közszolgálati médiaszolgáltatók mérleg- és eredmény-kimutatását,
-- o) ellenőrzi a közszolgálati médiaszolgáltatók finanszírozását és gazdálkodását az Európai Unió vonatkozó előírásainak való megfelelés szempontjából,
-- p) megadhatja a közszolgálati médiaszolgáltatók által megkötni kívánt, háromszázmillió forintnál magasabb értékű szerződésekhez szükséges előzetes tárgyalási felhatalmazást,
-- q) megadhatja a közszolgálati médiaszolgáltatók hitelfelvételéhez, illetve az általuk megkötni kívánt, százmillió forintnál nagyobb értékű szerződések megkötéséhez szükséges, illetve az így megkötött szerződések módosításához, valamint megszüntetéséhez szükséges előzetes jóváhagyást,
+- l) felemelheti a közszolgálati médiaszolgáltató alaptőkéjét, illetve leszállíthatja azt a Közalapítvány alapító okiratában szabályozottak szerint,
+- m) jóváhagyja a közszolgálati médiaszolgáltató éves gazdálkodási és pénzügyi tervének elveit és fő összegeit,
+- n) jóváhagyja a közszolgálati médiaszolgáltató mérleg- és eredmény-kimutatását,
+- o) ellenőrzi a közszolgálati médiaszolgáltató finanszírozását és gazdálkodását az Európai Unió vonatkozó előírásainak való megfelelés szempontjából,
+- p) megadhatja a közszolgálati médiaszolgáltató által megkötni kívánt, háromszázmillió forintnál magasabb értékű szerződésekhez szükséges előzetes tárgyalási felhatalmazást,
+- q) megadhatja a közszolgálati médiaszolgáltató hitelfelvételéhez, illetve az általa megkötni kívánt, százmillió forintnál nagyobb értékű szerződések megkötéséhez szükséges, illetve az így megkötött szerződések módosításához, valamint megszüntetéséhez szükséges előzetes jóváhagyást,
 - r) egyéb, e törvényben meghatározott feladatokat lát el.
 
 (2) Az (1) bekezdés p)–q) pontjának alkalmazása során ugyanazon naptári éven belül ugyanazzal a szerződő féllel kötött szerződésekben foglalt, a közszolgálati médiaszolgáltatót terhelő szolgáltatások értékét – tárgyuktól függetlenül – egybe kell számítani.
 
-91. § (1) A Közalapítvány gyakorolja a közszolgálati médiaszolgáltatók vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezéseiben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
+91. § (1) A Közalapítvány gyakorolja a közszolgálati médiaszolgáltató vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezéseiben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
 
-- a) megváltoztatni a közszolgálati médiaszolgáltatók alapvető tevékenységi körét,
-- b) a közszolgálati médiaszolgáltatókat megszüntetni, egyesíteni, szétválasztani vagy más szervezeti formába átalakítani,
-- c) a közszolgálati médiaszolgáltatóktól vagyont elvonni,
-- d) a közszolgálati médiaszolgáltató műsorszerkezetét, továbbá műsorainak, szolgáltatásainak, illetve műsorszámainak tartalmát meghatározni,
-- e) közszolgálati médiaszolgáltató vezérigazgatójának az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni,
-- f) olyan kérdésben dönteni, amely e törvény alapján más szerv vagy közszolgálati médiaszolgáltató vezérigazgatójának hatáskörébe tartozik.
+- a) megváltoztatni a közszolgálati médiaszolgáltató alapvető tevékenységi körét,
+- b) a közszolgálati médiaszolgáltatót megszüntetni, átalakítani, vagy más szervezeti formába átalakítani,
+- c) a közszolgálati médiaszolgáltatótól vagyont elvonni,
+- d) a közszolgálati médiaszolgáltató műsorszerkezetét, továbbá műsorainak, egyéb szolgáltatásainak, illetve műsorszámainak tartalmát meghatározni,
+- e) a közszolgálati médiaszolgáltató vezérigazgatójának az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni,
+- f) olyan kérdésben dönteni, amely e törvény alapján más szerv vagy a közszolgálati médiaszolgáltató vezérigazgatójának hatáskörébe tartozik.
 
 (2) A Közalapítvány Kuratóriuma nem bővítheti a 90. §-ban foglalt hatásköreit, még a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezéseiben meghatározott – a 90. §-ban nem szereplő – alapítói jogkörökkel sem.
 
 ### A Kuratórium működése
 
-92. § (1) A Kuratórium a feladatai ellátásához szükséges gyakorisággal, de legalább havonta ülésezik. Közgyűlési ügyeket érintő napirendi pontokhoz az érintett közszolgálati médiaszolgáltató vezérigazgatóját meg kell hívni. A Kuratórium elnöke köteles a Kuratórium rendkívüli ülését a Kuratórium tagjai többségének a napirend megjelölésével előterjesztett kérésére nyolc napon belüli időpontra összehívni. Ennek elmulasztása esetén a kezdeményezők együttesen jogosultak a rendkívüli ülés összehívására.
+92. § (1) A Kuratórium a feladatai ellátásához szükséges gyakorisággal, de legalább havonta ülésezik. Közgyűlési ügyeket érintő napirendi pontokhoz a közszolgálati médiaszolgáltató vezérigazgatóját meg kell hívni. A Kuratórium elnöke köteles a Kuratórium rendkívüli ülését a Kuratórium tagjai többségének a napirend megjelölésével előterjesztett kérésére nyolc napon belüli időpontra összehívni. Ennek elmulasztása esetén a kezdeményezők együttesen jogosultak a rendkívüli ülés összehívására.
 
 (2) A Kuratórium tagjainak – ideértve a Kuratórium elnökét is – a szavazati joga egyenlő. Szavazategyenlőség esetén az elnök szavazata dönt.
 
@@ -1575,7 +1581,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (2) A Közalapítvány kiadásait képezik:
 
-- a) a közszolgálati médiaszolgáltatók működési és fejlesztési költségeihez való hozzájárulás,
+- a) a közszolgálati médiaszolgáltató működési és fejlesztési költségeihez való hozzájárulás,
 - b) a Közalapítvány saját költségei, kiadásai.
 
 (3) A Közalapítvány üzletszerű gazdasági tevékenységet nem végezhet, más gazdasági társaságot nem alapíthat, más működő gazdasági társaságban részesedést nem szerezhet, alapítvány létrehozására nem jogosult.
@@ -1586,11 +1592,11 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 ### A Közszolgálati Kódex
 
-95. § (1) A Közszolgálati Kódex (a továbbiakban: Kódex) – e törvénnyel összhangban – tartalmazza a közszolgálati médiaszolgáltatásra vonatkozó alapvető elveket és az e törvényben meghatározott közszolgálati célok pontosítását. A Kódexnek általános, és az egyes közszolgálati médiaszolgáltatókra külön-külön vonatkozó tartalma is lehet. A Kódex alapvető rendeltetése, hogy a közszolgálati médiaszolgáltatók számára iránymutatást adjon a törvény keretei között a közszolgálati médiaszolgáltatás megfelelő működési elveire vonatkozóan.
+95. § (1) A Közszolgálati Kódex (a továbbiakban: Kódex) – e törvénnyel összhangban – tartalmazza a közszolgálati médiaszolgáltatásra vonatkozó alapvető elveket és az e törvényben meghatározott közszolgálati célok pontosítását. A Kódexnek általános, és az egyes közszolgálati médiaszolgáltatásokra külön-külön vonatkozó tartalma is lehet. A Kódex alapvető rendeltetése, hogy a közszolgálati médiaszolgáltató számára iránymutatást adjon a törvény keretei között a közszolgálati médiaszolgáltatás megfelelő működési elveire vonatkozóan.
 
-(2) A Kódexet első ízben a Médiatanács fogadja el, a Kuratórium egyetértése mellett és a közszolgálati médiaszolgáltatók vezérigazgatóinak véleményét figyelembe véve.
+(2) A Kódexet első ízben a Médiatanács fogadja el, a Kuratórium egyetértése mellett és a közszolgálati médiaszolgáltató vezérigazgatójának véleményét figyelembe véve.
 
-(3) A Közszolgálati Testület – a (2) bekezdés szerinti első elfogadást követően – a Kuratórium egyetértése mellett módosíthatja a Kódexet. A módosítást a Közszolgálati Testületen kívül a Kuratórium és a közszolgálati médiaszolgáltatók vezérigazgatója kezdeményezheti.
+(3) A Közszolgálati Testület – a (2) bekezdés szerinti első elfogadást követően – a Kuratórium egyetértése mellett módosíthatja a Kódexet. A módosítást a Közszolgálati Testületen kívül a Kuratórium és a közszolgálati médiaszolgáltató vezérigazgatója kezdeményezheti.
 
 (4) A Kódex megalkotásához és módosításához a Médiatanács mellett működő Médiatudományi Intézet szakmai támogatást nyújt.
 
@@ -1623,11 +1629,11 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (5) A Közszolgálati Testület elnökét az államtitkári illetmény negyven százalékának, tagját az államtitkári illetmény huszonöt százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezen felül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok– a 118. § (1) bekezdés e) pontjának kivételével – értelemszerűen irányadók.
 
-(6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltatók felett.
+(6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltató felett.
 
-(7) A Közszolgálati Testület a közszolgálatiság érvényesülését folyamatosan figyelemmel kíséri, és a (8)–(13) bekezdés szerint ellenőrzést gyakorol a közszolgálati médiaszolgáltatók felett e törvényben foglaltak végrehajtása vonatkozásában.
+(7) A Közszolgálati Testület a közszolgálatiság érvényesülését folyamatosan figyelemmel kíséri, és a (8)–(13) bekezdés szerint ellenőrzést gyakorol a közszolgálati médiaszolgáltató felett e törvényben foglaltak végrehajtása vonatkozásában.
 
-(8) A közszolgálati médiaszolgáltatók vezérigazgatói évente egyszer, a mindenkori naptári évet követően, a következő év február 28-ig beszámolót készítenek arról, hogy – saját értékelésük szerint – az általuk vezetett médiaszolgáltató eleget tett-e e törvényben megfogalmazott, a közszolgálati médiaszolgáltatás céljaira és alapvető elveire vonatkozó elvárásoknak.
+(8) A közszolgálati médiaszolgáltató vezérigazgatója évente egyszer, a mindenkori naptári évet követően, a következő év február 28-ig beszámolót készít arról, hogy – saját értékelése szerint – a médiaszolgáltató eleget tett-e e törvényben megfogalmazott, a közszolgálati médiaszolgáltatás céljaira és alapvető elveire vonatkozó elvárásoknak.
 
 (9) A Közszolgálati Testület megvitatja a beszámolót, és annak elfogadásáról egyszerű többséggel dönt.
 
@@ -1639,17 +1645,17 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (13) Ha a javaslat ellenére a Kuratórium nem szünteti meg a vezérigazgató munkaviszonyát, akkor ezt követően a vezérigazgató újbóli meghallgatását a Közszolgálati Testület három hónap múlva köteles napirendjére tűzni.
 
-(14) Ha a vezérigazgató munkaviszonya azért szűnt meg, mert a közszolgálati célok és elvek érvényesülését nem biztosította, akkor tíz évig nem jelölhető újra közszolgálati médiaszolgáltató vezérigazgatói megbízatására.
+(14) Ha a vezérigazgató munkaviszonya azért szűnt meg, mert a közszolgálati célok és elvek érvényesülését nem biztosította, akkor tíz évig nem jelölhető újra a közszolgálati médiaszolgáltató vezérigazgatói megbízatására.
 
-### IV. Fejezet — A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÓK
+### IV. Fejezet — A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÓ
 
 ### Általános szabályok
 
-98. § (1) A közszolgálati médiaszolgáltatók feladata a közszolgálati médiaszolgáltatás 83. §-ban meghatározott céljainak megvalósítása. E feladatuknak a közszolgálati médiaszolgáltatók együttesen, tevékenységüket lehetőség szerint – autonómiájuk megőrzése mellett – összehangolva tesznek eleget.
+98. § (1) A közszolgálati médiaszolgáltató feladata a közszolgálati médiaszolgáltatás 83. §-ban meghatározott céljainak megvalósítása. E feladatának a közszolgálati médiaszolgáltató a közszolgálati médiaszolgáltatások tevékenységeinek összehangolásával együttesen tesz eleget.
 
-(2) A közszolgálati médiaszolgáltatókra e törvényben foglalt eltérésekkel a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseinek a részvénytársaságokra vonatkozó szabályait kell megfelelően alkalmazni, ideértve a gazdasági társaságok közös szabályait is.
+(2) A közszolgálati médiaszolgáltatóra e törvényben foglalt eltérésekkel a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseinek a részvénytársaságokra vonatkozó szabályait kell megfelelően alkalmazni, ideértve a gazdasági társaságok közös szabályait is.
 
-(3) A közszolgálati médiaszolgáltatóknak egy-egy forgalomképtelen részvénye van.
+(3) A közszolgálati médiaszolgáltatónak egy forgalomképtelen részvénye van.
 
 (4) A közszolgálati médiaszolgáltató médiaszolgáltatási díjat nem fizet.
 
@@ -1659,7 +1665,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (7) Az egyes közszolgálati médiaszolgáltatások által használt médiaszolgáltatási lehetőségekről – ideértve a külföldre irányuló médiaszolgáltatást is – a Médiatanács műszaki, gazdasági, gazdaságossági és médiapolitikai szempontok vizsgálata után, az Alap vezérigazgatójával történő konzultációt követően dönt.
 
-(8) A közszolgálati audiovizuális és rádiós médiaszolgáltatások tekintetében a Médiatanács – az Alap vezérigazgatójával történő konzultációt követően, valamint a gazdaságosság, a következő évi költségvetési tervezés és e törvény 83. §-ában meghatározott közszolgálati célok érvényesülésének szempontjait figyelembe véve – évente felülvizsgálhatja a közszolgálati médiaszolgáltatások rendszerét, és dönthet arról, hogy a közszolgálati médiaszolgáltatók számára fenntartja-e addigi médiaszolgáltatásaikat vagy megváltoztatja azok rendszerét.
+(8) A közszolgálati audiovizuális és rádiós médiaszolgáltatások tekintetében a Médiatanács – az Alap vezérigazgatójával történő konzultációt követően, valamint a gazdaságosság, a következő évi költségvetési tervezés és e törvény 83. §-ában meghatározott közszolgálati célok érvényesülésének szempontjait figyelembe véve – évente felülvizsgálhatja a közszolgálati médiaszolgáltatások rendszerét, és dönthet arról, hogy a közszolgálati médiaszolgáltató számára fenntartja-e addigi médiaszolgáltatásait vagy megváltoztatja azok rendszerét.
 
 (9) A közszolgálati médiaszolgáltatás céljainak elősegítése érdekében, az ahhoz szükséges mértékben a közszolgálati médiaszolgáltató, illetve az Alap által műsorkészítés céljából üzemben tartott és műsorkészítés során használt gépjárművek Magyarország területén közúti forgalomban való részvételének – össztömegre, tengelyterhelésre és méretre vonatkozó – korlátozására, illetve az ezzel kapcsolatos díjfizetési kötelezettségre, valamint időbeli korlátozásokra vonatkozó jogszabályok nem alkalmazandóak.
 
@@ -1711,9 +1717,9 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (3) A (2) bekezdés szerinti szabályzat megalkotása és valamennyi módosítása során figyelemmel kell lenni e törvény rendelkezéseire, a Kódex előírásaira, valamint az Európai Unió és az Európa Tanács vonatkozó ajánlásaira, előírásaira.
 
-### A nemzeti hírügynökség különleges feladatai
+### A közszolgálati médiaszolgáltató hírügynökségi feladatai
 
-101. § (1) A Magyar Távirati Iroda Zártkörűen Működő Nonprofit Részvénytársaság, mint nemzeti hírügynökség a 83. §-ban meghatározott célok elérésének feladatán túl az alábbi közszolgálati feladatokat látja el:
+101. § (1) A közszolgálati médiaszolgáltató a 83. §-ban meghatározott célok érvényre juttatásán túl az alábbi hírügynökségi feladatokat látja el:
 
 - a) a közérdeklődésre számot tartó hazai és külföldi eseményekről híreket, tudósításokat, fényképeket, adathordozókat, háttéranyagokat, grafikákat, dokumentációs adatokat szolgáltat,
 - b) biztosítja a hozzáférhetőséget minden olyan hírhez és tudósításhoz, amelynek ismerete szükséges a nyilvánosság számára a közösségi és az egyéni jogok és érdekek megfelelő érvényesítéséhez,
@@ -1727,29 +1733,29 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 - j) gondoskodik a tevékenysége során birtokába került kulturális értékek és történelmi jelentőségű eredeti dokumentumok tartós megőrzéséről és védelméről,
 - k) részt vesz a nemzetközi hírügynökségi szervezetek munkájában.
 
-(2) A nemzeti hírügynökség közszolgálati feladatainak ellátása érdekében
+(2) A közszolgálati médiaszolgáltató hírügynökségi feladatainak ellátása érdekében
 
 - a) az ország minden megyéjére és a fővárosra kiterjedő,
 - b) a Kárpát-medence magyarlakta területeire kiterjedő,
-- c) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő külföldi tudósítói hálózatot működtet.
+- c) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő külföldi
 
-(3) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetőleg törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdés szerint kötelezhetik a nemzeti hírügynökséget a tájékoztatásra.
+tudósítói hálózatot működtet.
 
-(4) A nemzeti hírügynökség a többi közszolgálati médiaszolgáltató számára kizárólagos joggal hírműsorokat gyárt, továbbá működteti a közszolgálati médiaszolgáltatók egységes hírportálját, a közszolgálati médiaszolgáltatók más internetes sajtótermékeit, továbbá az internetről elérhető, lekérhető médiaszolgáltatásait.
+(3) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetve törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdés szerint kötelezhetik a közszolgálati médiaszolgáltatót – hírügynökségi tevékenysége körében – a tájékoztatásra.
 
-### A közszolgálati médiaszolgáltatók vezérigazgatóinak választása
+### A közszolgálati médiaszolgáltató vezérigazgatójának választása
 
-102. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását az általa vezetett közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
+102. § (1) A közszolgálati médiaszolgáltató ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását a közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
 
-(2) A közszolgálati médiaszolgáltatók vezérigazgatói feletti munkáltatói jogkört – beleértve a vezérigazgatók kinevezését és munkaviszonyuk megszüntetését – a Kuratórium gyakorolja. A vezérigazgatók jelölése és kinevezése a következő lépések szerinti sorrendben történik:
+(2) A közszolgálati médiaszolgáltató vezérigazgatója feletti munkáltatói jogkört – beleértve a vezérigazgató kinevezését és munkaviszonya megszüntetését – a Kuratórium gyakorolja. A vezérigazgató jelölése és kinevezése a következő lépések szerinti sorrendben történik:
 
-- a) a Médiatanács elnöke valamennyi közszolgálati médiaszolgáltató esetében két vezérigazgató-jelöltre tesz javaslatot a Médiatanácsnak,
+- a) a Médiatanács elnöke két vezérigazgató-jelöltre tesz javaslatot a Médiatanácsnak,
 - b) ha a Médiatanács elfogadja a jelölteket, azokat a Kuratórium elé terjeszti, hogy válasszon egyet a jelöltek közül,
 - c) ha a Médiatanács nem fogadja el a Médiatanács elnöke által javasolt valamelyik jelöltet, akkor a Médiatanács elnöke új jelöltre tesz javaslatot; a Médiatanács csak akkor tehet javaslatot a Kuratóriumnak, ha maga két jelöltet elfogadott,
 - d) a Médiatanács javaslatot tehet a vezérigazgató munkaszerződésének egyes tartalmi elemeire is,
 - e) az első szavazási körben a Kuratórium összes tagjának – ideértve az elnököt is – kétharmados többségével dönt a vezérigazgató kinevezéséről,
 - f) ha a két jelöltből a Médiatanács jelölésétől számított harminc napon belül nem tud kétharmados többséggel választani a Kuratórium, akkor új jelölési eljárást kell lefolytatni,
-- g) az új jelölés során közszolgálati médiaszolgáltatónként két új jelöltre kell javaslatot tenni,
+- g) az új jelölés során ismételten két új jelöltre kell javaslatot tenni,
 - h) az új jelölést követő szavazás során a Kuratórium összes tagjának – ideértve az elnököt is – egyszerű többségével dönt a vezérigazgató kinevezéséről.
 
 (3) A Kuratórium a vezérigazgató kinevezéséről és munkaszerződése – a Médiatanács javaslatának figyelembevételével megalkotott – tartalmáról szavazással dönt. A vezérigazgató munkaszerződése határozatlan időtartamra köthető meg. Amennyiben a megválasztott vezérigazgató nem fogadja el a munkaszerződés-tervezet Kuratórium által meghatározott feltételeit, a módosított feltételeket tartalmazó munkaszerződésről a Kuratórium újra szavaz. Amennyiben a munkaszerződés feltételeiben nincsen megegyezés, úgy új vezérigazgatót kell választani.
@@ -1771,7 +1777,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (6) Felmentés esetén a munkaviszony megszűnését a Kuratórium állapítja meg.
 
-(7) A vezérigazgató jogosult két vezérigazgató-helyettes kinevezésére. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.
+(7) A vezérigazgató egy vagy több vezérigazgató-helyettes kinevezésére jogosult. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.
 
 103. § (1) A közszolgálati médiaszolgáltató vezérigazgatójává az a büntetlen előéletű, felsőfokú végzettségű magyar állampolgár nevezhető ki, aki legalább öt év szakmai gyakorlattal rendelkezik.
 
@@ -1781,13 +1787,13 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (4) A közszolgálati médiaszolgáltató vezérigazgatója büntetlen előélete igazolásának rendjére és az alkalmazandó jogkövetkezményekre a munka törvénykönyvében meghatározottakat kell alkalmazni.
 
-### A közszolgálati médiaszolgáltatók vezetőire vonatkozó összeférhetetlenségi szabályok
+### A közszolgálati médiaszolgáltató vezetőire vonatkozó összeférhetetlenségi szabályok
 
 104. § (1) A közszolgálati médiaszolgáltató vezérigazgatójára és vezető állású munkavállalójára munkaviszonyának ideje alatt a Hatóság Elnökére, elnökhelyettesére, főigazgatójára, főigazgató-helyettesére vonatkozó, a 118. § (1) bekezdés a)–c) és f) pontban foglalt összeférhetetlenségi szabályokat, illetve a 118. § (3) bekezdésben foglalt kizáró okokat kell megfelelően alkalmazni.
 
 (2) Az (1) bekezdésben foglalt összeférhetetlenségi szabályokon kívül a közszolgálati médiaszolgáltató vezérigazgatója, vezető állású munkavállalója, illetve ezek közeli hozzátartozója nem lehet olyan gazdasági társaságban tulajdoni részesedéssel rendelkező tag, illetve olyan gazdasági társaság vezető tisztségviselője vagy felügyelő bizottsági tagja, amely a vezérigazgató vezetése alatt álló, illetve a vezető állású munkavállalót foglalkoztató közszolgálati médiaszolgáltatóval üzleti kapcsolatban áll. Amennyiben a közszolgálati médiaszolgáltató vezérigazgatójának vagy vezető állású munkavállalójának közeli hozzátartozója sérti meg ezen előírást, úgy azt a vezérigazgató, illetve a vezető állású munkavállaló tekintetében felmerült összeférhetetlenségi oknak kell tekinteni, és a megfelelő jogkövetkezményeket kell alkalmazni.
 
-(3) A közszolgálati médiaszolgáltató vezérigazgatója és vezető állású munkavállalója munkaviszonyának ideje alatt – a tudományos, oktatói, irodalmi, művészeti, más szerzői jogvédelem alá eső és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenység kivételével – egyéb kereső foglalkozást nem folytathat, az irányítása alatt álló közszolgálati médiaszolgáltatótól e jogcímeken sem jogosult díjra.
+(3) A közszolgálati médiaszolgáltató vezérigazgatója és vezető állású munkavállalója munkaviszonyának ideje alatt tudományos, oktatói, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenység kivételével egyéb kereső foglalkozást nem folytathat, a közszolgálati médiaszolgáltatótól e jogcímeken sem jogosult díjra.
 
 (4) A közszolgálati médiaszolgáltató vezérigazgatója – munkaszerződésének megkötése előtt – írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenségi ok nem áll fenn.
 
@@ -1811,9 +1817,9 @@ Ennek keretében:
 
 (2) A közszolgálati médiaszolgáltató vezérigazgatója a Közszolgálati Közalapítványtól – a munkaszerződésébe foglalt juttatásokon kívül – semmilyen jogcímen nem kaphat díjazást.
 
-### A közszolgálati médiaszolgáltatók felügyelő bizottsága
+### A közszolgálati médiaszolgáltató felügyelő bizottsága
 
-106. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a közös Felügyelő Bizottság (a továbbiakban: Bizottság) ellenőrzi. A Bizottság jogában áll a vezérigazgatóktól, a közszolgálati médiaszolgáltatók munkavállalóitól jelentést vagy felvilágosítást kérni, a közszolgálati médiaszolgáltatók könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a közszolgálati médiaszolgáltatók költségére megvizsgáltatni.
+106. § (1) A közszolgálati médiaszolgáltató ügyvezetését a Felügyelő Bizottság (a továbbiakban: Bizottság) ellenőrzi. A Bizottság jogában áll a vezérigazgatótól, a közszolgálati médiaszolgáltató munkavállalóitól jelentést vagy felvilágosítást kérni, a közszolgálati médiaszolgáltató könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a közszolgálati médiaszolgáltató költségére megvizsgáltatni.
 
 (2) A Bizottság elnökből és négy tagból áll.
 
@@ -1823,51 +1829,51 @@ Ennek keretében:
 
 (5) A Bizottság maga állapítja meg működésének szabályait, ügyrendjét a Kuratórium hagyja jóvá.
 
-(6) A Bizottság köteles megvizsgálni a Kuratórium elé terjesztendő minden olyan jelentést, amely a közszolgálati médiaszolgáltatók – a Kuratórium közgyűlési hatáskörébe tartozó – vagyoni jellegű ügyeire vonatkozik.
+(6) A Bizottság köteles megvizsgálni a Kuratórium elé terjesztendő minden olyan jelentést, amely a közszolgálati médiaszolgáltató – a Kuratórium közgyűlési hatáskörébe tartozó – vagyoni jellegű ügyeire vonatkozik.
 
-(7) A közszolgálati médiaszolgáltatók belső ellenőrzési szervezetei a Bizottság irányítása alá tartoznak.
+(7) A közszolgálati médiaszolgáltató belső ellenőrzési szervezetei a Bizottság irányítása alá tartoznak.
 
 (8) A Bizottság szervezetére, működésére egyebekben a Polgári Törvénykönyvnek a gazdasági társaságokról szóló rendelkezései, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.
 
-### A közszolgálati médiaszolgáltatók könyvvizsgálója
+### A közszolgálati médiaszolgáltató könyvvizsgálója
 
-107. § (1) A közszolgálati médiaszolgáltatók közös könyvvizsgálóját a Kuratórium választja két évre. Megbízatásának megszüntetése is a Kuratórium hatáskörébe tartozik.
+107. § (1) A közszolgálati médiaszolgáltató könyvvizsgálóját a Kuratórium választja két évre. Megbízatásának megszüntetése is a Kuratórium hatáskörébe tartozik.
 
 (2) A könyvvizsgáló feladatát, jogkörét a Polgári Törvénykönyvnek a gazdasági társaságokra vonatkozó rendelkezések keretei között, a közszolgálati médiaszolgáltató alapító okiratában kell meghatározni.
 
-### A közszolgálati médiaszolgáltatók finanszírozása és gazdálkodása
+### A közszolgálati médiaszolgáltatás finanszírozása és gazdálkodása
 
-108. § (1) Az Alap a 136. § (3) bekezdésben meghatározott forrásaiból támogatja a közszolgálati médiaszolgáltatók feladatainak ellátását, támogatja és elvégzi műsorszámainak előállítását, megrendelését, megvásárlását, tájékoztatási és egyéb tevékenységét.
+108. § (1) Az Alap a 136. § (3) bekezdésben meghatározott forrásaiból támogatja a közszolgálati médiaszolgáltató feladatainak ellátását, erre irányuló megrendelésre elvégzi médiatartalmainak készítését, beszerzését, megvásárlását, valamint a közszolgálati médiaszolgáltatáshoz szükséges egyéb tevékenységét.
 
-(2) Az (1) bekezdés alapján rendelkezésre álló összegnek a közszolgálati médiaszolgáltatók közötti elosztásáról a Közszolgálati Költségvetési Tanács (a továbbiakban: Tanács) dönt.
+(2) A 136. § (3) bekezdésben meghatározott források alapján a médiatartalmak készítésére és beszerzésére fordítandó összegre – a közszolgálati médiaszolgáltatás 203. § 31. pontjában szereplő szolgáltatástípusai közötti bontásban – az Alap javaslatot tesz. E javaslatról a Közszolgálati Költségvetési Tanács (a továbbiakban: Tanács) véleményt nyilvánít.
 
-(3) A Tanács hét tagú, tagjai a következők:
+(3) A Tanács háromtagú, tagjai a következők:
 
-- a) a közszolgálati médiaszolgáltatók vezérigazgatói,
+- a) a közszolgálati médiaszolgáltató vezérigazgatója,
 - b) az Alap vezérigazgatója,
-- c) az Állami Számvevőszék elnöke által esetileg delegált két tag. E tagok tiszteletdíját az Alap vezérigazgatója állapítja meg, rájuk a 104. §-ban és a 118. §-ban foglalt összeférhetetlenségi szabályok értelemszerűen vonatkoznak.
+- c) az Állami Számvevőszék elnöke által esetileg delegált tag, akire a 104. §-ban és a 118. §-ban foglalt összeférhetetlenségi szabályok értelemszerűen vonatkoznak. E tag tiszteletdíját az Alap vezérigazgatója állapítja meg.
 
-(4) A Tanács minden év szeptember 30-ig dönt az (1) bekezdésben meghatározott, a következő évben a közszolgálati médiaszolgáltatók műsorszámaira, közszolgálati feladatainak ellátására rendelkezésre álló források elosztásáról. Döntése során figyelembe veszi az e törvényben és a Kódexben meghatározott közszolgálati célokat, illetve az egyes közszolgálati médiaszolgáltatók különleges feladatait. A Tanács döntését egyszerű többséggel hozza, döntését az Alap internetes honlapján nyilvánosságra hozza. A Tanács döntését különösen indokolt esetben – kétharmados szavazattöbbséggel – utólag módosíthatja. A módosításra irányuló döntést az Alap vezérigazgatója kezdeményezheti.
+(4) Az Alap a (2) bekezdés szerinti javaslatát minden év június 30-ig teszi meg, a következő tárgyévre vonatkozóan. A Tanács a javaslatról minden év július 31-ig fogalmazza meg (2) bekezdés szerinti véleményét. Véleménye megalkotása során figyelembe veszi az e törvényben, a Kódexben, valamint a 100/A. § alapján készült stratégiai tervekben meghatározott közszolgálati célokat, terveket, illetve a közszolgálati médiaszolgáltató különleges feladatait. A Tanács véleményét egyszerű többséggel fogadja el, indokolással látja el, és az Alap internetes honlapján nyilvánosságra hozza.
 
-(5) A Tanácsot az Alap vezérigazgatója – aki egyúttal a Tanács elnöke – hívja össze legkésőbb minden év június 30-ig. A Tanács működésének szabályait, ügyrendjét e törvény keretei között maga határozza meg.
+(5) Amennyiben a Tanács véleménye elutasítja az Alap (2) bekezdés szerinti javaslatát, úgy az Alapnak minden év augusztus 15-ig be kell nyújtania a Tanács számára újabb javaslatát. E javaslatában vagy elfogadja a Tanács véleményében foglaltakat, vagy indokolással ellátva elutasítja azt.
 
-(6) Az Alap – a közszolgálati médiaszolgáltatók képviseletében és javára eljárva – a saját költségvetése terhére köti meg a közszolgálati médiaszolgáltatók lineáris médiaszolgáltatásainak terjesztésére vonatkozó szerződéseket. Azon műsorterjesztési szerződésekre, amelyek alapján a közszolgálati médiaszolgáltató a terjesztésre adott engedély ellenében bevételhez jut, a (8) bekezdés szabályai alkalmazandók.
+(6) A Tanácsot az Alap vezérigazgatója – aki egyúttal a Tanács elnöke – hívja össze legkésőbb minden év június 30-ig. A Tanács működésének szabályait, ügyrendjét e törvény keretei között maga határozza meg.
 
-(7) A közszolgálati médiaszolgáltató vezérigazgatója beszámol a Kuratóriumnak az általa irányított médiaszolgáltató tevékenységéről, ennek keretében kerül sor a mérleg- és eredmény-kimutatás jóváhagyására. A vezérigazgató beszámolóját a közszolgálati médiaszolgáltatók Felügyelő Bizottságának véleményével együtt a Kuratórium elé kell terjeszteni.
+(7) Az Alap – a közszolgálati médiaszolgáltató képviseletében és javára eljárva – a saját költségvetése terhére köti meg a közszolgálati médiaszolgáltató médiaszolgáltatásainak terjesztésére vonatkozó szerződéseket. Azon műsorterjesztési szerződésekre, amelyek alapján a közszolgálati médiaszolgáltató a terjesztésre adott engedély ellenében bevételhez jut, a (9) bekezdés szabályai alkalmazandók.
 
-(8) A közszolgálati médiaszolgáltató – közszolgálati céljainak elősegítése érdekében – vállalkozási tevékenységet végezhet. Nyereségét kizárólag a közszolgálati médiaszolgáltatás végzésére vagy fejlesztésére használhatja fel. A vállalkozási tevékenységének folytatásához való jogot – tekintettel az Alapnak a közszolgálati média támogatása érdekében végzett tevékenységére, ellenérték nélkül – átengedheti az Alap részére. Az Alap az ebből eredő bevételeit csak a közszolgálati médiaszolgáltatók céljainak elérésére használhatja fel.
+(8) A közszolgálati médiaszolgáltató tevékenységéről a vezérigazgató beszámol a Kuratóriumnak, ennek keretében kerül sor a mérleg- és eredmény-kimutatás jóváhagyására. A vezérigazgató beszámolóját a közszolgálati médiaszolgáltató Felügyelő Bizottságának véleményével együtt a Kuratórium elé kell terjeszteni.
 
-(9) A közszolgálati médiaszolgáltatónak nem lehet részesedése más médiaszolgáltatóban, alapítványt nem hozhat létre. A közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdasági társaság közszolgálati médiaszolgáltatást indíthat, nyújthat.
+(9) A közszolgálati médiaszolgáltató – közszolgálati céljainak elősegítése érdekében – vállalkozási tevékenységet végezhet. Nyereségét kizárólag a közszolgálati médiaszolgáltatás végzésére vagy fejlesztésére használhatja fel. A vállalkozási tevékenységének folytatásához való jogot – tekintettel az Alapnak a közszolgálati média támogatása érdekében végzett tevékenységére, ellenérték nélkül – átengedheti az Alap részére. Az Alap az ebből eredő bevételeit csak a közszolgálati médiaszolgáltatás céljainak elérésére használhatja fel.
 
-(10) A közszolgálati médiaszolgáltató szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást.
+(10) A közszolgálati médiaszolgáltatónak nem lehet részesedése más médiaszolgáltatóban, alapítványt nem hozhat létre.
 
-(11) A közszolgálati médiaszolgáltató személyes illetékmentességet élvez, valamint nem alanya a társasági adónak. Az Alap és a közszolgálati médiaszolgáltatók az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. § alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
+(11) A közszolgálati médiaszolgáltató a szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást.
 
-(12) Az Alap és a közszolgálati médiaszolgáltatók egymás közötti jogviszonyaiban történő beszerzések nem tartoznak a közbeszerzésekről szóló törvény alkalmazási körébe.
+(12) A közszolgálati médiaszolgáltató személyes illetékmentességet élvez, valamint nem alanya a társasági adónak. Az Alap és a közszolgálati médiaszolgáltató az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 8. § alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
 
-(13) A 109/2010. (X. 28.) OGY határozatban rögzített irányelvek alapján a Médiatanács határozza meg az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak a részletes szabályait, ideértve, hogy az egyes vagyonelemeket, vagyontárgyakat, eszközöket – közszolgálati feladataik teljesítése céljából – milyen feltételekkel vehetik igénybe a közszolgálati médiaszolgáltatók.
+(13) Az Alap és a közszolgálati médiaszolgáltató egymás közötti jogviszonyaiban történő beszerzések nem tartoznak a közbeszerzésekről szóló törvény alkalmazási körébe.
 
-(14)
+(14) A jelen törvényben foglaltakra figyelemmel a Médiatanács határozza meg az Alap tulajdonosi joggyakorlása alatt álló állami vagyon hasznosításának, a vagyonnal történő gazdálkodásnak törvényben nem szabályozott részletes szabályait, ideértve, hogy az egyes vagyonelemeket, vagyontárgyakat, eszközöket – közszolgálati feladataik teljesítése céljából – milyen feltételekkel veheti igénybe a közszolgálati médiaszolgáltató.
 
 ### A közszolgálati médiaszolgáltatás rendszerében dolgozókra vonatkozó speciális munkajogi szabályok
 
@@ -3064,7 +3070,7 @@ a Biztos hivatalánál panasszal élhet.
 
 ### Eljárás a kiegyensúlyozott tájékoztatás kötelezettségének megsértése esetén
 
-181. § (1) Az Smtv. 13. §-ában és e törvény 12. § (2) bekezdésében meghatározott kiegyensúlyozottsági kötelezettség megsértése esetén a kifejezésre nem juttatott álláspont képviselője, illetve bármely néző vagy hallgató (a (2)–(6) bekezdés alkalmazásában a továbbiakban: kérelmező) hatósági eljárást kezdeményezhet. A kérelem elbírálására a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásai tekintetében a Médiatanács, más médiaszolgáltatások vonatkozásában a Hivatal rendelkezik hatáskörrel. A kiegyensúlyozott tájékoztatás kötelezettségének megsértése miatt a Hatóság hivatalból nem indíthat eljárást.
+181. § (1) Az Smtv. 13. §-ában és e törvény 12. § (2) bekezdésében meghatározott kiegyensúlyozottsági kötelezettség megsértése esetén a kifejezésre nem juttatott álláspont képviselője, illetve bármely néző vagy hallgató (a (2)–(6) bekezdés alkalmazásában a továbbiakban: kérelmező) hatósági eljárást kezdeményezhet. A kérelem elbírálására a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltató médiaszolgáltatásai tekintetében a Médiatanács, más médiaszolgáltatások vonatkozásában a Hivatal rendelkezik hatáskörrel. A kiegyensúlyozott tájékoztatás kötelezettségének megsértése miatt a Hatóság hivatalból nem indíthat eljárást.
 
 (2) Az (1) bekezdésben meghatározott hatósági eljárás kezdeményezését megelőzően a kérelmező köteles kifogásával a médiaszolgáltatóhoz fordulni. A kérelmező az általa kifogásolt tájékoztatás közzétételétől, ismétlés esetén az utolsó ismétléstől számított hetvenkét órán belül írásban kérheti a médiaszolgáltatótól azon álláspont – megfelelő, a kifogásolt tájékoztatás közzétételéhez hasonló körülmények közötti – közzétételét, amelynek közzététele a kiegyensúlyozott tájékoztatáshoz szükséges. Nem élhet a kifogásolás jogával a kérelmező, ha az ismertetésre nem került álláspont kifejtésére ezen álláspont valamely képviselője már lehetőséget kapott, vagy ha e lehetőséget a kérelmező kapta, de azzal nem élt.
 
@@ -3117,7 +3123,7 @@ a Biztos hivatalánál panasszal élhet.
 - r) eljár az e törvényben meghatározott jogvitákban,
 - s) ellátja az ideiglenes médiaszolgáltatási hatósági szerződésekkel összefüggő feladatokat,
 - t) szakhatósági feladatokat lát el e törvény és a Tpvt. által előírt esetben,
-- u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § és e törvény 12. §-a],
+- u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltató médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § és e törvény 12. §-a],
 - v)
 - x) hatósági határozatában meghatározza a továbbítási kötelezettség alá eső közszolgálati és közösségi médiaszolgáltatásokat [75 . § (3) bekezdés],
 - y) ellátja az önszabályozó szervezetek eljárásával és döntéseivel összefüggő hatósági feladatokat,
@@ -3459,9 +3465,9 @@ c) az igénybe vevő által biztosított információt tárolja (tárhelyszolgá
 
 d) információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára (keresőszolgáltatás).
 
-31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltatók által nyújtott médiaszolgáltatás.
+31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltató által nyújtott audiovizuális és rádiós médiaszolgáltatás, hírügynökségi szolgáltatás, valamint internetes úton elérhetővé tett médiatartalmak szolgáltatása.
 
-32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató, valamint a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató által létrehozott médiaszolgáltató, illetve a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdasági társaság által létrehozott médiaszolgáltató.
+32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató.
 
 33. Közszolgálati médiavagyon: a közszolgálati médiaszolgáltató, jogelődei, valamint az Alap által megrendelt, bármilyen jogcímen készített, adásvétel útján beszerzett, felhasználási szerződéssel vagy egyéb megállapodás útján részben vagy egészben megszerzett, vagy készített filmalkotások és más audiovizuális művek, rádiós műsorszámok, hangfelvételek és a médiaszolgáltatáshoz kapcsolódó egyéb, kulturális értéket képviselő dokumentumok, fényképek szerzői és szomszédos jogai, vagy ezek bármely felhasználási jogai, valamint e műveket tartalmazó fizikai hordozók (például: lemezek, szalagok, kazetták, papíralapú dokumentumok, kották), továbbá a jelmezek, kellékek, díszletek és egyéb szerzői művek, amennyiben a művel kapcsolatos szerzői és szomszédos jogok a törvény hatálybalépését megelőzően a közszolgálati médiaszolgáltató jogelődei valamelyikét vagy a törvény hatálybalépését követően az Alapot illetik meg vagy illették meg, valamint amelyekre vonatkozóan e törvény hatálybalépését követően a közszolgálati médiaszolgáltató jogelődei szereztek, vagy maga a közszolgálati médiaszolgáltató szerez jogot.
 
@@ -3648,6 +3654,8 @@ rendeletben megállapítsa.
 ### A közszolgálati médiaszolgáltatókra vonatkozó átmeneti szabályok
 
 212. § (1) Az Rttv. alapján megalkotott Közszolgálati Műsorszolgáltatási Szabályzatot annak megalkotója köteles összhangba hozni a Közszolgálati Kódexszel, vagy ennek hiányában köteles azt hatályon kívül helyezni.
+
+(1a) A Kódex rendelkezéseit 2015. szeptember 30-ig módosítani kell a közszolgálati médiaszolgáltatásra és a médiapiacra vonatkozó egyes törvények módosításáról szóló 2014. évi CVII. törvényben foglaltakkal összhangban. E módosításra a Kódex elfogadásának szabályait – 95. § (2) bekezdés – kell alkalmazni.
 
 (2) A Magyar Rádió Zrt., a Magyar Televízió Zrt. és a Magyar Távirati Iroda Zrt. megalapítása előtt a Magyar Televízióban, a Magyar Rádióban és a Magyar Távirati Irodában közalkalmazottként dolgozó, és azóta megszakítás nélkül ugyanazon közszolgálati médiaszolgáltatónál foglalkoztatott munkavállalóknak a Magyar Rádiónál, a Magyar Televíziónál és a Magyar Távirati Irodánál közalkalmazotti jogviszonyban töltött idejét úgy kell tekinteni, mintha azt a részvénytársaságnál töltötték volna el.
 

@@ -1156,9 +1156,9 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) A képviselőt mandátuma igazolásától a munkáltató – a munkavállaló kérésének megfelelően – a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 
-(3) Ha a képviselő a megválasztása napján ügyész, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban vagy közalkalmazotti jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
+(3) Ha a képviselő a megválasztása napján ügyész, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban vagy közalkalmazotti jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
-97. § (1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a honvédek jogállásáról szóló törvény, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
+97. § (1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a honvédek jogállásáról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
 
 (2) A képviselői, valamint a háznagyi megbízatás időtartama vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 
@@ -1502,7 +1502,7 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 (2) Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a házelnök a költségvetéssel foglalkozó állandó bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
-128. § (1) Az Országgyűlési Őrség személyi állománya a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott hivatásos állományúakból (a továbbiakban: országgyűlési őr), köztisztviselőkből, valamint olyan munkavállalókból áll, akikre a közigazgatási szervnél foglalkoztatott munkavállalókra vonatkozó szabályokat kell alkalmazni.
+128. § (1) Az Országgyűlési Őrség személyi állománya a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott hivatásos állományúakból (a továbbiakban: országgyűlési őr), köztisztviselőkből, valamint olyan munkavállalókból áll, akikre a közigazgatási szervnél foglalkoztatott munkavállalókra vonatkozó szabályokat kell alkalmazni.
 
 (2) A kinevezett országgyűlési őr esküt tesz, amelynek szövegét a 2. melléklet határozza meg.
 
@@ -1513,7 +1513,7 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 129. § (1) A házelnök
 
 - a) kinevezi az Országgyűlési Őrség parancsnokát,
-- b) – ha törvény eltérően nem rendelkezik – gyakorolja a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott, a fegyveres szervet irányító miniszter részére meghatározott feladat- és hatásköröket.
+- b) – ha törvény eltérően nem rendelkezik – gyakorolja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott, a rendvédelmi feladatokat ellátó szervet irányító miniszter részére meghatározott feladat- és hatásköröket.
 
 (2) A háznagy a házelnök által meghatározott rendben – a házelnök erre vonatkozó rendelkezése alapján – egyes, az Országgyűlési Őrség irányításával összefüggő jogokat gyakorolhat.
 
@@ -1522,7 +1522,7 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 - a) az Országgyűlési Őrség szolgálati szabályzatát,
 - b) az országgyűlési őrök képesítési követelményeit,
 - c) az Országgyűlési Őrség egyenruházati szabályzatát, és
-- d) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározottak szerint az Országgyűlési Őrségre vonatkozó szabályokat,
+- d) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározottak szerint az Országgyűlési Őrségre vonatkozó szabályokat,
 - e) az Országgyűlési Őrség által használt kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat, valamint a rendszeresíthető kényszerítő eszközök típusát, fajtáját.
 
 (2) Ha a rendészetért felelős miniszter a házelnök véleményével nem ért egyet, egyeztetést kezdeményez a vitás kérdésekről.
@@ -1533,12 +1533,12 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 - a) az Országgyűlési Őrség tevékenységének részletes rendjét belső szabályzatban állapítja meg, és személyi állománya számára közvetlenül utasítást adhat,
 - b) javaslatot tesz az Országgyűlési Őrség Szervezeti és Működési Szabályzatára,
-- c) gyakorolja az e törvényben, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben, valamint jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat az Országgyűlési Őrség állományába tartozó személyek felett,
+- c) gyakorolja az e törvényben, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat az Országgyűlési Őrség állományába tartozó személyek felett,
 - d) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenységét,
 - e) évente beszámol az Országgyűlési Őrség tevékenységéről az Országgyűlés honvédelemmel foglalkozó állandó bizottságának, valamint
 - f) képviseli az Országgyűlési Őrséget.
 
-(2) Az országgyűlési őr tekintetében az országos parancsnok részére a fegyveres szervek hivatásos állományú tagjai szolgálati viszonyáról szóló törvényben biztosított munkáltatói jogköröket az Országgyűlési Őrség parancsnoka gyakorolja.
+(2) Az országgyűlési őr tekintetében az országos parancsnok részére a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint jogszabályban biztosított munkáltatói jogköröket az Országgyűlési Őrség parancsnoka gyakorolja.
 
 (3) Az Országgyűlési Őrség parancsnokával és állományával kapcsolatban a belső bűnmegelőzési és bűnfelderítési feladatokat a Rendőrségről szóló törvény rendelkezései alapján az ott meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
 
@@ -1580,7 +1580,7 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 136. § (1) Az Országgyűlési Őrség belső szervezetét és működésének részletes szabályait, az utasításadás rendjét úgy kell kialakítani, hogy az utasítás adójának és végrehajtójának egyéni felelőssége mindenkor megállapítható legyen.
 
-(2) Az Országgyűlési Őrség egyenruhája és szolgálati igazolványa formájának, kialakításának el kell térnie más fegyveres szervek egyenruhájától és szolgálati igazolványától.
+(2) Az Országgyűlési Őrség egyenruhája és szolgálati igazolványa formájának, kialakításának el kell térnie más rendvédelmi feladatokat ellátó szervek és a Magyar Honvédség egyenruhájától és szolgálati igazolványától.
 
 137. § (1) Az Országgyűlési Őrség feladatai ellátása során az e törvényben meghatározott feladatai ellátásához szükséges mértékben az intézkedéssel, valamint az eljárásával érintett természetes személy személyazonosító adatait kezeli.
 

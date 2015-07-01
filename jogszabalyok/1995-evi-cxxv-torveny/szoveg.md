@@ -369,7 +369,7 @@ terheli.
 
 24. § A nemzetbiztonsági szolgálatok személyi állományát a nemzetbiztonsági szolgálatokra és azok tevékenységére vonatkozó, tudomásukra jutott minősített adat tekintetében titoktartási kötelezettség terheli, amely magába foglalja az minősített adat megőrzését és védelmét is. A titoktartási kötelezettség alól a miniszter és a nemzetbiztonsági szolgálatok főigazgatói adhatnak felmentést. A nemzetbiztonsági szolgálatok személyi állományát a titoktartási kötelezettség az alkalmazás megszűnése után is terheli.
 
-25. § A nemzetbiztonsági szolgálatok hivatásos állományú tagjainak beosztási illetményük 25%-áig terjedő titkosszolgálati pótlék adható. A pótlékra jogosító beosztásokat – a főigazgató javaslatára – a miniszter határozza meg. E pótlék a szolgálati időpótlék számítása során nem vehető figyelembe.
+25. §
 
 ### A nemzetbiztonsági szolgálatok működési alapelvei
 

@@ -240,13 +240,15 @@ van szükség, és
 
 (8) A betegellátó a 4. § (2) bekezdésének b) pontja szerinti célból az életkorhoz kötött oltáshoz szükséges oltóanyag igénylése és elszámolása során továbbítja az oltandó személyek nevét és társadalombiztosítási azonosító jelét az egészségügyi államigazgatási szervnek.
 
+(8a) A betegellátó a 4. § (2) bekezdés b) pontja szerinti célból az életkorhoz kötött kötelező és önkéntes védőoltások esetén, valamint megbetegedési veszély elhárítása céljából kötelező védőoltások esetén a védőoltásban részesültek személyazonosító adatait – miniszteri rendeletben meghatározott módon elektronikus úton is – továbbítja az egészségügyi államigazgatási szervnek.
+
 (9) A (3), (7) és (8) bekezdés szerinti szervek a részükre átadott, egészségügyi és személyazonosító adatot az adatkezelés célját megvalósító feladatuk ellátásához szükséges mértékben, az adatkezelés megkezdésétől számított 30 évig kezelhetik.
 
 15/A. § (1) Az észlelő orvos köteles haladéktalanul továbbítani a munkavédelmi hatóságnak a munkavállaló egészségügyi és személyazonosító adatát, ha
 
 - a) a 3. számú melléklet szerinti foglalkozási eredetű megbetegedést észlel vagy annak gyanúja merül fel,
 - b) az érintett foglalkozása gyakorlása közben, azzal összefüggésben
-  - ba) a 4. számú mellékletben szereplő anyag hatásának van kitéve, és szervezetében az anyag koncentrációja a megengedett mértéket meghaladja, valamint
+  - ba) miniszteri rendeletben meghatározott vegyi anyag hatásának van kitéve, és szervezetében az anyag koncentrációja a megengedett mértéket meghaladja, valamint
   - bb) zaj esetében a 4000 Hz-en 30 dB bármely fülön bekövetkező halláscsökkenés fordul elő.
 
 (2) A munkavédelmi hatóság és a munkahigiénés és foglalkozás-egészségügyi szerv a 4. § (2) bekezdés t) pontja szerinti célból, a munkabalesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek kivizsgálása, nyilvántartása érdekében, a feladat ellátásához szükséges ideig és mértékben kezelheti a munkavállaló személyazonosító és egészségügyi adatait.
@@ -516,7 +518,7 @@ részére kell átadni.
 
 (6a) A betegjogi, ellátottjogi és gyermekjogi képviselő eljárása során keletkezett – egészségügyi és személyazonosító adatot is tartalmazó – dokumentációt az eljárás befejezését követően át kell adni a (4) bekezdés b) pontja szerinti szervnek.
 
-(7) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás kiszolgáltatója, illetve nyújtója a vényeket 5 évig őrzi meg. Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, amelynek kihordási ideje 5 évnél hosszabb, a vény megőrzési ideje a kihordási idővel azonos. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
+(7) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás kiszolgáltatója, illetve nyújtója a vényeket 5 évig őrzi meg, azzal, hogy ha a működési nyilvántartásban nem szereplő, de valamely államban gyógyszer rendelésére jogosult személy által rendelt vényköteles gyógyszer kiadásának alapjául szolgáló külföldi vény visszaadásra kerül, a vény másolatát kell megőrizni és az expediálás tényét a vény eredeti példányán fel kell tüntetni. Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, amelynek kihordási ideje 5 évnél hosszabb, a vény megőrzési ideje a kihordási idővel azonos. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
 
 (8) Az adatmegőrzés érdekében folyamatosan biztosítani kell, hogy az adathordozó az adott technikai feltételek mellett olvasható maradjon, vagy olvasható állapotba kerüljön.
 
@@ -883,28 +885,3 @@ Bejelentendő foglalkozási megbetegedések jegyzéke
 | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
 ### 4. számú melléklet az 1997. évi XLVII. törvényhez
-
-#### Biológiai mintában vizsgált anyagok
-
-- 1. Anilin
-- 2. Arzén
-- 3. Benzol
-- 4. Dimetil-formamid
-- 5. Etilbenzol
-- 6. Fenol
-- 7. Fluorid vegyületek
-- 8. Higany (szervetlen)
-- 9. Kadmium
-- 10. Kobalt
-- 11. Króm
-- 12. n-Hexán
-- 13. Nikkel
-- 14. Nitro-benzol
-- 15. Ólom (szervetlen)
-- 16. Szelén
-- 17. Szerves foszforsavészterek
-- 18. Szén-monoxid
-- 19. Sztirol
-- 20. Toluol
-- 21. Triklór-etilén
-- 22. Xilol

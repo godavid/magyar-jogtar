@@ -389,11 +389,10 @@ továbbítására jogosult.
 (3) A (2) bekezdés szerinti automatizált keresés elrendelésére feljogosított hatóságok:
 
 - a) a közrend és a közbiztonság fenntartásával összefüggő feladatai ellátása, valamint a bűncselekmények megelőzése céljából a rendőrség,
-- b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési és közigazgatási eljárások lefolytatása céljából
-  - ba) a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
-  - bb) közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, valamint az autópályák, autóutak és főutak használatának díjáról szóló törvény szerinti útdíjellenőrzésre feljogosított szervezet,
-- c) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
-- d) a hatáskörébe tartozó bűnüldözési és felderítési feladatok ellátása céljából a külön törvényben meghatározott szervek.
+- b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+- c) a közúti közlekedés szabályainak megsértésével összefüggő közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíj ellenőrzésre feljogosított szervezet, valamint az úthasználati díj ellenőrzésére kijelölt szervezet,
+- d) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
+- e) a hatáskörébe tartozó bűnüldözési és felderítési feladatok ellátása céljából a törvényben meghatározott szervek.
 
 (4) A közvetlen adathozzáférés útján történő automatizált keresés csak a teljes forgalmi rendszám vagy a teljes alvázszám megadását követően teljesíthető.
 
@@ -545,13 +544,13 @@ továbbítására jogosult.
 
 41. § Felhatalmazást kap a Kormány, hogy a közúti közlekedési nyilvántartási szervet, a közlekedési igazgatási hatóságot és a nemzeti kapcsolattartó pontot rendeletben kijelölje.
 
-41/A. § Felhatalmazás kap a Kormány, hogy
+41/A. § Felhatalmazást kap a Kormány, hogy
 
 - a) az előzetes eredetiségvizsgálati eljárás, a közreműködő engedélyezésére irányuló eljárás, valamint a vizsgáló bejelentésének részletes szabályait, és a közreműködővel kötendő hatósági szerződés tartalmát,
 - b) a nyilvántartásba bejegyzett jármű tulajdonjogának, illetve az üzembentartó személyének változását igazoló teljes bizonyító erejű magánokiratnak a közlekedési igazgatási eljárásban való felhasználhatóságához szükséges kötelező tartalmi elemeit,
 - c) a közlekedési igazgatási eljárásban a közreműködő hatóságok körét, feladatait és a közreműködő hatóságra vonatkozó részletes eljárási szabályokat, valamint
 - d) a közreműködők nyilvántartása személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésének részletes szabályait, a közreműködőre, a vizsgáló állomásra és a vizsgálóra vonatkozó követelményeket, az előzetes eredetiségvizsgálati eljárásban alkalmazható vizsgálati módszert, valamint a vizsgáló képzésének és továbbképzésének szabályait,
-- e) a 27/A. § (2)–(5) bekezdéseiben meghatározott automatizált keresés részletes szabályait rendeletben állapítsa meg.
+- e) a 27/A. § (2)–(5) bekezdésében és a 27/C. §-ban meghatározott automatizált keresés részletes szabályait rendeletben állapítsa meg.
 
 42. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg
 

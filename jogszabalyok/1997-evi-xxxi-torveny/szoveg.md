@@ -1288,7 +1288,7 @@ a területi gyermekvédelmi szakszolgálat támogatásával, különösen csalá
 - e) személyisége, egészségi állapota és körülményei alapján alkalmas a nála elhelyezett gyermek kiegyensúlyozott fejlődésének biztosítására és a családjába történő visszakerülésének vagy örökbefogadásának támogatására, valamint a gyermek, fiatal felnőtt életkori szükségleteiből adódó feladatoknak az ellátására,
 - f) a képesítési előírások körében
   - fa) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítéssel rendelkezik, vagy
-  - fb) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés „Befogadott gyermek ellátásának alapfeladatai” követelménymodul záróvizsgáját sikeresen letette, vagy a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyamot eredményesen elvégezte és mindkét esetben vállalja, hogy a nevelőszülői foglalkoztatási jogviszonya keretében a gondozásába kerülő első gyermek, fiatal felnőtt elhelyezésétől számított két éven belül az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítést megszerzi.
+  - fb) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés „Befogadott gyermek ellátásának alapfeladatai” követelménymodul záróvizsgáját sikeresen letette, vagy a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyamot eredményesen elvégezte és mindkét esetben vállalja, hogy a nevelőszülői foglalkoztatási jogviszonya keretében a gondozásába kerülő első gyermek, fiatal felnőtt elhelyezésétől számított két éven belül 1. az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítést megszerzi, vagy 2. a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott, a nevelőszülők számára szervezett központi oktatási programot eredményesen elvégzi.
 
 (2) Az (1) bekezdés d) pontjában meghatározott korkülönbségre és az (1) bekezdés f) pontjában meghatározott képzés elvégzésére vonatkozó rendelkezéstől – a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit szabályozó kormányrendeletben foglaltak szerint – a gyermek érdekében kivételesen el lehet térni.
 
@@ -1773,7 +1773,7 @@ a nevelőszülőnek a végkielégítés megállapítását megelőző három év
 
 (3) A javítóintézetben a fiatalkorúak nevelését, ellátását legfeljebb tizenkettő fős csoportokban kell biztosítani. Az értelmi fogyatékossággal élő, szenvedélybeteg vagy súlyos beilleszkedési zavarokkal, személyiségzavarokkal küzdő fiatalkorúak számára létrehozott speciális csoportokban legfeljebb nyolc fő helyezhető el.
 
-(4) A javítóintézetben nevelt fiatalkorú gyógyulása érdekében a javítóintézet igazgatója a javítóintézet orvosának véleménye, valamint indokolt esetben a megkeresett szakorvos vagy az országos gyermekvédelmi szakértői bizottság javaslata alapján betegszabadságot engedélyezhet.
+(4)
 
 (5) A nevelésbe vett, javítóintézetben ellátott fiatalkorú családi pótlékának felhasználható részét a fiatalkorú teljes körű ellátására vagy teljes körű ellátásának kiegészítésére kell fordítani, így különösen ruházattal, szabadidő-eltöltéshez, kulturálódáshoz, játékhoz, sporthoz szükséges eszközökkel való ellátására, fejlesztésére, tehetségének gondozására, továbbá a fiatalkorú zsebpénzének biztosítására.
 
@@ -3820,14 +3820,14 @@ teszi szükségessé.
 (2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a gyermekek és a tanulók számára az óvodai nevelési napokon, valamint az iskolai tanítási napokon
 
 - a) a nem állami fenntartó az általa fenntartott nevelési-oktatási intézményben,
-- b) a települési önkormányzat az általa fenntartott óvodában és a közigazgatási területén az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben,
+- b) a települési önkormányzat az általa fenntartott óvodában, illetve a közigazgatási területén az állami intézményfenntartó központ, valamint az állami szakképzési és felnőttképzési szerv által fenntartott nevelési-oktatási intézményben,
 - c) a fenntartó az egyéb állami fenntartású intézményben biztosítja a déli meleg főétkezést és két további étkezést.
 
 (2a) Ha a gyermek, tanuló szakosított szociális ellátást nyújtó, gyermekvédelmi szakellátást nyújtó vagy bentlakásos nevelési-oktatási intézményben van elhelyezve, a (2) bekezdésben szereplő napokon kívül, valamint a déli meleg főétkezésen és a két további étkezésen felül a gyermekek, tanulók számára az étkeztetést az elhelyezést nyújtó intézmény fenntartója biztosítja, a (2b) bekezdésben foglaltak kivételével.
 
-(2b) A települési önkormányzat biztosítja a közigazgatási területén az állami intézményfenntartó központ által fenntartott kollégiumban a (2) bekezdésben foglalt étkezésen kívüli további étkezést.
+(2b) A települési önkormányzat biztosítja a közigazgatási területén az állami intézményfenntartó központ, valamint az állami szakképzési és felnőttképzési szerv által fenntartott kollégiumban a (2) bekezdésben foglalt étkezésen kívüli további étkezést.
 
-(2c) A főváros közigazgatási területén lévő tankerületekben az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – a (2) és a (2b) bekezdés szerinti étkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani a (2) és a (2b) bekezdés szerinti étkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik.
+(2c) A főváros közigazgatási területén lévő tankerületekben az állami intézményfenntartó központ, valamint az állami szakképzési és felnőttképzési szerv által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – a (2) és a (2b) bekezdés szerinti étkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani a (2) és a (2b) bekezdés szerinti étkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik.
 
 (2d) Az étkeztetés biztosítására kötelezett önkormányzat e feladatának ellátásához a közigazgatási területén kívülről érkező gyermek, tanuló lakóhelye szerinti önkormányzattól hozzájárulást kérhet.
 
@@ -3855,13 +3855,14 @@ gyermek után az intézményi térítési díj 100%-át,
 
 - b) az a) pont alá nem tartozó, rendszeres gyermekvédelmi kedvezményben részesülő gyermek és tanuló után az intézményi térítési díj 50%-át,
 - c) három- vagy többgyermekes családoknál gyermekenként az intézményi térítési díj 50%-át,
-- d) az ad) alpont alá nem tartozó, tartósan beteg vagy fogyatékos gyermek, tanuló után az intézményi térítési díj 50%-át, kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: normatív kedvezmény].
+- d) az ad) alpont alá nem tartozó, tartósan beteg vagy fogyatékos gyermek, tanuló után az intézményi térítési díj 50%-át,
+- e) azon nevelésbe vett gyermek után, aki bölcsődés, óvodás vagy tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, valamint azon utógondozói ellátásban részesülő fiatal felnőtt után, aki tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, az intézményi térítési díj 100%-át kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: normatív kedvezmény].
 
 (6) A normatív kedvezmény csak egy jogcímen vehető igénybe.
 
 (7) Nem jár a tanulónak kedvezmény azon étkeztetésére, amely kedvezményre – a szakképzésre vonatkozó rendelkezések szerint létrejött – tanulószerződése alapján már jogosult.
 
-(8) A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek után nem vehető igénybe a normatív kedvezmény.
+(8) A nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben ideiglenes hatállyal elhelyezett gyermek és a tanulói jogviszonyban nem álló, illetve nem nappali rendszerű iskolai oktatásban részt vevő utógondozói ellátásban részesülő fiatal felnőtt után nem vehető igénybe a normatív kedvezmény.
 
 (9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
 

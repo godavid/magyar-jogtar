@@ -517,6 +517,13 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 azzal, hogy kifizetett összegnek minősül a számlán található értékpapírok kivonásakor a kivont értékpapírok szokásos piaci értéke is.
 
+(4a) A 2015. július 1-je és 2016. július 1-je között a Stabilitási Megtakarítási Számlára befizetett összeget terhelő adó
+
+- a) alapja a (4) bekezdés szerint kifizetett összeg 100%-a,
+- b) mértéke a (2) bekezdéstől eltérően, ha az adófizetési kötelezettség keletkezése és a Stabilitás Megtakarítási Számlára történő befizetés között eltelt idő
+  - ba) kevesebb, mint 1 év, az adóalap 20 százaléka,
+  - bb) legalább 1 év, az adóalap 10 százaléka.
+
 (5) Az (1) bekezdés rendelkezései alapján a korábban bevallott adó helyesbítésének, levont, megfizetett adó vagy adóelőleg visszaigénylésének nincs helye.
 
 (6) A számlatulajdonos halála esetére írásban egy vagy több kedvezményezettet jelölhet. Kedvezményezett jelölése esetén a Stabilitás Megtakarítási Számla nem képezi a hagyaték részét. Ha a Stabilitás Megtakarítási Számláról kifizetés a kedvezményezett vagy örökös részére történik, a kedvezményezettet, illetve örököst az e § szerinti adófizetési kötelezettség tekintetében számlatulajdonosnak, a számlatulajdonos befizetését a kedvezményezett, illetve örökös befizetésének kell tekinteni. A Stabilitás Megtakarítási Számláról a kedvezményezettnek, örökösnek teljesített kifizetést e § szerinti adófizetési kötelezettségen felül más fizetési kötelezettség nem terheli.

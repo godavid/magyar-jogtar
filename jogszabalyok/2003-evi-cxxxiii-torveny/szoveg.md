@@ -622,7 +622,10 @@ kezeli.
 
 64/A. §
 
-65. § Felhatalmazást kap a Kormány, hogy az ingatlanvállalkozás-felügyeleti hatóságot rendeletben kijelölje.
+65. § Felhatalmazást kap a Kormány, hogy
+
+- 1. az ingatlanvállalkozás-felügyeleti hatóságot rendeletben kijelölje,
+- 2. a jegyző társasházak feletti törvényességi felügyelete eljárási szabályait rendeletben állapítsa meg.
 
 66. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy az e törvény szerinti üzletszerűen végzett társasház-kezelői, illetőleg üzletszerűen végzett ingatlankezelői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a tevékenységet folytatókról vezetett nyilvántartásnak a személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 

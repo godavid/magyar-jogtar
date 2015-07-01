@@ -6,7 +6,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (2) A települési önkormányzat az (1) bekezdésben meghatározott körülmény bekövetkezéséről haladéktalanul, de legfeljebb 3 napon belül tájékoztatja a kormányrendeletben kijelölt állami szervet (a továbbiakban: állami szerv).
 
-(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel, illetve a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a szolgáltatással érintett területre irányadó közszolgáltatási díj fejében köteles elvégezni.
+(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel, illetve a hulladékgazdálkodási közszolgáltatási engedéllyel vagy minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a szolgáltatással érintett területre irányadó közszolgáltatási díj fejében köteles elvégezni.
 
 (4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincs helye.
 
@@ -16,11 +16,11 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (7) Az ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb kilenc hónapos időtartamra történhet. A kijelölés ezt követően három havonként, legfeljebb egy éves időtartammal meghosszabbítható
 
-(8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a hulladékgazdálkodási közszolgáltatási engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
+(8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a hulladékgazdálkodási közszolgáltatási engedélyében vagy minősítési engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
 
 (9) Ha a (6) bekezdés szerinti közérdek érvényesítését a (3) bekezdésben meghatározott feltételekkel rendelkező szolgáltatók száma korlátozza, közérdekű szolgáltatóként az ideiglenes szolgáltatáshoz szükséges feltételek megléte esetén kijelölhető az a szolgáltató is, amelyik
 
-- a) hulladékgazdálkodási közszolgáltatási engedéllyel nem, de hulladékgazdálkodási engedéllyel rendelkezik,
+- a) hulladékgazdálkodási közszolgáltatási engedéllyel vagy minősítési engedéllyel nem, de hulladékgazdálkodási engedéllyel rendelkezik,
 - b) hulladékgazdálkodási engedély megszerzése érdekében kérelmet nyújtott be, vagy
 - c) korábban hulladékgazdálkodási engedéllyel rendelkezett, de az engedélyének időbeli hatálya a kijelölés időpontját megelőző legfeljebb 60 napon belül szűnt meg.
 
