@@ -74,6 +74,8 @@ az emberi felhasználásra kerülő gyógyszerekről
 
 25. § Ez a törvény az 5-(2-amino-propil)indol ellenőrzési intézkedések alá vonásáról szóló 2013. október 7-i 2013/496/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
+26. § Ez a törvény a 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin (25I-NBOMe), a 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid (AH-7921), a 3,4-metilén-dioxi-pirovaleron (MDPV) és a 2-(3-metoxi-fenil)-2-(etil-amino)ciklohexanon (metoxetamin) ellenőrzési intézkedések alá vonásáról szóló, 2014. szeptember 25-ei 2014/688/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
 ### Melléklet az emberi felhasználásra kerülő gyógyszerekről szóló törvényhez
 
 A törvény 19. §-ának (7) bekezdése értelmében azoknak az anyagoknak a listája, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotrop anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotrop anyagnak, illetve hazai besorolásuk eltér a nemzetközitől, a következő:
@@ -152,6 +154,11 @@ A) Jegyzék:
 | 66. | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
 | 67. | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
 | 68. | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3- carboxamide |
+| 69. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)- 1H-indazole-3-carboxamide |
+| 70. | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)- 1H-indazole-3-carboxamide |
+| 71. | AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H- indazole-3-carboxamide |
+| 72. | α-PVT, alpha-PVT, alpha-pyrrolidinopentiothiophenone | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
+| 73. | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3- methyl- valine, methyl ester |
 
 B) Jegyzék:
 

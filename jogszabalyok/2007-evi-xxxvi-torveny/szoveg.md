@@ -176,9 +176,9 @@ a szabálysértési jogsegélyről
 
 ### A szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatás
 
-19. § (1) Ha a szabálysértési ügyben eljáró külföldi hatóság, amely előtt olyan cselekmény miatt van eljárás folyamatban, amelynek az elkövetéséhez gépjárművet használtak, és megkeresésében a gépjármű rendszámának és gyártmányának megküldésével, annak a személynek a nevét, születési helyét és idejét, anyja születési családi és utónevét, valamint lakcímét kéri, aki a cselekmény elkövetésekor a gépjármű üzembentartója volt, a legfőbb ügyész a megkeresést válaszadás céljából továbbítja a központi közúti közlekedési nyilvántartó szervnek.
+19. § (1) Ha a szabálysértési ügyben eljáró külföldi hatóság, amely előtt olyan cselekmény miatt van eljárás folyamatban, amelynek az elkövetéséhez gépjárművet használtak, és megkeresésében a gépjármű rendszámának és gyártmányának megküldésével, annak a személynek a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített adatait kéri, aki a cselekmény elkövetésekor a gépjármű üzembentartója volt, a legfőbb ügyész a megkeresést válaszadás céljából továbbítja a központi közúti közlekedési nyilvántartó szervnek.
 
-(2) A központi közúti közlekedési nyilvántartó szerv a gépjármű üzembentartójának a nevét, születési helyét és idejét, anyja születési családi és utónevét, valamint lakcímét a megkeresés hozzá való megérkezésétől számított tizenöt napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
+(2) A központi közúti közlekedési nyilvántartó szerv a gépjármű üzembentartójának a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített – a megkeresésben megjelölt – adatait a megkeresés hozzá való megérkezésétől számított tizenöt napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
 
 (3) A 2008/615/IB tanácsi határozaton, valamint a 2008/616/IB tanácsi határozaton alapuló automatizált keresés elrendelése esetén az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja az (1) bekezdésben meghatározott adatokhoz elektronikus úton történő hozzáférést. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 
@@ -226,11 +226,11 @@ a szabálysértési jogsegélyről
 
 26. § (1) A szabálysértési hatóság, illetve a bíróság a szabálysértés elkövetése során használt gépjármű rendszámának és gyártmányának megküldésével jogsegély iránti kérelmet terjeszthet elő annak érdekében, hogy megállapítsa annak a személynek a nevét, születési helyét és idejét, anyja születési családi és utónevét, valamint lakcímét, aki a szabálysértési eljárás alapjául szolgáló cselekmény elkövetésekor a gépjármű üzembentartója volt.
 
-(2) Törvénnyel kihirdetett nemzetközi szerződés alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében a szabálysértési hatóság, illetve a bíróság a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a szabálysértési hatóságot, illetve a bíróságot.
+(2)
 
-(3) A 2008/615/IB tanácsi határozat alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
+(3) A 2008/615/IB tanácsi határozat alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 27/A. § (2)–(4) bekezdése szerint automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről a Kknyt. 27/A. § (5) bekezdése szerint haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
 
-(4) Az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban a 2015/413/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam gépjárműadat-nyilvántartásaiban automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
+(4) Az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban a 2011/82/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam gépjárműadat-nyilvántartásaiban a Kknyt. 27/C. § (1) és (2) bekezdése szerint automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről a Kknyt. 27/C. § (3) bekezdése szerint haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
 
 ### IV. Fejezet — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTVÉTELE,ILLETVE ÁTADÁSA
 
@@ -355,17 +355,19 @@ A pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásá
 
 - 1. Rendzavarás (Szabs. tv. 169. §),
 - 2. Garázdaság (Szabs. tv. 170. §),
-- 3. Tiltott kéjelgés (Szabs. tv. 172. §),
+- 3. Tiltott prostitúció (Szabs. tv. 172. §),
 - 4. Veszélyes fenyegetés (Szabs. tv. 173. §),
-- 5. Járművezetés az eltiltás tartama alatt (Szabs. tv. 176. §),
-- 6. Lopással vagy csalással elkövetett tulajdon elleni szabálysértés [Szabs tv. 177. § (1) bekezdés a) és b) pont],
+- 5. Járművezetés az eltiltás hatálya alatt (Szabs. tv. 176. §),
+- 6. Lopással vagy csalással elkövetett tulajdon elleni szabálysértés [Szabs. tv. 177. § (1) bekezdés a) és b) pont],
 - 7. Jogosulatlan vadászat (Szabs. tv. 178. §),
-- 8. Polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés (Szabs. tv. 182. §),
+- 8. Polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés (Szabs. tv. 182. §),
 - 9. Lőfegyverrel kapcsolatos szabálysértés (Szabs. tv. 183. §),
 - 10. Szexuális szolgáltatásra való felhívás tilalma (Szabs. tv. 184. §),
-- 11. Természetvédelmi szabálysértés (Szabs. tv 187. §),
+- 11. Természetvédelmi szabálysértés (Szabs. tv. 187. §),
 - 12. Kábítószer-rendészeti szabálysértés (Szabs. tv. 199. §),
-- 13. A Szabs. tv. XXVII. Fejezet alá tartozó szabálysértések,
+- 13. A Szabs. tv. XXVII. Fejezete alá tartozó szabálysértések,
 - 14. Közúti közlekedési szabályok kisebb fokú megsértése (Szabs. tv. 224. §),
-- 15. Áru hamis megjelölése (Szabs. tv. 231. §),
-- 16. Vízszennyezés (Szabs. tv. 245. §)
+- 15. Versenytárs utánzása (Szabs. tv. 231. §),
+- 16. Szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Szabs. tv. 238/A. §),
+- 17. Iparjogvédelmi jogok megsértése (Szabs. tv. 238/B. §),
+- 18. Vízszennyezés (Szabs. tv. 245. §).

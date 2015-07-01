@@ -45,7 +45,7 @@ a közalkalmazottak jogállásáról
 
 ### Az országos, ágazati és területi érdekegyeztetés
 
-4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a közszolgálati tisztviselőkről szóló törvény, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény és a honvédek jogállásáról szóló törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
+4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a közszolgálati tisztviselőkről szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény és a honvédek jogállásáról szóló törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
 
 (2) Az OKÉT-ban a Kormány – az alapszabályban meghatározott – országos szakszervezeti szövetségek és országos önkormányzati érdekképviseleti szervezetek képviselőivel egyeztet.
 
@@ -109,7 +109,7 @@ tervezetét.
 
 (6) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
 
-6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
+6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a rendvédelmi feladatokat ellátó szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a rendvédelmi feladatokat ellátó szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
 
 7. § A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti állami intézményfenntartó központ tekintetében a következő eltéréssel kell alkalmazni:
 

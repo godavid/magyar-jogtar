@@ -69,7 +69,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 43. Párhuzamos import: Forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszer vagy annak a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása olyan EGT-megállapodásban részes államból, ahol a gyógyszer szintén rendelkezik forgalombahozatali engedéllyel.
 - 44. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára forgalmazott vagy a forgalmazóknál található gyógyszer visszagyűjtése;
 - 45. kivonás a forgalomból: minden olyan intézkedés, amelynek célja a gyógyszer forgalmazásának megakadályozása az értékesítési láncban.
-- 46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+- 46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+- 47. betegellátási szükséglet: adott gyógyszerre vonatkozó, magyarországi betegeket érintő tényleges felhasználási szükséglet.
 
 ### A törvény hatálya
 
@@ -220,7 +221,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 7/A. § (1) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedély megadását követően felhívhatja a forgalomba hozatali engedély jogosultját arra, hogy végezzen engedélyezés utáni gyógyszerbiztonsági vizsgálatot, amennyiben valamely engedélyezett gyógyszerrel összefüggő új, vagy korábban csekélynek vélt, de valójában súlyosabb biztonsági kockázat azt indokolja. Ha egynél több gyógyszer esetében ugyanazok az aggályok merülnek fel, a gyógyszerészeti államigazgatási szerv a farmakovigilancia kockázatértékelési bizottsággal való információcserét követően az érintett forgalomba hozatali engedély jogosultjainak közös engedélyezés utáni gyógyszerbiztonsági vizsgálat elvégzését javasolja.
 
-(2) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedély megadását követően írásban felszólíthatja a forgalomba hozatali engedély jogosultját, hogy engedélyezés utáni gyógyszer-hatásossági vizsgálatot végezzen, ha a betegségről szerzett – engedélyezéskor nem ismert – információk, vagy a klinikai módszertan alapján feltételezhető, hogy a korábbi hatásossági becslések felülvizsgálata szükséges.
+(2) A 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről szóló, 2014. február 3-i 357/2014/EU bizottsági felhatalmazáson alapuló rendeletben előírt esetekben elvégzendő gyógyszer-hatásossági vizsgálatokat a gyógyszerészeti államigazgatási szerv rendeli el.
 
 (3) Az (1) és (2) bekezdés alkalmazása esetén a gyógyszerészeti államigazgatási szerv írásban közli
 
@@ -409,7 +410,11 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) A gyógyszertár működtetőjének ellátási felelősségéről a gyógyszertárak létesítéséről és működésük egyes szabályairól külön jogszabály rendelkezik.
 
-(5) A forgalomba hozatali engedély jogosultja köteles az általa forgalmazott gyógyszerek nagykereskedelmi forgalmazási lehetőségét a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedőnek biztosítani, amennyiben a nagykereskedő külön jelzi, hogy a beszerezni kívánt gyógyszer magyarországi ellátási igény kielégítéséhez szükséges. Az e bekezdés alapján beszerzett gyógyszer kizárólag magyarországi egészségügyi szolgáltatónak adható tovább és nagykereskedelmi tevékenység keretében az országból nem vihető ki. A nagykereskedő az e bekezdés alapján beszerzett gyógyszerről külön – az egészségügyért felelős miniszter rendeletében meghatározott – nyilvántartást vezet.
+(5) A forgalomba hozatali engedély jogosultja az általa forgalmazott gyógyszerek nagykereskedelmi forgalmazási lehetőségét a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedőnek biztosítja, amennyiben a nagykereskedő olyan nyilatkozat tesz, hogy a beszerezni kívánt gyógyszer magyarországi betegellátási szükséglet kielégítéséhez kell. Az e bekezdés alapján beszerzett gyógyszer kizárólag magyarországi egészségügyi szolgáltatónak adható tovább és nagykereskedelmi tevékenység keretében az országból nem vihető ki. A nagykereskedő az e bekezdés alapján beszerzett gyógyszerről külön – az egészségügyért felelős miniszter rendeletében meghatározott – nyilvántartást vezet. A forgalomba hozatali engedély jogosultja mentesül az e bekezdés szerinti gyógyszer-nagykereskedők felé történő kiszolgálási kötelezettsége alól, ha
+
+- a) a gyógyszer szerepel a gyógyszerészeti államigazgatási szerv által vezetett, a 16. § (6) bekezdés szerinti közleményen,
+- b) a nagykereskedő a megrendelést megelőző évben veszteséges volt, vagy
+- c) a nagykereskedőt a megrendelést megelőző 5 évben gyógyszer jogellenes külföldre vitele miatt jogerősen elmarasztalták.
 
 (5a) A forgalomba hozatali engedély jogosultjának biztosítania kell, hogy a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedők együttesen az egészségügyért felelős miniszter rendeletében meghatározott hatóanyagú gyógyszerekből az ott meghatározott mennyiségű készlettel folyamatosan rendelkezzenek. Az érintett hatóanyagok köre a gyógyszerészeti államigazgatási szerv javaslata alapján kerül meghatározásra.
 
@@ -442,7 +447,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4)
 
-(5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalombahozatali engedély jogosultját terhelik.
+(5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés, valamint az érintett gyógyszereknek a gyógyszertár általi kicserélésének eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalomba hozatali engedély jogosultját terhelik.
 
 17/A. § (1) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv döntése alapján a gyógyszer forgalombahozatali engedélye hatályát veszti.
 
@@ -531,11 +536,11 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 19. § A gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumokat és a klinikai vizsgálatokat végző egészségügyi szolgáltatókat a gyógyszerészeti államigazgatási szerv a külön jogszabályban megállapított szakmai szabályok betartása szempontjából rendszeresen ellenőrzi.
 
-20. § (1) A gyógyszerek, a hatóanyagok, a segédanyagok gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával, a gyógyszerközvetítéssel és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszertárak, az egyéb egészségügyi szolgáltatók és kiskereskedelmi tevékenységet folytatók esetén az ellenőrzést az egészségügyi államigazgatási szerv is végzi. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
+20. § (1) A gyógyszerek, a hatóanyagok, a segédanyagok gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával, a gyógyszerközvetítéssel és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
 
 (1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
-(2) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
+(2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
 
@@ -545,17 +550,17 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
 - e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjét a nyilvántartásból törli.
 
-(4) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható. Az eljárás során nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény rendelkezéseit.
+(4) A gyógyszerészeti államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható. Az eljárás során nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény rendelkezéseit.
 
 (5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság összege százezer forinttól ötszáz millió forintig terjedhet.
 
 (6) A 18. § (2) bekezdésének végrehajtásával kapcsolatban az egészségügyi dolgozók további kötelezettségeit jogszabály tartalmazza.
 
-(7) A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv vagy egészségügyi államigazgatási szerv számlájára kell befizetni.
+(7) A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv számlájára kell befizetni.
 
 (8) A lakossági gyógyszerellátásban résztvevők hatósági ellenőrzéséről egyebekben külön jogszabály rendelkezik.
 
-(9) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv a (3) és (4) bekezdés szerinti
+(9) A gyógyszerészeti államigazgatási szerv a (3) és (4) bekezdés szerinti
 
 - a) egymillió forintot meghaladó összegű pénzbírságot megállapító, vagy
 - b) ismételt jogszabálysértés esetén az egymillió forintot meg nem haladó összegű pénzbírságot megállapító
@@ -573,7 +578,7 @@ jogerős határozatát a (10) bekezdésben meghatározott tartalommal teszi köz
 - g) a döntés rendelkező részét, valamint
 - h) a döntéssel szembeni jogorvoslati eljárás tényét.
 
-(11) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
+(11) A gyógyszerészeti államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
 
 - a) a jogorvoslattal érintett döntésre vonatkozó (10) bekezdés szerinti információkat,
 - b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
@@ -838,7 +843,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - a) az Európai Parlament és a Tanács 726/2004/EK rendelete (2004. március 31.) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról,
 - b) az Európai Parlament és a Tanács 1901/2006/EK rendelete (2006. december 12.) a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról,
 - c) az Európai Parlament és a Tanács 1394/2007/EK rendelete (2007. november 13.) a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról,
-- d) a Bizottság 1234/2008/EK (2008. november 24.) rendelete az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról.
+- d) a Bizottság 1234/2008/EK (2008. november 24.) rendelete az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról,
+- e) a Bizottság 357/2014/EU felhatalmazáson alapuló rendelete (2014. február 3.) a 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről.
 
 ### 1. számú melléklet a 2005. évi XCV. törvényhez
 

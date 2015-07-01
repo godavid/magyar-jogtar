@@ -311,7 +311,7 @@ a miniszter előzetesen véleményezi. Ha a miniszter a fenntartó erre irányul
 
 (2) A megyei hatókörű városi múzeum – a 37/A. §-ban és a 42. § (2) bekezdésében foglalt feladatokon túlmenően – állami feladatai keretében:
 
-- a) vagyonkezelője a tevékenység ellátásához szükséges állami vagyonnak,
+- a) vagyonkezelője az alapleltárában és jogszabály szerinti külön nyilvántartásában szereplő kulturális javaknak,
 - b) gyűjtőterületére kiterjedően
   - ba) végzi a jogszabályban meghatározott régészeti szaktevékenységeket,
   - bb) szakmai nyilvántartása alapján jogszabályban meghatározottak szerint adatokat szolgáltat a régészeti lelőhelyekről,
@@ -1181,7 +1181,7 @@ b) az Országos Egészségtudományi Szakkönyvtár,
 
 c) a Magyar Tudományos Akadémia Könyvtára,
 
-d) a Magyar Mezőgazdasági Múzeum és Könyvtár,
+d) az Országos Mezőgazdasági Múzeum és Könyvtár,
 
 e) az Országgyűlési Könyvtár,
 

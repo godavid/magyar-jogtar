@@ -1148,7 +1148,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### Munkaköri pótlék és kiegészítő pótlék
 
-109. § (1) Az igazságügyi szakértő az igazságügyi szolgálati idejétől függően az illetményalap 15–30 százalékának, a bírósági ügyintéző az illetményalap 10–15 százalékának, a törvényszéki végrehajtó és a végrehajtási ügyintéző az illetményalap 8 százalékának megfelelő összegű munkaköri pótlékra jogosult.
+109. § (1) Az igazságügyi szakértő az igazságügyi szolgálati idejétől függően az illetményalap 15–30 százalékának, a bírósági ügyintéző az illetményalap 10–15 százalékának, a bírósági fogalmazó és a bírósági titkár az illetményalap 10 százalékának, a törvényszéki végrehajtó és a végrehajtási ügyintéző az illetményalap 8 százalékának megfelelő összegű munkaköri pótlékra jogosult. A bírósági titkár beosztási és munkaköri pótléka összesen nem lehet több a Kúrián az illetményalap 15 százalékánál, az OBH-ban 20 százalékánál.
 
 (2) A Kúrián és az OBH-ban dolgozó főtanácsadó az illetményalap 15–30 százalékának megfelelő összegű munkaköri pótlékra jogosult.
 
@@ -1341,7 +1341,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (2a) Az egyéb igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott tekintetében az (1)–(2) bekezdésben foglaltak mellett az Mt. 86. § (3) bekezdés a) pontját is megfelelően alkalmazni kell.
 
-(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, valamint a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell.
+(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell.
 
 (4) Ha az igazságügyi alkalmazott nemzetközi szervnél vagy az Európai Unió szervénél jogviszonyt létesít, igazságügyi alkalmazotti szolgálati jogviszonya az új jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 

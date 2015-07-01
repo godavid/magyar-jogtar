@@ -417,7 +417,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - c) székhelyén az önkormányzat kérésére közreműködik egyes, speciális felkészültséget vagy eszközöket igénylő a középületek biztonságos üzemeltetését szolgáló feladatok ellátásában,
 - d) ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét.
 
-32. § (1) A hivatásos tűzoltóság és a tűzoltó szakiskolák hivatásos szolgálati viszonyban álló tagjai a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartoznak.
+32. § (1) A hivatásos tűzoltóság és a tűzoltó szakiskolák hivatásos szolgálati viszonyban álló tagjai a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartoznak.
 
 (2) A hivatásos tűzoltóság és a tűzoltó szakiskolák polgári állományú tagjai köztisztviselők vagy közalkalmazottak.
 
@@ -439,7 +439,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (4) Az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjaként azt lehet kijelölni, aki a hivatásos katasztrófavédelmi szerveknél, a tűzoltóságoknál, valamint az ez irányú szakágazatban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló miniszteri rendeletben előírt képesítéssel rendelkezik.
 
-(5) A hivatásos katasztrófavédelmi szerv hivatásos állományú tagja önkéntes tűzoltó egyesületben vezető tisztséget nem tölthet be. A hivatásos állomány tagja az önkéntes tűzoltó egyesületben tagsági jogviszonyt létesíthet, amelyet köteles szolgálati elöljárójának írásban bejelenteni. Amennyiben az egyesületi tevékenysége során bármilyen jogcímen díjazásban részesül, úgy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvénynek a más keresőfoglalkozás folytatására vonatkozó szabályai szerint köteles eljárni.
+(5) A hivatásos katasztrófavédelmi szerv hivatásos állományú tagja önkéntes tűzoltó egyesületben vezető tisztséget nem tölthet be. A hivatásos állomány tagja az önkéntes tűzoltó egyesületben tagsági jogviszonyt létesíthet, amelyet köteles szolgálati elöljárójának írásban bejelenteni. Amennyiben az egyesületi tevékenysége során bármilyen jogcímen díjazásban részesül, úgy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvénynek a más keresőfoglalkozás folytatására vonatkozó szabályai szerint köteles eljárni.
 
 ### A közreműködő önkéntes tűzoltó egyesület
 

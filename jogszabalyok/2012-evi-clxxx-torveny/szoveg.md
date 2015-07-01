@@ -1922,7 +1922,7 @@ való megfelelést szolgálja.
 
 E törvény 3. § (2)–(3) bekezdése, 25. § (3) bekezdése, 50. § (3) bekezdése, 51. § (4) bekezdése, 94. §-a és 156. § (6)–(7) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-3K50240N_0
+5K08044M_0
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
@@ -1956,12 +1956,12 @@ E törvény 3. § (2)–(3) bekezdése, 25. § (3) bekezdése, 50. § (3) bekezd
 | 27. | korrupció | vesztegetés bűntette | 290. § az (5) bekezdés kivételével | vesztegetés bűntette | 254. § az (1) bekezdés kivételével |
 | 28. | vesztegetés elfogadása bűntette | 291. § az (5) bekezdés kivételével | vesztegetés bűntette | 252. §, 255/A. § (1) bekezdés |
 | 29. | hivatali vesztegetés bűntette | 293. § (1)–(4) bekezdés | vesztegetés bűntette vesztegetés nemzetközi kapcsolatban | 253. §, 255/A. § (2) bekezdés, 258/B. § |
-| 30. |  | hivatali vesztegetés elfogadása bűntette | 294. § (1)–(4) bekezdés | vesztegetés bűntette vesztegetés nemzetközi kapcsolatban | 250. §, 255/A. § (1) bekezdés 258/D. § |
+| 30. | hivatali vesztegetés elfogadása bűntette | 294. § (1)–(4) bekezdés | vesztegetés bűntette vesztegetés nemzetközi kapcsolatban | 250. §, 255/A. § (1) bekezdés 258/D. § |
 | 31. | vesztegetés bírósági vagy hatósági eljárásban bűntette | 295. § (1)–(2) bekezdés | vesztegetés bűntette | 255. §, 255/A. § (2) bekezdés |
 | 32. | vesztegetés elfogadása bírósági vagy hatósági eljárásban bűntette | 296. § (1)–(2) bekezdés | vesztegetés bűntette | 255. §, 255/A. § (1) bekezdés |
-| 33. | vesztegetés feljelentésének elmulasztása bűntette | 297. § | vesztegetés feljelentésének elmulasztása, vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban | 255/B. §, 258/F. § |
-| 34. | befolyás vásárlása bűntette | 298. § a (2) bekezdés kivételével | befolyás vásárlása bűntette | 256/A. § (1) bekezdés |
-| 35. | befolyással üzérkedés bűntette | 299. § 300. § (2) bekezdés | befolyással üzérkedés bűntette | 256. § |
+| 33. | befolyás vásárlása bűntette | 298. § a (2) bekezdés kivételével | befolyás vásárlása bűntette | 256/A. § (1) bekezdés |
+| 34. | befolyással üzérkedés bűntette | 299. § (1), (2), (4) és (5) bekezdés | befolyással üzérkedés bűntette | 256. § |
+| 35. | korrupciós bűncselekmény feljelentésének elmulasztása bűntette | 300. § | vesztegetés feljelentésének elmulasztása, vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban bűntette | 255/B. § 258/F. § |
 | 36. | csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is | költségvetési csalás bűntette | 396. § (2)–(7) bekezdés | költségvetési csalás bűntette, | 310. § (2)–(7) bekezdés |
 | 37. | a költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása bűntette, ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 397. § | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztásának bűntette, ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 310/A. § |
 | 38. | bűncselekményekből származó jövedelmek tisztára mosása | bűnpártolás bűntette, amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el | 282. § (2) bekezdés | bűnpártolás bűntette, amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el | 244. § (2) bekezdés |
@@ -2729,7 +2729,7 @@ E törvény 141. §-a értelmében a jelentés az alábbi adatokat tartalmazza:
 
 E törvény 148. § (6) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-3K50240O_0
+5K08044N_0
 
 |  |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2766,9 +2766,9 @@ E törvény 148. § (6) bekezdése értelmében a bűncselekményfajtákhoz a Bt
 | 30. |  |  | hivatali vesztegetés elfogadása bűntette | 294. § | vesztegetés bűntette vesztegetés nemzetközi kapcsolatban | 250. §, 255/A. § (1) bekezdés 258/D. § |
 | 31. |  | vesztegetés bírósági vagy hatósági eljárásban bűntette | 295. § | vesztegetés bűntette | 255. §, 255/A. § (2) bekezdés |
 | 32. |  | vesztegetés elfogadása bírósági vagy hatósági eljárásban bűntette | 296. § | vesztegetés bűntette | 255. §, 255/A. § (1) bekezdés |
-| 33. |  | vesztegetés feljelentésének elmulasztása | 297. § | vesztegetés feljelentésének elmulasztása, vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban | 255/B. §, 258/F. § |
-| 34. |  | befolyás vásárlása vétsége és bűntette | 298. § | befolyás vásárlása bűntette | 256/A. § (1) bekezdés |
-| 35. |  | befolyással üzérkedés vétsége és bűntette | 299–300. § | befolyással üzérkedés bűntette | 256. § |
+| 33. |  | befolyás vásárlása vétsége és bűntette | 298. § | befolyás vásárlása bűntette | 256/A. § (1) bekezdés |
+| 34. |  | befolyással üzérkedés vétsége és bűntette | 299. § (1)–(5) bekezdés | befolyással üzérkedés bűntette | 256. § |
+| 35. |  | korrupciós bűncselekmény feljelentésének elmulasztása bűntette | 300. § | vesztegetés feljelentésének elmulasztása, vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban bűntette | 255/B. § 258/F. § |
 | 36. |  | csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalást is | költségvetési csalás vétsége és bűntette | 396. § | költségvetési csalás bűntette | 310. § (2)–(7) bekezdés |
 | 37. |  | a költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása bűntette, ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 397. § | a költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 310/A. § |
 | 38. |  | bűncselekményekből származó jövedelmek tisztára mosása | bűnpártolás bűntette, amennyiben a bűncselekményből származó előny biztosításá-ban való közreműködéssel követik el | 282. § (2) bekezdés | bűnpártolás bűntette, amennyiben a bűncselekményből származó előny biztosí-tásában való közreműködéssel követik el | 244. § (2) bekezdés |
@@ -3305,7 +3305,7 @@ E törvény 156. §-a értelmében a tanúsítvány az alábbi adatokat tartalma
 
 #### Az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat mellékletében megjelölt bűncselekményfajták megfeleltetése a Büntető Törvénykönyvről szóló 2012. évi C. törvény (Btk.) alapján
 
-3K50240P_0
+5K08044O_0
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
@@ -3377,12 +3377,12 @@ E törvény 156. §-a értelmében a tanúsítvány az alábbi adatokat tartalma
 | információs rendszer védelmét biztosító technikai intézkedés kijátszása vétsége | 424. § (1) bekezdés | számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása vétsége | 300/E. § (1) és (2) bekezdés |
 | 14 | korrupció | vesztegetés bűntette | 290. § az (5) bekezdés kivételével | vesztegetés bűntette | 254. § az (1) bekezdés kivételével |
 | vesztegetés elfogadása bűntette | 291. § az (5) bekezdés kivételével | vesztegetés bűntette | 252. §, 255/A. § (1) bekezdés |
-| hivatali vesztegetés vétsége és bűntette | 293. (1)–(5) bekezdés | vesztegetés bűntette vesztegetés nemzetközi kapcsolatban | 253. §, 255/A. § (2) bekezdés, 258/B. § |
+| hivatali vesztegetés vétsége és bűntette | 293. § (1)–(5) bekezdés | vesztegetés bűntette vesztegetés nemzetközi kapcsolatban | 253. §, 255/A. § (2) bekezdés, 258/B. § |
 | hivatali vesztegetés elfogadása bűntette | 294. § (1)–(4) bekezdés | vesztegetés bűntette vesztegetés nemzetközi kapcsolatban | 250. §, 255/A. § (1) bekezdés, 258/D. § |
-| vesztegetés bírósági vagy hatósági eljárásban bűntette | 295. § (1)–(2) bekezdés | vesztegetés bűntette | 255. §, 255/A. § (2) bekezdés |
-| vesztegetés elfogadása bírósági vagy hatósági eljárásban bűntette | 296. § (1)–(2) bekezdés | vesztegetés bűntette | 255. §, 255/A. § (1) bekezdés |
+| vesztegetés bírósági vagy hatósági eljárásban bűntette | 295. § (1) és (2) bekezdés | vesztegetés bűntette | 255. §, 255/A. § (2) bekezdés |
+| vesztegetés elfogadása bírósági vagy hatósági eljárásban bűntette | 296. § (1) és (2) bekezdés | vesztegetés bűntette | 255. §, 255/A. § (1) bekezdés |
 | befolyás vásárlása vétsége és bűntette | 298. § | befolyás vásárlása bűntette | 256/A. § (1) bekezdés |
-| befolyással üzérkedés vétsége és bűntette | 299–300. § | befolyással üzérkedés bűntette | 256. § |
+| befolyással üzérkedés vétsége és bűntette | 299. § (1)–(5) bekezdés | befolyással üzérkedés bűntette | 256. § |
 | 15 | fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 324. § | visszaélés robbanóanyaggal vagy robbantószerrel bűntette | 263. § |
 | lőfegyverrel vagy lőszerrel visszaélés vétsége és bűntette | 325. § | visszaélés lőfegyverrel és lőszerrel bűntette | 263/A. § |
 | nemzetközi szerződés által tiltott fegyverrel visszaélés vétsége és bűntette | 326. § | visszaélés nemzetközi szerződés által tiltott fegyverrel vétsége és bűntette | 264/C. § (1)–(4) és (7) bekezdés |

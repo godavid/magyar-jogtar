@@ -301,7 +301,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 33. § (1) Az elektronikus műsorkalauz szolgáltatója, amilyen mértékben az a kezelői felületek megjelenítéséhez és összeállításához szükséges, hozzáférést nyújt az elektronikus műsorkalauz szolgáltatáshoz valamennyi médiaszolgáltató és kiegészítő médiaszolgáltató számára tisztességes, ésszerű feltételek mellett, az egyenlő elbánás elvének megfelelően.
 
-(2) Az egyenlő elbánás elvét nem érintve az elektronikus műsorkalauz szolgáltatója az adott multiplexben továbbított közszolgálati műsorok számára a hozzáférés tekintetében elsőbbséget köteles biztosítani más műsorokkal szemben.
+(2) Az egyenlő elbánás elvét nem érintve az elektronikus műsorkalauz szolgáltatója az adott multiplexben, átviteli rendszeren továbbított közszolgálati műsorok számára a hozzáférés tekintetében elsőbbséget köteles biztosítani más műsorokkal szemben.
 
 34. § (1) Ha az elektronikus műsorkalauz szolgáltatója a szolgáltatás vételkörzetében terjesztett médiaszolgáltatás médiaszolgáltatójával, vagy a szolgáltatás vételkörzetében terjesztett kiegészítő médiaszolgáltatást nyújtóval irányítási viszonyban áll, a 33. §-ban megállapított kötelezettség e szolgáltatót annyiban terheli, amennyiben az adott vételkörzetben más független elektronikus műsorkalauz szolgáltató elektronikus műsorkalauza a felhasználók számára kapacitáshiány vagy más ok miatt szabadon nem hozzáférhető.
 

@@ -213,7 +213,7 @@ hajtja végre.
 
 (3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
-17. § A fegyveres szervek hivatásos állományú tagja, továbbá a katonai szolgálatot teljesítő személy külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
+17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, továbbá a katonai szolgálatot teljesítő személy külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
 
 18. §
 

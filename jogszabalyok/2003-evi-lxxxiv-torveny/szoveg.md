@@ -59,8 +59,8 @@ terjed ki.
   - aa) aki az általa ellátott egészségügyi tevékenység végzésére jogosító szakképesítéssel rendelkezik, vagy
   - ab) aki nem rendelkezik az aa) pont szerinti szakképesítéssel, de közreműködik a szakképesítéssel rendelkező egészségügyi dolgozók által ellátandó feladatokban,
 - b) egészségügyben dolgozó: az a) pont hatálya alá nem tartozó, az egészségügyi szolgáltatóval a szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítása céljából munkavégzésre irányuló jogviszonyt létesítő személy,
-- c)
-- d) ügyeleti feladatellátás: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 93. §-ában meghatározott ügyeleti ellátás keretében végzett tényleges egészségügyi tevékenység, valamint a tényleges egészségügyi tevékenység végzése nélküli rendelkezésre állás az egészségügyi szolgáltató által meghatározott helyen és időben,
+- c) rezidens: az első egészségügyi felsőfokú szakirányú szakképesítésének megszerzése érdekében jogviszonyban álló, az államilag támogatott, az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 115. § (2) bekezdés b) pontja szerinti képzésben részt vevő szakorvos-, szakfogorvos-, szakgyógyszerész-, illetve szakpszichológus-jelölt.
+- d) ügyeleti feladatellátás: az Eütv. 93. §-ában meghatározott ügyeleti ellátás keretében végzett tényleges egészségügyi tevékenység, valamint a tényleges egészségügyi tevékenység végzése nélküli rendelkezésre állás az egészségügyi szolgáltató által meghatározott helyen és időben,
 - e) egészségügyi ügyelet: a d) pontban meghatározott ügyeleti feladatellátás munkaviszonyban vagy közalkalmazotti jogviszonyban,
 - f) az a)–e) pontokban foglaltakon túl az Eütv. 3. §-ában foglalt fogalommeghatározásokat kell figyelembe venni.
 
@@ -168,7 +168,8 @@ terjed ki.
 (2) Az e fejezetben, valamint a 29–31. §-ban meghatározott egészségügyi ágazati előmeneteli szabályokat
 
 - a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – az állam, a helyi önkormányzat, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet tulajdonában vagy fenntartásában álló fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
-- b) az a) pontban meghatározott ellátások, szolgáltatások nyújtása keretében tevékenységet végző, a (4)–(6a) bekezdésben meghatározott munkakörben foglalkoztatott alkalmazott egészségügyi dolgozókra és egészségügyben dolgozókra
+- b) az a) pontban meghatározott ellátások, szolgáltatások nyújtása keretében tevékenységet végző, a (4)–(6a) bekezdésben meghatározott munkakörben foglalkoztatott alkalmazott egészségügyi dolgozókra és egészségügyben dolgozókra,
+- c) a szakorvosképzésért felelős egészségügyi államigazgatási szervre, valamint az az által foglalkoztatott rezidensekre
 
 kell alkalmazni.
 
@@ -199,7 +200,21 @@ kell sorolni.
 
 (10) A Kormány az 1–3. mellékletben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
 
-12. § (1) Ha az egészségügyi szolgáltató tevékenysége a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
+11/B. § (1) A rezidens az egészségügyi felsőfokú szakirányú szakképzése ideje alatt a kormányrendeletben meghatározott szakorvosképzésért felelős egészségügyi államigazgatási szervvel létesített közalkalmazotti jogviszonyban áll.
+
+(2) Az (1) bekezdés szerinti rezidens felett a közalkalmazotti jogviszony létesítésére és megszüntetésére, az illetmény és a munkakör megállapítására, valamint a munkarend meghatározására irányuló munkáltatói jogköröket a szakorvosképzésért felelős egészségügyi államigazgatási szerv vezetője gyakorolja. A rezidens felett az egyéb munkáltatói jogokat – e törvény vagy a felek eltérő rendelkezése hiányában – a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a rezidens részére a munkavégzés helyeként kijelölt egészségügyi szolgáltató vezetője gyakorolja a (3) bekezdésben foglaltakra figyelemmel.
+
+(3) Ahol a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vagy a Kjt. munkáltatóról rendelkezik, azon a (2) bekezdés szerinti egészségügyi szolgáltatót is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
+
+(4) A Kormány a rezidensek foglalkoztatása tekintetében a III. Fejezetben foglaltaktól a rezidensek számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
+
+(5) A 12/B. §-ban foglaltaktól eltérően a rezidenssel önként vállalt többletmunkáról megállapodás nem köthető. A rezidens egészségügyi ügyelet ellátására a 12/D. § (3) bekezdése szerinti keret terhére nem osztható be.
+
+(6) Ügyeleti feladatokat a rezidens a 12/D. § (2) bekezdése szerinti beosztás alapján is csak a képzési tervben foglaltakkal összhangban láthat el, vagy ezen túlmenően arra a rezidens és a képzés helye szerinti egészségügyi szolgáltató a 8. § (1)–(3) bekezdése szerint szabadfoglalkozású jogviszonyt létesít. Az e szabadfoglalkozású jogviszony alapján teljesítendő egészségügyi tevékenységet a 13. § (1) bekezdésében foglaltak megfelelő alkalmazásával, az 5. § (5) bekezdésében foglaltakra figyelemmel kell beosztani. A rezidens a 14/B. § szerinti műszakpótlékra jogosító munkaidő-beosztásba csak a szakorvosképzésért felelős egészségügyi államigazgatási szerv előzetes jóváhagyásával osztható be.
+
+(7) A (6) bekezdés szerinti, kizárólag ügyeleti feladatellátás céljából létesíthető szabadfoglalkozású jogviszonyban teljesített ügyelet tartama nem haladhatja meg a munkaidőkeret átlagában a heti 32 órát, amelynek a 8 óra feletti tartamára legalább az önként vállalt többletmunkára irányadó díjazást kell a szabadfoglalkozású megbízási szerződésben megállapítani.
+
+12. § (1) Ha az egészségügyi szolgáltató tevékenysége az Mt. 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
 
 - a) műszakbeosztás szerinti munkarendben,
 - b) egészségügyi ügyelet keretében,
@@ -388,7 +403,7 @@ minősül.
 
 (2) Az (1) bekezdés szerint figyelembe vehető idő évi 3 munkanapnál kevesebb és 10 munkanapnál több nem lehet.
 
-15/A. § Ha annál az egészségügyi szolgáltatónál, ahol az egészségügyi dolgozó egészségügyi felsőfokú szakirányú szakképzése megszerzése érdekében alkalmazásban áll, részben hiányoznak a szükséges szakmai gyakorlat feltételei, az egészségügyi dolgozó a szakképzettség megszerzéséhez szükséges, és a munkáltatónál nem teljesíthető időtartamban annál az egészségügyi szolgáltatónál végezhet tevékenységet, ahol a szakmai gyakorlat megszerzésének a feltételei rendelkezésre állnak. Erről az érintett egészségügyi szolgáltatóknak és az egészségügyi dolgozónak meg kell állapodnia, azzal, hogy e jogcímen a munkavégzés tartama naptári évenként nem haladhatja meg a kettőszáz napot. E jogviszonyra egyebekben a kirendelésre vonatkozó szabályokat kell megfelelően alkalmazni.
+15/A. § Ha annál az egészségügyi szolgáltatónál, ahol az egészségügyi dolgozó egészségügyi felsőfokú szakirányú szakképzése megszerzése érdekében alkalmazásban áll, vagy a 11/B. § bekezdése alapján a szakorvosképzésért felelős egészségügyi államigazgatási szerv által szakképzésre kijelölt egészségügyi szolgáltatónál részben hiányoznak a szükséges szakmai gyakorlat feltételei, az egészségügyi dolgozó a szakképzettség megszerzéséhez szükséges, és a munkáltatónál vagy a szakképzésre kijelölt egészségügyi szolgáltatónál nem teljesíthető időtartamban annál az egészségügyi szolgáltatónál végezhet tevékenységet, ahol a szakmai gyakorlat megszerzésének a feltételei rendelkezésre állnak (a továbbiakban: külső képzőhely). Erről a munkáltatónak, valamint a külső képzőhelynek és az egészségügyi dolgozónak meg kell állapodnia, azzal, hogy e jogcímen a munkavégzés tartama naptári évenként nem haladhatja meg a kettőszáz napot. E jogviszonyra egyebekben az Mt.-nek a munkaszerződéstől eltérő foglalkoztatásra vonatkozó szabályait kell megfelelően alkalmazni.
 
 15/B. § (1) Július 1-je Semmelweis-nap, amely az egészségügyi szolgáltatóknál foglalkoztatási jogviszonyban álló egészségügyi dolgozókra és egészségügyben dolgozókra kiterjedően munkaszüneti nap.
 
@@ -576,7 +591,9 @@ részt vehet.
   - ab) az e törvényben foglalt feltételeknek megfelelő egészségügyi szolgáltató munkáltatók körét,
   - ac) ellátásokat és egészségügyi szolgáltatásokat,
 - b) a 30. §-ban meghatározott támogatás igénylési feltételeit és mértékét, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait, valamint az e törvényben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb rendelkezéseket
-- c) a jövedelemkiegészítés juttatásának szabályait, a jövedelemkiegészítés juttatásával összefüggő támogatás igénylési feltételeit, az igény bejelentésének, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait rendeletben meghatározza.
+- c) a jövedelemkiegészítés juttatásának szabályait, a jövedelemkiegészítés juttatásával összefüggő támogatás igénylési feltételeit, az igény bejelentésének, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait,
+- d) a rezidenseket foglalkoztató egészségügyi államigazgatási szerv kijelölését,
+- e) a III. Fejezetben foglaltaknál a rezidens számára kedvezőbb foglalkoztatási szabályokat rendeletben meghatározza.
 
 (4) A törvény hatálybalépésével egyidejűleg
 
@@ -637,7 +654,7 @@ részt vehet.
 
 kell érteni.
 
-#### 32. §
+32. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 11/A. § (2) bekezdés c) pontját és a 11/B. §-t a 2015. július 1-jét követően megkezdett szakképzések ideje alatt történő foglalkoztatásra kell alkalmazni.
 
 #### 33. §
 

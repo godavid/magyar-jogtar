@@ -109,6 +109,26 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (3) E törvény alkalmazásában éles vagy hegyes eszközök: a munkavédelemről szóló törvény 1993. évi XCIII. törvény 87. § 4. pontja értelmében munkaeszköznek minősülő, konkrét egészségügyi tevékenységek végzéséhez használt olyan tárgyak vagy eszközök, amelyekkel vágni és szúrni lehet, továbbá amelyek egyébként sérülést vagy fertőzést okozhatnak.
 
+4/D. § (1) Az egészségügyi államigazgatási szerv engedélye szükséges:
+
+- a) a természetes fürdővizek minőség-ellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenység végzéséhez, és
+- b) a Legionella-expozíció szempontjából kockázatot jelentő közegek ellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenység végzéséhez.
+
+(2) Az egészségügyi államigazgatási szerv az engedély megadásával egyidejűleg hivatalból nyilvántartásba veszi a szolgáltatót.
+
+(3) A (2) bekezdés szerinti nyilvántartás tartalmazza:
+
+- a) az engedély számát,
+- b) az engedélyes nevét,
+- c) az engedély tárgyát, valamint
+- d) a laboratórium nevét és címét.
+
+(4) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés a) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(5) A (2) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
+
+(6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő mintavételi és laboratóriumi vizsgálati tevékenységének folytatására irányuló szándékát köteles a minőség-ellenőrzésért felelős egészségügyi államigazgatási szervnek bejelenteni.
+
 5. § (1) Az egészségügyi államigazgatási szerv az egészségfejlesztési (egészségvédelmi, egészségnevelési és egészségmegőrzési) tevékenysége keretében összehangolja, szervezi és felügyeli a népbetegségek megelőzését szolgáló feladatok végrehajtását, így különösen
 
 - a) a gyógyító-megelőző alapellátás tanácsadó tevékenységét;
@@ -139,7 +159,8 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - n) tanácskozási joggal — részt vehet az önkormányzati testületi üléseken; — részt vesz az egészségügyi vonatkozású kérdéseket tárgyaló önkormányzati testületi üléseken és az egészségügyi intézményeket felügyelő testületek ülésein;
 - o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyógyszerellátással kapcsolatos hatósági feladatokat;
 - p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el;
-- q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszertári ügyeletet és készenlétet.
+- q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszertári ügyeletet és készenlétet;
+- r) közvetlenül és haladéktalanul intézkedik, ha az ellátási kötelezettséggel rendelkező egészségügyi szolgáltatónál hirtelen fellépő ok miatt a betegellátás átmeneti fennakadásáról értesül. Az intézkedéssel párhuzamosan értesíti az érintett szolgáltató fenntartóját, illetve az Országos Mentőszolgálatot.
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
@@ -173,7 +194,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
   - ea) az egészségügyi dolgozó neve, alap- és működési nyilvántartási száma, az egészségügyi tevékenység végzése során használt szakképesítése (szakképesítései),
   - eb) a foglalkoztatásra irányuló jogviszonynak az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdése szerinti jogviszony típusa, kezdő időpontja, határozott idejű foglalkoztatás esetében annak végdátuma vagy a jogviszony határozatlan jellege,
   - ec) az egészségügyi dolgozó által végzett egészségügyi tevékenység FEOR szám szerinti megjelölése, az Eütev. szerinti alkalmazott egészségügyi dolgozó esetében a munkakör megnevezése,
-  - ed) alkalmazott egészségügyi dolgozó esetén a teljes vagy részmunkaidős foglalkoztatás ténye, az Eütev. 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, valamint a heti munkaidő, alapellátás esetében a helyettesítés ténye,
+  - ed) alkalmazott egészségügyi dolgozó esetén a teljes vagy részmunkaidős foglalkoztatás ténye, az Eütev. 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, valamint a heti munkaidő,
   - ee) az egészségügyi dolgozó tartós távollétének ténye és indoka.
 
 (5) A (4) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
@@ -468,5 +489,7 @@ vonatkozó szabályokat.
 15/C. § (1) A 2013. december 1-jét megelőzően az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák alkalmazására kiadott engedélyekről az egészségügyi államigazgatási szerv az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig vezet nyilvántartást.
 
 (2) A 7. § (2) bekezdés a) pontja szerinti nyilvántartási számon, illetve a 7. § (3) bekezdés a) pontja szerinti ivóvíz-biztonsági engedély számán az (1) bekezdés alapján az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig az alkalmazási engedély számát is érteni kell.
+
+15/D. § A 14/D. §-ban megállapított felügyeleti díjat első alkalommal a 2016. év tekintetében, 2016. június 30-áig kell megfizetni.
 
 16. § Ez a törvény a HOSPEEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló keretmegállapodás végrehajtásáról szóló 2010. május 10-i 2010/32/EU tanácsi irányelv melléklete 3. szakasz 4. pontjának való megfelelést szolgálja.

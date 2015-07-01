@@ -683,7 +683,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (3) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
 
-61/C. § (1) A Hivatal a 61/F. § szerinti ellenőrzési eljárás és a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 9. és 15. cikke szerinti kötelezettség teljesítését.
+61/C. § (1) A Hivatal a 61/F. § szerinti ellenőrzési eljárás és a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 8–9. és 15. cikke szerinti kötelezettség teljesítését.
 
 (2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
@@ -734,15 +734,19 @@ tartalmazza.
 
 61/F. § (1) A Hivatal ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet
 
-- a) 3. cikk (4) bekezdés b) pontja szerinti jelentéstételi kötelezettség,
-- b) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vétel, és
-- c) 15. cikke szerinti értesítési kötelezettség
+- a) 3. cikk (4) bekezdésének b) pontja szerinti jelentéstételi kötelezettség,
+- b) 8. cikk (1)–(4) bekezdése szerinti, nagykereskedelmi energiapiacokon megvalósuló ügyletekre vonatkozó jelentéstételi kötelezettség,
+- c) 8. cikk (5) bekezdése szerinti információ-szolgáltatási kötelezettség,
+- d) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vétel, és
+- e) 15. cikke szerinti értesítési kötelezettség
 
 teljesítését.
 
 (2) Ha a Hivatal az ellenőrzési eljárás hatálya alá tartozó előírás megsértését a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárása során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre az ellenőrzési eljárás szabályai irányadóak.
 
 (3) Ha a piaci szereplő az ellenőrzési eljárás hatálya alá tartozó kötelezettségét a bírság kiszabása ellenére továbbra sem teljesíti, a bírság ismételten kiszabható. Bírság ismételt kiszabása esetén a 61/D. § (2) bekezdése alkalmazandó.
+
+(4) A piaci szereplő vagy a nevében eljáró, az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (4) bekezdés b)–f) pontja szerinti személy vagy hatóság az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdésében foglalt, a nagykereskedelmi energiapiacokon megvalósuló ügyletekkel kapcsolatos információkat a Hivatal részére is megküldi.
 
 ### A nagykereskedelmi piacfelügyeleti eljárás
 
@@ -1656,9 +1660,9 @@ foglalt árat köteles megfizetni.
 
 (3) A 103. § (2) bekezdés f) pontja szerint kihirdetett hazai termelésű földgáz árat legmagasabb árnak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(4) A (3) bekezdés szerinti árat, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók és a 141/C. § alapján felajánlott földgázt vételező felhasználók ellátásához szükséges hazai termelésű földgáz-mennyiséget a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
+(4) A (3) bekezdés szerinti árat a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
-(5) A (3) bekezdés szerinti árakat a hazai termelésű földgázt termelő a miniszteri rendeleti kihirdetést követő 3 napon belül a honlapján közzéteszi.
+(5)
 
 (6)
 
@@ -1708,7 +1712,7 @@ foglalt árat köteles megfizetni.
 
 (2) Az Üzemi és Kereskedelmi Szabályzatot az ellátásbiztonság, a minőségi követelmények, a versenysemlegesség és az együttműködő földgázrendszerhez való szabad hozzáférés figyelembevételével kell kidolgozni. Az Üzemi és Kereskedelmi Szabályzat kidolgozása során a szállítási rendszerirányító köteles kikérni a külön jogszabály szerint létrehozott és működő szabályzati bizottság véleményét.
 
-(3) A (2) bekezdés szerint kidolgozott Üzemi és Kereskedelmi Szabályzatot a szállítási rendszerirányító minden évben felülvizsgálja, a felülvizsgálathoz kikéri a szabályzati bizottság véleményét, és módosítás esetén – a beérkezett véleményekkel együtt – minden év október 31-ig benyújtja a Hivatalhoz, amit a Hivatal hagy jóvá. A Hivatal megtagadja az Üzemi és Kereskedelmi Szabályzat jóváhagyását, ha az jogszabálysértő vagy akadályozza a hatásos versenyt, a díjszabályozásban foglalt elvek és szabályok érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé és – határidő tűzésével, valamint az okok megjelölésével kötelezi a szállítási rendszerirányítót a tervezet átdolgozására és ismételt benyújtására. A jóváhagyott Üzemi és Kereskedelmi Szabályzat vonatkozó előírásait az engedélyesek, a földgáztermelők, a rendszerhasználók és a felhasználók kötelesek betartani.
+(3) A (2) bekezdés szerint kidolgozott Üzemi és Kereskedelmi Szabályzatot a szállítási rendszerirányító minden évben felülvizsgálja, a felülvizsgálathoz kikéri a szabályzati bizottság véleményét, és módosítás esetén – a beérkezett véleményekkel együtt – minden év május 31-ig benyújtja a Hivatalhoz, amit a Hivatal hagy jóvá. A Hivatal megtagadja az Üzemi és Kereskedelmi Szabályzat jóváhagyását, ha az jogszabálysértő vagy akadályozza a hatásos versenyt, a díjszabályozásban foglalt elvek és szabályok érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé és – határidő tűzésével, valamint az okok megjelölésével kötelezi a szállítási rendszerirányítót a tervezet átdolgozására és ismételt benyújtására. A jóváhagyott Üzemi és Kereskedelmi Szabályzat vonatkozó előírásait az engedélyesek, a földgáztermelők, a rendszerhasználók és a felhasználók kötelesek betartani.
 
 (4) Jogszabályváltozás esetén, és abban az esetben, ha az Üzemi és Kereskedelmi Szabályzat akadályozza a hatásos versenyt, a díjszabályozásban foglalt elvek és szabályok érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé, a Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés mellett – határidő tűzésével, valamint az okok megjelölésével – kötelezi a szállítási rendszerirányítót a szabályzat módosítására.
 
@@ -2573,7 +2577,7 @@ tartalmazza.
 
 - 1.
 - 2. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat,
-- 3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, a nagycsaládosokat megillető kedvezményre vonatkozó szabályokat, az egyetemes szolgáltatók és a földgázkereskedők részére vételre felajánlott földgázforrás árát, a 141–141/A. § és a 141/C. § szerinti szerződések tekintetében felajánlás keretében értékesített mennyiséget a földgáztárolóból és nem földgáztárolóból származó mennyiség szerinti bontásban; az egyetemes szolgáltatásra jogosult felhasználók és a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges (felhasználási és tárolási célú) hazai termelésű földgáz mennyiségét, az egyetemes szolgáltatásra jogosult felhasználók és a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát, az igénybevételre jogosultak vagy e törvény szerint kötelezettek körét, valamint a 141/A–141/C. §-ban foglaltak megsértése esetén az e rendelkezésekben meghatározott engedélyesekkel szemben alkalmazandó jogkövetkezmények körét, valamint a kapcsolt termelésszerkezet átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét,
+- 3. az egyetemes szolgáltatáshoz kapcsolódóan az árakat, az áralkalmazási feltételeket, az árszabályozás kereteit és a nagycsaládosokat megillető kedvezményre vonatkozó szabályokat; a felajánlás részletszabályait, a felajánlott földgázforrás árát, az igénybevételre jogosultak körét, a földgázforrás átadására vonatkozó rugalmassági szabályokat; a felajánlás keretében, a 141–141/A. §, a 141/C. §, a 141/I. § és a 141/J. § szerinti szerződések alapján értékesített földgázforrás mennyiségét és árát, valamint az ezen földgázforrásokhoz kapcsolódóan a rendszerhasználati és mobilgáz-finanszírozási költségek indokolt értékeihez képest megképződő többlet, vagy veszteség elszámolásának szabályait; a 141/A–141/C. §-ban és a 141/I–141/J. §-ban foglaltak megsértése, valamint a rendeletben meghatározott mennyiségtől való eltérés esetén alkalmazandó jogkövetkezményeket; a kapcsolt termelésszerkezet-átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét,
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, az adatbázishoz való hozzáférés részletes szabályait és a szükséges adatszolgáltatást,
 - 5. az engedélyesek és a PB-gáz forgalmazók adatszolgáltatásának módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, a miniszter, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 2:47. § (1) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
 - 6.

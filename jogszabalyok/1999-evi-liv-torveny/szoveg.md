@@ -30,6 +30,8 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 (5) A NEBEK a Rendőrség, valamint a Nemzeti Adó- és Vámhivatal tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
 
+(6) A NEBEK az egyes európai uniós jogi aktusokban rögzített bűnügyi, illetve rendészeti tárgyú együttműködés keretében történő információcsere során a biometrikus azonosítók egyértelmű egyezést eredményező automatikus találati adathozzáférése nyomán követendő eljárásban központi kapcsolattartó pontként jár el a nyomozó hatóság, a terrorizmust elhárító szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv által kezdeményezett, személyazonossággal kapcsolatos adatok beszerzése iránti megkereséseinek az együttműködő tagállam felé való továbbításában, illetve az együttműködő tagállam ilyen megkereséseinek a bűnügyi és rendészeti biometrikus adatok nyilvántartásának vezetéséért felelős szakértői nyilvántartó szerv felé való továbbításában.
+
 4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak – beleértve a titkos információgyűjtéssel érintett adatot és információt is – a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei hatáskörébe tartozik, illetve amelyre a bűnüldöző szervek nemzetközi együttműködését szabályozó nemzetközi szerződés, külön törvény vagy az Európai Unió jogi aktusának hatálya kiterjed, különösen, ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az euróval kapcsolatos bűncselekményekkel, továbbá az Európai Unió határainak őrizetével és az illegális migráció elleni küzdelemmel függ össze.
 
 (1a) A NEBEK az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat alapján létrehozott Europol Információs Rendszerbe az alábbi személyekre vonatkozó személyes adatokat továbbíthatja:
@@ -149,4 +151,4 @@ való megfelelést szolgálja.
 
 19. § Ez a törvény az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozatnak való megfelelést szolgálja.
 
-20. §
+20. § Ez a törvény az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i, 2013/40/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
