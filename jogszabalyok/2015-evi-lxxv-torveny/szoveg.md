@@ -38,11 +38,7 @@ a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának el
 
 6. § Az 1. § alapján ingyenesen tulajdonba adott ingatlanok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában foglaltakat.
 
-7. § A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 45/A. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[A megyei hatókörű városi múzeum – a 37/A. §-ban és a 42. § (2) bekezdésében foglalt feladatokon túlmenően – állami feladatai keretében:]
-
-„a) vagyonkezelője az alapleltárában és jogszabály szerinti külön nyilvántartásában szereplő kulturális javaknak,”
+7. §
 
 8. § Az 1. § (4) bekezdése, a 2. § (1) és (2) bekezdése, a 3. § (1) és (4) bekezdése és a 4. § (1) és (2) bekezdése és a 7. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül. A 6. § az Alaptörvény 38. cikk (2) bekezdése alapján sarkalatosnak minősül.
 

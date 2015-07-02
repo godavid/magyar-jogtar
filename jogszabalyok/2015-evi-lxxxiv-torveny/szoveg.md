@@ -50,7 +50,7 @@ rendeletben állapítsa meg.
 
 való megfelelést szolgálja.
 
-9. § Hatályát veszti a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2013. évi CXI. törvény.
+9. §
 
 ### 1. melléklet a 2015. évi LXXXIV. törvényhez
 

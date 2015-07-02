@@ -90,23 +90,7 @@ a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésrő
 
 42–47. §
 
-48. § Az Szt. 46. §-a a következő (1b)–(1d) bekezdéssel egészül ki:
-
-„(1b) A gazdasági kamara minden év június 15-ig, de legkésőbb a folyó tanév összefüggő szakmai gyakorlatának kezdete előtt kiadja a 46. § (1a) bekezdésében meghatározott igazolást – a már megkötött tanulószerződés hatályosságának figyelembevételével –
-
-a) a folyó tanév szorgalmi időszakára,
-
-b) a következő tanévre,
-
-c) az a) és a b) pontban meghatározott időszakra vagy
-
-d) az a) és a b) pontban meghatározott időszakok megfelelő részidőszakára
-
-vonatkozóan.
-
-(1c) Ha a 49. § (1) bekezdés c)–g) pontja alapján megszűnik a tanulószerződés és a megszűnést követően nem biztosított a megfelelő képzőhely, a gazdasági kamara kiállítja az (1a) bekezdésben meghatározott igazolást az iskola számára.
-
-(1d) A gazdasági kamara által az (1a) bekezdés szerint kiállított igazolás az abban meghatározott tanév végéig vagy visszavonásig érvényes. Ha az igazolás kiállítását követően, az abban megjelölt időpontot megelőzően a tanuló tanulószerződést köt, a gazdasági kamara visszavonja az igazolást.”
+48. §
 
 49–56. §
 
@@ -120,27 +104,7 @@ vonatkozóan.
 
 63. §
 
-64. § Az Szt. 87. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) A 46. § (1a) bekezdésében meghatározott igazolás kiállítása, valamint a tanulószerződés megkötésének elősegítése céljából a szakképző iskola minden évben legkésőbb március utolsó munkanapjáig továbbítja a tanulóira vonatkozóan az illetékes gazdasági kamara részére
-
-a) a 48. § (1) bekezdés b), c) és d) pontjában meghatározott adatokat,
-
-b) a tanuló
-
-ba) által választott szakképesítésre előírt egészségügyi alkalmassági követelményeknek, pályaalkalmassági követelményeknek a tanuló által történő teljesítésére,
-
-bb) évfolyamára,
-
-bc) szintvizsgájára,
-
-bd) érettségijére
-
-vonatkozó adatokat, valamint
-
-c) a 29. § (1b) bekezdésében meghatározott tanuló esetén az állam által költségvetési hozzájárulásban részesített iskolai rendszerű szakképzésben való ingyenes részvételre jogosító körülményre vonatkozó adatot.
-
-(4) A szakképző iskola a (3) bekezdésben meghatározott adatokban bekövetkezett változást követő öt munkanapon belül tájékoztatja az illetékes gazdasági kamarát a megváltozott adatokról.”
+64. §
 
 65. § (1)–(2)
 
@@ -168,15 +132,7 @@ c) a 29. § (1b) bekezdésében meghatározott tanuló esetén az állam által 
 
 72. § (1)
 
-(2) Hatályát veszti az Szt.
-
-- a) 8. § (6) bekezdése,
-- b) 27. § (3) bekezdése,
-- c) 33. § (7) bekezdése,
-- d) 43. § (2) bekezdés b) pontja,
-- e) 78. § (2) bekezdés a) pont ad) alpontja, b) pont ba) és bb) alpontja,
-- f) 79. § (7) bekezdése,
-- g) 82. § e) pontja.
+(2)
 
 (3)
 

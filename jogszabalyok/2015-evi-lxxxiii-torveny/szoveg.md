@@ -22,15 +22,7 @@ a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusb
 - b) a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődéshez való második hozzáigazításáról szóló, 2012. december 3-i 2012/45/EU bizottsági irányelvnek,
 - c) a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődéshez való harmadik hozzáigazításáról szóló, 2014. november 21-i 2014/103/EU bizottsági irányelvnek való megfelelést szolgálja.
 
-7. § A Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke 2011. évi módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2011. évi LXXX. törvény 5. §-a a következő c) ponttal egészül ki:
-
-(Felhatalmazást kap a közlekedésért felelős miniszter, hogy)
-
-„c) a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel és az atomenergia-felügyeleti szerv felügyeletét ellátó miniszterrel egyetértésben a RID belföldi alkalmazásához szükséges részletes szabályokat és kiegészítéseket”
-
-(rendeletben állapítsa meg.)
-
-8. § Hatályát veszti a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2013. évi CIX. törvény.
+7–8. §
 
 ### 1. melléklet a 2015. évi LXXXIII. törvényhez
 
