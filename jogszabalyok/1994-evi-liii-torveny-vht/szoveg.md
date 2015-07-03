@@ -1745,7 +1745,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 138/A. § A végrehajtási eljárás során kezdeményezett azon ingatlan-nyilvántartási eljárásokat, amelyek valamely jog bejegyzésére vagy törlésére irányulnak, a végrehajtó akkor is kezdeményezi az ingatlanügyi hatóság előtt, ha a jogszerzésre jogosult ezen eljárások költségét nem fizeti meg.
 
-138/B. §
+138/B. § Ha az ingatlanra kisajátítási eljárás megindításának ténye van feljegyezve, a lefoglalt ingatlan végrehajtási értékesítése és becsértékének megállapítása iránt nem lehet intézkedni. A végrehajtó az ingatlanügyi hatóság zálogjogosultak nevéről és lakóhelyéről (székhelyéről) szóló értesítésének kézhezvétele után tájékoztatja a zálogjogosultat a végrehajtási eljárásba történő bekapcsolódás lehetőségéről. A zálogjogosultnak a bekapcsolódás iránti kérelmét ezen értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet a 140. § (6) bekezdésében foglalt módon továbbítja a bíróságnak, amely azt a 140/A. § szerint bírálja el.
 
 ### Az ingatlan értékesítésének időpontja
 
@@ -2124,6 +2124,12 @@ eredő követelések fejében vonható végrehajtás alá.
 171/A. § (1) Ha a végrehajtás alá vont ingatlant a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő vásárolta meg és a lakóingatlanra bejegyzett jelzálogjoggal rendelkező jogosultak követelésének kielégítését követően fennmaradó vételár hányad kifizetésére kerül sor a végrehajtó részére, azt az árverés során befolyt összeg kifizetésére vonatkozó szabályok szerint kell elszámolni és kifizetni.
 
 (2) Ha a végrehajtás alá vont ingatlanra árverést korábban még nem tűztek ki, a végrehajtó a vételár hányad felosztása során azokat a követeléseket elégíti ki, amelyek tekintetében a végrehajtási jogot az ingatlan-nyilvántartásba korábban bejegyezték.
+
+### Kielégítés kisajátításból befolyt összegből
+
+171/B. § (1) Ha a végrehajtás alá vont ingatlant kisajátították, a kisajátításról szóló törvény alapján a végrehajtó részére kifizetett összeget az árverés során befolyt összeg kifizetésére vonatkozó szabályok szerint kell elszámolni és kifizetni.
+
+(2) Ha a végrehajtás alá vont ingatlanra árverést korábban még nem tűztek ki, a végrehajtó a vételárhányad felosztása során azokat a követeléseket elégíti ki, amelyek tekintetében a végrehajtási jogot az ingatlan-nyilvántartásba korábban bejegyezték.
 
 ## HARMADIK RÉSZ — KÜLÖNLEGES VÉGREHAJTÁSI ELJÁRÁSOK
 

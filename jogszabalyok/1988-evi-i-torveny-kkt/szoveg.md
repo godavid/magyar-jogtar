@@ -1087,14 +1087,22 @@ nem terjednek ki.
 
 (10) Ha az út megszüntetését engedélyezték és más célra nem hasznosítható, az út vagyonkezelője köteles azt elbontani.
 
-(11) A helyi önkormányzat – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda kiépítése esetében. A nem állami költségvetésből vagy nem uniós forrásból megvalósuló utak beruházója – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda kiépítése vonatkozásában.
+(11) A helyi önkormányzat – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák esetében. A nem központi költségvetésből vagy nem európai uniós forrásból megvalósuló utak beruházója – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák vonatkozásában.
 
 (12) Törvény a gyorsforgalmi utak tervezésére, építésére és kivitelezésére az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
 
-(13) A település forgalmi viszonyainak lényeges változását eredményező új közút építése vagy meglévő közút fejlesztése esetén – az eredeti cél megvalósulását közvetlenül nem szolgáló – további közlekedési célú beruházás (pl. útszélesítés, új elkerülő út építése, forgalomcsillapító szabályozás) megvalósítására vonatkozó igény a szükséges hozzájárulások, beleegyezések megadásának feltételeként akkor terjeszthető elő, ha egyébként a településen a forgalomba helyezéstől egy éven belül – az elvégzett hatásvizsgálatok szerint – létrejövő forgalmi helyzet alapján a beruházáshoz csatlakozó közutakon a forgalomnövekedés meghaladja a 25%-ot, és
+(13) A település forgalmi viszonyainak lényeges változását eredményező új közút építése vagy meglévő közút fejlesztése esetén – az eredeti cél megvalósulását közvetlenül nem szolgáló – további közlekedési célú beruházás – így különösen útszélesítés, új elkerülő út építése, forgalomcsillapító szabályozás – megvalósítására vonatkozó igényt a települési önkormányzat az útügyi építési engedélyezési eljárásban a helyi közútkezelési vagy tulajdonosi hozzájárulás megadásának feltételeként akkor terjeszthet elő, ha a településen a forgalomba helyezéstől számított egy éven belül – a közútépítés vagy közútfejlesztés részeként készült hatástanulmány szerint – a létrejövő forgalmi helyzet alapján a beruházáshoz csatlakozó közutakon a forgalomnövekedés a 25%-ot meghaladja, és
 
 - a) az eltűrhető forgalomnagyság határértéke nem teljesül, vagy
-- b) a jogszabályban foglalt egyéb előírás (pl. előírt környezeti határérték) az útépítést követően nem teljesül.
+- b) a jogszabályban foglalt környezeti határérték az útépítést követően nem teljesül.
+
+(13a) Az önkormányzat hozzájárulását az építésügyi engedélyezést lefolytató hatóság megadottnak tekinti, ha
+
+- a) az önkormányzat az építtető megkeresésétől számított 30 napon belül nem nyilatkozott a hozzájárulás megadásáról,
+- b) a (13) bekezdésben foglalt feltételek nem állnak fenn és az önkormányzat határidőben úgy nyilatkozott, hogy hozzájárulását nem adja meg vagy hozzájárulását feltételhez köti, vagy
+- c) a (13) bekezdésben foglalt feltételek fennállnak, de az önkormányzat a hozzájárulását olyan beruházás megvalósításához kötötte,
+  - ca) amely nem alkalmas a forgalomcsökkentésre vagy a forgalomnövekedés káros hatásainak enyhítésére, vagy
+  - cb) amelynek megvalósítása – akár műszaki adottságai, akár aránytalan költségei miatt – ellehetetlenítené a közútépítést, közútfejlesztést.
 
 (14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) jár el.
 
@@ -1148,6 +1156,8 @@ terjedhet.
 (5) Ha közműszolgáltató neki felróható módon a (1) bekezdés szerinti értesítésben szereplő közműszakasz kiváltására vagy fejlesztésére vonatkozó közműkiváltási vagy -fejlesztési kötelezettségét késedelmesen teljesíti, vagy egyébként a közműkiváltást vagy -fejlesztést nem megfelelően végzi el, illetve annak elvégzését vagy elvégeztetését megtagadja, köteles az ezzel okozott kárt a polgári jog általános szabályai szerint megtéríteni.
 
 (6) Az országos közutak építési beruházásánál a nyomvonalat keresztező kiváltásra kerülő és a közutat ellátó közművek a hatósági eljárásban közcélúnak minősülnek.
+
+(7) Országos közút fejlesztésével és felújításával kapcsolatban a közmű valamely elemének kiváltásával vagy fejlesztésével létrehozott közműelem a beruházás műszaki átadását követően, ingyenesen, e törvény erejénél fogva a közútfejlesztés, illetve felújítás megvalósítása előtti közműtulajdonos tulajdonába, üzemeltetőjének üzemeltetésébe kerül, illetve abban marad. Az ingyenes átadás feltétele, hogy a közműszakasz kiváltására a műszakilag feltétlenül szükséges mértékben került sor és a kiváltás költségei nem haladták meg a szokásos piaci költségeket; ezt meghaladó kiváltás vagy fejlesztés az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül és csak az uniós állami támogatási szabályokkal összhangban finanszírozható vagy az üzemeltető annak költségeit köteles viselni.
 
 #### 29/F. §
 
@@ -1266,6 +1276,57 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 35. § Az út kezelője a kezelői kötelezettségének megszegésével okozott kárt a polgári jog általános szabályai szerint köteles megtéríteni. A kártérítési követelést a kár keletkezését követően haladéktalanul kell a közút kezelőjéhez bejelenteni.
 
+### Felszín alatti közútépítési jog
+
+35/A. § (1) A felszín alatti közút építése és üzemeltetése fontos közérdekű tevékenység; az érintett ingatlan tulajdonosa köteles tűrni az ingatlan ennek érdekében történő igénybevételét.
+
+(2) Az országos közút építtetője a felszín alatti közútépítési jog alapján, jogerős építési engedély birtokában jogosult a nyomvonal által érintett idegen ingatlant felszín alatti közút építésére igénybe venni akként, hogy a felszín alatti közútépítési jog alapján az idegen ingatlanon
+
+- a) annak felszíne alatt az országos közúthálózathoz kapcsolódó alagutat építhet,
+- b) annak felszínén – az ingatlanra lépve – a jogerős építési engedély alapján az alagút biztonságos üzemeltetéséhez szükséges létesítményeket helyezhet el.
+
+(3) Az országos közút közútkezelője a felszín alatti közútépítési jog alapján a (2) bekezdés szerint megépített közút forgalomba helyezését követően annak kezelése és üzemeltetése során jogosult
+
+- a) a közúttal érintett ingatlant – annak felszíne alatt – használni,
+- b) az alagút felszínen elhelyezett létesítményei üzemeltetése érdekében az üzemeltetéshez szükséges mértékben a közúttal érintett ingatlant annak felszínén használni.
+
+(4) A (2) bekezdés alapján létesülő felszín alatti közút és tartozékainak tulajdonjoga önálló ingatlanként az államot illeti meg. A felszín alatti közút építése – a (2) bekezdés b) pontja és a (3) bekezdés b) pontja szerinti kivétellel – egyebekben nem érinti a felszín alatti közútépítési joggal terhelt ingatlan tulajdonjogát.
+
+(5) Nem illeti meg elővásárlási jog
+
+- a) a (2) bekezdés alapján a közút tulajdonosát a felszín alatti közútépítési joggal terhelt ingatlanra,
+- b) a felszín alatti közútépítési joggal terhelt ingatlan tulajdonosát a (2) bekezdés alapján létesített közútra, annak műtárgyaira és tartozékaira.
+
+35/B. § (1) Az építtető a felszín alatti közútépítési joggal terhelt ingatlan igénybevételéről – az érintett közút nyomvonalának kijelöléséről szóló kormányrendelet hatálybalépését követő 30 napon belül, ha pedig a nyomvonal kijelöléséről kormányrendelet nem rendelkezik vagy egyéb okból nem lehetséges az értesítés korábbi kiadása, legkésőbb az építési engedély iránti kérelem benyújtásával egy időben – értesíti
+
+- a) az ingatlannak az ingatlan-nyilvántartásba bejegyzett tulajdonosát és az ingatlan-nyilvántartásba bejegyzett valamennyi egyéb jogosultat és kötelezettet, valamint
+- b) társasház esetén a társasházi közösséget, lakásszövetkezeti ház esetén a lakásszövetkezetet vagy az ezek képviseletére jogosult személyt is,
+- c) ingatlan-nyilvántartásba bejegyzett vagyonkezelői jog esetében a vagyonkezelőt is.
+
+(2) Az (1) bekezdés szerinti ingatlan jogi jellegeként az ingatlan-nyilvántartásban fel kell jegyezni, hogy annak területe felszín alatti közúttal érintett. A feljegyzés érdekében az építtető köteles intézkedni.
+
+(3) Ha a felszín alatti közútépítési jog alapján történő igénybevétel a felszín alatti közútépítési joggal terhelt ingatlan rendeltetésszerű használatát korlátozza vagy akadályozza – ideértve a felszíni ingatlan 35/A. § szerinti használatát is –, a tulajdonos a használat korlátozásának, akadályozásának megfelelő, illetve ezzel összefüggésben bekövetkező forgalmi értékcsökkenésnek megfelelő mértékű egyösszegű kártalanításra jogosult. A kártalanítás módjáról és mértékéről az építtetőnek az ingatlan tulajdonosával kártalanítási ajánlat írásban történő megküldésével kell egyezség létrehozását megkísérelnie.
+
+(4) A kártalanítás az igénybevétellel okozott érdeksérelem bekövetkezésekor esedékes, az ingatlan tulajdonosa ez iránti igényét a felszín alatti közútépítési jog alapján létesített felszín alatti közút forgalomba helyezésétől (ideértve az ideiglenes forgalomba helyezést is) számított két évig érvényesítheti a közút építtetőjével szemben. A kártalanítást – a felek eltérő megállapodásának hiányában – pénzben kell megfizetni.
+
+(5) Megegyezés hiányában bármelyik fél kérelmére a kártalanítást a fővárosi és megyei kormányhivatal állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti közút építtetője a kártalanítási igény hozzá való megérkezésétől számított 45 napon belül nem tesz ajánlatot egyezségre vagy a vele közölt ajánlatra nem nyilatkozik. A fővárosi és megyei kormányhivatal eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.
+
+35/C. § (1) Ha a felszín alatti közútépítési jog alapján történő igénybevétel akár a létesítés, akár az üzemeltetés során a felszín alatti közútépítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza, az építtető az ingatlan megvásárlását, ennek sikertelensége esetén kisajátítását kezdeményezi.
+
+(2) Az ingatlan megvásárlása és kisajátítása kezdeményezésének joga a felszín alatti közútépítési joggal terhelt ingatlan tulajdonosát is megilleti, ha a felszín alatti közútépítési jog alapján történő igénybevétel az ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza. Az ingatlan tulajdonosa igényét a felszín alatti műtárgy forgalomba helyezésétől (ideértve az ideiglenes forgalomba helyezést is) két évig érvényesítheti; ha a tulajdonos a kisajátítás kérelmezése feltételeinek fennállását bizonyította, a kisajátítási eljárást le kell folytatni.
+
+(3) A kisajátított ingatlan az állam tulajdonába kerül.
+
+(4) Az (1) és (2) bekezdés alapján kötött adásvételi szerződés alapján kifizetett vételár a kisajátítási eljárás során megállapított kártalanítással megegyezően adó- és illetékmentes.
+
+35/D. § (1) Az építtető a felszín alatti műtárgy építésével, a közútkezelő annak üzemeltetésével az ingatlanban, az ingatlan alkotórészében és tartozékában okozott károkat, valamint a közútkezelő a felszíni használattal okozott károkat, beleértve a károk megelőzésére, csökkentésére és elhárítására fordított kiadásokat is, a (2)–(4) bekezdésben meghatározott feltételek szerint köteles megtéríteni.
+
+(2) Nem jár kártalanítás az építményben okozott kárért, ha az építményt a 35/B. § (1) bekezdésében meghatározott értesítés kézhezvételét követően építési engedély nélkül vagy az építési engedélyben a felszín alatti közútépítési jogra tekintettel megszabott feltételek megsértésével emelték.
+
+(3) A kártalanítást – eltérő megállapodás hiányában – pénzben kell megfizetni. Az esedékessé vált kártalanításról a kártalanítás megfizetésére kötelezettnek meg kell kísérelni egyezség létrehozását, megegyezés hiányában a kártalanítási követelés bírósági úton érvényesíthető.
+
+(4) A felszín alatti közút építésével és üzemeltetésével okozott egyéb károk megtérítésére – a 35. §-ban és a 42/A. § (4) bekezdésében foglaltakra figyelemmel – a Polgári Törvénykönyvről szóló törvény rendelkezéseit kell alkalmazni.
+
 ### A közút nem közlekedési célú igénybevétele
 
 és a közút melletti ingatlan használata
@@ -1313,7 +1374,7 @@ a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak e
 
 (2) A közút mellett levő terület használata jogszabályban meghatározott esetekben kártalanítás nélkül korlátozható.
 
-(3) A közút műtárgyának minősülő burkolt árokba, csatornába vagy más vízelvezető létesítménybe a közút területén kívüli területekről származó vizeket bevezetni csak a közút kezelőjének hozzájárulásával szabad. A hozzájárulás nélküli vagy az abban foglaltaktól eltérő vízbevezetés esetén a 37. § (2) bekezdése szerint kell eljárni.
+(3) A közút műtárgyának minősülő árokba, csatornába vagy más vízelvezető létesítménybe a közút területén kívüli területekről származó vizeket bevezetni csak a közút kezelőjének hozzájárulásával szabad. A hozzájárulás nélküli vagy az abban foglaltaktól eltérő vízbevezetés esetén a 37. § (2) bekezdése szerint kell eljárni.
 
 42/A. § (1) A közút kezelőjének hozzájárulása szükséges
 
@@ -1488,7 +1549,7 @@ során a vizsgáztatásról, vizsgálatról és ellenőrzésről – adatrögzí
 - 6. vevőszolgálati javítóhálózat: a járművek garanciális javítását és alkatrészellátását végző szervezetek rendszere;
 - 7. út: a járművek és a gyalogosok közlekedésére, vagy csak a járművek, illetve csak a gyalogosok közlekedésére szolgáló, e célra létesített vagy kijelölt közterület, vagy magánterület (közút, magánút); magánútnak kell tekinteni az állam vagy az önkormányzat tulajdonában álló területen lévő, közforgalom elől elzárt utat is;
 - 8. közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával és a „magánút” feliratot tartalmazó kiegészítő táblával jelzett út, amely az ingatlan-nyilvántartásban magánútként van bejegyezve;
-- 9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló burkolt árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz;
+- 9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz;
 - 10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó), a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint a közút határától számított két méter távolságon belül ültetett fa, az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
 - 11. közúthálózat: az országos közutak és a helyi közutak összefüggő rendszere;
 - 12. az út határa: az útnak – a kiemelt szegélyt, az útpadkát, a rézsűt, az út víztelenítését szolgáló árkot, csatornát, más vízelvezető létesítményt is magában foglaló – külső széle;
