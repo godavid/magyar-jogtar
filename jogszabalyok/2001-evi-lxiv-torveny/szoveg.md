@@ -192,7 +192,7 @@ a következő törvényt alkotja:
 
 (3) A régészeti feltárások költségeit – a mentő feltárás, valamint a 23/F. § (6) bekezdésében foglalt eset kivételével – a 10. § (1) bekezdésére figyelemmel annak kell fedeznie, akinek érdekében az elvégzendő földmunka vagy a nyilvántartott régészeti lelőhely bolygatása szükségessé vált.
 
-(4) A régészeti feladatellátás hatósági ár alapján végezhető. A hatósági ár képzésének szabályait, módját és mértékét jogszabály határozza meg. A hatósági árra vonatkozó szabályokat évente felül kell vizsgálni.
+(4) A régészeti feladatellátás hatósági ár alapján végezhető. A régészeti feladatellátásra vonatkozó hatósági ár képzésének szabályait, az alkalmazható legmagasabb ár mértékét, valamint a régészeti feladatellátással összefüggő költségtételek figyelembevételének részletes szabályait kormányrendelet határozza meg. A hatósági árra vonatkozó szabályokat évente felül kell vizsgálni.
 
 20. § (1) Régészeti feltárás – jogszabály eltérő rendelkezése hiányában – feltárási engedély alapján végezhető. Az engedélyt a hatóság adja ki. A hatóság régészeti örökségvédelmi indokok alapján az engedélyt fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja. A hatóság nagyberuházás esetén az engedélyt fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítja.
 
@@ -342,7 +342,7 @@ a következő törvényt alkotja:
 
 (2) A nagyberuházást megelőző feltárást csak akkreditált, feltárásra jogosult intézmény (a továbbiakban: akkreditált intézmény) vagy a Hivatal végezheti jogszabályban meghatározottak szerint.
 
-(3) A megelőző feltárás elvégzésébe az akkreditált intézmény vagy a Hivatal a területi múzeumot – annak kapacitása erejéig – bevonhatja.
+(3) A megelőző feltárás elvégzésébe az akkreditált intézmény vagy a Hivatal a gyűjtőterületén érintett területi múzeumot vagy a gyűjtőterületén érintett megyei hatókörű városi múzeumot – annak kapacitása erejéig – bevonhatja.
 
 (4) Régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe kizárólag akkreditált intézmény vagy akkreditált szervezet vonható be. Akkreditált szervezet a megelőző feltárás elvégzésében csak az akkreditált intézmény vagy a Hivatal alvállalkozójaként vehet részt.
 
@@ -379,6 +379,24 @@ a következő törvényt alkotja:
 (10) A beruházó a megelőző feltárás elvégzésére az akkreditált intézménnyel írásbeli szerződést köt. Az akkreditált intézmény köteles a tényleges felhasználásról jogszabályban meghatározott módon elszámolni.
 
 (11) A feltárásra jogosult intézmény a teljes felületű feltárás és az elfedés régészeti előkészítésének összköltségei 10 százalékának erejéig tartalékot képezhet az esetleges régészeti többletköltségekre. A tartalék a beruházó és a feltárást végző intézmény közötti megállapodás alapján használható fel.
+
+### A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz kapcsolódó régészeti feladatellátásra vonatkozó különös előírások
+
+23/G. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetén a régészeti feladatellátásra – beleértve az előzetes régészeti dokumentáció készítését – a megelőző feltárásra vonatkozó, valamint a 23/B–F. §-ban foglalt rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A jogszabályban meghatározott járulékos régészeti feladatellátásba vagy a régészeti feladatellátás jogszabályban meghatározott egyes régészeti szaktevékenységeibe nem akkreditált intézmény vagy szervezet is bevonható.
+
+(3) Az előzetes régészeti dokumentáció készítése során végzendő próbafeltárás és az azt követő megelőző feltárás mielőbbi megkezdése érdekében a beruházónak az érintett beruházási szakaszon lévő földterületek birtokbavételét követően haladéktalanul meg kell tennie az átadáshoz szükséges intézkedéseket.
+
+(4) A próbafeltárás és a teljes felületű feltárás időtartama a beruházó által a földmunkával érintett munkaterületnek (a régészeti feladatellátás azon található valamennyi területi szakaszának) régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított 30-30 nap. A próbafeltáráshoz kapcsolódó gépi földmunka időtartama legfeljebb 10 nap lehet, amely a próbafeltárás időtartamába nem számít bele. A beruházó és a feltáró intézmény ennél hosszabb időtartamban is megállapodhat. A feltáráshoz szükséges technikai felszerelés biztosításának költsége a régészeti feladatellátás keretében elszámolható költség annak érdekében, hogy a régészeti feltárást a jogszabályban meghatározottak szerint feltárásra alkalmas napon kívüli napokon is végezni lehessen.
+
+(5) A feltárásokat a régészeti feladatellátás beruházó által a (4) bekezdés szerint átadott területi szakaszán egyszerre kell végezni.
+
+(6) A feltárási engedélyben meghatározott teljes felületű feltárás elvégzését követően a feltárással érintett régészeti területi szakaszon régészeti feltárásra már nem kerül sor.
+
+(7) A beruházás kivitelezésekor történő régészeti megfigyelés során régészeti lelőhely vagy lelet váratlan előkerülése a kivitelezés ütemét nem hátráltathatja. Ha elháríthatatlan külső okból (így különösen belvíz, árvíz, egyéb természeti katasztrófa esetén) a régészeti megfigyelés nem végezhető, vagy ha a régészeti megfigyelés során előkerült régészeti lelőhely vagy lelet a kivitelezés hátráltatása nélkül régészeti bontómunka keretében nem menthető, a régészeti megfigyelést végző intézmény haladéktalanul értesíti a minisztert.
+
+(8) A kivitelezést az értesítést követő 9. napon folytatni kell, kivéve, ha ezt megelőzően a miniszter a (7) bekezdésben foglalt feltételek fennállása miatt elrendelte a feltárást és erről a beruházót értesítette. A miniszter által elrendelt feltárást a döntés kézhezvételétől számított 30 napon belül kell elvégezni. A miniszter döntéséről a beruházót, a feltáró intézményt és a hatóságot értesíti. A miniszter döntése szerinti régészeti feladatellátás hatósági engedély nélkül végezhető.
 
 ### Mentő feltárás
 
@@ -1233,7 +1251,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 - e) szabályozza a Bizottság és a NÖRI emlékhelyekkel kapcsolatos feladatait;
 - f) szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
 - g) határozza meg a történelmi emlékhelyeket,
-- h) szabályozza a nagyberuházásokkal kapcsolatos régészeti feladatellátás szabályait, a nagyberuházás régészeti szakaszolásának szempontjait, a nagyberuházás kivitelezése során ellátandó régészeti megfigyelés és az elfedés szabályait, valamint a régészeti feltárás költségeire vonatkozó hatósági árképzés módját és a hatósági árat;
+- h) szabályozza a nagyberuházásokkal kapcsolatos régészeti feladatellátás szabályait, a nagyberuházás régészeti szakaszolásának szempontjait, a nagyberuházás kivitelezése során ellátandó régészeti megfigyelés és az elfedés szabályait, valamint a 19. § (4) bekezdése szerinti hatósági ár képzésének szabályait, az alkalmazható legmagasabb ár mértékét, továbbá a régészeti feladatellátással összefüggő költségtételek figyelembevételének részletes szabályait;
 - i) meghatározza a régészeti feltárásra vonatkozó szerződésre irányuló múzeumi ajánlattétel adattartalmát, a régészeti feltárásra irányuló szerződés kötelező elemeit, valamint a megelőző feltárás módszerei alkalmazásának eseteit és szabályait;
 - j) meghatározza a védetté nyilvánított régészeti lelőhelyek és a műemlékek ellenőrzésének szabályait;
 - k) meghatározza azokat a nyilvántartott régészeti lelőhelyeket, amelyeket a földmunkával járó fejlesztésekkel, beruházásokkal el kell kerülni, a régészeti feltárások részletes szabályait, a régészeti feltárásra alkalmas nap fogalmát, valamint az elektronikus lelőhely-bejelentés szabályait;
@@ -1255,7 +1273,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
 - a) az örökségvédelem körében a védetté nyilvánítás részletes szabályait;
-- b)
+- b) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás régészeti megfigyelése vonatkozásában a 23/G. § (7) és (8) bekezdése szerinti értesítés és miniszteri döntés részletes szabályait;
 - c) a régészeti lelőhely és a műemléki érték nyilvántartásba vételének, a nyilvántartott régészeti lelőhely és a nyilvántartott műemléki érték ideiglenes védetté nyilvánításának, valamint a védetté nyilvánításnak részletes szabályait;
 - d) a feltárás végzésére jogosult intézmények és a feltárásban alvállalkozóként résztvevő szervezetek akkreditálásának szabályait és eljárásrendjét;
 - e) a nyilvántartott és a védetté nyilvánított régészeti lelőhelyek fenntartható használatát;

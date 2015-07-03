@@ -57,7 +57,10 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 3. § (1) A vizekkel és a vízilétesítményekkel összefüggő állami feladatok körében az igazgatási tevékenységeket (a továbbiakban: vízügyi igazgatás) a vízügyi igazgatási szervek végzik.
 
-(2) A vízügyi igazgatási szervek látják el – a víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó vizek és vízilétesítmények kivételével – az állami tulajdonban lévő vizek és vízilétesítmények vagyonkezelését, azok üzemeltetését, fenntartását és fejlesztését.
+(2) Törvény eltérő rendelkezése hiányában, valamint a víziközmű-szolgáltatásról szóló törvény hatálya alá tarozó vízilétesítmények és a nyári gátak kivételével a vízügyi igazgatási szervek látják el
+
+- a) az állami tulajdonban lévő vizek és vízilétesítmények, a felszín alatti vizek víztartó képződményeinek és a felszíni vizek medreinek vagyonkezelését,
+- b) az állami tulajdonban lévő vízilétesítmények üzemeltetését, fenntartását és fejlesztését.
 
 (3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy egyébként vízitársulat üzemeltetésében állnak, e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
 
@@ -465,7 +468,9 @@ alapján kell kiszámítania.
 - b) a mederből a vízgazdálkodási feladataik végrehajtása során kiemelt, valamint a vízgazdálkodási feladataik elvégzéséhez szükséges anyagokat az ingatlanon keresztül szállítsák, vagy azokat, illetve a munkák elvégzéséhez szükséges eszközöket, átmeneti jellegű létesítményeket az ingatlanon elhelyezzék;
 - c) a vízrajzi észleléshez, a hajóút kitűzéséhez, valamint az egyéb szakfeladatok ellátásához szükséges jeleket, létesítményeket az ingatlanon elhelyezzék és karbantartsák.
 
-(4) Az ingatlan tulajdonosát (használóját) az (1) és (3) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.
+(3a) Az ingatlan tulajdonosa (használója) köteles tűrni, hogy az országos közút és tartozékai, illetve a törzshálózati vasúti pálya és tartozékai víztelenítését szolgáló közcélú vízilétesítményt az ingatlanán elhelyezzék és üzemeltessék, illetve az ehhez szükséges vízimunkákat elvégezzék, feltéve, hogy az az ingatlan rendeltetésszerű használatát nem zárja ki.
+
+(4) Az ingatlan tulajdonosát (használóját) az (1), (3) és (3a) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.
 
 (5) A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények üzemeltetőjét a vízjogi üzemeltetési engedély jogerőre emelkedése napjától kezdődően e törvény erejénél fogva mederhasználati jog illeti meg, melyet külön jogszabályban meghatározottak szerint kell bejegyezni.
 
@@ -986,7 +991,7 @@ E törvény alkalmazásában
 - 24. vízhasználó: az a természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet, aki (amely) vizet szolgáltatás teljesítésére vagy saját céljaira vesz igénybe;
 - 25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
 - 26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
-  - a) közcélú vízilétesítmény: amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja;
+  - a) közcélú vízilétesítmény: az a vízilétesítmény, amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja; közcélú vízilétesítménynek minősülnek továbbá az országos közút és a törzshálózati vasút kiépítését, fejlesztését és fenntartását szolgáló vízilétesítmények;
   - b) saját célú vízilétesítmények: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást (így például szennyvízelhelyezést, átvezetést, tisztítást, öntözést) vízkárelhárítási, víztisztítási, vízerő hasznosítási feladatokat ellátó művek;
 - 27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek közhitelű nyilvántartása;
 - 28. vízkár: a vizek többletéből vagy hiányából származó kár;

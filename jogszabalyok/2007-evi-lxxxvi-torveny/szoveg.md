@@ -2160,7 +2160,7 @@ kérhet.
 
 (3) A közcélú hálózat idegen ingatlanon történő elhelyezésére a hálózati engedélyes javára a Hatóság vezetékjogot engedélyezhet, ha az a közcélú hálózat szükséges fejlesztése érdekében indokolt, és az ingatlan használatát lényegesen nem akadályozza.
 
-(3a) Közterületen elhelyezendő közcélú hálózatra és ennek közterületet érintő biztonsági övezetére nem kell vezetékjogot alapítani. Az ilyen terület igénybevételére az érintetteknek megállapodást kell kötni.
+(3a) Közterületen elhelyezendő közcélú hálózatra és ennek közterületet érintő biztonsági övezetére nem kell vezetékjogot alapítani. A közcélú hálózat közterületen történő elhelyezését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért a hálózati eszköz beruházója köteles kártalanítást fizetni.
 
 (4) A kisfeszültségű csatlakozóberendezés építésére szolgáló ingatlan tulajdonosának hozzájárulása az e törvény szerint a vezetékjog alapján fennálló jogokkal és kötelezettségekkel azonos – az ingatlan-nyilvántartásba az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § e) pontja szerint bejegyzendő – jogokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
 
