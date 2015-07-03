@@ -1134,13 +1134,30 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 (2) Az erdő igénybevételéhez az erdészeti hatóság előzetes engedélye szükséges. Az erdőt kizárólag az engedélyben megjelölt határidőn belül, és az abban meghatározott célra lehet igénybe venni.
 
-(3) Gazdasági elsődleges rendeltetésű kultúrerdő és faültetvény igénybevételét az erdészeti hatóság az adott erdő fekvése szerinti, vagy az azzal szomszédos településen végrehajtott, az igénybe vett erdővel legalább azonos területű, azzal megegyező, vagy attól magasabb természetességi állapotú csereerdősítés elvégzésének feltétele mellett engedélyezheti.
+(3) Gazdasági elsődleges rendeltetésű kultúrerdő és faültetvény igénybevételét az erdészeti hatóság az adott erdő fekvése szerinti vagy az azzal szomszédos településen végrehajtott, az igénybe vett erdővel legalább azonos területű, azzal megegyező vagy attól magasabb természetességi állapotú csereerdősítés elvégzésének feltétele mellett a közérdekkel való összhang hiányában is engedélyezheti.
 
-79. § (1) Az erdő igénybevételére vonatkozó engedély négy évre szól. Amennyiben a megadott határidőn belül az engedélyezett nagyságú erdő igénybevétele nem történik meg, vagy az engedély jogosultja írásban nyilatkozik arról, hogy az engedélyben foglalt jogosultságáról lemond, az engedély az igénybe nem vett részre érvényét veszti és a területen továbbra is az e törvény előírásai szerinti erdőgazdálkodást kell folytatni.
+(4) A nemzetgazdasági szempontból kiemelt jelentőségű beruházás esetén a közérdekkel való összhangot vélelmezni kell.
+
+79. § (1) Az erdő igénybevételére vonatkozó engedély négy évre szól. Amennyiben a megadott határidőn belül az engedélyezett nagyságú erdő igénybevétele nem kezdődik meg, vagy az engedély jogosultja írásban nyilatkozik arról, hogy az engedélyben foglalt jogosultságáról lemond, az engedély az igénybe nem vett részre érvényét veszti és a területen továbbra is az e törvény előírásai szerinti erdőgazdálkodást kell folytatni.
+
+(1a) Az igénybevétel megkezdésének minősül
+
+- a) az igénybevételre engedélyezett területre vonatkozó fakitermelés bejelentése,
+- b) az igénybevett terület beruházási területre történő átvezetése, vagy
+- c) az igénybevétel célját képező tevékenység, munkaművelet megkezdésének bejelentése, ha az igénybevétel nem jár fakitermeléssel.
+
+(1b) Az igénybevevő köteles az erdészeti hatóság részére bejelenteni az erdő igénybevételének
+
+- a) megkezdését az (1a) bekezdés b) pontja esetében az ingatlan-nyilvántartási átvezetés igazolásával,
+- b) megvalósulását az igénybevételi célnak megfelelő használathoz szükséges használatbavételi engedély vagy a beruházás megvalósításának lezárulását megtestesítő egyéb dokumentum benyújtásával.
+
+(1c) Ha az igénybevétel megvalósulására annak megkezdését követő öt éven belül nem kerül sor, az erdészeti hatóság határidő kitűzésével határozatban kötelezi az igénybevevőt a helyreállításra, majd a területen továbbra is az e törvény előírásai szerinti erdőgazdálkodást kell folytatni.
 
 (2) Bányászati célú igénybevétel esetén az engedély időbeli hatályát az erdészeti hatóság négy évnél hosszabb időtartamban, de legfeljebb a bányászati hatóság által jóváhagyott műszaki üzemi terv érvényességének lejártáig is megállapíthatja.
 
 (3) Az erdő igénybevétele iránti kérelemhez csatolni kell a tulajdonos hozzájárulását, vagy az igénybevétel céljára vonatkozó, más jogcímen fennálló rendelkezési jogot igazoló okiratot.
+
+(3a) Az erdő igénybevétele iránti kérelemhez érintettség esetén csatolni kell a csereerdősítésre tervezett terület megjelölését és az érintett ingatlan tulajdonosának vagy tulajdonosainak erdőtelepítéshez adott, közokiratba vagy teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát.
 
 (4) Az erdőgazdálkodási tevékenységet közvetlenül szolgáló, erdő művelési ágban nyilvántartott földterület igénybevétele esetén az erdő igénybevételére vonatkozó szabályokat kell alkalmazni.
 
@@ -1151,6 +1168,8 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 (3) Az erdő tervezett igénybevételéhez – kérelemre – az erdészeti hatóság legfeljebb négy évig érvényes elvi engedélyt adhat. Ez esetben a kérelemnek nem feltétele az erdőre vonatkozó tulajdonjogon vagy más jogcímen fennálló rendelkezési jog igazolása.
 
 (4) Az elvi engedély érvényességi idején belül kezdeményezett igénybevételi eljárás során az erdészeti hatóságot, szakhatóság közreműködése esetén a szakhatóságot az elvi engedély azokban a kérdésekben, amelyekről kifejezetten rendelkezett, akkor is köti, ha időközben a jogszabályok, valamint a kötelező hatósági előírások megváltoztak. Az elvi engedély alapján az erdő igénybevétele nem kezdhető meg.
+
+(5) A 79. § (1a) bekezdés a) pontja szerinti fakitermelés bejelentésére a 41. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bejelentést az igénybevételt engedélyező határozat alapján kell megtenni. A bejelentést az erdőgazdálkodón kívül az igénybevevő is benyújthatja. Mellőzhető a bejelentés, ha az erdő igénybevétele iránti kérelemben az engedélyes a fakitermelés tárgyévi vagy a tárgyévet követő évi végrehajtására vonatkozó szándékát előre jelezte. A fakitermelés a bejelentést és a 70. § (3) bekezdése szerinti műveleti lap kiállítását követően azonnal megkezdhető.
 
 81. § (1) Erdő igénybevétele esetén az igénybevevő erdővédelmi járulékot köteles fizetni.
 
@@ -1175,7 +1194,7 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 82. § (1) Az erdővédelmi járulékalap összege százezer forint.
 
-(2) Az erdővédelmi járulék összegét, megfizetésének határidejét az erdészeti hatóság határozatban állapítja meg.
+(2) Az erdővédelmi járulék összegét, megfizetésének határidejét az erdészeti hatóság határozatban állapítja meg. Az erdővédelmi járulékot legkésőbb az igénybevétel megkezdését követő 30. napig meg kell fizetni.
 
 (3) Nem kell erdővédelmi járulékot fizetni,
 
@@ -1193,7 +1212,9 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 (5) A csereerdősítést – az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – az adott erdő fekvése szerinti vagy az azzal szomszédos településen kell végrehajtani.
 
-(6) A csererdősítés tervezésére és engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak.
+(6) A csererdősítés tervezésére, engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak azzal, hogy a csereerdősítési terv engedélyezése – a (6a) bekezdésben foglalt eset kivételével – az igénybevétel megkezdésének feltétele, a csereerdősítési kötelezettség keletkezése időpontjának pedig az igénybevétel megkezdése minősül.
+
+(6a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az igénybevétel megkezdésének feltétele az erdő igénybevételhez kapcsolódóan előírt csereerdősítési kötelezettség teljesítésének megfelelő területre szóló csereerdősítési terv engedélyezésre történő benyújtása.
 
 (7) Az erdővédelmi járulék a költségvetési törvény szerinti központosított bevétel.
 

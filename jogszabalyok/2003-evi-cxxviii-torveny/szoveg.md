@@ -141,9 +141,9 @@ rendelkezéseit kell alkalmazni.
 
 (2) A Kormány a 6. §-ban említett rendeletben – amennyiben a műszaki feltételek ezt lehetővé teszik – az (1) bekezdésben meghatározottnál keskenyebb területsávot is megállapíthat.
 
-(3) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított öt éven belül – tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
+(3) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a területsáv védettségének időtartamát meghatározó kormányrendeletben meghatározott időtartamon belül – tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
 
-(4) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított öt éven belül –
+(4) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a területsáv védettségének időtartamát meghatározó kormányrendeletben meghatározott időtartamon belül –
 
 - a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó jogerős engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
 - b) a földrészlet művelési ágát és minőségi osztályát csak akkor lehet megváltoztatni,
@@ -152,12 +152,14 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (5) A gyorsforgalmi utak tervezés előkészítési szakaszában az 5. § (2) bekezdésében rögzített műszaki tanulmányterv kötelező tartalmi eleme a költség-haszon elemzés, amelynek során a nemzetgazdaság szempontjából legelőnyösebb változatot kell kiválasztani megfelelve a versenyképesség és a gazdaságosság alapelveinek, mint kiemelt közérdekű célnak.
 
-(6) A (4) bekezdésben foglalt korlátozás a megjelölt időtartamon belül csak az (1) bekezdés szerinti területsávban levő ingatlannak állami tulajdonként való birtokbavételéig áll fenn.
+(6) A (4) bekezdésben foglalt korlátozás a megjelölt időtartamon belül csak az (1) bekezdés szerinti területsávban levő ingatlannak állami tulajdonként, az építtető általi birtokbavételéig áll fenn.
 
 (7) A (4) bekezdés szerinti engedélyt a közlekedési hatóság megadja, ha
 
 - a) a tevékenység bontási munka, vagy az állékonyságot, életet, egészséget, köz- és vagyonbiztonságot veszélyeztető károk megelőzését, illetve a károk elhárítását szolgálja, továbbá
 - b) a tevékenység értéknövekedést nem eredményez vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy az autópálya építtetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
+
+(7a) Amennyiben a nyomvonal felszín alatti vonalvezetéssel tervezett, a nyomvonal felszín alatti szakaszán a tengelytől számított 50 méteren belül a (4) bekezdés szerinti engedély a (7) bekezdésben foglaltak szerint adható ki. Az (1) bekezdés szerint védett terület fennmaradó részén a közlekedési hatóság az építtető hozzájárulásával megadhatja a (4) bekezdés szerinti engedélyt, ha a tevékenység értéknövekedést nem eredményez, vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy az autópálya építtetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
 
 (8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően jogerősen engedélyezett építési munkákra.
 
@@ -165,7 +167,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére fővárosi és megyei kormányhivatal állapítja meg a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keret terhére. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
 
-(11) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – településrendezési eszközeikben figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett kormányrendelet hatálybalépésétől számított hat hónapon belül a települési rendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből [3. § (1) bekezdés] biztosítja az önkormányzatok számára.
+(11) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – településrendezési eszközeikben figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett kormányrendelet hatálybalépésétől számított hat hónapon belül a települési rendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből biztosítja az önkormányzatok számára.
 
 ### III/A. Fejezet — Cél-kitermelőhelyek létesítésének, üzemeltetésének, megszüntetésének és hatósági felügyeletének különös szabályai
 
@@ -279,8 +281,8 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 (6) Felhatalmazás kap a Kormány, hogy
 
 - a) a 6. § (2) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket,
-- b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély jogerőre emelkedését követően a gyorsforgalmi út nyomvonalát,
-- c) a b) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát,
+- b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély jogerőre emelkedését követően a gyorsforgalmi út nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
+- c) a b) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
 - d) a 9. § (1) és (2) bekezdése szerinti szervek kijelölését rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap a miniszter, hogy

@@ -177,6 +177,14 @@ a termőföld védelméről
 
 8/A. § Földvédelmi szakkérdés vizsgálata során a 8. § (1)–(3) bekezdésében foglaltakat alkalmazni kell.
 
+8/B. § (1) Ha a termőföld végleges más célú hasznosításával járó tervezett beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő üggyé nyilvánította, és a beruházó – a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvényben meghatározottak szerint – a földvédelmi eljárás lefolytatását a környezeti hatásvizsgálati eljárás keretében kéri lefolytatni, az ingatlanügyi hatóságnak a termőföld végleges más célú hasznosításának engedélyezéséről szóló döntését a környezetvédelmi engedélyezési eljárás keretében kiadott szakhatósági állásfoglalása pótolja azzal, hogy a 22. § (1) bekezdésében foglaltaktól eltérően a szakhatósági hozzájárulás és így a környezetvédelmi engedély részét nem képezi a földvédelmi járulék összegének a megállapításáról és megfizetéséről szóló rendelkezés.
+
+(2) Ha az (1) bekezdésben meghatározott esetben az ingatlanügyi hatóság szakhatósági hozzájárulást bocsátott ki, a beruházó – a 10/A. § (2) bekezdésében meghatározottak szerint – a termőföld más célú hasznosításának a megkezdése előtt legalább 15 nappal köteles az ingatlanügyi hatóságnak bejelenteni a más célú hasznosítással érintett földrészletek listáját – a település, fekvés és helyrajzi szám megjelölésével –, továbbá a bejelentéshez csatolni kell a 12. § (2) bekezdés a) pontja szerinti területkimutatást. A bejelentésben továbbá meg kell jelölni annak a kormányrendeletnek a számát, amely a beruházást nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánította, valamint annak a környezetvédelmi engedélynek az ügyszámát, amelynek részét képezi a termőföld végleges más célú hasznosításának az engedélyezése.
+
+(3) Az ingatlanügyi hatóság a (2) bekezdés szerinti bejelentés alapján – a bejelentés beérkezését követő 15 napon belül – a földvédelmi járulék összegének megállapításáról és megfizetéséről önálló határozatban rendelkezik a termőföld végleges más célú hasznosításának engedélyezése esetére irányadó szabályok szerint.
+
+(4) Az ingatlanügyi hatóság földvédelmi bírsággal sújtja a beruházót, ha a (2) bekezdésben meghatározott bejelentési kötelezettségét elmulasztja.
+
 ### A termőföld (időleges, illetőleg végleges) más célú hasznosítására vonatkozó közös szabályok
 
 9. § (1) Termőföld más célú hasznosításának minősül:
@@ -212,7 +220,7 @@ céljából veszik igénybe.
 
 11. § (1) Termőföldet más célra csak kivételesen – elsősorban a gyengébb minőségű termőföld igénybevételével – lehet felhasználni.
 
-(2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetőleg helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető.
+(2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, amennyiben annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.
 
 (3) A (2) bekezdés alkalmazása szempontjából helyhez kötött igénybevételnek kell tekinteni különösen
 
@@ -613,7 +621,8 @@ bejelentését;
 - e) az időleges más célú hasznosítást követően a termőföldet
   - ea) az ingatlan-nyilvántartás szerinti minőségi osztálynál alacsonyabb minőségi osztályú termőföldként teszi termelésre alkalmassá;
   - eb) a határozatban megállapított határidő eltelte után teszi termelésre alkalmassá;
-- f) a termőföldet engedély nélkül hasznosítja más célra.
+- f) a termőföldet engedély nélkül hasznosítja más célra;
+- g) a 8/B. § (2) bekezdésében meghatározott bejelentési kötelezettségét elmulasztja.
 
 (2) Engedély nélküli más célú hasznosítás esetén a bírság megállapításáról
 
@@ -1176,7 +1185,7 @@ a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2
 
 - 1. A bírság összegét az alábbi módon kell megállapítani, azzal, hogy a bírság összege 20 000 forintnál nem lehet kevesebb.
 - 2. A bírság
-- 2.1. a 24. § (1) bekezdés a) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezerszerese;
+- 2.1. a 24. § (1) bekezdés a) és g) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezerszerese;
 - 2.2. a 24. § (1) bekezdés b)–d) pontjában foglalt esetekben 20 000 forint azzal, hogy a bírság összegét a 24. § (1) bekezdés b) pont ba) alpontja esetén földrészletenként kell megállapítani;
 - 2.3. a 24. § (1) bekezdés e) pont ea) alpontjában foglalt esetben, ha a termelésbe visszabocsátott termőföld minőségi osztálya az ingatlan-nyilvántartás szerintinél
   - a) egy osztállyal gyengébb, akkor a két minőségi osztály szerint számított földvédelmi járulék különbözetének háromszorosa;
