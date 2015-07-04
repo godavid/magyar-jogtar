@@ -212,7 +212,7 @@ vizsgálja.
 
 - a) a 7/T. § szerinti, illetve EMGA utólagos ellenőrzés kapcsolódó vizsgálata esetén a 7/X. § (2)–(4) bekezdése szerinti kiegészítő ellenőrzést rendelhet el, vagy
 - b) az észrevételben foglalt ügyféli bizonyítási indítvány elutasítását indokolja,
-- c) az észrevételben foglaltakkal való egyetértése estén módosítja a jegyzőkönyvet és az utólagos ellenőrzés lezárásáról rendelkezik.
+- c) az észrevételben foglaltakkal való egyetértése esetén kiegészíti a jegyzőkönyvet és az utólagos ellenőrzés lezárásáról rendelkezik.
 
 (6) Az utólagos ellenőrzés megállapításai alapján a vámhatóság megfelelő határidő tűzésével elrendelheti, hogy az ügyfél iratait, nyilvántartásait a jogszabályokban foglalt előírásoknak megfelelően rendezze, pótolja. Amennyiben az ügyfél ennek határidőn belül nem tesz eleget, a vámhatóság vámigazgatási bírságot szab ki.
 
@@ -259,6 +259,8 @@ vizsgálja.
 
 (2) Az (1) bekezdés c) pontjában meghatározott felülellenőrzés nem indítható, ha az elrendelés feltételeinek tudomásra jutásától számított 6 hónap eltelt.
 
+(3) Az (1) bekezdés vonatkozásában a 7/C. § (1) bekezdés c) pontjával egy tekintet alá esik a 2015. január 1-jét megelőzően hatályos 1. § (3) bekezdés 7. pontjában meghatározott, valamint a 2015. január 1-jét követően hatályos 7–7/K. § alapján megkezdett utólagos ellenőrzés.
+
 ### Különös hatáskör az utólagos ellenőrzési eljárásban
 
 7/J. § (1) Az Európai Unió pénzügyi érdekeit, valamint Magyarország központi költségvetését különösen veszélyeztető jogsértések felderítése, illetve a jogszerű állapot helyreállítása érdekében a vámhatóság alsó fokú szerve az állami adó- és vámhatóság vezetőjének saját hatáskörében vagy más hatóság megkeresésére kiadott utasítása alapján Magyarország területén a (2) bekezdésben meghatározott okból utólagos ellenőrzést végezhet, kezdeményezhet, megkezdett utólagos ellenőrzést magához vonhat (a továbbiakban: központosított ellenőrzés).
@@ -283,11 +285,11 @@ vizsgálja.
 
 (6) Ha az ügyfél az utólagos ellenőrzést a megjelenési kötelezettség elmulasztásával, az együttműködési kötelezettség megsértésével vagy más módon akadályozza, az akadály fennállásának időtartama, de legfeljebb 90 nap az utólagos ellenőrzés határidejébe nem számít bele. A vámhatóság az akadály fennállásának időtartama alatt az utólagos ellenőrzést folytathatja. A vámhatóság az akadály észlelését követően haladéktalanul kötelezi az ügyfelet az akadály megszüntetésére.
 
-(7) Ha a vámhatóság a tényállás tisztázása érdekében külföldi hatóságot keres meg, az ügyfél megkeresésről történő értesítésének postára adásától, a postai kézbesítés mellőzése esetén az értesítés átadásának napjától a külföldi hatóság válaszának az ellenőrzést folytató vámszervhez való megérkezésétől számított 8. napig eltelt időtartamot az utólagos ellenőrzés határidejének számításánál figyelmen kívül kell hagyni.
+(7) Ha a vámhatóság a tényállás tisztázása érdekében külföldi hatóságot keres meg, az ügyfél megkeresésről történő értesítésének postára adásától, a postai kézbesítés mellőzése esetén az értesítés átadásának napjától a külföldi hatóság válaszának az ellenőrzést folytató vámszervhez való megérkezésétől számított 8. napig eltelt időtartamot az utólagos ellenőrzés határidejének számításánál figyelmen kívül kell hagyni. Ha a külföldi hatóság a megkeresésétől számított 1 éven belül nem válaszol, az ellenőrzési határidő szünetelésének utolsó napja a külföldi hatóság megkeresésének postára adása napjától számított 1 év.
 
-(8) A vámhatóság a külföldi hatóság megkeresésének időtartama alatt az utólagos ellenőrzést folytathatja. A vámhatóság az ügyfelet a külföldi hatóság megkereséséről és a külföldi hatóság válaszának az utólagos ellenőrzést lefolytató vámszervhez történő megérkezéséről 5 napon belül értesíti.
+(8) A vámhatóság a külföldi hatóság megkeresésének időtartama alatt az utólagos ellenőrzést folytathatja és az utólagos ellenőrzés befejezhető a megkereséssel nem érintett tárgykörben, ha a tényállás e tekintetben tisztázott. A megkereséssel érintett tárgykörben a vámhatóság az ügyfelet a külföldi hatóság megkereséséről és a külföldi hatóság válaszának az utólagos ellenőrzést lefolytató vámszervhez történő megérkezéséről 5 napon belül értesíti.
 
-(9) Amennyiben a külföldi hatóság a megkeresésétől számított 1 éven belül nem válaszol, az utólagos ellenőrzés a válasz hiányában is befejezhető a megkereséssel nem érintett tárgykörben, ha a tényállás e tekintetben tisztázott. Ebben az esetben az ellenőrzési határidő szünetelésének utolsó napja a külföldi hatóság megkeresésének postára adásának napjától számított 1 év. A megkereséssel érintett tárgykörben a külföldi hatóságnak az utólagos ellenőrzés befejezését követően megérkező válasza esetén, szükség szerint ismételt ellenőrzés végezhető.
+(9) Amennyiben a külföldi hatóság a megkeresésétől számított 1 éven belül nem válaszol, az utólagos ellenőrzést a szünetelés befejeződésétől számított nyitva álló határidőn belül le kell zárni a megkereséssel érintett tárgykörben is, és a megkereséssel érintett tárgykörben a külföldi hatóságnak az utólagos ellenőrzés befejezését követően megérkező válasza esetén, szükség szerint ismételt ellenőrzés végezhető.
 
 (10) Az utólagos ellenőrzés során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek az ügyintézési határidőbe nem beszámítható időtartamra vonatkozó rendelkezését alkalmazni kell.
 
@@ -421,7 +423,7 @@ vizsgálja.
 
 (4) Az utólagos ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött ügyféllel közölni kell. Az utólagos ellenőrzés a jegyzőkönyv átadásával befejeződik. Amennyiben a jegyzőkönyv közlése kézbesítéssel történik, az utólagos ellenőrzés a postára adás napjával zárul.
 
-(5) Részjegyzőkönyvet kell készíteni azon megállapítással összefüggésben, amelynél az eljárás a vámkódex 221. cikk (3) bekezdése alapján az Európai Unió pénzügyi érdekeit vagy a közteherviselési kötelezettség teljesítését veszélyezteti. A részjegyzőkönyvre a jegyzőkönyvre vonatkozó szabályokat kell alkalmazni.
+(5) Részjegyzőkönyvet kell készíteni azon megállapítással összefüggésben, amelynél az eljárás a vámkódex 221. cikk (3) bekezdése alapján az Európai Unió pénzügyi érdekeit vagy a közteherviselési kötelezettség teljesítését veszélyezteti, továbbá, ha a tényállás az utólagos ellenőrzéssel érintett ügyletek, vámáru-nyilatkozatok vagy az ügyfél külkereskedelmi tevékenysége egy részével kapcsolatban megfelelően tisztázásra került. A részjegyzőkönyvre a jegyzőkönyvre vonatkozó szabályokat kell alkalmazni.
 
 (6) Az utólagos ellenőrzésről készült jegyzőkönyv megállapításaival kapcsolatban az ellenőrzött ügyfél észrevételt tehet, amelyet az utólagos ellenőrzést végző vámszervnél a közléstől számított 15 napos jogvesztő határidőn belül nyújthat be.
 
@@ -439,7 +441,7 @@ vizsgálja.
 - b) a jogszabályban meghatározottnál magasabb összegben beszedett vám és nem közösségi adók és díjak visszafizetésére, valamint a jogszabályban meghatározottnál magasabb összegben könyvelésbe vett és megállapított – de még meg nem fizetett – vám és nem közösségi adók és díjak elengedésére,
 - c) az utólagos ellenőrzés során feltárt jogsértés jogkövetkezményének megállapítására,
 - d) a vám- és más jogszabályokban előírt kötelezettségek teljesítésének megállapítására,
-- e) az ismételt ellenőrzés tilalmának megállapítására.
+- e) az ellenőrzéssel lezárt vámeljárás, illetve ellenőrzéssel lezárt időszak megállapítására.
 
 (2) Az utólagos ellenőrzést követő hatósági eljárást az utólagos ellenőrzést végző vámszerv folytatja le. Amennyiben az utólagos ellenőrzés valamely tevékenység végzésére vonatkozó vámhatósági engedéllyel összefüggő megállapítást tesz, az utólagos ellenőrzést követő hatósági eljárás során az ellenőrzést végző vámszerv a jegyzőkönyv és a megállapítással összefüggő észrevétel megküldésével tájékoztatja az engedélyező vámszervet a további szükséges intézkedések megtétele érdekében.
 
@@ -447,7 +449,7 @@ vizsgálja.
 
 (4) A hatósági eljárás ügyintézési határideje 60 nap, amelyet a hatósági eljárást végző vámszerv vezetője egyszer, legfeljebb 30 napig terjedő időtartammal meghosszabbíthat.
 
-(5) Az utólagos ellenőrzés eredményeképpen hozott határozat ellen benyújtott fellebbezés esetén a határozat meghozatalára nyitva álló határidő az iratoknak a felettes szervhez történő megérkezésétől számított 60 nap, amely legfeljebb 30 nappal hosszabbítható meg.
+(5) Az utólagos ellenőrzés eredményeképpen hozott határozat ellen benyújtott fellebbezés esetén a döntés meghozatalára nyitva álló határidő az iratoknak a felettes szervhez történő megérkezésétől számított 60 nap, amely legfeljebb 30 nappal hosszabbítható meg.
 
 (6) Az utólagos ellenőrzést követő hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek az ügyintézési határidőbe nem beszámítható időtartamra vonatkozó rendelkezését alkalmazni kell.
 
@@ -1124,7 +1126,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 ### Jogorvoslat
 
-60. § (1) A vámhatóság a jogszabálysértő határozatát – amennyiben azt a vámhatóság másodfokú szerve vagy bíróság nem bírálta el – a vám- és adójogszabályokban meghatározott elévülési időn belül módosíthatja vagy visszavonhatja.
+60. § (1) A vámhatóság a jogszabálysértő határozatát – amennyiben azt a vámhatóság másodfokú szerve vagy bíróság nem bírálta el – a vám- és adójogszabályokban meghatározott elévülési időn belül több alkalommal is módosíthatja vagy visszavonhatja.
 
 (2) Amennyiben a jogorvoslati kérelemmel megtámadott határozat részben jogszabálysértő, a fellebbezés elbírálására jogosult hatóság – amennyiben az ügy körülményei ezt lehetővé teszik – csak a jogszabálysértő megállapítások tekintetében semmisíti meg a határozatot, egyebekben azt helybenhagyja vagy megváltoztatja.
 
@@ -1201,9 +1203,9 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 (10) A vámigazgatási bírságot – a fizetésre kötelezett kérelmére – a külön jogszabályban meghatározott vámszerv elengedheti vagy mérsékelheti, ha
 
-- a) a fizetésre kötelezettel szemben három éven belül vámigazgatási bírság kiszabására nem került sor, és
+- a) a fizetésre kötelezettel szemben a vámigazgatási bírságot kiszabó döntés jogerőre emelkedésének napját megelőző három éven belül vámigazgatási bírság kiszabására nem került sor, és
 - b) a vámigazgatási bírság megfizetése a fizetésre kötelezett és vele egy háztartásban élő és eltartásra szoruló közeli hozzátartozói megélhetését, illetve a kereskedelmi forgalommal kapcsolatban a szervezet tevékenységének folyamatosságát súlyosan veszélyeztetné,
-- c) az utólagos ellenőrzés alkalmazásában – az a)–b) pontban foglaltak figyelmen kívül hagyásával – a fizetésre kötelezett vizsgálati időszakban nyilvántartott vámigazgatási bírságainak összege nem haladja meg az ezen időszakban kiszabott vámtartozás összegének három százalékát.
+- c) az utólagos ellenőrzés alkalmazásában – az a)–b) pontban foglaltak figyelmen kívül hagyásával – az utólagos ellenőrzéssel összefüggésben hozott, vámigazgatási bírságot kiszabó döntés jogerőre emelkedésének napját megelőző három évben a fizetésre kötelezett nyilvántartott vámigazgatási bírságainak összege nem haladja meg az ezen időszakban kiszabott vámtartozás összegének három százalékát.
 
 (11) Nincs helye a bírság elengedésének, mérséklésének, ha a vámhiány a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
 
@@ -1213,7 +1215,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 ### KORREKCIÓS PÓTLÉK
 
-61/B. § (1) Ha a nyilatkozattevő a vámkódex 78. cikk (1) bekezdése alapján, még a 7/C. § (1) bekezdés b)–c) pontja szerinti utólagos ellenőrzés kezdete előtt kérelmezi a vámáru-nyilatkozat módosítását, korrekciós pótlékot fizet, feltéve hogy az utólagos könyvelésbe vétel, illetve a nem közösségi adók és díjak utólagos kiszabása nem a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
+61/B. § (1) Ha a nyilatkozattevő a vámkódex 78. cikk (1) bekezdése alapján, még a 7/C. § (1) bekezdés b)–c) pontja szerinti utólagos ellenőrzés kezdete előtt kérelmezi a vámáru-nyilatkozat módosítását vagy ismételt ellenőrzésre a 7/H. § (1) bekezdés b) pontja alapján kerül sor, korrekciós pótlékot fizet, feltéve hogy az utólagos könyvelésbe vétel, illetve a nem közösségi adók és díjak utólagos kiszabása nem a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
 
 (2) A korrekciós pótlékot az utólagosan könyvelésbe vett vámösszeg, illetve kiszabott nem közösségi adó és díj összege után a vámhatóság állapítja meg, és a vámáru-nyilatkozat módosításáról hozott határozatában közli az adóssal.
 

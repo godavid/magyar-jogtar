@@ -6,7 +6,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 ### Általános rendelkezések
 
-1. § (1) E törvény hatálya a reklámozóként, reklámszolgáltatóként vagy reklám közzétevőként végzett gazdasági reklámtevékenységre, a szponzorálásra, valamint az ezek tekintetében alkalmazott magatartási kódexekre terjed ki.
+1. § (1) E törvény hatálya a reklámozóként, reklámszolgáltatóként vagy reklám közzétevőjeként végzett gazdasági reklámtevékenységre, a szponzorálásra, a reklámközvetítésre, a médiahirdetési felületek (reklámhelyek) értékesítésére, valamint az ezek tekintetében alkalmazott magatartási kódexekre terjed ki.
 
 (2) Törvény vagy az annak végrehajtására kiadott jogszabály az egyes árukra vonatkozó vagy az egyes kommunikációs eszközök útján megvalósuló gazdasági reklámtevékenységre külön szabályokat állapíthat meg. Ha a külön törvény eltérően nem rendelkezik, az ilyen szabályok megsértésére e törvény rendelkezéseit megfelelően alkalmazni kell.
 
@@ -23,7 +23,8 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 - e) gyermekkorú: aki a tizennegyedik életévét nem töltötte be,
 - f) közzététel: a reklám megismerhetővé tétele, akár nagyobb nyilvánosság, akár egyedi címzett számára,
 - g) magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el,
-- h)–i)
+- h) reklámközvetítés: reklámozóval kötött közvetítői szerződés alapján, a reklám közzétételére irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ide nem értve a reklámszolgáltatási tevékenységet,
+- i) reklámközvetítő: reklámközvetítést végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 - j) reklám címzettje: aki felé a reklám irányul, illetve akihez a reklám eljut,
 - k) reklám közzétevője: aki a reklám közzétételére alkalmas eszközökkel rendelkezik és ezek segítségével a reklámot megismerhetővé teszi,
 - l) reklámozó: akinek érdekében a reklámot közzéteszik, illetve aki a reklámot megrendeli,
@@ -32,7 +33,8 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 - o) szabadtéri reklámhordozó: reklám közzététele céljából építményen kívül elhelyezett eszköz,
 - p) szponzorálás: minden olyan hozzájárulás valamely rendezvényhez, tevékenységhez, továbbá – rendezvénnyel vagy tevékenységgel összefüggésben – valamely személy számára, amelynek célja, illetve közvetlen vagy közvetett hatása valamely áru vásárlásának vagy igénybevételének ösztönzése,
 - q) tudatosan nem észlelhető reklám: olyan reklám, amelynek közzétételekor – az időtartam rövidsége vagy más ok következtében – a reklám címzettjére lélektani értelemben a tudatos észleléshez szükséges ingerküszöbnél kisebb erősségű látvány, hang- vagy egyéb hatás keltette inger hat,
-- r) vállalkozás: aki önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el.
+- r) vállalkozás: aki önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el,
+- s) médiahirdetésifelület-értékesítő: a reklám közzétevőjének megbízása alapján eljáró természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely a reklám közzétevője nevében hirdetési felületet értékesít a reklámközvetítő, illetve a reklámozó felé.
 
 4. § Magatartási kódex nem ösztönözhet olyan magatartásra, amely e törvény rendelkezéseibe ütközik.
 
@@ -43,6 +45,53 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 (3) A reklámszolgáltató, illetve a reklám közzétevője köteles az (1) bekezdésben meghatározott adatokról, valamint a (2) bekezdés szerinti nyilatkozatokról nyilvántartást vezetni, és azt a reklám közzétételétől számított öt évig megőrizni.
 
 (4) A szabadtéri reklámhordozón a reklám közzétevője köteles azonosítható módon feltüntetni a cégnevét, illetve nevét, továbbá a székhelyét, illetve lakóhelyét.
+
+5/A. § A reklámközvetítői szerződésekre a Polgári Törvénykönyvről szóló törvény közvetítői szerződésre vonatkozó rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+
+5/B. § (1) A reklámközvetítésre vonatkozó szerződést és a reklám közzétételére irányuló szerződést írásba kell foglalni. E törvény alkalmazásában írásbeli szerződésnek minősül az elektronikus úton kötött szerződés abban az esetben is, ha azt a felek nem látták el elektronikus aláírással.
+
+(2) A reklámközvetítő és a reklámozó a reklámközvetítésre vonatkozó szerződésben megállapodhatnak abban, hogy a reklámközvetítő képviseleti joga a reklám közzétételére irányuló szerződésnek a reklámozó nevében történő megkötésére, annak módosítására és a teljesítés elfogadására is kiterjed.
+
+(3) A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő legkésőbb a reklám közzétételére irányuló szerződés megkötését követő hónap utolsó napjáig a reklámozó felhívására beszámol a reklámozónak a reklám közzétételének körülményeiről. Ha a reklám terjesztési feltételeinek módosítására van szükség, a reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő előzetesen értesíti a reklámozót. A reklám terjesztési feltételeinek módosításához a reklámozó beleegyezése szükséges. A reklám közzétevője vagy a médiahirdetésifelület-értékesítő a végrehajtott változtatásokról beszámol a reklámozónak.
+
+(4) Ha a reklám közzétételére vonatkozó szerződés a reklámközvetítő közvetítésével került megkötésre, a reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a (3) bekezdés szerinti értesítési és beszámolási kötelezettségének a reklámközvetítő értesítésével vagy a reklámközvetítő számára történő beszámolással is eleget tehet.
+
+(5) A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a szolgáltatásról kiállított számlát a vele a reklám közzétételére szerződő fél nevére állítja ki. A számlán valamennyi alkalmazott árengedményt fel kell tüntetni. A pénzügyi teljesítés határideje a számla kézhezvételét követő harmincadik nap.
+
+5/C. § (1) A reklámközvetítő a reklám közzétevőjétől vagy más személytől a reklámközvetítés során vagy a reklámközvetítési tevékenységével összefüggésben közvetve vagy közvetlenül – a reklámközvetítési tevékenységre vonatkozó díjon felül – ajándékot, a reklám közzétevőjétől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől kapott árengedmény kivételével vagyoni előnyt vagy más juttatást nem fogadhat el.
+
+(2) A kapott árengedményt
+
+- a) a médiahirdetésifelület-értékesítő a reklámközvetítő és a reklámozó javára,
+- b) a reklámközvetítő a reklámozó javára
+
+köteles teljes mértékben érvényesíteni.
+
+(3) A reklámközvetítő a reklámozótól díjra jogosult, amelynek mértéke a reklám közzétételi díjának 15%-a.
+
+5/D. § (1) Az a reklámszolgáltató, aki a reklám közzététele tekintetében tervezési, tanácsadási vagy a reklám közzétételére alkalmas eszköz kiválasztására – ide nem értve a reklámközvetítést – vonatkozó szolgáltatást nyújt, a reklám közzétételére alkalmas eszközzel rendelkező személytől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől ajándékot, árengedményt, kedvezményt, vagyoni előnyt vagy más juttatást nem fogadhat el.
+
+(2) Az (1) bekezdés szerinti reklámszolgáltató és a reklámközvetítő köteles tájékoztatni az általa nyújtott szolgáltatás igénybevevőjét arról, ha
+
+- a) a reklámszolgáltató, illetve a reklámközvetítő vagy a többségi befolyása alatt álló gazdálkodó szervezet tulajdoni részesedéssel rendelkezik a reklám közzétételére alkalmas eszközzel rendelkező gazdálkodó szervezetben vagy a nevében eljáró médiahirdetésifelület-értékesítőben vagy
+- b) a reklám közzétételére alkalmas eszközzel rendelkező gazdálkodó szervezet vagy a nevében eljáró médiahirdetésifelület-értékesítő rendelkezik tulajdoni részesedéssel az (1) bekezdés szerinti reklámszolgáltatóban vagy reklámközvetítőben.
+
+(3) A (2) bekezdés szerinti tájékoztatásnak ki kell terjednie
+
+- a) annak a gazdálkodó szervezetnek vagy a nevében eljáró médiahirdetésifelület-értékesítőnek a nevére, amelyben az (1) bekezdés szerinti reklámszolgáltató, reklámközvetítő tulajdoni részesedéssel rendelkezik, vagy
+- b) annak a reklám közzétételére alkalmas eszközzel rendelkező gazdálkodó szervezetnek vagy a nevében eljáró médiahirdetésifelület-értékesítőnek a nevére, amely az (1) bekezdés szerinti reklámszolgáltatóban, reklámközvetítőben tulajdoni részesedéssel rendelkezik, és
+- c) a tulajdoni részesedés mértékére.
+
+(4) A reklámközvetítő nem működhet közre olyan, a reklám közzétételére irányuló szerződés megkötésében, amelyben olyan médiahirdetésifelület-értékesítő is közreműködik,
+
+- a) amelyben a reklámközvetítő vagy
+- b) amely a reklámközvetítőben
+
+közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
+
+5/E. § A reklámközvetítő nem minősül a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti kereskedelmi ügynöknek.
+
+5/F. § Az 5/C. § és az 5/D. § (1) és (4) bekezdésének megsértése esetén a fogyasztóvédelmi hatóság jár el, a fogyasztóvédelmi bírság összege az elért vagyoni előny tízszerese. A fogyasztóvédelmi bírságot azzal szemben kell kiszabni, akinél a vagyoni előny jelentkezik.
 
 6. § (1) Ha külön törvény eltérően nem rendelkezik, reklám természetes személynek mint reklám címzettjének közvetlen megkeresése módszerével (a továbbiakban: közvetlen üzletszerzés), így különösen elektronikus levelezés vagy azzal egyenértékű más egyéni kommunikációs eszköz útján – a (4) bekezdésben meghatározott kivétellel – kizárólag akkor közölhető, ha ahhoz a reklám címzettje előzetesen egyértelműen és kifejezetten hozzájárult.
 
