@@ -614,6 +614,8 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 (9) A (7) bekezdés szerinti, adózó nevében eljáró személyek addig az időpontig teljesíthetnek bejelentést, amíg az adózó, vagy annak törvényes képviselője vagy állandó meghatalmazottja az EKAER elektronikus felületén vissza nem vonja az erre vonatkozó jogosultságukat.
 
+(10) E §, valamint az e törvény végrehajtására kiadott miniszteri rendelet által kockázatosnak minősített termékek vonatkozásában a Kereskedelmi Vámtarifa (vtsz.) tekintetében az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak az irányadók.
+
 ### A változás bejelentése
 
 23. § (1) Az adózónak az adókötelezettségét érintő olyan változást – a megváltozott természetes személyazonosító adatok, lakcím és a 22. § (2) bekezdésében foglaltak kivételével –, amelyről a cégbíróság, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság, alapítvány, egyesület esetében a bíróság külön jogszabály alapján az adóhatóságot nem köteles értesíteni, annak bekövetkezésétől számított 15 napon belül az előírt nyomtatványon közvetlenül az állami adó- és vámhatóságnak, illetve az önkormányzati adóhatóságnak kell bejelentenie.
@@ -3749,7 +3751,7 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 
 (12) A (11) bekezdésben említett munkáltató és a kifizető külön törvény alapján a kincstárral szembeni elszámolásában a kifizetést terhelő adóról (adóelőlegről) az elszámolt hónapot (kifizetést) követő hó 20-áig adatot szolgáltat az állami adóhatóságnak.
 
-(13) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény kivételével az adótörvények alkalmazásában, az általános forgalmi adó esetében a hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában
+(13) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény, valamint a 22/E. § kivételével az adótörvények alkalmazásában, az általános forgalmi adó esetében a hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában
 
 - a) a Kereskedelmi Vámtarifa (vtsz.) 2002. év július hó 31. napján hatályos,
 - b) a Központi Statisztikai Hivatal Építményjegyzékének (ÉJ) 2002. év július hó 31. napján érvényes,
@@ -3851,7 +3853,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - a) a külön jogszabály szerint pénztárgép használatra kötelezett, vagy
 - b) a külön jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó.
 
-176/H. § (1) A hatósági árat a legmagasabb árnak kell tekintetni.
+176/H. § (1) A hatósági ár az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 

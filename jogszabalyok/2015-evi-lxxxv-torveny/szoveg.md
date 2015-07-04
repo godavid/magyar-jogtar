@@ -266,44 +266,68 @@ lép.
 
 212–219. §
 
-220. §
+220. § A Hpt. 211. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az OBA feladata)
+
+„a) a betétes magyar nyelvű tájékoztatása,”
 
 221. §
 
-222. §
+222. § A Hpt. 217. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az OBA
+
+a) a hitelintézet tevékenységi engedélye 33. § (1) bekezdésében meghatározott visszavonásáról hozott határozat közzétételének,
+
+b) a Felügyelet a Szhitv. 17/T. § (5) bekezdése alapján hozott határozata közlésének vagy
+
+c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
+
+időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését.”
 
 223. §
 
 224–225. §
 
-226. §
+226. § A Hpt. 232. § (2)–(4) bekezdései helyébe a következő rendelkezések lépnek:
 
-227. § (1)
+„(2) Az OBA kölcsönt vehet fel
+
+a) a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása érdekében az MNB-től, illetve
+
+b) a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása, valamint az a) pont szerinti kölcsön visszafizetése érdekében hitelintézettől.
+
+(3) Az OBA a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása, valamint a (2) bekezdés szerinti kölcsönök visszafizetése érdekében kötvényt bocsáthat ki.
+
+(4) Az állam készfizető kezesként felel az OBA azon fizetési kötelezettségeiért, amelyek a (2) bekezdés szerinti kötelezettségei teljesítése érdekében felvett – az államháztartásért felelős miniszter által jóváhagyott összegű – kölcsöneiből és kötvénykibocsátásából erednek. Az OBA kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az OBA-nak kezességvállalási díjat nem kell fizetnie.”
+
+227. § (1) A Hpt. 234. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Az OBA az általa a 232. § (2) bekezdése szerint felvett kölcsön visszafizetése és a 232. § (3) bekezdése alapján kibocsátott kötvény visszaváltása érdekében a hitelintézetek számára egységes elvek szerint megállapított – az (1) bekezdés szerinti éves díjfizetési kötelezettségen felül teljesítendő – rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség éves mértéke – a díjfizetési kötelezettség (2) bekezdésben meghatározott mértékén felül – nem haladhatja meg egyetlen hitelintézet esetében sem a díjfizetési alap 0,5%-át. Ha az OBA által felvett kölcsön vagy az általa kibocsátott kötvény összege meghaladja a kártalanítási kötelezettségének hatálya alá tartozó betétállomány 0,8%-át, a Felügyelet jóváhagyásával magasabb összegű befizetéseket is előírhat.”
 
 (2)
 
 228. §
 
-229. §
+229. § A Hpt. 272. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást az ügyfél számára világos és érthető módon – a felek eltérő megállapodásának hiányában – magyar nyelven vagy magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén adja meg, amelyben a fióktelepet létrehozták, magyarországi székhelyű hitelintézet határon átnyúló szolgáltatása esetén pedig azon a nyelven, amelyről a betétes és a hitelintézet a betét elhelyezésekor vagy a szerződés megkötésekor megállapodott.”
 
 230–231. §
 
-232. § A Hpt. 281. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A hitelintézet csak akkor köthet betétszerződést (szolgáltathat ki betétokiratot), ha a szerződés tartalmazza a 213. § (1) bekezdésében foglalt rendelkezésekre történő figyelemfelhívást.”
+232. §
 
 233–234. §
 
-235. § A Hpt. 304/C. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 87. § (2) bekezdésében megállapított 272. § (3) bekezdésében foglaltaknak a 2015. július 3-án már fennálló betétszerződés, betét elhelyezését lehetővé tevő szerződés vagy keretszerződés esetén a hitelintézet a 275. § (6) bekezdésben meghatározott, 2015. július 3-át követő első éves tájékoztatási kötelezettsége teljesítésével tesz eleget azzal, hogy ebben az esetben nem szükséges, hogy a betétes a 6. melléklet szerinti tájékoztatás megtörténtét aláírásával igazolja.”
+235. §
 
 236. §
 
 237. § A Hpt.
 
 - a)–e)
-- f)
+- f) 211. § (1) bekezdés b) pontjában az „a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény” szövegrészek helyébe az „a Szhitv.” szöveg
 
 lép.
 

@@ -8,12 +8,14 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 ### Hadigondozottak
 
-1. § E törvényben megállapított feltételek alapján hadigondozásra jogosult az a Magyarországon élő magyar állampolgár, aki
+1. § E törvényben megállapított feltételek alapján hadigondozásra jogosult az a magyar állampolgár, aki
 
 - a) katonai szolgálat;
 - b) kötelező katonai előképzés;
 - c) légitámadás és hadművelet;
-- d) visszamaradt robbanóanyag felrobbanása (a továbbiakban együtt: szolgálat) során vagy következtében (a továbbiakban: következtében) testi épségének vagy egészségének károsodása folytán hadieredetű fogyatkozást szenvedett (a továbbiakban: hadirokkant), továbbá akit hadigyámoltként, hadiözvegyként, hadiárvaként, illetőleg hadigondozott családtagként kell gondozásba venni. (A továbbiakban együtt: hadigondozott.)
+- d) visszamaradt robbanóanyag felrobbanása
+
+(a továbbiakban együtt: szolgálat) során vagy következtében (a továbbiakban: következtében) testi épségének vagy egészségének károsodása folytán hadieredetű fogyatkozást szenvedett (a továbbiakban: hadirokkant), továbbá akit hadigyámoltként, hadiözvegyként, hadiárvaként, hadigondozott családtagként, a 14/A. § szerinti volt hadiárvaként, a 15/A. § szerinti volt hadigyámoltként vagy volt hadigondozott családtagként kell gondozásba venni. (A továbbiakban együtt: hadigondozott.)
 
 ### Fogalommeghatározások
 
@@ -52,7 +54,7 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 ### Hadiözvegy
 
-5. § (1) Hadiözvegy a szolgálat következtében meghalt személy özvegye. Hadiözvegy továbbá a hadirokkantként hadigondozásba vett személy özvegye is, ha a házasságot a hadieredetű sérülés bekövetkezte előtt kötötték, vagy a házastárs halálakor már legalább 5 éve együtt éltek, vagy házasságukból gyermek született.
+5. § (1) Hadiözvegy a szolgálat következtében meghalt személy – katonai szolgálat esetén a Magyarország területéről katonai szolgálatra bevonult és a katonai szolgálat következtében meghalt személy – özvegye. Hadiözvegy továbbá a hadirokkantként hadigondozásba vett személy özvegye is, ha a házasságot a hadieredetű sérülés bekövetkezte előtt kötötték, vagy a házastárs halálakor már legalább 5 éve együtt éltek, vagy házasságukból gyermek született.
 
 (2) A külön élő, illetőleg az elvált házastárs hadiözvegy, amennyiben a bíróság a házastársát tartásdíj fizetésére kötelezte.
 
@@ -65,6 +67,14 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 ### Hadigondozott családtag
 
 7. § Hadigondozott családtag a szolgálat következtében meghalt személynek, illetőleg a hadirokkantnak az általa életében ténylegesen eltartott, 60. évét betöltött, vagy legalább 67%-ban csökkent munkaképességű, illetve legalább 50%-os egészségkárosodású szülője, nagyszülője, testvére és féltestvére.
+
+### Volt hadiárva, volt hadigyámolt és volt hadigondozott családtag
+
+7/A. § (1) Volt hadiárva, akit a szolgálat következtében meghalt szülője – katonai szolgálat esetén a Magyarország területéről katonai szolgálatra bevonult és a katonai szolgálat következtében meghalt szülője – halála miatt hadiárvaként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátás iránti igénye fennállt, ha a 4. §-ban meghatározott feltételek már nem állnak fenn.
+
+(2) Volt hadigyámolt, akit szülője hadirokkantsága miatt hadigyámoltként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátások valamelyike iránti igénye fennállt, ha a 4. §-ban meghatározott feltételek már nem állnak fenn.
+
+(3) Volt hadigondozott családtag, akit a szolgálat következtében meghalt unokája, gyermeke vagy testvére halála miatt hadigondozott családtagként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátások valamelyike iránti igénye fennállt.
 
 ### A hadigondozásra jogosultság kizárása és megszűnése, egyes nemzeti gondozottak hadigondozottá történő átminősítése
 
@@ -111,7 +121,7 @@ volt hadiárva, volt hadigyámolt és a volt hadigondozott családtag részére 
 
 (3) A hadirokkant részére kifizetett egyösszegű térítés összege a hadirokkant járadékosztályba sorolásának változására tekintettel nem módosítható.
 
-(4) Volt hadiárva, akit szülője halála miatt, volt hadigyámolt, akit szülője hadirokkantsága miatt, volt hadigondozott családtag, akit unokája, gyermeke vagy testvére halála miatt hadiárvaként, hadigyámoltként, illetve hadigondozott családtagként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátások valamelyike iránti igénye fennállt.
+(4) Ezen szakasz tekintetében volt hadiárva, akit szülője halála miatt, volt hadigyámolt, akit szülője hadirokkantsága miatt, volt hadigondozott családtag, akit unokája, gyermeke vagy testvére halála miatt hadiárvaként, hadigyámoltként, illetve hadigondozott családtagként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátások valamelyike iránti igénye fennállt.
 
 ### Hadirokkant-járadék
 
@@ -155,6 +165,10 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 14. § A hadiárvát a 4. §-ban meghatározott feltételek esetén egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
 
+### Volt hadiárva járadéka
+
+14/A. § Azon volt hadiárva, akit 1949. január 1-jét megelőzően nyilvántartásba vettek, de pénzellátását nagykorúvá válása miatt, vagy politikai okból megszüntették vagy szüneteltették, illetve ilyen ellátás iránti kérelmét politikai okból elutasították, továbbá aki ez irányú kérelmét politikai okból elő sem terjesztette egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+
 ### Hadigondozott családtag járadéka
 
 15. § (1) A hadigondozott családtagot havi rendszeres járadék illeti meg, amelynek összege az egyéb ellátástól függetlenül az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
@@ -162,6 +176,10 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 (2) Több jogosult esetén a járadék mindegyik jogosultat külön-külön megilleti.
 
 (3) Hadigondozotti családtagi járadékot testvér, féltestvér részére csak a hadigyámoltra vonatkozó, a 4. §-ban meghatározott feltételek fennállása esetén lehet megállapítani.
+
+### Volt hadigondozott családtag és volt hadigyámolt járadéka
+
+15/A. § Azon volt hadigondozott családtag és volt hadigyámolt, akit 1949. január 1-jét megelőzően nyilvántartásba vettek, de pénzellátását nagykorúvá válása miatt, vagy politikai okból megszüntették vagy szüneteltették, illetve ilyen ellátás iránti kérelmét politikai okból elutasították, továbbá aki ez irányú kérelmét politikai okból elő sem terjesztette egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
 
 ### Temetési hozzájárulás
 
@@ -244,7 +262,7 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyekben első fokon eljáró hadigondozási hatóság a hadigondozott lakóhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal). A járási hivatal vezetője határozatban dönt:
+(2) A hadigondozotti ügyekben első fokon eljáró hadigondozási hatóság a hadigondozott lakóhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), külföldön élő, Magyarországon lakóhellyel, tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében Budapest Főváros Kormányhivatala. A járási hivatal vezetője határozatban dönt:
 
 - a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről;
 - b) a pénzellátások — beleértve az egyösszegű térítést és a temetési hozzájárulást is — megállapításáról és összegszerűségéről;
@@ -282,9 +300,12 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 28. § Felhatalmazást kap a Kormány, hogy e törvény alapján
 
-- a) az egyösszegű térítés és a hadigondozotti járadék megállapításának és folyósításának;
-- b) a hadigondozotti ellátások és kedvezmények igénybevételére jogosító hadigondozotti igazolvány tartalmi és formai kellékeinek, az igazolvány kiadásának, valamint a hadieredetű fogyatkozás megállapítása orvosszakmai szempontjainak;
-- c) a hadirokkantak gyógyászati segédeszköz ellátásának; részletes szabályait rendeletben állapítsa meg.
+- a) a külföldön történő kérelem benyújtásának;
+- b) az egyösszegű térítés és a hadigondozotti járadék megállapításának és folyósításának;
+- c) a hadigondozotti ellátások és kedvezmények igénybevételére jogosító hadigondozotti igazolvány tartalmi és formai kellékeinek, az igazolvány kiadásának, valamint a hadieredetű fogyatkozás megállapítása orvosszakmai szempontjainak;
+- d) a hadirokkantak gyógyászati segédeszköz ellátásának;
+
+részletes szabályait rendeletben állapítsa meg.
 
 ### Hatálybalépés
 

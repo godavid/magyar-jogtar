@@ -205,6 +205,8 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (10) A játékosok részére meghirdetett, de a (7a)–(9) bekezdésekben foglaltaktól eltérő, bármely okból részükre át nem adott, vagy nyeremények céljára fel nem használt nyeremények értékét vagy összegét a nyereményalap felhasználására vonatkozó határidő lejártát, illetve a játék megszűnését követő hónap 20. napjáig a szervezőnek játékadó címén be kell vallania és be kell fizetnie.
 
+(10a) Az állami adóhatóság a nemzetközi együttműködésben szervezett, a 28/A. § (7) bekezdése szerinti totalizatőri rendszerű lóversenyfogadás esetén a nyertes játékos részére a nyeremény igénylésére rendelkezésre álló határidőt a valamennyi részt vevő szerencsejáték-szervező által közösen kialakított és elfogadott játékszabályok szerint engedélyezi, ennek során a (7a) bekezdésben foglaltaktól eltérő, de minimum 60 napos jogvesztő határidő engedélyezhető. Ha a nyertes játékos részére a nyeremény igénylésére rendelkezésre álló határidőt minden résztvevő szerencsejáték-szervező szabadon alakíthatja ki, az állami adóhatóság az engedélyt a (7a) bekezdés alkalmazásával adja ki.
+
 (11) Az állami adóhatóság a nemzetközi együttműködésben szervezett szerencsejáték esetén az át nem vett nyeremények felhasználását a valamennyi részt vevő szerencsejáték-szervező által közösen kialakított és elfogadott játékszabályok szerint engedélyezi, ennek során a (7b)–(10) bekezdésben foglaltaktól eltérő játékszabályok is engedélyezhetők. Ha az át nem vett nyeremények felhasználását minden részt vevő szerencsejáték-szervező szabadon alakíthatja ki, az állami adóhatóság az engedélyt a (7b)–(10) bekezdés alkalmazásával adja ki.
 
 12. § (1) Az állami adóhatóság a szerencsejáték-szervezőt, illetve az e törvény hatálya alá tartozó tevékenységet folytató bármely szervezetet vagy személyt, valamint a szervezetek vezetőjét vagy vezető tisztségviselőjét a (2)–(3) bekezdésekben foglaltak szerinti bírság megfizetésére kötelezi.
@@ -470,6 +472,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (6) Bukmékeri rendszerű fogadás esetén a koncesszió időtartama legfeljebb 20 év, a koncessziós díj mértéke évente legalább 200 millió forint, amely koncessziós díjat a 27. § (6) bekezdésében foglaltaknak megfelelően évente valorizálni kell. A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
 
+(7) Az állami adóhatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.
+
 29. § (1) Lóversenyfogadás szervezéséhez a 3. § (1) bekezdésének a) pontjában szereplő jogi személynek legalább 100 millió forint alap- vagy törzstőkével kell rendelkeznie. A lóversenyfogadás szervezésére kiírt koncessziós pályázat nyertese csak az a személy lehet, aki a lóversenyfogadási tevékenység folytatására legalább 100 millió forint alap- vagy törzstőkével rendelkező koncessziós társaságot alapít. A koncesszió időtartama legfeljebb 20 év.
 
 (2) A koncessziós díj mértéke évente legalább 50 millió forint. A koncessziós díjat a 27. § (6) bekezdésében foglaltaknak megfelelően évente valorizálni kell.
@@ -611,6 +615,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 30/A. § (1) A fogadás nyereményalapja a fogadásra fizetett tétek összessége. A bukmékeri rendszerű fogadás esetén a nyereményalapnak legalább 75%-át, az állami játékszervező által szervezett totalizatőri rendszerű fogadásnál a nyereményalap legalább 45%-át, a lóversenyfogadás nyereményalapjának legalább 68%-át nyeremények céljára kell fordítani. E feltételeknek a bukmékeri rendszerű fogadás esetén évente kell megfelelni. A folyamatosan szervezett totalizatőri rendszerű fogadás esetében az állami adóhatóság engedélyezheti a nyeremények halmozódását, annak kezdő időpontjától számított egy évig.
 
 (2) Nemzetközi együttműködés keretében szervezett sorsolásos játék és totalizatőri rendszerű fogadás esetében a nyeremény visszafizetési hányadnak a közös nyereményalapra vonatkozóan kell érvényesülnie.
+
+(3) Nemzetközi együttműködés keretében szervezett, a 28/A. § (7) bekezdése szerinti totalizatőri rendszerű lóversenyfogadás esetén a nyereményalap nyereményre fordítandó minimumhányada a valamennyi részt vevő szerencsejáték-szervező által kialakított és elfogadott játékszabályok szerint minimum 62%-os mértékig engedélyezhető, ennek hiányában az állami adóhatóság az engedélyt az (1) bekezdés szerint adja ki.
 
 ### A kártyateremben szervezett kártyajáték nyereményalapja
 
