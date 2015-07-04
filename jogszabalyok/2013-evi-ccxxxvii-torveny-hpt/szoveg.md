@@ -3421,8 +3421,8 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 211. § (1) Az OBA feladata
 
-- a) a betétes magyar nyelvű tájékoztatása, magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén történő tájékoztatása, amelyben a fióktelepet létrehozták, magyarországi székhelyű hitelintézet határon átnyúló szolgáltatása esetén azon a nyelven történő tájékoztatása, amelyet a betétes a betét elhelyezésekor vagy a szerződés megkötésekor választott,
-- b) a vele tagsági jogviszonyban álló hitelintézet tevékenységi engedélyének a Felügyelet által a 33. § (1) bekezdés a) vagy b) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén, vagy az előző szabályok érintése nélkül, amennyiben a szövetkezeti hitelintézet végelszámolásának elhatározására a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/T. § (5) bekezdése alapján kerül sor, a betétes részére a 214. §-ban meghatározott kártalanítási összeg kifizetése, és
+- a) a betétes magyar nyelvű tájékoztatása,
+- b) a vele tagsági jogviszonyban álló hitelintézet tevékenységi engedélyének a Felügyelet által a 33. § (1) bekezdés a) vagy b) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén, vagy az előző szabályok érintése nélkül, amennyiben a Szhitv. 17/T. § (5) bekezdése alapján kerül sor, a betétes részére a 214. §-ban meghatározott kártalanítási összeg kifizetése, és
 - c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása,
 - d) a Szantv. alapján a szanálás finanszírozásához történő hozzájárulás.
 
@@ -3537,11 +3537,11 @@ betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 217. § (1) Az OBA
 
-- a) a hitelintézet tevékenységi engedélye 33. § (1) bekezdésében meghatározott visszavonásának,
-- b) a Felügyelet a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/T. § (5) bekezdése alapján hozott határozata közlésének vagy
+- a) a hitelintézet tevékenységi engedélye 33. § (1) bekezdésében meghatározott visszavonásáról hozott határozat közzétételének,
+- b) a Felügyelet a Szhitv. 17/T. § (5) bekezdése alapján hozott határozata közlésének vagy
 - c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 
-időpontjában [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését.
+időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését.
 
 (1a) A kártalanítás (1) bekezdésben meghatározott kifizetéséhez a betétesnek nem kell kérelmet benyújtania.
 
@@ -3704,14 +3704,14 @@ vonatkozásában információt ad.
 - d) egyéb bevétel, valamint
 - e) az OBA által kibocsátott kötvény.
 
-(2) Az OBA – a 211. § (1) bekezdés b) és d) pontja szerinti feladat ellátása érdekében – kölcsönt vehet fel
+(2) Az OBA kölcsönt vehet fel
 
-- a) az MNB-től, illetve
-- b) hitelintézettől.
+- a) a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása érdekében az MNB-től, illetve
+- b) a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása, valamint az a) pont szerinti kölcsön visszafizetése érdekében hitelintézettől.
 
-(3) Az OBA a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása érdekében kötvényt bocsáthat ki.
+(3) Az OBA a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása, valamint a (2) bekezdés szerinti kölcsönök visszafizetése érdekében kötvényt bocsáthat ki.
 
-(4) Az állam készfizető kezesként felel az OBA azon fizetési kötelezettségeiért, amelyek a 211. § (1) bekezdés b) és d) pontja szerinti kötelezettségei teljesítése érdekében felvett – az államháztartásért felelős miniszter által jóváhagyott összegű – kölcsöneiből és kötvénykibocsátásából erednek. Az OBA kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az OBA-nak kezességvállalási díjat nem kell fizetnie.
+(4) Az állam készfizető kezesként felel az OBA azon fizetési kötelezettségeiért, amelyek a (2) bekezdés szerinti kötelezettségei teljesítése érdekében felvett – az államháztartásért felelős miniszter által jóváhagyott összegű – kölcsöneiből és kötvénykibocsátásából erednek. Az OBA kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az OBA-nak kezességvállalási díjat nem kell fizetnie.
 
 #### 97. Csatlakozási díj
 
@@ -3743,7 +3743,7 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 (7) A (6) bekezdés alapján felemelt éves díj nem lépheti túl a hitelintézetnél a tárgyévet megelőző év december 31-én fennálló, biztosított betétállomány három ezrelékét.
 
-(8) Az OBA az általa a 232. § (1) bekezdés c) pontja szerint felvett kölcsön visszafizetése és a 232. § (1) bekezdés e) pontja alapján kibocsátott kötvény visszaváltása érdekében a hitelintézetek számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség éves mértéke nem haladhatja meg egyetlen hitelintézet esetében sem a díjfizetési alap 0,5%-át. Ha az OBA által felvett kölcsön vagy az általa kibocsátott kötvény összege meghaladja a kártalanítási kötelezettségének hatálya alá tartozó betétállomány 0,8%-át, a Felügyelet jóváhagyásával magasabb összegű befizetéseket is előírhat.
+(8) Az OBA az általa a 232. § (2) bekezdése szerint felvett kölcsön visszafizetése és a 232. § (3) bekezdése alapján kibocsátott kötvény visszaváltása érdekében a hitelintézetek számára egységes elvek szerint megállapított – az (1) bekezdés szerinti éves díjfizetési kötelezettségen felül teljesítendő – rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség éves mértéke – a díjfizetési kötelezettség (2) bekezdésben meghatározott mértékén felül – nem haladhatja meg egyetlen hitelintézet esetében sem a díjfizetési alap 0,5%-át. Ha az OBA által felvett kölcsön vagy az általa kibocsátott kötvény összege meghaladja a kártalanítási kötelezettségének hatálya alá tartozó betétállomány 0,8%-át, a Felügyelet jóváhagyásával magasabb összegű befizetéseket is előírhat.
 
 (8a) Ha a (8) bekezdés alapján előírt rendkívüli fizetési kötelezettség veszélyeztetné a hitelintézet azonnali vagy mindenkori fizetőképességét – azaz likviditását vagy a szolvenciáját –, akkor a Felügyelet részben vagy egészben elhalaszthatja a hitelintézet rendkívüli befizetési kötelezettségének elrendelését. A rendkívüli befizetés legfeljebb 6 hónappal halasztható el azzal, hogy a hitelintézet kérelmére egy alkalommal újabb 6 hónappal a halasztás meghosszabbítható.
 
@@ -4168,7 +4168,7 @@ rendelkezhet.
 
 272. § (1) A hitelintézet az OBA-val, a külföldi betétbiztosító intézménnyel, valamint az önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen az OBA által biztosított betéttípusokról, a biztosítás mértékéről, valamint – a hitelintézet tevékenységi engedélyének a Felügyelet által a 33. § alapján való visszavonása, illetve a hitelintézet felszámolása esetén – a 214. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában tájékoztatja. A hitelintézet tájékoztatja a betétest arról is, hogy a 213. §-ban és a 239. § (4) bekezdésében meghatározott esetekben az OBA által nyújtott biztosítás nem terjed ki a betétre.
 
-(2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást az ügyfél számára világos és érthető módon – a felek eltérő megállapodásának hiányában – magyar nyelven vagy magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén adja meg, amelyben a fióktelepet létrehozták.
+(2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást az ügyfél számára világos és érthető módon – a felek eltérő megállapodásának hiányában – magyar nyelven vagy magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén adja meg, amelyben a fióktelepet létrehozták, magyarországi székhelyű hitelintézet határon átnyúló szolgáltatása esetén pedig azon a nyelven, amelyről a betétes és a hitelintézet a betét elhelyezésekor vagy a szerződés megkötésekor megállapodott.
 
 (3) A betét elhelyezése vagy a betét elhelyezését lehetővé tevő keretszerződés megkötése előtt a betétbiztosításra vonatkozó tájékoztatás tudomásulvételét az ügyfél a 6. melléklet szerinti tájékoztató aláírásával igazolja. A szerződés vagy keretszerződés elektronikus úton történő megkötése esetén az ügyfél a tájékoztatás tudomásulvételét elektronikus úton is visszaigazolhatja.
 
