@@ -82,19 +82,11 @@ reklám közzététele.
 
 5. § (1) Az adó mértéke a 4. § (1) bekezdés szerinti adóalap esetén
 
-– az adóalap 0,5 milliárd forintot meg nem haladó része után 0%,
+– az adóalap 100 millió forintot meg nem haladó része után 0%,
 
-– az adóalap 0,5 milliárd forintot meghaladó, de 5 milliárd forintot meg nem haladó része után 1%,
+– az adóalap 100 millió forintot meghaladó része után 5,3%.
 
-– az adóalap 5 milliárd forintot meghaladó, de 10 milliárd forintot meg nem haladó része után 10%,
-
-– az adóalap 10 milliárd forintot meghaladó, de 15 milliárd forintot meg nem haladó része után 20%,
-
-– az adóalap 15 milliárd forintot meghaladó, de 20 milliárd forintot meg nem haladó része után 30%,
-
-– az adóalap 20 milliárd forintot meghaladó része után 50%.
-
-(2) Az adó mértéke a 4. § (2) bekezdés szerinti adóalap esetén az adóalap 20%-a.
+(2) Az adó mértéke a 4. § (2) bekezdés szerinti adóalap esetén az adóalap 5%-a.
 
 (3) Ha az adóév 12 hónapnál rövidebb, a fizetendő adó összege az adóévi 4. § (1) bekezdés szerinti adóalapnak az adóév naptári napjai alapján 12 hónapos időszakra számított összegéből az (1) bekezdés szerinti adómértékkel megállapított adóösszeg adóév naptári napjaival arányos része.
 
@@ -109,6 +101,8 @@ reklám közzététele.
 (4) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, az (1)–(2) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – a 4. § (1) bekezdése szerint megállapított adóalapot kell figyelembe venni.
 
 (5) Az (1)–(4) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.
+
+(6) Az (1)–(4) bekezdésben foglaltakat csak akkor kell alkalmazni, ha a kapcsolt vállalkozási viszony 2014. augusztus 15-ét követően, szétválással jött létre.
 
 #### 6. Eljárási rendelkezések
 
@@ -181,3 +175,14 @@ reklám közzététele.
 (8) Az (5)–(7) bekezdésben foglaltakat nem kell alkalmazni annak az adóalanynak, amely 2014. augusztus 15. és 2014. december 31. között jött létre és alakulásától kezdődően naptári évtől eltérő üzleti évet választott.
 
 10. § Az adóalany csökkentheti a 2014. évben kezdődő adóév adóalapját – legfeljebb annak erejéig – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 17. § (1) bekezdése vagy az Szja tv. 49/B. § (7) bekezdése szerinti elhatárolt veszteség 50%-ával, feltéve, hogy a 2013. évben kezdődő üzleti évben az adóalany adózás előtti eredményének összege nulla vagy negatív.
+
+11. § (1) A 3. § (1) bekezdés szerinti adóalany – döntése szerint – e törvénynek a reklámadóhoz kapcsolódó törvények módosításáról szóló 2015. évi LXII. törvénnyel (a továbbiakban: Mód. törvény) megállapított rendelkezései hatálybalépése napját (a továbbiakban: Mód. törvény hatálybalépése napja) megelőző napig kezdődő adóévei első napjától is alkalmazhatja a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti adómértéket.
+
+(2) Ha a 3. § (1) bekezdés szerinti adóalany a Mód. törvény hatálybalépése napját magában foglaló adóévre az (1) bekezdésben foglaltakat nem alkalmazza, a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti adómértéket – a Mód. törvény hatálybalépése napját magában foglaló adóévben – az adóalap olyan hányadára kell alkalmaznia, amilyen arányt az adóév Mód. törvény hatálybalépése napjától számított naptári napjainak száma az adóév naptári napjai számában képvisel.
+
+(3) A (2) bekezdés szerinti esetben a fizetendő adó
+
+- a) az adóalap és a (2) bekezdés szerinti adóalaprész különbözete 12 hónapos időszakra számított összegének alapulvételével a Mód. törvény hatálybalépése napját megelőzően hatályos 5. § (1) bekezdés szerint meghatározott adóösszegnek az adóév Mód. törvény hatálybalépése napját megelőző naptári napjaival arányos része, növelve
+- b) a (2) bekezdés szerinti adóalaprész 12 hónapos időszakra számított összegének alapulvételével a Mód. törvénnyel megállapított 5. § (1) bekezdés szerint meghatározott adóösszegnek az adóév Mód. törvény hatálybalépése napjától kezdődő időszak naptári napjaival arányos részével.
+
+(4) A 3. § (1) bekezdés szerinti adóalany a Mód. törvénnyel megállapított 6. § (6) bekezdésének rendelkezését a Mód. törvény hatálybalépése napját megelőző napig kezdődő adóéveiben fennálló adókötelezettsége megállapítása során is alkalmazhatja.
