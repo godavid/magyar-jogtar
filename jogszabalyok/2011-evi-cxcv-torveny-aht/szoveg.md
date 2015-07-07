@@ -858,9 +858,9 @@ teljesíthet, az állami vagyon felügyeletéért felelős miniszter – a Vtv. 
 
 45/A. § (1) Az állam Magyarország területén székhellyel rendelkező, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján banknak minősülő hitelintézetben a piaci magánbefektető elv alapján, jogi és adózási megfelelőségi vizsgálat lefolytatását követően, középtávú üzleti tervvel alátámasztott alaptőke-felemeléssel, a központi költségvetésről szóló törvényben biztosított költségvetési kiadási előirányzat terhére tulajdonosi részesedést szerezhet.
 
-(2) Az alaptőke felemelésére vonatkozó, valamint az állam tulajdonszerzésének bejegyzésére irányuló jogügylet tekintetében, továbbá a hatósági és bírósági eljárásokban az államot a kormányzati tevékenység összehangolásáért felelős miniszter képviseli.
+(2) Az alaptőke felemelésére vonatkozó, valamint az állam tulajdonszerzésének bejegyzésére irányuló jogügylet tekintetében, továbbá a hatósági és bírósági eljárásokban az államot a gazdaságpolitikáért felelős miniszter képviseli.
 
-(3) Az (1) bekezdésben meghatározott alaptőke-felemeléssel megszerzett állami tulajdonosi részesedéssel működő bank (a továbbiakban: Bank) állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a kormányzati tevékenység összehangolásáért felelős miniszter jogosult.
+(3) Az (1) bekezdésben meghatározott alaptőke-felemeléssel megszerzett állami tulajdonosi részesedéssel működő bank (a továbbiakban: Bank) állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a gazdaságpolitikáért felelős miniszter jogosult.
 
 (4) A (2) és (3) bekezdés esetében a 41. § (1) bekezdése nem alkalmazandó.
 
@@ -882,7 +882,7 @@ teljesíthet, az állami vagyon felügyeletéért felelős miniszter – a Vtv. 
 
 (7) Az igazgatóság és a felügyelő bizottság tagja, a vezérigazgató pártban tisztséget nem viselhet, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathat.
 
-(8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a kormányzati tevékenység összehangolásáért felelős miniszternek is.
+(8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a gazdaságpolitikáért felelős miniszternek is.
 
 (9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Polgári Törvénykönyv többek közös károkozására vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
@@ -1846,7 +1846,7 @@ rendeletben szabályozza.
 
 (15) A (13) és (14) bekezdés alapján határozott időre megadott felmentések érvényességét az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult kérelmére kivételesen indokolt esetben meghosszabbíthatja.
 
-(16)
+(16) A 45/A. § (2) és (3) bekezdésében meghatározott képviselet, illetve tulajdonosi joggyakorlás tekintetében a 2015. január 1-je és az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény hatálybalépése közötti időszakban a gazdaságpolitikáért felelős miniszter eljárási cselekményeit, illetve jognyilatkozatait a képviseletre, illetve tulajdonosi joggyakorlásra jogosult által megtett eljárási cselekménynek, illetve jognyilatkozatnak kell tekintetni.
 
 (16a)
 

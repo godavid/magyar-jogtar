@@ -1306,13 +1306,13 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (13) E törvénynek az egyes adótörvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított 29/A. § (12) bekezdését a Budapesti Közlekedési Zártkörűen Működő Részvénytársaság a 2015. évi adókötelezettségének megállapítása során is alkalmazhatja.
 
-29/B. § (1)
+29/B. § (1) A Quaestor károsultak kárrendezését biztosító követeléskezelő alap létrehozásáról szóló 2015. évi XXXIX. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Quaestor Károsultak Kárrendezési Alapja (a továbbiakban: Alap) részére az Alap záró beszámolójának elfogadásáig a Kárrendezési Törvény 4. §-a alapján előleget befizető adózó által megelőlegezett, de meg nem térült követelés összege (a továbbiakban e §-ban: visszajáró összeg) csökkenti az Alap záró beszámolója elfogadásának adóévére az előleget befizető adózó által fizetendő társasági adót, majd a fizetendő pénzügyi szervezetek különadóját vagy a fizetendő hitelintézeti különadót, majd a fizetendő pénzügyi tranzakciós illetéket.
 
-(2)
+(2) Ha a visszajáró összeg több, mint az (1) bekezdés szerint érvényesített csökkentés összege, akkor különbözetüket az Alap záró beszámolója elfogadása adóévének valamely napján az előleget befizető adózó kapcsolt vállalkozásának minősülő (egy vagy több) adózó érvényesítheti az Alap záró beszámolója elfogadásának adóévére fizetendő társasági adója, majd a fizetendő pénzügyi szervezetek különadója vagy a fizetendő hitelintézeti különadó, majd a fizetendő pénzügyi tranzakciós illeték megállapításánál. Ha a különbözetet egynél több kapcsolt vállalkozásnak minősülő adózó érvényesíti, akkor ezen adózókat e jogcímen külön-külön megillető adócsökkentés teljes összege nem haladhatja meg a különbözetet. Az előleget befizető adózó és kapcsolt vállalkozásai írásos megállapodásban rögzítik a külön-külön érvényesítendő csökkentés összegét.
 
-(3)
+(3) A visszajáró összeg azon része, amelyre tekintettel az adózó vagy kapcsolt vállalkozása az (1)–(2) bekezdés szerinti csökkentést nem alkalmazta, csökkenti az Alap záró beszámolója elfogadásának adóévét követő adóévekre az adózó és kapcsolt vállalkozása adókötelezettségét az (1)–(2) bekezdés szerinti módszer alkalmazásával.
 
-(4)
+(4) Az (1)–(3) bekezdésekkel összefüggő adókötelezettségek teljesítése és azok ellenőrzése érdekében az adózó és az érintett kapcsolt vállalkozása külön nyilvántartást vezet.
 
 (5)
 
