@@ -189,8 +189,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 126. tőzsdei termék: a tőzsdén forgalmazott pénzügyi eszköz, deviza és áru,
 - 127. tulajdonosi megfeleltetés: a központi értéktár által az értékpapírszámla-vezetők közreműködésével végzett, a dematerializált részvény tulajdonosának azonosítását szolgáló eljárás,
 - 128. ügyfél: az a személy, aki e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
-- 129. ügyfélcsoport: a Hpt.-ben meghatározott fogalom,
-- 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató, befektetési alapkezelő által vezetett számla,
+- 129.
+- 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, korlátozott rendeltetésű számla, amely kizárólag a számlavezető által nyújtott befektetési szolgáltatás, kiegészítő szolgáltatás, illetve árutőzsdei szolgáltatás során igénybe vett szolgáltatásokhoz kapcsolódó tranzakciók lebonyolítására szolgál,
 - 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 - 132–133.
 - 134. vezető állású személy:
@@ -497,7 +497,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (3) A tájékoztató és a hirdetmény félrevezető adatot, téves következtetés levonására alkalmas csoportosítást, elemzést nem tartalmazhat, és nem hallgathat el olyan tényt, amely az (1) bekezdésben meghatározott cél elérését veszélyezteti.
 
-(4) A tájékoztató a regisztrációs okmányból, az értékpapírjegyzékből és az összefoglalóból áll. A tájékoztató egyetlen összevont dokumentumként is elkészíthető (összevont tájékoztató).
+(4) A tájékoztató a regisztrációs okmányból, az értékpapírjegyzékből és az összefoglalóból áll. A regisztrációs okmány tartalmazza a kibocsátóra vonatkozó információkat. A tájékoztató egyetlen összevont dokumentumként is elkészíthető (összevont tájékoztató).
 
 (5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan, hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése, illetve multilaterális kereskedési rendszerbe történő regisztrációja céljából készült, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra, illetve regisztrálni kívánják multilaterális kereskedési rendszerbe, és a tájékoztatót nem magyar nyelven készítették el.
 
@@ -527,7 +527,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (5) Az alaptájékoztató a kibocsátási program egészére, az adagolt kibocsátás keretében történő minden forgalomba hozatal összességére, valamint a tizenkét hónapon belül tervezett több forgalomba hozatalra együttesen vonatkozó összes információt egyetlen dokumentumban tartalmazza.
 
-(6) Amennyiben a forgalomba hozatal végleges feltételeit (így különösen: a forgalomba hozatal össznévértékét, az értékpapír futamidejét, lejáratát, kamatát vagy egyéb járulékait, a forgalomba hozatal módját és helyét, továbbá az új értékpapír-sorozat értékpapírkódját) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeit közzéteszi, és azokról tájékoztatja a Felügyeletet. A Felügyelet a fogadó tagállam hatáskörrel rendelkező hatóságát és az Európai Értékpapír-piaci Hatóságot ezt követően tájékoztatja a forgalomba hozatal végleges feltételeiről.
+(6) Amennyiben a forgalomba hozatal végleges feltételeit (amelyek csak az értékpapírjegyzékkel kapcsolatos információkat tartalmazzák, így különösen: a forgalomba hozatal össznévértékét, az értékpapír futamidejét, lejáratát, kamatát vagy egyéb járulékait, a forgalomba hozatal módját és helyét, továbbá az új értékpapír-sorozat értékpapírkódját) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeit közzéteszi, és azokról tájékoztatja a Felügyeletet. A Felügyelet a fogadó tagállam hatáskörrel rendelkező hatóságát és az Európai Értékpapír-piaci Hatóságot ezt követően tájékoztatja a forgalomba hozatal végleges feltételeiről.
 
 (7) A Felügyelet engedélyezheti valamely információnak a tájékoztatóból való elhagyását, ha:
 
@@ -609,7 +609,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (11) A Felügyelet – a hozzá bejelentett adatok alapján – a honlapján közzéteszi, hogy a közzétételre kötelezettek hol tesznek eleget közzétételi kötelezettségüknek.
 
-35. § (1) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden, a befektetők tájékoztatását szolgáló, a kibocsátó, az ajánlattevő, a forgalmazásban forgalmazóként vagy jegyzési garanciavállalás formájában részt vevő befektetési vállalkozás vagy hitelintézet, illetve az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy által reklámban vagy egyéb módon közölt információ – ide nem értve a tájékoztatót, az alaptájékoztatót, a hirdetményt és a 21. § (6) bekezdés szerinti információs dokumentumot – kereskedelmi kommunikáció.
+35. § (1) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden, a befektetők tájékoztatását szolgáló, a kibocsátó, az ajánlattevő, a forgalomba hozatalban forgalmazóként vagy jegyzési garanciavállalás formájában részt vevő befektetési vállalkozás vagy hitelintézet, illetve az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy által reklámban vagy egyéb módon közölt információ – ide nem értve a tájékoztatót, az alaptájékoztatót, a hirdetményt és a 21. § (6) bekezdés szerinti információs dokumentumot – kereskedelmi kommunikáció.
 
 (2) A kereskedelmi kommunikációban foglalt információnak összhangban kell lennie a tájékoztató és a 21. § (6) bekezdés szerinti információs dokumentum tartalmával.
 
@@ -1081,7 +1081,7 @@ akkor a vételi ajánlatot legkésőbb az 55. § (2) bekezdésében meghatározo
 
 (4) A vételi ajánlat útján történő befolyásszerzés lebonyolítására a Bszt. 5. §-a (2) bekezdésének d) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozást, hitelintézetet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) kell megbízni.
 
-(5)
+(5) Nem kell az (1)–(4) bekezdés rendelkezéseit alkalmazni abban az esetben, ha az (1) bekezdésben meghatározott mértékű befolyásszerzésre a Szantv. keretében alkalmazható szanálási intézkedések vagy hatáskörök alkalmazásával kerül sor.
 
 69. § (1) Az ajánlattevő és a 68. § (4) bekezdés alapján megbízott befektetési szolgáltató a vételi ajánlatot jóváhagyásra benyújtja a Felügyeletnek, ezzel egyidejűleg a vételi ajánlatot és annak a Felügyelet részére benyújtott mellékleteit megküldi a céltársaság igazgatósága vagy igazgatótanácsa részére, és kezdeményezi a jóváhagyásra benyújtott vételi ajánlat haladéktalan közzétételét. A közzétételnek a figyelem felhívására alkalmas módon tartalmaznia kell, hogy a közzétett vételi ajánlatot a Felügyelet még nem hagyta jóvá, illetve azt, ha az ajánlattevő versenyfelügyeleti eljárást kezdeményez.
 
@@ -1310,7 +1310,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (6) Ha a vételi ajánlati eljárás lezárásakor az ajánlattevőnek a céltársaságban fennálló befolyása eléri a kilencven százalékot, a fennmaradó részvények tulajdonosainak – az 55. § (2) bekezdésében meghatározott közzétételt követő kilencven napon belül – írásban megtett kérésére köteles e részvényeket is megvásárolni. A vételi kötelezettség esetén az ellenérték legkisebb összegének meghatározására a (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-77. § (1) Ha valaki a 68–76/D. §-ban, illetőleg a 2001. évi L. törvény 82. §-ának (3) bekezdésében foglaltaktól eltérő módon szerez befolyást, a céltársaságban szavazati jogot nem gyakorolhat. A befolyást szerző a befolyásszerzésre irányadó szabályokba ütközően, vagy e szabályok megkerülésével szerzett befolyását köteles a szerzést vagy a Felügyelet határozatának kézhezvételét követő hatvan napon belül megszüntetni.
+77. § (1) Ha valaki a 68–76/D. §-ban foglaltaktól eltérő módon szerez befolyást, a céltársaságban szavazati jogot nem gyakorolhat. A befolyást szerző a befolyásszerzésre irányadó szabályokba ütközően, vagy e szabályok megkerülésével szerzett befolyását köteles a szerzést vagy a Felügyelet határozatának kézhezvételét követő hatvan napon belül megszüntetni.
 
 (2) A befolyást szerző az (1) bekezdésben foglalt kötelezettség teljesítéséig a céltársaságban semmilyen részvényesi jogát nem gyakorolhatja.
 
@@ -1380,7 +1380,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 140. § (1) Az értékpapír-tulajdonos részére értékpapírszámlát a befektetési vállalkozás, a hitelintézet, a befektetési alapkezelő, a 335/A. § (1) bekezdésében meghatározott személyek tulajdonában álló értékpapírról értékpapírszámlát a központi értéktár vezet (a továbbiakban együtt: számlavezető).
 
-(2) Az értékpapír-számla értékpapír-számlaszerződéssel jön létre. Értékpapír-számlaszerződéssel a számlavezető kötelezettséget vállal arra, hogy a vele szerződő fél (számlatulajdonos) tulajdonában álló értékpapírt a számlavezetőnél megnyitott értékpapír-számlán nyilvántartja és kezeli, a számlatulajdonos szabályszerű rendelkezését teljesíti, valamint a számlán történt jóváírásról, terhelésről és a számla egyenlegéről a számlatulajdonost értesíti.
+(2) Értékpapírszámla-szerződéssel a számlavezető kötelezettséget vállal arra, hogy a vele szerződő fél (számlatulajdonos) tulajdonában álló értékpapírt a számlavezetőnél megnyitott értékpapírszámlán nyilvántartja és kezeli, a számlatulajdonos szabályszerű rendelkezését teljesíti, valamint a számlán történt jóváírásról, terhelésről és a számla egyenlegéről a számlatulajdonost haladéktalanul értesíti.
 
 141. § (1) Az értékpapír-számla tartalmazza
 
@@ -1453,9 +1453,9 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ### XIV. Fejezet — ÜGYFÉLSZÁMLA
 
-147. § (1) A befektetési vállalkozás, a hitelintézet és az árutőzsdei szolgáltató – a 148. §-ban foglalt eset kivételével – ügyfélszámlát vezet. Az ügyfélszámlán kell nyilvántartani a számlatulajdonost megillető bevételt, és az ügyfélszámláról kell teljesíteni a számlatulajdonost terhelő kifizetést. Az ügyfélszámlán elkülönítetten kell nyilvántartani az azonnali, illetve az opciós és határidős ügyletekből eredő követeléseket és kötelezettségeket. A befektetési vállalkozás köteles ügyfélszámla-szerződést kötni azzal az ügyféllel, akinek a megbízásából portfóliókezelést, letéti őrzést vagy letétkezelést végez.
+147. § (1) Az ügyfélszámlán kell nyilvántartani a számlatulajdonost megillető bevételt, és az ügyfélszámláról kell teljesíteni a számlatulajdonost terhelő kifizetést. Az ügyfélszámlán elkülönítetten kell nyilvántartani az azonnali, illetve az opciós és határidős ügyletekből eredő követeléseket és kötelezettségeket.
 
-(2) A befektetési vállalkozás, a hitelintézet és az árutőzsdei szolgáltató az ügyfelek tulajdonát képező ügyfélszámla-állományt – ha e törvény másként nem rendelkezik – letéti számlán köteles elhelyezni.
+(2) A számlavezető az ügyfelek tulajdonát képező ügyfélszámla-állományt – ha e törvény másként nem rendelkezik – letéti számlán köteles elhelyezni.
 
 (3) Az ügyfélszámla nyitásra és kezelésre vonatkozó szabályokat külön jogszabály állapítja meg.
 
@@ -1728,7 +1728,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, amellyel kapcsolatban bennfentesnek minősül, illetve olyan pénzügyi eszközre, amelynek értéke az említett részvény értékétől vagy árfolyamától függ.
 
-(2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell a bejelentésre kötelezett személy nevét, a bejelentési kötelezettség indokát, az érintett kibocsátó nevét, az ügyletben szereplő pénzügyi eszköz megnevezését, mennyiségét, árfolyamát, az ügylet jellegét (például vétel vagy eladás), az ügyletkötés időpontját és helyét, illetve az ügyletet lebonyolító befektetési vállalkozás, hitelintézet megnevezését.
+(2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell a bejelentésre kötelezett személy nevét (cégnevét), természetes személyazonosító adatait, lakcímét (székhelyét), a bejelentési kötelezettség indokát, az érintett kibocsátó nevét, az ügyletben szereplő pénzügyi eszköz megnevezését, mennyiségét, árfolyamát, az ügylet jellegét (például vétel vagy eladás), az ügyletkötés időpontját és helyét, illetve az ügyletet lebonyolító befektetési vállalkozás, hitelintézet megnevezését.
 
 (3) A 201. § (2) bekezdésének a) pontja szerinti bennfentes személy haladéktalanul, de legkésőbb két naptári napon belül tájékoztatja a kibocsátót az (1) bekezdés a) pontja szerinti ügyletkötésről, amennyiben az a (4) bekezdésben meghatározott ügyletkötési összértéket meghaladja.
 
@@ -1884,7 +1884,7 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 
 (7) A bejelentésre kötelezett személy köteles gondoskodni arról, hogy alkalmazottai a bennfentes kereskedelemre és a piacbefolyásolásra vonatkozó jogszabályi rendelkezéseket megismerjék, a bennfentes kereskedelmet és a piacbefolyásolást lehetővé tevő, illetőleg megvalósító üzleti kapcsolatokat, ügyleti megbízásokat megtanulják felismerni, és a bennfentes kereskedelem és a piacbefolyásolás gyanújára okot adó esetekben megfelelően tudjanak eljárni.
 
-(8) A Felügyelet a bejelentésre kötelezett személy, illetve a kijelölt személy személyazonosságát, az (1) bekezdés alapján tett bejelentés tényét, illetve annak tartalmát harmadik személynek – kivéve a büntetőeljárás lefolytatására jogosult hatóságot, bíróságot, illetve törvény felhatalmazása alapján a külföldi felügyeleti hatóságot – nem adhat át.
+(8) A Felügyelet a bejelentésre kötelezett személy, illetve a kijelölt személy személyazonosságát, az (1) bekezdés alapján tett bejelentés tényére, illetve annak tartalmára vonatkozó információt harmadik személynek – kivéve a büntetőeljárás lefolytatására jogosult hatóságot, bíróságot, illetve törvény felhatalmazása alapján a külföldi felügyeleti hatóságot – nem adhat át.
 
 (9) A Felügyelet az (1) bekezdés alapján tett bejelentések révén tudomására jutott információt kizárólag a bennfentes kereskedelem és piacbefolyásolás elleni küzdelem céljaira, feladatainak ellátása érdekében használhatja fel, és az adatokat három évig köteles megőrizni úgy, hogy azokból a változás dátuma és a változás előtti adatok is megállapíthatóak legyenek.
 
@@ -2078,7 +2078,7 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 - h) befektetési vállalkozás, tőzsdetag, illetőleg árutőzsdei szolgáltató,
 - i) a Hpt.-ben meghatározott pénzügyi intézmény,
 - j) az MNB,
-- k) az Alap tagjánál vezető állású személy, az Alap tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy és ezek közeli hozzátartozója, továbbá
+- k) az Alap tagjánál vezető állású személy és ezek közeli hozzátartozója, továbbá
 - l) az Alap tagjában öt százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett tulajdoni részesedéssel vagy szavazati joggal rendelkező vállalkozás vagy természetes személy és ennek ellenőrzött társasága, valamint természetes személy tulajdonos esetén ennek közeli hozzátartozója
 
 követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseire.
@@ -2091,17 +2091,20 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 ### Az Alapból történő kifizetés
 
-216. § (1) Az Alap kártalanítási kötelezettsége abban az esetben következik be, ha a bíróság az Alap tagjának a felszámolását rendeli el.
+216. § (1) Az Alap kártalanítási kötelezettsége abban az esetben következik be, ha
 
-(2) Ha az Alap tagjával szemben felszámolási eljárást kezdeményeztek, erről köteles haladéktalanul értesíteni az Alapot. Az Alap tagja a kártalanítási igény elbírálásához szükséges adatot az Alap által meghatározott formában és módon haladéktalanul előállítja, majd az Alap rendelkezésére bocsátja. Az Alap jogosult az érintett tagjánál minden olyan adathoz személyesen is hozzáférni, amely a kártalanítási kötelezettségének felméréséhez szükséges.
+- a) a Felügyelet az Alap tagjával szemben a Bszt. 133. § (1) bekezdés a) pontjában meghatározottak alapján felszámolási eljárást kezdeményez vagy
+- b) a bíróság az Alap tagjának a felszámolását rendeli el.
 
-(3) Az Alap a felszámolást elrendelő végzés közzétételét követő tizenöt napon belül a Felügyelet által üzemeltetett honlapon és a saját honlapján közleményben tájékoztatja a befektetőket a kártalanítási igényérvényesítés lehetőségéről. Az Alap közzéteszi az igényérvényesítés első napját, az igényérvényesítés módját, továbbá a kifizetést végző szervezet nevét. Az igényérvényesítés első napja nem lehet később, mint a felszámolást elrendelő végzés közzétételét követő harmincadik nap.
+(2) Ha az (1) bekezdésben meghatározott bármelyik esemény bekövetkezik, az Alap tagja erről köteles haladéktalanul értesíteni az Alapot. Az Alap tagja a kártalanítási igény elbírálásához szükséges adatot az Alap által meghatározott formában és módon haladéktalanul előállítja, majd az Alap rendelkezésére bocsátja. Az Alap jogosult az érintett tagjánál minden olyan adathoz személyesen is hozzáférni, amely a kártalanítási kötelezettségének felméréséhez szükséges.
+
+(3) Az Alap az (1) bekezdésben meghatározott esemény időpontjának közzétételét követő tizenöt napon belül a Felügyelet által üzemeltetett honlapon és a saját honlapján közleményben tájékoztatja a befektetőket a kártalanítási igényérvényesítés lehetőségéről. Az Alap közzéteszi az igényérvényesítés első napját, az igényérvényesítés módját, továbbá a kifizetést végző szervezet nevét. Az igényérvényesítés első napja nem lehet később, mint az (1) bekezdésben meghatározott esemény időpontjának közzétételét követő harmincadik nap.
 
 217. § (1) Kártalanítás megállapítására a befektető erre irányuló kérelme alapján kerül sor. A kérelem formáját az Alap meghatározhatja. A kérelmet a befektető az igényérvényesítés első napjától számított egy éven belül terjesztheti elő. Ha a befektető menthető okból nem tudta igényét határidőben előterjeszteni, a kérelem az akadály elhárulását követő harminc napon belül terjeszthető elő.
 
 (2) Az Alap a kártalanításra jogosult befektető részére követelését – személyenként és Alap tagonként összevontan – legfeljebb húszezer euró összeghatárig fizeti ki kártalanításként. Az Alap által fizetett kártalanítás mértéke egymillió forint összeghatárig száz százalék, egymillió forint összeghatár felett egymillió forint és az egymillió forint feletti rész kilencven százaléka.
 
-(3)
+(3) Ha az Alap tagja által vezetett értékpapírszámlákon valamely kötvényből többet tartanak nyilván, mint ahány darab az adott kötvényből a központi értéktár nyilvántartásában megtalálható, akkor az értékpapírszámlákon nyilvántartott, de a központi értéktár nyilvántartásában nem szereplő kötvényre az Alapnak kártalanítást kell fizetnie. A kártalanítás összegét ez esetben úgy kell megállapítani, hogy az ügyfél értékpapírszámláján szereplő kötvények nyilvántartási értékét azzal a törtszámmal kell megszorozni, amely megfelel az adott kötvényből többletként nyilvántartott állomány és az ügyfelek értékpapírszámláin nyilvántartott összes kötvény arányának.
 
 (4) A kártalanítás mértékének megállapítása során a befektetőnek az Alap tagjánál fennálló, valamennyi biztosított, és a tag által ki nem adott követelését össze kell számítani.
 
@@ -2123,7 +2126,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (3) Az Alap az e törvényben rögzített feltételek szerint akkor is fizet kártalanítást, ha a befektető részére kártalanítás a (2) bekezdésben írtak szerint nem állapítható meg, viszont követelését jogerős bírósági határozattal igazolja. Ebben az esetben a befektető a határozat jogerőre emelkedését követő kilencven napon belül terjesztheti elő igényét, amelyhez mellékelnie kell a követelést megalapozó határozatot.
 
-(4) Amennyiben az Alap csak hitelfelvétel útján képes biztosítani a kártalanítási kötelezettség fenti határidők szerinti teljesítését, a Kormány a kártalanítási fedezet biztosítása érdekében a hitelfelvételhez – az Áht. 92. §-ára tekintettel – készfizető kezességet vállal.
+(4)
 
 ### A kifizetett követelések átszállása
 
@@ -2155,7 +2158,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (6)
 
-(7) Az Alap igazgatósága rendkívüli befizetést rendel el, ha az Alap eszközei az esedékes vagy az előre látható kártalanítási kötelezettség teljesítését nem fedezik. Rendkívüli befizetés akkor is elrendelhető, ha az Alap az esedékes hiteltörlesztést, illetőleg annak kamatait nem képes határidőben teljesíteni. A rendkívüli befizetési kötelezettséget az igazgatóság által meghatározott módon és időben kell teljesíteni. A rendkívüli befizetés alapja megegyezik az éves díj alapjával, de az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj mértékét.
+(7) Az Alap igazgatósága rendkívüli befizetést rendel el, ha az Alap eszközei az esedékes vagy az előre látható kártalanítási kötelezettség teljesítését nem fedezik. Rendkívüli befizetés akkor is elrendelhető, ha az Alap az esedékes hiteltörlesztést, illetve annak kamatait, továbbá az általa kibocsátott kötvény visszaváltását nem képes határidőben teljesíteni. A rendkívüli befizetési kötelezettséget az igazgatóság által meghatározott módon és időben kell teljesíteni. A rendkívüli befizetés alapja megegyezik az éves díj alapjával, de az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj mértékét.
 
 (8) Ha a Felügyelet minden biztosított tevékenységre kiterjedően felfüggesztette az Alap tagjának tevékenységét, és a felfüggesztés hatálya a felügyeleti engedély visszavonásáig fennáll, a tagot nem terheli a felfüggesztés hatálya alatt keletkezett díjfizetési kötelezettség. Amennyiben a tag tevékenységi engedélye nem kerül visszavonásra, a felfüggesztés ideje alatt keletkezett díjfizetési kötelezettséget a felfüggesztés feloldását követően teljesítenie kell.
 
@@ -2174,6 +2177,8 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 - c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv. 4. § (7) bekezdésében, a másik az MNBtv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatokat ellátó vezető;
 - d) az Alap ügyvezető igazgatója.
 
+(2a) Az igazgatóság tagja – az igazgatóság jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatóság ülésein.
+
 (3) A kijelölés három évre szól.
 
 (4) Ha egy megüresedett hely betöltésére több szervezetet is megillet a kijelölés joga és a szervezetek nem tudnak megállapodni az igazgatósági tag személyéről, a betöltendő hely megüresedésekor kijelölésre jogosult szervezetek egy-egy jelöltje közül sorsolással kell kiválasztani az igazgatóság új tagját.
@@ -2187,7 +2192,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 - c) a tag halálával; vagy
 - d) az ügyvezető igazgató kivételével lemondással.
 
-(7) Az igazgatóság a tagjai közül kétévente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
+(7) Az igazgatóság a tagjai közül évente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
@@ -2224,15 +2229,24 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 ### Az Alap forrásai
 
-226. § Az Alap forrásai
+226. § (1) Az Alap forrásai
 
 - a) a csatlakozási díj,
 - b) az éves díj,
 - c) a rendkívüli befizetés,
 - d) az Alap vagyonának hozama,
-- e) az Alap által felvett kölcsön, és
-- f)
+- e) az Alap által felvett kölcsön,
+- f) az Alap által kibocsátott kötvény,
 - g) egyéb bevétel.
+
+(2) Az Alap kölcsönt vehet fel
+
+- a) a 213. § (1) bekezdés szerinti feladat ellátása érdekében az MNB-től, illetve
+- b) a 213. § (1) bekezdés szerinti feladat ellátása, valamint az a) pont szerinti kölcsön visszafizetése érdekében hitelintézettől.
+
+(3) Az Alap a 213. § (1) bekezdés szerinti feladat ellátása, valamint a (2) bekezdés szerinti kölcsön visszafizetése érdekében kötvényt bocsáthat ki.
+
+(4) Az állam készfizető kezesként felel az Alap azon fizetési kötelezettségeiért, amelyek a (2) bekezdés szerinti kötelezettségei teljesítése érdekében felvett – az államháztartásért felelős miniszter által jóváhagyott összegű – kölcsöneiből és kötvénykibocsátásából erednek. Az Alap kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az Alapnak kezességvállalási díjat nem kell fizetnie.
 
 ### Az Alap számlavezetése és pénzkezelése
 
@@ -2436,15 +2450,18 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (3) A tőzsdére a Ptk. jogi személyekre vonatkozó rendelkezéseit, fióktelep formájában működő tőzsde esetében az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-298. § (1) A tőzsde – a 335. § (4) bekezdésében foglalt eltéréssel – kizárólag tőzsdei tevékenységet, illetve azt segítő kiegészítő tevékenységet folytathat.
+298. § (1) A tőzsde kizárólag
 
-(2) Tőzsdei tevékenységet segítő, kiegészítő tevékenység különösen az
+- a) tőzsdei tevékenységet,
+- b) tőzsdei tevékenységet segítő kiegészítő tevékenységet,
+- c) a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet folytathat.
 
-- a) elszámolóházi,
-- b) oktatási,
-- c) informatikai,
-- d) kiadvány előállítási és terjesztési,
-- e) adatszolgáltatási
+(2) Tőzsdei tevékenységet segítő kiegészítő tevékenység különösen az
+
+- a) oktatási,
+- b) informatikai,
+- c) kiadvány előállítási és terjesztési,
+- d) adatszolgáltatási
 
 tevékenység.
 
@@ -2542,7 +2559,7 @@ tevékenység.
 304. § A tőzsdei tevékenység végzésére szóló engedély iránti kérelemhez mellékelni kell:
 
 - a)
-- b) a végezni kívánt tőzsdei tevékenység részletes bemutatását, különösen a tőzsdei termékek felsorolását, az ügylettípusokat, a kereskedési technikákat, az elszámolási technikát, módszereket, az adatrögzítési, adatmentési, adatvédelmi megoldásokat;
+- b) a végezni kívánt tőzsdei tevékenység részletes bemutatását, különösen a tőzsdei termékek felsorolását, az ügylettípusokat, a kereskedési technikákat, az módszereket, az adatrögzítési, adatmentési, adatvédelmi megoldásokat;
 - c) a 303. § (2) bekezdés b) és c) pontjai elbírálhatósága érdekében rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, számítógépes kereskedési rendszer esetén a próbafuttatások eredményeit, melyből megállapítható, hogy a kérelmező 1. által üzemeltetett kereskedési rendszer biztosítja, hogy a tőzsdei kereskedők a kereskedésben való részvétel során azonos szolgáltatásokat azonos feltételekkel vehessenek igénybe, 2. által üzemeltetett kereskedési rendszer biztosítja a tisztességes, rendezett, megbízható és átlátható ajánlattételi rendet és áralakulást, a piaci viszonyok folyamatos nyomon követhetőségét, lehetővé teszi a tőzsde vagy a Felügyelet 325–329. §-okban meghatározott intézkedéseinek végrehajtását, 3. biztosítja a tőzsdei ajánlatok és üzletkötések rögzítését, megőrzését, illetve a tőzsdei adatok nyilvánosságra hozatalát; 4. adatkezelése megfelel a biztonságos adatvédelem feltételeinek; 5. informatikai rendszere alkalmas a tőzsdei ügyletek elszámolására (amennyiben a tőzsdei ügyletek elszámolása nem a tőzsde által történik, az elszámolóházi tevékenységet végző szervezettel, illetve a központi szerződő féllel kötött megállapodást kell benyújtani);
 - d) szabályzatait;
 - e) üzleti tervet a működés első három évére vonatkozóan;
@@ -2683,7 +2700,7 @@ tevékenység.
 
 ### A tőzsde szabályzatai
 
-317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket.
+317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket. A tőzsde által alkalmazott eljárásnak, rendszernek és megoldásnak biztosítania kell minden, a tőzsdére vonatkozó jogszabályban és a tőzsde szabályzatában foglalt előírás teljesülését, ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az ellenőrizhetőség biztosítását is.
 
 (2) A tőzsde szabályzatainak elfogadására és módosítására kizárólag az igazgatóság jogosult. A (4) bekezdés c) és e) pontjaiban meghatározott szabályzatok elfogadása vagy módosítása előtt az igazgatóság köteles kikérni a tőzsdei kereskedők, illetve, ha a d) pontban meghatározott szabályzat értékpapírra vonatkozik, a tőzsdére bevezetett értékpapírok kibocsátóinak vagy azok szakmai szervezetének véleményét.
 
@@ -2739,6 +2756,66 @@ foglaltakat.
 
 (3) A tőzsde szabályzatai, illetve azok módosításai a 317. § (10) bekezdése szerinti nyilvánosságra hozatalt követően alkalmazhatók.
 
+### XXXVI/A. Fejezet — KISZERVEZÉS
+
+318/A. § (1) A tőzsde – a (2)–(5) bekezdésben, valamint a 318/B. és 318/C. §-ban foglaltakra figyelemmel – tőzsdei tevékenységét, tőzsdei tevékenységet segítő kiegészítő tevékenységét, a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységét vagy bármely e törvény hatálya alá nem tartozó tevékenységét vagy szolgáltatását kiszervezheti.
+
+(2) A kiszervezés
+
+- a) nem eredményezheti a tőzsde vezető állású személyei hatáskörének átadását,
+- b) nem eredményezhet változást az ügyfél és a tőzsde közötti szerződéses viszonyban és nem befolyásolhatja a tőzsde ügyfél felé fennálló, e törvényben foglalt kötelezettségeinek teljesítését, és
+- c) nem eredményezhet változást az e törvény szerinti, tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében.
+
+(3) Ha a tőzsde tőzsdei tevékenységét, tőzsdei tevékenységet segítő kiegészítő tevékenységét, a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységét vagy kritikus funkcióját szervezi ki, a kiszervezésről szóló megállapodás megkötését megelőzően meggyőződik arról, hogy a leendő szerződő fél
+
+- a) rendelkezik-e a kiszervezésről szóló megállapodás tárgyát képező tevékenység ellátásához szükséges valamennyi hatósági engedéllyel, illetve a szükséges hatósági bejelentési kötelezettségének eleget tett-e,
+- b) szervezeti megoldása, működési és eljárási szabályai alkalmasak-e a kiszervezésről szóló megállapodás tárgyát képező tevékenység hatékony és eredményes ellátására, a hatékony ellenőrzésre és a kockázatok kezelésére,
+- c) szervezeti megoldása, működési és eljárási szabályai alkalmasak-e a kiszervezésről szóló megállapodás tárgyát képező tevékenység ellátása során felhasznált vagy keletkező, a tőzsdére vagy annak ügyfeleire, leendő szerződő feleire vonatkozó adatok jogszabályszerű kezelésére és védelmére,
+- d) rendelkezik-e mindazokkal a szervezeti megoldásokkal, működési és eljárási szabályokkal, valamint személyi és tárgyi feltételekkel, amelyek biztosítják, hogy a tőzsde számára minden, a Felügyelet eljárásához szükséges információt és adatot az elvárt formában és határidőben szolgáltasson, és
+- e) rendelkezik-e olyan vészforgatókönyvvel, amely a vészhelyzetek megoldására és a biztonsági eszközök rendszeres felülvizsgálatára vonatkozó szabályokat tartalmazza.
+
+(4) A tőzsde kritikus funkció kiszervezéséről szóló megállapodást csak azzal köthet, aki megfelel a (3) bekezdésben foglaltaknak.
+
+(5) A tőzsde az (1) bekezdésben meghatározott tevékenysége vagy szolgáltatása kiszervezésére harmadik országban székhellyel rendelkező személlyel vagy szervezettel akkor köthet megállapodást, ha a leendő szerződő megfelel a (3) bekezdésben foglaltaknak, valamint
+
+- a) a székhelye szerinti állam e tevékenység végzésére irányadó jogszabályainak és a hatáskörrel rendelkező felügyeleti hatóság felügyelete alatt áll, és
+- b) a kiszervezett tevékenységére nézve hatáskörrel rendelkező felügyeleti hatóság és a Felügyelet között a tevékenység felügyelete tekintetében együttműködési megállapodás van hatályban.
+
+(6) A (3) és (4) bekezdés alkalmazásában kritikus funkciónak minősül minden olyan funkció, amelynek végrehajtásában tapasztalható hiányosság vagy eltérés kétségessé teszi a tőzsde e törvényben előírt kötelezettségeinek teljesítését, jövedelmezőségét vagy a tőzsde által folytatott tevékenység végzésének folyamatosságát.
+
+318/B. § (1) A kiszervezésről szóló megállapodást a szerződő felek írásba foglalják.
+
+(2) A kiszervezésről szóló megállapodásban a felek rendelkeznek
+
+- a) a megállapodás időbeli hatályáról,
+- b) a szerződő felek jogairól és kötelezettségeiről,
+- c) a kiszervezésre kerülő tevékenységről.
+
+(3) A kiszervezésről szóló megállapodásban a (2) bekezdés b) pontjában foglalt jogok és kötelezettségek között a felek rendelkeznek legalább
+
+- a) a kiszervezett tevékenység végzésének a 318/A. § (3) bekezdésében foglalt feltételek szerinti értékelésének rendszerességéről és módjáról,
+- b) a 318/C. § szerinti értékelés során feltárt hiányosságok rendezésének szabályairól,
+- c) a Felügyelet számára szükséges információ- és adatszolgáltatás rendjéről és módjáról,
+- d) a kiszervezett tevékenységet végző személy vagy szervezet Felügyelettel történő együttműködésének kötelezettségéről, és
+- e) a kiszervezett tevékenység végzésének a 318/A. § (3) bekezdésében foglalt feltételeiben bekövetkezett változás tőzsde felé történő jelentésének módjáról.
+
+(4) A tőzsde az (1) bekezdés szerinti, kiszervezésről szóló megállapodást a megkötését követő három napon belül megküldi a Felügyeletnek.
+
+318/C. § (1) A tőzsde a kiszervezésről szóló megállapodás tárgyát képező tevékenysége vagy szolgáltatása megfelelő színvonalú ellátása érdekében folyamatosan értékeli a 318/A. § (3) bekezdésében foglaltak teljesülését.
+
+(2) Ha a tőzsde a kiszervezésről szóló megállapodásban foglaltak megsértését állapítja meg, amelynek következménye, hogy a 318/A. § (3) bekezdésében foglaltak nem teljesülnek,
+
+- a) felszólítja a kiszervezést végzőt a szerződésszerű teljesítésre, vagy
+- b) ha a szerződésszerű állapot nem állítható helyre, felmondja a kiszervezésről szóló megállapodást.
+
+(3) A megállapodás (2) bekezdés b) pontjában meghatározott felmondása nem eredményezheti a tőzsde tőzsdei tevékenységének vagy tőzsdei tevékenységet segítő, kiegészítő tevékenységének szünetelését vagy minőségének csökkenését.
+
+(4) Ha a tőzsde és a kiszervezett tevékenységet végző személy vagy szervezet ugyanazon csoport tagja, e fejezet rendelkezéseinek történő megfelelés céljából a tőzsde figyelembe veheti az általa a kiszervezett tevékenységet végzőre gyakorolt ellenőrzés és befolyás mértékét.
+
+### Az informatikai rendszer védelme
+
+318/D. § A tőzsdei tevékenységet végzőnek alkalmaznia kell a Bszt. 12. §-ában foglaltakat.
+
 ### XXXVII. Fejezet — TŐZSDEI ÜGYLET
 
 319. § (1) A tőzsdei ügylet az a szerződés, amelyet a tőzsdei kereskedő a tőzsdén – a tőzsdei szabályzat által lehetővé tett körben és módon – tőzsdei termékre vonatkozóan köt.
@@ -2751,7 +2828,7 @@ foglaltakat.
 
 321. § (1) A szerződő felek megállapodhatnak abban, hogy a tőzsdei ügyletben vállalt kötelezettségeiket a tőzsdei szabályzat által meghatározott későbbi időpontban teljesítik (határidős ügylet).
 
-(2) A határidős ügylet teljesítése történhet az ügylet tárgyának tényleges átadásával, közraktári jeggyel történő teljesítéssel, illetve számlapénz elszámolással. Az elszámolásra vonatkozó szabályok a szerződés tárgyának tényleges átadásával történő teljesítését korlátozhatják vagy kizárhatják.
+(2) A határidős ügylet teljesítése történhet az ügylet tárgyának tényleges átadásával, közraktári jeggyel történő teljesítéssel, illetve számlapénzben történő teljesítéssel. A teljesítésre vonatkozó szabályok a szerződés tárgyának tényleges átadásával történő teljesítését korlátozhatják vagy kizárhatják.
 
 322. § (1) Ha a kötelezett tőzsdei termékre másnak vételi jogot enged, a jogosult a vételi jog tárgyát egyoldalú nyilatkozattal megvásárolhatja (vételi opció). Annak a személynek, aki a jogosulttal szemben a tőzsdei termékre vételi kötelezettséget vállal, a jogosult a tőzsdei terméket egyoldalú nyilatkozattal eladhatja (eladási opció).
 
@@ -3723,7 +3800,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 (3) Tájékoztató, illetőleg alaptájékoztató és hirdetmény közzétételének engedélyezésére irányuló eljárás esetén a Felügyelet eljárásának időtartama tíz munkanap. Ha a kibocsátó első alkalommal hoz értékpapírt nyilvánosan forgalomba, a Felügyelet eljárásának időtartama húsz munkanap. Tájékoztató, illetőleg alaptájékoztató és hirdetmény közzétételének engedélyezésére irányuló kérelem esetében a Felügyelet tíz munkanapon belül kérhet hiánypótlást. A határidő meghosszabbításának a tájékoztató és a hirdetmény közzétételének engedélyezésére irányuló eljárásban nincs helye.
 
-(4) A 245. § (5) bekezdése szerinti alapsorozatba tartozó alapok első alapja esetében a tájékoztató, a kezelési szabályzat és a rövidített tájékoztató jóváhagyására, valamint a közzétételének engedélyezésére irányuló felügyeleti eljárás időtartama húsz munkanap, az alapsorozat azt követő, többi alapja esetében tíz munkanap. A tájékoztató, a kezelési szabályzat és a rövidített tájékoztató jóváhagyására, valamint közzétételének engedélyezésére irányuló kérelem esetében a Felügyelet tíz munkanapon belül kérhet hiánypótlást. A határidő meghosszabbításának a tájékoztató, a kezelési szabályzat és a rövidített tájékoztató jóváhagyására, valamint közzétételének engedélyezésére irányuló eljárásban nincs helye.
+(4)
 
 (5) A tulajdonosi jogok gyakorlásának korlátozására vonatkozó határozatot a Felügyelet nyolc napon belül a Cégközlönyben közzéteszi.
 
@@ -3751,7 +3828,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 - n) a kibocsátó vezető állású személyeinek családi és utóneve, születési helye és ideje, anyja neve (a továbbiakban: természetes személyazonosító adatai), lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
 - o) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
 - p) a forgalomba hozatal adatai;
-- q) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
+- q) a bennfentes személyek neve (cégneve), természetes személyazonosító adatai, lakcíme (székhelye);
 - r) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 - s) az engedélyezett tájékoztató;
 - t) a közzétételre kötelezett által megjelölt közzétételi hely.
@@ -3933,7 +4010,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - f) a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
 - g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
 - h) a tőzsdei tevékenység folytatását részben vagy egészben meghatározott időre felfüggesztheti;
-- i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék kereskedésből történő kivezetését;
+- i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék terméklistáról történő törlését;
 - j) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár tevékenységi engedélyét visszavonhatja;
 - k) a kockázati tőkealap-kezelőt meglévő szerződéses kötelezettségeinek más szolgáltató részére történő átadására kötelezheti;
 - l) felügyeleti biztost rendelhet ki a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, központi szerződő félhez illetve a központi értéktárhoz;
@@ -3945,7 +4022,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - r) kötelezheti a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat 1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetve alkalmazására, 2. az alkalmazottak (vezetők) szakmai továbbképzésére, illetve megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 3. a működési költségek csökkentésére, 4. megfelelő nagyságú tartalék képzésére;
 - s) a tőzsde jogszabályba ütköző tevékenységét megtiltja, a tőzsdét új szabályzat kidolgozására vagy új határozat hozatalára kötelezi;
 - t) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
-- u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 40. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
+- u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 34. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
 - v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja.
 
 (2) A Felügyelet az (1) bekezdés h), i), n), o), r), s) és v) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
@@ -3964,7 +4041,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (6) A Felügyelet (4) bekezdés szerinti intézkedése az intézkedést megelőzően megkötött tőzsdei ügyletek elszámolását nem érinti.
 
-(7) A Felügyelet a tevékenység kiszervezését megtilthatja, ha nem felel meg a Bszt. kiszervezésre vonatkozó előírásainak.
+(7) A Felügyelet a tevékenység kiszervezését megtilthatja, ha nem felel meg az e törvény kiszervezésre vonatkozó előírásainak.
 
 (8) A Felügyelet az (1) bekezdés r) pont 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
 
@@ -4004,7 +4081,23 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (5)
 
-403. §
+### A helyszíni vizsgáló
+
+403. § (1) A Felügyelet az e törvényben foglalt, továbbá a központi értéktár vagy központi szerződő fél tevékenységére vonatkozó előírások felügyeleti ellenőrzésével kapcsolatos hatáskörének gyakorlása érdekében – a központi értéktár vagy a központi szerződő fél működésének szükségtelen zavarása nélkül, indokolt gyakorisággal, ideiglenes jelleggel, meghatározott időtartamra – egy vagy több – helyszíni vizsgálót rendelhet ki.
+
+(2) A Felügyelet a helyszíni vizsgálatot végző alkalmazottját megbízólevéllel látja el.
+
+(3) A kirendelt helyszíni vizsgáló jogosult
+
+- a) bármely ellenőrzési tevékenység ellátására,
+- b) megfigyelőként részt venni és felszólalni az ügyvezetés, igazgatóság, valamely kockázatvállalási döntést hozó testület vagy bizottság, valamint a felügyelőbizottság ülésén, a közgyűlésen,
+- c) konzultálni a központi értéktár, illetve a központi szerződő fél könyvvizsgálójával.
+
+(4) A helyszíni vizsgáló kirendelésének időtartama harminc napra szól, amely indokolt esetben harminc nappal meghosszabbítható.
+
+(5) Ha az e §-ban meghatározott helyszíni vizsgáló a működése során jogszabálysértést tapasztal, – a vizsgáló kezdeményezésére – a Felügyelet a jogsértés súlyának figyelembevételével köteles célvizsgálatot vagy rendkívüli célvizsgálatot indítani.
+
+(6) A helyszíni vizsgáló kirendelése a határozott időtartam lejártával vagy a Felügyelet végzésével zárul.
 
 ### Az Európai Unió másik tagállamában székhellyel rendelkező intézmények fióktelepének felügyelete
 
@@ -4026,7 +4119,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 ### A felügyeleti bírság
 
-405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet és a piacbefolyásolást elkövető személyt az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá, ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
+405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet és a piacbefolyásolást elkövető személyt, a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályokat megsértő személyt az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá, ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
 
 (2) A Felügyelet a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti nem pénzügyi szerződő felet a rendelet 4. és 9–11. cikkében előírt kötelezettsége megsértése esetén bírság megfizetésére kötelezheti.
 
@@ -4064,13 +4157,33 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 410. § A 146/A. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 146/B. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
-411. § Az az elszámolóház, amely a 2014. december 31-én hatályos 335. § (3) bekezdés a) és c) pontjában foglalt tevékenység végzésére engedéllyel rendelkezett, a 909/2014/EU rendelet szerinti központi értéktári tevékenység végzésére szóló engedély megszerzéséig, de legkésőbb 2016. június 30-ig ezen engedélyben foglaltak szerint jogosult e tevékenységek végzésére.
+411. § Az az elszámolóház, amely
+
+- a) a 2014. december 31-én hatályos 335. § (3) bekezdés a) és c) pontjában foglalt tevékenység végzésére engedéllyel rendelkezett és
+- b) a 2015. december 31-én hatályos 334. §-ban, valamint a 335. § (3) és (5) bekezdésében megjelölt tevékenységek végzésére jogosult volt a 909/2014/EU rendelet szerinti központi értéktári tevékenység – szakosított hitelintézetként történő – végzésére szóló engedély megszerzéséig, de legkésőbb 2016. június 30-ig ezen engedélyben foglaltak szerint jogosult az a) és b) pontban megjelölt tevékenységek végzésére.
 
 412. § (1)–(3)
 
 (4) Az 5. § (1) bekezdés 116–118. pontjában meghatározott személynek a külön jogszabályban előírt vizsga letételét 2007. június 30-ig kell a Felügyeletnek igazolnia.
 
-413–414. §
+413. § (1) 2016. január 1-jén annak a személynek, akinek 2015. december 31-én az Alappal
+
+- a) határozatlan idejű munkaviszonya áll fenn, e jogviszonya határozatlan idejű Országos Betétbiztosítási Alappal fennálló munkaviszonnyá,
+- b) határozott idejű munkaviszonya áll fenn, e jogviszonya határozott idejű Országos Betétbiztosítási Alappal fennálló munkaviszonnyá alakul át.
+
+(2) A 2015. december 31-én az Alapnál fennálló munkaviszonyban kikötött próbaidő mértéke a jogviszonyváltást követően változatlan marad.
+
+(3) Az (1) bekezdésben meghatározott személy munkabére 2016. január 1-jétől nem lehet kevesebb, mint a 2015. december 31-én a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerint fennálló munkaszerződése alapján őt megillető munkabér.
+
+(4) Ha a munkavállaló az (1)–(3) bekezdésben meghatározottak szerint létrejött munkaviszonyában a munkaszerződését annak átvételét követő nyolc munkanapon belül nem írja alá, munkaviszonya az Mt.-nek a munkavállaló felmondására vonatkozó szabályai szerint szűnik meg, azzal, hogy a felmondási idő kezdete a munkaszerződés átvételét követő kilencedik napon kezdődik, kivéve, ha a késedelem a munkavállaló önhibáján kívül eső okból következett be. A munkaszerződés munkavállaló általi aláírásának időpontjáig a munkáltatói jogkört a munkavállaló felett az Országos Betétbiztosítási Alappal létrejött munkaviszonyában az Országos Betétbiztosítási Alap ügyvezető igazgatója gyakorolja.
+
+(5) Az Alapnál fennálló, (1) bekezdés szerinti jogviszony időtartamát – ideértve a jogviszonnyal kapcsolatosan elismert egyéb foglalkoztatási időtartamot is 2016. január 1-et követően az Országos Betétbiztosítási Alappal fennálló munkaviszonyban töltött időként kell elismerni és figyelembe venni. Az Alap 2015. december 31. napjával a nála foglalkoztatott személyek számára munkáltatói igazolást állít ki.
+
+(6) Az Alap által 2015. december 31-én foglalkoztatott személyek részére – az őket munkaviszonyukban 2015. december 31. napjáig megillető – ki nem adott szabadságot az Alap megváltja.
+
+(7) Az (1) bekezdésben meghatározott személyek tekintetében az Országos Betétbiztosítási Alap a Nemzeti Adó- és Vámhivatal felé fennálló, a munkáltató vagy kifizető által foglalkoztatott biztosítottak adataira vonatkozó jelentéstételi és változás-bejelentési kötelezettségének a munkaviszony létesítésétől számított 8 munkanapon belül tehet eleget.
+
+414. §
 
 415. § (1) A 217. § (2) bekezdésében meghatározott kártalanítási összeghatár 2004. december 31-ig egymillió forint, 2005. január 1-jétől 2007. december 31-ig pedig kettőmillió forint. A kártalanítási összeghatár megállapításánál a felszámolási eljárás kezdő napját kell figyelembe venni.
 
@@ -4181,6 +4294,8 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 450/B. § Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 7. § (2) bekezdésével megállapított 58. § (5a) bekezdésében foglalt rendelkezéseknek 2015. február 1-jétől kell megfelelni.
 
+450/C. § Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény 13. §-ával megállapított 142/A. § (5) bekezdésében meghatározott belépési azonosító és jelszó kezelésének és a számlatulajdonos részére történő átadásának rendjére vonatkozó adatbiztonsági követelményeket rögzítő szabályzatot a számlavezető első alkalommal 2015. szeptember 30. napjáig küldi meg jóváhagyásra az MNB-nek.
+
 ### Felhatalmazások
 
 451. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
@@ -4242,7 +4357,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - 7. Cstv.: a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény,
 - 8. Fkt.: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény,
 - 9. Fttv.: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény,
-- 10.
+- 10. Szantv.: a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény,
 - 11. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 - 12. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 - 13. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,

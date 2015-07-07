@@ -247,7 +247,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (4) A pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles biztosítani, hogy a rendelkezési jogosultságot csak a számlatulajdonos és az általa feljogosított gyakorolhassa.
 
-(5) A rendelkezési jog gyakorlása során a pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles ellenőrizni, hogy a megbízáson feltüntetett aláírás [ideértve személyazonosító kódot (PIN kód) vagy egyéb kódot] megegyezik-e a rendelkezésre jogosult pénzforgalmi szolgáltató bejelentett aláírásával [személyazonosító kódjával (PIN kód) vagy egyéb kódjával].
+(5) A rendelkezési jog gyakorlása során a pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles ellenőrizni, hogy a megbízáson feltüntetett aláírás [ideértve személyazonosító kódot (PIN kód) vagy egyéb kódot] megegyezik-e a rendelkezésre jogosult pénzforgalmi szolgáltatónál bejelentett aláírásával [személyazonosító kódjával (PIN kód) vagy egyéb kódjával].
 
 20. § (1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy (e § alkalmazásában a továbbiakban: vezető) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezni jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a vezető által a fizetési számla feletti rendelkezésre bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.
 
@@ -766,6 +766,8 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 (4) A nyilatkozatadat-szolgáltató a (3) bekezdés szerinti tájékoztatás iránti kérelmet a Központi Nyilvántartást kezelő pénzügyi vállalkozásnak haladéktalanul, de legkésőbb a kérelem kézhezvételét követő öt munkanapon belül továbbítja, amely három napon belül a kért adatokat írásban, zárt módon megküldi a nyilatkozatadat-szolgáltatónak. A nyilatkozatadat-szolgáltató az adatokat a kézhezvételt követően ugyancsak írásban, zárt módon, haladéktalanul, de legkésőbb öt munkanapon belül megküldi a kérelmezőnek.
 
 (5) A nyilatkozattevő írásban (postai úton, telefaxon, elektronikus levélben) a Központi Nyilvántartást kezelő pénzügyi vállalkozástól is tájékoztatást igényelhet a róla kezelt nyilatkozatadatokról.
+
+(5a) A Központi Nyilvántartást kezelő pénzügyi vállalkozás a (4) és (5) bekezdés szerint előterjesztett tájékoztatás iránti igényléseket – amennyiben a nyilatkozattevő ezt kifejezetten kéri – elektronikus levélben is megadhatja.
 
 (6) A nyilatkozattevő a nyilatkozatadat-szolgáltatónál a (3) bekezdés szerint, vagy a Központi Nyilvántartást kezelő pénzügyi vállalkozásnál az (5) bekezdés szerint kérheti a nyilatkozatadatok helyesbítését, valamint – ha azok kezelésének jogalapja nem áll fenn – a törlését.
 

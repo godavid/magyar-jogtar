@@ -55,7 +55,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 (2) A pénzügyi intézmény a rögzített árfolyam alkalmazási időszaka alatt svájci frank esetén a 180 HUF/CHF, euró esetén a 250 HUF/EUR, japán jen esetén a 2,5 HUF/JPY árfolyamot alkalmaz. A rögzített árfolyam alkalmazási időszaka
 
 - a) kezdő időpontja a felek által kötött, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés alapján a hiteladós által tett, közjegyzői okiratba foglalt tartozáselismerő nyilatkozat pénzügyi intézmény részére történő átadás időpontját – ha nem kerül sor közjegyzői okiratba foglalására, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés megkötését – követő, a devizakölcsön törlesztésére vonatkozó soron következő második törlesztési esedékességi nap,
-- b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 180 napot meghaladó késedelembe esik, akkor a késedelem 181. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
+- b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 180 napot meghaladó késedelembe esik, akkor a késedelem 181. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja; az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: Fttv.) hatálya alá tartozó fogyasztói kölcsönszerződések esetében a fordulónap.
 
 (3) Amennyiben a hitelező a Hpt. alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
 
@@ -111,17 +111,19 @@ a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatko
 4. § (1) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésnek a következő feltételeknek kell megfelelnie:
 
 - a) a rögzített árfolyam alkalmazási időszakának záró időpontjáig a pénzügyi intézmény a hiteladós devizakölcsönből eredő bármely fizetési kötelezettségének teljesítése esetén, annak tényleges elszámolásakor a pénzügyi intézmény által alkalmazott törlesztési árfolyam és a rögzített árfolyam közötti különbség forint összegét, a teljesítés elszámolásával egyidejűleg a gyűjtőszámlahitelből történő folyósítással biztosítja,
-- b) a pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő fizetési kötelezettséget a hiteladóssal szemben a rögzített árfolyam alkalmazási időszaka záró időpontjáig nem állapít meg, ezt követően a záró időpontban fennálló gyűjtőszámlahitel-tartozás alapulvételével az annuitás szabályai szerint havi törlesztési kötelezettséget állapít meg,
+- b) a pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő fizetési kötelezettséget a hiteladóssal szemben a rögzített árfolyam alkalmazási időszaka záró időpontjáig nem állapít meg, ezt követően – a g) pontban foglalt kivétellel – a záró időpontban fennálló gyűjtőszámlahitel-tartozás alapulvételével az annuitás szabályai szerint havi törlesztési kötelezettséget állapít meg,
 - c) a gyűjtőszámlahitel háromhavonta tőkésíthető, három hónapos kamatperiódusra meghatározott ügyleti kamata nem haladhatja meg
-  - ca) a rögzített árfolyam alkalmazási időszaka záró időpontjáig a kamatperiódus kezdő időpontjával érintett hónap első napján érvényes 3 havi BUBOR mindenkor aktuális mértékét,
-  - cb) a rögzített árfolyam alkalmazási időszaka záró időpontját követően a futamidő végéig a pénzügyi intézmény által a kapcsolódó devizakölcsön céljával azonos célra nyújtott forinthitelre meghatározott piaci kamat mértékét,
+  - ca) a rögzített árfolyam alkalmazási időszaka záró időpontjáig – az Fttv. szerint forintosított kölcsönszerződések esetében a g) pontban meghatározott időpontig vagy a 4. § (8) bekezdésben az abban meghatározott időpontig – a kamatperiódus kezdő időpontjával érintett hónap első napján érvényes 3 havi BUBOR mindenkor aktuális mértékét,
+  - cb) a rögzített árfolyam alkalmazási időszaka záró időpontját követően – az Fttv. szerint forintosított kölcsönszerződések esetében a g) pontban meghatározott időponttól vagy a 4. § (8) bekezdésben meghatározott időpontot követően – a futamidő végéig a pénzügyi intézmény által a kapcsolódó devizakölcsön céljával azonos célra nyújtott forinthitelre meghatározott piaci kamat mértékét,
 - d) a hitelbírálat során, valamint a szerződésszerű teljesítése esetén az ügyleti kamaton kívül egyéb járulék és díj jogcímén fizetési kötelezettséget a pénzügyi intézmény a hiteladóssal szemben nem érvényesíthet,
 - e) amennyiben a hiteladósnak a rögzített árfolyam alkalmazási időszaka kezdő időpontjában a devizakölcsönből eredően késedelmes tartozása áll fenn, e tartozás teljes összegének – a kezdő időpontban érvényes hitelezői törlesztési árfolyam alkalmazásával megállapított – forint ellenértékét a hiteladós a kezdő időpontban a gyűjtőszámlahitel terhére végrehajtott folyósítással megfizeti.
 - f) a gyűjtőszámlahitel terhére folyósított összegből
   - fa) a mentesített követelésrészt, valamint
   - fb) a legmagasabb árfolyamot meghaladó árfolyam miatt felmerülő törlesztési kötelezettség teljes összegét
 
-a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
+a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni,
+
+- g) az Fttv. szerint forintosított fogyasztói kölcsönszerződések esetében a pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő fizetési kötelezettséget a hiteladóssal szemben az e törvényben meghatározott, a rögzített árfolyam alkalmazási időszakának kezdő időpontjától számított hatvanadik hónapig vagy – amennyiben az korábbi időpontra esik – a szerződés végső lejáratának időpontjáig nem állapít meg, ezt követően a fennálló gyűjtőszámlahitel-tartozás alapulvételével az annuitás szabályai szerint havi törlesztési kötelezettséget állapít meg.
 
 (1a) A közszférában dolgozó a gyűjtőszámlahitele ügyleti kamatát illetően kormányrendeletben meghatározott módon kamattámogatásra jogosult.
 
@@ -144,17 +146,11 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 
 (7) A hiteladós a rögzített árfolyam alkalmazási időszaka alatt jogosult – a kezdő időponttól számított 36. hónapot követően, de legkésőbb a záró időpontot megelőző 2. törlesztés esedékességéig – egyoldalú írásbeli nyilatkozatával a rögzített árfolyam alkalmazásának megszüntetését a pénzügyi intézménynél kezdeményezni. Ilyen kezdeményezés esetén a pénzügyi intézmény a kérelem kézhezvételét követő 30 nap utáni első esedékességtől a rögzített árfolyam alkalmazását megszünteti.
 
-4/A. § (1) A pénzügyi intézmény – külön díj felszámítása nélkül – a gyűjtőszámlahitel tartozásról készített kimutatás keretében, a fizetési számlához vagy a devizakölcsön elszámolási számlához kapcsolódóan negyedévenként tájékoztatja a hiteladóst a mentesített követelésrész adott időszakra eső összegéről és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötésétől számított összegéről.
+(8) A hiteladós – a jelen törvényben meghatározott rögzített árfolyam alkalmazási időszak kezdő időpontjától számított hatvanadik hónapig – bármikor kezdeményezheti a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés olyan módosítását, amely alapján a pénzügyi intézmény a kezdeményezés időpontjában fennálló gyűjtőszámlahitel-tartozás alapulvételével az annuitás szabályai szerint havi törlesztési kötelezettséget állapít meg. A felek a kezdeményezés kézhezvételét követő 30 nap utáni első törlesztési esedékességi naptól kezdődően a hitelkeret-szerződést a kezdeményezésnek megfelelően módosítják.
 
-(2) A pénzügyi intézmény az (1) bekezdésben meghatározottakról a negyedévet követő hónap 30. napjáig – a rögzített árfolyam alkalmazási időszak záró időpontját követően a záró időpontot követő hónap 30. napjáig – postára adott levélben vagy más, a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésben meghatározott tartós adathordozón tájékoztatja a hiteladóst.
+(9) A rögzített árfolyam alkalmazásának záró időpontját követően – az 5. § (1) bekezdésétől eltérően – a hiteladós jogosult a gyűjtőszámlahitelre vonatkozó hitelkeret szerződés alapján fennálló tartozása teljes vagy részleges előtörlesztésére.
 
-(3) Az (1) bekezdésben meghatározott tájékoztatást a 2. melléklet szerinti tartalommal, jól látható, egyértelműen elkülöníthető módon, bekeretezve, legalább a tájékoztató többi adatával megegyező méretben kell feltüntetni.
-
-(4) A 2. mellékletben meghatározott szövegben az adott időszakot az időszak első és utolsó napjának feltüntetésével kell megjelölni.
-
-(5) A pénzügyi intézmény – külön díj felszámítása nélkül – 2014. március 20-áig postára adott levélben vagy más, a devizakölcsön-szerződésben meghatározott tartós adathordozón tájékoztatást küld az árfolyamrögzítés lehetőségéről és lényeges jellemzőiről annak a hiteladósnak, aki jogosult gyűjtőszámlahitelre, de még nem kötött gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést és nem kezdeményezte a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését.
-
-(6) A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank az e § tájékoztatásra vonatkozó rendelkezéseinek való megfelelést fogyasztóvédelmi eljárás keretében vizsgálja, azok megsértése esetén fogyasztóvédelmi eljárást folytat le.
+#### 4/A. §
 
 5. § (1) Ha a hiteladós előtörlesztést teljesít, az előtörlesztett összeget – amennyiben a devizakölcsönből eredő tartozása a hiteladósnak még fennáll, a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény 12. § (1) bekezdésében szabályozott előtörlesztés kivételével – a devizakölcsön előtörlesztéseként kell elszámolni. A pénzügyi intézmény a devizakölcsönre vonatkozó teljes előtörlesztést abban az esetben fogadja el, ha az előtörlesztett összeg a gyűjtőszámlahitelre vonatkozó hitelkeretszerződésből eredő tartozás teljes megfizetését is fedezi. A devizakölcsön részleges vagy teljes előtörlesztésére – törvény eltérő rendelkezése hiányában – annak tényleges elszámolásakor a pénzügyi intézmény által alkalmazott törlesztési árfolyamon kerülhet sor.
 
@@ -297,9 +293,3 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 | 5 | megyék, Budapest | 2014. I–IV. negyedév | 5% |
 
 ### 2. melléklet a 2011. évi LXXV. törvényhez
-
-#### A pénzügyi intézmény tájékoztatása a mentesített követelésrész adott időszakra eső összegéről és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötésétől számított összegéről
-
-| A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a mentesített követelésrész (az állam és a pénzügyi intézmény által átvállalt tartozás) ………. időszakra eső összege: | Ft |
-| --- | --- |
-| A mentesített követelésrésznek a szerződés megkötésétől számított összege: | Ft |

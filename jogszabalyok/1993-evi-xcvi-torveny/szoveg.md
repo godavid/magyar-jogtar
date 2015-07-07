@@ -1578,6 +1578,10 @@ nyújthat.
 
 (6) A Felügyelet a pénztár tevékenységének korlátozásával megtilthatja a pénztár szolgáltatási körében szereplő egyes szolgáltatások nyújtását, ha valamely szolgáltatás nem felel meg a jogszabályi előírásoknak. A tevékenységet korlátozó határozatban megjelölt szolgáltatáson kívül a pénztár a többi szolgáltatását továbbra is nyújthatja.
 
+(7) A pénztár köteles a Felügyelet által a (3) bekezdés alapján vele szemben hozott határozat rendelkező részét az adott határozat közlésétől számított öt évig honlapján közzétenni. Ha a pénztár nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+
+(8) A pénztár jogosult a (7) bekezdésben meghatározott határozat indokolását is közzétenni. Az indokolás közzététele során a pénztári és üzleti titokvédelmi szabályok által védett adatok közzétételét mellőzni kell, a pénztár mérlegelése alapján a saját üzleti titkai körébe tartozó adatokat közzéteheti.
+
 66. §
 
 67. §
