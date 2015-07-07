@@ -2803,7 +2803,7 @@ szemben.
 
 (1a) Nem jelenti az üzleti titok sérelmét a biztosító által az adóhatóság felé történő adatszolgáltatás a FATCA-törvény alapján az Aktv. 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez.
 
-(1b) Nem jelenti az üzleti titok sérelmét a Felügyelet által az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság felé történő adatszolgáltatás az európai felügyeleti hatóság (az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) létrehozásáról, valamint a 716/2009/EK határozat módosításáról és a 2009/79/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1094/2010/EU európai parlamenti és tanácsi rendeletnek megfelelően.
+(1b) Nem jelenti az üzleti titok sérelmét a Felügyelet által az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság felé történő adatszolgáltatás – ideértve a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelv szerinti szabályozási környezetből adódó feladatokra való felkészüléshez szükséges információk szolgáltatását is – az európai felügyeleti hatóság (az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) létrehozásáról, valamint a 716/2009/EK határozat módosításáról és a 2009/79/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1094/2010/EU európai parlamenti és tanácsi rendeletnek megfelelően.
 
 (2) A 162. §-ban előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
 

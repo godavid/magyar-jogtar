@@ -1984,6 +1984,10 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (3) A pénztár tevékenységi engedélyét a 83. § (1a) bekezdése szerinti esetben vissza kell vonni.
 
+(4) A pénztár köteles a Felügyelet által az (1) bekezdés alapján vele szemben hozott határozat rendelkező részét az adott határozat közlésétől számított öt évig honlapján közzétenni. Ha a pénztár nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+
+(5) A pénztár jogosult a (4) bekezdésben meghatározott határozat indokolását is közzétenni. Az indokolás közzététele során a pénztári és üzleti titokvédelmi szabályok által védett adatok közzétételét mellőzni kell, a pénztár mérlegelése alapján a saját üzleti titkai körébe tartozó adatokat közzéteheti.
+
 111. §
 
 112. §

@@ -8,11 +8,14 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 
 ### A törvény hatálya
 
-1. § E törvény hatálya kiterjed:
+1. § (1) E törvény hatálya kiterjed:
 
-- a) a magyar jog alapján működő, a 2. § i) pontjában meghatározott fizetési, illetve értékpapír-elszámolási rendszerre (a továbbiakban együtt: rendszer),
-- b) a magyar jog alapján működő rendszer valamennyi résztvevőjére, illetve az Európai Unió más tagállamának joga alapján működő rendszer magyarországi székhelyű résztvevőjére,
-- c) a magyar jog, illetve az Európai Unió más tagállamának joga alapján működő rendszerben nyújtott biztosítékra, ha annak nyilvántartása Magyarországon történik.
+- a) a magyar jog alapján működő, a 2. § (1) bekezdés i) pontjában meghatározott fizetési, illetve értékpapír-elszámolási rendszerre (a továbbiakban együtt: rendszer),
+- b) a magyar jog alapján működő rendszer valamennyi résztvevőjére,
+- c) az Európai Unió más tagállamának joga alapján kijelölt vagy működő rendszer magyarországi székhelyű résztvevőjére a (2) bekezdés és a 12–13. § vonatkozásában,
+- d) a magyar jog, illetve az Európai Unió más tagállamának joga alapján működő rendszerben nyújtott biztosítékra, ha annak nyilvántartása Magyarországon történik.
+
+(2) Az Európai Unió más tagállamának joga alapján kijelölt vagy működő rendszer magyarországi székhelyű résztvevőjének a rendszerben való részvételből származó jogait és kötelezettségeit, ideértve az üzleti nap adott rendszer szabályai szerint meghatározott fogalmát is, minden esetben a rendszerre irányadó jog szerint kell megállapítani.
 
 ### Értelmező rendelkezések
 
@@ -38,14 +41,14 @@ amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bek
 - g) központi szerződő fél: az a szervezet, amely a rendszer intézményeinek transzfer megbízásai tekintetében – a jogviszonyba belépve – mindannyiukkal szemben kizárólagos szerződő félként jár el;
 - h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljesítő fél, elszámoló fél vagy rendszerüzemeltető, amely a transzfer megbízásokat teljesítő rendszer valamely résztvevőjével szerződéses kapcsolatban áll abból a célból, hogy transzfer megbízásait e résztvevő bonyolítsa le számára a rendszeren keresztül, feltéve, hogy a közvetett résztvevő a rendszerüzemeltető számára ismert;
 - i) rendszer: az – a rendszerkapcsolatnak nem minősülő – írásbeli megállapodáson alapuló együttműködési forma,
-  - ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre,
+  - ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre, és
   - ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot;
 - j) résztvevő: az intézmény, a központi szerződő fél, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
 - k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg átruházható értékpapírt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
 - l) teljesítés: a rendszer résztvevői közötti tartozások és követelések kiegyenlítése a teljesítési számlákon;
 - m) teljesítési számla: a teljesítő félnél, központi szerződő félnél, illetve központi banknál vezetett, pénzeszközök és értékpapírok kezelésére szolgáló számla, ahol a rendszer résztvevői közötti transzfer megbízások kiegyenlítése történik;
-- n) teljesítő fél: az a szervezet, amely a rendszerben résztvevő intézmények, illetőleg a központi szerződő fél teljesítési számlájának vezetőjeként biztosítja a transzfer megbízások kiegyenlítését, illetve – szükség esetén – az intézmény, illetőleg a központi szerződő fél részére hitelt nyújt a teljesítés megkönnyítése érdekében.
-- o) üzleti nap: a rendszer üzleti ciklusa által meghatározott azon huszonnégy órás időszak, amelyben az üzleti események történnek, ideértve az éjszakai és nappali elszámolásokat is;
+- n) teljesítő fél: az a szervezet, amely a rendszerben résztvevő intézmények, illetve – amennyiben alkalmazandó – a központi szerződő fél teljesítési számlájának vezetőjeként biztosítja a transzfer megbízások kiegyenlítését, illetve – szükség esetén – az intézmény, illetőleg a központi szerződő fél részére hitelt nyújt a teljesítés megkönnyítése érdekében;
+- o) üzleti nap: a rendszer üzleti ciklusa által meghatározott azon időszak, amelyben az üzleti események történnek, ideértve az éjszakai és nappali elszámolásokat és a rendszer üzleti ciklusában bekövetkező valamennyi eseményt is;
 - p) rendszerkapcsolat: a transzfer megbízások rendszerek közötti teljesítése céljából a kapcsolódó rendszerek rendszerüzemeltetői által írásbeli megállapodással létrehozott együttműködési forma;
 - q) rendszerüzemeltető: a rendszer működéséért polgári jogi felelősséggel tartozó szervezet.
 
@@ -100,9 +103,9 @@ bíróság vagy az intézkedésre jogosult hatóság általi közlésének időp
 
 (5) A résztvevő ellen indult fizetést korlátozó eljárásban a Polgári perrendtartásról szóló 1952. évi III. törvény 105. §-a (4) bekezdésének rendelkezése nem alkalmazható.
 
-(6) A kijelölő hatóság a fizetést korlátozó eljárás megindításáról haladéktalanul értesíti az Európai Rendszerkockázati Testületet, az Európai Értékpapír-piaci Hatóságot és a tagállamok illetékes hatóságait, valamint haladéktalanul továbbítja a tagállamoktól érkező értesítéseket a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőhöz.
+(6) A kijelölő hatóság a fizetést korlátozó eljárás megindításáról vagy az eljárás megindításával kapcsolatos kérelem előterjesztéséről haladéktalanul értesíti az Európai Rendszerkockázati Testületet, az Európai Értékpapír-piaci Hatóságot és a tagállamok illetékes hatóságait, valamint haladéktalanul továbbítja a tagállamoktól érkező hasonló jellegű értesítéseket a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőhöz.
 
-(7) A bíróság vagy az intézkedésre jogosult hatóság, illetve a kijelölő hatóság a fizetést korlátozó eljárás megindításával kapcsolatos belföldi értesítési kötelezettségének olyan módon köteles eleget tenni, hogy az értesítés elektronikus dokumentum formájában a lehető legrövidebb időn belül megérkezzék a 3. § (1) bekezdés c) pontja szerinti rendszerüzemeltetőhöz, illetve a kijelölő hatósághoz. Amennyiben az elektronikus úton való értesítésre nincsen lehetőség, akkor az értesítési kötelezettségnek személyes átadás, az intézkedésre jogosult vagy a kijelölő hatóság kézbesítője útján, vagy postai úton kell eleget tenni.
+(7) A bíróság vagy az intézkedésre jogosult hatóság és a kijelölő hatóság a fizetést korlátozó eljárás megindításával vagy az eljárás megindításával kapcsolatos kérelem előterjesztésével kapcsolatos belföldi értesítési kötelezettségeiknek olyan módon kötelesek eleget tenni, hogy az értesítés elektronikus dokumentum formájában az (1) bekezdésben foglaltaknak megfelelően a lehető legrövidebb időn belül megérkezzék a 3. § (1) bekezdés c) pontja szerinti rendszerüzemeltetőhöz, illetve a kijelölő hatósághoz. Amennyiben az elektronikus úton való értesítésre nincsen lehetőség, akkor az értesítési kötelezettségnek személyes átadás, az intézkedésre jogosult vagy a kijelölő hatóság kézbesítője útján vagy postai úton kell eleget tenni.
 
 (8) A (7) bekezdés szerinti elektronikus dokumentum formájában történő értesítést olyan üzenettovábbító rendszer útján kell megküldeni, amelynek sértetlensége biztosított, és amely
 
@@ -179,7 +182,7 @@ bíróság vagy az intézkedésre jogosult hatóság általi közlésének időp
 
 ### AZ EURÓPAI UNIÓ MÁS TAGÁLLAMÁNAK JOGA ALAPJÁN MŰKÖDŐ RENDSZER MAGYARORSZÁGI SZÉKHELYŰ RÉSZTVEVŐJÉNEK ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE
 
-12. § (1) Az Európai Unió más tagállamának joga alapján működő rendszer magyarországi székhelyű résztvevője a rendszerhez való csatlakozás tényéről a csatlakozástól, illetve a rendszerből való kilépésről a kilépéstől számított 15 napon belül tájékoztatni köteles a kijelölő hatóságot.
+12. § (1) Az Európai Unió más tagállamának joga alapján működő rendszer magyarországi székhelyű résztvevője az ezen rendszerhez való csatlakozás tényéről a csatlakozástól, illetve a rendszerből való kilépésről a kilépéstől számított 15 napon belül tájékoztatni köteles a kijelölő hatóságot.
 
 (2) Az (1) bekezdés szerinti csatlakozásról szóló tájékoztatáshoz mellékelni kell:
 
