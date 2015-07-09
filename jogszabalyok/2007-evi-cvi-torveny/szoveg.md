@@ -53,12 +53,16 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 gyakorolja.
 
-(2a) A 2. §-ban meghatározott célok hatékonyabb elérése érdekében – e törvény keretei között – az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját
+(2a) E törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját
 
-- a) a kormányzati tevékenység összehangolásáért felelős miniszter a (2) bekezdés a) pontjában meghatározott gazdasági társaságok tekintetében,
-- b) a miniszter az MNV Zrt. tulajdonosi joggyakorlásába tartozó állami vagyoni kör tekintetében
+- a) a kormányzati tevékenység összehangolásáért felelős miniszter kizárólag az általa irányított, felügyelt költségvetési szerv vagy a tulajdonosi joggyakorlása vagy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonban álló gazdasági társaság kijelölésével határozhatja meg
+  - aa) a tulajdonosi joggyakorlása alá törvény vagy miniszteri rendelet alapján tartozó társasági részesedés tekintetében,
+  - ab) az általa irányított, felügyelt költségvetési szerv tulajdonosi joggyakorlása alá miniszteri rendelet alapján tartozó társasági részesedés tekintetében,
+  - ac) a – törvény vagy miniszteri rendelet alapján – tulajdonosi joggyakorlása alá tartozó gazdasági társaság tulajdonosi joggyakorlása alá miniszteri rendelet alapján tartozó társasági részesedés tekintetében, valamint
+  - ad) a Kormány egyedi döntésében meghatározott olyan, létező vagy megalapításra kerülő gazdasági társaság társasági részesedése tekintetében, amelyre nézve a Kormány a kormányzati tevékenység összehangolásáért felelős miniszter, az általa irányított, felügyelt költségvetési szerv vagy a tulajdonosi joggyakorlása vagy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonban álló gazdasági társaság tulajdonosi joggyakorlásának biztosítását írja elő,
+- b) a miniszter az Áht. szerinti központi költségvetési szerv, továbbá a 100%-ban állami tulajdonban álló gazdasági társaság kijelölésével határozhatja meg az a) pont alapján kiadott miniszteri rendelet hatálya alá nem tartozó állami vagyoni kör tekintetében.
 
-az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül a joggyakorlás szabályainak meghatározásával meghatározott időtartamra rendeletben kijelölheti.
+(2b) A (2a) bekezdés a) pontja szerinti esetben a miniszter gondoskodik arról, hogy a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálya alá tartozó állami vagyon tekintetében a miniszter rendelete alapján fennálló tulajdonosi joggyakorlói kijelölés a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálybalépésével egyidejűleg megszüntetésre kerüljön.
 
 (3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
 
@@ -384,6 +388,8 @@ az Áht. szerinti központi költségvetési szervek, ezek intézménye, tovább
 (2)
 
 (3) Gazdálkodó szervezet alapítására, illetve abban tulajdonosi (tagsági, részvényesi) jogok gyakorlására – ha törvény vagy a 3. § (2a) bekezdése szerinti miniszteri rendelet eltérően nem rendelkezik – az állam nevében az MNV Zrt. jogosult. Gazdálkodó szervezet alapítása során történő eljárásra az MNV Zrt. más személynek, szervezetnek meghatalmazást adhat.
+
+(3a) A (3) bekezdésben foglaltaktól eltérően a kormányzati tevékenység összehangolásáért felelős miniszter rendeletében az állam nevében gazdasági társaság meghatározott célból történő alapítására, valamint társasági részesedés állam nevében történő megszerzésére feljogosíthatja a 3. § (2a) bekezdés a) pont ad) alpontja alapján tulajdonosi joggyakorlóként kijelölésre kerülő szervezetet.
 
 (4) A gazdálkodó szervezet cégbejegyzése során az eljáró cégbíróság vizsgálni köteles, hogy a kérelmező jogosult-e az állam képviseletére.
 
@@ -821,11 +827,11 @@ lép.
 
 (2) Az MNV Zrt. az átadott vagy az azok helyébe lépő eszközöket elkülönítetten köteles nyilvántartani.
 
-(3) Az átadott vagy – a vagyongazdálkodási tevékenység eredményeként bármely típusú tranzakcióval – az azok helyébe lépő eszközök MNV Zrt. általi értékesítéséből, hasznosításából, hozamából származó bevételt az államadósság csökkentésére kell fordítani. E cél megvalósulása érdekében az Államadósság Kezelő Központ Zrt. az értékesítési, hozam- vagy más hasznosítási bevétellel egyező összegű államadósság-csökkentési műveletet hajt végre.
+(3) Az átadott vagy – a vagyongazdálkodási tevékenység eredményeként bármely típusú tranzakcióval – az azok helyébe lépő eszközök MNV Zrt. általi értékesítéséből, hasznosításából származó bevétel felhasználásának célja az államadósság csökkentése vagy a Kormány határozata alapján az állami vagy önkormányzati vagyon gyarapítása.
 
-(4) A (3) bekezdés szerinti bevételt képező pénzeszközök költségvetési bevételként nem számolhatók el, azok az államháztartásról szóló törvény szerinti finanszírozási bevételnek minősülnek.
+(4) Az államadósság csökkentésére való felhasználás esetén a (3) bekezdés szerinti bevételt képező pénzeszközök költségvetési bevételként nem számolhatók el, azok az államháztartásról szóló törvény szerinti finanszírozási bevételnek minősülnek.
 
-(5) Az MNV Zrt. a (3) bekezdés szerinti bevételek összegéről, azok beérkezését követő hónap 15. napjáig írásos tájékoztatást küld az Államadósság Kezelő Központ Zrt. részére.
+(5) Az MNV Zrt. az államadósság csökkentésére felhasználandó (3) bekezdés szerinti bevételek összegéről, azok beérkezését követő hónap 15. napjáig írásos tájékoztatást küld az Államadósság Kezelő Központ Zrt. részére, amely az értékesítési, hozam- vagy más hasznosítási bevétellel egyező összegű államadósság-csökkentési műveletet hajt végre.
 
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek minősülnek.
 
@@ -848,5 +854,7 @@ lép.
 - b) a 3. § (2a) bekezdés b) pontja szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát.
 
 (3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy a 3. § (2a) bekezdés a) pontja szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát rendeletben határozza meg.
+
+(4) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az állam nevében gazdasági társaság meghatározott célból történő alapítására, valamint társasági részesedés állam nevében történő megszerzésére a 3. § (2a) bekezdés a) pont ad) alpontja alapján tulajdonosi joggyakorlóként kijelölésre kerülő szervezetet rendeletben feljogosítsa.
 
 ### Melléklet a 2007. évi CVI. törvényhez
