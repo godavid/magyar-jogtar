@@ -266,7 +266,12 @@ kell figyelembe venni.
 
 (3) A haszonélvezeti jogért járó kártalanítás nem lehet kevesebb az illetékekről szóló törvény alapján, a vagyoni értékű jogok megszerezése után fizetendő illeték számításának alapjánál, de nem érheti el azt az összeget, ami haszonélvezeti jog fennállása hiányában a tulajdonos részére kártalanításként járna.
 
-18. §
+18. § (1) Az ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása céljából [4. § (1) bekezdés m) pont ma) alpont] indult kisajátítási eljárás esetén a kártalanítás összegét csökkenteni kell a kisajátítást kérő vagy – arra hatáskörrel rendelkező – szervei által a környezetkárosodás felszámolása, valamint a további környezetveszélyeztetés megelőzése érdekében
+
+- a) a kártalanításra jogosult költségére jogszabály alapján elvégzett intézkedések (a továbbiakban: környezeti kárelhárítási intézkedések) máshonnan meg nem térült igazolt költségeivel, vagy – ha ez az érték a magasabb – a környezeti kárelhárítási intézkedések következtében – a környezeti kárelhárítási intézkedések elvégzését közvetlenül megelőző állapothoz képest – keletkezett forgalmi érték-növekmény máshonnan meg nem térült összegével, valamint
+- b) a kártalanításra jogosult részére nyújtott támogatás felhasználásával megvalósult – a támogatás felhasználását közvetlenül megelőző állapothoz képest keletkezett – forgalmi érték-növekmény máshonnan meg nem térült összegével.
+
+(2) Az (1) bekezdés szerinti célból történő kisajátításnak nem akadálya, hogy a kisajátítási eljárás időtartama alatt a kisajátítást kérő vagy annak – arra hatáskörrel rendelkező – szerve részben vagy egészben elvégezte a környezetkárosodás felszámolását.
 
 19. § (1) A kisajátítással kapcsolatos értékveszteséget meg kell téríteni. Értékveszteségként kell megtéríteni különösen
 
@@ -376,6 +381,8 @@ kell figyelembe venni.
 (3) Az e §-ban foglaltak nem vonatkoznak a 24. § (3) bekezdése szerinti kötelezés alapján indult kisajátítási eljárásokra.
 
 24/B. § Ha a kisajátítási terv záradéka a kisajátítási eljárás folyamán lejár, a kisajátítási hatóság a tervet újrazáradékolás céljából az erre hatáskörrel rendelkező szervnek megküldi és ezt követően eljárását az újrazáradékolásig felfüggeszti.
+
+24/C. § A 18. §-ban foglalt esetben a kisajátítási eljárást a kisajátítást kérő kérelmére – legfeljebb a környezeti kárelhárítási intézkedések végrehajtásához szükséges időtartamra – fel kell függeszteni. Az eljárást a kisajátítást kérő kérelmére, de legkésőbb a környezeti kárelhárítási intézkedések befejezését követően folytatni kell. Ha a kisajátítást kérő a környezeti kárelhárítási intézkedések befejezését megelőzően vagy azzal egyidejűleg nem kérte az eljárás folytatását, a környezeti kárelhárítási intézkedések befejezését köteles a kisajátítási hatóság részére haladéktalanul bejelenteni.
 
 25. § (1) A kisajátítási hatóság a kisajátítási kérelem beérkezésétől számított nyolc napon belül a kisajátítással érintett tulajdonosok nevét és lakcímét, valamint az ingatlan helyrajzi számát tartalmazó végzésével megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő feljegyzése, valamint az ingatlan tulajdoni lapján széljegyzett személynek és ingatlan-nyilvántartási jogelődjének neve (cégneve) és lakcíme (székhelye) közlése érdekében. A kisajátítási hatóság végzése és annak melléklete ingatlan-nyilvántartási feljegyzésre alkalmas okirat, valamint az ingatlanügyi hatóság ezen okirat alapján teljesíti a név- és lakcímadatok szolgáltatását is.
 
@@ -674,3 +681,5 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 44. § (1) E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások megvalósításának gyorsításával összefüggésben egyes törvények módosításáról szóló 2015. évi LXXIX. törvénnyel (a továbbiakban: 2015. évi LXXIX. törvény) megállapított rendelkezéseit – a (2) bekezdésben foglalt eltéréssel – a 2015. évi LXXIX. törvény hatálybalépését követően indult és megismételt hatósági eljárásokban, valamint a 2015. évi LXXIX. törvény hatálybalépését követően indult bírósági eljárásokban kell alkalmazni.
 
 (2) E törvénynek a 2015. évi LXXIX. törvénnyel megállapított 32. § (1) bekezdés a) pontját a 2015. évi LXXIX. törvény hatálybalépését követően jogerőre emelkedett kisajátítási határozat ellen benyújtott keresetlevél esetében kell alkalmazni.
+
+45. § E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény és a kisajátításról szóló 2007. évi CXXIII. törvény módosításáról szóló 2015. évi CVIII. törvénnyel (a továbbiakban: 2015. évi CVIII. törvény) megállapított rendelkezéseit a 2015. évi CVIII. törvény hatálybalépését követően indult és megismételt kisajátítási eljárásokban kell alkalmazni.

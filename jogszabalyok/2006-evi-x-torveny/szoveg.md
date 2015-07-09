@@ -96,6 +96,8 @@ a következő törvényt alkotja:
 
 (4) Az iskolaszövetkezet megszűnik, ha a nevelési-oktatási intézmény megszűnik, vagy a nevelési-oktatási intézmény kilép az iskolaszövetkezetből és a megszűnéstől vagy kilépéstől számított hat hónapon belül nem lép be tagként másik nevelési-oktatási intézmény.
 
+13/A. § Az iskolaszövetkezet által nyújtott szolgáltatásokért minimális szolgáltatási díjat kell fizetni.
+
 #### 3. Szociális szövetkezet és foglalkoztatási szövetkezet
 
 14. § (1) A szociális szövetkezet célja a hátrányos helyzetben lévő tagjai számára munkafeltételek teremtése, valamint szociális helyzetük javításának egyéb módon történő elősegítése.
@@ -228,11 +230,15 @@ a következő törvényt alkotja:
 
 (2) A törvény 104. §-a a kihirdetését követő 3. napon, 109. §-a és 113. § (2) bekezdése a kihirdetést követő hónap első napján lép hatályba.
 
-(3)–(4)
+(3) Felhatalmazást kap a Kormány arra, hogy iskolaszövetkezet által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendelettel állapítsa meg.
+
+(4)
 
 108. § E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel (a továbbiakban: Ptk.htv.) megállapított rendelkezéseinek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvényben (a továbbiakban: Ptké.) foglaltak szerint kell megfelelni azzal, hogy a Ptk.htv.-vel megállapított 15. § (3) bekezdésében foglalt korlátozást a Ptk. hatálybalépésekor a cégjegyzékbe bejegyzett, vagy a Ptké. szerint bejegyzés alatt álló szociális szövetkezet esetében nem kell alkalmazni, azonban a Ptk. rendelkezéseivel összhangban álló továbbműködés időpontját követően e szociális szövetkezet tagsága nem változtatható meg úgy, hogy a tagok számának aránya a 15. § (3) bekezdésében foglaltaktól – a változást megelőző állapothoz képest – nagyobb arányban térjen el.
 
-109. §
+109. § (1) E törvény 13/A. §-a a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) A 13/A. § tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
 110. §
 

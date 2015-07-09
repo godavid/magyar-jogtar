@@ -1255,7 +1255,7 @@ igényelhetnek adatot.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat.
 
-(2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg Magyarország által nemzeti szinten biztonságosnak nyilvánított származási országok listáját.
+(2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg Magyarország által nemzeti szinten biztonságosnak nyilvánított származási országok és biztonságos harmadik országok listáját.
 
 (2a) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a 7. § (5) bekezdése alapján évente menekültként elismerhető külföldiek számát.
 
@@ -1323,7 +1323,8 @@ b) az egy évet meghaladja, e törvény erejénél fogva válik a gyermek tankö
 - l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [22. §, 83. §];
 - m) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv;
 - n) az a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és tanácsi irányelv [89. § (5) és (6) bekezdés];
-- o) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv.
+- o) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv;
+- p) a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelv;
 
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 

@@ -2,13 +2,17 @@
 
 a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztésről
 
-Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szabadidős szolgáltatások színvonalának emelése, valamint a hosszú távú városrehabilitáció megvalósítása érdekében, továbbá a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez szükséges nemzetközi színvonalú, összetett szolgáltatásokat biztosítani képes uszodakomplexum létrehozásának elősegítése céljából a következő törvényt alkotja.
+Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szabadidős szolgáltatások színvonalának emelése, valamint a hosszú távú városrehabilitáció megvalósítása érdekében, továbbá a Budapesten és Balatonfüreden megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez szükséges nemzetközi színvonalú, összetett szolgáltatásokat biztosítani képes uszodakomplexum létrehozásának elősegítése céljából – figyelemmel a Nemzetközi Úszó Szövetség, a Magyar Kormány és a Magyar Úszó Szövetség között 2013. július 19-én kötött Megállapodásában és annak 2015. március 10-én módosított Kiegészítő Megállapodásában foglaltakra – a következő törvényt alkotja.
 
-1. § (1) E törvény hatálya az 1. mellékletben felsorolt ingatlanokra, az ezekből az ingatlanokból telekalakítási eljárások során kialakított ingatlanokra, valamint azokon a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság (a továbbiakban: világbajnokság) megrendezéséhez szükséges, illetve azzal összefüggő, azt kiszolgáló beruházásokra és felújítási tevékenységre – ideértve a közterületi, közmű és árvízvédelmi beruházásokat is – (a továbbiakban együtt: beruházás), továbbá a beruházással összefüggő beszerzésekre és a beruházással összefüggő közigazgatási hatósági eljárásokra terjed ki.
+1. § (1) E törvény hatálya az 1. mellékletben felsorolt ingatlanokra, az ezekből az ingatlanokból telekalakítási eljárások során kialakított ingatlanokra, valamint azokon a Budapesten és Balatonfüreden megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság (a továbbiakban: világbajnokság) megrendezéséhez szükséges, illetve azzal összefüggő, azt kiszolgáló beruházásokra és felújítási tevékenységre – ideértve a közterületi, közmű és árvízvédelmi beruházásokat is – (a továbbiakban együtt: beruházás), továbbá a beruházással összefüggő beszerzésekre és a beruházással összefüggő közigazgatási hatósági eljárásokra terjed ki.
 
 (2) A beruházás megvalósítása kiemelkedően fontos közérdek, a beruházás megvalósítása érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendőek, és a beruházás megvalósítása érdekében kötött szerződések teljesítéséhez kiemelkedően fontos közérdek fűződik.
 
-2. § A beruházás építtetője a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság.
+2. § (1) Amennyiben jogszabály másként nem rendelkezik, a beruházás építtetője a Magyar Állam képviseletében az állami vagyonról szóló 2007. évi CVI. törvény 17. § (1) bekezdés e) pontja alapján eljáró Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság, azzal, hogy Balatonfüred Város területén megvalósuló beruházások esetén az építtető Balatonfüred Város Önkormányzata.
+
+(2) A 2017. évi világbajnokság megrendezésével kapcsolatos egyes feladatok (a továbbiakban: projekt) irányítását és lebonyolítását a 100%-os állami tulajdonban álló Bp2017 Világbajnokság Szervező és Lebonyolító Nonprofit Kft. (a továbbiakban: Kft.) végzi.
+
+(3) A Kft. a projekt irányítójaként és lebonyolítójaként jogosult a projekt megvalósításához szükséges feladatok részletes meghatározására és azok végrehajtása érdekében beszerzési és szükség szerint egyéb tárgyú szerződések megkötésére.
 
 3. § (1) A beruházással összefüggésben lebonyolítandó közbeszerzési eljárások tekintetében az ajánlatkérő minden esetben jogosult a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 94. § (2) bekezdés d) pontja szerinti, rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására. A Kbt. 94. § (2) bekezdés d) pontja szerinti eljárás esetén
 
@@ -34,7 +38,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szaba
 - a) a 8. § (1) bekezdése szerinti ideiglenes lelátó létesítése kapcsán, az ideiglenes lelátó fennállásának időtartamára további 250, összesen 400 személygépkocsi elhelyezését kell biztosítani, és
 - b) az elhelyezés a létesítményfejlesztési ingatlan határvonalától számított 2000 méteren belül bárhol biztosítható. A beruházás tekintetében további gépjármű elhelyezési kötelezettséget feltételként nem lehet előírni. A személygépkocsik megfelelő elhelyezése tekintetében forgalomtechnikai terv elkészítésének kötelezettsége terheli a beruházás építtetőjét.
 
-(3) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület nem minősül magasépítménynek (magasháznak), ha az épület 30 métert meghaladó legfelső építményszintjének alapterülete nem éri el a 300 m2-t, azzal, hogy a 9. § szerinti ideiglenes lelátókat ennek meghatározásakor nem kell figyelembe venni.
+(3) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület nem minősül magasépítménynek (magasháznak), ha az épület 30 métert meghaladó legfelső építményszintjének alapterülete nem éri el a 300 m2-t, azzal, hogy a 8. § szerinti ideiglenes lelátókat ennek meghatározásakor nem kell figyelembe venni.
 
 (4) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület, illetve ideiglenes lelátók tekintetében a mindenkori hatályos fővárosi és kerületi településrendezési eszközöknek, valamint a vonatkozó fővárosi és kerületi önkormányzati rendeleteknek a parkolás rendjére, az építtetők személygépkocsi-elhelyezési kötelezettségére, a fás szárú növények védelmére, kivágására és pótlására vonatkozó, valamint az árvízvédelemmel összefüggő előírásait nem kell figyelembe venni. Az építtető a területileg illetékes Budapest Főváros XIII. Kerületi Önkormányzattal a fás szárú növények pótlásáról külön megállapodást köt, amely a létesítményfejlesztési ingatlanon létesítendő épületre vonatkozó használatbavételi engedély kiadásának feltételét képezi.
 
@@ -94,9 +98,12 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szaba
   - cc) létesítésének, elbontásának szabályait,
   - cd) használatával lebonyolítandó verseny megrendezésével összefüggésben a dunai hajózás korlátozásának, illetve hajózási zárlat elrendelésének, továbbá a vízi rendezvény engedélyezésének szabályait,
 - d) a beruházással kapcsolatos további beépítési szabályokat, és a beruházással kapcsolatos közigazgatási hatósági eljárások további sajátos szabályait,
-- e) a létesítményfejlesztési ingatlannal kapcsolatos további építési követelményeket
+- e) a létesítményfejlesztési ingatlannal kapcsolatos további építési követelményeket,
+- f) a beruházás keretében megvalósuló egyes létesítmények tekintetében az építtető személyét
 
 rendelettel állapítsa meg.
+
+rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a 8. § (1) bekezdésében meghatározott ideiglenes lelátók létesítésének és bontásának feltételeit rendeletben szabályozza.
 
@@ -106,7 +113,9 @@ rendelettel állapítsa meg.
 
 (2) Az e törvény hatálybalépésekor a beruházással összefüggő folyamatban lévő közigazgatási hatósági eljárásokban, valamint a polgári peres és nem peres eljárásokban a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságot a Nemzeti Sportközpontok jogutódjának kell tekinteni. A jogutódlás tényét az érintett eljárásokban a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság bejelenti.
 
-18–19. §
+18. § E törvénynek a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztésről szóló 2015. évi XXXIII. törvény módosításáról szóló 2015. évi CXVII. törvénnyel megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+19. §
 
 ### 1. melléklet a 2015. évi XXXIII. törvényhez
 
@@ -197,3 +206,93 @@ A törvény hatálya alá tartozó ingatlanok felsorolása
 42. Balatonfűzfő 1488/2 helyrajzi számú ingatlan,
 
 43. Balatonfűzfő 1498/3 helyrajzi számú ingatlan.
+
+44. Budapest V. kerület 24897/3 helyrajzi számú ingatlan,
+
+45. Budapest V. kerület 24897/2 helyrajzi számú ingatlan,
+
+46. Budapest XIII. kerület 25123/12 helyrajzi számú ingatlan,
+
+47. Budapest XIII. kerület 25122/7 helyrajzi számú ingatlan,
+
+48. Budapest XIII. kerület 25123/11 helyrajzi számú ingatlan,
+
+49. Budapest XIII. kerület 25123/10 helyrajzi számú ingatlan,
+
+50. Budapest XIII. kerület 25123/9 helyrajzi számú ingatlan,
+
+51. Budapest XIII. kerület 25123/5 helyrajzi számú ingatlan,
+
+52. Budapest XIII. kerület 25123/8 helyrajzi számú ingatlan,
+
+53. Budapest XIII. kerület 25123/4 helyrajzi számú ingatlan,
+
+54. Budapest XIII. kerület 25123/2 helyrajzi számú ingatlan,
+
+55. Budapest XIII. kerület 25123/1 helyrajzi számú ingatlan,
+
+56. Budapest XIII. kerület 25598/1 helyrajzi számú ingatlan,
+
+57. Budapest XIII. kerület 25666/4 helyrajzi számú ingatlan,
+
+58. Budapest XIII. kerület 25666/9 helyrajzi számú ingatlan,
+
+59. Budapest XIII. kerület 25666/12 helyrajzi számú ingatlan,
+
+60. Budapest XIII. kerület 25723/2 helyrajzi számú ingatlan,
+
+61. Budapest XIII. kerület 25666/3 helyrajzi számú ingatlan,
+
+62. Budapest XIII. kerület 25794 helyrajzi számú ingatlan,
+
+63. Budapest XIII. kerület 25812/2 helyrajzi számú ingatlan,
+
+64. Budapest XIII. kerület 25812/1 helyrajzi számú ingatlan,
+
+65. Budapest XIII. kerület 25666/2 helyrajzi számú ingatlan,
+
+66. Budapest XIII. kerület 25830/1 helyrajzi számú ingatlan,
+
+67. Budapest XIII. kerület 25833 helyrajzi számú ingatlan,
+
+68. Budapest XIII. kerület 25831 helyrajzi számú ingatlan,
+
+69. Budapest XIII. kerület 25122/2 helyrajzi számú ingatlan,
+
+70. Budapest V. kerület 25122/5 helyrajzi számú ingatlan,
+
+71. Budapest XIII. kerület 25122/8 helyrajzi számú ingatlan,
+
+72. Budapest XIII. kerület 23805/2 helyrajzi számú ingatlan,
+
+73. Budapest XIII. kerület 23806/1 helyrajzi számú ingatlan,
+
+74. Budapest XIII. kerület 23809/4 helyrajzi számú ingatlan,
+
+75. Budapest XIII. kerület 23800/1 helyrajzi számú ingatlan,
+
+76. Budapest XIII. kerület 23800/2 helyrajzi számú ingatlan,
+
+77. Budapest XIII. kerület 23800/3 helyrajzi számú ingatlan,
+
+78. Budapest XIII. kerület 23800/4 helyrajzi számú ingatlan,
+
+79. Budapest XIII. kerület 23800/5 helyrajzi számú ingatlan,
+
+80. Budapest XIII. kerület 23800/6 helyrajzi számú ingatlan,
+
+81. Budapest XIII. kerület 23800/8 helyrajzi számú ingatlan,
+
+82. Balatonfüred 377 helyrajzi számú ingatlan,
+
+83. Balatonfüred 333/3 helyrajzi számú ingatlan,
+
+84. Balatonfüred 376/2 helyrajzi számú ingatlan,
+
+85. Balatonfüred 83 helyrajzi számú ingatlan,
+
+86. Balatonfüred 376/1 helyrajzi számú ingatlan,
+
+87. Balatonfüred 86 helyrajzi számú ingatlan,
+
+88. Balatonfüred 85/1 helyrajzi számú ingatlan.
