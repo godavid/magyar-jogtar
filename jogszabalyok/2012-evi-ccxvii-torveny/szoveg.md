@@ -238,7 +238,9 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (2) A derogációs kiosztásban részt vevő villamosenergia-termelők körét és a részükre 2013-ban kiosztható kibocsátási egységek mennyiségét a derogációs kérelem alapján a Kormány rendeletben határozza meg.
 
-(3) A Kormány (2) bekezdés szerinti rendelete alapján a miniszter a (6) bekezdésben foglaltakra figyelemmel elkészíti a nemzeti kiosztási táblára vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő a (6) bekezdésben foglaltakra figyelemmel a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
+(2a) A 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkében rögzített, a villamosenergia-termelők részére történő derogációs kiosztására irányuló eljárásban az energiapolitikáért felelős miniszter jár el az e törvényben és a villamosenergia-termelők részére történő derogációs kiosztás végrehajtási szabályairól szóló kormányrendeletben meghatározottak szerint.
+
+(3) A Kormány (2) bekezdés szerinti rendelete alapján az energiapolitikáért felelős miniszter a (6) bekezdésben foglaltakra figyelemmel elkészíti a nemzeti kiosztási táblára vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő a (6) bekezdésben foglaltakra figyelemmel a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
 
 (4) A derogációs kiosztásban részesülő villamosenergia-termelő a részére a (3) bekezdés szerint kiosztott kibocsátási egységek piaci értékét a hatóság 18/C. § (2) szerinti központi számlájára megfizeti. A piaci érték meghatározására vonatkozó szabályokat a Kormány rendeletben határozza meg. Az egyes villamosenergia-termelők fizetési kötelezettségének a mértékét a hatóság állapítja meg. A villamosenergia-termelők a fizetési kötelezettségüknek az adott villamosenergia-termelőre vonatkozó határozat jogerőre emelkedésétől számított 7 napon belül tesznek eleget.
 
@@ -252,7 +254,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (3) Az (1) bekezdés szerinti fizetési felszólításban meghatározott piaci értéket és mulasztási bírságot a villamosenergia-termelőnek a (2) bekezdés szerinti határozat jogerőre emelkedését követő 10 napon belül kell megfizetnie. A mulasztási bírság mértékét a hatóság a Kormány rendelete alapján szabja ki. Ha a kötelezett a fizetési kötelezettségének határidőben nem tesz eleget, a hatóság a fizetési kötelezettség adók módjára történő behajtása érdekében soron kívül megkeresi az állami adóhatóságot.
 
-(4) A (3) bekezdésben meghatározott fizetési kötelezettség teljesítéséig a hatóság javaslatára a miniszter zároltatja a villamosenergia-termelő forgalmi jegyzékbeli számláját. Ha a hatóság értesíti a minisztert a fizetési kötelezettség villamosenergia-termelő általi – hiánytalan – teljesítéséről, a miniszter – a jegyzékkezelő útján – gondoskodik a villamosenergia-termelő forgalmi jegyzékbeli számlája zárolásának feloldásáról.
+(4) A (3) bekezdésben meghatározott fizetési kötelezettség teljesítéséig a hatóság javaslatára az energiapolitikáért felelős miniszter zároltatja a villamosenergia-termelő forgalmi jegyzékbeli számláját. Ha a hatóság értesíti az energiapolitikáért felelős minisztert a fizetési kötelezettség villamosenergia-termelő általi – hiánytalan – teljesítéséről, az energiapolitikáért felelős miniszter – a jegyzékkezelő útján – gondoskodik a villamosenergia-termelő forgalmi jegyzékbeli számlája zárolásának feloldásáról.
 
 18/C. § (1) A villamosenergia-termelők által a 18/A. § (4) bekezdése szerint megfizetett piaci érték,
 
@@ -260,7 +262,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (2) A hatóság a derogációs kiosztással összefüggő feladatai ellátására a kincstárnál központi euró számlát (a továbbiakban: központi számla) és a derogációs kérelemben meghatározott beruházásonként beruházási euró számlákat (a továbbiakban: beruházási számla) nyit. A villamosenergia-termelők által a 18/A. § (4) bekezdése szerint teljesített befizetések a központi számlára történnek, és onnan kerülnek a hatóság által továbbutalásra az egyes beruházási számlákra. A központi számla és a beruházási számlák feletti rendelkezésre kizárólag a hatóság jogosult.
 
-(3) A hatóság által a derogációs kérelemben meghatározott beruházás támogatására fordított összeg egy beruházás esetében sem haladhatja meg a derogációs kérelemben az Európai Bizottság által az érintett beruházás tekintetében jóváhagyott támogatási összeget. Ha a kiosztott kibocsátási egységek piaci értéke a hatóság (4) bekezdés szerint számított működési költségeinek levonása után meghaladja az Európai Bizottság által a derogációs kérelemben meghatározott beruházások támogatására jóváhagyott teljes összeget, a fennmaradó összeg felhasználásáról a miniszter a 26. § (1) bekezdése szerint gondoskodik.
+(3) A hatóság által a derogációs kérelemben meghatározott beruházás támogatására fordított összeg egy beruházás esetében sem haladhatja meg a derogációs kérelemben az Európai Bizottság által az érintett beruházás tekintetében jóváhagyott támogatási összeget. Ha a kiosztott kibocsátási egységek piaci értéke a hatóság (4) bekezdés szerint számított működési költségeinek levonása után meghaladja az Európai Bizottság által a derogációs kérelemben meghatározott beruházások támogatására jóváhagyott teljes összeget, a fennmaradó összeg felhasználásáról az energiapolitikáért felelős miniszter a 26. § (1) bekezdése szerint gondoskodik.
 
 (4) A hatóság a derogációs kiosztással kapcsolatban felmerülő, a Kormány rendeletében meghatározott költségeit a részére a 18/A. § (4) bekezdése szerint megfizetett összegből fedezi. E költségek fedezésére a hatóság jogosult 100 ezer eurót a részére a 18/A. § (4) bekezdése szerint megfizetett összegből a központi számlán visszatartani. A hatóság a költségeinek levonását követően a központi számlán fennmaradó összeget a beruházási számlákra továbbutalja. A központi számlán és a beruházási számlákon képződő kamatbevételeket a hatóság a beruházások megvalósítására fordítja.
 
@@ -272,7 +274,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (2) Ha a beruházó a hatóság által részére folyósított támogatási összeget nem a vonatkozó jogszabályokban vagy az Európai Bizottság határozataiban foglaltaknak megfelelően használja fel, a hatóság a beruházóval szemben hatósági ellenőrzést folytat le a beruházások ellenőrzése céljából (a továbbiakban: felügyeleti eljárás). A felügyeleti eljárás keretében a hatóság a beruházóval szemben a Kormány rendeletében meghatározottak szerint bírságot szab ki, meghatározott esetben a támogatást visszafizetteti, vagy a támogatás folyósítását megszünteti. Ha a felügyeleti eljárás keretében kiszabott bírság vagy visszafizetendő támogatás nem kerül a hatóság által megszabott határidőben megfizetésre, akkor a jogerős határozat alapján a hatóság a fizetési kötelezettség adók módjára történő behajtása érdekében soron kívül megkeresi az állami adóhatóságot.
 
-18/F. § (1) A hatóság évente jelentést készít az Európai Bizottság részére a beruházások megvalósításáról és a központi számlán rendelkezésre álló összeg felhasználásáról. A hatóság az első jelentését 2014. január 31-ig a miniszter útján nyújtja be az Európai Bizottság részére. A hatóság az utolsó jelentését a (2) bekezdés szerinti zárójelentés benyújtását követő év január 31-ig köteles elkészíteni.
+18/F. § (1) A hatóság évente jelentést készít az Európai Bizottság részére a beruházások megvalósításáról és a központi számlán rendelkezésre álló összeg felhasználásáról. A hatóság az első jelentését 2014. január 31-ig az energiapolitikáért felelős miniszter útján nyújtja be az Európai Bizottság részére. A hatóság az utolsó jelentését a (2) bekezdés szerinti zárójelentés benyújtását követő év január 31-ig köteles elkészíteni.
 
 (2) A beruházó a derogációs kérelemben meghatározott beruházás megvalósításának előrehaladásáról a hatóságnak a tárgyévet követő év január 5-ig jelentést nyújt be. A beruházás befejezését követő 6 hónapon belül a beruházó a hatóság részére zárójelentést nyújt be.
 
@@ -290,7 +292,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (2) A hatóság a 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait a határozat meghozatalát követő 3 napon belül a honlapján közzé teszi.
 
-(3) A miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak a miniszter által vezetett minisztérium honlapján történő közzétételéről.
+(3) Az energiapolitikáért felelős miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak az energiapolitikáért felelős miniszter által vezetett minisztérium honlapján történő közzétételéről.
 
 #### 7. A légiközlekedési kibocsátási egységek kiosztása a légi jármű üzembentartóknak
 
@@ -310,9 +312,9 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (2) A kérelmeket a miniszter legkésőbb a kérelem tárgyát képező kereskedési időszak harmadik évének december 31. napjáig megküldi jóváhagyásra az Európai Bizottságnak.
 
-(3) A miniszter az Európai Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül megállapítja és közzéteszi a kérelmet benyújtó összes légiközlekedési új belépő részére a külön tartalékalapból kiosztott légiközlekedési kibocsátási egységek teljes mennyiségét, és az egyes légiközlekedési új belépők számára az évente térítésmentesen kiosztott légiközlekedési kibocsátási egységek mennyiségét.
+(3) A miniszter az Európai Bizottság által legkésőbb a kereskedési időszak negyedik évének június 30. napjáig meghozott, referenciaértéket megszabó határozata alapján az (5) bekezdés szerint jár el, valamint az egyes légiközlekedési új belépők számára az évente véglegesen kiosztandó légiközlekedési kibocsátási egységmennyiségeket a minisztérium honlapján közleményben teszi közzé, továbbá gondoskodik annak Hivatalos Értesítőben való közzétételéről.
 
-(4) A légiközlekedési kibocsátási egységeknek az üzemeltető forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a jegyzékkezelő útján gondoskodik.
+(4) A légiközlekedési kibocsátási egységeknek a légi jármű üzembentartó forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a jegyzékkezelő útján gondoskodik.
 
 (5) A miniszter – az Európai Bizottság (3) bekezdés szerinti döntését követően – elkészíti a nemzeti légiközlekedési kiosztási tábla módosítására vonatkozó javaslatot és jóváhagyásra megküldi az Európai Bizottságnak. A légiközlekedési kibocsátási egységeknek a légi jármű üzembentartó forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a 20. § (4) bekezdésében meghatározottak szerint gondoskodik.
 
@@ -365,17 +367,11 @@ akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközleked�
 
 (6) Az ÜHG-egységek térítés ellenében történő kiosztása (értékesítése) során az Nvtv. átlátható szervezetre vonatkozó rendelkezéseit nem kell alkalmazni.
 
-26. § (1) A miniszter az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (2) bekezdésében foglaltaktól eltérően a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevételnek
+26. § (1) A miniszter az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (2) bekezdésében foglaltaktól eltérően a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 25%-ának a 2003/87/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében meghatározott célok egyikére vagy közülük többre fordított, a Gazdasági Zöldítési Rendszer előirányzat keretében való felhasználásáról a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.
 
-- a) az üvegházhatású gázok kibocsátásának csökkentését és az éghajlatváltozás hatásaihoz való alkalmazkodást célzó hazai és nemzetközi tevékenységek támogatására,
-- b) a magyar klímapolitika és zöldgazdaság-fejlesztés hatékony megvalósítására,
-- c) az üvegházhatású gáz nyelők általi eltávolításának növelésére
+(2) Az energiapolitikáért felelős miniszter az Áht. 19. § (2) bekezdésében foglaltaktól eltérően a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 25%-ának a 2003/87/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében meghatározott célok egyikére vagy közülük többre fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében való felhasználásáról a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.
 
-fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében való felhasználásáról az Áht. felhatalmazása alapján kiadott rendelet szerint gondoskodik.
-
-(2) Az (1) bekezdés szerinti előirányzat maradványa a következő években felhasználható.
-
-(3) Az (1) bekezdés szerinti bevételek felhasználásáról a miniszter évente beszámol az Országgyűlésnek, valamint évente jelentést tesz az Európai Bizottságnak.
+(3) Az (1) és (2) bekezdés szerinti előirányzat maradványa a következő években felhasználható.
 
 #### 27. §
 
@@ -550,8 +546,9 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 - o) a hatóság saját tevékenységével összefüggésben felmerült elszámolható működési költségeinek körét és az azok elszámolására vonatkozó szabályokat,
 - p) a támogatási összegek beruházók által történő igénylésére és a támogatások kifizetésére vonatkozó szabályokat,
 - q) a derogációs kérelemmel összefüggő jelentéstétel és a független könyvvizsgáló kijelölésének részletes szabályait,
-- r) a derogációs kérelemben meghatározott beruházások utólagos nyomon követésére vonatkozó részletes szabályokat,
-- s) a piaci érték megfizetésének módját és pénznemét
+- r) a derogációs kérelemben meghatározott beruházások utólagos nyomon követésére vonatkozó, továbbá a beruházási számlán fel nem használt pénzügyi forrás elszámolásával és felhasználásával kapcsolatos részletszabályokat,
+- s) a piaci érték megfizetésének módját és pénznemét,
+- t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

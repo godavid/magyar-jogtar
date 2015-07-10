@@ -52,7 +52,16 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (3) Az (1) bekezdésben meghatározott zártkörűen működő részvénytársaságnál az igazgatóság a társaság jelentőségétől, méretétől, működésének jellegétől függően legalább három, legfeljebb öt természetes személy tagból áll, nemzetgazdasági szempontból kiemelkedő jelentőségű gazdasági társaság esetében legfeljebb hét természetes személy tagból áll.
 
-4. § (1) A köztulajdonban álló gazdasági társaságnál felügyelőbizottság létrehozása kötelező. A könyvvizsgáló személyére az ügyvezetés a felügyelőbizottság egyetértésével tesz javaslatot a társaság legfőbb szervének.
+4. § (1) A köztulajdonban álló gazdasági társaságnál felügyelőbizottság létrehozása kötelező.
+
+(1a) Az (1) bekezdéstől eltérően nem kötelező felügyelőbizottság létrehozása azon gazdasági társaságoknál, ahol a befolyásszerzés időpontjában a társaságnál felügyelőbizottság nem működött és
+
+- a) amelyekben a befolyással rendelkező öröklés útján szerzett társasági részesedést és a tulajdonosi joggyakorló – a befolyásszerzéstől számított 6 hónapon belül – döntött a társaság jogutód nélküli megszüntetéséről,
+- b) amelyek a befolyásszerzés időpontjában végelszámolási, felszámolási vagy kényszertörlési eljárás alatt álltak.
+
+(1b) Ha a tulajdonosi joggyakorló az (1a) bekezdés a) pontjától eltérően a befolyásszerzéstől számított 6 hónapon belül nem döntött a társaság jogutód nélküli megszüntetéséről, a köztulajdonban álló gazdasági társaságnál kötelező felügyelőbizottságot választani.
+
+(1c) A könyvvizsgáló személyére az ügyvezetés a felügyelőbizottság egyetértésével tesz javaslatot a társaság legfőbb szervének.
 
 (2) A köztulajdonban álló gazdasági társaság felügyelőbizottsága – ha törvény eltérően nem rendelkezik – három természetes személy tagból áll, kétszáz millió forintot meghaladó jegyzett tőkéjű gazdasági társaság esetében legalább három, legfeljebb hat természetes személy tagból áll.
 

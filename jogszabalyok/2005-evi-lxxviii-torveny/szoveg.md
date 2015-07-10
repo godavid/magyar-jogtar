@@ -117,7 +117,7 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 - a) alapszabályát, szervezeti és működési szabályzatát, az akkreditálásra és az akkreditálási eljárásra vonatkozó részletes szabályokat tartalmazó szabályzatokat, valamint a külföldi akkreditált státusz elismerésére vonatkozó szabályzatot,
 - b) az 5. § (1) bekezdés h) pontjában meghatározottakat és az 5. § (1) bekezdés i) pontja szerinti dokumentumokra vonatkozó információkat,
-- c) a 6. § (4) bekezdés a)–g) pontja szerinti nyilvántartást és a 24. § (1a) bekezdés szerinti nyilvántartást,
+- c) a 6. § (4) bekezdés a)–g) pontja szerinti nyilvántartást,
 - d) a 765/2008/EK európai parlamenti és tanácsi rendelet 10. cikke és a 600/2012/EU bizottsági rendelet 64. cikke szerinti szakértői értékelése eredményét, valamint
 - e) tájékoztatást a 765/2008/EK európai parlamenti és tanácsi rendelet 12. cikk (3) bekezdésében meghatározottakról,
 - f) a 600/2012/EU bizottsági rendelet 63. cikk (1) bekezdése szerinti információkat.
@@ -614,24 +614,19 @@ választ 5 éves időtartamra.
 
 ### A külföldi akkreditált státusz elismerése
 
-24. § (1) A Testület kérelem alapján a külföldi akkreditált státuszt elismerheti. Az elismeréssel a saját akkreditálási eljárásával egyenértékűnek minősíti a külföldi akkreditáló szervezet által lefolytatott akkreditálási eljárást és az annak alapján odaítélt akkreditált státuszt.
+24. § (1) A Testület a külföldi akkreditált szervezet kérelme alapján a külföldi akkreditált státuszt a (2) bekezdésben meghatározott esetben elismeri. Az elismeréssel a saját akkreditálási eljárásával egyenértékűnek minősíti a külföldi akkreditáló szervezet által lefolytatott akkreditálási eljárást és az annak alapján odaítélt akkreditált státuszt.
 
-(1a) A Testület az 1. § k) pontja szerinti hitelesítő szervezetek akkreditálási okiratát a 600/2012/EU bizottsági rendelet 66. cikkében meghatározott módon elfogadja, ha a hitelesítő szervezet szerepel más tagállam akkreditált hitelesítői névjegyzékében. A más tagállamban akkreditált hitelesítő Magyarországon történő hitelesítési tevékenység folytatására irányuló szándékát a Testületnek a hitelesítési tevékenység megkezdését megelőzően legalább 60 nappal bejelenti. A bejelentést a Kormány e törvény végrehajtására kiadott rendeletében meghatározott tartalommal kell benyújtani. A hitelesítő szervezetet a Testület a bejelentést követő 30 napon belül a Kormány e törvény végrehajtására kiadott rendeletében meghatározott adatokkal bejegyzi a nyilvántartásba.
+(2) A Testület a külföldi akkreditált státuszt a megfelelőségértékelési tevékenység területén elismeri, ha azt a következő feltételek valamelyikének megfelelő akkreditáló szervezet ítélte oda:
 
-(2) A külföldi akkreditált státusz elismeréséről a Tanács dönt.
+- a) az Európai Akkreditálási Együttműködés Kölcsönös Elismerési Megállapodásának tagja, illetve az Európai Akkreditálási Együttműködéssel Kétoldalú Elismerési megállapodást kötött a megfelelőségértékelés tevékenység területén,
+- b) a Nemzetközi Laboratóriumakkreditálási Együttműködés vagy a Nemzetközi Akkreditálási Fórum Kölcsönös Elismerési Megállapodásának tagja a megfelelőségértékelés tevékenység területén,
+- c) a Testülettel kétoldalú elismerési megállapodást kötött, amelynek feltételeit a megállapodás tartalmazza.
 
-(3) A Tanács a külföldi akkreditált státuszt elismeri, ha azt a következő feltételek valamelyikének megfelelő akkreditáló szervezet ítélte oda:
+(3) A külföldi akkreditált státusz elismeréséről a Tanács dönt. A Tanács eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-- a) az Európai Gazdasági Térségről szóló megállapodásban részes állam nemzeti akkreditáló testülete, amely a 765/2008/EK európai parlamenti és tanácsi rendelet 10. cikke szerint szakértői értékelésen megfelelt,
-- b) az Európai Akkreditálási Együttműködés Kölcsönös Elismerési Megállapodásának tagja,
-- c) a Nemzetközi Laboratóriumakkreditálási Együttműködés vagy a Nemzetközi Akkreditálási Fórum Kölcsönös Elismerési Megállapodásának tagja,
-- d) a Testülettel kétoldalú elismerési megállapodást kötött.
+(4) A Tanács elismerésre vonatkozó eljárása mentes az igazgatási szolgáltatási díj alól.
 
-(4) A Tanács eljárására a 18. § (1)–(4) bekezdésében és (9)–(11) bekezdésében foglaltakat kell alkalmazni. A Tanács határozata ellen nincs helye fellebbezésnek.
-
-(5) A külföldi akkreditált státusz elismeréséért külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. A (3) bekezdésben foglalt esetekben az eljárás mentes az igazgatási szolgáltatási díj alól.
-
-(6) A (3) bekezdés a) pontja szerinti nemzeti akkreditáló testület által lefolytatott akkreditálási eljárás és odaítélt akkreditált státusz tekintetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség az e § szerinti eljárás lefolytatására.
+(5) A (2) bekezdés a) pontja esetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség a (3) bekezdés szerinti eljárás lefolytatására.
 
 ### IV. Fejezet — A TESTÜLET GAZDÁLKODÁSA
 
@@ -696,14 +691,14 @@ választ 5 éves időtartamra.
 
 - a) a 7. § (1) bekezdés e) pontja szerinti akkreditálásban érdekelt minisztereket,
 - b) az 1. § k) pontja szerinti hitelesítő szervezetek akkreditálása személyi, szervezeti feltételei, a hitelesítő szervezet részére előírt biztosítéktartási kötelezettség, az akkreditálási eljárás és a felügyeleti vizsgálat részletes szabályait, valamint
-- c) a 24. § (1a) bekezdés szerinti bejelentés tartalmának és a más tagállamban akkreditált hitelesítő szervezetek nyilvántartásának részletes szabályait rendeletben határozza meg.
+- c) rendeletben határozza meg.
 
-(2) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a Testület akkreditálási eljárásáért, az akkreditált státusz területének bővítési eljárásáért, az akkreditált státusz területének szűkítési eljárásáért, a változásbejelentésre [20. § (5) bekezdés] vagy panaszbejelentésre indult rendkívüli felügyeleti vizsgálati eljárásáért, a fellebbezési eljárásáért, továbbá a 6. § (2) bekezdés b) pontja és a 24. § (1a) bekezdés szerinti nyilvántartásba vételért, kizárólag adminisztrációs tevékenységet igénylő adatmódosulás bejelentésének kivételével nyilvántartási adat módosításáért, a külföldi akkreditált státusz elismerési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedését, kezelését, valamint az éves felügyeleti vizsgálati díj fizetésének részletes szabályait rendeletben állapítsa meg.
+(2) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a Testület akkreditálási eljárásáért, az akkreditált státusz területének bővítési eljárásáért, az akkreditált státusz területének szűkítési eljárásáért, a változásbejelentésre [20. § (5) bekezdés] vagy panaszbejelentésre indult rendkívüli felügyeleti vizsgálati eljárásáért, a fellebbezési eljárásáért, továbbá a 6. § (2) bekezdés b) pontja szerinti nyilvántartásba vételért, kizárólag adminisztrációs tevékenységet igénylő adatmódosulás bejelentésének kivételével nyilvántartási adat módosításáért, a külföldi akkreditált státusz elismerési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedését, kezelését, valamint az éves felügyeleti vizsgálati díj fizetésének részletes szabályait rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 
 29. § (1) Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
 
-(2) Az 1. §, a 3. §, az 5. § (3) bekezdése, a 6/A. §, a 24. § (3) bekezdés a) pontja és (6) bekezdése, továbbá a 25/A. és 25/B. § a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 10. és 12. pontja, 4. cikk (8) bekezdése, 6. cikk (1) bekezdése, 9. cikk (2) bekezdése, 10. cikk (1) bekezdése, 11. cikk (2) bekezdése, valamint 12. cikk (3) bekezdése végrehajtásához szükséges rendelkezéseket állapítja meg.
+(2) Az 1. §, a 3. §, az 5. § (3) bekezdése, a 6/A. §, a 24. §, továbbá a 25/A. és 25/B. § a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 10. és 12. pontja, 4. cikk (8) bekezdése, 6. cikk (1) bekezdése, 9. cikk (2) bekezdése, 10. cikk (1) bekezdése, 11. cikk (2) bekezdése, valamint 12. cikk (3) bekezdése végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló 2012. június 21-i 600/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
