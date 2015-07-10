@@ -118,7 +118,12 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával összhangban történő felhasználásáról az államháztartásért felelős miniszter gondoskodik.
+(4) A (3) bekezdés szerinti kiotói egységek átruházásából 2015. január 1-jét követően keletkezett bevétel
+
+- a) 50%-ának felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében,
+- b) 50%-ának felhasználásáról az államháztartásért felelős miniszter a Gazdasági Zöldítési Rendszer keretében
+
+az Éghajlatváltozási Stratégiával összhangban gondoskodik.
 
 (4a)
 
@@ -270,7 +275,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevék
 
 (6) A klímavédelmi bírság jogerős kiszabása nem mentesít a büntetőjogi, polgári jogi és közigazgatási jogi felelősség alól.
 
-### Részvétel nemzetközi rugalmassági mechanizmusokban
+### Részvétel nemzetközi rugalmassági mechanizmusokban és klímapolitikai célkitűzések végrehajtásában
 
 11. § (1) Magyarország területén megvalósítandó együttes végrehajtásban jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározottak szerint a miniszter jóváhagyása alapján vehetnek részt.
 
@@ -312,6 +317,14 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevék
 13/D. § A környezetvédelmi hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 13/E. § A környezetvédelmi hatóság 13/B. §–13/C. § szerinti engedélyezési eljárásáért és a 13/C. § szerinti bejelentésért igazgatási szolgáltatási díjat kell fizetni.
+
+13/F. § (1) A miniszter a Keretegyezményből fakadó nemzetközi kötelezettségvállalásokkal összefüggésben ellátja a nemzetközi klímavédelmi erőfeszítéseket támogató multi- és bilaterális szervezetekben a hazai képviseletet és koordinálja a részvételt. Ennek keretében a külpolitikáért felelős miniszter egyetértésével a Zöld Klíma Alap (GCF) döntéshozó testülete esetében kijelöli a szervezethez akkreditált nemzeti képviselőt.
+
+(2) A miniszter a Keretegyezményből fakadó nemzetközi kötelezettségvállalásokkal összefüggésben ellátja a Klímatechnológiai Központ és Hálózat (CTCN) döntéshozó testületeiben a magyar tagsággal összefüggő feladatokat.
+
+(3) A miniszter a Keretegyezményből fakadó nemzetközi kötelezettségvállalásokkal összefüggésben a külpolitikáért felelős miniszterrel együttműködésben előkészíti a nemzetközi klímafinanszírozással kapcsolatos döntéseket, illetve javaslatot tesz a Kormánynak a vállalás végrehajtására.
+
+(4) Magyarország nemzetközi klímafinanszírozási vállalásának forrását az üvegházhatású gázok európai kibocsátási egységeinek értékesítéséből származó bevételekből kell biztosítani.
 
 ### Záró rendelkezések
 

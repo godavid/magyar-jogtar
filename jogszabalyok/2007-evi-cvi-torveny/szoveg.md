@@ -28,7 +28,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogosultságainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, így a szabálysértési és büntetőeljárásokban elkobzás, vagyonelkobzás útján állami tulajdonba kerülő vagyon.
 
-(6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv – ide nem értve az állami adó- és vámhatóságot –, ennek intézménye, továbbá az a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak az állam általi elfogadására.
+(6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv – ide nem értve az állami adó- és vámhatóságot –, továbbá az a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak az állam általi elfogadására.
 
 (6a) E törvény hatálya alá tartozik a köztartozások fejében állami tulajdonba kerülő vagyon (adó-, vám-, illeték, egyéb állami támogatás, ideértve az elkülönített állami pénzalapból finanszírozott állami feladatokkal kapcsolatos állami követeléseket és az állami tulajdonban lévő pénzügyi eszközöket is). E vagyon felett – ideértve a 2010. június 17. napján és ezt követően a Nemzeti Adó- és Vámhivatal követelése fejében átadott vagyont is – az államot megillető tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
@@ -46,7 +46,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (2) A tulajdonosi jogokat
 
-- a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság és a Magyar Posta Zártkörűen Működő Részvénytársaság felett a kormányzati tevékenység összehangolásáért felelős miniszter,
+- a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar Posta Zártkörűen Működő Részvénytársaság, az ENKSZ Első Nemzeti Közműszolgáltató Zártkörűen Működő Részvénytársaság és a KAF Központi Adatgyűjtő és Feldolgozó Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – a kormányzati tevékenység összehangolásáért felelős miniszter,
 - b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
 - c) az Egészségbiztosítási Alap ellátási vagyona tekintetében az egészségbiztosításért felelős miniszter,
 - d) a Nyugdíjbiztosítási Alap ellátási vagyona tekintetében a nyugdíjpolitikáért felelős miniszter
@@ -64,11 +64,11 @@ gyakorolja.
 
 (2b) A (2a) bekezdés a) pontja szerinti esetben a miniszter gondoskodik arról, hogy a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálya alá tartozó állami vagyon tekintetében a miniszter rendelete alapján fennálló tulajdonosi joggyakorlói kijelölés a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálybalépésével egyidejűleg megszüntetésre kerüljön.
 
-(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
+(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló szervezet e tevékenységét e törvény és végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti azzal, hogy a tulajdonosi joggyakorlással érintett állami vagyon tulajdonjogát a tulajdonosi joggyakorló nem ruházhatja át, arra vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azt nem adhatja és más módon meg nem terhelheti, a gazdasági társaságot végelszámolással nem szüntetheti meg.
 
 (4) Az állami vagyon feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
-(5) Az MNV Zrt. és a 3. § (2) bekezdés c) és d) pontjában meghatározott tulajdonosi joggyakorlók a rábízott vagyon körében a miniszter jóváhagyásával köthetnek olyan megállapodást, melynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben résztvevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
+(5) Az a törvényben kijelölt tulajdonosi joggyakorló, amely nem egyedileg meghatározott vagyoni kör tekintetében gyakorol tulajdonosi jogokat, a rábízott vagyon körében a miniszter jóváhagyásával köthet olyan megállapodást, amelynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben részt vevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
 
 4. § A miniszter az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj mértékét rendeletben állapítja meg.
 
@@ -94,7 +94,7 @@ gyakorolja.
 - d) rendszeresen ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelő Bizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
 - e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
 - f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
-- g) közreműködik a Nemzeti Vagyongazdálkodási Irányelvek és az Éves Nemzeti Vagyongazdálkodási Program előkészítésében,
+- g) elektronikus árverési rendszert működtet, vezeti az árverezők elektronikus nyilvántartását és elektronikus árverési hirdetmény közzététele útján elektronikus árverési eljárást bonyolít le,
 - h) az állami feladatok ellátása során a költségvetési szervek, illetve az egyéb, az állami vagyont használó természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek részére a működésükhöz szükséges állami tulajdon használatához szükséges szolgáltatásokat (üzemeltetés, beszerzés) nyújt.
 
 (2) Az MNV Zrt. jogszabályokban meghatározott feladatai állami feladatnak minősülnek.
@@ -111,7 +111,7 @@ gyakorolja.
 
 (2) Az MNV Zrt. működésének ellenőrzését a Felügyelő Bizottság látja el. A Felügyelő Bizottságra a Ptk. 3:124.–3:127. §-ának rendelkezéseit nem kell alkalmazni.
 
-(3) A Kormány az állam nevében tulajdonosi jogokat gyakorló szervezetek működéséről, az állami vagyon állományának alakulásáról, az állami vagyonnal való gazdálkodás folyamatairól évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
+(3) A Kormány az állam nevében tulajdonosi jogokat gyakorló szervezetek működéséről, az állami vagyon állományának alakulásáról, az állami vagyonnal való gazdálkodás folyamatairól évente, a tárgyévet követő év december 31. napjáig beszámol az Országgyűlésnek.
 
 ### Az MNV Zrt. szervezete
 
@@ -343,6 +343,8 @@ gyakorolja.
 - a) az (1) bekezdésben meghatározottak alapján megismert személyes adatokat a szerződés megkötéséről meghozott döntés időpontjáig,
 - b) a (2) bekezdésben meghatározottak alapján megismert személyes adatokat a szerződés érvényessége végéig kezeli.
 
+(4) Az (1) bekezdés szerinti igazolási kötelezettség nem vonatkozik azon jogi személyekre, amelyekre a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény hatálya nem terjed ki.
+
 26. §
 
 ### A vagyonkezelés szabályai
@@ -431,7 +433,7 @@ lehet végezni.
 (2) A vagyon közvetlenül az alábbi módon értékesíthető:
 
 - a) nyilvános vagy zártkörű pályázat útján,
-- b) nyilvános árverésen [a továbbiakban az a) és b) együtt: versenyeztetés],
+- b) nyilvános árverésen, ideértve az elektronikus árverést is [a továbbiakban az a) és b) pont együtt: versenyeztetés],
 - c) kivételesen versenyeztetés nélkül.
 
 (3) A vagyon közvetetten – figyelemmel a 35. § (2) bekezdésében foglaltakra is – az alábbi módon értékesíthető:
@@ -473,6 +475,10 @@ lehet végezni.
 (6) Állami vagyonra vonatkozóan vételi jogot alapítani csak az értékesítésre vonatkozó jogszabályi előírások betartásával lehet. Az ily módon alapított vételi jog időtartama az öt évet meghaladhatja.
 
 (7) Az állami vagyon értékesítésének részletes szabályait a Kormány rendeletben állapítja meg.
+
+(8) Az MNV Zrt. által működtetett elektronikus árverési rendszerbe árverezőként történő belépésre az árverezők elektronikus nyilvántartásába bejegyzett felhasználó jogosult regisztrált és aktivált felhasználói nevének, valamint jelszavának megadásával.
+
+(9) Az árverezők elektronikus nyilvántartásába bármely természetes személy vagy olyan jogi személy kérheti a felvételét, aki megfelel a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti feltételeknek, ha az elektronikus árverési rendszer árverezőként történő használatának feltételeit rögzítő felhasználási szabályzatban foglaltakat elfogadta.
 
 36. § (1) Állami vagyon tulajdonjogát ingyenesen átruházni csak törvény rendelkezése alapján lehet.
 
@@ -833,6 +839,10 @@ lép.
 
 (5) Az MNV Zrt. az államadósság csökkentésére felhasználandó (3) bekezdés szerinti bevételek összegéről, azok beérkezését követő hónap 15. napjáig írásos tájékoztatást küld az Államadósság Kezelő Központ Zrt. részére, amely az értékesítési, hozam- vagy más hasznosítási bevétellel egyező összegű államadósság-csökkentési műveletet hajt végre.
 
+69/C. § (1) Az MNV Zrt. rábízott vagyonába tartozó, az MNV Zrt. működéséhez szükséges számviteli törvény szerinti immateriális javak, tárgyi eszközök, készletek 2015. december 31-i nyilvántartási értéken e törvény erejénél fogva 2016. január 1-jén ingyenesen az MNV Zrt. tulajdonába kerülnek. Az MNV Zrt. gondoskodik a vagyonmozgás nyilvántartásokon történő átvezetéséről.
+
+(2) Az (1) bekezdés szerinti vagyonelemek tulajdonba adását a miniszter és az MNV Zrt. átadás-átvételi jegyzőkönyv felvételével hajtja végre. Az átadás-átvételi jegyzőkönyv tartalmazza az MNV Zrt. működéséhez szükséges, számviteli törvény szerinti immateriális javak, tárgyi eszközök, készletek pontos meghatározását. Az átadás során az államot a miniszter képviseli.
+
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek minősülnek.
 
 (2) E törvény alkalmazásában gazdálkodó szervezet a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
@@ -845,7 +855,7 @@ lép.
 - d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
 - e) az állami vagyon értékesítésére vonatkozó szabályokat,
 - f) az állami vagyon feletti tulajdonosi joggyakorló által az MNV Zrt. részére küldendő adatszolgáltatás tartalmát, módját és határidejét.
-- g)
+- g) a 34. § (2) bekezdés b) pontja szerinti elektronikus árverés szabályait, ezen belül az elektronikus árverési rendszer működtetésének, az árverezők elektronikus nyilvántartása vezetésének, az elektronikus árverés lebonyolításának részletes szabályait, az árverezők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus árverési rendszer szakmai és informatikai követelményeit, az informatikai rendszer működtetése ellenőrzésének felelősét, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az informatikai rendszer jogszabályi és működésbiztonsági tanúsításának szabályait, az elektronikus árverési rendszerhez felhasználóként (vevőként) történő csatlakozás feltételeit, a rendszer használóira vonatkozó szabályzatok kötelező tartalmát,
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
