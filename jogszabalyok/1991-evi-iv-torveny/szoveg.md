@@ -418,7 +418,7 @@ időtartamával.
 
 (9a) Ha az álláskeresési járadékban részesülő személy az álláskeresési járadék folyósítási idejének kimerítését megelőzően nem a lakó- vagy tartózkodási helyén létesít a (8) bekezdésben meghatározott feltételeknek megfelelő munkaviszonyt, a (9) bekezdésben meghatározott mértékű juttatást a részére – kérelmére – egy összegben a kereső tevékenységre vonatkozó bejelentési kötelezettség teljesítését követő legközelebbi számfejtés alkalmával kell kifizetni.
 
-(10) A (9) bekezdésben foglaltak nem alkalmazhatók, ha az álláskereső az álláskeresési járadék folyósítása alatt ugyanazzal a munkaadóval létesít munkaviszonyt, amellyel az álláskeresési járadék megállapítását megelőzően utoljára munkaviszonyban állt.
+(10) A (8) bekezdésben foglaltak nem alkalmazhatók, ha az álláskereső az álláskeresési járadék folyósítása alatt ugyanazzal a munkaadóval létesít munkaviszonyt, amellyel az álláskeresési járadék megállapítását megelőzően utoljára munkaviszonyban állt.
 
 (11) Ha az álláskereső részére az állami foglalkoztatási szerv (illetőleg annak kirendeltsége) a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
 
@@ -448,7 +448,7 @@ időtartamával.
 - a) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
 - b) előzetes letartóztatásban van, szabadságvesztés, elzárás büntetését tölti, kivéve, ha a szabadságvesztés-büntetést pénzbüntetés átváltoztatása miatt állapították meg, a büntetés megkezdésének napjától,
 - c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
-- d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével, feltéve, hogy bejelentési kötelezettségének eleget tett – a kereső tevékenységet megalapozó jogviszony kezdő napjától,
+- d) rövid időtartamú, legfeljebb 120 napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével, feltéve, hogy bejelentési kötelezettségének eleget tett – a kereső tevékenységet megalapozó jogviszony kezdő napjától,
 - e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül, a keresetpótló juttatás kezdőnapjától, vagy olyan képzésben vesz részt, amelynek keretében felzárkózást elősegítő megélhetési támogatásban részesül, a felzárkózást elősegítő megélhetési támogatás folyósítása alatt,
 - f) az önkéntes tartalékos katonai szolgálat keretében tényleges szolgálatot teljesít, ezen időszak teljes időtartamára.
 
@@ -870,7 +870,7 @@ együttműködik.
 (14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
 - a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
-- b) rövid, 90 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
+- b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
 - c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 - d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
 - e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt, továbbá
@@ -882,7 +882,7 @@ együttműködik.
 
 (16) A nemzetközi egyezmény hatálya alá tartozó személyre e törvény rendelkezéseit az egyezmény szabályai szerint kell alkalmazni.
 
-(17) Az állami foglalkoztatási szerv a (14) bekezdés g)–i) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
+(17) Az állami foglalkoztatási szerv a (14) bekezdés h) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
 
 (18) Az álláskereső aktív munkahelykereső tevékenysége a gyermekgondozási segélyre és gyermekgondozási díjra való jogosultságának bejelentése esetén akkor szünetel, ha annak folyósítása alatt a családok támogatásáról szóló törvény és a kötelező egészségbiztosítás ellátásairól szóló törvény szerint nem folytathat keresőtevékenységet, vagy keresőtevékenységet folytathat, de kéri az aktív munkahelykereső tevékenységének és álláskeresőként való nyilvántartásának szünetelését.
 
@@ -1136,7 +1136,7 @@ szükséges hozzáférést.
   - ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
 - j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
 - k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben részesül, 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
-- l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 90 napot nem haladja meg,
+- l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 120 napot nem haladja meg,
 - m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek,
 - n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 - o) közhasznú tevékenység: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység,
