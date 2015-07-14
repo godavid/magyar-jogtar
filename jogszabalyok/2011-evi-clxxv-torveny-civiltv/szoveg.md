@@ -112,9 +112,9 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 8. § (1) Minden egyesület saját maga rendelkezik nevével, címerével, logójával és minden a nevéhez kapcsolódó joggal, különös tekintettel a hirdetési, reklám és a tevékenység televíziós, rádiós valamint egyéb elektronikus technikákkal történő közvetítésével kapcsolatos jogokra.
 
-(2) Az egyesület az (1) bekezdés szerinti hirdetési, reklám, illetve közvetítési jogokkal kapcsolatosan egy évnél hosszabb időre szerződést csak a döntéshozó szerv külön felhatalmazása alapján köthet.
+(2) Az egyesület az (1) bekezdés szerinti hirdetési, reklám-, illetve közvetítési jogokkal kapcsolatosan egy évnél hosszabb időre szerződést csak a döntéshozó szerv külön felhatalmazása alapján köthet. Az országos sportági szakszövetség esetében ezt a jogkört a szakszövetség ügyintéző-képviselő szerve jogosult gyakorolni.
 
-(3) A (2) bekezdés szerinti, határozatlan vagy egy évnél hosszabb időre kötött szerződés megkötésétől számítva évente a döntéshozó szerv újabb felhatalmazása hiányában hatályát veszti. Ezen rendelkezést az (1) bekezdés szerinti szerződésben szerepeltetni kell.
+(3) A (2) bekezdés szerinti, határozatlan vagy egy évnél hosszabb időre kötött szerződés megkötésétől számítva évente a döntéshozó szerv – országos sportági szakszövetség esetén a szakszövetség ügyintéző-képviselő szerve – újabb felhatalmazása hiányában hatályát veszti. Ezen rendelkezést az (1) bekezdés szerinti tárgyban kötött szerződésben szerepeltetni kell.
 
 ### II. Fejezet — A CIVIL SZERVEZETEK VÉGELSZÁMOLÁSA, KÉNYSZER-VÉGELSZÁMOLÁSA
 
@@ -738,6 +738,18 @@ vonatkozó szabályokat.
 
 (5) Ha az arra jogosult szerv a törvényes működés helyreállítása érdekében szükséges intézkedéseket nem teszi meg, a felügyelő szerv köteles haladéktalanul értesíteni a törvényességi ellenőrzést ellátó szervet.
 
+#### 13/A. A közhasznú jogállású alapítványokra vonatkozó különös szabályok
+
+41/A. § (1) Ha közhasznú jogállású alapítványban az alapító – több alapító esetében valamennyi alapító – halála vagy jogutód nélküli megszűnése miatt az alapítói jogokat a kuratórium (kurátor) vagy a bíróság gyakorolja, és az alapítvány közhasznú tevékenységei közül legalább három a Magyarország helyi önkormányzatairól szóló törvény szerinti önkormányzati feladat, az alapítói jogok gyakorlójává az e § szerint javasolt személy válik.
+
+(2) Az (1) bekezdésben foglalt feltételek esetében az alapítvány székhelye szerinti települési önkormányzat képviselő-testületét az alapítói jogok gyakorlójának személyére vonatkozóan javaslattételi jog illeti meg.
+
+(3) A képviselő-testület csak az önkormányzat 100%-os tulajdonában álló gazdasági társaságot javasolhat az alapítói jogok gyakorlójának.
+
+(4) Az (1) bekezdésben foglaltak esetén a kuratórium (kurátor) vagy – az alapítói jogok bíróság általi gyakorlása esetén – a bíróság az alapítói jogok gyakorlásának kezdő napját követő három hónapon belül – legalább negyvenöt napos – határidő kitűzése mellett írásban megkeresi az alapítvány székhelye szerinti települési önkormányzat képviselő-testületét, hogy az alapítói jogok gyakorlására jogosult személyt javasoljon. Az alapítói jogok gyakorlója az e bekezdés szerinti kötelezettségét az őt megillető alapítói jog gyakorlásáról való tudomásszerzése napjától számított egy hónapon belül akkor is teljesítheti, ha az e bekezdés szerinti három hónapos határidő már eltelt vagy abból egy hónapnál kevesebb van hátra.
+
+(5) Ha a (3) bekezdés szerinti jogi személy megfelel a jogszabályi rendelkezéseknek, és az alapítói jogok gyakorlására vonatkozóan elfogadó nyilatkozatot tesz, e kijelölt személy az elfogadó nyilatkozat megtételével az alapítói jogok gyakorolójává válik.
+
 #### 14. A közhasznú szervezet gazdálkodására vonatkozó különös szabályok
 
 42. § (1) A közhasznú szervezet a gazdálkodása során elért eredményét nem oszthatja fel, azt létesítő okiratában meghatározott közhasznú tevékenységére kell fordítania.
@@ -1186,6 +1198,8 @@ rendeletben szabályozza.
 (16) E törvénynek az egyes civil szervezetekkel kapcsolatos törvényeknek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő valamint egyéb célú módosításáról szóló 2013. évi CCXIII. törvénnyel (a továbbiakban: Civilmód.) megállapított 4. § és a II. fejezetének rendelkezéseit a Civilmód. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (17) E törvény 2013. december 31-én hatályos 29. § (3) bekezdésének rendelkezését a 2013. üzleti évről készített beszámolóra alkalmazni kell.
+
+(18) E törvénynek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény, valamint a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosításáról szóló 2015. évi CXXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 41/A. §-át azon közhasznú jogállású alapítványra is alkalmazni kell, amelyben – a 41/A. § szerinti okból – a Módtv2. hatálybalépésekor már a kuratórium (kurátor) vagy a bíróság gyakorolja az alapítói jogokat. A 41/A. §-ban foglalt határidőt a Módtv2. hatálybalépésének napjától kell számítani. E rendelkezéseket alkalmazni kell abban az esetben is, ha a Módtv2. hatálybalépését követően az alapítvány közhasznú jogállása vagy közhasznú tevékenységei körében változásbejegyzési eljárást kezdeményeznek.
 
 #### 26. Az Európai Unió jogának való megfelelés
 
