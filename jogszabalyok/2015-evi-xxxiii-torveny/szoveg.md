@@ -25,7 +25,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szaba
 
 4. § A beruházás kapcsán indított közbeszerzési eljárások során a közbeszerzési hirdetményekkel kapcsolatos ügyintézési határidő egy munkanap.
 
-5. § (1) A beruházás területére vonatkozó sajátos településrendezési követelmények, illetve és az építési övezetre előírt határértékek a Budapest XIII. kerület 25879 helyrajzi számú ingatlan (a továbbiakban: létesítményfejlesztési ingatlan) tekintetében a következők:
+5. § (1) A beruházás területére vonatkozó sajátos településrendezési követelmények, illetve az építési övezetre előírt határértékek a Budapest XIII. kerület 25879 helyrajzi számú ingatlan (a továbbiakban: létesítményfejlesztési ingatlan) tekintetében a következők, azzal, hogy a 8. § szerinti ideiglenes lelátókat ezek meghatározásakor nem kell figyelembe venni:
 
 - a) a megengedett legnagyobb beépítettség mértéke 35 százalék,
 - b) a terepszint alatti megengedett legnagyobb beépítettség mértéke 30 százalék,
@@ -46,7 +46,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szaba
 
 (6) A beruházással összefüggésben a kulturális örökség védelmére és az azzal összefüggő közigazgatási hatósági eljárásra jogszabály további eltéréseket állapíthat meg.
 
-(7) A létesítményfejlesztési ingatlanon a bontás, a létesítményfejlesztési ingatlanon létesítendő épület tekintetében a földmunka és a mélyalapozás építési engedély nélkül végezhető építési tevékenység.
+(7) A beruházással érintett ingatlanokon a bontás, a földmunka, a mélyalapozás és az alaplemez készítés építési engedély nélkül, bontás tudomásulvétele nélkül, illetve bontási tevékenység megkezdésének tudomásulvétele nélkül végezhető építési tevékenység.
 
 (8) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület tekintetében oltóvízként abban az esetben kell figyelembe venni az épület részeként elkészülő medencékben a rendeltetésszerű működtetés során rendelkezésre álló vízmennyiséget, ha a medencék tekintetében a tűzoltói beavatkozás lehetősége biztosított.
 
@@ -62,9 +62,9 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szaba
 
 (3) A beruházással érintett közmű- és energiaszolgáltató az ahhoz az építtető által benyújtott tervek jóváhagyása tekintetében a tervek benyújtásától számított öt napon belül érdemben nyilatkozik.
 
-8. § (1) A beruházás keretében legfeljebb 14 000 személy elhelyezésére szolgáló ideiglenes lelátók létesíthetők. Az ideiglenes lelátók létesítéséhez építésügyi hatósági engedély nem szükséges, azokra, illetve azok létesítése kapcsán az országos településrendezési és építési követelményekről szóló kormányrendelet és az országos tűzvédelmi szabályzatról szóló miniszteri rendelet szabályai nem alkalmazhatók. Az ideiglenes lelátók létesítéséhez kizárólag a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság engedélye szükséges, azzal, hogy az ideiglenes lelátók létesítésének feltételeit az e törvény felhatalmazása alapján kiadott jogszabály állapítja meg.
+8. § (1) A beruházás keretében legfeljebb 14 000 személy elhelyezésére szolgáló ideiglenes lelátók létesíthetők. Az ideiglenes lelátók létesítéséhez építésügyi hatósági engedély nem szükséges, azokra, illetve azok létesítése kapcsán az országos településrendezési és építési követelményekről szóló kormányrendelet és az országos tűzvédelmi szabályzatról szóló miniszteri rendelet szabályai nem alkalmazhatók. Az ideiglenes lelátók létesítéséhez kizárólag a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság tűzvédelmi és katasztrófavédelmi szempontok alapján megadott engedélye szükséges, azzal, hogy az ideiglenes lelátók létesítésének tűzvédelmi és katasztrófavédelmi feltételeit, valamint az engedélyezési eljárás részletes szabályait az e törvény felhatalmazása alapján megalkotott miniszteri rendelet állapítja meg.
 
-(2) Az ideiglenes lelátókat az adott világbajnokság befejezését követő 90 napon belül meg kell szüntetetni. Az ideiglenes lelátók létesítése kapcsán a fővárosi és kerületi településrendezési eszközök előírásait nem kell alkalmazni.
+(2) Az (1) bekezdés szerinti ideiglenes lelátók építménynek nem minősülő létesítmények, amelyek használatára a világbajnokság kapcsán kizárólag 2017. április 1. és 2017. szeptember 30. között kerülhet sor. Az ideiglenes lelátókat legkésőbb 2017. december 31-ig meg kell szüntetni. Az ideiglenes lelátók létesítése kapcsán a fővárosi és kerületi településrendezési eszközök előírásait nem kell alkalmazni.
 
 9. § (1) A toronyugrás céljából létesítendő óriás ugrótorony és kapcsolódó létesítményei – ideiglenes építményként – a Duna bármelyik oldalán az Erzsébet híd és az Árpád híd között a rakparton bárhol elhelyezhető, ideértve az Országház és a Duna között húzódó Id. Antall József rakpartot is, és az építmény egyes részei a Duna medrében is elhelyezhetőek. A toronyugrás céljából létesítendő óriás ugrótorony és kapcsolódó létesítményei közterületen is elhelyezhetők, azok létesítéséhez a közterület tulajdonosától közterület-használati hozzájárulást nem kell kérni és közterület-használati hozzájárulást tartalmazó szerződést nem kell kötni. A toronyugrás céljából létesítendő óriás ugrótorony és kapcsolódó létesítményei közterületen történő elhelyezése esetén a közterület tulajdonosa részére a közterület használatára és annak részletes körülményeire vonatkozóan a közterület használatának megkezdését megelőző 60 nappal bejelentést kell tenni.
 
@@ -97,7 +97,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a sport- és szaba
   - cb) létesítése tekintetében alkalmazandó sajátos természetvédelmi szabályokat,
   - cc) létesítésének, elbontásának szabályait,
   - cd) használatával lebonyolítandó verseny megrendezésével összefüggésben a dunai hajózás korlátozásának, illetve hajózási zárlat elrendelésének, továbbá a vízi rendezvény engedélyezésének szabályait,
-- d) a beruházással kapcsolatos további beépítési szabályokat, és a beruházással kapcsolatos közigazgatási hatósági eljárások további sajátos szabályait,
+- d) a beruházással kapcsolatos további beépítési szabályokat, és a beruházással kapcsolatos közigazgatási hatósági eljárások további sajátos szabályait, ide nem értve az ideiglenes lelátók létesítésével és bontásával kapcsolatos eljárásokat,
 - e) a létesítményfejlesztési ingatlannal kapcsolatos további építési követelményeket,
 - f) a beruházás keretében megvalósuló egyes létesítmények tekintetében az építtető személyét
 
@@ -105,7 +105,7 @@ rendelettel állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a 8. § (1) bekezdésében meghatározott ideiglenes lelátók létesítésének és bontásának feltételeit rendeletben szabályozza.
+(2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a 8. § (1) bekezdésében meghatározott ideiglenes lelátók létesítésére és bontására irányuló engedélyezési eljárás részletes szabályait, a tűzvédelmi és a katasztrófavédelmi követelményeket rendeletben szabályozza.
 
 16. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
@@ -115,7 +115,7 @@ rendeletben állapítsa meg.
 
 18. § E törvénynek a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztésről szóló 2015. évi XXXIII. törvény módosításáról szóló 2015. évi CXVII. törvénnyel megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-19. §
+19. § E törvénynek a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztésről szóló 2015. évi XXXIII. törvény módosításáról szóló 2015. évi CXXXVI. törvénnyel megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
 ### 1. melléklet a 2015. évi XXXIII. törvényhez
 
