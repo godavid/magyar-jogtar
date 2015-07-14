@@ -66,7 +66,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 ### Az amatőr sportolókra vonatkozó rendelkezések
 
-5. § (1) Amatőr sportoló sportegyesület keretében tagként, illetve – a (4) bekezdésben meghatározottakra is figyelemmel – sportszerződés alapján, sportvállalkozás és az utánpótlás-nevelés fejlesztését végző alapítvány keretében pedig – amennyiben az ilyen alapítvány nem minősül egyúttal az e törvényben meghatározott sportiskolának is – kizárólag sportszerződés alapján sportolhat. Sportiskola tanulója tanulói jogviszonya alapján is amatőr sportolónak minősülhet. A tanulói jogviszony szünetelése az amatőr sportoló versenyengedélyének érvényességét nem érinti.
+5. § (1) Amatőr sportoló sportegyesület keretében tagként, illetve ha a sportszövetség vonatkozó szabályzata másként nem rendelkezik – a (4) bekezdésben meghatározottakra is figyelemmel – sportszerződés alapján, sportvállalkozás és az utánpótlás-nevelés fejlesztését végző alapítvány keretében pedig – amennyiben az ilyen alapítvány nem minősül egyúttal az e törvényben meghatározott sportiskolának is – sportszerződés alapján sportolhat. Köznevelési típusú sportiskola tanulója tanulói jogviszonya alapján is amatőr sportolónak minősülhet. A tanulói jogviszony szünetelése az amatőr sportoló versenyengedélyének érvényességét nem érinti.
 
 (2) A sportszerződésben a sportszervezet és az amatőr sportoló megállapodnak a sporttevékenységgel kapcsolatos együttműködésük feltételeiről. A sportszerződésre a Polgári Törvénykönyv megbízási szerződésre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -79,7 +79,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 - a) az amatőr sportoló felkészüléssel és versenyzéssel összefüggő indokolt és igazolt költségeinek megtérítése, az ezzel kapcsolatos természetbeni juttatás, valamint a Gerevich Aladár-sportösztöndíjrendszer keretében kapott támogatás,
 - b) a kiemelkedő sportteljesítményért nyújtott eredményességi elismerés (pénzbeli elismerés, érem, ajándéktárgy stb.).
 
-(6) A sportszövetség versenyszabályzatában határozza meg, hogy az amatőr sportoló milyen feltételekkel vehet részt hazai, illetve nemzetközi (külföldi) pénzdíjas versenyen, továbbá hivatásos versenyrendszerben.
+(6) A sportszövetség versenyszabályzatában határozza meg, hogy az amatőr sportoló milyen feltételekkel vehet részt hazai, illetve nemzetközi pénzdíjas versenyen, továbbá hivatásos, vegyes (nyílt) és amatőr versenyrendszerben.
 
 (7) A tagsági viszony, a sportszerződés vagy a tanulói jogviszony létrejöttével az amatőr sportoló játékjogának használatát e jogviszony fennállásának időtartamára – figyelemmel a 7. § (1) és (2) bekezdésében foglaltakra – sportszervezetének, sportiskolájának vagy az utánpótlás-nevelés fejlesztését végző alapítványnak ingyenesen átengedi.
 
