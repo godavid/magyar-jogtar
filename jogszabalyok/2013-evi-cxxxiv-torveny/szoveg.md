@@ -14,7 +14,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (6) Az állami szerv az ideiglenes ellátásra irányuló kijelölés során az ellátás hatékonyságához, gyorsaságához, gazdaságosságához fűződő közérdeket, továbbá a lakosság méltányos érdekeit veszi figyelembe.
 
-(7) Az ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb kilenc hónapos időtartamra történhet. A kijelölés ezt követően három havonként, legfeljebb egy éves időtartammal meghosszabbítható
+(7) Az ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb kormányrendeletben meghatározott időtartamra érvényes.
 
 (8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a hulladékgazdálkodási közszolgáltatási engedélyében vagy minősítési engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
 
@@ -80,7 +80,8 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 - a) vonatkozó részletes szabályokat;
 - b) a díjfizetés és az érintettek közötti elszámolás szabályait;
 - c) a közérdekű szolgáltató kijelölésére irányuló hatósági eljárás lefolytatására jogosult állami szerv kijelölését;
-- d) a települési hulladék szükségellátás keretében történő elszállításának megszervezéséért felelős állami szerv kijelölését.
+- d) a települési hulladék szükségellátás keretében történő elszállításának megszervezéséért felelős állami szerv kijelölését;
+- e) az ideiglenes ellátásra irányuló kijelölés lehetséges időtartamát.
 
 4/A. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a kéményseprő-ipari közszolgáltatás ellátásának kiesése esetére
 

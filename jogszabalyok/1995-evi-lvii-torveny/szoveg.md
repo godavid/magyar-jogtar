@@ -62,20 +62,25 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - a) az állami tulajdonban lévő vizek és vízilétesítmények, a felszín alatti vizek víztartó képződményeinek és a felszíni vizek medreinek vagyonkezelését,
 - b) az állami tulajdonban lévő vízilétesítmények üzemeltetését, fenntartását és fejlesztését.
 
-(3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy egyébként vízitársulat üzemeltetésében állnak, e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
+(3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek
+
+- a) vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy
+- b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő a Nemzeti Földalapkezelő Szervezet, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, megyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
+
+e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
 
 (4) A (3) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
 
-(5) Az ingatlanügyi hatóság a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (7a) bekezdésében foglaltakra tekintettel és az ott rögzített feltételekkel, a vízügyi igazgatási szerv egyoldalú nyilatkozatát tartalmazó kérelme alapján köteles bejegyezni a vízügyi igazgatási szerv vagyonkezelői jogát az ingatlan-nyilvántartásba, és egyidejűleg törölni a vízitársulat vagyonkezelői jogát vagy kezelői jogát az ingatlan-nyilvántartásból.
+(5) Az ingatlanügyi hatóság a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (7a) bekezdésében foglalt feltételek fennállása esetén, a vízügyi igazgatási szerv egyoldalú nyilatkozatát tartalmazó kérelme alapján bejegyzi a vízilétesítmények vonatkozásában a vízügyi igazgatási szerv vagyonkezelői jogát az ingatlan-nyilvántartásba, és – amennyiben az a bejegyzéshez szükséges – egyidejűleg törli a (3) bekezdésben megjelölt szerv vagyonkezelői jogát vagy kezelői jogát az ingatlan-nyilvántartásból.
 
-(6) A vízitársulat az üzemeltetési és fenntartási feladatokat a vagyonkezelői jogának vagy kezelői jogának az ingatlan-nyilvántartásból történő törléséig köteles ellátni.
+(6) A vízitársulat az üzemeltetési és fenntartási feladatokat az (5) bekezdés szerinti ingatlanügyi hatósági határozat kézhezvételének napjáig látja el.
 
-(7) A vízitársulat által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a korábbi vagyonkezelő vagy kezelő helyébe a (3) bekezdésben kijelölt vagyonkezelő lép.
+(7) A vízitársulat által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a korábbi vagyonkezelő vagy kezelő helyébe a (3) bekezdésben kijelölt vagyonkezelő lép. Egyéb tekintetben a vízügyi igazgatási szerv nem tekinthető a vízitársulat jogutódjának.
 
 4. § (1) A települési önkormányzat feladata:
 
 - a) a helyi vízi közüzemi tevékenység fejlesztésére vonatkozó – a vízgazdálkodás országos koncepciójával és a jóváhagyott nemzeti programokkal összehangolt – tervek kialakítása és végrehajtása;
-- b)
+- b) a település belterületén a csapadékvízzel történő gazdálkodás;
 - c) a közműves vízellátás körében a települési közműves vízszolgáltatás korlátozására vonatkozó terv jóváhagyásáról és a vízfogyasztás rendjének megállapításáról való gondoskodás;
 - d) a vízgazdálkodási feladatokkal kapcsolatos önkormányzati hatósági feladatok ellátása;
 - e) a természetes vizek fürdésre alkalmas partszakaszainak és azzal összefüggő vízfelületének kijelölése;
@@ -155,7 +160,8 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - c) a természetes állóvizek és holtágak, patakok vagy patakszakaszok szabályozása, fenntartása, partvédelme és üzemeltetése, a vizek kártételeinek megelőzése, mérséklése;
 - d) a belvízelvezető művek (így például a belvízcsatornák, szivattyútelepek, belvíztározók) létesítése, fenntartása, bővítése és a belvízvédekezés végrehajtása;
 - e) a víz, a hordalék, a jég zavartalan levonulási lehetőségének megteremtése, a szabályozási és mederfenntartási munkálatok elvégzése;
-- f) a település belterületén a patakok, csatornák áradása, továbbá a csapadék- és egyéb vizek kártételének megelőzése, a kül- és belterületen a patakszabályozás, árvízvédelmi létesítmények építése, fenntartása, fejlesztése, az árvízmentesítés, az árvízvédekezés szervezése, irányítása, végrehajtása, a védelmi szakfelszerelés karbantartása és fejlesztése.
+- f) a település belterületén a patakok, csatornák áradása, továbbá a csapadék- és egyéb vizek kártételének megelőzése, a kül- és belterületen a patakszabályozás, árvízvédelmi létesítmények építése, fenntartása, fejlesztése, az árvízmentesítés, az árvízvédekezés szervezése, irányítása, végrehajtása, a védelmi szakfelszerelés karbantartása és fejlesztése;
+- g) a település belterületén a csapadékvíz elkülönített elvezetését biztosító árkok fenntartása és vízilétesítmények üzemeltetése, az országos közút, illetve a közforgalmú vasút víztelenítését szolgáló árkok, csatornák és egyéb vízelvezető vízilétesítmények kivételével.
 
 (5) Az állami tulajdonban lévő vízfolyás medrének és parti sávjának lehatárolásáról a vízügyi igazgatási szerv gondoskodik.
 
@@ -527,6 +533,30 @@ alapján kell kiszámítania.
 
 (2) A parti ingatlan tulajdonosa parti ingatlanát az elhabolás ellen jogosult megvédeni, illetve az elhabolt részt vízjogi engedély alapján helyreállítani.
 
+22/A. § (1) A vízügyi igazgatási szerv vizsgálja, hogy van-e az öntözővíz továbbítását akadályozó vízfolyás- vagy csatornaszakasz.
+
+(2) Ha a vízügyi igazgatási szerv az (1) bekezdés szerinti vizsgálat eredményeképpen megállapítja, hogy van nem állami tulajdonban lévő, az öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz, úgy kezdeményezi a vízügyi hatóságnál a vízügyi igazgatási szerv üzemeltetőként, fenntartóként történő kijelölését.
+
+(3) A vízügyi hatóság – hatvan napon belül lefolytatott hatósági eljárásban – a vízügyi igazgatási szervet üzemeltetőnek és fenntartónak akkor jelöli ki, ha
+
+- a) megállapítja, hogy az adott nem állami tulajdonban lévő vízfolyásnak, csatornának az öntözésben betöltött szerepe közérdekű, és
+- b) a vízfolyás, csatorna elhanyagolt állapota akadályozza az öntözővíz-továbbítást.
+
+(4) A vízügyi hatóság kijelölő döntése két évig hatályos és fellebbezésre tekintet nélkül végrehajtható.
+
+(5) A kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
+
+22/B. § Ha az öntözővíz továbbítását akadályozó vízilétesítmény tulajdonosa a 22/A. § szerinti hatósági kijelölés helyett üzemeltetési szerződést köt a vízügyi igazgatósággal a vízfolyás, csatorna üzemeltetésére és fenntartására, úgy a vízügyi igazgatóság a kijelölés iránti kérelmet visszavonja és a vízügyi hatóság a folyamatban lévő eljárást megszünteti, valamint, ha a kijelölés már megtörtént, a vízügyi hatóság a döntést visszavonja. A szerződéskötésről a vízügyi igazgatási szerv tizenöt napon belül tájékoztatja a vízügyi hatóságot.
+
+22/C. § (1) A 22/A. § (3) bekezdés a) pontja szerinti közérdek fennállását a vízügyi igazgatási szerv rendszeresen vizsgálja.
+
+(2) Az (1) bekezdés szerinti vizsgálat eredményeképpen a vízügyi igazgatási szerv kezdeményezheti
+
+- a) a kijelölő döntés felülvizsgálatát vagy időbeli hatályának meghosszabbítását,
+- b) az üzemeltetési szerződés felülvizsgálatát.
+
+(3) Az öntözést szolgáló vízfolyás, csatorna tulajdonosa kezdeményezheti az üzemeltetési szerződés vagy a kijelölő döntés felülvizsgálatát, ha a szerződés megkötését vagy a hatósági döntés kiadását megalapozó közérdekűség álláspontja szerint már nem áll fenn.
+
 23. § (1) E törvény hatálybalépését követően a természetes vizek partját a tulajdonos állam, illetve a tulajdonos helyi önkormányzat közérdekű célokra tartja fenn, ezért az államtól, illetőleg az önkormányzattól beépítetlen ingatlantulajdon természetes vizek partján nem szerezhető.
 
 (2) Felhatalmazást kap a Kormány, hogy különösen indokolt esetben az (1) bekezdésben foglalt korlátozás alól meghatározott ingatlan, illetőleg meghatározott partszakasz tekintetében rendeletben felmentést adjon.
@@ -559,7 +589,11 @@ alapján kell kiszámítania.
 
 ### VIII. Fejezet — A vízügyi hatósági jogkör
 
-28. § (1) Vízjogi engedély szükséges – jogszabály által bejelentéshez kötött tevékenységektől eltekintve – a vízimunka elvégzéséhez, illetve vízilétesítmény megépítéséhez, átalakításához és megszüntetéséhez (létesítési engedély), továbbá annak használatbavételéhez, üzemeltetéséhez, valamint minden vízhasználathoz (üzemeltetési engedély).
+28. § (1) A jogszabály által bejelentéshez kötött tevékenységektől eltekintve vízjogi engedély szükséges
+
+- a) a vízimunka elvégzéséhez, a vízilétesítmény megépítéséhez és átalakításához (vízjogi létesítési engedély),
+- b) a vízilétesítmény használatbavételéhez és üzemeltetéséhez, a vízhasználathoz (vízjogi üzemeltetési engedély), és
+- c) a vízilétesítmény megszüntetéséhez (megszüntetési engedély).
 
 (2) Elvi vízjogi engedély kérhető a vízjogi engedélyezési kötelezettség alá tartozó vízhasználat, vízimunka és vízilétesítmény műszaki tervezéséhez.
 
@@ -571,7 +605,7 @@ alapján kell kiszámítania.
 - b) megfelel a vízimunkára, a vízilétesítmények, víziközművek megvalósítására, átépítésére és megszüntetésére, valamint üzemeltetésére és a vízhasználatok gyakorlására kiadott vízgazdálkodási, műszaki és biztonsági szabályoknak, a vízháztartás, vízminőség, felszín alatti és felszíni vizek védelmével összefüggő egyéb szabályozásnak;
 - c) megfelel a külön jogszabályban foglalt előírásoknak.
 
-(1a) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó létesítési engedélyben – az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
+(1a) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó létesítési engedélyben – a jogszabályokban előírt feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
 
 (2) Új vízjogi engedély csak abban az esetben adható ki, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
 
@@ -655,23 +689,31 @@ indokolja.
 
 39. § (1) A víziközmű társulat törvényességi felügyeletét a cégbíróság látja el. A cégbíróságnak a víziközmű társulattal kapcsolatos eljárására a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény előírásait kell alkalmazni.
 
-(2) A víziközmű társulat felett törvényességi ellenőrzést gyakorol a társulat székhelye szerinti vízügyi igazgatási szerv.
+(2) A víziközmű társulat szakmai ellenőrzését a társulat székhelye szerinti vízügyi igazgatási szerv gyakorolja.
 
-(3) A vízügyi igazgatási szerv a törvényességi ellenőrzés keretében:
+(3) A vízügyi igazgatási szerv a szakmai ellenőrzés keretében
 
 - a) tagja a szervező bizottságnak és nyomon követi annak munkáját, továbbá részt vesz a taggyűlésen,
-- b) ellenőrzi a víziközmű társulat alapszabályát, belső szabályzatát és határozatait,
-- c) vizsgálja a víziközmű társulat szerveinek működését,
-- d) ellenőrzi, hogy a végzett tevékenység mennyiben jelenti a 38. §-ban foglalt közfeladat ellátását,
-- e) vizsgálja a közfeladat teljesítésének végrehajtását követően az elszámolási eljárás lefolytatását.
+- b) a víziközmű, illetve a belterületi vízrendezést és csapadékvíz elvezetést szolgáló vízilétesítmény létrehozásával, illetve a fejlesztés szükségességével kapcsolatban előzetesen nyilatkozik, hogy a tevékenység mennyiben jelenti a 38. §-ban foglalt közfeladat ellátását, továbbá javaslatot adhat a víziközmű társulat által megvalósítandó közcélú vízilétesítmény tervezéséhez és a kivitelezés ütemezéséhez,
+- c) közvetlenül kezdeményezi a víziközmű társulat működésével kapcsolatban feltárt szakmai hiányosságok megszüntetését,
+- d) figyelemmel kíséri a 38. § szerinti közfeladat teljesítésének végrehajtását, valamint a végrehajtást követően az elszámolási eljárás lefolytatását,
+- e) a víziközmű társulattól a d) ponthoz kapcsolódóan személyes adatot nem tartalmazó adatszolgáltatást kérhet.
 
-(4) Ha a vízügyi igazgatási szerv a jogszabályban, az alapszabályban vagy a belső szabályzatban foglaltak megsértését észleli, felhívja a víziközmű társulatot a jogsértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a vízügyi igazgatási szervet tájékoztatni.
+(4) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során jogszabályban vagy hatósági határozatban foglalt szakmai előírások megsértését, vagy hibás gyakorlat folytatását észleli, felhívja a víziközmű társulatot a jogsértés vagy hibás gyakorlat megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a vízügyi igazgatási szervet tájékoztatni. Ha a víziközmű társulat a megadott határidőn belül a jogsértést vagy hibás gyakorlatot nem szünteti meg, a vízügyi igazgatási szerv a jogszabálysértő állapot megszüntetése érdekében kezdeményezi a vízügyi hatóságnál, illetve a fővárosi, megyei kormányhivatalnál a feladat- és hatáskörébe tartozó hatósági eljárás megindítását.
 
-(5) Ha a megadott határidőn belül a jogsértést a víziközmű társulat nem szüntette meg, a vízügyi igazgatási szerv tizenöt napon belül kérelmezi a cégbíróságnál a törvényességi felügyeleti eljárás lefolytatását.
+(5) A víziközmű társulat működésével kapcsolatos panaszok és közérdekű bejelentések esetében a feladat- és hatáskörét érintően az illetékes vízügyi hatóság jár el a vízügyi igazgatási szerv bevonásával.
+
+(6) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben, az alapszabályban vagy a belső szabályzatban foglalt – a (4) bekezdés hatálya alá nem tartozó – előírás megsértését észleli, tizenöt napon belül kezdeményezi a cégbíróságnál a törvényességi felügyeleti eljárás lefolytatását.
+
+39/A. § (1) Ha a víziközmű társulat a 38. § szerinti közfeladat teljesítése során létesülő vagy fejlesztésre kerülő vízilétesítményt a meglévő víziközmű-szolgáltatáshoz történő csatlakozással kívánja üzemeltetni, vagy egyébként a létesülő vízilétesítmény a víziközmű-szolgáltatásról szóló törvény hatálya alá tartozik, a létesítéssel vagy fejlesztéssel érintett víziközmű-szolgáltatási ágazatban az ellátási területen szolgáltatást végzőt (a továbbiakban: szolgáltató) az alakuló taggyűlésre és a taggyűlésekre meg kell hívni.
+
+(2) A szolgáltató a víziközmű társulat által megvalósítandó közcélú vízilétesítmény tervére és a kivitelezés ütemezésére vonatkozóan véleményt nyilváníthat és javaslatot tehet, továbbá a víziközmű társulat képviselőjéhez kérdést intézhet.
+
+(3) A szolgáltatót az (1) bekezdés szerinti vízilétesítmény vízjogi létesítési, illetve vízjogi üzemeltetési engedélyezési eljárása során ügyféli jogállás illeti meg.
 
 ### A víziközmű társulat megalakulása
 
-40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező szervezetek (a továbbiakban: tagok) az alakuló taggyűlésen
+40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes és jogi személyek (a továbbiakban: tagok) az alakuló taggyűlésen
 
 - a) elhatározzák megalakulását,
 - b) elfogadják alapszabályát,
@@ -679,7 +721,7 @@ indokolja.
 
 (2) A víziközmű társulat a cégjegyzékbe való bejegyzéssel, a bejegyzés napjával jön létre.
 
-(3) Az (1) bekezdés a) és b) pontja vonatkozásában a tagok kétharmadának, az (1) bekezdés c) pontja tekintetében a tagok több mint felének szavazata szükséges.
+(3) Az (1) bekezdés a) és b) pontja vonatkozásában a tagok kétharmadának, az (1) bekezdés c) pontja tekintetében a tagok több mint felének szavazata szükséges. Amennyiben az érdekeltségi terület több települést foglal magában, településenként szükséges a tagok kétharmadának vagy több mint felének szavazata.
 
 (4) A víziközmű társulat a cégnyilvántartásba való bejegyzését követően kezdheti meg működését.
 
@@ -693,13 +735,16 @@ indokolja.
 - f) a társulati érdekeltségi egységet, a tagok hozzájárulásával kapcsolatos szabályokat;
 - g) a társulat gazdálkodására (üzemi tevékenységére), vezető beosztású dolgozóira, testületi szerveire vonatkozó általános szervezeti és működési szabályokat;
 - h) a víziközmű társulat képviseletének módját;
-- i) a vezető tisztségviselők nevét, lakóhelyét.
+- i) a vezető tisztségviselők nevét, lakóhelyét;
+- j) a szakmai ellenőrzést ellátó vízügyi igazgatási szerv nevét, székhelyét.
 
 ### A víziközmű társulat működése és tevékenysége
 
 42. § (1) A taggyűlés évente legalább egyszer ülést tart.
 
 (2) A taggyűlést az intézőbizottság hívja össze. Ha az intézőbizottság ezt elmulasztja, az összehívásra az ellenőrző bizottság jogosult.
+
+(2a) A taggyűlés összehívását a vízügyi igazgatási szerv is kezdeményezheti.
 
 (3) A tagok legalább 10%-ának kezdeményezésére a taggyűlést össze kell hívni.
 
@@ -772,9 +817,9 @@ indokolja.
 
 44/E. § (1) A közszolgáltatás igénybevételéért az ingatlantulajdonost terhelő díjfizetési kötelezettség határidejének elmulasztása esetén díjhátralék keletkezik, amely az azzal összefüggésben megállapított késedelmi kamattal, valamint a behajtás egyéb költségeivel együtt adók módjára behajtandó köztartozásnak minősül.
 
-(2) A díjhátralék keletkezését követő 30 napon belül a közszolgáltató felhívja az ingatlantulajdonos figyelmét a díjfizetési kötelezettségének elmulasztására és felszólítja annak teljesítésére a jogkövetkezményekről történő tájékoztatás mellett.
+(2) A díjhátralék keletkezését követő 30 napon belül a közszolgáltató vagy a követelés egyéb jogosultja (a továbbiakban: követelés jogosultja) felhívja az ingatlantulajdonos figyelmét a díjfizetési kötelezettségének elmulasztására és felszólítja annak teljesítésére a jogkövetkezményekről történő tájékoztatás mellett.
 
-(3) A felszólítás eredménytelensége esetén a díjhátralék keletkezését követő 90. nap elteltével a közszolgáltató a díjhátralék, a késedelmi kamat és az egyéb költségek adók módjára történő behajtását kezdeményezi.
+(3) A felszólítás eredménytelensége esetén a díjhátralék keletkezését követő 90. nap elteltével a követelés jogosultja a díjhátralék, a késedelmi kamat és az egyéb költségek adók módjára történő behajtását kezdeményezi.
 
 (4) A települési önkormányzat jegyzője – a kezdeményezés kézhezvételétől számított 8 napon belül – a külön jogszabályban meghatározottak szerint intézkedik a díjhátralék, a késedelmi kamat és a felmerült költségek behajtása érdekében. A behajtott díjhátralékot, késedelmi kamatot, valamint a közszolgáltatónak az ezzel kapcsolatban felmerült és behajtott költségeit a települési önkormányzat jegyzője 8 napon belül átutalja a követelés jogosultjának.
 
@@ -891,7 +936,7 @@ rendeletben történő megállapítására.
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 - l) a vízkészletjárulék kiszámításának, a számításnál alkalmazandó szorzószámoknak és a befizetés rendjének;
-- m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
+- m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, a vízügyi igazgatási szervek díjfizetési mentességével érintett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 - n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
 - o)
 - p) a távlati vízbázisok megnevezésének, valamint az egyes távlati vízbázisokkal érintett települések jegyzékének
@@ -912,7 +957,8 @@ rendeletben történő megállapítására.
 - b) a Tanács 98/83/EK irányelve (1998. november 3.) az emberi fogyasztást szolgáló víz minőségéről;
 - c) az Európai Parlament és a Tanács 2000/60/EK irányelve (2000. október 23.) a közösségi cselekvés kereteinek a vízpolitika területén történő meghatározásáról 4. cikkének (1)–(2) bekezdése, 6. cikkének (2) bekezdése és 14. cikkének (1) bekezdése;
 - d) az Európai Parlament és a Tanács 2004/35/EK irányelve (2004. április 21.) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvénnyel, a természet védelméről szóló 1996. évi LIII. törvénnyel, valamint a hulladékról szóló 2012. évi CLXXXV. törvénnyel, valamint azok kapcsolódó végrehajtási rendeleteivel együtt;
-- e) az Európai Parlament és a Tanács 2007/60/EK irányelve (2007. október 23.) az árvízkockázatok értékeléséről és kezeléséről 5. cikkének (1) bekezdése, 6. cikkének (1) bekezdése, 7. cikkének (1) bekezdése.
+- e) az Európai Parlament és a Tanács 2007/60/EK irányelve (2007. október 23.) az árvízkockázatok értékeléséről és kezeléséről 5. cikkének (1) bekezdése, 6. cikkének (1) bekezdése, 7. cikkének (1) bekezdése;
+- f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv.
 
 45/B. § E törvénynek az egyes törvényeknek a vízkárelhárítás hatékonyabbá tételével összefüggő módosításáról szóló 2011. évi XXII. törvénnyel (a továbbiakban: törvénymódosítás) megállapított rendelkezéseit a törvénymódosítás hatálybalépésekor a jogerősen még el nem bírált vízügyi és építésügyi hatósági eljárásokban is alkalmazni kell.
 
@@ -920,12 +966,7 @@ rendeletben történő megállapítására.
 
 (2) A Ht. hatálybalépését megelőzően kiadott és hatályos települési folyékony hulladék begyűjtési és szállítási engedély a nem közművel összegyűjtött háztartási szennyvíz begyűjtési és szállítási tevékenységre vonatkozó bejelentéssel egyenértékű.
 
-45/D. § (1) A helyi önkormányzatnak e rendelkezés hatálybalépésétől számított három hónap áll rendelkezésre, hogy a tulajdonában álló, belvízelvezetést vagy öntözést szolgáló vízfolyást, csatornát felajánlja üzemeltetésre és fenntartásra a működési terület szerinti vízügyi igazgatási szervnek.
-
-(2) A vízügyi igazgatási szerv e rendelkezés hatálybalépésétől számított hat hónapon belül
-
-- a) szakmailag ellenőrzi a helyi önkormányzattól érkező felajánló nyilatkozatot abból a szempontból, hogy az üzemeltetési és fenntartási célú átadásra felajánlott vízfolyás, csatorna belvízelvezetési vagy öntözési célokat szolgál-e, és
-- b) vizsgálja, hogy vízfolyás- vagy csatornaszakasz akadályozza-e a belvizek elvezetését vagy az öntözővíz továbbítását.
+45/D. §
 
 45/E. § (1) Ha a vízügyi igazgatási szerv a 45/D. § (2) bekezdés a) pontja szerinti szakmai ellenőrzés eredményeképpen megállapítja, hogy a felajánlott vízfolyásnak, csatornának a belvízelvezetésben vagy az öntözésben betöltött szerepe közérdekű, a vízfolyás, csatorna tulajdonosával – az üzemeltetési és fenntartási feladatok átvállalásáról – ellenérték nélküli üzemeltetési szerződést köt.
 
@@ -965,7 +1006,7 @@ E törvény alkalmazásában
 - 2. ásványvíz: olyan természetes felszín alatti víztartóból vagy vízadóból származó víz, amelynek ásványi anyag tartalma jellemzően eltér a rendszeres emberi fogyasztásra szolgáló ivóvíztől, és annak összetétele megfelel a vonatkozó jogszabályban meghatározott (így például biológiai, kémiai) határértékeknek;
 - 3. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény;
 - 4. elhabolás: víz (folyó, patak, csatorna, tározó, tó) hullámzó mozgásának hatására a partban keletkezett rongálódás;
-- 5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
+- 5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település vagy településrész árvízmentesítését szolgáló töltés;
 - 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 - 7. érdekeltségi terület: víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
 - 8. gyógyvíz: olyan ásványvíz, amelynek bizonyítottan gyógyhatása van és gyógyászati felhasználásának engedélyezése külön jogszabályok szerint történik;
@@ -992,7 +1033,7 @@ E törvény alkalmazásában
 - 25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
 - 26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
   - a) közcélú vízilétesítmény: az a vízilétesítmény, amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja; közcélú vízilétesítménynek minősülnek továbbá az országos közút és a törzshálózati vasút kiépítését, fejlesztését és fenntartását szolgáló vízilétesítmények;
-  - b) saját célú vízilétesítmények: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást (így például szennyvízelhelyezést, átvezetést, tisztítást, öntözést) vízkárelhárítási, víztisztítási, vízerő hasznosítási feladatokat ellátó művek;
+  - b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
 - 27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek közhitelű nyilvántartása;
 - 28. vízkár: a vizek többletéből vagy hiányából származó kár;
 - 29. vízkészlet-gazdálkodás: azoknak a tevékenységeknek az összessége, amelyeknek célja a vizek használatára irányuló igények kielégítése oly módon, hogy ennek következtében a vizek állapotában visszafordíthatatlan változás ne következzék be és a vízkészlethez való hozzáférés lehetősége ne csökkenjen;
@@ -1012,7 +1053,8 @@ E törvény alkalmazásában
 - 39. mederhasználati jog: a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetőjét a vízilétesítmény által igénybe vett terület mértékéig megillető használati jog;
 - 40. mederhasználati vízilétesítmény: a nemzeti vagyonba tartozó vizek medrében elhelyezett kikötői lekötőmű, móló – az úszó móló kivételével –, sólyapálya, partvédő művek, hullámtörő, energiatörő.
 - 41. mezőgazdasági vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység.
-- 42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+- 42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+- 43. árvízi lefolyási sáv: a nagyvízi meder azon része, amely az árvíz és a jég elvezetésében részt vesz, mely lehet elsődleges, másodlagos és átmeneti lefolyási sáv.
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 

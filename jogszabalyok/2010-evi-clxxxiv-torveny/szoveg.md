@@ -1513,25 +1513,25 @@ A törvényszékek, a járásbíróságok, valamint a közigazgatási és munka�
 
 | Alsóörs | Aszófő | Balatonakali |
 | --- | --- | --- |
-| Balatonalmádi | Balatoncsicsó | Balatonfőkajár |
-| Balatonfüred | Balatonfűzfő | Balatonkenese |
-| Balatonszepezd | Balatonszőlős | Balatonudvari |
-| Barnag | Bánd | Berhida |
-| Csajág | Csopak | Dörgicse |
-| Eplény | Felsőörs | Hajmáskér |
-| Hárskút | Herend | Hidegkút |
-| Jásd | Királyszentistván | Küngös |
-| Litér | Lovas | Márkó |
-| Mencshely | Monoszló | Nagyvázsony |
-| Nemesvámos | Óbudavár | Örvényes |
-| Ősi | Öskü | Paloznak |
-| Papkeszi | Pécsely | Pétfürdő |
-| Pula | Sóly | Szentantalfa |
-| Szentgál | Szentjakabfa | Szentkirályszabadja |
-| Tagyon | Tés | Tihany |
-| Tótvázsony | Várpalota | Vászoly |
-| Veszprém | Veszprémfajsz | Vilonya |
-| Vöröstó | Zánka |  |
+| Balatonakarattya | Balatonalmádi | Balatoncsicsó |
+| Balatonfőkajár | Balatonfüred | Balatonfűzfő |
+| Balatonkenese | Balatonszepezd | Balatonszőlős |
+| Balatonudvari | Barnag | Bánd |
+| Berhida | Csajág | Csopak |
+| Dörgicse | Eplény | Felsőörs |
+| Hajmáskér | Hárskút | Herend |
+| Hidegkút | Jásd | Királyszentistván |
+| Küngös | Litér | Lovas |
+| Márkó | Mencshely | Monoszló |
+| Nagyvázsony | Nemesvámos | Óbudavár |
+| Örvényes | Ősi | Öskü |
+| Paloznak | Papkeszi | Pécsely |
+| Pétfürdő | Pula | Sóly |
+| Szentantalfa | Szentgál | Szentjakabfa |
+| Szentkirályszabadja | Tagyon | Tés |
+| Tihany | Tótvázsony | Várpalota |
+| Vászoly | Veszprém | Veszprémfajsz |
+| Vilonya | Vöröstó | Zánka |
 
 19/2. Ajkai Járásbíróság
 

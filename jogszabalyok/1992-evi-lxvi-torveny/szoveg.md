@@ -42,7 +42,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 4. § (1) A törvény hatálya alá tartoznak:
 
-- a) Magyarország területén élő magyar állampolgárok, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
+- a) Magyarország területén élő magyar állampolgárok, a bevándorolt és – azon nem Magyarországon élő külföldi és a vele együtt kérelmező házastársa és kiskorú gyermeke kivételével, aki számára az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 35. § (1) bekezdés c), e)–g) pontja alapján adott ki nemzeti letelepedési engedélyt – a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat Magyarország területén gyakorolják,
 - c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) és (3a) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
 - d) – e törvényben meghatározott esetekben – a külföldön élő magyar állampolgárok.
@@ -834,6 +834,8 @@ e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszám
 50. § (1) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
 
 (2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.
+
+51. § E törvénynek az e-kártya megvalósításához szükséges egyes törvények, valamint az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosításáról szóló 2015. évi CXXX. törvénnyel (a továbbiakban: Módtv1.) megállapított 4. § (1) bekezdés a) pontját a folyamatban lévő eljárások során is alkalmazni kell.
 
 ### Melléklet az 1992. évi LXVI. törvény 13. §-ához
 

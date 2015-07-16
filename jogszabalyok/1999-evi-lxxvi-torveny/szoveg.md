@@ -129,6 +129,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 15. § A szerző meghatározott személyhez fűződő jogainak védelmében a felhasználó is felléphet, ha ahhoz a szerző a felhasználási szerződésben kifejezetten hozzájárult.
 
+15/A. § A szerzői jogi védelem alatt álló mű közérdekű adatként vagy közérdekből nyilvános adatként való megismerésére irányuló igényt a szerző személyhez fűződő jogainak védelme érdekében az adatot kezelő közfeladatot ellátó szerv az adatigénylő által kívánt forma és mód helyett – az adatigénylés teljesítésére rendelkezésre álló határidőben – a mű közérdekű adatot vagy közérdekből nyilvános adatot tartalmazó részei megtekintésének lehetővé tételével is teljesítheti.
+
 ### III. Fejezet — VAGYONI JOGOK
 
 ### A vagyoni jogokra vonatkozó általános szabályok
