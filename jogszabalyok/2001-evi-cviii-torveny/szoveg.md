@@ -336,6 +336,12 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (2) Az állam ösztönzi továbbá, hogy az információs társadalommal kapcsolatos tevékenységet ellátó szervezetek az informatikáért felelős miniszterrel – amennyiben a szolgáltatás az Európai Gazdasági Térségről szóló megállapodás bármely részes államába is irányul, az Európai Bizottsággal is – együttműködve az érdekeltek számára tájékoztatást adhassanak a magatartási kódexeikről, azok alkalmazásának tapasztalatairól, az elektronikus kereskedelemre gyakorolt hatásairól.
 
+### Együttműködés a kormányzati eseménykezelő központtal
+
+15/B. § (1) A szolgáltató az elektronikus információs rendszereket érintő biztonsági események megelőzésével, kezelésével összefüggő tevékenység vonatkozásában köteles együttműködni az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti kormányzati eseménykezelő központtal.
+
+(2) A közvetítő szolgáltató a konkrét biztonsági esemény kezelése, kivizsgálása céljából a kormányzati eseménykezelő központ egyedi kérelme alapján köteles az általa kezelt és rendelkezésére álló adatokat a kormányzati eseménykezelő központ részére átadni.
+
 ### Vegyes és záró rendelkezések
 
 16. § (1) E törvény – a (3) bekezdésben foglalt kivétellel – a kihirdetését követő 30. napon lép hatályba.

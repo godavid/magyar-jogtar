@@ -52,7 +52,21 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - f) tűzvizsgálat: a tűz keletkezési idejének, helyének és okának felderítésére irányuló hatósági tevékenység, amelynek célja olyan tűzmegelőzési, tűzoltási beavatkozási tapasztalatok megszerzése, következtetések levonása, amelyek alkalmasak a tűzmegelőzési ismeretek bővítésére és a mentési beavatkozási feltételek javítására;
 - g) műszaki mentés: természeti csapás, baleset, káreset, rendellenes technológiai folyamat, műszaki meghibásodás, veszélyes anyag szabadba jutása vagy egyéb cselekmény által előidézett veszélyhelyzet során az emberélet, a testi épség és az anyagi javak védelme érdekében a tűzoltóság részéről – a rendelkezésére álló, illetőleg az általa igénybe vett eszközökkel – végzett elsődleges beavatkozói tevékenység;
 - h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás megkönnyítésére, a tűzkár csökkentésére vagy a tűz terjedésének megakadályozására alkalmazott berendezés, eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz, amely nem tartozik az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 305/2011/EU rendelet) hatálya alá;
-- i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezeti egység, illetve ezekből álló technológiai rendszer, amelyben vagy amellyel robbanásveszélyes – a robbanó- és a robbantóanyagok kivételével – anyagok előállítása, feldolgozása, használata, tárolása, kimérése történik;
+- i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezet, amelyet az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK európai parlamenti és tanácsi rendelet)
+  - ia) tűzveszélyes gázok,
+  - ib) tűzveszélyes aeroszolok,
+  - ic) tűzveszélyes folyadékok,
+  - id) tűzveszélyes szilárd anyagok,
+  - ie) A, B, C vagy D típusú önreaktív anyagok és keverékek,
+  - if) piroforos folyadékok,
+  - ig) piroforos szilárd anyagok,
+  - ih) 1. vagy 2. kategóriába tartozó, vízzel érintkezve tűzveszélyes gázokat kibocsátó anyagok és keverékek,
+  - ii) 1. kategóriába tartozó oxidáló folyadékok,
+  - ij) 1. kategóriába tartozó oxidáló szilárd anyagok vagy
+  - ik) A, B, C vagy D típusú szerves peroxidok
+
+veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy keverék előállítására, feldolgozására, használatára, tárolására vagy kimérésére terveztek és gyártottak;
+
 - j) építési termék: minden olyan termék vagy készlet, amelyet azért állítottak elő és hoztak forgalomba, hogy építményekbe vagy építmények részeibe állandó jelleggel beépítsék és amelynek teljesítménye befolyásolja az építménynek az építményekkel kapcsolatos alapvető követelmények tekintetében nyújtott teljesítményét;
 - k) szabvány: egy elismert szabványügyi testület által ismételt vagy folyamatos alkalmazás céljára elfogadott műszaki előírás, amelynek betartása nem kötelező és amely a következő kategóriák valamelyikébe tartozik: nemzetközi szabvány, európai szabvány, harmonizált szabvány, nemzeti szabvány;
 - l) tűzvédelmi, biztonságossági követelmény: az építési termék, tűzoltó-technikai termék, tűz- vagy robbanásveszélyes készülék, gép, berendezés tűzvédelmi, biztonságossági tulajdonságát, jellemzőjét megállapító műszaki előírás;
@@ -66,7 +80,9 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - t) műszaki előírás: műszaki tartalmú alapdokumentum, mely lehet európai uniós jogi aktus, jogszabály, harmonizált, európai vagy nemzeti szabvány, európai műszaki értékelés, nemzeti műszaki értékelés, hatályos építőipari műszaki engedély vagy műszaki irányelv;
 - u) építményszerkezet (épület- vagy műtárgyszerkezet): az építmény építési termékekből meghatározott céllal összeépített olyan eleme, amellyel szemben tűzvédelmi követelmény létezik;
 - v) közreműködő önkéntes tűzoltó egyesület: a vállalt tevékenységi területen tűzoltási, műszaki mentési feladatokban közreműködő egyesület;
-- w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület.
+- w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület;
+- x) tűz- vagy robbanásveszélyes technológia: a tűz- vagy robbanásveszélyes készülék, gép, berendezés fogalmába nem tartozó, olyan anyag- vagy energiaátalakításra szolgáló szerkezetekből álló rendszer, amelyben az ia)-ik) alpontban meghatározott anyag vagy keverék előállítása, feldolgozása, használata, tárolása vagy kimérése történik;
+- y) megfelelőségi nyilatkozat: a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló 2008. július 9-i 2008/768/EK európai parlamenti és tanácsi határozat III. mellékletének tartalmán alapuló, a tűzoltó-technikai termékre, a tűz- vagy robbanásveszélyes készülékre, gépre, berendezésre vonatkozó tűzvédelmi, biztonságossági követelményeknek való megfelelőség igazolására alkalmas irat.
 
 ### A tűzjelzés
 
@@ -719,7 +735,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 48. § (1) Ez a törvény a kihirdetését követő 90. napon lép hatályba. A törvény 44. §-ának rendelkezését 1997. január 1-jétől kell alkalmazni.
 
-(2) A 2013. július 1. előtt a tűzoltó-technikai termékként kezelt építési termékekre kiadott tűzvédelmi megfelelőségi tanúsítványok és forgalmazási engedélyek érvényességi idejükig, de legkésőbb 2015. július 1-ig érvényesek.
+(2) A 2013. július 1. előtt a tűzoltó-technikai termékként kezelt építési termékekre kiadott, 2013. július 1-jéig hatályukat nem vesztett tűzvédelmi megfelelőségi tanúsítványok és forgalmazási engedélyek – az azokban meghatározott érvényességi időtől függetlenül – 2016. július l-jéig hatályosak.
 
 (3)
 
@@ -730,3 +746,5 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 49. § A tűzvédelmi szabályzatokat az erről szóló miniszteri rendelet hatálybalépését követő hat hónapon belül kell kiadni.
 
 50. § Ez a törvény az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+51. § E törvény 4. § i) pontja az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

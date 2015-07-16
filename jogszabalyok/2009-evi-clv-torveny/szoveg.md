@@ -8,7 +8,7 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 
 ### A törvény célja
 
-1. § E törvény célja, hogy az alapvető jogok tiszteletben tartása, Magyarország érdekeinek védelme és az állam nemzetközi kötelezettségvállalásainak teljesítése érdekében az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel összhangban meghatározza a minősített adat létrejöttével és kezelésével kapcsolatos alapvető rendelkezéseket, a minősítési eljárás és a nemzeti minősített adat felülvizsgálatának rendjét, a minősített adat védelmének általános szabályait, a nemzeti iparbiztonság rendszerének főbb elemeit, és rendelkezzen a minősített adat védelmét ellátó szervekről és személyekről.
+1. § E törvény célja, hogy az alapvető jogok tiszteletben tartása, Magyarország érdekeinek védelme és az állam nemzetközi kötelezettségvállalásainak teljesítése érdekében az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel összhangban meghatározza a minősített adat létrejöttével és kezelésével kapcsolatos alapvető rendelkezéseket, a minősítési eljárás és a nemzeti minősített adat felülvizsgálatának rendjét, a minősített adat védelmének általános szabályait, a telephelyi iparbiztonság rendszerének főbb elemeit, és rendelkezzen a minősített adat védelmét ellátó szervekről és személyekről.
 
 ### Alapelvek
 
@@ -41,7 +41,7 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 - 11. személyi biztonsági tanúsítvány: az a tanúsítvány, amely érvényességi idejének lejártáig meghatározza, hogy valamely természetes személy milyen legmagasabb minősítési szintű adat felhasználására kaphat felhasználói engedélyt;
 - 12. elektronikus adatkezelő rendszer: minősített adat elektronikus, elektromagnetikus vagy optikai úton történő kezelésére alkalmas berendezés, módszer és eljárás együttese;
 - 13. rendvédelmi szerv: a rendőrség, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet;
-- 14. gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltak;
+- 14. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - 15. telephely biztonsági tanúsítvány: az a tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas;
 - 16. ügyészség vezetője: a fellebbviteli főügyész, a főügyész, a fellebbviteli vezető ügyész, a vezető ügyész.
 
@@ -347,14 +347,14 @@ vonatkozó feltételek.
 
 ### A Nemzeti Biztonsági Felügyelet
 
-20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által vezetett minisztérium szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet.
+20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a telephelyi iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló, kormányrendeletben kijelölt szervezet keretében működő, önálló feladattal és hatósági jogkörrel rendelkező szervezet.
 
 (2) A Nemzeti Biztonsági Felügyelet
 
 - a) a minősített adatot kezelő szervnél engedélyezi a minősített adatok kezelését, jogosult a kiadott engedély módosítására vagy visszavonására,
 - b) engedélyezi a minősített adatok kezelésére szolgáló elektronikus rendszerek használatba vételét, jogosult a kiadott engedély módosítására vagy visszavonására,
 - c) nyilvántartja az a) és b) pontban meghatározott engedéllyel rendelkező minősített adatot kezelő szerveket nevük és székhelyük feltüntetésével,
-- d) a minősített adatot kezelő rendszerek elemeire vonatkozóan követelményeket határoz meg, és megfelelőségükről – vizsgálatok, megfelelőségi igazolások alapján – tanúsítványt, illetve ajánlást ad ki,
+- d)
 - e) ellátja a rejtjeltevékenység hatósági engedélyezését és felügyeletét,
 - f) egyetértési jogot gyakorol a minősített adatot kezelő szervek biztonsági vezetőinek kinevezésével kapcsolatban,
 - g) ellenőrzi a minősítők minősítési gyakorlatát, ennek eredményeként egyedi vagy általános ajánlást bocsáthat ki az egységes minősítési gyakorlat kialakítása érdekében, illetve kezdeményezheti a minősítés felülvizsgálatát,
@@ -371,7 +371,7 @@ vonatkozó feltételek.
 - r) együttműködik a Nemzeti Adatvédelmi és Információszabadság Hatósággal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében,
 - s) végzi az elektronikus adatkezelő rendszerek vagy azok elemeinek elektromágneses kompromittáló kisugárzásának méréseit és ezek alapján meghatározza azok zónabesorolását,
 - t) végzi a helyiségek elektromágneses kompromittáló kisugárzásának védelmével összefüggő méréseket, ezek alapján meghatározza azok zónabesorolását,
-- u) elvégzi az elektronikus információbiztonságról szóló jogszabályokban számára meghatározott feladatokat.
+- u)
 
 (3) A Nemzeti Biztonsági Felügyelet eljárásáért, ha azt a minősített adatok védelmének szakmai felügyeletéért felelős miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben megállapítja, igazgatási szolgáltatási díjat kell fizetni.
 
@@ -743,6 +743,8 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 - e) az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályait.
 
 37/A. § Felhatalmazást kap a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Nemzeti Biztonsági Felügyelet azon eljárásait, amelyekért igazgatási szolgáltatási díjat kell fizetni, a fizetendő igazgatási szolgáltatási díj mértékét, az igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével, felhasználásával kapcsolatos szabályokat.
+
+37/B. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a Nemzeti Biztonsági Felügyelet működésének szervezeti keretét.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
