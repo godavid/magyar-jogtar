@@ -34,20 +34,20 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - 4. bűnügyi személyes adat: a büntetőeljárás során vagy azt megelőzően a bűncselekménnyel vagy a büntetőeljárással összefüggésben, a büntetőeljárás lefolytatására, illetve a bűncselekmények felderítésére jogosult szerveknél, továbbá a büntetés-végrehajtás szervezeténél keletkezett, az érintettel kapcsolatba hozható, valamint a büntetett előéletre vonatkozó személyes adat;
 - 5. közérdekű adat: az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv vagy személy kezelésében lévő és tevékenységére vonatkozó vagy közfeladatának ellátásával összefüggésben keletkezett, a személyes adat fogalma alá nem eső, bármilyen módon vagy formában rögzített információ vagy ismeret, függetlenül kezelésének módjától, önálló vagy gyűjteményes jellegétől, így különösen a hatáskörre, illetékességre, szervezeti felépítésre, szakmai tevékenységre, annak eredményességére is kiterjedő értékelésére, a birtokolt adatfajtákra és a működést szabályozó jogszabályokra, valamint a gazdálkodásra, a megkötött szerződésekre vonatkozó adat;
 - 6. közérdekből nyilvános adat: a közérdekű adat fogalma alá nem tartozó minden olyan adat, amelynek nyilvánosságra hozatalát, megismerhetőségét vagy hozzáférhetővé tételét törvény közérdekből elrendeli;
-- 7. hozzájárulás: az érintett akaratának önkéntes és határozott kinyilvánítása, amely megfelelő tájékoztatáson alapul, és amellyel félreérthetetlen beleegyezését adja a rá vonatkozó személyes adatok – teljes körű vagy egyes műveletekre kiterjedő – kezeléséhez;
-- 8. tiltakozás: az érintett nyilatkozata, amellyel személyes adatainak kezelését kifogásolja, és az adatkezelés megszüntetését, illetve a kezelt adatok törlését kéri;
-- 9. adatkezelő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely önállóan vagy másokkal együtt az adatok kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
-- 10. adatkezelés: az alkalmazott eljárástól függetlenül az adatokon végzett bármely művelet vagy a műveletek összessége, így különösen gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adatok további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők (pl. ujj- vagy tenyérnyomat, DNS-minta, íriszkép) rögzítése;
+- 7. hozzájárulás: az érintett akaratának önkéntes és határozott kinyilvánítása, amely megfelelő tájékoztatáson alapul, és amellyel félreérthetetlen beleegyezését adja a rá vonatkozó személyes adat – teljes körű vagy egyes műveletekre kiterjedő – kezeléséhez;
+- 8. tiltakozás: az érintett nyilatkozata, amellyel személyes adatának kezelését kifogásolja, és az adatkezelés megszüntetését, illetve a kezelt adat törlését kéri;
+- 9. adatkezelő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely önállóan vagy másokkal együtt az adat kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
+- 10. adatkezelés: az alkalmazott eljárástól függetlenül az adaton végzett bármely művelet vagy a műveletek összessége, így különösen gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adat további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők (pl. ujj- vagy tenyérnyomat, DNS-minta, íriszkép) rögzítése;
 - 11. adattovábbítás: az adat meghatározott harmadik személy számára történő hozzáférhetővé tétele;
 - 12. nyilvánosságra hozatal: az adat bárki számára történő hozzáférhetővé tétele;
-- 13. adattörlés: az adatok felismerhetetlenné tétele oly módon, hogy a helyreállításuk többé nem lehetséges;
+- 13. adattörlés: az adat felismerhetetlenné tétele oly módon, hogy a helyreállítása többé nem lehetséges;
 - 14. adatmegjelölés: az adat azonosító jelzéssel ellátása annak megkülönböztetése céljából;
 - 15. adatzárolás: az adat azonosító jelzéssel ellátása további kezelésének végleges vagy meghatározott időre történő korlátozása céljából;
-- 16. adatmegsemmisítés: az adatokat tartalmazó adathordozó teljes fizikai megsemmisítése;
-- 17. adatfeldolgozás: az adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, függetlenül a műveletek végrehajtásához alkalmazott módszertől és eszköztől, valamint az alkalmazás helyétől, feltéve hogy a technikai feladatot az adatokon végzik;
+- 16. adatmegsemmisítés: az adatot tartalmazó adathordozó teljes fizikai megsemmisítése;
+- 17. adatfeldolgozás: az adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, függetlenül a műveletek végrehajtásához alkalmazott módszertől és eszköztől, valamint az alkalmazás helyétől, feltéve hogy a technikai feladatot az adaton végzik;
 - 18. adatfeldolgozó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely szerződés alapján – beleértve a jogszabály rendelkezése alapján kötött szerződést is – adatok feldolgozását végzi;
 - 19. adatfelelős: az a közfeladatot ellátó szerv, amely az elektronikus úton kötelezően közzéteendő közérdekű adatot előállította, illetve amelynek a működése során ez az adat keletkezett;
-- 20. adatközlő: az a közfeladatot ellátó szerv, amely – ha az adatfelelős nem maga teszi közzé az adatot – az adatfelelős által hozzá eljuttatott adatait honlapon közzéteszi;
+- 20. adatközlő: az a közfeladatot ellátó szerv, amely – ha az adatfelelős nem maga teszi közzé az adatot – az adatfelelős által hozzá eljuttatott adatot honlapon közzéteszi;
 - 21. adatállomány: az egy nyilvántartásban kezelt adatok összessége;
 - 22. harmadik személy: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely nem azonos az érintettel, az adatkezelővel vagy az adatfeldolgozóval;
 - 23. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
@@ -334,11 +334,11 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (2) A konferenciát a Hatóság elnöke szükség szerint, de évente legalább egyszer hívja össze, és meghatározza napirendjét.
 
-(3) A konferencia tagja minden olyan szervezet belső adatvédelmi felelőse, amelynél a felelős kinevezése törvény alapján kötelező.
+(3) A konferencia tagja minden olyan adatkezelő vagy adatfeldolgozó belső adatvédelmi felelőse, amelynél a felelős kinevezése törvény alapján kötelező.
 
-(4) A konferencia tagjai lehetnek azon szervezetek belső adatvédelmi felelősei, amelyek esetében a kinevezés nem kötelező. E célból a Hatóság által vezetett belső adatvédelmi felelősi nyilvántartásba bejelentkezhetnek.
+(4) A konferencia tagjai lehetnek azon adatkezelők és adatfeldolgozók belső adatvédelmi felelősei, amelyek esetében a kinevezés nem kötelező. E célból a Hatóság által vezetett belső adatvédelmi felelősi nyilvántartásba bejelentkezhetnek.
 
-(5) A Hatóság a kapcsolattartás céljából belső adatvédelmi felelősi nyilvántartást vezet a konferencia tagjairól. A nyilvántartás tartalmazza a belső adatvédelmi felelős nevét, postai és elektronikus levélcímét, továbbá a képviselt szervezet megnevezését.
+(5) A Hatóság a kapcsolattartás céljából belső adatvédelmi felelősi nyilvántartást vezet a konferencia tagjairól. A nyilvántartás tartalmazza a belső adatvédelmi felelős nevét, postai és elektronikus levélcímét, továbbá a képviselt adatkezelő vagy adatfeldolgozó megnevezését.
 
 (6) A nyilvántartásban a Hatóság az (5) bekezdés szerinti adatokat a belső adatvédelmi felelős e megbízatásának megszűnéséről való tudomásszerzéséig tartja nyilván.
 
@@ -389,9 +389,11 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (3) Ha az adatigénylés nem egyértelmű, az adatkezelő felhívja az igénylőt az igény pontosítására.
 
-29. § (1) A közérdekű adat megismerésére irányuló igénynek az adatot kezelő közfeladatot ellátó szerv az igény tudomására jutását követő legrövidebb idő alatt, legfeljebb azonban 15 napon belül tesz eleget.
+29. § (1) A közérdekű adat megismerésére irányuló igénynek az adatot kezelő közfeladatot ellátó szerv az igény beérkezését követő legrövidebb idő alatt, legfeljebb azonban 15 napon belül tesz eleget.
 
 (2) Ha az adatigénylés jelentős terjedelmű, illetve nagyszámú adatra vonatkozik, az (1) bekezdésben meghatározott határidő egy alkalommal 15 nappal meghosszabbítható. Erről az igénylőt az igény kézhezvételét követő 8 napon belül tájékoztatni kell.
+
+(2a) Ha az igénylés olyan adatra vonatkozik, amelyet az Európai Unió valamely intézménye vagy tagállama állított elő, az adatkezelő haladéktalanul megkeresi az Európai Unió érintett intézményét vagy tagállamát és erről az igénylőt tájékoztatja. A tájékoztatás megtételétől az Európai Unió érintett intézménye vagy tagállama válaszának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
 
 (3) Az adatokat tartalmazó dokumentumról vagy dokumentumrészről, annak tárolási módjától függetlenül az igénylő másolatot kaphat. Az adatot kezelő közfeladatot ellátó szerv a másolat készítéséért – az azzal kapcsolatban felmerült költség mértékéig terjedően – költségtérítést állapíthat meg, amelynek összegéről az igénylőt az igény teljesítését megelőzően tájékoztatni kell.
 
@@ -425,7 +427,9 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (6) A bíróság soron kívül jár el.
 
-(7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt a kért közérdekű adat közlésére kötelezi. A bíróság a másolat készítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
+(6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a per tárgyalását felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
+
+(7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság a másolat készítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
 
 ### IV. Fejezet — A KÖZÉRDEKŰ ADATOK KÖZZÉTÉTELE
 
@@ -722,6 +726,12 @@ dönt.
   - ac) a vizsgálatot lezárja, és a 62. § szerinti titokfelügyeleti hatósági eljárást indít;
 - b) ha a bejelentésben foglaltakat nem tartja megalapozottnak, a vizsgálatot lezárja.
 
+(1a) Az (1) bekezdésben meghatározott határidőbe nem számít bele:
+
+- a) a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő,
+- b) a vizsgálattal összefüggő irat fordításához szükséges idő, valamint
+- c) a Hatóság működését legalább egy teljes napra akadályozó körülmény, ellehetetlenítő üzemzavar vagy más elháríthatatlan esemény időtartama.
+
 (2) A vizsgálat eredményéről, a vizsgálat lezárásának indokáról, esetleges intézkedéséről, illetve hatósági eljárás megindításáról a Hatóság a bejelentőt értesíti.
 
 56. § (1) Ha a Hatóság a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatos jogsérelem vagy annak közvetlen veszélye fennállását megalapozottnak tartja, az adatkezelőt a jogsérelem orvoslására, illetve annak közvetlen veszélye megszüntetésére szólítja fel.
@@ -759,7 +769,7 @@ dönt.
 
 #### 32. Adatvédelmi hatósági eljárás
 
-60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat.
+60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat, a (4) bekezdésben meghatározott esetben adatvédelmi hatósági eljárást indít.
 
 (2) Az adatvédelmi hatósági eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -792,25 +802,42 @@ dönt.
 
 #### 33. Titokfelügyeleti hatósági eljárás
 
-62. § (1) Ha a bejelentésen alapuló vizsgálat alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat. A Hatóság titokfelügyeleti hatósági eljárása a Nemzeti Biztonsági Felügyelet a minősített adat védelméről szóló törvényben meghatározott feladatait nem érinti.
+62. § (1) Ha a Hatóság vizsgálata alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat.
+
+(1a) Ha a bíróság a 31. § (6a) bekezdésében meghatározottak szerint a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, a Hatóság titokfelügyeleti hatósági eljárást indít.
+
+(1b) A Hatóság titokfelügyeleti hatósági eljárása a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait nem érinti.
 
 (2) A titokfelügyeleti hatósági eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(3) A titokfelügyeleti hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg. Ha azonban a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt a titokfelügyeleti hatósági eljárás megindításáról, illetve befejezéséről értesíteni kell.
+(2a) A titokfelügyeleti hatósági eljárásban és az ezen eljárásban hozott döntés felülvizsgálatára irányuló bírósági eljárásban a minősített adatok kezelését a minősített adatok védelméről szóló törvényben és e törvényben meghatározott biztonsági követelményeknek megfelelően kell végezni.
 
-63. § (1) A titokfelügyeleti hatósági eljárásban hozott határozatában a Hatóság a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsértésének megállapítása esetén a minősítőt a nemzeti minősített adat minősítési szintjének, illetve érvényességi idejének a jogszabályoknak megfelelő megváltoztatására, vagy a minősítés megszüntetésére hívja fel.
+(3) A titokfelügyeleti hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, vagy a titokfelügyeleti hatósági eljárást a bíróság a 31. § (6a) bekezdésében meghatározottak alapján kezdeményezte. Ha azonban a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt a titokfelügyeleti hatósági eljárás megindításáról és befejezéséről értesíteni kell.
 
-(2) Ha a minősítő a Hatóság (1) bekezdés szerinti határozatát megalapozatlannak tartja, annak bírósági felülvizsgálatát a határozat közlésétől számított hatvan napon belül kérheti. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya van. Ha a minősítő a határozat közlésétől számított hatvan napon belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
+(4) A titokfelügyeleti hatósági eljárásban ügyfél a minősítő.
+
+(5) A titokfelügyeleti hatósági eljárásban a tényállás tisztázása során a tanú, a szakértő és a szemletárgy birtokosa meghallgatható akkor is, ha nem kapott felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól.
+
+(6) A titokfelügyeleti hatósági eljárásban az ügyintézési határidő két hónap, amely egy alkalommal, legfeljebb harminc nappal hosszabbítható meg.
+
+63. § (1) A titokfelügyeleti hatósági eljárásban hozott határozatában a Hatóság
+
+- a) a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsértésének megállapítása esetén a minősítőt a nemzeti minősített adat minősítési szintjének, illetve érvényességi idejének a jogszabályoknak megfelelő megváltoztatására vagy a minősítés megszüntetésére hívja fel, vagy
+- b) megállapítja, hogy a minősítő a nemzeti minősített adat minősítésére vonatkozó jogszabályoknak megfelelően járt el.
+
+(2) Ha a minősítő a Hatóság (1) bekezdés a) pontja szerinti határozatát megalapozatlannak tartja, annak bírósági felülvizsgálatát a határozat közlésétől számított hatvan napon belül kérheti. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya van. Ha a minősítő a határozat közlésétől számított hatvan napon belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
+
+(2a) A (2) bekezdésben meghatározott perben a bíróság három hivatásos bíróból álló tanácsban jár el.
 
 (3) A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el.
 
-(4) A bíróság a Hatóság határozatát helybenhagyja, megváltoztatja, vagy hatályon kívül helyezi, és szükség esetén a Hatóságot új eljárásra kötelezi.
+(4)
 
 (5) A bíróság, illetve a Hatóság határozata nem érinti a minősítőnek a nemzeti minősített adat felülvizsgálatára vonatkozó, a minősített adat védelméről szóló törvény szerinti kötelezettségét.
 
 (6) A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
-(7) A per során a bírón, a felperesen és az alperesen kívüli személyek a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
+(7) A (2) bekezdésben meghatározott per során a bírón, a felperesen és az alperesen kívüli személyek a minősített adatot csak akkor ismerhetik meg, ha az adat minősítési szintjének megfelelő személyi biztonsági tanúsítvánnyal rendelkeznek
 
 #### 34. A Hatóság által indítható per
 
@@ -907,7 +934,25 @@ dönt.
 
 (2) A Hatóság a vizsgálata során beszerzett adatokat hatósági eljárásában felhasználhatja.
 
-(3) A Hatóság az alapvető jogok biztosáról szóló 2011. évi CXII. törvény 23. § (2) bekezdésében meghatározott adatokat az alapvető jogok biztosáról szóló 2011. évi CXII. törvény 23. § (7) bekezdésében meghatározottak szerint ismerheti meg.
+(3) A Hatóság az e törvényben meghatározott eljárásai során az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbtv.) 23. § (1) bekezdés a)–f) és i) pontjában, (2) bekezdésében, (3) bekezdés c)–f) pontjában, (4) bekezdés c)–g) pontjában, valamint (5) bekezdés d) pontjában meghatározott adatokat az Ajbtv. 23. § (7) bekezdésében meghatározottak szerint ismerheti meg.
+
+(3a) A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés e) pontjában, (4) bekezdés f) pontjában és (5) bekezdés d) pontjában meghatározott adatot, ha az az együttműködő személy személyes adatainak védelmével kapcsolatban indult
+
+- a) vizsgálati eljárásban,
+- b) adatvédelmi hatósági eljárásban vagy
+- c) titokfelügyeleti hatósági eljárásban
+
+szükséges.
+
+(3b) A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés f) pontjában és (4) bekezdés g) pontjában meghatározott, a titkos információgyűjtésre használt eszközöket és módszereket alkalmazó személyek azonosítását lehetővé tevő adatot, ha az e személyek személyes adatainak védelmével kapcsolatban indult
+
+- a) vizsgálati eljárásban,
+- b) adatvédelmi hatósági eljárásban vagy
+- c) titokfelügyeleti hatósági eljárásban
+
+szükséges.
+
+(3c) Ha a Hatóság által vizsgálni kívánt irat olyan adatot is tartalmaz, amelyet a Hatóság csak a (3) bekezdés szerint ismerhet meg, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Hatóság részére lehetővé tenni.
 
 (4) A minősített adatot érintő adatkezeléssel kapcsolatos eljárása során a Hatóság elnökhelyettese, vezetői munkakört betöltő köztisztviselője és vizsgálója – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
 
