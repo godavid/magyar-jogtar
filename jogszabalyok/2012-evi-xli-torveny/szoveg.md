@@ -934,9 +934,8 @@ vonatkozó önkormányzati rendelet kiadására.
 
 52. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a Tanács 91/440/EK irányelve (1991. július 29.) a közösségi vasutak fejlesztéséről;
-- b) az Európai Parlament és a Tanács 2007/58/EK irányelve (2007. október 23) a közösségi vasutak fejlesztéséről szóló 91/440/EGK tanácsi irányelv, valamint a vasúti infrastruktúra-kapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról szóló 2001/14/EK irányelv módosításáról;
-- c) az Európai Parlament és a Tanács 2009/33/EK irányelve (2009. április 23.) a tiszta és energiahatékony közúti járművek használatának előmozdításáról, 5. cikk (1) bekezdés.
+- a) az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv;
+- b) a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdése.
 
 (2) Ez a törvény a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
