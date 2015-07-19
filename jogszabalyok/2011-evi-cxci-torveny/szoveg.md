@@ -402,6 +402,8 @@ kell figyelembe venni.
 
 (4) Az (1)–(3) bekezdés alkalmazásában létszámon a Központi Statisztikai Hivatal munkaügy-statisztikai adatszolgáltatáshoz kiadott útmutatójában foglaltak szerinti tárgyévi átlagos statisztikai állományi létszámot kell érteni a (2) bekezdésben meghatározott személyek figyelmen kívül hagyásával. A statisztikai állományi létszámot egy tizedes jegyre kerekítve a kerekítés általános szabályai szerint kell meghatározni.
 
+(4a) Munkaerő-kölcsönzés esetén a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kölcsönzött munkavállalót a kikölcsönzés tartama alatt a kölcsönvevőnél, – a kölcsönbeadónak a kölcsönvevő felé tett erre irányuló nyilatkozata esetén a kölcsönbeadónál – kell a rehabilitációs hozzájárulás alapjául szolgáló statisztikai létszám számítása során figyelembe venni.
+
 (5) A rehabilitációs hozzájárulás mértéke 964 500 Ft/fő/év.
 
 (6) Az (1) bekezdéstől eltérően mentesül a rehabilitációs hozzájárulás fizetésének kötelezettsége alól különösen
