@@ -1383,7 +1383,7 @@ megfelelő összeg illeti meg.
   - ec) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
   - ed) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
   - ee) a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
-  - ef)
+  - ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítésnek a feltételét;
 - f) a művészeti, a közművelődési és a közgyűjteményi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - fa) a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
   - fb) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,

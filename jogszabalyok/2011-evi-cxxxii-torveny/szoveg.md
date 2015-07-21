@@ -8,17 +8,20 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 1. § (1) A törvény hatálya kiterjed
 
-- a) a Nemzeti Közszolgálati Egyetemre (a továbbiakban: Egyetem) és a Magyarország területén közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatási tevékenységet folytató intézményekre, továbbá a feladatellátásban közreműködő szervezetekre,
-- b) a közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatási tevékenységre, továbbá az azzal összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet a magyar felsőoktatási intézmények Magyarország területén kívül folytatnak, valamint
-- c) az a) pont szerinti intézmények alapítóira, fenntartóira, továbbá kizárólag az Egyetem tekintetében, annak oktatóira, tudományos kutatóira és más alkalmazottjaira, hallgatóira, támogatóira és az oda jelentkezőkre.
+- a) a Nemzeti Közszolgálati Egyetemre (a továbbiakban: Egyetem),
+- b) az általa folytatott államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatási tevékenységre, továbbá az azzal összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,
+- c) az Egyetem alapítójára, fenntartóira, valamint
+- d) az Egyetem oktatóira, tudományos kutatóira és más alkalmazottjaira, hallgatóira, támogatóira és az oda jelentkezőkre.
 
 (2) Az Egyetem külföldi hallgatójának jogállására e törvényt kell alkalmazni, ha jogszabály vagy a képzésről szóló megállapodás eltérően nem rendelkezik.
+
+1/A. § A 3. § szerinti, illetve a közigazgatás-fejlesztésért felelős miniszter által a 44. § (2) bekezdés alapján kiadott rendelet szerinti államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati képzések tekintetében oklevél kiadására az Egyetem jogosult.
 
 2. § Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
 
 3. § E törvény alkalmazásában
 
-- 1. közigazgatási felsőoktatás: a köztisztviselői és kormánytisztviselői életpályára felkészítő közigazgatási képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok;
+- 1. államtudományi és közigazgatási felsőoktatás: a köztisztviselői és kormánytisztviselői életpályára felkészítő államtudományi és közigazgatási képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
 - 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított, a rendészeti képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok;
 - 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított honvédelmi és katonai képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
 - 4. nemzetbiztonsági felsőoktatás: a nemzetbiztonsági ágazat szakembereinek felkészítése érdekében indított nemzetbiztonsági alapképzési szak, valamint a hozzá kapcsolódó mesterképzési szak;
@@ -70,7 +73,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 (3) Az FT ügyviteli és döntés-előkészítő feladatait az FT ügyvivő irányításával az FT hivatala látja el.
 
-9/A. § (1) Az FT – az oktatási hivatal véleményének figyelembevételével – kezdeményezheti a közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás körébe tartozó képzések indításával és a doktori iskola létesítésével kapcsolatos ügyekben, hogy az általa javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő szervezet kerüljön felkérésre szakértői vélemény elkészítésére. Ebben az esetben az oktatási hivatal az Nftv. 67. § (3) bekezdés c) és e) pontja szerinti eljárásokban a Magyar Felsőoktatási Akkreditációs Bizottság helyett – az Nftv. 67. § (4) bekezdésében meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be, azzal, hogy az azonos tárgy, vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott, szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
+9/A. § (1) Az FT – az oktatási hivatal véleményének figyelembevételével – kezdeményezheti az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás körébe tartozó képzések indításával és a doktori iskola létesítésével kapcsolatos ügyekben, hogy az általa javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő szervezet kerüljön felkérésre szakértői vélemény elkészítésére. Ebben az esetben az oktatási hivatal az Nftv. 67. § (3) bekezdés c) és e) pontja szerinti eljárásokban a Magyar Felsőoktatási Akkreditációs Bizottság helyett – az Nftv. 67. § (4) bekezdésében meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be, azzal, hogy az azonos tárgy, vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott, szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
 
 (2) Az (1) bekezdésben meghatározott eljárás költségei az Egyetemet terhelik.
 
@@ -163,6 +166,12 @@ tölthet be.
 
 (4) Az Egyetem által kötött közszolgálati ösztöndíjszerződés az Nftv. által a magyar állami ösztöndíjjal támogatott hallgatók részére meghatározott feltételeket tartalmazza azzal, hogy az Nftv. 48/A., 48/C. és 48/R. §-ában a Magyar Államon az Egyetemet kell érteni.
 
+(5) Az Nftv. 47. § (3) bekezdését és azzal összefüggésben a (4) és (5) bekezdését, (6) bekezdés a) pontját, valamint (8) bekezdését alkalmazni kell azon közszolgálati ösztöndíjas jogviszonyban álló hallgató tekintetében, akivel az Egyetem kötött közszolgálati ösztöndíjszerződést azzal, hogy a támogatási idő számításakor kizárólag az Egyetem képzésén igénybe vett támogatási időt kell figyelembe venni.
+
+(6) Az Nftv. 48. § (2) és (3) bekezdését azon közszolgálati ösztöndíjas hallgató tekintetében kell alkalmazni, akivel az Egyetem kötött közszolgálati ösztöndíjszerződést.
+
+(7) Az Egyetem a hallgatóval ösztöndíjszerződést kötő szerv, illetve a szerződéses vagy hivatásos jogviszonyban álló hallgatót beiskolázó szerv részére továbbíthatja azon általa kezelt hallgatói személyes adatokat, amelyek a hallgatóval kötött ösztöndíjszerződésben, illetve a hallgató Egyetemen folytatott tanulmányainak támogatása tárgyában a hallgató és a beiskolázó szerv között létrejött szerződésben foglalt, a hallgatót megillető jogosultságok és az őt terhelő kötelezettségek teljesítésének ellenőrzéséhez szükségesek. Az ösztöndíjszerződést kötő, illetve beiskolázó szerv az Egyetem által a fent meghatározott célból továbbított személyes adatokat csak az adatkezelés céljának eléréséhez szükséges mértékben, módon és ideig, azonban legfeljebb a szerződés megszűnését követő öt évig kezelheti.
+
 22. § A honvédtiszti alap- és mesterképzésben, valamint a rendészeti képzésben nem létesíthető hallgatói jogviszony azzal,
 
 - a) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
@@ -193,7 +202,7 @@ hatósági bizonyítvánnyal igazolja.
 
 kezeli.
 
-23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás sajátosságaira figyelemmel –
+23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás sajátosságaira figyelemmel –
 
 - a) meghatározott nyelv meghatározott típusú és szintű tudása,
 - b) a magyarországi lakóhely,
@@ -335,11 +344,11 @@ kezeli.
 
 39. § A minősített adatot tartalmazó tananyaghordozók, dokumentációk, könyvtári segédletek minősítése és megismerése a minősített adat védelmére vonatkozó jogszabályok alapján az Egyetem minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint történhet.
 
-### VIII. Fejezet — A KÖZIGAZGATÁSI, RENDÉSZETI ÉS KATONAI FELSŐOKTATÁS FELÜGYELETE
+### VIII. Fejezet — A FELSŐOKTATÁS FELÜGYELETE
 
 40. § (1) Felügyeletet gyakorló miniszter
 
-- a) a közigazgatási felsőoktatás tekintetében az igazságügyért felelős miniszter és a közigazgatás-fejlesztésért felelős miniszter együttesen,
+- a) az államtudományi és közigazgatási felsőoktatás tekintetében az igazságügyért felelős miniszter és a közigazgatás-fejlesztésért felelős miniszter együttesen,
 - b) a rendészeti felsőoktatás tekintetében a rendészetért felelős miniszter,
 - c) a katonai felsőoktatás tekintetében a honvédelemért felelős miniszter,
 - d) a nemzetbiztonsági felsőoktatás tekintetében a rendészetért felelős miniszter és a honvédelemért felelős miniszter,
@@ -347,17 +356,17 @@ kezeli.
 
 (2) A felügyelet a miniszterek részére a VII. Fejezetben és az e Fejezetben meghatározott jogokat foglalja magában.
 
-41. § (1) Közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatási képzés a felügyeletet gyakorló miniszter előzetes engedélye alapján indulhat.
+41. § (1)
 
-(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára a közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás tekintetében az adott évben felvehető hallgatói létszámkeretet.
+(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás tekintetében az adott évben felvehető hallgatói létszámkeretet.
 
-(3) A felügyeletet gyakorló miniszter az általa felügyelt felsőoktatás vonatkozásában meghatározza a (2) bekezdés szerint megállapított létszámkereten belül a hallgatói létszámok intézményenkénti és – az Egyetem kivételével – szakonkénti elosztását.
+(3)
 
 (4) Az adott szakra történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a felügyeletet gyakorló miniszter határozata állapítja meg.
 
-42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
+42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
 
-43. § A közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit a közigazgatás-fejlesztésért felelős miniszter – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben szabályozza.
+43. § Az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit a közigazgatás-fejlesztésért felelős miniszter – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben szabályozza.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -368,14 +377,14 @@ kezeli.
 - a) az FT és hivatala működésének szabályait,
 - b) az Egyetem gazdálkodásának, finanszírozásának különös szabályait, valamint
 - c) az Egyetem hallgatóinak juttatásaival és az általuk fizetendő egyes térítésekkel kapcsolatos szabályokat,
-- d) a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait.
+- d) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait
 
 (2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
 
-- a) a közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
+- a) az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
 - b) az Egyetemre történő felvétel különös feltételeit, valamint
 - c) a 33/A. § hatálya alá nem tartozó külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait,
-- d) a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok képzési és kimeneti követelményeit, valamint alapképzés képzési ágait.
+- d) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok, valamint az államtudományi doktori cím használatára jogosító osztatlan szak képzési és kimeneti követelményeit, továbbá az oklevéllel tanúsított szakképzettséget, és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Egyetemen rendészeti képzésben résztvevő hallgatók ruházati ellátási normáit és az ellátás rendjét rendeletben határozza meg.
 
@@ -409,14 +418,19 @@ kezeli.
 
 (2) Ha az (1) bekezdés szerinti átruházáshoz kapcsolódóan a cégbíróságon változás bejelentése szükséges, az mentes az illeték- és közzétételi költségtérítés megfizetése alól.
 
-#### 6.
-
 52. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 36. §-át első alkalommal a 2014. évi költségvetés tervezése során kell alkalmazni.
 
-53–55. §
+53. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2015. évi CXXXII. törvénnyel (a továbbiakban: Módtv.) megállapított 21/A. § (5) és (6) bekezdését alkalmazni kell a Módtv. hatálybalépését megelőzően, de a 2012/2013. tanévben vagy azt követően tanulmányaikat megkezdő közszolgálati ösztöndíjas hallgatók tekintetében is, ide nem értve a rendészeti képzésben részt vevő, valamint a honvéd tisztjelölti, hivatásos vagy szerződéses jogviszonyban álló hallgatókat. A tanulmányaikat a 2012/2013. tanévet megelőzően megkezdett nem rendészeti képzésben részt vevő, valamint honvéd tisztjelölti, hivatásos vagy szerződéses jogviszonyban nem álló közszolgálati ösztöndíjas hallgatók tekintetében az átsorolásra a felsőoktatásról szóló 2005. évi CXXXIX. törvényben foglaltak szerint kerül sor.
 
-#### 7.
+54. § E törvénynek a Módtv.-vel módosított 21/A. § (1) bekezdés b) pontját és (3) bekezdését, 24. §-át, valamint 26. § (1) bekezdését a 2016. július 1-jén vagy azt követően rendészeti alapképzésre, nappali tagozatra felvételt nyert személyekre kell alkalmazni. A 2016. július 1-jét megelőzően rendészeti alapképzésre, nappali tagozatra felvételt nyert személyekre a 2016. július 1-jét megelőzően hatályban levő rendelkezések vonatkoznak.
 
-56. §
+55. § E törvénynek a Módtv.-vel módosított, illetve megállapított 1. és 1/A. §-a nem alkalmazható a Módtv. hatálybalépésekor
+
+- a) már megindított vagy
+- b) a felügyeletet gyakorló miniszter által már engedélyezett
+
+képzésekre.
+
+56. § Az 55. §-hoz kapcsolódóan, a felügyeletet gyakorló miniszter az általa felügyelt felsőoktatás vonatkozásában meghatározza a 41. § (2) bekezdés szerint megállapított létszámkereten belül a hallgatói létszámok intézményenkénti és – az Egyetem kivételével – szakonkénti elosztását.
 
 ### Melléklet a 2011. évi CXXXII. törvényhez
