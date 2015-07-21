@@ -1108,7 +1108,7 @@ részletfizetést engedélyez.
 
 (6) A mesterfokozattal rendelkezők az oklevelük által tanúsított szakképzettség előtt az „okleveles” megjelölést használják (okleveles mérnök, okleveles közgazdász, okleveles tanár stb.). A mesterfokozatot eredményező jogászképzésre épülő második jogi mesterszakon oklevelet szerzettek a „Legum Magister” vagy „Master of Laws” (rövidítve: LL. M.) cím használatára jogosultak. A tanárképzésben oklevelet szerzettek a „Master of Education” (rövidítve: MEd) cím használatára jogosultak.
 
-(7) Az orvos, a fogorvos, a gyógyszerész, az állatorvos, a jogász szakon oklevelet szerzett személyek a doktori cím használatára jogosultak. Ezek rövidített jelölése: dr. med., dr. med. dent., dr. pharm., dr. vet., dr. jur.
+(7) Az orvos, a fogorvos, a gyógyszerész, az állatorvos, a jogász és az államtudományi szakon oklevelet szerzett személyek a doktori cím használatára jogosultak. Ezek rövidített jelölése: dr. med., dr. med. dent., dr. pharm., dr. vet., dr. jur, dr. rer. pol.
 
 (8) A felsőoktatási intézmény rektora – a köztársasági elnök előzetes hozzájárulásával – „Promotio sub auspiciis praesidentis Rei Publicae” kitüntetéssel avatja doktorrá azt, akinek a középiskolában és a felsőoktatási intézményben, valamint a doktori képzésben folytatott tanulmányai során a teljesítményét mindig a legmagasabbra értékelték, feltéve továbbá, hogy a doktori fokozatszerzési eljárás során is kiemelkedő teljesítményt nyújtott. A kitüntetéses doktorrá avatás részletes feltételeit a Kormány állapítja meg.
 
@@ -1314,11 +1314,13 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 - b) meghatározza a pedagógusképzés irányait,
 - c) megküldi a főiskolai rektor megbízására és felmentésére, a főiskolai tanár kinevezésére és felmentésére vonatkozó javaslatot a miniszterelnöknek, az egyetemi rektori megbízásra és felmentésre, az egyetemi tanár kinevezésére és felmentésére vonatkozó javaslatot a köztársasági elnöknek;
 - d) javaslatot tesz statisztikai adatszolgáltatásra;
+- e) hallgatói kompetenciamérést rendel el,
+- f) a külföldi magyar nyelvű felsőoktatás támogatása céljából felsőoktatási együttműködési programot hirdet meg.
 
 (3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos feladatai:
 
 - a) a felsőoktatás rendszere fejlesztési terveinek elkészíttetése, beleértve a középtávú fejlesztési tervet,
-- b) a felsőoktatásban jelentkező képzési, oktatási problémák vizsgálata, megoldások kidolgoztatása,
+- b) a felsőoktatásban jelentkező képzési, oktatási problémák vizsgálata, megoldások kidolgoztatása, az országos hallgatói kompetenciamérés szakmai feltételeinek megteremtése,
 - c) a felsőoktatásban folyó kutatásokhoz szükséges szervezeti és anyagi feltételek biztosítása,
 - d) új képzési, oktatási módszerek, megoldások, szervezeti formák, az intézményi hálózatfejlesztések támogatása,
 - e) a felsőoktatási szakképzésben, az alapképzésben és a mesterképzésben a képzési szakok szerkezetének felülvizsgálata,
@@ -2080,9 +2082,9 @@ eltérő rendelkezéseket állapíthat meg,
 
 ### XXX. Fejezet — VEGYES RENDELKEZÉSEK
 
-#### 63. A közigazgatási, rendészeti, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
+#### 63. Az államtudományi és közigazgatási, rendészeti, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
 
-104. § (1) E törvény rendelkezéseit a közigazgatási, a rendészeti, a katonai felsőoktatásra, valamint az ilyen képzést folytató felsőoktatási intézményre, az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A Nemzeti Közszolgálati Egyetem tekintetében:
+104. § (1) E törvény rendelkezéseit a Nemzeti Közszolgálati Egyetemre és az általa folytatott államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, továbbá nemzetközi és európai közszolgálati felsőoktatásra, valamint az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A Nemzeti Közszolgálati Egyetem tekintetében:
 
 - a) a 13/A. § és a 37. § (4a) bekezdése nem alkalmazható, ebben az intézményben a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott magasabb vezetői megbízások adhatók;
 - b) a rektor pályázatát az intézmény Fenntartói Testülete írja ki és a szenátus véleményezését követően dönt a rektorjelölt személyéről;
@@ -2257,7 +2259,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
   - a) az alap- és mesterképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá azokat a szakokat, amelyekben külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzést kell szervezni,
   - b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
 - 5. az államilag elismert nyelvvizsgáztatás rendszerét, ezen belül az Európa Tanács Közös Európai Referenciakeretében ajánlott hatfokozatú nyelvvizsgarendszer és az alap-, közép-, illetve felsőfokú államilag elismert vagy azzal egyenértékű nyelvvizsgák megfeleltetését, továbbá az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatás rendjét,
-- 6. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói igazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási szabályokat, a diákigazolvány és az oktatói igazolvány kibocsátásához kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, a felsőoktatási intézmények által kötelezően használt, központilag kibocsátásra kerülő nyomtatványok – az oklevél megszerzését megelőzően kiállítható, a tanulmányok sikeres befejezését és a záróvizsga megszerzését tanúsító igazolás kiadásának feltételei – tartalmi és formai követelményeit, a támogatási idő nyilvántartásának, a magyar állami (rész)ösztöndíjas és az önköltséges hallgatók közötti átsorolásnak a rendjét,
+- 6. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási szabályokat, a diákigazolvány kibocsátásához kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, a felsőoktatási intézmények által kötelezően használt nyomtatványok tartalmi és formai követelményeit, jóváhagyási rendjét, a támogatási idő nyilvántartásának, a magyar állami (rész)ösztöndíjas és az önköltséges hallgatók közötti átsorolásnak, a hallgatói kompetenciamérésnek a rendjét, a hallgatói átvétel rendjét, a különböző végzettségi szintet eredményező szakok közötti hallgatói átvétel szabályait,
 - 7. a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói megállapodásra, továbbá a hallgatói munkaszerződésre vonatkozó szabályokat,
 - 8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a nyelvi követelményeket, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
 - 9. a felvételi eljárás azon feltételeit, amelyek
