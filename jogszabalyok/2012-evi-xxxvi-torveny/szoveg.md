@@ -459,7 +459,7 @@ használható.
 
 (5) A szószóló nem lehet nemzetiségi önkormányzat elnöke vagy tagja.
 
-(6) Az 5. § (1) bekezdés e) pontjának, a 28. § (1), (3a) és (5) bekezdésének, a 30. §-nak, a 38/C. §-nak, a 40. § (3) bekezdésének, a 42. § (8) bekezdésének, a 46. § (2) bekezdésének, a 48. § (3) és (5) bekezdésének, a 49. § (2), (4) és (6) bekezdésének, az 50. § (1), (2), (5), (6) és (8) bekezdésének, az 51/A. § (1)–(11) bekezdésének, valamint (13) és (14) bekezdésének, az 52. § (2)–(4) bekezdésének, valamint (6) bekezdésének, az 53. § (2)–(5) bekezdésének, az 57. § (2) bekezdésének, az 58. § (3) bekezdésének, az 59. § (7) bekezdésének, a VIII. Fejezetnek, a 96. §-nak, a 97. §-nak, a 98. § (1), (2) és (4) bekezdésének, a 100. §-nak, a 101. § (2) bekezdésének, a 103. §-nak, a 36. alcímnek, a 37. alcímnek és a 39. alcímnek a képviselőkre vonatkozó rendelkezéseit, továbbá – a nemzetiségek érdekeit, jogait érintő ügyben – a 28. § (4) bekezdését a szószólóra is alkalmazni kell.
+(6) Az 5. § (1) bekezdés e) pontjának, a 28. § (1), (3a) és (5) bekezdésének, a 30. §-nak, a 38/C. §-nak, a 40. § (3) bekezdésének, a 42. § (8) bekezdésének, a 18. alcímnek, az 53. § (2)–(5) bekezdésének, az 57. § (2) bekezdésének, az 58. § (3) bekezdésének, az 59. § (7) bekezdésének, a VIII. Fejezetnek, a 96. §-nak, a 97. §-nak, a 98. § (1), (2) és (4) bekezdésének, a 100. §-nak, a 101. § (2) bekezdésének, a 103. §-nak, a 36. alcímnek, a 37. alcímnek és a 39. alcímnek a képviselőkre, a 38. alcímnek a független képviselőkre vonatkozó rendelkezéseit, továbbá – a nemzetiségek érdekeit, jogait érintő ügyben – a 28. § (4) bekezdését a szószólóra is alkalmazni kell.
 
 #### 13. Az Országgyűlés megalakulása
 
@@ -1046,7 +1046,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 30. Összeférhetetlenség
 
-80. § (1) A képviselői megbízatás – a (2) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
+80. § (1) A képviselői megbízatás – a (2) és (2a) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 
 (2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
@@ -1250,7 +1250,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 37. A képviselő juttatásai és a képviselői tevékenységéhez kapcsolódó támogatások
 
-109. § (1) A képviselő – a miniszterelnök, a miniszter, az államtitkár, a házelnök, az alelnök, a képviselői megbízatással rendelkező háznagy, a képviselőcsoport vezetője, valamint annak a polgármesteri megbízatást ellátó képviselőnek a kivételével, aki nyilatkozata alapján polgármesteri megbízatásával összefüggésben személygépkocsi használatra jogosult – nevére, valamint az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Az üzemanyagkártya feltöltése első alkalommal a feltöltés időpontját alapul véve az adott tárgynegyedév végéig, a második alkalomtól kezdődően havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.
+109. § (1) A képviselő – a miniszterelnök, a miniszter, az államtitkár, a házelnök, az alelnök, a képviselői megbízatással rendelkező háznagy, a képviselőcsoport vezetője kivételével – nevére, valamint az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Az üzemanyagkártya feltöltése első alkalommal a feltöltés időpontját alapul véve az adott tárgynegyedév végéig, a második alkalomtól kezdődően havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.
 
 (2) Az (1) bekezdésben meghatározott összeg havonta – ha a képviselőnek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhelye
 
@@ -1276,7 +1276,9 @@ emelkedik.
 
 (4) A (2) bekezdés szerinti besorolásnál a Budapest és a számítás alapjául szolgáló település közötti – autópálya, illetve autóút, ennek hiányában egyéb főközlekedési útvonal igénybevételével számított – legrövidebb közúti távolságot kell figyelembe venni.
 
-(5) A képviselő a belföldi közforgalmú közösségi közlekedési eszközök igénybevételével kapcsolatban felmerült költségeinek megtérítésére jogosult, ha üzemanyagkártyára való jogosultságáról lemond. A költségtérítés összege nem haladhatja meg az (1)–(4) bekezdés alapján, egy 2000 cm3 hengerűrtartalmú, benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget.
+(5) A képviselő az üzemanyagkártyával felhasználható összeg (keret) erejéig jogosult a belföldi közforgalmú közösségi közlekedési eszköz igénybevételére jogosító helyi és helyközi bérlet, valamint helyközi menetjegy – számlával igazolt – költségeinek megtérítésére is.
+
+(5a) Ha a képviselő az üzemanyagkártyára való jogosultságáról lemond, az (5) bekezdés szerinti költségtérítés összege nem haladhatja meg az (1)–(4) bekezdés alapján, egy 2000 cm3 hengerűrtartalmú, benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget.
 
 (6) Az alelnök és – a 113. § (1) bekezdésében foglalt keret terhére – a képviselőcsoport vezetője személyi, illetve hivatali célra személygépkocsi használatára jogosult. Az alelnök részére a személygépkocsit és használatának költségeit az Országgyűlés Hivatala biztosítja.
 
@@ -1284,7 +1286,7 @@ emelkedik.
 
 (8)–(9)
 
-110. § (1) A képviselő kérelmére, az Országgyűlés Hivatala által biztosított, legalább 35 m2, de legfeljebb 50 m2 alapterületű budapesti lakóház vagy lakás használatára jogosult, kivéve ha
+110. § (1) A képviselő kérelmére, az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatára jogosult, kivéve ha
 
 - a) ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan van, vagy
 - b) közjogi tisztségviselőként lakáshasználatra vagy budapesti lakhatásával összefüggésben támogatásra vagy egyéb juttatásra jogosult.
@@ -1325,7 +1327,7 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 (1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy élettársa, vagy a 111. § (3) bekezdésében meghatározott személy, illetve ezek közeli hozzátartozója vagy élettársa a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
 
-(2)
+(2) Az (1) bekezdés szerinti ingatlannak a használatbavételi, illetve fennmaradási engedélytől, ennek hiányában az eredeti rendeltetéstől eltérő – az (1) bekezdésben foglaltak biztosítására történő – használatához az építésügyi hatóság engedélye nem szükséges.
 
 (3) A képviselő tevékenységét az Országgyűlés Hivatala által finanszírozott személyek segítik.
 
@@ -1345,9 +1347,15 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 (5) Képviselő közeli hozzátartozója nem foglalkoztatható a 111. § (3) bekezdése alapján képviselő tevékenységét segítő alkalmazottként.
 
-(6) A képviselő a 111. § (1) bekezdésében meghatározott jogosultságának gyakorlásáról a képviselőcsoportja javára írásos nyilatkozatban lemondhat, amely nyilatkozatban a képviselő a (2) bekezdés szerinti keret feletti rendelkezési jogot a képviselőcsoport vezetőjére ruházza át.
+(6) A képviselő a 111. § (1) bekezdésében meghatározott jogosultságának gyakorlásáról – teljes egészében vagy részlegesen – a képviselőcsoportja javára írásbeli nyilatkozatban lemondhat, amely nyilatkozatban a képviselő a (2) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére ruházza át. Ha a képviselő a (2) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére átruházta, a (2) bekezdés szerinti összeg egésze vagy meghatározott része a képviselőcsoport 113. § (1) bekezdése szerinti keretére kerül átcsoportosításra.
 
 (7) A képviselőcsoport vezetője a (6) bekezdés szerinti rendelkezési jogát személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.
+
+(8) A képviselő megbízatásának időtartama alatt – a (9) bekezdésben foglalt kivétellel – jogosult az ezen alcím alapján nyújtott juttatások és támogatások havi keretmaradványát a jogosultsági hónapot követően – a havonta felhasználható összeget meghaladóan – is felhasználni.
+
+(9) A 111. § (1) bekezdése szerinti juttatás képviselő által fel nem használt – tárgyév december 31-én fennálló – éves keretmaradványa a tárgyévet követő év január 1-jei hatállyal a képviselőcsoportjának a 113. § (1) bekezdése szerinti keretére kerül átcsoportosításra.
+
+(10) Az ezen alcím alapján nyújtott juttatások és támogatások fedezetére biztosított keret összegének túllépése esetén a jogosulatlanul igénybevett összeg – a havi elszámolást követően – levonásra kerül a képviselő tiszteletdíjából, illetve a képviselő azt az Országgyűlés Hivatalának visszafizeti.
 
 #### 38. A képviselőcsoport működési feltételeinek biztosítása
 
@@ -1398,7 +1406,7 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 117. § A képviselőcsoport működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatásokat az Országgyűlés Hivatala biztosítja.
 
-118. § (1) A képviselőcsoport a 112. § (2) bekezdésében meghatározott keret, a 113. § (1) bekezdésében meghatározott keret, valamint a 114. § (3) bekezdésében meghatározott keret között év közben átcsoportosítást hajthat végre.
+118. § (1) A képviselőcsoport a 113. § (1) bekezdésében meghatározott keret, valamint a 114. § (3) bekezdésében meghatározott keret között év közben átcsoportosítást hajthat végre.
 
 (2) A képviselőcsoport vezetője a 112. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretből a 113. § (1) bekezdésében, illetve a 114. § (3) bekezdésében meghatározott keretre év közben átcsoportosítást hajthat végre.
 
@@ -1408,7 +1416,9 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 (5) A képviselőcsoport havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatja az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1)–(3) bekezdésben meghatározott átcsoportosításokról.
 
-(6) A független képviselő esetében az (1)–(5) bekezdésben meghatározottakat megfelelően alkalmazni kell.
+(5a) A képviselőcsoport megalakulásától megszűnéséig jogosult a működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatások havi keretmaradványát a jogosultsági hónapot követően is felhasználni. Ha a képviselőcsoport az Országgyűlés megbízatásának megszűnésével szűnik meg, a megszűnés időpontjában – a 112. § (3) bekezdése szerinti keret vonatkozásában is – fennálló keretmaradvány felhasználására a következő Országgyűlésben is képviselettel rendelkező ugyanazon párt – önállóan, vagy más párttal közösen alakított – képviselőcsoportja jogosult.
+
+(6) A független képviselő esetében az (1)–(5a) bekezdésben meghatározottakat megfelelően alkalmazni kell.
 
 #### 39. A volt képviselő juttatásai
 
@@ -1709,11 +1719,17 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 (12) A Módtv.-vel megállapított 13/A. §-t a Módtv. hatálybalépésekor folyamatban lévő közérdekű adatigénylésekkel kapcsolatos eljárások során is alkalmazni kell.
 
+(13) Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról szóló 2015. évi CXXV. törvénnyel (a továbbiakban: Módtv.2.) megállapított 112. § (6) bekezdését azon összeg átcsoportosítására is alkalmazni kell, amely feletti rendelkezési jogot a képviselő a Módtv.2. hatálybalépését megelőzően ruházta át a képviselőcsoportjára.
+
+(14) A Módtv.2.-vel megállapított 112. § (8) és (9) bekezdését az országgyűlési képviselők 2014. évi általános választását követően megalakult Országgyűlés alakuló ülésének napjától a Módtv.2. hatálybalépésének napjáig keletkezett keretmaradványok tekintetében is alkalmazni kell.
+
+(15) A Módtv.2.-vel megállapított 118. § (5a) és (6) bekezdését az országgyűlési képviselők 2014. évi általános választását követően megalakult Országgyűlés alakuló ülésének napjától a Módtv.2. hatálybalépésének napjáig keletkezett keretmaradványok tekintetében is alkalmazni kell.
+
 #### 52. Sarkalatossági záradék
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § (6) bekezdése, a 48–52. §, a Harmadik rész, a 36. és 37. alcím, a 145. § (8) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 48–52. §, a Harmadik rész, a 36. és 37. alcím, a 145. § (8), (13) és (14) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
