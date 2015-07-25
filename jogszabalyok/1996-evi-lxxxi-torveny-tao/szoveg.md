@@ -1227,7 +1227,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 28. § (1)
 
-(2) A belföldi illetőségű adózó és a külföldi vállalkozó a társasági adó megállapításakor az adóalapot úgy módosítja, hogy az ne tartalmazza a külföldön adóztatható jövedelmet, ha nemzetközi szerződés így rendelkezik.
+(2) A belföldi illetőségű adózó és a külföldi vállalkozó a társasági adó megállapításakor az adóalapot úgy módosítja, hogy az ne tartalmazza a külföldön adóztatható jövedelmet, ha nemzetközi szerződés így rendelkezik, azzal, hogy a külföldön adóztatható jövedelmet a belföldi illetőségű adózó és a külföldi vállalkozó többi jövedelme utáni társasági adó megállapításakor figyelembe kell venni, ha nemzetközi szerződés ezt lehetővé teszi.
 
 (3) A (2) bekezdésben nem említett esetben a belföldi illetőségű adózó és a külföldi vállalkozó a társasági adóból adóvisszatartás formájában levonhatja a külföldön fizetett (fizetentő), a társasági adónak megfelelő adót.
 
