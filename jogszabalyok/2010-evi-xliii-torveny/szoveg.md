@@ -308,8 +308,8 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 - d) rádiótelefon- és internethasználatra, valamint kormányzati célú hírközlő hálózat használatára,
 - e) hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légi utazásra,
 - f) külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára,
-- g) – a szolgáltatást nyújtó egészségügyi intézmény és a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére, és
-- h) – a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját magában foglaló térítési díj ellenében – a Kormány központi üdülőjének használatára
+- g) – a szolgáltatást nyújtó egészségügyi intézmény és a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére
+- h)
 
 jogosult.
 
@@ -317,7 +317,7 @@ jogosult.
 
 (3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter látja el.
 
-(4) Az (1) bekezdés h) pontja szerinti jogosultság megilleti a miniszterelnökkel együtt üdülő családtagját, gyermekének házastársát, szülőjét és unokáját is.
+(4)
 
 25/C. § A miniszterelnök a részére járó juttatások és szolgáltatások igénybevételéhez szükséges adatokat, valamint az adatok megváltozását haladéktalanul közli az érintett szervvel.
 
@@ -395,7 +395,7 @@ jogosult.
 
 (6) A (2) bekezdés a) pontja alapján kinevezett kormánybiztos e tevékenységére tekintettel az (1) bekezdés szerinti normatív kormányhatározatban meghatározott, legfeljebb a (7) bekezdés szerinti illetménynek megfelelő összegű díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
+(7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
 (8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
@@ -424,7 +424,7 @@ jogosult.
 
 (2) E törvényben nem szereplő megbízatás kormányzati feladatok teljesítésére nem adható.
 
-(3) A (2) bekezdésben meghatározott tilalom nem akadálya annak, hogy a miniszterelnök diplomáciai, személyes tanácsadói vagy egyéb eseti jellegű feladat miniszterelnöki megbízottként történő ellátására megbízást adjon. A megbízás díjazásaként legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint az államtitkári juttatások köthetők ki.
+(3) A (2) bekezdésben meghatározott tilalom nem akadálya annak, hogy a miniszterelnök diplomáciai, személyes tanácsadói vagy egyéb eseti jellegű feladat miniszterelnöki megbízottként történő ellátására megbízást adjon. A megbízás díjazásaként a miniszterelnöki megbízott részére legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki.
 
 ### III. Fejezet — A MINISZTER ÉS MUNKASZERVE
 
@@ -485,7 +485,7 @@ helyettesíti.
 
 (5) A miniszteri biztos megbízatása meghatározott időre, de legfeljebb hat hónapra szól. A miniszteri biztos e megbízatása visszavonással vagy az őt kinevező miniszter hatáskörgyakorlása megszűnésével is megszűnik.
 
-(6) A miniszteri biztos legfeljebb helyettes államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
+(6) A miniszteri biztos helyettes államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
 (7) A miniszteri biztosra a 33. § (1) bekezdését alkalmazni kell.
 
@@ -755,11 +755,13 @@ helyettesíti.
 
 (9) Ha a kormányhivatal felügyeletét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el, a (8) bekezdést nem kell alkalmazni.
 
-(10) A kormányhivatal vezetője – ha törvény eltérően nem rendelkezik – államtitkári illetményre és juttatásokra jogosult.
+(10) A kormányhivatal vezetője – ha törvény eltérően nem rendelkezik – államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosult.
 
 (11) A kormányhivatal vezetőjének helyettese – ha törvény eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
 
-(12) Ha a kormányhivatalt testület vezeti, és törvény eltérően nem rendelkezik, a testület elnöke államtitkári illetményre és juttatásokra, a testület tagjai helyettes államtitkári illetményre jogosultak.
+(11a) A kormányhivatal vezetője és a kormányhivatal vezetőjének helyettese kormányzati szolgálati jogviszonyban áll. Törvény eltérő rendelkezése hiányában a kormányhivatal vezetője és a kormányhivatal vezetőjének helyettese jogviszonyára a közszolgálati tisztviselőkről szóló törvény vezetői munkakört betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
+
+(12) Ha a kormányhivatalt testület vezeti, és törvény eltérően nem rendelkezik, a testület elnöke államtitkári illetményre és kormányrendeletben meghatározott juttatásokra, a testület tagjai helyettes államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosultak.
 
 (13) A kormányhivatalra – ha törvény eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.
 
@@ -781,9 +783,11 @@ helyettesíti.
 
 (6) Ha a központi hivatalt a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter irányítja, az (5) bekezdést nem kell alkalmazni.
 
-(7) A központi hivatal vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – államtitkári illetményre és juttatásokra jogosult.
+(7) A központi hivatal vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosult.
 
 (8) A központi hivatal vezetőjének helyettese – ha törvény vagy kormányrendelet eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
+
+(8a) A központi hivatal vezetője és a központi hivatal vezetőjének helyettese kormányzati szolgálati jogviszonyban áll. Törvény vagy kormányrendelet eltérő rendelkezése hiányában a központi hivatal vezetője és a központi hivatal vezetőjének helyettese jogviszonyára a közszolgálati tisztviselőkről szóló törvény vezetői munkakört betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
 
 (9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.
 
@@ -797,7 +801,7 @@ helyettesíti.
 
 ### Felhatalmazó rendelkezések
 
-75. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a miniszter, az államtitkár, a kormánybiztos, a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos és a miniszterelnöki biztos juttatásait.
+75. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányhivatal vezetője és a központi hivatal vezetője juttatásait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a minisztériumokban működő államtitkárok, helyettes államtitkárok és állami vezetői megbízással nem rendelkező kormánybiztosok, miniszteri biztosok számát.
 
