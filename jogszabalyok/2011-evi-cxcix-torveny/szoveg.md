@@ -37,7 +37,7 @@ terjed ki.
 
 (7) A 258. § hatálya kiterjed a közigazgatási szervnél kormánytisztviselőnek, köztisztviselőnek, kormányzati, illetve közszolgálati ügykezelőnek nem minősülő munkavállaló munkaviszonyára.
 
-(8) A politikai vezetők állami vezetői szolgálati jogviszonyára a 26–50. §, 53. §, 55–73. §, 80–88. §, 98. §, 100. § (1) bekezdés, 101. §, 116–130. §, 133–142. §, 143. § (2) bekezdése, 150. §, 154–159. §, 181–183. §, 190–191. §, 195–225. § kivételével e törvény kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni. A politikai vezető, valamint a munkáltató az állami vezetői szolgálati jogviszonyból származó igényt a 238. § megfelelő alkalmazásával érvényesítheti.
+(8) A politikai vezető állami vezetői szolgálati jogviszonyára a 26–50. §, 53. §, 55–73. §, 80–88. §, 98. §, 100. § (1) bekezdése, 101. §, 116–130. §, 133–142. §, 143. § (2) bekezdése, 150. §, 152. § (1) bekezdés a) és b) pontja, 154–159. §, 181–183. §, 190–191. §, 195–225. § kivételével e törvény kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni. A politikai vezető, valamint a munkáltató az állami vezetői szolgálati jogviszonyból származó igényt a 238. § megfelelő alkalmazásával érvényesítheti.
 
 (9) Törvény eltérő rendelkezése hiányában az állami intézményfenntartó központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
 
@@ -3225,7 +3225,7 @@ munkanapra emelkedik.
 - a) megrovás,
 - b) hivatalvesztés.
 
-(4) A szakmai vezető kormányzati szolgálati jogviszonyára e törvény rendelkezéseit a 37–38. §, 40. §, 45. § (1)–(3) és (6) bekezdése, 46. §, 48. § (2)–(7) bekezdése, 50. §, 53. §, 54/A. §, 54/B. §, 55–57. §, 60–67. §, 68. § (1), (3)–(6) bekezdése, 69–73. §, 100. § (1) bekezdés, 101. §, 116–130. §, 133–142. §, 155. § (2)–(4) bekezdése, 181–182. §, 183. § (2) bekezdése, 203–205. § kivételével megfelelően kell alkalmazni.
+(4) A szakmai vezető kormányzati szolgálati jogviszonyára e törvény rendelkezéseit a 37–38. §, 40. §, 45. § (1)–(3) és (6) bekezdése, 46. §, 48. § (2)–(7) bekezdése, 50. §, 53. §, 54/A. §, 54/B. §, 55–57. §, 60–67. §, 68. § (1), (3)–(6) bekezdése, 69–73. §, 100. § (1) bekezdése, 101. §, 116–130. §, 133–142. §, 152. § (1) bekezdés a) és b) pontja, 155. § (2)–(4) bekezdése, 181–182. §, 183. § (2) bekezdése, 203–205. § kivételével megfelelően kell alkalmazni.
 
 ### A közigazgatási államtitkár
 

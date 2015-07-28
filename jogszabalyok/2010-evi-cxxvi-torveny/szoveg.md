@@ -108,7 +108,7 @@ gyakorolja.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet végezzen és nevelőszülői foglalkoztatási jogviszonyt létesítsen.
 
-(3) A kormánymegbízott illetményét a miniszter – legfeljebb az illetményalap 28-szorosában – állapítja meg. A kormánymegbízott – amennyiben kormányrendelet másként nem rendelkezik – helyettes államtitkárt megillető juttatásokra jogosult.
+(3) A kormánymegbízott illetményét a miniszter – legfeljebb az illetményalap 28-szorosában – állapítja meg. A kormánymegbízott kormányrendeletben meghatározott juttatásokra jogosult.
 
 (4)
 
@@ -256,7 +256,7 @@ vonatkozó munkáltatói jogokat.
 21. § Felhatalmazást kap a Kormány, hogy
 
 - a) a fővárosi és megyei kormányhivatalok feladat- és hatáskörére, szervezetére, működésére és ellenőrzésére vonatkozó részletes szabályokat,
-- b)
+- b) a kormánymegbízott juttatásait,
 - c) a fővárosi és megyei kormányhivatal, valamint a járási hivatalok irányításának részletes szabályait,
 - d) az 1. § 3. pontjában meghatározott rendelkezéstől eltérő szakmai irányító minisztert
 - e) a fővárosi és megyei kormányhivatal funkcionális feladatait, valamint az azok irányítását ellátó szervet vagy szerveket,
