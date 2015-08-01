@@ -47,7 +47,10 @@ kerül sor,
 (4) Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
 
 - a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
-- b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti álláskereső, ideértve azt az álláskeresőt is, akinek álláskeresőként való nyilvántartása a közfoglalkoztatási jogviszonya miatt szünetel (a továbbiakban együtt: álláskereső), vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
+- b) megfelel az alábbi feltételek valamelyikének:
+  - ba) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti álláskereső, ideértve azt az álláskeresőt is, akinek álláskeresőként való nyilvántartása a közfoglalkoztatási jogviszonya miatt szünetel (a továbbiakban együtt: álláskereső), vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül,
+  - bb) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig az, aki menekültként, oltalmazottként, vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+  - bc) olyan harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pontok alapján kijelölt helyen való tartózkodását rendelte el.
 
 (4a) Az álláskeresőt három hónap időtartamra ki kell zárni a közfoglalkoztatásból, ha
 
@@ -152,7 +155,7 @@ vonatkozó szabályai nem alkalmazhatók,
 - d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
 - e)
 - f) az Mt. 59–62. §-a nem alkalmazható,
-- g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni a megyei foglalkoztatási szervnek, továbbá a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, ha jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta,
+- g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni a megyei foglalkoztatási szervnek, továbbá a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, ha jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta, vagy az 1. § (4) bekezdés c) pontja szerinti személy elismerés iránti kérelmét jogerősen elutasították, kivéve, ha az idegenrendészeti hatóság határozata alapján az 1. § (4) bekezdés d) pontjának hatálya alá kerül.
 - h) az Mt. 70. §-a nem alkalmazható,
 - i) az Mt. 79. § (2) bekezdése nem alkalmazható,
 - j) az Mt. 81. §-a, 82. § (3) és (4) bekezdése, továbbá 83. §-a és 84. §-a nem alkalmazható,
@@ -210,6 +213,8 @@ vonatkozó szabályai nem alkalmazhatók,
 (6) A szociális szövetkezetet – az (1) és (2) bekezdésben meghatározott feltételek teljesítése esetén – a közfoglalkoztatási jogviszony megszűnésétől számított három hónapon belül kell megalapítani.
 
 (7) Amennyiben a szociális szövetkezet európai uniós versenyjogi értelemben vett gazdasági tevékenységet végez, és a helyi önkormányzat, a nemzetiségi önkormányzat, vagy ezek jogi személyiségű társulása, mint közfoglalkoztató nem tagja a szövetkezetnek, az ehhez a tevékenységhez az állam által biztosított ingó tárgyi eszköz, termőföld, állatállomány meg nem fizetett használati díja csekély összegű (de minimis) támogatásnak minősül, és az az állami támogatásokra vonatkozó uniós jogi aktusok rendelkezéseivel összhangban nyújtható.
+
+4/B. § Az 1. § (4) bekezdés c) pontja szerinti személy foglalkoztatása esetén a 2. § (3a) és (3c) bekezdése, az 1. § (4) bekezdés d) pontja szerinti személy foglalkoztatása esetén a 4/A. § nem alkalmazható.
 
 ### A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 

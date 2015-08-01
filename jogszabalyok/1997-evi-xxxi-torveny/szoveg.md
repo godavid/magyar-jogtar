@@ -1197,7 +1197,7 @@ szervezhető meg.
 - f) a szülőknek az ellátás mellett jogi, pszichológiai és mentálhigiénés segítséget nyújt,
 - g) közreműködik – a gyermekjóléti szolgálattal együttműködve – az átmeneti gondozást szükségessé tevő okok megszüntetésében, a család helyzetének rendezésében, otthontalanságának megszüntetésében.
 
-(4) A családok átmeneti otthona krízisközpontot működtethet.
+(4) Krízisközpontként kizárólag a családok átmeneti otthona működhet.
 
 (5) A krízisközpont befogadja a hozzátartozók közötti erőszak miatt krízishelyzetbe került, a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló törvény szerint bántalmazottnak minősülő személyt és azt a vele egy háztartásban élő személyt, akinek tartására jogszabály, szerződés vagy bírósági határozat alapján köteles (a továbbiakban együtt: bántalmazott család).
 
@@ -1216,7 +1216,15 @@ szervezhető meg.
 - b) a bántalmazott vállalja a külön jogszabályban meghatározott előtakarékossági programban való részvételt, és
 - c) a bántalmazott vállalja a külön jogszabályban meghatározott társadalmi reintegrációt segítő programban való részvételt.
 
-(9) A krízisközpont működtetését az állam a jogszabályban meghatározott eljárási rend szerint kiválasztott fenntartókkal kötött finanszírozási szerződés útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
+(9) Titkos menedékházként kizárólag a családok átmeneti otthona működhet.
+
+(10) A titkos menedékház befogadja a kapcsolati erőszak miatt krízishelyzetbe került, illetve otthontalanná vált bántalmazottat és gyermekét, valamint az (5) bekezdés szerinti bántalmazott családot.
+
+(11) A titkos menedékház a (10) bekezdésben foglalt személy számára legfeljebb hat hónap időtartamra
+
+- a) lakhatást biztosít, és szükség esetén biztosítja az étkeztetést, a ruházattal való ellátást, a mentálhigiénés ellátást, valamint segítséget nyújt az egészségügyi ellátáshoz való hozzáféréshez,
+- b) közreműködik – a gyermekjóléti, illetve családsegítő szolgálattal együttműködve – a titkos menedékház szolgáltatást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
+- c) segítséget nyújt a bántalmazás következtében kialakult pszichés sérülések kezelésében és jogi tanácsadással segíti a (10) bekezdésben foglalt személy érdekeinek védelmét.
 
 ### VII. Fejezet — A gyermekvédelmi szakellátások
 
@@ -2725,12 +2733,14 @@ köteles működtetni.
 - a) a (2) bekezdés b) pontja szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
 - b) a (2) bekezdés a), c) és d) pontja szerinti adatokat a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével kell törölni.
 
-(5) A szolgáltatói nyilvántartás adatai – a (6) bekezdésben meghatározott adatok kivételével – nyilvánosak, és a történeti állományba tartozó adatok kivételével a szolgáltatói nyilvántartást vezető szerv honlapján hozzáférhetők.
+(5) A szolgáltatói nyilvántartás adatai – a (6) bekezdésben meghatározott adatok kivételével – nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
 
 (6) A szolgáltatói nyilvántartás adatai közül nem nyilvános
 
 - a) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülők, nevelőszülők neve, az ellátás helye, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek száma, valamint az egyes helyettes szülők, nevelőszülők által végzett szolgáltató tevékenységre vonatkozó egyéb adatok,
-- b) a családok átmeneti otthonának és a gyermekek átmeneti otthonának címe, ha a fenntartó ezt kéri.
+- b) a titkos menedékház valamennyi adata,
+- c) a krízisközpont és a félutas ház címe, továbbá az arra vonatkozó adat, hogy a családok átmeneti otthona krízisközpontként működik-e,
+- d) a b) és c) pontban nem említett családok átmeneti otthonának és a gyermekek átmeneti otthonának címe, ha a fenntartó ezt kéri.
 
 (7) A szolgáltatói nyilvántartás nem nyilvános adatait megismerheti, és a szolgáltatói nyilvántartásból nem nyilvános adatot igényelhet a fenntartón és a szolgáltatón, intézményen, hálózaton kívül
 
@@ -2754,6 +2764,42 @@ köteles működtetni.
 
 (10) A szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a fenntartó a kérelmeket, a kérelemhez csatolandó iratokat és nyilatkozatokat, valamint a működést engedélyező szervnek benyújtandó más iratokat elektronikus úton nyújtja be, a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét elektronikus úton teljesíti, a működést engedélyező szerv a döntéseit és az ellenőrzés megindításáról szóló értesítéseit elektronikus úton közli. A fenntartó meghatalmazotti képviselőjének adott meghatalmazás papíralapon is benyújtható.
 
+(11) A Szociális Ágazati Portálon – a (12) és (13) bekezdésben meghatározottak szerint – közzé kell tenni
+
+- a) a működést engedélyező szervnek a szolgáltató, intézmény, hálózat (székhely, telephely) ellenőrzése során hozott, fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát,
+- b) a működést engedélyező szerv jogerős határozatát, fenntartóval kötött hatósági szerződését és hatósági szerződésben foglalt kötelezettség megszegését megállapító végzését, ha a szolgáltató, intézmény, hálózat (székhely, telephely) személyi vagy tárgyi feltételeinek hiánya miatt jogkövetkezményt állapított meg vagy a fenntartóval hatósági szerződést kötött,
+- c) a működést engedélyező szerv jogerős határozatát, fenntartóval kötött hatósági szerződését és hatósági szerződésben foglalt kötelezettség megszegését megállapító végzését, ha a 100/A. § (1) bekezdés a), b) vagy e) pontjában meghatározott jogsértés miatt jogkövetkezményt állapított meg vagy a fenntartóval hatósági szerződést kötött,
+- d) az a)–c) pont szerinti ügyben a jogorvoslat vagy megismételt eljárás során hozott és a közzétett döntés érdemében változást eredményező hatósági döntést vagy bírósági határozatot.
+
+(12) A hatósági döntésről és a hatósági szerződésről közzétett dokumentumnak tartalmaznia kell
+
+- a) a közzététel napját és a (11) bekezdés szerinti jogcímét,
+- b) az eljáró működést engedélyező szerv megnevezését,
+- c) az ügy számát és tárgyát,
+- d) a 100/A. § (1) bekezdés e) pontja szerinti jogsértés esetén
+  - da) a szolgáltatást nyújtók nevét,
+  - db) a végzett gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenység megnevezését,
+  - dc) a szolgáltatásnyújtás helyét, és
+  - dd) a megállapított jogkövetkezményeket,
+- e) a d) pontban nem említett jogsértés esetén
+  - ea) a fenntartó nevét, székhelyét és adószámát,
+  - eb) a szolgáltató, intézmény, hálózat (székhely, telephely) címét – a 98. § (6) bekezdés c) és d) pontja szerinti kivételekkel – és ágazati azonosítóját,
+  - ec) a jogsértéssel érintett gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenység megnevezését,
+  - ed) a megállapított tényállást,
+  - ee) a megsértett jogszabályi rendelkezések megjelölését, és
+  - ef) a hatósági döntésben megállapított jogkövetkezményeket, illetve a fenntartó által a hatósági szerződésben vállalt kötelezettségeket, és az azok megszegésének esetére kikötött jogkövetkezményeket,
+- f) a jogerő beálltára vagy annak hiányára történő utalást,
+- g) a döntéssel szembeni jogorvoslati eljárás tényét, valamint
+- h) a jogorvoslat vagy megismételt eljárás során hozott hatósági döntés vagy bírósági határozat esetén a hatósági döntést vagy bírósági határozatot, és annak rövid indokolását.
+
+(13) Titkos menedékház ügyében hozott hatósági döntés és bírósági határozat nem tehető közzé. A (6) bekezdés c) és d) pontja szerinti esetben a (12) bekezdés szerinti adatokat úgy kell közzétenni, hogy abból az intézmény (székhely, telephely) és a félutas ház címe ne legyen megismerhető.
+
+(14) A Szociális Ágazati Portálról a közzétett dokumentumot
+
+- a) a szolgáltató, intézmény, hálózat (székhely, telephely) szolgáltatói nyilvántartásba történő bejegyzését követően haladéktalanul el kell távolítani, ha a 100/A. § (1) bekezdés e) pontja szerinti jogsértő állapot a szolgáltatói nyilvántartásba történő bejegyzéssel szűnik meg,
+- b) a jogsértő állapot megszűnését követő öt év elteltével kell eltávolítani, ha a 100/A. § (1) bekezdés e) pontja szerinti jogsértő állapot nem a szolgáltatói nyilvántartásba történő bejegyzéssel szűnik meg,
+- c) az a) és b) pontban nem említett esetben a jogsértés időpontját, illetve a jogsértő állapot megszűnését, de legkorábban a közzétételt követő egy év elteltével kell eltávolítani.
+
 99. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységnek meg kell felelnie az e törvényben és a szakmai szabályokban foglalt követelményeknek.
 
 (2) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység keretében szolgáltatást csak a külön jogszabályban meghatározott képesítésű személy végezhet.
@@ -2764,13 +2810,17 @@ köteles működtetni.
 
 ### A gyermekvédelmi igazgatási bírság
 
-100/A. § (1) A működést engedélyező szerv ellenőrzési jogkörében jogsértésenként legfeljebb 200 ezer forint összegű gyermekvédelmi igazgatási bírságot szabhat ki
+100/A. § (1) A működést engedélyező szerv gyermekvédelmi igazgatási bírságot szabhat ki
 
 - a) a működtetővel, az intézményvezetővel, illetve a fenntartóval szemben, ha a működtető, a szolgáltató, az intézmény, illetve a fenntartó a gyermeknek az e törvényben biztosított jogait megsérti,
 - b) a működtetővel, az intézményvezetővel, illetve a fenntartóval szemben, ha a működtető, a szolgáltató, az intézmény, illetve a fenntartó a tájékoztatási kötelezettséget megszegi, vagy a gyermeket, a szülőt vagy más törvényes képviselőt, az érdek-képviseleti szervet akadályozzák jogai gyakorlásában, illetve abban, hogy a működést engedélyező szervhez, a gyermekjogi képviselőhöz vagy más hatósághoz forduljon, vagy az intézményvezető, illetve a fenntartó a panaszt határidőben nem vizsgálja ki,
 - c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a külön jogszabály szerinti esetekben nem kéri a szolgáltatói nyilvántartásba bejegyzett adatok módosítását vagy a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásból történő törlését, vagy – ha jogszabály kivételt nem tesz – nem teljesíti a működést engedélyező szerv felé fennálló, külön jogszabályban meghatározott bejelentési kötelezettségét,
 - d) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a gyermekjóléti, gyermekvédelmi szolgáltatás biztosításával jogellenesen hagy fel,
 - e) szolgáltatói nyilvántartásba történő bejegyzéshez kötött gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet a szolgáltatói nyilvántartásba történő jogerős bejegyzés nélkül vagy a szolgáltatói nyilvántartásból történő, végrehajtható törlést követően végző, illetve ilyen szolgáltatótevékenységet működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen az ellátás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben.
+
+(1a) Az (1) bekezdés e) pontja szerinti esetben a bírság legalacsonyabb összege 250 000 forint, legmagasabb összege 1 000 000 forint.
+
+(1b) Az (1a) bekezdésben nem említett esetben a bírság legmagasabb összege 200 000 forint.
 
 (2) A bírság összegét az eset összes körülményeire, így különösen a jogsértéssel érintett gyermekek számára, a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására és – fenntartóra kiszabott bírság esetén – a bírság megfizetésének az ellátás színvonalára gyakorolt hatására tekintettel kell meghatározni.
 
@@ -3500,7 +3550,7 @@ vonatkozó adatokat kezelhet.
 
 - a) a alternatív napközbeni ellátás esetén,
 - b) házi gyermekfelügyelet esetén,
-- c) gyermekjóléti szolgáltatás esetén, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható,
+- c)
 - d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén,
 - e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–65. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén.
 
@@ -3555,7 +3605,7 @@ vonatkozó adatokat kezelhet.
 
 (5)
 
-141/A. § A Kormány által kijelölt szerv országos jelentési rendszert működtet. A fenntartó az országos jelentési rendszer számára köteles bejelenteni a külön jogszabályban meghatározott adatokat.
+141/A. § A Kormány által kijelölt szerv – a személyes gondoskodás rendszerének és finanszírozásának tervezhetősége érdekében – országos jelentési rendszert működtet. A fenntartó az országos jelentési rendszer számára köteles bejelenteni a kormányrendeletben meghatározott – személyes adatnak nem minősülő – adatokat.
 
 141/B–141/D. §
 
@@ -3652,7 +3702,7 @@ vonatkozó adatokat kezelhet.
 - a) személyes gondoskodást nyújtó gyermekjóléti alapellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
 - b) gyermekek napközbeni ellátása és – az 51. § (4)–(9) bekezdés szerinti ellátás kivételével – a gyermekek átmeneti gondozása esetében az új férőhelyeknek
 
-a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás).
+a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás), a 145/C. §-ban foglaltak kivételével.
 
 (2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, hálózatnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó a kérelem benyújtásakor nem rendelkezik befogadással.
 
@@ -3733,6 +3783,8 @@ teszi szükségessé.
 
 - a) tett munkáltatói vagy munkavállalói egyoldalú jognyilatkozat, vagy
 - b) megkötött megállapodás alapján a munkaviszony ezen időpontot követően megszűnik. Az a) és b) pont szerinti, a gyermekvédelmi szakellátási feladat átvételének időpontja előtti jognyilatkozattal vagy megállapodással kapcsolatban a munkavállaló által kezdeményezett munkaügyi jogvita esetén a gyermekvédelmi szakellátási feladat átvételének időpontját követően az átadó helyébe az átvevő munkáltató lép és ezen időpont után a keresetlevelet az átvevő munkáltató ellen kell előterjeszteni.
+
+145/C. § A Gyerekházak, a krízisközpontok, a félutas házak és a titkos menedékházak működtetését az állam – jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
 
 ### Térítési díj
 
@@ -4083,7 +4135,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - f) a központi hatóság vagy hatóságok, az országos örökbefogadást elősegítő szerv,, továbbá a 82. § (1) bekezdésében, a 96. § (8a) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
 - g) a személyes adatok kezelésére és az egységes örökbefogadási nyilvántartás vezetésére vonatkozó eljárási szabályokat, valamint az egységes örökbefogadási nyilvántartás adatfeldolgozójának feladataira vonatkozó szabályokat,
 - h) a helyettes szülői jogviszony és a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit,
-- i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
+- i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 98. § (11)–(14) bekezdése szerinti közzététel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
 - j) az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző magánszervezetek tevékenységét és működésük engedélyezését, továbbá a szolgáltatást engedélyező szerv kijelölését,
 - k) a gyermekvédelmi közvetítői eljárás és a támogatott közvetítői eljárás elrendelésének és alkalmazásának szabályait,
 - l)
@@ -4098,9 +4150,9 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
 - u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
 - v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
-- w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat,
+- w) a Gyerekházak, a krízisközpontok, a félutas házak és a titkos menedékházak finanszírozásának rendjére vonatkozó részletes szabályokat,
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
-- y) a Biztos Kezdet Gyerekház támogatása igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályait,
+- y)
 - z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait,
 - zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait, valamint a pénzbeli és természetbeni szociális és gyermekvédelmi ellátások országos nyilvántartását vezető szerv kijelölését.
 
@@ -4208,7 +4260,27 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (3) A települési önkormányzat jegyzője a 2015. június 5-ét megelőzően megállapított óvodáztatási támogatásra való jogosultságot 2015. október 31-ével megszünteti.
 
-173–188. §
+173. §
+
+174. § (1) Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2015. évi CXXXIII. törvénnyel megállapított 98. § (11)–(14) bekezdését akkor kell alkalmazni, ha
+
+- a) a jogsértést 2015. július 31-ét követően követik el, vagy a jogsértő állapot 2015. július 31-ét követően szűnik meg, és
+- b) a működést engedélyező szerv a jogkövetkezményt 2015. július 31-ét követően állapítja meg.
+
+(2) Ha a 100/A. § (1) bekezdés e) pontja szerinti jogsértő állapot 2015. augusztus 1-jét megelőzően megszűnik, a 2015. augusztus 1-jét megelőzően hatályos bírságösszeget kell alkalmazni.
+
+(3) A fenntartó 2016. február 1-jéig köteles kérelmezni a 2015. december 31-én működő Gyerekházának bejegyzését a szolgáltatói nyilvántartásba. Ha a fenntartó a kérelmet határidőben benyújtja, a Gyerekházat az eljárás befejezéséig úgy kell tekinteni, mintha jogerősen be lenne jegyezve a szolgáltatói nyilvántartásba.
+
+(4) Gyermekjóléti szolgáltatás és családsegítés 2016. január 1-jétől kizárólag egy szolgáltató keretében működtethető. A gyermekjóléti központ feladatainak ellátására 2016. január 1-jétől a települési önkormányzat egyházi fenntartóval és nem állami fenntartóval ellátási szerződést nem köthet.
+
+(5) A települési önkormányzat 2015. október 31-éig felülvizsgálja a családsegítés, illetve a gyermekjóléti szolgáltatási feladatok ellátásának módját, szervezeti kereteit és az e feladatok biztosítására kötött ellátási szerződést. A települési önkormányzat 2015. november 30-áig dönt a családsegítés, illetve a gyermekjóléti szolgáltatási feladatok ellátásának a 2016. január 1-jétől hatályos rendelkezéseknek megfelelő biztosítása módjáról. A fenntartó a szolgáltatói nyilvántartásba bejegyzett adatoknak a (4) bekezdésben foglaltak biztosításához szükséges módosítását 2015. november 30-áig kérelmezi. Ha a fenntartó a kérelmet határidőben benyújtja, az eljárás befejezéséig úgy kell tekinteni, mintha a kérelmezett adatmódosítás jogerősen be lenne jegyezve a szolgáltatói nyilvántartásba.
+
+(6) Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2015. évi CXXXIII. törvénnyel megállapított 40/A. §-t a 2016. január 1-jén folyamatban lévő ügyekben is alkalmazni kell. A nem járásszékhely településen működő gyermekjóléti szolgálat a járásszékhely településen működő gyermekjóléti központnak átadja
+
+- a) 2016. január 10-éig a nála folyamatban lévő 40/A. § (2) bekezdés b) pontja szerinti ügyek iratanyagát, és
+- b) 2016. január 31-éig a nála lezárt 40/A. § (2) bekezdés b) pontja szerinti ügyek iratanyagát.
+
+175–188. §
 
 189. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

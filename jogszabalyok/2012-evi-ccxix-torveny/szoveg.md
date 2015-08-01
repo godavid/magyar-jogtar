@@ -64,7 +64,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 (3) A közgyűlést az alapszabályban meghatározott időközönként, de évente legalább egy alkalommal össze kell hívni.
 
-(4) A közgyűlés időpontjáról és napirendjéről meghívó kiküldésével minden tagot írásban kell értesíteni azzal a figyelmeztetéssel, hogy a közgyűlés a megjelent tagok számára tekintet nélkül határozatképes.
+(4) A közgyűlés időpontjáról és napirendjéről meghívó kiküldésével minden tagot írásban kell értesíteni azzal a figyelmeztetéssel, hogy a közgyűlés a megjelent tagok számára tekintet nélkül határozatképes. Írásbeli közlésnek minősül a meghívó elektronikus levélben való megküldése is.
 
 (5) A közgyűlésen
 
@@ -73,7 +73,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát birtokolhatja akkor is, ha az a) pont alapján többre lenne jogosult.
 
-(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig az év első közgyűlésének napját megelőzően legalább öt nappal eleget tett.
+(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig a közgyűlés napját megelőzően legalább öt nappal eleget tett.
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 
@@ -197,7 +197,7 @@ kezeli.
 
 #### 14. A tagsági viszony keletkezése és megszűnése
 
-17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a borvidéken kívül a szőlészeti és borászati termelő tevékenységet végző nyilvántartásba vételi kötelezettsége azon hónapot követő hónap első napjával keletkezik, amelyben a tevékenységét megkezdi.
+17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a borvidéken kívül a szőlészeti és borászati termelőtevékenységet végző nyilvántartásba-vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
 (2) A szőlészeti és borászati felvásárló nyilvántartásba vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
@@ -258,6 +258,10 @@ kezeli.
 
 (5) Az alapszabály elfogadását követően a hegyközségi tanács székhelye szerint illetékes törvényszéknél kérni kell a hegyközségi tanács nyilvántartásba-vételét. A hegyközségi tanács a bírósági nyilvántartásba vétellel jön létre, az alapszabály elfogadásának napjára visszaható hatállyal. A törvényszék a hegyközségi tanács nyilvántartásba-vételéről szóló határozatát a miniszterrel is közli.
 
+(6) A hegyközségi tanácsnak meg kell küldenie a hatályos alapszabályát, illetve a módosítás hatálybalépését követő 8 napon belül a módosítással egységes szerkezetbe foglalt alapszabályát a Hegyközségek Nemzeti Tanácsa részére.
+
+(7) A hegyközségi tanács minden évben megküldi saját és a részben vagy egészben tulajdonában lévő cégekre vonatkozó éves beszámolóját és mérlegét az annak elfogadását követő 8 napon belül a Hegyközségek Nemzeti Tanácsa részére.
+
 23. § (1) A szőlészeti és borászati szekció azonos számú tagot választ a hegyközségi tanács tagjai közül az igazgatóválasztmányba, és ennek tagjai közül a küldöttek együttes ülésén megválasztja a hegyközségi tanács elnökét és – amennyiben szükséges – alelnökét. Az ügyek viteléért felelős tisztségviselő az elnök.
 
 (2) A hegyközségi tanács javaslata alapján a Hegyközségek Nemzeti Tanácsának főtitkára titkárt nevez ki. A titkár munkáltatója – az 56. § (3) bekezdésben foglalt eltéréssel – a Hegyközségek Nemzeti Tanácsa, felette a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
@@ -277,17 +281,17 @@ kapcsolatos feladatok ellátása.
 
 25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a hegybíró által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet. A küldött nem gyakorolhatja a szavazati jogát, amennyiben az őt delegáló hegyközségnek fenntartási hozzájárulás-tartozása áll fenn. Ha e törvény vagy az alapszabály másként nem rendelkezik, a hegyközségi tanács a döntéseit egyszerű többséggel hozza azzal, hogy a döntéshozatalhoz a szavazásra jogosult küldöttek több mint felének támogató szavazata is kell.
 
-#### 17. A borvidéki régiós tanács
+#### 17. A borrégiós tanács
 
-26. § (1) A hegyközségi tanácsok borrégiónként borvidéki régiós tanácsot alakíthatnak.
+26. § (1) A hegyközségi tanácsok borrégiónként borrégiós tanácsot alakíthatnak.
 
-(2) A borvidéki régiós tanács tagjai a hegyközségi tanácsok elnökei, valamint egy-egy küldöttjük.
+(2) A borrégiós tanács tagjai a hegyközségi tanácsok elnökei, valamint egy-egy küldöttjük.
 
-(3) A borvidéki régiós tanács az általa elfogadott alapszabály szerint működik.
+(3) A borrégiós tanács az általa elfogadott alapszabály szerint működik.
 
-(4) Az alapszabály elfogadását követően a borvidéki régiós tanács székhelye szerint illetékes törvényszéknél kérni kell a borvidéki régiós tanács nyilvántartásba-vételét. A borvidéki régiós tanács a bírósági nyilvántartásba vétellel jön létre, az alapszabály elfogadásának napjára visszaható hatállyal. A törvényszék a borvidéki régiós tanács nyilvántartásba-vételéről szóló határozatát a miniszterrel is közli.
+(4) Az alapszabály elfogadását követően a borrégiós tanács székhelye szerint illetékes törvényszéknél kérni kell a borrégiós tanács nyilvántartásba-vételét. A borrégiós tanács a bírósági nyilvántartásba vétellel jön létre, az alapszabály elfogadásának napjára visszaható hatállyal. A törvényszék a borrégiós tanács nyilvántartásba-vételéről szóló határozatát a miniszterrel is közli.
 
-27. § A borvidéki régiós tanács a tagjai közül elnököt, amennyiben szükséges alelnököt választ. Az ügyek viteléért felelős tisztségviselő az elnök.
+27. § A borrégiós tanács a tagjai közül elnököt, amennyiben szükséges alelnököt választ. Az ügyek viteléért felelős tisztségviselő az elnök.
 
 #### 18. A Hegyközségek Nemzeti Tanácsa
 
@@ -311,11 +315,11 @@ kapcsolatos feladatok ellátása.
 
 (4) Az újratelepítési jogok jogtartalékának megszűnése esetén a (2) bekezdés szerinti joggyakorlásból eredő fennmaradt pénzösszeg a központi költségvetést illeti, amelynek átadásáról a Hegyközségek Nemzeti Tanácsa a megszűnést követő 30 napon belül gondoskodik.
 
-31. § A Hegyközségek Nemzeti Tanácsa ügyintéző szervezetet hoz létre, és arra vonatkozóan szervezeti és működési szabályzatot készít, amelyet az elnökség fogad el. Az ügyintéző szervezet vezetője a főtitkár.
+31. § A Hegyközségek Nemzeti Tanácsa ügyintéző szervezetet hoz létre, és arra vonatkozóan szervezeti és működési szabályzatot készít, amelyet az elnökség fogad el.
 
 #### 19. Közös szabályok
 
-32. § (1) A hegyközségi tanács, a borvidéki régiós tanács és a Hegyközségek Nemzeti Tanácsa egyaránt köztestület.
+32. § (1) A hegyközségi tanács, a borrégiós tanács és a Hegyközségek Nemzeti Tanácsa egyaránt köztestület.
 
 (2) Az (1) bekezdés szerinti szervezetek létrejöttére, alapszabályára, szervezetére és működésére e törvénynek a hegyközségre irányadó szabályait kell megfelelően alkalmazni.
 
@@ -338,7 +342,7 @@ kapcsolatos feladatok ellátása.
 
 (2) A hegyközségi rendtartás a hegyközség területén a borszőlő termőhelyi kataszterbe sorolt területre kiterjedő hatállyal határozza meg az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelmére, valamint az ingatlanok rendeltetésszerű használatával kapcsolatos létesítmények karbantartására vonatkozó szabályokat. A rendtartás ezen előírásait a borszőlő termőhelyi kataszterbe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
 
-(3) Az elfogadott rendtartást meg kell küldeni a hegyközségi tanácsnak, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a borvidéki rendtartással, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközségi tanácsnak a kifogásolt rendelkezést újra kell tárgyalni. A rendtartást – kifogás híján – a hegyközségi tanácsnak történő megküldését követő harminc nap elteltével közzé kell tenni.
+(3) Az elfogadott rendtartást meg kell küldeni a hegyközségi tanácsnak, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a borvidéki rendtartással, ellentétes a Hegyközségek Nemzeti Tanácsának a rendtartás megküldéséig elfogadott határozataival, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközség közgyűlésének a kifogásolt rendelkezést újra kell tárgyalnia. A rendtartást – kifogás híján – a hegyközségi tanácsnak történő megküldését követő harminc nap elteltével közzé kell tenni.
 
 (4) A rendtartást hirdetményi úton, valamint a helyben szokásos más alkalmas módon is közzé kell tenni. A közzététellel egyidejűleg a rendtartást meg kell küldeni a hegyközség tagjainak, a települési önkormányzatnak, valamint a mezőgazdasági igazgatási szervnek is. A rendtartás a hirdetményként való közzététele napját követő harmincadik napon lép hatályba.
 
@@ -354,7 +358,7 @@ kapcsolatos feladatok ellátása.
 
 (2) A borvidéki rendtartás a borvidék borszőlő termőhelyi kataszterbe sorolt területre kiterjedő hatállyal érvényes.
 
-(3) Az elfogadott borvidéki rendtartást meg kell küldeni a Hegyközségek Nemzeti Tanácsának, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközségi tanácsnak a kifogásolt rendelkezést újra kell tárgyalni. A borvidéki rendtartást – kifogás híján – a Hegyközségek Nemzeti Tanácsának történő megküldését követő harminc nap elteltével közzé kell tenni.
+(3) Az elfogadott borvidéki rendtartást meg kell küldeni a Hegyközségek Nemzeti Tanácsának, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a Hegyközségek Nemzeti Tanácsának a rendtartás megküldéséig elfogadott határozataival, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközségi tanácsnak a kifogásolt rendelkezést újra kell tárgyalnia. A borvidéki rendtartást – kifogás híján – a Hegyközségek Nemzeti Tanácsának történő megküldését követő harminc nap elteltével közzé kell tenni.
 
 (4) A borvidéki rendtartást hirdetményi úton, valamint a helyben szokásos más alkalmas módon is közzé kell tenni. A rendtartás a hirdetményként való közzététele napját követő harmincadik napon lép hatályba.
 
@@ -399,7 +403,7 @@ kapcsolatos feladatok ellátása.
 - a) eljár a névjegyzékbe való felvétellel, illetve törléssel kapcsolatos ügyekben, vezeti a hegyközségi névjegyzéket,
 - b) első fokon eljár a közigazgatási hatósági ügyekben,
 - c) az e törvényben, valamint jogszabályban meghatározott módon a hegyközség által vezetett nyilvántartásokból adatot szolgáltat,
-- d) kiadja a telepítési és kivágási engedélyeket, vezeti az újratelepítési jogok nyilvántartását,
+- d) kiadja a telepítési engedélyeket és a kivágási engedélyeket, vezeti az újratelepítési jogok és a telepítési engedélyek nyilvántartását,
 - e) vezeti a gazdasági aktát, ellenőrzi a gazdasági aktában nyilvántartott területek állapotát, a nyilvántartott adatok valóságtartalmát,
 - f) ellátja a számára törvényben meghatározott feladatokat,
 - g) az engedély nélkül telepített, illetve kivágott szőlőültetvényekről értesíti a növénytermesztési hatóságot,
@@ -413,7 +417,13 @@ kapcsolatos feladatok ellátása.
 
 (5) A közgyűlés, illetve a választmány döntése alapján az elnök a 7. § (1) bekezdésének cb) és d) pontja, valamint a 22. § (1) bekezdése szerinti elnöki feladatok ellátásával külön megállapodással megbízhatja a hegybírót.
 
-(6) A hegybíró a közgyűlésen és a választmány ülésén beszámol a tevékenységéről.
+(5a) A Hegyközségek Nemzeti Tanácsának döntése alapján a hegybíró külön megállapodás alapján a Hegyközségek Nemzeti Tanácsa, mint szakmaközi szervezet által hozott intézkedések ellenőrzésével megbízható.
+
+(5b) A hegybíró a szakmaközi szervezet által hozott intézkedések megvalósulásának ellenőrzése során jegyzőkönyvben rögzíti az általa tapasztalt hiányosságokat. A jegyzőkönyvet három munkanapon belül megküldi a szakmaközi szervezetnek vagy kiterjesztett intézkedés esetén a hatósági ellenőrzésre jogosult hatóságnak.
+
+(5c) A megküldött ellenőrzési jegyzőkönyv alapján a szakmaközi szervezet vagy kiterjesztett intézkedés esetén az ellenőrzésre jogosult hatóság az ellenőrzést köteles lefolytatni. Az ellenőrzésre jogosult hatóság az ellenőrzés eredményéről a szakmaközi szervezetet tájékoztatja.
+
+(6) A hegybírót meg kell hívni a közgyűlés és a választmány ülésére. A hegybíró a közgyűlésen és a választmány ülésén beszámol a tevékenységéről.
 
 (7) A hegybírói tisztség betöltésére a pályázatot a hegyközség választmánya írja ki. A hegybíró személyére a beérkezett pályázatok értékelése alapján a Hegyközségek Nemzeti Tanácsa felé a választmány tesz javaslatot. A hegybíró munkáltatója – az 58. § (4) bekezdésben foglalt eltéréssel – Hegyközségek Nemzeti Tanácsa. A hegybíró felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja, aki e jogok gyakorlására – a kinevezés és felmentés kivételével – a hegyközségi tanács titkárát is feljogosíthatja. A hegybíró kinevezése határozatlan időre szól. A 22. § (1) bekezdés szerint működő hegyközség esetében a hegybíró felett a munkáltatói jogok teljes körét a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
 

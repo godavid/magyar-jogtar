@@ -825,7 +825,10 @@ igazolja.
 
 (2) Az E. Alapból a finanszírozási szerződésben foglalt feladatokra folyósított összeg nem mentesíti a szolgáltató fenntartóját (tulajdonos, kezelő) az egyéb jogszabályokban előírt fenntartási és fejlesztési kötelezettségek alól. A finanszírozás keretében folyósított összeg csak a finanszírozási szerződésben foglalt feladatokra használható fel.
 
-(3) Abban az esetben, amikor a finanszírozási szerződés megkötésének szempontjából a helyi önkormányzat minősül egészségügyi szolgáltatónak, a finanszírozás keretében kapott összeg az egészségügyi szolgáltatók működésével kapcsolatos igazgatási kiadásaira nem használható fel.
+(3) Ha a finanszírozási szerződés megkötésének szempontjából a helyi önkormányzat vagy a helyi önkormányzat intézménye minősül egészségügyi szolgáltatónak, a finanszírozás keretében kapott összeg
+
+- a) az egészségügyi szolgáltatók működésével kapcsolatos igazgatási kiadásokra nem használható fel,
+- b) felhasználásáról a helyi önkormányzat vagy a helyi önkormányzat intézménye az érintett egészségügyi dolgozókat havonta tájékoztatja.
 
 (4) A finanszírozott egészségügyi szolgáltató részére – a biztosítási jogviszony keretében igénybe vehető egészségügyi szolgáltatások igénybevehetőségét veszélyeztető – kritikus gazdálkodási helyzet esetén, amennyiben annak megelőzésére, illetve elhárítására saját hatáskörben bizonyíthatóan minden lehetséges intézkedést megtett, valamint a tulajdonos – amennyiben jogszabály eltérően nem rendelkezik – saját forrásaiból meghatározott arányú konkrét hozzájárulást és garanciát vállal, az egészségbiztosító – az E. Alap éves költségvetésében e célra megjelölt előirányzat terhére – egyszeri, kamatmentes működési költségelőleget nyújthat.
 
@@ -837,7 +840,7 @@ igazolja.
 
 (8) Amennyiben az egészségbiztosító tévesen utal valamely egészségügyi szolgáltató részére finanszírozási összeget, jogosult azt a téves utalás megállapításától számított hat hónapon belül az egészségügyi szolgáltató finanszírozási díjából egy összegben vagy több részletben levonni.
 
-#### 35/A. §
+35/A. § A háziorvosi, házi gyermekorvosi szolgáltató kormányrendeletben meghatározottak szerint jogosult szakmailag megalapozott és költséghatékony beutalási tevékenysége alapján az E. Alapból külön díjazásra, amelyet a háziorvosi, házi gyermekorvosi ellátáshoz kapcsolódó fejlesztési célokra fordíthat.
 
 ### A szerződés teljesítésének ellenőrzése
 
@@ -1840,6 +1843,8 @@ meghatározására.
 (2g) Felhatalmazást kap a Kormány, hogy az e törvény szerinti belföldi költségek mértékét, azok megtérítésének módját és feltételeit rendeletben meghatározza.
 
 (2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
+
+(2i) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 35/A. § szerinti külön díjazás feltételeit és felhasználásának részletes szabályait.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 

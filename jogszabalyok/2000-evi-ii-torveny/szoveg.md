@@ -8,7 +8,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi reform végrehajtása, a 
 
 (2) E törvény alkalmazásában
 
-- a) önálló orvosi tevékenység: a területi ellátási kötelezettség körében az egészségügyről szóló 1997. évi CLIV. törvény szerint a háziorvos, a házi gyermekorvos, a fogorvos (a továbbiakban együtt: háziorvos) által nyújtott egészségügyi ellátás;
+- a) önálló orvosi tevékenység: a területi ellátási kötelezettség körében az egészségügyi alapellátásról szóló törvény szerint a háziorvos, a házi gyermekorvos, a fogorvos (a továbbiakban együtt: háziorvos) által nyújtott egészségügyi ellátás;
 - b) orvos: a külön jogszabály szerint vezetett alap- és működési nyilvántartásban szereplő orvosi, fogorvosi szakképesítéssel rendelkező személy;
 - c) praxisjog: az egészségügyi államigazgatási szerv által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.
 
@@ -39,6 +39,8 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (9) A praxisjog bérbe, haszonbérbe nem adható és gyakorlásának joga sem ingyenesen, sem visszterhesen más részére át nem engedhető.
 
+(9a) Az Egészségbiztosítási Alapból a finanszírozás keretében folyósított összeg a praxisjog megszerzése érdekében felhasználható.
+
 (10) A tartósan betöltetlen háziorvosi körzetek miatti ellátási különbségek kiegyenlítésére, a hátrányos helyzetű települési önkormányzatok egészségügyi alapellátási feladatai megszervezésének segítésére külön jogszabály szerint működtetett Praxisprogram szolgál.
 
 2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát – a praxisjogot megszerezni kívánó orvost is megjelölve – az azt elidegeníteni kívánó személy bejelenti az adott praxisjoggal érintett települési önkormányzatnak.
@@ -52,18 +54,23 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (3) Praxisjog folytatása esetén vélelmezni kell, hogy az (1) bekezdés szerinti önkormányzat a praxisjogot folytató háziorvossal az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kíván kötni.
 
-2/B. § (1) A praxisjoggal rendelkező háziorvos és az adott praxisjoggal érintett települési önkormányzat közötti feladat-ellátási szerződés (a továbbiakban: feladat-ellátási szerződés) legalább az alábbiakat tartalmazza:
+2/B. § (1) A praxisjoggal rendelkező háziorvos és az adott praxisjoggal érintett települési önkormányzat közötti feladat-ellátási szerződés (a továbbiakban: feladat-ellátási szerződés) kötelezően tartalmazza legalább az alábbi tartalmi elemeket:
 
 - a) a felek megnevezése, a személyes ellátásra kötelezett orvos megnevezésével,
 - b) a praxisjoggal érintett körzet meghatározása,
 - c) a felek kötelezettségeinek meghatározása, ideértve a települési önkormányzatnak a fenntartáshoz történő hozzájárulására vonatkozó szabályokat,
-- d) a rendelési idő meghatározása,
+- d) a rendelési idő meghatározása, azzal, hogy az adott településen működő, praxisjoggal rendelkező háziorvosok kötelesek rendelési idejüket összehangoltan kialakítani,
 - e) az ügyeletben történő részvételre vonatkozó rendelkezések,
 - f) a helyettesítésre vonatkozó rendelkezések,
 - g) az ellátás nyújtásában részt vevő egészségügyi szakdolgozókra vonatkozó rendelkezések,
 - h) a szerződés időtartama,
 - i) a felmondásra vonatkozó rendelkezések,
 - j) a kártérítésre, kártalanításra vonatkozó rendelkezések.
+
+(1a) Az (1) bekezdés c) pontja szerinti fenntartási kötelezettség körében a települési önkormányzat köteles gondoskodni
+
+- a) az egészségügyért felelős miniszter rendeletében meghatározott rendelő (a továbbiakban: rendelő) praxisjoggal rendelkező háziorvos részére történő térítésmentes használatba adásáról,
+- b) – amennyiben a rendelő nem a háziorvos vagy a háziorvosi szolgáltató tulajdonában van – a rendelő külső homlokzati részei karbantartásáról, felújításáról, valamint a falakban elhelyezkedő vezetékek és a központi fűtésrendszer teljes vagy részleges cseréjével járó munkák elvégzéséről.
 
 (2) A feladat-ellátási szerződés legrövidebb időtartama 5 év.
 
@@ -121,4 +128,5 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
   - aa) a praxisjog megszerzésének és visszavonásának feltételeit és eseteit, a helyettesítés eseteit, valamint a praxisjog átengedésére vonatkozó szabályokat rendeletben megállapítsa,
   - ab) a praxiskezelőt kijelölje, valamint feladat- és hatáskörét, továbbá eljárásának szabályait rendeletben meghatározza,
   - ac) a praxiskezelő által nyújtott kamatmentes visszatérítendő támogatásra, valamint a praxiskezelő által szedett díjra vonatkozó részletes szabályokat rendeletben megállapítsa,
+  - ad) a feladat-ellátási szerződés formai követelményeit rendeletben meghatározza,
 - b) az egészségügyért felelős miniszter, hogy a praxisjog alapján végzett tevékenység gyakorlásának és ellenőrzésének részletes szakmai szabályait, továbbá a helyettesítésre, a tevékenység végzéséhez szükséges szakképesítésre és az alkalmassági vizsgálatra vonatkozó szabályokat rendeletben meghatározza.
