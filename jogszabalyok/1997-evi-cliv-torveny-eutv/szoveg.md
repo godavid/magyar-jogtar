@@ -770,16 +770,7 @@ révén a munkát végző személy egészségének megóvása.
 - f) kidolgozza a megelőzés stratégiáját;
 - g) szolgálatai útján hatósági felügyeletet lásson el a munkahigiéne céljának megvalósítása érdekében.
 
-55. § A foglalkozás-egészségügy feladata, hogy
-
-- a) a munkahigiéne által feltárt adatok ismeretében elemezze az egyes munkakörnyezeti kóroki tényezők emberre kifejtett hatását, az ember válaszreakcióját, feltárja ez utóbbiakra jellemző paramétereket;
-- b) kidolgozza a foglalkozási megbetegedések korai felismerésére alkalmas eljárásokat;
-- c) meghatározza a munkavállaló munkavégzéssel kapcsolatos összmegterhelését;
-- d) a munkavállaló orvosi vizsgálatával megállapítsa annak terhelhetőségét, hogy eldöntse a munkavállaló adott munkakörre, szakmára való egészségi alkalmasságát, és meghatározza a foglalkoztathatóság feltételeit;
-- e) a munkakörnyezet és a munka jellegének ismeretében meghatározza az alkalmassági vizsgálatok gyakoriságát;
-- f) a munkavállalót a munkakör ellátására alkalmasnak vagy alkalmatlannak minősítse, továbbá meghatározza, hogy milyen munkakörnyezetben, mely feltételek mellett alkalmas munkavégzésre;
-- g) fokozott figyelmet fordítson a fiatalkorúak, a nők, a terhes nők, a szoptatós anyák, az időskorúak, az idült betegek, a fogyatékosok egészségi állapotának ellenőrzésére munkavégzésük során;
-- h) a megváltozott munkaképességű személyek foglalkozási rehabilitációját kezdeményezze, illetőleg abban részt vegyen.
+55. § A foglalkozás-egészségügy feladatait az egészségügyi alapellátásról szóló törvény tartalmazza.
 
 ### 6. CÍM — Járványügy
 
@@ -1171,19 +1162,7 @@ alapul.
 
 ### Az alapellátás
 
-88. § (1) A beteg lakóhelyén, illetve annak közelében biztosítani kell, hogy választása alapján igénybe vehető, hosszú távú, személyes kapcsolaton alapuló, nemétől, korától és betegsége természetétől függetlenül folyamatos egészségügyi ellátásban részesüljön.
-
-(1a) A háziorvos, illetve házi gyermekorvos választásának jogát a teljesen cselekvőképes személy személyesen, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy teljesen korlátozott nagykorú személy pedig törvényes képviselője útján gyakorolja. A háziorvos, illetve házi gyermekorvos választására vonatkozó részletes szabályokat a miniszter rendeletben határozza meg.
-
-(2) Az (1) bekezdésben foglalt alapellátás célja
-
-- a) az ellátott lakosságra vonatkozó, a 79. § szerinti megelőző tevékenység;
-- b) az egyén
-  - ba) egészségi állapotának figyelemmel kísérése, valamint egészségügyi felvilágosítása és nevelése,
-  - bb) külön jogszabályban meghatározott kompetencia keretében történő gyógykezelése, gondozása és rehabilitációja az adott diagnosztikus és terápiás háttér mellett,
-  - bc) szakorvoshoz történő irányítása a betegség megállapítása, kezelési terv készítése vagy terápiás ellátás céljából,
-  - bd) gyógykezelése, házi ápolása és rehabilitációja a kezelőorvos által javasolt terápiás terv alapján;
-- c) szükség esetén a bb) és a bd) alpontban foglaltaknak a beteg otthonában történő ellátása, illetőleg a beteg otthonában végzendő szakorvosi konzílium kérése.
+88. § Az alapellátás célját és feladatait az egészségügyi alapellátásról szóló törvény határozza meg.
 
 ### Járóbeteg-szakellátás
 
@@ -2358,15 +2337,7 @@ költségének fedezetét.
 
 ### A helyi önkormányzatok feladatai
 
-152. § (1) A települési önkormányzat az egészségügyi alapellátás körében gondoskodik:
-
-- a) a háziorvosi, házi gyermekorvosi ellátásról,
-- b) a fogorvosi alapellátásról,
-- c) az alapellátáshoz kapcsolódó ügyeleti ellátásról,
-- d) a védőnői ellátásról,
-- e) az iskola-egészségügyi ellátásról.
-
-(2) A települési önkormányzat képviselő-testülete – a kormányrendelet szerinti praxiskezelő által megadott szempontokat figyelembe véve – megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok egyetértésben állapítják meg.
+152. § (1)–(2)
 
 (3) A helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségének részeként gondoskodik
 
@@ -2376,15 +2347,9 @@ költségének fedezetét.
 
 (3a) A helyi önkormányzat (3) bekezdés szerinti vagyona a (3) bekezdés szerinti intézményműködtetési kötelezettség keretében ellátandó egészségügyi szakellátási feladat teljesítését szolgálja.
 
-(4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzatnak az adatokban bekövetkezett változást követő 15 napon belüli tájékoztatása alapján – nyilvántartást vezet. Az egészségügyi államigazgatási szerv a változást 8 napon belül átvezeti a nyilvántartáson.
+(4)
 
-(5) A (4) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
-
-- a) az érintett szakma megnevezése, szakmakódja,
-- b) a körzet székhelye,
-- c) a körzetnek a település érintett részének közterületek általi lehatárolása helyrajzi szám, utcanevek, házszámok szerint,
-- d) a körzetet létrehozó települési önkormányzat, illetve települési önkormányzatok megnevezése, székhelye,
-- e) a körzet határát kijelölő önkormányzati rendelet száma.
+(5)
 
 152/A. § A települési önkormányzat együttműködik a lakosságra, közösségekre, családi, munkahelyi, iskolai színterekre irányuló egészségfejlesztési tevékenységekben az ezeket végző szervekkel és személyekkel, valamint támogatja és aktívan kezdeményezi ezen tevékenységeket.
 
@@ -3759,7 +3724,7 @@ rendeletben megállapítsa.
   - kl) a piacfelügyeleti eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
   - km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilvántartásba vételi, időszakos felülvizsgálati eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
   - kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
-- l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
+- l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének szabályiat.
 - m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
 - o) az emberen végzett orvostudományi kutatásra vonatkozó részletes szabályokat,
@@ -3798,7 +3763,7 @@ rendeletben állapítsa meg.
 - i) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
 - j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 - k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
-- l) a háziorvos, házi gyermekorvos választásának, a jelentkezésnek, a jelentkezés elutasításának, az átjelentkezésnek, valamint az ezzel kapcsolatos vitás kérdések rendezésének a részletes szabályait,
+- l)
 - m) a sugárszennyezett vagy arra gyanús személy egészségügyi ellátásának, valamint a sugárszennyezett személy elkülönítésének részletes szabályait,
 - n) egyes, környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegek és létesítmények vonatkozásában
   - na) a fertőzés kockázatának csökkentésére és megelőzésére irányuló közegészségügyi előírásokat,
