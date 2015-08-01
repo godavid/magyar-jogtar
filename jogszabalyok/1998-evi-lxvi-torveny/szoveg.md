@@ -84,7 +84,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 - c) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a kifizetőt terhelő összege,
 - d) az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről szóló kormányrendelet alapján nyújtott keresetkiegészítés.
 - e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
-- f) az iskolai szövetkezet és az iskolai szövetkezeti csoport nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának az iskolai szövetkezet, illetve az iskolai szövetkezeti csoport tevékenységében kifejtett személyes közreműködéséért a törvény hatálybalépését követően kapott ellenszolgáltatás.
+- f) az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is – az iskolaszövetkezet tevékenységében kifejtett személyes közreműködéséért kapott ellenszolgáltatás,
 - g)
 - h) bármely EGT-államban működő, a tőkepiacról szóló törvény szerint elismert (szabályozott) piacnak minősülő tőzsdére bevezetett értékpapírnak az adott tagállam joga szerint osztaléknak (osztalékelőlegnek) minősülő hozama,
 - i) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt a volt pénztártagnak kifizetett, a hozamgarantált tőke összege feletti összeg.

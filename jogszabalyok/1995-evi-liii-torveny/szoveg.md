@@ -1407,6 +1407,8 @@ A KÖRNYEZETVÉDELEMBEN
 
 (6) A környezeti elemekre és az azokat veszélyeztető tényezőkre vonatkozó új jogszabályok hatálybalépéséig a szabályozás tárgyát képező kormány-, illetőleg miniszteri rendeletek előírásait kell alkalmazni.
 
+(6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, illetőleg mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, illetőleg az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
+
 (7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - 1. a települési önkormányzat polgármesterének és jegyzőjének részletes környezetvédelmi államigazgatási hatáskörét;

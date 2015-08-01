@@ -1729,45 +1729,49 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ## NYOLCADIK RÉSZ — EGYES FÖLDRAJZI ÁRUJELZŐK UNIÓS OLTALMÁRA ÉS AZ EREDETMEGJELÖLÉSEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ RENDELKEZÉSEK
 
-### XVII/A. Fejezet — A mezőgazdasági termékek és az élelmiszerek, a szőlészeti és borászati termékek, valamint a szeszes italok földrajzi árujelzőinek uniós oltalmára vonatkozó rendelkezések
+### XVII/A. Fejezet — A MEZŐGAZDASÁGI TERMÉKEK ÉS AZ ÉLELMISZEREK, A SZŐLÉSZETI ÉS BORÁSZATI TERMÉKEK, AZ ÍZESÍTETT BORÁSZATI TERMÉKEK, VALAMINT A SZESZES ITALOK FÖLDRAJZI ÁRUJELZŐINEK UNIÓS OLTALMÁRA VONATKOZÓ RENDELKEZÉSEK
 
 116/A. § (1) A mezőgazdasági termékek és az élelmiszerek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1151/2012/EU rendelet) rendelkezései az irányadók.
 
-(2) A szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: 1234/2007/EK rendelet) rendelkezései az irányadók.
+(2) A szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) rendelkezései, az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 251/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 251/2014/EU rendelet) rendelkezései az irányadók.
 
-(3) Az 1151/2012/EU rendelet, illetve az 1234/2007/EK rendelet alapján a tagállami hatáskörbe tartozó ügyekben a miniszter és a Szellemi Tulajdon Nemzeti Hivatala jár el.
+(3) Az 1151/2012/EU rendelet, az 1308/2013/EU rendelet, illetve a 251/2014/EU rendelet alapján a tagállami hatáskörbe tartozó ügyekben a miniszter és a Szellemi Tulajdon Nemzeti Hivatala jár el.
 
-(4) Az 1151/2012/EU rendelet 49. cikke szerinti, valamint az 1234/2007/EK rendelet 118c. cikkének (1) bekezdése szerinti kérelmet (e fejezet alkalmazásában a továbbiakban együtt: kérelem) a miniszterhez kell benyújtani. A miniszter a benyújtást követően haladéktalanul továbbítja a Szellemi Tulajdon Nemzeti Hivatalának a külön jogszabályban meghatározott feltételeknek megfelelő kérelmet.
+(4) Az 1151/2012/EU rendelet 49. cikke szerinti, az 1308/2013/EU rendelet 94. cikk (1) bekezdése szerinti, valamint a 251/2014/EU rendelet 10. cikk (1) bekezdése szerinti kérelmet (e fejezet alkalmazásában a továbbiakban együtt: kérelem) a miniszterhez kell benyújtani. A miniszter a benyújtást követően haladéktalanul továbbítja a Szellemi Tulajdon Nemzeti Hivatalának a jogszabályban meghatározott feltételeknek megfelelő kérelmet.
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala a kérelmet soron kívül megvizsgálja abból a szempontból, hogy az kielégíti-e a következőket:
 
 - a) mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendelet 5–6. cikkeiben előírt követelmények;
-- b) szőlészeti és borászati termékek esetében az 1234/2007/EK rendelet 118b., 118j. és 118k. cikkében előírt követelmények.
+- b) szőlészeti és borászati termékek esetében az 1308/2013/EU rendelet 93., 100. és 101. cikkében előírt követelmények,
+- c) az ízesített borászati termékek esetében a 251/2014/EU rendelet 2., 17. és 18. cikkében előírt követelmények.
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala által végzett vizsgálat nem terjed ki arra, hogy fennáll-e
 
 - a) az 1151/2012/EU rendelet 5. cikke (1)–(2) bekezdésének értelmében a mezőgazdasági termék vagy az élelmiszer és a földrajzi elnevezés közötti kapcsolat;
-- b) az 1234/2007/EK rendelet 118b. cikke (1) bekezdésének a) és b) pontja értelmében a szőlészeti vagy borászati termék és a földrajzi elnevezés közötti kapcsolat.
+- b) az 1308/2013/EU rendelet 93. cikk (1) bekezdés a) és b) pontja értelmében a szőlészeti vagy borászati termék és a földrajzi elnevezés közötti kapcsolat,
+- c) a 251/2014/EU rendelet 2. cikk 3. pontja értelmében az ízesített borászati termék és a földrajzi elnevezés közötti kapcsolat.
 
 (7) A Szellemi Tulajdon Nemzeti Hivatala a kérelem beérkezésétől számított két hónapon belül nyilatkozik a miniszternek arról, hogy az (5) bekezdés szerint vizsgált követelmények alapján egyetért-e a kérelemnek az Európai Bizottsághoz történő, (9) bekezdés szerinti továbbításával.
 
-(8) A miniszter a Szellemi Tulajdon Nemzeti Hivatalának a (7) bekezdés szerinti nyilatkozatát és a kérelem külön jogszabály szerint lefolytatott részletes vizsgálatát követően a kérelmet közzéteszi az általa vezetett minisztérium hivatalos lapjában. A kérelemmel szemben a közzétételtől számított két hónapon belül kifogást lehet benyújtani az 1151/2012/EU rendelet 49. cikke (3) bekezdésének, illetve az 1234/2007/EK rendelet 118f. cikke (3)–(4) bekezdéseiben foglaltaknak megfelelően. A kifogást a miniszter – iparjogvédelmi kérdésekben a Szellemi Tulajdon Nemzeti Hivatala egyetértésével – a (9) bekezdés szerinti határozatában bírálja el.
+(8) A miniszter a Szellemi Tulajdon Nemzeti Hivatalának a (7) bekezdés szerinti nyilatkozatát és a kérelem jogszabály szerint lefolytatott részletes vizsgálatát követően a kérelmet közzéteszi az általa vezetett minisztérium hivatalos lapjában. A kérelemmel szemben a közzétételtől számított két hónapon belül kifogást lehet benyújtani az 1151/2012/EU rendelet 49. cikk (3) bekezdésében, az 1308/2013/EU rendelet 96. cikk (3) és (4) bekezdésében, illetve a 251/2014/EU rendelet 13. cikk (3) és (4) bekezdésében foglaltaknak megfelelően. A kifogást a miniszter – iparjogvédelmi kérdésekben a Szellemi Tulajdon Nemzeti Hivatala egyetértésével – a (9) bekezdés szerinti határozatában bírálja el.
 
-(9) A miniszter a Szellemi Tulajdon Nemzeti Hivatala nyilatkozatával összhangban és a külön jogszabály alapján lefolytatott részletes vizsgálatát követően, a kérelem benyújtásától számított kilenc hónapon belül határoz arról, hogy a kérelem megfelel-e az e törvényben, valamint a külön jogszabályban meghatározott feltételeknek. A miniszter a határozatot a termékleírással együtt közzéteszi az általa vezetett minisztérium hivatalos lapjában. A kérelemnek helyt adó határozat jogerőre emelkedése esetén a miniszter továbbítja az Európai Bizottsághoz az 1151/2012/EU rendelet 8. cikke (2) bekezdésében, illetve az 1234/2007/EK rendelet 118f. cikke (5) bekezdésének b) pontjában meghatározott adatokat, illetve iratokat.
+(9) A miniszter a Szellemi Tulajdon Nemzeti Hivatala nyilatkozatával összhangban és a jogszabály alapján lefolytatott részletes vizsgálatát követően, a kérelem benyújtásától számított kilenc hónapon belül határoz arról, hogy a kérelem megfelel-e az e törvényben, valamint a jogszabályban meghatározott feltételeknek. A miniszter a határozatot a termékleírással együtt közzéteszi az általa vezetett minisztérium hivatalos lapjában. A kérelemnek helyt adó határozat jogerőre emelkedése esetén a miniszter továbbítja az Európai Bizottsághoz az 1151/2012/EU rendelet 8. cikk (2) bekezdésében, a 251/2014/EU rendelet 13. cikk (5) bekezdésének b) pontjában meghatározott adatokat, illetve iratokat.
 
-(10) A kérelemnek helyt adó, (9) bekezdés szerinti határozat meghozatalával – az 1151/2012/EU rendelet 9. cikke első albekezdésében, illetve az 1234/2007/EK rendelet 118f. cikkének (7) bekezdésében szabályozott – átmeneti oltalom keletkezik a kérelemnek az Európai Bizottsághoz történő benyújtása napjától kezdődő hatállyal. Az átmeneti oltalom keletkezésének napjáról a miniszter értesíti a kérelmezőt. Bitorlás miatt az a kérelmező is felléphet, akinek a földrajzi árujelzője átmeneti oltalomban részesül, de az eljárást fel kell függeszteni mindaddig, amíg a kérelemről az Európai Bizottság jogerősen nem döntött.
+(10) A kérelemnek helyt adó, (9) bekezdés szerinti határozat meghozatalával – az 1151/2012/EU rendelet 9. cikk első albekezdésében, illetve a 251/2014/EU rendelet 13. cikk (7) bekezdésében szabályozott – átmeneti oltalom keletkezik a kérelemnek az Európai Bizottsághoz történő benyújtása napjától kezdődő hatállyal. Az átmeneti oltalom keletkezésének napjáról a miniszter értesíti a kérelmezőt. Bitorlás miatt az a kérelmező is felléphet, akinek a földrajzi árujelzője átmeneti oltalomban részesül, de az eljárást fel kell függeszteni mindaddig, amíg a kérelemről az Európai Bizottság jogerősen nem döntött.
 
 (11) Az (1)–(10) bekezdések rendelkezéseit megfelelően alkalmazni kell
 
 - a) mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendelet 53. cikke alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint az 54. cikke alapján benyújtott törlési kérelmek tekintetében;
-- b) szőlészeti és borászati termékek esetében az 1234/2007/EK rendelet 118q. cikke alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint az 118r. cikke alapján benyújtott törlési kérelmek tekintetében.
+- b) szőlészeti és borászati termékek esetében az 1308/2013/EU rendelet 105. cikke alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint a 106. cikke alapján benyújtott törlési kérelmek tekintetében,
+- c) ízesített borászati termékek esetében a 251/2014/EU rendelet 24. cikke alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint a 25. cikke alapján benyújtott törlési kérelmek tekintetében.
 
-(12) Az 1151/2012/EU rendelet 51. cikke (1) bekezdésének második albekezdése szerinti kifogást a miniszterhez kell benyújtani az 1151/2012/EU rendelet 50. cikke (2) bekezdésének a) pontja szerinti adatnak, illetve iratnak az Európai Unió Hivatalos Lapjában történő közzétételétől számított négy hónapon belül. A kifogással kapcsolatos tagállami feladatokat a miniszter – iparjogvédelmi kérdésekben a Szellemi Tulajdon Nemzeti Hivatala egyetértésével – látja el.
+(12) Az 1151/2012/EU rendelet 51. cikk (1) bekezdés második albekezdése, az 1308/2013/EU rendelet 98. cikk második albekezdése, illetve a 251/2014/EU rendelet 15. cikk második albekezdése szerinti kifogást a miniszterhez kell benyújtani az 1151/2012/EU rendelet 50. cikk (2) bekezdés a) pontja, az 1308/2013/EU rendelet 97. cikk (3) bekezdése, illetve a 251/2014/EU rendelet 14. cikk (3) bekezdése szerinti adatnak, illetve iratnak az Európai Unió Hivatalos Lapjában történő közzétételétől számított négy hónapon belül. A kifogással kapcsolatos tagállami feladatokat a miniszter – iparjogvédelmi kérdésekben a Szellemi Tulajdon Nemzeti Hivatala egyetértésével – látja el.
 
 (13) A 27–28. §-ok és a XII. fejezet rendelkezéseit megfelelően alkalmazni kell
 
 - a) a mezőgazdasági termékek és az élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek uniós oltalmát, illetve a (9) bekezdésében szabályozott átmeneti oltalmát sértő, az 1151/2012/EU rendelet 13. cikkének (1) bekezdésében meghatározott cselekmények elkövetése esetén;
-- b) a szőlészeti és borászati termékek földrajzi jelzéseinek és eredetmegjelöléseinek uniós oltalmát, illetve a (9) bekezdésben szabályozott átmeneti oltalmát sértő, az 1234/2007/EK rendelet 118m. cikkének (2) bekezdésében meghatározott cselekmények elkövetése esetén.
+- b) a szőlészeti és borászati termékek földrajzi jelzéseinek és eredetmegjelöléseinek uniós oltalmát, illetve a (9) bekezdésben szabályozott átmeneti oltalmát sértő, az 1308/2013/EU rendelet 103. cikk (2) bekezdésében meghatározott cselekmények elkövetése esetén,
+- c) az ízesített borászati termékek földrajzi jelzéseinek uniós oltalmát, illetve a (9) bekezdésben szabályozott átmeneti oltalmát sértő, a 251/2014/EU rendelet 20. cikk (2) bekezdésében meghatározott cselekmények elkövetése esetén.
 
 116/B. § (1) A szeszes italok földrajzi árujelzőinek uniós oltalmára a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 110/2008/EK rendelet) rendelkezései az irányadók. A 110/2008/EK rendelet alapján a tagállami hatáskörbe tartozó ügyekben a miniszter jár el.
 
@@ -1781,11 +1785,11 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 - a) mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendelet 37. cikkének (1) bekezdésében említett terméktanúsító szervezetek;
 - b) szeszes italok esetében a 110/2008/EK rendelet 22. cikkének (1) bekezdésében említett terméktanúsító szervezetek;
-- c) szőlészeti és borászati termékek esetében az 1234/2007/EK rendelet 118p. cikkének (1) bekezdésében említett terméktanúsító szervezetek.
+- c) szőlészeti és borászati termékek esetében az 1308/2013/EU rendelet 94. cikk (2) bekezdésének i) pontjában említett ellenőrző szervezetek, illetve az ízesített borászati termékek esetében a 251/2014/EU rendelet 23. cikk (1) bekezdésében említett terméktanúsító szervezetek.
 
 (2) Az (1) bekezdés szerinti külön jogszabály
 
-- a) feltételhez kötheti a földrajziárujelző-oltalomban részesülő mezőgazdasági termékek és élelmiszerek, szeszes italok, valamint szőlészeti és borászati termékek előállítását, illetve forgalomba hozatalát, valamint
+- a) feltételhez kötheti a földrajziárujelző-oltalomban részesülő mezőgazdasági termékek és élelmiszerek, szeszes italok, szőlészeti és borászati termékek, valamint ízesített borászati termékek előállítását, illetve forgalomba hozatalát, valamint
 - b) megtilthatja a földrajzi árujelző használatát.
 
 (3) Ha az előállító nem teljesíti a (2) bekezdés a) pontja szerinti feltételt vagy nem felel meg a (2) bekezdés b) pontja szerinti tilalomnak, és a termékleírásnak nem megfelelő terméken továbbra is használja a földrajzi árujelzőt – külön jogszabályban meghatározott mértékű – bírságot köteles fizetni.
@@ -1921,7 +1925,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 121. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a védjegybejelentések és a megújítási kérelmek elektronikus úton való benyújtására vonatkozó részletes szabályokat rendelettel megállapítsa;
-- b) a mezőgazdasági termékek és az élelmiszerek, a szeszes italok, valamint a szőlészeti és borászati termékek földrajzi árujelzőinek oltalmára irányuló eljárásra, a termékek ellenőrzésére és az azzal kapcsolatban felmerülő eljárási költségekre, az ellenőrzés során kiszabható bírság mértékére, valamint a 110/2008/EK rendelet 20. cikke, illetve az 1234/2007/EK rendelet 118s. cikke értelmében oltalomban részesülő szeszes italok, illetve szőlészeti és borászati termékek esetében a termékleírás benyújtására, valamint az érintett forgalomba hozatali, előállítási feltételek körére, továbbá a földrajzi árujelző használatának tilalmi körére vonatkozó részletes szabályokat rendelettel megállapítsa, és az ellenőrző hatóságot vagy hatóságokat kijelölje.
+- b) a mezőgazdasági termékek és az élelmiszerek, a szeszes italok, a szőlészeti és borászati termékek, valamint az ízesített borászati termékek földrajzi árujelzőinek oltalmára irányuló eljárásra, a termékek ellenőrzésére és az azzal kapcsolatban felmerülő eljárási költségekre, az ellenőrzés során kiszabható bírság mértékére, valamint a 110/2008/EK rendelet 20. cikke értelmében oltalomban részesülő szeszes italok, az 1308/2013/EU rendelet 107. cikke értelmében oltalomban részesülő szőlészeti és borászati termékek, illetve a 251/2014/EU rendelet 26. cikke értelmében oltalomban részesülő ízesített borászati termékek esetében a termékleírás benyújtására, valamint az érintett forgalombahozatali, előállítási feltételek körére, továbbá a földrajzi árujelző használatának tilalmi körére vonatkozó részletes szabályokat rendelettel megállapítsa, és az ellenőrző hatóságot vagy hatóságokat kijelölje.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – a védjegybejelentés és a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályait rendelettel megállapítsa.
 
@@ -1938,4 +1942,5 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet;
 - c) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 510/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 14-i 1898/2006/EK bizottsági rendelet;
 - d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet III. fejezete;
-- e) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet II. része II. címe I. fejezetének Ia. szakasza.
+- e) a szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet II. része II. címe I. fejezetének 2. szakasza,
+- f) az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 251/2014/EU európai parlamenti és tanácsi rendelet III. fejezete.

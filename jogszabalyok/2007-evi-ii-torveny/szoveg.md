@@ -35,7 +35,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 - l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – Magyarország területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
 - m) száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély;
-- n) dublini rendeletek: egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet;
+- n) dublini rendeletek: egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet, valamint egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1560/2003/EK rendelet módosításáról szóló, 2014. január 30-i, 118/2014/EU bizottsági végrehajtási rendelet;
 - o) foglalkoztatás: a vonatkozó jogszabályokkal összhangban bármely munka- vagy foglalkoztatási formát magában foglaló, munkavégzésre irányuló jogviszony alapján történő, valamely munkáltató javára, vagy irányítása alatt végzett tevékenység;
 - p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel;
 - q) felsőfokú szakmai képesítés: a felsőfokú végzettséget és szakképzettséget tanúsító felsőfokú képesítés;
@@ -809,11 +809,14 @@ miatt utasított ki.
 
 47. § (1) Az idegenrendészeti kiutasítással együtt – ha e törvény másként nem rendelkezik – beutazási és tartózkodási tilalmat kell elrendelni, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kitoloncolását rendelte el.
 
-(2) Az idegenrendészeti hatóság a beutazási és tartózkodási tilalmat önálló határozattal rendeli el, ha a harmadik országbeli állampolgár kitoloncolását a 65. § (1) bekezdés d) pontja alapján rendelte el.
+(2) Az idegenrendészeti hatóság a beutazási és tartózkodási tilalmat önálló határozattal rendeli el, ha
+
+- a) a harmadik országbeli állampolgár kitoloncolását a 65. § (1) bekezdés d) pontja alapján rendelte el, vagy
+- b) a menekültügyi hatóság által hozott kiutasító döntést az idegenrendészeti hatóság kitoloncolással rendelte el végrehajtani.
 
 (3) A beutazási és tartózkodási tilalmat elrendelő önálló határozat ellen a harmadik országbeli állampolgár fellebbezést terjeszthet elő. A határozat ellen további jogorvoslatnak nincs helye. A fellebbezés a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. Az idegenrendészeti hatóság a fellebbezést az ügy irataival együtt haladéktalanul megküldi a fellebbezés elbírálására jogosult hatóságnak, mely a fellebbezést nyolc napon belül bírálja el.
 
-(4) Az idegenrendészeti hatóság a 43. § (2) bekezdésében meghatározott kiutasítási okok alapján elrendelt kiutasítás esetén beutazási és tartózkodási tilalmat rendelhet el a jogsértés jellegére és súlyára, a harmadik országbeli állampolgár személyes körülményeire, ismételt beutazásának és tartózkodásának a közrendre, a közbiztonságra vagy a nemzetbiztonságra jelentett veszélyére figyelemmel.
+(4) Az idegenrendészeti hatóság a 43. § (2) bekezdésében meghatározott kiutasítási okok alapján, vagy a menekültügyi hatóság által elrendelt kiutasítás esetén beutazási és tartózkodási tilalmat rendelhet el a jogsértés jellegére és súlyára, a harmadik országbeli állampolgár személyes körülményeire, ismételt beutazásának és tartózkodásának a közrendre, a közbiztonságra vagy a nemzetbiztonságra jelentett veszélyére figyelemmel.
 
 (5) A kiutasítással együtt vagy az önálló határozatban elrendelt beutazási és tartózkodási tilalom időtartamát években kell meghatározni, és – a (6) bekezdésben foglalt kivétellel – legfeljebb öt évre kell elrendelni.
 
@@ -825,7 +828,7 @@ miatt utasított ki.
 
 (9) A beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból vagy kérelemre – visszavonhatja ha,
 
-- a) a harmadik országbeli állampolgárral szemben a 43. § (2) bekezdése alapján került sor kiutasítással együtt beutazási és tartózkodási tilalom elrendelésére és a harmadik országbeli állampolgár bizonyítani tudja, hogy a kiutasító határozatnak teljes mértékben eleget téve elhagyta az Európai Unió tagállamainak területét, vagy
+- a) a harmadik országbeli állampolgárral szemben a beutazási és tartózkodási tilalom elrendelésére, a kiutasítással együtt, a 43. § (2) bekezdése alapján, vagy a menekültügyi hatóság által elrendelt kiutasítással együtt, vagy azt követően került sor, és a harmadik országbeli állampolgár bizonyítani tudja, hogy a kiutasító határozatnak teljes mértékben eleget téve elhagyta az Európai Unió tagállamainak területét, vagy
 - b) további fenntartása az elrendelésére okot adó körülmények jelentős megváltozására figyelemmel nem indokolt.
 
 (10) A 43. § (2) bekezdése alapján elrendelt idegenrendészeti kiutasítást, valamint a beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból – visszavonhatja, ha a kiutasítás végrehajtására a harmadik országbeli állampolgárnak nem felróható okból a kiutasítás végrehajthatóvá válásától számított tizenkét hónapig nem került sor.
@@ -836,7 +839,7 @@ miatt utasított ki.
 
 (3) A kiutasítás végrehajtását a kiutasítás feltételeinek biztosításáig, így különösen az úti okmány, vízum, menetjegy beszerzéséig fel lehet függeszteni. A felfüggesztést elrendelő végzés ellen nincs helye jogorvoslatnak.
 
-(4) A menedékjog iránti kérelem benyújtását megelőzően elrendelt kiutasítás végrehajtását az idegenrendészeti hatóság a külön jogszabály alapján folytatott menedékjogi eljárás jogerős befejezéséig felfüggeszti, ha a harmadik országbeli állampolgár külön törvényben meghatározottak szerint jogosult Magyarország területén való tartózkodásra. A felfüggesztést elrendelő végzés ellen nincs helye jogorvoslatnak.
+(4) A nemzetközi védelem iránti kérelem benyújtását megelőzően elrendelt kiutasítás végrehajtását az idegenrendészeti hatóság jogszabály alapján folytatott menekültügyi eljárás befejezéséig felfüggeszti, ha a harmadik országbeli állampolgár törvényben meghatározottak szerint jogosult Magyarország területén való tartózkodásra. A felfüggesztést elrendelő végzés ellen nincs helye jogorvoslatnak.
 
 48/A. § (1) Ha a harmadik országbeli állampolgár kiutasítására irányuló idegenrendészeti eljárás során arra utaló tény merül fel, hogy a dublini rendeletek alkalmazásának feltételei állnak fenn, és a harmadik országbeli állampolgár a menedékjogi törvény szerinti elismerés iránti kérelmet nem terjesztett elő, az idegenrendészeti hatóság kezdeményezi a menekültügyi hatóságnál, hogy a dublini eljárást folytassa le, és annak befejezéséig az idegenrendészeti eljárást felfüggeszti.
 
@@ -850,7 +853,7 @@ miatt utasított ki.
 
 (4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
-(5) A bírósági felülvizsgálat során a visszaadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására nincs halasztó hatálya.
+(5) A bírósági felülvizsgálat során a visszaadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására halasztó hatálya van.
 
 48/C. § (1) Ha a dublini eljárás a harmadik országbeli állampolgár visszaadásával zárul, az idegenrendészeti eljárást a visszaadás időpontjában meg kell szüntetni.
 
@@ -868,7 +871,7 @@ miatt utasított ki.
 
 50. § (1) A kiutasítás végrehajtásának költségeit a kiutasított vagy – a kiutasított rendelkezésére álló anyagi fedezet hiányában – a meghívó viseli.
 
-(2) A kiutazás költségeinek biztosítása érdekében a harmadik országbeli állampolgár birtokában lévő menetjegyet vagy – ha az anyagi fedezet másként nem biztosítható – a menetjegy megvásárlásához, valamint az úti okmány beszerzéséhez szükséges pénzösszeget az eljáró hatóság lefoglalhatja, amely ellen jogorvoslatnak nincs helye.
+(2) A kiutaztatás költségeinek biztosítása és a kiutasított a (4) bekezdésben meghatározott kötelezettsége teljesítése érdekében különösen a harmadik országbeli állampolgár birtokában lévő menetjegyet vagy – ha az anyagi fedezet másként nem biztosítható, – a menetjegy megvásárlásához, valamint az úti okmány beszerzéséhez szükséges pénzösszeget az eljáró idegenrendészeti hatóság lefoglalhatja, amely ellen jogorvoslatnak nincs helye. A 61. § (4) bekezdés e) pontjában, valamint a 62. § (4) bekezdésében meghatározott, a harmadik országbeli állampolgárt terhelő költségek biztosítása és a kötelezettség teljesítése érdekében – ha az anyagi fedezet másként nem biztosítható, – a harmadik országbeli állampolgár birtokában lévő, a 61. § (4) bekezdés e) pontjában, illetve a 62. § (4) bekezdésében meghatározott költségeknek megfelelő pénzösszeget az eljáró idegenrendészeti hatóság lefoglalhatja, amely ellen jogorvoslatnak nincs helye.
 
 (3) Ha a kiutazási kötelezettség azért nem teljesíthető, mert sem a kiutasított, sem a meghívó nem rendelkezik megfelelő anyagi fedezettel, a kiutaztatás költségét a kiutasítás végrehajtását elrendelő hatóság megelőlegezi.
 
@@ -886,6 +889,8 @@ miatt utasított ki.
 51. § (1) A visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre olyan ország területére, amely az érintett tekintetében nem minősül biztonságos származási vagy biztonságos harmadik országnak, így különösen, ahol a harmadik országbeli állampolgár faji, vallási, nemzeti hovatartozása, egy meghatározott társadalmi csoporthoz tartozása vagy politikai véleménye miatt üldöztetés veszélyének lenne kitéve, továbbá olyan állam területére vagy olyan terület határára sem, ahol nyomós oknál fogva tartani lehet attól, hogy a visszairányított, illetve a kiutasított harmadik országbeli állampolgár az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve (non-refoulement).
 
 (2) Ha a harmadik országbeli állampolgár menekültügyi eljárás alatt áll, a visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre, ha a harmadik országbeli állampolgár külön törvényben meghatározottak szerint jogosult Magyarország területén való tartózkodásra.
+
+(3) A harmadik országbeli állampolgár a menedékjogról szóló törvényben meghatározott időtartamban áll menekültügyi eljárás hatálya alatt.
 
 52. § (1) Az idegenrendészeti hatóság a non-refoulement követelményét a visszairányítás, illetve a kiutasítás elrendelésével és végrehajtásával kapcsolatos eljárásában köteles vizsgálni.
 
@@ -995,7 +1000,9 @@ miatt utasított ki.
 
 (5) Az őrizet hetvenkét órán túli bírói meghosszabbításakor minden esetben, a kifogással és az őrizet további meghosszabbításával kapcsolatos eljárásban az őrizetbe vett kérelmére személyes meghallgatást kell tartani.
 
-(6) A meghallgatást az őrizet helyén és a harmadik országbeli állampolgár jogi képviselője távollétében is meg lehet tartani.
+(6) A meghallgatást a harmadik országbeli állampolgár jogi képviselője távollétében is meg lehet tartani.
+
+(6a) A meghallgatást az őrizet helyén kell megtartani, amennyiben annak feltételei az őrizet helyén adottak.
 
 (7) A meghallgatást a bíróság mellőzheti, ha a harmadik országbeli állampolgár a megjelenésre fekvőbeteg-gyógyintézetben történő ápolása miatt képtelen, illetve ha a kifogás vagy az indítvány nem a jogosulttól származik.
 
@@ -1070,7 +1077,7 @@ miatt utasított ki.
 
 (3) A kötelező tartózkodási helyet közösségi szálláson vagy befogadó állomáson lehet kijelölni, ha a harmadik országbeli állampolgár magát eltartani nem képes, megfelelő lakással, anyagi fedezettel vagy jövedelemmel, eltartásra köteles meghívóval, eltartásra kötelezhető hozzátartozóval nem rendelkezik.
 
-(4) A közösségi szálláson vagy befogadó állomáson történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
+(4) A közösségi szálláson vagy befogadó állomáson történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező, illetve a menekültügyi hatóság vagy bíróság által nemzetközi vagy kiegészítő védelemben részesített harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
 
 (5) A kijelölt helyen történő tartózkodás elrendelésére irányuló eljárás felfüggesztését a harmadik országbeli állampolgár nem kérheti.
 
@@ -1088,18 +1095,28 @@ miatt utasított ki.
 
 63. § Ha a közösségi szálláson vagy befogadó állomáson történő kötelező tartózkodás elrendelésétől számítva két hónap eltelt, de a kijelölt helyen való tartózkodás elrendelésének feltételei fennállnak, a harmadik országbeli állampolgár számára más tartózkodási helyet kell kijelölni.
 
-64. § Az a harmadik országbeli állampolgár, akinek kijelölt helyen való tartózkodását az idegenrendészeti hatóság a 62. § (1) bekezdés e) pontja alapján rendelte el, az elrendelő idegenrendészeti hatóság hozzájárulásával a magyarországi munkavállalásra vonatkozó szabályok szerint jogosult arra, hogy keresőtevékenységet folytasson.
+64. § (1) Az a harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a kötelező tartózkodását közösségi szálláson, befogadó állomáson vagy meghatározott megye közigazgatási területén jelölte ki, jogosult a törvényben meghatározott közfoglalkoztatási jogviszony keretében munkát végezni kivéve, ha
+
+- a) a (2) bekezdésben foglaltak szerinti foglalkoztatási jogviszonyból,
+- b) a harmadik országbeli állampolgárok magyarországi foglalkoztatására vonatkozó szabályok szerinti foglalkoztatási jogviszonyból, vagy
+- c) egyéb, e törvény szerinti jogszerű keresőtevékenységből
+
+származó jövedelemmel rendelkezik.
+
+(2) Az a harmadik országbeli állampolgár, akinek kijelölt helyen való tartózkodását az idegenrendészeti hatóság a 62. § (1) bekezdés e) pontja alapján rendelte el, az elrendelő idegenrendészeti hatóság hozzájárulásával a magyarországi munkavállalásra vonatkozó szabályok szerint jogosult arra, hogy keresőtevékenységet folytasson.
+
+(3) A harmadik országbeli állampolgár az (1) bekezdésben meghatározott jogviszonyból származó jövedelméből köteles a 62. § (4) bekezdésben meghatározott megtérítési kötelezettségének eleget tenni.
 
 ### A kitoloncolás
 
-65. § (1) A visszairányítást, illetve a kiutasítást elrendelő bírósági vagy idegenrendészeti hatósági határozatot hatósági kísérettel (a továbbiakban: kitoloncolás) kell végrehajtani, ha a harmadik országbeli állampolgár
+65. § (1) A visszairányítást, illetve a kiutasítást elrendelő bírósági vagy idegenrendészeti, vagy menekültügyi hatósági döntést hatósági kísérettel (a továbbiakban: kitoloncolás) kell végrehajtani, ha a harmadik országbeli állampolgár
 
 - a) szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult;
 - b)
 - c) kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges;
 - d) a kiutasító határozatban meghatározott határnapot követő napig az Európai Unió tagállamainak területét nem hagyta el.
 
-(2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban, illetve a bírói kiutasítás végrehajtását elrendelő végzésben kell rendelkezni, egyéb esetben külön határozattal vagy végzéssel kell elrendelni.
+(2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban, illetve a bírói kiutasítás végrehajtását elrendelő végzésben kell rendelkezni, egyéb esetben külön határozattal vagy végzéssel kell elrendelni. A menekültügyi hatóság által elrendelt kiutasítást követően az (1) bekezdés d) pontjában foglalt esetben az idegenrendészeti hatóság a kitoloncolást önálló határozattal rendeli el.
 
 (3) A kitoloncolást elrendelő önálló határozat vagy végzés ellen a harmadik országbeli állampolgár végrehajtási kifogást terjeszthet elő. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő.
 
@@ -1147,6 +1164,10 @@ miatt utasított ki.
 (4b) Az idegenrendészeti hatóság a (4a) bekezdésben meghatározott célból rögzített ujjnyomat-adatot kizárólag a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak megállapítása céljából, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
 
 (5) Ha az előállítás időtartama alatt a harmadik országbeli állampolgár tartózkodásának jogcíme vagy a harmadik országbeli állampolgár személyazonossága nem állapítható meg, a harmadik országbeli állampolgárral szemben legfeljebb tizenkét óra időtartamra visszatartás intézkedést kell alkalmazni, amely ellen panasznak van helye.
+
+(6) Ha az előállítás alatt álló harmadik országbeli állampolgárok kivételesen nagy száma súlyos terhet ró az idegenrendészeti hatóság kapacitására, az (5) bekezdésben foglalt visszatartás intézkedést az idegenrendészeti hatóság legfeljebb huszonnégy óra időtartamra rendelheti el, amely ellen panasznak van helye.
+
+(7) Ha a harmadik országbeli állampolgár az előállítás vagy visszatartás időtartama alatt nemzetközi védelem iránti kérelem előterjesztésére vonatkozó szándékát az idegenrendészeti hatóság előtt kinyilvánítja, az idegenrendészeti hatóság a harmadik országbeli állampolgárral szemben az előállítás vagy visszatartás időtartamán túl további, legfeljebb tizenkét óra időtartamra visszatartás intézkedést alkalmazhat a menekültügyi hatóság intézkedéséig. A visszatartás ellen panasznak van helye.
 
 ### A harmadik országbeli állampolgárok ellenőrzése a Vízuminformációs Rendszerben
 
@@ -1340,9 +1361,9 @@ szerinti állam vonatkozásában.
 
 (3) A közlés tényét és időpontját jegyzőkönyvbe kell foglalni, és azt az ügyféllel alá kell íratni.
 
-(4) Ha az ügyfél ismeretlen helyen tartózkodik – az (5) bekezdésben foglalt eltéréssel – a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye.
+(4) Ha az ügyfél ismeretlen helyen tartózkodik, a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye. A hirdetményt kizárólag a döntést hozó idegenrendészeti hatóság hirdetőtábláján kell kifüggeszteni és jogszabályban meghatározott honlapon kell közzétenni.
 
-(5) Az önálló beutazási és tartózkodási tilalmat elrendelő határozat rendelkező részét a külön jogszabályban meghatározott honlapon kell közzétenni. A 43. § (1) bekezdés a)–b) pontja alapján önálló beutazási és tartózkodási tilalmat elrendelő határozatot a közzététel napján közöltnek kell tekinteni.
+(5) Az önálló beutazási és tartózkodási tilalmat elrendelő határozat ismeretlen helyen tartózkodó ügyfél részére történő hirdetményi úton történő közlése – a (4) bekezdéstől eltérően – a határozat rendelkező részének a jogszabályban meghatározott honlapon való közzétételével történik. A 43. § (1) bekezdése alapján önálló beutazási és tartózkodási tilalmat elrendelő határozatot a közzététel napján közöltnek kell tekinteni.
 
 90. § (1) Ha e törvény a határozattal szembeni fellebbezést kizárja, újrafelvételi eljárásnak sincs helye.
 
@@ -1490,13 +1511,12 @@ szerinti állam vonatkozásában.
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat a szálláshely, lakóhely bejelentésétől, illetve a vendégkönyv leadásától számított öt évig kezeli.
 
-102. § (1) Az idegenrendészeti hatóság a Magyarország területének elhagyására kötelezett, a kijelölt helyen tartózkodásra kötelezett, az idegenrendészeti kiutasítás, bírói kiutasítás, a beutazási és tartózkodási tilalom, valamint idegenrendészeti őrizet hatálya alatt álló harmadik országbeli állampolgár következő adatait kezeli:
+102. § (1) Az idegenrendészeti hatóság a Magyarország vagy az Európai Unió tagállamai területének elhagyására kötelezett, a kijelölt helyen tartózkodásra kötelezett, az idegenrendészeti kiutasítás, a menekültügyi hatóság által elrendelt kiutasítás, a bírói kiutasítás, a beutazási és tartózkodási tilalom, a kiutasítást előkészítő őrizet, valamint az idegenrendészeti őrizet hatálya alatt álló harmadik országbeli állampolgár következő adatait kezeli:
 
-- a) a természetes személyazonosító adatok;
-- b) az arcképmás és az ujjnyomat;
-- c) az elrendelő szerv megnevezése, az elrendelő határozat száma;
-- d) az intézkedés, kötelezés elrendelő határozat szerinti jogalapja, határideje vagy időtartama;
-- e) az idegenrendészeti vagy bírói kiutasítás hatálya alatt álló ujjnyomata.
+- a) a természetes személyazonosító adatok,
+- b) az arcképmás és az ujjnyomat,
+- c) az elrendelő szerv megnevezése, az elrendelő határozat száma, valamint
+- d) az intézkedés, kötelezés elrendelő határozat szerinti jogalapja, határideje vagy időtartama.
 
 (2) Az idegenrendészeti hatóság a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtás kérése, illetve engedélyezése céljából a harmadik országbeli állampolgár következő adatait kezelheti:
 
@@ -1808,5 +1828,7 @@ hatályát veszti.
 - i) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének,
 - j) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének;
 - k) a személyek határátlépésére irányadó szabályok közösségi kódexének (a továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet
+- l) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet;
+- m) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

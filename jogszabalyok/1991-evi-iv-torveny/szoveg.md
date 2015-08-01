@@ -949,7 +949,7 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 (2) Az (1) bekezdésben meghatározott szervek a jogszabályban meghatározott feladataik ellátásával összefüggésben a következő adatok nyilvántartására jogosultak:
 
 - a) természetes személyazonosító adatok,
-- b) állampolgárság, bevándorolt, letelepedett, menekült vagy oltalmazott jogállás,
+- b) állampolgárság, bevándorolt, letelepedett, menekült vagy oltalmazott jogállás, a menekültügyi hatóságnál a menekültként, oltalmazottként, vagy menedékesként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének ténye,
 - c) lakcím (lakóhely, tartózkodási hely) és értesítési cím,
 - d) foglalkozás, munkahely, munkakör (tevékenység),
 - e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerő-piaci szolgáltatás megállapításához és igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatok,
@@ -1047,6 +1047,10 @@ szerinti adatok igénylésére jogosult.
 
 (8) Felhatalmazást kap a Kormány, hogy (3) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
 
+(9) Az adatbázis a menekültként, oltalmazottként vagy menedékesként történő elismerés iránti kérelmet benyújtó (a továbbiakban együtt: elismerést kérő) közfoglalkoztatott, valamint az idegenrendészeti hatóság döntése alapján kijelölt tartózkodási helyen élő harmadik országbeli állampolgár közfoglalkoztatott esetében a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, szálláshelyét, továbbá a (3) bekezdés 2. a) pont aa), ac) és ad) alpontjában, valamint a (3) bekezdés 2. b) pont bb)–bf) alpontjában meghatározott adatokat tartalmazza.
+
+(10) Az elismerést kérő adatait az állami foglalkoztatási szerv a menekültügyi hatóság elismerésre irányuló kérelmet elutasító döntés jogerőre emelkedéséről szóló értesítése alapján az adatbázisból haladéktalanul törli, kivéve, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kijelölt helyen való tartózkodását rendelte el.
+
 57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja
 
 - a) a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a járási hivatal számára a (3) bekezdésben meghatározott adatbetekintéshez,
@@ -1056,7 +1060,7 @@ szerinti adatok igénylésére jogosult.
 
 szükséges hozzáférést.
 
-(2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban meghatározott adatokba betekinthet.
+(2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban és a (9) bekezdésében meghatározott adatokba betekinthet.
 
 (3) A járási hivatal a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (3) bekezdés 1. pont b), ca)–ce), cg) és d) alpontjában, valamint a 2. pont ab) és af) alpontjában szereplő adataiba tekinthet be.
 

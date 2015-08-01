@@ -23,14 +23,14 @@ Az Országgyűlés a szőlőtermesztésnek és a borgazdálkodásnak az Európai
 - 5. borvidéki dűlő: borvidéki településen belül pontosan körülhatárolt, mikroökológiájában egységes termőhely, amelynek adottságai a bor karakterére jelentős hatással vannak.
 - 6. borszőlőfajta: olyan szőlőfajta, amelyet borkészítés céljára osztályba soroltak.
 - 7. szőlőfajták osztályba sorolása: a borszőlőfajták e törvény felhatalmazása alapján kiadott rendeletben engedélyezett vagy ideiglenesen engedélyezett kategóriába sorolása.
-- 8. törzsszőlő: a szaporítóanyag-termelés céljából létesített, termőre fordulás után prebázis állomány, központi és üzemi törzsültetvény kategóriában a növénytermesztési hatóság által – a szaporítóanyagokra vonatkozó jogszabályok szerint – elismert borszőlő.
+- 8. törzsszőlő: a szaporítóanyag-termelés céljából létesített, termőre fordulás után prebázis, bázis vagy certifikált kategóriában a növénytermesztési hatóság által – a szaporítóanyagokra vonatkozó jogszabályok szerint – elismert borszőlő.
 - 9. kísérleti szőlő: az osztályba sorolást megalapozó vizsgálat vagy a szőlőtermesztés fejlesztése céljából telepített borszőlőültetvény.
 - 10. telepítés: a földterület beültetése borszőlővel, ideértve a terület előkészítését, az ültetvény ápolását az ültetvény termőre fordulásáig, illetve a támrendszer létesítését is.
 - 11. pótlás: a borszőlőültetvény hiányzó tőkéi helyének beültetése, ideértve a döntést és a bujtást is.
 - 12. kivágás: a borszőlőültetvény felszámolása, amelynek során a tőkéket és a támrendszert a földterületről eltávolítják.
 - 13. VINGIS: a szőlőágazati kataszterek közösségi szabályozásnak megfelelő térinformatikai rendszere, amely a borszőlő termőhelyi kataszterének, a kivágási, szerkezetátalakítási és -átállítási támogatások kifizetésének, valamint az oltalom alatt álló földrajzi jelzést, illetve az oltalom alatt álló eredetmegjelölést viselő borok termőhelyei földrajzi lehatárolásának térképi ellenőrzési alapja, és amelynek adatbázisa az ellenkező bizonyításáig hitelesen tanúsítja az abban rögzített adattartalom fennállását.
 - 14. borászati üzem: borászati termékek előállítására, kiszerelésére és tárolására vonatkozó működési engedéllyel rendelkező üzem.
-- 15. borászati termék: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: 1234/2007/EK tanácsi rendelet) XIb. mellékletében szereplő szőlészeti és borászati termékek, továbbá a friss borszőlő, a töppedt borszőlő és az aszúsodott borszőlő.
+- 15. borászati termék: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) VII. melléklet II. részében szereplő szőlőből készült termékek.
 - 16. gazdasági akta: a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK rendelet I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás.
 - 17. telepítési jog: olyan vagyoni értékű jog, amely az 1234/2007/EK tanácsi rendelet 85h–85i. cikke szerint új telepítési jog vagy újratelepítési jog.
 
@@ -59,9 +59,9 @@ Az Országgyűlés a szőlőtermesztésnek és a borgazdálkodásnak az Európai
 
 terület lehet.
 
-(2) A borszőlő termőhelyi kataszterbe sorolt területeken gyümölcsös – a csemegeszőlő-telepítést kivéve –, erdő telepítése, halastó és nádas létesítése, valamint a termőföld más célú hasznosítása csak az illetékes hegyközség hozzájárulásával lehetséges. Erdő telepítéséhez 0,5 ha-nál nem kisebb területen, az ingatlan határától legalább 10 méteres védősáv megtartásával, gyümölcsös telepítéséhez 0,5 ha-nál nem kisebb területen, az ingatlan határától legalább 5 m-es védősáv megtartásával adható hozzájárulás.
+(2) A borszőlő termőhelyi kataszterbe sorolt területeken gyümölcsös – a csemegeszőlő-telepítést kivéve – , erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítása csak az illetékes hegyközség hozzájárulásával lehetséges. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény rendelkezéseitől eltérően erdő telepítéséhez, fásításhoz 0,5 ha-nál nagyobb területen, az ingatlan határától legalább 10 méteres védősáv megtartásával, gyümölcsös telepítéséhez 0,5 ha-nál nagyobb területen, az ingatlan határától legalább 5 méteres védősáv megtartásával adható hozzájárulás.
 
-(3) Amennyiben a hegybíró megállapítja, hogy a hegyközség hozzájárulása nélkül került sor a termőhelyi kataszterbe sorolt területen erdő telepítésére vagy halastó, nádas létesítésére, kezdeményezi az arra jogosult szervnél az eredeti állapot helyreállításának elrendelését.
+(3) A hegybíró kezdeményezi az arra jogosult szervnél az eredeti állapot helyreállításának elrendelését, ha megállapítja, hogy a hegyközség hozzájárulása nélkül került sor a termőhelyi kataszterbe sorolt területen a (2) bekezdés szerinti, csemegeszőlő kivételével gyümölcsös, erdő telepítésére, fásításra vagy halastó, nádas létesítésére.
 
 ### Telepíthető fajták
 
@@ -69,10 +69,11 @@ terület lehet.
 
 (2)
 
-(3) Az osztályba sorolást megalapozó kísérleti és törzsszőlő létesítésére bármely fajta szaporítóanyaga felhasználható, amely
+(3) Törzsszőlő létesítésére vagy az osztályba sorolást megalapozó kísérleti szőlőültetvény létesítésére bármely fajta szaporítóanyaga felhasználható, amely
 
 - a) a Nemzeti Fajtajegyzékben vagy a Közösségi Fajtajegyzékben szerepel, vagy
-- b) állami elismerésre bejelentett és egyedi szaporítási engedéllyel rendelkezik.
+- b) állami elismerésre bejelentett és egyedi szaporítási engedéllyel rendelkezik,
+- c) a Nemzeti Agrárkutatási és Innovációs Központ Szőlészeti és Borászati Kutatóintézet Kárpát-medencei szőlőfajta gyűjteményében szerepel.
 
 (4) Az a borszőlőfajta sorolható osztályba engedélyezett fajtaként, amely
 
@@ -86,7 +87,9 @@ terület lehet.
 
 ### Telepítés, kivágás
 
-7. § Árutermő, törzs- és kísérleti célú borszőlőt telepíteni, illetve kivágni csak a hegybíró által kiadott engedéllyel lehet. Az ültetvény más fajtára történő cseréje esetén a telepítésre vonatkozó rendelkezéseket kell alkalmazni. Az engedélyezési eljárás részletes szabályait e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+7. § (1) Árutermő, törzs- és kísérleti célú borszőlőt telepíteni, illetve kivágni csak engedéllyel lehet. Borszőlőültetvény telepítése abban az esetben is engedélyköteles, amennyiben annak területe az 1000 m2-t nem haladja meg, de a telepítő használatában lévő borszőlőültetvény és az új telepítésű ültetvényrész összefüggő ültetvényt képez, és együttes nagysága eléri az árutermő ültetvény méretét. Összefüggő ültetvénynek tekintendő a hegybírótól telepítési engedélyt kérő használatában lévő, akár több helyrajzi számon nyilvántartott terület, amelyet a telepítéssel nem érintett terület, – kivéve út, csatorna, árok – vagy más gazdálkodó használatában álló terület nem szakít meg. Az ültetvény más fajtára történő cseréje esetén a telepítésre vonatkozó rendelkezéseket kell alkalmazni. Az engedélyezési eljárás részletes szabályait e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+
+(2)–(4)
 
 8. § (1) A telepítést és a fajtaváltást a növénytermesztési hatóság ellenőrzi.
 
@@ -106,7 +109,7 @@ terület lehet.
 
 11. § (1) Aki 1000 m2-nél nagyobb területen borszőlőt művel vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, illetve értékesítésre bort készít, továbbá, aki borszőlőt, mustot, illetve bort továbbfeldolgozás vagy továbbfeldolgozásra értékesítés céljából vásárol (a továbbiakban együttesen: adatszolgáltató), köteles a borszőlőterületéről, a bor tárolására alkalmas eszközeiről, tárolóteréről, szüretelési, feldolgozási, értékesítési, felhasználási tevékenységéről nyilvántartást vezetni, adatot szolgáltatni a hegyközségnek.
 
-(2) A hegybíró az adatszolgáltatóról gazdasági aktát vezet. A gazdasági akta tartalmazza az adatszolgáltató nevét, lakcímét, illetve székhelyét, adószámát, adóazonosító jelét, hegyközségi nyilvántartási számát, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv által adott regisztrációs számát. A gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+(2) A hegybíró az adatszolgáltatóról gazdasági aktát vezet. A gazdasági akta tartalmazza az adatszolgáltató nevét, lakcímét, illetve székhelyét, adószámát, adóazonosító jelét, gazdasági akta számát, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját. A gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
 (3) Az adatszolgáltató a gazdasági aktában szereplő adataiban történő változást minden borpiaci év végéig köteles a hegybírónak bejelenteni.
 
@@ -116,7 +119,7 @@ terület lehet.
 
 (6) A gazdasági akta adattartalma statisztikai célra felhasználható, abból adatok a Központi Statisztikai Hivatal részére egyedi azonosításra alkalmas módon statisztikai célból átadhatóak.
 
-12. § Az adatszolgáltatónak az adatszolgáltatás során meg kell adnia a nevét és hegyközségi nyilvántartási számát. A nem hegyközségi településeken végzett tevékenységek esetén az adatszolgáltatási kötelezettséget, e törvény felhatalmazása alapján kiadott rendeletben meghatározott hegyközség részére kell teljesíteni. Az adatszolgáltatási kötelezettséggel érintett adatok körét e törvény felhatalmazása alapján kiadott rendelet határozza meg.
+12. § Az adatszolgáltatónak az adatszolgáltatás során meg kell adnia a nevét és gazdasági akta számát. A nem hegyközségi településeken végzett tevékenységek esetén az adatszolgáltatási kötelezettséget, e törvény felhatalmazása alapján kiadott rendeletben meghatározott hegyközség részére kell teljesíteni. Az adatszolgáltatási kötelezettséggel érintett adatok körét e törvény felhatalmazása alapján kiadott rendelet határozza meg.
 
 ### A művelésre vonatkozó előírások
 
@@ -124,16 +127,9 @@ terület lehet.
 
 (2) Amennyiben az ültetvény használója az ültetvényét egy éven keresztül nem műveli, a hegybíró felszólítja az ültetvény rendeltetésszerű művelésére.
 
-(3) Amennyiben az ültetvény használója az ültetvényét kettő éven keresztül nem műveli, a hegybíró felszólítja az ültetvény használóját, hogy hatvan napon belül gondoskodjon az ültetvény műveléssel történő hasznosításáról. Az ültetvény műveléssel történő hasznosításáról készült megállapodást a hegybírónak be kell mutatni.
+(3) Ha az ültetvény használója a (2) bekezdés szerinti felszólítás ellenére továbbra sem műveli az ültetvényét, a hegybíró kezdeményezi a növénytermesztési hatóságnál az ültetvény növény-egészségügyi szemléjét. Amennyiben a növénytermesztési hatóság szemléje azt állapítja meg, hogy az ültetvény kivágása növény-egészségügyi okok miatt indokolt, felszólítja az ültetvény használóját az ültetvény 45 napon belül történő kivágására. A kivágásra vonatkozó döntés egy példányát meg kell küldeni a hegybíró részére. Amennyiben a növénytermesztési hatóság szemléje során növény-egészségügyi kockázatot nem állapít meg, abban az esetben a művelés elmulasztása miatt hektáronként kétszázezer forint bírságot szab ki.
 
-(4) Amennyiben az ültetvény használója hatvan napon belül nem gondoskodik az ültetvény műveléssel történő hasznosításáról, a hegybíró az ültetvényt művelésre meghirdeti. Az ültetvény műveléssel történő hasznosítási szándékot a hegybírónak kell bejelenteni, aki erről a használót öt napon belül értesíti. Az ültetvény használójának az értesítéstől számított harminc napon belül meg kell kötni a megállapodást. A műveléssel történő hasznosításáról készült megállapodást a hegybírónak be kell mutatni.
-
-(5) A műveléssel történő hasznosításáról a megállapodást legalább öt borpiaci év időtartamra kell megkötni.
-
-(6) Amennyiben az ültetvény használója az ültetvényét három éven keresztül nem műveli, és az (1)–(5) bekezdésben meghatározott intézkedések eredménytelenül zárultak, a hegybíró elrendelheti az ültetvény kivágását az alábbi esetekben:
-
-- a) az ültetvény növény-egészségügyi kockázatot jelent a szomszédos ültetvényre;
-- b) a műveletlen ültetvény más ültetvény megközelítését akadályozza.
+(4)–(6)
 
 (7) Amennyiben az ültetvény használója kivágási kötelezettségének nem tesz eleget a hegybíró az ültetvény használójának a költségére az ültetvényt kivágattatja.
 
@@ -141,41 +137,34 @@ terület lehet.
 
 ### II/A. Fejezet — BORÁSZATI TERMÉKEK EREDETMEGJELÖLÉSEI ÉS FÖLDRAJZI JELZÉSEI
 
-13/A. § (1) Az 1234/2007/EK tanácsi rendelet alapján oltalom alatt álló földrajzi jelzéssel rendelkező bort az ott meghatározott feltételek mellett lehet készíteni, amennyiben:
+13/A. § (1) Az 1308/2013/EU rendelet alapján oltalom alatt álló földrajzi jelzéssel rendelkező bort az ott meghatározott feltételek mellett lehet készíteni, amennyiben:
 
 - a) meghatározott termőhelyen fekvő, legfeljebb 120 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik,
 - b) természetes alkoholtartalma nem kisebb 8 térfogatszázaléknál (% vol).
 
-(2) Az 1234/2007/EK tanácsi rendelet alapján oltalom alatt álló eredetmegjelöléssel rendelkező bort az ott meghatározott feltételek mellett lehet készíteni, amennyiben:
+(2) Az 1308/2013/EU rendelet alapján oltalom alatt álló eredetmegjelöléssel rendelkező bort az ott meghatározott feltételek mellett lehet készíteni, amennyiben:
 
 - a) meghatározott termőhelyen fekvő, legfeljebb 100 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik,
 - b) természetes alkoholtartalma nem kisebb 9 térfogatszázaléknál (% vol),
 - c) összes savtartalma, (borkősavban kifejezve) nem kisebb mint 3,50 gramm/liter.
 
-(3) A „védett eredetű” kifejezés – kiegészítve az adott borászati termékkategória nevével – az oltalom alatt álló eredetmegjelöléssel egyenértékű kifejezésként használható a vonatkozó termékleírás szerint a következő borászati termékek esetében:
-
-- a) bor,
-- b) pezsgő,
-- c) minőségi pezsgő,
-- d) illatos minőségi pezsgő,
-- e) gyöngyözőbor,
-- f) szén-dioxid hozzáadásával készült gyöngyözőbor.
+(3)
 
 (4) Dűlő vagy település neve csak az oltalom alatt álló eredetmegjelöléssel együtt szerepelhet a címkén.
 
-(5) A tájbor kifejezéssel – mint az oltalom alatt álló földrajzi jelzéssel egyenértékű kifejezéssel – az oltalom alatt álló földrajzi jelzéssel rendelkező bor jelölhető.
-
-(6) A minőségi bor kifejezéssel a 2012. augusztus 1-je utáni szüretből származó bor nem jelölhető.
+(5)–(6)
 
 (7) Új oltalom alatt álló földrajzi jelzés vagy oltalom alatt álló eredetmegjelölés oltalmára vonatkozó kérelemben foglalt termékleírás rendelkezéseit először a nemzeti jóváhagyásról szóló határozatban megjelölt borpiaci évben szüretelt borszőlőből származó borászati termékre kell alkalmazni. A kérelem és a termékleírás közzétételéről az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
 
-(8) Az 1234/2007/EK tanácsi rendelet 118s. cikke alapján benyújtott termékleírást a nemzeti jóváhagyásról szóló határozat Európai Bizottság részére történő megküldését követően kezdődő szüretben szüretelt borszőlőből származó borászati termékre kell alkalmazni.
+(8) Az 1308/2013/EU rendelet 94. cikke alapján benyújtott termékleírást a nemzeti jóváhagyásról szóló határozat Európai Bizottság részére történő megküldését követően kezdődő szüretben szüretelt borszőlőből származó borászati termékre kell alkalmazni.
 
 (9) Termékleírás módosítására vonatkozó kérelemben foglalt rendelkezéseket először a nemzeti jóváhagyásról szóló határozatban megjelölt borpiaci évben szüretelt borszőlőből származó borászati termékre kell alkalmazni. A módosítási kérelem és a módosított termékleírás közzétételéről a miniszter gondoskodik.
 
 (10) A (9) bekezdésben foglaltaktól eltérően a termékleírás módosítására irányuló kérelemben foglaltakat – a miniszter döntése alapján – először a nemzeti jóváhagyásról szóló határozatban megjelölt időpontot követően forgalomba hozott borászati termékekre kell alkalmazni, amennyiben azok az édesítés, a palackozás helye vagy a forgalomba hozatalt megelőző érzékszervi bírálat szabályait érintik.
 
-13/B. §
+13/B. § (1) Az érintett hegyközségi tanács előzetesen meghozott testületi döntésében meghatározott eljárásrend és szempontok mérlegelése alapján közgyűlési határozatban legfeljebb öt évre eltilthatja az oltalom alatt álló eredetmegjelöléssel vagy oltalom alatt álló földrajzi jelzéssel rendelkező borászati terméket hamisító vagy hamis termékjelölést alkalmazó hegyközségi tagot az 1308/2013/EU rendelet 103. cikke szerinti oltalom alatt álló eredetmegjelölés vagy földrajzi jelzés, vagy a termékleírásban meghatározott kisebb földrajzi egységek nevének használatától. A tiltás ideje alatt az érintett hegyközségi tag részére kiadott származási bizonyítvány és forgalombahozatali engedély nem tartalmazhatja az adott oltalom alatt álló eredetmegjelölést vagy földrajzi jelzést. A tiltásról értesíteni kell a borászati hatóságot.
+
+(2) Szőlőt vagy bort tartalmazó, borászati terméknek nem minősülő termékeken borászati termék oltalom alatt álló eredetmegjelölésével vagy oltalom alatt álló földrajzi jelzésével azonos földrajzi árujelző használatához az érintett hegyközségi tanács engedélye szükséges.
 
 13/C. § (1) A kései szüretelésű bor, a válogatott szüretelésű bor, a töppedt borszőlőből készült bor, a jégbor és a muzeális bor oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel rendelkező bortípus lehet.
 
@@ -191,15 +180,15 @@ terület lehet.
 
 ### Tárolás, nyilvántartás
 
-19. § (1) Értékesítési vagy továbbfeldolgozási céllal borászati üzemben tárolt borászati terméket – friss borszőlő, töppedt borszőlő, aszúsodott borszőlő kivételével – a pincekönyvben kell nyilvántartani. A pincekönyv vezetésének szabályait az e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+19. § (1) Értékesítési vagy továbbfeldolgozási céllal borászati üzemben tárolt borászati termékről e törvény végrehajtására kiadott rendeletben meghatározottak szerint nyilvántartást kell vezetni.
 
 (2) A termelő, felvásárló és nem palackozott bort forgalomba hozó az (1) bekezdésben meghatározott termékéről az e törvény felhatalmazása alapján kiadott rendeletben szabályozott módon adatot szolgáltat. Ez a rendelkezés arra a házikerti szőlőbirtokosra is vonatkozik, aki borszőlőtermését vagy borát forgalomba hozza.
 
-(3) Nem borszőlő alapú alkoholos termék és borászati termék ugyanabban a helyiségben nem tárolható.
+(3) Nem borszőlőalapú alkoholos termék és borászati termék ugyanabban a borászati üzemben nem tárolható.
 
 20. § (1) Borászati termék előállításához vagy kezeléséhez meg nem engedett anyagokat és borászati terméket borászati termék előállítására, kezelésére, raktározására szolgáló helyiségben tartani tilos. A borászati hatóság a meg nem engedett anyag tárolása miatt minőségvédelmi bírságot szabhat ki.
 
-(2) Az a borászati termék, amelyet a jogszabályokban meg nem engedett anyagok felhasználásával vagy a jogszabályokban meg nem engedett módszerrel állítottak elő vagy kezeltek, nem minősül szőlőbornak.
+(2) Azt a borászati üzem nyilvántartása szerinti borászati terméket, amelyet a jogszabályokban meg nem engedett anyagok, illetve megengedett anyagok nem megengedett mennyiségű, mértékű felhasználásával vagy a jogszabályokban meg nem engedett módszerrel állítottak elő vagy kezeltek, hamisított terméknek kell tekinteni.
 
 (3) A (2) bekezdés szerinti terméket birtokban tartani tilos.
 
@@ -213,13 +202,13 @@ terület lehet.
 
 ### IV. Fejezet — A BORÁSZATI TERMÉKEK FORGALOMBA HOZATALA
 
-### A szőlő és bor származási bizonyítványa
+### A szőlő és borászati termék származási bizonyítványa
 
 22. § (1) Borászati terméket csak származási bizonyítvánnyal rendelkező borszőlőből, mustból, borból lehet előállítani, illetve továbbfeldolgozás céljából forgalomba hozni.
 
 (2) Borszőlő alapú üdítőitalokat csak származási bizonyítvánnyal igazolt szőlőmustból vagy szőlőmustsűrítményből lehet előállítani.
 
-23. § (1) A borszőlő, illetve a bor származási bizonyítványa igazolja:
+23. § (1) A borszőlő, illetve a borászati termék származási bizonyítványa igazolja:
 
 - a) a származási helyet,
 - b) a borszőlőtermés, illetve a bor mennyiségét,
@@ -230,7 +219,7 @@ terület lehet.
 - g) az évjáratot,
 - h) a bor savtartalmának módosítására vonatkozó tényt.
 
-(2) A borszőlő származási bizonyítványát a hegybíró adja ki. A származási bizonyítványok részletes adattartalmát, kiadási rendjét e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+(2) A származási bizonyítványt a hegybíró adja ki. A származási bizonyítványok részletes adattartalmát, kiadási rendjét e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
 (3) A forgalomba hozatali engedélykérelemhez csatolni kell a származási bizonyítványt. Származási bizonyítvány hiányában vagy valótlan adatok feltüntetése esetén a borászati hatóság forgalomba hozatali engedélyt nem ad ki.
 
@@ -250,17 +239,17 @@ terület lehet.
 
 ### Forgalomba hozatal
 
-24. § (1) Árutermelési céllal borászati terméket – friss borszőlő, töppedt borszőlő, aszúsodott borszőlő kivételével – előállítani, tárolni, kezelni, kiszerelni csak a borászati hatóság által engedélyezett borászati üzemben lehet. A borászati hatóság az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek teljesülése esetén ad engedélyt, amelyet a borászati üzem helye szerint illetékes hegybíróval is közöl. A borászati hatóság a borászati üzemet nyilvántartásba veszi. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza az engedélyes regisztrációs számát, a borászati üzem üzemeltetőjének nevét, a borászati üzem címét, a borászati üzemben végezhető tevékenységek felsorolását, palackozásra vonatkozó tevékenység engedélyezése esetén a palackozó üzem kódját, nyilvántartásba vételének dátumát.
+24. § (1) Árutermelési céllal borászati terméket előállítani, tárolni – közfogyasztásra kiszerelt borászati termékek tárolását kivéve –, kezelni, kiszerelni csak a borászati hatóság által engedélyezett borászati üzemben lehet. A borászati hatóság az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek teljesülése esetén ad engedélyt, amelyet a borászati üzem helye szerint illetékes hegybíróval is közöl. A borászati hatóság a borászati üzemet nyilvántartásba veszi. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza az engedélyes ügyfélazonosítóját, nevét, adószámát, üzemeltetőjének nevét, a borászati üzem címét, a borászati üzemben végezhető tevékenységek felsorolását, az előállítható termékek megnevezését, a nyilvántartásba vételének dátumát.
 
 (2) A vámhatóság az egyszerűsített adóraktári engedély visszavonásáról – az érintett engedélyes nevére (cégnevére), lakhelyére (székhelyére), az engedély visszavonásának tényére és időpontjára vonatkozó adatok megadásával – értesíti a borászati hatóságot és az illetékes hegyközséget.
 
-24/A. § (1) Borászati terméket – friss borszőlő, töppedt borszőlő, aszúsodott borszőlő, zúzott friss borszőlő, szőlőmust kivételével – közfogyasztásra forgalomba hozni vagy továbbfeldolgozás céljából Magyarország területéről kivinni csak abban az esetben lehet, ha azt tételenként a borászati hatóság vagy e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételeknek megfelelő szervezet laboratóriumi és érzékszervi vizsgálatok alá vetette, és ennek alapján minőségét megállapította, és megfelelőnek minősítette, vagy az Európai Gazdasági Térség valamely szerződő államának erre hatáskörrel rendelkező szerve, illetve egyéb, uniós jogi aktusban meghatározott szervezet, a rá vonatkozó szabályok szerint minőségét megállapította és megfelelőnek minősítette.
+24/A. § (1) Borászati terméket – a must kivételével – közfogyasztásra forgalomba hozni vagy továbbfeldolgozás céljából Magyarország területéről kivinni csak abban az esetben lehet, ha azt tételenként a borászati hatóság vagy e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételeknek megfelelő szervezet laboratóriumi és érzékszervi vizsgálatok alá vetette, és ennek alapján minőségét megállapította, és megfelelőnek minősítette, vagy az Európai Gazdasági Térség valamely szerződő államának erre hatáskörrel rendelkező szerve, illetve egyéb, uniós jogi aktusban meghatározott szervezet, a rá vonatkozó szabályok szerint minőségét megállapította és megfelelőnek minősítette.
 
 (2) A borászati hatóság az (1) bekezdés szerinti laboratóriumi és érzékszervi vizsgálatok alapján megfelelőnek minősített borra forgalomba hozatali engedélyt ad ki.
 
 25. § (1) Közfogyasztásra forgalomba hozott borászati termék az, amelyet a fogyasztónak vagy kereskedelmi szervnek közvetlenül értékesítenek.
 
-(2) A vámhatóság a Jöt.-ben az egyszerűsített adóraktár-engedélyesekre előírt tárgyidőszakonkénti mennyiségi elszámolás benyújtási határideje hónapját követő három hónapon belül megküldi a borászati hatóságnak a tárgyidőszakra vonatkozóan – egyszerűsített adóraktár-engedélyesenként (nevét, címét, cégnevét, székhelyét, adószámát is feltüntetve) részletezve – az Európai Unió tagállamaiból összesen, továbbfeldolgozás céljából beszerzett bor mennyiségére vonatkozó adatokat, mely adatokat a borászati hatóság átadhatja az illetékes hegyközségnek.
+(2) A vámhatóság egyszerűsített adóraktár-engedélyesenként (nevét, címét, cégnevét, székhelyét, adószámát is feltüntetve) részletezve az Európai Unió tagállamaiból továbbfeldolgozás céljából, vagy az Európai Unión kívülről beszerzett borászati termékről a borpiac közös szervezéséről szóló 479/2008/EK tanácsi rendeletnek a támogatási programok, a harmadik országokkal folytatott kereskedelem, a termelési potenciál és borágazat ellenőrzése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló 555/2008/EK bizottsági rendelet 95a. cikke szerinti nyilvántartásból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint adatot szolgáltat a borászati hatóság részére.
 
 (3)
 
@@ -306,7 +295,7 @@ terület lehet.
 
 ### Tokaji bor tárolása
 
-33. § A más terület terméséből származó mustot és bort a területről származó musttól és bortól elkülönítve, külön helyiségben kell tartani, és tárolóedényét (hordóját) olyan megjelöléssel kell ellátni, amely a must, illetőleg a bor származását kétséget kizáró módon feltünteti. A kizárólag házi fogyasztás céljára bevitt idegen eredetű must és bor a Tokaji borvidékről származó musttal és borral egy helyiségben is tartható, származását azonban a tárolóedényen (hordón) ilyen esetben is fel kell tüntetni.
+33. § A más terület terméséből származó borászati terméket a területről származó borászati terméktől elkülönítve, külön borászati üzemben kell tartani, és tárolóedényét (hordóját) olyan megjelöléssel kell ellátni, amely a borászati termék származását kétséget kizáró módon feltünteti. A kizárólag házi fogyasztás céljára bevitt idegen eredetű borászati termék a Tokaji borvidékről származó borászati termékkel egy borászati üzemben is tartható, származását és a házi fogyasztás céljára utaló jelzést azonban a tárolóedényen (hordón) ilyen esetben is fel kell tüntetni.
 
 ### A Tokaji borvidékre vonatkozó különleges előírások
 
@@ -318,7 +307,7 @@ terület lehet.
 
 (3) Tokaji fordítás: a kipréselt aszútésztára felöntött meghatározott termőhelyről származó mustból vagy azonos évjáratú borból alkoholos erjedés útján készült, fahordóban érlelt tokaji borkülönlegesség, amely jellegzetes érlelési illattal és zamattal rendelkezik.
 
-(4) Tokaji szamorodni: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott szőlőbogyókat is tartalmazó, válogatás nélkül szedett szőlőfürtök feldolgozásával előállított mustból alkoholos erjedés útján nyert tokaji borkülönlegesség, melyet legalább egy évig fahordóban érlelnek.
+(4) Tokaji szamorodni: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott és egészséges szőlőszemek feldolgozásával előállított, és a forgalomba hozatalt megelőzően fahordóban érlelt tokaji borkülönlegesség.
 
 (5) Tokaji aszú: a Tokaji borvidék területén termett borszőlő Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott, szüretkor kézzel külön szedett, feldolgozott szőlőbogyóinak az ugyanott termett szőlőből készült mustban, részben erjedt szőlőmustban, még erjedésben lévő újborban vagy azonos évjáratú borban történő áztatását követő alkoholos erjedés útján nyert, és a forgalomba hozatal előtt fahordóban érlelt tokaji borkülönlegesség.
 
@@ -354,7 +343,7 @@ terület lehet.
 
 (7) A borászati hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
-(7) A borászati hatóság a 479/2008/EK rendelet 65. cikke szerinti szőlő- és borágazati szakmaközi szervezetet ismerhet el.
+(7)
 
 41. §
 
@@ -422,22 +411,22 @@ terület lehet.
 - c) a borászati termékek csomagolása során felhasznált csomagolóanyagok megfelelőségét,
 - d) a gyártástechnológia műszaki feltételeit,
 - e) a kereskedelmi forgalomba kerülő borászati termékek minőségét,
-- f) a pincekönyv szakmai tartalmát (az ellenőrzés eredményét a pincekönyvbe is be kell jegyezni),
+- f) a 19. § szerinti nyilvántartás szakmai tartalmát,
 - g) a pincékben és a kereskedelemben – rendszeres mintavétellel – a borok minőségét,
 - h) az import borászati termékek minőségét,
 - i)
-- j) a bor származási bizonyítványok valóságtartalmát,
+- j) a borászati termék származási bizonyítványának valóságtartalmát a borászati üzemben, és a hegybíró által vezetett nyilvántartásokban,
 - k) a borszőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonását,
 - l) a termékleírásnak való megfelelést,
 - m) a helyi borbíráló bizottságok működését.
 
 (2) A helyszíni ellenőrzés során készült jegyzőkönyvben fel kell tüntetni az ellenőrzés keretében elrendelt ideiglenes intézkedést is. A borászati hatóság a hegybíró hatáskörébe is tartozó esetekben a jegyzőkönyv egy példányát a borászati üzem helye szerint illetékes hegyközségnek is megküldi.
 
-(3) A borászati hatóság ellátja a lepárlási, valamint a mustsűrítménnyel való mustjavítási intézkedésekhez kapcsolódó szakmai ellenőrzési feladatokat.
+(3)
 
 (4) A borászati hatóság a helyi borbíráló bizottságokról nyilvántartást vezet. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza a helyi borbíráló bizottság nevét, a helyi borbíráló bizottságot működtető szervezet nevét, a helyi borbíráló bizottság székhelyét, a helyi borbíráló bizottság működésének helyét, a helyi borbíráló bizottság nyilvántartásba vételének dátumát.
 
-45. §
+45. § A borászati hatóság az általa kiadott forgalombahozatali engedély alapjául szolgáló analitikai vizsgálat eredményét a termék azonosító számával megjelölve az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint honlapján közzéteszi.
 
 46. § (1) A hatósági ellenőrzés során alkalmazott mintavétel szabályait az e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
 
@@ -454,7 +443,7 @@ terület lehet.
 48. § (1) Ha a vizsgált borászati termék
 
 - a) a jogszabályokban meghatározott, illetőleg a jelölésében foglalt jellemzőket nem elégíti ki,
-- b) a jogszabályokban megengedett anyagokat nem megengedett mértékben tartalmaz,
+- b) a jogszabályokban nem megengedett anyagokat vagy megengedett anyagokat nem megengedett mértékben tartalmaz,
 - c) a származási bizonyítványban vagy a forgalomba hozatali engedélyben foglaltaktól eltérően jelölt,
 - d) a rá vonatkozó termékleírásnak nem felel meg,
 
@@ -488,7 +477,7 @@ terület lehet.
 
 51. § (1) A borászati hatóság minőségvédelmi bírságot szab ki, ha megállapítja, hogy az előállított, illetve forgalomba hozott borászati termék nem felel meg az előírt, illetve megjelölt minőségi jellemzőknek, valamint akkor, ha az előállítás, illetve a forgalomba hozatal nem felel meg a 24–25. §-ban meghatározott szempontoknak.
 
-(2) A minőségvédelmi bírság mértéke – a kifogásolt tétel mennyiségétől, minőségétől, a hiba súlyától függően – legalább ötvenezer forint, legfeljebb a borászati termék literenként háromezer forinttal számított összege erejéig terjedhet. A minőségvédelmi bírság a 48. § (2) bekezdésében meghatározott jogkövetkezményekkel együtt is kiszabható. A borászati hatóság a minőségvédelmi bírság kiszabása helyett az ügyet jövedéki eljárás lefolytatására átteszi az illetékes vámhatósághoz, ha a vizsgálat során azt állapítja meg, hogy a termék nem minősül a jövedéki adóról és a Jöt. szerinti szőlőbornak.
+(2) A minőségvédelmi bírság mértéke – a kifogásolt tétel mennyiségétől, minőségétől, a hiba súlyától függően – legalább ötvenezer forint, legfeljebb a borászati termék literenként háromezer forinttal számított összege erejéig terjedhet. A minőségvédelmi bírság a 48. § (2) bekezdésében meghatározott jogkövetkezményekkel együtt is kiszabható.
 
 (3) A minőségvédelmi bírság megfizetésére azt a termelőt, illetve forgalmazót kell kötelezni, aki a borászati terméknek az (1) bekezdésben foglaltak szerint kifogásolt minőségét előidézte, vagy – ha ez egyértelműen nem állapítható meg – azt, akinél a borászati terméket vizsgálat alá vonták.
 
@@ -496,7 +485,7 @@ terület lehet.
 
 ### Mulasztási bírság
 
-51/A. § (1) A borászati hatóság vagy a hegybíró mulasztási bírságot szab ki, ha a borászati hatóság vagy a hegyközség felé előírt bejelentési vagy adatszolgáltatási kötelezettséget elmulasztották vagy az adatszolgáltatást szándékosan hiányosan, vagy valótlan adattartalommal teljesítették.
+51/A. § (1) A borászati hatóság vagy a hegybíró mulasztási bírságot szab ki, ha a borászati hatóság vagy a hegyközség felé előírt bejelentési vagy adatszolgáltatási kötelezettséget elmulasztották, a bejelentésköteles tevékenységet bejelentés nélkül végezték el, vagy az adatszolgáltatást hiányosan vagy valótlan adattartalommal teljesítették.
 
 (2) A mulasztási bírság mértéke legfeljebb ötszázezer forint összeg erejéig terjedhet.
 
@@ -521,7 +510,7 @@ terület lehet.
 57. § (1) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
 - a) a szőlő termőhelyi katasztere felvételezésének, a kataszterbe sorolás, a kataszteri osztály módosítás, a kataszterből való törlés szabályait;
-- b) a borvidékeket és a hozzájuk tartozó települések listáját, a borvidéki régiókat és működésükre vonatkozó szabályokat, a védett eredetű borokat, a védett eredetű borok készítésére, kiszerelésére, jelölésére, minősítésének eljárására és ellenőrzésére vonatkozó szabályokat;
+- b) a borvidékeket és a hozzájuk tartozó települések listáját, a borrégiókat és működésükre vonatkozó szabályokat, a védett eredetű borokat, a védett eredetű borok készítésére, kiszerelésére, jelölésére, minősítésének eljárására és ellenőrzésére vonatkozó szabályokat;
 - c) a borkészítésre alkalmas szőlőfajtákat és a borkészítésre alkalmas szőlőfajták osztályba sorolásának rendjét;
 - d) a termelési potenciálra (újratelepítési jog, új telepítési jog, valamint telepítési jogtartalék) vonatkozó szabályokat, valamint a telepítés és kivágás engedélyezésének, utólagos engedélyezésének és ellenőrzésének eljárási rendjét;
 - e) a borászati termékek, valamint a bortípusok meghatározását, az előállításukra és kezelésükre, kiszerelésükre, minősítésükre, jelölésükre, forgalomba hozatalukra és ellenőrzésükre vonatkozó előírásokat, a borászati termékek megsemmisítésének rendjét;
@@ -554,6 +543,15 @@ rendeletben jelölje ki.
 
 (3) E törvénynek az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvénnyel megállapított 32. §-át 2014. július 31-e után szüretelt szőlőből készült borászati termékek esetében kell alkalmazni.
 
-(4) Ez a törvény a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(4) Ez a törvény
+
+- a) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet,
+- b) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet,
+- c) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőtelepítésekre vonatkozó engedélyezési rendszer tekintetében történő kiegészítéséről szóló, 2014. december 15-i 2015/560/EU felhatalmazáson alapuló bizottsági rendelet,
+- d) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőtelepítésekre vonatkozó engedélyezési rendszer tekintetében történő alkalmazásával kapcsolatos szabályok megállapításáról szóló, 2015. április 7-i 2015/561/EU bizottsági végrehajtási rendelet,
+
+végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (5)
+
+59. § A 4. § (1) bekezdése szerinti kataszteri osztályozás egyikébe sem tartozó, de 2009. augusztus 1-jén – a 2009. augusztus 1-jén hatályos 11. § szerinti – ültetvénykataszterben szereplő borszőlőültetvényeket 2016. december 31-ig a 4. § (1) bekezdés b) pont 2. alpontja szerinti, borszőlőtermesztésre alkalmas kataszteri besorolással rendelkező földterületen fekvő ültetvénynek kell tekinteni.
