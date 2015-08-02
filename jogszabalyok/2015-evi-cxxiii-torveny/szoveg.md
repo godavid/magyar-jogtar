@@ -207,76 +207,20 @@ rendeletben állapítsa meg.
 
 20. §
 
-21. § Az Ebtv. 35. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a finanszírozási szerződés megkötésének szempontjából a helyi önkormányzat vagy a helyi önkormányzat intézménye minősül egészségügyi szolgáltatónak, a finanszírozás keretében kapott összeg
-
-a) az egészségügyi szolgáltatók működésével kapcsolatos igazgatási kiadásokra nem használható fel,
-
-b) felhasználásáról a helyi önkormányzat vagy a helyi önkormányzat intézménye az érintett egészségügyi dolgozókat havonta tájékoztatja.”
-
-22. § Az Ebtv. „Az egészségügyi szolgáltatások finanszírozása” alcíme a következő 35/A. §-sal egészül ki:
-
-„35/A. § A háziorvosi, házi gyermekorvosi szolgáltató kormányrendeletben meghatározottak szerint jogosult szakmailag megalapozott és költséghatékony beutalási tevékenysége alapján az E. Alapból külön díjazásra, amelyet a háziorvosi, házi gyermekorvosi ellátáshoz kapcsolódó fejlesztési célokra fordíthat.”
-
-23. § Az Ebtv. 83. §-a a következő (2i) bekezdéssel egészül ki:
-
-„(2i) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 35/A. § szerinti külön díjazás feltételeit és felhasználásának részletes szabályait.”
-
-24. § Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 55. §-a helyébe a következő rendelkezés lép:
-
-„55. § A foglalkozás-egészségügy feladatait az egészségügyi alapellátásról szóló törvény tartalmazza.”
-
-25. § Az Eütv. 88. §-a helyébe a következő rendelkezés lép:
-
-„88. § Az alapellátás célját és feladatait az egészségügyi alapellátásról szóló törvény határozza meg.”
+21–25. §
 
 26–27. §
 
-28. § Hatályát veszti az Eütv.
+28–29. §
 
-- a) 152. § (1), (2), (4) és (5) bekezdése,
-- b) 247. § (3) bekezdés l) pontja.
-
-29. § Az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény 5. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(Nem kell megfizetni a százalékos mértékű egészségügyi hozzájárulást a következő jogcímeken keletkező jövedelmek után:)
-
-„f) az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is – az iskolaszövetkezet tevékenységében kifejtett személyes közreműködéséért kapott ellenszolgáltatás,”
-
-30. § (1) Az önálló orvosi tevékenységről szóló 2000. évi II. törvény (a továbbiakban: Öotv.) 2. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) Az Egészségbiztosítási Alapból a finanszírozás keretében folyósított összeg a praxisjog megszerzése érdekében felhasználható.”
+30. § (1)
 
 (2)
 
-31. § (1) Az Öotv. 2/B. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+31. §
 
-[A praxisjoggal rendelkező háziorvos és az adott praxisjoggal érintett települési önkormányzat közötti feladat-ellátási szerződés (a továbbiakban: feladat-ellátási szerződés) legalább az alábbiakat tartalmazza:]
-
-„d) a rendelési idő meghatározása, azzal, hogy az adott településen működő, praxisjoggal rendelkező háziorvosok kötelesek rendelési idejüket összehangoltan kialakítani,”
-
-(2) Az Öotv. 2/B. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés c) pontja szerinti fenntartási kötelezettség körében a települési önkormányzat köteles gondoskodni
-
-a) az egészségügyért felelős miniszter rendeletében meghatározott rendelő (a továbbiakban: rendelő) praxisjoggal rendelkező háziorvos részére történő térítésmentes használatba adásáról,
-
-b) – amennyiben a rendelő nem a háziorvos vagy a háziorvosi szolgáltató tulajdonában van – a rendelő külső homlokzati részei karbantartásáról, felújításáról, valamint a falakban elhelyezkedő vezetékek és a központi fűtésrendszer teljes vagy részleges cseréjével járó munkák elvégzéséről.”
-
-32. § (1) Az Öotv. 3. § (9) bekezdés a) pontja a következő ad) alponttal egészül ki:
-
-(Felhatalmazást kap
-
-a Kormány, hogy)
-
-„ad) a feladat-ellátási szerződés formai követelményeit rendeletben meghatározza,”
+32. § (1)
 
 (2)
 
-33. § Az Öotv.
-
-- a) 1. § (2) bekezdés a) pontjában az „az egészségügyről szóló 1997. évi CLIV. törvény” szövegrész helyébe az „az egészségügyi alapellátásról szóló törvény” szöveg,
-- b) 2/B. § (1) bekezdésében a „feladat-ellátási szerződés (a továbbiakban: feladat-ellátási szerződés) legalább az alábbiakat tartalmazza:” szövegrész helyébe a „feladat-ellátási szerződés (a továbbiakban: feladat-ellátási szerződés) kötelezően tartalmazza legalább az alábbi tartalmi elemeket:” szöveg
-
-lép.
+33. §
