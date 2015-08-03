@@ -205,6 +205,15 @@ a működési engedélyt hivatalból felfüggeszti.
 
 9/D. § A vasúti igazgatási szerv haladéktalanul tájékoztatja az Európai Vasúti Ügynökséget az országos vállalkozó vasúti működési engedély vagy ideiglenes működési engedély kiadásáról, módosításáról, felfüggesztéséről vagy visszavonásáról.
 
+9/E. § A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennállását évente – felügyeleti díj ellenében – ellenőrzi.
+
+(2) Az éves felügyeleti díj mértéke:
+
+- a) országos vállalkozó vasúti társaság esetén 1 363 000 forint,
+- b) elővárosi, vállalkozó vasúti társaság esetén 136 000 forint,
+- c) térségi, vállalkozó vasúti társaság esetén 14 000 forint,
+- d) helyi, városi, vállalkozó vasúti társaság esetén 14 000 forint.
+
 ### Bejelentéssel végezhető vasúti tevékenységek
 
 9/F. § (1) A működési engedélyhez nem kötött vasúti tevékenység és a pályahálózat-működtetés a vasúti igazgatási szerv részére történő bejelentés mellett végezhető.
@@ -752,6 +761,23 @@ kapcsolatos szabályokat.
 - c) egyedi kialakítású
 
 vasúti jármű országos vasúti pályahálózaton való közlekedtetéséhez.
+
+(6) A közlekedési hatóság évente – felügyeleti díj ellenében – ellenőrzi, hogy
+
+- a) a vasúti járművek gyártását, javítását végző személyek és szervezetek,
+- b) a vasútüzemi célt szolgáló tartály vagy kazán megfelelőségértékelését, az időszakos és soron kívüli vizsgálatát, valamint az üzemi vizsgálóhely felügyeletét ellátó vizsgáló szervezetek,
+- c) a vasúti járművek időszakos vizsgálatát végző szervezet, valamint
+- d) a vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek
+
+műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fennállnak-e.
+
+(7) Az éves felügyeleti díj mértéke
+
+- a) a vasúti járművek gyártását, javítását végző személyek és szervezetek
+  - aa) járműgyártása, főjavítás végzése esetén 967 000 forint,
+  - ab) fővizsgák végzése esetén 725 000 forint,
+  - ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 484 000 forint,
+- b) az (1) bekezdés b)–d) pontjában meghatározott szervezetek esetén 727 000 forint.
 
 ### X. Fejezet — AZ INTEGRÁLT VASÚTI TÁRSASÁGRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -1544,6 +1570,8 @@ biztosítható.
 (4) A vasúti igazgatási szerv legalább kétévente egyeztetést folytat a vasúti áru- és személyszállítási szolgáltatások igénybevevőinek képviselőivel, hogy figyelembe vegye a vasúti piacra vonatkozó álláspontjukat.
 
 (5) A vasúti igazgatási szerv szorosan együttműködik a közlekedési hatósággal. E hatóságok közösen keretet alakítanak ki az információk megosztásához és az együttműködéshez, amelynek célja a vasúti piacon a versenyre vagy a biztonságra gyakorolt káros hatások megelőzése. Ennek a keretnek magában kell foglalnia egy eljárást, amelynek révén a vasúti igazgatási szerv ajánlásokkal látja el a közlekedési hatóságot az olyan kérdések tekintetében, amelyek érinthetik a versenyt a vasúti piacon, valamint amelynek révén a közlekedési hatóság ajánlásokkal látja el az vasúti igazgatási szervet az olyan kérdések tekintetében, amelyek befolyásolhatják a biztonságot. Az egyes hatóságok saját hatáskörbe tartozó területen belüli függetlenségének sérelme nélkül az érintett hatóság határozatainak meghozatala előtt megvizsgál minden ajánlást. Ha az illetékes hatóság úgy határoz, hogy eltér ezektől az ajánlásoktól, indokolnia kell az ajánlástól való eltérést.
+
+(6) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységért az országos működési engedéllyel rendelkező vasúti társaságok felügyeleti díjat kötelesek fizetni, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. Előző évi fizetett hálózat-hozzáférési díj vagy hálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett hálózat-hozzáférési díjak alapján kell megfizetni.
 
 ### Együttműködés a versenyhatósággal
 
