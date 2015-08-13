@@ -4,19 +4,15 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról
 
 1–4. §
 
-5. § Az Ogytv. 113. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Párt tulajdonában vagy vagyonkezelésében lévő ingatlan az (1) bekezdésben foglalt összeg terhére nem használható fel irodai elhelyezés biztosítására.”
+5. §
 
 6–7. §
 
-8. § Az Ogytv.
+8. §
 
 - a)–b)
-- c) 111. § (1b) bekezdésében az „Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely olyan gazdasági társaság tulajdonában van” szövegrész helyébe az „Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely párt tulajdonában vagy vagyonkezelésében van, valamint amely olyan gazdasági társaság tulajdonában van” szöveg,
+- c)
 - d)
-
-lép.
 
 9. §
 
