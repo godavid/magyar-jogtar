@@ -67,7 +67,7 @@ szerinti közjegyző illetékes.
 - i) lajstromozott vagyontárgy: olyan ingó dolog vagy jog, amelyre vonatkozóan a tulajdonjog vagy a lajstromozott jog megszerzését belföldön vezetett közhiteles nyilvántartásba történő bejegyzés igazolja;
 - j) másodlagos öröklési vita: az öröklésben érdekeltek között a hagyatéki hitelezői igény, a nem természetben kiadni igényelt kötelesrész iránti igény, illetve a kötelmi hagyomány iránti igény jogalapja vagy annak összegszerűsége tárgyában felmerült vita;
 - k) osztályos egyezség: a hagyatéki eljárásban az örökösként érdekeltek között létrejött – a hagyatékban való részesedés mellett és kizárólag a hagyatéki vagyonra (annak egészére vagy részére) vonatkozóan kötött –, a hagyatékból való részesedést a hagyaték megnyíltára visszamenőleges hatállyal meghatározó, élők közötti jogügyletnek nem minősülő egyezség;
-- l) öröklésben érdekelt: az örökösként érdekelt, továbbá az, aki az eljárásban hagyatéki hitelezőként, igénylőként vagy kötelesrészre jogosultként lépett fel, továbbá a biztosítási intézkedés, illetve a jogorvoslat iránti kérelem előterjesztése körében a gyámhatóság;
+- l) öröklésben érdekelt: az örökösként érdekelt, továbbá az, aki az eljárásban hagyatéki hitelezőként, igénylőként vagy kötelesrészre jogosultként lépett fel, továbbá a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti végrendeleti végrehajtó és hagyatéki gondnok, valamint a biztosítási intézkedés, illetve a jogorvoslat iránti kérelem előterjesztése körében a gyámhatóság;
 - m) öröklési jogi vita: az örökösként érdekeltek között abban a kérdésben felmerült vita, hogy a hagyaték kit és milyen jogcímen illet, valamint a természetben kiadni igényelt kötelesrész tárgyában felmerült vita;
 - n) örökösként érdekelt: aki az eljárásban örökösként lép fel, ideértve azt is, akit az örökhagyó dologi hagyományban vagy halála esetére szóló ajándékban részesített, valamint az utóörököst és a dologi utóhagyományost is;
 - o) utóörökös: aki az örökhagyó végrendeleti intézkedése alapján az örökségben vagy annak egy részében valamely eseménytől vagy időponttól kezdve az eddigi örököst váltja fel.
@@ -148,9 +148,11 @@ szerinti közjegyző illetékes.
 - b) az a) pont szerinti irat hiányában a holtnak nyilvánító vagy a halál tényét megállapító végzés alapján, vagy
 - c) olyan személynek a bejelentése alapján, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik, az örökhagyó haláláról értesül.
 
-(2) Az (1) bekezdés c) pontja szerinti bejelentésben elő kell adni azokat az adatokat, amelyek a bejelentőnek a hagyatéki eljárás megindításához fűződő jogi érdekét valószínűsítik, valamint azokat, amelyek a hagyatéki eljárás lefolytatására való illetékesség megállapításához szükségesek. A bejelentéshez csatolni kell az illetékesség megállapításához szükséges adatokat alátámasztó, valamint a bejelentés szerinti örökhagyó halálának tényét igazoló okiratokat, vagy elő kell adni és valószínűsíteni kell azokat a körülményeket, amelyek miatt ezeknek az okiratoknak a csatolása elháríthatatlan akadályba ütközik.
+(2) Az (1) bekezdés c) pontja szerinti bejelentésben elő kell adni azokat az adatokat, amelyek a bejelentőnek a hagyatéki eljárás megindításához fűződő jogi érdekét valószínűsítik, valamint azokat, amelyek a hagyatéki eljárás lefolytatására való joghatóság (különösen az örökhagyó szokásos tartózkodási helye) és illetékesség megállapításához szükségesek. A bejelentéshez csatolni kell a joghatóság és az illetékesség megállapításához szükséges adatokat alátámasztó, valamint a bejelentés szerinti örökhagyó halálának tényét igazoló okiratokat, vagy elő kell adni és valószínűsíteni kell azokat a körülményeket, amelyek miatt ezeknek az okiratoknak a csatolása elháríthatatlan akadályba ütközik.
 
 (3) Az (1) bekezdés c) pontjában foglalt bejelentést a jegyzőnél kell megtenni. Ha a bejelentés nem tartalmazza a (2) bekezdésben írottakat, a jegyző a bejelentőt nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel. A jegyző az eljárást végzéssel megszünteti, ha a bejelentő a hiánypótlásra való felhívásnak nem tett eleget, és az erre megállapított határidő eltelte előtt a határidő meghosszabbítását sem kérte. A jegyző az eljárást megszünteti akkor is, ha a bejelentő a hiányokat a meghosszabbított határidő alatt sem pótolta. Az e bekezdés szerinti megszüntető végzés meghozatalára és az ellene rendelkezésre álló jogorvoslatra a Ket. rendelkezéseit kell megfelelően alkalmazni.
+
+(3a) Ha a bejelentő a joghatóság megállapításához nem szolgáltat elegendő adatot, úgy a szükséges adatok beszerzéséről a jegyzőnek hivatalból kell gondoskodnia. Az eljárás megszüntetésének ebből az okból nincs helye.
 
 (4) A jegyző az eljárás megindulását követő nyolc napon belül megkezdi a leltározást.
 
@@ -253,7 +255,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 (6) Ha a leltározás során az örökhagyó bizalmi vagyonkezelési szerződése a jegyző vagy a közjegyző birtokába kerül, vagy egyébként adat merül fel ilyen szerződés létrejöttére, vagy arra vonatkozóan, hogy az örökhagyó bizalmi vagyonkezelő volt, a jegyző vagy a közjegyző haladéktalanul értesíti a halálesetről a szerződésben szereplő vagyonrendelőt, további vagy új vagyonkezelőt és a kedvezményezettet.
 
-29. § (1) A leltározást a vagyon fekvésének helyén a szemlére vonatkozó szabályok szerint kell elvégezni, ha
+29. § (1) A leltározást a belföldi vagyon fekvésének helyén a szemlére vonatkozó szabályok szerint kell elvégezni, ha
 
 - a) az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő vagy ügyeinek vitelében akadályozott személy öröklési érdeke veszélyeztetve van,
 - b) örökösként csak a Magyar Állam érdekelt, vagy
@@ -274,7 +276,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 ### Biztosítási intézkedés
 
-32. § (1) Ha a hagyaték átadására még nem került sor, az öröklésben érdekelt azonban valószínűsítette, hogy a hagyatékhoz tartozó vagyontárgy veszélyben van, az öröklésben érdekelt indokolt kérelmére – amíg a leltárt meg nem küldte a közjegyzőnek, a jegyző, azt követően – a közjegyző végzésben biztosítási intézkedésként elrendelheti a leltárba felvett vagyonnak, a vagyon meghatározott részének vagy egyes vagyontárgyaknak
+32. § (1) Ha a hagyaték átadására még nem került sor, az öröklésben érdekelt azonban valószínűsítette, hogy a hagyatékhoz tartozó vagyontárgy veszélyben van, az öröklésben érdekelt indokolt kérelmére – amíg a leltárt meg nem küldte a közjegyzőnek, a jegyző, azt követően – a közjegyző végzésben biztosítási intézkedésként elrendelheti a leltárba felvett belföldi vagyonnak, e vagyon meghatározott részének vagy egyes vagyontárgyaknak
 
 - a) bírósági letétbe helyezését,
 - b) hatósági vagy közjegyzői letétbe vételét (az elrendelő személyének megfelelően),
@@ -351,6 +353,16 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 - b) intézkedik az iratok illetékességi okból történő áttételéről,
 - c) saját hatáskörben, illetve a jegyző megkeresésével intézkedik a hiányos leltár kiegészítése érdekében, vagy
 - d) megszünteti a hagyatéki eljárást.
+
+### A külföldi hagyatéki vagyonnal kapcsolatos intézkedések
+
+43/A. § (1) A külföldi hagyatéki vagyon leltározására a 20. §-ban foglaltak irányadóak azzal, hogy a külföldi hagyatéki vagyont a hagyatéki leltárba akkor kell felvenni, ha annak meglétét és hagyatékhoz tartozását igazolták.
+
+(2) Ha az öröklésben érdekelt külföldi vagyon meglétét és hagyatékhoz tartozását igazolni nem tudja, de valószínűsíti, kérésére – a hagyatéki leltár megküldését követően – a közjegyző hagyatéki eljárási igazolást állít ki annak érdekében, hogy az öröklésben érdekelt az (1) bekezdés szerinti igazoláshoz szükséges okiratot beszerezhesse.
+
+(3) A közjegyző a (2) bekezdésben foglalt kérelemtől függetlenül hivatalból is intézkedhet a külföldi vagyon meglétét és hagyatékhoz tartozását igazoló okirat beszerzése iránt.
+
+43/B. § A hagyatéki leltárban szereplő külföldi vagyonnak, e vagyon meghatározott részének vagy egyes vagyontárgyaknak a biztosítása érdekében az öröklésben érdekelt indokolt kérelmére a közjegyző hagyatéki eljárási igazolást ad ki. A hagyatéki eljárási igazolás nem minősül biztosítási intézkedésnek.
 
 ### III. Fejezet — A HAGYATÉKI TÁRGYALÁS
 
@@ -453,7 +465,8 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 - a) ha szabályszerű idézése ellenére valaki a tárgyaláson nem jelenik meg, ez a hagyatéki tárgyalás megtartását és a végzés meghozatalát nem akadályozza,
 - b) az egyezségkötés lehetőségére és
-- c) a közvetítői eljárás igénybevételének lehetőségére.
+- c) a közvetítői eljárás igénybevételének lehetőségére,
+- d) a megidézett személy köteles haladéktalanul bejelenteni, ha tudomása szerint az örökhagyó hagyatéka tekintetében külföldön eljárás volt vagy van folyamatban, egyúttal megadni a külföldi eljárás beazonosításához szükséges adatokat.
 
 (2) Ha a közjegyző rendelkezésére álló adatok alapján az örökhagyó házastársa az őt törvényes örökösként megillető haszonélvezeti jog (a továbbiakban: özvegyi jog) megváltására igényt terjeszthet elő, a közjegyző az özvegyi jog jogosultját és a törvényes állagörökösöket az özvegyi jog megváltásának lehetőségéről az idézésben tájékoztatja.
 
@@ -628,12 +641,13 @@ tárgyában bírósági vagy hatósági eljárás van folyamatban, vagy
 
 ### A hagyatéki eljárás megszüntetése
 
-78. § A közjegyző az előtte folyamatban levő hagyatéki eljárást végzéssel akkor is megszünteti, ha öröklési bizonyítvány kiadását nem kérték és
+78. § A közjegyző az előtte folyamatban levő hagyatéki eljárást végzéssel akkor is megszünteti, ha
 
-- a) nem áll fenn, illetve megszűnik
-  - aa) a 20. § (1) bekezdés b) pontjában, a 20. § (2) vagy (3) bekezdésében foglalt körülmény és a hagyatékban nincs a 20. § (1) bekezdés a) pontjában megjelölt vagyontárgy,
-  - ab) az a körülmény, amelynek fennállása miatt a hagyaték leltározása e törvény alapján kötelező,
-- b) a hagyatéki leltár felvétele kérelemre történt és a kérelmező – több kérelmező esetén valamennyi kérelmező – e kérelmét a hagyatékátadó végzés meghozataláig visszavonta.
+- a) joghatósága hiányát állapítja meg, vagy
+- b) öröklési bizonyítvány kiadását nem kérték és
+  - ba) nem áll fenn, illetve megszűnik a 20. § (1) bekezdés b) pontjában, a 20. § (2) vagy (3) bekezdésében foglalt körülmény és a hagyatékban nincs a 20. § (1) bekezdés a) pontjában megjelölt vagyontárgy,
+  - bb) nem áll fenn, illetve megszűnik az a körülmény, amelynek fennállása miatt a hagyaték leltározása e törvény alapján kötelező,
+  - bc) a hagyatéki leltár felvétele kérelemre történt és a kérelmező – több kérelmező esetén valamennyi kérelmező – e kérelmét a hagyatékátadó végzés meghozataláig visszavonta.
 
 ### A hagyaték átadása
 
@@ -670,6 +684,8 @@ hogy az ingó vagyontárgy nem tartozik a hagyatékhoz, hanem az igénylőt ille
 azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset kivételével – külön végzésben meg kell állapítani, hogy az a házastársat (volt házastársat), illetve az élettársat (volt élettársát) illeti; e végzés jogerőre emelkedéséig a hagyatéki eljárást a vagyontárgy tekintetében fel kell függeszteni. Ha a vagyontárgy rendelkezési jogát közhiteles nyilvántartás tartalmazza, a tulajdonjognak a házastárs (volt házastárs), illetve az élettárs (volt élettárs) javára történő bejegyzése iránt a hagyatékátadó végzés megküldésével nyilvántartó hatóságot meg kell keresni.
 
 (5) Ha vagyontárgy közhiteles nyilvántartásában tulajdonosként feltüntetett személynek az örökhagyóval való azonossága kétséges, a vagyontárgy csak akkor vehető fel a hagyatékba, ha a közjegyző az azonosságot megállapítja. Ha az azonosság a hagyatéki iratokból vagy a hagyatéki eljárásban érdekeltek által felmutatott okiratból, vagy az érdekeltek nyilatkozataiból nem állapítható meg, a közjegyző az azonosság igazolása és ennek eredményeként a leltár kiegészítése érdekében a jegyzőt keresi meg. Az azonosság megállapítását a közjegyző a hagyatékátadó végzésben a nyilvántartást vezető hatósággal közli. Ez a közlés a nyilvántartást vezető hatóságot köti.
+
+81/A. § A külföldi hagyatéki vagyonból az igazoltan meglévő és hagyatékhoz tartozó vagyon adható át.
 
 82. § A hagyatékátadó végzésben a hagyatékot abban a részében teljes hatállyal kell átadni, amelyben a teljes hatályú átadás feltételei fennállnak, míg ideiglenes hatállyal kell átadni abban a részében, amelyben az ideiglenes hatályú átadás feltételei állnak fenn.
 
@@ -744,7 +760,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 91. § (1) A fellebbezéssel megtámadható végzés jogerőre emelkedését a közjegyző állapítja meg. A jogerőre emelkedésről az érdekelteket külön értesíteni nem kell, de az érdekelt kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
 
-(2) Ha a hagyatékot teljes hatállyal átadó végzés vagy a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzés jogkövetkezményeinek foganatosításához közhiteles nyilvántartásba való bejegyzés szükséges, annak foganatosítása iránt a közjegyző a nyilvántartást vezető hatóságot a végzés egy példányának megküldésével megkeresi.
+(2) Ha a hagyatékot teljes hatállyal átadó végzés vagy a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzés jogkövetkezményeinek foganatosításához közhiteles nyilvántartásba való bejegyzés szükséges, annak foganatosítása iránt a közjegyző a nyilvántartást vezető belföldi hatóságot a végzés egy példányának megküldésével megkeresi.
 
 (2a) Ha a teljes hatályú hagyatékátadó végzés utóöröklési jogot tartalmaz, akkor a közjegyző a Végrendeletek Országos Nyilvántartásába bejegyzi az előörökös nevét, születési nevét, születési helyét és idejét, anyja születési nevét, valamint az utóöröklési jogot tartalmazó teljes hatályú hagyatékátadó végzés egyedi azonosításához szükséges adatokat.
 
@@ -865,6 +881,19 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (2) Az előörökös hagyatékát terhelő tartozások az utóörökséget is terhelik, kivéve azokat, amelyek annak következtében keletkeztek, hogy az előörökös túllépte az előörökösként reá háramlott vagyonra vonatkozó – Ptk. szerinti – rendelkezési jogának korlátait.
 
+### Hagyatéki eljárási igazolás
+
+101/B. § (1) Annak az öröklésben érdekeltnek a kérelmére, aki
+
+- a) külföldi hagyatéki vagyon meglétét valószínűsíti, vagy
+- b) külföldi hagyatéki vagyon igazolását követően valószínűsíti, hogy az veszélyben van,
+
+a közjegyző külföldi felhasználás céljából külön végzésbe foglalt hagyatéki eljárási igazolást állít ki.
+
+(2) A hagyatéki eljárási igazolás azt igazolja, hogy az örökhagyó hagyatéka tekintetében a közjegyző előtt hagyatéki eljárás van folyamatban és abban – az eljárás adatai szerint – kik az öröklésben érdekeltek.
+
+(3) A hagyatéki eljárási igazolás nem minősül jogot keletkeztető vagy kötelezettséget megállapító okiratnak, nem jogosít fel a hagyatéki vagyon birtokba vételére, használatára, hasznosítására, haszonélvezetére és a hagyatéki vagyonnal való rendelkezésre, nem képez továbbá érvényes jogcímet nyilvántartásba való bejegyzéshez. A hagyatékátadó végzésben az előbbiekben felsorolt tényekre utalni kell.
+
 ### Öröklési bizonyítvány
 
 102. § (1) Annak a kérelmére, aki valószínűsíti, hogy jogainak érvényesítéséhez vagy megóvásához az örökhagyó utáni öröklési rend igazolása szükséges, a közjegyző a hagyatékban vagy annak egy részében érvényesülő öröklési rendet (az örökös személyét, a hagyatékban való részesülése jogcímét és a hagyatékban való részesülése arányát) külön végzésbe foglalt öröklési bizonyítvánnyal állapítja meg.
@@ -886,6 +915,20 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (2) Az öröklési bizonyítvány hatályvesztése nem érinti a közjegyzőnek az öröklési bizonyítványhoz a 102. § (5) bekezdése szerinti kötöttségét.
 
+### Európai öröklési bizonyítvány
+
+102/B. § (1) Európai öröklési bizonyítvány kiállítása – a (2) bekezdésben foglalt kivétellel – a teljes hatályú hagyatékátadó végzés, a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzés, valamint az ideiglenes hagyatékátadó végzéssel érintett valamennyi igény bírósági elbírálása esetén hozott hagyatéki eljárást befejező végzés jogerőre emelkedését követően kérhető.
+
+(2) A 650/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban ezen alcímben: Rendelet) szerinti végrendeleti végrehajtó, valamint hagyatéki gondnok – ideértve a 32. § (2) és (3) bekezdése szerinti ügygondnokot is – az (1) bekezdésben megjelölt időpontot megelőzően is kérheti európai öröklési bizonyítvány kiállítását a Rendelet 63. cikk (2) bekezdés c) pontjában foglaltak bizonyítása érdekében.
+
+(3) Az (1) és (2) bekezdés szerinti kérelem elbírálására a hagyatéki eljárást lefolytató közjegyző illetékes.
+
+(4) A kérelemhez a Rendelet 65. cikk (3) bekezdésében foglalt okiratok közül nem szükséges csatolni azokat, amelyek a hagyatéki eljárásban már becsatolásra kerültek, illetve amelyek egyébként a közjegyző rendelkezésére állnak.
+
+102/C. § (1) A közjegyző az európai öröklési bizonyítvány kiállítása iránti kérelemről külön végzésben dönt.
+
+(2) A közjegyző a kérelemnek helyt adó végzés jogerőre emelkedését követően haladéktalanul kiállítja az európai öröklési bizonyítványt az 1329/2014/EU bizottsági végrehajtási rendelet 5. mellékletében közzétett formanyomtatvány felhasználásával.
+
 ### Póthagyatéki eljárás
 
 103. § (1) Ha a hagyatéki eljárás (jelen §-ban a továbbiakban: alaphagyatéki eljárás) befejezése után kerül elő a hagyatékhoz tartozó valamilyen vagyontárgy, póthagyatéki eljárásnak van helye. A póthagyatéki eljárásra a hagyatéki eljárás szabályait kell megfelelően alkalmazni.
@@ -894,13 +937,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (3) A közjegyző a hagyatékátadó végzés meghozatalát megelőzően hivatalból intézkedik az alaphagyatéki iratok beszerzése érdekében.
 
-### Nemzetközi vonatkozású rendelkezések
-
-104. § (1) Nemzetközi vonatkozású ügyekben törvény vagy nemzetközi szerződés alapján kell eldönteni, hogy van-e a közjegyzőnek joghatósága az eljárás lefolytatására, és az eljárásban mely állam anyagi joga alkalmazandó.
-
-(2) Ha arra vonatkozó adat merül fel, hogy az örökhagyó az esetleges külföldi állampolgársága mellett halálakor magyar állampolgársággal is rendelkezett, ennek tisztázása érdekében adatszolgáltatás céljából a hagyatéki eljárásra illetékes jegyző vagy közjegyző megkeresi az állampolgársági ügyekben eljáró szervet.
-
-(3) Ha az örökhagyó kizárólag külföldi állampolgár volt vagy a magyar állampolgárság mellett külföldi állampolgársággal is rendelkezett, a jegyző vagy a közjegyző a hagyatéki eljárás lefolytatásának tényéről az állampolgárság szerinti állam Magyarországra akkreditált külképviseletét közvetlenül értesíti.
+#### 104. §
 
 ### V. Fejezet — A KÖZJEGYZŐ ELJÁRÁSÁVAL KAPCSOLATOS JOGORVOSLATOK
 
@@ -946,6 +983,10 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (2) A közjegyző a biztosítási intézkedésről szóló végzést – a fellebbezésben foglaltaknak megfelelően – részben vagy egészben maga is megváltoztathatja.
 
+(3) A közjegyző az európai öröklési bizonyítvány kiállítása iránti kérelemnek helyt adó végzését kérelemre vagy saját hatáskörben megváltoztatja vagy hatályon kívül helyezi, ha a 650/2012/EU európai parlamenti és tanácsi rendelet 71. cikk (2) bekezdésében foglalt feltétel fennáll.
+
+(4) A közjegyző a (3) bekezdésben meghatározott esetben az európai öröklési bizonyítvány hatályát – kérelemre – felfüggesztheti az európai öröklési bizonyítvány kiállítása iránti kérelemnek helyt adó végzést megváltoztató vagy hatályon kívül helyező végzés meghozataláig.
+
 110. § (1) A közjegyző hagyatéki eljárás során hozott egyéb végzései ellen – a (2) bekezdésben foglalt kivétellel – fellebbezésnek nincs helye.
 
 (2) Fellebbezésnek van helye a hagyatéki eljárás során
@@ -966,7 +1007,15 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 végzés ellen.
 
-(3) A (2) bekezdésben foglalt fellebbezésnek a végzés végrehajtására halasztó hatálya nincs.
+(2a) Fellebbezésnek van helye
+
+- a) az európai öröklési bizonyítvány kiállítása iránti kérelem tárgyában hozott,
+- b) az európai öröklési bizonyítvány kiállítása iránti kérelemnek helyt adó végzés megváltoztatása vagy hatályon kívül helyezése tárgyában hozott,
+- c) az európai öröklési bizonyítvány hatályának felfüggesztése tárgyában hozott
+
+végzés ellen.
+
+(3) A (2) bekezdésben és (2a) bekezdés c) pontjában foglalt fellebbezésnek a végzés végrehajtására halasztó hatálya nincs.
 
 (4) Az eljárást befejező végzés elleni fellebbezésben kifogásolható a bizonyítási indítványt elutasító végzés.
 
@@ -1062,6 +1111,8 @@ végzés ellen.
 - e) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárásban kirendelt zár-, ügygondnok, eseti gyám és eseti gondnok díját, felszámítható költségeit, valamint ezek megfizetésének módját,
 - f) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárás iratainak nem hiteles másolatáért járó díj mértékét és megfizetésének módját,
 - g) a hagyatéki eljárásban kibocsátott hirdetmények elektronikus nyilvántartásából történő felvilágosításadás részletes szabályait és az államháztartásért felelős miniszterrel egyetértésben a hirdetményi nyilvántartásba való rögzítés és közzététel költségtérítésének összegét, valamint megfizetésének módját.
+
+119/A. § E törvény 19. § (3a) bekezdése, 43/A. és 43/B. §-a, 57. § (1) bekezdés d) pontja, 78. §-a, 81/A. §-a, 101/B. §-a, 102/B. és 102/C. §-a, 109. § (3) és (4) bekezdése, valamint 110. § (2a) bekezdése az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Hatálybalépés
 
