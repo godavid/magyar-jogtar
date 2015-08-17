@@ -122,7 +122,7 @@ a bírósági végrehajtásról
 
 ### Végrehajtási lap
 
-15. § (1) Az első fokon eljárt bíróság végrehajtási lapot állít˙ki
+15. § (1) Az első fokon eljárt bíróság végrehajtási lapot állít ki
 
 - a) a bíróság polgári ügyben hozott marasztaló határozata alapján,
 - b) a bíróság büntetőügyben hozott határozatának a polgári jogi igénnyel kapcsolatos marasztalást tartalmazó része alapján,
@@ -203,7 +203,8 @@ a bírósági végrehajtásról
 - a) a 44/2001/EK tanácsi rendelet szerinti közokiratot az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - b) a 2201/2003/EK tanácsi rendelet szerinti közokiratot a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - c) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá nem tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- d) az 1215/2012/EU rendelet 58. cikke szerinti közokiratot és 59. cikke szerinti perbeli egyezséget az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- d) az 1215/2012/EU rendelet 58. cikke szerinti közokiratot és 59. cikke szerinti perbeli egyezséget az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- e) a 650/2012/EU európai parlamenti és tanácsi rendelet szerint végrehajtható külföldi közokiratot az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 (2) Végrehajtási záradékkal látja el
 
@@ -295,7 +296,9 @@ a bírósági végrehajtásról
 - d) a 861/2007/EK rendelet IV. melléklete szerinti tanúsítványt,
 - e) a 4/2009/EK tanácsi rendelet I. és II. melléklete szerinti kivonatot,
 - f) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény V. melléklete szerinti igazolást,
-- g) az 1215/2012/EU rendelet 53. cikke szerinti tanúsítványt az 1215/2012/EU rendelet I. mellékletében közzétett formanyomtatvány felhasználásával.
+- g) az 1215/2012/EU rendelet 53. cikke szerinti tanúsítványt az 1215/2012/EU rendelet I. mellékletében közzétett formanyomtatvány felhasználásával,
+- h) a 650/2012/EU európai parlamenti és tanácsi rendelet 46. cikke (3) bekezdésének b) pontja szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 1. mellékletében közzétett formanyomtatvány felhasználásával,
+- i) a 650/2012/EU európai parlamenti és tanácsi rendelet 61. cikkének (2) bekezdése szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 3. mellékletében közzétett formanyomtatvány felhasználásával.
 
 (2) A közokiratot kiállító hatóság székhelye szerint illetékes járásbíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
@@ -303,7 +306,9 @@ a bírósági végrehajtásról
 - b) a 805/2004/EK rendelet I–V. melléklete szerinti tanúsítványt,
 - c) a 4/2009/EK tanácsi rendelet III. és IV. melléklete szerinti kivonatot,
 - d) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény VI. melléklete szerinti igazolást,
-- e) az 1215/2012/EU rendelet 60. cikke szerinti tanúsítványt az 1215/2012/EU rendelet II. mellékletében közzétett formanyomtatvány felhasználásával.
+- e) az 1215/2012/EU rendelet 60. cikke szerinti tanúsítványt az 1215/2012/EU rendelet II. mellékletében közzétett formanyomtatvány felhasználásával,
+- f) a 650/2012/EU európai parlamenti és tanácsi rendelet 46. cikke (3) bekezdésének b) pontja szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 1. mellékletében közzétett formanyomtatvány felhasználásával,
+- g) a 650/2012/EU európai parlamenti és tanácsi rendelet 60. cikkének (2) bekezdése szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 2. mellékletében közzétett formanyomtatvány felhasználásával.
 
 (3) A 2201/2003/EK tanácsi rendelet III. és IV. melléklete szerinti, a láthatási jogokra és a gyermek visszavitelét elrendelő határozatokra vonatkozó igazolást az első fokon eljárt bíróság állítja ki:
 
@@ -312,7 +317,7 @@ a bírósági végrehajtásról
 
 (4) Az 1896/2006/EK rendelet VII. melléklete szerinti formanyomtatványt az európai fizetési meghagyást kibocsátó közjegyző állítja ki.
 
-(5) Az (1) bekezdés a), b), e) és g) pontja szerinti, valamint a (2) bekezdés a), c) és e) pontja szerinti tanúsítvány, igazolás és kivonat több alkalommal is kiállítható.
+(5) Az (1) bekezdés a), b), e), g) és h) pontja szerinti, valamint a (2) bekezdés a), c), e) és f) pontja szerinti tanúsítvány, igazolás és kivonat több alkalommal is kiállítható.
 
 (6) A bíróság a (3) bekezdés szerinti igazolást kérelemre kijavítja; a kijavításról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
 
@@ -507,7 +512,7 @@ a bírósági végrehajtásról
 
 (3) Amennyiben a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az (1) bekezdésben meghatározott iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, az iratot hirdetmény útján kell kézbesíteni. A Pp. 102. § (2) és (5)–(7) bekezdéseit megfelelően alkalmazni kell.
 
-(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, és az 1215/2012/EU rendelet szerinti határozat végrehajtására indult eljárásban.
+(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, az 1215/2012/EU rendelet, és a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti határozat végrehajtására indult eljárásban.
 
 37/C. § (1) A végrehajtó a végrehajtás foganatosítása során keletkezett iratokat – ha a kézbesítési rendszer használata e törvény szerint kötelező – a kézbesítési rendszer igénybevételével elektronikus úton kézbesíti.
 
@@ -2354,7 +2359,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (2) A biztosítási intézkedést az a bíróság rendeli el, amely a határozat alapján — a megfelelő feltételek esetén — a végrehajtási lap kiállítására jogosult lenne.
 
-(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a követelés olyan bírósági határozaton alapul, amelyet a 44/2001/EK tanácsi rendelet, a 4/2009/EK tanácsi rendelet vagy az 1215/2012/EU rendelet alapján Magyarországon el kell ismerni. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
+(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a követelés olyan bírósági határozaton alapul, amelyet a 44/2001/EK tanácsi rendelet, a 4/2009/EK tanácsi rendelet, az 1215/2012/EU rendelet vagy a 650/2012/EU európai parlamenti és tanácsi rendelet alapján Magyarországon el kell ismerni. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
 
 (4) A bíróság a biztosítási intézkedést – 400 millió forintot meg nem haladó összegben – az (1) bekezdés alapján elrendeli, ha a követelés a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben hozott ítéletnek a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére kötelező részén alapul, amely ítélet a Teljesítésigazolási Szakértői Szerv szakvéleményében meghatározott összeget (részben vagy egészben) mint pénzbeli marasztalást tartalmazza.
 
@@ -2617,7 +2622,8 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 210/A. § (1) A bíróság
 
 - a) a 44/2001/EK tanácsi rendelet szerinti, a bírósági határozat (perbeli egyezség) és közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 44/2001/EK tanácsi rendelet másképpen nem rendelkezik – és
-- b) a hágai jegyzőkönyv hatálya alá nem tartozó tagállamban, a 4/2009/EK tanácsi rendelet szerinti tartási ügyben hozott bírósági határozat (perbeli egyezség) és kiállított közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 4/2009/EK tanácsi rendelet másképpen nem rendelkezik –
+- b) a hágai jegyzőkönyv hatálya alá nem tartozó tagállamban, a 4/2009/EK tanácsi rendelet szerinti tartási ügyben hozott bírósági határozat (perbeli egyezség) és kiállított közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 4/2009/EK tanácsi rendelet másképpen nem rendelkezik –,
+- c) a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti öröklési ügyben hozott bírósági határozat (perbeli egyezség) és kiállított közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 650/2012/EU európai parlamenti és tanácsi rendelet másképpen nem rendelkezik
 
 az e Fejezetben foglaltak szerint jár el.
 
@@ -4390,6 +4396,7 @@ való megfelelést szolgálja.
 - e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
 - f) 23/B. §-ának (1) bekezdése, 31/C. §-a, 37/B. §-a, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése és 210/A. §-a a polgári és kereskedelmi ügyekben a joghatóságról, valamint a bírósági határozatok végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet,
 - g) 16. §-ának l) pontja, 23/B. §-a, 31/C. §-a, 37/B. § (4) bekezdése, 48. §-ának (8) bekezdése, 164. §-ának (2) bekezdése, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése, 210/A. §-a és 211. §-ának (3) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet [14. cikk, 16–18. cikk, 21. cikk, 26–27. cikk, 36. cikk, 41. cikk (2) bekezdés, 43. cikk, 48. cikk (3) bekezdés, 61. cikk],
-- h) 14/A. §-a, 16. § n) pontja, 23/B. § (1) bekezdés d) pontja, 31/C. § (1) bekezdés g) pontja, 31/C. § (2) bekezdés e) pontja, 31/C. § (5) bekezdése, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, és 211. § (3) bekezdés c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet
+- h) 14/A. §-a, 16. § n) pontja, 23/B. § (1) bekezdés d) pontja, 31/C. § (1) bekezdés g) pontja, 31/C. § (2) bekezdés e) pontja, 31/C. § (5) bekezdése, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, és 211. § (3) bekezdés c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
+- i) 23/B. § (1) bekezdés e) pontja, 31/C. § (1) bekezdés h) és i) pontja, 31/C. § (2) bekezdés f) és g) pontja, 210/A. § (1) bekezdés c) pontja az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
