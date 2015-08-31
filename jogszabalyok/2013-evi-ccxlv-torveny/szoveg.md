@@ -78,7 +78,7 @@ egyes törvényeknek a gyermekek védelme érdekében történő módosításár
 
 45–58. §
 
-59. § (1)
+59. § (1) Hatályát veszti az Nkt. 13. § (6) bekezdése.
 
 (2)
 
