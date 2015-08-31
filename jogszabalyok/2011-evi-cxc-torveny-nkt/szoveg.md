@@ -284,7 +284,7 @@ tagozat,
 - a) speciális szakiskolaként működik, ha a többi tanulóval sajátos nevelési igénye miatt együtt haladásra képteleneket készíti fel szakmai vizsgára, vagy nyújt részükre munkába álláshoz és életkezdéshez szükséges ismereteket; az évfolyamok száma a speciális kerettanterv szerint meghatározott,
 - b) készségfejlesztő speciális szakiskolaként működik, ha a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását; az évfolyamok száma a speciális kerettanterv szerint meghatározott.
 
-(6) Az értelmi fogyatékos tanulók képességét fejlesztő szakiskola előkészítő szakiskolaként működik, ha a nevelés-oktatás kizárólag a kilencedik–tizedik évfolyamon folyik. A tanuló a kilencedik–tizedik évfolyamon felkészülhet a speciális szakiskola vagy a készségfejlesztő szakiskola szakképzési évfolyamán történő továbbtanulásra.
+(6)
 
 #### 12. Köznevelési Hídprogramok
 
