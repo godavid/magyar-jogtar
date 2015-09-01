@@ -1646,6 +1646,8 @@ akkor, ha az egyéni vállalkozó a társadalombiztosítás ellátásaira és a 
 
 (9) Az (1)–(8) bekezdésben foglalt rendelkezésektől függetlenül nem kell a jövedelmet megállapítani az ingó vagyontárgyak átruházására tekintettel megszerzett bevételből – ide nem értve, ha a bevételt a magánszemély egyéni vállalkozóként szerzi meg –, ha a bevétel az adóév elejétől összesítve nem haladja meg a 600 ezer forintot.
 
+(9a) Az (1)–(9) bekezdésben foglalt rendelkezésektől függetlenül nem kell jövedelmet megállapítani az ingó vagyontárgyak átruházására tekintettel megszerzett bevétel után, ha azt az adózó – a természetes személyek adósságrendezéséről szóló törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján – teljes egészében a tartozásai megfizetésére fordítja. Abban az esetben, ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.
+
 (10) A magánszemély kifizetőtől – nem egyéni vállalkozóként – fémkereskedelmi engedélyköteles anyag (fémhulladék) átruházására tekintettel szerzett bevételéből 25 százalék számít jövedelemnek. Az adót a kifizetéskor a kifizető állapítja meg és vonja le, továbbá a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre – a magánszemélyhez nem köthető kötelezettségként – vallja be és fizeti meg. E jövedelemmel összefüggésben a kifizetőt, illetve a magánszemélyt egyéb, közteherrel összefüggő kötelezettség nem terheli.
 
 (11) Ha az ingó vagyontárgy átruházásából származó jövedelmet az (1)–(5) bekezdés rendelkezései szerint kell megállapítani, a bevételnek az ingó vagyontárgy szerződéskötés időpontjában ismert szokásos piaci értékét meghaladó részére a 28. § (14) bekezdés rendelkezését kell alkalmazni.
@@ -1721,7 +1723,7 @@ kell azonosnak tekinteni.
 
 (7) Az Szja tv. 2008. január 1-je előtt hatályos rendelkezései szerint lakásszerzési kedvezménnyel szerzett lakás átruházása esetén a (6) bekezdés alkalmazásában számított összegbe be kell számítani a lakásszerzési kedvezmény alapjaként érvényesített összeget, ha az ilyen lakás átruházása a lakásszerzési kedvezmény érvényesítésének évében vagy azt követő negyedik naptári év utolsó napját megelőzően történt.
 
-(8)
+(8) Nem kell jövedelmet megállapítani az ingatlan, vagyoni értékű jog átruházására tekintettel megszerzett bevétel után, ha azt a bevételt az adózó a természetes személyek adósságrendezéséről szóló törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján teljes egészében a tartozásai megfizetésére fordítja. Abban az esetben, ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.
 
 62/A. § (1) Ha a termőföldből átminősített ingatlan átruházásából származó bevételnek a bevételből – a 62. § (1) bekezdése szerint – levonható költségeket meghaladó része (e meghaladó rész a továbbiakban: hozam) nagyobb, mint az ingatlan tulajdonban tartásának időszakára kiszámított szokásos hozam, akkor is, ha az értékesítés gazdasági tevékenység [3. § 46. pont] keretében történik, az adó alapja
 
@@ -3274,6 +3276,14 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 7.27. külföldön bejegyzett pártalapítvány által, a bejegyzés helye szerinti állam állampolgárságával rendelkező munkavállalója részére a munkavégzésre irányuló jogviszonyra tekintettel kifizetett összeg, amennyiben e jogviszonyra tekintettel a bejegyzés helye szerinti állam nem vet ki rá adót.
 
 7.28. az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló törvény rendelkezései végrehajtása következtében megszűnt kötelezettség.
+
+7.29. a természetes személyek adósságrendezési eljárásában
+
+a) az adóssal, adóstárssal a bíróságon kívüli adósságrendezés során kötött megállapodásban vagy a bírósági adósságrendezési eljárásban kötött egyezségkötés, valamint az egyezség módosítása során elengedett követelés,
+
+b) az a követelés, amelyet az adósnak a bírósági adósságrendezési eljárásban az adósságtörlesztési határozat, az adósságtörlesztési határozat módosítása, valamint a mentesítő határozat alapján nem kell megfizetnie,
+
+c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által hozott adósságtörlesztési határozatban az adós számára meghatározott adósságrendezési kötelezettség teljesítése érdekében települési önkormányzattól, munkáltatótól, közhasznú szervezettől vagy egyházi jogi személytől kapott támogatás vagy adomány, ha annak egy naptári évben egy adományozótól juttatott összege havi átlagban nem éri el az öregségi nyugdíj legkisebb összegének másfélszeresét.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 

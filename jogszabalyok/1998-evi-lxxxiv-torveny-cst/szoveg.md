@@ -166,26 +166,24 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 14. § Amennyiben a tizennyolcadik életévét betöltött személynek rendszeres jövedelme van, úgy a rá tekintettel vagy a részére megállapított családi pótlék folyósítását a negyedik hónaptól mindaddig szüneteltetni kell, amíg rendszeres jövedelemmel rendelkezik. A szüneteltetés a 12. § (1) bekezdése szerinti számítást nem érinti.
 
-### A tankötelezettség mulasztásával összefüggő rendelkezések
+### Az óvodai nevelésben való részvételi kötelezettség megszegésével, valamint a tankötelezettség mulasztásával összefüggő rendelkezések
 
-15. § (1) Ha a tanköteles vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény igazgatójának jelzése alapján a gyámhatóság
+15. § (1) Ha az óvodai nevelésben való részvételre kötelezett, a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – az óvodai nevelésben való részvételi kötelezettségét megszegi vagy a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény vezetőjének jelzése alapján a gyámhatóság
 
-- a) az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja az iskoláztatási támogatás jogosultját a b) pontban meghatározott jogkövetkezményre,
-- b) az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a fővárosi és megyei kormányhivatalnál az ellátás szüneteltetését.
+- a) az adott nevelési évben igazolatlanul mulasztott ötödik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja a családi pótlék jogosultját a b) pontban meghatározott jogkövetkezményre,
+- b) az adott évben igazolatlanul mulasztott huszadik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a fővárosi és megyei kormányhivatalnál az ellátás szüneteltetését.
 
-(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a közoktatási intézmény kötelező tanórai foglalkozásai tekintetében
+(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha az óvodai nevelésben való részvételi kötelezettséget olyan gyermek szegi meg, illetve a kötelező tanórai foglalkozások tekintetében olyan gyermek mulaszt igazolatlanul,
 
-- a) nevelőszülőnél elhelyezett,
-- b) gyermekotthonban elhelyezett,
-- c) javítóintézetben nevelt vagy büntetés-végrehajtási intézetben lévő, gyermekvédelmi gondoskodás alatt álló,
-- d) szociális intézményben elhelyezett
+- a) akit nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyeztek el, vagy
+- b) aki gyermekvédelmi gondoskodás alatt áll és javítóintézetben vagy büntetés-végrehajtási intézetben helyezték el.
 
-gyermek mulasztott.
+(3) A fővárosi és megyei kormányhivatal a gyámhatóság kezdeményezésére megszünteti a családi pótlék szüneteltetését, ha
 
-(3) A fővárosi és megyei kormányhivatal a gyámhatóság kezdeményezésére megszünteti az iskoláztatási támogatás szüneteltetését, ha
-
-- a) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban nem haladta meg az ötöt, vagy
-- b) a (2) bekezdésben meghatározott esetek valamelyike bekövetkezett.
+- a) a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban
+  - aa) a gyermek igazolatlanul mulasztott óvodai nevelési napjainak száma nem haladta meg a három napot, vagy
+  - ab) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma nem haladta meg az ötöt; vagy
+- b) a (2) bekezdésben meghatározott esetek valamelyike következett be.
 
 16–18. §
 
@@ -353,11 +351,11 @@ gyermek mulasztott.
 
 (6) A családi pótlékot az elrendelést, illetve a megszüntetést követő második hónaptól kell természetben biztosítani, illetve pénzbeli formában folyósítani.
 
-(7) Az iskoláztatási támogatás szüneteltetése esetén a fővárosi és megyei kormányhivatal – a (8) bekezdésben foglalt kivétellel – az iskoláztatási támogatás szüneteltetését elrendelő döntése jogerőre emelkedésének hónapját megelőző hónapra járó ellátást folyósítja utolsó alkalommal a jogosult részére.
+(7) A családi pótlék szüneteltetése esetén a fővárosi és megyei kormányhivatal – a (8) bekezdésben foglalt kivétellel – a családi pótlék szüneteltetését elrendelő döntése jogerőre emelkedésének hónapját megelőző hónapra járó ellátást folyósítja utolsó alkalommal a jogosult részére.
 
-(8) Ha az iskoláztatási támogatás szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
+(8) Ha a családi pótlék szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
 
-(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésben megjelölt hónapra, ennek hiányában a kezdeményezés hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a fővárosi és megyei kormányhivatalnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
+(9) A családi pótlék szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésben megjelölt hónapra, ennek hiányában a kezdeményezés hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a fővárosi és megyei kormányhivatalnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
 
 38. § (1) Ha a kérelem elbírálása után megállapítást nyer, hogy a kérelmet jogszabálysértő módon elutasították, vagy alacsonyabb összegű ellátást állapítottak meg, illetőleg folyósítottak, úgy a jogszabálysértés megállapításától visszafelé számított három éven belül járó összeget ki kell fizetni.
 
@@ -530,7 +528,7 @@ közvetlen lekérdezéssel díjmentesen elérheti.
   - bb) a családtámogatási ellátások igényléséhez szükséges formanyomtatványok tartalmát;
 - c) a Kormány arra, hogy a 2. § c)–e) pontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg.
 
-52. §
+52. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 15. §-t és 37. § (7)–(9) bekezdést – a 15. § (1) bekezdés a) pontjának és (2) bekezdésének kivételével – az óvodai nevelésben való részvételi kötelezettség megszegése körében 2016. január 1-jétől kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

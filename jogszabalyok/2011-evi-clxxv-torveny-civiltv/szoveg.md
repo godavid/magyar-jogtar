@@ -284,7 +284,7 @@ azt negyvenöt napon belül jelentse be a bíróságnak.
 - a) az ügyészséget,
 - b) a civil szervezet székhelye szerint illetékes adó- és vámhatóságot, társadalombiztosítási igazgatási szervet,
 - c) a civil szervezet székhelye szerint illetékes végrehajtót (végrehajtókat),
-- d) a Magyar Bírósági Végrehajtói Kamarát az önálló bírósági végrehajtók által intézett bírósági és közigazgatási végrehajtási ügyekről vezetett nyilvántartás adatairól történő adatszolgáltatás érdekében [a bírósági végrehajtásról szóló 1994. évi LIII. törvény 253/E. § (5) bekezdés],
+- d) a Magyar Bírósági Végrehajtói Kart az önálló bírósági végrehajtók által intézett bírósági és közigazgatási végrehajtási ügyekről vezetett nyilvántartás adatairól történő adatszolgáltatás érdekében [a bírósági végrehajtásról szóló 1994. évi LIII. törvény 253/E. § (5) bekezdés],
 - e) – ha a nyilvántartásában szerepel – a civil szervezet számláit vezető pénzforgalmi szolgáltatókat, és
 - f) az ingatlanügyi hatóságot.
 
@@ -301,7 +301,7 @@ azt negyvenöt napon belül jelentse be a bíróságnak.
 - a) a civil szervezettel szemben a bíróságnál követelés bejelentésére nem került sor és ellene bírósági, közjegyzői vagy más hatósági eljárás nincs folyamatban,
 - b) a civil szervezet fellelhető vagyonára vonatkozóan érdemi adat nem merül fel,
 - c) az adó- és vámhatóság és a társadalombiztosítási igazgatási szerv a bíróságot arról tájékoztatja, hogy eljárás nincs folyamatban, valamint a civil szervezetnek nincs munkavállalója,
-- d) a végrehajtó vagy a Magyar Bírósági Végrehajtói Kamara a bíróságot arról tájékoztatja, hogy tudomása szerint végrehajtási eljárás nincs folyamatban – ide nem értve az ügyviteli befejezéssel lezárt ügyeket –,
+- d) a végrehajtó vagy a Magyar Bírósági Végrehajtói Kar a bíróságot arról tájékoztatja, hogy tudomása szerint végrehajtási eljárás nincs folyamatban – ide nem értve az ügyviteli befejezéssel lezárt ügyeket –,
 
 a bíróság a civil szervezetet törli a nyilvántartásból, egyidejűleg rendelkezik arról, hogy a civil szervezet fellelhető iratainak elhelyezéséről a szervezet volt képviselője, illetve alapítvány esetén a korábbi kurátor vagy a korábbi kuratórium tagja, ennek hiányában vagy az egyesület bármely fellelhető tagja, illetve az alapítvány bármely fellelhető alapítója gondoskodjon és ennek megtörténtét a bíróságnak igazolja, valamint az iratok őrzésének helyéről nyilatkozatot tegyen.
 

@@ -1621,7 +1621,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 azt a közzétételt követő hatvan napon belül jelentse be a cégbíróságnak.
 
-(3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető végrehajtói kamarát.
+(3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart.
 
 (4) A cégbíróság megkeresi a pénzforgalmi szolgáltatókat, befektetési vállalkozókat és az árutőzsdei szolgáltatókat a cég vagyonára vonatkozó adatszolgáltatás teljesítése érdekében.
 
@@ -1641,7 +1641,7 @@ azt a közzétételt követő hatvan napon belül jelentse be a cégbíróságna
 
 (5) A Bérgarancia biztos köteles tájékoztatni a cégbíróságot a (4) bekezdés szerinti feladatainak maradéktalan elvégzéséről. A cégbíróság a Bérgarancia biztos igazolt készkiadásait (ideértve a számlában áthárított általános forgalmi adót is) legfeljebb 10 000 forint összeghatárig, továbbá 20 000 forint munkadíját és a díjat terhelő általános forgalmi adót a központi költségvetés terhére megfizeti. A Fővárosi Törvényszék Gazdasági Hivatala (a továbbiakban: Gazdasági Hivatal) minden negyedév utolsó munkanapján összesíti, és az erről szóló kimutatást az államháztartásért felelős miniszter részére megküldi, hogy a tárgynegyedévben milyen pénzösszegre áll fenn a központi költségvetési fizetési kötelezettség. A kimutatás alapján az államháztartásért felelős miniszter a központi költségvetés terhére ezt az összeget elkülönített számlán a Gazdasági Hivatal rendelkezésére bocsátja. A Gazdasági Hivatal a pénzösszeg beérkezését követő tizenöt napon belül teljesíti a Bérgarancia biztos részére az e bekezdés alapján járó kifizetéseket. A Gazdasági Hivatal központi költségvetéssel történő elszámolásának, valamint a pénzösszeg folyósításának részletes szabályait az államháztartásért felelős miniszter rendeletben állapítja meg.
 
-117/B. § Ha a kényszertörlési eljárást ismeretlen székhelyű cég megszüntetésére irányuló eljárás előzte meg, a kényszertörlési eljárásban a 117/A. § (1) bekezdése szerinti felhívásra nem kerül sor, és a cégbíróság az elektronikus vagyonfelmérés során csak az ingatlanügyi hatóságot köteles megkeresni. A cégbíróságnak a bírósági végrehajtási ügyek központi nyilvántartását vezető végrehajtói kamarát csak abban az esetben kell megkeresnie, ha a cégjegyzék a cég elleni végrehajtásról bejegyzést tartalmaz.
+117/B. § Ha a kényszertörlési eljárást ismeretlen székhelyű cég megszüntetésére irányuló eljárás előzte meg, a kényszertörlési eljárásban a 117/A. § (1) bekezdése szerinti felhívásra nem kerül sor, és a cégbíróság az elektronikus vagyonfelmérés során csak az ingatlanügyi hatóságot köteles megkeresni. A cégbíróságnak a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart csak abban az esetben kell megkeresnie, ha a cégjegyzék a cég elleni végrehajtásról bejegyzést tartalmaz.
 
 ### 3. CÍM — A KÉNYSZERTÖRLÉS BEFEJEZÉSE
 
@@ -2043,7 +2043,7 @@ a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről, illetv
 
 b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagnak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
 
-10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kamara alapítási engedélye;
+10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási engedélye;
 
 11. közjegyzői iroda esetén a területi kamara elnökségének alapítási engedélye.
 

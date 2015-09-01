@@ -206,6 +206,8 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
+(2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés g) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
+
 (3) Ha az öröklés útján megszerzett képző-, ipar-, népművészeti alkotást, muzeális tárgyat, gyűjteményt vagy ennek egy részét az örökös az államnak, a helyi önkormányzatnak, vagy felsőoktatási intézménynek felajánlja, és a felajánlást elfogadják, az örökös mentesül a felajánlott ingóörökségre eső öröklési illeték alól. A teljes öröklési illeték alól mentesül az örökös, ha a felajánlott és elfogadott ingóörökség értéke eléri az ugyanabból a hagyatékból származó valamennyi örökségét terhelő illeték összegét.
 
 (4) A kiskorú örökös az öröklési illetéket a nagykorúvá válásától számított két évig késedelmipótlék-mentesen fizetheti meg. E fizetési határidő lejárta előtt a tartozás annyiszor 10%, de legfeljebb 70% kedvezménnyel fizethető meg, ahány megkezdett naptári évvel korábban teljesítik azt.
@@ -239,7 +241,8 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
 - t) az osztalékra vonatkozó követelés elengedése;
 - u) a csődegyezség keretében, valamint a felszámolási eljárásban a követelés elengedése, feltéve, ha a követelés jogosultja nem a csődeljárás, felszámolási eljárás alá vont gazdálkodó szervezet tagja,
-- v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés.
+- v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés,
+- z) összeghatárra tekintet nélkül a természetes személyek bíróságon kívüli vagy bírósági adósságrendezési eljárásában a hitelezők által adós javára elengedett követelés, továbbá az adósságtörlesztési határozatban és a mentesítési határozatban az az összeg, amit nem kell az adósnak a hitelezők számára megfizetnie;
 
 (2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -513,6 +516,8 @@ származik.
 (2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása, egyesülése, szétválása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
 
 (2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
+
+(2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett, és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés a) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
@@ -803,7 +808,7 @@ származik.
 
 (7) A közigazgatási nemperes eljárások illetékének mértéke 10 000 forint.
 
-(8) A csődeljárás és a felszámolási eljárás során benyújtott kifogás, valamint a végrehajtási kifogás illetéke 15 000 forint. Ha a kifogás alapos, a bíróság a kifogásnak helyt adó döntésében hivatalból rendelkezik a kifogás illetékének a kifogást előterjesztő részére történő visszatérítéséről.
+(8) A csődeljárás, a felszámolási eljárás, továbbá a természetes személyek bírósági adósságrendezési eljárása során benyújtott kifogás, valamint a végrehajtási kifogás illetéke 15000 forint. Ha a kifogás alapos, a bíróság a kifogásnak helyt adó döntésében hivatalból rendelkezik a kifogás illetékének a kifogást előterjesztő részére történő visszatérítéséről.
 
 (9) Az előzetes jognyilatkozatok nyilvántartásba való bejegyzésének illetéke 15 000 forint.
 
@@ -812,6 +817,20 @@ származik.
 44. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában meghatározott és jogi személyiséggel rendelkező gazdálkodó szervezetek felszámolási eljárásának illetéke 80 000 forint, csődeljárásának illetéke 50 000 forint, jogi személyiséggel nem rendelkező gazdálkodó szervezet esetében pedig a felszámolási eljárás illetéke 30 000 forint, a csődeljárás illetéke 30 000 forint.
 
 (2)
+
+### Természetes személyek bírósági adósságrendezési eljárásainak illetéke
+
+44/A. § (1) A természetes személyek bírósági adósságrendezési eljárása kezdeményezésének illetéke 30 000 forint, amely magában foglalja az egyezségkötési eljárás és a mentesítési eljárás illetékét is.
+
+(2) A természetes személyek bírósági adósságrendezési eljárásában az egyezségmódosítás, valamint az adósságtörlesztési határozat módosítása kezdeményezésének illetéke 15 000 forint.
+
+(3) A természetes személyek bírósági adósságrendezési eljárásában az adós vagy a hitelező által az eljárás megszüntetése iránti kérelem illetéke 30 000 Forint.
+
+(4) A természetes személyek bírósági adósságrendezési eljárásában az adós örököse (örökösei) jogutódként történő bevonása iránti kérelem illetéke 15 000 forint.
+
+(5) A természetes személyek bírósági adósságrendezési eljárásában a mentesítő határozat hatályon kívül helyezése iránti kérelem illetéke 30 000 forint.
+
+(6) A bíróságon kívüli adósságrendezési megállapodás hatálya megszűnésének megállapítására irányuló kérelem, valamint a bírósági adósságrendezési egyezség hatálya megszűnésének megállapítására irányuló kérelem illetéke 30 000 forint.
 
 ### A cégbírósági eljárás illetéke
 
@@ -867,6 +886,8 @@ származik.
 
 (3) A cégbírósági, valamint a csőd- és felszámolási eljárásban, az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 7000 forint.
 
+(4) A természetes személyek bírósági adósságrendezési eljárásában az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 10 000 forint.
+
 48. § Ha a fellebbezés kizárólag a határozat indokolása ellen irányul vagy a teljesítési határidő megváltoztatására, illetve az engedélyezett részletfizetési kedvezmény módosítására vagy mellőzésére vonatkozik, az illeték 8000 forint.
 
 ### A perújítás illetéke
@@ -882,6 +903,8 @@ származik.
 (3) A csatlakozó felülvizsgálati kérelem illetéke az (1) bekezdésben meghatározott illeték fele, de legalább 20 000 forint, legfeljebb 1 250 000 forint.
 
 (4) A cégbírósági, valamint a csőd- és felszámolási eljárásban hozott végzés elleni felülvizsgálat illetéke 30 000 forint.
+
+(5) A természetes személyek adósságrendezési eljárásaiban hozott végzés elleni felülvizsgálat, illetve perújítás illetéke 30 000 forint.
 
 ### Jogorvoslati eljárásokban érvényesülő kedvezmények
 
@@ -1922,3 +1945,7 @@ XXIII. A haditechnikai termékek gyártása és a haditechnikai szolgáltatások
 XXIV. A településrendezéssel kapcsolatoskártalanítási eljárás illetéke
 
 A településrendezéssel kapcsolatos kártalanítási eljárás illetéke a követelt kárösszeg 2%-a, de legalább 5000 Ft és legfeljebb 500 000 Ft.
+
+Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzés törlésére irányuló kérelem illetéke
+
+XXV. Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzések törlésére irányuló kérelem illetéke 10 000 forint.
