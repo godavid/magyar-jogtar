@@ -520,7 +520,7 @@ kell megfizetni.
 
 (5) Végrehajtási kérelem a fizetési meghagyás jogerőre emelkedését követő 10 év után nem terjeszthető elő; e határidő elmulasztása jogvesztéssel jár.
 
-53. § (1) A végrehajtási lap az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a MOKK rendszerén keresztül elektronikus közokiratként kerül kiállításra, és egy példányban, elektronikus úton, a MOKK és a Magyar Bírósági Végrehajtói Kamara elektronikus rendszerén keresztül kerül megküldésre a végrehajtónak. A végrehajtó az elektronikus közokiratról papír alapú közokirati másolatot készít.
+53. § (1) A végrehajtási lap az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a MOKK rendszerén keresztül elektronikus közokiratként kerül kiállításra, és egy példányban, elektronikus úton, a MOKK és a Magyar Bírósági Végrehajtói Kar elektronikus rendszerén keresztül kerül megküldésre a végrehajtónak. A végrehajtó az elektronikus közokiratról papír alapú közokirati másolatot készít.
 
 (2) Az (1) bekezdés rendelkezéseit megfelelően kell alkalmazni a fizetési meghagyásnak a 16. § (3) bekezdése alapján történő végrehajtói kézbesítésére.
 
@@ -538,7 +538,7 @@ kell megfizetni.
 
 (3) A végrehajtás, valamint a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért további díj és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
 
-(4) A végrehajtási díj és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetett díj kétharmadát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén felosztja. A fennmaradó összeg felét a MOKK a működésére fordítja, a fennmaradó összeg másik fele a Magyar Bírósági Végrehajtói Kamarát illeti, mely azt a működésére fordítja.
+(4) A végrehajtási díj és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetett díj kétharmadát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén felosztja. A fennmaradó összeg felét a MOKK a működésére fordítja, a fennmaradó összeg másik fele a Magyar Bírósági Végrehajtói Kart illeti, mely azt a működésére fordítja.
 
 (5) A végrehajtási díjra és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetendő díjra, illetve a végrehajtás elrendelésére irányuló eljárásra a 44. § (1) bekezdése, a 46–48. §, a 49. § (1) és (2) bekezdése és az 50. § rendelkezéseit megfelelően alkalmazni kell. Ha a végrehajtást kérő a végrehajtási kérelmét a végrehajtás (biztosítási intézkedés) elrendelése vagy az ügy áttétele tárgyában hozott határozat meghozatala előtt visszavonja, a végrehajtási díj és a biztosítási intézkedés elrendelése iránti díj az (1), illetve a (2) bekezdésben meghatározott összeg 10%-a, de legalább 5000 forint, vagy 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás vagy a jogutódlás tárgyában hozott határozat, illetve a hiányoknak a közjegyző által a Vht. 12. § (2) bekezdése szerinti pótlása után kerül sor. A közjegyző határozata ellen előterjesztett fellebbezésre a 43. § (5) és (6) bekezdését alkalmazni kell.
 

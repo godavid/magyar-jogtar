@@ -21,9 +21,9 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 3. § E törvény alkalmazásában
 
-- 1. államtudományi és közigazgatási felsőoktatás: a köztisztviselői és kormánytisztviselői életpályára felkészítő államtudományi és közigazgatási képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
-- 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított, a rendészeti képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok;
-- 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított honvédelmi és katonai képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
+- 1. államtudományi és közigazgatási felsőoktatás: a köztisztviselői és kormánytisztviselői életpályára felkészítő államtudományi és alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
+- 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok;
+- 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
 - 4. nemzetbiztonsági felsőoktatás: a nemzetbiztonsági ágazat szakembereinek felkészítése érdekében indított nemzetbiztonsági alapképzési szak, valamint a hozzá kapcsolódó mesterképzési szak;
 - 5. nemzetközi és európai közszolgálati felsőoktatás: a közszolgálat nemzetközi feladatainak ellátására és diplomáciai feladatokra történő felkészítést célzó alap- és mesterképzési szakok.
 
@@ -91,9 +91,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 (3) Az egyéb munkakörben foglalkoztatott tagok létszáma nem lehet több, mint a szenátus létszámának huszonöt százaléka, de legalább egy fő.
 
-12. § (1) Az Egyetemen gazdasági tanács nem működik.
-
-(2) Az Egyetem az egyetem elnevezést akkor is használhatja, ha egy képzési területen jogosult mesterképzés folytatására.
+12. § Az Egyetemen gazdasági tanács nem működik.
 
 ### IV. Fejezet — AZ EGYETEM ALKALMAZOTTAI ÉS VEZETŐI
 

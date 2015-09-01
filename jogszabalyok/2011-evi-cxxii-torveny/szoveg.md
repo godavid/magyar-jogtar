@@ -19,7 +19,7 @@ Az Országgyűlés a közérdek által vezérelve a teljes körű hitelnyilvánt
 - c) pénzügyi szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 3. § (1) bekezdés b)–c), f)–g) és l) pontjában foglalt tevékenységek, ideértve a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 3. § (1) bekezdés 29. pontja és 5. § (6) bekezdés d) pontja szerinti jelzáloghitelezést és a közraktárakról szóló 1996. évi XLVIII. törvény 28. §-a szerinti kölcsönnyújtást is;
 - d) értékpapír-kölcsönzés: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. § (1) bekezdés 44. pontjában foglalt tevékenység;
 - e) referenciaadat: bármely olyan adat, ideértve a nyilvántartott személy személyazonosító adatait is, amelyet a KHR-t kezelő pénzügyi vállalkozás törvény alapján kezelhet;
-- f) referenciaadat-szolgáltató: 1. a pénzügyi szolgáltatások legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, biztosító, közraktár 2. a Diákhitel Központ Zrt., 3. a befektetési hitelt nyújtó hitelintézet, befektetési vállalkozás, 4. az értékpapír-kölcsönzést végző befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító, valamint 5. a határon átnyúló szolgáltatást végző, az Európai Unió másik tagállamában székhellyel rendelkező hitelező, ha a KHR-hez csatlakozott.
+- f) referenciaadat-szolgáltató: 1. a pénzügyi szolgáltatások legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, biztosító, közraktár 2. a Diákhitel Központ Zrt., 3. a befektetési hitelt nyújtó hitelintézet, befektetési vállalkozás, 4. az értékpapír-kölcsönzést végző befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító, valamint 5. a határon átnyúló szolgáltatást végző, az Európai Unió másik tagállamában székhellyel rendelkező hitelező, ha a KHR-hez csatlakozott, 6. a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti adósságrendezési eljárásokban eljáró Családi Csődvédelmi Szolgálat.
 - g) vállalkozás: a gazdasági társaság, fióktelep, az európai részvénytársaság, a szövetkezet, az európai szövetkezet, az európai gazdasági egyesülés, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót.
 
 (2) E törvény alkalmazásában az írásban történő adatátadás, tájékoztatás és egyéb kommunikáció alatt
@@ -34,6 +34,8 @@ kell érteni.
 (3) A nyilvántartott személy távközlési eszköz vagy elektronikus kommunikáció útján továbbított szöveges üzenetben való értesítést is igényelhet a referenciaadat-szolgáltatótól, valamint a KHR-t kezelő pénzügyi vállalkozástól. A természetes személy e törvényben meghatározott nyilatkozatát a referenciaadat-szolgáltató bármely fiókjában is megteheti írásban.
 
 (4) Az e törvényben meghatározottak szerint haladéktalanul elvégzendő cselekményeket legfeljebb egy munkanapon belül kell elvégezni.
+
+(5) A Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti eljárásokban meghatározott feladatai ellátása körében adatszolgáltatási, hiteljelentési, tranzakciós és kezelési díj fizetésére nem köteles.
 
 #### 3. AKHR-t kezelő pénzügyi vállalkozás létrehozásának, illetve működtetésének engedélyezése
 
@@ -86,7 +88,7 @@ kell érteni.
 - a) a természetes személynek a melléklet II. fejezetének 1.1 pontja és 1.2 pontjának a)–d) és k) alpontja szerinti referenciaadatait,
 - b) a vállalkozásoknak a melléklet II. fejezetének 2.1 pontja és 2.2 pontja a)–d) és l) alpontja szerinti referenciaadatait.
 
-(3) A referenciaadatok KHR-be történő átadását megelőzően a referenciaadat-szolgáltató beszerzi a természetes személy ügyfél írásbeli nyilatkozatát arra vonatkozóan, hogy hozzájárul-e az adatai KHR-ből történő, más referenciaadat-szolgáltató általi – a (7) bekezdés szerinti – átvételéhez. Ezt a hozzájárulást a természetes személy ügyfél – az adatok KHR-ben történő nyilvántartásának időtartama alatt – bármikor megadhatja. Nem szükséges az ügyfél hozzájárulása a 11–13. § alapján kezelt adatok átvételéhez. Ha az ügyfél nem járul hozzá adatai KHR-ből történő átvételéhez, úgy a KHR a melléklet II. fejezetének 1.1 pontja és 1.2 pont a)–d) alpontjai, valamint az 1.5 pontja szerinti adatokat tartalmazza.
+(3) A referenciaadatok KHR-be történő átadását megelőzően a referenciaadat-szolgáltató beszerzi a természetes személy ügyfél írásbeli nyilatkozatát arra vonatkozóan, hogy hozzájárul-e az adatai KHR-ből történő, más referenciaadat-szolgáltató általi – a (7) bekezdés szerinti – átvételéhez. Ezt a hozzájárulást a természetes személy ügyfél – az adatok KHR-ben történő nyilvántartásának időtartama alatt – bármikor megadhatja. Nem szükséges az ügyfél hozzájárulása a 11–13/A. § alapján kezelt adatok átvételéhez. Ha az ügyfél nem járul hozzá adatai KHR-ből történő átvételéhez, úgy a KHR a melléklet II. fejezetének 1.1 pontja és 1.2 pont a)–d) alpontjai, valamint az 1.5 pontja szerinti adatokat tartalmazza.
 
 (3a) A természetes személy ügyfél (3) bekezdés szerinti írásbeli nyilatkozata vonatkozik a természetes személy ügyfél valamennyi adatszolgáltatás tárgyát képező szerződésére. Ha az ügyfél adatszolgáltatás tárgyát képező szerződései vonatkozásában a (3) bekezdés szerinti írásbeli nyilatkozata tartalmán a későbbiekben változtat, és írásbeli hozzájárulását visszavonja vagy megadja, úgy minden esetben a természetes személy időben legkésőbb keletkezett írásbeli nyilatkozata lesz irányadó minden adatszolgáltatás tárgyát képező szerződésére.
 
@@ -98,8 +100,8 @@ kell érteni.
 
 (7) Az adatszolgáltatás tárgyát képező szerződés megkötését megelőzően a referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozástól átveszi:
 
-- a) természetes személy ügyfél esetében – ha a (3) bekezdés szerinti írásbeli nyilatkozatában ahhoz hozzájárult – a (2) bekezdés szerinti, a melléklet II. fejezetének 1.1–1.4 pontjai szerinti referenciaadatokat,
-- b) természetes személy ügyfél esetében – ha a (3) bekezdés szerinti írásbeli nyilatkozatában nem járult hozzá adatai lekérdezéséhez – a melléklet II. fejezetének 1.5 pontja szerinti, továbbá a 11–13. §-ban foglaltak alapján a KHR-ben nyilvántartott referenciaadatokat [melléklet II. fejezet 1.2 pont e)–g) alpont, 1.3–1.4 pont],
+- a) természetes személy ügyfél esetében – ha a (3) bekezdés szerinti írásbeli nyilatkozatában ahhoz hozzájárult – a (2) bekezdés szerinti, a melléklet II. fejezetének 1.1–1.4 és 1.6 pontjai szerinti referenciaadatokat,
+- b) természetes személy ügyfél esetében – ha a (3) bekezdés szerinti írásbeli nyilatkozatában nem járult hozzá adatai lekérdezéséhez – a melléklet II. fejezetének 1.5 pontja szerinti, továbbá a 11–13/A. §-ban foglaltak alapján a KHR-ben nyilvántartott referenciaadatokat [melléklet II. fejezet 1.1, 1.2 pont e)–g) alpont, 1.3–1.4 pont, 1.6 pont],
 - c) vállalkozások esetén a melléklet II. fejezetének 2.1–2.4 pontjai szerinti referenciaadatokat.
 
 (8) A KHR-t kezelő pénzügyi vállalkozás megkülönböztetés-mentesen köteles biztosítani a KHR-hez történő csatlakozás lehetőségét az Európai Unió másik tagállamában székhellyel rendelkező hitelező (a továbbiakban: más tagállambeli hitelező) számára, ha az Magyarországon határon átnyúló szolgáltatást végez.
@@ -122,7 +124,8 @@ kell érteni.
 - b) a 11. § (1) bekezdésében és a 14. § és 14/B. §-ban meghatározott időtartam letelte,
 - c) a 12. § a) pontjában meghatározott esetben az okirati bizonyíték rendelkezésre állásának időpontja,
 - d) a 12. § b) pontjában és a 13. §-ban meghatározott esetekben a jogerős bírósági határozat tartalmáról való tudomásszerzés időpontja,
-- e) a 14/A. §-ban meghatározott esetben a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződés felmondásának vagy felfüggesztésének időpontja.
+- e) a 14/A. §-ban meghatározott esetben a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződés felmondásának vagy felfüggesztésének időpontja,
+- f) a 13/A. § (1) bekezdésében meghatározott esetben az adósságrendezési eljárás kezdeményezése benyújtásának dátuma.
 
 (4) A referenciaadat-szolgáltató adatátadási kötelezettsége a már átadott referenciaadatok módosulása esetén is fennáll. Ebben az esetben a referenciaadat-szolgáltató az adatot az arról való tudomásszerzést követő öt munkanapon belül írásban átadja a KHR-t kezelő pénzügyi vállalkozás részére.
 
@@ -130,7 +133,16 @@ kell érteni.
 
 (6) Amennyiben a nyilvántartott személy az adatszolgáltatás tárgyát képező szerződés hatálya alatt előtörlesztést teljesít, a referenciaadat-szolgáltató az előtörlesztést követő öt munkanapon belül átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pont i) alpontja, illetve 2.2 pont j) alpontja szerinti adatot.
 
-(7) Ha a KHR-t kezelő pénzügyi vállalkozás adatot szolgáltat a Magyar Nemzeti Bank részére, a továbbított adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszi.
+(7) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 4. § (1), (3), (6), (7) és (9) bekezdésében meghatározott feladatai ellátása érdekében a Magyar Nemzeti Bank a KHR-t kezelő pénzügyi vállalkozástól
+
+- a) vállalkozásokkal kapcsolatban – ide nem értve az egyéni vállalkozót – a melléklet II. fejezet 2.1 pont d) alpontjában, valamint a 2.2 pontjában meghatározott adatokra vonatkozóan,
+- b) természetes személyekkel és egyéni vállalkozókkal kapcsolatban a melléklet II. fejezet 1.2. pont b), c)–g), i) és j) alpontjában meghatározott adatokra, valamint a szerződés típusára vonatkozóan,
+
+feladatköre megjelölésével az egyedi adatokra vonatkozóan is kérhet adatszolgáltatást.
+
+(8) Ha a Magyar Nemzeti Bank természetes személyekkel vagy egyéni vállalkozókkal kapcsolatos egyedi adatszolgáltatást kér, a KHR-t kezelő pénzügyi vállalkozás az adatszolgáltatást csak úgy teljesítheti, hogy ezt megelőzően az adatoknak az érintett személlyel való kapcsolata megállapítását véglegesen lehetetlenné teszi.
+
+(9) A (7) és (8) bekezdés szerinti adatszolgáltatás során kapott adatokat a Magyar Nemzeti Bank a megjelölt feladatkörével összefüggő elemzések, a felügyeleti jogkörében igényelt adatok ellenőrzése, továbbá a statisztikai célra igényelt adatok helyességének vizsgálata érdekében használhatja fel, és ezt követően csak egyedi azonosításra alkalmatlan formában kezelheti. A KHR-ből átvett adatokkal kapcsolatos titoktartási kötelezettségre az MNB tv. 150. § (1) bekezdésében foglaltakat kell alkalmazni, továbbá a Magyar Nemzeti Bank az átvett adatok elkülönített kezelése, továbbá fizikai és logikai védelme érdekében köteles a belső szabályzataiban meghatározott intézkedéseket megtenni.
 
 7. § (1) A 11. és 14. §-ban foglalt rendelkezések alkalmazása során a lejárt és meg nem fizetett tartozás összegének és időtartamának számítását abban az esetben is folyamatosan kell végezni, ha az adatszolgáltatás tárgyát képező szerződésből eredő követelés egy másik referenciaadat-szolgáltató részére átruházásra kerül.
 
@@ -146,7 +158,16 @@ kell érteni.
 - b) a 14. § szerinti esetben, ha a tartozás nem szűnt meg, a 14. § szerinti adatátadás időpontjától számított ötödik év vége,
 - c) az adat átadásának időpontja a 12. §, a 13. § és a 14/A. § szerinti esetben,
 - d) a követelések sorba állításának megszűnési időpontja a 14/B. § szerinti esetben,
-- e) a vállalkozásnak a pénzügyi szolgáltatásra vonatkozó szerződése megszűnésének időpontja.
+- e) a vállalkozásnak a pénzügyi szolgáltatásra vonatkozó szerződése megszűnésének időpontja,
+- f) a 13/A. § (1) bekezdés szerinti esetben az adósságrendezési eljárás megszűnésének dátuma:
+  - fa) a bíróságon kívüli adósságrendezés sikertelensége Családi Csődvédelmi Szolgálat részére történő bejelentésének napja,
+  - fb) a bírósági adósságrendezési eljárást elutasító bírósági végzés jogerőre emelkedésének napja,
+  - fc) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító bírósági határozat jogerőre emelkedésének dátuma,
+  - fd) a bírósági adósságrendezési egyezség hatálya megszűnését megállapító bírósági határozat esetén az ezt megállapító bírósági határozat jogerőre emelkedésének dátuma,
+  - fe) az adós (adóstárs) mentesítéséről szóló bírósági határozat jogerőre emelkedésének dátuma,
+  - ff) az adóst mentesítő határozatot hatályon kívül helyező bírósági határozat jogerőre emelkedésének napja,
+  - fg) az adósságrendezésnek az adós, adóstárs mentesülése nélküli megszüntetéséről rendelkező bírósági határozat jogerőre emelkedésének dátuma,
+  - fh) a bíróságon kívüli adósságrendezés sikeres lezárásának a Családi Csődvédelmi Szolgálat részére történő bejelentése napja.
 
 (3) A KHR-t kezelő pénzügyi vállalkozás haladéktalanul és véglegesen törli a referenciaadatot, ha a referenciaadat-szolgáltató nem állapítható meg, vagy ha tudomására jut, hogy a referenciaadat jogellenesen került a KHR-be.
 
@@ -159,6 +180,8 @@ kell érteni.
 (2) A referenciaadat-szolgáltató az az adatszolgáltatás tárgyát képező szerződések megkötésével egyidejűleg a szerződést kötő természetes személyt írásban tájékoztatja arról a lehetőségről, hogy adatait a KHR-t kezelő pénzügyi vállalkozás a nyilvántartott természetes személy kérésére a szerződéses jogviszony megszűnését követően is kezelheti. A nyilvántartott természetes személy a szerződés megkötésekor vagy a szerződés fennállása során – a referenciaadat-szolgáltató útján – írásban kérheti a KHR-t kezelő pénzügyi vállalkozástól, hogy adatait a pénzügyi vállalkozás a szerződéses jogviszony megszűnését követő legfeljebb öt évig kezelje. A jogviszony megszűnését követő adatkezeléshez való hozzájárulás a szerződéses jogviszony megszűnéséig a referenciaadat-szolgáltató útján, azt követően a KHR-t kezelő pénzügyi vállalkozásnál közvetlenül, írásban bármikor visszavonható.
 
 10. § Az adatszolgáltatás tárgyát képező szerződés megkötését megelőzően a referenciaadat-szolgáltató a természetes személlyel – a megalapozott döntés érdekében – megismerteti a KHR-ből átvett adatokat és az abból a természetes személy hitelképességére vonatkozóan megállapítható következtetéseit, valamint szükség esetén figyelmezteti a természetes személyt a hitelfelvétel kockázataira.
+
+10/A. § A Családi Csődvédelmi Szolgálat az adósságrendezési eljárás kezdeményezésekor a természetes személy felhatalmazása alapján – az eljárás feltételeinek ellenőrzése és az adatok ellenőrzése érdekében – átveszi a természetes személynek a KHR-ben nyilvántartott referenciaadatait, ideértve a melléklet II. fejezet 1. pontját, továbbá az adatot szolgáltató referenciaadat-szolgáltató megnevezését, a szerződések azonosítóit, valamint e törvény 17–20. § szerint perelt, illetve zárolt adatokat is.
 
 11. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére írásban átadja annak a természetes személynek a melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki az adatszolgáltatás tárgyát képező szerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.
 
@@ -173,6 +196,12 @@ kell érteni.
 
 13. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére írásban átadja annak a természetes személynek a melléklet II. fejezetének 1.1 és 1.4 pontja szerinti referenciaadatait, akivel szemben a készpénz-helyettesítő fizetési eszköz használata miatt a bíróság jogerős határozatában a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 313/C. §-ában vagy a Btk. 374. § (5) bekezdésében és 393. §-ában meghatározott bűncselekmény elkövetését állapítja meg.
 
+13/A. § (1) A Családi Csődvédelmi Szolgálat a KHR-t kezelő pénzügyi vállalkozás részére írásban átadja azoknak a természetes személynek a melléklet II. fejezetének 1.1 és 1.6 pontja szerinti referenciaadatait, akik az adósságrendezési eljárásba adósként, adóstársként vagy egyéb kötelezettként bevonásra kerültek.
+
+(2) Az (1) bekezdés szerinti adatátadásról a KHR-t kezelő pénzügyi vállalkozás írásban értesítést küld azon referenciaadat-szolgáltatók részére, akik az érintett természetes személyhez tartozóan a KHR-ben az adatszolgáltatás tárgyát képező szerződések alapján fennálló követeléssel rendelkeznek.
+
+(3) A Családi Csődvédelmi Szolgálat és az 5. § (2) bekezdés szerinti adatátadást elvégző referenciaadat-szolgáltató a nyilvántartott személyről a szerződés illetve az adósságrendezési eljárás időtartalma alatt értesítést kérhet a KHR-t kezelő pénzügyi vállalkozástól a 11–13. § alapján kezelt adatokban bekövetkezett változásról, a nyilvántartott személynek az 5. § (3) bekezdésben meghatározott, illetve a természetes személyek adósságrendezési eljárásának kezdeményezésekor tett nyilatkozata alapján.
+
 #### 7. A vállalkozásokra vonatkozó adatok kezelésének különös szabályai
 
 14. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére írásban átadja annak a vállalkozásnak a melléklet II. fejezetének 2.1–2.2 pontja szerinti referenciaadatait, aki az adatszolgáltatás tárgyát képező szerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozása több mint harminc napon keresztül fennállt.
@@ -185,7 +214,7 @@ kell érteni.
 
 #### III. ÜGYFÉLVÉDELEM ÉS JOGORVOSLAT
 
-15. § (1) Az adatszolgáltatás tárgyát képező szerződés előkészítése során a referenciaadat-szolgáltató írásban tájékoztatja a szerződés megkötése ügyében eljáró természetes személyt a KHR-re irányadó szabályokról, a nyilvántartás céljáról, a nyilvántartott személyt megillető jogokról, arról, hogy a KHR által kezelt adatokat csak a törvényben meghatározott célra lehet felhasználni, arról, hogy adatai az 5. § (2) bekezdése szerint átadásra kerülnek, valamint a 11–13. § szerint átadásra kerülhetnek.
+15. § (1) Az adatszolgáltatás tárgyát képező szerződés előkészítése során a referenciaadat-szolgáltató írásban tájékoztatja a szerződés megkötése ügyében eljáró természetes személyt a KHR-re irányadó szabályokról, a nyilvántartás céljáról, a nyilvántartott személyt megillető jogokról, arról, hogy a KHR által kezelt adatokat csak a törvényben meghatározott célra lehet felhasználni, arról, hogy adatai az 5. § (2) bekezdése szerint átadásra kerülnek, valamint a 11–13/A. § szerint átadásra kerülhetnek.
 
 (2) Az (1) bekezdés szerinti tájékoztatásnak részét képezi a Magyar Nemzeti Bank által a honlapján megjelentetett mintatájékoztató.
 
@@ -236,7 +265,7 @@ kell érteni.
 
 (2) A bíróság végzésével már a tárgyalás előkészítése során ideiglenes intézkedésként két munkanapon belül elrendeli a referenciaadatok zárolását, ha a rendelkezésre álló adatok alapján a kereseti kérelem megalapozottsága valószínűnek mutatkozik. A végzés fellebbezésre tekintet nélkül előzetesen végrehajtható.
 
-(3) Ha a bíróság a referenciaadatok zárolását rendelte el, akkor az erre vonatkozó határozat kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül a referenciaadatokat zárolni kell. A referenciaadatok zárolása esetén azok referenciaadat-szolgáltató részére nem továbbíthatók, azokat csak a bírósági eljárás lefolytatása céljából kezelheti a KHR-t kezelő pénzügyi vállalkozás.
+(3) Ha a bíróság a referenciaadatok zárolását rendelte el, akkor az erre vonatkozó határozat kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül a referenciaadatokat zárolni kell. A referenciaadatok zárolása esetén azok – a Családi Csődvédelmi Szolgálat kivételével – a referenciaadat-szolgáltató részére nem továbbíthatók, azokat csak a bírósági eljárás lefolytatása céljából kezelheti a KHR-t kezelő pénzügyi vállalkozás.
 
 (4) A perben a keresetet más keresettel összekapcsolni vagy a pert más perrel egyesíteni nem lehet, továbbá a perben viszontkeresetnek nincs helye.
 
@@ -371,6 +400,52 @@ b) a referenciaadat-szolgáltató azonosító adatai,
 c) az ügyfél azonosító adatai,
 
 d) a hozzájárulás megtagadására utaló megjegyzés.
+
+1.6. az adósságrendezési eljárást kezdeményező adós, adóstársa, továbbá az adósságrendezési eljárásban az adós mellett résztvevő egyéb kötelezettre vonatkozóan:
+
+1.6.1. Az adósságrendezési eljárásnak az adósságrendezési nyilvántartás szerinti ügyazonosító száma,
+
+1.6.2. Az adósságrendezési eljárás adatai:
+
+a) az adósságrendezési eljárás kezdeményezése benyújtásának dátuma,
+
+b) az adósságrendezési eljárás típusa (bíróságon kívüli vagy bírósági adósságrendezés)
+
+c) az adósságrendezési eljárás kezdő dátuma:
+
+ca) a bíróságon kívüli adósságrendezés kezdeményezéséről a Családi Csődvédelmi Szolgálat által közzétett hirdetmény dátuma, vagy
+
+cb) a bírósági adósságrendezést elrendelő bírósági határozat jogerőre emelkedésének napja,
+
+d) az adósságrendezésben érintett főhitelező adószáma, megnevezése,
+
+e) az adósságrendezési eljárásban az adósságrendezés tárgyában történő megegyezés:
+
+ea) a bíróságon kívüli adósságrendezési megállapodás létrejöttének dátuma, vagy
+
+eb) a bírósági adósságrendezési egyezséget jóváhagyó bírósági végzés jogerőre emelkedésének napja,
+
+f) az adósságrendezési eljárás megszűnésének napja:
+
+fa) a bíróságon kívüli adósságrendezés sikertelenségének a Családi Csődvédelmi Szolgálat részére történő bejelentése napja, vagy
+
+fb) a bírósági adósságrendezési eljárást elutasító bírósági végzés jogerőre emelkedésének napja,
+
+fc) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító bírósági határozat jogerőre emelkedésének napja
+
+fd) a bírósági adósságrendezési egyezség hatálya megszűnésének bírósági megállapítása esetén az ezt megállapító bírósági határozat jogerőre emelkedésének napja,
+
+fe) az adós (adóstárs) mentesítéséről szóló bírósági határozat jogerőre emelkedésének napja,
+
+ff) az adóst mentesítő határozatot hatályon kívül helyező bírósági határozat jogerőre emelkedésének napja,
+
+fg) az adósságrendezésnek az adós, adóstárs mentesülése nélküli megszüntetéséről rendelkező bírósági határozat jogerőre emelkedésének napja,
+
+fh) a bíróságon kívüli adósságrendezés sikeres lezárásának a Családi Csődvédelmi Szolgálat részére történő bejelentése napja
+
+g) az adósságrendezési eljárás szakaszai: „Kezdeményezés benyújtása”, „Kezdeményezett”, „Megegyezett”, „Lezárt”
+
+1.6.3. Az ügyfél érintettsége (adós, adóstárs, az adósságrendezési eljárásban részt vevő egyéb kötelezett).
 
 2. Vállalkozásokkal kapcsolatban nyilvántartható adatok:
 

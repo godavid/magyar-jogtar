@@ -1009,7 +1009,7 @@ alapszabadság illeti meg.
   - da) a „C” fizetési osztály cb)–cc) pontjában említett szakképesítésre épülő szakképesítéshez kötött munkakör,
   - db) a középiskolai végzettséget igénylő szakképesítéshez kötött munkakör;
 - e) az „E” fizetési osztályba
-  - ea) az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez kötött munkakör,
+  - ea) az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez, felsőoktatási szakképzésben szerzett szakképzettséghez kötött munkakör,
   - eb) a középiskolai végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör;
 - f) az „F” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör;
 - g) a „G” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez és a munkakör betöltéséhez jogszabályban előírt szakvizsgát vagy jogszabályban azzal egyenértékűnek elismert vizsgát igazoló oklevélhez kötött munkakör;
@@ -1242,17 +1242,19 @@ megfelelő összeg illeti meg.
 
 (2) Tudományos kutatói munkakörként – a felsőoktatási intézmények kivételével – kutatóprofesszor, tudományos tanácsadó, tudományos főmunkatárs, tudományos munkatárs, tudományos segédmunkatárs munkakör létesíthető. Az e bekezdésben meghatározott tudományos munkakörbe történő besorolás feltételeit a Kormány határozza meg.
 
-79/D. § (1) A felsőoktatási intézményben az egyetemi tanári, az egyetemi docensi, a főiskolai tanári és a főiskolai docensi, egyetemi adjunktusi, továbbá a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) a kutatóprofesszori, a tudományos tanácsadói és a tudományos főmunkatársi munkakörök három fizetési fokozatra tagozódnak. A felsőoktatási intézményben az egyetemi tanársegédi és a főiskolai adjunktusi munkakörök két fizetési fokozatra tagozódnak.
+79/D. § (1) A felsőoktatási intézményben az egyetemi tanári és a főiskolai docensi, egyetemi adjunktusi, továbbá a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) a kutatóprofesszori, a tudományos tanácsadói és a tudományos főmunkatársi munkakörök három, az egyetemi docensi, a főiskolai tanári munkakörök négy fizetési fokozatra tagozódnak. A felsőoktatási intézményben az egyetemi tanársegédi, a főiskolai adjunktusi és a mesteroktatói munkakörök két fizetési fokozatra tagozódnak.
 
-(2) A közalkalmazott fizetési fokozatát a bármely felsőoktatási intézménynél, illetve a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) az adott munkakörben – a megbízási jogviszony kivételével – munkavégzésre irányuló jogviszonyban töltött ideje alapján kell megállapítani. Ha azonos időtartam alatt egyidejűleg több, az adott munkakörben munkavégzésre irányuló jogviszony vehető figyelembe, közülük csak egy számítható be.
+(2) A közalkalmazott fizetési fokozatát felsőoktatási intézménynél, illetve központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) az adott munkakörben – a megbízási jogviszony és a negyedik fizetési fokozat kivételével – munkavégzésre irányuló jogviszonyban töltött ideje alapján kell megállapítani. Ha azonos időtartam alatt egyidejűleg több, az adott munkakörben munkavégzésre irányuló jogviszony vehető figyelembe, közülük csak egy számítható be.
 
-(3) Az (1) bekezdésben felsorolt munkakört betöltő közalkalmazott, ha a (4) bekezdésben meghatározott feltételeknek megfelel, magasabb fizetési fokozatba lép
+(3) Az (1) bekezdésben felsorolt munkakört betöltő közalkalmazottat, ha a (4) bekezdésben meghatározott feltételeknek megfelel,
 
-- a) egyetemi tanár, főiskolai tanár, kutatóprofesszor, tudományos tanácsadó az adott munkakörben az előző fizetési fokozatban eltöltött öt évet követően,
-- b) egyetemi docens, főiskolai docens, tudományos főmunkatárs, továbbá egyetemi adjunktus, főiskolai adjunktus az adott munkakörben az előző fizetési fokozatban eltöltött tíz évet követően,
-- c) egyetemi tanársegéd (gyakornok) az előírt feltételek teljesítését követően. A közalkalmazottat a tárgyév első napján kell a magasabb fizetési fokozatba besorolni.
+- a) egyetemi tanár, főiskolai tanár, kutatóprofesszor, tudományos tanácsadó esetén az adott munkakörben az előző fizetési fokozatban eltöltött öt évet követően,
+- b) egyetemi docens, főiskolai docens, tudományos főmunkatárs, továbbá egyetemi adjunktus, főiskolai adjunktus, esetén az adott munkakörben az előző fizetési fokozatban eltöltött tíz évet követően,
+- c) egyetemi tanársegéd (gyakornok), mesteroktató esetén az előírt feltételek teljesítését követően
 
-(4) A második és a harmadik fizetési fokozatba sorolás feltétele, hogy a közalkalmazott megfeleljen az adott fizetési fokozathoz a munkáltatónak a munkakörre vonatkozó szabályzatában meghatározott oktatói, kutatói követelménynek.
+magasabb fizetési fokozatba kell besorolni.
+
+(4) A második, harmadik és negyedik fizetési fokozatba sorolás feltétele, hogy a közalkalmazott megfeleljen az adott fizetési fokozathoz a munkáltatónak a munkakörre vonatkozó szabályzatában meghatározott oktatói, kutatói, tanári követelménynek. A negyedik fizetési fokozatba sorolás további feltétele a legalább második fizetési fokozat betöltése és a habilitáció megléte.
 
 (5) A (3) bekezdés szerinti fizetési fokozatok közötti várakozási időbe nem számíthatók be a 22. § (8) bekezdésében említett időtartamok, valamint a sor- és tartalékos katonai, illetve a polgári szolgálat időtartama.
 
@@ -1555,6 +1557,8 @@ eltöltött időt.
 
 (2) Az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény szerinti tájékoztatási kötelezettség az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében áll fenn.
 
+91/F. § E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 79/D. §-át és 2. számú mellékletét a költségvetési szervvel 2015. szeptember 1-jén már közalkalmazotti jogviszonyban álló személyek tekintetében is alkalmazni kell.
+
 92. § (1)
 
 (2) A nemzetbiztonsági szolgálatok személyi állományába tartozó közalkalmazottak tekintetében a 79/A. § rendelkezéseit nem kell alkalmazni.
@@ -1668,37 +1672,42 @@ Dátum:
 
 A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét meghatározó, az egyetemi tanári munkakör 1. fizetési fokozatának a költségvetési törvényben megállapított garantált illetményére vetülő arányszámok
 
-| Munkakör | Fizetési fokozat | Arányszám (%) |
-| --- | --- | --- |
-| Egyetemi tanár | 3. | 106 |
-| Egyetemi tanár | 2. | 103 |
-| Egyetemi tanár | 1. | 100 |
-| Egyetemi docens | 3. | 76 |
-| Egyetemi docens | 2. | 73 |
-| Egyetemi docens | 1. | 70 |
-| Egyetemi adjunktus | 3. | 53 |
-| Egyetemi adjunktus | 2. | 50 |
-| Egyetemi adjunktus | 1. | 50 |
-| Egyetemi tanársegéd | 2. | 40 |
-| Egyetemi tanársegéd (gyakornok) | 1. | 37 |
-| Főiskolai tanár | 3. | 81 |
-| Főiskolai tanár | 2. | 78 |
-| Főiskolai tanár | 1. | 75 |
-| Főiskolai docens | 3. | 61 |
-| Főiskolai docens | 2. | 58 |
-| Főiskolai docens | 1. | 55 |
-| Főiskolai adjunktus | 2. | 48 |
-| Főiskolai adjunktus | 1. | 45 |
-| Főiskolai adjunktus | – | 45 |
-| Főiskolai tanársegéd | – | 40 |
-| Kutatóprofesszor, tudományos tanácsadó | 3. | 106 |
-| Kutatóprofesszor, tudományos tanácsadó | 2. | 103 |
-| Kutatóprofesszor, tudományos tanácsadó | 1. | 100 |
-| Tudományos főmunkatárs | 3. | 76 |
-| Tudományos főmunkatárs | 2. | 73 |
-| Tudományos főmunkatárs | 1. | 70 |
-| Tudományos munkatárs | – | 50 |
-| Tudományos segédmunkatárs | – | 40 |
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1. | Munkakör | Fizetési fokozat | Arányszám (%) |
+| 2. | Egyetemi tanár | 3. | 106 |
+| 3. | Egyetemi tanár | 2. | 103 |
+| 4. | Egyetemi tanár | 1. | 100 |
+| 5. | Egyetemi docens (amennyiben habilitációval rendelkezik) | 4 | 85 |
+| 6. | Egyetemi docens | 3. | 76 |
+| 7. | Egyetemi docens | 2. | 73 |
+| 8. | Egyetemi docens | 1. | 70 |
+| 9. | Egyetemi adjunktus | 3. | 53 |
+| 10. | Egyetemi adjunktus | 2. | 50 |
+| 11. | Egyetemi adjunktus | 1. | 50 |
+| 12. | Egyetemi tanársegéd | 2. | 40 |
+| 13. | Egyetemi tanársegéd (gyakornok) | 1. | 37 |
+| 14. | Főiskolai tanár (amennyiben habilitációval rendelkezik) | 4. | 90 |
+| 15. | Főiskolai tanár | 3. | 81 |
+| 16. | Főiskolai tanár | 2. | 78 |
+| 17. | Főiskolai tanár | 1. | 75 |
+| 18. | Főiskolai docens | 3. | 61 |
+| 19. | Főiskolai docens | 2. | 58 |
+| 20. | Főiskolai docens | 1. | 55 |
+| 21. | Főiskolai adjunktus | 2. | 48 |
+| 22. | Főiskolai adjunktus | 1. | 45 |
+| 23. | Főiskolai adjunktus | – | 45 |
+| 24. | Főiskolai tanársegéd | – | 40 |
+| 25. | Kutatóprofesszor, tudományos tanácsadó | 3. | 106 |
+| 26. | Kutatóprofesszor, tudományos tanácsadó | 2. | 103 |
+| 27. | Kutatóprofesszor, tudományos tanácsadó | 1. | 100 |
+| 28. | Tudományos főmunkatárs | 3. | 76 |
+| 29. | Tudományos főmunkatárs | 2. | 73 |
+| 30. | Tudományos főmunkatárs | 1. | 70 |
+| 31. | Tudományos munkatárs | – | 50 |
+| 32. | Tudományos segédmunkatárs | – | 40 |
+| 33. | Mesteroktató | 2. | 54 |
+| 34. | Mesteroktató | 1. | 51 |
 
 ### 3. számú melléklet az 1992. évi XXXIII. törvényhez
 

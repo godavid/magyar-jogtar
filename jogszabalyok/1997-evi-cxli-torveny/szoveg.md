@@ -201,9 +201,10 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 29. a föld tulajdonjogának átruházására irányuló szerződés benyújtása,
 - 30. pénzügyi lízingbeadás ténye,
 - 31. nemzeti emlékhely,
-- 32. történelmi emlékhely.
+- 32. történelmi emlékhely,
+- 33. a jogosult természetes személlyel szemben megindított adósságrendezési eljárás
 
-(2) Az (1) bekezdés 1–14. és 31–32. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
+(2) Az (1) bekezdés 1–14. és 31–33. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 
 (3)
 
@@ -984,7 +985,7 @@ igényli.
 
 (2) Személyük azonosítására alkalmas módon végrehajtói irodában, végrehajtók közös irodájában, illetve az ugyanazon törvényszéken működő végrehajtók az (1) bekezdésben foglalt célra közös számítástechnikai eszközt is működtethetnek, a törvényszéki végrehajtók pedig a bíróság számítástechnikai eszközét is igénybe vehetik a lekérdezés jogának gyakorlásához.
 
-(3) A bírósági végrehajtói szolgálat fennállásáról, annak adataiban történt változásról (áthelyezés, tartós helyettes kirendelése stb.), illetve megszűnéséről az önálló bírósági végrehajtók tekintetében a Magyar Bírósági Végrehajtói Kamara, a törvényszéki végrehajtók tekintetében pedig az illetékes törvényszék értesíti az ingatlanügyi hatóságot, amely az értesítés alapján a bírósági végrehajtó hozzáférési jogosultságát visszavonja.
+(3) A bírósági végrehajtói szolgálat fennállásáról, annak adataiban történt változásról (áthelyezés, tartós helyettes kirendelése stb.), illetve megszűnéséről az önálló bírósági végrehajtók tekintetében a Magyar Bírósági Végrehajtói Kar, a törvényszéki végrehajtók tekintetében pedig az illetékes törvényszék értesíti az ingatlanügyi hatóságot, amely az értesítés alapján a bírósági végrehajtó hozzáférési jogosultságát visszavonja.
 
 (4) A vízitársulat a törvényben meghatározott közfeladatainak teljesítése céljából a hivatali helyiségében működtetett saját számítástechnikai eszközével jogosult a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Az ingatlanügyi hatóság a vízitársulat részére kérelem alapján térítésmentesen biztosítja a vízitársulat közfeladatainak ellátásához szükséges számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 

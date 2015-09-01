@@ -428,7 +428,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - 17. Az idős és hajléktalan személyek átmeneti és tartós bentlakásos ellátása (Szoctv.)
 - 18. Azon egyéb szociális alapszolgáltatások, szakosított ellátások és gyermekvédelmi szakellátás megszervezése, amelyeket az önkormányzat az állammal vagy állami szervvel kötött megállapodás, szerződés keretében nyújt (Szoctv. és Gyvt.)
 - 19. A törvényben meghatározott gyermekétkeztetési feladatok (Gyvt.)
-- 20. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások: aktív korúak ellátása, rendkívüli települési támogatás, lakásfenntartási támogatás, önkormányzati segély, köztemetés, közgyógyellátás, rendszeres gyermekvédelmi kedvezmény, óvodáztatási támogatás (Szoctv. és Gyvt.)
+- 20. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások: aktív korúak ellátása, rendkívüli települési támogatás, lakásfenntartási támogatás, önkormányzati segély, köztemetés, közgyógyellátás, rendszeres gyermekvédelmi kedvezmény (Szoctv. és Gyvt.)
 - 21. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (Mötv.)
 - 22. A helyi közfoglalkoztatás megszervezése [Mötv. és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.)]
 - 23. A települési könyvtári ellátás biztosítása [a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.)]
