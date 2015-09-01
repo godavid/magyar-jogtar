@@ -30,7 +30,7 @@ Az Országgyűlés – elismerve a kisvállalkozók gazdasági életben betölt�
 
 (2) Nem lehet egyéni vállalkozó:
 
-- a) aki korlátozottan cselekvőképes vagy cselekvőképtelen,
+- a) kiskorú személy, valamint aki cselekvőképességet érintő gondnokság alatt áll,
 - b) akit
   - ba) a 2013. június 30-ig hatályban volt közélet tisztasága elleni [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. Fejezet VII. cím], nemzetközi közélet tisztasága elleni (1978. évi IV. törvény XV. Fejezet VIII. cím), gazdasági (1978. évi IV. törvény XVII. Fejezet) vagy vagyon elleni (1978. évi IV. törvény XVIII. Fejezet) bűncselekmény,
   - bb) korrupciós [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. Fejezet], vagyon elleni erőszakos (Btk. XXXV. Fejezet), vagyon elleni (Btk. XXXVI. Fejezet), szellemi tulajdonjog elleni (Btk. XXXVII. Fejezet), pénz- és bélyegforgalom biztonsága elleni (Btk. XXXVIII. Fejezet), költségvetést károsító (Btk. XXXIX. Fejezet), pénzmosás (Btk. XL. Fejezet), a gazdálkodás rendjét sértő (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő (Btk. XLII. Fejezet) vagy a tiltott adatszerzés és az információs rendszer elleni (Btk. XLIII. Fejezet) bűncselekmény
@@ -40,13 +40,15 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 - c) akit szándékos bűncselekmény miatt jogerősen egy évet meghaladó, végrehajtandó szabadságvesztére ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
 - d) aki egyéni cég tagja vagy gazdasági társaság korlátlanul felelős tagja.
 
+(3) Egy természetes személynek egyidejűleg egy egyéni vállalkozói jogviszonya állhat fenn.
+
 ### A nyilvántartást vezető szerv és a Hatóság feladatai
 
 3/A. § (1) A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: nyilvántartást vezető szerv)
 
 - a) vezeti az egyéni vállalkozók nyilvántartását,
 - b) működteti a nyilvántartási és ügyviteli feladatokat szolgáló informatikai rendszert,
-- c) a 11. § (3) bekezdése szerint hatósági ellenőrzést végez, valamint
+- c) a 19/B. § szerint hatósági ellenőrzést végez, valamint
 - d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
 (2) A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: Hatóság)
@@ -55,14 +57,19 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 - b) ügyfélkaput létesít a bejelentést személyesen kezdeményező és ügyfélkapuval nem rendelkező bejelentő számára,
 - c) tájékoztatást nyújt az egyéni vállalkozói tevékenység folytatásához szükséges információkról, az egyéni vállalkozói tevékenység folytatásáról, a képesítéshez, valamint a hatósági engedélyhez vagy bejelentéshez kötött gazdasági tevékenységekről,
 - d) ellátja az egyéni vállalkozói igazolvány kiállításával és nyilvántartásával kapcsolatos feladatokat,
-- e) az egyéni vállalkozó székhelye szerinti illetékességgel – ellenőrzési terv alapján – hatósági ellenőrzést folytat, valamint
+- e) az egyéni vállalkozó székhelye szerinti illetékességgel hatósági ellenőrzést folytat, valamint
 - f) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
 ### Az egyéni vállalkozói tevékenység megkezdésének bejelentése
 
-4. § (1) Az egyéni vállalkozói tevékenység nyilvántartásával kapcsolatos hatósági feladatokra az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a joghatóságra, hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, valamint az elektronikus kapcsolattartásra és az elektronikus tájékoztatásra, a képviseletre, az iratra, a határidő számítására, a kérelemre, a közreműködő hatóságra, az igazolási kérelemre, a jogorvoslatra, továbbá a költségmentességre vonatkozó rendelkezéseit azzal, hogy ahol a közigazgatási hatósági eljárás általános szabályairól szóló törvény ügyfelet említ, azon a bejelentőt kell érteni.
+4. § (1) Az egyéni vállalkozói tevékenység nyilvántartásával kapcsolatos hatósági feladatokra az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a joghatóságra, hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, valamint az elektronikus kapcsolattartásra és az elektronikus tájékoztatásra, a képviseletre, az iratra, a határidő számítására, a kérelemre, a közreműködő hatóságra, az igazolási kérelemre, a hatósági ellenőrzésre, a jogorvoslatra, az eljárási bírság kiszabására, továbbá a költségmentességre vonatkozó rendelkezéseit azzal, hogy ahol a közigazgatási hatósági eljárás általános szabályairól szóló törvény ügyfelet említ, azon a bejelentőt kell érteni.
 
-(2) Az egyéni vállalkozói tevékenység megkezdésének és megszüntetésének bejelentése elektronikus úton ügyfélkapun keresztül, vagy személyesen kezdeményezhető.
+(2) Az egyéni vállalkozói tevékenység megkezdésének, megszüntetésének bejelentése, továbbá az egyéni vállalkozói igazolvány igénylése
+
+- a) elektronikus úton, ügyfélkapun keresztül vagy
+- b) a Hatóságnál
+
+kezdeményezhető.
 
 (3) Az egyéni vállalkozói tevékenység szünetelésének bejelentésével, valamint a változás-bejelentéssel kapcsolatos eljárások kizárólag elektronikus úton, ügyfélkapun keresztül kezdeményezhetők.
 
@@ -70,14 +77,14 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 
 (2) Az (1) bekezdés szerinti bejelentést
 
-- a) személyesen a Hatóság útján vagy
+- a) a Hatóság útján vagy
 - b) ügyfélkapun keresztül az erre a célra rendszeresített űrlapon (a továbbiakban: elektronikus bejelentés)
 
 kell megtenni.
 
 6. § (1) A bejelentésnek tartalmaznia kell:
 
-- a) a bejelentő családi és utónevét, születési családi és utónevét, anyja családi és utónevét, születési helyét és idejét, lakcímét vagy szálláshelyét (a továbbiakban együtt: lakcím), értesítési címét, állampolgárságát,
+- a) a bejelentő családi és utónevét, születési családi és utónevét, anyja családi és utónevét, születési helyét és idejét, lakcímét vagy szálláshelyét (a továbbiakban együtt: lakcím), állampolgárságát,
 - b) nyilatkozatot arról, hogy nem állnak fenn a 3. §-ban meghatározott kizáró okok,
 - c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kód szerint megjelölve,
 - d) a székhely, valamint szükség szerint a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
@@ -87,27 +94,30 @@ kell megtenni.
 
 (3) A székhely, telephely, fióktelep fogalmára a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit kell alkalmazni.
 
+(4) Az 5. § (2) bekezdés b) pontja szerinti bejelentés során kitöltött bejelentési űrlap írásbeli jognyilatkozatnak minősül.
+
 7. § (1) Ha az 5. § (2) bekezdés b) pontja szerinti bejelentő a bejelentési űrlapot nem megfelelően töltötte ki, erről a tényről – a bejelentés hiányainak, illetve hibáinak megjelölését és az egyéni vállalkozói tevékenység bejelentés nélküli megkezdésének, valamint folytatásának jogkövetkezményeire való figyelmeztetést tartalmazó – automatikus visszajelzést kap.
 
 (2) Ha az 5. § (2) bekezdés b) pontja szerinti bejelentő a bejelentési űrlapot megfelelően töltötte ki, vagy a bejelentő az 5. § (2) bekezdés a) pontja szerint jár el, a nyilvántartást vezető szerv haladéktalanul, automatikusan, az e célra rendszeresített elektronikus rendszeren keresztül – a megállapításukhoz szükséges adatoknak az illetékes hatósághoz történő továbbítását követően – beszerzi az egyéni vállalkozó adószámát és az egyéni vállalkozó statisztikai számjelét.
 
-(3) A (2) bekezdésben foglalt adatok beérkezését követően a nyilvántartást vezető szerv az egyéni vállalkozót – azonosításra alkalmas nyilvántartási szám megállapításával egyidejűleg– nyilvántartásba veszi, és megküldi vagy a Hatóság közreműködésével átadja a 9. §-ban meghatározott adatokat tartalmazó igazolást a bejelentő részére.
+(3) A (2) bekezdésben foglalt adatok beérkezését követően a nyilvántartást vezető szerv az egyéni vállalkozót – azonosításra alkalmas nyilvántartási szám megállapításával egyidejűleg– nyilvántartásba veszi, és megküldi vagy a Hatóság közreműködésével átadja a 9. §-ban meghatározott, a nyilvántartásba bejegyzett adatokat tartalmazó értesítést (a továbbiakban: értesítés) a bejelentő részére.
 
 (4) Ha a bejelentő a bejelentési űrlapot megfelelően töltötte ki, a Hatóság és a nyilvántartást vezető szerv nem mérlegelheti a (2) és (3) bekezdésben foglaltak végrehajtását.
 
-(5) A nyilvántartást vezető szerv a 9. § szerinti igazolás megküldésével egyidejűleg a nyilvántartásba vételről értesíti az állami adóhatóságot, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet, a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(5) A nyilvántartást vezető szerv a 9. § szerinti értesítés megküldésével egyidejűleg a nyilvántartásba vételről értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
 (6) Az egyéni vállalkozói tevékenység a nyilvántartásba vétel napján kezdhető meg.
 
 8. § Az egyéni vállalkozói tevékenység megkezdésének bejelentése, a változás-bejelentés, az egyéni vállalkozói tevékenység szünetelésének és megszűnésének bejelentése díj- és illetékmentes.
 
-9. § A 7. § (3) bekezdése szerinti igazolás tartalmazza:
+9. § A 7. § (3) bekezdése szerinti értesítés tartalmazza:
 
-- a) az eljáró hatóság megnevezését, az ügy számát, a bejelentés napját,
+- a) az eljáró hatóság megnevezését, az ügy számát, a nyilvántartásba vétel napját,
 - b) az egyéni vállalkozó természetes személyazonosító adatait,
 - c) az egyéni vállalkozó székhelyét, telephelyét (telephelyeit), fióktelepét (fióktelepeit),
 - d) az egyéni vállalkozó főtevékenységének és egyéb tevékenységeinek a 6. § (1) bekezdésének c) pontja szerinti megjelölését,
-- e) az egyéni vállalkozó adószámát, statisztikai számjelét és nyilvántartási számát.
+- e) az egyéni vállalkozó adószámát, statisztikai számjelét és nyilvántartási számát, valamint
+- f) a 6. § (1) bekezdés e) pontjában meghatározott adatokra vonatkozó nyilatkozat kivonatát.
 
 ### Az egyéni vállalkozói igazolvány
 
@@ -125,27 +135,28 @@ kell megtenni.
 
 11. § (1) A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartási számmal történő azonosítása, illetve más egyéni vállalkozótól való megkülönböztetése céljából, az egyéni vállalkozók tevékenységének átláthatóbbá tétele, a jogszabályoknak megfelelő működés ellenőrzése érdekében az egyéni vállalkozók nyilvántartásában rögzíti:
 
-- a) az egyéni vállalkozó természetes személyazonosító adatait, lakcímét, állampolgárságát, értesítési címét,
+- a) az egyéni vállalkozó természetes személyazonosító adatait, lakcímét, állampolgárságát,
 - b) az egyéni vállalkozók nyilvántartásába történő felvétel napját,
 - c) az egyéni vállalkozó főtevékenységét és tevékenységi köreit a 6. § (1) bekezdésének c) pontjának megfelelően,
 - d) a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 - e) szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
 - f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, valamint e határozatok megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat jogerőre emelkedésének napját,
 - g) az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
-- h) ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét, valamint
-- i) a törlés időpontját és okát.
+- h) ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét,
+- i) a törlés időpontját és okát,
+- j) ha az egyéni vállalkozó halála esetén a 17. § (1) bekezdése szerint a tevékenység folytatására kerül sor, az egyéni vállalkozói tevékenység özvegy, illetve örökös általi folytatásának tényét,
+- k) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozói tevékenységet a 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét, a törvényes képviselő természetes személyazonosító adatait, lakcímét, valamint
+- l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket.
 
-(1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–i) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába kizárólag az e törvényben meghatározott esetben jogosult adatokat bejegyezni, valamint a nyilvántartásból adatot törölni. A nyilvántartást vezető szerv a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-(3) A nyilvántartást vezető szerv az egyéni vállalkozói jogviszony fennállásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az egyéni vállalkozó megfelel-e a 3. § (2) bekezdésének b) és c) pontjában meghatározott feltételeknek, továbbá, hogy nem áll-e valamely tevékenysége tekintetében foglalkozástól eltiltás hatálya alatt.
+(3) A nyilvántartást vezető szerv a 11. § (1) bekezdés a) pontjában foglalt adatok változását a személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv értesítése alapján vagy a nyilvántartásba történő bekérdezés útján, hivatalból jegyzi be a nyilvántartásba.
 
-(4) A (3) bekezdésben foglaltak érdekében a nyilvántartást vezető szerv – a bűnügyi nyilvántartási rendszerről szóló törvényben az adatigényléshez előírt adatok közlésével az arra előírt feltételek szerint – az egyéni vállalkozói tevékenység folytatására való jogosultság fennállásának ellenőrzése céljából adatot igényelhet és vehet át a bűnügyi nyilvántartó szervtől, a bűnügyi nyilvántartó szerv pedig az adatigénylés alapján a nyilvántartást vezető szerv számára adatot továbbít arra a tényre vonatkozóan, hogy a bűnügyi nyilvántartásokban szerepel-e az egyéni vállalkozóra vonatkozó, a 3. § (2) bekezdés b) vagy c) pontja szerinti kizáró okot megalapozó adat.
+(4) A személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv haladéktalanul értesíti a nyilvántartást vezető szervet az egyéni vállalkozó halálának tényéről, valamint időpontjáról.
 
-(5) A (3) bekezdés szerinti ellenőrzés során a nyilvántartást vezető szerv az egyéni vállalkozó tevékenységi körének megjelölésével, a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározott feltételek szerint, az egyéni vállalkozói tevékenység folytatására való jogosultság fennállásának ellenőrzése céljából adatot igényelhet és vehet át a bűnügyi nyilvántartó szervtől, a bűnügyi nyilvántartó szerv pedig az adatigénylés alapján a nyilvántartást vezető szerv számára adatot továbbít arra a tényre vonatkozóan, hogy az egyéni vállalkozó a megjelölt tevékenységi körre vonatkozóan foglalkozástól eltiltás hatálya alatt áll-e.
-
-(6) A nyilvántartást vezető szerv az ellenőrzés során a (4) és (5) bekezdés szerint megismert tényre vonatkozó adatokat az ellenőrzés befejezéséig – ha az ellenőrzés alapján hivatalból az egyéni vállalkozó tevékenység megtiltására irányuló eljárást indít, annak jogerős befejezéséig – kezelheti.
+(5)–(6)
 
 12. § (1) A nyilvántartást vezető szerv az állami adóhatóság elektronikus értesítése alapján, hivatalból intézkedik az egyéni vállalkozó adószáma alkalmazásának felfüggesztése, törlése, a felfüggesztés megszüntetése, valamint e határozatok megsemmisítése vagy hatályon kívül helyezése, továbbá a határozat jogerőre emelkedése napjának bejegyzéséről.
 
@@ -159,21 +170,19 @@ kell megtenni.
 - b) a rendőrség a bűncselekmények és szabálysértések felderítése céljából,
 - c) a nyomozó hatóság és az ügyészség büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
 
-(3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja nevét, születési helyét és idejét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai ellátása érdekében.
+(3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja nevét, születési helyét és idejét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
 
 ### Az egyéni vállalkozói tevékenység gyakorlásával kapcsolatos változások bejelentése
 
-14. § (1) Az egyéni vállalkozó a nyilvántartásban szereplő adatainak megváltozását a változástól számított tizenöt napon belül köteles az e célra rendszeresített elektronikus űrlapon (a továbbiakban: változásbejelentési űrlap) a nyilvántartást vezető szervnek bejelenteni. A változásbejelentési űrlapnak az egyéni vállalkozó családi és utónevét, nyilvántartási számát, valamint a megváltozott adatokat kell tartalmaznia. Az egyéni vállalkozó az állami adóhatóság által vezetett nyilvántartáshoz szükséges – külön törvényben rögzített – további adatokat a nyilvántartást vezető szerv útján is eljuttathatja az állami adóhatósághoz.
+14. § (1) Az egyéni vállalkozó – természetes személyazonosító adatai, lakcíme és állampolgársági adata kivételével – a nyilvántartásban szereplő adatainak megváltozását a változástól számított tizenöt napon belül köteles az e célra rendszeresített elektronikus űrlapon (a továbbiakban: változásbejelentési űrlap) a nyilvántartást vezető szervnek bejelenteni. A változásbejelentési űrlapnak az egyéni vállalkozó családi és utónevét, nyilvántartási számát, valamint a megváltozott adatokat kell tartalmaznia. Az egyéni vállalkozó az állami adóhatóság által vezetett nyilvántartáshoz szükséges – külön törvényben rögzített – további adatokat a nyilvántartást vezető szerv útján is eljuttathatja az állami adóhatósághoz.
 
 (2) Igazolvánnyal rendelkező egyéni vállalkozó változásbejelentésének – ha az az igazolványban szereplő adatokat érint – feltétele, hogy az egyéni vállalkozó igazolványát a Hatóságnak személyesen vagy postai úton leadja. A Hatóság az igazolványt a leadás vagy a beérkezés napján érvényteleníti, és ennek tényét a nyilvántartásba bejegyzi.
 
-(3) Ha az egyéni vállalkozó az egyéni vállalkozói tevékenység megkezdését követően kíván engedélyköteles vagy bejelentésköteles tevékenységet folytatni, az (1) bekezdés szerinti változásbejelentési kötelezettségének az engedély iránti kérelem vagy a bejelentés benyújtásával eleget tesz. Ebben az esetben az engedélyező, vagy a bejelentést fogadó hatóság az engedély megadásáról, illetve a bejelentés alapján történő nyilvántartásba vételéről az egyéni vállalkozó természetes személyazonosító adatai, nyilvántartási száma, valamint a 11. § c) és d) pontja szerinti adatok megadásával haladéktalanul értesíti a nyilvántartást vezető szervet.
+(3)–(4)
 
-(4) Ha az egyéni vállalkozó külön jogszabály alapján engedélyköteles vagy bejelentésköteles tevékenységét megszünteti, az (1) bekezdés szerinti változásbejelentési kötelezettségét az engedélyező vagy a bejelentést fogadó hatóságnál is teljesítheti, amely az egyéni vállalkozó természetes személyazonosító adatai, nyilvántartási száma, valamint a 11. § c) és d) pontja szerinti adatok megadásával haladéktalanul értesíti a nyilvántartást vezető szervet.
+(5) Az adatváltozás bejelentésére és nyilvántartásba vételére a 6. és 7. §-t kell alkalmazni azzal, hogy az értesítés az egyéni vállalkozó nyilvántartási számát, a 9. § a) és b) pontjában meghatározott, valamint az adatváltozással érintett adatokat tartalmazza.
 
-(5) Az adatváltozás bejelentésére és nyilvántartásba vételére a 6. és 7. §-t kell alkalmazni azzal, hogy a visszaigazolás a 9. § a) és b) pontjában meghatározott, valamint az adatváltozással érintett adatokat tartalmazza.
-
-(6) A nyilvántartást vezető szerv az (1), (3) és (4) bekezdésben foglalt esetekben a megváltozott adatokról értesíti az állami adóhatóságot, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet, a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(6) A nyilvántartást vezető szerv az (1), (3) és (4) bekezdésben foglalt esetekben a megváltozott adatokról értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
 ### Az egyéni vállalkozói tevékenység
 
@@ -183,9 +192,9 @@ kell megtenni.
 
 (3) Ha valamely gazdasági tevékenység gyakorlását jogszabály – ide nem értve az önkormányzati rendeletet – hatósági engedélyhez köti, az egyéni vállalkozó e tevékenységét csak az engedély birtokában kezdheti meg, illetve végezheti.
 
-16. § (1) Az egyéni vállalkozó közreműködőként alkalmazottat, külön jogszabályban meghatározott bedolgozót, segítő családtagot, és szakiskolai, szakközépiskolai tanulót foglalkoztathat.
+16. § (1) Az egyéni vállalkozó köteles személyesen közreműködni a tevékenység folytatásában, azzal, hogy közreműködőként alkalmazottat foglalkoztathat.
 
-(2) Képesítéshez kötött tevékenységet az egyéni vállalkozó csak akkor folytathat, ha a jogszabályokban meghatározott képesítési követelményeknek megfelel. Jogszabály – ide nem értve az önkormányzati rendeletet – eltérő rendelkezése hiányában képesítéshez kötött tevékenységet az egyéni vállalkozó akkor is folytathat, ha a képesítési követelményeknek maga nem felel meg, de az adott tevékenység folytatásában személyesen közreműködő, általa határozatlan időre foglalkoztatott személyek között van olyan, aki az előírt képesítéssel rendelkezik.
+(2) Képesítéshez kötött tevékenységet az egyéni vállalkozó csak akkor folytathat, ha a jogszabályokban meghatározott képesítési követelményeknek megfelel. Jogszabály – ide nem értve az önkormányzati rendeletet – eltérő rendelkezése hiányában képesítéshez kötött tevékenységet az egyéni vállalkozó akkor is folytathat, ha a képesítési követelményeknek maga nem felel meg, de az adott tevékenység folytatásában személyesen közreműködő, általa határozatlan időre foglalkoztatott személyek között van olyan, aki az előírt képesítéssel rendelkezik. A képesítési követelményeknek a tevékenység folytatása során folyamatosan meg kell felelni.
 
 (3) Ha az egyéni vállalkozónak több telephelye (fióktelepe) van, a képesítési követelményekre vonatkozó előírásokat valamennyi telephelyen (fióktelepen) érvényesíteni kell.
 
@@ -193,25 +202,29 @@ kell megtenni.
 
 (5) Az egyéni vállalkozó a nyilvántartásba olyan – a 6. § (1) bekezdés c) pontja szerinti -–tevékenységet jelenthet be, melynek gyakorlására vonatkozó jogszabályi előírásokat teljesítette. Az egyéni vállalkozó köteles haladéktalanul bejelenteni, ha a tevékenység gyakorlására vonatkozó jogszabályi előírásoknak nem felel meg. A bejelentés alapján a nyilvántartást vezető szerv törli a tevékenységet.
 
-17. § (1) Az egyéni vállalkozó halála esetén az egyéni vállalkozó özvegye, özvegy hiányában vagy annak egyetértésével örököse az egyéni vállalkozói tevékenységet folytathatja, ha az egyéni vállalkozói tevékenység folytatását az e törvényben meghatározottak szerint – az ok bekövetkezésétől számított 90 napon belül – bejelenti.
+(6) Az egyéni vállalkozó székhelye, telephelye és fióktelepe olyan ingatlan lehet, amely az egyéni vállalkozó tulajdonát képezi, vagy amelynek használatára az egyéni vállalkozó egyébként jogosult.
 
-(2) Az egyéni vállalkozó cselekvőképességének korlátozását vagy kizárását kimondó bírósági határozat esetén az egyéni vállalkozó nevében és javára törvényes képviselője az egyéni vállalkozói tevékenységet folytathatja, ha az egyéni vállalkozói tevékenység folytatását az e törvényben meghatározottak szerint – az egyéni vállalkozó cselekvőképességének korlátozását vagy kizárását kimondó bírósági határozat jogerőre emelkedésétől számított 30 napon belül – bejelenti.
+17. § (1) Az egyéni vállalkozó halála esetén az egyéni vállalkozó özvegye, özvegy hiányában vagy annak egyetértésével örököse az egyéni vállalkozói tevékenységet folytathatja, ha az egyéni vállalkozói tevékenység folytatását az e törvényben meghatározottak szerint – az ok bekövetkezésétől számított 90 napon belül – a Hatóságnál személyesen bejelenti.
 
-(3) A tevékenység folytatását az 5. § (2) bekezdés a) pontja szerint kell bejelenteni.
+(2) Az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozó nevében és javára törvényes képviselője az egyéni vállalkozói tevékenységet folytathatja, ha az egyéni vállalkozói tevékenység folytatását az e törvényben meghatározottak szerint – az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésétől számított 30 napon belül – a Hatóságnál személyesen bejelenti.
 
-(4) A tevékenység folytatásának kezdete az (1) bekezdésben foglalt esetben az egyéni vállalkozó halálát, a (2) bekezdésben foglalt esetben az egyéni vállalkozó cselekvőképességének korlátozását vagy kizárását kimondó bírósági határozat jogerőre emelkedését követő nap.
+(3) A tevékenység folytatásának kezdete az (1) bekezdésben foglalt esetben az egyéni vállalkozó halálát, a (2) bekezdésben foglalt esetben az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedését követő nap.
+
+(4)
 
 ### Az egyéni vállalkozói tevékenység szünetelése
 
 18. § (1) Az egyéni vállalkozó egyéni vállalkozói tevékenységét legalább egy hónapig és legfeljebb öt évig szüneteltetheti. A szünetelés bejelentésére az e §-ban meghatározott eltérésekkel az egyéni vállalkozói tevékenység megkezdésének bejelentésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2) Amennyiben az egyéni vállalkozó egyéni vállalkozói tevékenységét szüneteltetni kívánja, köteles azt a változásbejelentési űrlapon a nyilvántartást vezető szervnél megfelelő módon bejelenteni, amely a szünetelés tényét és kezdő időpontját az egyéni vállalkozók nyilvántartásába bejegyzi. A szünetelés kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelésről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet, a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(2) Amennyiben az egyéni vállalkozó egyéni vállalkozói tevékenységét szüneteltetni kívánja, köteles azt a változásbejelentési űrlapon a nyilvántartást vezető szervnél megfelelő módon bejelenteni, amely a szünetelés tényét és kezdő időpontját az egyéni vállalkozók nyilvántartásába bejegyzi. A szünetelés kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelésről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
 (3) A szünetelés bejelentését követően, annak tartama alatt az egyéni vállalkozó egyéni vállalkozói tevékenységet nem végezhet, egyéni vállalkozói tevékenységhez kötődő új jogosultságot nem szerezhet, új kötelezettséget nem vállalhat. Az egyéni vállalkozó tevékenységének folytatása során a szünetelésig keletkezett és azt követően esedékessé váló fizetési kötelezettségeit a szünetelés ideje alatt is köteles teljesíteni.
 
-(4) Az egyéni vállalkozó szüneteltetett egyéni vállalkozói tevékenységét a változásbejelentési űrlapon benyújtott, az egyéni vállalkozói tevékenység folytatására vonatkozó, a nyilvántartást vezető szervnél megfelelő módon tett bejelentésével folytathatja. A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel. A tevékenység folytatásának kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelés záró napját bejegyzi az egyéni vállalkozók nyilvántartásába, és erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet, a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(4) Az egyéni vállalkozó szüneteltetett egyéni vállalkozói tevékenységét a változásbejelentési űrlapon benyújtott, az egyéni vállalkozói tevékenység folytatására vonatkozó, a nyilvántartást vezető szervnél megfelelő módon tett bejelentésével folytathatja. A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel. A tevékenység folytatásának kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelés záró napját bejegyzi az egyéni vállalkozók nyilvántartásába, és erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
 (5) Igazolvánnyal rendelkező egyéni vállalkozó tevékenysége szüneteltetésének a feltétele, hogy az egyéni vállalkozó igazolványát a Hatóságnak személyesen vagy postai úton leadja. Az igazolványt a Hatóság az igazolvány beérkezésének vagy leadásának napján érvényteleníti, és ennek tényét bejegyzi a nyilvántartásba.
+
+(6) A szünetelés, valamint a szüneteltetett tevékenység folytatásának bejelentésére és nyilvántartásba vételére a 6. és 7. §-t kell alkalmazni azzal, hogy az értesítés az egyéni vállalkozó nyilvántartási számát, a 9. § a) és b) pontjában meghatározott adatokat, valamint a szünetelés bejelentése esetén a szünetelés kezdő, a szüneteltetett tevékenység folytatásának bejelentése esetén pedig a szünetelés kezdő és záró időpontját tartalmazza.
 
 ### Az egyéni vállalkozói tevékenységre való jogosultság megszűnése
 
@@ -220,35 +233,46 @@ kell megtenni.
 - a) ha az egyéni vállalkozó tevékenysége megszüntetését a Hatóságnak vagy a nyilvántartó szervnek bejelenti, a bejelentés napján,
 - b) ha az egyéni vállalkozó egyéni céget alapított, vagy a 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, illetve ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
 - c) az egyéni vállalkozó halála napján,
-- d) az egyéni vállalkozó cselekvőképességének korlátozását vagy kizárását kimondó bírósági határozat jogerőre emelkedésének a napján,
+- d) az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésének a napján,
 - e) ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlést kimondó határozat jogerőre emelkedésének napján,
-- f) a 3. § (2) bekezdés b), illetve c) pontjaiban meghatározott kizáró ok bekövetkezése esetén, a 11. § (3)–(6) bekezdéseiben foglalt ellenőrzés befejezésekor.
+- f) a 3. § (2) bekezdés b), illetve c) pontjaiban meghatározott kizáró ok bekövetkezése esetén, a 19/B. §-ban foglalt összeférhetetlenség megállapításakor, valamint
+- g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő öt év elteltét követő napon.
 
 (2) Az egyéni vállalkozói tevékenységre való jogosultság megszűnése alapjául szolgáló tényről
 
-- a) az egyéni vállalkozói tevékenység megszüntetése, valamint a 17. § (1) és (2) bekezdés szerinti tények igazolása esetén az egyéni vállalkozó cselekvőképtelenné vagy korlátozottan cselekvőképessé válása, vagy halála esetén a Hatóság,
+- a) az egyéni vállalkozói tevékenység megszüntetése, valamint a 17. § (1) és (2) bekezdés szerinti tények igazolása érdekében, az egyéni vállalkozó gondnokság alá helyezése esetén a Hatóság, halála esetén a Hatóság vagy a személyiadat- és lakcímnyilvántartást, illetve a központi idegenrendészeti nyilvántartást vezető szerv,
 - b) az egyéni vállalkozó adószámának törlése esetén az állami adóhatóság,
 - c) egyéni cég alapítása, vagyoni betétjének átruházással vagy örökléssel történő megszerzése esetén az egyéni cég székhelye szerint illetékes cégbíróság (a továbbiakban: cégbíróság) elektronikus úton értesíti a nyilvántartást vezető szervet.
 
 (3) A Hatóság az egyéni vállalkozói tevékenység folytatását megtiltja, ha
 
-- a) az egyéni vállalkozói tevékenység megkezdését vagy folytatását kizáró ok áll fenn,
-- b) ha a szünetelés kezdőnapját követően öt év eltelt, és az egyéni vállalkozó nem intézkedett az egyéni vállalkozói tevékenység folytatása vagy megszüntetése iránt,
+- a) az egyéni vállalkozói tevékenység megkezdésének feltételei nem állnak fenn vagy a tevékenység folytatását kizáró ok áll fenn, így különösen, ha az egyéni vállalkozó nem rendelkezik nyilvántartott székhellyel vagy főtevékenységgel,
+- b)
 - c) ha az egyéni vállalkozó a 11. § (1) bekezdés c) pontja szerinti tevékenységek egyikét sem folytathatja jogszerűen,
 
-(4) A nyilvántartást vezető szerv azt az egyéni vállalkozót, akinek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból, és erről az egyéni vállalkozót – az (1) bekezdés c) pontjának kivételével – tájékoztatja. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja az állami adóhatóságot, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet, a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(4) A nyilvántartást vezető szerv azt az egyéni vállalkozót, akinek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból, és erről az egyéni vállalkozót – az (1) bekezdés c) és e) pontjának kivételével – tájékoztatja. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
 ### Az egyéni vállalkozói tevékenység ellenőrzése
 
 19/A. § (1) Az egyéni vállalkozói tevékenység ellenőrzésének célja az egyéni vállalkozói nyilvántartás közhitelességének, valamint az egyéni vállalkozói tevékenység törvényes működésének biztosítása.
 
-(2) A Hatóság a nyilvántartásba vételt követő 30 napon belül ellenőrzi, hogy az egyéni vállalkozó működése megfelel-e a jogszabályi rendelkezéseknek.
+(2) A Hatóság a nyilvántartásba vételt követő 30 napon belül, továbbá ellenőrzési terv alapján és eseti jelleggel ellenőrzi azt, hogy az egyéni vállalkozó működése megfelel-e a jogszabályi rendelkezéseknek.
 
 (3) Amennyiben az ellenőrzés során a tevékenység megkezdésének vagy folytatásának akadálya merül fel, és az elhárítható, a Hatóság – a 19. § (3) bekezdés szerinti jogkövetkezményekre való figyelmeztetéssel – felszólítja az egyéni vállalkozót, hogy az akadályt hárítsa el. Ennek eredménytelensége esetén a Hatóság a 19. § (3) bekezdés szerint jár el.
 
 (4) A Hatóság az egyéni vállalkozó főtevénysége vagy egyéb tevékenységi köre gyakorlását megtiltja, amennyiben az az e törvényben vagy más jogszabályban előírt követelményeknek nem felel meg, és a Hatóság felszólítása ellenére az egyéni vállalkozó a követelményeknek a megadott határidőn belül nem tett eleget. A Hatóság a tevékenység gyakorlását megtiltó jogerős döntéséről értesíti a nyilvántartást vezető szervet, amely a főtevékenységet vagy tevékenységi kört törli az egyéni vállalkozók nyilvántartásából.
 
 (5) Amennyiben az egyéni vállalkozó által végzett valamely tevékenység az e törvényben vagy más jogszabályban előírt követelményeknek nem felel meg, és a tevékenységet engedélyező vagy ellenőrző hatóság felszólítása ellenére az egyéni vállalkozó a követelményeknek a megadott határidőn belül nem tett eleget, a tevékenységet engedélyező vagy ellenőrző hatóság a tevékenység gyakorlását megtiltó jogerős döntéséről értesíti a nyilvántartást vezető szervet, amely a főtevékenységet vagy tevékenységi kört törli az egyéni vállalkozók nyilvántartásából.
+
+19/B. § (1) A nyilvántartást vezető szerv az egyéni vállalkozói jogviszony fennállásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az egyéni vállalkozó esetében nem áll-e fent a 3. § (2) bekezdés b) vagy c) pontjában meghatározott kizáró ok, továbbá, hogy nem áll-e valamely tevékenysége tekintetében foglalkozástól eltiltás hatálya alatt.
+
+(2) Az (1) bekezdésben foglaltak érdekében a nyilvántartást vezető szerv – a bűnügyi nyilvántartási rendszerről szóló törvényben az adatigényléshez előírt adatok közlésével az arra előírt feltételek szerint – az egyéni vállalkozói tevékenység folytatására való jogosultság fennállásának ellenőrzése céljából adatot igényelhet és vehet át a bűnügyi nyilvántartó szervtől, a bűnügyi nyilvántartó szerv pedig az adatigénylés alapján a nyilvántartást vezető szerv számára adatot továbbít arra a tényre vonatkozóan, hogy a bűnügyi nyilvántartásokban szerepel-e az egyéni vállalkozóra vonatkozó, a 3. § (2) bekezdés b) vagy c) pontja szerinti kizáró okot megalapozó adat.
+
+(3) Az (1) bekezdés szerinti ellenőrzés során a nyilvántartást vezető szerv az egyéni vállalkozó nyilvántartásban szereplő tevékenységi köreinek megjelölésével, a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározott feltételek szerint, az egyéni vállalkozói tevékenység folytatására való jogosultság fennállásának ellenőrzése céljából adatot igényelhet és vehet át a bűnügyi nyilvántartó szervtől, a bűnügyi nyilvántartó szerv pedig az adatigénylés alapján a nyilvántartást vezető szerv számára adatot továbbít arra a tényre vonatkozóan, hogy az egyéni vállalkozó a megjelölt tevékenységi körökre vonatkozóan foglalkozástól eltiltás hatálya alatt áll-e.
+
+(4) A nyilvántartást vezető szerv az ellenőrzés során a (2) és (3) bekezdés szerint megismert tényre vonatkozó adatokat az ellenőrzés befejezéséig – ha az ellenőrzés alapján hivatalból az egyéni vállalkozó tevékenység megtiltására irányuló eljárást indít, annak jogerős befejezéséig – kezelheti.
+
+19/C. § Ha az egyéni vállalkozó rosszhiszeműen jár el, vagy valótlan adatot szolgáltat, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint eljárási bírsággal sújtható.
 
 ### II. Fejezet — AZ EGYÉNI CÉG
 
@@ -436,9 +460,15 @@ számítandó.
 
 (4) Illeték és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságnak a (2) bekezdés szerinti változást.
 
+38/A. § (1) A természetes személyek adósságrendezéséról szóló 2015. évi CV. törvény (a továbbiakban: Módtv2.) hatálybalépését követő 90 napon belül a nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartása valamint a személyiadat- és lakcímnyilvántartás és a központi idegenrendészeti nyilvántartás adatainak összevetésével kapcsolati kódot képez.
+
+(2) Amennyiben kapcsolati kód képzésére adateltérés miatt nincs lehetőség, a nyilvántartást vezető szerv a Hatóság közreműködésével gondoskodik az adateltérés megszüntetéséről.
+
+38/B. § A Módtv2. hatályba lépését követő 30 napon belül az egyéni vállalkozó adatai közül az értesítési címet a nyilvántartást vezető szerv hivatalból törli a nyilvántartásból.
+
 ### Felhatalmazások
 
-39. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró szervek feladatait, valamint az egyéni vállalkozók ellenőrzésének részletes szabályait.
+39. § (1)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel, az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az egyéni vállalkozói tevékenység megkezdésével, szünetelésével, változás-bejelentésével és megszüntetésével kapcsolatos űrlapok tartalmát.
 

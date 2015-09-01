@@ -6,7 +6,9 @@ a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti �
 
 1–2. §
 
-3. §
+3. § Az NKE tv. 12. §-a helyébe a következő rendelkezés lép:
+
+„12. § Az Egyetemen gazdasági tanács nem működik.”
 
 4. §
 
@@ -17,14 +19,16 @@ a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti �
 8. § Az NKE tv.
 
 - a)–c)
-- d)
+- d) 3. § 1., 2. és 3. pontjában a „szakjai” szövegrészek helyébe a „szakok” és
 - e)
 
 szöveg lép.
 
 9. § (1) Hatályát veszti az NKE tv.
 
-- a)–c)
+- a) 3. § 1. pontjában a „közigazgatási képzési ág”;
+- b) 3. § 2. pontjában az „ , a rendészeti képzési ág”;
+- c) 3. § 3. pontjában a „honvédelmi és katonai képzési ág”;
 - d)–f)
 - g)
 

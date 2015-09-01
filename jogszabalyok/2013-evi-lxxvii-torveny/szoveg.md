@@ -243,10 +243,10 @@ tartalmazza.
 
 - a) a képzés megnevezését és – a képzési program nyilvántartásba vételét követően – a képzés 5. § (1) bekezdés b) pontjában szereplő nyilvántartásba vételi számát,
 - b) a képzés során megszerezhető kompetenciát,
-- c) a képzésbe való bekapcsolódás és részvétel feltételeit,
+- c) a képzésbe való bekapcsolódás és részvétel feltételeit, a képzés célját és célcsoportját,
 - d) a tervezett képzési időt,
-- e) a képzés egyéni felkészülés, csoportos képzés, távoktatás szerinti formájának meghatározását,
-- f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és gyakorlati óraszámot,
+- e) az 1. § (2) bekezdés a), b) és d) pontja szerinti képzés esetén a képzés egyéni felkészítés, csoportos képzés, távoktatás szerinti formájának, az 1. § (2) bekezdés c) pontja szerinti nyelvi képzés esetén a nyelvi képzés típusának, valamint formájának megjelölését,
+- f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és – ha a tananyagegység tartalmaz gyakorlati képzést – a gyakorlati óraszámot,
 - g) a maximális csoportlétszámot,
 - h) a képzésben részt vevő teljesítményét értékelő rendszernek – az 1. § (2) bekezdés a) pontjában foglalt képzés esetén a modulzáró vizsgákat is tartalmazó – leírását,
 - i) a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló igazolás kiadásának feltételeit,
@@ -267,7 +267,7 @@ lehet.
 
 (3) A felnőttképzési szerződésnek tartalmaznia kell:
 
-- a) a képzésnek az engedéllyel rendelkező képző intézmények nyilvántartásában szereplő megnevezését, nyilvántartásba vételi számát,
+- a) a képzésnek az engedéllyel rendelkező képző intézmények nyilvántartásában szereplő megnevezését, nyilvántartásba-vételi számát, OKJ szerinti szakképesítés megszerzésére irányuló képzés esetén a szakképesítés OKJ számát,
 - b) a képzési csoport
   - ba) képzésének év, hónap, nap szerinti kezdési időpontját,
   - bb) haladásának tananyagegységekre bontott, óraszám és helyszín szerinti ütemezését,
@@ -415,7 +415,7 @@ vonatkozó adatokat.
 
 (5) A hatóság a felnőttképzési nyelvi programkövetelmények nyilvántartásba vétele érdekében elkészíti a nyelvi képzettség azonosítóval ellátott besorolását. A besorolás szempontjait, valamint a nyilvántartásba vétel követelményeit és eljárási rendjét a miniszter rendeletben határozza meg.
 
-### V. Fejezet — AZ ENGEDÉLLYEL RENDELKEZŐ KÉPZŐ INTÉZMÉNYEK ELLENŐRZÉSE, JOGKÖVETKEZMÉNYEK
+### V. Fejezet — ELLENŐRZÉS, JOGKÖVETKEZMÉNYEK
 
 20. § (1) A hatóság ellenőrzi, hogy az 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
@@ -428,9 +428,16 @@ vonatkozó adatokat.
 
 (4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását felnőttképzési szakértő és felnőttképzési programszakértő bevonásával ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de kétévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal – az 1. § (2) bekezdés a)–b) pontja szerinti képzések esetén felnőttképzési programszakértő bevonásával – köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.
 
-(5) Ha a felnőttképzést folytató intézmény a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér havi összege ötszörösétől tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál. Ha a felnőttképzést folytató intézmény engedély nélkül végez képzést, vele szemben a hatóság a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben résztvevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.
+(5) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany
+
+- a) a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér egyhavi összegétől annak tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál,
+- b) engedély nélkül végez képzést, vele szemben a hatóság
+  - ba) az 1. § (2) bekezdés a) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki,
+  - bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki, azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben részt vevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.
 
 (6) Ha az engedéllyel rendelkező felnőttképzést folytató intézmény a feltárt jogszabálysértést a hatóság határozata alapján nem szünteti meg, vagy ismételten jogszabálysértést követ el, engedélyét a hatóság egy évre részben vagy teljesen visszavonja és ezzel egyidejűleg a kötelező legkisebb munkabér havi összege ötszörösétől tízszereséig terjedő összegű bírságot szab ki. A (11) bekezdésben foglalt súlyosabban minősülő esetekben engedélyét két évre részben vagy teljesen visszavonja, és ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki.
+
+(6a) Ha az 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény a 17/B. §-ban meghatározott rendelkezéseket megsérti, a hatóság vele szemben a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki.
 
 (7) Az engedély részbeni visszavonása esetén az intézmény az engedély visszavonását tartalmazó határozatban megjelölt képzéseit nem folytathatja, az engedély teljes visszavonása esetén az engedély visszavonását elrendelő határozatban megjelölt időtartamig felnőttképzési tevékenységet nem folytathat.
 
@@ -481,7 +488,7 @@ kapcsolatosak,
 
 (3) Az (1) bekezdésben foglalt adatokat államháztartási vagy európai uniós források igénybevételének és felhasználásának ellenőrzése céljából az e támogatásokat ellenőrző szervek számára továbbítani kell.
 
-(4) A felnőttképzést folytató intézmény tevékenységéről – az (5) bekezdésben foglalt kivétellel – az OSAP szerint statisztikai célú adatszolgáltatásra kötelezett.
+(4) Az iskolarendszeren kívüli képzési tevékenységet folytató, az 1. § (1) bekezdés c) pontjában meghatározott jogalany tevékenységéről – az (5) bekezdésben foglalt kivétellel – az OSAP szerint statisztikai célú adatszolgáltatásra kötelezett.
 
 (5) Az OKJ szerinti szakképesítések vizsgáiról, valamint az államilag elismert nyelvvizsgákról a hatóság szolgáltat adatot az OSAP szerint.
 

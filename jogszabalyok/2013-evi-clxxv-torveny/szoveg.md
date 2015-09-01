@@ -49,7 +49,8 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 - h) az anyakönyvvezető
   - ha) a házasságkötéssel kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a)–d) pontjában szereplő adatokat,
   - hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
-- i) a járási hivatal szervezeti egységeként működő okmányiroda és a Központi Okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat.
+- i) a járási hivatal szervezeti egységeként működő okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
+- j) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági, a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat.
 
 7. § (1) A gondnokoltak nyilvántartásában szereplő, a 3. § (1) bekezdés c)–e) pontja szerinti adatokról írásbeli kérelemre az kaphat felvilágosítást, aki
 

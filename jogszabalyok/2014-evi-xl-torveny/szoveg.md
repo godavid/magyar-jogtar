@@ -86,6 +86,8 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (11) A Magyar Nemzeti Bank fogyasztóvédelmi eljárás keretében ellenőrzi, hogy a végelszámolás vagy a felszámolási eljárás alatt nem álló pénzügyi intézmény a (10) bekezdésben foglalt feltételek fennállása esetén megfelelően alkalmazza-e a becslési módszertant.
 
+(12) A fogyasztó a (3) bekezdés alapján hat hónapos elévülési időn belül jogosult igényelni az elszámolás elkészítését. Az elévülés kezdő időpontja a 16. § (3) bekezdése szerinti honlapon történő közzétételt követő második hónap első napja.
+
 7. § (1) Ha az elszámolásra köteles pénzügyi intézmény a fogyasztóval szembeni követelését a szerződés megszűnését követően követeléskezelőre engedményezte, az elszámolásra köteles pénzügyi intézménynek az 5. § (2) bekezdése szerinti elszámolást a követelés engedményezésének időpontjával kell elkészítenie.
 
 (2) Az elszámolásból eredő jogai érvényesítéséhez a fogyasztó a követeléskezelőtől igényelheti, hogy a követeléskezelő a fogyasztóval szemben fennálló követelésével az 5. § (3) bekezdése szerint – a követeléskezelő vagy a jogelődje által a fogyasztónak nyújtott kedvezmények tekintetében az 5. § (5) és (6) bekezdésének értelemszerű alkalmazásával – számoljon el. Az elszámolás során az engedményezés időpontjától – az MNB rendeletében meghatározott módon – a követeléskezelő által alkalmazott kamattal megnövelt összeggel kell figyelembe venni az engedményezés időpontjában fennálló fogyasztói követelést.
@@ -93,6 +95,8 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 (3) Ha a (2) bekezdés szerinti elszámolás eredményeként a követeléskezelő tartozik a fogyasztónak, annak kifizetésére a követeléskezelő köteles, azonban az így kifizetett összeg megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. A követeléskezelő a követelése összegének az engedményezett követelés vételárához képest bekövetkezett csökkenéséből az őt ért pénzügyi veszteség arányos megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. Ha a követeléskezelő az engedményezett követelést nem közvetlenül az elszámolásra köteles pénzügyi intézménytől szerezte, a (2) bekezdés szerinti elszámolásban valamennyi fél együttműködik.
 
 (4) E § rendelkezéseit kell alkalmazni abban az esetben is, ha a követeléskezelő követelése teljesítés eredményeképpen szűnt meg.
+
+(5) A (2) bekezdés szerinti elszámolási igényét a fogyasztó hat hónapos elévülési időn belül jogosult érvényesíteni. Az elévülés kezdő időpontja az (1) bekezdés szerinti, a követelés engedményezésének időpontjára elkészített elszámolásról szóló tájékoztató levélnek, a fogyasztó részére való kézbesítését követő második hónap első napja.
 
 8. § Az elszámolással kapcsolatos minden költség az elszámolásra köteles pénzügyi intézményt – a 7. § (2) bekezdésében foglalt szabályok alkalmazása esetén az ott meghatározottak tekintetében a követeléskezelőt – terheli. A pénzügyi intézmény az e törvényben meghatározott kötelezettségeinek teljesítéséhez kapcsolódóan külön költséget és díjat nem számolhat fel. A pénzügyi intézmény e törvényben meghatározott kötelezettségeinek teljesítése a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) szerinti egyoldalú szerződésmódosítás alapjául nem szolgálhat.
 
@@ -254,7 +258,9 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 (5) Ha az elszámolás vitatására jogosult ugyanazon okból benyújtott panasz alapján kéri a Pénzügyi Békéltető Testület eljárását, amely okból már más az adott elszámolást vitatta és amely tekintetében
 
 - a) a Pénzügyi Békéltető Testület olyan döntést hozott, amely miatt határidőben nem kezdeményezték a bíróság eljárását vagy
-- b) a bíróság határozatot hozott, a Pénzügyi Békéltető Testületnek elegendő ennek tényére utalnia a panasz elutasításakor.
+- b) a bíróság határozatot hozott,
+
+a Pénzügyi Békéltető Testületnek elegendő ennek tényére utalnia a panasz elutasításakor.
 
 23. § (1) Az MNB törvény 116. § (1) bekezdése alkalmazásának nincs helye, a fogyasztó vagy a pénzügyi intézmény a Pénzügyi Békéltető Testület eljárását követően nemperes eljárásban a 24–29. §-ban foglaltak szerint a döntés hatályon kívül helyezését kérheti.
 
@@ -553,7 +559,9 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 
 (4) A Vht. 303. §-ában meghatározott lakóingatlan-kiürítés foganatosítása – a Vht. 182/A. §-ában foglalt rendelkezések figyelembevételével – legkésőbb 2016. december 31. napját követően folytatható.
 
-42/A. § A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló végrehajtási eljárások tekintetében, ha a 41. §-ban és a 42. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 41. §-ban és 42. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.
+42/A. § (1) A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló végrehajtási eljárások tekintetében, ha a 41. §-ban és a 42. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 41. §-ban és 42. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.
+
+(2) Ha a végrehajtás során olyan lakóingatlant is lefoglaltak, amelynek forgalmi értéke nem haladja meg a 60 millió forintot, nem kerülhet sor az ingatlan értékesítésére irányuló olyan cselekmény foganatosítására, amely alapján a vevők érvényesen ajánlatot tehetnek. Ezekben az esetekben az ingatlan értékesítésére irányuló cselekmények folytatására csak akkor kerülhet sor, ha a végrehajtást kérő és az adós a lakóingatlan értékesítését a Vht. 157. §-a alapján 2015. szeptember 15-ét követően közösen kérik, ilyen kérelem hiányában pedig csak akkor, ha a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 104. § (5) és (6) bekezdése szerinti határidők már lejártak, és az adós, adóstárs, kezes vagy dologi kötelezett nem nyújtotta be az adósságrendezési eljárás megindítására vonatkozó kezdeményezését.
 
 #### 19. A zálogtárgyak bírósági végrehajtáson kívüli értékesítését szabályozó kormányrendelet szabályainak alkalmazása
 
@@ -565,11 +573,15 @@ a peres eljárás illetékét az állam viseli, ezen túlmenően mindegyik fél 
 
 (4) A 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárásban az ott meghatározott szabályokat legkésőbb 2016. december 31. napját követően nem kell alkalmazni.
 
-43/A. § A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló, a 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárások tekintetében, ha a 43. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 43. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.
+43/A. § (1) A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló, a 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárások tekintetében, ha a 43. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 43. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.
+
+(2) Ha az értékesítésre kijelölt jelzáloggal terhelt lakóingatlan forgalmi értéke nem haladja meg a 60 millió forintot, nem kerülhet sor az ingatlan árverési értékesítésére irányuló olyan cselekmény foganatosítására, amely alapján a vevők érvényesen ajánlatot tehetnek. Ezekben az esetekben az ingatlan értékesítésére irányuló cselekmények folytatására csak akkor kerülhet sor, ha a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 104. § (5) és (6) bekezdése szerinti határidők már lejártak, és az adós, adóstárs, kezes vagy dologi kötelezett nem nyújtotta be az adósságrendezési megindítására vonatkozó kezdeményezését.
 
 #### 20. Az elszámolással kapcsolatos számviteli szabályok
 
 44. § A 2014. évi XXXVIII. törvény és e törvény végrehajtása következtében a fogyasztóknak – az előző üzleti évekkel kapcsolatosan – túlfizetésként elszámolt, megtérített összeg a pénzügyi intézménynél a számvitelről szóló 2000. évi C. törvény szerinti jelentős összegű hibának minősül, azzal hogy azt – a számvitelről szóló 2000. évi C. törvény 19. § (3) bekezdésének és 37. § (5) bekezdésének előírásaitól eltérően – a jóváírás (elszámolás), a kifizetés (megtérítés) üzleti évének tárgyidőszaki ráfordításai között, rendkívüli ráfordításként kell elszámolni. Az előző üzleti évekkel kapcsolatosan túlfizetésként elszámolt, megtérített összeg tekintetében nem kell alkalmazni a számvitelről szóló 2000. évi C. törvény 170. §-ának rendelkezéseit.
+
+44/A. § Forintalapú fogyasztói kölcsönszerződések esetén a pénzügyi intézmény az e törvény és az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény szerinti elszámolásokat az ügyféllel szemben 2015. június 30-i nappal teljesíti azzal, hogy az elszámolások hatásait az ügyfélre vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2015. szeptember 30-ig – ha pedig a pénzügyi intézmény vagy a Felügyelet által e törvény vagy a 2014. évi XXXVIII. törvény alapján indított polgári peres eljárás befejezésére 2015. augusztus 1. napja után kerül sor, akkor a polgári peres eljárás befejezésétől számított hatvanadik napig – vezeti át, illetve rögzíti.
 
 #### 21. Egyoldalú kamatemelés, költségemelés, díjemelés tilalma, és a fogyasztói kölcsönszerződések körében a felmondás tekintetében érvényesülő speciális szabályozás
 

@@ -412,7 +412,7 @@ gyakorolja.
 
 19. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapításának célja annak igazolása, hogy a gyermek szociális helyzete alapján jogosult
 
-- a) a 151. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétkeztetés normatív kedvezményének,
+- a) a 151. § (5) és (5a) bekezdésében meghatározott gyermekétkeztetés normatív kedvezményének,
 - b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
 - c) az e törvényben és más jogszabályban meghatározott egyéb kedvezményeknek
 
@@ -518,36 +518,7 @@ kell kifizetni.
 
 kell kifizetni.
 
-### Óvodáztatási támogatás
-
-20/C. § (1) Az óvodáztatási támogatásra való jogosultság megállapításának célja a halmozottan hátrányos helyzetű gyermekek minél korábbi életkorban történő rendszeres óvodába járásának elősegítése.
-
-(2) A települési önkormányzat jegyzője az óvodáztatási támogatásra való jogosultságát – kérelmére – annak a szülőnek vagy családbafogadó gyámnak állapítja meg, akinek gyermeke
-
-- a) tekintetében a halmozottan hátrányos helyzet fennállását a jegyző a 67/A. § (3) bekezdésében foglaltak szerint megállapította, és
-- b) legkésőbb annak az óvodai nevelési évnek a kezdetéig, amelyben az ötödik életévét betölti, megkezdi az óvodai nevelésben való tényleges részvételt és a kérelem benyújtását megelőző időszakban legalább két hónapon keresztül a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint rendszeresen jár óvodába.
-
-(3) Az óvodáztatási támogatás iránti kérelmet a szülői felügyeletet gyakorló szülő vagy a családbafogadó gyám legfeljebb annak az óvodai nevelési évnek a kezdetéig terjesztheti elő, amely évben a gyermek az ötödik életévét betölti.
-
-(4) A települési önkormányzat jegyzője az óvodáztatási támogatást első alkalommal, ha az óvodáztatási támogatásra való jogosultság jogerős megállapítására
-
-- a) az előző év december 5-e és a tárgyév június 4-e között kerül sor, a tárgyév június hónapjában,
-- b) a tárgyév június 5-e és a tárgyév december 4-e között kerül sor, a tárgyév december hónapjában
-
-folyósítja.
-
-(5) Az első alkalmat követően a települési önkormányzat jegyzője a gyermek óvodai nevelési jogviszonyának fennállásáig június és december hónapban további óvodáztatási támogatást folyósít a szülőnek vagy a családbafogadó gyámnak, ha
-
-- a) a gyermek továbbra is halmozottan hátrányos helyzetűnek minősül, és
-- b) a szülő, a családbafogadó gyám a gyermeknek a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendelet szerinti rendszeres óvodába járásáról gondoskodik.
-
-(6) Ha az óvodáztatási támogatás iránti kérelmet december 4-éig, illetve június 4-éig benyújtották és a támogatásra való jogosultság feltételei fennállnak, de a kérelem jogerős elbírálására december 4-éig, illetve június 4-éig nem kerül sor, a további óvodáztatási támogatás folyósításának (5) bekezdés szerinti időpontjában kell folyósítani az első alkalommal járó óvodáztatási támogatást. Ha a további óvodáztatási támogatás folyósításának feltételei is fennállnak, akkor az első alkalommal járó és a további óvodáztatási támogatást együtt kell folyósítani.
-
-(7) Az óvodáztatási támogatásra való jogosultság a megszüntetését követően a (2) és (3) bekezdésben foglalt feltételek fennállása esetén ismételten megállapítható, azzal, hogy a rendszeres óvodába járást a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben meghatározott időszak tekintetében kell vizsgálni. Ebben az esetben a jogosultat az (5) bekezdés szerinti további óvodáztatási támogatás illeti meg.
-
-(8) A támogatás összege gyermekenként első alkalommal húszezer forint, ezt követően esetenként és gyermekenként tízezer forint.
-
-(9) A települési önkormányzat rendeletben előírhatja, hogy első alkalommal az óvodáztatási támogatást természetbeni formában kell biztosítani.
+20/C. §
 
 21. §
 
@@ -1900,19 +1871,21 @@ szakmai szempontjait és módszereit.
 
 (6) A védelembe vétel nem érinti a szülő felügyeleti jogát.
 
-68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
+68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
 
-(2) A gyámhatóság az iskoláztatási támogatás szüneteltetésének szükségességét
+(2) A gyámhatóság
 
-- a) három tanítási hónapot magában foglaló időszakonként, és
-- b) a tanítási év lezárását követő 15 napon belül, feltéve, hogy az iskoláztatási támogatás szüneteltetésének kezdő időpontja vagy az utolsó felülvizsgálat óta legalább egy hónap eltelt felülvizsgálja.
+- a) három nevelési hónapot vagy tanítási hónapot magában foglaló időszakonként, és
+- b) – feltéve, hogy a családi pótlék szüneteltetésének kezdő időpontja vagy az utolsó felülvizsgálat óta legalább egy hónap eltelt – a nevelési év vagy tanítási év lezárását követő 15 napon belül
 
-(3) A gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként, ha a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban ötnél több kötelező tanórai foglalkozást igazolatlanul
+felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
-- a) mulasztott, megállapítja, hogy az iskoláztatási támogatás szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
-- b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetésének megszüntetését.
+(3) Ha a gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként azt állapítja meg, hogy a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban háromnál több óvodai nevelési napot, illetve ötnél több kötelező tanórai foglalkozást igazolatlanul
 
-(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
+- a) mulasztott, egyidejűleg megállapítja, hogy a családi pótlék szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
+- b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését.
+
+(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését, ha a gyermeket (fiatal felnőttet) nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyezték el, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
 
 (5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.
 
@@ -3891,24 +3864,33 @@ teszi szükségessé.
 
 (3a) Ha a fenntartó vagy a települési önkormányzat a gyermekétkeztetést vásárolt szolgáltatás útján biztosítja, az intézményi térítési díj megállapítása érdekében az étkeztetést biztosító szolgáltató köteles elkülönítetten kimutatni a gyermekétkeztetéssel összefüggésben felmerülő nyersanyagköltséget.
 
-(4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg. Ha a fenntartó kizárólag a bölcsődei ellátás keretében biztosított gyermekétkeztetésre állapít meg személyi térítési díjat, a személyi térítési díj meghatározásánál a 150. § (1)–(3) bekezdését nem kell alkalmazni.
+(4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) és (5a) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg. Ha a fenntartó kizárólag a bölcsődei ellátás keretében biztosított gyermekétkeztetésre állapít meg személyi térítési díjat, a személyi térítési díj meghatározásánál a 150. § (1)–(3) bekezdését nem kell alkalmazni.
 
 (4a) Ha az étkeztetési feladatot települési önkormányzat látja el, a (4) bekezdés alkalmazásában intézményvezető alatt a települési önkormányzat azon intézményének vezetőjét kell érteni, amely a gyermekétkeztetést biztosítja. Ha a kötelezett a személyi térítési díjat vitatja, illetve annak csökkentését vagy elengedését kéri, a személyi térítési díj összegéről történő értesítés kézhezvételétől számított nyolc napon belül a települési önkormányzathoz fordulhat. Ha a települési önkormányzat intézmény közreműködése nélkül biztosítja a gyermekétkeztetést, a személyi térítési díj megállapítására, annak vitatására, csökkentésére és elengedésére vonatkozó szabályokat rendeletében állapítja meg.
 
-(5) Gyermekétkeztetés esetén
+(5) A gyermekétkeztetés során az intézményi térítési díj 100%-át normatív kedvezményként kell biztosítani (a továbbiakban: ingyenes étkezés)
 
-- a) a rendszeres gyermekvédelmi kedvezményben részesülő
-  - aa) bölcsődés,
-  - ab) óvodás,
-  - ac) 1–8. évfolyamon nappali rendszerű iskolai oktatásban részt vevő,
-  - ad) fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó intézményben elhelyezett, aa)–ac) alpont szerinti életkorú
+- a) a bölcsődei ellátásban vagy óvodai nevelésben részesülő gyermek után, ha
+  - aa) rendszeres gyermekvédelmi kedvezményben részesül,
+  - ab) tartósan beteg vagy fogyatékos, vagy olyan családban él, amelyben tartósan beteg vagy fogyatékos gyermeket nevelnek,
+  - ac) olyan családban él, amelyben három vagy több gyermeket nevelnek,
+  - ad) olyan családban él, amelyben a szülő nyilatkozata alapján az egy főre jutó havi jövedelem összege nem haladja meg a kötelező legkisebb munkabér személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének 130%-át, vagy
+  - ae) nevelésbe vették;
+- b) az 1–8. évfolyamon nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha
+  - ba) rendszeres gyermekvédelmi kedvezményben részesül, vagy
+  - bb) nevelésbe vették;
+- c) azon a) és b) pont szerinti életkorú, rendszeres gyermekvédelmi kedvezményben részesülő gyermek után, akit fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó intézményben helyeztek el;
+- d) az 1–8. évfolyamon felül nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha
+  - da) nevelésbe vették, vagy
+  - db) utógondozói ellátásban részesül.
 
-gyermek után az intézményi térítési díj 100%-át,
+(5a) A gyermekétkeztetés során az intézményi térítési díj 50%-át normatív kedvezményként kell biztosítani (a továbbiakban: kedvezményes étkezés)
 
-- b) az a) pont alá nem tartozó, rendszeres gyermekvédelmi kedvezményben részesülő gyermek és tanuló után az intézményi térítési díj 50%-át,
-- c) három- vagy többgyermekes családoknál gyermekenként az intézményi térítési díj 50%-át,
-- d) az ad) alpont alá nem tartozó, tartósan beteg vagy fogyatékos gyermek, tanuló után az intézményi térítési díj 50%-át,
-- e) azon nevelésbe vett gyermek után, aki bölcsődés, óvodás vagy tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, valamint azon utógondozói ellátásban részesülő fiatal felnőtt után, aki tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, az intézményi térítési díj 100%-át kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: normatív kedvezmény].
+- a) az 1–8. évfolyamon felül nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha rendszeres gyermekvédelmi kedvezményben részesül;
+- b) az 1–8. és az azon felüli évfolyamon nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha olyan családban él, amelyben három vagy több gyermeket nevelnek, feltéve, hogy az (5) bekezdés b) pont ba) alpontja alapján a tanuló nem részesül ingyenes étkezésben;
+- c) az (5) bekezdés b) és d) pontja szerinti életkorú, tartósan beteg vagy fogyatékos gyermek után, feltéve, hogy az (5) bekezdés b)–d) pontja alapján a gyermek nem részesül ingyenes étkezésben.
+
+(5b) Az ingyenes vagy kedvezményes étkezés jogosultsági feltételeinek fennállását a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendeletben foglaltak szerint kell igazolni.
 
 (6) A normatív kedvezmény csak egy jogcímen vehető igénybe.
 
@@ -3918,11 +3900,19 @@ gyermek után az intézményi térítési díj 100%-át,
 
 (9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
 
-(10) Az (5) bekezdés c) pontja szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
+(10) Az (5) bekezdés a) pont ac) alpontja és az (5a) bekezdés b) pontja szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
 
 - a) a tizennyolc éven aluli,
 - b) a huszonöt évesnél fiatalabb, köznevelési intézményben nappali rendszerű oktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló, és
 - c) életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos gyermeket, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett gyermeket, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermeket és utógondozói ellátásban részesülő fiatal felnőttet.
+
+(10a) Az (5) bekezdés a) pont ad) alpontjában meghatározott összeg számításánál – a kérelem benyújtásának időpontjában – közös háztartásban élő családtagként kell figyelembe venni az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező
+
+- a) szülőt, a szülő házastársát vagy élettársát,
+- b) (10) bekezdés szerinti gyermeket,
+- c) az a) és b) pontba nem tartozó, a Ptk. családjogra irányadó szabályai alapján a szülő vagy házastársa által eltartott rokont.
+
+(10b) A családbafogadó gyám a saját és a gyámsága alatt álló gyermek tekintetében is kérheti az ingyenes vagy kedvezményes étkezésre való jogosultság megállapítását, ha az (5) vagy (5a) bekezdésben meghatározott feltételek valamelyik gyermek tekintetében fennállnak. Az (5) bekezdés a) pont ac) alpontja és az (5a) bekezdés b) pontja szerinti esetben a családbafogadó gyám saját gyermekeinek és a gyámsága alatt álló gyermekeknek a számát össze kell adni. A (10a) bekezdés alkalmazásában szülő alatt a családbafogadó gyámot is érteni kell.
 
 (11) A normatív kedvezményt a tanuló után a nappali rendszerű oktatásban való részvétele befejezéséig kell biztosítani.
 
@@ -3979,7 +3969,7 @@ gyermek után az intézményi térítési díj 100%-át,
 
 157. § A 2003. január 1-jén fennálló nevelőszülői jogviszony esetében a hivatásos nevelőszülőt megillető díjat nem lehet alacsonyabb mértékben megállapítani annál, mint amilyen díjazásban a hivatásos nevelőszülő 2003. január 1-jén részesült.
 
-158. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel módosított 20/C. § (1) bekezdését a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+158. §
 
 159. § Családok átmeneti otthona krízisközpontot az 51. § (4)–(9) bekezdése szerinti formában 2012. január 1-jétől működtethet.
 
@@ -3987,7 +3977,7 @@ gyermek után az intézményi térítési díj 100%-át,
 
 (2)
 
-160/A. § A 2008. évi XXXI. törvény 15. §-ával megállapított, a Gyvt. 20/C. §-ában foglalt pénzbeli támogatás az új jelentkezők részére első ízben annak a szülőnek folyósítható, aki harmadik, illetve negyedik életévét betöltött gyermekét 2009. január 1-jét követően íratta be az óvodába. Azoknak az érintett körbe tartozó szülőknek, akik három-, illetve négyéves, gyermeküket 2009. január 1-je előtt már beíratták az óvodába, első alkalommal 2009 júniusában tízezer forintot kell folyósítani.
+160/A. §
 
 161. § Ahol jogszabály
 
@@ -4066,7 +4056,7 @@ kell gondoskodni, kivéve, ha a gyermek tartósan beteg, súlyosan fogyatékos, 
 
 161/O. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 19. § (1a) bekezdésben, valamint 20. és 20/B. §-ban foglalt rendelkezéseket a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás iránt 2013. április 1-jén folyamatban lévő ügyekben, valamint a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás 2013. március 31-ét követő felülvizsgálata során is alkalmazni kell.
 
-161/P. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvény 28. §-ával megállapított 20/C. §-t a 2013. március 31-ét követően indult ügyekben és a 2013. április 1-jét megelőzően megállapított óvodáztatási támogatásnak a 2013. március 31-ét követően esedékes, további alkalommal történő folyósítására kell alkalmazni.
+161/P. §
 
 161/Q. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 95. § (3) bekezdése és a közoktatásról szóló 1993. évi LXXIX. törvény 121. § (1) bekezdés 14. pontja alapján a hátrányos és halmozottan hátrányos helyzetű gyermekek, tanulók részére a 2013. augusztus 31-én hatályos rendelkezések szerint biztosított kedvezményeket, támogatásokat a 2013/2014. nevelési évben, tanévben változatlan feltételek mellett kell nyújtani.
 
@@ -4074,9 +4064,7 @@ kell gondoskodni, kivéve, ha a gyermek tartósan beteg, súlyosan fogyatékos, 
 
 (3) A 2013. szeptember 1-jén utógondozói ellátásban részesülő, tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt halmozottan hátrányos helyzetét a fiatal felnőtt kérelmére, annak hiányában hivatalból legkésőbb 2014. január 31-éig meg kell állapítani.
 
-(4) A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvény 29. §-ával megállapított 20/C. §-t a 2013. augusztus 31-ét követően óvodáztatási támogatás megállapítása iránt indult új ügyekben és a 2013. szeptember 1-jét megelőzően megállapított óvodáztatási támogatásnak a 2014. szeptember 1-jét követően esedékes, további alkalommal történő folyósítására kell alkalmazni.
-
-(5) A települési önkormányzat jegyzője a 2013. szeptember 1-jét megelőzően megállapított óvodáztatási támogatásra való jogosultsággal rendelkező személyeket legkésőbb 2013. december 31-éig levélben tájékoztatja a további óvodáztatási támogatás folyósításának 2013. szeptember 1-jétől hatályos szabályairól, valamint a halmozottan hátrányos helyzet megállapítására vonatkozó rendelkezésekről.
+(4)–(5)
 
 161/R. § (1) A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 77–81. §-t a 2014. január 1-jén átmeneti és tartós nevelésbe vétel iránt folyamatban lévő eljárásokban, valamint az átmeneti és tartós nevelésbe vétel 2013. december 31-ét követő soron következő felülvizsgálata során is alkalmazni kell.
 
@@ -4144,7 +4132,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
 - p)
 - q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
-- r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárásra, valamint az iskoláztatási támogatás folyósításának felfüggesztésére, a felfüggesztés megszüntetésére és az iskoláztatási támogatás szüneteltetése kezdeményezésére irányuló eljárásra, a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
+- r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására, folyósításának felfüggesztésére, a folyósítás felfüggesztésének megszüntetésére, valamint a családi pótlék szüneteltetésének kezdeményezésére irányuló eljárásra, továbbá a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
 - s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 - sz) a gyámhatósági eljárásnak a megelőző pártfogás elrendelésére, felülvizsgálatára, az azzal kapcsolatos döntések meghozatalára és végrehajtására irányuló szabályait,
 - t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
@@ -4260,7 +4248,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (3) A települési önkormányzat jegyzője a 2015. június 5-ét megelőzően megállapított óvodáztatási támogatásra való jogosultságot 2015. október 31-ével megszünteti.
 
-173. §
+173. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel módosított 68/A. §-át az óvodai nevelésben való részvételi kötelezettség megszegése körében a 2015. december 31-ét követően indult eljárásokban kell alkalmazni.
 
 174. § (1) Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2015. évi CXXXIII. törvénnyel megállapított 98. § (11)–(14) bekezdését akkor kell alkalmazni, ha
 

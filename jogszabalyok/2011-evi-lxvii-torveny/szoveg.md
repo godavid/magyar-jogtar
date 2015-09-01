@@ -155,7 +155,7 @@ irányul, a központi hatóság a tartási igény peren kívüli teljesítése �
 
 26. § Ha a különleges intézkedés megtétele iránti megkeresés a tartásra jogosult vagy kötelezett lakó- vagy tartózkodási helyének meghatározására irányul, a központi hatóság megkeresi a polgárok személyi adatait kezelő szervet a lakóhelyre vagy tartózkodási helyre vonatkozó adat beszerzése érdekében, és a beszerzett adatot továbbítja a megkereső központi hatóságnak.
 
-27. § (1) Ha a különleges intézkedés megtétele iránti megkeresés a tartásra kötelezett jövedelmére, munkáltatójára, vagyonára vonatkozó adatok beszerzésére irányul, a központi hatóság ennek foganatosítása érdekében a végrehajtási ügyek végrehajtók közötti elosztására és a végrehajtható okiratok végrehajtóknak történő megküldésére szolgáló, a Magyar Bírósági Végrehajtói Kamara által működtetett elektronikus rendszeren (a továbbiakban: e §-ban ügyelosztási rendszer) keresztül megkeresi az illetékes bírósági végrehajtót. A végrehajtó az elektronikus közokiratról papír alapú közokirati másolatot készít.
+27. § (1) Ha a különleges intézkedés megtétele iránti megkeresés a tartásra kötelezett jövedelmére, munkáltatójára, vagyonára vonatkozó adatok beszerzésére irányul, a központi hatóság ennek foganatosítása érdekében a végrehajtási ügyek végrehajtók közötti elosztására és a végrehajtható okiratok végrehajtóknak történő megküldésére szolgáló, a Magyar Bírósági Végrehajtói Kar által működtetett elektronikus rendszeren (a továbbiakban: e §-ban ügyelosztási rendszer) keresztül megkeresi az illetékes bírósági végrehajtót. A végrehajtó az elektronikus közokiratról papír alapú közokirati másolatot készít.
 
 (2) A végrehajtó az eljárása eredményéről az ügyelosztási rendszeren keresztül tájékoztatja a központi hatóságot.
 

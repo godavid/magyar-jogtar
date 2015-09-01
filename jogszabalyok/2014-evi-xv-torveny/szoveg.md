@@ -160,7 +160,7 @@ kizáró foglalkozástól eltiltás hatálya alatt,
   - mb) fennállása esetén a kérelmező vezető állású személye erre vonatkozó nyilatkozatát, és az ügyfelek arra vonatkozóan adott felmentését tartalmazó okiratot,
 - n) az állami adóhatóság igazolását arról, hogy a kérelmező köztartozásmentes adózói minőséggel rendelkezik, amennyiben nem szerepel a köztartozásmentes adózói adatbázisban,
 - o) a kérelmező székhelye és a helyi adókról szóló törvény szerinti telephelye szerinti önkormányzati adóhatóság által a részére kiállított 30 napnál nem régebbi nemleges adóigazolást,
-- p) a Magyar Bírósági Végrehajtói Kamara által kiállított tanúsítványt arról, hogy a kérelmező a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel,
+- p) a Magyar Bírósági Végrehajtói Kar által kiállított tanúsítványt arról, hogy a kérelmező a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel,
 - q) a kérelmező vezető állású személyének, természetes személy tagjának, munkavállalójának bővített tartalmú (a foglalkozástól, a közügyektől való eltiltást is tartalmazó) hatósági erkölcsi bizonyítványát,
 - r) legalább egy fő mesterképzésben szerzett közgazdász szakképzettséggel rendelkező közgazdásszal, egy fő jogi szakvizsgát tett jogásszal kötött munkaszerződést és egy fő okleveles könyvvizsgáló foglalkoztatására kötött szerződést,
 - s) a bizalmi vagyonkezelő vállalkozással kapcsolatban álló érintett személynek minősülő jogalany nyilatkozatát arról, hogy hozzájárul a bizalmi vagyonkezelő vállalkozás részére átadott személyes adatainak a bizalmi vagyonkezelő vállalkozás feletti ellenőrzés ellátása céljából történő kezeléséhez, valamint továbbításához,
@@ -320,7 +320,8 @@ a Magyar Nemzeti Bank elnöke által kibocsátott rendeletben meghatározott iga
 - c) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, kormányzati ellenőrzési szerv,
 - d) nemzetbiztonsági szolgálat,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, és
-- f) a pénzügyi információs egységként működő hatóság
+- f) a pénzügyi információs egységként működő hatóság,
+- g) a természetes személyek adósságrendezése során a főhitelező, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő
 
 ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellátásához szükséges mértékben és ideig kezelhetnek.
 

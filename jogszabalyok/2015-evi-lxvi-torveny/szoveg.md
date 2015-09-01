@@ -6,15 +6,41 @@ a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésrő
 
 #### 1. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 
-1. §
+1. § A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény (a továbbiakban: Szht.) 1. § c) pontja helyébe a következő rendelkezés lép:
+
+[A szakképzés költségeihez való hozzájárulást (a továbbiakban: szakképzési hozzájárulás) e törvény szerint kell teljesíteni. A szakképzési hozzájárulás célja]
+
+„c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben (a továbbiakban: Nftv.) meghatározott, az államilag támogatott létszám tekintetében
+
+ca) a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlat (a továbbiakban: gyakorlatigényes alapképzési szak),
+
+cb) a duális képzés keretében szervezett gyakorlati képzés (a továbbiakban: duális képzés)
+
+támogatása,”
 
 2. §
 
-3. § (1)
+3. § (1) Az Szht. 3. § a) pontja a következő 3. alponttal egészül ki:
+
+(E törvény alkalmazásában:
+
+gyakorlati képzés:)
+
+„3. az Nftv.-ben meghatározott duális képzés keretében folytatott gyakorlati képzés;”
 
 (2)
 
-4. § (1)
+4. § (1) Az Szht. 5. § c) pontja helyébe a következő rendelkezés lép:
+
+(A szakképzési hozzájárulás teljesíthető)
+
+„c) az államilag támogatott létszám tekintetében
+
+ca) gyakorlatigényes alapképzési szak vagy
+
+cb) duális képzés
+
+keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső képzőhelyen, a hallgatóval kötött munkaszerződés alapján kerül sor,”
 
 (2)
 
@@ -154,17 +180,53 @@ a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésrő
 
 76–77. §
 
-78–79. §
+78. § (1) Az Fktv. 12. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A képzési programnak tartalmaznia kell:)
+
+„c) a képzésbe való bekapcsolódás és részvétel feltételeit, a képzés célját és célcsoportját,”
+
+(2) Az Fktv. 12. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
+
+(A képzési programnak tartalmaznia kell:)
+
+„e) az 1. § (2) bekezdés a), b) és d) pontja szerinti képzés esetén a képzés egyéni felkészítés, csoportos képzés, távoktatás szerinti formájának, az 1. § (2) bekezdés c) pontja szerinti nyelvi képzés esetén a nyelvi képzés típusának, valamint formájának megjelölését,
+
+f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és – ha a tananyagegység tartalmaz gyakorlati képzést – a gyakorlati óraszámot,”
+
+79. § Az Fktv. 13. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A felnőttképzési szerződésnek tartalmaznia kell:)
+
+„a) a képzésnek az engedéllyel rendelkező képző intézmények nyilvántartásában szereplő megnevezését, nyilvántartásba-vételi számát, OKJ szerinti szakképesítés megszerzésére irányuló képzés esetén a szakképesítés OKJ számát,”
 
 80. §
 
 81. §
 
-82. §
+82. § Az Fktv. V. Fejezetének címe helyébe a következő cím lép:
+
+„V. FEJEZET
+
+ELLENŐRZÉS, JOGKÖVETKEZMÉNYEK”
 
 83. § (1)–(2)
 
-(3)–(4)
+(3) Az Fktv. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany
+
+a) a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér egyhavi összegétől annak tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál,
+
+b) engedély nélkül végez képzést, vele szemben a hatóság
+
+ba) az 1. § (2) bekezdés a) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki,
+
+bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki, azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben részt vevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.”
+
+(4) Az Fktv. 20. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) Ha az 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény a 17/B. §-ban meghatározott rendelkezéseket megsérti, a hatóság vele szemben a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki.”
 
 84. §
 
@@ -172,7 +234,7 @@ a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésrő
 
 87. § (1)
 
-(2)
+(2) Az Fktv. 21. § (4) bekezdésében az „A felnőttképzést folytató intézmény” szövegrész helyébe az „Az iskolarendszeren kívüli képzési tevékenységet folytató, az 1. § (1) bekezdés c) pontjában meghatározott jogalany” szöveg lép.
 
 (3)
 

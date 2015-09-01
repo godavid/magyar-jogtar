@@ -59,6 +59,10 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 esetében, ha a szolgáltatás után a fenntartó a központi költségvetésről szóló törvény szerinti támogatásban részesül.
 
+4/C. § (1) A víziközmű-szolgáltatással összefüggő egyes törvények módosításáról szóló 2015. évi CXIX. törvény hatálybalépését követően hatósági határozatban vagy jogszabályban a Vksztv. 2. § 15. pontja szerinti lakossági felhasználók részére meghatározott víziközmű-szolgáltatási díjtételek legfeljebb 90 százalékát alkalmazhatja a víziközmű-szolgáltató vagy a víziközmű-szolgáltatást a Vksztv. 64. § (4) bekezdése és a 4/A. § szerint közvetített módon nyújtó szervezet.
+
+(2) A 4. § (2) és (3) bekezdésében meghatározott tájékoztatási kötelezettség az (1) bekezdés szerinti díjat alkalmazó víziközmű-szolgáltatót vagy közvetített víziközmű-szolgáltatást nyújtó szervezetet egyaránt terheli.
+
 5. § Az egyetemes szolgáltató, a távhőszolgáltató, a víziközmű-szolgáltató, valamint a hulladékgazdálkodási közszolgáltató (a továbbiakban: szolgáltató) – a törvény hatálybalépése után, első alkalommal 30 napon belül, ezt követően – a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az e törvényben foglalt előírások teljesülését.
 
 6. § Az 5. §-ban meghatározott kötelezettség a víziközmű-szolgáltatót, a hulladékgazdálkodási közszolgáltatót, valamint – a közvetítésével nyújtott és az általa kiszámlázott ivóvíz-szolgáltatás esetében – a távhőszolgáltatót, a 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában terheli.
