@@ -2515,7 +2515,7 @@ rendeletben állapítsa meg.
 
 (8)
 
-(9) Hatályát veszti a Kt. 24. § (3) bekezdése, 69. § (1) bekezdése, 74. §-a.
+(9)
 
 #### 54. Átmeneti és vegyes rendelkezések
 
