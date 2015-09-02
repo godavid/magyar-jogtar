@@ -6,41 +6,15 @@ a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésrő
 
 #### 1. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 
-1. § A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény (a továbbiakban: Szht.) 1. § c) pontja helyébe a következő rendelkezés lép:
-
-[A szakképzés költségeihez való hozzájárulást (a továbbiakban: szakképzési hozzájárulás) e törvény szerint kell teljesíteni. A szakképzési hozzájárulás célja]
-
-„c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben (a továbbiakban: Nftv.) meghatározott, az államilag támogatott létszám tekintetében
-
-ca) a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlat (a továbbiakban: gyakorlatigényes alapképzési szak),
-
-cb) a duális képzés keretében szervezett gyakorlati képzés (a továbbiakban: duális képzés)
-
-támogatása,”
+1. §
 
 2. §
 
-3. § (1) Az Szht. 3. § a) pontja a következő 3. alponttal egészül ki:
-
-(E törvény alkalmazásában:
-
-gyakorlati képzés:)
-
-„3. az Nftv.-ben meghatározott duális képzés keretében folytatott gyakorlati képzés;”
+3. § (1)
 
 (2)
 
-4. § (1) Az Szht. 5. § c) pontja helyébe a következő rendelkezés lép:
-
-(A szakképzési hozzájárulás teljesíthető)
-
-„c) az államilag támogatott létszám tekintetében
-
-ca) gyakorlatigényes alapképzési szak vagy
-
-cb) duális képzés
-
-keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső képzőhelyen, a hallgatóval kötött munkaszerződés alapján kerül sor,”
+4. § (1)
 
 (2)
 
@@ -180,53 +154,17 @@ keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső ké
 
 76–77. §
 
-78. § (1) Az Fktv. 12. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A képzési programnak tartalmaznia kell:)
-
-„c) a képzésbe való bekapcsolódás és részvétel feltételeit, a képzés célját és célcsoportját,”
-
-(2) Az Fktv. 12. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
-
-(A képzési programnak tartalmaznia kell:)
-
-„e) az 1. § (2) bekezdés a), b) és d) pontja szerinti képzés esetén a képzés egyéni felkészítés, csoportos képzés, távoktatás szerinti formájának, az 1. § (2) bekezdés c) pontja szerinti nyelvi képzés esetén a nyelvi képzés típusának, valamint formájának megjelölését,
-
-f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és – ha a tananyagegység tartalmaz gyakorlati képzést – a gyakorlati óraszámot,”
-
-79. § Az Fktv. 13. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A felnőttképzési szerződésnek tartalmaznia kell:)
-
-„a) a képzésnek az engedéllyel rendelkező képző intézmények nyilvántartásában szereplő megnevezését, nyilvántartásba-vételi számát, OKJ szerinti szakképesítés megszerzésére irányuló képzés esetén a szakképesítés OKJ számát,”
+78–79. §
 
 80. §
 
 81. §
 
-82. § Az Fktv. V. Fejezetének címe helyébe a következő cím lép:
-
-„V. FEJEZET
-
-ELLENŐRZÉS, JOGKÖVETKEZMÉNYEK”
+82. §
 
 83. § (1)–(2)
 
-(3) Az Fktv. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany
-
-a) a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér egyhavi összegétől annak tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál,
-
-b) engedély nélkül végez képzést, vele szemben a hatóság
-
-ba) az 1. § (2) bekezdés a) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki,
-
-bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki, azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben részt vevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.”
-
-(4) Az Fktv. 20. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) Ha az 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény a 17/B. §-ban meghatározott rendelkezéseket megsérti, a hatóság vele szemben a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki.”
+(3)–(4)
 
 84. §
 
@@ -234,7 +172,7 @@ bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelez
 
 87. § (1)
 
-(2) Az Fktv. 21. § (4) bekezdésében az „A felnőttképzést folytató intézmény” szövegrész helyébe az „Az iskolarendszeren kívüli képzési tevékenységet folytató, az 1. § (1) bekezdés c) pontjában meghatározott jogalany” szöveg lép.
+(2)
 
 (3)
 
@@ -254,7 +192,32 @@ bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelez
 
 #### 6. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-91. §
+91. § (1) A kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 6/F. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Utazásszervezői és utazásközvetítői tevékenység csak akkor folytatható, ha a vállalkozás)
+
+„a) által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó vagy az általa határozatlan időre foglalkoztatott, az utazásszervezői és utazásközvetítői tevékenység folytatásában személyesen közreműködő személy rendelkezik az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározott képesítéssel és szakmai gyakorlattal, valamint nyelvismerettel (a továbbiakban: tevékenységért felelős személy),”
+
+(2) A Kertv. 6/F. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Utazásszervezői és utazásközvetítői tevékenység csak akkor folytatható, ha a vállalkozás)
+
+„c) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, tevékenységért felelős személye, amelyet a tevékenység megkezdését megelőző öt éven belül az utazásszervezői vagy utazásközvetítői tevékenységre vonatkozó jogszabályi rendelkezések megsértése vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak az utazásszervezői vagy utazásközvetítői tevékenység végzésétől,”
+
+(3) A Kertv.
+
+- a) 4. § (2) bekezdés a) pontjában az „egyéni vállalkozás” szövegrész helyébe az „egyéni vállalkozó” szöveg,
+- b) 6/C. § (2) bekezdés b) és c) pontjában az „egyéni vállalkozás” szövegrész helyébe az „egyéni vállalkozó” szöveg,
+- c) 6/E. § (2) bekezdés a) és b) pontjában az „egyéni vállalkozás” szövegrész helyébe az „egyéni vállalkozó” szöveg,
+- d) 6/F. § (2) bekezdés b) pontjában az „egyéni vállalkozás” szövegrész helyébe az „egyéni vállalkozó” szöveg
+
+lép.
+
+(4) Hatályát veszti
+
+- a) a Kertv. 12. § (4) bekezdés a) pontja,
+- b) az utazásszervezői szakmai minősítő vizsgáról szóló 3/1992. (I. 13.) IKM rendelet,
+- c) a Regionális Idegenforgalmi Bizottságok, valamint a Regionális Idegenforgalmi Bizottságok munkaszervezeteinek feladatairól szóló 28/1998. (V. 13.) IKIM rendelet.
 
 #### 7. Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény módosítása
 

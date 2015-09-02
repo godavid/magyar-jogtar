@@ -106,9 +106,7 @@ egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozd
 
 56. §
 
-57. § A Kkt. I. Fejezete a következő 9/C. §-sal egészül ki:
-
-„9/C. § A közfelügyeleti hatóság által a 49. § szerinti minősítés tekintetében hozott döntése ellen a kamarai tag könyvvizsgáló, könyvvizsgáló cég – jogszabály megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint bírósághoz fordulhat.”
+57. §
 
 58. §
 
@@ -120,71 +118,15 @@ egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozd
 
 63. §
 
-64. § A Kkt. a következő 49/A. §-sal egészül ki:
+64. §
 
-„49/A. § Minősítési kérelem az alábbi minősítések megszerzésre nyújtható be:
-
-a) pénzügyi intézményi minősítés,
-
-b) befektetési vállalkozási minősítés,
-
-c) pénztári minősítés,
-
-d) biztosítói minősítés,
-
-e) költségvetési minősítés,
-
-f) IFRS minősítés,
-
-g) kibocsátói minősítés.”
-
-65. § (1) A Kkt. 50. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég 49. § szerinti minősítéséről a közfelügyeleti hatóság dönt. A minősítés iránti kérelem elbírálásáért az ügyfél igazgatási szolgáltatási díjat köteles fizetni. Az igazgatási szolgáltatási díj a közfelügyelet hatóság bevétele. Az igazgatási szolgáltatási díj fizetésének részletes szabályait a miniszter rendeletben állapítja meg.”
-
-(2) A Kkt. 50. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
-
-„(1a) A 49. § szerinti minősítés iránti kérelmet az 1., illetve 2. melléklet szerinti adattartalommal kell a közfelügyeleti hatósághoz benyújtani.
-
-(1b) A közfelügyeleti hatóság a 49. § szerinti minősítés iránti kérelem beérkezésétől számított 15 napon belül – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet, amennyiben a kérelem nem felel meg az e törvény szerinti követelményeknek.
-
-(1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.”
+65. § (1)–(2)
 
 (3)
 
-(4) A Kkt. 50. § (4) bekezdése helyébe a következő rendelkezés lép:
+(4)–(7)
 
-„(4) A (2) és (3) bekezdés szerinti kérelem elbírálása során ki kell kérni az érintett állami szerv egyetértését, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek), kamarai minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.”
-
-(5) A Kkt. 50. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A minősítés megadását meg kell tagadni,)
-
-„b) ha a rendelkezésre álló információk alapján megalapozottan feltételezhető, hogy a kérelmező a minősítésnek megfelelő gazdálkodó tekintetében nem tudja ellátni a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.”
-
-(6) A Kkt. 50. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.”
-
-(7) A Kkt. 50. §-a a következő (9) és (10) bekezdéssel egészül ki:
-
-„(9) A (8) bekezdés szerinti külön szabályzatot a közfelügyeleti hatóság hagyja jóvá.
-
-(10) A 49/A. § a)–d) és g) pontja szerinti minősítések esetén a minősítés megadásának feltétele, hogy az adott minősítésre előírt szakmai minősítő vizsgát a könyvvizsgáló sikeresen teljesítette.”
-
-66. § A Kkt. 51. §-a helyébe a következő rendelkezés lép:
-
-„51. § A minősített kamarai tag könyvvizsgáló, a minősített könyvvizsgáló cég köteles 30 napon belül írásban bejelenteni a közfelügyeleti hatóságnak, ha a minősítés előírt feltételei a továbbiakban már nem állnak fenn.”
-
-67. § (1) A Kkt. 52. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A minősítés visszavonása tekintetében a közfelügyeleti hatóság jár el. Az eljárás megindítását – az ok megjelölésével – az érintett állami szerv is kérheti.”
-
-(2) A Kkt. 52. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A közfelügyeleti hatóság az érintett állami szerv kezdeményezésére a kamarai tag könyvvizsgáló, könyvvizsgáló cég minősítését felfüggeszti. A közfelügyeleti hatóság a felfüggesztés elrendelését követően dönt a kamarai tag könyvvizsgáló, könyvvizsgáló cég minősítésének visszavonásáról, vagy a 173/B. § (4) bekezdése szerinti rendkívüli minőség-ellenőrzés lefolytatásáról, illetve a 195. § (1) bekezdése szerinti vizsgálat lefolytatásáról. A felfüggesztés a kamarai tag könyvvizsgáló, könyvvizsgáló cég minősítésének visszavonásakor, a 173/B. § (4) bekezdése szerinti rendkívüli minőségellenőrzés, illetve a 195. § (1) bekezdése szerinti vizsgálat lezárásakor megszűnik.
-
-(2b) A (2a) bekezdés szerinti felfüggesztésről és a minősítés visszavonásáról a közfelügyeleti hatóság értesíti a kamarát.”
+66–67. §
 
 68. §
 
@@ -192,32 +134,21 @@ g) kibocsátói minősítés.”
 
 70–71. §
 
-72. § A Kkt. 177. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A fegyelmi eljárásban a következő fegyelmi büntetések alkalmazhatók:)
-
-„c) a 49. § szerinti minősítés megvonásának kezdeményezése,”
+72. §
 
 73–75. §
 
-76. § (1) A Kkt. a 2. melléklet szerinti 1. melléklettel egészül ki.
-
-(2) A Kkt. a 3. melléklet szerinti 2. melléklettel egészül ki.
+76. §
 
 77. § A Kkt.
 
 - a)–b)
-- c) 50. § (3) bekezdés a) pontjában a „kamarai tag könyvvizsgáló” szövegrész helyébe a „kamarai tag könyvvizsgáló tagja vagy munkavállalója” szöveg,
-- d) 141. § (4) bekezdésében a „kamara okleveles könyvvizsgálói szakképzési és vizsgaszabályzatának” szövegrész helyébe a „kamara okleveles könyvvizsgálói szakképzési és vizsgaszabályzatának, továbbá a szakmai minősítő vizsgáról szóló szabályzatának” szöveg,
+- c)–d)
 - e)
 
 lép.
 
-78. § Hatályát veszti a Kkt.
-
-- a) 5. § e) pontja,
-- b) 9. § (2) bekezdés b) pontja,
-- c) 50. § (5) bekezdés a) pontjában és 52. § (1) bekezdés c) pontjában a „fegyelmi eljárás keretében” szövegrész.
+78. §
 
 #### 9. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
@@ -435,169 +366,7 @@ lép.
 
 ### 1. melléklet a 2015. évi LXXXV. törvényhez
 
-### 2. melléklet a 2015. évi LXXXV. törvényhez
-
-„
-
-„1. MELLÉKLET
-
-MÍNŐSÍTÉS IRÁNTI KÉRELEM
-
-KAMARAI TAG KÖNYVVIZSGÁLÓ RÉSZÉRE
-
-A kérelem kötelező tartalmi elemeit az 1–10. pontokat foglalják magukba.
-
-1. A kívánt minősítés megjelölése az alábbiak szerint:
-
-Pénzügyi intézményi
-
-Befektetési vállalkozási
-
-Pénztári
-
-Biztosítói
-
-Költségvetési
-
-IFRS
-
-Kibocsátói
-
-2. A kérelemnek tartalmazni kell az alábbi adatokat:
-
-1. Név,
-
-2. Lakcím/elérhetőség,
-
-3. Telefonszám,
-
-4. E-mail cím,
-
-5. Kamarai bejegyzési szám.
-
-3. Kamarai tag nyilatkozata arról, hogy kérelmét a Kkt. 50. §-a (2) bekezdésének a), b) vagy c) pontjára alapozva kéri.
-
-4. A 49/A. § a)–d) és g) pontja szerinti minősítés esetén a kamarai tag nyilatkozata arról, hogy az adott minősítésre előírt 50. § (10) bekezdése szerinti szakmai minősítő vizsgát a könyvvizsgáló sikeresen teljesítette.
-
-5. A kérelemnek tartalmazni kell a minőségellenőrzésre vonatkozó alábbi adatokat:
-
-1. A legutóbbi minőségellenőrzés éve,
-
-2. A legutóbbi minőségellenőrzés eredménye (megfelelt; megfelelt, megjegyzéssel; nem megfelelt).
-
-6. A kérelemnek tartalmazni kell az alábbi, kérelmezővel szemben indított lezárt vagy folyamatban lévő fegyelmi eljárással kapcsolatos alábbi adatokat:
-
-1. Lezárt fegyelmi eljárás
-
-a) éve,
-
-b) eredménye,
-
-2. Folyamatban lévő fegyelmi eljárás
-
-7. A kérelemnek tartalmaznia kell az alábbi nyilatkozatot:
-
-„Fegyelmi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek és bizonyítékokkal alátámaszthatók. Tudomásul veszem, hogy a könyvvizsgálói közfelügyeleti hatóság jogosult a kérelemben feltüntetett adatok ellenőrzésére, illetve azok alátámasztására további bizonyítékokat kérni, amennyiben azok valódiságával kapcsolatban kétely merül fel.”
-
-8. Dátum
-
-9. A kérelmező kamarai tag aláírása
-
-10. Mellékletek
-
-I. Az 50. § (2) bekezdés a) pontra alapozott kérelem esetén az alábbiaknak megfelelő igazolás benyújtása szükséges:
-
-1. az igazolás tartalmazza az igazolást kibocsátó gazdálkodó cégnyilvántartás szerinti azonosító adatait, továbbá a kamarai tag könyvvizsgáló (a kérelmező) kamarai nyilvántartással megegyező azonosító adatait,
-
-2. az igazolást kibocsátó gazdálkodó a kérelmező által kért minősítésnek megfelelő tevékenységet végez, illetve végzett,
-
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
-
-4. azt a minősítésnek megfelelő tevékenységet végző gazdálkodó részéről a munkáltatói jogok gyakorlására jogosult személy írta alá.
-
-Az 50. § (2) bekezdés b) pontra alapozott kérelem esetén alábbiaknak megfelelő igazolás benyújtása szükséges:
-
-1. az igazolás tartalmazza a kérelmezőnek, valamint annak az adott minősítésű kamarai tag könyvvizsgálónak a kamarai nyilvántartással megegyező azonosító adatait, akinél a kérelmező megfelelően közreműködött,
-
-2. az igazolás tartalmazza azoknak a gazdálkodóknak a cégnyilvántartás szerinti azonosító adatait, amelyekre vonatkozóan jogszabály az adott minősítés meglétét előírja, s amelyek tekintetében a kérelmező a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában közreműködött,
-
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt-ben meghatározott követelményeknek,
-
-4. az igazolást kibocsátó, adott minősítésű kamarai tag könyvvizsgáló írta alá.
-
-Az 50. § (2) bekezdés c) pontra alapozott kérelem esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás.
-
-II. A pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó gazdálkodóknál külön jogszabályban meghatározott könyvvizsgálói minősítések esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás szükséges.”
-
-”
-
-### 3. melléklet a 2015. évi LXXXV. törvényhez
-
-„
-
-„2. MELLÉKLET
-
-MÍNŐSÍTÉS IRÁNTI KÉRELEM
-
-KÖNYVVIZSGÁLÓ CÉG RÉSZÉRE
-
-A kérelem kötelező tartalmi elemeit az 1–9. pontok foglalják magukba.
-
-1. A kívánt minősítés megjelölése az alábbiak szerint:
-
-Pénzügyi intézményi
-
-Befektetési vállalkozási
-
-Pénztári
-
-Biztosítói
-
-Költségvetési
-
-IFRS
-
-Kibocsátói
-
-2. A kérelemnek tartalmazni kell az alábbi adatokat:
-
-1. Név, jogi forma megjelölésével,
-
-2. Székhely címe,
-
-3. Kapcsolattartó személy neve, elérhetősége,
-
-4. Kamarai nyilvántartási szám.
-
-3. Könyvvizsgáló cég vezető tisztségviselőjének nyilatkozata arról, hogy van legalább egy olyan, a megfelelő minősítéssel rendelkező kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez (neve; tagsági száma).
-
-4. Könyvvizsgáló cég vezető tisztségviselőjének nyilatkozata arról, hogy vállalja, hogy működése során az a kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
-
-5. A kérelemnek tartalmazni kell a minőségellenőrzésre vonatkozó alábbi adatokat:
-
-1. A legutóbbi minőségellenőrzés éve,
-
-2. A legutóbbi minőségellenőrzés eredménye (megfelelt; megfelelt, megjegyzéssel; nem megfelelt).
-
-6. A kérelemnek tartalmazni kell az alábbi kérelmezővel szemben indított lezárt vagy folyamatban lévő fegyelmi eljárással kapcsolatos alábbi adatokat:
-
-1. Lezárt fegyelmi eljárás
-
-a) éve,
-
-b) eredménye,
-
-2. Folyamatban lévő fegyelmi eljárás
-
-7. A kérelemnek tartalmaznia kell az alábbi nyilatkozatot:
-
-„Fegyelmi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek és bizonyítékokkal alátámaszthatók. Tudomásul veszem, hogy a könyvvizsgálói közfelügyeleti hatóság jogosult a kérelemben feltüntetett adatok ellenőrzésére, illetve azok alátámasztására további bizonyítékokat kérni, amennyiben azok valódiságával kapcsolatban kétely merül fel.”
-
-8. Dátum
-
-9. Cégszerű aláírás”
-
-”
+### 2–3. melléklet a 2015. évi LXXXV. törvényhez
 
 ### 4. melléklet a 2015. évi LXXXV. törvényhez
 

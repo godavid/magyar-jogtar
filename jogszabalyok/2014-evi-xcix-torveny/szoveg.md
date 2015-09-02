@@ -118,7 +118,7 @@ lép.
 
 94. §
 
-95. § (1) Hatályát veszti a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 1. melléklet 20. pontjában az „ , óvodáztatási támogatás” szövegrész.
+95. § (1)
 
 (2)
 
@@ -126,25 +126,7 @@ lép.
 
 96–98. §
 
-99. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 68/A. § (1)–(4) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
-
-(2) A gyámhatóság
-
-a) három nevelési hónapot vagy tanítási hónapot magában foglaló időszakonként, és
-
-b) – feltéve, hogy a családi pótlék szüneteltetésének kezdő időpontja vagy az utolsó felülvizsgálat óta legalább egy hónap eltelt – a nevelési év vagy tanítási év lezárását követő 15 napon belül
-
-felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
-
-(3) Ha a gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként azt állapítja meg, hogy a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban háromnál több óvodai nevelési napot, illetve ötnél több kötelező tanórai foglalkozást igazolatlanul
-
-a) mulasztott, egyidejűleg megállapítja, hogy a családi pótlék szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
-
-b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését.
-
-(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését, ha a gyermeket (fiatal felnőttet) nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyezték el, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.”
+99. §
 
 100. §
 
@@ -152,17 +134,11 @@ b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál a c
 
 102–103. §
 
-104. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés r) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására, folyósításának felfüggesztésére, a folyósítás felfüggesztésének megszüntetésére, valamint a családi pótlék szüneteltetésének kezdeményezésére irányuló eljárásra, továbbá a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,”
+104. §
 
 105–106. §
 
-107. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény a következő 173. §-sal egészül ki:
-
-„173. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel módosított 68/A. §-át az óvodai nevelésben való részvételi kötelezettség megszegése körében a 2015. december 31-ét követően indult eljárásokban kell alkalmazni.”
+107. §
 
 108. § (1)
 
@@ -170,13 +146,7 @@ b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál a c
 
 (3)
 
-109. § Hatályát veszti a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
-
-- 1. 20/C. §-a és az azt megelőző alcím,
-- 2. 158. §-a,
-- 3. 160/A. §-a,
-- 4. 161/P. §-a,
-- 5. 161/Q. § (4) és (5) bekezdése.
+109. §
 
 #### 8. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló2005. évi CXXXV. törvény módosítása
 
@@ -498,45 +468,11 @@ lép.
 
 258. §
 
-259. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 15. §-át megelőző alcíme és 15. §-a helyébe a következő rendelkezés lép:
-
-„Az óvodai nevelésben való részvételi kötelezettség megszegésével, valamint a tankötelezettség mulasztásával összefüggő rendelkezések
-
-15. § (1) Ha az óvodai nevelésben való részvételre kötelezett, a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – az óvodai nevelésben való részvételi kötelezettségét megszegi vagy a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény vezetőjének jelzése alapján a gyámhatóság
-
-a) az adott nevelési évben igazolatlanul mulasztott ötödik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja a családi pótlék jogosultját a b) pontban meghatározott jogkövetkezményre,
-
-b) az adott évben igazolatlanul mulasztott huszadik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a fővárosi és megyei kormányhivatalnál az ellátás szüneteltetését.
-
-(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha az óvodai nevelésben való részvételi kötelezettséget olyan gyermek szegi meg, illetve a kötelező tanórai foglalkozások tekintetében olyan gyermek mulaszt igazolatlanul,
-
-a) akit nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyeztek el, vagy
-
-b) aki gyermekvédelmi gondoskodás alatt áll és javítóintézetben vagy büntetés-végrehajtási intézetben helyezték el.
-
-(3) A fővárosi és megyei kormányhivatal a gyámhatóság kezdeményezésére megszünteti a családi pótlék szüneteltetését, ha
-
-a) a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban
-
-aa) a gyermek igazolatlanul mulasztott óvodai nevelési napjainak száma nem haladta meg a három napot, vagy
-
-ab) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma nem haladta meg az ötöt; vagy
-
-b) a (2) bekezdésben meghatározott esetek valamelyike következett be.”
-
-260. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény a következő 52. §-sal egészül ki:
-
-„52. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 15. §-t és 37. § (7)–(9) bekezdést – a 15. § (1) bekezdés a) pontjának és (2) bekezdésének kivételével – az óvodai nevelésben való részvételi kötelezettség megszegése körében 2016. január 1-jétől kell alkalmazni.”
+259–260. §
 
 261. § (1)
 
-(2) A családok támogatásáról szóló 1998. évi LXXXIV. törvény
-
-- 1. 37. § (7) bekezdésében az „Az iskoláztatási támogatás” szövegrész helyébe az „A családi pótlék” szöveg, valamint az „az iskoláztatási támogatás” szövegrész helyébe az „a családi pótlék” szöveg,
-- 2. 37. § (8) bekezdésében az „az iskoláztatási támogatás” szövegrész helyébe az „a családi pótlék” szöveg,
-- 3. 37. § (9) bekezdésében az „Az iskoláztatási támogatás” szövegrész helyébe az „A családi pótlék” szöveg
-
-lép.
+(2)
 
 #### 47.
 

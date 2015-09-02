@@ -40,45 +40,7 @@ az adózással összefüggő egyes törvények módosításáról
 
 #### 7. A dohányipari vállalkozások 2015. évi egészségügyi hozzájárulásáról szóló 2014. évi XCIV. törvény módosítása
 
-30. § A dohányipari vállalkozások 2015. évi egészségügyi hozzájárulásáról szóló 2014. évi XCIV. törvény (a továbbiakban: Doveho tv.) 2. § 2. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„2. dohánytermék gyártására és kereskedelmére irányuló tevékenység: az a vállalkozási tevékenység, amelyet a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék
-
-a) adóraktár-engedélyese,
-
-b) importálója vagy
-
-c) bejegyzett kereskedője
-
-e minőségében végzett vagy végez, feltéve, hogy a dohánytermék gyártására, a Jöt.-ben meghatározott szabadforgalomba bocsátásra vagy magyarországi forgalomba hozatalára, kereskedelmére irányuló tevékenységéből származó nettó árbevétele az adóévben elérte az összes nettó árbevétele 50%-át;”
-
-31. § A Doveho tv. 3. §-a helyébe a következő rendelkezés lép:
-
-„3. § A hozzájárulás fizetésére az a jogi személy köteles, amely Magyarországon dohánytermék gyártására és kereskedelmére irányuló tevékenységet folytat (a továbbiakban: hozzájárulásra kötelezett).”
-
-32. § A Doveho tv. 4. §-a helyébe a következő rendelkezés lép:
-
-„4. § A hozzájárulás alapja a hozzájárulásra kötelezettnek az adóévben elért nettó árbevétele (a továbbiakban: adóalap).”
-
-33. § (1) A Doveho tv. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A hozzájárulásra kötelezett a fizetési kötelezettségét az adóévet követő hatodik hónap utolsó napjáig állapítja meg és vallja be az e célra rendszeresített nyomtatványon az állami adóhatósághoz.”
-
-(2) A Doveho tv. 6. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az adóévi hozzájárulás – legfeljebb az egyébként fizetendő hozzájárulás 80%-áig – csökkenthető a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 7. pontja alapján az adóévben beruházásként elszámolt összeg 30%-ának és a beruházás megvalósításához igénybevett állami vagy uniós támogatások összegének pozitív különbözetével.”
-
-(3) A Doveho tv. 6. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha az adóév 12 hónapnál rövidebb, a fizetendő hozzájárulás összege az adóévi 4. § szerinti adóalapnak az adóév naptári napjai alapján 12 hónapos időszakra számított összegéből az 5. § szerinti mértékkel megállapított összeg adóév naptári napjaival arányos része.”
-
-34. § Hatályát veszti a Doveho tv. 7. §-ából az „és 2015. december 31-én hatályát veszti” szövegrész.
-
-35. § A Doveho tv. a következő 8. §-sal egészül ki:
-
-„8. § E törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított rendelkezéseit első ízben abban az adóévben kell alkalmazni, amelynek első napja 2015. szeptember 1., utolsó napja pedig a 2015. szeptember 1-jét magában foglaló üzleti év utolsó napja, azzal, hogy ebben az adóévben nettó árbevétel alatt a 2015. szeptember 1. napját magában foglaló üzleti évben elért, a számvitelről szóló törvényben meghatározott értékesítés nettó árbevételét kell érteni.”
+30–35. §
 
 ### IV. Fejezet — HELYI ADÓK
 

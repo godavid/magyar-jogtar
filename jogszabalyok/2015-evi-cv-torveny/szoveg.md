@@ -1742,604 +1742,83 @@ végzéssel szemben van helye.
 
 #### 45. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-107. § (1) Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 16. §-a a következő (2f) bekezdéssel egészül ki:
-
-„(2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés g) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.”
-
-(2) Az Itv. 17. § (1) bekezdése a következő z) ponttal egészül ki:
-
-(Mentes az ajándékozási illeték alól)
-
-„z) összeghatárra tekintet nélkül a természetes személyek bíróságon kívüli vagy bírósági adósságrendezési eljárásában a hitelezők által adós javára elengedett követelés, továbbá az adósságtörlesztési határozatban és a mentesítési határozatban az az összeg, amit nem kell az adósnak a hitelezők számára megfizetnie;”
-
-(3) Az Itv. 26. §-a a következő (2f) bekezdéssel egészül ki:
-
-„(2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett, és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés a) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.”
-
-(4) Az Itv. 43. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A csődeljárás, a felszámolási eljárás, továbbá a természetes személyek bírósági adósságrendezési eljárása során benyújtott kifogás, valamint a végrehajtási kifogás illetéke 15000 forint. Ha a kifogás alapos, a bíróság a kifogásnak helyt adó döntésében hivatalból rendelkezik a kifogás illetékének a kifogást előterjesztő részére történő visszatérítéséről.”
-
-(5) Az Itv. A következő címmel és 44/A. §-sal egészül ki:
-
-„Természetes személyek bírósági adósságrendezési eljárásainak illetéke
-
-44/A. § (1) A természetes személyek bírósági adósságrendezési eljárása kezdeményezésének illetéke 30 000 forint, amely magában foglalja az egyezségkötési eljárás és a mentesítési eljárás illetékét is.
-
-(2) A természetes személyek bírósági adósságrendezési eljárásában az egyezségmódosítás, valamint az adósságtörlesztési határozat módosítása kezdeményezésének illetéke 15 000 forint.
-
-(3) A természetes személyek bírósági adósságrendezési eljárásában az adós vagy a hitelező által az eljárás megszüntetése iránti kérelem illetéke 30 000 Forint.
-
-(4) A természetes személyek bírósági adósságrendezési eljárásában az adós örököse (örökösei) jogutódként történő bevonása iránti kérelem illetéke 15 000 forint.
-
-(5) A természetes személyek bírósági adósságrendezési eljárásában a mentesítő határozat hatályon kívül helyezése iránti kérelem illetéke 30 000 forint.
-
-(6) A bíróságon kívüli adósságrendezési megállapodás hatálya megszűnésének megállapítására irányuló kérelem, valamint a bírósági adósságrendezési egyezség hatálya megszűnésének megállapítására irányuló kérelem illetéke 30 000 forint.”
-
-(6) Az Itv. 47. §-a következő (4) bekezdéssel egészül ki:
-
-„(4) A természetes személyek bírósági adósságrendezési eljárásában az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 10 000 forint.”
-
-(7) Az Itv. 50. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A természetes személyek adósságrendezési eljárásaiban hozott végzés elleni felülvizsgálat, illetve perújítás illetéke 30 000 forint.”
-
-(8) Az Itv. melléklete a következő címmel és XXV. ponttal egészül ki:
-
-„Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzés törlésére irányuló kérelem illetéke
-
-XXV. Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzések törlésére irányuló kérelem illetéke 10 000 forint.”
+#### 107. §
 
 #### 46. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-108. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. §-a a következő z) ponttal egészül ki:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
-
-„z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a központi szervtől.”
+#### 108. §
 
 #### 47. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-109. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 40/B. § (1) bekezdése a következő n) ponttal egészül ki:
-
-(A pénztártitok és az üzleti titok megtartásának kötelezettsége nem áll fenn a feladatkörében eljáró)
-
-„n) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal”
-
-(szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.)
+#### 109. §
 
 #### 48. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-110. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) a következő 138/C. §-al egészül ki:
-
-„138/C. § Lakóingatlan lefoglalásának tényét a végrehajtást kérő, a végrehajtási jog bejegyzéséről szóló határozat részére történt kézbesítése után, köteles bejelenteni az ingatlan fekvése szerint illetékes jegyzőnek, aki a bejelentésről 8 napon belül igazolást állít ki. Az igazolást a végrehajtást kérő köteles megküldeni a végrehajtónak.”
-
-(2) A Vht. 147. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A 138/C. § alkalmazásában lakóingatlan az ingatlan-nyilvántartásban üdülő rendeltetési jelleggel nyilvántartott ingatlan, ha az ingatlan címe megegyezik az adós lakóhely igazolására szolgáló személyazonosító okmányában megjelölt címmel és lakóhelye a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben az ingatlanban volt.”
-
-(3) A Vht. 154/A. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Ha a kiköltözésre az (1) és (5) bekezdésben foglalt időpontig nem került sor az árverési vevő a kiköltözési határidő lejártát követő 15. napig kérelmezheti az ingatlan kiürítését.”
-
-(4) A Vht. 154/A. §-a a következő (11)–(13) bekezdésekkel egészül ki:
-
-„(11) Az árverési vevő köteles a 138/C. § szerinti igazolást kiállító jegyzőnél – ha a 138/C. § alapján a végrehajtást kérő nem tett bejelentést, akkor az ingatlan fekvése szerint illetékes jegyzőnél – bejelenteni, hogy az ingatlan kiürítésére irányuló kérelmet terjesztett elő, amelyről a jegyző 8 napon belül igazolást állít ki. Az igazolást az árverési vevő köteles megküldeni a végrehajtónak.
-
-(12) A végrehajtó az árverési vevő kérelmére – szükség esetén rendőrség közreműködésével – akkor intézkedik az ingatlan kiürítése iránt a 182. § és a 182/A. § megfelelő alkalmazásával, ha a (11) bekezdés szerinti, a jegyző által igazolt bejelentéstől számított 60 nap eltelt.
-
-(13) Az ingatlan kiürítése során a végrehajtást kérő jogai és kötelezettségei az árverési vevőt illetik meg, illetve terhelik.”
-
-(5) A Vht. 303/B. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) E törvénynek a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvénnyel megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.”
-
-(6) A Vht. 139. § (1) bekezdésében a „45 nap eltelt” szövegrész helyébe a „45 nap vagy a 138/C. § szerinti – a jegyző által igazolt – bejelentéstől számított 60 nap eltelt” szöveg lép.
+#### 110. §
 
 #### 49. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-111. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 58. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) Az (1)–(9) bekezdésben foglalt rendelkezésektől függetlenül nem kell jövedelmet megállapítani az ingó vagyontárgyak átruházására tekintettel megszerzett bevétel után, ha azt az adózó – a természetes személyek adósságrendezéséről szóló törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján – teljes egészében a tartozásai megfizetésére fordítja. Abban az esetben, ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.”
-
-(2) Az Szja. tv. 62. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Nem kell jövedelmet megállapítani az ingatlan, vagyoni értékű jog átruházására tekintettel megszerzett bevétel után, ha azt a bevételt az adózó a természetes személyek adósságrendezéséről szóló törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján teljes egészében a tartozásai megfizetésére fordítja. Abban az esetben, ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.”
-
-(3) Az Szja tv. 1. számú melléklete a következő 7. 29. ponttal egészül ki:
-
-(7. egyéb indokkal adómentes)
-
-„7.29. a természetes személyek adósságrendezési eljárásában
-
-a) az adóssal, adóstárssal a bíróságon kívüli adósságrendezés során kötött megállapodásban vagy a bírósági adósságrendezési eljárásban kötött egyezségkötés, valamint az egyezség módosítása során elengedett követelés,
-
-b) az a követelés, amelyet az adósnak a bírósági adósságrendezési eljárásban az adósságtörlesztési határozat, az adósságtörlesztési határozat módosítása, valamint a mentesítő határozat alapján nem kell megfizetnie,
-
-c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által hozott adósságtörlesztési határozatban az adós számára meghatározott adósságrendezési kötelezettség teljesítése érdekében települési önkormányzattól, munkáltatótól, közhasznú szervezettől vagy egyházi jogi személytől kapott támogatás vagy adomány, ha annak egy naptári évben egy adományozótól juttatott összege havi átlagban nem éri el az öregségi nyugdíj legkisebb összegének másfélszeresét.”
+#### 111. §
 
 #### 50. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-112. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 37. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:)
-
-„g) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról.”
+#### 112. §
 
 #### 51. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-113. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 79. § (1) bekezdése a következő p) ponttal egészül ki:
-
-(A pénztártitok és üzleti titok megtartásának kötelezettsége nem áll fenn a feladatkörében eljáró)
-
-„p) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal”
-
-(szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.)
+#### 113. §
 
 #### 52. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-114. § (1) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 17. § (1) bekezdése a következő 33. ponttal egészül ki:
-
-(Az ingatlan-nyilvántartásba csak az ingatlanoz kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:)
-
-„33. a jogosult természetes személlyel szemben megindított adósságrendezési eljárás”.”
-
-(2) Az Inytv. 17. § (2) bekezdésében a „31–32.” szövegrész helyébe a „31–33.” szöveg lép.
+#### 114. §
 
 #### 53. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-115. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A járműnyilvántartás tartalmazza a természetes személlyel szemben megindított bírósági adósságrendezési eljárás tényét.”
-
-(2) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdése a következő z) ponttal egészül ki:
-
-(A nyilvántartásból igényelhetik)
-
-„z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1), (1a) és (3) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.”
+#### 115. §
 
 #### 54. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
-116. § (1) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 157. § (1) bekezdése a következő t) ponttal egészül ki:
-
-(A biztosítási titok megtartásának kötelezettsége nem áll fenn)
-
-„t) a természetes személyek adósságrendezési eljárásában eljáró Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal”
-
-[szemben, ha az a)–j), n), s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k)–m) és p)–r) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.]
-
-(2) A Bit. 157. § (1) bekezdés záró szövegrésze helyébe a következő rendelkezés lép:
-
-„szemben, ha az a)–j), n), s) és t) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k)–m) és p)–r) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.”
+#### 116. §
 
 #### 55. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-117. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 133. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Magánszemély esetében a fizetési könnyítés az (1) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy az adó azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent. Magánszemély vagy egyéni vállalkozó esetében a fizetési könnyítés az (1) bekezdés a) pontja, valamint a (3) bekezdés figyelmen kívül hagyásával is engedélyezhető, ha a pénzügyi intézménnyel szemben fennálló hitelszerződés, kölcsönszerződés vagy pénzügyi lízingszerződés alapján fennálló kötelezettségei törlesztőrészleteinek megemelkedése vagy az ezzel érintett hitelszerződés felmondása aránytalanul súlyos megterhelést jelent, továbbá az adósságrendezési eljárás során.”
-
-(2) Az Art. 133. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A pótlékok kiszabása kivételes méltánylást érdemlő esetben mellőzhető. Ilyen oknak tekintendő az is, ha a magánszemély vagy egyéni vállalkozó részére az adóhatóság a fizetési könnyítést pénzügyi intézménnyel szemben fennálló, hitelszerződés, kölcsönszerződés vagy pénzügyi lízingszerződés alapján keletkezett fizetési kötelezettségei törlesztőrészleteinek megemelkedése vagy az említett szerződések felmondása miatt, vagy az általa kezdeményezett adósságrendezési eljárásra tekintettel engedélyezte. Az (5) bekezdés a) és c) pontjában említett pótlékokra egyebekben a késedelmi pótlékra vonatkozó szabályokat kell alkalmazni.”
+#### 117. §
 
 #### 56. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-118. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 118. § (3) bekezdése a következő l) ponttal egészül ki:
-
-[Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn]
-
-„l) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal”
-
-(szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett írásbeli megkeresése esetén.)
+#### 118. §
 
 #### 57. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-119. § (1) Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evectv.) 3. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Nem lehet egyéni vállalkozó)
-
-„a) kiskorú személy, valamint aki cselekvőképességet érintő gondnokság alatt áll,”
-
-(2) Az Evectv. 3. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Egy természetes személynek egyidejűleg egy egyéni vállalkozói jogviszonya állhat fenn.”
-
-(3) Az Evectv. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az egyéni vállalkozói tevékenység megkezdésének, megszüntetésének bejelentése, továbbá az egyéni vállalkozói igazolvány igénylése
-
-a) elektronikus úton, ügyfélkapun keresztül vagy
-
-b) a Hatóságnál
-
-kezdeményezhető.”
-
-(4) Az Evectv. 6. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az 5. § (2) bekezdés b) pontja szerinti bejelentés során kitöltött bejelentési űrlap írásbeli jognyilatkozatnak minősül.”
-
-(5) Az Evectv. 9. § e) pontja helyébe a következő rendelkezés lép, ezzel egyidejűleg a következő f) ponttal egészül ki:
-
-[A 7. § (3) bekezdése szerinti igazolás tartalmazza:]
-
-„e) az egyéni vállalkozó adószámát, statisztikai számjelét és nyilvántartási számát, valamint
-
-f) a 6. § (1) bekezdés e) pontjában meghatározott adatokra vonatkozó nyilatkozat kivonatát.”
-
-(6) Az Evectv. 11. § (1) bekezdése a következő j)–l) ponttal egészül ki:
-
-(A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartási számmal történő azonosítása, illetve más egyéni vállalkozótól való megkülönböztetése céljából, az egyéni vállalkozók tevékenységének átláthatóbbá tétele, a jogszabályoknak megfelelő működés ellenőrzése érdekében az egyéni vállalkozók nyilvántartásában rögzíti:)
-
-„j) ha az egyéni vállalkozó halála esetén a 17. § (1) bekezdése szerint a tevékenység folytatására kerül sor, az egyéni vállalkozói tevékenység özvegy, illetve örökös általi folytatásának tényét,
-
-k) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozói tevékenységet a 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét, a törvényes képviselő természetes személyazonosító adatait, lakcímét, valamint
-
-l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket.”
-
-(7) Az Evectv. 11. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A nyilvántartást vezető szerv a 11. § (1) bekezdés a) pontjában foglalt adatok változását a személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv értesítése alapján vagy a nyilvántartásba történő bekérdezés útján, hivatalból jegyzi be a nyilvántartásba.
-
-(4) A személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv haladéktalanul értesíti a nyilvántartást vezető szervet az egyéni vállalkozó halálának tényéről, valamint időpontjáról.”
-
-(8) Az Evectv. 16. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egyéni vállalkozó köteles személyesen közreműködni a tevékenység folytatásában, azzal, hogy közreműködőként alkalmazottat foglalkoztathat.
-
-(2) Képesítéshez kötött tevékenységet az egyéni vállalkozó csak akkor folytathat, ha a jogszabályokban meghatározott képesítési követelményeknek megfelel. Jogszabály – ide nem értve az önkormányzati rendeletet – eltérő rendelkezése hiányában képesítéshez kötött tevékenységet az egyéni vállalkozó akkor is folytathat, ha a képesítési követelményeknek maga nem felel meg, de az adott tevékenység folytatásában személyesen közreműködő, általa határozatlan időre foglalkoztatott személyek között van olyan, aki az előírt képesítéssel rendelkezik. A képesítési követelményeknek a tevékenység folytatása során folyamatosan meg kell felelni.”
-
-(9) Az Evectv. 16. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az egyéni vállalkozó székhelye, telephelye és fióktelepe olyan ingatlan lehet, amely az egyéni vállalkozó tulajdonát képezi, vagy amelynek használatára az egyéni vállalkozó egyébként jogosult.”
-
-(10) Az Evectv. 17. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozó nevében és javára törvényes képviselője az egyéni vállalkozói tevékenységet folytathatja, ha az egyéni vállalkozói tevékenység folytatását az e törvényben meghatározottak szerint – az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésétől számított 30 napon belül – a Hatóságnál személyesen bejelenti.
-
-(3) A tevékenység folytatásának kezdete az (1) bekezdésben foglalt esetben az egyéni vállalkozó halálát, a (2) bekezdésben foglalt esetben az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedését követő nap.”
-
-(11) Az Evectv. 18. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A szünetelés, valamint a szüneteltetett tevékenység folytatásának bejelentésére és nyilvántartásba vételére a 6. és 7. §-t kell alkalmazni azzal, hogy az értesítés az egyéni vállalkozó nyilvántartási számát, a 9. § a) és b) pontjában meghatározott adatokat, valamint a szünetelés bejelentése esetén a szünetelés kezdő, a szüneteltetett tevékenység folytatásának bejelentése esetén pedig a szünetelés kezdő és záró időpontját tartalmazza.”
-
-(12) Az Evectv. 19. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az egyéni vállalkozói tevékenységre való jogosultság e törvény erejénél fogva megszűnik)
-
-„d) az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésének a napján,”
-
-(13) Az Evectv. 19. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép, ezzel egyidejűleg a következő g) ponttal egészül ki:
-
-(Az egyéni vállalkozói tevékenységre való jogosultság e törvény erejénél fogva megszűnik)
-
-„f) a 3. § (2) bekezdés b), illetve c) pontjaiban meghatározott kizáró ok bekövetkezése esetén, a 19/B. §-ban foglalt összeférhetetlenség megállapításakor, valamint
-
-g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő öt év elteltét követő napon.”
-
-(14) Az Evectv. 19. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az egyéni vállalkozói tevékenységre való jogosultság megszűnése alapjául szolgáló tényről)
-
-„a) az egyéni vállalkozói tevékenység megszüntetése, valamint a 17. § (1) és (2) bekezdés szerinti tények igazolása érdekében, az egyéni vállalkozó gondnokság alá helyezése esetén a Hatóság, halála esetén a Hatóság vagy a személyiadat- és lakcímnyilvántartást, illetve a központi idegenrendészeti nyilvántartást vezető szerv,”
-
-(elektronikus úton értesíti a nyilvántartást vezető szervet.)
-
-(15) Az Evectv. 19. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A Hatóság az egyéni vállalkozói tevékenység folytatását megtiltja, ha)
-
-„a) az egyéni vállalkozói tevékenység megkezdésének feltételei nem állnak fenn vagy a tevékenység folytatását kizáró ok áll fenn, így különösen, ha az egyéni vállalkozó nem rendelkezik nyilvántartott székhellyel vagy főtevékenységgel,”
-
-(16) Az Evectv. 19/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Hatóság a nyilvántartásba vételt követő 30 napon belül, továbbá ellenőrzési terv alapján és eseti jelleggel ellenőrzi azt, hogy az egyéni vállalkozó működése megfelel-e a jogszabályi rendelkezéseknek.”
-
-(17) Az Evectv. „Az egyéni vállalkozói tevékenység ellenőrzése” alcíme a következő 19/B. és 19/C. §-sal egészül ki:
-
-„19/B. § (1) A nyilvántartást vezető szerv az egyéni vállalkozói jogviszony fennállásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az egyéni vállalkozó esetében nem áll-e fent a 3. § (2) bekezdés b) vagy c) pontjában meghatározott kizáró ok, továbbá, hogy nem áll-e valamely tevékenysége tekintetében foglalkozástól eltiltás hatálya alatt.
-
-(2) Az (1) bekezdésben foglaltak érdekében a nyilvántartást vezető szerv – a bűnügyi nyilvántartási rendszerről szóló törvényben az adatigényléshez előírt adatok közlésével az arra előírt feltételek szerint – az egyéni vállalkozói tevékenység folytatására való jogosultság fennállásának ellenőrzése céljából adatot igényelhet és vehet át a bűnügyi nyilvántartó szervtől, a bűnügyi nyilvántartó szerv pedig az adatigénylés alapján a nyilvántartást vezető szerv számára adatot továbbít arra a tényre vonatkozóan, hogy a bűnügyi nyilvántartásokban szerepel-e az egyéni vállalkozóra vonatkozó, a 3. § (2) bekezdés b) vagy c) pontja szerinti kizáró okot megalapozó adat.
-
-(3) Az (1) bekezdés szerinti ellenőrzés során a nyilvántartást vezető szerv az egyéni vállalkozó nyilvántartásban szereplő tevékenységi köreinek megjelölésével, a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározott feltételek szerint, az egyéni vállalkozói tevékenység folytatására való jogosultság fennállásának ellenőrzése céljából adatot igényelhet és vehet át a bűnügyi nyilvántartó szervtől, a bűnügyi nyilvántartó szerv pedig az adatigénylés alapján a nyilvántartást vezető szerv számára adatot továbbít arra a tényre vonatkozóan, hogy az egyéni vállalkozó a megjelölt tevékenységi körökre vonatkozóan foglalkozástól eltiltás hatálya alatt áll-e.
-
-(4) A nyilvántartást vezető szerv az ellenőrzés során a (2) és (3) bekezdés szerint megismert tényre vonatkozó adatokat az ellenőrzés befejezéséig – ha az ellenőrzés alapján hivatalból az egyéni vállalkozó tevékenység megtiltására irányuló eljárást indít, annak jogerős befejezéséig – kezelheti.
-
-19/C. § Ha az egyéni vállalkozó rosszhiszeműen jár el, vagy valótlan adatot szolgáltat, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint eljárási bírsággal sújtható.”
-
-(18) Az Evectv. „Átmeneti rendelkezések” alcíme a következő 38/A. és 38/B. §-sal egészül ki:
-
-„38/A. § (1) A természetes személyek adósságrendezéséról szóló 2015. évi CV. törvény (a továbbiakban: Módtv2.) hatálybalépését követő 90 napon belül a nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartása valamint a személyiadat- és lakcímnyilvántartás és a központi idegenrendészeti nyilvántartás adatainak összevetésével kapcsolati kódot képez.
-
-(2) Amennyiben kapcsolati kód képzésére adateltérés miatt nincs lehetőség, a nyilvántartást vezető szerv a Hatóság közreműködésével gondoskodik az adateltérés megszüntetéséről.
-
-38/B. § A Módtv2. hatályba lépését követő 30 napon belül az egyéni vállalkozó adatai közül az értesítési címet a nyilvántartást vezető szerv hivatalból törli a nyilvántartásból.”
-
-(19) Az Evectv.
-
-- a) 3/A. § (1) bekezdés c) pontjában a „11. § (3) bekezdése” szövegrész helyébe „19/B. §” szöveg,
-- b) 4. § (1) bekezdésében az „a jogorvoslatra” szövegrész helyébe az „a hatósági ellenőrzésre, a jogorvoslatra, az eljárási bírság kiszabására” szöveg,
-- c) 5. § (2) bekezdés a) pontjában a „személyesen a Hatóság útján” szövegrész helyébe az „a Hatóság útján” szöveg,
-- d) 7. § (3) bekezdésében a „meghatározott adatokat tartalmazó igazolást” szövegrész helyébe a „meghatározott, a nyilvántartásba bejegyzett adatokat tartalmazó értesítést (a továbbiakban: értesítés)” szöveg,
-- e) 7. § (5) bekezdésében, 14. § (6) bekezdésében, 18. § (2) és (4) bekezdésében, valamint 19. § (4) bekezdésében az „az állami adóhatóságot, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet,” szövegrész helyébe az „az állami adóhatóságot” szöveg,
-- f) 7. § (5) bekezdésében és 9. §-ában az „igazolás” szövegrész helyébe az „értesítés” szöveg,
-- g) 9. § a) pontjában a „bejelentés” szövegrész helyébe a „nyilvántartásba vétel” szöveg,
-- h) 11. § (1a) bekezdésében a „b)–i)” szövegrész helyébe a „b)–k)” szöveg,
-- i) 13. § (3) bekezdésében az „a közigazgatási szerv közfeladatai” szövegrész helyébe az „a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai” szöveg,
-- j) 14. § (1) bekezdésében a „vállalkozó a nyilvántartásban” szövegrész helyébe a „vállalkozó – természetes személyazonosító adatai, lakcíme és állampolgársági adata kivételével – a nyilvántartásban” szöveg,
-- k) 14. § (5) bekezdésében az „a visszaigazolás” szövegrész helyébe az „az értesítés az egyéni vállalkozó nyilvántartási számát,” szöveg,
-- l) 17. § (1) bekezdésében a „bejelenti” szövegrész helyébe az „a Hatóságnál személyesen bejelenti” szöveg,
-- m) 19. § (4) bekezdésében a „c) pontjának” szövegrész helyébe a „c) és e) pontjának” szöveg
-
-lép.
-
-(20) Hatályát veszti az Evectv.
-
-- a) 3/A. § (2) bekezdés e) pontjában az „– ellenőrzési terv alapján –” szövegrész,
-- b) 6. § (1) bekezdés a) pontjában és 11. § (1) bekezdés a) pontjában az „értesítési címét,” szövegrész,
-- c) 11. § (1) bekezdés h) pontjában a „valamint” szövegrész,
-- d) 11. § (5)–(6) bekezdése,
-- e) 14. § (3) és (4) bekezdése,
-- f) 17. § (4) bekezdése,
-- g) 19. § (3) bekezdés b) pontja,
-- h) 39. § (1) bekezdése.
+#### 119. §
 
 #### 58. A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény módosítása
 
-120. § (1) A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: KHR tv.) 2. § (1) bekezdés f) pontja a következő 6. alponttal egészül ki:
-
-[E törvény alkalmazásában
-
-f) referencia adat szolgáltató]
-
-„6. a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti adósságrendezési eljárásokban eljáró Családi Csődvédelmi Szolgálat.”
-
-(2) A KHR tv. 2. §-a a következő új (5) bekezdéssel egészül ki:
-
-„(5) A Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti eljárásokban meghatározott feladatai ellátása körében adatszolgáltatási, hiteljelentési, tranzakciós és kezelési díj fizetésére nem köteles.”
-
-(3) A KHR tv. 5. § (7) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
-
-(Az adatszolgáltatás tárgyát képező szerződés megkötését megelőzően a referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozástól átveszi)
-
-„a) természetes személy ügyfél esetében – ha a (3) bekezdés szerinti írásbeli nyilatkozatában ahhoz hozzájárult – a (2) bekezdés szerinti, a melléklet II. fejezetének 1.1–1.4 és 1.6 pontjai szerinti referenciaadatokat,
-
-b) természetes személy ügyfél esetében – ha a (3) bekezdés szerinti írásbeli nyilatkozatában nem járult hozzá adatai lekérdezéséhez – a melléklet II. fejezetének 1.5 pontja szerinti, továbbá a 11–13/A. §-ban foglaltak alapján a KHR-ben nyilvántartott referenciaadatokat [melléklet II. fejezet 1.1, 1.2 pont e)–g) alpont, 1.3–1.4 pont, 1.6 pont],”
-
-(4) A KHR tv. 6. § (3) bekezdése a következő f) ponttal egészül ki:
-
-(Az e törvényben foglalt feltételek fennállása esetén a referenciaadat-szolgáltató – az ügyfélvédelmi szabályok figyelembevételével – öt munkanapon belül köteles az általa kezelt referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás részére írásban átadni. A határidő számításának kezdete)
-
-„f) a 13/A. § (1) bekezdésében meghatározott esetben az adósságrendezési eljárás kezdeményezése benyújtásának dátuma.”
-
-(5) A KHR tv. 6. § (7) bekezdése helyébe a következő rendelkezés lép, és a § a következő (8)–(9) bekezdéssel egészül ki:
-
-„(7) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 4. § (1), (3), (6), (7) és (9) bekezdésében meghatározott feladatai ellátása érdekében a Magyar Nemzeti Bank a KHR-t kezelő pénzügyi vállalkozástól
-
-a) vállalkozásokkal kapcsolatban – ide nem értve az egyéni vállalkozót – a melléklet II. fejezet 2.1 pont d) alpontjában, valamint a 2.2 pontjában meghatározott adatokra vonatkozóan,
-
-b) természetes személyekkel és egyéni vállalkozókkal kapcsolatban a melléklet II. fejezet 1.2. pont b), c)–g), i) és j) alpontjában meghatározott adatokra, valamint a szerződés típusára vonatkozóan,
-
-feladatköre megjelölésével az egyedi adatokra vonatkozóan is kérhet adatszolgáltatást.
-
-(8) Ha a Magyar Nemzeti Bank természetes személyekkel vagy egyéni vállalkozókkal kapcsolatos egyedi adatszolgáltatást kér, a KHR-t kezelő pénzügyi vállalkozás az adatszolgáltatást csak úgy teljesítheti, hogy ezt megelőzően az adatoknak az érintett személlyel való kapcsolata megállapítását véglegesen lehetetlenné teszi.
-
-(9) A (7) és (8) bekezdés szerinti adatszolgáltatás során kapott adatokat a Magyar Nemzeti Bank a megjelölt feladatkörével összefüggő elemzések, a felügyeleti jogkörében igényelt adatok ellenőrzése, továbbá a statisztikai célra igényelt adatok helyességének vizsgálata érdekében használhatja fel, és ezt követően csak egyedi azonosításra alkalmatlan formában kezelheti. A KHR-ből átvett adatokkal kapcsolatos titoktartási kötelezettségre az MNB tv. 150. § (1) bekezdésében foglaltakat kell alkalmazni, továbbá a Magyar Nemzeti Bank az átvett adatok elkülönített kezelése, továbbá fizikai és logikai védelme érdekében köteles a belső szabályzataiban meghatározott intézkedéseket megtenni.”
-
-(6) A KHR tv. 8. § (2) bekezdése a következő f) ponttal egészül ki:
-
-[Az (1) bekezdésben meghatározott határidő számításának kezdete]
-
-„f) a 13/A. § (1) bekezdés szerinti esetben az adósságrendezési eljárás megszűnésének dátuma:
-
-fa) a bíróságon kívüli adósságrendezés sikertelensége Családi Csődvédelmi Szolgálat részére történő bejelentésének napja,
-
-fb) a bírósági adósságrendezési eljárást elutasító bírósági végzés jogerőre emelkedésének napja,
-
-fc) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító bírósági határozat jogerőre emelkedésének dátuma,
-
-fd) a bírósági adósságrendezési egyezség hatálya megszűnését megállapító bírósági határozat esetén az ezt megállapító bírósági határozat jogerőre emelkedésének dátuma,
-
-fe) az adós (adóstárs) mentesítéséről szóló bírósági határozat jogerőre emelkedésének dátuma,
-
-ff) az adóst mentesítő határozatot hatályon kívül helyező bírósági határozat jogerőre emelkedésének napja,
-
-fg) az adósságrendezésnek az adós, adóstárs mentesülése nélküli megszüntetéséről rendelkező bírósági határozat jogerőre emelkedésének dátuma,
-
-fh) a bíróságon kívüli adósságrendezés sikeres lezárásának a Családi Csődvédelmi Szolgálat részére történő bejelentése napja.”
-
-(7) A KHR tv. a következő 10/A. §-sal egészül ki:
-
-„10/A. § A Családi Csődvédelmi Szolgálat az adósságrendezési eljárás kezdeményezésekor a természetes személy felhatalmazása alapján – az eljárás feltételeinek ellenőrzése és az adatok ellenőrzése érdekében – átveszi a természetes személynek a KHR-ben nyilvántartott referenciaadatait, ideértve a melléklet II. fejezet 1. pontját, továbbá az adatot szolgáltató referenciaadat-szolgáltató megnevezését, a szerződések azonosítóit, valamint e törvény 17–20. § szerint perelt, illetve zárolt adatokat is.”
-
-(8) A KHR tv. a következő 13/A. §-sal egészül ki:
-
-„13/A. § (1) A Családi Csődvédelmi Szolgálat a KHR-t kezelő pénzügyi vállalkozás részére írásban átadja azoknak a természetes személynek a melléklet II. fejezetének 1.1 és 1.6 pontja szerinti referenciaadatait, akik az adósságrendezési eljárásba adósként, adóstársként vagy egyéb kötelezettként bevonásra kerültek.
-
-(2) Az (1) bekezdés szerinti adatátadásról a KHR-t kezelő pénzügyi vállalkozás írásban értesítést küld azon referenciaadat-szolgáltatók részére, akik az érintett természetes személyhez tartozóan a KHR-ben az adatszolgáltatás tárgyát képező szerződések alapján fennálló követeléssel rendelkeznek.
-
-(3) A Családi Csődvédelmi Szolgálat és az 5. § (2) bekezdés szerinti adatátadást elvégző referenciaadat-szolgáltató a nyilvántartott személyről a szerződés illetve az adósságrendezési eljárás időtartalma alatt értesítést kérhet a KHR-t kezelő pénzügyi vállalkozástól a 11–13. § alapján kezelt adatokban bekövetkezett változásról, a nyilvántartott személynek az 5. § (3) bekezdésben meghatározott, illetve a természetes személyek adósságrendezési eljárásának kezdeményezésekor tett nyilatkozata alapján.”
-
-(9) A KHR tv. 18. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a bíróság a referenciaadatok zárolását rendelte el, akkor az erre vonatkozó határozat kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül a referenciaadatokat zárolni kell. A referenciaadatok zárolása esetén azok – a Családi Csődvédelmi Szolgálat kivételével – a referenciaadat-szolgáltató részére nem továbbíthatók, azokat csak a bírósági eljárás lefolytatása céljából kezelheti a KHR-t kezelő pénzügyi vállalkozás.”
-
-(10) A KHR tv. Melléklete II. fejezet 1. pontja a következő 1.6. alponttal egészül ki:
-
-(1. Természetes személyekkel kapcsolatban nyilvántartható adatok)
-
-„1.6. az adósságrendezési eljárást kezdeményező adós, adóstársa, továbbá az adósságrendezési eljárásban az adós mellett résztvevő egyéb kötelezettre vonatkozóan:
-
-1.6.1. Az adósságrendezési eljárásnak az adósságrendezési nyilvántartás szerinti ügyazonosító száma,
-
-1.6.2. Az adósságrendezési eljárás adatai:
-
-a) az adósságrendezési eljárás kezdeményezése benyújtásának dátuma,
-
-b) az adósságrendezési eljárás típusa (bíróságon kívüli vagy bírósági adósságrendezés)
-
-c) az adósságrendezési eljárás kezdő dátuma:
-
-ca) a bíróságon kívüli adósságrendezés kezdeményezéséről a Családi Csődvédelmi Szolgálat által közzétett hirdetmény dátuma, vagy
-
-cb) a bírósági adósságrendezést elrendelő bírósági határozat jogerőre emelkedésének napja,
-
-d) az adósságrendezésben érintett főhitelező adószáma, megnevezése,
-
-e) az adósságrendezési eljárásban az adósságrendezés tárgyában történő megegyezés:
-
-ea) a bíróságon kívüli adósságrendezési megállapodás létrejöttének dátuma, vagy
-
-eb) a bírósági adósságrendezési egyezséget jóváhagyó bírósági végzés jogerőre emelkedésének napja,
-
-f) az adósságrendezési eljárás megszűnésének napja:
-
-fa) a bíróságon kívüli adósságrendezés sikertelenségének a Családi Csődvédelmi Szolgálat részére történő bejelentése napja, vagy
-
-fb) a bírósági adósságrendezési eljárást elutasító bírósági végzés jogerőre emelkedésének napja,
-
-fc) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító bírósági határozat jogerőre emelkedésének napja
-
-fd) a bírósági adósságrendezési egyezség hatálya megszűnésének bírósági megállapítása esetén az ezt megállapító bírósági határozat jogerőre emelkedésének napja,
-
-fe) az adós (adóstárs) mentesítéséről szóló bírósági határozat jogerőre emelkedésének napja,
-
-ff) az adóst mentesítő határozatot hatályon kívül helyező bírósági határozat jogerőre emelkedésének napja,
-
-fg) az adósságrendezésnek az adós, adóstárs mentesülése nélküli megszüntetéséről rendelkező bírósági határozat jogerőre emelkedésének napja,
-
-fh) a bíróságon kívüli adósságrendezés sikeres lezárásának a Családi Csődvédelmi Szolgálat részére történő bejelentése napja
-
-g) az adósságrendezési eljárás szakaszai: „Kezdeményezés benyújtása”, „Kezdeményezett”, „Megegyezett”, „Lezárt”
-
-1.6.3. Az ügyfél érintettsége (adós, adóstárs, az adósságrendezési eljárásban részt vevő egyéb kötelezett).”
-
-(11) A KHR tv. 5. § (3) bekezdésében és 15. § (1) bekezdésében a „11–13. §” szövegrész helyébe a „11–13/A. §” szöveg lép.
+#### 120. §
 
 #### 59. A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosítása
 
-121. § (1) A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NET tv.) 1. § d) pontja helyébe a következő rendelkezés lép:
-
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában)
-
-„d) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét elérő vagy meghaladó, és 2015. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2015. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is ha az áthidaló kölcsönszerződésből eredő tartozás 2015. január 1-jén fennállt,”
-
-(2) A NET tv. 8. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Eszközkezelő a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – megvételre felajánlott lakóingatlant abban az esetben vásárolja meg, ha)
-
-„b) a hiteladós, a zálogkötelezett vagy ezek közeli hozzátartozói bejelentett lakóhelye 2014. december 31-én és a kérelem benyújtásakor az állam számára megvételre felajánlott lakóingatlan,”
-
-(3) A NET tv. 8. § (1) bekezdés e)–g) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Eszközkezelő a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – megvételre felajánlott lakóingatlant abban az esetben vásárolja meg, ha)
-
-„e) a lakóingatlanon pénzügyi intézmény javára bejegyzett olyan jelzálogjog áll fenn, amely 2013. december 31. előtt megkötött jelzáloghitel-szerződés alapján jött létre,
-
-f) a jelzáloghitel-szerződés ingatlanfedezetét az államnak megvételre felajánlott lakóingatlanon kívül más lakóingatlan nem képezi,
-
-g) a lakóingatlannak a jelzáloghitel-szerződés megkötésekor megállapított forgalmi értéke Budapesten, a megyei jogú városokban és a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 1/1. számú mellékletében felsorolt településeken (a továbbiakban: agglomeráció) a huszonötmillió forintot, egyéb településeken a húszmillió forintot nem haladta meg, és a jelzáloghitel-szerződés megkötésekor jelzáloghitel-szerződésben meghatározott hitel összege nem haladta meg a lakóingatlan jelzáloghitel kihelyezésekor megállapított forgalmi értékének a 90%-át, a jogszabályon alapuló állami készfizető kezességvállalás esetében a 100%-át, de elérte a 25%-át,”
-
-(4) A NET tv. 9. §-a helyébe a következő rendelkezés lép:
-
-„9. § (1) A lakóingatlan vételára az ingatlan-nyilvántartásba bejegyzett jelzálogjoggal rendelkező pénzügyi intézmény követelésének – több ilyen követelés esetén az ingatlan-nyilvántartásba bejegyzett, legelső ranghelyen álló, jelzálogjoggal fedezett követelés – alapjául szolgáló jelzáloghitel-szerződésben megállapított forgalmi érték, vagy annak hiányában a jelzáloghitel-szerződés megkötésekor megállapított forgalmi érték
-
-a) 47%-a, ha a lakóingatlan Budapesten, az agglomerációban vagy megyei jogú városban található,
-
-b) 43%-a, ha a lakóingatlan az a) pont hatálya alá nem tartozó városban,
-
-c) 29%-a, ha a lakóingatlan községben található
-
-azzal, hogy a lakóingatlan vételára nem haladhatja meg a 9/A. §-ban meghatározott értéket.
-
-(2) Ha a jelzáloghitel-szerződésben kizárólag a lakóingatlan hitelbiztosítéki értéke kerül feltüntetésre és az ingatlan forgalmi értéke nem áll rendelkezésre, a forgalmi értéket úgy kell meghatározni, hogy annak 70%-a a hitelbiztosítéki érték.”
-
-(5) A NET tv. 6. alcíme a következő 9/A. §-sal egészül ki:
-
-„9/A. § A lakóingatlanért fizetett vételár nem haladhatja meg
-
-a) Budapesten, az agglomerációban és a megyei jogú városokban a 9 millió 400 ezer forintot,
-
-b) az a) pont hatálya alá nem tartozó városban a 6 millió 450 ezer forintot,
-
-c) községben a 4 millió 350 ezer forintot.”
-
-(6) A NET tv. a következő 30/B. §-sal egészül ki:
-
-„30/B. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvénnyel (a továbbiakban: 2015. évi CV. törvény) megállapított 1. § d) pontot, 8. § (1) bekezdés b) és e)–g) pontot, 9. §-t és 9/A. §-t a pénzügyi intézmény által a 2015. évi CV. törvény hatálybalépését követően benyújtott szándéknyilatkozatok esetében kell alkalmazni. A 2015. évi CV. törvénnyel megállapított 10. § (1) bekezdést a Nemzeti Eszközkezelő által a 2015. évi CV. törvény hatálybalépését megelőzően megvásárolt lakóingatlanokra is alkalmazni kell. A Nemzeti Eszközkezelő Zrt. az ingatlan-nyilvántartásba már bejegyzett visszavásárlási jog lejárati határnapjának módosítása iránt a járási földhivatalt az illetékességi területén található ingatlanok helyrajzi számmal történő felsorolást tartalmazó kérelemmel keresi meg. A kérelem alapján a járási földhivatal a kérelemben megjelölt ingatlanok esetében a jogszabály alapján módosítja a visszavásárlási jog lejárati határnapját.”
-
-(7) A NET tv.
-
-- a) 2. § (4) bekezdésében a „gazdasági társaságokról szóló törvényt” szövegrész helyébe a „gazdasági társaságokra vonatkozó jogszabályokat”,
-- b) 10. § (1) bekezdésében a „hatvanadik hónap” szövegrész helyébe a „hetvenkettedik hónap
-
-szöveg lép.
-
-(8) Hatályát veszti a NET tv.
-
-- a) 8. § (4) és (5) bekezdése,
-- b) 11. § (3) bekezdés f) pontja,
-- c) 12. § (1a) bekezdése,
-- d) 12/A. §-a,
-- e) 15. § (1) bekezdésében a „vagy ennek hiányában a szándéknyilatkozat méltányossági bizottság részére történő megküldése” szövegrész,
-- f) 16. § (1) bekezdés b) pontja,
-- g) 16. § (2) bekezdésében a „vagy a méltányossági kérelem elutasításáról szóló tájékoztatását,” szövegrész,
-- h) 25. § j) pontja.
+#### 121. §
 
 #### 60. A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény módosítása
 
-122. § A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 6. § (2) bekezdésének i) pontja helyébe a következő rendelkezés lép, ezzel egyidejűleg a következő j) ponttal egészül ki:
-
-(A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni)
-
-„i) a járási hivatal szervezeti egységeként működő okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
-
-j) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági, a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat.”
+#### 122. §
 
 #### 61. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
 
-123. § A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 26. § (1) bekezdésében a „bírósági végrehajtó” szövegrész helyébe a „bírósági végrehajtó, családi vagyonfelügyelő, Családi Csődvédelmi Szolgálat” szövegrész lép.
+#### 123. §
 
 #### 62. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-124. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 161. § (2) bekezdése a következő q) ponttal egészül ki:
-
-[Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn]
-
-„q) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal”
-
-(szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.)
+#### 124. §
 
 #### 63. A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény módosítása
 
-125. § A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény 29. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(A nyilvántartásban szereplő adatokat törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében eljáró)
-
-„g) a természetes személyek adósságrendezése során a főhitelező, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő”
-
-(ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellátásához szükséges mértékben és ideig kezelhetnek).
+#### 125. §
 
 #### 64. A Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény módosítása
 
-126. § (1) A Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény (a továbbiakban: elszámolási törvény) 6. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) A fogyasztó a (3) bekezdés alapján hat hónapos elévülési időn belül jogosult igényelni az elszámolás elkészítését. Az elévülés kezdő időpontja a 16. § (3) bekezdése szerinti honlapon történő közzétételt követő második hónap első napja.”
-
-(2) Az elszámolási törvény 7. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A (2) bekezdés szerinti elszámolási igényét a fogyasztó hat hónapos elévülési időn belül jogosult érvényesíteni. Az elévülés kezdő időpontja az (1) bekezdés szerinti, a követelés engedményezésének időpontjára elkészített elszámolásról szóló tájékoztató levélnek, a fogyasztó részére való kézbesítését követő második hónap első napja.”
-
-(3) Az elszámolási törvény 42/A. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) Ha a végrehajtás során olyan lakóingatlant is lefoglaltak, amelynek forgalmi értéke nem haladja meg a 60 millió forintot, nem kerülhet sor az ingatlan értékesítésére irányuló olyan cselekmény foganatosítására, amely alapján a vevők érvényesen ajánlatot tehetnek. Ezekben az esetekben az ingatlan értékesítésére irányuló cselekmények folytatására csak akkor kerülhet sor, ha a végrehajtást kérő és az adós a lakóingatlan értékesítését a Vht. 157. §-a alapján 2015. szeptember 15-ét követően közösen kérik, ilyen kérelem hiányában pedig csak akkor, ha a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 104. § (5) és (6) bekezdése szerinti határidők már lejártak, és az adós, adóstárs, kezes vagy dologi kötelezett nem nyújtotta be az adósságrendezési eljárás megindítására vonatkozó kezdeményezését.”
-
-(4) Az elszámolási törvény 43/A. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) Ha az értékesítésre kijelölt jelzáloggal terhelt lakóingatlan forgalmi értéke nem haladja meg a 60 millió forintot, nem kerülhet sor az ingatlan árverési értékesítésére irányuló olyan cselekmény foganatosítására, amely alapján a vevők érvényesen ajánlatot tehetnek. Ezekben az esetekben az ingatlan értékesítésére irányuló cselekmények folytatására csak akkor kerülhet sor, ha a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 104. § (5) és (6) bekezdése szerinti határidők már lejártak, és az adós, adóstárs, kezes vagy dologi kötelezett nem nyújtotta be az adósságrendezési megindítására vonatkozó kezdeményezését.”
-
-(5) Az elszámolási törvény a következő 44/A. §-sal egészül ki:
-
-„44/A. § Forintalapú fogyasztói kölcsönszerződések esetén a pénzügyi intézmény az e törvény és az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény szerinti elszámolásokat az ügyféllel szemben 2015. június 30-i nappal teljesíti azzal, hogy az elszámolások hatásait az ügyfélre vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2015. szeptember 30-ig – ha pedig a pénzügyi intézmény vagy a Felügyelet által e törvény vagy a 2014. évi XXXVIII. törvény alapján indított polgári peres eljárás befejezésére 2015. augusztus 1. napja után kerül sor, akkor a polgári peres eljárás befejezésétől számított hatvanadik napig – vezeti át, illetve rögzíti.”
+#### 126. §
 
 #### 65. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
