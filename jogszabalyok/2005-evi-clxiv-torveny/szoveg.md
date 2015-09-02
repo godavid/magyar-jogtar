@@ -92,7 +92,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (2) Az (1) bekezdés szerinti engedély csak annak a vállalkozásnak adható, amelynek
 
-- a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó büntetlen előéletű, nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
+- a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 - b) nincs az adózás rendjéről szóló törvény szerinti köztartozása.
 
 (3) A nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kereskedelmi hatóság részére – annak a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a kereskedelmi hatóság a (4) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
@@ -179,8 +179,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 (2) A lovas szolgáltató tevékenységet folytatón kívül más személy lovagoltatásával is járó lovas szolgáltató tevékenységet az a vállalkozás folytathat,
 
 - a) amelynek nincs hatvan napot meghaladóan lejárt esedékességű, az adózás rendjéről szóló jogszabály szerint végrehajtható köztartozása,
-- b) amelynek vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző egy éven belül a lovas szolgáltató tevékenységével összefüggésben az állat-egészségügyi és az állattartási körülményekre vonatkozó jogszabályi rendelkezések megsértése miatt jogerős hatósági határozatban eltiltottak a lovas szolgáltató tevékenység végzésétől,
-- c) amely által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozás esetén az egyéni vállalkozó rendelkezik a külön jogszabályban meghatározott szakképesítéssel.
+- b) amelynek vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző egy éven belül a lovas szolgáltató tevékenységével összefüggésben az állat-egészségügyi és az állattartási körülményekre vonatkozó jogszabályi rendelkezések megsértése miatt jogerős hatósági határozatban eltiltottak a lovas szolgáltató tevékenység végzésétől,
+- c) amely által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó rendelkezik a külön jogszabályban meghatározott szakképesítéssel.
 
 6/D. § Szálláshely-szolgáltatás csak a kereskedelmi hatóság szálláshely-üzemeltetési engedélyével rendelkező szálláshelyen folytatható.
 
@@ -188,8 +188,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (2) Tartós szálláshasználati szolgáltatási tevékenység csak akkor folytatható, ha a vállalkozás
 
-- a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó büntetlen előéletű, nem áll a tartós szálláshasználati szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző öt éven belül a tartós szálláshasználati szolgáltatási tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak a tartós szálláshasználati szolgáltatási tevékenység végzésétől.
+- a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll a tartós szálláshasználati szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
+- b) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző öt éven belül a tartós szálláshasználati szolgáltatási tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak a tartós szálláshasználati szolgáltatási tevékenység végzésétől.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő tartós szálláshasználati szolgáltatási tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
 
@@ -201,9 +201,9 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (2) Utazásszervezői és utazásközvetítői tevékenység csak akkor folytatható, ha a vállalkozás
 
-- a) által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozás esetén az egyéni vállalkozó rendelkezik a külön jogszabályban meghatározott utazásszervezői minősítő vizsgával vagy szakképesítéssel és szakmai gyakorlattal (a továbbiakban: tevékenységért felelős személy),
-- b) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozás esetén az egyéni vállalkozó büntetlen előéletű, nem áll az utazásszervezői és utazásközvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- c) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozás esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző öt éven belül az utazásszervezői vagy utazásközvetítői tevékenységre vonatkozó jogszabályi rendelkezések megsértése vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak az utazásszervezői vagy utazásközvetítői tevékenység végzésétől,
+- a) által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó vagy az általa határozatlan időre foglalkoztatott, az utazásszervezői és utazásközvetítői tevékenység folytatásában személyesen közreműködő személy rendelkezik az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározott képesítéssel és szakmai gyakorlattal, valamint nyelvismerettel (a továbbiakban: tevékenységért felelős személy),
+- b) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll az utazásszervezői és utazásközvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
+- c) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, tevékenységért felelős személye, amelyet a tevékenység megkezdését megelőző öt éven belül az utazásszervezői vagy utazásközvetítői tevékenységre vonatkozó jogszabályi rendelkezések megsértése vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak az utazásszervezői vagy utazásközvetítői tevékenység végzésétől,
 - d) – az utazásközvetítő kivételével – rendelkezik a külön jogszabályban meghatározott vagyoni biztosítékkal.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő utazásszervezői vagy utazásközvetítői tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
@@ -352,7 +352,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a turizmusért felelős miniszter, hogy
 
-- a) az utazásszervezői szakmai minősítő vizsga követelményeit,
+- a)
 - b) az idegenvezetői tevékenység folytatásának részletes feltételeit, valamint az idegenvezetői tevékenység bejelentésének és az idegenvezetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - c) a lovas szolgáltató tevékenység folytatásának részletes feltételeit, valamint a lovas szolgáltató tevékenység bejelentésének és a lovas szolgáltatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - d)–f)
