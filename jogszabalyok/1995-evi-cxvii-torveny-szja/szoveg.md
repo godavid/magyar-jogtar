@@ -2899,7 +2899,7 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 29/C. §-a a 2014. december 31-ét követően megkötött házasságok esetében alkalmazható.
 
-(5) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 48. § (3) bekezdés b) pontjában az eltartott (kedvezményezett eltartott) adóazonosító jelének közlését előíró rendelkezést a 2015. december 31-jét követően megtett nyilatkozatok esetében kell alkalmazni.
+(5) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 29/B. § (2) bekezdését és 48. § (3) bekezdés b) pontjában az eltartott (kedvezményezett eltartott) adóazonosító jelének közlését előíró rendelkezést a 2017. január 1-jét megelőzően megtett nyilatkozatok esetében úgy kell alkalmazni, hogy az eltartott (kedvezményezett eltartott) adóazonosító jelének hiányában természetes személyazonosító adatait és lakcímét kell feltüntetni.
 
 (6) A 2014-ben kezdődő adóév utolsó napjáig keletkezett, még nem érvényesített elhatárolt veszteség a 2014. december 31-én hatályos rendelkezések szerint írható le azzal, hogy az így elhatárolt veszteséget legkésőbb a 2025. adóévben lehet érvényesíteni.
 
