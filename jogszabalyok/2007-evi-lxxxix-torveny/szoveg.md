@@ -41,13 +41,13 @@ az államhatárról
 - a) amelynek a határvonallal megegyező határa, határszakasza van, vagy
 - b) amelyen határjelet helyeztek el. Az e tevékenységgel összefüggésben okozott kárért a Rendőrség, illetve a földmérési és térképészeti állami alapfeladatokat ellátó szervezet a polgári jog fokozott veszéllyel járó tevékenység folytatásáért viselt felelősségre vonatkozó szabályai szerint felel.
 
-5. § (1) Magyarország területének a Közösségi Kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 10 méteres sávja az államhatár rendjének védelmét biztosító létesítmények építése, telepítése és üzemeltetése, valamint a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menekültügyi és idegenrendészeti feladatok ellátása céljából e törvény szerint igénybe vehető.
+5. § (1) Magyarország területének a Közösségi Kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávja az államhatár rendjének védelmét biztosító létesítmények – ideértve a 15/A. § szerinti létesítményeket is – építése, telepítése és üzemeltetése, valamint a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menekültügyi és idegenrendészeti feladatok ellátása céljából e törvény szerint igénybe vehető.
 
 (2) Az (1) bekezdés szerinti területen található ingatlan (a továbbiakban: ingatlan) tekintetében e törvény erejénél fogva az államot az (1) bekezdés szerinti feladatok ellátása céljából határozatlan időre szóló közérdekű használati jog illeti meg.
 
 (3) A (2) bekezdés szerinti ingatlan tulajdonosa és használója (a továbbiakban együtt: tulajdonos) köteles tűrni, hogy a (2) bekezdés szerinti ingatlanon
 
-- a) az államhatár rendjének védelmét biztosító létesítményt építsenek, telepítsenek és üzemeltessenek,
+- a) az államhatár rendjének védelmét biztosító létesítményt – ideértve a 15/A. § szerinti létesítményt is – építsenek, telepítsenek és üzemeltessenek,
 - b) a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menekültügyi és idegenrendészeti feladatok ellátásában jogszabály alapján részt vevők az ingatlant az (1) bekezdésben meghatározott célból igénybe vegyék.
 
 (4) A közérdekű használati jogot a Kormány által rendeletben meghatározott szervek és személyek – kizárólag az (1) bekezdésben meghatározott célból, a feladat ellátásához feltétlenül szükséges mértékben – gyakorolhatják.
@@ -67,15 +67,17 @@ illeti meg.
 
 (3) A kártalanítás összegét az általános rendőrségi feladatok ellátására létrehozott szerv téríti meg az ingatlan tulajdonosának.
 
-(4) Az ingatlan igénybevétele azt követően kezdhető meg, hogy az általános rendőrségi feladatok ellátására létrehozott szerv a határozatban megállapított (1) bekezdés a) pontja szerinti kártalanítást a tulajdonos részére megfizette vagy a részére bírósági letétbe helyezte és ezt a fővárosi és megyei kormányhivatal részére igazolta. Ha a kártalanítás ennek megfelelően megfizetésre került, a kártalanítás tárgyában hozott határozattal szembeni jogorvoslati eljárás nem képezi akadályát az ingatlan igénybevételének.
+(4) Az (1) bekezdés a) pontja szerinti kártalanítást akkor kell megfizetni, ha az ingatlant igénybe veszik. Az ingatlan igénybevétele azt követően kezdhető meg, hogy az általános rendőrségi feladatok ellátására létrehozott szerv a határozatban megállapított (1) bekezdés a) pontja szerinti kártalanítást a tulajdonos részére megfizette vagy a részére bírósági letétbe helyezte és ezt a fővárosi és megyei kormányhivatal részére igazolta. Ha a kártalanítás ennek megfelelően megfizetésre került, a kártalanítás tárgyában hozott határozattal szembeni jogorvoslati eljárás nem képezi akadályát az ingatlan igénybevételének.
 
 (5) Ha a korlátozás az ingatlan rendeltetésszerű használatát jelentős mértékben akadályozza vagy megszünteti, a tulajdonos az ingatlan kisajátítását kérheti.
 
-5/B. § (1) Az 5. § (1) bekezdése szerinti területen az államhatár rendjének védelme érdekében épített, telepített létesítmények állami tulajdonba kerülnek, amelyek tekintetében a tulajdonosi jogokat és kötelezettségeket az általános rendőrségi feladatok ellátására létrehozott szerv gyakorolja.
+5/B. § (1) Az 5. § (1) bekezdése szerinti területen az államhatár rendjének védelme érdekében épített, telepített létesítmények – ideértve a 15/A. § szerinti létesítményeket is – állami tulajdonba kerülnek, amelyek tekintetében az építtetői, valamint a tulajdonosi jogokat és kötelezettségeket az általános rendőrségi feladatok ellátására létrehozott szerv gyakorolja.
 
 (2) Az államhatár rendjének védelme érdekében épített létesítmény az épített környezet alakításáról és védelméről szóló törvény szerinti nemzetbiztonsági célú, illetve rendeltetésű sajátos építményfajtának minősül.
 
 5/C. § Ha az 5/B. § szerinti létesítmény üzemeltetésére, illetve az ingatlan igénybevételére az 5. § (1) bekezdése szerinti célból már nincs szükség, az ingatlan eredeti állapotát helyre kell állítani.
+
+5/D. § Az 5. § (1) bekezdésében meghatározott létesítménnyel és tranzitzóna kialakításával összefüggő közigazgatási hatósági eljárásokat – a kártalanítási, építésügyi, valamint a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzéséhez szükséges eljárások kivételével – nem kell lefolytatni.
 
 6. § (1) Nemzetközi szerződés eltérő rendelkezése hiányában határút az az út vagy útszakasz, amelynek területén a határvonal az út tengelyével megegyezően halad.
 
@@ -142,6 +144,14 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 
 (2) A határátkelőhely üzemeltetésével kapcsolatos költségek viseléséről az érintett hatóságok egymás között, illetve a tulajdonossal vagy az ingatlan kezelőjével polgári jogi szerződésben állapodnak meg.
 
+### Tranzitzóna kialakítására vonatkozó szabályok
+
+15/A. § (1) Az 5. § (1) bekezdés szerinti területen tranzitzóna alakítható ki, amely a menekültkénti vagy oltalmazottkénti elismerését kérő személyek (a továbbiakban: elismerést kérő) átmeneti tartózkodására és a menekültügyi, idegenrendészeti eljárások lefolytatására, valamint az ezekhez szükséges létesítmények elhelyezésére szolgál.
+
+(2) A tranzitzónában tartózkodó, elismerést kérő személy Magyarországra történő beléptetésére akkor kerülhet sor, ha menekültügyi hatóság nemzetközi védelmet biztosító döntést hoz, a menekültügyi eljárás általános szabályok szerinti lefolytatásának feltételei fennállnak, valamint a menedékjogról szóló 2007. évi LXXX. törvény 71/A. § (4) és (5) bekezdésében meghatározott esetben.
+
+(3) A tranzitzónában az állami szervek a rájuk vonatkozó jogszabályokban foglalt feladat- és hatásköreiket gyakorolják.
+
 ### Záró rendelkezések
 
 16. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2008. január 1-jén lép hatályba.
@@ -174,3 +184,5 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 [Felhatalmazást kap a Kormány, hogy rendeletben]
 
 „d) megállapítsa az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét, és a változások átvezetésének szabályait.”
+
+17. § Az egyes törvényeknek a tömeges bevándorlás kezelésével összefüggő módosításáról szóló 2015. évi CXL. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. § (4) bekezdését a Módtv. hatálybalépését követően történő igénybevétel esetén kell alkalmazni.
