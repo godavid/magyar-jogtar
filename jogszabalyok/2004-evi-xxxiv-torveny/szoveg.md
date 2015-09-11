@@ -143,7 +143,8 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - a) a jogsértés emberi életet, testi épséget vagy egészséget sért vagy veszélyeztet,
 - b) a bírság kiszabásának alapjául szolgáló tényállás megvalósulásával környezetkárosodás következett be,
 - c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, vagy
-- d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor.
+- d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor,
+- e) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a fogyasztóvédelemről szóló 1997. évi CLV. törvény 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
 
 13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank elnöke, valamint a Közbeszerzések Tanácsának elnöke minden év június 30-áig – az előző év adatai alapján – összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
 
