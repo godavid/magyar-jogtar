@@ -147,7 +147,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - g) a közlekedési hatóságot az általa üzemben tartott, közlekedési hatósági feladat teljesítése érdekében igénybe vett gépjárművek után,
 - h) a nemzetközi szerződés, nemzetközi egyezmény (NATO, Schengheni Megállapodás) és viszonosság körébe tartozó járművek,
 - i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során,
-- j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja.
+- j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja,
+- k) az államhatárról szóló törvényben meghatározott tömeges bevándorlás okozta válsághelyzetben elrendelt szállítási feladatok végrehajtásában részt vevők által üzemben tartott gépjárművet az ezen feladat ellátása során.
 
 (2) Nem kell díjat fizetni a közút lezárásának vagy forgalma korlátozásának, elterelésének időtartama alatt azon az egyébként útdíjköteles elemi útszakaszon, amelyet a közút lezárására, vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
 
@@ -166,6 +167,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 (6) A nyilvántartás személyes adatokat nem tartalmaz.
 
 10. § A 9. § (1) bekezdés h) és i) pontjában meghatározott járművek a nemzetközi kapcsolattartásra jogosult hatósághoz, az f) pontban meghatározott járművek a katasztrófavédelmi hatósághoz történő bejelentés alapján, annak tudomásulvételét és a mentességi nyilvántartásba történő bejegyzést követően jogosultak a díjmentesség igénybevételére.
+
+10/A. § A 9. § (1) bekezdés k) pontjában meghatározott járművek a szállítási feladat elrendelésére jogosult szerv – 11. § (1) bekezdésben meghatározott módon – mentességi nyilvántartásba történő bejegyzését követően mentesülnek a bevallási kötelezettség alól és válnak jogosulttá a díjmentesség igénybevételére.
 
 11. § (1) A nyilvántartót elektronikus úton értesíti a 9. § (1) bekezdés alapján mentességet élvező szervezet a díjköteles útszakaszok díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9. § (5) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.
 
