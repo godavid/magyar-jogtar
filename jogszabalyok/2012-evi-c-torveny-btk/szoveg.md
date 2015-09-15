@@ -560,13 +560,15 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 (4) Azzal szemben,
 
 - a) aki Magyarország területén legalább tíz éve jogszerűen tartózkodik, vagy
-- b) akinek a családi élet tiszteletben tartásához való joga sérülne,
+- b) aki Magyarország területén jogszerűen tartózkodik, és a családi élet tiszteletben tartásához való joga sérülne,
 
 csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén lehet helye kiutasításnak, feltéve, hogy az elkövetőnek az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné.
 
 60. § (1) A kiutasítás határozott ideig tart, vagy végleges hatályú.
 
 (2) A határozott ideig tartó kiutasítás legrövidebb tartama egy év, leghosszabb tartama tíz év.
+
+(2a) A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén kiszabott végrehajtandó szabadságvesztés mellett, valamint a 85. § (1a) bekezdésben meghatározott esetben a kiutasítás nem mellőzhető. Amennyiben a kiutasítás határozott ideig tart, annak tartama a kiszabott szabadságvesztés tartamának kétszerese, de legalább két év. A kiutasítás tartamát években, hónapokban és napokban is meg lehet állapítani.
 
 (3) Végleges hatállyal az utasítható ki, akit tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélnek, és – figyelemmel a bűncselekmény kiemelkedő súlyára, az elkövetés jellegére, és az elkövető kapcsolataira – az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné. A szabad mozgás és tartózkodás jogával rendelkező személy végleges hatállyal nem utasítható ki.
 
@@ -751,7 +753,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) a bűncselekmény elkövetéséből eredő vagyonra, amelyet az elkövető a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett,
 - b) a vagyonra, amelyet az elkövető bűnszervezetben való részvétele ideje alatt szerzett,
-- c) a vagyonra, amelyet a kábítószer-kereskedelem elkövetője a bűncselekmény elkövetésének ideje alatt szerzett,
+- c) a vagyonra, amelyet a kábítószer-kereskedelem vagy az embercsempészés elkövetője a bűncselekmény elkövetésének ideje alatt szerzett,
 - d) a vagyonra, amely a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyon helyébe lépett,
 - e) a vagyonra, amelyet a bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása végett szolgáltattak vagy arra szántak,
 - f) a vagyonra, amely az adott vagy ígért vagyoni előny tárgya volt.
@@ -763,7 +765,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 (4) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni
 
 - a) az (1) bekezdés b) pontja esetében a bűnszervezetben való részvétel,
-- b) az (1) bekezdés c) pontja esetében a kábítószer forgalomba hozatalának, illetve az azzal való kereskedés
+- b) az (1) bekezdés c) pontja esetében a kábítószer forgalomba hozatalának, illetve az azzal való kereskedés, továbbá az embercsempészés üzletszerű vagy bűnszövetségben történő elkövetésének
 
 ideje alatt szerzett valamennyi vagyont.
 
@@ -874,7 +876,11 @@ nem haladhatja meg.
 
 85. § (1) A két évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető, ha – különösen az elkövető személyi körülményeire figyelemmel – alaposan feltehető, hogy a büntetés célja annak végrehajtása nélkül is elérhető.
 
+(1a) A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén az öt évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető.
+
 (2) A próbaidő tartama – ha e törvény eltérően nem rendelkezik – egy évtől öt évig terjedhet, de a kiszabott szabadságvesztésnél rövidebb nem lehet. A próbaidőt években, vagy években és hónapokban kell meghatározni.
+
+(2a) A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén a próbaidő tartama két évtől tíz évig terjedhet, de nem lehet rövidebb az ezen bűncselekmények miatt kiszabott kiutasítás tartamánál.
 
 86. § (1) A szabadságvesztés végrehajtása nem függeszthető fel azzal szemben, aki
 
@@ -896,7 +902,8 @@ nem haladhatja meg.
 
 - a) a próbaidő alatt megállapítják, hogy a szabadságvesztés végrehajtását a 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztették fel,
 - b) az elkövetőt a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélik, vagy
-- c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi.
+- c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi,
+- d) a 60. § (2a) bekezdése alapján kiutasított elkövető a felfüggesztett szabadságvesztés próbaideje alatt Magyarország területére visszatér.
 
 88. § A büntetés végrehajtásának kegyelemből történt felfüggesztése esetén a végrehajtás elrendelésére a felfüggesztett büntetés végrehajtására vonatkozó rendelkezést megfelelően alkalmazni kell.
 
@@ -4085,18 +4092,55 @@ bűntettet követ el és három évig terjedő szabadságvesztéssel büntetend�
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-### Embercsempészés
+### Határzár tiltott átlépése
 
-353. § (1) Aki államhatárnak más által a jogszabályi rendelkezések megszegésével történő átlépéséhez segítséget nyújt, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+352/A. § (1) Aki Magyarországnak az államhatár rendje védelmét biztosító létesítmény által védett területére a létesítményen keresztül jogosulatlanul belép, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az embercsempészést
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
 
-- a) vagyoni haszonszerzés végett, vagy
-- b) államhatár átlépéséhez több személynek segítséget nyújtva
+- a) fegyveresen,
+- b) felfegyverkezve,
+- c) tömegzavargás résztvevőjeként
 
 követik el.
 
-(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az embercsempészést
+(3) Aki az (1) bekezdésben meghatározott bűncselekményt fegyveresen vagy felfegyverkezve tömegzavargás résztvevőjeként követi el, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+
+(4) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a (2) vagy (3) bekezdésben meghatározott bűncselekmény halált okoz.
+
+### Határzár megrongálása
+
+352/B. § (1) Aki az államhatár rendjének védelmét biztosító létesítményt, illetve eszközt megsemmisíti vagy megrongálja, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
+
+- a) fegyveresen,
+- b) felfegyverkezve,
+- c) tömegzavargás résztvevőjeként
+
+követik el.
+
+(3) Aki az (1) bekezdésben meghatározott bűncselekményt fegyveresen vagy felfegyverkezve tömegzavargás résztvevőjeként követi el, öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
+
+(4) A büntetés tíz évtől húsz évig terjedő szabadságvesztés, ha a (2) vagy (3) bekezdésben meghatározott bűncselekmény halált okoz.
+
+### Határzárral kapcsolatos építési munka akadályozása
+
+352/C. § Aki az államhatár rendjének védelmét biztosító létesítmény építésével vagy karbantartásával kapcsolatos munkavégzést akadályozza, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+### Embercsempészés
+
+353. § (1) Aki államhatárnak más által a jogszabályi rendelkezések megszegésével történő átlépéséhez segítséget nyújt, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az embercsempészést
+
+- a) vagyoni haszonszerzés végett,
+- b) államhatár átlépéséhez több személynek segítséget nyújtva, vagy
+- c) az államhatár rendjének védelmét biztosító létesítmény, illetve eszköz megsemmisítésével vagy megrongálásával
+
+követik el.
+
+(3) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha az embercsempészést
 
 - a) a csempészett személy sanyargatásával,
 - b) fegyveresen,
@@ -4106,7 +4150,16 @@ követik el.
 
 követik el.
 
-(4) Aki embercsempészésre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(4) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha
+
+- a) a (3) bekezdés a) pontja szerinti embercsempészést a b)–e) pontban meghatározott módon
+- b) a (3) bekezdés b) pontja szerinti embercsempészést az a), illetve a c)–e) pontban meghatározott módon
+
+követik el.
+
+(5) A (3) vagy (4) bekezdésben meghatározott bűncselekmény szervezője vagy irányítója tíz évtől húsz évig terjedő szabadságvesztéssel büntetendő.
+
+(6) Aki embercsempészésre irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.
 
 ### Jogellenes tartózkodás elősegítése
 
