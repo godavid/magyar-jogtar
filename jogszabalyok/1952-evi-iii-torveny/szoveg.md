@@ -3145,7 +3145,9 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - r) a közbeszerzésekről szóló törvény, ha a közbeszerzési eljárásban az ajánlatkérő nem a törvényben meghatározott központi költségvetési szerv,
 - s) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény.
 
-(13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti a közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el. Ha a felperesnek nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti a közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el.
+(13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban – a (14) bekezdésben foglalt kivétellel – a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el. Ha a felperesnek – a (14) bekezdésben foglalt kivétellel – nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el.
+
+(14) A menedékjogról szóló törvény szerinti határon lefolytatott eljárások eredményeként az elfogadhatatlanság tárgyában hozott menekültügyi határozat bírósági felülvizsgálati eljárására a Szegedi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 ### Felek
 
@@ -3342,7 +3344,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - g) az adó-, vagy illetékkötelezettség megállapításáról vagy a külön jogszabály szerint ezzel egy tekintet alá eső más fizetési kötelezettségről és az ezekhez kapcsolódó egyéb befizetésekről hozott,
 - h) a levéltári anyag általános levéltárban történő elhelyezését elrendelő,
 - i)
-- j) a menekültként való elismeréssel kapcsolatban hozott,
+- j)
 - k)
 - l)
 - m) az internálásban, a kitelepítésben, az őrizetbevételben, valamint a közbiztonsági őrizetben, illetve a Szovjetunióban fogvatartásban töltött időnek az igazolásával, továbbá a 74/1991. (VI. 10.) Korm. rendelet 1. §-ának (1) bekezdésében felsorolt, valamint a 174/1992. (XII. 29.) Korm. rendelet 1. §-ában meghatározott személyek személyes szabadsága korlátozásának az igazolásával kapcsolatos rendelkezést tartalmazó,
@@ -3365,7 +3367,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 340. § (1) A bíróság ítélete ellen fellebbezésnek – a (2) bekezdésben meghatározott kivétellel – nincs helye.
 
-(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezés nem vonatkozik a menekültügyi per tárgyában hozott bírósági döntésre, továbbá e rendelkezést közbeszerzési ügyekben a közbeszerzésekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezést közbeszerzési ügyekben a közbeszerzésekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3)
 

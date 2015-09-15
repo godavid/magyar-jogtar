@@ -723,7 +723,10 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - b) az eljárás kérelemre történő felfüggesztésének;
 - c) elektronikus kapcsolattartásnak;
 - d) a jogszabálysértő döntés visszavonásáról rendelkező döntés elleni jogorvoslatnak;
-- e) kézbesítési ügygondnok kijelölésének.
+- e) kézbesítési ügygondnok kijelölésének;
+- f) tömeges bevándorlás okozta válsághelyzet idején
+  - fa) ügygondnok kirendelése kezdeményezésének, illetve kirendelésének,
+  - fb) kézbesítési meghatalmazott megjelölésének.
 
 ### VIII. Fejezet — A MENEKÜLTKÉNTI VAGY OLTALMAZOTTKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
@@ -822,11 +825,13 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (2) A kérelmet elfogadhatatlanság miatt, vagy gyorsított eljárásban hozott elutasító döntéssel szemben bírósági felülvizsgálatnak van helye. A felülvizsgálati kérelem előterjesztésének – az 51. § (2) bekezdés e) pontja és az 51. § (7) bekezdés h) pontja alapján hozott döntések kivételével – nincs halasztó hatálya a döntés végrehajtására.
 
-(3) A felülvizsgálati kérelmet a döntés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+(2a) A kérelmet elutasító döntéssel szemben benyújtott felülvizsgálati kérelemben – a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 339/A. §-ában foglaltaknak megfelelően – új tényre, illetve új bizonyítékra hivatkozni nem lehet.
 
-(4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. A bíróság felülvizsgálata kiterjed mind a tények, mind a jogi szempontok teljes körű, és a bírósági döntés meghozatalának időpontja szerinti vizsgálatára. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
+(3) A felülvizsgálati kérelmet a döntés közlésétől számított hét napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
 
-(5) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. A bíróság felülvizsgálata kiterjed mind a tények, mind a jogi szempontok teljes körű, és a hatósági döntés meghozatalának időpontja szerinti vizsgálatára. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
+
+(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg, a jogszabálysértő közigazgatási határozatot – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – hatályon kívül helyezi, és szükség esetén a menekültügyi hatóságot új eljárásra kötelezi. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
 54. § (1) Ha a kérelmező ismételt kérelmét azt követően nyújtja be, hogy korábbi kérelme tárgyában jogerős megszüntető vagy elutasító döntés született, a menekültügyi hatóság megvizsgálja, hogy a korábbi döntést követően felmerül-e olyan új körülmény vagy tény, amely alapján a kérelmező menekültkénti vagy oltalmazottkénti elismerésének lenne helye.
 
@@ -958,9 +963,9 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - b) a kérelmező ismeretlen helyre távozott, vagy
 - c) az ismételt kérelem a korábbival azonos ténybeli alapon nyugszik.
 
-(5) A bíróság a menekültügyi hatóság határozatát megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg, a jogszabálysértő közigazgatási határozatot – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – hatályon kívül helyezi, és szükség esetén a menekültügyi hatóságot új eljárásra kötelezi.
 
-(6) A menekültügyi hatóság 67. § (2) bekezdés szerinti tájékoztatási kötelezettsége akkor is fennáll, ha a bíróság a menekültügyi hatóság határozatát megváltoztatja, és a kérelmezőt menekültként vagy oltalmazottként elismeri.
+(6) A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
 ### Menekültkénti elismerés kivételes méltányosságból
 
@@ -979,6 +984,38 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 71. § (1) Ha a menedékes az ideiglenes védelem lejártát megelőzően menekültkénti vagy oltalmazottkénti elismerés iránti kérelmet nyújt be, menedékes jogállása a kérelem elbírálása alatt, továbbá a kérelem elutasítása esetén – az ideiglenes védelem lejártáig – fennmarad, feltéve, hogy menedékeskénti elismerése visszavonására nem kerül sor.
 
 (2) Az (1) bekezdés alapján benyújtott kérelmet akkor is el kell bírálni, ha az ideiglenes védelem a menekültkénti vagy oltalmazottkénti elismerésre irányuló eljárás időtartama alatt megszűnik. Ebben az esetben a kérelmezőt az 5. § szerinti jogok illetik meg, és kötelezettségek terhelik.
+
+### A határon lefolytatott eljárás
+
+71/A. § (1) Ha a külföldi a kérelmét Magyarország területére történő beléptetés előtt, az államhatárról szóló törvényben meghatározott tranzitzónában (a továbbiakban: tranzitzóna) nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A kérelmezőt a határon lefolytatott eljárás során nem illetik meg az 5. § (1) bekezdés a) és c) pontjában foglalt jogosultságok.
+
+(3) A menekültügyi hatóság a kérelem elfogadhatóságáról soron kívül, de legkésőbb a kérelem benyújtásától számított 8 napon belül dönt. Az eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
+
+(4) Ha a kérelem benyújtásától számított 4 hét eltelt, a belépést az idegenrendészeti hatóság jogszabály alapján engedélyezi.
+
+(5) Ha a kérelem nem elfogadhatatlan, a belépést az idegenrendészeti hatóság jogszabály alapján engedélyezi.
+
+(6) Ha a kérelmező Magyarország területére történő belépésének engedélyezésére sor került, a menekültügyi hatóság az eljárást az általános szabályok szerint folytatja le.
+
+(7) A határon lefolytatott eljárás szabályai nem alkalmazhatók a különleges bánásmódot igénylő személyekkel szemben.
+
+(8) A határon lefolytatott eljárásban a szakhatóság nem vesz részt.
+
+(9) A felülvizsgálati eljárásban az érdemi határozat meghozatalára is kiterjedően bírósági titkár is eljárhat.
+
+(10) A személyes meghallgatást az eljáró bíróság a tranzitzónában tartja meg. A személyes meghallgatás távközlő hálózat útján is megtartható, ha az eljáró bíró – bírósági titkár – a személyes meghallgatást a bíróság székhelyéről vagy más, a tranzitzónán kívüli helyről folytatja. Ebben az esetben az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító készülék biztosítja.
+
+(11) A bíróság eljárást befejező döntését a kérelmezővel hirdetmény útján kell közölni, ha a kérelmező nem adott meg kézbesítési címet, vagy a megadott címre a kézbesítés bármely okból eredménytelen, vagy a kézbesítés alkalmazása már előre eredménytelennek mutatkozik. A hirdetményt – a Pp. hirdetmény kifüggesztésére és közzétételére vonatkozó szabályaitól eltérően – úgy kell közzétenni, hogy tizenöt napra ki kell függeszteni annak a tranzitzónának a hirdetőtáblájára, amelyben a felülvizsgálati kérelmet előterjesztették. A hirdetményt a kérelmező anyanyelvén vagy az általa értett más nyelven kell közzétenni.
+
+(12) A bíróság eljárást befejező döntésének hirdetményi kézbesítése esetén az iratot a hirdetménynek a tranzitzóna hirdetőtábláján való kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+
+(13) A hirdetmény a Pp.-ben meghatározott figyelemfelhívástól eltérően a (12) bekezdés szerinti jogkövetkezményre vonatkozó figyelemfelhívást tartalmaz, valamint arról ad tájékoztatást, hogy a címzett a kézbesítendő iratot a tranzitzóna mely jól beazonosítható, kijelölt helyén veheti át.
+
+(14) Ha a felülvizsgálati eljárásban egyéb okból hirdetményi kézbesítésnek van helye a kérelmező vonatkozásában, a (11)–(13) bekezdés rendelkezéseit kell megfelelően alkalmazni, azzal, hogy a bírósági iratot a hirdetmény kifüggesztésétől számított harmadik napon kell kézbesítettnek tekinteni.
+
+(15) A bíróság által hozott határozatokat a kérelmezővel az anyanyelvén, vagy az általa értett más nyelven kell közölni.
 
 ### Repülőtéri eljárás
 
@@ -1078,6 +1115,100 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 (2) A menedékeskénti elismerést visszavonó határozattal szemben – a (3) bekezdésben meghatározott kivétellel – a 75. §-ban foglaltak szerint van helye jogorvoslatnak.
 
 (3) Ha a menedékeskénti elismerés visszavonására a 25. § (2) bekezdés a) pontja alapján került sor, az elismerést visszavonó határozattal szemben jogorvoslatnak nincs helye.
+
+### Tömeges bevándorlás okozta válsághelyzet
+
+80/A. § (1) Tömeges bevándorlás okozta válsághelyzet rendelhető el, ha
+
+- a) a Magyarországra érkező elismerést kérők száma
+  - aa) egy hónap átlagában a napi ötszáz főt,
+  - ab) két egymást követő hét átlagában a napi hétszázötven főt vagy
+  - ac) egy hét átlagában a napi nyolcszáz főt
+
+meghaladja,
+
+- b) a Magyarországon a tranzitzónában tartózkodók száma – a külföldiek ellátásában közreműködő személyeket nem számítva –
+  - ba) egy hónap átlagában a napi ezer főt,
+  - bb) két egymást követő hét átlagában a napi ezerötszáz főt vagy
+  - bc) egy hét átlagában a napi ezerhatszáz főt
+
+meghaladja,
+
+- c) az a) és b) pontban meghatározott eseteken kívül bármely olyan migrációs helyzettel összefüggő körülmény alakul ki, amely valamely település közbiztonságát, közrendjét vagy a közegészségügyet közvetlenül veszélyezteti, különösen, ha az adott településen vagy annak külterületén található befogadó állomáson vagy a külföldiek elhelyezését biztosító egyéb létesítményben zavargás tör ki, vagy erőszakos cselekményeket követnek el.
+
+(2) A tömeges bevándorlás okozta válsághelyzetet az országos rendőrfőkapitány és a menekültügyi hatóság vezetője kezdeményezésére, a miniszter javaslatára a Kormány rendeletben rendelheti el. A tömeges bevándorlás okozta válsághelyzet Magyarország egész, illetve annak meghatározott területére rendelhető el.
+
+(3) A tömeges bevándorlás okozta válsághelyzet feltételeinek a fennállását az országos rendőrfőkapitány és a menekültügyi hatóság vezetője köteles folyamatosan figyelemmel kísérni, és ha a tömeges bevándorlás okozta válsághelyzet elrendelésének a feltételei nem állnak fenn, kezdeményezni a miniszternél, hogy tegyen javaslatot a Kormánynak a (2) bekezdés szerinti kormányrendelet hatályon kívül helyezésére. A miniszter javaslatát a Kormány részére haladéktalanul benyújtja, amelyet a Kormány soron kívül köteles megtárgyalni és – ha a tömeges bevándorlás okozta válsághelyzet elrendelésének a feltételei nem állnak fenn – a (2) bekezdés szerinti kormányrendeletet hatályon kívül helyezni.
+
+(4) A (2) bekezdés szerinti kormányrendelet legfeljebb hat hónapig marad hatályban, kivéve ha a Kormány annak hatályát meghosszabbítja. A Kormány a (2) bekezdés szerinti kormányrendelet hatályát akkor hosszabbíthatja meg, ha a tömeges bevándorlás okozta válsághelyzet elrendelésének a feltételei a meghosszabbítás időpontjában fennállnak.
+
+(5) A (2) bekezdés szerinti kormányrendelet hatályának meghosszabbításáról a Kormány az Országgyűlés rendészettel foglalkozó állandó bizottságának beszámol.
+
+(6) A tömeges bevándorlás okozta válsághelyzetben a 80/B–80/G. § szerinti szabályokat kizárólag a tömeges bevándorlás okozta válsághelyzetet kiváltó okok kezeléséhez szükséges, a (2) bekezdés szerinti kormányrendeletben meghatározott területen, az annak kezeléséhez szükséges mértékben lehet alkalmazni.
+
+### Tömeges bevándorlás okozta válsághelyzetben alkalmazható ideiglenes igénybevétel
+
+80/B. § (1) Tömeges bevándorlás okozta válsághelyzetben az állam vagy a helyi önkormányzat tulajdonosi joggyakorlásában vagy vagyonkezelésében, továbbá a többségi állami tulajdonban vagy önkormányzati tulajdonban álló gazdasági társaságok tulajdonában álló ingó és ingatlan vagyontárgyak ideiglenesen, de legfeljebb hat hónap időtartamra a tömeges bevándorlás okozta válsághelyzet kezelésében részt vevő szerv által – a feladatai ellátásához szükséges mértékben, kártalanítás ellenében – igénybe vehetők, amennyiben az igénybevevő szerv a válsághelyzet kezeléséhez szükséges intézkedést saját erőforrásai terhére csak aránytalanul nagy ráfordítással vagy késedelmesen tudná végrehajtani. Az igénybevételt az adott ingatlant és ingó vagyontárgyat bármilyen jogcímen használó harmadik személyek tűrni kötelesek.
+
+(2) Az igénybevétel megkezdése előtt – lehetőség szerint – az érintett tulajdonosi joggyakorlót, vagyonkezelőt, tulajdonost és – ha az adott ingó vagyontárgy vagy ingatlan harmadik személy használatában van – a használót (a továbbiakban együtt: vagyonkezelő) tájékoztatni kell az igénybevétel jellegéről, várható időtartamáról és az utólagos kártalanítás biztosításáról.
+
+(3) A vagyonkezelő az igénybevétellel szemben kifogással élhet, ha az igénybevétellel előreláthatólag okozott kár lényegesen meghaladja az igénybevevő által jelzett használati célhoz fűződő érdeket.
+
+(4) Ha az igénybevevő a kifogást nem fogadja el, a jelzett kifogásról, valamint a kifogással kapcsolatos álláspontjáról haladéktalanul tájékoztatja a minisztert, aki 3 napon belül, a vagyonkezelő tevékenysége szerint feladatkörrel rendelkező miniszterrel egyetértésben dönt a kifogás elfogadásáról vagy elutasításáról.
+
+(5) Életet, testi épséget, egészséget fenyegető helyzetben a kifogásnak halasztó hatálya nincs.
+
+(6) Az igénybevételhez szükséges, a vagyonkezelő érdekkörében fennálló feltételeket a vagyonkezelő köteles biztosítani, ennek megtagadása esetén az igénybevevő szerv az igénybevétel kikényszerítéséhez a rendőrség közreműködését veheti igénybe. A vagyonkezelő az igénybe vevő szervvel együttműködésre köteles, az igénybe vevő szerv részére a vagyontárgy kezelésével kapcsolatos információkat köteles megadni.
+
+(7) Az igénybevétel előtti állapotot jegyzőkönyvben kell rögzíteni oly módon, hogy az utólagosan alkalmas legyen a bekövetkezett károk megállapítására. Az igénybevétel előtti állapotfelmérésen a vagyonkezelő képviselője köteles jelen lenni, biztosítani kell számára, hogy a dokumentációval kapcsolatosan írásos véleményt tegyen.
+
+(8) A tömeges bevándorlás okozta válsághelyzet megszüntetését követő 15 napon belül, de legfeljebb az (1) bekezdésben meghatározott határidő leteltéig az igénybe vevő szerv az igénybe vett ingó és ingatlan vagyontárgyakat az eredeti állapot visszaállítása mellett – vagy ha ez nem lehetséges, akkor anélkül –, visszaszolgáltatja a vagyonkezelő birtokába. A visszaszolgáltatás során a (7) bekezdésben meghatározottak szerint jegyzőkönyvben kell rögzíteni az igénybe vett ingó és ingatlan vagyontárgy állapotát.
+
+(9) A tömeges bevándorlás okozta válsághelyzetben a miniszter az állami vagyon felügyeletéért felelős miniszterrel egyetértésben a többségi állami tulajdonban vagy önkormányzati tulajdonban álló gazdasági társaságok számára a tevékenységi körükbe tartozó szolgáltatások nyújtására szerződéskötési kötelezettséget írhat elő rendeletben.
+
+80/C. § (1) Az igénybevétellel kapcsolatos kártalanítás összegét az állam viseli.
+
+(2) A vagyonkezelő az igénybevétellel vagy a szerződéskötési kötelezettség alapján nyújtott szolgáltatás teljesítésével összefüggésben felmerült kára megtérítésére vonatkozó igényét a székhelye vagy lakóhelye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes megyei, fővárosi kormányhivatalnál (a továbbiakban: kormányhivatal) terjesztheti elő.
+
+(3) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására a kormányhivatal jogosult. A kormányhivatal a kárigény benyújtását követő 3 napon belül, 15 napos határidő tűzésével felhívja az igénybevevő szervet, hogy nyilatkozzon a kárigény meglapozottságáról.
+
+(4) A kormányhivatal a kárigény benyújtásától számított 60 napon belül jár el.
+
+(5) A kártalanítás összegének megállapításánál figyelembe kell venni
+
+- a) a gazdasági forgalomban lévő hasonló szolgáltatásért szokásos díjat,
+- b) az igénybevétel tárgyának használatra történő átengedéséért a használat során bekövetkezett értékcsökkenés mértékét,
+- c) ingó és ingatlan dolog állagában okozott kárnál a dolog szakszerű helyreállításának, kijavításának költségét,
+- d) az igénybevétel tárgyának elvesztése vagy megsemmisülése esetén az átvétel időpontjában meglévő forgalmi értékét,
+- e) a szolgáltatás teljesítése miatt elmaradt vagyoni előnyt, csökkentve az a) pontban meghatározott díj összegével,
+- f) a biztosítás alapján megtérülő összeget.
+
+(6) A kártalanítást pénzben kell megállapítani és megtéríteni.
+
+(7) A kártalanítás ügyében hozott határozat ellen fellebbezésnek helye nincs, a döntést sérelmező fél a határozat közlésétől számított 30 napon belül keresettel fordulhat a kormányhivatal székhelye szerint illetékes közigazgatási és munkaügyi bírósághoz. A bíróság a keresetet a Pp. közigazgatási perekre vonatkozó rendelkezései alapján bírálja el.
+
+(8) Ha a tömeges bevándorlás okozta válsághelyzet meghosszabbítása miatt, vagy más okból az igénybevevő szerv az igénybevett ingatlant a törvényben meghatározott határidőig nem szolgáltatta vissza a vagyonkezelőnek, továbbá amennyiben az eredeti állapot helyreállítása nem lehetséges vagy aránytalan költséggel jár, a tulajdonos ezen az alapon kérelmezheti a kormányhivatalnál, hogy az az igénybevevő szervet kötelezze az ingatlan állam nevében és az állam javára való kisajátításra vonatkozó kérelem benyújtására.
+
+(9) A kisajátítási kérelem benyújtására kötelezés iránti kérelem a visszaszolgáltatás késedelme esetén a határidő lejártától, egyéb esetekben a visszaszolgáltatás időpontjától számított 30 napon belül terjeszthető elő. Az eljárásra egyebekben a kisajátításról szóló törvény rendelkezéseit kell alkalmazni.
+
+### Tömeges bevándorlás okozta válsághelyzetben alkalmazható egyes hatósági rendelkezések
+
+80/D. § (1) Tömeges bevándorlás okozta válsághelyzet fennállásakor az e törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére és fogvatartására szolgáló létesítmények építésével, telepítésével és üzemeltetésével összefüggő közigazgatási hatósági eljárásokat – az építésügyi eljárás, és kártalanítási eljárás kivételével – nem kell lefolytatni.
+
+(2) Tömeges bevándorlás okozta válsághelyzet fennállásakor az (1) bekezdésben meghatározott építmények az épített környezet alakításáról és védelméről szóló törvény szerinti nemzetbiztonsági célú sajátos építményfajtának minősülnek.
+
+80/E. § Tömeges bevándorlás okozta válsághelyzet fennállásakor
+
+- a) az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében és 15/A. §-ában meghatározott, valamint a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló építmények építése, telepítése és üzemeltetése,
+- b) a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek ellátását szolgáló közművek és csatlakozó elemeik kiépítése, és
+- c) a menekültügyi és idegenrendészeti feladatok ellátásával közvetlenül összefüggő beszerzések az ország alapvető biztonságával összefüggő beszerzésnek minősülnek, a közbeszerzésekről szóló törvény rendelkezéseit nem kell alkalmazni.
+
+80/F. § Tömeges bevándorlás okozta válsághelyzet fennállása esetén az egészségügyi államigazgatási szerv haladéktalanul megvizsgálja, hogy a járványügyi intézkedések elrendelésének jogszabályban meghatározott feltételei fennállnak-e.
+
+80/G. § A tömeges bevándorlás okozta válsághelyzet esetén az elismerés iránti kérelmek regisztrálásában és az ehhez kapcsolódó feladatok ellátásában a menekültügyi hatóság irányítása szerint
+
+- a) – a miniszter felkérése esetén a rendészetért felelős miniszter erre vonatkozó döntése alapján – az általános rendőrségi feladatok ellátására létrehozott szerv, illetve
+- b) – a miniszter felkérése esetén a honvédelemért felelős miniszter erre vonatkozó döntése alapján – a Magyar Honvédség közreműködhet.
 
 ### X. Fejezet — ADATKEZELÉS
 
@@ -1304,7 +1435,8 @@ igényelhetnek adatot.
 - f) határozza meg az elismerését kérő, a menekült, az oltalmazott és a menedékes okmányainak formáját és azok adattartalmát;
 - g) állapítsa meg a menekült, az oltalmazott és a menedékes úti okmánya kiadásának részletes eljárási szabályait;
 - h) jelölje ki az országinformáció szolgáltatásáért felelős szervet;
-- i) állapítsa meg a hazatérés és a harmadik országban történő letelepedés utazási költségeinek biztosításához nyújtható támogatás feltételeit.
+- i) állapítsa meg a hazatérés és a harmadik országban történő letelepedés utazási költségeinek biztosításához nyújtható támogatás feltételeit;
+- j) kihirdesse a tömeges bevándorlás okozta válsághelyzetet, illetve állapítsa meg a tömeges bevándorlás okozta válsághelyzet elrendelésével, fennállásával, megszüntetésével összefüggő szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat.
 
@@ -1319,6 +1451,8 @@ igényelhetnek adatot.
 - c) határozza meg az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i, 604/2013/EU európai parlamenti és tanácsi rendelet 33. cikke szerinti korai előrejelzésre, készültségre és válságkezelésre vonatkozó rendszer működtetéséhez szükséges adatközlésre vonatkozó részletes szabályokat és jelölje ki a felelős hatóságokat;
 - d) határozza meg a menekültügyi óvadék összege mértékét, a menekültügyi óvadék letételével összefüggő eljárási szabályokat, valamint a menekültügyi óvadék kezelésével kapcsolatos rendelkezéseket, továbbá
 - e) határozza meg a menekültügyi őrizet végrehajtására vonatkozó részletes szabályokat,
+
+(4) Felhatalmazást kap a miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben, tömeges bevándorlás okozta válsághelyzetben a többségi állami tulajdonban vagy önkormányzati tulajdonban álló gazdasági társaságok számára, a tevékenységi körükbe tartozó szolgáltatások nyújtására szerződéskötési kötelezettséget írjon elő.
 
 ### Módosuló rendelkezések
 

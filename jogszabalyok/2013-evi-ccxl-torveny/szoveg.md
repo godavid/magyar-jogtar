@@ -635,6 +635,26 @@ szabadságvesztés végrehajthatósága.
 
 (2) Ha a fiatalkorú egészségi állapota indokolja, három hónapot meghaladóan, vagy ismételten is engedélyezhető halasztás.
 
+### A kiutasítás végrehajtásának elhalasztása
+
+43/A. § (1) A tanács elnöke az elítélt kérelmére a kiutasítás végrehajtásának megkezdésére fontos okból – különösen az elítélt személyi vagy családi körülményeire tekintettel – legfeljebb három hónapra halasztást engedélyezhet.
+
+(2) Ha az elítélt betegsége az életét közvetlenül veszélyezteti, a tanács elnöke
+
+- a) az (1) bekezdésben szabályozott tartamú halasztást meghaladó, határozott ideig tartó halasztást is engedélyezhet,
+- b) az (1) bekezdés alapján engedélyezett halasztást meghosszabbíthatja.
+
+(3) El kell halasztani – kérelem nélkül, hivatalból is – a kiutasítás végrehajtásának megkezdését annak az elítéltnek az esetében, aki
+
+- a) a tizenkettedik hetet meghaladó várandós, legfeljebb a szülés várható idejét követő tizenkettedik hónap végéig,
+- b) egy évesnél fiatalabb gyermekét gondozza.
+
+(4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvos-szakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását.
+
+(5) A (3) bekezdés a) pontja esetén, ha a gyermek halva született, utóbb meghalt, vagy a gyermek véglegesen vagy tartósan kikerül az elítélt gondozásából, a kiutasítás végrehajtását a bíróság felhívására, amint azt a nő szülés utáni egészségi állapota lehetővé teszi, haladéktalanul meg kell kezdeni. A nő szülés utáni egészségi állapotáról a tanács elnökének a felhívására az igazságügyi orvos-szakértő nyilatkozik.
+
+(6) Az (1)–(3) bekezdésben meghatározott feltételek esetén sincs helye a kiutasítás végrehajtása elhalasztásának, ha az súlyosan veszélyeztetné a közbiztonságot vagy a közrendet.
+
 ### A halasztás és a részletfizetés engedélyezésének eljárási szabályai
 
 44. § (1) A halasztás és a részletfizetés iránti kérelemnek nincs halasztó hatálya.
@@ -646,6 +666,8 @@ szabadságvesztés végrehajthatósága.
 (4) A pénzbüntetés, a rendbírság és az államot illető bűnügyi költség tekintetében a halasztás, vagy a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye fellebbezésnek.
 
 (5) A szabadságvesztés, az elzárás, a közérdekű munka és a javítóintézeti nevelés végrehajtásának elhalasztása tárgyában hozott határozat ellen az ügyész, az elítélt, a törvényes képviselő és a védő fellebbezhet. Ha a halasztást a (2) bekezdés alapján a másodfokú bíróság engedélyezte, a fellebbezés elbírálására a Be. XIV. Fejezet IV. Címe megfelelően irányadó.
+
+(5a) A kiutasítás végrehajtásának elhalasztása tárgyában hozott határozat ellen nincs helye fellebbezésnek.
 
 (6) A tanács elnöke szabadságvesztés esetén a 39. § (2) és (3) bekezdésében, elzárás esetén a 40. § (2) és (3) bekezdésében meghatározott körben – a 39. § (4) bekezdésére és a 40. § (4) bekezdésére figyelemmel – szükség szerint intézkedik a büntetés-végrehajtási bírónál a végrehajtás függőben tartása iránt.
 
@@ -4816,6 +4838,10 @@ a javítóintézet utógondozó részleget működtet.
 
 (4) Az egyes kényszerintézkedések végrehajtása során a (3) bekezdés alapján megküldött határozatot és értesítést a telefax beérkezésének napján kell kézbesítettnek tekinteni.
 
+### XXVIII/A. Fejezet — A TÖMEGES BEVÁNDORLÁS OKOZTA VÁLSÁGHELYZETBEN ALKALMAZOTT SZABÁLYOK
+
+385/A. § Ha tömeges bevándorlás okozta válsághelyzetben az előzetes letartóztatást nem büntetés-végrehajtási intézetben hajtják végre, a XXIX. és XXXI. Fejezet rendelkezései nem alkalmazhatók.
+
 ### XXIX. Fejezet — AZ ELŐZETES LETARTÓZTATÁS VÉGREHAJTÁSA
 
 ### Általános rendelkezések
@@ -4835,6 +4861,8 @@ a javítóintézet utógondozó részleget működtet.
 388. § (1) Az előzetes letartóztatást – a rendelkezési jogkör gyakorlójának vagy jogszabály eltérő rendelkezésének hiányában – a rendelkezési jogkör gyakorlójának székhelye szerint illetékes megyei (fővárosi) bv. intézetben kell végrehajtani. Az országos parancsnok erre a célra – kivételesen – más bv. intézetet is kijelölhet.
 
 (2) A Be. 135. § (2) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – az előzetes letartóztatás rendőrségi fogdában is végrehajtható.
+
+(2a) A Be. 542/H. § (2) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és az előzetes letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
 
 (3) A Be. 141. § (2) bekezdésében meghatározott esetben az előzetes letartóztatást az IMEI-ben kell végrehajtani. Az előzetes letartóztatás IMEI-ben történő végrehajtását a bíróság haladéktalanul megszünteti, ha az az IMEI szakorvosának véleménye vagy igazságügyi pszichiátriai szakértői vizsgálat alapján már nem indokolt.
 
