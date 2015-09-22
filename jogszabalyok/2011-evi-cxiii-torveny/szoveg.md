@@ -577,7 +577,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - d) a honvédelem szempontjából fokozott védelmet igénylő létesítmények őrzése és védelme,
 - e) egyes kijelölt létesítmények őrzése és védelme,
 - f) részvétel a szükségállapot idején az erőszakos cselekmények elhárításában (a továbbiakban: felhasználás),
-- g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása.
+- g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása,
+- h) a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején közreműködés az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában.
 
 (2) A Honvédség fegyverhasználati jog nélkül látja el a következő feladatokat:
 
@@ -591,9 +592,13 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 37. § (1) A Honvédség felhasználása esetén meg kell határozni annak célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A kirendelt erők a Honvédség állományába tartozó kijelölt parancsnok vezetésével hajtják végre a feladatot.
 
-(2) A 36. § (2) bekezdés a) pontja szerinti közreműködői feladatát az abban résztvevő honvédségi szervezetek katonai függelmi rendszerben, saját parancsnokaik vezetésével hajtják végre.
+(1a) A 36. § (1) bekezdés h) pontja szerinti közreműködés során a Honvédség a rendőrség feladat- és hatáskörét nem vonhatja el.
 
-(3) A 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Honvéd Vezérkar főnöke, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
+(1b) A 36. § (1) bekezdés h) pontja szerinti közreműködés során a katona kizárólag a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzetet kihirdető kormányrendeletben meghatározott területen – e törvényben meghatározottak szerint – segítheti a rendőr feladatainak ellátását.
+
+(2) A 36. § (1) bekezdés h) pontja, valamint a 36. § (2) bekezdés a) pontja szerinti közreműködői feladatukat az abban résztvevő honvédségi szervezetek katonai függelmi rendszerben, saját parancsnokaik vezetésével hajtják végre.
+
+(3) A 36. § (1) bekezdés h) pontja szerinti közreműködői feladat során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A 36. § (1) bekezdés h) pontjában és a 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Honvéd Vezérkar főnöke, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
 
 (4) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a honvédelemért felelős miniszter engedélyével, megállapodás alapján, térítés ellenében, ideiglenesen átengedhetők.
 
@@ -820,7 +825,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 #### 35. Az őrzés-védelem
 
-54. § (1) A katonai szervezetek objektumait, létesítményeit, szállítmányait, javait fontosságuknak megfelelően őrizni, személyi állományát pedig védelmezni kell. Az őrzés katonai erővel, fegyveres biztonsági őrséggel, technikai rendszer telepítésével, őrkutyákkal, és ezek kombinált alkalmazásával biztosítható.
+54. § (1) A katonai szervezetek objektumait, létesítményeit, szállítmányait, javait fontosságuknak megfelelően őrizni, személyi állományát pedig védelmezni kell. A Honvédség által védendő, kijelölt létesítményeket a Honvédség kormányrendeletben meghatározottak szerint őrzi. Az őrzés katonai erővel, fegyveres biztonsági őrséggel, technikai rendszer telepítésével, őrkutyákkal, és ezek kombinált alkalmazásával biztosítható.
 
 (2) Az őrzés-védelmet szervezetszerű feladatként ellátó egységeket, valamint az eseti intézkedéssel vezényelt őröket őrzés-védelmi feladataik ellátására fel kell készíteni. Ennek keretében biztosítani kell a szükséges ismeretek készségszintű elsajátítását. Az őrzés-védelemre való felkészülést és a szolgálatteljesítést rendszeresen ellenőrizni kell.
 
@@ -843,6 +848,21 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 (2) A katonai rendész a forgalomban való részvételt megtilthatja, ha a jármű vagy vezetőjének állapota a közúti forgalom biztonságát veszélyezteti, és a további jogellenes járműhasználat megakadályozása céljából a jármű kulcsait elveheti, és a járművet más módon mozgásában korlátozhatja.
 
 54/C. § A katonai rendészeti szervek feladataikat önállóan vagy a rendőrséggel együttműködésben, továbbá nyomozótiszt, katonai ügyész utasítása alapján teljesítik.
+
+#### 35/B. A katona tömeges bevándorlás okozta válsághelyzetben való közreműködése
+
+54/D. § (1) A 36. § (1) bekezdés h) pontja szerinti feladatra vezényelt katona – e törvény rendelkezéseitől eltérően –
+
+- a) a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 29–32. §-ában, 33. § (1) bekezdés a) és f) pontjában, 33. § (2) bekezdés a)–b) és f) pontjában, 35–36. §-ában, 37. § a) és e) pontjában, továbbá 42–43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
+- b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
+
+(2) Ha a katona az (1) bekezdés szerinti rendőri intézkedés végrehajtásában közreműködik, eljárására az Rtv.-ben meghatározott szabályok az irányadóak. A katona intézkedésének a jogszerűségét az e törvényben meghatározottak szerint kell vizsgálni.
+
+(3) A 36. § (1) bekezdés h) pontja szerinti feladat
+
+- a) végrehajtására vezényelt katonát nem terheli az e törvény szerinti fegyverhasználati kötelezettség,
+- b) végrehajtására vezényelt katona – ha más kényszerítő eszköz nem áll rendelkezésre vagy a használatára nincs lehetőség – bárkivel szemben testi sérülés okozására alkalmas, e törvényben meghatározottaktól eltérő, más kényszerítő eszközt is használhat, azonban annak használata nem irányulhat az emberi élet kioltására, és
+- c) végrehajtása során nem minősül lőfegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.
 
 #### 36. A katonai szervezetek fegyverhasználata
 
@@ -954,7 +974,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 61. § (1) A fegyver és egyéb kényszerítő eszköz alkalmazása során megsérült személy részére, a szolgálat megszakítása nélkül, szükség esetén mások segítségül hívásával, segítséget kell nyújtani, és gondoskodni kell arról, hogy a sérültet orvos elláthassa, kórházi elhelyezése esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló személy erről értesüljön.
 
-(2) A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul jelenteni kell, aki a kényszerítő eszköz alkalmazásának a jogszerűségét köteles megvizsgálni, majd – a műveleti területen végzett katonai tevékenység kivételével – álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt utasításra alkalmazták, annak jogszerűségéről a Honvéd Vezérkar főnöke foglal állást.
+(2) A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul jelenteni kell, aki a kényszerítő eszköz alkalmazásának a jogszerűségét köteles megvizsgálni, majd – a műveleti területen, valamint a 36. § (1) bekezdés h) pontja szerinti feladat végrehajtása során végzett katonai tevékenység kivételével – álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt utasításra alkalmazták, a jelentés megtétele az utasítást adó elöljáró kötelezettsége, és annak jogszerűségéről a Honvéd Vezérkar főnöke foglal állást.
 
 (3) A kényszerítő eszköz jogszerűtlennek minősített használatáról a katonai ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
 
