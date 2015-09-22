@@ -47,6 +47,8 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (4) A rendőrség külön törvény, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel, fellép a nemzetközi bűnözés ellen. Nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján – rendészeti feladatai ellátása során – magyar rendőr külföldön, rendőrségi vagy határrendészeti feladatokat ellátó külföldi szerv tagja Magyarország területén törvényben, illetve nemzetközi szerződésben meghatározott rendőrségi jogosítványokat gyakorolhat.
 
+(5) A rendőrség határrendészeti, bűnüldözési és bűnmegelőzési célból a nemzetbiztonsági szolgálatokkal együttműködve külföldön felderítő tevékenységet végezhet, amely során információkat gyűjt az államhatár rendjét veszélyeztető cselekmények, valamint a terrorizmussal összefüggő cselekmények felderítése és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtása érdekében.
+
 #### 2/A. §
 
 #### 3. §
@@ -585,7 +587,14 @@ igazolja.
 
 (3) A rendőrség a határforgalom ellenőrzése során engedélyezi a határátlépés jogszabályban meghatározott feltételeivel rendelkező személyek határátlépését, illetve megtagadja a határátlépés feltételeivel nem rendelkező személyek határátléptetését.
 
-#### 35/B. §
+### Járványügyi intézkedések tömeges bevándorlás okozta válsághelyzetben
+
+35/B. § A rendőrség a tömeges bevándorlás okozta válsághelyzetben, a járványügyi intézkedések biztosítása céljából
+
+- a) útvonalat, közterületet a forgalom elől elzárhat, a forgalmat korlátozhatja,
+- b) nyilvános és közforgalmú intézmények működését korlátozhatja,
+- c) magánlakásba – külön írásos utasítás birtokában – ellenőrzés, a helyszín megfigyelése és biztosítása céljából beléphet, és ott tartózkodhat,
+- d) területet, épületet lezárhat, és megakadályozhatja, hogy oda bárki belépjen vagy onnan távozzék, illetve az ott tartózkodókat távozásra kötelezheti.
 
 #### 35/C. §
 
@@ -595,7 +604,7 @@ igazolja.
 
 ### Biztonsági intézkedés
 
-37. § A rendőr az önveszélyes állapot vagy a személyeket, illetőleg az anyagi javakat közvetlenül fenyegető veszélyhelyzet megszüntetése érdekében
+37. § A rendőr az önveszélyes állapot vagy a személyeket, illetőleg az anyagi javakat közvetlenül fenyegető veszélyhelyzet megszüntetése, továbbá az államhatár védelme érdekében
 
 - a) megteszi a veszélyhelyzet elhárításához, megszüntetéséhez haladéktalanul szükséges, a feladatkörébe tartozó intézkedéseket;
 - b) intézkedik az önmagát vagy mást veszélyeztető állapotban lévő személy orvosi vizsgálatára, és közreműködik az egészségügyi intézetbe történő szállíttatásában;
