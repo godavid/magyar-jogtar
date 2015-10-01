@@ -52,6 +52,8 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - 22. harmadik személy: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely nem azonos az érintettel, az adatkezelővel vagy az adatfeldolgozóval;
 - 23. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - 24. harmadik ország: minden olyan állam, amely nem EGT-állam.
+- 25. kötelező szervezeti szabályozás: több országban, de köztük legalább egy EGT-államban is tevékenységet folytató adatkezelő vagy adatkezelők csoportja által elfogadott és a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: Hatóság) által jóváhagyott, az adatkezelőre vagy adatkezelők csoportjára nézve kötelező belső adatvédelmi szabályzat, amely a harmadik országba történő adattovábbítás esetén a személyes adatok védelmét az adatkezelő vagy adatkezelők csoportjának egyoldalú kötelezettségvállalása útján biztosítja;
+- 26. adatvédelmi incidens: személyes adat jogellenes kezelése vagy feldolgozása, így különösen a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés és sérülés.
 
 ### II. Fejezet — A SZEMÉLYES ADATOK VÉDELME
 
@@ -136,8 +138,9 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (2) A személyes adatok megfelelő szintű védelme akkor biztosított, ha
 
-- a) az Európai Unió kötelező jogi aktusa azt megállapítja, vagy
-- b) a harmadik ország és Magyarország között az érintetteknek a 14. §-ban foglalt jogai érvényesítésére, a jogorvoslati jog biztosítására, valamint az adatkezelés, illetve az adatfeldolgozás független ellenőrzésére vonatkozó garanciális szabályokat tartalmazó nemzetközi szerződés van hatályban.
+- a) az Európai Unió kötelező jogi aktusa azt megállapítja,
+- b) a harmadik ország és Magyarország között az érintetteknek a 14. §-ban foglalt jogai érvényesítésére, a jogorvoslati jog biztosítására, valamint az adatkezelés, illetve az adatfeldolgozás független ellenőrzésére vonatkozó garanciális szabályokat tartalmazó nemzetközi szerződés van hatályban, vagy
+- c) az adatkezelés, illetve az adatfeldolgozás kötelező szervezeti szabályozásnak megfelelően történik.
 
 (3) Személyes adatok a nemzetközi jogsegélyről, az adóügyi információcseréről, valamint a kettős adóztatás elkerüléséről szóló nemzetközi szerződés végrehajtása érdekében, a nemzetközi szerződésben meghatározott célból, feltételekkel és adatkörben – a (2) bekezdésben meghatározott feltételek hiányában is – továbbíthatók harmadik országba.
 
@@ -207,11 +210,15 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - b) személyes adatainak helyesbítését, valamint
 - c) személyes adatainak – a kötelező adatkezelés kivételével – törlését vagy zárolását.
 
-15. § (1) Az érintett kérelmére az adatkezelő tájékoztatást ad az érintett általa kezelt, illetve az általa vagy rendelkezése szerint megbízott adatfeldolgozó által feldolgozott adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapjáról és címzettjéről.
+15. § (1) Az érintett kérelmére az adatkezelő tájékoztatást ad az érintett általa kezelt, illetve az általa vagy rendelkezése szerint megbízott adatfeldolgozó által feldolgozott adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről, az adatvédelmi incidens körülményeiről, hatásairól és az elhárítására megtett intézkedésekről, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapjáról és címzettjéről.
+
+(1a) Az adatkezelő – ha belső adatvédelmi felelőssel rendelkezik, a belső adatvédelmi felelős útján – az adatvédelmi incidenssel kapcsolatos intézkedések ellenőrzése, valamint az érintett tájékoztatása céljából nyilvántartást vezet, amely tartalmazza az érintett személyes adatok körét, az adatvédelmi incidenssel érintettek körét és számát, az adatvédelmi incidens időpontját, körülményeit, hatásait és az elhárítására megtett intézkedéseket, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.
+
+(1b) Az elektronikus hírközlésről szóló törvény hatálya alá tartozó adatkezelő az (1a) bekezdésben meghatározott kötelezettségét az elektronikus hírközlésről szóló törvényben meghatározott, a személyes adatok megsértésének eseteit tartalmazó nyilvántartás vezetésével is teljesítheti.
 
 (2) Az adatkezelő az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából adattovábbítási nyilvántartást vezet, amely tartalmazza az általa kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.
 
-(3) A (2) bekezdés szerinti adatok adattovábbítási nyilvántartásban való megőrzésére irányuló – és ennek alapján a tájékoztatási – kötelezettség időtartamát az adatkezelést előíró jogszabály korlátozhatja. E korlátozás körében személyes adatok esetében öt évnél, különleges adatok esetében pedig húsz évnél rövidebb időtartam nem állapítható meg.
+(3) Az (1a) és a (2) bekezdés szerinti adatok nyilvántartásban való megőrzésére irányuló – és ennek alapján a tájékoztatási – kötelezettség időtartamát az adatkezelést előíró jogszabály korlátozhatja. E korlátozás körében személyes adatok esetében öt évnél, különleges adatok esetében pedig húsz évnél rövidebb időtartam nem állapítható meg.
 
 (4) Az adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 30 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.
 
@@ -219,7 +226,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 16. § (1) Az érintett tájékoztatását az adatkezelő csak a 9. § (1) bekezdésében, valamint a 19. §-ban meghatározott esetekben tagadhatja meg.
 
-(2) A tájékoztatás megtagadása esetén az adatkezelő írásban közli az érintettel, hogy a felvilágosítás megtagadására e törvény mely rendelkezése alapján került sor. A felvilágosítás megtagadása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz (a továbbiakban: Hatóság) fordulás lehetőségéről.
+(2) A tájékoztatás megtagadása esetén az adatkezelő írásban közli az érintettel, hogy a felvilágosítás megtagadására e törvény mely rendelkezése alapján került sor. A felvilágosítás megtagadása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
 
 (3) Az elutasított kérelmekről az adatkezelő a Hatóságot évente a tárgyévet követő év január 31-éig értesíti.
 
@@ -241,7 +248,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 18. § (1) A helyesbítésről, a zárolásról, a megjelölésről és a törlésről az érintettet, továbbá mindazokat értesíteni kell, akiknek korábban az adatot adatkezelés céljára továbbították. Az értesítés mellőzhető, ha ez az adatkezelés céljára való tekintettel az érintett jogos érdekét nem sérti.
 
-(2) Ha az adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 30 napon belül írásban közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait. A helyesbítés, törlés vagy zárolás iránti kérelem elutasítása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
+(2) Ha az adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 30 napon belül írásban vagy az érintett hozzájárulásával elektronikus úton közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait. A helyesbítés, törlés vagy zárolás iránti kérelem elutasítása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
 
 19. § Az érintettnek a 14–18. §-ban meghatározott jogait törvény korlátozhatja az állam külső és belső biztonsága, így a honvédelem, a nemzetbiztonság, a bűncselekmények megelőzése vagy üldözése, a büntetés-végrehajtás biztonsága érdekében, továbbá állami vagy önkormányzati gazdasági vagy pénzügyi érdekből, az Európai Unió jelentős gazdasági vagy pénzügyi érdekéből, valamint a foglalkozások gyakorlásával összefüggő fegyelmi és etikai vétségek, a munkajogi és munkavédelmi kötelezettségszegések megelőzése és feltárása céljából – beleértve minden esetben az ellenőrzést és a felügyeletet is –, továbbá az érintett vagy mások jogainak védelme érdekében.
 
@@ -352,6 +359,8 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (3) Ha törvény másként nem rendelkezik, közérdekből nyilvános adat a jogszabály vagy állami, illetőleg helyi önkormányzati szervvel kötött szerződés alapján kötelezően igénybe veendő vagy más módon ki nem elégíthető szolgáltatást nyújtó szervek vagy személyek kezelésében lévő, e tevékenységükre vonatkozó, személyes adatnak nem minősülő adat.
 
+(4) A (3) bekezdésben meghatározott szerv vagy személy a (3) bekezdésben meghatározott adatok megismerésére irányuló igény teljesítése során a 28–31. § szerint jár el.
+
 27. § (1) A közérdekű vagy közérdekből nyilvános adat nem ismerhető meg, ha az a minősített adat védelméről szóló törvény szerinti minősített adat.
 
 (2) A közérdekű és közérdekből nyilvános adatok megismeréséhez való jogot – az adatfajták meghatározásával – törvény
@@ -375,7 +384,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (5) A közfeladatot ellátó szerv feladat- és hatáskörébe tartozó döntés meghozatalára irányuló eljárás során készített vagy rögzített, a döntés megalapozását szolgáló adat a keletkezésétől számított tíz évig nem nyilvános. Ezen adatok megismerését – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével – az azt kezelő szerv vezetője engedélyezheti.
 
-(6) A döntés megalapozását szolgáló adat megismerésére irányuló igény – az (5) bekezdésben meghatározott időtartamon belül – a döntés meghozatalát követően akkor utasítható el, ha az adat megismerése a közfeladatot ellátó szerv törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, így különösen az adatot keletkeztető álláspontjának a döntések előkészítése során történő szabad kifejtését veszélyeztetné.
+(6) A döntés megalapozását szolgáló adat megismerésére irányuló igény – az (5) bekezdésben meghatározott időtartamon belül – a döntés meghozatalát követően akkor utasítható el, ha az adat további jövőbeli döntés megalapozását is szolgálja, vagy az adat megismerése a közfeladatot ellátó szerv törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, így különösen az adatot keletkeztető álláspontjának a döntések előkészítése során történő szabad kifejtését veszélyeztetné.
 
 (7) Jogszabály a döntés megalapozását szolgáló egyes adatok megismerhetőségének korlátozására az (5) bekezdésben meghatározottnál rövidebb időtartamot állapíthat meg.
 
@@ -385,27 +394,39 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 28. § (1) A közérdekű adat megismerése iránt szóban, írásban vagy elektronikus úton bárki igényt nyújthat be. A közérdekből nyilvános adatok megismerésére a közérdekű adatok megismerésére vonatkozó rendelkezéseket kell alkalmazni.
 
-(2) Ha törvény másként nem rendelkezik, az adatigénylő személyes adatai csak annyiban kezelhetők, amennyiben az az igény teljesítéséhez és a másolatkészítésért megállapított költségtérítés megfizetéséhez szükséges. Az igény teljesítését, illetve a költségek megfizetését követően az igénylő személyes adatait haladéktalanul törölni kell.
+(2) Ha törvény másként nem rendelkezik, az adatigénylő személyes adatai csak annyiban kezelhetők, amennyiben az az igény teljesítéséhez, az igénynek a 29. § (1a) bekezdésében meghatározott szempont alapján való vizsgálatához, illetve az igény teljesítéséért megállapított költségtérítés megfizetéséhez szükséges. A 29. § (1a) bekezdésében meghatározott idő elteltét, illetve a költségek megfizetését követően az igénylő személyes adatait haladéktalanul törölni kell.
 
 (3) Ha az adatigénylés nem egyértelmű, az adatkezelő felhívja az igénylőt az igény pontosítására.
 
 29. § (1) A közérdekű adat megismerésére irányuló igénynek az adatot kezelő közfeladatot ellátó szerv az igény beérkezését követő legrövidebb idő alatt, legfeljebb azonban 15 napon belül tesz eleget.
 
-(2) Ha az adatigénylés jelentős terjedelmű, illetve nagyszámú adatra vonatkozik, az (1) bekezdésben meghatározott határidő egy alkalommal 15 nappal meghosszabbítható. Erről az igénylőt az igény kézhezvételét követő 8 napon belül tájékoztatni kell.
+(1a) Az adatigénylésnek az adatot kezelő közfeladatot ellátó szerv nem köteles eleget tenni abban a részben, amelyben az azonos igénylő által egy éven belül benyújtott, azonos adatkörre irányuló adatigényléssel megegyezik, feltéve, hogy az azonos adatkörbe tartozó adatokban változás nem állt be.
+
+(1b) Az adatigénylésnek az adatot kezelő közfeladatot ellátó szerv nem köteles eleget tenni, ha az igénylő nem adja meg nevét, nem természetes személy igénylő esetén megnevezését, valamint azt az elérhetőséget, amelyen számára az adatigényléssel kapcsolatos bármely tájékoztatás és értesítés megadható.
+
+(2) Ha az adatigénylés jelentős terjedelmű, illetve nagyszámú adatra vonatkozik, vagy az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, az (1) bekezdésben meghatározott határidő egy alkalommal 15 nappal meghosszabbítható. Erről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
 
 (2a) Ha az igénylés olyan adatra vonatkozik, amelyet az Európai Unió valamely intézménye vagy tagállama állított elő, az adatkezelő haladéktalanul megkeresi az Európai Unió érintett intézményét vagy tagállamát és erről az igénylőt tájékoztatja. A tájékoztatás megtételétől az Európai Unió érintett intézménye vagy tagállama válaszának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
 
-(3) Az adatokat tartalmazó dokumentumról vagy dokumentumrészről, annak tárolási módjától függetlenül az igénylő másolatot kaphat. Az adatot kezelő közfeladatot ellátó szerv a másolat készítéséért – az azzal kapcsolatban felmerült költség mértékéig terjedően – költségtérítést állapíthat meg, amelynek összegéről az igénylőt az igény teljesítését megelőzően tájékoztatni kell.
+(3) Az adatokat tartalmazó dokumentumról vagy dokumentumrészről, annak tárolási módjától függetlenül az igénylő másolatot kaphat. Az adatot kezelő közfeladatot ellátó szerv az adatigénylés teljesítéséért – az azzal kapcsolatban felmerült költség mértékéig terjedően – költségtérítést állapíthat meg, amelynek összegéről az igénylőt az igény teljesítését megelőzően tájékoztatni kell.
 
-(4) Ha az a dokumentum vagy dokumentumrész, amelyről az igénylő másolatot igényelt, jelentős terjedelmű, a másolat iránti igényt a költségtérítésnek az igénylő általi megfizetését követő 15 napon belül kell teljesíteni. Arról, hogy a másolatként igényelt dokumentum vagy dokumentumrész jelentős terjedelmű, továbbá a költségtérítés mértékéről, valamint az adatigénylés teljesítésének a másolatkészítést nem igénylő lehetőségeiről az igénylőt az igény kézhezvételét követő 8 napon belül tájékoztatni kell.
+(3a) Az igénylő a (3) bekezdés alapján kapott tájékoztatás kézhezvételét követő 30 napon belül nyilatkozik arról, hogy az igénylését fenntartja-e. A tájékoztatás megtételétől az igénylő nyilatkozatának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele. Ha az igénylő az igényét fenntartja, a költségtérítést az adatkezelő által megállapított, legalább 15 napos határidőben köteles az adatkezelő részére megfizetni.
 
-(5) A költségtérítés mértékének megállapítása során figyelembe vehető költségelemeket és azok legmagasabb mértékét, valamint a másolatként igényelt dokumentum jelentős terjedelmének megállapítása során alkalmazandó szempontokat jogszabály határozza meg.
+(4) Ha az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, vagy az a dokumentum vagy dokumentumrész, amelyről az igénylő másolatot igényelt, jelentős terjedelmű, illetve a költségtérítés mértéke meghaladja a kormányrendeletben meghatározott összeget, az adatigénylést a költségtérítésnek az igénylő általi megfizetését követő 15 napon belül kell teljesíteni. Arról, hogy az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, illetve a másolatként igényelt dokumentum vagy dokumentumrész jelentős terjedelmű, továbbá a költségtérítés mértékéről, valamint az adatigénylés teljesítésének a másolatkészítést nem igénylő lehetőségeiről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
+
+(5) A költségtérítés mértékének meghatározása során az alábbi költségelemek vehetők figyelembe:
+
+- a) az igényelt adatokat tartalmazó adathordozó költsége,
+- b) az igényelt adatokat tartalmazó adathordozó az igénylő részére történő kézbesítésének költsége, valamint
+- c) ha az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, az adatigénylés teljesítésével összefüggő munkaerő-ráfordítás költsége.
+
+(6) Az (5) bekezdésben meghatározott költségelemek megállapítható mértékét jogszabály határozza meg.
 
 30. § (1) Ha a közérdekű adatot tartalmazó dokumentum az igénylő által meg nem ismerhető adatot is tartalmaz, a másolaton a meg nem ismerhető adatot felismerhetetlenné kell tenni.
 
-(2) Az adatigénylésnek közérthető formában és – amennyiben ezt az adatot kezelő közfeladatot ellátó szerv aránytalan nehézség nélkül teljesíteni képes – az igénylő által kívánt technikai eszközzel, illetve módon kell eleget tenni. Ha a kért adatot korábban már elektronikus formában nyilvánosságra hozták, az igény teljesíthető az adatot tartalmazó nyilvános forrás megjelölésével is. Az adatigénylést nem lehet elutasítani arra való hivatkozással, hogy annak közérthető formában nem lehet eleget tenni.
+(2) Az adatigénylésnek közérthető formában és – amennyiben ezt az adatot kezelő közfeladatot ellátó szerv aránytalan nehézség nélkül teljesíteni képes – az igénylő által kívánt formában, illetve módon kell eleget tenni. Ha a kért adatot korábban már elektronikus formában nyilvánosságra hozták, az igény teljesíthető az adatot tartalmazó nyilvános forrás megjelölésével is. Az adatigénylést nem lehet elutasítani arra való hivatkozással, hogy annak közérthető formában nem lehet eleget tenni.
 
-(3) Az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt e törvény alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, 8 napon belül írásban vagy – ha az igényben elektronikus levelezési címét közölte – elektronikus levélben értesíteni kell az igénylőt. Az elutasított kérelmekről, valamint az elutasítások indokairól az adatkezelő nyilvántartást vezet, és az abban foglaltakról minden évben január 31-éig tájékoztatja a Hatóságot.
+(3) Az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt e törvény alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, az igény beérkezését követő 15 napon belül írásban vagy – ha az igényben elektronikus levelezési címét közölte – elektronikus levélben értesíteni kell az igénylőt. Az elutasított kérelmekről, valamint az elutasítások indokairól az adatkezelő nyilvántartást vezet, és az abban foglaltakról minden évben január 31-éig tájékoztatja a Hatóságot.
 
 (4) A közérdekű adat megismerése iránti igény teljesítése nem tagadható meg azért, mert a nem magyar anyanyelvű igénylő az igényét anyanyelvén vagy az általa értett más nyelven fogalmazza meg.
 
@@ -413,13 +434,13 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (6) A közfeladatot ellátó szervnek a közérdekű adatok megismerésére irányuló igények teljesítésének rendjét rögzítő szabályzatot kell készítenie.
 
-(7) A közfeladatot ellátó szerv gazdálkodásának átfogó, számlaszintű, illetve tételes ellenőrzésére irányuló adatmegismerésekre külön törvények rendelkezései irányadók. Ha erre való hivatkozással az adatigénylés elutasításra kerül, az adatigénylő az 52. § alapján a Hatóságnál bejelentéssel vizsgálatot kezdeményezhet.
+(7) A közfeladatot ellátó szerv gazdálkodásának átfogó, számlaszintű, illetve tételes ellenőrzésére irányuló adatmegismerésekre külön törvények rendelkezései irányadók. Erre való hivatkozással az adatkezelő az adatigénylést az igénylés tárgyát képező irat másolata helyett a jogviszony alanyainak, a jogviszony típusának, a jogviszony tárgyának, a szolgáltatás és ellenszolgáltatás mértékének és teljesítése időpontjának megjelölésével is teljesítheti.
 
-31. § (1) Az igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása vagy a teljesítésre nyitva álló, vagy az adatkezelő által a 29. § (2) bekezdése szerint meghosszabbított határidő eredménytelen eltelte esetén, valamint – ha a költségtérítést nem fizette meg – a másolat készítéséért megállapított költségtérítés összegének felülvizsgálata érdekében bírósághoz fordulhat.
+31. § (1) Az igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása vagy a teljesítésre nyitva álló, vagy az adatkezelő által a 29. § (2) bekezdése szerint meghosszabbított határidő eredménytelen eltelte esetén, valamint az adatigénylés teljesítéséért megállapított költségtérítés összegének felülvizsgálata érdekében bírósághoz fordulhat.
 
-(2) A megtagadás jogszerűségét és a megtagadás indokait, illetve a másolat készítéséért megállapított költségtérítés összegének megalapozottságát az adatkezelőnek kell bizonyítania.
+(2) A megtagadás jogszerűségét és a megtagadás indokait, illetve az adatigénylés teljesítéséért megállapított költségtérítés összegének megalapozottságát az adatkezelőnek kell bizonyítania.
 
-(3) A pert az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított harminc napon belül kell megindítani az igényt elutasító közfeladatot ellátó szerv ellen. Ha az igény elutasítása, nem teljesítése vagy a másolat készítéséért megállapított költségtérítés összege miatt az igénylő a Hatóság vizsgálatának kezdeményezése érdekében a Hatóságnál bejelentést tesz, a pert a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről, az 55. § (1) bekezdés b) pontja szerinti lezárásáról szóló vagy az 58. § (3) bekezdése szerinti értesítés kézhezvételét követő harminc napon belül lehet megindítani. A perindításra rendelkezésre álló határidő elmulasztása esetén igazolásnak van helye.
+(3) A pert az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított harminc napon belül kell megindítani az igényt elutasító közfeladatot ellátó szerv ellen. Ha az igény elutasítása, nem teljesítése vagy az adatigénylés teljesítéséért megállapított költségtérítés összege miatt az igénylő a Hatóság vizsgálatának kezdeményezése érdekében a Hatóságnál bejelentést tesz, a pert a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről, az 55. § (1) bekezdés b) pontja szerinti lezárásáról szóló vagy az 58. § (3) bekezdése szerinti értesítés kézhezvételét követő harminc napon belül lehet megindítani. A perindításra rendelkezésre álló határidő elmulasztása esetén igazolásnak van helye.
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő pernyertessége érdekében beavatkozhat.
 
@@ -429,7 +450,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a per tárgyalását felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
 
-(7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság a másolat készítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
+(7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság az adatigénylés teljesítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
 
 ### IV. Fejezet — A KÖZÉRDEKŰ ADATOK KÖZZÉTÉTELE
 
@@ -482,7 +503,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (5) Testületi szervként működő közzétételre kötelezett szerv esetén az egyedi közzétételi lista megállapítása és módosítása – a Hatóság véleményének kikérésével – a testület hatáskörébe tartozik.
 
-(6) A közzétételre kötelezett szerv vezetője a közzétételi listában nem szereplő közérdekű adatokra vonatkozó adatigénylések adatai alapján évente felülvizsgálja az általa a (3) bekezdés szerint kiadott közzétételi listát, és a jelentős arányban vagy mennyiségben felmerült adatigénylések alapján azt kiegészíti.
+(6) A közzétételre kötelezett szerv vezetője a közzétételi listában nem szereplő közérdekű adatokra vonatkozó adatigénylések adatai alapján legalább évente felülvizsgálja az általa a (3) bekezdés szerint kiadott közzétételi listát, és a jelentős arányban vagy mennyiségben felmerült adatigénylések alapján azt kiegészíti.
 
 (7) A közzétételi listában – a közzéteendő adat jellegétől függően – a közzététel gyakorisága is megállapítható.
 
@@ -672,6 +693,8 @@ dönt.
 
 52. § (1) A Hatóságnál bejelentéssel bárki vizsgálatot kezdeményezhet arra hivatkozással, hogy személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye fennáll.
 
+(1a) A Hatóság vizsgálata a 31. § (1) bekezdésében meghatározott indokok valamelyikén alapuló bejelentés esetén az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított egy éven belül kezdeményezhető.
+
 (2) A Hatóság vizsgálata nem minősül közigazgatási hatósági eljárásnak, arra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt nem kell alkalmazni.
 
 (3) A Hatósághoz tett bejelentése miatt senkit sem érhet hátrány. A bejelentő kilétét a Hatóság csak akkor fedheti fel, ha ennek hiányában a vizsgálat nem lenne lefolytatható. Ha a bejelentő kéri, kilétét a Hatóság akkor sem fedheti fel, ha ennek hiányában a vizsgálat nem folytatható le. Erről a következményről a Hatóság a bejelentőt köteles tájékoztatni.
@@ -690,7 +713,8 @@ dönt.
 - a) az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született,
 - b) az 52. § (3) bekezdése szerinti tájékoztatás ellenére a bejelentő továbbra is kéri, hogy a kilétét ne fedjék fel,
 - c) a bejelentés nyilvánvalóan alaptalan,
-- d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz.
+- d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz,
+- e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be.
 
 (4) Ha a bejelentést az alapvető jogok biztosa tette, a Hatóság a bejelentést érdemi vizsgálat nélkül csak abban az esetben utasíthatja el, ha az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
 
@@ -708,7 +732,7 @@ dönt.
 - a) a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, illetve azokról másolatot kérhet,
 - b) a vizsgált üggyel összefüggésbe hozható adatkezelést megismerheti, az adatkezelés helyszínéül szolgáló helyiségbe beléphet,
 - c) a vizsgált adatkezelőtől, illetve az adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
-- d) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást kérhet, és
+- d) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható iratról másolatot kérhet, és
 - e) az adatkezelő hatóság felügyeleti szervének vezetőjét vizsgálat lefolytatására kérheti fel.
 
 (2) A Hatóság (1) bekezdés szerinti kérésének a vizsgált adatkezelő, illetve az eljárási cselekménnyel érintett más szervezet vagy személy a Hatóság által megállapított határidőn belül köteles eleget tenni. A Hatóság által megállapított határidő az (1) bekezdés d) és e) pontja szerinti esetben tizenöt napnál rövidebb nem lehet.
@@ -777,24 +801,25 @@ dönt.
 
 (4) A Hatóság adatvédelmi hatósági eljárást indít, ha a bejelentésen alapuló vizsgálat alapján vagy egyébként valószínűsíthető a személyes adatok jogellenes kezelése, és a jogellenes adatkezelés
 
-- a) személyek széles körét érinti,
-- b) különleges adatokat érint, vagy
+- a) személyek széles körét érinti, vagy
+- b)
 - c) nagy érdeksérelmet vagy kárveszélyt idézhet elő.
 
-(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő két hónap.
+(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő két hónap, amely egy alkalommal, legfeljebb harminc nappal hosszabbítható meg.
 
 61. § (1) Az adatvédelmi hatósági eljárásban hozott határozatában a Hatóság
 
-- a) elrendelheti a valóságnak nem megfelelő személyes adat helyesbítését,
-- b) elrendelheti a jogellenesen kezelt személyes adatok zárolását, törlését vagy megsemmisítését,
-- c) megtilthatja a személyes adatok jogellenes kezelését vagy feldolgozását,
-- d) megtilthatja a személyes adatok külföldre történő továbbítását vagy átadását,
-- e) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen tagadta meg, valamint
-- f) bírságot szabhat ki.
+- a) megállapíthatja a személyes adatok jogellenes kezelésének vagy feldolgozásának tényét,
+- b) elrendelheti a valóságnak nem megfelelő személyes adat helyesbítését,
+- c) elrendelheti a jogellenesen kezelt vagy feldolgozott személyes adatok zárolását, törlését vagy megsemmisítését,
+- d) megtilthatja a személyes adatok jogellenes kezelését vagy feldolgozását,
+- e) megtilthatja a személyes adatok külföldre történő továbbítását vagy átadását,
+- f) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen tagadta meg, valamint
+- g) bírságot szabhat ki.
 
-(2) A Hatóság elrendelheti határozatának – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha azt az adatvédelem érdekeinek, illetve nagyobb számú érintett e törvény szerinti jogainak védelme megköveteli.
+(2) A Hatóság elrendelheti határozatának – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha a határozat személyek széles körét érinti, ha azt közfeladatot ellátó szerv tevékenységével összefüggésben hozta, vagy ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
 
-(3) Az (1) bekezdés f) pontja szerint kiszabott bírság mértéke százezertől tízmillió forintig terjedhet.
+(3) Az (1) bekezdés g) pontja szerint kiszabott bírság mértéke százezertől húszmillió forintig terjedhet.
 
 (4) A Hatóság annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát és a jogsértés ismétlődő jellegét – veszi figyelembe.
 
@@ -850,6 +875,23 @@ dönt.
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége.
 
 (5) A bíróság kérelemre elrendelheti ítéletének – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha azt az adatvédelem, illetve az információszabadság érdekeinek és nagyobb számú érintett e törvényben védett jogainak védelme megköveteli.
+
+#### 34/A. A kötelező szervezeti szabályozás jóváhagyására irányuló eljárás
+
+64/A. § (1) A kötelező szervezeti szabályozás jóváhagyását az adatkezelő kérelmezheti a Hatóságnál. Kötelező szervezeti szabályozás jóváhagyásának kérelmezésére nem jogosult az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó adatkezelő.
+
+(2) A kötelező szervezeti szabályozás jóváhagyása iránti kérelemnek tartalmaznia kell
+
+- a) az adatkezelő vagy adatkezelők csoportja által végzett adatkezelésre vonatkozóan a 65. § (1) bekezdés a)–j) pontjában meghatározott adatokat vagy az adatkezelés nyilvántartási számát,
+- b) a kötelező szervezeti szabályozás tervezetét,
+- c) a kötelező szervezeti szabályozás kötelező jellegének igazolására szolgáló adatokat,
+- d) ha a kötelező szervezeti szabályozást más EGT-állam adatvédelmi hatósága jóváhagyta, az ennek igazolására szolgáló adatokat.
+
+64/B. § A kötelező szervezeti szabályozás jóváhagyása iránti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+64/C. § (1) A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelmet hatvan napon belül bírálja el. A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelem elbírálásakor a kötelező szervezeti szabályozást jóváhagyja, módosítását javasolja vagy a kérelmet elutasítja.
+
+(2) A Hatóság az érintettek tájékoztatásának elősegítése érdekében honlapján közzéteszi a kötelező szervezeti szabályozást alkalmazó adatkezelő megnevezését.
 
 #### 35. Adatvédelmi nyilvántartás
 
@@ -965,7 +1007,7 @@ szükséges.
 72. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) állapítsa meg a közérdekű adatok elektronikus közzétételének részletszabályait,
-- b) állapítsa meg a közérdekű adat iránti igény teljesítése érdekében készített másolatért fizetendő költségtérítés mértékének megállapítása során figyelembe vehető költségelemeket és azok legmagasabb mértékét, valamint a másolatként igényelt dokumentum jelentős terjedelmének megállapítása során alkalmazandó szempontokat,
+- b) állapítsa meg a közérdekű adat iránti igény teljesítéséért fizetendő költségtérítés megállapítható mértékét és a 29. § (4) bekezdése szerinti összeghatárt,
 - c) különös közzétételi listát állapíthasson meg,
 - d) állapítsa meg az egységes közadatkereső rendszer és a központi jegyzék adattartalmát, valamint az adatintegrációra vonatkozó szabályokat,
 - e) – a Hatóság véleményének kikérésével – állapítsa meg a nemzetbiztonsági szolgálatok által közzéteendő adatok körét.
@@ -976,7 +1018,7 @@ szükséges.
 - b) az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
 - c)
 
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatvédelmi nyilvántartásba vételért és az adatvédelmi auditért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben a kötelező szervezeti szabályozás jóváhagyásáért, az adatvédelmi nyilvántartásba vételért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
 
 73. § (1) E törvény – a (2) és (3) bekezdésben meghatározott kivételekkel – a kihirdetését követő napon lép hatályba.
 
