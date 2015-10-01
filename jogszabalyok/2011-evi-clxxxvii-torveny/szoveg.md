@@ -1319,9 +1319,9 @@ vonatkozóan.
 - g) együttműködik a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával a szakképzési feladatok és a szakképzésfejlesztés tervezésében,
 - h) közreműködik a pályaorientációs és a pályakövetési feladatok megvalósításában.
 
-83. § (1) A bizottság létszáma hét fő.
+83. § (1) A bizottság létszáma öt fő.
 
-(2) A bizottság az NGTT-ben képviselettel rendelkező országos munkaadói, munkavállalói szövetségek, illetve azok szervezetei (kettő fő), a területi gazdasági kamarák (kettő fő), a kormányhivatal (egy fő a foglalkoztatási, egy fő a köznevelési feladatellátás tekintetében), valamint a megyei közgyűlés (egy fő) képviselőiből áll.
+(2) A bizottság az NGTT-ben képviselettel rendelkező országos munkaadói, munkavállalói szövetségek, illetve azok szervezetei (kettő fő), a területi gazdasági kamarák (kettő fő) és a foglalkoztatási feladatkörében eljáró fővárosi és megyei kormányhivatal (egy fő) képviselőiből áll.
 
 (3) A bizottság elnökét, társelnökét és tagjait a szakképzésért és felnőttképzésért felelős miniszter kéri fel hároméves időtartamra a bizottság munkájában való közreműködésre. A bizottság elnökére a bizottság tagjai közül az országos kereskedelmi és iparkamara tesz javaslatot.
 

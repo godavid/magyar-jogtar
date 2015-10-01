@@ -26,9 +26,15 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 
 (5) Az írásbeli értesítés mellőzhető, ha a panasz vagy a közérdekű bejelentés elintézéséről a panaszost vagy közérdekű bejelentőt szóban tájékoztatták, aki a tájékoztatást tudomásul vette.
 
-(6) A korábbival azonos tartalmú, ugyanazon panaszos vagy közérdekű bejelentő által tett ismételt, továbbá az azonosíthatatlan személy által tett panasz vagy közérdekű bejelentés vizsgálata mellőzhető.
+(6)–(7)
 
-(7) A panasz vizsgálata mellőzhető a (6) bekezdésben meghatározott eseteken kívül akkor is, ha a panaszos a sérelmezett tevékenységről vagy mulasztásról való tudomásszerzéstől számított hat hónap után terjesztette elő panaszát. A sérelmezett tevékenység vagy mulasztás bekövetkeztétől számított az egy éven túl előterjesztett panaszt érdemi vizsgálat nélkül el kell utasítani.
+2/A. § (1) A korábbival azonos tartalmú, ugyanazon panaszos vagy közérdekű bejelentő által tett ismételt panasz vagy közérdekű bejelentés vizsgálata mellőzhető.
+
+(2) A panasz vizsgálata mellőzhető az (1) bekezdésben meghatározott eseteken kívül akkor is, ha a panaszos a sérelmezett tevékenységről vagy mulasztásról való tudomásszerzéstől számított hat hónap után terjesztette elő panaszát. A sérelmezett tevékenység vagy mulasztás bekövetkeztétől számított egy éven túl előterjesztett panaszt érdemi vizsgálat nélkül el kell utasítani.
+
+(3) Az azonosíthatatlan személy által tett panasz vagy közérdekű bejelentés vizsgálatát az eljárásra jogosult szerv mellőzi.
+
+(4) A (3) bekezdés alkalmazásától az eljárásra jogosult szerv eltekinthet és a panaszt vagy közérdekű bejelentést megvizsgálja, ha a panasz vagy a közérdekű bejelentés alapjául súlyos jog- vagy érdeksérelem szolgál.
 
 3. § (1) A panasz vagy a közérdekű bejelentés alapján – ha alaposnak bizonyul – gondoskodni kell
 
@@ -56,7 +62,7 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 
 (4) Az elektronikus rendszerben a közérdekű bejelentő azonosításához a nevét és lakcímét kell tárolni.
 
-5. § (1) Az elektronikus rendszer a beérkezett közérdekű bejelentést automatikusan egyedi azonosító számmal látja el.
+5. § (1) Az elektronikus rendszer a beérkezett közérdekű bejelentést – ha a közérdekű bejelentő a 4. § (4) bekezdése szerinti adatait rendelkezésre bocsátja – automatikusan egyedi azonosító számmal látja el.
 
 (2) Az elektronikus rendszeren keresztül benyújtott közérdekű bejelentés rövid, személyes és egyedi intézményi adatok nélküli tartalmi kivonatát és elintézésének állását az egyedi azonosító szám alapján az alapvető jogok biztosa az interneten mindenki számára hozzáférhetővé teszi. Az ügy lezárását követően a közérdekű bejelentésben érintett és – ha az nem ugyanaz – az eljárásra jogosult szerv elnevezését is hozzáférhetővé kell tenni.
 
@@ -72,7 +78,7 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 
 8. § Az eljárásra jogosult szerv az 1. alcímben meghatározottak szerint köteles a közérdekű bejelentést intézni azzal az eltéréssel, hogy
 
-- a) az eljárásra jogosult szerv az intézkedéseiről szóló tájékoztatást – ennek keretében a közérdekű bejelentés vizsgálatának a 2. § (6) bekezdése alapján történő mellőzéséről szóló tájékoztatást is – az elektronikus rendszerben rögzíti,
+- a) az eljárásra jogosult szerv az intézkedéseiről szóló tájékoztatást – ennek keretében a közérdekű bejelentés vizsgálatának a 2/A. § alapján történő mellőzéséről szóló tájékoztatást is – az elektronikus rendszerben rögzíti,
 - b) a 6. § (1) bekezdése szerinti esetben
   - ba) a közérdekű bejelentő meghallgatására és szóbeli tájékoztatására nem kerülhet sor,
   - bb) a közérdekű bejelentés vizsgálatát nem lehet mellőzni azért, mert a közérdekű bejelentő az eljárásra jogosult szerv számára nem azonosítható,
