@@ -243,6 +243,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - u) a csődegyezség keretében, valamint a felszámolási eljárásban a követelés elengedése, feltéve, ha a követelés jogosultja nem a csődeljárás, felszámolási eljárás alá vont gazdálkodó szervezet tagja,
 - v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés,
 - z) összeghatárra tekintet nélkül a természetes személyek bíróságon kívüli vagy bírósági adósságrendezési eljárásában a hitelezők által adós javára elengedett követelés, továbbá az adósságtörlesztési határozatban és a mentesítési határozatban az az összeg, amit nem kell az adósnak a hitelezők számára megfizetnie;
+- zs) az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
 
 (2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 

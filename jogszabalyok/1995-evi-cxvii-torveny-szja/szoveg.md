@@ -3285,6 +3285,8 @@ b) az a követelés, amelyet az adósnak a bírósági adósságrendezési eljá
 
 c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által hozott adósságtörlesztési határozatban az adós számára meghatározott adósságrendezési kötelezettség teljesítése érdekében települési önkormányzattól, munkáltatótól, közhasznú szervezettől vagy egyházi jogi személytől kapott támogatás vagy adomány, ha annak egy naptári évben egy adományozótól juttatott összege havi átlagban nem éri el az öregségi nyugdíj legkisebb összegének másfélszeresét.
 
+7.30. az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
