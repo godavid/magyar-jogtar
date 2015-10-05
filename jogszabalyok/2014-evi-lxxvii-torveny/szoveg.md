@@ -226,6 +226,14 @@ közül a fogyasztó számára kedvezőbb devizaárfolyamon forintban meghatáro
 
 (3) Ha a fogyasztó a (2) bekezdésben meghatározott tájékoztatás kézhezvételét követő 30 napon belül a pénzügyi intézménynél írásban kezdeményezi, a pénzügyi intézmény köteles a forintra átváltott követelést az (1) bekezdésben meghatározott árfolyamon az eredeti devizanemben meghatározott követelésre visszaváltani.
 
+#### 6/A. A szerződés érvénytelensége (részleges érvénytelensége) iránti perekben alkalmazandó szabályok
+
+15/A. § (1) A fogyasztói kölcsönszerződés érvénytelenségének (részleges érvénytelenségének) megállapítása, illetve az érvénytelenség jogkövetkezményeinek levonása iránt indult és folyamatban lévő perekben e törvénynek a forintra váltást megállapító szabályait a fogyasztónak az elszámolási törvény alapján teljesített elszámolás szerint meghatározott, deviza vagy devizaalapú fogyasztói kölcsönszerződésből eredő tartozásának összegére is alkalmazni kell.
+
+(2) A fogyasztónak az elszámolás fordulónapján forintban megállapított tartozását a határozathozatalig terjedő időszakban a fogyasztó által teljesített törlesztés összege csökkenti.
+
+(3) A fogyasztói kölcsönszerződés érvényessé nyilvánítása esetén a feleknek az elszámolási törvény alapján teljesített elszámolás eredményeként meghatározott szerződéses jogait és kötelezettségeit e törvény szabályai alapján kell megállapítani.
+
 #### 7. Felülvizsgálat
 
 16. § (1) Ha a fogyasztó

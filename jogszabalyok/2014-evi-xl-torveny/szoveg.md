@@ -480,6 +480,10 @@ fogyasztói kölcsönszerződés vonatkozásában az egyoldalú szerződésmódo
 
 (3) Ha a folyamatban lévő eljárásban a keresetlevél idézés kibocsátása nélküli elutasításának már nincs helye, az eljárást meg kell szüntetni, ha a fél a keresetében (viszontkeresetében) a bíróság erre irányuló hiánypótlási felhívásának kézbesítésétől számított 30 napon belül nem kéri az érvénytelen szerződés érvénytelensége vagy részleges érvénytelensége jogkövetkezményének levonását, továbbá nem jelöli meg, hogy milyen jogkövetkezmény alkalmazását kéri. Nincs helye az eljárás megszüntetésének, ha a fél a szerződés érvénytelenségének vagy részleges érvénytelenségének megállapítása iránti kereseti kérelme mellett az eljárásban más kereseti kérelmet is előterjesztett; ebben az esetben úgy kell tekinteni, hogy a fél a megállapítás iránti kereseti kérelmet nem tartja fenn.
 
+37/A. § (1) Az érvénytelenség jogkövetkezményeinek levonása során a felek fizetési kötelezettségét a bíróság – a 38. § (6) bekezdés szerinti felülvizsgált elszámolás adatainak alapul vételével – az e törvényben meghatározott elszámolási szabályok alkalmazásával állapítja meg.
+
+(2) Az elszámolás fordulónapját követően a határozathozatalig terjedő időszakban teljesített törlesztést az erre irányadó szabályok szerint a fogyasztó javára kell elszámolni.
+
 #### 17. A felfüggesztett perekre vonatkozó szabályok
 
 38. § (1) A 2014. évi XXXVIII. törvény
