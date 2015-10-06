@@ -233,57 +233,7 @@ panaszt kizárólag írásban terjeszthet elő a pénzügyi intézmény felé.
 
 (2) A pénzügyi intézmény az e törvény hatálya alá tartozó már felmondott devizaalapú kölcsönszerződésből eredő követelés forintra átváltását az érintett fogyasztóval szemben 2016. január 1. napjával teljesíti azzal, hogy annak hatásait a fogyasztóra vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2016. március 15-ig vezeti át, illetve rögzíti.
 
-25. § Az illetékekről szóló 1990. évi XCIII. törvény 17. § (1) bekezdése a következő zs) ponttal egészül ki:
-
-(Mentes az ajándékozási illeték alól:)
-
-„zs) az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.”
-
-26. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 1. számú melléklete a 3. melléklet szerint módosul.
-
-27. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/C. §-a helyébe a következő rendelkezés lép:
-
-„29/C. § (1) Az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló 2015. évi CXLV. törvény (a továbbiakban e §-ban: 2015. évi CXLV. törvény) 12. § (2) bekezdése és 16. §-a alapján az adózó által elengedett, fogyasztóval közölt tartozás 50 százaléka (a továbbiakban e §-ban: elengedési kedvezmény összege) csökkenti az adózó által a 2016-ban kezdődő adóévére fizetendő társasági adót, pénzügyi szervezetek különadóját, hitelintézeti különadót, pénzügyi tranzakciós illetéket. Az adózó az elengedési kedvezményt a döntése szerinti megosztásban számolhatja el az említett adók csökkentéseként (ideértve azt az esetet is, ha egyetlen adó csökkentéseként számolja el annak teljes összegét). Amennyiben az adózó döntése arra irányul, hogy az adott adókötelezettséget a lehető legnagyobb mértékben csökkentse, akkor ezt az önellenőrzés és az adóellenőrzés során is figyelembe veheti.
-
-(2) Ha az elengedési kedvezmény összege több, mint az (1) bekezdés szerint érvényesített csökkentés összege, akkor különbözetüket az adózó kapcsolt vállalkozásának minősülő (egy vagy több) pénzügyi intézmény érvényesítheti a 2016-ban kezdődő adóévére fizetendő társasági adója, pénzügyi szervezetek különadója, hitelintézeti különadó, pénzügyi tranzakciós illeték megállapításánál. Ha a különbözetet egynél több kapcsolt vállalkozásnak minősülő pénzügyi intézmény érvényesíti, akkor ezen adózókat e jogcímen külön-külön megillető adócsökkentés teljes összege nem haladhatja meg a különbözetet. Az adózó és kapcsolt vállalkozásának minősülő (egy vagy több) pénzügyi intézmény írásos megállapodásban rögzítik a külön-külön érvényesítendő csökkentés összegét.
-
-(3) Az elengedési kedvezmény összegének azon része, amelyre tekintettel az adózó vagy a kapcsolt vállalkozásának minősülő pénzügyi intézmény az (1)–(2) bekezdés szerinti csökkentést nem alkalmazta, csökkenti a 2016-ban kezdődő adóévet követő adóévekre az adózó és a kapcsolt vállalkozásának minősülő (egy vagy több) pénzügyi intézmény adókötelezettségét az (1)–(2) bekezdés szerinti módszer alkalmazásával.
-
-(4) Az (1)–(3) bekezdésekkel összefüggő adókötelezettségek teljesítése és azok ellenőrzése érdekében az adózó és az érintett kapcsolt vállalkozásának minősülő (egy vagy több) pénzügyi intézmény külön nyilvántartást vezet.
-
-(5) Az (1) bekezdés szerinti adózó az adóévi adózás előtti eredményét köteles megnövelni az elengedési kedvezményből az (1)–(4) bekezdés szerinti, a társasági adó csökkentéseként elszámolt rész összegével a beszámítás adóévében.
-
-(6) Az (1) bekezdés szerint elengedett tartozás teljes összegére annuitásos törlesztési ütemezéssel a teljes futamidőre kiszámított, de az elengedés miatt esedékessé már nem váló kamat- és kamatjellegű bevétel 50 százaléka csökkenti az adózó által a 2016. adóévére fizetendő társasági adót, pénzügyi szervezetek különadóját, hitelintézeti különadót, pénzügyi tranzakciós illetéket. Az adócsökkentés alapjául szolgáló számított, de az adózás előtti eredmény javára el nem számolható kamat- és kamatjellegű bevétel megállapításánál a fogyasztói tartozásból figyelmen kívül kell hagyni azt a részt, amely már az elengedés napját megelőző napon 90 napon túl késedelmes volt. Az e bekezdés szerinti csökkentés összegét úgy kell meghatározni, mintha a fogyasztó elengedés hiányában a szerződést az elengedés napját megelőző napon hatályos szerződési feltételek (ideértve különösen a kamatlábat) szerint, azonban annuitásos kamatszámítással és a 2015. évi CXLV. törvény 11. § (3) bekezdése alapján meghatározott futamidővel szerződésszerűen teljesítette volna.
-
-(7) A (6) bekezdés szerinti adócsökkentésre a (2)–(4) bekezdésben foglalt rendelkezések megfelelően irányadók azzal az eltéréssel, hogy az adózó vagy kapcsolt vállalkozásának minősülő pénzügyi intézmény utoljára abban az adóévben érvényesítheti e csökkentést, amelynek első napja 2018-ban van.
-
-(8) A 2015. évi CXLV. törvény 12. § (1) bekezdésének és 16. §-ának végrehajtása érdekében az adózó által vagy a Magyar Nemzeti Bank partnerkörébe tartozó hitelintézet vagy ernyőbank által a Magyar Nemzeti Banktól – az adózó vagy a Magyar Nemzeti Bank partnerkörébe tartozó hitelintézet vagy ernyőbank és a Magyar Nemzeti Bank között létrejött szerződésben 2015. december 1-ig rögzített feltételekkel – megszerzett deviza árfolyamának változása miatt az adózónál keletkező veszteségből (az elengedés adóévének adózás előtti eredménye terhére elszámolt összegből) az a rész, amely annak következménye, hogy a forintra történő átváltást követően előálló, az érintett fogyasztói kölcsönszerződések könyv szerinti értéken számításba vett állománya több mint 2 százaléka tekintetében a fogyasztó a törvényben előírt határidőn belül írásban kezdeményezte a devizaalapú kölcsönszerződés forintra történő átváltását célzó szerződésmódosítás mellőzését, csökkenti az adózó által az (1) bekezdés szerinti adóévre fizetendő társasági adót, pénzügyi szervezetek különadóját, hitelintézeti különadót, pénzügyi tranzakciós illetéket. Az adózó e csökkentési lehetőséget az említett adók tekintetében a döntése szerinti megosztásban érvényesítheti, vagy dönthet arról is, hogy teljes összegét egyetlen adó tekintetében számolja el. Amennyiben az adózó döntése arra irányul, hogy az adott adókötelezettséget a lehető legnagyobb mértékben csökkentse, akkor ezt az önellenőrzés és az adóellenőrzés során is figyelembe veheti. Az érintett fogyasztók meghatározásánál az adóstársakat egy fogyasztónak kell tekinteni.
-
-(9) A (8) bekezdés szerinti adócsökkentésre a (2)–(5) bekezdésben foglalt rendelkezések megfelelően irányadók azzal az eltéréssel, hogy az adózó vagy a kapcsolt vállalkozásának minősülő (egy vagy több) pénzügyi intézmény utoljára abban az adóévben érvényesítheti e csökkentést, amelynek első napja 2018-ban van.
-
-(10) Az adózó és a kapcsolt vállalkozásának minősülő pénzügyi intézmény az (1)–(9) bekezdésekben foglalt rendelkezések szerinti csökkentés adóévi várható összegéről az állami adóhatóság által e célra rendszeresített külön nyomtatványon vagy elektronikus úton legkésőbb az adóév március 31-ig – a bejelentés időpontjában ismert információk alapján – adatot szolgáltat, azzal, hogy a pénzügyi szervezetek különadóját, hitelintézeti különadót, pénzügyi tranzakciós illetéket érintően az adatszolgáltatásban feltüntetett összeget a ténylegesen érvényesített csökkentés összege nem haladhatja meg.
-
-(11) A 2015. évi CXLV. törvény 12. § (1) bekezdésének és 16. §-ának végrehajtása érdekében az adózó által vagy a Magyar Nemzeti Bank partnerkörébe tartozó hitelintézet vagy ernyőbank által a Magyar Nemzeti Banktól – az adózó vagy a Magyar Nemzeti Bank partnerkörébe tartozó hitelintézet vagy ernyőbank és a Magyar Nemzeti Bank között létrejött szerződésben 2015. december 1-ig rögzített feltételekkel – megszerzett deviza árfolyamának változása miatt az adózónál keletkező nyereségből (az elengedés adóévének adózás előtti eredménye javára elszámolt összegből) azt a részt, amely annak következménye, hogy a forintra történő átváltást követően előálló, az érintett fogyasztói kölcsönszerződések könyv szerinti értéken számításba vett állománya több mint 2 százaléka tekintetében a fogyasztó a törvényben előírt határidőn belül írásban kezdeményezte a devizaalapú kölcsönszerződés forintra történő átváltását célzó szerződésmódosítás mellőzését, az adózó az (1) bekezdés szerinti adóévben a fizetendő pénzügyi tranzakciós illetéket növelő összegként megállapítja, valamint a fogyasztói visszajelzés törvényben előírt határidejét követő hónapra benyújtott pénzügyi tranzakciós illeték bevallásában bevallja, és a bevallás benyújtásának határidejéig megfizeti.
-
-(12) A 2. § (2) bekezdés g) pontjában meghatározott adózó a 2000. december 31-ig megkötött tartós adományozási szerződés alapján adott adományra vonatkozóan e törvény 2000. december 31-én hatályos rendelkezéseit alkalmazza.
-
-(13) Az adózó a 2000. december 31-ig (a 2000. december 31-én előtársaságként működő adózó az első adóévében) keletkezett negatív adóalapra a 17. § 2000. december 31-én hatályos rendelkezéseit alkalmazza, figyelemmel a 29. § (2) bekezdésére is.”
-
-28. § A Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény 16. alcíme a következő 37/A. §-sal egészül ki:
-
-„37/A. § (1) Az érvénytelenség jogkövetkezményeinek levonása során a felek fizetési kötelezettségét a bíróság – a 38. § (6) bekezdés szerinti felülvizsgált elszámolás adatainak alapul vételével – az e törvényben meghatározott elszámolási szabályok alkalmazásával állapítja meg.
-
-(2) Az elszámolás fordulónapját követően a határozathozatalig terjedő időszakban teljesített törlesztést az erre irányadó szabályok szerint a fogyasztó javára kell elszámolni.”
-
-29. § Az Fttv. a következő 6/A. alcímmel és 15/A. §-sal egészül ki:
-
-„6/A. A szerződés érvénytelensége (részleges érvénytelensége) iránti perekben alkalmazandó szabályok
-
-15/A. § (1) A fogyasztói kölcsönszerződés érvénytelenségének (részleges érvénytelenségének) megállapítása, illetve az érvénytelenség jogkövetkezményeinek levonása iránt indult és folyamatban lévő perekben e törvénynek a forintra váltást megállapító szabályait a fogyasztónak az elszámolási törvény alapján teljesített elszámolás szerint meghatározott, deviza vagy devizaalapú fogyasztói kölcsönszerződésből eredő tartozásának összegére is alkalmazni kell.
-
-(2) A fogyasztónak az elszámolás fordulónapján forintban megállapított tartozását a határozathozatalig terjedő időszakban a fogyasztó által teljesített törlesztés összege csökkenti.
-
-(3) A fogyasztói kölcsönszerződés érvényessé nyilvánítása esetén a feleknek az elszámolási törvény alapján teljesített elszámolás eredményeként meghatározott szerződéses jogait és kötelezettségeit e törvény szabályai alapján kell megállapítani.”
+#### 25–29. §
 
 30. § E törvény tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdése szerinti előzetes bejelentése megtörtént.
 
@@ -379,9 +329,3 @@ panaszt kizárólag írásban terjeszthet elő a pénzügyi intézmény felé.
 - 10. A 6. alcímben szabályozott panasztételi lehetőségre vonatkozó tájékoztatás.
 
 ### 3. melléklet a 2015. évi CXLV. törvényhez
-
-Az Szja tv. 1. számú melléklet 7. pontja a következő 7.30. alponttal egészül ki:
-
-(Egyéb indokkal adómentes:)
-
-„7.30. az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.”
