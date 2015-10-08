@@ -3147,7 +3147,13 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban – a (14) bekezdésben foglalt kivétellel – a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el. Ha a felperesnek – a (14) bekezdésben foglalt kivétellel – nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el.
 
-(14) A menedékjogról szóló törvény szerinti határon lefolytatott eljárások eredményeként az elfogadhatatlanság tárgyában hozott menekültügyi határozat bírósági felülvizsgálati eljárására a Szegedi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(14) A menedékjogról szóló törvény szerinti határon lefolytatott eljárások eredményeként az elfogadhatatlanság tárgyában hozott menekültügyi határozat bírósági felülvizsgálati eljárására
+
+- a) a – b) és c) pontban meghatározott kivétellel – Szegedi Közigazgatási és Munkaügyi Bíróság,
+- b) a Barcsi Járásbíróság illetékességi területéhez tartozó települések területén és Baranya megye területén benyújtott kérelmek tekintetében a Pécsi Közigazgatási és Munkaügyi Bíróság,
+- c) a Zala megye és Somogy megye – a Barcsi Járásbíróság illetékességi területéhez tartozó települések területének kivételével – területén benyújtott kérelmek tekintetében a Zalaegerszegi Közigazgatási és Munkaügyi Bíróság
+
+illetékes.
 
 ### Felek
 
