@@ -188,9 +188,16 @@ a büntetőeljárásról
 
 (5) A közveszély okozása (Btk. 322. §), valamint a közérdekű üzem működésének megzavarása (Btk. 323. §) esetén a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel.
 
-(6) A radioaktív anyaggal visszaélés (Btk. 250. §), nukleáris létesítmény üzemeltetésével visszaélés (Btk. 251. §), atomenergia alkalmazásával visszaélés (Btk. 252. §), a gazdasági csalás (Btk. 374. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §) – kivéve a különösen nagy vagy különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalást [Btk. 375. § (3) bekezdés a) pont, (4) bekezdés], valamint a különösen nagy vagy különösen jelentős kárt nem okozó elektronikus készpénz-helyettesítő fizetési eszközzel elkövetett információs rendszer felhasználásával elkövetett csalást [Btk. 375. § (5) bekezdés] –, a pénzhamisítás (Btk. 389. §), a pénzhamisítás elősegítése (Btk. 390. §), a bélyeghamisítás (Btk. 391. §), a költségvetést károsító bűncselekmények (Btk. XXXIX. Fejezet) – kivéve a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó költségvetési csalást [Btk. 396. § (4) bekezdés a) pont és (5) bekezdés] és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztását (Btk. 397. §) –, a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §), a gazdálkodás rendjét sértő bűncselekmények (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmények (Btk. XLII. Fejezet), a tiltott adatszerzés és az információs rendszer elleni bűncselekmények (Btk. XLIII. Fejezet) esetén a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel. Az 542/D. §-ban meghatározott bűncselekmények esetén a járásbíróság hatáskörébe tartozó ügyben a Szegedi Járásbíróság, törvényszék hatáskörébe tartozó ügyben a Szegedi Törvényszék jár el.
+(6) A radioaktív anyaggal visszaélés (Btk. 250. §), nukleáris létesítmény üzemeltetésével visszaélés (Btk. 251. §), atomenergia alkalmazásával visszaélés (Btk. 252. §), a gazdasági csalás (Btk. 374. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §) – kivéve a különösen nagy vagy különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalást [Btk. 375. § (3) bekezdés a) pont, (4) bekezdés], valamint a különösen nagy vagy különösen jelentős kárt nem okozó elektronikus készpénz-helyettesítő fizetési eszközzel elkövetett információs rendszer felhasználásával elkövetett csalást [Btk. 375. § (5) bekezdés] –, a pénzhamisítás (Btk. 389. §), a pénzhamisítás elősegítése (Btk. 390. §), a bélyeghamisítás (Btk. 391. §), a költségvetést károsító bűncselekmények (Btk. XXXIX. Fejezet) – kivéve a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó költségvetési csalást [Btk. 396. § (4) bekezdés a) pont és (5) bekezdés] és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztását (Btk. 397. §) –, a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §), a gazdálkodás rendjét sértő bűncselekmények (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmények (Btk. XLII. Fejezet), a tiltott adatszerzés és az információs rendszer elleni bűncselekmények (Btk. XLIII. Fejezet) esetén a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel. Az 542/D. §-ban meghatározott bűncselekmények esetén a járásbíróság hatáskörébe tartozó ügyben – a (6a) bekezdésben meghatározott kivétellel – a Szegedi Járásbíróság, törvényszék hatáskörébe tartozó ügyben a Szegedi Törvényszék jár el.
 
-(7) Ha a terhelt különböző bíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (5)–(6) bekezdés szerint illetékes.
+(6a) Az 542/D. §-ban meghatározott bűncselekmények esetén a járásbíróság hatáskörébe tartozó ügyben
+
+- a) a Barcsi Járásbíróság illetékességi területéhez tartozó települések területén és Baranya megye területén Pécsi Járásbíróság, törvényszék hatáskörébe tartozó ügyben a Pécsi Törvényszék,
+- b) a Zala megye, Somogy megye – a Barcsi Járásbíróság illetékességi területéhez tartozó települések területének kivételével – területén a Zalaegerszegi Járásbíróság, törvényszék hatáskörébe tartozó ügyben a Zalaegerszegi Törvényszék
+
+jár el.
+
+(7) Ha a terhelt különböző bíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (5)–(6a) bekezdés szerint illetékes.
 
 (8) Az elkövetőre illetékes bíróság illetékessége a bűnpártolóra és az orgazdára is kiterjed.
 
@@ -3931,7 +3938,7 @@ ellen.
 
 ### Az ügy áttétele, egyesítés, elkülönítés
 
-308. § (1) A tárgyalás megkezdése után áttételnek csak akkor van helye, ha az ügy elbírálása a bíróság hatáskörét meghaladja, vagy katonai büntetőeljárás hatálya alá tartozik, illetőleg a 17. § (5)–(6) bekezdése szerint az ügy elbírálására más bíróság illetékes.
+308. § (1) A tárgyalás megkezdése után áttételnek csak akkor van helye, ha az ügy elbírálása a bíróság hatáskörét meghaladja, vagy katonai büntetőeljárás hatálya alá tartozik, illetőleg a 17. § (5)–(6a) bekezdése szerint az ügy elbírálására más bíróság illetékes.
 
 (2) Az ügyeket a tárgyalás megkezdése után is egyesíteni lehet, illetve el lehet különíteni (265. §).
 
@@ -3953,7 +3960,7 @@ ellen.
 
 (3) A vád kiterjesztése esetén a bíróság a tárgyalást legalább nyolc napra a vádlott és a védő együttes indítványára elnapolja, vagy hivatalból elnapolhatja; illetőleg azt az ügyet, amelyre a vádat kiterjesztették, elkülöníti.
 
-(4) Az ügyet át kell tenni, ha a módosított vád elbírálása a bíróság hatáskörét meghaladja, – a 17. § (5), illetve (6) bekezdésére figyelemmel – más bíróság kizárólagos illetékességébe, valamint ha katonai büntetőeljárás hatálya alá tartozik.
+(4) Az ügyet át kell tenni, ha a módosított vád elbírálása a bíróság hatáskörét meghaladja, – a 17. § (5)–(6a) bekezdésére figyelemmel – más bíróság kizárólagos illetékességébe, valamint ha katonai büntetőeljárás hatálya alá tartozik.
 
 ### A vád elejtése
 

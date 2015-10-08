@@ -3364,6 +3364,8 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 (2) Ha a másik tagállamban székhellyel rendelkező biztosító fióktelepének székhely szerinti felügyeleti hatósága a biztosító tevékenységi engedélyét visszavonta és erről a Felügyeletet értesítette, a Felügyelet köteles megtenni a szükséges intézkedéseket, hogy megakadályozza az érintett biztosítót a további biztosítási tevékenység folytatásában.
 
+(2a) Ha másik tagállamban székhellyel rendelkező biztosító Magyarország területén határon átnyúló szolgáltatás vagy magyarországi fióktelepe útján végzi a tevékenységét és a tevékenységi engedélyét a székhely szerinti tagállam felügyeleti hatósága – részben vagy egészben – visszavonta, a Felügyelet – a tudomásszerzését követő három munkanapon belül – a honlapján tájékoztatót tesz közzé a tevékenységi engedélyt visszavonó döntésről.
+
 (3) Ha a fióktelep tevékenysége veszélyezteti a biztosító pénzügyi biztonságát, a székhely szerinti tagállam felügyeleti hatóságának kérésére a Felügyelet a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozhatja, illetve megtilthatja. A székhely szerinti tagállam felügyeleti hatósága az intézkedés iránti kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
 
 (4) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező biztosítónak Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a biztosítótól adatszolgáltatást kérni.

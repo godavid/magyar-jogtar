@@ -46,7 +46,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - 19. károsult: a gépjárművel okozott kár esetén kártérítésre jogosult személy vagy szervezet;
 - 20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű üzemeltetésével kapcsolatban felmerült kártérítési igényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
 - 21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában e törvény szerinti biztosítási szerződés alapján fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a biztosító tevékenységét engedélyező tagállamban felszámolási eljárás megindult;
-- 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
+- 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, és az ismeretlen gépjárművel okozott károk, valamint az e törvényben meghatározott egyéb károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
 - 23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű üzemeltetéséből eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kártérítési igények elbírálása és kielégítése e törvényben meghatározott esetekben;
 - 24. kötelezettségvállalás országa: bármely fajta gépjármű biztosítása esetén a
   - a) telephely szerinti ország, vagy
@@ -144,7 +144,11 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (4) Az üzemben tartó köteles 8 napon belül bejelenteni a biztosítónak a biztosítást igazoló okiratban feltüntetett adatok változását.
 
-10. § Ugyanarra a biztosítási időszakra vagy ugyanazon biztosítási időszak egy részére kötött további biztosítási szerződés érvénytelen.
+10. § (1) Ugyanarra a biztosítási időszakra vagy ugyanazon biztosítási időszak egy részére kötött további biztosítási szerződés érvénytelen.
+
+(2) Ha a biztosítónak kötelező gépjármű-felelősségbiztosítás művelésére vonatkozó tevékenységi engedélye visszavonásra került és a Felügyelet a visszavonásról szóló döntést vagy a Bit. 211. § (2a) bekezdésében meghatározott felügyeleti tájékoztatót a honlapján közzétette, a szerződő fél a tevékenységi engedély visszavonásával érintett szerződés megszüntetése nélkül más biztosítónál – a tevékenységi engedély visszavonására hivatkozással – új szerződést köthet. A tevékenységi engedély visszavonásával érintett szerződés – amennyiben korábban nem szűnt meg – az új szerződés kockázatviselési kezdetének napját megelőző napon megszűnik.
+
+(3) Ha a biztosítási szerződés az 5. § (2) bekezdésében foglaltak szerint a (2) bekezdés szerinti biztosítónál szűnt meg, akkor a szerződő félnek az adott biztosítási időszak hátralévő részére fedezetet nyújtó szerződés megkötésére vonatkozó ajánlatát bármelyik biztosító jogosult elfogadni.
 
 ### A gépjárműflottára kötött szerződésre alkalmazandó szabályok
 
@@ -232,6 +236,10 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 (6) A biztosító kockázatviselése a szerződés közös megegyezéssel történő megszüntetése esetén a szerződés megszűnésének időpontjában, a szerződés biztosítási időszak végére történő felmondása esetén a biztosítási időszak zárónapján szűnik meg.
 
 (7) A szerződés a 21. § (4) bekezdésében meghatározott megszűnése esetén a biztosító kockázatviselése a türelmi idő zárónapján szűnik meg.
+
+(8) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén a biztosító kockázatviselése az új szerződés kockázatviselési kezdetének napját megelőző napon megszűnik.
+
+(9) A (8) bekezdés szerinti új szerződés kockázatviselésének kezdete nem lehet korábbi, mint a tevékenységi engedély visszavonásáról szóló felügyeleti tájékoztató közzétételének napja.
 
 ### Díjfizetés
 
@@ -421,6 +429,25 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (6) Ha a Kártalanítási Számla kezelője és a biztosító között vitás az, hogy ki köteles a vétlen károsult kárát megtéríteni, a kártérítés összegét a Kártalanítási Számla kezelője megelőlegezi, és utólag a károkozó biztosítójával elszámol. A Kártalanítási Számla kezelője előlegezi meg a kártérítés összegét abban az esetben is, ha a biztosítók között vitás az, hogy ki köteles a vétlen károsult kárát megtéríteni.
 
+(6a) A Kártalanítási Számla kezelője téríti meg a – még meg nem térített – jogalapjában és összegszerűségében dokumentumokkal alátámasztott kártérítés összegét a károsultnak abban az esetben is, ha
+
+- a) Magyarországon határon átnyúló szolgáltatás keretében vagy fióktelep útján tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító – kötelező gépjármű-felelősségbiztosítás művelésére vonatkozó – tevékenységi engedélyét a székhely szerinti tagállam felügyeleti hatósága visszavonta és
+- b) az a) pontban meghatározott biztosító a kötelező gépjármű-felelősségbiztosítási szerződésen alapuló kártérítési igényeket – a székhely szerinti tagállam felügyeleti hatósága vagy a Felügyelet által megállapítottan – nem teljesíti.
+
+(6b) A (6a) bekezdésben meghatározott kártérítési összeg megtérítésére a Kártalanítási Számla kezelője akkor köteles, ha a Felügyelet a (6a) bekezdésben meghatározott feltételek fennállására vonatkozó tájékoztatóját a honlapján közzétette és a károsult a megtérítésre vonatkozó bejelentését a Felügyelet által közzétett tájékoztatóban meghatározottak szerint megtette.
+
+(6c) A kártérítési igények fennállásának, valamint jogalapjának és összegszerűségének megállapítása érdekében a (6a) bekezdés a) pontjában meghatározott biztosító a (6b) bekezdésben meghatározott tájékoztatás közzétételét követő 15 napon belül köteles a nála bejelentett, még ki nem elégített kártérítési igényekre vonatkozó adatokat és okiratokat vagy azok másolatát, valamint a károkozás időpontjában a biztosítási fedezet meglétére vonatkozó igazolást a Kártalanítási Számla kezelője részére átadni. Az adatok, okirat(másolat)ok és igazolás átadása informatikai módszerrel történik nyílt szabványoknak vagy elterjedt elektronikus formátumnak megfelelő, informatikailag olvasható formátumban.
+
+(6d) A (6b) bekezdésben meghatározott – bejelentett – megtérítési igényekkel kapcsolatban a (6a) bekezdés a) pontjában meghatározott biztosító a Kártalanítási Számla kezelője kérésére három napon belül köteles kiegészítő tájékoztatást adni.
+
+(6e) A (6c) bekezdés szerinti adatok, okirat(másolat)ok és igazolás beszerzését a Felügyelet a (6a) bekezdés a) pontjában meghatározott biztosító székhelye szerinti tagállam felügyeleti hatóságával történő felügyeleti együttműködése keretében elősegíti.
+
+(6f) A (6a) bekezdés a) pontjában meghatározott biztosító a (6c) bekezdés szerinti adatok, okirat(másolat)ok és igazolás átadásának napját követően – a (6h) bekezdésben meghatározott eset kivételével – a károsultaktól kárigényt nem fogadhat be.
+
+(6g) A (6a) bekezdésben meghatározott megtérítési kötelezettség a Kártalanítási Alap megtérítési kötelezettségének beálltával megszűnik.
+
+(6h) A (6a) bekezdésben meghatározott megtérítési kötelezettség akkor is megszűnik, ha a (6a) bekezdésben meghatározott biztosító, a kárrendezés lefolytatására feljogosított garanciaalap vagy egyéb szervezet, illetve ezek megbízottja a kárrendezési eljárást megkezdi. Ebben az esetben a Kártalanítási Számla kezelője a nála folyamatban lévő ügyek aktáit – 15 napon belül – lezárja és azokat a kárrendező részére átadja.
+
 (7) A harmadik országbeli károsult kárát a Kártalanítási Számla kezelője kizárólag akkor téríti meg, ha a károsult országában magyar állampolgár részére a baleset időpontjában hasonló esetben kártalanítás jár.
 
 (8) A 34. §-ban meghatározottaktól függetlenül a Kártalanítási Számla kezelője a károsult követelésének kielégítésével kapcsolatban felmerült összes ráfordítása és – átalányösszegben is megállapítható – költsége megtérítését követelheti:
@@ -430,6 +457,15 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - c) az ismeretlen üzemben tartó gépjárművének vezetőjétől;
 - d) az ismeretlen gépjármű vezetőjétől, amennyiben ennek személye ismert és a károkozásért felelős;
 - e) az üzemben tartótól, ha a káresemény a 26. §-ban meghatározott szünetelés ideje alatt következik be.
+
+(8a) A (6a) bekezdésben meghatározott megtérítés folytán a Kártalanítási Számlára száll át – a kötelező gépjármű-felelősségbiztosítási szerződés, továbbá magyar vagy tagállami jogszabályi rendelkezés alapján – a károsultat
+
+- a) a nem teljesítő biztosítóval szemben, továbbá
+- b) az a) pontban meghatározott biztosítóra tekintettel a kártérítésre, illetve megtérítésre kötelezett külföldi szervezettel, illetve a Kártalanítási Alappal szemben
+
+megillető minden jog és követelés.
+
+(8b) A Kártalanítási Számlát a (8a) bekezdés szerinti engedményezés következtében megillető jogok és követelések érvényesítése során a károsult a Kártalanítási Számla kezelőjével – az érvényesítéshez szükséges adatok, okiratok, igazolások, nyilatkozatok beszerzése elősegítése érdekében – együttműködni köteles.
 
 (9) A Kártalanítási Számla kezelője e törvény alapján feladatainak ellátása, illetve őt megillető igényének érvényesítése érdekében pert indíthat.
 
@@ -589,7 +625,11 @@ változás következik be.
 
 (2) Az (1) bekezdésben meghatározottak szerinti összekapcsolás útján létrejött adatállomány más célra nem használható fel és azt az eljárási feladatok elvégzése után 90 nappal törölni kell.
 
-49. § A biztosító a szerződés létrejöttétől, illetve – a 21. § (4) bekezdésében meghatározott kivétellel – megszűnésétől, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 15 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.
+49. § (1) A biztosító a szerződés létrejöttétől, illetve – a 21. § (4) bekezdésében meghatározott eset kivételével – megszűnésétől, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 15 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.
+
+(2) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén az új szerződés létrejöttéről szóló – (1) bekezdésben meghatározott – értesítés a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítést pótolja, amennyiben a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítés a kötvénynyilvántartó szervhez még nem érkezett meg.
+
+(3) A kötvénynyilvántartó szerv az (1) bekezdés szerinti megszűnésre vonatkozó adat keletkezését követő 15 napon belül informatikai rendszerén keresztül értesíti a tevékenységi engedély visszavonásával érintett biztosítót a szerződés megszűnéséről.
 
 50. § (1) A kötvénynyilvántartásban kezelt személyes adatok tekintetében az adatkezelő a kötvénynyilvántartó szerv. A kötvénynyilvántartó szerv a kötvénynyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú jogi személyt bízhat meg.
 
@@ -643,6 +683,8 @@ változás következik be.
 részére.
 
 52. § (1) A biztosító a szerződés megkötését és megszűnését, a határozatlan tartamú szerződés megújítását (biztosítási időszakok kezdő napját), továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos adatok keletkezését követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
+
+(1a) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén az új szerződés létrejöttéről szóló – (1) bekezdésben meghatározott – értesítés a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítést pótolja, amennyiben az érintett szerződés megszűnésére vonatkozó értesítés a kárnyilvántartó szervhez még nem érkezett meg.
 
 (2) A biztosító köteles a hozott kárelőzményi igazolásban szereplő – az 51. § (3)–(4) bekezdéseiben foglaltakkal összemérhető – adatokat az (1) bekezdésnek megfelelő módon a kárnyilvántartó szerv részére továbbítani.
 
@@ -856,6 +898,10 @@ vizsgálatára terjed ki.
 
 (4) Azok a biztosítók, akik a MABISZ-nak nem tagjai, a kötelező gépjármű-felelősségbiztosítási tevékenységüket az e törvény szerinti befizetésekre vonatkozó kötelezettségvállaló nyilatkozat megtételét és ennek a Felügyelet részére történő benyújtását követően kezdhetik meg.
 
+(5) A MABISZ elkülönített szervezeti egysége a Kártalanítási Számla 36. § (6a) bekezdésben meghatározott térítési kötelezettségének teljesítését a Kártalanítási Alap feladatainak az ellátásához rendelkezésre bocsátott pénzeszközök felhasználásával is biztosíthatja, a Kártalanítási Számla és a Kártalanítási Alap feladatellátásának az egyidejű ellátása mellett.
+
+(6) Ha az (5) bekezdésben meghatározottak szerint a Kártalanítási Alap feladatainak az ellátásához rendelkezésre bocsátott pénzeszközök kerültek bevonásra a 36. § (6a) bekezdésben meghatározott megtérítési kötelezettségének teljesítésére, a Kártalanítási Számla a 36. § (8a) bekezdésében meghatározott törvényi engedmény alapján a részére megtérített pénzeszközöket – elszámolás alapján – visszafizeti a Kártalanítási Alap javára olyan összegben, amilyen összegben a Kártalanítási Alapból pénzeszköz felhasználásra került.
+
 57/A. § (1) A MABISZ elkülönített szervezeti egysége – mint a Kártalanítási Számla és a Kártalanítási Alap kezelője és a Nemzeti Iroda feladatainak az ellátója – legkésőbb a tárgyévet követő január 31-ig tájékoztatja a biztosítókat a Kártalanítási Számla és a Kártalanítási Alap eredményéről.
 
 (2) Az (1) bekezdésben meghatározott tájékoztatással egyidejűleg a MABISZ elkülönített szervezeti egysége a Kártalanítási Számla és a Nemzeti Iroda részére az 57. § (1) bekezdésében meghatározott célból befizetett összegekkel, továbbá az 57. § (3) bekezdésében meghatározott célból befizetett összegekkel a biztosítók felé elszámol. A MABISZ – mint a Kártalanítási Számla kezelője – a biztosítók által beszedett fedezetlenségi díjak elszámolására – így különösen arra vonatkozóan, hogy a biztosító a fedezetlenségi díjból milyen arányban vonhatja le a beszedés miatt felmerült, a Kártalanítási Számla kezelője által meghatározott költséget – megállapodást köthet a biztosítókkal.
@@ -985,6 +1031,8 @@ vizsgálatára terjed ki.
 (2) 2014. január 1-jétől a felelős vezető feladatait – amennyiben megfelel az 56. § (5) bekezdésében meghatározott feltételeknek – a főtitkár látja el.
 
 62/C. § Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 3/A. §-ban foglaltak a 2014. március 15-én és ezt követően bekövetkezett káresemények vonatkozásában alkalmazandók.
+
+62/D. § E törvénynek a kötelező gépjármű-felelősségbiztosítással összefüggésben egyes biztosítási tárgyú törvények módosításáról szóló 2015. évi CXLVII. törvénnyel megállapított rendelkezéseit a hatálybalépéskor már folyamatban lévő ügyekre is alkalmazni kell, azzal, hogy folyamatban lévő ügy esetében a 36. § (6c) bekezdésében meghatározott átadási kötelezettséget a 36. § (6a) bekezdés a) pontjában meghatározott biztosító legkésőbb e törvény hatálybalépését követő három munkanapon belül köteles teljesíteni.
 
 ### Módosuló és hatályukat vesztő rendelkezések
 
