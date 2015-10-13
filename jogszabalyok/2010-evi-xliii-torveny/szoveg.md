@@ -432,6 +432,8 @@ jogosult.
 
 34. § (1) A minisztérium a miniszter munkaszerveként a Kormány irányítása alatt álló különös hatáskörű államigazgatási szerv.
 
+(1a) Az általános politikai koordinációt ellátó Miniszterelnöki Kabinetirodát a miniszterelnök kabinetfőnöke mint miniszter vezeti.
+
 (2) A miniszter vezeti a minisztériumot, e feladatkörében irányítja az államtitkár és a közigazgatási államtitkár tevékenységét.
 
 (3) A miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg.
@@ -674,7 +676,7 @@ helyettesíti.
 
 63. § (1) A minisztérium a miniszteri kabinetre, főosztályokra és titkárságokra, a főosztály osztályokra tagozódik, a főosztályvezető vezetése alatt álló titkárság osztályokra tagozódhat.
 
-(1a) A miniszterelnök munkáját a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő miniszterelnöki kabinet segíti.
+(1a) A miniszterelnök munkáját az általános politikai koordinációért felelős miniszter által vezetett minisztériumban működő Miniszterelnöki Programiroda segíti.
 
 (2) A szervezeti és működési szabályzat rendelkezhet úgy, hogy az államtitkár munkáját kabinet segíti.
 
@@ -686,7 +688,7 @@ helyettesíti.
 
 (3) A munkacsoport tagjait a helyettesítésükre egyébként jogosult személy helyettesítheti.
 
-65. § (1) A miniszterelnöki kabinetet a kabinetfőnök közvetlenül vezeti, akinek a tevékenységét a miniszterelnök irányítja. A miniszterelnöki kabinet e törvény keretei között – a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint – főosztályokra és osztályokra tagozódik.
+65. § (1) A Miniszterelnöki Programirodát államtitkár vezeti, akinek a tevékenységét a miniszterelnök közvetlenül irányítja. A Miniszterelnöki Programiroda e törvény keretei között – a Miniszterelnöki Kabinetiroda szervezeti és működési szabályzatában meghatározottak szerint – főosztályokra és osztályokra tagozódik.
 
 (2) A miniszteri kabinetet főosztályvezetőként a kabinetfőnök közvetlenül vezeti, akinek a tevékenységét a miniszter irányítja. Ha a kormányzati tevékenység összehangolásáért felelős miniszter egyben miniszterelnök-helyettes is, kabinetfőnöke helyettes államtitkár.
 
